@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Dec  8 17:47:14 UTC 2024
+Last updated: Sun Dec  8 18:16:21 UTC 2024
 
 ## Latest Analysis
 
-Loaded 296 incidents
-Date range: 2024-01-01 00:00:00 to 2024-12-07 17:45:02
+Loaded 298 incidents
+Date range: 2024-01-01 00:00:00 to 2024-12-07 18:15:47
 
 Incidents by source:
 source
-newsapi       196
+newsapi       198
 chicago_pd    100
 Name: count, dtype: int64
 
@@ -22,6 +22,16 @@ y Distribution](images/hourly_distribution.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### HOMICIDE on 2024-12-07 18:15
+- Location: The Times of India
+- Description: Police are hunting for the killer of insurance CEO Brian Thompson. The NYPD has a suspect but is keeping the name secret. They are tightening the net around the killer. The murder sparked outrage and celebration among some who had dealt with Thompson's compan…
+
+
+### OTHER on 2024-12-07 17:52
+- Location: Psychology Today
+- Description: In a new book, psychologist Michael Alcée challenges the narrative on OCD.
+
 
 ### DRUG RELATED on 2024-12-07 17:45
 - Location: VOA News
@@ -37,14 +47,4 @@ y Distribution](images/hourly_distribution.svg)
 - Location: PBS
 - Description: This week's fatal shooting of UnitedHealthcare CEO Brian Thompson has unleashed a wave of public feeling -- exasperation, anger, resentment, helplessness -- from Americans sharing personal stories of interactions with insurance companies, often seen as facele…
 
-
-### OTHER on 2024-12-07 17:35
-- Location: Blogs.com
-- Description: Prattville, AL removed Prattville Pride's float from the annual Christmas parade after Prattville Pride notified the city about vague threats (to throw eggs and water at the float) and asked for additional security and police presence. The mayor said the city…
-
-
-### SHOOTING on 2024-12-07 17:20
-- Location: International Business Times
-- Description: The gunman was spotted on video wearing the backpack when he entered the park the morning of the shooting but did not have it on when he exited
-
-Analysis generated at: Sun Dec  8 17:47:14 UTC 2024
+Analysis generated at: Sun Dec  8 18:16:21 UTC 2024
