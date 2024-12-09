@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Dec  9 12:27:29 UTC 2024
+Last updated: Mon Dec  9 12:45:23 UTC 2024
 
 ## Latest Analysis
 
-Loaded 400 incidents
-Date range: 2024-01-01 00:00:00 to 2024-12-08 12:20:15
+Loaded 403 incidents
+Date range: 2024-01-01 00:00:00 to 2024-12-08 12:37:09
 
 Incidents by source:
 source
-newsapi       300
+newsapi       303
 chicago_pd    100
 Name: count, dtype: int64
 
@@ -22,6 +22,21 @@ y Distribution](images/hourly_distribution.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### OTHER on 2024-12-08 12:37
+- Location: [Removed]
+- Description: [Removed]
+
+
+### OTHER on 2024-12-08 12:36
+- Location: [Removed]
+- Description: [Removed]
+
+
+### OTHER on 2024-12-08 12:33
+- Location: Freerepublic.com
+- Description: Throughout my life, no matter who has been in charge of federal or state prosecutions, there have been voices alleging some level of politicization of the law enforcement process. Mostly, those allegations have been about improper use of government resources …
+
 
 ### OTHER on 2024-12-08 12:20
 - Location: The Punch
@@ -44,19 +59,4 @@ y Distribution](images/hourly_distribution.svg)
  
  Related stories:Prosecutors close in on president, ex-defense minister...
 
-
-### OTHER on 2024-12-08 12:13
-- Location: Securityaffairs.com
-- Description: A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs are free in your email box. Enjoy a new round of the weekly SecurityAffairs newsletter, including the international press. RedLine info-s…
-
-
-### HOMICIDE on 2024-12-08 12:11
-- Location: BBC News
-- Description: The police force says a large crime scene is in place including a number of road closures.
-
-
-### HOMICIDE on 2024-12-08 12:08
-- Location: Biztoc.com
-- Description: New York Police have released new images of a person of interest in the murder of the health-insurance executive last week.
-
-Analysis generated at: Mon Dec  9 12:27:29 UTC 2024
+Analysis generated at: Mon Dec  9 12:45:23 UTC 2024
