@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Dec  9 06:19:42 UTC 2024
+Last updated: Mon Dec  9 12:27:29 UTC 2024
 
 ## Latest Analysis
 
-Loaded 362 incidents
-Date range: 2024-01-01 00:00:00 to 2024-12-08 06:10:00
+Loaded 400 incidents
+Date range: 2024-01-01 00:00:00 to 2024-12-08 12:20:15
 
 Incidents by source:
 source
-newsapi       262
+newsapi       300
 chicago_pd    100
 Name: count, dtype: int64
 
@@ -23,28 +23,40 @@ y Distribution](images/hourly_distribution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2024-12-08 06:10
-- Location: Bangkok Post
-- Description: <p>The promotional photo showed a mother affectionately hugging and kissing her daughter. The girl, around 8 years old, smiled into the camera.</p>
+### OTHER on 2024-12-08 12:20
+- Location: The Punch
+- Description: The Katsina State Police Command has foiled two separate kidnap attempts in Jibia and Faskari Local Government Areas of the state. The command also rescued 20 kidnapped victims during the operations on Saturday in these areas. Briefing newsmen on Sunday, the …
 
 
-### HOMICIDE on 2024-12-08 06:08
-- Location: CBC News
-- Description: The Edmonton police homicide unit has taken over the investigation of a sudden death of an infant in a shopping complex parking lot.
+### OTHER on 2024-12-08 12:19
+- Location: CNBC
+- Description: SKorea martial law fallout deepens...
+
+ 
+ 
+ 
+ (Second column, 2nd story, link)
+
+ 
+
+ 
+
+ 
+ Related stories:Prosecutors close in on president, ex-defense minister...
 
 
-### HOMICIDE on 2024-12-08 06:00
-- Location: Naturalnews.com
-- Description: The suspected assassin of UnitedHealthcare CEO Brian Thompson left behind shell casings that had the words “Defend,” “Deny” and “Depose” etched onto them. Thompson was shot and killed outside of the Hilton Hotel in Midtown Manhattan where he was staying aroun…
+### OTHER on 2024-12-08 12:13
+- Location: Securityaffairs.com
+- Description: A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs are free in your email box. Enjoy a new round of the weekly SecurityAffairs newsletter, including the international press. RedLine info-s…
 
 
-### HOMICIDE on 2024-12-08 06:00
-- Location: Naturalnews.com
-- Description: The CEO of UnitedHealthcare was shot yesterday outside of a high-end hotel in Midtown Manhattan in what police have described as a “brazen, targeted attack.” Brian Thompson was just leaving the Hilton Hotel at around 6:45 am ahead of a conference when he was …
+### HOMICIDE on 2024-12-08 12:11
+- Location: BBC News
+- Description: The police force says a large crime scene is in place including a number of road closures.
 
 
-### HOMICIDE on 2024-12-08 05:57
-- Location: NDTV News
-- Description: Online armchair detectives and true crime enthusiasts are refusing to provide any help as police investigate the death of UnitedHealthcare CEO.
+### HOMICIDE on 2024-12-08 12:08
+- Location: Biztoc.com
+- Description: New York Police have released new images of a person of interest in the murder of the health-insurance executive last week.
 
-Analysis generated at: Mon Dec  9 06:19:42 UTC 2024
+Analysis generated at: Mon Dec  9 12:27:29 UTC 2024
