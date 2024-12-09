@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Dec  9 12:45:23 UTC 2024
+Last updated: Mon Dec  9 18:18:53 UTC 2024
 
 ## Latest Analysis
 
-Loaded 403 incidents
-Date range: 2024-01-01 00:00:00 to 2024-12-08 12:37:09
+Loaded 471 incidents
+Date range: 2024-01-01 00:00:00 to 2024-12-08 18:13:03
 
 Incidents by source:
 source
-newsapi       303
+newsapi       371
 chicago_pd    100
 Name: count, dtype: int64
 
@@ -23,40 +23,29 @@ y Distribution](images/hourly_distribution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2024-12-08 12:37
-- Location: [Removed]
-- Description: [Removed]
+### SHOOTING on 2024-12-08 18:13
+- Location: NDTV News
+- Description: A class 10 student died by suicide after allegedly shooting himself with his father's licenced revolver at his residence in Bihar's Bhagalpur district on Sunday, police said.
 
 
-### OTHER on 2024-12-08 12:36
-- Location: [Removed]
-- Description: [Removed]
+### OTHER on 2024-12-08 18:05
+- Location: MetalSucks
+- Description: It still doesn't seem like it was that long ago.
+The post Today is the 20th Anniversary of “Dimebag” Darrell Abbott’s Passing appeared first on MetalSucks.
 
 
-### OTHER on 2024-12-08 12:33
-- Location: Freerepublic.com
-- Description: Throughout my life, no matter who has been in charge of federal or state prosecutions, there have been voices alleging some level of politicization of the law enforcement process. Mostly, those allegations have been about improper use of government resources …
+### OTHER on 2024-12-08 18:04
+- Location: Politico
+- Description: He also said: "There is no justification for violence."
 
 
-### OTHER on 2024-12-08 12:20
-- Location: The Punch
-- Description: The Katsina State Police Command has foiled two separate kidnap attempts in Jibia and Faskari Local Government Areas of the state. The command also rescued 20 kidnapped victims during the operations on Saturday in these areas. Briefing newsmen on Sunday, the …
+### HOMICIDE on 2024-12-08 17:57
+- Location: NDTV News
+- Description: A 40-year-old man allegedly committed suicide after murdering his wife and parents and attempting to kill his teenage son, police said on Sunday.
 
 
-### OTHER on 2024-12-08 12:19
-- Location: CNBC
-- Description: SKorea martial law fallout deepens...
+### OTHER on 2024-12-08 17:52
+- Location: Slate Magazine
+- Description: A report 14 months in the making—and Israel's response.
 
- 
- 
- 
- (Second column, 2nd story, link)
-
- 
-
- 
-
- 
- Related stories:Prosecutors close in on president, ex-defense minister...
-
-Analysis generated at: Mon Dec  9 12:45:23 UTC 2024
+Analysis generated at: Mon Dec  9 18:18:53 UTC 2024
