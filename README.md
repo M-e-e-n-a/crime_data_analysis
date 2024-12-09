@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Dec  9 01:49:43 UTC 2024
+Last updated: Mon Dec  9 06:19:42 UTC 2024
 
 ## Latest Analysis
 
-Loaded 321 incidents
-Date range: 2024-01-01 00:00:00 to 2024-12-08 01:42:16
+Loaded 362 incidents
+Date range: 2024-01-01 00:00:00 to 2024-12-08 06:10:00
 
 Incidents by source:
 source
-newsapi       221
+newsapi       262
 chicago_pd    100
 Name: count, dtype: int64
 
@@ -23,28 +23,28 @@ y Distribution](images/hourly_distribution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2024-12-08 01:42
-- Location: Fox News
-- Description: Sources say that the gray backpack linked to the murder of UnitedHealthcare CEO Brian Thompson contains a jacket, according to Bloomberg. NBC reported it also had Monopoly money.
+### OTHER on 2024-12-08 06:10
+- Location: Bangkok Post
+- Description: <p>The promotional photo showed a mother affectionately hugging and kissing her daughter. The girl, around 8 years old, smiled into the camera.</p>
 
 
-### OTHER on 2024-12-08 01:37
-- Location: The Times of India
-- Description: South Korea's ex-Defense Minister, Kim Yong-hyun, was arrested for his alleged involvement in President Yoon Suk Yeol's recent martial law declaration.  Yoon survived an impeachment vote but will be sidelined before stepping down.  Prosecutors are investigati…
-
-
-### HOMICIDE on 2024-12-08 01:35
-- Location: PEOPLE
-- Description: "We’re just hoping for, looking for prayers," Jazmir Tucker's family said after he was shot and killed on Nov. 28
-
-
-### HOMICIDE on 2024-12-08 01:28
+### HOMICIDE on 2024-12-08 06:08
 - Location: CBC News
-- Description: Island Lake RCMP are investigating the suspicious death of a 25-year-old man in St. Theresa Point First Nation as a homicide.
+- Description: The Edmonton police homicide unit has taken over the investigation of a sudden death of an infant in a shopping complex parking lot.
 
 
-### SHOOTING on 2024-12-08 01:20
-- Location: Thegatewaypundit.com
-- Description: Foros-funded New York Attorney General Letitia James, a radical left Marxist tyrant, and cop-hater best known for her lawfare against President Trump, announced that her Office of Special Investigation is scrutinizing two New York State Troopers to determine …
+### HOMICIDE on 2024-12-08 06:00
+- Location: Naturalnews.com
+- Description: The suspected assassin of UnitedHealthcare CEO Brian Thompson left behind shell casings that had the words “Defend,” “Deny” and “Depose” etched onto them. Thompson was shot and killed outside of the Hilton Hotel in Midtown Manhattan where he was staying aroun…
 
-Analysis generated at: Mon Dec  9 01:49:43 UTC 2024
+
+### HOMICIDE on 2024-12-08 06:00
+- Location: Naturalnews.com
+- Description: The CEO of UnitedHealthcare was shot yesterday outside of a high-end hotel in Midtown Manhattan in what police have described as a “brazen, targeted attack.” Brian Thompson was just leaving the Hilton Hotel at around 6:45 am ahead of a conference when he was …
+
+
+### HOMICIDE on 2024-12-08 05:57
+- Location: NDTV News
+- Description: Online armchair detectives and true crime enthusiasts are refusing to provide any help as police investigate the death of UnitedHealthcare CEO.
+
+Analysis generated at: Mon Dec  9 06:19:42 UTC 2024
