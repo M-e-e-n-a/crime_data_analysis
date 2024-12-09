@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Dec  8 18:16:21 UTC 2024
+Last updated: Mon Dec  9 01:05:47 UTC 2024
 
 ## Latest Analysis
 
-Loaded 298 incidents
-Date range: 2024-01-01 00:00:00 to 2024-12-07 18:15:47
+Loaded 312 incidents
+Date range: 2024-01-01 00:00:00 to 2024-12-08 01:00:46
 
 Incidents by source:
 source
-newsapi       198
+newsapi       212
 chicago_pd    100
 Name: count, dtype: int64
 
@@ -23,28 +23,31 @@ y Distribution](images/hourly_distribution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2024-12-07 18:15
-- Location: The Times of India
-- Description: Police are hunting for the killer of insurance CEO Brian Thompson. The NYPD has a suspect but is keeping the name secret. They are tightening the net around the killer. The murder sparked outrage and celebration among some who had dealt with Thompson's compan…
+### HOMICIDE on 2024-12-08 01:00
+- Location: Mediaite
+- Description: A lookalike contest for the killer of UnitedHealthcare CEO Brian Thompson was held in New York City on Saturday as the man who assassinated the executive remained at large. The New York Post reported a large crowd gathered in Manhattan’s Washington Square Par…
 
 
-### OTHER on 2024-12-07 17:52
-- Location: Psychology Today
-- Description: In a new book, psychologist Michael Alcée challenges the narrative on OCD.
-
-
-### DRUG RELATED on 2024-12-07 17:45
+### HOMICIDE on 2024-12-08 00:59
 - Location: VOA News
-- Description: SYDNEY — Australian authorities are being criticized for ruling out drug decriminalization at an international summit in Sydney this week, ignoring a call by many experts and health groups for a health care response to drug use and addiction rather than crimi…
+- Description: BOGOTA, COLOMBIA — A motorcycle loaded with explosives detonated at a police checkpoint in southwestern Colombia on Saturday, killing the driver and injuring 14 others, authorities said.
 
 
-### HOMICIDE on 2024-12-07 17:40
-- Location: The Times of India
-- Description: New York City police suspect the gunman who killed a health insurance executive may have escaped by bus.  Surveillance footage shows the masked suspect entering a Manhattan bus station after Wednesday's shooting, but he wasn't seen leaving on foot. The suspec…
+Officers had been conducting inspections in the community of Las Penas…
 
 
-### SHOOTING on 2024-12-07 17:38
-- Location: PBS
-- Description: This week's fatal shooting of UnitedHealthcare CEO Brian Thompson has unleashed a wave of public feeling -- exasperation, anger, resentment, helplessness -- from Americans sharing personal stories of interactions with insurance companies, often seen as facele…
+### SHOOTING on 2024-12-08 00:35
+- Location: Biztoc.com
+- Description: The New York Police Department says they did not find a gun inside the backpack they recovered in Central Park that potentially belonged to the person of interest in the UnitedHealthcare CEO shooting. A jacket and Monopoly money were among some of the things …
 
-Analysis generated at: Sun Dec  8 18:16:21 UTC 2024
+
+### OTHER on 2024-12-08 00:25
+- Location: Forbes
+- Description: This article explores why the U.S. healthcare system is under fire, from rising costs to inequities, and highlights the urgent need for reform.
+
+
+### OTHER on 2024-12-08 00:16
+- Location: [Removed]
+- Description: [Removed]
+
+Analysis generated at: Mon Dec  9 01:05:47 UTC 2024
