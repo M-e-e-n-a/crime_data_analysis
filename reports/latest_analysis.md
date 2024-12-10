@@ -1,10 +1,10 @@
 
-Loaded 593 incidents
-Date range: 2024-01-01 00:00:00 to 2024-12-09 12:17:35
+Loaded 600 incidents
+Date range: 2024-01-01 00:00:00 to 2024-12-09 12:43:35
 
 Incidents by source:
 source
-newsapi       493
+newsapi       500
 chicago_pd    100
 Name: count, dtype: int64
 
@@ -19,28 +19,30 @@ y Distribution](images/hourly_distribution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2024-12-09 12:17
-- Location: Newsbreak.com
-- Description: NEW YORK (Reuters) - Jen Watson, a 41-year-old mother in Federal Way, Washington, has worked for years with her doctor to find the right medications to deal with her multiple chronic illnesses, which include epilepsy and fibromyalgia.
+### OTHER on 2024-12-09 12:43
+- Location: Decrypt
+- Description: The “Operation Destabilise” was not limited to the UK and included actions taken in the Middle East, Russia, and South America.
 
 
-### OTHER on 2024-12-09 12:15
-- Location: HuffPost
-- Description: “Here is the truth: Donald Trump attempted to overturn the 2020 presidential election and seize power,” the former lawmaker said.
+### OTHER on 2024-12-09 12:37
+- Location: The Federalist
+- Description: As our most recent election demonstrated, the American people are realizing that there is indeed a misinformation crisis in America — and that the deluded, patronizing leftists are the primary culprits.
 
 
-### OTHER on 2024-12-09 12:10
-- Location: NBC News
-- Description: Donald Trump details his plans for Day 1 of his presidency.
+### OTHER on 2024-12-09 12:37
+- Location: The Federalist
+- Description: With the new treaty, Western leftists want to label anyone who publicly opposes gender ideology as an international criminal.
 
 
-### OTHER on 2024-12-09 12:10
-- Location: The Diplomat
-- Description: The arrest warrant against junta chief Min Aung Hlaing only addresses a tiny portion of the crimes committed by the Myanmar armed forces.
+### OTHER on 2024-12-09 12:37
+- Location: [Removed]
+- Description: [Removed]
 
 
-### OTHER on 2024-12-09 12:10
-- Location: Sky.com
-- Description: A section of Pan Am flight 103 which exploded over Lockerbie almost 36 years ago is being transported to the US for the trial of a man accused of making the bomb.
+### DRUG RELATED on 2024-12-09 12:32
+- Location: The BMJ
+- Description: A former UN high commissioner for human rights tells The BMJ that the war on drugs has “completely failed” and that a public health focused approach is needed
 
-Analysis generated at: Tue Dec 10 12:26:34 UTC 2024
+“The criminalisation of drugs doesn’t break dependence, but it deters people from seeking help,” sa…
+
+Analysis generated at: Tue Dec 10 12:44:38 UTC 2024
