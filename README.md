@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Dec  9 18:18:53 UTC 2024
+Last updated: Tue Dec 10 01:05:13 UTC 2024
 
 ## Latest Analysis
 
-Loaded 471 incidents
-Date range: 2024-01-01 00:00:00 to 2024-12-08 18:13:03
+Loaded 479 incidents
+Date range: 2024-01-01 00:00:00 to 2024-12-09 01:00:08
 
 Incidents by source:
 source
-newsapi       371
+newsapi       379
 chicago_pd    100
 Name: count, dtype: int64
 
@@ -23,29 +23,29 @@ y Distribution](images/hourly_distribution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2024-12-08 18:13
-- Location: NDTV News
-- Description: A class 10 student died by suicide after allegedly shooting himself with his father's licenced revolver at his residence in Bihar's Bhagalpur district on Sunday, police said.
+### OTHER on 2024-12-09 01:00
+- Location: Legalinsurrection.com
+- Description: Trump also spoke about his economic and foreign policy agendas, not backing down from using tariffs as a negotiating tool.
+The post Trump Puts Foot Down on Immigration: ‘We Have to Get Criminals Out of Our Country’ first appeared on Le·gal In·sur·rec·tion.
 
 
-### OTHER on 2024-12-08 18:05
-- Location: MetalSucks
-- Description: It still doesn't seem like it was that long ago.
-The post Today is the 20th Anniversary of “Dimebag” Darrell Abbott’s Passing appeared first on MetalSucks.
+### SHOOTING on 2024-12-09 00:56
+- Location: CBC News
+- Description: One person was taken to hospital with life-threatening injuries after being shot in Toronto’s east end Sunday evening.
 
 
-### OTHER on 2024-12-08 18:04
-- Location: Politico
-- Description: He also said: "There is no justification for violence."
+### OTHER on 2024-12-09 00:49
+- Location: NBC News
+- Description: Effort to impeach South Korea's president fail. Jay-Z is accused of rape along with Diddy in a lawsuit. Notre Dame reopens. And the end of the Eras tour.
 
 
-### HOMICIDE on 2024-12-08 17:57
-- Location: NDTV News
-- Description: A 40-year-old man allegedly committed suicide after murdering his wife and parents and attempting to kill his teenage son, police said on Sunday.
+### SHOOTING on 2024-12-09 00:49
+- Location: NBC News
+- Description: New York City police were searching the waters of Central Park as authorities continue their investigation into the fatal shooting of UnitedHealthcare CEO Brian Thompson, according to sources.
 
 
-### OTHER on 2024-12-08 17:52
-- Location: Slate Magazine
-- Description: A report 14 months in the making—and Israel's response.
+### HOMICIDE on 2024-12-09 00:27
+- Location: Freerepublic.com
+- Description: "you've probably already seen this in the news the shooting that happened in akan Ohio on Thanksgiving Day where police officer using a rifle shot and killed a 15-year-old High School freshman later ided as jasmir Tucker this is what they said happened police…
 
-Analysis generated at: Mon Dec  9 18:18:53 UTC 2024
+Analysis generated at: Tue Dec 10 01:05:13 UTC 2024
