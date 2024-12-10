@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Dec 10 01:05:13 UTC 2024
+Last updated: Tue Dec 10 01:48:08 UTC 2024
 
 ## Latest Analysis
 
-Loaded 479 incidents
-Date range: 2024-01-01 00:00:00 to 2024-12-09 01:00:08
+Loaded 484 incidents
+Date range: 2024-01-01 00:00:00 to 2024-12-09 01:28:39
 
 Incidents by source:
 source
-newsapi       379
+newsapi       384
 chicago_pd    100
 Name: count, dtype: int64
 
@@ -23,29 +23,29 @@ y Distribution](images/hourly_distribution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2024-12-09 01:00
-- Location: Legalinsurrection.com
-- Description: Trump also spoke about his economic and foreign policy agendas, not backing down from using tariffs as a negotiating tool.
-The post Trump Puts Foot Down on Immigration: ‘We Have to Get Criminals Out of Our Country’ first appeared on Le·gal In·sur·rec·tion.
+### HOMICIDE on 2024-12-09 01:28
+- Location: New Zealand Herald
+- Description: The young boy died in Whakatāne Hospital following an alleged assault last month.
 
 
-### SHOOTING on 2024-12-09 00:56
-- Location: CBC News
-- Description: One person was taken to hospital with life-threatening injuries after being shot in Toronto’s east end Sunday evening.
+### OTHER on 2024-12-09 01:24
+- Location: NDTV News
+- Description: The Supreme Court will hear a petition today that seeks reopening of highways, including the Shambhu border, that have been blocked by protesting farmers.
 
 
-### OTHER on 2024-12-09 00:49
-- Location: NBC News
-- Description: Effort to impeach South Korea's president fail. Jay-Z is accused of rape along with Diddy in a lawsuit. Notre Dame reopens. And the end of the Eras tour.
+### HOMICIDE on 2024-12-09 01:14
+- Location: Breitbart News
+- Description: The backpack believed to belong to UnitedHealthcare CEO Brian Thompson's killer was found in Central Park Friday and contained Monopoly money, according to sources via ABC News.
+The post Sources: Backpack Believed to Belong to UnitedHealthcare’s Killer Contai…
 
 
-### SHOOTING on 2024-12-09 00:49
-- Location: NBC News
-- Description: New York City police were searching the waters of Central Park as authorities continue their investigation into the fatal shooting of UnitedHealthcare CEO Brian Thompson, according to sources.
+### OTHER on 2024-12-09 01:12
+- Location: Forbes
+- Description: Making the biggest opening for an Indian film, Allu Arjun's 'Pushpa 2: The Rule' is racing fast towards the $80 million-mark at the global box office.
 
 
-### HOMICIDE on 2024-12-09 00:27
-- Location: Freerepublic.com
-- Description: "you've probably already seen this in the news the shooting that happened in akan Ohio on Thanksgiving Day where police officer using a rifle shot and killed a 15-year-old High School freshman later ided as jasmir Tucker this is what they said happened police…
+### HOMICIDE on 2024-12-09 01:07
+- Location: The Times of India
+- Description: A Good Samaritan's act turned into a murder investigation in Delhi. Mohammed Amir brought an injured man to the hospital, claiming they found him on the road. Police investigation, using CCTV footage, revealed a planned attack by Amir and two accomplices, Soh…
 
-Analysis generated at: Tue Dec 10 01:05:13 UTC 2024
+Analysis generated at: Tue Dec 10 01:48:08 UTC 2024
