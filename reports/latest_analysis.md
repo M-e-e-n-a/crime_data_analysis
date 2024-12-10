@@ -1,10 +1,10 @@
 
-Loaded 484 incidents
-Date range: 2024-01-01 00:00:00 to 2024-12-09 01:28:39
+Loaded 523 incidents
+Date range: 2024-01-01 00:00:00 to 2024-12-09 06:13:02
 
 Incidents by source:
 source
-newsapi       384
+newsapi       423
 chicago_pd    100
 Name: count, dtype: int64
 
@@ -19,29 +19,33 @@ y Distribution](images/hourly_distribution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2024-12-09 01:28
+### ASSAULT on 2024-12-09 06:13
+- Location: Al Jazeera English
+- Description: Prime Minister Anthony Albanese announces task force as police say they are treating attack as 'terrorism'.
+
+
+### OTHER on 2024-12-09 06:08
+- Location: Freerepublic.com
+- Description: A Connecticut school resource officer committed suicide shortly after he was arrested by his own department for allegedly luring a minor. Ryan Moan, 33, of Coventry, was arrested on Friday and charged with risk of injury/impairing the morals of a child, entic…
+
+
+### OTHER on 2024-12-09 06:04
 - Location: New Zealand Herald
-- Description: The young boy died in Whakatāne Hospital following an alleged assault last month.
+- Description: Two participants who absconded have been arrested after going missing for days.
 
 
-### OTHER on 2024-12-09 01:24
-- Location: NDTV News
-- Description: The Supreme Court will hear a petition today that seeks reopening of highways, including the Shambhu border, that have been blocked by protesting farmers.
+### OTHER on 2024-12-09 06:01
+- Location: Autocar
+- Description: There have been 80 million ANPR camera readings every day in the UK in 2024 – three times 2018 levels
 
 
-### HOMICIDE on 2024-12-09 01:14
-- Location: Breitbart News
-- Description: The backpack believed to belong to UnitedHealthcare CEO Brian Thompson's killer was found in Central Park Friday and contained Monopoly money, according to sources via ABC News.
-The post Sources: Backpack Believed to Belong to UnitedHealthcare’s Killer Contai…
+Transport for London last year issued 36,794 fines to cars with cloned numberplates
+
+Numberplate cloning in the UK has risen sharply as criminals look to a…
 
 
-### OTHER on 2024-12-09 01:12
-- Location: Forbes
-- Description: Making the biggest opening for an Indian film, Allu Arjun's 'Pushpa 2: The Rule' is racing fast towards the $80 million-mark at the global box office.
+### OTHER on 2024-12-09 05:58
+- Location: ABC News
+- Description: People with substance use disorder are not getting a direct say on how most opioid settlement money is used
 
-
-### HOMICIDE on 2024-12-09 01:07
-- Location: The Times of India
-- Description: A Good Samaritan's act turned into a murder investigation in Delhi. Mohammed Amir brought an injured man to the hospital, claiming they found him on the road. Police investigation, using CCTV footage, revealed a planned attack by Amir and two accomplices, Soh…
-
-Analysis generated at: Tue Dec 10 01:48:08 UTC 2024
+Analysis generated at: Tue Dec 10 06:19:15 UTC 2024
