@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Dec 10 12:44:38 UTC 2024
+Last updated: Tue Dec 10 18:18:45 UTC 2024
 
 ## Latest Analysis
 
-Loaded 600 incidents
-Date range: 2024-01-01 00:00:00 to 2024-12-09 12:43:35
+Loaded 700 incidents
+Date range: 2024-01-01 00:00:00 to 2024-12-09 18:17:13
 
 Incidents by source:
 source
-newsapi       500
+newsapi       600
 chicago_pd    100
 Name: count, dtype: int64
 
@@ -23,30 +23,30 @@ y Distribution](images/hourly_distribution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2024-12-09 12:43
-- Location: Decrypt
-- Description: The “Operation Destabilise” was not limited to the UK and included actions taken in the Middle East, Russia, and South America.
+### OTHER on 2024-12-09 18:17
+- Location: International Business Times
+- Description: Brian Thompson, 50, was in New York City for the company's annual investors meeting when he was ambushed.
 
 
-### OTHER on 2024-12-09 12:37
-- Location: The Federalist
-- Description: As our most recent election demonstrated, the American people are realizing that there is indeed a misinformation crisis in America — and that the deluded, patronizing leftists are the primary culprits.
+### DRUG RELATED on 2024-12-09 18:16
+- Location: Boston Herald
+- Description: Less than $1 in $7 is overseen by boards that reserve at least one seat for someone who is using or has used drugs, though some places where it’s not required may have such members anyway.
 
 
-### OTHER on 2024-12-09 12:37
-- Location: The Federalist
-- Description: With the new treaty, Western leftists want to label anyone who publicly opposes gender ideology as an international criminal.
+### HOMICIDE on 2024-12-09 18:15
+- Location: New York Post
+- Description: The person of interest identified in the killing of UnitedHealthcare CEO Brian Thompson is an anti-capitalist former Ivy League student — who liked online quotes from “Unabomber’’ Ted Kaczynski raging against the country’s medical community. Tech whiz Luigi M…
 
 
-### OTHER on 2024-12-09 12:37
-- Location: [Removed]
-- Description: [Removed]
+### HOMICIDE on 2024-12-09 18:14
+- Location: Protothema.gr
+- Description: These are the individuals who had been detained earlier in the morning - According to initial reports, the perpetrators are Turkish nationals, as were the victims - They had sought asylum in Greece, and at least two more individuals are being sought
+The post …
 
 
-### DRUG RELATED on 2024-12-09 12:32
-- Location: The BMJ
-- Description: A former UN high commissioner for human rights tells The BMJ that the war on drugs has “completely failed” and that a public health focused approach is needed
+### SHOOTING on 2024-12-09 18:14
+- Location: Bossip
+- Description: George Floyd protester LaToya Ratlieff awarded $2 million lawsuit settlement for being shot in eye by Florida police
+The post Blue Faces: George Floyd Protester Receives $2 Million Settlement For Being Shot In Eye By Police appeared first on Bossip.
 
-“The criminalisation of drugs doesn’t break dependence, but it deters people from seeking help,” sa…
-
-Analysis generated at: Tue Dec 10 12:44:38 UTC 2024
+Analysis generated at: Tue Dec 10 18:18:45 UTC 2024
