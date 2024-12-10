@@ -1,10 +1,10 @@
 
-Loaded 523 incidents
-Date range: 2024-01-01 00:00:00 to 2024-12-09 06:13:02
+Loaded 593 incidents
+Date range: 2024-01-01 00:00:00 to 2024-12-09 12:17:35
 
 Incidents by source:
 source
-newsapi       423
+newsapi       493
 chicago_pd    100
 Name: count, dtype: int64
 
@@ -19,33 +19,28 @@ y Distribution](images/hourly_distribution.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2024-12-09 06:13
-- Location: Al Jazeera English
-- Description: Prime Minister Anthony Albanese announces task force as police say they are treating attack as 'terrorism'.
+### OTHER on 2024-12-09 12:17
+- Location: Newsbreak.com
+- Description: NEW YORK (Reuters) - Jen Watson, a 41-year-old mother in Federal Way, Washington, has worked for years with her doctor to find the right medications to deal with her multiple chronic illnesses, which include epilepsy and fibromyalgia.
 
 
-### OTHER on 2024-12-09 06:08
-- Location: Freerepublic.com
-- Description: A Connecticut school resource officer committed suicide shortly after he was arrested by his own department for allegedly luring a minor. Ryan Moan, 33, of Coventry, was arrested on Friday and charged with risk of injury/impairing the morals of a child, entic…
+### OTHER on 2024-12-09 12:15
+- Location: HuffPost
+- Description: “Here is the truth: Donald Trump attempted to overturn the 2020 presidential election and seize power,” the former lawmaker said.
 
 
-### OTHER on 2024-12-09 06:04
-- Location: New Zealand Herald
-- Description: Two participants who absconded have been arrested after going missing for days.
+### OTHER on 2024-12-09 12:10
+- Location: NBC News
+- Description: Donald Trump details his plans for Day 1 of his presidency.
 
 
-### OTHER on 2024-12-09 06:01
-- Location: Autocar
-- Description: There have been 80 million ANPR camera readings every day in the UK in 2024 – three times 2018 levels
+### OTHER on 2024-12-09 12:10
+- Location: The Diplomat
+- Description: The arrest warrant against junta chief Min Aung Hlaing only addresses a tiny portion of the crimes committed by the Myanmar armed forces.
 
 
-Transport for London last year issued 36,794 fines to cars with cloned numberplates
+### OTHER on 2024-12-09 12:10
+- Location: Sky.com
+- Description: A section of Pan Am flight 103 which exploded over Lockerbie almost 36 years ago is being transported to the US for the trial of a man accused of making the bomb.
 
-Numberplate cloning in the UK has risen sharply as criminals look to a…
-
-
-### OTHER on 2024-12-09 05:58
-- Location: ABC News
-- Description: People with substance use disorder are not getting a direct say on how most opioid settlement money is used
-
-Analysis generated at: Tue Dec 10 06:19:15 UTC 2024
+Analysis generated at: Tue Dec 10 12:26:34 UTC 2024
