@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Dec 11 12:26:27 UTC 2024
+Last updated: Wed Dec 11 12:44:00 UTC 2024
 
 ## Latest Analysis
 
-Loaded 964 incidents
-Date range: 2024-01-01 00:00:00 to 2024-12-10 12:25:24
+Loaded 979 incidents
+Date range: 2024-01-01 00:00:00 to 2024-12-10 12:40:22
 
 Incidents by source:
 source
-newsapi       864
+newsapi       879
 chicago_pd    100
 Name: count, dtype: int64
 
@@ -23,28 +23,29 @@ y Distribution](images/hourly_distribution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2024-12-10 12:25
+### HOMICIDE on 2024-12-10 12:40
+- Location: TMZ
+- Description: Suspected UnitedHealthCare CEO killer had his own debilitating health issues — and even needed surgery to try to alleviate his pain, according to a new report. CNN interviewed a friend of Luigi Mangione — the man charged with the murder of top…
+
+
+### HOMICIDE on 2024-12-10 12:38
+- Location: Biztoc.com
+- Description: By Kanishka Singh
+WASHINGTON (Reuters) - Google on Monday removed derogatory reviews about McDonald's after the suspect in the killing of UnitedHealth executive Brian Thompson was arrested at its restaurant in Altoona, Pennsylvania, where police say a custome…
+
+
+### OTHER on 2024-12-10 12:38
 - Location: Newsweek
-- Description: One X, formerly Twitter, user suggested that authorities "know more about Luigi Mangione" than they do about "Trump's failed assassin."
+- Description: Luigi Mangione's resume and LinkedIn profile show that he had two Ivy League degrees, and worked on the popular computer game "Civ VI."
 
 
-### OTHER on 2024-12-10 12:23
-- Location: The Federalist
-- Description: Even Joe Biden, who nominated Garland, appears to have caught onto the fact that Garland's DOJ is infected with partisan corruption.
+### OTHER on 2024-12-10 12:37
+- Location: [Removed]
+- Description: [Removed]
 
 
-### HOMICIDE on 2024-12-10 12:23
-- Location: The Truth About Guns
-- Description: The arrest of Luigi Mangione, suspected in the brazen killing of UnitedHealthcare CEO Brian Thompson, is certain to bring renewed scrutiny to the debate over restricting the capabilities of 3D printers to make so-called “ghost guns.” Mangione, apprehended Mon…
+### OTHER on 2024-12-10 12:37
+- Location: Fox News
+- Description: Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.
 
-
-### OTHER on 2024-12-10 12:22
-- Location: The Star Online
-- Description: SHAH ALAM: Ninety-four individuals will receive state awards, honours and medals in conjunction with the Sultan of Selangor, Sultan Sharafuddin Idris Shah's 79th birthday, on Wednesday. Read full story
-
-
-### HOMICIDE on 2024-12-10 12:18
-- Location: TODAY
-- Description: Frank Figliuzzi, former assistant director for counter-intelligence at the FBI, joins TODAY to analyze the arrest of UnitedHealthcare CEO murder suspect Luigi Mangione, breaking down the evidence found and weighing in on the online empathy for the shooter.
-
-Analysis generated at: Wed Dec 11 12:26:27 UTC 2024
+Analysis generated at: Wed Dec 11 12:44:00 UTC 2024
