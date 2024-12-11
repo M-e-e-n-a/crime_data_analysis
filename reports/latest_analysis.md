@@ -1,10 +1,10 @@
 
-Loaded 765 incidents
-Date range: 2024-01-01 00:00:00 to 2024-12-10 01:44:05
+Loaded 865 incidents
+Date range: 2024-01-01 00:00:00 to 2024-12-10 06:19:13
 
 Incidents by source:
 source
-newsapi       665
+newsapi       765
 chicago_pd    100
 Name: count, dtype: int64
 
@@ -19,29 +19,28 @@ y Distribution](images/hourly_distribution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2024-12-10 01:44
+### HOMICIDE on 2024-12-10 06:19
+- Location: Hurriyet Daily News
+- Description: A 26-year-old man was arrested and charged with murder Monday in the targeted killing of a health insurance executive on the streets of New York, along with other violations.
+
+
+### HOMICIDE on 2024-12-10 06:14
+- Location: ABC News
+- Description: Court records show New York prosecutors have charged a man with murder in the fatal shooting of UnitedHealthcare’s CEO
+
+
+### HOMICIDE on 2024-12-10 06:14
+- Location: ABC News
+- Description: Court records show New York prosecutors have charged a man with murder in the fatal shooting of UnitedHealthcare’s CEO
+
+
+### HOMICIDE on 2024-12-10 06:13
 - Location: Breitbart News
-- Description: The suspect in the murder of UnitedHealthcare CEO Brian Thompson reportedly began shaking when police approached him in Altoona, Pennsylvania, and asked if he had been in New York City.
-The post Report: Suspect in UnitedHealthcare CEO’s Murder Began Shaking W…
+- Description: Luigi Mangione, the suspect in the fatal shooting of UnitedHealthcare CEO Brian Thompson, reviewed "Unabomber" Ted Kaczynski's manifesto on the book reviews and recommendations website Goodreads, where he called Kaczynski a "prodigy," adding, "violence is nec…
 
 
-### HOMICIDE on 2024-12-10 01:41
-- Location: NDTV News
-- Description: On the night of the stabbings, the two women were sitting on the sand where they had lit a fire and were watching the full moon.
+### HOMICIDE on 2024-12-10 06:11
+- Location: Thefutoncritic.com
+- Description: TMZ exclusively speaks to three suspects who prosecutors want charged for his death, an eyewitness shares a never-before-heard firsthand account of Payne's last hours and official police documents are examined outlining what happened and who is at fault.
 
-
-### HOMICIDE on 2024-12-10 01:38
-- Location: WFTV Orlando
-- Description: Police have arrested a suspect in the brazen Manhattan killing of UnitedHealthcare’s CEO after a quick-thinking McDonald’s customer and an employee in Pennsylvania alerted authorities to a customer who was found with a weapon, mask and writings linking him to…
-
-
-### HOMICIDE on 2024-12-10 01:31
-- Location: Raw Story
-- Description: McDonald's locations in Pennsylvania have been subject to a flood of bad reviews as reviewers express outrage that an employee reportedly called in the tip that led to the arrest of the suspect in the shooting of a health insurance CEO, according to a report.…
-
-
-### HOMICIDE on 2024-12-10 01:28
-- Location: Newsbreak.com
-- Description: Fox News hosts Sandra Smith and Jeanine Pirro criticized Republican state Delegate Nino Mangione of Maryland after his cousin, Luigi Mangione, was arrested for the murder of CEO executive Brian Thompson. "Another twist in this story, this just into our newsro…
-
-Analysis generated at: Wed Dec 11 01:46:50 UTC 2024
+Analysis generated at: Wed Dec 11 06:19:20 UTC 2024
