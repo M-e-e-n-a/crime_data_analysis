@@ -1,10 +1,10 @@
 
-Loaded 700 incidents
-Date range: 2024-01-01 00:00:00 to 2024-12-09 18:17:13
+Loaded 742 incidents
+Date range: 2024-01-01 00:00:00 to 2024-12-10 01:03:32
 
 Incidents by source:
 source
-newsapi       600
+newsapi       642
 chicago_pd    100
 Name: count, dtype: int64
 
@@ -19,30 +19,30 @@ y Distribution](images/hourly_distribution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2024-12-09 18:17
-- Location: International Business Times
-- Description: Brian Thompson, 50, was in New York City for the company's annual investors meeting when he was ambushed.
+### HOMICIDE on 2024-12-10 01:03
+- Location: Biztoc.com
+- Description: Police arrest suspect in murder of UnitedHealthcare CEO, with grainy pics the only tech involved
+McDonald's worker called it in, cops swooped, found 'gun, suppressor, manifesto'
+Police in Pennsylvania have arrested a man suspected of killing the CEO of insure…
 
 
-### DRUG RELATED on 2024-12-09 18:16
-- Location: Boston Herald
-- Description: Less than $1 in $7 is overseen by boards that reserve at least one seat for someone who is using or has used drugs, though some places where it’s not required may have such members anyway.
+### ROBBERY/THEFT on 2024-12-10 01:03
+- Location: Freerepublic.com
+- Description: How much lower can the FBI sink? Just when you think this disgraceful agency has hit rock bottom, they manage to dig even deeper. This time, it’s yet another DEI hire making a total mockery of the badge. Agent Nicholas Anthony Williams has been arrested and c…
 
 
-### HOMICIDE on 2024-12-09 18:15
+### OTHER on 2024-12-10 01:02
 - Location: New York Post
-- Description: The person of interest identified in the killing of UnitedHealthcare CEO Brian Thompson is an anti-capitalist former Ivy League student — who liked online quotes from “Unabomber’’ Ted Kaczynski raging against the country’s medical community. Tech whiz Luigi M…
+- Description: San Francisco cop-hater Darcie Bell got a glimpse of her much-desired world without law enforcement this week when a brazen thief made off with a U-Haul packed full of everything she owns.
 
 
-### HOMICIDE on 2024-12-09 18:14
-- Location: Protothema.gr
-- Description: These are the individuals who had been detained earlier in the morning - According to initial reports, the perpetrators are Turkish nationals, as were the victims - They had sought asylum in Greece, and at least two more individuals are being sought
-The post …
+### HOMICIDE on 2024-12-10 01:02
+- Location: CBS News
+- Description: Officials gave an update Monday after Pennsylvania police detained a person of interest in the shooting death of UnitedHealthcare CEO Brian Thompson. Pennsylvania Gov. Josh Shapiro condemned the killing and called for a return to civil discourse in the U.S.
 
 
-### SHOOTING on 2024-12-09 18:14
-- Location: Bossip
-- Description: George Floyd protester LaToya Ratlieff awarded $2 million lawsuit settlement for being shot in eye by Florida police
-The post Blue Faces: George Floyd Protester Receives $2 Million Settlement For Being Shot In Eye By Police appeared first on Bossip.
+### ROBBERY/THEFT on 2024-12-10 01:01
+- Location: The Punch
+- Description: The Sokoto State Police Command has arrested one Austin Anthony, ‘m’,  44 years old and 32-year-old Mansur Abubakar, ’m’, for car theft in the state. The command’s spokesman, ASP Ahmed Rufai, disclosed this in a statement made available on Monday. The stateme…
 
-Analysis generated at: Tue Dec 10 18:18:45 UTC 2024
+Analysis generated at: Wed Dec 11 01:04:08 UTC 2024
