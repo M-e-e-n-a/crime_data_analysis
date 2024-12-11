@@ -1,10 +1,10 @@
 
-Loaded 865 incidents
-Date range: 2024-01-01 00:00:00 to 2024-12-10 06:19:13
+Loaded 964 incidents
+Date range: 2024-01-01 00:00:00 to 2024-12-10 12:25:24
 
 Incidents by source:
 source
-newsapi       765
+newsapi       864
 chicago_pd    100
 Name: count, dtype: int64
 
@@ -19,28 +19,28 @@ y Distribution](images/hourly_distribution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2024-12-10 06:19
-- Location: Hurriyet Daily News
-- Description: A 26-year-old man was arrested and charged with murder Monday in the targeted killing of a health insurance executive on the streets of New York, along with other violations.
+### SHOOTING on 2024-12-10 12:25
+- Location: Newsweek
+- Description: One X, formerly Twitter, user suggested that authorities "know more about Luigi Mangione" than they do about "Trump's failed assassin."
 
 
-### HOMICIDE on 2024-12-10 06:14
-- Location: ABC News
-- Description: Court records show New York prosecutors have charged a man with murder in the fatal shooting of UnitedHealthcare’s CEO
+### OTHER on 2024-12-10 12:23
+- Location: The Federalist
+- Description: Even Joe Biden, who nominated Garland, appears to have caught onto the fact that Garland's DOJ is infected with partisan corruption.
 
 
-### HOMICIDE on 2024-12-10 06:14
-- Location: ABC News
-- Description: Court records show New York prosecutors have charged a man with murder in the fatal shooting of UnitedHealthcare’s CEO
+### HOMICIDE on 2024-12-10 12:23
+- Location: The Truth About Guns
+- Description: The arrest of Luigi Mangione, suspected in the brazen killing of UnitedHealthcare CEO Brian Thompson, is certain to bring renewed scrutiny to the debate over restricting the capabilities of 3D printers to make so-called “ghost guns.” Mangione, apprehended Mon…
 
 
-### HOMICIDE on 2024-12-10 06:13
-- Location: Breitbart News
-- Description: Luigi Mangione, the suspect in the fatal shooting of UnitedHealthcare CEO Brian Thompson, reviewed "Unabomber" Ted Kaczynski's manifesto on the book reviews and recommendations website Goodreads, where he called Kaczynski a "prodigy," adding, "violence is nec…
+### OTHER on 2024-12-10 12:22
+- Location: The Star Online
+- Description: SHAH ALAM: Ninety-four individuals will receive state awards, honours and medals in conjunction with the Sultan of Selangor, Sultan Sharafuddin Idris Shah's 79th birthday, on Wednesday. Read full story
 
 
-### HOMICIDE on 2024-12-10 06:11
-- Location: Thefutoncritic.com
-- Description: TMZ exclusively speaks to three suspects who prosecutors want charged for his death, an eyewitness shares a never-before-heard firsthand account of Payne's last hours and official police documents are examined outlining what happened and who is at fault.
+### HOMICIDE on 2024-12-10 12:18
+- Location: TODAY
+- Description: Frank Figliuzzi, former assistant director for counter-intelligence at the FBI, joins TODAY to analyze the arrest of UnitedHealthcare CEO murder suspect Luigi Mangione, breaking down the evidence found and weighing in on the online empathy for the shooter.
 
-Analysis generated at: Wed Dec 11 06:19:20 UTC 2024
+Analysis generated at: Wed Dec 11 12:26:27 UTC 2024
