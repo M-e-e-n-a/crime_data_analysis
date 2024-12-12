@@ -1,10 +1,10 @@
 
-Loaded 1112 incidents
-Date range: 2024-01-01 00:00:00 to 2024-12-11 00:53:19
+Loaded 1121 incidents
+Date range: 2024-01-01 00:00:00 to 2024-12-11 01:45:12
 
 Incidents by source:
 source
-newsapi       1012
+newsapi       1021
 chicago_pd     100
 Name: count, dtype: int64
 
@@ -19,28 +19,28 @@ Distribution](images/hourly_distribution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2024-12-11 00:53
-- Location: Slashdot.org
-- Description: UnitedHealthcare CEO murder suspect Luigi Mangione charged, family breaks silenceFox News The latest on the arrest of the UnitedHealthcare CEO shooting suspectCNN White House condemns violence targeting 'corporate greed' after Luigi Mangione arrestUSA TODAY L…
+### ASSAULT on 2024-12-11 01:45
+- Location: International Business Times
+- Description: An Argentine court on Tuesday dismissed rape charges against two French international rugby players accused of assaulting a woman after playing a match in the country in July.
 
 
-### SHOOTING on 2024-12-11 00:51
-- Location: The Punch
-- Description: Forty-two-year-old Friday Emenike, Alias Ekpo, has been nabbed by the Anambra State Police Command for allegedly renting guns/weapons to criminals for their illegal operations. The Anambra State Police Command, speaking through its spokesperson, Tochukwu Iken…
+### HOMICIDE on 2024-12-11 01:43
+- Location: Freethoughtblogs.com
+- Description: … what it is ain’t exactly clear. The opening lines from the classic Vietnam war era protest song For What It’s Worth by the group Buffalo Springfield came to my mind following the killing on broad daylight in a city street in Manhattan, New York of Brian Tho…
 
 
-### OTHER on 2024-12-11 00:46
-- Location: ABC News
-- Description: The nation’s fifth most populous county has decided to limit cooperation with federal immigration authorities beyond what California law dictates, San Diego County on the border with Mexico is allying itself with jurisdictions across the country that a...
+### HOMICIDE on 2024-12-11 01:43
+- Location: Freethoughtblogs.com
+- Description: … what it is ain’t exactly clear. The opening lines from the classic Vietnam war era protest song For What It’s Worth by the group Buffalo Springfield came to my mind following the killing on broad daylight in a city street in Manhattan, New York of Brian Tho…
 
 
-### HOMICIDE on 2024-12-11 00:46
-- Location: Boston Herald
-- Description: The man accused of killing UnitedHealthcare's CEO struggled with deputies and shouted while being led into court Tuesday as new details emerged about his possible motivation behind the ambush.
+### HOMICIDE on 2024-12-11 01:37
+- Location: Freerepublic.com
+- Description: This Luigi Mangione story continues to get stranger by the day… Now today we have what is believed to be his manifesto released. More on that in just a moment. First was this strange moment where he suddenly stops and turns and shouts out to the crowd before …
 
 
-### HOMICIDE on 2024-12-11 00:46
-- Location: ABC News (AU)
-- Description: Queensland police allege a woman was killed five days before her body was found in a Townsville unit.
+### OTHER on 2024-12-11 01:27
+- Location: The Daily Caller
+- Description: Gregg Jarrett called out the CEO's alleged assassin's outburst as a "red flag," predicting his defense could be to have his mental health evaluated.
 
-Analysis generated at: Thu Dec 12 01:03:48 UTC 2024
+Analysis generated at: Thu Dec 12 01:46:20 UTC 2024
