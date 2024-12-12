@@ -1,19 +1,19 @@
 # Crime Data Analysis
-Last updated: Wed Dec 11 18:18:39 UTC 2024
+Last updated: Thu Dec 12 01:03:48 UTC 2024
 
 ## Latest Analysis
 
-Loaded 1079 incidents
-Date range: 2024-01-01 00:00:00 to 2024-12-10 18:17:57
+Loaded 1112 incidents
+Date range: 2024-01-01 00:00:00 to 2024-12-11 00:53:19
 
 Incidents by source:
 source
-newsapi       979
-chicago_pd    100
+newsapi       1012
+chicago_pd     100
 Name: count, dtype: int64
 
 Report saved to reports/latest_analysis.md
-y Distribution](images/hourly_distribution.svg)
+Distribution](images/hourly_distribution.svg)
 
 ## Source Distribution
 ![Source Distribution](images/source_distribution.svg)
@@ -23,28 +23,28 @@ y Distribution](images/hourly_distribution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2024-12-10 18:17
-- Location: [Removed]
-- Description: [Removed]
+### HOMICIDE on 2024-12-11 00:53
+- Location: Slashdot.org
+- Description: UnitedHealthcare CEO murder suspect Luigi Mangione charged, family breaks silenceFox News The latest on the arrest of the UnitedHealthcare CEO shooting suspectCNN White House condemns violence targeting 'corporate greed' after Luigi Mangione arrestUSA TODAY L…
 
 
-### HOMICIDE on 2024-12-10 18:16
-- Location: NDTV News
-- Description: A dismissed policeman allegedly killed a married woman with whom he was in a relationship after a heated argument and then buried her body behind an under-construction building in Nagpur city, police said on Tuesday.
+### SHOOTING on 2024-12-11 00:51
+- Location: The Punch
+- Description: Forty-two-year-old Friday Emenike, Alias Ekpo, has been nabbed by the Anambra State Police Command for allegedly renting guns/weapons to criminals for their illegal operations. The Anambra State Police Command, speaking through its spokesperson, Tochukwu Iken…
 
 
-### SHOOTING on 2024-12-10 18:15
-- Location: HuffPost
-- Description: The suspected shooter is a member of the wealthy, Maryland-based Mangione family.
+### OTHER on 2024-12-11 00:46
+- Location: ABC News
+- Description: The nation’s fifth most populous county has decided to limit cooperation with federal immigration authorities beyond what California law dictates, San Diego County on the border with Mexico is allying itself with jurisdictions across the country that a...
 
 
-### HOMICIDE on 2024-12-10 18:11
-- Location: Fox News
-- Description: A worker was shot dead at a USPS processing facility in Missouri City, Texas, Monday night and a co-worker has been taken into custody.
+### HOMICIDE on 2024-12-11 00:46
+- Location: Boston Herald
+- Description: The man accused of killing UnitedHealthcare's CEO struggled with deputies and shouted while being led into court Tuesday as new details emerged about his possible motivation behind the ambush.
 
 
-### HOMICIDE on 2024-12-10 18:11
-- Location: BroBible
-- Description: The family of Luigi Mangione, the suspect in the murder of UnitedHealthcare CEO Brian Thompson, has released a statement stating how “devastated” they are. The statement was issued through the suspect’s cousin, Maryland state delegate Nino Mangione. “Unfortun…
+### HOMICIDE on 2024-12-11 00:46
+- Location: ABC News (AU)
+- Description: Queensland police allege a woman was killed five days before her body was found in a Townsville unit.
 
-Analysis generated at: Wed Dec 11 18:18:39 UTC 2024
+Analysis generated at: Thu Dec 12 01:03:48 UTC 2024
