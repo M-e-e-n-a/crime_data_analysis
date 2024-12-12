@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Dec 12 06:19:43 UTC 2024
+Last updated: Thu Dec 12 12:26:37 UTC 2024
 
 ## Latest Analysis
 
-Loaded 1213 incidents
-Date range: 2024-01-01 00:00:00 to 2024-12-11 06:18:47
+Loaded 1313 incidents
+Date range: 2024-01-01 00:00:00 to 2024-12-11 12:24:00
 
 Incidents by source:
 source
-newsapi       1113
+newsapi       1213
 chicago_pd     100
 Name: count, dtype: int64
 
@@ -23,29 +23,28 @@ Distribution](images/hourly_distribution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2024-12-11 06:18
-- Location: New York Post
-- Description: “I don’t think anybody is, like, going to be crying too hard over [Thompson].”
+### OTHER on 2024-12-11 12:24
+- Location: Dazed
+- Description: The UK is arresting climate protesters are a rate three times higher than the global average and a world leader when it comes to political repression
 
 
-### OTHER on 2024-12-11 06:15
-- Location: [Removed]
-- Description: [Removed]
+### SHOOTING on 2024-12-11 12:23
+- Location: Mediatakeout.com
+- Description: NBA YoungBoy has been sentenced to 23 months in federal prison for possessing a firearm as a convicted felon following his 2020 arrest. The rapper was shooting a music video in Baton Rouge and was arrested by several other crew members. Police seized more tha…
 
 
-### OTHER on 2024-12-11 06:14
-- Location: [Removed]
-- Description: [Removed]
+### HOMICIDE on 2024-12-11 12:19
+- Location: Newsweek
+- Description: Luigi Mangione, 26, was arrested in connection with the killing of UnitedHealthcare CEO Brian Thompson.
 
 
-### HOMICIDE on 2024-12-11 06:07
-- Location: Biztoc.com
-- Description: Luigi Mangione, the suspect in the killing of UnitedHealthcare CEO Brian Thompson, is fighting his extradition to New York, where he faces a murder charge. He was denied bail during a court appearance in Pennsylvania.
-• As he entered the courtroom Tuesday, th…
+### OTHER on 2024-12-11 12:17
+- Location: Securityaffairs.com
+- Description: An alleged China-linked APT group targeted large business-to-business IT service providers in Southern Europe as part of Operation Digital Eye campaign. Between late June and mid-July 2024, a China-linked threat actor targeted major IT service providers in So…
 
 
-### OTHER on 2024-12-11 06:05
-- Location: [Removed]
-- Description: [Removed]
+### OTHER on 2024-12-11 12:14
+- Location: CBS News
+- Description: Organized crime groups preying on vulnerable companies are taking home $3.5 billion a year, a research institute warned.
 
-Analysis generated at: Thu Dec 12 06:19:43 UTC 2024
+Analysis generated at: Thu Dec 12 12:26:37 UTC 2024
