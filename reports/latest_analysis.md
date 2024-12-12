@@ -1,10 +1,10 @@
 
-Loaded 1316 incidents
-Date range: 2024-01-01 00:00:00 to 2024-12-11 12:43:42
+Loaded 1416 incidents
+Date range: 2024-01-01 00:00:00 to 2024-12-11 18:17:38
 
 Incidents by source:
 source
-newsapi       1216
+newsapi       1316
 chicago_pd     100
 Name: count, dtype: int64
 
@@ -19,28 +19,28 @@ Distribution](images/hourly_distribution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2024-12-11 12:43
-- Location: New York Post
-- Description: Ryan Borgwardt was booked into the Green Lake County Jail on Tuesday afternoon, according to the Victim Information and Notification Everyday system.
+### OTHER on 2024-12-11 18:17
+- Location: [Removed]
+- Description: [Removed]
 
 
-### SHOOTING on 2024-12-11 12:41
-- Location: Raw Story
-- Description: A national security analyst identified a "gap in the law" that should shield the family of alleged assassin Luigi Mangione from potential legal consequences.The mother of the 26-year-old suspect in the fatal shooting of United Healthcare CEO Brian Thompson fi…
+### HOMICIDE on 2024-12-11 18:14
+- Location: ABC News
+- Description: Jurors are deliberating in the trial of a man charged with killing a University of Mississippi student who was well-known in the local LGBTQ+ community
 
 
-### ROBBERY/THEFT on 2024-12-11 12:32
-- Location: Newsweek
-- Description: Shin Yong Hae, South Korea's previous defense minister was stopped from attempting suicide while in detention over last week's martial law case.
+### OTHER on 2024-12-11 18:12
+- Location: [Removed]
+- Description: [Removed]
 
 
-### OTHER on 2024-12-11 12:24
-- Location: Dazed
-- Description: The UK is arresting climate protesters are a rate three times higher than the global average and a world leader when it comes to political repression
+### OTHER on 2024-12-11 18:10
+- Location: Teen Vogue
+- Description: See all of the discarded plotlines that did not make it into official Pretty Little Liars lore — for some reason or another — as shared by author Sara Shepard.
 
 
-### SHOOTING on 2024-12-11 12:23
-- Location: Mediatakeout.com
-- Description: NBA YoungBoy has been sentenced to 23 months in federal prison for possessing a firearm as a convicted felon following his 2020 arrest. The rapper was shooting a music video in Baton Rouge and was arrested by several other crew members. Police seized more tha…
+### OTHER on 2024-12-11 18:09
+- Location: [Removed]
+- Description: [Removed]
 
-Analysis generated at: Thu Dec 12 12:44:36 UTC 2024
+Analysis generated at: Thu Dec 12 18:18:40 UTC 2024
