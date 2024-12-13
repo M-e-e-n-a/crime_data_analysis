@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Dec 13 12:42:30 UTC 2024
+Last updated: Fri Dec 13 18:18:13 UTC 2024
 
 ## Latest Analysis
 
-Loaded 1612 incidents
-Date range: 2024-01-01 00:00:00 to 2024-12-12 12:35:51
+Loaded 1712 incidents
+Date range: 2024-01-01 00:00:00 to 2024-12-12 18:17:59
 
 Incidents by source:
 source
-newsapi       1512
+newsapi       1612
 chicago_pd     100
 Name: count, dtype: int64
 
@@ -23,42 +23,28 @@ Distribution](images/hourly_distribution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2024-12-12 12:35
-- Location: The Federalist
-- Description: Americans in general want a return to law and order, but the left wants the blood of its enemies.
+### OTHER on 2024-12-12 18:17
+- Location: [Removed]
+- Description: [Removed]
 
 
-### HOMICIDE on 2024-12-12 12:30
-- Location: TODAY
-- Description: Investigators are continuing to build their case against Luigi Mangione, the man charged in the murder of UnitedHealthcare’s CEO Brian Thompson, and have reportedly gathered a notebook describing the suspected killer’s rationale. NBC’s Stephanie Gosk reports …
+### OTHER on 2024-12-12 18:12
+- Location: Independent.ie
+- Description: A cross-border organised crime gang has been smuggling multi-kilo consignments of cocaine across the border into Northern Ireland over the past two years, a court heard today.
 
 
-### HOMICIDE on 2024-12-12 12:26
-- Location: Newsweek
-- Description: Mangione, 26, was arrested on Monday and charged with the murder of UnitedHealthcare's chief executive Brian Thompson.
+### SHOOTING on 2024-12-12 18:10
+- Location: STLtoday.com
+- Description: A 15-year-old boy was shot Wednesday afternoon while sitting in a car at South 13th Street and Lasalle Lane, in the city's Peabody-Darst-Webbe neighborhood, police said.
 
 
-### HOMICIDE on 2024-12-12 12:24
-- Location: TMZ
-- Description: Accused UnitedHealthcare CEO killer Luigi Mangione went ballistic outside a Pennsylvania courthouse this week because he was "irritated" he didn't have legal representation at the time, according to his lawyer. Attorney Thomas Dickey, sat for an…
+### OTHER on 2024-12-12 18:09
+- Location: Truthout
+- Description: The criminal legal system isn’t designed to deliver justice for Jordan Neely. Here’s how we can.
 
 
-### OTHER on 2024-12-12 12:22
-- Location: Human Rights Watch
-- Description: Click to expand Image
- 
+### OTHER on 2024-12-12 18:09
+- Location: Freerepublic.com
+- Description: Executive Grant of Clemency TO ALL TO WHOM THESE PRESENTS SHALL COME, GREETING: WHEREAS SHANLIN JIN, Reg. No. 27074-509, was convicted, in the United States District Court for the Eastern District of Texas, on an indictment (Docket No. 4:21 -CR-00048- ALM-CAN…
 
-
-
- 
- 
- 
-
- 
- 
- 
- 
- Relatives of detainees outside the Tocuyito jail to protest against the arrests of those demonstrating against the announced presidential election results, Pocaterra, Venezuela, August 26, 2024. 
- © 2024 Jacinto Oliv…
-
-Analysis generated at: Fri Dec 13 12:42:30 UTC 2024
+Analysis generated at: Fri Dec 13 18:18:13 UTC 2024
