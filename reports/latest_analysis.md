@@ -1,10 +1,10 @@
 
-Loaded 1509 incidents
-Date range: 2024-01-01 00:00:00 to 2024-12-12 06:08:38
+Loaded 1609 incidents
+Date range: 2024-01-01 00:00:00 to 2024-12-12 12:24:06
 
 Incidents by source:
 source
-newsapi       1409
+newsapi       1509
 chicago_pd     100
 Name: count, dtype: int64
 
@@ -19,28 +19,42 @@ Distribution](images/hourly_distribution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2024-12-12 06:08
-- Location: NPR
-- Description: Jimmy "Jay" Lee's body has never been found, but a judge declared him dead. Jurors said they were unable to reach a verdict after over nine and a half hours of deliberation.
+### HOMICIDE on 2024-12-12 12:24
+- Location: TMZ
+- Description: Accused UnitedHealthcare CEO killer Luigi Mangione went ballistic outside a Pennsylvania courthouse this week because he was "irritated" he didn't have legal representation at the time, according to his lawyer. Attorney Thomas Dickey, sat for an…
 
 
-### ROBBERY/THEFT on 2024-12-12 06:00
+### OTHER on 2024-12-12 12:22
+- Location: Human Rights Watch
+- Description: Click to expand Image
+ 
+
+
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Relatives of detainees outside the Tocuyito jail to protest against the arrests of those demonstrating against the announced presidential election results, Pocaterra, Venezuela, August 26, 2024. 
+ © 2024 Jacinto Oliv…
+
+
+### OTHER on 2024-12-12 12:16
 - Location: BBC News
-- Description: Retailers estimate three in five shoplifted items end up being sold online.
+- Description: In some cases, victims reporting serious crimes such as rape won't see suspects tried for four years.
 
 
-### OTHER on 2024-12-12 06:00
-- Location: Naturalnews.com
-- Description: Benjamin Netanyahu, Israel’s longest-serving prime minister, faced corruption charges in Tel Aviv District Court, marking a major event in Israeli politics. Netanyahu is accused of receiving over $200,000 in gifts from a billionaire producer, among other corr…
+### HOMICIDE on 2024-12-12 12:15
+- Location: Freerepublic.com
+- Description: Within hours of his apprehension in Pennsylvania in connection with the cold-blooded murder of UnitedHealthcare CEO Brian Thompson, scads of information rolled out about the life and times of suspect Luigi Mangione, the 26-year-old man who has been accused of…
 
 
-### OTHER on 2024-12-12 06:00
-- Location: The Irish Times
-- Description: It is an absurdity that Winston Irvine missed his graduation from Maynooth with a masters in “international peacebuilding” because of a court appearance connected to the UVF bomb hoax on Simon Coveney
+### ASSAULT on 2024-12-12 12:13
+- Location: Securityaffairs.com
+- Description: Operation PowerOFF took down 27 DDoS stresser services globally, disrupting illegal platforms used for launching cyberattacks. A global law enforcement operation codenamed Operation PowerOFF disrupted 27 of the most popular platforms (including zdstresser.net…
 
-
-### HOMICIDE on 2024-12-12 06:00
-- Location: Sky.com
-- Description: A man has been arrested on suspicion of murdering an Irish schoolboy who has potentially been missing for more than two years.
-
-Analysis generated at: Fri Dec 13 06:19:28 UTC 2024
+Analysis generated at: Fri Dec 13 12:25:38 UTC 2024
