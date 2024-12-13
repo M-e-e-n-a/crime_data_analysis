@@ -1,10 +1,10 @@
 
-Loaded 1416 incidents
-Date range: 2024-01-01 00:00:00 to 2024-12-11 18:17:38
+Loaded 1438 incidents
+Date range: 2024-01-01 00:00:00 to 2024-12-12 01:04:06
 
 Incidents by source:
 source
-newsapi       1316
+newsapi       1338
 chicago_pd     100
 Name: count, dtype: int64
 
@@ -19,28 +19,28 @@ Distribution](images/hourly_distribution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2024-12-11 18:17
-- Location: [Removed]
-- Description: [Removed]
+### SHOOTING on 2024-12-12 01:04
+- Location: CBC News
+- Description: Edmonton police officers involved in the fatal shootings of two people, including an innocent bystander, were "lawfully placed and acting in the execution of their duties," according to Alberta's police watchdog.
 
 
-### HOMICIDE on 2024-12-11 18:14
-- Location: ABC News
-- Description: Jurors are deliberating in the trial of a man charged with killing a University of Mississippi student who was well-known in the local LGBTQ+ community
+### OTHER on 2024-12-12 01:00
+- Location: HuffPost
+- Description: Some social media users have expressed outrage over the phrase.
 
 
-### OTHER on 2024-12-11 18:12
-- Location: [Removed]
-- Description: [Removed]
+### HOMICIDE on 2024-12-12 00:59
+- Location: The Star Online
+- Description: NEW YORK (Reuters) - In the days since Luigi Mangione was charged with murder for gunning down a top health insurance executive, more than a thousand donations have poured into an online fundraiser for his legal defense, with messages supporting him and even …
 
 
-### OTHER on 2024-12-11 18:10
-- Location: Teen Vogue
-- Description: See all of the discarded plotlines that did not make it into official Pretty Little Liars lore — for some reason or another — as shared by author Sara Shepard.
+### HOMICIDE on 2024-12-12 00:57
+- Location: The Japan Times
+- Description: The photogenic, Ivy League-educated 26-year-old's support has seemingly only intensified since his arrest on Monday.
 
 
-### OTHER on 2024-12-11 18:09
-- Location: [Removed]
-- Description: [Removed]
+### SHOOTING on 2024-12-12 00:56
+- Location: HuffPost
+- Description: It goes a little deeper than 'our health care system is broken.'
 
-Analysis generated at: Thu Dec 12 18:18:40 UTC 2024
+Analysis generated at: Fri Dec 13 01:04:55 UTC 2024
