@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Dec 13 01:04:55 UTC 2024
+Last updated: Fri Dec 13 01:47:46 UTC 2024
 
 ## Latest Analysis
 
-Loaded 1438 incidents
-Date range: 2024-01-01 00:00:00 to 2024-12-12 01:04:06
+Loaded 1450 incidents
+Date range: 2024-01-01 00:00:00 to 2024-12-12 01:46:18
 
 Incidents by source:
 source
-newsapi       1338
+newsapi       1350
 chicago_pd     100
 Name: count, dtype: int64
 
@@ -23,28 +23,28 @@ Distribution](images/hourly_distribution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2024-12-12 01:04
-- Location: CBC News
-- Description: Edmonton police officers involved in the fatal shootings of two people, including an innocent bystander, were "lawfully placed and acting in the execution of their duties," according to Alberta's police watchdog.
+### OTHER on 2024-12-12 01:46
+- Location: Freerepublic.com
+- Description: Throughout this year, we've told you about Eithan Haim from Texas Children's Hospital (TCH). Haim, a surgeon, is also a whistleblower who exposed TCH's continued 'gender-affirming surgeries' on minors after the hospital claimed it had discontinued those proce…
 
 
-### OTHER on 2024-12-12 01:00
-- Location: HuffPost
-- Description: Some social media users have expressed outrage over the phrase.
+### OTHER on 2024-12-12 01:41
+- Location: ABC News
+- Description: UnitedHealth Group says slain CEO Brian Thompson was 'one of the good guys'go.com
 
 
-### HOMICIDE on 2024-12-12 00:59
-- Location: The Star Online
-- Description: NEW YORK (Reuters) - In the days since Luigi Mangione was charged with murder for gunning down a top health insurance executive, more than a thousand donations have poured into an online fundraiser for his legal defense, with messages supporting him and even …
+### HOMICIDE on 2024-12-12 01:36
+- Location: Biztoc.com
+- Description: The New York Police Department has issued a warning about escalating threats to healthcare executives, according to a report on Wednesday. This follows the murder of UnitedHealth Group Inc (NYSE:UNH) CEO Brian Thompson. The NYPD’s bulletin highlights the circ…
 
 
-### HOMICIDE on 2024-12-12 00:57
-- Location: The Japan Times
-- Description: The photogenic, Ivy League-educated 26-year-old's support has seemingly only intensified since his arrest on Monday.
+### HOMICIDE on 2024-12-12 01:35
+- Location: New York Post
+- Description: José de la Torre was diagnosed with a "serious illness" in June.
 
 
-### SHOOTING on 2024-12-12 00:56
-- Location: HuffPost
-- Description: It goes a little deeper than 'our health care system is broken.'
+### HOMICIDE on 2024-12-12 01:32
+- Location: Digital Journal
+- Description: Last week’s slaying of UnitedHealthcare executive Brian Thompson has brought renewed attention to the widespread dissatisfaction with the American health care system, even as prominent leaders have condemned the killing. Reports that the casings of the bullet…
 
-Analysis generated at: Fri Dec 13 01:04:55 UTC 2024
+Analysis generated at: Fri Dec 13 01:47:46 UTC 2024
