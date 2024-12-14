@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Dec 14 01:42:55 UTC 2024
+Last updated: Sat Dec 14 06:17:26 UTC 2024
 
 ## Latest Analysis
 
-Loaded 1752 incidents
-Date range: 2024-01-01 00:00:00 to 2024-12-13 01:42:23
+Loaded 1819 incidents
+Date range: 2024-01-01 00:00:00 to 2024-12-13 06:15:32
 
 Incidents by source:
 source
-newsapi       1652
+newsapi       1719
 chicago_pd     100
 Name: count, dtype: int64
 
@@ -23,29 +23,29 @@ Distribution](images/hourly_distribution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2024-12-13 01:42
-- Location: International Business Times
-- Description: Gun rights activist Rob Pincus was worried when he heard a 3D-printed "ghost gun" was found on the alleged shooter in last week's notorious murder of a US health executive in New York.
+### ASSAULT on 2024-12-13 06:15
+- Location: NDTV News
+- Description: Veteran Telugu actor Mohan Babu has issued an apology to the journalist he attacked while the latter was covering a property dispute between the actor and his son Manchu Manoj.
 
 
-### OTHER on 2024-12-13 01:41
-- Location: ABC News
-- Description: Florida woman charged for threatening health insurance company: 'Delay, deny, depose'go.com
+### ROBBERY/THEFT on 2024-12-13 06:06
+- Location: Internet
+- Description: The U.S. Department of Justice (DoJ) on Thursday announced the shutdown of an illicit marketplace called Rydox ("rydox.ru" and "rydox[.]cc") for selling stolen personal information, access devices, and other tools for conducting cybercrime and fraud.
+In tande…
 
 
-### OTHER on 2024-12-13 01:30
-- Location: Bitcoinist
-- Description: The US Department of Justice has announced the sentencing of Michael Joseph McElhiney, a Spokane resident, to over three years in federal prison for operating a fraudulent crypto investment scheme. The fraud, which spanned over a year, defrauded multiple inve…
+### OTHER on 2024-12-13 06:00
+- Location: The Irish Times
+- Description: The glory days of streaming are over, but TV has never been more unpredictable
 
 
-### HOMICIDE on 2024-12-13 01:28
-- Location: ABC News (AU)
-- Description: Pakistan's government denies the shooting deaths reported by ousted leader Imran Khan's party, while journalists on the ground reveal the roadblocks they've faced trying to uncover the true death toll.
+### ROBBERY/THEFT on 2024-12-13 06:00
+- Location: The Star Online
+- Description: An Iranian mothership? Alien activity? Overly-dedicated hobbyists? These are just a few of the theories being floated about the witness sightings of large, mysterious drones flying over New Jersey in recent weeks. Read full story
 
 
-### HOMICIDE on 2024-12-13 01:25
-- Location: Mediaite
-- Description: CNN reported on Thursday that accused UnitedHealthcare CEO killer Luigi Mangione had to choose between "chicken parmesan or a dish called pizza beans."
-The post CNN Reports Luigi Mangione Must Choose Between ‘Chicken Parmesan and a Dish Called Pizza Beans’ fi…
+### OTHER on 2024-12-13 06:00
+- Location: Naturalnews.com
+- Description: On Nov. 26, the Federal Bureau of Investigation (FBI) announced that one of the bureau’s “Most Wanted Terrorists” was finally caught by officials in the United Kingdom for bombings committed in San Francisco in 2003. Daniel Andreas San Diego, 46, is considere…
 
-Analysis generated at: Sat Dec 14 01:42:55 UTC 2024
+Analysis generated at: Sat Dec 14 06:17:26 UTC 2024
