@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Dec 13 18:18:13 UTC 2024
+Last updated: Sat Dec 14 01:02:05 UTC 2024
 
 ## Latest Analysis
 
-Loaded 1712 incidents
-Date range: 2024-01-01 00:00:00 to 2024-12-12 18:17:59
+Loaded 1737 incidents
+Date range: 2024-01-01 00:00:00 to 2024-12-13 01:00:00
 
 Incidents by source:
 source
-newsapi       1612
+newsapi       1637
 chicago_pd     100
 Name: count, dtype: int64
 
@@ -23,28 +23,31 @@ Distribution](images/hourly_distribution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2024-12-12 18:17
-- Location: [Removed]
-- Description: [Removed]
+### OTHER on 2024-12-13 01:00
+- Location: TVLine
+- Description: The Day of the Jackal wrapped up an explosive freshman season with a nail-bitingly tense finale this week — and it set the stage for Season 2, too. The finale picks up at full speed, with Charles, aka the Jackal, zooming off in a car after successfully assass…
 
 
-### OTHER on 2024-12-12 18:12
-- Location: Independent.ie
-- Description: A cross-border organised crime gang has been smuggling multi-kilo consignments of cocaine across the border into Northern Ireland over the past two years, a court heard today.
+### HOMICIDE on 2024-12-13 01:00
+- Location: The Irish Times
+- Description: Gardaí questioning man in connection with suspected murder of boy who went missing two years ago
 
 
-### SHOOTING on 2024-12-12 18:10
-- Location: STLtoday.com
-- Description: A 15-year-old boy was shot Wednesday afternoon while sitting in a car at South 13th Street and Lasalle Lane, in the city's Peabody-Darst-Webbe neighborhood, police said.
+### HOMICIDE on 2024-12-13 00:59
+- Location: Eonline.com
+- Description: A Floridian was charged with threatening an act of terrorism after allegedly ending a call to BlueCross BlueShield with "Delay, Deny, Depose," the words written on the ammo that killed Brian Thompson.
 
 
-### OTHER on 2024-12-12 18:09
-- Location: Truthout
-- Description: The criminal legal system isn’t designed to deliver justice for Jordan Neely. Here’s how we can.
+### HOMICIDE on 2024-12-13 00:50
+- Location: VOA News
+- Description: New York — The man charged with killing UnitedHealthcare CEO Brian Thompson was not a client of the medical insurer and may have targeted it because of its size and influence, a senior police official said Thursday.
 
 
-### OTHER on 2024-12-12 18:09
-- Location: Freerepublic.com
-- Description: Executive Grant of Clemency TO ALL TO WHOM THESE PRESENTS SHALL COME, GREETING: WHEREAS SHANLIN JIN, Reg. No. 27074-509, was convicted, in the United States District Court for the Eastern District of Texas, on an indictment (Docket No. 4:21 -CR-00048- ALM-CAN…
+NYPD Chief of Detectives Joseph Kenny tol…
 
-Analysis generated at: Fri Dec 13 18:18:13 UTC 2024
+
+### HOMICIDE on 2024-12-13 00:50
+- Location: Daily Beast
+- Description: NYPD’s Chief of Detectives has revealed that cops have “no indication” that Luigi Mangione was ever a client of UnitedHealthcare. The top suspect in the murder of the insurance company’s CEO, Brian Thompson, Mangione was arrested earlier this week in Pennsylv…
+
+Analysis generated at: Sat Dec 14 01:02:05 UTC 2024
