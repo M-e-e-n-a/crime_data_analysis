@@ -1,19 +1,20 @@
 # Crime Data Analysis
-Last updated: Sat Dec 14 06:17:26 UTC 2024
+Last updated: Sat Dec 14 12:23:12 UTC 2024
 
 ## Latest Analysis
 
-Loaded 1819 incidents
-Date range: 2024-01-01 00:00:00 to 2024-12-13 06:15:32
+Loaded 1920 incidents
+Date range: 2024-01-01 00:00:00 to 2024-12-24 00:00:00
 
 Incidents by source:
 source
-newsapi       1719
-chicago_pd     100
+newsapi           1819
+chicago_pd         100
+chicago_police       1
 Name: count, dtype: int64
 
 Report saved to reports/latest_analysis.md
-Distribution](images/hourly_distribution.svg)
+tribution.svg)
 
 ## Source Distribution
 ![Source Distribution](images/source_distribution.svg)
@@ -23,29 +24,28 @@ Distribution](images/hourly_distribution.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2024-12-13 06:15
-- Location: NDTV News
-- Description: Veteran Telugu actor Mohan Babu has issued an apology to the journalist he attacked while the latter was covering a property dispute between the actor and his son Manchu Manoj.
+### OFFENSE INVOLVING CHILDREN on 2024-12-24 00:00
+- Location: 009XX N CENTRAL AVE
+- Description: AGGRAVATED SEXUAL ASSAULT OF CHILD BY FAMILY MEMBER
 
 
-### ROBBERY/THEFT on 2024-12-13 06:06
-- Location: Internet
-- Description: The U.S. Department of Justice (DoJ) on Thursday announced the shutdown of an illicit marketplace called Rydox ("rydox.ru" and "rydox[.]cc") for selling stolen personal information, access devices, and other tools for conducting cybercrime and fraud.
-In tande…
+### OTHER on 2024-12-13 12:23
+- Location: The Times of India
+- Description: Allu Arjun, the star of Pushpa 2, has been sent to 14-day judicial custody following a tragic stampede incident at a theatre premiere in Hyderabad. The incident, which claimed multiple lives, has led to serious allegations against the actor. Authorities are i…
 
 
-### OTHER on 2024-12-13 06:00
+### HOMICIDE on 2024-12-13 12:17
+- Location: TODAY
+- Description: NYPD investigators believe they have a clearer picture of how Luigi Mangione, the suspect in the UnitedHealthcare CEO’s murder, evaded authorities for nearly a week and traveled from New York to Pennsylvania completely undetected. Meanwhile, officials have co…
+
+
+### OTHER on 2024-12-13 12:12
 - Location: The Irish Times
-- Description: The glory days of streaming are over, but TV has never been more unpredictable
+- Description: Gardaí say details of search are not being released ‘for operational purposes’ation
 
 
-### ROBBERY/THEFT on 2024-12-13 06:00
-- Location: The Star Online
-- Description: An Iranian mothership? Alien activity? Overly-dedicated hobbyists? These are just a few of the theories being floated about the witness sightings of large, mysterious drones flying over New Jersey in recent weeks. Read full story
+### HOMICIDE on 2024-12-13 12:12
+- Location: The Irish Times
+- Description: Gardaí continued a search of a house in Drogheda on Friday as part of the murder investigation
 
-
-### OTHER on 2024-12-13 06:00
-- Location: Naturalnews.com
-- Description: On Nov. 26, the Federal Bureau of Investigation (FBI) announced that one of the bureau’s “Most Wanted Terrorists” was finally caught by officials in the United Kingdom for bombings committed in San Francisco in 2003. Daniel Andreas San Diego, 46, is considere…
-
-Analysis generated at: Sat Dec 14 06:17:26 UTC 2024
+Analysis generated at: Sat Dec 14 12:23:12 UTC 2024
