@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Dec 15 12:39:54 UTC 2024
+Last updated: Sun Dec 15 18:16:40 UTC 2024
 
 ## Latest Analysis
 
-Loaded 2159 incidents
+Loaded 2236 incidents
 Date range: 2024-01-01 00:00:00 to 2024-12-24 00:00:00
 
 Incidents by source:
 source
-newsapi           2058
+newsapi           2135
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -29,23 +29,23 @@ tribution.svg)
 - Description: AGGRAVATED SEXUAL ASSAULT OF CHILD BY FAMILY MEMBER
 
 
-### OTHER on 2024-12-14 12:21
-- Location: Twistedsifter.com
-- Description: And just like that, a dangerous empire crumbled.
-
-
-### OTHER on 2024-12-14 12:18
-- Location: [Removed]
-- Description: [Removed]
-
-
-### OTHER on 2024-12-14 12:06
+### SHOOTING on 2024-12-14 18:16
 - Location: Freerepublic.com
-- Description: Even before Donald Trump ascends to the presidency on January 20, his appointees should ask themselves the questions that follow — all of them simple and straightforward. With Christopher Wray stepping down from the FBI directorship, they will have a much bet…
+- Description: In this explosive RAW FEED segment, Gary Franchi exposes an ongoing aerial invasion over American skies. From New Jersey to Oregon, mysterious drones are infiltrating restricted military airspace with no resistance, while the Biden administration’s response b…
 
 
-### OTHER on 2024-12-14 12:00
-- Location: Screen Rant
-- Description: Gary Larson's The Far Side is renowned for its dark humor, but some of its bleakest punchlines are actually not immediately obvious at first glance.
+### SHOOTING on 2024-12-14 18:16
+- Location: Freerepublic.com
+- Description: In this explosive RAW FEED segment, Gary Franchi exposes an ongoing aerial invasion over American skies. From New Jersey to Oregon, mysterious drones are infiltrating restricted military airspace with no resistance, while the Biden administration’s response b…
 
-Analysis generated at: Sun Dec 15 12:39:54 UTC 2024
+
+### SHOOTING on 2024-12-14 18:08
+- Location: WSB Atlanta
+- Description: Luigi Mangione: Here’s who will represent accused United Healthcare CEO shooter in courtwsbtv.com
+
+
+### HOMICIDE on 2024-12-14 18:00
+- Location: Variety
+- Description: SPOILER ALERT: This post contains spoilers from the first season of “No Good Deed,” now streaming on Netflix. In Netflix’s “No Good Deed,” home is where the homicide was, and yet that still didn’t deter the buyers of the house on Derby Drive. In the season fi…
+
+Analysis generated at: Sun Dec 15 18:16:40 UTC 2024
