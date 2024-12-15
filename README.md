@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Dec 14 18:16:27 UTC 2024
+Last updated: Sun Dec 15 01:08:56 UTC 2024
 
 ## Latest Analysis
 
-Loaded 2025 incidents
+Loaded 2043 incidents
 Date range: 2024-01-01 00:00:00 to 2024-12-24 00:00:00
 
 Incidents by source:
 source
-newsapi           1924
+newsapi           1942
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -29,23 +29,23 @@ tribution.svg)
 - Description: AGGRAVATED SEXUAL ASSAULT OF CHILD BY FAMILY MEMBER
 
 
-### SHOOTING on 2024-12-13 18:15
-- Location: ARLnow
-- Description: Arlington County police are investigating gunshots fired in the Shirlington neighborhood this morning. Several shots were fired around 2:30 a.m. Friday inside one of the neighborhood's parking garages, on S. Randolph Street. Police searched the area but could…
+### OTHER on 2024-12-14 01:07
+- Location: The Punch
+- Description: The Abia State chapter of the Peoples Democratic Party and the State Government have disagreed over the alleged plan by Governor Alex Otti to suppress opposition in the state. The PDP, in a statement signed by the State Publicity Secretary, Eric Ikwuagwu, and…
 
 
-### HOMICIDE on 2024-12-13 18:15
+### HOMICIDE on 2024-12-14 01:06
+- Location: NDTV News
+- Description: A Murshidabad court on Friday sentenced to death one person and awarded life imprisonment to another in the rape and murder of a minor girl and necrophilia in West Bengal's Farakka in October.
+
+
+### HOMICIDE on 2024-12-14 01:06
 - Location: Boston Herald
-- Description: Since the brazen shooting, health insurers have removed information about their top executives from company websites, canceled in-person meetings with shareholders and advised all employees to work from home temporarily.
+- Description: A false AI-powered headline indicating accused murderer Luigi Mangione had committed suicide is causing a row overseas.
 
 
-### OTHER on 2024-12-13 18:11
-- Location: BBC News
-- Description: Tory peer Baroness Owen accuses the government of delay, saying it has let down survivors.
+### OTHER on 2024-12-14 01:05
+- Location: Wnd.com
+- Description: 'If they can't have power and control, then they'd rather burn this country to the ground'
 
-
-### OTHER on 2024-12-13 18:10
-- Location: STLtoday.com
-- Description: Republican Mike Kehoe will be Missouri’s 58th governor.
-
-Analysis generated at: Sat Dec 14 18:16:27 UTC 2024
+Analysis generated at: Sun Dec 15 01:08:56 UTC 2024
