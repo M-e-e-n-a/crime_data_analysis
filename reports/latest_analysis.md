@@ -1,10 +1,10 @@
 
-Loaded 2043 incidents
+Loaded 2050 incidents
 Date range: 2024-01-01 00:00:00 to 2024-12-24 00:00:00
 
 Incidents by source:
 source
-newsapi           1942
+newsapi           1949
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -25,23 +25,23 @@ tribution.svg)
 - Description: AGGRAVATED SEXUAL ASSAULT OF CHILD BY FAMILY MEMBER
 
 
-### OTHER on 2024-12-14 01:07
-- Location: The Punch
-- Description: The Abia State chapter of the Peoples Democratic Party and the State Government have disagreed over the alleged plan by Governor Alex Otti to suppress opposition in the state. The PDP, in a statement signed by the State Publicity Secretary, Eric Ikwuagwu, and…
+### SHOOTING on 2024-12-14 01:50
+- Location: Fox News
+- Description: Luigi Mangione, 26, the man accused of fatally shooting UnitedHealthcare CEO Brian Thompson, is believed to have taken a train out of Manhattan, not a bus as originally thought.
 
 
-### HOMICIDE on 2024-12-14 01:06
-- Location: NDTV News
-- Description: A Murshidabad court on Friday sentenced to death one person and awarded life imprisonment to another in the rape and murder of a minor girl and necrophilia in West Bengal's Farakka in October.
+### OTHER on 2024-12-14 01:50
+- Location: BBC News
+- Description: Megan Barton-Hanson wants more people to know removing a condom during sex can be classified as rape.
 
 
-### HOMICIDE on 2024-12-14 01:06
-- Location: Boston Herald
-- Description: A false AI-powered headline indicating accused murderer Luigi Mangione had committed suicide is causing a row overseas.
+### OTHER on 2024-12-14 01:50
+- Location: BBC News
+- Description: Megan Barton-Hanson wants more people to know removing a condom during sex can be classified as rape.
 
 
-### OTHER on 2024-12-14 01:05
-- Location: Wnd.com
-- Description: 'If they can't have power and control, then they'd rather burn this country to the ground'
+### HOMICIDE on 2024-12-14 01:39
+- Location: The Times of India
+- Description: A 55-year-old chaat vendor, Rajesh Kumar, was shot dead in Lucknow following a dispute with a 60-year-old Kaliya over the placement of Rajesh's kiosk. Kaliya, known for his aggressive behavior, fled the scene after the shooting. Rajesh's family alleges police…
 
-Analysis generated at: Sun Dec 15 01:08:56 UTC 2024
+Analysis generated at: Sun Dec 15 01:52:57 UTC 2024
