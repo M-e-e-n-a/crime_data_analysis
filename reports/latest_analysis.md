@@ -1,10 +1,10 @@
 
-Loaded 2094 incidents
+Loaded 2159 incidents
 Date range: 2024-01-01 00:00:00 to 2024-12-24 00:00:00
 
 Incidents by source:
 source
-newsapi           1993
+newsapi           2058
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -25,23 +25,23 @@ tribution.svg)
 - Description: AGGRAVATED SEXUAL ASSAULT OF CHILD BY FAMILY MEMBER
 
 
-### OTHER on 2024-12-14 06:00
-- Location: BBC News
-- Description: The BBC speaks to men released from Saydnaya prison - a place known as the "human slaughterhouse".
+### OTHER on 2024-12-14 12:21
+- Location: Twistedsifter.com
+- Description: And just like that, a dangerous empire crumbled.
 
 
-### ASSAULT on 2024-12-14 06:00
-- Location: The Irish Times
-- Description: Worldview: Attacks include sabotage, assassinations, parcel bombs, cyber attacks, electoral interference, social media disinformation campaigns and the testing of military preparedness
+### OTHER on 2024-12-14 12:18
+- Location: [Removed]
+- Description: [Removed]
 
 
-### SHOOTING on 2024-12-14 05:56
-- Location: New York Post
-- Description: Investigators first thought Mangione had taken a bus out of the city because he was seen on surveillance video at the George Washington Bridge bus station.
+### OTHER on 2024-12-14 12:06
+- Location: Freerepublic.com
+- Description: Even before Donald Trump ascends to the presidency on January 20, his appointees should ask themselves the questions that follow — all of them simple and straightforward. With Christopher Wray stepping down from the FBI directorship, they will have a much bet…
 
 
-### HOMICIDE on 2024-12-14 05:23
-- Location: Sky.com
-- Description: Shocked and bruised, a survivor of a shooting at a migrant camp near Dunkirk on Saturday has told Sky News how he saw his friends murdered by "the angel of death".
+### OTHER on 2024-12-14 12:00
+- Location: Screen Rant
+- Description: Gary Larson's The Far Side is renowned for its dark humor, but some of its bleakest punchlines are actually not immediately obvious at first glance.
 
-Analysis generated at: Sun Dec 15 06:17:44 UTC 2024
+Analysis generated at: Sun Dec 15 12:23:29 UTC 2024
