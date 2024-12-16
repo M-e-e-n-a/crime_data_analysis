@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Dec 16 01:50:01 UTC 2024
+Last updated: Mon Dec 16 06:19:46 UTC 2024
 
 ## Latest Analysis
 
-Loaded 2242 incidents
+Loaded 2274 incidents
 Date range: 2024-01-01 00:00:00 to 2024-12-24 00:00:00
 
 Incidents by source:
 source
-newsapi           2141
+newsapi           2173
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -29,23 +29,23 @@ tribution.svg)
 - Description: AGGRAVATED SEXUAL ASSAULT OF CHILD BY FAMILY MEMBER
 
 
-### OTHER on 2024-12-15 01:26
-- Location: The Punch
-- Description: As the Peoples Democratic Party candidates in the recent Edo and Ondo states off-cycle governorship elections challenge the results of the polls at the election petition tribunals, IMOLEAYO OYEDEYI examines the legal hurdles before them and what may likely tr…
+### OTHER on 2024-12-15 06:16
+- Location: New York Post
+- Description: The cop accused of filming himself performing the sex act in uniform quit his job before a misconduct hearing.
 
 
-### HOMICIDE on 2024-12-15 01:13
-- Location: WPXI Pittsburgh
-- Description: The suspect in the killing of UnitedHealthcare’s CEO has added a prominent defense lawyer to his legal team as Manhattan prosecutors work to return him from Pennsylvania to face a murder charge.
+### HOMICIDE on 2024-12-15 06:03
+- Location: The Times of India
+- Description: A 24-year-old Indian woman, Harshita Brella, was found dead in a car boot in London.  Police suspect her husband, Pankaj Lamba, of murder.  Lamba was previously arrested for domestic violence against Brella. He is now believed to have fled to India. Brella's …
 
 
-### SHOOTING on 2024-12-15 01:00
-- Location: New Zealand Herald
-- Description: OPINION: Both countries view firearms as a privilege, not a right.
+### ASSAULT on 2024-12-15 06:00
+- Location: The Irish Times
+- Description: The Belfast native had to rebuild his life, which is now the subject of a stage play, after wrongly spending 15 years in jail for an IRA bomb attack
 
 
-### OTHER on 2024-12-15 00:49
-- Location: Freerepublic.com
-- Description: During an on-background telephone call today, officials from the Federal Bureau of Investigation, Department of Homeland Security, Federal Aviation Administration and the Joint Staff provided comment and answered questions from reporters about the drone sight…
+### OTHER on 2024-12-15 06:00
+- Location: [Removed]
+- Description: [Removed]
 
-Analysis generated at: Mon Dec 16 01:50:01 UTC 2024
+Analysis generated at: Mon Dec 16 06:19:46 UTC 2024
