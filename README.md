@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Dec 16 12:45:06 UTC 2024
+Last updated: Mon Dec 16 18:18:34 UTC 2024
 
 ## Latest Analysis
 
-Loaded 2329 incidents
+Loaded 2413 incidents
 Date range: 2024-01-01 00:00:00 to 2024-12-24 00:00:00
 
 Incidents by source:
 source
-newsapi           2228
+newsapi           2312
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -29,23 +29,23 @@ tribution.svg)
 - Description: AGGRAVATED SEXUAL ASSAULT OF CHILD BY FAMILY MEMBER
 
 
-### OTHER on 2024-12-15 12:34
-- Location: Al Jazeera English
-- Description: Diplomatic efforts have resolved a saga that strained relations between the two countries.
+### HOMICIDE on 2024-12-15 18:14
+- Location: CNN
+- Description: A shooting at a pop-up party in Houston left two 16-year-olds dead and three others wounded, including a 13-year-old girl, who is now in critical condition, according to authorities.
 
 
-### SHOOTING on 2024-12-15 12:30
-- Location: fox6now.com
-- Description: Three people were injured in separate shootings in Milwaukee early Sunday morning, Dec. 15.
+### HOMICIDE on 2024-12-15 18:05
+- Location: New York Post
+- Description: Three women were found dead in an Ohio home over the weekend, and cops have opened a homicide probe into the grim discovery, authorities say.
 
 
-### ASSAULT on 2024-12-15 12:09
-- Location: The Times of India
-- Description: A 32-year-old computer operator in Surat, India, severed four fingers on his left hand to escape work-related stress. He initially fabricated a story about being attacked, but later confessed to self-inflicting the injury. He felt trapped in his job due to fa…
+### OTHER on 2024-12-15 18:04
+- Location: [Removed]
+- Description: [Removed]
 
 
-### OTHER on 2024-12-15 12:03
-- Location: STLtoday.com
-- Description: The officer whose testimony led to Kurtis Watkins’ 25-year sentence had a history of racist social media posts and a mistaken identification of another Black man.
+### HOMICIDE on 2024-12-15 17:54
+- Location: Vanity Fair
+- Description: Peak Design CEO Peter Dering contacted police after recognizing the backpack during the Mangione manhunt, prompting customer backlash and threats.
 
-Analysis generated at: Mon Dec 16 12:45:06 UTC 2024
+Analysis generated at: Mon Dec 16 18:18:34 UTC 2024
