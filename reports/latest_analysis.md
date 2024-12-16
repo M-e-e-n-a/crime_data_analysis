@@ -1,10 +1,10 @@
 
-Loaded 2236 incidents
+Loaded 2240 incidents
 Date range: 2024-01-01 00:00:00 to 2024-12-24 00:00:00
 
 Incidents by source:
 source
-newsapi           2135
+newsapi           2139
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -25,23 +25,23 @@ tribution.svg)
 - Description: AGGRAVATED SEXUAL ASSAULT OF CHILD BY FAMILY MEMBER
 
 
-### SHOOTING on 2024-12-14 18:16
+### SHOOTING on 2024-12-15 01:00
+- Location: New Zealand Herald
+- Description: OPINION: Both countries view firearms as a privilege, not a right.
+
+
+### OTHER on 2024-12-15 00:49
 - Location: Freerepublic.com
-- Description: In this explosive RAW FEED segment, Gary Franchi exposes an ongoing aerial invasion over American skies. From New Jersey to Oregon, mysterious drones are infiltrating restricted military airspace with no resistance, while the Biden administration’s response b…
+- Description: During an on-background telephone call today, officials from the Federal Bureau of Investigation, Department of Homeland Security, Federal Aviation Administration and the Joint Staff provided comment and answered questions from reporters about the drone sight…
 
 
-### SHOOTING on 2024-12-14 18:16
-- Location: Freerepublic.com
-- Description: In this explosive RAW FEED segment, Gary Franchi exposes an ongoing aerial invasion over American skies. From New Jersey to Oregon, mysterious drones are infiltrating restricted military airspace with no resistance, while the Biden administration’s response b…
+### HOMICIDE on 2024-12-15 00:10
+- Location: CBC News
+- Description: A 39-year-old man has been charged with second-degree murder following the death of a woman in a waterfront neighbourhood of West Vancouver.
 
 
-### SHOOTING on 2024-12-14 18:08
-- Location: WSB Atlanta
-- Description: Luigi Mangione: Here’s who will represent accused United Healthcare CEO shooter in courtwsbtv.com
+### OTHER on 2024-12-15 00:02
+- Location: BBC News
+- Description: More than two-thirds of victims fail to get compensation due to delays to reforms, it is claimed.
 
-
-### HOMICIDE on 2024-12-14 18:00
-- Location: Variety
-- Description: SPOILER ALERT: This post contains spoilers from the first season of “No Good Deed,” now streaming on Netflix. In Netflix’s “No Good Deed,” home is where the homicide was, and yet that still didn’t deter the buyers of the house on Derby Drive. In the season fi…
-
-Analysis generated at: Sun Dec 15 18:16:40 UTC 2024
+Analysis generated at: Mon Dec 16 01:06:17 UTC 2024
