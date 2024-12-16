@@ -1,10 +1,10 @@
 
-Loaded 2274 incidents
+Loaded 2327 incidents
 Date range: 2024-01-01 00:00:00 to 2024-12-24 00:00:00
 
 Incidents by source:
 source
-newsapi           2173
+newsapi           2226
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -25,23 +25,23 @@ tribution.svg)
 - Description: AGGRAVATED SEXUAL ASSAULT OF CHILD BY FAMILY MEMBER
 
 
-### OTHER on 2024-12-15 06:16
-- Location: New York Post
-- Description: The cop accused of filming himself performing the sex act in uniform quit his job before a misconduct hearing.
-
-
-### HOMICIDE on 2024-12-15 06:03
+### ASSAULT on 2024-12-15 12:09
 - Location: The Times of India
-- Description: A 24-year-old Indian woman, Harshita Brella, was found dead in a car boot in London.  Police suspect her husband, Pankaj Lamba, of murder.  Lamba was previously arrested for domestic violence against Brella. He is now believed to have fled to India. Brella's …
+- Description: A 32-year-old computer operator in Surat, India, severed four fingers on his left hand to escape work-related stress. He initially fabricated a story about being attacked, but later confessed to self-inflicting the injury. He felt trapped in his job due to fa…
 
 
-### ASSAULT on 2024-12-15 06:00
-- Location: The Irish Times
-- Description: The Belfast native had to rebuild his life, which is now the subject of a stage play, after wrongly spending 15 years in jail for an IRA bomb attack
+### OTHER on 2024-12-15 12:03
+- Location: STLtoday.com
+- Description: The officer whose testimony led to Kurtis Watkins’ 25-year sentence had a history of racist social media posts and a mistaken identification of another Black man.
 
 
-### OTHER on 2024-12-15 06:00
-- Location: [Removed]
-- Description: [Removed]
+### OTHER on 2024-12-15 12:02
+- Location: CNN
+- Description: Mysterious flying objects overhead. Concern and confusion. And calls for military intervention.
 
-Analysis generated at: Mon Dec 16 06:19:46 UTC 2024
+
+### ASSAULT on 2024-12-15 11:58
+- Location: Fox News
+- Description: Rep.-elect Brad Knott, R-N.C., vows to fight D.C. bureaucracy he blames for fueling the border crisis and funding foreign conflicts at taxpayers' expense
+
+Analysis generated at: Mon Dec 16 12:27:08 UTC 2024
