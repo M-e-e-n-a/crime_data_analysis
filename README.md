@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Dec 17 12:26:13 UTC 2024
+Last updated: Tue Dec 17 12:44:00 UTC 2024
 
 ## Latest Analysis
 
-Loaded 2585 incidents
+Loaded 2589 incidents
 Date range: 2024-01-01 00:00:00 to 2024-12-24 00:00:00
 
 Incidents by source:
 source
-newsapi           2484
+newsapi           2488
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -29,23 +29,23 @@ tribution.svg)
 - Description: AGGRAVATED SEXUAL ASSAULT OF CHILD BY FAMILY MEMBER
 
 
-### OTHER on 2024-12-16 12:24
-- Location: Newsweek
-- Description: Dozens of Democrats had boycotted Trump's first inauguration in 2017.
+### ROBBERY/THEFT on 2024-12-16 12:37
+- Location: CBS News
+- Description: A growing number of child sex abuse allegations from around the world have prompted a broad investigation by the FBI of a long-quiet Christian sect known as the "Two by Twos," "The Way" and "The Truth."
 
 
-### OTHER on 2024-12-16 12:21
-- Location: Www.gov.uk
-- Description: The government is on track to deliver highest number of returns for 5 years as nearly 13,500 removed from the UK since election.
+### ROBBERY/THEFT on 2024-12-16 12:36
+- Location: Thechronicle.com.gh
+- Description: The Circuit Court in Accra, presided over by Her Honour Susana Eduful, has granted bail to a 28-year-old phone dealer, Arafat Al-Alhassan, who is facing charges of conspiracy to commit stealing. Al-Alhassan pleaded not guilty to the charges and was granted ba…
 
 
-### HOMICIDE on 2024-12-16 12:16
-- Location: BBC News
-- Description: Stephen McGhee must serve a minimum of 21 years for the murder of Kevan Doyle in Wishaw.
+### HOMICIDE on 2024-12-16 12:31
+- Location: road.cc
+- Description: The cyclist died on the spot and the driver suffered fatal injuries after getting trapped inside the car, while three other cyclists were also injured but are now in a stable condition
 
 
-### HOMICIDE on 2024-12-16 12:15
-- Location: Newsweek
-- Description: Luigi Mangione, 26, is accused of killing UnitedHealthcare CEO Brian Thompson.
+### HOMICIDE on 2024-12-16 12:27
+- Location: TODAY
+- Description: As authorities fight to extradite suspected killer Luigi Mangione to New York City to face charges in the high profile murder of UnitedHealthcare CEO Brian Thompson, there are new details about what led up to his arrest and what his life is like behind bars. …
 
-Analysis generated at: Tue Dec 17 12:26:13 UTC 2024
+Analysis generated at: Tue Dec 17 12:44:00 UTC 2024
