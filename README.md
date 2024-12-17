@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Dec 16 18:18:34 UTC 2024
+Last updated: Tue Dec 17 01:04:07 UTC 2024
 
 ## Latest Analysis
 
-Loaded 2413 incidents
+Loaded 2419 incidents
 Date range: 2024-01-01 00:00:00 to 2024-12-24 00:00:00
 
 Incidents by source:
 source
-newsapi           2312
+newsapi           2318
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -29,23 +29,24 @@ tribution.svg)
 - Description: AGGRAVATED SEXUAL ASSAULT OF CHILD BY FAMILY MEMBER
 
 
-### HOMICIDE on 2024-12-15 18:14
-- Location: CNN
-- Description: A shooting at a pop-up party in Houston left two 16-year-olds dead and three others wounded, including a 13-year-old girl, who is now in critical condition, according to authorities.
+### OTHER on 2024-12-16 01:01
+- Location: CBC News
+- Description: More than 250 people poured into a funeral home on Sunday to honour the life of slain security guard, 20-year-old Harshandeep Singh.
 
 
-### HOMICIDE on 2024-12-15 18:05
-- Location: New York Post
-- Description: Three women were found dead in an Ohio home over the weekend, and cops have opened a homicide probe into the grim discovery, authorities say.
+### OTHER on 2024-12-16 00:42
+- Location: Crikey
+- Description: From Paul Barry to Alan Kohler to Sally Neighbour, we asked 200 of the nation's most influential media figures about the best pieces of journalism they’ve read lately.
+The post What’s your favourite journalist’s favourite piece of journalism? appeared first o…
 
 
-### OTHER on 2024-12-15 18:04
-- Location: [Removed]
-- Description: [Removed]
+### HOMICIDE on 2024-12-16 00:10
+- Location: The Punch
+- Description: A trainee herbalist, Ifagbenga Taiwo, who was arrested by the Ogun State Police Command for allegedly slaughtering his 41-day-old son in the Keesi area of Adatan, Abeokuta, the state capital, has disclosed that he carried out the act under a spell. PUNCH Metr…
 
 
-### HOMICIDE on 2024-12-15 17:54
-- Location: Vanity Fair
-- Description: Peak Design CEO Peter Dering contacted police after recognizing the backpack during the Mangione manhunt, prompting customer backlash and threats.
+### HOMICIDE on 2024-12-16 00:06
+- Location: The Punch
+- Description: A combined team of security operatives made up of the Nigeria Police Force, Armed Forces, Department of State Security Service, and Nigeria Civil Defence Corps has dismantled criminal hideouts responsible for incessant civil unrest in Ezioha, Eziama Autonomou…
 
-Analysis generated at: Mon Dec 16 18:18:34 UTC 2024
+Analysis generated at: Tue Dec 17 01:04:07 UTC 2024
