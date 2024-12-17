@@ -1,10 +1,10 @@
 
-Loaded 2589 incidents
+Loaded 2689 incidents
 Date range: 2024-01-01 00:00:00 to 2024-12-24 00:00:00
 
 Incidents by source:
 source
-newsapi           2488
+newsapi           2588
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -25,23 +25,23 @@ tribution.svg)
 - Description: AGGRAVATED SEXUAL ASSAULT OF CHILD BY FAMILY MEMBER
 
 
-### ROBBERY/THEFT on 2024-12-16 12:37
-- Location: CBS News
-- Description: A growing number of child sex abuse allegations from around the world have prompted a broad investigation by the FBI of a long-quiet Christian sect known as the "Two by Twos," "The Way" and "The Truth."
+### HOMICIDE on 2024-12-16 18:17
+- Location: BBC News
+- Description: A juvenile suspect is among the dead after the shooting at Madison Abundant Life Christian School in Wisconsin, police say.
 
 
-### ROBBERY/THEFT on 2024-12-16 12:36
-- Location: Thechronicle.com.gh
-- Description: The Circuit Court in Accra, presided over by Her Honour Susana Eduful, has granted bail to a 28-year-old phone dealer, Arafat Al-Alhassan, who is facing charges of conspiracy to commit stealing. Al-Alhassan pleaded not guilty to the charges and was granted ba…
+### HOMICIDE on 2024-12-16 18:17
+- Location: BBC News
+- Description: A juvenile suspect is among the dead after the shooting at Madison Abundant Life Christian School in Wisconsin, police say.
 
 
-### HOMICIDE on 2024-12-16 12:31
-- Location: road.cc
-- Description: The cyclist died on the spot and the driver suffered fatal injuries after getting trapped inside the car, while three other cyclists were also injured but are now in a stable condition
+### ROBBERY/THEFT on 2024-12-16 18:16
+- Location: PBS
+- Description: As responsibility for transportation shifts to families, the question of how to replace the traditional yellow bus has become an urgent problem and a spark for innovation.
 
 
-### HOMICIDE on 2024-12-16 12:27
-- Location: TODAY
-- Description: As authorities fight to extradite suspected killer Luigi Mangione to New York City to face charges in the high profile murder of UnitedHealthcare CEO Brian Thompson, there are new details about what led up to his arrest and what his life is like behind bars. …
+### SHOOTING on 2024-12-16 18:15
+- Location: Investing.com
+- Description: School shooting in Wisconsin has left multiple injuries, police say
 
-Analysis generated at: Tue Dec 17 12:44:00 UTC 2024
+Analysis generated at: Tue Dec 17 18:18:43 UTC 2024
