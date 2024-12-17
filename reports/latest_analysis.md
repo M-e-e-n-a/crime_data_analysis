@@ -1,10 +1,10 @@
 
-Loaded 2424 incidents
+Loaded 2485 incidents
 Date range: 2024-01-01 00:00:00 to 2024-12-24 00:00:00
 
 Incidents by source:
 source
-newsapi           2323
+newsapi           2384
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -25,23 +25,23 @@ tribution.svg)
 - Description: AGGRAVATED SEXUAL ASSAULT OF CHILD BY FAMILY MEMBER
 
 
-### OTHER on 2024-12-16 01:36
+### HOMICIDE on 2024-12-16 06:18
 - Location: NDTV News
-- Description: The investigation has also revealed that actor Shakti Kapoor was offered Rs 5 lakh to attend a similar event, but the deal fell through due to a high advance request.
+- Description: A tailor's tag on a blood-stained shirt found near the crime scene helped the Odisha Police to crack a mysterious murder case and arrest three people, an officer said.
 
 
-### OTHER on 2024-12-16 01:33
-- Location: Newsbreak.com
-- Description: A police chief in a small North Dakota city says he and his officers were abandoned by the feds and left to fend for themselves when suspected Tren de Aragua members showed up in town. North Dakota is the latest state to report that the brutal Venezuelan migr…
+### HOMICIDE on 2024-12-16 06:13
+- Location: Slashdot.org
+- Description: Public donations for suspected CEO killer Luigi Mangione’s ‘defense fund’ surpass $100,000The Independent Defense fund established by supporters of suspected CEO killer Luigi Mangione tops $100KABC News What’s next for the suspect in the killing of UnitedHeal…
 
 
-### HOMICIDE on 2024-12-16 01:27
-- Location: New York Post
-- Description: The Tennessee Bureau of Investigation identified the slain officer as Rick Finley, a part-time cop for the Selmer Police Department and a full-time deputy for the McNairy County Sheriff's Office.
+### SHOOTING on 2024-12-16 06:02
+- Location: Livedoor.com
+- Description: Apple Intelligenceには複数のニュースを要約し、1つの通知として発信する機能があります。このニュース要約機能が誤報を生成したせいで、あたかもBBCニュースが誤報したかのようになっていると、BBCがAppleに抗議しています。BBC complains to Apple over misleading shooting headlinehttps://www.bbc.com/news/articles/cd0elzk24dnoApple Intelligence botched a notifica…
 
 
-### OTHER on 2024-12-16 01:07
-- Location: CBS News
-- Description: Hope and uncertainty fill the streets of Syria after the fall of Bashar al-Assad. The challenges of rebuilding are enormous after years of civil war.
+### OTHER on 2024-12-16 06:00
+- Location: Insurance Journal
+- Description: A suburban New York police department routinely violated residents’ civil rights, including making illegal arrests and using unnecessary strip and cavity searches, according to a new U.S. Department of Justice report. The report on a pattern and practice of p…
 
-Analysis generated at: Tue Dec 17 01:46:07 UTC 2024
+Analysis generated at: Tue Dec 17 06:18:58 UTC 2024
