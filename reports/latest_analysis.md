@@ -1,10 +1,10 @@
 
-Loaded 2794 incidents
+Loaded 2894 incidents
 Date range: 2024-01-01 00:00:00 to 2024-12-24 00:00:00
 
 Incidents by source:
 source
-newsapi           2693
+newsapi           2793
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -25,23 +25,23 @@ tribution.svg)
 - Description: AGGRAVATED SEXUAL ASSAULT OF CHILD BY FAMILY MEMBER
 
 
-### OTHER on 2024-12-17 06:14
-- Location: ABC News
-- Description: The New Orleans Police Department, plagued for decades by corruption, is pushing to finally end more than a decade of federal oversight
+### HOMICIDE on 2024-12-17 12:19
+- Location: TODAY
+- Description: A teacher and student are dead and six others are wounded after another student opened fire inside a study hall classroom at a Madison, Wisconsin, elementary school on Monday. The shooter, who died from what is believed to be a self-inflicted gunshot wound, w…
 
 
-### OTHER on 2024-12-17 06:08
+### OTHER on 2024-12-17 12:19
+- Location: 7NEWS.com.au
+- Description: Boy dies after being found unresponsive in Moorebank backyard pool7news.com.au
+
+
+### OTHER on 2024-12-17 12:16
 - Location: [Removed]
 - Description: [Removed]
 
 
-### SHOOTING on 2024-12-17 06:08
-- Location: Fox News
-- Description: Two adults are behind bars in Washington, D.C., after a 5-year-old girl was shot by her younger brother, who accessed an unsecured firearm.
+### SHOOTING on 2024-12-17 12:15
+- Location: FOX 2 Detroit
+- Description: The clerk pursued the alleged shoplifter before shooting him. Police say the individual attempted to flee by jumping onto the Lodge Highway.
 
-
-### HOMICIDE on 2024-12-17 06:05
-- Location: People.cn
-- Description: NEW YORK, Dec. 17 (Xinhua) -- A teenage student shot dead a teacher and another teenage student on M
-
-Analysis generated at: Wed Dec 18 06:18:22 UTC 2024
+Analysis generated at: Wed Dec 18 12:25:21 UTC 2024
