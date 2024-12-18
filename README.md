@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Dec 18 01:02:08 UTC 2024
+Last updated: Wed Dec 18 01:42:48 UTC 2024
 
 ## Latest Analysis
 
-Loaded 2710 incidents
+Loaded 2716 incidents
 Date range: 2024-01-01 00:00:00 to 2024-12-24 00:00:00
 
 Incidents by source:
 source
-newsapi           2609
+newsapi           2615
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -29,24 +29,24 @@ tribution.svg)
 - Description: AGGRAVATED SEXUAL ASSAULT OF CHILD BY FAMILY MEMBER
 
 
-### SHOOTING on 2024-12-17 01:00
-- Location: Thegatewaypundit.com
-- Description: Uncover the shocking details of Gonzalo Lira's case as Judicial Watch reveals critical State Department communications that raise questions about U.S. complicity in his tragic fate.
-The post Judicial Watch Smoking Gun in Gonzalo Lira Case: How Biden State Dep…
+### OTHER on 2024-12-17 01:41
+- Location: Forbes
+- Description: President Biden's recent clemency beneficiaries included Rita Crundwell, convicted of embezzling more than $53 million in taxpayer money. Not everyone is happy about it.
 
 
-### HOMICIDE on 2024-12-17 01:00
-- Location: Variety
-- Description: The race to produce true crime and documentary about Luigi Mangione — the man accused of killing United Healthcare CEO Brian Thompson in New York — continues to get more crowded. Next up, Variety has learned that Warner Bros. Discovery true crime network Inve…
+### SHOOTING on 2024-12-17 01:34
+- Location: Breitbart News
+- Description: President Joe Biden responded to reports of a shooting at Abundant Life Christian School in Madison, Wisconsin, and called for Congress to "pass commonsense gun safety laws."
+The post Biden Calls for Congress to ‘Pass Commonsense Gun Safety Laws’ After Wiscon…
 
 
-### OTHER on 2024-12-17 00:56
-- Location: BBC News
-- Description: Shopkeepers in Devon and Cornwall describe confronting criminals amid a retail crime wave.
+### OTHER on 2024-12-17 01:25
+- Location: Biztoc.com
+- Description: The United Kingdom is a totalitarian hellscape. Freedom of speech has been all but abolished. Our police forces are now indistinguishable from the Gestapo. Criticism of the government will soon be illegal under imminent laws against thought crime. It will not…
 
 
-### HOMICIDE on 2024-12-17 00:55
-- Location: Economictimes.com
-- Description: US News Live Updates: A teenage student killed a fellow student and a teacher at a Wisconsin school on Monday before police found the suspect dead at the scene of the latest shooting to devastate a US campus, authorities said. Police did not publicly identify…
+### HOMICIDE on 2024-12-17 01:25
+- Location: Biztoc.com
+- Description: Police in Madison, Wis., say a teenager shot and wounded two students and injured six others at a private elementary school before taking his own life. Officials said the suspected shooter was a student at the school. NBC News' Shaquille Brewster reports.
 
-Analysis generated at: Wed Dec 18 01:02:08 UTC 2024
+Analysis generated at: Wed Dec 18 01:42:48 UTC 2024
