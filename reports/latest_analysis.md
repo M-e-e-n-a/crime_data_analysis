@@ -1,10 +1,10 @@
 
-Loaded 3108 incidents
+Loaded 3208 incidents
 Date range: 2024-01-01 00:00:00 to 2024-12-24 00:00:00
 
 Incidents by source:
 source
-newsapi           3007
+newsapi           3107
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -25,23 +25,23 @@ tribution.svg)
 - Description: AGGRAVATED SEXUAL ASSAULT OF CHILD BY FAMILY MEMBER
 
 
-### HOMICIDE on 2024-12-18 06:15
-- Location: Hurriyet Daily News
-- Description: U.S. authorities on Tuesday charged the man suspected of gunning down a health insurance CEO in New York earlier this month with murder, including a charge of second-degree murder "as an act of terrorism."
+### HOMICIDE on 2024-12-18 12:18
+- Location: BBC News
+- Description: The Venezuelan rapper was stabbed to death by his manager in 2015, who made it look like a suicide.
 
 
-### OTHER on 2024-12-18 06:08
-- Location: Fox News
-- Description: A growing spate of health scares and violent threats targeting lawmakers on Capitol Hill is underscoring the vulnerabilities that members of Congress face.
+### HOMICIDE on 2024-12-18 12:18
+- Location: Dazed
+- Description: The 26-year-old is accused of assassinating UnitedHealthcare’s chief executive, Brian Thompson
 
 
-### OTHER on 2024-12-18 06:06
-- Location: ABC News
-- Description: For decades, lanky stray dogs have scrounged for food on Brazilian streets, abandoned and overlooked
+### HOMICIDE on 2024-12-18 12:13
+- Location: USA Today
+- Description: Oklahoma death row inmate, Kevin Ray Underwood, 44, is set to be executed Thursday, 18 years after he killed 10-year-old neighbor Jamie Rose Bolin.
 
 
-### HOMICIDE on 2024-12-18 06:00
-- Location: Newser
-- Description: Police are still working to piece together the motive of the 15-year-old girl who killed two and injured six more at a Christian school in Wisconsin Monday and haven't said much about their suspicions, but details are starting to trickle out about her backgro…
+### HOMICIDE on 2024-12-18 12:13
+- Location: NBC News
+- Description: The Federal Reserve is expected cut the key interest rate by a quarter-point.
 
-Analysis generated at: Thu Dec 19 06:18:51 UTC 2024
+Analysis generated at: Thu Dec 19 12:25:20 UTC 2024
