@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Dec 19 01:02:12 UTC 2024
+Last updated: Thu Dec 19 01:43:31 UTC 2024
 
 ## Latest Analysis
 
-Loaded 3022 incidents
+Loaded 3035 incidents
 Date range: 2024-01-01 00:00:00 to 2024-12-24 00:00:00
 
 Incidents by source:
 source
-newsapi           2921
+newsapi           2934
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -29,23 +29,23 @@ tribution.svg)
 - Description: AGGRAVATED SEXUAL ASSAULT OF CHILD BY FAMILY MEMBER
 
 
-### SHOOTING on 2024-12-18 00:59
-- Location: Newsweek
-- Description: The parents of Natalie Rupnow, identified by police as the shooter at a school in Madison, adjusted their custody agreement in 2022.
+### HOMICIDE on 2024-12-18 01:42
+- Location: New York Post
+- Description: Newly uncovered photos and online accounts purportedly associated with the Wisconsin teen school shooter suggest a deeply disturbing obsession with other school shooters such as Columbine killer Eric Harris.
 
 
-### HOMICIDE on 2024-12-18 00:53
-- Location: Freerepublic.com
-- Description: ST. PAUL — Derek Chauvin was granted permission to test materials from George Floyd’s autopsy in a challenge to Floyd’s cause of death on Monday, Dec. 16, by federal Judge Paul A. Magnuson of the U.S. District Court of Minnesota. In May 2020, 46-year-old Floy…
+### HOMICIDE on 2024-12-18 01:40
+- Location: Fox News
+- Description: Luigi Mangione's mom told police CEO Brian Thompson's brutal murder “might be something that she could see him doing" when she was questioned by police one day before he was captured.
 
 
-### OTHER on 2024-12-18 00:52
-- Location: [Removed]
-- Description: [Removed]
+### OTHER on 2024-12-18 01:32
+- Location: CBC News
+- Description: The premier of Canada's most populous province said Tuesday president-elect Donald Trump's plan to impose sweeping 25 per cent tariffs on all Canadian products would be a "disaster" that would hurt U.S. stock markets.
 
 
-### HOMICIDE on 2024-12-18 00:47
-- Location: CBS News
-- Description: Authorities said a teen student opened fire at a Christian school in Madison, Wisconsin on Monday, killing one student, a teacher and injuring several others. Police identified the suspect as a 15-year-old girl who seems to have died of a self-inflicted gunsh…
+### HOMICIDE on 2024-12-18 01:27
+- Location: Fox News
+- Description: Lindsay Clancy, the Massachusetts mother accused of strangling her three young children to death before attempting to kill herself, is seeking an insanity defense, court records show.
 
-Analysis generated at: Thu Dec 19 01:02:12 UTC 2024
+Analysis generated at: Thu Dec 19 01:43:31 UTC 2024
