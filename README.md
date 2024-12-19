@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Dec 19 01:43:31 UTC 2024
+Last updated: Thu Dec 19 06:18:51 UTC 2024
 
 ## Latest Analysis
 
-Loaded 3035 incidents
+Loaded 3108 incidents
 Date range: 2024-01-01 00:00:00 to 2024-12-24 00:00:00
 
 Incidents by source:
 source
-newsapi           2934
+newsapi           3007
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -29,23 +29,23 @@ tribution.svg)
 - Description: AGGRAVATED SEXUAL ASSAULT OF CHILD BY FAMILY MEMBER
 
 
-### HOMICIDE on 2024-12-18 01:42
-- Location: New York Post
-- Description: Newly uncovered photos and online accounts purportedly associated with the Wisconsin teen school shooter suggest a deeply disturbing obsession with other school shooters such as Columbine killer Eric Harris.
+### HOMICIDE on 2024-12-18 06:15
+- Location: Hurriyet Daily News
+- Description: U.S. authorities on Tuesday charged the man suspected of gunning down a health insurance CEO in New York earlier this month with murder, including a charge of second-degree murder "as an act of terrorism."
 
 
-### HOMICIDE on 2024-12-18 01:40
+### OTHER on 2024-12-18 06:08
 - Location: Fox News
-- Description: Luigi Mangione's mom told police CEO Brian Thompson's brutal murder “might be something that she could see him doing" when she was questioned by police one day before he was captured.
+- Description: A growing spate of health scares and violent threats targeting lawmakers on Capitol Hill is underscoring the vulnerabilities that members of Congress face.
 
 
-### OTHER on 2024-12-18 01:32
-- Location: CBC News
-- Description: The premier of Canada's most populous province said Tuesday president-elect Donald Trump's plan to impose sweeping 25 per cent tariffs on all Canadian products would be a "disaster" that would hurt U.S. stock markets.
+### OTHER on 2024-12-18 06:06
+- Location: ABC News
+- Description: For decades, lanky stray dogs have scrounged for food on Brazilian streets, abandoned and overlooked
 
 
-### HOMICIDE on 2024-12-18 01:27
-- Location: Fox News
-- Description: Lindsay Clancy, the Massachusetts mother accused of strangling her three young children to death before attempting to kill herself, is seeking an insanity defense, court records show.
+### HOMICIDE on 2024-12-18 06:00
+- Location: Newser
+- Description: Police are still working to piece together the motive of the 15-year-old girl who killed two and injured six more at a Christian school in Wisconsin Monday and haven't said much about their suspicions, but details are starting to trickle out about her backgro…
 
-Analysis generated at: Thu Dec 19 01:43:31 UTC 2024
+Analysis generated at: Thu Dec 19 06:18:51 UTC 2024
