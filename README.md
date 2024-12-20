@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Dec 20 12:23:21 UTC 2024
+Last updated: Fri Dec 20 12:39:05 UTC 2024
 
 ## Latest Analysis
 
-Loaded 3520 incidents
+Loaded 3529 incidents
 Date range: 2024-01-01 00:00:00 to 2024-12-24 00:00:00
 
 Incidents by source:
 source
-newsapi           3419
+newsapi           3428
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -29,23 +29,23 @@ tribution.svg)
 - Description: AGGRAVATED SEXUAL ASSAULT OF CHILD BY FAMILY MEMBER
 
 
-### HOMICIDE on 2024-12-19 12:21
-- Location: Thepinknews.com
-- Description: Police have said a Michigan man armed with an “arsenal” of guns had concocted a “chilling” plot to murder LGBTQ+ people.  Investigators revealed that Mack Davis, 22, from Owosso, Michigan, “possessed two firearms, magazines, hundreds of rounds of ammunition, …
+### HOMICIDE on 2024-12-19 12:33
+- Location: Slashdot.org
+- Description: Caught by Google Maps: Photo of man putting suspicious bundle in his trunk, key to solving a murderEL PAÍS USA Google Street View Captures a Man Loading a Bag Into a Trunk. Arrests Follow.The New York Times Google Maps helps solve murder mystery by capturing …
 
 
-### SHOOTING on 2024-12-19 12:17
-- Location: WFTV Orlando
-- Description: Shooting leaves 1 hurt in Orange County neighborhood, deputies saywftv.com
+### OTHER on 2024-12-19 12:32
+- Location: Fox News
+- Description: A 40-year-old man from the Pacific Northwest pleaded guilty to stalking Paige Bueckers after saying he wanted to marry her and was caught with lingerie and an engagement ring.
 
 
-### OTHER on 2024-12-19 12:15
-- Location: STLtoday.com
-- Description: Any town that can get 355 people to wear underwear on their heads can't be all bad.
+### OTHER on 2024-12-19 12:30
+- Location: Elite Daily
+- Description: A writer shares every thought she had watching the 2009 cult classic 'Jennifer's Body,' starring Megan Fox and Amanda Seyfried (and Adam Brody).
 
 
-### ROBBERY/THEFT on 2024-12-19 12:13
-- Location: IGN
-- Description: Thieves have allegedly stolen more than $315,000 worth of Pokémon and other trading cards from UK-based grading company Ace Grading, owned by YouTuber Randolph.
+### HOMICIDE on 2024-12-19 12:30
+- Location: The Atlantic
+- Description: The period of left-wing illiberalism that began about a decade ago seems to have drawn to a close. The final cause of death was the reelection of Donald Trump.
 
-Analysis generated at: Fri Dec 20 12:23:21 UTC 2024
+Analysis generated at: Fri Dec 20 12:39:05 UTC 2024
