@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Dec 20 12:39:05 UTC 2024
+Last updated: Fri Dec 20 18:16:40 UTC 2024
 
 ## Latest Analysis
 
-Loaded 3529 incidents
+Loaded 3629 incidents
 Date range: 2024-01-01 00:00:00 to 2024-12-24 00:00:00
 
 Incidents by source:
 source
-newsapi           3428
+newsapi           3528
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -29,23 +29,23 @@ tribution.svg)
 - Description: AGGRAVATED SEXUAL ASSAULT OF CHILD BY FAMILY MEMBER
 
 
-### HOMICIDE on 2024-12-19 12:33
-- Location: Slashdot.org
-- Description: Caught by Google Maps: Photo of man putting suspicious bundle in his trunk, key to solving a murderEL PAÍS USA Google Street View Captures a Man Loading a Bag Into a Trunk. Arrests Follow.The New York Times Google Maps helps solve murder mystery by capturing …
+### SHOOTING on 2024-12-19 18:15
+- Location: WSOC Charlotte
+- Description: No one was shot when the school bus -- filled with 30 students -- was struck by at least two bullets.
 
 
-### OTHER on 2024-12-19 12:32
-- Location: Fox News
-- Description: A 40-year-old man from the Pacific Northwest pleaded guilty to stalking Paige Bueckers after saying he wanted to marry her and was caught with lingerie and an engagement ring.
+### OTHER on 2024-12-19 18:15
+- Location: ARLnow
+- Description: A delivery driver was carjacked last night on the same block as Amazon's HQ2. The incident happened just before 6 p.m. on the 500 block of 14th Street S. in Pentagon City. Police say the driver tried to chase down his car after the suspect hopped in the idlin…
 
 
-### OTHER on 2024-12-19 12:30
-- Location: Elite Daily
-- Description: A writer shares every thought she had watching the 2009 cult classic 'Jennifer's Body,' starring Megan Fox and Amanda Seyfried (and Adam Brody).
+### OTHER on 2024-12-19 18:10
+- Location: [Removed]
+- Description: [Removed]
 
 
-### HOMICIDE on 2024-12-19 12:30
-- Location: The Atlantic
-- Description: The period of left-wing illiberalism that began about a decade ago seems to have drawn to a close. The final cause of death was the reelection of Donald Trump.
+### HOMICIDE on 2024-12-19 18:10
+- Location: RT
+- Description: The world deserves answers – not just about the Russian general’s death, but about the biolabs controversy he was investigating Read Full Article at RT.com
 
-Analysis generated at: Fri Dec 20 12:39:05 UTC 2024
+Analysis generated at: Fri Dec 20 18:16:40 UTC 2024
