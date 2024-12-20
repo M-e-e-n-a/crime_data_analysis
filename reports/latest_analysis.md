@@ -1,10 +1,10 @@
 
-Loaded 3346 incidents
+Loaded 3424 incidents
 Date range: 2024-01-01 00:00:00 to 2024-12-24 00:00:00
 
 Incidents by source:
 source
-newsapi           3245
+newsapi           3323
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -25,23 +25,23 @@ tribution.svg)
 - Description: AGGRAVATED SEXUAL ASSAULT OF CHILD BY FAMILY MEMBER
 
 
-### OTHER on 2024-12-19 01:37
-- Location: Al Jazeera English
-- Description: Inside an international operation to repatriate endangered lemurs and tortoises trafficked from Madagascar to Thailand.
+### ROBBERY/THEFT on 2024-12-19 06:17
+- Location: The Times of India
+- Description: A British court has allowed the seizure of £2.7 million from Andrew and Tristan Tate over tax evasion allegations. Police linked the funds to £21 million in undeclared income and Romanian human trafficking claims. The brothers deny all charges, calling the ac…
 
 
-### ASSAULT on 2024-12-19 01:36
-- Location: The Japan Times
-- Description: Two junior high school students were stabbed in the attack, with one dying from her injuries.
+### OTHER on 2024-12-19 06:07
+- Location: [Removed]
+- Description: [Removed]
 
 
-### OTHER on 2024-12-19 01:26
-- Location: Bleeding Cool News
-- Description: Today sees the publication of The Question: All Along The Watchtower #2, Challengers of The Unknown #1, Titans and Nightwing. The first sees The Bulleteer, as a new member of the vastly expansive Justice League, but taking on a minor role. Created by Grant Mo…
+### OTHER on 2024-12-19 06:03
+- Location: [Removed]
+- Description: [Removed]
 
 
-### HOMICIDE on 2024-12-19 01:23
-- Location: CBC News
-- Description: The shooter at a religious school in Wisconsin had two handguns with her but used only one in the attack that killed a teacher and a student and wounded six others, the city's police chief told The Associated Press on Wednesday.
+### HOMICIDE on 2024-12-19 06:00
+- Location: Insurance Journal
+- Description: A federal jury in Nevada has awarded more than $34 million to a woman who was arrested at age 18, wrongly convicted twice, and served nearly 16 years in a Nevada state prison for a 2001 killing she did not …
 
-Analysis generated at: Fri Dec 20 01:38:43 UTC 2024
+Analysis generated at: Fri Dec 20 06:17:44 UTC 2024
