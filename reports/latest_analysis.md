@@ -1,10 +1,10 @@
 
-Loaded 3319 incidents
+Loaded 3335 incidents
 Date range: 2024-01-01 00:00:00 to 2024-12-24 00:00:00
 
 Incidents by source:
 source
-newsapi           3218
+newsapi           3234
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -25,23 +25,23 @@ tribution.svg)
 - Description: AGGRAVATED SEXUAL ASSAULT OF CHILD BY FAMILY MEMBER
 
 
-### OTHER on 2024-12-18 18:11
-- Location: Byline Times
-- Description: As the Guardian announces the 'sale' of the 233-year-old Observer to Tortoise Media, Carole Cadwalladr takes a closer look at its moneymen
+### HOMICIDE on 2024-12-19 00:58
+- Location: New York Post
+- Description: Luigi Mangione will return to NYC on Thursday and faces a first-degree murder charge for killing UnitedHealthcare CEO Brian Thompson.
 
 
-### OTHER on 2024-12-18 18:11
-- Location: International Business Times
-- Description: A suspected car thief was stopped by a retired deputy dressed as Santa Claus, who detained him at a church before handing him over to police.
+### OTHER on 2024-12-19 00:53
+- Location: New Zealand Herald
+- Description: Thirteen people are now appearing before the court on a range of charges.
 
 
-### SHOOTING on 2024-12-18 18:11
-- Location: Newsweek
-- Description: After Republican calls for action, experts and federal agencies warn that shooting drones could cause far more harm than good.
+### HOMICIDE on 2024-12-19 00:50
+- Location: Freerepublic.com
+- Description: The woman was beaten to death following allegations of witchcraft against her.(Nigeria) A State High Court in Enugu State has discharged a Nigerian man who was charged with the murder of a woman accused of being a witch. The man, Michael Chukwuilo, was charge…
 
 
-### HOMICIDE on 2024-12-18 18:09
-- Location: The Punch
-- Description: Former Oyo State Attorney General and Commissioner for Justice, Mutalubi Adebayo, has cautioned against unconstitutional investigations following Osun State Governor Ademola Adeleke’s intervention in the controversial death sentence of a young man, Segun Olow…
+### OTHER on 2024-12-19 00:47
+- Location: Westernjournal.com
+- Description: Florida officials say the feds impeded state efforts to file charges against a man accused to trying to kil Donald Trump.
 
-Analysis generated at: Thu Dec 19 18:17:13 UTC 2024
+Analysis generated at: Fri Dec 20 00:59:04 UTC 2024
