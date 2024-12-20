@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Dec 20 06:17:44 UTC 2024
+Last updated: Fri Dec 20 12:23:21 UTC 2024
 
 ## Latest Analysis
 
-Loaded 3424 incidents
+Loaded 3520 incidents
 Date range: 2024-01-01 00:00:00 to 2024-12-24 00:00:00
 
 Incidents by source:
 source
-newsapi           3323
+newsapi           3419
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -29,23 +29,23 @@ tribution.svg)
 - Description: AGGRAVATED SEXUAL ASSAULT OF CHILD BY FAMILY MEMBER
 
 
-### ROBBERY/THEFT on 2024-12-19 06:17
-- Location: The Times of India
-- Description: A British court has allowed the seizure of £2.7 million from Andrew and Tristan Tate over tax evasion allegations. Police linked the funds to £21 million in undeclared income and Romanian human trafficking claims. The brothers deny all charges, calling the ac…
+### HOMICIDE on 2024-12-19 12:21
+- Location: Thepinknews.com
+- Description: Police have said a Michigan man armed with an “arsenal” of guns had concocted a “chilling” plot to murder LGBTQ+ people.  Investigators revealed that Mack Davis, 22, from Owosso, Michigan, “possessed two firearms, magazines, hundreds of rounds of ammunition, …
 
 
-### OTHER on 2024-12-19 06:07
-- Location: [Removed]
-- Description: [Removed]
+### SHOOTING on 2024-12-19 12:17
+- Location: WFTV Orlando
+- Description: Shooting leaves 1 hurt in Orange County neighborhood, deputies saywftv.com
 
 
-### OTHER on 2024-12-19 06:03
-- Location: [Removed]
-- Description: [Removed]
+### OTHER on 2024-12-19 12:15
+- Location: STLtoday.com
+- Description: Any town that can get 355 people to wear underwear on their heads can't be all bad.
 
 
-### HOMICIDE on 2024-12-19 06:00
-- Location: Insurance Journal
-- Description: A federal jury in Nevada has awarded more than $34 million to a woman who was arrested at age 18, wrongly convicted twice, and served nearly 16 years in a Nevada state prison for a 2001 killing she did not …
+### ROBBERY/THEFT on 2024-12-19 12:13
+- Location: IGN
+- Description: Thieves have allegedly stolen more than $315,000 worth of Pokémon and other trading cards from UK-based grading company Ace Grading, owned by YouTuber Randolph.
 
-Analysis generated at: Fri Dec 20 06:17:44 UTC 2024
+Analysis generated at: Fri Dec 20 12:23:21 UTC 2024
