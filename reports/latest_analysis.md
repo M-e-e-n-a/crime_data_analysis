@@ -1,10 +1,10 @@
 
-Loaded 3335 incidents
+Loaded 3346 incidents
 Date range: 2024-01-01 00:00:00 to 2024-12-24 00:00:00
 
 Incidents by source:
 source
-newsapi           3234
+newsapi           3245
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -25,23 +25,23 @@ tribution.svg)
 - Description: AGGRAVATED SEXUAL ASSAULT OF CHILD BY FAMILY MEMBER
 
 
-### HOMICIDE on 2024-12-19 00:58
-- Location: New York Post
-- Description: Luigi Mangione will return to NYC on Thursday and faces a first-degree murder charge for killing UnitedHealthcare CEO Brian Thompson.
+### OTHER on 2024-12-19 01:37
+- Location: Al Jazeera English
+- Description: Inside an international operation to repatriate endangered lemurs and tortoises trafficked from Madagascar to Thailand.
 
 
-### OTHER on 2024-12-19 00:53
-- Location: New Zealand Herald
-- Description: Thirteen people are now appearing before the court on a range of charges.
+### ASSAULT on 2024-12-19 01:36
+- Location: The Japan Times
+- Description: Two junior high school students were stabbed in the attack, with one dying from her injuries.
 
 
-### HOMICIDE on 2024-12-19 00:50
-- Location: Freerepublic.com
-- Description: The woman was beaten to death following allegations of witchcraft against her.(Nigeria) A State High Court in Enugu State has discharged a Nigerian man who was charged with the murder of a woman accused of being a witch. The man, Michael Chukwuilo, was charge…
+### OTHER on 2024-12-19 01:26
+- Location: Bleeding Cool News
+- Description: Today sees the publication of The Question: All Along The Watchtower #2, Challengers of The Unknown #1, Titans and Nightwing. The first sees The Bulleteer, as a new member of the vastly expansive Justice League, but taking on a minor role. Created by Grant Mo…
 
 
-### OTHER on 2024-12-19 00:47
-- Location: Westernjournal.com
-- Description: Florida officials say the feds impeded state efforts to file charges against a man accused to trying to kil Donald Trump.
+### HOMICIDE on 2024-12-19 01:23
+- Location: CBC News
+- Description: The shooter at a religious school in Wisconsin had two handguns with her but used only one in the attack that killed a teacher and a student and wounded six others, the city's police chief told The Associated Press on Wednesday.
 
-Analysis generated at: Fri Dec 20 00:59:04 UTC 2024
+Analysis generated at: Fri Dec 20 01:38:43 UTC 2024
