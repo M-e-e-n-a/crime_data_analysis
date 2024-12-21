@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Dec 21 06:15:58 UTC 2024
+Last updated: Sat Dec 21 12:21:17 UTC 2024
 
 ## Latest Analysis
 
-Loaded 3713 incidents
+Loaded 3783 incidents
 Date range: 2024-01-01 00:00:00 to 2024-12-24 00:00:00
 
 Incidents by source:
 source
-newsapi           3612
+newsapi           3682
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -29,23 +29,23 @@ tribution.svg)
 - Description: AGGRAVATED SEXUAL ASSAULT OF CHILD BY FAMILY MEMBER
 
 
-### HOMICIDE on 2024-12-20 06:08
-- Location: DW (English)
-- Description: US Federal prosecutors could seek the death penalty on the most serious charge against Luigi M., the suspect in the murder of UnitedHealthcare's CEO Brian Thompson. The 26-year-old man accused in the killing of UnitedHealthcare CEO Brian Thompson appeared in …
-
-
-### HOMICIDE on 2024-12-20 06:08
-- Location: DW (English)
-- Description: US Federal prosecutors could seek the death penalty on the most serious charge against Luigi M., the suspect in the murder of UnitedHealthcare's CEO Brian Thompson.
-
-
-### OTHER on 2024-12-20 06:03
+### HOMICIDE on 2024-12-20 12:14
 - Location: BBC News
-- Description: Izzy Du's mobile was snatched then recovered along with other phones hidden in a bag under a hedge.
+- Description: Brian Whitelock was on a life licence from a previous murder when he killed his neighbour Wendy Buckney.
 
 
-### HOMICIDE on 2024-12-20 06:00
-- Location: Insurance Journal
-- Description: The suspect in the killing of UnitedHealth Group UNH.N executive Brian Thompson is being charged with federal murder and stalking crimes, according to a court document filed on Thursday, alongside state murder and terrorism charges previously announced by New…
+### HOMICIDE on 2024-12-20 12:12
+- Location: International Business Times
+- Description: A French court on Friday was expected to deliver a verdict against eight people charged in connection with the jihadist beheading of schoolteacher Samuel Paty in 2020, a murder that horrified France.
 
-Analysis generated at: Sat Dec 21 06:15:58 UTC 2024
+
+### HOMICIDE on 2024-12-20 12:12
+- Location: Ibtimes.com.au
+- Description: A French court on Friday was expected to deliver a verdict against eight people charged in connection with the jihadist beheading of schoolteacher Samuel Paty in 2020, a murder that horrified France.
+
+
+### OTHER on 2024-12-20 12:07
+- Location: NBC News
+- Description: A government shutdown will begin at 12:01 a.m. Saturday unless a funding bill is passed by the end of today.
+
+Analysis generated at: Sat Dec 21 12:21:17 UTC 2024
