@@ -1,10 +1,10 @@
 
-Loaded 3629 incidents
+Loaded 3645 incidents
 Date range: 2024-01-01 00:00:00 to 2024-12-24 00:00:00
 
 Incidents by source:
 source
-newsapi           3528
+newsapi           3544
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -25,23 +25,23 @@ tribution.svg)
 - Description: AGGRAVATED SEXUAL ASSAULT OF CHILD BY FAMILY MEMBER
 
 
-### SHOOTING on 2024-12-19 18:15
-- Location: WSOC Charlotte
-- Description: No one was shot when the school bus -- filled with 30 students -- was struck by at least two bullets.
+### SHOOTING on 2024-12-20 00:54
+- Location: Freerepublic.com
+- Description: McDonald's may be facing one of the worst backlashes after an employee made a move that landed the fast food chain in the middle of one of the year's biggest controversies. The CEO of American health carrier UnitedHealthcare, Brian Thompson, was gunned down a…
 
 
-### OTHER on 2024-12-19 18:15
-- Location: ARLnow
-- Description: A delivery driver was carjacked last night on the same block as Amazon's HQ2. The incident happened just before 6 p.m. on the 500 block of 14th Street S. in Pentagon City. Police say the driver tried to chase down his car after the suspect hopped in the idlin…
+### SHOOTING on 2024-12-20 00:49
+- Location: WSB Atlanta
+- Description: Wisconsin shooting: Victims identified; judge issues restraining order against California manwsbtv.com
 
 
-### OTHER on 2024-12-19 18:10
-- Location: [Removed]
-- Description: [Removed]
-
-
-### HOMICIDE on 2024-12-19 18:10
+### OTHER on 2024-12-20 00:41
 - Location: RT
-- Description: The world deserves answers – not just about the Russian general’s death, but about the biolabs controversy he was investigating Read Full Article at RT.com
+- Description: Ukrainian military conscription officers filled a car with flammable gas in an alleged attempt to smoke out a prospective recruit Read Full Article at RT.com
 
-Analysis generated at: Fri Dec 20 18:16:40 UTC 2024
+
+### OTHER on 2024-12-20 00:37
+- Location: GamesRadar+
+- Description: Marvel's full March 2025 solicitations are here
+
+Analysis generated at: Sat Dec 21 00:57:56 UTC 2024
