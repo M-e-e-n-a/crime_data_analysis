@@ -1,10 +1,10 @@
 
-Loaded 3783 incidents
+Loaded 3791 incidents
 Date range: 2024-01-01 00:00:00 to 2024-12-24 00:00:00
 
 Incidents by source:
 source
-newsapi           3682
+newsapi           3690
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -25,23 +25,23 @@ tribution.svg)
 - Description: AGGRAVATED SEXUAL ASSAULT OF CHILD BY FAMILY MEMBER
 
 
-### HOMICIDE on 2024-12-20 12:14
-- Location: BBC News
-- Description: Brian Whitelock was on a life licence from a previous murder when he killed his neighbour Wendy Buckney.
+### HOMICIDE on 2024-12-20 12:33
+- Location: CBS News
+- Description: An Indiana jury has convicted Allen​ in the murders of 14-year-old Liberty "Libby" German and 13-year-old Abigail "Abby" Williams who had vanished during a hike in Delphi in 2017.
 
 
-### HOMICIDE on 2024-12-20 12:12
-- Location: International Business Times
-- Description: A French court on Friday was expected to deliver a verdict against eight people charged in connection with the jihadist beheading of schoolteacher Samuel Paty in 2020, a murder that horrified France.
+### OTHER on 2024-12-20 12:32
+- Location: The Times of India
+- Description: The Supreme Court questioned V Senthil Balaji's ministerial appointment after his bail in a money laundering case.  The court expressed concern over his influence and pending cases.  Balaji was arrested and later released. He was reappointed as a minister in …
 
 
-### HOMICIDE on 2024-12-20 12:12
-- Location: Ibtimes.com.au
-- Description: A French court on Friday was expected to deliver a verdict against eight people charged in connection with the jihadist beheading of schoolteacher Samuel Paty in 2020, a murder that horrified France.
+### OTHER on 2024-12-20 12:31
+- Location: [Removed]
+- Description: [Removed]
 
 
-### OTHER on 2024-12-20 12:07
-- Location: NBC News
-- Description: A government shutdown will begin at 12:01 a.m. Saturday unless a funding bill is passed by the end of today.
+### ASSAULT on 2024-12-20 12:29
+- Location: ABC News
+- Description: Two men have been charged with assaulting police during a scuffle in July at Manchester Airport that led to outrage when video showed an officer stomping on a man's head
 
-Analysis generated at: Sat Dec 21 12:21:17 UTC 2024
+Analysis generated at: Sat Dec 21 12:36:30 UTC 2024
