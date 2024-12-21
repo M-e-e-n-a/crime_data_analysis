@@ -1,10 +1,10 @@
 
-Loaded 3652 incidents
+Loaded 3713 incidents
 Date range: 2024-01-01 00:00:00 to 2024-12-24 00:00:00
 
 Incidents by source:
 source
-newsapi           3551
+newsapi           3612
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -25,22 +25,23 @@ tribution.svg)
 - Description: AGGRAVATED SEXUAL ASSAULT OF CHILD BY FAMILY MEMBER
 
 
-### HOMICIDE on 2024-12-20 01:35
-- Location: CBS News
-- Description: The 15-year-old shooter who killed two people at a Wisconsin school Monday was found to have been in contact with a California man plotting his own attack, according to authorities and court documents. CBS News' Ian Lee has more.
+### HOMICIDE on 2024-12-20 06:08
+- Location: DW (English)
+- Description: US Federal prosecutors could seek the death penalty on the most serious charge against Luigi M., the suspect in the murder of UnitedHealthcare's CEO Brian Thompson. The 26-year-old man accused in the killing of UnitedHealthcare CEO Brian Thompson appeared in …
 
 
-### SHOOTING on 2024-12-20 01:30
-- Location: Radaronline.com
-- Description: An accomplice of the Wisconsin school shooter has been arrested for allegedly plotting a coordinated attack on government buildings and is detained by FBI.
+### HOMICIDE on 2024-12-20 06:08
+- Location: DW (English)
+- Description: US Federal prosecutors could seek the death penalty on the most serious charge against Luigi M., the suspect in the murder of UnitedHealthcare's CEO Brian Thompson.
 
 
-### OTHER on 2024-12-20 01:18
-- Location: International Business Times
-- Description: Australia said Friday it has agreed to help boost Solomon Islands' police force with a finance and training package for the Pacific nation, which has fostered close ties with China.
+### OTHER on 2024-12-20 06:03
+- Location: BBC News
+- Description: Izzy Du's mobile was snatched then recovered along with other phones hidden in a bag under a hedge.
 
 
-### OTHER on 2024-12-20 01:11
-- Location: Spoilertv.com
+### HOMICIDE on 2024-12-20 06:00
+- Location: Insurance Journal
+- Description: The suspect in the killing of UnitedHealth Group UNH.N executive Brian Thompson is being charged with federal murder and stalking crimes, according to a court document filed on Thursday, alongside state murder and terrorism charges previously announced by New…
 
-Analysis generated at: Sat Dec 21 01:36:16 UTC 2024
+Analysis generated at: Sat Dec 21 06:15:58 UTC 2024
