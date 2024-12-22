@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Dec 22 06:16:09 UTC 2024
+Last updated: Sun Dec 22 12:21:07 UTC 2024
 
 ## Latest Analysis
 
-Loaded 3927 incidents
+Loaded 3974 incidents
 Date range: 2024-01-01 00:00:00 to 2024-12-24 00:00:00
 
 Incidents by source:
 source
-newsapi           3826
+newsapi           3873
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -29,23 +29,23 @@ tribution.svg)
 - Description: AGGRAVATED SEXUAL ASSAULT OF CHILD BY FAMILY MEMBER
 
 
-### OTHER on 2024-12-21 06:00
-- Location: The Irish Times
-- Description: Winds of change howled across Britain in a year when a Labour election victory ended 14 years of Tory rule
+### OTHER on 2024-12-21 12:14
+- Location: Thehillstimes.in
+- Description: HT Digital GUWAHATI, Dec 21: A chilling discovery was made early Saturday morning in the Chilarai Nagar area of Bhangagarh, Guwahati, when the body of a young man was found lying on the road under suspicious circumstances, as reported in a news bulletin. As p…
 
 
-### OTHER on 2024-12-21 05:47
-- Location: Dropsitenews.com
-- Description: The BBC is facing an internal revolt over its reporting on Israel’s war on Gaza. Owen Jones investigates.
+### ROBBERY/THEFT on 2024-12-21 12:09
+- Location: Thehillstimes.in
+- Description: HT Digital GUWAHATI, Dec 21: The Guwahati Police successfully cracked down on vehicle theft, arresting two individuals in separate operations conducted by the city’s police teams, the officials informed on Saturday. In the first operation, a team from the Gor…
 
 
-### SHOOTING on 2024-12-21 05:42
-- Location: ABC News
-- Description: For Christians around the world, Christmas is the joyful celebration of the birth of Jesus
+### HOMICIDE on 2024-12-21 12:00
+- Location: WSB Atlanta
+- Description: DeKalb County Police responded to a person injured call at a motel in the 2500 block of Wesley Chapel Road in unincorporated Decatur around 4:30 p.m. that afternoon.
 
 
-### HOMICIDE on 2024-12-21 05:27
-- Location: Digital Journal
-- Description: German Chancellor Olaf Scholz and other politicians will Saturday visit the scene of a bloody car-ramming that targeted visitors to a Christmas fair in an old market city. Police arrested a 50-year-old Saudi medical doctor at the site of the assault in which …
+### HOMICIDE on 2024-12-21 11:34
+- Location: The Star Online
+- Description: KUALA LUMPUR: Bandar Tun Razak MP Datuk Seri Dr Wan Azizah Wan Ismail has called for immediate action and a thorough investigation to identify the cause of the gruesome deaths of several cats at Universiti Malaya (UM) recently. Read full story
 
-Analysis generated at: Sun Dec 22 06:16:09 UTC 2024
+Analysis generated at: Sun Dec 22 12:21:07 UTC 2024
