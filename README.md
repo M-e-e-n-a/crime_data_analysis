@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Dec 22 01:44:20 UTC 2024
+Last updated: Sun Dec 22 06:16:09 UTC 2024
 
 ## Latest Analysis
 
-Loaded 3904 incidents
+Loaded 3927 incidents
 Date range: 2024-01-01 00:00:00 to 2024-12-24 00:00:00
 
 Incidents by source:
 source
-newsapi           3803
+newsapi           3826
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -29,23 +29,23 @@ tribution.svg)
 - Description: AGGRAVATED SEXUAL ASSAULT OF CHILD BY FAMILY MEMBER
 
 
-### HOMICIDE on 2024-12-21 01:40
-- Location: fox6now.com
-- Description: Milwaukee County prosecutors charged three people in connection to a shooting that killed one teen and wounded another on Dec. 12.
+### OTHER on 2024-12-21 06:00
+- Location: The Irish Times
+- Description: Winds of change howled across Britain in a year when a Labour election victory ended 14 years of Tory rule
 
 
-### HOMICIDE on 2024-12-21 01:26
-- Location: Yahoo Entertainment
-- Description: Grantville Mayor Richard Proctor said that Ira Williams had a gun on him at the time of the arrest, but was taken into custody peacefully.
+### OTHER on 2024-12-21 05:47
+- Location: Dropsitenews.com
+- Description: The BBC is facing an internal revolt over its reporting on Israel’s war on Gaza. Owen Jones investigates.
 
 
-### OTHER on 2024-12-21 01:19
-- Location: [Removed]
-- Description: [Removed]
+### SHOOTING on 2024-12-21 05:42
+- Location: ABC News
+- Description: For Christians around the world, Christmas is the joyful celebration of the birth of Jesus
 
 
-### OTHER on 2024-12-21 01:15
-- Location: Freerepublic.com
-- Description: “The rewriting of the history of Jan. 6, 2021, is incredibly disturbing,” Judge Beryl Howell said U.S. District Judge Tanya Chutkan says she has often reassured police officers traumatized by the violence of Jan. 6, 2021, that “the rule of law still applies.”…
+### HOMICIDE on 2024-12-21 05:27
+- Location: Digital Journal
+- Description: German Chancellor Olaf Scholz and other politicians will Saturday visit the scene of a bloody car-ramming that targeted visitors to a Christmas fair in an old market city. Police arrested a 50-year-old Saudi medical doctor at the site of the assault in which …
 
-Analysis generated at: Sun Dec 22 01:44:20 UTC 2024
+Analysis generated at: Sun Dec 22 06:16:09 UTC 2024
