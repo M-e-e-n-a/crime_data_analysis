@@ -1,10 +1,10 @@
 
-Loaded 3976 incidents
+Loaded 4033 incidents
 Date range: 2024-01-01 00:00:00 to 2024-12-24 00:00:00
 
 Incidents by source:
 source
-newsapi           3875
+newsapi           3932
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -25,23 +25,23 @@ tribution.svg)
 - Description: AGGRAVATED SEXUAL ASSAULT OF CHILD BY FAMILY MEMBER
 
 
-### OTHER on 2024-12-21 12:22
-- Location: NDTV News
-- Description: Zambian police said they have arrested two men for allegedly trying to &quot;harm&quot; the president of the southern African nation using witchcraft.
+### OTHER on 2024-12-21 18:05
+- Location: Statetimes.in
+- Description: GURUGRAM: A 12-year-old student of a private school allegedly sent a bomb threat e-mail to the institution in an attempt to shift to online classes, police said on Saturday. An FIR was registered at the Cyber Crime (South) police station and the student was i…
 
 
-### OTHER on 2024-12-21 12:22
-- Location: NDTV News
-- Description: A case has been registered against a woman's neighbour, husband and in-laws after she accused them of singeing her and putting chilli powder in her private parts in Madhya Pradesh's Rajgarh district, police said on Saturday.
+### OTHER on 2024-12-21 18:00
+- Location: [Removed]
+- Description: [Removed]
 
 
-### OTHER on 2024-12-21 12:14
-- Location: Thehillstimes.in
-- Description: HT Digital GUWAHATI, Dec 21: A chilling discovery was made early Saturday morning in the Chilarai Nagar area of Bhangagarh, Guwahati, when the body of a young man was found lying on the road under suspicious circumstances, as reported in a news bulletin. As p…
+### ROBBERY/THEFT on 2024-12-21 17:59
+- Location: BBC News
+- Description: Tom A Smith says he was travelling to London when the band's van was targeted by thieves.
 
 
-### ROBBERY/THEFT on 2024-12-21 12:09
-- Location: Thehillstimes.in
-- Description: HT Digital GUWAHATI, Dec 21: The Guwahati Police successfully cracked down on vehicle theft, arresting two individuals in separate operations conducted by the city’s police teams, the officials informed on Saturday. In the first operation, a team from the Gor…
+### SHOOTING on 2024-12-21 17:58
+- Location: Newsbreak.com
+- Description: A white former Kansas City police officer who was convicted of involuntary manslaughter in the fatal shooting of a Black man was released from prison Friday after Missouri’s governor commuted his sentence to parole.
 
-Analysis generated at: Sun Dec 22 12:36:15 UTC 2024
+Analysis generated at: Sun Dec 22 18:15:09 UTC 2024
