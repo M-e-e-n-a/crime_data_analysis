@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Dec 22 01:03:38 UTC 2024
+Last updated: Sun Dec 22 01:44:20 UTC 2024
 
 ## Latest Analysis
 
-Loaded 3898 incidents
+Loaded 3904 incidents
 Date range: 2024-01-01 00:00:00 to 2024-12-24 00:00:00
 
 Incidents by source:
 source
-newsapi           3797
+newsapi           3803
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -29,23 +29,23 @@ tribution.svg)
 - Description: AGGRAVATED SEXUAL ASSAULT OF CHILD BY FAMILY MEMBER
 
 
-### OTHER on 2024-12-21 01:00
-- Location: New York Post
-- Description: Mangione, 26, will reportedly be shacking up with Combs and SBF in a 15-man protective custody unit at the Metropolitan Detention Center in Brooklyn in the coming days.
+### HOMICIDE on 2024-12-21 01:40
+- Location: fox6now.com
+- Description: Milwaukee County prosecutors charged three people in connection to a shooting that killed one teen and wounded another on Dec. 12.
 
 
-### HOMICIDE on 2024-12-21 01:00
-- Location: Billings Gazette
-- Description: As the gun fight erupted, Morado squeezed off several rounds toward police, and 11 officers opened fire. Those 11 officers fired approximately 90 rounds.
+### HOMICIDE on 2024-12-21 01:26
+- Location: Yahoo Entertainment
+- Description: Grantville Mayor Richard Proctor said that Ira Williams had a gun on him at the time of the arrest, but was taken into custody peacefully.
 
 
-### OTHER on 2024-12-21 00:48
-- Location: BBC News
-- Description: Beyonce sang country and western while Charli XCX's turned the summer slime green with her album Brat.
+### OTHER on 2024-12-21 01:19
+- Location: [Removed]
+- Description: [Removed]
 
 
-### OTHER on 2024-12-21 00:40
-- Location: FOX 10 News Phoenix
-- Description: Police departments nationwide and in the Phoenix area say they are seeing a rise in a crime called 'jugging,' and officials with one East Valley police...
+### OTHER on 2024-12-21 01:15
+- Location: Freerepublic.com
+- Description: “The rewriting of the history of Jan. 6, 2021, is incredibly disturbing,” Judge Beryl Howell said U.S. District Judge Tanya Chutkan says she has often reassured police officers traumatized by the violence of Jan. 6, 2021, that “the rule of law still applies.”…
 
-Analysis generated at: Sun Dec 22 01:03:38 UTC 2024
+Analysis generated at: Sun Dec 22 01:44:20 UTC 2024
