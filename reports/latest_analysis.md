@@ -1,10 +1,10 @@
 
-Loaded 3891 incidents
+Loaded 3898 incidents
 Date range: 2024-01-01 00:00:00 to 2024-12-24 00:00:00
 
 Incidents by source:
 source
-newsapi           3790
+newsapi           3797
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -25,24 +25,23 @@ tribution.svg)
 - Description: AGGRAVATED SEXUAL ASSAULT OF CHILD BY FAMILY MEMBER
 
 
-### OTHER on 2024-12-20 18:15
-- Location: Activistpost.com
-- Description: By Neenah Payne Roger Ver is widely known as “Bitcoin Jesus” for his early promotion of the cryptocurrency. In 1999, at age 19 while in...
-The Hijacking of Bitcoin
+### OTHER on 2024-12-21 01:00
+- Location: New York Post
+- Description: Mangione, 26, will reportedly be shacking up with Combs and SBF in a 15-man protective custody unit at the Metropolitan Detention Center in Brooklyn in the coming days.
 
 
-### OTHER on 2024-12-20 18:13
-- Location: Andscape.com
-- Description: SALT LAKE CITY – Phoenix Suns star forward Kevin Durant had just completed a pregame workout on Dec. 13 in preparation for his long-awaited return after an ankle injury. Certainly, there was some rehab and rest to be had before facing the Utah Jazz. But befor…
+### HOMICIDE on 2024-12-21 01:00
+- Location: Billings Gazette
+- Description: As the gun fight erupted, Morado squeezed off several rounds toward police, and 11 officers opened fire. Those 11 officers fired approximately 90 rounds.
 
 
-### OTHER on 2024-12-20 18:05
-- Location: Cosmopolitan.com
-- Description: Get to know the cast and characters of Paramount+'s prequel Dexter series, 'Dexter: Original Sin.'
+### OTHER on 2024-12-21 00:48
+- Location: BBC News
+- Description: Beyonce sang country and western while Charli XCX's turned the summer slime green with her album Brat.
 
 
-### OTHER on 2024-12-20 18:01
-- Location: Time
-- Description: From the return of 'The White Lotus' and 'Stranger Things' to new shows from Shonda Rhimes, Seth Rogen, and Lena Dunham.
+### OTHER on 2024-12-21 00:40
+- Location: FOX 10 News Phoenix
+- Description: Police departments nationwide and in the Phoenix area say they are seeing a rise in a crime called 'jugging,' and officials with one East Valley police...
 
-Analysis generated at: Sat Dec 21 18:15:14 UTC 2024
+Analysis generated at: Sun Dec 22 01:03:38 UTC 2024
