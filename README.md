@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Dec 23 01:39:39 UTC 2024
+Last updated: Mon Dec 23 06:18:24 UTC 2024
 
 ## Latest Analysis
 
-Loaded 4051 incidents
+Loaded 4089 incidents
 Date range: 2024-01-01 00:00:00 to 2024-12-24 00:00:00
 
 Incidents by source:
 source
-newsapi           3950
+newsapi           3988
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -29,23 +29,23 @@ tribution.svg)
 - Description: AGGRAVATED SEXUAL ASSAULT OF CHILD BY FAMILY MEMBER
 
 
-### HOMICIDE on 2024-12-22 01:33
-- Location: Newsbreak.com
-- Description: If this is true, it's absolutely disgusting. Of course there was a lot of controversy surrounding the disastrous withdrawal of United States military forces from Afghanistan back in 2021. Twenty years after first going to war in Afghanistan following the 9/11…
+### HOMICIDE on 2024-12-22 06:15
+- Location: ABC News (AU)
+- Description: A second man has been charged over deaths of two people at Rye earlier this month.
 
 
-### HOMICIDE on 2024-12-22 01:33
-- Location: Newsbreak.com
-- Description: If this is true, it's absolutely disgusting. Of course there was a lot of controversy surrounding the disastrous withdrawal of United States military forces from Afghanistan back in 2021. Twenty years after first going to war in Afghanistan following the 9/11…
+### OTHER on 2024-12-22 06:00
+- Location: STLtoday.com
+- Description: Here is this week's local business awardees, hires and promotions.
 
 
-### HOMICIDE on 2024-12-22 01:33
-- Location: Newsbreak.com
-- Description: If this is true, it's absolutely disgusting. Of course there was a lot of controversy surrounding the disastrous withdrawal of United States military forces from Afghanistan back in 2021. Twenty years after first going to war in Afghanistan following the 9/11…
+### OTHER on 2024-12-22 06:00
+- Location: STLtoday.com
+- Description: Here are this week's local busines acquisitions and corporate donations.
 
 
-### HOMICIDE on 2024-12-22 01:28
-- Location: Breitbart News
-- Description: Angel Mom Patty Morin, whose daughter, Rachel Morin, was murdered by an alleged illegal alien, revealed that the Biden administration “didn’t say anything” or “offer condolences.” During a speech at Turning Point USA’s AmericaFest, Patty Morin revealed that w…
+### OTHER on 2024-12-22 05:58
+- Location: Bangkok Post
+- Description: <p>CHUMPHON: A man was arrested with about 200 exotic animals on his way from the deep South to Bangkok.</p>
 
-Analysis generated at: Mon Dec 23 01:39:39 UTC 2024
+Analysis generated at: Mon Dec 23 06:18:24 UTC 2024
