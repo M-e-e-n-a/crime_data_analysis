@@ -1,10 +1,10 @@
 
-Loaded 4162 incidents
+Loaded 4226 incidents
 Date range: 2024-01-01 00:00:00 to 2024-12-24 00:00:00
 
 Incidents by source:
 source
-newsapi           4061
+newsapi           4125
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -25,23 +25,23 @@ tribution.svg)
 - Description: AGGRAVATED SEXUAL ASSAULT OF CHILD BY FAMILY MEMBER
 
 
-### HOMICIDE on 2024-12-22 12:28
-- Location: POLITICO.eu
-- Description: Prime Minister Edi Rama blamed the Chinese-owned platform for inciting violence after a schoolboy was stabbed to death.
+### OTHER on 2024-12-22 18:05
+- Location: BBC News
+- Description: Tawana Choruma was found injured in Station Road, Netley, and died at the scene, say police.
 
 
-### OTHER on 2024-12-22 12:24
+### HOMICIDE on 2024-12-22 18:02
+- Location: Breitbart News
+- Description: Authorities in Mexico are investigating the targeted killing of a Canadian man who had pending arrest warrants in his home country for arms trafficking and human trafficking. The murder took place on Saturday outside a busy shopping plaza in Playa Del Carmen,…
+
+
+### OTHER on 2024-12-22 18:01
+- Location: Newsbreak.com
+- Description: — Republicans in Congress kick the can down the road to March. Democrats in the House and Senate pitched in and helped pass a stopgap funding continuing resolution to keep the government open until March. It does not include the lifting of the debt ceiling wh…
+
+
+### HOMICIDE on 2024-12-22 17:56
 - Location: The Times of India
-- Description: Javed Munshi, a suspected Tehreek-ul-Mujahideen member, was arrested in West Bengal near the Bangladesh border.  Police granted transit remand until December 31st. Munshi, an IED expert with alleged ties to LeT, is accused of working to revive the Muslim Leag…
+- Description: Bengaluru: A 29-year-old man has been arrested by Madanayakanahalli police in connection with the murder of his friend with whom he was allegedly in a.
 
-
-### HOMICIDE on 2024-12-22 12:22
-- Location: New York Post
-- Description: A Swedish hip-hop star has been shot dead in a car park with disturbing footage of the apparent killing emerging online.
-
-
-### OTHER on 2024-12-22 12:15
-- Location: Khabarhub.com
-- Description: KATHMANDU: Rabi Lamichhane, the Chair of the Rastriya Swatantra Party (RSP), has denied the charges of money laundering, cooperative fraud, and organized crime in his statement to the Kaski District Police. The supplementary report prepared by the Kaski Distr…
-
-Analysis generated at: Mon Dec 23 12:39:55 UTC 2024
+Analysis generated at: Mon Dec 23 18:16:27 UTC 2024
