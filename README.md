@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Dec 22 18:15:09 UTC 2024
+Last updated: Mon Dec 23 01:00:11 UTC 2024
 
 ## Latest Analysis
 
-Loaded 4033 incidents
+Loaded 4044 incidents
 Date range: 2024-01-01 00:00:00 to 2024-12-24 00:00:00
 
 Incidents by source:
 source
-newsapi           3932
+newsapi           3943
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -29,23 +29,23 @@ tribution.svg)
 - Description: AGGRAVATED SEXUAL ASSAULT OF CHILD BY FAMILY MEMBER
 
 
-### OTHER on 2024-12-21 18:05
-- Location: Statetimes.in
-- Description: GURUGRAM: A 12-year-old student of a private school allegedly sent a bomb threat e-mail to the institution in an attempt to shift to online classes, police said on Saturday. An FIR was registered at the Cyber Crime (South) police station and the student was i…
+### HOMICIDE on 2024-12-22 01:00
+- Location: The Punch
+- Description: Nigerians were stunned on Tuesday as social media was awash with reports of an only child, Segun Olowookere, who was sentenced to death in Osun State for stealing fowl. There were different versions of what truly transpired and why the convict was given what …
 
 
-### OTHER on 2024-12-21 18:00
-- Location: [Removed]
-- Description: [Removed]
+### SHOOTING on 2024-12-22 01:00
+- Location: STLtoday.com
+- Description: Police fired at a man, 25, after he refused repeated orders to drop his gun. He was taken to a hospital with a non-life-threatening gunshot wound to his hip. No officers were injured.
 
 
-### ROBBERY/THEFT on 2024-12-21 17:59
-- Location: BBC News
-- Description: Tom A Smith says he was travelling to London when the band's van was targeted by thieves.
+### ROBBERY/THEFT on 2024-12-22 00:52
+- Location: The Punch
+- Description: Claim: Speaking at the 18th Annual Town Hall Meeting on Security organised by the Lagos State Security Trust Fund on Thursday, the Inspector General of Police, Kayode Egbetokun, said Lagos State has recorded only one successful bank robbery since 2007. “There…
 
 
-### SHOOTING on 2024-12-21 17:58
-- Location: Newsbreak.com
-- Description: A white former Kansas City police officer who was convicted of involuntary manslaughter in the fatal shooting of a Black man was released from prison Friday after Missouri’s governor commuted his sentence to parole.
+### OTHER on 2024-12-22 00:40
+- Location: Thehillstimes.in
+- Description: ITANAGAR, Dec 21: Arunachal Pradesh Governor Lt Gen (Retd) K T Parnaik on Saturday asserted that the state has made a remarkable progress in reducing multidimensional poverty. He said the state has achieved a 166 per cent increase in Gross State Domestic Prod…
 
-Analysis generated at: Sun Dec 22 18:15:09 UTC 2024
+Analysis generated at: Mon Dec 23 01:00:11 UTC 2024
