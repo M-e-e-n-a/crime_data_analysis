@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Dec 24 00:58:41 UTC 2024
+Last updated: Tue Dec 24 01:37:44 UTC 2024
 
 ## Latest Analysis
 
-Loaded 4239 incidents
+Loaded 4244 incidents
 Date range: 2024-01-01 00:00:00 to 2024-12-24 00:00:00
 
 Incidents by source:
 source
-newsapi           4138
+newsapi           4143
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -29,23 +29,23 @@ tribution.svg)
 - Description: AGGRAVATED SEXUAL ASSAULT OF CHILD BY FAMILY MEMBER
 
 
-### HOMICIDE on 2024-12-23 00:52
-- Location: BBC News
-- Description: Atul Subhash's death has galvanised men's rights activists and started a debate around India's dowry law.
+### OTHER on 2024-12-23 01:25
+- Location: CBS News
+- Description: A holiday drone show just days before Christmas was interrupted when drones collided, officials said.
 
 
-### HOMICIDE on 2024-12-23 00:52
-- Location: BBC News
-- Description: Atul Subhash's death has galvanised men's rights activists and started a debate around India's dowry law.
+### OTHER on 2024-12-23 01:15
+- Location: STLtoday.com
+- Description: SLU trailed by 13 in the first half, regained the lead but lost on a basket by Grand Canyon with 0.8 seconds to play in a 73-72 defeat
 
 
-### HOMICIDE on 2024-12-23 00:50
-- Location: Bangkok Post
-- Description: A member of the Outlaws Motorcycle Club has been sentenced to death and two others given life imprisonment for the murder of a German property broker whose dismembered body was found in a freezer in Pattaya last year.
+### HOMICIDE on 2024-12-23 01:11
+- Location: WPXI Pittsburgh
+- Description: Four women and a 9-year-old boy were killed and 200 people were injured when a man drove into a Christmas market teeming with holiday shoppers in the German city of Magdeburg — an attack that has left Germans mourning the victims and with a shaken sense of se…
 
 
-### OTHER on 2024-12-23 00:46
-- Location: Fox News
-- Description: New York Governor Kathy Hochul was called out after she praised how safe the New York City subway system has purportedly become, just hours after a woman was burned alive on a train.
+### OTHER on 2024-12-23 01:10
+- Location: CBS News
+- Description: A person of interest was taken into custody after a woman died after being lit on fire while she was asleep on an F train in Brooklyn, police say.
 
-Analysis generated at: Tue Dec 24 00:58:41 UTC 2024
+Analysis generated at: Tue Dec 24 01:37:44 UTC 2024
