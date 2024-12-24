@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Dec 23 18:16:27 UTC 2024
+Last updated: Tue Dec 24 00:58:41 UTC 2024
 
 ## Latest Analysis
 
-Loaded 4226 incidents
+Loaded 4239 incidents
 Date range: 2024-01-01 00:00:00 to 2024-12-24 00:00:00
 
 Incidents by source:
 source
-newsapi           4125
+newsapi           4138
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -29,23 +29,23 @@ tribution.svg)
 - Description: AGGRAVATED SEXUAL ASSAULT OF CHILD BY FAMILY MEMBER
 
 
-### OTHER on 2024-12-22 18:05
+### HOMICIDE on 2024-12-23 00:52
 - Location: BBC News
-- Description: Tawana Choruma was found injured in Station Road, Netley, and died at the scene, say police.
+- Description: Atul Subhash's death has galvanised men's rights activists and started a debate around India's dowry law.
 
 
-### HOMICIDE on 2024-12-22 18:02
-- Location: Breitbart News
-- Description: Authorities in Mexico are investigating the targeted killing of a Canadian man who had pending arrest warrants in his home country for arms trafficking and human trafficking. The murder took place on Saturday outside a busy shopping plaza in Playa Del Carmen,…
+### HOMICIDE on 2024-12-23 00:52
+- Location: BBC News
+- Description: Atul Subhash's death has galvanised men's rights activists and started a debate around India's dowry law.
 
 
-### OTHER on 2024-12-22 18:01
-- Location: Newsbreak.com
-- Description: — Republicans in Congress kick the can down the road to March. Democrats in the House and Senate pitched in and helped pass a stopgap funding continuing resolution to keep the government open until March. It does not include the lifting of the debt ceiling wh…
+### HOMICIDE on 2024-12-23 00:50
+- Location: Bangkok Post
+- Description: A member of the Outlaws Motorcycle Club has been sentenced to death and two others given life imprisonment for the murder of a German property broker whose dismembered body was found in a freezer in Pattaya last year.
 
 
-### HOMICIDE on 2024-12-22 17:56
-- Location: The Times of India
-- Description: Bengaluru: A 29-year-old man has been arrested by Madanayakanahalli police in connection with the murder of his friend with whom he was allegedly in a.
+### OTHER on 2024-12-23 00:46
+- Location: Fox News
+- Description: New York Governor Kathy Hochul was called out after she praised how safe the New York City subway system has purportedly become, just hours after a woman was burned alive on a train.
 
-Analysis generated at: Mon Dec 23 18:16:27 UTC 2024
+Analysis generated at: Tue Dec 24 00:58:41 UTC 2024
