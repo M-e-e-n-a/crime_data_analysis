@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Dec 25 12:22:45 UTC 2024
+Last updated: Wed Dec 25 12:38:24 UTC 2024
 
 ## Latest Analysis
 
-Loaded 4642 incidents
-Date range: 2024-01-01 00:00:00 to 2024-12-24 12:15:19
+Loaded 4648 incidents
+Date range: 2024-01-01 00:00:00 to 2024-12-24 12:38:12
 
 Incidents by source:
 source
-newsapi           4541
+newsapi           4547
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ tribution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2024-12-24 12:15
-- Location: Boston Herald
-- Description: Special Prosecutor withdrew on Monday the appeal of a July decision to dismiss the charge
+### OTHER on 2024-12-24 12:38
+- Location: NDTV News
+- Description: When asked about Drishyam 3, Mohanlal recalled how it took them a really long time to make Drishyam 2
 
 
-### OTHER on 2024-12-24 12:15
-- Location: Infosecurity Magazine
-- Description: A joint US-Japan alert attributed North Korean hackers with a May 2024 crypto heist worth $308m from Japan-based company DMM
-
-
-### OTHER on 2024-12-24 12:10
+### OTHER on 2024-12-24 12:35
 - Location: Al Jazeera English
-- Description: Resignations by incompetent leaders are welcome, but what we really need is true institutional responsibility.
+- Description: Men found guilty of crimes including kicking fans of Maccabi Tel Aviv and inciting violence in chat groups.
 
 
-### ASSAULT on 2024-12-24 12:10
-- Location: CoinDesk
-- Description: Japanese police and U.S. agencies said the attack was "affiliated" with TraderTraitor, which is characterized by social engineering.
+### ASSAULT on 2024-12-24 12:28
+- Location: NDTV News
+- Description: A 35-year-old man out on bail allegedly raped a 70-year-old woman whom he had sexually assaulted in the past in Bharuch district of Gujarat, police said on Tuesday.
 
 
-### HOMICIDE on 2024-12-24 12:05
-- Location: BBC News
-- Description: Claire Button appears by video link and is remanded into custody until a plea hearing in January.
+### ASSAULT on 2024-12-24 12:26
+- Location: DW (English)
+- Description: Several men were found guilty over attacks on Maccabi soccer fans who visited Amsterdam last month, but the Dutch prosecutor said the violence was "not motivated by anti-Semitic sentiment."
 
-Analysis generated at: Wed Dec 25 12:22:45 UTC 2024
+
+### OTHER on 2024-12-24 12:26
+- Location: DW (English)
+- Description: A court in the Netherlands has found five men guilty for their part in violence against visiting Israeli football fans in Amsterdam.
+
+Analysis generated at: Wed Dec 25 12:38:24 UTC 2024
