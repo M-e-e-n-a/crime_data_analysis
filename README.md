@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Dec 25 12:38:24 UTC 2024
+Last updated: Wed Dec 25 18:16:13 UTC 2024
 
 ## Latest Analysis
 
-Loaded 4648 incidents
-Date range: 2024-01-01 00:00:00 to 2024-12-24 12:38:12
+Loaded 4745 incidents
+Date range: 2024-01-01 00:00:00 to 2024-12-24 18:14:00
 
 Incidents by source:
 source
-newsapi           4547
+newsapi           4644
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ tribution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2024-12-24 12:38
-- Location: NDTV News
-- Description: When asked about Drishyam 3, Mohanlal recalled how it took them a really long time to make Drishyam 2
+### ROBBERY/THEFT on 2024-12-24 18:14
+- Location: LancasterOnline
+- Description: A Chester County man could spend up to 40 years in prison after pleading guilty in Lancaster County court to 35 offenses, including thefts, burglary and aggravated assault by vehicle.
 
 
-### OTHER on 2024-12-24 12:35
-- Location: Al Jazeera English
-- Description: Men found guilty of crimes including kicking fans of Maccabi Tel Aviv and inciting violence in chat groups.
+### HOMICIDE on 2024-12-24 18:12
+- Location: Newsweek
+- Description: The 33-year-old is accused of setting a woman on fire on the New York City subway, killing her, on December 22, 2024.
 
 
-### ASSAULT on 2024-12-24 12:28
-- Location: NDTV News
-- Description: A 35-year-old man out on bail allegedly raped a 70-year-old woman whom he had sexually assaulted in the past in Bharuch district of Gujarat, police said on Tuesday.
+### HOMICIDE on 2024-12-24 18:12
+- Location: WSOC Charlotte
+- Description: Police in Gastonia say one person is dead after a shooting a day before Christmas.
 
 
-### ASSAULT on 2024-12-24 12:26
-- Location: DW (English)
-- Description: Several men were found guilty over attacks on Maccabi soccer fans who visited Amsterdam last month, but the Dutch prosecutor said the violence was "not motivated by anti-Semitic sentiment."
+### HOMICIDE on 2024-12-24 18:10
+- Location: The Times of India
+- Description: Fresh protests have erupted in Kolkata over the RG Kar Hospital rape and murder case. Doctors' organizations clashed with the police during demonstrations outside the CBI headquarters. They accused the CBI of delays and collusion with the police to protect th…
 
 
-### OTHER on 2024-12-24 12:26
-- Location: DW (English)
-- Description: A court in the Netherlands has found five men guilty for their part in violence against visiting Israeli football fans in Amsterdam.
+### OTHER on 2024-12-24 18:00
+- Location: Chicago Reader
+- Description: Grant Pick had a knack for the unusual. During his time as a Reader contributor, he documented residents of a north-side hotel as they fought against displacement, interviewed a local hypnotist who once loaned his services to Saddam Hussein’s eldest son, and …
 
-Analysis generated at: Wed Dec 25 12:38:24 UTC 2024
+Analysis generated at: Wed Dec 25 18:16:13 UTC 2024
