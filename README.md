@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Dec 25 01:36:33 UTC 2024
+Last updated: Wed Dec 25 06:17:55 UTC 2024
 
 ## Latest Analysis
 
-Loaded 4532 incidents
-Date range: 2024-01-01 00:00:00 to 2024-12-24 01:30:51
+Loaded 4586 incidents
+Date range: 2024-01-01 00:00:00 to 2024-12-24 06:12:34
 
 Incidents by source:
 source
-newsapi           4431
+newsapi           4485
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -24,34 +24,28 @@ tribution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2024-12-24 01:30
-- Location: VOA News
-- Description: GUAYAQUIL, Ecuador — Ecuador's President Daniel Noboa on Monday pledged that his government would not cover up for anyone involved in the disappearance of four children who were last seen running away from a military convoy this month. 
+### HOMICIDE on 2024-12-24 06:12
+- Location: Slashdot.org
+- Description: New York City police working to ID woman set ablaze in subway and 'person of interest' in her deathABC News What to know about the death of a woman who was set on fire in a New York City subway trainThe Associated Press “A guy came up to me, he had a knife”: …
 
 
-The statement came a…
+### HOMICIDE on 2024-12-24 06:11
+- Location: NDTV News
+- Description: A 55-year-old member of a criminal gang accused of robbery and murder bid in Maharashtra's Palghar has been arrested from Jalna district after evading capture for 21 years, police said on Tuesday.
 
 
-### HOMICIDE on 2024-12-24 01:29
-- Location: Fox News
-- Description: Greensboro Police Officer Michael Horan, 44, was shot and killed inside a Food Lion grocery store just days before Christmas.
+### SHOOTING on 2024-12-24 06:06
+- Location: WDIV ClickOnDetroit
+- Description: New Mexico prosecutors won’t pursue an appeal of a court’s decision to dismiss an involuntary manslaughter charge against Alec Baldwin.
 
 
-### HOMICIDE on 2024-12-24 01:23
-- Location: New York Post
-- Description: “He was an excellent officer,” Harris said. “He had an outstanding reputation inside the department and in the community.”
+### HOMICIDE on 2024-12-24 06:04
+- Location: Freerepublic.com
+- Description: SNIP Johnathan Stanley Garcia-Vasquez was captured Friday outside his home in West New York, Immigrations and Customs Enforcement said Monday in a press release. “The United States is not a safe haven for international fugitives seeking to exploit our immigra…
 
 
-### HOMICIDE on 2024-12-24 01:23
-- Location: Gothamist
-- Description: A view from the station where a woman died after being lit on fire aboard an MTA subway train as she slept at the Coney Island-Stillwell Avenue subway station in the Coney Island section of Brooklyn on Sunday.
- 
+### OTHER on 2024-12-24 06:00
+- Location: ABC News (AU)
+- Description: A Wantirna South man presented himself to a police station following an investigation into an anti-Semitic protest on the steps of Parliament House last Friday.
 
-A Guatemalan citizen faces charges of murder i…
-
-
-### HOMICIDE on 2024-12-24 01:04
-- Location: CBC News
-- Description: A little more than two weeks after 20-year-old Harshandeep Singh was killed in a shooting while working as a security guard in a central Edmonton apartment building, the city is shutting the property down under an emergency order.
-
-Analysis generated at: Wed Dec 25 01:36:33 UTC 2024
+Analysis generated at: Wed Dec 25 06:17:55 UTC 2024
