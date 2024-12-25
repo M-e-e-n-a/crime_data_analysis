@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Dec 25 06:17:55 UTC 2024
+Last updated: Wed Dec 25 12:22:45 UTC 2024
 
 ## Latest Analysis
 
-Loaded 4586 incidents
-Date range: 2024-01-01 00:00:00 to 2024-12-24 06:12:34
+Loaded 4642 incidents
+Date range: 2024-01-01 00:00:00 to 2024-12-24 12:15:19
 
 Incidents by source:
 source
-newsapi           4485
+newsapi           4541
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ tribution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2024-12-24 06:12
-- Location: Slashdot.org
-- Description: New York City police working to ID woman set ablaze in subway and 'person of interest' in her deathABC News What to know about the death of a woman who was set on fire in a New York City subway trainThe Associated Press “A guy came up to me, he had a knife”: …
+### SHOOTING on 2024-12-24 12:15
+- Location: Boston Herald
+- Description: Special Prosecutor withdrew on Monday the appeal of a July decision to dismiss the charge
 
 
-### HOMICIDE on 2024-12-24 06:11
-- Location: NDTV News
-- Description: A 55-year-old member of a criminal gang accused of robbery and murder bid in Maharashtra's Palghar has been arrested from Jalna district after evading capture for 21 years, police said on Tuesday.
+### OTHER on 2024-12-24 12:15
+- Location: Infosecurity Magazine
+- Description: A joint US-Japan alert attributed North Korean hackers with a May 2024 crypto heist worth $308m from Japan-based company DMM
 
 
-### SHOOTING on 2024-12-24 06:06
-- Location: WDIV ClickOnDetroit
-- Description: New Mexico prosecutors won’t pursue an appeal of a court’s decision to dismiss an involuntary manslaughter charge against Alec Baldwin.
+### OTHER on 2024-12-24 12:10
+- Location: Al Jazeera English
+- Description: Resignations by incompetent leaders are welcome, but what we really need is true institutional responsibility.
 
 
-### HOMICIDE on 2024-12-24 06:04
-- Location: Freerepublic.com
-- Description: SNIP Johnathan Stanley Garcia-Vasquez was captured Friday outside his home in West New York, Immigrations and Customs Enforcement said Monday in a press release. “The United States is not a safe haven for international fugitives seeking to exploit our immigra…
+### ASSAULT on 2024-12-24 12:10
+- Location: CoinDesk
+- Description: Japanese police and U.S. agencies said the attack was "affiliated" with TraderTraitor, which is characterized by social engineering.
 
 
-### OTHER on 2024-12-24 06:00
-- Location: ABC News (AU)
-- Description: A Wantirna South man presented himself to a police station following an investigation into an anti-Semitic protest on the steps of Parliament House last Friday.
+### HOMICIDE on 2024-12-24 12:05
+- Location: BBC News
+- Description: Claire Button appears by video link and is remanded into custody until a plea hearing in January.
 
-Analysis generated at: Wed Dec 25 06:17:55 UTC 2024
+Analysis generated at: Wed Dec 25 12:22:45 UTC 2024
