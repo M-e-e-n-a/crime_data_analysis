@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Dec 25 18:16:13 UTC 2024
+Last updated: Thu Dec 26 00:58:19 UTC 2024
 
 ## Latest Analysis
 
-Loaded 4745 incidents
-Date range: 2024-01-01 00:00:00 to 2024-12-24 18:14:00
+Loaded 4757 incidents
+Date range: 2024-01-01 00:00:00 to 2024-12-25 00:49:47
 
 Incidents by source:
 source
-newsapi           4644
+newsapi           4656
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ tribution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2024-12-24 18:14
-- Location: LancasterOnline
-- Description: A Chester County man could spend up to 40 years in prison after pleading guilty in Lancaster County court to 35 offenses, including thefts, burglary and aggravated assault by vehicle.
+### SHOOTING on 2024-12-25 00:49
+- Location: ABC News
+- Description: The conclusion of a criminal case against Alec Baldwin in the fatal shooting of a cinematographer may clear the way for a related civil lawsuit by relatives of the deceased woman and efforts to depose the actor under oath
 
 
-### HOMICIDE on 2024-12-24 18:12
-- Location: Newsweek
-- Description: The 33-year-old is accused of setting a woman on fire on the New York City subway, killing her, on December 22, 2024.
+### ROBBERY/THEFT on 2024-12-25 00:48
+- Location: The Punch
+- Description: A group of lawyers, known as Bola Ahmed Tinubu Lawyers, are urging the Inspector-General of Police, Kayode Egbetokun, to probe the alleged assault on one of their members, Mr Ernest Okpaga, by officers at the National Cyber Crime Centre in Abuja. The group al…
 
 
-### HOMICIDE on 2024-12-24 18:12
-- Location: WSOC Charlotte
-- Description: Police in Gastonia say one person is dead after a shooting a day before Christmas.
+### HOMICIDE on 2024-12-25 00:45
+- Location: WSB Atlanta
+- Description: Atlanta police are investigating after a woman was shot to death on Christmas Eve.
 
 
-### HOMICIDE on 2024-12-24 18:10
-- Location: The Times of India
-- Description: Fresh protests have erupted in Kolkata over the RG Kar Hospital rape and murder case. Doctors' organizations clashed with the police during demonstrations outside the CBI headquarters. They accused the CBI of delays and collusion with the police to protect th…
+### HOMICIDE on 2024-12-25 00:43
+- Location: Japan Today
+- Description: President-elect Donald Trump promised on Tuesday to “vigorously pursue” capital punishment after President Joe Biden commuted the sentences of most people on federal death row partly to stop Trump from pushing forward their executions. Trump criticized Biden’…
 
 
-### OTHER on 2024-12-24 18:00
-- Location: Chicago Reader
-- Description: Grant Pick had a knack for the unusual. During his time as a Reader contributor, he documented residents of a north-side hotel as they fought against displacement, interviewed a local hypnotist who once loaned his services to Saddam Hussein’s eldest son, and …
+### SHOOTING on 2024-12-25 00:42
+- Location: WXYZ
+- Description: Three people have been hospitalized after being shot in Oxford on Christmas Eve night, according to police
 
-Analysis generated at: Wed Dec 25 18:16:13 UTC 2024
+Analysis generated at: Thu Dec 26 00:58:19 UTC 2024
