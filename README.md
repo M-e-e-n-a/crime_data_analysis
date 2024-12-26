@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Dec 26 12:39:31 UTC 2024
+Last updated: Thu Dec 26 18:16:44 UTC 2024
 
 ## Latest Analysis
 
-Loaded 4835 incidents
-Date range: 2024-01-01 00:00:00 to 2024-12-25 12:38:07
+Loaded 4889 incidents
+Date range: 2024-01-01 00:00:00 to 2024-12-25 18:12:08
 
 Incidents by source:
 source
-newsapi           4734
+newsapi           4788
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ tribution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2024-12-25 12:38
-- Location: The Times of India
-- Description: Delhi Police uncover an illegal immigration racket helping Bangladeshi nationals forge documents to settle in India, arresting 11 individuals including Aadhaar operators and tech experts. The gang used fake websites to create counterfeit IDs and facilitated i…
+### HOMICIDE on 2024-12-25 18:12
+- Location: Slashdot.org
+- Description: A gang attack on a Haitian hospital reopening kills 2 reporters and a police officerNPR Three shot dead as gunmen attack Haiti's biggest hospitalBBC.com Two reporters and a police officer killed in shooting at Haiti hospital reopeningThe Guardian Armed men fi…
 
 
-### HOMICIDE on 2024-12-25 12:27
-- Location: Newsweek
-- Description: The NYPD is still working to identify the woman who was set on fire while she slept on the New York City Subway last weekend.
+### SHOOTING on 2024-12-25 18:07
+- Location: The Denver Post
+- Description: Three men and one woman were transferred to the hospital with unknown injuries, police said.
 
 
-### SHOOTING on 2024-12-25 12:23
-- Location: Breitbart News
-- Description: SANTA FE, N.M. — The conclusion of a criminal case against Alec Baldwin in the fatal shooting of a cinematographer clears the way for a related civil lawsuit by relatives of the deceased woman and efforts to depose the actor under oath, attorneys for plaintif…
+### ASSAULT on 2024-12-25 18:04
+- Location: New York Post
+- Description: Jason Sargeant, 28, of Brooklyn, was arrested after the violent spree  Tuesday night, in which he allegedly  stabbed a 26-year-old woman in the throat and slashed a 42-year-old man in the wrist in separate attacks.
 
 
-### OTHER on 2024-12-25 12:13
-- Location: [Removed]
-- Description: [Removed]
+### ROBBERY/THEFT on 2024-12-25 17:55
+- Location: Yahoo Entertainment
+- Description: None
 
 
-### SHOOTING on 2024-12-25 12:08
-- Location: TMZ
-- Description: A brazen bandit looked more like he was trying out for a role in a Quentin Tarantino movie instead of robbing a Walgreens in Tennessee because he used double-fisted guns to commit the wild crime. The Memphis PD released surveillance footage…
+### OTHER on 2024-12-25 17:54
+- Location: The Jerusalem Post
+- Description: According to police, the caregiver took advantage of the patient's health condition, using his credit cards to steal hundreds of thousands of shekels.
 
-Analysis generated at: Thu Dec 26 12:39:31 UTC 2024
+Analysis generated at: Thu Dec 26 18:16:44 UTC 2024
