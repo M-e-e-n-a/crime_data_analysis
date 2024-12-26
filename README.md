@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Dec 26 12:23:28 UTC 2024
+Last updated: Thu Dec 26 12:39:31 UTC 2024
 
 ## Latest Analysis
 
-Loaded 4832 incidents
-Date range: 2024-01-01 00:00:00 to 2024-12-25 12:13:05
+Loaded 4835 incidents
+Date range: 2024-01-01 00:00:00 to 2024-12-25 12:38:07
 
 Incidents by source:
 source
-newsapi           4731
+newsapi           4734
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -24,6 +24,21 @@ tribution.svg)
 
 ## Recent Incidents
 
+### OTHER on 2024-12-25 12:38
+- Location: The Times of India
+- Description: Delhi Police uncover an illegal immigration racket helping Bangladeshi nationals forge documents to settle in India, arresting 11 individuals including Aadhaar operators and tech experts. The gang used fake websites to create counterfeit IDs and facilitated i…
+
+
+### HOMICIDE on 2024-12-25 12:27
+- Location: Newsweek
+- Description: The NYPD is still working to identify the woman who was set on fire while she slept on the New York City Subway last weekend.
+
+
+### SHOOTING on 2024-12-25 12:23
+- Location: Breitbart News
+- Description: SANTA FE, N.M. — The conclusion of a criminal case against Alec Baldwin in the fatal shooting of a cinematographer clears the way for a related civil lawsuit by relatives of the deceased woman and efforts to depose the actor under oath, attorneys for plaintif…
+
+
 ### OTHER on 2024-12-25 12:13
 - Location: [Removed]
 - Description: [Removed]
@@ -33,19 +48,4 @@ tribution.svg)
 - Location: TMZ
 - Description: A brazen bandit looked more like he was trying out for a role in a Quentin Tarantino movie instead of robbing a Walgreens in Tennessee because he used double-fisted guns to commit the wild crime. The Memphis PD released surveillance footage…
 
-
-### SHOOTING on 2024-12-25 12:04
-- Location: NBC News
-- Description: Three-year-old Skye McBride survived an accidental shooting. Her recovery has been a "miracle," her doctors and nurses say. But that hasn't made it any easier.
-
-
-### ROBBERY/THEFT on 2024-12-25 12:02
-- Location: Securityaffairs.com
-- Description: Japanese and U.S. authorities attributed the theft of $308 million cryptocurrency from DMM Bitcoin to North Korean cyber actors. Japanese and U.S. authorities linked the $308 million cyber heist targeting cryptocurrency company DMM Bitcoin to North Korea-link…
-
-
-### OTHER on 2024-12-25 12:00
-- Location: Lawyersgunsmoneyblog.com
-- Description: This is the grave of Lyman Lemnitzer. Born in 1899 in Homedale, Pennsylvania, Lemnitzer graduated from high school there, got a West Point appointment, and finished there in 1920. He became a coast artillery man and went to the Coast Artillery School, graduat…
-
-Analysis generated at: Thu Dec 26 12:23:28 UTC 2024
+Analysis generated at: Thu Dec 26 12:39:31 UTC 2024
