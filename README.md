@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Dec 27 06:17:19 UTC 2024
+Last updated: Fri Dec 27 12:23:23 UTC 2024
 
 ## Latest Analysis
 
-Loaded 4926 incidents
-Date range: 2024-01-01 00:00:00 to 2024-12-26 06:06:19
+Loaded 4979 incidents
+Date range: 2024-01-01 00:00:00 to 2024-12-26 12:22:54
 
 Incidents by source:
 source
-newsapi           4825
+newsapi           4878
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ tribution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2024-12-26 06:06
-- Location: The Times of India
-- Description: Vishal Gawli and his wife, Sakshi Gawli, were produced in Kalyan's Special POCSO Court in connection with the rape and murder of a 13-year-old girl. Both have been remanded to police custody until January 2 for further investigation into the crime and the dis…
+### SHOOTING on 2024-12-26 12:22
+- Location: Paddle Your Own Kanoo
+- Description: An altercation inside Phoenix Sky Harbor Airport turned violent late on Christmas Day, leaving three people injured by gunfire and a fourth person stabbed in what authorities have described as a family dispute. Ruling out terrorism, the Phoenix Police Departm…
 
 
-### ROBBERY/THEFT on 2024-12-26 06:00
-- Location: Hurriyet Daily News
-- Description: The Ankara police have recovered a sixth-century statue depicting a priest during an inspection in the capital seven years after the artwork was stolen from a museum garden in the southwestern province of Isparta.
+### OTHER on 2024-12-26 12:19
+- Location: The Jerusalem Post
+- Description: Two weeks after rebels overthrew the Assad regime, protests and accusations start up over the new government.
 
 
-### OTHER on 2024-12-26 06:00
-- Location: The Irish Times
-- Description: Hotline.ie chief executive Mick Moran is at the forefront of efforts to unearth the origins of child sexual abuse material in Ireland and removing its subjects from harm
+### HOMICIDE on 2024-12-26 12:19
+- Location: Newsweek
+- Description: A Milwaukee resident said: "Those are kids. You know, I just talked to both of their parents and consoled them on Christmas, and that's the hard part."
 
 
-### OTHER on 2024-12-26 06:00
-- Location: The Irish Times
-- Description: Measure would enable trained officers to pose as children online to ensnare potential abusers seeking to exploit minors sexually
+### DRUG RELATED on 2024-12-26 12:15
+- Location: Fox56news.com
+- Description: A Corbin man is facing charges after he allegedly threw over a pound of methamphetamine out of a pickup truck while being pulled over by police on Sunday.
 
 
-### OTHER on 2024-12-26 05:42
-- Location: The Times of India
-- Description: Bangladesh has seen significant changes with the ousting of Prime Minister Sheikh Hasina, who fled to India amid protests. Relations with India may be impacted, especially with the interim leader Muhammad Yunus calling for her extradition. The interim governm…
+### OTHER on 2024-12-26 12:11
+- Location: Boston Herald
+- Description: Ryan Routh's trial will begin Sept. 8 instead of Feb. 10.
 
-Analysis generated at: Fri Dec 27 06:17:19 UTC 2024
+Analysis generated at: Fri Dec 27 12:23:23 UTC 2024
