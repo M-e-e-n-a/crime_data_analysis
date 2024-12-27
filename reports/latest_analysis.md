@@ -1,10 +1,10 @@
 
-Loaded 4889 incidents
-Date range: 2024-01-01 00:00:00 to 2024-12-25 18:12:08
+Loaded 4896 incidents
+Date range: 2024-01-01 00:00:00 to 2024-12-26 00:53:30
 
 Incidents by source:
 source
-newsapi           4788
+newsapi           4795
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ tribution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2024-12-25 18:12
-- Location: Slashdot.org
-- Description: A gang attack on a Haitian hospital reopening kills 2 reporters and a police officerNPR Three shot dead as gunmen attack Haiti's biggest hospitalBBC.com Two reporters and a police officer killed in shooting at Haiti hospital reopeningThe Guardian Armed men fi…
+### OTHER on 2024-12-26 00:53
+- Location: The Punch
+- Description: In a world where financial security is often seen as a cornerstone for a peaceful future, many individuals turn to insurance as a safeguard for their loved ones and assets. However, for some, what was intended to be a secure investment for their future become…
 
 
-### SHOOTING on 2024-12-25 18:07
-- Location: The Denver Post
-- Description: Three men and one woman were transferred to the hospital with unknown injuries, police said.
+### SHOOTING on 2024-12-26 00:46
+- Location: The Punch
+- Description: Mrs. Funmilayo Ogunseyi, the mother of Naomi Silekunola, a former wife of the Ooni of Ife, has called on President Bola Tinubu and well-meaning Nigerians to intervene in her daughter’s legal troubles. Silekunola is among three individuals taken before the Iya…
 
 
-### ASSAULT on 2024-12-25 18:04
-- Location: New York Post
-- Description: Jason Sargeant, 28, of Brooklyn, was arrested after the violent spree  Tuesday night, in which he allegedly  stabbed a 26-year-old woman in the throat and slashed a 42-year-old man in the wrist in separate attacks.
+### OTHER on 2024-12-26 00:43
+- Location: Securityaffairs.com
+- Description: Apache Software Foundation (ASF) addressed a critical SQL Injection vulnerability, tracked as CVE-2024-45387, in Apache Traffic Control. The Apache Software Foundation (ASF) released security updates to address a critical security vulnerability, tracked as CV…
 
 
-### ROBBERY/THEFT on 2024-12-25 17:55
-- Location: Yahoo Entertainment
-- Description: None
+### ASSAULT on 2024-12-26 00:39
+- Location: Fox News
+- Description: NYPD officials confirmed that a suspect was taken into custody after two people were slashed in separate attacks inside the Grand Central-42nd Street subway station on Christmas Eve.
 
 
-### OTHER on 2024-12-25 17:54
-- Location: The Jerusalem Post
-- Description: According to police, the caregiver took advantage of the patient's health condition, using his credit cards to steal hundreds of thousands of shekels.
+### ASSAULT on 2024-12-26 00:20
+- Location: Thegatewaypundit.com
+- Description: On Christmas Eve, a shocking attack at Grand Central Station left two injured. Discover the details behind this alarming incident and the implications of bystander inaction.
+The post Two People Slashed at NYC’s Grand Central Terminal on Christmas Eve by Indiv…
 
-Analysis generated at: Thu Dec 26 18:16:44 UTC 2024
+Analysis generated at: Fri Dec 27 00:58:28 UTC 2024
