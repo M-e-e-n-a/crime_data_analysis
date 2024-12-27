@@ -1,10 +1,10 @@
 
-Loaded 4900 incidents
-Date range: 2024-01-01 00:00:00 to 2024-12-26 01:31:44
+Loaded 4926 incidents
+Date range: 2024-01-01 00:00:00 to 2024-12-26 06:06:19
 
 Incidents by source:
 source
-newsapi           4799
+newsapi           4825
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ tribution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2024-12-26 01:31
-- Location: BBC News
-- Description: An investigation is ongoing following the death of a man found in cardiac arrest on Christmas Day.
+### HOMICIDE on 2024-12-26 06:06
+- Location: The Times of India
+- Description: Vishal Gawli and his wife, Sakshi Gawli, were produced in Kalyan's Special POCSO Court in connection with the rape and murder of a 13-year-old girl. Both have been remanded to police custody until January 2 for further investigation into the crime and the dis…
 
 
-### HOMICIDE on 2024-12-26 01:30
-- Location: ComicBook.com
-- Description: “Do there have to be zombies?” That’s what an NBC executive reportedly asked Frank Darabont, the Oscar-nominated writer-director of The Shawshank Redemption and The Green Mile, when the filmmaker pitched a live-action adaptation of Image Comics’ post-apocalyp…
+### ROBBERY/THEFT on 2024-12-26 06:00
+- Location: Hurriyet Daily News
+- Description: The Ankara police have recovered a sixth-century statue depicting a priest during an inspection in the capital seven years after the artwork was stolen from a museum garden in the southwestern province of Isparta.
 
 
-### HOMICIDE on 2024-12-26 01:11
-- Location: The Punch
-- Description: The suspected killer of Niger State ex-permanent secretary, 18-year-old Fatiha Abdulhakeem has died in the Minna General Hospital, the Police Public Relations Officer, Wasiu Abiodun, has said. Abiodun made this known on Wednesday when he confirmed that the su…
+### OTHER on 2024-12-26 06:00
+- Location: The Irish Times
+- Description: Hotline.ie chief executive Mick Moran is at the forefront of efforts to unearth the origins of child sexual abuse material in Ireland and removing its subjects from harm
 
 
-### OTHER on 2024-12-26 01:09
-- Location: The Punch
-- Description: The Inspector General of Police, Dr. Kayode Egbetokun, has called for sustained collaboration from the various communities across the country in the ongoing security and peace building efforts. This, the IGP said, is urgently desirable to positively tackle th…
+### OTHER on 2024-12-26 06:00
+- Location: The Irish Times
+- Description: Measure would enable trained officers to pose as children online to ensnare potential abusers seeking to exploit minors sexually
 
 
-### OTHER on 2024-12-26 00:53
-- Location: The Punch
-- Description: In a world where financial security is often seen as a cornerstone for a peaceful future, many individuals turn to insurance as a safeguard for their loved ones and assets. However, for some, what was intended to be a secure investment for their future become…
+### OTHER on 2024-12-26 05:42
+- Location: The Times of India
+- Description: Bangladesh has seen significant changes with the ousting of Prime Minister Sheikh Hasina, who fled to India amid protests. Relations with India may be impacted, especially with the interim leader Muhammad Yunus calling for her extradition. The interim governm…
 
-Analysis generated at: Fri Dec 27 01:37:43 UTC 2024
+Analysis generated at: Fri Dec 27 06:17:19 UTC 2024
