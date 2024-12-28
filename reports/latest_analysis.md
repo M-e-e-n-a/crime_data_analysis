@@ -1,10 +1,10 @@
 
-Loaded 5089 incidents
-Date range: 2024-01-01 00:00:00 to 2024-12-27 00:54:48
+Loaded 5094 incidents
+Date range: 2024-01-01 00:00:00 to 2024-12-27 01:34:43
 
 Incidents by source:
 source
-newsapi           4988
+newsapi           4993
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ tribution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2024-12-27 00:54
-- Location: ABC News (AU)
-- Description: Former police officer Brad Battin has ascended to the leadership of the Liberal Party after 14 years in parliament.
+### OTHER on 2024-12-27 01:34
+- Location: [Removed]
+- Description: [Removed]
 
 
-### OTHER on 2024-12-27 00:51
+### OTHER on 2024-12-27 01:34
+- Location: [Removed]
+- Description: [Removed]
+
+
+### OTHER on 2024-12-27 01:26
+- Location: The Times of India
+- Description: Bollywood faces a 30% to 40% decline in box-office collections in 2024, raising concerns of increased crime in Mumbai. Organized crime has a long history with Bollywood. The city's underworld may be re-engaging with the film industry. This situation mirrors t…
+
+
+### OTHER on 2024-12-27 01:10
 - Location: Freerepublic.com
-- Description: WESTWOOD, LOS ANGELES (KABC) -- Police are searching for the suspects who allegedly yelled a homophobic slur at a UCLA student near campus and threw wads of paper at the victim. According to the UCLA Police Department, the incident happened on Christmas Eve a…
+- Description: CHICAGO — Shoplifters in Chicago are more than 100% more likely to be slapped with felony charges under Cook County’s new state’s attorney than they were under Kim Foxx’s administration. Retired justice Eileen O’Neill Burke took office on December 2 and immed…
 
 
-### HOMICIDE on 2024-12-27 00:46
-- Location: ABC News (AU)
-- Description: Queensland police have released CCTV footage in a public appeal for more information about the shooting murder of a 23-year-old woman in a suburban street north of Brisbane on Sunday.
+### OTHER on 2024-12-27 01:07
+- Location: [Removed]
+- Description: [Removed]
 
-
-### HOMICIDE on 2024-12-27 00:35
-- Location: CinemaBlend
-- Description: Quentin Tarantino has a lot of skills as a filmmaker, and one of the best is his ability to craft memorable side characters.
-
-
-### HOMICIDE on 2024-12-27 00:32
-- Location: The Denver Post
-- Description: A Pueblo man was killed and another victim was injured in a double shooting early Thursday morning.
-
-Analysis generated at: Sat Dec 28 00:57:30 UTC 2024
+Analysis generated at: Sat Dec 28 01:35:29 UTC 2024
