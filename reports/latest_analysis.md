@@ -1,10 +1,10 @@
 
-Loaded 5075 incidents
-Date range: 2024-01-01 00:00:00 to 2024-12-26 18:15:29
+Loaded 5089 incidents
+Date range: 2024-01-01 00:00:00 to 2024-12-27 00:54:48
 
 Incidents by source:
 source
-newsapi           4974
+newsapi           4988
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ tribution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2024-12-26 18:15
-- Location: NBC News
-- Description: A delivery driver allegedly returned to a Florida motel where a couple was staying and stabbed a woman multiple times over being tipped $2 on a pizza delivery order, police said.
+### OTHER on 2024-12-27 00:54
+- Location: ABC News (AU)
+- Description: Former police officer Brad Battin has ascended to the leadership of the Liberal Party after 14 years in parliament.
 
 
-### OTHER on 2024-12-26 18:12
-- Location: HackRead
-- Description: SUMMARY Two California men have been arrested and charged in what is being called the largest NFT fraud…
+### OTHER on 2024-12-27 00:51
+- Location: Freerepublic.com
+- Description: WESTWOOD, LOS ANGELES (KABC) -- Police are searching for the suspects who allegedly yelled a homophobic slur at a UCLA student near campus and threw wads of paper at the victim. According to the UCLA Police Department, the incident happened on Christmas Eve a…
 
 
-### OTHER on 2024-12-26 18:12
-- Location: Newsbreak.com
-- Description: A New York Times released an article documenting eight months into the lives of some of the 55,000 migrants that are still sheltering in New York City.
+### HOMICIDE on 2024-12-27 00:46
+- Location: ABC News (AU)
+- Description: Queensland police have released CCTV footage in a public appeal for more information about the shooting murder of a 23-year-old woman in a suburban street north of Brisbane on Sunday.
 
 
-### SHOOTING on 2024-12-26 18:12
-- Location: The Star Online
-- Description: NEW YORK, Dec. 26 (Xinhua) -- Authorities are investigating a Christmas shooting at Sky Harbor Airport in Phoenix, the capital of the southwestern U.S. state of Arizona, which left three people injured by gunfire and another person stabbed. Read full story
+### HOMICIDE on 2024-12-27 00:35
+- Location: CinemaBlend
+- Description: Quentin Tarantino has a lot of skills as a filmmaker, and one of the best is his ability to craft memorable side characters.
 
 
-### OTHER on 2024-12-26 18:01
-- Location: WWD
-- Description: The sweater Luigi Mangione wore at his appearance in a Manhattan courtroom went viral, boosting searches for Maison Margiela and Nodstrom.
+### HOMICIDE on 2024-12-27 00:32
+- Location: The Denver Post
+- Description: A Pueblo man was killed and another victim was injured in a double shooting early Thursday morning.
 
-Analysis generated at: Fri Dec 27 18:16:34 UTC 2024
+Analysis generated at: Sat Dec 28 00:57:30 UTC 2024
