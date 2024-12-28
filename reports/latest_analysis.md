@@ -1,10 +1,10 @@
 
-Loaded 5127 incidents
-Date range: 2024-01-01 00:00:00 to 2024-12-27 06:14:56
+Loaded 5185 incidents
+Date range: 2024-01-01 00:00:00 to 2024-12-27 12:17:36
 
 Incidents by source:
 source
-newsapi           5026
+newsapi           5084
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ tribution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2024-12-27 06:14
-- Location: Globalsecurity.org
-- Description: Israel has killed at least 38 Palestinians in Gaza and injured 137 across the Gaza Strip in the past 24 hours, as the regime presses ahead with its air and artillery strikes across the blockaded territory.
+### HOMICIDE on 2024-12-27 12:17
+- Location: Newser
+- Description: A pizza delivery woman in yes, Florida, who was upset over a $2 tip on a $33 pizza returned after her shift was over to take revenge, police say. Brianna Alvelo, 22, faces charges including attempted murder for allegedly stabbing the pregnant customer 14 time…
 
 
-### HOMICIDE on 2024-12-27 06:13
-- Location: The Times of India
-- Description: Five people, including the owner of a residential school, were initially arrested for the murder of an 11-year-old student in Hathras. Police later identified a 13-year-old student as the real murderer. The accused hoped to bring chaos to the school. The vict…
+### OTHER on 2024-12-27 12:06
+- Location: [Removed]
+- Description: [Removed]
 
 
-### OTHER on 2024-12-27 06:00
-- Location: Insurance Journal
-- Description: One in six (17%) young drivers admit to being on a ‘fronted’ policy, which is illegal, according to research by United Kingdom insurer Aviva. Fronting is a form of insurance fraud where the young driver is listed as a named …
+### OTHER on 2024-12-27 12:06
+- Location: CBS News
+- Description: The man accused of setting a woman on fire aboard a Brooklyn subway train is due back in court Friday.
 
 
-### OTHER on 2024-12-27 06:00
-- Location: The Irish Times
-- Description: Far-right-inspired violence and continued sluggish efforts to grow the Garda force dominated Harris’s final full year in charge
+### HOMICIDE on 2024-12-27 12:03
+- Location: Biztoc.com
+- Description: The father of murdered six-year-old JonBenét Ramsey plans to connect police to independent forensic scientists as he campaigns for new testing in the 28-year-old case.
+John Ramsey, 80, told Fox News Thursday that he will meet with the police chief of Boulder,…
 
 
-### HOMICIDE on 2024-12-27 06:00
-- Location: The Irish Times
-- Description: The Irish Times’s obituary writers have marked the deaths of more than 110 people this year, from entrepreneurs to musicians to journalists. Here is a selection
+### OTHER on 2024-12-27 12:03
+- Location: Kunstler.com
+- Description: "A core reflex in these decades of postmodern insanity was constant rejection of things we thought we knew in favor of New, Improved Beliefs packaged from above.” — Matt Taibbi, Racket News
 
-Analysis generated at: Sat Dec 28 06:16:12 UTC 2024
+Analysis generated at: Sat Dec 28 12:21:16 UTC 2024
