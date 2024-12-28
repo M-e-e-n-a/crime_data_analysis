@@ -1,10 +1,10 @@
 
-Loaded 5189 incidents
-Date range: 2024-01-01 00:00:00 to 2024-12-27 12:31:13
+Loaded 5289 incidents
+Date range: 2024-01-01 00:00:00 to 2024-12-27 18:12:00
 
 Incidents by source:
 source
-newsapi           5088
+newsapi           5188
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ tribution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2024-12-27 12:31
-- Location: [Removed]
-- Description: [Removed]
+### OTHER on 2024-12-27 18:12
+- Location: Sky.com
+- Description: An Italian journalist has been detained by Iranian police while reporting in Tehran, Italy's foreign ministry has said.
 
 
-### HOMICIDE on 2024-12-27 12:25
-- Location: WJXT News4JAX
-- Description: Most Americans believe health insurance profits and coverage denials share responsibility for the killing of UnitedHealthcare’s CEO — although not as much as the person who pulled the trigger.
+### OTHER on 2024-12-27 18:08
+- Location: NBC News
+- Description: Eleven Illinois teenagers were hit with felony charges in connection with the alleged luring and beating of two men using dating apps this summer, according to police.
 
 
-### HOMICIDE on 2024-12-27 12:22
-- Location: WDIV ClickOnDetroit
-- Description: Most Americans believe health insurance profits and coverage denials share responsibility for the killing of UnitedHealthcare’s CEO — although not as much as the person who pulled the trigger.
+### HOMICIDE on 2024-12-27 18:07
+- Location: NDTV News
+- Description: The Andhra Pradesh police have solved the mystery of the dead body parcel case by arresting three people, police said on Friday.
 
 
-### HOMICIDE on 2024-12-27 12:22
-- Location: seattlepi.com
-- Description: Most Americans believe health insurance profits and coverage denials share responsibility for the killing of UnitedHealthcare’s CEO — although not as much as the person who pulled the trigger. So says a new poll from NORC at the University of Chicago. It find…
+### SHOOTING on 2024-12-27 18:04
+- Location: Freerepublic.com
+- Description: A group of teenagers learned the hard way that crime doesn’t pay after allegedly attempting to rob a man at gunpoint in Houston, Texas. The incident, which unfolded early Thursday morning, left three of the teens hospitalized after the would-be victim turned …
 
 
-### HOMICIDE on 2024-12-27 12:17
-- Location: Newser
-- Description: A pizza delivery woman in yes, Florida, who was upset over a $2 tip on a $33 pizza returned after her shift was over to take revenge, police say. Brianna Alvelo, 22, faces charges including attempted murder for allegedly stabbing the pregnant customer 14 time…
+### OTHER on 2024-12-27 18:03
+- Location: Cyberinsider.com
+- Description: A massive data leak involving over 800,000 Volkswagen EVs has left sensitive user information unprotected on the internet.
 
-Analysis generated at: Sat Dec 28 12:36:43 UTC 2024
+Analysis generated at: Sat Dec 28 18:15:34 UTC 2024
