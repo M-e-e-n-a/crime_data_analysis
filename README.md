@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Dec 29 06:16:21 UTC 2024
+Last updated: Sun Dec 29 12:21:13 UTC 2024
 
 ## Latest Analysis
 
-Loaded 5329 incidents
-Date range: 2024-01-01 00:00:00 to 2024-12-28 06:00:00
+Loaded 5371 incidents
+Date range: 2024-01-01 00:00:00 to 2024-12-28 12:18:53
 
 Incidents by source:
 source
-newsapi           5228
+newsapi           5270
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ tribution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2024-12-28 06:00
-- Location: The Irish Times
-- Description: The winning quotes of the year in sport
+### OTHER on 2024-12-28 12:18
+- Location: BBC News
+- Description: A man was found suffering serious stab injuries in Linacre Road, Willesden Green, on Saturday.
 
 
-### OTHER on 2024-12-28 06:00
+### SHOOTING on 2024-12-28 12:17
+- Location: Paddle Your Own Kanoo
+- Description: A man showed up at the Transportation Security Administration (TSA) checkpoint at LaGuardia Airport on December 23 with 11 replica handguns stuffed in his carry-on, snarling the security line on one of the busiest travel days of the year. The passenger had a …
+
+
+### HOMICIDE on 2024-12-28 11:50
+- Location: NDTV News
+- Description: A woman was found hanging under mysterious circumstances inside her home near Awas Vikas Colony in the Amethi police station area, police said on Saturday.
+
+
+### OTHER on 2024-12-28 11:45
 - Location: [Removed]
 - Description: [Removed]
 
 
-### OTHER on 2024-12-28 05:31
-- Location: The Times of India
-- Description: The Trinamool Congress (TMC) retained power in West Bengal, winning the 2024 Lok Sabha elections and subsequent bypolls, despite controversies. TMC's leader Mamata Banerjee faced challenges but strengthened her political position. The BJP struggled with inter…
+### OTHER on 2024-12-28 11:43
+- Location: [Removed]
+- Description: [Removed]
 
-
-### OTHER on 2024-12-28 05:15
-- Location: The Irish Times
-- Description: Including The Traitors, The White Lotus, Zero Day, Your Friends & Neighbors, The Walsh Sisters and The Bear
-
-
-### ASSAULT on 2024-12-28 05:02
-- Location: Freerepublic.com
-- Description: The demand for racism continues to exceed the supplyThere were 21 campus hate crime hoaxes uncovered this year.A hate crime hoax occurs when a person admits to fabricating the attack or something that appears criminal turns out to not be, such as a noose that…
-
-Analysis generated at: Sun Dec 29 06:16:21 UTC 2024
+Analysis generated at: Sun Dec 29 12:21:13 UTC 2024
