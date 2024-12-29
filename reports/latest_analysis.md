@@ -1,10 +1,10 @@
 
-Loaded 5289 incidents
-Date range: 2024-01-01 00:00:00 to 2024-12-27 18:12:00
+Loaded 5299 incidents
+Date range: 2024-01-01 00:00:00 to 2024-12-28 01:03:13
 
 Incidents by source:
 source
-newsapi           5188
+newsapi           5198
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ tribution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2024-12-27 18:12
-- Location: Sky.com
-- Description: An Italian journalist has been detained by Iranian police while reporting in Tehran, Italy's foreign ministry has said.
+### OTHER on 2024-12-28 01:03
+- Location: [Removed]
+- Description: [Removed]
 
 
-### OTHER on 2024-12-27 18:08
-- Location: NBC News
-- Description: Eleven Illinois teenagers were hit with felony charges in connection with the alleged luring and beating of two men using dating apps this summer, according to police.
+### ASSAULT on 2024-12-28 00:53
+- Location: Electronicintifada.net
+- Description: Students, faculty fight administration’s repression and censorship.
 
 
-### HOMICIDE on 2024-12-27 18:07
-- Location: NDTV News
-- Description: The Andhra Pradesh police have solved the mystery of the dead body parcel case by arresting three people, police said on Friday.
+### HOMICIDE on 2024-12-28 00:38
+- Location: The Star Online
+- Description: IPOH: A man suspected of killing a dog in Ladang Malaya, Selama, by shooting it with an arrow was charged in the Taiping Magistrate's Court on Dec 23. Read full story
 
 
-### SHOOTING on 2024-12-27 18:04
-- Location: Freerepublic.com
-- Description: A group of teenagers learned the hard way that crime doesn’t pay after allegedly attempting to rob a man at gunpoint in Houston, Texas. The incident, which unfolded early Thursday morning, left three of the teens hospitalized after the would-be victim turned …
+### HOMICIDE on 2024-12-28 00:36
+- Location: Yahoo Entertainment
+- Description: Three people are facing charges after a 16-year-old was found dead in Lincolnton earlier this month.
 
 
-### OTHER on 2024-12-27 18:03
-- Location: Cyberinsider.com
-- Description: A massive data leak involving over 800,000 Volkswagen EVs has left sensitive user information unprotected on the internet.
+### HOMICIDE on 2024-12-28 00:33
+- Location: Boston Herald
+- Description: Boston’s police commissioner boasted that the “city has never been safer” Friday when joining the mayor in rolling out end-of-year crime statistics that feature a record-low number of homicides and shootings.
 
-Analysis generated at: Sat Dec 28 18:15:34 UTC 2024
+Analysis generated at: Sun Dec 29 01:04:23 UTC 2024
