@@ -1,10 +1,10 @@
 
-Loaded 5446 incidents
-Date range: 2024-01-01 00:00:00 to 2024-12-29 06:08:09
+Loaded 5484 incidents
+Date range: 2024-01-01 00:00:00 to 2024-12-29 12:17:00
 
 Incidents by source:
 source
-newsapi           5345
+newsapi           5383
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ tribution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2024-12-29 06:08
-- Location: ABC News
-- Description: Bolivia will elect a new president in August and already, a political battle is looming between two adversaries, the country's former leader Evo Morales and his onetime ally turned rival, President Luis Arce
+### OTHER on 2024-12-29 12:17
+- Location: The Star Online
+- Description: SEREMBAN: Police have arrested two men suspected of stealing cables belonging to Telekom Malaysia Berhad in Kampung Ulu Petasih, Kuala Klawang, Jelebu, early on Sunday (Dec 29) morning. Read full story
 
 
-### OTHER on 2024-12-29 06:00
-- Location: Naturalnews.com
-- Description: Listen to any speech given by Democrats in 2024, and you’ll be bombarded by buzzwords, sloganeering, euphemisms, and phrases that provide a constant diversion from answering truthfully. During this election cycle, the language is changing so fast that we need…
+### HOMICIDE on 2024-12-29 12:15
+- Location: Khabarhub.com
+- Description: BARA: A National Investigation Department (NID) officer has been implicated in the murder of Rajkumar Rumba, a police aide, in a case driven by personal grudges and robbery. The District Police Office in Bara revealed the involvement after arresting three sus…
 
 
-### OTHER on 2024-12-29 06:00
+### ROBBERY/THEFT on 2024-12-29 12:15
+- Location: The Punch
+- Description: The Federal Capital Territory Police Command has arrested four minors for allegedly stealing iron rods from an uncompleted building in the Guzape area of Abuja. The suspects, identified as 15-year-olds Matthew Vincent and Timothy Shedrack, 11-year-old Moses V…
+
+
+### OTHER on 2024-12-29 12:15
 - Location: [Removed]
 - Description: [Removed]
 
 
-### HOMICIDE on 2024-12-29 05:42
-- Location: New York Post
-- Description: A 35-year-old man was gunned down in Hell’s Kitchen on Saturday after arguing with a rival, cops and witnesses said — as crime continues to rise in the neighborhood.
+### ASSAULT on 2024-12-29 12:00
+- Location: NBC News
+- Description: Diversity, equity and inclusion programs at some of the country’s biggest companies fell apart in 2024. Anti-DEI efforts will most likely only ramp up in 2025.
 
-
-### SHOOTING on 2024-12-29 05:26
-- Location: WSOC Charlotte
-- Description: The Charlotte-Mecklenburg Police Department says an officer was involved in a shooting around 12 a.m. Sunday in west Charlotte.
-
-Analysis generated at: Mon Dec 30 06:18:14 UTC 2024
+Analysis generated at: Mon Dec 30 12:23:31 UTC 2024
