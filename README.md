@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Dec 30 01:00:52 UTC 2024
+Last updated: Mon Dec 30 01:40:26 UTC 2024
 
 ## Latest Analysis
 
-Loaded 5426 incidents
-Date range: 2024-01-01 00:00:00 to 2024-12-29 00:38:56
+Loaded 5427 incidents
+Date range: 2024-01-01 00:00:00 to 2024-12-29 01:05:00
 
 Incidents by source:
 source
-newsapi           5325
+newsapi           5326
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -23,6 +23,11 @@ tribution.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### SHOOTING on 2024-12-29 01:05
+- Location: Thehillstimes.in
+- Description: IMPHAL/ CHURACHANDPUR, Dec 28: A massive search was started in Manipur’s Imphal East district on Saturday evening for the armed men who were involved in the recent incidents of shooting at Thamnapokpi and Sanasabi, police said. Combined teams of police, Army,…
+
 
 ### OTHER on 2024-12-29 00:38
 - Location: The Jerusalem Post
@@ -43,9 +48,4 @@ tribution.svg)
 - Location: Khabarhub.com
 - Description: KATHMANDU: Manish Jha is one of the 12 Proportional Representation (PR) MPs of the Rastriya Swatantra Party (RSP). In the last election, the RSP secured 12 PR seats and 8 direct representation seats in Parliament. Among these MPs, Manish Jha is considered one…
 
-
-### HOMICIDE on 2024-12-29 00:14
-- Location: Fox News
-- Description: Authorities in Alaska announced that a woman was convicted for the 2020 murder of her court-appointed supervisor, 57-year-old Keith Huss.
-
-Analysis generated at: Mon Dec 30 01:00:52 UTC 2024
+Analysis generated at: Mon Dec 30 01:40:26 UTC 2024
