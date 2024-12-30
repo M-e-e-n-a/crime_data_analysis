@@ -1,10 +1,10 @@
 
-Loaded 5419 incidents
-Date range: 2024-01-01 00:00:00 to 2024-12-28 18:03:26
+Loaded 5426 incidents
+Date range: 2024-01-01 00:00:00 to 2024-12-29 00:38:56
 
 Incidents by source:
 source
-newsapi           5318
+newsapi           5325
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ tribution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2024-12-28 18:03
-- Location: New York Post
-- Description: Adams is facing a make-or-break year both politically and professionally in 2025, with federal corruption charges and a tough re-election bid among his toughest obstacles.
+### OTHER on 2024-12-29 00:38
+- Location: The Jerusalem Post
+- Description: A young border policeman walks the line between law and crime in this gritty Israeli drama that makes The Wire look tame, starring Ben Sultan as a rookie caught between his past and present.
 
 
-### SHOOTING on 2024-12-28 18:03
-- Location: STLtoday.com
-- Description: When officers arrived at the scene, they found a teenage boy who had been shot in his stomach. Officials have not released the teen's name.
+### ASSAULT on 2024-12-29 00:29
+- Location: Newsbreak.com
+- Description: A man in Colorado who claims to be a Marine allegedly attacked a television news reporter while demanding to know whether he was a U.S. citizen or not — telling him, "This is Trump's America now." The post ‘This is Trump’s America now!’: Man claiming to be Ma…
 
 
-### OTHER on 2024-12-28 18:00
-- Location: The Hill
-- Description: MoneyGeek, a personal finance site, had researchers analyze last year’s FBI crime data of more than 1,000 small towns and cities where the population is between 30,000 and 100,000.
+### HOMICIDE on 2024-12-29 00:24
+- Location: Sky.com
+- Description: Two people have been charged with the murder of a 50-year-old man.
 
 
-### OTHER on 2024-12-28 17:49
-- Location: CBC News
-- Description: Winnipeg police arrested two people and continue to search for a third in connection to a string of unrelated stabbings that happened within a five-hour span in the North End on Friday.
+### OTHER on 2024-12-29 00:15
+- Location: Khabarhub.com
+- Description: KATHMANDU: Manish Jha is one of the 12 Proportional Representation (PR) MPs of the Rastriya Swatantra Party (RSP). In the last election, the RSP secured 12 PR seats and 8 direct representation seats in Parliament. Among these MPs, Manish Jha is considered one…
 
 
-### ROBBERY/THEFT on 2024-12-28 17:41
-- Location: New York Post
-- Description: Travis Kelce's teammates and NFL friends gifted the star a reported $120,000 worth of memorabilia for Christmas to replace several stolen items.
+### HOMICIDE on 2024-12-29 00:14
+- Location: Fox News
+- Description: Authorities in Alaska announced that a woman was convicted for the 2020 murder of her court-appointed supervisor, 57-year-old Keith Huss.
 
-Analysis generated at: Sun Dec 29 18:15:11 UTC 2024
+Analysis generated at: Mon Dec 30 01:00:52 UTC 2024
