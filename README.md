@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Dec 30 12:23:31 UTC 2024
+Last updated: Mon Dec 30 12:39:20 UTC 2024
 
 ## Latest Analysis
 
-Loaded 5484 incidents
-Date range: 2024-01-01 00:00:00 to 2024-12-29 12:17:00
+Loaded 5490 incidents
+Date range: 2024-01-01 00:00:00 to 2024-12-29 12:36:14
 
 Incidents by source:
 source
-newsapi           5383
+newsapi           5389
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ tribution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2024-12-29 12:17
-- Location: The Star Online
-- Description: SEREMBAN: Police have arrested two men suspected of stealing cables belonging to Telekom Malaysia Berhad in Kampung Ulu Petasih, Kuala Klawang, Jelebu, early on Sunday (Dec 29) morning. Read full story
+### HOMICIDE on 2024-12-29 12:36
+- Location: CNN
+- Description: It’s been a week since a woman died in a New York City subway car, set on fire by a homeless, undocumented man. She has yet to be identified and the man charged with her murder says he doesn’t even remember being there.
 
 
-### HOMICIDE on 2024-12-29 12:15
-- Location: Khabarhub.com
-- Description: BARA: A National Investigation Department (NID) officer has been implicated in the murder of Rajkumar Rumba, a police aide, in a case driven by personal grudges and robbery. The District Police Office in Bara revealed the involvement after arresting three sus…
+### ASSAULT on 2024-12-29 12:31
+- Location: Fair Observer
+- Description: In July 2020, Iranian dissident Jamshid Sharmahd was visiting Dubai when he was suddenly abducted. Mobile phone data later traced his movements to Oman’s port city of Sohar, before the signal went silent. Days later, he reappeared in Iran, accused of leading …
 
 
-### ROBBERY/THEFT on 2024-12-29 12:15
-- Location: The Punch
-- Description: The Federal Capital Territory Police Command has arrested four minors for allegedly stealing iron rods from an uncompleted building in the Guzape area of Abuja. The suspects, identified as 15-year-olds Matthew Vincent and Timothy Shedrack, 11-year-old Moses V…
+### ROBBERY/THEFT on 2024-12-29 12:31
+- Location: Marca
+- Description: Luka Doncic has become the latest professional sportsman in the United States to suffer a robbery at his family home, a criminal act that in Europe is repeated quite assiduously at
 
 
-### OTHER on 2024-12-29 12:15
-- Location: [Removed]
-- Description: [Removed]
+### HOMICIDE on 2024-12-29 12:31
+- Location: Haaretz
+- Description: The police say that the body of 26-year-old Victoria Shkolnik, the mother of a girl, was found buried in the beach sand of Ashkelon's National Park. Alexander Zvialov, 60, stayed in a hideout apartment after the murder and was arrested at Ben Gurion Airport
 
 
-### ASSAULT on 2024-12-29 12:00
-- Location: NBC News
-- Description: Diversity, equity and inclusion programs at some of the country’s biggest companies fell apart in 2024. Anti-DEI efforts will most likely only ramp up in 2025.
+### SHOOTING on 2024-12-29 12:30
+- Location: Richmond.com
+- Description: Artificial intelligence. Abortion. Guns. Marijuana. Minimum wages. Name a hot topic, and chances are good there's a new law about it taking effect in 2025 in one state or another.
 
-Analysis generated at: Mon Dec 30 12:23:31 UTC 2024
+Analysis generated at: Mon Dec 30 12:39:20 UTC 2024
