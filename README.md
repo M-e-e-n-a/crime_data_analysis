@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Dec 30 12:39:20 UTC 2024
+Last updated: Mon Dec 30 18:16:54 UTC 2024
 
 ## Latest Analysis
 
-Loaded 5490 incidents
-Date range: 2024-01-01 00:00:00 to 2024-12-29 12:36:14
+Loaded 5547 incidents
+Date range: 2024-01-01 00:00:00 to 2024-12-29 18:14:19
 
 Incidents by source:
 source
-newsapi           5389
+newsapi           5446
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ tribution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2024-12-29 12:36
-- Location: CNN
-- Description: It’s been a week since a woman died in a New York City subway car, set on fire by a homeless, undocumented man. She has yet to be identified and the man charged with her murder says he doesn’t even remember being there.
+### SHOOTING on 2024-12-29 18:14
+- Location: The Denver Post
+- Description: Five people were injured in Saturday night and Sunday morning shootings across Denver's Five Points, Montbello and Virginia Village neighborhoods, police said.
 
 
-### ASSAULT on 2024-12-29 12:31
-- Location: Fair Observer
-- Description: In July 2020, Iranian dissident Jamshid Sharmahd was visiting Dubai when he was suddenly abducted. Mobile phone data later traced his movements to Oman’s port city of Sohar, before the signal went silent. Days later, he reappeared in Iran, accused of leading …
+### HOMICIDE on 2024-12-29 17:59
+- Location: The Times of India
+- Description: Munbai: The Shivaji Park police have detained a 30-year-old man for the brutal murder of an individual.
 
 
-### ROBBERY/THEFT on 2024-12-29 12:31
-- Location: Marca
-- Description: Luka Doncic has become the latest professional sportsman in the United States to suffer a robbery at his family home, a criminal act that in Europe is repeated quite assiduously at
+### OTHER on 2024-12-29 17:42
+- Location: Freerepublic.com
+- Description: There are now more military troops in the NYC Subway than on 9/11, making many people question if NYC is actually as safe as were told it is...
 
 
-### HOMICIDE on 2024-12-29 12:31
-- Location: Haaretz
-- Description: The police say that the body of 26-year-old Victoria Shkolnik, the mother of a girl, was found buried in the beach sand of Ashkelon's National Park. Alexander Zvialov, 60, stayed in a hideout apartment after the murder and was arrested at Ben Gurion Airport
+### SHOOTING on 2024-12-29 17:35
+- Location: Breitbart News
+- Description: More than 1,000 people were shot — fatally and non-fatally combined — in Democrat-run Philadelphia, Pennsylvania, during 2024.
+The post Democrat-Run Philadelphia: Over 1,000 Shooting Victims in 2024 appeared first on Breitbart.
 
 
-### SHOOTING on 2024-12-29 12:30
-- Location: Richmond.com
-- Description: Artificial intelligence. Abortion. Guns. Marijuana. Minimum wages. Name a hot topic, and chances are good there's a new law about it taking effect in 2025 in one state or another.
+### HOMICIDE on 2024-12-29 17:32
+- Location: PEOPLE
+- Description: The victim, 25, was remembered as a "devoted father to four beautiful children"
 
-Analysis generated at: Mon Dec 30 12:39:20 UTC 2024
+Analysis generated at: Mon Dec 30 18:16:54 UTC 2024
