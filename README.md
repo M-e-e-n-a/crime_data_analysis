@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Dec 31 12:38:43 UTC 2024
+Last updated: Tue Dec 31 18:15:59 UTC 2024
 
 ## Latest Analysis
 
-Loaded 5663 incidents
-Date range: 2024-01-01 00:00:00 to 2024-12-30 12:38:23
+Loaded 5752 incidents
+Date range: 2024-01-01 00:00:00 to 2024-12-30 18:15:26
 
 Incidents by source:
 source
-newsapi           5562
+newsapi           5651
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ tribution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2024-12-30 12:38
-- Location: [Removed]
-- Description: [Removed]
+### OTHER on 2024-12-30 18:15
+- Location: FOX 2 Detroit
+- Description: A man who tried to scam an elderly Canton woman is now facing charges after the victim's family noticed suspicious bank transactions.
 
 
-### ASSAULT on 2024-12-30 12:30
-- Location: ARLnow
-- Description: Va. Reactions to Carter's Passing -- From Rep. Don Beyer (D-Va.): "Jimmy Carter lived a life of kindness, compassion, and decency. He never forgot his roots as a Navy veteran and peanut farmer, never stopped fighting racism and oppression, and never stopped h…
+### OTHER on 2024-12-30 18:14
+- Location: The Irish Times
+- Description: Leaked security plan shows original emergency entrance used by driver was to be 4m wide and blocked at all times by a large vehicle and a steel chain
 
 
-### HOMICIDE on 2024-12-30 12:30
-- Location: Richmond.com
-- Description: Most Americans believe health insurance profits and coverage denials share responsibility for the killing of UnitedHealthcare’s CEO — although not as much as the person who pulled the trigger.
+### OTHER on 2024-12-30 18:07
+- Location: Nerdist
+- Description: Lanterns is DC Studios' upcoming prestige TV adaptation of the Green Lantern comics. Here's everything we know so far about the series.
+The post Everything We Know About DC Studios’ LANTERNS Series appeared first on Nerdist.
 
 
-### HOMICIDE on 2024-12-30 12:30
-- Location: Roanoke Times
-- Description: Most Americans believe health insurance profits and coverage denials share responsibility for the killing of UnitedHealthcare’s CEO — although not as much as the person who pulled the trigger.
+### HOMICIDE on 2024-12-30 18:04
+- Location: Fox News
+- Description: Guardian Angels founder Curtis Sliwa told the New York Post Sunday that members of his group will begin patrolling subways after a rise in violent crime.
 
 
-### OTHER on 2024-12-30 12:20
-- Location: The Jerusalem Post
-- Description: The suspect allegedly carried out several tasks with full awareness of their potential to harm Israel’s security.
+### OTHER on 2024-12-30 18:02
+- Location: NDTV News
+- Description: The accused wife should not be allowed to use the child as a tool to get bail in the court, said Akash Jindal, counsel for Atul Subhash, who committed suicide alleging his wife demanded Rs 3 crore for divorce settlement.
 
-Analysis generated at: Tue Dec 31 12:38:43 UTC 2024
+Analysis generated at: Tue Dec 31 18:15:59 UTC 2024
