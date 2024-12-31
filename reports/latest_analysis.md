@@ -1,10 +1,10 @@
 
-Loaded 5553 incidents
-Date range: 2024-01-01 00:00:00 to 2024-12-30 00:57:44
+Loaded 5556 incidents
+Date range: 2024-01-01 00:00:00 to 2024-12-30 01:31:35
 
 Incidents by source:
 source
-newsapi           5452
+newsapi           5455
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -20,6 +20,21 @@ tribution.svg)
 
 ## Recent Incidents
 
+### OTHER on 2024-12-30 01:31
+- Location: Rpnradio.com
+- Description: The Philippine National Police reported a 76.47 percent reduction in eight focus crimes from December 16 to 25 in Western Visayas, attributing it to their intensified crime prevention and suppression effort and cooperation of communities. The eight focus crim…
+
+
+### SHOOTING on 2024-12-30 01:30
+- Location: ABC News (AU)
+- Description: Police allege the man in his 40s threatened two officers with a knife on Brisbane's southside.
+
+
+### HOMICIDE on 2024-12-30 01:24
+- Location: Honolulu Star-Advertiser
+- Description: Honolulu police investigate murder of woman, 45, at Haleiwa park | Honolulu Star-Advertiserstaradvertiser.com
+
+
 ### OTHER on 2024-12-30 00:57
 - Location: PC Gamer
 - Description: There's a nice little demo of this Old Hollywood business manager.
@@ -29,19 +44,4 @@ tribution.svg)
 - Location: Thehillstimes.in
 - Description: AIZAWL, Dec 29: Christmas celebrations were peaceful across Mizoram, with no major law and order issues in the northeastern state during the festivities, a top police officer said on Sunday. Although there were minor cases relating particularly to burglary an…
 
-
-### OTHER on 2024-12-30 00:41
-- Location: New York Post
-- Description: It's the first time Cuomo has weighed in on the $9 commuter tax since Hochul unveiled it after the November elections.
-
-
-### HOMICIDE on 2024-12-30 00:37
-- Location: KLAS - 8 News Now
-- Description: LAS VEGAS (KLAS) — A woman who left the scene of a deadly crash in North Las Vegas was later arrested at a nearby park on Sunday, according to North Las...
-
-
-### OTHER on 2024-12-30 00:31
-- Location: The Punch
-- Description: The Nigerian Navy has been accused of illegally detaining a Port Harcourt-based lawyer, Kevin Okorie, for supporting a bill to create a Nigerian Coast Guard. Okorie’s wife, Esther, who raised the alarm said her husband was arrested on September 10, 2024, by n…
-
-Analysis generated at: Tue Dec 31 00:58:24 UTC 2024
+Analysis generated at: Tue Dec 31 01:37:13 UTC 2024
