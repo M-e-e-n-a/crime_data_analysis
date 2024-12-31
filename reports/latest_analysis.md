@@ -1,10 +1,10 @@
 
-Loaded 5547 incidents
-Date range: 2024-01-01 00:00:00 to 2024-12-29 18:14:19
+Loaded 5553 incidents
+Date range: 2024-01-01 00:00:00 to 2024-12-30 00:57:44
 
 Incidents by source:
 source
-newsapi           5446
+newsapi           5452
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ tribution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2024-12-29 18:14
-- Location: The Denver Post
-- Description: Five people were injured in Saturday night and Sunday morning shootings across Denver's Five Points, Montbello and Virginia Village neighborhoods, police said.
+### OTHER on 2024-12-30 00:57
+- Location: PC Gamer
+- Description: There's a nice little demo of this Old Hollywood business manager.
 
 
-### HOMICIDE on 2024-12-29 17:59
-- Location: The Times of India
-- Description: Munbai: The Shivaji Park police have detained a 30-year-old man for the brutal murder of an individual.
+### ROBBERY/THEFT on 2024-12-30 00:50
+- Location: Thehillstimes.in
+- Description: AIZAWL, Dec 29: Christmas celebrations were peaceful across Mizoram, with no major law and order issues in the northeastern state during the festivities, a top police officer said on Sunday. Although there were minor cases relating particularly to burglary an…
 
 
-### OTHER on 2024-12-29 17:42
-- Location: Freerepublic.com
-- Description: There are now more military troops in the NYC Subway than on 9/11, making many people question if NYC is actually as safe as were told it is...
+### OTHER on 2024-12-30 00:41
+- Location: New York Post
+- Description: It's the first time Cuomo has weighed in on the $9 commuter tax since Hochul unveiled it after the November elections.
 
 
-### SHOOTING on 2024-12-29 17:35
-- Location: Breitbart News
-- Description: More than 1,000 people were shot — fatally and non-fatally combined — in Democrat-run Philadelphia, Pennsylvania, during 2024.
-The post Democrat-Run Philadelphia: Over 1,000 Shooting Victims in 2024 appeared first on Breitbart.
+### HOMICIDE on 2024-12-30 00:37
+- Location: KLAS - 8 News Now
+- Description: LAS VEGAS (KLAS) — A woman who left the scene of a deadly crash in North Las Vegas was later arrested at a nearby park on Sunday, according to North Las...
 
 
-### HOMICIDE on 2024-12-29 17:32
-- Location: PEOPLE
-- Description: The victim, 25, was remembered as a "devoted father to four beautiful children"
+### OTHER on 2024-12-30 00:31
+- Location: The Punch
+- Description: The Nigerian Navy has been accused of illegally detaining a Port Harcourt-based lawyer, Kevin Okorie, for supporting a bill to create a Nigerian Coast Guard. Okorie’s wife, Esther, who raised the alarm said her husband was arrested on September 10, 2024, by n…
 
-Analysis generated at: Mon Dec 30 18:16:54 UTC 2024
+Analysis generated at: Tue Dec 31 00:58:24 UTC 2024
