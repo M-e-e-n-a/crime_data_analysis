@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Jan  1 01:45:04 UTC 2025
+Last updated: Wed Jan  1 06:18:07 UTC 2025
 
 ## Latest Analysis
 
-Loaded 5768 incidents
-Date range: 2024-01-01 00:00:00 to 2024-12-31 01:31:58
+Loaded 5816 incidents
+Date range: 2024-01-01 00:00:00 to 2024-12-31 06:15:27
 
 Incidents by source:
 source
-newsapi           5667
+newsapi           5715
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -24,31 +24,28 @@ tribution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2024-12-31 01:31
-- Location: VOA News
-- Description: BELGRADE, Serbia — A court in Serbia on Monday convicted the parents of a teenage boy who last year shot dead nine pupils and a school guard and wounded six more people in a school in central Belgrade. 
+### OTHER on 2024-12-31 06:15
+- Location: The Punch
+- Description: The Katsina State Commissioner of Police, Aliyu Musa, said the command in one year arrested no fewer than 916 criminals, neutralised 40 bandits as well as rescued 319 kidnapped victims. He disclosed this Monday during an end-of-the year event held in Katsina.…
 
 
-The Higher Court in Belgrade sentenced Vladimir Kecman…
-
-
-### OTHER on 2024-12-31 01:29
+### OTHER on 2024-12-31 06:13
 - Location: [Removed]
 - Description: [Removed]
 
 
-### OTHER on 2024-12-31 01:29
-- Location: [Removed]
-- Description: [Removed]
+### HOMICIDE on 2024-12-31 06:08
+- Location: Independent.ie
+- Description: “I never had any doubt that he and he alone was her killer, having been the first reporter to interact with him and the first to interview him after his release from custody following his initial arrest in 1997”
 
 
-### OTHER on 2024-12-31 01:27
-- Location: New York Post
-- Description: “Our goal is to make sure this defendant is held accountable and will never hurt or terrorize anyone ever again. Our hope is that this nightmare is over.”
+### OTHER on 2024-12-31 06:08
+- Location: The Times of India
+- Description: Palestinian bodybuilder Moazaz Obaiyat, diagnosed with severe PTSD, experiences physical and psychological abuse in Israeli detention. The article sheds light on alleged torture and inhumane treatment of Palestinian detainees and discusses calls for investiga…
 
 
-### OTHER on 2024-12-31 01:25
-- Location: Newsbreak.com
-- Description: WASHINGTON — DC US Attorney Matthew Graves announced Monday that he will resign before President-elect Donald Trump retakes the White House — likely avoiding an involuntary departure after controversial decisions not to criminally charge first son Hunter Bide…
+### OTHER on 2024-12-31 06:05
+- Location: Yahoo Entertainment
+- Description: Once muscular and strong, Palestinian bodybuilder Moazaz Obaiyat’s nine-month spell in Israeli custody left him unable to walk unaided upon his release in...
 
-Analysis generated at: Wed Jan  1 01:45:04 UTC 2025
+Analysis generated at: Wed Jan  1 06:18:07 UTC 2025
