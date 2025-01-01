@@ -1,10 +1,10 @@
 
-Loaded 5816 incidents
-Date range: 2024-01-01 00:00:00 to 2024-12-31 06:15:27
+Loaded 5895 incidents
+Date range: 2024-01-01 00:00:00 to 2024-12-31 12:22:26
 
 Incidents by source:
 source
-newsapi           5715
+newsapi           5794
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -20,28 +20,41 @@ tribution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2024-12-31 06:15
-- Location: The Punch
-- Description: The Katsina State Commissioner of Police, Aliyu Musa, said the command in one year arrested no fewer than 916 criminals, neutralised 40 bandits as well as rescued 319 kidnapped victims. He disclosed this Monday during an end-of-the year event held in Katsina.…
+### HOMICIDE on 2024-12-31 12:22
+- Location: ABC News
+- Description: With 2024 winding down to a close, homicides across the United States are poised to plummet for the third straight year.
 
 
-### OTHER on 2024-12-31 06:13
-- Location: [Removed]
-- Description: [Removed]
+### HOMICIDE on 2024-12-31 12:20
+- Location: Al Jazeera English
+- Description: The dual island nation has recorded hundreds of murders linked to gang violence this year.
 
 
-### HOMICIDE on 2024-12-31 06:08
-- Location: Independent.ie
-- Description: “I never had any doubt that he and he alone was her killer, having been the first reporter to interact with him and the first to interview him after his release from custody following his initial arrest in 1997”
+### OTHER on 2024-12-31 12:09
+- Location: What's on Netflix
+- Description: 20 films and 2 series dropped this month!
 
 
-### OTHER on 2024-12-31 06:08
-- Location: The Times of India
-- Description: Palestinian bodybuilder Moazaz Obaiyat, diagnosed with severe PTSD, experiences physical and psychological abuse in Israeli detention. The article sheds light on alleged torture and inhumane treatment of Palestinian detainees and discusses calls for investiga…
+### OTHER on 2024-12-31 12:01
+- Location: Digital Trends
+- Description: Need a good film or two to watch on New Year's Eve? Then watch any of these five great movies that are streaming on Amazon Prime Video right now.
 
 
-### OTHER on 2024-12-31 06:05
-- Location: Yahoo Entertainment
-- Description: Once muscular and strong, Palestinian bodybuilder Moazaz Obaiyat’s nine-month spell in Israeli custody left him unable to walk unaided upon his release in...
+### OTHER on 2024-12-31 12:00
+- Location: The Daily Dot
+- Description: This list appeared first in the Daily Dot’s newsletter web_crawlr. If you want to see more content like this before everyone else, sign up for the newsletter here. 
 
-Analysis generated at: Wed Jan  1 06:18:07 UTC 2025
+
+
+<!-- /wp:separator -->
+
+
+
+
+
+
+
+
+In 2024, the Hi-Res investigative division published som…
+
+Analysis generated at: Wed Jan  1 12:23:04 UTC 2025
