@@ -1,10 +1,10 @@
 
-Loaded 5896 incidents
-Date range: 2024-01-01 00:00:00 to 2024-12-31 12:28:14
+Loaded 5996 incidents
+Date range: 2024-01-01 00:00:00 to 2024-12-31 18:13:14
 
 Incidents by source:
 source
-newsapi           5795
+newsapi           5895
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ tribution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2024-12-31 12:28
-- Location: CBS News
-- Description: Westchester County's DA said a reinvestigation identified two suspects and "no connection" to the man was tried and retried in the deaths of Archie Harris and Betty Ramcharan.
+### OTHER on 2024-12-31 18:13
+- Location: ABC News (AU)
+- Description: Thief and "extremely bad character" George Howard was part of a gang that blew up safes in several states. His daring escape from two Victorian jails had police on the back foot.
 
 
-### HOMICIDE on 2024-12-31 12:22
-- Location: ABC News
-- Description: With 2024 winding down to a close, homicides across the United States are poised to plummet for the third straight year.
+### HOMICIDE on 2024-12-31 18:11
+- Location: Newsweek
+- Description: Kimberly Barus is suing Jacksonville Sheriff's Deputy Karl Lampkin over the 2022 shooting death of her puppy, Lucy.
 
 
-### HOMICIDE on 2024-12-31 12:20
-- Location: Al Jazeera English
-- Description: The dual island nation has recorded hundreds of murders linked to gang violence this year.
+### OTHER on 2024-12-31 18:10
+- Location: Screen Rant
+- Description: Chuck Norris' movies from the 1990s may not be his most popular, but they still highlight his action-packed style that made him an iconic movie star.
 
 
-### OTHER on 2024-12-31 12:09
-- Location: What's on Netflix
-- Description: 20 films and 2 series dropped this month!
+### ASSAULT on 2024-12-31 18:09
+- Location: Newsweek
+- Description: Authorities identified the attacker as a Syrian national holding residency in Sweden.
 
 
-### OTHER on 2024-12-31 12:01
-- Location: Digital Trends
-- Description: Need a good film or two to watch on New Year's Eve? Then watch any of these five great movies that are streaming on Amazon Prime Video right now.
+### OTHER on 2024-12-31 18:05
+- Location: Wnd.com
+- Description: Many view anarchy 'as an acceptable way to accomplish their goals'
 
-Analysis generated at: Wed Jan  1 12:38:23 UTC 2025
+Analysis generated at: Wed Jan  1 18:16:09 UTC 2025
