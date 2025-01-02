@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Jan  2 12:39:13 UTC 2025
+Last updated: Thu Jan  2 18:16:57 UTC 2025
 
 ## Latest Analysis
 
-Loaded 6089 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-01 12:30:32
+Loaded 6180 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-01 18:15:41
 
 Incidents by source:
 source
-newsapi           5988
+newsapi           6079
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -24,27 +24,28 @@ tribution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-01-01 12:30
-- Location: [Removed]
-- Description: [Removed]
+### HOMICIDE on 2025-01-01 18:15
+- Location: Freerepublic.com
+- Description: Federal law enforcement is investigating a mass casualty event in New Orleans as an “act of terrorism” after a truck was driven into crowds on a popular nightlife street in the early hours of New Year’s Day. The FBI, which is leading the investigation, said W…
 
 
-### HOMICIDE on 2025-01-01 12:30
-- Location: Deadline
-- Description: Happy New Year! As the Deadline team gears up for another busy and discovery-filled 12 months on the global film festival circuit, here is our annual (non-exhaustive) list of U.S. and international movies we expect to see on the way. While we scored better th…
+### HOMICIDE on 2025-01-01 18:14
+- Location: Marca
+- Description: The year 2025 began in mourning for residents of New Orleans, during the 4 a.m. ET on January 1, a pickup truck driver plowed into a crowd on Bourbon Street, killing 10 people and
 
 
-### HOMICIDE on 2025-01-01 12:22
-- Location: The-sun.com
-- Description: AT least 10 people have been killed after a driver rammed their car into crowds in New Orleans before opening fire, according to reports. Revellers were celebrating New Year at a street party in th…
+### ROBBERY/THEFT on 2025-01-01 18:00
+- Location: ComicBook.com
+- Description: Although the Grand Theft Auto franchise is largely an anthology series, some of the games have direct connections to each other. Grand Theft Auto is one of the biggest video game franchises of all-time with over 435 million copies sold across all of its games…
 
 
-### ASSAULT on 2025-01-01 12:00
-- Location: Fox News
-- Description: Following the Hamas terrorist attacks against Israel on Oct. 7, 2023, the U.S. and world has witnessed a massive rise in antisemitic incidents that has many Jews concerned about their security.
+### OTHER on 2025-01-01 17:59
+- Location: Freerepublic.com
+- Description: The Department of Justice (DOJ) Inspector General (IG) released a report on Monday that revealed that three employees had leaked information to the media in an attempt to damage the electoral prospects of Donald Trump. The IG report summary said: The Departme…
 
 
-### OTHER on 2025-01-01 12:00
-- Location: Out.com
+### HOMICIDE on 2025-01-01 17:57
+- Location: PBS
+- Description: Police say a person who drove a pickup truck at high speed into a crowd of people celebrating the new year in New Orleans was hell-bent on creating carnage.
 
-Analysis generated at: Thu Jan  2 12:39:13 UTC 2025
+Analysis generated at: Thu Jan  2 18:16:57 UTC 2025
