@@ -1,10 +1,10 @@
 
-Loaded 6014 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-01 01:32:33
+Loaded 6039 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-01 06:02:38
 
 Incidents by source:
 source
-newsapi           5913
+newsapi           5938
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ tribution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2025-01-01 01:32
-- Location: NDTV News
-- Description: The suspect, a Syrian national who lives in Sweden, is said to have stabbed his victims with a knife he stole from the supermarket.
+### OTHER on 2025-01-01 06:02
+- Location: The Times of India
+- Description: Rapper and podcaster Joe Budden has been charged with lewdness following an incident where he was seen naked in the hallway of his New Jersey apartment complex. The event, captured on a neighbour’s Ring camera, occurred on December 4. Budden, who previously s…
 
 
-### HOMICIDE on 2025-01-01 01:23
-- Location: Psychology Today
-- Description: Five cold cases solved, while U.S. homicide rate in 2024 is predicted to return to levels recorded in 2019, and as family members of murdered victims find closure.
+### OTHER on 2025-01-01 06:00
+- Location: The Punch
+- Description: In my fourteen years as the Founder of TEXEM, UK, and previously as a Director of Strategy in Cambridge, I have engaged with thousands of leaders across multiple continents. Amid these interactions, the exceptional creativity and tenacity of Nigerian leaders …
 
 
-### HOMICIDE on 2025-01-01 01:19
-- Location: CBC News
-- Description: In a news release Tuesday evening, police announced that 45-year-old Aaron Curtis Mickey has been charged with second-degree murder, robbery and four firearm-related offences.
+### OTHER on 2025-01-01 06:00
+- Location: [Removed]
+- Description: [Removed]
 
 
-### HOMICIDE on 2025-01-01 01:19
-- Location: CBC News
-- Description: Family and friends came together Tuesday to honour a man who was killed on Winnipeg's Dugas Street late last week.
+### HOMICIDE on 2025-01-01 05:47
+- Location: Lesswrong.com
+- Description: Published on January 1, 2025 5:47 AM GMT(some plot spoilers)
+There's something distinctly uncomfortable about reading Greg Egan in the 2020s. Besides telling gripping tales with insightful commentary on the true nature of mind and existence, Egan stories writ…
 
 
-### DRUG RELATED on 2025-01-01 01:08
-- Location: The Star Online
-- Description: JOHOR BARU: A late-night police operation led to a dramatic car chase and the arrest of two suspects, resulting in the seizure of dangerous drugs worth an estimated RM54,831. Read full story
+### OTHER on 2025-01-01 05:47
+- Location: Citationneeded.news
+- Description: Adversary cases from the FTX collapse further expose how crypto companies do business: with secret acquisitions of “grey area” businesses, buying influence, and creative accounting.
 
-Analysis generated at: Thu Jan  2 01:37:00 UTC 2025
+Analysis generated at: Thu Jan  2 06:17:45 UTC 2025
