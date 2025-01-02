@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Jan  1 18:16:09 UTC 2025
+Last updated: Thu Jan  2 00:58:17 UTC 2025
 
 ## Latest Analysis
 
-Loaded 5996 incidents
-Date range: 2024-01-01 00:00:00 to 2024-12-31 18:13:14
+Loaded 6005 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-01 00:50:33
 
 Incidents by source:
 source
-newsapi           5895
+newsapi           5904
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ tribution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2024-12-31 18:13
-- Location: ABC News (AU)
-- Description: Thief and "extremely bad character" George Howard was part of a gang that blew up safes in several states. His daring escape from two Victorian jails had police on the back foot.
+### OTHER on 2025-01-01 00:50
+- Location: WMUR Manchester
+- Description: A 14-year-old and an 18-year-old were arrested Monday in connection with a stabbing outside the Mall at Rockingham Park in Salem on Thursday.
 
 
-### HOMICIDE on 2024-12-31 18:11
-- Location: Newsweek
-- Description: Kimberly Barus is suing Jacksonville Sheriff's Deputy Karl Lampkin over the 2022 shooting death of her puppy, Lucy.
+### OTHER on 2025-01-01 00:49
+- Location: Fox News
+- Description: Prosecutors announced that Matthew Muller, who was convicted in the 2015 kidnapping of Denise Huskins, is facing new charges in a series of previously unsolved home invasions.
 
 
-### OTHER on 2024-12-31 18:10
-- Location: Screen Rant
-- Description: Chuck Norris' movies from the 1990s may not be his most popular, but they still highlight his action-packed style that made him an iconic movie star.
+### OTHER on 2025-01-01 00:42
+- Location: ABC News
+- Description: An Ecuadorean judge has ordered the arrest of 16 soldiers charged with the disappearance of four children who went missing three weeks ago in the coastal city of Guayaquil
 
 
-### ASSAULT on 2024-12-31 18:09
-- Location: Newsweek
-- Description: Authorities identified the attacker as a Syrian national holding residency in Sweden.
+### ROBBERY/THEFT on 2025-01-01 00:39
+- Location: New York Post
+- Description: Police in London are searching for the burglar who stole $13.2 million worth of jewelry, designer handbags and cash.
 
 
-### OTHER on 2024-12-31 18:05
-- Location: Wnd.com
-- Description: Many view anarchy 'as an acceptable way to accomplish their goals'
+### HOMICIDE on 2025-01-01 00:37
+- Location: Yahoo Entertainment
+- Description: None
 
-Analysis generated at: Wed Jan  1 18:16:09 UTC 2025
+Analysis generated at: Thu Jan  2 00:58:17 UTC 2025
