@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Jan  3 12:39:03 UTC 2025
+Last updated: Fri Jan  3 18:16:41 UTC 2025
 
 ## Latest Analysis
 
-Loaded 6371 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-02 12:38:14
+Loaded 6471 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-02 18:16:31
 
 Incidents by source:
 source
-newsapi           6270
+newsapi           6370
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ tribution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-01-02 12:38
+### HOMICIDE on 2025-01-02 18:16
+- Location: Newsbreak.com
+- Description: A shooting rampage in Montenegro has left 12 dead and at least four others injured, before police closed in and the gunman killed himself.
+
+
+### OTHER on 2025-01-02 18:15
+- Location: Newsweek
+- Description: The progressive outlet noted that the president-elect was correct in citing that southern border crossings were lower during his administration.
+
+
+### OTHER on 2025-01-02 18:13
+- Location: Newsweek
+- Description: FEC records show that New Orleans terror suspect Shamsud-Din Jabbar made two donations between 2014 and 2020.
+
+
+### HOMICIDE on 2025-01-02 18:11
+- Location: NDTV News
+- Description: A woman allegedly strangled her husband first, then smashed his face with a stone and cut his body into two pieces to haul it far away from her house, they said.
+
+
+### OTHER on 2025-01-02 18:10
 - Location: [Removed]
 - Description: [Removed]
 
-
-### HOMICIDE on 2025-01-02 12:35
-- Location: WDIV ClickOnDetroit
-- Description: Two people were shot and killed at a home in Northfield Township Wednesday evening, and the suspects allegedly abducted two children from the home.
-
-
-### ASSAULT on 2025-01-02 12:32
-- Location: Newsweek
-- Description: Shamsud-Din Jabbar, 42, was named as the suspect in the New Year's Day attack in New Orleans who has been linked to Isis.
-
-
-### ASSAULT on 2025-01-02 12:29
-- Location: Fox News
-- Description: Georgia and Notre Dame prepare to play in the Sugar Bowl on Thursday after the game was postponed due to a terror attack on Bourbon Street in New Orleans.
-
-
-### SHOOTING on 2025-01-02 12:25
-- Location: TMZ
-- Description: Violence reigns in 2025, because there's been yet another horrific attack ...  this one outside a New York City club where 10 people were shot Wednesday night in a brazen attack -- but it's not related to terrorism, police say. Approximately…
-
-Analysis generated at: Fri Jan  3 12:39:03 UTC 2025
+Analysis generated at: Fri Jan  3 18:16:41 UTC 2025
