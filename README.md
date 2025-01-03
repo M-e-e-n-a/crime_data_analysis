@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Jan  2 18:16:57 UTC 2025
+Last updated: Fri Jan  3 00:58:40 UTC 2025
 
 ## Latest Analysis
 
-Loaded 6180 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-01 18:15:41
+Loaded 6194 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-02 00:54:12
 
 Incidents by source:
 source
-newsapi           6079
+newsapi           6093
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ tribution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-01-01 18:15
-- Location: Freerepublic.com
-- Description: Federal law enforcement is investigating a mass casualty event in New Orleans as an “act of terrorism” after a truck was driven into crowds on a popular nightlife street in the early hours of New Year’s Day. The FBI, which is leading the investigation, said W…
+### HOMICIDE on 2025-01-02 00:54
+- Location: Boston Herald
+- Description: President Joe Biden said Wednesday evening that the FBI found videos that the driver had posted to social media hours before the attack in which he said he was inspired by the Islamic State group and expressed a desire to kill.
 
 
-### HOMICIDE on 2025-01-01 18:14
-- Location: Marca
-- Description: The year 2025 began in mourning for residents of New Orleans, during the 4 a.m. ET on January 1, a pickup truck driver plowed into a crowd on Bourbon Street, killing 10 people and
+### HOMICIDE on 2025-01-02 00:47
+- Location: The Japan Times
+- Description: A U.S. Army veteran drove into New Orleans' French Quarter on New Year's Day, killing 15 and injuring 30 in what officials suspect might be a coordinated ISIS-inspired attack.
 
 
-### ROBBERY/THEFT on 2025-01-01 18:00
-- Location: ComicBook.com
-- Description: Although the Grand Theft Auto franchise is largely an anthology series, some of the games have direct connections to each other. Grand Theft Auto is one of the biggest video game franchises of all-time with over 435 million copies sold across all of its games…
+### ASSAULT on 2025-01-02 00:46
+- Location: ESPN
+- Description: Saints interim coach Darren Rizzi said all members of the organization are safe following a "senseless" attack early Wednesday in the French Quarter.
 
 
-### OTHER on 2025-01-01 17:59
-- Location: Freerepublic.com
-- Description: The Department of Justice (DOJ) Inspector General (IG) released a report on Monday that revealed that three employees had leaked information to the media in an attempt to damage the electoral prospects of Donald Trump. The IG report summary said: The Departme…
+### OTHER on 2025-01-02 00:45
+- Location: ABC News
+- Description: Authorities are investigating a Tesla Cybertruck explosion on Wednesday outside the Trump Las Vegas hotel in Nevada as a possible act of terror, an official said.
 
 
-### HOMICIDE on 2025-01-01 17:57
-- Location: PBS
-- Description: Police say a person who drove a pickup truck at high speed into a crowd of people celebrating the new year in New Orleans was hell-bent on creating carnage.
+### OTHER on 2025-01-02 00:30
+- Location: Livemint
+- Description: To be sure, Allu Arjun was subsequently arrested and released on bail, even as his action-packed film Pushpa 2 has scaled past  ₹1,800 crore in worldwide box-office collection, including nearly  ₹1,200 crore in India.
 
-Analysis generated at: Thu Jan  2 18:16:57 UTC 2025
+Analysis generated at: Fri Jan  3 00:58:40 UTC 2025
