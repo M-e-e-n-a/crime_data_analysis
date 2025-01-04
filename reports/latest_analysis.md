@@ -1,10 +1,10 @@
 
-Loaded 6483 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-03 00:56:46
+Loaded 6494 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-03 01:35:21
 
 Incidents by source:
 source
-newsapi           6382
+newsapi           6393
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ tribution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-01-03 00:56
-- Location: The Punch
-- Description: An electrician identified simply as Sheni has been electrocuted while fixing some wiring connections at UNILAG Estate in the Magodo area of Lagos State. PUNCH Metro learnt on Thursday that the tragic incident occurred at about 5 pm on New Year’s Day. Some res…
+### HOMICIDE on 2025-01-03 01:35
+- Location: NBC News
+- Description: In August 1979, a Florida deputy told authorities that his wife fatally shot herself at their home south of Tampa.
 
 
-### HOMICIDE on 2025-01-03 00:56
-- Location: ABC News (AU)
-- Description: Keith Lees was arrested at a property in New South Wales about 8am yesterday.
-
-
-### ASSAULT on 2025-01-03 00:56
-- Location: Newsweek
-- Description: The FBI released new photos showing Shamsud-Din Jabbar one hour before he allegedly plowed a car into a New Orleans crowd.
-
-
-### HOMICIDE on 2025-01-03 00:54
-- Location: ABC News
-- Description: Two deadly incidents on New Year’s Day — an attack being investigated as an act of terrorism in New Orleans and an explosion of a Tesla Cybertruck in Las Vegas — both involved vehicles that were rented on Turo, a peer-to-peer car sharing company
-
-
-### OTHER on 2025-01-03 00:50
+### HOMICIDE on 2025-01-03 01:35
 - Location: New York Post
-- Description: Cops took a bite out of this crime. A saucy vandal who “plagued” a Westchester town with chronic graffiti of pepperoni slices for more than a year has finally been arrested. A graffiti artist spray painted a depiction of a pepperoni slice on over one dozen pi…
+- Description: Joseph Steven Jorgenson, 41, pleaded guilty Thursday to killing and dismembering two women.
 
-Analysis generated at: Sat Jan  4 00:57:32 UTC 2025
+
+### HOMICIDE on 2025-01-03 01:34
+- Location: People.cn
+- Description: NEW DELHI, Jan. 2 (Xinhua) -- Unidentified gunmen Thursday killed ruling Trinamool Congress party le
+
+
+### HOMICIDE on 2025-01-03 01:30
+- Location: ComicBook.com
+- Description: “What was in the box? What’s in the box?” Detective David Mills (Brad Pitt) — agonizing over the contents of serial killer John Doe’s (Kevin Spacey) “souvenir” — screams in the final moments of 1995’s Se7en. The tragic answer is the severed head of Mills’ pre…
+
+
+### HOMICIDE on 2025-01-03 01:22
+- Location: BBC News
+- Description: Urfan Sharif, who was convicted of murdering his daughter Sara, is said to have been assaulted in HMP Belmarsh on New Year's Day.
+
+Analysis generated at: Sat Jan  4 01:35:46 UTC 2025
