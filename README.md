@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Jan  4 06:16:23 UTC 2025
+Last updated: Sat Jan  4 12:21:43 UTC 2025
 
 ## Latest Analysis
 
-Loaded 6532 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-03 06:09:06
+Loaded 6589 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-03 12:12:59
 
 Incidents by source:
 source
-newsapi           6431
+newsapi           6488
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ tribution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-01-03 06:09
-- Location: The Times of India
-- Description: Police nabbed the main accused, Shivam Rai, in the double murder case in Narahi, Ballia, after an encounter. An illegal firearm and the murder weapon were recovered. The suspect confessed to the crime and was taken to a hospital. The incident initially caused…
+### SHOOTING on 2025-01-03 12:12
+- Location: Lse.ac.uk
+- Description: In December 2024, a mass school shooting rocked the community of Madison, Wisconsin. Grace Johnson writes that the now-familiar mass-shooting media cycle has since been disrupted by the identification of the suspect as a 15-year-old girl. Reflecting on this a…
 
 
-### ROBBERY/THEFT on 2025-01-03 06:01
+### OTHER on 2025-01-03 12:11
 - Location: The Star Online
-- Description: SYDNEY (Reuters) - Three Virgin Australia [IPO-VIR.AX] staff are not being detained by Fijian police investigating an alleged sexual assault and theft during a layover, said the Fiji government, but added they had been advised by their headquarters to stay in…
+- Description: IPOH: Police have arrested two men who are believed to be involved in stealing telecommunication cables in Gerik. Read full story
 
 
-### OTHER on 2025-01-03 06:00
-- Location: Naturalnews.com
-- Description: In recent years, the United States has witnessed an alarming surge in criminal activity, pushing the nation into a state of unprecedented lawlessness. According to the FBI, over 14 million crimes are reported in the United States each year. The statistics are…
+### HOMICIDE on 2025-01-03 12:06
+- Location: ABC News
+- Description: A grieving mother whale in the Pacific Northwest, known as J-35, has been seen this week carrying the body of her deceased calf in what researchers are calling an act of “mourning.”
 
 
-### OTHER on 2025-01-03 05:47
-- Location: London Review of Books
-- Description: Gisèle Pelicot doesn’t conceive of her now ex-husband or the other men who raped her as ‘bad apples’, aberrations...
+### ROBBERY/THEFT on 2025-01-03 12:00
+- Location: The Star Online
+- Description: KUALA LUMPUR: The Malaysian Anti-Corruption Commission (MACC) has arrested a foreign national for allegedly attempting to bribe a police officer with approximately RM4,000 to release a friend who had been detained for theft. Read full story
 
 
-### HOMICIDE on 2025-01-03 05:44
-- Location: The Punch
-- Description: The family of a retired Controller of Work at the Federal Ministry of Works and Housing, AbdulRazaq Ajani, has narrated how he was brutally murdered in the presence of his wife and children on New Year’s Day in Ilorin, moments after returning home from Offa, …
+### OTHER on 2025-01-03 11:59
+- Location: Freerepublic.com
+- Description: House Republicans reveal stonewalling, major security lapses, and misrepresentations by top law enforcement officials related to the still at-large J6 pipe bomber. Four years after what the FBI describes as an act of domestic terror--the protest at the Capito…
 
-Analysis generated at: Sat Jan  4 06:16:23 UTC 2025
+Analysis generated at: Sat Jan  4 12:21:42 UTC 2025
