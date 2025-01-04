@@ -1,10 +1,10 @@
 
-Loaded 6471 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-02 18:16:31
+Loaded 6483 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-03 00:56:46
 
 Incidents by source:
 source
-newsapi           6370
+newsapi           6382
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ tribution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-01-02 18:16
-- Location: Newsbreak.com
-- Description: A shooting rampage in Montenegro has left 12 dead and at least four others injured, before police closed in and the gunman killed himself.
+### OTHER on 2025-01-03 00:56
+- Location: The Punch
+- Description: An electrician identified simply as Sheni has been electrocuted while fixing some wiring connections at UNILAG Estate in the Magodo area of Lagos State. PUNCH Metro learnt on Thursday that the tragic incident occurred at about 5 pm on New Year’s Day. Some res…
 
 
-### OTHER on 2025-01-02 18:15
+### HOMICIDE on 2025-01-03 00:56
+- Location: ABC News (AU)
+- Description: Keith Lees was arrested at a property in New South Wales about 8am yesterday.
+
+
+### ASSAULT on 2025-01-03 00:56
 - Location: Newsweek
-- Description: The progressive outlet noted that the president-elect was correct in citing that southern border crossings were lower during his administration.
+- Description: The FBI released new photos showing Shamsud-Din Jabbar one hour before he allegedly plowed a car into a New Orleans crowd.
 
 
-### OTHER on 2025-01-02 18:13
-- Location: Newsweek
-- Description: FEC records show that New Orleans terror suspect Shamsud-Din Jabbar made two donations between 2014 and 2020.
+### HOMICIDE on 2025-01-03 00:54
+- Location: ABC News
+- Description: Two deadly incidents on New Year’s Day — an attack being investigated as an act of terrorism in New Orleans and an explosion of a Tesla Cybertruck in Las Vegas — both involved vehicles that were rented on Turo, a peer-to-peer car sharing company
 
 
-### HOMICIDE on 2025-01-02 18:11
-- Location: NDTV News
-- Description: A woman allegedly strangled her husband first, then smashed his face with a stone and cut his body into two pieces to haul it far away from her house, they said.
+### OTHER on 2025-01-03 00:50
+- Location: New York Post
+- Description: Cops took a bite out of this crime. A saucy vandal who “plagued” a Westchester town with chronic graffiti of pepperoni slices for more than a year has finally been arrested. A graffiti artist spray painted a depiction of a pepperoni slice on over one dozen pi…
 
-
-### OTHER on 2025-01-02 18:10
-- Location: [Removed]
-- Description: [Removed]
-
-Analysis generated at: Fri Jan  3 18:16:41 UTC 2025
+Analysis generated at: Sat Jan  4 00:57:32 UTC 2025
