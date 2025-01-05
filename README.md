@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Jan  5 01:44:20 UTC 2025
+Last updated: Sun Jan  5 06:16:33 UTC 2025
 
 ## Latest Analysis
 
-Loaded 6715 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-04 01:34:05
+Loaded 6752 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-04 06:15:16
 
 Incidents by source:
 source
-newsapi           6614
+newsapi           6651
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ tribution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-01-04 01:34
+### SHOOTING on 2025-01-04 06:15
 - Location: New York Post
-- Description: A 15-year-old boy was killed and a second teen was injured in a possible gang-related shooting in the Bronx on Friday, according to cops and sources.
+- Description: Alexander Paffendorf expressed regret for his involvement when a judge offered a chance for final words before keeping an order to confiscate his guns and ammunition in place until April 4.
 
 
-### OTHER on 2025-01-04 01:33
-- Location: Inside the Magic
-- Description: A family trip to Busch Gardens in Tampa Bay turned alarming on January 1 when a 42-year-old man was arrested for allegedly recording minors in a park bathroom. Understanding Digital Voyeurism in Theme Parks like Busch Gardens Digital voyeurism involves the ac…
+### OTHER on 2025-01-04 06:00
+- Location: Naturalnews.com
+- Description: Angel Pineda claims the Biden Administration is responsible for running the world’s largest child sex trafficking ring, involving the trafficking of victims from Guatemala. The U.S. government, particularly the Department of Homeland Security, is alleged to b…
 
 
-### HOMICIDE on 2025-01-04 01:30
-- Location: The Punch
-- Description: The family of Sunday Morakinyo, one of the Osun indigenes involved in the infamous ‘death-for-fowl’ case, has appealed to the government and well-meaning individuals for assistance in addressing the mental illness he has been battling. According to the family…
+### OTHER on 2025-01-04 06:00
+- Location: [Removed]
+- Description: [Removed]
 
 
-### OTHER on 2025-01-04 01:30
-- Location: ARLnow
-- Description: Good Friday evening, Arlington. Let's take a look back at today's stories and a look forward to tomorrow's event calendar.  News recap The following articles were published earlier today -- Jan 3, 2025. 5:00 am: Notice: Virginia ABC application for Green Pi…
+### ASSAULT on 2025-01-04 06:00
+- Location: The Irish Times
+- Description: Lt Yulia Mykytenko gives her eye witness account of the horrors of Russia’s attack in the context of Christmas and looming new year
 
 
-### HOMICIDE on 2025-01-04 01:23
-- Location: Biztoc.com
-- Description: The woman accused of stabbing a postal worker to death in Harlem on Thursday over a sandwich dispute has been charged with murder, police say.
-Law enforcement sources said 24-year-old Jaia Cruz allegedly stabbed 36-year-old Ray Hodges to death at around 2:38 …
+### OTHER on 2025-01-04 05:58
+- Location: NDTV News
+- Description: The Supreme Court has observed ED&#039;s &quot;high-handedness&quot; and &quot;inhuman conduct&quot; during an almost 15-hour long interrogation of former Haryana Congress MLA Surender Panwar and upheld an order saying his arrest was illegal.
 
-Analysis generated at: Sun Jan  5 01:44:20 UTC 2025
+Analysis generated at: Sun Jan  5 06:16:33 UTC 2025
