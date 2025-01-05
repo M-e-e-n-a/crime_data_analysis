@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Jan  5 12:21:36 UTC 2025
+Last updated: Sun Jan  5 12:37:07 UTC 2025
 
 ## Latest Analysis
 
-Loaded 6788 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-04 12:12:49
+Loaded 6793 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-04 12:36:50
 
 Incidents by source:
 source
-newsapi           6687
+newsapi           6692
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -24,29 +24,29 @@ tribution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-01-04 12:12
-- Location: RT
-- Description: Jails across India have been instructed to end discrimination against dalits. Upper caste inmates make this easier said than done Read Full Article at RT.com
+### OTHER on 2025-01-04 12:36
+- Location: Freerepublic.com
+- Description: What is clear is the Harris/Biden Administration and the FBI cannot be trusted. Patterns matter in the investigation of any crime, but particularly in identifying, deterring and capturing terrorist operations. They also matter in understanding the motivations…
 
 
-### SHOOTING on 2025-01-04 12:10
-- Location: Breitbart News
-- Description: A group of unidentified gunmen shot and wounded a Venezuelan migrant during a failed kidnapping attempt at the Mexico-Texas border.
-The post Venezuelan Migrant Shot During Attempted Kidnapping at Border in Mexico appeared first on Breitbart.
+### HOMICIDE on 2025-01-04 12:31
+- Location: Lifesciencesworld.com
+- Description: The Tragic Tale of the Assassination of Sonny Bono Introduction On January 5, 1998, the world witnessed a shocking and […]
+The post Why did barzini kill sonny? appeared first on Life Sciences World.
 
 
-### OTHER on 2025-01-04 12:00
-- Location: CNN
-- Description: President-elect Donald Trump is preparing to dust off a series of centuries-old laws and legal theories to drive his first-year agenda – particularly on the border and birthright citizenship – hoping history will be on his side when the inevitable legal chall…
+### OTHER on 2025-01-04 12:28
+- Location: [Removed]
+- Description: [Removed]
 
 
-### OTHER on 2025-01-04 12:00
-- Location: CBC News
-- Description: Three northern Manitoban men accused of sex crimes are no longer facing charges after provincial court threw out each of their cases for unreasonable time delays in 2024.
+### HOMICIDE on 2025-01-04 12:23
+- Location: The Star Online
+- Description: PODGORICA (Reuters) -Hundreds of Montenegrins protested in the capital Podgorica on Friday against what they see as a lack of action by authorities to prevent a mass shooting in which a gunman killed 12 people and seriously wounded four. Read full story
 
 
-### HOMICIDE on 2025-01-04 11:30
-- Location: NDTV News
-- Description: A Central Industrial Security Force (CISF) jawan stationed at Surat International Airport died by suicide on Saturday by shooting himself with his service weapon. The incident unfolded inside the washroom of the airport around 2:10 pm, police said.
+### SHOOTING on 2025-01-04 12:21
+- Location: Investing.com
+- Description: Montenegrin protesters slam police handling of mass shooting
 
-Analysis generated at: Sun Jan  5 12:21:36 UTC 2025
+Analysis generated at: Sun Jan  5 12:37:07 UTC 2025
