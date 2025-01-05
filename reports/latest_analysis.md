@@ -1,10 +1,10 @@
 
-Loaded 6706 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-04 01:02:20
+Loaded 6715 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-04 01:34:05
 
 Incidents by source:
 source
-newsapi           6605
+newsapi           6614
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ tribution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-01-04 01:02
-- Location: fox6now.com
-- Description: The Milwaukee Police Department has asked the public for help to find missing 11-year-old Albert Berry – last seen Friday afternoon near 18th and Nash.
+### HOMICIDE on 2025-01-04 01:34
+- Location: New York Post
+- Description: A 15-year-old boy was killed and a second teen was injured in a possible gang-related shooting in the Bronx on Friday, according to cops and sources.
 
 
-### OTHER on 2025-01-04 01:01
-- Location: FOX 2 Detroit
-- Description: "I think you need some time in jail to cool off and reflect on your bad decisions that you seem to be on a mission to make," the judge said.
+### OTHER on 2025-01-04 01:33
+- Location: Inside the Magic
+- Description: A family trip to Busch Gardens in Tampa Bay turned alarming on January 1 when a 42-year-old man was arrested for allegedly recording minors in a park bathroom. Understanding Digital Voyeurism in Theme Parks like Busch Gardens Digital voyeurism involves the ac…
 
 
-### OTHER on 2025-01-04 00:57
-- Location: CNA
-- Description: LOS ANGELES: The decorated Green Beret who died by suicide in a blazing Tesla Cybertruck outside a Trump hotel in Las Vegas was suffering from post-traumatic stress, investigato
-
-
-### ROBBERY/THEFT on 2025-01-04 00:43
+### HOMICIDE on 2025-01-04 01:30
 - Location: The Punch
-- Description: Controversial social media personality, Martins Otse, aka VDM, was roundly criticised during the week for claiming that the alarm he raised last week about N180m missing from an account maintained by his non-governmental organisation was a “prank” on Nigerian…
+- Description: The family of Sunday Morakinyo, one of the Osun indigenes involved in the infamous ‘death-for-fowl’ case, has appealed to the government and well-meaning individuals for assistance in addressing the mental illness he has been battling. According to the family…
 
 
-### HOMICIDE on 2025-01-04 00:22
-- Location: FactCheck.org
-- Description: Federal law enforcement officials have identified an Army veteran, who was born in the United States, as the sole person responsible for the Jan. 1 terrorist attack in New Orleans that killed 14 people and injured many more. But some Republican politicians an…
+### OTHER on 2025-01-04 01:30
+- Location: ARLnow
+- Description: Good Friday evening, Arlington. Let's take a look back at today's stories and a look forward to tomorrow's event calendar.  News recap The following articles were published earlier today -- Jan 3, 2025. 5:00 am: Notice: Virginia ABC application for Green Pi…
 
-Analysis generated at: Sun Jan  5 01:03:44 UTC 2025
+
+### HOMICIDE on 2025-01-04 01:23
+- Location: Biztoc.com
+- Description: The woman accused of stabbing a postal worker to death in Harlem on Thursday over a sandwich dispute has been charged with murder, police say.
+Law enforcement sources said 24-year-old Jaia Cruz allegedly stabbed 36-year-old Ray Hodges to death at around 2:38 …
+
+Analysis generated at: Sun Jan  5 01:44:20 UTC 2025
