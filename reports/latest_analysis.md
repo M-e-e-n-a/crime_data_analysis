@@ -1,10 +1,10 @@
 
-Loaded 6752 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-04 06:15:16
+Loaded 6788 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-04 12:12:49
 
 Incidents by source:
 source
-newsapi           6651
+newsapi           6687
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ tribution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-01-04 06:15
-- Location: New York Post
-- Description: Alexander Paffendorf expressed regret for his involvement when a judge offered a chance for final words before keeping an order to confiscate his guns and ammunition in place until April 4.
+### OTHER on 2025-01-04 12:12
+- Location: RT
+- Description: Jails across India have been instructed to end discrimination against dalits. Upper caste inmates make this easier said than done Read Full Article at RT.com
 
 
-### OTHER on 2025-01-04 06:00
-- Location: Naturalnews.com
-- Description: Angel Pineda claims the Biden Administration is responsible for running the world’s largest child sex trafficking ring, involving the trafficking of victims from Guatemala. The U.S. government, particularly the Department of Homeland Security, is alleged to b…
+### SHOOTING on 2025-01-04 12:10
+- Location: Breitbart News
+- Description: A group of unidentified gunmen shot and wounded a Venezuelan migrant during a failed kidnapping attempt at the Mexico-Texas border.
+The post Venezuelan Migrant Shot During Attempted Kidnapping at Border in Mexico appeared first on Breitbart.
 
 
-### OTHER on 2025-01-04 06:00
-- Location: [Removed]
-- Description: [Removed]
+### OTHER on 2025-01-04 12:00
+- Location: CNN
+- Description: President-elect Donald Trump is preparing to dust off a series of centuries-old laws and legal theories to drive his first-year agenda – particularly on the border and birthright citizenship – hoping history will be on his side when the inevitable legal chall…
 
 
-### ASSAULT on 2025-01-04 06:00
-- Location: The Irish Times
-- Description: Lt Yulia Mykytenko gives her eye witness account of the horrors of Russia’s attack in the context of Christmas and looming new year
+### OTHER on 2025-01-04 12:00
+- Location: CBC News
+- Description: Three northern Manitoban men accused of sex crimes are no longer facing charges after provincial court threw out each of their cases for unreasonable time delays in 2024.
 
 
-### OTHER on 2025-01-04 05:58
+### HOMICIDE on 2025-01-04 11:30
 - Location: NDTV News
-- Description: The Supreme Court has observed ED&#039;s &quot;high-handedness&quot; and &quot;inhuman conduct&quot; during an almost 15-hour long interrogation of former Haryana Congress MLA Surender Panwar and upheld an order saying his arrest was illegal.
+- Description: A Central Industrial Security Force (CISF) jawan stationed at Surat International Airport died by suicide on Saturday by shooting himself with his service weapon. The incident unfolded inside the washroom of the airport around 2:10 pm, police said.
 
-Analysis generated at: Sun Jan  5 06:16:33 UTC 2025
+Analysis generated at: Sun Jan  5 12:21:36 UTC 2025
