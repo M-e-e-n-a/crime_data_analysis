@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Jan  5 12:37:07 UTC 2025
+Last updated: Sun Jan  5 18:15:17 UTC 2025
 
 ## Latest Analysis
 
-Loaded 6793 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-04 12:36:50
+Loaded 6862 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-04 18:05:42
 
 Incidents by source:
 source
-newsapi           6692
+newsapi           6761
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ tribution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-01-04 12:36
+### HOMICIDE on 2025-01-04 18:05
+- Location: NDTV News
+- Description: Fearing that a paternity test would prove that he was the father of a 24-year-old woman&#039;s twin daughters, who were just 17 days old, an Armyman allegedly killed her and the infants with the help of a fellow soldier.
+
+
+### OTHER on 2025-01-04 18:00
+- Location: USA Today
+- Description: Tim Kennedy asked on social media if anyone knew Matthew Livelsberger. Well, it turns out he himself did.
+
+
+### HOMICIDE on 2025-01-04 17:43
+- Location: New York Post
+- Description: Shamsud-Din Jabbar intended to use a transmitter — which was stashed in his F150 truck — to set off the two IEDs he placed along Bourbon Street.
+
+
+### ASSAULT on 2025-01-04 17:37
+- Location: Fox News
+- Description: An brave 71-year-old woman fought off four teen females who punched and stomped on her during a botched mugging on the New York City subway system
+
+
+### OTHER on 2025-01-04 17:35
 - Location: Freerepublic.com
-- Description: What is clear is the Harris/Biden Administration and the FBI cannot be trusted. Patterns matter in the investigation of any crime, but particularly in identifying, deterring and capturing terrorist operations. They also matter in understanding the motivations…
+- Description: President-elect Donald Trump has expressed his outrage in a post on Truth Social after New York Judge Juan Merchan set a sentencing date of January 10 in his New York “hush money” case. Trump said that if the judge’s decision is allowed to stand, “it would be…
 
-
-### HOMICIDE on 2025-01-04 12:31
-- Location: Lifesciencesworld.com
-- Description: The Tragic Tale of the Assassination of Sonny Bono Introduction On January 5, 1998, the world witnessed a shocking and […]
-The post Why did barzini kill sonny? appeared first on Life Sciences World.
-
-
-### OTHER on 2025-01-04 12:28
-- Location: [Removed]
-- Description: [Removed]
-
-
-### HOMICIDE on 2025-01-04 12:23
-- Location: The Star Online
-- Description: PODGORICA (Reuters) -Hundreds of Montenegrins protested in the capital Podgorica on Friday against what they see as a lack of action by authorities to prevent a mass shooting in which a gunman killed 12 people and seriously wounded four. Read full story
-
-
-### SHOOTING on 2025-01-04 12:21
-- Location: Investing.com
-- Description: Montenegrin protesters slam police handling of mass shooting
-
-Analysis generated at: Sun Jan  5 12:37:07 UTC 2025
+Analysis generated at: Sun Jan  5 18:15:17 UTC 2025
