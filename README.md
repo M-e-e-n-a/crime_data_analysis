@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Jan  6 12:24:34 UTC 2025
+Last updated: Mon Jan  6 12:40:51 UTC 2025
 
 ## Latest Analysis
 
-Loaded 6945 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-05 12:20:23
+Loaded 6947 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-05 12:32:42
 
 Incidents by source:
 source
-newsapi           6844
+newsapi           6846
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -23,6 +23,16 @@ tribution.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### ROBBERY/THEFT on 2025-01-05 12:32
+- Location: Starcommunity.com.au
+- Description: Scores of people – mainly youths – have been arrested by police for armed robberies, aggravated burglaries and car thefts […]
+
+
+### HOMICIDE on 2025-01-05 12:31
+- Location: NDTV News
+- Description: A 14-year-old boy allegedly killed his grandparents with an axe and also got injured while attacking them in the Rajgarh police station area here, an officer said on Sunday.
+
 
 ### ROBBERY/THEFT on 2025-01-05 12:20
 - Location: fox6now.com
@@ -39,14 +49,4 @@ tribution.svg)
 - Description: It takes a book to break down the dynamics that are pushing agro-chemical agriculture to farmers and consumers around the world and to reveal the strength of the diverse organizations who stand in the way of these predatory forces.
 The post Power Play: The Fu…
 
-
-### OTHER on 2025-01-05 12:14
-- Location: NDTV News
-- Description: Two persons were arrested for alleged voyeurism after some female students at a private engineering college in Medchal, near Hyderabad, accused the cooking staff of recording them in the hostel washrooms, police said on Sunday.
-
-
-### OTHER on 2025-01-05 12:00
-- Location: CBC News
-- Description: The mysterious disappearance of Tammy Nattaway, who was a quiet 16-year-old from Garden Hill First Nation, still haunts her family and community four years later. They continue to search and have faith that someone with information will come forward.
-
-Analysis generated at: Mon Jan  6 12:24:34 UTC 2025
+Analysis generated at: Mon Jan  6 12:40:51 UTC 2025
