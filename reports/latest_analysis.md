@@ -1,10 +1,10 @@
 
-Loaded 6862 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-04 18:05:42
+Loaded 6869 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-05 01:00:36
 
 Incidents by source:
 source
-newsapi           6761
+newsapi           6768
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ tribution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-01-04 18:05
-- Location: NDTV News
-- Description: Fearing that a paternity test would prove that he was the father of a 24-year-old woman&#039;s twin daughters, who were just 17 days old, an Armyman allegedly killed her and the infants with the help of a fellow soldier.
+### HOMICIDE on 2025-01-05 01:00
+- Location: Honolulu Star-Advertiser
+- Description: Honolulu police have opened a second-degree murder investigation after they said a doctor allegedly administer a lethal prescription dose to an 88-year-old woman in violation of Hawaii’s assisted death law.
 
 
-### OTHER on 2025-01-04 18:00
-- Location: USA Today
-- Description: Tim Kennedy asked on social media if anyone knew Matthew Livelsberger. Well, it turns out he himself did.
+### HOMICIDE on 2025-01-05 00:50
+- Location: The Punch
+- Description: In this feature, VICTOR AYENI uncovers the chilling realities faced by men and women held captive by kidnappers—surviving relentless threats of death, brutal beatings, and horrifying sexual violence. These harrowing ordeals have taken a devastating toll on th…
 
 
-### HOMICIDE on 2025-01-04 17:43
-- Location: New York Post
-- Description: Shamsud-Din Jabbar intended to use a transmitter — which was stashed in his F150 truck — to set off the two IEDs he placed along Bourbon Street.
+### ROBBERY/THEFT on 2025-01-05 00:49
+- Location: CBS News
+- Description: The 19-year-old suspect was arrested and held without bond after several homemade explosive devices were found in a vehicle believed to have been stolen, officials said.
 
 
-### ASSAULT on 2025-01-04 17:37
-- Location: Fox News
-- Description: An brave 71-year-old woman fought off four teen females who punched and stomped on her during a botched mugging on the New York City subway system
+### OTHER on 2025-01-05 00:38
+- Location: Bleeding Cool News
+- Description: Carlye Tamaren prides herself as a Jill-of-all-trades performer, whether it's on the stage, in front and behind the camera writing, acting, directing, or demonstrating her physical feats as a martial artist. Among her various credits include ABC's How to Get …
 
 
-### OTHER on 2025-01-04 17:35
-- Location: Freerepublic.com
-- Description: President-elect Donald Trump has expressed his outrage in a post on Truth Social after New York Judge Juan Merchan set a sentencing date of January 10 in his New York “hush money” case. Trump said that if the judge’s decision is allowed to stand, “it would be…
+### SHOOTING on 2025-01-05 00:25
+- Location: The Punch
+- Description: Operatives of the Ojodu Division under the Ogun State Police Command have arrested a veterinary doctor, identified as David Tom, for allegedly committing burglary and stealing properties valued at N24 million. The spokesperson for the state police command, CS…
 
-Analysis generated at: Sun Jan  5 18:15:17 UTC 2025
+Analysis generated at: Mon Jan  6 01:01:45 UTC 2025
