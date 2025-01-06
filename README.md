@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Jan  6 06:18:42 UTC 2025
+Last updated: Mon Jan  6 12:24:34 UTC 2025
 
 ## Latest Analysis
 
-Loaded 6906 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-05 05:40:09
+Loaded 6945 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-05 12:20:23
 
 Incidents by source:
 source
-newsapi           6805
+newsapi           6844
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -24,29 +24,29 @@ tribution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-01-05 05:40
-- Location: Newsbusters.org
-- Description: President Joe Biden decided to use his waning days as America’s leader to flip the middle finger to citizens by honoring one of the most notorious anti-American billionaires in global politics.
+### ROBBERY/THEFT on 2025-01-05 12:20
+- Location: fox6now.com
+- Description: A Milwaukee man is charged in a pair of armed robberies – one from a restaurant, the other from a cellphone store – in December.
 
 
-### HOMICIDE on 2025-01-05 05:34
-- Location: Boston Herald
-- Description: For its fourth season, the PBS “Vienna Blood” murder mystery series does something new.
+### ROBBERY/THEFT on 2025-01-05 12:16
+- Location: The Punch
+- Description: Katsina State Police Command on Saturday foiled a kidnap attempt involving four commercial vehicles on the Funtua-Katsina to Gusau, Zamfara State, highway and rescued 18 passengers. The command also thwarted a cattle rustling attempt and recovered the stolen …
 
 
-### OTHER on 2025-01-05 05:24
-- Location: erienewsnow.com
-- Description: New York governor to push for expanded mental health laws, citing violence on subwayerienewsnow.com
+### OTHER on 2025-01-05 12:14
+- Location: Globalresearch.ca
+- Description: It takes a book to break down the dynamics that are pushing agro-chemical agriculture to farmers and consumers around the world and to reveal the strength of the diverse organizations who stand in the way of these predatory forces.
+The post Power Play: The Fu…
 
 
-### OTHER on 2025-01-05 05:05
-- Location: The American Conservative
-- Description: The coverup of mass rape by the British government is a demonstration of the awful fate awaiting post-national, multicultural states.
-The post The Rape of Britain appeared first on The American Conservative.
+### OTHER on 2025-01-05 12:14
+- Location: NDTV News
+- Description: Two persons were arrested for alleged voyeurism after some female students at a private engineering college in Medchal, near Hyderabad, accused the cooking staff of recording them in the hostel washrooms, police said on Sunday.
 
 
-### OTHER on 2025-01-05 05:04
-- Location: Juancole.com
-- Description: By Joshua Kaplan - Reporting Highlights A Freelance Vigilante: A wilderness survival trainer spent years undercover, climbing the ranks of right-wing militias. He didn’t tell police or the FBI. He didn’t tell his family or friends. The Future of Militias: He …
+### OTHER on 2025-01-05 12:00
+- Location: CBC News
+- Description: The mysterious disappearance of Tammy Nattaway, who was a quiet 16-year-old from Garden Hill First Nation, still haunts her family and community four years later. They continue to search and have faith that someone with information will come forward.
 
-Analysis generated at: Mon Jan  6 06:18:42 UTC 2025
+Analysis generated at: Mon Jan  6 12:24:34 UTC 2025
