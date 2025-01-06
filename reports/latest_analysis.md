@@ -1,10 +1,10 @@
 
-Loaded 6947 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-05 12:32:42
+Loaded 7008 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-05 18:08:49
 
 Incidents by source:
 source
-newsapi           6846
+newsapi           6907
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ tribution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2025-01-05 12:32
-- Location: Starcommunity.com.au
-- Description: Scores of people – mainly youths – have been arrested by police for armed robberies, aggravated burglaries and car thefts […]
+### OTHER on 2025-01-05 18:08
+- Location: Newsbreak.com
+- Description: Conservative X users blasted White House Press Secretary Karine Jean-Pierre online after she posted that her communications team is the "best in the busine
 
 
-### HOMICIDE on 2025-01-05 12:31
+### HOMICIDE on 2025-01-05 18:07
 - Location: NDTV News
-- Description: A 14-year-old boy allegedly killed his grandparents with an axe and also got injured while attacking them in the Rajgarh police station area here, an officer said on Sunday.
+- Description: Five Indian-origin men have been arrested and charged with the murder of an Indian, whose bullet-ridden body had been found in a forest in New Jersey, according to officials.
 
 
-### ROBBERY/THEFT on 2025-01-05 12:20
-- Location: fox6now.com
-- Description: A Milwaukee man is charged in a pair of armed robberies – one from a restaurant, the other from a cellphone store – in December.
+### ASSAULT on 2025-01-05 18:06
+- Location: The Hill
+- Description: The Justice Department’s prosecution of the Jan. 6, 2021, Capitol attack — hailed as one of the “largest, most complex, and most resource-intensive investigations” in its history — could soon go out with a fizzle.  President-elect Trump has vowed to grant cle…
 
 
-### ROBBERY/THEFT on 2025-01-05 12:16
-- Location: The Punch
-- Description: Katsina State Police Command on Saturday foiled a kidnap attempt involving four commercial vehicles on the Funtua-Katsina to Gusau, Zamfara State, highway and rescued 18 passengers. The command also thwarted a cattle rustling attempt and recovered the stolen …
+### HOMICIDE on 2025-01-05 18:00
+- Location: Just Jared
+- Description: Period piece TV show Vienna Blood is returning to PBS Masterpiece tonight, and fans are anxiously awaiting the continuation of the story! Here’s the synopsis of the new season…”1909: The double murder of an arms dealer in police custody and a senior public of…
 
 
-### OTHER on 2025-01-05 12:14
-- Location: Globalresearch.ca
-- Description: It takes a book to break down the dynamics that are pushing agro-chemical agriculture to farmers and consumers around the world and to reveal the strength of the diverse organizations who stand in the way of these predatory forces.
-The post Power Play: The Fu…
+### HOMICIDE on 2025-01-05 17:47
+- Location: New York Post
+- Description: "If you bump into someone, they want to kill you."
 
-Analysis generated at: Mon Jan  6 12:40:51 UTC 2025
+Analysis generated at: Mon Jan  6 18:17:13 UTC 2025
