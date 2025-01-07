@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Jan  7 01:39:00 UTC 2025
+Last updated: Tue Jan  7 06:18:30 UTC 2025
 
 ## Latest Analysis
 
-Loaded 7020 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-06 01:27:56
+Loaded 7051 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-06 06:08:08
 
 Incidents by source:
 source
-newsapi           6919
+newsapi           6950
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ tribution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-01-06 01:27
-- Location: The Punch
-- Description: The four kidnap victims rescued by the Imo State Police Command’s Anti-Kidnapping Unit on Saturday have shared their experience in the hands of their abductors. The victims, Mrs Carolyn Didia, Mrs Ego Odu, Mrs Apollonia Ezekwe, and Mr Godwin Ezekwe, were in t…
+### OTHER on 2025-01-06 06:08
+- Location: ABC News (AU)
+- Description: Detectives from Tasmania have travelled to Queensland to charge a 74-year-old former police sergeant with child sex offences.
 
 
-### OTHER on 2025-01-06 01:15
-- Location: Washington Monthly
-- Description: For many years, outside observers, including the editors of this magazine, have warned that the Democratic Party cannot win if it continues to hemorrhage the support of working-class Americans. The results of the November election should put an end to any deb…
+### SHOOTING on 2025-01-06 06:05
+- Location: New York Post
+- Description: At least two teens were among three victims shot and wounded when gunfire erupted inside two Big Apple bodegas on Sunday evening, according to authorities.
 
 
-### ASSAULT on 2025-01-06 01:08
-- Location: 7NEWS.com.au
-- Description: The man was dragged out of his car, then threatened with a knife and shoved into the back of his vehicle.
+### OTHER on 2025-01-06 06:01
+- Location: seattlepi.com
+- Description: France’s former President Nicolas Sarkozy goes on trial Monday over alleged illegal financing of his 2007 presidential campaign by the government of late Libyan leader Moammar Gadhafi. The so-called “Libyan case,” the biggest and possibly most shocking of sev…
 
 
-### OTHER on 2025-01-06 01:00
-- Location: STLtoday.com
-- Description: The storm was far from over, meteorologists said, predicting more waves of freezing rain, sleet and snow in varying intensity through Sunday and into Monday morning.
+### HOMICIDE on 2025-01-06 06:00
+- Location: WSB Atlanta
+- Description: South Fulton Police are investigating a deadly shooting that occurred outside of sports bar Sunday evening.
 
 
-### OTHER on 2025-01-06 00:40
-- Location: [Removed]
-- Description: [Removed]
+### OTHER on 2025-01-06 06:00
+- Location: Starcommunity.com.au
+- Description: Knox Crime Investigation Unit detectives have arrested and charged a man following a spate of burglaries across the eastern suburbs […]
 
-Analysis generated at: Tue Jan  7 01:39:00 UTC 2025
+Analysis generated at: Tue Jan  7 06:18:30 UTC 2025
