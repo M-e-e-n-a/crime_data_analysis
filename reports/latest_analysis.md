@@ -1,10 +1,10 @@
 
-Loaded 7016 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-06 00:40:25
+Loaded 7020 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-06 01:27:56
 
 Incidents by source:
 source
-newsapi           6915
+newsapi           6919
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ tribution.svg)
 
 ## Recent Incidents
 
+### OTHER on 2025-01-06 01:27
+- Location: The Punch
+- Description: The four kidnap victims rescued by the Imo State Police Command’s Anti-Kidnapping Unit on Saturday have shared their experience in the hands of their abductors. The victims, Mrs Carolyn Didia, Mrs Ego Odu, Mrs Apollonia Ezekwe, and Mr Godwin Ezekwe, were in t…
+
+
+### OTHER on 2025-01-06 01:15
+- Location: Washington Monthly
+- Description: For many years, outside observers, including the editors of this magazine, have warned that the Democratic Party cannot win if it continues to hemorrhage the support of working-class Americans. The results of the November election should put an end to any deb…
+
+
+### ASSAULT on 2025-01-06 01:08
+- Location: 7NEWS.com.au
+- Description: The man was dragged out of his car, then threatened with a knife and shoved into the back of his vehicle.
+
+
+### OTHER on 2025-01-06 01:00
+- Location: STLtoday.com
+- Description: The storm was far from over, meteorologists said, predicting more waves of freezing rain, sleet and snow in varying intensity through Sunday and into Monday morning.
+
+
 ### OTHER on 2025-01-06 00:40
 - Location: [Removed]
 - Description: [Removed]
 
-
-### HOMICIDE on 2025-01-06 00:30
-- Location: fox6now.com
-- Description: A Milwaukee woman and her grandson were just leaving a loved one's house on Saturday evening, Jan. 4. They barely made it a block before police say a reckless driver hit them.
-
-
-### OTHER on 2025-01-06 00:30
-- Location: Securityaffairs.com
-- Description: PLAYFULGHOST is a new malware family with capabilities including keylogging, screen and audio capture, remote shell access, and file transfer/execution. Google researchers analyzed a new malware family called PLAYFULGHOST that supports multiple features, incl…
-
-
-### HOMICIDE on 2025-01-06 00:30
-- Location: Freerepublic.com
-- Description: A mass shooting has left 12 dead, including two children, in Cetinje, Montenegro, after 45-year-old Aco Martinović opened fire following a bar brawl. Martinović killed family members, including his sister, the bar owner, and the bar owner’s nephews, before ta…
-
-
-### SHOOTING on 2025-01-06 00:28
-- Location: Boston Herald
-- Description: Violence over the weekend claimed two lives in Charlestown and Brockton, local authorities said in statements Sunday.
-
-Analysis generated at: Tue Jan  7 00:59:25 UTC 2025
+Analysis generated at: Tue Jan  7 01:39:00 UTC 2025
