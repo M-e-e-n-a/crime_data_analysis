@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Jan  7 12:40:18 UTC 2025
+Last updated: Tue Jan  7 18:17:22 UTC 2025
 
 ## Latest Analysis
 
-Loaded 7127 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-06 12:38:24
+Loaded 7227 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-06 18:17:03
 
 Incidents by source:
 source
-newsapi           7026
+newsapi           7126
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ tribution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-01-06 12:38
-- Location: Digital Journal
-- Description: Every night, Damascus residents stand guard outside shops and homes armed with light weapons often supplied by Syria’s new rulers, eager to fill the security vacuum that followed the recent takeover. After Islamist-led rebels ousted former president Bashar al…
+### OTHER on 2025-01-06 18:17
+- Location: Statetimes.in
+- Description: STATE TIMES NEWS JAMMU: Additional Director General of Police (ADGP) Jammu zone, Anand Jain, on Monday chaired a comprehensive crime review meeting of district Jammu. Shiv Kumar Sharma, DIG JKS Range; Joginder Singh, SSP Jammu; all SsP, SDPOs, SHOs and ICPPs …
 
 
-### HOMICIDE on 2025-01-06 12:30
-- Location: ABC News
-- Description: President Joe Biden is heading to New Orleans as the city reels from the deadly New Year’s attack in which an Army veteran plowed a truck into revelers, killing 14 and injuring 30 more
+### ROBBERY/THEFT on 2025-01-06 18:15
+- Location: The Punch
+- Description: The Anambra State Commissioner of Police, CP Nnaghe Itam, said the command arrested over 300 suspects involved in various crimes and criminalities such as armed robbery, kidnapping, cultism and child trafficking. Other offences include public disturbances, at…
 
 
-### OTHER on 2025-01-06 12:30
-- Location: [Removed]
-- Description: [Removed]
+### HOMICIDE on 2025-01-06 18:15
+- Location: The Punch
+- Description: The Anambra State Police Command has arrested two suspects in connection with the murder and burial of their brother in a shallow grave in Oko community, Orumba North Local Government Area of Anambra State. The Commissioner for Police in Anambra State, CP Nna…
 
 
-### OTHER on 2025-01-06 12:30
+### OTHER on 2025-01-06 18:10
 - Location: STLtoday.com
-- Description: Quality Schools Coalition ceased operations at the end of 2024 after top donor doesn’t renew funding.
+- Description: Trish Vincent served as director the Department of Revenue under former Gov. Matt Blunt.
 
 
-### SHOOTING on 2025-01-06 12:23
-- Location: The Irish Times
-- Description: The Oscar-tipped drama follows the ABC crew of journalists who had to cover the unfolding violence as terrorism overtook the the Munich Olympics in 1972
+### OTHER on 2025-01-06 18:01
+- Location: Wnd.com
+- Description: 'Securing our borders must be priority No. 1 for all Americans if we are going to save lives'
 
-Analysis generated at: Tue Jan  7 12:40:18 UTC 2025
+Analysis generated at: Tue Jan  7 18:17:22 UTC 2025
