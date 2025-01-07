@@ -1,10 +1,10 @@
 
-Loaded 7051 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-06 06:08:08
+Loaded 7123 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-06 12:23:18
 
 Incidents by source:
 source
-newsapi           6950
+newsapi           7022
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ tribution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-01-06 06:08
-- Location: ABC News (AU)
-- Description: Detectives from Tasmania have travelled to Queensland to charge a 74-year-old former police sergeant with child sex offences.
+### SHOOTING on 2025-01-06 12:23
+- Location: The Irish Times
+- Description: The Oscar-tipped drama follows the ABC crew of journalists who had to cover the unfolding violence as terrorism overtook the the Munich Olympics in 1972
 
 
-### SHOOTING on 2025-01-06 06:05
-- Location: New York Post
-- Description: At least two teens were among three victims shot and wounded when gunfire erupted inside two Big Apple bodegas on Sunday evening, according to authorities.
+### OTHER on 2025-01-06 12:21
+- Location: International Business Times
+- Description: Every night, Damascus residents stand guard outside shops and homes armed with light weapons often supplied by Syria's new rulers, eager to fill the security vacuum that followed the recent takeover.
 
 
-### OTHER on 2025-01-06 06:01
-- Location: seattlepi.com
-- Description: France’s former President Nicolas Sarkozy goes on trial Monday over alleged illegal financing of his 2007 presidential campaign by the government of late Libyan leader Moammar Gadhafi. The so-called “Libyan case,” the biggest and possibly most shocking of sev…
+### HOMICIDE on 2025-01-06 12:15
+- Location: CBC News
+- Description: Detroit ended 2024 with about 203 homicides — down 49 from the year before and the fewest in the city since 188 were committed in 1965, said Mayor Mike Duggan.
 
 
-### HOMICIDE on 2025-01-06 06:00
-- Location: WSB Atlanta
-- Description: South Fulton Police are investigating a deadly shooting that occurred outside of sports bar Sunday evening.
+### OTHER on 2025-01-06 12:13
+- Location: The Federalist
+- Description: Adam Schiff has been at the center of every major conspiracy lodged against Republicans since 2016.
 
 
-### OTHER on 2025-01-06 06:00
-- Location: Starcommunity.com.au
-- Description: Knox Crime Investigation Unit detectives have arrested and charged a man following a spate of burglaries across the eastern suburbs […]
+### OTHER on 2025-01-06 12:13
+- Location: Odditycentral.com
+- Description: Russian police have been enforcing the country’s controversial anti-LGBT legislation by arresting people for dressing in ways that made them “look too gay”. “Trying to arouse interest in non-traditional sexual relations” has been considered a crime in Russia …
 
-Analysis generated at: Tue Jan  7 06:18:30 UTC 2025
+Analysis generated at: Tue Jan  7 12:24:23 UTC 2025
