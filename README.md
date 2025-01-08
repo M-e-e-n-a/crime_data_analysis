@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Jan  7 18:17:22 UTC 2025
+Last updated: Wed Jan  8 00:59:10 UTC 2025
 
 ## Latest Analysis
 
-Loaded 7227 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-06 18:17:03
+Loaded 7249 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-07 00:57:23
 
 Incidents by source:
 source
-newsapi           7126
+newsapi           7148
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ tribution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-01-06 18:17
-- Location: Statetimes.in
-- Description: STATE TIMES NEWS JAMMU: Additional Director General of Police (ADGP) Jammu zone, Anand Jain, on Monday chaired a comprehensive crime review meeting of district Jammu. Shiv Kumar Sharma, DIG JKS Range; Joginder Singh, SSP Jammu; all SsP, SDPOs, SHOs and ICPPs …
+### HOMICIDE on 2025-01-07 00:57
+- Location: ABC News (AU)
+- Description: Chloe Jade Mason was found unconscious, suffering a gunshot wound, on the footpath of a suburban street in Caboolture just over two weeks ago.
 
 
-### ROBBERY/THEFT on 2025-01-06 18:15
+### OTHER on 2025-01-07 00:52
+- Location: USA Today
+- Description: Among Russell 3000 companies, the number of new Black directors fell to 12% in 2024 from 26% two years ago.
+
+
+### OTHER on 2025-01-07 00:49
+- Location: BBC News
+- Description: The home secretary says those who fail to report child sexual abuse could face criminal sanctions.
+
+
+### OTHER on 2025-01-07 00:48
 - Location: The Punch
-- Description: The Anambra State Commissioner of Police, CP Nnaghe Itam, said the command arrested over 300 suspects involved in various crimes and criminalities such as armed robbery, kidnapping, cultism and child trafficking. Other offences include public disturbances, at…
+- Description: The ruling All Progressives Congress and supporters of the Labour Party presidential candidate in the 2023 election, Peter Obi, engaged themselves in a war of words on Monday over an alleged threat to the life of the former Anambra State governor. The hostili…
 
 
-### HOMICIDE on 2025-01-06 18:15
-- Location: The Punch
-- Description: The Anambra State Police Command has arrested two suspects in connection with the murder and burial of their brother in a shallow grave in Oko community, Orumba North Local Government Area of Anambra State. The Commissioner for Police in Anambra State, CP Nna…
+### OTHER on 2025-01-07 00:47
+- Location: [Removed]
+- Description: [Removed]
 
-
-### OTHER on 2025-01-06 18:10
-- Location: STLtoday.com
-- Description: Trish Vincent served as director the Department of Revenue under former Gov. Matt Blunt.
-
-
-### OTHER on 2025-01-06 18:01
-- Location: Wnd.com
-- Description: 'Securing our borders must be priority No. 1 for all Americans if we are going to save lives'
-
-Analysis generated at: Tue Jan  7 18:17:22 UTC 2025
+Analysis generated at: Wed Jan  8 00:59:10 UTC 2025
