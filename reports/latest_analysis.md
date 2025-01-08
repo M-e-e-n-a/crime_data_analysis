@@ -1,10 +1,10 @@
 
-Loaded 7358 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-07 12:24:04
+Loaded 7363 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-07 12:38:22
 
 Incidents by source:
 source
-newsapi           7257
+newsapi           7262
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ tribution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-01-07 12:24
-- Location: Forbes
-- Description: Information sharing, sanctions and prosecuting the perpetrators are important steps. But will they be enough to deter Moscow?
+### OTHER on 2025-01-07 12:38
+- Location: Freerepublic.com
+- Description: "They found a cure for gluttony. Now do narcissism." — Peachy Keenan. Poor “Joe Biden” can’t help himself as the sun sets on his ignominious career. He ordered the American flag to fly at half-staff into January 20, inauguration day, to signal grief and distr…
 
 
-### HOMICIDE on 2025-01-07 12:11
-- Location: Newser
-- Description: Two federal death row inmates prefer the prospect of death over life imprisonment. Shannon Agofsky and Len Davis, both housed at the US Penitentiary in Terre Haute, Indiana, have refused to sign paperwork accepting President Biden's commutations of their deat…
+### OTHER on 2025-01-07 12:36
+- Location: Investing.com
+- Description: UN says Iran executed over 900 people in 2024, including dozens of women
 
 
-### OTHER on 2025-01-07 12:10
-- Location: STLtoday.com
-- Description: After losing his bid to name the next prosecutor, Page faces a hostile County Council determined to check his power.
+### OTHER on 2025-01-07 12:30
+- Location: Arizona Daily Star
+- Description: Migrant-aid groups are emphasizing their continued commitment to humanitarian work after receiving “intimidating” mailings, amid a rise in anti-immigrant activity since the November election.
 
 
-### OTHER on 2025-01-07 12:07
-- Location: NBC News
-- Description: Trump tries to block the public from seeing special counsel Jack Smith’s final report.
+### OTHER on 2025-01-07 12:27
+- Location: Securityaffairs.com
+- Description: Moxa warns of two flaws in its routers and security appliances that enable privilege escalation and remote command execution. Moxa addressed privilege escalation and OS command injection vulnerabilities in cellular routers, secure routers, and network securit…
 
 
-### OTHER on 2025-01-07 12:00
-- Location: STLtoday.com
-- Description: Home teams won big in the SEC over the weekend, which suggests Missouri will need to win games on its home floor to make a case for the NCAA Tournament.
+### OTHER on 2025-01-07 12:26
+- Location: Al Jazeera English
+- Description: South Africa's military has enhanced border operations along the Limpopo River to halt smugglers and illegal crossings.
 
-Analysis generated at: Wed Jan  8 12:24:17 UTC 2025
+Analysis generated at: Wed Jan  8 12:40:22 UTC 2025
