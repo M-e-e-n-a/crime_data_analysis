@@ -1,10 +1,10 @@
 
-Loaded 7620 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-08 12:37:55
+Loaded 7713 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-08 18:17:10
 
 Incidents by source:
 source
-newsapi           7519
+newsapi           7612
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ tribution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-01-08 12:37
-- Location: HuffPost
-- Description: Self-exiled Edmundo González said Rafael Tudares was kidnapped while taking González’s two grandchildren to school in Caracas.
+### HOMICIDE on 2025-01-08 18:17
+- Location: Yahoo Entertainment
+- Description: The two employees who died in a shooting attack at a mechanical engineering company in south-western Germany were brothers, police and prosecutors said on...
 
 
-### OTHER on 2025-01-08 12:34
-- Location: Newsweek
-- Description: More than 4,000 acres have been burned by wildfires on the outskirts of LA and people are asking why the city's mayor was in Africa as the crisis unfurled.
+### ROBBERY/THEFT on 2025-01-08 18:15
+- Location: Econlib.org
+- Description: Here’s a personal tidbit about me – I’m a bit of a true crime buff. I often listen to true crime podcasts and audio essays while unwinding at the end of the day, or during my time in the gym. (My wife finds the idea of listening to podcasts talking about horr…
 
 
-### OTHER on 2025-01-08 12:33
-- Location: [Removed]
-- Description: [Removed]
+### OTHER on 2025-01-08 18:05
+- Location: GoNintendo
+- Description: Look back and smile
 
 
-### OTHER on 2025-01-08 12:31
-- Location: Economictimes.com
-- Description: The Maha Kumbh attracts millions of pilgrims, and accommodations fill up quickly. To avoid last-minute hassles, book your stay several months in advance. Options include ashrams, government-provided tents, hotels, and dharamshalas. Consider proximity to the g…
+### ROBBERY/THEFT on 2025-01-08 18:00
+- Location: The Times of India
+- Description: Delhi's election campaign sees a heated poster war between AAP and BJP, with accusations flying over the renovation costs of residences. Ajit Pawar reverts to his assertive style post-election results. Delhi Police busts a mobile theft racket involving minors…
 
 
-### ASSAULT on 2025-01-08 12:25
-- Location: The Week Magazine
-- Description: 'Meticulous' four-part series marks the 20th anniversary of the 7 July attacks
+### OTHER on 2025-01-08 18:00
+- Location: Reactormag.com
+- Description: The follow-up to 2019's Joker is a disappointing slog that fails on multiple levels.
+The post “You have a joke for us today?” — Joker: Folie à Deux appeared first on Reactor.
 
-Analysis generated at: Thu Jan  9 12:41:06 UTC 2025
+Analysis generated at: Thu Jan  9 18:17:25 UTC 2025
