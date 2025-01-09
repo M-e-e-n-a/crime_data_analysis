@@ -1,10 +1,10 @@
 
-Loaded 7475 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-08 00:52:36
+Loaded 7496 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-08 02:00:53
 
 Incidents by source:
 source
-newsapi           7374
+newsapi           7395
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ tribution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-01-08 00:52
-- Location: The Jerusalem Post
-- Description: The shunning, turning the Zionist Right into the ultimate “other,” politically, socially, and economically, set in motion a psychological mindset among Israel’s cultural elite.
+### HOMICIDE on 2025-01-08 02:00
+- Location: ABC News (AU)
+- Description: Four people have been killed in a head-on collision near Yirrkala in East Arnhem Land, with police alleging one of the vehicles involved had earlier been stolen from a property in Nhulunbuy.
 
 
-### OTHER on 2025-01-08 00:46
-- Location: [Removed]
-- Description: [Removed]
+### OTHER on 2025-01-08 02:00
+- Location: OK!
+- Description: Sean 'Diddy' Combs was reportedly placed under 'observation' for mental instability while incarcerated during the Christmas holiday.
 
 
-### OTHER on 2025-01-08 00:37
-- Location: [Removed]
-- Description: [Removed]
+### OTHER on 2025-01-08 01:59
+- Location: NBC News
+- Description: The Army soldier who authorities believe blew up a Cybertruck on New Year's Day in front of the entrance of the Trump International Hotel in Las Vegas used artificial intelligence to guide him on how to set off the explosion, officials said Tuesday.
 
 
-### HOMICIDE on 2025-01-08 00:34
-- Location: The Punch
-- Description: A father, Mr Obinna Obiekea and his son, Chidubem Obiekea, are currently detained by the Imo State Police Command for allegedly setting their 35-year-old kinsman, Chima Okafor, ablaze during the early hours of the New Year Day. Obiekea popularly called Losky …
+### OTHER on 2025-01-08 01:59
+- Location: TVLine
+- Description: A lot has changed since Will Trent torpedoed his life last year. At the start of Tuesday’s season opener — directed by series star/executive producer Ramón Rodríguez — we learn that six months have passed since the GBI’s top agent arrested one true love Angie…
 
 
-### HOMICIDE on 2025-01-08 00:33
-- Location: The Punch
-- Description: The Ogun State Police Command has arrested three suspects in connection with separate murder incidents across the state. PUNCH Metro learnt from a crime update document released by the Ogun State Police Public Relations Officer, Omolola Odutola, on Monday nig…
+### OTHER on 2025-01-08 01:57
+- Location: Rpnradio.com
+- Description: Bacolod City – There is no stopping the Commission on Elections in pushing through with the elections in areas affected by the Kanlaon volcano eruption in Negros Island on May 12, according Atty. Lionel Marco Castillano, the Comelec regional director for the …
 
-Analysis generated at: Thu Jan  9 00:58:43 UTC 2025
+Analysis generated at: Thu Jan  9 02:05:24 UTC 2025
