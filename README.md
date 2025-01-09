@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Jan  9 02:05:24 UTC 2025
+Last updated: Thu Jan  9 06:17:18 UTC 2025
 
 ## Latest Analysis
 
-Loaded 7496 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-08 02:00:53
+Loaded 7537 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-08 06:15:00
 
 Incidents by source:
 source
-newsapi           7395
+newsapi           7436
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ tribution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-01-08 02:00
-- Location: ABC News (AU)
-- Description: Four people have been killed in a head-on collision near Yirrkala in East Arnhem Land, with police alleging one of the vehicles involved had earlier been stolen from a property in Nhulunbuy.
+### SHOOTING on 2025-01-08 06:15
+- Location: Spoilertv.com
+- Description: The Rookie  started its seventh season strong with a gripping mix of intense action and emotional depth. While the stakes are higher than th...
 
 
-### OTHER on 2025-01-08 02:00
-- Location: OK!
-- Description: Sean 'Diddy' Combs was reportedly placed under 'observation' for mental instability while incarcerated during the Christmas holiday.
+### OTHER on 2025-01-08 06:05
+- Location: CNA
+- Description: The 34-year-old woman was just out of prison and in need of money when a person offered her S$60,000 a year to register companies with her SingPass account.
 
 
-### OTHER on 2025-01-08 01:59
-- Location: NBC News
-- Description: The Army soldier who authorities believe blew up a Cybertruck on New Year's Day in front of the entrance of the Trump International Hotel in Las Vegas used artificial intelligence to guide him on how to set off the explosion, officials said Tuesday.
+### OTHER on 2025-01-08 06:02
+- Location: BBC News
+- Description: A small number have been identified from a 300-strong group of adults who called for legal sex with children.
 
 
-### OTHER on 2025-01-08 01:59
-- Location: TVLine
-- Description: A lot has changed since Will Trent torpedoed his life last year. At the start of Tuesday’s season opener — directed by series star/executive producer Ramón Rodríguez — we learn that six months have passed since the GBI’s top agent arrested one true love Angie…
+### OTHER on 2025-01-08 05:57
+- Location: Digital Journal
+- Description: Venezuela’s “colectivos,” groups of armed civilian volunteers accused of committing violence on behalf of Nicolas Maduro’s pariah regime, are poised to pounce on opposition protests called for the eve of the president’s swearing-in ceremony. They have already…
 
 
-### OTHER on 2025-01-08 01:57
-- Location: Rpnradio.com
-- Description: Bacolod City – There is no stopping the Commission on Elections in pushing through with the elections in areas affected by the Kanlaon volcano eruption in Negros Island on May 12, according Atty. Lionel Marco Castillano, the Comelec regional director for the …
+### OTHER on 2025-01-08 05:57
+- Location: International Business Times
+- Description: Venezuela's "colectivos," groups of armed civilian volunteers accused of committing violence on behalf of Nicolas Maduro's pariah regime, are poised to pounce on opposition protests called for the eve of the president's swearing-in ceremony.
 
-Analysis generated at: Thu Jan  9 02:05:24 UTC 2025
+Analysis generated at: Thu Jan  9 06:17:18 UTC 2025
