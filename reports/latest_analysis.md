@@ -1,10 +1,10 @@
 
-Loaded 7461 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-07 18:13:02
+Loaded 7475 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-08 00:52:36
 
 Incidents by source:
 source
-newsapi           7360
+newsapi           7374
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ tribution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-01-07 18:13
-- Location: The Irish Times
-- Description: Body of Paula Canty (31) discovered in flat in north Cork town on Friday morning
+### OTHER on 2025-01-08 00:52
+- Location: The Jerusalem Post
+- Description: The shunning, turning the Zionist Right into the ultimate “other,” politically, socially, and economically, set in motion a psychological mindset among Israel’s cultural elite.
 
 
-### SHOOTING on 2025-01-07 18:11
-- Location: TheJournal.ie
-- Description: While the investigation is at an early stage, the PSNI does not believe that this was a terrorism related incident.
+### OTHER on 2025-01-08 00:46
+- Location: [Removed]
+- Description: [Removed]
 
 
-### HOMICIDE on 2025-01-07 18:11
-- Location: TheJournal.ie
-- Description: Adnan Asic (60) died as a result of his injuries.
+### OTHER on 2025-01-08 00:37
+- Location: [Removed]
+- Description: [Removed]
 
 
-### OTHER on 2025-01-07 18:10
-- Location: Fox News
-- Description: President Biden was slammed on social media and by an expert who spoke to Fox News Digital after awarding liberal megadonor George Soros with the Medal of Freedom.
+### HOMICIDE on 2025-01-08 00:34
+- Location: The Punch
+- Description: A father, Mr Obinna Obiekea and his son, Chidubem Obiekea, are currently detained by the Imo State Police Command for allegedly setting their 35-year-old kinsman, Chima Okafor, ablaze during the early hours of the New Year Day. Obiekea popularly called Losky …
 
 
-### HOMICIDE on 2025-01-07 18:07
-- Location: The Irish Times
-- Description: Victim, who lived in Ireland for three decades, violently beaten in Blanchardstown as he walked home following night socialising
+### HOMICIDE on 2025-01-08 00:33
+- Location: The Punch
+- Description: The Ogun State Police Command has arrested three suspects in connection with separate murder incidents across the state. PUNCH Metro learnt from a crime update document released by the Ogun State Police Public Relations Officer, Omolola Odutola, on Monday nig…
 
-Analysis generated at: Wed Jan  8 18:17:01 UTC 2025
+Analysis generated at: Thu Jan  9 00:58:43 UTC 2025
