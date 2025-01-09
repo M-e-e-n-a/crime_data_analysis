@@ -1,10 +1,10 @@
 
-Loaded 7615 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-08 12:12:00
+Loaded 7620 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-08 12:37:55
 
 Incidents by source:
 source
-newsapi           7514
+newsapi           7519
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ tribution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-01-08 12:12
-- Location: ComputerWeekly.com
-- Description: The Berlin Regional Court has found that evidence obtained by a joint French and Dutch operation to hack the EncroChat encrypted mobile phone network is legally inadmissible, raising questions about its use in other European countries
+### OTHER on 2025-01-08 12:37
+- Location: HuffPost
+- Description: Self-exiled Edmundo González said Rafael Tudares was kidnapped while taking González’s two grandchildren to school in Caracas.
 
 
-### HOMICIDE on 2025-01-08 12:11
-- Location: The Irish Times
-- Description: Suspect opted to suspend questioning overnight following his arrest at Mallow Railway Station yesterday
+### OTHER on 2025-01-08 12:34
+- Location: Newsweek
+- Description: More than 4,000 acres have been burned by wildfires on the outskirts of LA and people are asking why the city's mayor was in Africa as the crisis unfurled.
 
 
-### OTHER on 2025-01-08 12:01
-- Location: Decrypt
-- Description: “The involvement of corrupt law enforcement officials in kidnappings further complicates investigations," a security expert told Decrypt.
+### OTHER on 2025-01-08 12:33
+- Location: [Removed]
+- Description: [Removed]
 
 
-### OTHER on 2025-01-08 12:00
-- Location: Foreign Policy
-- Description: With a deep bench of regional experts at the helm, the United States can finally compete with China in the neighborhood.
+### OTHER on 2025-01-08 12:31
+- Location: Economictimes.com
+- Description: The Maha Kumbh attracts millions of pilgrims, and accommodations fill up quickly. To avoid last-minute hassles, book your stay several months in advance. Options include ashrams, government-provided tents, hotels, and dharamshalas. Consider proximity to the g…
 
 
-### OTHER on 2025-01-08 12:00
-- Location: Columbia Journalism Review
-- Description: After years of engagement with immigrant communities in New York, a site is spreading its reach to newsrooms across the country.
+### ASSAULT on 2025-01-08 12:25
+- Location: The Week Magazine
+- Description: 'Meticulous' four-part series marks the 20th anniversary of the 7 July attacks
 
-Analysis generated at: Thu Jan  9 12:24:11 UTC 2025
+Analysis generated at: Thu Jan  9 12:41:06 UTC 2025
