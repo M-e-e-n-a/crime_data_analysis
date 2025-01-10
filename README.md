@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Jan 10 01:00:43 UTC 2025
+Last updated: Fri Jan 10 01:40:25 UTC 2025
 
 ## Latest Analysis
 
-Loaded 7727 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-09 00:51:13
+Loaded 7732 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-09 01:32:30
 
 Incidents by source:
 source
-newsapi           7626
+newsapi           7631
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ tribution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-01-09 00:51
-- Location: ABC News (AU)
-- Description: Keith Lees was arrested last week over the alleged cold case murder of Meaghan Rose, whose body was found at the base of cliffs on the Sunshine Coast in 1997.
+### ROBBERY/THEFT on 2025-01-09 01:32
+- Location: CNN
+- Description: Israel’s military has announced new media engagement rules for its members after a Brazilian court ordered an investigation into war crime allegations against a soldier visiting the country.
 
 
-### ROBBERY/THEFT on 2025-01-09 00:50
-- Location: The Punch
-- Description: The trial of Mukaila Lamidi, alias Auxiliary, a former chairman of the Park Management System in Oyo State, continued on Wednesday at the Oyo State High Court, Ibadan, with more revelations from witnesses. Lamidi faces 17 charges, including armed robbery, mur…
+### ROBBERY/THEFT on 2025-01-09 01:29
+- Location: Gothamist
+- Description: Police say an unidentified individual stole $300 in cash from a church on the St. John’s University campus. [ more › ]
 
 
-### ROBBERY/THEFT on 2025-01-09 00:37
-- Location: The Punch
-- Description: An Ekiti State High Court, Ado Ekiti Division has sentenced 26-year-old Omodara Dada to seven years imprisonment for burglary. Dada was charged in court for robbing the owner of a N64,000 phone and N8,000 cash while armed with a knife in 2022. He was arraigne…
-
-
-### OTHER on 2025-01-09 00:36
-- Location: MSNBC
-- Description: Jerry Springer achieved fame in the 1990s by presiding over a daytime TV show so popular it eventually surpassed Oprah Winfrey in some ratings. Trump took note.
-
-
-### OTHER on 2025-01-09 00:33
+### OTHER on 2025-01-09 01:23
 - Location: [Removed]
 - Description: [Removed]
 
-Analysis generated at: Fri Jan 10 01:00:43 UTC 2025
+
+### HOMICIDE on 2025-01-09 01:16
+- Location: Japan Today
+- Description: A 14-year-old student has been arrested after bringing a gun on Wednesday to Apalachee High School, the same Georgia high school where a shooting in September killed two teachers and two students and wounded others. The Barrow County Sheriff's Office said sch…
+
+
+### SHOOTING on 2025-01-09 01:06
+- Location: The Punch
+- Description: A plastic collector identified as Yusuf Abubakar has reportedly lost his left wrist after he and his colleagues were allegedly attacked by suspected hoodlums in Isara Remo, Ogun State. PUNCH Metro gathered from a source in the state police command on Wednesda…
+
+Analysis generated at: Fri Jan 10 01:40:25 UTC 2025
