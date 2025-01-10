@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Jan 10 06:17:58 UTC 2025
+Last updated: Fri Jan 10 12:23:57 UTC 2025
 
 ## Latest Analysis
 
-Loaded 7766 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-09 06:15:25
+Loaded 7824 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-09 12:23:23
 
 Incidents by source:
 source
-newsapi           7665
+newsapi           7723
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ tribution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-01-09 06:15
-- Location: ABC News (AU)
-- Description: A man arrested in relation to the alleged cold case murder of a woman on the Sunshine Coast in 1997 has been extradited back to Queensland.
+### OTHER on 2025-01-09 12:23
+- Location: The Federalist
+- Description: The left-wing media are once again trying to drum up a conspiracy theory against Justice Samuel Alito, but this one is particularly stupid.
 
 
-### OTHER on 2025-01-09 06:13
-- Location: BBC News
-- Description: A watchdog says lessons must be learned after a council employee's fraud went undetected for 17 years.
+### OTHER on 2025-01-09 12:19
+- Location: Khabarhub.com
+- Description: POKHARA: Kaski District Court has granted bail to Rabi Lamichhane, the Chair of the Rastriya Swatantra Party, and other accused individuals in the ongoing cooperative fraud case. District Court Kaski Judge Nitij Rai issued the order on Thursday evening, follo…
 
 
-### OTHER on 2025-01-09 06:00
-- Location: Smallwarsjournal.com
-- Description: In July 2024, three Palestinians and a Turk, all with possible connections to terrorist organizations, were detained by U.S. Customs and Border Protection (CBP) agents while attempting to illegally cross the Southwest border from Mexico into the San Diego are…
+### OTHER on 2025-01-09 12:18
+- Location: Www.gov.uk
+- Description: Victims of anti-social behaviour are to get better information and access to support.
 
 
-### OTHER on 2025-01-09 06:00
-- Location: The Irish Times
-- Description: One of the first tasks of the new government will be how to persuade the incoming Trump administration that Ireland is not a soft touch
+### OTHER on 2025-01-09 12:16
+- Location: London Review of Books
+- Description: Daniela Z wanted to be a doctor like her father. He died in 2023, soon after her brother and mother, as a consequence of his efforts to protect one of...
 
 
-### OTHER on 2025-01-09 06:00
-- Location: Naturalnews.com
-- Description: After nearly a decade in office, after attempts at photogenic diplomacy and tearful apologies, Justin Trudeau is stepping down as Canada’s Prime Minister, leaving behind a legacy as divisive as it is dramatic. To some, he was the poster child for progressive …
+### SHOOTING on 2025-01-09 12:00
+- Location: STLtoday.com
+- Description: Brooklyn, established in the early 1830s as a refuge for free and enslaved Black people, was once a key outpost on the Underground Railroad and, later, a welcoming beacon for those fleeing the Jim Crow South.
 
-Analysis generated at: Fri Jan 10 06:17:58 UTC 2025
+Analysis generated at: Fri Jan 10 12:23:57 UTC 2025
