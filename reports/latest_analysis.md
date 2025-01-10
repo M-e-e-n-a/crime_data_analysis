@@ -1,10 +1,10 @@
 
-Loaded 7713 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-08 18:17:10
+Loaded 7727 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-09 00:51:13
 
 Incidents by source:
 source
-newsapi           7612
+newsapi           7626
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ tribution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-01-08 18:17
-- Location: Yahoo Entertainment
-- Description: The two employees who died in a shooting attack at a mechanical engineering company in south-western Germany were brothers, police and prosecutors said on...
+### HOMICIDE on 2025-01-09 00:51
+- Location: ABC News (AU)
+- Description: Keith Lees was arrested last week over the alleged cold case murder of Meaghan Rose, whose body was found at the base of cliffs on the Sunshine Coast in 1997.
 
 
-### ROBBERY/THEFT on 2025-01-08 18:15
-- Location: Econlib.org
-- Description: Here’s a personal tidbit about me – I’m a bit of a true crime buff. I often listen to true crime podcasts and audio essays while unwinding at the end of the day, or during my time in the gym. (My wife finds the idea of listening to podcasts talking about horr…
+### ROBBERY/THEFT on 2025-01-09 00:50
+- Location: The Punch
+- Description: The trial of Mukaila Lamidi, alias Auxiliary, a former chairman of the Park Management System in Oyo State, continued on Wednesday at the Oyo State High Court, Ibadan, with more revelations from witnesses. Lamidi faces 17 charges, including armed robbery, mur…
 
 
-### OTHER on 2025-01-08 18:05
-- Location: GoNintendo
-- Description: Look back and smile
+### ROBBERY/THEFT on 2025-01-09 00:37
+- Location: The Punch
+- Description: An Ekiti State High Court, Ado Ekiti Division has sentenced 26-year-old Omodara Dada to seven years imprisonment for burglary. Dada was charged in court for robbing the owner of a N64,000 phone and N8,000 cash while armed with a knife in 2022. He was arraigne…
 
 
-### ROBBERY/THEFT on 2025-01-08 18:00
-- Location: The Times of India
-- Description: Delhi's election campaign sees a heated poster war between AAP and BJP, with accusations flying over the renovation costs of residences. Ajit Pawar reverts to his assertive style post-election results. Delhi Police busts a mobile theft racket involving minors…
+### OTHER on 2025-01-09 00:36
+- Location: MSNBC
+- Description: Jerry Springer achieved fame in the 1990s by presiding over a daytime TV show so popular it eventually surpassed Oprah Winfrey in some ratings. Trump took note.
 
 
-### OTHER on 2025-01-08 18:00
-- Location: Reactormag.com
-- Description: The follow-up to 2019's Joker is a disappointing slog that fails on multiple levels.
-The post “You have a joke for us today?” — Joker: Folie à Deux appeared first on Reactor.
+### OTHER on 2025-01-09 00:33
+- Location: [Removed]
+- Description: [Removed]
 
-Analysis generated at: Thu Jan  9 18:17:25 UTC 2025
+Analysis generated at: Fri Jan 10 01:00:43 UTC 2025
