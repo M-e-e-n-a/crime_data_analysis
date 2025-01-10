@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Jan 10 01:40:25 UTC 2025
+Last updated: Fri Jan 10 06:17:58 UTC 2025
 
 ## Latest Analysis
 
-Loaded 7732 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-09 01:32:30
+Loaded 7766 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-09 06:15:25
 
 Incidents by source:
 source
-newsapi           7631
+newsapi           7665
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ tribution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2025-01-09 01:32
-- Location: CNN
-- Description: Israel’s military has announced new media engagement rules for its members after a Brazilian court ordered an investigation into war crime allegations against a soldier visiting the country.
+### HOMICIDE on 2025-01-09 06:15
+- Location: ABC News (AU)
+- Description: A man arrested in relation to the alleged cold case murder of a woman on the Sunshine Coast in 1997 has been extradited back to Queensland.
 
 
-### ROBBERY/THEFT on 2025-01-09 01:29
-- Location: Gothamist
-- Description: Police say an unidentified individual stole $300 in cash from a church on the St. John’s University campus. [ more › ]
+### OTHER on 2025-01-09 06:13
+- Location: BBC News
+- Description: A watchdog says lessons must be learned after a council employee's fraud went undetected for 17 years.
 
 
-### OTHER on 2025-01-09 01:23
-- Location: [Removed]
-- Description: [Removed]
+### OTHER on 2025-01-09 06:00
+- Location: Smallwarsjournal.com
+- Description: In July 2024, three Palestinians and a Turk, all with possible connections to terrorist organizations, were detained by U.S. Customs and Border Protection (CBP) agents while attempting to illegally cross the Southwest border from Mexico into the San Diego are…
 
 
-### HOMICIDE on 2025-01-09 01:16
-- Location: Japan Today
-- Description: A 14-year-old student has been arrested after bringing a gun on Wednesday to Apalachee High School, the same Georgia high school where a shooting in September killed two teachers and two students and wounded others. The Barrow County Sheriff's Office said sch…
+### OTHER on 2025-01-09 06:00
+- Location: The Irish Times
+- Description: One of the first tasks of the new government will be how to persuade the incoming Trump administration that Ireland is not a soft touch
 
 
-### SHOOTING on 2025-01-09 01:06
-- Location: The Punch
-- Description: A plastic collector identified as Yusuf Abubakar has reportedly lost his left wrist after he and his colleagues were allegedly attacked by suspected hoodlums in Isara Remo, Ogun State. PUNCH Metro gathered from a source in the state police command on Wednesda…
+### OTHER on 2025-01-09 06:00
+- Location: Naturalnews.com
+- Description: After nearly a decade in office, after attempts at photogenic diplomacy and tearful apologies, Justin Trudeau is stepping down as Canada’s Prime Minister, leaving behind a legacy as divisive as it is dramatic. To some, he was the poster child for progressive …
 
-Analysis generated at: Fri Jan 10 01:40:25 UTC 2025
+Analysis generated at: Fri Jan 10 06:17:58 UTC 2025
