@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Jan 11 06:16:07 UTC 2025
+Last updated: Sat Jan 11 12:21:50 UTC 2025
 
 ## Latest Analysis
 
-Loaded 8003 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-10 06:05:48
+Loaded 8089 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-10 12:19:23
 
 Incidents by source:
 source
-newsapi           7902
+newsapi           7988
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ tribution.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2025-01-10 06:05
-- Location: CounterPunch
-- Description: I have been writing this annual post celebrating a handful of people who have achieved the impossible and miraculously failed to suck over the last twelve months for almost a decade now and I have little intention of ending this New Year’s ritual any time soo…
+### OTHER on 2025-01-10 12:19
+- Location: The Federalist
+- Description: The year 2025 doesn’t appear to favor Western leftist leaders, but it offers significant hope for a revitalization of Western civilization.
 
 
-### OTHER on 2025-01-10 05:33
-- Location: Japan Today
-- Description: South Korean police questioned the chief of the presidential security service on Friday as the two agencies clashed over attempts to detain impeached President Yoon Suk Yeol. The Corruption Investigation Office for High-Ranking Officials and police are planni…
+### OTHER on 2025-01-10 12:00
+- Location: Business Insider
+- Description: Heather Morgan is releasing new music as her alter ego Razzlekhan, before starting an 18 month prison sentence for her role in the Bitfinex hack
 
 
-### OTHER on 2025-01-10 05:22
-- Location: ABC News
-- Description: President Nicolás Maduro is about to extend his increasingly repressive rule over Venezuela until 2031
+### HOMICIDE on 2025-01-10 12:00
+- Location: Time
+- Description: Here's what to know about the immigration bill that may soon pass Congress and is named after murder victim Laken Riley.
 
 
-### OTHER on 2025-01-10 05:21
-- Location: MediaNama.com
-- Description: From IP addresses to 'netflow' data, how much data do telecom companies collect about users and what can the Indian govt do with it?
-The post Telecom Rules and Metadata: How much data do telecom companies collect about users based on internet activity? appear…
+### OTHER on 2025-01-10 12:00
+- Location: CBC News
+- Description: Amid a charged political debate around immigration in both Canada and the United States, one Calgary organization supporting newcomers is seeing a rise in anti-immigrant hate — both online and in person.
 
 
-### ASSAULT on 2025-01-10 05:20
-- Location: The Jerusalem Post
-- Description: The Islamic State took credit for the terror attack that occurred in New Orleans on New Year's Day, Israel's p
+### HOMICIDE on 2025-01-10 11:55
+- Location: International Business Times
+- Description: A man notorious for shooting up a pizzeria in the US capital where he wrongly believed Hillary Clinton and other Democrats were running a child sex ring has been killed in a traffic stop police shooting, local media reported Thursday.
 
-Analysis generated at: Sat Jan 11 06:16:07 UTC 2025
+Analysis generated at: Sat Jan 11 12:21:50 UTC 2025
