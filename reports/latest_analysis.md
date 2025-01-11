@@ -1,10 +1,10 @@
 
-Loaded 8089 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-10 12:19:23
+Loaded 8094 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-10 12:36:57
 
 Incidents by source:
 source
-newsapi           7988
+newsapi           7993
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ tribution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-01-10 12:19
-- Location: The Federalist
-- Description: The year 2025 doesn’t appear to favor Western leftist leaders, but it offers significant hope for a revitalization of Western civilization.
+### SHOOTING on 2025-01-10 12:36
+- Location: RT
+- Description: In India’s poorest region, gangs are kidnapping boys with jobs and forcing them to marry, as a good groom is hard to find Read Full Article at RT.com
 
 
-### OTHER on 2025-01-10 12:00
-- Location: Business Insider
-- Description: Heather Morgan is releasing new music as her alter ego Razzlekhan, before starting an 18 month prison sentence for her role in the Bitfinex hack
+### OTHER on 2025-01-10 12:36
+- Location: Theregister.com
+- Description: New year, new PC Episode 1  The Boss wants someone to explain the fairly simple Company purchasing policy to him.…
 
 
-### HOMICIDE on 2025-01-10 12:00
-- Location: Time
-- Description: Here's what to know about the immigration bill that may soon pass Congress and is named after murder victim Laken Riley.
+### HOMICIDE on 2025-01-10 12:30
+- Location: Roanoke Times
+- Description: Major fires across Los Angeles this week have killed at least 10 people and destroyed thousands of structures. Here are some of the organizations accepting support for those impacted.
 
 
-### OTHER on 2025-01-10 12:00
-- Location: CBC News
-- Description: Amid a charged political debate around immigration in both Canada and the United States, one Calgary organization supporting newcomers is seeing a rise in anti-immigrant hate — both online and in person.
+### HOMICIDE on 2025-01-10 12:30
+- Location: CBS News
+- Description: Renard Spivey was found not guilty of his wife's murder, but he says he still can't sleep at night.
 
 
-### HOMICIDE on 2025-01-10 11:55
-- Location: International Business Times
-- Description: A man notorious for shooting up a pizzeria in the US capital where he wrongly believed Hillary Clinton and other Democrats were running a child sex ring has been killed in a traffic stop police shooting, local media reported Thursday.
+### OTHER on 2025-01-10 12:28
+- Location: MediaNama.com
+- Description: This development is especially significant at a time when tech giants like Meta and platforms like X seem to be weakening their content moderation policies.
+The post Delhi Police Can Now Order Social Media Platforms to Remove ‘Illegal’ Content: Could This Red…
 
-Analysis generated at: Sat Jan 11 12:21:50 UTC 2025
+Analysis generated at: Sat Jan 11 12:37:06 UTC 2025
