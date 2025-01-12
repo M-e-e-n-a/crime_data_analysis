@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Jan 12 12:36:46 UTC 2025
+Last updated: Sun Jan 12 18:15:29 UTC 2025
 
 ## Latest Analysis
 
-Loaded 8281 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-11 12:16:19
+Loaded 8341 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-11 18:06:08
 
 Incidents by source:
 source
-newsapi           8180
+newsapi           8240
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -24,28 +24,31 @@ tribution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-01-11 12:16
-- Location: Al Jazeera English
-- Description: And Brazil’s Lula can lead the way.
+### OTHER on 2025-01-11 18:06
+- Location: The Sydney Morning Herald
+- Description: How can a multibillionaire be an “everyman”? Elon Musk can – but he should appreciate that this is his strength.
 
 
-### OTHER on 2025-01-11 12:15
-- Location: Sky.com
-- Description: One of the lynx released illegally in the Scottish Highlands has died after being captured, those caring for the animals have said.
+### OTHER on 2025-01-11 18:04
+- Location: PBS
+- Description: A group of Uyghur men who were detained in Thailand over a decade ago say that the Thai government is preparing to deport them to China, alarming activists and family members who say the men are at risk of abuse and torture if they are sent back.
 
 
-### HOMICIDE on 2025-01-11 12:11
-- Location: Fox News
-- Description: For five consecutive days, wildfires fanned by strong winds have ravaged neighborhoods in Los Angeles, destroying more than 12,300 homes and buildings and leaving at least 11 dead. Fresh evacuations were ordered from Mandeville Canyon to the Interstate 405 fr…
+### OTHER on 2025-01-11 18:00
+- Location: VOA News
+- Description: BANGKOK — A group of Uyghur men who were detained in Thailand over a decade ago say that the Thai government is preparing to deport them to China, alarming activists and family members who say the men are at risk of abuse and torture if they are sent back.
 
 
-### OTHER on 2025-01-11 12:03
-- Location: Freerepublic.com
-- Description: As wildfires rage across Los Angeles, which some say is the worst they’ve seen, looters have been emboldened, taking full advantage of the out-of-control region to plunder homes and businesses that have burned down. With LA police officers and private securit…
+…
 
 
-### OTHER on 2025-01-11 11:39
-- Location: Securityaffairs.com
-- Description: US marijuana dispensary STIIIZY warns customers of leaked IDs and passports following a November data breach. US marijuana dispensary STIIIZY disclosed a data breach after a vendor’s point-of-sale system was compromised by cybercriminals. The security breach …
+### OTHER on 2025-01-11 18:00
+- Location: TVLine
+- Description: Lori Loughlin, best known to TV audiences for family friendly fare like ABC’s Full House and Hallmark Channel’s When Calls the Heart, is not who you would expect to see preside over a squad room on a Dick Wolf procedural. But after some time away from the lim…
 
-Analysis generated at: Sun Jan 12 12:36:46 UTC 2025
+
+### OTHER on 2025-01-11 17:54
+- Location: Lawyersgunsmoneyblog.com
+- Description: The Mississippi Free Press notes that there is nothing new under the sun about Donald Trump evading accountability for his crimes. In fact, it’s completely normal in this country, from the president on down. Though nothing in the U.S. Constitution suggests th…
+
+Analysis generated at: Sun Jan 12 18:15:29 UTC 2025
