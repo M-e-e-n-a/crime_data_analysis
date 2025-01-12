@@ -1,10 +1,10 @@
 
-Loaded 8210 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-11 01:43:31
+Loaded 8247 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-11 06:11:08
 
 Incidents by source:
 source
-newsapi           8109
+newsapi           8146
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ tribution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-01-11 01:43
-- Location: fox6now.com
-- Description: Milwaukee police are investigating separate shootings that happened on Friday, Jan. 10.
+### HOMICIDE on 2025-01-11 06:11
+- Location: NDTV News
+- Description: Delhi recorded a slight decline in crimes including murder, robbery, rape, and molestation, last year as compared to 2023, data shared by the Delhi Police said.
 
 
-### HOMICIDE on 2025-01-11 01:41
-- Location: The Denver Post
-- Description: A man was fatally shot after walking outside his home in northwest Aurora on Thursday night, police officials said.
+### OTHER on 2025-01-11 06:08
+- Location: ABC News
+- Description: A group of Uyghurs who were detained in Thailand over a decade ago say that the Thai government is preparing to deport them to China, alarming activists who say the men are at risk of abuse and torture if they are sent back
 
 
-### SHOOTING on 2025-01-11 01:37
-- Location: Newsbreak.com
-- Description: NEW YORK (AP) — President-elect Donald Trump doesn’t have to go to jail, pay a fine or perform community service as a result of his New York hush money con
+### OTHER on 2025-01-11 06:01
+- Location: The Irish Times
+- Description: Whether a powerful meditation or a gripping detective story, a classic doesn’t have to be 500 pages long
 
 
-### OTHER on 2025-01-11 01:35
-- Location: Thehillstimes.in
-- Description: Mumbai, Jan 10: It will soon be a year since Hina Khan revealed her stage three breast cancer diagnosis, and the TV star says that the difference between 2024 and 2025 is that she has only grown stronger. The 37-year-old actor, best known for shows such as “Y…
+### OTHER on 2025-01-11 06:00
+- Location: The Irish Times
+- Description: Jon Hill reveals investigators were contacted by people affected by Say Nothing, the Disney+ series that includes scenes portraying final hours of Jean McConville and Joe Lynskey
 
 
-### OTHER on 2025-01-11 01:22
-- Location: BBC News
-- Description: The companies are among the latest major corporations to alter their diversity programmes since Trump's re-election.
+### OTHER on 2025-01-11 06:00
+- Location: [Removed]
+- Description: [Removed]
 
-Analysis generated at: Sun Jan 12 01:45:59 UTC 2025
+Analysis generated at: Sun Jan 12 06:16:22 UTC 2025
