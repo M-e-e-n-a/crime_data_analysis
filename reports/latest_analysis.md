@@ -1,10 +1,10 @@
 
-Loaded 8247 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-11 06:11:08
+Loaded 8281 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-11 12:16:19
 
 Incidents by source:
 source
-newsapi           8146
+newsapi           8180
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ tribution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-01-11 06:11
-- Location: NDTV News
-- Description: Delhi recorded a slight decline in crimes including murder, robbery, rape, and molestation, last year as compared to 2023, data shared by the Delhi Police said.
+### OTHER on 2025-01-11 12:16
+- Location: Al Jazeera English
+- Description: And Brazil’s Lula can lead the way.
 
 
-### OTHER on 2025-01-11 06:08
-- Location: ABC News
-- Description: A group of Uyghurs who were detained in Thailand over a decade ago say that the Thai government is preparing to deport them to China, alarming activists who say the men are at risk of abuse and torture if they are sent back
+### OTHER on 2025-01-11 12:15
+- Location: Sky.com
+- Description: One of the lynx released illegally in the Scottish Highlands has died after being captured, those caring for the animals have said.
 
 
-### OTHER on 2025-01-11 06:01
-- Location: The Irish Times
-- Description: Whether a powerful meditation or a gripping detective story, a classic doesn’t have to be 500 pages long
+### HOMICIDE on 2025-01-11 12:11
+- Location: Fox News
+- Description: For five consecutive days, wildfires fanned by strong winds have ravaged neighborhoods in Los Angeles, destroying more than 12,300 homes and buildings and leaving at least 11 dead. Fresh evacuations were ordered from Mandeville Canyon to the Interstate 405 fr…
 
 
-### OTHER on 2025-01-11 06:00
-- Location: The Irish Times
-- Description: Jon Hill reveals investigators were contacted by people affected by Say Nothing, the Disney+ series that includes scenes portraying final hours of Jean McConville and Joe Lynskey
+### OTHER on 2025-01-11 12:03
+- Location: Freerepublic.com
+- Description: As wildfires rage across Los Angeles, which some say is the worst they’ve seen, looters have been emboldened, taking full advantage of the out-of-control region to plunder homes and businesses that have burned down. With LA police officers and private securit…
 
 
-### OTHER on 2025-01-11 06:00
-- Location: [Removed]
-- Description: [Removed]
+### OTHER on 2025-01-11 11:39
+- Location: Securityaffairs.com
+- Description: US marijuana dispensary STIIIZY warns customers of leaked IDs and passports following a November data breach. US marijuana dispensary STIIIZY disclosed a data breach after a vendor’s point-of-sale system was compromised by cybercriminals. The security breach …
 
-Analysis generated at: Sun Jan 12 06:16:22 UTC 2025
+Analysis generated at: Sun Jan 12 12:21:48 UTC 2025
