@@ -44,4 +44,4 @@ tribution.svg)
 - Location: Securityaffairs.com
 - Description: US marijuana dispensary STIIIZY warns customers of leaked IDs and passports following a November data breach. US marijuana dispensary STIIIZY disclosed a data breach after a vendor’s point-of-sale system was compromised by cybercriminals. The security breach …
 
-Analysis generated at: Sun Jan 12 12:21:48 UTC 2025
+Analysis generated at: Sun Jan 12 12:36:46 UTC 2025
