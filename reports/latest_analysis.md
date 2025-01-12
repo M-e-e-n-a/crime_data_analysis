@@ -1,10 +1,10 @@
 
-Loaded 8194 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-10 18:15:26
+Loaded 8203 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-11 01:01:30
 
 Incidents by source:
 source
-newsapi           8093
+newsapi           8102
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ tribution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-01-10 18:15
-- Location: FOX 2 Detroit
-- Description: Sada Baby was arrested in Sterling Heights after police discovered that the Detroit rapper had a warrant.
+### SHOOTING on 2025-01-11 01:01
+- Location: fox6now.com
+- Description: A wanted Milwaukee man wounded in a police shooting on Monday is now accused of child sexual assault, among other crimes.
 
 
-### OTHER on 2025-01-10 18:15
-- Location: The Atlantic
-- Description: Every January 1 in the Books department, we like to make an extra toast for a concurrent holiday: Public Domain Day.
+### HOMICIDE on 2025-01-11 00:59
+- Location: WSB Atlanta
+- Description: Police said the victim appeared to be in her 20s and was killed by someone who lives or used to live with her.
 
 
-### HOMICIDE on 2025-01-10 18:14
-- Location: CBS News
-- Description: Aurora police have arrested three suspects in the deadly shooting of a 16-year-old teenage girl.
+### OTHER on 2025-01-11 00:45
+- Location: ARLnow
+- Description: A substitute teacher has been charged with taking indecent liberties with a high school student. Timothy McGhee, a 47-year-old Alexandria resident, had been working as a substitute at Washington-Liberty High School. He also previously worked at some local chu…
 
 
-### HOMICIDE on 2025-01-10 18:12
-- Location: Mother Jones
-- Description: January 10, 2025, marks the second anniversary of the death of Tyre Nichols, a 29-year-old Black man who was restrained and fatally beaten by five now-former Memphis police officers during a traffic stop. After countless marches, talks with politicians, and p…
+### ASSAULT on 2025-01-11 00:21
+- Location: Tacoma News Tribune
+- Description: Steven Bird died after a driver’s punch sent him to the pavement. A suspect was arrested Thursday.
 
 
-### OTHER on 2025-01-10 18:10
-- Location: CBS News
-- Description: If you're being sued over delinquent credit card debt, there are a few ways you could get the lawsuit dismissed.
+### OTHER on 2025-01-11 00:18
+- Location: Freerepublic.com
+- Description: At least one of the wildfires currently consuming everything in its path in L.A. County was set by an arsonist, and don't be surprised to find out that arson and/or electrical wires are responsible for all the fires that are out of control. Politicians are po…
 
-Analysis generated at: Sat Jan 11 18:15:29 UTC 2025
+Analysis generated at: Sun Jan 12 01:04:46 UTC 2025
