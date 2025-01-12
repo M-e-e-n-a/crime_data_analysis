@@ -1,10 +1,10 @@
 
-Loaded 8203 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-11 01:01:30
+Loaded 8210 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-11 01:43:31
 
 Incidents by source:
 source
-newsapi           8102
+newsapi           8109
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ tribution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-01-11 01:01
+### SHOOTING on 2025-01-11 01:43
 - Location: fox6now.com
-- Description: A wanted Milwaukee man wounded in a police shooting on Monday is now accused of child sexual assault, among other crimes.
+- Description: Milwaukee police are investigating separate shootings that happened on Friday, Jan. 10.
 
 
-### HOMICIDE on 2025-01-11 00:59
-- Location: WSB Atlanta
-- Description: Police said the victim appeared to be in her 20s and was killed by someone who lives or used to live with her.
+### HOMICIDE on 2025-01-11 01:41
+- Location: The Denver Post
+- Description: A man was fatally shot after walking outside his home in northwest Aurora on Thursday night, police officials said.
 
 
-### OTHER on 2025-01-11 00:45
-- Location: ARLnow
-- Description: A substitute teacher has been charged with taking indecent liberties with a high school student. Timothy McGhee, a 47-year-old Alexandria resident, had been working as a substitute at Washington-Liberty High School. He also previously worked at some local chu…
+### SHOOTING on 2025-01-11 01:37
+- Location: Newsbreak.com
+- Description: NEW YORK (AP) — President-elect Donald Trump doesn’t have to go to jail, pay a fine or perform community service as a result of his New York hush money con
 
 
-### ASSAULT on 2025-01-11 00:21
-- Location: Tacoma News Tribune
-- Description: Steven Bird died after a driver’s punch sent him to the pavement. A suspect was arrested Thursday.
+### OTHER on 2025-01-11 01:35
+- Location: Thehillstimes.in
+- Description: Mumbai, Jan 10: It will soon be a year since Hina Khan revealed her stage three breast cancer diagnosis, and the TV star says that the difference between 2024 and 2025 is that she has only grown stronger. The 37-year-old actor, best known for shows such as “Y…
 
 
-### OTHER on 2025-01-11 00:18
-- Location: Freerepublic.com
-- Description: At least one of the wildfires currently consuming everything in its path in L.A. County was set by an arsonist, and don't be surprised to find out that arson and/or electrical wires are responsible for all the fires that are out of control. Politicians are po…
+### OTHER on 2025-01-11 01:22
+- Location: BBC News
+- Description: The companies are among the latest major corporations to alter their diversity programmes since Trump's re-election.
 
-Analysis generated at: Sun Jan 12 01:04:46 UTC 2025
+Analysis generated at: Sun Jan 12 01:45:59 UTC 2025
