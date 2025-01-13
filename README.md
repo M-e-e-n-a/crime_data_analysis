@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Jan 13 06:18:48 UTC 2025
+Last updated: Mon Jan 13 12:25:19 UTC 2025
 
 ## Latest Analysis
 
-Loaded 8388 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-12 06:16:01
+Loaded 8424 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-12 12:19:06
 
 Incidents by source:
 source
-newsapi           8287
+newsapi           8323
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ tribution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-01-12 06:16
-- Location: New Zealand Herald
-- Description: The funeral was set to take place on Thursday.
+### ASSAULT on 2025-01-12 12:19
+- Location: BBC News
+- Description: A female staff member suffered life-changing injuries in the attack at Royal Oldham Hospital.
 
 
-### HOMICIDE on 2025-01-12 05:43
-- Location: Blogspot.com
-- Description: From the Daily Guardian (Jan 9, 2025): Farmer Killed by NPA in San Carlos (By Glazyl M. Jopson)Police secure the crime scene in Barangay Bagonbon, San Carlos City, Negros Occidental, where a farmer was shot dead by rebels Tuesday. (Photo courtesy of San Carlo…
+### HOMICIDE on 2025-01-12 12:19
+- Location: BBC News
+- Description: A 37-year-old man is in police custody after being arrested on suspicion of attempted murder.
 
 
-### HOMICIDE on 2025-01-12 05:34
-- Location: Blogspot.com
-- Description: From Digicast Negros (Jan 9, 2025): NPA claims killing of San Carlos tanod (By Mark L. Garcia)The New People’s Army (NPA) claimed the killing of a chief tanod in a shooting incident in Brgy. Bagonbon, San Carlos City, Negros Occidental, on Tuesday, Jan. 7.The…
+### HOMICIDE on 2025-01-12 12:05
+- Location: NDTV News
+- Description: Two sisters in their early 20s died after falling from the fourth floor of a local businessman&#039;s house at Sector 40 in Gurugram, police said on Sunday.
 
 
-### HOMICIDE on 2025-01-12 05:30
-- Location: WFTV Orlando
-- Description: 22-year-old James Nelson, the third and final suspect in the Sanford homicide on Jan. 9, was arrested Saturday, according to Sanford Police.
+### ROBBERY/THEFT on 2025-01-12 12:01
+- Location: Screen Rant
+- Description: While Robert Knox isn't a household name, the young actor did appear in a Harry Potter movie. However, there's a tragic reason why he didn't return.
 
 
-### OTHER on 2025-01-12 05:26
-- Location: Boston Herald
-- Description: On Wednesday, American fans will be forced to say farewell to Vera Stanhope, Detective Chief Inspector of the Northumberland Police Department.
+### HOMICIDE on 2025-01-12 12:00
+- Location: STLtoday.com
+- Description: Josh Kezer spent 16 years in prison for the murder of Angela Mischelle Lawless in 1992. Now, he says authorities are again pursuing an innocent man.
 
-Analysis generated at: Mon Jan 13 06:18:48 UTC 2025
+Analysis generated at: Mon Jan 13 12:25:19 UTC 2025
