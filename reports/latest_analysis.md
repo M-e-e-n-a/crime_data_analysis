@@ -1,10 +1,10 @@
 
-Loaded 8424 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-12 12:19:06
+Loaded 8425 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-12 12:25:26
 
 Incidents by source:
 source
-newsapi           8323
+newsapi           8324
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -19,6 +19,11 @@ tribution.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### OTHER on 2025-01-12 12:25
+- Location: [Removed]
+- Description: [Removed]
+
 
 ### ASSAULT on 2025-01-12 12:19
 - Location: BBC News
@@ -39,9 +44,4 @@ tribution.svg)
 - Location: Screen Rant
 - Description: While Robert Knox isn't a household name, the young actor did appear in a Harry Potter movie. However, there's a tragic reason why he didn't return.
 
-
-### HOMICIDE on 2025-01-12 12:00
-- Location: STLtoday.com
-- Description: Josh Kezer spent 16 years in prison for the murder of Angela Mischelle Lawless in 1992. Now, he says authorities are again pursuing an innocent man.
-
-Analysis generated at: Mon Jan 13 12:25:19 UTC 2025
+Analysis generated at: Mon Jan 13 12:42:03 UTC 2025
