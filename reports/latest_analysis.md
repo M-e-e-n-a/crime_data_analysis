@@ -1,10 +1,10 @@
 
-Loaded 8353 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-12 01:00:14
+Loaded 8358 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-12 01:31:14
 
 Incidents by source:
 source
-newsapi           8252
+newsapi           8257
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -20,29 +20,29 @@ tribution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-01-12 01:00
-- Location: Legalinsurrection.com
-- Description: "There were like 100 people who came up on scooters and were trying to get into any and all houses on this street."
-The post Newsom Cracks Down as Looters Exploit LA Evacuations, ‘It has turned into the wild wild west here’ first appeared on Le·gal In·sur·rec…
+### HOMICIDE on 2025-01-12 01:31
+- Location: The Punch
+- Description: The Lagos State Police Command has arrested a 21-year-old US returnee, David Segun, and two others for allegedly killing an Uber driver in the Obalende area of Lagos State. The Commissioner of Police, Ishola Olanrewaju, disclosed this while parading the suspe…
 
 
-### OTHER on 2025-01-12 00:38
-- Location: Economictimes.com
-- Description: India Live News Updates: The two satellites launched by ISRO to perform space docking experiment were 15 metres apart and closing in for an 'exciting handshake', the space agency said on Sunday. The two satellites, SDX01 (Chaser) and SDX02 (Target), are in go…
+### SHOOTING on 2025-01-12 01:17
+- Location: New York Post
+- Description: A man was fatally shot in a Carroll Gardens park Saturday morning, police said.
 
 
-### HOMICIDE on 2025-01-12 00:23
-- Location: BBC News
-- Description: A businessman was shot dead in India 100 years ago. Then, a sensational tale unfolded.
+### HOMICIDE on 2025-01-12 01:15
+- Location: The Japan Times
+- Description: A Thai man suspected of killing a former Cambodian opposition lawmaker in Bangkok confessed to the crime in a livestream video.
 
 
-### HOMICIDE on 2025-01-12 00:23
-- Location: BBC News
-- Description: A businessman was shot dead in India 100 years ago. Then, a sensational tale unfolded.
+### OTHER on 2025-01-12 01:09
+- Location: Lifesciencesworld.com
+- Description: Why is Hitman 2024 Rated R? Understanding the Rating System The Entertainment Software Rating Board (ESRB) is a non-profit organization […]
+The post Why is hitman 2024 rated r? appeared first on Life Sciences World.
 
 
-### SHOOTING on 2025-01-12 00:13
+### OTHER on 2025-01-12 01:06
 - Location: ABC News (AU)
-- Description: Police say no one was injured when a 20-year-old man allegedly shot at four men known to him.
+- Description: Counter terrorism police have taken over the investigation into anti-Semitic graffiti on a synagogue in Sydney's inner west.
 
-Analysis generated at: Mon Jan 13 01:02:24 UTC 2025
+Analysis generated at: Mon Jan 13 01:42:48 UTC 2025
