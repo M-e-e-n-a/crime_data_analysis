@@ -1,10 +1,10 @@
 
-Loaded 8425 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-12 12:25:26
+Loaded 8490 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-12 18:15:40
 
 Incidents by source:
 source
-newsapi           8324
+newsapi           8389
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ tribution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-01-12 12:25
-- Location: [Removed]
-- Description: [Removed]
+### OTHER on 2025-01-12 18:15
+- Location: fox6now.com
+- Description: There was a significant police presence near the intersection of Geneva Street and Hagerer Street in Racine on Sunday, Jan. 12.
 
 
-### ASSAULT on 2025-01-12 12:19
+### ROBBERY/THEFT on 2025-01-12 18:15
+- Location: Newsweek
+- Description: Two people were arrested after police were called regarding a suspected burglary.
+
+
+### SHOOTING on 2025-01-12 18:07
+- Location: Independent.ie
+- Description: A 53-year-old Irishman has been critically injured in France after he was shot four times by masked attackers during a shopping trip, according to local reports.
+
+
+### SHOOTING on 2025-01-12 18:07
+- Location: Independent.ie
+- Description: A 53-year-old Irishman has been critically injured in France after he was shot four times by masked shooters, during a shopping trip, according to local reports.
+
+
+### OTHER on 2025-01-12 18:04
 - Location: BBC News
-- Description: A female staff member suffered life-changing injuries in the attack at Royal Oldham Hospital.
+- Description: Real estate mogul Jason Oppenheim says renters are being asked for thousands over previous prices.
 
-
-### HOMICIDE on 2025-01-12 12:19
-- Location: BBC News
-- Description: A 37-year-old man is in police custody after being arrested on suspicion of attempted murder.
-
-
-### HOMICIDE on 2025-01-12 12:05
-- Location: NDTV News
-- Description: Two sisters in their early 20s died after falling from the fourth floor of a local businessman&#039;s house at Sector 40 in Gurugram, police said on Sunday.
-
-
-### ROBBERY/THEFT on 2025-01-12 12:01
-- Location: Screen Rant
-- Description: While Robert Knox isn't a household name, the young actor did appear in a Harry Potter movie. However, there's a tragic reason why he didn't return.
-
-Analysis generated at: Mon Jan 13 12:42:03 UTC 2025
+Analysis generated at: Mon Jan 13 18:18:04 UTC 2025
