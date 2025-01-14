@@ -1,10 +1,10 @@
 
-Loaded 8502 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-13 01:26:27
+Loaded 8532 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-13 06:15:13
 
 Incidents by source:
 source
-newsapi           8401
+newsapi           8431
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ tribution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-01-13 01:26
-- Location: Newsbreak.com
-- Description: California governor Gavin Newsom has accused Elon Musk of “encouraging looting” after the billionaire shared posts on his social media platform X that cla
+### HOMICIDE on 2025-01-13 06:15
+- Location: Breitbart News
+- Description: Louisiana Lt. Gov. Billy Nungesser (R) admitted he has no confidence that New Orleans Mayor LaToya Cantrell can keep the city safe in the aftermath of a terror attack in the city, which led to the deaths of 14 people.
+The post Louisiana Lt. Gov. Nungesser Adm…
 
 
-### HOMICIDE on 2025-01-13 01:17
-- Location: 7NEWS.com.au
-- Description: Woman found dead near Todd River in Alice Springs, NT7news.com.au
+### ASSAULT on 2025-01-13 06:12
+- Location: KTLA Los Angeles
+- Description: Two alleged looters, one of whom was dressed as a firefighter, were arrested by L.A. County Deputy Sheriff’s Sunday on Pacific Coast Highway in Pacific...
 
 
-### HOMICIDE on 2025-01-13 00:36
+### HOMICIDE on 2025-01-13 06:09
 - Location: ABC News (AU)
-- Description: Northern Territory police have arrested a 49-year-old man after a woman was found dead near the Todd River in Alice Springs overnight.
+- Description: Peter Smith intervened in a fight at his unit in 2023 when he was set upon by his drinking buddy and bashed to death, a court has heard. His family say navigating his death has been a "nightmare".
 
 
-### HOMICIDE on 2025-01-13 00:36
-- Location: Paddle Your Own Kanoo
-- Description: American Airlines is mourning the loss of a veteran flight attendant who was tragically killed in a random stabbing attack in downtown Denver on Saturday evening. Celinda Levno had worked for American Airlines for more than three decades and was on a layover …
+### OTHER on 2025-01-13 06:00
+- Location: The Irish Times
+- Description: Efforts by police forces of Western Australia and South Australia to recruit Garda members appear to have yielded very few results in recent years
 
 
-### HOMICIDE on 2025-01-13 00:26
-- Location: The Punch
-- Description: The Oyo State Government has filed eight counts, bordering on murder and manslaughter against the ex-queen of the Ooni of Ife, Naomi Silekunola, the proprietor of an Ibadan-based radio station, Oriyomi Hamzat, and the Principal of Islamic High School, Bashoru…
+### HOMICIDE on 2025-01-13 05:24
+- Location: Bangkok Post
+- Description: <p>Police took Ekkalak Phaenoi, who is accused of assassinating a&nbsp; Cambodian opposition politician in Bangkok, to the Criminal Court on Monday and applied to extend his detention.</p>
 
-Analysis generated at: Tue Jan 14 01:26:52 UTC 2025
+Analysis generated at: Tue Jan 14 06:16:49 UTC 2025
