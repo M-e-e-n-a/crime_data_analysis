@@ -1,10 +1,10 @@
 
-Loaded 8574 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-13 12:17:46
+Loaded 8578 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-13 12:35:29
 
 Incidents by source:
 source
-newsapi           8473
+newsapi           8477
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ tribution.svg)
 
 ## Recent Incidents
 
+### OTHER on 2025-01-13 12:35
+- Location: ABC News
+- Description: The Los Angeles County Sheriff’s Department is warning burglars, looters and scammers that they will be prosecuted if they take advantage of people who have been affected by the wildfires.
+
+
+### OTHER on 2025-01-13 12:31
+- Location: ABC News
+- Description: ABC News’ Ginger Zee has the latest on the extreme wind warnings in Southern California.
+
+
+### OTHER on 2025-01-13 12:30
+- Location: In These Times
+- Description: What the Left learned from a bruising election.
+
+
+### OTHER on 2025-01-13 12:24
+- Location: road.cc
+- Description: Professional teams and cycling fans in Adelaide for WorldTour races urged to be vigilant after group ride injured and bikes "severely damaged" when they hit wire at 35km/h, a second incident causing "extensive damage" to a female rider's bike this morning
+
+
 ### HOMICIDE on 2025-01-13 12:17
 - Location: Latest News in Nigeria & Breaking Naija News 24/7 | LEGIT.NG
 - Description: A gospel singer, Oluwatimileyin Ajayi and ‘Yahoo boy’ (Internet fraudster), has been arrested in Agwan Sarki Orozo, Nasarawa state, for killing his girlfriend.
 
-
-### OTHER on 2025-01-13 12:14
-- Location: The Punch
-- Description: The Acting Controller-General of the Nigerian Correctional Service, Sylvester Nwakuche has pledged to tackle the backlog of awaiting trial cases and improve custodial facility management across the country. This was as he reiterated the importance of maintain…
-
-
-### OTHER on 2025-01-13 12:12
-- Location: [Removed]
-- Description: [Removed]
-
-
-### ROBBERY/THEFT on 2025-01-13 12:08
-- Location: International Business Times
-- Description: A new IRS report highlights ongoing issues, including the agency's "unconscionable" delays in addressing identity theft cases.
-
-
-### HOMICIDE on 2025-01-13 12:04
-- Location: Viewfromthewing.com
-- Description: A 71-year-old American Airlines flight attendant based in Phoenix was murdered this weekend, the result of a string of stabbing attacks in downtown Denver. A suspect was taken into custody for a subsequent Sunday night stabbing. Flight attendants have been re…
-
-Analysis generated at: Tue Jan 14 12:22:52 UTC 2025
+Analysis generated at: Tue Jan 14 12:38:30 UTC 2025
