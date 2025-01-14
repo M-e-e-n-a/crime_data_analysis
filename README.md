@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Jan 13 18:18:04 UTC 2025
+Last updated: Tue Jan 14 00:56:23 UTC 2025
 
 ## Latest Analysis
 
-Loaded 8490 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-12 18:15:40
+Loaded 8500 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-13 00:36:50
 
 Incidents by source:
 source
-newsapi           8389
+newsapi           8399
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -24,28 +24,27 @@ tribution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-01-12 18:15
-- Location: fox6now.com
-- Description: There was a significant police presence near the intersection of Geneva Street and Hagerer Street in Racine on Sunday, Jan. 12.
+### HOMICIDE on 2025-01-13 00:36
+- Location: ABC News (AU)
+- Description: Northern Territory police have arrested a 49-year-old man after a woman was found dead near the Todd River in Alice Springs overnight.
 
 
-### ROBBERY/THEFT on 2025-01-12 18:15
-- Location: Newsweek
-- Description: Two people were arrested after police were called regarding a suspected burglary.
+### HOMICIDE on 2025-01-13 00:36
+- Location: Paddle Your Own Kanoo
+- Description: American Airlines is mourning the loss of a veteran flight attendant who was tragically killed in a random stabbing attack in downtown Denver on Saturday evening. Celinda Levno had worked for American Airlines for more than three decades and was on a layover …
 
 
-### SHOOTING on 2025-01-12 18:07
-- Location: Independent.ie
-- Description: A 53-year-old Irishman has been critically injured in France after he was shot four times by masked attackers during a shopping trip, according to local reports.
+### HOMICIDE on 2025-01-13 00:26
+- Location: The Punch
+- Description: The Oyo State Government has filed eight counts, bordering on murder and manslaughter against the ex-queen of the Ooni of Ife, Naomi Silekunola, the proprietor of an Ibadan-based radio station, Oriyomi Hamzat, and the Principal of Islamic High School, Bashoru…
 
 
-### SHOOTING on 2025-01-12 18:07
-- Location: Independent.ie
-- Description: A 53-year-old Irishman has been critically injured in France after he was shot four times by masked shooters, during a shopping trip, according to local reports.
+### OTHER on 2025-01-13 00:22
+- Location: The Punch
+- Description: In Gombe State, a network of dedicated civil society organisations is quietly driving change across healthcare, education, and poverty alleviation and though they remain unsung heroes, the NGOs have emerged as essential partners in improving lives and fosteri…
 
 
-### OTHER on 2025-01-12 18:04
-- Location: BBC News
-- Description: Real estate mogul Jason Oppenheim says renters are being asked for thousands over previous prices.
+### OTHER on 2025-01-13 00:10
+- Location: Spoilertv.com
 
-Analysis generated at: Mon Jan 13 18:18:04 UTC 2025
+Analysis generated at: Tue Jan 14 00:56:23 UTC 2025
