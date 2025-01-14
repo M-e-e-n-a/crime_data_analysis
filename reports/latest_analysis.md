@@ -1,10 +1,10 @@
 
-Loaded 8500 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-13 00:36:50
+Loaded 8502 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-13 01:26:27
 
 Incidents by source:
 source
-newsapi           8399
+newsapi           8401
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -20,6 +20,16 @@ tribution.svg)
 
 ## Recent Incidents
 
+### OTHER on 2025-01-13 01:26
+- Location: Newsbreak.com
+- Description: California governor Gavin Newsom has accused Elon Musk of “encouraging looting” after the billionaire shared posts on his social media platform X that cla
+
+
+### HOMICIDE on 2025-01-13 01:17
+- Location: 7NEWS.com.au
+- Description: Woman found dead near Todd River in Alice Springs, NT7news.com.au
+
+
 ### HOMICIDE on 2025-01-13 00:36
 - Location: ABC News (AU)
 - Description: Northern Territory police have arrested a 49-year-old man after a woman was found dead near the Todd River in Alice Springs overnight.
@@ -34,13 +44,4 @@ tribution.svg)
 - Location: The Punch
 - Description: The Oyo State Government has filed eight counts, bordering on murder and manslaughter against the ex-queen of the Ooni of Ife, Naomi Silekunola, the proprietor of an Ibadan-based radio station, Oriyomi Hamzat, and the Principal of Islamic High School, Bashoru…
 
-
-### OTHER on 2025-01-13 00:22
-- Location: The Punch
-- Description: In Gombe State, a network of dedicated civil society organisations is quietly driving change across healthcare, education, and poverty alleviation and though they remain unsung heroes, the NGOs have emerged as essential partners in improving lives and fosteri…
-
-
-### OTHER on 2025-01-13 00:10
-- Location: Spoilertv.com
-
-Analysis generated at: Tue Jan 14 00:56:23 UTC 2025
+Analysis generated at: Tue Jan 14 01:26:52 UTC 2025
