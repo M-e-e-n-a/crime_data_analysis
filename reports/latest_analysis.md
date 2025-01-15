@@ -1,10 +1,10 @@
 
-Loaded 8730 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-14 06:11:48
+Loaded 8789 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-14 12:20:30
 
 Incidents by source:
 source
-newsapi           8629
+newsapi           8688
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -20,28 +20,30 @@ tribution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-01-14 06:11
-- Location: [Removed]
-- Description: [Removed]
+### OTHER on 2025-01-14 12:20
+- Location: Securityaffairs.com
+- Description: Experts warn of a new campaign targeting an alleged zero-day in Fortinet FortiGate firewalls with management interfaces exposed online. Arctic Wolf researchers observed a campaign targeting Fortinet FortiGate firewalls with exposed management interfaces, like…
 
 
-### OTHER on 2025-01-14 06:03
-- Location: The Star Online
-- Description: KLUANG: A 29-year-old wanted man was arrested for trying to jump off a four-storey building at Jalan Dato Haji Hassan, here. Read full story
+### OTHER on 2025-01-14 12:11
+- Location: Lifesciencesworld.com
+- Description: Why is New Jersey So Hated? New Jersey, a state located in the northeastern United States, has been a source […]
+The post Why is new jersey so hated? appeared first on Life Sciences World.
 
 
-### OTHER on 2025-01-14 06:00
-- Location: Naturalnews.com
-- Description: Mike Adams describes California as a failed state plagued by corruption, wildfires, and economic mismanagement, with a $621 billion debt and half-trillion-dollar wildfire liabilities threatening financial collapse. Adams outlines potential futures: slow decli…
+### HOMICIDE on 2025-01-14 12:10
+- Location: NDTV News
+- Description: Less than a fortnight after the killing of Trinamool Congress councillor Dulal Sarkar, fresh violence erupted in West Bengal&#039;s Malda district as another TMC worker was shot dead and two others were critically injured in a gun attack on Tuesday.
 
 
-### SHOOTING on 2025-01-14 06:00
-- Location: Naturalnews.com
-- Description: Three Humvees (one armored, two with cloth doors) and significant military equipment, including binoculars, machine gun mounts, tripods, medical supplies, and bayonets, were stolen from the Tustin Army Reserve Center in Southern California on January 8. No fi…
+### OTHER on 2025-01-14 12:03
+- Location: Breitbart News
+- Description: Two Labour MPs who represent the child rape grooming gang hotspots of Rochdale and Rotherham have come out in favour of a national public inquiry as pressure continues to mount for Prime Minister Sir Kier Starmer.
+The post Rochdale and Rotherham Labour MPs Br…
 
 
-### HOMICIDE on 2025-01-14 05:37
-- Location: Globalsecurity.org
-- Description: Tehran has confirmed that an Iranian national has returned home following his release from Italy, despite a request by Washington for his extradition to the United States for alleged involvement in a deadly drone attack in Jordan.
+### HOMICIDE on 2025-01-14 12:00
+- Location: Independent.ie
+- Description: A PROSECUTION witness who failed to turn up to give evidence at the murder trial of barrister Diarmuid Phelan has appeared in court in custody again after being arrested under warrant.
 
-Analysis generated at: Wed Jan 15 06:17:13 UTC 2025
+Analysis generated at: Wed Jan 15 12:22:58 UTC 2025
