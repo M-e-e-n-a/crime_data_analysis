@@ -1,10 +1,10 @@
 
-Loaded 8678 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-13 18:13:53
+Loaded 8696 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-14 00:55:00
 
 Incidents by source:
 source
-newsapi           8577
+newsapi           8595
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -20,30 +20,28 @@ tribution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-01-13 18:13
-- Location: Adventurouskate.com
-- Description: If you’re going to be in northern Europe in December, you need to be prepared for the darkness. Every day gets darker than the last, and by early December, you’ll find yourself wondering just how bleak it can get. But that’s where the Christmas lights come in…
+### ASSAULT on 2025-01-14 00:55
+- Location: Newser
+- Description: What's lower than looting homes evacuated amid the Los Angeles wildfires? How about looting homes while dressed as a firefighter ? Police say at least one of the dozens of looting suspects arrested over the weekend was in disguise. "We are turning him over to…
 
 
-### OTHER on 2025-01-13 18:09
-- Location: Sky.com
-- Description: The Labour MP for Rotherham has called for a national inquiry into the grooming gangs scandal, adding more pressure on Sir Keir Starmer.
-
-
-### HOMICIDE on 2025-01-13 18:08
-- Location: AL.com
-- Description: Jacqueline Adams, 58, is charged with felony murder and aggravated child abuse in the Aug. 8 death of 13-year-old Ledarius Johnson.
-
-
-### SHOOTING on 2025-01-13 18:02
+### ROBBERY/THEFT on 2025-01-14 00:49
 - Location: The Punch
-- Description: The Ogun State Police Command has arrested a woman, Odeale Fatimah, for allegedly using a blade to inflict deep cuts on her 10-year-old ward in the Obada-Oko area of Ogun State. PUNCH Metro gathered that the suspect allegedly tortured the 10-year-old boy iden…
+- Description: The Akwa Ibom State Police Command has arrested four suspects in connection with the theft of four trucks belonging to the state fire service. The state Commissioner of Police, Baba Muhammed Azare, disclosed this in his maiden briefing held at the command’s h…
 
 
-### OTHER on 2025-01-13 18:02
-- Location: Screenanarchy.com
-- Description: Jonathan Feltre, Jonas Bloquet, and Romain Duris star in Michiel Blanchart's smashing debut, a crime thriller set during a Black Lives Matter protest in Belgium. 
- 
- [Read the whole post on screenanarchy.com...]
+### OTHER on 2025-01-14 00:32
+- Location: Fox News
+- Description: Nine suspected members of the violent Venezuelan prison gang Tren de Aragua accused of an armed home invasion and kidnapping have been formally charged.
 
-Analysis generated at: Tue Jan 14 18:16:15 UTC 2025
+
+### OTHER on 2025-01-14 00:30
+- Location: [Removed]
+- Description: [Removed]
+
+
+### SHOOTING on 2025-01-14 00:26
+- Location: The Jerusalem Post
+- Description: 38-year-old Adnan Qaria faces terrorism charges after attempting to stab an IDF soldier in December. The suspect was subdued after ignoring warning shots.
+
+Analysis generated at: Wed Jan 15 00:57:46 UTC 2025
