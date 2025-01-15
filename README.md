@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Jan 15 01:35:44 UTC 2025
+Last updated: Wed Jan 15 06:17:13 UTC 2025
 
 ## Latest Analysis
 
-Loaded 8698 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-14 01:19:49
+Loaded 8730 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-14 06:11:48
 
 Incidents by source:
 source
-newsapi           8597
+newsapi           8629
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ tribution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-01-14 01:19
-- Location: CBC News
-- Description: The mother of a London teenager missing for five days is asking for the public's help in locating her, expressing concern for the 16-year-old's safety.
+### OTHER on 2025-01-14 06:11
+- Location: [Removed]
+- Description: [Removed]
 
 
-### HOMICIDE on 2025-01-14 01:08
-- Location: ABC News (AU)
-- Description: Jamie John Curtis tortured and raped a Tasmanian woman before murdering her fiance. On Wednesday, he's set to walk from jail for a third time after previously being locked back up for breaching his parole conditions.
+### OTHER on 2025-01-14 06:03
+- Location: The Star Online
+- Description: KLUANG: A 29-year-old wanted man was arrested for trying to jump off a four-storey building at Jalan Dato Haji Hassan, here. Read full story
 
 
-### ASSAULT on 2025-01-14 00:55
-- Location: Newser
-- Description: What's lower than looting homes evacuated amid the Los Angeles wildfires? How about looting homes while dressed as a firefighter ? Police say at least one of the dozens of looting suspects arrested over the weekend was in disguise. "We are turning him over to…
+### OTHER on 2025-01-14 06:00
+- Location: Naturalnews.com
+- Description: Mike Adams describes California as a failed state plagued by corruption, wildfires, and economic mismanagement, with a $621 billion debt and half-trillion-dollar wildfire liabilities threatening financial collapse. Adams outlines potential futures: slow decli…
 
 
-### ROBBERY/THEFT on 2025-01-14 00:49
-- Location: The Punch
-- Description: The Akwa Ibom State Police Command has arrested four suspects in connection with the theft of four trucks belonging to the state fire service. The state Commissioner of Police, Baba Muhammed Azare, disclosed this in his maiden briefing held at the command’s h…
+### SHOOTING on 2025-01-14 06:00
+- Location: Naturalnews.com
+- Description: Three Humvees (one armored, two with cloth doors) and significant military equipment, including binoculars, machine gun mounts, tripods, medical supplies, and bayonets, were stolen from the Tustin Army Reserve Center in Southern California on January 8. No fi…
 
 
-### OTHER on 2025-01-14 00:32
-- Location: Fox News
-- Description: Nine suspected members of the violent Venezuelan prison gang Tren de Aragua accused of an armed home invasion and kidnapping have been formally charged.
+### HOMICIDE on 2025-01-14 05:37
+- Location: Globalsecurity.org
+- Description: Tehran has confirmed that an Iranian national has returned home following his release from Italy, despite a request by Washington for his extradition to the United States for alleged involvement in a deadly drone attack in Jordan.
 
-Analysis generated at: Wed Jan 15 01:35:44 UTC 2025
+Analysis generated at: Wed Jan 15 06:17:13 UTC 2025
