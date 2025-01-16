@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Jan 16 12:38:33 UTC 2025
+Last updated: Thu Jan 16 18:16:13 UTC 2025
 
 ## Latest Analysis
 
-Loaded 9024 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-15 12:33:04
+Loaded 9101 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-15 18:15:27
 
 Incidents by source:
 source
-newsapi           8923
+newsapi           9000
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ tribution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-01-15 12:33
-- Location: Business Insider
-- Description: Marius Gustavson performed castrations at apartments and hotel rooms in London, which he streamed on a pay-per-view site.
+### HOMICIDE on 2025-01-15 18:15
+- Location: WSB Atlanta
+- Description: A Decatur man has learned his fate after he was convicted of shooting and killing a woman who rented a home from his father.
 
 
-### OTHER on 2025-01-15 12:30
+### HOMICIDE on 2025-01-15 18:15
+- Location: Deadline
+- Description: UPDATED, 10:15 AM: One of the men convicted of lesser charges in the 2024 killing of General Hospital actor Johnny Wactor were sentenced today in Los Angeles. Frank Olano, 22, was given five years and eight months in state prison for being an accessory after …
+
+
+### OTHER on 2025-01-15 18:13
+- Location: Fark.com
+- Description: Crime at the lowest rate in years? Then of course more police are needed
+
+
+### OTHER on 2025-01-15 18:11
 - Location: BBC News
-- Description: Around 500 cannabis plants were discovered at the flat in Ochiltree Gardens by police on Monday.
+- Description: At least 78 bodies and more than 200 survivors have been pulled out of a mine since Monday.
 
 
-### OTHER on 2025-01-15 12:30
-- Location: The Atlantic
-- Description: The Canadian leader made performative progressivism his brand—and ended up looking like a hypocrite.
+### ROBBERY/THEFT on 2025-01-15 17:51
+- Location: BBC News
+- Description: A parliamentary researcher reported her drink had been tampered with at 6.30pm on Tuesday 7 January.
 
-
-### OTHER on 2025-01-15 12:30
-- Location: Albany Democrat Herald
-- Description: Faced with a homeless services system largely built for men, women experiencing domestic abuse may find themselves choosing between violence and the street.
-
-
-### OTHER on 2025-01-15 12:29
-- Location: The Federalist
-- Description: Los Angeles County DA Nathan Hochman is setting the right tone, but he's dealing with so much damage left by leftist Gascón .
-
-Analysis generated at: Thu Jan 16 12:38:33 UTC 2025
+Analysis generated at: Thu Jan 16 18:16:13 UTC 2025
