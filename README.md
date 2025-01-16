@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Jan 15 18:16:24 UTC 2025
+Last updated: Thu Jan 16 00:57:07 UTC 2025
 
 ## Latest Analysis
 
-Loaded 8892 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-14 18:15:56
+Loaded 8904 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-15 00:47:30
 
 Incidents by source:
 source
-newsapi           8791
+newsapi           8803
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -24,32 +24,28 @@ tribution.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2025-01-14 18:15
-- Location: RT
-- Description: The US tech guru’s attack on Keir Starmer was politically motivated – but that doesn’t mean it’s not substantiated or revelatory Read Full Article at RT.com
+### OTHER on 2025-01-15 00:47
+- Location: The Punch
+- Description: The Federal Capital Territory on Tuesday designated 17 areas in the nation’s capital as criminal black spots. The areas are Apo-Dutse Panteka; Diplomatic Zone; New PDP Secretariat; Kabusa Panteka; Ajakaita (Tungan-Maje); Abuja-Kaduna Road; Jabi Panteka; Apo-W…
 
 
-### OTHER on 2025-01-14 18:12
-- Location: [Removed]
-- Description: [Removed]
+### ASSAULT on 2025-01-15 00:44
+- Location: ABC News (AU)
+- Description: A supermarket employee who was allegedly stabbed by a 13-year-old boy in what police say was a "random" attack has been identified.
 
 
-### HOMICIDE on 2025-01-14 18:11
-- Location: Breitbart News
-- Description: Evers created the office in response to the December 16, 2024, shooting at Madison's Abundant Life Christian School, which left two innocents dead.
-The post Wisconsin Democrat Gov. Issues Executive Order Creating Violence Prevention Office to Fight Gun Crime …
+### OTHER on 2025-01-15 00:40
+- Location: The Punch
+- Description: The Benue State Police Command has arrested six suspects for various crimes, PUNCH Metro gathered on Tuesday. The Commissioner of Police, Hassan Yabanet, stated this during a press briefing at the state headquarters in Makurdi, the state capital. According to…
 
 
-### ASSAULT on 2025-01-14 18:09
-- Location: Advocate.com
-- Description: A popular Virginia
- gay bar became the target of an arson attack early Thursday morning. Freddie’s Beach Bar, a long-time LGBTQ
--owned business
- in Arlington, was one of three local establishments targeted in an act of arson that has shaken the community a…
+### OTHER on 2025-01-15 00:32
+- Location: Boston Herald
+- Description: A former Northeastern University virtual reality lab manager who faked a bomb explosion that injured only himself but required a major police response will spend a year in prison for his crime.
 
 
-### OTHER on 2025-01-14 18:09
-- Location: Raw Story
-- Description: The Affordable Care Act reined in many of the worst abuses of the health insurance industry, like denying people for pre-existing conditions or for meeting a lifetime coverage maximum — but it remains an industry where patients can be denied critical care for…
+### OTHER on 2025-01-15 00:27
+- Location: New York Post
+- Description: She finally saw the light.
 
-Analysis generated at: Wed Jan 15 18:16:24 UTC 2025
+Analysis generated at: Thu Jan 16 00:57:07 UTC 2025
