@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Jan 16 01:34:51 UTC 2025
+Last updated: Thu Jan 16 06:17:16 UTC 2025
 
 ## Latest Analysis
 
-Loaded 8908 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-15 01:33:15
+Loaded 8943 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-15 06:15:00
 
 Incidents by source:
 source
-newsapi           8807
+newsapi           8842
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ tribution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-01-15 01:33
-- Location: CBC News
-- Description: York Regional Police say tips from Crime Stoppers are "invaluable" as the service is seeing not only increased levels of violence but also multiple suspects at a time involved in one crime.
+### OTHER on 2025-01-15 06:15
+- Location: Spoilertv.com
+- Description: The Rookie  continues to deliver with an episode that mixes high-stakes action with emotional complexity. As Celina navigates the challenges...
 
 
-### ROBBERY/THEFT on 2025-01-15 01:27
-- Location: The Japan Times
-- Description: At least 60 clients have been victims of the safe deposit box thefts, with the total damage expected to exceed ¥1 billion.
+### OTHER on 2025-01-15 06:10
+- Location: Freerepublic.com
+- Description: To save ‘multiculturalism’, ‘morally superior’ Britain threw its young girls to wolves and ignored their screamsThis has been a difficult piece to write. At a deeply personal level researching on the serial rape and abuse of thousands upon thousands of undera…
 
 
-### OTHER on 2025-01-15 01:17
+### OTHER on 2025-01-15 06:07
 - Location: BBC News
-- Description: There is a huge question over Daniel Chapo's legitimacy and people are threatening demonstrations.
+- Description: One of the speakers called for people to come together to help shape the community for the better.
 
 
-### HOMICIDE on 2025-01-15 01:15
-- Location: CBC News
-- Description: A green pickup truck left with its doors wide open and its keys lying on the ground was one of the first clues the girlfriend of a man allegedly murdered by his neighbour says eventually led her to call police.
+### OTHER on 2025-01-15 06:00
+- Location: Naturalnews.com
+- Description: India’s Telangana state has trained eagles, forming the “Garuda Squad,” to intercept and destroy rogue drones threatening public safety. Eagles are ideal for this role due to their exceptional vision, powerful talons, and natural hunting instincts. The squad …
 
 
-### OTHER on 2025-01-15 00:47
-- Location: The Punch
-- Description: The Federal Capital Territory on Tuesday designated 17 areas in the nation’s capital as criminal black spots. The areas are Apo-Dutse Panteka; Diplomatic Zone; New PDP Secretariat; Kabusa Panteka; Ajakaita (Tungan-Maje); Abuja-Kaduna Road; Jabi Panteka; Apo-W…
+### HOMICIDE on 2025-01-15 05:49
+- Location: CNA
+- Description: BANGKOK: Thai police said on Wednesday (Jan 15) they are hunting a Cambodian national believed to be the mastermind behind the killing of a Cambodian opposition politician in downtown Bangkok last week. Lim Kimya, a former lawmaker for the dissolved Cambodia …
 
-Analysis generated at: Thu Jan 16 01:34:51 UTC 2025
+Analysis generated at: Thu Jan 16 06:17:16 UTC 2025
