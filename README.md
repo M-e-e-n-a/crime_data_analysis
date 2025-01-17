@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Jan 16 18:16:13 UTC 2025
+Last updated: Fri Jan 17 00:56:52 UTC 2025
 
 ## Latest Analysis
 
-Loaded 9101 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-15 18:15:27
+Loaded 9114 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-16 00:51:49
 
 Incidents by source:
 source
-newsapi           9000
+newsapi           9013
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ tribution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-01-15 18:15
-- Location: WSB Atlanta
-- Description: A Decatur man has learned his fate after he was convicted of shooting and killing a woman who rented a home from his father.
+### HOMICIDE on 2025-01-16 00:51
+- Location: Common Dreams
+- Description: New reporting published Wednesday details the impotence and insincerity of President Joe Biden's "multiple threats, warnings, and admonishments" to Israel as it annihilated the Gaza Strip, killing tens of thousands of Palestinian civilians while receiving ten…
 
 
-### HOMICIDE on 2025-01-15 18:15
-- Location: Deadline
-- Description: UPDATED, 10:15 AM: One of the men convicted of lesser charges in the 2024 killing of General Hospital actor Johnny Wactor were sentenced today in Los Angeles. Frank Olano, 22, was given five years and eight months in state prison for being an accessory after …
+### OTHER on 2025-01-16 00:46
+- Location: The Star Online
+- Description: PETALING JAYA: A married couple, owners of a travel agency, have been detained in connection with stranded Umrah pilgrims. Read full story
 
 
-### OTHER on 2025-01-15 18:13
-- Location: Fark.com
-- Description: Crime at the lowest rate in years? Then of course more police are needed
+### HOMICIDE on 2025-01-16 00:45
+- Location: New York Post
+- Description: Robert Lee Davis, 56, was shot by police after he shot and killed Brazoria County Sheriff's Deputy Jesus Jesse Vargas, Houston police said.
 
 
-### OTHER on 2025-01-15 18:11
-- Location: BBC News
-- Description: At least 78 bodies and more than 200 survivors have been pulled out of a mine since Monday.
+### HOMICIDE on 2025-01-16 00:44
+- Location: The Diplomat
+- Description: Like the other Cambodian national wanted in connection with the murder, Ly Ratanakrasmey, 43, has links to the Cambodian government.
 
 
-### ROBBERY/THEFT on 2025-01-15 17:51
-- Location: BBC News
-- Description: A parliamentary researcher reported her drink had been tampered with at 6.30pm on Tuesday 7 January.
+### OTHER on 2025-01-16 00:42
+- Location: CBC News
+- Description: Ismaiel Sail was last heard from two weeks ago and his last location is unknown, but he is believed to still be in the Thompson area, RCMP said in a news release Wednesday.
 
-Analysis generated at: Thu Jan 16 18:16:13 UTC 2025
+Analysis generated at: Fri Jan 17 00:56:52 UTC 2025
