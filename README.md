@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Jan 17 01:27:19 UTC 2025
+Last updated: Fri Jan 17 06:17:14 UTC 2025
 
 ## Latest Analysis
 
-Loaded 9119 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-16 01:22:34
+Loaded 9157 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-16 06:08:21
 
 Incidents by source:
 source
-newsapi           9018
+newsapi           9056
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ tribution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-01-16 01:22
+### ASSAULT on 2025-01-16 06:08
+- Location: NDTV News
+- Description: Sniffer dogs have been deployed and security has been increased outside the building in which actor Saif Ali Khan stays with his family after a knife attack left the actor with six wounds early this morning.
+
+
+### SHOOTING on 2025-01-16 06:06
+- Location: Yahoo Entertainment
+- Description: A K-9 officer was shot while trying to apprehend a suspect in Vacaville on Wednesday, the police department said. Officials later said the K-9 lost one of its legs because of the shooting.
+
+
+### OTHER on 2025-01-16 06:02
+- Location: BBC News
+- Description: Sir Sadiq Khan says the majority of his proposed rise will go to the Met Police to help fill its funding gap.
+
+
+### OTHER on 2025-01-16 06:00
 - Location: [Removed]
 - Description: [Removed]
 
 
-### HOMICIDE on 2025-01-16 01:18
-- Location: The Japan Times
-- Description: Fukuoka Prefectural Police are investigating the murder case, suspecting that the anger was triggered by a one-sided grievance.
+### OTHER on 2025-01-16 06:00
+- Location: Naturalnews.com
+- Description: Individuals identifying as transgender or part of the LGBT community are increasingly being implicated in horrific crimes, particularly against children, raising concerns about the exploitation of progressive identities. A disturbing case in Norway involves t…
 
-
-### OTHER on 2025-01-16 01:05
-- Location: New York Post
-- Description: A masked serial arsonist callously set a blaze next to a dozing subway passenger during a bizarre hour-long spree across Manhattan and Queens last week, police said.
-
-
-### SHOOTING on 2025-01-16 01:02
-- Location: CBC News
-- Description: An 18-year-old man from Brampton has been identified as a suspect in a shooting that occurred outside southwestern Ontario's largest emergency department in December, London police said.
-
-
-### OTHER on 2025-01-16 01:00
-- Location: Screen Rant
-- Description: A new police crime thriller TV show with an impressive 90% audience score on Rotten Tomatoes has just become a major streaming hit for Prime Video.
-
-Analysis generated at: Fri Jan 17 01:27:19 UTC 2025
+Analysis generated at: Fri Jan 17 06:17:14 UTC 2025
