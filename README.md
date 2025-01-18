@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Jan 18 12:35:09 UTC 2025
+Last updated: Sat Jan 18 18:14:42 UTC 2025
 
 ## Latest Analysis
 
-Loaded 9490 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-17 12:34:16
+Loaded 9590 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-17 18:13:55
 
 Incidents by source:
 source
-newsapi           9389
+newsapi           9489
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -24,28 +24,38 @@ tribution.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2025-01-17 12:34
-- Location: road.cc
-- Description: “The safety of road users is the most important thing, but highlighting danger should not involve the misrepresentation of an important and fast-growing sector increasing the amount of healthy, eco-friendly travel”
+### HOMICIDE on 2025-01-17 18:13
+- Location: Thoughtcatalog.com
+- Description: “My daughter Kait was chased down... So I’m particularly sensitive about desensitizing kids to violence and turning murder into a game.”
 
 
-### OTHER on 2025-01-17 12:30
-- Location: Screen Rant
-- Description: Despite being one of the biggest box office draws in Hollywood, even Denzel Washington has had his fair share of flops at the box office.
+### OTHER on 2025-01-17 18:11
+- Location: Globalresearch.ca
+- Description: After a resounding victory in the first real elections in which the Congolese participated, Patrice Lumumba became Prime Minister of Congo from 24 June 1960 until his overthrow and imprisonment on 14 September of the same year by Colonel Joseph-Désiré …
+The p…
 
 
-### OTHER on 2025-01-17 12:30
-- Location: CBS News
-- Description: Melissa Calusinski has been behind bars in Illinois for 16 years in a case plagued by allegations of evidence manipulation, coerced confession and flawed medical opinions.
+### HOMICIDE on 2025-01-17 18:10
+- Location: Newsweek
+- Description: The Raleigh Police Department (RPD) are conducting a shooting investigation in the North Hills shopping center area.
 
 
-### OTHER on 2025-01-17 12:30
-- Location: Albany Democrat Herald
-- Description: Forcing survivors to litigate their restraining order hearings is a regular reality — and a gaping fault in a system that continues to fail battered women, advocates say.
+### HOMICIDE on 2025-01-17 18:07
+- Location: Thenation.com
+- Description: Katie Rose Quandt
 
 
-### ROBBERY/THEFT on 2025-01-17 12:20
-- Location: Twistedsifter.com
-- Description: This parent needs to go to the police; they shouldn't be getting personal like this.
 
-Analysis generated at: Sat Jan 18 12:35:09 UTC 2025
+They believe a new sentence of life without parole will hurt their legal chances.
+
+
+
+
+The post “Death Is Different”: Why 2 Men Are Fighting Against Biden's Commutation appeared first on The Nation.
+
+
+### ROBBERY/THEFT on 2025-01-17 18:05
+- Location: The Punch
+- Description: The Nigerian Police Force, Sokoto State Command, has confirmed the arrest of two persons for vandalism and motorcycle theft within the state. The suspects include one Imrana Umar ‘m’ of Minanata Area and Isah Usman AKA Man ‘m’ Makera Asada Area Sokoto respect…
+
+Analysis generated at: Sat Jan 18 18:14:42 UTC 2025
