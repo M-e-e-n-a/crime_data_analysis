@@ -1,10 +1,10 @@
 
-Loaded 9337 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-16 18:12:34
+Loaded 9351 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-17 00:53:22
 
 Incidents by source:
 source
-newsapi           9236
+newsapi           9250
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ tribution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-01-16 18:12
-- Location: Theplaylist.net
-- Description: Since its premiere in 2017, the “C.B. Strike” series (known simply as “Strike” across the pond) has become one of BBC One‘s most popular series. And for good reason: “Furiosa” star Tom Burke and Holliday Grainger make an engaging lead duo as a private detecti…
+### HOMICIDE on 2025-01-17 00:53
+- Location: BBC News
+- Description: Investigators are scouring video footage, witness testimony and debris to identify the origins of two deadly fires.
 
 
-### OTHER on 2025-01-16 18:11
-- Location: New York Post
-- Description: The Milken Institute's annual report gauges the best cities based on metrics including job and wage growth, affordability and other economic factors.
+### OTHER on 2025-01-17 00:37
+- Location: CBC News
+- Description: Marita Maas, who survived an impaired driving crash in 2007, said the numbers are disappointing. She's urging anyone who sees a suspected impaired driver to call 911.
 
 
-### OTHER on 2025-01-16 18:07
-- Location: Digital Journal
-- Description: Rescuers retrieving illegal miners from a disused South African gold shaft said on Thursday a final sweep appeared to show nobody was left underground, after 78 bodies and more than 200 miners were lifted out this week. Many of those rescued looked frail, the…
+### HOMICIDE on 2025-01-17 00:30
+- Location: CBC News
+- Description: The Manitoba government says it's not responsible for the convictions of two First Nations men who were later exonerated in a 1973 killing and have launched lawsuits related to their convictions.
 
 
-### OTHER on 2025-01-16 18:05
-- Location: Newsweek
-- Description: Encampment residents near Caesars Superdome offered housing at a temporary facility as the city prepares to host Super Bowl LIX.
+### HOMICIDE on 2025-01-17 00:28
+- Location: ABC News (AU)
+- Description: The mother of a Melbourne woman killed in a "despicable" arson attack in Melbourne's west on Thursday remembers her 27-year-old daughter as a "beautiful soul".
 
 
-### OTHER on 2025-01-16 18:01
-- Location: [Removed]
-- Description: [Removed]
+### ROBBERY/THEFT on 2025-01-17 00:18
+- Location: Newsbreak.com
+- Description: AMBER Alert for Ill. Girl, 4, Who Was in Mom's Car When It Was Stolen - NewsBreaknewsbreak.com
 
-Analysis generated at: Fri Jan 17 18:16:06 UTC 2025
+Analysis generated at: Sat Jan 18 00:55:32 UTC 2025
