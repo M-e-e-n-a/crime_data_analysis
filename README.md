@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Jan 18 00:55:32 UTC 2025
+Last updated: Sat Jan 18 01:25:39 UTC 2025
 
 ## Latest Analysis
 
-Loaded 9351 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-17 00:53:22
+Loaded 9356 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-17 01:04:08
 
 Incidents by source:
 source
-newsapi           9250
+newsapi           9255
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ tribution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-01-17 00:53
-- Location: BBC News
-- Description: Investigators are scouring video footage, witness testimony and debris to identify the origins of two deadly fires.
+### OTHER on 2025-01-17 01:04
+- Location: Breitbart News
+- Description: A Connecticut high school teacher has been arrested for running an extensive online scam using computer equipment belonging to the public school system, police said.
+The post Police: Connecticut Teacher Ran Online Car Scam Through School Computers appeared fi…
 
 
-### OTHER on 2025-01-17 00:37
-- Location: CBC News
-- Description: Marita Maas, who survived an impaired driving crash in 2007, said the numbers are disappointing. She's urging anyone who sees a suspected impaired driver to call 911.
+### OTHER on 2025-01-17 01:01
+- Location: 7NEWS.com.au
+- Description: Victim identified in Melbourne blaze which police believe is a case of mistaken identity arson7news.com.au
 
 
-### HOMICIDE on 2025-01-17 00:30
-- Location: CBC News
-- Description: The Manitoba government says it's not responsible for the convictions of two First Nations men who were later exonerated in a 1973 killing and have launched lawsuits related to their convictions.
+### OTHER on 2025-01-17 01:01
+- Location: fox6now.com
+- Description: A Marquette University police officer is accused of trying to “botch” an OWI crash investigation that began in 2023.
 
 
-### HOMICIDE on 2025-01-17 00:28
-- Location: ABC News (AU)
-- Description: The mother of a Melbourne woman killed in a "despicable" arson attack in Melbourne's west on Thursday remembers her 27-year-old daughter as a "beautiful soul".
+### OTHER on 2025-01-17 00:59
+- Location: The Punch
+- Description: The Kogi State Government has vowed to prosecute a 40-year-old man, Mr. Elisha Daniel, accused of raping a three-year-old girl, describing the act as “barbaric” and stating that the society must not tolerate “conscienceless people.” Addressing journalists in …
 
 
-### ROBBERY/THEFT on 2025-01-17 00:18
-- Location: Newsbreak.com
-- Description: AMBER Alert for Ill. Girl, 4, Who Was in Mom's Car When It Was Stolen - NewsBreaknewsbreak.com
+### ROBBERY/THEFT on 2025-01-17 00:59
+- Location: ESPN
+- Description: Hall of Fame tennis player Pam Shriver said that her car containing major trophies was stolen from a Marina del Rey hotel where she had fled to escape the Pacific Palisades fire.
 
-Analysis generated at: Sat Jan 18 00:55:32 UTC 2025
+Analysis generated at: Sat Jan 18 01:25:39 UTC 2025
