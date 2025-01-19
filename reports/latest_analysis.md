@@ -1,10 +1,10 @@
 
-Loaded 9590 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-17 18:13:55
+Loaded 9610 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-18 01:00:22
 
 Incidents by source:
 source
-newsapi           9489
+newsapi           9509
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -20,38 +20,29 @@ tribution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-01-17 18:13
-- Location: Thoughtcatalog.com
-- Description: “My daughter Kait was chased down... So I’m particularly sensitive about desensitizing kids to violence and turning murder into a game.”
+### OTHER on 2025-01-18 01:00
+- Location: Fox News
+- Description: After one of their adopted children was hospitalized following harrowing tales of abuse, her parents, a children's author and her husband, were handed lengthy prison sentences.
 
 
-### OTHER on 2025-01-17 18:11
-- Location: Globalresearch.ca
-- Description: After a resounding victory in the first real elections in which the Congolese participated, Patrice Lumumba became Prime Minister of Congo from 24 June 1960 until his overthrow and imprisonment on 14 September of the same year by Colonel Joseph-Désiré …
-The p…
+### OTHER on 2025-01-18 01:00
+- Location: Screen Rant
+- Description: Jessica Alba has appeared in some great movies and TV shows, but some are better than others.
 
 
-### HOMICIDE on 2025-01-17 18:10
-- Location: Newsweek
-- Description: The Raleigh Police Department (RPD) are conducting a shooting investigation in the North Hills shopping center area.
+### OTHER on 2025-01-18 01:00
+- Location: Starweekly.com.au
+- Description: Emergency services are urging campers to ensure that they are aware of current fire danger ratings after 18 people were...
+The post Campfire caution appeared first on Northern.
 
 
-### HOMICIDE on 2025-01-17 18:07
-- Location: Thenation.com
-- Description: Katie Rose Quandt
-
-
-
-They believe a new sentence of life without parole will hurt their legal chances.
-
-
-
-
-The post “Death Is Different”: Why 2 Men Are Fighting Against Biden's Commutation appeared first on The Nation.
-
-
-### ROBBERY/THEFT on 2025-01-17 18:05
+### HOMICIDE on 2025-01-18 00:52
 - Location: The Punch
-- Description: The Nigerian Police Force, Sokoto State Command, has confirmed the arrest of two persons for vandalism and motorcycle theft within the state. The suspects include one Imrana Umar ‘m’ of Minanata Area and Isah Usman AKA Man ‘m’ Makera Asada Area Sokoto respect…
+- Description: What is your name? My name is Sam Adaidu. What is your relationship with Salome, the corps member who was killed by an Abuja gospel singer? Salome is the daughter of my elder brother. So, I am her uncle. Are you satisfied with the way the police are handling …
 
-Analysis generated at: Sat Jan 18 18:14:42 UTC 2025
+
+### OTHER on 2025-01-18 00:51
+- Location: Screen Rant
+- Description: The Glory is beloved for its revenge theme– and there are several other K-dramas with similar themes that are perfect for fans of the thriller.
+
+Analysis generated at: Sun Jan 19 01:01:34 UTC 2025
