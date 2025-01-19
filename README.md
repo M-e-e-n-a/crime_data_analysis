@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Jan 19 01:41:11 UTC 2025
+Last updated: Sun Jan 19 06:15:45 UTC 2025
 
 ## Latest Analysis
 
-Loaded 9615 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-18 01:39:11
+Loaded 9648 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-18 06:00:00
 
 Incidents by source:
 source
-newsapi           9514
+newsapi           9547
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ tribution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-01-18 01:39
-- Location: Fox News
-- Description: A Utah State University student was arrested after admitting to releasing chemical gas in his dorm hours after being questioned by FBI Terrorism Task Force investigators.
+### OTHER on 2025-01-18 06:00
+- Location: Naturalnews.com
+- Description: Police departments are increasingly turning to AI-powered facial recognition technology to identify and arrest suspects. Many departments are making these arrests without doing additional basic police work to verify evidence, leading to a rise in wrongful arr…
 
 
-### OTHER on 2025-01-18 01:19
-- Location: [Removed]
-- Description: [Removed]
+### OTHER on 2025-01-18 06:00
+- Location: The Irish Times
+- Description: Always testy, the relationship between the two countries has deteriorated in recent months
 
 
-### OTHER on 2025-01-18 01:14
-- Location: The Federalist
-- Description: 'I refuse to believe this was just a series of unfortunate accidents and incompetence,' Davis said. 'It's just not.'
+### OTHER on 2025-01-18 05:33
+- Location: Antaranews.com
+- Description: Coordinating Minister for Law, Human Rights, Immigration, and Corrections Yusril Ihza Mahendra stated that the French Government has agreed to most of the ...
 
 
-### HOMICIDE on 2025-01-18 01:11
-- Location: Antiwar.com
-- Description: New reporting published Wednesday details the impotence and insincerity of President Joe Biden’s “multiple threats, warnings, and admonishments” to Israel as it annihilated the Gaza Strip, killing tens of thousands of Palestinian civilians while receiving ten…
-
-
-### HOMICIDE on 2025-01-18 01:01
+### OTHER on 2025-01-18 05:26
 - Location: ABC News
-- Description: A South Carolina man has pleaded guilty to charges that he gunned down a New Mexico state police officer who had stopped to help him
+- Description: President-elect Donald Trump has yet to take office, but his influence already is rippling through state capitols
 
-Analysis generated at: Sun Jan 19 01:41:11 UTC 2025
+
+### HOMICIDE on 2025-01-18 05:26
+- Location: ABC News
+- Description: A former Georgia prosecutor is heading to court as a criminal defendant, charged with interfering with police investigating the 2020 killing of Ahmaud Arbery
+
+Analysis generated at: Sun Jan 19 06:15:45 UTC 2025
