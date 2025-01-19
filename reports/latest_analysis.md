@@ -1,10 +1,10 @@
 
-Loaded 9705 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-18 12:12:50
+Loaded 9709 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-18 12:28:17
 
 Incidents by source:
 source
-newsapi           9604
+newsapi           9608
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -20,30 +20,29 @@ tribution.svg)
 
 ## Recent Incidents
 
+### HOMICIDE on 2025-01-18 12:28
+- Location: ABC News
+- Description: An Indian court has found a police volunteer guilty of the rape and murder of a trainee doctor, a crime that sparked nationwide protests and hospital strikes last year
+
+
+### ROBBERY/THEFT on 2025-01-18 12:23
+- Location: Thehillstimes.in
+- Description: HT Digital GUWAHATI, Jan 18: In two significant unusual cases, the Guwahati Police rescued four stolen goats and recovered stolen mobile phones from a museum heist, the police officials informed on Saturday. In the first incident, a team from the City General…
+
+
+### OTHER on 2025-01-18 12:23
+- Location: Twistedsifter.com
+- Description: This petty revenge was worth a pretty penny.
+
+
+### OTHER on 2025-01-18 12:21
+- Location: The Jerusalem Post
+- Description: Zubeidi was born in 1976 to a family of nine in Jenin, a Palestinian city in the West Bank.
+
+
 ### OTHER on 2025-01-18 12:12
 - Location: Digital Journal
 - Description: Durov nevertheless admitted that "it was while I was held in custody that I realised the seriousness of all the allegations."
 The post Telegram boss admits ‘seriousness’ of French allegations: source appeared first on Digital Journal.
 
-
-### HOMICIDE on 2025-01-18 12:00
-- Location: The Intercept
-- Description: As three men challenge their commutations, others brace for imminent prison transfers and the finality of a life sentence with no chance of release.
-The post Biden Commuted Their Death Sentences. Now What? appeared first on The Intercept.
-
-
-### OTHER on 2025-01-18 11:55
-- Location: Marca
-- Description: Caitlin Clark&apos;s exceptional basketball career has earned her admiration worldwide, but her fame has also brought an unsettling ordeal. Recently, the WNBA star found herself at
-
-
-### OTHER on 2025-01-18 11:48
-- Location: International Business Times
-- Description: Telegram founder Pavel Durov has told investigating magistrates in France, where he is charged with multiple infractions linked to enabling organised crime, that he "realised the seriousness of all the allegations", according to a source close to the case.
-
-
-### OTHER on 2025-01-18 11:48
-- Location: Ibtimes.com.au
-- Description: Telegram founder Pavel Durov has told investigating magistrates in France, where he is charged with multiple infractions linked to enabling organised crime, that he "realised the seriousness of all the allegations", according to a source close to the case.
-
-Analysis generated at: Sun Jan 19 12:20:24 UTC 2025
+Analysis generated at: Sun Jan 19 12:34:52 UTC 2025
