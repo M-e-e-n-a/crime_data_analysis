@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Jan 19 06:15:45 UTC 2025
+Last updated: Sun Jan 19 12:20:24 UTC 2025
 
 ## Latest Analysis
 
-Loaded 9648 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-18 06:00:00
+Loaded 9705 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-18 12:12:50
 
 Incidents by source:
 source
-newsapi           9547
+newsapi           9604
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -24,28 +24,30 @@ tribution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-01-18 06:00
-- Location: Naturalnews.com
-- Description: Police departments are increasingly turning to AI-powered facial recognition technology to identify and arrest suspects. Many departments are making these arrests without doing additional basic police work to verify evidence, leading to a rise in wrongful arr…
+### OTHER on 2025-01-18 12:12
+- Location: Digital Journal
+- Description: Durov nevertheless admitted that "it was while I was held in custody that I realised the seriousness of all the allegations."
+The post Telegram boss admits ‘seriousness’ of French allegations: source appeared first on Digital Journal.
 
 
-### OTHER on 2025-01-18 06:00
-- Location: The Irish Times
-- Description: Always testy, the relationship between the two countries has deteriorated in recent months
+### HOMICIDE on 2025-01-18 12:00
+- Location: The Intercept
+- Description: As three men challenge their commutations, others brace for imminent prison transfers and the finality of a life sentence with no chance of release.
+The post Biden Commuted Their Death Sentences. Now What? appeared first on The Intercept.
 
 
-### OTHER on 2025-01-18 05:33
-- Location: Antaranews.com
-- Description: Coordinating Minister for Law, Human Rights, Immigration, and Corrections Yusril Ihza Mahendra stated that the French Government has agreed to most of the ...
+### OTHER on 2025-01-18 11:55
+- Location: Marca
+- Description: Caitlin Clark&apos;s exceptional basketball career has earned her admiration worldwide, but her fame has also brought an unsettling ordeal. Recently, the WNBA star found herself at
 
 
-### OTHER on 2025-01-18 05:26
-- Location: ABC News
-- Description: President-elect Donald Trump has yet to take office, but his influence already is rippling through state capitols
+### OTHER on 2025-01-18 11:48
+- Location: International Business Times
+- Description: Telegram founder Pavel Durov has told investigating magistrates in France, where he is charged with multiple infractions linked to enabling organised crime, that he "realised the seriousness of all the allegations", according to a source close to the case.
 
 
-### HOMICIDE on 2025-01-18 05:26
-- Location: ABC News
-- Description: A former Georgia prosecutor is heading to court as a criminal defendant, charged with interfering with police investigating the 2020 killing of Ahmaud Arbery
+### OTHER on 2025-01-18 11:48
+- Location: Ibtimes.com.au
+- Description: Telegram founder Pavel Durov has told investigating magistrates in France, where he is charged with multiple infractions linked to enabling organised crime, that he "realised the seriousness of all the allegations", according to a source close to the case.
 
-Analysis generated at: Sun Jan 19 06:15:45 UTC 2025
+Analysis generated at: Sun Jan 19 12:20:24 UTC 2025
