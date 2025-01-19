@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Jan 19 01:01:34 UTC 2025
+Last updated: Sun Jan 19 01:41:11 UTC 2025
 
 ## Latest Analysis
 
-Loaded 9610 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-18 01:00:22
+Loaded 9615 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-18 01:39:11
 
 Incidents by source:
 source
-newsapi           9509
+newsapi           9514
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ tribution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-01-18 01:00
+### OTHER on 2025-01-18 01:39
 - Location: Fox News
-- Description: After one of their adopted children was hospitalized following harrowing tales of abuse, her parents, a children's author and her husband, were handed lengthy prison sentences.
+- Description: A Utah State University student was arrested after admitting to releasing chemical gas in his dorm hours after being questioned by FBI Terrorism Task Force investigators.
 
 
-### OTHER on 2025-01-18 01:00
-- Location: Screen Rant
-- Description: Jessica Alba has appeared in some great movies and TV shows, but some are better than others.
+### OTHER on 2025-01-18 01:19
+- Location: [Removed]
+- Description: [Removed]
 
 
-### OTHER on 2025-01-18 01:00
-- Location: Starweekly.com.au
-- Description: Emergency services are urging campers to ensure that they are aware of current fire danger ratings after 18 people were...
-The post Campfire caution appeared first on Northern.
+### OTHER on 2025-01-18 01:14
+- Location: The Federalist
+- Description: 'I refuse to believe this was just a series of unfortunate accidents and incompetence,' Davis said. 'It's just not.'
 
 
-### HOMICIDE on 2025-01-18 00:52
-- Location: The Punch
-- Description: What is your name? My name is Sam Adaidu. What is your relationship with Salome, the corps member who was killed by an Abuja gospel singer? Salome is the daughter of my elder brother. So, I am her uncle. Are you satisfied with the way the police are handling …
+### HOMICIDE on 2025-01-18 01:11
+- Location: Antiwar.com
+- Description: New reporting published Wednesday details the impotence and insincerity of President Joe Biden’s “multiple threats, warnings, and admonishments” to Israel as it annihilated the Gaza Strip, killing tens of thousands of Palestinian civilians while receiving ten…
 
 
-### OTHER on 2025-01-18 00:51
-- Location: Screen Rant
-- Description: The Glory is beloved for its revenge theme– and there are several other K-dramas with similar themes that are perfect for fans of the thriller.
+### HOMICIDE on 2025-01-18 01:01
+- Location: ABC News
+- Description: A South Carolina man has pleaded guilty to charges that he gunned down a New Mexico state police officer who had stopped to help him
 
-Analysis generated at: Sun Jan 19 01:01:34 UTC 2025
+Analysis generated at: Sun Jan 19 01:41:11 UTC 2025
