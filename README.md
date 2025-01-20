@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Jan 19 18:14:44 UTC 2025
+Last updated: Mon Jan 20 00:58:24 UTC 2025
 
 ## Latest Analysis
 
-Loaded 9777 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-18 18:13:28
+Loaded 9783 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-19 00:51:47
 
 Incidents by source:
 source
-newsapi           9676
+newsapi           9682
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ tribution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-01-18 18:13
-- Location: Psychology Today
-- Description: Why do so many Americans believe that immigration increases crime and that smartphones are to blame for the teen mental health crisis? It may be the false cause fallacy.
+### SHOOTING on 2025-01-19 00:51
+- Location: The Punch
+- Description: The Egba Division of the Ogun State Police Command has arrested one Kazeem Sholola for pouring hot oil on his wife, Mutiat Sholola, and stabbing her in the head during a domestic dispute. Sholola, a resident of the Ring Road Community in Owode Egba, Obafemi/O…
 
 
-### HOMICIDE on 2025-01-18 18:12
-- Location: Slashdot.org
-- Description: In India, a police volunteer is convicted of rape and murder of a trainee doctorNPR Man found guilty in India doctor rape and murder caseBBC.com For RG Kar victim’s colleagues, one eye on court on normal hospital duty dayThe Times of India RG Kar rape-murder …
+### HOMICIDE on 2025-01-19 00:44
+- Location: The Punch
+- Description: An angry mob on Friday lynched and set ablaze a suspect over the death of a 70-year-old man, known as Aghanti, and his 50-year-old daughter, Atagoshi. Both Aghanti and Atagoshi were killed and beheaded by their assailant in the Amai community, Ukwuani Local G…
 
 
-### OTHER on 2025-01-18 18:00
-- Location: New York Post
-- Description: Even Gov. Hochul has indicated they're broken.
+### OTHER on 2025-01-19 00:34
+- Location: [Removed]
+- Description: [Removed]
 
 
-### OTHER on 2025-01-18 17:45
-- Location: Newsweek
-- Description: Reactions to Mangione's arrest have polarized the nation after a significant amount of the American public indicated they may be supportive of the suspect.
+### OTHER on 2025-01-19 00:13
+- Location: Israelnationalnews.com
+- Description: State Attorney’s Office submits position on the petition filed to the Supreme Court against hostage release deal: The heart goes out to the petitioners and the other families affected by terror, but the petition should be dismissed.
 
 
-### OTHER on 2025-01-18 17:42
-- Location: TODAY
-- Description: A French woman who thought she was in a romantic relationship with Brad Pitt was conned out of 830,000 euros ($855,000) by scammers.
+### OTHER on 2025-01-19 00:08
+- Location: Freerepublic.com
+- Description: Lack of moderates among Palestinian Islamo-Arabs [Sodom] - forced humane Israel into a dangerous hostage deal. 01.17.25 This is about the agreement to a bad deal in principle, forced by the situation, though the pressed on a date [per US politics, optics on J…
 
-Analysis generated at: Sun Jan 19 18:14:44 UTC 2025
+Analysis generated at: Mon Jan 20 00:58:24 UTC 2025
