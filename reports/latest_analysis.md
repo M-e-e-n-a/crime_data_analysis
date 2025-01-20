@@ -1,10 +1,10 @@
 
-Loaded 9858 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-19 12:11:21
+Loaded 9859 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-19 12:24:07
 
 Incidents by source:
 source
-newsapi           9757
+newsapi           9758
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -19,6 +19,11 @@ tribution.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### ROBBERY/THEFT on 2025-01-19 12:24
+- Location: Hurriyet Daily News
+- Description: The main opposition Republican People’s Party (CHP) is charting a course of action following the arrest of Beşiktaş Mayor Rıza Akpolat over charges related to a bribery and bid-rigging probe.
+
 
 ### OTHER on 2025-01-19 12:11
 - Location: NDTV News
@@ -36,12 +41,7 @@ tribution.svg)
 
 
 ### OTHER on 2025-01-19 12:00
-- Location: The Atlantic
-- Description: Spend time with tales of an audacious prison break, a mobster’s downfall, and more.
+- Location: Page Six
+- Description: "They’ve taken everything from her," a source close to the situation told The Post.
 
-
-### HOMICIDE on 2025-01-19 12:00
-- Location: STLtoday.com
-- Description: Had Durell been here, someone would have caught him, stopped him, calmed him down. Before he got into that car, before he crashed, before he got out with a gun.
-
-Analysis generated at: Mon Jan 20 12:23:33 UTC 2025
+Analysis generated at: Mon Jan 20 12:39:24 UTC 2025
