@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Jan 20 01:36:58 UTC 2025
+Last updated: Mon Jan 20 06:18:00 UTC 2025
 
 ## Latest Analysis
 
-Loaded 9789 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-19 01:35:48
+Loaded 9813 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-19 06:00:08
 
 Incidents by source:
 source
-newsapi           9688
+newsapi           9712
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ tribution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2025-01-19 01:35
-- Location: Deadline
-- Description: Oscar winner Rami Malek revealed a previous encounter with the Los Angeles Police Department during which he was racially profiled and thrown onto a cop car as authorities tried to locate a robber. The actor, who detailed the incident in a lengthy cover story…
+### OTHER on 2025-01-19 06:00
+- Location: Bleeding Cool News
+- Description: "I'm tired of being controversial. I'm trying to turn over a new leaf. It is way too soon to try to joke about a catastrophe like that. This one is close to home," NBC's Saturday Night Live host Dave Chappelle said near the opening of his monologue during ton…
 
 
-### OTHER on 2025-01-19 01:35
-- Location: Thehillstimes.in
-- Description: New Delhi, Jan 18: Punjabi star-singer Diljit Dosanjh has announced that his much-awaited film “Punjab 95”, based on the life of human rights activist Jaswant Singh Khalra, will be released globally on February 7 without any cuts. “Punjab 95”, directed by Hon…
+### OTHER on 2025-01-19 06:00
+- Location: The Irish Times
+- Description: British environmentalist and BBC presenter Chris Packham on battling to save the planet, standing up to his enemies, and how his autism made him hate himself
 
 
-### OTHER on 2025-01-19 01:21
-- Location: CBS News
-- Description: Although the inauguration ceremony for President-elect Donald Trump was moved​ into the highly fortified and secured U.S. Capitol, helicopters will still be a key tool for D.C. Police.
+### OTHER on 2025-01-19 06:00
+- Location: [Removed]
+- Description: [Removed]
 
 
-### OTHER on 2025-01-19 01:15
-- Location: Borderlandbeat.com
-- Description: Borderland Beat Contributors  Photograph By Michelle Rivera  on Twitter (Photograph of Gastelum while detained by authorities)
+### OTHER on 2025-01-19 06:00
+- Location: Naturalnews.com
+- Description: This has been a difficult piece to write. At a deeply personal level researching on the serial rape and abuse of thousands upon thousands of underage British girls by men of mostly Pakistani Muslim heritage – that went on unabated for decades, aided by nearly…
 
 
-### ROBBERY/THEFT on 2025-01-19 01:10
-- Location: Boston Herald
-- Description: A federal grand jury sitting in Boston indicted Jenel Flounoury, 29, and Justin Flounoury, 33, on charges of conspiracy and larceny from a credit union. Federal prosecutors say they ripped the Energy Credit Union off to the tune of $197,146.
+### OTHER on 2025-01-19 05:28
+- Location: 7NEWS.com.au
+- Description: Teen girl stabbed by strangers at Belmont Village shopping centre in Geelong7news.com.au
 
-Analysis generated at: Mon Jan 20 01:36:58 UTC 2025
+Analysis generated at: Mon Jan 20 06:18:00 UTC 2025
