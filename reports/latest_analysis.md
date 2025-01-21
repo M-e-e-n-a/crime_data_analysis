@@ -1,10 +1,10 @@
 
-Loaded 9973 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-20 06:14:00
+Loaded 10065 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-20 12:22:30
 
 Incidents by source:
 source
-newsapi           9872
+newsapi           9964
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ tribution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-01-20 06:14
-- Location: Sky.com
-- Description: Southport attacker Axel Rudakubana ordered a taxi to his former school a week before killing three young girls at a Taylor Swift-themed dance class.
+### HOMICIDE on 2025-01-20 12:22
+- Location: The Punch
+- Description: The FCT Police Command has arrested a notorious gang leader, Abubakar Idris, also known as Nishi, and his accomplices for the murder of Ibrahim Danfulani over a disputed marriage proposal. According to a statement by the command’s spokesperson, SP Josephine A…
 
 
-### OTHER on 2025-01-20 06:11
-- Location: Anime News Network
-- Description: Defense requests suspended sentence; final sentencing scheduled for February 28
+### HOMICIDE on 2025-01-20 12:19
+- Location: The Times of India
+- Description: The Federation of Resident Doctors' Association (FORDA) condemned the life imprisonment sentence for Sanjay Roy in the RG Kar rape and murder case, labeling it as inadequate justice. West Bengal Chief Minister Mamata Banerjee expressed similar dissatisfaction…
 
 
-### HOMICIDE on 2025-01-20 06:07
-- Location: NDTV News
-- Description: Amid tight security arrangements, Sanjay Roy, who has been convicted of raping and murdering an on-duty doctor at the state-run R G Kar Medical College and Hospital, was brought to a court here on Monday for pronouncement of the sentence, police said
+### HOMICIDE on 2025-01-20 12:18
+- Location: Digital Journal
+- Description: A teenager on Monday pleaded guilty to killing three young girls in a stabbing spree last year that sparked the UK’s most violent riots in a decade. On what was set to be the opening day of his trial, Axel Rudakubana, 18, admitted to murdering the three girls…
 
 
-### HOMICIDE on 2025-01-20 06:03
-- Location: NDTV News
-- Description: Sanjay Roy has been convicted of raping and murdering an on-duty doctor at Kolkata&#039;s RG Kar Medical College and Hospital last year.
+### OTHER on 2025-01-20 12:16
+- Location: SFGate
+- Description: Teresa Wismer McKinley went missing from her Vacaville, Calif. home decades ago, and the case has been recently opened in Solano County.
 
 
-### HOMICIDE on 2025-01-20 06:02
-- Location: BBC News
-- Description: The BBC's Fergal Keane has been speaking to people in Gaza whose lives have been devastated by the war.
+### HOMICIDE on 2025-01-20 12:15
+- Location: International Business Times
+- Description: A teenager on Monday pleaded guilty to killing three young girls in a stabbing spree last year that sparked the UK's most violent riots in a decade.
 
-Analysis generated at: Tue Jan 21 06:17:25 UTC 2025
+Analysis generated at: Tue Jan 21 12:23:39 UTC 2025
