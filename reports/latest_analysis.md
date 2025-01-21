@@ -1,10 +1,10 @@
 
-Loaded 9925 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-20 00:52:14
+Loaded 9926 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-20 01:26:44
 
 Incidents by source:
 source
-newsapi           9824
+newsapi           9825
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -19,6 +19,11 @@ tribution.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### OTHER on 2025-01-20 01:26
+- Location: The Conversation Africa
+- Description: The most successful shoddy droppers were smooth talkers attractively dressed in made-to-measure three-piece suits – but the cloth they sold was often poor quality.
+
 
 ### ROBBERY/THEFT on 2025-01-20 00:52
 - Location: Lifesciencesworld.com
@@ -40,9 +45,4 @@ The post How to use hydraulics gta 5? appeared first on Life Sciences World.
 - Location: The Punch
 - Description: The Edo State Police Command has deployed more men to secure the venue of the Edo State governorship election petition tribunal venue in Benin City, the state capital, following escalating tensions during the first week of hearing at the High Court Complex on…
 
-
-### OTHER on 2025-01-20 00:22
-- Location: Freerepublic.com
-- Description: Democrats see the light. The Laken Riley deportation bill passed the Senate easily.Good News From Senate DemocratsBy a filibuster-proof margin, Senate Democrats Help Republicans Advance Immigration Crackdown.Ten Democrats sided with Republicans to advance the…
-
-Analysis generated at: Tue Jan 21 00:57:07 UTC 2025
+Analysis generated at: Tue Jan 21 01:35:08 UTC 2025
