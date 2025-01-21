@@ -1,10 +1,10 @@
 
-Loaded 9926 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-20 01:26:44
+Loaded 9973 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-20 06:14:00
 
 Incidents by source:
 source
-newsapi           9825
+newsapi           9872
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ tribution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-01-20 01:26
-- Location: The Conversation Africa
-- Description: The most successful shoddy droppers were smooth talkers attractively dressed in made-to-measure three-piece suits – but the cloth they sold was often poor quality.
+### HOMICIDE on 2025-01-20 06:14
+- Location: Sky.com
+- Description: Southport attacker Axel Rudakubana ordered a taxi to his former school a week before killing three young girls at a Taylor Swift-themed dance class.
 
 
-### ROBBERY/THEFT on 2025-01-20 00:52
-- Location: Lifesciencesworld.com
-- Description: How to Use Hydraulics in GTA 5 Introduction Grand Theft Auto V (GTA 5) is an open-world action-adventure game developed […]
-The post How to use hydraulics gta 5? appeared first on Life Sciences World.
+### OTHER on 2025-01-20 06:11
+- Location: Anime News Network
+- Description: Defense requests suspended sentence; final sentencing scheduled for February 28
 
 
-### OTHER on 2025-01-20 00:48
-- Location: CleanTechnica
-- Description: I just had a long chat with a good friend who was basically an OG in Tesla world. We talked about all kinds of Tesla topics trying to understand where Tesla would be going in 2025 and beyond. We covered a variety of topics, pros and cons, opportunities and ri…
+### HOMICIDE on 2025-01-20 06:07
+- Location: NDTV News
+- Description: Amid tight security arrangements, Sanjay Roy, who has been convicted of raping and murdering an on-duty doctor at the state-run R G Kar Medical College and Hospital, was brought to a court here on Monday for pronouncement of the sentence, police said
 
 
-### OTHER on 2025-01-20 00:27
-- Location: Securityaffairs.com
-- Description: Critical flaws in WGS-804HPT switches could be chained to gain remote code execution on Planet Technology’s industrial devices. The Planet WGS-804HPT industrial switch is used in building and home automation networks to provide connectivity of Internet of thi…
+### HOMICIDE on 2025-01-20 06:03
+- Location: NDTV News
+- Description: Sanjay Roy has been convicted of raping and murdering an on-duty doctor at Kolkata&#039;s RG Kar Medical College and Hospital last year.
 
 
-### OTHER on 2025-01-20 00:23
-- Location: The Punch
-- Description: The Edo State Police Command has deployed more men to secure the venue of the Edo State governorship election petition tribunal venue in Benin City, the state capital, following escalating tensions during the first week of hearing at the High Court Complex on…
+### HOMICIDE on 2025-01-20 06:02
+- Location: BBC News
+- Description: The BBC's Fergal Keane has been speaking to people in Gaza whose lives have been devastated by the war.
 
-Analysis generated at: Tue Jan 21 01:35:08 UTC 2025
+Analysis generated at: Tue Jan 21 06:17:25 UTC 2025
