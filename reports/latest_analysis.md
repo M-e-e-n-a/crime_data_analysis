@@ -1,10 +1,10 @@
 
-Loaded 9912 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-19 18:07:16
+Loaded 9925 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-20 00:52:14
 
 Incidents by source:
 source
-newsapi           9811
+newsapi           9824
 chicago_pd         100
 chicago_police       1
 Name: count, dtype: int64
@@ -20,29 +20,29 @@ tribution.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2025-01-19 18:07
-- Location: CNN
-- Description: President-elect Donald Trump and his team have drafted a slate of pardons for people convicted for their role in the January 6 Capitol attack to be issued on Day 1, shortly after Trump is sworn in as president, two sources familiar with the plans told CNN.
+### ROBBERY/THEFT on 2025-01-20 00:52
+- Location: Lifesciencesworld.com
+- Description: How to Use Hydraulics in GTA 5 Introduction Grand Theft Auto V (GTA 5) is an open-world action-adventure game developed […]
+The post How to use hydraulics gta 5? appeared first on Life Sciences World.
 
 
-### HOMICIDE on 2025-01-19 18:05
-- Location: NDTV News
-- Description: The younger son of the first wife of a studio owner, who was shot dead in Jharkhand&#039;s Seraikela-Kharswan district a week ago, was arrested after he was found to be the conspirator of the murder, a police officer said on Sunday.
+### OTHER on 2025-01-20 00:48
+- Location: CleanTechnica
+- Description: I just had a long chat with a good friend who was basically an OG in Tesla world. We talked about all kinds of Tesla topics trying to understand where Tesla would be going in 2025 and beyond. We covered a variety of topics, pros and cons, opportunities and ri…
 
 
-### OTHER on 2025-01-19 18:05
+### OTHER on 2025-01-20 00:27
+- Location: Securityaffairs.com
+- Description: Critical flaws in WGS-804HPT switches could be chained to gain remote code execution on Planet Technology’s industrial devices. The Planet WGS-804HPT industrial switch is used in building and home automation networks to provide connectivity of Internet of thi…
+
+
+### OTHER on 2025-01-20 00:23
+- Location: The Punch
+- Description: The Edo State Police Command has deployed more men to secure the venue of the Edo State governorship election petition tribunal venue in Benin City, the state capital, following escalating tensions during the first week of hearing at the High Court Complex on…
+
+
+### OTHER on 2025-01-20 00:22
 - Location: Freerepublic.com
-- Description: How elite fears of social unrest and accusations of racism led the state to look away from industrial-scale abuse. Thanks to the numerous local inquiries and court cases, this much we do know about the grooming-gangs scandal. From at least the 1990s and likel…
+- Description: Democrats see the light. The Laken Riley deportation bill passed the Senate easily.Good News From Senate DemocratsBy a filibuster-proof margin, Senate Democrats Help Republicans Advance Immigration Crackdown.Ten Democrats sided with Republicans to advance the…
 
-
-### OTHER on 2025-01-19 18:00
-- Location: Breitbart News
-- Description: Incoming national security adviser Mike Waltz said Sunday on CBS's "State of the Union" that President-elect Donald Trump was "going to go after" paramilitary gangs operating at the U.S.-Mexico border.
-The post Mike Waltz: Trump Is ‘Going to Go After’ Paramil…
-
-
-### ASSAULT on 2025-01-19 17:48
-- Location: NDTV News
-- Description: A 30-year-old Bangladeshi national, who was arrested on Sunday on charges of stabbing actor Saif Ali Khan after breaking into his house, has reportedly confessed to the crime, saying &quot;haan, maine hi kiya hai (yes, I did it)&quot;.
-
-Analysis generated at: Mon Jan 20 18:15:58 UTC 2025
+Analysis generated at: Tue Jan 21 00:57:07 UTC 2025
