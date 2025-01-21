@@ -1,20 +1,20 @@
 # Crime Data Analysis
-Last updated: Tue Jan 21 12:39:21 UTC 2025
+Last updated: Tue Jan 21 18:16:57 UTC 2025
 
 ## Latest Analysis
 
-Loaded 10079 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-20 12:38:58
+Loaded 10170 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-20 18:12:02
 
 Incidents by source:
 source
-newsapi           9978
-chicago_pd         100
-chicago_police       1
+newsapi           10069
+chicago_pd          100
+chicago_police        1
 Name: count, dtype: int64
 
 Report saved to reports/latest_analysis.md
-tribution.svg)
+bution.svg)
 
 ## Source Distribution
 ![Source Distribution](images/source_distribution.svg)
@@ -24,29 +24,31 @@ tribution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-01-20 12:38
-- Location: NBC News
-- Description: Latest news and live updates on the inauguration of Donald Trump after his election victory. Follow live as the event unfolds in Washington, D.C.
+### HOMICIDE on 2025-01-20 18:12
+- Location: The Punch
+- Description: The father of Timilehin Ajayi, a gospel musician who gruesomely murdered his alleged girlfriend Salome Adaidu, has appealed to authorities for his son’s release. Ajayi, who released an album ‘God of the Earth’ in 2020 is currently in police custody after he w…
 
 
-### OTHER on 2025-01-20 12:37
-- Location: KSAT San Antonio
-- Description: President-elect Donald Trump says President Joe Biden's pardons of Dr. Anthony Fauci and retired Gen. Mark Milley are disgraceful.
+### OTHER on 2025-01-20 18:12
+- Location: The Punch
+- Description: The Ondo State Police Command on Monday, said it had arrested three persons who allegedly specialised in car stealing vehicles, using fabricated keys. The police said the suspects include, Temidayo Folajimi, Rotimi Akinsanoye and Waheed Adekanmbi. The trio wa…
 
 
-### OTHER on 2025-01-20 12:37
-- Location: Boredpanda.com
-- Description: “The man just walks away with a $700 fine. For running down my 12-year-old boy, who’s still in shock and is traumatised,” the boy's father said.
-The post “Male Karens In The Wild”: White Man Hits 12YO With Car, Police Say He Was “Racially Abused” first appear…
+### OTHER on 2025-01-20 18:11
+- Location: The Denver Post
+- Description: Images of the two cars released by Colorado State Patrol show the trooper's vehicle with significant front-end damage and the red Toyota with a crumpled passenger's side.
 
 
-### HOMICIDE on 2025-01-20 12:33
-- Location: Slashdot.org
-- Description: Indian police volunteer gets life sentence for rape, murder of Kolkata junior doctorCNN RG Kar: Life in prison for man in India doctor rape and murder caseBBC.com Indian court sentences a police volunteer to life in prison in the rape, killing of trainee doct…
+### HOMICIDE on 2025-01-20 18:05
+- Location: CBC News
+- Description: As President Biden finishes his term as U.S. president, one of his final acts was to grant executive clemency to Aim activist Leonard Peltier, who has spent over 50 years in jail for the murders of two FBI Agents, during the AIM movement in 1975.
 
 
-### OTHER on 2025-01-20 12:32
-- Location: Securityaffairs.com
-- Description: Researchers found malicious npm and PyPI packages capable of stealing and deleting sensitive data from infected systems. Socket researchers have identified multiple packages in the npm and Python Package Index (PyPI) repository designed to target Solana priva…
+### OTHER on 2025-01-20 18:00
+- Location: EFF
+- Description: Contents 
+1. Introduction
+2. Surveillance
+<ul><li>Foreign Intelligence Surveillance Act </li><li>Section 702</li><li>Facial Recognition Technology</li><li>Border Search and Immigration Surveillance</li><li>Surveillance Tech at the Border and the Virtual Wa…
 
-Analysis generated at: Tue Jan 21 12:39:21 UTC 2025
+Analysis generated at: Tue Jan 21 18:16:57 UTC 2025
