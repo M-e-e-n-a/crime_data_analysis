@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Jan 22 12:23:25 UTC 2025
+Last updated: Wed Jan 22 12:39:22 UTC 2025
 
 ## Latest Analysis
 
-Loaded 10302 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-21 12:14:07
+Loaded 10309 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-21 12:39:12
 
 Incidents by source:
 source
-newsapi           10201
+newsapi           10208
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,34 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-01-21 12:14
-- Location: CBS News
-- Description: After nearly 22 years in hiding, the two fugitives were arrested in near Barcelona.
+### ASSAULT on 2025-01-21 12:39
+- Location: Newsweek
+- Description: President Donald Trump pardoned about 1,500 people convicted in connection with the January 6, 2021, attack on the U.S. Capitol.
 
 
-### OTHER on 2025-01-21 12:13
-- Location: New York Post
-- Description: About 200 migrants who had their CBP One immigration appointments canceled when President Trump was sworn into office are refusing to leave the San Ysidro border checkpoint until they are seen.
+### OTHER on 2025-01-21 12:34
+- Location: Securityaffairs.com
+- Description: CERT-UA warned of scammers impersonating the agency, using fake AnyDesk requests to conduct fraudulent security audits. The Computer Emergency Response Team of Ukraine (CERT-UA) warned of cyber scams involving threat actors impersonating the agency by sending…
 
 
-### OTHER on 2025-01-21 12:09
-- Location: BBC News
-- Description: The country's federal police says it will increase efforts to deal with surging anti-Jewish crimes.
+### OTHER on 2025-01-21 12:34
+- Location: NDTV News
+- Description: Karnataka Chief Minister Siddaramaiah - under fire from the BJP over the alleged rape of a woman in Bengaluru last week - hit back with an ill-advised attempt at deflection, asking if no rape had been reported when the saffron party was in power.
 
 
-### OTHER on 2025-01-21 12:05
-- Location: Al Jazeera English
-- Description: Beginning his second term, Trump takes oath as 47th president, pledging to 'restore America promise'.
+### HOMICIDE on 2025-01-21 12:30
+- Location: CNA
+- Description: JERUSALEM: Israeli security forces launched an operation in the volatile West Bank city of Jenin, killing at least one Palestinian, officials said on Tuesday (Jan 21). The military said soldiers, police and intelligence services had begun a counter-terrorism …
 
 
-### OTHER on 2025-01-21 12:01
-- Location: The Denver Post
-- Description: As Coloradans waits anxiously for President Donald Trump’s mass deportation plan to begin – remember he has promised to call it Operation Aurora -- Denver's Mayor Mike Johnston has responded to the unknown with a plan that emphasizes our shared humanity and A…
+### OTHER on 2025-01-21 12:25
+- Location: EURACTIV
+- Description: Although most imagine coders tapping on a keyboard in a darkened room, in practice they are writing, researching and bringing systems and components together, which means repeatedly stopping to find more information.
 
-Analysis generated at: Wed Jan 22 12:23:25 UTC 2025
+
+
+
+
+UNITED NATIONS, March 20 (Reuters) - …
+
+Analysis generated at: Wed Jan 22 12:39:22 UTC 2025
