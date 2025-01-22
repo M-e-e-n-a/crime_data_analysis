@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Jan 22 01:37:20 UTC 2025
+Last updated: Wed Jan 22 06:17:47 UTC 2025
 
 ## Latest Analysis
 
-Loaded 10189 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-21 01:32:43
+Loaded 10231 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-21 06:02:52
 
 Incidents by source:
 source
-newsapi           10088
+newsapi           10130
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-01-21 01:32
-- Location: Slashdot.org
-- Description: Shooting involving border patrol agent investigated in VermontThe Associated Press US Border Patrol agent killed in Vermont traffic stop: DHSFox News Authorities investigating fatal shooting of Border Patrol agent on I-91WCAX I-91 partially closed in Newport …
+### SHOOTING on 2025-01-21 06:02
+- Location: New York Post
+- Description: “Coweta County Fire Rescue continues to be devastated by the tragic passing of Battalion Chief Bart Cauthen,” the fallen chief’s department said in a statement on Monday.
 
 
-### OTHER on 2025-01-21 01:30
-- Location: Daily Signal
-- Description: An amended version of the Laken Riley Act passed through the Senate Monday night with bipartisan support in a vote of 64 to 35.   “We... Read More
-The post Senate Passes Laken Riley Act in Bipartisan Vote appeared first on The Daily Signal.
+### OTHER on 2025-01-21 06:00
+- Location: Naturalnews.com
+- Description: Joe Biden’s presidency ends on January 20, 2025. There will likely be a media stampede to hallow his reign and trumpet his virtues. But Biden perpetually trampled his January 20, 2021, oath to “preserve, protect and defend the Constitution of the United State…
 
 
-### ASSAULT on 2025-01-21 01:22
-- Location: The Conversation Africa
-- Description: The new president has shown clemency to supporters who attacked the Capitol on Jan. 6, 2021.
+### OTHER on 2025-01-21 05:55
+- Location: BBC News
+- Description: Forty eight men detained since they fled China years ago risk being deported, rights groups say.
 
 
-### ASSAULT on 2025-01-21 01:22
-- Location: The Conversation Africa
-- Description: The new president has shown clemency to supporters who attacked the Capitol on Jan. 6, 2021.
+### HOMICIDE on 2025-01-21 05:34
+- Location: NDTV News
+- Description: The Mamata Banerjee government has challenged the trial court&#039;s life imprisonment order against the convict in RG Kar rape-murder case, demanding that he be given the death penalty.
 
 
-### HOMICIDE on 2025-01-21 01:21
-- Location: The Times of India
-- Description: A Kolkata court sentenced Sanjay Roy to life imprisonment for the rape and murder of a resident doctor. His mother, in her 70s, expressed relief that the death penalty was not given. Speaking through her closed door, she acknowledged the decision made by the …
+### SHOOTING on 2025-01-21 05:20
+- Location: Memeorandum.com
+- Description: VSP News Releases:
+Police respond following shooting involving Border Patrol agent in northern Vermont  —  The Vermont State Police is providing law-enforcement assistance following a shooting involving a U.S. Border Patrol agent on Interstate 91 in Coventry,…
 
-Analysis generated at: Wed Jan 22 01:37:20 UTC 2025
+Analysis generated at: Wed Jan 22 06:17:47 UTC 2025
