@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Jan 21 18:16:57 UTC 2025
+Last updated: Wed Jan 22 00:58:43 UTC 2025
 
 ## Latest Analysis
 
-Loaded 10170 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-20 18:12:02
+Loaded 10179 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-21 00:55:47
 
 Incidents by source:
 source
-newsapi           10069
+newsapi           10078
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,31 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-01-20 18:12
-- Location: The Punch
-- Description: The father of Timilehin Ajayi, a gospel musician who gruesomely murdered his alleged girlfriend Salome Adaidu, has appealed to authorities for his son’s release. Ajayi, who released an album ‘God of the Earth’ in 2020 is currently in police custody after he w…
+### SHOOTING on 2025-01-21 00:55
+- Location: HuffPost
+- Description: Hours after taking office, Trump signed an executive order pardoning over 1,500 rioters and commuting the sentences of some extremist group members.
 
 
-### OTHER on 2025-01-20 18:12
-- Location: The Punch
-- Description: The Ondo State Police Command on Monday, said it had arrested three persons who allegedly specialised in car stealing vehicles, using fabricated keys. The police said the suspects include, Temidayo Folajimi, Rotimi Akinsanoye and Waheed Adekanmbi. The trio wa…
+### HOMICIDE on 2025-01-21 00:54
+- Location: PBS
+- Description: The Department of Homeland Security's U.S. Customs and Border Protection said in a statement that the agent was killed Monday in the line of duty.
 
 
-### OTHER on 2025-01-20 18:11
-- Location: The Denver Post
-- Description: Images of the two cars released by Colorado State Patrol show the trooper's vehicle with significant front-end damage and the red Toyota with a crumpled passenger's side.
+### OTHER on 2025-01-21 00:54
+- Location: Freerepublic.com
+- Description: The incoming Trump administration is planning a large-scale immigration raid in Chicago next week, according to four people familiar with the planning, the first move in President-elect Donald Trump’s promised mass deportation campaign. The raid is expected t…
 
 
-### HOMICIDE on 2025-01-20 18:05
-- Location: CBC News
-- Description: As President Biden finishes his term as U.S. president, one of his final acts was to grant executive clemency to Aim activist Leonard Peltier, who has spent over 50 years in jail for the murders of two FBI Agents, during the AIM movement in 1975.
+### ROBBERY/THEFT on 2025-01-21 00:45
+- Location: VOA News
+- Description: WASHINGTON — Fresh off President Donald Trump's inauguration, the Senate on Monday passed a bill that would require federal authorities to detain migrants accused of theft and violent crimes, giving more weight to his plans to deport millions of migrants. It'…
 
 
-### OTHER on 2025-01-20 18:00
-- Location: EFF
-- Description: Contents 
-1. Introduction
-2. Surveillance
-<ul><li>Foreign Intelligence Surveillance Act </li><li>Section 702</li><li>Facial Recognition Technology</li><li>Border Search and Immigration Surveillance</li><li>Surveillance Tech at the Border and the Virtual Wa…
+### OTHER on 2025-01-21 00:38
+- Location: Fox News
+- Description: The Chicago Police Department vowed Monday to not comply with or assist federal agencies like ICE when it comes to deporting illegal immigrants.
 
-Analysis generated at: Tue Jan 21 18:16:57 UTC 2025
+Analysis generated at: Wed Jan 22 00:58:43 UTC 2025
