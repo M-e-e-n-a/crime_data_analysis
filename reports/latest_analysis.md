@@ -1,10 +1,10 @@
 
-Loaded 10422 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-22 01:23:00
+Loaded 10465 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-22 06:16:57
 
 Incidents by source:
 source
-newsapi           10321
+newsapi           10364
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-01-22 01:23
-- Location: Bangkok Post
-- Description: A delivery rider was killed when a car driver rammed his bike in a road rage incident on Sukhumvit Road in Watthana district of Bangkok on Tuesday afternoon. The driver was arrested and faces a murder charge.
+### OTHER on 2025-01-22 06:16
+- Location: Investing.com
+- Description: Analysis-Hamas' tight grip on Gaza complicates plan for lasting peace
 
 
-### HOMICIDE on 2025-01-22 01:22
-- Location: The Denver Post
-- Description: A preliminary investigation determined that a 2-year-old child had suffered a gunshot wound from a family member within the home, police said.
+### HOMICIDE on 2025-01-22 06:04
+- Location: Sky.com
+- Description: A 14-year-old boy has been arrested on suspicion of murder following a fatal stabbing in Birmingham.
 
 
-### HOMICIDE on 2025-01-22 01:21
-- Location: Freerepublic.com
-- Description: A UK teen unexpectedly pleaded guilty Monday to killing three girls and wounding 10 others at a Taylor Swift-themed dance class last summer — while also admitting to having an al-Qaida training manual. Axel Rudakubana, now 18, pleaded guilty to the horrific m…
+### ASSAULT on 2025-01-22 06:00
+- Location: Time
+- Description: Detectives in Australia are investigating whether foreign actors paying criminals are behind the recent string of antisemitic attacks.
 
 
-### ASSAULT on 2025-01-22 01:17
-- Location: ABC News
-- Description: President Donald Trump has pardoned or commuted the sentences of over 1,500 individuals involved in the Jan. 6, 2021, U.S. Capitol riot, including those convicted of assaulting police officers.
+### OTHER on 2025-01-22 06:00
+- Location: Naturalnews.com
+- Description: Former Oakland Mayor Sheng Thao and three co-defendants face an eight-count federal corruption indictment, including bribery, mail fraud and wire fraud. If convicted, Thao could face up to 95 years in prison for orchestrating a “pay-to-play” scheme involving …
 
 
-### ASSAULT on 2025-01-22 01:10
-- Location: KCCI Des Moines
-- Description: Nine Iowans charged in connection with the Jan. 6 attack on the U.S. Capitol are receiving pardons from President Donald Trump.
+### HOMICIDE on 2025-01-22 06:00
+- Location: Naturalnews.com
+- Description: A U.S. Border Patrol agent was fatally shot near the Canadian border in Vermont during an alleged assault on a federal officer. One suspect was killed, another injured and arrested, and Interstate 91 was closed for hours as authorities investigated. The incid…
 
-Analysis generated at: Thu Jan 23 01:35:41 UTC 2025
+Analysis generated at: Thu Jan 23 06:17:22 UTC 2025
