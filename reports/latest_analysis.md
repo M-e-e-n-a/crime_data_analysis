@@ -1,10 +1,10 @@
 
-Loaded 10550 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-22 12:38:23
+Loaded 10642 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-22 18:15:26
 
 Incidents by source:
 source
-newsapi           10449
+newsapi           10541
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,31 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-01-22 12:38
-- Location: ABC News
-- Description: A poll finds many U.S. adults support the idea of beefing up security at the southern border and undertaking some deportations
+### SHOOTING on 2025-01-22 18:15
+- Location: The Jerusalem Post
+- Description: Two students were shot at Antioch High School in Nashville by a fellow student on Wednesday, Metro Nashville P
 
 
-### HOMICIDE on 2025-01-22 12:37
-- Location: VOA News
-- Description: In November, China suffered the deadliest mass murder in the past decade. Seventy days later, on Monday, China executed the perpetrator, along with another killer responsible for a subsequent attack.
+### SHOOTING on 2025-01-22 18:11
+- Location: Newsweek
+- Description: Police are on the scene at Antioch High School near Nashville after shots were fired in the building on Wednesday.
 
 
-The speed of the verdict and punishment was applauded by …
+### SHOOTING on 2025-01-22 18:11
+- Location: TODAY
+- Description: Two students were shot in a Nashville high school cafeteria on Wednesday and the suspected shooter is “no longer a threat,” officials said.
 
 
-### HOMICIDE on 2025-01-22 12:36
-- Location: TheJournal.ie
-- Description: Kyle Clifford pleaded guilty to three counts of murder, one charge of false imprisonment and two counts of possession of offensive weapons.
+### SHOOTING on 2025-01-22 18:10
+- Location: Billings Gazette
+- Description: Grable and a 17-year-old allegedly entered a gas station and grabbed three cases of BuzzBallz. When a store employee threatened to call 911, Grable said “do you wanna get shot?”
 
 
-### OTHER on 2025-01-22 12:34
-- Location: CBS News
-- Description: Experts say the headless statue is from the Hellenistic period (between 323 and 31 BC), according to police.
+### ASSAULT on 2025-01-22 18:08
+- Location: road.cc
+- Description: The broadcaster made the claims in response to a viewer’s complaint, weeks after widespread criticism from cyclists and the Bicycle Association stating the episode “unjustifiably damaged” legal e-bike industry
 
-
-### OTHER on 2025-01-22 12:21
-- Location: Statetimes.in
-- Description: TRAFFIC POLICE HEADQUARTERS, J&K, JAMMU/SRINAGAR TRAFFIC PLAN & ADVISORY FOR 23-01-2025:- Subject to fair weather and better road conditions LMVs Passenger/Private Cars/HMVs shall be allowed from both sides on Jammu-Srinagar NHW (NH-44) viz from Jammu towards…
-
-Analysis generated at: Thu Jan 23 12:39:30 UTC 2025
+Analysis generated at: Thu Jan 23 18:16:47 UTC 2025
