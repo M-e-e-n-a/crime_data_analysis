@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Jan 23 06:17:22 UTC 2025
+Last updated: Thu Jan 23 12:23:41 UTC 2025
 
 ## Latest Analysis
 
-Loaded 10465 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-22 06:16:57
+Loaded 10546 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-22 12:21:56
 
 Incidents by source:
 source
-newsapi           10364
+newsapi           10445
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-01-22 06:16
-- Location: Investing.com
-- Description: Analysis-Hamas' tight grip on Gaza complicates plan for lasting peace
+### OTHER on 2025-01-22 12:21
+- Location: Statetimes.in
+- Description: TRAFFIC POLICE HEADQUARTERS, J&K, JAMMU/SRINAGAR TRAFFIC PLAN & ADVISORY FOR 23-01-2025:- Subject to fair weather and better road conditions LMVs Passenger/Private Cars/HMVs shall be allowed from both sides on Jammu-Srinagar NHW (NH-44) viz from Jammu towards…
 
 
-### HOMICIDE on 2025-01-22 06:04
-- Location: Sky.com
-- Description: A 14-year-old boy has been arrested on suspicion of murder following a fatal stabbing in Birmingham.
+### HOMICIDE on 2025-01-22 12:21
+- Location: Al Jazeera English
+- Description: Israeli forces continue operation in occupied West Bank city, a day after 10 Palestinians were killed.
 
 
-### ASSAULT on 2025-01-22 06:00
-- Location: Time
-- Description: Detectives in Australia are investigating whether foreign actors paying criminals are behind the recent string of antisemitic attacks.
+### HOMICIDE on 2025-01-22 12:21
+- Location: ABC News
+- Description: A 26-year-old man has pleaded guilty to the murder of a mother and two of her daughters at their family home just north of London last year, in an attack that involved a crossbow and a knife
 
 
-### OTHER on 2025-01-22 06:00
-- Location: Naturalnews.com
-- Description: Former Oakland Mayor Sheng Thao and three co-defendants face an eight-count federal corruption indictment, including bribery, mail fraud and wire fraud. If convicted, Thao could face up to 95 years in prison for orchestrating a “pay-to-play” scheme involving …
+### HOMICIDE on 2025-01-22 12:03
+- Location: The Times of India
+- Description: The Supreme Court has postponed the hearing on the suo-motu case concerning the rape and murder of a trainee doctor in Kolkata to January 29 due to lack of time. The case has garnered nationwide attention. Earlier, the convict received a life term imprisonmen…
 
 
-### HOMICIDE on 2025-01-22 06:00
-- Location: Naturalnews.com
-- Description: A U.S. Border Patrol agent was fatally shot near the Canadian border in Vermont during an alleged assault on a federal officer. One suspect was killed, another injured and arrested, and Interstate 91 was closed for hours as authorities investigated. The incid…
+### OTHER on 2025-01-22 12:00
+- Location: Vulture
+- Description: ‘The Vegetarian’ author’s latest, ‘We Do Not Part,’ is the very best kind of storytelling, poetic and ambiguous without ever shying away from horrible historic truths.
 
-Analysis generated at: Thu Jan 23 06:17:22 UTC 2025
+Analysis generated at: Thu Jan 23 12:23:41 UTC 2025
