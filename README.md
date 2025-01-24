@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Jan 24 00:57:42 UTC 2025
+Last updated: Fri Jan 24 01:35:45 UTC 2025
 
 ## Latest Analysis
 
-Loaded 10654 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-23 00:54:25
+Loaded 10665 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-23 01:31:45
 
 Incidents by source:
 source
-newsapi           10553
+newsapi           10564
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2025-01-23 00:54
-- Location: ABC News
-- Description: Lawyers for Sean “Diddy” Combs are suing a man they said had falsely claimed in interviews to possess videos implicating the music mogul in sexual assaults on celebrities
-
-
-### ROBBERY/THEFT on 2025-01-23 00:53
-- Location: VOA News
-- Description: WASHINGTON — The U.S. House of Representatives on Wednesday gave final approval to a bill that requires the detainment of unauthorized migrants accused of theft and violent crimes, marking the first legislation that President Donald Trump can sign as Congress…
-
-
-### HOMICIDE on 2025-01-23 00:39
-- Location: CNN
-- Description: President Donald Trump has issued a “full and unconditional pardon” to Washington, DC, police lieutenant Andrew Zabavsky and officer Terence Sutton for their roles in the death of 20-year-old Karon Hylton-Brown, a case that drew protests on the heels of the m…
-
-
-### SHOOTING on 2025-01-23 00:36
+### HOMICIDE on 2025-01-23 01:31
 - Location: The Punch
-- Description: Dennis Naku reports on the wellhead fire and oil spill devastating multiple communities in Rivers State’s Kalabari kingdom, as military, locals and operators deny responsibility It wasn’t me’ is a popular line from the song titled ‘Hot Shot’ released in 2000 …
+- Description: The Kebbi State Police Command has confirmed the arrest of Muhammad Sani, also known as Kado, and one other suspect in connection with the tragic shooting incident that claimed the life of a nine-year-old boy and left a seven-year-old critically injured. The …
 
 
-### OTHER on 2025-01-23 00:28
+### OTHER on 2025-01-23 01:30
+- Location: Investing.com
+- Description: US Justice Dept freezes its civil rights litigation
+
+
+### ROBBERY/THEFT on 2025-01-23 01:22
 - Location: The Punch
-- Description: The Lagos State Police Command has arrested an ex-convict, Kingsley Wanogho, who paraded himself as an officer of the Nigeria Army for alleged abduction and phone snatching in the Ikeja area of the state on Saturday. The arrest was contained in a statement on…
+- Description: The Lagos State Electricity Board has lamented that about N1.7bn is lost to vandalisation and theft of streetlight infrastructure and other electrical installations annually. The Public Lighting Representative of the board, Omotayo Halid, made this known on W…
 
-Analysis generated at: Fri Jan 24 00:57:42 UTC 2025
+
+### HOMICIDE on 2025-01-23 01:17
+- Location: The Times of India
+- Description: A Nashville high school shooting left one female student dead and another wounded. The 17-year-old shooter, also a student, killed himself after the shooting. The incident has sparked renewed calls for gun control. The high school, lacking metal detectors, wa…
+
+
+### OTHER on 2025-01-23 01:12
+- Location: Forbes
+- Description: "FBI: CIA," the third spinoff from the "FBI" mothership, has been put in development at CBS.
+
+Analysis generated at: Fri Jan 24 01:35:45 UTC 2025
