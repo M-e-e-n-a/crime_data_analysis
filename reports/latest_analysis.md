@@ -1,10 +1,10 @@
 
-Loaded 10834 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-23 12:34:19
+Loaded 10924 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-23 18:12:06
 
 Incidents by source:
 source
-newsapi           10733
+newsapi           10823
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-01-23 12:34
-- Location: New York Post
-- Description: Leaders in one Southern California city fed up with the state's immigration policies have voted to become a "non-sanctuary" city and ignore the state's sanctuary laws.
+### OTHER on 2025-01-23 18:12
+- Location: Newsbreak.com
+- Description: Law enforcement expert pushes back against the now-former Biden administration's claim that violent crime was at a 50-year low, says the administration "ma
 
 
-### ASSAULT on 2025-01-23 12:34
-- Location: Newsweek
-- Description: Donald Trump pardoned or commuted the sentences of the more than 1,500 people convicted in connection with the January 6, 2021 attack on the U.S. Capitol.
+### ASSAULT on 2025-01-23 18:05
+- Location: NBC News
+- Description: A Colorado crime lab analyst is facing more than 100 criminal counts in connection with allegations that she altered reports in sexual assault cases.
 
 
-### OTHER on 2025-01-23 12:33
-- Location: ABC News (AU)
-- Description: The ICC chief prosecutor has requested arrest warrants for senior Taliban leaders in Afghanistan, including Haibatullah Akhundzada, alleging crimes against humanity for widespread discrimination against women and girls.
+### HOMICIDE on 2025-01-23 18:01
+- Location: NBC News
+- Description: LONDON — A teenager who stabbed three young girls to death at a Taylor Swift-themed dance class in England was sentenced Thursday to more than 50 years in prison for what a judge called “the most extreme, shocking and exceptionally serious crime.”
 
 
-### HOMICIDE on 2025-01-23 12:33
-- Location: CNA
-- Description: LONDON: A British teenager who murdered three young girls at a Taylor Swift-themed dance event was obsessed with violence and genocide, prosecutors said on Thursday (Jan 23) after the killer was removed for repeatedly interrupting his sentencing. Axel Rudakub…
+### HOMICIDE on 2025-01-23 18:00
+- Location: PoPville
+- Description: From USA TODAY: "Trump pardons police officers convicted of murder, obstruction in man's death President Donald Trump pardoned two Washington, D.C. police officers convicted in the death of Karon Hylton-Brown, who was riding a moped on a sidewalk without a he…
 
 
-### HOMICIDE on 2025-01-23 12:33
-- Location: CNA
-- Description: LONDON : A British teenager on Thursday (Jan 23) repeatedly interrupted the start of his sentencing for murdering three young girls at a Taylor Swift-themed dance event last July, shouting from the dock that he was unwell before being removed. Axel Rudakubana…
+### ASSAULT on 2025-01-23 17:55
+- Location: Al Jazeera English
+- Description: Just hours into his second term, Trump pardons about 1,500 people charged in the January 6, 2021, Capitol attack.
 
-Analysis generated at: Fri Jan 24 12:38:27 UTC 2025
+Analysis generated at: Fri Jan 24 18:16:30 UTC 2025
