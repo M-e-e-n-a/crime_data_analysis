@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Jan 23 18:16:47 UTC 2025
+Last updated: Fri Jan 24 00:57:42 UTC 2025
 
 ## Latest Analysis
 
-Loaded 10642 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-22 18:15:26
+Loaded 10654 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-23 00:54:25
 
 Incidents by source:
 source
-newsapi           10541
+newsapi           10553
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-01-22 18:15
-- Location: The Jerusalem Post
-- Description: Two students were shot at Antioch High School in Nashville by a fellow student on Wednesday, Metro Nashville P
+### ASSAULT on 2025-01-23 00:54
+- Location: ABC News
+- Description: Lawyers for Sean “Diddy” Combs are suing a man they said had falsely claimed in interviews to possess videos implicating the music mogul in sexual assaults on celebrities
 
 
-### SHOOTING on 2025-01-22 18:11
-- Location: Newsweek
-- Description: Police are on the scene at Antioch High School near Nashville after shots were fired in the building on Wednesday.
+### ROBBERY/THEFT on 2025-01-23 00:53
+- Location: VOA News
+- Description: WASHINGTON — The U.S. House of Representatives on Wednesday gave final approval to a bill that requires the detainment of unauthorized migrants accused of theft and violent crimes, marking the first legislation that President Donald Trump can sign as Congress…
 
 
-### SHOOTING on 2025-01-22 18:11
-- Location: TODAY
-- Description: Two students were shot in a Nashville high school cafeteria on Wednesday and the suspected shooter is “no longer a threat,” officials said.
+### HOMICIDE on 2025-01-23 00:39
+- Location: CNN
+- Description: President Donald Trump has issued a “full and unconditional pardon” to Washington, DC, police lieutenant Andrew Zabavsky and officer Terence Sutton for their roles in the death of 20-year-old Karon Hylton-Brown, a case that drew protests on the heels of the m…
 
 
-### SHOOTING on 2025-01-22 18:10
-- Location: Billings Gazette
-- Description: Grable and a 17-year-old allegedly entered a gas station and grabbed three cases of BuzzBallz. When a store employee threatened to call 911, Grable said “do you wanna get shot?”
+### SHOOTING on 2025-01-23 00:36
+- Location: The Punch
+- Description: Dennis Naku reports on the wellhead fire and oil spill devastating multiple communities in Rivers State’s Kalabari kingdom, as military, locals and operators deny responsibility It wasn’t me’ is a popular line from the song titled ‘Hot Shot’ released in 2000 …
 
 
-### ASSAULT on 2025-01-22 18:08
-- Location: road.cc
-- Description: The broadcaster made the claims in response to a viewer’s complaint, weeks after widespread criticism from cyclists and the Bicycle Association stating the episode “unjustifiably damaged” legal e-bike industry
+### OTHER on 2025-01-23 00:28
+- Location: The Punch
+- Description: The Lagos State Police Command has arrested an ex-convict, Kingsley Wanogho, who paraded himself as an officer of the Nigeria Army for alleged abduction and phone snatching in the Ikeja area of the state on Saturday. The arrest was contained in a statement on…
 
-Analysis generated at: Thu Jan 23 18:16:47 UTC 2025
+Analysis generated at: Fri Jan 24 00:57:42 UTC 2025
