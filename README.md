@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Jan 24 01:35:45 UTC 2025
+Last updated: Fri Jan 24 06:17:15 UTC 2025
 
 ## Latest Analysis
 
-Loaded 10665 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-23 01:31:45
+Loaded 10743 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-23 06:15:52
 
 Incidents by source:
 source
-newsapi           10564
+newsapi           10642
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-01-23 01:31
-- Location: The Punch
-- Description: The Kebbi State Police Command has confirmed the arrest of Muhammad Sani, also known as Kado, and one other suspect in connection with the tragic shooting incident that claimed the life of a nine-year-old boy and left a seven-year-old critically injured. The …
+### SHOOTING on 2025-01-23 06:15
+- Location: New York Post
+- Description: Four San Antonio police officers were shot Wednesday night while responding to a “suicide in progress” call and a heavy presence of police were near an apartment complex trying to detain the suspect, authorities said.
 
 
-### OTHER on 2025-01-23 01:30
-- Location: Investing.com
-- Description: US Justice Dept freezes its civil rights litigation
+### OTHER on 2025-01-23 06:05
+- Location: Business Insider
+- Description: "They were very minor incidents, and it was time," Trump told Fox News host Sean Hannity.
 
 
-### ROBBERY/THEFT on 2025-01-23 01:22
-- Location: The Punch
-- Description: The Lagos State Electricity Board has lamented that about N1.7bn is lost to vandalisation and theft of streetlight infrastructure and other electrical installations annually. The Public Lighting Representative of the board, Omotayo Halid, made this known on W…
+### OTHER on 2025-01-23 06:05
+- Location: Boston Herald
+- Description: An estimated 11.7 million people are living in the U.S. illegally, and Immigration and Customs Enforcement currently has the budget to detain only about 41,000 people.
 
 
-### HOMICIDE on 2025-01-23 01:17
-- Location: The Times of India
-- Description: A Nashville high school shooting left one female student dead and another wounded. The 17-year-old shooter, also a student, killed himself after the shooting. The incident has sparked renewed calls for gun control. The high school, lacking metal detectors, wa…
+### HOMICIDE on 2025-01-23 06:05
+- Location: NDTV News
+- Description: Actor-comedian Kapil Sharma was sent a death threat via an email, allegedly originating from Pakistan.
 
 
-### OTHER on 2025-01-23 01:12
-- Location: Forbes
-- Description: "FBI: CIA," the third spinoff from the "FBI" mothership, has been put in development at CBS.
+### ASSAULT on 2025-01-23 06:04
+- Location: NDTV News
+- Description: &quot;I strongly believe he deserves a reward of at least Rs 11 lakh for saving India&#039;s favourite superstar,&quot; Mika Singh said
 
-Analysis generated at: Fri Jan 24 01:35:45 UTC 2025
+Analysis generated at: Fri Jan 24 06:17:15 UTC 2025
