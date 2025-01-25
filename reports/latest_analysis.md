@@ -1,10 +1,10 @@
 
-Loaded 10943 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-24 01:08:15
+Loaded 10983 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-24 06:13:30
 
 Incidents by source:
 source
-newsapi           10842
+newsapi           10882
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-01-24 01:08
-- Location: BBC News
-- Description: "I was scared he had come to beat me or finish me off," a government critic tells the BBC about his ordeal.
+### SHOOTING on 2025-01-24 06:13
+- Location: New York Post
+- Description: The Big Apple went five days without a single shooting victim in a milestone that hasn't been reached in 30 years, the NYPD announced Thursday night.
 
 
-### OTHER on 2025-01-24 01:08
-- Location: BBC News
-- Description: "I was scared he had come to beat me or finish me off," a government critic tells the BBC about his ordeal.
+### OTHER on 2025-01-24 05:58
+- Location: Nakedcapitalism.com
+- Description: Unlike many who are upset about Trump's win, Liz Theoharis and William Hartung focus building a broad-based opposition with policy goals
 
 
-### DRUG RELATED on 2025-01-24 01:07
-- Location: Stamfordadvocate.com
-- Description: Stamford police said a search turned up crack cocaine, powder cocaine, fentanyl, oxycodone pills, ecstasy pills and packaging material and scales.
+### HOMICIDE on 2025-01-24 05:51
+- Location: ABC News (AU)
+- Description: Australia's online safety regulator was in a legal stoush with Elon Musk's X last year as it sought to remove the video.
 
 
-### ROBBERY/THEFT on 2025-01-24 01:00
-- Location: Screen Rant
-- Description: Giancarlo Esposito has stolen the show in everything from Breaking Bad to The Mandalorian with his impressive talents.
+### OTHER on 2025-01-24 05:47
+- Location: Pluralistic.net
+- Description: None
 
 
-### ROBBERY/THEFT on 2025-01-24 00:56
-- Location: BBC News
-- Description: Keir Starmer says that terrorism has 'changed' and that the problem must be urgently addressed. But the system is fluid when it comes to what classifies as terrorism
+### ASSAULT on 2025-01-24 05:46
+- Location: Freerepublic.com
+- Description: Shalom Lappin is the author of The New Antisemitism: The Resurgence of an Ancient Hatred in the Modern World (Polity) which won the 2024 LCSCA Book Prize Since the Hamas terrorist attack of 7 October 2023, Diaspora Jews have found themselves under sustained a…
 
-Analysis generated at: Sat Jan 25 01:24:35 UTC 2025
+Analysis generated at: Sat Jan 25 06:15:29 UTC 2025
