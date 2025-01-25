@@ -1,10 +1,10 @@
 
-Loaded 10937 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-24 00:51:51
+Loaded 10943 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-24 01:08:15
 
 Incidents by source:
 source
-newsapi           10836
+newsapi           10842
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-01-24 00:51
-- Location: CBC News
-- Description: A plan to put a freeze on new supportive housing units in Vancouver's Downtown Eastside is drawing criticism from those who live and work in the community.
-
-
-### SHOOTING on 2025-01-24 00:47
-- Location: ABC News
-- Description: A Massachusetts man was found to be carrying a gun after attending a tour of the U.S. Capitol, police officials told ABC News on Thursday.
-
-
-### SHOOTING on 2025-01-24 00:45
-- Location: CBS News
-- Description: Police are investigating the motive behind the school shooting in Nashville, Tennessee at Antioch High School. CBS News correspondent Nicole Valdes reports.
-
-
-### HOMICIDE on 2025-01-24 00:41
-- Location: NDTV News
-- Description: A wanted shooter involved in the murder of a crew member of Air India last year in Greater Noida was arrested after an encounter on Thursday, police said.
-
-
-### HOMICIDE on 2025-01-24 00:39
+### OTHER on 2025-01-24 01:08
 - Location: BBC News
-- Description: The company's former chief executive Brian Thompson was shot and killed in December.
+- Description: "I was scared he had come to beat me or finish me off," a government critic tells the BBC about his ordeal.
 
-Analysis generated at: Sat Jan 25 00:53:56 UTC 2025
+
+### OTHER on 2025-01-24 01:08
+- Location: BBC News
+- Description: "I was scared he had come to beat me or finish me off," a government critic tells the BBC about his ordeal.
+
+
+### DRUG RELATED on 2025-01-24 01:07
+- Location: Stamfordadvocate.com
+- Description: Stamford police said a search turned up crack cocaine, powder cocaine, fentanyl, oxycodone pills, ecstasy pills and packaging material and scales.
+
+
+### ROBBERY/THEFT on 2025-01-24 01:00
+- Location: Screen Rant
+- Description: Giancarlo Esposito has stolen the show in everything from Breaking Bad to The Mandalorian with his impressive talents.
+
+
+### ROBBERY/THEFT on 2025-01-24 00:56
+- Location: BBC News
+- Description: Keir Starmer says that terrorism has 'changed' and that the problem must be urgently addressed. But the system is fluid when it comes to what classifies as terrorism
+
+Analysis generated at: Sat Jan 25 01:24:35 UTC 2025
