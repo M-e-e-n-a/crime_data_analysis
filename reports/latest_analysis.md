@@ -1,10 +1,10 @@
 
-Loaded 11062 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-24 12:16:36
+Loaded 11068 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-24 12:30:18
 
 Incidents by source:
 source
-newsapi           10961
+newsapi           10967
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-01-24 12:16
-- Location: Marca
-- Description: A woman was sentenced to five years in prison and one year of probation by the Porter Superior Court in Indiana, after she pleaded guilty to reckless homicide, after admitting that
+### OTHER on 2025-01-24 12:30
+- Location: Screen Rant
+- Description: These Far Side comics are even funnier for any fan of Gary Larson who also loves superheroes, including Superman, Wolverine and Iron Man.
 
 
-### OTHER on 2025-01-24 12:15
-- Location: The Federalist
-- Description: Gov. Braun should defund the left-wing Indiana Legal Services, which seeks to undermine Indiana values with 'nonbinary' driver's licenses.
+### OTHER on 2025-01-24 12:27
+- Location: The Punch
+- Description: Afghanistan’s Taliban government on Friday said an arrest warrant sought by the International Criminal Court for its leaders was “politically motivated.” It comes a day after the ICC chief prosecutor said he was seeking warrants against senior Taliban leaders…
 
 
-### OTHER on 2025-01-24 12:14
-- Location: New York Post
-- Description: "The state’s policies are so counter to good governance and good law enforcement that Huntington Beach is just fed up," City Attorney Michael Gates told The Post.
+### OTHER on 2025-01-24 12:26
+- Location: Forbes
+- Description: Delays, delays and more delays—here's what you need to know as new information is confirmed.
 
 
-### OTHER on 2025-01-24 12:09
-- Location: NDTV News
-- Description: Afghanistan&#039;s Taliban government said on Friday an arrest warrant sought by the International Criminal Court (ICC) for its leaders was &quot;politically motivated&quot;.
+### OTHER on 2025-01-24 12:24
+- Location: LADbible
+- Description: Police photos taken of the raw materials for the poison ricin showed that Axel Rudakubana could have poisoned thousands of people.
 
 
-### HOMICIDE on 2025-01-24 12:00
-- Location: BBC News
-- Description: Dylan Thomas murdered his friend William Bush at the house they shared on Christmas Eve.
+### OTHER on 2025-01-24 12:23
+- Location: Christiantoday.com
+- Description: The report says, "The Iranian government seems to have intensified its efforts to isolate and financially undermine the Christian community as part of a broader strategy to suppress its growth and influence."
 
-Analysis generated at: Sat Jan 25 12:20:18 UTC 2025
+Analysis generated at: Sat Jan 25 12:35:08 UTC 2025
