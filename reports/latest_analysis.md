@@ -1,10 +1,10 @@
 
-Loaded 11159 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-24 18:07:44
+Loaded 11175 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-25 00:45:00
 
 Incidents by source:
 source
-newsapi           11058
+newsapi           11074
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,38 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-01-24 18:07
-- Location: Biztoc.com
-- Description: The FBI announced on Friday the arrest of a Washington state woman in connection with the fatal shooting of a U.S. Border Patrol agent in Vermont.
-Teresa Youngblut, 21, has been charged in the killing of Border Patrol Agent David Maland, which occurred on Mon…
+### SHOOTING on 2025-01-25 00:45
+- Location: ProPublica
+- Description: by Phoebe Petrovic, Wisconsin Watch 
+ 
+ 
 
 
-### HOMICIDE on 2025-01-24 18:05
-- Location: The Denver Post
-- Description: Ricardo Vazquez pleaded guilty to attempted first-degree murder and a drug felony Friday, and faces decades in prison.
+
+ 
+This article was produced for ProPublica’s Local Reporting Network in partnership with Wisconsin Watch. Sign up for Dispatches to get stories like this one as soon as they are published. 
+
+Moments before 15-year-o…
 
 
-### HOMICIDE on 2025-01-24 18:01
-- Location: Wonkette.com
-- Description: 115 dead fetuses in coolers are 115 dead fetuses in coolers too many.
+### HOMICIDE on 2025-01-25 00:33
+- Location: Slashdot.org
+- Description: Arrest Made in Connection With Shooting Death of Border Patrol AgentThe New York Times Woman arrested in fatal shooting of Border Patrol agent in VermontCNN What to know about the fatal shooting of a US Border Patrol agent in VermontYahoo! Voices Suspects in …
 
 
-### HOMICIDE on 2025-01-24 18:00
-- Location: Newsweek
-- Description: Teresa Youngblut, 21, has been charged in the killing of Vermont-based Border Patrol Agent David Maland, which occurred on Monday.
+### SHOOTING on 2025-01-25 00:31
+- Location: TMZ
+- Description: More proof Hollywood is a small town ... the first witness at A$AP Rocky's gun trial was an LAPD officer, who just so happens to be the son of Erika Jayne. Thomas Zizzo was called to the stand Friday as Rocky's trial got underway in a downtown Los…
+ Permalink
 
 
-### HOMICIDE on 2025-01-24 17:55
-- Location: WSB Atlanta
-- Description: Jeremy Malone pleaded guilty to one count of attempted murder, four counts of aggravated assault and other charges.
+### ROBBERY/THEFT on 2025-01-25 00:30
+- Location: Richmond.com
+- Description: Chesterfield County police on Friday released images of two people who they say are suspects in the robbery of a business on Friday afternoon.
 
-Analysis generated at: Sat Jan 25 18:14:34 UTC 2025
+
+### SHOOTING on 2025-01-25 00:27
+- Location: The Star Online
+- Description: KUALA LUMPUR: Malaysian Maritime Enforcement Agency (MMEA) officers on patrol shot two foreign men in waters off Tanjung Rhu, Banting on Friday (Jan 24) morning after allegedly being attacked by them. Read full story
+
+Analysis generated at: Sun Jan 26 00:59:22 UTC 2025
