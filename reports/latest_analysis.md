@@ -1,10 +1,10 @@
 
-Loaded 11175 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-25 00:45:00
+Loaded 11178 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-25 01:31:30
 
 Incidents by source:
 source
-newsapi           11074
+newsapi           11077
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -19,6 +19,21 @@ bution.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### OTHER on 2025-01-25 01:31
+- Location: New York Post
+- Description: A longtime state senator in Oklahoma was caught-on-camera going head-to-head with a sheriff deputy after a traffic stop dissolved into a "very verbal" ordeal.
+
+
+### OTHER on 2025-01-25 01:25
+- Location: CinemaBlend
+- Description: Joke's on me!
+
+
+### OTHER on 2025-01-25 01:07
+- Location: Electronicintifada.net
+- Description: Incoming president issues executive orders pushing violence and lawlessness.
+
 
 ### SHOOTING on 2025-01-25 00:45
 - Location: ProPublica
@@ -38,20 +53,4 @@ Moments before 15-year-o…
 - Location: Slashdot.org
 - Description: Arrest Made in Connection With Shooting Death of Border Patrol AgentThe New York Times Woman arrested in fatal shooting of Border Patrol agent in VermontCNN What to know about the fatal shooting of a US Border Patrol agent in VermontYahoo! Voices Suspects in …
 
-
-### SHOOTING on 2025-01-25 00:31
-- Location: TMZ
-- Description: More proof Hollywood is a small town ... the first witness at A$AP Rocky's gun trial was an LAPD officer, who just so happens to be the son of Erika Jayne. Thomas Zizzo was called to the stand Friday as Rocky's trial got underway in a downtown Los…
- Permalink
-
-
-### ROBBERY/THEFT on 2025-01-25 00:30
-- Location: Richmond.com
-- Description: Chesterfield County police on Friday released images of two people who they say are suspects in the robbery of a business on Friday afternoon.
-
-
-### SHOOTING on 2025-01-25 00:27
-- Location: The Star Online
-- Description: KUALA LUMPUR: Malaysian Maritime Enforcement Agency (MMEA) officers on patrol shot two foreign men in waters off Tanjung Rhu, Banting on Friday (Jan 24) morning after allegedly being attacked by them. Read full story
-
-Analysis generated at: Sun Jan 26 00:59:22 UTC 2025
+Analysis generated at: Sun Jan 26 01:37:49 UTC 2025
