@@ -1,10 +1,10 @@
 
-Loaded 11178 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-25 01:31:30
+Loaded 11217 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-25 06:15:10
 
 Incidents by source:
 source
-newsapi           11077
+newsapi           11116
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,37 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-01-25 01:31
-- Location: New York Post
-- Description: A longtime state senator in Oklahoma was caught-on-camera going head-to-head with a sheriff deputy after a traffic stop dissolved into a "very verbal" ordeal.
+### OTHER on 2025-01-25 06:15
+- Location: CBC News
+- Description: B.C. Housing Minister Ravi Kahlon says Vancouver Mayor Ken Sim's new plan for the Downtown Eastside will make the community less safe and lead to more homelessness.
 
 
-### OTHER on 2025-01-25 01:25
-- Location: CinemaBlend
-- Description: Joke's on me!
+### HOMICIDE on 2025-01-25 06:00
+- Location: The Irish Times
+- Description: On the first anniversary of his death, Ian Baily’s sister Kay Reynolds describes the impact the accusation that the west Cork-based journalist murdered Sophie Toscan du Plantier had on their family
 
 
-### OTHER on 2025-01-25 01:07
-- Location: Electronicintifada.net
-- Description: Incoming president issues executive orders pushing violence and lawlessness.
+### OTHER on 2025-01-25 06:00
+- Location: The Irish Times
+- Description: Alongside the aggression, sarcasm and triumphalism, there were hints of the techno-imperialism that has recently been added to the Maga mix
 
 
-### SHOOTING on 2025-01-25 00:45
-- Location: ProPublica
-- Description: by Phoebe Petrovic, Wisconsin Watch 
- 
- 
+### OTHER on 2025-01-25 05:59
+- Location: Borderlandbeat.com
+- Description: “Socalj” for Borderland Beat A five-month investigation in Canada has resulted in the largest cocaine seizure in Toronto Police Service’s hi...
 
 
+### OTHER on 2025-01-25 05:56
+- Location: Boston Herald
+- Description: I never thought that my column would be about anything other than the Inauguration of America’s 47th president, Donald Trump, and his visionary quest to bring America into a Golden Age. But then we had the pardons. They were all historic in nature.
 
- 
-This article was produced for ProPublica’s Local Reporting Network in partnership with Wisconsin Watch. Sign up for Dispatches to get stories like this one as soon as they are published. 
-
-Moments before 15-year-o…
-
-
-### HOMICIDE on 2025-01-25 00:33
-- Location: Slashdot.org
-- Description: Arrest Made in Connection With Shooting Death of Border Patrol AgentThe New York Times Woman arrested in fatal shooting of Border Patrol agent in VermontCNN What to know about the fatal shooting of a US Border Patrol agent in VermontYahoo! Voices Suspects in …
-
-Analysis generated at: Sun Jan 26 01:37:49 UTC 2025
+Analysis generated at: Sun Jan 26 06:15:33 UTC 2025
