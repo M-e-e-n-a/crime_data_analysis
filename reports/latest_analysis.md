@@ -44,4 +44,4 @@ bution.svg)
 - Location: NPR
 - Description: Pop culture critic Linda Holmes doesn't want battles or competition in her games — but she loves a satisfying puzzle she can figure out at her own pace. Sound like you, too? Here are recommendations.
 
-Analysis generated at: Sun Jan 26 12:20:27 UTC 2025
+Analysis generated at: Sun Jan 26 12:34:49 UTC 2025
