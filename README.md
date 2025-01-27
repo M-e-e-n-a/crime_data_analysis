@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Jan 27 06:17:58 UTC 2025
+Last updated: Mon Jan 27 12:23:48 UTC 2025
 
 ## Latest Analysis
 
-Loaded 11368 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-26 06:05:33
+Loaded 11404 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-26 12:21:45
 
 Incidents by source:
 source
-newsapi           11267
+newsapi           11303
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-01-26 06:05
-- Location: Fox News
-- Description: Connecticut is set to pay nearly $5.9 million to the family of a disabled man who was wrongly imprisoned in his 1992 murder conviction before he was freed in 2015.
+### OTHER on 2025-01-26 12:21
+- Location: CBS News
+- Description: The following is the full transcript of an interview with Vice President JD Vance on "Face the Nation with Margaret Brennan" that aired on Jan. 26, 2025.
 
 
-### OTHER on 2025-01-26 06:00
-- Location: Naturalnews.com
-- Description: Smart City Burnout: Every major city slated for transformation into a “smart city” has recently experienced devastating fires, suggesting a pattern rather than mere coincidence. These fires often start and spread rapidly, leaving little time for effective fir…
+### DRUG RELATED on 2025-01-26 12:19
+- Location: Freerepublic.com
+- Description: A highly sought-after drug kingpin was captured when officials tracked his wife’s social media account and pinpointed his location during their lavish European vacation. Luis Manuel Picado Grijalba, 43, was arrested at a London airport in December after he wa…
 
 
-### OTHER on 2025-01-26 06:00
-- Location: Naturalnews.com
-- Description: A U-Haul truck carrying 31 allegedly smuggled illegal immigrants was apprehended by authorities in Coral Gables, Florida. The 31 illegal immigrants – 16 Chinese women, 15 Chinese men, one Cuban man and one Ecuadorian woman – in the U-Haul were picked up along…
+### HOMICIDE on 2025-01-26 12:07
+- Location: Antaranews.com
+- Description: Indonesia&#39;s Ministry of Migrant Workers Protection (P2MI) has urged the Malaysian government to investigate a shooting incident involving officers of the ...
 
 
-### ASSAULT on 2025-01-26 06:00
-- Location: Naturalnews.com
-- Description: Former President Joe Biden issued a series of pardons to high-profile figures, including Dr. Anthony Fauci, retired Gen. Mark Milley and House committee members investigating the Jan. 6 Capitol attack. The pardons mark a dramatic departure from traditional pr…
+### HOMICIDE on 2025-01-26 11:51
+- Location: NDTV News
+- Description: Dylan Thomas, 24, has been sentenced to life in prison for the brutal murder of his best friend, William Bush, 23, on December 24, 2023.
 
 
-### SHOOTING on 2025-01-26 05:52
-- Location: 7NEWS.com.au
-- Description: Man arrested after allegedly shooting gun near children at Coopernook in NSW Mid North Coast7news.com.au
+### ROBBERY/THEFT on 2025-01-26 11:46
+- Location: New York Post
+- Description: President Trump declared that “the weaponization of our Justice Department will end” during his second Inaugural Address.
 
-Analysis generated at: Mon Jan 27 06:17:58 UTC 2025
+Analysis generated at: Mon Jan 27 12:23:48 UTC 2025
