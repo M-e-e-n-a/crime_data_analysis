@@ -1,10 +1,10 @@
 
-Loaded 11325 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-25 18:02:11
+Loaded 11342 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-26 00:56:31
 
 Incidents by source:
 source
-newsapi           11224
+newsapi           11241
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-01-25 18:02
-- Location: Just Jared
-- Description: A$AP Rocky‘s assault trial has officially begun. If you were unaware, the 36-year-old rapper, whose legal name is Rakim Mayers, was charged with two counts of assault with a semiautomatic firearm in August 2022. He was accused of shooting his former friend A$…
-
-
-### OTHER on 2025-01-25 18:00
-- Location: GamesRadar+
-- Description: This is the stuff nightmares are made of
-
-
-### HOMICIDE on 2025-01-25 17:55
-- Location: Statetimes.in
-- Description: JAMMU: A man allegedly shot dead his wife following an argument over marital issue in Reasi district of Jammu and Kashmir on Saturday, police officials said. The deceased was identified as Vaishno Devi (25) and her body is being brought from her remote villag…
-
-
-### OTHER on 2025-01-25 17:51
+### OTHER on 2025-01-26 00:56
 - Location: Freerepublic.com
-- Description: A Florida man ​has been arrested for making “violent” threats against President Trump, police said. Shannon Depararro Atkins​ allegedly made posts on social media targeting the ​Commander-in-Chief. Atkins, 46, was arrested just before 7:30 p.m. Friday during …
+- Description: Police officers in Long Beach rescued three teenage girls who were deemed to be victims of human trafficking, and placed a man under arrest, authorities confirmed. According to the Long Beach Police Department, officers in the North Division were on patrol wh…
 
 
-### OTHER on 2025-01-25 17:33
-- Location: CinemaBlend
-- Description: Where you lead, we will follow!
+### HOMICIDE on 2025-01-26 00:51
+- Location: The Punch
+- Description: The Niger State Police have arrested Jamilu Saidu, a resident of Kumbashi District in Mariga Local Government Area, for allegedly causing the death of 30-year-old Iliyasu Aminu at a wedding event. The spokesperson for the command, Wasiu Abiodun, confirmed the…
 
-Analysis generated at: Sun Jan 26 18:15:28 UTC 2025
+
+### HOMICIDE on 2025-01-26 00:45
+- Location: ABC News (AU)
+- Description: Police charge a 75-year-old woman with the alleged murder of her roommate at the Bethanie Waters Aged Care Home in Port Kennedy, south of Perth.
+
+
+### HOMICIDE on 2025-01-26 00:45
+- Location: ABC News (AU)
+- Description: Police charge a 75-year-old woman with the alleged murder of her retirement village roommate in Port Kennedy, south of Perth.
+
+
+### HOMICIDE on 2025-01-26 00:44
+- Location: The Punch
+- Description: Osun State Police Command on Saturday said its detectives have commenced an investigation to unravel the identities of some assailants who stabbed a 200-level student of Bowen University, Iwo, Paul Thinker, to death. Speaking exclusively with Sunday PUNCH on …
+
+Analysis generated at: Mon Jan 27 00:58:37 UTC 2025
