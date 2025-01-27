@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Jan 27 01:37:12 UTC 2025
+Last updated: Mon Jan 27 06:17:58 UTC 2025
 
 ## Latest Analysis
 
-Loaded 11345 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-26 01:12:57
+Loaded 11368 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-26 06:05:33
 
 Incidents by source:
 source
-newsapi           11244
+newsapi           11267
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-01-26 01:12
-- Location: Newsbot3000.com
-- Description: Hi everyone, I made this little site where AI analyzes the news stories (currently CNN only, I will add more sources later) and extracts the summaries from the articles to show you the important bits. It uses embeddings / vector search to show the news by key…
-
-
-### OTHER on 2025-01-26 01:10
+### HOMICIDE on 2025-01-26 06:05
 - Location: Fox News
-- Description: Three Venezuelan gang members in the country illegally were arrested by ICE this week as President Donald Trump ramps up his promised mass deportations his first week in office.
+- Description: Connecticut is set to pay nearly $5.9 million to the family of a disabled man who was wrongly imprisoned in his 1992 murder conviction before he was freed in 2015.
 
 
-### OTHER on 2025-01-26 00:59
-- Location: The Punch
-- Description: A former Director General of the Land Forces Simulation Centre and ex-director of procurement at the Defence Headquarters, Maj. Gen. Dayo Olukoju (retd) speaks with Imoleayo Oyedeyi on how porous borders and soft immigration policies of the Economic Community…
+### OTHER on 2025-01-26 06:00
+- Location: Naturalnews.com
+- Description: Smart City Burnout: Every major city slated for transformation into a “smart city” has recently experienced devastating fires, suggesting a pattern rather than mere coincidence. These fires often start and spread rapidly, leaving little time for effective fir…
 
 
-### OTHER on 2025-01-26 00:56
-- Location: Freerepublic.com
-- Description: Police officers in Long Beach rescued three teenage girls who were deemed to be victims of human trafficking, and placed a man under arrest, authorities confirmed. According to the Long Beach Police Department, officers in the North Division were on patrol wh…
+### OTHER on 2025-01-26 06:00
+- Location: Naturalnews.com
+- Description: A U-Haul truck carrying 31 allegedly smuggled illegal immigrants was apprehended by authorities in Coral Gables, Florida. The 31 illegal immigrants – 16 Chinese women, 15 Chinese men, one Cuban man and one Ecuadorian woman – in the U-Haul were picked up along…
 
 
-### HOMICIDE on 2025-01-26 00:51
-- Location: The Punch
-- Description: The Niger State Police have arrested Jamilu Saidu, a resident of Kumbashi District in Mariga Local Government Area, for allegedly causing the death of 30-year-old Iliyasu Aminu at a wedding event. The spokesperson for the command, Wasiu Abiodun, confirmed the…
+### ASSAULT on 2025-01-26 06:00
+- Location: Naturalnews.com
+- Description: Former President Joe Biden issued a series of pardons to high-profile figures, including Dr. Anthony Fauci, retired Gen. Mark Milley and House committee members investigating the Jan. 6 Capitol attack. The pardons mark a dramatic departure from traditional pr…
 
-Analysis generated at: Mon Jan 27 01:37:12 UTC 2025
+
+### SHOOTING on 2025-01-26 05:52
+- Location: 7NEWS.com.au
+- Description: Man arrested after allegedly shooting gun near children at Coopernook in NSW Mid North Coast7news.com.au
+
+Analysis generated at: Mon Jan 27 06:17:58 UTC 2025
