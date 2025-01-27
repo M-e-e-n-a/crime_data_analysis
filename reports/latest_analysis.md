@@ -1,10 +1,10 @@
 
-Loaded 11404 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-26 12:21:45
+Loaded 11405 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-26 12:27:30
 
 Incidents by source:
 source
-newsapi           11303
+newsapi           11304
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -19,6 +19,11 @@ bution.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### HOMICIDE on 2025-01-26 12:27
+- Location: fox6now.com
+- Description: A 64-year-old was fatally shot near 89th and Mill Road in Milwaukee early Sunday, Jan. 26.
+
 
 ### OTHER on 2025-01-26 12:21
 - Location: CBS News
@@ -39,9 +44,4 @@ bution.svg)
 - Location: NDTV News
 - Description: Dylan Thomas, 24, has been sentenced to life in prison for the brutal murder of his best friend, William Bush, 23, on December 24, 2023.
 
-
-### ROBBERY/THEFT on 2025-01-26 11:46
-- Location: New York Post
-- Description: President Trump declared that “the weaponization of our Justice Department will end” during his second Inaugural Address.
-
-Analysis generated at: Mon Jan 27 12:23:48 UTC 2025
+Analysis generated at: Mon Jan 27 12:39:19 UTC 2025
