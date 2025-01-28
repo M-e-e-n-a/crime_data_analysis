@@ -1,10 +1,10 @@
 
-Loaded 11484 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-27 01:30:35
+Loaded 11505 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-27 06:05:39
 
 Incidents by source:
 source
-newsapi           11383
+newsapi           11404
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,32 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-01-27 01:30
-- Location: Legalinsurrection.com
-- Description: The American Association of University Professors once stood firmly against systematic academic boycotts as a violation of academic freedom, but that has changed as anti-Israel activists have captured the group.
-The post Anti-Israel Politics Trump Academic Fr…
+### DRUG RELATED on 2025-01-27 06:05
+- Location: NDTV News
+- Description: A drug kingpin, who was enjoying a vacation with his wife in the United Kingdom, was arrested after her partner&#039;s social media posts revealed their whereabouts.
 
 
-### DRUG RELATED on 2025-01-27 01:30
-- Location: VOA News
-- Description: FREETOWN, Sierra Leone — Sierra Leone's information ministry said Sunday it was investigating media reports that European cocaine kingpin Jos Leijdekkers is in the country and benefiting from high-level protection there.
+### OTHER on 2025-01-27 06:00
+- Location: Naturalnews.com
+- Description: President Donald Trump authorized DHS and ICE to review the cases of 1.5 million migrants who entered the U.S. under Biden-era parole programs, signaling a major shift in immigration policy. Biden’s programs, including TPS, the CBP One app and CHNV parole fli…
 
 
-Two sources told Reuters on Friday t…
+### OTHER on 2025-01-27 06:00
+- Location: The Irish Times
+- Description: Hutch is suspected of helping run a criminal organisation, an offence which can carry a life sentence
 
 
-### OTHER on 2025-01-27 01:08
-- Location: NBC News
-- Description: Immigration enforcement operations unfolded across multiple cities Sunday, marking what President Donald Trump has called the beginning of an era of mass deportations that would primarily target migrants with criminal backgrounds but in which concerns remain …
+### ROBBERY/THEFT on 2025-01-27 05:44
+- Location: New York Post
+- Description: “You don’t have to be Sherlock Holmes to work out that someone from the gang probably watched the program at some point. They must have realized the rich pickings to be had from the area.”…
 
 
-### OTHER on 2025-01-27 00:44
-- Location: CBS News
-- Description: News of the protest spread across social media over the weekend, inviting people to "show up & speak up for those who can't."
+### SHOOTING on 2025-01-27 05:35
+- Location: Antaranews.com
+- Description: Indonesia&#39;s House of Representatives (DPR) plans to establish a team tasked with monitoring the handling of a shooting incident targeting Indonesian ...
 
-
-### OTHER on 2025-01-27 00:25
-- Location: Freerepublic.com
-- Description: A Florida Democrat Party official was arrested on charges of transporting child sex abuse material after sending child porn to an undercover police officer. Matthew Inman, 39, who served as Orange County’s Democratic Party treasurer in Orlando, Florida, was a…
-
-Analysis generated at: Tue Jan 28 01:35:04 UTC 2025
+Analysis generated at: Tue Jan 28 06:17:08 UTC 2025
