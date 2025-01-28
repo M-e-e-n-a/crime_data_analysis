@@ -1,10 +1,10 @@
 
-Loaded 11470 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-26 18:13:45
+Loaded 11481 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-27 00:44:54
 
 Incidents by source:
 source
-newsapi           11369
+newsapi           11380
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-01-26 18:13
-- Location: Screen Rant
-- Description: High Potential season 1, episode 9 has set a viewership record for the ABC crime drama, continuing to boast impressive ratings as a new show.
+### OTHER on 2025-01-27 00:44
+- Location: CBS News
+- Description: News of the protest spread across social media over the weekend, inviting people to "show up & speak up for those who can't."
 
 
-### HOMICIDE on 2025-01-26 17:52
-- Location: Newsbreak.com
-- Description: The police killing of George Floyd in 2020 in the United States was an appalling act involving a group of officers who did not place much, if any, value o
+### OTHER on 2025-01-27 00:25
+- Location: Freerepublic.com
+- Description: A Florida Democrat Party official was arrested on charges of transporting child sex abuse material after sending child porn to an undercover police officer. Matthew Inman, 39, who served as Orange County’s Democratic Party treasurer in Orlando, Florida, was a…
 
 
-### HOMICIDE on 2025-01-26 17:52
-- Location: Bossip
-- Description: Nearly 60 years after the assassination of Dr. Martin Luther King Jr., the truth behind one of the most consequential murders in U.S. history may soon come to light. But is America ready? According to Yahoo News, President Donald Trump, fresh off his second i…
+### OTHER on 2025-01-27 00:23
+- Location: Collider.com
+- Description: The Devastating True Story Behind 'I'm Still Here' Makes the Best Picture Nominee Even More Powerfulcollider.com
 
 
-### HOMICIDE on 2025-01-26 17:47
-- Location: Newsbreak.com
-- Description: The police killing of George Floyd in 2020 in the United States was an appalling act involving a group of officers who did not place much, if any, value o
+### HOMICIDE on 2025-01-27 00:21
+- Location: The Punch
+- Description: The Niger State Police Command has arrested one Jamilu Saidu for allegedly killing 30-year-old Iliyasu Aminu during a wedding ceremony at the Kumbashi District in the Mariga Local Government Area of the state. The state Police Public Relations Officer, Wasiu …
 
 
-### DRUG RELATED on 2025-01-26 17:44
-- Location: The Times of India
-- Description: Bengaluru: A joint team of Central Crime Branch (CCB) and Byadarahalli police raided a west Bengaluru house recently and arrested an MBA student on ch.
+### SHOOTING on 2025-01-27 00:21
+- Location: The Punch
+- Description: The Ogun State Police Command has arrested a 34-year-old man, Olayinka Isaac, for allegedly defiling and raping a 17-year-old girl in the Rounder area of Abeokuta, Ogun State. PUNCH Metro learnt on Sunday that the incident, which occurred at about on January …
 
-Analysis generated at: Mon Jan 27 18:16:48 UTC 2025
+Analysis generated at: Tue Jan 28 00:57:30 UTC 2025
