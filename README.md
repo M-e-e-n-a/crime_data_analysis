@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Jan 28 06:17:08 UTC 2025
+Last updated: Tue Jan 28 12:23:01 UTC 2025
 
 ## Latest Analysis
 
-Loaded 11505 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-27 06:05:39
+Loaded 11559 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-27 12:18:08
 
 Incidents by source:
 source
-newsapi           11404
+newsapi           11458
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### DRUG RELATED on 2025-01-27 06:05
+### OTHER on 2025-01-27 12:18
+- Location: The Punch
+- Description: Human rights activist, Omoyele Sowore, has alleged plans by the Nigeria Police Force to detain him over his critical stance on the extension of the Inspector-General of Police, Kayode Egbetokun’s tenure. Sowore arrived at the Force Intelligence Headquarters a…
+
+
+### OTHER on 2025-01-27 12:18
+- Location: The Punch
+- Description: Former presidential candidate and activist, Omoyele Sowore, has disclosed that he has been granted bail following an engagement with the Force Intelligence Department of the Nigeria Police Force in Abuja on Monday. Sowore, however, stated he would refuse any …
+
+
+### HOMICIDE on 2025-01-27 12:15
+- Location: WFTV Orlando
+- Description: The crime scenes involved four hit-and-run crashes — one deadly — involving innocent pedestrians, a police pursuit, and officer gunfire that ultimately ended the life of the suspect, Tampa Police Chief Lee Burcaw said.
+
+
+### HOMICIDE on 2025-01-27 12:02
 - Location: NDTV News
-- Description: A drug kingpin, who was enjoying a vacation with his wife in the United Kingdom, was arrested after her partner&#039;s social media posts revealed their whereabouts.
+- Description: A man from the Scheduled Caste who married a woman of a different caste was allegedly found murdered in Pillalamarri Village, Suryapet District, on Monday, police said.
 
 
-### OTHER on 2025-01-27 06:00
-- Location: Naturalnews.com
-- Description: President Donald Trump authorized DHS and ICE to review the cases of 1.5 million migrants who entered the U.S. under Biden-era parole programs, signaling a major shift in immigration policy. Biden’s programs, including TPS, the CBP One app and CHNV parole fli…
+### OTHER on 2025-01-27 12:00
+- Location: /FILM
+- Description: Steven Spielberg has a very specific reason for being disappointed with Vin Diesel years after casting the actor in Saving Private Ryan.
 
-
-### OTHER on 2025-01-27 06:00
-- Location: The Irish Times
-- Description: Hutch is suspected of helping run a criminal organisation, an offence which can carry a life sentence
-
-
-### ROBBERY/THEFT on 2025-01-27 05:44
-- Location: New York Post
-- Description: “You don’t have to be Sherlock Holmes to work out that someone from the gang probably watched the program at some point. They must have realized the rich pickings to be had from the area.”…
-
-
-### SHOOTING on 2025-01-27 05:35
-- Location: Antaranews.com
-- Description: Indonesia&#39;s House of Representatives (DPR) plans to establish a team tasked with monitoring the handling of a shooting incident targeting Indonesian ...
-
-Analysis generated at: Tue Jan 28 06:17:08 UTC 2025
+Analysis generated at: Tue Jan 28 12:23:01 UTC 2025
