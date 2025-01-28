@@ -1,10 +1,10 @@
 
-Loaded 11562 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-27 12:36:07
+Loaded 11656 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-27 18:13:50
 
 Incidents by source:
 source
-newsapi           11461
+newsapi           11555
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-01-27 12:36
-- Location: The Federalist
-- Description: Sheriff Bill Redman, a Democrat, says his department does comply with state and federal laws requiring cooperation with federal authorities.
+### ROBBERY/THEFT on 2025-01-27 18:13
+- Location: International Business Times
+- Description: An Ohio man banned from all Walmart locations was arrested for theft in Columbus.
 
 
-### ASSAULT on 2025-01-27 12:28
-- Location: Securityaffairs.com
-- Description: New threat actor GamaCopy mimics Russia-linked Gamaredon APT in attacks on Russian-speaking targets. The Knownsec 404 Advanced Threat Intelligence team recently analyzed attacks on Russian-speaking targets using military-themed bait, 7z SFX for payloads, and …
+### HOMICIDE on 2025-01-27 18:13
+- Location: The Times of India
+- Description: Israel opened the northern Gaza Strip to Palestinians, allowing them to return home for the first time in 15 months after a ceasefire agreement was reached with Hamas. Simultaneously, Israeli strikes in the West Bank killed three Palestinians, including two H…
 
 
-### HOMICIDE on 2025-01-27 12:27
-- Location: NDTV News
-- Description: The parents of the woman doctor raped and killed at Kolkata&#039;s RG Kar Hospital last year, are not keen on the death penalty for the man held guilty, their lawyer has told the Calcutta High Court. They, however, refused to confirm it to reporters.
+### SHOOTING on 2025-01-27 18:10
+- Location: Biztoc.com
+- Description: Tennessee's WSMV4 reports that Solomon Henderson, who police say was responsible for the fatal shooting inside Antioch High School's cafeteria on January 22, was suspended from school several months before the incident.
+Disciplinary records obtained by the te…
 
 
-### OTHER on 2025-01-27 12:18
-- Location: The Punch
-- Description: Human rights activist, Omoyele Sowore, has alleged plans by the Nigeria Police Force to detain him over his critical stance on the extension of the Inspector-General of Police, Kayode Egbetokun’s tenure. Sowore arrived at the Force Intelligence Headquarters a…
+### SHOOTING on 2025-01-27 18:08
+- Location: Newsweek
+- Description: The report states that Solomon Henderson was suspended for two days following the box cutter incident.
 
 
-### OTHER on 2025-01-27 12:18
-- Location: The Punch
-- Description: Former presidential candidate and activist, Omoyele Sowore, has disclosed that he has been granted bail following an engagement with the Force Intelligence Department of the Nigeria Police Force in Abuja on Monday. Sowore, however, stated he would refuse any …
+### HOMICIDE on 2025-01-27 18:07
+- Location: Bossip
+- Description: Trump pardons two Washington, D.C., police officers who were convicted of the second-degree murder of Karon Hylton-Brown and subsequent cover-up.
+The post Trump Pardons D.C. Cops Convicted In Karon Hylton-Brown’s Death & Cover-Up appeared first on Bossip.
 
-Analysis generated at: Tue Jan 28 12:38:34 UTC 2025
+Analysis generated at: Tue Jan 28 18:16:28 UTC 2025
