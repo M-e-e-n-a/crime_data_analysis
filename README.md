@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Jan 29 12:38:08 UTC 2025
+Last updated: Wed Jan 29 18:16:52 UTC 2025
 
 ## Latest Analysis
 
-Loaded 11831 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-28 12:37:21
+Loaded 11927 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-28 18:15:27
 
 Incidents by source:
 source
-newsapi           11730
+newsapi           11826
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-01-28 12:37
-- Location: The Diplomat
-- Description: The suspect was wanted in connection with the high-profile kidnapping of the Chinese actor Wang Xing earlier this month.
+### OTHER on 2025-01-28 18:15
+- Location: The Punch
+- Description: The Nigeria Police Force has arrested no fewer than 1,088 suspects linked to financial crimes in separate operations across the country in 2024, recovering $11.45 million and ₦142.26 billion in the process. The Force Public Relations Officer, Olumuyiwa Adejob…
 
 
-### HOMICIDE on 2025-01-28 12:27
-- Location: Newsweek
-- Description: An Indiana man pardoned by Donald Trump for his role in the January 6 insurrection was fatally shot by police during a traffic stop on Sunday.
+### HOMICIDE on 2025-01-28 18:15
+- Location: nwitimes.com
+- Description: "He is somewhat distrustful of the government in general, but he did not know if the 2020 election was 'stolen' or not," his attorney said.
 
 
-### OTHER on 2025-01-28 12:25
-- Location: Thehillstimes.in
-- Description: HT Digital GUWAHATI, Jan 28: In a swift and coordinated operation, the Guwahati Police successfully rescued a 23-year-old youth who was reportedly abducted, the city police officials informed on Tuesday. The rescue operation was carried out by a Crime and Gen…
+### HOMICIDE on 2025-01-28 18:13
+- Location: Slashdot.org
+- Description: Investigation underway after deadly shooting at Martin's Super Market in ElkhartWSBT-TV Witness recounts deadly shooting at Martin’s in ElkhartWNDU Shoppers describe scene, aftermath of fatal shootings at Martin's Super Market in ElkhartYahoo! Voices Indiana …
 
 
-### HOMICIDE on 2025-01-28 12:24
-- Location: New York Post
-- Description: Two thugs who dodged jail thanks to a "diversion program" have been charged with murder for gunning a man down in the Bronx on Jan. 6.
+### OTHER on 2025-01-28 18:12
+- Location: ABC News (AU)
+- Description: Osama Elmasry Njeem, who was wanted for alleged crimes against humanity, was freed last week and flown home by an Italian state aircraft.
 
 
-### OTHER on 2025-01-28 12:22
-- Location: The Federalist
-- Description: Many wonder if the L.A. fires will be the tipping point in the demise of 'diversity, equity, and inclusion' (DEI).
+### OTHER on 2025-01-28 18:10
+- Location: The Root
+- Description: Image: Chip Somodevilla/Getty Images (Getty Images)
+As I watched President Donald Trump’s inauguration last week, I couldn’t help but think about the old Black proverb my parents and grandparents repeated time and time again growing up: We tried to tell y’al…
 
-Analysis generated at: Wed Jan 29 12:38:08 UTC 2025
+Analysis generated at: Wed Jan 29 18:16:52 UTC 2025
