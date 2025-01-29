@@ -1,10 +1,10 @@
 
-Loaded 11673 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-28 00:56:28
+Loaded 11682 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-28 01:33:02
 
 Incidents by source:
 source
-newsapi           11572
+newsapi           11581
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-01-28 00:56
-- Location: 7NEWS.com.au
-- Description: It is understood the notorious underworld figure was shot in the head in a car park in Melbourne’s northeast.
+### HOMICIDE on 2025-01-28 01:33
+- Location: Fox News
+- Description: A shooting at a Martin's Super Market store in Elkhart, Indiana left three people dead and two police officers injured. Police said the suspected gunman is among those dead.
 
 
-### OTHER on 2025-01-28 00:56
-- Location: The Denver Post
-- Description: So far, settlements stemming from police actions during the demonstrations have amounted to roughly $12 million.
+### DRUG RELATED on 2025-01-28 01:24
+- Location: The Star Online
+- Description: SEGAMAT: A man has been arrested by the Malaysian Anti-Corruption Commission (MACC) here for offering RM18,500 to the police in an attempt to escape arrest after drugs were found in the car he was in. Read full story
 
 
-### HOMICIDE on 2025-01-28 00:55
-- Location: NDTV News
-- Description: Two persons were arrested for allegedly killing another man near the Kondhwa police station limits in Maharashtra&#039;s Pune, police said on Monday.
+### ASSAULT on 2025-01-28 01:21
+- Location: International Business Times
+- Description: For President Donald Trump's allies, his crackdown on the "illegal and immoral discrimination" of equal opportunities programs reflects a shifting US electorate that has lost patience with ineffective and performative political correctness.
 
 
-### HOMICIDE on 2025-01-28 00:52
-- Location: Slashdot.org
-- Description: January 6 rioter pardoned by Trump is killed by police in traffic stopThe Guardian US Indiana man pardoned for Jan. 6 crimes killed in traffic stop shooting by deputyNBC News Pardoned Jan. 6 rioter shot, killed by police in IndianaThe Washington Post Deadly p…
+### ASSAULT on 2025-01-28 01:21
+- Location: Ibtimes.com.au
+- Description: For President Donald Trump's allies, his crackdown on the "illegal and immoral discrimination" of equal opportunities programs reflects a shifting US electorate that has lost patience with ineffective and performative political correctness.
 
 
-### HOMICIDE on 2025-01-28 00:40
-- Location: Newser
-- Description: Dawn Momohara's body was found outside a classroom at her Honolulu high school in March 1977, after she left home to go shopping with friends. There were leads, people were interviewed, and sketches of a car and a man reported near the building the night she …
+### HOMICIDE on 2025-01-28 01:20
+- Location: Freerepublic.com
+- Description: An Indiana man who was recently pardoned for his participation in the Jan. 6 Capitol riot was shot and killed during a traffic stop by a sheriff's deputy Sunday. Matthew Huttle, 42, was involved in a traffic stop at 4:15 p.m. by a Jasper County sheriff’s depu…
 
-Analysis generated at: Wed Jan 29 00:57:29 UTC 2025
+Analysis generated at: Wed Jan 29 01:35:17 UTC 2025
