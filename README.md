@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Jan 29 06:17:12 UTC 2025
+Last updated: Wed Jan 29 12:23:12 UTC 2025
 
 ## Latest Analysis
 
-Loaded 11743 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-28 06:13:02
+Loaded 11827 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-28 12:22:18
 
 Incidents by source:
 source
-newsapi           11642
+newsapi           11726
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-01-28 06:13
-- Location: Slashdot.org
-- Description: 3 dead, 2 police officers injured in grocery store shooting in IndianaABC News 3 dead, 2 officers wounded in shooting at Martin’s in ElkhartWNDU Shooting inside Indiana supermarket leaves 3 dead, with 2 officers sustaining injuriesFox News Elkhart police inve…
+### OTHER on 2025-01-28 12:22
+- Location: The Federalist
+- Description: Many wonder if the L.A. fires will be the tipping point in the demise of 'diversity, equity, and inclusion' (DEI).
 
 
-### HOMICIDE on 2025-01-28 06:00
-- Location: Naturalnews.com
-- Description: Matthew Huttle, a J6 protester pardoned by Trump, was killed by a Jasper County sheriff’s deputy during a traffic stop in Indiana. The incident occurred after Huttle was arrested on November 28, 2022, in Boise, Idaho, for protesting the 2020 election results …
+### OTHER on 2025-01-28 12:21
+- Location: Dazed
+- Description: According to a new report, most of them took part in the July riots because they hate the police or ‘thought it looked fun’, not because they hold racist, anti-immigration or far-right views
 
 
-### OTHER on 2025-01-28 06:00
-- Location: Naturalnews.com
-- Description: For four years the Biden Administration and Democrats flooded the US with tens-of-millions of illegal aliens from third-world nations.  And, for the majority of that time they gaslit the American people, lying consistently about the border crisis they created…
+### HOMICIDE on 2025-01-28 12:17
+- Location: Thefutoncritic.com
+- Description: Look for "Wicked Game: The Devil in the Desert" on February 4, followed by "The Fox Hollow Murders: Playground of a Serial Killer" on February 18.
 
 
-### HOMICIDE on 2025-01-28 05:53
-- Location: Slashdot.org
-- Description: Elkhart police investigate officer-involved shooting leaving three dead, including suspectWSBT-TV WATCH LIVE: 3 dead, 2 officers wounded in shooting at Martin’s in ElkhartWNDU Shooting inside Indiana supermarket leaves 3 dead, with 2 officers sustaining injur…
+### SHOOTING on 2025-01-28 12:15
+- Location: Antaranews.com
+- Description: The body of an Indonesian migrant worker who was a victim of a shooting incident involving officers from the Malaysian Maritime Enforcement Agency (APMM) will ...
 
 
-### ROBBERY/THEFT on 2025-01-28 05:45
-- Location: ABC News (AU)
-- Description: A teenage boy who was a passenger in a car allegedly stolen after the fatal stabbing of Vyleen White has been sentenced to four months' probation.
+### OTHER on 2025-01-28 12:15
+- Location: Forbes
+- Description: Retailers can significantly mitigate the safety and profitability risks posed by organized retail crime.
 
-Analysis generated at: Wed Jan 29 06:17:12 UTC 2025
+Analysis generated at: Wed Jan 29 12:23:12 UTC 2025
