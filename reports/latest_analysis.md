@@ -1,10 +1,10 @@
 
-Loaded 11656 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-27 18:13:50
+Loaded 11673 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-28 00:56:28
 
 Incidents by source:
 source
-newsapi           11555
+newsapi           11572
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,30 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2025-01-27 18:13
-- Location: International Business Times
-- Description: An Ohio man banned from all Walmart locations was arrested for theft in Columbus.
+### HOMICIDE on 2025-01-28 00:56
+- Location: 7NEWS.com.au
+- Description: It is understood the notorious underworld figure was shot in the head in a car park in Melbourne’s northeast.
 
 
-### HOMICIDE on 2025-01-27 18:13
-- Location: The Times of India
-- Description: Israel opened the northern Gaza Strip to Palestinians, allowing them to return home for the first time in 15 months after a ceasefire agreement was reached with Hamas. Simultaneously, Israeli strikes in the West Bank killed three Palestinians, including two H…
+### OTHER on 2025-01-28 00:56
+- Location: The Denver Post
+- Description: So far, settlements stemming from police actions during the demonstrations have amounted to roughly $12 million.
 
 
-### SHOOTING on 2025-01-27 18:10
-- Location: Biztoc.com
-- Description: Tennessee's WSMV4 reports that Solomon Henderson, who police say was responsible for the fatal shooting inside Antioch High School's cafeteria on January 22, was suspended from school several months before the incident.
-Disciplinary records obtained by the te…
+### HOMICIDE on 2025-01-28 00:55
+- Location: NDTV News
+- Description: Two persons were arrested for allegedly killing another man near the Kondhwa police station limits in Maharashtra&#039;s Pune, police said on Monday.
 
 
-### SHOOTING on 2025-01-27 18:08
-- Location: Newsweek
-- Description: The report states that Solomon Henderson was suspended for two days following the box cutter incident.
+### HOMICIDE on 2025-01-28 00:52
+- Location: Slashdot.org
+- Description: January 6 rioter pardoned by Trump is killed by police in traffic stopThe Guardian US Indiana man pardoned for Jan. 6 crimes killed in traffic stop shooting by deputyNBC News Pardoned Jan. 6 rioter shot, killed by police in IndianaThe Washington Post Deadly p…
 
 
-### HOMICIDE on 2025-01-27 18:07
-- Location: Bossip
-- Description: Trump pardons two Washington, D.C., police officers who were convicted of the second-degree murder of Karon Hylton-Brown and subsequent cover-up.
-The post Trump Pardons D.C. Cops Convicted In Karon Hylton-Brown’s Death & Cover-Up appeared first on Bossip.
+### HOMICIDE on 2025-01-28 00:40
+- Location: Newser
+- Description: Dawn Momohara's body was found outside a classroom at her Honolulu high school in March 1977, after she left home to go shopping with friends. There were leads, people were interviewed, and sketches of a car and a man reported near the building the night she …
 
-Analysis generated at: Tue Jan 28 18:16:28 UTC 2025
+Analysis generated at: Wed Jan 29 00:57:29 UTC 2025
