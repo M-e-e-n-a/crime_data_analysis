@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Jan 30 06:17:11 UTC 2025
+Last updated: Thu Jan 30 12:23:12 UTC 2025
 
 ## Latest Analysis
 
-Loaded 11997 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-29 06:07:44
+Loaded 12065 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-29 12:21:14
 
 Incidents by source:
 source
-newsapi           11896
+newsapi           11964
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,31 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-01-29 06:07
-- Location: EURACTIV
-- Description: The pass-through accounts have ensured an estimated €5.2 billion have passed through the Czech financial systems since 2020.
-The post Czechia delays action on money laundering via pass-through accounts appeared first on Euractiv.
+### OTHER on 2025-01-29 12:21
+- Location: Newsbreak.com
+- Description: A 19-year-old woman in Georgia went viral on TikTok recently for "dancing in a provocative manner" on top of a disabled patient's head — and now she's cha
 
 
-### HOMICIDE on 2025-01-29 06:00
-- Location: Insurance Journal
-- Description: More than four years after his death, Richard Lapointe’s family is set to receive a nearly $5.9 million award from Connecticut for his wrongful, quarter-century imprisonment that ended in 2015 when his murder conviction was overturned in the rape and …
+### OTHER on 2025-01-29 12:18
+- Location: Dark Horizons
+- Description: The Conners ABC announced that the seventh and final season of “The Conners” will premiere on Wednesday, March 26th with a six-episode run – bringing its total up to 112 episodes. The overall “Roseanne” and “The Conners” franchise will have produced 343 episo…
 
 
-### OTHER on 2025-01-29 05:57
-- Location: Lifesciencesworld.com
-- Description: Understanding the Tragic Events of Seung-Hui Cho The Background and Motivations On April 16, 2007, Seung-Hui Cho, a 18-year-old college […]
-The post Why did seung-hui cho do it? appeared first on Life Sciences World.
+### OTHER on 2025-01-29 12:16
+- Location: The Federalist
+- Description: Unlike other parts of the Constitution, the Second Amendment has been politicized to the point it is often treated as a second-class right.
 
 
-### HOMICIDE on 2025-01-29 05:46
-- Location: Lifesciencesworld.com
-- Description: The Tragic Tale of Sergio, the Young Man Who Killed His Mother Introduction Sergio, a 17-year-old high school student, was […]
-The post Why did sergio kill his mom? appeared first on Life Sciences World.
+### HOMICIDE on 2025-01-29 12:16
+- Location: Antaranews.com
+- Description: The coffin of an Indonesian, shot dead by the Malaysian Coast Guard (APMM) in Malaysia last week, was repatriated to his home province here on ...
 
 
-### HOMICIDE on 2025-01-29 05:39
-- Location: Screen Rant
-- Description: Jodie Foster’s detective work earns high praise from a crime expert for its accuracy, with the exception of one detail about Hannibal.
+### OTHER on 2025-01-29 12:06
+- Location: BBC News
+- Description: Police say the former prime minister's close protection officers performed "immediate" first aid.
 
-Analysis generated at: Thu Jan 30 06:17:11 UTC 2025
+Analysis generated at: Thu Jan 30 12:23:12 UTC 2025
