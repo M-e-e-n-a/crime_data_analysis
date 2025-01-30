@@ -1,10 +1,10 @@
 
-Loaded 11946 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-29 00:44:59
+Loaded 11959 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-29 01:24:21
 
 Incidents by source:
 source
-newsapi           11845
+newsapi           11858
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-01-29 00:44
-- Location: New York Post
-- Description: "Their jails in their own countries are a lot worse than here. They don’t care about being locked up here, so they should be deported," said a man in Jackson Heights, Queens.
+### OTHER on 2025-01-29 01:24
+- Location: Freerepublic.com
+- Description: New York City residents in Hispanic and black communities that supported President Trump in huge numbers in the 2024 election hailed Tuesday’s local immigration raids that nabbed scores of suspected heinous criminals. Starting in the Bronx — where Trump’s sup…
 
 
-### OTHER on 2025-01-29 00:42
-- Location: Newsbreak.com
-- Description: A 19-year-old woman in Georgia went viral on TikTok recently for "dancing in a provocative manner" on top of a disabled patient's head — and now she's cha
+### OTHER on 2025-01-29 01:24
+- Location: Freerepublic.com
+- Description: New York City residents in Hispanic and black communities that supported President Trump in huge numbers in the 2024 election hailed Tuesday’s local immigration raids that nabbed scores of suspected heinous criminals. Starting in the Bronx — where Trump’s sup…
 
 
-### OTHER on 2025-01-29 00:42
-- Location: Newsbreak.com
-- Description: A 19-year-old woman in Georgia went viral on TikTok recently for "dancing in a provocative manner" on top of a disabled patient's head — and now she's cha
+### OTHER on 2025-01-29 01:16
+- Location: Fox News
+- Description: Jason Oppenheim begged for more police in Los Angeles after his "Selling Sunset" co-star was burglarized and said LA doesn't feel safe due to "crime" and "homelessness."
 
 
-### OTHER on 2025-01-29 00:42
-- Location: Newsbreak.com
-- Description: A 19-year-old woman in Georgia went viral on TikTok recently for "dancing in a provocative manner" on top of a disabled patient's head — and now she's cha
+### HOMICIDE on 2025-01-29 01:15
+- Location: Starobserver.com.au
+- Description: Beau Lamarre-Condon, accused of murdering Sydney couple Jesse Baird and Luke Davies, is set to undergo psychiatric testing arranged by his lawyers. The former police officer was charged with two ...
+The post Beau Lamarre-Condon To Undergo Psychiatric Testing …
 
 
-### OTHER on 2025-01-29 00:42
-- Location: Newsbreak.com
-- Description: A 19-year-old woman in Georgia went viral on TikTok recently for "dancing in a provocative manner" on top of a disabled patient's head — and now she's cha
+### HOMICIDE on 2025-01-29 01:15
+- Location: BBC News
+- Description: Tanner Fox is one of two hitmen who killed Ripudaman Singh Malik in Canada in 2022. It is still unknown who hired them.
 
-Analysis generated at: Thu Jan 30 00:56:40 UTC 2025
+Analysis generated at: Thu Jan 30 01:26:44 UTC 2025
