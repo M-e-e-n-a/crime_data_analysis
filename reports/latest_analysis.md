@@ -1,10 +1,10 @@
 
-Loaded 11959 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-29 01:24:21
+Loaded 11997 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-29 06:07:44
 
 Incidents by source:
 source
-newsapi           11858
+newsapi           11896
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,31 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-01-29 01:24
-- Location: Freerepublic.com
-- Description: New York City residents in Hispanic and black communities that supported President Trump in huge numbers in the 2024 election hailed Tuesday’s local immigration raids that nabbed scores of suspected heinous criminals. Starting in the Bronx — where Trump’s sup…
+### OTHER on 2025-01-29 06:07
+- Location: EURACTIV
+- Description: The pass-through accounts have ensured an estimated €5.2 billion have passed through the Czech financial systems since 2020.
+The post Czechia delays action on money laundering via pass-through accounts appeared first on Euractiv.
 
 
-### OTHER on 2025-01-29 01:24
-- Location: Freerepublic.com
-- Description: New York City residents in Hispanic and black communities that supported President Trump in huge numbers in the 2024 election hailed Tuesday’s local immigration raids that nabbed scores of suspected heinous criminals. Starting in the Bronx — where Trump’s sup…
+### HOMICIDE on 2025-01-29 06:00
+- Location: Insurance Journal
+- Description: More than four years after his death, Richard Lapointe’s family is set to receive a nearly $5.9 million award from Connecticut for his wrongful, quarter-century imprisonment that ended in 2015 when his murder conviction was overturned in the rape and …
 
 
-### OTHER on 2025-01-29 01:16
-- Location: Fox News
-- Description: Jason Oppenheim begged for more police in Los Angeles after his "Selling Sunset" co-star was burglarized and said LA doesn't feel safe due to "crime" and "homelessness."
+### OTHER on 2025-01-29 05:57
+- Location: Lifesciencesworld.com
+- Description: Understanding the Tragic Events of Seung-Hui Cho The Background and Motivations On April 16, 2007, Seung-Hui Cho, a 18-year-old college […]
+The post Why did seung-hui cho do it? appeared first on Life Sciences World.
 
 
-### HOMICIDE on 2025-01-29 01:15
-- Location: Starobserver.com.au
-- Description: Beau Lamarre-Condon, accused of murdering Sydney couple Jesse Baird and Luke Davies, is set to undergo psychiatric testing arranged by his lawyers. The former police officer was charged with two ...
-The post Beau Lamarre-Condon To Undergo Psychiatric Testing …
+### HOMICIDE on 2025-01-29 05:46
+- Location: Lifesciencesworld.com
+- Description: The Tragic Tale of Sergio, the Young Man Who Killed His Mother Introduction Sergio, a 17-year-old high school student, was […]
+The post Why did sergio kill his mom? appeared first on Life Sciences World.
 
 
-### HOMICIDE on 2025-01-29 01:15
-- Location: BBC News
-- Description: Tanner Fox is one of two hitmen who killed Ripudaman Singh Malik in Canada in 2022. It is still unknown who hired them.
+### HOMICIDE on 2025-01-29 05:39
+- Location: Screen Rant
+- Description: Jodie Foster’s detective work earns high praise from a crime expert for its accuracy, with the exception of one detail about Hannibal.
 
-Analysis generated at: Thu Jan 30 01:26:44 UTC 2025
+Analysis generated at: Thu Jan 30 06:17:11 UTC 2025
