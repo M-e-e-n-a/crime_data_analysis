@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Jan 30 12:38:36 UTC 2025
+Last updated: Thu Jan 30 18:16:35 UTC 2025
 
 ## Latest Analysis
 
-Loaded 12068 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-29 12:28:16
+Loaded 12160 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-29 18:13:59
 
 Incidents by source:
 source
-newsapi           11967
+newsapi           12059
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2025-01-29 12:28
-- Location: CNN
-- Description: Australian police have said they foiled a potential antisemitic attack on discovering a trailer packed with explosives in northwest Sydney, alarming the Jewish community following a spate of arson and graffiti incidents.
+### OTHER on 2025-01-29 18:13
+- Location: CinemaBlend
+- Description: The popuar graphic novels come to life!
 
 
-### HOMICIDE on 2025-01-29 12:25
-- Location: Independent.ie
-- Description: A father-of-three was given a fully suspended three-year jail sentence after pleading guilty to threatening to kill a doctor who he wrongly believed had molested his then partner during an examination at University Hospital Limerick.
+### HOMICIDE on 2025-01-29 18:12
+- Location: STLtoday.com
+- Description: Timothy Fox, 58, was charged Wednesday with first-degree murder and armed criminal action.
 
 
-### HOMICIDE on 2025-01-29 12:24
-- Location: NDTV News
-- Description: Two brothers allegedly stabbed their mother&#039;s lover to death, sliced his intestines and threw it in the air in a grisly crime in Gujarat earlier this week.
+### OTHER on 2025-01-29 18:00
+- Location: JoBlo.com
+- Description: Based on Dav Pilkey's graphic novel series, Dog Man is set to make a $20 million box office debut, leaving Companion trailing behind.
+The post Dog Man could take a bite out of Companion with a $20M box office debut appeared first on JoBlo.
 
 
-### OTHER on 2025-01-29 12:21
+### HOMICIDE on 2025-01-29 17:58
+- Location: ABC News
+- Description: A U.S. Army veteran who served in the war in Afghanistan has pleaded not guilty to fatally shooting a homeless man with an automatic rifle in downtown Memphis, Tennessee
+
+
+### OTHER on 2025-01-29 17:57
 - Location: Newsbreak.com
 - Description: A 19-year-old woman in Georgia went viral on TikTok recently for "dancing in a provocative manner" on top of a disabled patient's head — and now she's cha
 
-
-### OTHER on 2025-01-29 12:18
-- Location: Dark Horizons
-- Description: The Conners ABC announced that the seventh and final season of “The Conners” will premiere on Wednesday, March 26th with a six-episode run – bringing its total up to 112 episodes. The overall “Roseanne” and “The Conners” franchise will have produced 343 episo…
-
-Analysis generated at: Thu Jan 30 12:38:36 UTC 2025
+Analysis generated at: Thu Jan 30 18:16:35 UTC 2025
