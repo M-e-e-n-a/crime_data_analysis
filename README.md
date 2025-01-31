@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Jan 31 12:38:17 UTC 2025
+Last updated: Fri Jan 31 18:16:25 UTC 2025
 
 ## Latest Analysis
 
-Loaded 12294 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-30 12:34:55
+Loaded 12390 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-30 18:15:43
 
 Incidents by source:
 source
-newsapi           12193
+newsapi           12289
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2025-01-30 12:34
-- Location: Entertainment Weekly
-- Description: Comedian D.L. Hughley clapped back at rapper Snoop Dogg for characterizing backlash against his performance at the Crypto Ball as a 'community' problem.
+### OTHER on 2025-01-30 18:15
+- Location: Rolling Stone
+- Description: Immigration rights experts and organizations tell Rolling Stone communities can keep each other safe by knowing these basic legal practices
 
 
-### OTHER on 2025-01-30 12:29
-- Location: SFGate
-- Description: "Scamanda," now airing on ABC and streaming on Hulu, tells the story of Bay Area mom Amanda Riley and her yearslong cancer fraud.
+### OTHER on 2025-01-30 18:08
+- Location: fox6now.com
+- Description: Two people were arrested following an early morning police chase that started in West Allis on Thursday, Jan. 30.
 
 
-### HOMICIDE on 2025-01-30 12:27
-- Location: RT
-- Description: Salwan Momika, an Iraqi refugee who had staged several Quran-burning protests, was killed in his apartment in Sweden during a live stream Read Full Article at RT.com
+### HOMICIDE on 2025-01-30 18:07
+- Location: Yahoo Entertainment
+- Description: None
 
 
-### OTHER on 2025-01-30 12:21
-- Location: Securityaffairs.com
-- Description: The open-source PHP package Voyager is affected by three vulnerabilities that could be exploited to achieve one-click remote code execution on affected instances. Voyager is a popular open-source PHP package for managing Laravel applications, offering an admi…
+### HOMICIDE on 2025-01-30 18:05
+- Location: Theplaylist.net
+- Description: How do you solve a mystery when everyone’s a suspect? It’s a question facing Detective Cordelia Cupp in ‘The Residence.” Cupp’s facing murder at the White House and 157 suspects in this upcoming Netflix series. The Shondaland project is inspired by Kate Ander…
 
 
-### HOMICIDE on 2025-01-30 12:20
-- Location: The Times of India
-- Description: Salwan Momika, an Iraqi man known for multiple Quran burnings in Sweden, was shot dead near Stockholm. His actions in 2023 had ignited global outrage and unrest in Muslim countries. A trial verdict was delayed due to his death. Swedish police launched a preli…
+### OTHER on 2025-01-30 17:51
+- Location: The Escapist
+- Description: It's been a wild few weeks for Jessica Alba fans, but what stories about her going around right now are actually true?
 
-Analysis generated at: Fri Jan 31 12:38:17 UTC 2025
+Analysis generated at: Fri Jan 31 18:16:25 UTC 2025
