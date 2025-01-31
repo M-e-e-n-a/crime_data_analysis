@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Jan 30 18:16:35 UTC 2025
+Last updated: Fri Jan 31 00:57:42 UTC 2025
 
 ## Latest Analysis
 
-Loaded 12160 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-29 18:13:59
+Loaded 12179 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-30 00:54:58
 
 Incidents by source:
 source
-newsapi           12059
+newsapi           12078
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,31 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-01-29 18:13
-- Location: CinemaBlend
-- Description: The popuar graphic novels come to life!
+### HOMICIDE on 2025-01-30 00:54
+- Location: SFGate
+- Description: Elijah Cruz Segura, 26, was sentenced to 15 years to life on Monday for murder, officials said.
 
 
-### HOMICIDE on 2025-01-29 18:12
-- Location: STLtoday.com
-- Description: Timothy Fox, 58, was charged Wednesday with first-degree murder and armed criminal action.
+### HOMICIDE on 2025-01-30 00:45
+- Location: Decider
+- Description: The four-part series takes a look at the murders, the Bronco chase, and the explosive trial. Where it excells is detailing where the LAPD and DA's office fell down on the job.
 
 
-### OTHER on 2025-01-29 18:00
-- Location: JoBlo.com
-- Description: Based on Dav Pilkey's graphic novel series, Dog Man is set to make a $20 million box office debut, leaving Companion trailing behind.
-The post Dog Man could take a bite out of Companion with a $20M box office debut appeared first on JoBlo.
+### OTHER on 2025-01-30 00:44
+- Location: The Times of India
+- Description: President Trump signed the Laken Riley Act into law, expanding federal authority to deport immigrants accused of crimes. The act includes plans to detain the most dangerous criminal aliens at Guantanamo Bay. The move has sparked controversy amid concerns over…
 
 
-### HOMICIDE on 2025-01-29 17:58
-- Location: ABC News
-- Description: A U.S. Army veteran who served in the war in Afghanistan has pleaded not guilty to fatally shooting a homeless man with an automatic rifle in downtown Memphis, Tennessee
+### HOMICIDE on 2025-01-30 00:42
+- Location: Globalresearch.ca
+- Description: The shocking death toll in the Israeli-imposed Gaza Genocide (553,000 Gazan deaths from violence and imposed deprivation by 19 January 2025) demands World action against Apartheid Israel including 
+(a) ending the Occupation,
+(b) stopping weapons deliveries,
+ …
 
 
-### OTHER on 2025-01-29 17:57
-- Location: Newsbreak.com
-- Description: A 19-year-old woman in Georgia went viral on TikTok recently for "dancing in a provocative manner" on top of a disabled patient's head — and now she's cha
+### OTHER on 2025-01-30 00:31
+- Location: The Star Online
+- Description: KUALA LUMPUR: The police are investigating an incident where drivers of two vehicles ploughed into a group of men along Old Klang Road. Read full story
 
-Analysis generated at: Thu Jan 30 18:16:35 UTC 2025
+Analysis generated at: Fri Jan 31 00:57:42 UTC 2025
