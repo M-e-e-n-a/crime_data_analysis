@@ -1,10 +1,10 @@
 
-Loaded 12226 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-30 06:09:48
+Loaded 12291 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-30 12:21:17
 
 Incidents by source:
 source
-newsapi           12125
+newsapi           12190
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2025-01-30 06:09
-- Location: BBC News
-- Description: Shoplifters are carrying out brazen acts of theft because they 'do not fear any consequences'.
+### OTHER on 2025-01-30 12:21
+- Location: Securityaffairs.com
+- Description: The open-source PHP package Voyager is affected by three vulnerabilities that could be exploited to achieve one-click remote code execution on affected instances. Voyager is a popular open-source PHP package for managing Laravel applications, offering an admi…
 
 
-### OTHER on 2025-01-30 06:06
-- Location: ABC News
-- Description: Donald Trump 2.0 is, so far, very much the same as his first go around
+### HOMICIDE on 2025-01-30 12:20
+- Location: The Times of India
+- Description: Salwan Momika, an Iraqi man known for multiple Quran burnings in Sweden, was shot dead near Stockholm. His actions in 2023 had ignited global outrage and unrest in Muslim countries. A trial verdict was delayed due to his death. Swedish police launched a preli…
 
 
-### ROBBERY/THEFT on 2025-01-30 06:04
-- Location: KCCI Des Moines
-- Description: A criminal complaint filed after the man's arrest said he placed the flyers on pre-targeted locations of Latino-owned businesses and homes.
+### HOMICIDE on 2025-01-30 12:09
+- Location: NDTV News
+- Description: In a novel operation, the Delhi Police&#039;s Crime Branch officials identified a murder convict, who jumped parole, by distributing &#039;boondi-laddus&#039; during a Republic Day celebration and later nabbed him, ending an over three-year chase.
 
 
-### ROBBERY/THEFT on 2025-01-30 06:00
-- Location: BBC News
-- Description: Shoplifters are carrying out brazen acts of theft because they 'do not fear any consequences'.
+### HOMICIDE on 2025-01-30 12:05
+- Location: Hurriyet Daily News
+- Description: A man who repeatedly burnt the Quran in 2023 in Sweden and sparked outrage in Muslim countries, has been shot dead south of Stockholm, investigators said on Thursday, adding that five people had been arrested.
 
 
-### OTHER on 2025-01-30 06:00
-- Location: The Irish Times
-- Description: It’s also possible that the US president’s release of even the most violent insurrectionists could come back to bite him
+### OTHER on 2025-01-30 12:00
+- Location: Washington Free Beacon
+- Description: The Acacia Center for Justice is a D.C.-based nonprofit that oversees a $769 million federal immigration program. It also believes that "no immigrant should be detained."
+The post Federal Immigration Contractor Rallies Against Trump’s Deportations, Campus Ham…
 
-Analysis generated at: Fri Jan 31 06:17:04 UTC 2025
+Analysis generated at: Fri Jan 31 12:22:30 UTC 2025
