@@ -1,10 +1,10 @@
 
-Loaded 12516 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-31 12:06:00
+Loaded 12518 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-31 12:29:04
 
 Incidents by source:
 source
-newsapi           12415
+newsapi           12417
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,6 +20,16 @@ bution.svg)
 
 ## Recent Incidents
 
+### SHOOTING on 2025-01-31 12:29
+- Location: Mediatakeout.com
+- Description: Messages between A$AP Rocky and his accuser, A$AP Relli, were read out in court, showing Rocky denying Relli’s claims that the rapper shot him and accusing him of extortion. Relli accuses Rocky of setting him up, and Rocky responds,  “I tried to do what?? … S…
+
+
+### OTHER on 2025-01-31 12:27
+- Location: What's on Netflix
+- Description: The new action movie headlined by Tom Hardy is heading to Netflix this Spring.
+
+
 ### OTHER on 2025-01-31 12:06
 - Location: The Star Online
 - Description: NEW YORK (Reuters) - U.S. President Donald Trump's new homeland security secretary made sure cameras were rolling when she joined federal agents to arrest migrants in New York City, including a Venezuelan man wanted by Colorado police that Trump had made part…
@@ -34,14 +44,4 @@ bution.svg)
 - Location: CBS News
 - Description: Dee Warner's brother, Gregg Hardy, says he was being sarcastic when he wrote the billboard in Lenawee County, Michigan, that read "Help Dale Find Dee." Dale Warner denies he ever harmed his wife.
 
-
-### OTHER on 2025-01-31 11:59
-- Location: GlobeNewswire
-- Description: E.U. Investing in Advanced Technologies and Infrastructure to Support the Use of Drones in Policing E.U. Investing in Advanced Technologies and Infrastructure to Support the Use of Drones in Policing
-
-
-### OTHER on 2025-01-31 11:56
-- Location: BleepingComputer
-- Description: ​Law enforcement authorities in the United States and the Netherlands have seized 39 domains and associated servers used by the HeartSender phishing gang operating out of Pakistan. [...]
-
-Analysis generated at: Sat Feb  1 12:20:34 UTC 2025
+Analysis generated at: Sat Feb  1 12:35:04 UTC 2025
