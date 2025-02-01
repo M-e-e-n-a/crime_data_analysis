@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Feb  1 12:35:04 UTC 2025
+Last updated: Sat Feb  1 18:14:27 UTC 2025
 
 ## Latest Analysis
 
-Loaded 12518 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-31 12:29:04
+Loaded 12595 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-31 18:07:28
 
 Incidents by source:
 source
-newsapi           12417
+newsapi           12494
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-01-31 12:29
-- Location: Mediatakeout.com
-- Description: Messages between A$AP Rocky and his accuser, A$AP Relli, were read out in court, showing Rocky denying Relli’s claims that the rapper shot him and accusing him of extortion. Relli accuses Rocky of setting him up, and Rocky responds,  “I tried to do what?? … S…
+### OTHER on 2025-01-31 18:07
+- Location: TheWrap
+- Description: "Seeds" and "André Is an Idiot" took top documentary prizes
+The post Sundance 2025 Awards: ‘Atropia’ and ‘Seeds’ Take Jury Prizes, Dylan O’Brien-Led ‘Twinless’ Wins Audience Award appeared first on TheWrap.
 
 
-### OTHER on 2025-01-31 12:27
-- Location: What's on Netflix
-- Description: The new action movie headlined by Tom Hardy is heading to Netflix this Spring.
+### ASSAULT on 2025-01-31 18:06
+- Location: The Jerusalem Post
+- Description: Police are offering a 10,000 euro reward for information relating to an arson attack carried out on the premis
 
 
-### OTHER on 2025-01-31 12:06
-- Location: The Star Online
-- Description: NEW YORK (Reuters) - U.S. President Donald Trump's new homeland security secretary made sure cameras were rolling when she joined federal agents to arrest migrants in New York City, including a Venezuelan man wanted by Colorado police that Trump had made part…
+### OTHER on 2025-01-31 18:02
+- Location: The Escapist
+- Description: Reese Witherspoon is a beloved actress, but unfortunately, not everyone in the entertainment business is fond of her.
 
 
-### HOMICIDE on 2025-01-31 12:00
-- Location: WSOC Charlotte
-- Description: Wadesboro police have announced an arrest in a deadly double shooting that happened Thursday morning.
+### HOMICIDE on 2025-01-31 18:00
+- Location: CinemaBlend
+- Description: The cosy crime drama returns, starring Don Gillet as DI Mervin Wilson. Read our guide here for how to watch Death in Paradise Season 14 online and free from anywhere now.
 
 
-### HOMICIDE on 2025-01-31 12:00
-- Location: CBS News
-- Description: Dee Warner's brother, Gregg Hardy, says he was being sarcastic when he wrote the billboard in Lenawee County, Michigan, that read "Help Dale Find Dee." Dale Warner denies he ever harmed his wife.
+### HOMICIDE on 2025-01-31 17:59
+- Location: Newsbreak.com
+- Description: A man has admitted killing five people in Texas in 2023 and will serve a life sentence without the possibility of parole, a prosecutor said. Francisco Oro
 
-Analysis generated at: Sat Feb  1 12:35:04 UTC 2025
+Analysis generated at: Sat Feb  1 18:14:27 UTC 2025
