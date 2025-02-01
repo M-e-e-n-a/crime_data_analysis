@@ -1,10 +1,10 @@
 
-Loaded 12390 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-30 18:15:43
+Loaded 12404 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-31 00:58:38
 
 Incidents by source:
 source
-newsapi           12289
+newsapi           12303
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-01-30 18:15
-- Location: Rolling Stone
-- Description: Immigration rights experts and organizations tell Rolling Stone communities can keep each other safe by knowing these basic legal practices
+### HOMICIDE on 2025-01-31 00:58
+- Location: 7NEWS.com.au
+- Description: Sam ‘The Punisher’ Abdulrahim’s ex-girlfriend emotionally slams online trolls who targeted her after his murder7news.com.au
 
 
-### OTHER on 2025-01-30 18:08
-- Location: fox6now.com
-- Description: Two people were arrested following an early morning police chase that started in West Allis on Thursday, Jan. 30.
+### OTHER on 2025-01-31 00:58
+- Location: Hollywood Reporter
+- Description: Past social media posts from the 'Emilia Peréz' star resurfaced on Thursday morning.
 
 
-### HOMICIDE on 2025-01-30 18:07
-- Location: Yahoo Entertainment
-- Description: None
+### OTHER on 2025-01-31 00:55
+- Location: Deadline
+- Description: Oscar nominated Emilia Pérez star Karla Sofía Gascón has issued an apology through Netflix for the caustic social media missives she posted half a decade ago, which have imperiled her awards season chances. “I want to acknowledge the conversation around my pa…
 
 
-### HOMICIDE on 2025-01-30 18:05
-- Location: Theplaylist.net
-- Description: How do you solve a mystery when everyone’s a suspect? It’s a question facing Detective Cordelia Cupp in ‘The Residence.” Cupp’s facing murder at the White House and 157 suspects in this upcoming Netflix series. The Shondaland project is inspired by Kate Ander…
+### HOMICIDE on 2025-01-31 00:47
+- Location: ABC News
+- Description: Police have arrested a total of six people in connection with a deadly explosion of illegal fireworks in a Honolulu neighborhood on New Year’s Eve
 
 
-### OTHER on 2025-01-30 17:51
-- Location: The Escapist
-- Description: It's been a wild few weeks for Jessica Alba fans, but what stories about her going around right now are actually true?
+### HOMICIDE on 2025-01-31 00:47
+- Location: Honolulu Star-Advertiser
+- Description: Five Honolulu police officers will not be charged for using force to mistakenly arrest a 25-year-old man found running toward a Jan. 1, 2024, shootout with an attempted murder suspect who evaded police and shot two of them, Prosecuting Attorney Steve Alm anno…
 
-Analysis generated at: Fri Jan 31 18:16:25 UTC 2025
+Analysis generated at: Sat Feb  1 01:00:57 UTC 2025
