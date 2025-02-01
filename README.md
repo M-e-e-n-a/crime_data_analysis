@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Feb  1 06:16:02 UTC 2025
+Last updated: Sat Feb  1 12:20:34 UTC 2025
 
 ## Latest Analysis
 
-Loaded 12447 incidents
-Date range: 2024-01-01 00:00:00 to 2025-01-31 06:02:36
+Loaded 12516 incidents
+Date range: 2024-01-01 00:00:00 to 2025-01-31 12:06:00
 
 Incidents by source:
 source
-newsapi           12346
+newsapi           12415
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-01-31 06:02
-- Location: WDIV ClickOnDetroit
-- Description: The unsolved death of a teenager in 1977 haunted students and staff at Honolulu's McKinley High School for nearly half a century.
+### OTHER on 2025-01-31 12:06
+- Location: The Star Online
+- Description: NEW YORK (Reuters) - U.S. President Donald Trump's new homeland security secretary made sure cameras were rolling when she joined federal agents to arrest migrants in New York City, including a Venezuelan man wanted by Colorado police that Trump had made part…
 
 
-### OTHER on 2025-01-31 06:01
-- Location: Thefutoncritic.com
-- Description: A collection of sneak peeks and first looks from Sweden, Turkey, Denmark, Germany, Mexico, Italy, Brazil, Norway and Australia.
+### HOMICIDE on 2025-01-31 12:00
+- Location: WSOC Charlotte
+- Description: Wadesboro police have announced an arrest in a deadly double shooting that happened Thursday morning.
 
 
-### OTHER on 2025-01-31 06:00
-- Location: BBC News
-- Description: Yvette Cooper says the cash is for more local officers but some forces say they still face budget shortfalls.
+### HOMICIDE on 2025-01-31 12:00
+- Location: CBS News
+- Description: Dee Warner's brother, Gregg Hardy, says he was being sarcastic when he wrote the billboard in Lenawee County, Michigan, that read "Help Dale Find Dee." Dale Warner denies he ever harmed his wife.
 
 
-### OTHER on 2025-01-31 06:00
-- Location: Smallwarsjournal.com
-- Description: Author’s Note to the Reader: The strategic significance of border regions in sustaining Ukraine’s war and reconstruction efforts – a dual process unfolding simultaneously – cannot be overstated. In producing this analysis, I revisited some unpublished reflect…
+### OTHER on 2025-01-31 11:59
+- Location: GlobeNewswire
+- Description: E.U. Investing in Advanced Technologies and Infrastructure to Support the Use of Drones in Policing E.U. Investing in Advanced Technologies and Infrastructure to Support the Use of Drones in Policing
 
 
-### OTHER on 2025-01-31 06:00
-- Location: Naturalnews.com
-- Description: We have an urgent and worrisome update on our three-year-old Jeremy Brown exclusive. Jeremy, a J6 political prisoner, may now be in grave danger. (Article republished from Revolver.news) If you’re not familiar with Jeremy, here’s a quick rundown. First off, J…
+### OTHER on 2025-01-31 11:56
+- Location: BleepingComputer
+- Description: ​Law enforcement authorities in the United States and the Netherlands have seized 39 domains and associated servers used by the HeartSender phishing gang operating out of Pakistan. [...]
 
-Analysis generated at: Sat Feb  1 06:16:02 UTC 2025
+Analysis generated at: Sat Feb  1 12:20:34 UTC 2025
