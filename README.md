@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Feb  2 01:00:37 UTC 2025
+Last updated: Sun Feb  2 01:39:22 UTC 2025
 
 ## Latest Analysis
 
-Loaded 12611 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-01 00:58:36
+Loaded 12616 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-01 01:32:57
 
 Incidents by source:
 source
-newsapi           12510
+newsapi           12515
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2025-02-01 00:58
-- Location: CBC News
-- Description: The seven-month-old Bernese mountain dog was in the Dodge Ram 2500 stolen in Central North River Friday evening. Police are asking the public to help find it.
+### OTHER on 2025-02-01 01:32
+- Location: Raw Story
+- Description: EL PASO — On a recent windy, cold afternoon in this border city, dozens of people gathered at a park for an immigrant rights demonstration to denounce the Trump administration’s immigration policies. Some held signs reading: “Immigrants Make America Great.”Al…
 
 
-### HOMICIDE on 2025-02-01 00:54
-- Location: ABC News
-- Description: Prosecutors say a Massachusetts woman accused of planning to kill Republican leaders at the U.S. Capitol told police she was influenced by Luigi Mangione, the man charged with fatally shooting the CEO of UnitedHealthcare last year
+### ASSAULT on 2025-02-01 01:28
+- Location: Newgeography.com
+- Description: It’s hard to picture Donald Trump as a civil-rights hero in the mould of Abraham Lincoln or even Lyndon Johnson. Yet through his orders to dismantle the ubiquitous regime of diversity, equity and inclusion (DEI), he may have accelerated America’s evolution in…
 
 
-### HOMICIDE on 2025-02-01 00:49
-- Location: ABC News (AU)
-- Description: The WA Labor government has put tackling family and domestic violence at the top of its agenda. In spite of this, eight police officers did not perform their duties in lead-up to the Floreat murders, according to an internal report.
+### OTHER on 2025-02-01 01:23
+- Location: New York Post
+- Description: Gov. Kathy Hochul is rallying behind Big Apple district attorneys’ push to change the state’s evidence laws.
 
 
-### HOMICIDE on 2025-02-01 00:40
-- Location: Boston Herald
-- Description: The judge in the Karen Read murder case says she'll decide without a hearing whether the defense will maintain its digital forensics expert who has testified the controversial “hos long to die in cold” search happened hours before John O’Keefe’s dying body wa…
+### OTHER on 2025-02-01 01:14
+- Location: Freerepublic.com
+- Description: The Director of National Intelligence and the U.S. Attorney General have until Feb. 7 to present a full disclosure plan for the records pertaining to the assassination of President John F. Kennedy, according to an executive order signed by President Donald Tr…
 
 
-### OTHER on 2025-02-01 00:39
-- Location: The Jerusalem Post
-- Description: A Hamilton man faces hate crime charges for promoting antisemitism and advocating genocide online.
+### OTHER on 2025-02-01 01:14
+- Location: Freerepublic.com
+- Description: The Director of National Intelligence and the U.S. Attorney General have until Feb. 7 to present a full disclosure plan for the records pertaining to the assassination of President John F. Kennedy, according to an executive order signed by President Donald Tr…
 
-Analysis generated at: Sun Feb  2 01:00:37 UTC 2025
+Analysis generated at: Sun Feb  2 01:39:22 UTC 2025
