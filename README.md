@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Feb  2 06:15:34 UTC 2025
+Last updated: Sun Feb  2 12:19:59 UTC 2025
 
 ## Latest Analysis
 
-Loaded 12636 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-01 06:00:00
+Loaded 12664 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-01 12:15:44
 
 Incidents by source:
 source
-newsapi           12535
+newsapi           12563
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-02-01 06:00
-- Location: Naturalnews.com
-- Description: Last Thursday, The Wall Street Journal exposed how federal agencies helped carry out the biggest scientific con of the century. In early 2020, when the COVID pandemic was starting to ravage America, federal bureaucrats and politicians rushed to suppress any s…
+### OTHER on 2025-02-01 12:15
+- Location: ABC News
+- Description: Israel has released a total of 183 Palestinian prisoners in exchange for three Israeli hostages held in Gaza as part of the ceasefire agreement between Israel and Hamas
 
 
-### HOMICIDE on 2025-02-01 05:58
-- Location: The Star Online
-- Description: KOTA KINABALU: A palm oil estate worker was killed for asking the suspect about the money given to buy groceries in Papar, near here, on Thursday (30 January). Read full story
+### OTHER on 2025-02-01 12:07
+- Location: VOA News
+- Description: BANGKOK — Myanmar’s scam operations are expanding south along Thailand’s border, authorities have told VOA in recent days, and will continue operating as long as their access to SIM cards, Starlink satellites, electricity and the key human resources — scammer…
 
 
-### OTHER on 2025-02-01 05:53
-- Location: Bangkok Post
-- Description: <p>UBON RATCHATHANI - A 40-year-old man has been arrested for setting fire on a public hospital building in Det Udom district on Friday, leading to the evacuation of patients and injuries to four people.</p>
+### HOMICIDE on 2025-02-01 12:00
+- Location: National Post
+- Description: 'I do think their ideology is definitely not pacifist... they're willing to do violence. There were times when they believed violence was justified when normal people would not'
 
 
-### HOMICIDE on 2025-02-01 05:30
-- Location: The Jerusalem Post
-- Description: The police killed one suspect and arrested another after the suspects began firing at officers in the Arab-Isr
+### OTHER on 2025-02-01 11:00
+- Location: Fox News
+- Description: The country began to see the effects of President Trump’s policies in his second week in office, with the White House implementing tariffs on Mexico, Canada and China; border crossings plummeting; DEI programs shuttering; the federal workforce being faced wit…
 
 
-### HOMICIDE on 2025-02-01 05:20
-- Location: ABC News (AU)
-- Description: A third man has been charged with murder following a fatal double shooting on Victoria's Mornington Peninsula last December.
+### OTHER on 2025-02-01 11:00
+- Location: Richmond.com
+- Description: Once the arsenal of the Confederacy and a manufacturer of shells during both World Wars, Tredegar ceased operations for good in February of 1957.
 
-Analysis generated at: Sun Feb  2 06:15:34 UTC 2025
+Analysis generated at: Sun Feb  2 12:19:59 UTC 2025
