@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Feb  2 12:19:59 UTC 2025
+Last updated: Sun Feb  2 12:34:34 UTC 2025
 
 ## Latest Analysis
 
-Loaded 12664 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-01 12:15:44
+Loaded 12665 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-01 12:32:52
 
 Incidents by source:
 source
-newsapi           12563
+newsapi           12564
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -23,6 +23,11 @@ bution.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### ROBBERY/THEFT on 2025-02-01 12:32
+- Location: New York Post
+- Description: Two NYPD detectives allege in a bombshell lawsuit filed Saturday that they have become modern day Serpicos – investigating police corruption at the highest levels only to be retaliated against and bullied by their own department.
+
 
 ### OTHER on 2025-02-01 12:15
 - Location: ABC News
@@ -43,9 +48,4 @@ bution.svg)
 - Location: Fox News
 - Description: The country began to see the effects of President Trump’s policies in his second week in office, with the White House implementing tariffs on Mexico, Canada and China; border crossings plummeting; DEI programs shuttering; the federal workforce being faced wit…
 
-
-### OTHER on 2025-02-01 11:00
-- Location: Richmond.com
-- Description: Once the arsenal of the Confederacy and a manufacturer of shells during both World Wars, Tredegar ceased operations for good in February of 1957.
-
-Analysis generated at: Sun Feb  2 12:19:59 UTC 2025
+Analysis generated at: Sun Feb  2 12:34:34 UTC 2025
