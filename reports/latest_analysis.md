@@ -1,10 +1,10 @@
 
-Loaded 12755 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-02 12:25:16
+Loaded 12796 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-02 17:43:51
 
 Incidents by source:
 source
-newsapi           12654
+newsapi           12695
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-02-02 12:25
-- Location: Screen Rant
-- Description: HBO Max’s new medical drama, The Pitt, has become an instant hit among viewers, and fortunately, there are countless other similar projects.
+### OTHER on 2025-02-02 17:43
+- Location: New York Post
+- Description: A woman who taunted police by commenting ‘hey guys’ on her own wanted appeal posted to a force’s Facebook page has been arrested.
 
 
-### OTHER on 2025-02-02 12:10
-- Location: The Times of India
-- Description: Congress leaders Rahul and Priyanka Gandhi criticized BJP after a missing 22-year-old Dalit woman's body was found in a canal in Ayodhya. The family alleges police inaction despite reporting her missing. Both leaders demand a thorough investigation, strict pu…
+### SHOOTING on 2025-02-02 17:31
+- Location: Yahoo Entertainment
+- Description: None
 
 
-### OTHER on 2025-02-02 12:07
-- Location: Forbes
-- Description: Mass deportation of undocumented immigrants will have serious consequences for the United States economy and job market.
+### HOMICIDE on 2025-02-02 17:03
+- Location: The Denver Post
+- Description: Two cars crashed Saturday night near North Tower Road and Peña Boulevard, killing at least one person and hospitalizing four, according to the Denver Police Department.
 
 
-### OTHER on 2025-02-02 12:06
-- Location: INFORUM
-- Description: "This will be a pretty historical opportunity," the head of the White Earth Nation's cannabis operation says. The tribe expects to seal its compact with the state of Minnesota soon.
+### HOMICIDE on 2025-02-02 17:02
+- Location: The Jerusalem Post
+- Description: Dandis went to Nahal Telem in December 2007 with friends in order to cause the death of Jewish soldiers, the military continued.
 
 
-### HOMICIDE on 2025-02-02 12:00
-- Location: Newser
-- Description: The city of Minneapolis has agreed to pay $600,000 to settle a lawsuit by a woman who alleged that ex-Officer Derek Chauvin hauled her from her minivan and pinned her to the ground with his knee in January 2020— just as he did four months later when he killed…
+### OTHER on 2025-02-02 16:56
+- Location: RT
+- Description: The UK’s efforts to address violence against females have failed to improve outcomes for victims, the National Audit Office has reported Read Full Article at RT.com
 
-Analysis generated at: Mon Feb  3 12:39:02 UTC 2025
+Analysis generated at: Mon Feb  3 18:16:28 UTC 2025
