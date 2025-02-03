@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Feb  3 00:58:44 UTC 2025
+Last updated: Mon Feb  3 01:36:47 UTC 2025
 
 ## Latest Analysis
 
-Loaded 12708 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-02 00:57:52
+Loaded 12710 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-02 01:30:00
 
 Incidents by source:
 source
-newsapi           12607
+newsapi           12609
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -23,6 +23,16 @@ bution.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### DRUG RELATED on 2025-02-02 01:30
+- Location: BBC News
+- Description: BBC Eye investigates police abuse of psychiatric detention in China. In 2012, China introduced a law to curb the widespread abuse of psychiatric hospitals by the authorities, but it hasn’t worked. We reveal how the police found ways to circumvent the law, all…
+
+
+### HOMICIDE on 2025-02-02 01:08
+- Location: Biztoc.com
+- Description: PHNOM PENH -- Cambodian political activists living in Thailand say they have gone into virtual hiding out of fear of arrest or worse, despite their prime minister, Hun Manet, insisting his government was not involved in the fatal shooting last month of a form…
+
 
 ### HOMICIDE on 2025-02-02 00:57
 - Location: Boston Herald
@@ -39,14 +49,4 @@ The post ‘Plainclothes’ Review: Tom Blyth Drama Puts a Personal Spotlight on
 - Location: Securityaffairs.com
 - Description: Indian multinational technology company Tata Technologies suspended some IT services following a ransomware attack. Indian multinational Tata Technologies, a Tata Motors subsidiary, suspended some IT services following a ransomware attack. The company, which …
 
-
-### HOMICIDE on 2025-02-02 00:47
-- Location: NBC News
-- Description: The city of Minneapolis has agreed to pay $600,000 to settle a lawsuit by a woman who alleged that ex-Officer Derek Chauvin hauled her from her minivan and pinned her to the ground with his knee in January 2020, just as he did four months later when he killed…
-
-
-### OTHER on 2025-02-02 00:45
-- Location: The Punch
-- Description: The Niger State Police Command has arrested a 26-year-old farmer, Umar Mohammed, for allegedly defiling a six-year-old girl in the state. The incident occurred on Monday in Farar-Doka village, Bangi, Mariga Local Government Area of the state. According to the…
-
-Analysis generated at: Mon Feb  3 00:58:44 UTC 2025
+Analysis generated at: Mon Feb  3 01:36:47 UTC 2025
