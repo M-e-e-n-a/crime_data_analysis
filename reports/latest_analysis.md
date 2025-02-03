@@ -1,10 +1,10 @@
 
-Loaded 12754 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-02 12:10:01
+Loaded 12755 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-02 12:25:16
 
 Incidents by source:
 source
-newsapi           12653
+newsapi           12654
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -19,6 +19,11 @@ bution.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### OTHER on 2025-02-02 12:25
+- Location: Screen Rant
+- Description: HBO Max’s new medical drama, The Pitt, has become an instant hit among viewers, and fortunately, there are countless other similar projects.
+
 
 ### OTHER on 2025-02-02 12:10
 - Location: The Times of India
@@ -39,9 +44,4 @@ bution.svg)
 - Location: Newser
 - Description: The city of Minneapolis has agreed to pay $600,000 to settle a lawsuit by a woman who alleged that ex-Officer Derek Chauvin hauled her from her minivan and pinned her to the ground with his knee in January 2020— just as he did four months later when he killed…
 
-
-### OTHER on 2025-02-02 11:58
-- Location: Bangkok Post
-- Description: <p>A Thai woman allegedly connected with the biggest <strong>romance scam</strong> in Thailand's history has been <strong>arrested </strong>at Hat Yai International Airport, the Central Investigation Bureau (CIB) revealed on Sunday.&nbsp;</p>
-
-Analysis generated at: Mon Feb  3 12:23:06 UTC 2025
+Analysis generated at: Mon Feb  3 12:39:02 UTC 2025
