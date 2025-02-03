@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Feb  3 06:17:52 UTC 2025
+Last updated: Mon Feb  3 12:23:06 UTC 2025
 
 ## Latest Analysis
 
-Loaded 12728 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-02 06:12:36
+Loaded 12754 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-02 12:10:01
 
 Incidents by source:
 source
-newsapi           12627
+newsapi           12653
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-02-02 06:12
-- Location: Fark.com
-- Description: Given his name, new police K9 can be expected to assume local crime is caused by aliens, vaccines and "the establishment"
+### OTHER on 2025-02-02 12:10
+- Location: The Times of India
+- Description: Congress leaders Rahul and Priyanka Gandhi criticized BJP after a missing 22-year-old Dalit woman's body was found in a canal in Ayodhya. The family alleges police inaction despite reporting her missing. Both leaders demand a thorough investigation, strict pu…
 
 
-### HOMICIDE on 2025-02-02 06:00
-- Location: The Irish Times
-- Description: As a young fighter John George’s future seemed full of promise – Carl Frampton was among those he defeated – until ‘one night ruined his life’, says his sister Courtney
+### OTHER on 2025-02-02 12:07
+- Location: Forbes
+- Description: Mass deportation of undocumented immigrants will have serious consequences for the United States economy and job market.
 
 
-### HOMICIDE on 2025-02-02 06:00
-- Location: Naturalnews.com
-- Description: Salwan Momika, an Iraqi refugee known for burning the Quran, was shot dead in his apartment in Sweden during a TikTok livestream. The killing occurred one day before he was due in court on hate speech charges related to his Quran-burning protests. Swedish pol…
+### OTHER on 2025-02-02 12:06
+- Location: INFORUM
+- Description: "This will be a pretty historical opportunity," the head of the White Earth Nation's cannabis operation says. The tribe expects to seal its compact with the state of Minnesota soon.
 
 
-### OTHER on 2025-02-02 05:53
-- Location: Globalsecurity.org
-- Description: Belize, a country in central America, has requested the International Court of Justice (ICJ) to allow it to join South Africa's genocide case against Israel over the regime's war on Gaza, the ICJ has announced.
+### HOMICIDE on 2025-02-02 12:00
+- Location: Newser
+- Description: The city of Minneapolis has agreed to pay $600,000 to settle a lawsuit by a woman who alleged that ex-Officer Derek Chauvin hauled her from her minivan and pinned her to the ground with his knee in January 2020— just as he did four months later when he killed…
 
 
-### ASSAULT on 2025-02-02 05:42
-- Location: ABC News (AU)
-- Description: A home in Perth's western suburbs is the target of antisemitic graffiti, with WA police confirming they're investigating the incident.
+### OTHER on 2025-02-02 11:58
+- Location: Bangkok Post
+- Description: <p>A Thai woman allegedly connected with the biggest <strong>romance scam</strong> in Thailand's history has been <strong>arrested </strong>at Hat Yai International Airport, the Central Investigation Bureau (CIB) revealed on Sunday.&nbsp;</p>
 
-Analysis generated at: Mon Feb  3 06:17:52 UTC 2025
+Analysis generated at: Mon Feb  3 12:23:06 UTC 2025
