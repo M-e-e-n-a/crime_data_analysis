@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Feb  3 01:36:47 UTC 2025
+Last updated: Mon Feb  3 06:17:52 UTC 2025
 
 ## Latest Analysis
 
-Loaded 12710 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-02 01:30:00
+Loaded 12728 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-02 06:12:36
 
 Incidents by source:
 source
-newsapi           12609
+newsapi           12627
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### DRUG RELATED on 2025-02-02 01:30
-- Location: BBC News
-- Description: BBC Eye investigates police abuse of psychiatric detention in China. In 2012, China introduced a law to curb the widespread abuse of psychiatric hospitals by the authorities, but it hasn’t worked. We reveal how the police found ways to circumvent the law, all…
+### OTHER on 2025-02-02 06:12
+- Location: Fark.com
+- Description: Given his name, new police K9 can be expected to assume local crime is caused by aliens, vaccines and "the establishment"
 
 
-### HOMICIDE on 2025-02-02 01:08
-- Location: Biztoc.com
-- Description: PHNOM PENH -- Cambodian political activists living in Thailand say they have gone into virtual hiding out of fear of arrest or worse, despite their prime minister, Hun Manet, insisting his government was not involved in the fatal shooting last month of a form…
+### HOMICIDE on 2025-02-02 06:00
+- Location: The Irish Times
+- Description: As a young fighter John George’s future seemed full of promise – Carl Frampton was among those he defeated – until ‘one night ruined his life’, says his sister Courtney
 
 
-### HOMICIDE on 2025-02-02 00:57
-- Location: Boston Herald
-- Description: The Boston Magazine journalist who wrote a long-form piece on the Karen Read murder case will not be required to turn over her handwritten notes of an “off-the-record” interview conducted with the defendant.
+### HOMICIDE on 2025-02-02 06:00
+- Location: Naturalnews.com
+- Description: Salwan Momika, an Iraqi refugee known for burning the Quran, was shot dead in his apartment in Sweden during a TikTok livestream. The killing occurred one day before he was due in court on hate speech charges related to his Quran-burning protests. Swedish pol…
 
 
-### OTHER on 2025-02-02 00:51
-- Location: TheWrap
-- Description: Sundance 2025: Filmmaker Carmen Emmi's debut features stirring turns from Blyth and Russell Tovey
-The post ‘Plainclothes’ Review: Tom Blyth Drama Puts a Personal Spotlight on Gay Male Identity appeared first on TheWrap.
+### OTHER on 2025-02-02 05:53
+- Location: Globalsecurity.org
+- Description: Belize, a country in central America, has requested the International Court of Justice (ICJ) to allow it to join South Africa's genocide case against Israel over the regime's war on Gaza, the ICJ has announced.
 
 
-### ASSAULT on 2025-02-02 00:48
-- Location: Securityaffairs.com
-- Description: Indian multinational technology company Tata Technologies suspended some IT services following a ransomware attack. Indian multinational Tata Technologies, a Tata Motors subsidiary, suspended some IT services following a ransomware attack. The company, which …
+### ASSAULT on 2025-02-02 05:42
+- Location: ABC News (AU)
+- Description: A home in Perth's western suburbs is the target of antisemitic graffiti, with WA police confirming they're investigating the incident.
 
-Analysis generated at: Mon Feb  3 01:36:47 UTC 2025
+Analysis generated at: Mon Feb  3 06:17:52 UTC 2025
