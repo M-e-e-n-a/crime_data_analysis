@@ -1,10 +1,10 @@
 
-Loaded 12804 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-03 01:30:37
+Loaded 12836 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-03 06:10:00
 
 Incidents by source:
 source
-newsapi           12703
+newsapi           12735
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-02-03 01:30
-- Location: fox6now.com
-- Description: Milwaukee shooting, 33rd and St. Paul; 1 injured, 1 arrestedfox6now.com
+### SHOOTING on 2025-02-03 06:10
+- Location: The Star Online
+- Description: KUALA LUMPUR: Six Malaysian Maritime Enforcement Agency (MMEA) officers on duty during the recent Tanjung Rhu shooting involving Indonesian nationals are on leave while police investigate the incident, says the Home Minister. Read full story
 
 
-### OTHER on 2025-02-03 01:20
-- Location: Cosmopolitan.com
-- Description: Rihanna and A$AP were notably missing from the 2025 Grammy Awards red carpet, but the reason why they skipped the ceremony makes sense.
+### SHOOTING on 2025-02-03 06:07
+- Location: The Star Online
+- Description: KUALA LUMPUR: Six Malaysian Maritime Enforcement Agency (MMEA) officers on duty during the recent Tanjung Rhu shooting involving Indonesian nationals are on leave while police investigate the incident, says the Home Minister.
 
 
-### OTHER on 2025-02-03 00:46
-- Location: Starcommunity.com.au
-- Description: Victoria Police are investigating a Nazi flag being hung on an overpass bridge in Dandenong North. Police officers were alerted […]
+### OTHER on 2025-02-03 06:00
+- Location: The Irish Times
+- Description: Public are split between revulsion and acceptance but the sport continues to enjoy crucial political support
 
 
-### SHOOTING on 2025-02-03 00:29
-- Location: 7NEWS.com.au
-- Description: Sam ‘The Punisher’ Abdulrahim’s loved ones in emotional graveyard tribute after he was gunned down in Melbourne7news.com.au
+### OTHER on 2025-02-03 06:00
+- Location: Naturalnews.com
+- Description: The Trump administration has set aggressive daily arrest quotas for ICE, targeting illegal immigrants with criminal records in major sanctuary cities. The move comes as the administration seeks to reverse the “open border policies” of the previous administrat…
 
 
-### ASSAULT on 2025-02-03 00:23
-- Location: Israelnationalnews.com
-- Description: Antisemitic graffiti scrawled on vehicles and homes in Sydney’s eastern suburbs, the latest in a series of attacks targeting the Jewish community in the city.
+### HOMICIDE on 2025-02-03 06:00
+- Location: Naturalnews.com
+- Description: That old saying about killing two birds with one stone feels pretty spot-on here—but even more so, it’s starting to feel like the infamous #TrumpCurse is making a comeback. (Article republished from Revolver.news) That’s exactly what’s happening to former Dis…
 
-Analysis generated at: Tue Feb  4 01:35:54 UTC 2025
+Analysis generated at: Tue Feb  4 06:17:51 UTC 2025
