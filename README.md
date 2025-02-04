@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Feb  4 12:23:48 UTC 2025
+Last updated: Tue Feb  4 12:39:26 UTC 2025
 
 ## Latest Analysis
 
-Loaded 12898 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-03 12:21:27
+Loaded 12899 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-03 12:33:19
 
 Incidents by source:
 source
-newsapi           12797
+newsapi           12798
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -23,6 +23,11 @@ bution.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### OTHER on 2025-02-03 12:33
+- Location: Www.gov.uk
+- Description: Speaking at the Centre for Social Justice, Bridget Phillipson laid out plans for a new era of school standards delivering on the Plan for Change.
+
 
 ### OTHER on 2025-02-03 12:21
 - Location: PetaPixel
@@ -44,9 +49,4 @@ bution.svg)
 - Location: Sky.com
 - Description: A man has been charged with attempted murder after three police officers were injured in an "altercation" at a police station in Rhondda Cynon Taf.
 
-
-### HOMICIDE on 2025-02-03 12:08
-- Location: Digital Journal
-- Description: An east Ukrainian crime boss and separatist wanted by Kyiv was killed with one other person in a blast at a luxury residential complex in Moscow on Monday, Russian media reported.  Armen Sarkisian, a known mafia boss from east Ukraine who had formed a battali…
-
-Analysis generated at: Tue Feb  4 12:23:48 UTC 2025
+Analysis generated at: Tue Feb  4 12:39:26 UTC 2025
