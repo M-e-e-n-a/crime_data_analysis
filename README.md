@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Feb  4 00:57:48 UTC 2025
+Last updated: Tue Feb  4 01:35:54 UTC 2025
 
 ## Latest Analysis
 
-Loaded 12802 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-03 00:46:25
+Loaded 12804 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-03 01:30:37
 
 Incidents by source:
 source
-newsapi           12701
+newsapi           12703
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,6 +24,16 @@ bution.svg)
 
 ## Recent Incidents
 
+### SHOOTING on 2025-02-03 01:30
+- Location: fox6now.com
+- Description: Milwaukee shooting, 33rd and St. Paul; 1 injured, 1 arrestedfox6now.com
+
+
+### OTHER on 2025-02-03 01:20
+- Location: Cosmopolitan.com
+- Description: Rihanna and A$AP were notably missing from the 2025 Grammy Awards red carpet, but the reason why they skipped the ceremony makes sense.
+
+
 ### OTHER on 2025-02-03 00:46
 - Location: Starcommunity.com.au
 - Description: Victoria Police are investigating a Nazi flag being hung on an overpass bridge in Dandenong North. Police officers were alerted […]
@@ -38,14 +48,4 @@ bution.svg)
 - Location: Israelnationalnews.com
 - Description: Antisemitic graffiti scrawled on vehicles and homes in Sydney’s eastern suburbs, the latest in a series of attacks targeting the Jewish community in the city.
 
-
-### OTHER on 2025-02-03 00:18
-- Location: The Star Online
-- Description: PETALING JAYA: Police arrested a man after he was suspected of raping his eight-year-old daughter on Saturday. Read full story
-
-
-### HOMICIDE on 2025-02-03 00:04
-- Location: The Punch
-- Description: No fewer than three people have been killed while three suspects were arrested in a fresh clash among rival cult groups in Onne in Eleme Local Government Area of Rivers State. Though the names of the cult groups could not be identified, it was gathered that o…
-
-Analysis generated at: Tue Feb  4 00:57:48 UTC 2025
+Analysis generated at: Tue Feb  4 01:35:54 UTC 2025
