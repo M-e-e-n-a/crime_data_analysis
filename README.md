@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Feb  4 12:39:26 UTC 2025
+Last updated: Tue Feb  4 18:16:43 UTC 2025
 
 ## Latest Analysis
 
-Loaded 12899 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-03 12:33:19
+Loaded 12986 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-03 18:12:00
 
 Incidents by source:
 source
-newsapi           12798
+newsapi           12885
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,52 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-02-03 12:33
-- Location: Www.gov.uk
-- Description: Speaking at the Centre for Social Justice, Bridget Phillipson laid out plans for a new era of school standards delivering on the Plan for Change.
+### OTHER on 2025-02-03 18:12
+- Location: GoNintendo
+- Description: Watch responsibly
 
 
-### OTHER on 2025-02-03 12:21
-- Location: PetaPixel
-- Description: The U.K. will become the first country in the world to make it illegal to use AI tools that create child sexual abuse images.
-[Read More]
+### OTHER on 2025-02-03 18:11
+- Location: mgoblog.com
+- Description: City Council Endorsements, 2020
+
+ July 17th, 2020 at 3:31 PM
+
+ Brian
+July 17th, 2020 at 3:31 PM
 
 
-### OTHER on 2025-02-03 12:17
-- Location: What's on Netflix
-- Description: The four-part mini-series from the United Kingdom drops on Netflix globally on March 13th, 2025.
+ 
+ 
+ 
+ 
+ 
+
+ 
 
 
-### OTHER on 2025-02-03 12:14
-- Location: ABC News
-- Description: Ugandan opposition leaders have demanded the release of a colleague whose military trial faces a legal challenge after the top court ruled that civilians can’t be court-martialed
+
+ 
+ this is still a surface parking lot [flickr user Dennis Sparks]
+ 
+ Election is August 4. 
 
 
-### HOMICIDE on 2025-02-03 12:11
-- Location: Sky.com
-- Description: A man has been charged with attempted murder after three police officers were injured in an "altercation" at a police station in Rhondda Cynon Taf.
+tl;dr: vote for Lisa Disch in Ward 1, Linh Song …
 
-Analysis generated at: Tue Feb  4 12:39:26 UTC 2025
+
+### OTHER on 2025-02-03 18:11
+- Location: ABC News (AU)
+- Description: The government will need to rely on the crossbench to pass proposed legislation, with the opposition concerned those claiming a political stance will be able to circumvent the laws.
+
+
+### HOMICIDE on 2025-02-03 18:00
+- Location: PoPville
+- Description: via google maps From MPD: "The Metropolitan Police Department announces the arrest of a suspect in a fatal shooting in Northwest. On Friday, October 25, 2024, at approximately 5:47 p.m., an officer of the Fourth District was patrolling in the 3700 block of Ge…
+
+
+### OTHER on 2025-02-03 18:00
+- Location: Digital Trends
+- Description: The best heist movies feature meticulously crafted plots, shocking twists, and thrilling stories as seen in genre-defining films like Heat and Inception.
+
+Analysis generated at: Tue Feb  4 18:16:43 UTC 2025
