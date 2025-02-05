@@ -1,10 +1,10 @@
 
-Loaded 13045 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-04 06:17:00
+Loaded 13101 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-04 12:20:50
 
 Incidents by source:
 source
-newsapi           12944
+newsapi           13000
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2025-02-04 06:17
-- Location: Bangkok Post
-- Description: <p>Police are hunting a robber who fled with jewellery worth about 5 million baht from a shopping mall gold shop in Pathum Thani province on Monday.</p>
+### OTHER on 2025-02-04 12:20
+- Location: Securityaffairs.com
+- Description: Coyote Banking Trojan targets Brazilian users, stealing data from over 70 financial applications and websites. FortiGuard Labs researchers detected a campaign using LNK files executing PowerShell commands to deploy the Coyote Banking Trojan. Threat actors tar…
 
 
-### SHOOTING on 2025-02-04 06:07
-- Location: Sky.com
-- Description: Five people have been shot at a school in Sweden, according to police.
+### HOMICIDE on 2025-02-04 12:16
+- Location: The Star Online
+- Description: (Reuters) - The trial of the man charged with attempting to murder the novelist Salman Rushdie at a New York lecture is due to begin on Tuesday with jury selection. Read full story
 
 
-### HOMICIDE on 2025-02-04 06:07
-- Location: Sky.com
-- Description: Swedish police have said around 10 people have been killed at an adult education centre, in what the country's prime minister said is the worst mass shooting in Sweden's history.
+### ROBBERY/THEFT on 2025-02-04 12:15
+- Location: Thehillstimes.in
+- Description: HT Digital GUWAHATI, Feb 4: Guwahati Police have successfully cracked two separate theft cases, leading to the arrest of six individuals and the recovery of stolen valuables, including gold jewelry, cash, and vehicles, the city police officials informed on Tu…
 
 
-### ASSAULT on 2025-02-04 06:05
-- Location: BBC News
-- Description: Residents say they suspect trees are being deliberately targeted on roads without CCTV.
+### OTHER on 2025-02-04 12:13
+- Location: SFGate
+- Description: There are several networks of street cameras that drivers in San Francisco may encounter.
 
 
-### OTHER on 2025-02-04 06:04
-- Location: BBC News
-- Description: More than 300 PCS union staff working in referencing and vetting have stopped work until 17 February.
+### OTHER on 2025-02-04 12:09
+- Location: The Star Online
+- Description: PETALING JAYA: The Sessions Court was informed on Tuesday (Feb 4) that the body of a missing boy was found by the banks of a stream near a reservoir close to Block R of the Idaman Apartment in Damansara Damai, with injuries to his left ear and right hand. Rea…
 
-Analysis generated at: Wed Feb  5 06:17:30 UTC 2025
+Analysis generated at: Wed Feb  5 12:23:38 UTC 2025
