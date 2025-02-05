@@ -1,10 +1,10 @@
 
-Loaded 12999 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-04 00:53:07
+Loaded 13007 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-04 01:32:43
 
 Incidents by source:
 source
-newsapi           12898
+newsapi           12906
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-02-04 00:53
-- Location: Lifesciencesworld.com
-- Description: Understanding Adam Lanza: The Creepy Tragedy Adam Lanza, the 20-year-old perpetrator of the Sandy Hook Elementary School shooting in 2012, […]
-The post Why is adam lanza so creepy? appeared first on Life Sciences World.
+### OTHER on 2025-02-04 01:32
+- Location: Smallwarsjournal.com
+- Description: Small Wars Journal–El Centro is pleased to announce the addition of four new El Centro Fellows and one El Centro Associate for 2025. The El Centro Fellows and Associate for 2025 are: Fellows Prof. Jorge Lasmar is Professor of International Relations at the Po…
 
 
-### DRUG RELATED on 2025-02-04 00:49
-- Location: CBC News
-- Description: The provincial government intends to "bring the hammer down" on the people and groups responsible for the slew of drugs that have infiltrated Manitoba communities, Premier Wab Kinew says.
+### OTHER on 2025-02-04 01:28
+- Location: Thairesidents.com
+- Description: A THAI WOMAN returning from Malaysia was arrested as soon as her flight landed at Hat Yai Airport on charges
+The post Nigerian romance scam mule account holder arrested at airport appeared first on ThaiResidents.com - Thai Local News - Thai News.
 
 
-### ASSAULT on 2025-02-04 00:33
-- Location: The Denver Post
-- Description: Imagine Kay Ewer pleaded guilty to sexual assault on child by someone in a position of trust and contributing to the delinquency of a minor.
+### HOMICIDE on 2025-02-04 01:26
+- Location: CNN
+- Description: Ellen Greenberg was found dead in 2011 in her Philadelphia apartment with 20 knife wounds and numerous bruises. Authorities ruled her death a suicide. Fourteen years later, the pathologist who performed her autopsy says he’s changed his mind.
 
 
-### SHOOTING on 2025-02-04 00:30
-- Location: ABC News
-- Description: Alabama Gov. Kay Ivey and many lawmakers are supporting a ban on Glock switches and other conversion devices that make semi-automatic weapons fire like a machine gun
+### OTHER on 2025-02-04 01:25
+- Location: Starweekly.com.au
+- Description: Whittlesea police will host a community forum later this month to give residents a chance to have their say on...
+The post Policing forum in South Morang appeared first on Northern.
 
 
-### OTHER on 2025-02-04 00:27
-- Location: EFF
-- Description: We’re taking a moment to reflect on the 2024 state legislative session and what it means for the future of digital rights at the state level. Informed by insights from the State of State Technology Policy 2024 report by NYU’s Center on Technology Policy and E…
+### SHOOTING on 2025-02-04 01:15
+- Location: Khabarhub.com
+- Description: KATHMANDU: Tensions have escalated in Taplejung following a police shooting on January 25 that left two protesters seriously injured. The individuals were part of the ‘No Cable Car Group’, which has been voicing strong opposition to the construction of a cabl…
 
-Analysis generated at: Wed Feb  5 00:58:28 UTC 2025
+Analysis generated at: Wed Feb  5 01:37:12 UTC 2025
