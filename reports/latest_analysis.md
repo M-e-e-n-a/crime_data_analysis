@@ -1,10 +1,10 @@
 
-Loaded 13007 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-04 01:32:43
+Loaded 13045 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-04 06:17:00
 
 Incidents by source:
 source
-newsapi           12906
+newsapi           12944
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,30 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-02-04 01:32
-- Location: Smallwarsjournal.com
-- Description: Small Wars Journal–El Centro is pleased to announce the addition of four new El Centro Fellows and one El Centro Associate for 2025. The El Centro Fellows and Associate for 2025 are: Fellows Prof. Jorge Lasmar is Professor of International Relations at the Po…
+### ROBBERY/THEFT on 2025-02-04 06:17
+- Location: Bangkok Post
+- Description: <p>Police are hunting a robber who fled with jewellery worth about 5 million baht from a shopping mall gold shop in Pathum Thani province on Monday.</p>
 
 
-### OTHER on 2025-02-04 01:28
-- Location: Thairesidents.com
-- Description: A THAI WOMAN returning from Malaysia was arrested as soon as her flight landed at Hat Yai Airport on charges
-The post Nigerian romance scam mule account holder arrested at airport appeared first on ThaiResidents.com - Thai Local News - Thai News.
+### SHOOTING on 2025-02-04 06:07
+- Location: Sky.com
+- Description: Five people have been shot at a school in Sweden, according to police.
 
 
-### HOMICIDE on 2025-02-04 01:26
-- Location: CNN
-- Description: Ellen Greenberg was found dead in 2011 in her Philadelphia apartment with 20 knife wounds and numerous bruises. Authorities ruled her death a suicide. Fourteen years later, the pathologist who performed her autopsy says he’s changed his mind.
+### HOMICIDE on 2025-02-04 06:07
+- Location: Sky.com
+- Description: Swedish police have said around 10 people have been killed at an adult education centre, in what the country's prime minister said is the worst mass shooting in Sweden's history.
 
 
-### OTHER on 2025-02-04 01:25
-- Location: Starweekly.com.au
-- Description: Whittlesea police will host a community forum later this month to give residents a chance to have their say on...
-The post Policing forum in South Morang appeared first on Northern.
+### ASSAULT on 2025-02-04 06:05
+- Location: BBC News
+- Description: Residents say they suspect trees are being deliberately targeted on roads without CCTV.
 
 
-### SHOOTING on 2025-02-04 01:15
-- Location: Khabarhub.com
-- Description: KATHMANDU: Tensions have escalated in Taplejung following a police shooting on January 25 that left two protesters seriously injured. The individuals were part of the ‘No Cable Car Group’, which has been voicing strong opposition to the construction of a cabl…
+### OTHER on 2025-02-04 06:04
+- Location: BBC News
+- Description: More than 300 PCS union staff working in referencing and vetting have stopped work until 17 February.
 
-Analysis generated at: Wed Feb  5 01:37:12 UTC 2025
+Analysis generated at: Wed Feb  5 06:17:30 UTC 2025
