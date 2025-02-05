@@ -1,10 +1,10 @@
 
-Loaded 12986 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-03 18:12:00
+Loaded 12999 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-04 00:53:07
 
 Incidents by source:
 source
-newsapi           12885
+newsapi           12898
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,52 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-02-03 18:12
-- Location: GoNintendo
-- Description: Watch responsibly
+### SHOOTING on 2025-02-04 00:53
+- Location: Lifesciencesworld.com
+- Description: Understanding Adam Lanza: The Creepy Tragedy Adam Lanza, the 20-year-old perpetrator of the Sandy Hook Elementary School shooting in 2012, […]
+The post Why is adam lanza so creepy? appeared first on Life Sciences World.
 
 
-### OTHER on 2025-02-03 18:11
-- Location: mgoblog.com
-- Description: City Council Endorsements, 2020
-
- July 17th, 2020 at 3:31 PM
-
- Brian
-July 17th, 2020 at 3:31 PM
+### DRUG RELATED on 2025-02-04 00:49
+- Location: CBC News
+- Description: The provincial government intends to "bring the hammer down" on the people and groups responsible for the slew of drugs that have infiltrated Manitoba communities, Premier Wab Kinew says.
 
 
- 
- 
- 
- 
- 
-
- 
+### ASSAULT on 2025-02-04 00:33
+- Location: The Denver Post
+- Description: Imagine Kay Ewer pleaded guilty to sexual assault on child by someone in a position of trust and contributing to the delinquency of a minor.
 
 
-
- 
- this is still a surface parking lot [flickr user Dennis Sparks]
- 
- Election is August 4. 
+### SHOOTING on 2025-02-04 00:30
+- Location: ABC News
+- Description: Alabama Gov. Kay Ivey and many lawmakers are supporting a ban on Glock switches and other conversion devices that make semi-automatic weapons fire like a machine gun
 
 
-tl;dr: vote for Lisa Disch in Ward 1, Linh Song …
+### OTHER on 2025-02-04 00:27
+- Location: EFF
+- Description: We’re taking a moment to reflect on the 2024 state legislative session and what it means for the future of digital rights at the state level. Informed by insights from the State of State Technology Policy 2024 report by NYU’s Center on Technology Policy and E…
 
-
-### OTHER on 2025-02-03 18:11
-- Location: ABC News (AU)
-- Description: The government will need to rely on the crossbench to pass proposed legislation, with the opposition concerned those claiming a political stance will be able to circumvent the laws.
-
-
-### HOMICIDE on 2025-02-03 18:00
-- Location: PoPville
-- Description: via google maps From MPD: "The Metropolitan Police Department announces the arrest of a suspect in a fatal shooting in Northwest. On Friday, October 25, 2024, at approximately 5:47 p.m., an officer of the Fourth District was patrolling in the 3700 block of Ge…
-
-
-### OTHER on 2025-02-03 18:00
-- Location: Digital Trends
-- Description: The best heist movies feature meticulously crafted plots, shocking twists, and thrilling stories as seen in genre-defining films like Heat and Inception.
-
-Analysis generated at: Tue Feb  4 18:16:43 UTC 2025
+Analysis generated at: Wed Feb  5 00:58:28 UTC 2025
