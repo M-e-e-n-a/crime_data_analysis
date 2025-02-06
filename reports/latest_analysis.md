@@ -1,10 +1,10 @@
 
-Loaded 13270 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-05 06:15:16
+Loaded 13356 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-05 12:23:35
 
 Incidents by source:
 source
-newsapi           13169
+newsapi           13255
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-02-05 06:15
-- Location: Biztoc.com
-- Description: Police do not currently believe there was a terrorist motive, but stress that they are still in the early stages of the investigation.
+### OTHER on 2025-02-05 12:23
+- Location: The Jerusalem Post
+- Description: "If you engage in antisemitic conduct, you will be investigated and prosecuted to the full extent of the law."
 
 
-### OTHER on 2025-02-05 06:14
-- Location: ABC News (AU)
-- Description: The opposition leader has praised the states and territories for being tough on crime in the first weeks of his unofficial election campaign.
+### HOMICIDE on 2025-02-05 12:20
+- Location: Screen Rant
+- Description: Dexter: Original Sin just included a scene that makes Harry Morgan much more culpable for all of the Ice Truck Killer's death and chaos.
 
 
-### HOMICIDE on 2025-02-05 06:08
-- Location: EURACTIV
-- Description: Police do not currently believe there was a terrorist motive, but stress that they are still in the early stages of the investigation.
+### OTHER on 2025-02-05 12:13
+- Location: The Jerusalem Post
+- Description: King Abdullah will meet President Trump next week, and may demand that Ahlam Tamimi be deported and extradited. Nitsana Darshan-Leitner reveals new details about the dramatic meeting.
 
 
-### OTHER on 2025-02-05 06:04
-- Location: BBC News
-- Description: Nearly a quarter of London's cycleways remain largely unused at night by half of the population.
+### HOMICIDE on 2025-02-05 12:12
+- Location: Slashdot.org
+- Description: 11 dead in worst mass shooting in Sweden's history, authorities sayABC News Sweden Searches for Answers After Mass ShootingThe New York Times 11 Confirmed Dead After Mass Shooting at Adult Education School in Sweden: 'Incredibly Tragic Event'PEOPLE Swedish po…
 
 
-### HOMICIDE on 2025-02-05 06:03
-- Location: BBC News
-- Description: Steven Grygelko, whose stage name was Heklina, was found dead by his friend Joshua Grannell.
+### HOMICIDE on 2025-02-05 12:04
+- Location: NDTV News
+- Description: A man here allegedly killed his 10-year-old son by giving him water mixed with sodium nitrite, a poisonous substance, police said on Wednesday.
 
-Analysis generated at: Thu Feb  6 06:18:07 UTC 2025
+Analysis generated at: Thu Feb  6 12:24:08 UTC 2025
