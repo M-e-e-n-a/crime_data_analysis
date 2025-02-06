@@ -1,10 +1,10 @@
 
-Loaded 13356 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-05 12:23:35
+Loaded 13363 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-05 12:39:15
 
 Incidents by source:
 source
-newsapi           13255
+newsapi           13262
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-02-05 12:23
-- Location: The Jerusalem Post
-- Description: "If you engage in antisemitic conduct, you will be investigated and prosecuted to the full extent of the law."
+### ROBBERY/THEFT on 2025-02-05 12:39
+- Location: Business Insider
+- Description: Police say they are investigating the theft of 100,000 eggs from a Pennsylvania supplier. Egg prices have surged due to avian flu and holiday demand.
 
 
-### HOMICIDE on 2025-02-05 12:20
-- Location: Screen Rant
-- Description: Dexter: Original Sin just included a scene that makes Harry Morgan much more culpable for all of the Ice Truck Killer's death and chaos.
+### ASSAULT on 2025-02-05 12:39
+- Location: Sky.com
+- Description: The anger was palpable among the family members of the Nottingham attack victims.
 
 
-### OTHER on 2025-02-05 12:13
-- Location: The Jerusalem Post
-- Description: King Abdullah will meet President Trump next week, and may demand that Ahlam Tamimi be deported and extradited. Nitsana Darshan-Leitner reveals new details about the dramatic meeting.
+### OTHER on 2025-02-05 12:37
+- Location: Newsweek
+- Description: Amid her critical acclaim and awards nominations, Gascón has been mired in controversy over resurfaced social media posts.
 
 
-### HOMICIDE on 2025-02-05 12:12
+### OTHER on 2025-02-05 12:34
+- Location: Fox News
+- Description: Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.
+
+
+### HOMICIDE on 2025-02-05 12:32
 - Location: Slashdot.org
-- Description: 11 dead in worst mass shooting in Sweden's history, authorities sayABC News Sweden Searches for Answers After Mass ShootingThe New York Times 11 Confirmed Dead After Mass Shooting at Adult Education School in Sweden: 'Incredibly Tragic Event'PEOPLE Swedish po…
+- Description: Swedish police dismiss talk of ideological motive for mass school shootingReuters Sweden's worst mass shooting leaves at least 11 dead, 5 seriously wounded at adult education centerThe Associated Press 11 Confirmed Dead After Mass Shooting at Adult Education …
 
-
-### HOMICIDE on 2025-02-05 12:04
-- Location: NDTV News
-- Description: A man here allegedly killed his 10-year-old son by giving him water mixed with sodium nitrite, a poisonous substance, police said on Wednesday.
-
-Analysis generated at: Thu Feb  6 12:24:08 UTC 2025
+Analysis generated at: Thu Feb  6 12:39:49 UTC 2025
