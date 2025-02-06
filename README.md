@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Feb  6 00:58:29 UTC 2025
+Last updated: Thu Feb  6 01:37:26 UTC 2025
 
 ## Latest Analysis
 
-Loaded 13212 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-05 00:43:00
+Loaded 13224 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-05 01:32:18
 
 Incidents by source:
 source
-newsapi           13111
+newsapi           13123
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-02-05 00:43
-- Location: The Japan Times
-- Description: The gunman, whose motive was not immediately known, is believed to be among those killed.
+### HOMICIDE on 2025-02-05 01:32
+- Location: Slashdot.org
+- Description: At least 10 killed at adult education center in what officials say is Sweden's worst mass shootingThe Associated Press Multiple people killed in central Sweden school shooting, police sayCNN International At least 10 killed in mass shooting at Swedish schoolY…
 
 
-### OTHER on 2025-02-05 00:41
-- Location: The Punch
-- Description: Edo State Governor, Monday Okpebholo, has tasked the newly inaugurated governing council of Ambrose Alli University, Ekpoma, with the responsibility of restoring the institution’s lost glory. During the inauguration ceremony held on Monday at the New Festival…
+### OTHER on 2025-02-05 01:30
+- Location: The Times of India
+- Description: Delhi Election Voting: Delhi's 2025 assembly elections witness a fierce three-way contest between AAP, BJP, and Congress. With 15.5 million voters deciding the fate of 699 candidates, key issues include welfare schemes, governance, and infrastructure. Securit…
 
 
-### OTHER on 2025-02-05 00:35
-- Location: Radaronline.com
-- Description: Karla Sofía Gascón, star of the Oscar-nominated favorite 'Emilia Pérez.' will not promote the film after controversial remarks from her past resurfaced.
+### OTHER on 2025-02-05 01:30
+- Location: The Times of India
+- Description: Delhi Election Voting: Delhi's 2025 assembly elections witness a fierce three-way contest between AAP, BJP, and Congress. With 15.5 million voters deciding the fate of 699 candidates, key issues include welfare schemes, governance, and infrastructure. Securit…
 
 
-### ROBBERY/THEFT on 2025-02-05 00:24
-- Location: HuffPost
-- Description: Investigators have yet to crack the case.
+### OTHER on 2025-02-05 01:28
+- Location: Raw Story
+- Description: Netflix has dropped Karla Sofia Gascon, the star of "Emilia Perez," from its high-profile Oscars campaign and distanced itself from the best actress nominee over her offensive social media posts, Hollywood trade outlets reported Tuesday.Images of Gascon, who …
 
 
-### OTHER on 2025-02-05 00:14
-- Location: The Punch
-- Description: A human rights lawyer and leading counsel for the Indigenous People of Biafra, Sir Ifeanyi Ejiofor, has disclosed that he has survived multiple assassination attempts by both state and non-state actors due to his advocacy for the group. Ejiofor, a Knight of S…
+### OTHER on 2025-02-05 01:27
+- Location: ABC News (AU)
+- Description: Emergency services were called to the scene after a member of the public saw the girl in a car in Earlwood in Sydney's south-west.
 
-Analysis generated at: Thu Feb  6 00:58:29 UTC 2025
+Analysis generated at: Thu Feb  6 01:37:26 UTC 2025
