@@ -1,10 +1,10 @@
 
-Loaded 13468 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-06 01:29:47
+Loaded 13510 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-06 06:16:52
 
 Incidents by source:
 source
-newsapi           13367
+newsapi           13409
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-02-06 01:29
-- Location: Newsweek
-- Description: Steven Nelson was executed by lethal injection in Texas on Wednesday. He was executed at 6:50 p.m. CST.
+### OTHER on 2025-02-06 06:16
+- Location: EURACTIV
+- Description: In today's edition of the Capitals, read about the two year review that exposes Germany’s climate policy fog, how France’s Bayrou won the budget battle, not the war, and so much more.
 
 
-### HOMICIDE on 2025-02-06 01:28
-- Location: ABC News (AU)
-- Description: Survivors of Sweden's worst mass shooting remember trying to save the lives of their comrades at a school for adults in Orebro, a day after a gunman killed 11 people on what the prime minister called a "dark day" in the country's history.
+### OTHER on 2025-02-06 06:06
+- Location: EURACTIV
+- Description: Allegations that several witnesses have been fired because they cooperated with the European prosecutor.
 
 
-### OTHER on 2025-02-06 01:10
-- Location: Rolling Stone
-- Description: 'Emilia Pérez' director Jacques Audiard shared that he has not spoken to Karla Sofia Gascón, who plays his film's title character.
+### HOMICIDE on 2025-02-06 06:04
+- Location: Thefutoncritic.com
+- Description: Set amidst the steep cliffs and fast tides of Capri, "A Taste for Murder" features classic Italian cuisine as the main ingredient to each episode's central murder mystery, revealing the power of food to foster connection, community, and healing after devastat…
 
 
-### ROBBERY/THEFT on 2025-02-06 01:09
-- Location: seattlepi.com
-- Description: The heist of 100,000 eggs from the back of a trailer in Pennsylvania has become a whodunit that police have yet to crack. A spokesperson for the Pennsylvania State Police said Wednesday that four days after the theft no leads have come in. Law enforcement off…
+### OTHER on 2025-02-06 05:55
+- Location: NPR
+- Description: The agreements potentially help the Trump administration address a key sticking point in immigration enforcement since not everyone in the U.S. illegally can be easily sent back home.
 
 
-### OTHER on 2025-02-06 01:04
-- Location: HuffPost
-- Description: Jacques Audiard, who also cowrote the Oscar-nominated musical, said he hasn't spoken with the actor recently and added, "I don’t want to."
+### HOMICIDE on 2025-02-06 05:53
+- Location: New York Post
+- Description: Officer Jason Roscow, 46, was responding to reports of a person with a handgun near the intersection of Lone Mountain Road and Camino Al Norte, 11 miles north of the Las Vegas Strip.
 
-Analysis generated at: Fri Feb  7 01:37:32 UTC 2025
+Analysis generated at: Fri Feb  7 06:17:57 UTC 2025
