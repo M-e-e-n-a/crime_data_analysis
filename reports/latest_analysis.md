@@ -1,10 +1,10 @@
 
-Loaded 13580 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-06 12:36:38
+Loaded 13675 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-06 18:15:54
 
 Incidents by source:
 source
-newsapi           13479
+newsapi           13574
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-02-06 12:36
-- Location: BBC News
-- Description: There are also reports that Bosnians were caught up in the worst shooting in Swedish history.
+### OTHER on 2025-02-06 18:15
+- Location: Footwear News
+- Description: $200K worth of fake sneakers were seized from a Massachusetts store whose owner says he didn't know the shoes weren't real and is offering refunds.
 
 
-### HOMICIDE on 2025-02-06 12:28
-- Location: WSB Atlanta
-- Description: Irv Gotti, a hip-hop music executive who founded Murder Inc. Records and worked with DMX, Aaliyah, Kanye West and Jay-Z, has died at the age of 54.
+### DRUG RELATED on 2025-02-06 18:09
+- Location: The Star Online
+- Description: SARAJEVO, Feb. 6 (Xinhua) -- Police seized more than 100 kilograms of drugs and a large cache of weapons in an anti-drug operation, authorities in the Sarajevo Canton announced on Thursday. Read full story
 
 
-### HOMICIDE on 2025-02-06 12:22
-- Location: WPXI Pittsburgh
-- Description: Irv Gotti, a hip-hop music executive who founded Murder Inc. Records and worked with DMX, Aaliyah, Kanye West and Jay-Z, has died at the age of 54.
+### ROBBERY/THEFT on 2025-02-06 18:07
+- Location: NBC News
+- Description: An Idaho man’s theft scheme involving a literal crime ring and a soup barcode just landed him in the can.
 
 
-### SHOOTING on 2025-02-06 12:19
-- Location: Freerepublic.com
-- Description: On January 15th and January 16th, in Houston, Texas, two young men fired guns in defense of self and others. One young man was protecting himself and his companions in the car he occupied. The other was protecting his pregnant significant other. Both actions …
+### ROBBERY/THEFT on 2025-02-06 18:07
+- Location: CBC News
+- Description: As the federal government says it will introduce new measures to fight organized crime in Canada, helping it stave off tariff threats from the U.S., experts say that Canada's money-laundering problem has festered for far too long — and that the issue makes it…
 
 
-### ASSAULT on 2025-02-06 12:08
-- Location: BBC News
-- Description: Some 230 people have been arrested and 1,000 phones seized by police in the past week.
+### SHOOTING on 2025-02-06 18:06
+- Location: New York Post
+- Description: A second victim in the "targeted" shooting at an Ohio cosmetics warehouse has died, officials said Thursday as the gunman who opened fire on his co-workers is due in court.
 
-Analysis generated at: Fri Feb  7 12:38:42 UTC 2025
+Analysis generated at: Fri Feb  7 18:16:37 UTC 2025
