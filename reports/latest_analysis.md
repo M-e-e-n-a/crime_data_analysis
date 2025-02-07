@@ -1,10 +1,10 @@
 
-Loaded 13463 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-06 00:55:20
+Loaded 13468 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-06 01:29:47
 
 Incidents by source:
 source
-newsapi           13362
+newsapi           13367
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2025-02-06 00:55
-- Location: Financial Post
-- Description: ANTRIM TOWNSHIP, Pa. (AP) — The heist of 100,000 eggs from the back of a trailer in Pennsylvania has become a whodunit that police have yet to crack. Four days after the theft that law enforcement say could be tied to the sky-high cost of eggs, no leads have …
+### OTHER on 2025-02-06 01:29
+- Location: Newsweek
+- Description: Steven Nelson was executed by lethal injection in Texas on Wednesday. He was executed at 6:50 p.m. CST.
 
 
-### OTHER on 2025-02-06 00:54
-- Location: Westernjournal.com
-- Description: David Hogg now has a vice chair position in the DNC, but some Democrats worry that his image as a radical activist could harm the party.
+### HOMICIDE on 2025-02-06 01:28
+- Location: ABC News (AU)
+- Description: Survivors of Sweden's worst mass shooting remember trying to save the lives of their comrades at a school for adults in Orebro, a day after a gunman killed 11 people on what the prime minister called a "dark day" in the country's history.
 
 
-### HOMICIDE on 2025-02-06 00:43
-- Location: CBC News
-- Description: Canmore resident Austin Desylva was “shooting to kill” when he fired twice at an RCMP officer who’d attempted to conduct a traffic stop, the constable told a judge Wednesday.
+### OTHER on 2025-02-06 01:10
+- Location: Rolling Stone
+- Description: 'Emilia Pérez' director Jacques Audiard shared that he has not spoken to Karla Sofia Gascón, who plays his film's title character.
 
 
-### HOMICIDE on 2025-02-06 00:33
-- Location: Japan Today
-- Description: After a random knife assault at a bus stop in front of JR Nagano station on January 22 left one person dead and two injured, Nikkan Gendai (Jan 25) raised the issue of  how incidents of this nature might impact on foreign visitors.  Nagano, a prefecture in ce…
+### ROBBERY/THEFT on 2025-02-06 01:09
+- Location: seattlepi.com
+- Description: The heist of 100,000 eggs from the back of a trailer in Pennsylvania has become a whodunit that police have yet to crack. A spokesperson for the Pennsylvania State Police said Wednesday that four days after the theft no leads have come in. Law enforcement off…
 
 
-### HOMICIDE on 2025-02-06 00:28
-- Location: Honolulu Star-Advertiser
-- Description: Investigators with the state Department of Law Enforcement opened a first-degree murder investigation this morning after a 33-year-old inmate at the Oahu Community Correctional Center was found dead.
+### OTHER on 2025-02-06 01:04
+- Location: HuffPost
+- Description: Jacques Audiard, who also cowrote the Oscar-nominated musical, said he hasn't spoken with the actor recently and added, "I don’t want to."
 
-Analysis generated at: Fri Feb  7 00:58:44 UTC 2025
+Analysis generated at: Fri Feb  7 01:37:32 UTC 2025
