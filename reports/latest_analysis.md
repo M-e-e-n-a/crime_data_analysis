@@ -1,10 +1,10 @@
 
-Loaded 13510 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-06 06:16:52
+Loaded 13578 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-06 12:22:28
 
 Incidents by source:
 source
-newsapi           13409
+newsapi           13477
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-02-06 06:16
-- Location: EURACTIV
-- Description: In today's edition of the Capitals, read about the two year review that exposes Germany’s climate policy fog, how France’s Bayrou won the budget battle, not the war, and so much more.
+### HOMICIDE on 2025-02-06 12:22
+- Location: WPXI Pittsburgh
+- Description: Irv Gotti, a hip-hop music executive who founded Murder Inc. Records and worked with DMX, Aaliyah, Kanye West and Jay-Z, has died at the age of 54.
 
 
-### OTHER on 2025-02-06 06:06
-- Location: EURACTIV
-- Description: Allegations that several witnesses have been fired because they cooperated with the European prosecutor.
+### SHOOTING on 2025-02-06 12:19
+- Location: Freerepublic.com
+- Description: On January 15th and January 16th, in Houston, Texas, two young men fired guns in defense of self and others. One young man was protecting himself and his companions in the car he occupied. The other was protecting his pregnant significant other. Both actions …
 
 
-### HOMICIDE on 2025-02-06 06:04
-- Location: Thefutoncritic.com
-- Description: Set amidst the steep cliffs and fast tides of Capri, "A Taste for Murder" features classic Italian cuisine as the main ingredient to each episode's central murder mystery, revealing the power of food to foster connection, community, and healing after devastat…
+### ASSAULT on 2025-02-06 12:08
+- Location: BBC News
+- Description: Some 230 people have been arrested and 1,000 phones seized by police in the past week.
 
 
-### OTHER on 2025-02-06 05:55
-- Location: NPR
-- Description: The agreements potentially help the Trump administration address a key sticking point in immigration enforcement since not everyone in the U.S. illegally can be easily sent back home.
+### HOMICIDE on 2025-02-06 12:02
+- Location: Thedailymash.co.uk
+- Description: SOMETIMES you read ‘Sonia is pregnant with Jamie’s baby unaware that he killed his ex-wife though her sister confessed’ and thank God you were spared this soap plot. These are actual storylines:
 
 
-### HOMICIDE on 2025-02-06 05:53
-- Location: New York Post
-- Description: Officer Jason Roscow, 46, was responding to reports of a person with a handgun near the intersection of Lone Mountain Road and Camino Al Norte, 11 miles north of the Las Vegas Strip.
+### OTHER on 2025-02-06 12:00
+- Location: Time
+- Description: When Niecy Nash-Betts won her first-ever Primetime Emmy Award in January 2024 for her role in Netflix’s 2022 true-crime drama Dahmer, she made sure to thank someone who had supported her every step of the way: herself. “I want to thank me,” she said in her ac…
 
-Analysis generated at: Fri Feb  7 06:17:57 UTC 2025
+Analysis generated at: Fri Feb  7 12:22:57 UTC 2025
