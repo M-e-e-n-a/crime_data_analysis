@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Feb  7 18:16:37 UTC 2025
+Last updated: Sat Feb  8 00:56:56 UTC 2025
 
 ## Latest Analysis
 
-Loaded 13675 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-06 18:15:54
+Loaded 13682 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-07 00:56:41
 
 Incidents by source:
 source
-newsapi           13574
+newsapi           13581
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-02-06 18:15
-- Location: Footwear News
-- Description: $200K worth of fake sneakers were seized from a Massachusetts store whose owner says he didn't know the shoes weren't real and is offering refunds.
+### ROBBERY/THEFT on 2025-02-07 00:56
+- Location: The Punch
+- Description: The Edo State chapter of the Peoples Democratic Party has called for an investigation by the Economic and Financial Crimes Commission into the financial recklessness that led to the suspension of the Attorney General and Commissioner for Justice, Samson Osagi…
 
 
-### DRUG RELATED on 2025-02-06 18:09
-- Location: The Star Online
-- Description: SARAJEVO, Feb. 6 (Xinhua) -- Police seized more than 100 kilograms of drugs and a large cache of weapons in an anti-drug operation, authorities in the Sarajevo Canton announced on Thursday. Read full story
+### OTHER on 2025-02-07 00:49
+- Location: TMZ
+- Description: Rihanna's back at it, rocking everyone's world as she left the downtown L.A. courthouse where her man A$AP Rocky is going through his criminal trial. The singer kept the style parade going, wearing a trench coat as she was filmed leaving the…
 
 
-### ROBBERY/THEFT on 2025-02-06 18:07
-- Location: NBC News
-- Description: An Idaho man’s theft scheme involving a literal crime ring and a soup barcode just landed him in the can.
+### OTHER on 2025-02-07 00:30
+- Location: FOX 13 Tampa Bay
+- Description: Royal Caribbean’s Western Caribbean Cruise promised vacationers the chance to hike Mayan ruins in Mexico and swim in the waters of Grand Cayman.
 
 
-### ROBBERY/THEFT on 2025-02-06 18:07
-- Location: CBC News
-- Description: As the federal government says it will introduce new measures to fight organized crime in Canada, helping it stave off tariff threats from the U.S., experts say that Canada's money-laundering problem has festered for far too long — and that the issue makes it…
-
-
-### SHOOTING on 2025-02-06 18:06
+### ROBBERY/THEFT on 2025-02-07 00:25
 - Location: New York Post
-- Description: A second victim in the "targeted" shooting at an Ohio cosmetics warehouse has died, officials said Thursday as the gunman who opened fire on his co-workers is due in court.
+- Description: "They preyed on unsuspecting young gay men,” Manhattan prosecutor Meghan Hast said in court Thursday about defendants Jayqwan Hamilton, Robert DeMaio and Jacob Barroso.
 
-Analysis generated at: Fri Feb  7 18:16:37 UTC 2025
+
+### ROBBERY/THEFT on 2025-02-07 00:24
+- Location: Borderlandbeat.com
+- Description: "El Huaso" for Borderland Beat A string of arrests linked to milk theft in Guanajuato showcases the adaptability of organized crime rings in...
+
+Analysis generated at: Sat Feb  8 00:56:56 UTC 2025
