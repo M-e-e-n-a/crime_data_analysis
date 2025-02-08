@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Feb  8 00:56:56 UTC 2025
+Last updated: Sat Feb  8 01:27:37 UTC 2025
 
 ## Latest Analysis
 
-Loaded 13682 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-07 00:56:41
+Loaded 13689 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-07 01:25:03
 
 Incidents by source:
 source
-newsapi           13581
+newsapi           13588
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2025-02-07 00:56
+### HOMICIDE on 2025-02-07 01:25
 - Location: The Punch
-- Description: The Edo State chapter of the Peoples Democratic Party has called for an investigation by the Economic and Financial Crimes Commission into the financial recklessness that led to the suspension of the Attorney General and Commissioner for Justice, Samson Osagi…
+- Description: A yet-to-be-identified student of Delta State Polytechnic, Ogwashi-Uku has been kidnapped while a stray bullet from gunmen killed a woman in Aniocha North Local Government Area of the state. PUNCH Metro gathered on Thursday that the lady said to be a Higher N…
 
 
-### OTHER on 2025-02-07 00:49
-- Location: TMZ
-- Description: Rihanna's back at it, rocking everyone's world as she left the downtown L.A. courthouse where her man A$AP Rocky is going through his criminal trial. The singer kept the style parade going, wearing a trench coat as she was filmed leaving the…
+### HOMICIDE on 2025-02-07 01:17
+- Location: Thechronicle.com.gh
+- Description: The decomposing body of a member of the Anambra State House of Assembly, Justice Azuka, has been discovered on the 2nd Niger Bridge. Azuka’s body was discovered by a combined security team. The lawmaker representing Onitsha North Constituency 1 was kidnapped …
 
 
-### OTHER on 2025-02-07 00:30
-- Location: FOX 13 Tampa Bay
-- Description: Royal Caribbean’s Western Caribbean Cruise promised vacationers the chance to hike Mayan ruins in Mexico and swim in the waters of Grand Cayman.
+### OTHER on 2025-02-07 01:16
+- Location: The Punch
+- Description: The Gombe State Police Command has announced the assumption of duty by CP Bello Yahaya as the 23rd Commissioner of Police, following the redeployment of CP Hayatu Usman to the Force Headquarters, Abuja. CP Yahaya, who hails from Shinkafi, Zamfara State, accor…
 
 
-### ROBBERY/THEFT on 2025-02-07 00:25
-- Location: New York Post
-- Description: "They preyed on unsuspecting young gay men,” Manhattan prosecutor Meghan Hast said in court Thursday about defendants Jayqwan Hamilton, Robert DeMaio and Jacob Barroso.
+### OTHER on 2025-02-07 01:11
+- Location: Fox News
+- Description: President Trump revealed picks for big jobs, including ambassadors to the Czech Republic, Poland, Costa Rica and Norway and his pick for director of the U.S. Marshals Service.
 
 
-### ROBBERY/THEFT on 2025-02-07 00:24
-- Location: Borderlandbeat.com
-- Description: "El Huaso" for Borderland Beat A string of arrests linked to milk theft in Guanajuato showcases the adaptability of organized crime rings in...
+### HOMICIDE on 2025-02-07 01:09
+- Location: STLtoday.com
+- Description: The victim, Dae'wan Lindsay, died Tuesday of injuries from the shooting, which took place Jan. 26. Police say they believe it was a homicide.
 
-Analysis generated at: Sat Feb  8 00:56:56 UTC 2025
+Analysis generated at: Sat Feb  8 01:27:37 UTC 2025
