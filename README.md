@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Feb  9 06:15:51 UTC 2025
+Last updated: Sun Feb  9 12:20:49 UTC 2025
 
 ## Latest Analysis
 
-Loaded 13927 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-08 06:08:12
+Loaded 13955 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-08 12:17:57
 
 Incidents by source:
 source
-newsapi           13826
+newsapi           13854
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-02-08 06:08
+### OTHER on 2025-02-08 12:17
+- Location: Statetimes.in
+- Description: TRAFFIC POLICE HEADQUARTERS, J&K, JAMMU/SRINAGAR TRAFFIC PLAN & ADVISORY FOR 09-02-2025:- Subject to fair weather and better road conditions LMVs Passenger/Private Cars/HMVs shall be allowed from both sides on Jammu-Srinagar NHW (NH-44) viz from Jammu towards…
+
+
+### OTHER on 2025-02-08 12:00
+- Location: Fox News
+- Description: Chicago resident Vashon Tuncle joins ‘The Ingraham Angle’ to express support for Trump border czar Tom Homan in his battle with state and city leaders over ICE deportations.
+
+
+### HOMICIDE on 2025-02-08 12:00
+- Location: NBC News
+- Description: Ophelia Bauckholt was killed in a shootout with U.S. Border Patrol agents in northern Vermont — an unlikely end to a life that held so much promise.
+
+
+### OTHER on 2025-02-08 11:28
+- Location: Christiantoday.com
+- Description: The church of the late David Fletcher has said it is "deeply shocked" after the Church of England said it had received information concerning its former rector "of sexual abuse and coercive and controlling behaviour ... towards women and girls".
+
+
+### ASSAULT on 2025-02-08 11:13
 - Location: The Times of India
-- Description: The Hamilton County Sheriff's Office in suburban Indianapolis is set to collaborate with federal immigration authorities under President Trump's administration. This partnership aims to identify and detain immigrants in the U.S. illegally. The 287(g) program …
+- Description: Kareena Kapoor shared a cryptic Instagram note reflecting on life's humbling experiences after her husband, Saif Ali Khan, was severely injured in an attack at their Bandra residence. She urged the media to respect their privacy. Meanwhile, Mumbai Police conf…
 
-
-### OTHER on 2025-02-08 06:00
-- Location: Naturalnews.com
-- Description: Mammoth Lakes, California Police Chief Daniel Casabian has refused to enforce federal immigration laws, sparking controversy and drawing backlash from federal authorities. Casabian’s stance aligns with the California Police Chiefs Association’s (CPCA) policy,…
-
-
-### HOMICIDE on 2025-02-08 05:52
-- Location: Slashdot.org
-- Description: Sweden to tighten gun laws after mass shooting at schoolCNN Sweden's worst mass shooting leaves immigrant community on edgeBBC.com Sweden school shooting latest: Police not ruling out racist motivation as multiple nationalities among 10 killedThe Independent …
-
-
-### OTHER on 2025-02-08 05:26
-- Location: ABC News
-- Description: Republican lawmakers in about dozen states are advancing proposals that could aid President Donald Trump's deportation efforts
-
-
-### SHOOTING on 2025-02-08 05:26
-- Location: ABC News
-- Description: A New York teen is trying to put his life back together after he was wrongly identified as a suspect in a mass shooting
-
-Analysis generated at: Sun Feb  9 06:15:51 UTC 2025
+Analysis generated at: Sun Feb  9 12:20:49 UTC 2025
