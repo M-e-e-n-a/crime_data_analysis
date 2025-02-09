@@ -1,10 +1,10 @@
 
-Loaded 13955 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-08 12:17:57
+Loaded 13959 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-08 12:31:49
 
 Incidents by source:
 source
-newsapi           13854
+newsapi           13858
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
+### HOMICIDE on 2025-02-08 12:31
+- Location: Scotusblog.com
+- Description: The Petitions of the Week column highlights some of the cert petitions recently filed in the Supreme Court. A list of all petitions we’re watching is available here. People held in state prison can turn to federal court to challenge the validity of their conv…
+
+
+### OTHER on 2025-02-08 12:30
+- Location: Richmond.com
+- Description: Virginia cities that operate speed cameras in school zones could soon be allowed to issue tickets to motorists who fail to stop at stop signs and pedestrian crossings.
+
+
+### OTHER on 2025-02-08 12:27
+- Location: ABC News
+- Description: Israel is releasing 183 Palestinian prisoners in the latest exchange for Israeli hostages held in Gaza, part of a ceasefire that has paused the war but whose future is uncertain
+
+
+### ROBBERY/THEFT on 2025-02-08 12:21
+- Location: Syllad.com
+- Description: In a joint operation, Meghalaya Police and Assam Police successfully recovered stolen motorcycles and detained five persons involved in the case on Saturday. Acting on credible intelligence, IC Dainadubi OP and Wageasi OGC staff intercepted a Pulsar motorcycl…
+
+
 ### OTHER on 2025-02-08 12:17
 - Location: Statetimes.in
 - Description: TRAFFIC POLICE HEADQUARTERS, J&K, JAMMU/SRINAGAR TRAFFIC PLAN & ADVISORY FOR 09-02-2025:- Subject to fair weather and better road conditions LMVs Passenger/Private Cars/HMVs shall be allowed from both sides on Jammu-Srinagar NHW (NH-44) viz from Jammu towards…
 
-
-### OTHER on 2025-02-08 12:00
-- Location: Fox News
-- Description: Chicago resident Vashon Tuncle joins ‘The Ingraham Angle’ to express support for Trump border czar Tom Homan in his battle with state and city leaders over ICE deportations.
-
-
-### HOMICIDE on 2025-02-08 12:00
-- Location: NBC News
-- Description: Ophelia Bauckholt was killed in a shootout with U.S. Border Patrol agents in northern Vermont — an unlikely end to a life that held so much promise.
-
-
-### OTHER on 2025-02-08 11:28
-- Location: Christiantoday.com
-- Description: The church of the late David Fletcher has said it is "deeply shocked" after the Church of England said it had received information concerning its former rector "of sexual abuse and coercive and controlling behaviour ... towards women and girls".
-
-
-### ASSAULT on 2025-02-08 11:13
-- Location: The Times of India
-- Description: Kareena Kapoor shared a cryptic Instagram note reflecting on life's humbling experiences after her husband, Saif Ali Khan, was severely injured in an attack at their Bandra residence. She urged the media to respect their privacy. Meanwhile, Mumbai Police conf…
-
-Analysis generated at: Sun Feb  9 12:20:49 UTC 2025
+Analysis generated at: Sun Feb  9 12:35:14 UTC 2025
