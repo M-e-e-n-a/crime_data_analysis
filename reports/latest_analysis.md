@@ -1,10 +1,10 @@
 
-Loaded 13888 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-07 18:09:48
+Loaded 13901 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-08 00:47:59
 
 Incidents by source:
 source
-newsapi           13787
+newsapi           13800
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2025-02-07 18:09
-- Location: Fox News
-- Description: A bill in Washington state to overhaul the Parents Bill of Rights caused controversy this week after a 48-hour sexual assault notification rule was nixed.
+### ROBBERY/THEFT on 2025-02-08 00:47
+- Location: Breitbart News
+- Description: HBO's "Entourage" star Jeremy Piven's Los Angeles home was reportedly burglarized last week, which involved $200,000 worth in jewelry being stolen.
+The post ‘Entourage’ Star Jeremy Piven’s L.A. Home Burglarized, $200K in Jewelry Stolen appeared first on Breit…
 
 
-### OTHER on 2025-02-07 18:05
-- Location: New York Post
-- Description: These guys didn’t know when to fold. Eight Long Island men were busted Thursday for allegedly using a North Amityville deli as a backdoor gambling den. Suffolk County police raided the Tropical Deli & Grocery off Sunrise Highway near Albany Avenue after hours…
+### HOMICIDE on 2025-02-08 00:46
+- Location: Freerepublic.com
+- Description: An early morning attempted armed robbery in Chicago's Homan Square neighborhood ended with an exchange of gunfire and one suspect dead after the victim, who had a FOID card and Concealed Carry License, fired shots, police said. The incident took place around …
 
 
-### ASSAULT on 2025-02-07 18:00
-- Location: STLtoday.com
-- Description: St. Louis firefighter Arnold Britt pleaded guilty to stealing a crash victim’s wallet in July. He was hired by the city’s building division in December.
+### HOMICIDE on 2025-02-08 00:44
+- Location: KPBS
+- Description: The department agreed at least partially to most recommendations made by the city's Commission on Police Practices, but declined one some say is key to saving lives.
 
 
-### HOMICIDE on 2025-02-07 17:56
-- Location: BBC News
-- Description: Luke Mitchell killed schoolgirl Jodi Jones in 2003, and the board was his first opportunity to be released.
+### OTHER on 2025-02-08 00:38
+- Location: Freerepublic.com
+- Description: What started as a peaceful protest turned bloody when a person was stabbed in Los Angeles on Friday after a group of students walked out of school for the fourth day to protest immigration policies set forth by President Donald Trump.
 
 
-### OTHER on 2025-02-07 17:54
-- Location: Hollywood Life
-- Description: A 27-year-old sports anchor and reporter from 'Telemundo Kansas City KGKC-TV' died while he was covering the upcoming Super Bowl.
+### OTHER on 2025-02-08 00:34
+- Location: The Punch
+- Description: The Federal High Court in Abuja has faulted the Nigerian Police Force over the arrest and detention of a retired Chief Superintendent of Police and legal practitioner, Joseph Offor, for alleged professional misconduct. Offor, who was attached to the legal/pro…
 
-Analysis generated at: Sat Feb  8 18:14:54 UTC 2025
+Analysis generated at: Sun Feb  9 01:01:32 UTC 2025
