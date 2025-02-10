@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Feb 10 01:38:28 UTC 2025
+Last updated: Mon Feb 10 06:18:25 UTC 2025
 
 ## Latest Analysis
 
-Loaded 14024 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-09 01:13:28
+Loaded 14044 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-09 06:12:00
 
 Incidents by source:
 source
-newsapi           13923
+newsapi           13943
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-02-09 01:13
-- Location: CBS News
-- Description: A Louisiana state law passed just last year bans the very policies that make New Orleans a sanctuary city, the only one in the Gulf states.
+### SHOOTING on 2025-02-09 06:12
+- Location: The Star Online
+- Description: KUALA LUMPUR: Bukit Aman has advised the public not to speculate on the shooting incident that took place at a mall in Setia Alam, Selangor on Saturday (Feb 8). Read full story
 
 
-### OTHER on 2025-02-09 01:13
-- Location: Fox News
-- Description: Elon Musk punches back at podcast hosts Kara Swisher and Scott Galloway for their abrasive and "threatening" comments about young DOGE employees.
+### ASSAULT on 2025-02-09 06:06
+- Location: The Star Online
+- Description: QUITO/GUAYAQUIL (Reuters) - Ecuadorean President Daniel Noboa looks likely to win Sunday's presidential election, as voters rally behind his promises to fight crime, despite critiques from his opponents that he has not done enough. Read full story
 
 
-### OTHER on 2025-02-09 00:59
-- Location: New Zealand Herald
-- Description: Luxon is making the announcement from Auckland's Cordis Hotel.
+### ROBBERY/THEFT on 2025-02-09 06:00
+- Location: Naturalnews.com
+- Description: The Pennsylvania State Police (PSP) is investigating the theft of 100,000 organic eggs, valued at $40,000, from Pete & Gerry’s Organics in Antrim Township on Feb. 1, highlighting the growing desperation surrounding America’s egg crisis. The theft exacerbates …
 
 
-### HOMICIDE on 2025-02-09 00:48
-- Location: New Zealand Herald
-- Description: OPINION: Sweden now has the second-highest gun-related homicide rate per capita in Europe.
+### ROBBERY/THEFT on 2025-02-09 05:26
+- Location: NDTV News
+- Description: According to a complaint lodged at Malad Police Station by Pritam&#039;s manager, the money was brought to the office a few days ago for work-related purposes.
 
 
-### ROBBERY/THEFT on 2025-02-09 00:46
-- Location: KOMO News
-- Description: Police are investigating a brazen theft at a West Seattle cafe where thieves made off with hundreds of eggs and other breakfast foods in the early hours of Wedn
+### ROBBERY/THEFT on 2025-02-09 05:26
+- Location: The Times of India
+- Description: Bollywood music composer Pritam Chakraborty's Mumbai office experienced a theft of Rs 40 lakh. According to a complaint, the money vanished while an employee, Ashish Sayal, was in the office, and Sayal is now unreachable. The police have registered a case and…
 
-Analysis generated at: Mon Feb 10 01:38:28 UTC 2025
+Analysis generated at: Mon Feb 10 06:18:25 UTC 2025
