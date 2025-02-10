@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Feb 10 12:39:59 UTC 2025
+Last updated: Mon Feb 10 18:17:21 UTC 2025
 
 ## Latest Analysis
 
-Loaded 14078 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-09 12:05:47
+Loaded 14134 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-09 18:08:58
 
 Incidents by source:
 source
-newsapi           13977
+newsapi           14033
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-02-09 12:05
-- Location: BBC News
-- Description: Roccio Cifuentes said the issue of safety in schools was a “nuanced and complex issue”.
+### OTHER on 2025-02-09 18:08
+- Location: fox6now.com
+- Description: A Milwaukee County judge sentenced Griffin Johnson to four-and-a-half years in prison in connection with a police chase and crash that injured an 11-year-old boy in May 2024.
 
 
-### ROBBERY/THEFT on 2025-02-09 12:00
-- Location: Starcommunity.com.au
-- Description: A Doveton man and a Cranbourne West man have been charged over a pair of alleged armed robberies at tobacco […]
+### OTHER on 2025-02-09 18:04
+- Location: The Punch
+- Description: The Police Command in Edo has rescued one Osazee Okungbowa, who was kidnapped on Friday night in the Owanoba community. The command’s Public Relations Officer, Chief Superintendent of Police, Moses Yamu, disclosed this on Sunday in Benin through a statement m…
 
 
-### ROBBERY/THEFT on 2025-02-09 11:57
-- Location: Israelnationalnews.com
-- Description: An Iranian hacker group claimed to have stolen 2.1 terabytes of data from the Israel Police, including 350,000 sensitive documents.
+### HOMICIDE on 2025-02-09 18:02
+- Location: The Times of India
+- Description: Mumbai: A Worli hotelier, arrested for culpable homicide in a drunk driving case last Nov, has fraudulently collected Rs 9 lakh insurance by claiming .
 
 
-### OTHER on 2025-02-09 11:54
-- Location: Al Jazeera English
-- Description: The vote is effectively a referendum on 37-year-old incumbent Daniel Noboa.
+### OTHER on 2025-02-09 18:02
+- Location: DW (English)
+- Description: Turkey's opposition said the journalists' detention was "an unprecedented disgrace" and accused the prosecutor of "trying to fabricate a crime."
 
 
-### OTHER on 2025-02-09 11:41
-- Location: Bangkok Post
-- Description: <p>It&rsquo;s a hallowed Israeli tradition: after completing military service, backpack through South America or hitchhike across Asia. But global outrage at the Gaza war, threats of arrest and the ubiquity of social media are causing some soldiers and reserv…
+### ROBBERY/THEFT on 2025-02-09 17:53
+- Location: Freerepublic.com
+- Description: ANTRIM TOWNSHIP, Pa. (AP) — The heist of 100,000 eggs from the back of a trailer in Pennsylvania has become a whodunit that police have yet to crack. Four days after the theft that law enforcement say could be tied to the sky-high cost of eggs, no leads have …
 
-Analysis generated at: Mon Feb 10 12:39:59 UTC 2025
+Analysis generated at: Mon Feb 10 18:17:21 UTC 2025
