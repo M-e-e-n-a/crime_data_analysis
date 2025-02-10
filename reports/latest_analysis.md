@@ -1,10 +1,10 @@
 
-Loaded 14044 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-09 06:12:00
+Loaded 14078 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-09 12:05:47
 
 Incidents by source:
 source
-newsapi           13943
+newsapi           13977
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-02-09 06:12
-- Location: The Star Online
-- Description: KUALA LUMPUR: Bukit Aman has advised the public not to speculate on the shooting incident that took place at a mall in Setia Alam, Selangor on Saturday (Feb 8). Read full story
+### OTHER on 2025-02-09 12:05
+- Location: BBC News
+- Description: Roccio Cifuentes said the issue of safety in schools was a “nuanced and complex issue”.
 
 
-### ASSAULT on 2025-02-09 06:06
-- Location: The Star Online
-- Description: QUITO/GUAYAQUIL (Reuters) - Ecuadorean President Daniel Noboa looks likely to win Sunday's presidential election, as voters rally behind his promises to fight crime, despite critiques from his opponents that he has not done enough. Read full story
+### ROBBERY/THEFT on 2025-02-09 12:00
+- Location: Starcommunity.com.au
+- Description: A Doveton man and a Cranbourne West man have been charged over a pair of alleged armed robberies at tobacco […]
 
 
-### ROBBERY/THEFT on 2025-02-09 06:00
-- Location: Naturalnews.com
-- Description: The Pennsylvania State Police (PSP) is investigating the theft of 100,000 organic eggs, valued at $40,000, from Pete & Gerry’s Organics in Antrim Township on Feb. 1, highlighting the growing desperation surrounding America’s egg crisis. The theft exacerbates …
+### ROBBERY/THEFT on 2025-02-09 11:57
+- Location: Israelnationalnews.com
+- Description: An Iranian hacker group claimed to have stolen 2.1 terabytes of data from the Israel Police, including 350,000 sensitive documents.
 
 
-### ROBBERY/THEFT on 2025-02-09 05:26
-- Location: NDTV News
-- Description: According to a complaint lodged at Malad Police Station by Pritam&#039;s manager, the money was brought to the office a few days ago for work-related purposes.
+### OTHER on 2025-02-09 11:54
+- Location: Al Jazeera English
+- Description: The vote is effectively a referendum on 37-year-old incumbent Daniel Noboa.
 
 
-### ROBBERY/THEFT on 2025-02-09 05:26
-- Location: The Times of India
-- Description: Bollywood music composer Pritam Chakraborty's Mumbai office experienced a theft of Rs 40 lakh. According to a complaint, the money vanished while an employee, Ashish Sayal, was in the office, and Sayal is now unreachable. The police have registered a case and…
+### OTHER on 2025-02-09 11:41
+- Location: Bangkok Post
+- Description: <p>It&rsquo;s a hallowed Israeli tradition: after completing military service, backpack through South America or hitchhike across Asia. But global outrage at the Gaza war, threats of arrest and the ubiquity of social media are causing some soldiers and reserv…
 
-Analysis generated at: Mon Feb 10 06:18:25 UTC 2025
+Analysis generated at: Mon Feb 10 12:23:51 UTC 2025
