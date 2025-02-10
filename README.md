@@ -1,5 +1,5 @@
 # Crime Data Analysis
-Last updated: Mon Feb 10 12:23:51 UTC 2025
+Last updated: Mon Feb 10 12:39:59 UTC 2025
 
 ## Latest Analysis
 
@@ -48,4 +48,4 @@ bution.svg)
 - Location: Bangkok Post
 - Description: <p>It&rsquo;s a hallowed Israeli tradition: after completing military service, backpack through South America or hitchhike across Asia. But global outrage at the Gaza war, threats of arrest and the ubiquity of social media are causing some soldiers and reserv…
 
-Analysis generated at: Mon Feb 10 12:23:51 UTC 2025
+Analysis generated at: Mon Feb 10 12:39:59 UTC 2025
