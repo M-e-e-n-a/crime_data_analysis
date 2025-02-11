@@ -1,10 +1,10 @@
 
-Loaded 14149 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-10 01:36:41
+Loaded 14175 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-10 06:08:32
 
 Incidents by source:
 source
-newsapi           14048
+newsapi           14074
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,31 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-02-10 01:36
-- Location: Raw Story
-- Description: by Gregory WALTONAFPProsecutors will begin to tell a jury Monday how Hadi Matar allegedly staked out the venue where Salman Rushdie was giving a talk before lunging at the "Satanic Verses" author, blinding him in one eye.Matar, a 27-year-old Lebanese-American…
+### DRUG RELATED on 2025-02-10 06:08
+- Location: ScienceAlert
+- Description: In the early hours of September 14 2021, three men parked in a quiet car park in the southern English market town of Abingdon-on-Thames.
 
 
-### OTHER on 2025-02-10 01:22
-- Location: New Zealand Herald
-- Description: Ransomware a persistent threat to smaller businesses and even schools, agency says.
+### SHOOTING on 2025-02-10 06:04
+- Location: Canonrumors.com
+- Description: For today only B&H Photo has on sale the FotodioX Pro LED P60 1×1 Bi-Color LED Light Panel for only $159.95, saving you $90. Key features include; Great for studio or location shooting, including TV, film, and portrait photography, the sturdy aluminum Pro LED…
 
 
-### OTHER on 2025-02-10 01:11
-- Location: Bangkok Post
-- Description: <p>Former prime minister Thaksin Shinawatra has vowed to respond in his own way to any queries or allegations levelled against him during a censure debate expected at the end of this month or early next.</p>
+### OTHER on 2025-02-10 06:00
+- Location: VOA News
+- Description: GUAYAQUIL, Ecuador — Ecuador will choose its next president in a runoff election after conservative incumbent Daniel Noboa and leftist lawyer Luisa González garnered enough votes Sunday to beat 14 other candidates.
 
 
-### HOMICIDE on 2025-02-10 01:00
-- Location: Allthatsinteresting.com
-- Description: In 1955, Ruth Ellis was hanged for shooting her lover David Blakely. Her execution sparked a public conversation that would ultimately lead to the abolishment of the death penalty.
-The post The Tragic Story Of Ruth Ellis, The Last Woman Hanged In The United K…
+The contest, set for April 13, will be a r…
 
 
-### OTHER on 2025-02-10 01:00
-- Location: ABC News (AU)
-- Description: A former factory site linked to the 59-year-old the disappearance of the Beaumont children, which remains one of the nation's most baffling and tragic cold cases, will be searched a third time before being put up for sale, an SA MP says.
+### ASSAULT on 2025-02-10 06:00
+- Location: Naturalnews.com
+- Description: Just a decade or so ago, nobody was given any credit for challenging the mainstream media narratives of any major event that occurred. Any independent news source or inside whistleblower was immediately discredited and viciously attacked by the Leftist media …
 
-Analysis generated at: Tue Feb 11 01:37:08 UTC 2025
+
+### OTHER on 2025-02-10 06:00
+- Location: Naturalnews.com
+- Description: The U.K. government is pushing for rapid passage of the Public Authorities (Fraud, Error & Recovery) Bill, aimed at tackling benefit fraud and reducing errors in the welfare system, despite concerns from privacy advocates and opposition MPs. Critics, such as …
+
+Analysis generated at: Tue Feb 11 06:17:29 UTC 2025
