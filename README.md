@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Feb 11 06:17:29 UTC 2025
+Last updated: Tue Feb 11 12:24:07 UTC 2025
 
 ## Latest Analysis
 
-Loaded 14175 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-10 06:08:32
+Loaded 14238 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-10 12:21:50
 
 Incidents by source:
 source
-newsapi           14074
+newsapi           14137
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,31 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### DRUG RELATED on 2025-02-10 06:08
-- Location: ScienceAlert
-- Description: In the early hours of September 14 2021, three men parked in a quiet car park in the southern English market town of Abingdon-on-Thames.
+### SHOOTING on 2025-02-10 12:21
+- Location: NDTV News
+- Description: The identity of the suspected gunman in Sweden&#039;s worst ever mass shooting has been confirmed, Swedish prosecutors said on Monday without naming the suspect.
 
 
-### SHOOTING on 2025-02-10 06:04
-- Location: Canonrumors.com
-- Description: For today only B&H Photo has on sale the FotodioX Pro LED P60 1×1 Bi-Color LED Light Panel for only $159.95, saving you $90. Key features include; Great for studio or location shooting, including TV, film, and portrait photography, the sturdy aluminum Pro LED…
+### SHOOTING on 2025-02-10 12:15
+- Location: The Punch
+- Description: The Ogun State Police Command has arrested one Gbadebo Sodiq for allegedly breaking into a house and stealing property worth N373,000, in the Eleweran area of Abeokuta, Ogun State. The spokesman for the command, CSP Omolola Odutola, disclosed this in a statem…
 
 
-### OTHER on 2025-02-10 06:00
-- Location: VOA News
-- Description: GUAYAQUIL, Ecuador — Ecuador will choose its next president in a runoff election after conservative incumbent Daniel Noboa and leftist lawyer Luisa González garnered enough votes Sunday to beat 14 other candidates.
+### ASSAULT on 2025-02-10 12:13
+- Location: Internet
+- Description: In cybersecurity, the smallest crack can lead to the biggest breaches. A leaked encryption key, an unpatched software bug, or an abandoned cloud storage bucket—each one seems minor until it becomes the entry point for an attack.
+This week, we’ve seen cybercri…
 
 
-The contest, set for April 13, will be a r…
+### HOMICIDE on 2025-02-10 12:06
+- Location: The Star Online
+- Description: MAYVILLE, New York (Reuters) - A jury will hear attorneys' opening statements on Monday in the trial of Hadi Matar, who is charged with attempting to murder the novelist Salman Rushdie at a New York lecture. Read full story
 
 
-### ASSAULT on 2025-02-10 06:00
-- Location: Naturalnews.com
-- Description: Just a decade or so ago, nobody was given any credit for challenging the mainstream media narratives of any major event that occurred. Any independent news source or inside whistleblower was immediately discredited and viciously attacked by the Leftist media …
+### OTHER on 2025-02-10 12:00
+- Location: CBC News
+- Description: A former Lethbridge prosecutor must appear before the law society on allegations he engaged in an “inappropriate relationship” with a woman who was the complainant in a criminal case.
 
-
-### OTHER on 2025-02-10 06:00
-- Location: Naturalnews.com
-- Description: The U.K. government is pushing for rapid passage of the Public Authorities (Fraud, Error & Recovery) Bill, aimed at tackling benefit fraud and reducing errors in the welfare system, despite concerns from privacy advocates and opposition MPs. Critics, such as …
-
-Analysis generated at: Tue Feb 11 06:17:29 UTC 2025
+Analysis generated at: Tue Feb 11 12:24:07 UTC 2025
