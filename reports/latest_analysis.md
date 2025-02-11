@@ -1,10 +1,10 @@
 
-Loaded 14144 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-10 00:58:02
+Loaded 14149 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-10 01:36:41
 
 Incidents by source:
 source
-newsapi           14043
+newsapi           14048
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2025-02-10 00:58
-- Location: The Jerusalem Post
-- Description: Israeli society must also take collective responsibility. Violence in Arab communities is not just “their problem” – it is a problem for all of us.
+### HOMICIDE on 2025-02-10 01:36
+- Location: Raw Story
+- Description: by Gregory WALTONAFPProsecutors will begin to tell a jury Monday how Hadi Matar allegedly staked out the venue where Salman Rushdie was giving a talk before lunging at the "Satanic Verses" author, blinding him in one eye.Matar, a 27-year-old Lebanese-American…
 
 
-### OTHER on 2025-02-10 00:47
-- Location: The Star Online
-- Description: MELAKA: Police here have busted an international job scam syndicate targeting victims from a Caribbean nation, arresting nine individuals including four women. Read full story
+### OTHER on 2025-02-10 01:22
+- Location: New Zealand Herald
+- Description: Ransomware a persistent threat to smaller businesses and even schools, agency says.
 
 
-### OTHER on 2025-02-10 00:40
-- Location: Newsbreak.com
-- Description: Many of those kicked off Medicaid were still eligible, research indicates, and had their coverage removed for "procedural reasons."
+### OTHER on 2025-02-10 01:11
+- Location: Bangkok Post
+- Description: <p>Former prime minister Thaksin Shinawatra has vowed to respond in his own way to any queries or allegations levelled against him during a censure debate expected at the end of this month or early next.</p>
 
 
-### OTHER on 2025-02-10 00:33
-- Location: HuffPost
-- Description: The fragile ceasefire's first phase is set to end in three weeks, but Israel and Hamas appear to have made little progress.
+### HOMICIDE on 2025-02-10 01:00
+- Location: Allthatsinteresting.com
+- Description: In 1955, Ruth Ellis was hanged for shooting her lover David Blakely. Her execution sparked a public conversation that would ultimately lead to the abolishment of the death penalty.
+The post The Tragic Story Of Ruth Ellis, The Last Woman Hanged In The United K…
 
 
-### OTHER on 2025-02-10 00:29
-- Location: The Punch
-- Description: The Cyber Cell of Delhi Police, India, has arrested a Nigerian national, Patrick Ngomere, for allegedly hacking the email account of the Family Care Pvt. Limited, a pharmaceutical company, and fraudulently syphoning off Rs 11.73 lakh. The suspect, also accuse…
+### OTHER on 2025-02-10 01:00
+- Location: ABC News (AU)
+- Description: A former factory site linked to the 59-year-old the disappearance of the Beaumont children, which remains one of the nation's most baffling and tragic cold cases, will be searched a third time before being put up for sale, an SA MP says.
 
-Analysis generated at: Tue Feb 11 00:58:19 UTC 2025
+Analysis generated at: Tue Feb 11 01:37:08 UTC 2025
