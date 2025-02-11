@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Feb 10 18:17:21 UTC 2025
+Last updated: Tue Feb 11 00:58:19 UTC 2025
 
 ## Latest Analysis
 
-Loaded 14134 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-09 18:08:58
+Loaded 14144 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-10 00:58:02
 
 Incidents by source:
 source
-newsapi           14033
+newsapi           14043
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-02-09 18:08
-- Location: fox6now.com
-- Description: A Milwaukee County judge sentenced Griffin Johnson to four-and-a-half years in prison in connection with a police chase and crash that injured an 11-year-old boy in May 2024.
+### ROBBERY/THEFT on 2025-02-10 00:58
+- Location: The Jerusalem Post
+- Description: Israeli society must also take collective responsibility. Violence in Arab communities is not just “their problem” – it is a problem for all of us.
 
 
-### OTHER on 2025-02-09 18:04
+### OTHER on 2025-02-10 00:47
+- Location: The Star Online
+- Description: MELAKA: Police here have busted an international job scam syndicate targeting victims from a Caribbean nation, arresting nine individuals including four women. Read full story
+
+
+### OTHER on 2025-02-10 00:40
+- Location: Newsbreak.com
+- Description: Many of those kicked off Medicaid were still eligible, research indicates, and had their coverage removed for "procedural reasons."
+
+
+### OTHER on 2025-02-10 00:33
+- Location: HuffPost
+- Description: The fragile ceasefire's first phase is set to end in three weeks, but Israel and Hamas appear to have made little progress.
+
+
+### OTHER on 2025-02-10 00:29
 - Location: The Punch
-- Description: The Police Command in Edo has rescued one Osazee Okungbowa, who was kidnapped on Friday night in the Owanoba community. The command’s Public Relations Officer, Chief Superintendent of Police, Moses Yamu, disclosed this on Sunday in Benin through a statement m…
+- Description: The Cyber Cell of Delhi Police, India, has arrested a Nigerian national, Patrick Ngomere, for allegedly hacking the email account of the Family Care Pvt. Limited, a pharmaceutical company, and fraudulently syphoning off Rs 11.73 lakh. The suspect, also accuse…
 
-
-### HOMICIDE on 2025-02-09 18:02
-- Location: The Times of India
-- Description: Mumbai: A Worli hotelier, arrested for culpable homicide in a drunk driving case last Nov, has fraudulently collected Rs 9 lakh insurance by claiming .
-
-
-### OTHER on 2025-02-09 18:02
-- Location: DW (English)
-- Description: Turkey's opposition said the journalists' detention was "an unprecedented disgrace" and accused the prosecutor of "trying to fabricate a crime."
-
-
-### ROBBERY/THEFT on 2025-02-09 17:53
-- Location: Freerepublic.com
-- Description: ANTRIM TOWNSHIP, Pa. (AP) — The heist of 100,000 eggs from the back of a trailer in Pennsylvania has become a whodunit that police have yet to crack. Four days after the theft that law enforcement say could be tied to the sky-high cost of eggs, no leads have …
-
-Analysis generated at: Mon Feb 10 18:17:21 UTC 2025
+Analysis generated at: Tue Feb 11 00:58:19 UTC 2025
