@@ -1,10 +1,10 @@
 
-Loaded 14242 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-10 12:37:40
+Loaded 14327 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-10 18:14:00
 
 Incidents by source:
 source
-newsapi           14141
+newsapi           14226
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-02-10 12:37
-- Location: NDTV News
-- Description: A jury will hear attorneys&#039; opening statements on Monday in the trial of Hadi Matar, who is charged with attempting to murder the novelist Salman Rushdie at a New York lecture.
+### OTHER on 2025-02-10 18:14
+- Location: Newsbreak.com
+- Description: Many of those kicked off Medicaid were still eligible, research indicates, and had their coverage removed for "procedural reasons."
 
 
-### HOMICIDE on 2025-02-10 12:30
-- Location: ABC News
-- Description: A Tunisian man is on trial in France on terrorism charges over the killing of three people in a basilica in the French Riviera city of Nice in 2020
+### OTHER on 2025-02-10 18:06
+- Location: USA Today
+- Description: The individual was banned from all NFL events but was not yet charged with a crime.
 
 
-### ASSAULT on 2025-02-10 12:25
-- Location: Freerepublic.com
-- Description: Former CAIR employee from Kentucky was filmed hitting and cursing at ultra-Orthodox man in a Manhattan office. Former CAIR employee from Kentucky was filmed hitting and cursing at an ultra-Orthodox man in the lobby of a Manhattan office building; After footag…
+### OTHER on 2025-02-10 17:57
+- Location: Boston Herald
+- Description: What was this protest about, what’s happening in the Gaza Strip and Sudan?
 
 
-### HOMICIDE on 2025-02-10 12:24
-- Location: The Times of India
-- Description: A man was arrested for allegedly murdering his friend to steal his Samsung Ultra S3 smartphone in Gujarat's Kutch district. The police investigation, aided by CCTV footage, revealed that the suspect, Indrajitsinh Gurjar, plotted the crime with an accomplice, …
+### HOMICIDE on 2025-02-10 17:44
+- Location: WFTV Orlando
+- Description: A 16-year-old boy died and six others were injured after a shooting at a Los Angeles-area mansion early Sunday, authorities said.
 
 
-### SHOOTING on 2025-02-10 12:21
-- Location: NDTV News
-- Description: The identity of the suspected gunman in Sweden&#039;s worst ever mass shooting has been confirmed, Swedish prosecutors said on Monday without naming the suspect.
+### OTHER on 2025-02-10 17:42
+- Location: Newsweek
+- Description: The Eagles weren't the only ones to win big Sunday night. The president also scored a string of political, cultural and social victories.
 
-Analysis generated at: Tue Feb 11 12:40:01 UTC 2025
+Analysis generated at: Tue Feb 11 18:15:30 UTC 2025
