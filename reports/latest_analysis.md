@@ -1,10 +1,10 @@
 
-Loaded 14375 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-11 06:15:29
+Loaded 14436 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-11 12:23:00
 
 Incidents by source:
 source
-newsapi           14274
+newsapi           14335
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-02-11 06:15
-- Location: ABC News (AU)
-- Description: Prosecutors make it clear they believe the motive for the alleged murder of Perth schoolboy Cassius Turvey was not racism.
+### DRUG RELATED on 2025-02-11 12:23
+- Location: Bangkok Post
+- Description: <p>Chinese businessman Chaiyanat &ldquo;<strong>Tuhao</strong>&rdquo; Kornchayanant has been acquitted, along with his former police officer wife and 17 others, on charges of organised transnational crime, <strong>money-laundering</strong> and drug offences, …
 
 
-### ROBBERY/THEFT on 2025-02-11 05:32
-- Location: NDTV News
-- Description: Nobel laureate Muhammad Yunus-led interim government in Bangladesh has ordered a probe after a group of madrasa students attacked a stall at the Amar Ekushey Book Fair in Dhaka over the display of a book written by exiled author Taslima Nasreen.
+### OTHER on 2025-02-11 12:21
+- Location: The Federalist
+- Description: Chutkan's order refusing to dismiss the charges against John Banuelos is a mishmash of confusion, defiance, and intellectual incoherence.
 
 
-### ROBBERY/THEFT on 2025-02-11 05:26
-- Location: NDTV News
-- Description: The general manager of the eatery said that they mostly serve egg-based dishes and were already struggling to source them.
+### ASSAULT on 2025-02-11 12:06
+- Location: ABC News
+- Description: Rapper A$AP Rocky may take the stand in his own defense at his trial on two felony counts of assault with a semiautomatic firearm
 
 
-### ASSAULT on 2025-02-11 05:17
-- Location: NDTV News
-- Description: Delhi Police has registered a case against Okhla MLA Amanatullah Khan for allegedly leading an attack on a police team in Jamia Nagar.
+### HOMICIDE on 2025-02-11 12:01
+- Location: The Star Online
+- Description: STOCKHOLM (Reuters) - Government offices, schools and workplaces fell silent in Sweden at midday on Tuesday in remembrance of the victims of a mass shooting at an adult education centre last week when a gunman killed 10 people before turning his weapon on him…
 
 
-### OTHER on 2025-02-11 05:02
-- Location: Digital Journal
-- Description: Campaigning began Tuesday in the Philippines for mid-term elections that could set the table for the next presidential race and determine the political future of impeached Vice President Sara Duterte.   Talk show hosts, movie stars and a preacher jailed on se…
+### HOMICIDE on 2025-02-11 12:00
+- Location: LADbible
+- Description: Gabby Petito’s sent an 'odd' text to her mum days before she vanished as a Netflix documentary about her death releases next week
 
-Analysis generated at: Wed Feb 12 06:17:40 UTC 2025
+Analysis generated at: Wed Feb 12 12:23:48 UTC 2025
