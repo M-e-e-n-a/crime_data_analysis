@@ -1,10 +1,10 @@
 
-Loaded 14436 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-11 12:23:00
+Loaded 14438 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-11 12:34:42
 
 Incidents by source:
 source
-newsapi           14335
+newsapi           14337
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,6 +20,16 @@ bution.svg)
 
 ## Recent Incidents
 
+### OTHER on 2025-02-11 12:34
+- Location: Securityaffairs.com
+- Description: Sucuri researchers observed threat actors leveraging Google Tag Manager (GTM) to install e-skimmer software on Magento-based e-stores. Sucuri researchers found threat actors using Google Tag Manager (GTM) to deploy e-skimmer malware on a Magento eCommerce sit…
+
+
+### SHOOTING on 2025-02-11 12:28
+- Location: Freerepublic.com
+- Description: An amended complaint says police officers discovered a crowbar at the scene. "My God, my military retirement. Shoot," Mitchell said, according to the complaint. Prosecutors filed an amended criminal complaint Monday charging Minnesota Sen. Nicole Mitchell wit…
+
+
 ### DRUG RELATED on 2025-02-11 12:23
 - Location: Bangkok Post
 - Description: <p>Chinese businessman Chaiyanat &ldquo;<strong>Tuhao</strong>&rdquo; Kornchayanant has been acquitted, along with his former police officer wife and 17 others, on charges of organised transnational crime, <strong>money-laundering</strong> and drug offences, …
@@ -34,14 +44,4 @@ bution.svg)
 - Location: ABC News
 - Description: Rapper A$AP Rocky may take the stand in his own defense at his trial on two felony counts of assault with a semiautomatic firearm
 
-
-### HOMICIDE on 2025-02-11 12:01
-- Location: The Star Online
-- Description: STOCKHOLM (Reuters) - Government offices, schools and workplaces fell silent in Sweden at midday on Tuesday in remembrance of the victims of a mass shooting at an adult education centre last week when a gunman killed 10 people before turning his weapon on him…
-
-
-### HOMICIDE on 2025-02-11 12:00
-- Location: LADbible
-- Description: Gabby Petito’s sent an 'odd' text to her mum days before she vanished as a Netflix documentary about her death releases next week
-
-Analysis generated at: Wed Feb 12 12:23:48 UTC 2025
+Analysis generated at: Wed Feb 12 12:40:00 UTC 2025
