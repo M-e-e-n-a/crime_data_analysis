@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Feb 12 12:40:00 UTC 2025
+Last updated: Wed Feb 12 18:17:19 UTC 2025
 
 ## Latest Analysis
 
-Loaded 14438 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-11 12:34:42
+Loaded 14528 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-11 18:17:04
 
 Incidents by source:
 source
-newsapi           14337
+newsapi           14427
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-02-11 12:34
-- Location: Securityaffairs.com
-- Description: Sucuri researchers observed threat actors leveraging Google Tag Manager (GTM) to install e-skimmer software on Magento-based e-stores. Sucuri researchers found threat actors using Google Tag Manager (GTM) to deploy e-skimmer malware on a Magento eCommerce sit…
+### HOMICIDE on 2025-02-11 18:17
+- Location: Bossip
+- Description: Dexter Reed’s family awarded $1.25 million settlement in their civil rights lawsuit against the city of Chicago and five police officers
+The post Cops Kill People: Dexter Reed Family To Receive $1.25 Million Settlement For Fatal Chicago Police Shooting appear…
 
 
-### SHOOTING on 2025-02-11 12:28
-- Location: Freerepublic.com
-- Description: An amended complaint says police officers discovered a crowbar at the scene. "My God, my military retirement. Shoot," Mitchell said, according to the complaint. Prosecutors filed an amended criminal complaint Monday charging Minnesota Sen. Nicole Mitchell wit…
+### OTHER on 2025-02-11 18:15
+- Location: ARLnow
+- Description: Two people were stabbed at an Arlington County facility Monday afternoon. The stabbings happened at Sequoia Plaza, the office complex along Washington Blvd that houses some county departments and the headquarters of Arlington Public Schools. Initial reports s…
 
 
-### DRUG RELATED on 2025-02-11 12:23
-- Location: Bangkok Post
-- Description: <p>Chinese businessman Chaiyanat &ldquo;<strong>Tuhao</strong>&rdquo; Kornchayanant has been acquitted, along with his former police officer wife and 17 others, on charges of organised transnational crime, <strong>money-laundering</strong> and drug offences, …
+### OTHER on 2025-02-11 18:04
+- Location: Variety
+- Description: After directing a pair of contemporary thrillers “The Stronghold” and “November,” French director Cedric Jimenez is diving into genre for his next movie, “Chien 51,” a dystopian film that once again explores the work and minds of cops but this time in a near-…
 
 
-### OTHER on 2025-02-11 12:21
-- Location: The Federalist
-- Description: Chutkan's order refusing to dismiss the charges against John Banuelos is a mishmash of confusion, defiance, and intellectual incoherence.
+### HOMICIDE on 2025-02-11 18:03
+- Location: The Root
+- Description: Screenshot: Fox 10 Phoenix
+A Phoenix man faced murder charges after his girlfriend’s body was found torched to a crisp and her infant was found abandoned. Now, he’s learned his fate after being found guilty in connection to both incidents.Antwaun Ware, 27, w…
 
 
-### ASSAULT on 2025-02-11 12:06
-- Location: ABC News
-- Description: Rapper A$AP Rocky may take the stand in his own defense at his trial on two felony counts of assault with a semiautomatic firearm
+### OTHER on 2025-02-11 17:55
+- Location: The Jerusalem Post
+- Description: Synagogue president David Lewis and Chief Minister Dr. Rabbi Benjamin Elton were set to meet with Moore on Tuesday following the controversy.
 
-Analysis generated at: Wed Feb 12 12:40:00 UTC 2025
+Analysis generated at: Wed Feb 12 18:17:19 UTC 2025
