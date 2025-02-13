@@ -1,10 +1,10 @@
 
-Loaded 14585 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-12 05:49:10
+Loaded 14657 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-12 12:13:31
 
 Incidents by source:
 source
-newsapi           14484
+newsapi           14556
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2025-02-12 05:49
-- Location: The Times of India
-- Description: AAP leader and MLA Amanatullah Khan has written to the Delhi Police Commissioner, alleging false implication after an FIR was lodged against him for allegedly attacking a police team in Jamia Nagar. The altercation occurred while police were attempting to arr…
+### SHOOTING on 2025-02-12 12:13
+- Location: Newsweek
+- Description: Representative Anna Paulina Luna said Tuesday that she believes "two shooters" were involved in the assassination of former President John F. Kennedy.
 
 
-### OTHER on 2025-02-12 05:28
-- Location: The Times of India
-- Description: Expat mumfluencers on TikTok praise Saudi Arabia and the NEOM megacity, showcasing idealistic lifestyles despite rights violation concerns. NEOM's ambitious population goals have been lowered, with influencers propagating positive messages as part of the king…
+### HOMICIDE on 2025-02-12 12:08
+- Location: Newser
+- Description: An elementary school student in South Korea has died after she was allegedly stabbed by a teacher in an attempted murder-suicide. The unnamed female teacher, who also had stab wounds that police say may have been self-inflicted, was found beside the female st…
 
 
-### OTHER on 2025-02-12 05:28
-- Location: The Star Online
-- Description: SHAH ALAM: GISB Holdings Sdn Bhd (GISB) chief executive officer Datuk Nasiruddin Mohd Ali and 21 other GISB members pleaded not guilty to a charge of being a part of an organised criminal group at the Shah Alam High Court on Wednesday. Read full story
+### HOMICIDE on 2025-02-12 12:02
+- Location: The Jerusalem Post
+- Description: The Jerusalem District Court sentenced an east Jerusalem resident to 27 years in prison for attempted murder,
 
 
-### OTHER on 2025-02-12 05:27
-- Location: Digital Journal
-- Description: Expat “mumfluencers” are taking to TikTok to sing the praises of life in Saudi Arabia and to extol the virtues of its new NEOM megacity, filming their idyllic lives spent picnicking by turquoise waters and shopping in gleaming malls. “If you have children, Sa…
+### OTHER on 2025-02-12 12:00
+- Location: Time
+- Description: Rep. Suhas Subramanyam has spent most of his last month on the job reacting to Trump’s gutting of the federal government.
 
 
-### OTHER on 2025-02-12 05:27
-- Location: Digital Journal
-- Description: Expat "mumfluencers" are taking to TikTok to sing the praises of life in Saudi Arabia and to extol the virtues of its new NEOM megacity.
-The post ‘Saudi is the best!’: Why are TikTok mumfluencers lauding desert megacity? appeared first on Digital Journal.
+### OTHER on 2025-02-12 11:55
+- Location: Securityaffairs.com
+- Description: Microsoft Threat Intelligence has observed North Korea-linked APT Emerald Sleet using a new tactic, tricking targets into running PowerShell. Microsoft Threat Intelligence researchers spotted North Korea-linked threat actor Emerald Sleet (also known as Kimsuk…
 
-Analysis generated at: Thu Feb 13 06:17:26 UTC 2025
+Analysis generated at: Thu Feb 13 12:23:58 UTC 2025
