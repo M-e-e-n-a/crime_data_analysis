@@ -1,10 +1,10 @@
 
-Loaded 14542 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-12 00:56:36
+Loaded 14549 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-12 01:36:25
 
 Incidents by source:
 source
-newsapi           14441
+newsapi           14448
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-02-12 00:56
+### OTHER on 2025-02-12 01:36
+- Location: BBC News
+- Description: A BBC investigation finds seven companies on the platform selling plates without checking customers' documents.
+
+
+### OTHER on 2025-02-12 01:32
+- Location: TheWrap
+- Description: TheWrap Screening Series: Nominees for live-action, documentary and animated shorts talk about the joy, trauma and universal human themes explored in their work
+The post Oscar-Nominated Shorts Filmmakers Swap Stories About Their Creative Process appeared firs…
+
+
+### SHOOTING on 2025-02-12 01:30
+- Location: New York Post
+- Description: A club security guard -- who appeared to be wearing body armor -- calmly raised an assault rifle and shot off what appeared to be around two dozen shots at the gunman in a matter of moments.
+
+
+### HOMICIDE on 2025-02-12 01:20
 - Location: The Punch
-- Description: Catholic Bishops of Ibadan Ecclesiastical Province have raised the alarm over the resurgence of herdsmen attacks, kidnappings, robberies and other crimes in the South-West, particularly in the Oke-Ogun zone of Oyo State and Ogun State. In a communiqué issued …
+- Description: The Plateau State Commissioner of Police, Emmanuel Adesina, on Tuesday, announced the arrest of 26 suspects for various offences including one Samuel Dang Kat and Zatshinen Wubwerwe in connection with the attack which led to the death of a National Youth Serv…
 
 
-### ROBBERY/THEFT on 2025-02-12 00:48
-- Location: Lifesciencesworld.com
-- Description: Reporting a Stolen Firearm: A Step-by-Step Guide Understanding the Importance of Reporting a Stolen Firearm A stolen firearm is a […]
-The post How to report stolen firearm? appeared first on Life Sciences World.
+### HOMICIDE on 2025-02-12 01:11
+- Location: Newser
+- Description: The Massachusetts Supreme Judicial Court ruled Tuesday that Karen Read can be retried on all three charges connected to the 2022 death of her boyfriend, Boston police officer John O'Keefe. The ruling from the state's top court clears the way for an April tria…
 
-
-### OTHER on 2025-02-12 00:45
-- Location: Fox News
-- Description: The U.S. Attorney's Office and law enforcement agencies in Tennessee announced the indictment of multiple people in the state with ties to the violent Venezuelan gang Tren de Aragua.
-
-
-### OTHER on 2025-02-12 00:41
-- Location: ABC News (AU)
-- Description: Victoria Police allegedly found phones, cash and 10kg of meth in a car driven by a 20-year-old who is expected to face court today.
-
-
-### HOMICIDE on 2025-02-12 00:38
-- Location: ABC News
-- Description: A man suspected of killing rap icon Tupac Shakur has failed to appear in court for a hearing on whether his defense team is ready to go trial
-
-Analysis generated at: Thu Feb 13 00:58:49 UTC 2025
+Analysis generated at: Thu Feb 13 01:37:53 UTC 2025
