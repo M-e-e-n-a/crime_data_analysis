@@ -1,10 +1,10 @@
 
-Loaded 14549 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-12 01:36:25
+Loaded 14585 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-12 05:49:10
 
 Incidents by source:
 source
-newsapi           14448
+newsapi           14484
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-02-12 01:36
-- Location: BBC News
-- Description: A BBC investigation finds seven companies on the platform selling plates without checking customers' documents.
+### ASSAULT on 2025-02-12 05:49
+- Location: The Times of India
+- Description: AAP leader and MLA Amanatullah Khan has written to the Delhi Police Commissioner, alleging false implication after an FIR was lodged against him for allegedly attacking a police team in Jamia Nagar. The altercation occurred while police were attempting to arr…
 
 
-### OTHER on 2025-02-12 01:32
-- Location: TheWrap
-- Description: TheWrap Screening Series: Nominees for live-action, documentary and animated shorts talk about the joy, trauma and universal human themes explored in their work
-The post Oscar-Nominated Shorts Filmmakers Swap Stories About Their Creative Process appeared firs…
+### OTHER on 2025-02-12 05:28
+- Location: The Times of India
+- Description: Expat mumfluencers on TikTok praise Saudi Arabia and the NEOM megacity, showcasing idealistic lifestyles despite rights violation concerns. NEOM's ambitious population goals have been lowered, with influencers propagating positive messages as part of the king…
 
 
-### SHOOTING on 2025-02-12 01:30
-- Location: New York Post
-- Description: A club security guard -- who appeared to be wearing body armor -- calmly raised an assault rifle and shot off what appeared to be around two dozen shots at the gunman in a matter of moments.
+### OTHER on 2025-02-12 05:28
+- Location: The Star Online
+- Description: SHAH ALAM: GISB Holdings Sdn Bhd (GISB) chief executive officer Datuk Nasiruddin Mohd Ali and 21 other GISB members pleaded not guilty to a charge of being a part of an organised criminal group at the Shah Alam High Court on Wednesday. Read full story
 
 
-### HOMICIDE on 2025-02-12 01:20
-- Location: The Punch
-- Description: The Plateau State Commissioner of Police, Emmanuel Adesina, on Tuesday, announced the arrest of 26 suspects for various offences including one Samuel Dang Kat and Zatshinen Wubwerwe in connection with the attack which led to the death of a National Youth Serv…
+### OTHER on 2025-02-12 05:27
+- Location: Digital Journal
+- Description: Expat “mumfluencers” are taking to TikTok to sing the praises of life in Saudi Arabia and to extol the virtues of its new NEOM megacity, filming their idyllic lives spent picnicking by turquoise waters and shopping in gleaming malls. “If you have children, Sa…
 
 
-### HOMICIDE on 2025-02-12 01:11
-- Location: Newser
-- Description: The Massachusetts Supreme Judicial Court ruled Tuesday that Karen Read can be retried on all three charges connected to the 2022 death of her boyfriend, Boston police officer John O'Keefe. The ruling from the state's top court clears the way for an April tria…
+### OTHER on 2025-02-12 05:27
+- Location: Digital Journal
+- Description: Expat "mumfluencers" are taking to TikTok to sing the praises of life in Saudi Arabia and to extol the virtues of its new NEOM megacity.
+The post ‘Saudi is the best!’: Why are TikTok mumfluencers lauding desert megacity? appeared first on Digital Journal.
 
-Analysis generated at: Thu Feb 13 01:37:53 UTC 2025
+Analysis generated at: Thu Feb 13 06:17:26 UTC 2025
