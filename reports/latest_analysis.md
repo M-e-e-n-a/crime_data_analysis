@@ -1,10 +1,10 @@
 
-Loaded 14775 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-13 06:12:40
+Loaded 14837 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-13 12:23:09
 
 Incidents by source:
 source
-newsapi           14674
+newsapi           14736
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-02-13 06:12
-- Location: EURACTIV
-- Description: Gun rights advocates reject suppressor limits as unjustified.
+### OTHER on 2025-02-13 12:23
+- Location: BBC News
+- Description: Six men have been arrested over their suspected involvement in a major people smuggling ring.
 
 
-### OTHER on 2025-02-13 06:00
-- Location: Insurance Journal
-- Description: State senators have declined to move forward with a statewide ban on all fireworks, and instead are working to significantly strengthen law enforcement’s ability to investigate and prosecute fireworks cases. Within the last week, measures to increase firework…
+### OTHER on 2025-02-13 12:21
+- Location: Securityaffairs.com
+- Description: A subgroup of the Russia-linked Seashell Blizzard APT group (aka Sandworm) ran a global multi-year initial access operation called BadPilot. Microsoft shared findings on research on a subgroup of the Russia-linked APT group Seashell Blizzard behind the global…
 
 
-### SHOOTING on 2025-02-13 06:00
-- Location: New Zealand Herald
-- Description: He was fleeing police when he broke into the pensioner's home and assaulted him.
+### OTHER on 2025-02-13 12:15
+- Location: Fox News
+- Description: Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.
 
 
-### HOMICIDE on 2025-02-13 06:00
-- Location: Thefutoncritic.com
-- Description: The six-episode drama starring Matthew Lewis is based on the first novel in the Sunday Times best-selling series by British author the Reverend Richard Coles and will air later this year on Acorn TV worldwide and Channel 5 in the UK.
+### HOMICIDE on 2025-02-13 12:06
+- Location: LADbible
+- Description: The 32-year-old mother opened fire on all four of her children in their Wyoming home
 
 
-### HOMICIDE on 2025-02-13 05:56
-- Location: ABC News (AU)
-- Description: The brother of one of four people alleged to have murdered 15-year-old Cassius Turvey tells a court he saw one of the accused with weapons, just before the teenager was struck over the head with a metal pole.
+### OTHER on 2025-02-13 12:00
+- Location: National Post
+- Description: For two decades Afghan women had freedom. They could go to school, hold jobs and public office. Then everything changed in an instant.
 
-Analysis generated at: Fri Feb 14 06:17:24 UTC 2025
+Analysis generated at: Fri Feb 14 12:23:26 UTC 2025
