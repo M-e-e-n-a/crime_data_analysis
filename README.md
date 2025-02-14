@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Feb 13 18:17:21 UTC 2025
+Last updated: Fri Feb 14 00:58:37 UTC 2025
 
 ## Latest Analysis
 
-Loaded 14737 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-12 18:10:00
+Loaded 14744 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-13 00:53:00
 
 Incidents by source:
 source
-newsapi           14636
+newsapi           14643
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,31 +24,27 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-02-12 18:10
-- Location: TheBlaze
-- Description: When FBI agents searched the home of Benjamin John Martin, 46, in Madera, Calif., they were looking for clothing, electronics, and other evidence related to his presence at the U.S. Capitol on Jan. 6, 2021.
-
-Having noticed a large safe in the garage of Martin…
+### OTHER on 2025-02-13 00:53
+- Location: Spoilertv.com
 
 
-### ASSAULT on 2025-02-12 18:07
-- Location: New York Post
-- Description: The woman was waiting for a cab in the lobby of a building at Montague and Henry streets around 10:50 a.m. when the sicko approached her and claimed he was an immigration officer, authorities said.…
+### OTHER on 2025-02-13 00:35
+- Location: Freerepublic.com
+- Description: Copies of a book promoting white nationalist ideology have been placed in community-run library boxes in neighbourhoods in parts of Ottawa, prompting a police investigation. Christine Young found several copies this month when she checked out a few little fre…
 
 
-### OTHER on 2025-02-12 18:02
-- Location: New Zealand Herald
-- Description: Beach parties and drinking in public have Mount locals calling for a full liquor ban.
+### OTHER on 2025-02-13 00:34
+- Location: The Star Online
+- Description: SEREMBAN: Negri Sembilan police recorded losses amounting to over RM50mil from various commercial crimes last year, with 2,648 investigation papers opened, compared to RM44.1mil in the previous year. Read full story
 
 
-### OTHER on 2025-02-12 18:02
-- Location: XXLMAG.COM
-- Description: Diddy takes a stand. Continue reading…
+### OTHER on 2025-02-13 00:29
+- Location: Freerepublic.com
+- Description: Ahmad Bakhshayesh Ardestani, a member of the National Security Committee in the Iranian parliament, said on Wednesday that some of his fellow lawmakers are urging the Iranian regime to rapidly develop nuclear weapons to halt President Donald Trump’s agenda fo…
 
 
-### OTHER on 2025-02-12 18:00
-- Location: Reactormag.com
-- Description: And at last we’re here: over the fence and into the cemetery, if not yet the sematary...
-The post People Are Dying to Get In: Stephen King’s Pet Sematary (Part 17) appeared first on Reactor.
+### SHOOTING on 2025-02-13 00:27
+- Location: Vancouver Sun
+- Description: Vaughn Palmer: The NDP denied safer-supply drugs were being peddled by criminals. When a report proved it, NDP attacked the leaker. Read on.
 
-Analysis generated at: Thu Feb 13 18:17:21 UTC 2025
+Analysis generated at: Fri Feb 14 00:58:37 UTC 2025
