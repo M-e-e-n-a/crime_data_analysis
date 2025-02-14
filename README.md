@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Feb 14 00:58:37 UTC 2025
+Last updated: Fri Feb 14 01:37:22 UTC 2025
 
 ## Latest Analysis
 
-Loaded 14744 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-13 00:53:00
+Loaded 14751 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-13 01:34:55
 
 Incidents by source:
 source
-newsapi           14643
+newsapi           14650
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,27 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-02-13 00:53
-- Location: Spoilertv.com
+### ROBBERY/THEFT on 2025-02-13 01:34
+- Location: Starcommunity.com.au
+- Description: A 16-year-old boy from the Casey area has been arrested by police following an alleged aggravated burglary and the theft […]
 
 
-### OTHER on 2025-02-13 00:35
-- Location: Freerepublic.com
-- Description: Copies of a book promoting white nationalist ideology have been placed in community-run library boxes in neighbourhoods in parts of Ottawa, prompting a police investigation. Christine Young found several copies this month when she checked out a few little fre…
+### HOMICIDE on 2025-02-13 01:22
+- Location: Hip-Hop Wired
+- Description: Gillie Da Kid was a guest on Shannon Sharpe’s Club Shay Shay, and it delivered confirmation to a wild Internet rumor. According to Gillie, the cops told him that a recently murdered high school basketball star was also the person who shot and killed his son, …
 
 
-### OTHER on 2025-02-13 00:34
-- Location: The Star Online
-- Description: SEREMBAN: Negri Sembilan police recorded losses amounting to over RM50mil from various commercial crimes last year, with 2,648 investigation papers opened, compared to RM44.1mil in the previous year. Read full story
+### HOMICIDE on 2025-02-13 01:22
+- Location: Hip-Hop Wired
+- Description: Gillie Da Kid was a guest on Shannon Sharpe’s Club Shay Shay, and it delivered confirmation to a wild Internet rumor. According to Gillie, the cops told him that a recently murdered high school basketball star was also the person who shot and killed his son, …
 
 
-### OTHER on 2025-02-13 00:29
-- Location: Freerepublic.com
-- Description: Ahmad Bakhshayesh Ardestani, a member of the National Security Committee in the Iranian parliament, said on Wednesday that some of his fellow lawmakers are urging the Iranian regime to rapidly develop nuclear weapons to halt President Donald Trump’s agenda fo…
+### OTHER on 2025-02-13 01:16
+- Location: The Punch
+- Description: The Deputy Superintendent of Police at the Ogudu Police Station in Lagos State, Owolabi Akinlolu, who was accused of raping a 17-year-old girl in his office at the Ogudu Police Division, was allegedly retired from service in secrecy before his case was brough…
 
 
-### SHOOTING on 2025-02-13 00:27
-- Location: Vancouver Sun
-- Description: Vaughn Palmer: The NDP denied safer-supply drugs were being peddled by criminals. When a report proved it, NDP attacked the leaker. Read on.
+### OTHER on 2025-02-13 01:05
+- Location: ABC News (AU)
+- Description: The Chief Commissioner of Victoria Police, Shane Patton, says he wants to serve another term in the role despite losing the support of some union members over his handling of a pay dispute.
 
-Analysis generated at: Fri Feb 14 00:58:37 UTC 2025
+Analysis generated at: Fri Feb 14 01:37:22 UTC 2025
