@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Feb 14 12:23:26 UTC 2025
+Last updated: Fri Feb 14 12:39:21 UTC 2025
 
 ## Latest Analysis
 
-Loaded 14837 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-13 12:23:09
+Loaded 14841 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-13 12:35:27
 
 Incidents by source:
 source
-newsapi           14736
+newsapi           14740
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
+### HOMICIDE on 2025-02-13 12:35
+- Location: The Times of India
+- Description: Khaleda Zia's BNP party expects India to repatriate Sheikh Hasina following a UN report accusing her regime of human rights violations and mass killings during last year's student protests. Bangladesh's interim government also supports Hasina's extradition, a…
+
+
+### OTHER on 2025-02-13 12:28
+- Location: The Federalist
+- Description: Voters must remain vigilant against the 50 state-level swamps and their lurking RINO Republicans.
+
+
+### ROBBERY/THEFT on 2025-02-13 12:26
+- Location: fox6now.com
+- Description: A 32-year-old Milwaukee man has been criminally charged in connection to a police pursuit that ended in a crash on Monday, Feb. 3. Prosecutors say the fleeing vehicle was reported stolen.
+
+
+### HOMICIDE on 2025-02-13 12:26
+- Location: ABC News
+- Description: Man arrested for murder after 65-year-old roommate's remains found inside suitcase in East Rivergo.com
+
+
 ### OTHER on 2025-02-13 12:23
 - Location: BBC News
 - Description: Six men have been arrested over their suspected involvement in a major people smuggling ring.
 
-
-### OTHER on 2025-02-13 12:21
-- Location: Securityaffairs.com
-- Description: A subgroup of the Russia-linked Seashell Blizzard APT group (aka Sandworm) ran a global multi-year initial access operation called BadPilot. Microsoft shared findings on research on a subgroup of the Russia-linked APT group Seashell Blizzard behind the global…
-
-
-### OTHER on 2025-02-13 12:15
-- Location: Fox News
-- Description: Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.
-
-
-### HOMICIDE on 2025-02-13 12:06
-- Location: LADbible
-- Description: The 32-year-old mother opened fire on all four of her children in their Wyoming home
-
-
-### OTHER on 2025-02-13 12:00
-- Location: National Post
-- Description: For two decades Afghan women had freedom. They could go to school, hold jobs and public office. Then everything changed in an instant.
-
-Analysis generated at: Fri Feb 14 12:23:26 UTC 2025
+Analysis generated at: Fri Feb 14 12:39:21 UTC 2025
