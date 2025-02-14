@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Feb 14 01:37:22 UTC 2025
+Last updated: Fri Feb 14 06:17:24 UTC 2025
 
 ## Latest Analysis
 
-Loaded 14751 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-13 01:34:55
+Loaded 14775 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-13 06:12:40
 
 Incidents by source:
 source
-newsapi           14650
+newsapi           14674
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2025-02-13 01:34
-- Location: Starcommunity.com.au
-- Description: A 16-year-old boy from the Casey area has been arrested by police following an alleged aggravated burglary and the theft […]
+### SHOOTING on 2025-02-13 06:12
+- Location: EURACTIV
+- Description: Gun rights advocates reject suppressor limits as unjustified.
 
 
-### HOMICIDE on 2025-02-13 01:22
-- Location: Hip-Hop Wired
-- Description: Gillie Da Kid was a guest on Shannon Sharpe’s Club Shay Shay, and it delivered confirmation to a wild Internet rumor. According to Gillie, the cops told him that a recently murdered high school basketball star was also the person who shot and killed his son, …
+### OTHER on 2025-02-13 06:00
+- Location: Insurance Journal
+- Description: State senators have declined to move forward with a statewide ban on all fireworks, and instead are working to significantly strengthen law enforcement’s ability to investigate and prosecute fireworks cases. Within the last week, measures to increase firework…
 
 
-### HOMICIDE on 2025-02-13 01:22
-- Location: Hip-Hop Wired
-- Description: Gillie Da Kid was a guest on Shannon Sharpe’s Club Shay Shay, and it delivered confirmation to a wild Internet rumor. According to Gillie, the cops told him that a recently murdered high school basketball star was also the person who shot and killed his son, …
+### SHOOTING on 2025-02-13 06:00
+- Location: New Zealand Herald
+- Description: He was fleeing police when he broke into the pensioner's home and assaulted him.
 
 
-### OTHER on 2025-02-13 01:16
-- Location: The Punch
-- Description: The Deputy Superintendent of Police at the Ogudu Police Station in Lagos State, Owolabi Akinlolu, who was accused of raping a 17-year-old girl in his office at the Ogudu Police Division, was allegedly retired from service in secrecy before his case was brough…
+### HOMICIDE on 2025-02-13 06:00
+- Location: Thefutoncritic.com
+- Description: The six-episode drama starring Matthew Lewis is based on the first novel in the Sunday Times best-selling series by British author the Reverend Richard Coles and will air later this year on Acorn TV worldwide and Channel 5 in the UK.
 
 
-### OTHER on 2025-02-13 01:05
+### HOMICIDE on 2025-02-13 05:56
 - Location: ABC News (AU)
-- Description: The Chief Commissioner of Victoria Police, Shane Patton, says he wants to serve another term in the role despite losing the support of some union members over his handling of a pay dispute.
+- Description: The brother of one of four people alleged to have murdered 15-year-old Cassius Turvey tells a court he saw one of the accused with weapons, just before the teenager was struck over the head with a metal pole.
 
-Analysis generated at: Fri Feb 14 01:37:22 UTC 2025
+Analysis generated at: Fri Feb 14 06:17:24 UTC 2025
