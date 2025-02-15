@@ -1,10 +1,10 @@
 
-Loaded 14939 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-14 00:54:16
+Loaded 14947 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-14 01:35:31
 
 Incidents by source:
 source
-newsapi           14838
+newsapi           14846
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-02-14 00:54
-- Location: Fox News
-- Description: A Clearwater, Florida, man was charged with inappropriately touching young girls after allegedly using pet ferrets to lure them to his home.
-
-
-### OTHER on 2025-02-14 00:49
+### OTHER on 2025-02-14 01:35
 - Location: Newsweek
-- Description: Sean "Diddy" Combs is taking legal action against NBCUniversal and the production company Ample.
+- Description: Richard Tabler was executed by lethal injection in Texas on Thursday.
 
 
-### HOMICIDE on 2025-02-14 00:49
-- Location: SFGate
-- Description: A sprawling web of violence across America has been linked to a fringe group of radical Berkeley pseudo-intellectuals known as the Zizians.
+### OTHER on 2025-02-14 01:29
+- Location: Freerepublic.com
+- Description: New York City's Democratic Mayor Eric Adams announced on Thursday he will issue an executive order that will allow federal Immigration and Customs Enforcement (ICE) agents into Rikers Island to assist in criminal investigations of illegal migrants. The mayor'…
 
 
-### HOMICIDE on 2025-02-14 00:47
-- Location: ABC News (AU)
-- Description: Prosecutors will not seek the death penalty for a former South Australian woman awaiting trial in the United States over the death of her stepdaughter, according to her lawyer.
+### HOMICIDE on 2025-02-14 01:26
+- Location: The Punch
+- Description: Residents of Ondo State are gripped by fear as a surge in killings, kidnappings, and farm attacks raises security concerns. PETER DADA examines recent bandit targets and the efforts of security agencies to curb the menace Early this year, Oyo State Governor, …
 
 
-### OTHER on 2025-02-14 00:43
+### HOMICIDE on 2025-02-14 01:19
 - Location: CBC News
-- Description: Brandon police posted a 54-second tongue-in-cheek video to its social media platforms Wednesday encouraging people to contact the service if they want to make Valentine's Day extra special for a partner who often brags about getting away with crimes.
+- Description: Police have charged a man with murder after a woman was found fatally stabbed in an Edmonton home.
 
-Analysis generated at: Sat Feb 15 00:57:58 UTC 2025
+
+### OTHER on 2025-02-14 01:17
+- Location: ABC News (AU)
+- Description: A man who snatched a one-year-old from a pram on a bus in Adelaide's northern suburbs has been released from custody without further penalty after spending six months behind bars.
+
+Analysis generated at: Sat Feb 15 01:36:11 UTC 2025
