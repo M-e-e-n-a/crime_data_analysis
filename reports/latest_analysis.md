@@ -1,10 +1,10 @@
 
-Loaded 14994 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-14 06:04:32
+Loaded 15059 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-14 12:18:41
 
 Incidents by source:
 source
-newsapi           14893
+newsapi           14958
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-02-14 06:04
-- Location: BBC News
-- Description: An odd job man is convicted of the muder of a women whose death was first thought accidental.
+### SHOOTING on 2025-02-14 12:18
+- Location: Thechronicle.com.gh
+- Description: The Attorney-General’s (A-G) Office has denied calling for the case docket involving Abass Yunuss Larry, a contractor on trial, for allegedly shooting Hammond Eleazer Nii Okai-Koi, a self-employed man, during a dispute over a building project in Kasoa, Centra…
 
 
-### OTHER on 2025-02-14 06:02
-- Location: Forbes
-- Description: See photos of "Captain America: Brave New World" star Harrison Ford throughout his career, beginning with "Star Wars."
+### OTHER on 2025-02-14 12:17
+- Location: Fox News
+- Description: After numerous arrests following the Eagles' last two wins, the city of Philadelphia is asking those in attendance at Friday's parade to "celebrate responsibly."
 
 
-### SHOOTING on 2025-02-14 06:01
-- Location: Everything-everywhere.com
-- Description: Podcast Transcript On the morning of February 14, 1929, a horrific crime took place on the north side of Chicago. Seven men were lined up against the wall of an auto garage and gunned down in cold blood by machine gun fire.  The event marked the low point of …
+### OTHER on 2025-02-14 12:10
+- Location: CNBC
+- Description: Some retailers have walked back supplier programs intended to address the additional hurdles that Black and minority founders face, including funding.
 
 
-### SHOOTING on 2025-02-14 06:00
-- Location: Insurance Journal
-- Description: Baltimore is suing gunmaker Glock over design features that allow its handguns to be easily modified to become fully automatic weapons, which enables criminals to inflict more damage and makes the city more dangerous, attorneys argue in a complaint filed …
+### OTHER on 2025-02-14 12:00
+- Location: KQED
+- Description: Oakland community organizers launched a campaign to revive the idea of an independent Northeastern University police force that would also patrol much of East Oakland.
 
 
-### HOMICIDE on 2025-02-14 06:00
-- Location: Insurance Journal
-- Description: A Pennsylvania husband and wife are not covered by their homeowners or personal umbrella insurance policies for claims they inflicted emotional distress by hiding the gun their son used to kill a friend and thus delaying discovery of the victim’s …
+### OTHER on 2025-02-14 11:40
+- Location: Variety
+- Description: If the Panama Papers have become a byword for exposure of corruption and financial fraud around the world, “The Black Swan” (“Den Sorte Swane”) by Denmark’s own truth-seeking and Sundance winner Mads Brügger is poised to have a similar long-lasting effect on …
 
-Analysis generated at: Sat Feb 15 06:16:08 UTC 2025
+Analysis generated at: Sat Feb 15 12:20:58 UTC 2025
