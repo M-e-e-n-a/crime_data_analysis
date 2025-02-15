@@ -1,10 +1,10 @@
 
-Loaded 14947 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-14 01:35:31
+Loaded 14994 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-14 06:04:32
 
 Incidents by source:
 source
-newsapi           14846
+newsapi           14893
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-02-14 01:35
-- Location: Newsweek
-- Description: Richard Tabler was executed by lethal injection in Texas on Thursday.
+### HOMICIDE on 2025-02-14 06:04
+- Location: BBC News
+- Description: An odd job man is convicted of the muder of a women whose death was first thought accidental.
 
 
-### OTHER on 2025-02-14 01:29
-- Location: Freerepublic.com
-- Description: New York City's Democratic Mayor Eric Adams announced on Thursday he will issue an executive order that will allow federal Immigration and Customs Enforcement (ICE) agents into Rikers Island to assist in criminal investigations of illegal migrants. The mayor'…
+### OTHER on 2025-02-14 06:02
+- Location: Forbes
+- Description: See photos of "Captain America: Brave New World" star Harrison Ford throughout his career, beginning with "Star Wars."
 
 
-### HOMICIDE on 2025-02-14 01:26
-- Location: The Punch
-- Description: Residents of Ondo State are gripped by fear as a surge in killings, kidnappings, and farm attacks raises security concerns. PETER DADA examines recent bandit targets and the efforts of security agencies to curb the menace Early this year, Oyo State Governor, …
+### SHOOTING on 2025-02-14 06:01
+- Location: Everything-everywhere.com
+- Description: Podcast Transcript On the morning of February 14, 1929, a horrific crime took place on the north side of Chicago. Seven men were lined up against the wall of an auto garage and gunned down in cold blood by machine gun fire.  The event marked the low point of …
 
 
-### HOMICIDE on 2025-02-14 01:19
-- Location: CBC News
-- Description: Police have charged a man with murder after a woman was found fatally stabbed in an Edmonton home.
+### SHOOTING on 2025-02-14 06:00
+- Location: Insurance Journal
+- Description: Baltimore is suing gunmaker Glock over design features that allow its handguns to be easily modified to become fully automatic weapons, which enables criminals to inflict more damage and makes the city more dangerous, attorneys argue in a complaint filed …
 
 
-### OTHER on 2025-02-14 01:17
-- Location: ABC News (AU)
-- Description: A man who snatched a one-year-old from a pram on a bus in Adelaide's northern suburbs has been released from custody without further penalty after spending six months behind bars.
+### HOMICIDE on 2025-02-14 06:00
+- Location: Insurance Journal
+- Description: A Pennsylvania husband and wife are not covered by their homeowners or personal umbrella insurance policies for claims they inflicted emotional distress by hiding the gun their son used to kill a friend and thus delaying discovery of the victim’s …
 
-Analysis generated at: Sat Feb 15 01:36:11 UTC 2025
+Analysis generated at: Sat Feb 15 06:16:08 UTC 2025
