@@ -1,10 +1,10 @@
 
-Loaded 15178 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-15 01:36:07
+Loaded 15213 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-15 06:11:28
 
 Incidents by source:
 source
-newsapi           15077
+newsapi           15112
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-02-15 01:36
-- Location: CBS News
-- Description: Secretary of State Marco Rubio announced last week that President Nayib Bukele of El Salvador had agreed to accept deportees from the U.S. convicted of crimes, and also offered to house incarcerated Americans in El Salvador's prisons.
+### OTHER on 2025-02-15 06:11
+- Location: Rediff.com
+- Description: 'When the girls said they want to play football, the mothers were encouraging.'
+'It was the fathers who were against the idea.'
 
 
-### OTHER on 2025-02-15 01:34
-- Location: Vulture
-- Description: The finale proves that the series stretched the limits of prequel logic and bit off more than it could chew.
+### OTHER on 2025-02-15 06:00
+- Location: New Zealand Herald
+- Description: Tony Looker was eventually stopped by police who found $113,000 in cash and 44g of meth.
 
 
-### HOMICIDE on 2025-02-15 01:30
-- Location: Post Magazine
-- Description: The alleged murder of the woman in Budapest by her Irish husband has sparked outrage in Japan over how her case was managed.
+### HOMICIDE on 2025-02-15 05:58
+- Location: ABC News
+- Description: A traffic stop in Vermont has cracked open a cultlike group called Zizians linked to six deaths in three states
 
 
-### OTHER on 2025-02-15 01:26
-- Location: New York Post
-- Description: Good on Mayor Adams for pledging cooperation with ICE to apprehend dangerous criminal migrants, but he should end the double-talk and commit to full cooperation on civil warrants.
+### HOMICIDE on 2025-02-15 05:58
+- Location: ABC News
+- Description: Here’s a look at the timeline of events in a series of killings that culminated in a Jan. 20 highways shootout that killed a Border Patrol officer in Vermont
 
 
-### HOMICIDE on 2025-02-15 01:16
-- Location: Freerepublic.com
-- Description: a feel good video for this Valentine's day. Libs are upset a trans woman was tricked into coming out side a building only to have ICE nab him.
+### HOMICIDE on 2025-02-15 05:58
+- Location: ABC News
+- Description: The killing of U.S. Border Patrol Agent David Maland is tied to a cultlike group that federal prosecutors have linked to five other homicides in Vermont, Pennsylvania and California
 
-Analysis generated at: Sun Feb 16 01:44:03 UTC 2025
+Analysis generated at: Sun Feb 16 06:16:08 UTC 2025
