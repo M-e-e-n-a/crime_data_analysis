@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Feb 15 18:14:43 UTC 2025
+Last updated: Sun Feb 16 01:03:25 UTC 2025
 
 ## Latest Analysis
 
-Loaded 15158 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-14 18:13:00
+Loaded 15170 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-15 01:00:34
 
 Incidents by source:
 source
-newsapi           15057
+newsapi           15069
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-02-14 18:13
-- Location: LancasterOnline
-- Description: After his two previous homicide trials ended in mistrials, a Lancaster County jury on Friday convicted Wilberto Melendez of fatally shooting a Lancaster city man more than seven years ago.
-
-
-### OTHER on 2025-02-14 18:11
+### OTHER on 2025-02-15 01:00
 - Location: BBC News
-- Description: The crossbench peer calls for more action against "the menace of extreme protestors" as he leaves.
+- Description: The controversial ruling once again shines a spotlight on the issue of marital rape in India, which refuses to criminalise it.
 
 
-### HOMICIDE on 2025-02-14 18:10
-- Location: The Times of India
-- Description: Colva: Deputy superintendent of police Rajendra Prabhudessai, the investigating officer in the 2017 case of the rape and murder of an Irish national, .
+### OTHER on 2025-02-15 01:00
+- Location: Screen Rant
+- Description: Reacher season 3 newcomer Olivier Richters opens up about Alan Ritchson's commitment to the action series, comparing him to the character he portrays.
 
 
-### OTHER on 2025-02-14 18:07
-- Location: BBC News
-- Description: Data shows 36% of people experienced anti-social behaviour last year, up from 34% the year before.
+### HOMICIDE on 2025-02-15 00:57
+- Location: Billings Gazette
+- Description: Michael Sims killed Randall Livingston in April 2024 after the two left a Billings bar. Sim's sentencing spanned two days as the prosecution and a defense poured hours into arguing the case.
 
 
-### HOMICIDE on 2025-02-14 18:03
-- Location: TheWrap
-- Description: The actor also tells TheWrap what he'd like to see in a potential season 2 of the Paramount+ series
-The post ‘Dexter: Original Sin’ Star Patrick Gibson Breaks Down That Finale: ‘No Character That I Wanted to Kill More’ appeared first on TheWrap.
+### SHOOTING on 2025-02-15 00:51
+- Location: New York Post
+- Description: A transgender teen who was allegedly planning a mass shooting on Valentine's Day in Indiana had an "obsession" with Nikolas Cruz.
 
-Analysis generated at: Sat Feb 15 18:14:43 UTC 2025
+
+### SHOOTING on 2025-02-15 00:45
+- Location: Post Magazine
+- Description: Colonel Porfirio Cedeno was shot multiple times in Guayaquil while travelling to a military ceremony, according to police.
+
+Analysis generated at: Sun Feb 16 01:03:25 UTC 2025
