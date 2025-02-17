@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Feb 17 12:41:03 UTC 2025
+Last updated: Mon Feb 17 18:16:39 UTC 2025
 
 ## Latest Analysis
 
-Loaded 15391 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-16 12:38:35
+Loaded 15435 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-16 18:08:17
 
 Incidents by source:
 source
-newsapi           15290
+newsapi           15334
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-02-16 12:38
-- Location: The Punch
-- Description: The Anambra State Police Command has arrested Christian Ndubuisi in connection with the fatal stabbing of his elder brother during an altercation. The incident, described by the state Commissioner of Police, Ikioye Orutugu, as “tragic” and “unfortunate,” has …
+### OTHER on 2025-02-16 18:08
+- Location: Statetimes.in
+- Description: CHANDIGARH: A US military aircraft carrying 112 illegal Indian immigrants landed at the Amritsar airport late on Sunday evening, the third such plane bringing deportees amid a crackdown by the Donald Trump administration against illegal immigrants. The C-17 a…
 
 
-### OTHER on 2025-02-16 12:30
-- Location: Roanoke Times
-- Description: Teacher Marc Fogel was released this week in what the White House described as a diplomatic thaw. Here's a look at other Americans who remain in Russian custody.
+### HOMICIDE on 2025-02-16 18:02
+- Location: NBC News
+- Description: Attorneys for the man suspected of killing rap icon Tupac Shakur want to delay next month’s trial, saying more time is needed for investigative work to ensure that Duane “Keffe D” Davis gets a fair trial.
 
 
-### HOMICIDE on 2025-02-16 12:30
-- Location: The Star Online
-- Description: BRUSSELS (Reuters) - A 19-year-old man was shot dead in Brussels on Saturday night, the local prosecutor's office said, as drug gang violence in the Belgian capital shows no signs of abating. Read full story
+### ROBBERY/THEFT on 2025-02-16 17:37
+- Location: New York Post
+- Description: "You can call it 'know your rights' all you want. I think it's more about how they evade law enforcement not to get arrested, even though there's a federal warrant for your arrest, how they evade that, rather than 'know your rights,' " border czar Tom Homan s…
 
 
-### HOMICIDE on 2025-02-16 12:27
-- Location: Freerepublic.com
-- Description: Muhsin Hendricks, considered the world’s “first openly gay imam”, has been shot dead near the southern city of Gqeberha, South African police have said. The imam, who ran a mosque intended as a safe haven for gay and other marginalised Muslims, was in a car w…
+### OTHER on 2025-02-16 17:24
+- Location: Newsweek
+- Description: Tom Homan addressed accusations of a quid-pro-quo deal with the New York City mayor during an appearance on CNN.
 
 
-### HOMICIDE on 2025-02-16 12:26
-- Location: BBC News
-- Description: He was a pioneering figure who ran a mosque in Cape Town intended as a safe haven for gay Muslims.
+### OTHER on 2025-02-16 17:15
+- Location: New York Post
+- Description: The son of a British banking bigwig was allowed to take a forgiving plea deal after he was charged with beating and strangling his up-and-coming comedian girlfriend in Manhattan, The Post has learned. New York-based comic Sienna Hubert-Ross — whose Kamala Har…
 
-Analysis generated at: Mon Feb 17 12:41:03 UTC 2025
+Analysis generated at: Mon Feb 17 18:16:39 UTC 2025
