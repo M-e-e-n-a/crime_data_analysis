@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Feb 17 12:24:48 UTC 2025
+Last updated: Mon Feb 17 12:41:03 UTC 2025
 
 ## Latest Analysis
 
-Loaded 15384 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-16 12:23:53
+Loaded 15391 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-16 12:38:35
 
 Incidents by source:
 source
-newsapi           15283
+newsapi           15290
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-02-16 12:23
+### HOMICIDE on 2025-02-16 12:38
 - Location: The Punch
-- Description: A 29-year-old Islamic teacher, Abdulrahman Bello, who was arrested on Saturday for the alleged murder of Yetunde Lawal, a final-year student at Kwara State College of Education, has claimed he is a “victim of circumstance.” In a video that started trending on…
+- Description: The Anambra State Police Command has arrested Christian Ndubuisi in connection with the fatal stabbing of his elder brother during an altercation. The incident, described by the state Commissioner of Police, Ikioye Orutugu, as “tragic” and “unfortunate,” has …
 
 
-### HOMICIDE on 2025-02-16 12:23
-- Location: The Punch
-- Description: The Ogun State Police Command on Sunday killed a suspected armed robber along the Sagamu-Ijebu Ode Expressway during a gun duel. The command’s Public Relations Officer, Omolola Odutola, disclosed this in a statement released on Sunday. Odutola disclosed that …
+### OTHER on 2025-02-16 12:30
+- Location: Roanoke Times
+- Description: Teacher Marc Fogel was released this week in what the White House described as a diplomatic thaw. Here's a look at other Americans who remain in Russian custody.
 
 
-### SHOOTING on 2025-02-16 12:15
-- Location: fox6now.com
-- Description: One person was injured in a late night shooting in Milwaukee on Saturday, Feb. 15.
+### HOMICIDE on 2025-02-16 12:30
+- Location: The Star Online
+- Description: BRUSSELS (Reuters) - A 19-year-old man was shot dead in Brussels on Saturday night, the local prosecutor's office said, as drug gang violence in the Belgian capital shows no signs of abating. Read full story
 
 
-### HOMICIDE on 2025-02-16 12:13
-- Location: Sky.com
-- Description: The landlord of a village pub where a woman was killed on Valentine's Day has told Sky News the victim was drinking in the pub before she was shot dead in the car park.
+### HOMICIDE on 2025-02-16 12:27
+- Location: Freerepublic.com
+- Description: Muhsin Hendricks, considered the world’s “first openly gay imam”, has been shot dead near the southern city of Gqeberha, South African police have said. The imam, who ran a mosque intended as a safe haven for gay and other marginalised Muslims, was in a car w…
 
 
-### OTHER on 2025-02-16 12:07
-- Location: Gossiplankanews.com
-- Description: Leak Raises Questions on Justice and TransparencySri Lanka’s Attorney General, Parinda Ranasinghe, has ordered an investigation into the leak of a confidential letter sent to Acting Inspector General of Police Priyantha Weerasooriya. The letter, which was mea…
+### HOMICIDE on 2025-02-16 12:26
+- Location: BBC News
+- Description: He was a pioneering figure who ran a mosque in Cape Town intended as a safe haven for gay Muslims.
 
-Analysis generated at: Mon Feb 17 12:24:48 UTC 2025
+Analysis generated at: Mon Feb 17 12:41:03 UTC 2025
