@@ -1,10 +1,10 @@
 
-Loaded 15303 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-15 18:00:44
+Loaded 15308 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-16 00:45:57
 
 Incidents by source:
 source
-newsapi           15202
+newsapi           15207
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-02-15 18:00
-- Location: Legalinsurrection.com
-- Description: “I have never had this happen and in our neighborhood I talked to neighbors that have lived there over 10 years and not even a robber in the area, let alone someone shooting at someone in their house.”
-The post Former San Jose State U. Coach Who Opposed Trans…
+### HOMICIDE on 2025-02-16 00:45
+- Location: Advocate.com
+- Description: Authorities have arrested and charged five people over the death of 24-year-old Sam Nordquist, who was a transgender man from Montana. Local police in Upstate New York said that Nordquist had been repeatedly tortured in the weeks before he was killed.
 
 
-### HOMICIDE on 2025-02-15 17:57
-- Location: New York Post
-- Description: France's TF1 said that the suspect had reportedly told his girlfriend he had "done something serious" and had gotten rid of the murder weapon, bleached his clothes and throwing them in the garbage.
+### OTHER on 2025-02-16 00:45
+- Location: Thehillstimes.in
+- Description: IMPHAL, Feb 15: Manipur Governor Ajay Kumar Bhalla on Saturday honoured units of the Indian Army, Assam Rifles, CRPF, BSF, and Manipur Police with citations for their exemplary service in counter-insurgency and disaster response, an official statement said. B…
 
 
-### HOMICIDE on 2025-02-15 17:53
-- Location: New York Post
-- Description: Five people were hit with murder charges for allegedly torturing and killing transgender man Sam Nordquist in upstate New York, authorities said.
+### SHOOTING on 2025-02-16 00:20
+- Location: Bossip
+- Description: The legal strain around the shooting of Ralph Yarl, a Black teenager who was shot in the head and arm for mistakenly ringing the wrong doorbell, has reached a controversial conclusion. Andrew Lester, the 86-year-old white man responsible for the shooting, has…
 
 
-### HOMICIDE on 2025-02-15 17:42
-- Location: CBS News
-- Description: A third, a shadowy figure known online as "Ziz," remains missing in connection with the death of the U.S. Border Patrol agent in Vermont after authorities linked their cultlike group to six deaths in three states.
+### HOMICIDE on 2025-02-16 00:15
+- Location: WSB Atlanta
+- Description: Cobb man convicted of killing longtime girlfriend, mother of 4wsbtv.com
 
 
-### OTHER on 2025-02-15 17:37
-- Location: Securityaffairs.com
-- Description: U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Apple iOS and iPadOS and Mitel SIP Phones vulnerabilities to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added Apple iOS and iP…
+### OTHER on 2025-02-16 00:00
+- Location: Thegatewaypundit.com
+- Description: CNN's Kaitlan Collins faces scrutiny after promoting Luigi Mangione's defense fund, raising ethical questions about her connection to a CNN legal analyst involved in the case. This unfolding story warrants closer examination.
+The post CNN’s Kaitlan Collins Pr…
 
-Analysis generated at: Sun Feb 16 18:15:23 UTC 2025
+Analysis generated at: Mon Feb 17 01:01:14 UTC 2025
