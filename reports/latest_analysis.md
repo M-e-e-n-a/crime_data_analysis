@@ -1,10 +1,10 @@
 
-Loaded 15308 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-16 00:45:57
+Loaded 15314 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-16 01:38:45
 
 Incidents by source:
 source
-newsapi           15207
+newsapi           15213
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-02-16 00:45
-- Location: Advocate.com
-- Description: Authorities have arrested and charged five people over the death of 24-year-old Sam Nordquist, who was a transgender man from Montana. Local police in Upstate New York said that Nordquist had been repeatedly tortured in the weeks before he was killed.
+### OTHER on 2025-02-16 01:38
+- Location: Freerepublic.com
+- Description: Yes, a captivity. Diversity, Equity, and Inclusion (hereafter, DEI) can properly be called a captivity. Americans were held hostage by this alien ideology born in the claustrophobic classrooms of the Marxist credo for decades. Its noose has finally loosened. …
 
 
-### OTHER on 2025-02-16 00:45
-- Location: Thehillstimes.in
-- Description: IMPHAL, Feb 15: Manipur Governor Ajay Kumar Bhalla on Saturday honoured units of the Indian Army, Assam Rifles, CRPF, BSF, and Manipur Police with citations for their exemplary service in counter-insurgency and disaster response, an official statement said. B…
+### HOMICIDE on 2025-02-16 01:27
+- Location: NDTV News
+- Description: Muhsin Hendricks, considered the world&#039;s first openly gay imam, was shot dead Saturday near the southern city of Gqeberha.
 
 
-### SHOOTING on 2025-02-16 00:20
-- Location: Bossip
-- Description: The legal strain around the shooting of Ralph Yarl, a Black teenager who was shot in the head and arm for mistakenly ringing the wrong doorbell, has reached a controversial conclusion. Andrew Lester, the 86-year-old white man responsible for the shooting, has…
+### ASSAULT on 2025-02-16 01:26
+- Location: fox6now.com
+- Description: A Milwaukee man is charged with fourth-degree sexual assault, accused of entering a woman's West Allis home and touching her without consent.
 
 
-### HOMICIDE on 2025-02-16 00:15
-- Location: WSB Atlanta
-- Description: Cobb man convicted of killing longtime girlfriend, mother of 4wsbtv.com
+### OTHER on 2025-02-16 01:20
+- Location: Securityaffairs.com
+- Description: A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs are free in your email box. Enjoy a new round of the weekly SecurityAffairs newsletter, including the international press. U.S. CISA adds…
 
 
-### OTHER on 2025-02-16 00:00
-- Location: Thegatewaypundit.com
-- Description: CNN's Kaitlan Collins faces scrutiny after promoting Luigi Mangione's defense fund, raising ethical questions about her connection to a CNN legal analyst involved in the case. This unfolding story warrants closer examination.
-The post CNN’s Kaitlan Collins Pr…
+### HOMICIDE on 2025-02-16 01:14
+- Location: Fox News
+- Description: Student protesters in Iran called out officials at the University of Tehran for a second day on Saturday following the murder of a business student on campus.
 
-Analysis generated at: Mon Feb 17 01:01:14 UTC 2025
+Analysis generated at: Mon Feb 17 01:40:35 UTC 2025
