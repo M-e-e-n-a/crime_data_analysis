@@ -1,10 +1,10 @@
 
-Loaded 15339 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-16 05:54:44
+Loaded 15384 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-16 12:23:53
 
 Incidents by source:
 source
-newsapi           15238
+newsapi           15283
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2025-02-16 05:54
-- Location: ABC News (AU)
-- Description: Crime squad detectives are investigating two separate armed robbery sprees that took place in the city's east and south-east last night.
+### HOMICIDE on 2025-02-16 12:23
+- Location: The Punch
+- Description: A 29-year-old Islamic teacher, Abdulrahman Bello, who was arrested on Saturday for the alleged murder of Yetunde Lawal, a final-year student at Kwara State College of Education, has claimed he is a “victim of circumstance.” In a video that started trending on…
 
 
-### OTHER on 2025-02-16 05:51
-- Location: New York Post
-- Description: Kaitlan Collins' post was called "bottom of the barrel" by one critic.
+### HOMICIDE on 2025-02-16 12:23
+- Location: The Punch
+- Description: The Ogun State Police Command on Sunday killed a suspected armed robber along the Sagamu-Ijebu Ode Expressway during a gun duel. The command’s Public Relations Officer, Omolola Odutola, disclosed this in a statement released on Sunday. Odutola disclosed that …
 
 
-### HOMICIDE on 2025-02-16 05:31
-- Location: The Star Online
-- Description: KUANTAN: A pawnshop worker in Kuala Terengganu has been held by police to assist in the investigation of the murder of a woman food vendor here last week. Read full story
+### SHOOTING on 2025-02-16 12:15
+- Location: fox6now.com
+- Description: One person was injured in a late night shooting in Milwaukee on Saturday, Feb. 15.
 
 
-### OTHER on 2025-02-16 05:15
-- Location: Khabarhub.com
-- Description: PALPA: The District Police Office, Palpa has recorded total 53 cyber complaints in 11 months. The office saw the registration of 53 complaints relating to cyber in the last 11 months from February 19, 2024 to January 13, 2025, according to Superintendent of P…
+### HOMICIDE on 2025-02-16 12:13
+- Location: Sky.com
+- Description: The landlord of a village pub where a woman was killed on Valentine's Day has told Sky News the victim was drinking in the pub before she was shot dead in the car park.
 
 
-### SHOOTING on 2025-02-16 05:12
-- Location: Slashdot.org
-- Description: Luigi Mangione breaks silence in first public statement since UnitedHealthcare CEO shootingNew York Daily News Luigi Mangione, UnitedHealthcare CEO shooting suspect, thanks people for mail on new websiteNBC News CNN White House correspondent deletes post prom…
+### OTHER on 2025-02-16 12:07
+- Location: Gossiplankanews.com
+- Description: Leak Raises Questions on Justice and TransparencySri Lanka’s Attorney General, Parinda Ranasinghe, has ordered an investigation into the leak of a confidential letter sent to Acting Inspector General of Police Priyantha Weerasooriya. The letter, which was mea…
 
-Analysis generated at: Mon Feb 17 06:18:19 UTC 2025
+Analysis generated at: Mon Feb 17 12:24:48 UTC 2025
