@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Feb 18 01:37:22 UTC 2025
+Last updated: Tue Feb 18 06:17:35 UTC 2025
 
 ## Latest Analysis
 
-Loaded 15446 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-17 01:36:57
+Loaded 15479 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-17 06:07:31
 
 Incidents by source:
 source
-newsapi           15345
+newsapi           15378
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-02-17 01:36
-- Location: Starobserver.com.au
-- Description: The LGBTQIA+ community is in shock at the death of Imam Muhsin Hendricks, a trailblazing figure and the world’s first openly gay imam, who was shot and killed in South ...
-The post Muhsin Hendricks, World’s First Openly Gay Imam Killed In South Africa appeare…
+### ASSAULT on 2025-02-17 06:07
+- Location: The Times of India
+- Description: Pension related frauds: Pension Fund Regulatory and Development Authority (PFRDA) through a public notice has cautioned the general public about various types of frauds ongoing in their name like complete withdrawal, higher returns, etc. "Unscrupulous individ…
 
 
-### ROBBERY/THEFT on 2025-02-17 01:30
-- Location: Bangkok Post
-- Description: A 56-year-old Turkish man has reported that about 25,000 baht was stolen by a Thai woman he met on Pattaya beach in Chon Buri province.
+### OTHER on 2025-02-17 06:06
+- Location: ABC News
+- Description: A modern reimagining of the graphic novel “The Crow” starring Bill Skarsgård plus Canadian pop musician Tate McRae offering her third album are some of this week’s new streaming entertainment releases
 
 
-### ROBBERY/THEFT on 2025-02-17 01:14
-- Location: Variety
-- Description: The biggest robbery in Danish history gets the big-screen treatment in “The Quiet Ones,” a somber piece whose chronicle from a heist’s inception to its disastrous (for the perps) aftermath has stirred comparisons to Michael Mann’s “Heat” 30 years ago. This we…
+### OTHER on 2025-02-17 06:00
+- Location: Naturalnews.com
+- Description: The DOJ has sued Illinois and Chicago for sanctuary policies that limit cooperation with ICE, claiming they obstruct federal immigration enforcement. Many Chicago residents support the lawsuit, arguing sanctuary policies lead to increased crime and strain pub…
 
 
-### HOMICIDE on 2025-02-17 01:06
-- Location: Fox News
-- Description: Muhsin Hendricks, a man known as the world's first openly gay imam, was killed in South Africa over the weekend after being ambushed near the city of Gqeberha.
+### OTHER on 2025-02-17 06:00
+- Location: The Irish Times
+- Description: Despite a new measure by ComReg, Irish consumers are set to remain vulnerable to scammers and won’t have the same protections and supports that exist elsewhere
 
 
-### ROBBERY/THEFT on 2025-02-17 00:59
-- Location: Starcommunity.com.au
-- Description: Four members of an organised-crime syndicate allegedly behind a spate of burglaries targeting collectable trading cards and crypto ATMs have […]
+### DRUG RELATED on 2025-02-17 05:39
+- Location: People.cn
+- Description: COLOMBO, Feb. 15 (Xinhua) -- Sri Lankan police have arrested over 30,000 suspects in connection with
 
-Analysis generated at: Tue Feb 18 01:37:22 UTC 2025
+Analysis generated at: Tue Feb 18 06:17:35 UTC 2025
