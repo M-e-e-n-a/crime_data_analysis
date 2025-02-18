@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Feb 18 12:24:15 UTC 2025
+Last updated: Tue Feb 18 12:38:25 UTC 2025
 
 ## Latest Analysis
 
-Loaded 15541 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-17 12:16:32
+Loaded 15543 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-17 12:35:40
 
 Incidents by source:
 source
-newsapi           15440
+newsapi           15442
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,6 +24,16 @@ bution.svg)
 
 ## Recent Incidents
 
+### OTHER on 2025-02-17 12:35
+- Location: GamesRadar+
+- Description: You can never escape city planning
+
+
+### OTHER on 2025-02-17 12:25
+- Location: The Punch
+- Description: The Yobe State Police Command says it has detained two men for allegedly defiling a 12-year-old girl in Jalingo village, Tarmuwa Local Government Area of Yobe. This was disclosed in a statement released by the command’s Spokesman, SP Dungus Abdulkarim, in Dam…
+
+
 ### OTHER on 2025-02-17 12:16
 - Location: BBC News
 - Description: A teenager, 16, is arrested after a boy was seriously injured in Pretoria Road and taken to hospital.
@@ -38,38 +48,4 @@ bution.svg)
 - Location: Lesswrong.com
 - Description: Published on February 17, 2025 12:03 PM GMTThis is an all-in-one crosspost of a scenario I originally published in three parts on my blog (No Set Gauge). Links to the originals:<ul><li>A History of the Future, 2025-2027</li><li>A History of the Future, 2027-2…
 
-
-### OTHER on 2025-02-17 12:00
-- Location: Screen Rant
-- Description: While not everyone realizes it, the New Mexico landscape and the Wild West of bandits and outlaws showcased Breaking Bad as a true Western series.
-
-
-### OTHER on 2025-02-17 12:00
-- Location: mgoblog.com
-- Description: City Council Endorsements, 2020
-
- July 17th, 2020 at 3:31 PM
-
- Brian
-July 17th, 2020 at 3:31 PM
-
-
- 
- 
- 
- 
- 
-
- 
-
-
-
- 
- this is still a surface parking lot [flickr user Dennis Sparks]
- 
- Election is August 4. 
-
-
-tl;dr: vote for Lisa Disch in Ward 1, Linh Song …
-
-Analysis generated at: Tue Feb 18 12:24:15 UTC 2025
+Analysis generated at: Tue Feb 18 12:38:25 UTC 2025
