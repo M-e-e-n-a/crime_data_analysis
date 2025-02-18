@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Feb 17 18:16:39 UTC 2025
+Last updated: Tue Feb 18 00:58:27 UTC 2025
 
 ## Latest Analysis
 
-Loaded 15435 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-16 18:08:17
+Loaded 15441 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-17 00:38:48
 
 Incidents by source:
 source
-newsapi           15334
+newsapi           15340
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-02-16 18:08
-- Location: Statetimes.in
-- Description: CHANDIGARH: A US military aircraft carrying 112 illegal Indian immigrants landed at the Amritsar airport late on Sunday evening, the third such plane bringing deportees amid a crackdown by the Donald Trump administration against illegal immigrants. The C-17 a…
+### HOMICIDE on 2025-02-17 00:38
+- Location: 7NEWS.com.au
+- Description: The 26-year-old allegedly gunned down a health insurance company CEO on a Manhattan sidewalk in December.
 
 
-### HOMICIDE on 2025-02-16 18:02
-- Location: NBC News
-- Description: Attorneys for the man suspected of killing rap icon Tupac Shakur want to delay next month’s trial, saying more time is needed for investigative work to ensure that Duane “Keffe D” Davis gets a fair trial.
+### HOMICIDE on 2025-02-17 00:26
+- Location: FOX 9
+- Description: The murder of a missing transgender man from Minnesota, who officials say was tortured, killed and had his body dumped in a field in upstate New York, doesn't appear to be a hate crime, authorities said Sunday.
 
 
-### ROBBERY/THEFT on 2025-02-16 17:37
-- Location: New York Post
-- Description: "You can call it 'know your rights' all you want. I think it's more about how they evade law enforcement not to get arrested, even though there's a federal warrant for your arrest, how they evade that, rather than 'know your rights,' " border czar Tom Homan s…
+### HOMICIDE on 2025-02-17 00:19
+- Location: The Punch
+- Description: A 16-year-old boy, Ayibanua Timipre, has reportedly died by suicide in the Kpansia area of Yenagoa, Bayelsa State. PUNCH Metro gathered that the tragic incident occurred on Saturday when the teenager’s lifeless body was found hanging from a ceiling fan in his…
 
 
-### OTHER on 2025-02-16 17:24
-- Location: Newsweek
-- Description: Tom Homan addressed accusations of a quid-pro-quo deal with the New York City mayor during an appearance on CNN.
+### OTHER on 2025-02-17 00:00
+- Location: CBS News
+- Description: In Germany, posting hate speech online can bring police to your door.
 
 
-### OTHER on 2025-02-16 17:15
-- Location: New York Post
-- Description: The son of a British banking bigwig was allowed to take a forgiving plea deal after he was charged with beating and strangling his up-and-coming comedian girlfriend in Manhattan, The Post has learned. New York-based comic Sienna Hubert-Ross — whose Kamala Har…
+### OTHER on 2025-02-17 00:00
+- Location: CBS News
+- Description: In the U.S., most of what we say online, even if it's hate filled, is protected by the First Amendment as free speech. But in Germany, prosecutors and cops police the internet.
 
-Analysis generated at: Mon Feb 17 18:16:39 UTC 2025
+Analysis generated at: Tue Feb 18 00:58:27 UTC 2025
