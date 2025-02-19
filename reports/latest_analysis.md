@@ -1,10 +1,10 @@
 
-Loaded 15753 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-18 12:31:55
+Loaded 15846 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-18 18:15:36
 
 Incidents by source:
 source
-newsapi           15652
+newsapi           15745
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-02-18 12:31
-- Location: BBC News
-- Description: The force says despite the funding increase, a shortfall of £260m remains which will have an impact.
+### HOMICIDE on 2025-02-18 18:15
+- Location: Al Jazeera English
+- Description: Supporters celebrate the release of an Indigenous activist imprisoned for killing of FBI agents after a flawed trial.
 
 
-### HOMICIDE on 2025-02-18 12:11
-- Location: Boston Herald
-- Description: Prominent Native American groups have called for Peltier's release for decades.
+### HOMICIDE on 2025-02-18 18:14
+- Location: The Times of India
+- Description: Mumbai: Three were booked by Kashigaon police under sections of attempt to murder and arms act, after they rammed their car into security guards who s.
 
 
-### HOMICIDE on 2025-02-18 12:10
-- Location: The Irish Times
-- Description: Television: The Netflix story is told from the perspective of Petito, who is given a voice through the participation of her family
+### ASSAULT on 2025-02-18 18:10
+- Location: ABC News (AU)
+- Description: A former commissioner has warned that Shane Patton's successor must be ready to fight the government on funding and reassure the community on crime.
 
 
-### HOMICIDE on 2025-02-18 12:03
+### ROBBERY/THEFT on 2025-02-18 18:00
 - Location: The Punch
-- Description: The All Progressives Congress and the Peoples Democratic Party  have traded accusations over escalating violence in Osun State, which culminated in the killing of a former chairman of Irewole Local Government Area, Mr. Aderemi Abbas, and six others on Monday.…
+- Description: About $500,000 worth of jewellery was allegedly stolen from the home of French striker Olivier Giroud of MLS side Los Angeles FC in a burglary earlier this month, TMZ reported on Tuesday. The celebrity news website cited law enforcement sources stating that G…
 
 
-### OTHER on 2025-02-18 12:00
-- Location: Modernmrsdarcy.com
-- Description: Anne welcomes Mel Joulwan and Dave Humphreys to share literary tourism recommendations from a range of destinations.
-The post New stamps for your literary passport appeared first on Modern Mrs Darcy.
+### OTHER on 2025-02-18 18:00
+- Location: Reactormag.com
+- Description: Refa and Mollari set a plan in motion that will lead to the final defeat of the Narns...
+The post Babylon 5 Rewatch: “The Long, Twilight Struggle” appeared first on Reactor.
 
-Analysis generated at: Wed Feb 19 12:38:00 UTC 2025
+Analysis generated at: Wed Feb 19 18:16:05 UTC 2025
