@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Feb 18 18:17:44 UTC 2025
+Last updated: Wed Feb 19 00:58:51 UTC 2025
 
 ## Latest Analysis
 
-Loaded 15619 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-17 18:17:05
+Loaded 15632 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-18 00:51:18
 
 Incidents by source:
 source
-newsapi           15518
+newsapi           15531
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-02-17 18:17
-- Location: Boston Herald
-- Description: Egyptian officials have been discussing the plan with European diplomats and Arab countries, as well as ways to fund it.
+### HOMICIDE on 2025-02-18 00:51
+- Location: Newsweek
+- Description: Jack Lasota and Michelle Zajko were both arrested on Sunday.
 
 
-### OTHER on 2025-02-17 18:15
-- Location: Decrypt
-- Description: Four have been arrested after police dismantled an organized crime ring that targeted cryptocurrency machines across Melbourne.
+### HOMICIDE on 2025-02-18 00:27
+- Location: ABC News (AU)
+- Description: From 1961 to 1990, the Catholic Church shunted priest Gerald Ridsdale to 16 different parishes across Australia, enabling him to sexually abuse at least 72 children.
 
 
-### OTHER on 2025-02-17 18:08
-- Location: Statetimes.in
-- Description: Omkar Dattatray It is very unfortunate and disturbing that the city of temples which Jammu has the distinction of being is degenerating into a hub and capital of crimes .It is matter of grave and grave concern that crime graph in Jammu is rising and Jammu has…
+### OTHER on 2025-02-18 00:26
+- Location: VOA News
+- Description: NEW YORK — Four top deputies to New York City Mayor Eric Adams are resigning in the latest fallout from the Justice Department's push to end a corruption case against Adams and ensure his cooperation in President Donald Trump’s immigration crackdown — a barga…
 
 
-### HOMICIDE on 2025-02-17 18:06
-- Location: Breitbart News
-- Description: South Korean Actress Kim Sae-ron, who had recently gone into hiding after crashing her vehicle while drunk driving, died on Sunday at the age of 24. Her cause of death has been ruled a suicide.
-The post Actress Kim Sae-ron Dies at 24, Cause of Death Revealed …
+### DRUG RELATED on 2025-02-18 00:22
+- Location: Fox News
+- Description: A man convicted for his role in a 24/7 drug dealing operation in Times Square is out of prison after his sentence was commuted by former President Joe Biden.
 
 
-### OTHER on 2025-02-17 18:02
-- Location: XXLMAG.COM
-- Description: HoneyKomb Brazy learns his fate. Continue reading…
+### HOMICIDE on 2025-02-18 00:21
+- Location: CBC News
+- Description: Muhsin Hendricks showed the world that "it's possible to be both queer and a devout Muslim," says his longtime friend and colleague.
 
-Analysis generated at: Tue Feb 18 18:17:44 UTC 2025
+Analysis generated at: Wed Feb 19 00:58:51 UTC 2025
