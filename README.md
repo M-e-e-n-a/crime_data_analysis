@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Feb 19 12:21:59 UTC 2025
+Last updated: Wed Feb 19 12:38:00 UTC 2025
 
 ## Latest Analysis
 
-Loaded 15752 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-18 12:11:22
+Loaded 15753 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-18 12:31:55
 
 Incidents by source:
 source
-newsapi           15651
+newsapi           15652
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -23,6 +23,11 @@ bution.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### OTHER on 2025-02-18 12:31
+- Location: BBC News
+- Description: The force says despite the funding increase, a shortfall of £260m remains which will have an impact.
+
 
 ### HOMICIDE on 2025-02-18 12:11
 - Location: Boston Herald
@@ -44,9 +49,4 @@ bution.svg)
 - Description: Anne welcomes Mel Joulwan and Dave Humphreys to share literary tourism recommendations from a range of destinations.
 The post New stamps for your literary passport appeared first on Modern Mrs Darcy.
 
-
-### OTHER on 2025-02-18 11:58
-- Location: New York Post
-- Description: Julia Wandelt has alleged that a new set of DNA test results "strongly support" her theory that she is related to the missing girl's father, Gerry McCann.
-
-Analysis generated at: Wed Feb 19 12:21:59 UTC 2025
+Analysis generated at: Wed Feb 19 12:38:00 UTC 2025
