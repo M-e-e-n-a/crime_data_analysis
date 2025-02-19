@@ -1,10 +1,10 @@
 
-Loaded 15637 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-18 01:30:12
+Loaded 15682 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-18 06:15:25
 
 Incidents by source:
 source
-newsapi           15536
+newsapi           15581
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-02-18 01:30
-- Location: The Punch
-- Description: Residents of the Sedu 2 community in the Ogijo area of Ogun State are calling for an increased security presence, particularly from the Ogun State Police Command, following the discovery of a dismembered body of an unidentified woman on Sunday. The command’s …
+### HOMICIDE on 2025-02-18 06:15
+- Location: NPR
+- Description: Peltier's imprisonment had symbolized systemic injustice for Native Americans across the country who believe in his innocence.
 
 
-### SHOOTING on 2025-02-18 01:16
-- Location: Freerepublic.com
-- Description: MIAMI — A man is facing charges following accusations that he opened fire on a vehicle in Miami Beach Saturday night after he saw two men in it who he thought were Palestinians, arrest documents said. Mordechai Brafman, 27, was arrested and charged with two c…
+### HOMICIDE on 2025-02-18 06:15
+- Location: NPR
+- Description: Peltier's imprisonment has symbolized systemic injustice for Native Americans across the country who believe in his innocence.
 
 
-### OTHER on 2025-02-18 01:13
-- Location: New York Post
-- Description: NY Post readers discuss Rep. Alexandria Ocasio-Cortez’s webinar informing immigrants of how to evade ICE agents.
+### OTHER on 2025-02-18 06:15
+- Location: Insurance Journal
+- Description: Thirteen people suspected of illegally importing and disposing of hazardous waste have been arrested in Croatia, the European Union’s law enforcement agency said Friday. The main suspects, two Croatian nationals, are considered high-value targets by Europol, …
 
 
-### OTHER on 2025-02-18 01:10
-- Location: Thehillstimes.in
-- Description: HT Correspondent AGARTALA, Feb 17: A group of thieves targeted an unused government quarter in Agartala that was previously allotted as a temporary accommodation for the Central Bureau of Investigation (CBI) staff, mistaking it for an active office. However, …
+### OTHER on 2025-02-18 06:09
+- Location: BBC News
+- Description: A plain-clothes police officer tackled the thief as he tried to flee from a shop in Barnet.
 
 
-### HOMICIDE on 2025-02-18 01:04
-- Location: Freerepublic.com
-- Description: MANCHESTER, Ky. (KT) – Kentucky State Police (KSP) are continuing its investigation into an apparent home invasion this past weekend in Clay County that left both of the alleged suspects dead. KSP logo On Saturday, shortly before 4:30 a.m., Clay County 911 co…
+### OTHER on 2025-02-18 06:03
+- Location: Starcommunity.com.au
+- Description: Refurbishments for the Narre Warren Police Station are set to begin in March, with the public reception counter expected to […]
 
-Analysis generated at: Wed Feb 19 01:38:08 UTC 2025
+Analysis generated at: Wed Feb 19 06:17:51 UTC 2025
