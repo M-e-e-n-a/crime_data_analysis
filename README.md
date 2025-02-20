@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Feb 20 12:40:38 UTC 2025
+Last updated: Thu Feb 20 18:17:23 UTC 2025
 
 ## Latest Analysis
 
-Loaded 15981 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-19 12:28:00
+Loaded 16070 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-19 18:12:50
 
 Incidents by source:
 source
-newsapi           15880
+newsapi           15969
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,32 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-02-19 12:28
-- Location: The Conversation Africa
-- Description: We asked members of the public how to restore trust in police – here’s what their answers revealed.
+### OTHER on 2025-02-19 18:12
+- Location: The Punch
+- Description: Edo State Governor, Senator Monday Okpebholo, has commissioned 56 new Toyota Hiace buses for the state-owned transport service, Edoline, as part of efforts to improve public transportation. The unveiling is part of a broader plan to acquire 100 buses before t…
 
 
-### HOMICIDE on 2025-02-19 12:26
-- Location: The Times of India
-- Description: At the middle of it all is 'Ziz', who appears to be the leader of the strange group members who called themselves 'Zizians'
+### SHOOTING on 2025-02-19 18:09
+- Location: The Denver Post
+- Description: Laura Voepel alleges in the federal lawsuit that officers violated her constitutional rights when they searched her home on Nov. 19, 2022.
 
 
-### OTHER on 2025-02-19 12:20
-- Location: Boston Herald
-- Description: President Donald Trump is going further than ever before to enforce his decisions.
+### OTHER on 2025-02-19 18:06
+- Location: ABC News
+- Description: The United States government is formally designating eight Latin American organized crime groups that also operate in the U_S_ to be “foreign terrorist organizations.”
 
 
-### OTHER on 2025-02-19 12:17
-- Location: VOA News
-- Description: Islamabad — Diplomats from Afghanistan’s ruling Taliban reported Wednesday that neighboring Pakistan is implementing a plan for the “imminent” and swift mass deportation of nearly three million Afghan refugees from its territory.
+### HOMICIDE on 2025-02-19 18:00
+- Location: HipHopDX
+- Description: 2Pac's murder trial is set to be delayed by almost an entire year after the defense claims they have new evidence that supports Keefe D's innocence.
 
 
+### HOMICIDE on 2025-02-19 18:00
+- Location: New Scientist
+- Description: In Feedback's true crime exclusive, we look into calls for a fresh inquest into the murder of Catherine Eddowes in the 19th century – and discover that a rather crucial part of the puzzle may be missing
 
-The Taliban-operated embas…
-
-
-### ASSAULT on 2025-02-19 12:10
-- Location: Securityaffairs.com
-- Description: Two OpenSSH vulnerabilities could allow machine-in-the-middle (MitM) and denial-of-service (DoS) attacks under certain conditions. The Qualys Threat Research Unit (TRU) has discovered two vulnerabilities in OpenSSH. The first, tracked as CVE-2025-26465 (CVSS …
-
-Analysis generated at: Thu Feb 20 12:40:38 UTC 2025
+Analysis generated at: Thu Feb 20 18:17:23 UTC 2025
