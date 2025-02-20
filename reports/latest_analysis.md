@@ -1,10 +1,10 @@
 
-Loaded 15846 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-18 18:15:36
+Loaded 15858 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-19 00:58:56
 
 Incidents by source:
 source
-newsapi           15745
+newsapi           15757
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-02-18 18:15
-- Location: Al Jazeera English
-- Description: Supporters celebrate the release of an Indigenous activist imprisoned for killing of FBI agents after a flawed trial.
+### SHOOTING on 2025-02-19 00:58
+- Location: Variety
+- Description: A$AP Rocky was found not guilty on all counts by a Los Angeles jury, ending an exhaustive three-week trial that accused the Harlem-bred rapper (real name Rakim Mayers) of firing a gun at his former friend, A$AP Relli (real name Terell Ephron). When the verdic…
 
 
-### HOMICIDE on 2025-02-18 18:14
-- Location: The Times of India
-- Description: Mumbai: Three were booked by Kashigaon police under sections of attempt to murder and arms act, after they rammed their car into security guards who s.
+### OTHER on 2025-02-19 00:54
+- Location: CBS News
+- Description: "Everyone is hailing him as a hero and he is not a hero. He is a violent, violent man," says a woman whose former partner was pardoned.
 
 
-### ASSAULT on 2025-02-18 18:10
-- Location: ABC News (AU)
-- Description: A former commissioner has warned that Shane Patton's successor must be ready to fight the government on funding and reassure the community on crime.
+### ASSAULT on 2025-02-19 00:53
+- Location: CBS News
+- Description: Before he took office last month, President Trump said there could be "some exceptions" to his campaign promise to grant clemency to Jan. 6 rioters. In the end, Trump pardoned everyone, including more than 150 convicted for assaulting police. Jim Axelrod spok…
 
 
-### ROBBERY/THEFT on 2025-02-18 18:00
-- Location: The Punch
-- Description: About $500,000 worth of jewellery was allegedly stolen from the home of French striker Olivier Giroud of MLS side Los Angeles FC in a burglary earlier this month, TMZ reported on Tuesday. The celebrity news website cited law enforcement sources stating that G…
+### HOMICIDE on 2025-02-19 00:35
+- Location: Harpers.org
+- Description: “He who saves his Country does not violate any Law,” wrote the president on social media, a sentiment expressed by the Norwegian mass murderer Anders Behring Breivik that has been attributed to the French imperial dictator Napoleon Bonaparte.
+The post Weekly …
 
 
-### OTHER on 2025-02-18 18:00
-- Location: Reactormag.com
-- Description: Refa and Mollari set a plan in motion that will lead to the final defeat of the Narns...
-The post Babylon 5 Rewatch: “The Long, Twilight Struggle” appeared first on Reactor.
+### HOMICIDE on 2025-02-19 00:30
+- Location: Billings Gazette
+- Description: Despite Michael Paul Sims’s own testimony that he killed Randall Robert Livingston in self-defense, Judge Rod Souza ruled that the facts showed otherwise.
 
-Analysis generated at: Wed Feb 19 18:16:05 UTC 2025
+Analysis generated at: Thu Feb 20 00:59:09 UTC 2025
