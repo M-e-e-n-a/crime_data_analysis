@@ -1,10 +1,10 @@
 
-Loaded 15979 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-19 12:20:54
+Loaded 15981 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-19 12:28:00
 
 Incidents by source:
 source
-newsapi           15878
+newsapi           15880
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -19,6 +19,16 @@ bution.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### OTHER on 2025-02-19 12:28
+- Location: The Conversation Africa
+- Description: We asked members of the public how to restore trust in police – here’s what their answers revealed.
+
+
+### HOMICIDE on 2025-02-19 12:26
+- Location: The Times of India
+- Description: At the middle of it all is 'Ziz', who appears to be the leader of the strange group members who called themselves 'Zizians'
+
 
 ### OTHER on 2025-02-19 12:20
 - Location: Boston Herald
@@ -38,14 +48,4 @@ The Taliban-operated embas…
 - Location: Securityaffairs.com
 - Description: Two OpenSSH vulnerabilities could allow machine-in-the-middle (MitM) and denial-of-service (DoS) attacks under certain conditions. The Qualys Threat Research Unit (TRU) has discovered two vulnerabilities in OpenSSH. The first, tracked as CVE-2025-26465 (CVSS …
 
-
-### OTHER on 2025-02-19 12:08
-- Location: Thechronicle.com.gh
-- Description: The Dansoman Circuit Court has arraigned three men for allegedly causing unlawful damage to a private property belonging to a pastor. The accused, Daniel Kwateng, 42, a Quantity Surveyor; David Agyei Agyemang, 44, a farmer and Kennedy Yao Adzormahe, 42, who c…
-
-
-### OTHER on 2025-02-19 12:01
-- Location: The Denver Post
-- Description: "Guantanamo Bay reactivated to imprison up to 30,000 asylum seekers? Armed federal agents going door-to-door at 6 am. in Hispanic neighborhoods demanding to see papers? What are we doing? What is this nightmare? This is NOT what America should be. Shame on us…
-
-Analysis generated at: Thu Feb 20 12:24:25 UTC 2025
+Analysis generated at: Thu Feb 20 12:40:38 UTC 2025
