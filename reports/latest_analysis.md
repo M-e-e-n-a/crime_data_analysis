@@ -1,10 +1,10 @@
 
-Loaded 15858 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-19 00:58:56
+Loaded 15878 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-19 01:36:42
 
 Incidents by source:
 source
-newsapi           15757
+newsapi           15777
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-02-19 00:58
-- Location: Variety
-- Description: A$AP Rocky was found not guilty on all counts by a Los Angeles jury, ending an exhaustive three-week trial that accused the Harlem-bred rapper (real name Rakim Mayers) of firing a gun at his former friend, A$AP Relli (real name Terell Ephron). When the verdic…
+### HOMICIDE on 2025-02-19 01:36
+- Location: New York Post
+- Description: The elderly man was killed around 5 p.m. after he walked toward the 111th Precinct in Bayside with a gun, sources said.
 
 
-### OTHER on 2025-02-19 00:54
-- Location: CBS News
-- Description: "Everyone is hailing him as a hero and he is not a hero. He is a violent, violent man," says a woman whose former partner was pardoned.
+### OTHER on 2025-02-19 01:33
+- Location: Freerepublic.com
+- Description: Russia railed against Sir Keir Starmer's plans for a peace-keeping force involving British troops in Ukraine, saying it would be a 'step towards escalation'. Moscow issued the chilling warning after the Prime Minister revealed he was 'ready and willing' to de…
 
 
-### ASSAULT on 2025-02-19 00:53
-- Location: CBS News
-- Description: Before he took office last month, President Trump said there could be "some exceptions" to his campaign promise to grant clemency to Jan. 6 rioters. In the end, Trump pardoned everyone, including more than 150 convicted for assaulting police. Jim Axelrod spok…
+### SHOOTING on 2025-02-19 01:23
+- Location: ABC News (AU)
+- Description: A  Townsville man has been charged with assault after police say they had "no choice" but to shoot him during an incident two weeks ago.
 
 
-### HOMICIDE on 2025-02-19 00:35
-- Location: Harpers.org
-- Description: “He who saves his Country does not violate any Law,” wrote the president on social media, a sentiment expressed by the Norwegian mass murderer Anders Behring Breivik that has been attributed to the French imperial dictator Napoleon Bonaparte.
-The post Weekly …
+### OTHER on 2025-02-19 01:19
+- Location: Japan Today
+- Description: Brazil's former President Jair Bolsonaro was charged on Tuesday over a plot to overturn his 2022 election loss, the office of the country's top prosecutor said on Tuesday, in the latest legal setback for the far-right leader. Prosecutor General Paulo Gonet fi…
 
 
-### HOMICIDE on 2025-02-19 00:30
-- Location: Billings Gazette
-- Description: Despite Michael Paul Sims’s own testimony that he killed Randall Robert Livingston in self-defense, Judge Rod Souza ruled that the facts showed otherwise.
+### OTHER on 2025-02-19 01:19
+- Location: NDTV News
+- Description: Union Home Minister Amit Shah chaired a review meeting on the implementation of three new criminal laws in Jammu and Kashmir, in the presence of Lieutenant Governor Manoj Sinha and Chief Minister Omar Abdullah, in New Delhi on Tuesday.
 
-Analysis generated at: Thu Feb 20 00:59:09 UTC 2025
+Analysis generated at: Thu Feb 20 01:38:36 UTC 2025
