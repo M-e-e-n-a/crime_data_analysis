@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Feb 21 12:39:57 UTC 2025
+Last updated: Fri Feb 21 18:16:57 UTC 2025
 
 ## Latest Analysis
 
-Loaded 16158 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-20 12:30:38
+Loaded 16223 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-20 18:13:00
 
 Incidents by source:
 source
-newsapi           16057
+newsapi           16122
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,31 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-02-20 12:30
-- Location: WSB Atlanta
-- Description: Teenage girl shot at Sandy Springs apartment complexwsbtv.com
+### OTHER on 2025-02-20 18:13
+- Location: Extra
+- Description: Artem Chigvintsev was arrested for domestic violence in August, but he was never charged with a crime. Now, he’s speaking out and saying the experience “ruined” his life. 
+ The former “Dancing with the Stars” pro and his wife Nikki Garcia have since split and…
 
 
-### OTHER on 2025-02-20 12:30
-- Location: Poynter
-- Description: Just when you thought our politics couldn’t get any more bizarre and divisive and distressing, something else transpired. As happens far too often these days, it was something said by […]
-The post Good on the media for calling out President Trump’s falsehoods…
+### HOMICIDE on 2025-02-20 18:10
+- Location: Boston Herald
+- Description: The U.S. Marshals Service is offering a $5,000 reward for anyone with information on the whereabouts of suspected murderer Luis Soto, who authorities allege shot two men, one fatally, inside a Brockton Dollar Tree in 2023.
 
 
-### OTHER on 2025-02-20 12:22
-- Location: Statetimes.in
-- Description: TRAFFIC POLICE HEADQUARTERS, J&K, JAMMU/SRINAGAR TRAFFIC PLAN & ADVISORY FOR 21-02-2025:- Subject to fair weather and better road conditions LMVs Passenger/Private Cars/HMVs shall be allowed from both sides on Jammu-Srinagar NHW (NH-44) viz from Jammu towards…
+### HOMICIDE on 2025-02-20 18:10
+- Location: BroBible
+- Description: Jack “Ziz” LaSota, the alleged leader of the Zizian “murder cult” and two others, 26-year-old Daniel Blank and 32-year-old Michelle Zajko, were arrested in Allegany County, Maryland in connection with six killings. They were ordered held without bail on charg…
 
 
-### ASSAULT on 2025-02-20 12:14
-- Location: Time
-- Description: For Fatou Baldeh, the past year was critical in the fight to end the human-rights violation in Gambia.
+### OTHER on 2025-02-20 18:01
+- Location: The Conversation Africa
+- Description: Porton Down’s archive was opened up
+for a study into the health of the human volunteers in the nerve agent testing programme.
 
 
-### HOMICIDE on 2025-02-20 12:08
-- Location: BBC News
-- Description: Police believe the man suspected of shooting Lisa Smith died after falling into the River Thames.
+### HOMICIDE on 2025-02-20 18:00
+- Location: Reactormag.com
+- Description: Who has time to ski when there's so much MURDER
+The post Hitting the Slopes: Ski Weekend and Truth or Dare appeared first on Reactor.
 
-Analysis generated at: Fri Feb 21 12:39:57 UTC 2025
+Analysis generated at: Fri Feb 21 18:16:57 UTC 2025
