@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Feb 21 06:17:49 UTC 2025
+Last updated: Fri Feb 21 12:23:50 UTC 2025
 
 ## Latest Analysis
 
-Loaded 16113 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-20 06:06:03
+Loaded 16156 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-20 12:22:38
 
 Incidents by source:
 source
-newsapi           16012
+newsapi           16055
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-02-20 06:06
-- Location: Forbes
-- Description: The Oscar-nominated short films in animation, live-action and documentary categories got off to a strong first weekend in theaters in their 20th year of release
+### OTHER on 2025-02-20 12:22
+- Location: Statetimes.in
+- Description: TRAFFIC POLICE HEADQUARTERS, J&K, JAMMU/SRINAGAR TRAFFIC PLAN & ADVISORY FOR 21-02-2025:- Subject to fair weather and better road conditions LMVs Passenger/Private Cars/HMVs shall be allowed from both sides on Jammu-Srinagar NHW (NH-44) viz from Jammu towards…
 
 
-### SHOOTING on 2025-02-20 06:00
-- Location: Naturalnews.com
-- Description: On a Saturday night, 27-year-old Mordechai Brafman, a Jewish man, mistakenly identified two Israeli tourists as Palestinians and shot at their vehicle, firing 17 shots and hitting one of them in the shoulder. Brafman was apprehended at the scene and charged w…
+### ASSAULT on 2025-02-20 12:14
+- Location: Time
+- Description: For Fatou Baldeh, the past year was critical in the fight to end the human-rights violation in Gambia.
 
 
-### OTHER on 2025-02-20 05:36
-- Location: Breitbart News
-- Description: President Donald Trump suggested that the federal government "should take over Washington, D.C." and govern it, citing how there was "too much crime, too much graffiti" and too many homeless encampments, according to several reports.
-The post Report: Trump Su…
+### HOMICIDE on 2025-02-20 12:08
+- Location: BBC News
+- Description: Police believe the man suspected of shooting Lisa Smith died after falling into the River Thames.
 
 
-### OTHER on 2025-02-20 05:32
-- Location: Thefutoncritic.com
-- Description: The suspense thriller series tells the story of Mickey (Amanda Seyfried), a police officer who patrols a Philadelphia neighborhood hard-hit by the opioid crisis.
+### SHOOTING on 2025-02-20 12:08
+- Location: Fox News
+- Description: Two suspected members of the violent Tren de Aragua (TdA) gang were busted in a gun and drug raid in a Big Apple auto repair shop earlier this month – and have since been cut loose on lesser charges.
 
 
-### HOMICIDE on 2025-02-20 05:22
-- Location: Gossiplankanews.com
-- Description: Sri Lanka’s escalating gun violence has claimed yet another innocent life, bringing the death toll in the Middeniya shooting to three. The latest victim, a 9-year-old boy, succumbed to his injuries while receiving treatment at the Intensive Care Unit (ICU) of…
+### ASSAULT on 2025-02-20 12:01
+- Location: The Denver Post
+- Description: Opinion | "Survivors might wait months or years to hear back on a rape kit, lose faith in the criminal-legal system, and are less likely to report their assaults, seek services, or trust institutional protections." -- Kaitlyn M. Sims
 
-Analysis generated at: Fri Feb 21 06:17:49 UTC 2025
+Analysis generated at: Fri Feb 21 12:23:50 UTC 2025
