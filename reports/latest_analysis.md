@@ -1,10 +1,10 @@
 
-Loaded 16070 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-19 18:12:50
+Loaded 16075 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-20 00:53:49
 
 Incidents by source:
 source
-newsapi           15969
+newsapi           15974
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-02-19 18:12
-- Location: The Punch
-- Description: Edo State Governor, Senator Monday Okpebholo, has commissioned 56 new Toyota Hiace buses for the state-owned transport service, Edoline, as part of efforts to improve public transportation. The unveiling is part of a broader plan to acquire 100 buses before t…
+### ASSAULT on 2025-02-20 00:53
+- Location: HuffPost
+- Description: The group, Doctors Against Genocide, called for lawmakers to protect Gaza's health care workers and help the medical institutions destroyed by Israeli forces.
 
 
-### SHOOTING on 2025-02-19 18:09
-- Location: The Denver Post
-- Description: Laura Voepel alleges in the federal lawsuit that officers violated her constitutional rights when they searched her home on Nov. 19, 2022.
+### HOMICIDE on 2025-02-20 00:37
+- Location: SFGate
+- Description: Maria Jane Weidhofer was 32 when she was sexually assaulted and strangled at Tilden Park in the East Bay.
 
 
-### OTHER on 2025-02-19 18:06
-- Location: ABC News
-- Description: The United States government is formally designating eight Latin American organized crime groups that also operate in the U_S_ to be “foreign terrorist organizations.”
+### OTHER on 2025-02-20 00:34
+- Location: New Zealand Herald
+- Description: OPINION: The commissioner's turnaround plan is under review and speculation is mounting.
 
 
-### HOMICIDE on 2025-02-19 18:00
-- Location: HipHopDX
-- Description: 2Pac's murder trial is set to be delayed by almost an entire year after the defense claims they have new evidence that supports Keefe D's innocence.
+### HOMICIDE on 2025-02-20 00:15
+- Location: New York Post
+- Description: "I lack today any thirst for vengeance or retribution," she said. "I have no sense of closure or conclusion today."
 
 
-### HOMICIDE on 2025-02-19 18:00
-- Location: New Scientist
-- Description: In Feedback's true crime exclusive, we look into calls for a fresh inquest into the murder of Catherine Eddowes in the 19th century – and discover that a rather crucial part of the puzzle may be missing
+### OTHER on 2025-02-20 00:10
+- Location: HuffPost
+- Description: Mississippi judge Crystal Wise Martin ordered a newspaper to remove an editorial criticizing the mayor and city leaders after the officials sued.
 
-Analysis generated at: Thu Feb 20 18:17:23 UTC 2025
+Analysis generated at: Fri Feb 21 00:59:29 UTC 2025
