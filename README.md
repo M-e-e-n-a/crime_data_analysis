@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Feb 21 00:59:29 UTC 2025
+Last updated: Fri Feb 21 01:39:00 UTC 2025
 
 ## Latest Analysis
 
-Loaded 16075 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-20 00:53:49
+Loaded 16080 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-20 01:28:35
 
 Incidents by source:
 source
-newsapi           15974
+newsapi           15979
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2025-02-20 00:53
-- Location: HuffPost
-- Description: The group, Doctors Against Genocide, called for lawmakers to protect Gaza's health care workers and help the medical institutions destroyed by Israeli forces.
+### ROBBERY/THEFT on 2025-02-20 01:28
+- Location: BBC News
+- Description: Graves in the Tanzanian city of Morogoro are being targeted as people steal metal crosses to sell on.
 
 
-### HOMICIDE on 2025-02-20 00:37
-- Location: SFGate
-- Description: Maria Jane Weidhofer was 32 when she was sexually assaulted and strangled at Tilden Park in the East Bay.
+### SHOOTING on 2025-02-20 01:22
+- Location: Freerepublic.com
+- Description: Readers of The Sacramento Bee's coverage of a rally for legislation pitched as protecting girls, women and parental rights at the California statehouse Friday would have no idea someone shot at the house of the volleyball coach who helped inspire the bills an…
 
 
-### OTHER on 2025-02-20 00:34
-- Location: New Zealand Herald
-- Description: OPINION: The commissioner's turnaround plan is under review and speculation is mounting.
+### HOMICIDE on 2025-02-20 01:18
+- Location: The-independent.com
+- Description: EXCLUSIVE: Although Gabby Petito’s parents gave permission for her voice to be recreated in the American Murder: Gabby Petito series currently streaming on Netflix, her mother tells The Independent that a fake version of her daughter’s voice was “weird.”
 
 
-### HOMICIDE on 2025-02-20 00:15
-- Location: New York Post
-- Description: "I lack today any thirst for vengeance or retribution," she said. "I have no sense of closure or conclusion today."
+### SHOOTING on 2025-02-20 01:07
+- Location: STLtoday.com
+- Description: Andrew Lester, 86, died just days after pleading guilty to a lesser charge in the 2023 shooting of Ralph Yarl, a Black honor student who rang his doorbell by mistake.
 
 
-### OTHER on 2025-02-20 00:10
-- Location: HuffPost
-- Description: Mississippi judge Crystal Wise Martin ordered a newspaper to remove an editorial criticizing the mayor and city leaders after the officials sued.
+### OTHER on 2025-02-20 01:00
+- Location: Activistpost.com
+- Description: El Zonte inspired Bukele to make bitcoin legal tender in El Salvador. CoinDesk visited the surfing village to see how it’s developing. What to know: This article is part of a four-piece series on El Salvador. You can find the previous dispatch, a story on Bit…
 
-Analysis generated at: Fri Feb 21 00:59:29 UTC 2025
+Analysis generated at: Fri Feb 21 01:39:00 UTC 2025
