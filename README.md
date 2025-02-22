@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Feb 22 12:20:59 UTC 2025
+Last updated: Sat Feb 22 12:35:51 UTC 2025
 
 ## Latest Analysis
 
-Loaded 16303 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-21 12:14:53
+Loaded 16305 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-21 12:34:51
 
 Incidents by source:
 source
-newsapi           16202
+newsapi           16204
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -23,6 +23,16 @@ bution.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### ROBBERY/THEFT on 2025-02-21 12:34
+- Location: The Punch
+- Description: Operatives of the CP Special Assignment team of the Delta State Police Command have busted a criminal hideout of some suspected kidnappers/armed robbers who have been terrorising residents of the Abraka/Obiaruku/Umutu axis of the state. This was contained in …
+
+
+### HOMICIDE on 2025-02-21 12:33
+- Location: LADbible
+- Description: Netflix’s documentary about the murder of Gabby Petito leaves out some details that fans would have wanted to see.
+
 
 ### OTHER on 2025-02-21 12:14
 - Location: The Punch
@@ -39,14 +49,4 @@ The post Matthew Continetti Assesses Trump's Firs…
 - Location: Peoplefor.org
 - Description: Triumphalism and lies marked MAGA leaders' celebration of Donald Trump's first 30 days on day one of this year's Conservative Political Action Conference.
 
-
-### OTHER on 2025-02-21 12:00
-- Location: Teen Vogue
-- Description: Trump is rounding up immigrants, while right-wing loyalists convicted and sentenced for violent felonies against the country are released and celebrated.
-
-
-### SHOOTING on 2025-02-21 11:52
-- Location: WSOC Charlotte
-- Description: One person was seriously hurt in a shooting in west charlotte overnight Thursday, according to MEDIC.
-
-Analysis generated at: Sat Feb 22 12:20:59 UTC 2025
+Analysis generated at: Sat Feb 22 12:35:51 UTC 2025
