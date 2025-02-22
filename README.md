@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Feb 22 00:57:27 UTC 2025
+Last updated: Sat Feb 22 01:35:27 UTC 2025
 
 ## Latest Analysis
 
-Loaded 16226 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-21 00:24:32
+Loaded 16230 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-21 01:28:38
 
 Incidents by source:
 source
-newsapi           16125
+newsapi           16129
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
+### OTHER on 2025-02-21 01:28
+- Location: Newgeography.com
+- Description: As the U.S. southern border begins to function once again, it’s time to consider what kind of immigration policy we should adopt. President Trump’s move to deport huge populations, upwards of 10 million just since 2021, could prove to be among the most decisi…
+
+
+### DRUG RELATED on 2025-02-21 01:21
+- Location: The Punch
+- Description: The Korean National Intelligence Agency’s Transnational Crime Information Centre announced the arrest of a Nigerian drug kingpin, K. Jeff, along with 36 other cartel members for drug smuggling. The bust was the result of five years of collaborative intelligen…
+
+
+### HOMICIDE on 2025-02-21 01:08
+- Location: Thechronicle.com.gh
+- Description: On the floor of Parliament, on February 4, 2025, Hon. Ibrahim Murtala Muhammed, described Dr. J.B. Danquah as a traitor and CIA agent, who helped overthrow Nkrumah and his CPP government. It was said that Hon. Zenator Agyeman Rawlings was urging him on and th…
+
+
+### OTHER on 2025-02-21 01:04
+- Location: HuffPost
+- Description: An American doctor gave HuffPost an eyewitness account of what it was like to provide medical aid during the Israeli offensive in Gaza — and what changed after the truce began.
+
+
 ### OTHER on 2025-02-21 00:24
 - Location: New York Post
 - Description: As City Council speaker, Adrienne Adams has repeatedly shown her willingness to use her office to condemn Jews — and her unwillingness to safeguard them.
 
-
-### HOMICIDE on 2025-02-21 00:01
-- Location: Newsbreak.com
-- Description: The database covered all 90 executive branch agencies with law enforcement officers and contained nearly 150,000 officers disciplinary records dating back
-
-
-### OTHER on 2025-02-21 00:01
-- Location: Www.gov.uk
-- Description: Raneem’s Law has launched to embed the first domestic abuse specialists in 999 control rooms across five forces and ensure victims receive specialist support.
-
-
-### OTHER on 2025-02-20 18:13
-- Location: Extra
-- Description: Artem Chigvintsev was arrested for domestic violence in August, but he was never charged with a crime. Now, he’s speaking out and saying the experience “ruined” his life. 
- The former “Dancing with the Stars” pro and his wife Nikki Garcia have since split and…
-
-
-### HOMICIDE on 2025-02-20 18:10
-- Location: Boston Herald
-- Description: The U.S. Marshals Service is offering a $5,000 reward for anyone with information on the whereabouts of suspected murderer Luis Soto, who authorities allege shot two men, one fatally, inside a Brockton Dollar Tree in 2023.
-
-Analysis generated at: Sat Feb 22 00:57:27 UTC 2025
+Analysis generated at: Sat Feb 22 01:35:27 UTC 2025
