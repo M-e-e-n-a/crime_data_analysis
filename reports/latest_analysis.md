@@ -1,10 +1,10 @@
 
-Loaded 16390 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-22 06:00:16
+Loaded 16405 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-22 11:56:21
 
 Incidents by source:
 source
-newsapi           16289
+newsapi           16304
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,30 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-02-22 06:00
-- Location: The Irish Times
-- Description: In Justice, political ambition quickly collides with political reality
+### HOMICIDE on 2025-02-22 11:56
+- Location: CBC News
+- Description: Cape Breton Regional Police say one person is dead after an early morning shooting in Whitney Pier, N.S., but have not disclosed the age or gender of the victim.
 
 
-### OTHER on 2025-02-22 05:54
-- Location: New Zealand Herald
-- Description: Four church fires in Masterton all started between 4.25am and 4.35am, fire officials say.
+### OTHER on 2025-02-22 11:50
+- Location: Securityaffairs.com
+- Description: Apple removed iCloud’s Advanced Data Protection in the UK after the government requested encryption backdoor access. Apple ends iCloud end-to-end encryption in the United Kingdom following the government’s request for encryption backdoor access. Advanced Data…
 
 
-### HOMICIDE on 2025-02-22 05:00
-- Location: Americanthinker.com
-- Description: The Bible says: “thou shalt not kill,” doesn’t it? Actually, it doesn’t. The correct translation is “thou shalt not murder.” Our criminal law, the law of all civilized nations, flows from this understanding. It&rsq...
+### HOMICIDE on 2025-02-22 11:05
+- Location: NBC News
+- Description: On a May afternoon two years ago, Christyn Akin-Crockett found herself in an unusual situation.
 
 
-### SHOOTING on 2025-02-22 05:00
-- Location: Americanthinker.com
-- Description: Preemption, in the world of firearm law, is a rational necessity. State preemption laws reserve the full scope of gun regulation for state legislatures. No city or county within a state may regulate firearms.
-
-This keeps Democrat/socialist/communis...
+### SHOOTING on 2025-02-22 11:00
+- Location: Futurism
+- Description: As anti-Elon-Musk sentiment reaches a fever pitch, a Tesla dealership has found itself caught in the crossfire — again. Local authorities and federal agents are investigating a shooting that took place early Wednesday morning at the automaker's location in Sa…
 
 
-### ASSAULT on 2025-02-22 04:07
-- Location: CNA
-- Description: The attack comes two days before a watershed national election in Germany.
+### DRUG RELATED on 2025-02-22 11:00
+- Location: The New Yorker
+- Description: Katie Ebner-Landy writes that for years Dominique Pelicot drugged his wife and invited strangers to his house to rape her. At the trial, none of the explanations for these events quite fit—apart from an online platform called Coco.
 
-Analysis generated at: Sun Feb 23 06:16:14 UTC 2025
+Analysis generated at: Sun Feb 23 12:21:17 UTC 2025
