@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Feb 23 12:21:17 UTC 2025
+Last updated: Sun Feb 23 12:36:58 UTC 2025
 
 ## Latest Analysis
 
-Loaded 16405 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-22 11:56:21
+Loaded 16406 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-22 12:21:39
 
 Incidents by source:
 source
-newsapi           16304
+newsapi           16305
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -23,6 +23,12 @@ bution.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### HOMICIDE on 2025-02-22 12:21
+- Location: Breitbart News
+- Description: An asylum seeker from Syria is reportedly suspected of stabbing a Spanish tourist near the Holocaust memorial in Berlin, Germany, on Friday evening
+The post ‘Plan to Kill Jews’ — Syrian Asylum Seeker Arrested After Tourist Stabbed Near Berlin Holocaust Memori…
+
 
 ### HOMICIDE on 2025-02-22 11:56
 - Location: CBC News
@@ -43,9 +49,4 @@ bution.svg)
 - Location: Futurism
 - Description: As anti-Elon-Musk sentiment reaches a fever pitch, a Tesla dealership has found itself caught in the crossfire — again. Local authorities and federal agents are investigating a shooting that took place early Wednesday morning at the automaker's location in Sa…
 
-
-### DRUG RELATED on 2025-02-22 11:00
-- Location: The New Yorker
-- Description: Katie Ebner-Landy writes that for years Dominique Pelicot drugged his wife and invited strangers to his house to rape her. At the trial, none of the explanations for these events quite fit—apart from an online platform called Coco.
-
-Analysis generated at: Sun Feb 23 12:21:17 UTC 2025
+Analysis generated at: Sun Feb 23 12:36:58 UTC 2025
