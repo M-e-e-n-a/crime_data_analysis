@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Feb 22 18:15:05 UTC 2025
+Last updated: Sun Feb 23 01:03:40 UTC 2025
 
 ## Latest Analysis
 
-Loaded 16361 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-21 18:12:22
+Loaded 16372 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-22 00:32:00
 
 Incidents by source:
 source
-newsapi           16260
+newsapi           16271
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,35 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-02-21 18:12
+### SHOOTING on 2025-02-22 00:32
+- Location: TheStranger.com
+- Description: Witnesses Say “Frat Bros” Shouted Slurs and Shot Them With Gel Pellets Outside Pony
+ 
+ by Vivian McCall
+ 
+ 
+ 
+ Seattle Police say they’re investigating a hate crime outside Pony, a gay bar in Capitol Hill.
+Police say that around 11:30 pm Wednesday, three men …
+
+
+### OTHER on 2025-02-22 00:30
+- Location: Www.gov.uk
+- Description: Two new offences from the government’s flagship Crime and Policing Bill will introduced in Parliament making child criminal exploitation and cuckooing illegal.
+
+
+### HOMICIDE on 2025-02-22 00:26
 - Location: CBC News
-- Description: Durham police are appealing to the public for information after unidentified people shouted racial slurs, drew a swastika and exposed themselves during a City of Pickering Zoom meeting on Wednesday.
+- Description: John Sproule’s shirt was pulled over his head and he was taking punches to the face when he said he took out a pocket knife and began “swinging it frantically trying to get the attack to stop.”
 
 
-### HOMICIDE on 2025-02-21 18:01
-- Location: XXLMAG.COM
-- Description: R.I.P. Continue reading…
+### OTHER on 2025-02-22 00:24
+- Location: New York Post
+- Description: Ben Zhou, Bybit’s CEO, said his company would remain solvent even if the hacked crypto wasn’t recovered.
 
 
-### OTHER on 2025-02-21 17:58
-- Location: Boston Herald
-- Description: Trump’s plans will require building a massive nationwide infrastructure.
+### OTHER on 2025-02-22 00:07
+- Location: BroBible
+- Description: We have an arrest in the Carson Beck-Hanna Cavinder break-in. On Wednesday, it was reported that someone had broken into the $5 million Miami rental home of the Hurricanes QB to steal three luxury cars worth a total of $500k. Via Andy Slater “Miami Hurricanes…
 
-
-### DRUG RELATED on 2025-02-21 17:44
-- Location: CBC News
-- Description: Former chief coroner Lisa Lapointe said she's concerned B.C.'s decision to limit where prescribed safer supply opioids can be taken is driven by ideological arguments rather than science.
-
-
-### OTHER on 2025-02-21 17:35
-- Location: Forbes
-- Description: On February 21, 2025, a series of three public sculptures created by Molly Gochman were unveiled at the newly renamed Memphis Medical District Park, the former site of the racist Confederate monument.
-
-Analysis generated at: Sat Feb 22 18:15:05 UTC 2025
+Analysis generated at: Sun Feb 23 01:03:40 UTC 2025
