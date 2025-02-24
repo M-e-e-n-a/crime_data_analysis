@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Feb 24 06:19:06 UTC 2025
+Last updated: Mon Feb 24 12:25:00 UTC 2025
 
 ## Latest Analysis
 
-Loaded 16483 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-23 06:02:23
+Loaded 16521 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-23 12:19:00
 
 Incidents by source:
 source
-newsapi           16382
+newsapi           16420
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,31 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2025-02-23 06:02
-- Location: ABC News (AU)
-- Description: Nearly 700 people gather on the New South Wales mid-north coast for a community meeting to address youth crime, hearing stories of people being attacked in their homes and businesses with axes, machetes and golf clubs.
+### OTHER on 2025-02-23 12:19
+- Location: TechSpot
+- Description: In an unprecedented breach, over a year of internal communications from the notorious ransomware syndicate Black Basta have leaked online, exposing the inner workings, strategies, and internal conflicts of one of today's most active and dangerous cybercrimina…
 
 
-### OTHER on 2025-02-23 05:50
-- Location: ABC News
-- Description: Republican lawmakers in some states are threatening local officials with lawsuits, fines and jail time if they resist President Donald Trump's crackdown on illegal immigration
+### HOMICIDE on 2025-02-23 12:13
+- Location: Slashdot.org
+- Description: Suspect who killed police officer, held Pennsylvania hospital staff hostage visited ICU the week before, authorities sayCNN Officer killed in UPMC Memorial Hospital shooting, hostage situation; multiple injuredABC27 Police officer killed amid shooting at Penn…
 
 
-### HOMICIDE on 2025-02-23 05:26
-- Location: The Punch
-- Description: A man who went on a stabbing rampage in France, killing one and wounding several others in what President Emmanuel Macron called an “Islamist terrorist act”, was on a terrorism watchlist and subject to deportation orders, according to authorities. The knife-w…
+### HOMICIDE on 2025-02-23 12:11
+- Location: Gossiplankanews.com
+- Description: In a significant breakthrough in the investigation into the brutal murder of notorious underworld figure, Ganemulla Sanjeewa, the police have gained valuable information following the interrogation of a key suspect. This crucial intelligence has led them to a…
 
 
-### OTHER on 2025-02-23 05:00
-- Location: Americanthinker.com
-- Description: I always do a mental double-take when someone says, “Diversity is our strength.”  Perhaps it depends on context.  Our military, for instance, includes men and women of various races and religions, yet their training em...
+### HOMICIDE on 2025-02-23 12:00
+- Location: The Daily Dot
+- Description: The morning of December 4th 2024, Brian Thompson, CEO of United Healthcare, was shot and killed outside a hotel in Midtown Manhattan. Five days later, on the 9th, the suspected shooter was arrested and arraigned at a McDonald's on East Plank Rd in Altoona Pen…
 
 
-### HOMICIDE on 2025-02-23 05:00
-- Location: Americanthinker.com
-- Description: This falls into the “you really couldn’t see this coming?” department:
+### OTHER on 2025-02-23 12:00
+- Location: The Atlantic
+- Description: Jair Bolsonaro was made to answer for trying to overturn an election.
 
-
-Muhsin Hendricks, known as the world's first openly gay imam, was shot and killed in South Africa over the weekend, as authorities investigate whether the murder wa...
-
-Analysis generated at: Mon Feb 24 06:19:06 UTC 2025
+Analysis generated at: Mon Feb 24 12:25:00 UTC 2025
