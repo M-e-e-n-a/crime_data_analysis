@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Feb 24 01:41:06 UTC 2025
+Last updated: Mon Feb 24 06:19:06 UTC 2025
 
 ## Latest Analysis
 
-Loaded 16461 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-23 01:38:13
+Loaded 16483 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-23 06:02:23
 
 Incidents by source:
 source
-newsapi           16360
+newsapi           16382
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,31 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-02-23 01:38
-- Location: Newsweek
-- Description: Police officer killed, gunman dead in hospital shootout after armed suspect took ICU staff hostage, leaving five others wounded.
-
-
-### HOMICIDE on 2025-02-23 01:34
-- Location: Fox News
-- Description: A shooting near Kirtland Air Force Base in Albuquerque left one airman dead and another hospitalized early Saturday morning, the Air Force said.
-
-
-### HOMICIDE on 2025-02-23 01:29
-- Location: NBC News
-- Description: A police officer was killed Saturday after responding to a shooting at UPMC Memorial Hospital located just outside of Harrisburg, Pennsylvania, where a gunman took several hostages and injured at least five other people before he was shot dead.
-
-
-### SHOOTING on 2025-02-23 01:10
-- Location: New York Post
-- Description: NYPD Hostage Units and Technical Assistance Response Units are on the scene.
-
-
-### OTHER on 2025-02-23 01:10
+### ASSAULT on 2025-02-23 06:02
 - Location: ABC News (AU)
-- Description: Pacific Islanders living in the US fear sudden removal from loved ones, jobs and their adopted home, as Donald Trump pursues a crackdown on undocumented migrants.
+- Description: Nearly 700 people gather on the New South Wales mid-north coast for a community meeting to address youth crime, hearing stories of people being attacked in their homes and businesses with axes, machetes and golf clubs.
 
-Analysis generated at: Mon Feb 24 01:41:06 UTC 2025
+
+### OTHER on 2025-02-23 05:50
+- Location: ABC News
+- Description: Republican lawmakers in some states are threatening local officials with lawsuits, fines and jail time if they resist President Donald Trump's crackdown on illegal immigration
+
+
+### HOMICIDE on 2025-02-23 05:26
+- Location: The Punch
+- Description: A man who went on a stabbing rampage in France, killing one and wounding several others in what President Emmanuel Macron called an “Islamist terrorist act”, was on a terrorism watchlist and subject to deportation orders, according to authorities. The knife-w…
+
+
+### OTHER on 2025-02-23 05:00
+- Location: Americanthinker.com
+- Description: I always do a mental double-take when someone says, “Diversity is our strength.”  Perhaps it depends on context.  Our military, for instance, includes men and women of various races and religions, yet their training em...
+
+
+### HOMICIDE on 2025-02-23 05:00
+- Location: Americanthinker.com
+- Description: This falls into the “you really couldn’t see this coming?” department:
+
+
+Muhsin Hendricks, known as the world's first openly gay imam, was shot and killed in South Africa over the weekend, as authorities investigate whether the murder wa...
+
+Analysis generated at: Mon Feb 24 06:19:06 UTC 2025
