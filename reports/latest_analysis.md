@@ -1,10 +1,10 @@
 
-Loaded 16689 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-24 12:22:39
+Loaded 16694 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-24 12:40:34
 
 Incidents by source:
 source
-newsapi           16588
+newsapi           16593
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,48 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-02-24 12:22
-- Location: Deadline
-- Description: EXCLUSIVE: German distributor Global Screen is in London with a new slate including crime miniseries Murder on the Inca Trail. Also on the MIP London slate are the second seasons of scripted series Recipes for Love and Murder and The Palace, Season 4 of seaso…
+### OTHER on 2025-02-24 12:40
+- Location: Al Jazeera English
+- Description: Ukrainian survivors remember their many tragedies three years after Russia's invasion began.
 
 
-### HOMICIDE on 2025-02-24 12:15
-- Location: CBC News
-- Description: Ontario’s police watchdog has found no grounds to charge an OPP commander after an armed man said he shot two women in his Huntsville home and then died by suicide during a standoff.
+### SHOOTING on 2025-02-24 12:39
+- Location: LancasterOnline
+- Description: Police are investigating Sunday evening gunshots at Thaddeus Stevens College of Technology.
 
 
-### HOMICIDE on 2025-02-24 12:05
-- Location: Freerepublic.com
-- Description: One person has been killed and five police officers injured in a knife attack in the eastern French city of Mulhouse. A 37-year-old Algerian man was arrested at the scene and the prosecutor has opened a terrorist inquiry because the suspect reportedly shouted…
+### ROBBERY/THEFT on 2025-02-24 12:37
+- Location: BusinessLine
+- Description: Telangana faces rising cyber threats, including identity theft, ransomware attacks, and fraud, with hackers targeting key sectors and institutions.
 
 
-### SHOOTING on 2025-02-24 12:00
-- Location: WSOC Charlotte
-- Description: A shooting investigation prompted a large police presence near the Circle K off Carowinds Boulevard, the York County Sheriff’s Office said Monday.
+### SHOOTING on 2025-02-24 12:28
+- Location: The Punch
+- Description: The Delta State Police Command has commenced an investigation into an incident where policemen allegedly slapped and shot at the Student Union Government’s President of the Delta State Polytechnic, Ogwashi-Uku, Eruru Christian, over N500 ‘settlement.’ Accordi…
 
 
-### OTHER on 2025-02-24 12:00
-- Location: Human Rights Watch
-- Description: Click to expand Image
- 
+### ASSAULT on 2025-02-24 12:24
+- Location: Raw Story
+- Description: — The most horrifying news story of the day: Ukraine can’t fight the war against Russia without the Starlink Internet system to guide their weaponry and for communication. Yesterday, it was reported that Trump is considering having Musk cut off Starlink to th…
 
-
-
- 
- 
- 
-
- 
- 
- 
- 
- A woman at a demonstration shows a photo of her son who was detained during the state of emergency on May 31, 2024, in San Salvador, El Salvador.
- © 2024 Carlos Barrera
- 
- 
-
-
- 
-(Washington, DC) – El Salvador’s Legisl…
-
-Analysis generated at: Tue Feb 25 12:24:48 UTC 2025
+Analysis generated at: Tue Feb 25 12:41:08 UTC 2025
