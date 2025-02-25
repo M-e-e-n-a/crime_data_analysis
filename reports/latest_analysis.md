@@ -1,10 +1,10 @@
 
-Loaded 16588 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-24 00:58:52
+Loaded 16590 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-24 01:04:29
 
 Incidents by source:
 source
-newsapi           16487
+newsapi           16489
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,6 +20,16 @@ bution.svg)
 
 ## Recent Incidents
 
+### HOMICIDE on 2025-02-24 01:04
+- Location: The-independent.com
+- Description: ‘We had a chance to save your loved one’s life and we failed,’ the Broward County sheriff said
+
+
+### OTHER on 2025-02-24 01:00
+- Location: Starcommunity.com.au
+- Description: Eleven people were arrested and 20 weapons seized during a police blitz across the South East. The arrests were made […]
+
+
 ### OTHER on 2025-02-24 00:58
 - Location: Fox News
 - Description: California Highway Patrol officers arrested a woman accused of looting from a home in the Palisades Fire area while wearing a "Palisades Strong" shirt.
@@ -34,15 +44,4 @@ bution.svg)
 - Location: Fox News
 - Description: An illegal immigrant convicted of assault was caught smiling while being apprehended in an immigration enforcement operation in Massachusetts earlier this month.
 
-
-### HOMICIDE on 2025-02-24 00:40
-- Location: Thegatewaypundit.com
-- Description: A North Carolina mother faces serious charges after her baby tragically died from a fentanyl overdose. This case highlights the alarming rise in pediatric fatalities linked to opioids.
-The post North Carolina Mother Charged with Murder After Baby Dies from Fe…
-
-
-### OTHER on 2025-02-24 00:26
-- Location: Boston.com
-- Description: "Take that badge off your chest, put it in the desk drawer because you became a politician, you forgot what it was like to be a cop.”
-
-Analysis generated at: Tue Feb 25 01:00:20 UTC 2025
+Analysis generated at: Tue Feb 25 01:40:34 UTC 2025
