@@ -1,10 +1,10 @@
 
-Loaded 16590 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-24 01:04:29
+Loaded 16625 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-24 06:15:17
 
 Incidents by source:
 source
-newsapi           16489
+newsapi           16524
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-02-24 01:04
-- Location: The-independent.com
-- Description: ‘We had a chance to save your loved one’s life and we failed,’ the Broward County sheriff said
+### ASSAULT on 2025-02-24 06:15
+- Location: NDTV News
+- Description: On January 29, he was federally charged with endangering a child, forcible touching, and sexually abusing a minor under the age of 11.
 
 
-### OTHER on 2025-02-24 01:00
-- Location: Starcommunity.com.au
-- Description: Eleven people were arrested and 20 weapons seized during a police blitz across the South East. The arrests were made […]
+### HOMICIDE on 2025-02-24 06:15
+- Location: Time
+- Description: A man who took hostages at UPMC hospital during a shooting that killed a police officer and wounded five others highlights the rising violence against U.S. healthcare workers.
 
 
-### OTHER on 2025-02-24 00:58
-- Location: Fox News
-- Description: California Highway Patrol officers arrested a woman accused of looting from a home in the Palisades Fire area while wearing a "Palisades Strong" shirt.
-
-
-### ROBBERY/THEFT on 2025-02-24 00:48
+### ROBBERY/THEFT on 2025-02-24 06:08
 - Location: ABC News (AU)
-- Description: Former Liberal staffer Bruce Lehrmann appears in a Tasmanian court via phone to face allegations he stole a car in the Huon Valley, south of Hobart.
+- Description: There were a string of violent home invasions and armed robberies across Victoria's south-eastern suburbs over the weekend, police say.
 
 
-### ASSAULT on 2025-02-24 00:47
-- Location: Fox News
-- Description: An illegal immigrant convicted of assault was caught smiling while being apprehended in an immigration enforcement operation in Massachusetts earlier this month.
+### OTHER on 2025-02-24 06:07
+- Location: NPR
+- Description: The selection places two staunch Trump allies atop the nation's premier federal law enforcement agency at a time when Democrats are concerned that the president could seek to target his adversaries.
 
-Analysis generated at: Tue Feb 25 01:40:34 UTC 2025
+
+### OTHER on 2025-02-24 06:07
+- Location: New York Post
+- Description: Officials said the twin brothers weighed 53 and 55 pounds, respectively. The average 15-year-old boy their height should weigh about 140 pounds.
+
+Analysis generated at: Tue Feb 25 06:18:00 UTC 2025
