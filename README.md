@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Feb 24 18:17:47 UTC 2025
+Last updated: Tue Feb 25 01:00:20 UTC 2025
 
 ## Latest Analysis
 
-Loaded 16576 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-23 18:15:03
+Loaded 16588 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-24 00:58:52
 
 Incidents by source:
 source
-newsapi           16475
+newsapi           16487
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-02-23 18:15
-- Location: CinemaBlend
-- Description: Hear me out, Netflix.
+### OTHER on 2025-02-24 00:58
+- Location: Fox News
+- Description: California Highway Patrol officers arrested a woman accused of looting from a home in the Palisades Fire area while wearing a "Palisades Strong" shirt.
 
 
-### SHOOTING on 2025-02-23 17:55
-- Location: PoPville
-- Description: via google maps From MPD sent at 2:57am: "Alert: MPD Units are investigating a shooting in the 1300 block of Connecticut Ave, NW. No lookout at this time. DO NOT TAKE ACTION CALL 911 W/ EVENT #I20250085411" via MPD "The Metropolitan Police Department is seeki…
+### ROBBERY/THEFT on 2025-02-24 00:48
+- Location: ABC News (AU)
+- Description: Former Liberal staffer Bruce Lehrmann appears in a Tasmanian court via phone to face allegations he stole a car in the Huon Valley, south of Hobart.
 
 
-### HOMICIDE on 2025-02-23 17:51
-- Location: CBS News
-- Description: Two guards were killed when armed assailants helped Mohamed Amra escape from a prison convoy last May, prompting a high-profile search.
+### ASSAULT on 2025-02-24 00:47
+- Location: Fox News
+- Description: An illegal immigrant convicted of assault was caught smiling while being apprehended in an immigration enforcement operation in Massachusetts earlier this month.
 
 
-### OTHER on 2025-02-23 17:50
-- Location: The Daily Hodl
-- Description: JPMorgan Chase is reportedly refusing to cover losses for a customer who lost her life savings to a fraudster. Former policewoman Courtney White says she lost $87,000 to a thief who impersonated her and made withdrawals from her JPMorgan Chase account to the …
+### HOMICIDE on 2025-02-24 00:40
+- Location: Thegatewaypundit.com
+- Description: A North Carolina mother faces serious charges after her baby tragically died from a fentanyl overdose. This case highlights the alarming rise in pediatric fatalities linked to opioids.
+The post North Carolina Mother Charged with Murder After Baby Dies from Fe…
 
 
-### OTHER on 2025-02-23 17:44
-- Location: Freerepublic.com
-- Description: Former Clinton pollster Mark Penn told Fox News that the Democratic Party appears to be “falling off a cliff” as recent polls have measured the party’s approval rating among American voters around all-time lows. A recent poll conducted by left-leaning firm Yo…
+### OTHER on 2025-02-24 00:26
+- Location: Boston.com
+- Description: "Take that badge off your chest, put it in the desk drawer because you became a politician, you forgot what it was like to be a cop.”
 
-Analysis generated at: Mon Feb 24 18:17:47 UTC 2025
+Analysis generated at: Tue Feb 25 01:00:20 UTC 2025
