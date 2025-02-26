@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Feb 25 18:18:02 UTC 2025
+Last updated: Wed Feb 26 01:00:16 UTC 2025
 
 ## Latest Analysis
 
-Loaded 16785 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-24 18:17:01
+Loaded 16800 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-25 00:58:21
 
 Incidents by source:
 source
-newsapi           16684
+newsapi           16699
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-02-24 18:17
-- Location: CNN
-- Description: The gunman who held intensive care unit staff hostage at UPMC Memorial Hospital in Pennsylvania before killing a police officer and injuring five other people Saturday believed that more could have been done to save his wife, who was on life support for a ter…
+### OTHER on 2025-02-25 00:58
+- Location: New Zealand Herald
+- Description: In total, four people are before the courts after three separate burglaries in Waihī.
 
 
-### OTHER on 2025-02-24 18:16
-- Location: Decrypt
-- Description: One 25-year-old man said at the time that he invested just over $5,000 in Coin ZX after attending a seminar on multi-level marketing.
+### OTHER on 2025-02-25 00:57
+- Location: CBC News
+- Description: Toronto police are searching for a 29-year-old man — a husband and a father — who has been missing since he left his east end home more than a week ago.
 
 
-### SHOOTING on 2025-02-24 18:16
-- Location: Ohscanada.com
-- Description: By Mead Gruver A man who took hostages in a Pennsylvania hospital during…
-The post Pennsylvania hostage-taking and shootout highlight rising violence against US hospital workers appeared first on OHS Canada Magazine.
+### ASSAULT on 2025-02-25 00:54
+- Location: The Punch
+- Description: President Bola Tinubu says synergy and cooperation among security agencies will deal a final blow to the remnant of terror attacks, banditry, kidnapping and other forms of criminality in Nigeria. Therefore, he restated his administration’s resolve to improve …
 
 
-### HOMICIDE on 2025-02-24 18:14
-- Location: NDTV News
-- Description: In a shocking incident, a 23-year-old man on Monday confessed to the police in Venjaramoodu, near here, that he had killed six people including his 13-year-old brother, his grandmother in her 80s, and a young woman said to be his lover.
+### HOMICIDE on 2025-02-25 00:52
+- Location: The Punch
+- Description: The Katsina State Police Public Relations Officer, DSP Abubakar Sadiq, said the command had begun an investigation into a shooting incident involving a member of the Civilian Joint Task Force that resulted in the death of a 400-level student of the Federal Un…
 
 
-### HOMICIDE on 2025-02-24 18:11
-- Location: HuffPost
-- Description: A gothic horror film and a post-apocalyptic thriller are also among the movies trending across streaming services like Hulu, Max and Peacock.
+### OTHER on 2025-02-25 00:51
+- Location: Starweekly.com.au
+- Description: Police are investigating a fatal collision in South Morang on Tuesday. It is believed a female driver was travelling along...
+The post Fatal collision in South Morang appeared first on Northern.
 
-Analysis generated at: Tue Feb 25 18:18:02 UTC 2025
+Analysis generated at: Wed Feb 26 01:00:16 UTC 2025
