@@ -1,10 +1,10 @@
 
-Loaded 16836 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-25 06:00:00
+Loaded 16899 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-25 12:23:23
 
 Incidents by source:
 source
-newsapi           16735
+newsapi           16798
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-02-25 06:00
-- Location: Variety
-- Description: Beta Film is bringing the new high-end drama “Bookish” to this year’s London TV Screenings, and the post-WWII London-set crime series is generating plenty of buzz. A captivating new project created by “Sherlock” co-creator Mark Gatiss – who also leads the sho…
+### ASSAULT on 2025-02-25 12:23
+- Location: NDTV News
+- Description: A Delhi court on Tuesday granted anticipatory bail to AAP MLA Amanatullah Khan, booked over the recent attack on a Delhi Police team at Jamia Nagar in the national capital.
 
 
-### ROBBERY/THEFT on 2025-02-25 06:00
-- Location: Naturalnews.com
-- Description: Organized gangs with ties to Mexican cartels are targeting freight trains in the Mojave Desert, stealing high-value Nike sneakers and other goods worth millions. Railroad thefts have surged by 40% in 2024, costing over $100 million, with thieves using methods…
-
-
-### OTHER on 2025-02-25 05:58
+### OTHER on 2025-02-25 12:21
 - Location: BBC News
-- Description: In January 2024, Baby Elsa was left in a carrier bag by a footpath shortly after she was born.
+- Description: The second in command at the Met Police is to retire after a career of more than 35 years in policing.
 
 
-### OTHER on 2025-02-25 05:47
-- Location: Dansinker.com
-- Description: George Dale would have crushed scum like Elon Musk and Donald Trump. And spat on cowards like Bezos.
+### OTHER on 2025-02-25 12:15
+- Location: NDTV News
+- Description: An ordinary morning on the ghats of Ganga in Kolkata near Kumartuli unfolded horrors for a group of locals who had gathered for their daily yoga session.
 
 
-### HOMICIDE on 2025-02-25 05:46
-- Location: Freerepublic.com
-- Description: The American student accused of throwing her newborn baby out of a hotel window to its death in Paris was on a school trip around Europe. The newborn baby died after the tourist hurled the infant out of a hotel window moments after giving birth, local police …
+### OTHER on 2025-02-25 12:02
+- Location: Al Jazeera English
+- Description: When searching for a response to the far-right resurgence, Europeans should not look towards the totalitarian left.
 
-Analysis generated at: Wed Feb 26 06:18:37 UTC 2025
+
+### ASSAULT on 2025-02-25 12:02
+- Location: Digital Journal
+- Description: Bangladesh’s army chief on Tuesday blamed infighting for deteriorating law and order, warning that the gains of the student-led revolution that toppled the government last August were at risk. The South Asian nation has been struggling to stem a surge in viol…
+
+Analysis generated at: Wed Feb 26 12:24:55 UTC 2025
