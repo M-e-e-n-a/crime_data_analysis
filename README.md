@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Feb 26 12:41:09 UTC 2025
+Last updated: Wed Feb 26 18:17:37 UTC 2025
 
 ## Latest Analysis
 
-Loaded 16904 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-25 12:40:44
+Loaded 16995 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-25 18:17:01
 
 Incidents by source:
 source
-newsapi           16803
+newsapi           16894
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-02-25 12:40
-- Location: NDTV News
-- Description: Not too long ago, Telugu actor Allu Arjun was arrested due to the death of one person in a stampede during the screening of Pushpa 2. It&#039;s ironic that no accountability has been fixed for the deaths of pilgrims in Kumbh-related incidents.
+### HOMICIDE on 2025-02-25 18:17
+- Location: Newsweek
+- Description: Accused killer Luigi Mangione is asking supporters to stop sending him books, citing federal prison regulations.
 
 
-### ROBBERY/THEFT on 2025-02-25 12:38
-- Location: ABC News
-- Description: Thieves have targeted freight trains running through California and Arizona in a string of audacious heists that have resulted in the theft of more than $2 million worth of new Nike sneakers
+### HOMICIDE on 2025-02-25 18:16
+- Location: Vox
+- Description: The Supreme Court ruled on Tuesday that Richard Glossip, a man sentenced to die under extraordinarily dubious circumstances, must receive a new trial. The case is Glossip v. Oklahoma. The Court, which has a 6-3 Republican majority, is often unsympathetic to d…
 
 
-### OTHER on 2025-02-25 12:30
-- Location: The Federalist
-- Description: The destruction of this rogue agency cannot come soon enough.
+### ROBBERY/THEFT on 2025-02-25 18:14
+- Location: Forbes
+- Description: Explore electricity theft's economic burden, governance failures, and social impact while uncovering solutions for a fair, sustainable, and efficient power sector.
 
 
-### OTHER on 2025-02-25 12:28
+### OTHER on 2025-02-25 18:07
+- Location: Deadline
+- Description: EXCLUSIVE: Colin Bates (Queer) and Ella Kennedy Davis (Your Friends and Neighbors) will topline These Little Ones Perish, an indie drama from director Alex Noyer (Sound of Violence), which has wrapped production in New York. For Noyer, the circumstances surro…
+
+
+### HOMICIDE on 2025-02-25 18:05
 - Location: The Times of India
-- Description: Luigi Mangione's court appearances have generated significant attention due to his unique fashion choices. Despite facing serious charges, his casual and stylish outfits, particularly his shoes, have gone viral, creating online trends and sold-out items. Mang…
+- Description: Thane: The Nizampura police in Bhiwandi, probing a robbery and murder case of a 40-year-old powerloom worker, arrested a 21-year-old man from Anantnag.
 
-
-### HOMICIDE on 2025-02-25 12:27
-- Location: BusinessLine
-- Description: While the judge described Kumar’s actions as brutal, mitigating factors such as his age (80 years) and health issues influenced the decision to impose a lesser sentence instead of the death penalty.
-
-Analysis generated at: Wed Feb 26 12:41:09 UTC 2025
+Analysis generated at: Wed Feb 26 18:17:37 UTC 2025
