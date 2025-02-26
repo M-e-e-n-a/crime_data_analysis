@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Feb 26 12:24:55 UTC 2025
+Last updated: Wed Feb 26 12:41:09 UTC 2025
 
 ## Latest Analysis
 
-Loaded 16899 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-25 12:23:23
+Loaded 16904 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-25 12:40:44
 
 Incidents by source:
 source
-newsapi           16798
+newsapi           16803
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2025-02-25 12:23
+### HOMICIDE on 2025-02-25 12:40
 - Location: NDTV News
-- Description: A Delhi court on Tuesday granted anticipatory bail to AAP MLA Amanatullah Khan, booked over the recent attack on a Delhi Police team at Jamia Nagar in the national capital.
+- Description: Not too long ago, Telugu actor Allu Arjun was arrested due to the death of one person in a stampede during the screening of Pushpa 2. It&#039;s ironic that no accountability has been fixed for the deaths of pilgrims in Kumbh-related incidents.
 
 
-### OTHER on 2025-02-25 12:21
-- Location: BBC News
-- Description: The second in command at the Met Police is to retire after a career of more than 35 years in policing.
+### ROBBERY/THEFT on 2025-02-25 12:38
+- Location: ABC News
+- Description: Thieves have targeted freight trains running through California and Arizona in a string of audacious heists that have resulted in the theft of more than $2 million worth of new Nike sneakers
 
 
-### OTHER on 2025-02-25 12:15
-- Location: NDTV News
-- Description: An ordinary morning on the ghats of Ganga in Kolkata near Kumartuli unfolded horrors for a group of locals who had gathered for their daily yoga session.
+### OTHER on 2025-02-25 12:30
+- Location: The Federalist
+- Description: The destruction of this rogue agency cannot come soon enough.
 
 
-### OTHER on 2025-02-25 12:02
-- Location: Al Jazeera English
-- Description: When searching for a response to the far-right resurgence, Europeans should not look towards the totalitarian left.
+### OTHER on 2025-02-25 12:28
+- Location: The Times of India
+- Description: Luigi Mangione's court appearances have generated significant attention due to his unique fashion choices. Despite facing serious charges, his casual and stylish outfits, particularly his shoes, have gone viral, creating online trends and sold-out items. Mang…
 
 
-### ASSAULT on 2025-02-25 12:02
-- Location: Digital Journal
-- Description: Bangladesh’s army chief on Tuesday blamed infighting for deteriorating law and order, warning that the gains of the student-led revolution that toppled the government last August were at risk. The South Asian nation has been struggling to stem a surge in viol…
+### HOMICIDE on 2025-02-25 12:27
+- Location: BusinessLine
+- Description: While the judge described Kumar’s actions as brutal, mitigating factors such as his age (80 years) and health issues influenced the decision to impose a lesser sentence instead of the death penalty.
 
-Analysis generated at: Wed Feb 26 12:24:55 UTC 2025
+Analysis generated at: Wed Feb 26 12:41:09 UTC 2025
