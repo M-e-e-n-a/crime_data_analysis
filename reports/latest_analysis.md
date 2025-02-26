@@ -1,10 +1,10 @@
 
-Loaded 16808 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-25 01:38:37
+Loaded 16836 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-25 06:00:00
 
 Incidents by source:
 source
-newsapi           16707
+newsapi           16735
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-02-25 01:38
-- Location: New York Post
-- Description: The trail of violence at the parade and associated event that celebrates Caribbean culture and heritage date at least back to 2003 and as recently as 2023 before last year’s shooting, according to the lawsuit.
+### OTHER on 2025-02-25 06:00
+- Location: Variety
+- Description: Beta Film is bringing the new high-end drama “Bookish” to this year’s London TV Screenings, and the post-WWII London-set crime series is generating plenty of buzz. A captivating new project created by “Sherlock” co-creator Mark Gatiss – who also leads the sho…
 
 
-### ROBBERY/THEFT on 2025-02-25 01:38
-- Location: Newsweek
-- Description: Organized thieves target freight trains in western deserts, stealing millions in Nike sneakers with sophisticated heist operations.
+### ROBBERY/THEFT on 2025-02-25 06:00
+- Location: Naturalnews.com
+- Description: Organized gangs with ties to Mexican cartels are targeting freight trains in the Mojave Desert, stealing high-value Nike sneakers and other goods worth millions. Railroad thefts have surged by 40% in 2024, costing over $100 million, with thieves using methods…
 
 
-### SHOOTING on 2025-02-25 01:30
-- Location: KPRC Click2Houston
-- Description: Dr. Meagan Houston with Human Behavior Health shares insight on edibles' impact on mental health after police say a teenager shot his mother and sister in north Houston over the weekend.
+### OTHER on 2025-02-25 05:58
+- Location: BBC News
+- Description: In January 2024, Baby Elsa was left in a carrier bag by a footpath shortly after she was born.
 
 
-### HOMICIDE on 2025-02-25 01:29
-- Location: The Punch
-- Description: The traditional ruler of Oriendu Autonomous community, Ohuhu, Umuahia Abia State, His Royal Majesty, Eze Phillip Ajomiwe, has lamented the failure of security agencies and the government over the continuous dumping of dead bodies suspected to be ritual victim…
+### OTHER on 2025-02-25 05:47
+- Location: Dansinker.com
+- Description: George Dale would have crushed scum like Elon Musk and Donald Trump. And spat on cowards like Bezos.
 
 
-### OTHER on 2025-02-25 01:21
-- Location: ABC News (AU)
-- Description: The Australian Federal Police (AFP) is refusing to comment on the sudden resignation of one of its most senior figures, who was last year formally decorated for "distinguished service" and until recently was the ACT's deputy chief police officer.
+### HOMICIDE on 2025-02-25 05:46
+- Location: Freerepublic.com
+- Description: The American student accused of throwing her newborn baby out of a hotel window to its death in Paris was on a school trip around Europe. The newborn baby died after the tourist hurled the infant out of a hotel window moments after giving birth, local police …
 
-Analysis generated at: Wed Feb 26 01:39:56 UTC 2025
+Analysis generated at: Wed Feb 26 06:18:37 UTC 2025
