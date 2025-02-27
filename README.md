@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Feb 27 01:00:11 UTC 2025
+Last updated: Thu Feb 27 01:40:35 UTC 2025
 
 ## Latest Analysis
 
-Loaded 17019 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-26 00:57:14
+Loaded 17029 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-26 01:40:13
 
 Incidents by source:
 source
-newsapi           16918
+newsapi           16928
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-02-26 00:57
-- Location: fox6now.com
-- Description: A man and woman were found dead from gunshot wounds in a home in Franklin on Tuesday night, Feb. 25.
+### ROBBERY/THEFT on 2025-02-26 01:40
+- Location: The Punch
+- Description: Four traders at Ogbo Ogwu Bridge Head Market in Onitsha, Anambra State, have dragged the National Agency for Food and Drug Administration and Control, Standards Organisation of Nigeria, the NAFDAC Zonal Director, South-East, Dr Martins Iluyomade and the Anamb…
 
 
-### OTHER on 2025-02-26 00:52
-- Location: New Zealand Herald
-- Description: The announcement comes amid a rise in retail crime.
+### OTHER on 2025-02-26 01:37
+- Location: Madeinchinajournal.com
+- Description: This essay presents a historical analysis of the evolving relationship between Chinese news media and the feminist movement over the past three decades. It investigates how Chinese feminists have strategically utilised media platforms to advance their causes …
 
 
-### HOMICIDE on 2025-02-26 00:51
+### HOMICIDE on 2025-02-26 01:30
+- Location: The Punch
+- Description: Islamic spiritual leaders in Kwara State, under the aegis of the Kwara State Council of Ulama, on Tuesday, urged the police to carry out a thorough investigation on the alleged murder of a final year female student of Kwara State College of Education, Miss Ha…
+
+
+### OTHER on 2025-02-26 01:26
 - Location: New York Post
-- Description: The inmate was at the courthouse for a scheduled hearing that was ultimately waived until late next month, his lawyer said in an interview.
+- Description: Mob justice is best served cold.
 
 
-### DRUG RELATED on 2025-02-26 00:51
-- Location: CHS Capitol Hill Seattle News
-- Description: The man police say they busted with “a large amount of narcotics and cash” in plain sight in Cal Anderson Park is facing drug charges. The King County Prosecutor’s Office has charged Hristo Tzenkov with two counts of violation of … Continue reading →
+### HOMICIDE on 2025-02-26 01:20
+- Location: Bangkok Post
+- Description: Police in Oman have confirmed a burnt body found on a mountain on Saturday is that of a Thai woman who went missing over three months ago, another Thai woman living in the Arab country claimed on Monday.
 
-
-### OTHER on 2025-02-26 00:50
-- Location: CBC News
-- Description: Police are warning about a recent spike in violence and increasing gang activity in Winnipeg.
-
-Analysis generated at: Thu Feb 27 01:00:11 UTC 2025
+Analysis generated at: Thu Feb 27 01:40:35 UTC 2025
