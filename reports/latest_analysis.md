@@ -1,10 +1,10 @@
 
-Loaded 17127 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-26 12:20:34
+Loaded 17129 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-26 12:30:00
 
 Incidents by source:
 source
-newsapi           17026
+newsapi           17028
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,6 +20,16 @@ bution.svg)
 
 ## Recent Incidents
 
+### SHOOTING on 2025-02-26 12:30
+- Location: Tulsa World
+- Description: The way Oklahoma Highway Patrol troopers use guns during high-speed pursuits raises questions about institutional firearm tactics, training and safety.
+
+
+### OTHER on 2025-02-26 12:29
+- Location: The Federalist
+- Description: The bill ignores the intimacy and vulnerability intrinsic in sex, and the emotional damage sex can wield outside the bounds of love
+
+
 ### SHOOTING on 2025-02-26 12:20
 - Location: Kashmirnewsbureau.com
 - Description: Srinagar 26 Feb(KNB): Srinagar Police has apprehended a gang of robbers who were posing as Police Commandos to loot trucks during nighttime. The operation led to the recovery of dummy guns, a vehicle, black uniforms, and other incriminating materials used in …
@@ -34,14 +44,4 @@ bution.svg)
 - Location: CNA
 - Description: The man allegedly helped to create and post advertisements for illegal gambling websites on social media platforms that primarily targeted victims in Indonesia.
 
-
-### OTHER on 2025-02-26 12:16
-- Location: RT
-- Description: Calin Georgescu’s election victory was annulled last year over allegations of illegal activities related to campaign financing Read Full Article at RT.com
-
-
-### HOMICIDE on 2025-02-26 12:08
-- Location: Independent.ie
-- Description: A 40-year-old man is continuing to be questioned today about the death of a 39-year-old woman in the bathroom of a ferry which arrived at Rosslare Europort on Tuesday evening.
-
-Analysis generated at: Thu Feb 27 12:24:49 UTC 2025
+Analysis generated at: Thu Feb 27 12:41:02 UTC 2025
