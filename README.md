@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Feb 27 06:18:22 UTC 2025
+Last updated: Thu Feb 27 12:24:49 UTC 2025
 
 ## Latest Analysis
 
-Loaded 17066 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-26 06:15:57
+Loaded 17127 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-26 12:20:34
 
 Incidents by source:
 source
-newsapi           16965
+newsapi           17026
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-02-26 06:15
-- Location: New York Post
-- Description: The rabid gang of teens only stopped beating on the defenseless man after “witnesses approached to intervene,” police shared.
+### SHOOTING on 2025-02-26 12:20
+- Location: Kashmirnewsbureau.com
+- Description: Srinagar 26 Feb(KNB): Srinagar Police has apprehended a gang of robbers who were posing as Police Commandos to loot trucks during nighttime. The operation led to the recovery of dummy guns, a vehicle, black uniforms, and other incriminating materials used in …
 
 
-### HOMICIDE on 2025-02-26 06:15
-- Location: ABC News (AU)
-- Description: A woman in her 20s is dead after a shooting in Toowoomba, west of Brisbane this afternoon.
+### HOMICIDE on 2025-02-26 12:20
+- Location: NBC News
+- Description: A Minnesota woman has been charged with the murder of her husband in the southern African nation of Angola last year while the couple and their five children were there on a Christian missionary trip, their church has confirmed.
 
 
-### SHOOTING on 2025-02-26 06:15
-- Location: ABC News (AU)
-- Description: A woman in her 20s is critically injured after she was shot in Toowoomba, west of Brisbane.
+### OTHER on 2025-02-26 12:18
+- Location: CNA
+- Description: The man allegedly helped to create and post advertisements for illegal gambling websites on social media platforms that primarily targeted victims in Indonesia.
 
 
-### HOMICIDE on 2025-02-26 06:09
-- Location: NDTV News
-- Description: Officials reported that the nurse sustained critical injuries and was rushed to St. Mary&#039;s Hospital for treatment.
+### OTHER on 2025-02-26 12:16
+- Location: RT
+- Description: Calin Georgescu’s election victory was annulled last year over allegations of illegal activities related to campaign financing Read Full Article at RT.com
 
 
-### HOMICIDE on 2025-02-26 06:00
-- Location: ABC News (AU)
-- Description: It was a case of mistaken identity which led to the tragic death of Canberra man Glenn Walewicz at his front door. The woman who organised it is now facing sentencing.
+### HOMICIDE on 2025-02-26 12:08
+- Location: Independent.ie
+- Description: A 40-year-old man is continuing to be questioned today about the death of a 39-year-old woman in the bathroom of a ferry which arrived at Rosslare Europort on Tuesday evening.
 
-Analysis generated at: Thu Feb 27 06:18:22 UTC 2025
+Analysis generated at: Thu Feb 27 12:24:49 UTC 2025
