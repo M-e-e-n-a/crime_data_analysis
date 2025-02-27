@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Feb 27 12:41:02 UTC 2025
+Last updated: Thu Feb 27 18:17:36 UTC 2025
 
 ## Latest Analysis
 
-Loaded 17129 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-26 12:30:00
+Loaded 17222 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-26 18:16:35
 
 Incidents by source:
 source
-newsapi           17028
+newsapi           17121
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-02-26 12:30
-- Location: Tulsa World
-- Description: The way Oklahoma Highway Patrol troopers use guns during high-speed pursuits raises questions about institutional firearm tactics, training and safety.
+### DRUG RELATED on 2025-02-26 18:16
+- Location: The Punch
+- Description: The National Agency for Food and Drug Administration and Control on Wednesday, said it seized 87 truckloads of banned, expired and substandard medicinal products, including USAID and UNFPA-donated antiretroviral drugs, male and female condoms, among others. T…
 
 
-### OTHER on 2025-02-26 12:29
-- Location: The Federalist
-- Description: The bill ignores the intimacy and vulnerability intrinsic in sex, and the emotional damage sex can wield outside the bounds of love
+### HOMICIDE on 2025-02-26 18:12
+- Location: The Denver Post
+- Description: Tractenberg, 39, was found unconscious inside her Columbus Place apartment and died shortly thereafter.
 
 
-### SHOOTING on 2025-02-26 12:20
-- Location: Kashmirnewsbureau.com
-- Description: Srinagar 26 Feb(KNB): Srinagar Police has apprehended a gang of robbers who were posing as Police Commandos to loot trucks during nighttime. The operation led to the recovery of dummy guns, a vehicle, black uniforms, and other incriminating materials used in …
+### OTHER on 2025-02-26 18:09
+- Location: New York Post
+- Description: NYPD Commissioner Jessica Tisch said the department is desperate to fill its ranks after unprecedented dips in new cops in the Big Apple in recent years.
 
 
-### HOMICIDE on 2025-02-26 12:20
-- Location: NBC News
-- Description: A Minnesota woman has been charged with the murder of her husband in the southern African nation of Angola last year while the couple and their five children were there on a Christian missionary trip, their church has confirmed.
+### SHOOTING on 2025-02-26 18:08
+- Location: fox6now.com
+- Description: A 26-year-old Milwaukee man is accused of shooting and wounding a man near 47th and Burleigh, allegedly over marijuana.
 
 
-### OTHER on 2025-02-26 12:18
-- Location: CNA
-- Description: The man allegedly helped to create and post advertisements for illegal gambling websites on social media platforms that primarily targeted victims in Indonesia.
+### OTHER on 2025-02-26 18:08
+- Location: EFF
+- Description: Flock Safety loves to crow about the thousands of local law enforcement agencies around the United States that have adopted its avian-themed automated license plate readers (ALPRs). But when a privacy activist launched a website to map out the exact locations…
 
-Analysis generated at: Thu Feb 27 12:41:02 UTC 2025
+Analysis generated at: Thu Feb 27 18:17:36 UTC 2025
