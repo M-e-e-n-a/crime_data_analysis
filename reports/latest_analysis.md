@@ -1,10 +1,10 @@
 
-Loaded 17029 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-26 01:40:13
+Loaded 17066 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-26 06:15:57
 
 Incidents by source:
 source
-newsapi           16928
+newsapi           16965
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2025-02-26 01:40
-- Location: The Punch
-- Description: Four traders at Ogbo Ogwu Bridge Head Market in Onitsha, Anambra State, have dragged the National Agency for Food and Drug Administration and Control, Standards Organisation of Nigeria, the NAFDAC Zonal Director, South-East, Dr Martins Iluyomade and the Anamb…
-
-
-### OTHER on 2025-02-26 01:37
-- Location: Madeinchinajournal.com
-- Description: This essay presents a historical analysis of the evolving relationship between Chinese news media and the feminist movement over the past three decades. It investigates how Chinese feminists have strategically utilised media platforms to advance their causes …
-
-
-### HOMICIDE on 2025-02-26 01:30
-- Location: The Punch
-- Description: Islamic spiritual leaders in Kwara State, under the aegis of the Kwara State Council of Ulama, on Tuesday, urged the police to carry out a thorough investigation on the alleged murder of a final year female student of Kwara State College of Education, Miss Ha…
-
-
-### OTHER on 2025-02-26 01:26
+### OTHER on 2025-02-26 06:15
 - Location: New York Post
-- Description: Mob justice is best served cold.
+- Description: The rabid gang of teens only stopped beating on the defenseless man after “witnesses approached to intervene,” police shared.
 
 
-### HOMICIDE on 2025-02-26 01:20
-- Location: Bangkok Post
-- Description: Police in Oman have confirmed a burnt body found on a mountain on Saturday is that of a Thai woman who went missing over three months ago, another Thai woman living in the Arab country claimed on Monday.
+### HOMICIDE on 2025-02-26 06:15
+- Location: ABC News (AU)
+- Description: A woman in her 20s is dead after a shooting in Toowoomba, west of Brisbane this afternoon.
 
-Analysis generated at: Thu Feb 27 01:40:35 UTC 2025
+
+### SHOOTING on 2025-02-26 06:15
+- Location: ABC News (AU)
+- Description: A woman in her 20s is critically injured after she was shot in Toowoomba, west of Brisbane.
+
+
+### HOMICIDE on 2025-02-26 06:09
+- Location: NDTV News
+- Description: Officials reported that the nurse sustained critical injuries and was rushed to St. Mary&#039;s Hospital for treatment.
+
+
+### HOMICIDE on 2025-02-26 06:00
+- Location: ABC News (AU)
+- Description: It was a case of mistaken identity which led to the tragic death of Canberra man Glenn Walewicz at his front door. The woman who organised it is now facing sentencing.
+
+Analysis generated at: Thu Feb 27 06:18:22 UTC 2025
