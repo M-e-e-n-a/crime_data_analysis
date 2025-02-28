@@ -1,10 +1,10 @@
 
-Loaded 17241 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-27 01:39:23
+Loaded 17286 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-27 06:10:42
 
 Incidents by source:
 source
-newsapi           17140
+newsapi           17185
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-02-27 01:39
-- Location: WPVI-TV
-- Description: A Philadelphia contractor accused of victimizing about a dozen people has now entered a guilty plea.
+### HOMICIDE on 2025-02-27 06:10
+- Location: New York Post
+- Description: Investigators believe the two alleged killers were in the area looking for “another person related to an ongoing gang dispute” when the shots were fired.
 
 
-### OTHER on 2025-02-27 01:34
-- Location: ABC News
-- Description: Stephen Craig Campbell -- who has been living in New Mexico under an assumed identity, according to the FBI -- is in custody after a dramatic arrest last week.
+### OTHER on 2025-02-27 06:09
+- Location: The Times of India
+- Description: Pune Police announced a Rs 1 lakh reward for information leading to the arrest of history-sheeter Dattatray Ramdas Gade, accused of raping a 26-year-old woman on a state transport bus at Swargate station. Gade, with multiple past offences, remains at large. T…
 
 
-### OTHER on 2025-02-27 01:21
-- Location: Freerepublic.com
-- Description: ABOARD THE PRIME MINISTER’S PLANE (AP) — U.K. Prime Minister Keir Starmer flew to Washington on Wednesday after announcing a big increase in the British defense budget, an investment that he hopes will help persuade U.S. President Donald Trump to maintain sup…
+### OTHER on 2025-02-27 06:09
+- Location: Forbes
+- Description: Netflix has a great mix of rom-coms, dramas, and documentaries premiering in March. Here are ten new titles to add to your watch list.
 
 
-### OTHER on 2025-02-27 01:18
-- Location: ABC News
-- Description: Alabama lawmakers are advancing a bill that would make it harder to sue police who use excessive or lethal force force
+### OTHER on 2025-02-27 06:07
+- Location: BBC News
+- Description: More than 8,500 Londoners have helped the Met Police create a charter on how stop and search should be used.
 
 
-### HOMICIDE on 2025-02-27 01:12
-- Location: Fox News
-- Description: An reputed MS-13 gang member in the U.S. illegally, who had been deported six times, was arrested in Texas Monday after allegedly murdering a Houston man.
+### OTHER on 2025-02-27 06:07
+- Location: BBC News
+- Description: The London Assembly is investigating the impact of violence against women and girls on young people.
 
-Analysis generated at: Fri Feb 28 01:40:41 UTC 2025
+Analysis generated at: Fri Feb 28 06:18:11 UTC 2025
