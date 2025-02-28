@@ -1,10 +1,10 @@
 
-Loaded 17222 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-26 18:16:35
+Loaded 17235 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-27 01:00:21
 
 Incidents by source:
 source
-newsapi           17121
+newsapi           17134
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### DRUG RELATED on 2025-02-26 18:16
-- Location: The Punch
-- Description: The National Agency for Food and Drug Administration and Control on Wednesday, said it seized 87 truckloads of banned, expired and substandard medicinal products, including USAID and UNFPA-donated antiretroviral drugs, male and female condoms, among others. T…
+### OTHER on 2025-02-27 01:00
+- Location: Bloody Disgusting
+- Description: The opening of Last Breath, a grim scene of a deep sea saturation diver spasming from oxygen deprivation at the bottom of the ocean, signals a nail-biting survival thriller ahead. That Last Breath is also based on the 2019 documentary of the same name, which …
 
 
-### HOMICIDE on 2025-02-26 18:12
-- Location: The Denver Post
-- Description: Tractenberg, 39, was found unconscious inside her Columbus Place apartment and died shortly thereafter.
+### OTHER on 2025-02-27 01:00
+- Location: Thetimes.com
+- Description: Times: 'Decoying is the hardest ... You are absorbing all the vile stuff.'
 
 
-### OTHER on 2025-02-26 18:09
-- Location: New York Post
-- Description: NYPD Commissioner Jessica Tisch said the department is desperate to fill its ranks after unprecedented dips in new cops in the Big Apple in recent years.
+### OTHER on 2025-02-27 00:59
+- Location: BBC News
+- Description: The Taliban say 90,000 CCTV cameras in Kabul will reduce crime but there are fears for human rights.
 
 
-### SHOOTING on 2025-02-26 18:08
-- Location: fox6now.com
-- Description: A 26-year-old Milwaukee man is accused of shooting and wounding a man near 47th and Burleigh, allegedly over marijuana.
+### HOMICIDE on 2025-02-27 00:58
+- Location: NBC News
+- Description: The ex-wife of an Illinois man accused of stabbing a 6-year-old Palestinian American boy to death and wounding his mother testified the man had become paranoid.
 
 
-### OTHER on 2025-02-26 18:08
-- Location: EFF
-- Description: Flock Safety loves to crow about the thousands of local law enforcement agencies around the United States that have adopted its avian-themed automated license plate readers (ALPRs). But when a privacy activist launched a website to map out the exact locations…
+### SHOOTING on 2025-02-27 00:42
+- Location: CNBC
+- Description: Axon Enterprise CEO Rick Smith told CNBC's Jim Cramer on Wednesday how the company is trying to help police reduce gun use.
 
-Analysis generated at: Thu Feb 27 18:17:36 UTC 2025
+Analysis generated at: Fri Feb 28 01:00:40 UTC 2025
