@@ -1,10 +1,10 @@
 
-Loaded 17370 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-27 12:24:07
+Loaded 17376 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-27 12:37:57
 
 Incidents by source:
 source
-newsapi           17269
+newsapi           17275
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-02-27 12:24
-- Location: Fox News
-- Description: An 18-year-old American woman was detained in Paris after she allegedly tossed a newborn out of a hotel window, leading to the child's death, reports say.
+### OTHER on 2025-02-27 12:37
+- Location: HuffPost
+- Description: Democratic senators have warned how the firings are an ominous sign.
 
 
-### HOMICIDE on 2025-02-27 12:21
-- Location: The Jerusalem Post
-- Description: An arrest warrant was issued for Deif even though Israel had confirmed that he had been killed in an Israeli airstrike back in August 2024.
+### HOMICIDE on 2025-02-27 12:36
+- Location: CBS News
+- Description: Boston's James Watson spent decades behind bars for a murder he didn't commit.
 
 
-### OTHER on 2025-02-27 12:14
-- Location: RT
-- Description: Prominent social media influencers Andrew and Tristan Tate have left Romania for the US despite ongoing legal proceedings Read Full Article at RT.com
+### OTHER on 2025-02-27 12:35
+- Location: ABC News
+- Description: President Donald Trump’s firing of Gen. CQ Brown Jr. as chairman of the Joint Chiefs of Staff is drawing mixed reactions on Capitol Hill
 
 
-### HOMICIDE on 2025-02-27 12:08
-- Location: Gossiplankanews.com
-- Description: Police investigations have revealed a possible link between the recent murders on Benedict Road, Kotahena, and Galpottha Junction, suspected to be part of an ongoing gang war between rival factions known as Selvi's Group and Pukudukanna's Group.On February 21…
+### ROBBERY/THEFT on 2025-02-27 12:32
+- Location: road.cc
+- Description: “To me it seems like it can’t be that many people doing it – pulling out a hammer to rob a bike is not opportunistic, it’s people who know what they are looking for”
 
 
-### HOMICIDE on 2025-02-27 12:03
-- Location: PetaPixel
-- Description: A videographer died at an event he was hired to film and now his family is offering a $10,000 reward for answers about his death.
-[Read More]
+### OTHER on 2025-02-27 12:30
+- Location: CBC News
+- Description: Internet personalities Andrew and Tristan Tate, who are charged with human trafficking in Romania, have been allowed to leave the country. The development comes not long after a Trump administration official inquired with Romania about their status.
 
-Analysis generated at: Fri Feb 28 12:24:18 UTC 2025
+Analysis generated at: Fri Feb 28 12:40:15 UTC 2025
