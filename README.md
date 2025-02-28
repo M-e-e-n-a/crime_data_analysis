@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Feb 28 12:40:15 UTC 2025
+Last updated: Fri Feb 28 18:17:22 UTC 2025
 
 ## Latest Analysis
 
-Loaded 17376 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-27 12:37:57
+Loaded 17461 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-27 18:14:47
 
 Incidents by source:
 source
-newsapi           17275
+newsapi           17360
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-02-27 12:37
-- Location: HuffPost
-- Description: Democratic senators have warned how the firings are an ominous sign.
+### HOMICIDE on 2025-02-27 18:14
+- Location: The Times of India
+- Description: Navi Mumbai: A 35-year-old woman and an auto rickshaw driver were arrested by Ulwe police Wednesday for the murder of her 40-year-old husband, a jewel.
 
 
-### HOMICIDE on 2025-02-27 12:36
-- Location: CBS News
-- Description: Boston's James Watson spent decades behind bars for a murder he didn't commit.
+### OTHER on 2025-02-27 18:11
+- Location: TheJournal.ie
+- Description: The self-proclaimed misogynist influencer rose to prominence years ago for his “alpha male” content along with his brother Tristian.
 
 
-### OTHER on 2025-02-27 12:35
+### OTHER on 2025-02-27 18:10
+- Location: Boston Herald
+- Description: Influencer brothers Andrew and Tristan Tate, who are charged with human trafficking in Romania, arrived Thursday in the U.S. after authorities lifted travel restrictions imposed as part of the case.
+
+
+### OTHER on 2025-02-27 18:03
 - Location: ABC News
-- Description: President Donald Trump’s firing of Gen. CQ Brown Jr. as chairman of the Joint Chiefs of Staff is drawing mixed reactions on Capitol Hill
+- Description: A man died after entering a booby-trapped residence in South Carolina on Monday evening, according to the Calhoun County Sheriff's Office.
 
 
-### ROBBERY/THEFT on 2025-02-27 12:32
-- Location: road.cc
-- Description: “To me it seems like it can’t be that many people doing it – pulling out a hammer to rob a bike is not opportunistic, it’s people who know what they are looking for”
+### OTHER on 2025-02-27 18:01
+- Location: NDTV News
+- Description: Police in Prayagraj have arrested a man for allegedly recording videos of women bathing and changing clothes during the Maha Kumbh and uploading them on YouTube, officials said Thursday.
 
-
-### OTHER on 2025-02-27 12:30
-- Location: CBC News
-- Description: Internet personalities Andrew and Tristan Tate, who are charged with human trafficking in Romania, have been allowed to leave the country. The development comes not long after a Trump administration official inquired with Romania about their status.
-
-Analysis generated at: Fri Feb 28 12:40:15 UTC 2025
+Analysis generated at: Fri Feb 28 18:17:22 UTC 2025
