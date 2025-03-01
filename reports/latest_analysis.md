@@ -1,10 +1,10 @@
 
-Loaded 17562 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-28 12:12:30
+Loaded 17565 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-28 12:36:22
 
 Incidents by source:
 source
-newsapi           17461
+newsapi           17464
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,6 +20,21 @@ bution.svg)
 
 ## Recent Incidents
 
+### OTHER on 2025-02-28 12:36
+- Location: The Federalist
+- Description: Trump has correctly adopted a maximum pressure policy. The United Kingdom, the European Union, and its member states should follow suit.
+
+
+### SHOOTING on 2025-02-28 12:33
+- Location: The Federalist
+- Description: The Biden FBI blocked the release of a Nashville elementary school schooler's manifesto in the name of identity politics.
+
+
+### HOMICIDE on 2025-02-28 12:25
+- Location: WSB Atlanta
+- Description: Lil Baby’s attorneys have responded after Atlanta police blamed the global rap star for a playing a role in the shooting deaths of two teenagers last summer.
+
+
 ### HOMICIDE on 2025-02-28 12:12
 - Location: ABC News (AU)
 - Description: A protest in Athens has turned violent as hundreds of thousands of people rally across the country on the second-anniversary of Greece's deadliest-ever train crash.
@@ -29,19 +44,4 @@ bution.svg)
 - Location: The Irish Times
 - Description: Preliminary autopsy findings come after actor and his wife were found dead in their Santa Fe home
 
-
-### DRUG RELATED on 2025-02-28 12:05
-- Location: Independent.ie
-- Description: Kerry businessman Nathan McDonnell has been sentenced to 12 years behind bars for his role in a major drugs plot to export €32m worth of crystal meth from Ireland to Australia. Honorary Judge Melanie Greally said that to describe him as a ‘mere cog’ was to un…
-
-
-### OTHER on 2025-02-28 11:59
-- Location: Securityaffairs.com
-- Description: Cisco addressed command injection and denial-of-service (DoS) vulnerabilities in some models of its Nexus switches. Cisco released security updates to address command injection and DoS vulnerabilities in Nexus switches, including a high-severity flaw. The mos…
-
-
-### OTHER on 2025-02-28 11:57
-- Location: Bleeding Cool News
-- Description: The Toxie Team-Up #1 by Mark Russell and Richard Pace, to be published by Ahoy Comics in June, will see The Toxic Avenger team up with Jesus Christ as seen in Russell and Pace's other comic book, The Second Coming, for a new crossover. Each issue of the serie…
-
-Analysis generated at: Sat Mar  1 12:22:05 UTC 2025
+Analysis generated at: Sat Mar  1 12:37:25 UTC 2025
