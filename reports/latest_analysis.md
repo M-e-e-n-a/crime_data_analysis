@@ -1,10 +1,10 @@
 
-Loaded 17477 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-28 01:39:28
+Loaded 17510 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-28 06:04:48
 
 Incidents by source:
 source
-newsapi           17376
+newsapi           17409
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,31 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2025-02-28 01:39
-- Location: Chinadigitaltimes.net
-- Description: Following increased attention to Southeast Asia’s online scam industry, especially since the high-profile abduction and rescue of Chinese actor Wang Xing from a compound on the Myanmar-Thailand border in January, the Chinese government has coordinated multila…
+### HOMICIDE on 2025-02-28 06:04
+- Location: CBC News
+- Description: The Toronto man known as “The Dictator” – accused of orchestrating multiple murders on behalf of the transnational drug-trafficking ring led by a former Olympian – has been extradited to the U.S. Andrew Clark is among 29 cartel-linked defendants taken into U.…
 
 
-### OTHER on 2025-02-28 01:33
-- Location: Survivalblog.com
-- Description: Today is the birthday of William Ewart Fairbairn  (28 February 1885 – 20 June 1960).  He was a British soldier and police officer. He developed hand-to-hand combat methods for the Shanghai Police during the interwar period, as well as for the Allied special f…
+### HOMICIDE on 2025-02-28 06:03
+- Location: BBC News
+- Description: Remains are found in the search for Rania Alayed, murdered by her husband after she tried to leave him.
 
 
-### OTHER on 2025-02-28 01:30
-- Location: Digital Trends
-- Description: Get ready for the Oscars with a trio of critically acclaimed films that earned their place among the three great Hulu movies you need to stream this weekend.
+### OTHER on 2025-02-28 05:30
+- Location: Variety
+- Description: Indian auteur Anurag Kashyap is set to trade his director’s chair for a police badge in the upcoming bilingual action drama “Dacoit – Ek Prem Katha,” toplining Adivi Sesh and Mrunal Thakur. The addition of Kashyap to the high-octane film marks the latest cast…
 
 
-### HOMICIDE on 2025-02-28 01:18
+### OTHER on 2025-02-28 05:20
 - Location: ABC News (AU)
-- Description: Nicole Williams pleaded guilty to attempted aggravated burglary and accessory after the fact to murder for her involvement in the death of Glenn Walewicz, and was today sentenced to seven years in jail.
+- Description: A bitter police pay dispute in Victoria is set to come to an end, with officers and staff agreeing to a 20 per cent pay rise over four years.
 
 
-### OTHER on 2025-02-28 01:15
-- Location: The Times of India
-- Description: Pune Police have arrested Dattatray Gade, accused of raping a 26-year-old woman inside a parked bus at Swargate depot. Gade, a history-sheeter, was apprehended in Shirur Tehsil after a statewide manhunt. Following the incident, Maharashtra’s Transport Ministe…
+### ROBBERY/THEFT on 2025-02-28 05:14
+- Location: Ozbargain.com.au
+- Description: Become the legendary part man, part machine, all cop hero and bring justice to the dangerous, crime-ridden streets of Old Detroit.
 
-Analysis generated at: Sat Mar  1 01:46:06 UTC 2025
+Uphold the law by any means necessary:
+With your powerful Auto-9 or one of the other 20 weapons available, eradicate criminals …
+
+Analysis generated at: Sat Mar  1 06:17:14 UTC 2025
