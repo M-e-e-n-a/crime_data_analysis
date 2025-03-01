@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Feb 28 18:17:22 UTC 2025
+Last updated: Sat Mar  1 01:04:42 UTC 2025
 
 ## Latest Analysis
 
-Loaded 17461 incidents
-Date range: 2024-01-01 00:00:00 to 2025-02-27 18:14:47
+Loaded 17472 incidents
+Date range: 2024-01-01 00:00:00 to 2025-02-28 00:58:01
 
 Incidents by source:
 source
-newsapi           17360
+newsapi           17371
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-02-27 18:14
-- Location: The Times of India
-- Description: Navi Mumbai: A 35-year-old woman and an auto rickshaw driver were arrested by Ulwe police Wednesday for the murder of her 40-year-old husband, a jewel.
-
-
-### OTHER on 2025-02-27 18:11
-- Location: TheJournal.ie
-- Description: The self-proclaimed misogynist influencer rose to prominence years ago for his “alpha male” content along with his brother Tristian.
-
-
-### OTHER on 2025-02-27 18:10
-- Location: Boston Herald
-- Description: Influencer brothers Andrew and Tristan Tate, who are charged with human trafficking in Romania, arrived Thursday in the U.S. after authorities lifted travel restrictions imposed as part of the case.
-
-
-### OTHER on 2025-02-27 18:03
-- Location: ABC News
-- Description: A man died after entering a booby-trapped residence in South Carolina on Monday evening, according to the Calhoun County Sheriff's Office.
-
-
-### OTHER on 2025-02-27 18:01
+### OTHER on 2025-02-28 00:58
 - Location: NDTV News
-- Description: Police in Prayagraj have arrested a man for allegedly recording videos of women bathing and changing clothes during the Maha Kumbh and uploading them on YouTube, officials said Thursday.
+- Description: A 26-year-old man has been arrested on Friday for allegedly raping a 26-year-old woman inside a bus at Pune&#039;s Swargate bus station.
 
-Analysis generated at: Fri Feb 28 18:17:22 UTC 2025
+
+### DRUG RELATED on 2025-02-28 00:57
+- Location: New Zealand Herald
+- Description: Mexico has extradited some of its most notorious imprisoned drug lords.
+
+
+### ROBBERY/THEFT on 2025-02-28 00:46
+- Location: Drive.com.au
+- Description: Police are urging owners to get smart as tech savvy car thieves have caused a spike in the thefts.
+
+
+### HOMICIDE on 2025-02-28 00:29
+- Location: CBC News
+- Description: Ontario's Special Investigation Unit has cleared four York Regional Police officers of wrongdoing in the shooting death of a 17-year-old boy in Aurora in October.
+
+
+### DRUG RELATED on 2025-02-28 00:25
+- Location: Boston Herald
+- Description: The 29 prisoners sent to the U.S. faced charges related to drug trafficking.
+
+Analysis generated at: Sat Mar  1 01:04:42 UTC 2025
