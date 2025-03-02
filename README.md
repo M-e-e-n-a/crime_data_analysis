@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Mar  2 12:21:35 UTC 2025
+Last updated: Sun Mar  2 12:36:31 UTC 2025
 
 ## Latest Analysis
 
-Loaded 17718 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-01 12:00:56
+Loaded 17720 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-01 12:26:47
 
 Incidents by source:
 source
-newsapi           17617
+newsapi           17619
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -23,6 +23,11 @@ bution.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### SHOOTING on 2025-03-01 12:26
+- Location: fox6now.com
+- Description: One person was injured in a shooting in Milwaukee early Saturday morning, March 1, 2025.
+
 
 ### HOMICIDE on 2025-03-01 12:00
 - Location: HipHopDX
@@ -43,9 +48,4 @@ bution.svg)
 - Location: NBC News
 - Description: The soapy new drama takes Fumero, who played the former perfectionist police officer Amy Santiago in the hit comedy "Brooklyn Nine-Nine," into new territory.
 
-
-### DRUG RELATED on 2025-03-01 11:45
-- Location: Khabarhub.com
-- Description: KATHMANDU: Home Minister Ramesh Lekhak has stressed the need to expand the anti-drug campaign nationwide to build a drug-free society. Speaking at the launch of the anti-drug campaign initiated by the Valley Police Office in Kathmandu, he highlighted the grow…
-
-Analysis generated at: Sun Mar  2 12:21:35 UTC 2025
+Analysis generated at: Sun Mar  2 12:36:31 UTC 2025
