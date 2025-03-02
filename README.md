@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Mar  2 06:17:08 UTC 2025
+Last updated: Sun Mar  2 12:21:35 UTC 2025
 
 ## Latest Analysis
 
-Loaded 17684 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-01 06:00:01
+Loaded 17718 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-01 12:00:56
 
 Incidents by source:
 source
-newsapi           17583
+newsapi           17617
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-03-01 06:00
-- Location: The Irish Times
-- Description: Vikat Bhagat has been jailed for brutally killing the Donegal woman in India but her family want an inquest in Ireland
+### HOMICIDE on 2025-03-01 12:00
+- Location: HipHopDX
+- Description: Lil Baby's lawyers are strongly criticizing the Atlanta police for attempting to hold him responsible for the deaths of two teenagers last year.
 
 
-### HOMICIDE on 2025-03-01 06:00
-- Location: Naturalnews.com
-- Description: Hundreds of thousands protested in Greece, demanding justice for the 57 victims of the 2023 Tempi train crash, the deadliest in the nation’s history. The tragedy, blamed on systemic infrastructure failures and government negligence, sparked nationwide strikes…
+### HOMICIDE on 2025-03-01 12:00
+- Location: The Atlantic
+- Description: The demise of an independent press in the United States might not look much like what readers expect.
 
 
-### DRUG RELATED on 2025-03-01 06:00
-- Location: Naturalnews.com
-- Description: Drug cartels are using American teenagers aged 14 to 17 as “foot guides” to smuggle migrants across the southern border, taking advantage of a legal loophole that allows these teens to be released back to Mexico without facing consequences, despite repeated o…
+### HOMICIDE on 2025-03-01 12:00
+- Location: CBC News
+- Description: The first week in a months-long trial for Brandon Teixeira, charged with killing Nicolas Khabra in Surrey, concluded on Friday. The Crown is expected to call two witnesses to the homicide, including a person prosecutors say was in on the killing.
 
 
-### HOMICIDE on 2025-03-01 06:00
-- Location: The Root
-- Description: Photo: Texas Observer, Alex Wong (Getty Images), Joshua Lott (Getty Images), Gary Hershorn (Getty Images), AP File (AP), The Washington Post, Memphis Police Department (AP), Screenshot: Facebook, San Diego Police Department (YouTube)
-This Texas ICE Attorney …
+### OTHER on 2025-03-01 12:00
+- Location: NBC News
+- Description: The soapy new drama takes Fumero, who played the former perfectionist police officer Amy Santiago in the hit comedy "Brooklyn Nine-Nine," into new territory.
 
 
-### OTHER on 2025-03-01 05:47
-- Location: Meditationsinanemergency.com
-- Description: The rhetoric and logic of the abuse of power operates similarly at all scales, which is why I've found feminism such useful equipment for understanding authoritarians in public and political life. Because no matter what abusers take from their victims, they d…
+### DRUG RELATED on 2025-03-01 11:45
+- Location: Khabarhub.com
+- Description: KATHMANDU: Home Minister Ramesh Lekhak has stressed the need to expand the anti-drug campaign nationwide to build a drug-free society. Speaking at the launch of the anti-drug campaign initiated by the Valley Police Office in Kathmandu, he highlighted the grow…
 
-Analysis generated at: Sun Mar  2 06:17:08 UTC 2025
+Analysis generated at: Sun Mar  2 12:21:35 UTC 2025
