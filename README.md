@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Mar  2 12:36:31 UTC 2025
+Last updated: Sun Mar  2 18:17:13 UTC 2025
 
 ## Latest Analysis
 
-Loaded 17720 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-01 12:26:47
+Loaded 17770 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-01 18:10:42
 
 Incidents by source:
 source
-newsapi           17619
+newsapi           17669
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-03-01 12:26
-- Location: fox6now.com
-- Description: One person was injured in a shooting in Milwaukee early Saturday morning, March 1, 2025.
+### OTHER on 2025-03-01 18:10
+- Location: Clarkesworldmagazine.com
+- Description: At 2:26am, police were radioed in to a casualty at a residence in (redacted), according to witness accounts and the child present at the home, a woman was found deceased […]
 
 
-### HOMICIDE on 2025-03-01 12:00
-- Location: HipHopDX
-- Description: Lil Baby's lawyers are strongly criticizing the Atlanta police for attempting to hold him responsible for the deaths of two teenagers last year.
+### OTHER on 2025-03-01 18:00
+- Location: New Zealand Herald
+- Description: A husband shares why he self-referred to a domestic violence program last Christmas.
 
 
-### HOMICIDE on 2025-03-01 12:00
-- Location: The Atlantic
-- Description: The demise of an independent press in the United States might not look much like what readers expect.
+### HOMICIDE on 2025-03-01 17:58
+- Location: BBC News
+- Description: Police were called to a property in Perivale on Friday and found the woman in an unresponsive state.
 
 
-### HOMICIDE on 2025-03-01 12:00
-- Location: CBC News
-- Description: The first week in a months-long trial for Brandon Teixeira, charged with killing Nicolas Khabra in Surrey, concluded on Friday. The Crown is expected to call two witnesses to the homicide, including a person prosecutors say was in on the killing.
+### OTHER on 2025-03-01 17:52
+- Location: Statetimes.in
+- Description: TRAFFIC POLICE HEADQUARTERS, J&K, JAMMU/SRINAGAR TRAFFIC PLAN & ADVISORY FOR 02-03-2025:- Subject to fair weather and better road conditions LMVs Passenger/Private Cars shall be allowed from both sides on Jammu-Srinagar NHW (NH-44) viz from Jammu towards Srin…
 
 
-### OTHER on 2025-03-01 12:00
-- Location: NBC News
-- Description: The soapy new drama takes Fumero, who played the former perfectionist police officer Amy Santiago in the hit comedy "Brooklyn Nine-Nine," into new territory.
+### ASSAULT on 2025-03-01 17:37
+- Location: Freerepublic.com
+- Description: After receiving hundreds of billions of dollars in US aid, coming to the White House on Friday with more demands, and disrespecting President Trump, Ukrainian President Volodymyr Zelensky is doubling down and demanding more US support on social media. “We’ve …
 
-Analysis generated at: Sun Mar  2 12:36:31 UTC 2025
+Analysis generated at: Sun Mar  2 18:17:13 UTC 2025
