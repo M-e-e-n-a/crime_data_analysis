@@ -1,10 +1,10 @@
 
-Loaded 17776 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-02 01:00:18
+Loaded 17782 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-02 01:40:25
 
 Incidents by source:
 source
-newsapi           17675
+newsapi           17681
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2025-03-02 01:00
-- Location: Screen Rant
-- Description: My Hero Academia's most problematic marriage is actually not between Enji and Rei Todoroki, but another incredibly toxic couple in the series.
+### OTHER on 2025-03-02 01:40
+- Location: Variety
+- Description: Over the past two decades, the Academy Awards have been in a constant state of flux: There are now 10 best picture nominees instead of five, the membership has grown (and diversified) by more than 50% in that time, streaming releases now routinely vie for the…
 
 
-### HOMICIDE on 2025-03-02 00:46
-- Location: fox6now.com
-- Description: A juvenile wanted in a Wisconsin homicide investigation was arrested in Kansas, according to a police department's Facebook post.
+### OTHER on 2025-03-02 01:33
+- Location: NDTV News
+- Description: The body of the woman was found in a big blue suitcase near the Sampla bus stand on Friday.
 
 
-### HOMICIDE on 2025-03-02 00:45
+### OTHER on 2025-03-02 01:20
 - Location: Thehillstimes.in
-- Description: SHILLONG, March 1: A 42-year-old man employed at a restaurant in Meghalaya’s Shillong has been arrested for allegedly killing his female colleague, police said. The incident took place on Thursday night at the restaurant in Lachumiere area, they said. East Kh…
+- Description: SHILLONG, March 1: Meghalaya Governor CH Vijayashankar recently said the state government has been committed to transform Meghalaya into a 10-billion-dollar economy by 2028. Delivering his maiden address during the first day of the Assembly’s budget session t…
 
 
-### OTHER on 2025-03-02 00:42
+### ASSAULT on 2025-03-02 01:13
 - Location: BBC News
-- Description: Posing as an 18-year-old, BBC reporter Ruth Green quickly finds groups selling weapons openly.
+- Description: Donald Trump has promised to "terminate" diversity programmes. But a rebrand might yet save them.
 
 
-### OTHER on 2025-03-02 00:16
-- Location: Freerepublic.com
-- Description: Former Democrat New York Gov. Andrew Cuomo has officially entered the race for New York City mayor, signaling a bold attempt at a political comeback. After resigning in 2021 amid sexual harassment allegations and a tarnished public image, Cuomo is now seeking…
+### ASSAULT on 2025-03-02 01:02
+- Location: New York Post
+- Description: A parolee who was released from state prison only a month ago after serving time for sexually assaulting a 9-year-old boy and then pushing him off a roof raped a 15-year-old girl in a Bronx stairwell Thursday, cops and sources said.
 
-Analysis generated at: Mon Mar  3 01:02:18 UTC 2025
+Analysis generated at: Mon Mar  3 01:43:11 UTC 2025
