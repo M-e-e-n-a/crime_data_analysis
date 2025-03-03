@@ -1,10 +1,10 @@
 
-Loaded 17782 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-02 01:40:25
+Loaded 17800 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-02 06:02:03
 
 Incidents by source:
 source
-newsapi           17681
+newsapi           17699
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-03-02 01:40
-- Location: Variety
-- Description: Over the past two decades, the Academy Awards have been in a constant state of flux: There are now 10 best picture nominees instead of five, the membership has grown (and diversified) by more than 50% in that time, streaming releases now routinely vie for the…
+### OTHER on 2025-03-02 06:02
+- Location: ABC News
+- Description: Miami Beach broke up with spring break last year and city leaders still aren’t interested in couples counseling
 
 
-### OTHER on 2025-03-02 01:33
-- Location: NDTV News
-- Description: The body of the woman was found in a big blue suitcase near the Sampla bus stand on Friday.
+### OTHER on 2025-03-02 05:45
+- Location: Fox News
+- Description: An Indiana couple is accused of inflicting "nutritional" neglect on their 10-year-old son, zip-tying him and telling his siblings to beat him up.
 
 
-### OTHER on 2025-03-02 01:20
-- Location: Thehillstimes.in
-- Description: SHILLONG, March 1: Meghalaya Governor CH Vijayashankar recently said the state government has been committed to transform Meghalaya into a 10-billion-dollar economy by 2028. Delivering his maiden address during the first day of the Assembly’s budget session t…
+### OTHER on 2025-03-02 05:45
+- Location: Fox News
+- Description: An Indiana couple is accused of inflicting "nutritional" neglect on their 10-year-old son, zip-tying him and telling his siblings to beat him up.
 
 
-### ASSAULT on 2025-03-02 01:13
-- Location: BBC News
-- Description: Donald Trump has promised to "terminate" diversity programmes. But a rebrand might yet save them.
+### OTHER on 2025-03-02 05:23
+- Location: Financial Post
+- Description: MIAMI BEACH, Fla. (AP) — Miami Beach broke up with spring break last year and city leaders still aren’t interested in couples counseling. Officials recently announced they were bringing back enhanced security measures for practically the entire month of March…
 
 
-### ASSAULT on 2025-03-02 01:02
-- Location: New York Post
-- Description: A parolee who was released from state prison only a month ago after serving time for sexually assaulting a 9-year-old boy and then pushing him off a roof raped a 15-year-old girl in a Bronx stairwell Thursday, cops and sources said.
+### OTHER on 2025-03-02 05:19
+- Location: Yahoo Entertainment
+- Description: Miami Beach broke up with spring break last year and city leaders still aren't interested in couples counseling.  Officials recently announced they were...
 
-Analysis generated at: Mon Mar  3 01:43:11 UTC 2025
+Analysis generated at: Mon Mar  3 06:19:11 UTC 2025
