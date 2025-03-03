@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Mar  2 18:17:13 UTC 2025
+Last updated: Mon Mar  3 01:02:18 UTC 2025
 
 ## Latest Analysis
 
-Loaded 17770 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-01 18:10:42
+Loaded 17776 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-02 01:00:18
 
 Incidents by source:
 source
-newsapi           17669
+newsapi           17675
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-03-01 18:10
-- Location: Clarkesworldmagazine.com
-- Description: At 2:26am, police were radioed in to a casualty at a residence in (redacted), according to witness accounts and the child present at the home, a woman was found deceased […]
+### ROBBERY/THEFT on 2025-03-02 01:00
+- Location: Screen Rant
+- Description: My Hero Academia's most problematic marriage is actually not between Enji and Rei Todoroki, but another incredibly toxic couple in the series.
 
 
-### OTHER on 2025-03-01 18:00
-- Location: New Zealand Herald
-- Description: A husband shares why he self-referred to a domestic violence program last Christmas.
+### HOMICIDE on 2025-03-02 00:46
+- Location: fox6now.com
+- Description: A juvenile wanted in a Wisconsin homicide investigation was arrested in Kansas, according to a police department's Facebook post.
 
 
-### HOMICIDE on 2025-03-01 17:58
+### HOMICIDE on 2025-03-02 00:45
+- Location: Thehillstimes.in
+- Description: SHILLONG, March 1: A 42-year-old man employed at a restaurant in Meghalaya’s Shillong has been arrested for allegedly killing his female colleague, police said. The incident took place on Thursday night at the restaurant in Lachumiere area, they said. East Kh…
+
+
+### OTHER on 2025-03-02 00:42
 - Location: BBC News
-- Description: Police were called to a property in Perivale on Friday and found the woman in an unresponsive state.
+- Description: Posing as an 18-year-old, BBC reporter Ruth Green quickly finds groups selling weapons openly.
 
 
-### OTHER on 2025-03-01 17:52
-- Location: Statetimes.in
-- Description: TRAFFIC POLICE HEADQUARTERS, J&K, JAMMU/SRINAGAR TRAFFIC PLAN & ADVISORY FOR 02-03-2025:- Subject to fair weather and better road conditions LMVs Passenger/Private Cars shall be allowed from both sides on Jammu-Srinagar NHW (NH-44) viz from Jammu towards Srin…
-
-
-### ASSAULT on 2025-03-01 17:37
+### OTHER on 2025-03-02 00:16
 - Location: Freerepublic.com
-- Description: After receiving hundreds of billions of dollars in US aid, coming to the White House on Friday with more demands, and disrespecting President Trump, Ukrainian President Volodymyr Zelensky is doubling down and demanding more US support on social media. “We’ve …
+- Description: Former Democrat New York Gov. Andrew Cuomo has officially entered the race for New York City mayor, signaling a bold attempt at a political comeback. After resigning in 2021 amid sexual harassment allegations and a tarnished public image, Cuomo is now seeking…
 
-Analysis generated at: Sun Mar  2 18:17:13 UTC 2025
+Analysis generated at: Mon Mar  3 01:02:18 UTC 2025
