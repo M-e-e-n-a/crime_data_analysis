@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Mar  3 12:25:11 UTC 2025
+Last updated: Mon Mar  3 12:41:23 UTC 2025
 
 ## Latest Analysis
 
-Loaded 17824 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-02 12:06:00
+Loaded 17825 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-02 12:36:00
 
 Incidents by source:
 source
-newsapi           17723
+newsapi           17724
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -23,6 +23,11 @@ bution.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### SHOOTING on 2025-03-02 12:36
+- Location: fox6now.com
+- Description: Three people were injured in two separate shootings in Milwaukee early Sunday morning, March 2, 2025.
+
 
 ### OTHER on 2025-03-02 12:06
 - Location: Bangkok Post
@@ -44,9 +49,4 @@ The post Collabo…
 - Location: PEOPLE
 - Description: See every Best Actor Oscar winner from 1929 onward, from the first honoree Emil Jannings to recent recipients such as Will Smith, Brendan Fraser and Cillian Murphy.
 
-
-### OTHER on 2025-03-02 11:41
-- Location: New York Post
-- Description: Israel stopped the entry of all goods and supplies into the Gaza Strip on Sunday and warned of “additional consequences” if Hamas doesn’t accept a new proposal to extend a fragile ceasefire.…
-
-Analysis generated at: Mon Mar  3 12:25:11 UTC 2025
+Analysis generated at: Mon Mar  3 12:41:23 UTC 2025
