@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Mar  4 01:01:16 UTC 2025
+Last updated: Tue Mar  4 01:42:05 UTC 2025
 
 ## Latest Analysis
 
-Loaded 17877 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-03 00:58:00
+Loaded 17878 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-03 01:22:32
 
 Incidents by source:
 source
-newsapi           17776
+newsapi           17777
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -23,6 +23,11 @@ bution.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### HOMICIDE on 2025-03-03 01:22
+- Location: The Times of India
+- Description: Three individuals were apprehended in Haridwar's Landaura area after a shooting incident left one person dead and another injured. Identified as Ankush, Abhishek, and Prashant, the suspects were caught following a police operation. The police recovered a coun…
+
 
 ### DRUG RELATED on 2025-03-03 00:58
 - Location: Bangkok Post
@@ -43,9 +48,4 @@ bution.svg)
 - Location: ComputerWeekly.com
 - Description: The non-profit organisation suffered a ransomware attack that impacted some servers containing employee and member data, prompting an investigation and enhanced security measures
 
-
-### SHOOTING on 2025-03-03 00:20
-- Location: INFORUM
-- Description: Competitors from North Dakota Elite were there when panic struck at a Dallas convention center Saturday.
-
-Analysis generated at: Tue Mar  4 01:01:16 UTC 2025
+Analysis generated at: Tue Mar  4 01:42:05 UTC 2025
