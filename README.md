@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Mar  4 01:42:05 UTC 2025
+Last updated: Tue Mar  4 06:18:15 UTC 2025
 
 ## Latest Analysis
 
-Loaded 17878 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-03 01:22:32
+Loaded 17905 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-03 06:00:00
 
 Incidents by source:
 source
-newsapi           17777
+newsapi           17804
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-03-03 01:22
-- Location: The Times of India
-- Description: Three individuals were apprehended in Haridwar's Landaura area after a shooting incident left one person dead and another injured. Identified as Ankush, Abhishek, and Prashant, the suspects were caught following a police operation. The police recovered a coun…
+### OTHER on 2025-03-03 06:00
+- Location: Naturalnews.com
+- Description: The April 1 election for Wisconsin’s Supreme Court is a critical battleground, with the outcome determining whether liberals maintain a 4-3 majority. Key issues like abortion, union rights, election law, and redistricting are at stake, potentially reshaping W…
 
 
-### DRUG RELATED on 2025-03-03 00:58
-- Location: Bangkok Post
-- Description: Phuket is ramping up its immigration screenings and crackdowns on illegal activities following a surge in the number of drug-related crimes and foreigners working on the island illegally.
+### OTHER on 2025-03-03 06:00
+- Location: Naturalnews.com
+- Description: Israel halts all humanitarian aid to Gaza, pressuring Hamas to extend a fragile ceasefire and sparking widespread condemnation. Hamas rejected a U.S.-backed proposal to prolong the truce, leading to the aid suspension and stalled negotiations. The first cease…
 
 
-### HOMICIDE on 2025-03-03 00:34
-- Location: Borderlandbeat.com
-- Description: "Socalj" for Borderland Beat At Rafael Caro-Quintero's arraignment in New York federal court, Assistant US Attorney Saritha Komatireddy said...
+### ROBBERY/THEFT on 2025-03-03 05:19
+- Location: BBC News
+- Description: Thousands of pounds were stolen after EDF gave his mobile number to scammers, says Stephen.
 
 
-### OTHER on 2025-03-03 00:30
-- Location: New York Post
-- Description: With even the Rev. Al Sharpton now calling for changes to the state’s 2019 "discovery" reforms, it should be obvious that only the most pig-headed ideologues still defend the changes.
+### OTHER on 2025-03-03 05:04
+- Location: Juancole.com
+- Description: by Anna Maria Barry-Jester and Brett Murphy ( ProPublica ) - After the Trump administration moved to freeze nearly $60 billion in foreign aid in January, officials like Secretary of State Marco Rubio repeatedly assured Americans that lifesaving operations wou…
 
 
-### ASSAULT on 2025-03-03 00:22
-- Location: ComputerWeekly.com
-- Description: The non-profit organisation suffered a ransomware attack that impacted some servers containing employee and member data, prompting an investigation and enhanced security measures
+### OTHER on 2025-03-03 05:03
+- Location: ABC News (AU)
+- Description: Former military lawyer David McBride challenges his jail sentence for distributing classified material to journalists over a ruling he says deprived him of a defence.
 
-Analysis generated at: Tue Mar  4 01:42:05 UTC 2025
+Analysis generated at: Tue Mar  4 06:18:15 UTC 2025
