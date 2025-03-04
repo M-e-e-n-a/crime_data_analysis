@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Mar  4 06:18:15 UTC 2025
+Last updated: Tue Mar  4 12:24:43 UTC 2025
 
 ## Latest Analysis
 
-Loaded 17905 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-03 06:00:00
+Loaded 17959 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-03 12:17:11
 
 Incidents by source:
 source
-newsapi           17804
+newsapi           17858
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-03-03 06:00
-- Location: Naturalnews.com
-- Description: The April 1 election for Wisconsin’s Supreme Court is a critical battleground, with the outcome determining whether liberals maintain a 4-3 majority. Key issues like abortion, union rights, election law, and redistricting are at stake, potentially reshaping W…
+### ASSAULT on 2025-03-03 12:17
+- Location: YLE News
+- Description: Juhani Sebastian Lämsä, who has a history of neo-Nazi and far-right activity, attacked two children of foreign background at a shopping centre in Oulu last summer.
 
 
-### OTHER on 2025-03-03 06:00
-- Location: Naturalnews.com
-- Description: Israel halts all humanitarian aid to Gaza, pressuring Hamas to extend a fragile ceasefire and sparking widespread condemnation. Hamas rejected a U.S.-backed proposal to prolong the truce, leading to the aid suspension and stalled negotiations. The first cease…
+### OTHER on 2025-03-03 12:15
+- Location: Khabarhub.com
+- Description: KATHMANDU: Tensions between the government and local stakeholders are escalating in Pathibhara-Mukkumlung, located in Taplejung in the far east of Nepal. A movement is underway demanding that the proposed cable car project not be built in the area. However, a…
 
 
-### ROBBERY/THEFT on 2025-03-03 05:19
-- Location: BBC News
-- Description: Thousands of pounds were stolen after EDF gave his mobile number to scammers, says Stephen.
+### SHOOTING on 2025-03-03 12:13
+- Location: NBC News
+- Description: Zelenskyy ready to sign a minerals deal despite tense meeting with Trump. Anora wins 5 Oscars. Highland park mass shooting trial begins. Measles crisis.
 
 
-### OTHER on 2025-03-03 05:04
-- Location: Juancole.com
-- Description: by Anna Maria Barry-Jester and Brett Murphy ( ProPublica ) - After the Trump administration moved to freeze nearly $60 billion in foreign aid in January, officials like Secretary of State Marco Rubio repeatedly assured Americans that lifesaving operations wou…
+### OTHER on 2025-03-03 12:10
+- Location: Screen Rant
+- Description: Seth is one of the worst trainees on The Rookie ever, but I'm grateful for the entertainment factor he brings and the Chenford scenes he provokes.
 
 
-### OTHER on 2025-03-03 05:03
-- Location: ABC News (AU)
-- Description: Former military lawyer David McBride challenges his jail sentence for distributing classified material to journalists over a ruling he says deprived him of a defence.
+### OTHER on 2025-03-03 12:00
+- Location: Fox News
+- Description: Craig Morgan is excited about the changes that he is already seeing after President Donald Trump took office. The country star said that pride in America is surging under the new administration.
 
-Analysis generated at: Tue Mar  4 06:18:15 UTC 2025
+Analysis generated at: Tue Mar  4 12:24:43 UTC 2025
