@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Mar  3 18:17:35 UTC 2025
+Last updated: Tue Mar  4 01:01:16 UTC 2025
 
 ## Latest Analysis
 
-Loaded 17865 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-02 18:10:55
+Loaded 17877 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-03 00:58:00
 
 Incidents by source:
 source
-newsapi           17764
+newsapi           17776
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-03-02 18:10
-- Location: BBC News
-- Description: Two arrested after the body of 47-year-old Leanne Williams is found by police officers at her home.
+### DRUG RELATED on 2025-03-03 00:58
+- Location: Bangkok Post
+- Description: Phuket is ramping up its immigration screenings and crackdowns on illegal activities following a surge in the number of drug-related crimes and foreigners working on the island illegally.
 
 
-### OTHER on 2025-03-02 18:10
-- Location: ABC News (AU)
-- Description: The ABC spoke to a number of people living in St Albans, in Melbourne's west, on issues that they see as key ahead of the federal election.
+### HOMICIDE on 2025-03-03 00:34
+- Location: Borderlandbeat.com
+- Description: "Socalj" for Borderland Beat At Rafael Caro-Quintero's arraignment in New York federal court, Assistant US Attorney Saritha Komatireddy said...
 
 
-### OTHER on 2025-03-02 18:00
-- Location: /FILM
-- Description: Will Poulter once had a lead role in a critically-acclaimed BritBox miniseries based on a mystery novel by Agatha Christie.
+### OTHER on 2025-03-03 00:30
+- Location: New York Post
+- Description: With even the Rev. Al Sharpton now calling for changes to the state’s 2019 "discovery" reforms, it should be obvious that only the most pig-headed ideologues still defend the changes.
 
 
-### SHOOTING on 2025-03-02 18:00
-- Location: The Virginian-Pilot
-- Description: Virginia Beach police officers Cameron Girvin, 25, and Christopher Reese, 30, were shot the night of Feb. 21 while conducting a traffic stop in the city.
+### ASSAULT on 2025-03-03 00:22
+- Location: ComputerWeekly.com
+- Description: The non-profit organisation suffered a ransomware attack that impacted some servers containing employee and member data, prompting an investigation and enhanced security measures
 
 
-### HOMICIDE on 2025-03-02 17:56
-- Location: Yahoo Entertainment
-- Description: None
+### SHOOTING on 2025-03-03 00:20
+- Location: INFORUM
+- Description: Competitors from North Dakota Elite were there when panic struck at a Dallas convention center Saturday.
 
-Analysis generated at: Mon Mar  3 18:17:35 UTC 2025
+Analysis generated at: Tue Mar  4 01:01:16 UTC 2025
