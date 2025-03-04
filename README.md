@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Mar  4 12:41:34 UTC 2025
+Last updated: Tue Mar  4 18:17:52 UTC 2025
 
 ## Latest Analysis
 
-Loaded 17962 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-03 12:32:52
+Loaded 18041 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-03 18:12:51
 
 Incidents by source:
 source
-newsapi           17861
+newsapi           17940
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-03-03 12:32
-- Location: Africasacountry.com
-- Description: The massacre of artisanal miners in Stilfontein exposes the South African state’s violent allegiance to corporate interests and a long legacy of extraction and dispossession.
+### OTHER on 2025-03-03 18:12
+- Location: CBC News
+- Description: A 57-year-old woman died after she was hit by a vehicle on Friday night, Winnipeg police say.
 
 
-### SHOOTING on 2025-03-03 12:30
-- Location: LADbible
-- Description: A manhunt is currently under way for an assailant who shot at the house of an insurance company CEO in Oregon, USA, following UnitedHealthcare CEO shootingg
+### HOMICIDE on 2025-03-03 18:10
+- Location: Newsweek
+- Description: Casey Anthony, who was found not guilty of murder, joined TikTok to advocate for herself and her daughter.
 
 
-### OTHER on 2025-03-03 12:30
-- Location: Poynter
-- Description: Today’s newsletter is a little different. I want to tell you about a special project we’re launching today that is part of our celebration of Poynter’s 50th anniversary. And we […]
-The post Introducing The Poynter 50, a yearlong look at consequential people a…
+### OTHER on 2025-03-03 18:06
+- Location: Yahoo Entertainment
+- Description: Yahoo Sports fantasy analyst Dan Titus gives his list of pickups for Week 18 and explains why the Philadelphia 76ers swingman is a must add. Plus, Titus provides days and teams to exploit for streaming this week.
 
 
-### ASSAULT on 2025-03-03 12:17
-- Location: YLE News
-- Description: Juhani Sebastian Lämsä, who has a history of neo-Nazi and far-right activity, attacked two children of foreign background at a shopping centre in Oulu last summer.
+### HOMICIDE on 2025-03-03 18:06
+- Location: Rolling Stone
+- Description: Robert E. Crimo III will likely spend the rest of his life in prison after killing seven at a 2022 Independence Day parade in the Chicago suburbs
 
 
-### OTHER on 2025-03-03 12:15
-- Location: Khabarhub.com
-- Description: KATHMANDU: Tensions between the government and local stakeholders are escalating in Pathibhara-Mukkumlung, located in Taplejung in the far east of Nepal. A movement is underway demanding that the proposed cable car project not be built in the area. However, a…
+### OTHER on 2025-03-03 18:00
+- Location: spacing.ca
+- Description: Many settlers in Vancouver had no idea that the land by the south end of the Burrard Bridge was once a village home to the Sḵwx̱wú7mesh people. When the Squamish Nation announced its plans to develop housing on the land in 2019, CBC published a story about …
 
-Analysis generated at: Tue Mar  4 12:41:34 UTC 2025
+Analysis generated at: Tue Mar  4 18:17:52 UTC 2025
