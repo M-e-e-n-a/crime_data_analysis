@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Mar  4 12:24:43 UTC 2025
+Last updated: Tue Mar  4 12:41:34 UTC 2025
 
 ## Latest Analysis
 
-Loaded 17959 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-03 12:17:11
+Loaded 17962 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-03 12:32:52
 
 Incidents by source:
 source
-newsapi           17858
+newsapi           17861
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,6 +24,22 @@ bution.svg)
 
 ## Recent Incidents
 
+### HOMICIDE on 2025-03-03 12:32
+- Location: Africasacountry.com
+- Description: The massacre of artisanal miners in Stilfontein exposes the South African state’s violent allegiance to corporate interests and a long legacy of extraction and dispossession.
+
+
+### SHOOTING on 2025-03-03 12:30
+- Location: LADbible
+- Description: A manhunt is currently under way for an assailant who shot at the house of an insurance company CEO in Oregon, USA, following UnitedHealthcare CEO shootingg
+
+
+### OTHER on 2025-03-03 12:30
+- Location: Poynter
+- Description: Today’s newsletter is a little different. I want to tell you about a special project we’re launching today that is part of our celebration of Poynter’s 50th anniversary. And we […]
+The post Introducing The Poynter 50, a yearlong look at consequential people a…
+
+
 ### ASSAULT on 2025-03-03 12:17
 - Location: YLE News
 - Description: Juhani Sebastian Lämsä, who has a history of neo-Nazi and far-right activity, attacked two children of foreign background at a shopping centre in Oulu last summer.
@@ -33,19 +49,4 @@ bution.svg)
 - Location: Khabarhub.com
 - Description: KATHMANDU: Tensions between the government and local stakeholders are escalating in Pathibhara-Mukkumlung, located in Taplejung in the far east of Nepal. A movement is underway demanding that the proposed cable car project not be built in the area. However, a…
 
-
-### SHOOTING on 2025-03-03 12:13
-- Location: NBC News
-- Description: Zelenskyy ready to sign a minerals deal despite tense meeting with Trump. Anora wins 5 Oscars. Highland park mass shooting trial begins. Measles crisis.
-
-
-### OTHER on 2025-03-03 12:10
-- Location: Screen Rant
-- Description: Seth is one of the worst trainees on The Rookie ever, but I'm grateful for the entertainment factor he brings and the Chenford scenes he provokes.
-
-
-### OTHER on 2025-03-03 12:00
-- Location: Fox News
-- Description: Craig Morgan is excited about the changes that he is already seeing after President Donald Trump took office. The country star said that pride in America is surging under the new administration.
-
-Analysis generated at: Tue Mar  4 12:24:43 UTC 2025
+Analysis generated at: Tue Mar  4 12:41:34 UTC 2025
