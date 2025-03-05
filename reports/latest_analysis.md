@@ -1,10 +1,10 @@
 
-Loaded 18099 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-04 06:07:43
+Loaded 18153 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-04 12:22:48
 
 Incidents by source:
 source
-newsapi           17998
+newsapi           18052
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-03-04 06:07
-- Location: EURACTIV
-- Description: Organisational changes and staff departure had a negative impact.
+### ROBBERY/THEFT on 2025-03-04 12:22
+- Location: The Punch
+- Description: The Enugu State Police Command has arrested seven male suspects for alleged conspiracy and armed robbery. According to a statement by the Command’s spokesperson, SP Daniel Ndukwe, on Tuesday, the suspects were arrested by detectives attached to the Command’s …
 
 
-### HOMICIDE on 2025-03-04 06:05
-- Location: Breitbart News
-- Description: Former murder suspect Casey Anthony, who was acquitted in the death of her two-year-old daughter, has rebranded herself as a civil rights activist to oppose President Donald Trump.
-The post Former Murder Suspect Casey Anthony Rebrands Herself as Civil Rights …
+### SHOOTING on 2025-03-04 12:19
+- Location: Newsweek
+- Description: Police said the popular online streamer was sleeping when three men entered her Houston home.
 
 
-### HOMICIDE on 2025-03-04 06:03
-- Location: BusinessLine
-- Description: Maharashtra minister Dhananjay Munde on Tuesday resigned from the state cabinet, days after his close aide Walmik Karad was named as the mastermind in the Beed sarpanch murder case.
+### HOMICIDE on 2025-03-04 12:03
+- Location: Africasacountry.com
+- Description: Mozambique’s disputed elections triggered a deadly uprising, as citizens resisted Frelimo’s rule and exposed the cracks in neoliberal policies.
 
 
-### OTHER on 2025-03-04 06:03
-- Location: The Star Online
-- Description: SEREMBAN: A 23-year-old babysitter was sentenced to serve 12 months in jail by the Sessions Court here after she pleaded guilty to a charge of causing injury and negligence by exposing a three-year-old toddler left under her care to danger. Read full story
+### OTHER on 2025-03-04 12:03
+- Location: Bangkok Post
+- Description: <p>A durian and banana farm has been found on a 400-rai plot of land in a national reserved forest in Khlung district of Chanthaburi. Authorities are working to identify the owner.</p>
 
 
-### OTHER on 2025-03-04 06:02
-- Location: Insurance Journal
-- Description: MIAMI BEACH, Fla. (AP) — Miami Beach broke up with spring break last year and city leaders still aren’t interested in couples counseling. Officials recently announced they were bringing back enhanced security measures for practically the entire month of March…
+### SHOOTING on 2025-03-04 12:00
+- Location: NBC News
+- Description: The case concerns a lawsuit filed by the Mexican government against gun companies seeking accountability for gun violence epidemic.
 
-Analysis generated at: Wed Mar  5 06:18:31 UTC 2025
+Analysis generated at: Wed Mar  5 12:25:06 UTC 2025
