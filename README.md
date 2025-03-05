@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Mar  4 18:17:52 UTC 2025
+Last updated: Wed Mar  5 01:01:23 UTC 2025
 
 ## Latest Analysis
 
-Loaded 18041 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-03 18:12:51
+Loaded 18055 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-04 01:00:08
 
 Incidents by source:
 source
-newsapi           17940
+newsapi           17954
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-03-03 18:12
-- Location: CBC News
-- Description: A 57-year-old woman died after she was hit by a vehicle on Friday night, Winnipeg police say.
+### SHOOTING on 2025-03-04 01:00
+- Location: ABC News
+- Description: Police say a security guard at an Arizona emergency medical facility was shot and wounded and a suspect is in custody
 
 
-### HOMICIDE on 2025-03-03 18:10
-- Location: Newsweek
-- Description: Casey Anthony, who was found not guilty of murder, joined TikTok to advocate for herself and her daughter.
+### OTHER on 2025-03-04 01:00
+- Location: The Daily Dot
+- Description: Prank delivery orders can be a nuisance not just for the recipient, but for the business involved. It wastes time, money, and resources. Unfortunately, TikToker Jess Marsh (@jess_marsh13) is well-versed in this. She experienced an onslaught of unwanted food d…
 
 
-### OTHER on 2025-03-03 18:06
-- Location: Yahoo Entertainment
-- Description: Yahoo Sports fantasy analyst Dan Titus gives his list of pickups for Week 18 and explains why the Philadelphia 76ers swingman is a must add. Plus, Titus provides days and teams to exploit for streaming this week.
+### OTHER on 2025-03-04 00:56
+- Location: The Punch
+- Description: A large crowd of commuters were on Monday sighted on an alternative pedestrian bridge in the Oshodi area of Lagos State. PUNCH Metro learnt this was due to the closure of the pedestrian bridge linking Oshodi Bus Terminals 2 and 3. The Lagos State Government h…
 
 
-### HOMICIDE on 2025-03-03 18:06
-- Location: Rolling Stone
-- Description: Robert E. Crimo III will likely spend the rest of his life in prison after killing seven at a 2022 Independence Day parade in the Chicago suburbs
+### OTHER on 2025-03-04 00:52
+- Location: The Punch
+- Description: Senator Ned Nwoko represents Delta North Senatorial District in the upper chamber of the National Assembly. The former member of the House of Representatives speaks to OLAJIDE OMOJOLOMOJU and PATRICK IJEGBAI on the need for Nigeria to attain a nation-state, w…
 
 
-### OTHER on 2025-03-03 18:00
-- Location: spacing.ca
-- Description: Many settlers in Vancouver had no idea that the land by the south end of the Burrard Bridge was once a village home to the Sḵwx̱wú7mesh people. When the Squamish Nation announced its plans to develop housing on the land in 2019, CBC published a story about …
+### ROBBERY/THEFT on 2025-03-04 00:45
+- Location: Bangkok Post
+- Description: <p>THE HAGUE - With the help of a well-known art detective and arts magazine journalists, Dutch police say they have cracked the case of the mysterious disappearance of a Brueghel painting from a Polish museum 50 years ago.</p>
 
-Analysis generated at: Tue Mar  4 18:17:52 UTC 2025
+Analysis generated at: Wed Mar  5 01:01:23 UTC 2025
