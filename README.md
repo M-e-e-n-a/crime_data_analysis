@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Mar  5 01:01:23 UTC 2025
+Last updated: Wed Mar  5 01:41:48 UTC 2025
 
 ## Latest Analysis
 
-Loaded 18055 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-04 01:00:08
+Loaded 18058 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-04 01:38:01
 
 Incidents by source:
 source
-newsapi           17954
+newsapi           17957
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,6 +24,21 @@ bution.svg)
 
 ## Recent Incidents
 
+### OTHER on 2025-03-04 01:38
+- Location: ABC News
+- Description: Asunción Estevan Chico, 91, was able to listen to her father's singing on tapes he recorded for his wife in the 1970s.
+
+
+### OTHER on 2025-03-04 01:15
+- Location: Khabarhub.com
+- Description: KATHMANDU: Sudarshan Pariyar (name changed) was sexually abused by his uncle starting at the age of 11. His uncle would give him chocolates, sometimes take him for walks, and feed him sweet snacks. The bond between uncles and nephews is generally close, with …
+
+
+### HOMICIDE on 2025-03-04 01:10
+- Location: WSB Atlanta
+- Description: A video recorded by a neighbor showed the woman with a knife, sitting by a naked man with multiple stab wounds.
+
+
 ### SHOOTING on 2025-03-04 01:00
 - Location: ABC News
 - Description: Police say a security guard at an Arizona emergency medical facility was shot and wounded and a suspect is in custody
@@ -33,19 +48,4 @@ bution.svg)
 - Location: The Daily Dot
 - Description: Prank delivery orders can be a nuisance not just for the recipient, but for the business involved. It wastes time, money, and resources. Unfortunately, TikToker Jess Marsh (@jess_marsh13) is well-versed in this. She experienced an onslaught of unwanted food d…
 
-
-### OTHER on 2025-03-04 00:56
-- Location: The Punch
-- Description: A large crowd of commuters were on Monday sighted on an alternative pedestrian bridge in the Oshodi area of Lagos State. PUNCH Metro learnt this was due to the closure of the pedestrian bridge linking Oshodi Bus Terminals 2 and 3. The Lagos State Government h…
-
-
-### OTHER on 2025-03-04 00:52
-- Location: The Punch
-- Description: Senator Ned Nwoko represents Delta North Senatorial District in the upper chamber of the National Assembly. The former member of the House of Representatives speaks to OLAJIDE OMOJOLOMOJU and PATRICK IJEGBAI on the need for Nigeria to attain a nation-state, w…
-
-
-### ROBBERY/THEFT on 2025-03-04 00:45
-- Location: Bangkok Post
-- Description: <p>THE HAGUE - With the help of a well-known art detective and arts magazine journalists, Dutch police say they have cracked the case of the mysterious disappearance of a Brueghel painting from a Polish museum 50 years ago.</p>
-
-Analysis generated at: Wed Mar  5 01:01:23 UTC 2025
+Analysis generated at: Wed Mar  5 01:41:48 UTC 2025
