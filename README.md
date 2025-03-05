@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Mar  5 12:41:28 UTC 2025
+Last updated: Wed Mar  5 18:18:41 UTC 2025
 
 ## Latest Analysis
 
-Loaded 18154 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-04 12:37:50
+Loaded 18245 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-04 18:17:44
 
 Incidents by source:
 source
-newsapi           18053
+newsapi           18144
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-03-04 12:37
+### OTHER on 2025-03-04 18:17
+- Location: Newsbreak.com
+- Description: Donald Trump has taken to social media to warn protestors that they could be sent back to their own country or imprisoned, while also taking aim at schools
+
+
+### OTHER on 2025-03-04 18:16
 - Location: NDTV News
-- Description: A 40-year-old man in Odisha&#039;s Mayurbhanj district beheaded his father on Tuesday after he refused to give him Rs 10 to buy &#039;gutkha&#039;, police said.
+- Description: The Uttar Pradesh Police on Tuesday booked embattled real estate developer Ansal Group for alleged cheating, breach of trust, criminal conspiracy and organised crime, officials said.
 
 
-### ROBBERY/THEFT on 2025-03-04 12:22
-- Location: The Punch
-- Description: The Enugu State Police Command has arrested seven male suspects for alleged conspiracy and armed robbery. According to a statement by the Command’s spokesperson, SP Daniel Ndukwe, on Tuesday, the suspects were arrested by detectives attached to the Command’s …
+### SHOOTING on 2025-03-04 18:15
+- Location: ARLnow
+- Description: A D.C. man accused of initiating a gunfight at a Ballston apartment building early New Year's Day did so with an illegally modified handgun, according to police. The handgun that Malachi Rawlings allegedly used was equipped with an extended magazine and an au…
 
 
-### SHOOTING on 2025-03-04 12:19
-- Location: Newsweek
-- Description: Police said the popular online streamer was sleeping when three men entered her Houston home.
+### OTHER on 2025-03-04 18:09
+- Location: The Conversation Africa
+- Description: Covert tactics are an essential investigative tool in tackling contemporary organised and serious crime – they are not intended to police the 4th estate.
 
 
-### HOMICIDE on 2025-03-04 12:03
-- Location: Africasacountry.com
-- Description: Mozambique’s disputed elections triggered a deadly uprising, as citizens resisted Frelimo’s rule and exposed the cracks in neoliberal policies.
+### OTHER on 2025-03-04 18:05
+- Location: phillymag.com
+- Description: Check phillymag.com each morning Monday through Thursday for the latest edition of Philly Today. And if you have a news tip for our hardworking Philly […]
 
-
-### OTHER on 2025-03-04 12:03
-- Location: Bangkok Post
-- Description: <p>A durian and banana farm has been found on a 400-rai plot of land in a national reserved forest in Khlung district of Chanthaburi. Authorities are working to identify the owner.</p>
-
-Analysis generated at: Wed Mar  5 12:41:28 UTC 2025
+Analysis generated at: Wed Mar  5 18:18:41 UTC 2025
