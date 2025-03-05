@@ -1,10 +1,10 @@
 
-Loaded 18058 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-04 01:38:01
+Loaded 18099 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-04 06:07:43
 
 Incidents by source:
 source
-newsapi           17957
+newsapi           17998
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-03-04 01:38
-- Location: ABC News
-- Description: Asunción Estevan Chico, 91, was able to listen to her father's singing on tapes he recorded for his wife in the 1970s.
+### OTHER on 2025-03-04 06:07
+- Location: EURACTIV
+- Description: Organisational changes and staff departure had a negative impact.
 
 
-### OTHER on 2025-03-04 01:15
-- Location: Khabarhub.com
-- Description: KATHMANDU: Sudarshan Pariyar (name changed) was sexually abused by his uncle starting at the age of 11. His uncle would give him chocolates, sometimes take him for walks, and feed him sweet snacks. The bond between uncles and nephews is generally close, with …
+### HOMICIDE on 2025-03-04 06:05
+- Location: Breitbart News
+- Description: Former murder suspect Casey Anthony, who was acquitted in the death of her two-year-old daughter, has rebranded herself as a civil rights activist to oppose President Donald Trump.
+The post Former Murder Suspect Casey Anthony Rebrands Herself as Civil Rights …
 
 
-### HOMICIDE on 2025-03-04 01:10
-- Location: WSB Atlanta
-- Description: A video recorded by a neighbor showed the woman with a knife, sitting by a naked man with multiple stab wounds.
+### HOMICIDE on 2025-03-04 06:03
+- Location: BusinessLine
+- Description: Maharashtra minister Dhananjay Munde on Tuesday resigned from the state cabinet, days after his close aide Walmik Karad was named as the mastermind in the Beed sarpanch murder case.
 
 
-### SHOOTING on 2025-03-04 01:00
-- Location: ABC News
-- Description: Police say a security guard at an Arizona emergency medical facility was shot and wounded and a suspect is in custody
+### OTHER on 2025-03-04 06:03
+- Location: The Star Online
+- Description: SEREMBAN: A 23-year-old babysitter was sentenced to serve 12 months in jail by the Sessions Court here after she pleaded guilty to a charge of causing injury and negligence by exposing a three-year-old toddler left under her care to danger. Read full story
 
 
-### OTHER on 2025-03-04 01:00
-- Location: The Daily Dot
-- Description: Prank delivery orders can be a nuisance not just for the recipient, but for the business involved. It wastes time, money, and resources. Unfortunately, TikToker Jess Marsh (@jess_marsh13) is well-versed in this. She experienced an onslaught of unwanted food d…
+### OTHER on 2025-03-04 06:02
+- Location: Insurance Journal
+- Description: MIAMI BEACH, Fla. (AP) — Miami Beach broke up with spring break last year and city leaders still aren’t interested in couples counseling. Officials recently announced they were bringing back enhanced security measures for practically the entire month of March…
 
-Analysis generated at: Wed Mar  5 01:41:48 UTC 2025
+Analysis generated at: Wed Mar  5 06:18:31 UTC 2025
