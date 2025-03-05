@@ -1,10 +1,10 @@
 
-Loaded 18153 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-04 12:22:48
+Loaded 18154 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-04 12:37:50
 
 Incidents by source:
 source
-newsapi           18052
+newsapi           18053
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -19,6 +19,11 @@ bution.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### HOMICIDE on 2025-03-04 12:37
+- Location: NDTV News
+- Description: A 40-year-old man in Odisha&#039;s Mayurbhanj district beheaded his father on Tuesday after he refused to give him Rs 10 to buy &#039;gutkha&#039;, police said.
+
 
 ### ROBBERY/THEFT on 2025-03-04 12:22
 - Location: The Punch
@@ -39,9 +44,4 @@ bution.svg)
 - Location: Bangkok Post
 - Description: <p>A durian and banana farm has been found on a 400-rai plot of land in a national reserved forest in Khlung district of Chanthaburi. Authorities are working to identify the owner.</p>
 
-
-### SHOOTING on 2025-03-04 12:00
-- Location: NBC News
-- Description: The case concerns a lawsuit filed by the Mexican government against gun companies seeking accountability for gun violence epidemic.
-
-Analysis generated at: Wed Mar  5 12:25:06 UTC 2025
+Analysis generated at: Wed Mar  5 12:41:28 UTC 2025
