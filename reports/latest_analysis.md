@@ -1,10 +1,10 @@
 
-Loaded 18259 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-05 01:38:09
+Loaded 18307 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-05 06:16:40
 
 Incidents by source:
 source
-newsapi           18158
+newsapi           18206
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-03-05 01:38
-- Location: The Punch
-- Description: One Abdulmalik Sanni has been arrested by the Ogun State Police Command for allegedly defiling a 16-year-old in Igbesa, located in Ado-Odo/Ota Local Government Area of the state. The spokesperson for the state command, CSP Omolola Odutola, said in a statement…
+### OTHER on 2025-03-05 06:16
+- Location: Hurriyet Daily News
+- Description: An emergency Arab summit in Cairo on Tuesday adopted Egypt’s reconstruction plan to rebuild the Gaza Strip.
 
 
-### OTHER on 2025-03-05 01:30
-- Location: Newsweek
-- Description: Donald Trump has threatened to cut federal funding for colleges that allow "illegal" protests, sparking debates on free speech and institutional policies.
+### SHOOTING on 2025-03-05 06:12
+- Location: Cointelegraph
+- Description: Australia’s finance regulator alleges that Brendan Gunn dealt with the possible proceeds of crime from “victim investors who deposited funds for conversion to cryptocurrency.”
 
 
-### ASSAULT on 2025-03-05 01:28
-- Location: New York Post
-- Description: As mayor of New York City and a former police officer for 22 years, keeping New Yorkers safe is my top priority.
+### OTHER on 2025-03-05 06:09
+- Location: Securityaffairs.com
+- Description: U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Linux kernel and VMware ESXi and Workstation flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added the following vulnerabi…
 
 
-### OTHER on 2025-03-05 01:27
-- Location: Digital Journal
-- Description: Florida’s attorney general said Tuesday that a criminal investigation has been opened into self-described misogynist influencer Andrew Tate and his brother, who flew to the southern US state last week from Romania, where they faced rape and human trafficking …
+### SHOOTING on 2025-03-05 05:52
+- Location: ABC News (AU)
+- Description: Four men are arrested in raids at homes in Queanbeyan, Gundaroo and Nanima, with police allegedly seizing a number of items including dozens of guns, parts, ammunition and blueprints for 3D-printed firearms.
 
 
-### ASSAULT on 2025-03-05 01:21
-- Location: New York Post
-- Description: Tisch had even more pointed rhetoric for many of the protesters who demonstrated on college campuses, events she described as “especially despicable."
+### OTHER on 2025-03-05 05:51
+- Location: The Star Online
+- Description: KUALA LUMPUR: Five individuals believed to be mule account holders were detained in connection with a forex investment scam. Read full story
 
-Analysis generated at: Thu Mar  6 01:42:21 UTC 2025
+Analysis generated at: Thu Mar  6 06:18:29 UTC 2025
