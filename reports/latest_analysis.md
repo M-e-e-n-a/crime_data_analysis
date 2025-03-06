@@ -1,10 +1,10 @@
 
-Loaded 18371 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-05 12:23:57
+Loaded 18373 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-05 12:31:56
 
 Incidents by source:
 source
-newsapi           18270
+newsapi           18272
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,6 +20,16 @@ bution.svg)
 
 ## Recent Incidents
 
+### OTHER on 2025-03-05 12:31
+- Location: The Federalist
+- Description: In a take-no-prisoners speech before a joint session of Congress Tuesday, Trump reminded the minority party that elections have consequences.
+
+
+### HOMICIDE on 2025-03-05 12:30
+- Location: WFTV Orlando
+- Description: Madeline Soto: New evidence released as case builds in 13-year-old girl’s deathwftv.com
+
+
 ### HOMICIDE on 2025-03-05 12:23
 - Location: Newsbreak.com
 - Description: Elon Musk amplified controversial podcaster Ben Shapiro’s plea for President Donald Trump to pardon former Minneapolis police officer Derek Chauvin for the
@@ -34,14 +44,4 @@ bution.svg)
 - Location: Al Jazeera English
 - Description: In his Congress speech, Trump made claims about Mexico's extradition of drug lords, aid to Ukraine and immigration.
 
-
-### HOMICIDE on 2025-03-05 12:15
-- Location: fox6now.com
-- Description: Caledonia police are investigating a homicide that occurred on Tuesday, March 4. A 15-year-old boy has been arrested.
-
-
-### DRUG RELATED on 2025-03-05 12:06
-- Location: Forbes
-- Description: Colombian President Gustavo Petro has asked Congress to legalize cannabis, arguing that prohibition fuels violence from cartels in the illicit market, which has recent...
-
-Analysis generated at: Thu Mar  6 12:25:17 UTC 2025
+Analysis generated at: Thu Mar  6 12:41:49 UTC 2025
