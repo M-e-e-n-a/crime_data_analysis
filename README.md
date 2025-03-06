@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Mar  5 18:18:41 UTC 2025
+Last updated: Thu Mar  6 01:01:20 UTC 2025
 
 ## Latest Analysis
 
-Loaded 18245 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-04 18:17:44
+Loaded 18253 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-05 01:00:00
 
 Incidents by source:
 source
-newsapi           18144
+newsapi           18152
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-03-04 18:17
-- Location: Newsbreak.com
-- Description: Donald Trump has taken to social media to warn protestors that they could be sent back to their own country or imprisoned, while also taking aim at schools
+### SHOOTING on 2025-03-05 01:00
+- Location: Eonline.com
+- Description: Alec Baldwin's wife Hilaria Baldwin said the actor contemplated suicide after the 2021 shooting of Rust cinematographer Halyna Hutchins, who was fatally struck by a bullet from a prop gun in his hand.
 
 
-### OTHER on 2025-03-04 18:16
-- Location: NDTV News
-- Description: The Uttar Pradesh Police on Tuesday booked embattled real estate developer Ansal Group for alleged cheating, breach of trust, criminal conspiracy and organised crime, officials said.
+### HOMICIDE on 2025-03-05 00:41
+- Location: STLtoday.com
+- Description: Terrence White, 18, is facing murder charges after police say he killed a man then fled from police with two guns.
 
 
-### SHOOTING on 2025-03-04 18:15
-- Location: ARLnow
-- Description: A D.C. man accused of initiating a gunfight at a Ballston apartment building early New Year's Day did so with an illegally modified handgun, according to police. The handgun that Malachi Rawlings allegedly used was equipped with an extended magazine and an au…
-
-
-### OTHER on 2025-03-04 18:09
+### SHOOTING on 2025-03-05 00:33
 - Location: The Conversation Africa
-- Description: Covert tactics are an essential investigative tool in tackling contemporary organised and serious crime – they are not intended to police the 4th estate.
+- Description: Low-cost, untraceable firearms can now be made in suburban garages. Laws to deal with them are inconsistent and put community safety at risk.
 
 
-### OTHER on 2025-03-04 18:05
-- Location: phillymag.com
-- Description: Check phillymag.com each morning Monday through Thursday for the latest edition of Philly Today. And if you have a news tip for our hardworking Philly […]
+### OTHER on 2025-03-05 00:23
+- Location: CBC News
+- Description: Bear Clan Patrol is teaming up with Aboriginal Alert, and Winnipeg Crime Stoppers in hopes of finding more missing people, an initiative they say has been in the works for four years.
 
-Analysis generated at: Wed Mar  5 18:18:41 UTC 2025
+
+### OTHER on 2025-03-05 00:20
+- Location: Boston Herald
+- Description: Attorney General James Uthmeier says his office will work with police to conduct an inquiry.
+
+Analysis generated at: Thu Mar  6 01:01:20 UTC 2025
