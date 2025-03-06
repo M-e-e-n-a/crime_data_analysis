@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Mar  6 01:01:20 UTC 2025
+Last updated: Thu Mar  6 01:42:21 UTC 2025
 
 ## Latest Analysis
 
-Loaded 18253 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-05 01:00:00
+Loaded 18259 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-05 01:38:09
 
 Incidents by source:
 source
-newsapi           18152
+newsapi           18158
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-03-05 01:00
-- Location: Eonline.com
-- Description: Alec Baldwin's wife Hilaria Baldwin said the actor contemplated suicide after the 2021 shooting of Rust cinematographer Halyna Hutchins, who was fatally struck by a bullet from a prop gun in his hand.
+### SHOOTING on 2025-03-05 01:38
+- Location: The Punch
+- Description: One Abdulmalik Sanni has been arrested by the Ogun State Police Command for allegedly defiling a 16-year-old in Igbesa, located in Ado-Odo/Ota Local Government Area of the state. The spokesperson for the state command, CSP Omolola Odutola, said in a statement…
 
 
-### HOMICIDE on 2025-03-05 00:41
-- Location: STLtoday.com
-- Description: Terrence White, 18, is facing murder charges after police say he killed a man then fled from police with two guns.
+### OTHER on 2025-03-05 01:30
+- Location: Newsweek
+- Description: Donald Trump has threatened to cut federal funding for colleges that allow "illegal" protests, sparking debates on free speech and institutional policies.
 
 
-### SHOOTING on 2025-03-05 00:33
-- Location: The Conversation Africa
-- Description: Low-cost, untraceable firearms can now be made in suburban garages. Laws to deal with them are inconsistent and put community safety at risk.
+### ASSAULT on 2025-03-05 01:28
+- Location: New York Post
+- Description: As mayor of New York City and a former police officer for 22 years, keeping New Yorkers safe is my top priority.
 
 
-### OTHER on 2025-03-05 00:23
-- Location: CBC News
-- Description: Bear Clan Patrol is teaming up with Aboriginal Alert, and Winnipeg Crime Stoppers in hopes of finding more missing people, an initiative they say has been in the works for four years.
+### OTHER on 2025-03-05 01:27
+- Location: Digital Journal
+- Description: Florida’s attorney general said Tuesday that a criminal investigation has been opened into self-described misogynist influencer Andrew Tate and his brother, who flew to the southern US state last week from Romania, where they faced rape and human trafficking …
 
 
-### OTHER on 2025-03-05 00:20
-- Location: Boston Herald
-- Description: Attorney General James Uthmeier says his office will work with police to conduct an inquiry.
+### ASSAULT on 2025-03-05 01:21
+- Location: New York Post
+- Description: Tisch had even more pointed rhetoric for many of the protesters who demonstrated on college campuses, events she described as “especially despicable."
 
-Analysis generated at: Thu Mar  6 01:01:20 UTC 2025
+Analysis generated at: Thu Mar  6 01:42:21 UTC 2025
