@@ -1,10 +1,10 @@
 
-Loaded 18522 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-06 06:16:15
+Loaded 18580 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-06 12:15:50
 
 Incidents by source:
 source
-newsapi           18421
+newsapi           18479
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-03-06 06:16
-- Location: BBC News
-- Description: Alfie Lewis's mum, Heather Lane, describes seeing paramedics fight to save his life after stabbing.
+### HOMICIDE on 2025-03-06 12:15
+- Location: NBC News
+- Description: Elon Musk, Donald Trump, veterans affairs, Ukraine, Russia, Sam Nordquist killing, Lester Holt, Tom Llamas, NBC Nightly News egg prices, pasture-raised chickens
 
 
-### OTHER on 2025-03-06 06:00
-- Location: Newser
-- Description: The nation's capital city will remove the large painting of the words "Black Lives Matter" on a street one block from the White House as Washington, DC, Mayor Muriel Bowser struggles to fend off threats of encroachment from President Trump and the GOP-control…
+### OTHER on 2025-03-06 12:07
+- Location: Thepinknews.com
+- Description: Self-described “misogynist influencer” Andrew Tate and his brother Tristan – who recently flew to the US after facing rape and human-trafficking charges in Romania – are now being investigated for similar crimes in Florida. Florida’s attorney general James Ut…
 
 
-### OTHER on 2025-03-06 05:51
-- Location: The Times of India
-- Description: A notorious criminal from Nagpur, Sumit Thakur, was arrested after posting an Instagram reel to assert his dominance following his release on bail under the Maharashtra Prevention of Organized Crime Act. The video quickly caught the attention of the police, l…
+### HOMICIDE on 2025-03-06 12:05
+- Location: STLtoday.com
+- Description: Micah Lawery walked home and into a nightmare: she found her infant daughter and the baby's father bleeding on the couch.
 
 
-### ASSAULT on 2025-03-06 05:42
-- Location: New York Post
-- Description: The MK-82 bombs “abnormally” released by the KF-16 fighter jet fell outside a firing range, causing unspecified civilian damages, the air force said in a statement.
+### ASSAULT on 2025-03-06 12:00
+- Location: Foreign Policy
+- Description: In Colombia, environmental activists are under attack despite the president’s green promises.
 
 
-### HOMICIDE on 2025-03-06 05:35
-- Location: Freerepublic.com
-- Description: The United States has apprehended the top terrorist behind the bombing that killed 13 U.S. service members during the 2021 withdrawal from Afghanistan.U.S. Marines secure Abbey Gate after a suicide bomber detonated an explosion, outside Hamid Karzai Internati…
+### OTHER on 2025-03-06 12:00
+- Location: Teen Vogue
+- Description: We Have Rights is an animated “know your rights” short film series in eight languages on how to defend against the most common ICE tactics.
 
-Analysis generated at: Fri Mar  7 06:18:13 UTC 2025
+Analysis generated at: Fri Mar  7 12:24:06 UTC 2025
