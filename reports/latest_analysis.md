@@ -1,10 +1,10 @@
 
-Loaded 18483 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-06 01:41:01
+Loaded 18522 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-06 06:16:15
 
 Incidents by source:
 source
-newsapi           18382
+newsapi           18421
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-03-06 01:41
-- Location: The Denver Post
-- Description: An Aurora man was arrested on suspicion of murder after police say he intentionally crashed into a motorcycle rider in November, killing the man.
-
-
-### OTHER on 2025-03-06 01:33
-- Location: The Punch
-- Description: Governor of Delta State, Sheriff Oborevwori, has unveiled a modern investigation room and handed over equipment worth millions of naira to the Delta State Police Command for the speedy Administration of the Criminal Justice Law in the state. Governor Oborevwo…
-
-
-### OTHER on 2025-03-06 01:31
-- Location: The Denver Post
-- Description: No students were on the bus during the crash, according to a post on X from Greenwood Village.
-
-
-### OTHER on 2025-03-06 01:15
+### HOMICIDE on 2025-03-06 06:16
 - Location: BBC News
-- Description: Smacking is legal in some cases in England and Northern Ireland, but is banned in Scotland and Wales.
+- Description: Alfie Lewis's mum, Heather Lane, describes seeing paramedics fight to save his life after stabbing.
 
 
-### OTHER on 2025-03-06 01:14
-- Location: The Denver Post
-- Description: Johnston's appearance at a Wednesday congressional hearing was successful at least in one way: He appeared to avert any viral-video moments.
+### OTHER on 2025-03-06 06:00
+- Location: Newser
+- Description: The nation's capital city will remove the large painting of the words "Black Lives Matter" on a street one block from the White House as Washington, DC, Mayor Muriel Bowser struggles to fend off threats of encroachment from President Trump and the GOP-control…
 
-Analysis generated at: Fri Mar  7 01:42:33 UTC 2025
+
+### OTHER on 2025-03-06 05:51
+- Location: The Times of India
+- Description: A notorious criminal from Nagpur, Sumit Thakur, was arrested after posting an Instagram reel to assert his dominance following his release on bail under the Maharashtra Prevention of Organized Crime Act. The video quickly caught the attention of the police, l…
+
+
+### ASSAULT on 2025-03-06 05:42
+- Location: New York Post
+- Description: The MK-82 bombs “abnormally” released by the KF-16 fighter jet fell outside a firing range, causing unspecified civilian damages, the air force said in a statement.
+
+
+### HOMICIDE on 2025-03-06 05:35
+- Location: Freerepublic.com
+- Description: The United States has apprehended the top terrorist behind the bombing that killed 13 U.S. service members during the 2021 withdrawal from Afghanistan.U.S. Marines secure Abbey Gate after a suicide bomber detonated an explosion, outside Hamid Karzai Internati…
+
+Analysis generated at: Fri Mar  7 06:18:13 UTC 2025
