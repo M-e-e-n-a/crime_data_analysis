@@ -1,10 +1,10 @@
 
-Loaded 18693 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-07 01:15:25
+Loaded 18737 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-07 06:02:13
 
 Incidents by source:
 source
-newsapi           18592
+newsapi           18636
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2025-03-07 01:15
-- Location: NBC News
-- Description: A judge denied a motion to stop the release of a Wisconsin woman from a mental health facility more than a decade after she conspired to stab a classmate to please the fictional horror character “Slender Man."
-
-
-### OTHER on 2025-03-07 00:50
-- Location: Breitbart News
-- Description: Tim Parlatore, Navy veteran and personal lawyer for Defense Secretary Pete Hegseth, told Breitbart News on Wednesday that on Friday he will be commissioned into the United States Navy to serve the country in uniform once again.
-The post Defense Secretary Pete…
-
-
-### HOMICIDE on 2025-03-07 00:45
-- Location: Radaronline.com
-- Description: A woman is now claiming her ex-boyfriend Robert 'Chris' Wolf may be behind JonBenét Ramsey's murder, 30 years after the crime was committed.
-
-
-### OTHER on 2025-03-07 00:24
-- Location: The-independent.com
-- Description: Morgan Geyser and Anissa Weier were 12 years old in 2014 when they lured classmate Payton Leutner to a Wisconsin park and stabbed her 19 times in the name of Slender Man
-
-
-### OTHER on 2025-03-07 00:20
+### HOMICIDE on 2025-03-07 06:02
 - Location: ABC News (AU)
-- Description: An alleged threat of mass violence against a Sydney mosque sparked the arrest of a WA teenager, but did not breach Instagram's community guidelines.
+- Description: Connor Fuller, who bashed and killed 61-year-old Mark Tozer in a road-rage incident in South West Rocks in 2021, will spend at least 19 years behind bars, with the judge finding Fuller intended to kill his victim.
 
-Analysis generated at: Sat Mar  8 01:15:52 UTC 2025
+
+### SHOOTING on 2025-03-07 06:00
+- Location: Newser
+- Description: Police in Tigard, Oregon, are investigating gunshots fired at a Tesla dealership overnight, one of several recent incidents targeting Tesla dealerships that, police say, are politically motivated. The latest incident occurred at about 1:46am Thursday, the AP …
+
+
+### OTHER on 2025-03-07 06:00
+- Location: CinemaBlend
+- Description: Spanish-language thriller sees two cases intertwine around a US military base in the Spanish countryside. Here's how to watch When No One Sees Us from anywhere.
+
+
+### HOMICIDE on 2025-03-07 05:52
+- Location: NDTV News
+- Description: A couple has been arrested in Goa for allegedly killing a 5-year-old girl from their neighbourhood and burying the body in their backyard, an official said on Friday.
+
+
+### ROBBERY/THEFT on 2025-03-07 05:48
+- Location: Starcommunity.com.au
+- Description: A man has been charged with an alleged bulk phone-porting scam after police raiding a home in Lynbrook on Tuesday […]
+
+Analysis generated at: Sat Mar  8 06:14:20 UTC 2025
