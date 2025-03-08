@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Mar  8 12:30:42 UTC 2025
+Last updated: Sat Mar  8 18:13:44 UTC 2025
 
 ## Latest Analysis
 
-Loaded 18803 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-07 12:30:00
+Loaded 18894 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-07 18:11:00
 
 Incidents by source:
 source
-newsapi           18702
+newsapi           18793
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,33 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-03-07 12:30
-- Location: Setopati.com
-- Description: Rajeev Gurung, also known as Deepak Manange, has been granted a 20 percent reduction in his prison sentence.
+### OTHER on 2025-03-07 18:11
+- Location: CBS News
+- Description: The U.S. State Department updated its travel advisory for Turks and Caicos Islands this week to include a warning about the territory's firearms laws.
 
 
-### OTHER on 2025-03-07 12:29
-- Location: ABC News
-- Description: Just minutes after a seemingly successful launch from Texas on Thursday night, Starship Flight Test 8 began to spin out of control when mission control lost contact with the unmanned rocketship.
+### HOMICIDE on 2025-03-07 18:11
+- Location: Gothamist
+- Description: The door of the Bronx apartment where family members and neighbors say Pamela Alcantara, 26, lived in Fordham Heights.
+ 
+
+A man was taken in for questioning in connection with the incident, according to police. [ more › ]
 
 
-### OTHER on 2025-03-07 12:21
-- Location: Variety
-- Description: Entrepreneur and TV producer Daniel Domenjó has been named CEO of Movistar Plus+, Spain’s biggest national payTV/streaming service, replacing Cristina Burzako.  The appointment was announced by Movistar Plus+ parent Telefónica on Thursday.  The same reshuffle…
+### OTHER on 2025-03-07 18:06
+- Location: Daily Signal
+- Description: Terrorist-supporting students and their off-campus allies took over yet another building at Barnard College in New York on Wednesday. The protesters blocked students from attending... Read More
+The post ‘Pro-Palestinian’ Protest Slogans and Symbols: A Guide f…
 
 
-### OTHER on 2025-03-07 12:06
-- Location: NBC News
-- Description: Donald Trump, Elon Musk, DOGE, mass firings, February jobs report, Tricare, military health care, Lando Norris, Formula 1
+### HOMICIDE on 2025-03-07 18:05
+- Location: The Root
+- Description: Photo: Harris Funeral Directors
+A Colorado sheriff’s office finally released the video footage from a fatal shooting that claimed the life of a young man. However, the attorney representing the the deceased victim claims the video proves the shooting was not…
 
 
-### ROBBERY/THEFT on 2025-03-07 12:05
-- Location: NDTV News
-- Description: YouTuber Ranveer Allahabadia arrived at the office of the Crime Branch, Guwahati Police Commissionerate, on Friday.
+### OTHER on 2025-03-07 18:02
+- Location: Truthout
+- Description: Republicans have had decades to prove sanctuary policies are illegal. They haven’t.
 
-Analysis generated at: Sat Mar  8 12:30:42 UTC 2025
+Analysis generated at: Sat Mar  8 18:13:44 UTC 2025
