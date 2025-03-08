@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Mar  8 06:14:20 UTC 2025
+Last updated: Sat Mar  8 12:17:56 UTC 2025
 
 ## Latest Analysis
 
-Loaded 18737 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-07 06:02:13
+Loaded 18800 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-07 12:06:55
 
 Incidents by source:
 source
-newsapi           18636
+newsapi           18699
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-03-07 06:02
-- Location: ABC News (AU)
-- Description: Connor Fuller, who bashed and killed 61-year-old Mark Tozer in a road-rage incident in South West Rocks in 2021, will spend at least 19 years behind bars, with the judge finding Fuller intended to kill his victim.
+### OTHER on 2025-03-07 12:06
+- Location: NBC News
+- Description: Donald Trump, Elon Musk, DOGE, mass firings, February jobs report, Tricare, military health care, Lando Norris, Formula 1
 
 
-### SHOOTING on 2025-03-07 06:00
-- Location: Newser
-- Description: Police in Tigard, Oregon, are investigating gunshots fired at a Tesla dealership overnight, one of several recent incidents targeting Tesla dealerships that, police say, are politically motivated. The latest incident occurred at about 1:46am Thursday, the AP …
-
-
-### OTHER on 2025-03-07 06:00
-- Location: CinemaBlend
-- Description: Spanish-language thriller sees two cases intertwine around a US military base in the Spanish countryside. Here's how to watch When No One Sees Us from anywhere.
-
-
-### HOMICIDE on 2025-03-07 05:52
+### ROBBERY/THEFT on 2025-03-07 12:05
 - Location: NDTV News
-- Description: A couple has been arrested in Goa for allegedly killing a 5-year-old girl from their neighbourhood and burying the body in their backyard, an official said on Friday.
+- Description: YouTuber Ranveer Allahabadia arrived at the office of the Crime Branch, Guwahati Police Commissionerate, on Friday.
 
 
-### ROBBERY/THEFT on 2025-03-07 05:48
-- Location: Starcommunity.com.au
-- Description: A man has been charged with an alleged bulk phone-porting scam after police raiding a home in Lynbrook on Tuesday […]
+### OTHER on 2025-03-07 12:02
+- Location: Deadline
+- Description: EXCLUSIVE: Mark Gatiss is suitably on-trend with Bookish. He created and stars in the upcoming series as Gabriel Book, an eccentric bookshop owner and expert sleuth who helps the police solve tricky cases. The show has contained stories – one crime plays out …
 
-Analysis generated at: Sat Mar  8 06:14:20 UTC 2025
+
+### HOMICIDE on 2025-03-07 12:00
+- Location: HipHopDX
+- Description: 2Pac's murder suspect Keefe D has given his first interview since his arrest and claimed that he is not responsible for the rapper's death.
+
+
+### OTHER on 2025-03-07 12:00
+- Location: Bay12games.com
+- Description: (Toady One) Cheerfully continuing along with the next routine patch, hopefully next week. So far it's the normal collection of bug fixes, and an added goody of being able to use your last material for simple buildings and constructions.
+
+The lua test is going…
+
+Analysis generated at: Sat Mar  8 12:17:56 UTC 2025
