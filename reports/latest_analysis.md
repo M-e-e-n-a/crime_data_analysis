@@ -1,10 +1,10 @@
 
-Loaded 18894 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-07 18:11:00
+Loaded 18902 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-08 00:44:15
 
 Incidents by source:
 source
-newsapi           18793
+newsapi           18801
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,33 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-03-07 18:11
-- Location: CBS News
-- Description: The U.S. State Department updated its travel advisory for Turks and Caicos Islands this week to include a warning about the territory's firearms laws.
+### SHOOTING on 2025-03-08 00:44
+- Location: The Punch
+- Description: The disappearance of a 28-year-old graduate of Political Science Education from the Lagos State University, Quadri Ogunbode, has plunged his parents into agony for nearly 50 days. Saturday PUNCH gathered that Quadri, popularly known as Howla, was last seen on…
 
 
-### HOMICIDE on 2025-03-07 18:11
-- Location: Gothamist
-- Description: The door of the Bronx apartment where family members and neighbors say Pamela Alcantara, 26, lived in Fordham Heights.
- 
-
-A man was taken in for questioning in connection with the incident, according to police. [ more › ]
+### OTHER on 2025-03-08 00:42
+- Location: HuffPost
+- Description: After two days of dredging, a crane on Friday pulled a Ford station wagon from the Columbia River.
 
 
-### OTHER on 2025-03-07 18:06
-- Location: Daily Signal
-- Description: Terrorist-supporting students and their off-campus allies took over yet another building at Barnard College in New York on Wednesday. The protesters blocked students from attending... Read More
-The post ‘Pro-Palestinian’ Protest Slogans and Symbols: A Guide f…
+### OTHER on 2025-03-08 00:40
+- Location: Freerepublic.com
+- Description: Rose Docherty was arrested over her sign, which read: "Coercion is a crime, here to talk, only if you want." A 74-year-old Scottish woman was arrested for standing near a hospital that performs abortions with a sign that read: "Coercion is a crime, here to ta…
 
 
-### HOMICIDE on 2025-03-07 18:05
-- Location: The Root
-- Description: Photo: Harris Funeral Directors
-A Colorado sheriff’s office finally released the video footage from a fatal shooting that claimed the life of a young man. However, the attorney representing the the deceased victim claims the video proves the shooting was not…
+### OTHER on 2025-03-08 00:33
+- Location: Breitbart News
+- Description: A Chilean court in the northern province of Arica on Thursday issued prison sentences of roughly 560 years against 34 members of Los Gallegos, a local "armed wing" of the Tren de Aragua terrorist organization.
+The post Chile Sentences Tren de Aragua Members t…
 
 
-### OTHER on 2025-03-07 18:02
-- Location: Truthout
-- Description: Republicans have had decades to prove sanctuary policies are illegal. They haven’t.
+### OTHER on 2025-03-08 00:22
+- Location: The Star Online
+- Description: KUALA LUMPUR: Police have uncovered illegal storage and distribution of fireworks, firecrackers and contraband cigarettes in two separate raids in Selangor, with total seizures exceeding RM45mil. Read full story
 
-Analysis generated at: Sat Mar  8 18:13:44 UTC 2025
+Analysis generated at: Sun Mar  9 00:53:36 UTC 2025
