@@ -1,10 +1,10 @@
 
-Loaded 18903 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-08 01:16:22
+Loaded 18946 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-08 06:08:59
 
 Incidents by source:
 source
-newsapi           18802
+newsapi           18845
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-03-08 01:16
-- Location: TMZ
-- Description: The second suspect in the murder of rapper G$ Lil Ronnie has been arrested ... TMZ has confirmed. According to online records, 21-year-old Jakobie Russell -- the second person cops announced as a suspect in the shooting death of Ronnie and his…
+### SHOOTING on 2025-03-08 06:08
+- Location: Fox News
+- Description: A shooting Friday evening at a pub in Toronto, Canada, left a dozen people wounded, as police continue to search for the suspect, according to officials.
 
 
-### SHOOTING on 2025-03-08 00:44
-- Location: The Punch
-- Description: The disappearance of a 28-year-old graduate of Political Science Education from the Lagos State University, Quadri Ogunbode, has plunged his parents into agony for nearly 50 days. Saturday PUNCH gathered that Quadri, popularly known as Howla, was last seen on…
+### OTHER on 2025-03-08 06:00
+- Location: Starcommunity.com.au
+- Description: Victoria Police is appealing for dashcam footage of a grass fire next to Monash Freeway, Hallam last month. Police are […]
 
 
-### OTHER on 2025-03-08 00:42
-- Location: HuffPost
-- Description: After two days of dredging, a crane on Friday pulled a Ford station wagon from the Columbia River.
+### SHOOTING on 2025-03-08 06:00
+- Location: The Irish Times
+- Description: Irish drugs trade is now global and demand for cocaine is ‘surging’ here, says senior officer
 
 
-### OTHER on 2025-03-08 00:40
-- Location: Freerepublic.com
-- Description: Rose Docherty was arrested over her sign, which read: "Coercion is a crime, here to talk, only if you want." A 74-year-old Scottish woman was arrested for standing near a hospital that performs abortions with a sign that read: "Coercion is a crime, here to ta…
+### ROBBERY/THEFT on 2025-03-08 06:00
+- Location: New Zealand Herald
+- Description: The neurodiverse teen twice ditched his electronic ankle monitor during the spree.
 
 
-### OTHER on 2025-03-08 00:33
-- Location: Breitbart News
-- Description: A Chilean court in the northern province of Arica on Thursday issued prison sentences of roughly 560 years against 34 members of Los Gallegos, a local "armed wing" of the Tren de Aragua terrorist organization.
-The post Chile Sentences Tren de Aragua Members t…
+### SHOOTING on 2025-03-08 05:53
+- Location: ABC News
+- Description: Police in Toronto say a shooting at a pub left 11 people wounded
 
-Analysis generated at: Sun Mar  9 01:21:52 UTC 2025
+Analysis generated at: Sun Mar  9 06:14:22 UTC 2025
