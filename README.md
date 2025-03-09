@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Mar  9 12:30:35 UTC 2025
+Last updated: Sun Mar  9 18:13:16 UTC 2025
 
 ## Latest Analysis
 
-Loaded 19000 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-08 12:26:46
+Loaded 19064 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-08 18:12:23
 
 Incidents by source:
 source
-newsapi           18899
+newsapi           18963
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-03-08 12:26
-- Location: fox6now.com
-- Description: One person was injured in a shooting in Milwaukee on Friday evening, March 7, 2025.
+### HOMICIDE on 2025-03-08 18:12
+- Location: Newsbreak.com
+- Description: Russia has stepped up attacks in recent days as the US paused military and intelligence aid to Kyiv.
 
 
-### OTHER on 2025-03-08 12:00
-- Location: GamesRadar+
-- Description: Matt Murdock is reborn after that shattering opening 15 minutes in the new Marvel TV show
+### OTHER on 2025-03-08 18:07
+- Location: TheWrap
+- Description: Tart zingers and bicker-banter can't save this out-of-focus follow-up from Paul Feig
+The post ‘Another Simple Favor’ Review: Cartoonish, Over-the-Top Sequel Lacks the Lust and Vigor of Original appeared first on TheWrap.
 
 
-### HOMICIDE on 2025-03-08 12:00
-- Location: CBS News
-- Description: After Cati Blauvelt, 22, was murdered in Simpsonville, South Carolina, her husband, former U.S. Army recruiter John Blauvelt, fled with his 17-year-old girlfriend Hannah Thompson. U.S. Marshals led the cross-country chase for the armed fugitive.
+### OTHER on 2025-03-08 18:01
+- Location: Wonkette.com
+- Description: Tucker Carlson wants to know why we can't have a 'white homeland.'
 
 
-### OTHER on 2025-03-08 12:00
-- Location: New York Post
-- Description: The worst of the worst Big Apple criminal court judges are setting loose violent offenders at an astounding rate ahead of their trial, with some springing perps more than 80%
+### HOMICIDE on 2025-03-08 18:00
+- Location: Fox News
+- Description: Las Vegas 'Gigolos' star Akshaya Kubiak is serving up to 20 years in prison after pleading guilty to the 2020 beating death of Herleen Dulai.
 
 
-### OTHER on 2025-03-08 12:00
-- Location: The New York Review of Books
-- Description: The nearly seven hundred photographs in Carmen Winant’s book The Last Safe Abortion, and the more than 2,700 4×6-inch prints that were displayed in her wall-sized installation of the same name in the 2024 Whitney Biennial, might be fairly described as poorly …
+### HOMICIDE on 2025-03-08 18:00
+- Location: Fox News
+- Description: Lori Vallow, the Idaho "doomsday mom" convicted of killing two of her children in 2019, said she believes she will be freed from prison in a new TV interview.
 
-Analysis generated at: Sun Mar  9 12:30:35 UTC 2025
+Analysis generated at: Sun Mar  9 18:13:16 UTC 2025
