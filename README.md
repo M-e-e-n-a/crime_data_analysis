@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Mar  9 00:53:36 UTC 2025
+Last updated: Sun Mar  9 01:21:53 UTC 2025
 
 ## Latest Analysis
 
-Loaded 18902 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-08 00:44:15
+Loaded 18903 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-08 01:16:22
 
 Incidents by source:
 source
-newsapi           18801
+newsapi           18802
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -23,6 +23,11 @@ bution.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### HOMICIDE on 2025-03-08 01:16
+- Location: TMZ
+- Description: The second suspect in the murder of rapper G$ Lil Ronnie has been arrested ... TMZ has confirmed. According to online records, 21-year-old Jakobie Russell -- the second person cops announced as a suspect in the shooting death of Ronnie and his…
+
 
 ### SHOOTING on 2025-03-08 00:44
 - Location: The Punch
@@ -44,9 +49,4 @@ bution.svg)
 - Description: A Chilean court in the northern province of Arica on Thursday issued prison sentences of roughly 560 years against 34 members of Los Gallegos, a local "armed wing" of the Tren de Aragua terrorist organization.
 The post Chile Sentences Tren de Aragua Members t…
 
-
-### OTHER on 2025-03-08 00:22
-- Location: The Star Online
-- Description: KUALA LUMPUR: Police have uncovered illegal storage and distribution of fireworks, firecrackers and contraband cigarettes in two separate raids in Selangor, with total seizures exceeding RM45mil. Read full story
-
-Analysis generated at: Sun Mar  9 00:53:36 UTC 2025
+Analysis generated at: Sun Mar  9 01:21:52 UTC 2025
