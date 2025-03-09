@@ -1,10 +1,10 @@
 
-Loaded 18946 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-08 06:08:59
+Loaded 18999 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-08 12:00:10
 
 Incidents by source:
 source
-newsapi           18845
+newsapi           18898
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-03-08 06:08
-- Location: Fox News
-- Description: A shooting Friday evening at a pub in Toronto, Canada, left a dozen people wounded, as police continue to search for the suspect, according to officials.
+### OTHER on 2025-03-08 12:00
+- Location: GamesRadar+
+- Description: Matt Murdock is reborn after that shattering opening 15 minutes in the new Marvel TV show
 
 
-### OTHER on 2025-03-08 06:00
-- Location: Starcommunity.com.au
-- Description: Victoria Police is appealing for dashcam footage of a grass fire next to Monash Freeway, Hallam last month. Police are […]
+### HOMICIDE on 2025-03-08 12:00
+- Location: CBS News
+- Description: After Cati Blauvelt, 22, was murdered in Simpsonville, South Carolina, her husband, former U.S. Army recruiter John Blauvelt, fled with his 17-year-old girlfriend Hannah Thompson. U.S. Marshals led the cross-country chase for the armed fugitive.
 
 
-### SHOOTING on 2025-03-08 06:00
-- Location: The Irish Times
-- Description: Irish drugs trade is now global and demand for cocaine is ‘surging’ here, says senior officer
+### OTHER on 2025-03-08 12:00
+- Location: New York Post
+- Description: The worst of the worst Big Apple criminal court judges are setting loose violent offenders at an astounding rate ahead of their trial, with some springing perps more than 80%
 
 
-### ROBBERY/THEFT on 2025-03-08 06:00
-- Location: New Zealand Herald
-- Description: The neurodiverse teen twice ditched his electronic ankle monitor during the spree.
+### OTHER on 2025-03-08 12:00
+- Location: The New York Review of Books
+- Description: The nearly seven hundred photographs in Carmen Winant’s book The Last Safe Abortion, and the more than 2,700 4×6-inch prints that were displayed in her wall-sized installation of the same name in the 2024 Whitney Biennial, might be fairly described as poorly …
 
 
-### SHOOTING on 2025-03-08 05:53
-- Location: ABC News
-- Description: Police in Toronto say a shooting at a pub left 11 people wounded
+### HOMICIDE on 2025-03-08 12:00
+- Location: NBC News
+- Description: For a month, seven people held Sam Nordquist captive in a small hotel room in upstate New York, torturing him to death, authorities said. How did it go on in secret?
 
-Analysis generated at: Sun Mar  9 06:14:22 UTC 2025
+Analysis generated at: Sun Mar  9 12:17:53 UTC 2025
