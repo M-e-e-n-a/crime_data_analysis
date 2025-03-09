@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Mar  9 12:17:53 UTC 2025
+Last updated: Sun Mar  9 12:30:35 UTC 2025
 
 ## Latest Analysis
 
-Loaded 18999 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-08 12:00:10
+Loaded 19000 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-08 12:26:46
 
 Incidents by source:
 source
-newsapi           18898
+newsapi           18899
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -23,6 +23,11 @@ bution.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### SHOOTING on 2025-03-08 12:26
+- Location: fox6now.com
+- Description: One person was injured in a shooting in Milwaukee on Friday evening, March 7, 2025.
+
 
 ### OTHER on 2025-03-08 12:00
 - Location: GamesRadar+
@@ -43,9 +48,4 @@ bution.svg)
 - Location: The New York Review of Books
 - Description: The nearly seven hundred photographs in Carmen Winant’s book The Last Safe Abortion, and the more than 2,700 4×6-inch prints that were displayed in her wall-sized installation of the same name in the 2024 Whitney Biennial, might be fairly described as poorly …
 
-
-### HOMICIDE on 2025-03-08 12:00
-- Location: NBC News
-- Description: For a month, seven people held Sam Nordquist captive in a small hotel room in upstate New York, torturing him to death, authorities said. How did it go on in secret?
-
-Analysis generated at: Sun Mar  9 12:17:53 UTC 2025
+Analysis generated at: Sun Mar  9 12:30:35 UTC 2025
