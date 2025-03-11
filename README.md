@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Mar 11 01:42:41 UTC 2025
+Last updated: Tue Mar 11 06:18:29 UTC 2025
 
 ## Latest Analysis
 
-Loaded 19221 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-10 01:41:53
+Loaded 19254 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-10 06:14:39
 
 Incidents by source:
 source
-newsapi           19120
+newsapi           19153
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2025-03-10 01:41
-- Location: The Straits Times
-- Description: Malone Lam, 20, has been arrested and charged over one of the biggest crypto heists in the US.  Read more at straitstimes.com.
+### DRUG RELATED on 2025-03-10 06:14
+- Location: The Times of India
+- Description: Former Philippines President Rodrigo Duterte expressed readiness for arrest due to his controversial 'war on drugs.' Duterte made this statement while in Hong Kong for a rally, defending his campaign against narcotics. The Philippine presidential office says …
 
 
-### SHOOTING on 2025-03-10 01:39
-- Location: Bangkok Post
-- Description: Malaysia has advised its citizens to put off plans to visit southern Thailand following bombings and gunfire in the Thai border city of Sungai Kolok, a popular destination for Malaysians, and in Pattani.&nbsp;
+### OTHER on 2025-03-10 06:10
+- Location: ABC News (AU)
+- Description: The 34-year-old's body was found south of Eden after a three-day search by emergency services.
 
 
-### HOMICIDE on 2025-03-10 01:35
-- Location: New York Post
-- Description: “With time we will heal, but for now, I’m speechless,” the father said before adding, “We will miss him forever.”
+### OTHER on 2025-03-10 06:03
+- Location: KPBS
+- Description: Mahmoud Khalil was inside his university-owned apartment Saturday night when several Immigration and Customs Enforcement agents entered and took him into custody.
 
 
-### OTHER on 2025-03-10 01:30
-- Location: Vulture
-- Description: “I was never really sure it was going to happen until it happened,” says ‘Dark Winds’ showrunner John Wirth.
+### OTHER on 2025-03-10 06:03
+- Location: NPR
+- Description: Mahmoud Khalil was inside his university-owned apartment Saturday night when several Immigration and Customs Enforcement agents entered and took him into custody.
 
 
-### OTHER on 2025-03-10 01:00
-- Location: Starcommunity.com.au
-- Description: A Dandenong Man has been arrested and charged following a collision in Skye on Tuesday, 4 March. The 49-year-old was […]
+### ASSAULT on 2025-03-10 06:00
+- Location: The Jerusalem Post
+- Description: "The caravan was never going to cause a mass casualty event but instead was concocted by criminals who wanted to cause fear for personal benefit."
 
-Analysis generated at: Tue Mar 11 01:42:41 UTC 2025
+Analysis generated at: Tue Mar 11 06:18:29 UTC 2025
