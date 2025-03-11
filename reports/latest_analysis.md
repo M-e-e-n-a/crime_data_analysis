@@ -1,10 +1,10 @@
 
-Loaded 19317 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-10 12:40:13
+Loaded 19408 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-10 18:18:07
 
 Incidents by source:
 source
-newsapi           19216
+newsapi           19307
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-03-10 12:40
-- Location: Screen Rant
-- Description: Netflix has released American Manhunt: Osama bin Laden. A key figure in the 9/11 plot, Khalid Sheikh Mohammed, is still detained at Guantánamo.
+### HOMICIDE on 2025-03-10 18:18
+- Location: Forbes
+- Description: While watching Netflix's "CHAOS: The Manson Murders," you may be wondering what happened to Charles Manson's followers. Here's where they are today—including who has been released.
 
 
-### ROBBERY/THEFT on 2025-03-10 12:32
-- Location: Securityaffairs.com
-- Description: Another American hospital falls victim to a ransomware attack; the RansomHouse gang announced the hack of Loretto Hospital in Chicago.” The RansomHouse gang announced the hack of Loretto Hospital in Chicago, the groups claims to have stolen 1.5TB of sensitive…
+### OTHER on 2025-03-10 18:16
+- Location: New York Magazine
+- Description: DHS agents detained Mahmoud Khalil, a green card-holding Palestinian activist who took part in the Gaza protests at Columbia University last year.
 
 
-### OTHER on 2025-03-10 12:30
-- Location: Digital Trends
-- Description: The New York Times crossword puzzle can be tough, even if it isn't the Sunday issue! If you're stuck, we're here to help you out with today's clues and answers.
+### ASSAULT on 2025-03-10 18:15
+- Location: BBC News
+- Description: A hospital trust is investigating concerns some staff "inappropriately accessed" the records.
 
 
-### OTHER on 2025-03-10 12:14
-- Location: CBC News
-- Description: Federal immigration authorities arrested a Palestinian activist Saturday who played a prominent role in Columbia University's protests against Israel, a significant escalation in the Trump administration's pledge to detain and deport student activists.
+### HOMICIDE on 2025-03-10 18:14
+- Location: ABC News
+- Description: The Connecticut Supreme Court has upheld the murder conviction of a man found guilty of killing his wife in 2015, in a case that drew widespread attention because of evidence from the victim's Fitbit exercise activity tracker
 
 
-### OTHER on 2025-03-10 12:12
-- Location: Thechronicle.com.gh
-- Description: A new Police Station built by Nana Mensah Bonsu, Kaasehene, has been commissioned at Kaase, in Kumasi, weeks after he had outdoored an ultra-modern Health Centre for the same community. Kaase, a suburb of Kumasi, is both a residential and industrial area in t…
+### OTHER on 2025-03-10 18:12
+- Location: The Daily Caller
+- Description: California's Riverside County paid a man $498,000 to settle a wrongful arrest lawsuit after he dared a police officer to arrest him in a 2022 incident.
 
-Analysis generated at: Tue Mar 11 12:42:23 UTC 2025
+Analysis generated at: Tue Mar 11 18:18:26 UTC 2025
