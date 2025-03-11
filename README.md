@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Mar 10 18:16:39 UTC 2025
+Last updated: Tue Mar 11 01:02:02 UTC 2025
 
 ## Latest Analysis
 
-Loaded 19205 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-09 18:13:49
+Loaded 19217 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-10 01:00:22
 
 Incidents by source:
 source
-newsapi           19104
+newsapi           19116
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-03-09 18:13
-- Location: CinemaBlend
-- Description: I think we can agree he's all right, all right? (All right.)
+### OTHER on 2025-03-10 01:00
+- Location: Starcommunity.com.au
+- Description: A Dandenong Man has been arrested and charged following a collision in Skye on Tuesday, 4 March. The 49-year-old was […]
 
 
-### HOMICIDE on 2025-03-09 18:11
-- Location: The Times of India
-- Description: The third suspect in the gang-rape and murder case of two women, near Hampi, Karnataka, has been apprehended. The incident, which included the death of a male tourist, has prompted sharp criticism of the ruling government for its handling of crimes against wo…
+### HOMICIDE on 2025-03-10 00:46
+- Location: BBC News
+- Description: A 40-year-old woman was found with serious injuries and died at the scene.
 
 
-### SHOOTING on 2025-03-09 18:09
-- Location: PBS
-- Description: No one else was injured in the shooting that happened around midnight about a block from the White House, according to a Secret Service statement. President Donald Trump was in Florida at the time of the shooting.
+### HOMICIDE on 2025-03-10 00:34
+- Location: Sky.com
+- Description: A man has been arrested on suspicion of murder after a 40-year-old woman was shot dead in South Wales.
 
 
-### OTHER on 2025-03-09 18:03
-- Location: TODAY
-- Description: When is the White Lotus on on Sunday, March 9? Here's what to know about Season 3, Episode 4 of The White Lotus and what time it's on and how to watch.
+### OTHER on 2025-03-10 00:30
+- Location: Financial Post
+- Description: OTTAWA, Ontario, March 09, 2025 (GLOBE NEWSWIRE) — The following is a statement from National Police Federation President and C.E.O., Brian Sauvé, on the Liberal Party of Canada’s election of Mark Carney as Leader, and public safety progress made under outgoi…
 
 
-### OTHER on 2025-03-09 18:00
-- Location: NDTV News
-- Description: A man was arrested for allegedly beheading his girlfriend when she asked him to marry her, police said on Sunday.
+### OTHER on 2025-03-10 00:26
+- Location: GlobeNewswire
+- Description: OTTAWA, Ontario, March 09, 2025 (GLOBE NEWSWIRE) -- The following is a statement from National Police Federation President and C.E.O., Brian Sauvé, on the Liberal Party of Canada’s election of Mark Carney as Leader, and public safety progress made under outgo…
 
-Analysis generated at: Mon Mar 10 18:16:39 UTC 2025
+Analysis generated at: Tue Mar 11 01:02:02 UTC 2025
