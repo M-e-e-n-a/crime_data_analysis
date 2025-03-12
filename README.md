@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Mar 12 01:41:44 UTC 2025
+Last updated: Wed Mar 12 06:18:31 UTC 2025
 
 ## Latest Analysis
 
-Loaded 19434 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-11 01:33:45
+Loaded 19491 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-11 06:17:29
 
 Incidents by source:
 source
-newsapi           19333
+newsapi           19390
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-03-11 01:33
-- Location: Breitbart News
-- Description: InfoWars journalist Jamie White was murdered just before midnight Sunday night in Austin, Texas. InfoWars founder Alex Jones called White a "one-of-a-kind man who poured his devotion into anything he did."
-The post InfoWars Journalist Jamie White Murdered in …
+### OTHER on 2025-03-11 06:17
+- Location: EURACTIV
+- Description: In today's edition of The Capitals, read about Musk's feuds with Italian President Mattarella and Polish Foreign Minister Sikorski, Sánchez's statement that "Spain must defend Europe" to help reduce strategic dependence on the US, and so much more.
 
 
-### HOMICIDE on 2025-03-11 01:31
-- Location: Fox News
-- Description: A judge has declared a mistrial after a jury came back with a split decision in the case against an Orange County judge accused of shooting and killing his wife following an argument in 2023.
+### OTHER on 2025-03-11 06:00
+- Location: Naturalnews.com
+- Description: In November 2023, the French National Police inaugurated its Office Of Minors (L’OFMIN) in an effort to dedicate much needed resources to tackling child abuse in the country that has been mired in social decay since President Emmanuel Macron took office in 20…
 
 
-### HOMICIDE on 2025-03-11 01:17
-- Location: The Punch
-- Description: The Akwa Ibom State Police Command has arrested  42-year-old Victor Okoh in Oron, Akwa Ibom State over the alleged gruesome murder of his wife, Victoria Okoh, ‘f’, 38, at their residence. A statement on Monday by the command’s spokesperson, DSP Timfon John, i…
+### HOMICIDE on 2025-03-11 06:00
+- Location: Naturalnews.com
+- Description: InfoWars reporter Jamie White was killed outside his Austin apartment in what Alex Jones called a “brutal murder.” Austin police found White with severe injuries; he died shortly after being hospitalized, with no suspect or motive identified. White was a pass…
 
 
-### OTHER on 2025-03-11 01:16
-- Location: The Punch
-- Description: The Bayelsa State Police Command has rescued two workers of the Niger Delta Development Commission, Mr Akari Loveday, Special Adviser on Domestic Affairs to the NDDC Managing Director and his brother, Emmanuel Nathan Ogbuku, who were kidnapped last Friday on …
+### OTHER on 2025-03-11 05:43
+- Location: The Conversation Africa
+- Description: The caravan full of explosives terrified many Jewish people in January, so why is it not considered terrorism?
 
 
-### HOMICIDE on 2025-03-11 01:14
-- Location: The Punch
-- Description: A native of Umuikpa, Akanu Item in Bende Local Government Area of Abia State, Mr Isaac Maduka, has cried out for justice over the gruesome killing of his 20-year-old son, Ndukwe Isaac, by angry youths of the community. The deceased’s father told PUNCH Metro t…
+### HOMICIDE on 2025-03-11 05:33
+- Location: New York Post
+- Description: Former Philippine President Rodrigo Duterte was arrested at Manila's international airport Tuesday on order of the International Criminal Court in connection with a case of crime against humanity filed against him, the Philippine government said.
 
-Analysis generated at: Wed Mar 12 01:41:44 UTC 2025
+Analysis generated at: Wed Mar 12 06:18:31 UTC 2025
