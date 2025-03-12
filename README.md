@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Mar 12 01:01:11 UTC 2025
+Last updated: Wed Mar 12 01:41:44 UTC 2025
 
 ## Latest Analysis
 
-Loaded 19425 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-11 00:59:48
+Loaded 19434 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-11 01:33:45
 
 Incidents by source:
 source
-newsapi           19324
+newsapi           19333
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-03-11 00:59
-- Location: NBC News
-- Description: LOS ANGELES — A mistrial was declared Monday in the case of an Orange County, California, judge charged with murder in the 2023 shooting of his wife.
+### HOMICIDE on 2025-03-11 01:33
+- Location: Breitbart News
+- Description: InfoWars journalist Jamie White was murdered just before midnight Sunday night in Austin, Texas. InfoWars founder Alex Jones called White a "one-of-a-kind man who poured his devotion into anything he did."
+The post InfoWars Journalist Jamie White Murdered in …
 
 
-### HOMICIDE on 2025-03-11 00:53
-- Location: STLtoday.com
-- Description: The victim, Byron E. Gettis Jr., had multiple gunshot wounds. His father, Byron Gettis Sr., played for the Kansas City Royals in 2004, and has been a local football coach.
+### HOMICIDE on 2025-03-11 01:31
+- Location: Fox News
+- Description: A judge has declared a mistrial after a jury came back with a split decision in the case against an Orange County judge accused of shooting and killing his wife following an argument in 2023.
 
 
-### HOMICIDE on 2025-03-11 00:51
-- Location: ABC News (AU)
-- Description: Nine teenagers are among those arrested after 24-year-old Lino Atem was killed in what police called a "ferocious" and "targeted" ambush at a park in Melbourne's south-west.
+### HOMICIDE on 2025-03-11 01:17
+- Location: The Punch
+- Description: The Akwa Ibom State Police Command has arrested  42-year-old Victor Okoh in Oron, Akwa Ibom State over the alleged gruesome murder of his wife, Victoria Okoh, ‘f’, 38, at their residence. A statement on Monday by the command’s spokesperson, DSP Timfon John, i…
 
 
-### OTHER on 2025-03-11 00:48
-- Location: Freerepublic.com
-- Description: One of President Donald Trump's top priorities, as well as best issues, has been his crackdown on illegal immigration. As he has warned, criminals from countries in Central America and South America have been coming over illegally from prisons. While the left…
+### OTHER on 2025-03-11 01:16
+- Location: The Punch
+- Description: The Bayelsa State Police Command has rescued two workers of the Niger Delta Development Commission, Mr Akari Loveday, Special Adviser on Domestic Affairs to the NDDC Managing Director and his brother, Emmanuel Nathan Ogbuku, who were kidnapped last Friday on …
 
 
-### OTHER on 2025-03-11 00:45
-- Location: MSNBC
-- Description: Palestinian activist Mahmoud Khalil's arrest is part of a post-9/11 tradition of American presidents citing "terrorism" as an excuse to ignore due process.
+### HOMICIDE on 2025-03-11 01:14
+- Location: The Punch
+- Description: A native of Umuikpa, Akanu Item in Bende Local Government Area of Abia State, Mr Isaac Maduka, has cried out for justice over the gruesome killing of his 20-year-old son, Ndukwe Isaac, by angry youths of the community. The deceased’s father told PUNCH Metro t…
 
-Analysis generated at: Wed Mar 12 01:01:11 UTC 2025
+Analysis generated at: Wed Mar 12 01:41:44 UTC 2025
