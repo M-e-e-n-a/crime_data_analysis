@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Mar 11 18:18:26 UTC 2025
+Last updated: Wed Mar 12 01:01:11 UTC 2025
 
 ## Latest Analysis
 
-Loaded 19408 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-10 18:18:07
+Loaded 19425 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-11 00:59:48
 
 Incidents by source:
 source
-newsapi           19307
+newsapi           19324
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-03-10 18:18
-- Location: Forbes
-- Description: While watching Netflix's "CHAOS: The Manson Murders," you may be wondering what happened to Charles Manson's followers. Here's where they are today—including who has been released.
+### HOMICIDE on 2025-03-11 00:59
+- Location: NBC News
+- Description: LOS ANGELES — A mistrial was declared Monday in the case of an Orange County, California, judge charged with murder in the 2023 shooting of his wife.
 
 
-### OTHER on 2025-03-10 18:16
-- Location: New York Magazine
-- Description: DHS agents detained Mahmoud Khalil, a green card-holding Palestinian activist who took part in the Gaza protests at Columbia University last year.
+### HOMICIDE on 2025-03-11 00:53
+- Location: STLtoday.com
+- Description: The victim, Byron E. Gettis Jr., had multiple gunshot wounds. His father, Byron Gettis Sr., played for the Kansas City Royals in 2004, and has been a local football coach.
 
 
-### ASSAULT on 2025-03-10 18:15
-- Location: BBC News
-- Description: A hospital trust is investigating concerns some staff "inappropriately accessed" the records.
+### HOMICIDE on 2025-03-11 00:51
+- Location: ABC News (AU)
+- Description: Nine teenagers are among those arrested after 24-year-old Lino Atem was killed in what police called a "ferocious" and "targeted" ambush at a park in Melbourne's south-west.
 
 
-### HOMICIDE on 2025-03-10 18:14
-- Location: ABC News
-- Description: The Connecticut Supreme Court has upheld the murder conviction of a man found guilty of killing his wife in 2015, in a case that drew widespread attention because of evidence from the victim's Fitbit exercise activity tracker
+### OTHER on 2025-03-11 00:48
+- Location: Freerepublic.com
+- Description: One of President Donald Trump's top priorities, as well as best issues, has been his crackdown on illegal immigration. As he has warned, criminals from countries in Central America and South America have been coming over illegally from prisons. While the left…
 
 
-### OTHER on 2025-03-10 18:12
-- Location: The Daily Caller
-- Description: California's Riverside County paid a man $498,000 to settle a wrongful arrest lawsuit after he dared a police officer to arrest him in a 2022 incident.
+### OTHER on 2025-03-11 00:45
+- Location: MSNBC
+- Description: Palestinian activist Mahmoud Khalil's arrest is part of a post-9/11 tradition of American presidents citing "terrorism" as an excuse to ignore due process.
 
-Analysis generated at: Tue Mar 11 18:18:26 UTC 2025
+Analysis generated at: Wed Mar 12 01:01:11 UTC 2025
