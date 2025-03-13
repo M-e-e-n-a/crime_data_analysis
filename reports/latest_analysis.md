@@ -1,10 +1,10 @@
 
-Loaded 19747 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-12 06:03:09
+Loaded 19828 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-12 12:15:08
 
 Incidents by source:
 source
-newsapi           19646
+newsapi           19727
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-03-12 06:03
-- Location: Al Jazeera English
-- Description: The vice president has described former President Rodrigo Duterte's arrest over his deadly drug war as 'oppression'.
+### OTHER on 2025-03-12 12:15
+- Location: Freerepublic.com
+- Description: During an interview with Boston Public Radio on Tuesday, Boston Mayor Michelle Wu stated that the city is releasing people wanted by ICE because “ICE is choosing not to go and get these criminal warrants.” And then claiming “so and so was extremely dangerous …
 
 
-### OTHER on 2025-03-12 06:00
-- Location: Naturalnews.com
-- Description: Columbia University student and legal US resident, Mahmoud Khalil, was arrested last week by federal agents. Although Khalil is a legal resident with a green card, and has not even been accused of any immigration-related infraction, he is being held at an imm…
+### OTHER on 2025-03-12 12:13
+- Location: phillymag.com
+- Description: When you binge the new Kensington-set Peacock series Long Bright River, which debuts on March 13th, you’ll see a familiar face in every episode: the […]
 
 
-### HOMICIDE on 2025-03-12 06:00
-- Location: Naturalnews.com
-- Description: An Infowars journalist was killed in Austin, Texas, allegedly part of a kill list compiled by a CIA-linked Ukrainian organization, aiming to silence critics of the Ukraine narrative. Infowars journalist Chase Geyser faced swatting incidents, with emergency se…
+### ASSAULT on 2025-03-12 12:09
+- Location: Paddle Your Own Kanoo
+- Description: Flight attendants rushed to help a passenger who they thought was suffering an epileptic seizure on an American Airlines flight from Savannah to Miami on Monday evening, only for the passenger to then attack them and swallow his rosary beads as he tried to fi…
 
 
-### OTHER on 2025-03-12 05:55
-- Location: CounterPunch
-- Description: When I interviewed Stuart Allen a few years after his forensic audio investigation (Stuart Allen was both a forensic audio and video engineer.) of the Kent State May 4, 1970 massacre’s Strubbe tape, he said something both significant and prescient that has st…
+### HOMICIDE on 2025-03-12 12:06
+- Location: CNA
+- Description: SINGAPORE: A 58-year-old man will be charged with murder on Thursday (Mar 13) over the death of a 56-year-old man who was found lying motionless in a flat along Boon Lay Avenue on Tuesday. CN
 
 
-### SHOOTING on 2025-03-12 05:55
-- Location: CounterPunch
-- Description: “Flights to Guantánamo Bay have begun. The worst of the worst have no place in our homeland.” With those words the U.S. government announced the fate awaiting “criminal aliens” in its custody. On a military base in El Paso, Texas, masked men in combat fatigue…
+### HOMICIDE on 2025-03-12 12:06
+- Location: road.cc
+- Description: The food delivery rider said he had bought the motor online after being advised by fellow riders, and was looking at his Sat Nav when the collision took place
 
-Analysis generated at: Thu Mar 13 06:18:22 UTC 2025
+Analysis generated at: Thu Mar 13 12:25:52 UTC 2025
