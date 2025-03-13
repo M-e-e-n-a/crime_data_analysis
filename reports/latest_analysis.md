@@ -1,10 +1,10 @@
 
-Loaded 19828 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-12 12:15:08
+Loaded 19832 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-12 12:37:03
 
 Incidents by source:
 source
-newsapi           19727
+newsapi           19731
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,37 @@ bution.svg)
 
 ## Recent Incidents
 
+### SHOOTING on 2025-03-12 12:37
+- Location: Tomdispatch.com
+- Description: “Flights to Guantánamo Bay have begun. The worst of the worst have no place in our homeland.”With those words the U.S. government announced the fate awaiting “criminal aliens” in its custody.On a military base in El Paso, Texas, masked men in combat fatigues …
+
+
+### OTHER on 2025-03-12 12:35
+- Location: Al Jazeera English
+- Description: The Trump administration's efforts to conceal the truth about Israel by targeting American universities will backfire.
+
+
+### HOMICIDE on 2025-03-12 12:33
+- Location: Fox News
+- Description: David Wood, 67, was sentenced to death in 1992 for the killing of six woman and girls in El Paso, Texas. He has spent nearly 33 years on death row for the crimes.
+
+
+### OTHER on 2025-03-12 12:31
+- Location: Thenation.com
+- Description: Elie Mystal
+
+
+
+The only relevant question is not “How can the government do this?” It is “How can we who oppose this fascist regime?”
+
+
+
+
+The post We Are Asking the Wrong Questions About Mahmoud Khalil’s Arrest appeared first on The Nation.
+
+
 ### OTHER on 2025-03-12 12:15
 - Location: Freerepublic.com
 - Description: During an interview with Boston Public Radio on Tuesday, Boston Mayor Michelle Wu stated that the city is releasing people wanted by ICE because “ICE is choosing not to go and get these criminal warrants.” And then claiming “so and so was extremely dangerous …
 
-
-### OTHER on 2025-03-12 12:13
-- Location: phillymag.com
-- Description: When you binge the new Kensington-set Peacock series Long Bright River, which debuts on March 13th, you’ll see a familiar face in every episode: the […]
-
-
-### ASSAULT on 2025-03-12 12:09
-- Location: Paddle Your Own Kanoo
-- Description: Flight attendants rushed to help a passenger who they thought was suffering an epileptic seizure on an American Airlines flight from Savannah to Miami on Monday evening, only for the passenger to then attack them and swallow his rosary beads as he tried to fi…
-
-
-### HOMICIDE on 2025-03-12 12:06
-- Location: CNA
-- Description: SINGAPORE: A 58-year-old man will be charged with murder on Thursday (Mar 13) over the death of a 56-year-old man who was found lying motionless in a flat along Boon Lay Avenue on Tuesday. CN
-
-
-### HOMICIDE on 2025-03-12 12:06
-- Location: road.cc
-- Description: The food delivery rider said he had bought the motor online after being advised by fellow riders, and was looking at his Sat Nav when the collision took place
-
-Analysis generated at: Thu Mar 13 12:25:52 UTC 2025
+Analysis generated at: Thu Mar 13 12:42:25 UTC 2025
