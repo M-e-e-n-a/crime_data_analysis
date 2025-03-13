@@ -1,10 +1,10 @@
 
-Loaded 19673 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-11 18:15:59
+Loaded 19686 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-12 01:00:00
 
 Incidents by source:
 source
-newsapi           19572
+newsapi           19585
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,31 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2025-03-11 18:15
-- Location: ARLnow
-- Description: A D.C. man is facing several charges after the alleged theft of an electric bike in Crystal City. Police were dispatched to the neighborhood shortly after 4:30 p.m. this past Thursday after a caller reported seeing a man stealing a locked e-bike and then walk…
+### OTHER on 2025-03-12 01:00
+- Location: IGN
+- Description: A slower, inelegant episode without Daredevil gets by thanks to the emotional and shocking storyline.
 
 
-### OTHER on 2025-03-11 18:14
-- Location: ComicBook.com
-- Description: Batman has been one of the most esteemed and successful superheroes on the big screen in the last two decades or so, but his movies have not been immune to errors. From Christopher Nolan’s iconic trilogy to The Batman in 2022, the Dark Knight’s films have had…
+### OTHER on 2025-03-12 00:54
+- Location: The Intercept
+- Description: "I expect the Department of Justice to work within the confines of the law," one House Democrat said.
+The post Dems for Some Reason Expect Trump to Follow the Law on Detention of Mahmoud Khalil appeared first on The Intercept.
 
 
-### OTHER on 2025-03-11 18:12
-- Location: Freerepublic.com
-- Description: The 8-month pregnant wife of pro-Palestinian student activist Mahmoud Khalil has pled for her husband's release in time for the birth of their baby, following his arrest and detention by federal immigration officers over the weekend. "I urge you to see Mahmou…
+### OTHER on 2025-03-12 00:41
+- Location: New York Post
+- Description: The disgraced pastor faces up to 30 years in prison when he is sentenced.
 
 
-### HOMICIDE on 2025-03-11 18:10
-- Location: Gothamist
-- Description: An NYPD van parked on the sidewalk near Union Square in Manhattan on May 4, 2023.
- 
-
-The man was being transferred from the Bronx to Brooklyn Central Booking, according to the NYPD. [ more › ]
+### OTHER on 2025-03-12 00:35
+- Location: ABC News (AU)
+- Description: Janine was heading into her 40s when she threw in her financially stable job to follow a dream career. Her journey wasn't a straightforward one.
 
 
-### OTHER on 2025-03-11 18:06
-- Location: Statetimes.in
-- Description: Several businessmen duped of Rs. 25 cr approx STATE TIMES NEWS JAMMU: Crime Branch (CB) has booked de-facto top executive of Katra-based company & others for multi-crore fraud in which several businessmen have been duped of Rs. 25 crore approximately.   “A wr…
+### HOMICIDE on 2025-03-12 00:30
+- Location: STLtoday.com
+- Description: Police said the shooting occurred shortly before 7 p.m. in the 400 block of South Tucker Boulevard.
 
-Analysis generated at: Wed Mar 12 18:18:34 UTC 2025
+Analysis generated at: Thu Mar 13 01:02:03 UTC 2025
