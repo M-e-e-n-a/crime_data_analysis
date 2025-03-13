@@ -1,10 +1,10 @@
 
-Loaded 19832 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-12 12:37:03
+Loaded 19924 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-12 18:10:30
 
 Incidents by source:
 source
-newsapi           19731
+newsapi           19823
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,37 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-03-12 12:37
-- Location: Tomdispatch.com
-- Description: “Flights to Guantánamo Bay have begun. The worst of the worst have no place in our homeland.”With those words the U.S. government announced the fate awaiting “criminal aliens” in its custody.On a military base in El Paso, Texas, masked men in combat fatigues …
+### ASSAULT on 2025-03-12 18:10
+- Location: The Week Magazine
+- Description: Vague accusations and First Amendment concerns
 
 
-### OTHER on 2025-03-12 12:35
-- Location: Al Jazeera English
-- Description: The Trump administration's efforts to conceal the truth about Israel by targeting American universities will backfire.
+### HOMICIDE on 2025-03-12 18:00
+- Location: Thegatewaypundit.com
+- Description: A Houston embalmer faces felony charges after allegedly mutilating the body of a deceased sex offender. This disturbing case raises profound questions about dignity in death and the complexities of justice.
+The post Texas Embalmer Arrested After Castrating Co…
 
 
-### HOMICIDE on 2025-03-12 12:33
-- Location: Fox News
-- Description: David Wood, 67, was sentenced to death in 1992 for the killing of six woman and girls in El Paso, Texas. He has spent nearly 33 years on death row for the crimes.
+### OTHER on 2025-03-12 17:59
+- Location: Newsweek
+- Description: Most Americans support legalization, but experts say commercialization prioritizes profits over public health, fueling unregulated markets and youth use.
 
 
-### OTHER on 2025-03-12 12:31
-- Location: Thenation.com
-- Description: Elie Mystal
+### OTHER on 2025-03-12 17:59
+- Location: DW (English)
+- Description: A plane carrying the former Philippine president from Manila has touched down in the Netherlands. Rodrigo Duterte is expected to face the ICC on charges of crimes against humanity.
 
 
+### OTHER on 2025-03-12 17:56
+- Location: fox6now.com
+- Description: A 47-year-old Greenfield man has been criminally charged, accused of setting his garage on fire before attempting to punch his neighbor. The accused is Kevin Harlfinger.
 
-The only relevant question is not “How can the government do this?” It is “How can we who oppose this fascist regime?”
-
-
-
-
-The post We Are Asking the Wrong Questions About Mahmoud Khalil’s Arrest appeared first on The Nation.
-
-
-### OTHER on 2025-03-12 12:15
-- Location: Freerepublic.com
-- Description: During an interview with Boston Public Radio on Tuesday, Boston Mayor Michelle Wu stated that the city is releasing people wanted by ICE because “ICE is choosing not to go and get these criminal warrants.” And then claiming “so and so was extremely dangerous …
-
-Analysis generated at: Thu Mar 13 12:42:25 UTC 2025
+Analysis generated at: Thu Mar 13 18:18:15 UTC 2025
