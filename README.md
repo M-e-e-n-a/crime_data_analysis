@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Mar 13 01:43:29 UTC 2025
+Last updated: Thu Mar 13 06:18:22 UTC 2025
 
 ## Latest Analysis
 
-Loaded 19695 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-12 01:36:30
+Loaded 19747 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-12 06:03:09
 
 Incidents by source:
 source
-newsapi           19594
+newsapi           19646
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-03-12 01:36
-- Location: New York Post
-- Description: The inmate was reportedly set off by Peterson smashing the ball directly at his body during the match — and aired his grievances in the form of hooks and jabs.
+### HOMICIDE on 2025-03-12 06:03
+- Location: Al Jazeera English
+- Description: The vice president has described former President Rodrigo Duterte's arrest over his deadly drug war as 'oppression'.
 
 
-### OTHER on 2025-03-12 01:30
-- Location: ComicBook.com
-- Description: Kamar De Los Reyes as Hector Ayala/White Tiger in Daredevil: Born Again
-[Warning: This article contains spoilers for Daredevil: Born Again episode 3.] “They say you don’t hear the bullet that gets you. Always thought that sounded like a bunch of bullsh-t to m…
+### OTHER on 2025-03-12 06:00
+- Location: Naturalnews.com
+- Description: Columbia University student and legal US resident, Mahmoud Khalil, was arrested last week by federal agents. Although Khalil is a legal resident with a green card, and has not even been accused of any immigration-related infraction, he is being held at an imm…
 
 
-### DRUG RELATED on 2025-03-12 01:29
-- Location: ABC News (AU)
-- Description: A 50-year-old female Australian Border Force employee and an alleged crime figure have been charged with bribery and drug offences.
+### HOMICIDE on 2025-03-12 06:00
+- Location: Naturalnews.com
+- Description: An Infowars journalist was killed in Austin, Texas, allegedly part of a kill list compiled by a CIA-linked Ukrainian organization, aiming to silence critics of the Ukraine narrative. Infowars journalist Chase Geyser faced swatting incidents, with emergency se…
 
 
-### HOMICIDE on 2025-03-12 01:17
-- Location: Fox News
-- Description: Twenty people have been charged in connection to a 2024 Nevada prison brawl that ended with three dead inmates, authorities said on Tuesday.
+### OTHER on 2025-03-12 05:55
+- Location: CounterPunch
+- Description: When I interviewed Stuart Allen a few years after his forensic audio investigation (Stuart Allen was both a forensic audio and video engineer.) of the Kent State May 4, 1970 massacre’s Strubbe tape, he said something both significant and prescient that has st…
 
 
-### HOMICIDE on 2025-03-12 01:15
-- Location: Variety
-- Description: During my interview a while back with a director of small-budget Westerns, he explained to me that if you keep your costs down low enough and, better still, cast a recognizable character actor or country music star — not a superstar, but someone recognizable …
+### SHOOTING on 2025-03-12 05:55
+- Location: CounterPunch
+- Description: “Flights to Guantánamo Bay have begun. The worst of the worst have no place in our homeland.” With those words the U.S. government announced the fate awaiting “criminal aliens” in its custody. On a military base in El Paso, Texas, masked men in combat fatigue…
 
-Analysis generated at: Thu Mar 13 01:43:29 UTC 2025
+Analysis generated at: Thu Mar 13 06:18:22 UTC 2025
