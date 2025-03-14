@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Mar 14 01:41:29 UTC 2025
+Last updated: Fri Mar 14 06:18:08 UTC 2025
 
 ## Latest Analysis
 
-Loaded 19948 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-13 01:41:00
+Loaded 19992 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-13 06:08:36
 
 Incidents by source:
 source
-newsapi           19847
+newsapi           19891
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2025-03-13 01:41
-- Location: The Star Online
-- Description: WASHINGTON (Reuters) - Indian authorities arrested at Washington's request a cryptocurrency exchange administrator accused of money laundering conspiracy and violating sanctions, India's top crime fighting bureau said on Wednesday. Read full story
-
-
-### HOMICIDE on 2025-03-13 01:33
-- Location: BBC News
-- Description: Simon Vickers was jailed for murdering his daughter, but her mother insists it was an accident.
-
-
-### HOMICIDE on 2025-03-13 01:29
-- Location: Freerepublic.com
-- Description: Authorities in South Carolina say a mother is in custody in connection with the horrific death of a newborn baby. Last Friday, the Easley Police Department said it received a 911 call about a medical emergency for a woman who had recently given birth at an ap…
-
-
-### ROBBERY/THEFT on 2025-03-13 01:24
+### DRUG RELATED on 2025-03-13 06:08
 - Location: ABC News (AU)
-- Description: A 91-year-old Victorian woman thought she was handing her bank card over for protection from fraudulent charges, but it was a scam.
+- Description: Drugs and cash worth around $1 million have been uncovered at a home in north Queensland, leading to the arrest of three people.
 
 
-### OTHER on 2025-03-13 01:20
-- Location: The Jerusalem Post
-- Description: The Trump administration and its defenders argue that he supported terrorism and thus violated the terms of his residency in the country.
+### OTHER on 2025-03-13 06:03
+- Location: The Times of India
+- Description: A scandal of staggering proportions has rocked Mumbai’s Lilavati Hospital, with its trustees alleging a massive Rs 1,500 crore fraud by former administrators. The accusations go beyond financial misconduct—claims of black magic, human remains, and occult ritu…
 
-Analysis generated at: Fri Mar 14 01:41:29 UTC 2025
+
+### OTHER on 2025-03-13 06:00
+- Location: Globalsecurity.org
+- Description: Today, 12 March 2025, Mr Rodrigo Roa Duterte ("Mr Duterte"), born on 28 March 1945, was surrendered to the custody of the International Criminal Court (ICC or "the Court"). He was arrested by the authorities of the Republic of the Philippines ("the Philippine…
+
+
+### OTHER on 2025-03-13 06:00
+- Location: Globalsecurity.org
+- Description: The governments of Taiwan and Palau have both been warned that offers of investment from the Cambodian conglomerate Prince Group represent threats to each nation's security and sovereignty.
+
+
+### OTHER on 2025-03-13 06:00
+- Location: Globalsecurity.org
+- Description: The Department of Justice (DOJ) on Wednesday assured the public that the arrest of former president Rodrigo R. Duterte went by the book and strictly adhered to domestic and international legal procedures.
+
+Analysis generated at: Fri Mar 14 06:18:08 UTC 2025
