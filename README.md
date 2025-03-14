@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Mar 14 12:24:24 UTC 2025
+Last updated: Fri Mar 14 12:40:18 UTC 2025
 
 ## Latest Analysis
 
-Loaded 20074 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-13 12:23:00
+Loaded 20076 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-13 12:31:15
 
 Incidents by source:
 source
-newsapi           19973
+newsapi           19975
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,6 +24,16 @@ bution.svg)
 
 ## Recent Incidents
 
+### HOMICIDE on 2025-03-13 12:31
+- Location: LADbible
+- Description: Scarlett Vicker's mum Sarah Hall has insisted that her partner Simon Vickers - who fatally stabbed the teen - would 'never harm' their daughter on purpose.
+
+
+### OTHER on 2025-03-13 12:25
+- Location: CBS News
+- Description: Shanghai police say two 17-year-olds were placed in "administrative detention" following the incident at a restaurant where diners simmer food at their own tables.
+
+
 ### HOMICIDE on 2025-03-13 12:23
 - Location: STLtoday.com
 - Description: Authorities say JVonta Johnson helped two teens plan the crime the night before, and Johnson stole the victim's gun.
@@ -38,14 +48,4 @@ bution.svg)
 - Location: GamesRadar+
 - Description: The Perfect Couple season 2 is starting to form at Netflix, but Nicole Kidman and Liev Schreiber aren't involved
 
-
-### OTHER on 2025-03-13 12:14
-- Location: Democracy Now!
-- Description: A new report by United Nations experts says Israel has carried out “genocidal acts” against Palestinians in Gaza, including the destruction of women’s healthcare facilities, intended to prevent births, and the use of sexual violence as a strategy of war. This…
-
-
-### HOMICIDE on 2025-03-13 12:14
-- Location: ABC News
-- Description: A Philippine general says that ex-Philippine President Rodrigo Duterte threatened him with lawsuits, refused to be fingerprinted and told law enforcers “you have to kill me to bring me to The Hague.”
-
-Analysis generated at: Fri Mar 14 12:24:24 UTC 2025
+Analysis generated at: Fri Mar 14 12:40:18 UTC 2025
