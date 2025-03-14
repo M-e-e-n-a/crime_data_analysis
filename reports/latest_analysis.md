@@ -1,10 +1,10 @@
 
-Loaded 19992 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-13 06:08:36
+Loaded 20074 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-13 12:23:00
 
 Incidents by source:
 source
-newsapi           19891
+newsapi           19973
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### DRUG RELATED on 2025-03-13 06:08
-- Location: ABC News (AU)
-- Description: Drugs and cash worth around $1 million have been uncovered at a home in north Queensland, leading to the arrest of three people.
+### HOMICIDE on 2025-03-13 12:23
+- Location: STLtoday.com
+- Description: Authorities say JVonta Johnson helped two teens plan the crime the night before, and Johnson stole the victim's gun.
 
 
-### OTHER on 2025-03-13 06:03
-- Location: The Times of India
-- Description: A scandal of staggering proportions has rocked Mumbai’s Lilavati Hospital, with its trustees alleging a massive Rs 1,500 crore fraud by former administrators. The accusations go beyond financial misconduct—claims of black magic, human remains, and occult ritu…
+### ROBBERY/THEFT on 2025-03-13 12:17
+- Location: Bleeding Cool News
+- Description: There are probably a couple of jokes to be made about what comedians, even more specifically improv comics, do if they don't make it in comedy. The "failed comedian" thing is a trope for a reason, but something else that isn't often explored by improv comics …
 
 
-### OTHER on 2025-03-13 06:00
-- Location: Globalsecurity.org
-- Description: Today, 12 March 2025, Mr Rodrigo Roa Duterte ("Mr Duterte"), born on 28 March 1945, was surrendered to the custody of the International Criminal Court (ICC or "the Court"). He was arrested by the authorities of the Republic of the Philippines ("the Philippine…
+### OTHER on 2025-03-13 12:14
+- Location: GamesRadar+
+- Description: The Perfect Couple season 2 is starting to form at Netflix, but Nicole Kidman and Liev Schreiber aren't involved
 
 
-### OTHER on 2025-03-13 06:00
-- Location: Globalsecurity.org
-- Description: The governments of Taiwan and Palau have both been warned that offers of investment from the Cambodian conglomerate Prince Group represent threats to each nation's security and sovereignty.
+### OTHER on 2025-03-13 12:14
+- Location: Democracy Now!
+- Description: A new report by United Nations experts says Israel has carried out “genocidal acts” against Palestinians in Gaza, including the destruction of women’s healthcare facilities, intended to prevent births, and the use of sexual violence as a strategy of war. This…
 
 
-### OTHER on 2025-03-13 06:00
-- Location: Globalsecurity.org
-- Description: The Department of Justice (DOJ) on Wednesday assured the public that the arrest of former president Rodrigo R. Duterte went by the book and strictly adhered to domestic and international legal procedures.
+### HOMICIDE on 2025-03-13 12:14
+- Location: ABC News
+- Description: A Philippine general says that ex-Philippine President Rodrigo Duterte threatened him with lawsuits, refused to be fingerprinted and told law enforcers “you have to kill me to bring me to The Hague.”
 
-Analysis generated at: Fri Mar 14 06:18:08 UTC 2025
+Analysis generated at: Fri Mar 14 12:24:24 UTC 2025
