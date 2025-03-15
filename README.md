@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Mar 15 12:22:16 UTC 2025
+Last updated: Sat Mar 15 12:37:45 UTC 2025
 
 ## Latest Analysis
 
-Loaded 20314 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-14 12:11:21
+Loaded 20315 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-14 12:31:21
 
 Incidents by source:
 source
-newsapi           20213
+newsapi           20214
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -23,6 +23,11 @@ bution.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### ROBBERY/THEFT on 2025-03-14 12:31
+- Location: TheJournal.ie
+- Description: The theft happened yesterday in the Catholic Chaplaincy on the University Road in Belfast.
+
 
 ### HOMICIDE on 2025-03-14 12:11
 - Location: Freerepublic.com
@@ -43,9 +48,4 @@ bution.svg)
 - Location: New York Post
 - Description: Jill Kwatkoski and her husband Tom were left severely injured when their neighbor, John Adamo, 54, suddenly opened fire on them outside their Jersey Shore home on Tuesday afternoon after an apparent years-long feud, cops said.
 
-
-### HOMICIDE on 2025-03-14 12:07
-- Location: Complex
-- Description: Judge gives YM Bape, real name Anthony Lopez, 28 to life.
-
-Analysis generated at: Sat Mar 15 12:22:16 UTC 2025
+Analysis generated at: Sat Mar 15 12:37:45 UTC 2025
