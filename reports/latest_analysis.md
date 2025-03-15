@@ -1,10 +1,10 @@
 
-Loaded 20167 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-13 18:17:15
+Loaded 20184 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-14 00:54:36
 
 Incidents by source:
 source
-newsapi           20066
+newsapi           20083
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-03-13 18:17
-- Location: ABC News
-- Description: Hundreds of protesters staged a sit-in in the lobby of Trump Tower, calling for the immediate release of Mahmoud Khalil, the pro-Palestinian activist.
+### SHOOTING on 2025-03-14 00:54
+- Location: The Punch
+- Description: A suspected cultist, Segun Ogunfunmilayo, has been arrested by the Osun State Police Command for shooting a grocery seller in the Ede area of the state. Ogunfunmilayo, who allegedly committed the act on March 8, 2025, at about 9:00 pm in the Bihari/Ishola are…
 
 
-### OTHER on 2025-03-13 18:16
-- Location: The Times of India
-- Description: Panaji: The crime branch of Goa police on Thursday arrested a Kenyan national for allegedly running an international human trafficking racket.
+### ROBBERY/THEFT on 2025-03-14 00:54
+- Location: The Punch
+- Description: The Jigawa State Police Command has arrested a notorious gang of thieves, including an ex-convict, who specialised in stealing motor vehicles, motorcycles, and domestic animals. The state Police Public Relations Officer, SP Shi’isu Adam, revealed in a stateme…
 
 
-### OTHER on 2025-03-13 18:13
+### HOMICIDE on 2025-03-14 00:53
+- Location: The Punch
+- Description: Operatives of the Bauchi State Police Command have confirmed the killing of a 70-year-old woman, Talatu Joshua, in the state. According to a press release issued by the command’s Police Public Relations Officer, PPRO Ahmed Wakil on Tuesday, the state command …
+
+
+### OTHER on 2025-03-14 00:47
 - Location: ABC News (AU)
-- Description: Amid a housing crisis, a social housing complex in Melbourne's south-east sits empty for more than six months — and was broken into and vandalised — after residents were suddenly relocated to make way for a redevelopment.
+- Description: After revelations a purported antisemitic terror plot was a hoax, the federal Greens are demanding mandatory sentencing laws rushed through parliament in its wake be "revisited and repealed" — questioning whether the laws were pushed through under false prete…
 
 
-### HOMICIDE on 2025-03-13 18:12
+### HOMICIDE on 2025-03-14 00:44
 - Location: BBC News
-- Description: Maureen Rickards, 50, is convicted of murdering her husband after "terrorising" him for years.
+- Description: The BBC speaks to multiple witnesses who say M23 fighters hunted down and killed young men in Goma.
 
-
-### HOMICIDE on 2025-03-13 18:07
-- Location: Newsweek
-- Description: A family is suing the city of San Diego after their relative was found dead in a van a month after the vehicle was towed away.
-
-Analysis generated at: Fri Mar 14 18:17:28 UTC 2025
+Analysis generated at: Sat Mar 15 01:00:41 UTC 2025
