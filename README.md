@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Mar 15 12:37:45 UTC 2025
+Last updated: Sat Mar 15 18:16:33 UTC 2025
 
 ## Latest Analysis
 
-Loaded 20315 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-14 12:31:21
+Loaded 20407 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-14 18:08:46
 
 Incidents by source:
 source
-newsapi           20214
+newsapi           20306
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2025-03-14 12:31
-- Location: TheJournal.ie
-- Description: The theft happened yesterday in the Catholic Chaplaincy on the University Road in Belfast.
+### OTHER on 2025-03-14 18:08
+- Location: Pajiba.com
+- Description: Last week, I reviewed a Netflix limited series called Toxic Town, and this week, I'm reviewing another Netflix limited series, Adolescence. What they have in common is that they're British, they each run four episodes, they come from the same...
+Read more...
 
 
-### HOMICIDE on 2025-03-14 12:11
+### HOMICIDE on 2025-03-14 18:06
 - Location: Freerepublic.com
-- Description: The hush that followed President Kennedy's 1963 Dallas murder was a matter of universally shared basic decency. But today, if a conservative figure fell to a lunatic's bullets, progressive Democrats would freestyle on the coffin lid. Recall that following the…
+- Description: Hard to believe more than a quarter-century later the brutal Columbine massacre is still claiming victims: Anne Marie Hochhalter, a Columbine survivor, died last month at the age of 43. We are now learning her death is being ruled a homicide because of compli…
 
 
-### HOMICIDE on 2025-03-14 12:09
-- Location: RT
-- Description: Ukrainian nationalist Demyan Ganul has been killed in Odessa, according to local media Read Full Article at RT.com
+### SHOOTING on 2025-03-14 18:04
+- Location: NDTV News
+- Description: A man standing near his house, waiting to have &#039;sehri&#039; (the pre-dawn meal consumed by Muslims before fasting for Ramzan), was gunned down by four men on motorcycles in Uttar Pradesh&#039;s Aligarh on Friday.
 
 
-### ASSAULT on 2025-03-14 12:08
-- Location: NBC News
-- Description: Police in Japan said Friday that they had arrested a suspect in the fatal stabbing of a YouTuber while she was livestreaming on a downtown Tokyo street.
+### ASSAULT on 2025-03-14 18:03
+- Location: Freerepublic.com
+- Description: Pro-Bass forces argue that she is under attack from “wealthy oligarchs,” including Rick Caruso and Elon Musk.The rallying cry from the mayor’s allies follows the toughest two months of her political career.Proponents of the recall say Bass has mishandled the …
 
 
-### HOMICIDE on 2025-03-14 12:07
-- Location: New York Post
-- Description: Jill Kwatkoski and her husband Tom were left severely injured when their neighbor, John Adamo, 54, suddenly opened fire on them outside their Jersey Shore home on Tuesday afternoon after an apparent years-long feud, cops said.
+### ROBBERY/THEFT on 2025-03-14 18:00
+- Location: IndieWire
+- Description: Ridley Scott directs the premiere episode and produces Apple's Philly-set crime thriller, which follows a pair of low-level grifters whose latest robbery proves too big to filch.
 
-Analysis generated at: Sat Mar 15 12:37:45 UTC 2025
+Analysis generated at: Sat Mar 15 18:16:33 UTC 2025
