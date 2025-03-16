@@ -1,10 +1,10 @@
 
-Loaded 20414 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-15 01:35:00
+Loaded 20436 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-15 06:00:00
 
 Incidents by source:
 source
-newsapi           20313
+newsapi           20335
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2025-03-15 01:35
-- Location: The Star Online
-- Description: KLUANG: Police arrested 11 men in a series of raids across Simpang Renggam, Kampung Gajah, and Tangkak on March 13 in connection with multiple break-ins, trespassing, and theft cases. Read full story
+### OTHER on 2025-03-15 06:00
+- Location: Naturalnews.com
+- Description: A Columbia University graduate, Mahmoud Khalil, was arrested by ICE on March 8 at his student residence. Despite presenting his green card, ICE agents allegedly threatened to revoke it, sparking outrage over potential suppression of pro-Palestine advocacy. Th…
 
 
-### OTHER on 2025-03-15 01:29
-- Location: Freerepublic.com
-- Description: Mahmoud Khalil is living the kind of nightmare that Americans might associate with the Soviet Union under Joseph Stalin rather than the country in which we live. On March 8, as he and his wife were returning to their New York City apartment after eating out, …
+### HOMICIDE on 2025-03-15 05:42
+- Location: The Times of India
+- Description: BJP leader Surendra Jawahra was allegedly shot dead by neighbour Monu over a land dispute in Sonipat on March 14. The victim had purchased land from the accused's relatives, leading to the conflict. Police formed three teams to arrest Monu, and investigations…
 
 
-### HOMICIDE on 2025-03-15 01:12
-- Location: Fox News
-- Description: Authorities have unveiled the recording of a panicked 911 call placed after the stabbings of four University of Idaho students in November 2022.
+### OTHER on 2025-03-15 05:38
+- Location: Red Voltaire
+- Description: Former number 2 of Daesh and current self-proclaimed president of Syria Ahmad al-Shareh said on March 9: “We must preserve national unity, civil peace as much as possible, and, God willing, we will be able to live together in this country as much as possible.…
 
 
-### OTHER on 2025-03-15 00:32
-- Location: Fox News
-- Description: The Federal Aviation Administration announced a "series of steps" it will take to address safety concerns after a fatal midair crash near Ronald Reagan Washington National Airport.
+### OTHER on 2025-03-15 05:35
+- Location: Red Voltaire
+- Description: Former number 2 of Daesh and current self-proclaimed president of Syria Ahmad al-Shareh said on March 9: “We must preserve national unity, civil peace as much as possible, and, God willing, we will be able to live together in this country as much as possible.…
 
 
-### HOMICIDE on 2025-03-15 00:23
-- Location: The Punch
-- Description: The rise and fall of some dreaded criminals in Anambra State offers a cautionary tale for youths tempted to lead a life of crime. CHIJIOKE IREMEKA explores how the fall of deadly criminals, such as Oliver Nweze, Okwudili Ndiwe (Derico Nwamama), and Chiejina, …
+### HOMICIDE on 2025-03-15 05:07
+- Location: Gossiplankanews.com
+- Description: Arrest of Main Suspect in the Murder of a Temple Chief:The main suspect involved in the conspiracy to murder the abbot of a temple in Seeduwa, Waththawa area, was arrested by immigration and emigration officials at Katunayake International Airport upon her re…
 
-Analysis generated at: Sun Mar 16 01:48:49 UTC 2025
+Analysis generated at: Sun Mar 16 06:16:46 UTC 2025
