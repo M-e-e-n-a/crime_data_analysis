@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Mar 16 06:16:46 UTC 2025
+Last updated: Sun Mar 16 12:22:13 UTC 2025
 
 ## Latest Analysis
 
-Loaded 20436 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-15 06:00:00
+Loaded 20482 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-15 12:20:29
 
 Incidents by source:
 source
-newsapi           20335
+newsapi           20381
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-03-15 06:00
-- Location: Naturalnews.com
-- Description: A Columbia University graduate, Mahmoud Khalil, was arrested by ICE on March 8 at his student residence. Despite presenting his green card, ICE agents allegedly threatened to revoke it, sparking outrage over potential suppression of pro-Palestine advocacy. Th…
+### OTHER on 2025-03-15 12:20
+- Location: Digital Trends
+- Description: If you ever got caught up in an elaborate lie in order to save your own skin growing up, Expelled! is the game for you.
 
 
-### HOMICIDE on 2025-03-15 05:42
-- Location: The Times of India
-- Description: BJP leader Surendra Jawahra was allegedly shot dead by neighbour Monu over a land dispute in Sonipat on March 14. The victim had purchased land from the accused's relatives, leading to the conflict. Police formed three teams to arrest Monu, and investigations…
+### HOMICIDE on 2025-03-15 12:00
+- Location: Fox News
+- Description: Massachusetts woman Karen Read is accused of striking her Boston Police officer boyfriend John O'Keefe with her SUV and leaving him to die in a snowstorm.
 
 
-### OTHER on 2025-03-15 05:38
-- Location: Red Voltaire
-- Description: Former number 2 of Daesh and current self-proclaimed president of Syria Ahmad al-Shareh said on March 9: “We must preserve national unity, civil peace as much as possible, and, God willing, we will be able to live together in this country as much as possible.…
+### HOMICIDE on 2025-03-15 12:00
+- Location: The Denver Post
+- Description: A third suspect, a juvenile male, was arrested Feb. 27 on suspicion of murder, assault and robbery in the fatal shooting at RTD's Dayton Station.
 
 
-### OTHER on 2025-03-15 05:35
-- Location: Red Voltaire
-- Description: Former number 2 of Daesh and current self-proclaimed president of Syria Ahmad al-Shareh said on March 9: “We must preserve national unity, civil peace as much as possible, and, God willing, we will be able to live together in this country as much as possible.…
+### OTHER on 2025-03-15 12:00
+- Location: The New York Review of Books
+- Description: Mahmoud Khalil has been a public face of the pro-Palestine student movement at Columbia University and Barnard College since last spring. I have known him for over a year. During the encampment on campus he served as the lead negotiator with the Columbia admi…
 
 
-### HOMICIDE on 2025-03-15 05:07
-- Location: Gossiplankanews.com
-- Description: Arrest of Main Suspect in the Murder of a Temple Chief:The main suspect involved in the conspiracy to murder the abbot of a temple in Seeduwa, Waththawa area, was arrested by immigration and emigration officials at Katunayake International Airport upon her re…
+### HOMICIDE on 2025-03-15 11:57
+- Location: The Irish Times
+- Description: Jason Rhodes (26) of Downpatrick appeared before Belfast Magistrates' Court on Saturday
 
-Analysis generated at: Sun Mar 16 06:16:46 UTC 2025
+Analysis generated at: Sun Mar 16 12:22:13 UTC 2025
