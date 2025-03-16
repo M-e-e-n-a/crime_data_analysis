@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Mar 16 12:22:13 UTC 2025
+Last updated: Sun Mar 16 12:37:39 UTC 2025
 
 ## Latest Analysis
 
-Loaded 20482 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-15 12:20:29
+Loaded 20483 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-15 12:23:03
 
 Incidents by source:
 source
-newsapi           20381
+newsapi           20382
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -23,6 +23,11 @@ bution.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### OTHER on 2025-03-15 12:23
+- Location: The Jerusalem Post
+- Description: sraeli police arrested a government worker suspected of smuggling Georgian women into Israel using airport gate passes.
+
 
 ### OTHER on 2025-03-15 12:20
 - Location: Digital Trends
@@ -43,9 +48,4 @@ bution.svg)
 - Location: The New York Review of Books
 - Description: Mahmoud Khalil has been a public face of the pro-Palestine student movement at Columbia University and Barnard College since last spring. I have known him for over a year. During the encampment on campus he served as the lead negotiator with the Columbia admi…
 
-
-### HOMICIDE on 2025-03-15 11:57
-- Location: The Irish Times
-- Description: Jason Rhodes (26) of Downpatrick appeared before Belfast Magistrates' Court on Saturday
-
-Analysis generated at: Sun Mar 16 12:22:13 UTC 2025
+Analysis generated at: Sun Mar 16 12:37:39 UTC 2025
