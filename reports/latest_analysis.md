@@ -1,10 +1,10 @@
 
-Loaded 20483 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-15 12:23:03
+Loaded 20542 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-15 18:14:33
 
 Incidents by source:
 source
-newsapi           20382
+newsapi           20441
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-03-15 12:23
-- Location: The Jerusalem Post
-- Description: sraeli police arrested a government worker suspected of smuggling Georgian women into Israel using airport gate passes.
+### HOMICIDE on 2025-03-15 18:14
+- Location: TMZ
+- Description: The 911 call from the night of the shocking University of Idaho murders has been released ... and, it gives a glimpse into how terrified the two surviving housemates truly were. Authorities released the audio Friday ... and, it begins with the…
 
 
-### OTHER on 2025-03-15 12:20
-- Location: Digital Trends
-- Description: If you ever got caught up in an elaborate lie in order to save your own skin growing up, Expelled! is the game for you.
+### SHOOTING on 2025-03-15 18:08
+- Location: fox6now.com
+- Description: Milwaukee County prosecutors have charged a seventh person in connection to a 2024 shooting that wounded three people at an after-hours social club.
 
 
-### HOMICIDE on 2025-03-15 12:00
-- Location: Fox News
-- Description: Massachusetts woman Karen Read is accused of striking her Boston Police officer boyfriend John O'Keefe with her SUV and leaving him to die in a snowstorm.
-
-
-### HOMICIDE on 2025-03-15 12:00
+### ROBBERY/THEFT on 2025-03-15 18:07
 - Location: The Denver Post
-- Description: A third suspect, a juvenile male, was arrested Feb. 27 on suspicion of murder, assault and robbery in the fatal shooting at RTD's Dayton Station.
+- Description: Breider Jhoan Ospino-Morillo, 24, was arrested in Auburn Hills, Mich., by local police responding to a theft from a clothing store.
 
 
-### OTHER on 2025-03-15 12:00
-- Location: The New York Review of Books
-- Description: Mahmoud Khalil has been a public face of the pro-Palestine student movement at Columbia University and Barnard College since last spring. I have known him for over a year. During the encampment on campus he served as the lead negotiator with the Columbia admi…
+### OTHER on 2025-03-15 18:07
+- Location: Cointelegraph
+- Description: The Open Network (TON) Society released a statement on March 15 celebrating the return of Pavel Durov's passport as a win for freedom of speech, online privacy, and innovation.According to the AFP news agency, Durov left France and headed to Dubai on the morn…
 
-Analysis generated at: Sun Mar 16 12:37:39 UTC 2025
+
+### OTHER on 2025-03-15 17:49
+- Location: Securityaffairs.com
+- Description: Pirated software seekers are targeted by the new MassJacker clipper malware, according to CyberArk researchers. A new malware campaign spreading a new clipper malware dubbed MassJacker targets users searching for pirated software, Cyberark users warn. A clipp…
+
+Analysis generated at: Sun Mar 16 18:16:59 UTC 2025
