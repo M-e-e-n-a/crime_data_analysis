@@ -1,10 +1,10 @@
 
-Loaded 20552 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-16 01:45:31
+Loaded 20568 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-16 06:00:00
 
 Incidents by source:
 source
-newsapi           20451
+newsapi           20467
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-03-16 01:45
-- Location: WSB Atlanta
-- Description: The South Fulton Police Department is investigating a shooting that occurred Friday night.
+### OTHER on 2025-03-16 06:00
+- Location: Naturalnews.com
+- Description: Meta-owned WhatsApp has warned it may withdraw from the Swedish market if a proposed law, allowing police and security services to access encrypted communications, is passed. The law would require tech companies to create a “back door” for authorities to bypa…
 
 
-### SHOOTING on 2025-03-16 01:30
-- Location: KTNV Las Vegas
-- Description: According to the Las Vegas Metropolitan Police Department, there are preliminary reports of shots fired near the 2800 block of Las Vegas Boulevard.
+### HOMICIDE on 2025-03-16 05:30
+- Location: FOX40
+- Description: The Rocklin Police Department is investigating a fatal road rage incident that resulted in the death of a 55-year-old man and the arrest of a 20-year-old man...
 
 
-### HOMICIDE on 2025-03-16 01:30
-- Location: The Japan Times
-- Description: Police said the suspect also used a stun grenade right before the attack in order to cause panic.
+### OTHER on 2025-03-16 05:29
+- Location: The Times of India
+- Description: Coimbatore city police arrested a car driver for kidnapping an 11-year-old schoolboy and demanding a ransom of Rs 12 lakhs. The police successfully traced the boy to Bhavani in Erode district and rescued him safely. The driver had financial disputes with the …
 
 
-### OTHER on 2025-03-16 01:13
+### OTHER on 2025-03-16 04:52
 - Location: Fox News
-- Description: Joshua Riibe, who was last seen with the missing University of Pittsburgh student Sudiksha Konanki, no longer has his passport, according to his attorneys.
+- Description: An Indiana police officer allegedly forced his six-year-old daughter to stand outside in cold temperatures holding a sign threatening her brother as punishment.
 
 
-### OTHER on 2025-03-16 01:01
-- Location: Starweekly.com.au
-- Description: An Australian-first machete ban may be ineffective in stemming the tide of knife crime, with thugs likely to ignore it...
-The post Machetes to be banned in Vic appeared first on Northern.
+### OTHER on 2025-03-16 04:09
+- Location: Thefreedictionary.com
+- Description: An Afro-Brazilian dance form that incorporates self-defense maneuvers, capoeira originated among African slaves in 19th-century Brazil and is now a popular art form practiced worldwide. Capoeira is performed in a special roda, or circle, where practitioners t…
 
-Analysis generated at: Mon Mar 17 01:45:56 UTC 2025
+Analysis generated at: Mon Mar 17 06:19:14 UTC 2025
