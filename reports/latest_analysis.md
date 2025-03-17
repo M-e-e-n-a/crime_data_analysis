@@ -1,10 +1,10 @@
 
-Loaded 20542 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-15 18:14:33
+Loaded 20548 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-16 01:01:41
 
 Incidents by source:
 source
-newsapi           20441
+newsapi           20447
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-03-15 18:14
-- Location: TMZ
-- Description: The 911 call from the night of the shocking University of Idaho murders has been released ... and, it gives a glimpse into how terrified the two surviving housemates truly were. Authorities released the audio Friday ... and, it begins with the…
+### OTHER on 2025-03-16 01:01
+- Location: Starweekly.com.au
+- Description: An Australian-first machete ban may be ineffective in stemming the tide of knife crime, with thugs likely to ignore it...
+The post Machetes to be banned in Vic appeared first on Northern.
 
 
-### SHOOTING on 2025-03-15 18:08
-- Location: fox6now.com
-- Description: Milwaukee County prosecutors have charged a seventh person in connection to a 2024 shooting that wounded three people at an after-hours social club.
+### OTHER on 2025-03-16 00:45
+- Location: The Daily Caller
+- Description: President Trump invoked the Alien Enemies Act of 1798 against Venezuelan gang Tren de Aragua on Saturday, making gang members liable to be arrested and removed.
 
 
-### ROBBERY/THEFT on 2025-03-15 18:07
-- Location: The Denver Post
-- Description: Breider Jhoan Ospino-Morillo, 24, was arrested in Auburn Hills, Mich., by local police responding to a theft from a clothing store.
+### SHOOTING on 2025-03-16 00:41
+- Location: WPXI Pittsburgh
+- Description: A man is facing charges after police said he shot at a building in Aliquippa while someone was inside.
 
 
-### OTHER on 2025-03-15 18:07
-- Location: Cointelegraph
-- Description: The Open Network (TON) Society released a statement on March 15 celebrating the return of Pavel Durov's passport as a win for freedom of speech, online privacy, and innovation.According to the AFP news agency, Durov left France and headed to Dubai on the morn…
+### HOMICIDE on 2025-03-16 00:24
+- Location: New York Post
+- Description: Michael Hernandez was walking near Flatbush and Atlantic Avenues when he was apparently set upon by four people, stabbed once in the chest and multiple times in the back, police and sources said.
 
 
-### OTHER on 2025-03-15 17:49
-- Location: Securityaffairs.com
-- Description: Pirated software seekers are targeted by the new MassJacker clipper malware, according to CyberArk researchers. A new malware campaign spreading a new clipper malware dubbed MassJacker targets users searching for pirated software, Cyberark users warn. A clipp…
+### HOMICIDE on 2025-03-16 00:22
+- Location: PEOPLE
+- Description: Logansport police officer Cody Scott and his wife, Kylie Scott, have since pleaded not guilty to two felony neglect charges
 
-Analysis generated at: Sun Mar 16 18:16:59 UTC 2025
+Analysis generated at: Mon Mar 17 01:03:52 UTC 2025
