@@ -1,10 +1,10 @@
 
-Loaded 20596 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-16 12:15:30
+Loaded 20649 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-16 18:13:21
 
 Incidents by source:
 source
-newsapi           20495
+newsapi           20548
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-03-16 12:15
-- Location: WPXI Pittsburgh
-- Description: Public safety officials say officers patrolling the district heard several gunshots at the intersection of East Carson Street and South 18th Street around 2:45 a.m.
+### OTHER on 2025-03-16 18:13
+- Location: The Jerusalem Post
+- Description: The IDF is currently investigating whether the documents contained material whose exposure could cause significant damage.
 
 
-### HOMICIDE on 2025-03-16 12:07
-- Location: The Times of India
-- Description: Under Chief Minister Yogi Adityanath, Uttar Pradesh has transformed from crime-ridden to a model of law and order with a zero-tolerance policy. Significant achievements include the prosecution of mafia criminals, recovery of illegally occupied land, and enhan…
+### OTHER on 2025-03-16 18:08
+- Location: Freerepublic.com
+- Description: The Trump administration has transferred hundreds of immigrants to El Salvador despite a federal judge’s order temporarily barring the deportations under an 18th century wartime declaration targeting Venezuelan gang members, officials said Sunday. Flights wer…
 
 
-### HOMICIDE on 2025-03-16 11:42
-- Location: Sky.com
-- Description: One man has been found dead and another was left with "potentially life-changing facial injuries" after a double stabbing in Coventry, police have said.
+### OTHER on 2025-03-16 18:03
+- Location: Newsbreak.com
+- Description: Two former executives of a Louisiana compounding pharmacy were convicted of conspiring to defraud New Jersey and military health benefits programs of appro
 
 
-### DRUG RELATED on 2025-03-16 11:36
-- Location: Westernjournal.com
-- Description: Despite his controversial reputation, President Rodrigo Duterte left office in 2022 with an approval rating greater than 70 percent.
+### OTHER on 2025-03-16 18:00
+- Location: CinemaBlend
+- Description: Read on for how to watch Protection online, and stream this breathless six-part thriller starring Siobhan Finneran free on ITVX and from anywhere in the world.
 
 
-### OTHER on 2025-03-16 11:30
-- Location: Forbes
-- Description: With so many iconic sites to explore, it's important to know the key do's and don’ts to ensure a smooth and respectful visit.
+### OTHER on 2025-03-16 17:50
+- Location: Freerepublic.com
+- Description: Republicans say they want less crime and homelessness in D.C. Cutting the city’s budget won’t help.The nation was spared a government shutdown on Friday after a sufficient number of Senate Democrats reluctantly agreed to pass a continuing resolution that woul…
 
-Analysis generated at: Mon Mar 17 12:43:35 UTC 2025
+Analysis generated at: Mon Mar 17 18:18:26 UTC 2025
