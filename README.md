@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Mar 17 06:19:14 UTC 2025
+Last updated: Mon Mar 17 12:26:26 UTC 2025
 
 ## Latest Analysis
 
-Loaded 20568 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-16 06:00:00
+Loaded 20596 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-16 12:15:30
 
 Incidents by source:
 source
-newsapi           20467
+newsapi           20495
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-03-16 06:00
-- Location: Naturalnews.com
-- Description: Meta-owned WhatsApp has warned it may withdraw from the Swedish market if a proposed law, allowing police and security services to access encrypted communications, is passed. The law would require tech companies to create a “back door” for authorities to bypa…
+### SHOOTING on 2025-03-16 12:15
+- Location: WPXI Pittsburgh
+- Description: Public safety officials say officers patrolling the district heard several gunshots at the intersection of East Carson Street and South 18th Street around 2:45 a.m.
 
 
-### HOMICIDE on 2025-03-16 05:30
-- Location: FOX40
-- Description: The Rocklin Police Department is investigating a fatal road rage incident that resulted in the death of a 55-year-old man and the arrest of a 20-year-old man...
-
-
-### OTHER on 2025-03-16 05:29
+### HOMICIDE on 2025-03-16 12:07
 - Location: The Times of India
-- Description: Coimbatore city police arrested a car driver for kidnapping an 11-year-old schoolboy and demanding a ransom of Rs 12 lakhs. The police successfully traced the boy to Bhavani in Erode district and rescued him safely. The driver had financial disputes with the …
+- Description: Under Chief Minister Yogi Adityanath, Uttar Pradesh has transformed from crime-ridden to a model of law and order with a zero-tolerance policy. Significant achievements include the prosecution of mafia criminals, recovery of illegally occupied land, and enhan…
 
 
-### OTHER on 2025-03-16 04:52
-- Location: Fox News
-- Description: An Indiana police officer allegedly forced his six-year-old daughter to stand outside in cold temperatures holding a sign threatening her brother as punishment.
+### HOMICIDE on 2025-03-16 11:42
+- Location: Sky.com
+- Description: One man has been found dead and another was left with "potentially life-changing facial injuries" after a double stabbing in Coventry, police have said.
 
 
-### OTHER on 2025-03-16 04:09
-- Location: Thefreedictionary.com
-- Description: An Afro-Brazilian dance form that incorporates self-defense maneuvers, capoeira originated among African slaves in 19th-century Brazil and is now a popular art form practiced worldwide. Capoeira is performed in a special roda, or circle, where practitioners t…
+### DRUG RELATED on 2025-03-16 11:36
+- Location: Westernjournal.com
+- Description: Despite his controversial reputation, President Rodrigo Duterte left office in 2022 with an approval rating greater than 70 percent.
 
-Analysis generated at: Mon Mar 17 06:19:14 UTC 2025
+
+### OTHER on 2025-03-16 11:30
+- Location: Forbes
+- Description: With so many iconic sites to explore, it's important to know the key do's and don’ts to ensure a smooth and respectful visit.
+
+Analysis generated at: Mon Mar 17 12:26:26 UTC 2025
