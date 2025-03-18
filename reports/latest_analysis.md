@@ -1,10 +1,10 @@
 
-Loaded 20780 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-17 12:40:10
+Loaded 20871 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-17 18:17:00
 
 Incidents by source:
 source
-newsapi           20679
+newsapi           20770
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-03-17 12:40
-- Location: NDTV News
-- Description: Two women journalists who were arrested earlier this month for allegedly circulating &quot;abusive&quot; content against Telangana Chief Minister Revanth Reddy have secured bail today.
+### HOMICIDE on 2025-03-17 18:17
+- Location: LancasterOnline
+- Description: Pennsylvania State Police are investigating two shootings Saturday that killed three cows and injured a horse in southern Lancaster County.
 
 
-### HOMICIDE on 2025-03-17 12:36
-- Location: BBC News
-- Description: Crimestoppers offers a £20,000 reward for information about Charlene Hobbs, 36, missing since July.
+### OTHER on 2025-03-17 18:11
+- Location: CBC News
+- Description: Winnipeg police are looking for the driver of a white van they say was involved in a hit-and-run that seriously injured a pedestrian on the weekend.
 
 
-### OTHER on 2025-03-17 12:36
-- Location: Al Jazeera English
-- Description: The US president invoked a 1798 law to deport alleged members of the Venezuelan gang Tren de Aragua to El Salvador.
+### OTHER on 2025-03-17 18:02
+- Location: Hollywood Life
+- Description: The 20-year-old University of Pittsburgh student has been missing since March 6, and Joshua Riibe, the last person to see her, was named a person of interest—find out more about him here.
 
 
-### HOMICIDE on 2025-03-17 12:27
-- Location: International Business Times
-- Description: North Macedonia lowered flags to half staff and people flocked to memorials Monday as the nation mourned a horrific nightclub blaze that killed 59 people at the weekend.
+### SHOOTING on 2025-03-17 18:02
+- Location: The Denver Post
+- Description: Broomfield officers responded to reports of a road rage shooting on eastbound U.S. 36, near where the highway intersects with Flatiron Crossing Drive, at about 7:30 p.m. Saturday.
 
 
-### OTHER on 2025-03-17 12:20
-- Location: LADbible
-- Description: Police have been piecing Sudiksha Konanki's last movements together since the US student vanished in Punta Cana during a trip with her friends on 6 March.
+### HOMICIDE on 2025-03-17 18:00
+- Location: TMZ
+- Description: Luigi Mangione says the cops who arrested him at a Pennsylvania McDonald's got a DNA sample with a little trickery ... by offering him a snack. The accused murderer's legal team is now arguing police violated Luigi's rights when they arrested and…
 
-Analysis generated at: Tue Mar 18 12:42:55 UTC 2025
+Analysis generated at: Tue Mar 18 18:18:47 UTC 2025
