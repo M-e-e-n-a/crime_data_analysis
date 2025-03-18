@@ -1,10 +1,10 @@
 
-Loaded 20776 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-17 12:20:40
+Loaded 20780 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-17 12:40:10
 
 Incidents by source:
 source
-newsapi           20675
+newsapi           20679
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
+### OTHER on 2025-03-17 12:40
+- Location: NDTV News
+- Description: Two women journalists who were arrested earlier this month for allegedly circulating &quot;abusive&quot; content against Telangana Chief Minister Revanth Reddy have secured bail today.
+
+
+### HOMICIDE on 2025-03-17 12:36
+- Location: BBC News
+- Description: Crimestoppers offers a £20,000 reward for information about Charlene Hobbs, 36, missing since July.
+
+
+### OTHER on 2025-03-17 12:36
+- Location: Al Jazeera English
+- Description: The US president invoked a 1798 law to deport alleged members of the Venezuelan gang Tren de Aragua to El Salvador.
+
+
+### HOMICIDE on 2025-03-17 12:27
+- Location: International Business Times
+- Description: North Macedonia lowered flags to half staff and people flocked to memorials Monday as the nation mourned a horrific nightclub blaze that killed 59 people at the weekend.
+
+
 ### OTHER on 2025-03-17 12:20
 - Location: LADbible
 - Description: Police have been piecing Sudiksha Konanki's last movements together since the US student vanished in Punta Cana during a trip with her friends on 6 March.
 
-
-### OTHER on 2025-03-17 12:13
-- Location: TMZ
-- Description: New video purportedly shows University of Pittsburgh student Sudiksha Konanki and Joshua Riibe, the person of interest in her disappearance case, hanging out separately at a bar just hours before she vanished. Noticias SIN — a TV news station in…
-
-
-### OTHER on 2025-03-17 12:13
-- Location: TMZ
-- Description: New video purportedly shows University of Pittsburgh student Sudikska Konarki and Joshua Riibe, the person of interest in her disappearance case, hanging out separately at a bar just hours before she vanished. Noticia SIN — a TV news station in…
-
-
-### HOMICIDE on 2025-03-17 12:12
-- Location: NBC News
-- Description: The family of 19-year-old twin brothers found fatally shot on a Georgia mountain this month have rejected a police theory that one killed the other and then himself in an apparent murder-suicide.
-
-
-### HOMICIDE on 2025-03-17 12:05
-- Location: RT
-- Description: Rodrigo Duterte has been taken to The Hague to face the International Criminal Court on murder charges related to his ‘war on drugs’ Read Full Article at RT.com
-
-Analysis generated at: Tue Mar 18 12:25:57 UTC 2025
+Analysis generated at: Tue Mar 18 12:42:55 UTC 2025
