@@ -1,10 +1,10 @@
 
-Loaded 20666 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-17 01:42:39
+Loaded 20712 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-17 06:09:14
 
 Incidents by source:
 source
-newsapi           20565
+newsapi           20611
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,30 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-03-17 01:42
-- Location: Breitbart News
-- Description: Tony Dolan said of Trump's second Inauguration: "What is inescapable is the glow and unbounded joy. Congrats to you all. America and history owes you. You must enjoy it all. What a time to be alive."
-The post In Memoriam — Tony Dolan, 77: Linked Reagan, Trump…
+### DRUG RELATED on 2025-03-17 06:09
+- Location: ABC News (AU)
+- Description: A Canberra man who pleaded guilty to trafficking drugs denies he had anything to do with the importation of a parcel containing methamphetamines, mailed from California to an address in the ACT.
 
 
-### OTHER on 2025-03-17 01:42
-- Location: BBC News
-- Description: The gang began in a prison and is estimated to have thousands of members across eight countries.
+### OTHER on 2025-03-17 06:05
+- Location: The Times of India
+- Description: Delhi Police will deploy 'anti-eve teasing' squads to improve women's safety in public places. Each district will have squads led by ACPs from the Crime Against Women Cell. Squads will focus on preventing, deterring, and responding to harassment. They will co…
 
 
-### OTHER on 2025-03-17 01:12
-- Location: The Jerusalem Post
-- Description: Khalil's arrest has been met with staunch opposition, while the massacre in Syria is legitimized; the West's double standards are the height of hypocrisy.
+### OTHER on 2025-03-17 06:01
+- Location: soompi
+- Description: Upcoming drama “Hunter with a Scalpel” has unveiled its first poster! On March 17, the production team of “Hunter with a Scalpel” released a special poster, showcasing the actors fully immersed in their roles. “Hunter with a Scalpel” is a psychological crime …
 
 
-### OTHER on 2025-03-17 01:11
-- Location: Crikey
-- Description: An intense spate of alarmist headlines preceded the Victorian government announcing what some experts call 'knee-jerk' bail reforms.
-The post The relentless media campaign behind Victoria’s ‘knee-jerk’ bail crackdown appeared first on Crikey.
+### OTHER on 2025-03-17 06:00
+- Location: Smartbitchestrashybooks.com
+- Description: First and of most importance: if you decide to read this book, please take the listed Content and Trigger Warnings seriously, because some were big unhappy surprises to me and to other readers. This book started out so strong and then collapsed at the end. Af…
 
 
-### HOMICIDE on 2025-03-17 01:05
-- Location: Starcommunity.com.au
-- Description: Calls grow for an immediate ban on machetes after a 24-year-old Clyde man has died after being stabbed at Marriott […]
+### OTHER on 2025-03-17 06:00
+- Location: Naturalnews.com
+- Description: A United Nations judge, Lydia Mugambe, has been convicted of forcing a Ugandan woman into domestic servitude in the U.K. Mugambe, a Ugandan High Court judge and UN appointee, exploited her position to deceive the victim. Mugambe confiscated the woman’s passpo…
 
-Analysis generated at: Tue Mar 18 01:43:46 UTC 2025
+Analysis generated at: Tue Mar 18 06:18:59 UTC 2025
