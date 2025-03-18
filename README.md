@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Mar 18 06:18:59 UTC 2025
+Last updated: Tue Mar 18 12:25:57 UTC 2025
 
 ## Latest Analysis
 
-Loaded 20712 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-17 06:09:14
+Loaded 20776 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-17 12:20:40
 
 Incidents by source:
 source
-newsapi           20611
+newsapi           20675
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### DRUG RELATED on 2025-03-17 06:09
-- Location: ABC News (AU)
-- Description: A Canberra man who pleaded guilty to trafficking drugs denies he had anything to do with the importation of a parcel containing methamphetamines, mailed from California to an address in the ACT.
+### OTHER on 2025-03-17 12:20
+- Location: LADbible
+- Description: Police have been piecing Sudiksha Konanki's last movements together since the US student vanished in Punta Cana during a trip with her friends on 6 March.
 
 
-### OTHER on 2025-03-17 06:05
-- Location: The Times of India
-- Description: Delhi Police will deploy 'anti-eve teasing' squads to improve women's safety in public places. Each district will have squads led by ACPs from the Crime Against Women Cell. Squads will focus on preventing, deterring, and responding to harassment. They will co…
+### OTHER on 2025-03-17 12:13
+- Location: TMZ
+- Description: New video purportedly shows University of Pittsburgh student Sudiksha Konanki and Joshua Riibe, the person of interest in her disappearance case, hanging out separately at a bar just hours before she vanished. Noticias SIN — a TV news station in…
 
 
-### OTHER on 2025-03-17 06:01
-- Location: soompi
-- Description: Upcoming drama “Hunter with a Scalpel” has unveiled its first poster! On March 17, the production team of “Hunter with a Scalpel” released a special poster, showcasing the actors fully immersed in their roles. “Hunter with a Scalpel” is a psychological crime …
+### OTHER on 2025-03-17 12:13
+- Location: TMZ
+- Description: New video purportedly shows University of Pittsburgh student Sudikska Konarki and Joshua Riibe, the person of interest in her disappearance case, hanging out separately at a bar just hours before she vanished. Noticia SIN — a TV news station in…
 
 
-### OTHER on 2025-03-17 06:00
-- Location: Smartbitchestrashybooks.com
-- Description: First and of most importance: if you decide to read this book, please take the listed Content and Trigger Warnings seriously, because some were big unhappy surprises to me and to other readers. This book started out so strong and then collapsed at the end. Af…
+### HOMICIDE on 2025-03-17 12:12
+- Location: NBC News
+- Description: The family of 19-year-old twin brothers found fatally shot on a Georgia mountain this month have rejected a police theory that one killed the other and then himself in an apparent murder-suicide.
 
 
-### OTHER on 2025-03-17 06:00
-- Location: Naturalnews.com
-- Description: A United Nations judge, Lydia Mugambe, has been convicted of forcing a Ugandan woman into domestic servitude in the U.K. Mugambe, a Ugandan High Court judge and UN appointee, exploited her position to deceive the victim. Mugambe confiscated the woman’s passpo…
+### HOMICIDE on 2025-03-17 12:05
+- Location: RT
+- Description: Rodrigo Duterte has been taken to The Hague to face the International Criminal Court on murder charges related to his ‘war on drugs’ Read Full Article at RT.com
 
-Analysis generated at: Tue Mar 18 06:18:59 UTC 2025
+Analysis generated at: Tue Mar 18 12:25:57 UTC 2025
