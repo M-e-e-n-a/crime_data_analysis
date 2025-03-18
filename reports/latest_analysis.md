@@ -1,10 +1,10 @@
 
-Loaded 20649 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-16 18:13:21
+Loaded 20661 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-17 01:01:23
 
 Incidents by source:
 source
-newsapi           20548
+newsapi           20560
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-03-16 18:13
+### OTHER on 2025-03-17 01:01
+- Location: RNZ
+- Description: The company is warning people to be wary of scam texts.
+
+
+### OTHER on 2025-03-17 00:38
+- Location: Fox News
+- Description: A Jewish man was "speechless" after reportedly seeing an Elon Musk protester draw a swastika on his Cybertruck in NYC. The incident comes amid a wave of anti-DOGE protests in the U.S.
+
+
+### OTHER on 2025-03-17 00:37
+- Location: ABC News (AU)
+- Description: The Israeli prime minister says the nation’s security cabinet will vote to dismiss the top spy, after an extraordinary breakdown between the pair.
+
+
+### OTHER on 2025-03-17 00:33
 - Location: The Jerusalem Post
-- Description: The IDF is currently investigating whether the documents contained material whose exposure could cause significant damage.
+- Description: American Jews should ensure that Khalil is given full protection of the law, ensuring that their future rights under that law are protected, too.
 
 
-### OTHER on 2025-03-16 18:08
-- Location: Freerepublic.com
-- Description: The Trump administration has transferred hundreds of immigrants to El Salvador despite a federal judge’s order temporarily barring the deportations under an 18th century wartime declaration targeting Venezuelan gang members, officials said Sunday. Flights wer…
+### OTHER on 2025-03-17 00:30
+- Location: The Times of India
+- Description: Until now, banks and payment firms relied on manual information when a customer filed a complaint with I4C on payment frauds. However, from now on, alerts will be automatically generated in the bank's system, prompting faster action.
 
-
-### OTHER on 2025-03-16 18:03
-- Location: Newsbreak.com
-- Description: Two former executives of a Louisiana compounding pharmacy were convicted of conspiring to defraud New Jersey and military health benefits programs of appro
-
-
-### OTHER on 2025-03-16 18:00
-- Location: CinemaBlend
-- Description: Read on for how to watch Protection online, and stream this breathless six-part thriller starring Siobhan Finneran free on ITVX and from anywhere in the world.
-
-
-### OTHER on 2025-03-16 17:50
-- Location: Freerepublic.com
-- Description: Republicans say they want less crime and homelessness in D.C. Cutting the city’s budget won’t help.The nation was spared a government shutdown on Friday after a sufficient number of Senate Democrats reluctantly agreed to pass a continuing resolution that woul…
-
-Analysis generated at: Mon Mar 17 18:18:26 UTC 2025
+Analysis generated at: Tue Mar 18 01:01:55 UTC 2025
