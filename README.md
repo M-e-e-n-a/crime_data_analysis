@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Mar 18 18:18:48 UTC 2025
+Last updated: Wed Mar 19 01:02:44 UTC 2025
 
 ## Latest Analysis
 
-Loaded 20871 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-17 18:17:00
+Loaded 20878 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-18 01:00:00
 
 Incidents by source:
 source
-newsapi           20770
+newsapi           20777
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-03-17 18:17
-- Location: LancasterOnline
-- Description: Pennsylvania State Police are investigating two shootings Saturday that killed three cows and injured a horse in southern Lancaster County.
+### HOMICIDE on 2025-03-18 01:00
+- Location: Allthatsinteresting.com
+- Description: On June 25, 2009, Michael Jackson reportedly begged his personal physician Conrad Murray for drugs to help him sleep — including propofol — leading to the King of Pop's sudden demise.
+The post What Happened To Conrad Murray, The Doctor Found Guilty Of Manslau…
 
 
-### OTHER on 2025-03-17 18:11
-- Location: CBC News
-- Description: Winnipeg police are looking for the driver of a white van they say was involved in a hit-and-run that seriously injured a pedestrian on the weekend.
+### OTHER on 2025-03-18 00:18
+- Location: ABC News (AU)
+- Description: Premier Jacinta Allan is under fire for announcing a police operation that has already been running for nine months, while Opposition Leader Brad Battin is facing questions over a cruise holiday in Queensland.
 
 
-### OTHER on 2025-03-17 18:02
-- Location: Hollywood Life
-- Description: The 20-year-old University of Pittsburgh student has been missing since March 6, and Joshua Riibe, the last person to see her, was named a person of interest—find out more about him here.
+### HOMICIDE on 2025-03-18 00:11
+- Location: Yahoo Entertainment
+- Description: None
 
 
-### SHOOTING on 2025-03-17 18:02
-- Location: The Denver Post
-- Description: Broomfield officers responded to reports of a road rage shooting on eastbound U.S. 36, near where the highway intersects with Flatiron Crossing Drive, at about 7:30 p.m. Saturday.
+### OTHER on 2025-03-18 00:07
+- Location: Starcommunity.com.au
+- Description: Police are investigating a suspicious fire in Endeavour Hills early hours this morning. Emergency services including Fire Rescue Victoria responded […]
 
 
-### HOMICIDE on 2025-03-17 18:00
-- Location: TMZ
-- Description: Luigi Mangione says the cops who arrested him at a Pennsylvania McDonald's got a DNA sample with a little trickery ... by offering him a snack. The accused murderer's legal team is now arguing police violated Luigi's rights when they arrested and…
+### HOMICIDE on 2025-03-18 00:01
+- Location: Sky.com
+- Description: "You killed your mother... admit you are a witch."
 
-Analysis generated at: Tue Mar 18 18:18:47 UTC 2025
+Analysis generated at: Wed Mar 19 01:02:44 UTC 2025
