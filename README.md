@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Mar 19 12:25:53 UTC 2025
+Last updated: Wed Mar 19 12:42:39 UTC 2025
 
 ## Latest Analysis
 
-Loaded 20989 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-18 12:23:55
+Loaded 20990 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-18 12:30:00
 
 Incidents by source:
 source
-newsapi           20888
+newsapi           20889
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -23,6 +23,11 @@ bution.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### OTHER on 2025-03-18 12:30
+- Location: The Atlantic
+- Description: The policy’s real message is “Tax my voters; enrich my donors.”
+
 
 ### HOMICIDE on 2025-03-18 12:23
 - Location: ABC News
@@ -43,9 +48,4 @@ bution.svg)
 - Location: ABC News
 - Description: NASA's SpaceX Crew-10 mission successfully undocked from the International Space Station and is headed back to Earth, carrying a crew that includes two astronauts whose return to Earth was delayed.
 
-
-### OTHER on 2025-03-18 12:00
-- Location: Activistpost.com
-- Description: In the videos further below, historian Victor Davis Hanson explains that President Biden staged a revolution much like the French Revolution where society’s values were turned upside down. Paris Olympics Opening Ceremony Decoded! explains that France decided …
-
-Analysis generated at: Wed Mar 19 12:25:53 UTC 2025
+Analysis generated at: Wed Mar 19 12:42:39 UTC 2025
