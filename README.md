@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Mar 19 12:42:39 UTC 2025
+Last updated: Wed Mar 19 18:18:51 UTC 2025
 
 ## Latest Analysis
 
-Loaded 20990 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-18 12:30:00
+Loaded 21085 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-18 18:15:48
 
 Incidents by source:
 source
-newsapi           20889
+newsapi           20984
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-03-18 12:30
-- Location: The Atlantic
-- Description: The policy’s real message is “Tax my voters; enrich my donors.”
+### OTHER on 2025-03-18 18:15
+- Location: ComicBook.com
+- Description: Murdock & Page is born again. The opening minutes of Marvel Studios’ Daredevil revival reunited Elden Henson’s Foggy Nelson, Charlie Cox’s Matt Murdock, and Deborah Ann Woll’s Karen Page of Nelson, Murdock & Page for the first time since the Netflix series en…
 
 
-### HOMICIDE on 2025-03-18 12:23
-- Location: ABC News
-- Description: Parents of missing Pittsburgh student ask Dominican police to declare her deadgo.com
+### OTHER on 2025-03-18 18:12
+- Location: ABC News (AU)
+- Description: The state government is being urged to fast-track pokies carded play, used at Crown Casino, to all of Victoria's poker machine venues.
 
 
-### HOMICIDE on 2025-03-18 12:07
-- Location: Yahoo Entertainment
-- Description: A public inquiry examining how British nurse Lucy Letby was able to murder babies in her care should be suspended because new evidence casts real doubt on...
+### HOMICIDE on 2025-03-18 18:11
+- Location: Vulture
+- Description: Netflix’s latest crime drama follows the dramatic arrest of 13-year-old suburban boy accused of murder — it’s straight from every parent’s worst nightmare.
 
 
-### OTHER on 2025-03-18 12:07
-- Location: The Star Online
-- Description: (Reuters) - Organised crime gangs are turning to AI-powered scams and payment systems to target victims, allowing them to rapidly and more cheaply scale up operations globally and making them harder to detect, Europol warned on Tuesday. Read full story
+### HOMICIDE on 2025-03-18 18:10
+- Location: Roanoke Times
+- Description: The family of a man shot and killed at the Shishka Mediterranean Grill and Hookah bar blamed security problems for his death.
 
 
-### OTHER on 2025-03-18 12:05
-- Location: ABC News
-- Description: NASA's SpaceX Crew-10 mission successfully undocked from the International Space Station and is headed back to Earth, carrying a crew that includes two astronauts whose return to Earth was delayed.
+### SHOOTING on 2025-03-18 18:08
+- Location: fox6now.com
+- Description: Two Milwaukee men are charged in connection with a fatal shooting and police chase that happened on Thursday, March 13.
 
-Analysis generated at: Wed Mar 19 12:42:39 UTC 2025
+Analysis generated at: Wed Mar 19 18:18:51 UTC 2025
