@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Mar 19 01:02:44 UTC 2025
+Last updated: Wed Mar 19 01:44:04 UTC 2025
 
 ## Latest Analysis
 
-Loaded 20878 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-18 01:00:00
+Loaded 20885 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-18 01:30:17
 
 Incidents by source:
 source
-newsapi           20777
+newsapi           20784
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-03-18 01:00
-- Location: Allthatsinteresting.com
-- Description: On June 25, 2009, Michael Jackson reportedly begged his personal physician Conrad Murray for drugs to help him sleep — including propofol — leading to the King of Pop's sudden demise.
-The post What Happened To Conrad Murray, The Doctor Found Guilty Of Manslau…
+### HOMICIDE on 2025-03-18 01:30
+- Location: BBC News
+- Description: Farmers warn there has been an increase in willingness to commit violence to farmers and gamekeepers.
 
 
-### OTHER on 2025-03-18 00:18
-- Location: ABC News (AU)
-- Description: Premier Jacinta Allan is under fire for announcing a police operation that has already been running for nine months, while Opposition Leader Brad Battin is facing questions over a cruise holiday in Queensland.
+### ASSAULT on 2025-03-18 01:28
+- Location: New Zealand Herald
+- Description: Dean Wickliffe started his hunger strike on March 10, seeking dignity and fair treatment.
 
 
-### HOMICIDE on 2025-03-18 00:11
-- Location: Yahoo Entertainment
-- Description: None
+### OTHER on 2025-03-18 01:18
+- Location: HuffPost
+- Description: The motion for a preliminary injunction also asks a judge to block the Trump administration from using a vague provision to similarly arrest other noncitizens.
 
 
-### OTHER on 2025-03-18 00:07
-- Location: Starcommunity.com.au
-- Description: Police are investigating a suspicious fire in Endeavour Hills early hours this morning. Emergency services including Fire Rescue Victoria responded […]
+### HOMICIDE on 2025-03-18 01:07
+- Location: Mb.com.ph
+- Description: Former presidential spokesman Harry Roque said that former president Rodrigo Duterte was brought to the clinic of the International Criminal Court (ICC) facility, where he is currently detained for crimes against humanity of murder.&nbsp;
 
 
-### HOMICIDE on 2025-03-18 00:01
-- Location: Sky.com
-- Description: "You killed your mother... admit you are a witch."
+### HOMICIDE on 2025-03-18 01:07
+- Location: NDTV News
+- Description: Frustrated as she could not give birth to a son, a woman in Rajasthan&#039;s Jhunjhunu killed her 17-day-old daughter by throwing her into a water tank, police said Monday.
 
-Analysis generated at: Wed Mar 19 01:02:44 UTC 2025
+Analysis generated at: Wed Mar 19 01:44:04 UTC 2025
