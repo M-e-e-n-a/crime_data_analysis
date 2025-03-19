@@ -1,10 +1,10 @@
 
-Loaded 20920 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-18 06:08:12
+Loaded 20989 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-18 12:23:55
 
 Incidents by source:
 source
-newsapi           20819
+newsapi           20888
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-03-18 06:08
-- Location: BBC News
-- Description: Eve Stratford and Lynne Weedon were killed six months apart in 1975 but their killer is unknown.
+### HOMICIDE on 2025-03-18 12:23
+- Location: ABC News
+- Description: Parents of missing Pittsburgh student ask Dominican police to declare her deadgo.com
 
 
-### OTHER on 2025-03-18 06:07
+### HOMICIDE on 2025-03-18 12:07
+- Location: Yahoo Entertainment
+- Description: A public inquiry examining how British nurse Lucy Letby was able to murder babies in her care should be suspended because new evidence casts real doubt on...
+
+
+### OTHER on 2025-03-18 12:07
 - Location: The Star Online
-- Description: IPOH: The two-day Ex Kurung terror crisis management and handling exercise, which commenced on Monday (March 17), has been deemed successful in achieving its objectives and targets, says Senior Asst Comm Hamzah Hashim. Read full story
+- Description: (Reuters) - Organised crime gangs are turning to AI-powered scams and payment systems to target victims, allowing them to rapidly and more cheaply scale up operations globally and making them harder to detect, Europol warned on Tuesday. Read full story
 
 
-### OTHER on 2025-03-18 06:00
-- Location: Naturalnews.com
-- Description: Homan Square, a Chicago Police Department facility, has been exposed as a “black site” where detainees were allegedly subjected to torture, unlawful detention and denial of constitutional rights, drawing comparisons to CIA black sites used in the War on Terro…
+### OTHER on 2025-03-18 12:05
+- Location: ABC News
+- Description: NASA's SpaceX Crew-10 mission successfully undocked from the International Space Station and is headed back to Earth, carrying a crew that includes two astronauts whose return to Earth was delayed.
 
 
-### OTHER on 2025-03-18 06:00
-- Location: Naturalnews.com
-- Description: A volunteer group, the Jalisco Search Warriors, uncovered a horrifying “extermination camp” in La Estanzuela, Mexico, containing cremation ovens, human remains and hundreds of personal belongings, drawing comparisons to Nazi concentration camps and highlighti…
+### OTHER on 2025-03-18 12:00
+- Location: Activistpost.com
+- Description: In the videos further below, historian Victor Davis Hanson explains that President Biden staged a revolution much like the French Revolution where society’s values were turned upside down. Paris Olympics Opening Ceremony Decoded! explains that France decided …
 
-
-### HOMICIDE on 2025-03-18 06:00
-- Location: Naturalnews.com
-- Description: Aceasefire does not mean that Israel has dropped its goal to annihilate Gaza. (Article by Hamza Yusuf republished from MiddleEastEye.net) The mission remains the same, and the war crimes endure, including killings – the method just shifts. Now, the textbook s…
-
-Analysis generated at: Wed Mar 19 06:18:43 UTC 2025
+Analysis generated at: Wed Mar 19 12:25:53 UTC 2025
