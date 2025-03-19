@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Mar 19 01:44:04 UTC 2025
+Last updated: Wed Mar 19 06:18:43 UTC 2025
 
 ## Latest Analysis
 
-Loaded 20885 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-18 01:30:17
+Loaded 20920 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-18 06:08:12
 
 Incidents by source:
 source
-newsapi           20784
+newsapi           20819
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-03-18 01:30
+### HOMICIDE on 2025-03-18 06:08
 - Location: BBC News
-- Description: Farmers warn there has been an increase in willingness to commit violence to farmers and gamekeepers.
+- Description: Eve Stratford and Lynne Weedon were killed six months apart in 1975 but their killer is unknown.
 
 
-### ASSAULT on 2025-03-18 01:28
-- Location: New Zealand Herald
-- Description: Dean Wickliffe started his hunger strike on March 10, seeking dignity and fair treatment.
+### OTHER on 2025-03-18 06:07
+- Location: The Star Online
+- Description: IPOH: The two-day Ex Kurung terror crisis management and handling exercise, which commenced on Monday (March 17), has been deemed successful in achieving its objectives and targets, says Senior Asst Comm Hamzah Hashim. Read full story
 
 
-### OTHER on 2025-03-18 01:18
-- Location: HuffPost
-- Description: The motion for a preliminary injunction also asks a judge to block the Trump administration from using a vague provision to similarly arrest other noncitizens.
+### OTHER on 2025-03-18 06:00
+- Location: Naturalnews.com
+- Description: Homan Square, a Chicago Police Department facility, has been exposed as a “black site” where detainees were allegedly subjected to torture, unlawful detention and denial of constitutional rights, drawing comparisons to CIA black sites used in the War on Terro…
 
 
-### HOMICIDE on 2025-03-18 01:07
-- Location: Mb.com.ph
-- Description: Former presidential spokesman Harry Roque said that former president Rodrigo Duterte was brought to the clinic of the International Criminal Court (ICC) facility, where he is currently detained for crimes against humanity of murder.&nbsp;
+### OTHER on 2025-03-18 06:00
+- Location: Naturalnews.com
+- Description: A volunteer group, the Jalisco Search Warriors, uncovered a horrifying “extermination camp” in La Estanzuela, Mexico, containing cremation ovens, human remains and hundreds of personal belongings, drawing comparisons to Nazi concentration camps and highlighti…
 
 
-### HOMICIDE on 2025-03-18 01:07
-- Location: NDTV News
-- Description: Frustrated as she could not give birth to a son, a woman in Rajasthan&#039;s Jhunjhunu killed her 17-day-old daughter by throwing her into a water tank, police said Monday.
+### HOMICIDE on 2025-03-18 06:00
+- Location: Naturalnews.com
+- Description: Aceasefire does not mean that Israel has dropped its goal to annihilate Gaza. (Article by Hamza Yusuf republished from MiddleEastEye.net) The mission remains the same, and the war crimes endure, including killings – the method just shifts. Now, the textbook s…
 
-Analysis generated at: Wed Mar 19 01:44:04 UTC 2025
+Analysis generated at: Wed Mar 19 06:18:43 UTC 2025
