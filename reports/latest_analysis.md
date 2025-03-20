@@ -1,10 +1,10 @@
 
-Loaded 21105 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-19 01:01:17
+Loaded 21110 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-19 01:30:00
 
 Incidents by source:
 source
-newsapi           21004
+newsapi           21009
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-03-19 01:01
-- Location: WPXI Pittsburgh
-- Description: Per NBC News, a judge issued this ruling on Tuesday evening, a day after Joshua Riibe’s attorney officially requested his release.
+### OTHER on 2025-03-19 01:30
+- Location: menshealth.com
+- Description: Jon Bernthal returns as Frank Castle in episode 4 of 'Daredevil: Born Again,' a vigilante ole he's always been perfect for and felt destined to play.
 
 
-### OTHER on 2025-03-19 01:01
-- Location: Thefutoncritic.com
-- Description: When the young Filipino au pair Ruby disappears from one of Denmark's most affluent neighborhoods north of Copenhagen, the neighbor, Cecilie, becomes convinced that something has happened to her.
+### ROBBERY/THEFT on 2025-03-19 01:28
+- Location: ABC News (AU)
+- Description: The 18-carat solid-gold toilet was on display for just two days at an English palace before it was stolen under the cover of darkness.
 
 
-### OTHER on 2025-03-19 00:56
-- Location: fox6now.com
-- Description: A Milwaukee man has been arrested following a child abuse and domestic violence incident.
+### OTHER on 2025-03-19 01:25
+- Location: Fox13seattle.com
+- Description: 1.9 million Washingtonians are at risk of losing state-provided Medicaid due to proposed federal funding cuts.
 
 
-### OTHER on 2025-03-19 00:50
-- Location: The Punch
-- Description: The Edo State Police Command on Tuesday said it had arrested six suspected kidnappers with cash suspected to be proceeds from kidnapping activities. The command’s spokesperson, Moses Yamu, in a statement on Tuesday, also said some arms and ammunition were rec…
+### ASSAULT on 2025-03-19 01:10
+- Location: CHS Capitol Hill Seattle News
+- Description: Police say they have identified — but not arrested or booked into jail — three suspects in the February water pellet assault and homophobic hate crime incident outside a Capitol Hill gay bar. The Seattle Police Department says the identified … Continue readin…
 
 
-### SHOOTING on 2025-03-19 00:46
-- Location: ABC News
-- Description: Alabama lawmakers approved a ban on Glock switches and other conversion devices that convert semi-automatic weapons into machine guns
+### ASSAULT on 2025-03-19 01:05
+- Location: BBC News
+- Description: Daniel Noboa is calling on international armies to fight the cartels trafficking most of the world's cocaine.
 
-Analysis generated at: Thu Mar 20 01:01:35 UTC 2025
+Analysis generated at: Thu Mar 20 01:42:51 UTC 2025
