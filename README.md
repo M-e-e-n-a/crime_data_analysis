@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Mar 19 18:18:51 UTC 2025
+Last updated: Thu Mar 20 01:01:35 UTC 2025
 
 ## Latest Analysis
 
-Loaded 21085 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-18 18:15:48
+Loaded 21105 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-19 01:01:17
 
 Incidents by source:
 source
-newsapi           20984
+newsapi           21004
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-03-18 18:15
-- Location: ComicBook.com
-- Description: Murdock & Page is born again. The opening minutes of Marvel Studios’ Daredevil revival reunited Elden Henson’s Foggy Nelson, Charlie Cox’s Matt Murdock, and Deborah Ann Woll’s Karen Page of Nelson, Murdock & Page for the first time since the Netflix series en…
+### OTHER on 2025-03-19 01:01
+- Location: WPXI Pittsburgh
+- Description: Per NBC News, a judge issued this ruling on Tuesday evening, a day after Joshua Riibe’s attorney officially requested his release.
 
 
-### OTHER on 2025-03-18 18:12
-- Location: ABC News (AU)
-- Description: The state government is being urged to fast-track pokies carded play, used at Crown Casino, to all of Victoria's poker machine venues.
+### OTHER on 2025-03-19 01:01
+- Location: Thefutoncritic.com
+- Description: When the young Filipino au pair Ruby disappears from one of Denmark's most affluent neighborhoods north of Copenhagen, the neighbor, Cecilie, becomes convinced that something has happened to her.
 
 
-### HOMICIDE on 2025-03-18 18:11
-- Location: Vulture
-- Description: Netflix’s latest crime drama follows the dramatic arrest of 13-year-old suburban boy accused of murder — it’s straight from every parent’s worst nightmare.
-
-
-### HOMICIDE on 2025-03-18 18:10
-- Location: Roanoke Times
-- Description: The family of a man shot and killed at the Shishka Mediterranean Grill and Hookah bar blamed security problems for his death.
-
-
-### SHOOTING on 2025-03-18 18:08
+### OTHER on 2025-03-19 00:56
 - Location: fox6now.com
-- Description: Two Milwaukee men are charged in connection with a fatal shooting and police chase that happened on Thursday, March 13.
+- Description: A Milwaukee man has been arrested following a child abuse and domestic violence incident.
 
-Analysis generated at: Wed Mar 19 18:18:51 UTC 2025
+
+### OTHER on 2025-03-19 00:50
+- Location: The Punch
+- Description: The Edo State Police Command on Tuesday said it had arrested six suspected kidnappers with cash suspected to be proceeds from kidnapping activities. The command’s spokesperson, Moses Yamu, in a statement on Tuesday, also said some arms and ammunition were rec…
+
+
+### SHOOTING on 2025-03-19 00:46
+- Location: ABC News
+- Description: Alabama lawmakers approved a ban on Glock switches and other conversion devices that convert semi-automatic weapons into machine guns
+
+Analysis generated at: Thu Mar 20 01:01:35 UTC 2025
