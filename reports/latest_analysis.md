@@ -1,10 +1,10 @@
 
-Loaded 21256 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-19 12:39:52
+Loaded 21348 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-19 18:16:50
 
 Incidents by source:
 source
-newsapi           21155
+newsapi           21247
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,30 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-03-19 12:39
-- Location: Fox News
-- Description: Mashi Alinejad testified at federal court in New York City during the trial of Rafat Amirov and Polad Omarov, two men charged in a murder-for-hire plot against her.
+### OTHER on 2025-03-19 18:16
+- Location: Variety
+- Description: From the 1950s, as foreign tourists poured onto its beaches, Spain lobbied hard to join the European Economic Community, presenting itself as a modern country, despite its rule by an arcane 1930s dictator. By 1968, targeted reform notwithstanding, the only pa…
 
 
-### HOMICIDE on 2025-03-19 12:38
-- Location: Newser
-- Description: While police say 19-year-old twins found shot dead on a mountain in Georgia earlier this month appear to have died in a murder-suicide, family members say no way. "My nephews wouldn't do this," aunt Yasmine Brawner writes of Qaadir Malik Lewis and Naazir Rahi…
+### HOMICIDE on 2025-03-19 18:12
+- Location: TODAY
+- Description: Michael Proctor, the Massachusetts State Police investigator who was suspended over allegations of misconduct in the Karen Read murder case, has now been fired.
 
 
-### ROBBERY/THEFT on 2025-03-19 12:34
-- Location: Theobserver.com
-- Description: On March 15, 2025, at approximately 4:46 p.m., Kearny police officers responded to a report of a package theft on Johnston Avenue. The suspect was described as a white man wearing a blue… 
-The post Kearny PD: Man who stole package caught on Ring camera appear…
+### OTHER on 2025-03-19 18:09
+- Location: NBC News
+- Description: A Minnesota state senator is facing calls to resign after he was arrested and accused of arranging to solicit a teenage girl for prostitution.
 
 
-### OTHER on 2025-03-19 12:32
-- Location: Demilked.com
-- Description: Channel your inner detective to find these missing treasures.
-The post 25 Treasures Buried Long Ago That Nobody Has Claimed Up To Now appeared first on DeMilked.
+### OTHER on 2025-03-19 18:05
+- Location: Freerepublic.com
+- Description: Owen Shroyer, the host of Infowars’ War Room, was the latest victim of the Democrat terrorist swatting campaign plaguing the nation after police called him out of his home late Tuesday night due to a hoax 911 call. Shroyer’s home security video system capture…
 
 
-### OTHER on 2025-03-19 12:30
-- Location: Decider
-- Description: You aren't alone if you don't know what this word means!
+### OTHER on 2025-03-19 18:05
+- Location: Freerepublic.com
+- Description: Owen Shroyer, the host of Infowars’ War Room, was the latest victim of the Democrat terrorist swatting campaign plaguing the nation after police called him out of his home late Tuesday night due to a hoax 911 call. Shroyer’s home security video system capture…
 
-Analysis generated at: Thu Mar 20 12:41:09 UTC 2025
+Analysis generated at: Thu Mar 20 18:18:25 UTC 2025
