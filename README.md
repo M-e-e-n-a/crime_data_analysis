@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Mar 21 06:20:25 UTC 2025
+Last updated: Fri Mar 21 12:24:53 UTC 2025
 
 ## Latest Analysis
 
-Loaded 21415 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-20 06:17:22
+Loaded 21505 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-20 12:21:21
 
 Incidents by source:
 source
-newsapi           21314
+newsapi           21404
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-03-20 06:17
-- Location: Freerepublic.com
-- Description: A South Carolina mother has been accused of doing the unthinkable: stabbing her newborn infant to death with a letter opener as he was born and in the moments that followed. Authorities say An T. Ngo, 31, fatally stabbed her newborn boy with a “long, metal le…
+### OTHER on 2025-03-20 12:21
+- Location: The-independent.com
+- Description: Having open and honest conversations about their online lives is key.
 
 
-### HOMICIDE on 2025-03-20 06:15
-- Location: The Times of India
-- Description: Saurabh Rajput's family in Meerut wants the death penalty for his wife Muskan Rastogi and her lover Sahil Shukla after the brutal killing. Muskan and Sahil allegedly murdered and dismembered Saurabh's body, hiding it in a cement-filled drum. Police arrested t…
+### OTHER on 2025-03-20 12:18
+- Location: Securityaffairs.com
+- Description: U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Edimax IC-7100 IP Camera, NAKIVO, and SAP NetWeaver AS Java flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added the foll…
 
 
-### ASSAULT on 2025-03-20 06:11
-- Location: Starobserver.com.au
-- Description: Victorian Police are requesting assistance from the public over an alleged homophobic attack on a Melbourne train. They have released images of the man the believe is responsible for the ...
-The post Victorian Police Seek Help Over Alleged Homophobic Attack O…
+### OTHER on 2025-03-20 12:15
+- Location: Democracy Now!
+- Description: A jury in North Dakota has ordered Greenpeace to pay more than $660 million in damages for defaming Energy Transfer Partners, the corporation behind the Dakota Access Pipeline. The Texas-based pipeline company accused Greenpeace of orchestrating criminal beha…
 
 
-### OTHER on 2025-03-20 06:11
-- Location: BBC News
-- Description: How recklessness and greed led the finders of one of Britain's rarest treasure troves to jail.
+### SHOOTING on 2025-03-20 12:12
+- Location: Newsweek
+- Description: An emergency alert went out to residents near to Troy's Corewell Health Beaumont Hospital.
 
 
-### OTHER on 2025-03-20 06:10
-- Location: Bangkok Post
-- Description: <p>Police are investigating an embezzlement complaint by a health and beauty products billionaire against Thai actress Arisara &ldquo;Due&rdquo; Thongborisut.</p>
+### OTHER on 2025-03-20 12:08
+- Location: CBC News
+- Description: Turkey detained 37 suspects for allegedly making "provocative posts inciting crime and hatred" over the detention of Istanbul Mayor Ekrem Imamoglu, the interior minister said on Thursday.
 
-Analysis generated at: Fri Mar 21 06:20:25 UTC 2025
+Analysis generated at: Fri Mar 21 12:24:53 UTC 2025
