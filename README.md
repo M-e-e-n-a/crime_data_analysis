@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Mar 21 01:44:49 UTC 2025
+Last updated: Fri Mar 21 06:20:25 UTC 2025
 
 ## Latest Analysis
 
-Loaded 21370 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-20 01:43:46
+Loaded 21415 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-20 06:17:22
 
 Incidents by source:
 source
-newsapi           21269
+newsapi           21314
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,27 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-03-20 01:43
+### HOMICIDE on 2025-03-20 06:17
 - Location: Freerepublic.com
-- Description: Watch: A fearless Canadian woman has had enough of Toronto’s creeping Islamisation! She boldly interrupted a public Muslim prayer where pro-Palestinian Muslim supremacists blocked an entire area—not because they lacked mosques (there are dozens nearby), but t…
+- Description: A South Carolina mother has been accused of doing the unthinkable: stabbing her newborn infant to death with a letter opener as he was born and in the moments that followed. Authorities say An T. Ngo, 31, fatally stabbed her newborn boy with a “long, metal le…
 
 
-### OTHER on 2025-03-20 01:41
-- Location: TMZ
-- Description: Eugene Henley Jr., AKA Big U, one of the founders of the Rollin' 60s Crips' just posted a video saying he's on his way to turn himself into the authorities after being charged in a federal RICO indictment. Big U posted on Instagram late Wednesday…
+### HOMICIDE on 2025-03-20 06:15
+- Location: The Times of India
+- Description: Saurabh Rajput's family in Meerut wants the death penalty for his wife Muskan Rastogi and her lover Sahil Shukla after the brutal killing. Muskan and Sahil allegedly murdered and dismembered Saurabh's body, hiding it in a cement-filled drum. Police arrested t…
 
 
-### OTHER on 2025-03-20 01:41
-- Location: TMZ
-- Description: Eugene Henley Jr., AKA Big U, a high-ranking member of the Rollin' 60s Crips' just posted a video saying he's on his way to turn himself into the authorities after being charged in a federal RICO indictment. Big U posted on Instagram late Wednesday…
+### ASSAULT on 2025-03-20 06:11
+- Location: Starobserver.com.au
+- Description: Victorian Police are requesting assistance from the public over an alleged homophobic attack on a Melbourne train. They have released images of the man the believe is responsible for the ...
+The post Victorian Police Seek Help Over Alleged Homophobic Attack O…
 
 
-### HOMICIDE on 2025-03-20 01:39
-- Location: Spoilertv.com
+### OTHER on 2025-03-20 06:11
+- Location: BBC News
+- Description: How recklessness and greed led the finders of one of Britain's rarest treasure troves to jail.
 
 
-### ROBBERY/THEFT on 2025-03-20 01:34
-- Location: New Zealand Herald
-- Description: Wanted man alleged to be stealing thousands of dollars worth of items from retailers.
+### OTHER on 2025-03-20 06:10
+- Location: Bangkok Post
+- Description: <p>Police are investigating an embezzlement complaint by a health and beauty products billionaire against Thai actress Arisara &ldquo;Due&rdquo; Thongborisut.</p>
 
-Analysis generated at: Fri Mar 21 01:44:49 UTC 2025
+Analysis generated at: Fri Mar 21 06:20:25 UTC 2025
