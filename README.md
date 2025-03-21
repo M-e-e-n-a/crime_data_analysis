@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Mar 21 12:24:53 UTC 2025
+Last updated: Fri Mar 21 12:41:35 UTC 2025
 
 ## Latest Analysis
 
-Loaded 21505 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-20 12:21:21
+Loaded 21511 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-20 12:40:39
 
 Incidents by source:
 source
-newsapi           21404
+newsapi           21410
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-03-20 12:21
-- Location: The-independent.com
-- Description: Having open and honest conversations about their online lives is key.
+### OTHER on 2025-03-20 12:40
+- Location: The Times of India
+- Description: A Noida businessman lost Rs 1.15 crore in an online scam after a fraudster posing as a financial analyst lured him with fake stock market gains. He invested Rs 65 lakh and paid Rs 50.2 lakh in taxes and fees before realizing the fraud. Police are investigatin…
 
 
-### OTHER on 2025-03-20 12:18
-- Location: Securityaffairs.com
-- Description: U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Edimax IC-7100 IP Camera, NAKIVO, and SAP NetWeaver AS Java flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added the foll…
+### SHOOTING on 2025-03-20 12:33
+- Location: New York Post
+- Description: Gunfire erupted at a Michigan hospital early Thursday morning, police said.
 
 
-### OTHER on 2025-03-20 12:15
-- Location: Democracy Now!
-- Description: A jury in North Dakota has ordered Greenpeace to pay more than $660 million in damages for defaming Energy Transfer Partners, the corporation behind the Dakota Access Pipeline. The Texas-based pipeline company accused Greenpeace of orchestrating criminal beha…
+### HOMICIDE on 2025-03-20 12:32
+- Location: The Star Online
+- Description: DHAKA (Reuters) - Dozens of Rohingya refugees in Bangladesh gathered to pray for the early release of a Rohingya insurgent leader arrested this week on charges of murder, illegal entry and militant activities. Read full story
 
 
-### SHOOTING on 2025-03-20 12:12
-- Location: Newsweek
-- Description: An emergency alert went out to residents near to Troy's Corewell Health Beaumont Hospital.
+### SHOOTING on 2025-03-20 12:30
+- Location: The Macomb Daily
+- Description: Police from several departments are on the scene including Sterling Heights, Shelby Township, Auburn Hills, Troy and the Macomb and Oakland County Sheriff’s Office.
 
 
-### OTHER on 2025-03-20 12:08
-- Location: CBC News
-- Description: Turkey detained 37 suspects for allegedly making "provocative posts inciting crime and hatred" over the detention of Istanbul Mayor Ekrem Imamoglu, the interior minister said on Thursday.
+### OTHER on 2025-03-20 12:30
+- Location: The Star Online
+- Description: STOCKHOLM (Reuters) - Swedish police should be allowed to use real-time, AI-powered face-recognition to combat crime, Sweden's government proposed on Thursday, as it seeks new tools to stop sometimes violent offences rocking the Nordic country in recent years…
 
-Analysis generated at: Fri Mar 21 12:24:53 UTC 2025
+Analysis generated at: Fri Mar 21 12:41:35 UTC 2025
