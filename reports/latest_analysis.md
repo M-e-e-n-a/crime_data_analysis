@@ -1,10 +1,10 @@
 
-Loaded 21358 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-20 00:39:00
+Loaded 21370 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-20 01:43:46
 
 Incidents by source:
 source
-newsapi           21257
+newsapi           21269
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,27 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-03-20 00:39
-- Location: Fox News
-- Description: Department of Homeland Security Secretary Kristi Noem announced Wednesday that DHS will aid in prosecuting those accused of making swatting calls against conservative media figures.
+### OTHER on 2025-03-20 01:43
+- Location: Freerepublic.com
+- Description: Watch: A fearless Canadian woman has had enough of Toronto’s creeping Islamisation! She boldly interrupted a public Muslim prayer where pro-Palestinian Muslim supremacists blocked an entire area—not because they lacked mosques (there are dozens nearby), but t…
 
 
-### HOMICIDE on 2025-03-20 00:29
-- Location: New York Post
-- Description: A 75-year-old retired detective was shot dead by his own son while fighting inside their Long Island home Wednesday morning, officials said.
+### OTHER on 2025-03-20 01:41
+- Location: TMZ
+- Description: Eugene Henley Jr., AKA Big U, one of the founders of the Rollin' 60s Crips' just posted a video saying he's on his way to turn himself into the authorities after being charged in a federal RICO indictment. Big U posted on Instagram late Wednesday…
 
 
-### OTHER on 2025-03-20 00:28
-- Location: The Jerusalem Post
-- Description: The vandalism followed an incident report of a group throwing objects at a building and yelling antisemitic slurs.
+### OTHER on 2025-03-20 01:41
+- Location: TMZ
+- Description: Eugene Henley Jr., AKA Big U, a high-ranking member of the Rollin' 60s Crips' just posted a video saying he's on his way to turn himself into the authorities after being charged in a federal RICO indictment. Big U posted on Instagram late Wednesday…
 
 
-### OTHER on 2025-03-20 00:18
-- Location: The Punch
-- Description: The Assistant Inspector General of Police, Zone 6 Headquarters, Calabar, Mustapha Bala has emphasised regular checks and supervision of Divisional Police Officers and tactical units of the police to ensure their activities comply with the rule of law. AIG Bal…
+### HOMICIDE on 2025-03-20 01:39
+- Location: Spoilertv.com
 
 
-### OTHER on 2025-03-20 00:16
-- Location: Nerdist
-- Description: Matt Murdock reunites with the Punisher, as the Mayor Wilson Fisk reverts to type, in the fourth episode of Daredevil: Born Again. 
-The post DAREDEVIL: BORN AGAIN Season 1, Episode 4 Recap, New Revelations from “Sic Semper Systema” appeared first on Nerdist.
+### ROBBERY/THEFT on 2025-03-20 01:34
+- Location: New Zealand Herald
+- Description: Wanted man alleged to be stealing thousands of dollars worth of items from retailers.
 
-Analysis generated at: Fri Mar 21 01:02:55 UTC 2025
+Analysis generated at: Fri Mar 21 01:44:49 UTC 2025
