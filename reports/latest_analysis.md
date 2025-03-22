@@ -1,10 +1,10 @@
 
-Loaded 21605 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-20 18:10:00
+Loaded 21627 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-21 01:00:14
 
 Incidents by source:
 source
-newsapi           21504
+newsapi           21526
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-03-20 18:10
-- Location: DW (English)
-- Description: The leader of Turkey's CHP party said Erdogan fears competition from the arrested Ekrem Imamoglu. The arrest sparked nationwide protests, with Germany's chancellor calling it "very bad" for Turkey's EU relations.
+### OTHER on 2025-03-21 01:00
+- Location: Screen Rant
+- Description: 9-1-1 star Aisha Hinds makes her directorial debut in a solid episode that is more meaningful for what it sets up for the show moving forward.
 
 
-### HOMICIDE on 2025-03-20 18:09
-- Location: The Times of India
-- Description: BJP and Shiv Sena MLAs demand arrests in the death of Disha Salian. Her father has named Aaditya Thackeray and others in a petition, alleging rape and murder. The Special Investigation Team's probe continues, and political tensions rise as calls for custodial…
+### ROBBERY/THEFT on 2025-03-21 00:57
+- Location: Digital Journal
+- Description: Turkish riot police fired teargas and rubber bullets on Thursday, as demonstrators protested for a second night outside Istanbul City Hall over the shock arrest of the Mayor Ekrem Imamoglu in a graft and terror probe.  The powerful and popular Imamoglu — who …
 
 
-### HOMICIDE on 2025-03-20 18:08
-- Location: fox6now.com
-- Description: A Milwaukee woman is accused of reckless homicide for a shooting that happened Sunday outside a bar on the far city's northwest side.
+### HOMICIDE on 2025-03-21 00:56
+- Location: The Punch
+- Description: A widow of 11 years with nine children, Aisha Hassan, has accused operatives of the Niger State Police command of killing his 27-year-old son, Sani Khalid, in cold blood. Arewa PUNCH gathered that the incident happened in the Angwa-Kaje area of Maitumbi, Minn…
 
 
-### ROBBERY/THEFT on 2025-03-20 18:08
-- Location: Roanoke Times
-- Description: The incident happened Thursday morning.
+### OTHER on 2025-03-21 00:56
+- Location: The Punch
+- Description: The National Human Rights Commission has accused a police officer said to be serving at Billiri divisional police station. and identified as Geoffrey Yusuf-Dogo, for allegedly extorting money from a witchcraft suspect. Arewa PUNCH’s investigations revealed th…
 
 
-### OTHER on 2025-03-20 18:03
-- Location: Newsweek
-- Description: In a statement given to Newsweek, Andrew Tate said that his depiction in the hit Netflix show was "neither fair nor accurate."
+### OTHER on 2025-03-21 00:53
+- Location: Bangkok Post
+- Description: A Japanese man who is believed to be a leader of call-centre scam gangs in Cambodia and Vietnam has been arrested for a string of crimes in Japan.
 
-Analysis generated at: Fri Mar 21 18:17:55 UTC 2025
+Analysis generated at: Sat Mar 22 01:01:01 UTC 2025
