@@ -1,10 +1,10 @@
 
-Loaded 21769 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-21 12:19:23
+Loaded 21771 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-21 12:29:42
 
 Incidents by source:
 source
-newsapi           21668
+newsapi           21670
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,6 +20,16 @@ bution.svg)
 
 ## Recent Incidents
 
+### SHOOTING on 2025-03-21 12:29
+- Location: The Jerusalem Post
+- Description: Jun “began making several antisemitic remarks and then began to use his hands to simulate a firearm and act like he was shooting the victim, Allen said.
+
+
+### ROBBERY/THEFT on 2025-03-21 12:26
+- Location: BBC News
+- Description: Suspects used fake online accounts to lure people to remote places, then filmed abusing and robbing them.
+
+
 ### HOMICIDE on 2025-03-21 12:19
 - Location: BBC News
 - Description: Marcin Majerkiewicz, 42, killed Stuart Everett and then cut his body up into 27 pieces.
@@ -34,14 +44,4 @@ bution.svg)
 - Location: NDTV News
 - Description: Tension gripped the Ulidih OP area of Jamshedpur on Friday after the blood-soaked body of a local youth was discovered in a classroom on the second floor of a government school located on Kunwar Singh Road.
 
-
-### ASSAULT on 2025-03-21 12:08
-- Location: BBC News
-- Description: Jacek Dembinski, 44, died in hospital after the attack by Dawid Majewicz last year.
-
-
-### OTHER on 2025-03-21 12:00
-- Location: Foreign Policy
-- Description: Regional reactions are muted as countries pick their battles with Washington.
-
-Analysis generated at: Sat Mar 22 12:22:13 UTC 2025
+Analysis generated at: Sat Mar 22 12:38:03 UTC 2025
