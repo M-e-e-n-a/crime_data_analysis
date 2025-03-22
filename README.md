@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Mar 22 12:38:03 UTC 2025
+Last updated: Sat Mar 22 18:16:04 UTC 2025
 
 ## Latest Analysis
 
-Loaded 21771 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-21 12:29:42
+Loaded 21863 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-21 18:16:00
 
 Incidents by source:
 source
-newsapi           21670
+newsapi           21762
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-03-21 12:29
-- Location: The Jerusalem Post
-- Description: Jun “began making several antisemitic remarks and then began to use his hands to simulate a firearm and act like he was shooting the victim, Allen said.
+### OTHER on 2025-03-21 18:16
+- Location: Sky.com
+- Description: Andrew Tate, the self-styled "king of toxic masculinity", and his brother Tristan have left the US for Romania to fulfil legal obligations related to a criminal investigation against them.
 
 
-### ROBBERY/THEFT on 2025-03-21 12:26
-- Location: BBC News
-- Description: Suspects used fake online accounts to lure people to remote places, then filmed abusing and robbing them.
+### HOMICIDE on 2025-03-21 18:15
+- Location: The Times of India
+- Description: Vasco: Verna police arrested Santosh Mallick, 32, and Pradhan Mandal, 35, natives of Odisha, for allegedly killing Anil Muthamajhi, 20, a labourer wor.
 
 
-### HOMICIDE on 2025-03-21 12:19
-- Location: BBC News
-- Description: Marcin Majerkiewicz, 42, killed Stuart Everett and then cut his body up into 27 pieces.
+### HOMICIDE on 2025-03-21 18:14
+- Location: New York Post
+- Description: Three adults are behind bars after deputies uncovered a horrifying scene at a Michigan home earlier this month -- including a dead puppy found in a pizza box, several more dead and abused animals, and a 9-year-old boy, according to authorities. The discovery …
 
 
-### OTHER on 2025-03-21 12:18
-- Location: YEN.COM.GH
-- Description: Renowned Ghanaian businessman Dr Kwaku Oteng gifted a young man money for cleaning his expensive white Rolls Royce Phantom while he drove on the street.
+### SHOOTING on 2025-03-21 18:10
+- Location: Mediaite
+- Description: Peter Doocy challenged President Donald Trump over his claim that Tren De Aragua gang members are foreign terrorists with a loaded question.
+The post Fox’s Peter Doocy Confronts Trump on Claim He’s Deporting Gang ‘Terrorists’: Why Don’t Cops ‘Shoot First Ask …
 
 
-### OTHER on 2025-03-21 12:09
-- Location: NDTV News
-- Description: Tension gripped the Ulidih OP area of Jamshedpur on Friday after the blood-soaked body of a local youth was discovered in a classroom on the second floor of a government school located on Kunwar Singh Road.
+### DRUG RELATED on 2025-03-21 18:09
+- Location: Protothema.gr
+- Description: A 56-year-old man was arrested in yesterday (March 20) at noon in the Acharnes area on charges of violating drug-related legislation
+The post 56-year-old arrested for drug trafficking in Nea Filadelfeia – Over 3kg of heroin seized appeared first on ProtoThema…
 
-Analysis generated at: Sat Mar 22 12:38:03 UTC 2025
+Analysis generated at: Sat Mar 22 18:16:04 UTC 2025
