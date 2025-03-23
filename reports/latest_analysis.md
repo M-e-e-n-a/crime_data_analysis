@@ -1,10 +1,10 @@
 
-Loaded 21940 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-22 12:19:37
+Loaded 22013 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-22 18:08:51
 
 Incidents by source:
 source
-newsapi           21839
+newsapi           21912
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-03-22 12:19
-- Location: The Times of India
-- Description: A 38-year-old software engineer from Pune was arrested for killing his three-and-a-half-year-old son. The incident occurred after ongoing disputes with his wife. The police found the child's body in an isolated area, and the father admitted to the crime. He w…
+### HOMICIDE on 2025-03-22 18:08
+- Location: TODAY
+- Description: Three people were killed and 15 others were injured at “an unsanctioned car show” in a park in Las Cruces, New Mexico, Friday night mass shooting, according to police.
 
 
-### OTHER on 2025-03-22 12:12
-- Location: The Star Online
-- Description: KOTA BARU: Young individuals who are neither influencers nor entrepreneurs have been found living lavish lifestyles, owning luxury vehicles such as Mustangs and BMWs despite having no apparent source of income, says Tan Sri Razarudin Husain. Read full story
+### OTHER on 2025-03-22 18:07
+- Location: CBC News
+- Description: RCMP are asking for help to find a missing 16-year-old from Portage la Prairie who was last seen in early March.
 
 
-### HOMICIDE on 2025-03-22 12:00
-- Location: The Denver Post
-- Description: Denver police have reported 12 outdoor deaths so far in March.
+### OTHER on 2025-03-22 18:00
+- Location: Dramabeans.com
+- Description: Unraveling the tangled threads of twisted fates, Netflix’s crime thriller Karma navigates the lives of six individuals tied up by one accident that connects them all. As impulsive choices spiral into irrevocable consequences, will their paths lead them to sal…
 
 
-### OTHER on 2025-03-22 12:00
-- Location: HuffPost
-- Description: The Prime Video thriller will leave you with a lot of questions and few answers.
+### OTHER on 2025-03-22 18:00
+- Location: Fox News
+- Description: TIME magazine reported one of its 2017 TIME100 listees, who is an illegal immigrant, has been detained by Immigration and Customs Enforcement amid Trump administration crackdown.
 
 
-### ROBBERY/THEFT on 2025-03-22 12:00
-- Location: HuffPost
-- Description: The Protector app requires users to waive the company of any liability for the actions of the armed guards hired through the platform.
+### HOMICIDE on 2025-03-22 17:46
+- Location: CBS News
+- Description: Police asked bystanders to share videos and other tips as they continued to seek a suspect or suspects in the shooting on Friday at Young Park in Las Cruces, New Mexico.
 
-Analysis generated at: Sun Mar 23 12:38:42 UTC 2025
+Analysis generated at: Sun Mar 23 18:16:20 UTC 2025
