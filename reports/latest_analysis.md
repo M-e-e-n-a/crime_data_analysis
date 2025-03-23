@@ -44,4 +44,4 @@ bution.svg)
 - Location: HuffPost
 - Description: The Protector app requires users to waive the company of any liability for the actions of the armed guards hired through the platform.
 
-Analysis generated at: Sun Mar 23 12:23:03 UTC 2025
+Analysis generated at: Sun Mar 23 12:38:42 UTC 2025
