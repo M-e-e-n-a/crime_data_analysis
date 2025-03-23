@@ -1,10 +1,10 @@
 
-Loaded 21873 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-22 00:55:00
+Loaded 21879 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-22 01:43:58
 
 Incidents by source:
 source
-newsapi           21772
+newsapi           21778
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-03-22 00:55
-- Location: Deadline
-- Description: SPOILER ALERT: This post contains details of the final episode of Max’s Beleza Fatal. After 40 episodes, Beleza Fatal (Scars of Beauty) ended, and viewers finally found out what happened to Lola (Camila Pitanga), Sofía (Camila Queiroz), and Elvirinha (Giovann…
+### HOMICIDE on 2025-03-22 01:43
+- Location: Fox News
+- Description: A Honduran citizen in the United States illegally allegedly strangled to death a Georgia woman earlier this month, authorities said.
 
 
-### ASSAULT on 2025-03-22 00:42
-- Location: NBC News
-- Description: A 12-year-old Connecticut student who police say assaulted two of her Muslim classmates has been accused of a hate crime in the attack.
+### HOMICIDE on 2025-03-22 01:42
+- Location: The Jerusalem Post
+- Description: The 84-year-old's remains were discovered at his home on May 13 with a number of suspicious injuries.
 
 
-### OTHER on 2025-03-22 00:37
-- Location: Securityaffairs.com
-- Description: Russian zero-day broker Operation Zero is looking for exploits for the popular messaging app Telegram, offering up to $4 million for them. Operation Zero, a Russian zero-day broker, is offering up to $4 million for Telegram exploits, the news was first report…
+### OTHER on 2025-03-22 01:38
+- Location: The Times of India
+- Description: Welcome to a new edition of ETtech Unwrapped – our weekend newsletter packed with the most important stories this week. Let’s take a look.
 
 
-### HOMICIDE on 2025-03-22 00:30
-- Location: HipHopDX
-- Description: The man accused of killing rapper Trouble has been sentenced to 20 years in prison for his role in the artist’s death after pleading guilty.
+### OTHER on 2025-03-22 01:36
+- Location: fox6now.com
+- Description: A Republican Party of Wisconsin office was vandalized in Milwaukee on Friday. It happened at the Hispanic Community Center near 13th and Greenfield.
 
 
-### OTHER on 2025-03-22 00:30
-- Location: Raw Story
-- Description: President Donald Trump's administration has lately been ramping up scrutiny of all foreign nationals in the United States, rather than just focusing on undocumented immigrants. This has prompted concern among experts, including some former top officials in th…
+### OTHER on 2025-03-22 01:24
+- Location: HuffPost
+- Description: Protests erupted across multiple Turkish cities denouncing the arrest of the mayor of Istanbul even as President Recep Tayyip Erdogan issued a stern warning that demonstrations would not be tolerated.
 
-Analysis generated at: Sun Mar 23 01:06:53 UTC 2025
+Analysis generated at: Sun Mar 23 01:49:43 UTC 2025
