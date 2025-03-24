@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Mar 24 12:44:03 UTC 2025
+Last updated: Mon Mar 24 18:18:42 UTC 2025
 
 ## Latest Analysis
 
-Loaded 22095 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-23 12:34:20
+Loaded 22151 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-23 18:18:12
 
 Incidents by source:
 source
-newsapi           21994
+newsapi           22050
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-03-23 12:34
-- Location: TODAY
-- Description: Authorities in New Mexico arrested two people, age 17 and 20, in connection to a mass shooting that occurred Friday night at a park in Las Cruces. At least three people were killed and more than a dozen others were injured. Police say the shooting was a resul…
+### SHOOTING on 2025-03-23 18:18
+- Location: BBC News
+- Description: The suspicious blaze early on Sunday in Niddrie  followed two shooting incidents on Thursday and Friday.
 
 
-### HOMICIDE on 2025-03-23 12:04
-- Location: Fox News
-- Description: Yolanda Marodi, 53, was arrested Saturday in the murder of her wife, CAL Fire Captain Rebecca Marodi, after a months-long manhunt, authorities said.
-
-
-### OTHER on 2025-03-23 12:00
+### HOMICIDE on 2025-03-23 18:05
 - Location: The Denver Post
-- Description: Lauren Grush traces the trajectory of all six women, from their pre-space lives through the arduous training, to their experiences in space and beyond.
+- Description: Laneidra Williams-Whitehead, 45, and her son, 24-year-old Jamir Williams, were arrested Saturday night on suspicion of first-degree murder, according to Aurora police.
 
 
-### OTHER on 2025-03-23 11:58
-- Location: Al Jazeera English
-- Description: Tens of thousands around Turkiye protested on Satuday evening against the arrest of Ekrem Imamoglu.
+### HOMICIDE on 2025-03-23 18:00
+- Location: ComicBook.com
+- Description: Mindhunter. Courtesy of Netflix. 
+If there is one thing that people love to watch, it’s stories about death. Whether it’s a detective series about jaw-dropping crime sprees or a true crime docuseries that details a brutal slaying at the hands of a cold-bloode…
 
 
-### SHOOTING on 2025-03-23 11:56
-- Location: fox6now.com
-- Description: One person was hurt in a shooting in Milwaukee early Sunday morning, March 23, 2025.
+### OTHER on 2025-03-23 18:00
+- Location: TheWrap
+- Description: Our picks include three acclaimed HBO dramas and a pair of wildly underrated Netflix thrillers
+The post 7 Unflinching Crime Dramas to Watch if You Loved ‘Adolescence’ appeared first on TheWrap.
 
-Analysis generated at: Mon Mar 24 12:44:03 UTC 2025
+
+### OTHER on 2025-03-23 17:59
+- Location: NDTV News
+- Description: A 20-year-old woman was found hanging from a tree, her hands tied behind her back, in Uttar Pradesh&#039;s Ballia on Sunday.
+
+Analysis generated at: Mon Mar 24 18:18:42 UTC 2025
