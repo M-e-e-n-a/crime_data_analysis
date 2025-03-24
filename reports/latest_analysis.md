@@ -1,10 +1,10 @@
 
-Loaded 22024 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-23 00:57:05
+Loaded 22029 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-23 01:38:58
 
 Incidents by source:
 source
-newsapi           21923
+newsapi           21928
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,52 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-03-23 00:57
-- Location: WSB Atlanta
-- Description: A man is dead and another is injured after a shootout between the two individuals Saturday afternoon, DeKalb Police say.
+### HOMICIDE on 2025-03-23 01:38
+- Location: Bossip
+- Description: Rapper Sauce Walka was injured in a shooting that left his artist, Sayso P, dead. Both men were reportedly outside the Westin Hotel in Memphis, near the FedEx Forum on Saturday, March 22. Comments online claim Sauce Walka and Sayso P were shopping together do…
 
 
-### OTHER on 2025-03-23 00:56
-- Location: ABC News (AU)
-- Description: When Barbara Brennan was in prison her home was looted and she was evicted. Now she's helping other former inmates with the difficult transition back into the community.
+### HOMICIDE on 2025-03-23 01:34
+- Location: The Times of India
+- Description: A mass shooting at Young Park in Las Cruces, New Mexico, on Friday night resulted in the death of three individuals and injuries to 14 others. The victims were aged between 16 and 36, and the authorities are seeking any information from bystanders to locate s…
 
 
-### HOMICIDE on 2025-03-23 00:53
-- Location: Slashdot.org
-- Description: Las Cruces mass shooting: What we know so farKOAT New Mexico 3 teenagers killed and 15 people injured in mass shooting at New Mexico parkCNN Fatal shooting in New Mexico park casts pall over Legislature and its ability to contain crimeYahoo Las Cruces Police:…
+### OTHER on 2025-03-23 01:32
+- Location: mgoblog.com
+- Description: City Council Endorsements, 2020
+
+ July 17th, 2020 at 3:31 PM
+
+ Brian
+July 17th, 2020 at 3:31 PM
 
 
-### HOMICIDE on 2025-03-23 00:52
-- Location: Slashdot.org
-- Description: Who are rapper Sauce Walka and his artist Sayso P? Video surfaces from alleged Memphis shooting sceneHindustan Times One dead, another injured in shooting outside FedExForum, MPD saysFOX13 Memphis Heavy police presence at downtown hotel; MPD investigatesActio…
+ 
+ 
+ 
+ 
+ 
+
+ 
 
 
-### HOMICIDE on 2025-03-23 00:35
-- Location: The Punch
-- Description: Jonathan Odikanwa, the father of 19-year-old Paul who was allegedly shot while trying to retrieve his playmates’ ball from a landlord’s compound, shares his grief with CHUKWUDI AKASIKE How old was your late son? He was 19 years old and was in JSS 1. He didn’t…
 
-Analysis generated at: Mon Mar 24 01:04:37 UTC 2025
+ 
+ this is still a surface parking lot [flickr user Dennis Sparks]
+ 
+ Election is August 4. 
+
+
+tl;dr: vote for Lisa Disch in Ward 1, Linh Song …
+
+
+### HOMICIDE on 2025-03-23 01:29
+- Location: Newsweek
+- Description: Former U.S. Attorney Jessica Aber, 43, found dead at her Virginia home, investigation underway as colleagues mourn.
+
+
+### ASSAULT on 2025-03-23 01:29
+- Location: CNN
+- Description: A 12-year-old student is facing a hate crime charge in juvenile court, after allegedly being part of group that attacked twin seventh grade Muslim students at their middle school in Waterbury, Connecticut, authorities said Friday.
+
+Analysis generated at: Mon Mar 24 01:47:50 UTC 2025
