@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Mar 24 12:27:01 UTC 2025
+Last updated: Mon Mar 24 12:44:03 UTC 2025
 
 ## Latest Analysis
 
-Loaded 22094 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-23 12:04:20
+Loaded 22095 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-23 12:34:20
 
 Incidents by source:
 source
-newsapi           21993
+newsapi           21994
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -23,6 +23,11 @@ bution.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### HOMICIDE on 2025-03-23 12:34
+- Location: TODAY
+- Description: Authorities in New Mexico arrested two people, age 17 and 20, in connection to a mass shooting that occurred Friday night at a park in Las Cruces. At least three people were killed and more than a dozen others were injured. Police say the shooting was a resul…
+
 
 ### HOMICIDE on 2025-03-23 12:04
 - Location: Fox News
@@ -43,9 +48,4 @@ bution.svg)
 - Location: fox6now.com
 - Description: One person was hurt in a shooting in Milwaukee early Sunday morning, March 23, 2025.
 
-
-### HOMICIDE on 2025-03-23 11:55
-- Location: CNN
-- Description: Two people have been arrested in connection with a mass shooting in Las Cruces, New Mexico, Friday night that left three teenagers dead and 15 others injured, police said early Sunday.
-
-Analysis generated at: Mon Mar 24 12:27:01 UTC 2025
+Analysis generated at: Mon Mar 24 12:44:03 UTC 2025
