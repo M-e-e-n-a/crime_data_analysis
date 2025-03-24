@@ -1,10 +1,10 @@
 
-Loaded 22013 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-22 18:08:51
+Loaded 22024 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-23 00:57:05
 
 Incidents by source:
 source
-newsapi           21912
+newsapi           21923
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-03-22 18:08
-- Location: TODAY
-- Description: Three people were killed and 15 others were injured at “an unsanctioned car show” in a park in Las Cruces, New Mexico, Friday night mass shooting, according to police.
+### HOMICIDE on 2025-03-23 00:57
+- Location: WSB Atlanta
+- Description: A man is dead and another is injured after a shootout between the two individuals Saturday afternoon, DeKalb Police say.
 
 
-### OTHER on 2025-03-22 18:07
-- Location: CBC News
-- Description: RCMP are asking for help to find a missing 16-year-old from Portage la Prairie who was last seen in early March.
+### OTHER on 2025-03-23 00:56
+- Location: ABC News (AU)
+- Description: When Barbara Brennan was in prison her home was looted and she was evicted. Now she's helping other former inmates with the difficult transition back into the community.
 
 
-### OTHER on 2025-03-22 18:00
-- Location: Dramabeans.com
-- Description: Unraveling the tangled threads of twisted fates, Netflix’s crime thriller Karma navigates the lives of six individuals tied up by one accident that connects them all. As impulsive choices spiral into irrevocable consequences, will their paths lead them to sal…
+### HOMICIDE on 2025-03-23 00:53
+- Location: Slashdot.org
+- Description: Las Cruces mass shooting: What we know so farKOAT New Mexico 3 teenagers killed and 15 people injured in mass shooting at New Mexico parkCNN Fatal shooting in New Mexico park casts pall over Legislature and its ability to contain crimeYahoo Las Cruces Police:…
 
 
-### OTHER on 2025-03-22 18:00
-- Location: Fox News
-- Description: TIME magazine reported one of its 2017 TIME100 listees, who is an illegal immigrant, has been detained by Immigration and Customs Enforcement amid Trump administration crackdown.
+### HOMICIDE on 2025-03-23 00:52
+- Location: Slashdot.org
+- Description: Who are rapper Sauce Walka and his artist Sayso P? Video surfaces from alleged Memphis shooting sceneHindustan Times One dead, another injured in shooting outside FedExForum, MPD saysFOX13 Memphis Heavy police presence at downtown hotel; MPD investigatesActio…
 
 
-### HOMICIDE on 2025-03-22 17:46
-- Location: CBS News
-- Description: Police asked bystanders to share videos and other tips as they continued to seek a suspect or suspects in the shooting on Friday at Young Park in Las Cruces, New Mexico.
+### HOMICIDE on 2025-03-23 00:35
+- Location: The Punch
+- Description: Jonathan Odikanwa, the father of 19-year-old Paul who was allegedly shot while trying to retrieve his playmates’ ball from a landlord’s compound, shares his grief with CHUKWUDI AKASIKE How old was your late son? He was 19 years old and was in JSS 1. He didn’t…
 
-Analysis generated at: Sun Mar 23 18:16:20 UTC 2025
+Analysis generated at: Mon Mar 24 01:04:37 UTC 2025
