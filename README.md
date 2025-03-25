@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Mar 25 01:45:24 UTC 2025
+Last updated: Tue Mar 25 06:19:14 UTC 2025
 
 ## Latest Analysis
 
-Loaded 22166 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-24 01:37:08
+Loaded 22209 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-24 06:15:38
 
 Incidents by source:
 source
-newsapi           22065
+newsapi           22108
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-03-24 01:37
-- Location: Fox News
-- Description: Three illegal immigrants are in custody in Texas after allegedly killing a man in a fiery car crash while the driver was intoxicated.
+### SHOOTING on 2025-03-24 06:15
+- Location: Khabarhub.com
+- Description: KATHMANDU: In just one month, Nepal witnessed a surge in criminal activities, with a staggering 4,468 criminal offenses reported to the police across the country during the month of Falgun (mid-February to mid-March). Among these cases, banking offenses made …
 
 
-### HOMICIDE on 2025-03-24 01:30
+### OTHER on 2025-03-24 06:10
 - Location: Freerepublic.com
-- Description: Acquilla Clemons lived on the north side of Tenth Street in Dallas. Clemons was sitting on the porch of her house when she saw Officer J. D. Tippit killed. Afterwards she claimed that there were two men involved in the attack on Tippit. She later testified in…
+- Description: TSB REVEALS the SHOCKING TRUTH About Delta Airlines CRASH In Toronto, New Report Update... The Transportation Safety Board of Canada has just released its preliminary findings on the February crash involving Delta Flight 4819 at Toronto Pearson Airport. While…
 
 
-### OTHER on 2025-03-24 01:13
-- Location: Freerepublic.com
-- Description: Federal authorities arrested 68 members of the notorious gang Tren De Aragua this week, according to a new report from the Department of Homeland Security (DHS). “In less than 100 days, the Trump Administration has arrested 394 members of the Tren De Aragua—a…
+### HOMICIDE on 2025-03-24 05:57
+- Location: New York Post
+- Description: "I do. And I've always felt that, but of course, was he helped?" Trump answered when asked if he believed Oswald was responsible.
 
 
-### OTHER on 2025-03-24 00:51
-- Location: Freerepublic.com
-- Description: Days after surveillance cameras recorded a driver swarmed by a mob of cyclists in broad daylight in the heart of Miami, the city’s police department has taken action against an officer for what she is accused of failing to do. The brouhaha went down Sunday ev…
+### ROBBERY/THEFT on 2025-03-24 05:44
+- Location: CinemaBlend
+- Description: Legends of the gangster genre swing and miss.
 
 
-### HOMICIDE on 2025-03-24 00:44
-- Location: Starcommunity.com.au
-- Description: A teenager from Narre Warren has been charged with murder over a fatal stabbing at Marriott Waters shopping centre in […]
+### DRUG RELATED on 2025-03-24 05:42
+- Location: New Zealand Herald
+- Description: A drugs in wastewater report shows a 96 percent increase in methamphetamine consumption.
 
-Analysis generated at: Tue Mar 25 01:45:24 UTC 2025
+Analysis generated at: Tue Mar 25 06:19:14 UTC 2025
