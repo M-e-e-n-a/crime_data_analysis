@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Mar 25 06:19:14 UTC 2025
+Last updated: Tue Mar 25 12:25:55 UTC 2025
 
 ## Latest Analysis
 
-Loaded 22209 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-24 06:15:38
+Loaded 22292 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-24 12:18:44
 
 Incidents by source:
 source
-newsapi           22108
+newsapi           22191
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-03-24 06:15
-- Location: Khabarhub.com
-- Description: KATHMANDU: In just one month, Nepal witnessed a surge in criminal activities, with a staggering 4,468 criminal offenses reported to the police across the country during the month of Falgun (mid-February to mid-March). Among these cases, banking offenses made …
+### OTHER on 2025-03-24 12:18
+- Location: Democracy Now!
+- Description: The Trump administration has ramped up efforts to target free speech on college campuses and one doctoral student at Cornell University who was involved in pro-Palastinian protests on campus now finds himself targeted for deportation once again. Momodou Taal …
 
 
-### OTHER on 2025-03-24 06:10
-- Location: Freerepublic.com
-- Description: TSB REVEALS the SHOCKING TRUTH About Delta Airlines CRASH In Toronto, New Report Update... The Transportation Safety Board of Canada has just released its preliminary findings on the February crash involving Delta Flight 4819 at Toronto Pearson Airport. While…
+### HOMICIDE on 2025-03-24 12:05
+- Location: Mediatakeout.com
+- Description: Sauce Walka has broken his silence after the rapper was shot in Memphis in a “targeted shooting.” Officers responded to reports of a shooting on Saturday afternoon where one man was killed in the shooting and another was “transported to the hospital in non-cr…
 
 
-### HOMICIDE on 2025-03-24 05:57
-- Location: New York Post
-- Description: "I do. And I've always felt that, but of course, was he helped?" Trump answered when asked if he believed Oswald was responsible.
+### SHOOTING on 2025-03-24 12:01
+- Location: WSOC Charlotte
+- Description: The Rowan County Sheriff’s Office arrested a suspect over the weekend they said was armed and dangerous.
 
 
-### ROBBERY/THEFT on 2025-03-24 05:44
-- Location: CinemaBlend
-- Description: Legends of the gangster genre swing and miss.
+### OTHER on 2025-03-24 12:00
+- Location: Yahoo Entertainment
+- Description: Emory University put Umaymah Mohammad through ‘one of the most dehumanizing’ experiences of her life as a new front opens in the silencing of pro-Palestinian...
 
 
-### DRUG RELATED on 2025-03-24 05:42
-- Location: New Zealand Herald
-- Description: A drugs in wastewater report shows a 96 percent increase in methamphetamine consumption.
+### OTHER on 2025-03-24 12:00
+- Location: CBC News
+- Description: The money Albertans have lost to job scams has risen more than tenfold in two years, despite only a small increase in the number of reported victims, federal data shows.
 
-Analysis generated at: Tue Mar 25 06:19:14 UTC 2025
+Analysis generated at: Tue Mar 25 12:25:55 UTC 2025
