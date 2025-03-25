@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Mar 25 12:42:37 UTC 2025
+Last updated: Tue Mar 25 18:18:22 UTC 2025
 
 ## Latest Analysis
 
-Loaded 22294 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-24 12:35:40
+Loaded 22387 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-24 18:17:03
 
 Incidents by source:
 source
-newsapi           22193
+newsapi           22286
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-03-24 12:35
-- Location: The Denver Post
-- Description: Paramedics took one man to the hospital Monday morning after shots were fired at about 3:15 a.m. by Aurora officers.
+### OTHER on 2025-03-24 18:17
+- Location: New York Post
+- Description: It’s a big score for the north shore. Nearly a dozen affluent Nassau County enclaves on the Gold Coast, or just a few miles south, made a newly released list of the best places in the US to raise a family. Kensington, a neighborhood on Manhasset Bay near the …
 
 
-### OTHER on 2025-03-24 12:31
-- Location: Mediaite
-- Description: President Donald Trump’s border czar Tom Homan was grilled by ABC's Jonathan Karl over the legality of recent mass deportations and "due process" for migrants under the ongoing immigration crackdown, sparking a tense exchange.
-The post Tom Homan Skirts Questi…
+### HOMICIDE on 2025-03-24 18:11
+- Location: Newsweek
+- Description: As a federal prosecutor, Abel was involved in investigations into intelligence leaks and alleged war crimes.
 
 
-### OTHER on 2025-03-24 12:18
-- Location: Democracy Now!
-- Description: The Trump administration has ramped up efforts to target free speech on college campuses and one doctoral student at Cornell University who was involved in pro-Palastinian protests on campus now finds himself targeted for deportation once again. Momodou Taal …
+### OTHER on 2025-03-24 18:09
+- Location: Forbes
+- Description: Turkey is having its largest protests in more than a decade after Istanbul Mayor Ekrem Imamoglu was arrested and jailed.
 
 
-### HOMICIDE on 2025-03-24 12:05
-- Location: Mediatakeout.com
-- Description: Sauce Walka has broken his silence after the rapper was shot in Memphis in a “targeted shooting.” Officers responded to reports of a shooting on Saturday afternoon where one man was killed in the shooting and another was “transported to the hospital in non-cr…
+### OTHER on 2025-03-24 18:04
+- Location: UN News
+- Description: Following are UN Secretary-General António Guterres’ remarks to the Security Council’s open debate titled “Advancing Adaptability in UN Peace Operations — Responding to New Realities”, in New York today:
 
 
-### SHOOTING on 2025-03-24 12:01
-- Location: WSOC Charlotte
-- Description: The Rowan County Sheriff’s Office arrested a suspect over the weekend they said was armed and dangerous.
+### OTHER on 2025-03-24 18:00
+- Location: BBC News
+- Description: Bulgarian nationals Cvetelina Gencheva and Tsvetanka Doncheva worked with six spies convicted in London.
 
-Analysis generated at: Tue Mar 25 12:42:37 UTC 2025
+Analysis generated at: Tue Mar 25 18:18:22 UTC 2025
