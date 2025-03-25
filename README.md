@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Mar 25 12:25:55 UTC 2025
+Last updated: Tue Mar 25 12:42:37 UTC 2025
 
 ## Latest Analysis
 
-Loaded 22292 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-24 12:18:44
+Loaded 22294 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-24 12:35:40
 
 Incidents by source:
 source
-newsapi           22191
+newsapi           22193
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,6 +24,17 @@ bution.svg)
 
 ## Recent Incidents
 
+### SHOOTING on 2025-03-24 12:35
+- Location: The Denver Post
+- Description: Paramedics took one man to the hospital Monday morning after shots were fired at about 3:15 a.m. by Aurora officers.
+
+
+### OTHER on 2025-03-24 12:31
+- Location: Mediaite
+- Description: President Donald Trump’s border czar Tom Homan was grilled by ABC's Jonathan Karl over the legality of recent mass deportations and "due process" for migrants under the ongoing immigration crackdown, sparking a tense exchange.
+The post Tom Homan Skirts Questi…
+
+
 ### OTHER on 2025-03-24 12:18
 - Location: Democracy Now!
 - Description: The Trump administration has ramped up efforts to target free speech on college campuses and one doctoral student at Cornell University who was involved in pro-Palastinian protests on campus now finds himself targeted for deportation once again. Momodou Taal …
@@ -38,14 +49,4 @@ bution.svg)
 - Location: WSOC Charlotte
 - Description: The Rowan County Sheriff’s Office arrested a suspect over the weekend they said was armed and dangerous.
 
-
-### OTHER on 2025-03-24 12:00
-- Location: Yahoo Entertainment
-- Description: Emory University put Umaymah Mohammad through ‘one of the most dehumanizing’ experiences of her life as a new front opens in the silencing of pro-Palestinian...
-
-
-### OTHER on 2025-03-24 12:00
-- Location: CBC News
-- Description: The money Albertans have lost to job scams has risen more than tenfold in two years, despite only a small increase in the number of reported victims, federal data shows.
-
-Analysis generated at: Tue Mar 25 12:25:55 UTC 2025
+Analysis generated at: Tue Mar 25 12:42:37 UTC 2025
