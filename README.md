@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Mar 26 06:19:02 UTC 2025
+Last updated: Wed Mar 26 12:26:04 UTC 2025
 
 ## Latest Analysis
 
-Loaded 22460 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-25 06:15:10
+Loaded 22539 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-25 12:20:38
 
 Incidents by source:
 source
-newsapi           22359
+newsapi           22438
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-03-25 06:15
+### HOMICIDE on 2025-03-25 12:20
 - Location: BBC News
-- Description: Photos taken of suspects arrested in Scotland are often too low quality to be used to detect crimes.
+- Description: A man who disturbed a burglar was killed when he tried to stop him stealing his car, a court heard.
 
 
-### DRUG RELATED on 2025-03-25 06:03
-- Location: The Star Online
-- Description: KOTA KINABALU: A husband and wife, believed to be drug transporters, were caught with 12.58kg of syabu worth an estimated RM402,720 during a police operation on Saturday (March 22). Read full story
+### OTHER on 2025-03-25 12:15
+- Location: ARLnow
+- Description: A man who tried to intervene in a dispute was chased by a drunk, knife-wielding suspect last week, according to Arlington County police. The incident happened Friday evening in the area of the Queens Court Apartments in Rosslyn, along 18th Street N. No one wa…
 
 
-### OTHER on 2025-03-25 06:02
-- Location: ABC News (AU)
-- Description: Privacy rights have been raised after a content creator from the United States covertly filmed women in Sydney using smart glasses. These are your rights when it comes to being filmed or recorded in public.
+### ROBBERY/THEFT on 2025-03-25 12:14
+- Location: road.cc
+- Description: Almost 30 high-value bikes, as well as parts and accessories, stolen from Pedal Power Cycles in Suffolk during "very well organised crime"
 
 
-### ASSAULT on 2025-03-25 06:00
-- Location: Naturalnews.com
-- Description: Incendiary devices were found at a Tesla dealership in Austin, marking another attack in a nationwide wave of violence against the company. Authorities confirmed the devices were fire-starting weapons, with the FBI treating similar cases as domestic terrorism…
+### OTHER on 2025-03-25 12:13
+- Location: Moonbattery.com
+- Description: Claiming to be a victim of white supremacist oppression might advance your career in municipal government. Or it might blow up your face. WFMZ-TV 69 News reports from Pennsylvania: City of Allentown employee Latarsha Brown, age 42, is facing charges of false …
 
 
-### OTHER on 2025-03-25 06:00
-- Location: Naturalnews.com
-- Description: It didn’t take long for Donald Trump to show his true colors (Article by Chuck Baldwin republished from ChuckBaldwinLive.com) Trump won a landslide election last November primarily on the promise to STOP America’s “stupid” wars. It is now obvious to everyone …
+### OTHER on 2025-03-25 12:13
+- Location: The Diplomat
+- Description: While Chinese investment is rising, particularly in the mining sector, the operations face both local pushback and logistical headaches.
 
-Analysis generated at: Wed Mar 26 06:19:02 UTC 2025
+Analysis generated at: Wed Mar 26 12:26:04 UTC 2025
