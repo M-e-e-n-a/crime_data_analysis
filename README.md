@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Mar 26 12:26:04 UTC 2025
+Last updated: Wed Mar 26 12:42:58 UTC 2025
 
 ## Latest Analysis
 
-Loaded 22539 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-25 12:20:38
+Loaded 22542 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-25 12:38:45
 
 Incidents by source:
 source
-newsapi           22438
+newsapi           22441
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,6 +24,21 @@ bution.svg)
 
 ## Recent Incidents
 
+### ASSAULT on 2025-03-25 12:38
+- Location: The Denver Post
+- Description: Crews were not able to fight the fire at the abandoned Sugar Mill factory because of hazardous materials inside the building and weather conditions, sheriff's officials said.
+
+
+### OTHER on 2025-03-25 12:29
+- Location: Columbia Journalism Review
+- Description: On the Goldberg-group-chat mess—and what it overshadowed.
+
+
+### ROBBERY/THEFT on 2025-03-25 12:26
+- Location: Deadline
+- Description: Stephen Graham has gone as far as comparing him to Robert De Niro — and now Netflix has revealed the moment where it all began for the breakout star of Adolescence. Owen Cooper had never worked as an actor before auditioning to play the central character in t…
+
+
 ### HOMICIDE on 2025-03-25 12:20
 - Location: BBC News
 - Description: A man who disturbed a burglar was killed when he tried to stop him stealing his car, a court heard.
@@ -33,19 +48,4 @@ bution.svg)
 - Location: ARLnow
 - Description: A man who tried to intervene in a dispute was chased by a drunk, knife-wielding suspect last week, according to Arlington County police. The incident happened Friday evening in the area of the Queens Court Apartments in Rosslyn, along 18th Street N. No one wa…
 
-
-### ROBBERY/THEFT on 2025-03-25 12:14
-- Location: road.cc
-- Description: Almost 30 high-value bikes, as well as parts and accessories, stolen from Pedal Power Cycles in Suffolk during "very well organised crime"
-
-
-### OTHER on 2025-03-25 12:13
-- Location: Moonbattery.com
-- Description: Claiming to be a victim of white supremacist oppression might advance your career in municipal government. Or it might blow up your face. WFMZ-TV 69 News reports from Pennsylvania: City of Allentown employee Latarsha Brown, age 42, is facing charges of false …
-
-
-### OTHER on 2025-03-25 12:13
-- Location: The Diplomat
-- Description: While Chinese investment is rising, particularly in the mining sector, the operations face both local pushback and logistical headaches.
-
-Analysis generated at: Wed Mar 26 12:26:04 UTC 2025
+Analysis generated at: Wed Mar 26 12:42:58 UTC 2025
