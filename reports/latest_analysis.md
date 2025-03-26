@@ -1,10 +1,10 @@
 
-Loaded 22403 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-25 01:00:00
+Loaded 22407 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-25 01:30:00
 
 Incidents by source:
 source
-newsapi           22302
+newsapi           22306
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
+### ROBBERY/THEFT on 2025-03-25 01:30
+- Location: BBC News
+- Description: The global online scamming industry is said to be worth some $500 billion a year. It operates in secret, in complexes hidden behind high fences in countries all over the world. It is a particular problem in the Philippines, where much of the industry is run b…
+
+
+### OTHER on 2025-03-25 01:19
+- Location: The Star Online
+- Description: Read full story
+
+
+### HOMICIDE on 2025-03-25 01:12
+- Location: NDTV News
+- Description: Barely 15 days after he got married, a 25-year-old man was allegedly killed by a contract killer hired by his wife and her lover in Uttar Pradesh&#039;s Auraiya district, police said on Monday. All three have been arrested.
+
+
+### HOMICIDE on 2025-03-25 01:05
+- Location: Borderlandbeat.com
+- Description: "Socalj" for Borderland Beat Harfuch confirms torture, murder, and online recruitment in relation to the ranch in Teuchitlán. President Clau...
+
+
 ### ASSAULT on 2025-03-25 01:00
 - Location: MMA Fighting
 - Description: MMA Fighting reacts to Cain Velasquez’s sentencing, as the former UFC heavyweight champ received five-years in prison, plus time served.
 
-
-### OTHER on 2025-03-25 01:00
-- Location: Thehillstimes.in
-- Description: HT Correspondent AGARTALA, March 24: A total of 123 cases of cybercrime were registered in Tripura and 74 accused were also arrested in the last three years, said a report by the state Home Department on Monday. The said report was unveiled in the Tripura Leg…
-
-
-### HOMICIDE on 2025-03-25 00:59
-- Location: ABC News (AU)
-- Description: A 17-year-old girl has been charged with attempted murder after a man was shot at North Lakes, north of Brisbane.
-
-
-### OTHER on 2025-03-25 00:57
-- Location: New York Post
-- Description: Nassau County District Attorney Anne Donnelly is kicking off her re-election bid -- by heading to Albany Tuesday to demand changes to what she considers the pro-criminal discovery law.
-
-
-### ASSAULT on 2025-03-25 00:52
-- Location: TheWrap
-- Description: The Nickelodeon star reunited with his co-star for the first time since the bombshell docuseries "Quiet on Set" 
-The post Drake Bell Says Sexual Assault, Legal Battle Kept Him From Fully Connecting With Josh Peck on ‘Drake & Josh’ appeared first on TheWrap.
-
-Analysis generated at: Wed Mar 26 01:03:04 UTC 2025
+Analysis generated at: Wed Mar 26 01:44:38 UTC 2025
