@@ -1,10 +1,10 @@
 
-Loaded 22542 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-25 12:38:45
+Loaded 22636 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-25 18:13:42
 
 Incidents by source:
 source
-newsapi           22441
+newsapi           22535
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,31 @@ bution.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2025-03-25 12:38
-- Location: The Denver Post
-- Description: Crews were not able to fight the fire at the abandoned Sugar Mill factory because of hazardous materials inside the building and weather conditions, sheriff's officials said.
+### OTHER on 2025-03-25 18:13
+- Location: NDTV News
+- Description: Punjab&#039;s self-styled Christian pastor Bajinder SIngh -- who was caught on camera beating a man and a woman -- kept his congregation together using force and dirty tricks, the woman told NDTV.
 
 
-### OTHER on 2025-03-25 12:29
-- Location: Columbia Journalism Review
-- Description: On the Goldberg-group-chat mess—and what it overshadowed.
+### OTHER on 2025-03-25 18:11
+- Location: ABC News (AU)
+- Description: Three years on from when the first "Hi Mum" texts appeared on Australian mobile phones, parents are still falling for this emotive scam.
 
 
-### ROBBERY/THEFT on 2025-03-25 12:26
-- Location: Deadline
-- Description: Stephen Graham has gone as far as comparing him to Robert De Niro — and now Netflix has revealed the moment where it all began for the breakout star of Adolescence. Owen Cooper had never worked as an actor before auditioning to play the central character in t…
+### HOMICIDE on 2025-03-25 18:07
+- Location: Common Dreams
+- Description: Since fully abandoning a two-month cease-fire in the Gaza Strip a week ago, the Israel Defense Forces have slaughtered more than 270 children in the Palestinian enclave, the global charity Save the Children 
+said on social media Tuesday.
+
+"Bombs falling, hosp…
 
 
-### HOMICIDE on 2025-03-25 12:20
-- Location: BBC News
-- Description: A man who disturbed a burglar was killed when he tried to stop him stealing his car, a court heard.
+### ASSAULT on 2025-03-25 18:07
+- Location: Digital Journal
+- Description: French star actor Gerard Depardieu, on trial for sexual assault, told the Paris court on Tuesday that he was not in the habit of “groping” women, and called the #MeToo movement a “reign of terror.” “I don’t see why I would go around groping a woman, her butto…
 
 
-### OTHER on 2025-03-25 12:15
-- Location: ARLnow
-- Description: A man who tried to intervene in a dispute was chased by a drunk, knife-wielding suspect last week, according to Arlington County police. The incident happened Friday evening in the area of the Queens Court Apartments in Rosslyn, along 18th Street N. No one wa…
+### ASSAULT on 2025-03-25 18:06
+- Location: International Business Times
+- Description: French star actor Gerard Depardieu, on trial for sexual assault, told the Paris court on Tuesday that he was not in the habit of "groping" women, and called the #MeToo movement a "reign of terror."
 
-Analysis generated at: Wed Mar 26 12:42:58 UTC 2025
+Analysis generated at: Wed Mar 26 18:18:44 UTC 2025
