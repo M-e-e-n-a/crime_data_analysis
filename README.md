@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Mar 26 01:44:38 UTC 2025
+Last updated: Wed Mar 26 06:19:02 UTC 2025
 
 ## Latest Analysis
 
-Loaded 22407 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-25 01:30:00
+Loaded 22460 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-25 06:15:10
 
 Incidents by source:
 source
-newsapi           22306
+newsapi           22359
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2025-03-25 01:30
+### OTHER on 2025-03-25 06:15
 - Location: BBC News
-- Description: The global online scamming industry is said to be worth some $500 billion a year. It operates in secret, in complexes hidden behind high fences in countries all over the world. It is a particular problem in the Philippines, where much of the industry is run b…
+- Description: Photos taken of suspects arrested in Scotland are often too low quality to be used to detect crimes.
 
 
-### OTHER on 2025-03-25 01:19
+### DRUG RELATED on 2025-03-25 06:03
 - Location: The Star Online
-- Description: Read full story
+- Description: KOTA KINABALU: A husband and wife, believed to be drug transporters, were caught with 12.58kg of syabu worth an estimated RM402,720 during a police operation on Saturday (March 22). Read full story
 
 
-### HOMICIDE on 2025-03-25 01:12
-- Location: NDTV News
-- Description: Barely 15 days after he got married, a 25-year-old man was allegedly killed by a contract killer hired by his wife and her lover in Uttar Pradesh&#039;s Auraiya district, police said on Monday. All three have been arrested.
+### OTHER on 2025-03-25 06:02
+- Location: ABC News (AU)
+- Description: Privacy rights have been raised after a content creator from the United States covertly filmed women in Sydney using smart glasses. These are your rights when it comes to being filmed or recorded in public.
 
 
-### HOMICIDE on 2025-03-25 01:05
-- Location: Borderlandbeat.com
-- Description: "Socalj" for Borderland Beat Harfuch confirms torture, murder, and online recruitment in relation to the ranch in Teuchitlán. President Clau...
+### ASSAULT on 2025-03-25 06:00
+- Location: Naturalnews.com
+- Description: Incendiary devices were found at a Tesla dealership in Austin, marking another attack in a nationwide wave of violence against the company. Authorities confirmed the devices were fire-starting weapons, with the FBI treating similar cases as domestic terrorism…
 
 
-### ASSAULT on 2025-03-25 01:00
-- Location: MMA Fighting
-- Description: MMA Fighting reacts to Cain Velasquez’s sentencing, as the former UFC heavyweight champ received five-years in prison, plus time served.
+### OTHER on 2025-03-25 06:00
+- Location: Naturalnews.com
+- Description: It didn’t take long for Donald Trump to show his true colors (Article by Chuck Baldwin republished from ChuckBaldwinLive.com) Trump won a landslide election last November primarily on the promise to STOP America’s “stupid” wars. It is now obvious to everyone …
 
-Analysis generated at: Wed Mar 26 01:44:38 UTC 2025
+Analysis generated at: Wed Mar 26 06:19:02 UTC 2025
