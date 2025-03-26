@@ -1,10 +1,10 @@
 
-Loaded 22387 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-24 18:17:03
+Loaded 22403 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-25 01:00:00
 
 Incidents by source:
 source
-newsapi           22286
+newsapi           22302
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-03-24 18:17
+### ASSAULT on 2025-03-25 01:00
+- Location: MMA Fighting
+- Description: MMA Fighting reacts to Cain Velasquez’s sentencing, as the former UFC heavyweight champ received five-years in prison, plus time served.
+
+
+### OTHER on 2025-03-25 01:00
+- Location: Thehillstimes.in
+- Description: HT Correspondent AGARTALA, March 24: A total of 123 cases of cybercrime were registered in Tripura and 74 accused were also arrested in the last three years, said a report by the state Home Department on Monday. The said report was unveiled in the Tripura Leg…
+
+
+### HOMICIDE on 2025-03-25 00:59
+- Location: ABC News (AU)
+- Description: A 17-year-old girl has been charged with attempted murder after a man was shot at North Lakes, north of Brisbane.
+
+
+### OTHER on 2025-03-25 00:57
 - Location: New York Post
-- Description: It’s a big score for the north shore. Nearly a dozen affluent Nassau County enclaves on the Gold Coast, or just a few miles south, made a newly released list of the best places in the US to raise a family. Kensington, a neighborhood on Manhasset Bay near the …
+- Description: Nassau County District Attorney Anne Donnelly is kicking off her re-election bid -- by heading to Albany Tuesday to demand changes to what she considers the pro-criminal discovery law.
 
 
-### HOMICIDE on 2025-03-24 18:11
-- Location: Newsweek
-- Description: As a federal prosecutor, Abel was involved in investigations into intelligence leaks and alleged war crimes.
+### ASSAULT on 2025-03-25 00:52
+- Location: TheWrap
+- Description: The Nickelodeon star reunited with his co-star for the first time since the bombshell docuseries "Quiet on Set" 
+The post Drake Bell Says Sexual Assault, Legal Battle Kept Him From Fully Connecting With Josh Peck on ‘Drake & Josh’ appeared first on TheWrap.
 
-
-### OTHER on 2025-03-24 18:09
-- Location: Forbes
-- Description: Turkey is having its largest protests in more than a decade after Istanbul Mayor Ekrem Imamoglu was arrested and jailed.
-
-
-### OTHER on 2025-03-24 18:04
-- Location: UN News
-- Description: Following are UN Secretary-General António Guterres’ remarks to the Security Council’s open debate titled “Advancing Adaptability in UN Peace Operations — Responding to New Realities”, in New York today:
-
-
-### OTHER on 2025-03-24 18:00
-- Location: BBC News
-- Description: Bulgarian nationals Cvetelina Gencheva and Tsvetanka Doncheva worked with six spies convicted in London.
-
-Analysis generated at: Tue Mar 25 18:18:22 UTC 2025
+Analysis generated at: Wed Mar 26 01:03:04 UTC 2025
