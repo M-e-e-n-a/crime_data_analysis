@@ -1,10 +1,10 @@
 
-Loaded 22685 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-26 06:10:26
+Loaded 22760 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-26 12:26:23
 
 Incidents by source:
 source
-newsapi           22584
+newsapi           22659
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-03-26 06:10
-- Location: NPR
-- Description: El Paso County District Attorney James Montoya said that his decision in the prosecution of Patrick Crusius was driven by a majority of victims' relatives who wanted the case behind them.
+### SHOOTING on 2025-03-26 12:26
+- Location: fox6now.com
+- Description: A shooting in Milwaukee on Wednesday morning, March 26 left one person wounded. It happened at approximately 4:11 a.m. near Hawley and McKinley.
 
 
-### DRUG RELATED on 2025-03-26 06:05
-- Location: The Star Online
-- Description: BANGI: Police suspect that fentanyl, a drug that is also known as "zombie drug", which is potentially up to 100 times more potent than morphine, is already being used in Malaysia. Read full story
+### OTHER on 2025-03-26 12:21
+- Location: NDTV News
+- Description: A 20-year-old US man dressed as Spider-Man and allegedly shoplifted nearly $10,000 (approximately Rs 856,000) worth of trading cards related to popular anime from a shop in Virginia.
 
 
-### OTHER on 2025-03-26 06:00
-- Location: The Irish Times
-- Description: Aontú leader Peadar Tóibín makes remarks after Minister for Justice  unable to provide information on such incidents
+### OTHER on 2025-03-26 12:19
+- Location: What's on Netflix
+- Description: A co-production between Netflix and the BBC on the Lockerbie plane bombing is due out later in 2025.
 
 
-### HOMICIDE on 2025-03-26 05:57
-- Location: ABC News (AU)
-- Description: A further three teenagers have been charged with murder following a fatal stabbing in Melbourne's south-east last week.
+### OTHER on 2025-03-26 12:15
+- Location: ComicBook.com
+- Description: Image Comics is the home of the best indie books on the market. Image publishes a little bit of everything, from pitch perfect sci-fi to some of the greatest horror comics of all time. The best creators in the comic industry work at Image, and every month the…
 
 
-### ASSAULT on 2025-03-26 05:56
-- Location: CounterPunch
-- Description: Four years ago, I published Subtle Tools, a book on the erosion of American democratic norms in the face of what came to be known as the Global War on Terror. Both what had been done in the name of “national security” in response to the 9/11 attacks and how i…
+### OTHER on 2025-03-26 12:11
+- Location: The Times of India
+- Description: Netflix’s Adolescence has set a new streaming record, becoming the platform’s most-watched limited series ever. The British crime drama amassed 66.3 million views in just 11 days, surpassing all previous records for limited series on Netflix. With gripping st…
 
-Analysis generated at: Thu Mar 27 06:18:59 UTC 2025
+Analysis generated at: Thu Mar 27 12:26:40 UTC 2025
