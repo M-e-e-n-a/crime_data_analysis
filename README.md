@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Mar 27 01:44:26 UTC 2025
+Last updated: Thu Mar 27 06:18:59 UTC 2025
 
 ## Latest Analysis
 
-Loaded 22650 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-26 01:30:29
+Loaded 22685 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-26 06:10:26
 
 Incidents by source:
 source
-newsapi           22549
+newsapi           22584
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-03-26 01:30
-- Location: Thegatewaypundit.com
-- Description: In the wake of a recent race hoax involving a Pennsylvania school board member, this post delves into the troubling trend of fabricated racial incidents and their implications for societal discourse.
-The post Victor Reacts: The Liberal Demand for Racism Excee…
+### HOMICIDE on 2025-03-26 06:10
+- Location: NPR
+- Description: El Paso County District Attorney James Montoya said that his decision in the prosecution of Patrick Crusius was driven by a majority of victims' relatives who wanted the case behind them.
 
 
-### OTHER on 2025-03-26 01:30
-- Location: BBC News
-- Description: The Justice for Victims group is calling for perpetrators of violent crimes to be jailed for longer.
-
-
-### HOMICIDE on 2025-03-26 01:29
-- Location: WMUR Manchester
-- Description: A Keene man has been arrested in connection to the death of 23-month-old Luca Hudson.
-
-
-### OTHER on 2025-03-26 01:29
+### DRUG RELATED on 2025-03-26 06:05
 - Location: The Star Online
-- Description: SEREMBAN: Negri Sembilan police chief Datuk Ahmad Dzaffir Mohd Yussof said an estimated 810,000 vehicles are expected to enter the state during the Aidilfitri period. Read full story
+- Description: BANGI: Police suspect that fentanyl, a drug that is also known as "zombie drug", which is potentially up to 100 times more potent than morphine, is already being used in Malaysia. Read full story
 
 
-### OTHER on 2025-03-26 01:10
-- Location: ComicBook.com
-- Description: [Warning: This article contains spoilers for Daredevil: Born Again episode 5.] “Bless me, Father, for I have sinned.” Marvel’s Daredevil began with Matt Murdock (Charlie Cox) in a confessional booth, recounting something his grandmother, a God-fearing Catholi…
+### OTHER on 2025-03-26 06:00
+- Location: The Irish Times
+- Description: Aontú leader Peadar Tóibín makes remarks after Minister for Justice  unable to provide information on such incidents
 
-Analysis generated at: Thu Mar 27 01:44:26 UTC 2025
+
+### HOMICIDE on 2025-03-26 05:57
+- Location: ABC News (AU)
+- Description: A further three teenagers have been charged with murder following a fatal stabbing in Melbourne's south-east last week.
+
+
+### ASSAULT on 2025-03-26 05:56
+- Location: CounterPunch
+- Description: Four years ago, I published Subtle Tools, a book on the erosion of American democratic norms in the face of what came to be known as the Global War on Terror. Both what had been done in the name of “national security” in response to the 9/11 attacks and how i…
+
+Analysis generated at: Thu Mar 27 06:18:59 UTC 2025
