@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Mar 27 12:26:40 UTC 2025
+Last updated: Thu Mar 27 12:43:21 UTC 2025
 
 ## Latest Analysis
 
-Loaded 22760 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-26 12:26:23
+Loaded 22761 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-26 12:42:09
 
 Incidents by source:
 source
-newsapi           22659
+newsapi           22660
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -23,6 +23,11 @@ bution.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### OTHER on 2025-03-26 12:42
+- Location: The Conversation Africa
+- Description: Rewriting the map can influence the public psyche in ways subtle and not so subtle.
+
 
 ### SHOOTING on 2025-03-26 12:26
 - Location: fox6now.com
@@ -43,9 +48,4 @@ bution.svg)
 - Location: ComicBook.com
 - Description: Image Comics is the home of the best indie books on the market. Image publishes a little bit of everything, from pitch perfect sci-fi to some of the greatest horror comics of all time. The best creators in the comic industry work at Image, and every month the…
 
-
-### OTHER on 2025-03-26 12:11
-- Location: The Times of India
-- Description: Netflix’s Adolescence has set a new streaming record, becoming the platform’s most-watched limited series ever. The British crime drama amassed 66.3 million views in just 11 days, surpassing all previous records for limited series on Netflix. With gripping st…
-
-Analysis generated at: Thu Mar 27 12:26:40 UTC 2025
+Analysis generated at: Thu Mar 27 12:43:21 UTC 2025
