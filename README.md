@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Mar 27 01:02:43 UTC 2025
+Last updated: Thu Mar 27 01:44:26 UTC 2025
 
 ## Latest Analysis
 
-Loaded 22645 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-26 01:00:00
+Loaded 22650 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-26 01:30:29
 
 Incidents by source:
 source
-newsapi           22544
+newsapi           22549
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,27 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-03-26 01:00
-- Location: Spoilertv.com
+### OTHER on 2025-03-26 01:30
+- Location: Thegatewaypundit.com
+- Description: In the wake of a recent race hoax involving a Pennsylvania school board member, this post delves into the troubling trend of fabricated racial incidents and their implications for societal discourse.
+The post Victor Reacts: The Liberal Demand for Racism Excee…
 
 
-### OTHER on 2025-03-26 00:59
-- Location: TVLine
-- Description: GBI Special Agent Will Trent won’t have an easy time getting over this latest loss. Tuesday’s episode of the ABC crime drama started off with a foot chase. Will caught up to an armed parolee in the hall of an apartment complex, and was forced to fire his weap…
+### OTHER on 2025-03-26 01:30
+- Location: BBC News
+- Description: The Justice for Victims group is calling for perpetrators of violent crimes to be jailed for longer.
 
 
-### HOMICIDE on 2025-03-26 00:46
-- Location: The Jerusalem Post
-- Description: The bloodshed in Arab society must end. This requires responsible and courageous leadership. A broad government initiative is needed.
+### HOMICIDE on 2025-03-26 01:29
+- Location: WMUR Manchester
+- Description: A Keene man has been arrested in connection to the death of 23-month-old Luca Hudson.
 
 
-### HOMICIDE on 2025-03-26 00:46
-- Location: FOX 5 DC
-- Description: The Alexandria Police Department has released the suspected cause of death of a former U.S. attorney.
+### OTHER on 2025-03-26 01:29
+- Location: The Star Online
+- Description: SEREMBAN: Negri Sembilan police chief Datuk Ahmad Dzaffir Mohd Yussof said an estimated 810,000 vehicles are expected to enter the state during the Aidilfitri period. Read full story
 
 
-### HOMICIDE on 2025-03-26 00:38
-- Location: ABC News
-- Description: The gunman who killed 23 people in a racist attack at an El Paso Walmart in 2019 in one of the the deadliest mass shootings in U.S. history has been offered a plea deal to avoid the death penalty
+### OTHER on 2025-03-26 01:10
+- Location: ComicBook.com
+- Description: [Warning: This article contains spoilers for Daredevil: Born Again episode 5.] “Bless me, Father, for I have sinned.” Marvel’s Daredevil began with Matt Murdock (Charlie Cox) in a confessional booth, recounting something his grandmother, a God-fearing Catholi…
 
-Analysis generated at: Thu Mar 27 01:02:43 UTC 2025
+Analysis generated at: Thu Mar 27 01:44:26 UTC 2025
