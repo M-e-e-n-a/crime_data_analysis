@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Mar 27 12:43:21 UTC 2025
+Last updated: Thu Mar 27 18:18:22 UTC 2025
 
 ## Latest Analysis
 
-Loaded 22761 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-26 12:42:09
+Loaded 22852 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-26 18:17:00
 
 Incidents by source:
 source
-newsapi           22660
+newsapi           22751
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-03-26 12:42
-- Location: The Conversation Africa
-- Description: Rewriting the map can influence the public psyche in ways subtle and not so subtle.
+### OTHER on 2025-03-26 18:17
+- Location: LancasterOnline
+- Description: James Steffy sat silently in a courtroom Wednesday as his attorney listed everything he lost over the course of five years thanks to his two-year crime spree: his home, marriage and custody of his children.
 
 
-### SHOOTING on 2025-03-26 12:26
-- Location: fox6now.com
-- Description: A shooting in Milwaukee on Wednesday morning, March 26 left one person wounded. It happened at approximately 4:11 a.m. near Hawley and McKinley.
+### OTHER on 2025-03-26 18:15
+- Location: PoPville
+- Description: via google maps From MPD: "The Metropolitan Police Department is asking for the community’s assistance in identifying suspects in an armed carjacking that occurred in the Navy Yard area. On Tuesday, March 25, 2025, at approximately 3:29 p.m., the suspects app…
 
 
-### OTHER on 2025-03-26 12:21
+### OTHER on 2025-03-26 18:12
+- Location: Mother Jones
+- Description: On Friday, March 14, Arturo Suárez Trejo called his wife, Nathali Sánchez, from an immigration detention center in Texas. Suárez, a 33-year-old native of Caracas, Venezuela, explained that his deportation flight had been delayed. He told his wife he would be …
+
+
+### OTHER on 2025-03-26 18:02
 - Location: NDTV News
-- Description: A 20-year-old US man dressed as Spider-Man and allegedly shoplifted nearly $10,000 (approximately Rs 856,000) worth of trading cards related to popular anime from a shop in Virginia.
+- Description: Stuck in the vicious cycle of borrowing for gratifying expensive hobbies, a 24-year-old man from Indore allegedly faked his kidnapping with the help of friends and demanded Rs 1 lakh &quot;ransom&quot; from his father.
 
 
-### OTHER on 2025-03-26 12:19
-- Location: What's on Netflix
-- Description: A co-production between Netflix and the BBC on the Lockerbie plane bombing is due out later in 2025.
+### ROBBERY/THEFT on 2025-03-26 18:00
+- Location: Richmond.com
+- Description: In November, Kumkio Leftha Martin pleaded guilty to the May 4 armed robbery of a Richmond tobacco store. He also admitted to armed robbery of a Chesterfield convenience store.
 
-
-### OTHER on 2025-03-26 12:15
-- Location: ComicBook.com
-- Description: Image Comics is the home of the best indie books on the market. Image publishes a little bit of everything, from pitch perfect sci-fi to some of the greatest horror comics of all time. The best creators in the comic industry work at Image, and every month the…
-
-Analysis generated at: Thu Mar 27 12:43:21 UTC 2025
+Analysis generated at: Thu Mar 27 18:18:22 UTC 2025
