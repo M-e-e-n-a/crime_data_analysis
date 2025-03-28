@@ -1,10 +1,10 @@
 
-Loaded 22852 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-26 18:17:00
+Loaded 22865 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-27 00:52:59
 
 Incidents by source:
 source
-newsapi           22751
+newsapi           22764
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-03-26 18:17
-- Location: LancasterOnline
-- Description: James Steffy sat silently in a courtroom Wednesday as his attorney listed everything he lost over the course of five years thanks to his two-year crime spree: his home, marriage and custody of his children.
+### HOMICIDE on 2025-03-27 00:52
+- Location: BBC News
+- Description: Angela Crompton's daughter has been speaking to the BBC about her life and the campaign in her name.
 
 
-### OTHER on 2025-03-26 18:15
-- Location: PoPville
-- Description: via google maps From MPD: "The Metropolitan Police Department is asking for the community’s assistance in identifying suspects in an armed carjacking that occurred in the Navy Yard area. On Tuesday, March 25, 2025, at approximately 3:29 p.m., the suspects app…
+### HOMICIDE on 2025-03-27 00:50
+- Location: Advocate.com
+- Description: The body of a beloved gay yoga teacher in Arizona has been discovered almost a month after he went missing following a blind date.
 
 
-### OTHER on 2025-03-26 18:12
-- Location: Mother Jones
-- Description: On Friday, March 14, Arturo Suárez Trejo called his wife, Nathali Sánchez, from an immigration detention center in Texas. Suárez, a 33-year-old native of Caracas, Venezuela, explained that his deportation flight had been delayed. He told his wife he would be …
+### ROBBERY/THEFT on 2025-03-27 00:49
+- Location: Twistedsifter.com
+- Description: This cost him way more than he ever saved from stealing
 
 
-### OTHER on 2025-03-26 18:02
-- Location: NDTV News
-- Description: Stuck in the vicious cycle of borrowing for gratifying expensive hobbies, a 24-year-old man from Indore allegedly faked his kidnapping with the help of friends and demanded Rs 1 lakh &quot;ransom&quot; from his father.
+### HOMICIDE on 2025-03-27 00:49
+- Location: New York Post
+- Description: A 16-year-old boy was shot dead during a daylight brawl in Queens Wednesday afternoon, police said.
 
 
-### ROBBERY/THEFT on 2025-03-26 18:00
-- Location: Richmond.com
-- Description: In November, Kumkio Leftha Martin pleaded guilty to the May 4 armed robbery of a Richmond tobacco store. He also admitted to armed robbery of a Chesterfield convenience store.
+### ASSAULT on 2025-03-27 00:40
+- Location: The Denver Post
+- Description: Troy Martin Smith, 50, allegedly pushed and shoved the victim after a drunken argument, according to an arrest affidavit.
 
-Analysis generated at: Thu Mar 27 18:18:22 UTC 2025
+Analysis generated at: Fri Mar 28 01:02:34 UTC 2025
