@@ -1,10 +1,10 @@
 
-Loaded 22909 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-27 06:16:30
+Loaded 22981 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-27 12:24:50
 
 Incidents by source:
 source
-newsapi           22808
+newsapi           22880
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-03-27 06:16
-- Location: Economictimes.com
-- Description: Before embarking on your journey, take the time to research your destination in detail. Learn about the culture, norms, and any specific safety concerns in the area. Choose accommodations in reputable, well-reviewed locations that are centrally located or clo…
+### ROBBERY/THEFT on 2025-03-27 12:24
+- Location: Www.gov.uk
+- Description: A violent robber who was caught wearing a jacket he had stolen has had his suspended sentence quashed and been sent to jail after the Solicitor General, Lucy Rigby KC MP intervened.
 
 
-### OTHER on 2025-03-27 06:11
-- Location: The Star Online
-- Description: KUALA LUMPUR: The relatives of a man who had borrowed money from loan sharks are now suffering from his actions after a petrol bomb was thrown into their home. Read full story
+### OTHER on 2025-03-27 12:12
+- Location: Newsweek
+- Description: It has been claimed that the FBI arrested Adam22 in connection with a RICO case involving purported anti-gang activist and music entrepreneur Big U.
 
 
-### HOMICIDE on 2025-03-27 06:10
-- Location: Newser
-- Description: As the 30th anniversary of Tejano music icon Selena Quintanilla-Pérez's untimely death approaches, so too does the possibility of parole for the woman convicted of her murder. Yolanda Saldívar, now 64, will on Sunday be up for parole for the first time since …
+### OTHER on 2025-03-27 12:06
+- Location: The Punch
+- Description: The newly posted Commissioner of Police for Yobe State Command, CP Emmanuel Ado, reported for duty today, Thursday, March 27, at the State Police Headquarters in Damaturu. He was accorded a guard of honour and subsequently conducted an inspection of the guard…
 
 
-### DRUG RELATED on 2025-03-27 06:00
-- Location: The Irish Times
-- Description: Sheer scale of Ireland’s biggest drugs gang emerges as Spanish police raid main distribution hub supplying Irish market
+### OTHER on 2025-03-27 12:06
+- Location: NDTV News
+- Description: Santosh had its world premiere at the 77th Cannes Film Festival in the Un Certain Regard section
 
 
-### OTHER on 2025-03-27 06:00
-- Location: Naturalnews.com
-- Description: • UC Berkeley allegedly accepted $220 million from China without disclosure, raising national security concerns • Chinese-made cranes at U.S. ports contain hidden cellular modems, enabling potential espionage • Fentanyl precursors from China fuel America’s de…
+### OTHER on 2025-03-27 12:05
+- Location: ABC News
+- Description: The child was returned to their parents without incident, the agency said.
 
-Analysis generated at: Fri Mar 28 06:19:24 UTC 2025
+Analysis generated at: Fri Mar 28 12:25:04 UTC 2025
