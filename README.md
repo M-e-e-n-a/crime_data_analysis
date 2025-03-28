@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Mar 28 12:42:11 UTC 2025
+Last updated: Fri Mar 28 18:18:29 UTC 2025
 
 ## Latest Analysis
 
-Loaded 22983 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-27 12:30:29
+Loaded 23068 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-27 18:12:12
 
 Incidents by source:
 source
-newsapi           22882
+newsapi           22967
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-03-27 12:30
-- Location: Securityaffairs.com
-- Description: U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Sitecore CMS and XP, and GitHub Action flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added [1,2] the following vulnerabi…
+### OTHER on 2025-03-27 18:12
+- Location: The Times of India
+- Description: A retired army officer from Faridabad was defrauded of Rs 72.16 lakh after falling victim to an elaborate scam promising a meeting with Elon Musk. The fraudsters, posing as Musk’s associates, convinced him to invest in SpaceX, Tesla, and cryptocurrency. Using…
 
 
-### OTHER on 2025-03-27 12:30
-- Location: Decider
-- Description: Season 3 of Bosch: Legacy will be the spinoff’s last. But that doesn’t mean the larger Bosch universe is done!
+### HOMICIDE on 2025-03-27 18:08
+- Location: LancasterOnline
+- Description: Lancaster County commissioners approved a $25,000 transfer of unbudgeted reserve funds to the Public Defender’s Office on Wednesday to pay for outside counsel in a death penalty case amid a shortage of qualified staff.
 
 
-### ROBBERY/THEFT on 2025-03-27 12:24
-- Location: Www.gov.uk
-- Description: A violent robber who was caught wearing a jacket he had stolen has had his suspended sentence quashed and been sent to jail after the Solicitor General, Lucy Rigby KC MP intervened.
+### ASSAULT on 2025-03-27 18:02
+- Location: Vox
+- Description: On Wednesday, masked plainclothes immigration officers arrested Rumeysa Ozturk, a Turkish citizen on a student visa, outside Tufts University, where she’s studying for a PhD. Video of her arrest, showing her being taken while walking down a street, has gone v…
 
 
-### OTHER on 2025-03-27 12:12
-- Location: Newsweek
-- Description: It has been claimed that the FBI arrested Adam22 in connection with a RICO case involving purported anti-gang activist and music entrepreneur Big U.
+### HOMICIDE on 2025-03-27 17:59
+- Location: New York Post
+- Description: "Certainly, solving this case was not their No. 1 priority. Their No. 1 priority was keeping themselves out of prison."
 
 
-### OTHER on 2025-03-27 12:06
-- Location: The Punch
-- Description: The newly posted Commissioner of Police for Yobe State Command, CP Emmanuel Ado, reported for duty today, Thursday, March 27, at the State Police Headquarters in Damaturu. He was accorded a guard of honour and subsequently conducted an inspection of the guard…
+### OTHER on 2025-03-27 17:56
+- Location: PBS
+- Description: It was five years ago this month that COVID-19-fueled incidents against Asian Americans and Pacific Islanders became so frequent that a reporting center was formed.
 
-Analysis generated at: Fri Mar 28 12:42:11 UTC 2025
+Analysis generated at: Fri Mar 28 18:18:29 UTC 2025
