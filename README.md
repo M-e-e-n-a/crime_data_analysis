@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Mar 28 12:25:04 UTC 2025
+Last updated: Fri Mar 28 12:42:11 UTC 2025
 
 ## Latest Analysis
 
-Loaded 22981 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-27 12:24:50
+Loaded 22983 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-27 12:30:29
 
 Incidents by source:
 source
-newsapi           22880
+newsapi           22882
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,6 +24,16 @@ bution.svg)
 
 ## Recent Incidents
 
+### OTHER on 2025-03-27 12:30
+- Location: Securityaffairs.com
+- Description: U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Sitecore CMS and XP, and GitHub Action flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added [1,2] the following vulnerabi…
+
+
+### OTHER on 2025-03-27 12:30
+- Location: Decider
+- Description: Season 3 of Bosch: Legacy will be the spinoff’s last. But that doesn’t mean the larger Bosch universe is done!
+
+
 ### ROBBERY/THEFT on 2025-03-27 12:24
 - Location: Www.gov.uk
 - Description: A violent robber who was caught wearing a jacket he had stolen has had his suspended sentence quashed and been sent to jail after the Solicitor General, Lucy Rigby KC MP intervened.
@@ -38,14 +48,4 @@ bution.svg)
 - Location: The Punch
 - Description: The newly posted Commissioner of Police for Yobe State Command, CP Emmanuel Ado, reported for duty today, Thursday, March 27, at the State Police Headquarters in Damaturu. He was accorded a guard of honour and subsequently conducted an inspection of the guard…
 
-
-### OTHER on 2025-03-27 12:06
-- Location: NDTV News
-- Description: Santosh had its world premiere at the 77th Cannes Film Festival in the Un Certain Regard section
-
-
-### OTHER on 2025-03-27 12:05
-- Location: ABC News
-- Description: The child was returned to their parents without incident, the agency said.
-
-Analysis generated at: Fri Mar 28 12:25:04 UTC 2025
+Analysis generated at: Fri Mar 28 12:42:11 UTC 2025
