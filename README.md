@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Mar 29 06:17:22 UTC 2025
+Last updated: Sat Mar 29 12:22:36 UTC 2025
 
 ## Latest Analysis
 
-Loaded 23131 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-28 06:10:34
+Loaded 23198 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-28 12:14:06
 
 Incidents by source:
 source
-newsapi           23030
+newsapi           23097
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,31 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-03-28 06:10
-- Location: Japan Today
-- Description: A 29-year-old man showed up at a police box in Nabari, Mie Prefecture, on Thursday, and said he had committed a crime in Aichi Prefecture. According to police, Ryosuke Shimizu, a part-time employee from Habikino City, Osaka Prefecture, visited the police box …
+### OTHER on 2025-03-28 12:14
+- Location: Cardinalnews.org
+- Description: Article URL: https://cardinalnews.org/2025/03/28/i-drove-300-miles-in-rural-virginia-then-asked-police-to-send-me-their-public-surveillance-footage-of-my-car-heres-what-i-learned/
+Comments URL: https://news.ycombinator.com/item?id=43504413
+Points: 9
+# Comment…
 
 
-### ROBBERY/THEFT on 2025-03-28 06:08
-- Location: Japan Today
-- Description: The number of automobile thefts in Japan has been consistently rising in recent years as criminal groups develop increasingly sophisticated tactics to overcome technological advances by automakers and the policing efforts of authorities. Toyota Motor Corp, th…
+### HOMICIDE on 2025-03-28 12:06
+- Location: CBS News
+- Description: The mother of murdered model Christy Giles pleads for others to share their locations. She says the technology helped police catch David Pearce, who murdered Giles and her friend, architect Hilda Marcela Cabrales.
 
 
-### OTHER on 2025-03-28 06:03
-- Location: CounterPunch
-- Description: If the Trump team was going to "accidentally" include any reporter in their Yemen war planning–Goldberg, the former IDF prison guard–would be the one. It's the equivalent of Christopher Hitchens being invited to the Bush White House to help plot airstrikes on…
+### HOMICIDE on 2025-03-28 12:04
+- Location: BBC News
+- Description: Alexander Dighton appeared at the Old Bailey accused of attempted murder and six other offences.
 
 
-### ASSAULT on 2025-03-28 06:00
-- Location: Naturalnews.com
-- Description: Five people were wounded in a knife attack in Amsterdam’s busy tourist district near Dam Square. The suspect was quickly arrested with help from a bystander, but motives remain unclear. Eyewitnesses described panic as victims, including an elderly woman and c…
+### ASSAULT on 2025-03-28 12:02
+- Location: New York Post
+- Description: The NYPD is searching for two hateful vandals who were caught-on-camera brazenly carving a swastika and the word “Nazis” on the side of a Tesla Cybertruck parked in Brooklyn, cops said Friday. The ordeal, which is the latest in a spate of vandalism attack tar…
 
 
-### HOMICIDE on 2025-03-28 06:00
-- Location: Naturalnews.com
-- Description: Crime in Berlin increased by 0.4 percent in 2024, with 539,049 offenses reported. Foreigners accounted for 43.9 percent of crimes (excluding immigration-related offenses), a slight rise from 2023. Homicide and manslaughter cases surged by over 50 percent, whi…
+### OTHER on 2025-03-28 12:00
+- Location: YLE News
+- Description: Under the terms of the extended restraining order, the 36-year-old suspect is prohibited from contacting the former PM and forbidden from visiting certain areas.
 
-Analysis generated at: Sat Mar 29 06:17:22 UTC 2025
+Analysis generated at: Sat Mar 29 12:22:36 UTC 2025
