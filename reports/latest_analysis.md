@@ -1,10 +1,10 @@
 
-Loaded 23085 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-28 00:58:28
+Loaded 23087 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-28 01:39:17
 
 Incidents by source:
 source
-newsapi           22984
+newsapi           22986
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,6 +20,16 @@ bution.svg)
 
 ## Recent Incidents
 
+### HOMICIDE on 2025-03-28 01:39
+- Location: Complex
+- Description: The Houston rapper and his artist were shot in downtown Memphis last week.
+
+
+### OTHER on 2025-03-28 01:39
+- Location: The Star Online
+- Description: WASHINGTON (Reuters) -The U.S. State Department said on Thursday that short-term funding was being given to an initiative documenting abducted Ukrainian children, after Republican President Donald Trump's administration decided to pause the program on January…
+
+
 ### OTHER on 2025-03-28 00:58
 - Location: NBC News
 - Description: The Trump administration has been targeting foreign-born graduate and doctoral students whose main transgression seems to be activism.
@@ -34,14 +44,4 @@ bution.svg)
 - Location: Financial Post
 - Description: NICOSIA, Cyprus (AP) — Cyprus said Thursday its will adopt recommendations of a security initiative with the United States to fight money laundering, sanctions evasion and other financial crimes during which a team from FBI was seconded to the Mediterranean i…
 
-
-### ROBBERY/THEFT on 2025-03-28 00:53
-- Location: ABC News (AU)
-- Description: The egg shortage is considered a possible motive after chickens were plucked from a flock of birds at a Hobart school.
-
-
-### HOMICIDE on 2025-03-28 00:52
-- Location: ABC News
-- Description: Georgia lawmakers are giving up on creating a statewide database to collect information on students who might commit violence
-
-Analysis generated at: Sat Mar 29 01:02:09 UTC 2025
+Analysis generated at: Sat Mar 29 01:43:47 UTC 2025
