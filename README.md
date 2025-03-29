@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Mar 29 12:38:57 UTC 2025
+Last updated: Sat Mar 29 18:16:12 UTC 2025
 
 ## Latest Analysis
 
-Loaded 23204 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-28 12:37:20
+Loaded 23302 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-28 18:15:29
 
 Incidents by source:
 source
-newsapi           23103
+newsapi           23201
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-03-28 12:37
-- Location: The Punch
-- Description: A Spanish appeals court overturned Friday former Brazil international footballer Dani Alves’ rape conviction, arguing his trial was marked by “shortcomings” and “inaccuracies”. Alves was sentenced to four-and-a-half years in jail in February last year for rap…
+### HOMICIDE on 2025-03-28 18:15
+- Location: CBC News
+- Description: A Toronto court has ruled that a woman accused of killing three people in three Ontario cities last year is unfit to stand trial at this time and must undergo psychiatric treatment.
 
 
-### HOMICIDE on 2025-03-28 12:37
-- Location: The Punch
-- Description: Four civilian protection guard members, two hunters, and a policeman were killed by bandits in Zamfara in a fierce battle between the bandits and the security personnel. Several bandits were also said to have been killed during the clash, which occurred in th…
+### SHOOTING on 2025-03-28 18:13
+- Location: The Denver Post
+- Description: Jontaye Acoray Tassian shot a man he reportedly didn't know during an altercation at Church's Texas Chicken at 11900 E. Colfax Ave.
 
 
-### HOMICIDE on 2025-03-28 12:30
-- Location: Shtfplan.com
-- Description: Imagine this: You’re rounded up in the dead of night by government agents, arrested, and sent to a detention center. The arresting agents don’t identify themselves, nor do they provide any documentation indicating why you are being detained. Nevertheless, wit…
+### OTHER on 2025-03-28 18:12
+- Location: NDTV News
+- Description: Arrested Assam journalist Dilwar Hussain Mozumder was granted bail by a court on Friday, a day after he was re-arrested in a second case immediately after his release on bail in the first case filed by a bank official.
 
 
-### OTHER on 2025-03-28 12:30
-- Location: Raw Story
-- Description: Dear Republicans,Here we go again. A large chunk of Trump‘s cabinet and our national security leaders just endangered our country and our pilots who were flying over Yemen with their arrogance and frank stupidity.Their lies about it were so egregious that Jef…
+### OTHER on 2025-03-28 18:10
+- Location: The Jerusalem Post
+- Description: The Trump admin said it has revoked the visas of hundreds of foreign students it says took part in the pro-Palestinian protests that swept college campuses.
 
 
-### SHOOTING on 2025-03-28 12:28
-- Location: Haaretz
-- Description: When the thirteen-year-old's father drove her to hospital, he was stopped by more officers along the way: 'It was clear to me that the cop notified his commanders about the shooting, and they wanted to know what had happened'
+### HOMICIDE on 2025-03-28 18:06
+- Location: NDTV News
+- Description: A group of locals vandalised a private hospital here on Friday following the death of a 22-year-old female staff, officials said.
 
-Analysis generated at: Sat Mar 29 12:38:57 UTC 2025
+Analysis generated at: Sat Mar 29 18:16:12 UTC 2025
