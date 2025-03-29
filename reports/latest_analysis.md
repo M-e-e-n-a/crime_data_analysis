@@ -1,10 +1,10 @@
 
-Loaded 23068 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-27 18:12:12
+Loaded 23085 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-28 00:58:28
 
 Incidents by source:
 source
-newsapi           22967
+newsapi           22984
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-03-27 18:12
-- Location: The Times of India
-- Description: A retired army officer from Faridabad was defrauded of Rs 72.16 lakh after falling victim to an elaborate scam promising a meeting with Elon Musk. The fraudsters, posing as Musk’s associates, convinced him to invest in SpaceX, Tesla, and cryptocurrency. Using…
+### OTHER on 2025-03-28 00:58
+- Location: NBC News
+- Description: The Trump administration has been targeting foreign-born graduate and doctoral students whose main transgression seems to be activism.
 
 
-### HOMICIDE on 2025-03-27 18:08
-- Location: LancasterOnline
-- Description: Lancaster County commissioners approved a $25,000 transfer of unbudgeted reserve funds to the Public Defender’s Office on Wednesday to pay for outside counsel in a death penalty case amid a shortage of qualified staff.
+### OTHER on 2025-03-28 00:54
+- Location: The Jerusalem Post
+- Description: The UK plans to restrict protests near religious sites, mirroring Australian law, as Home Secretary cites need to protect synagogues during pro-Palestinian demonstrations.
 
 
-### ASSAULT on 2025-03-27 18:02
-- Location: Vox
-- Description: On Wednesday, masked plainclothes immigration officers arrested Rumeysa Ozturk, a Turkish citizen on a student visa, outside Tufts University, where she’s studying for a PhD. Video of her arrest, showing her being taken while walking down a street, has gone v…
+### ASSAULT on 2025-03-28 00:54
+- Location: Financial Post
+- Description: NICOSIA, Cyprus (AP) — Cyprus said Thursday its will adopt recommendations of a security initiative with the United States to fight money laundering, sanctions evasion and other financial crimes during which a team from FBI was seconded to the Mediterranean i…
 
 
-### HOMICIDE on 2025-03-27 17:59
-- Location: New York Post
-- Description: "Certainly, solving this case was not their No. 1 priority. Their No. 1 priority was keeping themselves out of prison."
+### ROBBERY/THEFT on 2025-03-28 00:53
+- Location: ABC News (AU)
+- Description: The egg shortage is considered a possible motive after chickens were plucked from a flock of birds at a Hobart school.
 
 
-### OTHER on 2025-03-27 17:56
-- Location: PBS
-- Description: It was five years ago this month that COVID-19-fueled incidents against Asian Americans and Pacific Islanders became so frequent that a reporting center was formed.
+### HOMICIDE on 2025-03-28 00:52
+- Location: ABC News
+- Description: Georgia lawmakers are giving up on creating a statewide database to collect information on students who might commit violence
 
-Analysis generated at: Fri Mar 28 18:18:29 UTC 2025
+Analysis generated at: Sat Mar 29 01:02:09 UTC 2025
