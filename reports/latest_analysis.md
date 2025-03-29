@@ -1,10 +1,10 @@
 
-Loaded 23087 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-28 01:39:17
+Loaded 23131 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-28 06:10:34
 
 Incidents by source:
 source
-newsapi           22986
+newsapi           23030
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-03-28 01:39
-- Location: Complex
-- Description: The Houston rapper and his artist were shot in downtown Memphis last week.
+### OTHER on 2025-03-28 06:10
+- Location: Japan Today
+- Description: A 29-year-old man showed up at a police box in Nabari, Mie Prefecture, on Thursday, and said he had committed a crime in Aichi Prefecture. According to police, Ryosuke Shimizu, a part-time employee from Habikino City, Osaka Prefecture, visited the police box …
 
 
-### OTHER on 2025-03-28 01:39
-- Location: The Star Online
-- Description: WASHINGTON (Reuters) -The U.S. State Department said on Thursday that short-term funding was being given to an initiative documenting abducted Ukrainian children, after Republican President Donald Trump's administration decided to pause the program on January…
+### ROBBERY/THEFT on 2025-03-28 06:08
+- Location: Japan Today
+- Description: The number of automobile thefts in Japan has been consistently rising in recent years as criminal groups develop increasingly sophisticated tactics to overcome technological advances by automakers and the policing efforts of authorities. Toyota Motor Corp, th…
 
 
-### OTHER on 2025-03-28 00:58
-- Location: NBC News
-- Description: The Trump administration has been targeting foreign-born graduate and doctoral students whose main transgression seems to be activism.
+### OTHER on 2025-03-28 06:03
+- Location: CounterPunch
+- Description: If the Trump team was going to "accidentally" include any reporter in their Yemen war planning–Goldberg, the former IDF prison guard–would be the one. It's the equivalent of Christopher Hitchens being invited to the Bush White House to help plot airstrikes on…
 
 
-### OTHER on 2025-03-28 00:54
-- Location: The Jerusalem Post
-- Description: The UK plans to restrict protests near religious sites, mirroring Australian law, as Home Secretary cites need to protect synagogues during pro-Palestinian demonstrations.
+### ASSAULT on 2025-03-28 06:00
+- Location: Naturalnews.com
+- Description: Five people were wounded in a knife attack in Amsterdam’s busy tourist district near Dam Square. The suspect was quickly arrested with help from a bystander, but motives remain unclear. Eyewitnesses described panic as victims, including an elderly woman and c…
 
 
-### ASSAULT on 2025-03-28 00:54
-- Location: Financial Post
-- Description: NICOSIA, Cyprus (AP) — Cyprus said Thursday its will adopt recommendations of a security initiative with the United States to fight money laundering, sanctions evasion and other financial crimes during which a team from FBI was seconded to the Mediterranean i…
+### HOMICIDE on 2025-03-28 06:00
+- Location: Naturalnews.com
+- Description: Crime in Berlin increased by 0.4 percent in 2024, with 539,049 offenses reported. Foreigners accounted for 43.9 percent of crimes (excluding immigration-related offenses), a slight rise from 2023. Homicide and manslaughter cases surged by over 50 percent, whi…
 
-Analysis generated at: Sat Mar 29 01:43:47 UTC 2025
+Analysis generated at: Sat Mar 29 06:17:22 UTC 2025
