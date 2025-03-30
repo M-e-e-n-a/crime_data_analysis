@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Mar 30 01:52:14 UTC 2025
+Last updated: Sun Mar 30 06:17:27 UTC 2025
 
 ## Latest Analysis
 
-Loaded 23315 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-29 01:35:00
+Loaded 23340 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-29 06:00:00
 
 Incidents by source:
 source
-newsapi           23214
+newsapi           23239
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-03-29 01:35
-- Location: BBC News
-- Description: Police reveal how they tracked down Nasen Saadi after he stabbed two women on a Bournemouth beach.
+### OTHER on 2025-03-29 06:00
+- Location: Naturalnews.com
+- Description: Northvolt, Sweden’s “green” EV battery company, collapses, leaving 700+ non-EU migrant workers unemployed Migrant unemployment in Sweden is double the national average, with many refusing to leave despite expiring work permits Sweden’s government attempts to …
 
 
-### OTHER on 2025-03-29 01:24
-- Location: Page Six
-- Description: Kingston and his mother both face up to 20 years in prison for each of the five charges they were convicted on.
+### OTHER on 2025-03-29 05:55
+- Location: ABC News (AU)
+- Description: Federal MP Andrew Gee's Facebook account has been caught impersonating a disgruntled voter and praising the politician for his stand against "dirty tactics" by an opponent.
 
 
-### OTHER on 2025-03-29 01:10
-- Location: 7NEWS.com.au
-- Description: The series breaking Netflix records has been dubbed a technical and societal triumph.
+### DRUG RELATED on 2025-03-29 05:00
+- Location: Rappler
+- Description: The case of Vietnam shows that you don’t need a bloody war on drugs to have socio-economic progress and peace and order
 
 
-### HOMICIDE on 2025-03-29 01:08
-- Location: Breitbart News
-- Description: Senator Chris Van Hollen (D-MD) said on Friday on MSNBC's "Deadline" that President Donald Trump was using "secret police" to cause people to "disappear" like authoritarian regimes do.
-The post Van Hollen: Trump Using ‘Secret Police’ Operations like ‘Authorit…
-
-
-### OTHER on 2025-03-29 01:01
+### OTHER on 2025-03-29 04:34
 - Location: Freerepublic.com
-- Description: Hooking up using an app on your phone sounds like a good idea. But the “dates” don’t always go as planned. One Tinder user learned this after his meet-up with a woman in Colorado took a dark turn. Lauren Marie Dooley, 22, has been charged with felony second-d…
+- Description: LOUISVILLE, Ky. (AP) — Thieves took eight Corvettes from the lot of a Kentucky automobile plant where the legendary muscle car is built, but officers recovered the vehicles and made an arrest, police said. The cars were taken from the GM Bowling Green Assembl…
 
-Analysis generated at: Sun Mar 30 01:52:14 UTC 2025
+
+### HOMICIDE on 2025-03-29 04:21
+- Location: Freerepublic.com
+- Description: A Food and Drug Administration official involved in development of Covid-19 vaccines resigning... In Ukraine tonight a deadly... The message from Russian media...Ukraine is using women... Late tonight in Spain's Catalonia region the top court overturning a ra…
+
+Analysis generated at: Sun Mar 30 06:17:27 UTC 2025
