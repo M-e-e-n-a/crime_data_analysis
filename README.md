@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Mar 30 06:17:27 UTC 2025
+Last updated: Sun Mar 30 12:23:14 UTC 2025
 
 ## Latest Analysis
 
-Loaded 23340 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-29 06:00:00
+Loaded 23380 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-29 12:16:51
 
 Incidents by source:
 source
-newsapi           23239
+newsapi           23279
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-03-29 06:00
-- Location: Naturalnews.com
-- Description: Northvolt, Sweden’s “green” EV battery company, collapses, leaving 700+ non-EU migrant workers unemployed Migrant unemployment in Sweden is double the national average, with many refusing to leave despite expiring work permits Sweden’s government attempts to …
+### SHOOTING on 2025-03-29 12:16
+- Location: New York Post
+- Description: An NYPD cop bizarrely thought it was a great idea to shoot hoops during a four-alarm fire in Brooklyn -- but only showed he lacks game, shocking new video shows.
 
 
-### OTHER on 2025-03-29 05:55
-- Location: ABC News (AU)
-- Description: Federal MP Andrew Gee's Facebook account has been caught impersonating a disgruntled voter and praising the politician for his stand against "dirty tactics" by an opponent.
+### OTHER on 2025-03-29 12:00
+- Location: ABC News
+- Description: We go behind the scenes of New York’s most iconic building as it lights up to mark our anniversary.
 
 
-### DRUG RELATED on 2025-03-29 05:00
-- Location: Rappler
-- Description: The case of Vietnam shows that you don’t need a bloody war on drugs to have socio-economic progress and peace and order
+### OTHER on 2025-03-29 12:00
+- Location: The Denver Post
+- Description: Aurora City Council this week declined to give Arapahoe County another year to prepare before moving its domestic violence cases from municipal court to county court. "There is zero wiggle room from me," Councilwoman Danielle Jurinsky said.
 
 
-### OTHER on 2025-03-29 04:34
-- Location: Freerepublic.com
-- Description: LOUISVILLE, Ky. (AP) — Thieves took eight Corvettes from the lot of a Kentucky automobile plant where the legendary muscle car is built, but officers recovered the vehicles and made an arrest, police said. The cars were taken from the GM Bowling Green Assembl…
+### OTHER on 2025-03-29 12:00
+- Location: PEOPLE
+- Description: Mechalle and Marselles Brown welcomed Jaylen Brown in 1996. Here's everything to know about Jaylen Brown's parents, Marselles and Mechalle Brown.
 
 
-### HOMICIDE on 2025-03-29 04:21
-- Location: Freerepublic.com
-- Description: A Food and Drug Administration official involved in development of Covid-19 vaccines resigning... In Ukraine tonight a deadly... The message from Russian media...Ukraine is using women... Late tonight in Spain's Catalonia region the top court overturning a ra…
+### HOMICIDE on 2025-03-29 12:00
+- Location: Eonline.com
+- Description: Karen Read's murder retrial for the 2022 death of her Boston cop boyfriend John O'Keefe gets underway April 1. The ID docuseries Body in the Snow ended with her first trial resulting in a hung jury.
 
-Analysis generated at: Sun Mar 30 06:17:27 UTC 2025
+Analysis generated at: Sun Mar 30 12:23:14 UTC 2025
