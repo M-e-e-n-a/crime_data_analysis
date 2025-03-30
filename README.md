@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Mar 30 12:39:23 UTC 2025
+Last updated: Sun Mar 30 18:16:21 UTC 2025
 
 ## Latest Analysis
 
-Loaded 23381 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-29 12:32:08
+Loaded 23424 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-29 18:16:11
 
 Incidents by source:
 source
-newsapi           23280
+newsapi           23323
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-03-29 12:32
+### HOMICIDE on 2025-03-29 18:16
 - Location: Breitbart News
-- Description: Turkish authorities on Thursday arrested Mehmet Pehlivan, lawyer for imprisoned Istanbul mayor Ekrem Imamoglu.
-The post Turkey Detains Arrested Istanbul Mayor’s Lawyer appeared first on Breitbart.
+- Description: The Cartel Del Noreste faction of Los Zetas sent a team of hitmen from Mexico into the Texas border city of Laredo to kill a man who had allegedly stolen drugs from them. Court documents revealed that the top leadership of the cartel gave the order, and the h…
 
 
-### SHOOTING on 2025-03-29 12:16
-- Location: New York Post
-- Description: An NYPD cop bizarrely thought it was a great idea to shoot hoops during a four-alarm fire in Brooklyn -- but only showed he lacks game, shocking new video shows.
+### OTHER on 2025-03-29 18:16
+- Location: Entertainment Weekly
+- Description: 'Beautiful Girls' singer and rapper Sean Kingston and his mother have been found guilty on all five counts in their federal wire fraud trial.
 
 
-### OTHER on 2025-03-29 12:00
-- Location: ABC News
-- Description: We go behind the scenes of New York’s most iconic building as it lights up to mark our anniversary.
+### OTHER on 2025-03-29 18:10
+- Location: GeekTyrant
+- Description: If you haven’t watched the four episode miniseries Adolescence yet on Netflix, it’s a show that you have to watch. It’s such a damn good show filled with phenominal acting.The biggest surprise was the performance by fourteen year old Owen Cooper, who had neve…
 
 
-### OTHER on 2025-03-29 12:00
-- Location: The Denver Post
-- Description: Aurora City Council this week declined to give Arapahoe County another year to prepare before moving its domestic violence cases from municipal court to county court. "There is zero wiggle room from me," Councilwoman Danielle Jurinsky said.
+### ROBBERY/THEFT on 2025-03-29 17:58
+- Location: Securityaffairs.com
+- Description: The U.S. DOJ seized over $8.2 million in USDT stolen through ‘romance baiting’ scams, where victims are tricked into fake investments promising high returns. On February 27, 2025, the U.S. Attorney’s Office in Ohio filed a civil forfeiture complaint for $8.2M…
 
 
-### OTHER on 2025-03-29 12:00
-- Location: PEOPLE
-- Description: Mechalle and Marselles Brown welcomed Jaylen Brown in 1996. Here's everything to know about Jaylen Brown's parents, Marselles and Mechalle Brown.
+### ASSAULT on 2025-03-29 17:57
+- Location: BBC News
+- Description: The victim was taken to hospital after allegedly being struck with a metal dog lead.
 
-Analysis generated at: Sun Mar 30 12:39:23 UTC 2025
+Analysis generated at: Sun Mar 30 18:16:21 UTC 2025
