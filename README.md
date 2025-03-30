@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Mar 29 18:16:12 UTC 2025
+Last updated: Sun Mar 30 01:08:12 UTC 2025
 
 ## Latest Analysis
 
-Loaded 23302 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-28 18:15:29
+Loaded 23311 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-29 01:01:59
 
 Incidents by source:
 source
-newsapi           23201
+newsapi           23210
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-03-28 18:15
-- Location: CBC News
-- Description: A Toronto court has ruled that a woman accused of killing three people in three Ontario cities last year is unfit to stand trial at this time and must undergo psychiatric treatment.
+### OTHER on 2025-03-29 01:01
+- Location: Freerepublic.com
+- Description: Hooking up using an app on your phone sounds like a good idea. But the “dates” don’t always go as planned. One Tinder user learned this after his meet-up with a woman in Colorado took a dark turn. Lauren Marie Dooley, 22, has been charged with felony second-d…
 
 
-### SHOOTING on 2025-03-28 18:13
-- Location: The Denver Post
-- Description: Jontaye Acoray Tassian shot a man he reportedly didn't know during an altercation at Church's Texas Chicken at 11900 E. Colfax Ave.
+### OTHER on 2025-03-29 00:44
+- Location: Raw Story
+- Description: by Gregory WALTON, with Ana FERNANDEZ in New YorkUS government lawyers pushed Friday for the case of a pro-Palestinian protest leader slated for deportation to be moved to a Louisiana court thought to be sympathetic to President Donald Trump's hardline immigr…
 
 
-### OTHER on 2025-03-28 18:12
-- Location: NDTV News
-- Description: Arrested Assam journalist Dilwar Hussain Mozumder was granted bail by a court on Friday, a day after he was re-arrested in a second case immediately after his release on bail in the first case filed by a bank official.
+### HOMICIDE on 2025-03-29 00:42
+- Location: The Punch
+- Description: The Lagos State Police Command has dismissed reports that the shepherd of the Celestial Church of Christ, Overcomers Parish, Ajah, Evan. Aso James, is facing trial over the death of a Hausa labourer, Dogo. There was an outrage on Dogo’s death after he fell in…
 
 
-### OTHER on 2025-03-28 18:10
-- Location: The Jerusalem Post
-- Description: The Trump admin said it has revoked the visas of hundreds of foreign students it says took part in the pro-Palestinian protests that swept college campuses.
+### OTHER on 2025-03-29 00:30
+- Location: Screen Rant
+- Description: Dope Thief episode 4 expands the show's gripping crime drama as it delves more into Mina's past and strengthens Ray and Michelle's relationship.
 
 
-### HOMICIDE on 2025-03-28 18:06
-- Location: NDTV News
-- Description: A group of locals vandalised a private hospital here on Friday following the death of a 22-year-old female staff, officials said.
+### OTHER on 2025-03-29 00:15
+- Location: Khabarhub.com
+- Description: KATHMANDU: The pro-monarchy rally, led by Nawaraj Subedi, medical entreprenuer Durga Prasai, and controversial religious leader Acharya Niwas, took a violent turn on Friday. A private house in Tinkune, Kathmandu, was damaged by stone-pelting and later set on …
 
-Analysis generated at: Sat Mar 29 18:16:12 UTC 2025
+Analysis generated at: Sun Mar 30 01:08:12 UTC 2025
