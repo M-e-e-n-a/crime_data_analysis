@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Mar 30 12:23:14 UTC 2025
+Last updated: Sun Mar 30 12:39:23 UTC 2025
 
 ## Latest Analysis
 
-Loaded 23380 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-29 12:16:51
+Loaded 23381 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-29 12:32:08
 
 Incidents by source:
 source
-newsapi           23279
+newsapi           23280
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -23,6 +23,12 @@ bution.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### OTHER on 2025-03-29 12:32
+- Location: Breitbart News
+- Description: Turkish authorities on Thursday arrested Mehmet Pehlivan, lawyer for imprisoned Istanbul mayor Ekrem Imamoglu.
+The post Turkey Detains Arrested Istanbul Mayor’s Lawyer appeared first on Breitbart.
+
 
 ### SHOOTING on 2025-03-29 12:16
 - Location: New York Post
@@ -43,9 +49,4 @@ bution.svg)
 - Location: PEOPLE
 - Description: Mechalle and Marselles Brown welcomed Jaylen Brown in 1996. Here's everything to know about Jaylen Brown's parents, Marselles and Mechalle Brown.
 
-
-### HOMICIDE on 2025-03-29 12:00
-- Location: Eonline.com
-- Description: Karen Read's murder retrial for the 2022 death of her Boston cop boyfriend John O'Keefe gets underway April 1. The ID docuseries Body in the Snow ended with her first trial resulting in a hung jury.
-
-Analysis generated at: Sun Mar 30 12:23:14 UTC 2025
+Analysis generated at: Sun Mar 30 12:39:23 UTC 2025
