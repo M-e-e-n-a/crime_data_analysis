@@ -1,10 +1,10 @@
 
-Loaded 23440 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-30 01:43:06
+Loaded 23468 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-30 06:04:58
 
 Incidents by source:
 source
-newsapi           23339
+newsapi           23367
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-03-30 01:43
-- Location: Boston Herald
-- Description: Here are the people you should know ahead of the Karen Read retrial starting with jury empanelment on Tuesday.
+### HOMICIDE on 2025-03-30 06:04
+- Location: New York Post
+- Description: The son of a former Nevada State senator was murdered in a shooting at a Las Vegas-area casino before the alleged teen killer carjacked several drivers and led police on a chase through the streets of Sin City.
 
 
-### ROBBERY/THEFT on 2025-03-30 01:38
-- Location: Fox News
-- Description: Police in Tyler, Texas, said a man who broke into a car dealership called police on himself when he was injured during the attempted burglary.
+### OTHER on 2025-03-30 06:00
+- Location: Naturalnews.com
+- Description: Ex-FBI agent Kyle Seraphin uncovers a fake Polymer80 website selling illegal Glock switches, suggesting an ATF honeypot operation. The website appears hastily designed, mimicking the defunct Polymer80 site, with “Glock Switch” prominently listed—raising entra…
 
 
-### OTHER on 2025-03-30 01:34
-- Location: ABC News (AU)
-- Description: Politicians say hecklers who gatecrashed Anthony Albanese's and Peter Dutton's campaign events will make it harder for them to interact with ordinary Australians.
+### OTHER on 2025-03-30 05:47
+- Location: Quaker.org.uk
+- Description: Police broke into a Quaker Meeting House last night (27 March) and arrested six young people holding a meeting over concerns for the climate and Gaza.
 
 
-### DRUG RELATED on 2025-03-30 01:30
-- Location: Independent.ie
-- Description: Italian Mafia police experts are advising An Garda Síochána on how to take down Ireland’s number-one drug trafficking network, the west-Dublin crime gang known as The Family.
+### OTHER on 2025-03-30 05:36
+- Location: The Star Online
+- Description: KUCHING: Three local men were detained following a dramatic high-speed chase early Saturday (March 29) morning when police attempted to stop two suspicious vehicles on Jalan Green. Read full story
 
 
-### OTHER on 2025-03-30 01:07
-- Location: 7NEWS.com.au
-- Description: Teenage passenger dies after car rolls on private property in Victoria7news.com.au
+### OTHER on 2025-03-30 05:00
+- Location: The Irish Times
+- Description: Ministers and enforcement staff from 40 countries to meet over two days
 
-Analysis generated at: Mon Mar 31 01:50:32 UTC 2025
+Analysis generated at: Mon Mar 31 06:20:03 UTC 2025
