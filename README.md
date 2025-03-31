@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Mar 30 18:16:21 UTC 2025
+Last updated: Mon Mar 31 01:06:29 UTC 2025
 
 ## Latest Analysis
 
-Loaded 23424 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-29 18:16:11
+Loaded 23435 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-30 01:06:15
 
 Incidents by source:
 source
-newsapi           23323
+newsapi           23334
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-03-29 18:16
-- Location: Breitbart News
-- Description: The Cartel Del Noreste faction of Los Zetas sent a team of hitmen from Mexico into the Texas border city of Laredo to kill a man who had allegedly stolen drugs from them. Court documents revealed that the top leadership of the cartel gave the order, and the h…
+### OTHER on 2025-03-30 01:06
+- Location: The Punch
+- Description: The Commandant General of the Nigeria Security and Civil Defence Corps, Dr Ahmed Audi, has assured the public of a peaceful and secure Eid-el-Fitr celebration. NSCDC has deployed a large number of personnel across the country for the celebration. A statement …
 
 
-### OTHER on 2025-03-29 18:16
-- Location: Entertainment Weekly
-- Description: 'Beautiful Girls' singer and rapper Sean Kingston and his mother have been found guilty on all five counts in their federal wire fraud trial.
+### OTHER on 2025-03-30 01:06
+- Location: Fox News
+- Description: Thirteen-year-old DJ Daniel, the boy with brain cancer sworn in by President Donald Trump earlier this year as an honorary Secret Service agent, is on his way to setting a world record.
 
 
-### OTHER on 2025-03-29 18:10
-- Location: GeekTyrant
-- Description: If you haven’t watched the four episode miniseries Adolescence yet on Netflix, it’s a show that you have to watch. It’s such a damn good show filled with phenominal acting.The biggest surprise was the performance by fourteen year old Owen Cooper, who had neve…
+### HOMICIDE on 2025-03-30 00:53
+- Location: The Punch
+- Description: Tears flowed on Saturday in Uromi, Edo State, as the remains of the hunters who were lynched by a mob were interred. Members of the Hausa community converged on the community cemetery to pay their last respects to the victims, who were burnt to death on Frida…
 
 
-### ROBBERY/THEFT on 2025-03-29 17:58
-- Location: Securityaffairs.com
-- Description: The U.S. DOJ seized over $8.2 million in USDT stolen through ‘romance baiting’ scams, where victims are tricked into fake investments promising high returns. On February 27, 2025, the U.S. Attorney’s Office in Ohio filed a civil forfeiture complaint for $8.2M…
+### OTHER on 2025-03-30 00:34
+- Location: The Punch
+- Description: The use of sirens is intended to serve a critical purpose in society, particularly during emergencies, to ensure a swift response and the safety of those involved. However, in Nigeria, sirens have increasingly become tools for harassment, intimidation, and, i…
 
 
-### ASSAULT on 2025-03-29 17:57
-- Location: BBC News
-- Description: The victim was taken to hospital after allegedly being struck with a metal dog lead.
+### SHOOTING on 2025-03-30 00:31
+- Location: The Denver Post
+- Description: Valentin Velez, 43, was arrested on suspicion of theft and other charges after an all-day search in Moffat County.
 
-Analysis generated at: Sun Mar 30 18:16:21 UTC 2025
+Analysis generated at: Mon Mar 31 01:06:29 UTC 2025
