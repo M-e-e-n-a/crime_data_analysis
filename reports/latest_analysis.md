@@ -1,10 +1,10 @@
 
-Loaded 23505 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-30 12:31:40
+Loaded 23539 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-30 18:00:40
 
 Incidents by source:
 source
-newsapi           23404
+newsapi           23438
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-03-30 12:31
-- Location: The Conversation Africa
-- Description: Adolescence compellingly showcases the disturbing experiences of youth confronted with bullying, misogyny and gender-based violence, as well as the relationships between fathers and their sons.
+### OTHER on 2025-03-30 18:00
+- Location: Fox News
+- Description: Three Texas teenagers are facing charges after they allegedly chased their mother with kitchen knives while attempting to stab her after she turned off their Wi-Fi.
 
 
-### OTHER on 2025-03-30 12:29
-- Location: Newser
-- Description: He was, by all accounts, a friendly and easygoing guy in Boise, Idaho. "A little goofy" is how one acquaintance describes Matthew Allison to ProPublica . The 37-year-old worked at a convenience store and tried to pick up gigs as a weekend DJ at parties. But a…
+### OTHER on 2025-03-30 17:51
+- Location: CBS News
+- Description: Karen Read supporters held several protests in various communities on Sunday as her second trial is set to get underway in a Massachusetts courtroom with jury selection this week.
 
 
-### ASSAULT on 2025-03-30 12:14
-- Location: Protothema.gr
-- Description: After the attack, the 51-year-old perpetrator exited the bus calmly and headed towards the police station, where he proceeded to injure the officers
-The post Koropi: The moment a 51-year-old attacks a bus passenger before injuring three police pfficers with a…
+### HOMICIDE on 2025-03-30 17:25
+- Location: The Times of India
+- Description: ELURU: The police arrested the accused in a Murder for Gain case involving the killing, of an elderly woman who was alone at home, and the recovery of.
 
 
-### OTHER on 2025-03-30 12:00
-- Location: Screen Rant
-- Description: Now that Severance season 2 is over, these nine movies and shows can make the wait for season 3 go by quicker and satisfy the sci-fi mystery itch.
+### OTHER on 2025-03-30 17:18
+- Location: ComicBook.com
+- Description: A brand new week is about to begin, which means a whole wave of new movies and TV shows are preparing to make their way to Netflix. What’s especially exciting about this week is that it marks the start of a new month, and a new month always brings even more b…
 
 
-### SHOOTING on 2025-03-30 11:51
-- Location: WPXI Pittsburgh
-- Description: The Allegheny County Police Department says the shooting took place around 10 p.m. at a home on Abraham Street between Calvin Avenue and Grover Street.
+### OTHER on 2025-03-30 17:05
+- Location: BBC News
+- Description: Dr Mark Perlmutter says doctors are working without soap, antibiotics or x-ray facilities, as Israel has resumed its offensive against Hamas.
 
-Analysis generated at: Mon Mar 31 12:44:28 UTC 2025
+Analysis generated at: Mon Mar 31 18:18:46 UTC 2025
