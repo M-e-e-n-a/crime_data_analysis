@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Mar 31 01:06:29 UTC 2025
+Last updated: Mon Mar 31 01:50:32 UTC 2025
 
 ## Latest Analysis
 
-Loaded 23435 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-30 01:06:15
+Loaded 23440 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-30 01:43:06
 
 Incidents by source:
 source
-newsapi           23334
+newsapi           23339
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-03-30 01:06
-- Location: The Punch
-- Description: The Commandant General of the Nigeria Security and Civil Defence Corps, Dr Ahmed Audi, has assured the public of a peaceful and secure Eid-el-Fitr celebration. NSCDC has deployed a large number of personnel across the country for the celebration. A statement …
+### OTHER on 2025-03-30 01:43
+- Location: Boston Herald
+- Description: Here are the people you should know ahead of the Karen Read retrial starting with jury empanelment on Tuesday.
 
 
-### OTHER on 2025-03-30 01:06
+### ROBBERY/THEFT on 2025-03-30 01:38
 - Location: Fox News
-- Description: Thirteen-year-old DJ Daniel, the boy with brain cancer sworn in by President Donald Trump earlier this year as an honorary Secret Service agent, is on his way to setting a world record.
+- Description: Police in Tyler, Texas, said a man who broke into a car dealership called police on himself when he was injured during the attempted burglary.
 
 
-### HOMICIDE on 2025-03-30 00:53
-- Location: The Punch
-- Description: Tears flowed on Saturday in Uromi, Edo State, as the remains of the hunters who were lynched by a mob were interred. Members of the Hausa community converged on the community cemetery to pay their last respects to the victims, who were burnt to death on Frida…
+### OTHER on 2025-03-30 01:34
+- Location: ABC News (AU)
+- Description: Politicians say hecklers who gatecrashed Anthony Albanese's and Peter Dutton's campaign events will make it harder for them to interact with ordinary Australians.
 
 
-### OTHER on 2025-03-30 00:34
-- Location: The Punch
-- Description: The use of sirens is intended to serve a critical purpose in society, particularly during emergencies, to ensure a swift response and the safety of those involved. However, in Nigeria, sirens have increasingly become tools for harassment, intimidation, and, i…
+### DRUG RELATED on 2025-03-30 01:30
+- Location: Independent.ie
+- Description: Italian Mafia police experts are advising An Garda Síochána on how to take down Ireland’s number-one drug trafficking network, the west-Dublin crime gang known as The Family.
 
 
-### SHOOTING on 2025-03-30 00:31
-- Location: The Denver Post
-- Description: Valentin Velez, 43, was arrested on suspicion of theft and other charges after an all-day search in Moffat County.
+### OTHER on 2025-03-30 01:07
+- Location: 7NEWS.com.au
+- Description: Teenage passenger dies after car rolls on private property in Victoria7news.com.au
 
-Analysis generated at: Mon Mar 31 01:06:29 UTC 2025
+Analysis generated at: Mon Mar 31 01:50:32 UTC 2025
