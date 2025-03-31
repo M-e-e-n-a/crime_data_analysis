@@ -1,10 +1,10 @@
 
-Loaded 23468 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-30 06:04:58
+Loaded 23503 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-30 12:14:55
 
 Incidents by source:
 source
-newsapi           23367
+newsapi           23402
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-03-30 06:04
-- Location: New York Post
-- Description: The son of a former Nevada State senator was murdered in a shooting at a Las Vegas-area casino before the alleged teen killer carjacked several drivers and led police on a chase through the streets of Sin City.
+### ASSAULT on 2025-03-30 12:14
+- Location: Protothema.gr
+- Description: After the attack, the 51-year-old perpetrator exited the bus calmly and headed towards the police station, where he proceeded to injure the officers
+The post Koropi: The moment a 51-year-old attacks a bus passenger before injuring three police pfficers with a…
 
 
-### OTHER on 2025-03-30 06:00
-- Location: Naturalnews.com
-- Description: Ex-FBI agent Kyle Seraphin uncovers a fake Polymer80 website selling illegal Glock switches, suggesting an ATF honeypot operation. The website appears hastily designed, mimicking the defunct Polymer80 site, with “Glock Switch” prominently listed—raising entra…
+### OTHER on 2025-03-30 12:00
+- Location: Screen Rant
+- Description: Now that Severance season 2 is over, these nine movies and shows can make the wait for season 3 go by quicker and satisfy the sci-fi mystery itch.
 
 
-### OTHER on 2025-03-30 05:47
-- Location: Quaker.org.uk
-- Description: Police broke into a Quaker Meeting House last night (27 March) and arrested six young people holding a meeting over concerns for the climate and Gaza.
+### SHOOTING on 2025-03-30 11:51
+- Location: WPXI Pittsburgh
+- Description: The Allegheny County Police Department says the shooting took place around 10 p.m. at a home on Abraham Street between Calvin Avenue and Grover Street.
 
 
-### OTHER on 2025-03-30 05:36
-- Location: The Star Online
-- Description: KUCHING: Three local men were detained following a dramatic high-speed chase early Saturday (March 29) morning when police attempted to stop two suspicious vehicles on Jalan Green. Read full story
+### OTHER on 2025-03-30 11:45
+- Location: The Denver Post
+- Description: 49ers general manager John Lynch and head coach Kyle Shanahan flew out to Texas to pitch their case. But the linebacker picked the Broncos.
 
 
-### OTHER on 2025-03-30 05:00
-- Location: The Irish Times
-- Description: Ministers and enforcement staff from 40 countries to meet over two days
+### ROBBERY/THEFT on 2025-03-30 11:44
+- Location: fox6now.com
+- Description: A 14-year-old is in custody after police say they stole a car and led police on a chase that ended in the Mayfair Mall parking lot.
 
-Analysis generated at: Mon Mar 31 06:20:03 UTC 2025
+Analysis generated at: Mon Mar 31 12:26:52 UTC 2025
