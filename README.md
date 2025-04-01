@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Apr  1 12:45:47 UTC 2025
+Last updated: Tue Apr  1 18:18:07 UTC 2025
 
 ## Latest Analysis
 
-Loaded 23644 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-31 12:31:00
+Loaded 23729 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-31 18:17:34
 
 Incidents by source:
 source
-newsapi           23543
+newsapi           23628
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-03-31 12:31
-- Location: AnOther Magazine
-- Description: As his provocative new film about a priest and murderer is released, Alain Guiraudie talks about death, nature, and the great mystery of desire
+### HOMICIDE on 2025-03-31 18:17
+- Location: The Times of India
+- Description: Bengaluru: A special team of Tumakuru police, probing the conspiracy to murder Congress MLC KN Rajendra, detained two prime suspects for questioning.
 
 
-### ASSAULT on 2025-03-31 12:20
-- Location: LADbible
-- Description: A bride-to-be was violently assaulted on her hen-night leaving her unconscious with a broken nose just weeks before her wedding
+### OTHER on 2025-03-31 18:15
+- Location: The Jerusalem Post
+- Description: “Jew dogs” and “Jews are the real terrorists" are among the phrases graffitied on Jewish schools and homes.
 
 
-### HOMICIDE on 2025-03-31 12:19
-- Location: Mediatakeout.com
-- Description: Yella Beezy was released on bond Friday morning after he posted a $750,000 bond to secure his release. Thrapper’s bond was initially set at $2 million but was reduced by a judge on Thursday. In a shocking revelation, prosecutors are now claiming that the Dall…
+### DRUG RELATED on 2025-03-31 18:13
+- Location: ABC News (AU)
+- Description: Tony Mokbel is seeking to be released on bail after serving nearly two decades in prison for drug trafficking.
 
 
-### SHOOTING on 2025-03-31 12:15
-- Location: WSOC Charlotte
-- Description: Channel 9′s Eli Brand was at CMPD headquarters Monday and spoke with neighbors who said they’re feeling uneasy for multiple reasons after the violence.
+### HOMICIDE on 2025-03-31 18:10
+- Location: New York Post
+- Description: "Uday was martyred by the criminals of Hamas. And what's his crime? He told the truth, because he refused to be silent on injustice, because he did not kneel to Hamas," said Mazen Shat, a police officer tied to the opposition Fatah party.
 
 
-### HOMICIDE on 2025-03-31 12:14
-- Location: CBS News
-- Description: Police arrested a fugitive on the tropical holiday island of Phuket over a deadly prison breakout that freed a notorious drug lord nicknamed "The Fly."
+### HOMICIDE on 2025-03-31 18:02
+- Location: The Times of India
+- Description: Bengaluru: Hulimavu police are likely to take a 36-year-old private firm employee into custody on Tuesday in connection with the murder of his 32-year.
 
-Analysis generated at: Tue Apr  1 12:45:47 UTC 2025
+Analysis generated at: Tue Apr  1 18:18:07 UTC 2025
