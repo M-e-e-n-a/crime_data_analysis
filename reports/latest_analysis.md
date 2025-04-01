@@ -1,10 +1,10 @@
 
-Loaded 23546 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-31 01:04:00
+Loaded 23552 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-31 01:45:50
 
 Incidents by source:
 source
-newsapi           23445
+newsapi           23451
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-03-31 01:04
-- Location: Bangkok Post
-- Description: <p>The board of the National Broadcasting and Telecommunications Commission (NBTC) has unanimously resolved to terminate the telecom licence of K4 Communication Company Ltd after the firm was charged with fraud.</p>
+### ASSAULT on 2025-03-31 01:45
+- Location: New York Post
+- Description: “I didn’t buy my car for a political statement. I bought my car because it’s really fun to drive."
 
 
-### HOMICIDE on 2025-03-31 01:00
-- Location: Thegatewaypundit.com
-- Description: Tragedy struck in Brooklyn Park, Minnesota, as U.S. Bank's Terry Dolan was identified as the pilot in a plane crash that ignited a residential fire. Details surrounding the incident are unfolding.
-The post Top U.S. Bank Executive Terry Dolan Believed to Be th…
+### OTHER on 2025-03-31 01:39
+- Location: BBC News
+- Description: Gothenburg has to pay a financial penalty if it misses certain annual sustainability goals.
 
 
-### ASSAULT on 2025-03-31 00:40
-- Location: Forbes
-- Description: After surviving a violent attack, Amouranth’s story sheds light on the rising physical threats faced by bitcoin holders and the need for better crypto security.
+### HOMICIDE on 2025-03-31 01:36
+- Location: The Times of India
+- Description: Police arrested two more suspects in the murder of a 35-year-old woman in east Delhi. The woman was found dead in a bed box at her rented accommodation. Her husband, his friend, and their landlord were involved. The motive was to prevent her from exposing a c…
 
 
-### HOMICIDE on 2025-03-31 00:40
-- Location: Thehillstimes.in
-- Description: HT Correspondent AGARTALA, March 30: A tragic cycle of violence unfolded in Tripura’s South District on Sunday as a mentally challenged man, accused of committing multiple crimes in the past, was lynched by an enraged mob after allegedly murdering a neighbour…
+### HOMICIDE on 2025-03-31 01:30
+- Location: Independent.ie
+- Description: Planning a night on the couch? Here are today’s top TV and streaming picks:
 
 
-### OTHER on 2025-03-31 00:35
-- Location: The Punch
-- Description: Eminent Nigerians, including President Bola Tinubu, the leadership of the National Assembly, governors, the Sultan of Sokoto, Alhaji Sa’ad Abubakar, among others, have preached unity and called for prayers as Muslims mark the end of the Ramadan fasting. Musli…
+### ASSAULT on 2025-03-31 01:22
+- Location: Krebs on Security
+- Description: In an address to Congress this month, President Trump claimed he had "brought free speech back to America." But barely two months into his second term, the president has waged an unprecedented attack on the First Amendment rights of journalists, students, uni…
 
-Analysis generated at: Tue Apr  1 01:11:10 UTC 2025
+Analysis generated at: Tue Apr  1 01:56:42 UTC 2025
