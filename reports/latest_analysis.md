@@ -1,10 +1,10 @@
 
-Loaded 23539 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-30 18:00:40
+Loaded 23546 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-31 01:04:00
 
 Incidents by source:
 source
-newsapi           23438
+newsapi           23445
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-03-30 18:00
-- Location: Fox News
-- Description: Three Texas teenagers are facing charges after they allegedly chased their mother with kitchen knives while attempting to stab her after she turned off their Wi-Fi.
+### OTHER on 2025-03-31 01:04
+- Location: Bangkok Post
+- Description: <p>The board of the National Broadcasting and Telecommunications Commission (NBTC) has unanimously resolved to terminate the telecom licence of K4 Communication Company Ltd after the firm was charged with fraud.</p>
 
 
-### OTHER on 2025-03-30 17:51
-- Location: CBS News
-- Description: Karen Read supporters held several protests in various communities on Sunday as her second trial is set to get underway in a Massachusetts courtroom with jury selection this week.
+### HOMICIDE on 2025-03-31 01:00
+- Location: Thegatewaypundit.com
+- Description: Tragedy struck in Brooklyn Park, Minnesota, as U.S. Bank's Terry Dolan was identified as the pilot in a plane crash that ignited a residential fire. Details surrounding the incident are unfolding.
+The post Top U.S. Bank Executive Terry Dolan Believed to Be th…
 
 
-### HOMICIDE on 2025-03-30 17:25
-- Location: The Times of India
-- Description: ELURU: The police arrested the accused in a Murder for Gain case involving the killing, of an elderly woman who was alone at home, and the recovery of.
+### ASSAULT on 2025-03-31 00:40
+- Location: Forbes
+- Description: After surviving a violent attack, Amouranth’s story sheds light on the rising physical threats faced by bitcoin holders and the need for better crypto security.
 
 
-### OTHER on 2025-03-30 17:18
-- Location: ComicBook.com
-- Description: A brand new week is about to begin, which means a whole wave of new movies and TV shows are preparing to make their way to Netflix. What’s especially exciting about this week is that it marks the start of a new month, and a new month always brings even more b…
+### HOMICIDE on 2025-03-31 00:40
+- Location: Thehillstimes.in
+- Description: HT Correspondent AGARTALA, March 30: A tragic cycle of violence unfolded in Tripura’s South District on Sunday as a mentally challenged man, accused of committing multiple crimes in the past, was lynched by an enraged mob after allegedly murdering a neighbour…
 
 
-### OTHER on 2025-03-30 17:05
-- Location: BBC News
-- Description: Dr Mark Perlmutter says doctors are working without soap, antibiotics or x-ray facilities, as Israel has resumed its offensive against Hamas.
+### OTHER on 2025-03-31 00:35
+- Location: The Punch
+- Description: Eminent Nigerians, including President Bola Tinubu, the leadership of the National Assembly, governors, the Sultan of Sokoto, Alhaji Sa’ad Abubakar, among others, have preached unity and called for prayers as Muslims mark the end of the Ramadan fasting. Musli…
 
-Analysis generated at: Mon Mar 31 18:18:46 UTC 2025
+Analysis generated at: Tue Apr  1 01:11:10 UTC 2025
