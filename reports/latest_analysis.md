@@ -1,10 +1,10 @@
 
-Loaded 23643 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-31 12:20:09
+Loaded 23644 incidents
+Date range: 2024-01-01 00:00:00 to 2025-03-31 12:31:00
 
 Incidents by source:
 source
-newsapi           23542
+newsapi           23543
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -19,6 +19,11 @@ bution.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### HOMICIDE on 2025-03-31 12:31
+- Location: AnOther Magazine
+- Description: As his provocative new film about a priest and murderer is released, Alain Guiraudie talks about death, nature, and the great mystery of desire
+
 
 ### ASSAULT on 2025-03-31 12:20
 - Location: LADbible
@@ -39,9 +44,4 @@ bution.svg)
 - Location: CBS News
 - Description: Police arrested a fugitive on the tropical holiday island of Phuket over a deadly prison breakout that freed a notorious drug lord nicknamed "The Fly."
 
-
-### OTHER on 2025-03-31 12:02
-- Location: BBC News
-- Description: A county's Police and Crime Commissioner says the case "shouldn’t have become a police matter".
-
-Analysis generated at: Tue Apr  1 12:27:20 UTC 2025
+Analysis generated at: Tue Apr  1 12:45:47 UTC 2025
