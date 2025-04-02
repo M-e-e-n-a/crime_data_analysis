@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Apr  2 06:19:12 UTC 2025
+Last updated: Wed Apr  2 12:26:34 UTC 2025
 
 ## Latest Analysis
 
-Loaded 23769 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-01 06:06:27
+Loaded 23839 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-01 12:23:46
 
 Incidents by source:
 source
-newsapi           23668
+newsapi           23738
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-04-01 06:06
-- Location: Yahoo Entertainment
-- Description: After the International Criminal Court (ICC) informed ex-Philippine president Rodrigo Duterte of his alleged crimes against humanity during a hearing on...
+### OTHER on 2025-04-01 12:23
+- Location: Freerepublic.com
+- Description: 1:20 VIDEO of a Tesla owner confronting the person that had just scratched a swastika on his car. ........... "I'm sorry you're upset"..............
 
 
-### HOMICIDE on 2025-04-01 05:46
-- Location: ABC News (AU)
-- Description: Details of a deadly attack on Queensland police will be aired during the trial of a conspiracy theorist in the United States charged in connection with the murders.
+### HOMICIDE on 2025-04-01 12:18
+- Location: Bangkok Post
+- Description: <p>A Hong Kong man wanted for a drug-related murder has been arrested in Pattaya, Thai authorities said on Tuesday.</p>
 
 
-### OTHER on 2025-04-01 05:33
-- Location: ComputerWeekly.com
-- Description: Home Office refuses to answer questions from Lords over technical capability notice issued against Apple’s iCloud Advanced Data Protection encryption services
+### OTHER on 2025-04-01 12:00
+- Location: New York Post
+- Description: “Improving public safety requires ensuring our city has enough officers on the beat, and the truth is, it’s not just budgetary restrictions preventing us from having the amount of officers we need; it’s a recruitment and retention crisis," Stringer said.
 
 
-### OTHER on 2025-04-01 05:09
-- Location: Variety
-- Description: “Las Culturistas” hosts Bowen Yang and Matt Rogers and “Saturday Night Live’s” Ego Nwodim were among the winners of the fifth annual Ambies, the kudos handed out by The Podcast Academy to recognize audio entertainment. Wondery, Audible, iHeart Media, Audacy, …
+### OTHER on 2025-04-01 12:00
+- Location: CNET
+- Description: That job posting may not be real. Scammers increasingly use task and side-hustle scams to steal your money and information.
 
 
-### OTHER on 2025-04-01 04:30
-- Location: EURACTIV
-- Description: Luciana Simeone was held in Secondigliano prison in Naples – a familiar destination for Camorra bosses.
+### HOMICIDE on 2025-04-01 12:00
+- Location: CBC News
+- Description: Two people were sentenced after pleading guilty to charges related to the death of 72-year-old Ronald Bell, found dead in his home on Jan. 1, 2023.
 
-Analysis generated at: Wed Apr  2 06:19:12 UTC 2025
+Analysis generated at: Wed Apr  2 12:26:34 UTC 2025
