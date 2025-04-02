@@ -1,10 +1,10 @@
 
-Loaded 23746 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-01 00:59:25
+Loaded 23749 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-01 01:45:35
 
 Incidents by source:
 source
-newsapi           23645
+newsapi           23648
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,6 +20,21 @@ bution.svg)
 
 ## Recent Incidents
 
+### ROBBERY/THEFT on 2025-04-01 01:45
+- Location: WSOC Charlotte
+- Description: A black Ford F-150 was stolen from the parking lot of a Huntersville hotel over the weekend, marking the latest in a series of vehicle thefts and break-ins at local hotels.
+
+
+### HOMICIDE on 2025-04-01 01:40
+- Location: CBC News
+- Description: Halifax police say a shooting in Dartmouth, N.S., has left one man dead. In a news release, police said they responded to a report of gunshots on Ancona Place around 9 p.m. AT Monday.
+
+
+### OTHER on 2025-04-01 01:05
+- Location: Mental Floss
+- Description: Writer, director, and producer extraordinaire Jay Martel soars into action with Arturo as they cover the high-flying trajectory of French gangster Michel Vaujour.
+
+
 ### ROBBERY/THEFT on 2025-04-01 00:59
 - Location: Starweekly.com.au
 - Description: A 21-year-old man has been charged after allegedly reaching speeds of 170km per hour in a stolen vehicle in Melbourne’s...
@@ -30,19 +45,4 @@ The post Man charged after high- speed chase in Melbourne’s north appeared fir
 - Location: Yahoo Entertainment
 - Description: An Alabama judge ruled on Monday that a police officer did not prove that he was acting in self-defense when he shot an armed Black man who was standing in...
 
-
-### OTHER on 2025-04-01 00:42
-- Location: The Punch
-- Description: The Nigeria Police Force said it has intensified a crackdown on kidnapping, banditry, and violent crimes across the country, leading to the rescue of 21 kidnapped victims and the recovery of N4.8m paid as ransom. A statement on Monday by the Force spokesperso…
-
-
-### OTHER on 2025-04-01 00:41
-- Location: The Diplomat
-- Description: In a tranquil compound at the foot of sacred Mount Kulen, a former opposition politician is preparing his followers for the apocalypse.
-
-
-### OTHER on 2025-04-01 00:40
-- Location: CNA
-- Description: British Prime Minister Keir Starmer's office said he backed an initiative by Netflix to stream the drama series for free to secondary schools across the country, so that as many teens as possible can watch it.
-
-Analysis generated at: Wed Apr  2 01:04:10 UTC 2025
+Analysis generated at: Wed Apr  2 01:46:46 UTC 2025
