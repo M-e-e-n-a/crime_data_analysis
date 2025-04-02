@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Apr  2 12:26:34 UTC 2025
+Last updated: Wed Apr  2 12:44:24 UTC 2025
 
 ## Latest Analysis
 
-Loaded 23839 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-01 12:23:46
+Loaded 23846 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-01 12:44:11
 
 Incidents by source:
 source
-newsapi           23738
+newsapi           23745
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-04-01 12:23
-- Location: Freerepublic.com
-- Description: 1:20 VIDEO of a Tesla owner confronting the person that had just scratched a swastika on his car. ........... "I'm sorry you're upset"..............
+### OTHER on 2025-04-01 12:44
+- Location: RT
+- Description: The narrative on an event from three years ago is under scrutiny. Here’s a closer look at the evidence Read Full Article at RT.com
 
 
-### HOMICIDE on 2025-04-01 12:18
-- Location: Bangkok Post
-- Description: <p>A Hong Kong man wanted for a drug-related murder has been arrested in Pattaya, Thai authorities said on Tuesday.</p>
+### OTHER on 2025-04-01 12:32
+- Location: Financial Post
+- Description: The premier evening celebrated the best and brightest in digital investigations, kicking off the Company’s inaugural sold out Case-to-Closure User Summit for 700+ attendees TYSONS CORNER, Va. and PETAH TIKVA, Israel, April 01, 2025 (GLOBE NEWSWIRE) — Cellebri…
 
 
-### OTHER on 2025-04-01 12:00
-- Location: New York Post
-- Description: “Improving public safety requires ensuring our city has enough officers on the beat, and the truth is, it’s not just budgetary restrictions preventing us from having the amount of officers we need; it’s a recruitment and retention crisis," Stringer said.
+### HOMICIDE on 2025-04-01 12:30
+- Location: HipHopDX
+- Description: Young Scooter's encounter with police that ultimately led to his death may have been caused by an anonymous woman placing a hoax 911 call.
 
 
-### OTHER on 2025-04-01 12:00
-- Location: CNET
-- Description: That job posting may not be real. Scammers increasingly use task and side-hustle scams to steal your money and information.
+### OTHER on 2025-04-01 12:30
+- Location: Screen Rant
+- Description: Jackie Chan has played some of the fiercest characters in Hollywood, but the strongest may actually belong to one of his worst movies of all time.
 
 
-### HOMICIDE on 2025-04-01 12:00
-- Location: CBC News
-- Description: Two people were sentenced after pleading guilty to charges related to the death of 72-year-old Ronald Bell, found dead in his home on Jan. 1, 2023.
+### OTHER on 2025-04-01 12:30
+- Location: Decider
+- Description: The actor drops the weird accents and embraces restraint.
 
-Analysis generated at: Wed Apr  2 12:26:34 UTC 2025
+Analysis generated at: Wed Apr  2 12:44:24 UTC 2025
