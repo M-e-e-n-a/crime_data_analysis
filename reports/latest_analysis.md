@@ -1,10 +1,10 @@
 
-Loaded 23729 incidents
-Date range: 2024-01-01 00:00:00 to 2025-03-31 18:17:34
+Loaded 23746 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-01 00:59:25
 
 Incidents by source:
 source
-newsapi           23628
+newsapi           23645
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-03-31 18:17
-- Location: The Times of India
-- Description: Bengaluru: A special team of Tumakuru police, probing the conspiracy to murder Congress MLC KN Rajendra, detained two prime suspects for questioning.
+### ROBBERY/THEFT on 2025-04-01 00:59
+- Location: Starweekly.com.au
+- Description: A 21-year-old man has been charged after allegedly reaching speeds of 170km per hour in a stolen vehicle in Melbourne’s...
+The post Man charged after high- speed chase in Melbourne’s north appeared first on Northern.
 
 
-### OTHER on 2025-03-31 18:15
-- Location: The Jerusalem Post
-- Description: “Jew dogs” and “Jews are the real terrorists" are among the phrases graffitied on Jewish schools and homes.
+### SHOOTING on 2025-04-01 00:57
+- Location: Yahoo Entertainment
+- Description: An Alabama judge ruled on Monday that a police officer did not prove that he was acting in self-defense when he shot an armed Black man who was standing in...
 
 
-### DRUG RELATED on 2025-03-31 18:13
-- Location: ABC News (AU)
-- Description: Tony Mokbel is seeking to be released on bail after serving nearly two decades in prison for drug trafficking.
+### OTHER on 2025-04-01 00:42
+- Location: The Punch
+- Description: The Nigeria Police Force said it has intensified a crackdown on kidnapping, banditry, and violent crimes across the country, leading to the rescue of 21 kidnapped victims and the recovery of N4.8m paid as ransom. A statement on Monday by the Force spokesperso…
 
 
-### HOMICIDE on 2025-03-31 18:10
-- Location: New York Post
-- Description: "Uday was martyred by the criminals of Hamas. And what's his crime? He told the truth, because he refused to be silent on injustice, because he did not kneel to Hamas," said Mazen Shat, a police officer tied to the opposition Fatah party.
+### OTHER on 2025-04-01 00:41
+- Location: The Diplomat
+- Description: In a tranquil compound at the foot of sacred Mount Kulen, a former opposition politician is preparing his followers for the apocalypse.
 
 
-### HOMICIDE on 2025-03-31 18:02
-- Location: The Times of India
-- Description: Bengaluru: Hulimavu police are likely to take a 36-year-old private firm employee into custody on Tuesday in connection with the murder of his 32-year.
+### OTHER on 2025-04-01 00:40
+- Location: CNA
+- Description: British Prime Minister Keir Starmer's office said he backed an initiative by Netflix to stream the drama series for free to secondary schools across the country, so that as many teens as possible can watch it.
 
-Analysis generated at: Tue Apr  1 18:18:07 UTC 2025
+Analysis generated at: Wed Apr  2 01:04:10 UTC 2025
