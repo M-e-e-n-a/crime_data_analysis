@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Apr  2 01:46:46 UTC 2025
+Last updated: Wed Apr  2 06:19:12 UTC 2025
 
 ## Latest Analysis
 
-Loaded 23749 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-01 01:45:35
+Loaded 23769 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-01 06:06:27
 
 Incidents by source:
 source
-newsapi           23648
+newsapi           23668
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2025-04-01 01:45
-- Location: WSOC Charlotte
-- Description: A black Ford F-150 was stolen from the parking lot of a Huntersville hotel over the weekend, marking the latest in a series of vehicle thefts and break-ins at local hotels.
-
-
-### HOMICIDE on 2025-04-01 01:40
-- Location: CBC News
-- Description: Halifax police say a shooting in Dartmouth, N.S., has left one man dead. In a news release, police said they responded to a report of gunshots on Ancona Place around 9 p.m. AT Monday.
-
-
-### OTHER on 2025-04-01 01:05
-- Location: Mental Floss
-- Description: Writer, director, and producer extraordinaire Jay Martel soars into action with Arturo as they cover the high-flying trajectory of French gangster Michel Vaujour.
-
-
-### ROBBERY/THEFT on 2025-04-01 00:59
-- Location: Starweekly.com.au
-- Description: A 21-year-old man has been charged after allegedly reaching speeds of 170km per hour in a stolen vehicle in Melbourne’s...
-The post Man charged after high- speed chase in Melbourne’s north appeared first on Northern.
-
-
-### SHOOTING on 2025-04-01 00:57
+### OTHER on 2025-04-01 06:06
 - Location: Yahoo Entertainment
-- Description: An Alabama judge ruled on Monday that a police officer did not prove that he was acting in self-defense when he shot an armed Black man who was standing in...
+- Description: After the International Criminal Court (ICC) informed ex-Philippine president Rodrigo Duterte of his alleged crimes against humanity during a hearing on...
 
-Analysis generated at: Wed Apr  2 01:46:46 UTC 2025
+
+### HOMICIDE on 2025-04-01 05:46
+- Location: ABC News (AU)
+- Description: Details of a deadly attack on Queensland police will be aired during the trial of a conspiracy theorist in the United States charged in connection with the murders.
+
+
+### OTHER on 2025-04-01 05:33
+- Location: ComputerWeekly.com
+- Description: Home Office refuses to answer questions from Lords over technical capability notice issued against Apple’s iCloud Advanced Data Protection encryption services
+
+
+### OTHER on 2025-04-01 05:09
+- Location: Variety
+- Description: “Las Culturistas” hosts Bowen Yang and Matt Rogers and “Saturday Night Live’s” Ego Nwodim were among the winners of the fifth annual Ambies, the kudos handed out by The Podcast Academy to recognize audio entertainment. Wondery, Audible, iHeart Media, Audacy, …
+
+
+### OTHER on 2025-04-01 04:30
+- Location: EURACTIV
+- Description: Luciana Simeone was held in Secondigliano prison in Naples – a familiar destination for Camorra bosses.
+
+Analysis generated at: Wed Apr  2 06:19:12 UTC 2025
