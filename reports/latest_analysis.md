@@ -1,10 +1,10 @@
 
-Loaded 24065 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-02 12:43:00
+Loaded 24158 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-02 18:17:54
 
 Incidents by source:
 source
-newsapi           23964
+newsapi           24057
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2025-04-02 12:43
-- Location: DW (English)
-- Description: The number of violent crimes in Germany increased in 2024 with a sharp increase in rapes and sexual assaults. A surge in the number of child offenders was also noted, and crimes by foreigners were also up. Interior Minister Nancy Faeser on Wednesday described…
+### HOMICIDE on 2025-04-02 18:17
+- Location: Bossip
+- Description: The cause of death for Atlanta rapper Young Scooter, who passed away on his 39th birthday, March 28, has been revealed. A suspect has also been taken into custody for “making a false 911 call” connected to the incident. 
+The post Cause Of Death Confirmed For …
 
 
-### HOMICIDE on 2025-04-02 12:41
-- Location: Fox News
-- Description: Neighbors of the Samarel family, found dead in their Greer, South Carolina, home on March 28, are perplexed by the incident and lack of answers as to what happened.
-
-
-### OTHER on 2025-04-02 12:35
-- Location: ESPN
-- Description: Skeptics say cash to players for commercial endorsements often far exceeds the service's actual value.
-
-
-### SHOOTING on 2025-04-02 12:26
-- Location: ABC News
-- Description: Portia Moore was taking a photo of her children surrounded by the blooming cherry blossom trees in Washington, D.C., when the former president accidentally stepped into the shot.
-
-
-### ROBBERY/THEFT on 2025-04-02 12:21
+### HOMICIDE on 2025-04-02 18:12
 - Location: The Times of India
-- Description: Several low-wage earners in Aligarh have received massive income tax notices due to identity theft involving stolen Aadhaar and PAN card details. Cases like Karan Kumar's Rs 33.88 crore demand reveal large-scale fraud, prompting investigations and concerns ab…
+- Description: Mumbai: In a major breakthrough, the Anti-Extortion (AE) Cell of Mumbai Police has arrested five persons from Andheri, alleged members of the notoriou.
 
-Analysis generated at: Thu Apr  3 12:44:19 UTC 2025
+
+### HOMICIDE on 2025-04-02 18:10
+- Location: STLtoday.com
+- Description: Jalen 34-year-old Todd Bishop shot in his mother's front yard in the 8000 block of Busieck Avenue in Berkeley.
+
+
+### HOMICIDE on 2025-04-02 18:09
+- Location: Bleeding Cool News
+- Description: Before we pass along the newest images for "April Fools" and the promo for April 8th's S07E13: "Three Billboards" (and don't forget our overview of April 15's S07E14: "Mad About Murder"), how about some excellent ratings news regarding ABC and series creator …
+
+
+### SHOOTING on 2025-04-02 18:08
+- Location: ComicBook.com
+- Description: Tombstone, Heat, Top Gun: Maverick
+Hollywood has lost one of the greats. A performer devoted to his craft and a gifted artist in multiple mediums, Val Kilmer will be dearly missed. His fans, though, have an impressive body of work to binge to get a full sense…
+
+Analysis generated at: Thu Apr  3 18:18:23 UTC 2025
