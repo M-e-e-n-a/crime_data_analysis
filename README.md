@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Apr  3 01:45:19 UTC 2025
+Last updated: Thu Apr  3 06:19:29 UTC 2025
 
 ## Latest Analysis
 
-Loaded 23956 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-02 01:40:07
+Loaded 23989 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-02 06:10:46
 
 Incidents by source:
 source
-newsapi           23855
+newsapi           23888
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-04-02 01:40
-- Location: Thegatewaypundit.com
-- Description: Tensions mount as Prince Harry faces serious allegations of bullying and harassment from Sentebale's chairwoman, Sophie Chandauka. The unfolding rift raises critical questions about leadership and accountability within charitable organizations.
-The post Sente…
+### OTHER on 2025-04-02 06:10
+- Location: KLAS - 8 News Now
+- Description: LAS VEGAS (KLAS) – The Las Vegas Metropolitan Police Department and Clark County Commissioner Jim Gibson spoke with southeast Las Vegas residents about the...
 
 
-### HOMICIDE on 2025-04-02 01:39
-- Location: Complex
-- Description: The woman was arrested and charged with transmitting a false public alarm following Young Scooter's death.
+### ASSAULT on 2025-04-02 06:00
+- Location: Naturalnews.com
+- Description: DOJ charges Cooper Frederick for firebombing a Tesla dealership in Colorado, endangering workers. Far-left extremists are linked to a surge in violent attacks on Tesla properties nationwide. President Trump demands 20-year sentences for perpetrators, calling …
 
 
-### SHOOTING on 2025-04-02 01:37
-- Location: CBS News
-- Description: Baltimore officials credit the different approach to crime prevention with a drastic reduction in gun violence over the past six years.
+### OTHER on 2025-04-02 05:58
+- Location: BBC News
+- Description: Financial pressures are “limiting” what the Police Service of Northern Ireland can do, an inspection report finds.
 
 
-### HOMICIDE on 2025-04-02 01:19
-- Location: The Punch
-- Description: A labourer whose identity has not been revealed has fled after allegedly killing his employer, Mrs. Adelugba, on her farm at the Laoso community in Ondo West Local Government Area of Ondo State over kolanut theft allegation. PUNCH Metro gathered that the dece…
+### ROBBERY/THEFT on 2025-04-02 05:51
+- Location: The Times of India
+- Description: Karnataka police apprehended a six-member gang involved in a major SBI bank robbery in Davangere, recovering 17.7 kg of stolen gold from Tamil Nadu. Investigations also revealed links to another notorious gang from Uttar Pradesh behind multiple heists across …
 
 
-### OTHER on 2025-04-02 01:19
-- Location: The Punch
-- Description: Operatives of the Zone 2 Command of the Nigeria Police Force have arrested a woman whose identity was not disclosed alongside an accomplice for allegedly trafficking young girls to Mauritania as commercial sex workers for N50,000. The Zonal Public Relations O…
+### OTHER on 2025-04-02 05:43
+- Location: CounterPunch
+- Description: Rank and file teachers in the United Teachers of Los Angeles (UTLA) are mobilizing to demand their pension fund–CalSTRS– divest from Israel’s genocide in Palestine, sell off investments in immigrant surveillance and quit the war economy altogether. CalSTRS, t…
 
-Analysis generated at: Thu Apr  3 01:45:19 UTC 2025
+Analysis generated at: Thu Apr  3 06:19:29 UTC 2025
