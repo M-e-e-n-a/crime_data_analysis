@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Apr  2 18:18:30 UTC 2025
+Last updated: Thu Apr  3 01:03:33 UTC 2025
 
 ## Latest Analysis
 
-Loaded 23941 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-01 18:10:07
+Loaded 23948 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-02 01:00:39
 
 Incidents by source:
 source
-newsapi           23840
+newsapi           23847
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-04-01 18:10
-- Location: Wnd.com
-- Description: Prosecuted pro-lifers after working with group that compares Christians to the KKK
+### HOMICIDE on 2025-04-02 01:00
+- Location: FOX 5 Atlanta
+- Description: A day after the 911 calls were released in the death of Young Scooter, Atlanta police say they have made an arrest.
 
 
-### OTHER on 2025-04-01 18:05
-- Location: Fox News
-- Description: An individual has been charged after allegedly vandalizing a Tesla with a swastika. Video reportedly shows the SUV owner confronting the suspect.
-
-
-### OTHER on 2025-04-01 18:05
-- Location: Fox News
-- Description: An individual has been charged after allegedly vandalizing a Tesla with a swastika. Video reportedly shows the SUV owner confronting the suspect.
-
-
-### OTHER on 2025-04-01 18:04
-- Location: Activistpost.com
-- Description: Snow White, the live-action version cobbled together by Disney, opened over the weekend with devastating reviews and empty theaters coast to coast. In my community, there were no sellout crowds on opening day and the thinning turned to zero tickets in the fin…
-
-
-### OTHER on 2025-04-01 18:01
+### HOMICIDE on 2025-04-02 00:59
 - Location: Freerepublic.com
-- Description: Former Clinton pollster Mark Penn went on Fox News to report that "I've never seen anything like this in over 40 years of polling. Those voters who have a favorable opinion of the Democratic Party have plunged to only 29%. That's an incredible loss of moderat…
+- Description: New damning evidence against alleged killer Bryan Kohberger has emerged in the Idaho quadruple murder case. Bryan Kohberger was indicted by a secret grand jury last year and charged with four counts of first-degree murder and one count of burglary in the slay…
 
-Analysis generated at: Wed Apr  2 18:18:30 UTC 2025
+
+### OTHER on 2025-04-02 00:53
+- Location: Boston Herald
+- Description: Norfolk Superior Court Judge Beverly Cannone has been sued for reinstating a buffer zone, limiting Karen Read supporters from demonstrating outside the Dedham courthouse.
+
+
+### HOMICIDE on 2025-04-02 00:53
+- Location: The Punch
+- Description: The Lagos State Police Command on Monday said it had intensified its search for Teniola Ajisomo, who is the remaining suspect linked to the murder of a 28-year-old graduate of Lagos State University, Adedamola Ogunbode. The Lagos State Police Command on March…
+
+
+### OTHER on 2025-04-02 00:40
+- Location: Thegatewaypundit.com
+- Description: House Speaker Mike Johnson's abrupt cancellation of votes this week has sparked outrage, halting crucial conservative legislation and raising questions about leadership accountability in Congress during a pivotal moment for the GOP.
+The post OUTRAGEOUS: Speak…
+
+Analysis generated at: Thu Apr  3 01:03:33 UTC 2025
