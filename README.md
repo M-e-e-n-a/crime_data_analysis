@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Apr  4 12:42:47 UTC 2025
+Last updated: Fri Apr  4 18:18:10 UTC 2025
 
 ## Latest Analysis
 
-Loaded 24273 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-03 12:38:00
+Loaded 24360 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-03 18:17:54
 
 Incidents by source:
 source
-newsapi           24172
+newsapi           24259
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-04-03 12:38
-- Location: Sky.com
-- Description: A 15-year-old boy who tried to stab a teenage girl to death with a sword during a camping trip has been detained for 11 years.
+### OTHER on 2025-04-03 18:17
+- Location: The Times of India
+- Description: Bengaluru: An autorickshaw driver accused of raping a 19-year-old woman near KR Pura railway station post-Wednesday midnight has been arrested.
 
 
-### OTHER on 2025-04-03 12:35
-- Location: CBC News
-- Description: Hungary's government has decided to withdraw from the International Criminal Court, it said on Thursday, shortly after Israeli leader Benjamin Netanyahu, sought under an ICC arrest warrant, arrived in the country for a state visit.
+### SHOOTING on 2025-04-03 18:14
+- Location: TMZ
+- Description: O.J. Simpson's getting a shout-out in the upcoming 'Naked Gun' film reboot ... but it's not exactly a ringing endorsement. The trailer just dropped for "The Naked Gun" -- and after a jarring image of Liam Neeson showing off his strawberry underwear…
 
 
-### OTHER on 2025-04-03 12:30
-- Location: GlobeNewswire
-- Description: Summary: SoundThinking today announced that ResourceRouter's customer base more than doubled in 2024, driven by new patrol operations capabilities that provide officers with critical field information and enable agencies to do more with limited staffing.
+### HOMICIDE on 2025-04-03 18:14
+- Location: TODAY
+- Description: A high school student was charged with murder after Frisco, Texas, police said he fatally stabbed another student during a confrontation at a track meet Wednesday morning.
 
 
-### OTHER on 2025-04-03 12:24
-- Location: The Conversation Africa
-- Description: How do pornographic deepfakes perpetuate gender-based violence? How is the violence in it  different from that of conventional content?
+### HOMICIDE on 2025-04-03 18:01
+- Location: NDTV News
+- Description: There is no sanctity to the word &quot;peremptorily&quot;, an anguished Supreme Court said after the CBI and the Uttar Pradesh government sought time to argue their appeals challenging the acquittal of Surendra Koli in the 2006 Nithari serial killings case.
 
 
-### ROBBERY/THEFT on 2025-04-03 12:12
-- Location: Bleeding Cool News
-- Description: Development studio Teyon and publisher Nacon confirmed that RoboCop: Rogue City will finally be playable on Mac. The game has already been out for a while now on almost every other platform, but this release will be specific to those who own any PC operating …
+### ROBBERY/THEFT on 2025-04-03 18:00
+- Location: TheWrap
+- Description: Derek Cianfrance is writer-director on this film about a former Army Ranger who turns to a life of crime robbing McDonald’s
+The post Channing Tatum Robs a McDonald’s in First ‘Roofman’ Footage appeared first on TheWrap.
 
-Analysis generated at: Fri Apr  4 12:42:47 UTC 2025
+Analysis generated at: Fri Apr  4 18:18:10 UTC 2025
