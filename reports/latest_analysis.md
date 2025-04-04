@@ -1,10 +1,10 @@
 
-Loaded 24174 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-03 01:34:37
+Loaded 24205 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-03 06:15:54
 
 Incidents by source:
 source
-newsapi           24073
+newsapi           24104
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-04-03 01:34
-- Location: Fox News
-- Description: Transportation Secretary Sean Duffy sounds off on New York Gov. Kathy Hochul on X, claiming criminals are "terrorizing" New York City subway riders.
+### OTHER on 2025-04-03 06:15
+- Location: Protothema.gr
+- Description: In 1932, when it was inaugurated, it was divided and characterized as a "sacred work", but during the Occupation it became a reference point for the struggle for liberation, in 2017 it was set on fire - Last episode, the woman with the marker
+The post The sto…
 
 
-### HOMICIDE on 2025-04-03 01:15
-- Location: Freerepublic.com
-- Description: Last night, a high-ranking leader of La Mara Salvatrucha, also known as MS-13, was arrested in New York for his alleged role in a conspiracy responsible for 11 murders.Joel Vargas-Escobar, also known as Momia, was indicted the District of Nevada and charged w…
+### OTHER on 2025-04-03 06:15
+- Location: The Local Germany
+- Description: Industry reeling after Trump tariff announcement, police shut down major child pornography site, Bavarian priest jailed for climate activism and more news from around Germany on Thursday.
 
 
-### HOMICIDE on 2025-04-03 01:15
-- Location: Freerepublic.com
-- Description: Last night, a high-ranking leader of La Mara Salvatrucha, also known as MS-13, was arrested in New York for his alleged role in a conspiracy responsible for 11 murders.Joel Vargas-Escobar, also known as Momia, was indicted the District of Nevada and charged w…
+### HOMICIDE on 2025-04-03 06:01
+- Location: ABC News (AU)
+- Description: One of the four people accused of murdering Perth schoolboy Cassius Turvey takes the stand for the first time to give evidence at his trial in the WA Supreme Court. Follow live.
 
 
-### OTHER on 2025-04-03 01:15
-- Location: 7NEWS.com.au
-- Description: Cyclist dies after being hit by car at Deception Bay, north of Brisbane7news.com.au
+### HOMICIDE on 2025-04-03 06:00
+- Location: Newser
+- Description: A 17-year-old student was fatally stabbed by another student during an altercation at a high school track meet in suburban Dallas on Wednesday, police said. The suspect, 17-year-old Karmelo Anthony, was taken into custody and charged with murder, according to…
 
 
-### HOMICIDE on 2025-04-03 01:02
-- Location: Boston Herald
-- Description: A Cape Cod man who allegedly threatened to murder a federal official and members of their family is in custody after authorities arrested him on a criminal complaint.
+### OTHER on 2025-04-03 05:52
+- Location: New York Post
+- Description: “I’m a teacher. I live paycheck-to-paycheck and $200 to a principal, maybe is nothing but $200.”
 
-Analysis generated at: Fri Apr  4 01:45:16 UTC 2025
+Analysis generated at: Fri Apr  4 06:19:14 UTC 2025
