@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Apr  4 06:19:14 UTC 2025
+Last updated: Fri Apr  4 12:25:37 UTC 2025
 
 ## Latest Analysis
 
-Loaded 24205 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-03 06:15:54
+Loaded 24270 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-03 12:24:31
 
 Incidents by source:
 source
-newsapi           24104
+newsapi           24169
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-04-03 06:15
-- Location: Protothema.gr
-- Description: In 1932, when it was inaugurated, it was divided and characterized as a "sacred work", but during the Occupation it became a reference point for the struggle for liberation, in 2017 it was set on fire - Last episode, the woman with the marker
-The post The sto…
+### OTHER on 2025-04-03 12:24
+- Location: The Conversation Africa
+- Description: How do pornographic deepfakes perpetuate gender-based violence? How is the violence in it  different from that of conventional content?
 
 
-### OTHER on 2025-04-03 06:15
-- Location: The Local Germany
-- Description: Industry reeling after Trump tariff announcement, police shut down major child pornography site, Bavarian priest jailed for climate activism and more news from around Germany on Thursday.
+### ROBBERY/THEFT on 2025-04-03 12:12
+- Location: Bleeding Cool News
+- Description: Development studio Teyon and publisher Nacon confirmed that RoboCop: Rogue City will finally be playable on Mac. The game has already been out for a while now on almost every other platform, but this release will be specific to those who own any PC operating …
 
 
-### HOMICIDE on 2025-04-03 06:01
-- Location: ABC News (AU)
-- Description: One of the four people accused of murdering Perth schoolboy Cassius Turvey takes the stand for the first time to give evidence at his trial in the WA Supreme Court. Follow live.
+### OTHER on 2025-04-03 12:11
+- Location: ABC News
+- Description: Government officials and religious leaders were among those to pay their last respects in Vilnius.
 
 
-### HOMICIDE on 2025-04-03 06:00
-- Location: Newser
-- Description: A 17-year-old student was fatally stabbed by another student during an altercation at a high school track meet in suburban Dallas on Wednesday, police said. The suspect, 17-year-old Karmelo Anthony, was taken into custody and charged with murder, according to…
+### HOMICIDE on 2025-04-03 12:08
+- Location: Thechronicle.com.gh
+- Description: The legal proceedings surrounding the murder of investigative journalist, Ahmed Suale, have taken a new turn, as prosecutors have amended the charges against the primary suspect, Daniel Owusu Koranteng, also known as Amakye. He now faces two counts of abetmen…
 
 
-### OTHER on 2025-04-03 05:52
-- Location: New York Post
-- Description: “I’m a teacher. I live paycheck-to-paycheck and $200 to a principal, maybe is nothing but $200.”
+### HOMICIDE on 2025-04-03 12:08
+- Location: The Punch
+- Description: The Delta State Police Command has uncovered the body of 38-year-old Chigozie Udalor, a site engineer, killed and buried in a shallow grave allegedly by his employees. This was made known in a video statement shared by the state Police Public Relations Office…
 
-Analysis generated at: Fri Apr  4 06:19:14 UTC 2025
+Analysis generated at: Fri Apr  4 12:25:37 UTC 2025
