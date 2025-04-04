@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Apr  3 18:18:23 UTC 2025
+Last updated: Fri Apr  4 01:03:02 UTC 2025
 
 ## Latest Analysis
 
-Loaded 24158 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-02 18:17:54
+Loaded 24170 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-03 01:02:46
 
 Incidents by source:
 source
-newsapi           24057
+newsapi           24069
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,30 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-04-02 18:17
-- Location: Bossip
-- Description: The cause of death for Atlanta rapper Young Scooter, who passed away on his 39th birthday, March 28, has been revealed. A suspect has also been taken into custody for “making a false 911 call” connected to the incident. 
-The post Cause Of Death Confirmed For …
+### HOMICIDE on 2025-04-03 01:02
+- Location: Boston Herald
+- Description: A Cape Cod man who allegedly threatened to murder a federal official and members of their family is in custody after authorities arrested him on a criminal complaint.
 
 
-### HOMICIDE on 2025-04-02 18:12
-- Location: The Times of India
-- Description: Mumbai: In a major breakthrough, the Anti-Extortion (AE) Cell of Mumbai Police has arrested five persons from Andheri, alleged members of the notoriou.
+### OTHER on 2025-04-03 01:00
+- Location: Fox News
+- Description: Seattle's city council voted unanimously to support a resolution expressing support for law enforcement and cutting ties with the "Defund the police" movement.
 
 
-### HOMICIDE on 2025-04-02 18:10
-- Location: STLtoday.com
-- Description: Jalen 34-year-old Todd Bishop shot in his mother's front yard in the 8000 block of Busieck Avenue in Berkeley.
+### HOMICIDE on 2025-04-03 01:00
+- Location: Allthatsinteresting.com
+- Description: On February 9, 1978, Kimberly Leach was in class at her Lake City, Florida school when her homeroom teacher called and asked her to come get a purse she'd left behind — and as she walked to another building on campus to retrieve it, she was abducted by Ted Bu…
 
 
-### HOMICIDE on 2025-04-02 18:09
-- Location: Bleeding Cool News
-- Description: Before we pass along the newest images for "April Fools" and the promo for April 8th's S07E13: "Three Billboards" (and don't forget our overview of April 15's S07E14: "Mad About Murder"), how about some excellent ratings news regarding ABC and series creator …
+### OTHER on 2025-04-03 00:45
+- Location: Khabarhub.com
+- Description: KATHMANDU: On Friday, March 28, widespread looting occurred during a pro-monarchy demonstration. Amid the chaos, opportunists took advantage of the situation, stealing mobile phones, laptops, and cash from a burning house in Tinkune. Similarly, food, clothing…
 
 
-### SHOOTING on 2025-04-02 18:08
-- Location: ComicBook.com
-- Description: Tombstone, Heat, Top Gun: Maverick
-Hollywood has lost one of the greats. A performer devoted to his craft and a gifted artist in multiple mediums, Val Kilmer will be dearly missed. His fans, though, have an impressive body of work to binge to get a full sense…
+### SHOOTING on 2025-04-03 00:45
+- Location: Thehillstimes.in
+- Description: GANGTOK, April 2: Bollywood filmmaker Anurag Basu and actors Kartik Aaryan and Sreeleela, who have been shooting for ‘Aashiqui 3’ in Sikkim, met Chief Minister Prem Singh Tamang at his official residence, according to a CMO statement on Wednesday. The CM exte…
 
-Analysis generated at: Thu Apr  3 18:18:23 UTC 2025
+Analysis generated at: Fri Apr  4 01:03:02 UTC 2025
