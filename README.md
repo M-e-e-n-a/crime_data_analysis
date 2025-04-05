@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Apr  4 18:18:10 UTC 2025
+Last updated: Sat Apr  5 01:02:23 UTC 2025
 
 ## Latest Analysis
 
-Loaded 24360 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-03 18:17:54
+Loaded 24374 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-04 01:00:00
 
 Incidents by source:
 source
-newsapi           24259
+newsapi           24273
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-04-03 18:17
-- Location: The Times of India
-- Description: Bengaluru: An autorickshaw driver accused of raping a 19-year-old woman near KR Pura railway station post-Wednesday midnight has been arrested.
+### OTHER on 2025-04-04 01:00
+- Location: Decider
+- Description: "You guys are being played."
 
 
-### SHOOTING on 2025-04-03 18:14
-- Location: TMZ
-- Description: O.J. Simpson's getting a shout-out in the upcoming 'Naked Gun' film reboot ... but it's not exactly a ringing endorsement. The trailer just dropped for "The Naked Gun" -- and after a jarring image of Liam Neeson showing off his strawberry underwear…
+### HOMICIDE on 2025-04-04 00:58
+- Location: Freerepublic.com
+- Description: FRISCO, Texas - Students and staff at Memorial High School in Frisco are mourning the loss of a student athlete who was stabbed to death at a track meet. The victim’s father said his son died in the arms of his twin brother. What we know: On Wednesday morning…
 
 
-### HOMICIDE on 2025-04-03 18:14
-- Location: TODAY
-- Description: A high school student was charged with murder after Frisco, Texas, police said he fatally stabbed another student during a confrontation at a track meet Wednesday morning.
+### OTHER on 2025-04-04 00:42
+- Location: Fox News
+- Description: Haley Layman, a fatal hit-and-run suspect in Tennessee, shared social media posts about the victim after allegedly striking him with her truck on March 31.
 
 
-### HOMICIDE on 2025-04-03 18:01
-- Location: NDTV News
-- Description: There is no sanctity to the word &quot;peremptorily&quot;, an anguished Supreme Court said after the CBI and the Uttar Pradesh government sought time to argue their appeals challenging the acquittal of Surendra Koli in the 2006 Nithari serial killings case.
+### HOMICIDE on 2025-04-04 00:37
+- Location: Las Vegas Review-Journal
+- Description: The family of a man who was fatally shot inside a Las Vegas Strip hotel-casino after inviting two women up to his room has sued the property for negligence and wrongful death.
 
 
-### ROBBERY/THEFT on 2025-04-03 18:00
-- Location: TheWrap
-- Description: Derek Cianfrance is writer-director on this film about a former Army Ranger who turns to a life of crime robbing McDonald’s
-The post Channing Tatum Robs a McDonald’s in First ‘Roofman’ Footage appeared first on TheWrap.
+### OTHER on 2025-04-04 00:36
+- Location: ABC News
+- Description: A 97-year-old Galápagos tortoise named Mommy has given birth to four critically endangered Western Santa Cruz Galápagos tortoise hatchlings.
 
-Analysis generated at: Fri Apr  4 18:18:10 UTC 2025
+Analysis generated at: Sat Apr  5 01:02:23 UTC 2025
