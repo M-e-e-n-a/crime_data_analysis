@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Apr  5 01:02:23 UTC 2025
+Last updated: Sat Apr  5 01:43:37 UTC 2025
 
 ## Latest Analysis
 
-Loaded 24374 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-04 01:00:00
+Loaded 24380 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-04 01:40:17
 
 Incidents by source:
 source
-newsapi           24273
+newsapi           24279
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-04-04 01:00
-- Location: Decider
-- Description: "You guys are being played."
+### OTHER on 2025-04-04 01:40
+- Location: Screen Rant
+- Description: The indie slasher film Screamboat includes intense violence that could make even the most hardened horror fans squirm in their seats.
 
 
-### HOMICIDE on 2025-04-04 00:58
-- Location: Freerepublic.com
-- Description: FRISCO, Texas - Students and staff at Memorial High School in Frisco are mourning the loss of a student athlete who was stabbed to death at a track meet. The victim’s father said his son died in the arms of his twin brother. What we know: On Wednesday morning…
+### OTHER on 2025-04-04 01:35
+- Location: esquire.com
+- Description: Plus, we talked to Doctor Marc Grossman, the EMS medical director with the true story behind last week's brain surgery.
 
 
-### OTHER on 2025-04-04 00:42
-- Location: Fox News
-- Description: Haley Layman, a fatal hit-and-run suspect in Tennessee, shared social media posts about the victim after allegedly striking him with her truck on March 31.
+### OTHER on 2025-04-04 01:32
+- Location: Rolling Stone
+- Description: Suge Knight spoke at a court hearing, saying he wants to proceed with his re-trial this month despite his lawyer David Kenner asking to withdraw
 
 
-### HOMICIDE on 2025-04-04 00:37
-- Location: Las Vegas Review-Journal
-- Description: The family of a man who was fatally shot inside a Las Vegas Strip hotel-casino after inviting two women up to his room has sued the property for negligence and wrongful death.
+### OTHER on 2025-04-04 01:30
+- Location: Independent.ie
+- Description: Planning a night on the couch? Here are today’s top TV and streaming picks:
 
 
-### OTHER on 2025-04-04 00:36
-- Location: ABC News
-- Description: A 97-year-old Galápagos tortoise named Mommy has given birth to four critically endangered Western Santa Cruz Galápagos tortoise hatchlings.
+### OTHER on 2025-04-04 01:19
+- Location: Khabarhub.com
+- Description: KATHMANDU: While it has yet to be officially confirmed whether Durga Prasai fled to India via the Kakadbhitta border in Jhapa, police suspect he did. Authorities have located the vehicle that transported Prasai from Tinkune, Kathmandu, in Jhapa. The Scorpio S…
 
-Analysis generated at: Sat Apr  5 01:02:23 UTC 2025
+Analysis generated at: Sat Apr  5 01:43:37 UTC 2025
