@@ -1,10 +1,10 @@
 
-Loaded 24464 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-04 12:22:00
+Loaded 24469 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-04 12:36:10
 
 Incidents by source:
 source
-newsapi           24363
+newsapi           24368
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2025-04-04 12:22
-- Location: The Star Online
-- Description: TAWAU: What was meant to be a festive Raya visit turned into a theft case when a woman allegedly made off with a gold necklace from the home she had just visited.
+### OTHER on 2025-04-04 12:36
+- Location: ESPN
+- Description: No matter where she's called home, the Final Four coach's story is held close by those who watched her rise.
 
 
-### HOMICIDE on 2025-04-04 12:19
-- Location: CBS News
-- Description: Arul Carasala was shot and killed by a man who approached him at his parish rectory in Seneca, Kansas, church officials said.
+### HOMICIDE on 2025-04-04 12:30
+- Location: LADbible
+- Description: Joanne Sharkey was identified as Baby Callum's mum in 2023 after she dumped his body in Warrington in 1998
 
 
-### OTHER on 2025-04-04 12:17
-- Location: The Conversation Africa
-- Description: While foreign terrorist organizations typically have a political or religious ideology, transnational criminal organizations are driven by profit.
+### OTHER on 2025-04-04 12:30
+- Location: Shtfplan.com
+- Description: It’s no joke: America is becoming a Constitution-free zone.
 
 
-### OTHER on 2025-04-04 12:15
-- Location: Billings Gazette
-- Description: Valary Nichole Obert has been charged in Yellowstone County District Court with felony embezzlement exceeding $10,000. Investigators found the 35-year-old allegedly swindled about $124,200 from the Billings Home Builders Association.
+### HOMICIDE on 2025-04-04 12:28
+- Location: BBC News
+- Description: A man is arrested on suspicion of murder as police continue to gather evidence at the scene.
 
 
-### OTHER on 2025-04-04 12:00
-- Location: STLtoday.com
-- Description: Parents watching “Adolescence” may be shocked to learn about the many ways young boys and men are exposed to extreme misogyny online.
+### HOMICIDE on 2025-04-04 12:24
+- Location: Boston News, Weather, Sports | WHDH 7News
+- Description: DEIR AL BALAH, Gaza Strip (AP) — Israeli airstrikes killed at least 100 Palestinians across the Gaza Strip on Thursday, including 27 or more sheltering at a<a class="excerpt-read-more" href="https://whdh.com/news/israeli-strike-on-a-school-in-gaza-kills-at-le…
 
-Analysis generated at: Sat Apr  5 12:23:04 UTC 2025
+Analysis generated at: Sat Apr  5 12:38:53 UTC 2025
