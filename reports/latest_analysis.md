@@ -1,10 +1,10 @@
 
-Loaded 24596 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-05 06:08:42
+Loaded 24623 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-05 12:16:32
 
 Incidents by source:
 source
-newsapi           24495
+newsapi           24522
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-04-05 06:08
-- Location: NDTV News
-- Description: In 2022, the police summoned Suresh, claiming his wife&#039;s remains had been found near Bettadapura in Periyapatna Taluk.
+### OTHER on 2025-04-05 12:16
+- Location: Livejournal.com
+- Description: This past week was CinemaCon, an industry event where many film studios show off presentations of their upcoming movies for theater owners. A lot of actors showed up, and sometimes their outfits were noteworthy. This in addition to standard promotion. This po…
 
 
-### OTHER on 2025-04-05 05:55
-- Location: Setopati.com
-- Description: Rastriya Swatantra Party (RSP) President Rabi Lamichhane has been brought to Bhairahawa following his arrest.
+### ASSAULT on 2025-04-05 12:00
+- Location: Fox News
+- Description: U.S. Transportation Secretary Sean Duffy rode the New York City subway with Mayor Eric Adams as the Trump administration pledges to help the city fight transit crime.
 
 
-### OTHER on 2025-04-05 05:31
+### OTHER on 2025-04-05 12:00
+- Location: The Atlantic
+- Description: Protests have gotten smaller and more dispersed in Trump’s second term. Is that a bad thing?
+
+
+### OTHER on 2025-04-05 12:00
+- Location: The Truth About Guns
+- Description: by Lee Williams It now appears that the only way former American sailor, Patrick “Tate” Adamiak, may get out of his undeserved 20-year prison sentence is through a presidential pardon, because federal prosecutors are now using the lies and fake evidence creat…
+
+
+### HOMICIDE on 2025-04-05 11:56
 - Location: Freerepublic.com
-- Description: Retired Lieutenant Douglas Deaton exposed a disturbing reality: EPIC’s Sharia-controlled enclave in Plano isn’t some future vision—it already exists. For nearly 12 years, EPIC has operated a religiously exclusive neighborhood comprising 74 homes, a sprawling …
+- Description: Infamous gangbanger who murdered NYPD rookie could be released from prison — and join 43 other cop killers sprung in just 8 years One of New York City’s most notorious cop killers – the gangbanger who murdered Police Officer Edward Byrne as he sat in his patr…
 
-
-### HOMICIDE on 2025-04-05 05:25
-- Location: New York Post
-- Description: A California driver is accused of attempted murder for crashing into a motorcyclist and dragging the helpless rider hundreds of feet across an intersection in a suspected road rage incident caught on camera.
-
-
-### HOMICIDE on 2025-04-05 05:24
-- Location: Globalsecurity.org
-- Description: Extensive coordination and cooperation efforts between the United States Department of Justice and law enforcement authorities in Canada, Colombia, Germany, Honduras, Kosovo, Israel, Mexico, Spain, and Thailand resulted in the extraditions last week of indivi…
-
-Analysis generated at: Sun Apr  6 06:18:14 UTC 2025
+Analysis generated at: Sun Apr  6 12:22:59 UTC 2025
