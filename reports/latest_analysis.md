@@ -1,10 +1,10 @@
 
-Loaded 24691 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-06 06:16:55
+Loaded 24733 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-06 12:27:26
 
 Incidents by source:
 source
-newsapi           24590
+newsapi           24632
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2025-04-06 06:16
-- Location: NDTV News
-- Description: A 10-year-old girl was sexually assaulted by a boy in Manipur&#039;s Churachandpur district, the police said today. The minor accused has been detained.
+### OTHER on 2025-04-06 12:27
+- Location: Freerepublic.com
+- Description: Rep. Nick Langworthy, a New York Republican, revealed that one of Governor Kathy Hochul’s top aids was indicted by the FBI on a raft of treason-related charges. Linda Sun, who served as Deputy Chief of Staff within the New York State Executive Chamber, allege…
 
 
-### HOMICIDE on 2025-04-06 06:13
-- Location: Sky.com
-- Description: Police are investigating after a man was shot dead in County Durham.
-
-
-### OTHER on 2025-04-06 06:00
+### OTHER on 2025-04-06 12:24
 - Location: The Times of India
-- Description: Comedian Samay Raina appeared before the Guwahati Crime Branch regarding allegations of promoting obscenity on his YouTube show 'India's Got Latent.' Other YouTubers and influencers, including Ashish Chanchlani and Ranveer Allahbadia, are also implicated. The…
+- Description: A 27-year-old from Murshidabad gained viral fame for his mobile bed on wheels, but it was seized by police for violating the Motor Vehicles Act. Despite the setback, his innovative creation attracted millions of views online, although copyright complaints led…
 
 
-### OTHER on 2025-04-06 06:00
-- Location: Naturalnews.com
-- Description: A darknet platform called “Kidflix,” one of the largest child pornography networks, was shut down in a global operation led by German authorities and Europol. It had 2 million users and over 91,000 abuse videos, with new content uploaded at three videos per h…
+### HOMICIDE on 2025-04-06 12:08
+- Location: Sky.com
+- Description: A 17-year-old boy has been stabbed to death in west London.
 
 
-### HOMICIDE on 2025-04-06 05:55
-- Location: NDTV News
-- Description: A man killed his wife in the middle of a street in Bengaluru Friday night, suspecting her of infidelity. The incident, which unfolded in full view of the public, took place in the Electronic City area of the Karnataka capital.
+### ASSAULT on 2025-04-06 12:00
+- Location: The Denver Post
+- Description: While Jeanette Vizguerra's detainment case is fought in Denver's federal court, other Colorado immigration lawyers are using a similar strategy to fight detentions of noncitizens.
 
-Analysis generated at: Mon Apr  7 06:19:53 UTC 2025
+
+### SHOOTING on 2025-04-06 12:00
+- Location: Gizmodo.com
+- Description: A new study detailed all the problems with plans to shoot a missile out of the sky.
+
+Analysis generated at: Mon Apr  7 12:27:41 UTC 2025
