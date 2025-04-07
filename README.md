@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Apr  7 01:48:48 UTC 2025
+Last updated: Mon Apr  7 06:19:53 UTC 2025
 
 ## Latest Analysis
 
-Loaded 24675 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-06 01:45:00
+Loaded 24691 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-06 06:16:55
 
 Incidents by source:
 source
-newsapi           24574
+newsapi           24590
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-04-06 01:45
-- Location: Thehillstimes.in
-- Description: NEW DELHI, April 5: Farmer Mahendar Singh points at spots in his farm where actors Manoj Kumar and Prem Chopra would act out scenes for the 1967 blockbuster “Upkar”. The scenic village of Nangal Thakran in northwest Delhi’s Narela with its lush farms, scarcel…
+### ASSAULT on 2025-04-06 06:16
+- Location: NDTV News
+- Description: A 10-year-old girl was sexually assaulted by a boy in Manipur&#039;s Churachandpur district, the police said today. The minor accused has been detained.
 
 
-### OTHER on 2025-04-06 01:20
-- Location: Thehillstimes.in
-- Description: HT Correspondent ITANAGAR, April 5: The Rashtriya Raksha University (RRU) Pasighat campus focused on providing high quality security, research based teaching and training to the aspirants students of the Arunachal Pradesh in particular and Northeastern region…
+### HOMICIDE on 2025-04-06 06:13
+- Location: Sky.com
+- Description: Police are investigating after a man was shot dead in County Durham.
 
 
-### ROBBERY/THEFT on 2025-04-06 00:55
-- Location: The Punch
-- Description: The Nigerian Bar Association has waded into the lingering case involving 15 former domestic workers of ex-first lady, Dame Patience Jonathan, who have remained in detention for six years over alleged theft of jewellery and other valuables. A top official of t…
+### OTHER on 2025-04-06 06:00
+- Location: The Times of India
+- Description: Comedian Samay Raina appeared before the Guwahati Crime Branch regarding allegations of promoting obscenity on his YouTube show 'India's Got Latent.' Other YouTubers and influencers, including Ashish Chanchlani and Ranveer Allahbadia, are also implicated. The…
 
 
-### HOMICIDE on 2025-04-06 00:35
-- Location: The Punch
-- Description: The Gombe State Police Command has clarified an ongoing investigation into a case involving criminal conspiracy, armed robbery, attempt to commit culpable homicide, and receiving stolen property. Our correspondent reports that this is a sequel to a viral vide…
+### OTHER on 2025-04-06 06:00
+- Location: Naturalnews.com
+- Description: A darknet platform called “Kidflix,” one of the largest child pornography networks, was shut down in a global operation led by German authorities and Europol. It had 2 million users and over 91,000 abuse videos, with new content uploaded at three videos per h…
 
 
-### OTHER on 2025-04-06 00:30
-- Location: Freerepublic.com
-- Description: Homeland Security officials say about 1,500 undocumented immigrants have been arrested in Georgia since January 22, a reflection of the Trump administration’s hardline posture on illegal immigration. Many of those arrested have already been convicted of serio…
+### HOMICIDE on 2025-04-06 05:55
+- Location: NDTV News
+- Description: A man killed his wife in the middle of a street in Bengaluru Friday night, suspecting her of infidelity. The incident, which unfolded in full view of the public, took place in the Electronic City area of the Karnataka capital.
 
-Analysis generated at: Mon Apr  7 01:48:48 UTC 2025
+Analysis generated at: Mon Apr  7 06:19:53 UTC 2025
