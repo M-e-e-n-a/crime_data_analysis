@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Apr  7 12:27:41 UTC 2025
+Last updated: Mon Apr  7 12:45:18 UTC 2025
 
 ## Latest Analysis
 
-Loaded 24733 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-06 12:27:26
+Loaded 24734 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-06 12:39:03
 
 Incidents by source:
 source
-newsapi           24632
+newsapi           24633
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -23,6 +23,11 @@ bution.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### HOMICIDE on 2025-04-06 12:39
+- Location: BBC News
+- Description: A boy is arrested after Keiron Charles was stabbed to death in what police call an "awful incident".
+
 
 ### OTHER on 2025-04-06 12:27
 - Location: Freerepublic.com
@@ -43,9 +48,4 @@ bution.svg)
 - Location: The Denver Post
 - Description: While Jeanette Vizguerra's detainment case is fought in Denver's federal court, other Colorado immigration lawyers are using a similar strategy to fight detentions of noncitizens.
 
-
-### SHOOTING on 2025-04-06 12:00
-- Location: Gizmodo.com
-- Description: A new study detailed all the problems with plans to shoot a missile out of the sky.
-
-Analysis generated at: Mon Apr  7 12:27:41 UTC 2025
+Analysis generated at: Mon Apr  7 12:45:18 UTC 2025
