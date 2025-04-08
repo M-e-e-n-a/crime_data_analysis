@@ -1,10 +1,10 @@
 
-Loaded 24789 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-07 01:28:39
+Loaded 24817 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-07 06:14:15
 
 Incidents by source:
 source
-newsapi           24688
+newsapi           24716
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-04-07 01:28
-- Location: CNN
-- Description: Israeli soldiers killed a Palestinian American teenager and wounded two others in the occupied West Bank on Sunday, according to Palestinian officials.
+### OTHER on 2025-04-07 06:14
+- Location: Khabarhub.com
+- Description: KATHMANDU: Rastriya Swatantra Party (RSP) Chair Rabi Lamichhane has been sent to Bhairahawa Jail following an order from the Rupandehi District Court on Monday. According to Court Information Officer Padam Aryal, Lamichhane was presented before the court by t…
 
 
-### DRUG RELATED on 2025-04-07 01:26
-- Location: Freerepublic.com
-- Description: He told the court a drug expert was 's*** at his job' and said: 'If they were worth that amount I would be rich'A drug dealer who was said to have been found in possession of more than £10,000 worth of drugs argued with a judge about their valuation. He was f…
+### ASSAULT on 2025-04-07 06:00
+- Location: CounterPunch
+- Description: Some 40 people form a circle on the dusty, late-summer grass. Following days of uncertainty and fear, cut off from most forms of communication, families from Mapuche communities in Argentina’s Chubut province gather to talk about what happened to them on Feb.…
 
 
-### OTHER on 2025-04-07 01:22
-- Location: Fox News
-- Description: Deputies in Tennessee located and arrested a man with an active warrant after he posted pictures on a social media site challenging authorities to come find him.
+### OTHER on 2025-04-07 05:56
+- Location: CounterPunch
+- Description: Tyrant Donald Trump, mega-violator of federal laws Wrecking America, has targeted Harvard University. Trump illegally threatens to cancel $9 billion in committed grants and contracts. One would think that the mighty Harvard Law School – loaded with professors…
 
 
-### SHOOTING on 2025-04-07 01:00
-- Location: WSB Atlanta
-- Description: Police confirmed that a man was shot just after 8 p.m. in the area of 230 10th Street.
+### HOMICIDE on 2025-04-07 05:53
+- Location: ABC News (AU)
+- Description: The family of a Geelong father fatally stabbed while walking his dog in 2023 have come face-to-face with his killer during an emotional court hearing.
 
 
-### OTHER on 2025-04-07 01:00
-- Location: The Punch
-- Description: Amnesty International Nigeria has condemned the Borno State Government and the Nigeria Police Force for the arrest and continued detention of 19-year-old Haruna Mohammed, popularly known as Abale Borno, over a viral social media post. According to a post via …
+### OTHER on 2025-04-07 05:49
+- Location: The Jerusalem Post
+- Description: The National Crime Unit within Israel's police summoned MK Gilad Kariv for questioning on Monday morning under
 
-Analysis generated at: Tue Apr  8 01:46:05 UTC 2025
+Analysis generated at: Tue Apr  8 06:19:22 UTC 2025
