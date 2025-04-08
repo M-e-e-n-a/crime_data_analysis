@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Apr  8 06:19:22 UTC 2025
+Last updated: Tue Apr  8 12:26:52 UTC 2025
 
 ## Latest Analysis
 
-Loaded 24817 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-07 06:14:15
+Loaded 24887 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-07 12:23:00
 
 Incidents by source:
 source
-newsapi           24716
+newsapi           24786
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-04-07 06:14
-- Location: Khabarhub.com
-- Description: KATHMANDU: Rastriya Swatantra Party (RSP) Chair Rabi Lamichhane has been sent to Bhairahawa Jail following an order from the Rupandehi District Court on Monday. According to Court Information Officer Padam Aryal, Lamichhane was presented before the court by t…
+### OTHER on 2025-04-07 12:23
+- Location: Sky.com
+- Description: A man and a woman have appeared in court accused of maliciously damaging a Scottish golf course owned by US President Donald Trump.
 
 
-### ASSAULT on 2025-04-07 06:00
-- Location: CounterPunch
-- Description: Some 40 people form a circle on the dusty, late-summer grass. Following days of uncertainty and fear, cut off from most forms of communication, families from Mapuche communities in Argentina’s Chubut province gather to talk about what happened to them on Feb.…
+### HOMICIDE on 2025-04-07 12:17
+- Location: Democracy Now!
+- Description: Outrage is growing over Israel’s killing of 15 Palestinian medics and rescue workers north of the Gazan city of Rafah in the predawn hours of March 23. Israel initially claimed the convoy had suspiciously approached troops without headlights or flashing light…
 
 
-### OTHER on 2025-04-07 05:56
-- Location: CounterPunch
-- Description: Tyrant Donald Trump, mega-violator of federal laws Wrecking America, has targeted Harvard University. Trump illegally threatens to cancel $9 billion in committed grants and contracts. One would think that the mighty Harvard Law School – loaded with professors…
+### OTHER on 2025-04-07 12:16
+- Location: The Star Online
+- Description: PETALING JAYA: The Sessions Court was told on Monday (April 7) that several WhatsApp messages expressing frustration were exchanged between two individuals linked to the late Zayn Rayyan Abdul Matin before and on the day the autistic child was reported missin…
 
 
-### HOMICIDE on 2025-04-07 05:53
-- Location: ABC News (AU)
-- Description: The family of a Geelong father fatally stabbed while walking his dog in 2023 have come face-to-face with his killer during an emotional court hearing.
+### HOMICIDE on 2025-04-07 12:10
+- Location: NBC News
+- Description: Lori Vallow Daybell, the "doomsday mom" who received multiple life sentences for the murders of her two children and romantic rival, will be back in court on Monday for opening statements in a separate trial over the death of her fourth husband.
 
 
-### OTHER on 2025-04-07 05:49
-- Location: The Jerusalem Post
-- Description: The National Crime Unit within Israel's police summoned MK Gilad Kariv for questioning on Monday morning under
+### HOMICIDE on 2025-04-07 12:05
+- Location: Fox News
+- Description: An online fundraiser to support Karmelo Anthony, accused of killing Frisco, Texas high school track star Austin Metcalf, continues to gain traction as Anthony is held without bond in the Collins County Jail.
 
-Analysis generated at: Tue Apr  8 06:19:22 UTC 2025
+Analysis generated at: Tue Apr  8 12:26:52 UTC 2025
