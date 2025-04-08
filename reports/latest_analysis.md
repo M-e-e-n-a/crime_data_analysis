@@ -1,10 +1,10 @@
 
-Loaded 24775 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-06 18:02:05
+Loaded 24786 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-07 01:00:40
 
 Incidents by source:
 source
-newsapi           24674
+newsapi           24685
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-04-06 18:02
-- Location: The Jerusalem Post
-- Description: Leslie Bory, convicted of promoting genocide against Jews, is running for office in the upcoming Canadian election.
+### SHOOTING on 2025-04-07 01:00
+- Location: WSB Atlanta
+- Description: Police confirmed that a man was shot just after 8 p.m. in the area of 230 10th Street.
 
 
-### ROBBERY/THEFT on 2025-04-06 18:00
-- Location: Fox News
-- Description: A Florida woman is in custody after she allegedly scammed a man out of thousands of dollars during a bogus tarot reading and "spiritual cleansing session."
+### OTHER on 2025-04-07 01:00
+- Location: The Punch
+- Description: Amnesty International Nigeria has condemned the Borno State Government and the Nigeria Police Force for the arrest and continued detention of 19-year-old Haruna Mohammed, popularly known as Abale Borno, over a viral social media post. According to a post via …
 
 
-### HOMICIDE on 2025-04-06 18:00
-- Location: Dramabeans.com
-- Description: Netflix continues its long line of dark thrillers with Karma, a series that follows six different people somehow tied together by fate. The first episode introduces us to greed and how one man’s desperation for money turns deadly. It’s truly disturbing to wat…
+### OTHER on 2025-04-07 00:49
+- Location: The Diplomat
+- Description: The Royal Thai Army has accused Paul Chambers, a lecturer at Naresuan University in Phitsanulok, of violating the lese-majeste law and Computer Crime Act.
 
 
-### OTHER on 2025-04-06 17:34
-- Location: ABC News
-- Description: ABC News’ George Stephanopoulos interviews White House Economic Council Director Kevin Hassett on “This Week.”
+### OTHER on 2025-04-07 00:45
+- Location: Freerepublic.com
+- Description: Andry Hernandez Romero, a gay makeup artist who came to the United States last year in search of asylum, is one of 238 Venezuelan migrants who were flown from the U.S. to a maximum security prison in El Salvador three weeks ago. President Trump, who campaigne…
 
 
-### OTHER on 2025-04-06 17:32
-- Location: New York Post
-- Description: A street thief caught on CCTV using bizarre dance moves to pickpocket his victims has been jailed.
+### OTHER on 2025-04-07 00:45
+- Location: Freerepublic.com
+- Description: Andry Hernandez Romero, a gay makeup artist who came to the United States last year in search of asylum, is one of 238 Venezuelan migrants who were flown from the U.S. to a maximum security prison in El Salvador three weeks ago. President Trump, who campaigne…
 
-Analysis generated at: Mon Apr  7 18:18:55 UTC 2025
+Analysis generated at: Tue Apr  8 01:03:38 UTC 2025
