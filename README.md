@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Apr  8 12:26:52 UTC 2025
+Last updated: Tue Apr  8 12:44:39 UTC 2025
 
 ## Latest Analysis
 
-Loaded 24887 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-07 12:23:00
+Loaded 24888 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-07 12:31:16
 
 Incidents by source:
 source
-newsapi           24786
+newsapi           24787
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -23,6 +23,16 @@ bution.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### HOMICIDE on 2025-04-07 12:31
+- Location: Spacewar.com
+- Description: Kyiv, Ukraine (AFP) April 4, 2025
+
+
+ A Russian ballistic missile strike on Ukrainian President Volodymyr Zelensky's home city of Kryvyi Rig killed 16 people on Friday, six of them children, authorities said. 
+
+The missile struck a residential area near a chil…
+
 
 ### OTHER on 2025-04-07 12:23
 - Location: Sky.com
@@ -43,9 +53,4 @@ bution.svg)
 - Location: NBC News
 - Description: Lori Vallow Daybell, the "doomsday mom" who received multiple life sentences for the murders of her two children and romantic rival, will be back in court on Monday for opening statements in a separate trial over the death of her fourth husband.
 
-
-### HOMICIDE on 2025-04-07 12:05
-- Location: Fox News
-- Description: An online fundraiser to support Karmelo Anthony, accused of killing Frisco, Texas high school track star Austin Metcalf, continues to gain traction as Anthony is held without bond in the Collins County Jail.
-
-Analysis generated at: Tue Apr  8 12:26:52 UTC 2025
+Analysis generated at: Tue Apr  8 12:44:39 UTC 2025
