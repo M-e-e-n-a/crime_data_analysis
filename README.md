@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Apr  9 01:03:49 UTC 2025
+Last updated: Wed Apr  9 01:46:21 UTC 2025
 
 ## Latest Analysis
 
-Loaded 24984 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-08 01:00:00
+Loaded 24990 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-08 01:39:47
 
 Incidents by source:
 source
-newsapi           24883
+newsapi           24889
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2025-04-08 01:00
-- Location: Thehillstimes.in
-- Description: IMPHAL, April 7: The Liangmai Naga Katimai Ruangdi, Manipur (LNKR) strongly condemned the “heinous incident” that occurred on April 5, 2025, at around 11:45 am. The attack was allegedly carried out by individuals identified as Thangnaimang Veiphei, chief of L…
+### HOMICIDE on 2025-04-08 01:39
+- Location: The Punch
+- Description: A 35-year-old man, Gaddafi Isah, and Badamasi Isah, aged 30, have been beaten to death by a mob over the suspected theft of livestock at Katsayal village in the Sandamu Local Government Area of Katsina State. A counter-insurgency expert focused on the Lake Ch…
 
 
-### OTHER on 2025-04-08 00:40
-- Location: Thehillstimes.in
-- Description: AIZAWL, April 7: Financial frauds were the most common cybercrime in Mizoram, accounting for 56.38 per cent of 321 cases registered between January 2020 and March 11 this year, as per official data. A total of 181 cases of financial crimes, primarily online b…
+### ASSAULT on 2025-04-08 01:25
+- Location: The Jerusalem Post
+- Description: A CNN investigation has revealed that Iran is allegedly using criminal gangs in Sweden to target Israeli and Jewish interests, with concerns over recruitment of minors.
 
 
-### HOMICIDE on 2025-04-08 00:30
-- Location: Thoughtcatalog.com
-- Description: Five boys went into the water, one came back.
+### HOMICIDE on 2025-04-08 01:24
+- Location: The Punch
+- Description: The Lagos State police command, on Monday, reported incidences of murder in the Ojo, Agege and Ikotun areas of the state. Addressing journalists at the command headquarters, the Police Public Relations Officer, Benjamin Hundeyin, said it has arrested a man id…
 
 
-### HOMICIDE on 2025-04-08 00:13
-- Location: ABC News
-- Description: Oscar Omar Hernandez was reported missing by his family on March 30 after he "failed to return home from visiting an acquaintance in Lancaster," Los Angeles police said.
+### SHOOTING on 2025-04-08 01:21
+- Location: Freerepublic.com
+- Description: SHREVEPORT, La. (KSLA) - The Shreveport Police Department has arrested two women for allegedly shooting at each other during an argument. Police say around 7 a.m. on March 29, officers got multiple calls about some kind of dispute happening at an apartment co…
 
 
-### ROBBERY/THEFT on 2025-04-07 18:15
-- Location: Lithub.com
-- Description: You’ve probably already heard the news: Mr. Beast, the YouTuber your cousins are obsessed with, and James Patterson, the novelist your uncles are obsessed with, have finally teamed up to write a book together. The thriller is Mr. Beast’s first book, but Patte…
+### ASSAULT on 2025-04-08 01:10
+- Location: The Punch
+- Description: Police operatives on Monday disrupted the protest organised by the Take-It-Back Movement over the proclamation of a state of emergency in Rivers State, the alleged misuse of the Cyber Crime Act and the hardships in the country. The attack on the protesters tr…
 
-Analysis generated at: Wed Apr  9 01:03:49 UTC 2025
+Analysis generated at: Wed Apr  9 01:46:21 UTC 2025
