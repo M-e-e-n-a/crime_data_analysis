@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Apr  9 01:46:21 UTC 2025
+Last updated: Wed Apr  9 06:19:46 UTC 2025
 
 ## Latest Analysis
 
-Loaded 24990 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-08 01:39:47
+Loaded 25023 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-08 06:19:02
 
 Incidents by source:
 source
-newsapi           24889
+newsapi           24922
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-04-08 01:39
+### OTHER on 2025-04-08 06:19
+- Location: The Local Germany
+- Description: Police uncover van full of zebras and monkeys crossing the Dutch border, Duisburg schools reopen after email threats, DAX plunge descibed as a "wake up call" on US tariffs, and more news from around Germany on Tuesday.
+
+
+### OTHER on 2025-04-08 06:15
+- Location: Khabarhub.com
+- Description: SIRAHA: A 13-year-old girl, Gulsana Khatun of Golbazar Municipality-9, Gobindapur, has died after falling into an electric trap allegedly set to protect a maize field from wild animals. Police have arrested Bir Bahadur Sarki, 24, in connection with the incide…
+
+
+### HOMICIDE on 2025-04-08 06:13
+- Location: CBS News
+- Description: Mario Edgardo Garcia-Aquino, 43, has been charged with murder in connection to the death of Oscar Omar Hernandez​, the 13-year-old missing boy who was found dead in Oxnard last week.
+
+
+### OTHER on 2025-04-08 06:08
+- Location: The Times of India
+- Description: The Bombay High Court has issued a notice to Mumbai police and Shiv Sena MLA Murji Patel regarding Kunal Kamra's plea challenging an FIR against him. Kamra is accused of calling Deputy CM Eknath Shinde a "gaddar" (traitor) during a stand-up performance. The c…
+
+
+### ROBBERY/THEFT on 2025-04-08 06:01
 - Location: The Punch
-- Description: A 35-year-old man, Gaddafi Isah, and Badamasi Isah, aged 30, have been beaten to death by a mob over the suspected theft of livestock at Katsayal village in the Sandamu Local Government Area of Katsina State. A counter-insurgency expert focused on the Lake Ch…
+- Description: Operatives of Bauchi State Police Command have arrested two suspects for criminal conspiracy and theft of a car. This was disclosed in a press release issued by the command’s Police Public Relations Officer, Ahmed Wakil, on Tuesday. The statement read, “On 29…
 
-
-### ASSAULT on 2025-04-08 01:25
-- Location: The Jerusalem Post
-- Description: A CNN investigation has revealed that Iran is allegedly using criminal gangs in Sweden to target Israeli and Jewish interests, with concerns over recruitment of minors.
-
-
-### HOMICIDE on 2025-04-08 01:24
-- Location: The Punch
-- Description: The Lagos State police command, on Monday, reported incidences of murder in the Ojo, Agege and Ikotun areas of the state. Addressing journalists at the command headquarters, the Police Public Relations Officer, Benjamin Hundeyin, said it has arrested a man id…
-
-
-### SHOOTING on 2025-04-08 01:21
-- Location: Freerepublic.com
-- Description: SHREVEPORT, La. (KSLA) - The Shreveport Police Department has arrested two women for allegedly shooting at each other during an argument. Police say around 7 a.m. on March 29, officers got multiple calls about some kind of dispute happening at an apartment co…
-
-
-### ASSAULT on 2025-04-08 01:10
-- Location: The Punch
-- Description: Police operatives on Monday disrupted the protest organised by the Take-It-Back Movement over the proclamation of a state of emergency in Rivers State, the alleged misuse of the Cyber Crime Act and the hardships in the country. The attack on the protesters tr…
-
-Analysis generated at: Wed Apr  9 01:46:21 UTC 2025
+Analysis generated at: Wed Apr  9 06:19:46 UTC 2025
