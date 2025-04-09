@@ -1,10 +1,10 @@
 
-Loaded 24980 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-07 18:15:00
+Loaded 24984 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-08 01:00:00
 
 Incidents by source:
 source
-newsapi           24879
+newsapi           24883
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
+### ASSAULT on 2025-04-08 01:00
+- Location: Thehillstimes.in
+- Description: IMPHAL, April 7: The Liangmai Naga Katimai Ruangdi, Manipur (LNKR) strongly condemned the “heinous incident” that occurred on April 5, 2025, at around 11:45 am. The attack was allegedly carried out by individuals identified as Thangnaimang Veiphei, chief of L…
+
+
+### OTHER on 2025-04-08 00:40
+- Location: Thehillstimes.in
+- Description: AIZAWL, April 7: Financial frauds were the most common cybercrime in Mizoram, accounting for 56.38 per cent of 321 cases registered between January 2020 and March 11 this year, as per official data. A total of 181 cases of financial crimes, primarily online b…
+
+
+### HOMICIDE on 2025-04-08 00:30
+- Location: Thoughtcatalog.com
+- Description: Five boys went into the water, one came back.
+
+
+### HOMICIDE on 2025-04-08 00:13
+- Location: ABC News
+- Description: Oscar Omar Hernandez was reported missing by his family on March 30 after he "failed to return home from visiting an acquaintance in Lancaster," Los Angeles police said.
+
+
 ### ROBBERY/THEFT on 2025-04-07 18:15
 - Location: Lithub.com
 - Description: You’ve probably already heard the news: Mr. Beast, the YouTuber your cousins are obsessed with, and James Patterson, the novelist your uncles are obsessed with, have finally teamed up to write a book together. The thriller is Mr. Beast’s first book, but Patte…
 
-
-### HOMICIDE on 2025-04-07 18:14
-- Location: The Irish Times
-- Description: British government begins public inquiry into killings that sparked 2024 summer riots
-
-
-### OTHER on 2025-04-07 18:13
-- Location: Theregister.com
-- Description: Crummy OPSEC leads to potentially decades in prison
-Noah Michael Urban, 20, of alleged Scattered Spider infamy, has pleaded guilty to various charges and potentially faces decades in prison.…
-
-
-### ASSAULT on 2025-04-07 18:12
-- Location: New York Post
-- Description: The 30-year-old victim was waiting for a northbound F train at the Rutgers Street and East Broadway station on the Lower East Side around 2:30 a.m. when the stranger came up behind her and tried to strike up a conversation in Spanish, cops and sources said.
-
-
-### HOMICIDE on 2025-04-07 18:12
-- Location: International Business Times
-- Description: American-Palestinian Muhammad Rabee feels abandoned by the United States, he told AFP on Monday, a day after Israeli forces killed his 14-year-old son during a family visit in the occupied West Bank.
-
-Analysis generated at: Tue Apr  8 18:18:22 UTC 2025
+Analysis generated at: Wed Apr  9 01:03:49 UTC 2025
