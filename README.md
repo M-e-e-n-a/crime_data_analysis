@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Apr  9 06:19:46 UTC 2025
+Last updated: Wed Apr  9 12:26:41 UTC 2025
 
 ## Latest Analysis
 
-Loaded 25023 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-08 06:19:02
+Loaded 25083 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-08 12:17:43
 
 Incidents by source:
 source
-newsapi           24922
+newsapi           24982
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-04-08 06:19
-- Location: The Local Germany
-- Description: Police uncover van full of zebras and monkeys crossing the Dutch border, Duisburg schools reopen after email threats, DAX plunge descibed as a "wake up call" on US tariffs, and more news from around Germany on Tuesday.
+### OTHER on 2025-04-08 12:17
+- Location: Newsweek
+- Description: Prominent academic Paul Chambers faces charges in Thailand that could lead to up to 15 years in jail
 
 
-### OTHER on 2025-04-08 06:15
-- Location: Khabarhub.com
-- Description: SIRAHA: A 13-year-old girl, Gulsana Khatun of Golbazar Municipality-9, Gobindapur, has died after falling into an electric trap allegedly set to protect a maize field from wild animals. Police have arrested Bir Bahadur Sarki, 24, in connection with the incide…
+### OTHER on 2025-04-08 12:00
+- Location: Screen Rant
+- Description: It's been a while since Benson and Stabler were seen together, but with a new showrunner for season 27 of SVU, the pair can finally get romantic.
 
 
-### HOMICIDE on 2025-04-08 06:13
-- Location: CBS News
-- Description: Mario Edgardo Garcia-Aquino, 43, has been charged with murder in connection to the death of Oscar Omar Hernandez​, the 13-year-old missing boy who was found dead in Oxnard last week.
+### OTHER on 2025-04-08 12:00
+- Location: YES! Magazine
+- Description: When people's needs are met, there is less violence—and less need for policing and prisons.
 
 
-### OTHER on 2025-04-08 06:08
-- Location: The Times of India
-- Description: The Bombay High Court has issued a notice to Mumbai police and Shiv Sena MLA Murji Patel regarding Kunal Kamra's plea challenging an FIR against him. Kamra is accused of calling Deputy CM Eknath Shinde a "gaddar" (traitor) during a stand-up performance. The c…
+### OTHER on 2025-04-08 12:00
+- Location: The New York Review of Books
+- Description: What happens when editors become the subject of satire? Zakiya Dalila Harris, who began her career as an assistant editor at Knopf Doubleday, is the author of the 2021 novel The Other Black Girl, a work of speculative fiction whose protagonist, Nella, is the …
 
 
-### ROBBERY/THEFT on 2025-04-08 06:01
-- Location: The Punch
-- Description: Operatives of Bauchi State Police Command have arrested two suspects for criminal conspiracy and theft of a car. This was disclosed in a press release issued by the command’s Police Public Relations Officer, Ahmed Wakil, on Tuesday. The statement read, “On 29…
+### HOMICIDE on 2025-04-08 11:45
+- Location: Mediatakeout.com
+- Description: Tay-K is currently on trial for capital murder, and in court this week, his ex-girlfriend testified that he was the shooter in the killing of San Antonio photographer Mark Anthony Saldivar. Joanna Reyes told authorities she picked up the rapper and a few othe…
 
-Analysis generated at: Wed Apr  9 06:19:46 UTC 2025
+Analysis generated at: Wed Apr  9 12:26:41 UTC 2025
