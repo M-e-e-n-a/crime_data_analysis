@@ -1,10 +1,10 @@
 
-Loaded 25083 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-08 12:17:43
+Loaded 25085 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-08 12:34:00
 
 Incidents by source:
 source
-newsapi           24982
+newsapi           24984
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,6 +20,16 @@ bution.svg)
 
 ## Recent Incidents
 
+### OTHER on 2025-04-08 12:34
+- Location: Setopati.com
+- Description: In some incidents, there are many questions, but not a single answer.
+
+
+### OTHER on 2025-04-08 12:33
+- Location: Mother Jones
+- Description: The below article first appeared in David Corn’s newsletter, Our Land. The newsletter comes out twice a week (most of the time) and provides behind-the-scenes stories and articles about politics, media, and culture. Subscribing costs just $5 a month—but you c…
+
+
 ### OTHER on 2025-04-08 12:17
 - Location: Newsweek
 - Description: Prominent academic Paul Chambers faces charges in Thailand that could lead to up to 15 years in jail
@@ -34,14 +44,4 @@ bution.svg)
 - Location: YES! Magazine
 - Description: When people's needs are met, there is less violence—and less need for policing and prisons.
 
-
-### OTHER on 2025-04-08 12:00
-- Location: The New York Review of Books
-- Description: What happens when editors become the subject of satire? Zakiya Dalila Harris, who began her career as an assistant editor at Knopf Doubleday, is the author of the 2021 novel The Other Black Girl, a work of speculative fiction whose protagonist, Nella, is the …
-
-
-### HOMICIDE on 2025-04-08 11:45
-- Location: Mediatakeout.com
-- Description: Tay-K is currently on trial for capital murder, and in court this week, his ex-girlfriend testified that he was the shooter in the killing of San Antonio photographer Mark Anthony Saldivar. Joanna Reyes told authorities she picked up the rapper and a few othe…
-
-Analysis generated at: Wed Apr  9 12:26:41 UTC 2025
+Analysis generated at: Wed Apr  9 12:45:04 UTC 2025
