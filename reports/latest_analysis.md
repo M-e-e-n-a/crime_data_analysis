@@ -1,10 +1,10 @@
 
-Loaded 25189 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-09 01:00:00
+Loaded 25194 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-09 01:43:49
 
 Incidents by source:
 source
-newsapi           25088
+newsapi           25093
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-04-09 01:00
-- Location: Slashdot.org
-- Description: New submitter toutankh writes: The UK government is developing a tool to predict murder. The scheme was originally called the "homicide prediction project", but its name has been changed to "sharing data to improve risk assessment". The Ministry of Justice ho…
+### HOMICIDE on 2025-04-09 01:43
+- Location: The Diplomat
+- Description: The mysterious deaths of two Gujjar men add to previous allegations of torture, abuse, and even murder at the hands of the police in Kashmir.
 
 
-### OTHER on 2025-04-09 00:56
-- Location: STLtoday.com
-- Description: Anne Schweitzer, Shane Cohn, Alisha Sonnier and Laura Keys all led their opponents in initial returns from absentee votes.
+### HOMICIDE on 2025-04-09 01:40
+- Location: Digital Trends
+- Description: In echoes of Minority Report, the British government is working on a “murder prediction” tool aimed at identifying individuals who are most likely to become killers, the Guardian reported this week. The project — originally called the “homicide prediction pro…
 
 
-### HOMICIDE on 2025-04-09 00:53
-- Location: Fox News
-- Description: DHS Secretary Kristi Noem joined ICE and other law enforcement agents in Arizona during operations Tuesday, targeting illegal immigrants wanted for murder and human trafficking.
+### OTHER on 2025-04-09 01:34
+- Location: The Jerusalem Post
+- Description: What both films lack is empathy. They depict the conflict as a zero-sum game, in which talking about the other side’s pain is conceding the argument, the author writes.
 
 
-### HOMICIDE on 2025-04-09 00:46
-- Location: NBC News
-- Description: Three people were killed and three others injured in a mass shooting in Spotsylvania County, Virginia, about 60 miles south of the District of Columbia, a sheriff said Tuesday night.
+### HOMICIDE on 2025-04-09 01:30
+- Location: KPTV.com
+- Description: James Smith was found guilty except for insanity on Tuesday for the 2023 fatal stabbing of 26-year-old Cascadia Health employee Haley Rogers.
 
 
-### HOMICIDE on 2025-04-09 00:39
-- Location: ABC News
-- Description: Congo says three Americans convicted of participating in a botched coup attempt last year have been repatriated to the United States
+### HOMICIDE on 2025-04-09 01:16
+- Location: The Punch
+- Description: The Ondo Police command said it has commenced a manhunt for those behind the murder of the Chief Executive Officer of Klass Five Hotel, Adesoji Adeleye. Adeleye was stabbed to death in the early hours of Tuesday, in one of the rooms of the hotel located in th…
 
-Analysis generated at: Thu Apr 10 01:03:51 UTC 2025
+Analysis generated at: Thu Apr 10 01:46:19 UTC 2025
