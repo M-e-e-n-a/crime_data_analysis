@@ -1,10 +1,10 @@
 
-Loaded 25310 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-09 12:43:32
+Loaded 25405 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-09 18:17:17
 
 Incidents by source:
 source
-newsapi           25209
+newsapi           25304
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### DRUG RELATED on 2025-04-09 12:43
-- Location: FOX 2 Detroit
-- Description: Four months after getting pulled over because of his tinted windows, Detroit rapper Sada Baby is now in jail on drug charges from that traffic stop.
+### OTHER on 2025-04-09 18:17
+- Location: The Federalist
+- Description: None of the evidence released so far indicates that Metcalf attempted to use illegal force against Anthony.
 
 
-### OTHER on 2025-04-09 12:42
-- Location: Bangkok Post
-- Description: <p>A TV actress and another woman who fell victim to an alleged <strong>conman</strong> claiming to be a wealthy high-society figure with political connections have submitted evidence of the deception to police in Bangkok.</p>
+### OTHER on 2025-04-09 18:09
+- Location: CBS News
+- Description: The first firing squad execution in over 15 years was carried out last month. It provides a glimpse into how such executions may go.
 
 
-### HOMICIDE on 2025-04-09 12:41
-- Location: Freerepublic.com
-- Description: Police sources say a youth soccer coach accused of killing a teenage victim in Lancaster, California, on March 28 is an illegal alien. The suspect in the case is identified as 43-year-old Mario Edgardo Garcia-Aquino, and the victim is identified as 13-year-ol…
+### OTHER on 2025-04-09 18:06
+- Location: Fox News
+- Description: The Eric Adams administration is permitting ICE to return to Rikers Island to help carry out criminal investigations into organized violence and migrant gangs like MS-13 and Tren de Aragua.
 
 
-### HOMICIDE on 2025-04-09 12:36
-- Location: New York Post
-- Description: The three will serve out their sentences in the U.S. following the repatriation done in collaboration with the U.S. Embassy.
+### HOMICIDE on 2025-04-09 18:00
+- Location: STLtoday.com
+- Description: Leroy McCauley faces first-degree murder and armed criminal action charges. He was in jail Wednesday on a $1 million bond.
 
 
-### OTHER on 2025-04-09 12:35
-- Location: Securityaffairs.com
-- Description: The US Office of the Comptroller of the Currency (OCC) disclosed a major email breach compromising 100 accounts, undetected for over a year. The US Treasury’s Office of the Comptroller of the Currency (OCC) disclosed an undetected major email breach for over …
+### OTHER on 2025-04-09 17:53
+- Location: CNN
+- Description: An increasing number of student deportation threats involve the revocation of visas based on relatively minor offenses like years-old misdemeanors, according to immigration attorneys, or sometimes no reason at all.
 
-Analysis generated at: Thu Apr 10 12:45:04 UTC 2025
+Analysis generated at: Thu Apr 10 18:18:24 UTC 2025
