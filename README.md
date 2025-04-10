@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Apr 10 01:46:19 UTC 2025
+Last updated: Thu Apr 10 06:19:58 UTC 2025
 
 ## Latest Analysis
 
-Loaded 25194 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-09 01:43:49
+Loaded 25222 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-09 06:00:21
 
 Incidents by source:
 source
-newsapi           25093
+newsapi           25121
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-04-09 01:43
-- Location: The Diplomat
-- Description: The mysterious deaths of two Gujjar men add to previous allegations of torture, abuse, and even murder at the hands of the police in Kashmir.
+### OTHER on 2025-04-09 06:00
+- Location: Smallwarsjournal.com
+- Description: Introduction As the Malayan Emergency (1948-1960) was ongoing, a number of military memoirs were published which gave some insight into its prosecution on the ground. These included Anthony Crockett, Green Beret, Red Star (1954); M.C.A. Henniker, Red Shadow O…
 
 
-### HOMICIDE on 2025-04-09 01:40
-- Location: Digital Trends
-- Description: In echoes of Minority Report, the British government is working on a “murder prediction” tool aimed at identifying individuals who are most likely to become killers, the Guardian reported this week. The project — originally called the “homicide prediction pro…
+### SHOOTING on 2025-04-09 06:00
+- Location: Naturalnews.com
+- Description: On March 2, 2024, Miami Beach Officer Shenaqua Stringer mistakenly shot fellow Officer Fabio Bolanos during an encounter with an unarmed man holding a lighter (misidentified as a gun), reigniting debates over police training and judgment. Despite the severity…
 
 
-### OTHER on 2025-04-09 01:34
-- Location: The Jerusalem Post
-- Description: What both films lack is empathy. They depict the conflict as a zero-sum game, in which talking about the other side’s pain is conceding the argument, the author writes.
+### OTHER on 2025-04-09 05:52
+- Location: New York Post
+- Description: This isn’t Gonzalez’s first run-in with police.
 
 
-### HOMICIDE on 2025-04-09 01:30
-- Location: KPTV.com
-- Description: James Smith was found guilty except for insanity on Tuesday for the 2023 fatal stabbing of 26-year-old Cascadia Health employee Haley Rogers.
+### OTHER on 2025-04-09 05:50
+- Location: ABC News
+- Description: Gov. Michelle Lujan Grisham has declared a state of emergency in New Mexico's largest city, saying that a significant increase in crime in Albuquerque warrants the help of the New Mexico National Guard
 
 
-### HOMICIDE on 2025-04-09 01:16
-- Location: The Punch
-- Description: The Ondo Police command said it has commenced a manhunt for those behind the murder of the Chief Executive Officer of Klass Five Hotel, Adesoji Adeleye. Adeleye was stabbed to death in the early hours of Tuesday, in one of the rooms of the hotel located in th…
+### OTHER on 2025-04-09 05:43
+- Location: The Local Sweden
+- Description: Sweden wins exemption from EU retaliatory tariffs, Left Party MP reported for hate speech, and other news from Sweden on Wednesday.
 
-Analysis generated at: Thu Apr 10 01:46:19 UTC 2025
+Analysis generated at: Thu Apr 10 06:19:58 UTC 2025
