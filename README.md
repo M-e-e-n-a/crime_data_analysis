@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Apr 10 12:26:51 UTC 2025
+Last updated: Thu Apr 10 12:45:04 UTC 2025
 
 ## Latest Analysis
 
-Loaded 25303 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-09 12:21:32
+Loaded 25310 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-09 12:43:32
 
 Incidents by source:
 source
-newsapi           25202
+newsapi           25209
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-04-09 12:21
-- Location: Mediatakeout.com
-- Description: Rapper Slim Thug has revealed that his aparment in Houston, Texas was broken into and burglarized while he was in San Antonio watching the University of Houston Cougars take on the Florida Gators for the National Championship. The Cougars took a loss, and whe…
+### DRUG RELATED on 2025-04-09 12:43
+- Location: FOX 2 Detroit
+- Description: Four months after getting pulled over because of his tinted windows, Detroit rapper Sada Baby is now in jail on drug charges from that traffic stop.
 
 
-### OTHER on 2025-04-09 12:20
-- Location: Twistedsifter.com
-- Description: With the right connections, getting revenge on another person is a lot easier!
+### OTHER on 2025-04-09 12:42
+- Location: Bangkok Post
+- Description: <p>A TV actress and another woman who fell victim to an alleged <strong>conman</strong> claiming to be a wealthy high-society figure with political connections have submitted evidence of the deception to police in Bangkok.</p>
 
 
-### OTHER on 2025-04-09 12:20
-- Location: Al Jazeera English
-- Description: Paul Chambers faces up to 15 years in jail in a rare case of Thailand's strict lese-majeste law applied to a foreigner.
+### HOMICIDE on 2025-04-09 12:41
+- Location: Freerepublic.com
+- Description: Police sources say a youth soccer coach accused of killing a teenage victim in Lancaster, California, on March 28 is an illegal alien. The suspect in the case is identified as 43-year-old Mario Edgardo Garcia-Aquino, and the victim is identified as 13-year-ol…
 
 
-### HOMICIDE on 2025-04-09 12:18
-- Location: NBC News
-- Description: With the trial against the man accused of murdering four University of Idaho students four months away, a judge is set to hear arguments Wednesday over key court motions that will shape the proceedings and potentially take the death penalty off the table.
+### HOMICIDE on 2025-04-09 12:36
+- Location: New York Post
+- Description: The three will serve out their sentences in the U.S. following the repatriation done in collaboration with the U.S. Embassy.
 
 
-### OTHER on 2025-04-09 12:16
-- Location: DW (English)
-- Description: Elon Musk's AI tool is making waves in India by giving what appear to be unusually candid responses on touchy subjects. DW had a chat with Grok about the country's democracy, free speech and youth. AI chatbot Grok is growing increasingly popular among Indian …
+### OTHER on 2025-04-09 12:35
+- Location: Securityaffairs.com
+- Description: The US Office of the Comptroller of the Currency (OCC) disclosed a major email breach compromising 100 accounts, undetected for over a year. The US Treasury’s Office of the Comptroller of the Currency (OCC) disclosed an undetected major email breach for over …
 
-Analysis generated at: Thu Apr 10 12:26:50 UTC 2025
+Analysis generated at: Thu Apr 10 12:45:04 UTC 2025
