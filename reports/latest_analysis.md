@@ -1,10 +1,10 @@
 
-Loaded 25479 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-10 06:07:09
+Loaded 25567 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-10 12:23:32
 
 Incidents by source:
 source
-newsapi           25378
+newsapi           25466
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### DRUG RELATED on 2025-04-10 06:07
-- Location: Globalsecurity.org
-- Description: Today, the U.S. Department of the Treasury's Office of Foreign Assets Control (OFAC) sanctioned Mexican national Jesus Alfredo Beltran Guzman, a key leader of the Beltran Leyva Organization (BLO),forplaying a significant role in the trafficking of illicit dru…
+### OTHER on 2025-04-10 12:23
+- Location: FOX 2 Detroit
+- Description: A Detroit woman is now facing charges after police say she stabbed her dog, allegedly posted a video of the injured animal on social media, and then fled the state.
 
 
-### ASSAULT on 2025-04-10 06:07
-- Location: Globalsecurity.org
-- Description: A criminal complaint was unsealed today in the District of Utah charging Marcel Malanga, 22, Tyler Thompson, 22, Benjamin Zalman-Polun, 37, and Joseph Peter Moesser, 67, all U.S. citizens, with conspiring to provide material support and resources, conspiracy …
+### HOMICIDE on 2025-04-10 12:14
+- Location: BBC News
+- Description: A 13-year-old girl is being held in youth detention after being charged with murder.
 
 
-### OTHER on 2025-04-10 06:00
-- Location: TheJournal.ie
-- Description: On the anniversary of the Good Friday Agreement, Emma DeSouza says we cannot continue to celebrate its success while bereaved families are denied justice.
+### HOMICIDE on 2025-04-10 12:08
+- Location: Newser
+- Description: A bestselling author who is also the wife of a member of the rock band Weezer was shot by police on Tuesday and has since been arrested for attempted murder. Los Angeles police had responded to a hit-and-run incident before pursuing three suspects into a resi…
 
 
-### OTHER on 2025-04-10 06:00
-- Location: Naturalnews.com
-- Description: Ryan Wesley Routh, accused of attempting to assassinate Donald Trump, allegedly sought military-grade weapons—including a rocket launcher — from a Ukrainian contact in August 2024, one month before his arrest. His encrypted messages revealed intent to stop Tr…
+### HOMICIDE on 2025-04-10 12:05
+- Location: Thefutoncritic.com
+- Description: The film is based on the true story of Heather Robinson who was abducted as a baby and raised by the family of a serial killer who was convicted of murdering her mother.
 
 
-### OTHER on 2025-04-10 06:00
-- Location: Naturalnews.com
-- Description: The Israeli army has executed 15 Palestinian medics in Gaza, buried them and lied about them being “terrorists.” For those paying attention, this barbarism is not new, only the latest war crime committed by Israel in a litany of war crimes over the decades. (…
+### OTHER on 2025-04-10 12:00
+- Location: CBC News
+- Description: Organizations speaking for Alberta sheriffs say they see hurdles and have unanswered questions about how 600 in their ranks could become provincial police officers.
 
-Analysis generated at: Fri Apr 11 06:19:31 UTC 2025
+Analysis generated at: Fri Apr 11 12:26:37 UTC 2025
