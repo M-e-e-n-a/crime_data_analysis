@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Apr 10 18:18:24 UTC 2025
+Last updated: Fri Apr 11 01:04:11 UTC 2025
 
 ## Latest Analysis
 
-Loaded 25405 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-09 18:17:17
+Loaded 25429 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-10 01:02:59
 
 Incidents by source:
 source
-newsapi           25304
+newsapi           25328
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-04-09 18:17
-- Location: The Federalist
-- Description: None of the evidence released so far indicates that Metcalf attempted to use illegal force against Anthony.
+### HOMICIDE on 2025-04-10 01:02
+- Location: Variety
+- Description: Jillian Shriner, the wife of Weezer bassist Scott Shriner, was shot by LAPD and arrested Tuesday for attempted murder during a search for a hit-and-run suspect. While searching a home in the Eagle Rock neighborhood of Los Angeles on Tuesday afternoon for a hi…
 
 
-### OTHER on 2025-04-09 18:09
-- Location: CBS News
-- Description: The first firing squad execution in over 15 years was carried out last month. It provides a glimpse into how such executions may go.
+### OTHER on 2025-04-10 01:00
+- Location: Screen Rant
+- Description: While the Cliffhanger reboot has faced issues with Sylvester Stallone no longer involved, this thriller from the same director is cause for optimism.
 
 
-### OTHER on 2025-04-09 18:06
-- Location: Fox News
-- Description: The Eric Adams administration is permitting ICE to return to Rikers Island to help carry out criminal investigations into organized violence and migrant gangs like MS-13 and Tren de Aragua.
+### OTHER on 2025-04-10 00:49
+- Location: NBC News
+- Description: A judge has dismissed conspiracy and kidnapping charges against five Massachusetts college students who were accused of plotting to lure a man to their campus through a dating app and then seizing him as part of a trend on social media.
 
 
-### HOMICIDE on 2025-04-09 18:00
-- Location: STLtoday.com
-- Description: Leroy McCauley faces first-degree murder and armed criminal action charges. He was in jail Wednesday on a $1 million bond.
+### OTHER on 2025-04-10 00:45
+- Location: Freerepublic.com
+- Description: A state of emergency has been declared in New Mexico's largest city, as the governor calls in the National Guard to help combat out of control crime.
 
 
-### OTHER on 2025-04-09 17:53
-- Location: CNN
-- Description: An increasing number of student deportation threats involve the revocation of visas based on relatively minor offenses like years-old misdemeanors, according to immigration attorneys, or sometimes no reason at all.
+### OTHER on 2025-04-10 00:43
+- Location: New York Post
+- Description: Alexander Leatham, a 29-year-old transgender woman, was attending a hearing in Solano County when she launched into the paranoia-fueled rant.
 
-Analysis generated at: Thu Apr 10 18:18:24 UTC 2025
+Analysis generated at: Fri Apr 11 01:04:11 UTC 2025
