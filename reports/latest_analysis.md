@@ -1,10 +1,10 @@
 
-Loaded 25437 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-10 01:34:12
+Loaded 25479 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-10 06:07:09
 
 Incidents by source:
 source
-newsapi           25336
+newsapi           25378
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-04-10 01:34
-- Location: CNN
-- Description: Jillian Shriner, an author and the wife of Weezer bassist Scott Shriner, was involved in a situation with police that resulted in her being shot by law enforcement and subsequently arrested on suspicion of attempted murder, according to the Los Angeles Police…
+### DRUG RELATED on 2025-04-10 06:07
+- Location: Globalsecurity.org
+- Description: Today, the U.S. Department of the Treasury's Office of Foreign Assets Control (OFAC) sanctioned Mexican national Jesus Alfredo Beltran Guzman, a key leader of the Beltran Leyva Organization (BLO),forplaying a significant role in the trafficking of illicit dru…
 
 
-### HOMICIDE on 2025-04-10 01:34
-- Location: Freerepublic.com
-- Description: Arrested by US Marshals on June 7, 2022, outside the home of a Maryland Supreme Court judge.Excerpt: "Roske then stated that he was upset about a recently leaked Supreme Court draft decision on abortion as well as the recent school shooting in Uvalde, Texas."…
+### ASSAULT on 2025-04-10 06:07
+- Location: Globalsecurity.org
+- Description: A criminal complaint was unsealed today in the District of Utah charging Marcel Malanga, 22, Tyler Thompson, 22, Benjamin Zalman-Polun, 37, and Joseph Peter Moesser, 67, all U.S. citizens, with conspiring to provide material support and resources, conspiracy …
 
 
-### OTHER on 2025-04-10 01:32
-- Location: CNN
-- Description: The Justice Department moved to drop charges Wednesday against a man they had alleged to be a “major leader” of the MS-13 gang just weeks after publicly lauding his arrest – a move his lawyer says is the first step towards immediately deporting him to El Salv…
+### OTHER on 2025-04-10 06:00
+- Location: TheJournal.ie
+- Description: On the anniversary of the Good Friday Agreement, Emma DeSouza says we cannot continue to celebrate its success while bereaved families are denied justice.
 
 
-### HOMICIDE on 2025-04-10 01:23
-- Location: Denvergazette.com
-- Description: In August of 2024, a respected Doberman breeder named Paul Peavey was found dead in a shallow grave in Colorado's Clear Creek County. Peavey had been shot multiple times, and
+### OTHER on 2025-04-10 06:00
+- Location: Naturalnews.com
+- Description: Ryan Wesley Routh, accused of attempting to assassinate Donald Trump, allegedly sought military-grade weapons—including a rocket launcher — from a Ukrainian contact in August 2024, one month before his arrest. His encrypted messages revealed intent to stop Tr…
 
 
-### ASSAULT on 2025-04-10 01:19
-- Location: Freerepublic.com
-- Description: Three defendants transferred from the DRC to the U.S. and one other arrested in Utah after Armed Coup Attack to overthrow the DRC governmentNote: View the criminal complaint.A criminal complaint was unsealed today in the District of Utah charging Marcel Malan…
+### OTHER on 2025-04-10 06:00
+- Location: Naturalnews.com
+- Description: The Israeli army has executed 15 Palestinian medics in Gaza, buried them and lied about them being “terrorists.” For those paying attention, this barbarism is not new, only the latest war crime committed by Israel in a litany of war crimes over the decades. (…
 
-Analysis generated at: Fri Apr 11 01:47:06 UTC 2025
+Analysis generated at: Fri Apr 11 06:19:31 UTC 2025
