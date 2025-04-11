@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Apr 11 12:26:37 UTC 2025
+Last updated: Fri Apr 11 12:43:13 UTC 2025
 
 ## Latest Analysis
 
-Loaded 25567 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-10 12:23:32
+Loaded 25568 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-10 12:27:53
 
 Incidents by source:
 source
-newsapi           25466
+newsapi           25467
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -23,6 +23,12 @@ bution.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### HOMICIDE on 2025-04-10 12:27
+- Location: The Hollywood Gossip
+- Description: Reading Time: 3 minutesJillian Shriner, the wife of Weezer bassist Scott Shriner, has reportedly been shot by police.
+Scott Shriner: Weezer Bassist’s Wife Shot By Cops, Charged With Attempted Murder was originally published on The Hollywood Gossip.
+
 
 ### OTHER on 2025-04-10 12:23
 - Location: FOX 2 Detroit
@@ -43,9 +49,4 @@ bution.svg)
 - Location: Thefutoncritic.com
 - Description: The film is based on the true story of Heather Robinson who was abducted as a baby and raised by the family of a serial killer who was convicted of murdering her mother.
 
-
-### OTHER on 2025-04-10 12:00
-- Location: CBC News
-- Description: Organizations speaking for Alberta sheriffs say they see hurdles and have unanswered questions about how 600 in their ranks could become provincial police officers.
-
-Analysis generated at: Fri Apr 11 12:26:37 UTC 2025
+Analysis generated at: Fri Apr 11 12:43:13 UTC 2025
