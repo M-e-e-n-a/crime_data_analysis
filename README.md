@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Apr 11 12:43:13 UTC 2025
+Last updated: Fri Apr 11 18:18:56 UTC 2025
 
 ## Latest Analysis
 
-Loaded 25568 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-10 12:27:53
+Loaded 25658 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-10 18:18:22
 
 Incidents by source:
 source
-newsapi           25467
+newsapi           25557
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-04-10 12:27
-- Location: The Hollywood Gossip
-- Description: Reading Time: 3 minutesJillian Shriner, the wife of Weezer bassist Scott Shriner, has reportedly been shot by police.
-Scott Shriner: Weezer Bassist’s Wife Shot By Cops, Charged With Attempted Murder was originally published on The Hollywood Gossip.
+### OTHER on 2025-04-10 18:18
+- Location: CBC News
+- Description: Prince Edward Island is projecting the largest budget deficit in its history for the 2025-2026 fiscal year, according to the province’s latest budget, tabled in the legislature Thursday by Finance Minister Jill Burridge.
 
 
-### OTHER on 2025-04-10 12:23
-- Location: FOX 2 Detroit
-- Description: A Detroit woman is now facing charges after police say she stabbed her dog, allegedly posted a video of the injured animal on social media, and then fled the state.
+### OTHER on 2025-04-10 18:17
+- Location: GameSpot
+- Description: Stephen King fans can get a terrific deal on his latest novel at Amazon. The hardcover edition of Never Flinch is available to preorder for $22.40 (was $32) ahead of its May 27 release. Never Flinch is King's first full-length novel since September 2023. Cons…
 
 
-### HOMICIDE on 2025-04-10 12:14
-- Location: BBC News
-- Description: A 13-year-old girl is being held in youth detention after being charged with murder.
+### HOMICIDE on 2025-04-10 18:16
+- Location: Consequence.net
+- Description: Jillian Lauren, wife of Weezer bassist Scott Shriner, was arrested after allegedly pointing a weapon at police offers who were pursing a suspect involved in a high-speed chase.
+Weezer Still Playing Coachella Despite Arrest of Bassist’s Wife for Attempted Murd…
 
 
-### HOMICIDE on 2025-04-10 12:08
-- Location: Newser
-- Description: A bestselling author who is also the wife of a member of the rock band Weezer was shot by police on Tuesday and has since been arrested for attempted murder. Los Angeles police had responded to a hit-and-run incident before pursuing three suspects into a resi…
+### SHOOTING on 2025-04-10 18:16
+- Location: Loudwire
+- Description: More details have emerged about the police shootout involving Jillian Lauren, wife of Weezer bassist Scott Shriner, that took place in April 2025.
 
 
-### HOMICIDE on 2025-04-10 12:05
-- Location: Thefutoncritic.com
-- Description: The film is based on the true story of Heather Robinson who was abducted as a baby and raised by the family of a serial killer who was convicted of murdering her mother.
+### OTHER on 2025-04-10 18:15
+- Location: New York Post
+- Description: Starting in the 1980s, New York law enforcement and health officials fielded sexual abuse complaints from the young patients of a respected pediatrician who ran his practice out of a basement office in his home on Long Island.
 
-Analysis generated at: Fri Apr 11 12:43:13 UTC 2025
+Analysis generated at: Fri Apr 11 18:18:56 UTC 2025
