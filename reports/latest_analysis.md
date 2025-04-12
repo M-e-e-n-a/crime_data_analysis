@@ -1,10 +1,10 @@
 
-Loaded 25722 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-11 06:00:00
+Loaded 25794 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-11 12:19:00
 
 Incidents by source:
 source
-newsapi           25621
+newsapi           25693
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2025-04-11 06:00
-- Location: New Zealand Herald
-- Description: Mark Wisniewski admitted to taking $62,600 from till cash over six years.
+### HOMICIDE on 2025-04-11 12:19
+- Location: Sky.com
+- Description: A woman who killed her terminally ill father has been spared prison after pleading guilty to manslaughter.
 
 
-### SHOOTING on 2025-04-11 05:59
-- Location: CounterPunch
-- Description: The contradictions of life in late-capitalist America under Trump: Most Americans want the return of manufacturing jobs to the US, as long as they don't have to work them. But they simultaneously support the mass deportation of those who are willing to work n…
+### SHOOTING on 2025-04-11 12:09
+- Location: WSB Atlanta
+- Description: Surveillance cameras recorded the home invasion suspects enter through a back patio door around 11 a.m. What they didn’t realize was that the homeowner was there.
 
 
-### ASSAULT on 2025-04-11 05:48
-- Location: CounterPunch
-- Description: One of the late Jacques Derrida’s most useful exercises in linguistic play was to hyphenate “represent.” The word that appears after the alteration, “re-present,” offers transformed definition and application. To re-present something, especially a memory, is …
+### OTHER on 2025-04-11 12:06
+- Location: Freerepublic.com
+- Description: By now, Americans have grown painfully familiar with the new breed of soft-on-crime, far-left attorneys general. They’re everywhere—installed in one liberal hellhole after another like little ticking time bombs, handpicked to do one thing: dismantle law and o…
 
 
-### OTHER on 2025-04-11 05:48
-- Location: CounterPunch
-- Description: The central slogan of our times should not be #handsoff but rather #handson, i.e. we need the democratic control of the economy, including firms, budgets, industrial policy and development. The wealth-generating power in the hands of oligarchs, super-wealthy …
+### OTHER on 2025-04-11 12:06
+- Location: Sky.com
+- Description: A fourth person has appeared in court accused of maliciously damaging a Scottish golf course owned by US President Donald Trump.
 
 
-### ASSAULT on 2025-04-11 05:37
-- Location: NDTV News
-- Description: Tahawwur Rana is accused of facilitating a fraudulent cover so that David Headley could freely travel to Mumbai to conduct surveillance of potential attack sites.
+### OTHER on 2025-04-11 12:00
+- Location: KQED
+- Description: KQED provides public radio, television, and independent reporting on issues that matter to the Bay Area. We’re the NPR and PBS member station for Northern California.
 
-Analysis generated at: Sat Apr 12 06:17:06 UTC 2025
+Analysis generated at: Sat Apr 12 12:22:57 UTC 2025
