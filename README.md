@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Apr 13 06:18:02 UTC 2025
+Last updated: Sun Apr 13 12:23:53 UTC 2025
 
 ## Latest Analysis
 
-Loaded 25930 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-12 06:16:44
+Loaded 25974 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-12 12:23:26
 
 Incidents by source:
 source
-newsapi           25829
+newsapi           25873
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-04-12 06:16
-- Location: Newsbreak.com
-- Description: The Biden administration engaged in a “cover-up" by failing to disclose details about the health of former President Joe Biden, the White House said Friday
+### SHOOTING on 2025-04-12 12:23
+- Location: WLWT Cincinnati
+- Description: A pastor was abducted by armed and masked men as he was preaching a sermon before a congregation in South Africa's Eastern Cape province, police said.
 
 
-### DRUG RELATED on 2025-04-12 06:12
-- Location: Globalsecurity.org
-- Description: Extensive coordination and cooperation between U.S. and Honduran law enforcement authorities resulted in the extradition of a Honduran national for his alleged role in a conspiracy to smuggle drugs from Honduras to the United States.
+### ROBBERY/THEFT on 2025-04-12 12:20
+- Location: Freerepublic.com
+- Description: Williams, was busted over a week after Buscemi's attack when he tried to report stolen property to the police, with an officer recognizing him. The police received a call from the superintendent of the homeless services building in Chelsea. They reported hara…
 
 
-### HOMICIDE on 2025-04-12 06:11
-- Location: Globalsecurity.org
-- Description: A federal grand jury in the Eastern District of Missouri returned an indictment on Wednesday charging Travis Santel Jones, 21, of St. Louis, Missouri, with one count of murder in aid of racketeering, RICO conspiracy, using a firearm during a crime of violence…
+### ROBBERY/THEFT on 2025-04-12 12:05
+- Location: The Star Online
+- Description: SEPANG: Three local men were arrested on suspicion of stealing KLIA Express and KLIA Transit Express Rail Link (ERL) service cables around Bandar Baru Salak Tinggi and Dengkil here. Read full story
 
 
-### ROBBERY/THEFT on 2025-04-12 06:06
-- Location: NDTV News
-- Description: The National Investigation Agency began interrogating Tahawwur Rana after it was granted 18-day custody of the 26/11 Mumbai terror attacks accused.
+### OTHER on 2025-04-12 12:00
+- Location: The Daily Caller
+- Description: The number of Americans beginning to question pro-Israel narratives is growing.
 
 
-### OTHER on 2025-04-12 05:38
-- Location: Gadgets360.com
-- Description: Agnyathavasi is heading for a theatrical release on April 11, 2025. This movie promises exciting suspense, thrill and outstanding performances by the cast. The sequences of investigations will keep you engaged, and some nail-biting revelations will be made th…
+### ROBBERY/THEFT on 2025-04-12 12:00
+- Location: Forbes
+- Description: Two recent high-profile thefts are making travelers more wary of entrusting their luggage to a hotel. Here’s some expert advice that will help keep your belongings safe.
 
-Analysis generated at: Sun Apr 13 06:18:02 UTC 2025
+Analysis generated at: Sun Apr 13 12:23:53 UTC 2025
