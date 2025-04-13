@@ -1,10 +1,10 @@
 
-Loaded 25914 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-12 02:51:42
+Loaded 25930 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-12 06:16:44
 
 Incidents by source:
 source
-newsapi           25813
+newsapi           25829
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-04-12 02:51
-- Location: ABC News (AU)
-- Description: Child killer Rick Thorburn has been found dead in his prison cell almost 10 years after murdering schoolgirl Tiahleigh Palmer.
+### OTHER on 2025-04-12 06:16
+- Location: Newsbreak.com
+- Description: The Biden administration engaged in a “cover-up" by failing to disclose details about the health of former President Joe Biden, the White House said Friday
 
 
-### OTHER on 2025-04-12 02:41
-- Location: The Star Online
-- Description: KUALA LUMPUR: The number of fatal road accidents nationwide dropped by 41% during Ops Selamat 24, held in conjunction with the Hari Raya Aidilfitri celebration from March 29 to April 3, says Datuk Seri Ayob Khan Mydin Pitchay. Read full story
+### DRUG RELATED on 2025-04-12 06:12
+- Location: Globalsecurity.org
+- Description: Extensive coordination and cooperation between U.S. and Honduran law enforcement authorities resulted in the extradition of a Honduran national for his alleged role in a conspiracy to smuggle drugs from Honduras to the United States.
 
 
-### HOMICIDE on 2025-04-12 02:40
-- Location: New York Post
-- Description: The convicted killer washed down his hearty meal with a sweet tea.
+### HOMICIDE on 2025-04-12 06:11
+- Location: Globalsecurity.org
+- Description: A federal grand jury in the Eastern District of Missouri returned an indictment on Wednesday charging Travis Santel Jones, 21, of St. Louis, Missouri, with one count of murder in aid of racketeering, RICO conspiracy, using a firearm during a crime of violence…
 
 
-### SHOOTING on 2025-04-12 02:00
-- Location: POLITICO.eu
-- Description: Losing €4 million a day and without a government, Belgium's capital is in desperate need of leadership.
-
-
-### OTHER on 2025-04-12 01:48
+### ROBBERY/THEFT on 2025-04-12 06:06
 - Location: NDTV News
-- Description: An Indian-origin municipal councillor has been charged with participating in a mafia-run gambling operation, according to New Jersey Attorney General Matthew Platkin.
+- Description: The National Investigation Agency began interrogating Tahawwur Rana after it was granted 18-day custody of the 26/11 Mumbai terror attacks accused.
 
-Analysis generated at: Sun Apr 13 03:12:55 UTC 2025
+
+### OTHER on 2025-04-12 05:38
+- Location: Gadgets360.com
+- Description: Agnyathavasi is heading for a theatrical release on April 11, 2025. This movie promises exciting suspense, thrill and outstanding performances by the cast. The sequences of investigations will keep you engaged, and some nail-biting revelations will be made th…
+
+Analysis generated at: Sun Apr 13 06:18:02 UTC 2025
