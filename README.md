@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Apr 13 12:23:53 UTC 2025
+Last updated: Sun Apr 13 12:39:45 UTC 2025
 
 ## Latest Analysis
 
-Loaded 25974 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-12 12:23:26
+Loaded 25975 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-12 12:30:10
 
 Incidents by source:
 source
-newsapi           25873
+newsapi           25874
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -23,6 +23,11 @@ bution.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### OTHER on 2025-04-12 12:30
+- Location: Gizmodo.com
+- Description: If the White House has an authoritarian toolkit to use on civil protesters, you can thank Biden for it.
+
 
 ### SHOOTING on 2025-04-12 12:23
 - Location: WLWT Cincinnati
@@ -43,9 +48,4 @@ bution.svg)
 - Location: The Daily Caller
 - Description: The number of Americans beginning to question pro-Israel narratives is growing.
 
-
-### ROBBERY/THEFT on 2025-04-12 12:00
-- Location: Forbes
-- Description: Two recent high-profile thefts are making travelers more wary of entrusting their luggage to a hotel. Here’s some expert advice that will help keep your belongings safe.
-
-Analysis generated at: Sun Apr 13 12:23:53 UTC 2025
+Analysis generated at: Sun Apr 13 12:39:45 UTC 2025
