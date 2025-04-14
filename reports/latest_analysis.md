@@ -1,10 +1,10 @@
 
-Loaded 26102 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-13 12:43:11
+Loaded 26162 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-13 18:15:48
 
 Incidents by source:
 source
-newsapi           26001
+newsapi           26061
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,46 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-04-13 12:43
-- Location: CNN
-- Description: Dietrich Bonhoeffer was executed by the Nazis 80 years ago this week for supporting a plot to kill Hitler. Now his legacy is being drawn into another battle: the ongoing debate over White Christian nationalism.
+### SHOOTING on 2025-04-13 18:15
+- Location: New York Post
+- Description: Scott Shriner went through with his Coachella performance despite what just happened with his wife.
 
 
-### ASSAULT on 2025-04-13 12:41
-- Location: Westernjournal.com
-- Description: Democrat Judge Faces 60 Years in Prison for Horrific Attack That Left Her Ex Blind in One Eyewesternjournal.com
+### OTHER on 2025-04-13 18:10
+- Location: ProPublica
+- Description: by Hannah Allam 
+ 
+
+ 
+ 
+ ProPublica is a nonprofit newsroom that investigates abuses of power. Sign up to receive our biggest stories as soon as they’re published.
+
+ 
+
+ 
+
+ 
+ 
 
 
-### OTHER on 2025-04-13 12:30
-- Location: Richmond.com
-- Description: America’s educators have been turning to technology — especially digital surveillance — to screen for students who might harm themselves or others. But that approach brings issues with privacy.
+
+ 
+With a line of cars waiting behind them at the train station, the two women hug…
 
 
-### SHOOTING on 2025-04-13 12:21
-- Location: CHS Capitol Hill Seattle News
-- Description: Seattle Police and Seattle Fire responded to a reported accidental shooting at a Broadway apartment building just after midnight. According to emergency radio updates, a 911 caller reported the shooting victim was inside a unit of the Station House building ……
+### SHOOTING on 2025-04-13 17:58
+- Location: The Denver Post
+- Description: Two adults and one child were shot Saturday night while driving in Aurora after the suspect allegedly stole from them, according to the police department.
 
 
-### OTHER on 2025-04-13 12:09
-- Location: Gossiplankanews.com
-- Description: In a dramatic development at the Matara Magistrate's Court, suspended Inspector General of Police (IGP) Deshabandu Tennakoon was granted bail despite his prior attempts to evade arrest and claims of providing false information regarding his whereabouts. The c…
+### HOMICIDE on 2025-04-13 17:56
+- Location: Breitbart News
+- Description: Police said a New Jersey hairdresser tried to hire a hitman on Tinder to kill her ex-boyfriend, a Philadelphia policeman, and his teenage daughter.
+The post Prosecutors: NJ Woman Hired Hitman on Tinder to Kill Cop and His Teen Daughter After Breakup appeared …
 
-Analysis generated at: Mon Apr 14 12:45:04 UTC 2025
+
+### OTHER on 2025-04-13 17:51
+- Location: AppleInsider
+- Description: The 2022 hostage situation at an Apple Store in Amsterdam has been turned into a Netflix drama, with "iHostage" exploring the events of the five-hour standoff.iHostage - Image Credit: NetflixA trailer for the Netflix crime drama "iHostage" on YouTube teases t…
+
+Analysis generated at: Mon Apr 14 18:19:10 UTC 2025
