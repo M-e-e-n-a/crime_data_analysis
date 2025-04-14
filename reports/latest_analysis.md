@@ -1,10 +1,10 @@
 
-Loaded 26019 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-12 18:13:00
+Loaded 26028 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-13 01:04:34
 
 Incidents by source:
 source
-newsapi           25918
+newsapi           25927
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-04-12 18:13
-- Location: The-independent.com
-- Description: The 17-year-old accused of killing his parents subscribed to a neo-Nazi ‘satanic cult,’ prosecutors say
+### OTHER on 2025-04-13 01:04
+- Location: Fox News
+- Description: Princeton University President Christopher L. Eisgruber discussed universities' battle with the Trump administration over federal funding on a New York Times podcast.
 
 
-### OTHER on 2025-04-12 18:11
-- Location: New York Post
-- Description: Amanda Knox was stopped by law enforcement at the airport, where officials seemed more curious about her past than her passport.
+### SHOOTING on 2025-04-13 01:00
+- Location: PEOPLE
+- Description: Weezer bassist Scott Shriner performed at Coachella on Saturday, April 12, just days after his wife, Jillian Lauren-Shriner, was shot by police and arrested following an altercation in Los Angeles.
 
 
-### OTHER on 2025-04-12 18:10
-- Location: Inside the Magic
-- Description: Universal’s Epic Universe: The countdown to one of the most anticipated theme park openings of the decade has been nothing short of electric. Early previews have fans and critics alike raving about the breathtaking theming, groundbreaking rides, and immersive…
+### OTHER on 2025-04-13 00:58
+- Location: Freerepublic.com
+- Description: Police received a report Dec. 21, 2023, about a local business selling human bones on Facebook Marketplace, FOX 35 Orlando reported. Officers were sent images from the business’s Facebook page, which allegedly advertised the disturbing items. The Orange City …
 
 
-### HOMICIDE on 2025-04-12 18:03
-- Location: NDTV News
-- Description: A gangster living in London has taken responsibility for the killing of a 52-year-old property dealer in Delhi. Rajkumar Dalal was driving his Toyota Fortuner when two cars approached from the side and opened fire at outer Delhi&#039;s Paschim Vihar.
+### ASSAULT on 2025-04-13 00:54
+- Location: Breitbart News
+- Description: Franklin Camargo, a young refugee fighting Tren de Aragua after escaping Venezuela, warned Breitbart News editor-in-chief Alex Marlow, that the criminal gang is “completely and entirely linked” to Venezuelan President Nicolás Maduro’s government, and Camargo …
 
 
-### ASSAULT on 2025-04-12 17:41
-- Location: LADbible
-- Description: Hashem Abedi, the brother of Manchester Arena suicide bomber Salman Abedi, has reportedly left the guards with life-threatening injuries
+### SHOOTING on 2025-04-13 00:40
+- Location: The Punch
+- Description: In recent years, the number of Nigerian police officers dying by suicide has surged with disturbing frequency. From junior constables to seasoned officers with decades of service, the trend cuts across rank and region. In March 2025, the Ogun State Police Com…
 
-Analysis generated at: Sun Apr 13 18:17:17 UTC 2025
+Analysis generated at: Mon Apr 14 01:07:05 UTC 2025
