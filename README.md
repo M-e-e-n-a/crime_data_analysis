@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Apr 14 01:50:36 UTC 2025
+Last updated: Mon Apr 14 06:20:45 UTC 2025
 
 ## Latest Analysis
 
-Loaded 26030 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-13 01:30:00
+Loaded 26062 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-13 06:20:33
 
 Incidents by source:
 source
-newsapi           25929
+newsapi           25961
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-04-13 01:30
-- Location: Independent.ie
-- Description: Planning a night on the couch? Here are today’s stop TV and streaming picks:
+### OTHER on 2025-04-13 06:20
+- Location: NDTV News
+- Description: The body of Anjali, who had been missing for five days, was recovered in a mutilated state on Saturday near a river in Etawah.
 
 
-### HOMICIDE on 2025-04-13 01:26
-- Location: fox6now.com
-- Description: A shooting at Milwaukee's Dineen Park killed two people and wounded a third last month. Now, a local group is looking to restore hope.
+### HOMICIDE on 2025-04-13 06:19
+- Location: NDTV News
+- Description: The body of Anjali, who had been missing for five days, was recovered in a mutilated state on Saturday near a river in Etawah.
 
 
-### OTHER on 2025-04-13 01:04
-- Location: Fox News
-- Description: Princeton University President Christopher L. Eisgruber discussed universities' battle with the Trump administration over federal funding on a New York Times podcast.
+### DRUG RELATED on 2025-04-13 06:19
+- Location: The Star Online
+- Description: QUITO (Reuters) - Ecuadoreans vote on Sunday in what is expected to be a close presidential race between incumbent Daniel Noboa, who says he needs more time to combat drug gangs and boost the economy, and leftist Luisa Gonzalez, whose election would mark a re…
 
 
-### SHOOTING on 2025-04-13 01:00
-- Location: PEOPLE
-- Description: Weezer bassist Scott Shriner performed at Coachella on Saturday, April 12, just days after his wife, Jillian Lauren-Shriner, was shot by police and arrested following an altercation in Los Angeles.
+### HOMICIDE on 2025-04-13 06:16
+- Location: New York Post
+- Description: Both individuals were pronounced dead at the New York Presbyterian Hospital.
 
 
-### OTHER on 2025-04-13 00:58
-- Location: Freerepublic.com
-- Description: Police received a report Dec. 21, 2023, about a local business selling human bones on Facebook Marketplace, FOX 35 Orlando reported. Officers were sent images from the business’s Facebook page, which allegedly advertised the disturbing items. The Orange City …
+### OTHER on 2025-04-13 06:16
+- Location: The Star Online
+- Description: TANGKAK: A 39-year-old clerk lost RM20,800 after falling victim to a personal loan scam involving a fake agreement and multiple bank transfers. Read full story
 
-Analysis generated at: Mon Apr 14 01:50:36 UTC 2025
+Analysis generated at: Mon Apr 14 06:20:45 UTC 2025
