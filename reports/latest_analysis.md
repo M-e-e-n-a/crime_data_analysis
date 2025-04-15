@@ -1,10 +1,10 @@
 
-Loaded 26174 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-14 00:49:38
+Loaded 26179 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-14 01:44:58
 
 Incidents by source:
 source
-newsapi           26073
+newsapi           26078
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-04-14 00:49
+### SHOOTING on 2025-04-14 01:44
+- Location: Breitbart News
+- Description: The kidnapping epidemic that has plagued South Africa this decade may have hit a new criminal low when an American pastor was nabbed at gunpoint while he was preaching at a Baptist church in Motherwell, outside the coastal city of Gqeberha.
+The post Masked Me…
+
+
+### OTHER on 2025-04-14 01:41
+- Location: Sky.com
+- Description: Pennsylvania Governor Josh Shapiro and his family were forced to flee in the middle of the night during Passover after an alleged arsonist set fire to their residence, authorities said.
+
+
+### HOMICIDE on 2025-04-14 01:30
+- Location: Yahoo Entertainment
+- Description: None
+
+
+### ROBBERY/THEFT on 2025-04-14 01:22
 - Location: Twistedsifter.com
-- Description: She played this entire scenario perfectly.
+- Description: He dug his own grave.
 
 
-### HOMICIDE on 2025-04-14 00:48
-- Location: The Punch
-- Description: A 49-year-old man, Nnamdi Anyaji, has been arrested by police operatives for using an axe to kill his 68-year-old mother, Dorathy Anyaji. The incident which happened in Anambra State stemmed from a cassava business dispute between the duo. PUNCH Metro learnt …
+### HOMICIDE on 2025-04-14 01:21
+- Location: Alaskasnewssource.com
+- Description: 37-year-old Joseph Casas was shot and killed in Fairbanks Friday, according to Fairbanks police.
 
-
-### HOMICIDE on 2025-04-14 00:43
-- Location: Fairbanks Daily News-Miner
-- Description: Adayus Robertson was arrested and arraigned Sunday on charges of first-degree murder, tampering with physical evidence, and two counts of violating conditions of release. His bail was set at $2.5 million.
-
-
-### ROBBERY/THEFT on 2025-04-14 00:39
-- Location: The Punch
-- Description: Oyo State Police Command, on Sunday, confirmed the arrest of the three suspected armed robbers in connection with the hijacking of a truck loaded with 45,000 litres of the Premium Motor Spirits popularly known as petrol on Ibadan-Ijebu-Ode road. A statement b…
-
-
-### OTHER on 2025-04-14 00:30
-- Location: Bitcoinist
-- Description: Binance co-founder Changpeng “CZ” Zhao has refuted claims that he agreed to testify against TRON founder Justin Sun as part of the settlement terms in his deal with the United States Department of Justice. ‘WSJ Is Really Trying Here’ – Binance Co-Founder Acco…
-
-Analysis generated at: Tue Apr 15 01:05:51 UTC 2025
+Analysis generated at: Tue Apr 15 01:49:20 UTC 2025
