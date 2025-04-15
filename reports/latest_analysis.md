@@ -1,10 +1,10 @@
 
-Loaded 26224 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-14 06:15:00
+Loaded 26313 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-14 12:20:46
 
 Incidents by source:
 source
-newsapi           26123
+newsapi           26212
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-04-14 06:15
-- Location: Newser
-- Description: Police have arrested a suspect in connection with the Sunday morning arson at Pennsylvania Gov. Josh Shapiro's residence . Local authorities say they plan to charge Harrisburg man Cody Balmer, 38, with attempted murder, terrorism, aggravated arson, and aggrav…
+### SHOOTING on 2025-04-14 12:20
+- Location: Thechronicle.com.gh
+- Description: The Inspector General of Police (IGP), Mr Christian Tetteh Yohuno, narrowly escaped harm when an unidentified gunman shot at his official vehicle, following a visit to the Bawku Naba’s Palace on Friday, April 11, 2025. It is not clear the motive behind the br…
 
 
-### OTHER on 2025-04-14 06:10
-- Location: Hurriyet Daily News
-- Description: Hundreds of once-missing artifacts, hunted down over decades by a special police unit, have been unveiled for the first time in the National Archaeological Museum of Naples, in southern Italy.
+### SHOOTING on 2025-04-14 12:20
+- Location: Thechronicle.com.gh
+- Description: The Inspector General of Police (IGP), Mr Christian Tetteh Yohuno, narrowly escaped harm when an unidentified gunman shot at his official vehicle, following a visit to the Bawku Naba’s Palace on Friday, April 11, 2025. It is not clear the motive behind the br…
 
 
-### OTHER on 2025-04-14 06:07
-- Location: The Star Online
-- Description: QUITO (Reuters) - Ecuadorean President Daniel Noboa and the country's electoral authority said he had secured a full four-year term on Sunday, as his leftist rival Luisa Gonzalez denounced Noboa's unexpectedly expansive victory as "grotesque" fraud. Read full…
+### OTHER on 2025-04-14 12:20
+- Location: Celebitchy.com
+- Description: Pennsylvania governor Josh Shapiro was on Kamala Harris’s vice presidential shortlist last year. Rumor was, he flunked his VP interview and besides that, he had too much baggage for a national run. Plus, he’s actually a popular governor in Pennsylvania, a sta…
 
 
-### OTHER on 2025-04-14 06:06
-- Location: ABC News
-- Description: A man is facing charges after authorities say he broke into the Pennsylvania governor’s mansion in the middle of the night, set a fire that left significant damage and forced Gov. Josh Shapiro, his family and guests to evacuate the building during the ...
+### ROBBERY/THEFT on 2025-04-14 12:13
+- Location: NDTV News
+- Description: Mumbai terror attacks key mastermind Tahawwur Hussain Rana is being interrogated for eight to ten hours daily by the National Investigation Agency (NIA) sleuths to unravel a larger conspiracy behind the dreaded strikes, PTI reported.
 
 
-### SHOOTING on 2025-04-14 06:00
-- Location: Naturalnews.com
-- Description: The Department of Justice is currently pursuing criminal charges in the U.S. District Court for the District of Columbia, for possession of a  handgun equipped with a pistol stabilizing brace, in the case U.S. v. Taranto. (Article republished from ZeroHedge.c…
+### ASSAULT on 2025-04-14 12:12
+- Location: Al Jazeera English
+- Description: Balmer is facing criminal charges after allegedly breaking into the Pennsylvania governor’s mansion and starting a fire.
 
-Analysis generated at: Tue Apr 15 06:19:42 UTC 2025
+Analysis generated at: Tue Apr 15 12:26:56 UTC 2025
