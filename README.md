@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Apr 15 12:26:56 UTC 2025
+Last updated: Tue Apr 15 12:44:40 UTC 2025
 
 ## Latest Analysis
 
-Loaded 26313 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-14 12:20:46
+Loaded 26318 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-14 12:42:20
 
 Incidents by source:
 source
-newsapi           26212
+newsapi           26217
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-04-14 12:20
-- Location: Thechronicle.com.gh
-- Description: The Inspector General of Police (IGP), Mr Christian Tetteh Yohuno, narrowly escaped harm when an unidentified gunman shot at his official vehicle, following a visit to the Bawku Naba’s Palace on Friday, April 11, 2025. It is not clear the motive behind the br…
+### OTHER on 2025-04-14 12:42
+- Location: Freerepublic.com
+- Description: The fifth annual Mark Steyn Cruise docked yesterday at Southampton (not my favourite port of call) and so, in consequence, I spent a few hours in what passes for the United Kingdom. It is a very weird land. For example, if a partially deaf man asks a "migrant…
 
 
-### SHOOTING on 2025-04-14 12:20
-- Location: Thechronicle.com.gh
-- Description: The Inspector General of Police (IGP), Mr Christian Tetteh Yohuno, narrowly escaped harm when an unidentified gunman shot at his official vehicle, following a visit to the Bawku Naba’s Palace on Friday, April 11, 2025. It is not clear the motive behind the br…
+### OTHER on 2025-04-14 12:41
+- Location: The Conversation Africa
+- Description: The 1952 Immigration and Nationality Act gives ICE broad power, including the right to arrest many noncitizens. The extent of this power is now being tested.
 
 
-### OTHER on 2025-04-14 12:20
-- Location: Celebitchy.com
-- Description: Pennsylvania governor Josh Shapiro was on Kamala Harris’s vice presidential shortlist last year. Rumor was, he flunked his VP interview and besides that, he had too much baggage for a national run. Plus, he’s actually a popular governor in Pennsylvania, a sta…
+### ASSAULT on 2025-04-14 12:41
+- Location: The Times of India
+- Description: An Indian court has acknowledged Tahawwur Hussain Rana's involvement in identifying New Delhi as a potential target for attacks similar to the 26/11 Mumbai strikes, revealing a conspiracy extending beyond India's borders. The court granted the NIA 18-day cust…
 
 
-### ROBBERY/THEFT on 2025-04-14 12:13
-- Location: NDTV News
-- Description: Mumbai terror attacks key mastermind Tahawwur Hussain Rana is being interrogated for eight to ten hours daily by the National Investigation Agency (NIA) sleuths to unravel a larger conspiracy behind the dreaded strikes, PTI reported.
+### ASSAULT on 2025-04-14 12:35
+- Location: Israelnationalnews.com
+- Description: The man suspected of torching the residence of Pennsylvania Governor Josh Shapiro said he planned on beating him with a sledgehammer and admitted to harboring hate against the Jewish governor.
 
 
-### ASSAULT on 2025-04-14 12:12
-- Location: Al Jazeera English
-- Description: Balmer is facing criminal charges after allegedly breaking into the Pennsylvania governor’s mansion and starting a fire.
+### HOMICIDE on 2025-04-14 12:33
+- Location: Yahoo Entertainment
+- Description: South African prosecutors on Monday reopened an inquest into the apartheid-era death of Nobel Peace Prize winner Albert Luthuli 58 years after the government...
 
-Analysis generated at: Tue Apr 15 12:26:56 UTC 2025
+Analysis generated at: Tue Apr 15 12:44:40 UTC 2025
