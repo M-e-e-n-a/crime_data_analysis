@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Apr 15 18:17:26 UTC 2025
+Last updated: Wed Apr 16 01:05:38 UTC 2025
 
 ## Latest Analysis
 
-Loaded 26411 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-14 18:11:55
+Loaded 26420 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-15 00:58:08
 
 Incidents by source:
 source
-newsapi           26310
+newsapi           26319
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-04-14 18:11
-- Location: Wnd.com
-- Description: 'There's a huge disconnect between the narratives and angles that the mainstream media pushes and what the American public feels, and you see that in moments like this'
+### OTHER on 2025-04-15 00:58
+- Location: New Zealand Herald
+- Description: But it admits the data it is using is 'volatile'.
 
 
-### OTHER on 2025-04-14 18:09
-- Location: Boston Herald
-- Description: Trump was the target of two assassination attempts during last year’s presidential campaign.
+### ASSAULT on 2025-04-15 00:47
+- Location: KTVU San Francisco
+- Description: A Palo Alto woman faces hate crime and battery charges after allegedly spitting on a man and yelling racial epithets, police said.
 
 
-### HOMICIDE on 2025-04-14 18:07
+### HOMICIDE on 2025-04-15 00:38
+- Location: ABC News
+- Description: A Texas rapper has been convicted of murder for a second time after a jury found him guilty of fatally shooting a San Antonio man in 2017
+
+
+### HOMICIDE on 2025-04-15 00:34
 - Location: New York Post
-- Description: In February, jurors found Andrew Buen guilty of criminally negligent homicide in the 2022 death of Christian Glass.
+- Description: NY Post readers discuss an 87% pay hike for state Parole Board members since 2019, as they’ve freed 43 cop-killers.
 
 
-### SHOOTING on 2025-04-14 18:07
-- Location: TMZ
-- Description: Pennsylvania Governor Josh Shapiro's alleged arsonist had his mugshot publicly released Monday -- and the guy certainly appears glum. The Dauphin County District Attorney's Office released the booking photo of Cody Balmer, who allegedly set fire to…
+### HOMICIDE on 2025-04-15 00:22
+- Location: ABC News
+- Description: A man has been arrested near UnitedHealthcare’s headquarters after threatening violence
 
-
-### OTHER on 2025-04-14 18:06
-- Location: The Jerusalem Post
-- Description: Notwithstanding the current toxic political climate, some arguably naïve and ever-hopeful Jerusalemites haven’t lost faith in the dream of coexistence.
-
-Analysis generated at: Tue Apr 15 18:17:26 UTC 2025
+Analysis generated at: Wed Apr 16 01:05:38 UTC 2025
