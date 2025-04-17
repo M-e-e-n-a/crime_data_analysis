@@ -1,10 +1,10 @@
 
-Loaded 26633 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-15 18:19:11
+Loaded 26648 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-16 00:58:35
 
 Incidents by source:
 source
-newsapi           26532
+newsapi           26547
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-04-15 18:19
-- Location: The Times of India
-- Description: Following ISF-led protests against the Waqf Act in Bhangar, West Bengal, the situation is tense but under control with nine arrests made for property damage. Police are actively combating misinformation and have blocked 193 fake social media accounts. In conn…
+### OTHER on 2025-04-16 00:58
+- Location: The Daily Caller
+- Description: Fox's Greg Gutfeld said Tuesday that even if illegal migrant Kilmar Armando Abrego Garcia has no connection to the MS-13 gang, he needs to "go."
 
 
-### OTHER on 2025-04-15 18:11
-- Location: Theplaylist.net
-- Description: The first crop of Peabody Awards nominations is here and, as usual, a ton of acclaimed one-time Oscar documentaries made the cut. The 2025 nominees in the documentary category include official Academy Awards nominees “Black Box Diaries” and “Sugarcane.” Other…
+### HOMICIDE on 2025-04-16 00:50
+- Location: CBC News
+- Description: Alberta's police watchdog is investigating a police shooting that killed a 36-year-old man in west Edmonton Tuesday afternoon.
 
 
-### OTHER on 2025-04-15 18:03
-- Location: BBC News
-- Description: Anna Alexandrova denied posting anti-war messages, insisting the case was motivated by a land squabble.
+### HOMICIDE on 2025-04-16 00:48
+- Location: Fox News
+- Description: ICE placed detainers on two illegal aliens from Venezuela in Washington who are accused of kidnapping, torturing, shooting and trying to kill a woman back in January.
 
 
-### HOMICIDE on 2025-04-15 17:59
-- Location: Entertainment Weekly
-- Description: The artist born Taymor McIntyre was previously found guilty of murder in a home invasion in Texas.
+### OTHER on 2025-04-16 00:47
+- Location: The Diplomat
+- Description: Could data gathered by amateur radio operators finally unlock the truth about the doomed Malaysia Airlines flight?
 
 
-### OTHER on 2025-04-15 17:59
-- Location: The Times of India
-- Description: The India Justice Report 2025 reveals a significant underrepresentation of women in senior police ranks, with less than 1,000 holding positions as Superintendents and Director-Generals. Karnataka leads among larger states in justice delivery, excelling in mee…
+### OTHER on 2025-04-16 00:45
+- Location: STLtoday.com
+- Description: Patrick J. Steinway, who ran the church's athletic association, is facing a felony charge.
 
-Analysis generated at: Wed Apr 16 18:19:30 UTC 2025
+Analysis generated at: Thu Apr 17 01:04:48 UTC 2025
