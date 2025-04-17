@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Apr 17 06:19:33 UTC 2025
+Last updated: Thu Apr 17 12:26:43 UTC 2025
 
 ## Latest Analysis
 
-Loaded 26706 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-16 06:13:00
+Loaded 26792 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-16 12:25:00
 
 Incidents by source:
 source
-newsapi           26605
+newsapi           26691
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,33 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-04-16 06:13
-- Location: The Star Online
-- Description: RAUB: A businessman and an excavator driver were each fined RM100,000 by the Raub Sessions Court on Wednesday after pleading guilty to clearing Pahang state land in Lipis without official permission last November. Read full story
+### HOMICIDE on 2025-04-16 12:25
+- Location: Sky.com
+- Description: The sentence of triple murderer Nicholas Prosper, 19, who killed his family and was planning a school shooting in Luton, has been referred to the Court of Appeal.
 
 
-### HOMICIDE on 2025-04-16 06:10
+### SHOOTING on 2025-04-16 12:24
+- Location: Raw Story
+- Description: "Second shooting at Dallas high school in a year injures four students" was first published by The Texas Tribune, a nonprofit, nonpartisan media organization that informs Texans — and engages with them — about public policy, politics, government and statewide…
+
+
+### ROBBERY/THEFT on 2025-04-16 12:19
+- Location: HackRead
+- Description: Hertz confirms data breach linked to Cleo software flaw; Cl0p ransomware group leaked stolen data, exposing names, driver’s…
+
+
+### OTHER on 2025-04-16 12:11
 - Location: The Times of India
-- Description: In Nagpur, Avinash Bhusari, a cafe owner, was murdered in a gang-related shooting. The incident occurred early Tuesday near Ram Nagar. Assailants, seeking revenge for a cousin's death, fired multiple shots. Police have arrested Siddhu Bharadwaj and Aakash Tem…
+- Description: Suvendu Adhikari, West Bengal's Leader of Opposition, has accused Trinamool Congress leaders of instigating communal violence in Murshidabad, specifically naming Md. Inzamul Haque as a key instigator. Adhikari alleges Haque abused his power, inciting unrest t…
 
 
-### ROBBERY/THEFT on 2025-04-16 06:05
-- Location: Spacewar.com
-- Description: Stockholm (AFP) April 15, 2025
+### SHOOTING on 2025-04-16 12:10
+- Location: Newsweek
+- Description: Students and parents at a Dallas-area high school have been subjected to a second school shooting in just over a year, despite increased safety protocols.
 
-
- Swedish authorities said on Tuesday they had found no evidence that a Chinese-flagged bulk carrier was intentionally dragging its anchor when it severed two subsea cables in the Baltic Sea last year. 
-
-Tensions have mounted a…
-
-
-### ROBBERY/THEFT on 2025-04-16 06:00
-- Location: Naturalnews.com
-- Description: Federal authorities deported 11 migrants with violent criminal convictions (including rape, robbery and gang ties) to El Salvador’s maximum-security CECOT prison, reinforcing the Trump administration’s hardline immigration stance. The deportees included membe…
-
-
-### HOMICIDE on 2025-04-16 06:00
-- Location: Naturalnews.com
-- Description: Ryan Wesley Routh, the second shooter who attempted to assassinate President Donald Trump in September 2024, now faces new state charges, including attempted first-degree murder and terrorism, as announced by Florida AG James Uthmeier. Uthmeier accused the Bi…
-
-Analysis generated at: Thu Apr 17 06:19:33 UTC 2025
+Analysis generated at: Thu Apr 17 12:26:43 UTC 2025
