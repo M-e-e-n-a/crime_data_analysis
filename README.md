@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Apr 17 01:04:48 UTC 2025
+Last updated: Thu Apr 17 01:47:31 UTC 2025
 
 ## Latest Analysis
 
-Loaded 26648 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-16 00:58:35
+Loaded 26653 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-16 01:37:54
 
 Incidents by source:
 source
-newsapi           26547
+newsapi           26552
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-04-16 00:58
-- Location: The Daily Caller
-- Description: Fox's Greg Gutfeld said Tuesday that even if illegal migrant Kilmar Armando Abrego Garcia has no connection to the MS-13 gang, he needs to "go."
+### OTHER on 2025-04-16 01:37
+- Location: ABC News
+- Description: Hundreds of residents within a Michigan community formed a human chain to help a local bookshop move each of its 9,100 books -- one by one -- to a new storefront located about a block away.
 
 
-### HOMICIDE on 2025-04-16 00:50
-- Location: CBC News
-- Description: Alberta's police watchdog is investigating a police shooting that killed a 36-year-old man in west Edmonton Tuesday afternoon.
+### OTHER on 2025-04-16 01:30
+- Location: Independent.ie
+- Description: Planning a night on the couch? Here are today’s stop TV and streaming picks:
 
 
-### HOMICIDE on 2025-04-16 00:48
-- Location: Fox News
-- Description: ICE placed detainers on two illegal aliens from Venezuela in Washington who are accused of kidnapping, torturing, shooting and trying to kill a woman back in January.
+### HOMICIDE on 2025-04-16 01:10
+- Location: The Punch
+- Description: The Enugu State Police Command has refuted reports that Fulani herdsmen recently launched a series of attacks on some villages in the state, killing no fewer than 25 persons. According to the command, through its spokesperson, Daniel Ndukwe, its scrutiny show…
 
 
-### OTHER on 2025-04-16 00:47
-- Location: The Diplomat
-- Description: Could data gathered by amateur radio operators finally unlock the truth about the doomed Malaysia Airlines flight?
+### HOMICIDE on 2025-04-16 01:08
+- Location: The Punch
+- Description: The family of Monday Joseph has called on the Ondo State Governor Mr Lucky Aiyedatiwa and police authorities to investigate the death of one Monday Joseph who allegedly died in the custody of the state Security Network Agency also known as Amotekun. The famil…
 
 
-### OTHER on 2025-04-16 00:45
-- Location: STLtoday.com
-- Description: Patrick J. Steinway, who ran the church's athletic association, is facing a felony charge.
+### OTHER on 2025-04-16 01:06
+- Location: NBC Chicago
+- Description: A U.S. district judge has blasted the Trump administration for doing "nothing" to return a man mistakenly deported to El Salvador.
 
-Analysis generated at: Thu Apr 17 01:04:48 UTC 2025
+Analysis generated at: Thu Apr 17 01:47:31 UTC 2025
