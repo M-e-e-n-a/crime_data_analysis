@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Apr 17 01:47:31 UTC 2025
+Last updated: Thu Apr 17 06:19:33 UTC 2025
 
 ## Latest Analysis
 
-Loaded 26653 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-16 01:37:54
+Loaded 26706 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-16 06:13:00
 
 Incidents by source:
 source
-newsapi           26552
+newsapi           26605
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,33 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-04-16 01:37
-- Location: ABC News
-- Description: Hundreds of residents within a Michigan community formed a human chain to help a local bookshop move each of its 9,100 books -- one by one -- to a new storefront located about a block away.
+### OTHER on 2025-04-16 06:13
+- Location: The Star Online
+- Description: RAUB: A businessman and an excavator driver were each fined RM100,000 by the Raub Sessions Court on Wednesday after pleading guilty to clearing Pahang state land in Lipis without official permission last November. Read full story
 
 
-### OTHER on 2025-04-16 01:30
-- Location: Independent.ie
-- Description: Planning a night on the couch? Here are today’s stop TV and streaming picks:
+### HOMICIDE on 2025-04-16 06:10
+- Location: The Times of India
+- Description: In Nagpur, Avinash Bhusari, a cafe owner, was murdered in a gang-related shooting. The incident occurred early Tuesday near Ram Nagar. Assailants, seeking revenge for a cousin's death, fired multiple shots. Police have arrested Siddhu Bharadwaj and Aakash Tem…
 
 
-### HOMICIDE on 2025-04-16 01:10
-- Location: The Punch
-- Description: The Enugu State Police Command has refuted reports that Fulani herdsmen recently launched a series of attacks on some villages in the state, killing no fewer than 25 persons. According to the command, through its spokesperson, Daniel Ndukwe, its scrutiny show…
+### ROBBERY/THEFT on 2025-04-16 06:05
+- Location: Spacewar.com
+- Description: Stockholm (AFP) April 15, 2025
 
 
-### HOMICIDE on 2025-04-16 01:08
-- Location: The Punch
-- Description: The family of Monday Joseph has called on the Ondo State Governor Mr Lucky Aiyedatiwa and police authorities to investigate the death of one Monday Joseph who allegedly died in the custody of the state Security Network Agency also known as Amotekun. The famil…
+ Swedish authorities said on Tuesday they had found no evidence that a Chinese-flagged bulk carrier was intentionally dragging its anchor when it severed two subsea cables in the Baltic Sea last year. 
+
+Tensions have mounted a…
 
 
-### OTHER on 2025-04-16 01:06
-- Location: NBC Chicago
-- Description: A U.S. district judge has blasted the Trump administration for doing "nothing" to return a man mistakenly deported to El Salvador.
+### ROBBERY/THEFT on 2025-04-16 06:00
+- Location: Naturalnews.com
+- Description: Federal authorities deported 11 migrants with violent criminal convictions (including rape, robbery and gang ties) to El Salvador’s maximum-security CECOT prison, reinforcing the Trump administration’s hardline immigration stance. The deportees included membe…
 
-Analysis generated at: Thu Apr 17 01:47:31 UTC 2025
+
+### HOMICIDE on 2025-04-16 06:00
+- Location: Naturalnews.com
+- Description: Ryan Wesley Routh, the second shooter who attempted to assassinate President Donald Trump in September 2024, now faces new state charges, including attempted first-degree murder and terrorism, as announced by Florida AG James Uthmeier. Uthmeier accused the Bi…
+
+Analysis generated at: Thu Apr 17 06:19:33 UTC 2025
