@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Apr 17 12:44:06 UTC 2025
+Last updated: Thu Apr 17 18:18:36 UTC 2025
 
 ## Latest Analysis
 
-Loaded 26793 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-16 12:31:04
+Loaded 26889 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-16 18:15:37
 
 Incidents by source:
 source
-newsapi           26692
+newsapi           26788
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-04-16 12:31
-- Location: ABC News
-- Description: A video of 18-month-old Callum drumming has garnered 85 million views online and counting.
+### OTHER on 2025-04-16 18:15
+- Location: Wonkette.com
+- Description: Aren't sanctuary cities/states just another form of smuggling?
 
 
-### HOMICIDE on 2025-04-16 12:25
-- Location: Sky.com
-- Description: The sentence of triple murderer Nicholas Prosper, 19, who killed his family and was planning a school shooting in Luton, has been referred to the Court of Appeal.
+### OTHER on 2025-04-16 18:11
+- Location: XXLMAG.COM
+- Description: Max Ox is defiant. Continue reading…
 
 
-### SHOOTING on 2025-04-16 12:24
-- Location: Raw Story
-- Description: "Second shooting at Dallas high school in a year injures four students" was first published by The Texas Tribune, a nonprofit, nonpartisan media organization that informs Texans — and engages with them — about public policy, politics, government and statewide…
+### OTHER on 2025-04-16 18:10
+- Location: Washington Free Beacon
+- Description: Activist David Hogg is taking aim at his own party's incumbents—pledging $20 million to back younger, more left-wing challengers in next year's primaries—while he is still serving as a vice chair of the Democratic National Committee.
+The post DNC Vice Chair D…
 
 
-### ROBBERY/THEFT on 2025-04-16 12:19
-- Location: HackRead
-- Description: Hertz confirms data breach linked to Cleo software flaw; Cl0p ransomware group leaked stolen data, exposing names, driver’s…
+### OTHER on 2025-04-16 18:02
+- Location: Common Dreams
+- Description: Students in Department of Defense Education Activity (DoDEA) schools on military bases sued today, arguing that DoDEA’s book removals and curricular changes following several executive orders from President Donald Trump violate their First Amendment rights. D…
 
 
-### OTHER on 2025-04-16 12:11
-- Location: The Times of India
-- Description: Suvendu Adhikari, West Bengal's Leader of Opposition, has accused Trinamool Congress leaders of instigating communal violence in Murshidabad, specifically naming Md. Inzamul Haque as a key instigator. Adhikari alleges Haque abused his power, inciting unrest t…
+### OTHER on 2025-04-16 18:02
+- Location: GoNintendo
+- Description: How refreshing!
 
-Analysis generated at: Thu Apr 17 12:44:06 UTC 2025
+Analysis generated at: Thu Apr 17 18:18:36 UTC 2025
