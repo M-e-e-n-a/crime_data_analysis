@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Apr 17 12:26:43 UTC 2025
+Last updated: Thu Apr 17 12:44:06 UTC 2025
 
 ## Latest Analysis
 
-Loaded 26792 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-16 12:25:00
+Loaded 26793 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-16 12:31:04
 
 Incidents by source:
 source
-newsapi           26691
+newsapi           26692
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -23,6 +23,11 @@ bution.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### HOMICIDE on 2025-04-16 12:31
+- Location: ABC News
+- Description: A video of 18-month-old Callum drumming has garnered 85 million views online and counting.
+
 
 ### HOMICIDE on 2025-04-16 12:25
 - Location: Sky.com
@@ -43,9 +48,4 @@ bution.svg)
 - Location: The Times of India
 - Description: Suvendu Adhikari, West Bengal's Leader of Opposition, has accused Trinamool Congress leaders of instigating communal violence in Murshidabad, specifically naming Md. Inzamul Haque as a key instigator. Adhikari alleges Haque abused his power, inciting unrest t…
 
-
-### SHOOTING on 2025-04-16 12:10
-- Location: Newsweek
-- Description: Students and parents at a Dallas-area high school have been subjected to a second school shooting in just over a year, despite increased safety protocols.
-
-Analysis generated at: Thu Apr 17 12:26:43 UTC 2025
+Analysis generated at: Thu Apr 17 12:44:06 UTC 2025
