@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Apr 18 12:42:09 UTC 2025
+Last updated: Fri Apr 18 18:18:16 UTC 2025
 
 ## Latest Analysis
 
-Loaded 27020 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-17 12:41:59
+Loaded 27113 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-17 18:15:36
 
 Incidents by source:
 source
-newsapi           26919
+newsapi           27012
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2025-04-17 12:41
-- Location: BBC News
-- Description: A mysterious group has accused Justice Minister Gérard Darmanin of declaring "war" on prisoners.
+### SHOOTING on 2025-04-17 18:15
+- Location: Yahoo Entertainment
+- Description: None
 
 
-### OTHER on 2025-04-17 12:30
-- Location: Shtfplan.com
-- Description: The UK’s Crime and Policing Bill has passed two readings in the House of Commons and is at the Committee stage.  It poses a significant threat to free speech.
+### HOMICIDE on 2025-04-17 18:15
+- Location: WFTV Orlando
+- Description: Police say a man believed to be a Florida State University student opened fire on campus, killing two people and wounding at least six others before he was shot and wounded by responding officers
 
 
-### OTHER on 2025-04-17 12:25
-- Location: Newsweek
-- Description: Greene has claimed some of the protesters arrested at her town hall event in Georgia on Tuesday had shared "extremely violent" social media posts.
+### SHOOTING on 2025-04-17 18:14
+- Location: The Times of India
+- Description: An active shooter situation was reported on the Tallahassee-based main campus of the Florida State University on Thursday, April 17. At least one suspect has been detained in connection with the incident. The police confirmed that multiple injuries were cause…
 
 
-### OTHER on 2025-04-17 12:23
-- Location: Writersdigest.com
-- Description: Bestselling author of the Sebastian St. Cyr Mysteries C. S. Harris shares eight ways to keep a long-running book series fresh.
-The post 8 Ways to Keep a Long-Running Series Fresh, Book After Book appeared first on Writer's Digest.
+### SHOOTING on 2025-04-17 18:14
+- Location: Freerepublic.com
+- Description: A suspect is in custody following a shooting at Florida State University in Tallahassee on Thursday, a police department spokesperson confirmed to the Tallahassee Democrat. The plice spokesperson also said there were "multiple injuries." A spokesperson for Ta…
 
 
-### OTHER on 2025-04-17 12:23
-- Location: Bar & Bench - Indian Legal News
-- Description: Vice President and Rajya Sabha Chairman Jagdeep Dhankar on Thursday said that judges in the country have no accountability and the law of the land does not appl
+### SHOOTING on 2025-04-17 18:13
+- Location: CBS News
+- Description: CBS News Miami reports a suspect is in custody after being shot in an exchange of gunfire with police. Several people were hospitalized.
 
-Analysis generated at: Fri Apr 18 12:42:09 UTC 2025
+Analysis generated at: Fri Apr 18 18:18:16 UTC 2025
