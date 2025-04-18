@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Apr 18 12:25:31 UTC 2025
+Last updated: Fri Apr 18 12:42:09 UTC 2025
 
 ## Latest Analysis
 
-Loaded 27018 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-17 12:25:16
+Loaded 27020 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-17 12:41:59
 
 Incidents by source:
 source
-newsapi           26917
+newsapi           26919
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -23,6 +23,16 @@ bution.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### ASSAULT on 2025-04-17 12:41
+- Location: BBC News
+- Description: A mysterious group has accused Justice Minister Gérard Darmanin of declaring "war" on prisoners.
+
+
+### OTHER on 2025-04-17 12:30
+- Location: Shtfplan.com
+- Description: The UK’s Crime and Policing Bill has passed two readings in the House of Commons and is at the Committee stage.  It poses a significant threat to free speech.
+
 
 ### OTHER on 2025-04-17 12:25
 - Location: Newsweek
@@ -39,16 +49,4 @@ The post 8 Ways to Keep a Long-Running Series Fresh, Book After Book appeared fi
 - Location: Bar & Bench - Indian Legal News
 - Description: Vice President and Rajya Sabha Chairman Jagdeep Dhankar on Thursday said that judges in the country have no accountability and the law of the land does not appl
 
-
-### OTHER on 2025-04-17 12:20
-- Location: The New Republic
-- Description: The following is a lightly edited transcript of the April 17 episode of the Daily Blast podcast. Listen to it here.
-Greg Sargent: This is The Daily Blast from The New Republic, produced and presented by the DSR network. I’m your host, Greg Sargent.
-Donald T…
-
-
-### OTHER on 2025-04-17 12:14
-- Location: Democracy Now!
-- Description: Vince Warren, executive director of the Center for Constitutional Rights, joins us as President Trump’s defiance of the courts is pushing the United States toward a constitutional crisis, with multiple judges weighing whether to open contempt proceedings agai…
-
-Analysis generated at: Fri Apr 18 12:25:31 UTC 2025
+Analysis generated at: Fri Apr 18 12:42:09 UTC 2025
