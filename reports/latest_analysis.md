@@ -1,10 +1,10 @@
 
-Loaded 26908 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-17 01:00:00
+Loaded 26912 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-17 01:43:34
 
 Incidents by source:
 source
-newsapi           26807
+newsapi           26811
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
+### OTHER on 2025-04-17 01:43
+- Location: Fox News
+- Description: Marcia Norman, 82, was found buried in concrete below a shed her handyman, who police say was the last person to see her alive, built a day after her disappearance.
+
+
+### OTHER on 2025-04-17 01:30
+- Location: Independent.ie
+- Description: Planning a night on the couch? Here are today’s stop TV and streaming picks:
+
+
+### SHOOTING on 2025-04-17 01:07
+- Location: LancasterOnline
+- Description: Police have charged a 17-year-old boy with shooting at two people in southeastern Lancaster city last month.
+
+
+### OTHER on 2025-04-17 01:04
+- Location: HuffPost
+- Description: Lawyers for the man are seeking his release to either the United States or Venezuela.
+
+
 ### HOMICIDE on 2025-04-17 01:00
 - Location: Decider
 - Description: The limited series stars Matthew Rhys, Anjelica Huston, Oliver Jackson-Cohen, Clarke Peters, Ella Lily Hyland and Mimi Keene.
 
-
-### OTHER on 2025-04-17 00:57
-- Location: New Zealand Herald
-- Description: OPINION: Despite the PM's denials, the rift is real.
-
-
-### ASSAULT on 2025-04-17 00:52
-- Location: NBC News
-- Description: Days after an arson attack on Pennsylvania Gov. Josh Shapiro’s residence, Trump still has not called Shapiro or weighed in significantly to condemn the violence.
-
-
-### HOMICIDE on 2025-04-17 00:50
-- Location: New York Post
-- Description: Carlos Teron, who was married with a 2-month-old son, Cairo, was rushed to St. Barnabas Hospital, where he clung to life before succumbing to his injuries.
-
-
-### SHOOTING on 2025-04-17 00:49
-- Location: BBC News
-- Description: The journey of two boxes of weapons reveals a chain of lax laws, absent checks and suspected corruption.
-
-Analysis generated at: Fri Apr 18 01:04:01 UTC 2025
+Analysis generated at: Fri Apr 18 01:45:02 UTC 2025
