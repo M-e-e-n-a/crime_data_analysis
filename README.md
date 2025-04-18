@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Apr 17 18:18:36 UTC 2025
+Last updated: Fri Apr 18 01:04:01 UTC 2025
 
 ## Latest Analysis
 
-Loaded 26889 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-16 18:15:37
+Loaded 26908 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-17 01:00:00
 
 Incidents by source:
 source
-newsapi           26788
+newsapi           26807
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-04-16 18:15
-- Location: Wonkette.com
-- Description: Aren't sanctuary cities/states just another form of smuggling?
+### HOMICIDE on 2025-04-17 01:00
+- Location: Decider
+- Description: The limited series stars Matthew Rhys, Anjelica Huston, Oliver Jackson-Cohen, Clarke Peters, Ella Lily Hyland and Mimi Keene.
 
 
-### OTHER on 2025-04-16 18:11
-- Location: XXLMAG.COM
-- Description: Max Ox is defiant. Continue reading…
+### OTHER on 2025-04-17 00:57
+- Location: New Zealand Herald
+- Description: OPINION: Despite the PM's denials, the rift is real.
 
 
-### OTHER on 2025-04-16 18:10
-- Location: Washington Free Beacon
-- Description: Activist David Hogg is taking aim at his own party's incumbents—pledging $20 million to back younger, more left-wing challengers in next year's primaries—while he is still serving as a vice chair of the Democratic National Committee.
-The post DNC Vice Chair D…
+### ASSAULT on 2025-04-17 00:52
+- Location: NBC News
+- Description: Days after an arson attack on Pennsylvania Gov. Josh Shapiro’s residence, Trump still has not called Shapiro or weighed in significantly to condemn the violence.
 
 
-### OTHER on 2025-04-16 18:02
-- Location: Common Dreams
-- Description: Students in Department of Defense Education Activity (DoDEA) schools on military bases sued today, arguing that DoDEA’s book removals and curricular changes following several executive orders from President Donald Trump violate their First Amendment rights. D…
+### HOMICIDE on 2025-04-17 00:50
+- Location: New York Post
+- Description: Carlos Teron, who was married with a 2-month-old son, Cairo, was rushed to St. Barnabas Hospital, where he clung to life before succumbing to his injuries.
 
 
-### OTHER on 2025-04-16 18:02
-- Location: GoNintendo
-- Description: How refreshing!
+### SHOOTING on 2025-04-17 00:49
+- Location: BBC News
+- Description: The journey of two boxes of weapons reveals a chain of lax laws, absent checks and suspected corruption.
 
-Analysis generated at: Thu Apr 17 18:18:36 UTC 2025
+Analysis generated at: Fri Apr 18 01:04:01 UTC 2025
