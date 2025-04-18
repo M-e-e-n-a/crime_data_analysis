@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Apr 18 06:19:26 UTC 2025
+Last updated: Fri Apr 18 12:25:31 UTC 2025
 
 ## Latest Analysis
 
-Loaded 26941 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-17 06:18:54
+Loaded 27018 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-17 12:25:16
 
 Incidents by source:
 source
-newsapi           26840
+newsapi           26917
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,31 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-04-17 06:18
-- Location: New York Post
-- Description: "You’re advocating and putting a smiley face on assassination," Hannity said.
+### OTHER on 2025-04-17 12:25
+- Location: Newsweek
+- Description: Greene has claimed some of the protesters arrested at her town hall event in Georgia on Tuesday had shared "extremely violent" social media posts.
 
 
-### OTHER on 2025-04-17 06:06
-- Location: Al Jazeera English
-- Description: For every Palestinian Israel freed in the ceasefire deal, it has apprehended 15 more.
+### OTHER on 2025-04-17 12:23
+- Location: Writersdigest.com
+- Description: Bestselling author of the Sebastian St. Cyr Mysteries C. S. Harris shares eight ways to keep a long-running book series fresh.
+The post 8 Ways to Keep a Long-Running Series Fresh, Book After Book appeared first on Writer's Digest.
 
 
-### HOMICIDE on 2025-04-17 06:05
-- Location: Post Magazine
-- Description: The deaths have sparked calls for harsher penalties for familicides, which make up a significant proportion of murders in the country.
+### OTHER on 2025-04-17 12:23
+- Location: Bar & Bench - Indian Legal News
+- Description: Vice President and Rajya Sabha Chairman Jagdeep Dhankar on Thursday said that judges in the country have no accountability and the law of the land does not appl
 
 
-### HOMICIDE on 2025-04-17 05:28
-- Location: Just Jared
-- Description: Kevin Bacon is sharing a crazy story about filming Wild Things. In a new interview, the 66-year-old actor recalled discovering a dead body while making the 1998 erotic thriller. “We were out in the swamp one night — a lot of mosquitoes, wow — and we were shoo…
+### OTHER on 2025-04-17 12:20
+- Location: The New Republic
+- Description: The following is a lightly edited transcript of the April 17 episode of the Daily Blast podcast. Listen to it here.
+Greg Sargent: This is The Daily Blast from The New Republic, produced and presented by the DSR network. I’m your host, Greg Sargent.
+Donald T…
 
 
-### OTHER on 2025-04-17 05:24
-- Location: EURACTIV
-- Description: In today’s edition of The Capitals, read about the Latvian parliament approving withdrawal from the Ottawa Convention, Bulgaria signing a deal with Shell to explore the Black Sea for oil and gas, and so much more.
+### OTHER on 2025-04-17 12:14
+- Location: Democracy Now!
+- Description: Vince Warren, executive director of the Center for Constitutional Rights, joins us as President Trump’s defiance of the courts is pushing the United States toward a constitutional crisis, with multiple judges weighing whether to open contempt proceedings agai…
 
-Analysis generated at: Fri Apr 18 06:19:26 UTC 2025
+Analysis generated at: Fri Apr 18 12:25:31 UTC 2025
