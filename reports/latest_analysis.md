@@ -1,10 +1,10 @@
 
-Loaded 27148 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-18 01:40:01
+Loaded 27187 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-18 06:16:04
 
 Incidents by source:
 source
-newsapi           27047
+newsapi           27086
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-04-18 01:40
+### SHOOTING on 2025-04-18 06:16
+- Location: People.cn
+- Description: NEW YORK, April 17 (Xinhua) -- At least six people were hospitalized on Thursday as a shooting took
+
+
+### OTHER on 2025-04-18 06:15
+- Location: New York Post
+- Description: A hatchet-wielding suspect nearly decapitated 32-year-old Jacob Couch at a Tuscon, Arizona, bus stop earlier this month while he was traveling with his wife back home to their native Alabama.
+
+
+### SHOOTING on 2025-04-18 06:12
+- Location: The Japan Times
+- Description: The law designates animals with a high risk of harming people as "dangerous wildlife animals" that can be shot.
+
+
+### HOMICIDE on 2025-04-18 06:10
+- Location: The Irish Times
+- Description: Six taken to hospital after Florida State University shooting, gunman (20) shot and wounded by police
+
+
+### HOMICIDE on 2025-04-18 06:08
 - Location: NDTV News
-- Description: The Bengaluru Police said Thursday that a man was arrested for endangering public safety by performing a dangerous stunt on a public road for an Instagram reel.
+- Description: At least two people were killed and six others sustained injuries in a shooting at Florida State University (FSU) on Thursday afternoon, officials said.
 
-
-### HOMICIDE on 2025-04-18 01:39
-- Location: CBC News
-- Description: Luigi Mangione was indicted Thursday on a federal murder charge in the killing of UnitedHealthcare CEO Brian Thompson, a required step as prosecutors work to make good on the Trump administration's order to seek the death penalty for what it called a "premedi…
-
-
-### OTHER on 2025-04-18 01:36
-- Location: The Punch
-- Description: As Christians across the country prepare to celebrate Easter, beginning with Good Friday, security agencies have pledged to ensure safety and peace throughout the festive period. The military high command, state police commands and the Nigeria Security and Ci…
-
-
-### HOMICIDE on 2025-04-18 01:31
-- Location: The Denver Post
-- Description: Two people were arrested on suspicion of first-degree murder Thursday after Denver police say they shot into a vehicle in Green Valley Ranch, killing the driver and injuring three others when the vehicle crashed and rolled.
-
-
-### OTHER on 2025-04-18 01:30
-- Location: Independent.ie
-- Description: Planning a night on the couch? Here are today’s stop TV and streaming picks:
-
-Analysis generated at: Sat Apr 19 01:43:06 UTC 2025
+Analysis generated at: Sat Apr 19 06:18:06 UTC 2025
