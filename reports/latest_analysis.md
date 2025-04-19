@@ -1,10 +1,10 @@
 
-Loaded 27113 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-17 18:15:36
+Loaded 27137 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-18 01:00:34
 
 Incidents by source:
 source
-newsapi           27012
+newsapi           27036
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-04-17 18:15
-- Location: Yahoo Entertainment
-- Description: None
+### HOMICIDE on 2025-04-18 01:00
+- Location: WSB Atlanta
+- Description: Bounty hunter among two killed at Stockbridge apartment complexwsbtv.com
 
 
-### HOMICIDE on 2025-04-17 18:15
-- Location: WFTV Orlando
-- Description: Police say a man believed to be a Florida State University student opened fire on campus, killing two people and wounding at least six others before he was shot and wounded by responding officers
+### HOMICIDE on 2025-04-18 00:59
+- Location: The Japan Times
+- Description: Mangione has separately been charged by New York state prosecutors with Brian Thompson’s murder and awaits trial.
 
 
-### SHOOTING on 2025-04-17 18:14
-- Location: The Times of India
-- Description: An active shooter situation was reported on the Tallahassee-based main campus of the Florida State University on Thursday, April 17. At least one suspect has been detained in connection with the incident. The police confirmed that multiple injuries were cause…
-
-
-### SHOOTING on 2025-04-17 18:14
+### HOMICIDE on 2025-04-18 00:56
 - Location: Freerepublic.com
-- Description: A suspect is in custody following a shooting at Florida State University in Tallahassee on Thursday, a police department spokesperson confirmed to the Tallahassee Democrat. The plice spokesperson also said there were "multiple injuries." A spokesperson for Ta…
+- Description: An algorithm has been developed by the UK’s Ministry of Justice to predict which criminals might later commit murder. The tool, originally named the “Homicide Prediction Project,” is called the “Sharing Data to Improve Risk Assessment.”Led by the Ministry of …
 
 
-### SHOOTING on 2025-04-17 18:13
-- Location: CBS News
-- Description: CBS News Miami reports a suspect is in custody after being shot in an exchange of gunfire with police. Several people were hospitalized.
+### OTHER on 2025-04-18 00:53
+- Location: Freerepublic.com
+- Description: The UK’s Crime and Policing Bill has passed two readings in the House of Commons and is at the Committee stage. It poses a significant threat to free speech.The Bill will allow courts to issue “respect orders” that can prohibit or require people to do anythin…
 
-Analysis generated at: Fri Apr 18 18:18:16 UTC 2025
+
+### OTHER on 2025-04-18 00:45
+- Location: Rolling Out
+- Description: Media mogul 50 Cent feels he is being jacked. He is miffed that Courtney A. Kemp, who helped launch the iconic “Power” franchise with him, is now launching another series, “Nemesis,” that was reportedly inspired by “Power.” While “Power” lit up the airwaves f…
+
+Analysis generated at: Sat Apr 19 01:02:01 UTC 2025
