@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Apr 20 06:18:08 UTC 2025
+Last updated: Sun Apr 20 12:23:27 UTC 2025
 
 ## Latest Analysis
 
-Loaded 27394 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-19 06:00:00
+Loaded 27457 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-19 12:15:00
 
 Incidents by source:
 source
-newsapi           27293
+newsapi           27356
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-04-19 06:00
-- Location: Naturalnews.com
-- Description: The U.K. Ministry of Justice is developing an algorithm to predict which individuals – some with no criminal records – might commit murder, drawing on 500,000+ datasets, including mental health histories, age of first police contact and domestic abuse experie…
+### OTHER on 2025-04-19 12:15
+- Location: New York Post
+- Description: The Brooklyn woman accused of leaving a brick scrawled with a swastika and the word "Nazi" on a parked Tesla is a super-woke family therapist who was involved in criminal justice diversion programs.
 
 
-### HOMICIDE on 2025-04-19 06:00
-- Location: Naturalnews.com
-- Description: The March 22, 2024, terrorist attack at Moscow’s Crocus City Hall — linked to Tajik suspects — killed 144 people, triggering a surge in xenophobia, discriminatory policies and violence against Central Asian migrants in Russia. The Kremlin’s response includes …
+### HOMICIDE on 2025-04-19 12:14
+- Location: Bangkok Post
+- Description: An autopsy report has confirmed that Thitisan &ldquo; Joe Ferrari &rdquo; Utthanaphon, a former police colonel convicted in the torture- murder  of a drug suspect, committed  suicide  while in custody at Klong Prem Central Prison in Bangkok.
 
 
-### OTHER on 2025-04-19 05:41
+### DRUG RELATED on 2025-04-19 12:09
+- Location: Fox News
+- Description: Leaders in AOC's Red Light District call on FBI chief Kash Patel to crush out-of-control sex trade and drug scourge in Democrat stronghold.
+
+
+### SHOOTING on 2025-04-19 12:08
+- Location: WFTV Orlando
+- Description: Polk County Sheriff’s Office has released preliminary information on officer-involved shooting that occurred late last night in Bartow.
+
+
+### DRUG RELATED on 2025-04-19 12:04
 - Location: The Times of India
-- Description: A retired government officer was scammed of ₹48 lakh after being digitally 'arrested' for 20 hours by fraudsters posing as law enforcement officials. Three suspects have been arrested in connection to the crime that threatened the victim's life.
+- Description: Amid Shine Tom Chacko’s arrest in a drug case, Unni Mukundan defended his film Marco, asserting it doesn’t promote substance abuse but reflects social realities. He urged society to address the broader drug crisis beyond cinema and welcomed women speaking out…
 
-
-### HOMICIDE on 2025-04-19 05:09
-- Location: New York Post
-- Description: The 32-year-old was left in critical condition after being attacked by suspected murderer Daniel Michael.
-
-
-### HOMICIDE on 2025-04-19 04:55
-- Location: New York Post
-- Description: "The rotten bastard people. I have no idea what we're going to do now, I have no idea."
-
-Analysis generated at: Sun Apr 20 06:18:08 UTC 2025
+Analysis generated at: Sun Apr 20 12:23:27 UTC 2025
