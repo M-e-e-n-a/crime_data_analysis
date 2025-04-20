@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Apr 20 12:39:39 UTC 2025
+Last updated: Sun Apr 20 18:16:53 UTC 2025
 
 ## Latest Analysis
 
-Loaded 27463 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-19 12:32:17
+Loaded 27522 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-19 18:15:00
 
 Incidents by source:
 source
-newsapi           27362
+newsapi           27421
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-04-19 12:32
-- Location: CNN
-- Description: As Ilana Badiner took shelter in the student union during the Florida State University shooting on Thursday, she remembers thinking “I kind of knew the drill already.”
+### HOMICIDE on 2025-04-19 18:15
+- Location: Radaronline.com
+- Description: Real Housewives of Orange County alum Lydia McLaughlin confirmed her brother's death in a statement she shared on Instagram.
 
 
-### OTHER on 2025-04-19 12:31
-- Location: New York Post
-- Description: This week’s White House meeting between President Trump and El Salvador’s President Nayib Bukele offered a crucial opportunity.
+### OTHER on 2025-04-19 17:41
+- Location: Reason
+- Description: Sentencing defendants based on acquitted conduct violates basic notions of justice.
 
 
-### HOMICIDE on 2025-04-19 12:30
-- Location: NDTV News
-- Description: A special court on Saturday allowed Shehzeen Siddique, the wife of former Maharashtra minister Baba Siddique, who was shot dead in October last year, to intervene in the proceedings of his murder case.
+### ASSAULT on 2025-04-19 17:37
+- Location: Securityaffairs.com
+- Description: Threat actors are actively exploiting a remote code execution flaw in SonicWall Secure Mobile Access (SMA) appliances since January 2025. Arctic Wolf researchers warn that threat actors actively exploit a vulnerability, tracked as CVE-2021-20035 (CVSS score o…
 
 
-### OTHER on 2025-04-19 12:30
-- Location: ComicBook.com
-- Description: Comic books and graphic novels are inherently a visual medium. They combine art and writing together to create a piece of work that serves as both art and storytelling. The art is just as integral to the understanding of the work as the dialogue or narration,…
+### OTHER on 2025-04-19 17:34
+- Location: Econlib.org
+- Description: Almost any economic change produces winners and losers.  Ride share companies hurt the taxi industry.  In the future, Waymo may undercut the ride share companies.  Imports of inexpensive sneakers from China hurt the US shoe making industry.  And now we discov…
 
 
-### ROBBERY/THEFT on 2025-04-19 12:30
-- Location: Elliott.org
-- Description: If you've ever stored your luggage with a hotel, you probably know the nagging question: Is my bag safe?
+### OTHER on 2025-04-19 17:30
+- Location: Anime News Network
+- Description: It’s hard to care about these characters when we’ve not been given adequate chance to get to know them or understand their motivations.
 
-Analysis generated at: Sun Apr 20 12:39:39 UTC 2025
+Analysis generated at: Sun Apr 20 18:16:53 UTC 2025
