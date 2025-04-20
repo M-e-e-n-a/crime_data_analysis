@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Apr 20 01:53:56 UTC 2025
+Last updated: Sun Apr 20 06:18:08 UTC 2025
 
 ## Latest Analysis
 
-Loaded 27370 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-19 01:50:39
+Loaded 27394 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-19 06:00:00
 
 Incidents by source:
 source
-newsapi           27269
+newsapi           27293
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-04-19 01:50
-- Location: ABC News
-- Description: Democratic Gov. Katie Hobbs has vetoed a Republican-backed bill intended to support the Trump administration’s immigration crackdown
+### HOMICIDE on 2025-04-19 06:00
+- Location: Naturalnews.com
+- Description: The U.K. Ministry of Justice is developing an algorithm to predict which individuals – some with no criminal records – might commit murder, drawing on 500,000+ datasets, including mental health histories, age of first police contact and domestic abuse experie…
 
 
-### OTHER on 2025-04-19 01:40
-- Location: Thegatewaypundit.com
-- Description: In a striking response, White House Deputy Chief of Staff Stephen Miller addresses the legal implications of sanctuary cities, emphasizing systemic violations and the urgent need for accountability. His remarks reveal a pivotal moment in the immigration debat…
+### HOMICIDE on 2025-04-19 06:00
+- Location: Naturalnews.com
+- Description: The March 22, 2024, terrorist attack at Moscow’s Crocus City Hall — linked to Tajik suspects — killed 144 people, triggering a surge in xenophobia, discriminatory policies and violence against Central Asian migrants in Russia. The Kremlin’s response includes …
 
 
-### HOMICIDE on 2025-04-19 01:35
-- Location: Richmond.com
-- Description: Richmond police detectives have identified the person who was located on Brander Street on Thursday as a juvenile female, 17, of North Chesterfield.
+### OTHER on 2025-04-19 05:41
+- Location: The Times of India
+- Description: A retired government officer was scammed of ₹48 lakh after being digitally 'arrested' for 20 hours by fraudsters posing as law enforcement officials. Three suspects have been arrested in connection to the crime that threatened the victim's life.
 
 
-### HOMICIDE on 2025-04-19 01:34
-- Location: ABC News
-- Description: A few of the people who were at Florida State University for a deadly shooting were also traumatized by the Parkland massacre seven years ago
+### HOMICIDE on 2025-04-19 05:09
+- Location: New York Post
+- Description: The 32-year-old was left in critical condition after being attacked by suspected murderer Daniel Michael.
 
 
-### HOMICIDE on 2025-04-19 01:31
-- Location: Breitbart News
-- Description: Police were called to the home belonging to the father of Austin Metcalf, the 17-year-old fatally stabbed at a track meet in Frisco, Texas, following the press conference held by his alleged killer's family.
-The post Police Called to Father of Austin Metcalf’…
+### HOMICIDE on 2025-04-19 04:55
+- Location: New York Post
+- Description: "The rotten bastard people. I have no idea what we're going to do now, I have no idea."
 
-Analysis generated at: Sun Apr 20 01:53:56 UTC 2025
+Analysis generated at: Sun Apr 20 06:18:08 UTC 2025
