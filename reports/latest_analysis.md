@@ -1,10 +1,10 @@
 
-Loaded 27457 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-19 12:15:00
+Loaded 27463 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-19 12:32:17
 
 Incidents by source:
 source
-newsapi           27356
+newsapi           27362
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-04-19 12:15
+### SHOOTING on 2025-04-19 12:32
+- Location: CNN
+- Description: As Ilana Badiner took shelter in the student union during the Florida State University shooting on Thursday, she remembers thinking “I kind of knew the drill already.”
+
+
+### OTHER on 2025-04-19 12:31
 - Location: New York Post
-- Description: The Brooklyn woman accused of leaving a brick scrawled with a swastika and the word "Nazi" on a parked Tesla is a super-woke family therapist who was involved in criminal justice diversion programs.
+- Description: This week’s White House meeting between President Trump and El Salvador’s President Nayib Bukele offered a crucial opportunity.
 
 
-### HOMICIDE on 2025-04-19 12:14
-- Location: Bangkok Post
-- Description: An autopsy report has confirmed that Thitisan &ldquo; Joe Ferrari &rdquo; Utthanaphon, a former police colonel convicted in the torture- murder  of a drug suspect, committed  suicide  while in custody at Klong Prem Central Prison in Bangkok.
+### HOMICIDE on 2025-04-19 12:30
+- Location: NDTV News
+- Description: A special court on Saturday allowed Shehzeen Siddique, the wife of former Maharashtra minister Baba Siddique, who was shot dead in October last year, to intervene in the proceedings of his murder case.
 
 
-### DRUG RELATED on 2025-04-19 12:09
-- Location: Fox News
-- Description: Leaders in AOC's Red Light District call on FBI chief Kash Patel to crush out-of-control sex trade and drug scourge in Democrat stronghold.
+### OTHER on 2025-04-19 12:30
+- Location: ComicBook.com
+- Description: Comic books and graphic novels are inherently a visual medium. They combine art and writing together to create a piece of work that serves as both art and storytelling. The art is just as integral to the understanding of the work as the dialogue or narration,…
 
 
-### SHOOTING on 2025-04-19 12:08
-- Location: WFTV Orlando
-- Description: Polk County Sheriff’s Office has released preliminary information on officer-involved shooting that occurred late last night in Bartow.
+### ROBBERY/THEFT on 2025-04-19 12:30
+- Location: Elliott.org
+- Description: If you've ever stored your luggage with a hotel, you probably know the nagging question: Is my bag safe?
 
-
-### DRUG RELATED on 2025-04-19 12:04
-- Location: The Times of India
-- Description: Amid Shine Tom Chacko’s arrest in a drug case, Unni Mukundan defended his film Marco, asserting it doesn’t promote substance abuse but reflects social realities. He urged society to address the broader drug crisis beyond cinema and welcomed women speaking out…
-
-Analysis generated at: Sun Apr 20 12:23:27 UTC 2025
+Analysis generated at: Sun Apr 20 12:39:39 UTC 2025
