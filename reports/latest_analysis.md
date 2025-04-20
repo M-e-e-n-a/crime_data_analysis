@@ -1,10 +1,10 @@
 
-Loaded 27359 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-18 18:16:28
+Loaded 27364 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-19 01:05:30
 
 Incidents by source:
 source
-newsapi           27258
+newsapi           27263
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,34 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-04-18 18:16
-- Location: Forbes
-- Description: The latest news on Sean 'Diddy' Combs' as he awaits trail on charges of sex trafficking and racketeering.
+### OTHER on 2025-04-19 01:05
+- Location: ABC News
+- Description: The suspect, Cody Balmer, referred to Pennsylvania Gov. Josh Shapiro and himself by name in the call, according to the recording.
 
 
-### OTHER on 2025-04-18 18:15
-- Location: CBC News
-- Description: A man wanted on a provincewide warrants has been arrested after a car crash near Brookfield.
+### OTHER on 2025-04-19 01:03
+- Location: TheStranger.com
+- Description: It’s time to dig your ballot out of your pile of unpaid bills and Safeway coupons. We’ve got a special election coming, and your ballot’s due on Tuesday. Let's get into it.
+ 
+ by Stranger Election Control Board
+ 
+ 
+ 
+ It’s time to dig through your pile of unp…
 
 
-### OTHER on 2025-04-18 18:12
-- Location: Techdirt
-- Description: It’s telling that the Trump Administration thinks it needs access to millions of taxpayer records to locate and capture “dangerous” immigrants. Most criminals don’t file taxes or hold down regular day jobs. On top of that, this undermines the constant claim m…
+### HOMICIDE on 2025-04-19 00:59
+- Location: Fox News
+- Description: The two victims killed Thursday in a mass shooting at Florida State University have been identified as fathers Robert Morales and Tiru Chabba.
 
 
-### HOMICIDE on 2025-04-18 18:12
-- Location: NBC News
-- Description: The suspect in the Florida State University shooting that left two people dead and several others wounded was the stepson of a sheriff’s deputy and Trump supporter who harbored white supremacist views and had a troubled childhood, officials and classmates sai…
+### HOMICIDE on 2025-04-19 00:22
+- Location: ABC News
+- Description: A Colorado man has been sentenced to life in prison for stalking his wife while posing as her ex-boyfriend and then murdering her, acts that the woman's father said were “pure selfish evil” that have robbed the couple’s three children of their parents
 
 
-### HOMICIDE on 2025-04-18 18:12
-- Location: WSOC Charlotte
-- Description: A large police presence in a Gastonia neighborhood was tied to a murder investigation in Staten Island, New York.
+### SHOOTING on 2025-04-19 00:15
+- Location: 7NEWS.com.au
+- Description: Man in critical condition after being accidentally shot by his son in hunting trip accident on Oberon property7news.com.au
 
-Analysis generated at: Sat Apr 19 18:16:38 UTC 2025
+Analysis generated at: Sun Apr 20 01:09:31 UTC 2025
