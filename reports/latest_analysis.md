@@ -1,10 +1,10 @@
 
-Loaded 27558 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-20 06:17:41
+Loaded 27601 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-20 12:10:43
 
 Incidents by source:
 source
-newsapi           27457
+newsapi           27500
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-04-20 06:17
-- Location: CBS News
-- Description: When Aaron Friar and his teenage daughter, Ellie, go missing in Medford, Oregon, Det. Bill Ford takes one of the suspects out for a cigarette break. It would...
+### OTHER on 2025-04-20 12:10
+- Location: Freerepublic.com
+- Description: While walking through the San Francisco Centre might feel like a complete ghost town, Bloomingdale's was bustling with shoppers looking for deals as the store offers 70% off before shuttering for good. Downtown San Francisco's ghostly and 'depressing' mall cl…
 
 
-### HOMICIDE on 2025-04-20 06:13
-- Location: NDTV News
-- Description: Three people have died and the Srinagar-Jammu national highway, the lifeline of the Valley, has been shut after heavy rain caused landslides and triggered flash floods in the Union Territory. Visuals show trucks stuck and vehicles submerged in debris
+### HOMICIDE on 2025-04-20 12:07
+- Location: BBC News
+- Description: The husband of Suzanne Cherry says golf "should have been the safest" of her hobbies.
 
 
-### OTHER on 2025-04-20 06:11
-- Location: The Times of India
-- Description: Former IAS officer Pradeep Sharma received a five-year sentence from a Gujarat court for a 2011 land allotment scam. The court found Sharma guilty of misusing his authority as Kutch district collector in 2004, causing financial losses to the state. Three othe…
+### HOMICIDE on 2025-04-20 12:03
+- Location: LADbible
+- Description: Brett Dryden was found dead in the Spanish village of Mojacar with a four-inch gash to his head on 22 July 2024
 
 
-### ROBBERY/THEFT on 2025-04-20 05:45
-- Location: KTLA Los Angeles
-- Description: A family was arrested for retail theft after ransacking a Target store in Upland. On April 16, surveillance video from the Upland Police Department captured ...
+### SHOOTING on 2025-04-20 12:02
+- Location: El Paso Times
+- Description: The El Paso Walmart mass shooting happened on Aug. 3, 2019. Here are some moments and names from one of the worst days in modern El Paso history.
 
 
-### OTHER on 2025-04-20 05:36
-- Location: The Times of India
-- Description: Andhra Pradesh police have apprehended nine individuals, including foreign nationals and those from Tamil Nadu, for allegedly stealing approximately 900 automotive engines from Kia Motors' Sri Sathya Sai plant. The engines were reportedly smuggled and sold ac…
+### OTHER on 2025-04-20 12:00
+- Location: The Denver Post
+- Description: The Denver Post examined the region’s approach to police pursuits after the Aurora Police Department quietly broadened its policy in October to allow officers to chase more suspects.
 
-Analysis generated at: Mon Apr 21 06:19:48 UTC 2025
+Analysis generated at: Mon Apr 21 12:26:22 UTC 2025
