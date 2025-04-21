@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Apr 20 18:16:53 UTC 2025
+Last updated: Mon Apr 21 01:08:21 UTC 2025
 
 ## Latest Analysis
 
-Loaded 27522 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-19 18:15:00
+Loaded 27529 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-20 01:00:46
 
 Incidents by source:
 source
-newsapi           27421
+newsapi           27428
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-04-19 18:15
-- Location: Radaronline.com
-- Description: Real Housewives of Orange County alum Lydia McLaughlin confirmed her brother's death in a statement she shared on Instagram.
+### OTHER on 2025-04-20 01:00
+- Location: Boredpanda.com
+- Description: This might be the last prank he decides to pull...
 
 
-### OTHER on 2025-04-19 17:41
-- Location: Reason
-- Description: Sentencing defendants based on acquitted conduct violates basic notions of justice.
+### OTHER on 2025-04-20 00:59
+- Location: Breitbart News
+- Description: A New York City woman accused of leaving a brick adorned with a swastika and the word "Nazi" on a Tesla is reportedly a family therapist who blames Elon Musk for her own actions.
+The post NYC Police: Therapist Who Committed Tesla Hate Crime Blames Elon Musk a…
 
 
-### ASSAULT on 2025-04-19 17:37
-- Location: Securityaffairs.com
-- Description: Threat actors are actively exploiting a remote code execution flaw in SonicWall Secure Mobile Access (SMA) appliances since January 2025. Arctic Wolf researchers warn that threat actors actively exploit a vulnerability, tracked as CVE-2021-20035 (CVSS score o…
+### HOMICIDE on 2025-04-20 00:43
+- Location: New Zealand Herald
+- Description: Harry told he ‘was to be murdered’ in legitimate terror threat.
 
 
-### OTHER on 2025-04-19 17:34
-- Location: Econlib.org
-- Description: Almost any economic change produces winners and losers.  Ride share companies hurt the taxi industry.  In the future, Waymo may undercut the ride share companies.  Imports of inexpensive sneakers from China hurt the US shoe making industry.  And now we discov…
+### OTHER on 2025-04-20 00:36
+- Location: Freerepublic.com
+- Description: Husband and I went on our morning walk and it did not go as expected. He noticed a small red light blinking at the wood line as we approached and we found a game camera, on our land, pointing at our house that isn't ours. He cut it down (it was attached with …
 
 
-### OTHER on 2025-04-19 17:30
-- Location: Anime News Network
-- Description: It’s hard to care about these characters when we’ve not been given adequate chance to get to know them or understand their motivations.
+### SHOOTING on 2025-04-20 00:36
+- Location: Yahoo Entertainment
+- Description: None
 
-Analysis generated at: Sun Apr 20 18:16:53 UTC 2025
+Analysis generated at: Mon Apr 21 01:08:21 UTC 2025
