@@ -1,10 +1,10 @@
 
-Loaded 27601 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-20 12:10:43
+Loaded 27603 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-20 12:35:31
 
 Incidents by source:
 source
-newsapi           27500
+newsapi           27502
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,6 +20,16 @@ bution.svg)
 
 ## Recent Incidents
 
+### OTHER on 2025-04-20 12:35
+- Location: New York Post
+- Description: The father of slain teen Austin Metcalf shared a gut-wrenching message on Easter Sunday — nearly three weeks after his 17-year-old son was fatally stabbed during a high school track meet. Jeff Metcalf shared the emotional song “Beat You There” by Will Dempsey…
+
+
+### ASSAULT on 2025-04-20 12:30
+- Location: The Conversation Africa
+- Description: A Dutton government would introduce new laws to disrupt organised crime and spend $355 million on a strike team to fight the illicit drug trade.
+
+
 ### OTHER on 2025-04-20 12:10
 - Location: Freerepublic.com
 - Description: While walking through the San Francisco Centre might feel like a complete ghost town, Bloomingdale's was bustling with shoppers looking for deals as the store offers 70% off before shuttering for good. Downtown San Francisco's ghostly and 'depressing' mall cl…
@@ -34,14 +44,4 @@ bution.svg)
 - Location: LADbible
 - Description: Brett Dryden was found dead in the Spanish village of Mojacar with a four-inch gash to his head on 22 July 2024
 
-
-### SHOOTING on 2025-04-20 12:02
-- Location: El Paso Times
-- Description: The El Paso Walmart mass shooting happened on Aug. 3, 2019. Here are some moments and names from one of the worst days in modern El Paso history.
-
-
-### OTHER on 2025-04-20 12:00
-- Location: The Denver Post
-- Description: The Denver Post examined the region’s approach to police pursuits after the Aurora Police Department quietly broadened its policy in October to allow officers to chase more suspects.
-
-Analysis generated at: Mon Apr 21 12:26:22 UTC 2025
+Analysis generated at: Mon Apr 21 12:43:09 UTC 2025
