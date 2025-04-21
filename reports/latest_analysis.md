@@ -1,10 +1,10 @@
 
-Loaded 27603 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-20 12:35:31
+Loaded 27649 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-20 18:14:26
 
 Incidents by source:
 source
-newsapi           27502
+newsapi           27548
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-04-20 12:35
+### HOMICIDE on 2025-04-20 18:14
+- Location: ABC News
+- Description: Classes will resume at Florida State University on Monday, four days after a deadly shooting on campus left two people dead and six others injured
+
+
+### HOMICIDE on 2025-04-20 18:01
+- Location: The Times of India
+- Description: Bengaluru: The decomposed body of a transperson was found in her house in KR Pura Sunday.
+
+
+### SHOOTING on 2025-04-20 18:00
 - Location: New York Post
-- Description: The father of slain teen Austin Metcalf shared a gut-wrenching message on Easter Sunday — nearly three weeks after his 17-year-old son was fatally stabbed during a high school track meet. Jeff Metcalf shared the emotional song “Beat You There” by Will Dempsey…
+- Description: Police responding to a 911 call at Brooklyn Bridge Park on Sunday morning found a man with an apparently self-inflicted gunshot wound.
 
 
-### ASSAULT on 2025-04-20 12:30
-- Location: The Conversation Africa
-- Description: A Dutton government would introduce new laws to disrupt organised crime and spend $355 million on a strike team to fight the illicit drug trade.
-
-
-### OTHER on 2025-04-20 12:10
-- Location: Freerepublic.com
-- Description: While walking through the San Francisco Centre might feel like a complete ghost town, Bloomingdale's was bustling with shoppers looking for deals as the store offers 70% off before shuttering for good. Downtown San Francisco's ghostly and 'depressing' mall cl…
-
-
-### HOMICIDE on 2025-04-20 12:07
+### HOMICIDE on 2025-04-20 17:57
 - Location: BBC News
-- Description: The husband of Suzanne Cherry says golf "should have been the safest" of her hobbies.
+- Description: The victim, 45, was declared dead at the scene, despite efforts of emergency services, police say.
 
 
-### HOMICIDE on 2025-04-20 12:03
-- Location: LADbible
-- Description: Brett Dryden was found dead in the Spanish village of Mojacar with a four-inch gash to his head on 22 July 2024
+### ASSAULT on 2025-04-20 17:45
+- Location: CBC News
+- Description: Two people were seriously injured in a machete attack early Friday morning in Winnipeg's Daniel McIntyre area.
 
-Analysis generated at: Mon Apr 21 12:43:09 UTC 2025
+Analysis generated at: Mon Apr 21 18:18:40 UTC 2025
