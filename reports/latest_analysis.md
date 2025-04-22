@@ -1,10 +1,10 @@
 
-Loaded 27652 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-21 00:16:41
+Loaded 27653 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-21 01:21:00
 
 Incidents by source:
 source
-newsapi           27551
+newsapi           27552
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -19,6 +19,11 @@ bution.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### SHOOTING on 2025-04-21 01:21
+- Location: Bangkok Post
+- Description: NARATHIWAT: Authorities stepped up security measures Monday morning after two bomging and shooting attacks injured 17 people Sunday night.
+
 
 ### OTHER on 2025-04-21 00:16
 - Location: CNN
@@ -40,9 +45,4 @@ The post Two Mexican Nationals Bu…
 - Location: ABC News
 - Description: Classes will resume at Florida State University on Monday, four days after a deadly shooting on campus left two people dead and six others injured
 
-
-### HOMICIDE on 2025-04-20 18:01
-- Location: The Times of India
-- Description: Bengaluru: The decomposed body of a transperson was found in her house in KR Pura Sunday.
-
-Analysis generated at: Tue Apr 22 01:05:01 UTC 2025
+Analysis generated at: Tue Apr 22 01:48:22 UTC 2025
