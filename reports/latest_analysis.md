@@ -1,10 +1,10 @@
 
-Loaded 27687 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-21 06:15:53
+Loaded 27764 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-21 12:20:41
 
 Incidents by source:
 source
-newsapi           27586
+newsapi           27663
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,41 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-04-21 06:15
-- Location: Hurriyet Daily News
-- Description: Authorities have detained 10 suspects in a crime ring as part of a major cross-border investigation into a phone scam that deceived elderly German citizens through impersonation tactics.
+### OTHER on 2025-04-21 12:20
+- Location: Demilked.com
+- Description: Americans who permanently moved abroad share their opinions on the aftermath. 
+The post 25 Americans Discuss Whether Becoming An Expat Was A Good Thing appeared first on DeMilked.
 
 
-### HOMICIDE on 2025-04-21 06:00
-- Location: Naturalnews.com
-- Description: A mass shooting at Florida State University (FSU) on April 18 left two dead and six injured. The suspect, 20-year-old Phoenix Ikner (son of a sheriff’s deputy), used his mother’s former service weapon. He was shot by police after firing in the student union a…
+### OTHER on 2025-04-21 12:00
+- Location: Breitbart News
+- Description: The lawmaker’s journey to the Central American nation, where he was denied access to Garcia at the Centro de Confinamiento del Terrorismo (CECOT) maximum security prison, showed the disturbing true colors of anti-borders politicians: an instinct to prioritize…
 
 
-### OTHER on 2025-04-21 06:00
-- Location: Naturalnews.com
-- Description: The U.K. Supreme Court unanimously ruled that the terms “woman” and “sex” in the Equality Act 2010 refer only to biological sex, excluding transgender women with Gender Recognition Certificates (GRCs) from being legally classified as women in certain contexts…
+### OTHER on 2025-04-21 12:00
+- Location: Bay12games.com
+- Description: (Toady One)
+
+Fortress mode
 
 
-### OTHER on 2025-04-21 06:00
-- Location: Naturalnews.com
-- Description: Police agencies near the U.S.-Mexico border are spending hundreds of thousands on AI-generated online personas to surveil activists, protesters, and suspected criminals. New York-based company Massive Blue markets its AI tool, Overwatch, as an “AI-powered for…
+<ul>
+<li>People that leave the map no longer lose their room ownership associations</li>
 
 
-### OTHER on 2025-04-21 06:00
-- Location: Variety
-- Description: The South Korean box office welcomed a new leader as crime thriller “Yadang: the Snitch” opened in first place with $4.1 million, commanding 69.8% of weekend revenues. Directed by Hwang Byeng-Gug and starring “Squid Game 2″ actor Kang Ha-neul, “Yadang: the Sn…
+<li>Stopped immigrants from losing their religions and some other affiliations</li>
 
-Analysis generated at: Tue Apr 22 06:19:41 UTC 2025
+
+<li>Added settings to customize keyboard scroll amoun…
+
+
+### SHOOTING on 2025-04-21 12:00
+- Location: The Truth About Guns
+- Description: Disarming Americans is a sore subject around these parts, as it should be, considering the natural right to self-preservation recognized by our Constitution. But, something tells me today’s disarmament discussion may be better received, as this time it is foc…
+
+
+### OTHER on 2025-04-21 12:00
+- Location: Bay12games.com
+- Description: DF Version 51.11 has been released.
+
+Analysis generated at: Tue Apr 22 12:26:38 UTC 2025
