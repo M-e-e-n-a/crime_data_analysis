@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Apr 22 12:44:26 UTC 2025
+Last updated: Tue Apr 22 18:18:56 UTC 2025
 
 ## Latest Analysis
 
-Loaded 27766 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-21 12:37:00
+Loaded 27843 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-21 18:17:56
 
 Incidents by source:
 source
-newsapi           27665
+newsapi           27742
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,41 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-04-21 12:37
-- Location: The Star Online
-- Description: SHAH ALAM: Police have arrested two men suspected of using a fake digital transaction receipt to dupe a woman trader at a restaurant in Section 13 here on April 14. Read full story
+### HOMICIDE on 2025-04-21 18:17
+- Location: The Denver Post
+- Description: Bryan Gallegos, 16, was charged as an adult with murder and attempted murder in the April 5 shooting outside the Foothills Mall in Fort Collins that killed two men, according to court records.
 
 
-### SHOOTING on 2025-04-21 12:27
-- Location: Freerepublic.com
-- Description: CONNECTICUT — A man from Bethlehem said he was caught in a tough situation that involved self defense and breaking the law.Todd Topicz exclusively told Channel 3 that was woken up in August by his pregnant wife after a bear came within feet of his two childre…
+### OTHER on 2025-04-21 18:14
+- Location: Theplaylist.net
+- Description: Writer/director Scott Frank is back at Netflix after delivering shows like the Western thriller “Godless” and Anya Taylor-Joy‘s chess prodigy drama “The Queen’s Gambit.” His latest show is “Dept. Q” starring Matthew Goode, and the streaming service was nice e…
 
 
-### OTHER on 2025-04-21 12:20
-- Location: Demilked.com
-- Description: Americans who permanently moved abroad share their opinions on the aftermath. 
-The post 25 Americans Discuss Whether Becoming An Expat Was A Good Thing appeared first on DeMilked.
+### OTHER on 2025-04-21 18:11
+- Location: Ms. Magazine
+- Description: An excerpt from Human/Animal: A Bestiary in Essays (out April 22 from Wilfrid Laurier University Press), Chapter 5: "On Catching and Being Caught."
+"I knew enough stories of violence to know that if I did not try and something happened, I would be to blame. .…
 
 
-### OTHER on 2025-04-21 12:00
-- Location: Breitbart News
-- Description: The lawmaker’s journey to the Central American nation, where he was denied access to Garcia at the Centro de Confinamiento del Terrorismo (CECOT) maximum security prison, showed the disturbing true colors of anti-borders politicians: an instinct to prioritize…
+### SHOOTING on 2025-04-21 18:10
+- Location: The Denver Post
+- Description: A recent headline from the University of Colorado boldly claims that 1 in 15 U.S. adults have “been at the scene of a mass shooting.”
 
 
-### OTHER on 2025-04-21 12:00
-- Location: Bay12games.com
-- Description: (Toady One)
+### OTHER on 2025-04-21 18:00
+- Location: The Irish Times
+- Description: Force that had policed the capital for almost 90 years vanished 100 years ago this month
 
-Fortress mode
-
-
-<ul>
-<li>People that leave the map no longer lose their room ownership associations</li>
-
-
-<li>Stopped immigrants from losing their religions and some other affiliations</li>
-
-
-<li>Added settings to customize keyboard scroll amoun…
-
-Analysis generated at: Tue Apr 22 12:44:26 UTC 2025
+Analysis generated at: Tue Apr 22 18:18:56 UTC 2025
