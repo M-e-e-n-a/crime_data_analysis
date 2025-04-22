@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Apr 22 12:26:38 UTC 2025
+Last updated: Tue Apr 22 12:44:26 UTC 2025
 
 ## Latest Analysis
 
-Loaded 27764 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-21 12:20:41
+Loaded 27766 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-21 12:37:00
 
 Incidents by source:
 source
-newsapi           27663
+newsapi           27665
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -23,6 +23,16 @@ bution.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### OTHER on 2025-04-21 12:37
+- Location: The Star Online
+- Description: SHAH ALAM: Police have arrested two men suspected of using a fake digital transaction receipt to dupe a woman trader at a restaurant in Section 13 here on April 14. Read full story
+
+
+### SHOOTING on 2025-04-21 12:27
+- Location: Freerepublic.com
+- Description: CONNECTICUT — A man from Bethlehem said he was caught in a tough situation that involved self defense and breaking the law.Todd Topicz exclusively told Channel 3 that was woken up in August by his pregnant wife after a bear came within feet of his two childre…
+
 
 ### OTHER on 2025-04-21 12:20
 - Location: Demilked.com
@@ -51,14 +61,4 @@ Fortress mode
 
 <li>Added settings to customize keyboard scroll amoun…
 
-
-### SHOOTING on 2025-04-21 12:00
-- Location: The Truth About Guns
-- Description: Disarming Americans is a sore subject around these parts, as it should be, considering the natural right to self-preservation recognized by our Constitution. But, something tells me today’s disarmament discussion may be better received, as this time it is foc…
-
-
-### OTHER on 2025-04-21 12:00
-- Location: Bay12games.com
-- Description: DF Version 51.11 has been released.
-
-Analysis generated at: Tue Apr 22 12:26:38 UTC 2025
+Analysis generated at: Tue Apr 22 12:44:26 UTC 2025
