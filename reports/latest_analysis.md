@@ -1,10 +1,10 @@
 
-Loaded 27653 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-21 01:21:00
+Loaded 27687 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-21 06:15:53
 
 Incidents by source:
 source
-newsapi           27552
+newsapi           27586
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-04-21 01:21
-- Location: Bangkok Post
-- Description: NARATHIWAT: Authorities stepped up security measures Monday morning after two bomging and shooting attacks injured 17 people Sunday night.
+### OTHER on 2025-04-21 06:15
+- Location: Hurriyet Daily News
+- Description: Authorities have detained 10 suspects in a crime ring as part of a major cross-border investigation into a phone scam that deceived elderly German citizens through impersonation tactics.
 
 
-### OTHER on 2025-04-21 00:16
-- Location: CNN
-- Description: Salvadoran President Nayib Bukele has proposed a prisoner exchange with Venezuela, offering to repatriate hundreds of Venezuelans who were deported from the ...
+### HOMICIDE on 2025-04-21 06:00
+- Location: Naturalnews.com
+- Description: A mass shooting at Florida State University (FSU) on April 18 left two dead and six injured. The suspect, 20-year-old Phoenix Ikner (son of a sheriff’s deputy), used his mother’s former service weapon. He was shot by police after firing in the student union a…
 
 
-### OTHER on 2025-04-21 00:08
-- Location: Freerepublic.com
-- Description: Tennessee swindlers forged the signatures of unsuspecting homeowners on deeds to transfer the property ownership for a measly $10 in a quit-claim scheme. Stuart Breakstone and his accomplice, Rebecca Tuttle, allegedly played out their ruse on at least two sep…
+### OTHER on 2025-04-21 06:00
+- Location: Naturalnews.com
+- Description: The U.K. Supreme Court unanimously ruled that the terms “woman” and “sex” in the Equality Act 2010 refer only to biological sex, excluding transgender women with Gender Recognition Certificates (GRCs) from being legally classified as women in certain contexts…
 
 
-### OTHER on 2025-04-21 00:00
-- Location: Thegatewaypundit.com
-- Description: In a startling incident, two Mexican nationals were apprehended in Colorado while transporting a staggering 180,000 rounds of ammunition. This case raises critical questions about border security and illegal arms trafficking.
-The post Two Mexican Nationals Bu…
+### OTHER on 2025-04-21 06:00
+- Location: Naturalnews.com
+- Description: Police agencies near the U.S.-Mexico border are spending hundreds of thousands on AI-generated online personas to surveil activists, protesters, and suspected criminals. New York-based company Massive Blue markets its AI tool, Overwatch, as an “AI-powered for…
 
 
-### HOMICIDE on 2025-04-20 18:14
-- Location: ABC News
-- Description: Classes will resume at Florida State University on Monday, four days after a deadly shooting on campus left two people dead and six others injured
+### OTHER on 2025-04-21 06:00
+- Location: Variety
+- Description: The South Korean box office welcomed a new leader as crime thriller “Yadang: the Snitch” opened in first place with $4.1 million, commanding 69.8% of weekend revenues. Directed by Hwang Byeng-Gug and starring “Squid Game 2″ actor Kang Ha-neul, “Yadang: the Sn…
 
-Analysis generated at: Tue Apr 22 01:48:22 UTC 2025
+Analysis generated at: Tue Apr 22 06:19:41 UTC 2025
