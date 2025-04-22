@@ -1,10 +1,10 @@
 
-Loaded 27649 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-20 18:14:26
+Loaded 27652 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-21 00:16:41
 
 Incidents by source:
 source
-newsapi           27548
+newsapi           27551
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,6 +20,22 @@ bution.svg)
 
 ## Recent Incidents
 
+### OTHER on 2025-04-21 00:16
+- Location: CNN
+- Description: Salvadoran President Nayib Bukele has proposed a prisoner exchange with Venezuela, offering to repatriate hundreds of Venezuelans who were deported from the ...
+
+
+### OTHER on 2025-04-21 00:08
+- Location: Freerepublic.com
+- Description: Tennessee swindlers forged the signatures of unsuspecting homeowners on deeds to transfer the property ownership for a measly $10 in a quit-claim scheme. Stuart Breakstone and his accomplice, Rebecca Tuttle, allegedly played out their ruse on at least two sep…
+
+
+### OTHER on 2025-04-21 00:00
+- Location: Thegatewaypundit.com
+- Description: In a startling incident, two Mexican nationals were apprehended in Colorado while transporting a staggering 180,000 rounds of ammunition. This case raises critical questions about border security and illegal arms trafficking.
+The post Two Mexican Nationals Bu…
+
+
 ### HOMICIDE on 2025-04-20 18:14
 - Location: ABC News
 - Description: Classes will resume at Florida State University on Monday, four days after a deadly shooting on campus left two people dead and six others injured
@@ -29,19 +45,4 @@ bution.svg)
 - Location: The Times of India
 - Description: Bengaluru: The decomposed body of a transperson was found in her house in KR Pura Sunday.
 
-
-### SHOOTING on 2025-04-20 18:00
-- Location: New York Post
-- Description: Police responding to a 911 call at Brooklyn Bridge Park on Sunday morning found a man with an apparently self-inflicted gunshot wound.
-
-
-### HOMICIDE on 2025-04-20 17:57
-- Location: BBC News
-- Description: The victim, 45, was declared dead at the scene, despite efforts of emergency services, police say.
-
-
-### ASSAULT on 2025-04-20 17:45
-- Location: CBC News
-- Description: Two people were seriously injured in a machete attack early Friday morning in Winnipeg's Daniel McIntyre area.
-
-Analysis generated at: Mon Apr 21 18:18:40 UTC 2025
+Analysis generated at: Tue Apr 22 01:05:01 UTC 2025
