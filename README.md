@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Apr 23 12:45:54 UTC 2025
+Last updated: Wed Apr 23 18:19:51 UTC 2025
 
 ## Latest Analysis
 
-Loaded 27970 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-22 12:45:14
+Loaded 28057 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-22 18:13:40
 
 Incidents by source:
 source
-newsapi           27869
+newsapi           27956
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-04-22 12:45
-- Location: BBC News
-- Description: The region's chief minister said the attack was "much larger than anything we've seen directed at civilians in recent years".
+### HOMICIDE on 2025-04-22 18:13
+- Location: NBC News
+- Description: A Florida man and his girlfriend who allegedly lured a 16-year-old girl through a social media application before killing and dismembering her may both be facing the death penalty, officials said.
 
 
-### OTHER on 2025-04-22 12:44
-- Location: The Local Sweden
-- Description: Sweden's personal care assistance industry has widespread connections to organised crime, according to an investigation by the police and Social Insurance Agency.
+### OTHER on 2025-04-22 18:12
+- Location: Fox News
+- Description: A Minnesota man accused of vandalizing at least six Teslas, which resulted in thousands of dollars in damage, will likely be spared from facing criminal charges.
 
 
-### OTHER on 2025-04-22 12:44
-- Location: New York Post
-- Description: A progressive district attorney has declined to charge a Tim Walz state employee allegedly caught causing $20,000 damage by vandalizing half a dozen Teslas.
-
-
-### HOMICIDE on 2025-04-22 12:44
-- Location: CBS News
-- Description: Watch live as Karen Read's second trial starts today with opening statements in the Massachusetts murder case.
-
-
-### HOMICIDE on 2025-04-22 12:40
+### OTHER on 2025-04-22 18:12
 - Location: Boston Herald
-- Description: Opening statements are expected Tuesday in the trial of Karen Read, who is accused of causing the death of her Boston police officer boyfriend but whose supporters contend is being framed for a murder she didn't commit.
+- Description: If approved, border security spending would increase to nearly $18 billion since 2021.
 
-Analysis generated at: Wed Apr 23 12:45:54 UTC 2025
+
+### OTHER on 2025-04-22 18:10
+- Location: Washington Free Beacon
+- Description: A Minnesota prosecutor is allowing state employee Dylan Adams to skirt criminal charges for vandalizing Tesla cars and causing more than $20,000 in damages, even after surveillance footage caught Adams vandalizing the vehicles.
+The post Far-Left Prosecutor Wo…
+
+
+### HOMICIDE on 2025-04-22 18:01
+- Location: RT
+- Description: Indian Prime Minister Narendra Modi has vowed to bring the perpetrators to justice Read Full Article at RT.com
+
+Analysis generated at: Wed Apr 23 18:19:51 UTC 2025
