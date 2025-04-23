@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Apr 23 01:05:39 UTC 2025
+Last updated: Wed Apr 23 01:48:52 UTC 2025
 
 ## Latest Analysis
 
-Loaded 27849 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-22 00:41:03
+Loaded 27852 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-22 01:43:13
 
 Incidents by source:
 source
-newsapi           27748
+newsapi           27751
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,6 +24,21 @@ bution.svg)
 
 ## Recent Incidents
 
+### HOMICIDE on 2025-04-22 01:43
+- Location: NBC News
+- Description: A South Carolina man was sentenced to life in prison Monday for gunning down a New Mexico state police officer who had stopped to help him.
+
+
+### HOMICIDE on 2025-04-22 01:20
+- Location: 7NEWS.com.au
+- Description: Adrian Torrens, 53, charged with the alleged murder of much-loved 19-year-old ironwoman Audrey Griffin7news.com.au
+
+
+### HOMICIDE on 2025-04-22 01:19
+- Location: ABC News (AU)
+- Description: A man accused of the shooting murder of South Australian police officer Jason Doig has been found mentally incompetent by the state's Supreme Court.
+
+
 ### SHOOTING on 2025-04-22 00:41
 - Location: WPXI Pittsburgh
 - Description: A criminal complaint states police identifed the man as a suspect through surveillance videos before and after the crime, as well as data from his PRT bus card.
@@ -33,19 +48,4 @@ bution.svg)
 - Location: NDTV News
 - Description: Nationalist Congress Party (NCP) leader and Baba Siddique&#039;s son Zeeshan Siddique has received a death threat via email, said police officials on Monday.
 
-
-### HOMICIDE on 2025-04-22 00:33
-- Location: Freerepublic.com
-- Description: FRISCO, Texas - Representatives for the family of Frisco murder suspect Karmelo Anthony issued a news release Monday morning saying they're "gravely concerned" about threats against them. Because of the threats, the Next Generation Action Network says the cou…
-
-
-### HOMICIDE on 2025-04-22 00:17
-- Location: KTLA Los Angeles
-- Description: Two people were shot Monday in Exposition Park, police confirmed to KTLA. Officers with the Los Angeles Police Department responded to reports of the...
-
-
-### HOMICIDE on 2025-04-22 00:03
-- Location: New York Post
-- Description: Archaga Carías, who also goes by “Porky,” directs several of notoriously violent gang’s criminal activities, including drug trafficking, money laundering, murder and kidnappings, according to the State Department.
-
-Analysis generated at: Wed Apr 23 01:05:39 UTC 2025
+Analysis generated at: Wed Apr 23 01:48:52 UTC 2025
