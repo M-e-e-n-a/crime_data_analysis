@@ -1,10 +1,10 @@
 
-Loaded 27960 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-22 12:07:00
+Loaded 27970 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-22 12:45:14
 
 Incidents by source:
 source
-newsapi           27859
+newsapi           27869
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-04-22 12:07
-- Location: CNET
-- Description: From the best lenses, filters and microphones, to grips and gimbals, these accessories will help you shoot better photos and videos with your phone.
+### HOMICIDE on 2025-04-22 12:45
+- Location: BBC News
+- Description: The region's chief minister said the attack was "much larger than anything we've seen directed at civilians in recent years".
 
 
-### OTHER on 2025-04-22 12:00
-- Location: Fox News
-- Description: Billy Ray Cyrus and Elizabeth Hurley announced their romance with a social media post on Easter Sunday, three years after working together on a Christmas film.
+### OTHER on 2025-04-22 12:44
+- Location: The Local Sweden
+- Description: Sweden's personal care assistance industry has widespread connections to organised crime, according to an investigation by the police and Social Insurance Agency.
 
 
-### OTHER on 2025-04-22 12:00
-- Location: Fark.com
-- Description: Day 1,154 of WW3. Pooty Poot now says he wants to negotiate directly with Ukraine. Lada sales in russia decline for some strange reason, and the US Ambassador resigns over philosophical differences with Stinky. This is your Tuesday Ukraine War thread
+### OTHER on 2025-04-22 12:44
+- Location: New York Post
+- Description: A progressive district attorney has declined to charge a Tim Walz state employee allegedly caught causing $20,000 damage by vandalizing half a dozen Teslas.
 
 
-### OTHER on 2025-04-22 12:00
-- Location: CBC News
-- Description: B.C.'s privacy watchdog has sided with a woman suing the provincial government and its victim assistance program over an alleged breach of her sensitive files.
+### HOMICIDE on 2025-04-22 12:44
+- Location: CBS News
+- Description: Watch live as Karen Read's second trial starts today with opening statements in the Massachusetts murder case.
 
 
-### ASSAULT on 2025-04-22 11:49
-- Location: Freerepublic.com
-- Description: Democrats are still reeling from the debacle that was their 2024 election cycle, and still have not found a means to effectively fight back against President Donald Trump’s ambitious agenda. So, naturally, they have decided to dip into the past and find a her…
+### HOMICIDE on 2025-04-22 12:40
+- Location: Boston Herald
+- Description: Opening statements are expected Tuesday in the trial of Karen Read, who is accused of causing the death of her Boston police officer boyfriend but whose supporters contend is being framed for a murder she didn't commit.
 
-Analysis generated at: Wed Apr 23 12:27:08 UTC 2025
+Analysis generated at: Wed Apr 23 12:45:54 UTC 2025
