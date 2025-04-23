@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Apr 23 06:19:45 UTC 2025
+Last updated: Wed Apr 23 12:27:08 UTC 2025
 
 ## Latest Analysis
 
-Loaded 27886 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-22 06:09:45
+Loaded 27960 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-22 12:07:00
 
 Incidents by source:
 source
-newsapi           27785
+newsapi           27859
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-04-22 06:09
-- Location: ABC News (AU)
-- Description: A 38-year-old man appears in Derby Magistrate's Court charged with murder after the death of a woman in the state's Kimberley region.
+### SHOOTING on 2025-04-22 12:07
+- Location: CNET
+- Description: From the best lenses, filters and microphones, to grips and gimbals, these accessories will help you shoot better photos and videos with your phone.
 
 
-### DRUG RELATED on 2025-04-22 05:48
-- Location: The Conversation Africa
-- Description: Across Brazil organised crime is diversifying beyond narcotics, arms trafficking into the biofuel and fossil fuel sectors
+### OTHER on 2025-04-22 12:00
+- Location: Fox News
+- Description: Billy Ray Cyrus and Elizabeth Hurley announced their romance with a social media post on Easter Sunday, three years after working together on a Christmas film.
 
 
-### SHOOTING on 2025-04-22 05:44
-- Location: 7NEWS.com.au
-- Description: Bradley Donald Towle, 41, was arrested on Monday after police pulled their guns and ordered him out of the car.
+### OTHER on 2025-04-22 12:00
+- Location: Fark.com
+- Description: Day 1,154 of WW3. Pooty Poot now says he wants to negotiate directly with Ukraine. Lada sales in russia decline for some strange reason, and the US Ambassador resigns over philosophical differences with Stinky. This is your Tuesday Ukraine War thread
 
 
-### OTHER on 2025-04-22 05:37
-- Location: Starcommunity.com.au
-- Description: Outraged and heartbroken, protesters from east and west united at Nicholson Street on April 22, demanding justice after the fatal […]
+### OTHER on 2025-04-22 12:00
+- Location: CBC News
+- Description: B.C.'s privacy watchdog has sided with a woman suing the provincial government and its victim assistance program over an alleged breach of her sensitive files.
 
 
-### OTHER on 2025-04-22 05:30
-- Location: The Star Online
-- Description: Transnational organised crime groups in East and South-East Asia are spreading their lucrative scam operations across the globe in response to increased crackdowns by authorities, according to a UN report issued on April 21. Read full story
+### ASSAULT on 2025-04-22 11:49
+- Location: Freerepublic.com
+- Description: Democrats are still reeling from the debacle that was their 2024 election cycle, and still have not found a means to effectively fight back against President Donald Trump’s ambitious agenda. So, naturally, they have decided to dip into the past and find a her…
 
-Analysis generated at: Wed Apr 23 06:19:45 UTC 2025
+Analysis generated at: Wed Apr 23 12:27:08 UTC 2025
