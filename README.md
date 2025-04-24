@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Apr 24 01:49:08 UTC 2025
+Last updated: Thu Apr 24 06:20:21 UTC 2025
 
 ## Latest Analysis
 
-Loaded 28074 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-23 01:40:25
+Loaded 28121 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-23 06:15:57
 
 Incidents by source:
 source
-newsapi           27973
+newsapi           28020
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-04-23 01:40
-- Location: Thegatewaypundit.com
-- Description: A Southern California jury has found an Orange County judge guilty of second-degree murder in the shocking case of his wife's fatal shooting, raising profound questions about justice and accountability within the legal system.
-The post SoCal: Jury Convicts Or…
-
-
-### OTHER on 2025-04-23 01:26
-- Location: Fox News
-- Description: A Miami resident, who led Florida deputies on a car chase, offered them a Vodka spritzer to show there were no hard feelings during their pursuit, authorities said Monday.
-
-
-### OTHER on 2025-04-23 01:26
-- Location: Thepinknews.com
-- Description: Conservative leader Kemi Badenoch wants police to stop recording non-criminal hate incidents (NCHIs) in England and Wales. The Conservatives said on Tuesday (22 April) that non-crime hate incidents should no longer be recorded in all but a few cases.  As per …
-
-
-### HOMICIDE on 2025-04-23 01:17
-- Location: ABC News (AU)
-- Description: This is the Idaho murderer's fourth life sentence after she was already convicted in Idaho in the killings of her two youngest children and a romantic rival.
-
-
-### HOMICIDE on 2025-04-23 01:16
+### HOMICIDE on 2025-04-23 06:15
 - Location: The Times of India
-- Description: Bengaluru police filed a case against Indian Air Force Wing Commander Shiladitya Bose. The charges include attempted murder and disturbing peace. This followed a counter-complaint by BPO employee Vikas Kumar. Kumar alleged Bose assaulted him after a road inci…
+- Description: The deadly terror attack in Pahalgam, Jammu and Kashmir, on Tuesday left 28 people dead, including foreign nationals, and sparked widespread condemnation. The attack, attributed to The Resistance Front, targeted tourists based on their faith. Former police ch…
 
-Analysis generated at: Thu Apr 24 01:49:08 UTC 2025
+
+### HOMICIDE on 2025-04-23 06:02
+- Location: The Times of India
+- Description: Bukavu, controlled by the M23, faces nightly killings and widespread fear as Congolese troops fled, leaving weapons accessible to criminals. The absence of courts and police exacerbates the situation, with residents resorting to self-defense measures. While t…
+
+
+### OTHER on 2025-04-23 06:01
+- Location: Louder
+- Description: Fiends, lovers and the people who knew him best reveal the man behind Johnny Thunders, New York Doll-turned-junkie poster boy
+
+
+### ASSAULT on 2025-04-23 05:54
+- Location: Freerepublic.com
+- Description: The Trump administration’s mass deportation raids have nabbed more than 200 known or suspected terrorists since January — including one of India’s “most wanted,” who is accused of masterminding a grenade attack on a cop there and has ties to a US-designated t…
+
+
+### HOMICIDE on 2025-04-23 05:52
+- Location: NDTV News
+- Description: Prashant Satpathy, a resident of Odisha&#039;s Balasore district, was among the 26 civilians killed in the terror attack at Baisaran near Jammu and Kashmir&#039;s Pahalgam on Tuesday afternoon.
+
+Analysis generated at: Thu Apr 24 06:20:21 UTC 2025
