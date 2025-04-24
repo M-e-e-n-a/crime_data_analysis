@@ -1,10 +1,10 @@
 
-Loaded 28057 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-22 18:13:40
+Loaded 28068 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-23 01:00:25
 
 Incidents by source:
 source
-newsapi           27956
+newsapi           27967
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-04-22 18:13
+### OTHER on 2025-04-23 01:00
+- Location: Forbes
+- Description: The "Star Wars" series "Andor" Season 2 features the return of Adria Arjona, who stars as Bix Caleen opposite Diego Luna’s Cassian Andor. What else has Arjona starred in before?
+
+
+### SHOOTING on 2025-04-23 00:50
+- Location: ABC News (AU)
+- Description: No bail application for a Sunshine Coast man facing 15 charges over a fatal crash, shooting and string of alleged carjackings on Monday.
+
+
+### ROBBERY/THEFT on 2025-04-23 00:43
 - Location: NBC News
-- Description: A Florida man and his girlfriend who allegedly lured a 16-year-old girl through a social media application before killing and dismembering her may both be facing the death penalty, officials said.
+- Description: Three days before Department of Homeland Security Secretary Kristi Noem's handbag was stolen while she dined out at a Washington restaurant, another woman eating with her own family at a nearby eatery had her purse taken in a similar manner, records show.
 
 
-### OTHER on 2025-04-22 18:12
+### OTHER on 2025-04-23 00:25
 - Location: Fox News
-- Description: A Minnesota man accused of vandalizing at least six Teslas, which resulted in thousands of dollars in damage, will likely be spared from facing criminal charges.
+- Description: The first RICO racketeering charges against members and associates of the migrant terrorist group Tren de Aragua were filed this week in New York.
 
 
-### OTHER on 2025-04-22 18:12
-- Location: Boston Herald
-- Description: If approved, border security spending would increase to nearly $18 billion since 2021.
+### HOMICIDE on 2025-04-23 00:22
+- Location: CBC News
+- Description: A Calgary man who shot into a crowded bar, killing a refugee pleaded guilty to manslaughter on Tuesday and was handed an eight-year prison sentence.
 
-
-### OTHER on 2025-04-22 18:10
-- Location: Washington Free Beacon
-- Description: A Minnesota prosecutor is allowing state employee Dylan Adams to skirt criminal charges for vandalizing Tesla cars and causing more than $20,000 in damages, even after surveillance footage caught Adams vandalizing the vehicles.
-The post Far-Left Prosecutor Wo…
-
-
-### HOMICIDE on 2025-04-22 18:01
-- Location: RT
-- Description: Indian Prime Minister Narendra Modi has vowed to bring the perpetrators to justice Read Full Article at RT.com
-
-Analysis generated at: Wed Apr 23 18:19:51 UTC 2025
+Analysis generated at: Thu Apr 24 01:05:36 UTC 2025
