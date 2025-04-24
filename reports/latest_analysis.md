@@ -1,10 +1,10 @@
 
-Loaded 28188 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-23 12:35:18
+Loaded 28276 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-23 18:15:48
 
 Incidents by source:
 source
-newsapi           28087
+newsapi           28175
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-04-23 12:35
-- Location: ABC News (AU)
-- Description: The Coalition says if elected they will create a national database of domestic violence offenders and introduce other measures to tackle the abuse epidemic.
+### OTHER on 2025-04-23 18:15
+- Location: Securityaffairs.com
+- Description: New malware campaign targets Docker environments using unknown methods to secretly mine cryptocurrency, researchers warn. Researchers from Darktrace and Cado Security have spotted a malware campaign that targets Docker environments with a novel technique to m…
 
 
-### ROBBERY/THEFT on 2025-04-23 12:30
-- Location: Breitbart News
-- Description: The Department of Justice filed multiple federal charges against 27 members of the hyperviolent Tren de Aragua Venezuelan gang on Monday. The charges include Racketeering, Narcotics and Sex Trafficking, Robbery, and Firearms offenses. DOJ officials say this m…
+### HOMICIDE on 2025-04-23 18:13
+- Location: Newsweek
+- Description: A Guatemalan national accused of killing his girlfriend was taken into Immigration and Customs Enforcement custody earlier this month.
 
 
-### OTHER on 2025-04-23 12:30
-- Location: ARTnews
-- Description: A labor dispute and pro-Palestine protest movement on the campus of the School of the Art Institute have ignited divisions with the administration.
+### ASSAULT on 2025-04-23 18:12
+- Location: Reason
+- Description: President Donald Trump and his administration continued to assault the concept of due process this week, with Trump claiming that undocumented immigrants
 
 
-### ASSAULT on 2025-04-23 12:20
-- Location: The Root
-- Description: For over a year, a Black firehouse employee didn’t come forth about the torment he experienced from his two white coworkers. Now that the two have been found out, they’re facing some serious consequences.Read more...
+### OTHER on 2025-04-23 18:06
+- Location: ABC News
+- Description: U.S. District Judge Paula Xinis is the latest judge at odds with the Trump administration
 
 
-### ROBBERY/THEFT on 2025-04-23 12:19
-- Location: Newser
-- Description: An alleged shoplifting gang in the UK has been busted up by arrests, thanks to DNA evidence in some of the stolen items. Per Surrey Live , 100-plus police officers raided eight different shops in the London area suspected of buying up food and booze stolen fr…
+### HOMICIDE on 2025-04-23 18:02
+- Location: PBS
+- Description: People who attended a 2022 Independence Day parade where seven people were killed and dozens injured in a mass shooting are testifying about the chaos and terror that erupted as shots rang out.
 
-Analysis generated at: Thu Apr 24 12:46:35 UTC 2025
+Analysis generated at: Thu Apr 24 18:18:38 UTC 2025
