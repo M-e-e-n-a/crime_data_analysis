@@ -1,10 +1,10 @@
 
-Loaded 28068 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-23 01:00:25
+Loaded 28074 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-23 01:40:25
 
 Incidents by source:
 source
-newsapi           27967
+newsapi           27973
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-04-23 01:00
-- Location: Forbes
-- Description: The "Star Wars" series "Andor" Season 2 features the return of Adria Arjona, who stars as Bix Caleen opposite Diego Luna’s Cassian Andor. What else has Arjona starred in before?
+### HOMICIDE on 2025-04-23 01:40
+- Location: Thegatewaypundit.com
+- Description: A Southern California jury has found an Orange County judge guilty of second-degree murder in the shocking case of his wife's fatal shooting, raising profound questions about justice and accountability within the legal system.
+The post SoCal: Jury Convicts Or…
 
 
-### SHOOTING on 2025-04-23 00:50
-- Location: ABC News (AU)
-- Description: No bail application for a Sunshine Coast man facing 15 charges over a fatal crash, shooting and string of alleged carjackings on Monday.
-
-
-### ROBBERY/THEFT on 2025-04-23 00:43
-- Location: NBC News
-- Description: Three days before Department of Homeland Security Secretary Kristi Noem's handbag was stolen while she dined out at a Washington restaurant, another woman eating with her own family at a nearby eatery had her purse taken in a similar manner, records show.
-
-
-### OTHER on 2025-04-23 00:25
+### OTHER on 2025-04-23 01:26
 - Location: Fox News
-- Description: The first RICO racketeering charges against members and associates of the migrant terrorist group Tren de Aragua were filed this week in New York.
+- Description: A Miami resident, who led Florida deputies on a car chase, offered them a Vodka spritzer to show there were no hard feelings during their pursuit, authorities said Monday.
 
 
-### HOMICIDE on 2025-04-23 00:22
-- Location: CBC News
-- Description: A Calgary man who shot into a crowded bar, killing a refugee pleaded guilty to manslaughter on Tuesday and was handed an eight-year prison sentence.
+### OTHER on 2025-04-23 01:26
+- Location: Thepinknews.com
+- Description: Conservative leader Kemi Badenoch wants police to stop recording non-criminal hate incidents (NCHIs) in England and Wales. The Conservatives said on Tuesday (22 April) that non-crime hate incidents should no longer be recorded in all but a few cases.  As per …
 
-Analysis generated at: Thu Apr 24 01:05:36 UTC 2025
+
+### HOMICIDE on 2025-04-23 01:17
+- Location: ABC News (AU)
+- Description: This is the Idaho murderer's fourth life sentence after she was already convicted in Idaho in the killings of her two youngest children and a romantic rival.
+
+
+### HOMICIDE on 2025-04-23 01:16
+- Location: The Times of India
+- Description: Bengaluru police filed a case against Indian Air Force Wing Commander Shiladitya Bose. The charges include attempted murder and disturbing peace. This followed a counter-complaint by BPO employee Vikas Kumar. Kumar alleged Bose assaulted him after a road inci…
+
+Analysis generated at: Thu Apr 24 01:49:08 UTC 2025
