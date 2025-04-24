@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Apr 24 06:20:21 UTC 2025
+Last updated: Thu Apr 24 12:28:03 UTC 2025
 
 ## Latest Analysis
 
-Loaded 28121 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-23 06:15:57
+Loaded 28185 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-23 12:20:00
 
 Incidents by source:
 source
-newsapi           28020
+newsapi           28084
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-04-23 06:15
-- Location: The Times of India
-- Description: The deadly terror attack in Pahalgam, Jammu and Kashmir, on Tuesday left 28 people dead, including foreign nationals, and sparked widespread condemnation. The attack, attributed to The Resistance Front, targeted tourists based on their faith. Former police ch…
+### ASSAULT on 2025-04-23 12:20
+- Location: The Root
+- Description: For over a year, a Black firehouse employee didn’t come forth about the torment he experienced from his two white coworkers. Now that the two have been found out, they’re facing some serious consequences.Read more...
 
 
-### HOMICIDE on 2025-04-23 06:02
-- Location: The Times of India
-- Description: Bukavu, controlled by the M23, faces nightly killings and widespread fear as Congolese troops fled, leaving weapons accessible to criminals. The absence of courts and police exacerbates the situation, with residents resorting to self-defense measures. While t…
+### ROBBERY/THEFT on 2025-04-23 12:19
+- Location: Newser
+- Description: An alleged shoplifting gang in the UK has been busted up by arrests, thanks to DNA evidence in some of the stolen items. Per Surrey Live , 100-plus police officers raided eight different shops in the London area suspected of buying up food and booze stolen fr…
 
 
-### OTHER on 2025-04-23 06:01
-- Location: Louder
-- Description: Fiends, lovers and the people who knew him best reveal the man behind Johnny Thunders, New York Doll-turned-junkie poster boy
+### HOMICIDE on 2025-04-23 12:16
+- Location: The Star Online
+- Description: PETALING JAYA: An investigating officer in Zayn Rayyan Abdul Matin's murder case told the Sessions Court here on Wednesday (April 23) that the probe into the autistic child's parents, Ismanira Abdul Manaf and Zaim Ikhwan Zahari, was not conducted frivolously …
 
 
-### ASSAULT on 2025-04-23 05:54
-- Location: Freerepublic.com
-- Description: The Trump administration’s mass deportation raids have nabbed more than 200 known or suspected terrorists since January — including one of India’s “most wanted,” who is accused of masterminding a grenade attack on a cop there and has ties to a US-designated t…
+### HOMICIDE on 2025-04-23 12:09
+- Location: New York Post
+- Description: Cops are expected Wednesday to finally reveal the identity a woman dubbed “Peaches” and her 2-year-old daughter after their remains were found at Gilgo Beach nearly 30 years ago. Nassau County investigators plan to release the victims’ names at a planned news…
 
 
-### HOMICIDE on 2025-04-23 05:52
-- Location: NDTV News
-- Description: Prashant Satpathy, a resident of Odisha&#039;s Balasore district, was among the 26 civilians killed in the terror attack at Baisaran near Jammu and Kashmir&#039;s Pahalgam on Tuesday afternoon.
+### OTHER on 2025-04-23 12:05
+- Location: Torrentfreak.com
+- Description: Since October 2023, relentless high-profile media reports have warned that UK-based users of pirate streaming services run a serious risk of arrest. Those claims sit in contrast to comments made by the head of the Police Intellectual Property Crime Unit (PIPC…
 
-Analysis generated at: Thu Apr 24 06:20:21 UTC 2025
+Analysis generated at: Thu Apr 24 12:28:03 UTC 2025
