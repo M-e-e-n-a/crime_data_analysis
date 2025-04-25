@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Apr 25 06:19:38 UTC 2025
+Last updated: Fri Apr 25 12:27:14 UTC 2025
 
 ## Latest Analysis
 
-Loaded 28322 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-24 06:06:22
+Loaded 28404 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-24 12:24:25
 
 Incidents by source:
 source
-newsapi           28221
+newsapi           28303
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-04-24 06:06
-- Location: The-independent.com
-- Description: The prisoner will join approximately one in ten people on death row in America who ask for their own executions
+### HOMICIDE on 2025-04-24 12:24
+- Location: Boston Herald
+- Description: A man has been arrested and charged with murder after two bodies were found Wednesday in a wooded area behind a shopping area in Salem.
 
 
-### ROBBERY/THEFT on 2025-04-24 06:00
-- Location: Starcommunity.com.au
-- Description: A man accused of an alleged car theft and hit-and-run at Casey Hospital on 23 April had been allegedly on […]
+### HOMICIDE on 2025-04-24 12:23
+- Location: Digital Journal
+- Description: India and Pakistan exchanged an escalating series of tit-for-tat diplomatic measures on Thursday after New Delhi blamed its arch-rival for backing a deadly shooting attack in contested Kashmir.   Prime Minister Narendra Modi vowed to pursue and punish the gun…
 
 
-### ROBBERY/THEFT on 2025-04-24 06:00
-- Location: Naturalnews.com
-- Description: In an instant, losing your phone can escalate from a minor inconvenience to a full-scale digital emergency. Each year, millions of smartphones vanish—whether misplaced or stolen—unlocking vast vulnerabilities for identity theft, financial fraud, and even blac…
+### HOMICIDE on 2025-04-24 12:23
+- Location: Freerepublic.com
+- Description: Liberalism is dead and liberals killed it.. A handful of years after they cheered a president flanked by armed soldiers declaring half the countries to be enemies of the state, liberals are denouncing President Trump as a dangerous authoritarian. The misinfor…
 
 
-### HOMICIDE on 2025-04-24 05:58
-- Location: New York Post
-- Description: The community pillar was struck and crumpled to the ground when she attempted to run back inside to safety.
+### HOMICIDE on 2025-04-24 12:22
+- Location: Breitbart News
+- Description: U.S. Immigration and Customs Enforcement (ICE) Enforcement and Removal Operations (ERO) officers arrested a Guatemalan illegal alien after he allegedly murdered his Guatemalan girlfriend in Maryland. Officers also arrested the man's uncle as an alleged access…
 
 
-### OTHER on 2025-04-24 05:52
-- Location: ABC News (AU)
-- Description: The NT government has promised to urgently pass new bail laws to bring the territory in-line with Victoria and NSW in the wake of a fatal stabbing of a local Darwin grocer.
+### OTHER on 2025-04-24 12:20
+- Location: Fox News
+- Description: The Fox News Lifestyle Newsletter brings you trending stories on family, travel, food, neighbors helping neighbors, pets, autos, military veterans, heroes, faith and American values.
 
-Analysis generated at: Fri Apr 25 06:19:38 UTC 2025
+Analysis generated at: Fri Apr 25 12:27:14 UTC 2025
