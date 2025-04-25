@@ -1,10 +1,10 @@
 
-Loaded 28276 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-23 18:15:48
+Loaded 28285 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-24 00:53:02
 
 Incidents by source:
 source
-newsapi           28175
+newsapi           28184
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-04-23 18:15
-- Location: Securityaffairs.com
-- Description: New malware campaign targets Docker environments using unknown methods to secretly mine cryptocurrency, researchers warn. Researchers from Darktrace and Cado Security have spotted a malware campaign that targets Docker environments with a novel technique to m…
+### OTHER on 2025-04-24 00:53
+- Location: New York Post
+- Description: It is not believed that Gordon Ramsay was home at the time of the incident.
 
 
-### HOMICIDE on 2025-04-23 18:13
-- Location: Newsweek
-- Description: A Guatemalan national accused of killing his girlfriend was taken into Immigration and Customs Enforcement custody earlier this month.
+### HOMICIDE on 2025-04-24 00:46
+- Location: NBC News
+- Description: In tearful testimony, the mother of a Boston police officer recounted how her son was discovered unresponsive in a snowbank, and disputed comments made about her in media interviews by Karen Read, whom prosecutors accuse of killing the officer.
 
 
-### ASSAULT on 2025-04-23 18:12
-- Location: Reason
-- Description: President Donald Trump and his administration continued to assault the concept of due process this week, with Trump claiming that undocumented immigrants
+### HOMICIDE on 2025-04-24 00:41
+- Location: New York Post
+- Description: The New England serial killer rumors spread through a Facebook page with more than 65,000 members.
 
 
-### OTHER on 2025-04-23 18:06
-- Location: ABC News
-- Description: U.S. District Judge Paula Xinis is the latest judge at odds with the Trump administration
+### HOMICIDE on 2025-04-24 00:38
+- Location: Newsonjapan.com
+- Description: A man found wandering naked in Saitama Prefecture has been arrested after a string of violent incidents, including a fatal hit-and-run and an attempted abduction, unfolded within roughly 90 minutes on April 21st. (News On Japan)
 
 
-### HOMICIDE on 2025-04-23 18:02
-- Location: PBS
-- Description: People who attended a 2022 Independence Day parade where seven people were killed and dozens injured in a mass shooting are testifying about the chaos and terror that erupted as shots rang out.
+### HOMICIDE on 2025-04-24 00:28
+- Location: CHS Capitol Hill Seattle News
+- Description: A memorial of flowers and chalk messages for Salvador “Junior” Granillo grew this week in front of Garfield High School. His death comes as school officials this week said the city’s campuses have new protections against gun violence that are … Continue readi…
 
-Analysis generated at: Thu Apr 24 18:18:38 UTC 2025
+Analysis generated at: Fri Apr 25 01:05:41 UTC 2025
