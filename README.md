@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Apr 25 01:49:43 UTC 2025
+Last updated: Fri Apr 25 06:19:38 UTC 2025
 
 ## Latest Analysis
 
-Loaded 28291 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-24 01:35:42
+Loaded 28322 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-24 06:06:22
 
 Incidents by source:
 source
-newsapi           28190
+newsapi           28221
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-04-24 01:35
-- Location: Freerepublic.com
-- Description: Kilmar Abrego Garcia, a suspected MS-13 gang member whose deportation case has made him a hero for the Democratic Party, was previously stopped by a highway patrol officer while driving a car belonging to a confessed human trafficker, multiple Department of H…
+### HOMICIDE on 2025-04-24 06:06
+- Location: The-independent.com
+- Description: The prisoner will join approximately one in ten people on death row in America who ask for their own executions
 
 
-### OTHER on 2025-04-24 01:30
-- Location: Independent.ie
-- Description: Within minutes of finishing The Secret Room, the 12th novel in Jane Casey’s Detective Sergeant Maeve Kerrigan series, I had added three earlier Kerrigan series books to my Kindle library. Numbers one, 10 and 11 to be precise. And because all were delivered by…
+### ROBBERY/THEFT on 2025-04-24 06:00
+- Location: Starcommunity.com.au
+- Description: A man accused of an alleged car theft and hit-and-run at Casey Hospital on 23 April had been allegedly on […]
 
 
-### ASSAULT on 2025-04-24 01:26
-- Location: Freerepublic.com
-- Description: Mohamed Adan Mohamed was arrested last week; a BCA agent said "there were strong indicators that Mohamed was preparing to conduct some sort of attack (Mass Casualty Event) in the next twenty-four hours." The Blue Earth County Attorney’s Office has filed felon…
+### ROBBERY/THEFT on 2025-04-24 06:00
+- Location: Naturalnews.com
+- Description: In an instant, losing your phone can escalate from a minor inconvenience to a full-scale digital emergency. Each year, millions of smartphones vanish—whether misplaced or stolen—unlocking vast vulnerabilities for identity theft, financial fraud, and even blac…
 
 
-### HOMICIDE on 2025-04-24 01:23
-- Location: The Denver Post
-- Description: A Fort Collins man hit by a vehicle on Interstate 25 near Mead while fleeing from police earlier this month was arrested on suspicion of first-degree murder in the shooting death and burning of a Greeley resident.
+### HOMICIDE on 2025-04-24 05:58
+- Location: New York Post
+- Description: The community pillar was struck and crumpled to the ground when she attempted to run back inside to safety.
 
 
-### OTHER on 2025-04-24 01:21
-- Location: Fox News
-- Description: A former U.S. Army intelligence analyst was sentenced to seven years in prison after pleading guilty to selling sensitive military documents to a Chinese national.
+### OTHER on 2025-04-24 05:52
+- Location: ABC News (AU)
+- Description: The NT government has promised to urgently pass new bail laws to bring the territory in-line with Victoria and NSW in the wake of a fatal stabbing of a local Darwin grocer.
 
-Analysis generated at: Fri Apr 25 01:49:43 UTC 2025
+Analysis generated at: Fri Apr 25 06:19:38 UTC 2025
