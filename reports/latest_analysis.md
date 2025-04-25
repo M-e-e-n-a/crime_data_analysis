@@ -1,10 +1,10 @@
 
-Loaded 28404 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-24 12:24:25
+Loaded 28412 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-24 12:41:00
 
 Incidents by source:
 source
-newsapi           28303
+newsapi           28311
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-04-24 12:24
-- Location: Boston Herald
-- Description: A man has been arrested and charged with murder after two bodies were found Wednesday in a wooded area behind a shopping area in Salem.
+### ROBBERY/THEFT on 2025-04-24 12:41
+- Location: Bangkok Post
+- Description: Thailand's Technology Crime Suppression Division (TCSD) has defended its role in the ongoing investigation into a 2023  exam paper leak  at Chulalongkorn University, which allegedly involved a former high-ranking police officer enrolled in a special undergrad…
 
 
-### HOMICIDE on 2025-04-24 12:23
-- Location: Digital Journal
-- Description: India and Pakistan exchanged an escalating series of tit-for-tat diplomatic measures on Thursday after New Delhi blamed its arch-rival for backing a deadly shooting attack in contested Kashmir.   Prime Minister Narendra Modi vowed to pursue and punish the gun…
+### HOMICIDE on 2025-04-24 12:40
+- Location: ABC News (AU)
+- Description: The 53-year-old Sydney man accused of murdering the 19-year-old earlier this year has been found dead in his cell at Silverwater Correctional Complex.
 
 
-### HOMICIDE on 2025-04-24 12:23
-- Location: Freerepublic.com
-- Description: Liberalism is dead and liberals killed it.. A handful of years after they cheered a president flanked by armed soldiers declaring half the countries to be enemies of the state, liberals are denouncing President Trump as a dangerous authoritarian. The misinfor…
+### OTHER on 2025-04-24 12:39
+- Location: Africasacountry.com
+- Description: Long seen as a neutral player in global affairs, Zambia’s foreign policy is shifting under new pressures—from Western donors, Chinese investment, and its own strategic ambitions.
 
 
-### HOMICIDE on 2025-04-24 12:22
-- Location: Breitbart News
-- Description: U.S. Immigration and Customs Enforcement (ICE) Enforcement and Removal Operations (ERO) officers arrested a Guatemalan illegal alien after he allegedly murdered his Guatemalan girlfriend in Maryland. Officers also arrested the man's uncle as an alleged access…
+### DRUG RELATED on 2025-04-24 12:33
+- Location: Variety
+- Description: As Korea’s film industry continues to capture global attention, “Yadang: The Snitch” offers audiences a rare glimpse into the hidden world of professional informants operating in the shadows of the nation’s drug enforcement system. Directed by Hwang Byeong-gu…
 
 
-### OTHER on 2025-04-24 12:20
-- Location: Fox News
-- Description: The Fox News Lifestyle Newsletter brings you trending stories on family, travel, food, neighbors helping neighbors, pets, autos, military veterans, heroes, faith and American values.
+### OTHER on 2025-04-24 12:30
+- Location: Roanoke Times
+- Description: Other changes include golden accents in the Oval Office and possibly paving over the lawn in the Kennedy-era Rose Garden.
 
-Analysis generated at: Fri Apr 25 12:27:14 UTC 2025
+Analysis generated at: Fri Apr 25 12:45:05 UTC 2025
