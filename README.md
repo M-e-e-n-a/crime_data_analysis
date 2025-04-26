@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Apr 26 12:40:00 UTC 2025
+Last updated: Sat Apr 26 18:16:44 UTC 2025
 
 ## Latest Analysis
 
-Loaded 28651 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-25 12:36:24
+Loaded 28745 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-25 18:14:25
 
 Incidents by source:
 source
-newsapi           28550
+newsapi           28644
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,30 +24,52 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-04-25 12:36
-- Location: Ibtimes.com.au
-- Description: An explosive device ripped through a parked car near Moscow on Friday killing a senior Russian general, investigators said, in an attack that resembled previous killings claimed by Ukraine.
+### ROBBERY/THEFT on 2025-04-25 18:14
+- Location: mgoblog.com
+- Description: City Council Endorsements, 2020
+
+ July 17th, 2020 at 3:31 PM
+
+ Brian
+July 17th, 2020 at 3:31 PM
 
 
-### HOMICIDE on 2025-04-25 12:35
-- Location: The Daily Dot
-- Description: A woman’s tale of surviving three violent attacks while on vacation in Vancouver, British Columbia, has captivated people on TikTok. In a story time posted on April 23, 2025, Stephanie (@Supitssteph) shared that she took a four-day sleeper train from Toronto,…
+ 
+ 
+ 
+ 
+ 
+
+ 
 
 
-### ASSAULT on 2025-04-25 12:33
-- Location: CinemaBlend
-- Description: Get in the fight!
+
+ 
+ this is still a surface parking lot [flickr user Dennis Sparks]
+ 
+ Election is August 4. 
 
 
-### OTHER on 2025-04-25 12:30
-- Location: Thegatewaypundit.com
-- Description: Concerns are mounting over Jair Bolsonaro's health as he remains in the ICU, facing serious complications. His situation reflects broader political tensions in Brazil. Insights into his condition and political implications await.
-The post Fears Grow for Brazi…
+tl;dr: vote for Lisa Disch in Ward 1, Linh Song …
 
 
-### OTHER on 2025-04-25 12:28
-- Location: Writersdigest.com
-- Description: Managing Editor Moriah Richard gives you some insight into the books they’re most looking forward to this year.
-The post Books to Look Forward to in 2025 appeared first on Writer's Digest.
+### OTHER on 2025-04-25 18:13
+- Location: National Post
+- Description: MPs can say goodbye to their summer plans if Conservative Leader Pierre Poilievre becomes prime minister on Monday.
 
-Analysis generated at: Sat Apr 26 12:40:00 UTC 2025
+
+### HOMICIDE on 2025-04-25 18:13
+- Location: NBC News
+- Description: Scott Peterson said in a declaration seeking to overturn his murder conviction that he had "absolutely nothing to do with the disappearance and deaths of my wife and son."
+
+
+### HOMICIDE on 2025-04-25 18:11
+- Location: WPXI Pittsburgh
+- Description: Luigi Mangione, the man accused of killing UnitedHealthcare CEO Brian Thompson in December, on Friday pleaded not guilty to a federal murder charge in the killing of UnitedHealthcare CEO Brian Thompson.
+
+
+### ASSAULT on 2025-04-25 18:07
+- Location: Forbes
+- Description: The latest news on Sean 'Diddy' Combs' as he awaits trail on charges of sex trafficking and racketeering.
+
+Analysis generated at: Sat Apr 26 18:16:44 UTC 2025
