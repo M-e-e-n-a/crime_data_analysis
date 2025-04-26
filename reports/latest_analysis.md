@@ -1,10 +1,10 @@
 
-Loaded 28514 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-25 00:56:26
+Loaded 28570 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-25 06:03:35
 
 Incidents by source:
 source
-newsapi           28413
+newsapi           28469
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,30 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-04-25 00:56
-- Location: UPROXX
-- Description: Netflix
-
-(SPOILERS for Netflix’s You will obviously be found below.) At the end of You‘s fifth season, Joe Goldberg was revealed to be done and dusted in prison. This satisfying ending dovetails with what star Penn Badgley has felt that Joe deserved all alon…
+### ROBBERY/THEFT on 2025-04-25 06:03
+- Location: ABC News (AU)
+- Description: Police are investigating the incident, but locals in the Victorian town of Loch are calling for the plaques to be returned with no questions asked.
 
 
-### OTHER on 2025-04-25 00:34
-- Location: KCRA Sacramento
-- Description: A 28-year-old woman has died in Sacramento County after being stabbed by her former boyfriend outside her place of work on Thursday, police said.
+### HOMICIDE on 2025-04-25 06:02
+- Location: Gossiplankanews.com
+- Description: Three suspects have been arrested in connection with the murder of political activist Dan Priyasad, police confirmed. The fatal shooting took place in Wellampitiya on the night of April 22, sending shockwaves through the local political landscape.Background: …
 
 
-### HOMICIDE on 2025-04-25 00:30
-- Location: Variety
-- Description: “Rageaholic meets schizophrenic” may not sound like a very enticing hook for a buddy comedy, but that dysfunctional duo proves pretty good company in “Neighborhood Watch.” Duncan Skiles’ first feature since 2018’s darker crime tale “The Clovehitch Killer” rec…
+### DRUG RELATED on 2025-04-25 06:00
+- Location: Naturalnews.com
+- Description: The Trump administration charged Jose Enrique Martinez Flores, a high-ranking Tren de Aragua (TdA) member, with conspiracy to support terrorism, drug trafficking and terrorism-related crimes under new laws targeting transnational gangs. If convicted, he faces…
 
 
-### HOMICIDE on 2025-04-25 00:29
-- Location: New York Post
-- Description: The alleged theif stole ammunition and body armor and had been posting threatening videos online with the hashtags "deathtoamerikkan&israelliImperialism," according to police.
+### OTHER on 2025-04-25 06:00
+- Location: Naturalnews.com
+- Description: Five individuals, including a Mexican national deported four times, were arrested in Whitefish, Montana – a remote luxury ski town – highlighting the spread of illegal immigration beyond the southern border. The Mexican national had returned after multiple de…
 
 
-### OTHER on 2025-04-25 00:13
-- Location: Fox News
-- Description: U.S. Rep. Frederica Wilson, D-Fla., urged people to call and threaten lawmakers after blaming Trump for the uptick in illegal alien detentions following a visit to a Miami ICE facility.
+### OTHER on 2025-04-25 06:00
+- Location: Naturalnews.com
+- Description: Fremont County deputies arrested two Mexican nationals with B2 visas after a routine traffic stop uncovered 180,000 rounds of ammunition (.308 and 7.62 caliber) allegedly destined for Pueblo, Colorado. The suspects admitted to violating visa terms by purchasi…
 
-Analysis generated at: Sat Apr 26 01:45:42 UTC 2025
+Analysis generated at: Sat Apr 26 06:17:40 UTC 2025
