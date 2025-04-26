@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Apr 25 18:18:52 UTC 2025
+Last updated: Sat Apr 26 01:03:22 UTC 2025
 
 ## Latest Analysis
 
-Loaded 28505 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-24 18:15:48
+Loaded 28514 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-25 00:56:26
 
 Incidents by source:
 source
-newsapi           28404
+newsapi           28413
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2025-04-24 18:15
-- Location: ARLnow
-- Description: A teen boy and an 18-year-old woman are facing serious charges after a pair of robberies Wednesday afternoon. The robberies happened near western end of Columbia Pike in Arlington. In the first, around 3:15 p.m., two ski-mask-wearing suspects approached a boy…
+### HOMICIDE on 2025-04-25 00:56
+- Location: UPROXX
+- Description: Netflix
+
+(SPOILERS for Netflix’s You will obviously be found below.) At the end of You‘s fifth season, Joe Goldberg was revealed to be done and dusted in prison. This satisfying ending dovetails with what star Penn Badgley has felt that Joe deserved all alon…
 
 
-### OTHER on 2025-04-24 18:15
-- Location: Lewrockwell.com
-- Description: Dallas ’63: A Brilliant Synthesis Regarding the November 22, 1963 Coup d’état, by Charles Burris Once again, the intrepid Peter Dale Scott takes us into that claustrophobic wilderness of mirrors where the criminal underworld meets the establishment upperworld…
+### OTHER on 2025-04-25 00:34
+- Location: KCRA Sacramento
+- Description: A 28-year-old woman has died in Sacramento County after being stabbed by her former boyfriend outside her place of work on Thursday, police said.
 
 
-### HOMICIDE on 2025-04-24 18:14
-- Location: Newsweek
-- Description: A man accused of murdering his 13-year-old daughter in Ohio may face the death penalty after being indicted on a slew of new charges.
+### HOMICIDE on 2025-04-25 00:30
+- Location: Variety
+- Description: “Rageaholic meets schizophrenic” may not sound like a very enticing hook for a buddy comedy, but that dysfunctional duo proves pretty good company in “Neighborhood Watch.” Duncan Skiles’ first feature since 2018’s darker crime tale “The Clovehitch Killer” rec…
 
 
-### HOMICIDE on 2025-04-24 18:13
-- Location: The Denver Post
-- Description: An officer was doing speed enforcement in the 4200 block of 104th Avenue at around 4:40 p.m. and tried to pull over a speeding vehicle, the Thornton Police Department said.
+### HOMICIDE on 2025-04-25 00:29
+- Location: New York Post
+- Description: The alleged theif stole ammunition and body armor and had been posting threatening videos online with the hashtags "deathtoamerikkan&israelliImperialism," according to police.
 
 
-### SHOOTING on 2025-04-24 18:12
-- Location: Biztoc.com
-- Description: A Georgia judge criticized prosecutors in a case involving a police officer accused of shooting a suspect at a McDonald's.
+### OTHER on 2025-04-25 00:13
+- Location: Fox News
+- Description: U.S. Rep. Frederica Wilson, D-Fla., urged people to call and threaten lawmakers after blaming Trump for the uptick in illegal alien detentions following a visit to a Miami ICE facility.
 
-Analysis generated at: Fri Apr 25 18:18:52 UTC 2025
+Analysis generated at: Sat Apr 26 01:03:22 UTC 2025
