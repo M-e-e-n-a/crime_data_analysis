@@ -1,10 +1,10 @@
 
-Loaded 28570 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-25 06:03:35
+Loaded 28646 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-25 12:23:11
 
 Incidents by source:
 source
-newsapi           28469
+newsapi           28545
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2025-04-25 06:03
-- Location: ABC News (AU)
-- Description: Police are investigating the incident, but locals in the Victorian town of Loch are calling for the plaques to be returned with no questions asked.
+### OTHER on 2025-04-25 12:23
+- Location: Demilked.com
+- Description: Unrealistic movie moments that turn off audiences.
+The post 35 Illogical Movie Tropes That Shatter Audiences’ Investment In The Story appeared first on DeMilked.
 
 
-### HOMICIDE on 2025-04-25 06:02
-- Location: Gossiplankanews.com
-- Description: Three suspects have been arrested in connection with the murder of political activist Dan Priyasad, police confirmed. The fatal shooting took place in Wellampitiya on the night of April 22, sending shockwaves through the local political landscape.Background: …
+### HOMICIDE on 2025-04-25 12:21
+- Location: International Business Times
+- Description: An explosive device ripped through a parked car near Moscow on Friday killing a senior Russian general, investigators said, in an attack that resembled previous killings claimed by Ukraine.
 
 
-### DRUG RELATED on 2025-04-25 06:00
-- Location: Naturalnews.com
-- Description: The Trump administration charged Jose Enrique Martinez Flores, a high-ranking Tren de Aragua (TdA) member, with conspiracy to support terrorism, drug trafficking and terrorism-related crimes under new laws targeting transnational gangs. If convicted, he faces…
+### SHOOTING on 2025-04-25 12:17
+- Location: BBC News
+- Description: Since March there have been a series of assaults, shootings and firebombing incidents in Glasgow and Edinburgh.
 
 
-### OTHER on 2025-04-25 06:00
-- Location: Naturalnews.com
-- Description: Five individuals, including a Mexican national deported four times, were arrested in Whitefish, Montana – a remote luxury ski town – highlighting the spread of illegal immigration beyond the southern border. The Mexican national had returned after multiple de…
+### HOMICIDE on 2025-04-25 12:17
+- Location: Digital Journal
+- Description: An explosive device ripped through a parked car near Moscow on Friday killing a senior Russian general, investigators said, in an attack that resembled previous killings claimed by Ukraine. Authorities named the victim as General-lieutenant Yaroslav Moskalik,…
 
 
-### OTHER on 2025-04-25 06:00
-- Location: Naturalnews.com
-- Description: Fremont County deputies arrested two Mexican nationals with B2 visas after a routine traffic stop uncovered 180,000 rounds of ammunition (.308 and 7.62 caliber) allegedly destined for Pueblo, Colorado. The suspects admitted to violating visa terms by purchasi…
+### OTHER on 2025-04-25 12:16
+- Location: Www.gov.uk
+- Description: UK-Thai cooperation results in 90% reduction in cannabis arriving in the post.
 
-Analysis generated at: Sat Apr 26 06:17:40 UTC 2025
+Analysis generated at: Sat Apr 26 12:23:28 UTC 2025
