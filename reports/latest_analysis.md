@@ -1,10 +1,10 @@
 
-Loaded 28745 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-25 18:14:25
+Loaded 28749 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-26 00:42:54
 
 Incidents by source:
 source
-newsapi           28644
+newsapi           28648
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -19,6 +19,26 @@ bution.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### OTHER on 2025-04-26 00:42
+- Location: The Jerusalem Post
+- Description: In both 1940 and in 2023, antisemitism revealed the moral decay in societies that appeared to have achieved lofty moral goals.
+
+
+### OTHER on 2025-04-26 00:36
+- Location: The Daily Caller
+- Description: Joey Jones ripped into Jessica Tarlov on Friday after she stated that federal authorities didn't "need to" publicly arrest Dugan.
+
+
+### HOMICIDE on 2025-04-26 00:17
+- Location: The Times of India
+- Description: Following the murder of restaurant worker Gulfam Ali in Agra, Manoj Chaudhary, claiming affiliation with 'Kshatriya Gau Raksha Dal,' asserted responsibility, citing it as retaliation for the Pahalgam attack. He threatened further violence in a widely circulat…
+
+
+### SHOOTING on 2025-04-26 00:01
+- Location: DW (English)
+- Description: A Black man died due to wounds sustained during a police shooting during an altercation in Oldenburg last weekend. Thousands have taken to the streets calling for justice and condemning what they call structural racism.
+
 
 ### ROBBERY/THEFT on 2025-04-25 18:14
 - Location: mgoblog.com
@@ -48,24 +68,4 @@ July 17th, 2020 at 3:31 PM
 
 tl;dr: vote for Lisa Disch in Ward 1, Linh Song …
 
-
-### OTHER on 2025-04-25 18:13
-- Location: National Post
-- Description: MPs can say goodbye to their summer plans if Conservative Leader Pierre Poilievre becomes prime minister on Monday.
-
-
-### HOMICIDE on 2025-04-25 18:13
-- Location: NBC News
-- Description: Scott Peterson said in a declaration seeking to overturn his murder conviction that he had "absolutely nothing to do with the disappearance and deaths of my wife and son."
-
-
-### HOMICIDE on 2025-04-25 18:11
-- Location: WPXI Pittsburgh
-- Description: Luigi Mangione, the man accused of killing UnitedHealthcare CEO Brian Thompson in December, on Friday pleaded not guilty to a federal murder charge in the killing of UnitedHealthcare CEO Brian Thompson.
-
-
-### ASSAULT on 2025-04-25 18:07
-- Location: Forbes
-- Description: The latest news on Sean 'Diddy' Combs' as he awaits trail on charges of sex trafficking and racketeering.
-
-Analysis generated at: Sat Apr 26 18:16:44 UTC 2025
+Analysis generated at: Sun Apr 27 01:09:44 UTC 2025
