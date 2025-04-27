@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Apr 27 01:09:44 UTC 2025
+Last updated: Sun Apr 27 01:54:26 UTC 2025
 
 ## Latest Analysis
 
-Loaded 28749 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-26 00:42:54
+Loaded 28758 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-26 01:52:00
 
 Incidents by source:
 source
-newsapi           28648
+newsapi           28657
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,52 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-04-26 00:42
-- Location: The Jerusalem Post
-- Description: In both 1940 and in 2023, antisemitism revealed the moral decay in societies that appeared to have achieved lofty moral goals.
+### OTHER on 2025-04-26 01:52
+- Location: 7NEWS.com.au
+- Description: Virginia Giuffre, one of Jeffrey Epstein’s most prominent abuse survivors, dies by suicide7news.com.au
 
 
-### OTHER on 2025-04-26 00:36
-- Location: The Daily Caller
-- Description: Joey Jones ripped into Jessica Tarlov on Friday after she stated that federal authorities didn't "need to" publicly arrest Dugan.
+### OTHER on 2025-04-26 01:48
+- Location: BBC News
+- Description: Giuffre alleged she was trafficked to the Duke of York when she was 17, which he has strenuously denied.
 
 
-### HOMICIDE on 2025-04-26 00:17
-- Location: The Times of India
-- Description: Following the murder of restaurant worker Gulfam Ali in Agra, Manoj Chaudhary, claiming affiliation with 'Kshatriya Gau Raksha Dal,' asserted responsibility, citing it as retaliation for the Pahalgam attack. He threatened further violence in a widely circulat…
+### OTHER on 2025-04-26 01:45
+- Location: WSOC Charlotte
+- Description: Darrell Price is retired and hasn’t worked as a cold case detective with the Charlotte-Mecklenburg Police Department in nearly two years.
 
 
-### SHOOTING on 2025-04-26 00:01
-- Location: DW (English)
-- Description: A Black man died due to wounds sustained during a police shooting during an altercation in Oldenburg last weekend. Thousands have taken to the streets calling for justice and condemning what they call structural racism.
+### OTHER on 2025-04-26 01:45
+- Location: Time
+- Description: Filmmaker Gareth Evans breaks down the crux of his new Netflix action film starring Tom Hardy and Forest Whitaker.
 
 
-### ROBBERY/THEFT on 2025-04-25 18:14
-- Location: mgoblog.com
-- Description: City Council Endorsements, 2020
+### SHOOTING on 2025-04-26 01:44
+- Location: NBC News
+- Description: Newly released police video shows a bestselling author and wife of Weezer’s bassist armed with a handgun as she was confronted by Los Angeles Police Department officers searching her Eagle Rock neighborhood for a trio of hit-and-run suspects earlier this mont…
 
- July 17th, 2020 at 3:31 PM
-
- Brian
-July 17th, 2020 at 3:31 PM
-
-
- 
- 
- 
- 
- 
-
- 
-
-
-
- 
- this is still a surface parking lot [flickr user Dennis Sparks]
- 
- Election is August 4. 
-
-
-tl;dr: vote for Lisa Disch in Ward 1, Linh Song …
-
-Analysis generated at: Sun Apr 27 01:09:44 UTC 2025
+Analysis generated at: Sun Apr 27 01:54:26 UTC 2025
