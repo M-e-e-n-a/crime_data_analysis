@@ -1,10 +1,10 @@
 
-Loaded 28795 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-26 06:15:41
+Loaded 28839 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-26 12:00:47
 
 Incidents by source:
 source
-newsapi           28694
+newsapi           28738
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-04-26 06:15
-- Location: Tistory.com
-- Description: Today on “The Intelligence”: can Mark Carney unite Canada, will America build ships in Asia, and how “The Economist” reported the Nazis’ defeat in 1945 https://t.co/fcVZEZz25e — The Economist (@TheEconomist) April 25, 2025 Shopify tried to recruit Canadian …
+### HOMICIDE on 2025-04-26 12:00
+- Location: Fox News
+- Description: A firefighter testified about what Karen Read said during an ambulance ride about an argument she had with John O'Keefe the morning he was found dead.
 
 
-### HOMICIDE on 2025-04-26 06:04
-- Location: NDTV News
-- Description: Authorities in Jhalawar suspended the internet after several shops were set on fire as a consequence of the alleged gunning down of a 20-year-old local videographer by some unidentified people in a road rage, officials said on Friday.
+### HOMICIDE on 2025-04-26 12:00
+- Location: Fox News
+- Description: New Indiana police interrogation interviews with Delphi murderer Richard Allen show him repeatedly denying the crime to police and his wife in 2022.
 
 
-### HOMICIDE on 2025-04-26 06:01
-- Location: Hurriyet Daily News
-- Description: Indian and Pakistani troops exchanged gunfire overnight in contested Kashmir for a second day running, the Indian army said Saturday, following a deadly shooting that New Delhi blames its arch-rival.
+### ROBBERY/THEFT on 2025-04-26 12:00
+- Location: Unexplained-mysteries.com
+- Description: A man from Solihull, England recently got more than he bargained for when he tried to replace his stolen vehicle. 36-year-old Ewan Valentine's problem...
 
 
-### HOMICIDE on 2025-04-26 05:32
-- Location: The-independent.com
-- Description: We know it’s not real, but TV deaths can still hit hard. Annabel Nugent rounds up some of the most memorable and traumatic times a character has been killed off
+### OTHER on 2025-04-26 12:00
+- Location: PC Gamer
+- Description: Challenge accepted.
 
 
-### OTHER on 2025-04-26 05:32
-- Location: Freerepublic.com
-- Description: The terrifying face of an alleged Tren de Aragua gangster was revealed on Friday after he was arrested by ICE officers in Denver, Colorado - a sanctuary city. Joel Matos-Nieto, a 23-year-old illegal Venezuelan migrant with a face full of tattoos, has been acc…
+### ROBBERY/THEFT on 2025-04-26 11:45
+- Location: Whyevolutionistrue.com
+- Description: Welcome to CaturSaturday, April 26, 2025: shabbos for Jewish cats and International Lime Day. The best are key limes, which can be used to make one of the world’s best pies. Below: ZESTING A LIME! (It’s probably the normal, or “Persian” lime. It’s also Common…
 
-Analysis generated at: Sun Apr 27 06:18:03 UTC 2025
+Analysis generated at: Sun Apr 27 12:23:49 UTC 2025
