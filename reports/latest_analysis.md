@@ -1,10 +1,10 @@
 
-Loaded 28758 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-26 01:52:00
+Loaded 28795 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-26 06:15:41
 
 Incidents by source:
 source
-newsapi           28657
+newsapi           28694
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-04-26 01:52
-- Location: 7NEWS.com.au
-- Description: Virginia Giuffre, one of Jeffrey Epstein’s most prominent abuse survivors, dies by suicide7news.com.au
+### OTHER on 2025-04-26 06:15
+- Location: Tistory.com
+- Description: Today on “The Intelligence”: can Mark Carney unite Canada, will America build ships in Asia, and how “The Economist” reported the Nazis’ defeat in 1945 https://t.co/fcVZEZz25e — The Economist (@TheEconomist) April 25, 2025 Shopify tried to recruit Canadian …
 
 
-### OTHER on 2025-04-26 01:48
-- Location: BBC News
-- Description: Giuffre alleged she was trafficked to the Duke of York when she was 17, which he has strenuously denied.
+### HOMICIDE on 2025-04-26 06:04
+- Location: NDTV News
+- Description: Authorities in Jhalawar suspended the internet after several shops were set on fire as a consequence of the alleged gunning down of a 20-year-old local videographer by some unidentified people in a road rage, officials said on Friday.
 
 
-### OTHER on 2025-04-26 01:45
-- Location: WSOC Charlotte
-- Description: Darrell Price is retired and hasn’t worked as a cold case detective with the Charlotte-Mecklenburg Police Department in nearly two years.
+### HOMICIDE on 2025-04-26 06:01
+- Location: Hurriyet Daily News
+- Description: Indian and Pakistani troops exchanged gunfire overnight in contested Kashmir for a second day running, the Indian army said Saturday, following a deadly shooting that New Delhi blames its arch-rival.
 
 
-### OTHER on 2025-04-26 01:45
-- Location: Time
-- Description: Filmmaker Gareth Evans breaks down the crux of his new Netflix action film starring Tom Hardy and Forest Whitaker.
+### HOMICIDE on 2025-04-26 05:32
+- Location: The-independent.com
+- Description: We know it’s not real, but TV deaths can still hit hard. Annabel Nugent rounds up some of the most memorable and traumatic times a character has been killed off
 
 
-### SHOOTING on 2025-04-26 01:44
-- Location: NBC News
-- Description: Newly released police video shows a bestselling author and wife of Weezer’s bassist armed with a handgun as she was confronted by Los Angeles Police Department officers searching her Eagle Rock neighborhood for a trio of hit-and-run suspects earlier this mont…
+### OTHER on 2025-04-26 05:32
+- Location: Freerepublic.com
+- Description: The terrifying face of an alleged Tren de Aragua gangster was revealed on Friday after he was arrested by ICE officers in Denver, Colorado - a sanctuary city. Joel Matos-Nieto, a 23-year-old illegal Venezuelan migrant with a face full of tattoos, has been acc…
 
-Analysis generated at: Sun Apr 27 01:54:26 UTC 2025
+Analysis generated at: Sun Apr 27 06:18:03 UTC 2025
