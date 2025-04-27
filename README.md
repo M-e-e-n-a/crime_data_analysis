@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Apr 27 12:39:55 UTC 2025
+Last updated: Sun Apr 27 18:16:50 UTC 2025
 
 ## Latest Analysis
 
-Loaded 28843 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-26 12:30:34
+Loaded 28880 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-26 17:32:39
 
 Incidents by source:
 source
-newsapi           28742
+newsapi           28779
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-04-26 12:30
-- Location: Thegatewaypundit.com
-- Description: Susan Rice's dramatic outburst following her removal from the Pentagon's Defense Policy Board highlights the contentious nature of her legacy. Her incendiary remarks about her successor raise critical questions about accountability in national security.
-The p…
-
-
-### HOMICIDE on 2025-04-26 12:30
+### SHOOTING on 2025-04-26 17:32
 - Location: New York Post
-- Description: Rabiyah Sorey was arrested on March 24, one day after The Post ran an interview with her twin sister, Hadiyah Sorey.
+- Description: The number of kids being shot has increased 15% percent so far this year over last, and spiked a startling 114% compared to pre-pandemic 2018, according to NYPD data.
 
 
-### ASSAULT on 2025-04-26 12:28
-- Location: New York Post
-- Description: Violent episodes of riders being punched, stabbed and otherwise assaulted in the NYC subway system are increasing as Gov. Kathy Hochul's congestion pricing forces drivers off the road and onto packed train cars, crime and ridership data show.
+### OTHER on 2025-04-26 17:00
+- Location: TheWrap
+- Description: The "Gossip Girl" actor also tells TheWrap what he makes of that final monologue and if he thinks Joe could change in prison
+The post ‘You’ Star Penn Badgley Says Series Finale Takes Away Joe’s ‘Worst Weapon’ — and Satisfies Some Blood Lust appeared first on …
 
 
-### HOMICIDE on 2025-04-26 12:27
-- Location: New York Post
-- Description: To the widow of fallen NYPD Detective James Abear, the Covid-19 virus that killed him five years ago was so unexpected it was like an invisible bullet that went through his heart and hers.
+### OTHER on 2025-04-26 16:48
+- Location: The Daily Hodl
+- Description: A JPMorgan Chase customer says tens of thousands of dollars has been drained from his account via Zelle, a Wells Fargo customer says bank impersonators laughed at her loss, and Bank of America clarifies reports of a new warning on account terminations. JPMorg…
 
 
-### HOMICIDE on 2025-04-26 12:00
-- Location: Fox News
-- Description: A firefighter testified about what Karen Read said during an ambulance ride about an argument she had with John O'Keefe the morning he was found dead.
+### SHOOTING on 2025-04-26 16:43
+- Location: PBS
+- Description: “There was no reason for Putin to be shooting missiles into civilian areas, cities and towns, over the last few days,” Trump said in a social media post as he flew back to the United States after attending Pope Francis’ funeral at the Vatican, where he met br…
 
-Analysis generated at: Sun Apr 27 12:39:55 UTC 2025
+
+### ROBBERY/THEFT on 2025-04-26 16:28
+- Location: Kashmirnewsbureau.com
+- Description: Srinagar, 26 April(KNB)- In a significant breakthrough, the Srinagar Police have arrested three individuals in connection with the theft of ABC Electrical Cable in the Shaltang area. The accused, identified as Gowher Ahmed Bhat, Danish Ramzan, and Mohd Shafi …
+
+Analysis generated at: Sun Apr 27 18:16:50 UTC 2025
