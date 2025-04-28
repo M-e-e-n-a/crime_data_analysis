@@ -1,10 +1,10 @@
 
-Loaded 28880 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-26 17:32:39
+Loaded 28884 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-27 01:06:01
 
 Incidents by source:
 source
-newsapi           28779
+newsapi           28783
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
+### HOMICIDE on 2025-04-27 01:06
+- Location: Fox News
+- Description: The Texas judge who reduced a $1 million bond for the release of Karmelo Anthony in the stabbing death of 17-year-old Austin Metcalf at a high school track meet has become the victim of doxxing.
+
+
+### OTHER on 2025-04-27 00:58
+- Location: CBC News
+- Description: The Vancouver School Board says it is investigating a cybersecurity incident involving its online banking systems that may have exposed some employee information.
+
+
+### ROBBERY/THEFT on 2025-04-27 00:45
+- Location: New York Post
+- Description: To most Americans, the big problem with the Democratic Party is that it has moved too far left in recent years. If you’re among those who believe that, brace yourself. The worst is yet to come.
+
+
+### HOMICIDE on 2025-04-27 00:21
+- Location: STLtoday.com
+- Description: A man was charged Saturday with murdering his wife after he told police he did not want her to die in a nursing home.
+
+
 ### SHOOTING on 2025-04-26 17:32
 - Location: New York Post
 - Description: The number of kids being shot has increased 15% percent so far this year over last, and spiked a startling 114% compared to pre-pandemic 2018, according to NYPD data.
 
-
-### OTHER on 2025-04-26 17:00
-- Location: TheWrap
-- Description: The "Gossip Girl" actor also tells TheWrap what he makes of that final monologue and if he thinks Joe could change in prison
-The post ‘You’ Star Penn Badgley Says Series Finale Takes Away Joe’s ‘Worst Weapon’ — and Satisfies Some Blood Lust appeared first on …
-
-
-### OTHER on 2025-04-26 16:48
-- Location: The Daily Hodl
-- Description: A JPMorgan Chase customer says tens of thousands of dollars has been drained from his account via Zelle, a Wells Fargo customer says bank impersonators laughed at her loss, and Bank of America clarifies reports of a new warning on account terminations. JPMorg…
-
-
-### SHOOTING on 2025-04-26 16:43
-- Location: PBS
-- Description: “There was no reason for Putin to be shooting missiles into civilian areas, cities and towns, over the last few days,” Trump said in a social media post as he flew back to the United States after attending Pope Francis’ funeral at the Vatican, where he met br…
-
-
-### ROBBERY/THEFT on 2025-04-26 16:28
-- Location: Kashmirnewsbureau.com
-- Description: Srinagar, 26 April(KNB)- In a significant breakthrough, the Srinagar Police have arrested three individuals in connection with the theft of ABC Electrical Cable in the Shaltang area. The accused, identified as Gowher Ahmed Bhat, Danish Ramzan, and Mohd Shafi …
-
-Analysis generated at: Sun Apr 27 18:16:50 UTC 2025
+Analysis generated at: Mon Apr 28 01:07:46 UTC 2025
