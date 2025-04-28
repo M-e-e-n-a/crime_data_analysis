@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Apr 28 06:27:13 UTC 2025
+Last updated: Mon Apr 28 12:27:08 UTC 2025
 
 ## Latest Analysis
 
-Loaded 28923 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-27 06:25:53
+Loaded 28977 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-27 12:26:44
 
 Incidents by source:
 source
-newsapi           28822
+newsapi           28876
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-04-27 06:25
-- Location: NPR
-- Description: The vehicle entered the street Saturday night where people were at an event celebrating Filipino culture, Vancouver Police said on social media. A Vancouver man, 30, was arrested at the scene.
+### HOMICIDE on 2025-04-27 12:26
+- Location: BBC News
+- Description: Video has emerged of a gig in 2023 appearing to show one band member saying: "The only good Tory is a dead Tory."
 
 
-### OTHER on 2025-04-27 06:25
-- Location: The Times of India
-- Description: The International Court of Justice will soon hear arguments from 40 nations. The topic is Israel's duty to provide aid to Palestinians in Gaza and the West Bank. This follows a U.N. request for the court's opinion. The U.N. General Assembly wants clarity on I…
+### ROBBERY/THEFT on 2025-04-27 12:24
+- Location: Freerepublic.com
+- Description: An illegal immigrant was arrested Saturday for stealing Homeland Security Secretary Kristi Noem’s pricey Gucci bag containing $3,000 in cash and other personal items – and a second migrant suspect is still on the loose, according to sources. Noem, 53, was on …
 
 
-### HOMICIDE on 2025-04-27 06:21
-- Location: Hurriyet Daily News
-- Description: Several people were killed after a driver plowed into a crowd at a street festival on Saturday in the Canadian city of Vancouver, local police said.
+### OTHER on 2025-04-27 12:23
+- Location: Globalresearch.ca
+- Description: One might well ask how a group composed of little more than 3% of the US population has managed to gain control of the nation’s foreign policy, its legislature and executive branches, its media, its entertainment industry, its financial institutions, …
+The po…
 
 
-### SHOOTING on 2025-04-27 06:13
-- Location: NDTV News
-- Description: Imran Khan suffered bullet injuries on his right leg during the assassination attempt by two shooters during a political rally in Punjab province&#039;s Wazirabad area.
+### OTHER on 2025-04-27 12:15
+- Location: The Atlantic
+- Description: Traveling by thumb isn’t popular anymore. Some say it should be.
 
 
-### HOMICIDE on 2025-04-27 05:33
-- Location: CNN
-- Description: Fatalities have been confirmed after a car plowed into a crowd at a street festival celebrating Filipino heritage in Vancouver on Saturday night, according to officials in the Canadian city.
+### HOMICIDE on 2025-04-27 12:06
+- Location: Yahoo Entertainment
+- Description: None
 
-Analysis generated at: Mon Apr 28 06:27:13 UTC 2025
+Analysis generated at: Mon Apr 28 12:27:08 UTC 2025
