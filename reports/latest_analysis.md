@@ -1,10 +1,10 @@
 
-Loaded 29071 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-28 01:48:00
+Loaded 29125 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-28 06:15:13
 
 Incidents by source:
 source
-newsapi           28970
+newsapi           29024
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-04-28 01:48
-- Location: 7NEWS.com.au
-- Description: Queensland Premier David Crisafulli responds as offences drop following ‘adult crime, adult time’ laws7news.com.au
-
-
-### HOMICIDE on 2025-04-28 01:36
-- Location: BBC News
-- Description: The BBC exposes the members of the security forces who fired on protesters at Kenya’s parliament last year.
-
-
-### HOMICIDE on 2025-04-28 01:35
+### HOMICIDE on 2025-04-28 06:15
 - Location: ABC News (AU)
-- Description: The opening day of the inquest has been told there was evidence of "rudimentary planning" and in the years prior Joel Cauchi had purchased knives which were used on the day of the attack that killed six people.
+- Description: Witnesses at the scene of a deadly car ramming in Vancouver detail the incident, as the death toll continues to climb.
 
 
-### OTHER on 2025-04-28 01:28
-- Location: ABC News
-- Description: A speedboat flipped and went airborne during a competition Saturday on Lake Havasu in Arizona. The two racers onboard were said to be a little banged up but otherwise OK.
+### OTHER on 2025-04-28 06:05
+- Location: The Star Online
+- Description: SHAH ALAM: A total of 18 children recently rescued from a welfare home in Cheras, Kuala Lumpur, have been put under the temporary care of the Social Welfare Department (JKM). Read full story
 
 
-### HOMICIDE on 2025-04-28 01:21
-- Location: Biztoc.com
-- Description: The Vancouver Police Department has charged Kai-Ji Adam Lo, aged 30, with eight counts of second-degree murder for the deadly Vancouver car ramming on Saturday.
-Eleven people, aged 5 to 65, were kill...
+### HOMICIDE on 2025-04-28 06:04
+- Location: The-independent.com
+- Description: Police say she was shot
 
-Analysis generated at: Tue Apr 29 01:50:20 UTC 2025
+
+### OTHER on 2025-04-28 06:00
+- Location: Naturalnews.com
+- Description: Insurance scams target unsuspecting victims, but knowing the warning signs can protect you. For staged car accidents, scammers will deliberately cause collisions, blame you and pressure you to settle quickly without police involvement. Always get a police rep…
+
+
+### ROBBERY/THEFT on 2025-04-28 06:00
+- Location: Naturalnews.com
+- Description: DHS Secretary Kristi Noem’s Gucci purse, containing $3,000 cash, her passport, and a DHS badge, was stolen by an undocumented immigrant at a D.C. restaurant on Easter Sunday. The suspect, Mario Bustamante-Leiva, has a history of theft in the U.S. and U.K., in…
+
+Analysis generated at: Tue Apr 29 06:20:27 UTC 2025
