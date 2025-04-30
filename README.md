@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Apr 30 01:06:06 UTC 2025
+Last updated: Wed Apr 30 01:49:55 UTC 2025
 
 ## Latest Analysis
 
-Loaded 29322 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-29 01:00:00
+Loaded 29330 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-29 01:49:46
 
 Incidents by source:
 source
-newsapi           29221
+newsapi           29229
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-04-29 01:00
-- Location: Decider
-- Description: Though the storyline feels like reheated nachos, fans of the genre will enjoy this installment.
+### HOMICIDE on 2025-04-29 01:49
+- Location: Freerepublic.com
+- Description: A white mother from Austin, Texas, was allegedly murdered by a black career criminal — and once again, the propaganda media shrugs their shoulders, while the politicians look the other way. In today’s upside-down America, there’s only outrage when it fits the…
 
 
-### OTHER on 2025-04-29 00:51
-- Location: CBC News
-- Description: U.S. President Donald Trump signed an executive order Monday that targeted "sanctuary cities" and threatened to withhold federal funding from cities and states that don't co-operate with federal immigration enforcement measures.
+### OTHER on 2025-04-29 01:48
+- Location: Yahoo Entertainment
+- Description: Ozturk was supposed to be returned no later than May 1 for a detention hearing.
 
 
-### OTHER on 2025-04-29 00:40
-- Location: Fairbanks Daily News-Miner
-- Description: The body of a man found off Peger Road and Eagan Avenue Saturday night is believed to be that of a 21-year-old missing since December.
-
-
-### HOMICIDE on 2025-04-29 00:34
-- Location: Sky.com
-- Description: Police had contact with a man suspected of being behind a vehicle attack in Vancouver that killed 11 people on the day before the ramming.
-
-
-### HOMICIDE on 2025-04-29 00:21
+### HOMICIDE on 2025-04-29 01:44
 - Location: Financial Post
-- Description: VANCOUVER — Vancouver Police have confirmed that the suspect in Saturday’s deadly ramming attack that killed 11 people in the city is the brother of a man who was murdered in an unrelated killing last year. Thirty-year-old Adam Kai-Ji Lo — who has been charge…
+- Description: VANCOUVER — Vancouver Police have confirmed that the suspect in Saturday’s deadly ramming attack that killed 11 people in the city is the brother of a man who died in an unrelated killing last year. Thirty-year-old Adam Kai-Ji Lo — who has been charged with e…
 
-Analysis generated at: Wed Apr 30 01:06:06 UTC 2025
+
+### HOMICIDE on 2025-04-29 01:34
+- Location: ABC News
+- Description: A 5-year-old girl and her parents were among the 11 killed in Vancouver when a car plowed through a crowded street during a Filipino heritage festival over the weekend
+
+
+### HOMICIDE on 2025-04-29 01:24
+- Location: Fox News
+- Description: Police in Hamburg said relatives found the lifeless body of German best-selling author 58-year-old Alexandra Frölich, who they say was murdered on her houseboat.
+
+Analysis generated at: Wed Apr 30 01:49:55 UTC 2025
