@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Apr 30 01:49:55 UTC 2025
+Last updated: Wed Apr 30 06:20:10 UTC 2025
 
 ## Latest Analysis
 
-Loaded 29330 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-29 01:49:46
+Loaded 29366 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-29 06:03:22
 
 Incidents by source:
 source
-newsapi           29229
+newsapi           29265
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-04-29 01:49
-- Location: Freerepublic.com
-- Description: A white mother from Austin, Texas, was allegedly murdered by a black career criminal — and once again, the propaganda media shrugs their shoulders, while the politicians look the other way. In today’s upside-down America, there’s only outrage when it fits the…
+### OTHER on 2025-04-29 06:03
+- Location: Gadgets360.com
+- Description: Criminal Code Season 2, the most awaited show, will premiere on Netflix on June 4, 2025. The series features Maeve Jinkings & Rômulo Braga in the lead roles as federal officers facing new challenges. The Issac's Ghost Gang is now more powerful and dangerous. …
 
 
-### OTHER on 2025-04-29 01:48
-- Location: Yahoo Entertainment
-- Description: Ozturk was supposed to be returned no later than May 1 for a detention hearing.
+### ROBBERY/THEFT on 2025-04-29 05:54
+- Location: ABC News (AU)
+- Description: With many rainwater tanks across the Adelaide Hills running low or on empty due to an ongoing dry spell, two residents say thieves have used water trucks to steal nearly 200,000 litres overnight.
 
 
-### HOMICIDE on 2025-04-29 01:44
-- Location: Financial Post
-- Description: VANCOUVER — Vancouver Police have confirmed that the suspect in Saturday’s deadly ramming attack that killed 11 people in the city is the brother of a man who died in an unrelated killing last year. Thirty-year-old Adam Kai-Ji Lo — who has been charged with e…
+### OTHER on 2025-04-29 05:50
+- Location: Starcommunity.com.au
+- Description: Police are appealing for dashcam or CCTV footage following a serious hit-and-run collision in Devon Meadows on Monday 28 April. […]
 
 
-### HOMICIDE on 2025-04-29 01:34
-- Location: ABC News
-- Description: A 5-year-old girl and her parents were among the 11 killed in Vancouver when a car plowed through a crowded street during a Filipino heritage festival over the weekend
+### ROBBERY/THEFT on 2025-04-29 05:33
+- Location: The Star Online
+- Description: KUALA LUMPUR: A carpenter was sentenced to five years in prison by the Sessions Court here on Tuesday (April 29) for snatching a gold necklace from a woman at a restaurant last week. Read full story
 
 
-### HOMICIDE on 2025-04-29 01:24
-- Location: Fox News
-- Description: Police in Hamburg said relatives found the lifeless body of German best-selling author 58-year-old Alexandra Frölich, who they say was murdered on her houseboat.
+### OTHER on 2025-04-29 05:28
+- Location: Mypeoplesreview.com
+- Description: By Rabi Raj Thapa Gurus are not teachers and teachers are not gurus. There is a vast difference between gurus […]
+The post Dear government, don’t beat around the bush appeared first on Peoples' Review.
 
-Analysis generated at: Wed Apr 30 01:49:55 UTC 2025
+Analysis generated at: Wed Apr 30 06:20:10 UTC 2025
