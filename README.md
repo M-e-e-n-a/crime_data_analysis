@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Apr 29 18:19:28 UTC 2025
+Last updated: Wed Apr 30 01:06:06 UTC 2025
 
 ## Latest Analysis
 
-Loaded 29313 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-28 18:14:27
+Loaded 29322 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-29 01:00:00
 
 Incidents by source:
 source
-newsapi           29212
+newsapi           29221
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-04-28 18:14
-- Location: Fox News
-- Description: President Donald Trump will sign a pro-police executive order that offers additional federal support following the anti-police rhetoric of 2020 that rocked departments nationwide.
+### OTHER on 2025-04-29 01:00
+- Location: Decider
+- Description: Though the storyline feels like reheated nachos, fans of the genre will enjoy this installment.
 
 
-### HOMICIDE on 2025-04-28 18:10
-- Location: Yahoo Entertainment
-- Description: Two people were killed and at least two others wounded at a large gathering of motorcycle riders just south of Atlanta, police said.  The shooting happened...
+### OTHER on 2025-04-29 00:51
+- Location: CBC News
+- Description: U.S. President Donald Trump signed an executive order Monday that targeted "sanctuary cities" and threatened to withhold federal funding from cities and states that don't co-operate with federal immigration enforcement measures.
 
 
-### OTHER on 2025-04-28 18:03
-- Location: NBC News
-- Description: President Donald Trump pledged to end the war in Ukraine within his first 24 hours in office. The conflict still rages.
+### OTHER on 2025-04-29 00:40
+- Location: Fairbanks Daily News-Miner
+- Description: The body of a man found off Peger Road and Eagan Avenue Saturday night is believed to be that of a 21-year-old missing since December.
 
 
-### HOMICIDE on 2025-04-28 18:02
-- Location: BBC News
-- Description: Shanine Wright has become an active campaigner against knife crime after losing her brother.
+### HOMICIDE on 2025-04-29 00:34
+- Location: Sky.com
+- Description: Police had contact with a man suspected of being behind a vehicle attack in Vancouver that killed 11 people on the day before the ramming.
 
 
-### OTHER on 2025-04-28 18:00
-- Location: Buzzfeed
-- Description: "The sequel is turning out to be even worse than we imagined. And we knew it would be bad based on the original."View Entire Post ›
+### HOMICIDE on 2025-04-29 00:21
+- Location: Financial Post
+- Description: VANCOUVER — Vancouver Police have confirmed that the suspect in Saturday’s deadly ramming attack that killed 11 people in the city is the brother of a man who was murdered in an unrelated killing last year. Thirty-year-old Adam Kai-Ji Lo — who has been charge…
 
-Analysis generated at: Tue Apr 29 18:19:28 UTC 2025
+Analysis generated at: Wed Apr 30 01:06:06 UTC 2025
