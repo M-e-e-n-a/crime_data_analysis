@@ -1,10 +1,10 @@
 
-Loaded 29462 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-29 12:43:21
+Loaded 29551 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-29 18:16:20
 
 Incidents by source:
 source
-newsapi           29361
+newsapi           29450
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,31 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-04-29 12:43
-- Location: Biztoc.com
-- Description: Voice is AI-generated. Inconsistencies may occur.
-A shooting took place early Tuesday morning outside the Amazon facility in Florence, Kentucky, involving a police officer, FOX19 NOW reported citing Boone County dispatchers.
-This is a breaking news story, mor…
+### OTHER on 2025-04-29 18:16
+- Location: International Business Times
+- Description: President Trump ordered military support for local police to "prevent crime," drawing immediate backlash over potential civil rights violations.
 
 
-### OTHER on 2025-04-29 12:41
+### HOMICIDE on 2025-04-29 18:12
+- Location: The Denver Post
+- Description: Investigators believe Brandon Sutton knew the two victims but haven't released how or what led up to the shooting.
+
+
+### HOMICIDE on 2025-04-29 18:11
+- Location: CNA
+- Description: STOCKHOLM: A shootout at a Swedish hair salon on Tuesday (Apr 29) left at least three people dead, police and media said, amid heightened nerves over gun violence in the Scandinavian nation.s The shooting erupted in the centre of Uppsala a day before a spring…
+
+
+### HOMICIDE on 2025-04-29 18:11
+- Location: CNA
+- Description: STOCKHOLM: Three people were shot dead in a city north of the Swedish capital on Tuesday (Apr 29), police said, the latest shooting to rock the Nordic nation. Police said they received reports of shots fired in the centre of Uppsala, some 60 kilometres north …
+
+
+### HOMICIDE on 2025-04-29 18:10
 - Location: The Times of India
-- Description: Malayalam cinema offers a range of new content this week. Samara is a thriller about a doctor uncovering a conspiracy. Bromance is a comedy-adventure about finding a missing brother. Maranamass is a dark comedy with Basil Joseph. Daveed explores the world of …
+- Description: Sweden's city of Uppsala has been rocked by mass shooting in which three people have been killed.
 
-
-### SHOOTING on 2025-04-29 12:40
-- Location: Newsweek
-- Description: A shooting outside the Amazon facility in Florence, Kentucky, involved a police officer, dispatchers said.
-
-
-### OTHER on 2025-04-29 12:35
-- Location: Boston Herald
-- Description: Day 6 of the Karen Read trial kicks off today with a defense cross examination of the prosecution's expert witness on data forensics, who is testifying about the timing of the infamous text in the case,  “hos long to die in cold”.
-
-
-### OTHER on 2025-04-29 12:30
-- Location: Globalresearch.ca
-- Description: There was great excitement and sense of anticipation with the November 5th re-election of Donald Trump.  Trump has been self-identified and generally acknowledged as the country’s first America First President – after George Washington.      
-Deranged entrenc…
-
-Analysis generated at: Wed Apr 30 12:44:23 UTC 2025
+Analysis generated at: Wed Apr 30 18:19:14 UTC 2025
