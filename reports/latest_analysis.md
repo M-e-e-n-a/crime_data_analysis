@@ -1,10 +1,10 @@
 
-Loaded 29695 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-30 12:39:55
+Loaded 29782 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-30 18:17:18
 
 Incidents by source:
 source
-newsapi           29594
+newsapi           29681
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-04-30 12:39
-- Location: Fox News
-- Description: One person was injured and at least three were arrested following a shooting in Times Square in New York City on Wednesday morning, police say.
+### OTHER on 2025-04-30 18:17
+- Location: Freerepublic.com
+- Description: United States District Court Judge Jennifer Thurston, appointed to the U.S. District Court for the Eastern District of California by former President Joe Biden, is blocking Border Patrol Agents across most of California from arresting suspected illegal aliens…
 
 
-### HOMICIDE on 2025-04-30 12:37
-- Location: Israelnationalnews.com
-- Description: Jordanian government has reportedly decided that extraditing the murderer of 15-year-old US citizen Malki Roth after nearly 15 years of refusing to do so will help the country secure American aid under the Trump Administration.
+### ROBBERY/THEFT on 2025-04-30 18:15
+- Location: PoPville
+- Description: From MPD: "The Metropolitan Police Department announces the arrest of two suspects involved in a robbery that occurred on the Metropolitan Branch Trail in Northeast. On Thursday, April 24, 2025, at approximately 3:45 p.m. the victim was walking on the trail n…
 
 
-### OTHER on 2025-04-30 12:33
-- Location: GeekTyrant
-- Description: Showtime has released a teaser trailer for Dexter: Resurrection, and it announces that the series is set to premiere on July 11th.The series will debut with two episodes via streaming and on demand for Paramount+ with Showtime subscribers before its on-air de…
+### HOMICIDE on 2025-04-30 18:15
+- Location: LADbible
+- Description: A man accused of murdering a London couple has been seen dancing and singing in a video moments after allegedly killing them
 
 
-### OTHER on 2025-04-30 12:32
-- Location: Cornucopia.se
-- Description: Below is a transcription of president Donald Trump's 100 day speech in Michigan on the 29th of April 2025.
+### OTHER on 2025-04-30 18:07
+- Location: Boston Herald
+- Description: It offered a rare glimpse of a crime allegedly caught in action by an accomplice.
 
 
-### OTHER on 2025-04-30 12:31
-- Location: Al Jazeera English
-- Description: US president has insisted tattoos prove MS-13 ties, but experts and photos contradict the claim in Abrego Garcia's case.
+### HOMICIDE on 2025-04-30 18:05
+- Location: PBS
+- Description: The Australian host of a weekend family lunch is on trial charged with murdering her estranged husband’s parents and an aunt and attempting to murder an uncle with poisonous mushrooms.
 
-Analysis generated at: Thu May  1 12:43:41 UTC 2025
+Analysis generated at: Thu May  1 18:19:09 UTC 2025
