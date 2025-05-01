@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu May  1 12:26:05 UTC 2025
+Last updated: Thu May  1 12:43:41 UTC 2025
 
 ## Latest Analysis
 
-Loaded 29690 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-30 12:21:20
+Loaded 29695 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-30 12:39:55
 
 Incidents by source:
 source
-newsapi           29589
+newsapi           29594
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-04-30 12:21
-- Location: International Business Times
-- Description: Swedish police have arrested a teen suspect after three youths aged from 15 to 20 were killed in a shooting at a hair salon, authorities said Wednesday, amid rising concern over gang violence in the Scandinavian nation.
+### SHOOTING on 2025-04-30 12:39
+- Location: Fox News
+- Description: One person was injured and at least three were arrested following a shooting in Times Square in New York City on Wednesday morning, police say.
 
 
-### ROBBERY/THEFT on 2025-04-30 12:17
-- Location: BBC News
-- Description: The firm said the steps it had taken had had a 'small impact' on its call centre.
+### HOMICIDE on 2025-04-30 12:37
+- Location: Israelnationalnews.com
+- Description: Jordanian government has reportedly decided that extraditing the murderer of 15-year-old US citizen Malki Roth after nearly 15 years of refusing to do so will help the country secure American aid under the Trump Administration.
 
 
-### OTHER on 2025-04-30 12:14
-- Location: Daily Hive
-- Description: Over 2,300 Canadians who reported falling victim to job and employment scams lost over $49 million in 2024, and the situation is only getting worse.Jeff Horncastle, client and communications outreach officer at the Canadian Anti-Fraud Centre (CAFC), told us t…
+### OTHER on 2025-04-30 12:33
+- Location: GeekTyrant
+- Description: Showtime has released a teaser trailer for Dexter: Resurrection, and it announces that the series is set to premiere on July 11th.The series will debut with two episodes via streaming and on demand for Paramount+ with Showtime subscribers before its on-air de…
 
 
-### HOMICIDE on 2025-04-30 12:08
-- Location: Ibtimes.com.au
-- Description: An Australian woman promised a "special meal" for her husband's family before dishing up a beef Wellington with death cap mushrooms that killed three of them, jurors heard Wednesday.
+### OTHER on 2025-04-30 12:32
+- Location: Cornucopia.se
+- Description: Below is a transcription of president Donald Trump's 100 day speech in Michigan on the 29th of April 2025.
 
 
-### HOMICIDE on 2025-04-30 12:03
-- Location: BBC News
-- Description: Yostin Andres Mosquera is charged with the murders of Albert Alfonso, 62, and Paul Longworth, 71.
+### OTHER on 2025-04-30 12:31
+- Location: Al Jazeera English
+- Description: US president has insisted tattoos prove MS-13 ties, but experts and photos contradict the claim in Abrego Garcia's case.
 
-Analysis generated at: Thu May  1 12:26:05 UTC 2025
+Analysis generated at: Thu May  1 12:43:41 UTC 2025
