@@ -1,10 +1,10 @@
 
-Loaded 29560 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-30 01:10:47
+Loaded 29568 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-30 01:56:52
 
 Incidents by source:
 source
-newsapi           29459
+newsapi           29467
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-04-30 01:10
-- Location: CBS News
-- Description: President Trump is threatening to pull money from cities and states that don't cooperate with his immigration crackdown.
+### OTHER on 2025-04-30 01:56
+- Location: NPR
+- Description: One executive order President Trump signed this week aims to expand legal protections for police accused of misconduct, seeking to establish pro bono legal assistance from private sector attorneys.
 
 
-### OTHER on 2025-04-30 01:00
-- Location: Decider
-- Description: The four-episode Polish series Project UFO imagines what might occur if rumors of alien arrivals tried to coexist with Communist rule.
+### HOMICIDE on 2025-04-30 01:50
+- Location: Freerepublic.com
+- Description: The Fort Worth Police Department is investigating a homicide that happened before 1:30 a.m. on Friday, April 18 in the 9900 block of Farmers Branch Street. "It was an exorcism" What we know: According to police, an anonymous caller called 911 and said they re…
 
 
-### OTHER on 2025-04-30 00:49
-- Location: Westernjournal.com
-- Description: The Wisconsin Supreme Court suspended Milwaukee County Judge Hannah Dugan for allegedly aiding an illegal alien to evade ICE.
+### OTHER on 2025-04-30 01:45
+- Location: International Business Times
+- Description: A Swedish journalist arrested on arrival in Istanbul to cover last month's massive street protests goes on trial Wednesday on charges of insulting Turkey's president, his lawyer said.
 
 
-### HOMICIDE on 2025-04-30 00:45
-- Location: Japan Today
-- Description: A shootout at a Swedish hair salon Tuesday left at least three people dead, police and media said, amid heightened nerves over gun violence in the Scandinavian nation. Gunfire erupted in the centre of Uppsala a day before a spring festival which draws more th…
+### OTHER on 2025-04-30 01:42
+- Location: The Conversation Africa
+- Description: South Australia has announced tougher child sex offence laws. Is it a political move or will they actually help?
 
 
-### OTHER on 2025-04-30 00:38
-- Location: Fox News
-- Description: A judge recently ruled that Border Patrol agents in the Eastern District of California cannot stop illegal immigrants without reasonable suspicion or a warrant.
+### OTHER on 2025-04-30 01:42
+- Location: Digital Journal
+- Description: A Swedish journalist arrested on arrival in Istanbul to cover last month’s massive street protests goes on trial Wednesday on charges of insulting Turkey’s president, his lawyer said.  Joakim Medin, 40, who works for Swedish newspaper Dagens ETC, was detained…
 
-Analysis generated at: Thu May  1 01:12:16 UTC 2025
+Analysis generated at: Thu May  1 01:58:47 UTC 2025
