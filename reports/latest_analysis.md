@@ -1,10 +1,10 @@
 
-Loaded 29551 incidents
-Date range: 2024-01-01 00:00:00 to 2025-04-29 18:16:20
+Loaded 29560 incidents
+Date range: 2024-01-01 00:00:00 to 2025-04-30 01:10:47
 
 Incidents by source:
 source
-newsapi           29450
+newsapi           29459
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-04-29 18:16
-- Location: International Business Times
-- Description: President Trump ordered military support for local police to "prevent crime," drawing immediate backlash over potential civil rights violations.
+### OTHER on 2025-04-30 01:10
+- Location: CBS News
+- Description: President Trump is threatening to pull money from cities and states that don't cooperate with his immigration crackdown.
 
 
-### HOMICIDE on 2025-04-29 18:12
-- Location: The Denver Post
-- Description: Investigators believe Brandon Sutton knew the two victims but haven't released how or what led up to the shooting.
+### OTHER on 2025-04-30 01:00
+- Location: Decider
+- Description: The four-episode Polish series Project UFO imagines what might occur if rumors of alien arrivals tried to coexist with Communist rule.
 
 
-### HOMICIDE on 2025-04-29 18:11
-- Location: CNA
-- Description: STOCKHOLM: A shootout at a Swedish hair salon on Tuesday (Apr 29) left at least three people dead, police and media said, amid heightened nerves over gun violence in the Scandinavian nation.s The shooting erupted in the centre of Uppsala a day before a spring…
+### OTHER on 2025-04-30 00:49
+- Location: Westernjournal.com
+- Description: The Wisconsin Supreme Court suspended Milwaukee County Judge Hannah Dugan for allegedly aiding an illegal alien to evade ICE.
 
 
-### HOMICIDE on 2025-04-29 18:11
-- Location: CNA
-- Description: STOCKHOLM: Three people were shot dead in a city north of the Swedish capital on Tuesday (Apr 29), police said, the latest shooting to rock the Nordic nation. Police said they received reports of shots fired in the centre of Uppsala, some 60 kilometres north …
+### HOMICIDE on 2025-04-30 00:45
+- Location: Japan Today
+- Description: A shootout at a Swedish hair salon Tuesday left at least three people dead, police and media said, amid heightened nerves over gun violence in the Scandinavian nation. Gunfire erupted in the centre of Uppsala a day before a spring festival which draws more th…
 
 
-### HOMICIDE on 2025-04-29 18:10
-- Location: The Times of India
-- Description: Sweden's city of Uppsala has been rocked by mass shooting in which three people have been killed.
+### OTHER on 2025-04-30 00:38
+- Location: Fox News
+- Description: A judge recently ruled that Border Patrol agents in the Eastern District of California cannot stop illegal immigrants without reasonable suspicion or a warrant.
 
-Analysis generated at: Wed Apr 30 18:19:14 UTC 2025
+Analysis generated at: Thu May  1 01:12:16 UTC 2025
