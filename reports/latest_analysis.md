@@ -1,10 +1,10 @@
 
-Loaded 29789 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-01 01:45:08
+Loaded 29814 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-01 06:16:16
 
 Incidents by source:
 source
-newsapi           29688
+newsapi           29713
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-05-01 01:45
-- Location: NPR
-- Description: May Day is not officially acknowledged in the U.S. because of what historians say is an ongoing resistance to unity among the working class. This resistance is prompting protesters to take action on Thursday, regardless.
+### SHOOTING on 2025-05-01 06:16
+- Location: Newsweek
+- Description: Police responded to reports of a shooting at the Gainesville Walmart Supercenter on Wednesday night.
 
 
-### OTHER on 2025-05-01 01:30
-- Location: Independent.ie
-- Description: The Housing Minister has ann­ounced the creation of a Strategic Housing Activation Office (SHAO), as promised in the Programme for Government.
+### OTHER on 2025-05-01 06:01
+- Location: Thefutoncritic.com
+- Description: The four-part docuseries will premiere across two nights on Monday, May 26 and Tuesday, May 27 from 9-11PM ET/PT on ID.
 
 
-### OTHER on 2025-05-01 01:21
-- Location: 7NEWS.com.au
-- Description: Elderly driver dies in horror two-car smash7news.com.au
+### OTHER on 2025-05-01 06:00
+- Location: Naturalnews.com
+- Description: ICE achieved a historic crackdown, arresting 66,463 illegal aliens and removing 65,682, with nearly 75% of those apprehended having criminal records. This reflects a strong focus on public safety and border security. The enforcement prioritized threats to pub…
 
 
-### SHOOTING on 2025-05-01 01:01
-- Location: Starweekly.com.au
-- Description: Police have released CCTV footage and are appealing for public assistance after a daylight shooting in Coolaroo earlier this month....
-The post Police release CCTV after Coolaroo shooting appeared first on Northern.
+### HOMICIDE on 2025-05-01 05:24
+- Location: The Times of India
+- Description: Police arrested Akash Chawla and Gaurav Kapoor, owner and manager of Rituraj Hotel. A fire at the hotel in Kolkata killed 14 people. The incident occurred on Tuesday evening. Authorities registered a case against them under the BNS and Fire Services Act. Twel…
 
 
-### HOMICIDE on 2025-05-01 00:58
-- Location: NDTV News
-- Description: A 40-year-old man reportedly murdered after a fight over an issue in west Delhi, police said on Wednesday.
+### SHOOTING on 2025-05-01 05:18
+- Location: WRDW-TV
+- Description: Executive Director of the Police Benevolent Association of Georgia, Patrick Cullinan, uses his 30-plus years of law enforcement experience to highlight the importance of police officers' mental health.
 
-Analysis generated at: Fri May  2 01:50:34 UTC 2025
+Analysis generated at: Fri May  2 06:20:05 UTC 2025
