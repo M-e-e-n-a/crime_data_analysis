@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri May  2 12:43:53 UTC 2025
+Last updated: Fri May  2 18:18:49 UTC 2025
 
 ## Latest Analysis
 
-Loaded 29907 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-01 12:32:34
+Loaded 30003 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-01 18:15:58
 
 Incidents by source:
 source
-newsapi           29806
+newsapi           29902
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2025-05-01 12:32
-- Location: Decrypt
-- Description: The news comes as Malaysia contends with hundreds of millions of dollars in losses due to electricity theft from illegal Bitcoin mining.
+### SHOOTING on 2025-05-01 18:15
+- Location: New York Post
+- Description: "This guy was ready to go, had all these weapons, had the propensity to do it -- it was just a matter of what day was going to set him off."
 
 
-### OTHER on 2025-05-01 12:30
-- Location: NBC News
-- Description: MEMPHIS, Tenn. — A cybercrime expert with the Tennessee Bureau of Investigation testified Wednesday that a former Memphis police officer charged in the fatal beating of Tyre Nichols took a cellphone photo of Nichols as he struggled with serious injuries.
+### OTHER on 2025-05-01 18:08
+- Location: Forbes
+- Description: The list from the One Free Press Coalition illuminates governments’ efforts at criminalizing journalism, silencing the media, and withholding information from the public.
 
 
-### OTHER on 2025-05-01 12:26
-- Location: Fox News
-- Description: An Idaho judge temporarily blocked a state immigration bill after an ACLU lawsuit claims the legislation unconstitutionally interferes with federal immigration powers.
+### OTHER on 2025-05-01 18:07
+- Location: PEOPLE
+- Description: Authorities allege that Michelle Mercogliano also provided the student with marijuana
 
 
-### OTHER on 2025-05-01 12:25
-- Location: CBM (Comic Book Movie)
-- Description: Much has been said about the possibility of WWE Superstar Liv Morgan joining the MCU, but we now have news on the project she'll star in: Neon's Bad Lieutenant: Tokyo from filmmaker Takashi Miike...
+### OTHER on 2025-05-01 18:05
+- Location: CBC News
+- Description: A 70-year-old man and a 61-year-old woman from Winnipeg Beach have been charged with stealing roughly $60,000 from a legion in the Weston area of Winnipeg.
 
 
-### OTHER on 2025-05-01 12:24
-- Location: Democracy Now!
-- Description: As May Day protests call for worker and immigrant rights, we talk to a New York father whose 19-year-old son Merwil Gutiérrez, with an open asylum case, was detained in the Bronx and then flown with over 230 other Venezuelans to a mega-prison in El Salvador, …
+### OTHER on 2025-05-01 18:04
+- Location: Securityaffairs.com
+- Description: The FBI shared 42K phishing domains tied to LabHost, a PhaaS platform shut down in April 2024, to boost awareness and help identify compromises. The FBI shared a list of 42,000 domains registered from November 2021 to Apr 2024, linked to LabHost to raise awar…
 
-Analysis generated at: Fri May  2 12:43:53 UTC 2025
+Analysis generated at: Fri May  2 18:18:49 UTC 2025
