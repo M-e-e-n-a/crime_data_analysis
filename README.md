@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri May  2 12:26:39 UTC 2025
+Last updated: Fri May  2 12:43:53 UTC 2025
 
 ## Latest Analysis
 
-Loaded 29904 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-01 12:25:17
+Loaded 29907 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-01 12:32:34
 
 Incidents by source:
 source
-newsapi           29803
+newsapi           29806
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,6 +24,21 @@ bution.svg)
 
 ## Recent Incidents
 
+### ROBBERY/THEFT on 2025-05-01 12:32
+- Location: Decrypt
+- Description: The news comes as Malaysia contends with hundreds of millions of dollars in losses due to electricity theft from illegal Bitcoin mining.
+
+
+### OTHER on 2025-05-01 12:30
+- Location: NBC News
+- Description: MEMPHIS, Tenn. — A cybercrime expert with the Tennessee Bureau of Investigation testified Wednesday that a former Memphis police officer charged in the fatal beating of Tyre Nichols took a cellphone photo of Nichols as he struggled with serious injuries.
+
+
+### OTHER on 2025-05-01 12:26
+- Location: Fox News
+- Description: An Idaho judge temporarily blocked a state immigration bill after an ACLU lawsuit claims the legislation unconstitutionally interferes with federal immigration powers.
+
+
 ### OTHER on 2025-05-01 12:25
 - Location: CBM (Comic Book Movie)
 - Description: Much has been said about the possibility of WWE Superstar Liv Morgan joining the MCU, but we now have news on the project she'll star in: Neon's Bad Lieutenant: Tokyo from filmmaker Takashi Miike...
@@ -33,19 +48,4 @@ bution.svg)
 - Location: Democracy Now!
 - Description: As May Day protests call for worker and immigrant rights, we talk to a New York father whose 19-year-old son Merwil Gutiérrez, with an open asylum case, was detained in the Bronx and then flown with over 230 other Venezuelans to a mega-prison in El Salvador, …
 
-
-### HOMICIDE on 2025-05-01 12:24
-- Location: TheJournal.ie
-- Description: Adams denies any involvement in Denis Donaldson’s death.
-
-
-### OTHER on 2025-05-01 12:21
-- Location: road.cc
-- Description: The debate, featured on BBC Radio Scotland’s Mornings programme, has been accused of promoting an ‘us and them’ agenda by cyclists on social media
-
-
-### OTHER on 2025-05-01 12:20
-- Location: Screen Rant
-- Description: Fire Country season 3's ending left many storylines without a conclusion, generating multiple questions that season 4 will need to answer.
-
-Analysis generated at: Fri May  2 12:26:39 UTC 2025
+Analysis generated at: Fri May  2 12:43:53 UTC 2025
