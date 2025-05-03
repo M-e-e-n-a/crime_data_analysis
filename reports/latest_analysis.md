@@ -1,10 +1,10 @@
 
-Loaded 30057 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-02 06:15:13
+Loaded 30123 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-02 12:05:00
 
 Incidents by source:
 source
-newsapi           29956
+newsapi           30022
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-05-02 06:15
-- Location: The Jerusalem Post
-- Description: Two Israelis were murdered in separate cases in LA, one was beaten to death, and three suspects were arrested.
-Police probe both as homicides. No link confirmed.
+### SHOOTING on 2025-05-02 12:05
+- Location: Richmond.com
+- Description: A juvenile died Thursday night in a shooting at an apartment in the Bellwood neighborhood of Chesterfield County.
 
 
-### HOMICIDE on 2025-05-02 06:04
-- Location: ABC News (AU)
-- Description: The nephew of one of the "bodies-in-the-barrels" murder victims has called on South Australia's Parole Board not to release convicted killer James Vlassakis who has applied to be released into the community.
+### HOMICIDE on 2025-05-02 12:01
+- Location: Sky.com
+- Description: A man has been convicted of killing his 74-year-old neighbour following a row over a gate.
 
 
-### ROBBERY/THEFT on 2025-05-02 06:00
-- Location: Naturalnews.com
-- Description: HHS Secretary Robert F. Kennedy Jr. announced an urgent effort to locate 300,000–500,000 migrant children who vanished from federal custody under Biden-era policies, calling it a humanitarian and trafficking crisis. Under prior leadership, HHS’s Office of Ref…
+### OTHER on 2025-05-02 12:00
+- Location: Foreign Policy
+- Description: Argentina’s economic overhaul passed a key test—and earned support from Trump.
 
 
-### HOMICIDE on 2025-05-02 05:49
-- Location: NDTV News
-- Description: The police in Karnataka&#039;s Mangaluru have enforced prohibitory orders across the city after a man, a prime accused in a murder case, was killed late Thursday evening.
+### ASSAULT on 2025-05-02 12:00
+- Location: The Denver Post
+- Description: Missy Woods deleted, omitted or manipulated DNA data in at least 1,022 criminal cases during her 29-year career, the CBI found in an internal investigation.
 
 
-### OTHER on 2025-05-02 05:47
-- Location: Shkspr.mobi
-- Description: How far can you enhance an image or video before you cross the line into manipulation?  The UK is currently prosecuting two men accused of a crime. Part of the prosecution's evidence is a video. In showing it to the jury, the prosecution have said:  the two m…
+### HOMICIDE on 2025-05-02 11:58
+- Location: CBS News
+- Description: Three youths aged 15 to 20 were killed in broad daylight at a hair salon in central Uppsala, about 45 miles north of Stockholm.
 
-Analysis generated at: Sat May  3 06:18:06 UTC 2025
+Analysis generated at: Sat May  3 12:24:34 UTC 2025
