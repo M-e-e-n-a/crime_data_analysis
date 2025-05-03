@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat May  3 12:40:58 UTC 2025
+Last updated: Sat May  3 18:17:26 UTC 2025
 
 ## Latest Analysis
 
-Loaded 30125 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-02 12:40:00
+Loaded 30221 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-02 18:14:06
 
 Incidents by source:
 source
-newsapi           30024
+newsapi           30120
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-05-02 12:40
-- Location: DW (English)
-- Description: Police in Sweden have detained three men over a shooting that left three dead in the city of Uppsala. They also released a teenager who had been held previously.
+### HOMICIDE on 2025-05-02 18:14
+- Location: The New York Review of Books
+- Description: When I decided to move from Brooklyn to Berlin in 2017, I was attracted by the prospect of a medical system that would protect me from debt and premature death. Like eighty-six percent of people living in Germany, I have statutory health insurance, which mean…
 
 
-### ROBBERY/THEFT on 2025-05-02 12:39
-- Location: The Jerusalem Post
-- Description: The IDF arrested two residents in Hableh, a Palestinian village located in the Kalkilya Governorate.
+### OTHER on 2025-05-02 18:07
+- Location: Digital Journal
+- Description: The United States said Friday it has designated two of the gangs that wreak havoc while controlling most of Haiti’s capital as foreign terrorist groups. These gangs are Viv Ansanm and Gran Grif, Secretary of State Marco Rubio said in a statement. “The age of …
 
 
-### SHOOTING on 2025-05-02 12:05
-- Location: Richmond.com
-- Description: A juvenile died Thursday night in a shooting at an apartment in the Bellwood neighborhood of Chesterfield County.
+### OTHER on 2025-05-02 18:06
+- Location: International Business Times
+- Description: The United States said Friday it has designated two of the gangs that wreak havoc while controlling most of Haiti's capital as foreign terrorist groups.
 
 
-### HOMICIDE on 2025-05-02 12:01
-- Location: Sky.com
-- Description: A man has been convicted of killing his 74-year-old neighbour following a row over a gate.
+### OTHER on 2025-05-02 18:03
+- Location: The Daily Caller
+- Description: Democratic New York Rep. Josh Riley's reelection campaign took a donation from a left-wing activist group that supports abolishing cash bail.
 
 
-### OTHER on 2025-05-02 12:00
-- Location: Foreign Policy
-- Description: Argentina’s economic overhaul passed a key test—and earned support from Trump.
+### ROBBERY/THEFT on 2025-05-02 18:03
+- Location: WPXI Pittsburgh
+- Description: Stress and worker shortages are pushing Pittsburgh-area healthcare workers to the brink. And now, a new, more dangerous problem: a violent work environment.
 
-Analysis generated at: Sat May  3 12:40:58 UTC 2025
+Analysis generated at: Sat May  3 18:17:26 UTC 2025
