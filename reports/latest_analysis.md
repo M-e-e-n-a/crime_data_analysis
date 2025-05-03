@@ -1,10 +1,10 @@
 
-Loaded 30025 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-02 01:44:31
+Loaded 30057 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-02 06:15:13
 
 Incidents by source:
 source
-newsapi           29924
+newsapi           29956
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### DRUG RELATED on 2025-05-02 01:44
-- Location: CBC News
-- Description: Scared neighbours. An atmosphere of "fear, mistrust and continual disruption." People "upset and anxious and worried in their own homes." A Skidegate band councillor told a provincial court judge years ago that banishment was a possibility for Frank Young, as…
+### HOMICIDE on 2025-05-02 06:15
+- Location: The Jerusalem Post
+- Description: Two Israelis were murdered in separate cases in LA, one was beaten to death, and three suspects were arrested.
+Police probe both as homicides. No link confirmed.
 
 
-### HOMICIDE on 2025-05-02 01:42
-- Location: New York Post
-- Description: Luigi Mangione‘s lawyers urged a judge Thursday to throw out his state murder charges in the killing of UnitedHealthcare CEO Brian Thompson.
-
-
-### OTHER on 2025-05-02 01:42
-- Location: Freerepublic.com
-- Description: District Court Judge Shelley M. Richmond Joseph departs federal court, Thursday, April 25, 2019, in Boston after facing obstruction of justice charges for allegedly helping a man in the country illegally evade immigration officials as he left her Newton, Mass…
-
-
-### OTHER on 2025-05-02 01:40
+### HOMICIDE on 2025-05-02 06:04
 - Location: ABC News (AU)
-- Description: A child born to an overseas commercial surrogate is in legal limbo, with experts estimating hundreds of other Australian children are also living with uncertain parentage.
+- Description: The nephew of one of the "bodies-in-the-barrels" murder victims has called on South Australia's Parole Board not to release convicted killer James Vlassakis who has applied to be released into the community.
 
 
-### OTHER on 2025-05-02 01:22
-- Location: Al Jazeera English
-- Description: Lawyers say the Trump administration's efforts to deport Badar Khan Suri violate his freedom of speech and association.
+### ROBBERY/THEFT on 2025-05-02 06:00
+- Location: Naturalnews.com
+- Description: HHS Secretary Robert F. Kennedy Jr. announced an urgent effort to locate 300,000–500,000 migrant children who vanished from federal custody under Biden-era policies, calling it a humanitarian and trafficking crisis. Under prior leadership, HHS’s Office of Ref…
 
-Analysis generated at: Sat May  3 01:48:00 UTC 2025
+
+### HOMICIDE on 2025-05-02 05:49
+- Location: NDTV News
+- Description: The police in Karnataka&#039;s Mangaluru have enforced prohibitory orders across the city after a man, a prime accused in a murder case, was killed late Thursday evening.
+
+
+### OTHER on 2025-05-02 05:47
+- Location: Shkspr.mobi
+- Description: How far can you enhance an image or video before you cross the line into manipulation?  The UK is currently prosecuting two men accused of a crime. Part of the prosecution's evidence is a video. In showing it to the jury, the prosecution have said:  the two m…
+
+Analysis generated at: Sat May  3 06:18:06 UTC 2025
