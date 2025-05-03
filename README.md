@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat May  3 01:04:47 UTC 2025
+Last updated: Sat May  3 01:48:00 UTC 2025
 
 ## Latest Analysis
 
-Loaded 30018 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-02 00:56:36
+Loaded 30025 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-02 01:44:31
 
 Incidents by source:
 source
-newsapi           29917
+newsapi           29924
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-05-02 00:56
-- Location: WFTV Orlando
-- Description: The University of Central Florida's police chief says Crisis Intervention Training has made a tremendous impact across his agency.
-
-
-### OTHER on 2025-05-02 00:53
-- Location: On3.com
-- Description: Washington transfer WR Johntay Cook commits to Syracuseon3.com
-
-
-### HOMICIDE on 2025-05-02 00:36
-- Location: Newsonjapan.com
-- Description: A man has been arrested on suspicion of attempted murder after driving into seven elementary school children near an Osaka school as they were walking home. (News On Japan)
-
-
-### HOMICIDE on 2025-05-02 00:36
-- Location: Fox News
-- Description: U.S. Immigration and Customs Enforcement filed a detainer against a Honduran man accused of a shooting spree in Memphis last week that injured several people.
-
-
-### HOMICIDE on 2025-05-02 00:35
+### DRUG RELATED on 2025-05-02 01:44
 - Location: CBC News
-- Description: Halton police have identified the victim in a fatal shooting outside a Burlington, Ont., restaurant Tuesday night as a 55-year-old Oakville resident.
+- Description: Scared neighbours. An atmosphere of "fear, mistrust and continual disruption." People "upset and anxious and worried in their own homes." A Skidegate band councillor told a provincial court judge years ago that banishment was a possibility for Frank Young, as…
 
-Analysis generated at: Sat May  3 01:04:47 UTC 2025
+
+### HOMICIDE on 2025-05-02 01:42
+- Location: New York Post
+- Description: Luigi Mangione‘s lawyers urged a judge Thursday to throw out his state murder charges in the killing of UnitedHealthcare CEO Brian Thompson.
+
+
+### OTHER on 2025-05-02 01:42
+- Location: Freerepublic.com
+- Description: District Court Judge Shelley M. Richmond Joseph departs federal court, Thursday, April 25, 2019, in Boston after facing obstruction of justice charges for allegedly helping a man in the country illegally evade immigration officials as he left her Newton, Mass…
+
+
+### OTHER on 2025-05-02 01:40
+- Location: ABC News (AU)
+- Description: A child born to an overseas commercial surrogate is in legal limbo, with experts estimating hundreds of other Australian children are also living with uncertain parentage.
+
+
+### OTHER on 2025-05-02 01:22
+- Location: Al Jazeera English
+- Description: Lawyers say the Trump administration's efforts to deport Badar Khan Suri violate his freedom of speech and association.
+
+Analysis generated at: Sat May  3 01:48:00 UTC 2025
