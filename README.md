@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun May  4 12:24:41 UTC 2025
+Last updated: Sun May  4 12:41:26 UTC 2025
 
 ## Latest Analysis
 
-Loaded 30298 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-03 12:05:02
+Loaded 30299 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-03 12:36:48
 
 Incidents by source:
 source
-newsapi           30197
+newsapi           30198
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -23,6 +23,12 @@ bution.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### HOMICIDE on 2025-05-03 12:36
+- Location: Breitbart News
+- Description: A woman was killed early Saturday in the northern Greek city of Thessaloniki when a bomb she was carrying exploded in her hands, police said.
+The post Greece: Woman Dies After Bomb She Was Carrying Exploded in Her Hands appeared first on Breitbart.
+
 
 ### OTHER on 2025-05-03 12:05
 - Location: Business Insider
@@ -43,9 +49,4 @@ bution.svg)
 - Location: /FILM
 - Description: This under-seen crime drama, which features one of Jack Black's best performances, is actively climbing the streaming charts at Tubi.
 
-
-### HOMICIDE on 2025-05-03 11:40
-- Location: New York Post
-- Description: A man convicted of throwing an NYPD officer off a Times Square roof 40 years ago will soon have his third parole hearing in two years – pitting the cop's family in a “nightmare” battle against his lawyers at a high-powered firm that's boasted about springing …
-
-Analysis generated at: Sun May  4 12:24:41 UTC 2025
+Analysis generated at: Sun May  4 12:41:26 UTC 2025
