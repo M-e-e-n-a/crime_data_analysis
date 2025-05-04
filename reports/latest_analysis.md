@@ -1,10 +1,10 @@
 
-Loaded 30299 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-03 12:36:48
+Loaded 30356 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-03 18:13:17
 
 Incidents by source:
 source
-newsapi           30198
+newsapi           30255
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-05-03 12:36
+### ASSAULT on 2025-05-03 18:13
+- Location: The Jerusalem Post
+- Description: The two had also shared content expressing joy and wishes to amplify the recent wildfires on the outskirts of Jerusalem.
+
+
+### HOMICIDE on 2025-05-03 18:00
+- Location: Fox News
+- Description: New prison documents reveal details about the convict known as the "Connecticut Cannibal" amid concerns of his conditional release after only serving a portion of his 60-year sentence.
+
+
+### OTHER on 2025-05-03 18:00
+- Location: The Irish Times
+- Description: Manhattan prosecutors will cast the entertainer as a criminal sexual deviant who exploited his fame to abuse women
+
+
+### OTHER on 2025-05-03 17:46
+- Location: NDTV News
+- Description: A teenage girl was found hanging from a tree in Japanese Park in Delhi&#039;s Rohini area on Saturday morning, an official said.
+
+
+### SHOOTING on 2025-05-03 17:45
 - Location: Breitbart News
-- Description: A woman was killed early Saturday in the northern Greek city of Thessaloniki when a bomb she was carrying exploded in her hands, police said.
-The post Greece: Woman Dies After Bomb She Was Carrying Exploded in Her Hands appeared first on Breitbart.
+- Description: A U.S. Army soldier is facing drug-related charges in connection with a recent raid by the Drug Enforcement Administration (DEA) on a Colorado Springs, Colorado, raid. The raid led to the arrest of  114 illegal aliens and the seizure of handguns, drug paraphe…
 
-
-### OTHER on 2025-05-03 12:05
-- Location: Business Insider
-- Description: Journalists globally are facing unjust imprisonment for doing their jobs. These are the 10 most urgent cases.
-
-
-### ROBBERY/THEFT on 2025-05-03 11:50
-- Location: ABC News
-- Description: Anti-organized crime specialist investigators probing a wave of attacks on prisons and prison staff in France are looking at the possible involvement of a notorious drug cartel
-
-
-### ROBBERY/THEFT on 2025-05-03 11:47
-- Location: Yahoo Entertainment
-- Description: Anti-organized crime specialist investigators probing a wave of attacks on prisons and prison staff in France are looking at the possible involvement of a...
-
-
-### OTHER on 2025-05-03 11:45
-- Location: /FILM
-- Description: This under-seen crime drama, which features one of Jack Black's best performances, is actively climbing the streaming charts at Tubi.
-
-Analysis generated at: Sun May  4 12:41:26 UTC 2025
+Analysis generated at: Sun May  4 18:17:20 UTC 2025
