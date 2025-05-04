@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun May  4 01:13:00 UTC 2025
+Last updated: Sun May  4 01:59:38 UTC 2025
 
 ## Latest Analysis
 
-Loaded 30229 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-03 01:02:34
+Loaded 30234 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-03 01:53:57
 
 Incidents by source:
 source
-newsapi           30128
+newsapi           30133
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-05-03 01:02
-- Location: ABC News
-- Description: During his arraignment on Friday, prosecutors said Anthony Andrew Esposito Jr. allegedly told police he beat his son because the 12-year-old was disrespectful.
+### OTHER on 2025-05-03 01:53
+- Location: New York Post
+- Description: The maniac fled and was found hiding out on a boat docked across the street from the scene after an hours-long manhunt.
 
 
-### OTHER on 2025-05-03 01:02
-- Location: ABC News
-- Description: Authorities in Tennessee have released video of a 2022 traffic stop involving Kilmar Abrego Garcia
-
-
-### OTHER on 2025-05-03 01:00
-- Location: Screen Rant
-- Description: ScreenRant interviews showrunners Jenna Bans and Bill Krebs about Grosse Pointe Garden Society season 1 episode 11's major reveal and what it means.
-
-
-### OTHER on 2025-05-03 00:49
+### ASSAULT on 2025-05-03 01:40
 - Location: Freerepublic.com
-- Description: NEW YORK (AP) — New York City’s police department provided federal immigration authorities with an internal record about a Palestinian woman who they arrested at a protest, which the Trump administration is now using as evidence in its bid to deport her, acco…
+- Description: A Kentucky man won the Powerball lottery in his home state and then went to Florida to celebrate, which allegedly got a bit out of hand. James Farthing, 50, won the Kentucky Powerball on April 26 after playing a $2 ticket along with his mother, Linda Grizzle.…
 
 
-### SHOOTING on 2025-05-03 00:47
-- Location: RT
-- Description: At least three people were injured in a shooting at a college in California Read Full Article at RT.com
+### ROBBERY/THEFT on 2025-05-03 01:30
+- Location: NBC News
+- Description: Video taken at a Minnesota public park this week shows a white woman apparently admitting she used a racist slur against a Black youth she accused of taking an item that belongs to her child.
 
-Analysis generated at: Sun May  4 01:13:00 UTC 2025
+
+### SHOOTING on 2025-05-03 01:24
+- Location: ABC News
+- Description: The mayor of a Southern California city says two women have been shot on a college campus and taken to the hospital
+
+
+### SHOOTING on 2025-05-03 01:15
+- Location: WSOC Charlotte
+- Description: More than eight years after Everette Lynn was shot and left to die on East Independence Boulevard, his family continues to search for answers.
+
+Analysis generated at: Sun May  4 01:59:38 UTC 2025
