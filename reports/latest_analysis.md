@@ -1,10 +1,10 @@
 
-Loaded 30250 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-03 06:12:59
+Loaded 30298 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-03 12:05:02
 
 Incidents by source:
 source
-newsapi           30149
+newsapi           30197
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-05-03 06:12
-- Location: Protothema.gr
-- Description: The woman who was killed was known to the police authorities, as she had previously been involved in cases under common criminal law — she had also taken part in robberies
-The post Thessaloniki: 39-year-old woman killed by explosion of Improvised explosive de…
+### OTHER on 2025-05-03 12:05
+- Location: Business Insider
+- Description: Journalists globally are facing unjust imprisonment for doing their jobs. These are the 10 most urgent cases.
 
 
-### OTHER on 2025-05-03 06:05
-- Location: The Jerusalem Post
-- Description: Despite its dark image, the dark web is not entirely criminal. Human rights organizations use the platform to circumvent government censorship and spread life-saving information.
+### ROBBERY/THEFT on 2025-05-03 11:50
+- Location: ABC News
+- Description: Anti-organized crime specialist investigators probing a wave of attacks on prisons and prison staff in France are looking at the possible involvement of a notorious drug cartel
 
 
-### OTHER on 2025-05-03 06:00
-- Location: Naturalnews.com
-- Description: The MTA is deploying AI-powered surveillance in NYC subways to detect “irrational or concerning conduct,” aiming to predict and prevent crimes before they occur. The system scans for suspicious actions (e.g., unattended bags, aggressive movements) but does no…
+### ROBBERY/THEFT on 2025-05-03 11:47
+- Location: Yahoo Entertainment
+- Description: Anti-organized crime specialist investigators probing a wave of attacks on prisons and prison staff in France are looking at the possible involvement of a...
 
 
-### OTHER on 2025-05-03 06:00
-- Location: Naturalnews.com
-- Description: The California State Assembly’s Public Safety Committee weakened AB 379, removing a provision that would have made it a felony to pay for sex with 16- and 17-year-olds. Prosecutors must now prove the minor was trafficked before imposing stricter penalties. Th…
+### OTHER on 2025-05-03 11:45
+- Location: /FILM
+- Description: This under-seen crime drama, which features one of Jack Black's best performances, is actively climbing the streaming charts at Tubi.
 
 
-### OTHER on 2025-05-03 05:30
-- Location: EURACTIV
-- Description: As part of the One Free Press Coalition, Euractiv is marking World Press Freedom Day by highlighting ten cases where journalists remain imprisoned for seeking to expose truth.
+### HOMICIDE on 2025-05-03 11:40
+- Location: New York Post
+- Description: A man convicted of throwing an NYPD officer off a Times Square roof 40 years ago will soon have his third parole hearing in two years – pitting the cop's family in a “nightmare” battle against his lawyers at a high-powered firm that's boasted about springing …
 
-Analysis generated at: Sun May  4 06:18:56 UTC 2025
+Analysis generated at: Sun May  4 12:24:41 UTC 2025
