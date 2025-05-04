@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun May  4 01:59:38 UTC 2025
+Last updated: Sun May  4 06:18:56 UTC 2025
 
 ## Latest Analysis
 
-Loaded 30234 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-03 01:53:57
+Loaded 30250 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-03 06:12:59
 
 Incidents by source:
 source
-newsapi           30133
+newsapi           30149
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-05-03 01:53
-- Location: New York Post
-- Description: The maniac fled and was found hiding out on a boat docked across the street from the scene after an hours-long manhunt.
+### HOMICIDE on 2025-05-03 06:12
+- Location: Protothema.gr
+- Description: The woman who was killed was known to the police authorities, as she had previously been involved in cases under common criminal law — she had also taken part in robberies
+The post Thessaloniki: 39-year-old woman killed by explosion of Improvised explosive de…
 
 
-### ASSAULT on 2025-05-03 01:40
-- Location: Freerepublic.com
-- Description: A Kentucky man won the Powerball lottery in his home state and then went to Florida to celebrate, which allegedly got a bit out of hand. James Farthing, 50, won the Kentucky Powerball on April 26 after playing a $2 ticket along with his mother, Linda Grizzle.…
+### OTHER on 2025-05-03 06:05
+- Location: The Jerusalem Post
+- Description: Despite its dark image, the dark web is not entirely criminal. Human rights organizations use the platform to circumvent government censorship and spread life-saving information.
 
 
-### ROBBERY/THEFT on 2025-05-03 01:30
-- Location: NBC News
-- Description: Video taken at a Minnesota public park this week shows a white woman apparently admitting she used a racist slur against a Black youth she accused of taking an item that belongs to her child.
+### OTHER on 2025-05-03 06:00
+- Location: Naturalnews.com
+- Description: The MTA is deploying AI-powered surveillance in NYC subways to detect “irrational or concerning conduct,” aiming to predict and prevent crimes before they occur. The system scans for suspicious actions (e.g., unattended bags, aggressive movements) but does no…
 
 
-### SHOOTING on 2025-05-03 01:24
-- Location: ABC News
-- Description: The mayor of a Southern California city says two women have been shot on a college campus and taken to the hospital
+### OTHER on 2025-05-03 06:00
+- Location: Naturalnews.com
+- Description: The California State Assembly’s Public Safety Committee weakened AB 379, removing a provision that would have made it a felony to pay for sex with 16- and 17-year-olds. Prosecutors must now prove the minor was trafficked before imposing stricter penalties. Th…
 
 
-### SHOOTING on 2025-05-03 01:15
-- Location: WSOC Charlotte
-- Description: More than eight years after Everette Lynn was shot and left to die on East Independence Boulevard, his family continues to search for answers.
+### OTHER on 2025-05-03 05:30
+- Location: EURACTIV
+- Description: As part of the One Free Press Coalition, Euractiv is marking World Press Freedom Day by highlighting ten cases where journalists remain imprisoned for seeking to expose truth.
 
-Analysis generated at: Sun May  4 01:59:38 UTC 2025
+Analysis generated at: Sun May  4 06:18:56 UTC 2025
