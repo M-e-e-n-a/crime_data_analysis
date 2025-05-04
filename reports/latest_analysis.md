@@ -1,10 +1,10 @@
 
-Loaded 30221 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-02 18:14:06
+Loaded 30229 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-03 01:02:34
 
 Incidents by source:
 source
-newsapi           30120
+newsapi           30128
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-05-02 18:14
-- Location: The New York Review of Books
-- Description: When I decided to move from Brooklyn to Berlin in 2017, I was attracted by the prospect of a medical system that would protect me from debt and premature death. Like eighty-six percent of people living in Germany, I have statutory health insurance, which mean…
+### HOMICIDE on 2025-05-03 01:02
+- Location: ABC News
+- Description: During his arraignment on Friday, prosecutors said Anthony Andrew Esposito Jr. allegedly told police he beat his son because the 12-year-old was disrespectful.
 
 
-### OTHER on 2025-05-02 18:07
-- Location: Digital Journal
-- Description: The United States said Friday it has designated two of the gangs that wreak havoc while controlling most of Haiti’s capital as foreign terrorist groups. These gangs are Viv Ansanm and Gran Grif, Secretary of State Marco Rubio said in a statement. “The age of …
+### OTHER on 2025-05-03 01:02
+- Location: ABC News
+- Description: Authorities in Tennessee have released video of a 2022 traffic stop involving Kilmar Abrego Garcia
 
 
-### OTHER on 2025-05-02 18:06
-- Location: International Business Times
-- Description: The United States said Friday it has designated two of the gangs that wreak havoc while controlling most of Haiti's capital as foreign terrorist groups.
+### OTHER on 2025-05-03 01:00
+- Location: Screen Rant
+- Description: ScreenRant interviews showrunners Jenna Bans and Bill Krebs about Grosse Pointe Garden Society season 1 episode 11's major reveal and what it means.
 
 
-### OTHER on 2025-05-02 18:03
-- Location: The Daily Caller
-- Description: Democratic New York Rep. Josh Riley's reelection campaign took a donation from a left-wing activist group that supports abolishing cash bail.
+### OTHER on 2025-05-03 00:49
+- Location: Freerepublic.com
+- Description: NEW YORK (AP) — New York City’s police department provided federal immigration authorities with an internal record about a Palestinian woman who they arrested at a protest, which the Trump administration is now using as evidence in its bid to deport her, acco…
 
 
-### ROBBERY/THEFT on 2025-05-02 18:03
-- Location: WPXI Pittsburgh
-- Description: Stress and worker shortages are pushing Pittsburgh-area healthcare workers to the brink. And now, a new, more dangerous problem: a violent work environment.
+### SHOOTING on 2025-05-03 00:47
+- Location: RT
+- Description: At least three people were injured in a shooting at a college in California Read Full Article at RT.com
 
-Analysis generated at: Sat May  3 18:17:26 UTC 2025
+Analysis generated at: Sun May  4 01:13:00 UTC 2025
