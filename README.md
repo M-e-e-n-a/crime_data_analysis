@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun May  4 18:17:20 UTC 2025
+Last updated: Mon May  5 01:09:38 UTC 2025
 
 ## Latest Analysis
 
-Loaded 30356 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-03 18:13:17
+Loaded 30365 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-04 01:07:06
 
 Incidents by source:
 source
-newsapi           30255
+newsapi           30264
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2025-05-03 18:13
-- Location: The Jerusalem Post
-- Description: The two had also shared content expressing joy and wishes to amplify the recent wildfires on the outskirts of Jerusalem.
+### OTHER on 2025-05-04 01:07
+- Location: CNN
+- Description: With Trump’s new tariffs in place on products from countries like China, many businesses are looking at bonded warehouses as a way to legally avoid paying the extra dues for now. CNN’s Julia Vargas Jones explains how they work.
 
 
-### HOMICIDE on 2025-05-03 18:00
-- Location: Fox News
-- Description: New prison documents reveal details about the convict known as the "Connecticut Cannibal" amid concerns of his conditional release after only serving a portion of his 60-year sentence.
+### HOMICIDE on 2025-05-04 01:00
+- Location: Thegatewaypundit.com
+- Description: A 38-year-old Ohio father, Rodney Hinton, Jr., was arrested and charged with aggravated murder after allegedly running over and killing a sheriff's deputy on Friday in Cincinnati in revenge for the police shooting death of his son, 18-year-old Ryan Hinton on …
 
 
-### OTHER on 2025-05-03 18:00
-- Location: The Irish Times
-- Description: Manhattan prosecutors will cast the entertainer as a criminal sexual deviant who exploited his fame to abuse women
+### HOMICIDE on 2025-05-04 00:58
+- Location: The Star Online
+- Description: BINTULU: Police are tracking down 11 remaining suspects still at large, believed to be involved in a brawl that led to the death of a local man at an entertainment outlet here on April 27. Read full story
 
 
-### OTHER on 2025-05-03 17:46
-- Location: NDTV News
-- Description: A teenage girl was found hanging from a tree in Japanese Park in Delhi&#039;s Rohini area on Saturday morning, an official said.
+### OTHER on 2025-05-04 00:22
+- Location: 7NEWS.com.au
+- Description: Young girl, 13, scares away three men who broke into her home at Rochedale in Brisbane’s south7news.com.au
 
 
-### SHOOTING on 2025-05-03 17:45
-- Location: Breitbart News
-- Description: A U.S. Army soldier is facing drug-related charges in connection with a recent raid by the Drug Enforcement Administration (DEA) on a Colorado Springs, Colorado, raid. The raid led to the arrest of  114 illegal aliens and the seizure of handguns, drug paraphe…
+### OTHER on 2025-05-04 00:15
+- Location: Richmond.com
+- Description: A Tappahannock woman died early Saturday in a single-vehicle crash on Mechanicsville Turnpike near the Hanover County line, according to Henrico Police.
 
-Analysis generated at: Sun May  4 18:17:20 UTC 2025
+Analysis generated at: Mon May  5 01:09:38 UTC 2025
