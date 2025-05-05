@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon May  5 12:27:41 UTC 2025
+Last updated: Mon May  5 12:46:45 UTC 2025
 
 ## Latest Analysis
 
-Loaded 30426 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-04 12:21:40
+Loaded 30430 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-04 12:45:27
 
 Incidents by source:
 source
-newsapi           30325
+newsapi           30329
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
+### SHOOTING on 2025-05-04 12:45
+- Location: WPXI Pittsburgh
+- Description: A girl was shot in Wilkinsburg Saturday evening.
+
+
+### OTHER on 2025-05-04 12:42
+- Location: Freerepublic.com
+- Description: Rep. Alexandria Ocasio-Cortez (D-NY) on Friday dared border czar Tom Homan to arrest her for what she claimed was legal advice she gave to migrants on how to avoid being deported. Homan responded to the congresswoman’s taunt by saying he was already exploring…
+
+
+### HOMICIDE on 2025-05-04 12:40
+- Location: Newser
+- Description: At least one person was killed when up to 14 people were shot at a party in Houston early Sunday, police said. The Houston Police Department began receiving calls reporting shots fired around 12:50am in southeast Houston, said Assistant Chief Patricia Cantu. …
+
+
+### HOMICIDE on 2025-05-04 12:32
+- Location: Slashdot.org
+- Description: One dead, multiple others in critical condition after shootout at family party in southeast HoustonKHOU At least 1 dead after 14 people shot at a Houston family party, police sayDallas News At Least One Dead, Multiple Injured in Houston ShootingsThe New York …
+
+
 ### HOMICIDE on 2025-05-04 12:21
 - Location: CBS News
 - Description: A family party was taking place and an uninvited guest was asked to leave the home, police said.
 
-
-### ROBBERY/THEFT on 2025-05-04 12:01
-- Location: AppleInsider
-- Description: UK lawmakers target people who play music publicly on trains from iPhone speakers, a notorious prank call from an "open iPad," and a stalking case involving an AirTag in this week's Apple Crime Blotter.The Fifth Avenue Apple Store The latest in an occasional …
-
-
-### OTHER on 2025-05-04 12:01
-- Location: USA Today
-- Description: Sarah Shanks was found in her driveway, struggling to breathe. Everyone agrees she should be alive, but that’s where the agreement ends.
-
-
-### HOMICIDE on 2025-05-04 12:00
-- Location: The Denver Post
-- Description: Nearly 13% of people killed by Colorado law enforcement in 2024 were Black, but Black people make up less than 4% of the state’s population.
-
-
-### OTHER on 2025-05-04 12:00
-- Location: The Denver Post
-- Description: A Honduran mother of two was detained by ICE while delivering a food order to Buckley Space Force Base in Aurora. As she waits in detention months later, she still has questions.
-
-Analysis generated at: Mon May  5 12:27:41 UTC 2025
+Analysis generated at: Mon May  5 12:46:45 UTC 2025
