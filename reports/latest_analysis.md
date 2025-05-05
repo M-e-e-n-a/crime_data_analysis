@@ -1,10 +1,10 @@
 
-Loaded 30371 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-04 01:40:44
+Loaded 30385 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-04 06:01:57
 
 Incidents by source:
 source
-newsapi           30270
+newsapi           30284
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,35 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-05-04 01:40
-- Location: BBC News
-- Description: The Swedish city Uppsala broke into party spirit this week - but the killing of hair salon customers still wearing their capes left many shaken.
+### OTHER on 2025-05-04 06:01
+- Location: Yahoo Entertainment
+- Description: As France prepares to mark the 80th anniversary of the Nazi surrender to Allied forces, survivors of World War II reflect on painful memories of fear...
 
 
-### ASSAULT on 2025-05-04 01:37
-- Location: PEOPLE
-- Description: James Farthing was arrested after allegedly getting into a fight at a Florida hotel and kicking a deputy who attempted to break it up
+### OTHER on 2025-05-04 04:48
+- Location: New York Post
+- Description: Corey Calderwood was arrested late Tuesday night.
 
 
-### HOMICIDE on 2025-05-04 01:33
-- Location: ABC News
-- Description: Authorities in Ohio said a man "purposely" struck and killed a sheriff's deputy the day after his teen son was fatally shot by police.
+### OTHER on 2025-05-04 04:00
+- Location: Americanthinker.com
+- Description: In January of 2025 I wrote The Biden Forest Service corrals fencing terrorists. It was the story of Heather and Charles Maude who operate a 400-acre ranch in South Dakota. Their ranch, in the family for generations, abuts the Buffalo Gap Grassla...
 
 
-### OTHER on 2025-05-04 01:30
-- Location: Independent.ie
-- Description: Detective Sergeant Maeve Kerrigan is the creation of award-winning Irish crime writer Jane Casey. Unassuming, observant, four-chess-moves-ahead clever, with the Achilles’ heel of a romantic streak, DS Kerrigan is making her 12th outing in Casey’s latest book,…
+### SHOOTING on 2025-05-04 04:00
+- Location: Americanthinker.com
+- Description: To go armed or not to go armed? That is the question. Whether it is nobler in the mind to suffer the slings and arrows…OK, enough paraphrased Shakespeare. It’s common knowledge more and more Americans, including Democrats, are becoming f...
 
 
-### HOMICIDE on 2025-05-04 01:27
-- Location: ABC News (AU)
-- Description: A year after three young men were killed in Mexico during a suspected burglary gone wrong, the court system is moving slowly.
+### OTHER on 2025-05-04 04:00
+- Location: Americanthinker.com
+- Description: You've heard of 'Minnesota Men.' And Georgia Man. And 'Maryland Man.'
 
-Analysis generated at: Mon May  5 01:54:50 UTC 2025
+Now the New York Times is presenting us with 'Brooklyn Man.'
+
+According to the report:
+
+
+A Brooklyn man was arrested on Monday after the police ...
+
+Analysis generated at: Mon May  5 06:20:57 UTC 2025
