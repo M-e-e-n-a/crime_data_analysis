@@ -1,10 +1,10 @@
 
-Loaded 30365 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-04 01:07:06
+Loaded 30371 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-04 01:40:44
 
 Incidents by source:
 source
-newsapi           30264
+newsapi           30270
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-05-04 01:07
-- Location: CNN
-- Description: With Trump’s new tariffs in place on products from countries like China, many businesses are looking at bonded warehouses as a way to legally avoid paying the extra dues for now. CNN’s Julia Vargas Jones explains how they work.
+### HOMICIDE on 2025-05-04 01:40
+- Location: BBC News
+- Description: The Swedish city Uppsala broke into party spirit this week - but the killing of hair salon customers still wearing their capes left many shaken.
 
 
-### HOMICIDE on 2025-05-04 01:00
-- Location: Thegatewaypundit.com
-- Description: A 38-year-old Ohio father, Rodney Hinton, Jr., was arrested and charged with aggravated murder after allegedly running over and killing a sheriff's deputy on Friday in Cincinnati in revenge for the police shooting death of his son, 18-year-old Ryan Hinton on …
+### ASSAULT on 2025-05-04 01:37
+- Location: PEOPLE
+- Description: James Farthing was arrested after allegedly getting into a fight at a Florida hotel and kicking a deputy who attempted to break it up
 
 
-### HOMICIDE on 2025-05-04 00:58
-- Location: The Star Online
-- Description: BINTULU: Police are tracking down 11 remaining suspects still at large, believed to be involved in a brawl that led to the death of a local man at an entertainment outlet here on April 27. Read full story
+### HOMICIDE on 2025-05-04 01:33
+- Location: ABC News
+- Description: Authorities in Ohio said a man "purposely" struck and killed a sheriff's deputy the day after his teen son was fatally shot by police.
 
 
-### OTHER on 2025-05-04 00:22
-- Location: 7NEWS.com.au
-- Description: Young girl, 13, scares away three men who broke into her home at Rochedale in Brisbane’s south7news.com.au
+### OTHER on 2025-05-04 01:30
+- Location: Independent.ie
+- Description: Detective Sergeant Maeve Kerrigan is the creation of award-winning Irish crime writer Jane Casey. Unassuming, observant, four-chess-moves-ahead clever, with the Achilles’ heel of a romantic streak, DS Kerrigan is making her 12th outing in Casey’s latest book,…
 
 
-### OTHER on 2025-05-04 00:15
-- Location: Richmond.com
-- Description: A Tappahannock woman died early Saturday in a single-vehicle crash on Mechanicsville Turnpike near the Hanover County line, according to Henrico Police.
+### HOMICIDE on 2025-05-04 01:27
+- Location: ABC News (AU)
+- Description: A year after three young men were killed in Mexico during a suspected burglary gone wrong, the court system is moving slowly.
 
-Analysis generated at: Mon May  5 01:09:38 UTC 2025
+Analysis generated at: Mon May  5 01:54:50 UTC 2025
