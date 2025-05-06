@@ -1,10 +1,10 @@
 
-Loaded 30493 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-05 01:04:29
+Loaded 30499 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-05 01:40:22
 
 Incidents by source:
 source
-newsapi           30392
+newsapi           30398
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,48 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-05-05 01:04
-- Location: CNA
-- Description: Combs is facing five charges including racketeering conspiracy and sex trafficking. Jury selection for the trial is scheduled to begin on Monday (May 5).
+### OTHER on 2025-05-05 01:40
+- Location: Thegatewaypundit.com
+- Description: Smiley Martin should have been behind bars. A career criminal with a long rap sheet involving firearms, he was given a 10-year sentence in 2018 for punching, dragging and severely beating his girlfriend with a belt.
+The post California Penal Reform and the Vi…
 
 
-### OTHER on 2025-05-05 01:00
-- Location: Human Rights Watch
-- Description: Click to expand Image
- 
+### HOMICIDE on 2025-05-05 01:39
+- Location: The Times of India
+- Description: Akash Pawar, 24, was found murdered near Indira Bridge, his body bound and stuffed in a sack. His father reported him missing after he disappeared on May 1. Police discovered the body on May 3, initiating a murder investigation, suspecting premeditation and m…
 
 
-
- 
- 
- 
-
- 
- 
- 
- 
- The Hong Kong activist Nathan Law takes part in a demonstration outside the Foreign Office in Berlin, September 1, 2020.
- © 2020 Tobias Schwarz / AFP via Getty Images
- 
- 
+### SHOOTING on 2025-05-05 01:38
+- Location: 7NEWS.com.au
+- Description: Social media post leads to arrest after Aussie man allegedly films himself firing gun out of car window7news.com.au
 
 
- 
-(Taipei) – The Hong Kong police arrested …
+### SHOOTING on 2025-05-05 01:35
+- Location: Thehillstimes.in
+- Description: MUMBAI: (May 4) “Delhi Crime” director Richie Mehta on Sunday said that initially no streamer wanted to finance the series as they found it to be “too controversial”. The Indian-Canadian filmmaker said the show, which explored the 2012 heinous gangrape and mu…
 
 
-### SHOOTING on 2025-05-05 00:56
-- Location: fox6now.com
-- Description: A 21-year-old was injured in a shooting in Milwaukee on Sunday, May 4.
+### SHOOTING on 2025-05-05 01:32
+- Location: ABC News (AU)
+- Description: A man and a woman are in custody after a video of a man allegedly shooting a firearm out a car window in the NSW Hunter region was circulated on social media.
 
-
-### HOMICIDE on 2025-05-05 00:48
-- Location: BBC News
-- Description: Tributes are paid to Layton Carr whose death following a Gateshead fire leads to the arrest of 14 children.
-
-
-### OTHER on 2025-05-05 00:33
-- Location: ABC News
-- Description: A nearly $5 million Lamborghini yacht needed rescuing after it began to sink off the coast of Florida, near Miami, during Formula One weekend.
-
-Analysis generated at: Tue May  6 01:06:43 UTC 2025
+Analysis generated at: Tue May  6 01:51:30 UTC 2025
