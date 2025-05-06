@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue May  6 12:29:20 UTC 2025
+Last updated: Tue May  6 12:48:38 UTC 2025
 
 ## Latest Analysis
 
-Loaded 30587 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-05 12:22:00
+Loaded 30595 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-05 12:46:42
 
 Incidents by source:
 source
-newsapi           30486
+newsapi           30494
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-05-05 12:22
-- Location: Newser
-- Description: Three people were killed in a shooting at a restaurant in the Phoenix suburb of Glendale on Sunday night, reports AZFamily . Several others were injured. Police received calls reporting shots around 7:45pm at El Camaron Gigante Mariscos & Steakhouse, per the …
+### ROBBERY/THEFT on 2025-05-05 12:46
+- Location: ABC News
+- Description: Spanish authorities say that thousands of rail passengers in Spain have been hit with delays after copper cables used in the signaling system of a high-speed line traveling south from Madrid to Seville were stolen at five locations
 
 
-### OTHER on 2025-05-05 12:19
-- Location: Democracy Now!
-- Description: We go to Wisconsin as the state’s Democratic Governor Tony Evers pushes back after Trump border czar Tom Homan says Wisconsin officials could be arrested over local policies that defy Trump’s mass deportation agenda. This comes after FBI agents arrested Milwa…
+### DRUG RELATED on 2025-05-05 12:45
+- Location: Forbes
+- Description: Given the complexity of controlled substance regulations, organizations must take a proactive approach to compliance and disposal.
 
 
-### ASSAULT on 2025-05-05 12:18
-- Location: Hurriyet Daily News
-- Description: Main opposition Republican People’s Party (CHP) leader Özgür Özel said he “will not back down” after being attacked during a memorial service for late lawmaker Sırrı Süreyya Önder at the Atatürk Cultural Center (AKM) in Istanbul on May 4.
+### ROBBERY/THEFT on 2025-05-05 12:42
+- Location: Financial Post
+- Description: MADRID (AP) — Thousands of rail passengers in Spain were hit with delays after copper cables used in the signaling system of a high-speed line traveling south from Madrid to Seville were stolen at five locations, authorities said Monday. The theft, which happ…
 
 
-### OTHER on 2025-05-05 12:17
-- Location: NDTV News
-- Description: A B Tech student at prestigious IIITDM Jabalpur in Madhya Pradesh was detained by police on Monday for allegedly filming her senior roommate in the hostel&#039;s bathroom, officials said.
+### HOMICIDE on 2025-05-05 12:39
+- Location: Breitbart News
+- Description: A highly decorated Mexican federal police officer and his wife died during a targeted attack by gunmen in Mexico. The murder came just weeks after it became known that his testimony in a U.S trial had helped seal the fate of the son of the leader of Cartel Ja…
 
 
-### HOMICIDE on 2025-05-05 12:16
-- Location: The Times of India
-- Description: A tragic incident occurred in Glendale, a suburb of Phoenix. A shooting at El Camaron Gigante Mariscos & Steakhouse resulted in three fatalities. Five other individuals sustained injuries from gunshots or shrapnel. The Glendale Police Department is actively i…
+### OTHER on 2025-05-05 12:37
+- Location: Rolling Stone
+- Description: Sean 'Diddy' Combs' sex trafficking and racketeering trial began Monday with jury selection, as potential jurors were quizzed about swingers.
 
-Analysis generated at: Tue May  6 12:29:20 UTC 2025
+Analysis generated at: Tue May  6 12:48:38 UTC 2025
