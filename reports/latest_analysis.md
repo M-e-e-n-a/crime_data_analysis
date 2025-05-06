@@ -1,10 +1,10 @@
 
-Loaded 30524 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-05 06:09:11
+Loaded 30587 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-05 12:22:00
 
 Incidents by source:
 source
-newsapi           30423
+newsapi           30486
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-05-05 06:09
-- Location: ABC News
-- Description: Indigenous people across North America are rallying to plead for sustained responses to violence in their communities
+### HOMICIDE on 2025-05-05 12:22
+- Location: Newser
+- Description: Three people were killed in a shooting at a restaurant in the Phoenix suburb of Glendale on Sunday night, reports AZFamily . Several others were injured. Police received calls reporting shots around 7:45pm at El Camaron Gigante Mariscos & Steakhouse, per the …
 
 
-### OTHER on 2025-05-05 06:00
-- Location: Naturalnews.com
-- Description: Free Speech as the Lifeline of Democracy: Censorship is Anti-Democratic Terrorism Democracy cannot survive without free speech. The framers of the U.S. Constitution understood this, embedding the principle in the First Amendment to protect the right to questi…
+### OTHER on 2025-05-05 12:19
+- Location: Democracy Now!
+- Description: We go to Wisconsin as the state’s Democratic Governor Tony Evers pushes back after Trump border czar Tom Homan says Wisconsin officials could be arrested over local policies that defy Trump’s mass deportation agenda. This comes after FBI agents arrested Milwa…
 
 
-### ASSAULT on 2025-05-05 05:58
-- Location: CounterPunch
-- Description: May 5 is International Day of the Midwife, but Ricardo Jones, a doctor and midwife, is spending it under house arrest after recently being sentenced to 14 years prison for assisting with a home birth in which the baby later died of congenital pneumonia. He sa…
+### ASSAULT on 2025-05-05 12:18
+- Location: Hurriyet Daily News
+- Description: Main opposition Republican People’s Party (CHP) leader Özgür Özel said he “will not back down” after being attacked during a memorial service for late lawmaker Sırrı Süreyya Önder at the Atatürk Cultural Center (AKM) in Istanbul on May 4.
 
 
-### OTHER on 2025-05-05 05:57
-- Location: ABC News
-- Description: Jury selection is set to start in Sean “Diddy” Combs' sex trafficking trial in New York
+### OTHER on 2025-05-05 12:17
+- Location: NDTV News
+- Description: A B Tech student at prestigious IIITDM Jabalpur in Madhya Pradesh was detained by police on Monday for allegedly filming her senior roommate in the hostel&#039;s bathroom, officials said.
 
 
-### HOMICIDE on 2025-05-05 05:55
-- Location: DW (English)
-- Description: Authorities said the victims were security guards and miners. The region the mine is located in is under a state of emergency due to ongoing instability.
+### HOMICIDE on 2025-05-05 12:16
+- Location: The Times of India
+- Description: A tragic incident occurred in Glendale, a suburb of Phoenix. A shooting at El Camaron Gigante Mariscos & Steakhouse resulted in three fatalities. Five other individuals sustained injuries from gunshots or shrapnel. The Glendale Police Department is actively i…
 
-Analysis generated at: Tue May  6 06:20:08 UTC 2025
+Analysis generated at: Tue May  6 12:29:20 UTC 2025
