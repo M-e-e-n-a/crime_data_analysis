@@ -1,10 +1,10 @@
 
-Loaded 30479 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-04 17:32:16
+Loaded 30493 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-05 01:04:29
 
 Incidents by source:
 source
-newsapi           30378
+newsapi           30392
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,48 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-05-04 17:32
-- Location: The Local Sweden
-- Description: A Swedish prosecutor said on Sunday he had requested that a man suspected of a triple shooting be remanded in custody.
+### OTHER on 2025-05-05 01:04
+- Location: CNA
+- Description: Combs is facing five charges including racketeering conspiracy and sex trafficking. Jury selection for the trial is scheduled to begin on Monday (May 5).
 
 
-### OTHER on 2025-05-04 17:26
-- Location: WSB Atlanta
-- Description: Police have arrested a 23-year-old Georgia man on multiple sexual-related charges.
+### OTHER on 2025-05-05 01:00
+- Location: Human Rights Watch
+- Description: Click to expand Image
+ 
 
 
-### OTHER on 2025-05-04 17:20
-- Location: CHS Capitol Hill Seattle News
-- Description: Here are the top stories from this week in CHS history: 2024   Capitol Hill’s hottest color for spring 2024: Voodoo pink Introducing Capitol Hill’s about to open Cheese Room, hoping to continue the ‘approachable and affordable’ spirit at Pine and Melrose … Co…
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ The Hong Kong activist Nathan Law takes part in a demonstration outside the Foreign Office in Berlin, September 1, 2020.
+ © 2020 Tobias Schwarz / AFP via Getty Images
+ 
+ 
 
 
-### OTHER on 2025-05-04 17:18
-- Location: TODAY
-- Description: A planned bombing at a Lady Gaga concert in Brazil on Saturday night was foiled and a person is in custody in connection to the failed plot, Brazilian authorities said.
+ 
+(Taipei) – The Hong Kong police arrested …
 
 
-### SHOOTING on 2025-05-04 17:15
-- Location: WSB Atlanta
-- Description: An investigation is underway after Atlanta police said a man was shot while trying to run from an attempted robbery.
+### SHOOTING on 2025-05-05 00:56
+- Location: fox6now.com
+- Description: A 21-year-old was injured in a shooting in Milwaukee on Sunday, May 4.
 
-Analysis generated at: Mon May  5 18:16:28 UTC 2025
+
+### HOMICIDE on 2025-05-05 00:48
+- Location: BBC News
+- Description: Tributes are paid to Layton Carr whose death following a Gateshead fire leads to the arrest of 14 children.
+
+
+### OTHER on 2025-05-05 00:33
+- Location: ABC News
+- Description: A nearly $5 million Lamborghini yacht needed rescuing after it began to sink off the coast of Florida, near Miami, during Formula One weekend.
+
+Analysis generated at: Tue May  6 01:06:43 UTC 2025
