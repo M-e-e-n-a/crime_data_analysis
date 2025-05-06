@@ -1,10 +1,10 @@
 
-Loaded 30595 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-05 12:46:42
+Loaded 30686 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-05 18:18:13
 
 Incidents by source:
 source
-newsapi           30494
+newsapi           30585
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2025-05-05 12:46
-- Location: ABC News
-- Description: Spanish authorities say that thousands of rail passengers in Spain have been hit with delays after copper cables used in the signaling system of a high-speed line traveling south from Madrid to Seville were stolen at five locations
+### OTHER on 2025-05-05 18:18
+- Location: Thesmokinggun.com
+- Description: <!--paging_filter-->While a judge has barred Angela Velasquez Taborda from returning to the retailer, the Florida Woman is not prohibited from further contact with any mythical personifications of evil.
+read more
 
 
-### DRUG RELATED on 2025-05-05 12:45
-- Location: Forbes
-- Description: Given the complexity of controlled substance regulations, organizations must take a proactive approach to compliance and disposal.
+### HOMICIDE on 2025-05-05 18:15
+- Location: Richmond.com
+- Description: Anyone with information about this homicide is asked to call Detective B. Neifeld at (804) 646-3246.
 
 
-### ROBBERY/THEFT on 2025-05-05 12:42
-- Location: Financial Post
-- Description: MADRID (AP) — Thousands of rail passengers in Spain were hit with delays after copper cables used in the signaling system of a high-speed line traveling south from Madrid to Seville were stolen at five locations, authorities said Monday. The theft, which happ…
+### OTHER on 2025-05-05 18:14
+- Location: Westernslopenow.com
+- Description: GRAND JUNCTION, Colo. (KREX) – In a hearing that lasted less than 10 minutes, Vicki Stuart – one of two suspects in last year’s election fraud case – pled...
 
 
-### HOMICIDE on 2025-05-05 12:39
-- Location: Breitbart News
-- Description: A highly decorated Mexican federal police officer and his wife died during a targeted attack by gunmen in Mexico. The murder came just weeks after it became known that his testimony in a U.S trial had helped seal the fate of the son of the leader of Cartel Ja…
+### HOMICIDE on 2025-05-05 18:12
+- Location: Slashdot.org
+- Description: Three dead, five hurt after shooting at restaurant near 59th and Glendale avenues SundayABC15 Arizona 3 killed, 5 injured after mass shooting at restaurant in Glendale, ArizonaCNN 3 dead and 5 others injured in a shooting at a restaurant in a Phoenix suburb, …
 
 
-### OTHER on 2025-05-05 12:37
-- Location: Rolling Stone
-- Description: Sean 'Diddy' Combs' sex trafficking and racketeering trial began Monday with jury selection, as potential jurors were quizzed about swingers.
+### HOMICIDE on 2025-05-05 18:09
+- Location: Fox News
+- Description: Honduran illegal immigrant charged with capital murder of a Georgia woman has pleaded not guilty, according to a court document obtained by Fox News.
 
-Analysis generated at: Tue May  6 12:48:38 UTC 2025
+Analysis generated at: Tue May  6 18:19:25 UTC 2025
