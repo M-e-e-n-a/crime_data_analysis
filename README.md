@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed May  7 06:20:26 UTC 2025
+Last updated: Wed May  7 12:29:14 UTC 2025
 
 ## Latest Analysis
 
-Loaded 30734 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-06 06:17:28
+Loaded 30811 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-06 12:28:00
 
 Incidents by source:
 source
-newsapi           30633
+newsapi           30710
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-05-06 06:17
-- Location: New Zealand Herald
-- Description: Police and customs received information about the importation through Lyttleton Port.
+### SHOOTING on 2025-05-06 12:28
+- Location: Newser
+- Description: An official in Chester, New York, who also happens to be a federally licensed firearms dealer, is accused of shooting a food delivery driver who went to his home to ask for directions. John Reilly, Chester's highway superintendent, told the DoorDash driver to…
 
 
-### SHOOTING on 2025-05-06 06:15
-- Location: WSB Atlanta
-- Description: Gunfire interrupted game time at a DeKalb County park on Monday night.
+### DRUG RELATED on 2025-05-06 12:16
+- Location: The Irish Times
+- Description: Trump administration has undercut a deal designed, in part, to curtail the flow of drugs to the US
 
 
-### OTHER on 2025-05-06 05:58
-- Location: 3AW
-- Description: Former New Zealand Police Commissioner Mike Bush has been appointed as the new Chief Commissioner of Victoria. Victorian Premier Jacinta Allan joined 3AW Drive and spoke on the appointment of Mike Bush as the new top cop. “He is the best person for the job,” …
+### OTHER on 2025-05-06 12:02
+- Location: Screen Rant
+- Description: The biggest theory related to the Lily mystery is debunked by the executive producer of NCIS, who offers a candid and direct response.
 
 
-### OTHER on 2025-05-06 05:42
-- Location: New York Post
-- Description: “Upon looking inside [a bag], the officer observed what appeared to be a grenade with the safety pin partially removed,” police said in a statement.
+### OTHER on 2025-05-06 12:00
+- Location: CBC News
+- Description: Edmonton police are performing more extra duty work for private contractors, according to new data. The police say the program is working well, but one criminologist worries about the line between public and private policing.
 
 
-### OTHER on 2025-05-06 05:33
-- Location: Dark Horizons
-- Description: Actor Jason Ritter has offered an update on his role in HBO’s “Lanterns” series that is currently in production. Aaron Pierre and Kyle Chandler star in the series, first announced a year ago. The show follows Hal Jordan (Chandler), a legend amongst the space …
+### OTHER on 2025-05-06 12:00
+- Location: CBC News
+- Description: Jeremy Hainsworth went through a three-day trial at B.C. provincial court to ultimately win an order that would prevent a Vancouver man from contacting him for 12 months.
 
-Analysis generated at: Wed May  7 06:20:26 UTC 2025
+Analysis generated at: Wed May  7 12:29:14 UTC 2025
