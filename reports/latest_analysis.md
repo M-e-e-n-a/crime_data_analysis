@@ -1,10 +1,10 @@
 
-Loaded 30686 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-05 18:18:13
+Loaded 30696 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-06 00:58:47
 
 Incidents by source:
 source
-newsapi           30585
+newsapi           30595
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-05-05 18:18
-- Location: Thesmokinggun.com
-- Description: <!--paging_filter-->While a judge has barred Angela Velasquez Taborda from returning to the retailer, the Florida Woman is not prohibited from further contact with any mythical personifications of evil.
-read more
+### OTHER on 2025-05-06 00:58
+- Location: The Denver Post
+- Description: A Denver Sheriff Department deputy is accused of stalking an 18-year-old woman he met on Snapchat, including slashing her tire, following her home from work and threatening her and her family, according to a Firestone Police Department arrest affidavit.
 
 
-### HOMICIDE on 2025-05-05 18:15
-- Location: Richmond.com
-- Description: Anyone with information about this homicide is asked to call Detective B. Neifeld at (804) 646-3246.
+### OTHER on 2025-05-06 00:48
+- Location: New York Post
+- Description: The accident unfolded shortly after noon on Monday.
 
 
-### OTHER on 2025-05-05 18:14
-- Location: Westernslopenow.com
-- Description: GRAND JUNCTION, Colo. (KREX) – In a hearing that lasted less than 10 minutes, Vicki Stuart – one of two suspects in last year’s election fraud case – pled...
+### SHOOTING on 2025-05-06 00:48
+- Location: Freerepublic.com
+- Description: The jury in the trial of Christopher Schurr went home without a verdict on Monday after hours of deliberation. While the facts of the case have never been in dispute — Schurr shot Lyoya in the back of the head as the two struggled over his taser during an Apr…
 
 
-### HOMICIDE on 2025-05-05 18:12
-- Location: Slashdot.org
-- Description: Three dead, five hurt after shooting at restaurant near 59th and Glendale avenues SundayABC15 Arizona 3 killed, 5 injured after mass shooting at restaurant in Glendale, ArizonaCNN 3 dead and 5 others injured in a shooting at a restaurant in a Phoenix suburb, …
+### HOMICIDE on 2025-05-06 00:26
+- Location: The Times of India
+- Description: South Asia News: DHAKA: A Bangladesh court on Monday ordered the arrest of detained Hindu monk Chinmoy Krishna Das in connection with the murder of a lawyer, who was h.
 
 
-### HOMICIDE on 2025-05-05 18:09
-- Location: Fox News
-- Description: Honduran illegal immigrant charged with capital murder of a Georgia woman has pleaded not guilty, according to a court document obtained by Fox News.
+### OTHER on 2025-05-06 00:26
+- Location: The Denver Post
+- Description: The cameras, which are perched at about 70 intersections throughout Denver, will stay up through at least the end of the year.
 
-Analysis generated at: Tue May  6 18:19:25 UTC 2025
+Analysis generated at: Wed May  7 01:07:11 UTC 2025
