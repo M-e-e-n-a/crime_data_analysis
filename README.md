@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed May  7 01:07:11 UTC 2025
+Last updated: Wed May  7 01:52:02 UTC 2025
 
 ## Latest Analysis
 
-Loaded 30696 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-06 00:58:47
+Loaded 30704 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-06 01:51:22
 
 Incidents by source:
 source
-newsapi           30595
+newsapi           30603
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-05-06 00:58
-- Location: The Denver Post
-- Description: A Denver Sheriff Department deputy is accused of stalking an 18-year-old woman he met on Snapchat, including slashing her tire, following her home from work and threatening her and her family, according to a Firestone Police Department arrest affidavit.
+### HOMICIDE on 2025-05-06 01:51
+- Location: Fox News
+- Description: Less than two weeks after an Arizona jury found "Doomsday Mom" Lori Vallow Daybell guilty of conspiring to murder late husband, she has filed a motion asking for a new trial.
 
 
-### OTHER on 2025-05-06 00:48
-- Location: New York Post
-- Description: The accident unfolded shortly after noon on Monday.
-
-
-### SHOOTING on 2025-05-06 00:48
+### ROBBERY/THEFT on 2025-05-06 01:44
 - Location: Freerepublic.com
-- Description: The jury in the trial of Christopher Schurr went home without a verdict on Monday after hours of deliberation. While the facts of the case have never been in dispute — Schurr shot Lyoya in the back of the head as the two struggled over his taser during an Apr…
+- Description: Three days after a federal jury found Mohamed Worku not guilty of robbing a Little Village bank, he got arrested for robbing another bank. Once again, he took the case to a jury trial. But he lost this time. Now, he’s heading off to serve a 21-month federal p…
 
 
-### HOMICIDE on 2025-05-06 00:26
-- Location: The Times of India
-- Description: South Asia News: DHAKA: A Bangladesh court on Monday ordered the arrest of detained Hindu monk Chinmoy Krishna Das in connection with the murder of a lawyer, who was h.
+### HOMICIDE on 2025-05-06 01:42
+- Location: 7NEWS.com.au
+- Description: Teen’s sad last message to dad before he was shot dead at Newcastle beach7news.com.au
 
 
-### OTHER on 2025-05-06 00:26
-- Location: The Denver Post
-- Description: The cameras, which are perched at about 70 intersections throughout Denver, will stay up through at least the end of the year.
+### HOMICIDE on 2025-05-06 01:42
+- Location: ABC News
+- Description: Jurors are expected to begin deliberating Tuesday in the trial of three former Memphis police officers charged with second-degree murder in the beating death of Tyre Nichols in January 2023
 
-Analysis generated at: Wed May  7 01:07:11 UTC 2025
+
+### OTHER on 2025-05-06 01:36
+- Location: ABC News (AU)
+- Description: Victoria's new police commissioner Mike Bush says he will focus on crime prevention and lifting officer morale.
+
+Analysis generated at: Wed May  7 01:52:02 UTC 2025
