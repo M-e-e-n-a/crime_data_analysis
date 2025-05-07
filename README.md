@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed May  7 12:29:14 UTC 2025
+Last updated: Wed May  7 12:49:29 UTC 2025
 
 ## Latest Analysis
 
-Loaded 30811 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-06 12:28:00
+Loaded 30814 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-06 12:35:00
 
 Incidents by source:
 source
-newsapi           30710
+newsapi           30713
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,6 +24,21 @@ bution.svg)
 
 ## Recent Incidents
 
+### OTHER on 2025-05-06 12:35
+- Location: The Conversation Africa
+- Description: AI that anticipates where crimes are likely to occur and who might commit them has a troubling track record. Democratic accountability could shine a light on the technology and how it’s used.
+
+
+### OTHER on 2025-05-06 12:30
+- Location: Shtfplan.com
+- Description: What the Founders rebelled against—armed government agents invading homes without cause—we are now being told to accept in the so-called name of law and order.
+
+
+### OTHER on 2025-05-06 12:30
+- Location: ARLnow
+- Description: A man tried to sneak into a Virginia Square apartment building, then brandished a machete after being asked to leave. That's according to the latest Arlington County Police Department crime report. The incident happened just before noon Sunday when the man "a…
+
+
 ### SHOOTING on 2025-05-06 12:28
 - Location: Newser
 - Description: An official in Chester, New York, who also happens to be a federally licensed firearms dealer, is accused of shooting a food delivery driver who went to his home to ask for directions. John Reilly, Chester's highway superintendent, told the DoorDash driver to…
@@ -33,19 +48,4 @@ bution.svg)
 - Location: The Irish Times
 - Description: Trump administration has undercut a deal designed, in part, to curtail the flow of drugs to the US
 
-
-### OTHER on 2025-05-06 12:02
-- Location: Screen Rant
-- Description: The biggest theory related to the Lily mystery is debunked by the executive producer of NCIS, who offers a candid and direct response.
-
-
-### OTHER on 2025-05-06 12:00
-- Location: CBC News
-- Description: Edmonton police are performing more extra duty work for private contractors, according to new data. The police say the program is working well, but one criminologist worries about the line between public and private policing.
-
-
-### OTHER on 2025-05-06 12:00
-- Location: CBC News
-- Description: Jeremy Hainsworth went through a three-day trial at B.C. provincial court to ultimately win an order that would prevent a Vancouver man from contacting him for 12 months.
-
-Analysis generated at: Wed May  7 12:29:14 UTC 2025
+Analysis generated at: Wed May  7 12:49:29 UTC 2025
