@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed May  7 12:49:29 UTC 2025
+Last updated: Wed May  7 18:20:02 UTC 2025
 
 ## Latest Analysis
 
-Loaded 30814 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-06 12:35:00
+Loaded 30911 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-06 18:19:52
 
 Incidents by source:
 source
-newsapi           30713
+newsapi           30810
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-05-06 12:35
-- Location: The Conversation Africa
-- Description: AI that anticipates where crimes are likely to occur and who might commit them has a troubling track record. Democratic accountability could shine a light on the technology and how it’s used.
+### HOMICIDE on 2025-05-06 18:19
+- Location: BroBible
+- Description: Former University of Miami and University of Maryland safety Avantae Williams has been charged with murder and is in custody at the Volusia County Jail in Florida. The 24-year-old was arrested after a shooting at McCabe’s Bar in downtown DeLand early Saturday…
 
 
-### OTHER on 2025-05-06 12:30
-- Location: Shtfplan.com
-- Description: What the Founders rebelled against—armed government agents invading homes without cause—we are now being told to accept in the so-called name of law and order.
+### OTHER on 2025-05-06 18:18
+- Location: Unity.com
+- Description: Perfect for open-world, racing, crime-based or action games: all-in-one solution with +3 hours of original HQ music background and audio implementation in 167 .wav files.Number of Audio Files: 167Number of Audio Wavs: 167Number of Audio Cues: 167Number of tra…
 
 
-### OTHER on 2025-05-06 12:30
-- Location: ARLnow
-- Description: A man tried to sneak into a Virginia Square apartment building, then brandished a machete after being asked to leave. That's according to the latest Arlington County Police Department crime report. The incident happened just before noon Sunday when the man "a…
+### HOMICIDE on 2025-05-06 18:14
+- Location: The Times of India
+- Description: Margao: The investigation into the murder of a six-year-old girl at Macazana has taken a darker turn, with police revealing that the victim was sexual.
 
 
-### SHOOTING on 2025-05-06 12:28
-- Location: Newser
-- Description: An official in Chester, New York, who also happens to be a federally licensed firearms dealer, is accused of shooting a food delivery driver who went to his home to ask for directions. John Reilly, Chester's highway superintendent, told the DoorDash driver to…
+### OTHER on 2025-05-06 18:10
+- Location: Billings Gazette
+- Description: When the abuse survivor was hesitant about having sex with MWP guard Andre Hunter, court documents said he allegedly threatened to report her for being out of her cell.
 
 
-### DRUG RELATED on 2025-05-06 12:16
-- Location: The Irish Times
-- Description: Trump administration has undercut a deal designed, in part, to curtail the flow of drugs to the US
+### ROBBERY/THEFT on 2025-05-06 18:07
+- Location: Polygon
+- Description: Back in 2022, Bloomberg reported that “Rockstar Games cleaned up its frat-boy culture – and Grand Theft Auto, too.” The changes took shape in different ways, from less crunch to a narrowing of the gender pay gap for workers at the studio, and to the introduct…
 
-Analysis generated at: Wed May  7 12:49:29 UTC 2025
+Analysis generated at: Wed May  7 18:20:02 UTC 2025
