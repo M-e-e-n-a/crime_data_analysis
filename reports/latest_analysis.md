@@ -1,10 +1,10 @@
 
-Loaded 31016 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-07 12:17:52
+Loaded 31018 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-07 12:44:08
 
 Incidents by source:
 source
-newsapi           30915
+newsapi           30917
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,6 +20,16 @@ bution.svg)
 
 ## Recent Incidents
 
+### HOMICIDE on 2025-05-07 12:44
+- Location: CBS News
+- Description: A man accused of killing his boss in 2017 and fleeing to his home country, Mauritius, now faces a murder charge in New York.
+
+
+### OTHER on 2025-05-07 12:43
+- Location: CBS News
+- Description: An internal Justice Department memo said President Trump's appointees are considering closing the Community Relations Service, which was created as part of the Civil Rights Act of 1964.
+
+
 ### ASSAULT on 2025-05-07 12:17
 - Location: Al Jazeera English
 - Description: India struck multiple targets in Pakistan and Pakistan-administered Kashmir in the aftermath of the Pahalgam attack.
@@ -34,14 +44,4 @@ bution.svg)
 - Location: Fox17
 - Description: The jury in the trial of Christopher Schurr will attempt to reach a verdict on Wednesday after Judge Christina Mims told the deadlocked jurors to return to their deliberation.
 
-
-### HOMICIDE on 2025-05-07 12:01
-- Location: Newser
-- Description: A massive wave of arrests has gone down in Colombia, with authorities there claiming they've detained more than 200 members of the nation's largest drug cartel. On Monday, armed forces chief Francisco Cubides held a presser in which he disclosed that 217 memb…
-
-
-### OTHER on 2025-05-07 12:00
-- Location: Ssir.org
-- Description: Organizations committed to social change through storytelling can use this four-part framework to design and evaluate their narrative strategies.
-
-Analysis generated at: Thu May  8 12:27:48 UTC 2025
+Analysis generated at: Thu May  8 12:46:55 UTC 2025
