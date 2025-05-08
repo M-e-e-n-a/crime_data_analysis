@@ -1,10 +1,10 @@
 
-Loaded 31018 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-07 12:44:08
+Loaded 31107 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-07 18:07:03
 
 Incidents by source:
 source
-newsapi           30917
+newsapi           31006
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-05-07 12:44
-- Location: CBS News
-- Description: A man accused of killing his boss in 2017 and fleeing to his home country, Mauritius, now faces a murder charge in New York.
+### OTHER on 2025-05-07 18:07
+- Location: 9to5Toys
+- Description: The afternoon’s lineup of the best Android game and app deals is now ready to go down below. Just be sure to also scope out the deals we are tracking today on the 1TB unlocked Pixel 9 Pro XL at $300 off, Spigen’s Lite Fit fabric Galaxy Watch Ultra Band at $17…
 
 
-### OTHER on 2025-05-07 12:43
-- Location: CBS News
-- Description: An internal Justice Department memo said President Trump's appointees are considering closing the Community Relations Service, which was created as part of the Civil Rights Act of 1964.
+### OTHER on 2025-05-07 18:06
+- Location: STLtoday.com
+- Description: The Missouri House votes to send a capital gains tax cut to the governor even as lawmakers are hashing out the final details of the state budget.
 
 
-### ASSAULT on 2025-05-07 12:17
-- Location: Al Jazeera English
-- Description: India struck multiple targets in Pakistan and Pakistan-administered Kashmir in the aftermath of the Pahalgam attack.
+### ASSAULT on 2025-05-07 17:58
+- Location: Freerepublic.com
+- Description: Overnight, India claims to have struck nine targets inside Pakistan, as a response to the terror attack in Pahalgam, Kashmir, last month. According to India, its aircraft and drones hit camps belonging to the terrorist groups Jaish-e-Mohammed and Lashkar-e-Ta…
 
 
-### OTHER on 2025-05-07 12:07
-- Location: Variety
-- Description: Michael Pitt, an actor known for his roles in “Boardwalk Empire” and “Dawson’s Creek,” has been arrested in New York City on charges of alleged sexual abuse. According to court records viewed by Variety, Pitt was arrested and arraigned at Kings Supreme Crimin…
+### HOMICIDE on 2025-05-07 17:56
+- Location: Freerepublic.com
+- Description: MEIGS COUNTY, Ohio (WSAZ/Gray News) – A man has been arrested for the murder of a woman at an Amish community in Ohio. Samuel Hochstetler was arrested on Monday and charged with the murder of Rosanna Kinsinger, 28. Kinsinger’s death was ruled suspicious on Ma…
 
 
-### HOMICIDE on 2025-05-07 12:02
-- Location: Fox17
-- Description: The jury in the trial of Christopher Schurr will attempt to reach a verdict on Wednesday after Judge Christina Mims told the deadlocked jurors to return to their deliberation.
+### OTHER on 2025-05-07 17:39
+- Location: Breitbart News
+- Description: The premise of the legislation I am introducing begins with the reality that anyone who is in the U.S. illegally is guilty of criminal conduct. Once an individual is deported, illegally returning must be too costly to consider.
+The post Exclusive—Rep. Brad Kn…
 
-Analysis generated at: Thu May  8 12:46:55 UTC 2025
+Analysis generated at: Thu May  8 18:19:29 UTC 2025
