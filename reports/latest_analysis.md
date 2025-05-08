@@ -1,10 +1,10 @@
 
-Loaded 30911 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-06 18:19:52
+Loaded 30920 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-07 01:06:59
 
 Incidents by source:
 source
-newsapi           30810
+newsapi           30819
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-05-06 18:19
-- Location: BroBible
-- Description: Former University of Miami and University of Maryland safety Avantae Williams has been charged with murder and is in custody at the Volusia County Jail in Florida. The 24-year-old was arrested after a shooting at McCabe’s Bar in downtown DeLand early Saturday…
+### DRUG RELATED on 2025-05-07 01:06
+- Location: ABC News (AU)
+- Description: Bilal Haouchar fled Australia in 2018 while awaiting kidnapping charges but police allege he has maintained control of the Sydney drug trade while overseas.
 
 
-### OTHER on 2025-05-06 18:18
-- Location: Unity.com
-- Description: Perfect for open-world, racing, crime-based or action games: all-in-one solution with +3 hours of original HQ music background and audio implementation in 167 .wav files.Number of Audio Files: 167Number of Audio Wavs: 167Number of Audio Cues: 167Number of tra…
+### SHOOTING on 2025-05-07 01:05
+- Location: WLKY Louisville
+- Description: A boy is in critical condition after police say he was shot in the head in Valley Station Tuesday evening.
 
 
-### HOMICIDE on 2025-05-06 18:14
-- Location: The Times of India
-- Description: Margao: The investigation into the murder of a six-year-old girl at Macazana has taken a darker turn, with police revealing that the victim was sexual.
+### OTHER on 2025-05-07 00:51
+- Location: BBC News
+- Description: The home secretary will include Churchill's statue in new law trying to stop war memorial vandalism.
 
 
-### OTHER on 2025-05-06 18:10
-- Location: Billings Gazette
-- Description: When the abuse survivor was hesitant about having sex with MWP guard Andre Hunter, court documents said he allegedly threatened to report her for being out of her cell.
+### OTHER on 2025-05-07 00:51
+- Location: ABC News
+- Description: Virginia Marie Gonzales, 33, of Austin, was arrested for injury to a child after her 7-year-old girl was found "locked in a closet and starving" last month, police said.
 
 
-### ROBBERY/THEFT on 2025-05-06 18:07
-- Location: Polygon
-- Description: Back in 2022, Bloomberg reported that “Rockstar Games cleaned up its frat-boy culture – and Grand Theft Auto, too.” The changes took shape in different ways, from less crunch to a narrowing of the gender pay gap for workers at the studio, and to the introduct…
+### ROBBERY/THEFT on 2025-05-07 00:15
+- Location: fox6now.com
+- Description: Menomonee Falls police are trying to find two suspects involved in a Kwik Trip theft that happened on April 5.
 
-Analysis generated at: Wed May  7 18:20:02 UTC 2025
+Analysis generated at: Thu May  8 01:07:32 UTC 2025
