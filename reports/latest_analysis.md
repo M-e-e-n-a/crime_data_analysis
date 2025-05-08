@@ -1,10 +1,10 @@
 
-Loaded 30920 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-07 01:06:59
+Loaded 30923 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-07 01:45:00
 
 Incidents by source:
 source
-newsapi           30819
+newsapi           30822
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,6 +20,21 @@ bution.svg)
 
 ## Recent Incidents
 
+### ROBBERY/THEFT on 2025-05-07 01:45
+- Location: Thehillstimes.in
+- Description: ITANAGAR, May 6: In a major breakthrough, Chimpu police have successfully solved a heinous robbery and assault case with the arrest of three accused through a meticulously coordinated multi-state operation. The case, registered under Sections 329(3), 309(6), …
+
+
+### OTHER on 2025-05-07 01:40
+- Location: Borderlandbeat.com
+- Description: "Enojon", "Char", "Pernicious Propaganda", "Halipon", "Hearst", "Itzli"  for Borderland Beat Photograph By: The  State of Mexico Attorney Ge...
+
+
+### ROBBERY/THEFT on 2025-05-07 01:25
+- Location: Boston Herald
+- Description: A State Police trooper accused of stealing golf balls, among other items, has been put on probation as an internal affairs investigation is completed.
+
+
 ### DRUG RELATED on 2025-05-07 01:06
 - Location: ABC News (AU)
 - Description: Bilal Haouchar fled Australia in 2018 while awaiting kidnapping charges but police allege he has maintained control of the Sydney drug trade while overseas.
@@ -29,19 +44,4 @@ bution.svg)
 - Location: WLKY Louisville
 - Description: A boy is in critical condition after police say he was shot in the head in Valley Station Tuesday evening.
 
-
-### OTHER on 2025-05-07 00:51
-- Location: BBC News
-- Description: The home secretary will include Churchill's statue in new law trying to stop war memorial vandalism.
-
-
-### OTHER on 2025-05-07 00:51
-- Location: ABC News
-- Description: Virginia Marie Gonzales, 33, of Austin, was arrested for injury to a child after her 7-year-old girl was found "locked in a closet and starving" last month, police said.
-
-
-### ROBBERY/THEFT on 2025-05-07 00:15
-- Location: fox6now.com
-- Description: Menomonee Falls police are trying to find two suspects involved in a Kwik Trip theft that happened on April 5.
-
-Analysis generated at: Thu May  8 01:07:32 UTC 2025
+Analysis generated at: Thu May  8 01:52:57 UTC 2025
