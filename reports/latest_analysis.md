@@ -1,10 +1,10 @@
 
-Loaded 30923 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-07 01:45:00
+Loaded 30960 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-07 05:47:38
 
 Incidents by source:
 source
-newsapi           30822
+newsapi           30859
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2025-05-07 01:45
-- Location: Thehillstimes.in
-- Description: ITANAGAR, May 6: In a major breakthrough, Chimpu police have successfully solved a heinous robbery and assault case with the arrest of three accused through a meticulously coordinated multi-state operation. The case, registered under Sections 329(3), 309(6), …
+### SHOOTING on 2025-05-07 05:47
+- Location: CNN
+- Description: A New York town official is facing a slew of charges after allegedly shooting a DoorDash delivery driver who was lost and looking for directions in the town of Chester last week, police said.
 
 
-### OTHER on 2025-05-07 01:40
-- Location: Borderlandbeat.com
-- Description: "Enojon", "Char", "Pernicious Propaganda", "Halipon", "Hearst", "Itzli"  for Borderland Beat Photograph By: The  State of Mexico Attorney Ge...
+### HOMICIDE on 2025-05-07 05:43
+- Location: KCRA Sacramento
+- Description: Hundreds of people gathered at Lebright Fields in Hughson on Tuesday to honor the life of a mother who died in a murder-suicide.
 
 
-### ROBBERY/THEFT on 2025-05-07 01:25
-- Location: Boston Herald
-- Description: A State Police trooper accused of stealing golf balls, among other items, has been put on probation as an internal affairs investigation is completed.
+### SHOOTING on 2025-05-07 05:23
+- Location: New York Post
+- Description: A New York town official allegedly shot a lost DoorDash driver who had rang his home doorbell looking for directions during a late-night delivery on May 2.
 
 
-### DRUG RELATED on 2025-05-07 01:06
+### HOMICIDE on 2025-05-07 05:23
 - Location: ABC News (AU)
-- Description: Bilal Haouchar fled Australia in 2018 while awaiting kidnapping charges but police allege he has maintained control of the Sydney drug trade while overseas.
+- Description: A jury has found Hunter Valley man guilty of covering up the murder of Carly McBride, whose remains were discovered by bushwalkers in 2016 two years after she was killed.
 
 
-### SHOOTING on 2025-05-07 01:05
-- Location: WLKY Louisville
-- Description: A boy is in critical condition after police say he was shot in the head in Valley Station Tuesday evening.
+### ROBBERY/THEFT on 2025-05-07 05:05
+- Location: Insurance Journal
+- Description: Thousands of rail passengers in Spain were hit with delays after copper cables used in the signaling system of a high-speed line traveling south from Madrid to Seville were stolen at five locations, authorities said Monday. The theft, which happened …
 
-Analysis generated at: Thu May  8 01:52:57 UTC 2025
+Analysis generated at: Thu May  8 06:20:59 UTC 2025
