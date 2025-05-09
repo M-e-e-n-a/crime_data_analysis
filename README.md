@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri May  9 06:20:44 UTC 2025
+Last updated: Fri May  9 12:26:54 UTC 2025
 
 ## Latest Analysis
 
-Loaded 31159 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-08 06:15:06
+Loaded 31245 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-08 12:24:57
 
 Incidents by source:
 source
-newsapi           31058
+newsapi           31144
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-05-08 06:15
-- Location: The Jerusalem Post
-- Description: After law enforcement authorities searched Bazrouk’s phone, text messages revealed his support for Hamas and his antisemitic bias.
+### HOMICIDE on 2025-05-08 12:24
+- Location: TODAY
+- Description: A car resembling Idaho murders suspect Bryan Kohberger's is seen in new footage obtained by Dateline circling the block multiple times.
 
 
-### OTHER on 2025-05-08 05:58
-- Location: Thepinknews.com
-- Description: Interim guidance published by the Equality and Human Rights Commission (EHRC) in the wake of the Supreme Court’s decision could become a “bigot’s charter”, Green Party co-leader Carla Denyer writes exclusively for PinkNews. We’re living in deeply divided time…
+### HOMICIDE on 2025-05-08 12:24
+- Location: Ibtimes.com.au
+- Description: An Australian woman accused of triple murder sent her children to the movies before serving up a toxic mushroom lunch that killed her guests, a court heard on Thursday.
 
 
-### OTHER on 2025-05-08 05:30
-- Location: Newser
-- Description: Police on Wednesday night removed a group of protesters occupying the main library at New York's Columbia University, long a flashpoint in the pro-Palestinian movement in the US. The New York Times reports that the protesters, who were masked and wearing kaff…
+### OTHER on 2025-05-08 12:16
+- Location: CNN
+- Description: Three former Memphis police officers were acquitted Wednesday of state charges in the fatal beating of Tyre Nichols, concluding a fraught two-year examination of the brutal encounter that led to a parade of firings, two trials and escalating demands for natio…
 
 
-### ASSAULT on 2025-05-08 05:23
-- Location: Freerepublic.com
-- Description: Yesterday, conservative Australian political commentator, Andrew Bolt discussed a proposal for British-style AI intelligence cameras in Melbourne. Mr Bolt asked his audience: “Do you want to be safer or do you want to be spied on?” and said that rising crime …
+### OTHER on 2025-05-08 12:14
+- Location: DW (English)
+- Description: In December 2023, Denmark introduced a law banning "improper treatment" of religious texts. Two people are now to face trial on the Danish island of Bornholm.
 
 
-### OTHER on 2025-05-08 04:53
-- Location: Starweekly.com.au
-- Description: A Mickleham man is one of two men charged after a dramatic series of ram raids rocked Essendon and Melbourne’s...
-The post Charges over luxury goods heists appeared first on Northern.
+### OTHER on 2025-05-08 12:11
+- Location: Celebitchy.com
+- Description: Within Prince Harry’s BBC interview, he revealed that his father and royal household have encouraged other governments to leave the Sussexes without security. While that was news to many, we’ve seen it in real time over the years, especially when the Sussexes…
 
-Analysis generated at: Fri May  9 06:20:44 UTC 2025
+Analysis generated at: Fri May  9 12:26:54 UTC 2025
