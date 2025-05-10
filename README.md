@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat May 10 06:17:45 UTC 2025
+Last updated: Sat May 10 12:24:09 UTC 2025
 
 ## Latest Analysis
 
-Loaded 31386 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-09 06:12:06
+Loaded 31444 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-09 12:18:57
 
 Incidents by source:
 source
-newsapi           31285
+newsapi           31343
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-05-09 06:12
-- Location: ABC News (AU)
-- Description: Police say they have significantly disrupted organised criminal activity in Victoria after arresting five people in the state's north-east.
+### OTHER on 2025-05-09 12:18
+- Location: Decrypt
+- Description: German prosecutors confiscate servers and digital assets from platform accused of laundering proceeds from major crypto hacks.
 
 
-### ROBBERY/THEFT on 2025-05-09 05:55
-- Location: Louder
-- Description: Sixty years after The Doors took audiences on a destination-unknown thrill ride, Robby Krieger and John Densmore tell the band's wild story
+### ASSAULT on 2025-05-09 12:11
+- Location: NBC News
+- Description: America’s supply chain is under attack.
 
 
-### OTHER on 2025-05-09 05:53
-- Location: CounterPunch
-- Description: Data like this seven-day crime map from Oakland, Calif., feeds predictive policing AIs. City of Oakland via CrimeMapping.com The 2002 sci-fi thriller “Minority Report” depicted a dystopian future where a specialized police unit was tasked with arresting peopl…
+### HOMICIDE on 2025-05-09 12:04
+- Location: Raw Story
+- Description: An Australian woman accused of triple murder with a toxic mushroom-laced beef Wellington had rarely invited her four guests to eat at her home before, a court heard Friday.Erin Patterson, 50, is charged with murdering the parents and aunt of her estranged hus…
 
 
-### OTHER on 2025-05-09 05:44
-- Location: CounterPunch
-- Description: Maybe you remember an incident like this from your schooldays. Someone in your class has done something wrong, like pass around a caricature of the principal, and the teacher decides to punish the whole class by taking away your recess. Maybe this is done to …
+### OTHER on 2025-05-09 12:00
+- Location: Foreign Policy
+- Description: U.S. authorities slapped a terrorist designation on two groups as Haiti’s crisis deepens.
 
 
-### HOMICIDE on 2025-05-09 05:40
+### HOMICIDE on 2025-05-09 12:00
 - Location: BBC News
-- Description: Three women have bravely shared their story after being abused by convicted murderer Kieron Goodwin.
+- Description: Haybe Cabdiraxmaan Nur, of Western Road in Derby, will provisionally stand trial in the New Year.
 
-Analysis generated at: Sat May 10 06:17:45 UTC 2025
+Analysis generated at: Sat May 10 12:24:09 UTC 2025
