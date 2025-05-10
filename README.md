@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat May 10 12:40:38 UTC 2025
+Last updated: Sat May 10 18:16:58 UTC 2025
 
 ## Latest Analysis
 
-Loaded 31451 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-09 12:38:39
+Loaded 31541 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-09 18:16:08
 
 Incidents by source:
 source
-newsapi           31350
+newsapi           31440
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-05-09 12:38
-- Location: Survivalblog.com
-- Description: Back in 2016 I predicted a resounding win for Donald Trump in his election campaign against Hillary Clinton despite a chorus of voices telling me I was crazy. The argument from skeptics was that the establishment would never allow Trump into office. My positi…
+### HOMICIDE on 2025-05-09 18:16
+- Location: Bleeding Cool News
+- Description: Doctor Doom has taken over the Marvel Universe as its benign (mostly) dictator, but as Sorcerer Supreme he has not been taking care of his duties, and Dormammu has come to take advantage of it. After all, Dormammu's son is already at the Doom Academy. But tal…
 
 
-### ROBBERY/THEFT on 2025-05-09 12:36
-- Location: Freerepublic.com
-- Description: Ussa Polania was booked at Seminole County Jail on May 2 for charges related to petty theft with an estimated value between $100 and $750, according to Frances Matos in the booking department at Seminole County Jail and an arrest report from the Seminole Coun…
+### OTHER on 2025-05-09 18:15
+- Location: NPR
+- Description: Rümeysa Öztürk, a Tufts University doctoral student, was ordered released by a federal judge in Vermont in the latest setback for the Trump administration's effort to deport noncitizen activists it accuses of antisemitism.
 
 
-### OTHER on 2025-05-09 12:32
-- Location: Louder
-- Description: Bruised and battle-weary after a punishing live schedule, in 1975 Hawkwind weren’t in the best place ahead of recording their fifth studio LP. But what emerged was a stunning tour de force of science fantasy-inspired progressive space rock
+### OTHER on 2025-05-09 18:10
+- Location: CBC News
+- Description: A 16-year-old boy is facing mischief charges following the discovery of racist and antisemitic graffiti in various locations throughout Renfrew County earlier this week.
 
 
-### OTHER on 2025-05-09 12:31
-- Location: CBS News
-- Description: Daniel Graham and Adam Carruthers were found guilty of two counts each of criminal damage for cutting down beloved Sycamore Gap tree and toppling it onto Hadrian's Wall.
+### SHOOTING on 2025-05-09 18:04
+- Location: WLKY Louisville
+- Description: An 18-year-old man has been arrested. He tells police he was just the driver to a "gun transaction."
 
 
-### ROBBERY/THEFT on 2025-05-09 12:30
-- Location: Freethoughtblogs.com
-- Description: The Probability Broach, chapter 4 Lt. Win Bear has taken a road trip to speak with Vaughn Meiss’ boss, the chair of the physics department at Colorado State University. After being kept waiting for an hour and a half, he’s finally granted an audience: I wasn’…
+### OTHER on 2025-05-09 18:00
+- Location: Thegatewaypundit.com
+- Description: After the mainland fell to Communist China in 1949, a debate broke out in the halls of the U.S.
+The post Who Lost South Korea? South Korea on Brink of Falling to Communist China appeared first on The Gateway Pundit.
 
-Analysis generated at: Sat May 10 12:40:38 UTC 2025
+Analysis generated at: Sat May 10 18:16:58 UTC 2025
