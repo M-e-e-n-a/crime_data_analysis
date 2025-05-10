@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat May 10 01:47:12 UTC 2025
+Last updated: Sat May 10 06:17:45 UTC 2025
 
 ## Latest Analysis
 
-Loaded 31353 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-09 01:28:46
+Loaded 31386 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-09 06:12:06
 
 Incidents by source:
 source
-newsapi           31252
+newsapi           31285
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-05-09 01:28
-- Location: Freerepublic.com
-- Description: GRAND RAPIDS, Mich. — Judge Christina Mims has declared a mistrial in the trial of Christopher Schurr after the jury was unable to reach a verdict. For parts of four days, the jury deliberated over whether the former Grand Rapids police officer was guilty of …
-
-
-### HOMICIDE on 2025-05-09 01:23
-- Location: Starweekly.com.au
-- Description: Police are investigating after a man’s body was discovered at a Bundoora property on Wednesday morning. Police were called to...
-The post Body found in Bundoora as police treat death as suspicious appeared first on Northern.
-
-
-### HOMICIDE on 2025-05-09 00:55
+### SHOOTING on 2025-05-09 06:12
 - Location: ABC News (AU)
-- Description: Child abuse squad detectives were notified after the baby was taken to hospital in 2023.
+- Description: Police say they have significantly disrupted organised criminal activity in Victoria after arresting five people in the state's north-east.
 
 
-### HOMICIDE on 2025-05-09 00:50
-- Location: NBCSports.com
-- Description: Former NFL player Kevin Ware Jr. was sentenced to 30 years in prison for murdering his girlfriend in 2021, KPRC reports.
+### ROBBERY/THEFT on 2025-05-09 05:55
+- Location: Louder
+- Description: Sixty years after The Doors took audiences on a destination-unknown thrill ride, Robby Krieger and John Densmore tell the band's wild story
 
 
-### OTHER on 2025-05-09 00:44
-- Location: The Jerusalem Post
-- Description: The law would see virginity testing become a crime.
+### OTHER on 2025-05-09 05:53
+- Location: CounterPunch
+- Description: Data like this seven-day crime map from Oakland, Calif., feeds predictive policing AIs. City of Oakland via CrimeMapping.com The 2002 sci-fi thriller “Minority Report” depicted a dystopian future where a specialized police unit was tasked with arresting peopl…
 
-Analysis generated at: Sat May 10 01:47:12 UTC 2025
+
+### OTHER on 2025-05-09 05:44
+- Location: CounterPunch
+- Description: Maybe you remember an incident like this from your schooldays. Someone in your class has done something wrong, like pass around a caricature of the principal, and the teacher decides to punish the whole class by taking away your recess. Maybe this is done to …
+
+
+### HOMICIDE on 2025-05-09 05:40
+- Location: BBC News
+- Description: Three women have bravely shared their story after being abused by convicted murderer Kieron Goodwin.
+
+Analysis generated at: Sat May 10 06:17:45 UTC 2025
