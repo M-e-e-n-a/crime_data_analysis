@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri May  9 18:18:55 UTC 2025
+Last updated: Sat May 10 01:04:44 UTC 2025
 
 ## Latest Analysis
 
-Loaded 31344 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-08 18:15:34
+Loaded 31351 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-09 00:55:55
 
 Incidents by source:
 source
-newsapi           31243
+newsapi           31250
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,35 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-05-08 18:15
-- Location: PoPville
-- Description: 12th and U Street, NW From MPD: "The Metropolitan Police Department’s Major Crash Investigations Unit is investigating a fatal pedestrian hit and run crash that occurred early Wednesday morning in Northwest. On Wednesday, May 7, 2025, at approximately 4:15 a.…
+### HOMICIDE on 2025-05-09 00:55
+- Location: ABC News (AU)
+- Description: Child abuse squad detectives were notified after the baby was taken to hospital in 2023.
 
 
-### OTHER on 2025-05-08 18:15
-- Location: TheStranger.com
-- Description: It wasn’t the meeting the Leschi Community Council thought it would be.
- 
- by Vivian McCall
- 
- 
- 
- It wasn’t the meeting the Leschi Community Council thought it would be.
-Council President Ashley Martin stood nervously at the front of the crowded room at Grac…
+### HOMICIDE on 2025-05-09 00:50
+- Location: NBCSports.com
+- Description: Former NFL player Kevin Ware Jr. was sentenced to 30 years in prison for murdering his girlfriend in 2021, KPRC reports.
 
 
-### OTHER on 2025-05-08 18:14
-- Location: Freerepublic.com
-- Description: Facial recognition technology is creeping into Ireland fast – and not everyone’s grinning about it. Justice Minister Jim O’Callaghan has announced that controversial facial recognition legislation will be introduced before the summer, after years of political…
+### OTHER on 2025-05-09 00:44
+- Location: The Jerusalem Post
+- Description: The law would see virginity testing become a crime.
 
 
-### HOMICIDE on 2025-05-08 18:14
-- Location: NDTV News
-- Description: A 37-year-old man stabbed to death while inside a bank branch in the eastern England city of Derby has been formally identified as Gurvinder Johal.
+### OTHER on 2025-05-09 00:38
+- Location: CBC News
+- Description: A group of non-profit housing providers is raising the alarm about violence and weapons inside supportive housing buildings — and they say removing the buildings from the Residential Tenancy Act would help keep staff and residents safe.
 
 
-### HOMICIDE on 2025-05-08 18:08
-- Location: BBC News
-- Description: Andrew Yorkston is alleged to have struck the officer with a vehicle on Haddington High Street.
+### OTHER on 2025-05-09 00:33
+- Location: Bangkok Post
+- Description: A 19-year-old woman arrested for producing and selling sex videos on social media tells police she earned between 70,000 and 90,000 baht a month from subscription fees.
 
-Analysis generated at: Fri May  9 18:18:55 UTC 2025
+Analysis generated at: Sat May 10 01:04:44 UTC 2025
