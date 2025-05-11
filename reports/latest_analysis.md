@@ -1,10 +1,10 @@
 
-Loaded 31541 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-09 18:16:08
+Loaded 31553 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-10 01:10:00
 
 Incidents by source:
 source
-newsapi           31440
+newsapi           31452
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-05-09 18:16
-- Location: Bleeding Cool News
-- Description: Doctor Doom has taken over the Marvel Universe as its benign (mostly) dictator, but as Sorcerer Supreme he has not been taking care of his duties, and Dormammu has come to take advantage of it. After all, Dormammu's son is already at the Doom Academy. But tal…
+### ROBBERY/THEFT on 2025-05-10 01:10
+- Location: Thehillstimes.in
+- Description: HT Correspondent DIMAPUR, May 9: Chiephobozou police under Kohima district arrested five persons for robbery, theft, and housebreaking. The arrests were made following an investigation into a reported robbery and theft case on May 6, Kohima police PRO said in…
 
 
-### OTHER on 2025-05-09 18:15
-- Location: NPR
-- Description: Rümeysa Öztürk, a Tufts University doctoral student, was ordered released by a federal judge in Vermont in the latest setback for the Trump administration's effort to deport noncitizen activists it accuses of antisemitism.
+### SHOOTING on 2025-05-10 01:08
+- Location: fox6now.com
+- Description: A Racine man has been found guilty at trial for a 2023 shooting that wounded two police officers during a standoff.
 
 
-### OTHER on 2025-05-09 18:10
-- Location: CBC News
-- Description: A 16-year-old boy is facing mischief charges following the discovery of racist and antisemitic graffiti in various locations throughout Renfrew County earlier this week.
+### HOMICIDE on 2025-05-10 01:06
+- Location: ESPN
+- Description: Michael Lynn Davis, co-defendant of former Alabama basketball player Darius Miles, on Friday was found guilty of capital murder by a Tuscaloosa County jury in the January 2023 death of Jamea Harris.
 
 
-### SHOOTING on 2025-05-09 18:04
-- Location: WLKY Louisville
-- Description: An 18-year-old man has been arrested. He tells police he was just the driver to a "gun transaction."
+### OTHER on 2025-05-10 01:00
+- Location: Spoilertv.com
 
 
-### OTHER on 2025-05-09 18:00
-- Location: Thegatewaypundit.com
-- Description: After the mainland fell to Communist China in 1949, a debate broke out in the halls of the U.S.
-The post Who Lost South Korea? South Korea on Brink of Falling to Communist China appeared first on The Gateway Pundit.
+### ROBBERY/THEFT on 2025-05-10 00:53
+- Location: TheWrap
+- Description: The beloved heartthrob stars in the new action movie "Fight or Flight" now in theaters
+The post Josh Hartnett’s 6 Best Performances, From ‘Penny Dreadful’ to ‘Trap’ appeared first on TheWrap.
 
-Analysis generated at: Sat May 10 18:16:58 UTC 2025
+Analysis generated at: Sun May 11 01:11:36 UTC 2025
