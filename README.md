@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun May 11 12:41:01 UTC 2025
+Last updated: Sun May 11 18:17:08 UTC 2025
 
 ## Latest Analysis
 
-Loaded 31605 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-10 12:15:00
+Loaded 31649 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-10 18:09:05
 
 Incidents by source:
 source
-newsapi           31504
+newsapi           31548
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-05-10 12:15
-- Location: /FILM
-- Description: Looking for a little more Nathan Fillion or police procedurals in your life? Here are the best TV shows like The Rookie that you should check out.
+### HOMICIDE on 2025-05-10 18:09
+- Location: Haaretz
+- Description: Authorities are ramping up police presence in the area to prevent an escalation of violence, following the murder of eight-year-old Yusuf Abu Rakik in southern Israel. No suspects have been arrested so far, which police suspect is part of a gang war
 
 
-### OTHER on 2025-05-10 12:03
-- Location: The Times of India
-- Description: Toronto grapples with rising hate crimes. A recent report shows a 19 percent increase. Jewish community faces the most incidents. Graffiti and vandalism are common forms. Police are working with Jewish groups. Advocates are pushing for tougher laws. They urge…
+### ASSAULT on 2025-05-10 17:40
+- Location: Securityaffairs.com
+- Description: A data breach at Ascension, caused by a former partner’s compromise, exposed the health information of over 430,000 patients. Ascension is one of the largest private healthcare systems in the United States, ranking second in the United States by the number of…
 
 
-### ROBBERY/THEFT on 2025-05-10 11:52
-- Location: TheJournal.ie
-- Description: The deceased’s neighbour described the unnamed man as “a lovely old Irishman who would do anything for anyone”.
+### OTHER on 2025-05-10 17:28
+- Location: Mother Jones
+- Description: Tufts University PhD student Rümeysa Öztürk has been released from an immigration detention center in rural Louisiana in response to an order from a federal judge. Öztürk’s arrest led to nationwide outrage after a chilling video showed plainclothes immigratio…
 
 
-### HOMICIDE on 2025-05-10 11:51
-- Location: CBM (Comic Book Movie)
-- Description: Today, you can learn how Doctor Doom's reign continues to impact the Marvel Universe with the reveal of the One World Under Doom issues on sale this August. And is Kristoff Vernard kissing Killmonger?!
+### OTHER on 2025-05-10 17:23
+- Location: Boston Herald
+- Description: The Ukrainian drifter admitted that English is not his second, but his third language. Yuriy Bukhenik hails from the Soviet Union. Apparently his assimilation into civilized society has been somewhat less than complete.
 
 
-### SHOOTING on 2025-05-10 11:35
-- Location: fox6now.com
-- Description: One person was injured in an overnight shooting in Milwaukee on Saturday, May 10, 2025.
+### OTHER on 2025-05-10 17:12
+- Location: Boston Herald
+- Description: Text messages between defendant Karen Read and ATF agent Brian Higgins are essential to understanding the theories behind both the prosecution and defense's case.  Read all of them here.
 
-Analysis generated at: Sun May 11 12:41:01 UTC 2025
+Analysis generated at: Sun May 11 18:17:08 UTC 2025
