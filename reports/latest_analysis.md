@@ -1,10 +1,10 @@
 
-Loaded 31556 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-10 01:45:27
+Loaded 31574 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-10 06:11:14
 
 Incidents by source:
 source
-newsapi           31455
+newsapi           31473
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-05-10 01:45
-- Location: WFTV Orlando
-- Description: Earlier this week, Eyewitness News told you about the State Attorney’s Office’s intent to seek the death penalty in the case against a former Brevard County corrections deputy.
+### ROBBERY/THEFT on 2025-05-10 06:11
+- Location: The Times of India
+- Description: Thane Crime Branch's probe into the illegal CDR extraction racket exposed Sohail Rajput's elaborate impersonation of a police officer. Investigators seized multiple devices from Rajput, scrutinizing call records to identify collaborators. The investigation se…
 
 
-### OTHER on 2025-05-10 01:35
-- Location: STLtoday.com
-- Description: Fedde had never pitched into the seventh in any previous start at Nationals Park, his former home. In his first look as a visitor, he leads Cardinals to 10-0 victory.
+### HOMICIDE on 2025-05-10 05:00
+- Location: The Irish Times
+- Description: Former Sinn Féin president tells judge the IRA attempt to kill Margaret Thatcher was ‘legitimate’
 
 
-### ROBBERY/THEFT on 2025-05-10 01:30
-- Location: ABC News (AU)
-- Description: Queensland's police union says the state's policy is allowing car thieves to operate "almost without consequence" as frustration grows over crime.
+### OTHER on 2025-05-10 05:00
+- Location: The-independent.com
+- Description: As the Bafta TV Awards return for another year, The Independent’s chief TV critic Nick Hilton recommends the best of the past winners in the drama category – from supernatural tales to working-class stories and crime capers
 
 
-### ROBBERY/THEFT on 2025-05-10 01:10
-- Location: Thehillstimes.in
-- Description: HT Correspondent DIMAPUR, May 9: Chiephobozou police under Kohima district arrested five persons for robbery, theft, and housebreaking. The arrests were made following an investigation into a reported robbery and theft case on May 6, Kohima police PRO said in…
+### OTHER on 2025-05-10 04:30
+- Location: The Irish Times
+- Description: The author on why he no longer writes police procedurals, his distrust of the North’s hierarchy of victimhood, and his compulsion to write
 
 
-### SHOOTING on 2025-05-10 01:08
-- Location: fox6now.com
-- Description: A Racine man has been found guilty at trial for a 2023 shooting that wounded two police officers during a standoff.
+### ROBBERY/THEFT on 2025-05-10 04:13
+- Location: The Star Online
+- Description: KAJANG: Police are investigating the theft of a high-powered motorcycle from a condominium's parking lot in Desa Baiduri, Cheras. Read full story
 
-Analysis generated at: Sun May 11 01:57:35 UTC 2025
+Analysis generated at: Sun May 11 06:18:38 UTC 2025
