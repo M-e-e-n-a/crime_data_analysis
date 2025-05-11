@@ -44,4 +44,4 @@ bution.svg)
 - Location: fox6now.com
 - Description: One person was injured in an overnight shooting in Milwaukee on Saturday, May 10, 2025.
 
-Analysis generated at: Sun May 11 12:24:27 UTC 2025
+Analysis generated at: Sun May 11 12:41:01 UTC 2025
