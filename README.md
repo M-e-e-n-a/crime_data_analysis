@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun May 11 06:18:38 UTC 2025
+Last updated: Sun May 11 12:24:27 UTC 2025
 
 ## Latest Analysis
 
-Loaded 31574 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-10 06:11:14
+Loaded 31605 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-10 12:15:00
 
 Incidents by source:
 source
-newsapi           31473
+newsapi           31504
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2025-05-10 06:11
+### OTHER on 2025-05-10 12:15
+- Location: /FILM
+- Description: Looking for a little more Nathan Fillion or police procedurals in your life? Here are the best TV shows like The Rookie that you should check out.
+
+
+### OTHER on 2025-05-10 12:03
 - Location: The Times of India
-- Description: Thane Crime Branch's probe into the illegal CDR extraction racket exposed Sohail Rajput's elaborate impersonation of a police officer. Investigators seized multiple devices from Rajput, scrutinizing call records to identify collaborators. The investigation se…
+- Description: Toronto grapples with rising hate crimes. A recent report shows a 19 percent increase. Jewish community faces the most incidents. Graffiti and vandalism are common forms. Police are working with Jewish groups. Advocates are pushing for tougher laws. They urge…
 
 
-### HOMICIDE on 2025-05-10 05:00
-- Location: The Irish Times
-- Description: Former Sinn Féin president tells judge the IRA attempt to kill Margaret Thatcher was ‘legitimate’
+### ROBBERY/THEFT on 2025-05-10 11:52
+- Location: TheJournal.ie
+- Description: The deceased’s neighbour described the unnamed man as “a lovely old Irishman who would do anything for anyone”.
 
 
-### OTHER on 2025-05-10 05:00
-- Location: The-independent.com
-- Description: As the Bafta TV Awards return for another year, The Independent’s chief TV critic Nick Hilton recommends the best of the past winners in the drama category – from supernatural tales to working-class stories and crime capers
+### HOMICIDE on 2025-05-10 11:51
+- Location: CBM (Comic Book Movie)
+- Description: Today, you can learn how Doctor Doom's reign continues to impact the Marvel Universe with the reveal of the One World Under Doom issues on sale this August. And is Kristoff Vernard kissing Killmonger?!
 
 
-### OTHER on 2025-05-10 04:30
-- Location: The Irish Times
-- Description: The author on why he no longer writes police procedurals, his distrust of the North’s hierarchy of victimhood, and his compulsion to write
+### SHOOTING on 2025-05-10 11:35
+- Location: fox6now.com
+- Description: One person was injured in an overnight shooting in Milwaukee on Saturday, May 10, 2025.
 
-
-### ROBBERY/THEFT on 2025-05-10 04:13
-- Location: The Star Online
-- Description: KAJANG: Police are investigating the theft of a high-powered motorcycle from a condominium's parking lot in Desa Baiduri, Cheras. Read full story
-
-Analysis generated at: Sun May 11 06:18:38 UTC 2025
+Analysis generated at: Sun May 11 12:24:27 UTC 2025
