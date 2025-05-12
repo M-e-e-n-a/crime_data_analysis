@@ -1,10 +1,10 @@
 
-Loaded 31677 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-11 06:10:00
+Loaded 31702 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-11 12:18:03
 
 Incidents by source:
 source
-newsapi           31576
+newsapi           31601
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-05-11 06:10
-- Location: The Irish Times
-- Description: In a just world, Putin, Netanyahu and their enabler, Trump, would stand trial for war crimes and the US administration’s ‘green light for genocide’
+### SHOOTING on 2025-05-11 12:18
+- Location: Yahoo Entertainment
+- Description: None
 
 
-### HOMICIDE on 2025-05-11 06:09
-- Location: New York Post
-- Description: Houston pitcher Lance McCullers Jr. said he received online death threats directed at his children after his tough start Saturday against the Reds.
+### OTHER on 2025-05-11 12:07
+- Location: CBC News
+- Description: Montreal police and the Sûreté du Québec are looking for a 48-year-old man who was last seen on Friday and whose car was located at a park in the Outaouais region.
 
 
-### OTHER on 2025-05-11 06:04
-- Location: 7NEWS.com.au
-- Description: Queensland Police officer stood down over excessive use of force accusation7news.com.au
+### OTHER on 2025-05-11 11:53
+- Location: Bangkok Post
+- Description: The Appeal Court has upheld the Criminal Court&rsquo;s rejection of former prime minister Thaksin Shinawatra&rsquo;s request to travel to Qatar, says former senator Somchai Swangkarn.
 
 
-### OTHER on 2025-05-11 06:01
-- Location: NDTV News
-- Description: A minor was gang-raped inside a moving car, while a friend accompanying her died after being pushed out of the vehicle in Uttar Pradesh.
+### HOMICIDE on 2025-05-11 11:45
+- Location: Sky.com
+- Description: A second person has been arrested in connection with the death of a 60-year-old man on board a cruise ship.
 
 
-### HOMICIDE on 2025-05-11 05:56
-- Location: Freerepublic.com
-- Description: Larry Eugene Parks, 30, was found dead along Interstate 5 in Oregon in 1980. He remained a John Doe until he was identified using forensic genealogy last month.Notorious California serial killer Randy Kraft has been identified as the suspect in the murder of …
+### HOMICIDE on 2025-05-11 11:44
+- Location: fox6now.com
+- Description: One person is dead, one person was arrested, and multiple people were injured in a multi-vehicle crash in Milwaukee late Saturday night, May 10, 2025.
 
-Analysis generated at: Mon May 12 06:21:11 UTC 2025
+Analysis generated at: Mon May 12 12:28:31 UTC 2025
