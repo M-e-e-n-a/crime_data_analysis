@@ -1,10 +1,10 @@
 
-Loaded 31702 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-11 12:18:03
+Loaded 31703 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-11 12:44:35
 
 Incidents by source:
 source
-newsapi           31601
+newsapi           31602
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -19,6 +19,11 @@ bution.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### OTHER on 2025-05-11 12:44
+- Location: CNN
+- Description: As Trump calls for reopening Alcatraz, its most famous escape is still a mystery | CNNcnn.com
+
 
 ### SHOOTING on 2025-05-11 12:18
 - Location: Yahoo Entertainment
@@ -39,9 +44,4 @@ bution.svg)
 - Location: Sky.com
 - Description: A second person has been arrested in connection with the death of a 60-year-old man on board a cruise ship.
 
-
-### HOMICIDE on 2025-05-11 11:44
-- Location: fox6now.com
-- Description: One person is dead, one person was arrested, and multiple people were injured in a multi-vehicle crash in Milwaukee late Saturday night, May 10, 2025.
-
-Analysis generated at: Mon May 12 12:28:31 UTC 2025
+Analysis generated at: Mon May 12 12:49:06 UTC 2025
