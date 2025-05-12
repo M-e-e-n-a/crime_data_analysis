@@ -1,10 +1,10 @@
 
-Loaded 31703 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-11 12:44:35
+Loaded 31747 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-11 18:10:08
 
 Incidents by source:
 source
-newsapi           31602
+newsapi           31646
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-05-11 12:44
-- Location: CNN
-- Description: As Trump calls for reopening Alcatraz, its most famous escape is still a mystery | CNNcnn.com
+### HOMICIDE on 2025-05-11 18:10
+- Location: Breitbart News
+- Description: Immigration and Customs Enforcement officers teamed up with other federal agencies to arrest an alleged hitman wanted in Venezuela for at least four contract killings. Officers and agents took the Biden-era Venezuelan illegal alien into custody in Grapevine, …
 
 
-### SHOOTING on 2025-05-11 12:18
-- Location: Yahoo Entertainment
-- Description: None
+### OTHER on 2025-05-11 18:08
+- Location: Breitbart News
+- Description: FBI Deputy Director Dan Bongino took to X Saturday to provide an update about the bureau's transparency on some of those most controversial and highly publicized cases in recent history.
+The post Dan Bongino: FBI Releasing Files on COVID Coverup, Mar-a-Lago R…
 
 
-### OTHER on 2025-05-11 12:07
-- Location: CBC News
-- Description: Montreal police and the Sûreté du Québec are looking for a 48-year-old man who was last seen on Friday and whose car was located at a park in the Outaouais region.
+### OTHER on 2025-05-11 18:05
+- Location: CBS News
+- Description: On this "Face the Nation with Margaret Brennan" broadcast, United CEO Scott Kirby and Cardinal Blase Cupich of Chicago join Ed O'Keefe.
 
 
-### OTHER on 2025-05-11 11:53
-- Location: Bangkok Post
-- Description: The Appeal Court has upheld the Criminal Court&rsquo;s rejection of former prime minister Thaksin Shinawatra&rsquo;s request to travel to Qatar, says former senator Somchai Swangkarn.
+### OTHER on 2025-05-11 18:02
+- Location: Statetimes.in
+- Description: TRAFFIC POLICE HEADQUARTERS, J&K, JAMMU/SRINAGAR TRAFFIC PLAN & ADVISORY FOR 12-05-2025:- Jammu-Srinagar NHW (NH-44)Jammu-Srinagar NHW (NH-44) is still blocked due to road collapse at Marog. Restoration work is going on. People are advised not to undertake jo…
 
 
-### HOMICIDE on 2025-05-11 11:45
-- Location: Sky.com
-- Description: A second person has been arrested in connection with the death of a 60-year-old man on board a cruise ship.
+### OTHER on 2025-05-11 18:02
+- Location: Securityaffairs.com
+- Description: A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs are free in your email box. Enjoy a new round of the weekly SecurityAffairs newsletter, including the international press. Ascension reve…
 
-Analysis generated at: Mon May 12 12:49:06 UTC 2025
+Analysis generated at: Mon May 12 18:19:36 UTC 2025
