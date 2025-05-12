@@ -1,10 +1,10 @@
 
-Loaded 31655 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-11 00:52:03
+Loaded 31656 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-11 01:30:00
 
 Incidents by source:
 source
-newsapi           31554
+newsapi           31555
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -19,6 +19,11 @@ bution.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### HOMICIDE on 2025-05-11 01:30
+- Location: Independent.ie
+- Description: Richard Satchwell sat, arms folded, in a chair in a spartan interview room in Cobh garda ­station, his solicitor sitting behind him. It was just after 8pm on Tuesday, October 10, 2023.
+
 
 ### OTHER on 2025-05-11 00:52
 - Location: Boredpanda.com
@@ -39,9 +44,4 @@ bution.svg)
 - Location: WSOC Charlotte
 - Description: Charlotte-Mecklenburg police have arrested a 44-year-old man following a deadly shooting in north Charlotte on Thursday.
 
-
-### OTHER on 2025-05-11 00:16
-- Location: Fox News
-- Description: Homeland Security officials said arrests are "on the table" for the New Jersey lawmakers accused of storming an ICE facility on Friday, which was allegedly caught on bodycam footage.
-
-Analysis generated at: Mon May 12 01:10:13 UTC 2025
+Analysis generated at: Mon May 12 01:56:01 UTC 2025
