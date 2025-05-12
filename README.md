@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun May 11 18:17:08 UTC 2025
+Last updated: Mon May 12 01:10:13 UTC 2025
 
 ## Latest Analysis
 
-Loaded 31649 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-10 18:09:05
+Loaded 31655 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-11 00:52:03
 
 Incidents by source:
 source
-newsapi           31548
+newsapi           31554
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-05-10 18:09
-- Location: Haaretz
-- Description: Authorities are ramping up police presence in the area to prevent an escalation of violence, following the murder of eight-year-old Yusuf Abu Rakik in southern Israel. No suspects have been arrested so far, which police suspect is part of a gang war
+### OTHER on 2025-05-11 00:52
+- Location: Boredpanda.com
+- Description: He's never going to trust her with his key again.
 
 
-### ASSAULT on 2025-05-10 17:40
-- Location: Securityaffairs.com
-- Description: A data breach at Ascension, caused by a former partner’s compromise, exposed the health information of over 430,000 patients. Ascension is one of the largest private healthcare systems in the United States, ranking second in the United States by the number of…
+### HOMICIDE on 2025-05-11 00:50
+- Location: ABC News (AU)
+- Description: Police are investigating the death of a woman, 43, who had suffered serious burns on a New South Wales property.
 
 
-### OTHER on 2025-05-10 17:28
-- Location: Mother Jones
-- Description: Tufts University PhD student Rümeysa Öztürk has been released from an immigration detention center in rural Louisiana in response to an order from a federal judge. Öztürk’s arrest led to nationwide outrage after a chilling video showed plainclothes immigratio…
+### SHOOTING on 2025-05-11 00:32
+- Location: CBS News
+- Description: Philadelphia police are investigating after four people, including three teens, were shot while on board a SEPTA bus in Fairmount Park Saturday evening.
 
 
-### OTHER on 2025-05-10 17:23
-- Location: Boston Herald
-- Description: The Ukrainian drifter admitted that English is not his second, but his third language. Yuriy Bukhenik hails from the Soviet Union. Apparently his assimilation into civilized society has been somewhat less than complete.
+### HOMICIDE on 2025-05-11 00:30
+- Location: WSOC Charlotte
+- Description: Charlotte-Mecklenburg police have arrested a 44-year-old man following a deadly shooting in north Charlotte on Thursday.
 
 
-### OTHER on 2025-05-10 17:12
-- Location: Boston Herald
-- Description: Text messages between defendant Karen Read and ATF agent Brian Higgins are essential to understanding the theories behind both the prosecution and defense's case.  Read all of them here.
+### OTHER on 2025-05-11 00:16
+- Location: Fox News
+- Description: Homeland Security officials said arrests are "on the table" for the New Jersey lawmakers accused of storming an ICE facility on Friday, which was allegedly caught on bodycam footage.
 
-Analysis generated at: Sun May 11 18:17:08 UTC 2025
+Analysis generated at: Mon May 12 01:10:13 UTC 2025
