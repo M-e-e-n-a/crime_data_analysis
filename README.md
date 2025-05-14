@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed May 14 12:47:12 UTC 2025
+Last updated: Wed May 14 18:17:28 UTC 2025
 
 ## Latest Analysis
 
-Loaded 32068 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-13 12:40:36
+Loaded 32159 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-13 18:11:00
 
 Incidents by source:
 source
-newsapi           31967
+newsapi           32058
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,30 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-05-13 12:40
-- Location: LADbible
-- Description: New evidence has resulted in a British man who has spent 38 years in prison for murder having his conviction overturned.
+### OTHER on 2025-05-13 18:11
+- Location: MetalSucks
+- Description: But what does he think about Corey Taylor?
+The post Luigi Mangione Apparently Likes New Linkin Park appeared first on MetalSucks.
 
 
-### OTHER on 2025-05-13 12:40
-- Location: Sinhalanet.net
-- Description: The persistence of ragging in Sri Lankan universities is a multifaceted issue that intertwines socio-economic backgrounds & political affiliations resulting in an institutional culture. Understanding this complex cycle is crucial to formulating a plan to erad…
+### ROBBERY/THEFT on 2025-05-13 18:10
+- Location: The Root
+- Description: You’ve probably heard about how Donald Trump’s tariffs are wrecking the economy, in addition to unprecedented delays and unnecessary barriers for millions of social security beneficiarieswith the help ofElon Musk, and how his administration leaked classified …
 
 
-### ROBBERY/THEFT on 2025-05-13 12:38
-- Location: Bitdefender.com
-- Description: A man has been jailed in Ireland for two years after pleading guilty to offences related to his illegal online business that sold ransomware and other malware, as well as stolen credit card details, and false bank accounts.
-
-Read more in my article on the Hot…
+### OTHER on 2025-05-13 18:06
+- Location: The Times of India
+- Description: AMBALA: The Ambala Cyber Crime police arrested two accused individuals and recovered Rs 1.65 lakh in cash along with three mobile phones in a digital .
 
 
-### HOMICIDE on 2025-05-13 12:15
-- Location: fox6now.com
-- Description: A 51-year-old Milwaukee man is accused of killing another man on the city's south side on Monday, May 5.
-
-
-### HOMICIDE on 2025-05-13 12:04
+### SHOOTING on 2025-05-13 17:54
 - Location: BBC News
-- Description: The investigation Diane Sindall's murder led to one of Britain's biggest miscarriages of justice.
+- Description: The celebrity businesswoman grew tearful as she gave evidence in the trial of 10 people accused of robbing her at gunpoint.
 
-Analysis generated at: Wed May 14 12:47:12 UTC 2025
+
+### HOMICIDE on 2025-05-13 17:50
+- Location: ABC News
+- Description: Florida is continuing its rapid pace of executions this year, with one convicted killer set to die this week and another on June 10 who would be the sixth person put to death by the state in 2025
+
+Analysis generated at: Wed May 14 18:17:28 UTC 2025
