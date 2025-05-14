@@ -1,10 +1,10 @@
 
-Loaded 31992 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-13 06:10:17
+Loaded 32065 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-13 12:15:33
 
 Incidents by source:
 source
-newsapi           31891
+newsapi           31964
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-05-13 06:10
-- Location: New York Post
-- Description: “For as talented as Nate was on the football field, he was an even better person off of it. His contagious energy and positivity will be missed.”
+### HOMICIDE on 2025-05-13 12:15
+- Location: fox6now.com
+- Description: A 51-year-old Milwaukee man is accused of killing another man on the city's south side on Monday, May 5.
 
 
-### SHOOTING on 2025-05-13 05:57
-- Location: NDTV News
-- Description: The official shot the delivery driver in the back outside his home, after the driver&#039;s phone died and he began asking residents for directions.
+### HOMICIDE on 2025-05-13 12:04
+- Location: BBC News
+- Description: The investigation Diane Sindall's murder led to one of Britain's biggest miscarriages of justice.
 
 
-### OTHER on 2025-05-13 05:57
-- Location: ABC News (AU)
-- Description: With net debt to soon surpass $12 billion, the Northern Territory government's latest budget is headlined by record funding for corrections but little for new infrastructure projects.
+### OTHER on 2025-05-13 12:04
+- Location: The Star Online
+- Description: TELUK INTAN: There was no ketum found in the lorry that crashed into the vehicle carrying Federal Reserve Unit (FRU) officers, says Deputy Inspector-General of Police Datuk Seri Ayob Khan Mydin Pitchay. Read full story
 
 
-### OTHER on 2025-05-13 05:57
-- Location: Red Voltaire
-- Description: After patiently proposing to Benjamin Netanyahu that he negotiate with the Palestinian resistance and meeting only a stubborn determination to massacre the Palestinians, annex Gaza, southern Lebanon and Syria, and launch a war against Iran, the Trump administ…
+### ASSAULT on 2025-05-13 12:03
+- Location: Securityaffairs.com
+- Description: A 45-year-old foreign man has been arrested in Moldova for allegedly participating in ransomware attacks on Dutch companies in 2021. Moldovan police arrested a 45-year-old foreign man as a result of a joint international operation involving Moldovan and Dutch…
 
 
-### OTHER on 2025-05-13 05:47
-- Location: Brettheinz.com
-- Description: By: Brett HeinzApril 30, 2025Last updated May 7, 2025Read the full report in PDF format.Read the full report on Medium: parts I, II, III, IV, and V.
+### ROBBERY/THEFT on 2025-05-13 11:58
+- Location: ComputerWeekly.com
+- Description: M&S is instructing all its customers to change their account passwords after a significant amount of data was stolen in a DragonForce ransomware attack.
 
-Analysis generated at: Wed May 14 06:20:15 UTC 2025
+Analysis generated at: Wed May 14 12:28:13 UTC 2025
