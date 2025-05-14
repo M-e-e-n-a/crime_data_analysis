@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed May 14 01:52:15 UTC 2025
+Last updated: Wed May 14 06:20:15 UTC 2025
 
 ## Latest Analysis
 
-Loaded 31958 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-13 01:51:09
+Loaded 31992 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-13 06:10:17
 
 Incidents by source:
 source
-newsapi           31857
+newsapi           31891
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-05-13 01:51
+### HOMICIDE on 2025-05-13 06:10
+- Location: New York Post
+- Description: “For as talented as Nate was on the football field, he was an even better person off of it. His contagious energy and positivity will be missed.”
+
+
+### SHOOTING on 2025-05-13 05:57
+- Location: NDTV News
+- Description: The official shot the delivery driver in the back outside his home, after the driver&#039;s phone died and he began asking residents for directions.
+
+
+### OTHER on 2025-05-13 05:57
 - Location: ABC News (AU)
-- Description: A teenager, who pleaded guilty to culpable driving causing death, is jailed over a crash on the Barton Highway in Canberra which led to the deaths of a 19-year-old and a 14-year-old.
+- Description: With net debt to soon surpass $12 billion, the Northern Territory government's latest budget is headlined by record funding for corrections but little for new infrastructure projects.
 
 
-### HOMICIDE on 2025-05-13 01:34
-- Location: Fox News
-- Description: The Florida State University student who is accused of opening fire on campus last month was released Monday from the hospital and charged with murder.
+### OTHER on 2025-05-13 05:57
+- Location: Red Voltaire
+- Description: After patiently proposing to Benjamin Netanyahu that he negotiate with the Palestinian resistance and meeting only a stubborn determination to massacre the Palestinians, annex Gaza, southern Lebanon and Syria, and launch a war against Iran, the Trump administ…
 
 
-### OTHER on 2025-05-13 01:33
-- Location: WDIV ClickOnDetroit
-- Description: Police are seeking information about a 14-year-old girl who went missing in Detroit.
+### OTHER on 2025-05-13 05:47
+- Location: Brettheinz.com
+- Description: By: Brett HeinzApril 30, 2025Last updated May 7, 2025Read the full report in PDF format.Read the full report on Medium: parts I, II, III, IV, and V.
 
-
-### OTHER on 2025-05-13 01:28
-- Location: Freerepublic.com
-- Description: Associated Press just reported:https://apnews.com/article/chickens-euthanized-animal-neglect-farm-61459549d78555f7fe121d6461b6bd41Animal welfare officers faced the grisly task of euthanizing more than 350,000 chickens by hand after they were left starving and…
-
-
-### OTHER on 2025-05-13 01:14
-- Location: Yahoo Entertainment
-- Description: Hill is required to register as a Tier I sex offender.
-
-Analysis generated at: Wed May 14 01:52:15 UTC 2025
+Analysis generated at: Wed May 14 06:20:15 UTC 2025
