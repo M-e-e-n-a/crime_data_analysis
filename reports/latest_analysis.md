@@ -1,10 +1,10 @@
 
-Loaded 31940 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-12 18:15:14
+Loaded 31953 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-13 01:03:59
 
 Incidents by source:
 source
-newsapi           31839
+newsapi           31852
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,31 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-05-12 18:15
-- Location: Common Dreams
-- Description: Dozens of former United Kingdom Special Forces troops or those who served with them have broken their silence to describe alleged war crimes they witnessed—including the execution of children—during the U.S.-led wars on Afghanistan and Iraq.
-
-BBC's "Panorama"…
+### SHOOTING on 2025-05-13 01:03
+- Location: The Denver Post
+- Description: A suspect and and Aurora Police Department officer were injured in an Aurora police shooting in a parking lot near Denver International Airport on Monday night, officials said.
 
 
-### HOMICIDE on 2025-05-12 18:14
-- Location: Bossip
-- Description: Tyre Nichols's family speaks out for the first time since three former Memphis police officers were acquitted of his alleged second-degree murder
-The post Righteous Indignation: Tyre Nichols’ Family Breaks Silence On Cop Acquittals, ‘Dead Or Unalive’ Wanted P…
+### OTHER on 2025-05-13 01:00
+- Location: Fox News
+- Description: A retired police officer says he is pursuing legal action after he says he was arrested for a "thought crime" for posting on social media against anti-Israel protests.
 
 
-### HOMICIDE on 2025-05-12 18:10
-- Location: BBC News
-- Description: Kobi Macharia Dooly was found with multiple knife wounds in his cot, the court hears.
-
-
-### HOMICIDE on 2025-05-12 18:03
+### SHOOTING on 2025-05-13 00:55
 - Location: Yahoo Entertainment
-- Description: Houston police are looking into threats made against Lance McCullers Jr.'s family.
+- Description: Surveillance video captures an elected official from upstate New York allegedly shooting at a DoorDash driver who, police say, got lost in his neighborhood...
 
 
-### OTHER on 2025-05-12 18:01
-- Location: Boston Herald
-- Description: A timeline of key moments in Gérard Depardieu’s rise and fall.
+### SHOOTING on 2025-05-13 00:48
+- Location: Rpnradio.com
+- Description: The shooting incident in Silay City, which claimed the lives of two persons and injured seven others on Election Day, has not affected the conduct of the elections in Negros Occidental, Commission on Elections (Comelec) -Negros Island Region Assistant Regiona…
 
-Analysis generated at: Tue May 13 18:20:14 UTC 2025
+
+### HOMICIDE on 2025-05-13 00:44
+- Location: New York Post
+- Description: One of the victim's friends tried to shield her as the gunfire erupted, but couldn't save the teen, who was an innocent bystander, according to a source.
+
+Analysis generated at: Wed May 14 01:07:13 UTC 2025
