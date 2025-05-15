@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu May 15 06:21:00 UTC 2025
+Last updated: Thu May 15 12:28:02 UTC 2025
 
 ## Latest Analysis
 
-Loaded 32215 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-14 06:17:59
+Loaded 32286 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-14 12:24:33
 
 Incidents by source:
 source
-newsapi           32114
+newsapi           32185
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-05-14 06:17
-- Location: New York Post
-- Description: The gunfire wounded two people in a passing car — including an 11-year-old boy.
+### HOMICIDE on 2025-05-14 12:24
+- Location: BBC News
+- Description: Gerry Adams is suing the BBC for libel over a story alleging he sanctioned the murder of a British agent.
 
 
-### OTHER on 2025-05-14 06:00
-- Location: Naturalnews.com
-- Description: A federal grand jury indicted Milwaukee County Judge Hannah Dugan for allegedly helping an illegal immigrant evade ICE arrest, obstructing justice, and concealing a twice-deported domestic violence suspect. Dugan faces up to six years in prison for obstructio…
+### OTHER on 2025-05-14 12:23
+- Location: The Conversation Africa
+- Description: Instead of promoting diversity, many social networks and other popular digital platforms function as machines for the production and circulation of hate.
 
 
-### ROBBERY/THEFT on 2025-05-14 05:58
-- Location: New York Post
-- Description: Nikolai Vilkov, 29, was arrested on May 5 after the Martin County Sheriff's Office and other agencies had to use smaller boats to pin the stolen 68-foot, two-million-dollar yacht against the shoreline in Jupiter Island, Sheriff John Budensiek said in a press …
+### HOMICIDE on 2025-05-14 12:22
+- Location: HuffPost
+- Description: Willie Eugene Sims was arrested in Jefferson, Ohio, in connection with the death of Jeanette Ralston in San Jose, California, almost half a century ago.
 
 
-### OTHER on 2025-05-14 05:57
-- Location: CounterPunch
-- Description: It is the final week of February 2024, and the City of London, the capital’s ancient financial district, where corporations cluster like woodland trees, is teeming with climate activists. For three days they march the streets, block the entrances, and infiltr…
+### SHOOTING on 2025-05-14 12:19
+- Location: Breitbart News
+- Description: The Gulf Cartel continues to send teams of gunmen into Texas to steal four-door vehicles and smuggle them into Mexico to resupply their paramilitary wing. The ongoing crime wave leads to regular high-speed chases and, at times, vehicle carjackings at gunpoint…
 
 
-### HOMICIDE on 2025-05-14 05:54
-- Location: ABC News (AU)
-- Description: A Queensland community rocked by five alleged domestic violence deaths in 10 months has gathered to grieve and call for change.
+### HOMICIDE on 2025-05-14 12:18
+- Location: Fox News
+- Description: Karen Read pleaded not guilty to murder charges in the death of Boston police officer John O’Keefe and is facing a retrial after a jury was unable to reach a verdict last year.
 
-Analysis generated at: Thu May 15 06:21:00 UTC 2025
+Analysis generated at: Thu May 15 12:28:02 UTC 2025
