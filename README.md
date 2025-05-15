@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu May 15 12:47:37 UTC 2025
+Last updated: Thu May 15 18:19:45 UTC 2025
 
 ## Latest Analysis
 
-Loaded 32288 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-14 12:34:28
+Loaded 32380 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-14 18:14:12
 
 Incidents by source:
 source
-newsapi           32187
+newsapi           32279
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-05-14 12:34
-- Location: Fox News
-- Description: An Hawaiin judge denied bail to an anesthesiologist who allegedly tried to kill his wife while the two were hiking on Oahu's Pali Lookout trail in March.
+### ASSAULT on 2025-05-14 18:14
+- Location: The Denver Post
+- Description: Jeffco Public Schools psychologist James Michael Chevrier, who worked at Green Mountain and Bear Creek high schools, was arrested on suspicion of child sex assault, soliciting child prostitution and drug charges, according to Lakewood police.
 
 
-### OTHER on 2025-05-14 12:30
-- Location: Thoughtcatalog.com
-- Description: Focus Features just dropped the new trailer for their upcoming film starring Aubrey Plaza and Margaret Qualley, Honey Don’t, and boy are we obsessed with the new avatars they are stepping into.
+### HOMICIDE on 2025-05-14 18:10
+- Location: WPXI Pittsburgh
+- Description: Jennah Siebert, 24, was found shot to death inside her Rostraver home over a month ago.
 
 
-### HOMICIDE on 2025-05-14 12:24
-- Location: BBC News
-- Description: Gerry Adams is suing the BBC for libel over a story alleging he sanctioned the murder of a British agent.
+### OTHER on 2025-05-14 18:10
+- Location: Freerepublic.com
+- Description: In a massive sting operation straight out of a crime thriller, Spanish police have smashed one of Europe’s most powerful underworld banks – a slick, secretive syndicate laundering millions using the ancient and shadowy “hawala” method. Cash, crypto and contra…
 
 
-### OTHER on 2025-05-14 12:23
-- Location: The Conversation Africa
-- Description: Instead of promoting diversity, many social networks and other popular digital platforms function as machines for the production and circulation of hate.
+### OTHER on 2025-05-14 18:05
+- Location: Electronicintifada.net
+- Description: After 19 months of a genocidal war, several governments finally call for action.
 
 
-### HOMICIDE on 2025-05-14 12:22
-- Location: HuffPost
-- Description: Willie Eugene Sims was arrested in Jefferson, Ohio, in connection with the death of Jeanette Ralston in San Jose, California, almost half a century ago.
+### HOMICIDE on 2025-05-14 18:03
+- Location: The-independent.com
+- Description: Nicholas Olson-Hartley, 33, is believed to have killed his wife and young children before shooting himself on May 11 in their Montana home.
 
-Analysis generated at: Thu May 15 12:47:37 UTC 2025
+Analysis generated at: Thu May 15 18:19:45 UTC 2025
