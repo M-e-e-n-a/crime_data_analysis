@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu May 15 01:50:21 UTC 2025
+Last updated: Thu May 15 06:21:00 UTC 2025
 
 ## Latest Analysis
 
-Loaded 32175 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-14 01:49:48
+Loaded 32215 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-14 06:17:59
 
 Incidents by source:
 source
-newsapi           32074
+newsapi           32114
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,34 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-05-14 01:49
+### HOMICIDE on 2025-05-14 06:17
+- Location: New York Post
+- Description: The gunfire wounded two people in a passing car — including an 11-year-old boy.
+
+
+### OTHER on 2025-05-14 06:00
+- Location: Naturalnews.com
+- Description: A federal grand jury indicted Milwaukee County Judge Hannah Dugan for allegedly helping an illegal immigrant evade ICE arrest, obstructing justice, and concealing a twice-deported domestic violence suspect. Dugan faces up to six years in prison for obstructio…
+
+
+### ROBBERY/THEFT on 2025-05-14 05:58
+- Location: New York Post
+- Description: Nikolai Vilkov, 29, was arrested on May 5 after the Martin County Sheriff's Office and other agencies had to use smaller boats to pin the stolen 68-foot, two-million-dollar yacht against the shoreline in Jupiter Island, Sheriff John Budensiek said in a press …
+
+
+### OTHER on 2025-05-14 05:57
+- Location: CounterPunch
+- Description: It is the final week of February 2024, and the City of London, the capital’s ancient financial district, where corporations cluster like woodland trees, is teeming with climate activists. For three days they march the streets, block the entrances, and infiltr…
+
+
+### HOMICIDE on 2025-05-14 05:54
 - Location: ABC News (AU)
-- Description: A man charged over the fatal accidental shooting of a nine-year-old boy near Goulburn faces court for the first time.
+- Description: A Queensland community rocked by five alleged domestic violence deaths in 10 months has gathered to grieve and call for change.
 
-
-### OTHER on 2025-05-14 01:43
-- Location: Mediaite
-- Description: A new bill filed by Sen. Mike Lee (R-UT) seems highly unlikely to pass, but that doesn't mean the internet can't have some fun with it first.
-The post Sen. Mike Lee Introduces Bill to Make Virtually All Porn a Federal Crime — Social Media Reacts Exactly as Yo…
-
-
-### SHOOTING on 2025-05-14 01:42
-- Location: Consequence.net
-- Description: Lauren is charged with discharge of a firearm with gross negligence and assault with a semiautomatic firearm and faces up to 19 years in prison if convicted.
-Weezer Bassist’s Wife Jillian Lauren Pleads Not Guilty to LAPD Shooting
-Jaeden Pinder
-
-
-### OTHER on 2025-05-14 01:26
-- Location: Globalresearch.ca
-- Description: Serialization of selections from my book Our Country, Then and Now continues with the cooperation of my publisher, Clarity Press. Today we have the first installment of Chapter 9, “The Money Trust.”
-The previous chapter, “Rule Britannia,” explained the 500-ye…
-
-
-### HOMICIDE on 2025-05-14 01:24
-- Location: Globalresearch.ca
-- Description: Preface
-What follows is one human being’s unique personal account of American-Russian-Ukrainian-Indigenous world history and philosophy from within the context of the 21st century’s violent, contentious political and military struggles between them all.
-Plane…
-
-Analysis generated at: Thu May 15 01:50:21 UTC 2025
+Analysis generated at: Thu May 15 06:21:00 UTC 2025
