@@ -1,10 +1,10 @@
 
-Loaded 32519 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-15 12:46:58
+Loaded 32614 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-15 18:10:00
 
 Incidents by source:
 source
-newsapi           32418
+newsapi           32513
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,30 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-05-15 12:46
-- Location: The Logic
-- Description: Shopify says it wants to make commerce better for everyone. Insiders tell a different story.
-
-
-### HOMICIDE on 2025-05-15 12:37
+### HOMICIDE on 2025-05-15 18:10
 - Location: Sky.com
-- Description: A brother and sister have been jailed for the murder of a drug dealer in a "ferocious" knife attack.
+- Description: The death of a British man who was found at the bottom of a cliff in Spain is now being treated as a potential murder, according to his family.
 
 
-### OTHER on 2025-05-15 12:20
-- Location: JoBlo.com
-- Description: Joe Don Baker, who starred in 1973's Walking Tall and had multiple roles in the James Bond franchise, has passed away.
-The post Joe Don Baker, Walking Tall star and James Bond actor, dies at 89 appeared first on JoBlo.
+### OTHER on 2025-05-15 18:08
+- Location: Newsweek
+- Description: The search for missing young siblings Lilly and Jack Sullivan continues as authorities hunt down leads and follow up on interviews.
 
 
-### OTHER on 2025-05-15 12:19
-- Location: Ibtimes.com.au
-- Description: India and Pakistan accused each other Thursday of failing to control their nuclear weapons, calling on the world to monitor their neighbour's arsenal just days after their most serious military confrontation in two decades.
+### ROBBERY/THEFT on 2025-05-15 18:05
+- Location: CNET
+- Description: The popular crypto exchange will not pay extortionists $20 million in ransom but will reimburse you for stolen assets.
 
 
-### ASSAULT on 2025-05-15 12:15
-- Location: Thegatewaypundit.com
-- Description: By Guest Contributor Daniel Goodwyn They tried to silence her.
-The post Felicia Konold: A Young Mother’s Fight to Rebuild After J6 appeared first on The Gateway Pundit.
+### ROBBERY/THEFT on 2025-05-15 18:05
+- Location: CNET
+- Description: The popular cryptocurrency exchange will reimburse you for stolen crypto, but you'll need to secure your personal information.
 
-Analysis generated at: Fri May 16 12:47:19 UTC 2025
+
+### OTHER on 2025-05-15 18:04
+- Location: Theplaylist.net
+- Description: German-French film director Dominik Moll is no stranger to the art and pleasures of the police procedural. His previous film “The Night of the 12th” (2022) won well-deserved awards for Best Film and Best Director at the Césars, and confirmed that French cinem…
+
+Analysis generated at: Fri May 16 18:19:30 UTC 2025
