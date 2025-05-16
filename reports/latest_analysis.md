@@ -1,10 +1,10 @@
 
-Loaded 32380 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-14 18:14:12
+Loaded 32386 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-15 01:00:00
 
 Incidents by source:
 source
-newsapi           32279
+newsapi           32285
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2025-05-14 18:14
-- Location: The Denver Post
-- Description: Jeffco Public Schools psychologist James Michael Chevrier, who worked at Green Mountain and Bear Creek high schools, was arrested on suspicion of child sex assault, soliciting child prostitution and drug charges, according to Lakewood police.
+### DRUG RELATED on 2025-05-15 01:00
+- Location: Allthatsinteresting.com
+- Description: Oscar Zeta Acosta made a name for himself as an unconventional lawyer, a radical activist, and a drug-blitzed traveler before he mysteriously vanished in Mexico in 1974.
+The post The Real Story Of Oscar Zeta Acosta, The Chicano Activist Who Helped Inspire Fea…
 
 
-### HOMICIDE on 2025-05-14 18:10
-- Location: WPXI Pittsburgh
-- Description: Jennah Siebert, 24, was found shot to death inside her Rostraver home over a month ago.
+### SHOOTING on 2025-05-15 00:58
+- Location: CNN
+- Description: A mom was accused of buying ammunition, tactical gear and magazines for her middle school son’s planned mass shooting at a San Antonio, Texas, school...
 
 
-### OTHER on 2025-05-14 18:10
-- Location: Freerepublic.com
-- Description: In a massive sting operation straight out of a crime thriller, Spanish police have smashed one of Europe’s most powerful underworld banks – a slick, secretive syndicate laundering millions using the ancient and shadowy “hawala” method. Cash, crypto and contra…
+### OTHER on 2025-05-15 00:54
+- Location: Boston.com
+- Description: Rumors circulated on social media this week that ICE agents have been arresting nannies at parks and playgrounds across Boston.
 
 
-### OTHER on 2025-05-14 18:05
-- Location: Electronicintifada.net
-- Description: After 19 months of a genocidal war, several governments finally call for action.
+### HOMICIDE on 2025-05-15 00:30
+- Location: STLtoday.com
+- Description: Brittany D. Howard is charged with first-degree murder in the shooting death last month of Kenneth L. Whitehorn.
 
 
-### HOMICIDE on 2025-05-14 18:03
-- Location: The-independent.com
-- Description: Nicholas Olson-Hartley, 33, is believed to have killed his wife and young children before shooting himself on May 11 in their Montana home.
+### OTHER on 2025-05-15 00:00
+- Location: Screen Rant
+- Description: Cold Case was almost rebooted recently, but it turns out the famous police procedural that ran from 2003 to 2010 is not returning after all.
 
-Analysis generated at: Thu May 15 18:19:45 UTC 2025
+Analysis generated at: Fri May 16 01:08:19 UTC 2025
