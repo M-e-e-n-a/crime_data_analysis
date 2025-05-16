@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri May 16 01:08:19 UTC 2025
+Last updated: Fri May 16 01:53:45 UTC 2025
 
 ## Latest Analysis
 
-Loaded 32386 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-15 01:00:00
+Loaded 32387 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-15 01:40:00
 
 Incidents by source:
 source
-newsapi           32285
+newsapi           32286
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -23,6 +23,11 @@ bution.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### ROBBERY/THEFT on 2025-05-15 01:40
+- Location: Thehillstimes.in
+- Description: HT Bureau NAMSAI, May 14: In a swift and commendable operation, Pasighat Police successfully solved a house theft case, recovering stolen gold and silver ornaments and arresting the main accused within days of the incident. The case was initiated following a …
+
 
 ### DRUG RELATED on 2025-05-15 01:00
 - Location: Allthatsinteresting.com
@@ -44,9 +49,4 @@ The post The Real Story Of Oscar Zeta Acosta, The Chicano Activist Who Helped In
 - Location: STLtoday.com
 - Description: Brittany D. Howard is charged with first-degree murder in the shooting death last month of Kenneth L. Whitehorn.
 
-
-### OTHER on 2025-05-15 00:00
-- Location: Screen Rant
-- Description: Cold Case was almost rebooted recently, but it turns out the famous police procedural that ran from 2003 to 2010 is not returning after all.
-
-Analysis generated at: Fri May 16 01:08:19 UTC 2025
+Analysis generated at: Fri May 16 01:53:45 UTC 2025
