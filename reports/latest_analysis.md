@@ -1,10 +1,10 @@
 
-Loaded 32517 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-15 12:20:07
+Loaded 32519 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-15 12:46:58
 
 Incidents by source:
 source
-newsapi           32416
+newsapi           32418
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -19,6 +19,16 @@ bution.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### HOMICIDE on 2025-05-15 12:46
+- Location: The Logic
+- Description: Shopify says it wants to make commerce better for everyone. Insiders tell a different story.
+
+
+### HOMICIDE on 2025-05-15 12:37
+- Location: Sky.com
+- Description: A brother and sister have been jailed for the murder of a drug dealer in a "ferocious" knife attack.
+
 
 ### OTHER on 2025-05-15 12:20
 - Location: JoBlo.com
@@ -36,14 +46,4 @@ The post Joe Don Baker, Walking Tall star and James Bond actor, dies at 89 appea
 - Description: By Guest Contributor Daniel Goodwyn They tried to silence her.
 The post Felicia Konold: A Young Mother’s Fight to Rebuild After J6 appeared first on The Gateway Pundit.
 
-
-### HOMICIDE on 2025-05-15 12:15
-- Location: Newser
-- Description: A suspected serial killer once scrutinized for a possible link to the OJ Simpson double-murder case is scheduled to be executed Thursday in Florida for the murder of a woman in a Tampa motel room. Glen Rogers, 62, is set to receive a lethal injection at Flori…
-
-
-### SHOOTING on 2025-05-15 12:10
-- Location: The Times of India
-- Description: Sean Diddy Combs' trial: Jonathan Oddi, a former adult film actor known for a previous incident at a Trump-owned golf resort, has now been connected to the ongoing sex trafficking investigation involving Sean "Diddy" Combs. Oddi alleged he signed a non-disclo…
-
-Analysis generated at: Fri May 16 12:28:14 UTC 2025
+Analysis generated at: Fri May 16 12:47:19 UTC 2025
