@@ -1,10 +1,10 @@
 
-Loaded 32387 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-15 01:40:00
+Loaded 32428 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-15 06:15:56
 
 Incidents by source:
 source
-newsapi           32286
+newsapi           32327
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2025-05-15 01:40
-- Location: Thehillstimes.in
-- Description: HT Bureau NAMSAI, May 14: In a swift and commendable operation, Pasighat Police successfully solved a house theft case, recovering stolen gold and silver ornaments and arresting the main accused within days of the incident. The case was initiated following a …
+### OTHER on 2025-05-15 06:15
+- Location: The Times of India
+- Description: The Bombay High Court granted bail to Tariq Parveen, an alleged member of Dawood Ibrahim's syndicate, citing prolonged incarceration without trial as a violation of his constitutional rights. Parveen was arrested in 2020 under MCOCA for extortion. Justice Jad…
 
 
-### DRUG RELATED on 2025-05-15 01:00
-- Location: Allthatsinteresting.com
-- Description: Oscar Zeta Acosta made a name for himself as an unconventional lawyer, a radical activist, and a drug-blitzed traveler before he mysteriously vanished in Mexico in 1974.
-The post The Real Story Of Oscar Zeta Acosta, The Chicano Activist Who Helped Inspire Fea…
+### HOMICIDE on 2025-05-15 06:14
+- Location: Borderlandbeat.com
+- Description: CHAR MAY 13, 2025  INTERVIEW BY CIRO GOMEZ LEYVA VIDEO TRANSLATION  To finish Omar, we put emphasis the last two weeks on the murder case. T...
 
 
-### SHOOTING on 2025-05-15 00:58
-- Location: CNN
-- Description: A mom was accused of buying ammunition, tactical gear and magazines for her middle school son’s planned mass shooting at a San Antonio, Texas, school...
+### HOMICIDE on 2025-05-15 06:09
+- Location: ABC News (AU)
+- Description: A man who pleaded guilty to using a historic weapon to murder his aunt's former partner has told a court he was "so incredibly sorry".
 
 
-### OTHER on 2025-05-15 00:54
-- Location: Boston.com
-- Description: Rumors circulated on social media this week that ICE agents have been arresting nannies at parks and playgrounds across Boston.
+### HOMICIDE on 2025-05-15 06:06
+- Location: ABC News
+- Description: Fifteen men have died by court-ordered execution so far this year in the U.S., and 12 other people are scheduled to be put to death in eight states during the remainder of 2025
 
 
-### HOMICIDE on 2025-05-15 00:30
-- Location: STLtoday.com
-- Description: Brittany D. Howard is charged with first-degree murder in the shooting death last month of Kenneth L. Whitehorn.
+### OTHER on 2025-05-15 06:00
+- Location: Deadline
+- Description: For more than 70 years, the Cannes Film Festival has been synonymous with sex, and we can credit an 18-year-old Brigitte Bardot for bringing them together. Bizarrely, though, this had nothing to do with movies. Despite her global fame as a sex symbol, the act…
 
-Analysis generated at: Fri May 16 01:53:45 UTC 2025
+Analysis generated at: Fri May 16 06:20:40 UTC 2025
