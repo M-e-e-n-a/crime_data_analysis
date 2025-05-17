@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri May 16 18:19:30 UTC 2025
+Last updated: Sat May 17 01:07:01 UTC 2025
 
 ## Latest Analysis
 
-Loaded 32614 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-15 18:10:00
+Loaded 32623 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-16 01:00:12
 
 Incidents by source:
 source
-newsapi           32513
+newsapi           32522
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-05-15 18:10
-- Location: Sky.com
-- Description: The death of a British man who was found at the bottom of a cliff in Spain is now being treated as a potential murder, according to his family.
+### OTHER on 2025-05-16 01:00
+- Location: SoraNews24
+- Description: Latest bust in the long-running sea cucumber racket of organized crime. For years now, organized crime groups in Japan have been pilfering sea cucumbers from the ocean. Due to the fact that they’re relatively easy to catch and can fetch decent prices as a del…
 
 
-### OTHER on 2025-05-15 18:08
-- Location: Newsweek
-- Description: The search for missing young siblings Lilly and Jack Sullivan continues as authorities hunt down leads and follow up on interviews.
+### HOMICIDE on 2025-05-16 00:57
+- Location: BBC News
+- Description: Prosecutors say they are treating the killing of 23-year-old Valeria Márquez as a femicide.
 
 
-### ROBBERY/THEFT on 2025-05-15 18:05
-- Location: CNET
-- Description: The popular crypto exchange will not pay extortionists $20 million in ransom but will reimburse you for stolen assets.
+### HOMICIDE on 2025-05-16 00:34
+- Location: ABC News (AU)
+- Description: A man is in custody and homicide detectives are investigating after a woman was found dead in a home in Western Victoria.
 
 
-### ROBBERY/THEFT on 2025-05-15 18:05
-- Location: CNET
-- Description: The popular cryptocurrency exchange will reimburse you for stolen crypto, but you'll need to secure your personal information.
+### HOMICIDE on 2025-05-16 00:30
+- Location: ABC News
+- Description: A woman facing a second-degree murder charge for the death of a Super Bowl television reporter has been sentenced to 25 years in an unrelated case on Thursday
 
 
-### OTHER on 2025-05-15 18:04
-- Location: Theplaylist.net
-- Description: German-French film director Dominik Moll is no stranger to the art and pleasures of the police procedural. His previous film “The Night of the 12th” (2022) won well-deserved awards for Best Film and Best Director at the Césars, and confirmed that French cinem…
+### OTHER on 2025-05-16 00:30
+- Location: Gadgets360.com
+- Description: From feel-good romcoms to the big laughter bash, accompanied by a spice of horror and drama, this week, OTT is coming out with a blend of genres with its new set of releases. Some of the top releases include Bhool Chuk Maaf, Maranammas, Nessippaya, Dear Hongr…
 
-Analysis generated at: Fri May 16 18:19:30 UTC 2025
+Analysis generated at: Sat May 17 01:07:01 UTC 2025
