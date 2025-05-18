@@ -1,10 +1,10 @@
 
-Loaded 32954 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-17 12:15:10
+Loaded 32957 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-17 12:32:00
 
 Incidents by source:
 source
-newsapi           32853
+newsapi           32856
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,6 +20,21 @@ bution.svg)
 
 ## Recent Incidents
 
+### OTHER on 2025-05-17 12:32
+- Location: Yahoo Entertainment
+- Description: This Brooklyn delivery truck driver says he was denied a lease he never applied for.
+
+
+### OTHER on 2025-05-17 12:30
+- Location: PEOPLE
+- Description: ‘S.W.A.T.’ was canceled for the third time in March 2025. Here’s everything to know about why ‘S.W.A.T.’ was canceled and what star Shemar Moore has to say about the show’s future.
+
+
+### ROBBERY/THEFT on 2025-05-17 12:30
+- Location: Elliott.org
+- Description: Keep your checked luggage safe this summer with expert tips. Learn how to avoid theft and protect your belongings!
+
+
 ### HOMICIDE on 2025-05-17 12:15
 - Location: fox6now.com
 - Description: An 11-year-old child was shot and killed in Racine on Friday night, May 17, 2025.
@@ -29,19 +44,4 @@ bution.svg)
 - Location: GlobeNewswire
 - Description: Washington, DC, May 17, 2025 (GLOBE NEWSWIRE) -- Link to ThinkCareBelieve's Article:  https://thinkcarebelieve.blog/2025/05/16/week-17-of-america-trump-administration-2-0/
 
-
-### OTHER on 2025-05-17 12:08
-- Location: TheJournal.ie
-- Description: The life-size sculpture of the US first lady was created in her native land in 2020.
-
-
-### OTHER on 2025-05-17 12:07
-- Location: The-independent.com
-- Description: Fans of the medical drama will have to wait an extra week for the next episode
-
-
-### OTHER on 2025-05-17 12:05
-- Location: The Times of India
-- Description: Delhi Police is developing a comprehensive strategy to combat the surge in digital arrest frauds, including establishing a centralised complaint system and a database of involved gangs. A committee has been formed to create guidelines, aiming to improve respo…
-
-Analysis generated at: Sun May 18 12:24:58 UTC 2025
+Analysis generated at: Sun May 18 12:41:56 UTC 2025
