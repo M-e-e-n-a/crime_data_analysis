@@ -1,10 +1,10 @@
 
-Loaded 32870 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-17 01:11:39
+Loaded 32873 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-17 01:57:29
 
 Incidents by source:
 source
-newsapi           32769
+newsapi           32772
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,6 +20,21 @@ bution.svg)
 
 ## Recent Incidents
 
+### ROBBERY/THEFT on 2025-05-17 01:57
+- Location: Screen Rant
+- Description: The loose ends in The Stolen Girl finale aren't substantial enough to warrant a second season, but still leave me feeling dissatisfied.
+
+
+### HOMICIDE on 2025-05-17 01:30
+- Location: Independent.ie
+- Description: The death of a member of An Garda Síochána sends a shockwave through the nation. Thankfully, such deaths remain rare events – 90 gardaí have died in the line of duty since An Garda Síochána was founded in 1922. Since the turn of the century, there have been 1…
+
+
+### ROBBERY/THEFT on 2025-05-17 01:26
+- Location: New York Post
+- Description: Bobbi Vargas, 46, allgedly made nearly $450,000 in fraudulent Amazon purchases using credit cards from the high-profile couple she called her "role models."
+
+
 ### HOMICIDE on 2025-05-17 01:11
 - Location: ABC News
 - Description: One person is dead and multiple are injured after shooting inside Las Vegas Athletic Club, according to police.
@@ -28,20 +43,4 @@ bution.svg)
 ### OTHER on 2025-05-17 01:00
 - Location: Spoilertv.com
 
-
-### OTHER on 2025-05-17 01:00
-- Location: TVLine
-- Description: Did a bad seed just spoil the bunch on Grosse Pointe Garden Society? The NBC dramedy — which has yet to be renewed for a Season 2 — wrapped its freshman run on Friday with a twist: One of our gardeners has committed a surprising act of betrayal. Early in the …
-
-
-### HOMICIDE on 2025-05-17 01:00
-- Location: Allthatsinteresting.com
-- Description: A British serial killer who targeted child molesters and rapists, Robert Maudsley has spent over 50 years in prison for his murders — most of which he committed behind bars.
-The post Who Is Robert Maudsley And Why Is He Called Britain’s ‘Most Dangerous Prison…
-
-
-### HOMICIDE on 2025-05-17 00:58
-- Location: The Jerusalem Post
-- Description: Two people were killed and multiple others wounded after a shooter opened fire at a gym in Las Vegas on Friday
-
-Analysis generated at: Sun May 18 01:12:31 UTC 2025
+Analysis generated at: Sun May 18 01:59:09 UTC 2025
