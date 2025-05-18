@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun May 18 06:19:11 UTC 2025
+Last updated: Sun May 18 12:24:58 UTC 2025
 
 ## Latest Analysis
 
-Loaded 32894 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-17 06:18:18
+Loaded 32954 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-17 12:15:10
 
 Incidents by source:
 source
-newsapi           32793
+newsapi           32853
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-05-17 06:18
-- Location: NDTV News
-- Description: The influencer seems to be among many Mexican women whose murder briefly shocks the conscience only to recede into the background until the next gruesome crime happens.
+### HOMICIDE on 2025-05-17 12:15
+- Location: fox6now.com
+- Description: An 11-year-old child was shot and killed in Racine on Friday night, May 17, 2025.
 
 
-### OTHER on 2025-05-17 06:00
-- Location: Naturalnews.com
-- Description: Senate Bill S5609, led by Sen. Julia Salazar, seeks to ban police from using biometric surveillance technologies like facial recognition and gait analysis, with limited exceptions for fingerprint scanners and DNA databases. S5609 includes the creation of a Bi…
+### OTHER on 2025-05-17 12:11
+- Location: GlobeNewswire
+- Description: Washington, DC, May 17, 2025 (GLOBE NEWSWIRE) -- Link to ThinkCareBelieve's Article:  https://thinkcarebelieve.blog/2025/05/16/week-17-of-america-trump-administration-2-0/
 
 
-### OTHER on 2025-05-17 06:00
-- Location: Naturalnews.com
-- Description: UnitedHealth Group CEO Andrew Witty resigned on May 13, citing “personal reasons.” Former CEO Stephen Hemsley, 72, took over his post amid financial turmoil and leadership instability. UnitedHealth’s stock dropped 18 percent to a four-year low, and the compan…
+### OTHER on 2025-05-17 12:08
+- Location: TheJournal.ie
+- Description: The life-size sculpture of the US first lady was created in her native land in 2020.
 
 
-### OTHER on 2025-05-17 05:59
-- Location: CounterPunch
-- Description: I’m married to a German citizen who’s a life-long resident here in Hamburg, and I spent most of the winter and spring in this city of two-million — a far cry from my rural Wisconsin homestead outside a town of 2,000. Not far from our flat is Hamburg’s federal…
+### OTHER on 2025-05-17 12:07
+- Location: The-independent.com
+- Description: Fans of the medical drama will have to wait an extra week for the next episode
 
 
-### HOMICIDE on 2025-05-17 05:51
-- Location: Globalsecurity.org
-- Description: An eight-count indictment was unsealed in the Southern District of Georgia charging 30 defendants - all alleged Sex Money Murder (SMM) gang members and associates - with crimes including racketeering (RICO) conspiracy, murder in aid of racketeering, conspirac…
+### OTHER on 2025-05-17 12:05
+- Location: The Times of India
+- Description: Delhi Police is developing a comprehensive strategy to combat the surge in digital arrest frauds, including establishing a centralised complaint system and a database of involved gangs. A committee has been formed to create guidelines, aiming to improve respo…
 
-Analysis generated at: Sun May 18 06:19:10 UTC 2025
+Analysis generated at: Sun May 18 12:24:58 UTC 2025
