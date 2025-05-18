@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun May 18 01:59:09 UTC 2025
+Last updated: Sun May 18 06:19:11 UTC 2025
 
 ## Latest Analysis
 
-Loaded 32873 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-17 01:57:29
+Loaded 32894 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-17 06:18:18
 
 Incidents by source:
 source
-newsapi           32772
+newsapi           32793
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,27 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2025-05-17 01:57
-- Location: Screen Rant
-- Description: The loose ends in The Stolen Girl finale aren't substantial enough to warrant a second season, but still leave me feeling dissatisfied.
+### HOMICIDE on 2025-05-17 06:18
+- Location: NDTV News
+- Description: The influencer seems to be among many Mexican women whose murder briefly shocks the conscience only to recede into the background until the next gruesome crime happens.
 
 
-### HOMICIDE on 2025-05-17 01:30
-- Location: Independent.ie
-- Description: The death of a member of An Garda Síochána sends a shockwave through the nation. Thankfully, such deaths remain rare events – 90 gardaí have died in the line of duty since An Garda Síochána was founded in 1922. Since the turn of the century, there have been 1…
+### OTHER on 2025-05-17 06:00
+- Location: Naturalnews.com
+- Description: Senate Bill S5609, led by Sen. Julia Salazar, seeks to ban police from using biometric surveillance technologies like facial recognition and gait analysis, with limited exceptions for fingerprint scanners and DNA databases. S5609 includes the creation of a Bi…
 
 
-### ROBBERY/THEFT on 2025-05-17 01:26
-- Location: New York Post
-- Description: Bobbi Vargas, 46, allgedly made nearly $450,000 in fraudulent Amazon purchases using credit cards from the high-profile couple she called her "role models."
+### OTHER on 2025-05-17 06:00
+- Location: Naturalnews.com
+- Description: UnitedHealth Group CEO Andrew Witty resigned on May 13, citing “personal reasons.” Former CEO Stephen Hemsley, 72, took over his post amid financial turmoil and leadership instability. UnitedHealth’s stock dropped 18 percent to a four-year low, and the compan…
 
 
-### HOMICIDE on 2025-05-17 01:11
-- Location: ABC News
-- Description: One person is dead and multiple are injured after shooting inside Las Vegas Athletic Club, according to police.
+### OTHER on 2025-05-17 05:59
+- Location: CounterPunch
+- Description: I’m married to a German citizen who’s a life-long resident here in Hamburg, and I spent most of the winter and spring in this city of two-million — a far cry from my rural Wisconsin homestead outside a town of 2,000. Not far from our flat is Hamburg’s federal…
 
 
-### OTHER on 2025-05-17 01:00
-- Location: Spoilertv.com
+### HOMICIDE on 2025-05-17 05:51
+- Location: Globalsecurity.org
+- Description: An eight-count indictment was unsealed in the Southern District of Georgia charging 30 defendants - all alleged Sex Money Murder (SMM) gang members and associates - with crimes including racketeering (RICO) conspiracy, murder in aid of racketeering, conspirac…
 
-Analysis generated at: Sun May 18 01:59:09 UTC 2025
+Analysis generated at: Sun May 18 06:19:10 UTC 2025
