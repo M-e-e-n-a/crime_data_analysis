@@ -1,10 +1,10 @@
 
-Loaded 32857 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-16 18:16:57
+Loaded 32870 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-17 01:11:39
 
 Incidents by source:
 source
-newsapi           32756
+newsapi           32769
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-05-16 18:16
-- Location: Adweek
-- Description: Solomon was arrested in April for the alleged plot to kill her ex-husband, Aaron, a former anchor at Nashville, Tennessee NBC affiliate WSMV.
+### HOMICIDE on 2025-05-17 01:11
+- Location: ABC News
+- Description: One person is dead and multiple are injured after shooting inside Las Vegas Athletic Club, according to police.
 
 
-### HOMICIDE on 2025-05-16 18:09
-- Location: Fox News
-- Description: Nearly a dozen inmates escaped a New Orleans jail on Friday, with only one apprehended.
+### OTHER on 2025-05-17 01:00
+- Location: Spoilertv.com
 
 
-### OTHER on 2025-05-16 18:08
-- Location: The Daily Dot
-- Description: Comedian Leslie Jones repeatedly insulted Elon Musk during a Daily Show segment and got conservatives feeling threatened. On Wednesday's show, she roasted the X owner, President Donald Trump, and his administration, calling them corrupt, evil, and above all, …
+### OTHER on 2025-05-17 01:00
+- Location: TVLine
+- Description: Did a bad seed just spoil the bunch on Grosse Pointe Garden Society? The NBC dramedy — which has yet to be renewed for a Season 2 — wrapped its freshman run on Friday with a twist: One of our gardeners has committed a surprising act of betrayal. Early in the …
 
 
-### HOMICIDE on 2025-05-16 18:07
-- Location: CBC News
-- Description: Two brothers wanted under Canada-wide arrest warrants in connection with a double homicide in Winnipeg earlier this year have been arrested.
+### HOMICIDE on 2025-05-17 01:00
+- Location: Allthatsinteresting.com
+- Description: A British serial killer who targeted child molesters and rapists, Robert Maudsley has spent over 50 years in prison for his murders — most of which he committed behind bars.
+The post Who Is Robert Maudsley And Why Is He Called Britain’s ‘Most Dangerous Prison…
 
 
-### OTHER on 2025-05-16 18:05
-- Location: Yahoo Entertainment
-- Description: Ten men who were incarcerated in a New Orleans jail broke out Friday in an audacious overnight escape that the local sheriff says may have involved members...
+### HOMICIDE on 2025-05-17 00:58
+- Location: The Jerusalem Post
+- Description: Two people were killed and multiple others wounded after a shooter opened fire at a gym in Las Vegas on Friday
 
-Analysis generated at: Sat May 17 18:17:44 UTC 2025
+Analysis generated at: Sun May 18 01:12:31 UTC 2025
