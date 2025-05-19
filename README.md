@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon May 19 12:29:06 UTC 2025
+Last updated: Mon May 19 12:49:46 UTC 2025
 
 ## Latest Analysis
 
-Loaded 33069 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-18 12:28:34
+Loaded 33071 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-18 12:49:30
 
 Incidents by source:
 source
-newsapi           32968
+newsapi           32970
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,6 +24,16 @@ bution.svg)
 
 ## Recent Incidents
 
+### OTHER on 2025-05-18 12:49
+- Location: Variety
+- Description: Even after winning an Oscar, a Palme d’Or and six Cesar awards with Justine Triet’s “Anatomy of a Fall,” French producer Marie-Ange Luciani isn’t resting on her laurels. The Paris-based producer, who runs the company Les Films de Pierre, still strives to work…
+
+
+### HOMICIDE on 2025-05-18 12:47
+- Location: TheJournal.ie
+- Description: A man has been arrested on suspicion of attempted murder.
+
+
 ### OTHER on 2025-05-18 12:28
 - Location: Newsweek
 - Description: The FBI is offering a reward for information leading to the arrest of the fugitives.
@@ -38,14 +48,4 @@ bution.svg)
 - Location: Sky.com
 - Description: A murder investigation has been launched after a 26-year-old man was stabbed to death in northwest London.
 
-
-### HOMICIDE on 2025-05-18 12:00
-- Location: The Denver Post
-- Description: Jesse Q. Sutanto brings back the endearing Chinese tea shop owner in this delightful follow-up.
-
-
-### ROBBERY/THEFT on 2025-05-18 12:00
-- Location: AppleInsider
-- Description: Apple products are stolen out of a moving truck on a highway, a woman is sentenced in an iPhone theft ring, and an iCloud search brings down a check fraud ring in this week's Apple Crime Blotter.The latest in an occasional AppleInsider series, looking at the …
-
-Analysis generated at: Mon May 19 12:29:06 UTC 2025
+Analysis generated at: Mon May 19 12:49:46 UTC 2025
