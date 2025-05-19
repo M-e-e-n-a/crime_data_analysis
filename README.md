@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon May 19 06:21:35 UTC 2025
+Last updated: Mon May 19 12:29:06 UTC 2025
 
 ## Latest Analysis
 
-Loaded 33035 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-18 06:10:32
+Loaded 33069 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-18 12:28:34
 
 Incidents by source:
 source
-newsapi           32934
+newsapi           32968
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-05-18 06:10
-- Location: Rlsbb.ru
-- Description: Plot: This is the story of a young woman who was found dead. When the police investigate the evidence points to a man she was seen leaving a party with. When questioned, he claims that her death was accidental, as a result of rough sex. Her family doesn't bel…
+### OTHER on 2025-05-18 12:28
+- Location: Newsweek
+- Description: The FBI is offering a reward for information leading to the arrest of the fugitives.
 
 
-### OTHER on 2025-05-18 05:48
-- Location: The Star Online
-- Description: BANDAR PERMAISURI: The Domestic Trade and Cost of Living Ministry has uncovered seven cases involving the misappropriation of liquefied petroleum gas (LPG) since the launch of Ops Gasak on May 1, with total seizures amounting to RM68,065.07. Read full story
-
-
-### HOMICIDE on 2025-05-18 05:39
-- Location: NDTV News
-- Description: His marriage proposal rejected, a man tried to strangulate his girlfriend in a park in Uttar Pradesh&#039;s Kanpur.
-
-
-### OTHER on 2025-05-18 04:31
-- Location: The Irish Times
-- Description: The actor on ‘the Harry Potter thing’, his role in Guy Ritchie’s Fountain of Youth, and the gift that Tom Cruise keeps sending him
-
-
-### HOMICIDE on 2025-05-18 04:01
+### SHOOTING on 2025-05-18 12:22
 - Location: Bangkok Post
-- Description: A husband and wife were shot dead while sitting outside their home in Yala&rsquo;s Raman district on Saturday evening, in what police say may be linked to either a personal conflict or ongoing unrest in the region.
+- Description: KANCHANABURI: The body of a male DJ, 33, who had gone missing four days previously was found in a remote forest in Muang district in this western Thai province on Sunday, with tied hands and bullet wounds in a temple. Police suspect a romantic conflict.
 
-Analysis generated at: Mon May 19 06:21:35 UTC 2025
+
+### HOMICIDE on 2025-05-18 12:08
+- Location: Sky.com
+- Description: A murder investigation has been launched after a 26-year-old man was stabbed to death in northwest London.
+
+
+### HOMICIDE on 2025-05-18 12:00
+- Location: The Denver Post
+- Description: Jesse Q. Sutanto brings back the endearing Chinese tea shop owner in this delightful follow-up.
+
+
+### ROBBERY/THEFT on 2025-05-18 12:00
+- Location: AppleInsider
+- Description: Apple products are stolen out of a moving truck on a highway, a woman is sentenced in an iPhone theft ring, and an iCloud search brings down a check fraud ring in this week's Apple Crime Blotter.The latest in an occasional AppleInsider series, looking at the …
+
+Analysis generated at: Mon May 19 12:29:06 UTC 2025
