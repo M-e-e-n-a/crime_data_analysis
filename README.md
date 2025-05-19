@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon May 19 01:58:05 UTC 2025
+Last updated: Mon May 19 06:21:35 UTC 2025
 
 ## Latest Analysis
 
-Loaded 33020 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-18 01:53:19
+Loaded 33035 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-18 06:10:32
 
 Incidents by source:
 source
-newsapi           32919
+newsapi           32934
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-05-18 01:53
-- Location: Freerepublic.com
-- Description: Likely human remains have been found washed up on a beach in an exclusive Rhode Island enclave, just a stone’s throw from Taylor Swift’s beachside mansion, cops said. Police were called to the swanky Watch Hill neighborhood at about 9:30 a.m. Wednesday follow…
+### HOMICIDE on 2025-05-18 06:10
+- Location: Rlsbb.ru
+- Description: Plot: This is the story of a young woman who was found dead. When the police investigate the evidence points to a man she was seen leaving a party with. When questioned, he claims that her death was accidental, as a result of rough sex. Her family doesn't bel…
 
 
-### HOMICIDE on 2025-05-18 01:30
-- Location: Independent.ie
-- Description: Planning a night on the couch? Here are today’s top TV and streaming picks:
+### OTHER on 2025-05-18 05:48
+- Location: The Star Online
+- Description: BANDAR PERMAISURI: The Domestic Trade and Cost of Living Ministry has uncovered seven cases involving the misappropriation of liquefied petroleum gas (LPG) since the launch of Ops Gasak on May 1, with total seizures amounting to RM68,065.07. Read full story
 
 
-### OTHER on 2025-05-18 01:12
-- Location: Freerepublic.com
-- Description: What these neighborhoods really need is a “Squad” car. Major crime rose by an eye-popping 70% in Rep. Alexandria Ocasio-Cortez’s Bronx and Queens district since the ‘defund the police’ socialist lawmaker took office in 2019 — more than double the citywide inc…
+### HOMICIDE on 2025-05-18 05:39
+- Location: NDTV News
+- Description: His marriage proposal rejected, a man tried to strangulate his girlfriend in a park in Uttar Pradesh&#039;s Kanpur.
 
 
-### OTHER on 2025-05-18 00:49
-- Location: Cointelegraph
-- Description: Hong Kong police arrested 12 people involved in a cross-border money laundering scheme that relied on crypto and over 500 stooge bank accounts to launder HK$118 million ($15 million), local news outlets reported.The syndicate was dismantled on May 15, resulti…
+### OTHER on 2025-05-18 04:31
+- Location: The Irish Times
+- Description: The actor on ‘the Harry Potter thing’, his role in Guy Ritchie’s Fountain of Youth, and the gift that Tom Cruise keeps sending him
 
 
-### SHOOTING on 2025-05-18 00:44
-- Location: fox6now.com
-- Description: Separate shootings on Milwaukee's north side wounded three people on Saturday, May 17. The victims had non-fatal wounds.
+### HOMICIDE on 2025-05-18 04:01
+- Location: Bangkok Post
+- Description: A husband and wife were shot dead while sitting outside their home in Yala&rsquo;s Raman district on Saturday evening, in what police say may be linked to either a personal conflict or ongoing unrest in the region.
 
-Analysis generated at: Mon May 19 01:58:05 UTC 2025
+Analysis generated at: Mon May 19 06:21:35 UTC 2025
