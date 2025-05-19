@@ -1,10 +1,10 @@
 
-Loaded 33071 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-18 12:49:30
+Loaded 33118 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-18 18:13:59
 
 Incidents by source:
 source
-newsapi           32970
+newsapi           33017
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-05-18 12:49
-- Location: Variety
-- Description: Even after winning an Oscar, a Palme d’Or and six Cesar awards with Justine Triet’s “Anatomy of a Fall,” French producer Marie-Ange Luciani isn’t resting on her laurels. The Paris-based producer, who runs the company Les Films de Pierre, still strives to work…
+### OTHER on 2025-05-18 18:13
+- Location: CBS News
+- Description: On this "Face the Nation with Margaret Brennan" broadcast, Secretary of State Marco Rubio and Sen. Chris Van Hollen join Margaret Brennan.
 
 
-### HOMICIDE on 2025-05-18 12:47
-- Location: TheJournal.ie
-- Description: A man has been arrested on suspicion of attempted murder.
+### HOMICIDE on 2025-05-18 18:10
+- Location: The Irish Times
+- Description: Collision in seaside village was reported late on Saturday evening
 
 
-### OTHER on 2025-05-18 12:28
-- Location: Newsweek
-- Description: The FBI is offering a reward for information leading to the arrest of the fugitives.
+### HOMICIDE on 2025-05-18 18:00
+- Location: Fox News
+- Description: Texas real estate agent Ashlee Long's death involved William Kistler, who has a criminal history, and led to Kendrick Finch being charged with the Dallas murder.
 
 
-### SHOOTING on 2025-05-18 12:22
-- Location: Bangkok Post
-- Description: KANCHANABURI: The body of a male DJ, 33, who had gone missing four days previously was found in a remote forest in Muang district in this western Thai province on Sunday, with tied hands and bullet wounds in a temple. Police suspect a romantic conflict.
+### HOMICIDE on 2025-05-18 17:59
+- Location: NDTV News
+- Description: Enmity between two families in Mumbai&#039;s Ganpat Patil Nagar escalated this evening, leading to violent clashes that ended in the death of three persons and injury to four others.
 
 
-### HOMICIDE on 2025-05-18 12:08
-- Location: Sky.com
-- Description: A murder investigation has been launched after a 26-year-old man was stabbed to death in northwest London.
+### OTHER on 2025-05-18 17:46
+- Location: Crooksandliars.com
+- Description: During a press conference last week, Speaker Mike Johnson claimed Donald Trump is not engaging in any corruption because he's being open about accepting $400 million bribes as well as shadow figures investing in his meme coin.
+I've never heard this defense be…
 
-Analysis generated at: Mon May 19 12:49:46 UTC 2025
+Analysis generated at: Mon May 19 18:19:57 UTC 2025
