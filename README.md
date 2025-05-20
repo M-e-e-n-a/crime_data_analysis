@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue May 20 12:49:26 UTC 2025
+Last updated: Tue May 20 18:19:55 UTC 2025
 
 ## Latest Analysis
 
-Loaded 33241 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-19 12:32:00
+Loaded 33328 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-19 18:14:29
 
 Incidents by source:
 source
-newsapi           33140
+newsapi           33227
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-05-19 12:32
-- Location: Newser
-- Description: It appears to be a rarity in China: a fatal gun attack. Police in Wuhan say one person was killed and two others injured Sunday night in an assault at an outdoor restaurant, reports the AP . Authorities did not specify that a gun was used, but social media po…
+### HOMICIDE on 2025-05-19 18:14
+- Location: New York Post
+- Description: Delaney's alleged lover, a married Belgian woman named Greet Vandeput, was his executive assistant at Goodyear. Carmel Delaney
 
 
-### ROBBERY/THEFT on 2025-05-19 12:23
-- Location: MediaNama.com
-- Description: CBI books 39 PoS agents for issuing ghost SIM cards used in cyber frauds like UPI scams, impersonation, and digital arrest.
-The post How PoS Agents Created a Ghost SIM Card Network Exploited by Cybercriminals, Reveals CBI Probe appeared first on MEDIANAMA.
+### SHOOTING on 2025-05-19 18:12
+- Location: Complex
+- Description: A video of the incident appeared to show Brown getting jumped at the Miami-based event.
 
 
-### OTHER on 2025-05-19 12:12
-- Location: Freerepublic.com
-- Description: Minnesota’s Democratic Gov. Tim Walz told an audience of graduating students that the nation’s Immigration and Customs Enforcement (ICE) agents are “Trump’s Modern Gestapo.” The Gestapo was the secret police created by Adolf Hitler’s National Socialist regime…
+### HOMICIDE on 2025-05-19 18:04
+- Location: Mediaite
+- Description: The Trump administration has agreed to pay millions to settle a wrongful death lawsuit brought by the family of Ashli Babbitt. Babbitt, 35, was fatally shot by police during the Jan. 6, 2021, Capitol riot. According to The Washington Post, her family will rec…
 
 
-### OTHER on 2025-05-19 12:07
-- Location: NDTV News
-- Description: The Supreme Court on Monday stayed trial proceedings against Karnataka BJP MLC CT Ravi, who faced criminal charges for sexist comments targeting Congress leader Laxmi Hebbalkar inside the Council building in December last year.
+### SHOOTING on 2025-05-19 18:02
+- Location: New York Post
+- Description: Kevin Jennings was gunned down when a man opened fire at East 188th Street and Marion Avenue in Fordham Heights, a few blocks from the school, around 6:50 p.m., police said.
 
 
-### OTHER on 2025-05-19 11:54
-- Location: ComicBook.com
-- Description: Xbox Game Pass subscribers across various tiers of the Microsoft subscription service have less than two weeks with five different Xbox and PC games. Once gone, Xbox Game Pass subscribers will have to purchase each said game to continue to play it. The good n…
+### OTHER on 2025-05-19 18:00
+- Location: Fox News
+- Description: Operation Guardian Angel, led by Bill Essayli, aims to increase deportations of criminal illegal immigrants in California, challenging sanctuary policies with federal warrants.
 
-Analysis generated at: Tue May 20 12:49:26 UTC 2025
+Analysis generated at: Tue May 20 18:19:55 UTC 2025
