@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue May 20 01:09:19 UTC 2025
+Last updated: Tue May 20 01:54:15 UTC 2025
 
 ## Latest Analysis
 
-Loaded 33123 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-19 00:58:38
+Loaded 33128 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-19 01:52:45
 
 Incidents by source:
 source
-newsapi           33022
+newsapi           33027
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-05-19 00:58
-- Location: Starweekly.com.au
-- Description: Four teenagers have been arrested following a series of alleged incidents, including attempted carjackings and an affray, in a busy...
-The post Teens arrested after attempted carjackings in Epping appeared first on Northern.
-
-
-### HOMICIDE on 2025-05-19 00:52
+### OTHER on 2025-05-19 01:52
 - Location: Slashdot.org
-- Description: Murder victim’s family goes into hiding as police hunt for inmatesWWLTV.com Here’s how the nighttime escape of 10 Louisiana inmates from a New Orleans jail unfoldedCNN Authorities express confidence in finding 7 remaining escaped New Orleans inmatesNBC News V…
+- Description: Authorities express confidence in finding 7 remaining escaped New Orleans inmatesNBC News Here’s how the nighttime escape of 10 Louisiana inmates from a New Orleans jail unfoldedCNN After New Orleans jail break, blame game beginsAxios VIDEO: Escaped inmates s…
 
 
-### OTHER on 2025-05-19 00:44
-- Location: New York Post
-- Description: His bail was set at $100,000 cash or $200,000 bond -- and bond was swiftly posted for him, allowing him to stroll out of jail in less than a day.
+### HOMICIDE on 2025-05-19 01:30
+- Location: Independent.ie
+- Description: Gardaí fear Kerry farmer Mike Gaine was dead within hours of his last ­sighting in Kenmare almost two months ago.
 
 
-### HOMICIDE on 2025-05-19 00:31
-- Location: CBC News
-- Description: Members of the South Asian community packed a town hall meeting on Sunday to talk about public safety following the death of a Brampton man who was gunned down in Mississauga this week.
+### OTHER on 2025-05-19 01:30
+- Location: Independent.ie
+- Description: Planning a night on the couch? Here are today’s top TV and streaming picks:
 
 
-### HOMICIDE on 2025-05-19 00:13
-- Location: Wnd.com
-- Description: Includes deaths of JFK Jr., Vince Foster, Seth Rich and more
+### SHOOTING on 2025-05-19 01:18
+- Location: CBS News
+- Description: A person was hospitalized following a shooting involving Baltimore County officers on Sunday in Dundalk.
 
-Analysis generated at: Tue May 20 01:09:19 UTC 2025
+
+### OTHER on 2025-05-19 01:13
+- Location: Newsweek
+- Description: FBI doubles reward to $10,000 per inmate as manhunt intensifies for seven dangerous fugitives who escaped from New Orleans jail.
+
+Analysis generated at: Tue May 20 01:54:15 UTC 2025
