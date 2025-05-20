@@ -1,10 +1,10 @@
 
-Loaded 33128 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-19 01:52:45
+Loaded 33167 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-19 06:18:32
 
 Incidents by source:
 source
-newsapi           33027
+newsapi           33066
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-05-19 01:52
-- Location: Slashdot.org
-- Description: Authorities express confidence in finding 7 remaining escaped New Orleans inmatesNBC News Here’s how the nighttime escape of 10 Louisiana inmates from a New Orleans jail unfoldedCNN After New Orleans jail break, blame game beginsAxios VIDEO: Escaped inmates s…
+### OTHER on 2025-05-19 06:18
+- Location: soompi
+- Description: Upcoming drama “Hunter with a Scalpel” has unveiled the first glimpse of Park Ju Hyun’s character! “Hunter with a Scalpel” is a psychological crime thriller that follows the story of Seo Se Hyun (Park Ju Hyun), a brilliant yet troubled forensic pathologist. W…
 
 
-### HOMICIDE on 2025-05-19 01:30
-- Location: Independent.ie
-- Description: Gardaí fear Kerry farmer Mike Gaine was dead within hours of his last ­sighting in Kenmare almost two months ago.
+### OTHER on 2025-05-19 06:13
+- Location: ABC News (AU)
+- Description: Charges have been laid on Townsville man Tony Allan Devine, 65, more than 30 years after the abduction of a nurse along the remote Flinders Highway in north-west Queensland.
 
 
-### OTHER on 2025-05-19 01:30
-- Location: Independent.ie
-- Description: Planning a night on the couch? Here are today’s top TV and streaming picks:
+### HOMICIDE on 2025-05-19 06:03
+- Location: ABC News (AU)
+- Description: A NSW Supreme Court jury has returned its verdict over the death of Nyngan farmer Joel Carter who was found dead inside his home in January 2023.
 
 
-### SHOOTING on 2025-05-19 01:18
-- Location: CBS News
-- Description: A person was hospitalized following a shooting involving Baltimore County officers on Sunday in Dundalk.
+### HOMICIDE on 2025-05-19 06:02
+- Location: The Jerusalem Post
+- Description: An indictment was filed against a Palestinian resident of A-Ram, northeast of Jerusalem, for the murder of his
 
 
-### OTHER on 2025-05-19 01:13
-- Location: Newsweek
-- Description: FBI doubles reward to $10,000 per inmate as manhunt intensifies for seven dangerous fugitives who escaped from New Orleans jail.
+### HOMICIDE on 2025-05-19 06:00
+- Location: Naturalnews.com
+- Description: Denver saw a 58 percent drop in homicides in 2025, with killings falling from 30 in early 2024 to just 13, outpacing national crime trends. Denver Police Chief Ron Thomas attributed the reduction to community partnerships and policing strategies that avoided …
 
-Analysis generated at: Tue May 20 01:54:15 UTC 2025
+Analysis generated at: Tue May 20 06:21:02 UTC 2025
