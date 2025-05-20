@@ -1,10 +1,10 @@
 
-Loaded 33118 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-18 18:13:59
+Loaded 33123 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-19 00:58:38
 
 Incidents by source:
 source
-newsapi           33017
+newsapi           33022
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-05-18 18:13
-- Location: CBS News
-- Description: On this "Face the Nation with Margaret Brennan" broadcast, Secretary of State Marco Rubio and Sen. Chris Van Hollen join Margaret Brennan.
+### OTHER on 2025-05-19 00:58
+- Location: Starweekly.com.au
+- Description: Four teenagers have been arrested following a series of alleged incidents, including attempted carjackings and an affray, in a busy...
+The post Teens arrested after attempted carjackings in Epping appeared first on Northern.
 
 
-### HOMICIDE on 2025-05-18 18:10
-- Location: The Irish Times
-- Description: Collision in seaside village was reported late on Saturday evening
+### HOMICIDE on 2025-05-19 00:52
+- Location: Slashdot.org
+- Description: Murder victim’s family goes into hiding as police hunt for inmatesWWLTV.com Here’s how the nighttime escape of 10 Louisiana inmates from a New Orleans jail unfoldedCNN Authorities express confidence in finding 7 remaining escaped New Orleans inmatesNBC News V…
 
 
-### HOMICIDE on 2025-05-18 18:00
-- Location: Fox News
-- Description: Texas real estate agent Ashlee Long's death involved William Kistler, who has a criminal history, and led to Kendrick Finch being charged with the Dallas murder.
+### OTHER on 2025-05-19 00:44
+- Location: New York Post
+- Description: His bail was set at $100,000 cash or $200,000 bond -- and bond was swiftly posted for him, allowing him to stroll out of jail in less than a day.
 
 
-### HOMICIDE on 2025-05-18 17:59
-- Location: NDTV News
-- Description: Enmity between two families in Mumbai&#039;s Ganpat Patil Nagar escalated this evening, leading to violent clashes that ended in the death of three persons and injury to four others.
+### HOMICIDE on 2025-05-19 00:31
+- Location: CBC News
+- Description: Members of the South Asian community packed a town hall meeting on Sunday to talk about public safety following the death of a Brampton man who was gunned down in Mississauga this week.
 
 
-### OTHER on 2025-05-18 17:46
-- Location: Crooksandliars.com
-- Description: During a press conference last week, Speaker Mike Johnson claimed Donald Trump is not engaging in any corruption because he's being open about accepting $400 million bribes as well as shadow figures investing in his meme coin.
-I've never heard this defense be…
+### HOMICIDE on 2025-05-19 00:13
+- Location: Wnd.com
+- Description: Includes deaths of JFK Jr., Vince Foster, Seth Rich and more
 
-Analysis generated at: Mon May 19 18:19:57 UTC 2025
+Analysis generated at: Tue May 20 01:09:19 UTC 2025
