@@ -1,10 +1,10 @@
 
-Loaded 33452 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-20 12:46:16
+Loaded 33541 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-20 18:18:19
 
 Incidents by source:
 source
-newsapi           33351
+newsapi           33440
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-05-20 12:46
-- Location: Boston Herald
-- Description: The heavily Democratic cities of Philadelphia and Pittsburgh will elect new nominees for top jobs in Pennsylvania’s primary election.
+### SHOOTING on 2025-05-20 18:18
+- Location: CBC News
+- Description: An outage that knocked out power to residential homes in Lloydminster, Alta., early Monday was the result of someone shooting at an Atco substation, RCMP said.
 
 
-### HOMICIDE on 2025-05-20 12:45
-- Location: TMZ
-- Description: The son of late "Saturday Night Live" music sketch producer Hal Willner has been charged with attempted murder after he violently slashed three individuals outside a New York City bar. 20-year-old Arlo Willner -- whose mother is an Emmy-winning…
+### HOMICIDE on 2025-05-20 18:06
+- Location: CBC News
+- Description: Jodie Carrie Clark of Minto was sentenced to six years in prison for the manslaughter of Alexander Ladds, and due to time already served on remand, will spend another two years and 29 days in prison.
 
 
-### ASSAULT on 2025-05-20 12:44
-- Location: Securityaffairs.com
-- Description: China-linked UnsolicitedBooker used a new backdoor, MarsSnake, to target an international organization in Saudi Arabia. ESET researchers revealed that a China-linked APT, tracked as UnsolicitedBooker, targeted an international organization in Saudi Arabia usi…
+### OTHER on 2025-05-20 18:05
+- Location: The Root
+- Description: While social media is placing bets on which escaped inmate will be captured last, or never, authorities are investigating just how 10 men successfully broke out of a New Orleans jail. According to reports, the men, including four who are charged with second-d…
 
 
-### ROBBERY/THEFT on 2025-05-20 12:30
-- Location: Associated Press
-- Description: Burglaries at the homes of sports stars have become a big problem. Protection dogs have been recommended and he cost can run up to $100,000 for these highly-trained pets.
+### OTHER on 2025-05-20 17:50
+- Location: PBS
+- Description: Authorities have arrested an Orleans Parish Sheriff's Office maintenance worker in connection with the escape of 10 jail inmates.
 
 
-### OTHER on 2025-05-20 12:27
-- Location: POLITICO.eu
-- Description: The sharp rise comes amid a record-high number of "politically motivated" crimes.
+### OTHER on 2025-05-20 17:50
+- Location: Screen Rant
+- Description: Netflix's crime drama Secrets We Keep weaves a twisted tale of wealthy Copenhagen residents and the secrets that lead to a mysterious disappearance.
 
-Analysis generated at: Wed May 21 12:48:52 UTC 2025
+Analysis generated at: Wed May 21 18:20:05 UTC 2025
