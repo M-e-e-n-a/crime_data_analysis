@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed May 21 06:21:00 UTC 2025
+Last updated: Wed May 21 12:28:18 UTC 2025
 
 ## Latest Analysis
 
-Loaded 33381 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-20 06:20:07
+Loaded 33448 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-20 12:27:17
 
 Incidents by source:
 source
-newsapi           33280
+newsapi           33347
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-05-20 06:20
-- Location: LADbible
-- Description: Images of Diddy's hotel room from the day he was arrested have been released to the public as the rapper's trial continues in New York
+### OTHER on 2025-05-20 12:27
+- Location: POLITICO.eu
+- Description: The sharp rise comes amid a record-high number of "politically motivated" crimes.
 
 
-### HOMICIDE on 2025-05-20 06:13
-- Location: ABC News
-- Description: Las Vegas police have identified the two people killed in a shooting at a Las Vegas athletic club, including the suspected shooter
+### OTHER on 2025-05-20 12:26
+- Location: The Japan Times
+- Description: Far-right violence recorded by police surged 40.2% to 84,172 in 2024, a report published on Tuesday by the Interior Ministry showed.
 
 
-### OTHER on 2025-05-20 06:05
-- Location: Booksandideas.net
-- Description: International Criminal Court judges process hundreds of pieces of evidence before rendering their verdict. Artwork-tools cut through the maze of data, providing an essential artistic and visual support for the administration of justice.
+### HOMICIDE on 2025-05-20 12:15
+- Location: Newser
+- Description: A Florida man faces felony charges after allegedly shooting his neighbor's pregnant cow five times for wandering onto his property, following through on a threat to kill any trespassing livestock. The incident has sparked outrage in a rural community where fa…
 
 
-### OTHER on 2025-05-20 06:00
-- Location: Naturalnews.com
-- Description: The Coinbase breach occurred due to bribery of overseas support agents, exposing sensitive customer data (e.g., IDs, addresses, partial SSNs) and highlighting vulnerabilities in centralized identity systems. Unlike passwords, leaked government-issued IDs (e.g…
+### OTHER on 2025-05-20 12:12
+- Location: The Times of India
+- Description: Amidst IPL excitement, Delhi Police have intensified security at Arun Jaitley Stadium using face recognition technology following a bomb threat and heightened India-Pakistan tensions. FRS-equipped buses scan faces at entry points, matching them against crime …
 
 
-### HOMICIDE on 2025-05-20 05:47
-- Location: ABC News (AU)
-- Description: A man has been charged with murder a day after the body of a 70-year-old man was found at a home in the western Victorian city.
+### ASSAULT on 2025-05-20 12:00
+- Location: The Denver Post
+- Description: Shawn Alexander Larson, 36, was arrested May 10 on suspicion of sexual assault that police say happened in September.
 
-Analysis generated at: Wed May 21 06:21:00 UTC 2025
+Analysis generated at: Wed May 21 12:28:18 UTC 2025
