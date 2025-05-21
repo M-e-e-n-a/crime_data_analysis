@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue May 20 18:19:55 UTC 2025
+Last updated: Wed May 21 01:08:37 UTC 2025
 
 ## Latest Analysis
 
-Loaded 33328 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-19 18:14:29
+Loaded 33337 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-20 01:08:02
 
 Incidents by source:
 source
-newsapi           33227
+newsapi           33236
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-05-19 18:14
-- Location: New York Post
-- Description: Delaney's alleged lover, a married Belgian woman named Greet Vandeput, was his executive assistant at Goodyear. Carmel Delaney
+### ROBBERY/THEFT on 2025-05-20 01:08
+- Location: fox6now.com
+- Description: The Brookfield Police Department said two women are wanted in a recent Kohl’s retail theft from earlier this month.
 
 
-### SHOOTING on 2025-05-19 18:12
-- Location: Complex
-- Description: A video of the incident appeared to show Brown getting jumped at the Miami-based event.
+### HOMICIDE on 2025-05-20 01:04
+- Location: NBC News
+- Description: A fourth inmate in a group of 10 who escaped from New Orleans' main jail on Friday has been captured, Louisiana State Police said Monday.
 
 
-### HOMICIDE on 2025-05-19 18:04
-- Location: Mediaite
-- Description: The Trump administration has agreed to pay millions to settle a wrongful death lawsuit brought by the family of Ashli Babbitt. Babbitt, 35, was fatally shot by police during the Jan. 6, 2021, Capitol riot. According to The Washington Post, her family will rec…
-
-
-### SHOOTING on 2025-05-19 18:02
-- Location: New York Post
-- Description: Kevin Jennings was gunned down when a man opened fire at East 188th Street and Marion Avenue in Fordham Heights, a few blocks from the school, around 6:50 p.m., police said.
-
-
-### OTHER on 2025-05-19 18:00
+### OTHER on 2025-05-20 00:53
 - Location: Fox News
-- Description: Operation Guardian Angel, led by Bill Essayli, aims to increase deportations of criminal illegal immigrants in California, challenging sanctuary policies with federal warrants.
+- Description: Authorities announced that a fourth inmate has been apprehended after escaping from a New Orleans jail on Friday with 6 other inmates.
 
-Analysis generated at: Tue May 20 18:19:55 UTC 2025
+
+### OTHER on 2025-05-20 00:34
+- Location: Dailyutahchronicle.com
+- Description: Growing up in a diverse household meant I was surrounded by discussions centered on tensions between various groups. Most notably, I remember an auntie recalling the beating of Rodney King in 1991 and the initial acquittal of the four LAPD officers. This hist…
+
+
+### DRUG RELATED on 2025-05-20 00:19
+- Location: Ie.edu
+- Description: Introduction The siren’s wail slicing through the night, the metallic thud of a battering ram, the hushed commands – these […]
+The post Unmasking the Reality: Drug Busts and Their Impact on Jefferson City, Missouri appeared first on Things You Ought to Know.
+
+Analysis generated at: Wed May 21 01:08:37 UTC 2025
