@@ -1,10 +1,10 @@
 
-Loaded 33337 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-20 01:08:02
+Loaded 33341 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-20 01:53:02
 
 Incidents by source:
 source
-newsapi           33236
+newsapi           33240
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
+### OTHER on 2025-05-20 01:53
+- Location: Freerepublic.com
+- Description: Join with fellow FREEPERS to pray for AMERICA: For those in Authority in Government, Family, Military, Business, Healthcare, Education, Churches, and the Media.This is the confidence we have in approaching God: That if we ask anything according to His will, H…
+
+
+### HOMICIDE on 2025-05-20 01:30
+- Location: Independent.ie
+- Description: Planning a night on the couch? Here are today’s top TV and streaming picks:
+
+
+### OTHER on 2025-05-20 01:30
+- Location: Independent.ie
+- Description: Dramas that break new ground can come in all shapes and sizes. Still, the last place you’d expect to find boundaries being smashed is in an ITV crime drama.
+
+
+### SHOOTING on 2025-05-20 01:28
+- Location: Thechronicle.com.gh
+- Description: Gunmen believed to be members of the notorious Lakurawa gang stormed Zagami village in Danko/Wasagu Local Government Area of Kebbi State on Sunday, abducting several Christian worshippers during a church service. DAILY POST gathered that the attackers, who ar…
+
+
 ### ROBBERY/THEFT on 2025-05-20 01:08
 - Location: fox6now.com
 - Description: The Brookfield Police Department said two women are wanted in a recent Kohl’s retail theft from earlier this month.
 
-
-### HOMICIDE on 2025-05-20 01:04
-- Location: NBC News
-- Description: A fourth inmate in a group of 10 who escaped from New Orleans' main jail on Friday has been captured, Louisiana State Police said Monday.
-
-
-### OTHER on 2025-05-20 00:53
-- Location: Fox News
-- Description: Authorities announced that a fourth inmate has been apprehended after escaping from a New Orleans jail on Friday with 6 other inmates.
-
-
-### OTHER on 2025-05-20 00:34
-- Location: Dailyutahchronicle.com
-- Description: Growing up in a diverse household meant I was surrounded by discussions centered on tensions between various groups. Most notably, I remember an auntie recalling the beating of Rodney King in 1991 and the initial acquittal of the four LAPD officers. This hist…
-
-
-### DRUG RELATED on 2025-05-20 00:19
-- Location: Ie.edu
-- Description: Introduction The siren’s wail slicing through the night, the metallic thud of a battering ram, the hushed commands – these […]
-The post Unmasking the Reality: Drug Busts and Their Impact on Jefferson City, Missouri appeared first on Things You Ought to Know.
-
-Analysis generated at: Wed May 21 01:08:37 UTC 2025
+Analysis generated at: Wed May 21 01:53:42 UTC 2025
