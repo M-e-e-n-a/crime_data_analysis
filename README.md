@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu May 22 01:08:11 UTC 2025
+Last updated: Thu May 22 01:53:15 UTC 2025
 
 ## Latest Analysis
 
-Loaded 33555 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-21 01:03:30
+Loaded 33565 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-21 01:52:38
 
 Incidents by source:
 source
-newsapi           33454
+newsapi           33464
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-05-21 01:03
-- Location: Freerepublic.com
-- Description: DOVER, N.H. (AP) — A New Hampshire sheriff who resigned after he was accused of stealing $19,000 in county funds was sentenced Monday to 3 1/2 to seven years in prison on perjury charges. Prosecutors had asked for a seven-to-14-year sentence for Mark Brave. .…
+### HOMICIDE on 2025-05-21 01:52
+- Location: Thechronicle.com.gh
+- Description: Some youths in Ibadan on Tuesday protested at Oyo State Government Secretariat over the killing of a student by a stray bullet allegedly fired by a policeman. The student, said to be writing the ongoing West African Examinations Council (WAEC) was hit by the …
 
 
-### OTHER on 2025-05-21 01:01
-- Location: Screen Rant
-- Description: From harrowing thrillers to passionate love stories, some K-dramas are not purely fiction but draw inspiration from events that happened in real life.
+### HOMICIDE on 2025-05-21 01:48
+- Location: NDTV News
+- Description: An Indian origin entrepreneur was fatally stabbed by another Indian man in a public bus in Texas, United States, police said.
 
 
-### OTHER on 2025-05-21 01:00
-- Location: TVLine
-- Description: The following recap, by the very definition of the word “recap,” contains spoilers from the FBI Season 7 finale. FBI front man Zeeko Zaki had told us that the Season 7 finale was a “very different” episode of the CBS procedural, and that it’d end with a “clif…
+### OTHER on 2025-05-21 01:34
+- Location: Globalsecurity.org
+- Description: Following are UN Secretary-General António Guterres' remarks to the Security Council high-level open debate on maritime security, in New York today:
 
 
-### OTHER on 2025-05-21 00:56
-- Location: Complex
-- Description: The California rapper was arrested days after he was announced as a supporting act for YoungBoy Never Broke Again's upcoming tour.
+### HOMICIDE on 2025-05-21 01:30
+- Location: Independent.ie
+- Description: Planning a night on the couch? Here are today’s top TV and streaming picks:
 
 
-### HOMICIDE on 2025-05-21 00:56
-- Location: Fox News
-- Description: A Texas man was executed Tuesday evening for the burning death of an elderly clerk he set on fire during a convenience store robbery more than a decade ago.
+### HOMICIDE on 2025-05-21 01:21
+- Location: HuffPost
+- Description: One of the gunshot wounds appears to be self-inflicted, a preliminary autopsy showed.
 
-Analysis generated at: Thu May 22 01:08:11 UTC 2025
+Analysis generated at: Thu May 22 01:53:15 UTC 2025
