@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu May 22 12:48:52 UTC 2025
+Last updated: Thu May 22 18:19:37 UTC 2025
 
 ## Latest Analysis
 
-Loaded 33679 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-21 12:48:21
+Loaded 33768 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-21 18:14:09
 
 Incidents by source:
 source
-newsapi           33578
+newsapi           33667
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,30 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-05-21 12:48
-- Location: International Business Times
-- Description: A US-sanctioned Ukrainian ex-MP and senior aide to the country's former pro-Russian president Viktor Yanukovych was shot dead near Madrid on Wednesday, a Spanish police source told AFP.
-Officers rushed to the scene in the upmarket town of Pozuelo de Alarcon w…
+### HOMICIDE on 2025-05-21 18:14
+- Location: New York Post
+- Description: Aloysius Kenneth Johnson, who has a previous DUI conviction, was “trying to beat" his wife home from the bar when he crashed, killing 72-year-old Alice Marie Stack, according to a criminal complaint.
 
 
-### HOMICIDE on 2025-05-21 12:47
-- Location: BBC News
-- Description: Police said a 29-year-old man has been charged after an incident in Dumfries at the weekend.
+### SHOOTING on 2025-05-21 18:04
+- Location: Hip-Hop Wired
+- Description: Rod Wave was arrested in Fulton County, Georgia, on May 20, 2025, facing a slew of serious charges tied to an incident from a month earlier.
 
 
-### OTHER on 2025-05-21 12:40
-- Location: Www.gov.uk
-- Description: An illegal enterprise in catalytic converters has brought confiscation orders for £526,215.04, at a Proceeds of Crime Award hearing.
+### HOMICIDE on 2025-05-21 18:02
+- Location: Freerepublic.com
+- Description: Migrants deported to South Sudan by Donald Trump include murderers and sexual abusers, the Daily Mail can reveal. The latest deportations come as a federal judge ruled U.S. officials must retain custody and control of the migrants in case he orders in the fut…
 
 
-### OTHER on 2025-05-21 12:33
-- Location: Fox News
-- Description: An Oklahoma law criminalizing illegal immigrants living in the state has been paused from coming into force by a federal judge, drawing ACLU praises while the state attorney general criticized it.
+### OTHER on 2025-05-21 18:01
+- Location: Wnd.com
+- Description: 'We didn't put a crack in the glass ceiling, we shattered it'
 
 
-### OTHER on 2025-05-21 12:29
-- Location: Demilked.com
-- Description: People expose dirty company secrets they can finally talk about now they don’t work there anymore.
-The post Ex-Workers Expose 35 Shady Secrets Companies Don’t Want The Public To Know appeared first on DeMilked.
+### OTHER on 2025-05-21 18:00
+- Location: Bitcoinist
+- Description: XRP is about to start drawing a fresh wave of attention from institutional investors, following a major update that reflects the token’s growing relevance in the crypto market. The latest milestone involves the listing of XRP and Micro XRP futures on the CME …
 
-Analysis generated at: Thu May 22 12:48:52 UTC 2025
+Analysis generated at: Thu May 22 18:19:37 UTC 2025
