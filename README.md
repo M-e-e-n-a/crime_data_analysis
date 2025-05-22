@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu May 22 12:28:57 UTC 2025
+Last updated: Thu May 22 12:48:52 UTC 2025
 
 ## Latest Analysis
 
-Loaded 33673 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-21 12:27:51
+Loaded 33679 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-21 12:48:21
 
 Incidents by source:
 source
-newsapi           33572
+newsapi           33578
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2025-05-21 12:27
-- Location: PhoneArena
-- Description: The 'stolen iPhone building' is real, and your lost device might've passed through it.
+### HOMICIDE on 2025-05-21 12:48
+- Location: International Business Times
+- Description: A US-sanctioned Ukrainian ex-MP and senior aide to the country's former pro-Russian president Viktor Yanukovych was shot dead near Madrid on Wednesday, a Spanish police source told AFP.
+Officers rushed to the scene in the upmarket town of Pozuelo de Alarcon w…
 
 
-### OTHER on 2025-05-21 12:19
-- Location: The Jerusalem Post
-- Description: The male minors formed a group, styling itself as the "last wave of defense" to protect the "German nation."
+### HOMICIDE on 2025-05-21 12:47
+- Location: BBC News
+- Description: Police said a 29-year-old man has been charged after an incident in Dumfries at the weekend.
 
 
-### OTHER on 2025-05-21 12:12
-- Location: HackRead
-- Description: The world we live in is packed with data. Texts, emails, social media posts, deleted files, you name…
+### OTHER on 2025-05-21 12:40
+- Location: Www.gov.uk
+- Description: An illegal enterprise in catalytic converters has brought confiscation orders for £526,215.04, at a Proceeds of Crime Award hearing.
 
 
-### HOMICIDE on 2025-05-21 12:09
-- Location: EURACTIV
-- Description: Andriy Portnov was a senior aide to Ukraine's pro-Russian former President Viktor Yanukovich.
+### OTHER on 2025-05-21 12:33
+- Location: Fox News
+- Description: An Oklahoma law criminalizing illegal immigrants living in the state has been paused from coming into force by a federal judge, drawing ACLU praises while the state attorney general criticized it.
 
 
-### ROBBERY/THEFT on 2025-05-21 12:01
-- Location: WSOC Charlotte
-- Description: A juvenile and a woman were charged for allegedly stealing a flag from the Walk of Heroes display on the Richardson Greenway, police in Troutman said.
+### OTHER on 2025-05-21 12:29
+- Location: Demilked.com
+- Description: People expose dirty company secrets they can finally talk about now they don’t work there anymore.
+The post Ex-Workers Expose 35 Shady Secrets Companies Don’t Want The Public To Know appeared first on DeMilked.
 
-Analysis generated at: Thu May 22 12:28:57 UTC 2025
+Analysis generated at: Thu May 22 12:48:52 UTC 2025
