@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu May 22 06:20:56 UTC 2025
+Last updated: Thu May 22 12:28:57 UTC 2025
 
 ## Latest Analysis
 
-Loaded 33601 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-21 06:09:39
+Loaded 33673 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-21 12:27:51
 
 Incidents by source:
 source
-newsapi           33500
+newsapi           33572
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,30 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-05-21 06:09
-- Location: MediaNama.com
-- Description: BOS IPTV pirated Rs 700 Cr of JioHotstar content using hacked set-top boxes. Here's how the racket was busted.
-The post How Illegal IPTV Streaming Pirated Rs 700 Crore Worth of JioHotstar Content appeared first on MEDIANAMA.
+### ROBBERY/THEFT on 2025-05-21 12:27
+- Location: PhoneArena
+- Description: The 'stolen iPhone building' is real, and your lost device might've passed through it.
 
 
-### OTHER on 2025-05-21 06:09
-- Location: Mypeoplesreview.com
-- Description: By P.R. Pradhan Dirty people in politics Politics has become synonymous with a club of dirty people in Nepal. Talking […]
-The post On/Off the Record: Dirty people in politics appeared first on Peoples' Review.
+### OTHER on 2025-05-21 12:19
+- Location: The Jerusalem Post
+- Description: The male minors formed a group, styling itself as the "last wave of defense" to protect the "German nation."
 
 
-### OTHER on 2025-05-21 06:00
-- Location: NDTV News
-- Description: A millennial couple purchased a 145-year-old property in the United Kingdom and were petrified by what they discovered underneath it.
+### OTHER on 2025-05-21 12:12
+- Location: HackRead
+- Description: The world we live in is packed with data. Texts, emails, social media posts, deleted files, you name…
 
 
-### HOMICIDE on 2025-05-21 05:52
-- Location: Newsonjapan.com
-- Description: Following what appears to be a violent domestic incident, the bodies of a man and a woman were found inside a residence in Ikeda City, Osaka Prefecture, with a five-year-old girl discovered alive but suffering from stab wounds to her back. Authorities believe…
+### HOMICIDE on 2025-05-21 12:09
+- Location: EURACTIV
+- Description: Andriy Portnov was a senior aide to Ukraine's pro-Russian former President Viktor Yanukovich.
 
 
-### OTHER on 2025-05-21 05:29
-- Location: New York Post
-- Description: The fifth of 10 inmate escapees who fled a New Orleans jail has been recaptured, authorities said Tuesday.
+### ROBBERY/THEFT on 2025-05-21 12:01
+- Location: WSOC Charlotte
+- Description: A juvenile and a woman were charged for allegedly stealing a flag from the Walk of Heroes display on the Richardson Greenway, police in Troutman said.
 
-Analysis generated at: Thu May 22 06:20:56 UTC 2025
+Analysis generated at: Thu May 22 12:28:57 UTC 2025
