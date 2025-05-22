@@ -1,10 +1,10 @@
 
-Loaded 33565 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-21 01:52:38
+Loaded 33601 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-21 06:09:39
 
 Incidents by source:
 source
-newsapi           33464
+newsapi           33500
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-05-21 01:52
-- Location: Thechronicle.com.gh
-- Description: Some youths in Ibadan on Tuesday protested at Oyo State Government Secretariat over the killing of a student by a stray bullet allegedly fired by a policeman. The student, said to be writing the ongoing West African Examinations Council (WAEC) was hit by the …
+### OTHER on 2025-05-21 06:09
+- Location: MediaNama.com
+- Description: BOS IPTV pirated Rs 700 Cr of JioHotstar content using hacked set-top boxes. Here's how the racket was busted.
+The post How Illegal IPTV Streaming Pirated Rs 700 Crore Worth of JioHotstar Content appeared first on MEDIANAMA.
 
 
-### HOMICIDE on 2025-05-21 01:48
+### OTHER on 2025-05-21 06:09
+- Location: Mypeoplesreview.com
+- Description: By P.R. Pradhan Dirty people in politics Politics has become synonymous with a club of dirty people in Nepal. Talking […]
+The post On/Off the Record: Dirty people in politics appeared first on Peoples' Review.
+
+
+### OTHER on 2025-05-21 06:00
 - Location: NDTV News
-- Description: An Indian origin entrepreneur was fatally stabbed by another Indian man in a public bus in Texas, United States, police said.
+- Description: A millennial couple purchased a 145-year-old property in the United Kingdom and were petrified by what they discovered underneath it.
 
 
-### OTHER on 2025-05-21 01:34
-- Location: Globalsecurity.org
-- Description: Following are UN Secretary-General António Guterres' remarks to the Security Council high-level open debate on maritime security, in New York today:
+### HOMICIDE on 2025-05-21 05:52
+- Location: Newsonjapan.com
+- Description: Following what appears to be a violent domestic incident, the bodies of a man and a woman were found inside a residence in Ikeda City, Osaka Prefecture, with a five-year-old girl discovered alive but suffering from stab wounds to her back. Authorities believe…
 
 
-### HOMICIDE on 2025-05-21 01:30
-- Location: Independent.ie
-- Description: Planning a night on the couch? Here are today’s top TV and streaming picks:
+### OTHER on 2025-05-21 05:29
+- Location: New York Post
+- Description: The fifth of 10 inmate escapees who fled a New Orleans jail has been recaptured, authorities said Tuesday.
 
-
-### HOMICIDE on 2025-05-21 01:21
-- Location: HuffPost
-- Description: One of the gunshot wounds appears to be self-inflicted, a preliminary autopsy showed.
-
-Analysis generated at: Thu May 22 01:53:15 UTC 2025
+Analysis generated at: Thu May 22 06:20:56 UTC 2025
