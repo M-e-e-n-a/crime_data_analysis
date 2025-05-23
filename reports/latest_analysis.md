@@ -1,10 +1,10 @@
 
-Loaded 33973 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-22 12:44:35
+Loaded 34066 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-22 18:14:39
 
 Incidents by source:
 source
-newsapi           33872
+newsapi           33965
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-05-22 12:44
-- Location: The-independent.com
-- Description: Being scammed can significantly impact mental health, leading to feelings of anxiety, shame and a loss of trust.
+### HOMICIDE on 2025-05-22 18:14
+- Location: CBC News
+- Description: Prosecutors have abandoned their appeals in the cases of two men who were acquitted of conspiring to murder police officers amid the 2022 Coutts border blockade.
 
 
-### HOMICIDE on 2025-05-22 12:43
-- Location: BBC News
-- Description: Kayden, age 16 from East Kilbride, died after a large disturbance on Irvine beach on Saturday evening.
+### OTHER on 2025-05-22 18:14
+- Location: Time
+- Description: "There are so many moments where legitimate criticism of Israel and its conduct of the war has crossed the line into antisemitism."
 
 
-### OTHER on 2025-05-22 12:42
-- Location: Breitbart News
-- Description: The U.S. Department of the Treasury announced the targeting of two key leaders of the terrorist organization known as the Cartel Del Noreste faction of Los Zetas. The move freezes all properties and assets of those two individuals and prohibits any U.S. compa…
+### HOMICIDE on 2025-05-22 18:12
+- Location: NPR
+- Description: Two staff members of the Israeli Embassy in Washington, D.C. were killed in a shooting after attending an event a Jewish museum. A suspect shouted "free Palestine" before being taken into custody.
 
 
-### HOMICIDE on 2025-05-22 12:41
-- Location: Raw Story
-- Description: CNN's Sara Sidner pushed back on a witness to the deadly shooting outside Israel's embassy who blamed the murders on campus protesters.The suspect shouted "free, free Palestine" while in police custody after the deadly shooting of embassy staffers Yaron Lisch…
+### OTHER on 2025-05-22 18:11
+- Location: New York Post
+- Description: Johnelle Beckum, 44 – who has 14 prior busts -- is accused of groping two girls, 17 and 14, as well as a 55-year-old woman, and masturbating in front of another woman, 44, during a sickening May 14 spree that spanned two-and-a-half hours across Park Slope, co…
 
 
-### OTHER on 2025-05-22 12:39
-- Location: Thefutoncritic.com
-- Description: Other highlights include "Johanna Möller - Sweden's Most Hated Woman" on Thursday, July 10.
+### HOMICIDE on 2025-05-22 18:05
+- Location: Forbes
+- Description: When Kim's character can't remember what she did at a murder scene, the detective played by Son Suk-ku, assumes she is the killer.
 
-Analysis generated at: Fri May 23 12:46:25 UTC 2025
+Analysis generated at: Fri May 23 18:18:34 UTC 2025
