@@ -1,10 +1,10 @@
 
-Loaded 33776 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-22 01:00:00
+Loaded 33786 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-22 01:48:41
 
 Incidents by source:
 source
-newsapi           33675
+newsapi           33685
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,42 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-05-22 01:00
-- Location: Human Rights Watch
-- Description: Click to expand Image
- 
+### HOMICIDE on 2025-05-22 01:48
+- Location: ABC News (AU)
+- Description: Erin Patterson is charged with murdering three relatives by serving them a beef Wellington meal that contained death cap mushrooms. Follow the trial live.
 
 
-
- 
- 
- 
-
- 
- 
- 
- 
- Members of Bangladesh’s paramilitary Rapid Action Battalion or RAB, a unit which is accused of enforced disappearances, stand guard in the capital Dhaka, January 7, 2024.
- © 2024 Sazzad Hossain / SOPA Images/Sipa USA…
+### HOMICIDE on 2025-05-22 01:43
+- Location: NBC4 Washington
+- Description: A man and woman were shot and killed in front of the Capital Jewish Museum in Northwest D.C. Wednesday evening. The victims were Israeli Embassy staffers,…
 
 
-### OTHER on 2025-05-22 00:43
-- Location: Freerepublic.com
-- Description: COLORADO SPRINGS, Colo. (KKTV) - A federal trial started in Denver on Monday for two people accused of staging a burning cross and defacing a campaign sign to allegedly boost attention around a then-candidate’s race for office. Leading up to the 2023 Colorado…
+### OTHER on 2025-05-22 01:40
+- Location: Bleeding Cool News
+- Description: With showrunners Aaron B. Koontz and Luke Boyce's adaptation of writer Tim Seeley and artist Mike Norton's Image Comics series Revival set to hit screens on June 12th, we're getting a chance to hear from the amazing Melanie Scrofano. Constantly having to prov…
 
 
-### HOMICIDE on 2025-05-22 00:32
-- Location: Fox News
-- Description: Two students, Kelsie Martin and Hallie Helms, died in a suspected murder-suicide at University of Wisconsin-Platteville's Wilgus Hall following graduation.
+### HOMICIDE on 2025-05-22 01:30
+- Location: Independent.ie
+- Description: The chief suspect for the murder of Kerry farmer Mike Gaine has insisted that he had nothing to do with his death.
 
 
-### HOMICIDE on 2025-05-22 00:30
-- Location: Radaronline.com
-- Description: 'Cheers' was one of the most popular shows NBC had to offer in the 1980s, but behind the scenes, plenty of chaos and drama was going down with the cast.
+### OTHER on 2025-05-22 01:30
+- Location: Independent.ie
+- Description: Planning a night on the couch? Here are today’s top TV and streaming picks:
 
-
-### OTHER on 2025-05-22 00:27
-- Location: CBC News
-- Description: New details have emerged about the chaotic scene at a downtown Halifax bar the night Dartmouth battle rapper Pat Stay was fatally stabbed. Some of the information came from police who were already in the bar when the incident occurred.
-
-Analysis generated at: Fri May 23 01:07:55 UTC 2025
+Analysis generated at: Fri May 23 01:52:58 UTC 2025
