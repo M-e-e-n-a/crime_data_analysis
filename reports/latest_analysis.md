@@ -1,10 +1,10 @@
 
-Loaded 33786 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-22 01:48:41
+Loaded 33876 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-22 06:15:38
 
 Incidents by source:
 source
-newsapi           33685
+newsapi           33775
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-05-22 01:48
-- Location: ABC News (AU)
-- Description: Erin Patterson is charged with murdering three relatives by serving them a beef Wellington meal that contained death cap mushrooms. Follow the trial live.
+### HOMICIDE on 2025-05-22 06:15
+- Location: WSB Atlanta
+- Description: Atlanta police released new video on Wednesday of the person they are looking for as a “person of interest” in the murder of a Georgia Tech student on Sunday at The Connector Apartments on Spring Street.
 
 
-### HOMICIDE on 2025-05-22 01:43
-- Location: NBC4 Washington
-- Description: A man and woman were shot and killed in front of the Capital Jewish Museum in Northwest D.C. Wednesday evening. The victims were Israeli Embassy staffers,…
+### OTHER on 2025-05-22 06:12
+- Location: New York Post
+- Description: “But I don’t regret f—king in the Senate. I would come in nine hours a day, sit there bored out of my f—king mind. So yeah, I’m going to entertain myself and f–k in a room,” Maese-Czeropski said.…
 
 
-### OTHER on 2025-05-22 01:40
-- Location: Bleeding Cool News
-- Description: With showrunners Aaron B. Koontz and Luke Boyce's adaptation of writer Tim Seeley and artist Mike Norton's Image Comics series Revival set to hit screens on June 12th, we're getting a chance to hear from the amazing Melanie Scrofano. Constantly having to prov…
+### HOMICIDE on 2025-05-22 06:12
+- Location: Rolling Stone
+- Description: Two staff members from the Israeli embassy in Washington, D.C. were shot and killed on Wednesday night while leaving the Capital Jewish Museum.
 
 
-### HOMICIDE on 2025-05-22 01:30
-- Location: Independent.ie
-- Description: The chief suspect for the murder of Kerry farmer Mike Gaine has insisted that he had nothing to do with his death.
+### ASSAULT on 2025-05-22 06:07
+- Location: The Local Germany
+- Description: Germany moves forward with plans to station troops in Lithuania, AfD members fail to be elected to lead parliamentary committees, Bielefeld attacker voiced extremist Islamist beliefs and more news on Thursday, May 22nd.
 
 
-### OTHER on 2025-05-22 01:30
-- Location: Independent.ie
-- Description: Planning a night on the couch? Here are today’s top TV and streaming picks:
+### SHOOTING on 2025-05-22 06:06
+- Location: The Times of India
+- Description: Russian-American YouTuber Vitaly Zdorovetskiy faces serious legal trouble in the Philippines after his arrest in April for allegedly harassing Filipinos during a shoot in Bonifacio Global City. Declared an "undesirable" foreign national, he faces charges incl…
 
-Analysis generated at: Fri May 23 01:52:58 UTC 2025
+Analysis generated at: Fri May 23 06:20:26 UTC 2025
