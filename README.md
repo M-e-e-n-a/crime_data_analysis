@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu May 22 18:19:37 UTC 2025
+Last updated: Fri May 23 01:07:55 UTC 2025
 
 ## Latest Analysis
 
-Loaded 33768 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-21 18:14:09
+Loaded 33776 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-22 01:00:00
 
 Incidents by source:
 source
-newsapi           33667
+newsapi           33675
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,42 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-05-21 18:14
-- Location: New York Post
-- Description: Aloysius Kenneth Johnson, who has a previous DUI conviction, was “trying to beat" his wife home from the bar when he crashed, killing 72-year-old Alice Marie Stack, according to a criminal complaint.
+### OTHER on 2025-05-22 01:00
+- Location: Human Rights Watch
+- Description: Click to expand Image
+ 
 
 
-### SHOOTING on 2025-05-21 18:04
-- Location: Hip-Hop Wired
-- Description: Rod Wave was arrested in Fulton County, Georgia, on May 20, 2025, facing a slew of serious charges tied to an incident from a month earlier.
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Members of Bangladesh’s paramilitary Rapid Action Battalion or RAB, a unit which is accused of enforced disappearances, stand guard in the capital Dhaka, January 7, 2024.
+ © 2024 Sazzad Hossain / SOPA Images/Sipa USA…
 
 
-### HOMICIDE on 2025-05-21 18:02
+### OTHER on 2025-05-22 00:43
 - Location: Freerepublic.com
-- Description: Migrants deported to South Sudan by Donald Trump include murderers and sexual abusers, the Daily Mail can reveal. The latest deportations come as a federal judge ruled U.S. officials must retain custody and control of the migrants in case he orders in the fut…
+- Description: COLORADO SPRINGS, Colo. (KKTV) - A federal trial started in Denver on Monday for two people accused of staging a burning cross and defacing a campaign sign to allegedly boost attention around a then-candidate’s race for office. Leading up to the 2023 Colorado…
 
 
-### OTHER on 2025-05-21 18:01
-- Location: Wnd.com
-- Description: 'We didn't put a crack in the glass ceiling, we shattered it'
+### HOMICIDE on 2025-05-22 00:32
+- Location: Fox News
+- Description: Two students, Kelsie Martin and Hallie Helms, died in a suspected murder-suicide at University of Wisconsin-Platteville's Wilgus Hall following graduation.
 
 
-### OTHER on 2025-05-21 18:00
-- Location: Bitcoinist
-- Description: XRP is about to start drawing a fresh wave of attention from institutional investors, following a major update that reflects the token’s growing relevance in the crypto market. The latest milestone involves the listing of XRP and Micro XRP futures on the CME …
+### HOMICIDE on 2025-05-22 00:30
+- Location: Radaronline.com
+- Description: 'Cheers' was one of the most popular shows NBC had to offer in the 1980s, but behind the scenes, plenty of chaos and drama was going down with the cast.
 
-Analysis generated at: Thu May 22 18:19:37 UTC 2025
+
+### OTHER on 2025-05-22 00:27
+- Location: CBC News
+- Description: New details have emerged about the chaotic scene at a downtown Halifax bar the night Dartmouth battle rapper Pat Stay was fatally stabbed. Some of the information came from police who were already in the bar when the incident occurred.
+
+Analysis generated at: Fri May 23 01:07:55 UTC 2025
