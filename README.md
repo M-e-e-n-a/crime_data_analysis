@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat May 24 01:48:49 UTC 2025
+Last updated: Sat May 24 06:18:06 UTC 2025
 
 ## Latest Analysis
 
-Loaded 34086 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-23 01:42:34
+Loaded 34131 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-23 06:11:03
 
 Incidents by source:
 source
-newsapi           33985
+newsapi           34030
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-05-23 01:42
-- Location: Freerepublic.com
-- Description: A woman was shot outside of CIA headquarters in McLean, Virginia, early Thursday after she crashed into a gate, authorities say. She was shot by security guards, a person familiar with the matter told NBC News. The shooting is “non-fatal,” police said, and an…
+### OTHER on 2025-05-23 06:11
+- Location: Yahoo Entertainment
+- Description: HANOI (Reuters) -Vietnam's technology ministry has instructed telecommunication service providers to block the messaging app Telegram for not cooperating in ...
 
 
-### HOMICIDE on 2025-05-23 01:42
-- Location: Actionnews5.com
-- Description: Officers with the Bartlett Police Department shot and killed a man armed with a knife outside the Lowe’s in the Wolfchase area on Thursday.
+### SHOOTING on 2025-05-23 06:05
+- Location: The Local Germany
+- Description: Chancellor Merz condemns 'heinous' shooting in Washington D.C., the German government reverses the country's long held opposition to nuclear power, business sentiment improves slights and more news on Friday, May 23rd.
 
 
-### OTHER on 2025-05-23 01:30
-- Location: Independent.ie
-- Description: Planning a night on the couch? Here are today’s top TV and streaming picks:
+### HOMICIDE on 2025-05-23 06:02
+- Location: Israelnationalnews.com
+- Description: Interim U.S. Attorney for D.C. Jeanine Pirro announces that the suspect in the murder of 2 Israeli diplomats could face the death penalty if convicted.
 
 
-### OTHER on 2025-05-23 01:30
-- Location: Independent.ie
-- Description: I feel I must ­comment on the recent nonsensical comments regarding holiday homes.
+### HOMICIDE on 2025-05-23 06:01
+- Location: People.cn
+- Description: WASHINGTON, May 23 (Xinhua) -- The U.S. Department of Justice on Thursday filed criminal charges aga
 
 
-### OTHER on 2025-05-23 01:16
-- Location: Globalsecurity.org
-- Description: The OSCE Programme Office in Dushanbe conducted two specialized practical training courses from 12 to 16 May and from 19 to 22 May 2025 focused on strengthening cybersecurity measures in Tajikistan.
+### HOMICIDE on 2025-05-23 06:00
+- Location: New York Post
+- Description: Two young Israeli Embassy staffers who were set to be engaged were killed outside an event at the Capital Jewish Museum in Washington, DC, on Wednesday night.
 
-Analysis generated at: Sat May 24 01:48:49 UTC 2025
+Analysis generated at: Sat May 24 06:18:06 UTC 2025
