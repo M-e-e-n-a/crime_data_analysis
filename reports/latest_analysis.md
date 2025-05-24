@@ -1,10 +1,10 @@
 
-Loaded 34081 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-23 01:04:20
+Loaded 34086 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-23 01:42:34
 
 Incidents by source:
 source
-newsapi           33980
+newsapi           33985
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-05-23 01:04
-- Location: Typepad.com
-- Description: You may have heard that George Wendt died on Tuesday. Of mainly Irish descent despite his German name, Wendt played the everyman character "Norm Peterson" on Cheers, the long-running sitcom of the 1980s and early '90s. At some point along...     Related Stori…
-
-
-### OTHER on 2025-05-23 00:56
-- Location: OregonLive
-- Description: Gov. Tina Kotek's office cites budget constraints in refusing to bring former Eugene Weekly bookkeeper back to face felony charges.
-
-
-### HOMICIDE on 2025-05-23 00:45
-- Location: Reason
-- Description: Some short excerpts from yesterday's long opinion in State v. Darraji (Wash. App.), written by Judge Tracy Staab and joined…
-The post Washington Court Holds (2-1) Prosecutors Didn't Improperly "Play[] into Religious or Cultural Prejudices" in Trial of Iraqi I…
-
-
-### OTHER on 2025-05-23 00:42
+### SHOOTING on 2025-05-23 01:42
 - Location: Freerepublic.com
-- Description: The Trump administration “unquestionably” violated a court order when it put eight migrants with violent criminal convictions onto a flight to South Sudan, a Biden-nominated federal judge ruled Wednesday. US District Judge Brian Murphy, who was nominated to t…
+- Description: A woman was shot outside of CIA headquarters in McLean, Virginia, early Thursday after she crashed into a gate, authorities say. She was shot by security guards, a person familiar with the matter told NBC News. The shooting is “non-fatal,” police said, and an…
 
 
-### OTHER on 2025-05-23 00:38
-- Location: ABC News (AU)
-- Description: The mother of missing Bundaberg teenager Pheobe Bishop says the "numbness" the family is feeling is "eating at us", as police continue their investigation.
+### HOMICIDE on 2025-05-23 01:42
+- Location: Actionnews5.com
+- Description: Officers with the Bartlett Police Department shot and killed a man armed with a knife outside the Lowe’s in the Wolfchase area on Thursday.
 
-Analysis generated at: Sat May 24 01:05:21 UTC 2025
+
+### OTHER on 2025-05-23 01:30
+- Location: Independent.ie
+- Description: Planning a night on the couch? Here are today’s top TV and streaming picks:
+
+
+### OTHER on 2025-05-23 01:30
+- Location: Independent.ie
+- Description: I feel I must ­comment on the recent nonsensical comments regarding holiday homes.
+
+
+### OTHER on 2025-05-23 01:16
+- Location: Globalsecurity.org
+- Description: The OSCE Programme Office in Dushanbe conducted two specialized practical training courses from 12 to 16 May and from 19 to 22 May 2025 focused on strengthening cybersecurity measures in Tajikistan.
+
+Analysis generated at: Sat May 24 01:48:49 UTC 2025
