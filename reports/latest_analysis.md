@@ -1,10 +1,10 @@
 
-Loaded 34066 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-22 18:14:39
+Loaded 34081 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-23 01:04:20
 
 Incidents by source:
 source
-newsapi           33965
+newsapi           33980
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-05-22 18:14
-- Location: CBC News
-- Description: Prosecutors have abandoned their appeals in the cases of two men who were acquitted of conspiring to murder police officers amid the 2022 Coutts border blockade.
+### OTHER on 2025-05-23 01:04
+- Location: Typepad.com
+- Description: You may have heard that George Wendt died on Tuesday. Of mainly Irish descent despite his German name, Wendt played the everyman character "Norm Peterson" on Cheers, the long-running sitcom of the 1980s and early '90s. At some point along...     Related Stori…
 
 
-### OTHER on 2025-05-22 18:14
-- Location: Time
-- Description: "There are so many moments where legitimate criticism of Israel and its conduct of the war has crossed the line into antisemitism."
+### OTHER on 2025-05-23 00:56
+- Location: OregonLive
+- Description: Gov. Tina Kotek's office cites budget constraints in refusing to bring former Eugene Weekly bookkeeper back to face felony charges.
 
 
-### HOMICIDE on 2025-05-22 18:12
-- Location: NPR
-- Description: Two staff members of the Israeli Embassy in Washington, D.C. were killed in a shooting after attending an event a Jewish museum. A suspect shouted "free Palestine" before being taken into custody.
+### HOMICIDE on 2025-05-23 00:45
+- Location: Reason
+- Description: Some short excerpts from yesterday's long opinion in State v. Darraji (Wash. App.), written by Judge Tracy Staab and joined…
+The post Washington Court Holds (2-1) Prosecutors Didn't Improperly "Play[] into Religious or Cultural Prejudices" in Trial of Iraqi I…
 
 
-### OTHER on 2025-05-22 18:11
-- Location: New York Post
-- Description: Johnelle Beckum, 44 – who has 14 prior busts -- is accused of groping two girls, 17 and 14, as well as a 55-year-old woman, and masturbating in front of another woman, 44, during a sickening May 14 spree that spanned two-and-a-half hours across Park Slope, co…
+### OTHER on 2025-05-23 00:42
+- Location: Freerepublic.com
+- Description: The Trump administration “unquestionably” violated a court order when it put eight migrants with violent criminal convictions onto a flight to South Sudan, a Biden-nominated federal judge ruled Wednesday. US District Judge Brian Murphy, who was nominated to t…
 
 
-### HOMICIDE on 2025-05-22 18:05
-- Location: Forbes
-- Description: When Kim's character can't remember what she did at a murder scene, the detective played by Son Suk-ku, assumes she is the killer.
+### OTHER on 2025-05-23 00:38
+- Location: ABC News (AU)
+- Description: The mother of missing Bundaberg teenager Pheobe Bishop says the "numbness" the family is feeling is "eating at us", as police continue their investigation.
 
-Analysis generated at: Fri May 23 18:18:34 UTC 2025
+Analysis generated at: Sat May 24 01:05:21 UTC 2025
