@@ -1,10 +1,10 @@
 
-Loaded 34222 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-23 12:39:29
+Loaded 34314 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-23 18:12:23
 
 Incidents by source:
 source
-newsapi           34121
+newsapi           34213
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-05-23 12:39
-- Location: Globalresearch.ca
-- Description: Just as Nazi Germany sought the total elimination of Jewish life, the state of Israel, with full U.S. support, is now openly pursuing the systematic annihilation of the people of Gaza, the acceleration of mass displacement in the West Bank, …
-The post Black A…
+### OTHER on 2025-05-23 18:12
+- Location: New York Post
+- Description: As authorities scour New Orleans for escapees from an audacious jailbreak, they are also confronting entrenched mistrust in law enforcement and the criminal justice system.
 
 
-### ROBBERY/THEFT on 2025-05-23 12:37
-- Location: BBC News
-- Description: Prosecutors are seeking the toughest jail terms of 10 years for the four men accused of carrying out the robbery.
+### SHOOTING on 2025-05-23 18:10
+- Location: The Root
+- Description: Screenshot: BNO News on X
+It looks like we’re down to just five of the 10 escaped inmates still on the loose from a New Orleans jail. The planned escape is the biggest in Louisiana history, and Americans are watching the aftermath play out.The mayhem first e…
 
 
-### OTHER on 2025-05-23 12:36
-- Location: The Irish Times
-- Description: Suspected criminal assets worth more than €20,000 also seized
+### OTHER on 2025-05-23 18:08
+- Location: Deadline
+- Description: Few minds could be less masterly, you might think, than the stoner sponge between the ears of J.B. (Josh O’Connor), who, in Kelly Reichardt’s Cannes-closer The Mastermind, conceives a plan to steal four paintings from the art gallery that is the chief weekend…
 
 
-### HOMICIDE on 2025-05-23 12:33
-- Location: Freerepublic.com
-- Description: On Wednesday night, two young staffers from the Israeli Embassy who were set to become engaged, were murdered. The suspect in custody, Elias Rodriguez, was heard yelling "Free Palestine" and also had a keffiyeh. Out of such a tragedy, that this is not good lo…
+### ASSAULT on 2025-05-23 17:56
+- Location: fox6now.com
+- Description: The Waukesha Police Department is investigating a “large-scale physical altercation" that occurred on Thursday, May 22 at the Oak Hill Terrace Senior Living Center.
 
 
-### HOMICIDE on 2025-05-23 12:30
-- Location: Freethoughtblogs.com
-- Description: The Probability Broach, chapter 4 Win has found some enigmatic clues in Vaughn Meiss’ office, but nothing conclusive. He goes into the next room, which is the dead scientist’s laboratory: Vaughn Meiss’s lab made all the stereotypes come true. Remember The Fly…
+### OTHER on 2025-05-23 17:56
+- Location: fox6now.com
+- Description: West Milwaukee police are asking for the public's help to locate a missing 14-year-old girl.
 
-Analysis generated at: Sat May 24 12:41:42 UTC 2025
+Analysis generated at: Sat May 24 18:17:35 UTC 2025
