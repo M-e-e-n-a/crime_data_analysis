@@ -1,10 +1,10 @@
 
-Loaded 34131 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-23 06:11:03
+Loaded 34216 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-23 12:24:31
 
 Incidents by source:
 source
-newsapi           34030
+newsapi           34115
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-05-23 06:11
-- Location: Yahoo Entertainment
-- Description: HANOI (Reuters) -Vietnam's technology ministry has instructed telecommunication service providers to block the messaging app Telegram for not cooperating in ...
+### OTHER on 2025-05-23 12:24
+- Location: Mother Jones
+- Description: In early April, Tracy Baton helped organize a “Hands Off!” rally protesting President Donald Trump in downtown Pittsburgh that was attended by more than 6,000 people. But she wasn’t just angry at the president—she was also incensed by her state’s Democratic s…
 
 
-### SHOOTING on 2025-05-23 06:05
-- Location: The Local Germany
-- Description: Chancellor Merz condemns 'heinous' shooting in Washington D.C., the German government reverses the country's long held opposition to nuclear power, business sentiment improves slights and more news on Friday, May 23rd.
+### HOMICIDE on 2025-05-23 12:21
+- Location: International Business Times
+- Description: South Africa does not face a "white genocide" and claims that most victims of murders on farms are white are a distortion of statistics, the police minister said Friday, dismissing statements by US President Donald Trump.
 
 
-### HOMICIDE on 2025-05-23 06:02
+### HOMICIDE on 2025-05-23 12:05
+- Location: Jewishnews.co.uk
+- Description: Yaron Lischinsky and Sarah Lynn Milgram, due to get engaged next week, were shot outside a Jewish museum by a man shouting, “Free Palestine”
+
+
+### HOMICIDE on 2025-05-23 12:02
 - Location: Israelnationalnews.com
-- Description: Interim U.S. Attorney for D.C. Jeanine Pirro announces that the suspect in the murder of 2 Israeli diplomats could face the death penalty if convicted.
+- Description: More than 1,000 cyclists from across Israel completed the annual memorial bike ride honoring Yitzhak Bunish, the Hebron security officer killed in a terrorist shooting at the Worshippers' Path 22 years ago.
 
 
-### HOMICIDE on 2025-05-23 06:01
-- Location: People.cn
-- Description: WASHINGTON, May 23 (Xinhua) -- The U.S. Department of Justice on Thursday filed criminal charges aga
+### SHOOTING on 2025-05-23 12:00
+- Location: Fox News
+- Description: Rep. Ilhan Omar, D-Minn., said the U.S. should be “more fearful of white men" amid threats from domestic terrorism in 2018. She recently came under attack for walking away from reporters asking her to condemn the shooting of two Israeli Embassy employees.
 
-
-### HOMICIDE on 2025-05-23 06:00
-- Location: New York Post
-- Description: Two young Israeli Embassy staffers who were set to be engaged were killed outside an event at the Capital Jewish Museum in Washington, DC, on Wednesday night.
-
-Analysis generated at: Sat May 24 06:18:06 UTC 2025
+Analysis generated at: Sat May 24 12:24:54 UTC 2025
