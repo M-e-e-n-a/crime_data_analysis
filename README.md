@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun May 25 02:01:48 UTC 2025
+Last updated: Sun May 25 06:18:36 UTC 2025
 
 ## Latest Analysis
 
-Loaded 34323 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-24 01:46:57
+Loaded 34348 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-24 06:13:00
 
 Incidents by source:
 source
-newsapi           34222
+newsapi           34247
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-05-24 01:46
-- Location: BBC News
-- Description: The Irish-language hip-hop trio play their biggest ever festival headline slot in south London.
+### OTHER on 2025-05-24 06:13
+- Location: The Japan Times
+- Description: The boy allegedly conspired with other suspects to defraud a man from Mie Prefecture who was on a business trip to the U.S. state of Oregon.
 
 
-### HOMICIDE on 2025-05-24 01:15
-- Location: Freerepublic.com
-- Description: An argument over a food order at a Florida Checkers restaurant ended in shooting and one man dead, deputies said. A Checkers employee allegedly shot and killed a customer during an argument over the customer's food. The Checkers employee was arrested and book…
+### HOMICIDE on 2025-05-24 06:01
+- Location: Protothema.gr
+- Description: A 48-year-old woman was found dead in her home by her son – Authorities suspect she was strangled – Evidence suggests she fought her killer before dying
+The post Thriller over dead woman in Nea Chalkidona – authorities suspect foul play, searching for key per…
 
 
-### OTHER on 2025-05-24 01:06
-- Location: Snopes.com
-- Description: Some of the purported visual evidence didn't even come from South Africa.
+### HOMICIDE on 2025-05-24 05:57
+- Location: The Times of India
+- Description: Former Minneapolis Police Chief Medaria Arradondo reflects on the profound impact of George Floyd's murder five years later, a defining moment in his 32-year career. Arradondo recalls the gut-wrenching video and the subsequent unrest, including the decision t…
 
 
-### OTHER on 2025-05-24 01:02
-- Location: Fox News
-- Description: New Orleans police arrested Emmitt Weber for allegedly helping inmates escape. Five fugitives, including those with serious charges, are still on the run.
+### HOMICIDE on 2025-05-24 05:20
+- Location: The Times of India
+- Description: Navi Mumbai: Over a month after dismissed decorated police inspector Abhay Kurundkar was sentenced to life imprisonment for murdering assistant police.
 
 
-### HOMICIDE on 2025-05-24 00:36
-- Location: CBS News
-- Description: It's been five years since the murder of George Floyd sparked a national conversation on race and police reform. Civil rights attorney Ben Crump joins to discuss.
+### OTHER on 2025-05-24 05:07
+- Location: Bangkok Post
+- Description: The Supreme Court stepping in to investigate the alleged unlawful enforcement of former premier Thaksin Shinawatra's prison term looks certain to result in some nasty consequences for agencies connected to the correctional procedures in the case.
 
-Analysis generated at: Sun May 25 02:01:48 UTC 2025
+Analysis generated at: Sun May 25 06:18:36 UTC 2025
