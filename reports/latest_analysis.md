@@ -1,10 +1,10 @@
 
-Loaded 34396 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-24 12:23:41
+Loaded 34397 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-24 12:33:00
 
 Incidents by source:
 source
-newsapi           34295
+newsapi           34296
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -19,6 +19,11 @@ bution.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### ROBBERY/THEFT on 2025-05-24 12:33
+- Location: CinemaBlend
+- Description: Acting robotic has never been better.
+
 
 ### OTHER on 2025-05-24 12:23
 - Location: Realclearbooks.com
@@ -39,9 +44,4 @@ bution.svg)
 - Location: Reason
 - Description: Are human courts the best venue to protect wild animals?
 
-
-### HOMICIDE on 2025-05-24 12:03
-- Location: NBC News
-- Description: At the heart of the murder charge against Karen Read is the weapon prosecutors say she used to kill her boyfriend — her 2021 Lexus SUV.
-
-Analysis generated at: Sun May 25 12:24:57 UTC 2025
+Analysis generated at: Sun May 25 12:41:59 UTC 2025
