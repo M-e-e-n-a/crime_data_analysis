@@ -1,10 +1,10 @@
 
-Loaded 34321 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-24 01:06:00
+Loaded 34323 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-24 01:46:57
 
 Incidents by source:
 source
-newsapi           34220
+newsapi           34222
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,6 +20,16 @@ bution.svg)
 
 ## Recent Incidents
 
+### OTHER on 2025-05-24 01:46
+- Location: BBC News
+- Description: The Irish-language hip-hop trio play their biggest ever festival headline slot in south London.
+
+
+### HOMICIDE on 2025-05-24 01:15
+- Location: Freerepublic.com
+- Description: An argument over a food order at a Florida Checkers restaurant ended in shooting and one man dead, deputies said. A Checkers employee allegedly shot and killed a customer during an argument over the customer's food. The Checkers employee was arrested and book…
+
+
 ### OTHER on 2025-05-24 01:06
 - Location: Snopes.com
 - Description: Some of the purported visual evidence didn't even come from South Africa.
@@ -34,15 +44,4 @@ bution.svg)
 - Location: CBS News
 - Description: It's been five years since the murder of George Floyd sparked a national conversation on race and police reform. Civil rights attorney Ben Crump joins to discuss.
 
-
-### OTHER on 2025-05-24 00:29
-- Location: CBS News
-- Description: Linwood Riddick had never heard of the Orangeburg Massacre until a few years ago when he stumbled on a campus memorial at South Carolina State University. He says he knew right then what he had to do.
-
-
-### ASSAULT on 2025-05-24 00:18
-- Location: Washington Free Beacon
-- Description: A 20-year-old charged with hate crimes for allegedly assaulting three Jewish students had a stash of weapons, $750,000 in cash, and a phone filled with violent, anti-Semitic messages and pro-Hamas and pro-Hezbollah images, according to prosecutors.
-The post ‘…
-
-Analysis generated at: Sun May 25 01:14:16 UTC 2025
+Analysis generated at: Sun May 25 02:01:48 UTC 2025
