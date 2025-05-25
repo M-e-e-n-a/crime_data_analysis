@@ -1,10 +1,10 @@
 
-Loaded 34348 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-24 06:13:00
+Loaded 34396 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-24 12:23:41
 
 Incidents by source:
 source
-newsapi           34247
+newsapi           34295
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-05-24 06:13
-- Location: The Japan Times
-- Description: The boy allegedly conspired with other suspects to defraud a man from Mie Prefecture who was on a business trip to the U.S. state of Oregon.
+### OTHER on 2025-05-24 12:23
+- Location: Realclearbooks.com
+- Description: From the BQE she caught the holy hell of it, the way smoke was streaming from burning steel. It was cinema, bad fiction, a plot point dreamed up as too ridiculous for art and discarded somewhere else.
 
 
-### HOMICIDE on 2025-05-24 06:01
-- Location: Protothema.gr
-- Description: A 48-year-old woman was found dead in her home by her son – Authorities suspect she was strangled – Evidence suggests she fought her killer before dying
-The post Thriller over dead woman in Nea Chalkidona – authorities suspect foul play, searching for key per…
+### ASSAULT on 2025-05-24 12:17
+- Location: Sky.com
+- Description: A police officer is in a life-threatening condition in hospital after being seriously injured in a road traffic incident while on duty, Thames Valley Police has said.
 
 
-### HOMICIDE on 2025-05-24 05:57
-- Location: The Times of India
-- Description: Former Minneapolis Police Chief Medaria Arradondo reflects on the profound impact of George Floyd's murder five years later, a defining moment in his 32-year career. Arradondo recalls the gut-wrenching video and the subsequent unrest, including the decision t…
+### OTHER on 2025-05-24 12:10
+- Location: New York Post
+- Description: Former Gov. Andrew Cuomo is ripping entire chapters out of the playbook of the Democratic party's far left faction in his bid to become New York City’s next mayor, according to critics and review of his positions by The Post.
 
 
-### HOMICIDE on 2025-05-24 05:20
-- Location: The Times of India
-- Description: Navi Mumbai: Over a month after dismissed decorated police inspector Abhay Kurundkar was sentenced to life imprisonment for murdering assistant police.
+### OTHER on 2025-05-24 12:06
+- Location: Reason
+- Description: Are human courts the best venue to protect wild animals?
 
 
-### OTHER on 2025-05-24 05:07
-- Location: Bangkok Post
-- Description: The Supreme Court stepping in to investigate the alleged unlawful enforcement of former premier Thaksin Shinawatra's prison term looks certain to result in some nasty consequences for agencies connected to the correctional procedures in the case.
+### HOMICIDE on 2025-05-24 12:03
+- Location: NBC News
+- Description: At the heart of the murder charge against Karen Read is the weapon prosecutors say she used to kill her boyfriend — her 2021 Lexus SUV.
 
-Analysis generated at: Sun May 25 06:18:36 UTC 2025
+Analysis generated at: Sun May 25 12:24:57 UTC 2025
