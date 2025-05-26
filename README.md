@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon May 26 06:21:29 UTC 2025
+Last updated: Mon May 26 12:27:38 UTC 2025
 
 ## Latest Analysis
 
-Loaded 34514 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-25 06:20:38
+Loaded 34569 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-25 12:14:34
 
 Incidents by source:
 source
-newsapi           34413
+newsapi           34468
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-05-25 06:20
-- Location: WRAL.com
-- Description: The unsolved murder of LaToya Lawrence in Scotland Neck has taken a new turn. The State Bureau of Investigation is probing the local police's handling of the case nearly four years after her death.
+### HOMICIDE on 2025-05-25 12:14
+- Location: Biztoc.com
+- Description: Five years ago, the world watched a video of George Floyd, whose neck was pressed under the knee of a Minneapolis police officer, begging for his life.
 
 
-### HOMICIDE on 2025-05-25 06:20
-- Location: The Times of India
-- Description: In Khandwa district, a 45-year-old tribal woman tragically died after a brutal gangrape and torture incident. The woman was found severely injured in a neighbor's courtyard, with extreme sexual violence indicated by preliminary examinations. Police have arres…
+### HOMICIDE on 2025-05-25 12:12
+- Location: Slashdot.org
+- Description: George Floyd’s family fights for sacred ground where he took his last breath: ‘That’s my blood’The Guardian 5 Years After George Floyd’s Murder, the Backlash Takes HoldThe New York Times I was police chief when George Floyd was murdered. I chose conscience ov…
 
 
-### HOMICIDE on 2025-05-25 06:00
-- Location: Dramabeans.com
-- Description: Nine Puzzles follows a criminal profiler and a detective as they attempt to solve a string of murders that may or may not be linked. While our criminal profiler attempts to sniff out the killer, our detective harbors lingering suspicions that our profiler may…
+### ROBBERY/THEFT on 2025-05-25 12:12
+- Location: The Star Online
+- Description: JERTIH: A wireman was nabbed 45 minutes after robbing a 24-hour convenience store in Bandar Jertih here on Saturday (May 24). Read full story
 
 
-### OTHER on 2025-05-25 05:59
-- Location: 7NEWS.com.au
-- Description: Cadaver dogs brought in to help search for missing Bundaberg teenager Pheobe Bishop7news.com.au
+### OTHER on 2025-05-25 12:00
+- Location: CNET
+- Description: Don't fall for these common mistake beliefs about home safety. Here's why they're all wrong.
 
 
-### HOMICIDE on 2025-05-25 05:50
-- Location: Rlsbb.cc
-- Description: Four years earlier, the “Babes in the Wood” murders of schoolgirls Nicola Fellows and Karen Hadaway had shocked the nation. Despite the evidence, the killer Russell Bishop walked free – free to proclaim his innocence and, sickeningly, lead a hunt for the “rea…
+### HOMICIDE on 2025-05-25 12:00
+- Location: Politicalwire.com
+- Description: New York Times: “Sunday is the fifth anniversary of George Floyd’s murder by a Minneapolis police officer, a searing moment of brutality that ignited what may have been the largest social movement in U.S. history.
 
-Analysis generated at: Mon May 26 06:21:29 UTC 2025
+Analysis generated at: Mon May 26 12:27:38 UTC 2025
