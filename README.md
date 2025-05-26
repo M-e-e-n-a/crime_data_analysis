@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon May 26 01:56:49 UTC 2025
+Last updated: Mon May 26 06:21:29 UTC 2025
 
 ## Latest Analysis
 
-Loaded 34482 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-25 01:50:43
+Loaded 34514 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-25 06:20:38
 
 Incidents by source:
 source
-newsapi           34381
+newsapi           34413
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-05-25 01:50
-- Location: NBC News
-- Description: A man was arrested Friday after being accused of kidnapping an Italian tourist and torturing him for weeks inside a Manhattan home in a bid to steal the alleged victim’s Bitcoin.
+### HOMICIDE on 2025-05-25 06:20
+- Location: WRAL.com
+- Description: The unsolved murder of LaToya Lawrence in Scotland Neck has taken a new turn. The State Bureau of Investigation is probing the local police's handling of the case nearly four years after her death.
 
 
-### OTHER on 2025-05-25 01:39
-- Location: BBC News
-- Description: Lucy Connolly lost her appeal against her race-hate jail sentence, but is free speech under threat?
+### HOMICIDE on 2025-05-25 06:20
+- Location: The Times of India
+- Description: In Khandwa district, a 45-year-old tribal woman tragically died after a brutal gangrape and torture incident. The woman was found severely injured in a neighbor's courtyard, with extreme sexual violence indicated by preliminary examinations. Police have arres…
 
 
-### OTHER on 2025-05-25 01:30
-- Location: Crooksandliars.com
-- Description: Prosecutors in the case against Milwaukee Circuit Court Judge Hannah Dugan are still trying to win in the court of public opinion. The feds are accusing Dugan of obstructing federal agents who were at the Milwaukee County Courthouse to arrest Eduardo Flores-R…
+### HOMICIDE on 2025-05-25 06:00
+- Location: Dramabeans.com
+- Description: Nine Puzzles follows a criminal profiler and a detective as they attempt to solve a string of murders that may or may not be linked. While our criminal profiler attempts to sniff out the killer, our detective harbors lingering suspicions that our profiler may…
 
 
-### HOMICIDE on 2025-05-25 01:23
-- Location: Freerepublic.com
-- Description: The judge who oversaw the trial of Derek Chauvin has given an explosive interview as he spoke out for the first time in four years. Peter Cahill was in charge of proceedings in 2021, when jurors spent three weeks listening to testimony about the death of Geor…
+### OTHER on 2025-05-25 05:59
+- Location: 7NEWS.com.au
+- Description: Cadaver dogs brought in to help search for missing Bundaberg teenager Pheobe Bishop7news.com.au
 
 
-### ASSAULT on 2025-05-25 01:15
-- Location: Freerepublic.com
-- Description: It takes guts to walk around in a MAGA hat, what with all the liberal tolerance on display. Not even a 72-year-old gent is spared from the open-minded inclusiveness. From Florida: Laura Elizabeth Garrett, 33, was at Northeast Park and Paw Place located at 463…
+### HOMICIDE on 2025-05-25 05:50
+- Location: Rlsbb.cc
+- Description: Four years earlier, the “Babes in the Wood” murders of schoolgirls Nicola Fellows and Karen Hadaway had shocked the nation. Despite the evidence, the killer Russell Bishop walked free – free to proclaim his innocence and, sickeningly, lead a hunt for the “rea…
 
-Analysis generated at: Mon May 26 01:56:48 UTC 2025
+Analysis generated at: Mon May 26 06:21:29 UTC 2025
