@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon May 26 12:27:38 UTC 2025
+Last updated: Mon May 26 12:45:57 UTC 2025
 
 ## Latest Analysis
 
-Loaded 34569 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-25 12:14:34
+Loaded 34576 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-25 12:45:43
 
 Incidents by source:
 source
-newsapi           34468
+newsapi           34475
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-05-25 12:14
-- Location: Biztoc.com
-- Description: Five years ago, the world watched a video of George Floyd, whose neck was pressed under the knee of a Minneapolis police officer, begging for his life.
+### OTHER on 2025-05-25 12:45
+- Location: Securityaffairs.com
+- Description: A new round of the weekly Securitythe weekly Security Affairs newsletterAffairs newsletter arrived! Every week the best security articles from Security Affairs are free in your email box. Enjoy a new round of the weekly SecurityAffairs newsletter, including t…
 
 
-### HOMICIDE on 2025-05-25 12:12
-- Location: Slashdot.org
-- Description: George Floyd’s family fights for sacred ground where he took his last breath: ‘That’s my blood’The Guardian 5 Years After George Floyd’s Murder, the Backlash Takes HoldThe New York Times I was police chief when George Floyd was murdered. I chose conscience ov…
+### HOMICIDE on 2025-05-25 12:43
+- Location: Freerepublic.com
+- Description: GILBERT, AZ — A man has been charged with second-degree murder for allegedly shooting and killing a landscaper hired to do work on a rental property. Just after 4:30 p.m. Monday, Gilbert police were alerted about an argument between two men. While on the way …
 
 
-### ROBBERY/THEFT on 2025-05-25 12:12
+### HOMICIDE on 2025-05-25 12:43
+- Location: Freerepublic.com
+- Description: GILBERT, AZ — A man has been charged with second-degree murder for allegedly shooting and killing a landscaper hired to do work on a rental property. Just after 4:30 p.m. Monday, Gilbert police were alerted about an argument between two men. While on the way …
+
+
+### SHOOTING on 2025-05-25 12:40
 - Location: The Star Online
-- Description: JERTIH: A wireman was nabbed 45 minutes after robbing a 24-hour convenience store in Bandar Jertih here on Saturday (May 24). Read full story
+- Description: Two men have been hospitalised with critical injuries following a shooting in a public place in western Sydney. Read full story
 
 
-### OTHER on 2025-05-25 12:00
+### OTHER on 2025-05-25 12:30
 - Location: CNET
-- Description: Don't fall for these common mistake beliefs about home safety. Here's why they're all wrong.
+- Description: Lightning may not strike twice but scammers could.
 
-
-### HOMICIDE on 2025-05-25 12:00
-- Location: Politicalwire.com
-- Description: New York Times: “Sunday is the fifth anniversary of George Floyd’s murder by a Minneapolis police officer, a searing moment of brutality that ignited what may have been the largest social movement in U.S. history.
-
-Analysis generated at: Mon May 26 12:27:38 UTC 2025
+Analysis generated at: Mon May 26 12:45:57 UTC 2025
