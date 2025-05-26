@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon May 26 01:10:11 UTC 2025
+Last updated: Mon May 26 01:56:49 UTC 2025
 
 ## Latest Analysis
 
-Loaded 34476 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-25 01:07:16
+Loaded 34482 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-25 01:50:43
 
 Incidents by source:
 source
-newsapi           34375
+newsapi           34381
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-05-25 01:07
-- Location: Yahoo Entertainment
-- Description: As part of Seattle’s Summer Safety Strategy, Mayor Bruce Harrell’s administration is aiming to reduce crime at some of the city’s most popular parks and...
+### OTHER on 2025-05-25 01:50
+- Location: NBC News
+- Description: A man was arrested Friday after being accused of kidnapping an Italian tourist and torturing him for weeks inside a Manhattan home in a bid to steal the alleged victim’s Bitcoin.
 
 
-### OTHER on 2025-05-25 01:06
-- Location: Screen Rant
-- Description: Star Trek's William Shatner appeared on this other classic sci-fi series three years before he took over command of the Enterprise as Captain Kirk.
+### OTHER on 2025-05-25 01:39
+- Location: BBC News
+- Description: Lucy Connolly lost her appeal against her race-hate jail sentence, but is free speech under threat?
 
 
-### OTHER on 2025-05-25 01:01
-- Location: Bangkok Post
-- Description: Tourism police have deployed AI-powered surveillance cameras at hot spots nationwide, resulting in nearly 200 arrests since July 2024.
+### OTHER on 2025-05-25 01:30
+- Location: Crooksandliars.com
+- Description: Prosecutors in the case against Milwaukee Circuit Court Judge Hannah Dugan are still trying to win in the court of public opinion. The feds are accusing Dugan of obstructing federal agents who were at the Milwaukee County Courthouse to arrest Eduardo Flores-R…
 
 
-### ROBBERY/THEFT on 2025-05-25 00:58
-- Location: Yahoo Entertainment
-- Description: None
-
-
-### HOMICIDE on 2025-05-25 00:54
+### HOMICIDE on 2025-05-25 01:23
 - Location: Freerepublic.com
-- Description: The 37-year-old Crypto trader accused of kidnapping a 28-year-old Italian man inside a luxurious SoHo apartment repeatedly shocked his victim with electric wires, held him upside down from the top of a staircase, cut his leg with a saw and threatened to kill …
+- Description: The judge who oversaw the trial of Derek Chauvin has given an explosive interview as he spoke out for the first time in four years. Peter Cahill was in charge of proceedings in 2021, when jurors spent three weeks listening to testimony about the death of Geor…
 
-Analysis generated at: Mon May 26 01:10:11 UTC 2025
+
+### ASSAULT on 2025-05-25 01:15
+- Location: Freerepublic.com
+- Description: It takes guts to walk around in a MAGA hat, what with all the liberal tolerance on display. Not even a 72-year-old gent is spared from the open-minded inclusiveness. From Florida: Laura Elizabeth Garrett, 33, was at Northeast Park and Paw Place located at 463…
+
+Analysis generated at: Mon May 26 01:56:48 UTC 2025
