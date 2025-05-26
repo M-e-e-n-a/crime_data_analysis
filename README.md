@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun May 25 18:17:18 UTC 2025
+Last updated: Mon May 26 01:10:11 UTC 2025
 
 ## Latest Analysis
 
-Loaded 34467 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-24 18:14:53
+Loaded 34476 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-25 01:07:16
 
 Incidents by source:
 source
-newsapi           34366
+newsapi           34375
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-05-24 18:14
-- Location: Slashdot.org
-- Description: Ex-Minneapolis police chief recalls 'absolutely gut-wrenching' moment of seeing George Floyd videoNBC News Since George Floyd’s Murder, Police Killings Keep Rising, Not FallingThe New York Times What should happen to George Floyd Square? The community is divi…
+### OTHER on 2025-05-25 01:07
+- Location: Yahoo Entertainment
+- Description: As part of Seattle’s Summer Safety Strategy, Mayor Bruce Harrell’s administration is aiming to reduce crime at some of the city’s most popular parks and...
 
 
-### HOMICIDE on 2025-05-24 18:14
-- Location: Slashdot.org
-- Description: D.C. police, synagogues enhance security in wake of Jewish museum shootingThe Washington Post Father of suspect accused of killing Israeli Embassy staffers in DC was guest at Trump's joint addressFox News The Israeli embassy shooting was a stupid and horrific…
+### OTHER on 2025-05-25 01:06
+- Location: Screen Rant
+- Description: Star Trek's William Shatner appeared on this other classic sci-fi series three years before he took over command of the Enterprise as Captain Kirk.
 
 
-### SHOOTING on 2025-05-24 18:14
-- Location: Fox News
-- Description: Bodycam footage of an April 23 traffic stop in Virginia reveals the moment an angry driver pulled out his gun and shot two police officers, wounding them.
+### OTHER on 2025-05-25 01:01
+- Location: Bangkok Post
+- Description: Tourism police have deployed AI-powered surveillance cameras at hot spots nationwide, resulting in nearly 200 arrests since July 2024.
 
 
-### HOMICIDE on 2025-05-24 18:05
-- Location: The-independent.com
-- Description: Hannah Gutierrez Reed served 18 months in prison after she was found guilty of involuntary manslaughter over the 2021 accidental shooting death of Halyna Hutchins
+### ROBBERY/THEFT on 2025-05-25 00:58
+- Location: Yahoo Entertainment
+- Description: None
 
 
-### HOMICIDE on 2025-05-24 18:00
-- Location: Newser
-- Description: Police in California have arrested a 15-year-old boy in the fatal shooting of a man staying at a homeless encampment in Long Beach. Police said they were called to the camp at a beach playground in November, where they found two men who had been shot. One rec…
+### HOMICIDE on 2025-05-25 00:54
+- Location: Freerepublic.com
+- Description: The 37-year-old Crypto trader accused of kidnapping a 28-year-old Italian man inside a luxurious SoHo apartment repeatedly shocked his victim with electric wires, held him upside down from the top of a staircase, cut his leg with a saw and threatened to kill …
 
-Analysis generated at: Sun May 25 18:17:18 UTC 2025
+Analysis generated at: Mon May 26 01:10:11 UTC 2025
