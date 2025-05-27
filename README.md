@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue May 27 12:49:38 UTC 2025
+Last updated: Tue May 27 18:18:47 UTC 2025
 
 ## Latest Analysis
 
-Loaded 34765 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-26 12:39:07
+Loaded 34839 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-26 18:11:08
 
 Incidents by source:
 source
-newsapi           34664
+newsapi           34738
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-05-26 12:39
-- Location: Israelnationalnews.com
-- Description: Driver reaches Shiloh police station after terrorists open fire on vehicle.
+### OTHER on 2025-05-26 18:11
+- Location: The Daily Caller
+- Description: Democratic Washington Rep. Marie Gluesenkamp Perez represents Washington's 3rd district, a district President Donald Trump won in 2024.
 
 
-### OTHER on 2025-05-26 12:30
-- Location: Rolling Out
-- Description: Memorial Day weekend traditionally honors military service members who made the ultimate sacrifice for their country, yet thousands of Black veterans who served with distinction remain largely forgotten in national commemorations. These service members faced …
+### ROBBERY/THEFT on 2025-05-26 17:59
+- Location: The Atlantic
+- Description: We cannot afford to excuse, indulge, or minimize political violence.
 
 
-### OTHER on 2025-05-26 12:24
-- Location: DW (English)
-- Description: A report of an antisemitic incident in a high school coincided with the arrest of teenage rightwing extremists last week. This has triggered a debate over whether Germany's youth is embracing Nazi ideology. Ideally, a graduation motto is a phrase one fondly r…
+### OTHER on 2025-05-26 17:57
+- Location: CBS News
+- Description: Students at an elementary school in England weren't sure what to think when a prison on wheels recently arrived on their campus.
 
 
-### OTHER on 2025-05-26 12:24
-- Location: DW (English)
-- Description: A report of an antisemitic incident at a high school in central Germany last week coincided with the arrest of teenage right-wing extremists. Are deeply right-wing extremist views resonating with more and more youth?
+### OTHER on 2025-05-26 17:54
+- Location: Business Insider
+- Description: Ellie Doyle is a mom of three who decided to move away from family for her kids' education. She wants more diversity in their classes.
 
 
-### OTHER on 2025-05-26 12:22
-- Location: soompi
-- Description: “Nine Puzzles” has released behind-the-scenes stills that highlight the cast’s dedication and chemistry! “Nine Puzzles” is a mystery thriller that follows the story of profiler Yoon Yi Na (Kim Da Mi), who was the only witness in an unsolved case from 10 years…
+### HOMICIDE on 2025-05-26 17:39
+- Location: The Star Online
+- Description: NEW YORK, May 26 (Xinhua) -- Some things have changed for the better in Minneapolis, Minnesota, since Memorial Day 2020, when a white police officer murdered George Floyd; some have not, reported The Associated Press on Monday. Read full story
 
-Analysis generated at: Tue May 27 12:49:38 UTC 2025
+Analysis generated at: Tue May 27 18:18:47 UTC 2025
