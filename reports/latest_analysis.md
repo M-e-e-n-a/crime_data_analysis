@@ -1,10 +1,10 @@
 
-Loaded 34646 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-26 01:43:26
+Loaded 34686 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-26 06:11:19
 
 Incidents by source:
 source
-newsapi           34545
+newsapi           34585
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-05-26 01:43
-- Location: NBC News
-- Description: MINNEAPOLIS — On Sunday, five years since the day George Floyd was killed, the Minneapolis square named for him was overflowing.
-
-
-### HOMICIDE on 2025-05-26 01:26
-- Location: WSB Atlanta
-- Description: 1 dead in shooting at apartment complex near Lithoniawsbtv.com
-
-
-### HOMICIDE on 2025-05-26 01:21
+### HOMICIDE on 2025-05-26 06:11
 - Location: Yahoo Entertainment
-- Description: None
+- Description: LAGOS (Reuters) -A sit-at-home order by banned separatist group Indigenous People of Biafra in Nigeria's southeast has led to the death of over 700 people in...
 
 
-### OTHER on 2025-05-26 01:15
-- Location: Thehillstimes.in
-- Description: HT Correspondent  AGARTALA, May 25: Tripura’s newly appointed Director General of Police (DGP), Anurag, has reaffirmed the state police’s commitment to strengthening law and order through active community participation. He also highlighted the significant str…
+### OTHER on 2025-05-26 06:00
+- Location: Naturalnews.com
+- Description: The Department of Justice (DOJ) filed a lawsuit against four New Jersey cities (Newark, Jersey City, Paterson, Hoboken) for obstructing federal immigration enforcement, accusing them of violating the Constitution’s supremacy clause. Acting Assistant AG Yaakov…
 
 
-### ROBBERY/THEFT on 2025-05-26 00:54
-- Location: Fox News
-- Description: Authorities arrest seven SATG members linked to burglaries in Phoenix. Scottsdale Police, with California's help, recover stolen items including a French Bulldog.
+### OTHER on 2025-05-26 05:27
+- Location: Starweekly.com.au
+- Description: The sale of machetes will be banned in Victoria from this Wednesday. The state announced on Monday, May 26, that...
+The post Machete sales ban announced appeared first on Northern.
 
-Analysis generated at: Tue May 27 01:52:06 UTC 2025
+
+### OTHER on 2025-05-26 05:18
+- Location: ABC News (AU)
+- Description: The Sunshine Coast teenager says he was acting in self-defence when he fatally stabbed his stepfather after a late-night confrontation in 2022.
+
+
+### SHOOTING on 2025-05-26 05:00
+- Location: Foreign Policy
+- Description: They’re cheap, popular, and spreading beyond borders.
+
+Analysis generated at: Tue May 27 06:20:39 UTC 2025
