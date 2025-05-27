@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue May 27 06:20:39 UTC 2025
+Last updated: Tue May 27 12:28:40 UTC 2025
 
 ## Latest Analysis
 
-Loaded 34686 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-26 06:11:19
+Loaded 34763 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-26 12:24:00
 
 Incidents by source:
 source
-newsapi           34585
+newsapi           34662
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-05-26 06:11
-- Location: Yahoo Entertainment
-- Description: LAGOS (Reuters) -A sit-at-home order by banned separatist group Indigenous People of Biafra in Nigeria's southeast has led to the death of over 700 people in...
+### OTHER on 2025-05-26 12:24
+- Location: DW (English)
+- Description: A report of an antisemitic incident at a high school in central Germany last week coincided with the arrest of teenage right-wing extremists. Are deeply right-wing extremist views resonating with more and more youth?
 
 
-### OTHER on 2025-05-26 06:00
-- Location: Naturalnews.com
-- Description: The Department of Justice (DOJ) filed a lawsuit against four New Jersey cities (Newark, Jersey City, Paterson, Hoboken) for obstructing federal immigration enforcement, accusing them of violating the Constitution’s supremacy clause. Acting Assistant AG Yaakov…
+### OTHER on 2025-05-26 12:24
+- Location: DW (English)
+- Description: A report of an antisemitic incident in a high school coincided with the arrest of teenage rightwing extremists last week. This has triggered a debate over whether Germany's youth is embracing Nazi ideology. Ideally, a graduation motto is a phrase one fondly r…
 
 
-### OTHER on 2025-05-26 05:27
-- Location: Starweekly.com.au
-- Description: The sale of machetes will be banned in Victoria from this Wednesday. The state announced on Monday, May 26, that...
-The post Machete sales ban announced appeared first on Northern.
+### OTHER on 2025-05-26 12:22
+- Location: soompi
+- Description: “Nine Puzzles” has released behind-the-scenes stills that highlight the cast’s dedication and chemistry! “Nine Puzzles” is a mystery thriller that follows the story of profiler Yoon Yi Na (Kim Da Mi), who was the only witness in an unsolved case from 10 years…
 
 
-### OTHER on 2025-05-26 05:18
-- Location: ABC News (AU)
-- Description: The Sunshine Coast teenager says he was acting in self-defence when he fatally stabbed his stepfather after a late-night confrontation in 2022.
+### HOMICIDE on 2025-05-26 12:18
+- Location: NBC News
+- Description: Trump accuses Putin of "needlessly killing a lot of people" after Russia's massive attacks in Ukraine.
 
 
-### SHOOTING on 2025-05-26 05:00
-- Location: Foreign Policy
-- Description: They’re cheap, popular, and spreading beyond borders.
+### ROBBERY/THEFT on 2025-05-26 12:16
+- Location: Israelnationalnews.com
+- Description: The problem is that terrorists are emerging, as they did in the 1960s and 1970s, from the family album of progressivism. Op-ed.
 
-Analysis generated at: Tue May 27 06:20:39 UTC 2025
+Analysis generated at: Tue May 27 12:28:40 UTC 2025
