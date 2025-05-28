@@ -1,10 +1,10 @@
 
-Loaded 34996 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-27 12:47:52
+Loaded 35084 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-27 18:10:05
 
 Incidents by source:
 source
-newsapi           34895
+newsapi           34983
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-05-27 12:47
-- Location: The Conversation Africa
-- Description: Since 2005, the US has lost over one-third of its local newspapers. A scholar found out why some communities can keep their papers − while others can’t.
+### OTHER on 2025-05-27 18:10
+- Location: Yahoo Entertainment
+- Description: Germany's Federal Prosecutor's Office has arrested a suspected former guard at a Syrian secret service prison. He is alleged to have been involved in well...
 
 
-### OTHER on 2025-05-27 12:47
-- Location: Al Jazeera English
-- Description: Free access to weapons would only spur the ongoing violence in the country.
+### OTHER on 2025-05-27 18:05
+- Location: The Times of India
+- Description: "One Piece" Season 2 on Netflix is happening and good news is that makers have almost finalized the cast.
 
 
-### OTHER on 2025-05-27 12:42
-- Location: New York Post
-- Description: There are "still four people who are very, very ill in [the] hospital," Liverpool City Metro Mayor Steve Rotherham said.
+### OTHER on 2025-05-27 18:05
+- Location: Sky.com
+- Description: A man who was among the dozens injured when a car drove through a crowd at Liverpool's Premier League trophy parade has told Sky News how he pleaded with the driver to stop before he was struck and sent "spinning".
 
 
-### OTHER on 2025-05-27 12:30
-- Location: 9to5Toys
-- Description: Sony has now officially announced its massive summer PlayStation sale. This isn’t just a big-time digital game sale on the PlayStation Store, this is the annual Days of Play event that often times include the biggest deals of the summer on “PlayStation hardwa…
+### HOMICIDE on 2025-05-27 18:00
+- Location: STLtoday.com
+- Description: The sheriff of Pike County doesn’t want to answer questions about a dead body found in a pond. That's a big red flag.
 
 
-### ROBBERY/THEFT on 2025-05-27 12:29
-- Location: ABC News (AU)
-- Description: A Canadian man who stole an iconic portrait of a scowling Winston Churchill has been sentenced to two years in jail, according to local media.
+### HOMICIDE on 2025-05-27 17:59
+- Location: CBS News
+- Description: Officials said they believe three shooters were involved in a deadly Memorial Day mass shooting in Philadelphia. At least two people were killed and nine others were injured when gunfire broke out Monday night, police said. CBS News Philadelphia has the lates…
 
-Analysis generated at: Wed May 28 12:49:11 UTC 2025
+Analysis generated at: Wed May 28 18:18:42 UTC 2025
