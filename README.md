@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu May 29 06:21:04 UTC 2025
+Last updated: Thu May 29 12:28:16 UTC 2025
 
 ## Latest Analysis
 
-Loaded 35140 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-28 06:18:15
+Loaded 35226 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-28 12:24:03
 
 Incidents by source:
 source
-newsapi           35039
+newsapi           35125
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-05-28 06:18
-- Location: Louder
-- Description: Led Zeppelin’s final tour of the US in 1977 should have been their most glorious. But it wasn’t. There was tension, unpleasantness and negativity, and that was just the start
+### ASSAULT on 2025-05-28 12:24
+- Location: TMZ
+- Description: The second suspect in NYC's notorious crypto torture caper is now cooling his heels behind bars after being hit with formal charges by the Manhattan District Attorney's Office. Prosecutors filed a criminal court complaint Tuesday in Manhattan…
 
 
-### OTHER on 2025-05-28 06:15
-- Location: Khabarhub.com
-- Description: KATHMANDU: A growing list of elected representatives across various political parties in Nepal are facing serious criminal allegations, raising deep concerns about the state of democratic governance and public accountability in the country. From corruption to…
+### OTHER on 2025-05-28 12:06
+- Location: ABC News
+- Description: SpaceX's lost control of Starship during a test flight on Tuesday.
 
 
-### ASSAULT on 2025-05-28 06:07
-- Location: The Times of India
-- Description: Gnanasekaran was convicted in Chennai for the Anna University sexual assault case, facing 11 charges including rape. The incident sparked political turmoil as the BJP accused the DMK of enabling a culture of impunity, alleging links between the accused and th…
+### OTHER on 2025-05-28 12:00
+- Location: CBC News
+- Description: Federal prosecutors decided not to lay charges stemming from a five-year Canada Revenue Agency investigation into a half-billion-dollar alleged mortgage fraud case because of a "technicality," according to documents obtained by the CBC.
 
 
-### OTHER on 2025-05-28 06:04
-- Location: BBC News
-- Description: Senior officers sent a letter to the Ministry of Justice before the announcement on sentencing changes last week.
+### OTHER on 2025-05-28 11:58
+- Location: Mediaite
+- Description: Police in Texas have released dramatic bodycam footage showing the arrest of two fugitives who escaped from a New Orleans jail earlier this month.
+The post WATCH: Heart-Pounding Bodycam Footage Shows Arrest of Louisiana Jail Escapees first appeared on Mediait…
 
 
-### ASSAULT on 2025-05-28 06:00
-- Location: Naturalnews.com
-- Description: A 46-year-old Egyptian national, Arnaud Y., convicted of 12 sexual assaults (including on eight minors), received only a suspended three-year sentence. Despite his history of similar crimes across France, he will serve no jail time unless he reoffends. Posing…
+### OTHER on 2025-05-28 11:56
+- Location: Activistpost.com
+- Description: In a few cities, like Milwaukee and New Orleans, there has been a public debate and pushback. If we fail to stop this technology, every city will become a Smart City and eventually a 15-minute city. Police in cities across America want to deploy AI-driven fac…
 
-Analysis generated at: Thu May 29 06:21:04 UTC 2025
+Analysis generated at: Thu May 29 12:28:16 UTC 2025
