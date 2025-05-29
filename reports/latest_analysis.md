@@ -1,10 +1,10 @@
 
-Loaded 35230 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-28 12:44:26
+Loaded 35321 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-28 18:17:11
 
 Incidents by source:
 source
-newsapi           35129
+newsapi           35220
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-05-28 12:44
-- Location: Khabarhub.com
-- Description: KATHMANDU: The Birgunj bench of the Janakpur High Court has acquitted Nepali Congress leader Mohammad Aftab Alam in the infamous Rautahat bombing and murder case. The verdict overturns a previous ruling by the Rautahat District Court, which had sentenced Alam…
+### SHOOTING on 2025-05-28 18:17
+- Location: BroBible
+- Description: Former Seattle SuperSonics star Shawn Kemp was arrested in 2023 for allegedly being the triggerman in a shooting. This week, he pleaded guilty to second-degree assault as part of a plea deal. It was in March of 2023 that the Tacoma Police Department announced…
 
 
-### SHOOTING on 2025-05-28 12:41
-- Location: New York Daily News
-- Description: Police identified the new suspect as 23-year-old Wayne Lucas and released a photo of him Wednesday.
+### SHOOTING on 2025-05-28 18:14
+- Location: Fox News
+- Description: One man was arrested and another is wanted for the violent robbery of an off-duty NYPD officer in the Bronx. The officer suffered severe injuries and remains hospitalized.
 
 
-### OTHER on 2025-05-28 12:30
-- Location: The Conversation Africa
-- Description: There’s no one set legal definition for sanctuary cities and other places with these policies. But they often limit local coordination with federal immigration authorities.
+### HOMICIDE on 2025-05-28 18:10
+- Location: Pajiba.com
+- Description: I was seven years old in 1982 when seven people in the Chicagoland area died of cyanide poisoning from tainted Extra Strength Tylenol capsules. My family was in New York, but the news and panic quickly spread across the country....
+Read more...
 
 
-### ROBBERY/THEFT on 2025-05-28 12:29
-- Location: Breitbart News
-- Description: Smoke it if you've got it. That pretty much sums up the approach of London Mayor Sadiq Khan to personal drug use as backed calls Wednesday for small quantities of cannabis to be decriminalised and "negate problems between the police and ethnic communities."
-T…
+### OTHER on 2025-05-28 18:10
+- Location: Forbes
+- Description: The mayor of London, Sadiq Khan, is backing a new report that calls for cannabis decriminalization.
 
 
-### ASSAULT on 2025-05-28 12:24
-- Location: TMZ
-- Description: The second suspect in NYC's notorious crypto torture caper is now cooling his heels behind bars after being hit with formal charges by the Manhattan District Attorney's Office. Prosecutors filed a criminal court complaint Tuesday in Manhattan…
+### SHOOTING on 2025-05-28 18:08
+- Location: NBCSports.com
+- Description: The incident took place in March 2023.
 
-Analysis generated at: Thu May 29 12:47:45 UTC 2025
+Analysis generated at: Thu May 29 18:19:37 UTC 2025
