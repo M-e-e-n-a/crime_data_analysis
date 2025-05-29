@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu May 29 01:08:52 UTC 2025
+Last updated: Thu May 29 01:53:59 UTC 2025
 
 ## Latest Analysis
 
-Loaded 35098 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-28 01:02:40
+Loaded 35108 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-28 01:52:45
 
 Incidents by source:
 source
-newsapi           34997
+newsapi           35007
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-05-28 01:02
+### SHOOTING on 2025-05-28 01:52
+- Location: Fox News
+- Description: A gunman remains at large after a shooting at Waterbury's Brass Mill Center Mall, injuring five. Police and federal agencies are actively investigating the incident.
+
+
+### OTHER on 2025-05-28 01:49
 - Location: Freerepublic.com
-- Description: The Trump DOJ on Tuesday asked the US Supreme Court to intervene in and pause a lower court’s order to ground a plane that transported several dangerous aliens to South Sudan. “The invasion of illegal aliens must end, and the conduct of our nation’s foreign p…
+- Description: Conservative and pro-life groups are again asking the Department of Justice (DOJ) to investigate five fetuses found near a Washington, D.C. clinic in 2022 now that President Donald Trump is back in office. Nine organizations sent a letter Tuesday to U.S. Atto…
 
 
-### OTHER on 2025-05-28 01:00
-- Location: Screen Rant
-- Description: Genevieve O'Reilly was a standout in Andor as Mon Mothma, but now that Andor has ended, fans can watch another O'Reilly show for something similar.
+### OTHER on 2025-05-28 01:40
+- Location: YEN.COM.GH
+- Description: Andy Appiah Kubi, the lawyer of the Ashanti Regional Chairman of the NPP, Chairman Wontumi, has confirmed in a video that his client has been hospitalised.
 
 
-### OTHER on 2025-05-28 01:00
-- Location: Allthatsinteresting.com
-- Description: From the late-night cafes of Greenwich Village to jazz concerts at the Apollo Theater in Harlem, 1950s New York City was a thrilling place to be.
-The post 44 Breathtaking Photos That Show What New York Really Looked Like In The 1950s appeared first on All Tha…
+### OTHER on 2025-05-28 01:40
+- Location: KOMO News
+- Description: The FBI will investigate allegations of target violence against religious groups regarding last weekend's chaotic Cal Anderson Park rally.
 
 
-### OTHER on 2025-05-28 01:00
-- Location: Sky.com
-- Description: Merseyside Police has been given more time to question a 53-year-old man arrested over the Liverpool parade collision.
+### OTHER on 2025-05-28 01:30
+- Location: BBC News
+- Description: In what amounts to a direct plea to the chancellor, Sir Mark Rowley says the police are "overstretched".
 
-
-### SHOOTING on 2025-05-28 00:59
-- Location: The Jerusalem Post
-- Description: Police are currently searching for a suspect responsible for the shooting of five people in a mall in Waterbur
-
-Analysis generated at: Thu May 29 01:08:52 UTC 2025
+Analysis generated at: Thu May 29 01:53:59 UTC 2025
