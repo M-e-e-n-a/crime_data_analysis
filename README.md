@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri May 30 01:06:13 UTC 2025
+Last updated: Fri May 30 01:51:48 UTC 2025
 
 ## Latest Analysis
 
-Loaded 35333 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-29 01:00:54
+Loaded 35338 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-29 01:50:31
 
 Incidents by source:
 source
-newsapi           35232
+newsapi           35237
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-05-29 01:00
-- Location: WPXI Pittsburgh
-- Description: A Pittsburgh Public Safety spokesperson says a 15-year-old boy was found in the 600 block of Haverhill Street on Wednesday afternoon, shot in the upper thigh.
+### OTHER on 2025-05-29 01:50
+- Location: Economictimes.com
+- Description: Breaking News Live Updates: Hong Kong Financial Secretary Paul Chan said on Thursday the U.S. federal court rule against tariff measures would bring President Donald Trump "to reason".
 
 
-### DRUG RELATED on 2025-05-29 00:55
-- Location: PC Gamer
-- Description: Vice Undercover introduces the world wide web into the already harrowing world of Reagan-era drug control.
+### OTHER on 2025-05-29 01:49
+- Location: Mypeoplesreview.com
+- Description: By Our Reporter With the revelation that the immigrant officers stationed at the Tribhuvan International Airport were making hefty money […]
+The post Human trafficking scandal puts Home Minister in soup appeared first on Peoples' Review.
 
 
-### OTHER on 2025-05-29 00:55
-- Location: The Virginian-Pilot
-- Description: Virginia Beach’s Summer Carnival, which has been held annually for more than 30 years, was abruptly cancelled this year three days into the festivities due...
+### OTHER on 2025-05-29 01:40
+- Location: Washington Free Beacon
+- Description: MANHATTAN—A parade of keffiyeh-clad students descended on Manhattan Criminal Court on Wednesday to face formal arraignment for their roles in a violent takeover of Columbia University’s Butler Library. Their lawyer accused Israel of "genocide," asked the cour…
 
 
-### ASSAULT on 2025-05-29 00:43
-- Location: NBC News
-- Description: Relatives of the man accused of violently attacking a woman inside the California mansion of Beanie Babies billionaire Ty Warner said Wednesday that in the days before the assault, they repeatedly tried to warn authorities that he may hurt someone.
+### OTHER on 2025-05-29 01:34
+- Location: The Times of India
+- Description: Ken Miyagishima, former Las Cruces mayor, has launched his campaign for New Mexico governor, focusing on public safety, affordable housing, and healthcare workforce improvements. He aims to succeed Governor Michelle Lujan Grisham, addressing public concerns a…
 
 
-### OTHER on 2025-05-29 00:40
-- Location: New Zealand Herald
-- Description: OPINION: The Act leader's only guardrails will be the ones he sets himself.
+### ROBBERY/THEFT on 2025-05-29 01:24
+- Location: Thairesidents.com
+- Description: A WELL-MANNERED thief who gave a wai after pulling a fake pistol to rob a money exchange shop on Silom
+The post Indian man held for robbing downtown money exchange shop appeared first on ThaiResidents.com - Thai Local News - Thai News.
 
-Analysis generated at: Fri May 30 01:06:13 UTC 2025
+Analysis generated at: Fri May 30 01:51:48 UTC 2025
