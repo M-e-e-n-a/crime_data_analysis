@@ -1,10 +1,10 @@
 
-Loaded 35456 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-29 12:27:14
+Loaded 35462 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-29 12:46:04
 
 Incidents by source:
 source
-newsapi           35355
+newsapi           35361
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-05-29 12:27
-- Location: International Business Times
-- Description: A South African court on Thursday sentenced a woman to life in prison for kidnapping and selling her six-year-old daughter, in a case that horrified the country.
-
-
-### HOMICIDE on 2025-05-29 12:26
-- Location: fox6now.com
-- Description: Testimony is underway in the trial of Maxwell Anderson, the Milwaukee man accused of killing and dismembering Sade Robinson.
-
-
-### OTHER on 2025-05-29 12:15
-- Location: Fox News
-- Description: Can the federal government deport those who are green card holders and are here in the U.S. legally? Short answer: yes.
-
-
-### OTHER on 2025-05-29 12:00
-- Location: The Denver Post
-- Description: In the battle for Downtown Denver's future, victory or defeat could hinge on convincing people it is safe to visit, work and live in the area, and key to that will be restoring the vibrancy of 16th Street, which is wrapping up a three-year renovation.
-
-
-### OTHER on 2025-05-29 12:00
+### ASSAULT on 2025-05-29 12:46
 - Location: ABC News
-- Description: The two airlines have formed a partnership, called Blue Sky, that will allow the airlines to sell seats on each other’s flights and allow fliers to apply miles and benefits to either airline.
+- Description: Dylan McDougal, 28, can be seen attacking TSA officers at Miami International Airport in December and authorities say he also randomly attacked another passenger once through security.
 
-Analysis generated at: Fri May 30 12:27:47 UTC 2025
+
+### HOMICIDE on 2025-05-29 12:45
+- Location: Newser
+- Description: Baylor Bears defensive lineman Alex Foster has tragically died at age 18, gunned down in a car in his hometown of Greenville, Mississippi, the AP reports. The shooting early Wednesday came amid a "surge in violent crimes" in the city, including "senseless kil…
+
+
+### OTHER on 2025-05-29 12:44
+- Location: ABC News
+- Description: The "Abbott Elementary" creator and star was honored with her hometown’s highest recognition and helped unveil a community mural at Andrew Hamilton School.
+
+
+### OTHER on 2025-05-29 12:35
+- Location: Fox17
+- Description: The family of Patrick Lyoya and attorneys Ven Johnson and Ben Crump will hold a press conference to respond to decision not to retry Christopher Schurr.
+
+
+### SHOOTING on 2025-05-29 12:32
+- Location: The Jerusalem Post
+- Description: Israel Police thwarted a cell of five suspects, some of whom are affiliated with a gang of foreign nationals,
+
+Analysis generated at: Fri May 30 12:47:57 UTC 2025
