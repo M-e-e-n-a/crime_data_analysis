@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri May 30 06:20:28 UTC 2025
+Last updated: Fri May 30 12:27:47 UTC 2025
 
 ## Latest Analysis
 
-Loaded 35377 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-29 06:19:37
+Loaded 35456 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-29 12:27:14
 
 Incidents by source:
 source
-newsapi           35276
+newsapi           35355
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-05-29 06:19
-- Location: Securityaffairs.com
-- Description: GreyNoise researchers warn of a new AyySSHush botnet compromised over 9,000 ASUS routers, adding a persistent SSH backdoor. GreyNoise discovered the AyySSHush botnet has hacked over 9,000 ASUS routers, adding a persistent SSH backdoor. “Using an AI powered ne…
+### OTHER on 2025-05-29 12:27
+- Location: International Business Times
+- Description: A South African court on Thursday sentenced a woman to life in prison for kidnapping and selling her six-year-old daughter, in a case that horrified the country.
 
 
-### HOMICIDE on 2025-05-29 06:14
+### HOMICIDE on 2025-05-29 12:26
+- Location: fox6now.com
+- Description: Testimony is underway in the trial of Maxwell Anderson, the Milwaukee man accused of killing and dismembering Sade Robinson.
+
+
+### OTHER on 2025-05-29 12:15
+- Location: Fox News
+- Description: Can the federal government deport those who are green card holders and are here in the U.S. legally? Short answer: yes.
+
+
+### OTHER on 2025-05-29 12:00
+- Location: The Denver Post
+- Description: In the battle for Downtown Denver's future, victory or defeat could hinge on convincing people it is safe to visit, work and live in the area, and key to that will be restoring the vibrancy of 16th Street, which is wrapping up a three-year renovation.
+
+
+### OTHER on 2025-05-29 12:00
 - Location: ABC News
-- Description: East Timor said Thursday it would deport a former Filipino congressman charged with multiple murders in the Philippines and added that he was a national security threat whose presence could damage the country’s image ahead of its entry to the Associati...
+- Description: The two airlines have formed a partnership, called Blue Sky, that will allow the airlines to sell seats on each other’s flights and allow fliers to apply miles and benefits to either airline.
 
-
-### HOMICIDE on 2025-05-29 06:12
-- Location: New York Post
-- Description: Police are still holding the 53-year-old in custody for questioning on suspicion of attempted murder, dangerous driving offences, and driving while unfit through drugs, according to The Times of London.
-
-
-### OTHER on 2025-05-29 06:00
-- Location: Starcommunity.com.au
-- Description: A 25-year-old Narre Warren South man was among three arrested and interviewed by the Vehicle Crime Squad related to a […]
-
-
-### ASSAULT on 2025-05-29 06:00
-- Location: Naturalnews.com
-- Description: Trump advised Netanyahu against attacking Iran, citing ongoing nuclear talks and calling it “inappropriate” during negotiations. Netanyahu’s threats against Iran coincide with global backlash over Israel’s Gaza campaign, including ICC war crime charges. Iran …
-
-Analysis generated at: Fri May 30 06:20:28 UTC 2025
+Analysis generated at: Fri May 30 12:27:47 UTC 2025
