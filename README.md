@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu May 29 18:19:37 UTC 2025
+Last updated: Fri May 30 01:06:13 UTC 2025
 
 ## Latest Analysis
 
-Loaded 35321 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-28 18:17:11
+Loaded 35333 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-29 01:00:54
 
 Incidents by source:
 source
-newsapi           35220
+newsapi           35232
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-05-28 18:17
-- Location: BroBible
-- Description: Former Seattle SuperSonics star Shawn Kemp was arrested in 2023 for allegedly being the triggerman in a shooting. This week, he pleaded guilty to second-degree assault as part of a plea deal. It was in March of 2023 that the Tacoma Police Department announced…
+### SHOOTING on 2025-05-29 01:00
+- Location: WPXI Pittsburgh
+- Description: A Pittsburgh Public Safety spokesperson says a 15-year-old boy was found in the 600 block of Haverhill Street on Wednesday afternoon, shot in the upper thigh.
 
 
-### SHOOTING on 2025-05-28 18:14
-- Location: Fox News
-- Description: One man was arrested and another is wanted for the violent robbery of an off-duty NYPD officer in the Bronx. The officer suffered severe injuries and remains hospitalized.
+### DRUG RELATED on 2025-05-29 00:55
+- Location: PC Gamer
+- Description: Vice Undercover introduces the world wide web into the already harrowing world of Reagan-era drug control.
 
 
-### HOMICIDE on 2025-05-28 18:10
-- Location: Pajiba.com
-- Description: I was seven years old in 1982 when seven people in the Chicagoland area died of cyanide poisoning from tainted Extra Strength Tylenol capsules. My family was in New York, but the news and panic quickly spread across the country....
-Read more...
+### OTHER on 2025-05-29 00:55
+- Location: The Virginian-Pilot
+- Description: Virginia Beach’s Summer Carnival, which has been held annually for more than 30 years, was abruptly cancelled this year three days into the festivities due...
 
 
-### OTHER on 2025-05-28 18:10
-- Location: Forbes
-- Description: The mayor of London, Sadiq Khan, is backing a new report that calls for cannabis decriminalization.
+### ASSAULT on 2025-05-29 00:43
+- Location: NBC News
+- Description: Relatives of the man accused of violently attacking a woman inside the California mansion of Beanie Babies billionaire Ty Warner said Wednesday that in the days before the assault, they repeatedly tried to warn authorities that he may hurt someone.
 
 
-### SHOOTING on 2025-05-28 18:08
-- Location: NBCSports.com
-- Description: The incident took place in March 2023.
+### OTHER on 2025-05-29 00:40
+- Location: New Zealand Herald
+- Description: OPINION: The Act leader's only guardrails will be the ones he sets himself.
 
-Analysis generated at: Thu May 29 18:19:37 UTC 2025
+Analysis generated at: Fri May 30 01:06:13 UTC 2025
