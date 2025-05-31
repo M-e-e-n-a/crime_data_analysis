@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat May 31 01:51:37 UTC 2025
+Last updated: Sat May 31 06:18:57 UTC 2025
 
 ## Latest Analysis
 
-Loaded 35575 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-30 01:46:08
+Loaded 35614 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-30 06:00:08
 
 Incidents by source:
 source
-newsapi           35474
+newsapi           35513
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-05-30 01:46
-- Location: Fox News
-- Description: Chinese nationals, especially those with CCP ties, face increased scrutiny at U.S. universities as the Trump administration targets student visas.
+### OTHER on 2025-05-30 06:00
+- Location: Dramabeans.com
+- Description: JTBC’s Good Boy The more the merrier with JTBC, which has just announced its launch of a new Friday slot to double its weekend offerings. Starting this July, JTBC will be airing an additional drama on Friday nights, alongside its Saturday-Sunday schedule. Goo…
 
 
-### OTHER on 2025-05-30 01:39
-- Location: soompi
-- Description: Upcoming drama “Hunter with a Scalpel” has released a gripping new teaser! “Hunter with a Scalpel” is a psychological crime thriller starring Park Ju Hyun as Seo Se Hyun, a brilliant but troubled forensic pathologist. One day, while conducting an autopsy, Se …
+### OTHER on 2025-05-30 06:00
+- Location: New Zealand Herald
+- Description: For a taste of the real South Australia, head to its bustling market stalls.
 
 
-### OTHER on 2025-05-30 01:39
-- Location: Israelnationalnews.com
-- Description: Israel Police arrest Sana Daqqa, the widow of terrorist Walid Daqqa, in Jerusalem, on suspicion of publishing inciting statements against the State of Israel and IDF soldiers. Arrest carried out following a request from Minister Itamar Ben Gvir.
+### OTHER on 2025-05-30 05:47
+- Location: 404media.co
+- Description: The sheriff said the woman self-administered the abortion and her family were concerned for her safety, so authorities searched through Flock cameras. Experts are still concerned that a cop in a state where abortion is illegal can search cameras in others whe…
 
 
-### OTHER on 2025-05-30 01:31
-- Location: The-independent.com
-- Description: One of detectives allegedly picked up victim from airport
+### OTHER on 2025-05-30 05:47
+- Location: Honest-broker.com
+- Description: "(1) EVERYTHING WAS HANDWRITTEN—WE DIDN’T EVEN HAVE TYPEWRITERS.
+
+All my high school term papers were typewritten—that was a requirement. And when I attended Stanford, I brought a Smith-Corona electric typewriter with me from home. I used it constantly. Even …
 
 
-### OTHER on 2025-05-30 01:30
-- Location: Independent.ie
-- Description: Several previews of Dept Q (Netflix, now streaming) have likened it to the marvellous Slow Horses.
+### ROBBERY/THEFT on 2025-05-30 05:36
+- Location: New Zealand Herald
+- Description: The directive set thresholds for theft: $200 general, $150 petrol, $500 shoplifting.
 
-Analysis generated at: Sat May 31 01:51:37 UTC 2025
+Analysis generated at: Sat May 31 06:18:57 UTC 2025
