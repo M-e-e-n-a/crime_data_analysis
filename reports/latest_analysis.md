@@ -1,10 +1,10 @@
 
-Loaded 35566 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-30 01:05:11
+Loaded 35575 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-30 01:46:08
 
 Incidents by source:
 source
-newsapi           35465
+newsapi           35474
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-05-30 01:05
-- Location: PBS
-- Description: The department on Thursday published a list of the jurisdictions and said each one will receive formal notification that the government has deemed them noncompliant and if they're believed to be in violation of any federal criminal statutes.
+### OTHER on 2025-05-30 01:46
+- Location: Fox News
+- Description: Chinese nationals, especially those with CCP ties, face increased scrutiny at U.S. universities as the Trump administration targets student visas.
 
 
-### OTHER on 2025-05-30 01:01
-- Location: Starcommunity.com.au
-- Description: Four men from the South East have been charged over an alleged brawl in Richmond this year. Yarra Crime Investigation […]
+### OTHER on 2025-05-30 01:39
+- Location: soompi
+- Description: Upcoming drama “Hunter with a Scalpel” has released a gripping new teaser! “Hunter with a Scalpel” is a psychological crime thriller starring Park Ju Hyun as Seo Se Hyun, a brilliant but troubled forensic pathologist. One day, while conducting an autopsy, Se …
 
 
-### HOMICIDE on 2025-05-30 01:00
-- Location: Freerepublic.com
-- Description: Several Minneapolis police officers have expressed dismay over Minnesota Gov. Tim Walz (D) running for vice president during the 2024 election. Speaking with Blaze Media for the fifth anniversary of the Black Lives Matter riots that were sparked by the murder…
+### OTHER on 2025-05-30 01:39
+- Location: Israelnationalnews.com
+- Description: Israel Police arrest Sana Daqqa, the widow of terrorist Walid Daqqa, in Jerusalem, on suspicion of publishing inciting statements against the State of Israel and IDF soldiers. Arrest carried out following a request from Minister Itamar Ben Gvir.
 
 
-### OTHER on 2025-05-30 00:49
-- Location: The Conversation Africa
-- Description: New research tracking more than 80,000 Queenslanders from birth to adulthood reveals the differences between men and women in patterns of criminal behaviour.
+### OTHER on 2025-05-30 01:31
+- Location: The-independent.com
+- Description: One of detectives allegedly picked up victim from airport
 
 
-### OTHER on 2025-05-30 00:39
-- Location: NBC News
-- Description: Arkansas authorities are looking at whether a job in the prison kitchen played a role in the weekend escape of a convicted former police chief known as the "Devil in the Ozarks."
+### OTHER on 2025-05-30 01:30
+- Location: Independent.ie
+- Description: Several previews of Dept Q (Netflix, now streaming) have likened it to the marvellous Slow Horses.
 
-Analysis generated at: Sat May 31 01:07:03 UTC 2025
+Analysis generated at: Sat May 31 01:51:37 UTC 2025
