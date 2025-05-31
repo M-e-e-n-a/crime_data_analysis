@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat May 31 12:25:06 UTC 2025
+Last updated: Sat May 31 12:42:26 UTC 2025
 
 ## Latest Analysis
 
-Loaded 35693 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-30 12:23:08
+Loaded 35696 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-30 12:38:13
 
 Incidents by source:
 source
-newsapi           35592
+newsapi           35595
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,6 +24,21 @@ bution.svg)
 
 ## Recent Incidents
 
+### OTHER on 2025-05-30 12:38
+- Location: ABC News
+- Description: Faizan Zaki overcame a shocking, self-inflicted flub to become the Scripps National Spelling Bee champion.
+
+
+### HOMICIDE on 2025-05-30 12:38
+- Location: The Daily Caller
+- Description: Police in Austin announced the arrest of three more individuals suspected of killing an Infowars employee who accosted them as they tried to steal his vehicle
+
+
+### SHOOTING on 2025-05-30 12:26
+- Location: WSB Atlanta
+- Description: Officers have taped off the drive-thru window at the fast food restaurant in the 2700 block of Panola Road.
+
+
 ### OTHER on 2025-05-30 12:23
 - Location: Al Jazeera English
 - Description: Biden and Trump’s clemency decisions reveal a justice system shaped by nepotism and spectacle, not fairness.
@@ -33,19 +48,4 @@ bution.svg)
 - Location: ComputerWeekly.com
 - Description: While non-IT business professionals in the middle of their careers face the most disruption from AI, professionals in the IT services sector and their employers must prepare for change
 
-
-### HOMICIDE on 2025-05-30 12:15
-- Location: ABC News
-- Description: Former Sinn Fein leader Gerry Adams has won a libel suit against BBC over a claim he authorized the killing of an informant
-
-
-### ROBBERY/THEFT on 2025-05-30 12:04
-- Location: The Star Online
-- Description: SHAH ALAM: Police have arrested 13 individuals under the Security Offences (Special Measures) Act 2012 (Sosma), in connection with their involvement in communication cable theft, believed to be with intent to sabotage major communication systems in Selangor a…
-
-
-### SHOOTING on 2025-05-30 12:01
-- Location: PEOPLE
-- Description: Bruce Pierce, 39, is wanted by police for attempted rape and other charges related to the May 24 incident
-
-Analysis generated at: Sat May 31 12:25:06 UTC 2025
+Analysis generated at: Sat May 31 12:42:26 UTC 2025
