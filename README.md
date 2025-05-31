@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat May 31 12:42:26 UTC 2025
+Last updated: Sat May 31 18:18:08 UTC 2025
 
 ## Latest Analysis
 
-Loaded 35696 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-30 12:38:13
+Loaded 35786 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-30 18:17:52
 
 Incidents by source:
 source
-newsapi           35595
+newsapi           35685
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-05-30 12:38
-- Location: ABC News
-- Description: Faizan Zaki overcame a shocking, self-inflicted flub to become the Scripps National Spelling Bee champion.
+### HOMICIDE on 2025-05-30 18:17
+- Location: TheJournal.ie
+- Description: “No one spoke for my family in court. We supported neither side in this case,” Jane Donaldson said.
 
 
-### HOMICIDE on 2025-05-30 12:38
-- Location: The Daily Caller
-- Description: Police in Austin announced the arrest of three more individuals suspected of killing an Infowars employee who accosted them as they tried to steal his vehicle
+### SHOOTING on 2025-05-30 18:11
+- Location: Yahoo Entertainment
+- Description: None
 
 
-### SHOOTING on 2025-05-30 12:26
-- Location: WSB Atlanta
-- Description: Officers have taped off the drive-thru window at the fast food restaurant in the 2700 block of Panola Road.
+### OTHER on 2025-05-30 18:09
+- Location: Breitbart News
+- Description: Harmeet Dhillon, assistant attorney general for the Civil Rights Division of the Department of Justice (DOJ), is cleaning out the politicized division with a focus on ending the DOJ’s George Floyd-era agreements with police departments that have turned severa…
 
 
-### OTHER on 2025-05-30 12:23
-- Location: Al Jazeera English
-- Description: Biden and Trump’s clemency decisions reveal a justice system shaped by nepotism and spectacle, not fairness.
+### HOMICIDE on 2025-05-30 18:06
+- Location: Time
+- Description: The Spanish thriller A Widow’s Game is based on a real-life story of betrayal, manipulation, and murder.
 
 
-### OTHER on 2025-05-30 12:19
-- Location: ComputerWeekly.com
-- Description: While non-IT business professionals in the middle of their careers face the most disruption from AI, professionals in the IT services sector and their employers must prepare for change
+### HOMICIDE on 2025-05-30 18:04
+- Location: CBS Sports
+- Description: The team hires 24-hour security for the pitcher and his family, as MLB security and the Houston Police Department are also involved
 
-Analysis generated at: Sat May 31 12:42:26 UTC 2025
+Analysis generated at: Sat May 31 18:18:08 UTC 2025
