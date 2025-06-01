@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Jun  1 12:26:09 UTC 2025
+Last updated: Sun Jun  1 12:43:41 UTC 2025
 
 ## Latest Analysis
 
-Loaded 35869 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-31 12:15:00
+Loaded 35871 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-31 12:36:46
 
 Incidents by source:
 source
-newsapi           35768
+newsapi           35770
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,6 +24,16 @@ bution.svg)
 
 ## Recent Incidents
 
+### ROBBERY/THEFT on 2025-05-31 12:36
+- Location: Hurriyet Daily News
+- Description: Turkish authorities launched the fifth wave of a sweeping corruption probe targeting the Istanbul Metropolitan Municipality (İBB) and district municipalities, detaining 30 of 47 suspects, including five district mayors and former CHP lawmaker Aykut Erdoğdu.
+
+
+### HOMICIDE on 2025-05-31 12:30
+- Location: Richmond.com
+- Description: The shocking slaying of Dr. Austin I. Dodson Sr. prompted a slew of proposals for Monroe Park, from modest improvements to safety to selling it to Richmond Professional Institute.
+
+
 ### HOMICIDE on 2025-05-31 12:15
 - Location: New York Post
 - Description: A boozed-up Rex Heuermann made an unwanted pass at Kaylin Morales, 21, just days before his shocking arrest for the Gilgo Four murders, according to Morales and videos she took of the encounter.
@@ -38,14 +48,4 @@ bution.svg)
 - Location: NBC News
 - Description: A manhunt has been launched after seven teenagers were wounded in a drive-by shooting in the early hours of Saturday morning, police in Chicago said.
 
-
-### ASSAULT on 2025-05-31 12:01
-- Location: New York Post
-- Description: More subway riders have reported being punched, kicked and stabbed so far this year than last, data from the NYPD shows.
-
-
-### OTHER on 2025-05-31 12:00
-- Location: The Denver Post
-- Description: The story will seem all too real to local readers because it is set in Denver.
-
-Analysis generated at: Sun Jun  1 12:26:09 UTC 2025
+Analysis generated at: Sun Jun  1 12:43:41 UTC 2025
