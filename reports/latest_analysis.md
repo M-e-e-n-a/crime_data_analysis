@@ -1,10 +1,10 @@
 
-Loaded 35871 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-31 12:36:46
+Loaded 35918 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-31 18:14:32
 
 Incidents by source:
 source
-newsapi           35770
+newsapi           35817
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2025-05-31 12:36
-- Location: Hurriyet Daily News
-- Description: Turkish authorities launched the fifth wave of a sweeping corruption probe targeting the Istanbul Metropolitan Municipality (İBB) and district municipalities, detaining 30 of 47 suspects, including five district mayors and former CHP lawmaker Aykut Erdoğdu.
+### ASSAULT on 2025-05-31 18:14
+- Location: The Daily Caller
+- Description: Several New York City law enforcement officers are victims of a spate of felony assaults, according to authorities
 
 
-### HOMICIDE on 2025-05-31 12:30
-- Location: Richmond.com
-- Description: The shocking slaying of Dr. Austin I. Dodson Sr. prompted a slew of proposals for Monroe Park, from modest improvements to safety to selling it to Richmond Professional Institute.
+### HOMICIDE on 2025-05-31 18:12
+- Location: Yahoo Entertainment
+- Description: The city of Mannheim in south-western Germany commemorated slain police officer Rouven Laur on Saturday in the market square where he was killed in a knife...
 
 
-### HOMICIDE on 2025-05-31 12:15
-- Location: New York Post
-- Description: A boozed-up Rex Heuermann made an unwanted pass at Kaylin Morales, 21, just days before his shocking arrest for the Gilgo Four murders, according to Morales and videos she took of the encounter.
+### OTHER on 2025-05-31 18:07
+- Location: WJLA
+- Description: Some of Sean “Diddy” Combs ’ ex-employees took a central role in the third week of his sex trafficking trial, including personal assistants who testified that t
 
 
-### HOMICIDE on 2025-05-31 12:12
-- Location: CBS News
-- Description: Grant Hardin, a former police chief who was convicted of rape and murder, escaped from an Arkansas prison nearly a week ago. A massive manhunt is continuing to find the man nicknamed "Devil in the Ozarks" and take him back into custody.
+### OTHER on 2025-05-31 18:00
+- Location: TheWrap
+- Description: Both well-known hits and smaller, oft-forgotten hidden gems await
+The post The 7 Best Psychological Thrillers Streaming on Max Right Now appeared first on TheWrap.
 
 
-### SHOOTING on 2025-05-31 12:03
-- Location: NBC News
-- Description: A manhunt has been launched after seven teenagers were wounded in a drive-by shooting in the early hours of Saturday morning, police in Chicago said.
+### OTHER on 2025-05-31 17:50
+- Location: Screen Rant
+- Description: The Scream franchise is full of well-known and prolific actors that are often easy to forget, with many blink-and-you'll-miss-it cameos.
 
-Analysis generated at: Sun Jun  1 12:43:41 UTC 2025
+Analysis generated at: Sun Jun  1 18:18:08 UTC 2025
