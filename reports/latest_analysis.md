@@ -1,10 +1,10 @@
 
-Loaded 35798 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-31 01:05:07
+Loaded 35801 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-31 02:06:00
 
 Incidents by source:
 source
-newsapi           35697
+newsapi           35700
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,6 +20,21 @@ bution.svg)
 
 ## Recent Incidents
 
+### OTHER on 2025-05-31 02:06
+- Location: Trinidad & Tobago Express Newspapers
+- Description: Members of the local business community, particularly small and medium-sized enterprises (SMEs), have expressed support for the new administration and are urging citizens to be patient as the country begins
+
+
+### HOMICIDE on 2025-05-31 02:00
+- Location: New York Post
+- Description: Nearly seven years after Lesandro "Junior" Guzman-Feliz, 15, was hacked to death by a cowardly Bronx street crew, one of his killers was re-sentenced.
+
+
+### OTHER on 2025-05-31 01:30
+- Location: Independent.ie
+- Description: Planning a night on the couch? Here are today’s top TV and streaming picks:
+
+
 ### SHOOTING on 2025-05-31 01:05
 - Location: ABC6OnYourSide.com
 - Description: A man accused of shooting two police officers is now in police custody, according to the U.S. Marshals Service and FOP Lodge 9.
@@ -29,19 +44,4 @@ bution.svg)
 - Location: Variety
 - Description: The Mediterrane Film Festival in Malta is returning for its third edition with more than 40 films from over 20 countries. Running from June 21-29 in the island’s capital, Valletta, the festival has set programming for its Competition, Out of Competition and M…
 
-
-### ROBBERY/THEFT on 2025-05-31 00:57
-- Location: ABC News (AU)
-- Description: Youth crime is a hot-button issue across Australia, but figuring out just how big a problem it is and what can be done to reduce offending is complicated and often divisive.
-
-
-### HOMICIDE on 2025-05-31 00:45
-- Location: OK!
-- Description: Scott Peterson has been in prison for over two decades since he was convicted of murdering his wife, Laci, and their unborn son in 2002.
-
-
-### OTHER on 2025-05-31 00:30
-- Location: STLtoday.com
-- Description: Zumwalt East's Foster repeats as Class 4 pole vault champ
-
-Analysis generated at: Sun Jun  1 01:21:26 UTC 2025
+Analysis generated at: Sun Jun  1 02:11:59 UTC 2025
