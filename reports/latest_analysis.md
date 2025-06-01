@@ -1,10 +1,10 @@
 
-Loaded 35831 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-31 06:04:49
+Loaded 35869 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-31 12:15:00
 
 Incidents by source:
 source
-newsapi           35730
+newsapi           35768
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-05-31 06:04
-- Location: The Local Sweden
-- Description: A music festival in Sweden on Friday cancelled a concert with rapper Yasin, following media reports of a murder plot against the artist, organisers said.
+### HOMICIDE on 2025-05-31 12:15
+- Location: New York Post
+- Description: A boozed-up Rex Heuermann made an unwanted pass at Kaylin Morales, 21, just days before his shocking arrest for the Gilgo Four murders, according to Morales and videos she took of the encounter.
 
 
-### OTHER on 2025-05-31 06:00
-- Location: Naturalnews.com
-- Description: The U.S. State Department issued a warning on May 27, designating Venezuela as a “Do Not Travel” destination due to risks like wrongful detention, torture, kidnapping and violent crime under President Nicolas Maduro’s regime. U.S. citizens face heightened ris…
+### HOMICIDE on 2025-05-31 12:12
+- Location: CBS News
+- Description: Grant Hardin, a former police chief who was convicted of rape and murder, escaped from an Arkansas prison nearly a week ago. A massive manhunt is continuing to find the man nicknamed "Devil in the Ozarks" and take him back into custody.
 
 
-### ASSAULT on 2025-05-31 05:54
-- Location: DW (English)
-- Description: Muhammad al-Muhammad is the Syrian teenager who helped stop last Friday's knife attack in Hamburg. But reports of his heroism were soon called into question as conflicting accounts flooded social media.
+### SHOOTING on 2025-05-31 12:03
+- Location: NBC News
+- Description: A manhunt has been launched after seven teenagers were wounded in a drive-by shooting in the early hours of Saturday morning, police in Chicago said.
 
 
-### HOMICIDE on 2025-05-31 05:46
-- Location: Sky.com
-- Description: A woman has been stabbed to death in south London, police have said.
+### ASSAULT on 2025-05-31 12:01
+- Location: New York Post
+- Description: More subway riders have reported being punched, kicked and stabbed so far this year than last, data from the NYPD shows.
 
 
-### OTHER on 2025-05-31 05:45
-- Location: The Irish Times
-- Description: The former Sinn Féin leader, who has always denied he was in the IRA, took a risk in suing the broadcaster but it paid off
+### OTHER on 2025-05-31 12:00
+- Location: The Denver Post
+- Description: The story will seem all too real to local readers because it is set in Denver.
 
-Analysis generated at: Sun Jun  1 06:19:53 UTC 2025
+Analysis generated at: Sun Jun  1 12:26:09 UTC 2025
