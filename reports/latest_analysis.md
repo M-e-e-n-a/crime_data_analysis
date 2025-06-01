@@ -1,10 +1,10 @@
 
-Loaded 35786 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-30 18:17:52
+Loaded 35798 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-31 01:05:07
 
 Incidents by source:
 source
-newsapi           35685
+newsapi           35697
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-05-30 18:17
-- Location: TheJournal.ie
-- Description: “No one spoke for my family in court. We supported neither side in this case,” Jane Donaldson said.
+### SHOOTING on 2025-05-31 01:05
+- Location: ABC6OnYourSide.com
+- Description: A man accused of shooting two police officers is now in police custody, according to the U.S. Marshals Service and FOP Lodge 9.
 
 
-### SHOOTING on 2025-05-30 18:11
-- Location: Yahoo Entertainment
-- Description: None
+### OTHER on 2025-05-31 01:00
+- Location: Variety
+- Description: The Mediterrane Film Festival in Malta is returning for its third edition with more than 40 films from over 20 countries. Running from June 21-29 in the island’s capital, Valletta, the festival has set programming for its Competition, Out of Competition and M…
 
 
-### OTHER on 2025-05-30 18:09
-- Location: Breitbart News
-- Description: Harmeet Dhillon, assistant attorney general for the Civil Rights Division of the Department of Justice (DOJ), is cleaning out the politicized division with a focus on ending the DOJ’s George Floyd-era agreements with police departments that have turned severa…
+### ROBBERY/THEFT on 2025-05-31 00:57
+- Location: ABC News (AU)
+- Description: Youth crime is a hot-button issue across Australia, but figuring out just how big a problem it is and what can be done to reduce offending is complicated and often divisive.
 
 
-### HOMICIDE on 2025-05-30 18:06
-- Location: Time
-- Description: The Spanish thriller A Widow’s Game is based on a real-life story of betrayal, manipulation, and murder.
+### HOMICIDE on 2025-05-31 00:45
+- Location: OK!
+- Description: Scott Peterson has been in prison for over two decades since he was convicted of murdering his wife, Laci, and their unborn son in 2002.
 
 
-### HOMICIDE on 2025-05-30 18:04
-- Location: CBS Sports
-- Description: The team hires 24-hour security for the pitcher and his family, as MLB security and the Houston Police Department are also involved
+### OTHER on 2025-05-31 00:30
+- Location: STLtoday.com
+- Description: Zumwalt East's Foster repeats as Class 4 pole vault champ
 
-Analysis generated at: Sat May 31 18:18:08 UTC 2025
+Analysis generated at: Sun Jun  1 01:21:26 UTC 2025
