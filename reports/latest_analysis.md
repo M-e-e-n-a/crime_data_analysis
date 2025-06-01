@@ -1,10 +1,10 @@
 
-Loaded 35801 incidents
-Date range: 2024-01-01 00:00:00 to 2025-05-31 02:06:00
+Loaded 35831 incidents
+Date range: 2024-01-01 00:00:00 to 2025-05-31 06:04:49
 
 Incidents by source:
 source
-newsapi           35700
+newsapi           35730
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-05-31 02:06
-- Location: Trinidad & Tobago Express Newspapers
-- Description: Members of the local business community, particularly small and medium-sized enterprises (SMEs), have expressed support for the new administration and are urging citizens to be patient as the country begins
+### HOMICIDE on 2025-05-31 06:04
+- Location: The Local Sweden
+- Description: A music festival in Sweden on Friday cancelled a concert with rapper Yasin, following media reports of a murder plot against the artist, organisers said.
 
 
-### HOMICIDE on 2025-05-31 02:00
-- Location: New York Post
-- Description: Nearly seven years after Lesandro "Junior" Guzman-Feliz, 15, was hacked to death by a cowardly Bronx street crew, one of his killers was re-sentenced.
+### OTHER on 2025-05-31 06:00
+- Location: Naturalnews.com
+- Description: The U.S. State Department issued a warning on May 27, designating Venezuela as a “Do Not Travel” destination due to risks like wrongful detention, torture, kidnapping and violent crime under President Nicolas Maduro’s regime. U.S. citizens face heightened ris…
 
 
-### OTHER on 2025-05-31 01:30
-- Location: Independent.ie
-- Description: Planning a night on the couch? Here are today’s top TV and streaming picks:
+### ASSAULT on 2025-05-31 05:54
+- Location: DW (English)
+- Description: Muhammad al-Muhammad is the Syrian teenager who helped stop last Friday's knife attack in Hamburg. But reports of his heroism were soon called into question as conflicting accounts flooded social media.
 
 
-### SHOOTING on 2025-05-31 01:05
-- Location: ABC6OnYourSide.com
-- Description: A man accused of shooting two police officers is now in police custody, according to the U.S. Marshals Service and FOP Lodge 9.
+### HOMICIDE on 2025-05-31 05:46
+- Location: Sky.com
+- Description: A woman has been stabbed to death in south London, police have said.
 
 
-### OTHER on 2025-05-31 01:00
-- Location: Variety
-- Description: The Mediterrane Film Festival in Malta is returning for its third edition with more than 40 films from over 20 countries. Running from June 21-29 in the island’s capital, Valletta, the festival has set programming for its Competition, Out of Competition and M…
+### OTHER on 2025-05-31 05:45
+- Location: The Irish Times
+- Description: The former Sinn Féin leader, who has always denied he was in the IRA, took a risk in suing the broadcaster but it paid off
 
-Analysis generated at: Sun Jun  1 02:11:59 UTC 2025
+Analysis generated at: Sun Jun  1 06:19:53 UTC 2025
