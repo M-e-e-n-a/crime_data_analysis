@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Jun  2 06:21:53 UTC 2025
+Last updated: Mon Jun  2 12:29:09 UTC 2025
 
 ## Latest Analysis
 
-Loaded 35957 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-01 06:13:13
+Loaded 36010 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-01 12:11:00
 
 Incidents by source:
 source
-newsapi           35856
+newsapi           35909
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-06-01 06:13
-- Location: soompi
-- Description: JTBC’s “Good Boy” has shared a sneak peek of its upcoming second episode! “Good Boy” is an action-comedy drama about a group of former national athletes who becomes police officers through a special recruit program. Swapping their medals for badges, they take…
+### HOMICIDE on 2025-06-01 12:11
+- Location: GoDanRiver.com
+- Description: DANVILLE — One person is dead and four others injured after an early Sunday morning exchange of gunfire between a vehicle and others at an outdoor gathering in Danville, authorities report.
 
 
-### OTHER on 2025-06-01 06:00
-- Location: Naturalnews.com
-- Description: Former Los Angeles Deputy Mayor Brian Williams admitted to orchestrating a hoax bomb threat against City Hall in October 2024, falsely blaming anti-Israel sentiment. He faces up to 10 years in prison. Williams used Google Voice to fake a threatening call to h…
+### HOMICIDE on 2025-06-01 12:09
+- Location: New York Post
+- Description: A quiet North Carolina city was rocked by a mass shooting at a house party overnight that left one person dead and 11 others wounded, according to cops. Cops were called to a home near Hickory — about 60 miles northwest of Charlotte — at around 12:45 a.m. Sun…
 
 
-### HOMICIDE on 2025-06-01 05:57
-- Location: Digital Journal
-- Description: Bangladesh will open the trial on Sunday of fugitive former prime minister Sheikh Hasina on charges of crimes against humanity related to the killings of protesters by police, prosecutors said.  Hasina, 77, fled by helicopter to her old ally India in August 2…
+### OTHER on 2025-06-01 12:00
+- Location: The Denver Post
+- Description: What's happening in Colorado in part of a growing trend to incorporate more diverse perspectives into politics nationwide, shaping policies and advocating for communities.
 
 
-### SHOOTING on 2025-06-01 05:55
-- Location: Bangkok Post
-- Description: PATTAYA: Three Chinese people aged 24-32 were detained in this tourist city after one of them injured a compatriot with a gunshot at a rented house on Saturday.
+### OTHER on 2025-06-01 11:54
+- Location: Securityaffairs.com
+- Description: Security Affairs Malware newsletter includes a collection of the best articles and research on malware in the international landscape 60 Malicious npm Packages Leak Network and Host Data in Active Malware Campaign Russia-Aligned TAG-110 Targets Tajikistan wit…
 
 
-### ROBBERY/THEFT on 2025-06-01 05:45
-- Location: Newsbreak.com
-- Description: I believe Robert F. Kennedy Jr.'s leadership at HHS is spreading misinformation and cutting vital health programs, threatening public health safety.
+### SHOOTING on 2025-06-01 11:51
+- Location: AppleInsider
+- Description: Shawn Kemp agrees to a plea deal in iPhone-related shooting, iCloud evidence is used in crypto indictment, and a stolen iPhone ends up in China in this week's Apple Crime Blotter.The Apple Store in Beavercreek, OhioThe latest in an occasional AppleInsider ser…
 
-Analysis generated at: Mon Jun  2 06:21:53 UTC 2025
+Analysis generated at: Mon Jun  2 12:29:09 UTC 2025
