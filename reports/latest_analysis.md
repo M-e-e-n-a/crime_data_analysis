@@ -1,10 +1,10 @@
 
-Loaded 36010 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-01 12:11:00
+Loaded 36011 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-01 12:39:00
 
 Incidents by source:
 source
-newsapi           35909
+newsapi           35910
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -19,6 +19,11 @@ bution.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### HOMICIDE on 2025-06-01 12:39
+- Location: Sky.com
+- Description: Two Scottish people have been shot dead by a hooded gunman outside an Irish pub in the Costa del Sol, according to reports in Spain.
+
 
 ### HOMICIDE on 2025-06-01 12:11
 - Location: GoDanRiver.com
@@ -39,9 +44,4 @@ bution.svg)
 - Location: Securityaffairs.com
 - Description: Security Affairs Malware newsletter includes a collection of the best articles and research on malware in the international landscape 60 Malicious npm Packages Leak Network and Host Data in Active Malware Campaign Russia-Aligned TAG-110 Targets Tajikistan wit…
 
-
-### SHOOTING on 2025-06-01 11:51
-- Location: AppleInsider
-- Description: Shawn Kemp agrees to a plea deal in iPhone-related shooting, iCloud evidence is used in crypto indictment, and a stolen iPhone ends up in China in this week's Apple Crime Blotter.The Apple Store in Beavercreek, OhioThe latest in an occasional AppleInsider ser…
-
-Analysis generated at: Mon Jun  2 12:29:09 UTC 2025
+Analysis generated at: Mon Jun  2 12:49:17 UTC 2025
