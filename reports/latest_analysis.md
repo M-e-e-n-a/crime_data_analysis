@@ -1,10 +1,10 @@
 
-Loaded 35924 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-01 01:01:18
+Loaded 35932 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-01 01:58:00
 
 Incidents by source:
 source
-newsapi           35823
+newsapi           35831
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-06-01 01:01
-- Location: Screen Rant
-- Description: The 1950s was the greatest decade for the traditional Hollywood Western movie, seeing the release of many underrated classics from unsung masters.
-
-
-### OTHER on 2025-06-01 01:00
+### OTHER on 2025-06-01 01:58
 - Location: STLtoday.com
-- Description: Eduard Lowen had a goal and an assist as the team snapped its 11-game winless streak with a 2-1 win over San Jose in David Critchley's debut as interim coach
+- Description: With 10 strikeouts in a 2-0 win vs. the Rangers, Cardinals starter Sonny Gray reached 1,800 strikeouts for his career and continued his string of quality outings to end May.
 
 
-### OTHER on 2025-06-01 00:54
+### OTHER on 2025-06-01 01:57
 - Location: Fox News
-- Description: ICE agents confiscated a knife from a "violent Venezuelan alien" during an arrest tied to a May 29 gang sweep in San Diego, the agency said Saturday on X.
+- Description: The late George Wendt mistakenly linked John Boehner to a scandal during a 1990 TV appearance, affecting Boehner's congressional campaign in Ohio.
 
 
-### HOMICIDE on 2025-06-01 00:45
-- Location: GeekTyrant
-- Description: Showtime has released the first proper trailer for Dexter: Resurrection, and it sees the return of Michael C. Hall’s Dexter Morgan, and he is ready to keep killing.Dexter: Resurrection is set after the events of Dexter: New Blood, and it takes place weeks aft…
+### ASSAULT on 2025-06-01 01:50
+- Location: Freerepublic.com
+- Description: Clovis police charged a 19-year-old with assault and vandalism after alleged attack outside Buchanan High School during state championship California's track and field state championship in Clovis, California, turned into a crime scene Friday as tensions rose…
 
 
-### HOMICIDE on 2025-06-01 00:35
-- Location: Variety
-- Description: Netflix has unveiled the trailer for “Wake Up Dead Man: A Knives Out Mystery.” The film marks the third iteration in the murder mystery franchise, which stars Daniel Craig in the role of celebrated Southern detective Benoit Blanc. While the plot for the film …
+### ASSAULT on 2025-06-01 01:45
+- Location: Freerepublic.com
+- Description: A former and a sitting judge have been arrested for harbouring or preventing the arrest of illegal aliens. Rep. LaMonica McIver is also facing charges for assaulting ICE agents during a publicity stunt at an ICE detention center in New Jersey “If you cross th…
 
-Analysis generated at: Mon Jun  2 01:11:51 UTC 2025
+
+### HOMICIDE on 2025-06-01 01:37
+- Location: Freerepublic.com
+- Description: Twenty-four-year-old Kaitlyn Weaver was killed by a 16-year-old illegal alien who was driving 90 miles an hour—without a license—in Colorado, last year Stephen Miller announced the minor and his entire family, who have now been arrested, would be deported An …
+
+Analysis generated at: Mon Jun  2 01:59:17 UTC 2025
