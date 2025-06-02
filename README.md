@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Jun  2 01:59:17 UTC 2025
+Last updated: Mon Jun  2 06:21:53 UTC 2025
 
 ## Latest Analysis
 
-Loaded 35932 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-01 01:58:00
+Loaded 35957 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-01 06:13:13
 
 Incidents by source:
 source
-newsapi           35831
+newsapi           35856
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-06-01 01:58
-- Location: STLtoday.com
-- Description: With 10 strikeouts in a 2-0 win vs. the Rangers, Cardinals starter Sonny Gray reached 1,800 strikeouts for his career and continued his string of quality outings to end May.
+### OTHER on 2025-06-01 06:13
+- Location: soompi
+- Description: JTBC’s “Good Boy” has shared a sneak peek of its upcoming second episode! “Good Boy” is an action-comedy drama about a group of former national athletes who becomes police officers through a special recruit program. Swapping their medals for badges, they take…
 
 
-### OTHER on 2025-06-01 01:57
-- Location: Fox News
-- Description: The late George Wendt mistakenly linked John Boehner to a scandal during a 1990 TV appearance, affecting Boehner's congressional campaign in Ohio.
+### OTHER on 2025-06-01 06:00
+- Location: Naturalnews.com
+- Description: Former Los Angeles Deputy Mayor Brian Williams admitted to orchestrating a hoax bomb threat against City Hall in October 2024, falsely blaming anti-Israel sentiment. He faces up to 10 years in prison. Williams used Google Voice to fake a threatening call to h…
 
 
-### ASSAULT on 2025-06-01 01:50
-- Location: Freerepublic.com
-- Description: Clovis police charged a 19-year-old with assault and vandalism after alleged attack outside Buchanan High School during state championship California's track and field state championship in Clovis, California, turned into a crime scene Friday as tensions rose…
+### HOMICIDE on 2025-06-01 05:57
+- Location: Digital Journal
+- Description: Bangladesh will open the trial on Sunday of fugitive former prime minister Sheikh Hasina on charges of crimes against humanity related to the killings of protesters by police, prosecutors said.  Hasina, 77, fled by helicopter to her old ally India in August 2…
 
 
-### ASSAULT on 2025-06-01 01:45
-- Location: Freerepublic.com
-- Description: A former and a sitting judge have been arrested for harbouring or preventing the arrest of illegal aliens. Rep. LaMonica McIver is also facing charges for assaulting ICE agents during a publicity stunt at an ICE detention center in New Jersey “If you cross th…
+### SHOOTING on 2025-06-01 05:55
+- Location: Bangkok Post
+- Description: PATTAYA: Three Chinese people aged 24-32 were detained in this tourist city after one of them injured a compatriot with a gunshot at a rented house on Saturday.
 
 
-### HOMICIDE on 2025-06-01 01:37
-- Location: Freerepublic.com
-- Description: Twenty-four-year-old Kaitlyn Weaver was killed by a 16-year-old illegal alien who was driving 90 miles an hour—without a license—in Colorado, last year Stephen Miller announced the minor and his entire family, who have now been arrested, would be deported An …
+### ROBBERY/THEFT on 2025-06-01 05:45
+- Location: Newsbreak.com
+- Description: I believe Robert F. Kennedy Jr.'s leadership at HHS is spreading misinformation and cutting vital health programs, threatening public health safety.
 
-Analysis generated at: Mon Jun  2 01:59:17 UTC 2025
+Analysis generated at: Mon Jun  2 06:21:53 UTC 2025
