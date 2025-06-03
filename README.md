@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Jun  2 18:20:01 UTC 2025
+Last updated: Tue Jun  3 01:10:07 UTC 2025
 
 ## Latest Analysis
 
-Loaded 36052 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-01 18:17:05
+Loaded 36061 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-02 01:02:38
 
 Incidents by source:
 source
-newsapi           35951
+newsapi           35960
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-06-01 18:17
-- Location: Breitbart News
-- Description: “I just killed someone and walked away,” an apparently deranged man reportedly told police Wednesday after he was arrested for stabbing a popular hairstylist to death with a steak knife in a luxury apartment parking garage in Sunrise, Florida.
-The post Police…
+### ASSAULT on 2025-06-02 01:02
+- Location: Newser
+- Description: Several people were injured and some may have suffered burns Sunday in what the FBI immediately described as a "targeted terror attack" at an outdoor mall in Boulder, Colorado, where a group had gathered to raise attention to Israeli hostages held in Gaza. On…
 
 
-### OTHER on 2025-06-01 17:55
-- Location: Newsweek
-- Description: The Los Angeles Lakers are reportedly set on Bronny James being part of the rotation next year.
+### HOMICIDE on 2025-06-02 00:54
+- Location: ABC News
+- Description: Gunfire erupted around a house party in western North Carolina early Sunday and authorities say one person was killed and 11 others injured
 
 
-### OTHER on 2025-06-01 17:53
-- Location: Vanity Fair
-- Description: US Department of Homeland Security officers entered the New York Democrat's Manhattan office and accused staff of “harboring rioters.”
+### OTHER on 2025-06-02 00:37
+- Location: STLtoday.com
+- Description: The Cardinals had their 2-1 deficit grow to 8-1 on Sunday at Globe Life Field as "non-plays" vs. the Rangers led to a series loss.
 
 
-### HOMICIDE on 2025-06-01 17:24
-- Location: Newsonjapan.com
-- Description: A female employee was fatally stabbed at a child welfare facility in Saga City on May 31st. Police arrested a 28-year-old woman at the scene on suspicion of attempted murder. (News On Japan)
+### ASSAULT on 2025-06-02 00:33
+- Location: Boston Herald
+- Description: Multiple people were burned, some severely, in an attack on Boulder’s Pearl Street Mall during a vigil that called on Hamas to release Israeli hostages.
 
 
-### SHOOTING on 2025-06-01 17:20
-- Location: Gothamist
-- Description: Screenshot from a video recorded Wednesday in the Varick Street office of Rep. Jerry Nadler. It shows a federal Department of Homeland Security officer handcuffing a staff member during what DHS later said was a "security check." The staffer, who was not arre…
+### ASSAULT on 2025-06-02 00:29
+- Location: ABC News (AU)
+- Description: A 22-year-old woman has died at Royal Darwin Hospital 10 days after an alleged domestic violence attack. A man has been charged as police continue to investigate.
 
-Analysis generated at: Mon Jun  2 18:20:01 UTC 2025
+Analysis generated at: Tue Jun  3 01:10:07 UTC 2025
