@@ -1,10 +1,10 @@
 
-Loaded 36061 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-02 01:02:38
+Loaded 36069 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-02 01:54:55
 
 Incidents by source:
 source
-newsapi           35960
+newsapi           35968
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2025-06-02 01:02
-- Location: Newser
-- Description: Several people were injured and some may have suffered burns Sunday in what the FBI immediately described as a "targeted terror attack" at an outdoor mall in Boulder, Colorado, where a group had gathered to raise attention to Israeli hostages held in Gaza. On…
+### OTHER on 2025-06-02 01:54
+- Location: New Zealand Herald
+- Description: At least 300 people gathered in Kaikohe to mourn 3-year-old Catalya.
 
 
-### HOMICIDE on 2025-06-02 00:54
-- Location: ABC News
-- Description: Gunfire erupted around a house party in western North Carolina early Sunday and authorities say one person was killed and 11 others injured
+### ASSAULT on 2025-06-02 01:52
+- Location: Freerepublic.com
+- Description: You’d think an elderly woman getting burned alive at a pro-Israel event by a man hurling Molotov cocktails while screaming “This will end when Palestine is free” would be universally condemned as terrorism. But this is 2025, with the media’s moral compass sti…
 
 
-### OTHER on 2025-06-02 00:37
-- Location: STLtoday.com
-- Description: The Cardinals had their 2-1 deficit grow to 8-1 on Sunday at Globe Life Field as "non-plays" vs. the Rangers led to a series loss.
+### ASSAULT on 2025-06-02 01:42
+- Location: Marca
+- Description: A Sunday afternoon event intended to promote solidarity for Israeli hostages turned into a violent scene in Boulder, Colorado, when a man allegedly attacked participants with incen
 
 
-### ASSAULT on 2025-06-02 00:33
-- Location: Boston Herald
-- Description: Multiple people were burned, some severely, in an attack on Boulder’s Pearl Street Mall during a vigil that called on Hamas to release Israeli hostages.
+### OTHER on 2025-06-02 01:30
+- Location: Independent.ie
+- Description: Planning a night on the couch? Here are today’s top TV and streaming picks:
 
 
-### ASSAULT on 2025-06-02 00:29
-- Location: ABC News (AU)
-- Description: A 22-year-old woman has died at Royal Darwin Hospital 10 days after an alleged domestic violence attack. A man has been charged as police continue to investigate.
+### HOMICIDE on 2025-06-02 01:22
+- Location: Freerepublic.com
+- Description: Anti-ICE activists intervened and obstructed the officers, with one individual later posting a video online bragging about running the agents out of the area. Immigration and Customs Enforcement (ICE) agents in Boston were forced to abandon an operation after…
 
-Analysis generated at: Tue Jun  3 01:10:07 UTC 2025
+Analysis generated at: Tue Jun  3 01:56:02 UTC 2025
