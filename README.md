@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Jun  3 06:21:22 UTC 2025
+Last updated: Tue Jun  3 12:29:00 UTC 2025
 
 ## Latest Analysis
 
-Loaded 36104 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-02 06:12:25
+Loaded 36173 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-02 12:26:39
 
 Incidents by source:
 source
-newsapi           36003
+newsapi           36072
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-06-02 06:12
-- Location: Hurriyet Daily News
-- Description: The lighthouse appeared overnight. Painted on a wall tucked away in a quiet Marseille street, its beam aligned perfectly with the real-life shadow of a metal post on the pavement. At its center, stenciled in crisp white, are the words: “I want to be what you …
+### ASSAULT on 2025-06-02 12:26
+- Location: New York Post
+- Description: CNN has been ripped after one of the lefty outlet’s commentators trashed the FBI as “juvenile” for quickly branding the hate-fueled Colorado firebomb attack as terrorism. Juliette Kayyem, one of the network’s national security analysts, came under fire after …
 
 
-### OTHER on 2025-06-02 06:05
-- Location: 7NEWS.com.au
-- Description: The teen died by suicide, several hours after he was coerced into exchanging sexualised images with an alleged online perpetrator.
+### ASSAULT on 2025-06-02 12:16
+- Location: Time
+- Description: Eight people have been injured after a man set people on fire at an event supporting Israeli hostages.
 
 
-### HOMICIDE on 2025-06-02 06:00
-- Location: Dramabeans.com
-- Description: As our hero and heroine find a snippet of a clue to the puzzle piece killer’s identity, they are still one step behind every time they think they are getting close. In a dangerous game of cat and mouse will they be able to lure the killer out and stop the mur…
+### HOMICIDE on 2025-06-02 12:02
+- Location: Forbes
+- Description: Park Bo-gum and Kim So-hyun plays Olympic Gold medalists who use their exceptional skills to start second careers as police officers.
 
 
-### OTHER on 2025-06-02 06:00
-- Location: Naturalnews.com
-- Description: The Department of Homeland Security published a list of hundreds of cities, counties and states (including California, New York and Illinois) accused of refusing to cooperate with federal immigration enforcement. These jurisdictions could lose federal grants …
+### OTHER on 2025-06-02 12:00
+- Location: KPBS
+- Description: The Trump Administration’s hardline immigration policies continue to affect San Diego. Today we look at what the new federal sanctuary designation list means for our region, as well as the State Department’s threat to revoke visas for all international studen…
 
 
-### OTHER on 2025-06-02 05:57
-- Location: ABC News (AU)
-- Description: The 100kg sculpture, which depicts a naked man and woman, upset parishioners who believed it had an "occult element".
+### OTHER on 2025-06-02 11:58
+- Location: ComingSoon.net
+- Description: A new photo from the sets of Daredevil: Born Again Season 2 seemingly confirms the return of White Tiger but in a different way. The White Tiger, aka Hector Ayala, was portrayed by actor Kamar de los Reyes in Season 1 of the show. However, the late actor’s ch…
 
-Analysis generated at: Tue Jun  3 06:21:22 UTC 2025
+Analysis generated at: Tue Jun  3 12:29:00 UTC 2025
