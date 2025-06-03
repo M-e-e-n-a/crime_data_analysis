@@ -1,10 +1,10 @@
 
-Loaded 36177 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-02 12:44:11
+Loaded 36271 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-02 18:18:00
 
 Incidents by source:
 source
-newsapi           36076
+newsapi           36170
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-06-02 12:44
-- Location: BBC News
-- Description: The CCTV shows Ross Monaghan's final moments in a bar in Fuengirola after Eddie Lyons Jnr was gunned down outside.
+### HOMICIDE on 2025-06-02 18:18
+- Location: Protothema.gr
+- Description: Bukele's war on gangs has led to a drop in the homicide rate to its lowest level in 30 years
+The post I’d rather be called a dictator than have people murdered in the streets, says El Salvador’s Bukele appeared first on ProtoThema English.
 
 
-### OTHER on 2025-06-02 12:36
-- Location: Screen Rant
-- Description: The Far Side has a funny way of looking at things, including TV. Discover 10 strips by Gary Larson that take a twisted look at classic television.
+### HOMICIDE on 2025-06-02 18:16
+- Location: Breitbart News
+- Description: "King of the Hill" voice actor Jonathan Joss was shot dead around 7 p.m. following an argument with his neighbor in San Antonio, Texas.
+The post ‘King of the Hill’ Voice Actor Jonathan Joss Shot Dead Following Argument with Neighbor appeared first on Breitbar…
 
 
-### HOMICIDE on 2025-06-02 12:30
-- Location: CNA
-- Description: SINGAPORE: A 44-year-old man was arrested for murder on Sunday (Jun 1) after a 79-year-old woman was found dead in Sengkang. The police said they received a call for assistance at a residential unit along Fernvale Road at about 11.50am.  “Upon police’s arriva…
+### HOMICIDE on 2025-06-02 18:10
+- Location: Entertainment Weekly
+- Description: 'King of the Hill' and 'Parks and Recreation' star Jonathan Joss was killed in a shooting in San Antonio on June 1. He was 59.
 
 
-### OTHER on 2025-06-02 12:30
-- Location: Decider
-- Description: This June, Netflix's new programming slate is bringing the heat with some of the best TV shows from around the world all month long.
+### OTHER on 2025-06-02 18:09
+- Location: Boston Herald
+- Description: Courts have repeatedly upheld the legality of sanctuary laws.
 
 
-### ASSAULT on 2025-06-02 12:26
-- Location: New York Post
-- Description: CNN has been ripped after one of the lefty outlet’s commentators trashed the FBI as “juvenile” for quickly branding the hate-fueled Colorado firebomb attack as terrorism. Juliette Kayyem, one of the network’s national security analysts, came under fire after …
+### OTHER on 2025-06-02 18:06
+- Location: ABC News
+- Description: Immigration and Customs Enforcement Acting Director Todd Lyons is defending the use of masks by his agents
 
-Analysis generated at: Tue Jun  3 12:49:49 UTC 2025
+Analysis generated at: Tue Jun  3 18:20:41 UTC 2025
