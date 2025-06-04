@@ -1,10 +1,10 @@
 
-Loaded 36271 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-02 18:18:00
+Loaded 36285 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-03 01:01:43
 
 Incidents by source:
 source
-newsapi           36170
+newsapi           36184
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,30 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-06-02 18:18
-- Location: Protothema.gr
-- Description: Bukele's war on gangs has led to a drop in the homicide rate to its lowest level in 30 years
-The post I’d rather be called a dictator than have people murdered in the streets, says El Salvador’s Bukele appeared first on ProtoThema English.
-
-
-### HOMICIDE on 2025-06-02 18:16
-- Location: Breitbart News
-- Description: "King of the Hill" voice actor Jonathan Joss was shot dead around 7 p.m. following an argument with his neighbor in San Antonio, Texas.
-The post ‘King of the Hill’ Voice Actor Jonathan Joss Shot Dead Following Argument with Neighbor appeared first on Breitbar…
-
-
-### HOMICIDE on 2025-06-02 18:10
-- Location: Entertainment Weekly
-- Description: 'King of the Hill' and 'Parks and Recreation' star Jonathan Joss was killed in a shooting in San Antonio on June 1. He was 59.
-
-
-### OTHER on 2025-06-02 18:09
-- Location: Boston Herald
-- Description: Courts have repeatedly upheld the legality of sanctuary laws.
-
-
-### OTHER on 2025-06-02 18:06
+### SHOOTING on 2025-06-03 01:01
 - Location: ABC News
-- Description: Immigration and Customs Enforcement Acting Director Todd Lyons is defending the use of masks by his agents
+- Description: Authorities say a voice actor best known for his work on the animated television series “King of the Hill” was fatally shot near his Texas home
 
-Analysis generated at: Tue Jun  3 18:20:41 UTC 2025
+
+### HOMICIDE on 2025-06-03 00:56
+- Location: fox6now.com
+- Description: A Milwaukee man is accused of writing letters threatening to kill President Trump and ICE agents, and then sending those letters to Milwaukee officials, all the while posing as an immigrant.
+
+
+### HOMICIDE on 2025-06-03 00:49
+- Location: CBS News
+- Description: Police in Boulder, Colorado, said Monday that 12 people were injured in an attack on a group demonstrating in support of Israelis held hostage by Hamas. The suspect will be charged by both the state and federal government with hate crimes and attempted murder…
+
+
+### HOMICIDE on 2025-06-03 00:44
+- Location: The Denver Post
+- Description: The Pearl Street Mall on Sunday afternoon was so picture perfect that bystanders didn’t recognize the first flashes of flame as dangerous.
+
+
+### SHOOTING on 2025-06-03 00:31
+- Location: The Denver Post
+- Description: Jonathan Joss, a voice actor best known for his work on the animated television series “King of the Hill,” was fatally shot near his Texas home, authorities said Monday.
+
+Analysis generated at: Wed Jun  4 01:09:45 UTC 2025
