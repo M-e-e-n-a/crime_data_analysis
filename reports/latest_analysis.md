@@ -1,10 +1,10 @@
 
-Loaded 36430 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-03 12:49:09
+Loaded 36523 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-03 18:18:51
 
 Incidents by source:
 source
-newsapi           36329
+newsapi           36422
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2025-06-03 12:49
+### HOMICIDE on 2025-06-03 18:18
+- Location: Yahoo Entertainment
+- Description: None
+
+
+### HOMICIDE on 2025-06-03 18:18
 - Location: BBC News
-- Description: The Met wants firms to block devices from accessing their networks, but they are concerned about fraud.
+- Description: Police Scotland is speaking out after speculation linking the weekend's murders with a gang war back home.
 
 
-### HOMICIDE on 2025-06-03 12:45
-- Location: CBS News
-- Description: The suspect in the attack against demonstrators supporting Israeli hostages in Gaza is facing new charges, including a felony hate crime charge. Mohamed Sabry Soliman has also been charged with attempted first-degree murder after a dozen people were injured i…
+### SHOOTING on 2025-06-03 18:14
+- Location: CNN
+- Description: Sean “Diddy” Combs appeared to be living like a “shot-caller” referenced in his 1997 hit “It’s All About the Benjamins” right up until his arrest in September.
 
 
-### ASSAULT on 2025-06-03 12:42
-- Location: NBC News
-- Description: The man accused of launching an "antisemitic attack" that injured at least 12 protesters with a "makeshift flamethrower" and Molotov cocktails in downtown Boulder on Sunday had "no regrets" and wanted his targets to die, Colorado officials said.
+### OTHER on 2025-06-03 18:11
+- Location: Bleeding Cool News
+- Description: Media Indie Exchange and Guerrilla Collective teamed up once again to hold The MIX Summer Game Showcase 2025, featuring over 55 indie games across two hours. T he MIX often serves as the unofficial kickoff point for Summer Game Fest, as we're getting a look a…
 
 
-### ASSAULT on 2025-06-03 12:33
-- Location: ABC News
-- Description: As his friends caught fire in front of his eyes in Boulder, Colorado, Omer Shachar felt "panic right away" and said he knew he had to help extinguish the flames.
+### SHOOTING on 2025-06-03 18:09
+- Location: Sky.com
+- Description: Police have said there is "no intelligence to suggest" a double shooting in Spain is linked to recent criminal attacks in Scotland.
 
-
-### OTHER on 2025-06-03 12:32
-- Location: Boston Herald
-- Description: A man is facing charges accusing him of forging letters threatening President Trump in an effort to get someone deported.
-
-Analysis generated at: Wed Jun  4 12:50:09 UTC 2025
+Analysis generated at: Wed Jun  4 18:20:08 UTC 2025
