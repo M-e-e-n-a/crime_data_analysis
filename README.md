@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Jun  4 01:56:08 UTC 2025
+Last updated: Wed Jun  4 06:21:03 UTC 2025
 
 ## Latest Analysis
 
-Loaded 36294 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-03 01:54:13
+Loaded 36337 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-03 06:16:00
 
 Incidents by source:
 source
-newsapi           36193
+newsapi           36236
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### DRUG RELATED on 2025-06-03 01:54
-- Location: ABC News (AU)
-- Description: Several men have been charged by police after a multi-agency taskforce working for almost two years busted a huge drug ring.
+### HOMICIDE on 2025-06-03 06:16
+- Location: Trulyadventure.us
+- Description: Is the killer behind the 1982 Tylenol poisonings still on the loose? Exclusive revelations by investigators yield the first authoritative account of what happened and who likely did it. James William Lewis, also known as Robert Richardson, left behind a trail…
 
 
-### OTHER on 2025-06-03 01:34
-- Location: Breitbart News
-- Description: Immigration and Customs Enforcement (ICE) has reported taking nearly 1,500 illegal aliens into custody during a large-scale sweep through the Boston area.
-The post ICE Nabs 1,500 Illegal Aliens in Large-Scale Boston Operation appeared first on Breitbart.
+### OTHER on 2025-06-03 06:14
+- Location: Mypeoplesreview.com
+- Description: By Rabi Raj Thapa Law enforcement refers to the agencies and personnel responsible for upholding the law, maintaining public order […]
+The post Human trafficking and law enforcement appeared first on Peoples' Review.
 
 
-### OTHER on 2025-06-03 01:30
-- Location: Screen Rant
-- Description: Chicago Fire season 13's story arcs and narrative direction could prove to be a turning point for the One Chicago franchise moving forward.
+### OTHER on 2025-06-03 06:05
+- Location: Globalsecurity.org
+- Description: Thomasz Szabo, also known as Plank, Jonah, and Cypher, 26, of Romania, pleaded guilty today to being the leader of a years-long conspiracy that targeted victims across the United States with "swatting" and bomb threats. Szabo and his co-conspirators falsely r…
 
 
-### HOMICIDE on 2025-06-03 01:30
-- Location: Independent.ie
-- Description: A man accused of using a makeshift flamethrower and an incendiary device to attack a US group bringing attention to Israeli hostages in Gaza has been charged with a federal hate crime.
+### ASSAULT on 2025-06-03 06:02
+- Location: Globalsecurity.org
+- Description: The UN Secretary-General on Monday reinforced his stand against all acts of antisemitism following the horrific attack in Boulder, Colorado, at the weekend and vandalism in France targeting Jewish landmarks.
 
 
-### OTHER on 2025-06-03 01:30
-- Location: Independent.ie
-- Description: Planning a night on the couch? Here are today’s top TV and streaming picks:
+### ASSAULT on 2025-06-03 06:00
+- Location: Dramabeans.com
+- Description: Calling all good boys and girls to cheer from the sidelines as a group of forgotten sports heroes step back into the spotlight to fight crime. There are no trophies or medals involved in this career pivot — just scrapes, bruises, and underappreciation from th…
 
-Analysis generated at: Wed Jun  4 01:56:08 UTC 2025
+Analysis generated at: Wed Jun  4 06:21:03 UTC 2025
