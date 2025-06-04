@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Jun  4 12:29:02 UTC 2025
+Last updated: Wed Jun  4 12:50:09 UTC 2025
 
 ## Latest Analysis
 
-Loaded 36425 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-03 12:25:00
+Loaded 36430 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-03 12:49:09
 
 Incidents by source:
 source
-newsapi           36324
+newsapi           36329
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-06-03 12:25
-- Location: The Star Online
-- Description: KANGAR: A female teacher in Pauh, Arau lost RM23,000 after she was believed to have been duped by a phone scam syndicate of individuals posing as a Touch 'n Go officer and the authorities on May 29. Read full story
-
-
-### OTHER on 2025-06-03 12:21
-- Location: Demilked.com
-- Description: The strangest things hr people found during a background check.
-The post 25 Of The Wildest Background Checks That Revealed Disqualifying Information appeared first on DeMilked.
-
-
-### HOMICIDE on 2025-06-03 12:16
+### ROBBERY/THEFT on 2025-06-03 12:49
 - Location: BBC News
-- Description: Brits on holiday in the Costa del Sol have been shaken by the murder of two senior underworld figures.
+- Description: The Met wants firms to block devices from accessing their networks, but they are concerned about fraud.
 
 
-### ASSAULT on 2025-06-03 12:14
-- Location: Yahoo Entertainment
-- Description: A former Homeland Security official during President Donald Trump’s first administration, who authored an anonymous op-ed sharply critical of the president, ...
+### HOMICIDE on 2025-06-03 12:45
+- Location: CBS News
+- Description: The suspect in the attack against demonstrators supporting Israeli hostages in Gaza is facing new charges, including a felony hate crime charge. Mohamed Sabry Soliman has also been charged with attempted first-degree murder after a dozen people were injured i…
 
 
-### HOMICIDE on 2025-06-03 12:14
-- Location: The Irish Times
-- Description: US actor dies after ‘heated argument’ with neighbour
+### ASSAULT on 2025-06-03 12:42
+- Location: NBC News
+- Description: The man accused of launching an "antisemitic attack" that injured at least 12 protesters with a "makeshift flamethrower" and Molotov cocktails in downtown Boulder on Sunday had "no regrets" and wanted his targets to die, Colorado officials said.
 
-Analysis generated at: Wed Jun  4 12:29:02 UTC 2025
+
+### ASSAULT on 2025-06-03 12:33
+- Location: ABC News
+- Description: As his friends caught fire in front of his eyes in Boulder, Colorado, Omer Shachar felt "panic right away" and said he knew he had to help extinguish the flames.
+
+
+### OTHER on 2025-06-03 12:32
+- Location: Boston Herald
+- Description: A man is facing charges accusing him of forging letters threatening President Trump in an effort to get someone deported.
+
+Analysis generated at: Wed Jun  4 12:50:09 UTC 2025
