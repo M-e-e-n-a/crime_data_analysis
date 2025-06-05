@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Jun  5 01:09:01 UTC 2025
+Last updated: Thu Jun  5 01:54:53 UTC 2025
 
 ## Latest Analysis
 
-Loaded 36537 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-04 01:08:25
+Loaded 36551 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-04 01:52:14
 
 Incidents by source:
 source
-newsapi           36436
+newsapi           36450
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2025-06-04 01:08
-- Location: BBC News
-- Description: Demetric Deshawn Scott sent the letters to prevent a man from testifying against him in a robbery case, officials say.
-
-
-### HOMICIDE on 2025-06-04 00:52
+### HOMICIDE on 2025-06-04 01:52
 - Location: Slashdot.org
-- Description: Man accused of killing Jonathan Joss set to be released from jailSan Antonio Express-News Jonathan Joss, ‘King of the Hill’ Actor Who Voiced John Redcorn, Is Fatally Shot, Police SayThe New York Times ‘I held his face together’: Jonathan Joss’ husband reveals…
+- Description: TikTok star Sana Yousaf dead at 17 in ‘cold-blooded murder’New York Daily News Teen TikTok star shot dead after "repeated rejections" of man, police sayCBS News TikTok Star Sana Yousaf Dies at 17 After Being Fatally Shot: PolicePeople.com TikToker Sana Yousuf…
 
 
-### HOMICIDE on 2025-06-04 00:37
-- Location: Substack.com
-- Description: Decker was in violation of orders implemented by Chelan County Superior Court, had borderline personality disorder and was experiencing mental health issues when he picked up his daughters, docs say
+### OTHER on 2025-06-04 01:50
+- Location: New York Post
+- Description: The brother-in-law "got what was coming to him," a lawyer for Frankie Gotti told The Post Tuesday night.
 
 
-### OTHER on 2025-06-04 00:35
-- Location: STLtoday.com
-- Description: Councilman Mike Archer, a Republican from South County, said council members need more information about a recent outbreak of parvovirus and the shelter's failure to obtain a state license.
+### HOMICIDE on 2025-06-04 01:47
+- Location: HuffPost
+- Description: The girls, ages 5 to 9, were reported missing by their mother on Friday evening, and their father remains outstanding, according to police in Washington state.
 
 
-### HOMICIDE on 2025-06-04 00:32
-- Location: ABC News
-- Description: Suspect charged with murder in shooting that killed 2, including officergo.com
+### OTHER on 2025-06-04 01:43
+- Location: 7NEWS.com.au
+- Description: Woman’s body found in Cascade Gardens parkland at Broadbeach7news.com.au
 
-Analysis generated at: Thu Jun  5 01:09:01 UTC 2025
+
+### OTHER on 2025-06-04 01:39
+- Location: ABC News (AU)
+- Description: Police say they are no longer conducting "physical searches" for the 17-year-old, but they are investigating several lines of enquiry.
+
+Analysis generated at: Thu Jun  5 01:54:53 UTC 2025
