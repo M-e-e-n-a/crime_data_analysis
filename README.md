@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Jun  5 01:54:53 UTC 2025
+Last updated: Thu Jun  5 06:21:35 UTC 2025
 
 ## Latest Analysis
 
-Loaded 36551 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-04 01:52:14
+Loaded 36607 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-04 06:21:01
 
 Incidents by source:
 source
-newsapi           36450
+newsapi           36506
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-06-04 01:52
-- Location: Slashdot.org
-- Description: TikTok star Sana Yousaf dead at 17 in ‘cold-blooded murder’New York Daily News Teen TikTok star shot dead after "repeated rejections" of man, police sayCBS News TikTok Star Sana Yousaf Dies at 17 After Being Fatally Shot: PolicePeople.com TikToker Sana Yousuf…
-
-
-### OTHER on 2025-06-04 01:50
-- Location: New York Post
-- Description: The brother-in-law "got what was coming to him," a lawyer for Frankie Gotti told The Post Tuesday night.
-
-
-### HOMICIDE on 2025-06-04 01:47
-- Location: HuffPost
-- Description: The girls, ages 5 to 9, were reported missing by their mother on Friday evening, and their father remains outstanding, according to police in Washington state.
-
-
-### OTHER on 2025-06-04 01:43
-- Location: 7NEWS.com.au
-- Description: Woman’s body found in Cascade Gardens parkland at Broadbeach7news.com.au
-
-
-### OTHER on 2025-06-04 01:39
+### OTHER on 2025-06-04 06:21
 - Location: ABC News (AU)
-- Description: Police say they are no longer conducting "physical searches" for the 17-year-old, but they are investigating several lines of enquiry.
+- Description: Here's what is known so far about the disappearance of Wide Bay teenager Pheobe Bishop, as her male housemate is taken into custody over her disappearance.
 
-Analysis generated at: Thu Jun  5 01:54:53 UTC 2025
+
+### ROBBERY/THEFT on 2025-06-04 06:13
+- Location: CNA
+- Description: Two Chinese nationals were arrested for theft on board a plane.
+
+
+### DRUG RELATED on 2025-06-04 06:08
+- Location: The Advocate
+- Description: A 43-year-old in Devonport faces charges for trafficking ice and cannabis following a police search.
+
+
+### OTHER on 2025-06-04 05:59
+- Location: BBC News
+- Description: Tate gained citizenship in the tiny Pacific state under a scheme that has allegedly been abused by criminals.
+
+
+### HOMICIDE on 2025-06-04 05:49
+- Location: The Times of India
+- Description: The search continues for Sonam after her husband, Raja Raghuvanshi, was found dead in a gorge in Meghalaya. The couple went missing after visiting living root bridges. The NDRF has joined the search, and a SIT is investigating a possible homicide, as Raja's b…
+
+Analysis generated at: Thu Jun  5 06:21:35 UTC 2025
