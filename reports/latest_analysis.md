@@ -1,10 +1,10 @@
 
-Loaded 36523 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-03 18:18:51
+Loaded 36537 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-04 01:08:25
 
 Incidents by source:
 source
-newsapi           36422
+newsapi           36436
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-06-03 18:18
-- Location: Yahoo Entertainment
-- Description: None
-
-
-### HOMICIDE on 2025-06-03 18:18
+### ROBBERY/THEFT on 2025-06-04 01:08
 - Location: BBC News
-- Description: Police Scotland is speaking out after speculation linking the weekend's murders with a gang war back home.
+- Description: Demetric Deshawn Scott sent the letters to prevent a man from testifying against him in a robbery case, officials say.
 
 
-### SHOOTING on 2025-06-03 18:14
-- Location: CNN
-- Description: Sean “Diddy” Combs appeared to be living like a “shot-caller” referenced in his 1997 hit “It’s All About the Benjamins” right up until his arrest in September.
+### HOMICIDE on 2025-06-04 00:52
+- Location: Slashdot.org
+- Description: Man accused of killing Jonathan Joss set to be released from jailSan Antonio Express-News Jonathan Joss, ‘King of the Hill’ Actor Who Voiced John Redcorn, Is Fatally Shot, Police SayThe New York Times ‘I held his face together’: Jonathan Joss’ husband reveals…
 
 
-### OTHER on 2025-06-03 18:11
-- Location: Bleeding Cool News
-- Description: Media Indie Exchange and Guerrilla Collective teamed up once again to hold The MIX Summer Game Showcase 2025, featuring over 55 indie games across two hours. T he MIX often serves as the unofficial kickoff point for Summer Game Fest, as we're getting a look a…
+### HOMICIDE on 2025-06-04 00:37
+- Location: Substack.com
+- Description: Decker was in violation of orders implemented by Chelan County Superior Court, had borderline personality disorder and was experiencing mental health issues when he picked up his daughters, docs say
 
 
-### SHOOTING on 2025-06-03 18:09
-- Location: Sky.com
-- Description: Police have said there is "no intelligence to suggest" a double shooting in Spain is linked to recent criminal attacks in Scotland.
+### OTHER on 2025-06-04 00:35
+- Location: STLtoday.com
+- Description: Councilman Mike Archer, a Republican from South County, said council members need more information about a recent outbreak of parvovirus and the shelter's failure to obtain a state license.
 
-Analysis generated at: Wed Jun  4 18:20:08 UTC 2025
+
+### HOMICIDE on 2025-06-04 00:32
+- Location: ABC News
+- Description: Suspect charged with murder in shooting that killed 2, including officergo.com
+
+Analysis generated at: Thu Jun  5 01:09:01 UTC 2025
