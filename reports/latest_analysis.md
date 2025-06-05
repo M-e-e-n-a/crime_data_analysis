@@ -1,10 +1,10 @@
 
-Loaded 36607 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-04 06:21:01
+Loaded 36701 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-04 12:27:49
 
 Incidents by source:
 source
-newsapi           36506
+newsapi           36600
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-06-04 06:21
-- Location: ABC News (AU)
-- Description: Here's what is known so far about the disappearance of Wide Bay teenager Pheobe Bishop, as her male housemate is taken into custody over her disappearance.
+### OTHER on 2025-06-04 12:27
+- Location: Digital Journal
+- Description: A 24-year-old Franco-Moroccan man suspected of masterminding a series of kidnappings targeting cryptocurrency entrepreneurs in France has been arrested in Morocco, France said. Badiss Mohamed Amide Bajjou was wanted by the French authorities and was the subje…
 
 
-### ROBBERY/THEFT on 2025-06-04 06:13
-- Location: CNA
-- Description: Two Chinese nationals were arrested for theft on board a plane.
+### OTHER on 2025-06-04 12:24
+- Location: ABC News
+- Description: Police investigating the 2007 disappearance of British toddler Madeleine McCann have searched near an abandoned building in southern Portugal
 
 
-### DRUG RELATED on 2025-06-04 06:08
-- Location: The Advocate
-- Description: A 43-year-old in Devonport faces charges for trafficking ice and cannabis following a police search.
+### OTHER on 2025-06-04 12:20
+- Location: Insurance Journal
+- Description: Two former police officers have pleaded guilty to federal charges in connection with an auto-insurance fraud scheme, according to U.S. Attorney for Maryland Kelly O. Hayes. Michael Anthony Owen, Jr., a former Prince Georges County officer, pled guilty to fals…
 
 
-### OTHER on 2025-06-04 05:59
-- Location: BBC News
-- Description: Tate gained citizenship in the tiny Pacific state under a scheme that has allegedly been abused by criminals.
+### ROBBERY/THEFT on 2025-06-04 12:20
+- Location: KCRG
+- Description: Police: contractor stole $60k in equipment from new Univ. of Iowa Health Care hospitalkcrg.com
 
 
-### HOMICIDE on 2025-06-04 05:49
-- Location: The Times of India
-- Description: The search continues for Sonam after her husband, Raja Raghuvanshi, was found dead in a gorge in Meghalaya. The couple went missing after visiting living root bridges. The NDRF has joined the search, and a SIT is investigating a possible homicide, as Raja's b…
+### OTHER on 2025-06-04 12:15
+- Location: STLtoday.com
+- Description: Batting Average on Balls in Play is catching up with the Cardinals as a five-run lead vanishes in a flurry of hits by the Royals on the way to their 10-7 victory.
 
-Analysis generated at: Thu Jun  5 06:21:35 UTC 2025
+Analysis generated at: Thu Jun  5 12:29:10 UTC 2025
