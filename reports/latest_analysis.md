@@ -1,10 +1,10 @@
 
-Loaded 36713 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-04 12:45:31
+Loaded 36724 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-05 01:08:39
 
 Incidents by source:
 source
-newsapi           36612
+newsapi           36623
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-06-04 12:45
-- Location: WPXI Pittsburgh
-- Description: Pittsburgh Police are investigating after a person who was shot showed up at a convenience store in Knoxville.
+### HOMICIDE on 2025-06-05 01:08
+- Location: Financial Post
+- Description: NEW YORK (AP) — Six weeks before UnitedHealthcare CEO Brian Thompson was gunned down outside a Manhattan hotel in December, suspect Luigi Mangione mused about rebelling against “the deadly, greed fueled health insurance cartel” and said killing the executive …
 
 
-### HOMICIDE on 2025-06-04 12:43
-- Location: BBC News
-- Description: Police are appealing for witnesses following the crash in New Barn Road in Southfleet on Sunday.
+### OTHER on 2025-06-05 01:00
+- Location: Allthatsinteresting.com
+- Description: Angered by the French monarchy's ongoing tyranny, rebels stormed the infamous Bastille prison in Paris, France, on July 14, 1789.
+The post Inside The Revolutionary Story Of The Storming Of The Bastille — And What Caused It appeared first on All That's Interes…
 
 
-### OTHER on 2025-06-04 12:43
-- Location: National Post
-- Description: Victim&#39s family releases statement: "We take comfort in the fact that she was a woman of strong Christian faith."
+### HOMICIDE on 2025-06-05 00:55
+- Location: Slashdot.org
+- Description: Two Days Before He Was Killed, Jonathan Joss Crashed a ‘King of the Hill’ Panel. Here’s What Happened in the RoomVariety Jonathan Joss, ‘King of the Hill’ Voice Actor, Is Fatally Shot by Neighbor, Police SayThe New York Times Jonathan Joss Death: Final Moment…
 
 
-### OTHER on 2025-06-04 12:42
-- Location: Michaelgeist.ca
-- Description: The government yesterday introduced the Strong Border Act (Bill C-2), legislation that was promoted as establishing new border measure provisions presumably designed to address U.S. concerns regarding the border. Yet buried toward the end of the bill are lawf…
+### OTHER on 2025-06-05 00:55
+- Location: Syllad.com
+- Description: Haba bteng ban pynlong ka jingwad ia ka Sonam kaba dei ka kurim jong u lanot ba shah pyniap u Raja Raghuvanshi ha kaba ia ka metiap jong u la lapdien na ka jaka riat kaba jylliew ha kshaid Weisawdong, ki pulit ha 4 tarik Jylliew ki la lapdien ia raincoat kaba…
 
 
-### OTHER on 2025-06-04 12:41
-- Location: Torrentfreak.com
-- Description: Before its inevitable demise, NooNooTV [NunuTV] was believed to be the largest pirate site in South Korea. That in itself made the site's operator a prime target for enforcement. Despite spawning dozens of domains to avoid blocking, and reportedly moving serv…
+### HOMICIDE on 2025-06-05 00:50
+- Location: Business Insider
+- Description: Luigi Mangione's lawyers previously told the court their client, who is charged with killing UnitedHealthcare's Brian Thompson, is not a terrorist.
 
-Analysis generated at: Thu Jun  5 12:49:18 UTC 2025
+Analysis generated at: Fri Jun  6 01:09:12 UTC 2025
