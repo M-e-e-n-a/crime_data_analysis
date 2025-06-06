@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Jun  6 06:21:39 UTC 2025
+Last updated: Fri Jun  6 12:27:55 UTC 2025
 
 ## Latest Analysis
 
-Loaded 36775 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-05 06:20:55
+Loaded 36841 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-05 12:22:12
 
 Incidents by source:
 source
-newsapi           36674
+newsapi           36740
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-06-05 06:20
-- Location: New York Post
-- Description: The Latin music artist has had a few run-ins with the law over the past year.
+### OTHER on 2025-06-05 12:22
+- Location: The Irish Times
+- Description: Alleged senior figure in Kinahan cartel appears for second time before the Special Criminal Court after   extradition from UAE
 
 
-### OTHER on 2025-06-05 06:14
-- Location: The Star Online
-- Description: PETALING JAYA: Bukit Aman has denied detaining 80 Haji pilgrims who were stranded after using tourist visas to enter Makkah. Read full story
+### OTHER on 2025-06-05 12:19
+- Location: Democracy Now!
+- Description: We get an update on the case of former Columbia University student protest negotiator Mahmoud Khalil from Baher Azmy, a member of Khalil’s legal team at the Center for Constitutional Rights. Khalil has been detained in Louisiana for nearly three months, in wh…
 
 
-### OTHER on 2025-06-05 06:01
-- Location: New York Post
-- Description: "I threw up a little bit. I cried, I needed a hug. I was hurt, I was upset, I was very angry.”
+### ROBBERY/THEFT on 2025-06-05 12:16
+- Location: Freethoughtblogs.com
+- Description: This is the family of Kasper Eriksen. He was a Danish citizen who emigrated to the US and started a family in Mississippi. Look at them! They’re perfect! Blonde and probably blue-eyed, coming from one of the “good” countries, and Kasper even made Xitter posts…
 
 
-### HOMICIDE on 2025-06-05 06:00
-- Location: The Times of India
-- Description: Toronto police have arrested 10 individuals in connection with a series of interconnected shootings, including a pub incident that left a dozen injured. Three suspects, including two 17-year-olds and a 15-year-old, face attempted murder charges. Authorities h…
+### OTHER on 2025-06-05 12:00
+- Location: Vulture
+- Description: The crime-romance mash-up results in the best episode of the season so far, one that embraces heightened self-awareness without ever losing its grounded emotional core.
 
 
-### OTHER on 2025-06-05 06:00
-- Location: New Zealand Herald
-- Description: He also admitted possessing police gear, including a spike used to deflate tyres.
+### OTHER on 2025-06-05 12:00
+- Location: KPBS
+- Description: A San Diego police officer is accused of embezzling from the school safety patrol program he ran. And, we’ve got part three of our five-part series on the District 1 supervisor’s race — today’s topic: spending. Also, last week we told you about SDPD’s move to…
 
-Analysis generated at: Fri Jun  6 06:21:39 UTC 2025
+Analysis generated at: Fri Jun  6 12:27:55 UTC 2025
