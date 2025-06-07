@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Jun  7 01:08:20 UTC 2025
+Last updated: Sat Jun  7 01:53:36 UTC 2025
 
 ## Latest Analysis
 
-Loaded 36950 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-06 01:00:18
+Loaded 36960 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-06 01:53:23
 
 Incidents by source:
 source
-newsapi           36849
+newsapi           36859
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-06-06 01:00
+### ROBBERY/THEFT on 2025-06-06 01:53
+- Location: Fox News
+- Description: Rep. Sheila Cherfilus-McCormick called vandalism of the art a "hate crime." A 7-year-old boy discovered Nazi symbols on the murals of the baseball legends.
+
+
+### OTHER on 2025-06-06 01:52
+- Location: ABC News
+- Description: The girls's family was recording a storm unfolding in their hometown of Huntington Beach when they captured the moment lightning struck a tree approximately 50 feet from their daughter.
+
+
+### OTHER on 2025-06-06 01:31
 - Location: Screen Rant
-- Description: Although not every episode of House is perfect, these episodes came very close, and were true television masterpieces that every fan should see.
+- Description: Ginny & Georgia season 3 features dozens of songs across its 10 episodes, each of which helps to drive along the characters' individual stories.
 
 
-### OTHER on 2025-06-06 00:56
-- Location: CBS News
-- Description: In mid-2024, San Francisco began more targeted sweeps of homeless encampments across the city in an effort to address its homeless crisis.
+### SHOOTING on 2025-06-06 01:30
+- Location: WLS-TV
+- Description: A person was shot Thursday in the emergency room at Evanston Hospital, police said. An offender is in custody, but the building is on lockdown.
 
 
-### HOMICIDE on 2025-06-06 00:54
-- Location: NPR
-- Description: Juvenile detention systems often deny young offenders credit for the time they spend waiting behind bars
+### OTHER on 2025-06-06 01:30
+- Location: The Jerusalem Post
+- Description: The stance by one of the world’s largest Jewish organizations comes as some Jewish groups have signaled a growing unease with Trump’s policies.
 
-
-### OTHER on 2025-06-06 00:45
-- Location: New Zealand Herald
-- Description: Leadership tensions hamper PNG's anti-corruption body, ICAC.
-
-
-### ROBBERY/THEFT on 2025-06-06 00:29
-- Location: Pedestrian TV
-- Description: Olympic gold medalist Ian Thorpe has allegedly fallen victim to a $150,000 robbery, with watches, jewellery and other personal items reportedly stolen from his home.
-
-Analysis generated at: Sat Jun  7 01:08:20 UTC 2025
+Analysis generated at: Sat Jun  7 01:53:36 UTC 2025
