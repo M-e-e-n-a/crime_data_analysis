@@ -1,10 +1,10 @@
 
-Loaded 37249 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-07 12:40:43
+Loaded 37301 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-07 18:07:00
 
 Incidents by source:
 source
-newsapi           37148
+newsapi           37200
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-06-07 12:40
-- Location: CNN
-- Description: A convicted killer in Utah who developed dementia while on death row for 37 years is competent enough to be executed, a state judge ruled late Friday.
+### OTHER on 2025-06-07 18:07
+- Location: The Times of India
+- Description: Following a tragic stampede at Chinnaswamy Stadium that resulted in 11 fatalities, KSCA secretary A Shankar and treasurer ES Jairam resigned, claiming moral responsibility. This occurred after the Karnataka High Court granted them protection from arrest.
 
 
-### HOMICIDE on 2025-06-07 12:39
-- Location: Rlsbb.ru
-- Description: Season 7, Episode 13 – "Killer Mom or Abuse Survivor (1)"A mother of three shoots her fiance dead claiming he was holding a gun to her head. She says he was abusive but, after telling two different stories to police, she is charged with capital murder. If fou…
+### HOMICIDE on 2025-06-07 18:04
+- Location: USA Today
+- Description: Travis Decker is wanted on charges of murder, kidnapping and custodial interference after Paityn, Evelyn and Olivia Decker were found dead.
 
 
-### OTHER on 2025-06-07 12:30
-- Location: Forbes
-- Description: Security is the top concern of travelers as they head into the summer vacation season. Here are a few pro strategies for finding a vacation rental in a safe place.
+### SHOOTING on 2025-06-07 17:51
+- Location: Israelnationalnews.com
+- Description: Molotov attack in Colorado and embassy shooting in Washington raise alarm amid ongoing Israel-Hamas conflict.
 
 
-### HOMICIDE on 2025-06-07 12:20
-- Location: NPR
-- Description: A former police chief and convicted killer known as the "Devil in the Ozarks" was captured by law enforcement 1.5 miles from the prison he escaped from following a nearly two-week-long manhunt.
+### HOMICIDE on 2025-06-07 17:42
+- Location: BBC News
+- Description: A man has been charged with the murder of Yajaira Castro Mendez, whose body was found in Hampshire.
 
 
-### OTHER on 2025-06-07 12:11
-- Location: The Star Online
-- Description: KUALA LUMPUR: The Royal Malaysia Police (PDRM) on Saturday (June 7) announced the transfer of 17 senior officers effective July 7. Read full story
+### ROBBERY/THEFT on 2025-06-07 17:41
+- Location: Screen Rant
+- Description: Robert Shaw is most famous for his scene-stealing performance as Quint in Jaws, but one of his best movies came out just one year earlier.
 
-Analysis generated at: Sun Jun  8 12:42:49 UTC 2025
+Analysis generated at: Sun Jun  8 18:17:52 UTC 2025
