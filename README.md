@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Jun  8 06:20:00 UTC 2025
+Last updated: Sun Jun  8 12:25:38 UTC 2025
 
 ## Latest Analysis
 
-Loaded 37204 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-07 06:08:10
+Loaded 37246 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-07 12:20:13
 
 Incidents by source:
 source
-newsapi           37103
+newsapi           37145
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-06-07 06:08
-- Location: Rlsbb.cc
-- Description: Season 37, Episode 16 – "Clothes Call"San Bernardino Police pursue a car wanted in connection to a recent shooting. When the driver bails and leaves behind shoes and a gun, he denies being in the car despite the shoes being a perfect fit. Independence, Missou…
+### HOMICIDE on 2025-06-07 12:20
+- Location: NPR
+- Description: A former police chief and convicted killer known as the "Devil in the Ozarks" was captured by law enforcement 1.5 miles from the prison he escaped from following a nearly two-week-long manhunt.
 
 
-### SHOOTING on 2025-06-07 06:07
-- Location: Rlsbb.ru
-- Description: Season 37, Episode 16 – “Clothes Call”San Bernardino Police pursue a car wanted in connection to a recent shooting. When the driver bails and leaves behind shoes and a gun, he denies being in the car despite the shoes being a perfect fit. Independence, Missou…
+### OTHER on 2025-06-07 12:11
+- Location: The Star Online
+- Description: KUALA LUMPUR: The Royal Malaysia Police (PDRM) on Saturday (June 7) announced the transfer of 17 senior officers effective July 7. Read full story
 
 
-### OTHER on 2025-06-07 06:03
-- Location: The Irish Times
-- Description: We should be wary of narratives that present women – especially those accused of crimes – as either the evil witch or Snow White
+### HOMICIDE on 2025-06-07 12:00
+- Location: Fox News
+- Description: Expert witnesses clash in Karen Read's murder trial over whether her Lexus struck Officer John O'Keefe, with a retired judge noting jurors view them skeptically.
 
 
-### OTHER on 2025-06-07 06:01
-- Location: Financial Post
-- Description: Keir Starmer has spent most of his time as prime minister warning about Britain’s dire finances and pushing divisive spending cuts. Nearing the first anniversary of Labour’s big victory, the prime minister appears to be pivoting to loosen his grip on the publ…
+### OTHER on 2025-06-07 12:00
+- Location: CNBC
+- Description: After a wave of crypto kidnappings, the “Bitcoin Family” replaced its old security system with a decentralized, analog setup spread across four continents.
 
 
-### OTHER on 2025-06-07 06:01
-- Location: Times of Malta
-- Description: Court seizes funds from short lets company owned by absconded Russiantimesofmalta.com
+### HOMICIDE on 2025-06-07 11:38
+- Location: The Times of India
+- Description: In a shocking incident in Meerut's Partapur region, 17-year-old Aastha was murdered by her mother and family members for having a relationship. They strangled her and beheaded her with a bolt cutter, disposing of the body parts in different canals to prevent …
 
-Analysis generated at: Sun Jun  8 06:20:00 UTC 2025
+Analysis generated at: Sun Jun  8 12:25:38 UTC 2025
