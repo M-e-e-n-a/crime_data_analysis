@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Jun  7 18:18:14 UTC 2025
+Last updated: Sun Jun  8 01:15:46 UTC 2025
 
 ## Latest Analysis
 
-Loaded 37160 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-06 18:16:35
+Loaded 37169 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-07 00:47:14
 
 Incidents by source:
 source
-newsapi           37059
+newsapi           37068
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-06-06 18:16
-- Location: BBC News
-- Description: Travis Decker is believed to be using his outdoor survival skills to hide in a remote part of Washington state.
-
-
-### ASSAULT on 2025-06-06 18:10
-- Location: Mondoweiss
-- Description: Netanyahu admits Israel is arming gangs and clan members in Gaza to counter Hamas's influence, and new evidence shows Israel is using them to loot aid and implement its displacement plan. In response, the Hamas government set up the “Arrow Unit.”
-
-
-### OTHER on 2025-06-06 18:07
-- Location: Pajiba.com
-- Description: Rapper and mogul Sean Combs, perhaps better known by his array of rap names and monikers, is currently on trial for charges of racketeering, conspiracy, and sex trafficking. Combs was arrested last September. He has pleaded not guilty to all...
-Read more...
-
-
-### OTHER on 2025-06-06 18:05
-- Location: Anime News Network
-- Description: Also: Magical Girl Dandelion, Statues, The Mortifying Ordeal of Being Seen, more
-
-
-### HOMICIDE on 2025-06-06 18:05
+### ROBBERY/THEFT on 2025-06-07 00:47
 - Location: New York Post
-- Description: In one adorable clip, shared with The Post on Friday, the Decker girls -- Paityn, 9, Evelyn, 8, and Olivia, 5 -- filmed themselves hugging each other as they munched on cupcakes in a makeshift tent inside their Washington state home.
+- Description: Police are investigating after vandals defaced a mural of baseball legends Jackie Robinson and Minnie Miñoso that is part of a collection of artwork honoring baseball players in Miami's Overtown neighborhood.
 
-Analysis generated at: Sat Jun  7 18:18:14 UTC 2025
+
+### HOMICIDE on 2025-06-07 00:46
+- Location: ABC News
+- Description: A state court jury has convicted a Minneapolis-area man of third-degree murder and vehicular homicide over the deaths of five young women in a crash in June 2023
+
+
+### OTHER on 2025-06-07 00:42
+- Location: ABC News (AU)
+- Description: Police say they have discovered what they believe to be human remains near the Good Night National Park near Gin Gin.
+
+
+### OTHER on 2025-06-07 00:36
+- Location: Japan Today
+- Description: Kilmar Abrego Garcia, whose mistaken deportation to El Salvador became a political flashpoint in the Trump administration's stepped-up immigration enforcement, was returned to the United States on Friday to face criminal charges related to what the Trump admi…
+
+
+### HOMICIDE on 2025-06-07 00:31
+- Location: Richmond.com
+- Description: Grant Hardin, whose notoriety led to the TV documentary "Devil in the Ozarks," escaped May 25 from prison where he was serving sentences for murder and rape.
+
+Analysis generated at: Sun Jun  8 01:15:46 UTC 2025
