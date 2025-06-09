@@ -1,10 +1,10 @@
 
-Loaded 37342 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-08 06:00:12
+Loaded 37383 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-08 12:13:32
 
 Incidents by source:
 source
-newsapi           37241
+newsapi           37282
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-06-08 06:00
-- Location: Dramabeans.com
-- Description: In the finale week, our sleuths finally piece together all the links between the victims and the killer. As they race to catch the killer and stop the puzzle from being completed, how will our heroine cope with the truth behind her uncle’s death?   EPISODES 1…
+### HOMICIDE on 2025-06-08 12:13
+- Location: WSOC Charlotte
+- Description: One person is dead and another was hurt after a shootout at a motorcycle club in Newton, Channel 9 learned Sunday morning.
 
 
-### DRUG RELATED on 2025-06-08 06:00
-- Location: Naturalnews.com
-- Description: HSI and ICE arrested 72 illegal immigrants, including six minors, during a raid on “El Alamo,” an illicit nightclub in Charleston allegedly tied to the violent Northeast Cartel (CDN), formerly Los Zetas. Cash, drugs and firearms were seized. The nightclub’s o…
+### OTHER on 2025-06-08 12:00
+- Location: Fox News
+- Description: Rebecca "Bekah" Charleston was arrested in 2006 for tax evasion. The White House said she is a victim of sex trafficking who was forced into prostitution. She was pardoned in 2020.
 
 
-### OTHER on 2025-06-08 05:47
-- Location: 7NEWS.com.au
-- Description: E-scooter rider found with stab wounds on cycling trail in Carnegie, Melbourne7news.com.au
+### OTHER on 2025-06-08 12:00
+- Location: Thoughtcatalog.com
+- Description: The weather is starting to warm up, the sun is shining, and the birds are chirping but I’m still patiently waiting for Halloween to be among us. Don’t get me wrong, I love the summer and all the fu…
 
 
-### SHOOTING on 2025-06-08 05:12
-- Location: Hurriyet Daily News
-- Description: A prominent Colombian right-wing presidential candidate is in critical condition after being shot three times during a campaign event in Bogota on Saturday, authorities said.
+### SHOOTING on 2025-06-08 11:48
+- Location: Al Jazeera English
+- Description: The Colombian senator is said to be in critical condition after an attack at a Bogota campaign rally.
 
 
-### OTHER on 2025-06-08 05:08
-- Location: The Times of India
-- Description: Los Angeles Immigration Raids Protests: Riots erupted in Los Angeles after ICE arrested over 40 people in immigration raids, triggering a fiery response from local officials and federal leaders. Protesters clashed with federal agents, prompting the Trump admi…
+### OTHER on 2025-06-08 11:45
+- Location: Breaking NEWS in KENYA for Today Right Now & Kenyan News | TUKO
+- Description: X influencer Albert Ojwang, who was arrested over a controversial post, has died in police custody. Authorities claim he injured himself, but many are questioning.
 
-Analysis generated at: Mon Jun  9 06:22:25 UTC 2025
+Analysis generated at: Mon Jun  9 12:28:57 UTC 2025
