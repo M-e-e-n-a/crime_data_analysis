@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Jun  9 02:01:28 UTC 2025
+Last updated: Mon Jun  9 06:22:25 UTC 2025
 
 ## Latest Analysis
 
-Loaded 37315 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-08 02:00:11
+Loaded 37342 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-08 06:00:12
 
 Incidents by source:
 source
-newsapi           37214
+newsapi           37241
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-06-08 02:00
-- Location: KQED
-- Description: Gov. Newsom has sent a letter to the Trump administration, calling for “their unlawful deployment of troops in Los Angeles [C]ounty be rescinded” and for the state National Guard to be returned to his command.
+### HOMICIDE on 2025-06-08 06:00
+- Location: Dramabeans.com
+- Description: In the finale week, our sleuths finally piece together all the links between the victims and the killer. As they race to catch the killer and stop the puzzle from being completed, how will our heroine cope with the truth behind her uncle’s death?   EPISODES 1…
 
 
-### OTHER on 2025-06-08 01:46
-- Location: Deadline
-- Description: Reeling from widespread and harsh ICE raids and responding protests and resistance over the past 24 hours, Los Angeles has become a powder keg with Donald Trump set to deploy 2,000 California National Guard troops. As rock throwing and bellowing Angelenos sou…
+### DRUG RELATED on 2025-06-08 06:00
+- Location: Naturalnews.com
+- Description: HSI and ICE arrested 72 illegal immigrants, including six minors, during a raid on “El Alamo,” an illicit nightclub in Charleston allegedly tied to the violent Northeast Cartel (CDN), formerly Los Zetas. Cash, drugs and firearms were seized. The nightclub’s o…
 
 
-### OTHER on 2025-06-08 01:37
-- Location: Bleeding Cool News
-- Description: As we inch closer to the June 12th premiere of SYFY's adaptation of writer Tim Seeley and artist Mike Norton's Image Comics series Revival, we're getting a new sneak peek offering a look at how quickly life is about to change for the small town. In the clip b…
+### OTHER on 2025-06-08 05:47
+- Location: 7NEWS.com.au
+- Description: E-scooter rider found with stab wounds on cycling trail in Carnegie, Melbourne7news.com.au
 
 
-### SHOOTING on 2025-06-08 01:36
-- Location: New York Post
-- Description: A Colombian senator and presidential candidate was shot on Saturday in Bogotá, the government and his campaign said, according to media reports.
+### SHOOTING on 2025-06-08 05:12
+- Location: Hurriyet Daily News
+- Description: A prominent Colombian right-wing presidential candidate is in critical condition after being shot three times during a campaign event in Bogota on Saturday, authorities said.
 
 
-### OTHER on 2025-06-08 01:30
-- Location: Independent.ie
-- Description: Planning a night on the couch? Here are today’s top TV and streaming picks:
+### OTHER on 2025-06-08 05:08
+- Location: The Times of India
+- Description: Los Angeles Immigration Raids Protests: Riots erupted in Los Angeles after ICE arrested over 40 people in immigration raids, triggering a fiery response from local officials and federal leaders. Protesters clashed with federal agents, prompting the Trump admi…
 
-Analysis generated at: Mon Jun  9 02:01:28 UTC 2025
+Analysis generated at: Mon Jun  9 06:22:25 UTC 2025
