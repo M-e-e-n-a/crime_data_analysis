@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Jun  9 01:13:22 UTC 2025
+Last updated: Mon Jun  9 02:01:28 UTC 2025
 
 ## Latest Analysis
 
-Loaded 37307 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-08 00:33:52
+Loaded 37315 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-08 02:00:11
 
 Incidents by source:
 source
-newsapi           37206
+newsapi           37214
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-06-08 00:33
-- Location: NBCSports.com
-- Description: Former NFL defensive back Adam “Pacman” Jones was arrested in Covington, Kentucky, early Saturday morning.
+### OTHER on 2025-06-08 02:00
+- Location: KQED
+- Description: Gov. Newsom has sent a letter to the Trump administration, calling for “their unlawful deployment of troops in Los Angeles [C]ounty be rescinded” and for the state National Guard to be returned to his command.
 
 
-### OTHER on 2025-06-08 00:29
-- Location: Boston Herald
-- Description: There names were Cora, Dawson and Callan Clancy and they lived on Summer Street in Duxbury. On Saturday the community joined together to build a playground in their memory: the new Clancy Family Playground at 495 Tremont St.
+### OTHER on 2025-06-08 01:46
+- Location: Deadline
+- Description: Reeling from widespread and harsh ICE raids and responding protests and resistance over the past 24 hours, Los Angeles has become a powder keg with Donald Trump set to deploy 2,000 California National Guard troops. As rock throwing and bellowing Angelenos sou…
 
 
-### HOMICIDE on 2025-06-08 00:29
+### OTHER on 2025-06-08 01:37
+- Location: Bleeding Cool News
+- Description: As we inch closer to the June 12th premiere of SYFY's adaptation of writer Tim Seeley and artist Mike Norton's Image Comics series Revival, we're getting a new sneak peek offering a look at how quickly life is about to change for the small town. In the clip b…
+
+
+### SHOOTING on 2025-06-08 01:36
 - Location: New York Post
-- Description: Joseph, 25, was charged with driving while intoxicated, a misdemeanor, and collision involving personal injury or death, a felony.
+- Description: A Colombian senator and presidential candidate was shot on Saturday in Bogotá, the government and his campaign said, according to media reports.
 
 
-### SHOOTING on 2025-06-08 00:26
-- Location: fox6now.com
-- Description: Milwaukee Mayor Johnson issued a proclamation recognizing National Gun Violence Awareness Day, part of "Wear Orange Weekend."
+### OTHER on 2025-06-08 01:30
+- Location: Independent.ie
+- Description: Planning a night on the couch? Here are today’s top TV and streaming picks:
 
-
-### OTHER on 2025-06-08 00:21
-- Location: Crimethinc.com
-- Description: Participants in the clashes of June 6 describe how people came together to stop federal agents from harming their community.
-
-Analysis generated at: Mon Jun  9 01:13:22 UTC 2025
+Analysis generated at: Mon Jun  9 02:01:28 UTC 2025
