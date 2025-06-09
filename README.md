@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Jun  9 12:28:57 UTC 2025
+Last updated: Mon Jun  9 12:49:19 UTC 2025
 
 ## Latest Analysis
 
-Loaded 37383 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-08 12:13:32
+Loaded 37390 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-08 12:48:23
 
 Incidents by source:
 source
-newsapi           37282
+newsapi           37289
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-06-08 12:13
-- Location: WSOC Charlotte
-- Description: One person is dead and another was hurt after a shootout at a motorcycle club in Newton, Channel 9 learned Sunday morning.
+### OTHER on 2025-06-08 12:48
+- Location: The Times of India
+- Description: Sachin Arun Kalan, a 29-year-old bank executive, was apprehended in Thane district on June 6 for allegedly stealing gold worth Rs 27 lakh. Kalan, employed at a private bank in Ambernath East, reportedly misappropriated gold ornaments pledged by customers betw…
 
 
-### OTHER on 2025-06-08 12:00
-- Location: Fox News
-- Description: Rebecca "Bekah" Charleston was arrested in 2006 for tax evasion. The White House said she is a victim of sex trafficking who was forced into prostitution. She was pardoned in 2020.
+### HOMICIDE on 2025-06-08 12:48
+- Location: The Local Germany
+- Description: Two separate stabbings took place on Saturday in Germany, one in Munich and one in Berlin, which left several injured. A female attacker was shot dead by police.
 
 
-### OTHER on 2025-06-08 12:00
-- Location: Thoughtcatalog.com
-- Description: The weather is starting to warm up, the sun is shining, and the birds are chirping but I’m still patiently waiting for Halloween to be among us. Don’t get me wrong, I love the summer and all the fu…
+### OTHER on 2025-06-08 12:47
+- Location: Digital Journal
+- Description: A Salvadoran lawyer and fierce critic of President Nayib Bukele was arrested Saturday on charges of money laundering, the prosecutor’s office said, a move branded by human rights organizations as an offensive to silence those who question the government.   Bu…
 
 
-### SHOOTING on 2025-06-08 11:48
-- Location: Al Jazeera English
-- Description: The Colombian senator is said to be in critical condition after an attack at a Bogota campaign rally.
+### OTHER on 2025-06-08 12:38
+- Location: CNN
+- Description: President Donald Trump signed a presidential memorandum deploying 2,000 National Guardsmen to Los Angeles to disperse protests that began in response to immigration raids, the White House said last night. Follow for live news updates.
 
 
-### OTHER on 2025-06-08 11:45
-- Location: Breaking NEWS in KENYA for Today Right Now & Kenyan News | TUKO
-- Description: X influencer Albert Ojwang, who was arrested over a controversial post, has died in police custody. Authorities claim he injured himself, but many are questioning.
+### HOMICIDE on 2025-06-08 12:34
+- Location: The Times of India
+- Description: A nine-year-old girl in northeast Delhi's Dayalpur area was allegedly raped, murdered, and her body was discovered inside a suitcase at a neighbor's residence, sparking outrage and protests from family members and locals. The incident has led to a heavy polic…
 
-Analysis generated at: Mon Jun  9 12:28:57 UTC 2025
+Analysis generated at: Mon Jun  9 12:49:19 UTC 2025
