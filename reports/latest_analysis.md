@@ -1,10 +1,10 @@
 
-Loaded 37301 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-07 18:07:00
+Loaded 37307 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-08 00:33:52
 
 Incidents by source:
 source
-newsapi           37200
+newsapi           37206
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-06-07 18:07
-- Location: The Times of India
-- Description: Following a tragic stampede at Chinnaswamy Stadium that resulted in 11 fatalities, KSCA secretary A Shankar and treasurer ES Jairam resigned, claiming moral responsibility. This occurred after the Karnataka High Court granted them protection from arrest.
+### OTHER on 2025-06-08 00:33
+- Location: NBCSports.com
+- Description: Former NFL defensive back Adam “Pacman” Jones was arrested in Covington, Kentucky, early Saturday morning.
 
 
-### HOMICIDE on 2025-06-07 18:04
-- Location: USA Today
-- Description: Travis Decker is wanted on charges of murder, kidnapping and custodial interference after Paityn, Evelyn and Olivia Decker were found dead.
+### OTHER on 2025-06-08 00:29
+- Location: Boston Herald
+- Description: There names were Cora, Dawson and Callan Clancy and they lived on Summer Street in Duxbury. On Saturday the community joined together to build a playground in their memory: the new Clancy Family Playground at 495 Tremont St.
 
 
-### SHOOTING on 2025-06-07 17:51
-- Location: Israelnationalnews.com
-- Description: Molotov attack in Colorado and embassy shooting in Washington raise alarm amid ongoing Israel-Hamas conflict.
+### HOMICIDE on 2025-06-08 00:29
+- Location: New York Post
+- Description: Joseph, 25, was charged with driving while intoxicated, a misdemeanor, and collision involving personal injury or death, a felony.
 
 
-### HOMICIDE on 2025-06-07 17:42
-- Location: BBC News
-- Description: A man has been charged with the murder of Yajaira Castro Mendez, whose body was found in Hampshire.
+### SHOOTING on 2025-06-08 00:26
+- Location: fox6now.com
+- Description: Milwaukee Mayor Johnson issued a proclamation recognizing National Gun Violence Awareness Day, part of "Wear Orange Weekend."
 
 
-### ROBBERY/THEFT on 2025-06-07 17:41
-- Location: Screen Rant
-- Description: Robert Shaw is most famous for his scene-stealing performance as Quint in Jaws, but one of his best movies came out just one year earlier.
+### OTHER on 2025-06-08 00:21
+- Location: Crimethinc.com
+- Description: Participants in the clashes of June 6 describe how people came together to stop federal agents from harming their community.
 
-Analysis generated at: Sun Jun  8 18:17:52 UTC 2025
+Analysis generated at: Mon Jun  9 01:13:22 UTC 2025
