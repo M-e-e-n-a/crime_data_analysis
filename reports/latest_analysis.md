@@ -1,10 +1,10 @@
 
-Loaded 37458 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-09 01:06:24
+Loaded 37463 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-09 01:42:58
 
 Incidents by source:
 source
-newsapi           37357
+newsapi           37362
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-06-09 01:06
-- Location: ABC News (AU)
-- Description: Police extradite four men from NSW to Queensland who allegedly threatened a couple and demanded money during a home invasion on the Sunshine Coast.
+### OTHER on 2025-06-09 01:42
+- Location: Fox News
+- Description: A skydiving plane with 20 passengers crashed in Tennessee after takeoff from Tullahoma Regional Airport, injuring multiple passengers.
 
 
-### OTHER on 2025-06-09 01:02
-- Location: KCCI Des Moines
-- Description: Court documents say the baby was underweight and having seizures, but the woman did not seek medical care and later blamed the baby's injuries on medical malpractice.
+### OTHER on 2025-06-09 01:34
+- Location: PBS
+- Description: Some police patrolled the streets on horseback while others with riot gear lined up behind Guard troops deployed to protect federal facilities including a detention center where some immigrants were taken in recent days.
 
 
-### OTHER on 2025-06-09 00:50
-- Location: WDRB
-- Description: A study of Louisville-area businesses shows that for every $100 spent at locally, $55 is reinvested locally, while only $14 is reinvested locally when that same money is spent at
+### SHOOTING on 2025-06-09 01:31
+- Location: IndieWire
+- Description: Tribeca: Asa Butterfield co-stars in Oscar Boyson's propulsive and fascinatingly contradictory cross between gun-culture warning letter and Safdies-esque thriller.
 
 
-### OTHER on 2025-06-09 00:46
-- Location: Boston Herald
-- Description: Protests against his administration’s immigration policies have crossed the line into outright rebellion, U.S. President Donald Trump declared over the weekend.
+### SHOOTING on 2025-06-09 01:30
+- Location: Independent.ie
+- Description: Colombian senator Miguel Uribe, a ­potential presidential contender, survived an initial operation for his injuries after being shot in Bogota on Saturday, according to his wife and the hospital treating him, although he remains in intensive care.
 
 
-### OTHER on 2025-06-09 00:42
-- Location: The Times of India
-- Description: In Los Angeles, officers used tear gas on demonstrators protesting President Trump's National Guard deployment. The protests followed Trump's immigration crackdown. Governor Newsom requested the Guard's removal, citing a breach of state sovereignty. Trump def…
+### ASSAULT on 2025-06-09 01:28
+- Location: The Denver Post
+- Description: Dozens of police officers roamed the area while sniper rifles were set up on each side of the block, including on the roof of the courthouse.
 
-Analysis generated at: Tue Jun 10 01:10:51 UTC 2025
+Analysis generated at: Tue Jun 10 01:57:38 UTC 2025
