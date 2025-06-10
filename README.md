@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Jun 10 12:50:01 UTC 2025
+Last updated: Tue Jun 10 18:20:04 UTC 2025
 
 ## Latest Analysis
 
-Loaded 37607 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-09 12:44:44
+Loaded 37699 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-09 18:17:36
 
 Incidents by source:
 source
-newsapi           37506
+newsapi           37598
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,30 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-06-09 12:44
-- Location: Financial Post
-- Description: London is set to miss out on extra funding for new infrastructure projects in Chancellor of the Exchequer Rachel Reeves’ spending review on Wednesday, provoking an eleventh-hour row between the Treasury and the capital’s mayor, Sadiq Khan.
+### OTHER on 2025-06-09 18:17
+- Location: The Daily Caller
+- Description: CNN senior data reporter Harry Enten said on Monday that President Donald Trump's approval rating on the issue of immigration has skyrocketed.
 
 
-### OTHER on 2025-06-09 12:39
-- Location: Kunstler.com
-- Description: "Call me crazy, but I think Dem politicians in LA publicly encouraging riots helps explain why they’re also incapable of issuing building permits for the fires months ago." —Mark Hemingway
+### ASSAULT on 2025-06-09 18:16
+- Location: The Times of India
+- Description: The West Bengal Assembly's monsoon session commenced with condolences for the Pahalgam attack victims. A resolution will be tabled to commend the armed forces and condemn the terror act. BJP MLAs protested the omission of Murshidabad riot victims from obituar…
 
 
-### OTHER on 2025-06-09 12:38
-- Location: The Irish Times
-- Description: Drew Harris and Justin Kelly note that a $15 million US cash reward remains available to those with information on group’s key players
+### HOMICIDE on 2025-06-09 18:15
+- Location: ABC News
+- Description: 3 sisters allegedly killed in Washington during visit with their father were suffocated: Authoritiesgo.com
 
 
-### OTHER on 2025-06-09 12:32
-- Location: 13abc Action News
-- Description: 80 dogs found in poor health leads to animal cruelty charges in Henry Co.13abc.com
+### HOMICIDE on 2025-06-09 18:10
+- Location: Freerepublic.com
+- Description: Dozens of people were arrested Sunday and accused of attempted murder, arson and other crimes during a day of violence and protests in Los Angeles. A combined 42 arrests were made by the Los Angeles Police Department, California Highway Patrol and Los Angeles…
 
 
-### OTHER on 2025-06-09 12:20
-- Location: Creativeapplications.net
-- Description: Get full content RSS Feed
+### ASSAULT on 2025-06-09 18:10
+- Location: Snopes.com
+- Description: Secretary of Homeland Security Kristi Noem testified to Congress that Republicans voted to allow U.S. Immigration and Customs Enforcement (ICE) employ participants in the Jan. 6, 2021, attack on the U.S. Capitol.
 
-So-called ‘AI’ —more accurately: Predictive Capital— is the latest instrument in Capital’s apparatus of alienation. It steals our work, simulates our labour, reanimates our expression, autocompletes our thought, then pronounces us d…
-
-Analysis generated at: Tue Jun 10 12:50:01 UTC 2025
+Analysis generated at: Tue Jun 10 18:20:04 UTC 2025
