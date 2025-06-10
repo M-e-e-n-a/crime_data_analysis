@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Jun 10 01:57:38 UTC 2025
+Last updated: Tue Jun 10 06:21:10 UTC 2025
 
 ## Latest Analysis
 
-Loaded 37463 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-09 01:42:58
+Loaded 37510 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-09 06:16:03
 
 Incidents by source:
 source
-newsapi           37362
+newsapi           37409
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-06-09 01:42
-- Location: Fox News
-- Description: A skydiving plane with 20 passengers crashed in Tennessee after takeoff from Tullahoma Regional Airport, injuring multiple passengers.
+### OTHER on 2025-06-09 06:16
+- Location: ABC News (AU)
+- Description: Protesters blocked off a major freeway and set self-driving cars on fire as law enforcement used tear gas, rubber bullets and flash bangs to control the crowd.
 
 
-### OTHER on 2025-06-09 01:34
-- Location: PBS
-- Description: Some police patrolled the streets on horseback while others with riot gear lined up behind Guard troops deployed to protect federal facilities including a detention center where some immigrants were taken in recent days.
+### OTHER on 2025-06-09 06:01
+- Location: Breitbart News
+- Description: The violence from protesters involved in the pro-migration, foreign-flag-waving riots in Los Angeles is "escalating," Los Angeles Police Department Chief Jim McDonnell revealed during a press conference.
+The post LAPD Chief Contradicts Newsom, Bass, Schiff: ‘…
 
 
-### SHOOTING on 2025-06-09 01:31
-- Location: IndieWire
-- Description: Tribeca: Asa Butterfield co-stars in Oscar Boyson's propulsive and fascinatingly contradictory cross between gun-culture warning letter and Safdies-esque thriller.
+### OTHER on 2025-06-09 06:00
+- Location: Naturalnews.com
+- Description: The Strong Border Act, introduced by the Canadian government, includes provisions allowing law enforcement to obtain subscriber information without a warrant, measures critics say have nothing to do with border security. These surveillance provisions echo lon…
 
 
-### SHOOTING on 2025-06-09 01:30
-- Location: Independent.ie
-- Description: Colombian senator Miguel Uribe, a ­potential presidential contender, survived an initial operation for his injuries after being shot in Bogota on Saturday, according to his wife and the hospital treating him, although he remains in intensive care.
+### HOMICIDE on 2025-06-09 05:55
+- Location: Syllad.com
+- Description: In a new twist to the much-publicized Sohra murder case, Sonam Raghuvanshi has surrendered to police, while three others have been arrested for their involvement in the killing of her husband, Raja Raghuvanshi. The newlywed couple from Indore had gone missing…
 
 
-### ASSAULT on 2025-06-09 01:28
-- Location: The Denver Post
-- Description: Dozens of police officers roamed the area while sniper rifles were set up on each side of the block, including on the roof of the courthouse.
+### SHOOTING on 2025-06-09 05:48
+- Location: Pedestrian TV
+- Description: Senator Hanson-Young is demanding answers after Australian reporter was shot with a rubber bullet while covering protests in Los Angeles.
 
-Analysis generated at: Tue Jun 10 01:57:38 UTC 2025
+Analysis generated at: Tue Jun 10 06:21:10 UTC 2025
