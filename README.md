@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Jun 11 01:10:25 UTC 2025
+Last updated: Wed Jun 11 01:56:42 UTC 2025
 
 ## Latest Analysis
 
-Loaded 37720 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-10 01:09:31
+Loaded 37726 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-10 01:55:47
 
 Incidents by source:
 source
-newsapi           37619
+newsapi           37625
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-06-10 01:09
-- Location: ABC News (AU)
-- Description: Western Australia's longest-serving Corruption and Crime Commissioner, John McKechnie, announces he will step down at the end of the month, a year ahead of schedule.
+### HOMICIDE on 2025-06-10 01:55
+- Location: The Times of India
+- Description: Meghalaya's Deputy CM, Prestone Tynsong, lauded the state police for swiftly solving the Raja Raghuvanshi murder case, countering claims of inefficiency. Following the arrest of the victim's wife, the family expressed gratitude to the Meghalaya police. Tynson…
 
 
-### OTHER on 2025-06-10 01:03
-- Location: CBS News
-- Description: President Trump's "border czar" says California Gov. Gavin Newsom and other local officials "haven't crossed a line yet."
+### ASSAULT on 2025-06-10 01:50
+- Location: Fox News
+- Description: Attorney General Bondi announces FBI has identified suspect Reyes who allegedly injured a federal officer by throwing rocks at vehicles during anti-ICE demonstrations.
 
 
-### HOMICIDE on 2025-06-10 01:00
-- Location: Las Vegas Review-Journal
-- Description: Manuel Ruiz, 41, has been arrested in the livestreamed Sunday night killing of two people in front of the Bellagio fountains on the Las Vegas Strip, n what police said was a feud instigated on social media
+### ROBBERY/THEFT on 2025-06-10 01:48
+- Location: Fox News
+- Description: Angela Suggs, Florida A&M's athletic director, faces felony theft charges after allegedly stealing funds from the Florida Sports Foundation through falsified vouchers.
 
 
-### SHOOTING on 2025-06-10 00:56
-- Location: Freerepublic.com
-- Description: U.S. — Law enforcement agencies across the country saw a sudden surge of popularity today after word got out that they were shooting journalists with tear gas and rubber bullets. While the general public had been at least somewhat divided over law enforcement…
+### SHOOTING on 2025-06-10 01:37
+- Location: CBC News
+- Description: A male has been rushed to hospital with life-threatening injuries after a shooting in Scarborough on Monday night, Toronto police say.
 
 
-### OTHER on 2025-06-10 00:54
-- Location: ABC News
-- Description: Protests surrounding immigration enforcement actions in the Los Angeles area and the Trump administration's response to them have cued up a public spat between President Donald Trump and Gov. Gavin Newsom
+### OTHER on 2025-06-10 01:30
+- Location: Independent.ie
+- Description: Planning a night on the couch? Here are today’s top TV and streaming picks:
 
-Analysis generated at: Wed Jun 11 01:10:25 UTC 2025
+Analysis generated at: Wed Jun 11 01:56:42 UTC 2025
