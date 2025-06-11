@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Jun 11 01:56:42 UTC 2025
+Last updated: Wed Jun 11 06:21:20 UTC 2025
 
 ## Latest Analysis
 
-Loaded 37726 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-10 01:55:47
+Loaded 37779 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-10 06:15:28
 
 Incidents by source:
 source
-newsapi           37625
+newsapi           37678
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-06-10 01:55
-- Location: The Times of India
-- Description: Meghalaya's Deputy CM, Prestone Tynsong, lauded the state police for swiftly solving the Raja Raghuvanshi murder case, countering claims of inefficiency. Following the arrest of the victim's wife, the family expressed gratitude to the Meghalaya police. Tynson…
+### HOMICIDE on 2025-06-10 06:15
+- Location: WSB Atlanta
+- Description: Police in LaGrange are looking for the person or people responsible for shooting seven people over the weekend.
 
 
-### ASSAULT on 2025-06-10 01:50
-- Location: Fox News
-- Description: Attorney General Bondi announces FBI has identified suspect Reyes who allegedly injured a federal officer by throwing rocks at vehicles during anti-ICE demonstrations.
+### OTHER on 2025-06-10 06:00
+- Location: Dramabeans.com
+- Description: We’re two weeks in, and our good boys are already working to build a case against our resident villain — who is turning out to be more evil than we assumed. In the meantime, we get into the familial backstories of some of our good boys that just might be conn…
 
 
-### ROBBERY/THEFT on 2025-06-10 01:48
-- Location: Fox News
-- Description: Angela Suggs, Florida A&M's athletic director, faces felony theft charges after allegedly stealing funds from the Florida Sports Foundation through falsified vouchers.
+### OTHER on 2025-06-10 06:00
+- Location: Naturalnews.com
+- Description: And pretty soon, expect action in a dozen other states, you can be sure, because just as it was in the scorpion’s nature to sting the frog crossing the river in the old parable, it is likewise in the Party of Chaos’s nature to sow chaos in an American summer.…
 
 
-### SHOOTING on 2025-06-10 01:37
-- Location: CBC News
-- Description: A male has been rushed to hospital with life-threatening injuries after a shooting in Scarborough on Monday night, Toronto police say.
+### OTHER on 2025-06-10 05:52
+- Location: Starweekly.com.au
+- Description: Police are investigating an attempted carjacking that occurred at Broadmeadows Central on Monday, June 9. It’s understood the victim was...
+The post Attempted carjacking at Broadmeadows Central under investigation appeared first on Northern.
 
 
-### OTHER on 2025-06-10 01:30
-- Location: Independent.ie
-- Description: Planning a night on the couch? Here are today’s top TV and streaming picks:
+### SHOOTING on 2025-06-10 05:40
+- Location: Financial Post
+- Description: Prime Minister Anthony Albanese has strongly condemned the shooting of an Australian journalist with a rubber bullet during protests in Los Angeles, describing footage of the incident as “horrific.”
 
-Analysis generated at: Wed Jun 11 01:56:42 UTC 2025
+Analysis generated at: Wed Jun 11 06:21:20 UTC 2025
