@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Jun 11 06:21:20 UTC 2025
+Last updated: Wed Jun 11 12:29:15 UTC 2025
 
 ## Latest Analysis
 
-Loaded 37779 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-10 06:15:28
+Loaded 37869 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-10 12:20:04
 
 Incidents by source:
 source
-newsapi           37678
+newsapi           37768
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-06-10 06:15
-- Location: WSB Atlanta
-- Description: Police in LaGrange are looking for the person or people responsible for shooting seven people over the weekend.
+### HOMICIDE on 2025-06-10 12:20
+- Location: The Times of India
+- Description: A honeymoon in Meghalaya turned tragic as police allege bride Sonam orchestrated her husband Raja Raghuvanshi's murder with her lover's help. Initially suspected as a robbery, investigation revealed a sinister plot. Sonam, along with her alleged lover Raj Kus…
 
 
-### OTHER on 2025-06-10 06:00
-- Location: Dramabeans.com
-- Description: We’re two weeks in, and our good boys are already working to build a case against our resident villain — who is turning out to be more evil than we assumed. In the meantime, we get into the familial backstories of some of our good boys that just might be conn…
+### HOMICIDE on 2025-06-10 12:19
+- Location: Freerepublic.com
+- Description: Disturbing allegations are coming to light about a federal employee forcing his pregnant girlfriend to have an abortion she didn't want. Justin Banta, 38, faces an attempted capital murder charge in Tarrant County, where officials say he spiked his girlfriend…
 
 
-### OTHER on 2025-06-10 06:00
-- Location: Naturalnews.com
-- Description: And pretty soon, expect action in a dozen other states, you can be sure, because just as it was in the scorpion’s nature to sting the frog crossing the river in the old parable, it is likewise in the Party of Chaos’s nature to sow chaos in an American summer.…
+### ASSAULT on 2025-06-10 12:16
+- Location: BBC News
+- Description: Paramedics at the scene tell court of the terror when Marcus Monzo allegedly turned on the ambulance.
 
 
-### OTHER on 2025-06-10 05:52
-- Location: Starweekly.com.au
-- Description: Police are investigating an attempted carjacking that occurred at Broadmeadows Central on Monday, June 9. It’s understood the victim was...
-The post Attempted carjacking at Broadmeadows Central under investigation appeared first on Northern.
+### HOMICIDE on 2025-06-10 12:15
+- Location: Slashdot.org
+- Description: Ten dead in Austria school shooting, police sayBBC Ten dead in Austria school shooting, including suspect, police sayBBC Nine killed in school shooting in Austrian city of Graz; attacker also deadThe Times of Israel Ten people dead in attack at school in city…
 
 
-### SHOOTING on 2025-06-10 05:40
-- Location: Financial Post
-- Description: Prime Minister Anthony Albanese has strongly condemned the shooting of an Australian journalist with a rubber bullet during protests in Los Angeles, describing footage of the incident as “horrific.”
+### OTHER on 2025-06-10 12:14
+- Location: HuffPost
+- Description: "Ever since then, I’ve felt like I owed you an explanation. Though this is 30 years overdue, I don’t think I could have sent it any sooner."
 
-Analysis generated at: Wed Jun 11 06:21:20 UTC 2025
+Analysis generated at: Wed Jun 11 12:29:15 UTC 2025
