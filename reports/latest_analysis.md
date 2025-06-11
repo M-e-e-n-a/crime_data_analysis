@@ -1,10 +1,10 @@
 
-Loaded 37869 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-10 12:20:04
+Loaded 37875 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-10 12:48:00
 
 Incidents by source:
 source
-newsapi           37768
+newsapi           37774
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-06-10 12:20
-- Location: The Times of India
-- Description: A honeymoon in Meghalaya turned tragic as police allege bride Sonam orchestrated her husband Raja Raghuvanshi's murder with her lover's help. Initially suspected as a robbery, investigation revealed a sinister plot. Sonam, along with her alleged lover Raj Kus…
+### HOMICIDE on 2025-06-10 12:48
+- Location: The Japan Times
+- Description: Police did not publicly identify the killer, but Austrian media cited unconfirmed reports saying he was a former pupil.
 
 
-### HOMICIDE on 2025-06-10 12:19
-- Location: Freerepublic.com
-- Description: Disturbing allegations are coming to light about a federal employee forcing his pregnant girlfriend to have an abortion she didn't want. Justin Banta, 38, faces an attempted capital murder charge in Tarrant County, where officials say he spiked his girlfriend…
+### HOMICIDE on 2025-06-10 12:46
+- Location: Biztoc.com
+- Description: At least nine people were killed and several others injured in a school shooting in the Austrian city of Graz on Tuesday. Police say the suspect is also dead. There is no word yet on their identity or motive.
 
 
-### ASSAULT on 2025-06-10 12:16
+### HOMICIDE on 2025-06-10 12:39
 - Location: BBC News
-- Description: Paramedics at the scene tell court of the terror when Marcus Monzo allegedly turned on the ambulance.
+- Description: French President Emmanuel Macron said that the "nation was in mourning" after the death of the 31-year-old.
 
 
-### HOMICIDE on 2025-06-10 12:15
-- Location: Slashdot.org
-- Description: Ten dead in Austria school shooting, police sayBBC Ten dead in Austria school shooting, including suspect, police sayBBC Nine killed in school shooting in Austrian city of Graz; attacker also deadThe Times of Israel Ten people dead in attack at school in city…
+### HOMICIDE on 2025-06-10 12:38
+- Location: BBC News
+- Description: French President Emmanuel Macron said that the "nation was in mourning" after the death of the 31-year-old.
 
 
-### OTHER on 2025-06-10 12:14
-- Location: HuffPost
-- Description: "Ever since then, I’ve felt like I owed you an explanation. Though this is 30 years overdue, I don’t think I could have sent it any sooner."
+### ROBBERY/THEFT on 2025-06-10 12:31
+- Location: Democracy Now!
+- Description: The Trump administration is sending 700 marines and an additional 2,000 members of the National Guard into Los Angeles following four days of protests against militarized immigration raids. Rob Bonta, attorney general of California, sued to block the use of N…
 
-Analysis generated at: Wed Jun 11 12:29:15 UTC 2025
+Analysis generated at: Wed Jun 11 12:49:52 UTC 2025
