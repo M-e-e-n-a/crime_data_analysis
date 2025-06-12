@@ -1,10 +1,10 @@
 
-Loaded 38129 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-11 12:45:58
+Loaded 38221 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-11 18:14:55
 
 Incidents by source:
 source
-newsapi           38028
+newsapi           38120
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-06-11 12:45
-- Location: The Times of India
-- Description: A shocking Schengen visa scam has been unearthed. An Indian employee at the French Embassy in New Delhi defrauded Schengen visa applicants by charging up to Rs 45 lakh per visa applicant. Uisng this money the accused and his family acquired properties worth c…
+### OTHER on 2025-06-11 18:14
+- Location: New York Post
+- Description: The recent wave of raids at Home Depots was reportedly influenced by White House advisor Stephen Miller, architect of Trump’s immigration policies.
 
 
-### OTHER on 2025-06-11 12:41
-- Location: ABC News
-- Description: Officer Nicholas Contino and good Samaritan Nathan Felix worked with a paramedic and motorists to free a 68-year-old woman from an overturned vehicle in Chester, Orange County, New York.
+### ASSAULT on 2025-06-11 18:13
+- Location: Fox News
+- Description: Harvey Weinstein's sex crimes retrial has reached a verdict after prosecutors and defense presented contrasting closing arguments about the nature of his encounters with women.
 
 
-### ASSAULT on 2025-06-11 12:32
-- Location: YLE News
-- Description: The victim's physical wounds have mostly healed, but other damage lingers.
+### OTHER on 2025-06-11 18:12
+- Location: The Daily Caller
+- Description: ICE is arresting illegal migrants with criminal histories, despite ongoing violence by rioters opposed to the Trump administration's enforcement actions.
 
 
-### OTHER on 2025-06-11 12:30
-- Location: Decider
-- Description: Wanting more movies filled with exhilaration and or heartache? Look no further.
+### ASSAULT on 2025-06-11 18:05
+- Location: CBS News
+- Description: The jury has returned a partial verdict in Harvey Weinstein's sexual assault retrial.
 
 
-### OTHER on 2025-06-11 12:23
-- Location: The Conversation Africa
-- Description: A scholar of right-wing extremism provides an overview of some of the key white supremacist groups that pose significant threats to public safety.
+### OTHER on 2025-06-11 18:04
+- Location: Hip-Hop Wired
+- Description: Before the immigration protests in California began earlier this month, California Governor Gavin Newsom was just another face in the already crowded public imagination of Democratic hopefuls.  The vivacious and personable Newsom had been your quintessential …
 
-Analysis generated at: Thu Jun 12 12:49:16 UTC 2025
+Analysis generated at: Thu Jun 12 18:19:47 UTC 2025
