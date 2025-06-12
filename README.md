@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Jun 12 01:09:25 UTC 2025
+Last updated: Thu Jun 12 01:55:29 UTC 2025
 
 ## Latest Analysis
 
-Loaded 37982 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-11 01:06:48
+Loaded 37995 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-11 01:54:23
 
 Incidents by source:
 source
-newsapi           37881
+newsapi           37894
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-06-11 01:06
-- Location: ABC News (AU)
-- Description: Plaques dedicated to five teenagers who died when the speeding car they were in crashed into a tree south of Sydney are stolen, angering their community.
-
-
-### OTHER on 2025-06-11 01:06
-- Location: ABC News (AU)
-- Description: Tasmania's government is failing to keep children safe through its continued practice of placing them in adult prison watch-houses, a new report says.
-
-
-### OTHER on 2025-06-11 01:04
-- Location: Economictimes.com
-- Description: Axiom-4 (Ax-4) mission to the International Space Station (ISS), which includes Indian Gaganyatri Shubhanshu Shukla onboard put off due to snag in rocket. New date to be announced in due course
-
-
-### HOMICIDE on 2025-06-11 01:01
-- Location: fox6now.com
-- Description: One person was killed and two others were injured in different shootings in Milwaukee on Tuesday, June 10.
-
-
-### OTHER on 2025-06-11 01:00
+### HOMICIDE on 2025-06-11 01:54
 - Location: Freerepublic.com
-- Description: One of the 'rooftop Koreans' who took to LA's rooftops in 1992 during the Rodney King riots to defend their businesses is furious that history is repeating itself in modern day California. Tony Moon, one of the so-called 'Rooftop Koreans' who armed themselves…
+- Description: PARKER COUNTY, Texas - A North Texas man who works for the U.S. Department of Justice has been arrested and charged with capital murder after authorities said he secretly gave his pregnant girlfriend an abortion-inducing drug, causing the death of her six-wee…
 
-Analysis generated at: Thu Jun 12 01:09:25 UTC 2025
+
+### OTHER on 2025-06-11 01:53
+- Location: The Atlantic
+- Description: But Trump aides know there are real risks for the president if troops are involved in violence.
+
+
+### SHOOTING on 2025-06-11 01:52
+- Location: KRDO
+- Description: CAÑON CITY, Colo. (KRDO) – A man is in custody after allegedly firing several shots at a group of people during a dispute in a Walmart parking lot Monday
+
+
+### HOMICIDE on 2025-06-11 01:44
+- Location: The Times of India
+- Description: A phone call between Sonam Raghuvanshi and her mother-in-law is under scrutiny in the Raja Raghuvanshi murder case. Police suspect the call occurred moments before or even during the planning of Raja's murder. Sonam told her mother-in-law that Raja was walkin…
+
+
+### HOMICIDE on 2025-06-11 01:42
+- Location: The Times of India
+- Description: Raj Kushwaha's family in Indore is reeling from his arrest, accused of conspiring with Sonam Raghuvanshi to murder her husband Raja during their honeymoon in Meghalaya. Raj, an employee of Sonam's family, allegedly comforted both families after Raja's body wa…
+
+Analysis generated at: Thu Jun 12 01:55:29 UTC 2025
