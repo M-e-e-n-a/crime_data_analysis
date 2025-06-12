@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Jun 11 18:20:13 UTC 2025
+Last updated: Thu Jun 12 01:09:25 UTC 2025
 
 ## Latest Analysis
 
-Loaded 37964 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-10 18:15:39
+Loaded 37982 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-11 01:06:48
 
 Incidents by source:
 source
-newsapi           37863
+newsapi           37881
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-06-10 18:15
-- Location: Slashdot.org
-- Description: Gunman opens fire in Austrian school, killing nine and throwing country into shockCNN Former pupil kills nine, then himself in shooting at Austrian schoolYahoo At Least 9 Dead After Austria School Shooting, Police SayThe New York Times Gunshots heard and stud…
+### HOMICIDE on 2025-06-11 01:06
+- Location: ABC News (AU)
+- Description: Plaques dedicated to five teenagers who died when the speeding car they were in crashed into a tree south of Sydney are stolen, angering their community.
 
 
-### ASSAULT on 2025-06-10 18:15
-- Location: Fox News
-- Description: New legislation would make non-U.S. citizens who assault police during declared emergencies deportable and permanently banned from the United States.
+### OTHER on 2025-06-11 01:06
+- Location: ABC News (AU)
+- Description: Tasmania's government is failing to keep children safe through its continued practice of placing them in adult prison watch-houses, a new report says.
 
 
-### OTHER on 2025-06-10 18:15
-- Location: Billings Gazette
-- Description: John Anthony Skauge, owner the Colonial and several other Billings apartments, was accused by the city in a civil suit of operating a chronically dilapidated property.
+### OTHER on 2025-06-11 01:04
+- Location: Economictimes.com
+- Description: Axiom-4 (Ax-4) mission to the International Space Station (ISS), which includes Indian Gaganyatri Shubhanshu Shukla onboard put off due to snag in rocket. New date to be announced in due course
 
 
-### SHOOTING on 2025-06-10 18:15
-- Location: DW (English)
-- Description: Mass shootings at schools, universities and youth centers remain rare in Europe compared to the US. In recent decades, European governments have tightened gun laws in response to shootings.
+### HOMICIDE on 2025-06-11 01:01
+- Location: fox6now.com
+- Description: One person was killed and two others were injured in different shootings in Milwaukee on Tuesday, June 10.
 
 
-### HOMICIDE on 2025-06-10 18:15
-- Location: DW (English)
-- Description: Mass shootings at schools, universities and youth centers remain rare in Europe compared to the US. In recent decades, European governments have tightened gun laws in response to shootings.
+### OTHER on 2025-06-11 01:00
+- Location: Freerepublic.com
+- Description: One of the 'rooftop Koreans' who took to LA's rooftops in 1992 during the Rodney King riots to defend their businesses is furious that history is repeating itself in modern day California. Tony Moon, one of the so-called 'Rooftop Koreans' who armed themselves…
 
-Analysis generated at: Wed Jun 11 18:20:13 UTC 2025
+Analysis generated at: Thu Jun 12 01:09:25 UTC 2025
