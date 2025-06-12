@@ -1,10 +1,10 @@
 
-Loaded 37995 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-11 01:54:23
+Loaded 38037 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-11 06:21:08
 
 Incidents by source:
 source
-newsapi           37894
+newsapi           37936
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,27 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-06-11 01:54
-- Location: Freerepublic.com
-- Description: PARKER COUNTY, Texas - A North Texas man who works for the U.S. Department of Justice has been arrested and charged with capital murder after authorities said he secretly gave his pregnant girlfriend an abortion-inducing drug, causing the death of her six-wee…
+### HOMICIDE on 2025-06-11 06:21
+- Location: Independent.ie
+- Description: Austrian authorities were searching on Wednesday for answers to why a 21-year-old gunman shot 10 people in a rampage at his former high school before killing himself, one of the worst outbreaks of violence in the country's modern history.
 
 
-### OTHER on 2025-06-11 01:53
-- Location: The Atlantic
-- Description: But Trump aides know there are real risks for the president if troops are involved in violence.
+### SHOOTING on 2025-06-11 06:15
+- Location: Biztoc.com
 
 
-### SHOOTING on 2025-06-11 01:52
-- Location: KRDO
-- Description: CAÑON CITY, Colo. (KRDO) – A man is in custody after allegedly firing several shots at a group of people during a dispute in a Walmart parking lot Monday
+### HOMICIDE on 2025-06-11 06:15
+- Location: The Star Online
+- Description: GRAZ, Austria (Reuters) -Austrian authorities were searching on Wednesday for answers to why a 21-year-old gunman shot 10 people in a rampage at his former high school before killing himself, one of the worst outbreaks of violence in the country's modern hist…
 
 
-### HOMICIDE on 2025-06-11 01:44
-- Location: The Times of India
-- Description: A phone call between Sonam Raghuvanshi and her mother-in-law is under scrutiny in the Raja Raghuvanshi murder case. Police suspect the call occurred moments before or even during the planning of Raja's murder. Sonam told her mother-in-law that Raja was walkin…
+### OTHER on 2025-06-11 06:14
+- Location: ABC News
+- Description: Los Angeles police have swiftly enforced a downtown curfew, making arrests moments after it took effect, deploying officers on horseback and using crowd control projectiles to break up a group of hundreds demonstrating against President Donald Trump’s ...
 
 
-### HOMICIDE on 2025-06-11 01:42
-- Location: The Times of India
-- Description: Raj Kushwaha's family in Indore is reeling from his arrest, accused of conspiring with Sonam Raghuvanshi to murder her husband Raja during their honeymoon in Meghalaya. Raj, an employee of Sonam's family, allegedly comforted both families after Raja's body wa…
+### OTHER on 2025-06-11 06:00
+- Location: Dramabeans.com
+- Description: At this point, there’s no genre that Park Bo-young (Our Unwritten Seoul) cannot do and Disney+’s new crime-thriller Gold Land is the next on her busy schedule, entangled alongside the also talented Kim Sung-chul (Hellbound 2) in a treacherous plot surrounding…
 
-Analysis generated at: Thu Jun 12 01:55:29 UTC 2025
+Analysis generated at: Thu Jun 12 06:21:39 UTC 2025
