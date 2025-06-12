@@ -1,10 +1,10 @@
 
-Loaded 38037 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-11 06:21:08
+Loaded 38125 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-11 12:23:24
 
 Incidents by source:
 source
-newsapi           37936
+newsapi           38024
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,27 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-06-11 06:21
-- Location: Independent.ie
-- Description: Austrian authorities were searching on Wednesday for answers to why a 21-year-old gunman shot 10 people in a rampage at his former high school before killing himself, one of the worst outbreaks of violence in the country's modern history.
+### OTHER on 2025-06-11 12:23
+- Location: The Conversation Africa
+- Description: A scholar of right-wing extremism provides an overview of some of the key white supremacist groups that pose significant threats to public safety.
 
 
-### SHOOTING on 2025-06-11 06:15
-- Location: Biztoc.com
+### OTHER on 2025-06-11 12:16
+- Location: Southasiaviews.com
+- Description: Shillong (Meghalaya), June 11: The Sessions court here has granted the police a 10-day custody of Sonam Raghuvanshi and the four other accused individuals. The accused, including Sonam’s alleged lover Raj Kushwaha, Anand Kurmi, Akash Rajput, and Vishal Singh …
 
 
-### HOMICIDE on 2025-06-11 06:15
-- Location: The Star Online
-- Description: GRAZ, Austria (Reuters) -Austrian authorities were searching on Wednesday for answers to why a 21-year-old gunman shot 10 people in a rampage at his former high school before killing himself, one of the worst outbreaks of violence in the country's modern hist…
+### OTHER on 2025-06-11 12:15
+- Location: The Times of India
+- Description: Trump warned that anyone protesting during his military parade on Saturday will face strong action. The parade is for his birthday and the Army’s 250th anniversary. He also blamed violent protests in L.A. on paid troublemakers, claims report.
 
 
-### OTHER on 2025-06-11 06:14
-- Location: ABC News
-- Description: Los Angeles police have swiftly enforced a downtown curfew, making arrests moments after it took effect, deploying officers on horseback and using crowd control projectiles to break up a group of hundreds demonstrating against President Donald Trump’s ...
+### HOMICIDE on 2025-06-11 12:04
+- Location: GhanaWeb
+- Description: Reports have emerged that Ghanaian TikToker, Hayford Boateng, popularly known as GH Kobby, has allegedly shot and killed his girlfriend.
 
 
-### OTHER on 2025-06-11 06:00
-- Location: Dramabeans.com
-- Description: At this point, there’s no genre that Park Bo-young (Our Unwritten Seoul) cannot do and Disney+’s new crime-thriller Gold Land is the next on her busy schedule, entangled alongside the also talented Kim Sung-chul (Hellbound 2) in a treacherous plot surrounding…
+### OTHER on 2025-06-11 12:00
+- Location: Borderlandbeat.com
+- Description: CHAR  JUNE 10, 2025  MILENIO NOTICIAS  VIDEO TRANSLATION  The Veracruz Attorney General's Office is offering 350,000 pesos for "El Doble ZER...
 
-Analysis generated at: Thu Jun 12 06:21:39 UTC 2025
+Analysis generated at: Thu Jun 12 12:28:27 UTC 2025
