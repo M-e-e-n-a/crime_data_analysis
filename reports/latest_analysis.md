@@ -1,10 +1,10 @@
 
-Loaded 38221 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-11 18:14:55
+Loaded 38242 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-12 01:10:12
 
 Incidents by source:
 source
-newsapi           38120
+newsapi           38141
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-06-11 18:14
-- Location: New York Post
-- Description: The recent wave of raids at Home Depots was reportedly influenced by White House advisor Stephen Miller, architect of Trump’s immigration policies.
+### SHOOTING on 2025-06-12 01:10
+- Location: WSB Atlanta
+- Description: Police are searching for a man they said pulled out a gun at an Atlanta hotel last month.
 
 
-### ASSAULT on 2025-06-11 18:13
-- Location: Fox News
-- Description: Harvey Weinstein's sex crimes retrial has reached a verdict after prosecutors and defense presented contrasting closing arguments about the nature of his encounters with women.
+### OTHER on 2025-06-12 01:07
+- Location: BBC News
+- Description: Despite a curfew, protests against immigration arrests have started up again in areas of the city's downtown.
 
 
-### OTHER on 2025-06-11 18:12
-- Location: The Daily Caller
-- Description: ICE is arresting illegal migrants with criminal histories, despite ongoing violence by rioters opposed to the Trump administration's enforcement actions.
+### HOMICIDE on 2025-06-12 01:01
+- Location: ABC News (AU)
+- Description: Police say they are speaking with a child as part of their investigations into the stabbing death of a 36-year-old man in outback New South Wales.
 
 
-### ASSAULT on 2025-06-11 18:05
-- Location: CBS News
-- Description: The jury has returned a partial verdict in Harvey Weinstein's sexual assault retrial.
+### HOMICIDE on 2025-06-12 01:00
+- Location: Allthatsinteresting.com
+- Description: In 2018, Ezra McCandless fatally stabbed her ex-boyfriend Alex Woodworth 16 times — likely in an attempt to get back with a different ex.
+The post The Chilling Story Of Ezra McCandless, The Wisconsin Woman Who Kept Stabbing Her Ex-Boyfriend Even After She Kil…
 
 
-### OTHER on 2025-06-11 18:04
-- Location: Hip-Hop Wired
-- Description: Before the immigration protests in California began earlier this month, California Governor Gavin Newsom was just another face in the already crowded public imagination of Democratic hopefuls.  The vivacious and personable Newsom had been your quintessential …
+### OTHER on 2025-06-12 00:56
+- Location: ABC News (AU)
+- Description: Queensland Advocacy for Inclusion sent a delegation to the UN over concerns about the state government's flagship "adult crime, adult time" policy.
 
-Analysis generated at: Thu Jun 12 18:19:47 UTC 2025
+Analysis generated at: Fri Jun 13 01:10:25 UTC 2025
