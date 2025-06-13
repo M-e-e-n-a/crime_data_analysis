@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Jun 13 06:21:18 UTC 2025
+Last updated: Fri Jun 13 12:28:49 UTC 2025
 
 ## Latest Analysis
 
-Loaded 38302 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-12 06:20:00
+Loaded 38381 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-12 12:19:00
 
 Incidents by source:
 source
-newsapi           38201
+newsapi           38280
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-06-12 06:20
-- Location: The Star Online
-- Description: MELAKA: Melaka police have confirmed that a 17-year-old Form Five student is the prime suspect in the double murder case at Taman Rambai Mutiara, Bukit Rambai here. Read full story
+### OTHER on 2025-06-12 12:19
+- Location: GlobeNewswire
+- Description: Retired Marine and Certified Bio-Recovery Technician brings compassion, compliance focus, and crisis response experience to company’s San Antonio branch Retired Marine and Certified Bio-Recovery Technician brings compassion, compliance focus, and crisis respo…
 
 
-### HOMICIDE on 2025-06-12 06:11
-- Location: Thehillstimes.in
-- Description: HT DIGITAL GUWAHATI, JUNE 12: A Shillong court on Wednesday sent Sonam Raghuvanshi, who is suspected of killing her husband Raja Raghuvanshi on their honeymoon in Meghalaya, and her four co-conspirators to eight days of police custody, a senior official said.…
+### OTHER on 2025-06-12 12:13
+- Location: BBC News
+- Description: Leading artists said the bill needed to be changed to protect them from having their work copied by AI.
 
 
-### HOMICIDE on 2025-06-12 06:10
-- Location: ABC News (AU)
-- Description: Police have raided a home in Melbourne's south-east after an arson attack killed a 27-year-old woman in January.
+### OTHER on 2025-06-12 12:08
+- Location: The Root
+- Description: In 2015, you could not avoid teenage rapper Silentó’s song “Watch Me (Whip/Nae Nae).” The song was a viral hit, and the music video got over 1.9 billion views on YouTube. Now, a decade later, the rapper is trending again, but not for another smash hit, but fo…
 
 
-### OTHER on 2025-06-12 06:03
-- Location: Starweekly.com.au
-- Description: Those with a love of history, and especially the researching and writing of it, are in for a treat on...
-The post Butler to teach tracing lost histories appeared first on Northern.
+### OTHER on 2025-06-12 12:08
+- Location: CBC News
+- Description: Montreal and provincial police have made several arrests Thursday morning linked to organized crime in the Montreal area.
 
 
-### OTHER on 2025-06-12 05:59
-- Location: 7NEWS.com.au
-- Description: US funeral home owner Miles Harford left woman’s body in hearse for more than a year7news.com.au
+### OTHER on 2025-06-12 12:08
+- Location: Mediaite
+- Description: President Donald Trump claimed Thursday morning that Los Angeles is currently "safe and sound" following days of anti-ICE protests — and Gov. Gavin Newsom should be thanking him for "saving his ass."
+The post Trump Says Gavin Newsom Should Be Thanking Him for…
 
-Analysis generated at: Fri Jun 13 06:21:18 UTC 2025
+Analysis generated at: Fri Jun 13 12:28:49 UTC 2025
