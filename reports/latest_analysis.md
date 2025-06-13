@@ -1,10 +1,10 @@
 
-Loaded 38381 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-12 12:19:00
+Loaded 38383 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-12 12:34:13
 
 Incidents by source:
 source
-newsapi           38280
+newsapi           38282
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,6 +20,17 @@ bution.svg)
 
 ## Recent Incidents
 
+### OTHER on 2025-06-12 12:34
+- Location: Fox News
+- Description: Los Angeles Mayor Karen Bass banded together with dozens of other mayors in the region to demand an end to the Trump administration's immigration raids.
+
+
+### OTHER on 2025-06-12 12:33
+- Location: MediaNama.com
+- Description: After many states reported difficulty in using the National Automated Fingerprint Identification System’s equipment, the Centre has asked them to use the district police fingerprint scanners to identify illegal immigrants.
+The post Centre Revises Immigration …
+
+
 ### OTHER on 2025-06-12 12:19
 - Location: GlobeNewswire
 - Description: Retired Marine and Certified Bio-Recovery Technician brings compassion, compliance focus, and crisis response experience to company’s San Antonio branch Retired Marine and Certified Bio-Recovery Technician brings compassion, compliance focus, and crisis respo…
@@ -34,15 +45,4 @@ bution.svg)
 - Location: The Root
 - Description: In 2015, you could not avoid teenage rapper Silentó’s song “Watch Me (Whip/Nae Nae).” The song was a viral hit, and the music video got over 1.9 billion views on YouTube. Now, a decade later, the rapper is trending again, but not for another smash hit, but fo…
 
-
-### OTHER on 2025-06-12 12:08
-- Location: CBC News
-- Description: Montreal and provincial police have made several arrests Thursday morning linked to organized crime in the Montreal area.
-
-
-### OTHER on 2025-06-12 12:08
-- Location: Mediaite
-- Description: President Donald Trump claimed Thursday morning that Los Angeles is currently "safe and sound" following days of anti-ICE protests — and Gov. Gavin Newsom should be thanking him for "saving his ass."
-The post Trump Says Gavin Newsom Should Be Thanking Him for…
-
-Analysis generated at: Fri Jun 13 12:28:49 UTC 2025
+Analysis generated at: Fri Jun 13 12:48:43 UTC 2025
