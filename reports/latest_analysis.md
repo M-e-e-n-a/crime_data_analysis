@@ -1,10 +1,10 @@
 
-Loaded 38246 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-12 01:52:32
+Loaded 38302 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-12 06:20:00
 
 Incidents by source:
 source
-newsapi           38145
+newsapi           38201
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-06-12 01:52
-- Location: Freerepublic.com
-- Description: As I've noted before, implicit in what we're seeing take place in California from the violent woketivists and their Democrat/media accomplices is that if they keep at it long enough, President Trump is going to get ICE to back down from the immigration sweeps…
+### HOMICIDE on 2025-06-12 06:20
+- Location: The Star Online
+- Description: MELAKA: Melaka police have confirmed that a 17-year-old Form Five student is the prime suspect in the double murder case at Taman Rambai Mutiara, Bukit Rambai here. Read full story
 
 
-### HOMICIDE on 2025-06-12 01:51
-- Location: Fox News
-- Description: DHS arrested a "violent rioter" during Los Angeles protests that erupted after ICE operations targeted criminal illegal aliens, including a convicted murderer from Vietnam.
+### HOMICIDE on 2025-06-12 06:11
+- Location: Thehillstimes.in
+- Description: HT DIGITAL GUWAHATI, JUNE 12: A Shillong court on Wednesday sent Sonam Raghuvanshi, who is suspected of killing her husband Raja Raghuvanshi on their honeymoon in Meghalaya, and her four co-conspirators to eight days of police custody, a senior official said.…
 
 
-### OTHER on 2025-06-12 01:47
-- Location: Freerepublic.com
-- Description: History Since 1909 the Congressional Baseball Game has been an annual bipartisan event beloved by all and enjoyed by thousands. Members of the United States Congress from each party solidify friendships off the floor and on the field. Over the last century, t…
+### HOMICIDE on 2025-06-12 06:10
+- Location: ABC News (AU)
+- Description: Police have raided a home in Melbourne's south-east after an arson attack killed a 27-year-old woman in January.
 
 
-### OTHER on 2025-06-12 01:35
-- Location: Electronicpaymentsinternational.com
-- Description: Jonathan Frost led the development of the UK National Fraud and Cybercrime Reporting system while in the City of London Police. He explains why there is an...
+### OTHER on 2025-06-12 06:03
+- Location: Starweekly.com.au
+- Description: Those with a love of history, and especially the researching and writing of it, are in for a treat on...
+The post Butler to teach tracing lost histories appeared first on Northern.
 
 
-### SHOOTING on 2025-06-12 01:10
-- Location: WSB Atlanta
-- Description: Police are searching for a man they said pulled out a gun at an Atlanta hotel last month.
+### OTHER on 2025-06-12 05:59
+- Location: 7NEWS.com.au
+- Description: US funeral home owner Miles Harford left woman’s body in hearse for more than a year7news.com.au
 
-Analysis generated at: Fri Jun 13 01:56:28 UTC 2025
+Analysis generated at: Fri Jun 13 06:21:18 UTC 2025
