@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Jun 14 06:19:07 UTC 2025
+Last updated: Sat Jun 14 12:25:47 UTC 2025
 
 ## Latest Analysis
 
-Loaded 38532 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-13 06:14:18
+Loaded 38603 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-13 12:22:47
 
 Incidents by source:
 source
-newsapi           38431
+newsapi           38502
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-06-13 06:14
-- Location: Slashdot.org
-- Description: Report: Cops looking to arrest ex-NFL WR BrownESPN Ex-NFL star Antonio Brown sought on attempted murder chargeThe Washington Post Antonio Brown sought for arrest on attempted murder charge by Miami-Dade Police, per reportCBS Sports Antonio Brown reportedly wa…
+### OTHER on 2025-06-13 12:22
+- Location: Boston Herald
+- Description: The two cases boil down to three words for the defense and prosecution. For the prosecution it is Karen Read's alleged admission at the scene: "I hit him." For the defense it is "There was no collision."
 
 
-### OTHER on 2025-06-13 06:04
-- Location: Crikey
-- Description: 'Federal officers appear to have deliberately targeted journalists who were doing nothing more than their job covering the news.'
-The post Trump’s checklist for establishing fascist government (Part III) appeared first on Crikey.
+### HOMICIDE on 2025-06-13 12:11
+- Location: BBC News
+- Description: According to the Colombian Ombudsman's Office, 409 children and teenagers were recruited by armed groups in 2024.
 
 
-### OTHER on 2025-06-13 05:59
-- Location: CounterPunch
-- Description: The last time a President deployed the National Guard to a state over the objections of the governor was in 1965, when LBJ sent them to protect Civil Rights marchers in Selma in defiance of Alabama Governor George Wallace. Now they're being sent by Trump to C…
+### HOMICIDE on 2025-06-13 12:05
+- Location: WFTV Orlando
+- Description: A judge in South Florida on June 11 signed an arrest warrant charging former NFL wide receiver Antonio Brown with, attempted murder with a firearm. The criminal charge stems from a shooting at a celebrity boxing event on May 16 in Miami.
 
 
-### OTHER on 2025-06-13 05:56
-- Location: CounterPunch
-- Description: June 11, 2025. Brazil’s far-right former President Jair Bolsonaro testified before the Supreme Court yesterday, marking his first appearance in the trial in which he and seven cronies have been accused of plotting for two years to break from the democratic ru…
+### OTHER on 2025-06-13 12:00
+- Location: Deadline
+- Description: Good afternoon Insiders, welcome to another newsletter after a busy old week during which many of us have been on the road. Do scroll down. And sign up here. Animated In Annecy Power of the craft: There’s no better way to remind yourself of the power of anima…
 
 
-### SHOOTING on 2025-06-13 05:53
-- Location: Globalsecurity.org
-- Description: Kremlin-friendly pundits and programs have been savoring every shot of protesters in Los Angeles this week, some proclaiming that the United States must be in midst of a new "civil war."
+### OTHER on 2025-06-13 12:00
+- Location: Cosmopolitan.com
+- Description: Now reunited after spending this last season apart, the two stars of one of Netflix’s biggest series are getting excited to see what is going to happen next to this mother-daughter duo.
 
-Analysis generated at: Sat Jun 14 06:19:07 UTC 2025
+Analysis generated at: Sat Jun 14 12:25:47 UTC 2025
