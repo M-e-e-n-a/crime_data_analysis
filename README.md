@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Jun 14 01:52:33 UTC 2025
+Last updated: Sat Jun 14 06:19:07 UTC 2025
 
 ## Latest Analysis
 
-Loaded 38500 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-13 01:52:07
+Loaded 38532 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-13 06:14:18
 
 Incidents by source:
 source
-newsapi           38399
+newsapi           38431
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-06-13 01:52
+### HOMICIDE on 2025-06-13 06:14
 - Location: Slashdot.org
-- Description: Antonio Brown is wanted for attempted murderNBC Sports Ex-NFL star Antonio Brown sought on attempted murder chargeThe Washington Post Former Pittsburgh Steelers’ Antonio Brown Wanted for Attempted MurderSports Illustrated Why is Antonio Brown wanted by Miami …
+- Description: Report: Cops looking to arrest ex-NFL WR BrownESPN Ex-NFL star Antonio Brown sought on attempted murder chargeThe Washington Post Antonio Brown sought for arrest on attempted murder charge by Miami-Dade Police, per reportCBS Sports Antonio Brown reportedly wa…
 
 
-### SHOOTING on 2025-06-13 01:30
-- Location: Independent.ie
-- Description: Police described the 21-year-old man who carried out Austria’s worst school shooting as an introvert who had largely withdrawn from the outside world before carefully planning the attack.
+### OTHER on 2025-06-13 06:04
+- Location: Crikey
+- Description: 'Federal officers appear to have deliberately targeted journalists who were doing nothing more than their job covering the news.'
+The post Trump’s checklist for establishing fascist government (Part III) appeared first on Crikey.
 
 
-### HOMICIDE on 2025-06-13 01:26
-- Location: CBC News
-- Description: In a public hearing ordered by the police complaint commissioner, retired judge Wally Oppal ruled Sergeant Ron Kirkwood should be suspended without pay for seven days for shooting plastic bullets at Lisa Rauch in 2019. Rauch was hit in the head and died a few…
+### OTHER on 2025-06-13 05:59
+- Location: CounterPunch
+- Description: The last time a President deployed the National Guard to a state over the objections of the governor was in 1965, when LBJ sent them to protect Civil Rights marchers in Selma in defiance of Alabama Governor George Wallace. Now they're being sent by Trump to C…
 
 
-### HOMICIDE on 2025-06-13 01:23
-- Location: BroBible
-- Description: Former NFL wide receiver Antonio Brown is in serious trouble with the law. Last month, Brown was detained by police when he appeared to fire a gun during an altercation outside of Adin Ross’ boxing event in Miami. Antonio Brown with a gun chase down man shots…
+### OTHER on 2025-06-13 05:56
+- Location: CounterPunch
+- Description: June 11, 2025. Brazil’s far-right former President Jair Bolsonaro testified before the Supreme Court yesterday, marking his first appearance in the trial in which he and seven cronies have been accused of plotting for two years to break from the democratic ru…
 
 
-### HOMICIDE on 2025-06-13 01:22
-- Location: CBS Sports
-- Description: Brown was involved in an incident following a celebrity boxing event in May
+### SHOOTING on 2025-06-13 05:53
+- Location: Globalsecurity.org
+- Description: Kremlin-friendly pundits and programs have been savoring every shot of protesters in Los Angeles this week, some proclaiming that the United States must be in midst of a new "civil war."
 
-Analysis generated at: Sat Jun 14 01:52:33 UTC 2025
+Analysis generated at: Sat Jun 14 06:19:07 UTC 2025
