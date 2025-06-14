@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Jun 13 18:20:03 UTC 2025
+Last updated: Sat Jun 14 01:07:31 UTC 2025
 
 ## Latest Analysis
 
-Loaded 38474 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-12 18:19:08
+Loaded 38492 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-13 01:01:21
 
 Incidents by source:
 source
-newsapi           38373
+newsapi           38391
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-06-12 18:19
+### HOMICIDE on 2025-06-13 01:01
+- Location: Financial Post
+- Description: LAS VEGAS (AP) — The two people killed in a shooting over the weekend on the Las Vegas Strip captured it on video while livestreaming to their shared YouTube channel, according to a police report. The married victims were identified by the Clark County corone…
+
+
+### OTHER on 2025-06-13 01:00
+- Location: Bitcoinist
+- Description: Based on reports, French police have stepped up their efforts after a crypto entrepreneur’s father was brutally kidnapped and had a finger severed to force a ransom. It’s a crime that has rattled the industry and raises tough questions about personal safety. …
+
+
+### HOMICIDE on 2025-06-13 01:00
 - Location: New York Post
-- Description: New York Gov. Kathy Hochul was grilled over the state's sanctuary policies during a congressional hearing Thursday -- as she seemed stump when pressed on the names of migrants accused in high-profile crimes.
+- Description: Police in Miami-Dade County are seeking former NFL star Antonio Brown for attempted murder related to a shooting at a May celebrity boxing match.
 
 
-### ASSAULT on 2025-06-12 18:15
-- Location: fox6now.com
-- Description: The man convicted of "brutally" attacking and sexually assaulting a University of Wisconsin student in downtown Madison was sentenced to 30 years in prison.
+### OTHER on 2025-06-13 01:00
+- Location: TheWrap
+- Description: Dennis Lehane adapts the tale of an arson investigator convicted of setting thousands of fires in Los Angeles
+The post ‘Smoke’ Review: Taron Egerton and Jurnee Smollett Make a Begrudging, Dynamic Team in Apple’s Fiery Crime Series appeared first on TheWrap.
 
 
-### OTHER on 2025-06-12 18:14
-- Location: NBC Southern California
-- Description: Senator Alex Padilla was forcibly removed from a news conference Thursday morning with Homeland Security Secretary Kristi Noem.
+### OTHER on 2025-06-13 00:52
+- Location: ABC News (AU)
+- Description: A man has died two weeks after becoming unresponsive during an arrest in Adelaide's eastern suburbs, his partner has told the ABC.
 
-
-### OTHER on 2025-06-12 18:14
-- Location: Boston Herald
-- Description: The escalating clash pits the leader of the Republican Party against an ambitious Democrat.
-
-
-### OTHER on 2025-06-12 18:14
-- Location: The Denver Post
-- Description: The escalating clash pits the leader of the Republican Party against an ambitious Democrat.
-
-Analysis generated at: Fri Jun 13 18:20:03 UTC 2025
+Analysis generated at: Sat Jun 14 01:07:31 UTC 2025
