@@ -1,10 +1,10 @@
 
-Loaded 38492 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-13 01:01:21
+Loaded 38500 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-13 01:52:07
 
 Incidents by source:
 source
-newsapi           38391
+newsapi           38399
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-06-13 01:01
-- Location: Financial Post
-- Description: LAS VEGAS (AP) — The two people killed in a shooting over the weekend on the Las Vegas Strip captured it on video while livestreaming to their shared YouTube channel, according to a police report. The married victims were identified by the Clark County corone…
+### HOMICIDE on 2025-06-13 01:52
+- Location: Slashdot.org
+- Description: Antonio Brown is wanted for attempted murderNBC Sports Ex-NFL star Antonio Brown sought on attempted murder chargeThe Washington Post Former Pittsburgh Steelers’ Antonio Brown Wanted for Attempted MurderSports Illustrated Why is Antonio Brown wanted by Miami …
 
 
-### OTHER on 2025-06-13 01:00
-- Location: Bitcoinist
-- Description: Based on reports, French police have stepped up their efforts after a crypto entrepreneur’s father was brutally kidnapped and had a finger severed to force a ransom. It’s a crime that has rattled the industry and raises tough questions about personal safety. …
+### SHOOTING on 2025-06-13 01:30
+- Location: Independent.ie
+- Description: Police described the 21-year-old man who carried out Austria’s worst school shooting as an introvert who had largely withdrawn from the outside world before carefully planning the attack.
 
 
-### HOMICIDE on 2025-06-13 01:00
-- Location: New York Post
-- Description: Police in Miami-Dade County are seeking former NFL star Antonio Brown for attempted murder related to a shooting at a May celebrity boxing match.
+### HOMICIDE on 2025-06-13 01:26
+- Location: CBC News
+- Description: In a public hearing ordered by the police complaint commissioner, retired judge Wally Oppal ruled Sergeant Ron Kirkwood should be suspended without pay for seven days for shooting plastic bullets at Lisa Rauch in 2019. Rauch was hit in the head and died a few…
 
 
-### OTHER on 2025-06-13 01:00
-- Location: TheWrap
-- Description: Dennis Lehane adapts the tale of an arson investigator convicted of setting thousands of fires in Los Angeles
-The post ‘Smoke’ Review: Taron Egerton and Jurnee Smollett Make a Begrudging, Dynamic Team in Apple’s Fiery Crime Series appeared first on TheWrap.
+### HOMICIDE on 2025-06-13 01:23
+- Location: BroBible
+- Description: Former NFL wide receiver Antonio Brown is in serious trouble with the law. Last month, Brown was detained by police when he appeared to fire a gun during an altercation outside of Adin Ross’ boxing event in Miami. Antonio Brown with a gun chase down man shots…
 
 
-### OTHER on 2025-06-13 00:52
-- Location: ABC News (AU)
-- Description: A man has died two weeks after becoming unresponsive during an arrest in Adelaide's eastern suburbs, his partner has told the ABC.
+### HOMICIDE on 2025-06-13 01:22
+- Location: CBS Sports
+- Description: Brown was involved in an incident following a celebrity boxing event in May
 
-Analysis generated at: Sat Jun 14 01:07:31 UTC 2025
+Analysis generated at: Sat Jun 14 01:52:33 UTC 2025
