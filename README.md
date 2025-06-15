@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Jun 15 06:19:27 UTC 2025
+Last updated: Sun Jun 15 12:26:07 UTC 2025
 
 ## Latest Analysis
 
-Loaded 38729 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-14 06:13:50
+Loaded 38778 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-14 12:24:37
 
 Incidents by source:
 source
-newsapi           38628
+newsapi           38677
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-06-14 06:13
-- Location: The Times of India
-- Description: Dharmendra revealed that Shatrughan Sinha was initially offered Amitabh Bachchan's iconic role of Jai in Sholay, along with Deewaar, but Sinha declined due to scheduling conflicts and creative differences. Dharmendra then suggested Bachchan for the role, reco…
+### SHOOTING on 2025-06-14 12:24
+- Location: FOX 9
+- Description: A shelter-in-place alert was sent out at 5:30 a.m. Saturday morning by the Brooklyn Park Police Department after multiple shootings. A suspect in the shooting may be impersonating law enforcement and should not be approached.
 
 
-### HOMICIDE on 2025-06-14 06:00
-- Location: Naturalnews.com
-- Description: On June 3, Immigration and Customs Enforcement (ICE) deported 122 illegal immigrants, 96 men and 26 women, to China, including individuals convicted of serious crimes such as murder, rape, drug trafficking, bribery and human smuggling. The deportees, aged 19 …
+### OTHER on 2025-06-14 12:17
+- Location: Writersdigest.com
+- Description: Author Wendy Gee shares her 10 steps for maximizing research to write mystery novels that are compelling and authentic.
+The post 10 Steps to Maximize Research for Mystery Novelists appeared first on Writer's Digest.
 
 
-### HOMICIDE on 2025-06-14 05:35
-- Location: Electronicintifada.net
-- Description: Rev. Johnnie Moore dismisses Palestinian deaths as “without incident.”
+### OTHER on 2025-06-14 12:16
+- Location: HuffPost
+- Description: Israel’s main international airport said Saturday it will remain closed until further notice.
 
 
-### OTHER on 2025-06-14 05:17
-- Location: The Irish Times
-- Description: Trump deliberately manufactured the crisis in LA for political reasons
+### SHOOTING on 2025-06-14 12:14
+- Location: New York Post
+- Description: An apparent explosion sent flames shooting into the air in Las Vegas early Saturday, as palm trees were set ablaze and a witness claimed they saw a car leaving the scene.
 
 
-### HOMICIDE on 2025-06-14 05:00
-- Location: The Irish Times
-- Description: Nancy Covell said the family continued to remain hopeful of a breakthrough in 32-year case
+### ROBBERY/THEFT on 2025-06-14 12:06
+- Location: Deadline
+- Description: Bridgerton actress Genevieve Chenneour has described how she fought off a thief attempting to snatch her mobile phone in a central London cafe.  The Daily Mail newspaper has published footage of the actress – who plays Miss Clara Livingston in the hit Netflix…
 
-Analysis generated at: Sun Jun 15 06:19:27 UTC 2025
+Analysis generated at: Sun Jun 15 12:26:07 UTC 2025
