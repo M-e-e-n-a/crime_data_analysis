@@ -1,10 +1,10 @@
 
-Loaded 38946 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-15 06:17:20
+Loaded 39000 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-15 12:29:00
 
 Incidents by source:
 source
-newsapi           38845
+newsapi           38899
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-06-15 06:17
-- Location: Digital Journal
-- Description: Sunaina Bukhari is considering abandoning her 88,000 followers. 
-The post ‘This is a culture’: TikTok murder highlights Pakistan’s unease with women online appeared first on Digital Journal.
+### HOMICIDE on 2025-06-15 12:29
+- Location: Hurriyet Daily News
+- Description: Israel unleashed a punishing barrage of strikes targeting the capital Tehran Sunday, after Prime Minister Benjamin Netanyahu vowed to make Iran pay "a very heavy price" for killing civilians, on the third day of fierce fighting.
 
 
-### HOMICIDE on 2025-06-15 06:17
-- Location: Digital Journal
-- Description: Since seeing thousands of comments justifying the recent murder of a teenage TikTok star in Pakistan, Sunaina Bukhari is considering abandoning her 88,000 followers.   “In my family, it wasn’t an accepted profession at all, but I’d managed to convince them, a…
+### HOMICIDE on 2025-06-15 12:06
+- Location: WKRG News 5
+- Description: BALDWIN COUNTY, Ala. (WKRG) — A Fairhope man is accused of murder and attempted murder after an incident Saturday night in Baldwin County. According to a...
 
 
-### HOMICIDE on 2025-06-15 06:16
-- Location: The Times of India
-- Description: Following the tragic murder of a teenage TikTok star in Pakistan, many female influencers are facing increased scrutiny and backlash. Sana Yousaf's death, after rejecting a man's advances, sparked online condemnation of her social media presence.
+### OTHER on 2025-06-15 12:04
+- Location: CNN
+- Description: Baylie Grogan suffered fatal injuries after a night out in Miami turned horribly wrong. Because she hadn’t named a health care proxy, her parents couldn’t make decisions about her treatment.
 
 
-### HOMICIDE on 2025-06-15 06:11
-- Location: 7NEWS.com.au
-- Description: Murder probe as body found dumped in bushland at Werrington in Western Sydney7news.com.au
+### OTHER on 2025-06-15 12:01
+- Location: Researchbuzz.me
+- Description: TWEAKS AND UPDATES Engadget: OpenAI adds the o3-pro model to ChatGPT today. “OpenAI is keeping up its rapid-fire pace of new AI releases. The company introduced the o3 and o4-mini models to […]
 
 
-### OTHER on 2025-06-15 06:00
-- Location: Naturalnews.com
-- Description: President Donald Trump claimed that his deployment of 4,700 troops, including 700 Marines, helped keep Los Angeles “safe and sound” amid ongoing anti-deportation protests. Protests in response to Trump’s intensified immigration enforcement have included large…
+### OTHER on 2025-06-15 12:00
+- Location: The Denver Post
+- Description: The Denver Post spent eight hours following two 16th Street police officers as they made arrests and issued citations for obstruction, alcohol, fentanyl paraphernalia and trespassing.
 
-Analysis generated at: Mon Jun 16 06:23:02 UTC 2025
+Analysis generated at: Mon Jun 16 12:29:54 UTC 2025
