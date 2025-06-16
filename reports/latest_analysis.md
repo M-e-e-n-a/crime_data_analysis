@@ -1,10 +1,10 @@
 
-Loaded 38901 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-15 01:54:34
+Loaded 38946 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-15 06:17:20
 
 Incidents by source:
 source
-newsapi           38800
+newsapi           38845
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,40 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-06-15 01:54
-- Location: Japan Today
-- Description: Minnesota Police and the FBI kept up a massive manhunt on Saturday evening for a gunman posing as a police officer who killed a senior Democratic state assemblywoman and her husband in what Governor Tim Walz called a &quot;politically motivated assassination.…
+### HOMICIDE on 2025-06-15 06:17
+- Location: Digital Journal
+- Description: Sunaina Bukhari is considering abandoning her 88,000 followers. 
+The post ‘This is a culture’: TikTok murder highlights Pakistan’s unease with women online appeared first on Digital Journal.
 
 
-### DRUG RELATED on 2025-06-15 01:51
-- Location: ABC News (AU)
-- Description: Fiji watched closely as witnesses in the nation's largest-ever drugs trial gave evidence revealing the alleged details of a meth operation.
+### HOMICIDE on 2025-06-15 06:17
+- Location: Digital Journal
+- Description: Since seeing thousands of comments justifying the recent murder of a teenage TikTok star in Pakistan, Sunaina Bukhari is considering abandoning her 88,000 followers.   “In my family, it wasn’t an accepted profession at all, but I’d managed to convince them, a…
 
 
-### OTHER on 2025-06-15 01:51
-- Location: The Portland Mercury
-- Description: Feds also fired less-lethal munitions at the crowd as Portland Police declared a riot.
- 
- by Wm. Steven Humphrey
- 
- 
- 
- [Editor's Note: What follows is live reporting of the very large demonstration that took place on Saturday, June 14 at Portland's ICE facil…
+### HOMICIDE on 2025-06-15 06:16
+- Location: The Times of India
+- Description: Following the tragic murder of a teenage TikTok star in Pakistan, many female influencers are facing increased scrutiny and backlash. Sana Yousaf's death, after rejecting a man's advances, sparked online condemnation of her social media presence.
 
 
-### OTHER on 2025-06-15 01:51
-- Location: The Portland Mercury
-- Description: Feds are also firing less-lethal munitions at the crowd as Portland Police have declared the situation a riot.
- 
- by Wm. Steven Humphrey
- 
- 
- 
- An estimated ten thousand Portlanders joined the national "No Kings" march today (Saturday, June 14) in downtown Po…
+### HOMICIDE on 2025-06-15 06:11
+- Location: 7NEWS.com.au
+- Description: Murder probe as body found dumped in bushland at Werrington in Western Sydney7news.com.au
 
 
-### ASSAULT on 2025-06-15 01:49
-- Location: BBC News
-- Description: The attack on two Minnesota state lawmakers in their homes  was described as politically motivated.
+### OTHER on 2025-06-15 06:00
+- Location: Naturalnews.com
+- Description: President Donald Trump claimed that his deployment of 4,700 troops, including 700 Marines, helped keep Los Angeles “safe and sound” amid ongoing anti-deportation protests. Protests in response to Trump’s intensified immigration enforcement have included large…
 
-Analysis generated at: Mon Jun 16 02:00:21 UTC 2025
+Analysis generated at: Mon Jun 16 06:23:02 UTC 2025
