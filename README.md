@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Jun 15 18:18:15 UTC 2025
+Last updated: Mon Jun 16 01:12:25 UTC 2025
 
 ## Latest Analysis
 
-Loaded 38878 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-14 18:17:50
+Loaded 38892 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-15 01:06:13
 
 Incidents by source:
 source
-newsapi           38777
+newsapi           38791
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-06-14 18:17
-- Location: Fox News
-- Description: Vance Boelter, the suspect wanted for fatally shooting a Minnesota state lawmaker and her husband has been identified, according to the Associated Press.
+### OTHER on 2025-06-15 01:06
+- Location: ABC News
+- Description: The military parade in Washington, D.C., commemorating the 250th anniversary of the U.S. armed services ended with a massive fireworks display.
 
 
-### HOMICIDE on 2025-06-14 18:17
-- Location: Fox News
-- Description: Vance Boelter, the suspect wanted for fatally shooting a Minnesota state lawmaker and her husband has reportedly been identified, according to the Associated Press.
+### SHOOTING on 2025-06-15 00:54
+- Location: CNN
+- Description: The man sought by authorities for allegedly shooting Democratic lawmakers in Minnesota on Saturday worked for a security company that advertised a fleet of ‘police type vehicles.’
 
 
-### SHOOTING on 2025-06-14 18:15
-- Location: Raw Story
-- Description: According to a report from the Associated Press, a 57-year-old white man has been singled out as the alleged shooter who gunned down two Minnesota lawmakers and their spouses early Saturday morning.Police were called to the home of state Sen. Sen. John Hoffma…
+### OTHER on 2025-06-15 00:53
+- Location: Boston Herald
+- Description: The United States has a long and grim history of political violence.
 
 
-### HOMICIDE on 2025-06-14 18:15
-- Location: Dianeravitch.net
-- Description: I’m sick at heart about the targeted assassinations in Minnesota. As everyone surely knows by now, a gunman dressed as a police officer entered the home of Melissa Hortman, a top Democratic legislator, and murdered her and her husband Mark. The same gunman at…
+### OTHER on 2025-06-15 00:48
+- Location: Israelnationalnews.com
+- Description: The Rishon Lezion Magistrate's Court issued a 30-day gag order regarding a sensitive security-related case involving Iran.
 
 
-### HOMICIDE on 2025-06-14 18:15
-- Location: Memeorandum.com
-- Description: New York Post:
-Former appointee of Tim Walz sought in deadly shootings of Minnesota lawmaker and her husband, had ‘No Kings’ flyers in car: sources  —  A former appointee of Minnesota Gov. Tim Walz is being sought in connection with the assassination of a sta…
+### OTHER on 2025-06-15 00:45
+- Location: Thehillstimes.in
+- Description: HT Correspondent  DIMAPUR, June 14: The SIT formed to investigate the land encroachment issue at Dimapur airport filed chargesheet against 25 persons (private individuals) and is awaiting sanction against six public servants for prosecution from the Nagaland …
 
-Analysis generated at: Sun Jun 15 18:18:15 UTC 2025
+Analysis generated at: Mon Jun 16 01:12:25 UTC 2025
