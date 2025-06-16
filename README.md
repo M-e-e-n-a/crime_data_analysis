@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Jun 16 12:50:39 UTC 2025
+Last updated: Mon Jun 16 18:20:26 UTC 2025
 
 ## Latest Analysis
 
-Loaded 39003 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-15 12:40:46
+Loaded 39074 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-15 18:11:56
 
 Incidents by source:
 source
-newsapi           38902
+newsapi           38973
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-06-15 12:40
-- Location: TMZ
-- Description: Chaos broke out at a peaceful protest in Salt Lake City over the weekend when gunfire rang out during a "No Kings" demonstration, sending two people to the hospital and prompting a swift police response that led to three arrests. According to Salt…
- Permalink
+### HOMICIDE on 2025-06-15 18:11
+- Location: NBC News
+- Description: As a massive manhunt for Vance Boelter continues, authorities are piecing together a profile of the alleged gunman accused of killing a Democratic Minnesota lawmaker and wounding another in two separate “politically motivated” shootings on Saturday morning.
 
 
-### OTHER on 2025-06-15 12:37
-- Location: Fox News
-- Description: Portland Police said the arrests on Saturday were related to "violent activity or property destruction" during a declared riot near an Immigration and Customs Enforcement (ICE) facility.
+### OTHER on 2025-06-15 18:10
+- Location: TheBlaze
+- Description: The wife of the man suspected of assassinating the former speaker of the Minnesota House and her husband was detained by police about 85 miles north of the Twin Cities riding in a vehicle containing cash, passports, a weapon, and ammunition.Jennifer Boelter, …
 
 
-### OTHER on 2025-06-15 12:30
-- Location: soompi
-- Description: Get ready for the premiere of upcoming drama “Hunter with a Scalpel”! “Hunter with a Scalpel” is a psychological crime thriller starring Park Ju Hyun as Seo Se Hyun, a brilliant but troubled forensic pathologist. One day, while conducting an autopsy, Se Hyun …
+### OTHER on 2025-06-15 18:03
+- Location: Breaking NEWS in KENYA for Today Right Now & Kenyan News | TUKO
+- Description: Albert Ojwang's wfe has demand justice for slain blogger and teacher. The mother of one aked Kenyans to help her in pushing for justice for Ojwang.
 
 
-### HOMICIDE on 2025-06-15 12:29
-- Location: Hurriyet Daily News
-- Description: Israel unleashed a punishing barrage of strikes targeting the capital Tehran Sunday, after Prime Minister Benjamin Netanyahu vowed to make Iran pay "a very heavy price" for killing civilians, on the third day of fierce fighting.
+### SHOOTING on 2025-06-15 18:02
+- Location: HuffPost
+- Description: A massive search has stretched into its second day for a man who authorities say posed as a police officer and fatally shot a Democratic state lawmaker and her husband in her suburban Minneapolis home.
 
 
-### HOMICIDE on 2025-06-15 12:06
-- Location: WKRG News 5
-- Description: BALDWIN COUNTY, Ala. (WKRG) — A Fairhope man is accused of murder and attempted murder after an incident Saturday night in Baldwin County. According to a...
+### SHOOTING on 2025-06-15 17:49
+- Location: NPR
+- Description: Vance Boelter, the subject of a nationwide manhunt, described himself as an experienced security professional who worked in conflict zones. A friend said at least part of that account is "fantasy."
 
-Analysis generated at: Mon Jun 16 12:50:39 UTC 2025
+Analysis generated at: Mon Jun 16 18:20:26 UTC 2025
