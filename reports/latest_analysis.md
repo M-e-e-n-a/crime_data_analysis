@@ -1,10 +1,10 @@
 
-Loaded 39277 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-16 12:50:14
+Loaded 39365 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-16 18:20:01
 
 Incidents by source:
 source
-newsapi           39176
+newsapi           39264
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-06-16 12:50
-- Location: Democracy Now!
-- Description: After the biggest manhunt in Minnesota history, authorities have detained 57-year-old Vance Boelter, who is accused of fatally shooting democratic lawmaker and former House Speaker Melissa Hortman and her husband Mark in their Minnesota home early on Saturday…
+### SHOOTING on 2025-06-16 18:20
+- Location: Memeorandum.com
+- Description: Kiera Butler / Mother Jones:
+Minnesota Shooting Suspect Allegedly Attended a Bible College Popular Among Christian Nationalists  —  On Saturday, a gunman impersonating a police officer fatally shot Minnesota State Representative Melissa Hortman and her husban…
 
 
-### HOMICIDE on 2025-06-16 12:49
+### OTHER on 2025-06-16 18:19
+- Location: Fox News
+- Description: DHS decried the idea that immigration authorities have targeted people based on skin color, calling the notion both "disgusting and categorically FALSE"
+
+
+### SHOOTING on 2025-06-16 18:12
+- Location: Slashdot.org
+- Description: ‘The Naked Gun’ Trailer: Liam Neeson and Pamela Anderson Join Forces in Crime Comedy RebootVariety Cody Rhodes gets new hair and his face smashed in this new trailer for The Naked GunCageside Seats Pamela Anderson Makes a Dynamic Entrance in Raunchy Naked Gun…
+
+
+### OTHER on 2025-06-16 18:07
+- Location: NBC Chicago
+- Description: A day after President Donald Trump directed officials to prioritize deportations from large cities, Illinois Gov. J.B. Pritzker hammered the idea.
+
+
+### SHOOTING on 2025-06-16 18:07
 - Location: Freerepublic.com
-- Description: NEW YORK (AP) — The man accused of assassinating the top Democrat in the Minnesota House held deeply religious and politically conservative views, telling a congregation in Africa two years ago that the U.S. was in a “bad place” where most churches didn’t opp…
+- Description: More than 100 police officers searched for two days for the suspect in the shootings of two Minnesota state lawmakers and their spouses. They finally captured him late Sunday, the hunt ending when he crawled to officers who had tracked him to a field outside …
 
-
-### SHOOTING on 2025-06-16 12:46
-- Location: ABC News
-- Description: The humble water gun — the cheap, squirt-squirt variety — has become the weapon of choice and symbol of Spain's anti-tourism protests
-
-
-### OTHER on 2025-06-16 12:46
-- Location: Boston Herald
-- Description: Attorneys made their closing arguments to jurors in Norfolk Superior Court there on Friday before Judge Beverly J. Cannone sent seven women and five men away to deliberate Karen Read's fate.
-
-
-### SHOOTING on 2025-06-16 12:44
-- Location: The Denver Post
-- Description: Fort Collins officers responded to an argument at a home in the 700 block of Eastdale Drive at about 10:30 p.m. Sunday, where one man was armed with a knife, police said.
-
-Analysis generated at: Tue Jun 17 12:50:24 UTC 2025
+Analysis generated at: Tue Jun 17 18:20:26 UTC 2025
