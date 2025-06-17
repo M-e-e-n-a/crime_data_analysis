@@ -1,10 +1,10 @@
 
-Loaded 39264 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-16 12:28:48
+Loaded 39277 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-16 12:50:14
 
 Incidents by source:
 source
-newsapi           39163
+newsapi           39176
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-06-16 12:28
-- Location: NBCSports.com
-- Description: Former NFL receiver Antonio Brown faces a warrant for his arrest on a charge of attempted murder with a firearm.
+### SHOOTING on 2025-06-16 12:50
+- Location: Democracy Now!
+- Description: After the biggest manhunt in Minnesota history, authorities have detained 57-year-old Vance Boelter, who is accused of fatally shooting democratic lawmaker and former House Speaker Melissa Hortman and her husband Mark in their Minnesota home early on Saturday…
 
 
-### OTHER on 2025-06-16 12:25
-- Location: CNBC
-- Description: Here are the most important news items that investors need to start their trading day.
+### HOMICIDE on 2025-06-16 12:49
+- Location: Freerepublic.com
+- Description: NEW YORK (AP) — The man accused of assassinating the top Democrat in the Minnesota House held deeply religious and politically conservative views, telling a congregation in Africa two years ago that the U.S. was in a “bad place” where most churches didn’t opp…
 
 
-### SHOOTING on 2025-06-16 12:24
-- Location: Yahoo Entertainment
-- Description: A group of tourists were sitting at an outdoor table in the Spanish city of Barcelona, trying to enjoy their drinks, when a woman raised a cheap plastic...
+### SHOOTING on 2025-06-16 12:46
+- Location: ABC News
+- Description: The humble water gun — the cheap, squirt-squirt variety — has become the weapon of choice and symbol of Spain's anti-tourism protests
 
 
-### HOMICIDE on 2025-06-16 12:24
-- Location: The Star Online
-- Description: MINNEAPOLIS, Minnesota (Reuters) -A man accused of killing a Democratic state lawmaker while posing as a police officer is expected to appear in a Minnesota court on Monday afternoon on state murder charges. Read full story
+### OTHER on 2025-06-16 12:46
+- Location: Boston Herald
+- Description: Attorneys made their closing arguments to jurors in Norfolk Superior Court there on Friday before Judge Beverly J. Cannone sent seven women and five men away to deliberate Karen Read's fate.
 
 
-### SHOOTING on 2025-06-16 12:19
-- Location: NPR
-- Description: Vance Boelter was captured in a wooded area on Sunday night, and charged in the shootings of two state lawmakers and their spouses. His first court appearance is scheduled for Monday.
+### SHOOTING on 2025-06-16 12:44
+- Location: The Denver Post
+- Description: Fort Collins officers responded to an argument at a home in the 700 block of Eastdale Drive at about 10:30 p.m. Sunday, where one man was armed with a knife, police said.
 
-Analysis generated at: Tue Jun 17 12:29:45 UTC 2025
+Analysis generated at: Tue Jun 17 12:50:24 UTC 2025
