@@ -1,10 +1,10 @@
 
-Loaded 39086 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-16 01:08:33
+Loaded 39095 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-16 01:49:36
 
 Incidents by source:
 source
-newsapi           38985
+newsapi           38994
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-06-16 01:08
-- Location: BBC News
-- Description: Yvette Hoffman says she was shot eight times and her husband nine. The gunman is still at large.
+### SHOOTING on 2025-06-16 01:49
+- Location: Rpnradio.com
+- Description: BACOLOD CITY – A total of 69 individuals were arrested across Negros Island for violating the Commission on Elections (Comelec) gun ban from January 12 to June 11 in connection with the May 12 midterm elections. The Negros Occidental Police Provincial Office …
 
 
-### SHOOTING on 2025-06-16 01:08
-- Location: Starcommunity.com.au
-- Description: Casey Crime Investigation Unit detectives are currently investigating a stabbing and firearms incident in Clyde that occurred at dawn on Sunday, 15 June. Officers were called to Pembrokeshire Loop to reports of a violent dispute between two groups of males, w…
+### HOMICIDE on 2025-06-16 01:42
+- Location: ABC News
+- Description: Salt Lake City police say a demonstrator who was shot at the city's “No Kings” protest has died and that the bullet that killed him appears to have been fired by one of the demonstration's peacekeepers
 
 
-### OTHER on 2025-06-16 00:48
-- Location: Boston.com
-- Description: The Brookline store had a brick that said "Free Palestine" was thrown through a window with a map showing Palestine as part of Israel.
+### OTHER on 2025-06-16 01:30
+- Location: Independent.ie
+- Description: Planning a night on the couch? Here are today’s top TV and streaming picks:
 
 
-### SHOOTING on 2025-06-16 00:44
-- Location: FOX 9
-- Description: A shelter-in-place issued in Eagan Sunday is not related to the shooting of two Minnesota lawmakers, city officials confirmed.
+### HOMICIDE on 2025-06-16 01:30
+- Location: Independent.ie
+- Description: A massive search stretched into its second day yesterday for a man who authorities say posed as a police officer while fatally shooting a Democratic state lawmaker in her suburban Minneapolis home, an act Governor Tim Walz called “a politically motivated assa…
 
 
-### HOMICIDE on 2025-06-16 00:43
-- Location: CNA
-- Description: MINNEAPOLIS: The gunman who killed a Democratic state lawmaker while posing as a police officer was still at large on Sunday (Jun 16) as police conducted a massive manhunt following a crime
+### HOMICIDE on 2025-06-16 01:30
+- Location: Independent.ie
+- Description: A massive search stretched into its second day yesterday for a man who authorities say posed as a police officer while fatally shooting a Democratic state lawmaker in her suburban Minneapolis home, an act Governor Tim Walz called “a politically motivated assa…
 
-Analysis generated at: Tue Jun 17 01:10:20 UTC 2025
+Analysis generated at: Tue Jun 17 01:57:01 UTC 2025
