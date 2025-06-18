@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Jun 18 12:50:19 UTC 2025
+Last updated: Wed Jun 18 18:20:16 UTC 2025
 
 ## Latest Analysis
 
-Loaded 39518 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-17 12:43:00
+Loaded 39613 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-17 18:16:12
 
 Incidents by source:
 source
-newsapi           39417
+newsapi           39512
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,37 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-06-17 12:43
-- Location: Sky.com
-- Description: A former lawyer accused of plotting the murder of the leader of a north London gang in Moldova as part of a bloody feud fears he will be killed in a revenge attack, a court has heard.
+### OTHER on 2025-06-17 18:16
+- Location: BBC News
+- Description: Labour MP Tonia Antoniazzi led the call to decriminalise the 1% of abortions that happen after 24 weeks.
 
 
-### SHOOTING on 2025-06-17 12:39
-- Location: TODAY
-- Description: Survivors of the 2015 mass shooting that took place at Emanuel African Methodist Episcopal Church in Charleston, South Carolina, recall the tragedy and remember victims on TODAY June 17.
+### SHOOTING on 2025-06-17 18:15
+- Location: Mediaite
+- Description: Minnesota Gov. Tim Walz had some choice words for President Donald Trump after the commander in chief rejected the notion of calling the governor in the wake of shootings of Democratic figures that rocked the state.
+The post Walz Rips Trump for Politicizing S…
 
 
-### SHOOTING on 2025-06-17 12:35
-- Location: Thenation.com
-- Description: Michele Goodwin
+### SHOOTING on 2025-06-17 18:13
+- Location: ABC News
+- Description: Republican Sen. Mike Lee is facing criticism over his social media posts about the assassination of a Minnesota lawmaker and her husband.
 
 
-
-Donald Trump issued a statement after the Minnesota shootings saying that this violence “will not be tolerated,” but his words ring hollow.
-
-
-
-
-The post The Escalating Political Violence Didn't Come From Nowhere appeared first on The Nati…
+### HOMICIDE on 2025-06-17 18:12
+- Location: KLAS - 8 News Now
+- Description: Michael Anthony Gonzalez was arrested and charged with attempted murder, battery, and possession of drugs after a road rage incident with a motorcyclist...
 
 
-### SHOOTING on 2025-06-17 12:30
-- Location: Fox News
-- Description: The man accused of shooting two Minnesota state lawmakers and their spouses early Saturday also visited the homes of two other lawmakers, but one of them was away on vacation.
+### ASSAULT on 2025-06-17 18:10
+- Location: Dallasexpress.com
+- Description: In a major immigration enforcement operation in the Southern District of Texas, 332 individuals, including women, were charged with offenses.
 
-
-### SHOOTING on 2025-06-17 12:30
-- Location: WSB Atlanta
-- Description: 2 in custody, 1 wanted after woman shot in the head, Griffin police saywsbtv.com
-
-Analysis generated at: Wed Jun 18 12:50:19 UTC 2025
+Analysis generated at: Wed Jun 18 18:20:16 UTC 2025
