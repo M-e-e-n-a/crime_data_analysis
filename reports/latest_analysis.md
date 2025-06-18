@@ -1,10 +1,10 @@
 
-Loaded 39377 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-17 01:01:43
+Loaded 39388 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-17 01:54:35
 
 Incidents by source:
 source
-newsapi           39276
+newsapi           39287
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-06-17 01:01
-- Location: CBS News
-- Description: Applying new techniques to old cases, law enforcement efforts brought closure for dozens of families who longed for answers.
+### OTHER on 2025-06-17 01:54
+- Location: CNN
+- Description: Heavily armed and dressed in tactical armor with a silicone mask hiding his face and a police-style badge, Vance Boelter made a convincing police officer – so much so that a real police officer mistook him for a fellow cop.
 
 
-### HOMICIDE on 2025-06-17 01:00
-- Location: Reason
-- Description: The perpetrators of antisemitic violence and murder, which I abhor and condemn, should be punished to the maximum extent of the law. The killings of Yaron
+### HOMICIDE on 2025-06-17 01:48
+- Location: Crikey
+- Description: A now-deleted profile for the disgraced former NT police officer — who killed Warlpiri 19-year-old Kumanjayi Walker in 2019 — advertised speaking gigs valued at $5,000 and $10,000. It also mentioned Rolfe's 'forthcoming book'.
+The post ‘Policeman Hero’: Kille…
 
 
-### OTHER on 2025-06-17 00:57
-- Location: NBC News
-- Description: A Georgia man was arraigned Monday on charges of communicating threats in interstate commerce in connection with threatening sexual violence against Republican Sens.
+### OTHER on 2025-06-17 01:43
+- Location: Boston.com
+- Description: “The entire Boston University community grieves the loss of one of our cherished alumnae who was a beloved and respected public servant."
 
 
-### SHOOTING on 2025-06-17 00:44
-- Location: FOX 2 Detroit
-- Description: Police are on the hunt for the gunman who shot two teen girls at an illegal block party in Detroit.
+### HOMICIDE on 2025-06-17 01:42
+- Location: ABC News
+- Description: Lawmakers in some states are moving to delete their home addresses from online directories after one Minnesota legislator was killed and another wounded in their suburban Minneapolis homes last weekend
 
 
-### HOMICIDE on 2025-06-17 00:44
-- Location: Fox News
-- Description: Report shows the California dentist who treated 9-year-old Silvanna Moreno before her death was on probation for a 2016 incident in which a patient's heart stopped.
+### ASSAULT on 2025-06-17 01:32
+- Location: ABC News
+- Description: The IDF said the station was targeted because it's at the heart of the regime's communications.
 
-Analysis generated at: Wed Jun 18 01:10:13 UTC 2025
+Analysis generated at: Wed Jun 18 01:56:22 UTC 2025
