@@ -1,10 +1,10 @@
 
-Loaded 39365 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-16 18:20:01
+Loaded 39377 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-17 01:01:43
 
 Incidents by source:
 source
-newsapi           39264
+newsapi           39276
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-06-16 18:20
-- Location: Memeorandum.com
-- Description: Kiera Butler / Mother Jones:
-Minnesota Shooting Suspect Allegedly Attended a Bible College Popular Among Christian Nationalists  —  On Saturday, a gunman impersonating a police officer fatally shot Minnesota State Representative Melissa Hortman and her husban…
+### OTHER on 2025-06-17 01:01
+- Location: CBS News
+- Description: Applying new techniques to old cases, law enforcement efforts brought closure for dozens of families who longed for answers.
 
 
-### OTHER on 2025-06-16 18:19
+### HOMICIDE on 2025-06-17 01:00
+- Location: Reason
+- Description: The perpetrators of antisemitic violence and murder, which I abhor and condemn, should be punished to the maximum extent of the law. The killings of Yaron
+
+
+### OTHER on 2025-06-17 00:57
+- Location: NBC News
+- Description: A Georgia man was arraigned Monday on charges of communicating threats in interstate commerce in connection with threatening sexual violence against Republican Sens.
+
+
+### SHOOTING on 2025-06-17 00:44
+- Location: FOX 2 Detroit
+- Description: Police are on the hunt for the gunman who shot two teen girls at an illegal block party in Detroit.
+
+
+### HOMICIDE on 2025-06-17 00:44
 - Location: Fox News
-- Description: DHS decried the idea that immigration authorities have targeted people based on skin color, calling the notion both "disgusting and categorically FALSE"
+- Description: Report shows the California dentist who treated 9-year-old Silvanna Moreno before her death was on probation for a 2016 incident in which a patient's heart stopped.
 
-
-### SHOOTING on 2025-06-16 18:12
-- Location: Slashdot.org
-- Description: ‘The Naked Gun’ Trailer: Liam Neeson and Pamela Anderson Join Forces in Crime Comedy RebootVariety Cody Rhodes gets new hair and his face smashed in this new trailer for The Naked GunCageside Seats Pamela Anderson Makes a Dynamic Entrance in Raunchy Naked Gun…
-
-
-### OTHER on 2025-06-16 18:07
-- Location: NBC Chicago
-- Description: A day after President Donald Trump directed officials to prioritize deportations from large cities, Illinois Gov. J.B. Pritzker hammered the idea.
-
-
-### SHOOTING on 2025-06-16 18:07
-- Location: Freerepublic.com
-- Description: More than 100 police officers searched for two days for the suspect in the shootings of two Minnesota state lawmakers and their spouses. They finally captured him late Sunday, the hunt ending when he crawled to officers who had tracked him to a field outside …
-
-Analysis generated at: Tue Jun 17 18:20:26 UTC 2025
+Analysis generated at: Wed Jun 18 01:10:13 UTC 2025
