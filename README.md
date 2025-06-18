@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Jun 18 01:56:22 UTC 2025
+Last updated: Wed Jun 18 06:21:32 UTC 2025
 
 ## Latest Analysis
 
-Loaded 39388 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-17 01:54:35
+Loaded 39427 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-17 05:57:50
 
 Incidents by source:
 source
-newsapi           39287
+newsapi           39326
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-06-17 01:54
-- Location: CNN
-- Description: Heavily armed and dressed in tactical armor with a silicone mask hiding his face and a police-style badge, Vance Boelter made a convincing police officer – so much so that a real police officer mistook him for a fellow cop.
+### HOMICIDE on 2025-06-17 05:57
+- Location: ABC News (AU)
+- Description: Indonesia's National Police chief General Listyo Sigit says two people have been arrested in relation to a shooting that killed one Australian and injured another.
 
 
-### HOMICIDE on 2025-06-17 01:48
-- Location: Crikey
-- Description: A now-deleted profile for the disgraced former NT police officer — who killed Warlpiri 19-year-old Kumanjayi Walker in 2019 — advertised speaking gigs valued at $5,000 and $10,000. It also mentioned Rolfe's 'forthcoming book'.
-The post ‘Policeman Hero’: Kille…
-
-
-### OTHER on 2025-06-17 01:43
-- Location: Boston.com
-- Description: “The entire Boston University community grieves the loss of one of our cherished alumnae who was a beloved and respected public servant."
-
-
-### HOMICIDE on 2025-06-17 01:42
+### HOMICIDE on 2025-06-17 05:54
 - Location: ABC News
-- Description: Lawmakers in some states are moving to delete their home addresses from online directories after one Minnesota legislator was killed and another wounded in their suburban Minneapolis homes last weekend
+- Description: Members of Congress are attending emergency security briefings after the killing of a Minnesota state lawmaker
 
 
-### ASSAULT on 2025-06-17 01:32
-- Location: ABC News
-- Description: The IDF said the station was targeted because it's at the heart of the regime's communications.
+### SHOOTING on 2025-06-17 05:53
+- Location: ABC News (AU)
+- Description: The Special Operations Group were there as "backup" at the scene of a fatal police shooting in Tasmania, but what happened on that day is yet to be revealed. So, what is the SOG and what part does it play in law enforcement?
 
-Analysis generated at: Wed Jun 18 01:56:22 UTC 2025
+
+### HOMICIDE on 2025-06-17 05:52
+- Location: Slashdot.org
+- Description: Police investigate disruptions at ‘No Kings’ rallies; 1 protester killedThe Washington Post 1 Killed in Shooting at ‘No Kings’ Protest in Salt Lake CityThe New York Times ‘Completely senseless’: Utahns gather at site of deadly protest shooting to mourn and re…
+
+
+### ROBBERY/THEFT on 2025-06-17 05:40
+- Location: Starweekly.com.au
+- Description: A 39-year-old Meadow Heights man has been arrested after a trailer loaded with more than $200,000 worth of aluminium was...
+The post Man arrested after $200k aluminum trailer theft in Campbellfield appeared first on Northern.
+
+Analysis generated at: Wed Jun 18 06:21:32 UTC 2025
