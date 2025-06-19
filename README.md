@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Jun 18 18:20:16 UTC 2025
+Last updated: Thu Jun 19 01:10:24 UTC 2025
 
 ## Latest Analysis
 
-Loaded 39613 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-17 18:16:12
+Loaded 39635 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-18 00:53:20
 
 Incidents by source:
 source
-newsapi           39512
+newsapi           39534
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-06-17 18:16
-- Location: BBC News
-- Description: Labour MP Tonia Antoniazzi led the call to decriminalise the 1% of abortions that happen after 24 weeks.
+### OTHER on 2025-06-18 00:53
+- Location: The Conversation Africa
+- Description: The Name of the Sister begins in classic genre territory: a young woman is found stumbling down an outback road, without the power of speech and without an apparent identity.
 
 
-### SHOOTING on 2025-06-17 18:15
-- Location: Mediaite
-- Description: Minnesota Gov. Tim Walz had some choice words for President Donald Trump after the commander in chief rejected the notion of calling the governor in the wake of shootings of Democratic figures that rocked the state.
-The post Walz Rips Trump for Politicizing S…
+### OTHER on 2025-06-18 00:46
+- Location: WSB Atlanta
+- Description: As 4-year anniversary nears, questions remain over brutal stabbing in Piedmont Parkwsbtv.com
 
 
-### SHOOTING on 2025-06-17 18:13
-- Location: ABC News
-- Description: Republican Sen. Mike Lee is facing criticism over his social media posts about the assassination of a Minnesota lawmaker and her husband.
+### HOMICIDE on 2025-06-18 00:45
+- Location: Thehillstimes.in
+- Description: SHILLONG, June 17: Sonam Raghuvanshi was taken to the Meghalaya Institute of Mental Health & Neuro Sciences (MIMHANS) today for psychiatric evaluation. East Khasi Hills Superintendent of Police Vivek Syiem said, “Sonam was taken to MIMHANS for psychiatric eva…
 
 
-### HOMICIDE on 2025-06-17 18:12
-- Location: KLAS - 8 News Now
-- Description: Michael Anthony Gonzalez was arrested and charged with attempted murder, battery, and possession of drugs after a road rage incident with a motorcyclist...
+### HOMICIDE on 2025-06-18 00:40
+- Location: New York Post
+- Description: “My son was like my best friend to me,” Suzette Thomas, 50, said sobbing. “He’s the one I go to when I’m going through anything.” Keino Campbell, 27, was shot to death three times in the chest in a road rage incident in the Bronx after police said he confront…
 
 
-### ASSAULT on 2025-06-17 18:10
-- Location: Dallasexpress.com
-- Description: In a major immigration enforcement operation in the Southern District of Texas, 332 individuals, including women, were charged with offenses.
+### HOMICIDE on 2025-06-18 00:35
+- Location: STLtoday.com
+- Description: Daniel Stahl, 16, was walking with his friend and his friend's parents in downtown St. Louis when a car hit him on Washington Avenue.
 
-Analysis generated at: Wed Jun 18 18:20:16 UTC 2025
+Analysis generated at: Thu Jun 19 01:10:24 UTC 2025
