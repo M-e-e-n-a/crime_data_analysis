@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Jun 19 06:21:30 UTC 2025
+Last updated: Thu Jun 19 12:28:58 UTC 2025
 
 ## Latest Analysis
 
-Loaded 39689 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-18 06:17:36
+Loaded 39773 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-18 12:25:26
 
 Incidents by source:
 source
-newsapi           39588
+newsapi           39672
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-06-18 06:17
-- Location: BBC News
-- Description: Fans say they felt let down by an initial Action Fraud decision not to refer their case.
+### OTHER on 2025-06-18 12:25
+- Location: CBS News
+- Description: British lawmakers vote decisively in favor of decriminalizing abortion in England and Wales, to prevent women from being punished under a law on the books since 1861.
 
 
-### OTHER on 2025-06-18 06:16
-- Location: The Star Online
-- Description: KOTA BHARU: Kelantan recorded a total of 601 commercial crime cases were during the first five months of this year, resulting in losses amounting to RM14.1 million, according to state police chief Datuk Mohd Yusoff Mamat. Read full story
+### OTHER on 2025-06-18 12:15
+- Location: MIT Technology Review
+- Description: This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Why it’s so hard to stop tech-facilitated abuse After Gioia had her first child with her then husband, he installed baby …
 
 
-### HOMICIDE on 2025-06-18 06:14
-- Location: TheJournal.ie
-- Description: Erin Patterson is charged with murdering her estranged husband’s parents and aunt in 2023 by spiking their beef Wellington lunch with death cap mushrooms.
+### HOMICIDE on 2025-06-18 12:11
+- Location: Boston Herald
+- Description: Tension is high in Dedham as Karen Read murder retrial jurors continue deliberating after sending two notes Tuesday suggesting they may be nearing a decision.
 
 
-### HOMICIDE on 2025-06-18 06:08
-- Location: ABC News (AU)
-- Description: A Queensland man accused of murdering his wife and staging a lawnmower accident as a cover-up has been charged with breaching his strict bail conditions.
+### OTHER on 2025-06-18 12:11
+- Location: Freerepublic.com
+- Description: Tuesday on MSNBC’s “The Briefing,” New York Gov. Kathy Hochul (D) said she would assist the Trump administration with deporting violent criminals from her state, but not employed immigrants seeking asylum. Hochul said, “I will work with the Trump Administrati…
 
 
-### DRUG RELATED on 2025-06-18 06:04
-- Location: New Zealand Herald
-- Description: Police arrested 20 Greazy Dogs members over alleged meth crimes in Bay of Plenty.
+### OTHER on 2025-06-18 12:00
+- Location: The Denver Post
+- Description: Two people were arrested in connection with a video showing a group of armed men trying to enter an Aurora apartment complex earlier this month, police said Tuesday.
 
-Analysis generated at: Thu Jun 19 06:21:30 UTC 2025
+Analysis generated at: Thu Jun 19 12:28:58 UTC 2025
