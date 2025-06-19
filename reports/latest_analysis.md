@@ -1,10 +1,10 @@
 
-Loaded 39773 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-18 12:25:26
+Loaded 39779 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-18 12:46:12
 
 Incidents by source:
 source
-newsapi           39672
+newsapi           39678
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-06-18 12:25
-- Location: CBS News
-- Description: British lawmakers vote decisively in favor of decriminalizing abortion in England and Wales, to prevent women from being punished under a law on the books since 1861.
+### HOMICIDE on 2025-06-18 12:46
+- Location: The Conversation Africa
+- Description: The legacy of Darnella Frazier recording George Floyd’s murder is visible in today’s Latino communities using smartphones to witness the violence and aggression of ICE raids.
 
 
-### OTHER on 2025-06-18 12:15
-- Location: MIT Technology Review
-- Description: This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Why it’s so hard to stop tech-facilitated abuse After Gioia had her first child with her then husband, he installed baby …
+### ROBBERY/THEFT on 2025-06-18 12:45
+- Location: Newsbreak.com
+- Description: New Jersey State Police refused to take custody of an illegal alien, accused of burglary and theft, who escaped the Delaney Hall detention center in Newark
 
 
-### HOMICIDE on 2025-06-18 12:11
-- Location: Boston Herald
-- Description: Tension is high in Dedham as Karen Read murder retrial jurors continue deliberating after sending two notes Tuesday suggesting they may be nearing a decision.
+### SHOOTING on 2025-06-18 12:39
+- Location: LancasterOnline
+- Description: A man was hospitalized after being shot outside a Lancaster city home early Wednesday morning, according to police.
 
 
-### OTHER on 2025-06-18 12:11
-- Location: Freerepublic.com
-- Description: Tuesday on MSNBC’s “The Briefing,” New York Gov. Kathy Hochul (D) said she would assist the Trump administration with deporting violent criminals from her state, but not employed immigrants seeking asylum. Hochul said, “I will work with the Trump Administrati…
+### HOMICIDE on 2025-06-18 12:38
+- Location: The Root
+- Description: The late Dr. Devon Hoover may have been involved in a scandal preceding his death. 
+The post The Shocking Details Behind The Relationship Between a Detroit Doctor and His Alleged Killer appeared first on The Root.
 
 
-### OTHER on 2025-06-18 12:00
-- Location: The Denver Post
-- Description: Two people were arrested in connection with a video showing a group of armed men trying to enter an Aurora apartment complex earlier this month, police said Tuesday.
+### OTHER on 2025-06-18 12:34
+- Location: Demilked.com
+- Description: This is why the world is over influencers...
+The post 35 Triggering Photos Of Influencers Who Went Viral For The Wrong Reasons appeared first on DeMilked.
 
-Analysis generated at: Thu Jun 19 12:28:58 UTC 2025
+Analysis generated at: Thu Jun 19 12:49:34 UTC 2025
