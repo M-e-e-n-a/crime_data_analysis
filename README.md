@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Jun 19 12:49:34 UTC 2025
+Last updated: Thu Jun 19 18:19:31 UTC 2025
 
 ## Latest Analysis
 
-Loaded 39779 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-18 12:46:12
+Loaded 39869 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-18 18:11:28
 
 Incidents by source:
 source
-newsapi           39678
+newsapi           39768
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,30 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-06-18 12:46
-- Location: The Conversation Africa
-- Description: The legacy of Darnella Frazier recording George Floyd’s murder is visible in today’s Latino communities using smartphones to witness the violence and aggression of ICE raids.
+### HOMICIDE on 2025-06-18 18:11
+- Location: CBS News
+- Description: Douglas Herlihy would have been a teenager when his father, Paul Herlihy, died. Officials have charged him with second-degree murder.
 
 
-### ROBBERY/THEFT on 2025-06-18 12:45
-- Location: Newsbreak.com
-- Description: New Jersey State Police refused to take custody of an illegal alien, accused of burglary and theft, who escaped the Delaney Hall detention center in Newark
+### OTHER on 2025-06-18 18:07
+- Location: CBS Sports
+- Description: Blood-test results showed Sherman was over the legal limit when he was arrested in February 2024
 
 
-### SHOOTING on 2025-06-18 12:39
-- Location: LancasterOnline
-- Description: A man was hospitalized after being shot outside a Lancaster city home early Wednesday morning, according to police.
+### OTHER on 2025-06-18 18:02
+- Location: Boston Herald
+- Description: Fifty years ago, a Tribune reporter got an overnight tip that led to a scoop of one of the biggest hits in Chicago mob history.
 
 
-### HOMICIDE on 2025-06-18 12:38
-- Location: The Root
-- Description: The late Dr. Devon Hoover may have been involved in a scandal preceding his death. 
-The post The Shocking Details Behind The Relationship Between a Detroit Doctor and His Alleged Killer appeared first on The Root.
+### OTHER on 2025-06-18 18:00
+- Location: TheJournal.ie
+- Description: The retired Detective Chief Superintendent says Harris was just the wrong man for the job of Garda Commissioner, at the wrong time.
 
 
-### OTHER on 2025-06-18 12:34
-- Location: Demilked.com
-- Description: This is why the world is over influencers...
-The post 35 Triggering Photos Of Influencers Who Went Viral For The Wrong Reasons appeared first on DeMilked.
+### HOMICIDE on 2025-06-18 17:55
+- Location: STLtoday.com
+- Description: One person was left dead at a Home Depot in Ferguson after an argument between two people ended in shots being fired Wednesday afternoon.
 
-Analysis generated at: Thu Jun 19 12:49:34 UTC 2025
+Analysis generated at: Thu Jun 19 18:19:31 UTC 2025
