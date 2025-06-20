@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Jun 20 01:56:10 UTC 2025
+Last updated: Fri Jun 20 06:21:12 UTC 2025
 
 ## Latest Analysis
 
-Loaded 39886 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-19 01:54:26
+Loaded 39939 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-19 06:14:00
 
 Incidents by source:
 source
-newsapi           39785
+newsapi           39838
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-06-19 01:54
-- Location: Slashdot.org
-- Description: R. Kelly Scared Out of His Mind in Prison, Breaks Down Crying to LawyerTMZ R. Kelly hospitalized after prison overdose, alleged murder plot, lawyers sayUSA Today R. Kelly rushed to Duke University Hospital in Durham after alleged prison overdoseWRAL.com R. Ke…
+### OTHER on 2025-06-19 06:14
+- Location: The Star Online
+- Description: IPOH: Senior Asst Comm Mohammad Azlin Sadari, 52, will be appointed as the Perak deputy police chief effective Thursday (June 19). Read full story
 
 
-### HOMICIDE on 2025-06-19 01:48
-- Location: The Times of India
-- Description: Ramlali, the grandmother of Raj Kushwaha, who is accused of Raja Raghuvanshi's murder, has passed away in Fatehpur, Uttar Pradesh, due to a heart attack. Family members stated that she was deeply affected by Raj's arrest and maintained his innocence until her…
+### OTHER on 2025-06-19 06:08
+- Location: Breaking NEWS in KENYA for Today Right Now & Kenyan News | TUKO
+- Description: MC Gogo condemned police brutality and urged youth not to accept money to harm protesters, calling for unity, peace, and love during tough times.
 
 
-### OTHER on 2025-06-19 01:42
-- Location: Crikey
-- Description: The US is now the main agent of global chaos. How should Australia's policymakers respond?
-The post Chaos, violence and war become the norm as the US empire collapses appeared first on Crikey.
+### HOMICIDE on 2025-06-19 06:05
+- Location: ABC News (AU)
+- Description: A Supreme Court jury has found 48-year-old Matthew Draganoff guilty of the shooting murder of Simon Middleton at a property on the northern outskirts of Adelaide in 2021.
 
 
-### HOMICIDE on 2025-06-19 01:41
-- Location: BBC News
-- Description: The duelling narratives of a scorned lover and a police cover-up "blends every dopamine trigger", says one expert.
+### ASSAULT on 2025-06-19 05:59
+- Location: CNA
+- Description: <![CDATA[ Taeil and two of his acquaintances have been charged with aggravated quasi-rape, following accusations that they had sexually assaulted a woman in June last year. ]]>
 
 
-### OTHER on 2025-06-19 01:32
-- Location: BBC News
-- Description: Man, 22, and two relatives charged after setting up surgery and performing complex operations for two years, police say.
+### OTHER on 2025-06-19 05:51
+- Location: CounterPunch
+- Description: Two things in America create “bipartisanship”: support for Israel’s apartheid regime and support for endless US war and intervention around the world. — Ali Abunimah, October 16, 2019. I live in the heart of the heart of the imperial core: Kansas. In Septembe…
 
-Analysis generated at: Fri Jun 20 01:56:10 UTC 2025
+Analysis generated at: Fri Jun 20 06:21:12 UTC 2025
