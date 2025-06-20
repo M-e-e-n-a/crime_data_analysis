@@ -1,10 +1,10 @@
 
-Loaded 39878 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-19 01:09:24
+Loaded 39886 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-19 01:54:26
 
 Incidents by source:
 source
-newsapi           39777
+newsapi           39785
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,30 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-06-19 01:09
-- Location: Mypeoplesreview.com
-- Description: By Our Reporter Kathmandu District Court on Friday ordered seven individuals accused in the violent pro-monarchy protest at Tinkune to […]
-The post Durga Prasain sent to jail with six others appeared first on Peoples' Review.
+### HOMICIDE on 2025-06-19 01:54
+- Location: Slashdot.org
+- Description: R. Kelly Scared Out of His Mind in Prison, Breaks Down Crying to LawyerTMZ R. Kelly hospitalized after prison overdose, alleged murder plot, lawyers sayUSA Today R. Kelly rushed to Duke University Hospital in Durham after alleged prison overdoseWRAL.com R. Ke…
 
 
-### HOMICIDE on 2025-06-19 01:09
+### HOMICIDE on 2025-06-19 01:48
 - Location: The Times of India
-- Description: Karen Read faced trial regarding John O’Keefe’s death in Massachusetts. The court acquitted Karen of murder and manslaughter charges. However, she was found guilty of operating a vehicle while impaired. The jury deliberated for days before reaching a verdict.…
+- Description: Ramlali, the grandmother of Raj Kushwaha, who is accused of Raja Raghuvanshi's murder, has passed away in Fatehpur, Uttar Pradesh, due to a heart attack. Family members stated that she was deeply affected by Raj's arrest and maintained his innocence until her…
 
 
-### OTHER on 2025-06-19 01:01
-- Location: CBS News
-- Description: Friend of John O'Keefe says celebration after Karen Read verdict was "disgusting"cbsnews.com
+### OTHER on 2025-06-19 01:42
+- Location: Crikey
+- Description: The US is now the main agent of global chaos. How should Australia's policymakers respond?
+The post Chaos, violence and war become the norm as the US empire collapses appeared first on Crikey.
 
 
-### OTHER on 2025-06-19 01:00
-- Location: Thegatewaypundit.com
-- Description: Judge Aileen Cannon this week rejected Trump would-be assassin Ryan Routh’s attempt to unseal a jury questionnaire.
-The post Judge Cannon Rejects Trump Would-Be Assassin Ryan Routh’s Attempt to Unseal Jury Questionnaire appeared first on The Gateway Pundit.
+### HOMICIDE on 2025-06-19 01:41
+- Location: BBC News
+- Description: The duelling narratives of a scorned lover and a police cover-up "blends every dopamine trigger", says one expert.
 
 
-### OTHER on 2025-06-19 00:56
-- Location: ABC News (AU)
-- Description: Behind the social media glamour, police have alleged a Sydney crime syndicate netted almost $10 million by dudding customers with fake designer goods online.
+### OTHER on 2025-06-19 01:32
+- Location: BBC News
+- Description: Man, 22, and two relatives charged after setting up surgery and performing complex operations for two years, police say.
 
-Analysis generated at: Fri Jun 20 01:09:51 UTC 2025
+Analysis generated at: Fri Jun 20 01:56:10 UTC 2025
