@@ -1,10 +1,10 @@
 
-Loaded 40025 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-19 12:42:12
+Loaded 40119 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-19 18:19:02
 
 Incidents by source:
 source
-newsapi           39924
+newsapi           40018
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-06-19 12:42
-- Location: Mediatakeout.com
-- Description: The Miami Police Department recently issued an attempted murder warrant for former NFL star Antonio Brown. Still, officials say they do not consider them to be “on the run” even though he’s currently in the Middle East. Speaking to the Miami Herald on Monday,…
+### SHOOTING on 2025-06-19 18:19
+- Location: Freerepublic.com
+- Description: A recent Oregon Court of Appeals ruling blew a gaping hole in the state police crime lab’s long-standing technique of matching a suspect’s gun to shell casings left behind at a crime scene. The court found that a forensic examiner relied on “subjective judgme…
 
 
-### OTHER on 2025-06-19 12:35
-- Location: Securityaffairs.com
-- Description: Iran experienced a near-total internet blackout on Wednesday as tensions with Israel escalated into the first week of conflict. Global internet monitor NetBlocks reported almost near-total Internet disruptions in Iran as tensions with Israel escalated into th…
+### HOMICIDE on 2025-06-19 18:16
+- Location: Boston Herald
+- Description: Massachusetts State Police investigating apparent murder-suicide
 
 
-### HOMICIDE on 2025-06-19 12:19
-- Location: BBC News
-- Description: Michael Riley is charged with the murders of Ross Monaghan and Eddie Lyons Jnr in Fuengirola.
+### OTHER on 2025-06-19 18:16
+- Location: Variety
+- Description: Wilder than a Coen Brothers movie, the sprawling true story behind Netflix’s new documentary mini-series “Cocaine Air: Smugglers” has captivated French people for over a decade, when two former French air force pilots, Pascal Fauret and Bruno Odos, were arres…
 
 
-### HOMICIDE on 2025-06-19 12:15
-- Location: Khabarhub.com
-- Description: KATHMANDU: The two High Court judges who acquitted Nepali Congress leader Mohammad Aftab Alam in a high-profile murder case have been transferred to the Supreme Court for investigation. Justices Khusi Prasad Tharu and Arjun Maharjan of the Birgunj bench under…
+### OTHER on 2025-06-19 18:00
+- Location: KQED
+- Description: California Republicans who agreed to speak with CalMatters endorse President Donald Trump’s military deployment in Los Angeles as necessary to save the state from its Democratic leadership.
 
 
-### OTHER on 2025-06-19 12:14
-- Location: BusinessLine
-- Description: The apex court strengthened the principle that disagreement is the lifeblood of democracy and coercion is its poison
+### OTHER on 2025-06-19 18:00
+- Location: TheJournal.ie
+- Description: Gwen Loughman says we don’t have to cater to our kids’ needs for every day of the summer.
 
-Analysis generated at: Fri Jun 20 12:49:09 UTC 2025
+Analysis generated at: Fri Jun 20 18:19:37 UTC 2025
