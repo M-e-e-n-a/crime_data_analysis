@@ -1,10 +1,10 @@
 
-Loaded 39939 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-19 06:14:00
+Loaded 40023 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-19 12:19:10
 
 Incidents by source:
 source
-newsapi           39838
+newsapi           39922
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,32 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-06-19 06:14
-- Location: The Star Online
-- Description: IPOH: Senior Asst Comm Mohammad Azlin Sadari, 52, will be appointed as the Perak deputy police chief effective Thursday (June 19). Read full story
+### HOMICIDE on 2025-06-19 12:19
+- Location: BBC News
+- Description: Michael Riley is charged with the murders of Ross Monaghan and Eddie Lyons Jnr in Fuengirola.
 
 
-### OTHER on 2025-06-19 06:08
-- Location: Breaking NEWS in KENYA for Today Right Now & Kenyan News | TUKO
-- Description: MC Gogo condemned police brutality and urged youth not to accept money to harm protesters, calling for unity, peace, and love during tough times.
+### HOMICIDE on 2025-06-19 12:15
+- Location: Khabarhub.com
+- Description: KATHMANDU: The two High Court judges who acquitted Nepali Congress leader Mohammad Aftab Alam in a high-profile murder case have been transferred to the Supreme Court for investigation. Justices Khusi Prasad Tharu and Arjun Maharjan of the Birgunj bench under…
 
 
-### HOMICIDE on 2025-06-19 06:05
-- Location: ABC News (AU)
-- Description: A Supreme Court jury has found 48-year-old Matthew Draganoff guilty of the shooting murder of Simon Middleton at a property on the northern outskirts of Adelaide in 2021.
+### OTHER on 2025-06-19 12:14
+- Location: BusinessLine
+- Description: The apex court strengthened the principle that disagreement is the lifeblood of democracy and coercion is its poison
 
 
-### ASSAULT on 2025-06-19 05:59
-- Location: CNA
-- Description: <![CDATA[ Taeil and two of his acquaintances have been charged with aggravated quasi-rape, following accusations that they had sexually assaulted a woman in June last year. ]]>
+### OTHER on 2025-06-19 12:14
+- Location: Atlas Obscura
+- Description: Listen and subscribe on Apple Podcasts, Spotify, and all major podcast apps.
 
 
-### OTHER on 2025-06-19 05:51
-- Location: CounterPunch
-- Description: Two things in America create “bipartisanship”: support for Israel’s apartheid regime and support for endless US war and intervention around the world. — Ali Abunimah, October 16, 2019. I live in the heart of the heart of the imperial core: Kansas. In Septembe…
 
-Analysis generated at: Fri Jun 20 06:21:12 UTC 2025
+Dylan Thuras: In December 2023, at Langley Air Force Base in Virginia, it’s just after sunset, and something weird is happening in the sky. Just after dusk, a drone would arrive,…
+
+
+### ROBBERY/THEFT on 2025-06-19 12:07
+- Location: CBC News
+- Description: The mayor of Portage la Prairie and the owner of a local boutique are calling on the Manitoba and Canadian governments to make changes to bail reform laws after an alleged repeat thief stole a pair of jeans from the boutique on Tuesday afternoon.
+
+Analysis generated at: Fri Jun 20 12:29:01 UTC 2025
