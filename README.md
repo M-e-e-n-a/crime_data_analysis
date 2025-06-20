@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Jun 19 18:19:31 UTC 2025
+Last updated: Fri Jun 20 01:09:51 UTC 2025
 
 ## Latest Analysis
 
-Loaded 39869 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-18 18:11:28
+Loaded 39878 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-19 01:09:24
 
 Incidents by source:
 source
-newsapi           39768
+newsapi           39777
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-06-18 18:11
+### OTHER on 2025-06-19 01:09
+- Location: Mypeoplesreview.com
+- Description: By Our Reporter Kathmandu District Court on Friday ordered seven individuals accused in the violent pro-monarchy protest at Tinkune to […]
+The post Durga Prasain sent to jail with six others appeared first on Peoples' Review.
+
+
+### HOMICIDE on 2025-06-19 01:09
+- Location: The Times of India
+- Description: Karen Read faced trial regarding John O’Keefe’s death in Massachusetts. The court acquitted Karen of murder and manslaughter charges. However, she was found guilty of operating a vehicle while impaired. The jury deliberated for days before reaching a verdict.…
+
+
+### OTHER on 2025-06-19 01:01
 - Location: CBS News
-- Description: Douglas Herlihy would have been a teenager when his father, Paul Herlihy, died. Officials have charged him with second-degree murder.
+- Description: Friend of John O'Keefe says celebration after Karen Read verdict was "disgusting"cbsnews.com
 
 
-### OTHER on 2025-06-18 18:07
-- Location: CBS Sports
-- Description: Blood-test results showed Sherman was over the legal limit when he was arrested in February 2024
+### OTHER on 2025-06-19 01:00
+- Location: Thegatewaypundit.com
+- Description: Judge Aileen Cannon this week rejected Trump would-be assassin Ryan Routh’s attempt to unseal a jury questionnaire.
+The post Judge Cannon Rejects Trump Would-Be Assassin Ryan Routh’s Attempt to Unseal Jury Questionnaire appeared first on The Gateway Pundit.
 
 
-### OTHER on 2025-06-18 18:02
-- Location: Boston Herald
-- Description: Fifty years ago, a Tribune reporter got an overnight tip that led to a scoop of one of the biggest hits in Chicago mob history.
+### OTHER on 2025-06-19 00:56
+- Location: ABC News (AU)
+- Description: Behind the social media glamour, police have alleged a Sydney crime syndicate netted almost $10 million by dudding customers with fake designer goods online.
 
-
-### OTHER on 2025-06-18 18:00
-- Location: TheJournal.ie
-- Description: The retired Detective Chief Superintendent says Harris was just the wrong man for the job of Garda Commissioner, at the wrong time.
-
-
-### HOMICIDE on 2025-06-18 17:55
-- Location: STLtoday.com
-- Description: One person was left dead at a Home Depot in Ferguson after an argument between two people ended in shots being fired Wednesday afternoon.
-
-Analysis generated at: Thu Jun 19 18:19:31 UTC 2025
+Analysis generated at: Fri Jun 20 01:09:51 UTC 2025
