@@ -1,10 +1,10 @@
 
-Loaded 40245 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-20 12:25:53
+Loaded 40332 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-20 18:10:07
 
 Incidents by source:
 source
-newsapi           40144
+newsapi           40231
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2025-06-20 12:25
-- Location: New York Post
-- Description: Newly released video shows the moment cops battled to stop a Florida jewel thief from swallowing nearly $770,000 worth of Tiffany earrings he allegedly stole during a strong-arm heist gone wrong.
+### ROBBERY/THEFT on 2025-06-20 18:10
+- Location: The Times of India
+- Description: Jaythan Gilder, a 32-year-old man, stole $770,000 worth of diamond earrings from a Tiffany & Co. store in Orlando. To evade capture, he swallowed the gems, leading to a two-week wait for their retrieval from his digestive system. Gilder, a repeat offender, fa…
 
 
-### HOMICIDE on 2025-06-20 12:24
+### SHOOTING on 2025-06-20 18:09
+- Location: Deadline
+- Description: When approaching his designs for Adolescence, production designer Adam Tomlinson says the most important aspect was to keep the flow going on set. Although filming an episode in a one shot is the job of a cinematographer, it would be impossible with poorly de…
+
+
+### OTHER on 2025-06-20 18:03
 - Location: BBC News
-- Description: Monaghans bar in Fuengirola, where Ross Monaghan and Eddie Lyons Jnr were shot dead last month, will now be called the Irish Rover.
+- Description: Khalil, a permanent US resident, has been in immigration detention since his arrest in March.
 
 
-### HOMICIDE on 2025-06-20 12:23
-- Location: PEOPLE
-- Description: The men are believed to have been killed and dumped in a volcanic lake after allegedly cheating while betting on cockfights
+### SHOOTING on 2025-06-20 18:03
+- Location: Freerepublic.com
+- Description: Credit: WBFF FOX45 Baltimore YouTube screenshot A Maryland woman got violent with a local reporter outside a Frederick courthouse earlier this week for daring to ask about her alleged activities involving homes occupied by squatters. As WBFF reported, Kaniya …
 
 
-### OTHER on 2025-06-20 12:14
-- Location: ComputerWeekly.com
-- Description: The number of businesses attaining the NCSC Cyber Essentials certification continues to increase, but much more can be done to raise awareness of the scheme.
+### OTHER on 2025-06-20 18:00
+- Location: Dramabeans.com
+- Description: A forensic pathologist runs away from her past only for it to come knocking at her door again. Daddy dearest is back, and the strange signs he leaves behind in his victims must be a message to his daughter. Even if it means breaking the law or dirtying her ha…
 
-
-### HOMICIDE on 2025-06-20 12:13
-- Location: BBC News
-- Description: Dean Mears is sentenced to 27 years for murdering the frail 69-year-old grandmother.
-
-Analysis generated at: Sat Jun 21 12:43:37 UTC 2025
+Analysis generated at: Sat Jun 21 18:18:03 UTC 2025
