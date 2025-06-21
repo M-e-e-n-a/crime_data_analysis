@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Jun 21 01:54:12 UTC 2025
+Last updated: Sat Jun 21 06:19:13 UTC 2025
 
 ## Latest Analysis
 
-Loaded 40135 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-20 01:18:07
+Loaded 40173 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-20 06:16:18
 
 Incidents by source:
 source
-newsapi           40034
+newsapi           40072
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-06-20 01:18
-- Location: Screen Rant
-- Description: Supernatural broke records for its longevity, and yet, it still doesn't beat the number of episodes Jensen Ackles appeared on in one other show.
+### OTHER on 2025-06-20 06:16
+- Location: soompi
+- Description: Former THE BOYZ member Ju Haknyeon has once again denied allegations of prostitution and claimed that his departure from the group and termination of his contract were unilateral decisions made without his consent. On June 20, Ju Haknyeon posted the following…
 
 
-### HOMICIDE on 2025-06-20 01:15
-- Location: Thehillstimes.in
-- Description: ITANAGAR, June 19: A 22-year-old labourer from Assam was allegedly murdered in Itanagar following an altercation over noise caused by construction activity, police said on Thursday. The body of Prabash Doley, a native of Assam’s Dhemaji district, was found ne…
+### OTHER on 2025-06-20 06:13
+- Location: Rediff.com
+- Description: Soldiers, cops, detectives, K-Pop idols, here's everything you can catch on OTT this week.
 
 
-### OTHER on 2025-06-20 01:01
-- Location: 7NEWS.com.au
-- Description: The home, with an estimated value of about $20 million, was being renovated at the time of the blaze.
+### OTHER on 2025-06-20 06:04
+- Location: Newser
+- Description: A man allegedly armed with a Taser is accused of scaling a wall at Memphis Mayor Paul Young's gated community and knocking on the mayor's door Sunday night. Police responded to reports of a suspicious person in the neighborhood around 9:30pm. Around that same…
 
 
-### OTHER on 2025-06-20 01:00
-- Location: Screen Rant
-- Description: The X-Files' Gillian Anderson was magnetic in this three-season, critically acclaimed British crime thriller that's perfect for binge-watching.
+### OTHER on 2025-06-20 06:00
+- Location: The Star Online
+- Description: One of South Korea's largest megachurches said on June 20 its YouTube worship service was briefly hacked during a live broadcast to display the North Korean flag, with a government agency saying it was checking the details. Read full story
 
 
-### HOMICIDE on 2025-06-20 01:00
-- Location: Thehillstimes.in
-- Description: INDORE, June 19: A Meghalaya police team probing the murder of Indore businessman Raja Raghuvanshi on Thursday questioned a few acquaintances of main accused Sonam Raghuvanshi and her alleged lover Raj Kushwaha. They also questioned a taxi driver who is suspe…
+### OTHER on 2025-06-20 06:00
+- Location: Naturalnews.com
+- Description: British police forces, led by Bedfordshire Police, have contracted U.S. tech firm Palantir to pilot “Nectar,” an AI system that compiles and analyzes sensitive personal data to support law enforcement. Nectar merges data from 80 sources, including intelligenc…
 
-Analysis generated at: Sat Jun 21 01:54:12 UTC 2025
+Analysis generated at: Sat Jun 21 06:19:13 UTC 2025
