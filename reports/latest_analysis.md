@@ -1,10 +1,10 @@
 
-Loaded 40173 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-20 06:16:18
+Loaded 40244 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-20 12:24:27
 
 Incidents by source:
 source
-newsapi           40072
+newsapi           40143
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-06-20 06:16
-- Location: soompi
-- Description: Former THE BOYZ member Ju Haknyeon has once again denied allegations of prostitution and claimed that his departure from the group and termination of his contract were unilateral decisions made without his consent. On June 20, Ju Haknyeon posted the following…
+### HOMICIDE on 2025-06-20 12:24
+- Location: BBC News
+- Description: Monaghans bar in Fuengirola, where Ross Monaghan and Eddie Lyons Jnr were shot dead last month, will now be called the Irish Rover.
 
 
-### OTHER on 2025-06-20 06:13
-- Location: Rediff.com
-- Description: Soldiers, cops, detectives, K-Pop idols, here's everything you can catch on OTT this week.
+### HOMICIDE on 2025-06-20 12:23
+- Location: PEOPLE
+- Description: The men are believed to have been killed and dumped in a volcanic lake after allegedly cheating while betting on cockfights
 
 
-### OTHER on 2025-06-20 06:04
-- Location: Newser
-- Description: A man allegedly armed with a Taser is accused of scaling a wall at Memphis Mayor Paul Young's gated community and knocking on the mayor's door Sunday night. Police responded to reports of a suspicious person in the neighborhood around 9:30pm. Around that same…
+### OTHER on 2025-06-20 12:14
+- Location: ComputerWeekly.com
+- Description: The number of businesses attaining the NCSC Cyber Essentials certification continues to increase, but much more can be done to raise awareness of the scheme.
 
 
-### OTHER on 2025-06-20 06:00
-- Location: The Star Online
-- Description: One of South Korea's largest megachurches said on June 20 its YouTube worship service was briefly hacked during a live broadcast to display the North Korean flag, with a government agency saying it was checking the details. Read full story
+### HOMICIDE on 2025-06-20 12:13
+- Location: BBC News
+- Description: Dean Mears is sentenced to 27 years for murdering the frail 69-year-old grandmother.
 
 
-### OTHER on 2025-06-20 06:00
-- Location: Naturalnews.com
-- Description: British police forces, led by Bedfordshire Police, have contracted U.S. tech firm Palantir to pilot “Nectar,” an AI system that compiles and analyzes sensitive personal data to support law enforcement. Nectar merges data from 80 sources, including intelligenc…
+### SHOOTING on 2025-06-20 12:13
+- Location: HuffPost
+- Description: Minnesota state Sen. John Hoffman (D) is in critical but stable condition, the family said.
 
-Analysis generated at: Sat Jun 21 06:19:13 UTC 2025
+Analysis generated at: Sat Jun 21 12:25:42 UTC 2025
