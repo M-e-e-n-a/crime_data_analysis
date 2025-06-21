@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Jun 21 12:25:42 UTC 2025
+Last updated: Sat Jun 21 12:43:37 UTC 2025
 
 ## Latest Analysis
 
-Loaded 40244 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-20 12:24:27
+Loaded 40245 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-20 12:25:53
 
 Incidents by source:
 source
-newsapi           40143
+newsapi           40144
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -23,6 +23,11 @@ bution.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### ROBBERY/THEFT on 2025-06-20 12:25
+- Location: New York Post
+- Description: Newly released video shows the moment cops battled to stop a Florida jewel thief from swallowing nearly $770,000 worth of Tiffany earrings he allegedly stole during a strong-arm heist gone wrong.
+
 
 ### HOMICIDE on 2025-06-20 12:24
 - Location: BBC News
@@ -43,9 +48,4 @@ bution.svg)
 - Location: BBC News
 - Description: Dean Mears is sentenced to 27 years for murdering the frail 69-year-old grandmother.
 
-
-### SHOOTING on 2025-06-20 12:13
-- Location: HuffPost
-- Description: Minnesota state Sen. John Hoffman (D) is in critical but stable condition, the family said.
-
-Analysis generated at: Sat Jun 21 12:25:42 UTC 2025
+Analysis generated at: Sat Jun 21 12:43:37 UTC 2025
