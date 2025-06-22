@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Jun 22 02:05:32 UTC 2025
+Last updated: Sun Jun 22 06:19:58 UTC 2025
 
 ## Latest Analysis
 
-Loaded 40343 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-21 02:02:15
+Loaded 40369 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-21 06:05:00
 
 Incidents by source:
 source
-newsapi           40242
+newsapi           40268
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2025-06-21 02:02
-- Location: Starcommunity.com.au
-- Description: Greater Dandenong’s official crime rate has soared by 15 per cent in the past year, with Victoria Police stating it will take time to turn around the trend. The rise was in line with a statewide surge in which police claim they made a record number of arrests…
+### OTHER on 2025-06-21 06:05
+- Location: Borderlandbeat.com
+- Description: CHAR  JUNE 20, 2025  MILENIO  CRISTIAN FERNANDO GUTIERREZ-OCHOA EL GUACHO  VIDEO TRANSLATION  MALE ANCHOR: In the United States tomorrow, on...
 
 
-### OTHER on 2025-06-21 02:01
-- Location: Mypeoplesreview.com
-- Description: By Dr. Janardan Subedi   The Architecture of Institutionalized Impunity In healthy democracies, institutions serve as the immune […]
-The post Theatre of the corrupt: How Nepal’s institutions protect their own and persecute the truth appeared first on Peoples'…
+### OTHER on 2025-06-21 06:01
+- Location: 7NEWS.com.au
+- Description: Teenager seriously injured in hit and run at Maroubra7news.com.au
 
 
-### OTHER on 2025-06-21 01:58
-- Location: ABC News
-- Description: Vice President JD Vance is accusing California Gov. Gavin Newsom and Los Angeles Mayor Karen Bass of encouraging violent immigration protests
+### HOMICIDE on 2025-06-21 05:54
+- Location: New York Post
+- Description: A Michigan high school bowling coach fatally murdered one of his former bowlers, who had recently graduated, inside her home before turning the gun on himself in a horrific murder-suicide last week.
 
 
-### HOMICIDE on 2025-06-21 01:58
-- Location: ABC News
-- Description: The husband of a Colorado woman whose remains were found after more than three years of searching has been rearrested on suspicion of first-degree murder
+### OTHER on 2025-06-21 05:53
+- Location: Securityaffairs.com
+- Description: Godfather Android trojan uses virtualization to hijack banking and crypto apps, stealing user funds, warns mobile security firm Zimperium. Zimperium zLabs has uncovered a major evolution of the GodFather Android trojan, which uses on-device virtualization to …
 
 
-### OTHER on 2025-06-21 01:57
-- Location: ABC News
-- Description: The variant, known as NB.1.8.1, has been nicknamed by some as “razor blade throat” due to the painful symptom.
+### OTHER on 2025-06-21 05:47
+- Location: Hamiltonnolan.com
+- Description: Fear of the subway is a mark of low moral character.
 
-Analysis generated at: Sun Jun 22 02:05:32 UTC 2025
+Analysis generated at: Sun Jun 22 06:19:58 UTC 2025
