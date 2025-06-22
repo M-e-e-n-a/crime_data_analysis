@@ -1,10 +1,10 @@
 
-Loaded 40406 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-21 12:22:00
+Loaded 40408 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-21 12:30:57
 
 Incidents by source:
 source
-newsapi           40305
+newsapi           40307
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,6 +20,16 @@ bution.svg)
 
 ## Recent Incidents
 
+### HOMICIDE on 2025-06-21 12:30
+- Location: HackRead
+- Description: European police, led by Denmark and Sweden, are arresting individuals in a crackdown on violence-as-a-service, where criminal groups recruit teenagers online for contract killings. Learn about Europol's OTF GRIMM task force and how they're fighting this distu…
+
+
+### SHOOTING on 2025-06-21 12:29
+- Location: Detroit Free Press
+- Description: The prosecution says Jennifer Crumbley cannot be trusted not to flee, especially given her actions after her son shot up his school.
+
+
 ### ASSAULT on 2025-06-21 12:22
 - Location: New York Post
 - Description: The most vulnerable New Yorkers are taking it on the chin – and everywhere else – as felony assaults against them have doubled so far this year compared to 2019, The Post has learned.
@@ -34,14 +44,4 @@ bution.svg)
 - Location: New York Post
 - Description: Formella, who married her high school sweetheart last August, was arrested in March for raping a teenage student some 50 times.
 
-
-### OTHER on 2025-06-21 12:01
-- Location: Fox News
-- Description: Anti-Immigration and Customs Enforcement (ICE) activists in Denver, Colorado, managed to thwart agents trying to arrest an illegal migrant wanted in Italy for child rape.
-
-
-### OTHER on 2025-06-21 12:00
-- Location: Fox News
-- Description: California crowd-for-hire CEO explains signs of funded protests at anti-ICE demonstrations, including tactical gear and hotel accommodations for violent demonstrators.
-
-Analysis generated at: Sun Jun 22 12:25:44 UTC 2025
+Analysis generated at: Sun Jun 22 12:43:18 UTC 2025
