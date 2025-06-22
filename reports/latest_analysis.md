@@ -1,10 +1,10 @@
 
-Loaded 40332 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-20 18:10:07
+Loaded 40337 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-21 00:56:13
 
 Incidents by source:
 source
-newsapi           40231
+newsapi           40236
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2025-06-20 18:10
-- Location: The Times of India
-- Description: Jaythan Gilder, a 32-year-old man, stole $770,000 worth of diamond earrings from a Tiffany & Co. store in Orlando. To evade capture, he swallowed the gems, leading to a two-week wait for their retrieval from his digestive system. Gilder, a repeat offender, fa…
+### HOMICIDE on 2025-06-21 00:56
+- Location: fox6now.com
+- Description: A Milwaukee teen is now charged in a shooting near 46th and Hampton that ended with one person dead and three others wounded earlier this month.
 
 
-### SHOOTING on 2025-06-20 18:09
-- Location: Deadline
-- Description: When approaching his designs for Adolescence, production designer Adam Tomlinson says the most important aspect was to keep the flow going on set. Although filming an episode in a one shot is the job of a cinematographer, it would be impossible with poorly de…
+### HOMICIDE on 2025-06-21 00:55
+- Location: Slashdot.org
+- Description: Boston cop would have 'taken a bullet' for Karen Read's officer boyfriend found dead on his propertyFox News Karen Read Acquittal Exposes Flaws in Police Practices, Supporters and Critics SayThe New York Times Karen Read juror went into deliberations leaning …
 
 
-### OTHER on 2025-06-20 18:03
-- Location: BBC News
-- Description: Khalil, a permanent US resident, has been in immigration detention since his arrest in March.
+### OTHER on 2025-06-21 00:20
+- Location: Roanoke Times
+- Description: He left a federal facility in Louisiana and was expected to head to New York to reunite with his U.S. citizen wife and newborn son.
 
 
-### SHOOTING on 2025-06-20 18:03
-- Location: Freerepublic.com
-- Description: Credit: WBFF FOX45 Baltimore YouTube screenshot A Maryland woman got violent with a local reporter outside a Frederick courthouse earlier this week for daring to ask about her alleged activities involving homes occupied by squatters. As WBFF reported, Kaniya …
+### OTHER on 2025-06-21 00:20
+- Location: Richmond.com
+- Description: He left a federal facility in Louisiana and was expected to head to New York to reunite with his U.S. citizen wife and newborn son.
 
 
-### OTHER on 2025-06-20 18:00
-- Location: Dramabeans.com
-- Description: A forensic pathologist runs away from her past only for it to come knocking at her door again. Daddy dearest is back, and the strange signs he leaves behind in his victims must be a message to his daughter. Even if it means breaking the law or dirtying her ha…
+### HOMICIDE on 2025-06-21 00:19
+- Location: CBC News
+- Description: A man has died in hospital after a shooting in Brampton on Friday, Peel Regional Police say.
 
-Analysis generated at: Sat Jun 21 18:18:03 UTC 2025
+Analysis generated at: Sun Jun 22 01:16:45 UTC 2025
