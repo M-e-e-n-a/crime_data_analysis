@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Jun 23 02:04:00 UTC 2025
+Last updated: Mon Jun 23 06:22:40 UTC 2025
 
 ## Latest Analysis
 
-Loaded 40456 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-22 02:03:33
+Loaded 40480 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-22 06:11:24
 
 Incidents by source:
 source
-newsapi           40355
+newsapi           40379
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-06-22 02:03
-- Location: The Times of India
-- Description: A deadly hit-and-run occurred in Newcastle. A woman died, and another suffered serious injuries. The incident happened on Newcastle Road. Police had observed the suspect vehicle earlier. The driver fled the scene after the crash. Two teenage passengers were h…
-
-
-### OTHER on 2025-06-22 01:30
-- Location: Independent.ie
-- Description: Planning a night on the couch? Here are today’s top TV and streaming picks:
-
-
-### HOMICIDE on 2025-06-22 01:01
+### HOMICIDE on 2025-06-22 06:11
 - Location: Fox News
-- Description: A Wisconsin couple have been charged in an alleged plot to kill two women with cyanide, and several investigators tracking the pair were hospitalized due to the poison.
+- Description: South Carolina Juneteenth celebration turns deadly with 10 people shot following parking lot altercation near Veterans of Foreign Wars post, prompting massive emergency response.
 
 
-### HOMICIDE on 2025-06-22 01:01
-- Location: TMZ
-- Description: Karen Read's defense attorneys are arguing cops framed her for John O'Keefe's death ... but, Massachusetts law enforcement is calling BS -- saying they did everything by the book, even though Read's walking free. The State Police Association of…
+### OTHER on 2025-06-22 06:00
+- Location: The Week Magazine
+- Description: Donald Trump's use of federal troops on home ground, dismissal of dissent and 'braggadocious' military posturing are all symptoms of a shifting political culture
 
 
-### OTHER on 2025-06-22 00:00
-- Location: Daily Signal
-- Description: California Sen. Alex Padilla recently crashed a press conference by Homeland Security Secretary Kristi Noem. He deliberately wore no identification. He gave no advance warning... Read More
-The post Can the Left Ever Stop Its Craziness? appeared first on The D…
+### OTHER on 2025-06-22 05:51
+- Location: The Times of India
+- Description: Vijay Malik, a former Delhi Police officer, reflects on the Emergency's 50th anniversary, recalling his experiences executing warrants against opposition leaders. He notes the superficial normalcy masking a deep-seated fear among citizens, with many concealin…
 
-Analysis generated at: Mon Jun 23 02:04:00 UTC 2025
+
+### OTHER on 2025-06-22 05:47
+- Location: The Irish Times
+- Description: Squid Game, The Gilded Age, and The Bear among this week's TV highlights
+
+
+### HOMICIDE on 2025-06-22 05:31
+- Location: BBC News
+- Description: Ten years on, the killing of the notorious Brink's-Mat suspect at his home in Essex remains unsolved.
+
+Analysis generated at: Mon Jun 23 06:22:40 UTC 2025
