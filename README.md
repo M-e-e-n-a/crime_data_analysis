@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Jun 23 01:14:27 UTC 2025
+Last updated: Mon Jun 23 02:04:00 UTC 2025
 
 ## Latest Analysis
 
-Loaded 40454 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-22 01:01:10
+Loaded 40456 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-22 02:03:33
 
 Incidents by source:
 source
-newsapi           40353
+newsapi           40355
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -23,6 +23,16 @@ bution.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### HOMICIDE on 2025-06-22 02:03
+- Location: The Times of India
+- Description: A deadly hit-and-run occurred in Newcastle. A woman died, and another suffered serious injuries. The incident happened on Newcastle Road. Police had observed the suspect vehicle earlier. The driver fled the scene after the crash. Two teenage passengers were h…
+
+
+### OTHER on 2025-06-22 01:30
+- Location: Independent.ie
+- Description: Planning a night on the couch? Here are today’s top TV and streaming picks:
+
 
 ### HOMICIDE on 2025-06-22 01:01
 - Location: Fox News
@@ -39,14 +49,4 @@ bution.svg)
 - Description: California Sen. Alex Padilla recently crashed a press conference by Homeland Security Secretary Kristi Noem. He deliberately wore no identification. He gave no advance warning... Read More
 The post Can the Left Ever Stop Its Craziness? appeared first on The D…
 
-
-### OTHER on 2025-06-22 00:00
-- Location: ComicBook.com
-- Description: Shueisha’s Shonen Jump+ has been going through several changes over the past year, with many big titles reaching their conclusion. Several new-generation manga series are ending not long after their debut, and the next series that the magazine is bidding fare…
-
-
-### OTHER on 2025-06-21 18:04
-- Location: New Zealand Herald
-- Description: A petition for police body cameras has gained nearly 15,000 signatures.
-
-Analysis generated at: Mon Jun 23 01:14:27 UTC 2025
+Analysis generated at: Mon Jun 23 02:04:00 UTC 2025
