@@ -1,10 +1,10 @@
 
-Loaded 40631 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-23 12:49:13
+Loaded 40725 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-23 18:13:00
 
 Incidents by source:
 source
-newsapi           40530
+newsapi           40624
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-06-23 12:49
-- Location: The Times of India
-- Description: A Bengaluru-based techie’s social media post comparing nightlife in India and Malaysia has sparked widespread discussion online. While describing a peaceful late-night walk by a lake in Cyberjaya, Malaysia—with families, clean public spaces, and 24/7 convenie…
+### OTHER on 2025-06-23 18:13
+- Location: Snopes.com
+- Description: A man in Sunnyside, Washington, claimed ICE would pay up to $1,500 per person bounty hunters brought in.
 
 
-### SHOOTING on 2025-06-23 12:40
-- Location: The Denver Post
-- Description: Colorado Springs police officers shot at least one person early Monday morning in the 1400 block of Michelle Court, east of South Academy Boulevard and East Fountain Boulevard.
+### HOMICIDE on 2025-06-23 18:11
+- Location: Fox News
+- Description: Special prosecutor Hank Brennan condemns witness harassment in the Karen Read case after her acquittal on homicide charges in Boston Police Officer John O'Keefe's death.
 
 
-### ROBBERY/THEFT on 2025-06-23 12:34
-- Location: The Star Online
-- Description: KUANTAN: Pahang police will establish a task force to prevent theft at the East Coast Rail Link (ECRL) project sites here following several reports. Read full story
+### OTHER on 2025-06-23 18:09
+- Location: Forbes
+- Description: Today, 286,000 rangers patrol the planet’s wild places, roughly one for every 28 square miles. To protect 30% of Earth's land and oceans by 2030, about 1.5 million rangers, one for every 10 square miles, are needed.
 
 
-### OTHER on 2025-06-23 12:28
-- Location: Newsweek
-- Description: The creators say that the tech can avoid biases of other AI-based products, as it only reads a person's body language
+### OTHER on 2025-06-23 18:06
+- Location: Boston Herald
+- Description: The prosecution was likely to rest by Tuesday.
 
 
-### HOMICIDE on 2025-06-23 12:19
-- Location: CBC News
-- Description: A man who opened fire outside a Wayne, Mich., church filled with worshippers on Sunday was struck by a vehicle and then fatally shot by security staff who averted a potential mass shooting, police said.
+### SHOOTING on 2025-06-23 18:03
+- Location: PBS
+- Description: The massive tax and spending cuts package that President Donald Trump wants on his desk by July 4 would loosen regulations on gun silencers and certain types of rifles and shotguns.
 
-Analysis generated at: Tue Jun 24 12:50:21 UTC 2025
+Analysis generated at: Tue Jun 24 18:20:13 UTC 2025
