@@ -1,10 +1,10 @@
 
-Loaded 40528 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-23 01:01:43
+Loaded 40529 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-23 01:52:51
 
 Incidents by source:
 source
-newsapi           40427
+newsapi           40428
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -19,6 +19,11 @@ bution.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### HOMICIDE on 2025-06-23 01:52
+- Location: Slashdot.org
+- Description: Police credit staffers for stopping gunman at Wayne Co. church: They 'prevented a mass shooting'The Detroit News Armed gunman shot dead after opening fire at Sunday church serviceFox News Security guard kills gunman, thwarts attack on Michigan church, say pol…
+
 
 ### OTHER on 2025-06-23 01:01
 - Location: Fox News
@@ -39,9 +44,4 @@ bution.svg)
 - Location: BBC News
 - Description: A suspected attacker is also killed in an apparent exchange of fire during the incident in a village near Avignon.
 
-
-### HOMICIDE on 2025-06-23 00:35
-- Location: Syllad.com
-- Description: The Meghalaya Police’s Special Investigation Team (SIT) has arrested two more individuals in connection with the murder of Raja Raghuvanshi, a businessman from Indore who was killed during his honeymoon in Sohra. The arrested individuals include Silome James …
-
-Analysis generated at: Tue Jun 24 01:10:37 UTC 2025
+Analysis generated at: Tue Jun 24 01:57:48 UTC 2025
