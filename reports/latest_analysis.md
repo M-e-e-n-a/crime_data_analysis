@@ -1,10 +1,10 @@
 
-Loaded 40765 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-24 06:20:07
+Loaded 40827 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-24 12:00:00
 
 Incidents by source:
 source
-newsapi           40664
+newsapi           40726
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-06-24 06:20
-- Location: The-independent.com
-- Description: The Government has issued a warning as part of its wider crackdown on scammers
+### ROBBERY/THEFT on 2025-06-24 12:00
+- Location: CBC News
+- Description: Court documents obtained by CBC detail the inner workings of a multi-level organized ring of stolen goods traffickers allegedly directing prolific shoplifters stealing hundreds of thousands of dollars worth of clothes from Lululemon stores across the Lower Ma…
 
 
-### HOMICIDE on 2025-06-24 06:19
-- Location: ABC News (AU)
-- Description: The judge in the Erin Patterson triple-murder trial has told the jury that if they believe the evidence given by the accused at trial, they must find her not guilty.
+### OTHER on 2025-06-24 11:55
+- Location: Mother Jones
+- Description: Subscribe to Mother Jones podcasts on Apple Podcasts or your favorite podcast app. A few days after the 2024 election, Zohran Mamdani filmed the first video in a mayoral campaign that would come to be defined by them. Standing on street corners in the Bronx a…
 
 
-### OTHER on 2025-06-24 06:00
-- Location: Dramabeans.com
-- Description: We’ve reached the halfway point, and our main villain has stopped denying his villainy in front of the good boys. In fact, he has dared them to do their worst, and it’s left to see how much damage our good boys can inflict on a nemesis who has just about ever…
+### HOMICIDE on 2025-06-24 11:39
+- Location: Newser
+- Description: A Wisconsin couple faces charges after authorities say they tried to poison two women—who knew the male suspect because they had casually dated him. Paul VanDuyne Jr., 43, and Andrea Whitaker, 41, of Madison, are charged with attempted murder, stalking, aggra…
 
 
-### ASSAULT on 2025-06-24 06:00
-- Location: Naturalnews.com
-- Description: France’s Fête de la Musique turned violent as 145 people, mostly young women and minors, were stabbed with syringes in a suspected coordinated attack. Twelve suspects, including illegal immigrants, were arrested, with fears of date-rape drugs and social media…
+### OTHER on 2025-06-24 11:33
+- Location: The Times of India
+- Description: Rene Joshilda, an IT consultant, has been arrested by Ahmedabad Cyber Crime Branch. She sent bomb threats to multiple locations across India. The threats targeted schools and public places. Joshilda was obsessed with a colleague. She sent the threats after hi…
 
 
-### ASSAULT on 2025-06-24 06:00
-- Location: Naturalnews.com
-- Description: DHS warns of heightened cyberattack and violence risks from Iranian-backed groups following U.S. strikes on Iran’s nuclear facilities. Iran may escalate cyberattacks if a retaliatory fatwa is issued, targeting U.S. infrastructure like power grids and water sy…
+### ASSAULT on 2025-06-24 11:22
+- Location: NBC News
+- Description: Israel and Iran agree to a precarious truce after nearly two weeks of fighting.
 
-Analysis generated at: Wed Jun 25 06:22:16 UTC 2025
+Analysis generated at: Wed Jun 25 12:29:52 UTC 2025
