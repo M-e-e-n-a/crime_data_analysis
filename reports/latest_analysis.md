@@ -1,10 +1,10 @@
 
-Loaded 40737 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-24 01:52:58
+Loaded 40765 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-24 06:20:07
 
 Incidents by source:
 source
-newsapi           40636
+newsapi           40664
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-06-24 01:52
-- Location: Honolulu Star-Advertiser
-- Description: WASHINGTON >> Federal officials are increasingly concerned about the possibility of Iran or its supporters retaliating on American soil after the bombing of nuclear sites in Iran by U.S. forces.
+### OTHER on 2025-06-24 06:20
+- Location: The-independent.com
+- Description: The Government has issued a warning as part of its wider crackdown on scammers
 
 
-### HOMICIDE on 2025-06-24 01:50
-- Location: Syllad.com
-- Description: Deputy Chief Minister in-charge Home (Police) Prestone Tynsong on Monday said that investigation into the recent murder of Indore businessman (L) Raja Raghuvanshi at Sohra will go beyond the angle of a ‘love triangle’. “We are yet to come to any conclusion. L…
+### HOMICIDE on 2025-06-24 06:19
+- Location: ABC News (AU)
+- Description: The judge in the Erin Patterson triple-murder trial has told the jury that if they believe the evidence given by the accused at trial, they must find her not guilty.
 
 
-### OTHER on 2025-06-24 01:48
-- Location: FOX 31 Denver
-- Description: A weekend gathering of hundreds of teens at Northfield Mall escalated into chaos, prompting a police response and raising questions about safety and planning...
+### OTHER on 2025-06-24 06:00
+- Location: Dramabeans.com
+- Description: We’ve reached the halfway point, and our main villain has stopped denying his villainy in front of the good boys. In fact, he has dared them to do their worst, and it’s left to see how much damage our good boys can inflict on a nemesis who has just about ever…
 
 
-### HOMICIDE on 2025-06-24 01:30
-- Location: Independent.ie
-- Description: Planning a night on the couch? Here are today’s top TV and streaming picks:
+### ASSAULT on 2025-06-24 06:00
+- Location: Naturalnews.com
+- Description: France’s Fête de la Musique turned violent as 145 people, mostly young women and minors, were stabbed with syringes in a suspected coordinated attack. Twelve suspects, including illegal immigrants, were arrested, with fears of date-rape drugs and social media…
 
 
-### HOMICIDE on 2025-06-24 01:21
-- Location: New York Post
-- Description: “You basically let an animal out of a cage. It’s like letting a tiger out of a cage on a piece of meat and he’s going to go right for it and start eating it,” the victim’s father said.…
+### ASSAULT on 2025-06-24 06:00
+- Location: Naturalnews.com
+- Description: DHS warns of heightened cyberattack and violence risks from Iranian-backed groups following U.S. strikes on Iran’s nuclear facilities. Iran may escalate cyberattacks if a retaliatory fatwa is issued, targeting U.S. infrastructure like power grids and water sy…
 
-Analysis generated at: Wed Jun 25 01:57:53 UTC 2025
+Analysis generated at: Wed Jun 25 06:22:16 UTC 2025
