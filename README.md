@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Jun 24 18:20:13 UTC 2025
+Last updated: Wed Jun 25 01:11:08 UTC 2025
 
 ## Latest Analysis
 
-Loaded 40725 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-23 18:13:00
+Loaded 40732 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-24 01:06:20
 
 Incidents by source:
 source
-newsapi           40624
+newsapi           40631
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-06-23 18:13
-- Location: Snopes.com
-- Description: A man in Sunnyside, Washington, claimed ICE would pay up to $1,500 per person bounty hunters brought in.
+### HOMICIDE on 2025-06-24 01:06
+- Location: CBC News
+- Description: Nigeria's Economic and Financial Crimes Commission said Olukeye Adedayo was sentenced last week to prison terms totalling 76 years, after offences that the RCMP said resulted in the boy's "sudden death" in February 2023.
 
 
-### HOMICIDE on 2025-06-23 18:11
-- Location: Fox News
-- Description: Special prosecutor Hank Brennan condemns witness harassment in the Karen Read case after her acquittal on homicide charges in Boston Police Officer John O'Keefe's death.
-
-
-### OTHER on 2025-06-23 18:09
-- Location: Forbes
-- Description: Today, 286,000 rangers patrol the planet’s wild places, roughly one for every 28 square miles. To protect 30% of Earth's land and oceans by 2030, about 1.5 million rangers, one for every 10 square miles, are needed.
-
-
-### OTHER on 2025-06-23 18:06
+### OTHER on 2025-06-24 00:38
 - Location: Boston Herald
-- Description: The prosecution was likely to rest by Tuesday.
+- Description: Massachusetts State Police trooper 'seriously injured' in hit-and-run crash
 
 
-### SHOOTING on 2025-06-23 18:03
-- Location: PBS
-- Description: The massive tax and spending cuts package that President Donald Trump wants on his desk by July 4 would loosen regulations on gun silencers and certain types of rifles and shotguns.
+### HOMICIDE on 2025-06-24 00:35
+- Location: CBC News
+- Description: Provincial police say a man convicted of killing an Ontario couple in the early 1990s has now been charged in a cold case murder.
 
-Analysis generated at: Tue Jun 24 18:20:13 UTC 2025
+
+### HOMICIDE on 2025-06-24 00:31
+- Location: Japan Today
+- Description: A federal jury on Monday awarded $500,000 to the widow and estate of a police officer who killed himself nine days after he helped defend the U.S. Capitol from a mob of rioters, including a man who scuffled with the officer during the attack. The eight-member…
+
+
+### OTHER on 2025-06-24 00:15
+- Location: WPXI Pittsburgh
+- Description: Nearly $55K in copper wiring, brass fittings from West Penn Power substation in Westmoreland Countywpxi.com
+
+Analysis generated at: Wed Jun 25 01:11:08 UTC 2025
