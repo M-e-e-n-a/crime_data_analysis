@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Jun 25 01:11:08 UTC 2025
+Last updated: Wed Jun 25 01:57:53 UTC 2025
 
 ## Latest Analysis
 
-Loaded 40732 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-24 01:06:20
+Loaded 40737 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-24 01:52:58
 
 Incidents by source:
 source
-newsapi           40631
+newsapi           40636
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-06-24 01:06
-- Location: CBC News
-- Description: Nigeria's Economic and Financial Crimes Commission said Olukeye Adedayo was sentenced last week to prison terms totalling 76 years, after offences that the RCMP said resulted in the boy's "sudden death" in February 2023.
+### OTHER on 2025-06-24 01:52
+- Location: Honolulu Star-Advertiser
+- Description: WASHINGTON >> Federal officials are increasingly concerned about the possibility of Iran or its supporters retaliating on American soil after the bombing of nuclear sites in Iran by U.S. forces.
 
 
-### OTHER on 2025-06-24 00:38
-- Location: Boston Herald
-- Description: Massachusetts State Police trooper 'seriously injured' in hit-and-run crash
+### HOMICIDE on 2025-06-24 01:50
+- Location: Syllad.com
+- Description: Deputy Chief Minister in-charge Home (Police) Prestone Tynsong on Monday said that investigation into the recent murder of Indore businessman (L) Raja Raghuvanshi at Sohra will go beyond the angle of a ‘love triangle’. “We are yet to come to any conclusion. L…
 
 
-### HOMICIDE on 2025-06-24 00:35
-- Location: CBC News
-- Description: Provincial police say a man convicted of killing an Ontario couple in the early 1990s has now been charged in a cold case murder.
+### OTHER on 2025-06-24 01:48
+- Location: FOX 31 Denver
+- Description: A weekend gathering of hundreds of teens at Northfield Mall escalated into chaos, prompting a police response and raising questions about safety and planning...
 
 
-### HOMICIDE on 2025-06-24 00:31
-- Location: Japan Today
-- Description: A federal jury on Monday awarded $500,000 to the widow and estate of a police officer who killed himself nine days after he helped defend the U.S. Capitol from a mob of rioters, including a man who scuffled with the officer during the attack. The eight-member…
+### HOMICIDE on 2025-06-24 01:30
+- Location: Independent.ie
+- Description: Planning a night on the couch? Here are today’s top TV and streaming picks:
 
 
-### OTHER on 2025-06-24 00:15
-- Location: WPXI Pittsburgh
-- Description: Nearly $55K in copper wiring, brass fittings from West Penn Power substation in Westmoreland Countywpxi.com
+### HOMICIDE on 2025-06-24 01:21
+- Location: New York Post
+- Description: “You basically let an animal out of a cage. It’s like letting a tiger out of a cage on a piece of meat and he’s going to go right for it and start eating it,” the victim’s father said.…
 
-Analysis generated at: Wed Jun 25 01:11:08 UTC 2025
+Analysis generated at: Wed Jun 25 01:57:53 UTC 2025
