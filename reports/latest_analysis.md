@@ -1,10 +1,10 @@
 
-Loaded 40933 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-25 01:09:45
+Loaded 40939 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-25 01:40:41
 
 Incidents by source:
 source
-newsapi           40832
+newsapi           40838
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-06-25 01:09
-- Location: Crikey
-- Description: Readers deliver some harsh truths about the end of the international rules-based order and Jason Falinski's plan to govern Australia like Texas.
-The post ‘Combat the nutters’: Crikey readers on remaking the Liberals and US hegemony appeared first on Crikey.
+### SHOOTING on 2025-06-25 01:40
+- Location: NBC News
+- Description: The Marine veteran son of a California gardener seen in a graphic video being repeatedly struck on the head by a masked Customs and Border Patrol agent and chased at gunpoint is pushing back against government statements that his father attacked agents with a…
 
 
-### OTHER on 2025-06-25 01:08
-- Location: WDRB
-- Description: South Louisville residents share frustration, concerns about planned closure of Kroger storewdrb.com
+### OTHER on 2025-06-25 01:30
+- Location: Independent.ie
+- Description: Planning a night on the couch? Here are today’s top TV and streaming picks:
 
 
-### HOMICIDE on 2025-06-25 01:06
-- Location: The Star Online
-- Description: NAIROBI (Reuters) -Kenyans are expected to take to the streets in large numbers on Wednesday to mark the one-year anniversary of anti-government protests that culminated in the storming of parliament and several deaths as police opened fire on demonstrators. …
+### SHOOTING on 2025-06-25 01:26
+- Location: Paul Tan's Automotive News
+- Description: At last, Tesla’s Robotaxi service has begun, with passengers getting their first rides starting on Sunday, June 22. Arriving slightly later than the anticipated June 12 launch date reported last month, this is nevertheless a […]
+The post Tesla Robotaxi servic…
 
 
-### OTHER on 2025-06-25 01:03
-- Location: CBC News
-- Description: Police in the rural municipality of De Salaberry are searching for a 17-year-old girl who hasn’t been seen since the weekend.
+### OTHER on 2025-06-25 01:23
+- Location: The Week Magazine
+- Description: The author recommends works by Ramona Emerson, Craig Johnson, and more
 
 
-### OTHER on 2025-06-25 00:41
-- Location: WPXI Pittsburgh
-- Description: Former McKeesport detective pleads guilty to stealing more than $1M from FOP union lodgewpxi.com
+### HOMICIDE on 2025-06-25 01:20
+- Location: Thehillstimes.in
+- Description: SHILLONG, June 24: East Khasi Hills Superintendent of Police, Vivek Syiem on Tuesday informed that the three persons arrested for destroying crucial evidence related to the recent murder of Indore businessman Raja Raghuvanshi at Sohra will be brought to Shill…
 
-Analysis generated at: Thu Jun 26 01:10:19 UTC 2025
+Analysis generated at: Thu Jun 26 01:56:57 UTC 2025
