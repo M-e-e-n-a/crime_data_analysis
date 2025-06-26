@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Jun 26 12:50:15 UTC 2025
+Last updated: Thu Jun 26 18:20:34 UTC 2025
 
 ## Latest Analysis
 
-Loaded 41051 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-25 12:49:05
+Loaded 41144 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-25 18:18:02
 
 Incidents by source:
 source
-newsapi           40950
+newsapi           41043
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-06-25 12:49
-- Location: The Daily Caller
-- Description: French authorities arrested a Briton who staged an expensive but fake private wedding to a girl in Disneyland Paris and found he was a convicted pedophile
+### HOMICIDE on 2025-06-25 18:18
+- Location: The Denver Post
+- Description: Mohamed Soliman also faces 118 criminal charges in state court, including dozens of counts of attempted first-degree murder and assault.
 
 
-### OTHER on 2025-06-25 12:45
-- Location: Www.gov.uk
-- Description: Data security control principles to use when processing and sharing personal data in your service.
+### OTHER on 2025-06-25 18:16
+- Location: Marca
+- Description: Kelvin Joseph&apos;s football career has taken a winding path-from second-round draft pick to bouncing between NFL rosters. But nothing could prepare him for the headlines he&apos;
 
 
-### HOMICIDE on 2025-06-25 12:44
-- Location: Newser
-- Description: A mother of seven in the midst of a messy divorce went out on a date Saturday only to be gunned down along with her date. Authorities say the estranged husband of fitness influencer Gloria Zamora shot the pair outside a sushi restaurant in Fontana, California…
+### OTHER on 2025-06-25 18:15
+- Location: TVLine
+- Description: Scott Speedman is booked and busy: The Felicity and Animal Kingdom vet, who continues to recur on ABC’s Grey’s Anatomy as Meredith’s main squeeze, has landed the title role in the network’s RJ Decker pilot, TVLine has confirmed. Adapted from the Carl Hiaasen …
 
 
-### OTHER on 2025-06-25 12:31
-- Location: WPXI Pittsburgh
-- Description: A man was arrested for selling balloons with nitrous oxide on the University of Pittsburgh campus during a Phish concert on Tuesday.
+### OTHER on 2025-06-25 18:05
+- Location: Israelnationalnews.com
+- Description: As a citizen of Toronto, all I can say is: Welcome to the club.
 
 
-### ROBBERY/THEFT on 2025-06-25 12:30
-- Location: WFTV Orlando
-- Description: Police in Ocala said a former nonprofit executive director has been arrested for organized fraud and grand theft.
+### SHOOTING on 2025-06-25 18:00
+- Location: Inside the Magic
+- Description: If you’re someone who keeps up to date with all the news that comes out of Walt Disney World Resort in Florida, or if you’re an avid parkgoer who’s almost always on site, then you’ll have known about the supposed “shooting” incident that took place there last…
 
-Analysis generated at: Thu Jun 26 12:50:15 UTC 2025
+Analysis generated at: Thu Jun 26 18:20:34 UTC 2025
