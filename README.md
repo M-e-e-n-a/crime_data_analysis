@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Jun 26 01:56:57 UTC 2025
+Last updated: Thu Jun 26 06:21:44 UTC 2025
 
 ## Latest Analysis
 
-Loaded 40939 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-25 01:40:41
+Loaded 40977 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-25 06:05:41
 
 Incidents by source:
 source
-newsapi           40838
+newsapi           40876
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-06-25 01:40
-- Location: NBC News
-- Description: The Marine veteran son of a California gardener seen in a graphic video being repeatedly struck on the head by a masked Customs and Border Patrol agent and chased at gunpoint is pushing back against government statements that his father attacked agents with a…
+### HOMICIDE on 2025-06-25 06:05
+- Location: BBC News
+- Description: Police have announced a new reward to find Peter Falconio body, 24 years on from his outback murder.
 
 
-### OTHER on 2025-06-25 01:30
-- Location: Independent.ie
-- Description: Planning a night on the couch? Here are today’s top TV and streaming picks:
+### HOMICIDE on 2025-06-25 06:03
+- Location: The Star Online
+- Description: (Reuters) -The jury in the trial of an Australian woman accused of a triple murder with a meal she allegedly laced with toxic mushrooms is expected to begin considering its verdict this week, in a case that has gripped the country. Read full story
 
 
-### SHOOTING on 2025-06-25 01:26
-- Location: Paul Tan's Automotive News
-- Description: At last, Tesla’s Robotaxi service has begun, with passengers getting their first rides starting on Sunday, June 22. Arriving slightly later than the anticipated June 12 launch date reported last month, this is nevertheless a […]
-The post Tesla Robotaxi servic…
+### HOMICIDE on 2025-06-25 06:00
+- Location: Newser
+- Description: The teen suspected of fatally stabbing another teen at a Texas high school track meet has been indicted on a first-degree murder charge. The grand jury handed up the indictment Tuesday, the Dallas News reports. Karmelo Anthony, now 18, was 17 when he allegedl…
 
 
-### OTHER on 2025-06-25 01:23
-- Location: The Week Magazine
-- Description: The author recommends works by Ramona Emerson, Craig Johnson, and more
+### OTHER on 2025-06-25 06:00
+- Location: Naturalnews.com
+- Description: Austria’s cabinet has approved legislation allowing law enforcement to use spyware (Bundestrojaner) to infiltrate encrypted messaging apps like WhatsApp, Signal and Telegram. Under the new framework, authorities can monitor encrypted communications even when …
 
 
-### HOMICIDE on 2025-06-25 01:20
-- Location: Thehillstimes.in
-- Description: SHILLONG, June 24: East Khasi Hills Superintendent of Police, Vivek Syiem on Tuesday informed that the three persons arrested for destroying crucial evidence related to the recent murder of Indore businessman Raja Raghuvanshi at Sohra will be brought to Shill…
+### OTHER on 2025-06-25 05:47
+- Location: 404media.co
+- Description: A new site, FuckLAPD.com, is using public records and facial recognition technology to allow anyone to identify police officers in Los Angeles they have a picture of. via Pocket
 
-Analysis generated at: Thu Jun 26 01:56:57 UTC 2025
+Analysis generated at: Thu Jun 26 06:21:44 UTC 2025
