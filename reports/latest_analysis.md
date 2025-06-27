@@ -1,10 +1,10 @@
 
-Loaded 41281 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-26 12:49:00
+Loaded 41369 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-26 18:08:15
 
 Incidents by source:
 source
-newsapi           41180
+newsapi           41268
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,31 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2025-06-26 12:49
-- Location: Newser
-- Description: A British sex offender has been arrested in France after allegedly organizing a mock wedding ceremony with a 9-year-old girl at Disneyland Paris. Authorities say the 39-year-old, identified in media reports as Jacky Jhaj, used a stolen Latvian identity and fo…
+### OTHER on 2025-06-26 18:08
+- Location: Freerepublic.com
+- Description: It has been many years since a political party was cast as far into the wilderness as the Democrats of 2025. Fresh off their second defeat at the hands of their mortal enemy, Donald Trump, it was reasonable to assume that the party would realize the need to a…
 
 
-### OTHER on 2025-06-26 12:45
-- Location: Pfadvice.com
-- Description: Controversial comic book stories are nothing new when it comes to the comics industry. Controversy sells. However, some controversies only create a lot of bad press and angry comic book fans. At that point, the controversy is sometimes not worth the press it …
+### HOMICIDE on 2025-06-26 18:06
+- Location: The Irish Times
+- Description: Man, who was aged in his 50s, and his adult daughter were French citizens but had been living in Dublin for about a decade
 
 
-### OTHER on 2025-06-26 12:45
-- Location: fox6now.com
-- Description: A man has been criminally charged in connection with a stabbing that occurred in the Village of Germantown on June 15.
+### OTHER on 2025-06-26 18:00
+- Location: New Zealand Herald
+- Description: OPINION: What I learned from the London 7/7 bombings
 
 
-### HOMICIDE on 2025-06-26 12:40
-- Location: Gothamist
-- Description: Norman Towers in Queens where police say a 14-year-old boy was fatally shot.
- 
-
-The NYPD was unable to say how the fatality occurred, but no arrests have been made. [ more › ]
+### HOMICIDE on 2025-06-26 17:56
+- Location: ABC News
+- Description: Man sentenced to 60 years for murder of Texas college student in random shootinggo.com
 
 
-### ROBBERY/THEFT on 2025-06-26 12:39
-- Location: The Times of India
-- Description: Clark Olofsson, the infamous Swedish bank robber involved in the 1973 Stockholm bank siege that birthed the term "Stockholm Syndrome," has died at 78 after a long illness. Olofsson, a notorious repeat offender, was serving time when he was brought to the bank…
+### OTHER on 2025-06-26 17:55
+- Location: The Denver Post
+- Description: A man was arrested in Grand County in connection with a missing 14-year-old girl who was found safe in Las Vegas, Aurora police said Wednesday.
 
-Analysis generated at: Fri Jun 27 12:49:13 UTC 2025
+Analysis generated at: Fri Jun 27 18:20:10 UTC 2025
