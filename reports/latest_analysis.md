@@ -1,10 +1,10 @@
 
-Loaded 41163 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-26 01:57:10
+Loaded 41193 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-26 06:12:28
 
 Incidents by source:
 source
-newsapi           41062
+newsapi           41092
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-06-26 01:57
-- Location: Deadline
-- Description: Two years after it was acquired by Briarcliff Entertainment for North American distribution, Sovereign is premiering July 11. In the trailer for writer/director Christian Swegal’s true crime thriller, Nick Offerman and Jacob Tremblay star as Jerry Kane and hi…
+### SHOOTING on 2025-06-26 06:12
+- Location: Slashdot.org
+- Description: Officer 'ambushed' in Santa Monica after approaching suspect wanted in another shooting: PoliceABC News - Breaking News, Latest News and Videos Officer ‘ambushed’ by gunman at upscale Santa Monica mall, police say. Suspect arrestedLos Angeles Times Suspected …
 
 
-### ROBBERY/THEFT on 2025-06-26 01:54
-- Location: Fox News
-- Description: Amid corruption probes and opposition demands for his resignation, Spanish Prime Minister Pedro Sanchez declares intention to run for re-election in 2027.
+### HOMICIDE on 2025-06-26 06:06
+- Location: New York Post
+- Description: The spokesman for the family of Karmelo Anthony launched into yet another racial tirade after the 18-year-old was indicted Tuesday for allegedly stabbing Frisco, Texas, track star Austin Metcalf to death.
 
 
-### OTHER on 2025-06-26 01:53
-- Location: Crikey
-- Description: Don't tell me the mayoral primary success of a Ugandan-born Muslim socialist has people in America acting a bit weird?
-The post America has a totally normal one over NYC mayoral candidate Zohran Mamdani appeared first on Crikey.
+### HOMICIDE on 2025-06-26 06:06
+- Location: ABC News (AU)
+- Description: A former Australian Army reservist who murdered his neighbour by throwing petrol on him and lighting him on fire will be in his 90s by the time he is eligible for parole.
 
 
-### HOMICIDE on 2025-06-26 01:46
-- Location: The Star Online
-- Description: KUALA LUMPUR: Several items belonging to the 20-year-old female university student found murdered at a hostel in Cyberjaya have been reported missing. Read full story
+### OTHER on 2025-06-26 06:00
+- Location: Naturalnews.com
+- Description: Home Secretary Yvette Cooper has announced plans to ban Palestine Action under anti-terror legislation following a break-in at RAF Brize Norton, where two military planes were vandalized. Palestine Action, a direct action group opposing U.K. arms ties to Isra…
 
 
-### HOMICIDE on 2025-06-26 01:36
-- Location: Freerepublic.com
-- Description: A Tube passenger who killed a 'gentle' commuter with one punch after he brushed past him on an escalator will serve less than six years in jail. Rakeem Miles, 23, grabbed AI engineer Samuel Winter, 28, from behind and ripped his top at Southwark underground s…
+### OTHER on 2025-06-26 05:50
+- Location: TheJournal.ie
+- Description: The Israeli prime minister is accused of accepting thousands worth of luxury goods from billionaires in exchange for assisting him with business interests.
 
-Analysis generated at: Fri Jun 27 01:57:53 UTC 2025
+Analysis generated at: Fri Jun 27 06:21:58 UTC 2025
