@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Jun 27 01:11:04 UTC 2025
+Last updated: Fri Jun 27 01:57:53 UTC 2025
 
 ## Latest Analysis
 
-Loaded 41156 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-26 01:07:29
+Loaded 41163 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-26 01:57:10
 
 Incidents by source:
 source
-newsapi           41055
+newsapi           41062
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,31 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-06-26 01:07
-- Location: The Times of India
-- Description: A Santa Monica police officer was injured in a shooting near Santa Monica Place mall, prompting a citywide manhunt. The incident occurred around 2:30 p.m. PT, leading to the closure of the downtown Santa Monica Metro station. The suspect, described as a Black…
+### OTHER on 2025-06-26 01:57
+- Location: Deadline
+- Description: Two years after it was acquired by Briarcliff Entertainment for North American distribution, Sovereign is premiering July 11. In the trailer for writer/director Christian Swegal’s true crime thriller, Nick Offerman and Jacob Tremblay star as Jerry Kane and hi…
 
 
-### OTHER on 2025-06-26 01:01
-- Location: DW (English)
-- Description: The leader of the "Los Choneros" criminal group disappeared from prison in 2024 during an episode of violence. Quito has requested that Macias — also known as Fito — be extradited to the US, President Noboa said.
+### ROBBERY/THEFT on 2025-06-26 01:54
+- Location: Fox News
+- Description: Amid corruption probes and opposition demands for his resignation, Spanish Prime Minister Pedro Sanchez declares intention to run for re-election in 2027.
 
 
-### SHOOTING on 2025-06-26 01:00
-- Location: Allthatsinteresting.com
-- Description: On April 16, 2007, Virginia Tech professor Liviu Librescu tragically died during the worst school shooting in U.S. history — after saving the lives of 22 students.
-The post The Inspiring Life Of Liviu Librescu, The Holocaust Survivor Who Sacrificed Himself At…
+### OTHER on 2025-06-26 01:53
+- Location: Crikey
+- Description: Don't tell me the mayoral primary success of a Ugandan-born Muslim socialist has people in America acting a bit weird?
+The post America has a totally normal one over NYC mayoral candidate Zohran Mamdani appeared first on Crikey.
 
 
-### OTHER on 2025-06-26 01:00
-- Location: ABC News (AU)
-- Description: In April 1980, a group of armed men invaded the Iranian Embassy in London, taking hostages, and issuing demands in the name of a cause almost no one had ever heard of.
-
-The 'Group of the Martyr', a collection of Iranian Arabs, wanted independence for their pr…
-
-
-### HOMICIDE on 2025-06-26 00:57
+### HOMICIDE on 2025-06-26 01:46
 - Location: The Star Online
-- Description: KUALA LUMPUR: The suspect in the murder of a female private university student in Cyberjaya is believed to have made several ATM withdrawals using the victim's bank card following the incident. Read full story
+- Description: KUALA LUMPUR: Several items belonging to the 20-year-old female university student found murdered at a hostel in Cyberjaya have been reported missing. Read full story
 
-Analysis generated at: Fri Jun 27 01:11:04 UTC 2025
+
+### HOMICIDE on 2025-06-26 01:36
+- Location: Freerepublic.com
+- Description: A Tube passenger who killed a 'gentle' commuter with one punch after he brushed past him on an escalator will serve less than six years in jail. Rakeem Miles, 23, grabbed AI engineer Samuel Winter, 28, from behind and ripped his top at Southwark underground s…
+
+Analysis generated at: Fri Jun 27 01:57:53 UTC 2025
