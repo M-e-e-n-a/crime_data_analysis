@@ -1,10 +1,10 @@
 
-Loaded 41450 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-27 06:16:28
+Loaded 41515 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-27 12:18:10
 
 Incidents by source:
 source
-newsapi           41349
+newsapi           41414
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-06-27 06:16
-- Location: ABC News (AU)
-- Description: Japan hangs the "Twitter killer" who murdered and dismembered nine people he met online, in the nation's first enactment of the death penalty since 2022.
+### OTHER on 2025-06-27 12:18
+- Location: BBC News
+- Description: This marks the second wave of arrests within two weeks targeting the police's Crime Intelligence unit.
 
 
-### DRUG RELATED on 2025-06-27 06:04
-- Location: Thehillstimes.in
-- Description: HT DIGITAL AIZAWL, JUNE 27: In a statewide crackdown to commemorate the International Day Against Drug Abuse and Illicit Trafficking, Mizoram’s excise and narcotics department, in collaboration with state police, burned seized drugs worth more than ₹34 crore …
+### OTHER on 2025-06-27 12:18
+- Location: BBC News
+- Description: This marks the second wave of arrests within two weeks targeting the police's Crime Intelligence unit.
 
 
-### ROBBERY/THEFT on 2025-06-27 06:00
-- Location: Starcommunity.com.au
-- Description: A former subcontractor who stole over $165,000 worth of building materials from window supplier Stegbar has avoided jail time. He received a two-year community correction order and a $1,500 fine. Haris Hevesevic of Doveton, 33, pleaded guilty in the County Co…
+### HOMICIDE on 2025-06-27 12:18
+- Location: Thefutoncritic.com
+- Description: On tap are "Her Last Broadcast: The Abduction of Jodi Huisentruit" (Tuesday, July 15); "Trophy Wife: Murder on Safari" (Monday, July 21); and "Mr. & Mrs. Murder" (Wednesday, July 30).
 
 
-### OTHER on 2025-06-27 05:56
-- Location: Israelnationalnews.com
-- Description: The radical candidate poised to become New York’s mayor embodies an alliance between reactionary Islamism and left- wing progressivism. Opinion.
+### DRUG RELATED on 2025-06-27 12:15
+- Location: The Times of India
+- Description: A Canadian man, Johnny Noviello, died in ICE custody in Florida while awaiting deportation, prompting urgent inquiries from Canadian officials. Noviello, convicted on drug charges, was subject to deportation under increased immigration enforcement policies. T…
 
 
-### OTHER on 2025-06-27 05:53
-- Location: Globalsecurity.org
-- Description: The government will protect witnesses in the case against former president Rodrigo Duterte before the International Criminal Court (ICC), the Department of Justice (DOJ) said Thursday.
+### OTHER on 2025-06-27 12:09
+- Location: Decrypt
+- Description: A Moscow court sentenced "Bitmama" to seven years in jail over a crypto scheme saw millions moved daily through informal deals.
 
-Analysis generated at: Sat Jun 28 06:19:38 UTC 2025
+Analysis generated at: Sat Jun 28 12:26:12 UTC 2025
