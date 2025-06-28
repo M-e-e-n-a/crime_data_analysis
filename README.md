@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Jun 28 01:08:23 UTC 2025
+Last updated: Sat Jun 28 01:53:43 UTC 2025
 
 ## Latest Analysis
 
-Loaded 41383 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-27 00:51:58
+Loaded 41393 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-27 01:51:17
 
 Incidents by source:
 source
-newsapi           41282
+newsapi           41292
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-06-27 00:51
-- Location: Crikey
-- Description: The journalist's courtroom fashion sent a strong message, without her having to say a word.
-The post It’s more than a coat: An ode to Antoinette Lattouf’s meaningful courtroom fashion appeared first on Crikey.
+### HOMICIDE on 2025-06-27 01:51
+- Location: The Times of India
+- Description: In Jogulamba Gadwal, police arrested eight individuals, including a newly-wed woman and her lover, for the murder of land surveyor Ganta Tejeshwar. V Tirumala Rao, the lover, and Aishwarya, the wife, orchestrated the crime, hiring contract killers with promis…
 
 
-### OTHER on 2025-06-27 00:38
-- Location: ABC News
-- Description: A few Republicans are reacting with indignation after the Senate parliamentarian advised that some of the measures in their tax and immigration bill could not be included in the legislation
+### DRUG RELATED on 2025-06-27 01:45
+- Location: Khabarhub.com
+- Description: KATHMANDU: June 26 marked the International Day against Drug Abuse and Illicit Trafficking, observed globally under the theme “Breaking the Chain: Prevention, Treatment and Recovery.” Every year, the international community observes this day to raise awarenes…
 
 
-### HOMICIDE on 2025-06-27 00:37
-- Location: ABC News (AU)
-- Description: Justice Christopher Beale is continuing his instructions to the jury in Erin Patterson's murder trial. Ms Patterson is accused of killing three relatives by serving them a beef Wellington containing death cap mushrooms. Follow the proceedings live.
-
-
-### ROBBERY/THEFT on 2025-06-27 00:35
+### SHOOTING on 2025-06-27 01:44
 - Location: fox6now.com
-- Description: Police said a man took $290.14 worth of dog food and products from Pet World in Menomonee Falls on Thursday.
+- Description: Two Milwaukee police officers were shot and injured near 25th and Garfield on Thursday night, June 26.
 
 
-### SHOOTING on 2025-06-27 00:32
-- Location: Fox News
-- Description: Antonio Brown is alleged to have shot the man who waved a Palestinian flag while performing during Kendrick Lamar's Super Bowl halftime show.
+### OTHER on 2025-06-27 01:35
+- Location: PerthNow
+- Description: New Zealand singer/songwriter Lorde threatened with arrest for 'riot incitement' in New York City over planned music videoperthnow.com.au
 
-Analysis generated at: Sat Jun 28 01:08:23 UTC 2025
+
+### DRUG RELATED on 2025-06-27 01:30
+- Location: Mypeoplesreview.com
+- Description: Kathmandu, June 27: In a major breakthrough, India’s Crime Branch investigating the sale of counterfeit cancer medication in New Delhi has […]
+The post Counterfeit cancer drug business: Delhi-Kathmandu connection exposed appeared first on Peoples' Review.
+
+Analysis generated at: Sat Jun 28 01:53:43 UTC 2025
