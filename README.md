@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Jun 29 01:18:20 UTC 2025
+Last updated: Sun Jun 29 02:08:00 UTC 2025
 
 ## Latest Analysis
 
-Loaded 41593 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-28 01:00:00
+Loaded 41598 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-28 02:01:10
 
 Incidents by source:
 source
-newsapi           41492
+newsapi           41497
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-06-28 01:00
-- Location: The Daily Progress
-- Description: In the wake of President Jim Ryan's resignation, hundreds gathered on the UVa Lawn not necessarily to protest his departure but the federal "overreach" that prompted it.
+### HOMICIDE on 2025-06-28 02:01
+- Location: WPXI Pittsburgh
+- Description: A youth leader is speaking out after two teens were shot and killed in broad daylight in Pitcairn.
 
 
-### HOMICIDE on 2025-06-28 00:54
-- Location: CBC News
-- Description: The girl, who can't be identified due to a publication ban, went missing from Edmonton in April 2023, and her remains were found just south of the city in Maskwacis, Alta.
+### ROBBERY/THEFT on 2025-06-28 01:56
+- Location: ABC News (AU)
+- Description: From online crusader to censured councillor, Big Rob's little fights have become big problems for a regional city still recovering from natural disasters.
 
 
-### OTHER on 2025-06-28 00:46
-- Location: Fox News
-- Description: An FBI investigation led to the arrest of Washington Post journalist and deputy video director Thomas Pham LeGro for alleged child pornography possession.
+### OTHER on 2025-06-28 01:50
+- Location: ABC News
+- Description: Louisiana authorities have captured one of two remaining fugitives who escaped from the New Orleans jail six weeks ago
 
 
-### OTHER on 2025-06-28 00:44
-- Location: Freerepublic.com
-- Description: WaPo had a reporter arrested yesterday and his alleged crimes are quite shocking. Thomas Pham LeGro, 48, made his first appearance today in U.S. District Court for allegedly possessing child pornography. LeGro, a journalist at the Washington Post and resident…
+### OTHER on 2025-06-28 01:44
+- Location: ABC News
+- Description: Diddy trial day 34 recap: Defense tries to reframe alleged sex trafficking as 'one of the great modern love stories'go.com
 
 
-### OTHER on 2025-06-28 00:44
-- Location: Freerepublic.com
-- Description: WaPo had a reporter arrested yesterday and his alleged crimes are quite shocking. Thomas Pham LeGro, 48, made his first appearance today in U.S. District Court for allegedly possessing child pornography. LeGro, a journalist at the Washington Post and resident…
+### OTHER on 2025-06-28 01:39
+- Location: Mypeoplesreview.com
+- Description: By Dr. Janardan Subedi In contemporary Nepal, corruption is not an anomaly—it is the operating system. The shamelessness of political […]
+The post The tyranny of fear and the wall of corruption: A socio-philosophical analysis of Nepal’s political decay appear…
 
-Analysis generated at: Sun Jun 29 01:18:20 UTC 2025
+Analysis generated at: Sun Jun 29 02:08:00 UTC 2025
