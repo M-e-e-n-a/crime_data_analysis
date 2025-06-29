@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Jun 28 18:18:31 UTC 2025
+Last updated: Sun Jun 29 01:18:20 UTC 2025
 
 ## Latest Analysis
 
-Loaded 41582 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-27 18:18:15
+Loaded 41593 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-28 01:00:00
 
 Incidents by source:
 source
-newsapi           41481
+newsapi           41492
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-06-27 18:18
-- Location: NBC News
-- Description: A group of fifth-grade students were arrested last fall over an alleged plot to murder a fellow student after being overheard discussing their plans, according to a newly released police report.
+### OTHER on 2025-06-28 01:00
+- Location: The Daily Progress
+- Description: In the wake of President Jim Ryan's resignation, hundreds gathered on the UVa Lawn not necessarily to protest his departure but the federal "overreach" that prompted it.
 
 
-### HOMICIDE on 2025-06-27 18:12
+### HOMICIDE on 2025-06-28 00:54
 - Location: CBC News
-- Description: As food and aid distribution in Gaza continues to be deadly and plagued with violence, influential clans and tribes that have long existed in the territory are taking it upon themselves to secure aid convoys entering the region.
+- Description: The girl, who can't be identified due to a publication ban, went missing from Edmonton in April 2023, and her remains were found just south of the city in Maskwacis, Alta.
 
 
-### OTHER on 2025-06-27 18:06
-- Location: Statetimes.in
-- Description: STATE TIMES NEWS JAMMU: The Special Crime Wing of the Crime Branch, Jammu, has on Friday filed a charge-sheet in FIR No. 38/2023, registered under Section 420 of the Indian Penal Code (IPC) at Police Station Special Crime Wing, Jammu.The case pertains to a fr…
+### OTHER on 2025-06-28 00:46
+- Location: Fox News
+- Description: An FBI investigation led to the arrest of Washington Post journalist and deputy video director Thomas Pham LeGro for alleged child pornography possession.
 
 
-### OTHER on 2025-06-27 18:00
-- Location: ChristianityToday.com
-- Description: On Tuesday, Iranian asylum-seekers were detained in Los Angeles, adding to the count of church members taken despite lawful status.
-
-
-### OTHER on 2025-06-27 17:54
+### OTHER on 2025-06-28 00:44
 - Location: Freerepublic.com
-- Description: Eric Adams was once a rising star in the Democratic Party. His reelection will hinge on taking down the newest one. Hours after Zohran Mamdani’s performance in New York City’s Democratic primary electrified national politics, Adams painted the 33-year-old dem…
+- Description: WaPo had a reporter arrested yesterday and his alleged crimes are quite shocking. Thomas Pham LeGro, 48, made his first appearance today in U.S. District Court for allegedly possessing child pornography. LeGro, a journalist at the Washington Post and resident…
 
-Analysis generated at: Sat Jun 28 18:18:31 UTC 2025
+
+### OTHER on 2025-06-28 00:44
+- Location: Freerepublic.com
+- Description: WaPo had a reporter arrested yesterday and his alleged crimes are quite shocking. Thomas Pham LeGro, 48, made his first appearance today in U.S. District Court for allegedly possessing child pornography. LeGro, a journalist at the Washington Post and resident…
+
+Analysis generated at: Sun Jun 29 01:18:20 UTC 2025
