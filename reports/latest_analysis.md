@@ -1,10 +1,10 @@
 
-Loaded 41623 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-28 06:06:00
+Loaded 41664 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-28 12:26:23
 
 Incidents by source:
 source
-newsapi           41522
+newsapi           41563
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-06-28 06:06
-- Location: The Star Online
-- Description: KUALA LUMPUR: A 24-year-old traffic police officer was tragically killed in an accident while on a traffic crime prevention patrol in the city. Read full story
+### SHOOTING on 2025-06-28 12:26
+- Location: fox6now.com
+- Description: One person was injured in a shooting in Milwaukee just after midnight on Saturday, June 28, 2025.
 
 
-### OTHER on 2025-06-28 06:02
-- Location: Christiantoday.com
-- Description: In 2008, Wilson Femayi was wrongly convicted and sent to prison for a crime he didn’t commit. He had just graduated from Bible college. His arrest — the result of a personal vendetta — was a devastating moment. But even in that dark place, God was at work. To…
+### OTHER on 2025-06-28 12:15
+- Location: Whyevolutionistrue.com
+- Description: Welcome to CaturSaturday, June 28, 2025 and in a week I’ll be flying to Helsinki on the first stage of my Arctic trip. It is of course shabbos for Jewish cats, and National Foodie Day, celebrating all people who like food (see the Wikipedia entry here). I wou…
 
 
-### ROBBERY/THEFT on 2025-06-28 06:00
-- Location: Naturalnews.com
-- Description: In a stunning betrayal of public safety, Denver’s progressive city council has unanimously dismantled a highly effective auto theft tracking system — not because it failed, but because it worked too well. The Flock camera network, responsible for recovering 1…
+### ROBBERY/THEFT on 2025-06-28 12:13
+- Location: The Times of India
+- Description: Kolkata Police established a Special Investigation Team on Saturday. This team will probe the alleged gangrape at South Calcutta Law College. The incident reportedly occurred on June 25. ACP Pradip Kumar Ghosal will supervise the SIT. Police have arrested Man…
 
 
-### HOMICIDE on 2025-06-28 05:40
-- Location: The Star Online
-- Description: Suspect Nguyen Minh Nghia believed to have fled city after allegedly killing 49-year-old compatriot who was reported missing last Saturday Read full story
+### OTHER on 2025-06-28 12:00
+- Location: Fox News
+- Description: Trump pardons Florida diver who faced felony charges after cutting a longline and releasing 19 sharks, believing he was stopping illegal fishing activity.
 
 
-### HOMICIDE on 2025-06-28 05:38
-- Location: CNA
-- Description: The University of Cyberjaya says it is taking prompt disciplinary and security measures, after coming under intense scrutiny following the tragedy, which has raised concerns about student safety.
+### OTHER on 2025-06-28 12:00
+- Location: Daily Signal
+- Description: Zohran Mamdani’s lead in first choices in New York City’s ranked-choice mayoral primary, and his inevitable victory when second, third, fourth, and fifth choices of... Read More
+The post The Barista Proletariat Wins in New York appeared first on The Daily Sig…
 
-Analysis generated at: Sun Jun 29 06:20:02 UTC 2025
+Analysis generated at: Sun Jun 29 12:26:29 UTC 2025
