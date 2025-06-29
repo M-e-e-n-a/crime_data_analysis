@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Jun 29 12:26:29 UTC 2025
+Last updated: Sun Jun 29 12:44:46 UTC 2025
 
 ## Latest Analysis
 
-Loaded 41664 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-28 12:26:23
+Loaded 41668 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-28 12:41:47
 
 Incidents by source:
 source
-newsapi           41563
+newsapi           41567
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
+### OTHER on 2025-06-28 12:41
+- Location: Thechronicle.com.gh
+- Description: The Dansoman Circuit Court has commenced hearings in a case involving two men accused of defrauding a local businesswoman of GH¢150,000 under false pretences in a fraudulent deal involving Nestlé products. The accused persons are Yaw Blankson, 41, a porter an…
+
+
+### HOMICIDE on 2025-06-28 12:35
+- Location: Writersdigest.com
+- Description: Clay Stafford has a conversation with thriller author and former FBI Director James Comey on writing fairly and making stories linger.
+The post A Conversation With James Comey on Writing Fairly and Making Stories Linger (Killer Writers) appeared first on Writ…
+
+
+### OTHER on 2025-06-28 12:34
+- Location: The Times of India
+- Description: Bharatiya Janata Party MP Sambit Patra criticised the West Bengal government regarding the alleged Kolkata gang-rape case. He questioned the insensitivity towards women in the state. Patra claimed the crime was state-sponsored and politically motivated, linki…
+
+
+### OTHER on 2025-06-28 12:30
+- Location: Elliott.org
+- Description: Is the public Wi-Fi network at JFK International Airport safe? That's what one of Vivian Au's customers wanted to know recently.
+
+
 ### SHOOTING on 2025-06-28 12:26
 - Location: fox6now.com
 - Description: One person was injured in a shooting in Milwaukee just after midnight on Saturday, June 28, 2025.
 
-
-### OTHER on 2025-06-28 12:15
-- Location: Whyevolutionistrue.com
-- Description: Welcome to CaturSaturday, June 28, 2025 and in a week I’ll be flying to Helsinki on the first stage of my Arctic trip. It is of course shabbos for Jewish cats, and National Foodie Day, celebrating all people who like food (see the Wikipedia entry here). I wou…
-
-
-### ROBBERY/THEFT on 2025-06-28 12:13
-- Location: The Times of India
-- Description: Kolkata Police established a Special Investigation Team on Saturday. This team will probe the alleged gangrape at South Calcutta Law College. The incident reportedly occurred on June 25. ACP Pradip Kumar Ghosal will supervise the SIT. Police have arrested Man…
-
-
-### OTHER on 2025-06-28 12:00
-- Location: Fox News
-- Description: Trump pardons Florida diver who faced felony charges after cutting a longline and releasing 19 sharks, believing he was stopping illegal fishing activity.
-
-
-### OTHER on 2025-06-28 12:00
-- Location: Daily Signal
-- Description: Zohran Mamdani’s lead in first choices in New York City’s ranked-choice mayoral primary, and his inevitable victory when second, third, fourth, and fifth choices of... Read More
-The post The Barista Proletariat Wins in New York appeared first on The Daily Sig…
-
-Analysis generated at: Sun Jun 29 12:26:29 UTC 2025
+Analysis generated at: Sun Jun 29 12:44:46 UTC 2025
