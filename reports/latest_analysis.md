@@ -1,10 +1,10 @@
 
-Loaded 41737 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-29 01:10:20
+Loaded 41745 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-29 02:02:43
 
 Incidents by source:
 source
-newsapi           41636
+newsapi           41644
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-06-29 01:10
-- Location: Screen Rant
-- Description: Jackie Chan might be the master of martial arts comedy, but there are plenty of hilarious kung fu films that don't star the action movie legend.
+### ASSAULT on 2025-06-29 02:02
+- Location: The Times of India
+- Description: Kolkata Police have formed a Special Investigation Team to investigate the gang rape of a law student on her college campus. The team is analyzing CCTV footage and technical evidence, while the survivor's medical report confirms the assault. Three suspects, i…
 
 
-### HOMICIDE on 2025-06-29 01:06
-- Location: FOX 2 Detroit
-- Description: Samir Grubbs, 4, and Daviyon Shelmonson-Bey, 18 were both shot and killed, and a third 17-year-old victim was shot in a drive-by shooting near Denby High School Friday night.
+### ROBBERY/THEFT on 2025-06-29 01:59
+- Location: The Times of India
+- Description: In Melbourne, police have arrested a man after discovering human remains. The discovery occurred during the search for Joshua Bishop, missing for a month. The remains were found at a Westmeadows home. Bishop was last seen in Sunbury. His mother reported him m…
 
 
-### OTHER on 2025-06-29 00:55
-- Location: Thehillstimes.in
-- Description: IMPHAL, June 28: Manipur Governor Ajay Kumar Bhalla on Saturday ordered the transfer of 11 senior police officers with immediate effect, an official statement said. Those transferred include five Indian Police Service (IPS) officers and six Manipur Police Ser…
+### OTHER on 2025-06-29 01:49
+- Location: Rolling Stone
+- Description: Vice President J.D. Vance wrote that Black Lives Matter supporters should celebrate Donald Trump after Trump negotiated a peace agreement in Africa.
 
 
-### HOMICIDE on 2025-06-29 00:51
+### OTHER on 2025-06-29 01:41
 - Location: New York Post
-- Description: A homeless woman was found dead in a clothing donation box in Florida on Friday after she apparently tried to work her way in to retrieve donated items and got stuck, according to police. Plantation Police Department officers were called at 6:45 a.m. on a rep…
+- Description: It's getting easier to long for the good old days — when Gotham was dominated by machine politics, corruption and fiscal mismanagement.
 
 
-### OTHER on 2025-06-29 00:49
-- Location: Yahoo Entertainment
-- Description: The former Michigan assistant coach is accused of hacking thousands of students' intimate photos.
+### OTHER on 2025-06-29 01:27
+- Location: New York Post
+- Description: "I can tragically say that we have not recovered the head of Julian Story," Detective Superintendent Darren Fielke told reporters Friday.
 
-Analysis generated at: Mon Jun 30 01:15:07 UTC 2025
+Analysis generated at: Mon Jun 30 02:03:06 UTC 2025
