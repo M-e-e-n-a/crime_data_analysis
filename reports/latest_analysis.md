@@ -1,10 +1,10 @@
 
-Loaded 41804 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-29 12:32:13
+Loaded 41867 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-29 18:15:34
 
 Incidents by source:
 source
-newsapi           41703
+newsapi           41766
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-06-29 12:32
+### OTHER on 2025-06-29 18:15
 - Location: Freerepublic.com
-- Description: CWBChicago has obtained surveillance footage of a shooting that left one teenager dead and another gravely wounded near the Douglass Park swimming pool on Thursday evening. Marjay Dotson, 15, died from a gunshot wound to his back, according to the Cook County…
+- Description: From New York, Los Angeles and Chicago, the big cities that are led by Democrats are dying. And the Democrats who lived there know this. It presses down upon them. And the recent ascent of the surging wild-eyed communist Zohran Mamdani over the tired and list…
 
 
-### HOMICIDE on 2025-06-29 12:26
-- Location: BBC News
-- Description: Sarah Montgomery was a 27-year-old mother of two and was pregnant at the time of her death.
+### HOMICIDE on 2025-06-29 18:14
+- Location: New York Daily News
+- Description: Jonaiki Martinez Estrella, 31, is listed as “deceased” as of Friday on the state Corrections Department’s online inmate locator.
 
 
-### HOMICIDE on 2025-06-29 12:22
-- Location: TheJournal.ie
-- Description: A 28-year-old man has been arrested on suspicion of murder and remains in police custody at this time assisting with enquiries.
+### SHOOTING on 2025-06-29 18:10
+- Location: Screen Rant
+- Description: The Salem PD finally makes an arrest in EJ's shooting, and it turns several people against one another, promising to lead to dramatic fallout.
 
 
-### HOMICIDE on 2025-06-29 12:18
-- Location: Sky.com
-- Description: A murder investigation has been launched after a pregnant woman was found dead in Co Down, Northern Ireland, police have said.
+### ROBBERY/THEFT on 2025-06-29 18:07
+- Location: Rlsbb.ru
+- Description: Awards 4 wins & 1 nomination total See more awards » Plot: In 2028 Detroit, when Alex Murphy, a loving husband, father and good cop, is critically injured in the line of duty, the multinational conglomerate OmniCorp sees their chance for a part-man, part-robo…
 
 
-### OTHER on 2025-06-29 12:17
-- Location: The Irish Times
-- Description: Man (19) to appear in court charged with criminal damage and possession of an article with a blade or point
+### HOMICIDE on 2025-06-29 18:01
+- Location: Southasiaviews.com
+- Description: Shillong (Meghalaya), June 29: The Special Investigation Team (SIT) probing the Raja Raghuvanshi murder case has made significant progress, recovering crucial evidence and arresting key suspects. The case has taken a complex turn, with multiple arrests and re…
 
-Analysis generated at: Mon Jun 30 12:50:28 UTC 2025
+Analysis generated at: Mon Jun 30 18:20:21 UTC 2025
