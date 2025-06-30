@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Jun 30 12:29:17 UTC 2025
+Last updated: Mon Jun 30 12:50:28 UTC 2025
 
 ## Latest Analysis
 
-Loaded 41803 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-29 12:26:17
+Loaded 41804 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-29 12:32:13
 
 Incidents by source:
 source
-newsapi           41702
+newsapi           41703
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -23,6 +23,11 @@ bution.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### HOMICIDE on 2025-06-29 12:32
+- Location: Freerepublic.com
+- Description: CWBChicago has obtained surveillance footage of a shooting that left one teenager dead and another gravely wounded near the Douglass Park swimming pool on Thursday evening. Marjay Dotson, 15, died from a gunshot wound to his back, according to the Cook County…
+
 
 ### HOMICIDE on 2025-06-29 12:26
 - Location: BBC News
@@ -43,9 +48,4 @@ bution.svg)
 - Location: The Irish Times
 - Description: Man (19) to appear in court charged with criminal damage and possession of an article with a blade or point
 
-
-### ROBBERY/THEFT on 2025-06-29 12:00
-- Location: AppleInsider
-- Description: New details on the New Jersey counterfeiting indictment, Brad Pitt's home was burgled while promoting "F1: The Movie," and more charges in the Los Angeles Apple Store looting feature in this week's Apple Crime Blotter.The Tower Apple Store in Los Angeles The …
-
-Analysis generated at: Mon Jun 30 12:29:17 UTC 2025
+Analysis generated at: Mon Jun 30 12:50:28 UTC 2025
