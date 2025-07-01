@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Jul  1 01:18:30 UTC 2025
+Last updated: Tue Jul  1 02:08:49 UTC 2025
 
 ## Latest Analysis
 
-Loaded 41881 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-30 01:08:56
+Loaded 41891 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-30 02:08:03
 
 Incidents by source:
 source
-newsapi           41780
+newsapi           41790
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-06-30 01:08
-- Location: The Times of India
-- Description: After firefighters were shot in Coeur d'Alene, Idaho, during an active shooter incident, speculation linked missing veteran Travis Decker to the attack. Decker, wanted in connection with the deaths of his three daughters, remains at large. Authorities have no…
+### OTHER on 2025-06-30 02:08
+- Location: Freerepublic.com
+- Description: A Portland resident confronts Antifa for blaring music past midnight at the ongoing ICE facility occupation: "I'm coming back every night and I'm breaking your sh-t. We the people need sleep. You're worse than ICE, terrorizing us every night. Go f-ck yourself…
 
 
-### OTHER on 2025-06-30 01:00
+### OTHER on 2025-06-30 02:07
+- Location: New Zealand Herald
+- Description: The Justice Minister will announce changes to sentencing laws.
+
+
+### OTHER on 2025-06-30 02:00
 - Location: Thoughtcatalog.com
-- Description: Rappers have been stealing scenes on the big screen for decades, proving their talent goes beyond the mic. From gritty dramas to blockbuster comedies, these 14 films showcase hip-hop legends delivering unforgettable performances.
+- Description: Torn between wanting a date night movie and something that’ll make you double-check your locks? Romantic thrillers scratch that weird, contradictory itch. One minute you’re swooning, the next you’re screaming — sometimes for the exact same reason.
 
 
-### HOMICIDE on 2025-06-30 00:56
-- Location: Marca
-- Description: A tragic event unfolded Sunday in the northern Idaho city of Coeur d&apos;Alene when a shooting left at least two people dead and several others injured while responding to a brush
+### ROBBERY/THEFT on 2025-06-30 01:59
+- Location: Starcommunity.com.au
+- Description: Police are investigating after a ram raid at a business in Narre Warren overnight between Thursday, 26 and Friday, 27 June. It is understood that unknown offenders have used a vehicle to smash the front of the store on Victor Crescent and stole a cash registe…
 
 
-### HOMICIDE on 2025-06-30 00:56
-- Location: WSB Atlanta
-- Description: Police say firefighters were ambushed by sniper fire while responding to a blaze in a northern Idaho mountain community
+### HOMICIDE on 2025-06-30 01:48
+- Location: Starweekly.com.au
+- Description: A Westmeadows man has been charged with murder after human remains were found as part of the search for missing...
+The post Murder charge appeared first on Northern.
 
-
-### OTHER on 2025-06-30 00:37
-- Location: Bleeding Cool News
-- Description: Since we'll have more detailed previews leading up to this week's episode, we're not going to dive too deeply into spoilers (for now). That said, it's safe to say that things are getting tense between the Revivers and the other townspeople heading into the ne…
-
-Analysis generated at: Tue Jul  1 01:18:30 UTC 2025
+Analysis generated at: Tue Jul  1 02:08:49 UTC 2025
