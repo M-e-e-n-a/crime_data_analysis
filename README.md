@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Jun 30 18:20:21 UTC 2025
+Last updated: Tue Jul  1 01:18:30 UTC 2025
 
 ## Latest Analysis
 
-Loaded 41867 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-29 18:15:34
+Loaded 41881 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-30 01:08:56
 
 Incidents by source:
 source
-newsapi           41766
+newsapi           41780
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-06-29 18:15
-- Location: Freerepublic.com
-- Description: From New York, Los Angeles and Chicago, the big cities that are led by Democrats are dying. And the Democrats who lived there know this. It presses down upon them. And the recent ascent of the surging wild-eyed communist Zohran Mamdani over the tired and list…
+### HOMICIDE on 2025-06-30 01:08
+- Location: The Times of India
+- Description: After firefighters were shot in Coeur d'Alene, Idaho, during an active shooter incident, speculation linked missing veteran Travis Decker to the attack. Decker, wanted in connection with the deaths of his three daughters, remains at large. Authorities have no…
 
 
-### HOMICIDE on 2025-06-29 18:14
-- Location: New York Daily News
-- Description: Jonaiki Martinez Estrella, 31, is listed as “deceased” as of Friday on the state Corrections Department’s online inmate locator.
+### OTHER on 2025-06-30 01:00
+- Location: Thoughtcatalog.com
+- Description: Rappers have been stealing scenes on the big screen for decades, proving their talent goes beyond the mic. From gritty dramas to blockbuster comedies, these 14 films showcase hip-hop legends delivering unforgettable performances.
 
 
-### SHOOTING on 2025-06-29 18:10
-- Location: Screen Rant
-- Description: The Salem PD finally makes an arrest in EJ's shooting, and it turns several people against one another, promising to lead to dramatic fallout.
+### HOMICIDE on 2025-06-30 00:56
+- Location: Marca
+- Description: A tragic event unfolded Sunday in the northern Idaho city of Coeur d&apos;Alene when a shooting left at least two people dead and several others injured while responding to a brush
 
 
-### ROBBERY/THEFT on 2025-06-29 18:07
-- Location: Rlsbb.ru
-- Description: Awards 4 wins & 1 nomination total See more awards » Plot: In 2028 Detroit, when Alex Murphy, a loving husband, father and good cop, is critically injured in the line of duty, the multinational conglomerate OmniCorp sees their chance for a part-man, part-robo…
+### HOMICIDE on 2025-06-30 00:56
+- Location: WSB Atlanta
+- Description: Police say firefighters were ambushed by sniper fire while responding to a blaze in a northern Idaho mountain community
 
 
-### HOMICIDE on 2025-06-29 18:01
-- Location: Southasiaviews.com
-- Description: Shillong (Meghalaya), June 29: The Special Investigation Team (SIT) probing the Raja Raghuvanshi murder case has made significant progress, recovering crucial evidence and arresting key suspects. The case has taken a complex turn, with multiple arrests and re…
+### OTHER on 2025-06-30 00:37
+- Location: Bleeding Cool News
+- Description: Since we'll have more detailed previews leading up to this week's episode, we're not going to dive too deeply into spoilers (for now). That said, it's safe to say that things are getting tense between the Revivers and the other townspeople heading into the ne…
 
-Analysis generated at: Mon Jun 30 18:20:21 UTC 2025
+Analysis generated at: Tue Jul  1 01:18:30 UTC 2025
