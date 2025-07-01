@@ -1,10 +1,10 @@
 
-Loaded 42009 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-30 12:40:43
+Loaded 42103 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-30 18:19:32
 
 Incidents by source:
 source
-newsapi           41908
+newsapi           42002
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-06-30 12:40
-- Location: TODAY
-- Description: Bicep curls vs. hammer curls: Which ones tone your arms faster? Plus, the No. 1 food to boost brain health, and more from TODAY for June 30, 2025.
+### OTHER on 2025-06-30 18:19
+- Location: The Times of India
+- Description: Mehul Choksi, accused in the PNB fraud case, has approached the Bombay High Court. He wants the court to dismiss the Enforcement Directorate's application. The ED seeks to declare him a fugitive economic offender. Choksi's lawyer argues he is already in India…
 
 
-### HOMICIDE on 2025-06-30 12:34
-- Location: TMZ
-- Description: The suspected sniper who police say fatally shot two firefighters after intentionally setting a blaze was found dead in a mountainous region of Coeur d'Alene, Idaho. Kootenai County Sheriff Bob Norris announced at a press conference Sunday night…
+### SHOOTING on 2025-06-30 18:17
+- Location: NBC News
+- Description: The suspect believed to have fatally shot two firefighters and wounded a third on Sunday while crews responded to a raging brush fire in northwest Idaho was identified by law enforcement officials on Monday as Wess Roley — a man whose family says dreamed of o…
 
 
-### OTHER on 2025-06-30 12:31
-- Location: Kunstler.com
-- Description: "Betting against Donald Trump is usually a bad idea." —Insurrection Barbie on "X"
+### OTHER on 2025-06-30 18:14
+- Location: TechCrunch
+- Description: US prosecutors indicated a total of 13 people involved in the fraudulent scheme to steal and launder money for North Korea’s nuclear weapons program.
 
 
-### OTHER on 2025-06-30 12:31
-- Location: The Irish Times
-- Description: Isaac Adams (19) told police he spread chicken waste as part of a ‘prank’, court hears
+### ROBBERY/THEFT on 2025-06-30 18:13
+- Location: WFTV Orlando
+- Description: Robin Griffin-Kitzerow, a seasoned law enforcement leader, has been appointed as the next Chief of the UCF Police Department.
 
 
-### SHOOTING on 2025-06-30 12:10
-- Location: HuffPost
-- Description: Authorities have yet to name any suspects, and no arrests have been made so far, police said.
+### OTHER on 2025-06-30 18:12
+- Location: PR Newswire UK
+- Description: LONDON, June 30, 2025 /PRNewswire/ -- On 20 June 2025, Mrs Justice May handed down an important judgment in the ongoing group litigation concerning oil pollution in the Bille and Ogale areas of the Niger Delta. The ruling addressed key Nigerian law issues on …
 
-Analysis generated at: Tue Jul  1 12:50:12 UTC 2025
+Analysis generated at: Tue Jul  1 18:20:11 UTC 2025
