@@ -1,10 +1,10 @@
 
-Loaded 41891 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-30 02:08:03
+Loaded 41932 incidents
+Date range: 2024-01-01 00:00:00 to 2025-06-30 06:13:40
 
 Incidents by source:
 source
-newsapi           41790
+newsapi           41831
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-06-30 02:08
-- Location: Freerepublic.com
-- Description: A Portland resident confronts Antifa for blaring music past midnight at the ongoing ICE facility occupation: "I'm coming back every night and I'm breaking your sh-t. We the people need sleep. You're worse than ICE, terrorizing us every night. Go f-ck yourself…
+### HOMICIDE on 2025-06-30 06:13
+- Location: TheJournal.ie
+- Description: Erin Patterson is charged with murdering her estranged husband’s parents and aunt in July 2023 by spiking a beef Wellington lunch with a deadly fungi.
 
 
-### OTHER on 2025-06-30 02:07
-- Location: New Zealand Herald
-- Description: The Justice Minister will announce changes to sentencing laws.
+### OTHER on 2025-06-30 06:02
+- Location: New York Post
+- Description: "Everyone’s dancing, everyone’s partying, and then everyone’s screaming," a witness said.
 
 
-### OTHER on 2025-06-30 02:00
-- Location: Thoughtcatalog.com
-- Description: Torn between wanting a date night movie and something that’ll make you double-check your locks? Romantic thrillers scratch that weird, contradictory itch. One minute you’re swooning, the next you’re screaming — sometimes for the exact same reason.
+### HOMICIDE on 2025-06-30 06:00
+- Location: Mediaite
+- Description: "This was a total ambush. These firefighters did not have a chance," the Sheriff told reporters after announcing the sniper was found dead on the scene.
+The post ‘One Dead Shooter’: Idaho Police Say Lone Sniper Dead in Ambush Killing of Two Firefighters first…
 
 
-### ROBBERY/THEFT on 2025-06-30 01:59
-- Location: Starcommunity.com.au
-- Description: Police are investigating after a ram raid at a business in Narre Warren overnight between Thursday, 26 and Friday, 27 June. It is understood that unknown offenders have used a vehicle to smash the front of the store on Victor Crescent and stole a cash registe…
+### OTHER on 2025-06-30 06:00
+- Location: Naturalnews.com
+- Description: German police conducted coordinated early morning raids on 170 individuals accused of posting politically incorrect or critical content online, seizing devices and interrogating suspects under expanded hate speech laws. Germany’s revised penal code (Paragraph…
 
 
-### HOMICIDE on 2025-06-30 01:48
-- Location: Starweekly.com.au
-- Description: A Westmeadows man has been charged with murder after human remains were found as part of the search for missing...
-The post Murder charge appeared first on Northern.
+### OTHER on 2025-06-30 06:00
+- Location: Naturalnews.com
+- Description: Get ready for New York City to look and function like one huge prison, as if it doesn’t already. Crime is about to skyrocket to unbearable statistics. The grooming of children will be the norm where funding of genitalia mutilation surgery for gender “confused…
 
-Analysis generated at: Tue Jul  1 02:08:49 UTC 2025
+Analysis generated at: Tue Jul  1 06:22:23 UTC 2025
