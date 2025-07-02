@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Jul  1 18:20:11 UTC 2025
+Last updated: Wed Jul  2 01:10:57 UTC 2025
 
 ## Latest Analysis
 
-Loaded 42103 incidents
-Date range: 2024-01-01 00:00:00 to 2025-06-30 18:19:32
+Loaded 42111 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-01 00:56:06
 
 Incidents by source:
 source
-newsapi           42002
+newsapi           42010
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-06-30 18:19
-- Location: The Times of India
-- Description: Mehul Choksi, accused in the PNB fraud case, has approached the Bombay High Court. He wants the court to dismiss the Enforcement Directorate's application. The ED seeks to declare him a fugitive economic offender. Choksi's lawyer argues he is already in India…
+### OTHER on 2025-07-01 00:56
+- Location: Economictimes.com
+- Description: Breaking News Live Updates: Relentless rain in Himachal Pradesh has unleashed flooding, landslides and road blockages across the state. The Beas River is swelling dangerously while Mandi, Sirmaur and Kullu battle severe disruptions to roads, power lines and w…
 
 
-### SHOOTING on 2025-06-30 18:17
-- Location: NBC News
-- Description: The suspect believed to have fatally shot two firefighters and wounded a third on Sunday while crews responded to a raging brush fire in northwest Idaho was identified by law enforcement officials on Monday as Wess Roley — a man whose family says dreamed of o…
+### SHOOTING on 2025-07-01 00:51
+- Location: KPBS
+- Description: Pastors, activists and police said by working together they helped reduce nonfatal shootings by 54% between 2023 and 2024.
 
 
-### OTHER on 2025-06-30 18:14
-- Location: TechCrunch
-- Description: US prosecutors indicated a total of 13 people involved in the fraudulent scheme to steal and launder money for North Korea’s nuclear weapons program.
+### OTHER on 2025-07-01 00:42
+- Location: Fox News
+- Description: Landscaper charged with breaking and entering after allegedly hosting unauthorized party at client's vacation home in Weddington, collecting entry fees from hundreds of attendees.
 
 
-### ROBBERY/THEFT on 2025-06-30 18:13
-- Location: WFTV Orlando
-- Description: Robin Griffin-Kitzerow, a seasoned law enforcement leader, has been appointed as the next Chief of the UCF Police Department.
+### OTHER on 2025-07-01 00:06
+- Location: Sky.com
+- Description: As we pulled back the hospital curtain, he was hunched over and clearly in pain.
 
 
-### OTHER on 2025-06-30 18:12
-- Location: PR Newswire UK
-- Description: LONDON, June 30, 2025 /PRNewswire/ -- On 20 June 2025, Mrs Justice May handed down an important judgment in the ongoing group litigation concerning oil pollution in the Bille and Ogale areas of the Niger Delta. The ruling addressed key Nigerian law issues on …
+### HOMICIDE on 2025-07-01 00:04
+- Location: Freerepublic.com
+- Description: A police officer who confronted sword killer Marcus Monzo after he murdered 14-year-old Daniel Anjorin in east London has praised his ‘undoubtedly heroic’ colleagues for stopping Monzo’s rampage. Inspector Moloy Campbell’s hand was sliced open by Monzo’s blad…
 
-Analysis generated at: Tue Jul  1 18:20:11 UTC 2025
+Analysis generated at: Wed Jul  2 01:10:57 UTC 2025
