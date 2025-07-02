@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Jul  2 12:49:57 UTC 2025
+Last updated: Wed Jul  2 18:20:58 UTC 2025
 
 ## Latest Analysis
 
-Loaded 42249 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-01 12:43:40
+Loaded 42338 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-01 18:15:55
 
 Incidents by source:
 source
-newsapi           42148
+newsapi           42237
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-07-01 12:43
-- Location: Www.gov.uk
-- Description: The Lord Chancellor and Secretary of State for Justice has confirmed that Cindy Butts is the preferred candidate for appointment to the role of Standing Advocate.
+### OTHER on 2025-07-01 18:15
+- Location: CBS News
+- Description: Jimmy Swaggart, one of the country's best-known televangelists, gave an emotional apology after he was caught in a sex scandal.
 
 
-### HOMICIDE on 2025-07-01 12:43
-- Location: CBC News
-- Description: A 20-year-old man's life appeared to have begun to unravel in the months before authorities say he fatally shot two firefighters and severely wounded a third as they responded to a wildfire near Coeur d'Alene, Idaho.
+### HOMICIDE on 2025-07-01 18:15
+- Location: WISN Milwaukee
+- Description: Tremaine Jones, 22, was charged with first-degree intentional homicide in Officer Kendall Corder's death.
 
 
-### OTHER on 2025-07-01 12:36
+### OTHER on 2025-07-01 18:12
 - Location: The Star Online
-- Description: KUALA LUMPUR: Approximately RM4.16mil worth of imitation firearms were seized following coordinated raids on several premises in Johor, Selangor, and Kuala Lumpur. Read full story
+- Description: NEW YORK (Reuters) -The New York City Election board on Tuesday confirmed a stunning victory by mayoral candidate Zohran Mamdani in the Democratic primary, clearing the way for the political upstart to be the party's nominee for the November mayoral election.…
 
 
-### OTHER on 2025-07-01 12:33
-- Location: Www.gov.uk
-- Description: Victims of major incidents will be better supported following Cindy Butts’ selection as preferred candidate for the Independent Public Advocate (IPA).
+### HOMICIDE on 2025-07-01 18:04
+- Location: NBC News
+- Description: A northwest Idaho community is still reeling after a 20-year-old man was suspected of fatally shooting two firefighters and injuring another after intentionally starting a fire to ambush them.
 
 
-### OTHER on 2025-07-01 12:30
-- Location: Denver7.com
-- Description: Gateway to the Rockies Opioid Council (GROC) has announced ten recipients will receive opioid settlement funding from a series of opioid manufacturers.
+### HOMICIDE on 2025-07-01 18:02
+- Location: Boston Herald
+- Description: The band said it was not calling for the death of any group.
 
-Analysis generated at: Wed Jul  2 12:49:57 UTC 2025
+Analysis generated at: Wed Jul  2 18:20:58 UTC 2025
