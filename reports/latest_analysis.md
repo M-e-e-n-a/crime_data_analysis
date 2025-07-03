@@ -1,10 +1,10 @@
 
-Loaded 42348 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-02 01:03:52
+Loaded 42351 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-02 01:37:57
 
 Incidents by source:
 source
-newsapi           42247
+newsapi           42250
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,6 +20,23 @@ bution.svg)
 
 ## Recent Incidents
 
+### ASSAULT on 2025-07-02 01:37
+- Location: Fox News
+- Description: Los Angeles prosecutors announce charges against more than 40 individuals involved in violent anti-immigration riots, including alleged assault on law enforcement and their horses.
+
+
+### OTHER on 2025-07-02 01:30
+- Location: Legalinsurrection.com
+- Description: It's a riddle wrapped in a mystery inside an enigma.
+The post What Happened In 2013-2014 That Caused Democrat Pride In America To Fall Off A Cliff? first appeared on Le·gal In·sur·rec·tion.
+
+
+### OTHER on 2025-07-02 01:27
+- Location: Mypeoplesreview.com
+- Description: By P.R. Pradhan Prime Minister K.P. Sharma Oli—also chairman of the CPN–UML—has increasingly demonstrated authoritarian tendencies, with his current coalition […]
+The post On/Off the Record: Totalitarian attitude appeared first on Peoples' Review.
+
+
 ### OTHER on 2025-07-02 01:03
 - Location: NBC News
 - Description: Rap-punk duo Bob Vylan on Tuesday rejected claims of antisemitism over onstage comments at the Glastonbury Festival that triggered a police investigation and sparked criticism from politicians, the BBC and festival organizers.
@@ -29,24 +46,4 @@ bution.svg)
 - Location: GamesRadar+
 - Description: What just happened? Let's break down the Ironheart ending and that final resurrection
 
-
-### OTHER on 2025-07-02 01:00
-- Location: Dramabeans.com
-- Description: In our final episodes, it’s time for our characters to make peace with their pasts and take steps toward brighter futures. Now that their journey is coming to a close, our twins and their loved ones strive to find the courage to be more present in their lives…
-
-
-### HOMICIDE on 2025-07-02 00:50
-- Location: Mobileread.com
-- Description: Japan Times gets the section menu but only puts a link to the articles. It may be related to the repeated error message
-
-Looking for large trees in feed_1/article_36/index.html...
-No large trees found
-
-This is way above my skill level which is between zero an…
-
-
-### ROBBERY/THEFT on 2025-07-02 00:48
-- Location: Boston Herald
-- Description: Boston mayoral candidate Josh Kraft hammered Mayor Michelle Wu over worsening conditions in neighborhoods taxed by Mass and Cass spillover, saying that the problem has gotten so out of control that her own staff is admitting failure.
-
-Analysis generated at: Thu Jul  3 01:10:51 UTC 2025
+Analysis generated at: Thu Jul  3 01:57:43 UTC 2025
