@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Jul  2 18:20:58 UTC 2025
+Last updated: Thu Jul  3 01:10:51 UTC 2025
 
 ## Latest Analysis
 
-Loaded 42338 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-01 18:15:55
+Loaded 42348 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-02 01:03:52
 
 Incidents by source:
 source
-newsapi           42237
+newsapi           42247
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,33 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-07-01 18:15
-- Location: CBS News
-- Description: Jimmy Swaggart, one of the country's best-known televangelists, gave an emotional apology after he was caught in a sex scandal.
-
-
-### HOMICIDE on 2025-07-01 18:15
-- Location: WISN Milwaukee
-- Description: Tremaine Jones, 22, was charged with first-degree intentional homicide in Officer Kendall Corder's death.
-
-
-### OTHER on 2025-07-01 18:12
-- Location: The Star Online
-- Description: NEW YORK (Reuters) -The New York City Election board on Tuesday confirmed a stunning victory by mayoral candidate Zohran Mamdani in the Democratic primary, clearing the way for the political upstart to be the party's nominee for the November mayoral election.…
-
-
-### HOMICIDE on 2025-07-01 18:04
+### OTHER on 2025-07-02 01:03
 - Location: NBC News
-- Description: A northwest Idaho community is still reeling after a 20-year-old man was suspected of fatally shooting two firefighters and injuring another after intentionally starting a fire to ambush them.
+- Description: Rap-punk duo Bob Vylan on Tuesday rejected claims of antisemitism over onstage comments at the Glastonbury Festival that triggered a police investigation and sparked criticism from politicians, the BBC and festival organizers.
 
 
-### HOMICIDE on 2025-07-01 18:02
+### OTHER on 2025-07-02 01:01
+- Location: GamesRadar+
+- Description: What just happened? Let's break down the Ironheart ending and that final resurrection
+
+
+### OTHER on 2025-07-02 01:00
+- Location: Dramabeans.com
+- Description: In our final episodes, it’s time for our characters to make peace with their pasts and take steps toward brighter futures. Now that their journey is coming to a close, our twins and their loved ones strive to find the courage to be more present in their lives…
+
+
+### HOMICIDE on 2025-07-02 00:50
+- Location: Mobileread.com
+- Description: Japan Times gets the section menu but only puts a link to the articles. It may be related to the repeated error message
+
+Looking for large trees in feed_1/article_36/index.html...
+No large trees found
+
+This is way above my skill level which is between zero an…
+
+
+### ROBBERY/THEFT on 2025-07-02 00:48
 - Location: Boston Herald
-- Description: The band said it was not calling for the death of any group.
+- Description: Boston mayoral candidate Josh Kraft hammered Mayor Michelle Wu over worsening conditions in neighborhoods taxed by Mass and Cass spillover, saying that the problem has gotten so out of control that her own staff is admitting failure.
 
-Analysis generated at: Wed Jul  2 18:20:58 UTC 2025
+Analysis generated at: Thu Jul  3 01:10:51 UTC 2025
