@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Jul  3 12:48:12 UTC 2025
+Last updated: Thu Jul  3 18:20:14 UTC 2025
 
 ## Latest Analysis
 
-Loaded 42473 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-02 12:35:12
+Loaded 42543 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-02 18:13:56
 
 Incidents by source:
 source
-newsapi           42372
+newsapi           42442
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-07-02 12:35
-- Location: Theregister.com
-- Description: Aeza Group accused of assisting data bandits and BianLian ransomware crooks The US Treasury has sanctioned Aeza Group, a Russian bulletproof hosting (BPH) provider, and four of its cronies for enabling ransomware and other cybercriminal activity.…
+### HOMICIDE on 2025-07-02 18:13
+- Location: CBC News
+- Description: A 39-year-old woman is dead after being stabbed in Selkirk, Man., RCMP say.
 
 
-### HOMICIDE on 2025-07-02 12:30
-- Location: Richmond.com
-- Description: The lives of four University of Idaho students were cut short in 2022 when an intruder stabbed them to death as they slept, a crime that shocked the nation.
+### OTHER on 2025-07-02 18:11
+- Location: Lesswrong.com
+- Description: Published on July 2, 2025 6:11 PM GMTHow some vectors of hatred become taboo, and others get exemptThe Missing Discrimination ProtractorThe barest nub of a definition for the word discriminate has always been simply the neutral ability to discern one thing fr…
 
 
-### HOMICIDE on 2025-07-02 12:29
-- Location: The Irish Times
-- Description: Letby was previously convicted for murdering seven babies and attempting to murder seven others
+### HOMICIDE on 2025-07-02 18:05
+- Location: BBC News
+- Description: Bryan Kohberger, a former criminology student, is set to receive a life sentence for the 2022 murders in a case that shocked America.
 
 
-### HOMICIDE on 2025-07-02 12:26
-- Location: Mediaite
-- Description: The former professor of accused killer Bryan Kohberger relayed the fear that her lectures on serial killers may have inspired him to carry out four brutal murders.
-The post Bryan Kohberger’s Ex-Professor Fears Her Lectures Inspired Him to Kill: ‘Just Horrifyi…
+### HOMICIDE on 2025-07-02 18:01
+- Location: HuffPost
+- Description: Kohberger avoided the death penalty when he pleaded guilty to fatally stabbing four University of Idaho students.
 
 
-### HOMICIDE on 2025-07-02 12:25
-- Location: LADbible
-- Description: Caleb Moore began talking to a 'woman' on social media and his mother claims he was a victim of a 'sextortion' scam, which led to his death.
+### ROBBERY/THEFT on 2025-07-02 18:01
+- Location: Mental Floss
+- Description: The so-called Bogus Bogie made a career out of his uncanny resemblance to the ‘Casablanca’ star.
 
-Analysis generated at: Thu Jul  3 12:48:12 UTC 2025
+Analysis generated at: Thu Jul  3 18:20:14 UTC 2025
