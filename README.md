@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Jul  3 06:22:19 UTC 2025
+Last updated: Thu Jul  3 12:29:24 UTC 2025
 
 ## Latest Analysis
 
-Loaded 42399 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-02 06:04:09
+Loaded 42470 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-02 12:26:46
 
 Incidents by source:
 source
-newsapi           42298
+newsapi           42369
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-07-02 06:04
-- Location: Breaking NEWS in KENYA for Today Right Now & Kenyan News | TUKO
-- Description: Albert Ojwang’s requiem mass turned emotional as doubts over his cause of death grew. Post-mortem, CCTV, and arrests raised more questions than answers.
+### HOMICIDE on 2025-07-02 12:26
+- Location: Mediaite
+- Description: The former professor of accused killer Bryan Kohberger relayed the fear that her lectures on serial killers may have inspired him to carry out four brutal murders.
+The post Bryan Kohberger’s Ex-Professor Fears Her Lectures Inspired Him to Kill: ‘Just Horrifyi…
 
 
-### OTHER on 2025-07-02 06:00
-- Location: TheJournal.ie
-- Description: In a week of political pearl-clutching over artists at Glastonbury, Emma DeSouza wonders why attention isn’t focused on daily atrocities in Gaza.
+### HOMICIDE on 2025-07-02 12:25
+- Location: LADbible
+- Description: Caleb Moore began talking to a 'woman' on social media and his mother claims he was a victim of a 'sextortion' scam, which led to his death.
 
 
-### OTHER on 2025-07-02 06:00
-- Location: Dramabeans.com
-- Description: The first posters have dropped for SBS’s The Winning Try (previously Try – We Become Miracles), joining sports director Yoon Kye-sang (The Frog) in the locker room for some serious huddles as well as some fun. Along with coach Im Se-mi (My Dearest Nemesis) an…
+### SHOOTING on 2025-07-02 12:22
+- Location: The Star Online
+- Description: GEORGE TOWN: Police have launched a manhunt for two unidentified men who fired five shots at a man outside Sekolah Kebangsaan Sungai Nyior on Monday (July 1) evening. Read full story
 
 
-### OTHER on 2025-07-02 06:00
-- Location: CounterPunch
-- Description: When interviewing Tricia McLaughlin, Assistant U.S. Secretary of Homeland Security, PBS's Amna Nawaz asked for clarification on Trump’s flipflop of whether or not to exempt from arrest undocumented agricultural and hospitality workers.  McLaughlin responded t…
+### OTHER on 2025-07-02 12:14
+- Location: ABC News
+- Description: Eyewitness video captured the moment when a fireworks warehouse caught fire and exploded in California.
 
 
-### OTHER on 2025-07-02 06:00
-- Location: Naturalnews.com
-- Description: Law enforcement agencies from Europe and the U.S. arrested five individuals in Spain (Madrid and the Canary Islands) on June 25 for orchestrating a $542 million cryptocurrency investment scam involving over 5,000 victims worldwide. Led by Spain’s Civil Guard …
+### ASSAULT on 2025-07-02 12:09
+- Location: 9to5Mac
+- Description: A Qantas data breach resulting from a cybersecurity attack has put up to 6M customer records at risk of exposure, with names, email addresses, phone numbers, and dates of birth confirmed to be included. The hack was of a contact center database operated by on…
 
-Analysis generated at: Thu Jul  3 06:22:19 UTC 2025
+Analysis generated at: Thu Jul  3 12:29:24 UTC 2025
