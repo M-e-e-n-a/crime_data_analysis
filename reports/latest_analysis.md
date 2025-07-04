@@ -1,10 +1,10 @@
 
-Loaded 42687 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-03 12:41:04
+Loaded 42778 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-03 18:18:27
 
 Incidents by source:
 source
-newsapi           42586
+newsapi           42677
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-07-03 12:41
-- Location: New York Post
-- Description: Edwards-Wallace was entering his freshman season at Division II Newberry College in Newberry, S.C.
+### OTHER on 2025-07-03 18:18
+- Location: BBC News
+- Description: The actor, a near-constant presence in Quentin Tarantino movies, is believed to have died of cardiac arrest.
 
 
-### OTHER on 2025-07-03 12:41
-- Location: Newser
-- Description: Haiti's gangs have gained "near-total control" of the capital and authorities are unable to stop escalating violence across the impoverished Caribbean nation, senior UN officials warned Wednesday. An estimated 90% of the capital Port-au-Prince is now under co…
+### OTHER on 2025-07-03 18:17
+- Location: Israelnationalnews.com
+- Description: These young pioneers are not violent criminals. They are the front line of Jewish resilience. Opinion.
 
 
-### HOMICIDE on 2025-07-03 12:40
-- Location: WSB Atlanta
-- Description: Four people were killed and 14 others were wounded in a drive-by shooting at a Chicago restaurant and lounge.
+### ASSAULT on 2025-07-03 18:13
+- Location: BroBible
+- Description: Former boxing champ Julio Cesar Chavez Jr. is facing deportation to Mexico. Over the weekend, Chavez Jr. faced off against Jake Paul in a lackluster fight at Anaheim, California. Days after his unanimous decision loss to Paul, Chavez Jr., son of Mexican boxin…
 
 
-### HOMICIDE on 2025-07-03 12:37
-- Location: Boston Herald
-- Description: Eric Tarpinian-Jachym, an intern in the office of Rep. Ron Estes, was shot and killed in Northwest D.C. on Monday night, Metropolitan Police and the Kansas Republican confirmed.
+### HOMICIDE on 2025-07-03 18:11
+- Location: The Times of India
+- Description: Michael Madsen, renowned for his tough-guy roles in Quentin Tarantino's films like Reservoir Dogs and Kill Bill, passed away at 67 due to cardiac arrest. His chilling portrayal of Mr. Blonde in Reservoir Dogs cemented his status as a screen villain. Madsen's …
 
 
-### OTHER on 2025-07-03 12:36
-- Location: CBC News
-- Description: Haiti's gangs have gained "near-total control" of the capital and authorities are unable to stop escalating violence across the impoverished Caribbean nation, senior UN officials warned Wednesday.
+### OTHER on 2025-07-03 18:08
+- Location: Breitbart News
+- Description: A Queens driving school reportedly conspired with three Staten Island Department of Motor Vehicles (DMV) workers in a driver's license fraud scheme, the district attorney and New York State Inspector General's Office said.
+The post Inspector General: Migrants…
 
-Analysis generated at: Fri Jul  4 12:48:58 UTC 2025
+Analysis generated at: Fri Jul  4 18:19:42 UTC 2025
