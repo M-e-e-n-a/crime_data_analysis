@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Jul  4 01:10:26 UTC 2025
+Last updated: Fri Jul  4 06:21:55 UTC 2025
 
 ## Latest Analysis
 
-Loaded 42556 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-03 01:09:00
+Loaded 42593 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-03 06:14:16
 
 Incidents by source:
 source
-newsapi           42455
+newsapi           42492
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### DRUG RELATED on 2025-07-03 01:09
-- Location: Sky.com
-- Description: A red shipping container sits on the tarmac of Sierra Leone's Queen Elizabeth II Quay, under swinging cranes and towering stacks of similar steel boxes.
+### OTHER on 2025-07-03 06:14
+- Location: Forrester.com
+- Description: Digital identity, once a dream for seamless global authentication and verification, now fragments along geopolitical fault lines. European companies are tightening ranks and forming alliances. China is sharpening its grip with a view to consumer protection an…
 
 
-### ROBBERY/THEFT on 2025-07-03 01:00
-- Location: Allthatsinteresting.com
-- Description: The Great Canadian Maple Syrup Heist took place over several months between 2011 and 2012, when thieves siphoned 3,330 tons of maple syrup from a facility in Quebec. 
-The post The Great Maple Syrup Heist: How A Ragtag Group Of Thieves In Canada Stole $18 Mill…
+### OTHER on 2025-07-03 06:14
+- Location: Globalsecurity.org
+- Description: Spiralling violent and humanitarian crises are pushing Haiti "closer to the brink", senior United Nations officials warned the Security Council today, as emboldened gangs expand their control and the risk of a total collapse of State authority in the capital …
 
 
-### HOMICIDE on 2025-07-03 00:48
-- Location: New York Post
-- Description: Torigoe was pronounced dead by first responders minutes later, police said.
+### SHOOTING on 2025-07-03 06:13
+- Location: ABC News
+- Description: Chicago police say they are responding to a shooting in which multiple people have been hit
 
 
-### OTHER on 2025-07-03 00:45
-- Location: CBC News
-- Description: At least 11 Toronto speed cameras have been vandalized this week, police say, and the latest is outside Dufferin Mall in the city's west end.
+### OTHER on 2025-07-03 06:13
+- Location: Globalsecurity.org
+- Description: More than 1.3 million people have been displaced in Haiti as surging gang violence, lawlessness, and impunity expose the population - especially women and girls - to heightened risks of exploitation and sexual violence.
 
 
-### HOMICIDE on 2025-07-03 00:33
-- Location: Yahoo Entertainment
-- Description: The lead prosecutor tasked with finding justice for four University of Idaho students killed in a grisly quadruple stabbing more than two years ago laid out ...
+### OTHER on 2025-07-03 05:41
+- Location: Israelnationalnews.com
+- Description: A call to American Jewish leadership about the urgency of courage in facing antisemitism. Opinion.
 
-Analysis generated at: Fri Jul  4 01:10:26 UTC 2025
+Analysis generated at: Fri Jul  4 06:21:55 UTC 2025
