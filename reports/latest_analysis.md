@@ -1,10 +1,10 @@
 
-Loaded 42543 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-02 18:13:56
+Loaded 42556 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-03 01:09:00
 
 Incidents by source:
 source
-newsapi           42442
+newsapi           42455
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-07-02 18:13
+### DRUG RELATED on 2025-07-03 01:09
+- Location: Sky.com
+- Description: A red shipping container sits on the tarmac of Sierra Leone's Queen Elizabeth II Quay, under swinging cranes and towering stacks of similar steel boxes.
+
+
+### ROBBERY/THEFT on 2025-07-03 01:00
+- Location: Allthatsinteresting.com
+- Description: The Great Canadian Maple Syrup Heist took place over several months between 2011 and 2012, when thieves siphoned 3,330 tons of maple syrup from a facility in Quebec. 
+The post The Great Maple Syrup Heist: How A Ragtag Group Of Thieves In Canada Stole $18 Mill…
+
+
+### HOMICIDE on 2025-07-03 00:48
+- Location: New York Post
+- Description: Torigoe was pronounced dead by first responders minutes later, police said.
+
+
+### OTHER on 2025-07-03 00:45
 - Location: CBC News
-- Description: A 39-year-old woman is dead after being stabbed in Selkirk, Man., RCMP say.
+- Description: At least 11 Toronto speed cameras have been vandalized this week, police say, and the latest is outside Dufferin Mall in the city's west end.
 
 
-### OTHER on 2025-07-02 18:11
-- Location: Lesswrong.com
-- Description: Published on July 2, 2025 6:11 PM GMTHow some vectors of hatred become taboo, and others get exemptThe Missing Discrimination ProtractorThe barest nub of a definition for the word discriminate has always been simply the neutral ability to discern one thing fr…
+### HOMICIDE on 2025-07-03 00:33
+- Location: Yahoo Entertainment
+- Description: The lead prosecutor tasked with finding justice for four University of Idaho students killed in a grisly quadruple stabbing more than two years ago laid out ...
 
-
-### HOMICIDE on 2025-07-02 18:05
-- Location: BBC News
-- Description: Bryan Kohberger, a former criminology student, is set to receive a life sentence for the 2022 murders in a case that shocked America.
-
-
-### HOMICIDE on 2025-07-02 18:01
-- Location: HuffPost
-- Description: Kohberger avoided the death penalty when he pleaded guilty to fatally stabbing four University of Idaho students.
-
-
-### ROBBERY/THEFT on 2025-07-02 18:01
-- Location: Mental Floss
-- Description: The so-called Bogus Bogie made a career out of his uncanny resemblance to the ‘Casablanca’ star.
-
-Analysis generated at: Thu Jul  3 18:20:14 UTC 2025
+Analysis generated at: Fri Jul  4 01:10:26 UTC 2025
