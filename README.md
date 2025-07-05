@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Jul  5 01:07:50 UTC 2025
+Last updated: Sat Jul  5 01:53:23 UTC 2025
 
 ## Latest Analysis
 
-Loaded 42786 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-04 01:05:45
+Loaded 42797 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-04 01:49:24
 
 Incidents by source:
 source
-newsapi           42685
+newsapi           42696
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2025-07-04 01:05
-- Location: ABC News (AU)
-- Description: A magistrate is scathing of the 38-year-old woman's use of clients' bank cards at a residential care facility, disputing claims that she was in a "complete drug psychosis" at the time of offending.
+### DRUG RELATED on 2025-07-04 01:49
+- Location: The Times of India
+- Description: In Kondhwa, Pune, a 22-year-old data scientist was allegedly raped in her apartment by a man posing as a courier delivery agent. The assailant sprayed a chemical on her face, took a selfie with her, and threatened to upload it if she reported the crime.
 
 
-### OTHER on 2025-07-04 01:04
-- Location: Boston Herald
-- Description: Massachusetts teenagers accused of yelling homophobic slurs at people in Provincetown: 'These events are disturbing'
+### ROBBERY/THEFT on 2025-07-04 01:45
+- Location: NBCSports.com
+- Description: Former Dolphins safety Reshad Jones had $2.58 million stolen by a 49-year-old woman with the help of a former Merrill Lynch financial advisor, Ryan Mackey of Local 10 News reports.
 
 
-### SHOOTING on 2025-07-04 01:00
-- Location: STLtoday.com
-- Description: Victim had a non-life-threatening wound. Police say victim's father was taken into custody for questioning.
+### OTHER on 2025-07-04 01:44
+- Location: Breaking NEWS in KENYA for Today Right Now & Kenyan News | TUKO
+- Description: Mourners danced through the night for Albert Ojwang as his burial neared. The blogger passed away while in police custody, sparking national uproar.
 
 
-### ROBBERY/THEFT on 2025-07-04 01:00
-- Location: Allthatsinteresting.com
-- Description: Between 2013 and 2017, Russian con artist Anna Delvey stole an estimated $275,000 by making fake bank statements, cashing bad checks, and borrowing money from acquaintances without paying them back to maintain a lavish lifestyle under a false identity.
-The po…
+### ASSAULT on 2025-07-04 01:31
+- Location: The Denver Post
+- Description: The arrest affidavit for Michelle McMillan describes allegations of the educator sexually assaulting a former student and showing children explicit photos.
 
 
-### HOMICIDE on 2025-07-04 00:53
-- Location: Slashdot.org
-- Description: Pediatrician allegedly smothered 4-year-old daughter, staged death as drowning: PoliceABC News - Breaking News, Latest News and Videos An Oklahoma pediatrician is accused of staging her daughter's accidental death in FloridaNBC News Oklahoma Pediatrician Accu…
+### ROBBERY/THEFT on 2025-07-04 01:29
+- Location: CBS News
+- Description: Four suspects are in police custody and two remain at large after authorities said they robbed a jewelry store in North Andover.
 
-Analysis generated at: Sat Jul  5 01:07:50 UTC 2025
+Analysis generated at: Sat Jul  5 01:53:23 UTC 2025
