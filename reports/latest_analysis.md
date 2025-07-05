@@ -1,10 +1,10 @@
 
-Loaded 42897 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-04 12:08:28
+Loaded 42899 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-04 12:31:48
 
 Incidents by source:
 source
-newsapi           42796
+newsapi           42798
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -19,6 +19,17 @@ bution.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### OTHER on 2025-07-04 12:31
+- Location: Breitbart News
+- Description: The passage by Congress of the "One Big Beautiful Bill Act" includes a provision for the reimbursement of funds spent by states on border security. Texas led the nation in state border security spending and could receive up to $11 billion in reimbursements.
+T…
+
+
+### HOMICIDE on 2025-07-04 12:27
+- Location: TMZ
+- Description: Outkast's Antwan "Big Boi" Patton lost a family member to senseless gun violence last month in Georgia -- and police have now made two arrests in the murder case. Jabyrion Crumbley turned himself in to the authorities Wednesday after he fatally…
+
 
 ### OTHER on 2025-07-04 12:08
 - Location: The Times of India
@@ -35,14 +46,4 @@ On Reddit, someone asked non-Jap…
 - Location: Foreign Policy
 - Description: At the bloc’s annual summit, Brazil hopes to focus on economic development rather than anti-Western antagonism.
 
-
-### OTHER on 2025-07-04 12:00
-- Location: Deadline
-- Description: Hello, all. It’s Insider time. Jesse Whittock here from a cooling London that was earlier this week among the hottest places on Earth. All the big international TV and film news to follow. Let’s begin. Sign up for the newsletter here. Glastonbury Firestorm Fa…
-
-
-### SHOOTING on 2025-07-04 11:57
-- Location: Al Jazeera English
-- Description: Two young members of a Palestinian family were left with life-altering injuries when Israeli police opened fire.
-
-Analysis generated at: Sat Jul  5 12:26:03 UTC 2025
+Analysis generated at: Sat Jul  5 12:43:57 UTC 2025
