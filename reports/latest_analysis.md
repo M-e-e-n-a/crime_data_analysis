@@ -1,10 +1,10 @@
 
-Loaded 42778 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-03 18:18:27
+Loaded 42786 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-04 01:05:45
 
 Incidents by source:
 source
-newsapi           42677
+newsapi           42685
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-07-03 18:18
-- Location: BBC News
-- Description: The actor, a near-constant presence in Quentin Tarantino movies, is believed to have died of cardiac arrest.
+### ROBBERY/THEFT on 2025-07-04 01:05
+- Location: ABC News (AU)
+- Description: A magistrate is scathing of the 38-year-old woman's use of clients' bank cards at a residential care facility, disputing claims that she was in a "complete drug psychosis" at the time of offending.
 
 
-### OTHER on 2025-07-03 18:17
-- Location: Israelnationalnews.com
-- Description: These young pioneers are not violent criminals. They are the front line of Jewish resilience. Opinion.
+### OTHER on 2025-07-04 01:04
+- Location: Boston Herald
+- Description: Massachusetts teenagers accused of yelling homophobic slurs at people in Provincetown: 'These events are disturbing'
 
 
-### ASSAULT on 2025-07-03 18:13
-- Location: BroBible
-- Description: Former boxing champ Julio Cesar Chavez Jr. is facing deportation to Mexico. Over the weekend, Chavez Jr. faced off against Jake Paul in a lackluster fight at Anaheim, California. Days after his unanimous decision loss to Paul, Chavez Jr., son of Mexican boxin…
+### SHOOTING on 2025-07-04 01:00
+- Location: STLtoday.com
+- Description: Victim had a non-life-threatening wound. Police say victim's father was taken into custody for questioning.
 
 
-### HOMICIDE on 2025-07-03 18:11
-- Location: The Times of India
-- Description: Michael Madsen, renowned for his tough-guy roles in Quentin Tarantino's films like Reservoir Dogs and Kill Bill, passed away at 67 due to cardiac arrest. His chilling portrayal of Mr. Blonde in Reservoir Dogs cemented his status as a screen villain. Madsen's …
+### ROBBERY/THEFT on 2025-07-04 01:00
+- Location: Allthatsinteresting.com
+- Description: Between 2013 and 2017, Russian con artist Anna Delvey stole an estimated $275,000 by making fake bank statements, cashing bad checks, and borrowing money from acquaintances without paying them back to maintain a lavish lifestyle under a false identity.
+The po…
 
 
-### OTHER on 2025-07-03 18:08
-- Location: Breitbart News
-- Description: A Queens driving school reportedly conspired with three Staten Island Department of Motor Vehicles (DMV) workers in a driver's license fraud scheme, the district attorney and New York State Inspector General's Office said.
-The post Inspector General: Migrants…
+### HOMICIDE on 2025-07-04 00:53
+- Location: Slashdot.org
+- Description: Pediatrician allegedly smothered 4-year-old daughter, staged death as drowning: PoliceABC News - Breaking News, Latest News and Videos An Oklahoma pediatrician is accused of staging her daughter's accidental death in FloridaNBC News Oklahoma Pediatrician Accu…
 
-Analysis generated at: Fri Jul  4 18:19:42 UTC 2025
+Analysis generated at: Sat Jul  5 01:07:50 UTC 2025
