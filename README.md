@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Jul  5 12:43:57 UTC 2025
+Last updated: Sat Jul  5 18:18:03 UTC 2025
 
 ## Latest Analysis
 
-Loaded 42899 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-04 12:31:48
+Loaded 42980 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-04 18:15:11
 
 Incidents by source:
 source
-newsapi           42798
+newsapi           42879
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,30 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-07-04 12:31
-- Location: Breitbart News
-- Description: The passage by Congress of the "One Big Beautiful Bill Act" includes a provision for the reimbursement of funds spent by states on border security. Texas led the nation in state border security spending and could receive up to $11 billion in reimbursements.
-T…
+### HOMICIDE on 2025-07-04 18:15
+- Location: fox6now.com
+- Description: A Milwaukee man is accused of killing a 73-year-old man who was asleep on a bench at Cream City Gardens, located near 13th and Juneau, on June 30.
 
 
-### HOMICIDE on 2025-07-04 12:27
-- Location: TMZ
-- Description: Outkast's Antwan "Big Boi" Patton lost a family member to senseless gun violence last month in Georgia -- and police have now made two arrests in the murder case. Jabyrion Crumbley turned himself in to the authorities Wednesday after he fatally…
+### OTHER on 2025-07-04 18:08
+- Location: The Denver Post
+- Description: A 15-year-old girl was last seen the evening of July 3 in the 2400 block of Alma Avenue in Pueblo. Officers believe she might be heading to the Denver area.
 
 
-### OTHER on 2025-07-04 12:08
-- Location: The Times of India
-- Description: The Delhi High Court dismissed Jacqueline Fernandez's plea to quash an FIR against her in a Rs 200 crore money laundering case involving Sukesh Chandrasekhar. The court rejected her argument of the ED's "pick and choose" policy regarding other actors who rece…
+### OTHER on 2025-07-04 18:02
+- Location: New York Post
+- Description: Footage from the arrest of Mexican boxer Julio César Chávez Jr. earlier this week showed the 39-year-old getting detained by ICE agents.
 
 
-### OTHER on 2025-07-04 12:02
-- Location: Demilked.com
-- Description: Japan is often seen as a dream destination for its rich culture, delicious food, efficient public transport, and stunning natural beauty. But like any country, living there comes with its challenges, especially for foreigners.
-On Reddit, someone asked non-Jap…
+### OTHER on 2025-07-04 18:00
+- Location: Dramabeans.com
+- Description: A twisted love that confines and punishes against an unconditional love that sacrifices and gives, these are the two halves of our heroine’s past. As her father corners her and the police turn their suspicions towards her, our forensic pathologist must outwit…
 
 
-### OTHER on 2025-07-04 12:00
-- Location: Foreign Policy
-- Description: At the bloc’s annual summit, Brazil hopes to focus on economic development rather than anti-Western antagonism.
+### OTHER on 2025-07-04 17:51
+- Location: Variety
+- Description: Mark Snow, the veteran television composer who turned “The X-Files” theme into an unlikely chart hit in the 1990s, died at 3:30 a.m. Friday at his home in Connecticut. He was 78. A 15-time Emmy nominee, he not only scored more than 200 episodes of Chris Carte…
 
-Analysis generated at: Sat Jul  5 12:43:57 UTC 2025
+Analysis generated at: Sat Jul  5 18:18:03 UTC 2025
