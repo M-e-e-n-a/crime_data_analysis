@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Jul  6 06:20:08 UTC 2025
+Last updated: Sun Jul  6 12:26:36 UTC 2025
 
 ## Latest Analysis
 
-Loaded 43007 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-05 06:14:18
+Loaded 43055 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-05 12:09:42
 
 Incidents by source:
 source
-newsapi           42906
+newsapi           42954
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,32 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-07-05 06:14
-- Location: New York Post
-- Description: The arrest came only days after the former middleweight champion lost a match against influencer-turned-boxer Jake Paul in Anaheim, California.
+### ASSAULT on 2025-07-05 12:09
+- Location: Breitbart News
+- Description: An arsonist set fire to the door of a Melbourne synagogue and forced the congregation to flee on Friday, seven months after criminals destroyed a synagogue in the same Australian city with an accelerant-fueled blaze that left a worshipper injured.
+The post Me…
 
 
-### HOMICIDE on 2025-07-05 05:57
-- Location: The Star Online
-- Description: JITRA: Two men suspected to be criminals were shot dead in a shoot-out with police at the North-South Expressway entrance ramp here at 8.05am on Saturday (July 5) Read full story
+### SHOOTING on 2025-07-05 12:01
+- Location: Researchbuzz.me
+- Description: I’ve been working on making datasets which took up all my ResearchBuzz time, which is why I missed a couple of days. The work paid off with a new tool. Enter a city/state in the US and get a …
 
 
-### SHOOTING on 2025-07-05 05:51
-- Location: CNA
-- Description: In a statement on Friday (Jul 4), Johor police chief M Kumar said CCTV footage showed that two individuals in a dark coloured car had left the body at Sultanah Aminah Hospital in Johor Bahru.
+### OTHER on 2025-07-05 12:00
+- Location: The Denver Post
+- Description: Denver’s crime statistics paint a nuanced picture of how public safety can change between neighborhoods, with some areas seeing decreases last year while others trended in the opposite direction.
 
 
-### OTHER on 2025-07-05 05:35
-- Location: The Times of India
-- Description: Hyderabad Cyber Crime police apprehended Manish Kumar Sharma at Delhi airport for his alleged involvement in a widespread investment fraud. Sharma is wanted in connection with 22 cases across Telangana. His arrest stems from a case where he defrauded a Hydera…
+### OTHER on 2025-07-05 12:00
+- Location: Richmond.com
+- Description: A look at some of the most fascinating subterranean features in Richmond, from fresh water springs to networks of tunnels.
 
 
-### SHOOTING on 2025-07-05 05:32
-- Location: The Times of India
-- Description: CCTV footage captured the assassination of Bihar businessman Gopal Khemka outside his Patna residence. The video reveals a planned attack, with the assailant firing at close range before fleeing on a motorcycle. Police are analyzing the footage and spent bull…
+### OTHER on 2025-07-05 12:00
+- Location: Catholicnewsagency.com
+- Description: null / Credit: A and I Kruk/Shutterstock
 
-Analysis generated at: Sun Jul  6 06:20:08 UTC 2025
+CNA Staff, Jul 5, 2025 / 08:00 am (CNA).
+As more Catholic parishes and notable Catholic figures become the targets of scammers, a new initiative has been launched to help Catholics spot a scam and avoid becoming victi…
+
+Analysis generated at: Sun Jul  6 12:26:36 UTC 2025
