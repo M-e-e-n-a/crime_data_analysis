@@ -1,10 +1,10 @@
 
-Loaded 43057 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-05 12:38:00
+Loaded 43121 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-05 18:14:00
 
 Incidents by source:
 source
-newsapi           42956
+newsapi           43020
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-07-05 12:38
-- Location: The Star Online
-- Description: KUALA LUMPUR: Some RM96.35mil worth of metal products and equipment were seized after police crippled a syndicate involved in the illegal importation and distribution of uncertified metal products. Read full story
+### OTHER on 2025-07-05 18:14
+- Location: Newser
+- Description: The mayors of three major cities in southern Turkey were arrested on Saturday, state-run media reported, joining a growing list of opposition figures detained since the mayor of Istanbul was imprisoned in March. Abdurrahman Tutdere, the mayor of Adiyaman, and…
 
 
-### HOMICIDE on 2025-07-05 12:35
+### DRUG RELATED on 2025-07-05 18:11
+- Location: Freerepublic.com
+- Description: Police officers in Germany now have to fear if their collegaues have been bought and their lives are in danger.. Criminal organizations, drug trafficking, money laundering and corruption – a new documentary by German public broadcaster ZDF has revealed seriou…
+
+
+### SHOOTING on 2025-07-05 18:10
+- Location: The Daily Progress
+- Description: A shootout in Charlottesville's Fifeville neighborhood injured five people, including two small children and two teenagers, all of them bystanders.
+
+
+### OTHER on 2025-07-05 18:03
+- Location: KCRA Sacramento
+- Description: Thousands of illegal fireworks lit up the sky in Northern California despite warnings of fines and increased enforcement.
+
+
+### OTHER on 2025-07-05 18:00
 - Location: The Times of India
-- Description: In Bengaluru, a 42-year-old civil engineer died after a fight with his wife, who confessed to hitting him in self-defense during a violent argument. The man, reportedly intoxicated and involved in an affair, had a history of domestic disputes with his wife.
+- Description: Nehal Modi, implicated in the ₹25,000-crore Punjab National Bank fraud, has been arrested in New York following India's extradition request. Already jailed for diamond fraud, his parole was denied, paving the way for extradition proceedings set to begin on Ju…
 
-
-### ASSAULT on 2025-07-05 12:09
-- Location: Breitbart News
-- Description: An arsonist set fire to the door of a Melbourne synagogue and forced the congregation to flee on Friday, seven months after criminals destroyed a synagogue in the same Australian city with an accelerant-fueled blaze that left a worshipper injured.
-The post Me…
-
-
-### SHOOTING on 2025-07-05 12:01
-- Location: Researchbuzz.me
-- Description: I’ve been working on making datasets which took up all my ResearchBuzz time, which is why I missed a couple of days. The work paid off with a new tool. Enter a city/state in the US and get a …
-
-
-### OTHER on 2025-07-05 12:00
-- Location: The Denver Post
-- Description: Denver’s crime statistics paint a nuanced picture of how public safety can change between neighborhoods, with some areas seeing decreases last year while others trended in the opposite direction.
-
-Analysis generated at: Sun Jul  6 12:45:11 UTC 2025
+Analysis generated at: Sun Jul  6 18:18:57 UTC 2025
