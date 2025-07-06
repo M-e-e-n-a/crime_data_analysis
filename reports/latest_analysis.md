@@ -1,10 +1,10 @@
 
-Loaded 42980 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-04 18:15:11
+Loaded 42989 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-05 01:14:14
 
 Incidents by source:
 source
-newsapi           42879
+newsapi           42888
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-07-04 18:15
+### HOMICIDE on 2025-07-05 01:14
+- Location: CBC News
+- Description: Toronto police have identified a 62-year-old man killed in an apparent murder-suicide in Scarborough.
+
+
+### SHOOTING on 2025-07-05 01:08
+- Location: The Advocate
+- Description: Tasmania police find guns, drugs, and stolen car in Bridgenorth. Red Mitsubishi Mirage still missing. Call 131 444 with information.
+
+
+### HOMICIDE on 2025-07-05 01:00
+- Location: Allthatsinteresting.com
+- Description: Though Marilyn Sheppard's husband was initially found guilty of her murder, his conviction was overturned in 1966 and her true killer remains unidentified to this day.
+The post The Unsolved Murder Of Marilyn Sheppard, The Ohio Mother Who Was Beaten To Death I…
+
+
+### OTHER on 2025-07-05 00:35
 - Location: fox6now.com
-- Description: A Milwaukee man is accused of killing a 73-year-old man who was asleep on a bench at Cream City Gardens, located near 13th and Juneau, on June 30.
+- Description: A West Bend man convicted in connection with a Fond du Lac County crash, which happened on New Year's Eve 2023, has been sentenced to jail.
 
 
-### OTHER on 2025-07-04 18:08
-- Location: The Denver Post
-- Description: A 15-year-old girl was last seen the evening of July 3 in the 2400 block of Alma Avenue in Pueblo. Officers believe she might be heading to the Denver area.
+### OTHER on 2025-07-05 00:30
+- Location: Thegatewaypundit.com
+- Description: Just 34 percent of Democrats now say they are proud to be American.
+The post Just 34 Percent of Democrats Are Now Proud to Be American — Driving Overall Patriotism to All-Time Low appeared first on The Gateway Pundit.
 
-
-### OTHER on 2025-07-04 18:02
-- Location: New York Post
-- Description: Footage from the arrest of Mexican boxer Julio César Chávez Jr. earlier this week showed the 39-year-old getting detained by ICE agents.
-
-
-### OTHER on 2025-07-04 18:00
-- Location: Dramabeans.com
-- Description: A twisted love that confines and punishes against an unconditional love that sacrifices and gives, these are the two halves of our heroine’s past. As her father corners her and the police turn their suspicions towards her, our forensic pathologist must outwit…
-
-
-### OTHER on 2025-07-04 17:51
-- Location: Variety
-- Description: Mark Snow, the veteran television composer who turned “The X-Files” theme into an unlikely chart hit in the 1990s, died at 3:30 a.m. Friday at his home in Connecticut. He was 78. A 15-time Emmy nominee, he not only scored more than 200 episodes of Chris Carte…
-
-Analysis generated at: Sat Jul  5 18:18:03 UTC 2025
+Analysis generated at: Sun Jul  6 01:17:17 UTC 2025
