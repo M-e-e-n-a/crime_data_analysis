@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Jul  6 12:26:36 UTC 2025
+Last updated: Sun Jul  6 12:45:11 UTC 2025
 
 ## Latest Analysis
 
-Loaded 43055 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-05 12:09:42
+Loaded 43057 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-05 12:38:00
 
 Incidents by source:
 source
-newsapi           42954
+newsapi           42956
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -23,6 +23,16 @@ bution.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### OTHER on 2025-07-05 12:38
+- Location: The Star Online
+- Description: KUALA LUMPUR: Some RM96.35mil worth of metal products and equipment were seized after police crippled a syndicate involved in the illegal importation and distribution of uncertified metal products. Read full story
+
+
+### HOMICIDE on 2025-07-05 12:35
+- Location: The Times of India
+- Description: In Bengaluru, a 42-year-old civil engineer died after a fight with his wife, who confessed to hitting him in self-defense during a violent argument. The man, reportedly intoxicated and involved in an affair, had a history of domestic disputes with his wife.
+
 
 ### ASSAULT on 2025-07-05 12:09
 - Location: Breitbart News
@@ -39,17 +49,4 @@ The post Me…
 - Location: The Denver Post
 - Description: Denver’s crime statistics paint a nuanced picture of how public safety can change between neighborhoods, with some areas seeing decreases last year while others trended in the opposite direction.
 
-
-### OTHER on 2025-07-05 12:00
-- Location: Richmond.com
-- Description: A look at some of the most fascinating subterranean features in Richmond, from fresh water springs to networks of tunnels.
-
-
-### OTHER on 2025-07-05 12:00
-- Location: Catholicnewsagency.com
-- Description: null / Credit: A and I Kruk/Shutterstock
-
-CNA Staff, Jul 5, 2025 / 08:00 am (CNA).
-As more Catholic parishes and notable Catholic figures become the targets of scammers, a new initiative has been launched to help Catholics spot a scam and avoid becoming victi…
-
-Analysis generated at: Sun Jul  6 12:26:36 UTC 2025
+Analysis generated at: Sun Jul  6 12:45:11 UTC 2025
