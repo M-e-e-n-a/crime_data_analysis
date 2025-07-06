@@ -1,10 +1,10 @@
 
-Loaded 42990 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-05 01:53:13
+Loaded 43007 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-05 06:14:18
 
 Incidents by source:
 source
-newsapi           42889
+newsapi           42906
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-07-05 01:53
-- Location: WSOC Charlotte
-- Description: A 23-year-old Charlotte man faces 71 charges following a series of car break-ins and gun thefts across the area.
+### OTHER on 2025-07-05 06:14
+- Location: New York Post
+- Description: The arrest came only days after the former middleweight champion lost a match against influencer-turned-boxer Jake Paul in Anaheim, California.
 
 
-### HOMICIDE on 2025-07-05 01:14
-- Location: CBC News
-- Description: Toronto police have identified a 62-year-old man killed in an apparent murder-suicide in Scarborough.
+### HOMICIDE on 2025-07-05 05:57
+- Location: The Star Online
+- Description: JITRA: Two men suspected to be criminals were shot dead in a shoot-out with police at the North-South Expressway entrance ramp here at 8.05am on Saturday (July 5) Read full story
 
 
-### SHOOTING on 2025-07-05 01:08
-- Location: The Advocate
-- Description: Tasmania police find guns, drugs, and stolen car in Bridgenorth. Red Mitsubishi Mirage still missing. Call 131 444 with information.
+### SHOOTING on 2025-07-05 05:51
+- Location: CNA
+- Description: In a statement on Friday (Jul 4), Johor police chief M Kumar said CCTV footage showed that two individuals in a dark coloured car had left the body at Sultanah Aminah Hospital in Johor Bahru.
 
 
-### HOMICIDE on 2025-07-05 01:00
-- Location: Allthatsinteresting.com
-- Description: Though Marilyn Sheppard's husband was initially found guilty of her murder, his conviction was overturned in 1966 and her true killer remains unidentified to this day.
-The post The Unsolved Murder Of Marilyn Sheppard, The Ohio Mother Who Was Beaten To Death I…
+### OTHER on 2025-07-05 05:35
+- Location: The Times of India
+- Description: Hyderabad Cyber Crime police apprehended Manish Kumar Sharma at Delhi airport for his alleged involvement in a widespread investment fraud. Sharma is wanted in connection with 22 cases across Telangana. His arrest stems from a case where he defrauded a Hydera…
 
 
-### OTHER on 2025-07-05 00:35
-- Location: fox6now.com
-- Description: A West Bend man convicted in connection with a Fond du Lac County crash, which happened on New Year's Eve 2023, has been sentenced to jail.
+### SHOOTING on 2025-07-05 05:32
+- Location: The Times of India
+- Description: CCTV footage captured the assassination of Bihar businessman Gopal Khemka outside his Patna residence. The video reveals a planned attack, with the assailant firing at close range before fleeing on a motorcycle. Police are analyzing the footage and spent bull…
 
-Analysis generated at: Sun Jul  6 02:06:38 UTC 2025
+Analysis generated at: Sun Jul  6 06:20:08 UTC 2025
