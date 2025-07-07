@@ -1,10 +1,10 @@
 
-Loaded 43138 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-06 02:01:00
+Loaded 43152 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-06 05:04:25
 
 Incidents by source:
 source
-newsapi           43037
+newsapi           43051
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-07-06 02:01
-- Location: Forbes
-- Description: After the International Criminal Court issued an arrest warrant for Vladimir Putin, the Russian dictator could be detained by any of the 125 nations that are ICC members.
+### HOMICIDE on 2025-07-06 05:04
+- Location: The Times of India
+- Description: Following the murder of businessman Gopal Khemka in Patna, Congress leader Rahul Gandhi has criticized the BJP and Chief Minister Nitish Kumar, accusing them of turning Bihar into India's "crime capital." Gandhi asserted that the upcoming assembly polls are c…
 
 
-### OTHER on 2025-07-06 01:54
-- Location: Breitbart News
-- Description: Federal officials arrested more than 200 criminals as part of a joint operation in New Jersey called "Operation Apex Hammer," according to a New York Post report.
-The post Report: Federal Officials Arrest More than 200 Criminals in Joint Operation appeared fi…
+### HOMICIDE on 2025-07-06 05:04
+- Location: The Times of India
+- Description: Following the murder of businessman Gopal Khemka in Patna, Congress leader Rahul Gandhi has criticized the BJP and Chief Minister Nitish Kumar, accusing them of turning Bihar into India's "crime capital." Gandhi asserted that the upcoming assembly polls are c…
 
 
-### OTHER on 2025-07-06 01:50
-- Location: Freerepublic.com
-- Description: This dentist sure has a dirty mouth. Elmo Randolph, 68, turned himself into police in the upscale Bergen County borough of Closter on Thursday after being caught scribbling a swastika on a parked car. Randolph, of Orange, was charged with fourth-degree bias i…
+### HOMICIDE on 2025-07-06 04:56
+- Location: New York Post
+- Description: Two potentially dangerous social media trends could get kids and homeowners in trouble this summer.
 
 
-### ASSAULT on 2025-07-06 01:46
-- Location: CNA
-- Description: SYDNEY: Australian police have charged a man in connection with an alleged arson attack on a Melbourne synagogue with worshippers in the building, the latest in a series of incidents targeting the nation's Jewish communi
+### OTHER on 2025-07-06 04:52
+- Location: soompi
+- Description: On the next episode of “Salon de Holmes,” Lee Jae Kyoon will be taken into police custody! ENA’s “Salon de Holmes” is a comedy-action drama about four women—a sharp-witted sleuth, a former ace detective, an insurance queen, and a part-time job expert—who live…
 
 
-### ASSAULT on 2025-07-06 01:45
-- Location: Japan Today
-- Description: Australian police have charged a man in connection with an alleged arson attack on a Melbourne synagogue with worshippers in the building, the latest in a series of incidents targeting the nation's Jewish community. There were no injuries to the 20 people ins…
+### HOMICIDE on 2025-07-06 04:38
+- Location: The Times of India
+- Description: Leonardo Rizzuto, son of the late Vito Rizzuto, has had his law license suspended by the Barreau du Québec following his arrest in Project Alliance, a major organized crime investigation. Rizzuto and others face first-degree murder charges related to a 2011 k…
 
-Analysis generated at: Mon Jul  7 02:03:40 UTC 2025
+Analysis generated at: Mon Jul  7 06:23:11 UTC 2025
