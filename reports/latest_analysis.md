@@ -1,10 +1,10 @@
 
-Loaded 43186 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-06 12:48:26
+Loaded 43224 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-06 17:58:34
 
 Incidents by source:
 source
-newsapi           43085
+newsapi           43123
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-07-06 12:48
-- Location: Fair Observer
-- Description: Zohran Mamdani, the Democrat mayoral candidate for New York, has caught the fancy of many around the world. Yet when we take a closer look at him, the 33-year-old does not appear so wonderful. If Mamdani isn’t a fraud, he’s certainly one of the most dangerous…
+### ASSAULT on 2025-07-06 17:58
+- Location: Wnd.com
+- Description: 'He didn't like their opinion or what was being said. The gentleman just took it into his own hands. He speared the one gentleman over that flowerpot into the window and knocked him out. He was out cold for several minutes'
 
 
-### HOMICIDE on 2025-07-06 12:40
-- Location: CBS News
-- Description: Families and children were gathered at the sports center in the violent state of Guanajuato, where Ignacio Alejandro Roaro, a city council secretary in Apaseo el Grande, was killed.
+### HOMICIDE on 2025-07-06 17:46
+- Location: The-independent.com
+- Description: Police were called to Wendy Tolbert’s home in the Logan Square section of the city just after 9:00am on Friday after someone called 911 to report a person armed with a knife.
 
 
-### ASSAULT on 2025-07-06 12:24
-- Location: CBS News
-- Description: The male lion, named Zeus, attacked the 53-year-old farmer who was sleeping outdoors after watering pistachio trees, local media reported.
+### HOMICIDE on 2025-07-06 17:36
+- Location: Vanity Fair
+- Description: True crime obsessives were gearing up for the trial of the century. Instead, admitted University of Idaho mass killer Bryan Kohberger will live out his days in a prison far from the spotlight.
 
 
-### HOMICIDE on 2025-07-06 12:16
-- Location: BBC News
-- Description: Police said the man had a number of injuries and was declared dead at the property.
+### HOMICIDE on 2025-07-06 17:18
+- Location: The Times of India
+- Description: Bangladesh saw a rise in violence during June. Manobadhikar Sanskriti Foundation reported increased rapes and mob beatings. Gang rapes and violence against women remained high. Mob beatings led to ten deaths. Victims faced accusations of robbery, theft, and o…
 
 
-### HOMICIDE on 2025-07-06 12:10
-- Location: The Star Online
-- Description: KOTA KINABALU: A teacher is believed to have been murdered by her mentally unstable elder brother in Kg Tenghilan, Tamparuli, some 35km from here. Read full story
+### OTHER on 2025-07-06 17:18
+- Location: Latest News in Nigeria & Breaking Naija News 24/7 | LEGIT.NG
+- Description: VDM reacts to a video of Babiana, a Northern lady, crying online after her sexual video was leaked. VDM calls her out for trolling others and warns her of karma.
 
-Analysis generated at: Mon Jul  7 12:50:20 UTC 2025
+Analysis generated at: Mon Jul  7 18:20:30 UTC 2025
