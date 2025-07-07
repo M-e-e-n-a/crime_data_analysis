@@ -1,10 +1,10 @@
 
-Loaded 43121 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-05 18:14:00
+Loaded 43130 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-06 01:04:58
 
 Incidents by source:
 source
-newsapi           43020
+newsapi           43029
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-07-05 18:14
-- Location: Newser
-- Description: The mayors of three major cities in southern Turkey were arrested on Saturday, state-run media reported, joining a growing list of opposition figures detained since the mayor of Istanbul was imprisoned in March. Abdurrahman Tutdere, the mayor of Adiyaman, and…
-
-
-### DRUG RELATED on 2025-07-05 18:11
+### HOMICIDE on 2025-07-06 01:04
 - Location: Freerepublic.com
-- Description: Police officers in Germany now have to fear if their collegaues have been bought and their lives are in danger.. Criminal organizations, drug trafficking, money laundering and corruption – a new documentary by German public broadcaster ZDF has revealed seriou…
+- Description: They brought the hammer down on the worst of the worst. Federal authorities have swept up 264 wanted criminals — including two illegal migrants wanted for sex crimes — in New Jersey in an ongoing mission dubbed “Operation Apex Hammer” that nabbed suspects wan…
 
 
-### SHOOTING on 2025-07-05 18:10
-- Location: The Daily Progress
-- Description: A shootout in Charlottesville's Fifeville neighborhood injured five people, including two small children and two teenagers, all of them bystanders.
+### OTHER on 2025-07-06 01:00
+- Location: Dramabeans.com
+- Description: Making a best-of list is no easy task. While we all have our favorites, knowing exactly what makes a drama so special requires a bit of context and a lot of compare and contrast. Dramabeans is no stranger to strong (and well-informed) opinions and with that i…
 
 
-### OTHER on 2025-07-05 18:03
-- Location: KCRA Sacramento
-- Description: Thousands of illegal fireworks lit up the sky in Northern California despite warnings of fines and increased enforcement.
+### SHOOTING on 2025-07-06 00:58
+- Location: New York Post
+- Description: Charles Edward Stevenson Jr., 20, is accused of firing a single shot at the girl's dad, who was driving a Ford F150.
 
 
-### OTHER on 2025-07-05 18:00
-- Location: The Times of India
-- Description: Nehal Modi, implicated in the ₹25,000-crore Punjab National Bank fraud, has been arrested in New York following India's extradition request. Already jailed for diamond fraud, his parole was denied, paving the way for extradition proceedings set to begin on Ju…
+### SHOOTING on 2025-07-06 00:52
+- Location: Slashdot.org
+- Description: Alleged mastermind behind shooting of Colombian senator, presidential candidate arrested, authorities sayCBS News Key suspect arrested in shooting of Colombia senatorBBC Alleged organiser of shooting of Colombian senator caught by policeThe Guardian Colombia …
 
-Analysis generated at: Sun Jul  6 18:18:57 UTC 2025
+
+### OTHER on 2025-07-06 00:47
+- Location: The Daily Caller
+- Description: Federal authorities swept up 264 wanted criminals — including two illegal migrants wanted for sex crimes — in New Jersey.
+
+Analysis generated at: Mon Jul  7 01:15:09 UTC 2025
