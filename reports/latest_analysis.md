@@ -1,10 +1,10 @@
 
-Loaded 43224 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-06 17:58:34
+Loaded 43225 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-07 00:01:08
 
 Incidents by source:
 source
-newsapi           43123
+newsapi           43124
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -19,6 +19,11 @@ bution.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### HOMICIDE on 2025-07-07 00:01
+- Location: WSOC Charlotte
+- Description: Police are searching for a man who is believed to have killed a woman in Hickory Friday night.
+
 
 ### ASSAULT on 2025-07-06 17:58
 - Location: Wnd.com
@@ -39,9 +44,4 @@ bution.svg)
 - Location: The Times of India
 - Description: Bangladesh saw a rise in violence during June. Manobadhikar Sanskriti Foundation reported increased rapes and mob beatings. Gang rapes and violence against women remained high. Mob beatings led to ten deaths. Victims faced accusations of robbery, theft, and o…
 
-
-### OTHER on 2025-07-06 17:18
-- Location: Latest News in Nigeria & Breaking Naija News 24/7 | LEGIT.NG
-- Description: VDM reacts to a video of Babiana, a Northern lady, crying online after her sexual video was leaked. VDM calls her out for trolling others and warns her of karma.
-
-Analysis generated at: Mon Jul  7 18:20:30 UTC 2025
+Analysis generated at: Tue Jul  8 01:11:24 UTC 2025
