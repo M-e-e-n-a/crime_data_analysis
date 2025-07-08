@@ -1,10 +1,10 @@
 
-Loaded 43225 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-07 00:01:08
+Loaded 43226 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-07 01:41:11
 
 Incidents by source:
 source
-newsapi           43124
+newsapi           43125
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -19,6 +19,11 @@ bution.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### HOMICIDE on 2025-07-07 01:41
+- Location: New Zealand Herald
+- Description: Tribute paid to Jock Davies, who had battled leukemia as a teenager.
+
 
 ### HOMICIDE on 2025-07-07 00:01
 - Location: WSOC Charlotte
@@ -39,9 +44,4 @@ bution.svg)
 - Location: Vanity Fair
 - Description: True crime obsessives were gearing up for the trial of the century. Instead, admitted University of Idaho mass killer Bryan Kohberger will live out his days in a prison far from the spotlight.
 
-
-### HOMICIDE on 2025-07-06 17:18
-- Location: The Times of India
-- Description: Bangladesh saw a rise in violence during June. Manobadhikar Sanskriti Foundation reported increased rapes and mob beatings. Gang rapes and violence against women remained high. Mob beatings led to ten deaths. Victims faced accusations of robbery, theft, and o…
-
-Analysis generated at: Tue Jul  8 01:11:24 UTC 2025
+Analysis generated at: Tue Jul  8 01:58:22 UTC 2025
