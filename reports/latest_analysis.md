@@ -1,10 +1,10 @@
 
-Loaded 43263 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-07 06:20:45
+Loaded 43335 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-07 12:29:29
 
 Incidents by source:
 source
-newsapi           43162
+newsapi           43234
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-07-07 06:20
-- Location: Breaking NEWS in KENYA for Today Right Now & Kenyan News | TUKO
-- Description: Bishop Kiengei mourned Boniface Kariuki, a victim of police brutality who belonged to his church, stirring emotional scenes and conversation about political climate.
+### OTHER on 2025-07-07 12:29
+- Location: Raw Story
+- Description: The United States government is no longer able to protect us from real hazards, such as flash floods, because it’s shifting funds to fake hazards, such as a non-existent immigrant crime wave.The Federal Emergency Management Agency has been stripped down so mu…
 
 
-### OTHER on 2025-07-07 06:00
-- Location: Naturalnews.com
-- Description: The Small Business Administration (SBA) approved California Gov. Gavin Newsom’s request for disaster relief after Los Angeles suffered an estimated $1 billion in damages from anti-ICE riots. The declaration unlocks up to $2 million in low-interest Economic In…
+### ROBBERY/THEFT on 2025-07-07 12:26
+- Location: Securityaffairs.com
+- Description: Taiwan warns Chinese apps like TikTok and WeChat pose security risks due to excessive data collection and data transfers to China. Taiwan National Security Bureau (NSB) warns that Chinese apps like TikTok, WeChat, Weibo, and Baidu Cloud pose security risks du…
 
 
-### HOMICIDE on 2025-07-07 05:57
-- Location: Thehillstimes.in
-- Description: HT DIGITAL GUWAHATI, JULY 7: In a shocking incident in Guwahati’s Bamunimaidam area, a woman was brutally murdered by her brother-in-law on Saturday night following a dispute related to a forced marriage proposal. The victim, identified as Galeza Bibi, was re…
+### HOMICIDE on 2025-07-07 12:20
+- Location: RTE
+- Description: Two brothers of convicted murderer Jozef Puska, along with their wives, who were guilty of charges connected with their actions in the aftermath of the murder of teacher Ashling Murphy, will not appeal their convictions
 
 
-### OTHER on 2025-07-07 05:56
-- Location: ABC News (AU)
-- Description: Police have charged a man in regards to an online tradie scam in which he allegedly collected thousands of dollars in deposits for work never carried out for clients he found on social media.
+### HOMICIDE on 2025-07-07 12:19
+- Location: BBC News
+- Description: A provincial police chief accuses the minister of trying to prevent investigations into political killings.
 
 
-### DRUG RELATED on 2025-07-07 05:52
-- Location: Digital Journal
-- Description: Mexico’s attorney general office said a court has so far rejected requests from boxer Julio Cesar Chavez Jr. to not be arrested in the event of his deportation from the United States, where he was detained for alleged drug trafficking ties. Chavez, a former w…
+### HOMICIDE on 2025-07-07 12:14
+- Location: FOX 2 Detroit
+- Description: A Detroit Department of Transportation bus driver is now facing charges after he allegedly stabbed a passenger last week.
 
-Analysis generated at: Tue Jul  8 06:22:09 UTC 2025
+Analysis generated at: Tue Jul  8 12:30:08 UTC 2025
