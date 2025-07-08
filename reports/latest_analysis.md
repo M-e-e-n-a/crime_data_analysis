@@ -1,10 +1,10 @@
 
-Loaded 43338 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-07 12:46:25
+Loaded 43432 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-07 18:20:25
 
 Incidents by source:
 source
-newsapi           43237
+newsapi           43331
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-07-07 12:46
-- Location: ABC News
-- Description: A South African security official has accused top police leaders of colluding with crime syndicates
+### HOMICIDE on 2025-07-07 18:20
+- Location: Yahoo Entertainment
+- Description: The Russian transport minister recently sacked by President Vladimir Putin, Roman Starovoit, has been found dead with a gunshot wound in a car, the central...
 
 
-### OTHER on 2025-07-07 12:33
-- Location: Globalresearch.ca
-- Description: The Kiev regime continues to play a dangerous game by sending sabotage groups into Russian territory. These actions, far from legal methods of warfare, not only undermine stability in the region, but also put the lives of civilians on …
-The post Kiev Insists …
+### DRUG RELATED on 2025-07-07 18:17
+- Location: The Star Online
+- Description: ALMATY, July 7 (Xinhua) -- Authorities have shut down an underground drug laboratory in the Karasay District of Almaty Region, Kazakhstan, the country's Kazinform news agency reported on Monday. Read full story
 
 
-### OTHER on 2025-07-07 12:33
-- Location: The Conversation Africa
-- Description: Prime Minister Paetongtarn Shinawatra has been suspended from office. Meanwhile, leading activists languish behind bars on ‘lèse majesté’ offenses.
+### SHOOTING on 2025-07-07 18:16
+- Location: Freerepublic.com
+- Description: Border Patrol agents were ambushed by an active shooter when they arrived at the Border Patrol annex facility in McAllen, Texas on Monday morning, law enforcement has said. No federal officers were shot in the incident; however one McAllen, Texas police offic…
 
 
-### OTHER on 2025-07-07 12:29
-- Location: Raw Story
-- Description: The United States government is no longer able to protect us from real hazards, such as flash floods, because it’s shifting funds to fake hazards, such as a non-existent immigrant crime wave.The Federal Emergency Management Agency has been stripped down so mu…
+### HOMICIDE on 2025-07-07 18:13
+- Location: Newser
+- Description: It was another violent long weekend in Chicago—but not as violent as other Fourth of July weekends in recent years. ABC7 , which has a detailed list of incidents, reports that police say at least 55 people were shot, eight of them fatally, between Thursday mo…
 
 
-### ROBBERY/THEFT on 2025-07-07 12:26
-- Location: Securityaffairs.com
-- Description: Taiwan warns Chinese apps like TikTok and WeChat pose security risks due to excessive data collection and data transfers to China. Taiwan National Security Bureau (NSB) warns that Chinese apps like TikTok, WeChat, Weibo, and Baidu Cloud pose security risks du…
+### OTHER on 2025-07-07 18:12
+- Location: Biztoc.com
+- Description: A South African security official has accused top police leaders of colluding with crime syndicates.
 
-Analysis generated at: Tue Jul  8 12:50:34 UTC 2025
+Analysis generated at: Tue Jul  8 18:20:47 UTC 2025
