@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Jul  9 01:59:54 UTC 2025
+Last updated: Wed Jul  9 06:22:06 UTC 2025
 
 ## Latest Analysis
 
-Loaded 43447 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-08 01:51:00
+Loaded 43492 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-08 06:00:00
 
 Incidents by source:
 source
-newsapi           43346
+newsapi           43391
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-07-08 01:51
-- Location: Fox News
-- Description: Illegal immigrant convicted in Laken Riley murder case granted mental evaluation after his attorneys claimed he lacked competency to stand trial or assist with appeals.
+### ROBBERY/THEFT on 2025-07-08 06:00
+- Location: The Irish Times
+- Description: Bosnian Serb leader continues to deny genocide and threatens to secede from Muslim-majority Bosnia
 
 
-### HOMICIDE on 2025-07-08 01:49
-- Location: The Times of India
-- Description: A tragic mass shooting occurred in Philadelphia's Grays Ferry area. Three people died and ten others sustained injuries. The incident took place during a block party. More than hundred rounds were fired. Among the deceased was Azir Harris. Police are investig…
+### ASSAULT on 2025-07-08 06:00
+- Location: Naturalnews.com
+- Description: The U.S. Secret Service has confiscated nearly $400 million in cryptocurrency over the past decade, amassing one of the largest government-held crypto stashes by combating scams like romance fraud, fake investments and extortion. Using digital forensics (e.g.…
 
 
-### OTHER on 2025-07-08 01:45
-- Location: Mypeoplesreview.com
-- Description: Kathmandu, July 8: The Supreme Court has asked former Prime Ministers Madhav Kumar Nepal and Dr. Baburam Bhattarai why they […]
-The post SC issues show-cause order to Nepal, Bhattarai on Lalita Niwas Land case appeared first on Peoples' Review.
+### OTHER on 2025-07-08 06:00
+- Location: Naturalnews.com
+- Description: The New York Times acknowledged Trump’s warnings about migrant-linked gang violence were valid after a brutal Aurora, Colorado, home invasion. Venezuelan gang activity surged at Aurora’s Edge at Lowry apartment complex, with armed criminals terrorizing reside…
 
 
-### SHOOTING on 2025-07-08 01:36
-- Location: New Zealand Herald
-- Description: Information sought about man in a green coat and gumboots.
+### SHOOTING on 2025-07-08 06:00
+- Location: Naturalnews.com
+- Description: Since the Columbine shooting in 1999, the United States has experienced over 380 school shootings. Traditional security measures like cameras, locked gates and resource officers often fail to prevent these incidents, as seen in the Parkland and Uvalde tragedi…
 
 
-### OTHER on 2025-07-08 01:10
-- Location: The Daily Caller
-- Description: Gregg Jarrett said on Fox Business Monday that sanctuary cities must face serious consequences for harboring illegal immigrants.
+### HOMICIDE on 2025-07-08 05:59
+- Location: The Japan Times
+- Description: In the incident, the 27-year-old manager of the bar and a 26-year-old employee died after being stabbed repeatedly at around 1 a.m. Sunday.
 
-Analysis generated at: Wed Jul  9 01:59:54 UTC 2025
+Analysis generated at: Wed Jul  9 06:22:06 UTC 2025
