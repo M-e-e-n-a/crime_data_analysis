@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Jul  9 12:50:34 UTC 2025
+Last updated: Wed Jul  9 18:20:47 UTC 2025
 
 ## Latest Analysis
 
-Loaded 43555 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-08 12:45:39
+Loaded 43640 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-08 18:16:55
 
 Incidents by source:
 source
-newsapi           43454
+newsapi           43539
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-07-08 12:45
-- Location: Forbes
-- Description: 'A Girl With Closed Eyes,' which debuts at the 2025 New York Asian Film Festival is an icily intense and emotionally involving mystery thriller.
+### OTHER on 2025-07-08 18:16
+- Location: WBAY
+- Description: A Prevea Health shuttle driver says a woman approached him with a large knife outside HSHS St. Mary's Hospital Medical Center.
 
 
-### SHOOTING on 2025-07-08 12:45
+### SHOOTING on 2025-07-08 18:06
+- Location: Bossip
+- Description: Jabari Peoples family has been denied a viewing of the body camera video from the fatal shooting by Homewood Police Department 
+The post Jabari Peoples: Alabama Law Enforcement Denies Family Body Camera Video, State Rep Beefs With Lawyer appeared first on Bos…
+
+
+### OTHER on 2025-07-08 18:01
 - Location: Breitbart News
-- Description: The Department of Homeland Security (DHS) reported that a San Antonio City Council candidate called for the shooting of ICE agents on the streets of Los Angeles. The threat by the self-described Democrat political consultant comes as ICE agents are increasing…
+- Description: As Border Patrol agents carried out an immigration related enforcement operation, guarded by a contingent of U.S. Marines, Los Angeles Mayor Karen Bass and a group of protesters intervened. Despite the protests, the operation went on as planned. El Centro Sec…
 
 
-### HOMICIDE on 2025-07-08 12:33
-- Location: The Times of India
-- Description: Patna: A criminal suspected of supplying the weapon used in the murder of industrialist Gopal Khemka was shot dead in a police encounter at Damaria Gh.
+### OTHER on 2025-07-08 18:00
+- Location: Inside the Magic
+- Description: With yet another Halloween reboot in development, fans are eagerly waiting to find out what’s next for the long-running slasher franchise. If the latest installment, Halloween Ends (2022), taught us anything, it’s that “evil doesn’t die — it just changes shap…
 
 
-### OTHER on 2025-07-08 12:30
-- Location: Borderlandbeat.com
-- Description: By "El Huaso" for Borderland Beat Mexican authorities have apprehended Felipe Jesús Ceballos Tovar alias "El Franco 6," identified as the pr...
+### OTHER on 2025-07-08 18:00
+- Location: IndieWire
+- Description: The second "Bosch" spinoff, "Ballard," joins the recent wave of police procedurals returning to the unresolved.
 
-
-### HOMICIDE on 2025-07-08 12:19
-- Location: Sky.com
-- Description: Detectives investigating the "cold-blooded" execution of a man almost nine years ago are searching an area of land where they believe the murder weapon could have been hidden.
-
-Analysis generated at: Wed Jul  9 12:50:34 UTC 2025
+Analysis generated at: Wed Jul  9 18:20:47 UTC 2025
