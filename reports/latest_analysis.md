@@ -1,10 +1,10 @@
 
-Loaded 43492 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-08 06:00:00
+Loaded 43551 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-08 12:19:00
 
 Incidents by source:
 source
-newsapi           43391
+newsapi           43450
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2025-07-08 06:00
-- Location: The Irish Times
-- Description: Bosnian Serb leader continues to deny genocide and threatens to secede from Muslim-majority Bosnia
+### HOMICIDE on 2025-07-08 12:19
+- Location: Sky.com
+- Description: Detectives investigating the "cold-blooded" execution of a man almost nine years ago are searching an area of land where they believe the murder weapon could have been hidden.
 
 
-### ASSAULT on 2025-07-08 06:00
-- Location: Naturalnews.com
-- Description: The U.S. Secret Service has confiscated nearly $400 million in cryptocurrency over the past decade, amassing one of the largest government-held crypto stashes by combating scams like romance fraud, fake investments and extortion. Using digital forensics (e.g.…
+### HOMICIDE on 2025-07-08 12:15
+- Location: Mediaite
+- Description: A doorbell camera captured the moment a shootout began in Philadelphia, an attack that left 3 people dead and 10 others injured.
+The post WATCH: Wild Philadelphia Shootout That Left 3 Dead Caught on Doorbell Camera first appeared on Mediaite.
 
 
-### OTHER on 2025-07-08 06:00
-- Location: Naturalnews.com
-- Description: The New York Times acknowledged Trump’s warnings about migrant-linked gang violence were valid after a brutal Aurora, Colorado, home invasion. Venezuelan gang activity surged at Aurora’s Edge at Lowry apartment complex, with armed criminals terrorizing reside…
+### OTHER on 2025-07-08 12:00
+- Location: The Denver Post
+- Description: Jim Niven, who is white, flew to Denver from Costa Rica with his two wards on July 2 to visit family and work on the girls’ custody process.
 
 
-### SHOOTING on 2025-07-08 06:00
-- Location: Naturalnews.com
-- Description: Since the Columbine shooting in 1999, the United States has experienced over 380 school shootings. Traditional security measures like cameras, locked gates and resource officers often fail to prevent these incidents, as seen in the Parkland and Uvalde tragedi…
+### OTHER on 2025-07-08 12:00
+- Location: Dramabeans.com
+- Description: It’s another week to prove that only criminal lives matter in Insung city. Because despite our good boys’ efforts, our resident villain’s empire is nowhere near crumbling. Team Good does score a point against Team Evil, but the resulting blowback might be big…
 
 
-### HOMICIDE on 2025-07-08 05:59
-- Location: The Japan Times
-- Description: In the incident, the 27-year-old manager of the bar and a 26-year-old employee died after being stabbed repeatedly at around 1 a.m. Sunday.
+### HOMICIDE on 2025-07-08 12:00
+- Location: CBC News
+- Description: Twyla Evans, 39, was last seen alive on the evening of Sept. 6, 2019. She left her home to go to the movies, but has never been seen since. Stan Cross, 49, has now been charged with first-degree murder in her death.
 
-Analysis generated at: Wed Jul  9 06:22:06 UTC 2025
+Analysis generated at: Wed Jul  9 12:29:53 UTC 2025
