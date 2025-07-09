@@ -1,10 +1,10 @@
 
-Loaded 43443 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-08 01:10:28
+Loaded 43447 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-08 01:51:00
 
 Incidents by source:
 source
-newsapi           43342
+newsapi           43346
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
+### HOMICIDE on 2025-07-08 01:51
+- Location: Fox News
+- Description: Illegal immigrant convicted in Laken Riley murder case granted mental evaluation after his attorneys claimed he lacked competency to stand trial or assist with appeals.
+
+
+### HOMICIDE on 2025-07-08 01:49
+- Location: The Times of India
+- Description: A tragic mass shooting occurred in Philadelphia's Grays Ferry area. Three people died and ten others sustained injuries. The incident took place during a block party. More than hundred rounds were fired. Among the deceased was Azir Harris. Police are investig…
+
+
+### OTHER on 2025-07-08 01:45
+- Location: Mypeoplesreview.com
+- Description: Kathmandu, July 8: The Supreme Court has asked former Prime Ministers Madhav Kumar Nepal and Dr. Baburam Bhattarai why they […]
+The post SC issues show-cause order to Nepal, Bhattarai on Lalita Niwas Land case appeared first on Peoples' Review.
+
+
+### SHOOTING on 2025-07-08 01:36
+- Location: New Zealand Herald
+- Description: Information sought about man in a green coat and gumboots.
+
+
 ### OTHER on 2025-07-08 01:10
 - Location: The Daily Caller
 - Description: Gregg Jarrett said on Fox Business Monday that sanctuary cities must face serious consequences for harboring illegal immigrants.
 
-
-### SHOOTING on 2025-07-08 01:03
-- Location: The Daily Caller
-- Description: Authorities accused a man of shooting at ICE officers and police Monday. This incident follows months of violent rhetoric aimed at border enforcement.
-
-
-### HOMICIDE on 2025-07-08 01:03
-- Location: WPXI Pittsburgh
-- Description: The Allegheny County Police Department says 911 officials were notified of a shooting on the 11000 block of Frankstown Road at  6:11 p.m.
-
-
-### OTHER on 2025-07-08 01:00
-- Location: Nofilmschool.com
-- Description: Pedro Pascal didn’t show up in Hollywood with a bang. It was more of a slow burn, a series of quiet, blink-and-you’ll-miss-it roles that eventually caught fire.Born in Chile and raised in the U.S., he put in years on the New York theater circuit, shuffled thr…
-
-
-### HOMICIDE on 2025-07-08 00:52
-- Location: WTAE Pittsburgh
-- Description: Allegheny County homicide detectives are investigating a fatal shooting in Penn Hills that occurred Monday night.
-
-Analysis generated at: Wed Jul  9 01:12:12 UTC 2025
+Analysis generated at: Wed Jul  9 01:59:54 UTC 2025
