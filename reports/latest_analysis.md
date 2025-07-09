@@ -1,10 +1,10 @@
 
-Loaded 43432 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-07 18:20:25
+Loaded 43443 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-08 01:10:28
 
 Incidents by source:
 source
-newsapi           43331
+newsapi           43342
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-07-07 18:20
-- Location: Yahoo Entertainment
-- Description: The Russian transport minister recently sacked by President Vladimir Putin, Roman Starovoit, has been found dead with a gunshot wound in a car, the central...
+### OTHER on 2025-07-08 01:10
+- Location: The Daily Caller
+- Description: Gregg Jarrett said on Fox Business Monday that sanctuary cities must face serious consequences for harboring illegal immigrants.
 
 
-### DRUG RELATED on 2025-07-07 18:17
-- Location: The Star Online
-- Description: ALMATY, July 7 (Xinhua) -- Authorities have shut down an underground drug laboratory in the Karasay District of Almaty Region, Kazakhstan, the country's Kazinform news agency reported on Monday. Read full story
+### SHOOTING on 2025-07-08 01:03
+- Location: The Daily Caller
+- Description: Authorities accused a man of shooting at ICE officers and police Monday. This incident follows months of violent rhetoric aimed at border enforcement.
 
 
-### SHOOTING on 2025-07-07 18:16
-- Location: Freerepublic.com
-- Description: Border Patrol agents were ambushed by an active shooter when they arrived at the Border Patrol annex facility in McAllen, Texas on Monday morning, law enforcement has said. No federal officers were shot in the incident; however one McAllen, Texas police offic…
+### HOMICIDE on 2025-07-08 01:03
+- Location: WPXI Pittsburgh
+- Description: The Allegheny County Police Department says 911 officials were notified of a shooting on the 11000 block of Frankstown Road at  6:11 p.m.
 
 
-### HOMICIDE on 2025-07-07 18:13
-- Location: Newser
-- Description: It was another violent long weekend in Chicago—but not as violent as other Fourth of July weekends in recent years. ABC7 , which has a detailed list of incidents, reports that police say at least 55 people were shot, eight of them fatally, between Thursday mo…
+### OTHER on 2025-07-08 01:00
+- Location: Nofilmschool.com
+- Description: Pedro Pascal didn’t show up in Hollywood with a bang. It was more of a slow burn, a series of quiet, blink-and-you’ll-miss-it roles that eventually caught fire.Born in Chile and raised in the U.S., he put in years on the New York theater circuit, shuffled thr…
 
 
-### OTHER on 2025-07-07 18:12
-- Location: Biztoc.com
-- Description: A South African security official has accused top police leaders of colluding with crime syndicates.
+### HOMICIDE on 2025-07-08 00:52
+- Location: WTAE Pittsburgh
+- Description: Allegheny County homicide detectives are investigating a fatal shooting in Penn Hills that occurred Monday night.
 
-Analysis generated at: Tue Jul  8 18:20:47 UTC 2025
+Analysis generated at: Wed Jul  9 01:12:12 UTC 2025
