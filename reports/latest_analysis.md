@@ -1,10 +1,10 @@
 
-Loaded 43758 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-09 12:50:46
+Loaded 43827 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-09 18:08:51
 
 Incidents by source:
 source
-newsapi           43657
+newsapi           43726
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-07-09 12:50
-- Location: pymnts.com
-- Description: New Zealand wants to outlaw cryptocurrency ATMs and place limits on overseas cash transfers. [contact-form-7] Nicole McKee, the country’s associate justice minister, announced these plans Wednesday (July 9) as the government works on overhauling its anti-mone…
+### ROBBERY/THEFT on 2025-07-09 18:08
+- Location: National Post
+- Description: Anything that drives up the price of copper will mean more theft, but it's long been a problem in Canada and elsewhere.
 
 
-### HOMICIDE on 2025-07-09 12:45
-- Location: Thegatewaypundit.com
-- Description: Commentary There’s nothing like being an event planner when the big invites that are the “Flagship Speakers” of the event are no shows.  Not just no shows, it is known well in advance they will not be there at all.  So much lipstick will have to be used as co…
+### SHOOTING on 2025-07-09 18:06
+- Location: FOX 2 Detroit
+- Description: An employee claims he found a gun before mishandling it and accidentally firing the weapon. He shot himself and two customers, police said.
 
 
-### HOMICIDE on 2025-07-09 12:44
-- Location: Bossip
-- Description: Marchello Woodard killed by Pennsylvania parole agents after they approached him sitting in his car during compliance check
-The post Cops Kill People: Black Pennsylvania Man Marchello Woodard Gunned Down By Parole Officer, Family Seeks Justice appeared first …
+### HOMICIDE on 2025-07-09 18:00
+- Location: Moonbattery.com
+- Description: Bradford Morris and Cameron Arnold, who like many leftists identify as members of the opposite sex, might do their time more pleasantly in a women’s prison. But they foolishly got themselves arrested for setting up an ambush to kill ICE agents in Texas: The i…
 
 
-### OTHER on 2025-07-09 12:43
-- Location: Raw Story
-- Description: The man who was convicted after being seen on camera "chugging wine" while storming the Capitol on January 6 received a pardon, just like roughly 1,500 others President Donald Trump gave clemency on his first day in office. But he doesn't want the pardon, rep…
+### OTHER on 2025-07-09 18:00
+- Location: The Irish Times
+- Description: Somehow, the doors of perception failed to open for me
 
 
-### HOMICIDE on 2025-07-09 12:42
-- Location: Sky.com
-- Description: A man has been found guilty of murdering a mother-of-six while she walked her dog last year.
+### OTHER on 2025-07-09 18:00
+- Location: New Zealand Herald
+- Description: The documents provide insights into the Dutch East India Company's operations.
 
-Analysis generated at: Thu Jul 10 12:51:23 UTC 2025
+Analysis generated at: Thu Jul 10 18:20:51 UTC 2025
