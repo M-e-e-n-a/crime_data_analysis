@@ -1,10 +1,10 @@
 
-Loaded 43753 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-09 12:30:00
+Loaded 43758 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-09 12:50:46
 
 Incidents by source:
 source
-newsapi           43652
+newsapi           43657
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,30 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-07-09 12:30
-- Location: Rolling Stone
-- Description: An excerpt from “Little Red Barns: Hiding the Truth, from Farm to Fable” reveals how the animal agriculture industry created a new model of repression
+### OTHER on 2025-07-09 12:50
+- Location: pymnts.com
+- Description: New Zealand wants to outlaw cryptocurrency ATMs and place limits on overseas cash transfers. [contact-form-7] Nicole McKee, the country’s associate justice minister, announced these plans Wednesday (July 9) as the government works on overhauling its anti-mone…
 
 
-### OTHER on 2025-07-09 12:20
-- Location: What's on Netflix
-- Description: Final call on 14 excellent movies that will be expiring at the end of July.
+### HOMICIDE on 2025-07-09 12:45
+- Location: Thegatewaypundit.com
+- Description: Commentary There’s nothing like being an event planner when the big invites that are the “Flagship Speakers” of the event are no shows.  Not just no shows, it is known well in advance they will not be there at all.  So much lipstick will have to be used as co…
 
 
-### ROBBERY/THEFT on 2025-07-09 12:19
-- Location: Sportsnaut
-- Description: Check out the latest from Rusty Weiss on joe burrow, covering NFL's Joe Burrow, Sports Entertainment and more at Sportsnaut.
+### HOMICIDE on 2025-07-09 12:44
+- Location: Bossip
+- Description: Marchello Woodard killed by Pennsylvania parole agents after they approached him sitting in his car during compliance check
+The post Cops Kill People: Black Pennsylvania Man Marchello Woodard Gunned Down By Parole Officer, Family Seeks Justice appeared first …
 
 
-### DRUG RELATED on 2025-07-09 12:14
-- Location: Antaranews.com
-- Description: The National Narcotics Agency (BNN) on Wednesday reported that the number of drug addicts in Indonesia has now reached 3.3 million.
-
-&ldquo;As many as 3.3 ...
+### OTHER on 2025-07-09 12:43
+- Location: Raw Story
+- Description: The man who was convicted after being seen on camera "chugging wine" while storming the Capitol on January 6 received a pardon, just like roughly 1,500 others President Donald Trump gave clemency on his first day in office. But he doesn't want the pardon, rep…
 
 
-### OTHER on 2025-07-09 12:14
-- Location: BBC News
-- Description: A man, 39 and a woman, 37 were arrested in Coatbridge on Friday as officers continue Operation Portaledge.
+### HOMICIDE on 2025-07-09 12:42
+- Location: Sky.com
+- Description: A man has been found guilty of murdering a mother-of-six while she walked her dog last year.
 
-Analysis generated at: Thu Jul 10 12:30:21 UTC 2025
+Analysis generated at: Thu Jul 10 12:51:23 UTC 2025
