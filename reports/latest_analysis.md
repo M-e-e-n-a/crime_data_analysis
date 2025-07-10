@@ -1,10 +1,10 @@
 
-Loaded 43640 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-08 18:16:55
+Loaded 43652 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-09 01:06:02
 
 Incidents by source:
 source
-newsapi           43539
+newsapi           43551
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-07-08 18:16
-- Location: WBAY
-- Description: A Prevea Health shuttle driver says a woman approached him with a large knife outside HSHS St. Mary's Hospital Medical Center.
+### HOMICIDE on 2025-07-09 01:06
+- Location: New York Post
+- Description: "We are heartbroken to share that Reda Briki passed away in June 2025," friend Tim Fielding wrote in a Facebook post Tuesday, remembering the musicians "multiple talents, positive attitude, amazing skillset and cheeky humor."
 
 
-### SHOOTING on 2025-07-08 18:06
-- Location: Bossip
-- Description: Jabari Peoples family has been denied a viewing of the body camera video from the fatal shooting by Homewood Police Department 
-The post Jabari Peoples: Alabama Law Enforcement Denies Family Body Camera Video, State Rep Beefs With Lawyer appeared first on Bos…
+### HOMICIDE on 2025-07-09 01:00
+- Location: Allthatsinteresting.com
+- Description: Joseph and Summer McStay and their two young sons mysteriously disappeared in 2010, but when their bodies turned up in the Mojave Desert three years later, investigators discovered they'd been bludgeoned to death the very day they vanished.
+The post The McSta…
 
 
-### OTHER on 2025-07-08 18:01
-- Location: Breitbart News
-- Description: As Border Patrol agents carried out an immigration related enforcement operation, guarded by a contingent of U.S. Marines, Los Angeles Mayor Karen Bass and a group of protesters intervened. Despite the protests, the operation went on as planned. El Centro Sec…
+### OTHER on 2025-07-09 01:00
+- Location: New York Post
+- Description: The "Bosch" universe is expanding.
 
 
-### OTHER on 2025-07-08 18:00
-- Location: Inside the Magic
-- Description: With yet another Halloween reboot in development, fans are eagerly waiting to find out what’s next for the long-running slasher franchise. If the latest installment, Halloween Ends (2022), taught us anything, it’s that “evil doesn’t die — it just changes shap…
+### SHOOTING on 2025-07-09 00:49
+- Location: STLtoday.com
+- Description: Incident occurred Tuesday night in 3100 block of Vine Grove Avenue.
 
 
-### OTHER on 2025-07-08 18:00
-- Location: IndieWire
-- Description: The second "Bosch" spinoff, "Ballard," joins the recent wave of police procedurals returning to the unresolved.
+### OTHER on 2025-07-09 00:45
+- Location: DW (English)
+- Description: The UN court said the Taliban have "severely deprived girls and women of the rights to education, privacy and family life and the freedoms of movement, expression, thought, conscience and religion."
 
-Analysis generated at: Wed Jul  9 18:20:47 UTC 2025
+Analysis generated at: Thu Jul 10 01:12:10 UTC 2025
