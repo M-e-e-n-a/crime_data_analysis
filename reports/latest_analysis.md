@@ -1,10 +1,10 @@
 
-Loaded 43661 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-09 01:55:50
+Loaded 43694 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-09 06:20:59
 
 Incidents by source:
 source
-newsapi           43560
+newsapi           43593
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-07-09 01:55
-- Location: Slashdot.org
-- Description: Ten Individuals Charged with Attempted Murder of Federal Officers and Firearms Offenses in Alvarado Police Officer ShootingDepartment of Justice (.gov) Alvarado ICE facility attack: 11 charged in 'ambush' on ICE officers, officials sayFOX 4 News Dallas-Fort W…
+### HOMICIDE on 2025-07-09 06:20
+- Location: 7NEWS.com.au
+- Description: Homicide squad joins major search for German backpacker Caroline Wilga7news.com.au
 
 
-### HOMICIDE on 2025-07-09 01:55
-- Location: The Times of India
-- Description: In a significant development, police apprehended Ashok Kumar Sao, the alleged mastermind behind Gopal Khemka's murder, following the shooter's confession. Umesh Yadav claimed Sao paid him Rs 4 lakh for the crime, stemming from a land dispute. Investigations r…
+### HOMICIDE on 2025-07-09 06:17
+- Location: Al Jazeera English
+- Description: Calls made for accountability after death in custody of blogger Albert Ojwang and deadly violence against protesters.
 
 
-### OTHER on 2025-07-09 01:50
+### HOMICIDE on 2025-07-09 06:02
 - Location: ABC News (AU)
-- Description: The Supreme Court has revealed the jury was accidentally sequestered in the same hotel as a key police witness and two members of the prosecution's team for the majority of the deliberations.
+- Description: Two men accused over the stabbing death of a 21-year-old during an alleged drug deal gone wrong on the Gold Coast have been ordered to stand trial in Brisbane.
 
 
-### HOMICIDE on 2025-07-09 01:50
-- Location: Pedestrian TV
-- Description: The chef has addressed the "tragic situation" after triple murderer Erin Patterson told a jury she used her beef Wellington recipe for the fatal lunch.
+### OTHER on 2025-07-09 06:00
+- Location: Theecologist.org
+- Description: Environmentalists are being arrested and detained without any charges being brought in increasing police crackdown on protests.
 
 
-### OTHER on 2025-07-09 01:46
-- Location: Freerepublic.com
-- Description: The mother of New York City’s Democrat Mayoral nominee, Zohran Mamdani, is on record saying that he doesn’t even consider himself American — as the young socialist gets ready to potentially take over America’s largest city.. Hindustan Times back in 2013 quote…
+### ASSAULT on 2025-07-09 06:00
+- Location: Naturalnews.com
+- Description: Qantas Airways suffered a massive cyberattack compromising personal data of 5.7 million customers, marking one of Australia’s largest corporate breaches. The hack exposed names, emails, birth dates, and frequent flyer details, with 1.7 million records includi…
 
-Analysis generated at: Thu Jul 10 01:59:43 UTC 2025
+Analysis generated at: Thu Jul 10 06:22:48 UTC 2025
