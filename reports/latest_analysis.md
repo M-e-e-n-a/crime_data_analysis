@@ -1,10 +1,10 @@
 
-Loaded 43652 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-09 01:06:02
+Loaded 43661 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-09 01:55:50
 
 Incidents by source:
 source
-newsapi           43551
+newsapi           43560
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-07-09 01:06
-- Location: New York Post
-- Description: "We are heartbroken to share that Reda Briki passed away in June 2025," friend Tim Fielding wrote in a Facebook post Tuesday, remembering the musicians "multiple talents, positive attitude, amazing skillset and cheeky humor."
+### HOMICIDE on 2025-07-09 01:55
+- Location: Slashdot.org
+- Description: Ten Individuals Charged with Attempted Murder of Federal Officers and Firearms Offenses in Alvarado Police Officer ShootingDepartment of Justice (.gov) Alvarado ICE facility attack: 11 charged in 'ambush' on ICE officers, officials sayFOX 4 News Dallas-Fort W…
 
 
-### HOMICIDE on 2025-07-09 01:00
-- Location: Allthatsinteresting.com
-- Description: Joseph and Summer McStay and their two young sons mysteriously disappeared in 2010, but when their bodies turned up in the Mojave Desert three years later, investigators discovered they'd been bludgeoned to death the very day they vanished.
-The post The McSta…
+### HOMICIDE on 2025-07-09 01:55
+- Location: The Times of India
+- Description: In a significant development, police apprehended Ashok Kumar Sao, the alleged mastermind behind Gopal Khemka's murder, following the shooter's confession. Umesh Yadav claimed Sao paid him Rs 4 lakh for the crime, stemming from a land dispute. Investigations r…
 
 
-### OTHER on 2025-07-09 01:00
-- Location: New York Post
-- Description: The "Bosch" universe is expanding.
+### OTHER on 2025-07-09 01:50
+- Location: ABC News (AU)
+- Description: The Supreme Court has revealed the jury was accidentally sequestered in the same hotel as a key police witness and two members of the prosecution's team for the majority of the deliberations.
 
 
-### SHOOTING on 2025-07-09 00:49
-- Location: STLtoday.com
-- Description: Incident occurred Tuesday night in 3100 block of Vine Grove Avenue.
+### HOMICIDE on 2025-07-09 01:50
+- Location: Pedestrian TV
+- Description: The chef has addressed the "tragic situation" after triple murderer Erin Patterson told a jury she used her beef Wellington recipe for the fatal lunch.
 
 
-### OTHER on 2025-07-09 00:45
-- Location: DW (English)
-- Description: The UN court said the Taliban have "severely deprived girls and women of the rights to education, privacy and family life and the freedoms of movement, expression, thought, conscience and religion."
+### OTHER on 2025-07-09 01:46
+- Location: Freerepublic.com
+- Description: The mother of New York City’s Democrat Mayoral nominee, Zohran Mamdani, is on record saying that he doesn’t even consider himself American — as the young socialist gets ready to potentially take over America’s largest city.. Hindustan Times back in 2013 quote…
 
-Analysis generated at: Thu Jul 10 01:12:10 UTC 2025
+Analysis generated at: Thu Jul 10 01:59:43 UTC 2025
