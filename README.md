@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Jul 11 12:29:07 UTC 2025
+Last updated: Fri Jul 11 12:49:34 UTC 2025
 
 ## Latest Analysis
 
-Loaded 43977 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-10 12:25:13
+Loaded 43979 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-10 12:39:46
 
 Incidents by source:
 source
-newsapi           43876
+newsapi           43878
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -23,6 +23,16 @@ bution.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### ASSAULT on 2025-07-10 12:39
+- Location: The Times of India
+- Description: British police arrested four individuals under 21 for cyberattacks. These attacks targeted major UK retailers like Marks & Spencer, Co-op, and Harrods. Marks & Spencer faced significant disruption, suspending online clothing orders for nearly seven weeks. The…
+
+
+### OTHER on 2025-07-10 12:28
+- Location: The Conversation Africa
+- Description: Swaggart’s calls for a return to conservative Christian norms live on in today’s world of tradwives, limited access to abortion and calls to repeal gay marriage, writes a scholar of religion.
+
 
 ### HOMICIDE on 2025-07-10 12:25
 - Location: Crooksandliars.com
@@ -39,14 +49,4 @@ Sounds…
 - Location: Www.gov.uk
 - Description: The inquiry into the  circumstances surrounding the murder of Jalal Uddin was established in November 2023.
 
-
-### OTHER on 2025-07-10 12:21
-- Location: DW (English)
-- Description: Hasan Hasanovic lost his twin brother and father in the Srebrenica genocide. He himself managed to escape. He has made it his life's work to speak about the massacre and interview other survivors. It took him six days to make it through the forest: under cons…
-
-
-### OTHER on 2025-07-10 12:18
-- Location: Fox News
-- Description: New Massachusetts legislation targeting masked ICE agents joins similar Democratic proposals at the federal level, drawing criticism from President Trump.
-
-Analysis generated at: Fri Jul 11 12:29:07 UTC 2025
+Analysis generated at: Fri Jul 11 12:49:34 UTC 2025
