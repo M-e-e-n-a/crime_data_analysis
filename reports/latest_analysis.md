@@ -1,10 +1,10 @@
 
-Loaded 43979 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-10 12:39:46
+Loaded 44069 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-10 18:18:42
 
 Incidents by source:
 source
-newsapi           43878
+newsapi           43968
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2025-07-10 12:39
-- Location: The Times of India
-- Description: British police arrested four individuals under 21 for cyberattacks. These attacks targeted major UK retailers like Marks & Spencer, Co-op, and Harrods. Marks & Spencer faced significant disruption, suspending online clothing orders for nearly seven weeks. The…
+### HOMICIDE on 2025-07-10 18:18
+- Location: Fox News
+- Description: Visual snow syndrome, a condition causing static-like vision impairment, allegedly connects Idaho murderer Bryan Kohberger and UnitedHealthcare CEO murder suspect Luigi Mangione.
 
 
-### OTHER on 2025-07-10 12:28
-- Location: The Conversation Africa
-- Description: Swaggart’s calls for a return to conservative Christian norms live on in today’s world of tradwives, limited access to abortion and calls to repeal gay marriage, writes a scholar of religion.
+### HOMICIDE on 2025-07-10 18:08
+- Location: HuffPost
+- Description: Federal authorities called off their search for Travis Decker in Idaho’s Sawtooth National Forest after a tipster mistook a look-alike for the wanted father.
 
 
-### HOMICIDE on 2025-07-10 12:25
-- Location: Crooksandliars.com
-- Description: Ten people are charged with attempted murder after attackers in black military-style clothing (you know, like ICE?) opened fire outside a Texas immigration detention center in a “planned ambush” that left one police officer wounded, a prosecutor said. 
-Sounds…
+### ASSAULT on 2025-07-10 18:06
+- Location: National Post
+- Description: 'This has definitely been a tough one for our officers ... Sometime people forget many police officers are also parents,' OPP spokesman said
 
 
-### OTHER on 2025-07-10 12:23
-- Location: RTE
-- Description: An Garda Síochána told Prime Time that 940 people are currently listed as missing on the Garda Pulse system. So could some of them be found, if fresh thinking, new tools, or different investigative techniques were applied?
+### OTHER on 2025-07-10 18:03
+- Location: NBC News
+- Description: NEW YORK (AP) — On a recent afternoon, Mahmoud Khalil sat in his Manhattan apartment, cradling his 10-week-old son as he thought back to the pre-dawn hours spent pacing a frigid immigration jail in Louisiana, awaiting news of the child’s birth in New York
 
 
-### HOMICIDE on 2025-07-10 12:22
-- Location: Www.gov.uk
-- Description: The inquiry into the  circumstances surrounding the murder of Jalal Uddin was established in November 2023.
+### OTHER on 2025-07-10 18:03
+- Location: XXLMAG.COM
+- Description: Hotboii behind bars. Continue reading…
 
-Analysis generated at: Fri Jul 11 12:49:34 UTC 2025
+Analysis generated at: Fri Jul 11 18:20:33 UTC 2025
