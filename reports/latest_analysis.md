@@ -1,10 +1,10 @@
 
-Loaded 43827 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-09 18:08:51
+Loaded 43836 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-10 01:10:19
 
 Incidents by source:
 source
-newsapi           43726
+newsapi           43735
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2025-07-09 18:08
-- Location: National Post
-- Description: Anything that drives up the price of copper will mean more theft, but it's long been a problem in Canada and elsewhere.
+### HOMICIDE on 2025-07-10 01:10
+- Location: ABC News
+- Description: Kenya’s President William Ruto has condemned recent anti-government protests that left dozens dead
 
 
-### SHOOTING on 2025-07-09 18:06
-- Location: FOX 2 Detroit
-- Description: An employee claims he found a gun before mishandling it and accidentally firing the weapon. He shot himself and two customers, police said.
+### HOMICIDE on 2025-07-10 00:58
+- Location: ABC News (AU)
+- Description: The mother of Australian man Jack O'Brien says she doesn't believe Russia will accept responsibility any time soon for the death of her son in the Malaysia Airlines downing.
 
 
-### HOMICIDE on 2025-07-09 18:00
-- Location: Moonbattery.com
-- Description: Bradford Morris and Cameron Arnold, who like many leftists identify as members of the opposite sex, might do their time more pleasantly in a women’s prison. But they foolishly got themselves arrested for setting up an ambush to kill ICE agents in Texas: The i…
+### HOMICIDE on 2025-07-10 00:50
+- Location: WPXI Pittsburgh
+- Description: The Pennsylvania man charged with fatally shooting then beheading his father and posting it on YouTube said on the stand Wednesday that the killing was “Plan B” after trying to arrest his father for what he called false statements and treason.
 
 
-### OTHER on 2025-07-09 18:00
-- Location: The Irish Times
-- Description: Somehow, the doors of perception failed to open for me
+### SHOOTING on 2025-07-10 00:46
+- Location: New York Post
+- Description: The NYPD have since released the fiend's mugshot and images of his car in hopes of finding additional victims.
 
 
-### OTHER on 2025-07-09 18:00
-- Location: New Zealand Herald
-- Description: The documents provide insights into the Dutch East India Company's operations.
+### HOMICIDE on 2025-07-10 00:44
+- Location: STLtoday.com
+- Description: Tamadrey C. Ballinger, 20, of Alton, is accused in a court document of serving as a "lookout" for another man charged with killing Shabrya L. Hudson, 17, last week.
 
-Analysis generated at: Thu Jul 10 18:20:51 UTC 2025
+Analysis generated at: Fri Jul 11 01:12:55 UTC 2025
