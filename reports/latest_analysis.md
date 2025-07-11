@@ -1,10 +1,10 @@
 
-Loaded 43836 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-10 01:10:19
+Loaded 43842 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-10 02:01:31
 
 Incidents by source:
 source
-newsapi           43735
+newsapi           43741
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-07-10 01:10
-- Location: ABC News
-- Description: Kenya’s President William Ruto has condemned recent anti-government protests that left dozens dead
+### OTHER on 2025-07-10 02:01
+- Location: Starweekly.com.au
+- Description: A man has died and four people are in hospital following a four-vehicle collision in Wollert. Police believe a truck...
+The post Fatal Wollert collison appeared first on Northern.
 
 
-### HOMICIDE on 2025-07-10 00:58
+### DRUG RELATED on 2025-07-10 01:59
+- Location: Fox News
+- Description: Minnesota police seized nearly 900 pounds of meth in what authorities are calling one of the largest meth busts in state history, arresting two men possibly linked to a Mexican drug organization.
+
+
+### OTHER on 2025-07-10 01:57
+- Location: Starweekly.com.au
+- Description: Police have charged a man following a ramraid at a shop in Thomastown. It is alleged that a white Toyota...
+The post Man charged following Thomastown ram raid appeared first on Northern.
+
+
+### OTHER on 2025-07-10 01:32
 - Location: ABC News (AU)
-- Description: The mother of Australian man Jack O'Brien says she doesn't believe Russia will accept responsibility any time soon for the death of her son in the Malaysia Airlines downing.
+- Description: Live: The Queensland Council of Unions is responding to a bombshell report into allegations of violence and misogyny within Queensland's CFMEU.
 
 
-### HOMICIDE on 2025-07-10 00:50
-- Location: WPXI Pittsburgh
-- Description: The Pennsylvania man charged with fatally shooting then beheading his father and posting it on YouTube said on the stand Wednesday that the killing was “Plan B” after trying to arrest his father for what he called false statements and treason.
-
-
-### SHOOTING on 2025-07-10 00:46
+### HOMICIDE on 2025-07-10 01:27
 - Location: New York Post
-- Description: The NYPD have since released the fiend's mugshot and images of his car in hopes of finding additional victims.
+- Description: Ralph Leroy Menzies, 67, is set to be executed Sept. 5 for abducting and killing Utah mother of three Maurine Hunsaker in 1986.
 
-
-### HOMICIDE on 2025-07-10 00:44
-- Location: STLtoday.com
-- Description: Tamadrey C. Ballinger, 20, of Alton, is accused in a court document of serving as a "lookout" for another man charged with killing Shabrya L. Hudson, 17, last week.
-
-Analysis generated at: Fri Jul 11 01:12:55 UTC 2025
+Analysis generated at: Fri Jul 11 02:02:25 UTC 2025
