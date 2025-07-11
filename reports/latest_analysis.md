@@ -1,10 +1,10 @@
 
-Loaded 43842 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-10 02:01:31
+Loaded 43887 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-10 06:21:30
 
 Incidents by source:
 source
-newsapi           43741
+newsapi           43786
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,30 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-07-10 02:01
-- Location: Starweekly.com.au
-- Description: A man has died and four people are in hospital following a four-vehicle collision in Wollert. Police believe a truck...
-The post Fatal Wollert collison appeared first on Northern.
-
-
-### DRUG RELATED on 2025-07-10 01:59
-- Location: Fox News
-- Description: Minnesota police seized nearly 900 pounds of meth in what authorities are calling one of the largest meth busts in state history, arresting two men possibly linked to a Mexican drug organization.
-
-
-### OTHER on 2025-07-10 01:57
-- Location: Starweekly.com.au
-- Description: Police have charged a man following a ramraid at a shop in Thomastown. It is alleged that a white Toyota...
-The post Man charged following Thomastown ram raid appeared first on Northern.
-
-
-### OTHER on 2025-07-10 01:32
+### OTHER on 2025-07-10 06:21
 - Location: ABC News (AU)
-- Description: Live: The Queensland Council of Unions is responding to a bombshell report into allegations of violence and misogyny within Queensland's CFMEU.
+- Description: This week in politics Donald Trump was vague on tariffs, Sussan Ley got another glossy profile and Anthony Albanese prepared for his trip to China.
 
 
-### HOMICIDE on 2025-07-10 01:27
-- Location: New York Post
-- Description: Ralph Leroy Menzies, 67, is set to be executed Sept. 5 for abducting and killing Utah mother of three Maurine Hunsaker in 1986.
+### OTHER on 2025-07-10 06:20
+- Location: Rediff.com
+- Description: The Enforcement Directorate has filed a money laundering case to investigate the role of celebrities, including actors Vijay Deverakonda and Rana Daggubati, in promoting online betting platforms.
 
-Analysis generated at: Fri Jul 11 02:02:25 UTC 2025
+
+### OTHER on 2025-07-10 06:19
+- Location: 7NEWS.com.au
+- Description: Carolina Wilga: Search for missing German backpacker now Australia-wide amid ‘unexplained’ disappearance7news.com.au
+
+
+### SHOOTING on 2025-07-10 06:13
+- Location: ABC News (AU)
+- Description: Former Northern Territory police officer Zachary Rolfe is considering an appeal of findings he was "racist" and ignored his training before fatally shooting an Aboriginal teenager in 2019.
+
+
+### OTHER on 2025-07-10 06:10
+- Location: Independent.ie
+- Description: The PSNI has declared a major incident over the removal of bonfire material at a site in south Belfast.
+
+Analysis generated at: Fri Jul 11 06:22:13 UTC 2025
