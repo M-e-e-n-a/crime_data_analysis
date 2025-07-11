@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Jul 11 06:22:13 UTC 2025
+Last updated: Fri Jul 11 12:29:07 UTC 2025
 
 ## Latest Analysis
 
-Loaded 43887 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-10 06:21:30
+Loaded 43977 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-10 12:25:13
 
 Incidents by source:
 source
-newsapi           43786
+newsapi           43876
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-07-10 06:21
-- Location: ABC News (AU)
-- Description: This week in politics Donald Trump was vague on tariffs, Sussan Ley got another glossy profile and Anthony Albanese prepared for his trip to China.
+### HOMICIDE on 2025-07-10 12:25
+- Location: Crooksandliars.com
+- Description: Ten people are charged with attempted murder after attackers in black military-style clothing (you know, like ICE?) opened fire outside a Texas immigration detention center in a “planned ambush” that left one police officer wounded, a prosecutor said. 
+Sounds…
 
 
-### OTHER on 2025-07-10 06:20
-- Location: Rediff.com
-- Description: The Enforcement Directorate has filed a money laundering case to investigate the role of celebrities, including actors Vijay Deverakonda and Rana Daggubati, in promoting online betting platforms.
+### OTHER on 2025-07-10 12:23
+- Location: RTE
+- Description: An Garda Síochána told Prime Time that 940 people are currently listed as missing on the Garda Pulse system. So could some of them be found, if fresh thinking, new tools, or different investigative techniques were applied?
 
 
-### OTHER on 2025-07-10 06:19
-- Location: 7NEWS.com.au
-- Description: Carolina Wilga: Search for missing German backpacker now Australia-wide amid ‘unexplained’ disappearance7news.com.au
+### HOMICIDE on 2025-07-10 12:22
+- Location: Www.gov.uk
+- Description: The inquiry into the  circumstances surrounding the murder of Jalal Uddin was established in November 2023.
 
 
-### SHOOTING on 2025-07-10 06:13
-- Location: ABC News (AU)
-- Description: Former Northern Territory police officer Zachary Rolfe is considering an appeal of findings he was "racist" and ignored his training before fatally shooting an Aboriginal teenager in 2019.
+### OTHER on 2025-07-10 12:21
+- Location: DW (English)
+- Description: Hasan Hasanovic lost his twin brother and father in the Srebrenica genocide. He himself managed to escape. He has made it his life's work to speak about the massacre and interview other survivors. It took him six days to make it through the forest: under cons…
 
 
-### OTHER on 2025-07-10 06:10
-- Location: Independent.ie
-- Description: The PSNI has declared a major incident over the removal of bonfire material at a site in south Belfast.
+### OTHER on 2025-07-10 12:18
+- Location: Fox News
+- Description: New Massachusetts legislation targeting masked ICE agents joins similar Democratic proposals at the federal level, drawing criticism from President Trump.
 
-Analysis generated at: Fri Jul 11 06:22:13 UTC 2025
+Analysis generated at: Fri Jul 11 12:29:07 UTC 2025
