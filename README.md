@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Jul 12 12:45:45 UTC 2025
+Last updated: Sat Jul 12 18:19:11 UTC 2025
 
 ## Latest Analysis
 
-Loaded 44200 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-11 12:33:37
+Loaded 44295 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-11 18:13:16
 
 Incidents by source:
 source
-newsapi           44099
+newsapi           44194
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-07-11 12:33
-- Location: HuffPost
-- Description: "In many ways, my life now looks the same as it did before Josh was taken from me. But I am not the same person."
+### OTHER on 2025-07-11 18:13
+- Location: Yourmileagemayvary.com
+- Description: Every country has its own way of doing things. They have different things for tourists to see. They have their own food specialties. They may even speak their own language,…
 
 
-### HOMICIDE on 2025-07-11 12:33
-- Location: Jacarandafm.com
-- Description: Police have made a breakthrough in the murder of an 11-year-old boy in Fleurhof, west of Johannesburg.
+### SHOOTING on 2025-07-11 18:11
+- Location: Clarion Ledger
+- Description: Authorities have captured another suspect in connection to the Downtown Jackson mass shooting that followed the St. Paddy's Parade in March 2025.
 
 
-### OTHER on 2025-07-11 12:32
-- Location: Fortune
-- Description: In Mexico City, the number of reported cases nearly doubled in the first five months of 2025, the highest total in six years.
+### SHOOTING on 2025-07-11 18:01
+- Location: Freerepublic.com
+- Description: Shooter's motives still unclear despite extensive investigation into the attack that nearly changed American history.. As the one-year mark nears since the attempted assassination of President Donald Trump, questions remain unanswered; notably, why did Thomas…
 
 
-### SHOOTING on 2025-07-11 12:30
-- Location: Freethoughtblogs.com
-- Description: The Probability Broach, chapter 6 In the previous chapter of TPB, Win Bear stumbled into a parallel universe, discovered he had a doppelganger there, and sought him out – only to be near-fatally wounded in a drive-by shooting just as he found his other self’s…
+### HOMICIDE on 2025-07-11 18:00
+- Location: Dramabeans.com
+- Description: The hunt is finally over for our forensic pathologist as she puts her life on the line to catch her murderous father. While the hatred and disgust in her heart may never go away, our emotionally stunted heroine knows that love means cherishing others as well …
 
 
-### SHOOTING on 2025-07-11 12:27
-- Location: Israelnationalnews.com
-- Description: Two men were seriously injured in a shooting incident in the city of Shfaram &#111;n Friday.Police have launched an investigation into the circumstances of the attack. The incident is believed to be criminally motivated.
+### OTHER on 2025-07-11 18:00
+- Location: Decider
+- Description: "This is sick."
 
-Analysis generated at: Sat Jul 12 12:45:45 UTC 2025
+Analysis generated at: Sat Jul 12 18:19:11 UTC 2025
