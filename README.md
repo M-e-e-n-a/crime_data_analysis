@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Jul 12 06:20:19 UTC 2025
+Last updated: Sat Jul 12 12:26:51 UTC 2025
 
 ## Latest Analysis
 
-Loaded 44127 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-11 06:14:30
+Loaded 44195 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-11 12:11:25
 
 Incidents by source:
 source
-newsapi           44026
+newsapi           44094
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-07-11 06:14
-- Location: ABC News (AU)
-- Description: The family of Bronwyn Clark say they are desperate for answers after she was fatally struck by a car in Albany.
+### OTHER on 2025-07-11 12:11
+- Location: The-independent.com
+- Description: Richard Rankin’s portrayal of the hard-bitten Edinburgh detective first aired in spring last year
 
 
-### DRUG RELATED on 2025-07-11 06:08
+### HOMICIDE on 2025-07-11 12:02
 - Location: The Times of India
-- Description: Kubbawala Mustafa, wanted for running a synthetic drug factory from abroad, has been deported from the UAE to India. The CBI, in collaboration with Interpol and Mumbai police, coordinated the operation. Mustafa is accused of manufacturing mephedrone, a party …
+- Description: The death of tennis star Radhika Yadav is under investigation. A postmortem reveals four bullets struck her chest. Her father, Deepak Yadav, confessed to the crime. Initial reports suggest a dispute over Radhika's tennis academy as the motive. Police are expl…
 
 
-### HOMICIDE on 2025-07-11 06:01
-- Location: The Times of India
-- Description: Radhika Yadav, a promising tennis player, was fatally shot by her father, Deepak Yadav, at their Gurugram residence due to a long-standing dispute over the tennis academy she managed. Deepak was reportedly unhappy with her running the academy and felt humilia…
+### HOMICIDE on 2025-07-11 12:01
+- Location: LADbible
+- Description: Sarah Grace Patrick has been charged with killing her mother and step dad, footage of her shows her appearing tearful while delivering a eulogy for them
 
 
-### ROBBERY/THEFT on 2025-07-11 06:00
-- Location: The Times of India
-- Description: Following reports of embezzlement from Alia Bhatt, Urvashi Rautela's mother, Meera Rautela, alleges similar financial harm caused by Vedika Prakash Shetty, who served as Urvashi's assistant from 2015 to 2017. Meera claims Vedika stole cash from her mother's s…
+### OTHER on 2025-07-11 12:00
+- Location: DJ Mag
+- Description: The funds will pay for extra security measures to address 'critical public safety concerns' that were identified in an independent review of festival
 
 
-### SHOOTING on 2025-07-11 06:00
-- Location: Naturalnews.com
-- Description: Six Secret Service agents suspended without pay for failing to prevent the July 13, 2024 assassination attempt on Trump in Pennsylvania. A House report attributed the disaster to systemic leadership failures, inadequate training and poor coordination with loc…
+### HOMICIDE on 2025-07-11 12:00
+- Location: The Denver Post
+- Description: A 29-year-old woman was arrested on suspicion of leaving the scene of an accident involving death in a Denver hit-and-run crash that killed a man changing a tire.
 
-Analysis generated at: Sat Jul 12 06:20:19 UTC 2025
+Analysis generated at: Sat Jul 12 12:26:51 UTC 2025
