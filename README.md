@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Jul 12 12:26:51 UTC 2025
+Last updated: Sat Jul 12 12:45:45 UTC 2025
 
 ## Latest Analysis
 
-Loaded 44195 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-11 12:11:25
+Loaded 44200 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-11 12:33:37
 
 Incidents by source:
 source
-newsapi           44094
+newsapi           44099
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-07-11 12:11
-- Location: The-independent.com
-- Description: Richard Rankin’s portrayal of the hard-bitten Edinburgh detective first aired in spring last year
+### HOMICIDE on 2025-07-11 12:33
+- Location: HuffPost
+- Description: "In many ways, my life now looks the same as it did before Josh was taken from me. But I am not the same person."
 
 
-### HOMICIDE on 2025-07-11 12:02
-- Location: The Times of India
-- Description: The death of tennis star Radhika Yadav is under investigation. A postmortem reveals four bullets struck her chest. Her father, Deepak Yadav, confessed to the crime. Initial reports suggest a dispute over Radhika's tennis academy as the motive. Police are expl…
+### HOMICIDE on 2025-07-11 12:33
+- Location: Jacarandafm.com
+- Description: Police have made a breakthrough in the murder of an 11-year-old boy in Fleurhof, west of Johannesburg.
 
 
-### HOMICIDE on 2025-07-11 12:01
-- Location: LADbible
-- Description: Sarah Grace Patrick has been charged with killing her mother and step dad, footage of her shows her appearing tearful while delivering a eulogy for them
+### OTHER on 2025-07-11 12:32
+- Location: Fortune
+- Description: In Mexico City, the number of reported cases nearly doubled in the first five months of 2025, the highest total in six years.
 
 
-### OTHER on 2025-07-11 12:00
-- Location: DJ Mag
-- Description: The funds will pay for extra security measures to address 'critical public safety concerns' that were identified in an independent review of festival
+### SHOOTING on 2025-07-11 12:30
+- Location: Freethoughtblogs.com
+- Description: The Probability Broach, chapter 6 In the previous chapter of TPB, Win Bear stumbled into a parallel universe, discovered he had a doppelganger there, and sought him out – only to be near-fatally wounded in a drive-by shooting just as he found his other self’s…
 
 
-### HOMICIDE on 2025-07-11 12:00
-- Location: The Denver Post
-- Description: A 29-year-old woman was arrested on suspicion of leaving the scene of an accident involving death in a Denver hit-and-run crash that killed a man changing a tire.
+### SHOOTING on 2025-07-11 12:27
+- Location: Israelnationalnews.com
+- Description: Two men were seriously injured in a shooting incident in the city of Shfaram &#111;n Friday.Police have launched an investigation into the circumstances of the attack. The incident is believed to be criminally motivated.
 
-Analysis generated at: Sat Jul 12 12:26:51 UTC 2025
+Analysis generated at: Sat Jul 12 12:45:45 UTC 2025
