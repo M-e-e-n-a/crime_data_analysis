@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Jul 12 02:03:18 UTC 2025
+Last updated: Sat Jul 12 06:20:19 UTC 2025
 
 ## Latest Analysis
 
-Loaded 44088 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-11 02:00:00
+Loaded 44127 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-11 06:14:30
 
 Incidents by source:
 source
-newsapi           43987
+newsapi           44026
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-07-11 02:00
-- Location: Deadline
-- Description: EXCLUSIVE: Director M. Raihan Halim is reuniting with the cast of La Luna, Singapore’s submission for Best International Feature at this year’s Oscars, on family drama Badak, a co-production between Singapore, Malaysia and Indonesia.  La Luna‘s Shaheizy Sam a…
-
-
-### OTHER on 2025-07-11 01:51
-- Location: HuffPost
-- Description: More than 170 people are still considered unaccounted for after extraordinary floods swamped parts of Kerr County and nearby areas.
-
-
-### OTHER on 2025-07-11 01:50
-- Location: TheWrap
-- Description: Tony Tost tells TheWrap about that cliffhanger fakeout and honoring pre-prestige TV shows 
-The post ‘Poker Face’ Boss Unpacks Charlie’s Heartbreaking Season 2 Finale, Shares Hopes for Potential Season 3 appeared first on TheWrap.
-
-
-### OTHER on 2025-07-11 01:49
+### HOMICIDE on 2025-07-11 06:14
 - Location: ABC News (AU)
-- Description: Police  "100 per cent" rule out foul play in the case of missing tourist Carolina Wilga, saying she likely became lost in dense bush after abandoning her stricken vehicle.
+- Description: The family of Bronwyn Clark say they are desperate for answers after she was fatally struck by a car in Albany.
 
 
-### OTHER on 2025-07-11 01:27
+### DRUG RELATED on 2025-07-11 06:08
 - Location: The Times of India
-- Description: Mahmoud Khalil, a Palestinian activist, has filed a $20 million claim against the Trump administration, alleging wrongful detention and malicious prosecution. Detained for 104 days despite being a legal resident, Khalil accuses the government of targeting him…
+- Description: Kubbawala Mustafa, wanted for running a synthetic drug factory from abroad, has been deported from the UAE to India. The CBI, in collaboration with Interpol and Mumbai police, coordinated the operation. Mustafa is accused of manufacturing mephedrone, a party …
 
-Analysis generated at: Sat Jul 12 02:03:18 UTC 2025
+
+### HOMICIDE on 2025-07-11 06:01
+- Location: The Times of India
+- Description: Radhika Yadav, a promising tennis player, was fatally shot by her father, Deepak Yadav, at their Gurugram residence due to a long-standing dispute over the tennis academy she managed. Deepak was reportedly unhappy with her running the academy and felt humilia…
+
+
+### ROBBERY/THEFT on 2025-07-11 06:00
+- Location: The Times of India
+- Description: Following reports of embezzlement from Alia Bhatt, Urvashi Rautela's mother, Meera Rautela, alleges similar financial harm caused by Vedika Prakash Shetty, who served as Urvashi's assistant from 2015 to 2017. Meera claims Vedika stole cash from her mother's s…
+
+
+### SHOOTING on 2025-07-11 06:00
+- Location: Naturalnews.com
+- Description: Six Secret Service agents suspended without pay for failing to prevent the July 13, 2024 assassination attempt on Trump in Pennsylvania. A House report attributed the disaster to systemic leadership failures, inadequate training and poor coordination with loc…
+
+Analysis generated at: Sat Jul 12 06:20:19 UTC 2025
