@@ -1,10 +1,10 @@
 
-Loaded 44069 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-10 18:18:42
+Loaded 44088 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-11 02:00:00
 
 Incidents by source:
 source
-newsapi           43968
+newsapi           43987
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-07-10 18:18
-- Location: Fox News
-- Description: Visual snow syndrome, a condition causing static-like vision impairment, allegedly connects Idaho murderer Bryan Kohberger and UnitedHealthcare CEO murder suspect Luigi Mangione.
+### OTHER on 2025-07-11 02:00
+- Location: Deadline
+- Description: EXCLUSIVE: Director M. Raihan Halim is reuniting with the cast of La Luna, Singapore’s submission for Best International Feature at this year’s Oscars, on family drama Badak, a co-production between Singapore, Malaysia and Indonesia.  La Luna‘s Shaheizy Sam a…
 
 
-### HOMICIDE on 2025-07-10 18:08
+### OTHER on 2025-07-11 01:51
 - Location: HuffPost
-- Description: Federal authorities called off their search for Travis Decker in Idaho’s Sawtooth National Forest after a tipster mistook a look-alike for the wanted father.
+- Description: More than 170 people are still considered unaccounted for after extraordinary floods swamped parts of Kerr County and nearby areas.
 
 
-### ASSAULT on 2025-07-10 18:06
-- Location: National Post
-- Description: 'This has definitely been a tough one for our officers ... Sometime people forget many police officers are also parents,' OPP spokesman said
+### OTHER on 2025-07-11 01:50
+- Location: TheWrap
+- Description: Tony Tost tells TheWrap about that cliffhanger fakeout and honoring pre-prestige TV shows 
+The post ‘Poker Face’ Boss Unpacks Charlie’s Heartbreaking Season 2 Finale, Shares Hopes for Potential Season 3 appeared first on TheWrap.
 
 
-### OTHER on 2025-07-10 18:03
-- Location: NBC News
-- Description: NEW YORK (AP) — On a recent afternoon, Mahmoud Khalil sat in his Manhattan apartment, cradling his 10-week-old son as he thought back to the pre-dawn hours spent pacing a frigid immigration jail in Louisiana, awaiting news of the child’s birth in New York
+### OTHER on 2025-07-11 01:49
+- Location: ABC News (AU)
+- Description: Police  "100 per cent" rule out foul play in the case of missing tourist Carolina Wilga, saying she likely became lost in dense bush after abandoning her stricken vehicle.
 
 
-### OTHER on 2025-07-10 18:03
-- Location: XXLMAG.COM
-- Description: Hotboii behind bars. Continue reading…
+### OTHER on 2025-07-11 01:27
+- Location: The Times of India
+- Description: Mahmoud Khalil, a Palestinian activist, has filed a $20 million claim against the Trump administration, alleging wrongful detention and malicious prosecution. Detained for 104 days despite being a legal resident, Khalil accuses the government of targeting him…
 
-Analysis generated at: Fri Jul 11 18:20:33 UTC 2025
+Analysis generated at: Sat Jul 12 02:03:18 UTC 2025
