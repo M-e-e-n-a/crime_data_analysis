@@ -1,10 +1,10 @@
 
-Loaded 44302 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-12 00:55:58
+Loaded 44307 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-12 01:59:35
 
 Incidents by source:
 source
-newsapi           44201
+newsapi           44206
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-07-12 00:55
+### DRUG RELATED on 2025-07-12 01:59
 - Location: Fox News
-- Description: A Texas man was arrested on federal charges after an alleged Facebook threat saying “I won’t miss" ahead of Trump’s Kerrville visit after the Fourth of July flash floods.
+- Description: El Chapo's son, Ovidio Guzman Lopez, pleaded guilty to running the Sinaloa Cartel and coordinating massive shipments of fentanyl, heroin and cocaine to the United States.
 
 
-### OTHER on 2025-07-12 00:48
-- Location: Freerepublic.com
-- Description: A federal judge ruled Los Angeles police cannot force journalists out of protest areas or use nonlethal weapons against them after reporters alleged officers targeted them during anti-ICE demonstrations last month. U.S. District Judge Hernán D. Vera granted t…
+### HOMICIDE on 2025-07-12 01:56
+- Location: fox6now.com
+- Description: Milwaukee shootings left one person dead and a teen wounded on Friday, July 11. Anyone with information is asked to call MPD.
 
 
-### SHOOTING on 2025-07-12 00:46
-- Location: Q13 News Seattle
-- Description: Turmoil outside a Seattle Safeway parking lot took a violent turn, leaving an Army veteran shot and hospitalized.
+### HOMICIDE on 2025-07-12 01:55
+- Location: CBC News
+- Description: A female is dead and a male is injured after a shooting in downtown Hamilton on Friday, police say.
 
 
-### HOMICIDE on 2025-07-12 00:23
-- Location: Common Dreams
-- Description: The Palestinian Authority's Ministry of Health and cousins of Sayfollah Musallat—also known as Saif al-Din Kamel Abdul Karim Musallat—said Friday that Israeli settlers beat the dual U.S.-Palestinian citizen to death while he was visiting family in the illegal…
+### OTHER on 2025-07-12 01:54
+- Location: Mypeoplesreview.com
+- Description: Kathmandu, July 12; Rastriya Prajatantra Party (RPP) leaders have strongly criticized the government for arresting former king Gyanendra Shah’s press […]
+The post RPP leaders criticise the arrest of former King’s press secretary appeared first on Peoples' Rev…
 
 
-### OTHER on 2025-07-12 00:22
-- Location: Raw Story
-- Description: President Donald Trump melted down Friday on social media over "thugs" that he said were "violently throwing rocks and bricks" at federal immigration agents.Trump wrote on his Truth Social platform that he "watched in disbelief" as "thugs" hurled rocks and br…
+### DRUG RELATED on 2025-07-12 01:52
+- Location: DW (English)
+- Description: Ovidio Guzman Lopez, a son of imprisoned former Mexican drug lord Joaquin "El Chapo" Guzman, pleaded guilty to four drug trafficking charges. Guzman Lopez was facing a maximum of life in prison. Former Mexican drug lord Joaquin "El Chapo" Guzman's son, Ovidio…
 
-Analysis generated at: Sun Jul 13 01:19:31 UTC 2025
+Analysis generated at: Sun Jul 13 02:11:41 UTC 2025
