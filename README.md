@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Jul 12 18:19:11 UTC 2025
+Last updated: Sun Jul 13 01:19:31 UTC 2025
 
 ## Latest Analysis
 
-Loaded 44295 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-11 18:13:16
+Loaded 44302 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-12 00:55:58
 
 Incidents by source:
 source
-newsapi           44194
+newsapi           44201
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-07-11 18:13
-- Location: Yourmileagemayvary.com
-- Description: Every country has its own way of doing things. They have different things for tourists to see. They have their own food specialties. They may even speak their own language,…
+### OTHER on 2025-07-12 00:55
+- Location: Fox News
+- Description: A Texas man was arrested on federal charges after an alleged Facebook threat saying “I won’t miss" ahead of Trump’s Kerrville visit after the Fourth of July flash floods.
 
 
-### SHOOTING on 2025-07-11 18:11
-- Location: Clarion Ledger
-- Description: Authorities have captured another suspect in connection to the Downtown Jackson mass shooting that followed the St. Paddy's Parade in March 2025.
-
-
-### SHOOTING on 2025-07-11 18:01
+### OTHER on 2025-07-12 00:48
 - Location: Freerepublic.com
-- Description: Shooter's motives still unclear despite extensive investigation into the attack that nearly changed American history.. As the one-year mark nears since the attempted assassination of President Donald Trump, questions remain unanswered; notably, why did Thomas…
+- Description: A federal judge ruled Los Angeles police cannot force journalists out of protest areas or use nonlethal weapons against them after reporters alleged officers targeted them during anti-ICE demonstrations last month. U.S. District Judge Hernán D. Vera granted t…
 
 
-### HOMICIDE on 2025-07-11 18:00
-- Location: Dramabeans.com
-- Description: The hunt is finally over for our forensic pathologist as she puts her life on the line to catch her murderous father. While the hatred and disgust in her heart may never go away, our emotionally stunted heroine knows that love means cherishing others as well …
+### SHOOTING on 2025-07-12 00:46
+- Location: Q13 News Seattle
+- Description: Turmoil outside a Seattle Safeway parking lot took a violent turn, leaving an Army veteran shot and hospitalized.
 
 
-### OTHER on 2025-07-11 18:00
-- Location: Decider
-- Description: "This is sick."
+### HOMICIDE on 2025-07-12 00:23
+- Location: Common Dreams
+- Description: The Palestinian Authority's Ministry of Health and cousins of Sayfollah Musallat—also known as Saif al-Din Kamel Abdul Karim Musallat—said Friday that Israeli settlers beat the dual U.S.-Palestinian citizen to death while he was visiting family in the illegal…
 
-Analysis generated at: Sat Jul 12 18:19:11 UTC 2025
+
+### OTHER on 2025-07-12 00:22
+- Location: Raw Story
+- Description: President Donald Trump melted down Friday on social media over "thugs" that he said were "violently throwing rocks and bricks" at federal immigration agents.Trump wrote on his Truth Social platform that he "watched in disbelief" as "thugs" hurled rocks and br…
+
+Analysis generated at: Sun Jul 13 01:19:31 UTC 2025
