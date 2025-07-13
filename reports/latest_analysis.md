@@ -1,10 +1,10 @@
 
-Loaded 44333 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-12 06:18:49
+Loaded 44387 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-12 12:20:00
 
 Incidents by source:
 source
-newsapi           44232
+newsapi           44286
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-07-12 06:18
-- Location: The Times of India
-- Description: In Bhopal, a security guard named Balchandra Sondhiya, aged 40, died by suicide. He allegedly shot himself with his licensed rifle. The incident occurred past midnight on Saturday in TT Nagar. Police investigations suggest a dispute with his wife as the reaso…
+### HOMICIDE on 2025-07-12 12:20
+- Location: New York Post
+- Description: Accused Minnesota assassin Vance Boelter insisted to The Post this week the murders had nothing to do with President Trump or abortion.
 
 
-### HOMICIDE on 2025-07-12 06:16
-- Location: The Times of India
-- Description: Former state-level tennis player Radhika Yadav was allegedly murdered by her father, Deepak Yadav, in their Gurugram home. Police investigations revealed that Deepak objected to Radhika's tennis training sessions, which she conducted by booking courts, leadin…
+### HOMICIDE on 2025-07-12 12:17
+- Location: CNN
+- Description: The body of Sunshine Stewart was found July 3 at Crawford Pond in Union, Maine, the morning after she went paddleboarding.
 
 
-### ASSAULT on 2025-07-12 06:00
-- Location: Naturalnews.com
-- Description: Four suspects were arrested for allegedly deploying homemade tire spikes to disable U.S. Border Patrol vehicles during an immigration enforcement operation in Van Nuys, marking a rise in violent resistance against federal agents. The suspects – Jenaro-Ernesto…
+### HOMICIDE on 2025-07-12 12:04
+- Location: RT
+- Description: The International Criminal Court is in a deadlock over expanding its powers after three days of talks Read Full Article at RT.com
 
 
-### OTHER on 2025-07-12 05:58
-- Location: ABC News
-- Description: Linsey Davis reports on the remarkable survival story of a 75-year-old grandmother from Colorado, who crawled for 14 hours to seek safety after falling on her remote property and breaking her femur.
+### OTHER on 2025-07-12 12:00
+- Location: Screen Rant
+- Description: The arrival of a new character impacts High Potential even before its introduction, making another character's departure an inevitable consequence.
 
 
-### OTHER on 2025-07-12 05:54
-- Location: 7NEWS.com.au
-- Description: Manhunt underway after six-year-old boy on scooter seriously injured in Western Sydney hit-and-run7news.com.au
+### ASSAULT on 2025-07-12 12:00
+- Location: Fox News
+- Description: Violent incidents targeting ICE and Border Patrol received limited network coverage, with CBS and PBS offering brief reports on immigration enforcement
 
-Analysis generated at: Sun Jul 13 06:21:09 UTC 2025
+Analysis generated at: Sun Jul 13 12:27:38 UTC 2025
