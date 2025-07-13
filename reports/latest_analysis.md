@@ -1,10 +1,10 @@
 
-Loaded 44391 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-12 12:45:00
+Loaded 44447 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-12 18:16:01
 
 Incidents by source:
 source
-newsapi           44290
+newsapi           44346
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-07-12 12:45
-- Location: The Japan Times
-- Description: The Kanagawa Prefectural Police department suspects that Hideyuki Shirai, 28, was stalking Asahi Okazaki, 20, and later killed her around Dec. 20 last year.
+### SHOOTING on 2025-07-12 18:16
+- Location: Vanity Fair
+- Description: “On some occasions, Los Angeles Police Department officers purportedly targeted individuals who were clearly identifiable as members of the press,” ruled US District Judge Hernán D. Vera.
 
 
-### OTHER on 2025-07-12 12:35
-- Location: CBC News
-- Description: More Winnipeg residents will have their non-emergency calls answered by artificial intelligence as the police service expands its AI-powered voice agent pilot program next week.
+### HOMICIDE on 2025-07-12 17:46
+- Location: The Denver Post
+- Description: One person was killed and a second was injured in a shooting in the 1000 block of North Lincoln Street, according to Denver police.
 
 
-### SHOOTING on 2025-07-12 12:30
-- Location: New York Post
-- Description: These nagging crimes, which have prompted stores across the city to lock their goods behind plastic barricades, has shot up 89% from 14,286 in 2020 to more than 27,705 incidents so far this year, police data shows.
+### HOMICIDE on 2025-07-12 17:46
+- Location: The Denver Post
+- Description: One person was killed and a second was injured in a shooting in the 1000 block of North Lincoln Street, according to Denver police.
 
 
-### OTHER on 2025-07-12 12:28
-- Location: The Times of India
-- Description: A woman was allegedly raped at IIM Calcutta. The incident sparked outrage from opposition parties. They cited a worsening law and order situation in West Bengal. Congress and CPI(M) leaders protested and demanded accountability. A student has been arrested fo…
+### HOMICIDE on 2025-07-12 17:44
+- Location: fox6now.com
+- Description: A Milwaukee woman accused and convicted of driving drunk when she struck two sisters – killing one, injuring the other – was sentenced to prison on Friday, July 11, 2025.
 
 
-### HOMICIDE on 2025-07-12 12:20
-- Location: New York Post
-- Description: Accused Minnesota assassin Vance Boelter insisted to The Post this week the murders had nothing to do with President Trump or abortion.
+### OTHER on 2025-07-12 17:44
+- Location: Boredpanda.com
+- Description: Of his character, those who knew him–including lawmen, for all the wrong reasons–saw him as a “charming personality” prone to “ruthless criminal behavior.”
 
-Analysis generated at: Sun Jul 13 12:46:32 UTC 2025
+Analysis generated at: Sun Jul 13 18:19:10 UTC 2025
