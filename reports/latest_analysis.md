@@ -1,10 +1,10 @@
 
-Loaded 44515 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-13 12:20:50
+Loaded 44517 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-13 12:40:21
 
 Incidents by source:
 source
-newsapi           44414
+newsapi           44416
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,6 +20,16 @@ bution.svg)
 
 ## Recent Incidents
 
+### HOMICIDE on 2025-07-13 12:40
+- Location: Al Jazeera English
+- Description: Nine Palestinians - including one child - were killed by Israeli settlers and forces.
+
+
+### SHOOTING on 2025-07-13 12:33
+- Location: Fox News
+- Description: A shooting erupted during a class reunion at Chattanooga's Tyner Community Center, sending four people to the hospital with injuries, police said.
+
+
 ### OTHER on 2025-07-13 12:20
 - Location: The Punch
 - Description: Former Vice President Atiku Abubakar has slammed the administration of President Bola Tinubu over the non-payment of four months’ wage awards to federal workers and the detention of a labour activist who sought to protest the delay. In a statement issued on S…
@@ -34,14 +44,4 @@ bution.svg)
 - Location: The Denver Post
 - Description: Colorado district attorneys who spoke with The Denver Post said such deportations are not in the interest of justice and do not improve public safety over the long term.
 
-
-### HOMICIDE on 2025-07-13 12:00
-- Location: Fox News
-- Description: A high-profile murder trial begins for James Craig, accused of killing his wife Angela, a mother of six, by poisoning her with cyanide while planning a new life with his lover.
-
-
-### OTHER on 2025-07-13 12:00
-- Location: The Denver Post
-- Description: The Denver Post asked readers in Denver to assess Mayor Mike Johnston's first two years in office. Hundreds responded. Here's a sampling of responses.
-
-Analysis generated at: Mon Jul 14 12:31:06 UTC 2025
+Analysis generated at: Mon Jul 14 12:52:07 UTC 2025
