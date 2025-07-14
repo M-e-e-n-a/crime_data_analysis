@@ -1,10 +1,10 @@
 
-Loaded 44456 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-13 02:00:00
+Loaded 44477 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-13 05:46:49
 
 Incidents by source:
 source
-newsapi           44355
+newsapi           44376
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-07-13 02:00
-- Location: Thoughtcatalog.com
-- Description: Some days, people surprise me. Just when I’m about to give up on humanity, I’ll see a well-dressed hotshot drop a dollar for an unhoused person, or two New Yorkers will overcome their differences a…
+### ROBBERY/THEFT on 2025-07-13 05:46
+- Location: Twistedsifter.com
+- Description: Risking your life is not worth it!
 
 
-### OTHER on 2025-07-13 01:50
-- Location: 7NEWS.com.au
-- Description: Teen pedestrian dies at intersection after driver allegedly runs red light in Padstow7news.com.au
+### HOMICIDE on 2025-07-13 05:39
+- Location: Al Jazeera English
+- Description: Kidnapped and held captive in a secret underground bunker by a notorious serial killer.
 
 
-### OTHER on 2025-07-13 01:10
-- Location: /FILM
-- Description: Here are 15 similarly great television shows you should consider checking out next if you're a fan of Netflix's gripping psychological thriller You.
+### ROBBERY/THEFT on 2025-07-13 05:19
+- Location: The Times of India
+- Description: Abdu Rozik, the Tajikistani singer and reality TV star, was reportedly detained at Dubai International Airport on alleged theft charges but later released, according to his management. His team refuted arrest reports and hinted at further details regarding th…
 
 
-### OTHER on 2025-07-13 01:03
-- Location: CBC News
-- Description: Police said they aimed to address concerns and questions from residents at a town hall that nearly filled the Quadeville Community Centre.
+### HOMICIDE on 2025-07-13 05:18
+- Location: The Times of India
+- Description: Himaanshika Singh Rajput, the best friend of tennis player Radhika Yadav, who was murdered by her father, has publicly accused him of years of emotional abuse and control. Radhika's father, Deepak Yadav, is in custody for shooting her, and Himaanshika alleges…
 
 
-### OTHER on 2025-07-13 01:00
-- Location: ComicBook.com
-- Description: When it comes to horror movies and thrillers, fans typically expect a twist to happen that shocks the entire audience, flips the story around, and transforms a mediocre horror movie into something special. But there are also plenty of examples where failure i…
+### HOMICIDE on 2025-07-13 04:39
+- Location: The Times of India
+- Description: In Chhattisgarh's Kanker district, a police inspector is under investigation for allegedly shooting and killing ten stray dogs within the police lines premises. Videos circulating on social media show the aftermath, with men disposing of the dogs' bodies. The…
 
-Analysis generated at: Mon Jul 14 02:06:55 UTC 2025
+Analysis generated at: Mon Jul 14 06:24:10 UTC 2025
