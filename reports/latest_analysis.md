@@ -1,10 +1,10 @@
 
-Loaded 44447 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-12 18:16:01
+Loaded 44454 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-13 01:10:00
 
 Incidents by source:
 source
-newsapi           44346
+newsapi           44353
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-07-12 18:16
-- Location: Vanity Fair
-- Description: “On some occasions, Los Angeles Police Department officers purportedly targeted individuals who were clearly identifiable as members of the press,” ruled US District Judge Hernán D. Vera.
+### OTHER on 2025-07-13 01:10
+- Location: /FILM
+- Description: Here are 15 similarly great television shows you should consider checking out next if you're a fan of Netflix's gripping psychological thriller You.
 
 
-### HOMICIDE on 2025-07-12 17:46
-- Location: The Denver Post
-- Description: One person was killed and a second was injured in a shooting in the 1000 block of North Lincoln Street, according to Denver police.
+### OTHER on 2025-07-13 01:03
+- Location: CBC News
+- Description: Police said they aimed to address concerns and questions from residents at a town hall that nearly filled the Quadeville Community Centre.
 
 
-### HOMICIDE on 2025-07-12 17:46
-- Location: The Denver Post
-- Description: One person was killed and a second was injured in a shooting in the 1000 block of North Lincoln Street, according to Denver police.
+### OTHER on 2025-07-13 01:00
+- Location: ComicBook.com
+- Description: When it comes to horror movies and thrillers, fans typically expect a twist to happen that shocks the entire audience, flips the story around, and transforms a mediocre horror movie into something special. But there are also plenty of examples where failure i…
 
 
-### HOMICIDE on 2025-07-12 17:44
+### HOMICIDE on 2025-07-13 00:52
+- Location: The West Australian
+- Description: A driver in WA’s outback was killed early yesterday along the Menzies-Sandstone Road after his Toyota Hilux rolled.
+
+
+### HOMICIDE on 2025-07-13 00:35
 - Location: fox6now.com
-- Description: A Milwaukee woman accused and convicted of driving drunk when she struck two sisters – killing one, injuring the other – was sentenced to prison on Friday, July 11, 2025.
+- Description: Five people were shot in downtown Milwaukee early Saturday. Two of them died, while three others were wounded.
 
-
-### OTHER on 2025-07-12 17:44
-- Location: Boredpanda.com
-- Description: Of his character, those who knew him–including lawmen, for all the wrong reasons–saw him as a “charming personality” prone to “ruthless criminal behavior.”
-
-Analysis generated at: Sun Jul 13 18:19:10 UTC 2025
+Analysis generated at: Mon Jul 14 01:16:22 UTC 2025
