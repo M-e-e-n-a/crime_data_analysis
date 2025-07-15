@@ -1,10 +1,10 @@
 
-Loaded 44590 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-14 02:01:15
+Loaded 44626 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-14 06:12:19
 
 Incidents by source:
 source
-newsapi           44489
+newsapi           44525
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-07-14 02:01
-- Location: Vulture
-- Description: Even a weeping bride can’t distract from the opulence of the ‘Gilded Age’ ceremony, which “isn’t a direct copy of, but was not uninspired by,” one of the most famous weddings of the actual Gilded Age.
+### SHOOTING on 2025-07-14 06:12
+- Location: Mapepeza.online
+- Description: According to the Department, the incident occurred within close proximity to the hospital’s entrance, in full view of members of the public and her colleagues, leaving staff traumatised and fearful.
 
 
-### OTHER on 2025-07-14 01:57
-- Location: Fox News
-- Description: Charges could be dismissed against a registered sex offender after a mental competency evaluation found him unfit to stand trial for attempted kidnapping at an Aurora school
+### OTHER on 2025-07-14 06:12
+- Location: Israelnationalnews.com
+- Description: In a Polish town where locals burned Jews alive in 1941, new plaques deny complicity with Nazis.
 
 
-### HOMICIDE on 2025-07-14 01:36
+### HOMICIDE on 2025-07-14 06:04
 - Location: ABC News (AU)
-- Description: Ukraine's security service said when the Russian FSB agent cell "started to resist" arrest, they were subsequently "liquidated".
+- Description: A magistrate sentences a father of four for sending an "abhorrent" email to South Australia's police commissioner just hours after his son's death.
 
 
-### HOMICIDE on 2025-07-14 01:31
-- Location: Freerepublic.com
-- Description: BREAKING: New details on the Lexington, KY church shooting — The gunman, Guy House, was an Islamist pro-Palestinian. He shot a state trooper, killed 2 women, wounded 3 others, carjacked a vehicle, and stormed Richmond Road Baptist Church before police took hi…
+### OTHER on 2025-07-14 06:01
+- Location: The Star Online
+- Description: KOTA KINABALU: Three people were arrested in Tawau over the weekend for alleged criminal intimidation in separate incidents. Read full story
 
 
-### OTHER on 2025-07-14 01:30
-- Location: WDRB
-- Description: South Points Buy Local Fair brings dozens of vendors to Iroquois Parkwdrb.com
+### HOMICIDE on 2025-07-14 06:00
+- Location: Yahoo Entertainment
+- Description: Security forces in Ofakim, including police officers, armed civilians, and IDF soldiers were motivated to repel Hamas's Nukhba force terrorists, leading to...
 
-Analysis generated at: Tue Jul 15 02:06:39 UTC 2025
+Analysis generated at: Tue Jul 15 06:23:21 UTC 2025
