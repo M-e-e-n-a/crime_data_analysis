@@ -1,10 +1,10 @@
 
-Loaded 44580 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-13 18:20:25
+Loaded 44584 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-14 01:05:31
 
 Incidents by source:
 source
-newsapi           44479
+newsapi           44483
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,27 @@ bution.svg)
 
 ## Recent Incidents
 
+### ROBBERY/THEFT on 2025-07-14 01:05
+- Location: The Punch
+- Description: Troops of the Nigerian Army, 6 Division, have destroyed 11 illegal refineries and arrested 50 suspected oil thieves in the Niger Delta. Also, the army said during the operation, it confiscated 25,000 litres of stolen products as well as the discovery of sever…
+
+
+### ASSAULT on 2025-07-14 00:36
+- Location: 7NEWS.com.au
+- Description: The incident has resulted in heavy traffic with motorists urged to avoid the area.
+
+
+### OTHER on 2025-07-14 00:25
+- Location: ABC News (AU)
+- Description: The Queensland government says the CFMEU's violent and disruptive actions cost it $22 million in security, fencing and CCTV.
+
+
+### HOMICIDE on 2025-07-14 00:08
+- Location: Biztoc.com
+
+
 ### HOMICIDE on 2025-07-13 18:20
 - Location: The Denver Post
 - Description: Tayjahn Thomas, 23, was shot and killed in his home at the Renaissance at Lowry Boulevard apartment complex at 550 Alton Way on Tuesday, Denver police said.
 
-
-### OTHER on 2025-07-13 18:18
-- Location: The Times of India
-- Description: Panaji: The cyber crime police on Sunday arrested a man from Ludhiana, Punjab, for defrauding a victim from Goa of Rs 18 lakh. The accused, Surinder K.
-
-
-### OTHER on 2025-07-13 18:08
-- Location: CBS News
-- Description: On this "Face the Nation with Margaret Brennan" broadcast, Sens. Richard Blumenthal and Lindsey Graham join Margaret Brennan.
-
-
-### DRUG RELATED on 2025-07-13 18:08
-- Location: fox6now.com
-- Description: A Milwaukee man has been criminally charged in connection to a police chase that started in West Allis back in April.
-
-
-### SHOOTING on 2025-07-13 17:49
-- Location: Breitbart News
-- Description: ABC 7 studied figures from the Chicago Police Department and found "the number of shooting victims in the past 12 months stands at 2,225."
-The post Chicago: Over 2,200 Shooting Victims During Last 12 Months appeared first on Breitbart.
-
-Analysis generated at: Mon Jul 14 18:22:14 UTC 2025
+Analysis generated at: Tue Jul 15 01:16:18 UTC 2025
