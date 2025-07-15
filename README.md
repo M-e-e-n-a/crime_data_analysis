@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Jul 15 12:52:30 UTC 2025
+Last updated: Tue Jul 15 18:22:03 UTC 2025
 
 ## Latest Analysis
 
-Loaded 44692 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-14 12:52:00
+Loaded 44785 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-14 18:20:47
 
 Incidents by source:
 source
-newsapi           44591
+newsapi           44684
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2025-07-14 12:52
-- Location: Internet
-- Description: In cybersecurity, precision matters—and there’s little room for error. A small mistake, missed setting, or quiet misconfiguration can quickly lead to much bigger problems. The signs we’re seeing this week highlight deeper issues behind what might look like ro…
+### OTHER on 2025-07-14 18:20
+- Location: Thegatewaypundit.com
+- Description: Colorado’s 18th Judicial District Attorney’s Office has decided to drop charges against Solomon Galligan, a 33‑year‑old registered sex offender who brazenly attempted to abduct an 11‑year‑old boy from Black Forest Hills Elementary School during recess in Apri…
 
 
-### OTHER on 2025-07-14 12:42
-- Location: Odditycentral.com
-- Description: A 55-year-old grandfather of three stands accused of eloping with the 22-year-old fiancée of his teenage son and taking his family’s savings and gold jewelry with him. They say the heart wants what it wants, and in the case of an Indian man, if this happens t…
+### OTHER on 2025-07-14 18:12
+- Location: Slashdot.org
+- Description: South Africa announces commission to investigate police scandalFinancial Times South Africa's president creates commission to look at police corruption allegationsNPR Senzo Mchunu: Cyril Ramaphosa suspends South African police minister over crime syndicate al…
 
 
-### HOMICIDE on 2025-07-14 12:42
-- Location: The-independent.com
-- Description: Police say that Guy House shot dead churchgoers Beverly Gumm and Christina Combs in Lexington on Sunday
+### OTHER on 2025-07-14 18:05
+- Location: Freerepublic.com
+- Description: For nearly a year, 29-year-old Yessica Arrua was living like a high-earning veterinarian despite working as a receptionist at a Florida horse clinic. Thanks to a payroll mix-up, Arrua, who is originally from Argentina, allegedly pocketed more than $400,000 of…
 
 
-### OTHER on 2025-07-14 12:39
-- Location: The Local Sweden
-- Description: A much-awaited list which could change Sweden's work permit salary threshold is set to be published, we'll get a closer look at possible new rules for family reunification, and it's back to work for a lot of people. Here are the main things changing in Sweden…
+### ASSAULT on 2025-07-14 18:01
+- Location: Fox News
+- Description: The FBI is offering a $25,000 reward for information leading to the arrest of Benjamin Hanil Song, after an attack outside a Texas ICE facility.
 
 
-### OTHER on 2025-07-14 12:35
-- Location: fox6now.com
-- Description: One person was taken into custody following a police chase in Greenfield early Monday morning, July 14.
+### OTHER on 2025-07-14 18:00
+- Location: Raw Story
+- Description: The headlines this week are wild: Trump is threatening nutso tariffs against America’s traditional trading partners (although none for Russia, of course), demanding that our allies proclaim their willingness to go to war with China, and — along with his billi…
 
-Analysis generated at: Tue Jul 15 12:52:30 UTC 2025
+Analysis generated at: Tue Jul 15 18:22:03 UTC 2025
