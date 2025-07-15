@@ -1,10 +1,10 @@
 
-Loaded 44584 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-14 01:05:31
+Loaded 44590 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-14 02:01:15
 
 Incidents by source:
 source
-newsapi           44483
+newsapi           44489
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,27 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2025-07-14 01:05
-- Location: The Punch
-- Description: Troops of the Nigerian Army, 6 Division, have destroyed 11 illegal refineries and arrested 50 suspected oil thieves in the Niger Delta. Also, the army said during the operation, it confiscated 25,000 litres of stolen products as well as the discovery of sever…
+### OTHER on 2025-07-14 02:01
+- Location: Vulture
+- Description: Even a weeping bride can’t distract from the opulence of the ‘Gilded Age’ ceremony, which “isn’t a direct copy of, but was not uninspired by,” one of the most famous weddings of the actual Gilded Age.
 
 
-### ASSAULT on 2025-07-14 00:36
-- Location: 7NEWS.com.au
-- Description: The incident has resulted in heavy traffic with motorists urged to avoid the area.
+### OTHER on 2025-07-14 01:57
+- Location: Fox News
+- Description: Charges could be dismissed against a registered sex offender after a mental competency evaluation found him unfit to stand trial for attempted kidnapping at an Aurora school
 
 
-### OTHER on 2025-07-14 00:25
+### HOMICIDE on 2025-07-14 01:36
 - Location: ABC News (AU)
-- Description: The Queensland government says the CFMEU's violent and disruptive actions cost it $22 million in security, fencing and CCTV.
+- Description: Ukraine's security service said when the Russian FSB agent cell "started to resist" arrest, they were subsequently "liquidated".
 
 
-### HOMICIDE on 2025-07-14 00:08
-- Location: Biztoc.com
+### HOMICIDE on 2025-07-14 01:31
+- Location: Freerepublic.com
+- Description: BREAKING: New details on the Lexington, KY church shooting — The gunman, Guy House, was an Islamist pro-Palestinian. He shot a state trooper, killed 2 women, wounded 3 others, carjacked a vehicle, and stormed Richmond Road Baptist Church before police took hi…
 
 
-### HOMICIDE on 2025-07-13 18:20
-- Location: The Denver Post
-- Description: Tayjahn Thomas, 23, was shot and killed in his home at the Renaissance at Lowry Boulevard apartment complex at 550 Alton Way on Tuesday, Denver police said.
+### OTHER on 2025-07-14 01:30
+- Location: WDRB
+- Description: South Points Buy Local Fair brings dozens of vendors to Iroquois Parkwdrb.com
 
-Analysis generated at: Tue Jul 15 01:16:18 UTC 2025
+Analysis generated at: Tue Jul 15 02:06:39 UTC 2025
