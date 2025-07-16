@@ -1,10 +1,10 @@
 
-Loaded 44785 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-14 18:20:47
+Loaded 44794 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-15 01:07:24
 
 Incidents by source:
 source
-newsapi           44684
+newsapi           44693
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-07-14 18:20
-- Location: Thegatewaypundit.com
-- Description: Colorado’s 18th Judicial District Attorney’s Office has decided to drop charges against Solomon Galligan, a 33‑year‑old registered sex offender who brazenly attempted to abduct an 11‑year‑old boy from Black Forest Hills Elementary School during recess in Apri…
-
-
-### OTHER on 2025-07-14 18:12
-- Location: Slashdot.org
-- Description: South Africa announces commission to investigate police scandalFinancial Times South Africa's president creates commission to look at police corruption allegationsNPR Senzo Mchunu: Cyril Ramaphosa suspends South African police minister over crime syndicate al…
-
-
-### OTHER on 2025-07-14 18:05
-- Location: Freerepublic.com
-- Description: For nearly a year, 29-year-old Yessica Arrua was living like a high-earning veterinarian despite working as a receptionist at a Florida horse clinic. Thanks to a payroll mix-up, Arrua, who is originally from Argentina, allegedly pocketed more than $400,000 of…
-
-
-### ASSAULT on 2025-07-14 18:01
+### OTHER on 2025-07-15 01:07
 - Location: Fox News
-- Description: The FBI is offering a $25,000 reward for information leading to the arrest of Benjamin Hanil Song, after an attack outside a Texas ICE facility.
+- Description: Progressive lawmaker sparks controversy by condemning ICE as 'thugs' after they apprehended an MS-13 member with fentanyl charges who was released despite an immigration detainer.
 
 
-### OTHER on 2025-07-14 18:00
-- Location: Raw Story
-- Description: The headlines this week are wild: Trump is threatening nutso tariffs against America’s traditional trading partners (although none for Russia, of course), demanding that our allies proclaim their willingness to go to war with China, and — along with his billi…
+### SHOOTING on 2025-07-15 01:00
+- Location: Thehillstimes.in
+- Description: ITANAGAR, July 14: A construction labourer succumbed to bullet injuries at a state-run medical institute in Naharlagun near here on Monday, police said. The deceased, identified as Shankar Pegu, was a native of Borajuli village in Assam’s Biswanath district. …
 
-Analysis generated at: Tue Jul 15 18:22:03 UTC 2025
+
+### HOMICIDE on 2025-07-15 01:00
+- Location: Allthatsinteresting.com
+- Description: John Wayne Gacy slaughtered at least 33 young men and boys in the Chicago area, but it was his murder of 15-year-old Robert Piest that finally led to his capture in December 1978.
+The post Inside The Short Life And Horrific Death Of Robert Piest, The Final Vi…
+
+
+### ROBBERY/THEFT on 2025-07-15 00:53
+- Location: The-independent.com
+- Description: Beyoncé was in Atlanta to tour her ‘Cowboy Carter’ album
+
+
+### ROBBERY/THEFT on 2025-07-15 00:51
+- Location: CBC News
+- Description: Police in Atlanta are investigating the theft of unreleased music by Beyoncé, along with show plans and concert lists after a car was broken into.
+
+Analysis generated at: Wed Jul 16 01:14:14 UTC 2025
