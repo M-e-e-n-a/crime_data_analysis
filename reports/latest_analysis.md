@@ -1,10 +1,10 @@
 
-Loaded 44794 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-15 01:07:24
+Loaded 44803 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-15 02:00:00
 
 Incidents by source:
 source
-newsapi           44693
+newsapi           44702
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-07-15 01:07
-- Location: Fox News
-- Description: Progressive lawmaker sparks controversy by condemning ICE as 'thugs' after they apprehended an MS-13 member with fentanyl charges who was released despite an immigration detainer.
+### ROBBERY/THEFT on 2025-07-15 02:00
+- Location: The Star Online
+- Description: KOTA BARU: Police arrested a man believed to be involved in a snatch theft at the parking area of a Lembah Sireh hypermarket here, just 24 hours after the incident. Read full story
 
 
-### SHOOTING on 2025-07-15 01:00
-- Location: Thehillstimes.in
-- Description: ITANAGAR, July 14: A construction labourer succumbed to bullet injuries at a state-run medical institute in Naharlagun near here on Monday, police said. The deceased, identified as Shankar Pegu, was a native of Borajuli village in Assam’s Biswanath district. …
+### HOMICIDE on 2025-07-15 01:59
+- Location: New York Post
+- Description: A German doctor went on trial in Berlin Monday, accused of murdering 15 of his patients who were under palliative care.
 
 
-### HOMICIDE on 2025-07-15 01:00
-- Location: Allthatsinteresting.com
-- Description: John Wayne Gacy slaughtered at least 33 young men and boys in the Chicago area, but it was his murder of 15-year-old Robert Piest that finally led to his capture in December 1978.
-The post Inside The Short Life And Horrific Death Of Robert Piest, The Final Vi…
+### OTHER on 2025-07-15 01:51
+- Location: Israelnationalnews.com
+- Description: Toronto man arrested and charged with mischief relating to religious property and mischief interference with property for allegedly urinating on the steps of a place of worship and shouting antisemitic slurs.
 
 
-### ROBBERY/THEFT on 2025-07-15 00:53
-- Location: The-independent.com
-- Description: Beyoncé was in Atlanta to tour her ‘Cowboy Carter’ album
+### HOMICIDE on 2025-07-15 01:49
+- Location: Variety
+- Description: With his new show “Bookish,” Mark Gatiss hasn’t tired of coming up with ways to kill people. “Sherlock Holmes himself said, ‘There’s nothing new under the sun,’” says the Emmy-winning co-creator/star of “Sherlock,” adding, “It’s a constant challenge because y…
 
 
-### ROBBERY/THEFT on 2025-07-15 00:51
-- Location: CBC News
-- Description: Police in Atlanta are investigating the theft of unreleased music by Beyoncé, along with show plans and concert lists after a car was broken into.
+### HOMICIDE on 2025-07-15 01:34
+- Location: New York Post
+- Description: A Connecticut man was sentenced Monday to 65 years in prison for the 2019 beating death of his girlfriend, Christine Holloway, but their baby daughter disappeared at the time and remains missing.
 
-Analysis generated at: Wed Jul 16 01:14:14 UTC 2025
+Analysis generated at: Wed Jul 16 02:03:36 UTC 2025
