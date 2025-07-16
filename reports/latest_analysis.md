@@ -1,10 +1,10 @@
 
-Loaded 44903 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-15 12:36:35
+Loaded 44993 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-15 18:17:19
 
 Incidents by source:
 source
-newsapi           44802
+newsapi           44892
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2025-07-15 12:36
-- Location: The FADER
-- Description: A USB drive containing unreleased Beyoncé music was stolen from a member of the singer's entourage while she was in Atlanta as part of her Cowboy Carter tour.
+### SHOOTING on 2025-07-15 18:17
+- Location: CinemaBlend
+- Description: Does it do its predecessors justice?
 
 
-### ROBBERY/THEFT on 2025-07-15 12:34
-- Location: TODAY
-- Description: Police in Atlanta are investigating the theft of unreleased Beyonce music on hard drives stolen from a vehicle July 8 during her "Cowboy Carter" tour.
+### HOMICIDE on 2025-07-15 18:14
+- Location: fox6now.com
+- Description: Racine police say a 37-year-old woman who was fatally shot in Racine early Tuesday, July 15, was an innocent victim, caught in the crossfire.
 
 
-### SHOOTING on 2025-07-15 12:29
-- Location: Neatorama.com
-- Description: CTV News reports that police officers in a town in southeastern Wisconsin pulled over a car and performed a search of the vehicle and its occupants. Inside, they found a gun, drug paraphenalia and, most curiously, a bag labeled "definitely not a bag full of d…
+### OTHER on 2025-07-15 18:14
+- Location: Ms. Magazine
+- Description: A phone call one autumn morning from local police requesting that Dominique Pelicot, then 67, husband to Gisèle, also 67, report to the local station interrupted their daily routine. A surprised Gisèle listened as her husband told her not to worry: “It won’t …
 
 
-### HOMICIDE on 2025-07-15 12:29
+### OTHER on 2025-07-15 18:09
 - Location: New York Post
-- Description: Former MLB pitcher Dan Serafini was convicted Monday of first-degree murder of his father-in-law and attempted murder of his mother-in-law over a financial dispute. Serafini, a 51-year-old who spent seven seasons in the majors from 1996-2007, was found guilty…
+- Description: Readers express concerns over unanswered questions in Trump’s failed assassination.
 
 
-### OTHER on 2025-07-15 12:23
-- Location: Fox News
-- Description: A California professor has been arrested for allegedly throwing a tear gas canister at ICE agents during a massive raid at cannabis farm last week where agitators also hurled rocks at law enforcement vehicles.
+### HOMICIDE on 2025-07-15 17:57
+- Location: Radaronline.com
+- Description: Robin Kaye, a music supervisor for 'American Idol' has been found dead with her husband.
 
-Analysis generated at: Wed Jul 16 12:53:02 UTC 2025
+Analysis generated at: Wed Jul 16 18:21:34 UTC 2025
