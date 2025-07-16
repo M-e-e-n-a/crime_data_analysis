@@ -1,10 +1,10 @@
 
-Loaded 44835 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-15 06:07:55
+Loaded 44901 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-15 12:29:41
 
 Incidents by source:
 source
-newsapi           44734
+newsapi           44800
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-07-15 06:07
-- Location: KOMO News
-- Description: Two people are dead after a shooting in Kent Monday night, according to the Kent Police Department.
+### SHOOTING on 2025-07-15 12:29
+- Location: Neatorama.com
+- Description: CTV News reports that police officers in a town in southeastern Wisconsin pulled over a car and performed a search of the vehicle and its occupants. Inside, they found a gun, drug paraphenalia and, most curiously, a bag labeled "definitely not a bag full of d…
 
 
-### OTHER on 2025-07-15 06:03
-- Location: EURACTIV
-- Description: In today’s edition of The Capitals, read about the EU’s new seven-year budget, the bloc pondering its stance on Israel, the Greens having no regrets, and the petrol car phase-out.
+### HOMICIDE on 2025-07-15 12:29
+- Location: New York Post
+- Description: Former MLB pitcher Dan Serafini was convicted Monday of first-degree murder of his father-in-law and attempted murder of his mother-in-law over a financial dispute. Serafini, a 51-year-old who spent seven seasons in the majors from 1996-2007, was found guilty…
 
 
-### OTHER on 2025-07-15 05:59
-- Location: Openculture.com
-- Description: A few things to know about Charlie Chaplin. He starred in over 80 films, reeling off most during the silent film era. In 1914 alone, he acted in 40 films, then another 15 in 1915. By the 1920s, Chaplin had emerged as the first larger-than-life movie star and …
+### OTHER on 2025-07-15 12:23
+- Location: Fox News
+- Description: A California professor has been arrested for allegedly throwing a tear gas canister at ICE agents during a massive raid at cannabis farm last week where agitators also hurled rocks at law enforcement vehicles.
 
 
-### HOMICIDE on 2025-07-15 05:55
-- Location: Decrypt
-- Description: Records show the New Zealand woman used fake crypto screenshots to convince her mother the investment had generated $160,000 profit.
+### OTHER on 2025-07-15 12:20
+- Location: Freerepublic.com
+- Description: American Statesmanship for the Golden AgeWe all should have a profound sense of gratitude for the many blessings our nation has given us.Editors’ NoteThis a lightly edited version of Vice President Vance’s remarks as prepared for the Claremont Institute’s 202…
 
 
-### HOMICIDE on 2025-07-15 05:54
-- Location: 7NEWS.com.au
-- Description: Neighbour finds man stabbed to death in front yard at Warana on Sunshine Coast7news.com.au
+### ROBBERY/THEFT on 2025-07-15 12:17
+- Location: Dineshkhabar.com
+- Description: Dhangadhi: Three individuals wanted in theft and forest-related cases have been arrested in Kailali.
 
-Analysis generated at: Wed Jul 16 06:22:36 UTC 2025
+A police team from the District Police Office, Kailali, apprehended 19-year-old Nisant Rana of Godavari Municipality-7, Kailali, who had been absconding aft…
+
+Analysis generated at: Wed Jul 16 12:31:12 UTC 2025
