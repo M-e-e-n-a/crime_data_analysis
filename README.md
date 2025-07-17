@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Jul 17 12:52:24 UTC 2025
+Last updated: Thu Jul 17 18:21:44 UTC 2025
 
 ## Latest Analysis
 
-Loaded 45137 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-16 12:39:49
+Loaded 45228 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-16 18:21:01
 
 Incidents by source:
 source
-newsapi           45036
+newsapi           45127
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-07-16 12:39
-- Location: BBC News
-- Description: An attempt to turn a triple-murderer's 49-year minimum jail term into a whole-life order is rejected.
+### OTHER on 2025-07-16 18:21
+- Location: Fox News
+- Description: A new documentary reveals a possible new person of interest in the abduction of Iowa news anchor Jodi Huisentruit, which took place in 1995.
 
 
-### HOMICIDE on 2025-07-16 12:31
-- Location: Tjpnews.com
-- Description: The victim was identified as Shalev Zvuluny, 22, a resident of the Jewish community of Kiryat Arba, who worked as a shopping mall security guard. JNS Staff ReportJuly 10, 2025 Palestinian terrorists killed an Israeli man in his 20s at the Gush Etzion Junction…
+### OTHER on 2025-07-16 18:16
+- Location: Forbes
+- Description: "Imagine how desolate the Democrats are that a Democrat running on affordability is an anti-establishment Democrat," says a top New York City unionl leader. .
 
 
-### OTHER on 2025-07-16 12:26
-- Location: ABC News
-- Description: ABC News' Will Reeve sat down with the superstar, who is speaking about her recovery from her frightening on-field collapse in the middle of a game.
+### HOMICIDE on 2025-07-16 18:15
+- Location: Slashdot.org
+- Description: ‘American Idol’ music supervisor and husband shot dead in L.A. homeThe Washington Post Arrest made in shooting deaths of 'American Idol' music supervisor Robin Kaye and her husband Thomas Deluca inside Encino homeABC7 Los Angeles Question swirl around slaying…
 
 
-### HOMICIDE on 2025-07-16 12:25
-- Location: BBC News
-- Description: Police say they will not stop searching for Peter Falcone's remains, after the man convicted of his murder died.
+### OTHER on 2025-07-16 18:15
+- Location: Decider
+- Description: Ever wonder what a dirty cop thinks about?
 
 
-### SHOOTING on 2025-07-16 12:19
-- Location: Roanoke Times
-- Description: The shooting happened Tuesday night in a Staunton Avenue home.
+### HOMICIDE on 2025-07-16 18:13
+- Location: Inside the Magic
+- Description: Three people are now dead as an intense high-speed police chase occurred near Disneyland, leading to a tragic Disney park incident. Disney Park Incident: A Fireball on the Freeway Near the Happiest Place on Earth At around 3 a.m., Disneyland Resort was quiet—…
 
-Analysis generated at: Thu Jul 17 12:52:24 UTC 2025
+Analysis generated at: Thu Jul 17 18:21:44 UTC 2025
