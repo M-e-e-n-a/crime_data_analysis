@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Jul 17 01:14:42 UTC 2025
+Last updated: Thu Jul 17 02:03:52 UTC 2025
 
 ## Latest Analysis
 
-Loaded 45009 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-16 01:08:02
+Loaded 45016 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-16 02:03:00
 
 Incidents by source:
 source
-newsapi           44908
+newsapi           44915
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-07-16 01:08
-- Location: ABC News (AU)
-- Description: Authorities say the methamphetamine could have "resulted in about six million individual street deals".
+### OTHER on 2025-07-16 02:03
+- Location: Activistpost.com
+- Description: Those at risk of deportation from the US now have an app that warns them about immigration enforcement activities. This app “ICE Block” went viral and gained 240,000 users within a few weeks. WATCH THIS CLIP ON SUBSTACK It currently ranks at the 3rd most donw…
 
 
-### ROBBERY/THEFT on 2025-07-16 01:07
-- Location: Fox News
-- Description: Manhattan DA Alvin Bragg is being slammed by his GOP opponent for policies she said give criminals a “get out of jail free card," contributing to a massive surge in shoplifting.
+### OTHER on 2025-07-16 01:48
+- Location: New York Post
+- Description: A new person of interest has been revealed in the baffling cold case of Iowa news anchor Jodi Huisentruit, who vanished from her home on a summer morning over 30 years ago. Brad Millerbernd, the ex-husband of Huisentruit’s childhood best friend Patty Niemeyer…
 
 
-### OTHER on 2025-07-16 00:59
-- Location: Boston Herald
-- Description: Boston man allegedly broke into Trillium Brewery weeks after getting out of prison for break-ins
+### HOMICIDE on 2025-07-16 01:36
+- Location: Consequence.net
+- Description: Longtime American Idol music supervisor Robin Kaye and her husband Thomas Deluca were discovered after the LAPD were called to make a welfare check at their home in Encino, California. 
+American Idol Music Supervisor and Husband Killed in Suspected Double Hom…
 
 
-### OTHER on 2025-07-16 00:57
-- Location: Fox News
-- Description: The San Bernardino County Sheriff 's Office is seeking the public's help locating Nai Ping Hou, whose disappearance involves fraudulent bank activity and family impersonation.
+### HOMICIDE on 2025-07-16 01:35
+- Location: The Times of India
+- Description: Robin Kaye, the celebrated music supervisor for American Idol, and her husband, singer-songwriter Thomas DeLuca, were tragically found dead in their Los Angeles home. Police suspect a double murder following a break-in at their Encino residence. The couple, b…
 
 
-### HOMICIDE on 2025-07-16 00:57
-- Location: Deadline
-- Description: Los Angeles police have arrested a suspect in connection with the killing of longtime American Idol music supervisor Robin Kaye and her husband Thomas Deluca, who were found Monday shot to death in their Encino home. LAPD identified the suspect as Raymond Boo…
+### HOMICIDE on 2025-07-16 01:34
+- Location: Slashdot.org
+- Description: 'American Idol' music supervisor and husband found shot dead in Los Angeles home, suspect arrestedABC News - Breaking News, Latest News and Videos Arrest made in shooting deaths of 'American Idol' music supervisor Robin Kaye and her husband Thomas Deluca insi…
 
-Analysis generated at: Thu Jul 17 01:14:42 UTC 2025
+Analysis generated at: Thu Jul 17 02:03:52 UTC 2025
