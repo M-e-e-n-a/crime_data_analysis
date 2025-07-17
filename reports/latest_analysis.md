@@ -1,10 +1,10 @@
 
-Loaded 44993 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-15 18:17:19
+Loaded 45009 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-16 01:08:02
 
 Incidents by source:
 source
-newsapi           44892
+newsapi           44908
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-07-15 18:17
-- Location: CinemaBlend
-- Description: Does it do its predecessors justice?
+### OTHER on 2025-07-16 01:08
+- Location: ABC News (AU)
+- Description: Authorities say the methamphetamine could have "resulted in about six million individual street deals".
 
 
-### HOMICIDE on 2025-07-15 18:14
-- Location: fox6now.com
-- Description: Racine police say a 37-year-old woman who was fatally shot in Racine early Tuesday, July 15, was an innocent victim, caught in the crossfire.
+### ROBBERY/THEFT on 2025-07-16 01:07
+- Location: Fox News
+- Description: Manhattan DA Alvin Bragg is being slammed by his GOP opponent for policies she said give criminals a “get out of jail free card," contributing to a massive surge in shoplifting.
 
 
-### OTHER on 2025-07-15 18:14
-- Location: Ms. Magazine
-- Description: A phone call one autumn morning from local police requesting that Dominique Pelicot, then 67, husband to Gisèle, also 67, report to the local station interrupted their daily routine. A surprised Gisèle listened as her husband told her not to worry: “It won’t …
+### OTHER on 2025-07-16 00:59
+- Location: Boston Herald
+- Description: Boston man allegedly broke into Trillium Brewery weeks after getting out of prison for break-ins
 
 
-### OTHER on 2025-07-15 18:09
-- Location: New York Post
-- Description: Readers express concerns over unanswered questions in Trump’s failed assassination.
+### OTHER on 2025-07-16 00:57
+- Location: Fox News
+- Description: The San Bernardino County Sheriff 's Office is seeking the public's help locating Nai Ping Hou, whose disappearance involves fraudulent bank activity and family impersonation.
 
 
-### HOMICIDE on 2025-07-15 17:57
-- Location: Radaronline.com
-- Description: Robin Kaye, a music supervisor for 'American Idol' has been found dead with her husband.
+### HOMICIDE on 2025-07-16 00:57
+- Location: Deadline
+- Description: Los Angeles police have arrested a suspect in connection with the killing of longtime American Idol music supervisor Robin Kaye and her husband Thomas Deluca, who were found Monday shot to death in their Encino home. LAPD identified the suspect as Raymond Boo…
 
-Analysis generated at: Wed Jul 16 18:21:34 UTC 2025
+Analysis generated at: Thu Jul 17 01:14:42 UTC 2025
