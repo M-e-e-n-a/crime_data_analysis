@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Jul 17 12:30:35 UTC 2025
+Last updated: Thu Jul 17 12:52:24 UTC 2025
 
 ## Latest Analysis
 
-Loaded 45135 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-16 12:26:28
+Loaded 45137 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-16 12:39:49
 
 Incidents by source:
 source
-newsapi           45034
+newsapi           45036
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,6 +24,16 @@ bution.svg)
 
 ## Recent Incidents
 
+### HOMICIDE on 2025-07-16 12:39
+- Location: BBC News
+- Description: An attempt to turn a triple-murderer's 49-year minimum jail term into a whole-life order is rejected.
+
+
+### HOMICIDE on 2025-07-16 12:31
+- Location: Tjpnews.com
+- Description: The victim was identified as Shalev Zvuluny, 22, a resident of the Jewish community of Kiryat Arba, who worked as a shopping mall security guard. JNS Staff ReportJuly 10, 2025 Palestinian terrorists killed an Israeli man in his 20s at the Gush Etzion Junction…
+
+
 ### OTHER on 2025-07-16 12:26
 - Location: ABC News
 - Description: ABC News' Will Reeve sat down with the superstar, who is speaking about her recovery from her frightening on-field collapse in the middle of a game.
@@ -38,14 +48,4 @@ bution.svg)
 - Location: Roanoke Times
 - Description: The shooting happened Tuesday night in a Staunton Avenue home.
 
-
-### OTHER on 2025-07-16 12:00
-- Location: Wccftech
-- Description: Judging from its current immense popularity, the gacha RPG genre isn’t going anywhere. If anything, it's going to become even bigger, as games like HoYoVerse's Genshin Impact have proven how there's a rather big audience for ambitious and immersive open-world…
-
-
-### HOMICIDE on 2025-07-16 12:00
-- Location: Radaronline.com
-- Description: Taylor Swift reportedly freaked out after a human bone washed up at her murder mansion doorstep.
-
-Analysis generated at: Thu Jul 17 12:30:35 UTC 2025
+Analysis generated at: Thu Jul 17 12:52:24 UTC 2025
