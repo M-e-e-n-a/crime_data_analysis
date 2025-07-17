@@ -1,10 +1,10 @@
 
-Loaded 45016 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-16 02:03:00
+Loaded 45054 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-16 06:17:52
 
 Incidents by source:
 source
-newsapi           44915
+newsapi           44953
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-07-16 02:03
-- Location: Activistpost.com
-- Description: Those at risk of deportation from the US now have an app that warns them about immigration enforcement activities. This app “ICE Block” went viral and gained 240,000 users within a few weeks. WATCH THIS CLIP ON SUBSTACK It currently ranks at the 3rd most donw…
+### ROBBERY/THEFT on 2025-07-16 06:17
+- Location: Nep123.com
+- Description: Beyoncé’s Unreleased Music and More Stolen in Atlanta: Breaking News Hey music lovers and Beyoncé fans! We’ve got some shocking breaking news from the world of pop music. It seems that Beyoncé’s unreleased music and other valuable materials have been stolen i…
 
 
-### OTHER on 2025-07-16 01:48
-- Location: New York Post
-- Description: A new person of interest has been revealed in the baffling cold case of Iowa news anchor Jodi Huisentruit, who vanished from her home on a summer morning over 30 years ago. Brad Millerbernd, the ex-husband of Huisentruit’s childhood best friend Patty Niemeyer…
+### OTHER on 2025-07-16 06:11
+- Location: ABC News (AU)
+- Description: Guy Sebastian's former manager Titus Day was acquitted of four charges, but the jury was hung on the remaining 30.
 
 
-### HOMICIDE on 2025-07-16 01:36
-- Location: Consequence.net
-- Description: Longtime American Idol music supervisor Robin Kaye and her husband Thomas Deluca were discovered after the LAPD were called to make a welfare check at their home in Encino, California. 
-American Idol Music Supervisor and Husband Killed in Suspected Double Hom…
+### HOMICIDE on 2025-07-16 06:07
+- Location: HuffPost
+- Description: Robin Kaye was "a cornerstone of the Idol family" and "truly loved and respected by all," a spokesperson for the show said.
 
 
-### HOMICIDE on 2025-07-16 01:35
-- Location: The Times of India
-- Description: Robin Kaye, the celebrated music supervisor for American Idol, and her husband, singer-songwriter Thomas DeLuca, were tragically found dead in their Los Angeles home. Police suspect a double murder following a break-in at their Encino residence. The couple, b…
+### ROBBERY/THEFT on 2025-07-16 06:05
+- Location: Thehillstimes.in
+- Description: HT DIGITAL GUWAHATI, JULY 16: In a joint and quick operation, Manipur Police arrested a suspected car thief and recovered five stolen cars within 24 hours in Thoubal district. The arrest was made in the Lilong Tamyai inter-village road area under Lilong Polic…
 
 
-### HOMICIDE on 2025-07-16 01:34
-- Location: Slashdot.org
-- Description: 'American Idol' music supervisor and husband found shot dead in Los Angeles home, suspect arrestedABC News - Breaking News, Latest News and Videos Arrest made in shooting deaths of 'American Idol' music supervisor Robin Kaye and her husband Thomas Deluca insi…
+### HOMICIDE on 2025-07-16 06:02
+- Location: Thehillstimes.in
+- Description: HT Digital GUWAHATI, JULY 16: A horrifying discovery in the wee hours of Tuesday morning has put the residents of Nahira village in South Kamrup district in shock, as a man’s body was discovered tied and floating in a village pond. The hands, legs, and neck o…
 
-Analysis generated at: Thu Jul 17 02:03:52 UTC 2025
+Analysis generated at: Thu Jul 17 06:22:34 UTC 2025
