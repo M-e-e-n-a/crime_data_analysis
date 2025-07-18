@@ -1,10 +1,10 @@
 
-Loaded 45233 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-17 00:33:52
+Loaded 45241 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-17 02:00:36
 
 Incidents by source:
 source
-newsapi           45132
+newsapi           45140
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-07-17 00:33
-- Location: CBC News
-- Description: Officials say the Gastown-Hastings Crossing Community Policing Centre will be a hub for safety resources and programs in the neighbourhood.
-
-
-### OTHER on 2025-07-17 00:13
-- Location: National Post
-- Description: 'Our collective efforts will continue every day until we determine with certainty the circumstances surrounding Lilly and Jack’s disappearance,' police said in a statement
-
-
-### ROBBERY/THEFT on 2025-07-17 00:08
-- Location: ABC News (AU)
-- Description: A man has been charged over the theft of a car connected to the December 2024 fire that destroyed the Adass Israel Synagogue in Melbourne's inner south-east.
-
-
-### OTHER on 2025-07-17 00:05
+### ROBBERY/THEFT on 2025-07-17 02:00
 - Location: Fox News
-- Description: Bodycam footage shown in court captures Minnesota senator Nicole Mitchell telling officers she entered her stepmother's home to collect sentimental items from her deceased father.
+- Description: Chicago women allegedly layered stolen clothing under their own and led police on a dangerous chase, prompting criticism of Illinois' SAFE-T Act limitations on judicial discretion.
 
 
-### OTHER on 2025-07-17 00:02
-- Location: Johnaugust.com
-- Description: The original post for this episode can be found here. John August: Hello, and welcome. My name is John August, and you are listening to episode 692 of Scriptnotes. It’s a podcast about screenwriting and things that are interesting to screenwriters. Today on t…
+### OTHER on 2025-07-17 01:45
+- Location: Khabarhub.com
+- Description: BHADRAPUR: In the fiscal year 2024/25, the District Police Office, Jhapa, along with its subordinate units, arrested 534 absconding defendants who had been convicted by various courts. Among those apprehended, 463 are men, 70 are women, and one identifies as …
 
-Analysis generated at: Fri Jul 18 01:14:03 UTC 2025
+
+### OTHER on 2025-07-17 01:34
+- Location: The Denver Post
+- Description: A Weld County Sheriff's Office detentions deputy is accused of having an inappropriate sexual relationship with an inmate while on duty earlier this month.
+
+
+### OTHER on 2025-07-17 01:32
+- Location: New York Post
+- Description: The New Jersey native's federally mandated 120-day interim term began on March 24 and will expire July 22.
+
+
+### ROBBERY/THEFT on 2025-07-17 01:25
+- Location: Starweekly.com.au
+- Description: A man had been charged over his alleged role in the theft of the blue VW Golf, which was allegedly...
+The post Man charged in connection to theft of vehicle used in Melbourne synagogue arson attack appeared first on Northern.
+
+Analysis generated at: Fri Jul 18 02:05:30 UTC 2025
