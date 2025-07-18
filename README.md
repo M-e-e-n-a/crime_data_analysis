@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Jul 18 12:53:38 UTC 2025
+Last updated: Fri Jul 18 18:21:04 UTC 2025
 
 ## Latest Analysis
 
-Loaded 45355 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-17 12:53:12
+Loaded 45449 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-17 18:16:03
 
 Incidents by source:
 source
-newsapi           45254
+newsapi           45348
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-07-17 12:53
-- Location: WSOC Charlotte
-- Description: A singer and actress known for such 1950s and 1960s  songs as “Who’s Sorry Now?” and “Pretty Little Baby” has died.
+### OTHER on 2025-07-17 18:16
+- Location: Business Insider
+- Description: Here is a ranking of all 55 DC Comics movies, from recent hits like "Superman" to critical flops such as "Catwoman."
 
 
-### OTHER on 2025-07-17 12:51
-- Location: WPXI Pittsburgh
-- Description: A singer and actress known for such 1950s and 1960s  songs as “Who’s Sorry Now?” and “Pretty Little Baby” has died.
+### HOMICIDE on 2025-07-17 18:10
+- Location: Protothema.gr
+- Description: “I bought the gun in Omonia, I decided to kill him a month and a half ago,” claimed the confessed killer, who said he did it all to have a “normal life” with his 43-year-old partner and their children
+The post “I’m a good person, not a criminal – he was evil …
 
 
-### OTHER on 2025-07-17 12:43
-- Location: JoBlo.com
-- Description: Sam Neill and Lily Santiago co-star in the solid crime drama from the writer of The Revenant.
-The post Untamed TV Review: Eric Bana leads the beautiful but familiar procedural set in Yosemite National Park appeared first on JoBlo.
+### SHOOTING on 2025-07-17 18:10
+- Location: Starcrush.com
+- Description: Benjamin 'Donkey' Hawk was a rising voice in the local karaoke scene. Continue reading…
 
 
-### OTHER on 2025-07-17 12:42
-- Location: Syllad.com
-- Description: East Khasi Hills police have arrested two individuals, Kenny Kharmujat (24) and Subroto Baidya (32), both residents of Lumshyiap, Nongmynsong, in connection with a snatching case that occurred at Polo on July 16.  The suspects allegedly snatched a gold item f…
+### SHOOTING on 2025-07-17 18:03
+- Location: STLtoday.com
+- Description: Judge Joseph P. Whyte found that the city's rules were voided by a state law that stops municipalities from passing more restrictive gun laws.
 
 
-### OTHER on 2025-07-17 12:41
-- Location: Nep123.com
-- Description: Breaking News: **Banking Offense** Fugitive Arrested in Kathmandu! Hey everyone! We’ve got an important update on a recent criminal case that’s making headlines. A fugitive wanted for a banking offense has been apprehended by authorities in Kathmandu. This is…
+### OTHER on 2025-07-17 18:02
+- Location: CBS News
+- Description: The U.S. Treasury sanctioned six leaders and affiliates of the Venezuelan gang Tren de Aragua, including the head of the group, known by the alias "Niño Guerrero."
 
-Analysis generated at: Fri Jul 18 12:53:38 UTC 2025
+Analysis generated at: Fri Jul 18 18:21:04 UTC 2025
