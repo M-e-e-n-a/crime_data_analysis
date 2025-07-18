@@ -1,10 +1,10 @@
 
-Loaded 45347 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-17 12:29:03
+Loaded 45355 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-17 12:53:12
 
 Incidents by source:
 source
-newsapi           45246
+newsapi           45254
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-07-17 12:29
-- Location: Rap-Up.com
-- Description: A 19-year-old woman, Talia Jones, was arrested for her alleged facilitation of first-degree murder in the death of Patrick Houston Jr., Project Pat’s son. Here’s what to know.
+### OTHER on 2025-07-17 12:53
+- Location: WSOC Charlotte
+- Description: A singer and actress known for such 1950s and 1960s  songs as “Who’s Sorry Now?” and “Pretty Little Baby” has died.
 
 
-### ROBBERY/THEFT on 2025-07-17 12:22
-- Location: CNBC
-- Description: It comes as there have been multiple headlines this year about crypto entrepreneurs and their relatives being targeted with physical violence.
+### OTHER on 2025-07-17 12:51
+- Location: WPXI Pittsburgh
+- Description: A singer and actress known for such 1950s and 1960s  songs as “Who’s Sorry Now?” and “Pretty Little Baby” has died.
 
 
-### SHOOTING on 2025-07-17 12:18
-- Location: Freerepublic.com
-- Description: Unsympathetic defendants make for bad precedents. This is what happened in the Rahimi case, where the Supreme Court opened the door a crack, allowing judges to believe they can create more exceptions to Second Amendment rights. Rahimi is cited as the reason f…
+### OTHER on 2025-07-17 12:43
+- Location: JoBlo.com
+- Description: Sam Neill and Lily Santiago co-star in the solid crime drama from the writer of The Revenant.
+The post Untamed TV Review: Eric Bana leads the beautiful but familiar procedural set in Yosemite National Park appeared first on JoBlo.
 
 
-### SHOOTING on 2025-07-17 12:11
-- Location: Thefutoncritic.com
-- Description: The month also features new seasons of Sundance TV's "True Crime Story: Smugshot," and We TV's fan-favorite series "Life After Lockup."
+### OTHER on 2025-07-17 12:42
+- Location: Syllad.com
+- Description: East Khasi Hills police have arrested two individuals, Kenny Kharmujat (24) and Subroto Baidya (32), both residents of Lumshyiap, Nongmynsong, in connection with a snatching case that occurred at Polo on July 16.  The suspects allegedly snatched a gold item f…
 
 
-### OTHER on 2025-07-17 12:10
-- Location: LADbible
-- Description: A 35-year-old woman who slept with Buddhist monks to scam them out of money has claimed she has given birth to a baby.
+### OTHER on 2025-07-17 12:41
+- Location: Nep123.com
+- Description: Breaking News: **Banking Offense** Fugitive Arrested in Kathmandu! Hey everyone! We’ve got an important update on a recent criminal case that’s making headlines. A fugitive wanted for a banking offense has been apprehended by authorities in Kathmandu. This is…
 
-Analysis generated at: Fri Jul 18 12:30:37 UTC 2025
+Analysis generated at: Fri Jul 18 12:53:38 UTC 2025
