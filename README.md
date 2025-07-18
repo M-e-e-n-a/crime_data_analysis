@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Jul 18 02:05:30 UTC 2025
+Last updated: Fri Jul 18 06:23:11 UTC 2025
 
 ## Latest Analysis
 
-Loaded 45241 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-17 02:00:36
+Loaded 45273 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-17 06:09:24
 
 Incidents by source:
 source
-newsapi           45140
+newsapi           45172
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2025-07-17 02:00
-- Location: Fox News
-- Description: Chicago women allegedly layered stolen clothing under their own and led police on a dangerous chase, prompting criticism of Illinois' SAFE-T Act limitations on judicial discretion.
+### OTHER on 2025-07-17 06:09
+- Location: Boredpanda.com
+- Description: If this was your mother-in-law, how would you deal with her?
 
 
-### OTHER on 2025-07-17 01:45
-- Location: Khabarhub.com
-- Description: BHADRAPUR: In the fiscal year 2024/25, the District Police Office, Jhapa, along with its subordinate units, arrested 534 absconding defendants who had been convicted by various courts. Among those apprehended, 463 are men, 70 are women, and one identifies as …
+### OTHER on 2025-07-17 06:05
+- Location: The Local Germany
+- Description: A large EU budget proposal receives immediate criticism from Germany, Chancellor Merz travels to London to sign 'friendship treaty', the state of Bavaria wants to abolish its climate report and more news on Thursday, July 17th.
 
 
-### OTHER on 2025-07-17 01:34
-- Location: The Denver Post
-- Description: A Weld County Sheriff's Office detentions deputy is accused of having an inappropriate sexual relationship with an inmate while on duty earlier this month.
+### ROBBERY/THEFT on 2025-07-17 06:01
+- Location: The Times of India
+- Description: The US Embassy in India issued a warning after an Indian woman's arrest for alleged shoplifting in Illinois. The embassy emphasized that criminal activities, even minor ones like theft, could lead to visa revocation and future ineligibility for US visas. This…
 
 
-### OTHER on 2025-07-17 01:32
-- Location: New York Post
-- Description: The New Jersey native's federally mandated 120-day interim term began on March 24 and will expire July 22.
+### HOMICIDE on 2025-07-17 06:00
+- Location: Sinhalanet.net
+- Description: On April 21, 2019 — Easter Sunday — Sri Lanka suffered its deadliest terror attack since the defeat of the LTTE. Coordinated suicide bombings by the National Thowheed Jamaath (NTJ), an ISIS-inspired Islamist group, claimed 269 lives and injured over …
 
 
-### ROBBERY/THEFT on 2025-07-17 01:25
-- Location: Starweekly.com.au
-- Description: A man had been charged over his alleged role in the theft of the blue VW Golf, which was allegedly...
-The post Man charged in connection to theft of vehicle used in Melbourne synagogue arson attack appeared first on Northern.
+### OTHER on 2025-07-17 06:00
+- Location: New Zealand Herald
+- Description: East Coast MP Dana Kirkpatrick highlights rising poaching concerns.
 
-Analysis generated at: Fri Jul 18 02:05:30 UTC 2025
+Analysis generated at: Fri Jul 18 06:23:11 UTC 2025
