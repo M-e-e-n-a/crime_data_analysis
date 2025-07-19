@@ -1,10 +1,10 @@
 
-Loaded 45573 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-18 12:47:39
+Loaded 45665 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-18 18:05:00
 
 Incidents by source:
 source
-newsapi           45472
+newsapi           45564
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-07-18 12:47
-- Location: BBC News
-- Description: Khaled Mohamed Ali El Hishri is accused of murder, torture and rape at a prison in Tripoli.
+### HOMICIDE on 2025-07-18 18:05
+- Location: CNET
+- Description: A city cloaked in darkness hides a murder mystery, and other worldly manipulation, in this techno-noir gem.
 
 
-### HOMICIDE on 2025-07-18 12:43
-- Location: RT
-- Description: The incident happened at a training range in the country’s central Chernigov Region Read Full Article at RT.com
+### OTHER on 2025-07-18 18:04
+- Location: Gov.wales
+- Description: Rural communities and wildlife in Wales will receive greater protection under a new three-year strategy launched today at the Wales Wildlife & Rural Crime Conference.
 
 
-### OTHER on 2025-07-18 12:33
-- Location: BusinessLine
-- Description: Bhupesh Bhagel’s office posted on X that the arrest took place on a day when Congress leader was to raise in assembly the issue of felling of trees in Raigarh for a Adani coal project
+### OTHER on 2025-07-18 18:03
+- Location: Statetimes.in
+- Description: Dr. Gaurav Vaid On July 16, at Government Medical College (GMC) Jammu, a young female doctor was allegedly kicked in the abdomen by a patient’s attendant. Her “crime”? Informing the family of a cardiac arrest. She was doing her job. She was trying to save a l…
 
 
-### OTHER on 2025-07-18 12:30
-- Location: Thegatewaypundit.com
-- Description: This afternoon, Michigan Attorney Kevin Kijewski, who is representing Cliff Frost, one of the 15 Republican alternate electors in the 2020 election, announced the filing of a Petition for a Writ of Certiorari with the United States Supreme Court in the case o…
+### OTHER on 2025-07-18 18:00
+- Location: Screen Rant
+- Description: These 10 crime drama television shows are perfect from start to finish, and the number one show on the list is arguably the best show ever.
 
 
-### ROBBERY/THEFT on 2025-07-18 12:30
-- Location: Elliott.org
-- Description: Barbara Bowman's credit card was stolen and used at Sam's Club. She wants a refund, and she has the perfect alibi: She's never been a Sam's Club member.
+### ROBBERY/THEFT on 2025-07-18 18:00
+- Location: New Zealand Herald
+- Description: The black bike, licence plate B6LPH, was stolen from a garage early on July 16.
 
-Analysis generated at: Sat Jul 19 12:47:45 UTC 2025
+Analysis generated at: Sat Jul 19 18:19:31 UTC 2025
