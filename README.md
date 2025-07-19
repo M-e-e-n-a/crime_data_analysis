@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Jul 19 06:21:20 UTC 2025
+Last updated: Sat Jul 19 12:27:40 UTC 2025
 
 ## Latest Analysis
 
-Loaded 45505 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-18 06:12:34
+Loaded 45568 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-18 12:24:53
 
 Incidents by source:
 source
-newsapi           45404
+newsapi           45467
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-07-18 06:12
-- Location: The Times of India
-- Description: In Farrukhabad, Manu, a suspect in the rape and murder of an eight-year-old girl, was killed in a police encounter. Police teams were searching for him. The girl's body was found in Devipur village on July 11. A post-mortem confirmed sexual assault. The girl …
+### OTHER on 2025-07-18 12:24
+- Location: Freerepublic.com
+- Description: FRANKLIN — A cold case from 1994 that captured national attention was the focus of a significant update from Franklin Police on Monday. The press conference took place at the gravesite of the infant known as Baby Hope, located in Greenlawn Cemetery, marking t…
 
 
-### OTHER on 2025-07-18 06:01
-- Location: ABC News (AU)
-- Description: What can you store in apartment garages and storage cages, without annoying your neighbours or breaking strata rules?
+### OTHER on 2025-07-18 12:22
+- Location: Fox News
+- Description: Investigation reveals suspect's shift from conservative to radical left-wing views, documenting anti-Trump rhetoric and training videos filmed at a family-owned martial arts studio. He was captured by the FBI on Tuesday.
 
 
-### OTHER on 2025-07-18 06:00
-- Location: Naturalnews.com
-- Description: Republican lawmakers, including Reps. Brandon Gill (TX) and Tim Burchett (TN), describe Washington, D.C., as a “Third World hellhole,” citing rampant crime, homelessness and neglect near the Capitol that endanger residents, officials and tourists. Burchett wa…
+### OTHER on 2025-07-18 12:15
+- Location: TheBlaze
+- Description: If you spend an inordinate amount of time online — doomscrolling, podcast-hopping, and trading theories with your pals on Signal — you might be fixated on every twist in the Jeffrey Epstein saga. Or maybe you’ve convinced yourself that the transgender sports …
 
 
-### OTHER on 2025-07-18 05:47
-- Location: Substack.com
-- Description: Trump is now in the process of making that a reality. He is obliterating the safeguards in place to keep both the police and the military from turning on the public. He is taking personnel, tactics, and weapons from both institutions to create something utter…
+### ROBBERY/THEFT on 2025-07-18 12:06
+- Location: Decrypt
+- Description: Paul Chowles' theft was nearly written off until a search back in 2022 uncovered private keys linking him to the stolen funds.
 
 
-### OTHER on 2025-07-18 05:35
-- Location: The Star Online
-- Description: Both sides boosting espionage and counter-espionage efforts, increasingly publicise spy arrests and covert operations Read full story
+### OTHER on 2025-07-18 12:00
+- Location: Writersdigest.com
+- Description: In this interview, author Kate Russo discusses how letting her characters guide her kept the writing process surprising for her new literary thriller, Until Alison.
+The post Kate Russo: Experience Is Often My Best Motivator for Writing appeared first on Write…
 
-Analysis generated at: Sat Jul 19 06:21:20 UTC 2025
+Analysis generated at: Sat Jul 19 12:27:40 UTC 2025
