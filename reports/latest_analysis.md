@@ -1,10 +1,10 @@
 
-Loaded 45465 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-18 01:00:02
+Loaded 45471 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-18 01:58:16
 
 Incidents by source:
 source
-newsapi           45364
+newsapi           45370
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-07-18 01:00
-- Location: New Zealand Herald
-- Description: Police stress the importance of having a firearms licence and permission to hunt.
-
-
-### HOMICIDE on 2025-07-18 01:00
-- Location: Allthatsinteresting.com
-- Description: Before his arrest in 1999, Javed Iqbal sexually assaulted and strangled 100 boys, then dissolved their remains in a vat of acid.
-The post The Gruesome Story Of Javed Iqbal, The Pakistani Serial Killer Who Murdered 100 Boys appeared first on All That's Interes…
-
-
-### HOMICIDE on 2025-07-18 00:56
-- Location: fox6now.com
-- Description: Two people were shot and killed in downtown Milwaukee on Saturday and a private security company is now pushing for change.
-
-
-### OTHER on 2025-07-18 00:54
-- Location: /FILM
-- Description: The success of Bosch can't be stopped. New spin-off series Ballard, starring Maggie Q, is topping Prime Video's streaming charts.
-
-
-### HOMICIDE on 2025-07-18 00:42
+### OTHER on 2025-07-18 01:58
 - Location: New York Post
-- Description: A 10-year-old Cub Scout is ‘still in shock’ after he was literally knocked out of his socks by the deadly lightning strike at a New Jersey archery range on Wednesday. Eleven boys and two girls from Jackson Cub Scout Pack 204 were learning to fire arrows at Bl…
+- Description: The alleged thief carried out his scheme while working at the bank from March and September 2024 – and kept pocketing cash even after graduating from the police academy in May.
 
-Analysis generated at: Sat Jul 19 01:12:14 UTC 2025
+
+### OTHER on 2025-07-18 01:54
+- Location: Sky.com
+- Description: Maria's treatment by Greater Manchester Police (GMP) was so shocking the chief constable described it as "undefendable" and yet a year after a high-profile inquiry found she had been "unlawfully" arrested and strip-searched, Maria now has a criminal convictio…
+
+
+### HOMICIDE on 2025-07-18 01:42
+- Location: Variety
+- Description: The case of Bryan Kohberger and the so-called “Idaho Four” murders is back in the spotlight after the accused killer changed his plea to guilty earlier this month. By doing so, Kohberger avoided the death penalty and what was sure to be a highly-scrutinized m…
+
+
+### ROBBERY/THEFT on 2025-07-18 01:40
+- Location: Fox News
+- Description: Police in Arizona are investigating after they say the home of Diamondbacks star Ketel Marte was burglarized while he was at the All-Star Game in Georgia Tuesday.
+
+
+### OTHER on 2025-07-18 01:23
+- Location: fox8.com
+- Description: A former North Ridgeville City Schools teacher, who pleaded guilty to stalking her ex-boyfriend, was stunned to learn Thursday she would be jailed.
+
+Analysis generated at: Sat Jul 19 01:59:39 UTC 2025
