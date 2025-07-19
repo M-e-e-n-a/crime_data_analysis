@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Jul 19 12:27:40 UTC 2025
+Last updated: Sat Jul 19 12:47:45 UTC 2025
 
 ## Latest Analysis
 
-Loaded 45568 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-18 12:24:53
+Loaded 45573 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-18 12:47:39
 
 Incidents by source:
 source
-newsapi           45467
+newsapi           45472
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-07-18 12:24
-- Location: Freerepublic.com
-- Description: FRANKLIN — A cold case from 1994 that captured national attention was the focus of a significant update from Franklin Police on Monday. The press conference took place at the gravesite of the infant known as Baby Hope, located in Greenlawn Cemetery, marking t…
+### HOMICIDE on 2025-07-18 12:47
+- Location: BBC News
+- Description: Khaled Mohamed Ali El Hishri is accused of murder, torture and rape at a prison in Tripoli.
 
 
-### OTHER on 2025-07-18 12:22
-- Location: Fox News
-- Description: Investigation reveals suspect's shift from conservative to radical left-wing views, documenting anti-Trump rhetoric and training videos filmed at a family-owned martial arts studio. He was captured by the FBI on Tuesday.
+### HOMICIDE on 2025-07-18 12:43
+- Location: RT
+- Description: The incident happened at a training range in the country’s central Chernigov Region Read Full Article at RT.com
 
 
-### OTHER on 2025-07-18 12:15
-- Location: TheBlaze
-- Description: If you spend an inordinate amount of time online — doomscrolling, podcast-hopping, and trading theories with your pals on Signal — you might be fixated on every twist in the Jeffrey Epstein saga. Or maybe you’ve convinced yourself that the transgender sports …
+### OTHER on 2025-07-18 12:33
+- Location: BusinessLine
+- Description: Bhupesh Bhagel’s office posted on X that the arrest took place on a day when Congress leader was to raise in assembly the issue of felling of trees in Raigarh for a Adani coal project
 
 
-### ROBBERY/THEFT on 2025-07-18 12:06
-- Location: Decrypt
-- Description: Paul Chowles' theft was nearly written off until a search back in 2022 uncovered private keys linking him to the stolen funds.
+### OTHER on 2025-07-18 12:30
+- Location: Thegatewaypundit.com
+- Description: This afternoon, Michigan Attorney Kevin Kijewski, who is representing Cliff Frost, one of the 15 Republican alternate electors in the 2020 election, announced the filing of a Petition for a Writ of Certiorari with the United States Supreme Court in the case o…
 
 
-### OTHER on 2025-07-18 12:00
-- Location: Writersdigest.com
-- Description: In this interview, author Kate Russo discusses how letting her characters guide her kept the writing process surprising for her new literary thriller, Until Alison.
-The post Kate Russo: Experience Is Often My Best Motivator for Writing appeared first on Write…
+### ROBBERY/THEFT on 2025-07-18 12:30
+- Location: Elliott.org
+- Description: Barbara Bowman's credit card was stolen and used at Sam's Club. She wants a refund, and she has the perfect alibi: She's never been a Sam's Club member.
 
-Analysis generated at: Sat Jul 19 12:27:40 UTC 2025
+Analysis generated at: Sat Jul 19 12:47:45 UTC 2025
