@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Jul 19 01:59:39 UTC 2025
+Last updated: Sat Jul 19 06:21:20 UTC 2025
 
 ## Latest Analysis
 
-Loaded 45471 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-18 01:58:16
+Loaded 45505 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-18 06:12:34
 
 Incidents by source:
 source
-newsapi           45370
+newsapi           45404
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-07-18 01:58
-- Location: New York Post
-- Description: The alleged thief carried out his scheme while working at the bank from March and September 2024 – and kept pocketing cash even after graduating from the police academy in May.
+### HOMICIDE on 2025-07-18 06:12
+- Location: The Times of India
+- Description: In Farrukhabad, Manu, a suspect in the rape and murder of an eight-year-old girl, was killed in a police encounter. Police teams were searching for him. The girl's body was found in Devipur village on July 11. A post-mortem confirmed sexual assault. The girl …
 
 
-### OTHER on 2025-07-18 01:54
-- Location: Sky.com
-- Description: Maria's treatment by Greater Manchester Police (GMP) was so shocking the chief constable described it as "undefendable" and yet a year after a high-profile inquiry found she had been "unlawfully" arrested and strip-searched, Maria now has a criminal convictio…
+### OTHER on 2025-07-18 06:01
+- Location: ABC News (AU)
+- Description: What can you store in apartment garages and storage cages, without annoying your neighbours or breaking strata rules?
 
 
-### HOMICIDE on 2025-07-18 01:42
-- Location: Variety
-- Description: The case of Bryan Kohberger and the so-called “Idaho Four” murders is back in the spotlight after the accused killer changed his plea to guilty earlier this month. By doing so, Kohberger avoided the death penalty and what was sure to be a highly-scrutinized m…
+### OTHER on 2025-07-18 06:00
+- Location: Naturalnews.com
+- Description: Republican lawmakers, including Reps. Brandon Gill (TX) and Tim Burchett (TN), describe Washington, D.C., as a “Third World hellhole,” citing rampant crime, homelessness and neglect near the Capitol that endanger residents, officials and tourists. Burchett wa…
 
 
-### ROBBERY/THEFT on 2025-07-18 01:40
-- Location: Fox News
-- Description: Police in Arizona are investigating after they say the home of Diamondbacks star Ketel Marte was burglarized while he was at the All-Star Game in Georgia Tuesday.
+### OTHER on 2025-07-18 05:47
+- Location: Substack.com
+- Description: Trump is now in the process of making that a reality. He is obliterating the safeguards in place to keep both the police and the military from turning on the public. He is taking personnel, tactics, and weapons from both institutions to create something utter…
 
 
-### OTHER on 2025-07-18 01:23
-- Location: fox8.com
-- Description: A former North Ridgeville City Schools teacher, who pleaded guilty to stalking her ex-boyfriend, was stunned to learn Thursday she would be jailed.
+### OTHER on 2025-07-18 05:35
+- Location: The Star Online
+- Description: Both sides boosting espionage and counter-espionage efforts, increasingly publicise spy arrests and covert operations Read full story
 
-Analysis generated at: Sat Jul 19 01:59:39 UTC 2025
+Analysis generated at: Sat Jul 19 06:21:20 UTC 2025
