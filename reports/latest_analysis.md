@@ -1,10 +1,10 @@
 
-Loaded 45682 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-19 01:13:51
+Loaded 45686 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-19 02:15:00
 
 Incidents by source:
 source
-newsapi           45581
+newsapi           45585
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
+### OTHER on 2025-07-19 02:15
+- Location: ComicBook.com
+- Description: Time travel has long been one of the most irresistible concepts in science fiction — the idea that we could undo past mistakes, witness history firsthand, or peek into the future has fueled some of the most imaginative stories in pop culture. But while plenty…
+
+
+### HOMICIDE on 2025-07-19 02:00
+- Location: Screen Rant
+- Description: Crime procedural Law & Order: Special Victims Unit is no stranger to death, but these are the most heartbreaking in the 25+ years of the series.
+
+
+### OTHER on 2025-07-19 02:00
+- Location: Forbes
+- Description: WWE SmackDown results, winners and grades as John Cena and Cody Rhodes come face-to-face in a contract signing ahead of SummerSlam 2025.
+
+
+### OTHER on 2025-07-19 01:29
+- Location: ABC News
+- Description: Slain UC Berkeley professor said in restraining order request ex-wife made him 'fearful' for his lifego.com
+
+
 ### ROBBERY/THEFT on 2025-07-19 01:13
 - Location: KSHB
 - Description: Chandler Coon and his family have been sleeping in their living room after thieves broke into their home Monday afternoon, making off with more than $13,000 worth of valuables.
 
-
-### SHOOTING on 2025-07-19 01:08
-- Location: WSB Atlanta
-- Description: It happened around 8 p.m. along Atlanta Avenue SW.
-
-
-### ASSAULT on 2025-07-19 01:00
-- Location: Dramabeans.com
-- Description: A treasure hunt is afoot, with a couple of low lives banding together to retrieve antique pottery from the sea. It’s meant to be a perilous mission, but the real danger is within the group, as they can barely converse without starting a fight. Something tells…
-
-
-### OTHER on 2025-07-19 01:00
-- Location: Allthatsinteresting.com
-- Description: A favorite haunt of both mobsters and celebrities in the mid-20th century, the Copacabana has since been featured in several Mafia movies that have helped keep its legacy alive.
-The post The Inside Story Of The Copacabana, The Iconic New York City Nightclub R…
-
-
-### OTHER on 2025-07-19 00:57
-- Location: 7NEWS.com.au
-- Description: Man left with significant head injuries following alleged road rage incident in Punchbowl, Sydney7news.com.au
-
-Analysis generated at: Sun Jul 20 01:21:11 UTC 2025
+Analysis generated at: Sun Jul 20 02:19:17 UTC 2025
