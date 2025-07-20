@@ -1,10 +1,10 @@
 
-Loaded 45686 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-19 02:15:00
+Loaded 45709 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-19 06:05:20
 
 Incidents by source:
 source
-newsapi           45585
+newsapi           45608
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-07-19 02:15
-- Location: ComicBook.com
-- Description: Time travel has long been one of the most irresistible concepts in science fiction — the idea that we could undo past mistakes, witness history firsthand, or peek into the future has fueled some of the most imaginative stories in pop culture. But while plenty…
+### HOMICIDE on 2025-07-19 06:05
+- Location: The Times of India
+- Description: In a joint operation, Kolkata Police and West Bengal STF apprehended five individuals from a New Town housing complex for their alleged involvement in the murder of gangster Chandan Mishra. Mishra, a convict out on parole, was fatally shot inside a Patna hosp…
 
 
-### HOMICIDE on 2025-07-19 02:00
-- Location: Screen Rant
-- Description: Crime procedural Law & Order: Special Victims Unit is no stranger to death, but these are the most heartbreaking in the 25+ years of the series.
+### ASSAULT on 2025-07-19 06:00
+- Location: Naturalnews.com
+- Description: Zayn Edward Arcand, a 19-year-old who identifies as “genderfluid,” was arrested for attempting to firebomb the Dickinson County Republican Committee (DCRC) headquarters in Michigan on July 12. Surveillance footage captured the failed attack. Arcand threw a ma…
 
 
-### OTHER on 2025-07-19 02:00
-- Location: Forbes
-- Description: WWE SmackDown results, winners and grades as John Cena and Cody Rhodes come face-to-face in a contract signing ahead of SummerSlam 2025.
+### HOMICIDE on 2025-07-19 05:33
+- Location: The Times of India
+- Description: Police Vari Heccharika, a crime drama produced by Belli Janardhan, explores a dark plot orchestrated by an activist using orphans for murders. Janardhan, also playing the villain, aims to deliver a socially meaningful film. The movie features Sunny Akhil, Shu…
 
 
-### OTHER on 2025-07-19 01:29
-- Location: ABC News
-- Description: Slain UC Berkeley professor said in restraining order request ex-wife made him 'fearful' for his lifego.com
+### ROBBERY/THEFT on 2025-07-19 05:26
+- Location: The Times of India
+- Description: A burglary occurred at Sangeeta Bijlani's Lonavala bungalow between March and July 2025, with intruders stealing cash and a television after breaking in through a window. The unoccupied property was also vandalized, according to a complaint filed by Mohammad …
 
 
-### ROBBERY/THEFT on 2025-07-19 01:13
-- Location: KSHB
-- Description: Chandler Coon and his family have been sleeping in their living room after thieves broke into their home Monday afternoon, making off with more than $13,000 worth of valuables.
+### DRUG RELATED on 2025-07-19 05:00
+- Location: Starcommunity.com.au
+- Description: A Cranbourne woman has been spared jail after being convicted of drug trafficking and possessing explosives in her home garage. Zarna Barbar, 26, pleaded guilty to a series of charges at Frankston Magistrates’ Court on 18 July after a sentence indication of a…
 
-Analysis generated at: Sun Jul 20 02:19:17 UTC 2025
+Analysis generated at: Sun Jul 20 06:20:52 UTC 2025
