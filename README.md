@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Jul 20 12:48:18 UTC 2025
+Last updated: Sun Jul 20 18:19:43 UTC 2025
 
 ## Latest Analysis
 
-Loaded 45754 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-19 12:45:00
+Loaded 45791 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-19 18:15:00
 
 Incidents by source:
 source
-newsapi           45653
+newsapi           45690
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-07-19 12:45
-- Location: New York Post
-- Description: A woman who was shot by "Son of Sam" killer David Berkowitz nearly 60 years ago found herself in the crosshairs again recently when she was confronted by an acolyte of the serial killer who raged to her about the murderer’s innocence.
+### HOMICIDE on 2025-07-19 18:15
+- Location: ComicBook.com
+- Description: Twin Peaks is beloved by fans for its surreal atmosphere and gripping central mystery. Although the events of the show are entirely fictitious, series creators Mark Frost and David Lynch took plenty of inspiration from a case that gripped the nation more than…
 
 
-### OTHER on 2025-07-19 12:30
-- Location: Yahoo Entertainment
-- Description: The Mukherjees gave the performance of a lifetime — off stage.
-
-
-### OTHER on 2025-07-19 12:30
-- Location: New York Post
-- Description: The Big Apple will devolve into a crime-ridden dystopia unsafe for civilians and cops alike if socialist Zohran Mamdani wins the keys to City Hall, Mayor Eric Adams predicted in an exclusive sit-down with The Post.
-
-
-### HOMICIDE on 2025-07-19 12:15
-- Location: WSOC Charlotte
-- Description: A teenager was shot and killed at the Pageland Watermelon Festival Friday night, according to police.
-
-
-### ROBBERY/THEFT on 2025-07-19 12:06
+### OTHER on 2025-07-19 17:56
 - Location: The Times of India
-- Description: In Bengaluru, a 31-year-old man was lured through a gay dating app, confined, and robbed by a known rowdy-sheeter. Sahil (name changed) was contacted by 'Sufi' and met him, only to be ambushed and extorted. Police have arrested Sufiyan alias Sufi and his acco…
+- Description: Filming for Virgin River Season 7 began on March 12, 2025, in Vancouver, Canada, the show’s long-standing production hub, and officially wrapped up on June 26.
 
-Analysis generated at: Sun Jul 20 12:48:18 UTC 2025
+
+### SHOOTING on 2025-07-19 17:53
+- Location: The Denver Post
+- Description: Six people were injured in multiple shootings, a stabbing and a fight across Denver and Castle Rock on Friday night and early Saturday morning, police officials said.
+
+
+### HOMICIDE on 2025-07-19 17:50
+- Location: The Times of India
+- Description: A senior Bihar Police officer's remark linking murders to farmers' seasonal unemployment has ignited a major controversy, drawing criticism from across the political spectrum, including NDA allies. The statement, suggesting farmers engage in contract killings…
+
+
+### ASSAULT on 2025-07-19 17:01
+- Location: Decrypt
+- Description: A man's disappearance in California is being investigated as a possible crypto-related kidnapping, following a spate of "wrench attacks."
+
+Analysis generated at: Sun Jul 20 18:19:43 UTC 2025
