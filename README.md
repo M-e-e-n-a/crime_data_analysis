@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Jul 20 06:20:52 UTC 2025
+Last updated: Sun Jul 20 12:28:17 UTC 2025
 
 ## Latest Analysis
 
-Loaded 45709 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-19 06:05:20
+Loaded 45751 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-19 12:15:35
 
 Incidents by source:
 source
-newsapi           45608
+newsapi           45650
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-07-19 06:05
+### HOMICIDE on 2025-07-19 12:15
+- Location: WSOC Charlotte
+- Description: A teenager was shot and killed at the Pageland Watermelon Festival Friday night, according to police.
+
+
+### ROBBERY/THEFT on 2025-07-19 12:06
 - Location: The Times of India
-- Description: In a joint operation, Kolkata Police and West Bengal STF apprehended five individuals from a New Town housing complex for their alleged involvement in the murder of gangster Chandan Mishra. Mishra, a convict out on parole, was fatally shot inside a Patna hosp…
+- Description: In Bengaluru, a 31-year-old man was lured through a gay dating app, confined, and robbed by a known rowdy-sheeter. Sahil (name changed) was contacted by 'Sufi' and met him, only to be ambushed and extorted. Police have arrested Sufiyan alias Sufi and his acco…
 
 
-### ASSAULT on 2025-07-19 06:00
-- Location: Naturalnews.com
-- Description: Zayn Edward Arcand, a 19-year-old who identifies as “genderfluid,” was arrested for attempting to firebomb the Dickinson County Republican Committee (DCRC) headquarters in Michigan on July 12. Surveillance footage captured the failed attack. Arcand threw a ma…
+### OTHER on 2025-07-19 12:04
+- Location: Common Dreams
+- Description: U.S. President Donald Trump claims to be all about law enforcement. But what laws he chooses to prioritize, and which get the back seat, or are ignored entirely, speak volumes about the heart and soul of this administration. Recent developments in immigration…
 
 
-### HOMICIDE on 2025-07-19 05:33
-- Location: The Times of India
-- Description: Police Vari Heccharika, a crime drama produced by Belli Janardhan, explores a dark plot orchestrated by an activist using orphans for murders. Janardhan, also playing the villain, aims to deliver a socially meaningful film. The movie features Sunny Akhil, Shu…
+### OTHER on 2025-07-19 12:00
+- Location: The Denver Post
+- Description: Someone walking on an open space trail near 122nd Avenue and Park Centre Drive came across the bone at 2:30 p.m., the Westminster Police Department said.
 
 
-### ROBBERY/THEFT on 2025-07-19 05:26
-- Location: The Times of India
-- Description: A burglary occurred at Sangeeta Bijlani's Lonavala bungalow between March and July 2025, with intruders stealing cash and a television after breaking in through a window. The unoccupied property was also vandalized, according to a complaint filed by Mohammad …
+### HOMICIDE on 2025-07-19 12:00
+- Location: STLtoday.com
+- Description: Columnist Bill McClellan tells the story of George "the Creeper” Seper, a homicide detective in the early 1980s.
 
-
-### DRUG RELATED on 2025-07-19 05:00
-- Location: Starcommunity.com.au
-- Description: A Cranbourne woman has been spared jail after being convicted of drug trafficking and possessing explosives in her home garage. Zarna Barbar, 26, pleaded guilty to a series of charges at Frankston Magistrates’ Court on 18 July after a sentence indication of a…
-
-Analysis generated at: Sun Jul 20 06:20:52 UTC 2025
+Analysis generated at: Sun Jul 20 12:28:17 UTC 2025
