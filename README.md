@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Jul 19 18:19:31 UTC 2025
+Last updated: Sun Jul 20 01:21:11 UTC 2025
 
 ## Latest Analysis
 
-Loaded 45665 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-18 18:05:00
+Loaded 45682 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-19 01:13:51
 
 Incidents by source:
 source
-newsapi           45564
+newsapi           45581
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-07-18 18:05
-- Location: CNET
-- Description: A city cloaked in darkness hides a murder mystery, and other worldly manipulation, in this techno-noir gem.
+### ROBBERY/THEFT on 2025-07-19 01:13
+- Location: KSHB
+- Description: Chandler Coon and his family have been sleeping in their living room after thieves broke into their home Monday afternoon, making off with more than $13,000 worth of valuables.
 
 
-### OTHER on 2025-07-18 18:04
-- Location: Gov.wales
-- Description: Rural communities and wildlife in Wales will receive greater protection under a new three-year strategy launched today at the Wales Wildlife & Rural Crime Conference.
+### SHOOTING on 2025-07-19 01:08
+- Location: WSB Atlanta
+- Description: It happened around 8 p.m. along Atlanta Avenue SW.
 
 
-### OTHER on 2025-07-18 18:03
-- Location: Statetimes.in
-- Description: Dr. Gaurav Vaid On July 16, at Government Medical College (GMC) Jammu, a young female doctor was allegedly kicked in the abdomen by a patient’s attendant. Her “crime”? Informing the family of a cardiac arrest. She was doing her job. She was trying to save a l…
+### ASSAULT on 2025-07-19 01:00
+- Location: Dramabeans.com
+- Description: A treasure hunt is afoot, with a couple of low lives banding together to retrieve antique pottery from the sea. It’s meant to be a perilous mission, but the real danger is within the group, as they can barely converse without starting a fight. Something tells…
 
 
-### OTHER on 2025-07-18 18:00
-- Location: Screen Rant
-- Description: These 10 crime drama television shows are perfect from start to finish, and the number one show on the list is arguably the best show ever.
+### OTHER on 2025-07-19 01:00
+- Location: Allthatsinteresting.com
+- Description: A favorite haunt of both mobsters and celebrities in the mid-20th century, the Copacabana has since been featured in several Mafia movies that have helped keep its legacy alive.
+The post The Inside Story Of The Copacabana, The Iconic New York City Nightclub R…
 
 
-### ROBBERY/THEFT on 2025-07-18 18:00
-- Location: New Zealand Herald
-- Description: The black bike, licence plate B6LPH, was stolen from a garage early on July 16.
+### OTHER on 2025-07-19 00:57
+- Location: 7NEWS.com.au
+- Description: Man left with significant head injuries following alleged road rage incident in Punchbowl, Sydney7news.com.au
 
-Analysis generated at: Sat Jul 19 18:19:31 UTC 2025
+Analysis generated at: Sun Jul 20 01:21:11 UTC 2025
