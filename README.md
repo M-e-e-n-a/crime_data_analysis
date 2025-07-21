@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Jul 21 12:53:48 UTC 2025
+Last updated: Mon Jul 21 18:22:30 UTC 2025
 
 ## Latest Analysis
 
-Loaded 45875 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-20 12:47:50
+Loaded 45928 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-20 18:12:17
 
 Incidents by source:
 source
-newsapi           45774
+newsapi           45827
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-07-20 12:47
-- Location: Fair Observer
-- Description: Indian Prime Minister Narendra Modi has led the country for more than a decade, shaping its politics, economy and global posture. As he enters what is likely his final term, with no guarantee of returning to office after 2029, growing tensions at home and abr…
+### OTHER on 2025-07-20 18:12
+- Location: Just Jared
+- Description: Patience Season 1 is coming to an end on Sunday (July 20). The crime drama, which debuted on June 15 on PBS, is an adaptation of the French series Astrid et Raphaëlle. The show first aired earlier this year in the U.K. In the Season 1 finale, police discover …
 
 
-### HOMICIDE on 2025-07-20 12:45
-- Location: Nep123.com
-- Description: Breaking News: Murder in Janakpur, Nepal – Bimlesh Yadav Found Dead Tragedy has struck in Janakpur, Nepal, as a young man, identified as 28-year-old Bimlesh Yadav, has been found dead. The murder occurred at a hotel in the Zero Mile area of Janakpur. Accordin…
+### OTHER on 2025-07-20 18:11
+- Location: The Jerusalem Post
+- Description: This unusual move is a new initiative to make it harder for both Hamas terrorists and Jewish extremists, who perpetrate violence and nationalistic offenses, ...
 
 
-### SHOOTING on 2025-07-20 12:40
-- Location: Screen Rant
-- Description: An underrated horror movie has shot to the top of the HBO Max most-watched list, and now is a chance to see it while it is on streaming.
+### OTHER on 2025-07-20 18:10
+- Location: Breitbart News
+- Description: Authorities dispute an Indianapolis, Indiana, mother of seven’s claims that her social media account was hacked and that she did not offer up her infant daughter for sex in exchange for $400.
+The post Report: Indiana Mother of Seven Offered Man Her Infant Dau…
 
 
-### SHOOTING on 2025-07-20 12:30
-- Location: Thegatewaypundit.com
-- Description: A female Uber driver was shot multiple times after she picked up two passengers last week in Akron, Ohio.
-The post Female Uber Driver Shot 6 Times After Picking Up Two Male Passengers appeared first on The Gateway Pundit.
+### OTHER on 2025-07-20 18:03
+- Location: New York Post
+- Description: With almost every day that passes, Britain is progressively embracing its own destruction by groveling to its mortal foes and dumping big-time on its most loyal friends. Prime Minister Keir Starmer’s Labour government is increasingly surrendering to Islamizat…
 
 
-### HOMICIDE on 2025-07-20 12:26
-- Location: fox6now.com
-- Description: One person has died and four others were hurt after a wrong-way crash on I-39 in Dane County early Sunday, July 20.
+### HOMICIDE on 2025-07-20 17:51
+- Location: New York Post
+- Description: The panicked nephew called 911 as the murders played on his screen, with officials arriving to find that the father had stabbed himself in the chest afterward, critically wounding himself.
 
-Analysis generated at: Mon Jul 21 12:53:48 UTC 2025
+Analysis generated at: Mon Jul 21 18:22:30 UTC 2025
