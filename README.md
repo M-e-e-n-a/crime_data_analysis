@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Jul 20 18:19:43 UTC 2025
+Last updated: Mon Jul 21 01:18:36 UTC 2025
 
 ## Latest Analysis
 
-Loaded 45791 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-19 18:15:00
+Loaded 45799 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-20 01:14:55
 
 Incidents by source:
 source
-newsapi           45690
+newsapi           45698
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-07-19 18:15
-- Location: ComicBook.com
-- Description: Twin Peaks is beloved by fans for its surreal atmosphere and gripping central mystery. Although the events of the show are entirely fictitious, series creators Mark Frost and David Lynch took plenty of inspiration from a case that gripped the nation more than…
+### HOMICIDE on 2025-07-20 01:14
+- Location: 7NEWS.com.au
+- Description: Death in custody sparks homicide probe as front yard arrest ends in tragedy7news.com.au
 
 
-### OTHER on 2025-07-19 17:56
-- Location: The Times of India
-- Description: Filming for Virgin River Season 7 began on March 12, 2025, in Vancouver, Canada, the show’s long-standing production hub, and officially wrapped up on June 26.
+### HOMICIDE on 2025-07-20 00:58
+- Location: Freerepublic.com
+- Description: CHINATOWN, Manhattan (WABC) -- Two women have been arrested after a car struck and killed a bicyclist and a pedestrian in Manhattan's Chinatown Saturday morning. Police say two women inside the Chevy Malibu, ages 22 and 23, attempted to flee the scene but wer…
 
 
-### SHOOTING on 2025-07-19 17:53
-- Location: The Denver Post
-- Description: Six people were injured in multiple shootings, a stabbing and a fight across Denver and Castle Rock on Friday night and early Saturday morning, police officials said.
+### ROBBERY/THEFT on 2025-07-20 00:27
+- Location: Fox News
+- Description: Minnesota state Sen. Nicole Mitchell was convicted on felony burglary charges after breaking into her stepmother's Detroit Lakes home. She faces up to 20 years behind bars.
 
 
-### HOMICIDE on 2025-07-19 17:50
-- Location: The Times of India
-- Description: A senior Bihar Police officer's remark linking murders to farmers' seasonal unemployment has ignited a major controversy, drawing criticism from across the political spectrum, including NDA allies. The statement, suggesting farmers engage in contract killings…
+### ASSAULT on 2025-07-20 00:25
+- Location: 7NEWS.com.au
+- Description: Passenger dies as driver fights for life following after car crashes into tree in Sydney’s west7news.com.au
 
 
-### ASSAULT on 2025-07-19 17:01
-- Location: Decrypt
-- Description: A man's disappearance in California is being investigated as a possible crypto-related kidnapping, following a spate of "wrench attacks."
+### ASSAULT on 2025-07-20 00:07
+- Location: BBC News
+- Description: Home Secretary will tighten the law so police can stop violence-obsessed people without a clear ideology before they attack.
 
-Analysis generated at: Sun Jul 20 18:19:43 UTC 2025
+Analysis generated at: Mon Jul 21 01:18:36 UTC 2025
