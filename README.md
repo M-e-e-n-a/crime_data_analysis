@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Jul 21 01:18:36 UTC 2025
+Last updated: Mon Jul 21 02:10:23 UTC 2025
 
 ## Latest Analysis
 
-Loaded 45799 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-20 01:14:55
+Loaded 45803 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-20 02:08:39
 
 Incidents by source:
 source
-newsapi           45698
+newsapi           45702
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
+### OTHER on 2025-07-20 02:08
+- Location: WSB Atlanta
+- Description: Clayton County police on the scene of an “Active Incident” involving at teenwsbtv.com
+
+
+### OTHER on 2025-07-20 02:01
+- Location: Womansworld.com
+- Description: Discover 'The Beverly Hillbillies' cast young, from Buddy Ebsen's legendary career to Donna Douglas' Twilight Zone appearance and rise to fame.
+
+
+### HOMICIDE on 2025-07-20 01:28
+- Location: CBC News
+- Description: A woman is dead following a shooting in the southwest Calgary community of Haysboro, police said. The victim, in her 20s, was found suffering from apparent gunshot wounds late Saturday afternoon, say police.
+
+
+### OTHER on 2025-07-20 01:25
+- Location: ComicBook.com
+- Description: Image courtesy of Universal Pictures
+Steven Spielberg crafted an ending for 1975’s Jaws that diverges heavily from Peter Benchley’s namesake novel, and it ended up being the right call. Set on the summertime seaside tourist town of Amity Island, Jaws sees the…
+
+
 ### HOMICIDE on 2025-07-20 01:14
 - Location: 7NEWS.com.au
 - Description: Death in custody sparks homicide probe as front yard arrest ends in tragedy7news.com.au
 
-
-### HOMICIDE on 2025-07-20 00:58
-- Location: Freerepublic.com
-- Description: CHINATOWN, Manhattan (WABC) -- Two women have been arrested after a car struck and killed a bicyclist and a pedestrian in Manhattan's Chinatown Saturday morning. Police say two women inside the Chevy Malibu, ages 22 and 23, attempted to flee the scene but wer…
-
-
-### ROBBERY/THEFT on 2025-07-20 00:27
-- Location: Fox News
-- Description: Minnesota state Sen. Nicole Mitchell was convicted on felony burglary charges after breaking into her stepmother's Detroit Lakes home. She faces up to 20 years behind bars.
-
-
-### ASSAULT on 2025-07-20 00:25
-- Location: 7NEWS.com.au
-- Description: Passenger dies as driver fights for life following after car crashes into tree in Sydney’s west7news.com.au
-
-
-### ASSAULT on 2025-07-20 00:07
-- Location: BBC News
-- Description: Home Secretary will tighten the law so police can stop violence-obsessed people without a clear ideology before they attack.
-
-Analysis generated at: Mon Jul 21 01:18:36 UTC 2025
+Analysis generated at: Mon Jul 21 02:10:23 UTC 2025
