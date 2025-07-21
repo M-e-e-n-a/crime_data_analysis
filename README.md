@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Jul 21 12:31:58 UTC 2025
+Last updated: Mon Jul 21 12:53:48 UTC 2025
 
 ## Latest Analysis
 
-Loaded 45872 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-20 12:30:34
+Loaded 45875 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-20 12:47:50
 
 Incidents by source:
 source
-newsapi           45771
+newsapi           45774
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,6 +24,21 @@ bution.svg)
 
 ## Recent Incidents
 
+### OTHER on 2025-07-20 12:47
+- Location: Fair Observer
+- Description: Indian Prime Minister Narendra Modi has led the country for more than a decade, shaping its politics, economy and global posture. As he enters what is likely his final term, with no guarantee of returning to office after 2029, growing tensions at home and abr…
+
+
+### HOMICIDE on 2025-07-20 12:45
+- Location: Nep123.com
+- Description: Breaking News: Murder in Janakpur, Nepal – Bimlesh Yadav Found Dead Tragedy has struck in Janakpur, Nepal, as a young man, identified as 28-year-old Bimlesh Yadav, has been found dead. The murder occurred at a hotel in the Zero Mile area of Janakpur. Accordin…
+
+
+### SHOOTING on 2025-07-20 12:40
+- Location: Screen Rant
+- Description: An underrated horror movie has shot to the top of the HBO Max most-watched list, and now is a chance to see it while it is on streaming.
+
+
 ### SHOOTING on 2025-07-20 12:30
 - Location: Thegatewaypundit.com
 - Description: A female Uber driver was shot multiple times after she picked up two passengers last week in Akron, Ohio.
@@ -34,19 +49,4 @@ The post Female Uber Driver Shot 6 Times After Picking Up Two Male Passengers ap
 - Location: fox6now.com
 - Description: One person has died and four others were hurt after a wrong-way crash on I-39 in Dane County early Sunday, July 20.
 
-
-### ROBBERY/THEFT on 2025-07-20 12:24
-- Location: NBCSports.com
-- Description: Joe Burrow didn't need a Batmobile to bring a few jokers to justice.
-
-
-### OTHER on 2025-07-20 12:15
-- Location: Futurism
-- Description: You've heard of Rent-a-Cops before, but this is the real deal. A recently released app called "Patrol" has rolled out to select neighborhoods in Los Angeles, including Brentwood, Beverly Hills, Bel Air, Holmby Hills, and Malibu, with "more areas coming soon."…
-
-
-### SHOOTING on 2025-07-20 12:15
-- Location: CNN
-- Description: A lively night outside a bustling East Hollywood nightclub took a devastating turn early Saturday when a car barreled through a crowded sidewalk, injuring at...
-
-Analysis generated at: Mon Jul 21 12:31:58 UTC 2025
+Analysis generated at: Mon Jul 21 12:53:48 UTC 2025
