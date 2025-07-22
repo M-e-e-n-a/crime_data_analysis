@@ -1,10 +1,10 @@
 
-Loaded 46041 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-21 12:44:53
+Loaded 46129 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-21 18:21:07
 
 Incidents by source:
 source
-newsapi           45940
+newsapi           46028
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2025-07-21 12:44
-- Location: fox6now.com
-- Description: The West Milwaukee Police Department is investigating a break-in at the Target on Miller Park Way that happened early on Monday, July 21.
+### OTHER on 2025-07-21 18:21
+- Location: Us Weekly
+- Description: Denise Richards’ estranged husband, Aaron Phypers, filed a police report against the actress days after she accused him of domestic violence, Us Weekly can exclusively report. Sources tell Us that Phypers, 52, went into the Lost Hills station for the Los Ange…
 
 
-### HOMICIDE on 2025-07-21 12:39
-- Location: Newser
-- Description: Pakistani authorities have detained at least 11 suspects following the public killing of a couple in a case that has once again put the country's ongoing struggle with so-called honor killings in the spotlight. The victims, accused by a local tribal leader of…
+### OTHER on 2025-07-21 18:17
+- Location: CBC News
+- Description: Peel Regional Police's annual street racing campaign resulted in more than 130 arrests, 100 vehicles seized and 2,100 provincial and criminal charges laid, police said in a news release Monday.
 
 
-### OTHER on 2025-07-21 12:38
-- Location: ESPN
-- Description: England captain Leah Williamson trained with the team on Monday in a big boost to the squad ahead of their Euro 2025 semi-final against Italy on Tuesday.
+### HOMICIDE on 2025-07-21 18:11
+- Location: NBC News
+- Description: A New York federal appeals court on Monday ruled that the former bodega stock clerk convicted in the 1979 kidnapping and murder of 6-year-old Etan Patz should receive a new trial or be released from custody.
 
 
-### OTHER on 2025-07-21 12:31
-- Location: Sky.com
-- Description: Nigel Farage has said violent UK offenders could be jailed overseas under his plans to cut crime by half.
+### HOMICIDE on 2025-07-21 18:11
+- Location: Hollywood Reporter
+- Description: The Emmy-nominated actor and director played Theo Huxtable on the long-running Bill Cosby comedy.
 
 
-### ROBBERY/THEFT on 2025-07-21 12:30
-- Location: Elliott.org
-- Description: Stolen reward points! Chase won't help recover your valuable points? Learn how to fight back against rewards fraud and get them back.
+### OTHER on 2025-07-21 18:10
+- Location: Southasiaviews.com
+- Description: Khliehriat(Meghalaya), July 21: A court in East Jaintia Hills District has sentenced a man to seven years in prison for committing an offence against a minor under the Protection of Children from Sexual Offences (POCSO) Act. The accused, Shambhu Ray, was foun…
 
-Analysis generated at: Tue Jul 22 12:53:48 UTC 2025
+Analysis generated at: Tue Jul 22 18:21:53 UTC 2025
