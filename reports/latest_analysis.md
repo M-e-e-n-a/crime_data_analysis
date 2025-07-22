@@ -1,10 +1,10 @@
 
-Loaded 45967 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-21 06:00:00
+Loaded 46038 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-21 12:31:00
 
 Incidents by source:
 source
-newsapi           45866
+newsapi           45937
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-07-21 06:00
-- Location: Naturalnews.com
-- Description: The Labour Party has proposed lowering the voting age from 18 to 16 for all U.K.-wide elections, including general, local, mayoral and Police and Crime Commissioner contests, aligning with practices in Scotland and Wales. The plan includes expanding accepted …
+### OTHER on 2025-07-21 12:31
+- Location: Sky.com
+- Description: Nigel Farage has said violent UK offenders could be jailed overseas under his plans to cut crime by half.
 
 
-### SHOOTING on 2025-07-21 06:00
-- Location: Newser
-- Description: An off-duty US Customs and Border Protection officer was shot in a Manhattan park on Saturday following an apparent robbery gone wrong, New York City police and federal officials said. The 42-year-old officer was in stable condition Sunday and expected to sur…
+### ROBBERY/THEFT on 2025-07-21 12:30
+- Location: Elliott.org
+- Description: Stolen reward points! Chase won't help recover your valuable points? Learn how to fight back against rewards fraud and get them back.
 
 
-### OTHER on 2025-07-21 05:57
-- Location: Gadgets360.com
-- Description: Tovino Thomas stars in Narivetta, a Malayalam-language action thriller that delves into themes of tribal justice, power abuse, and personal transformation. Set against the backdrop of the Muthanga protest, the movie follows a junior cop who grapples with his …
+### HOMICIDE on 2025-07-21 12:25
+- Location: Newsweek
+- Description: The father told police that the defendant's sister offered him $12,000 to drop the charges against her brother, prosecutors say.
 
 
-### SHOOTING on 2025-07-21 05:56
-- Location: Thehillstimes.in
-- Description: HT DIGITAL GUWAHATI, JULY 21: In a sinister attack in the run-up to the Bodoland Territorial Region (BTR) council elections, a young man named Rebo Boro was shot in the leg by Golap Kachari at Poskia-Hatibandha village in Kalaigaon police station in Assam’s U…
+### OTHER on 2025-07-21 12:04
+- Location: The Times of India
+- Description: Chaitanya Baghel, son of ex-Chhattisgarh CM Bhupesh Baghel, was arrested by the ED for allegedly handling over ₹1,000 crore from a liquor scam. The ED claims he used ₹16.7 crore for his real estate project. Bhupesh Baghel alleges misuse of central agencies an…
 
 
-### OTHER on 2025-07-21 05:38
-- Location: CNA
-- Description: He tapped the bus driver's face after asking why he had not been allowed to alight and made a scene on the bus, disrupting the service.
+### ROBBERY/THEFT on 2025-07-21 12:00
+- Location: The Denver Post
+- Description: Commerce City police tracked a motorcycle theft suspect using a drone, then arrested him. "That's a high-risk arrest for our officers on the street," a commander said.
 
-Analysis generated at: Tue Jul 22 06:23:11 UTC 2025
+Analysis generated at: Tue Jul 22 12:31:33 UTC 2025
