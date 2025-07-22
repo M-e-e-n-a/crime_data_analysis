@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Jul 22 12:31:33 UTC 2025
+Last updated: Tue Jul 22 12:53:48 UTC 2025
 
 ## Latest Analysis
 
-Loaded 46038 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-21 12:31:00
+Loaded 46041 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-21 12:44:53
 
 Incidents by source:
 source
-newsapi           45937
+newsapi           45940
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,6 +24,21 @@ bution.svg)
 
 ## Recent Incidents
 
+### ROBBERY/THEFT on 2025-07-21 12:44
+- Location: fox6now.com
+- Description: The West Milwaukee Police Department is investigating a break-in at the Target on Miller Park Way that happened early on Monday, July 21.
+
+
+### HOMICIDE on 2025-07-21 12:39
+- Location: Newser
+- Description: Pakistani authorities have detained at least 11 suspects following the public killing of a couple in a case that has once again put the country's ongoing struggle with so-called honor killings in the spotlight. The victims, accused by a local tribal leader of…
+
+
+### OTHER on 2025-07-21 12:38
+- Location: ESPN
+- Description: England captain Leah Williamson trained with the team on Monday in a big boost to the squad ahead of their Euro 2025 semi-final against Italy on Tuesday.
+
+
 ### OTHER on 2025-07-21 12:31
 - Location: Sky.com
 - Description: Nigel Farage has said violent UK offenders could be jailed overseas under his plans to cut crime by half.
@@ -33,19 +48,4 @@ bution.svg)
 - Location: Elliott.org
 - Description: Stolen reward points! Chase won't help recover your valuable points? Learn how to fight back against rewards fraud and get them back.
 
-
-### HOMICIDE on 2025-07-21 12:25
-- Location: Newsweek
-- Description: The father told police that the defendant's sister offered him $12,000 to drop the charges against her brother, prosecutors say.
-
-
-### OTHER on 2025-07-21 12:04
-- Location: The Times of India
-- Description: Chaitanya Baghel, son of ex-Chhattisgarh CM Bhupesh Baghel, was arrested by the ED for allegedly handling over ₹1,000 crore from a liquor scam. The ED claims he used ₹16.7 crore for his real estate project. Bhupesh Baghel alleges misuse of central agencies an…
-
-
-### ROBBERY/THEFT on 2025-07-21 12:00
-- Location: The Denver Post
-- Description: Commerce City police tracked a motorcycle theft suspect using a drone, then arrested him. "That's a high-risk arrest for our officers on the street," a commander said.
-
-Analysis generated at: Tue Jul 22 12:31:33 UTC 2025
+Analysis generated at: Tue Jul 22 12:53:48 UTC 2025
