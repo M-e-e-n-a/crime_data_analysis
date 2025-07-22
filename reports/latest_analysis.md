@@ -1,10 +1,10 @@
 
-Loaded 45928 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-20 18:12:17
+Loaded 45938 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-21 00:57:23
 
 Incidents by source:
 source
-newsapi           45827
+newsapi           45837
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-07-20 18:12
-- Location: Just Jared
-- Description: Patience Season 1 is coming to an end on Sunday (July 20). The crime drama, which debuted on June 15 on PBS, is an adaptation of the French series Astrid et Raphaëlle. The show first aired earlier this year in the U.K. In the Season 1 finale, police discover …
+### OTHER on 2025-07-21 00:57
+- Location: Us Weekly
+- Description: The attorney who will decide Brady Kiser’s fate following a child abuse recommendation has addressed the news development. According to a report published by Phoenix, Arizona’s 12news on Thursday, July 17, Maricopa County Attorney Rachel Mitchell spoke public…
 
 
-### OTHER on 2025-07-20 18:11
-- Location: The Jerusalem Post
-- Description: This unusual move is a new initiative to make it harder for both Hamas terrorists and Jewish extremists, who perpetrate violence and nationalistic offenses, ...
+### OTHER on 2025-07-21 00:47
+- Location: PC Gamer
+- Description: Everyone hated that.
 
 
-### OTHER on 2025-07-20 18:10
-- Location: Breitbart News
-- Description: Authorities dispute an Indianapolis, Indiana, mother of seven’s claims that her social media account was hacked and that she did not offer up her infant daughter for sex in exchange for $400.
-The post Report: Indiana Mother of Seven Offered Man Her Infant Dau…
+### OTHER on 2025-07-21 00:45
+- Location: Thehillstimes.in
+- Description: HT Correspondent AGARTALA, July 20: Tripura Chief Minister Manik Saha on Sunday said that the present state government has implemented a Witness Protection Scheme to ensure the safety and cooperation of witnesses. He stated that, under the visionary leadershi…
 
 
-### OTHER on 2025-07-20 18:03
-- Location: New York Post
-- Description: With almost every day that passes, Britain is progressively embracing its own destruction by groveling to its mortal foes and dumping big-time on its most loyal friends. Prime Minister Keir Starmer’s Labour government is increasingly surrendering to Islamizat…
+### DRUG RELATED on 2025-07-21 00:26
+- Location: Japan Today
+- Description: Ecuador on Sunday extradited to the United States the leader of a violent Ecuadorian gang who relied on hitmen, bribes and military weapons to do business. José Adolfo Macías Villamar, whose nickname is “Fito,” escaped from a prison in Ecuador last year and w…
 
 
-### HOMICIDE on 2025-07-20 17:51
-- Location: New York Post
-- Description: The panicked nephew called 911 as the murders played on his screen, with officials arriving to find that the father had stabbed himself in the chest afterward, critically wounding himself.
+### HOMICIDE on 2025-07-21 00:26
+- Location: The Hollywood Gossip
+- Description: Reading Time: 3 minutesDog the Bounty Hunter has experienced a true tragedy. Read on for the heinous details that describe the death of his 13-year old grandson.
+Dog the Bounty Hunter’s Grandson Killed by Own Father in Horrible Accident was originally publish…
 
-Analysis generated at: Mon Jul 21 18:22:30 UTC 2025
+Analysis generated at: Tue Jul 22 01:14:39 UTC 2025
