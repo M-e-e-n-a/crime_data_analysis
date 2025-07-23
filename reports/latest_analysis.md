@@ -1,10 +1,10 @@
 
-Loaded 46194 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-22 06:09:19
+Loaded 46271 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-22 12:28:32
 
 Incidents by source:
 source
-newsapi           46093
+newsapi           46170
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-07-22 06:09
-- Location: BusinessLine
-- Description: The GENIUS Act in the US impacts global crypto regulation, contrasting with India's unregulated crypto ecosystem vulnerabilities.
+### OTHER on 2025-07-22 12:28
+- Location: El Paso Times
+- Description: A roundup is coming. See list of persons wanted on criminal warrants by El Paso County Sheriff's Office.
 
 
-### OTHER on 2025-07-22 06:05
-- Location: ABC News (AU)
-- Description: There are many reasons someone can be moody, bad-tempered, or sullen, but regardless of why, experts say regular occurrences can lead to disconnect and resentment in relationships.
+### HOMICIDE on 2025-07-22 12:20
+- Location: Dineshkhabar.com
+- Description: Kanchanpur: The death of 35-year-old Ramresar Rana of Silkattijai Camp, Laljhadi Rural Municipality-4, Kanchanpur, has been confirmed as a murder carried out by his wife’s lover.
+
+Rana, who was initially found dead beside his bicycle near his home on April 1…
 
 
-### OTHER on 2025-07-22 06:03
-- Location: Antaranews.com
-- Description: Taking a firm stance against rice adulteration, President Prabowo Subianto labelled the perpetrators as &quot;the people&#39;s traitors,&quot; who were ...
+### HOMICIDE on 2025-07-22 12:20
+- Location: New York Post
+- Description: Breonna Taylor’s aunt was arrested outside a Louisville courthouse Monday, just hours before a fired cop convicted in the botched no-knock raid leading to Taylor’s shooting death was sentenced to 33 months in prison. Bianca Austin was one of four people taken…
 
 
-### ASSAULT on 2025-07-22 06:00
-- Location: Dramabeans.com
-- Description: Like all good things, our good boys’ journey comes to an end. The team closes in on our ever-elusive villain — who refuses to go down without a fight. But how long can he hold out as his empire crumbles to pieces before his eyes?   EPISODES 15-16 After Joo-yo…
+### HOMICIDE on 2025-07-22 12:12
+- Location: Fox News
+- Description: An Illinois coroner has refuted claims that a woman found dead in a storage container at the home of an illegal immigrant was decapitated.
 
 
-### OTHER on 2025-07-22 06:00
-- Location: Naturalnews.com
-- Description: The Gaza genocide is special. And not in one but two regards. (Article by Tarik Cyril Amar republished from RT.com) As has often been observed, this is the first genocide in history that is, in essence, livestreamed. No genocide before has been committed unde…
+### OTHER on 2025-07-22 12:11
+- Location: Forbes
+- Description: Director Chun Sun-young created a mystery thriller in which the real question is not 'Who did it?" but rather "Who is the real victim here?"
 
-Analysis generated at: Wed Jul 23 06:23:32 UTC 2025
+Analysis generated at: Wed Jul 23 12:31:46 UTC 2025
