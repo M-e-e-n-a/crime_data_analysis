@@ -1,10 +1,10 @@
 
-Loaded 46129 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-21 18:21:07
+Loaded 46135 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-22 01:05:15
 
 Incidents by source:
 source
-newsapi           46028
+newsapi           46034
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-07-21 18:21
-- Location: Us Weekly
-- Description: Denise Richards’ estranged husband, Aaron Phypers, filed a police report against the actress days after she accused him of domestic violence, Us Weekly can exclusively report. Sources tell Us that Phypers, 52, went into the Lost Hills station for the Los Ange…
+### OTHER on 2025-07-22 01:05
+- Location: New York Post
+- Description: New details are emerging about the actor's final moments.
 
 
-### OTHER on 2025-07-21 18:17
-- Location: CBC News
-- Description: Peel Regional Police's annual street racing campaign resulted in more than 130 arrests, 100 vehicles seized and 2,100 provincial and criminal charges laid, police said in a news release Monday.
+### OTHER on 2025-07-22 00:58
+- Location: Mypeoplesreview.com
+- Description: By Rabi Raj Thapa “Trusted Criminals” was first coined by a distinguished Sociology/Criminal Justice professor, University of Sacramento, David O. […]
+The post Save Nepal from its trusted criminals appeared first on Peoples' Review.
 
 
-### HOMICIDE on 2025-07-21 18:11
-- Location: NBC News
-- Description: A New York federal appeals court on Monday ruled that the former bodega stock clerk convicted in the 1979 kidnapping and murder of 6-year-old Etan Patz should receive a new trial or be released from custody.
+### HOMICIDE on 2025-07-22 00:51
+- Location: New York Post
+- Description: The man accused of murdering a “beloved” University of Berkeley professor in Greece allegedly told police he “did it all” for the victim’s ex-wife — who he was dating, according to reports. “I did it all for [her] and our children so that we could have a norm…
 
 
-### HOMICIDE on 2025-07-21 18:11
-- Location: Hollywood Reporter
-- Description: The Emmy-nominated actor and director played Theo Huxtable on the long-running Bill Cosby comedy.
+### HOMICIDE on 2025-07-22 00:43
+- Location: Fox News
+- Description: A Texas man admitted to allegedly killing his wife and living with her decomposing body for a month, telling investigators he wanted to 'go big or go home' with his first offense.
 
 
-### OTHER on 2025-07-21 18:10
-- Location: Southasiaviews.com
-- Description: Khliehriat(Meghalaya), July 21: A court in East Jaintia Hills District has sentenced a man to seven years in prison for committing an offence against a minor under the Protection of Children from Sexual Offences (POCSO) Act. The accused, Shambhu Ray, was foun…
+### HOMICIDE on 2025-07-22 00:15
+- Location: WSOC Charlotte
+- Description: Lieutenant Carlos Alverto Uribe of the Newton Police Department has been indicted and charged with second-degree murder following an officer-involved shooting on June 26.
 
-Analysis generated at: Tue Jul 22 18:21:53 UTC 2025
+Analysis generated at: Wed Jul 23 01:15:44 UTC 2025
