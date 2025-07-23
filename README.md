@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Jul 23 02:05:38 UTC 2025
+Last updated: Wed Jul 23 06:23:32 UTC 2025
 
 ## Latest Analysis
 
-Loaded 46143 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-22 02:00:29
+Loaded 46194 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-22 06:09:19
 
 Incidents by source:
 source
-newsapi           46042
+newsapi           46093
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-07-22 02:00
-- Location: Screen Rant
-- Description: A revenge movie franchise consisting of five films makes for a great watch for those looking for something similar to Keanu Reeves' John Wick series.
+### OTHER on 2025-07-22 06:09
+- Location: BusinessLine
+- Description: The GENIUS Act in the US impacts global crypto regulation, contrasting with India's unregulated crypto ecosystem vulnerabilities.
 
 
-### OTHER on 2025-07-22 01:57
-- Location: Fox News
-- Description: Long Island family alleges MRI technician invited Keith McAllister into room without metal warnings, leading to fatal accident when his chain attracted to magnetic field.
+### OTHER on 2025-07-22 06:05
+- Location: ABC News (AU)
+- Description: There are many reasons someone can be moody, bad-tempered, or sullen, but regardless of why, experts say regular occurrences can lead to disconnect and resentment in relationships.
 
 
-### HOMICIDE on 2025-07-22 01:46
-- Location: Sky.com
-- Description: A former Kentucky police officer has been sentenced to nearly three years in prison for using excessive force during the botched drugs raid that killed Breonna Taylor.
+### OTHER on 2025-07-22 06:03
+- Location: Antaranews.com
+- Description: Taking a firm stance against rice adulteration, President Prabowo Subianto labelled the perpetrators as &quot;the people&#39;s traitors,&quot; who were ...
 
 
-### OTHER on 2025-07-22 01:38
-- Location: Parade
-- Description: Costa Rica officials have shared more information about the actor's sudden passing.
+### ASSAULT on 2025-07-22 06:00
+- Location: Dramabeans.com
+- Description: Like all good things, our good boys’ journey comes to an end. The team closes in on our ever-elusive villain — who refuses to go down without a fight. But how long can he hold out as his empire crumbles to pieces before his eyes?   EPISODES 15-16 After Joo-yo…
 
 
-### HOMICIDE on 2025-07-22 01:38
-- Location: DW (English)
-- Description: Breonna Taylor was shot dead by police when they arrived at her home around midnight with a no-knock warrant. The killing of a Black woman in Kentucky sparked a wave of protests across the US. A former Kentucky police officer was sentenced to 33 months in pri…
+### OTHER on 2025-07-22 06:00
+- Location: Naturalnews.com
+- Description: The Gaza genocide is special. And not in one but two regards. (Article by Tarik Cyril Amar republished from RT.com) As has often been observed, this is the first genocide in history that is, in essence, livestreamed. No genocide before has been committed unde…
 
-Analysis generated at: Wed Jul 23 02:05:38 UTC 2025
+Analysis generated at: Wed Jul 23 06:23:32 UTC 2025
