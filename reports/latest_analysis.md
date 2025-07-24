@@ -1,10 +1,10 @@
 
-Loaded 46365 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-22 18:19:07
+Loaded 46375 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-23 01:11:25
 
 Incidents by source:
 source
-newsapi           46264
+newsapi           46274
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-07-22 18:19
+### HOMICIDE on 2025-07-23 01:11
+- Location: ABC News (AU)
+- Description: An 18-year-old woman has had her charges heard in the Toowoomba Magistrates Court after being arrested over the alleged murder of Zdravko Bilic.
+
+
+### OTHER on 2025-07-23 00:58
+- Location: Newsbreak.com
+- Description: Woman Allegedly Posed As Fake Nurse At Health Facilities Since 2020 - NewsBreaknewsbreak.com
+
+
+### OTHER on 2025-07-23 00:57
+- Location: CBC News
+- Description: Police in Manitoba’s Interlake region are looking for a 21-year-old man from Peguis First Nation who has been missing since Saturday.
+
+
+### OTHER on 2025-07-23 00:54
+- Location: ABC News
+- Description: U.S. immigration agents in Miami have arrested businessman, doctor and former Haitian presidential hopeful Pierre Réginald Boulos over his alleged support of violent gangs in Haiti that the U.S. government has deemed terrorist groups
+
+
+### OTHER on 2025-07-23 00:41
 - Location: New York Post
-- Description: The teen gunman accused of inadvertently shooting his female pal in the head after she shot an innocent bystander during Manhattan’s Pride fest has been charged with attempted murder.
+- Description: The four-star cornerback recruit officially committed to Georgia on June 27.
 
-
-### OTHER on 2025-07-22 18:14
-- Location: Decrypt
-- Description: London gang jailed for kidnapping barber over fake crypto fortune—he only had $9, so they settled for $2.7k.
-
-
-### OTHER on 2025-07-22 18:13
-- Location: Slate Magazine
-- Description: If it resists and is ignored, it will have weakened the institution for generations. But if it doesn’t resist this remaking now, when could it?
-
-
-### OTHER on 2025-07-22 18:09
-- Location: Rolling Stone
-- Description: "I wanted this film to speak to the particular moment of rapid cultural change in 2019," director Gagan Rehill said, referring to the aftermath of the Empire actor reporting a hate crime
-
-
-### ROBBERY/THEFT on 2025-07-22 18:00
-- Location: New Zealand Herald
-- Description: Beef farmers say raid means they essentially lost $65,000 worth of stock overnight.
-
-Analysis generated at: Wed Jul 23 18:22:04 UTC 2025
+Analysis generated at: Thu Jul 24 01:15:05 UTC 2025
