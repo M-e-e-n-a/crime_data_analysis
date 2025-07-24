@@ -1,10 +1,10 @@
 
-Loaded 46379 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-23 01:50:00
+Loaded 46408 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-23 06:21:38
 
 Incidents by source:
 source
-newsapi           46278
+newsapi           46307
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,32 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-07-23 01:50
-- Location: The Japan Times
-- Description: The city’s mayor, Sadiq Khan, needs to take growing disorder on the streets more seriously.
+### HOMICIDE on 2025-07-23 06:21
+- Location: Al Jazeera English
+- Description: If convicted, Fernando Ramirez could face multiple sentences of life imprisonment.
 
 
-### HOMICIDE on 2025-07-23 01:29
-- Location: Fox News
-- Description: A 29-year-old man with a lengthy criminal history has been indicted on 74 felony charges after allegedly ramming his Nissan Versa into a crowd outside a California nightclub.
+### HOMICIDE on 2025-07-23 06:04
+- Location: Rlsbb.cc
+- Description: Season 1, Episode 02 – After a man’s savage murder at home, his wife is in the frame after calling 911, but the truth is more macabre than anyone dared believe. Also, a husband finds his wife with shots to the head. He claims it was suicide-the police have th…
 
 
-### OTHER on 2025-07-23 01:28
-- Location: CBS News
-- Description: A New Jersey woman is concerned about what's next after her partner and more than a dozen migrant workers were taken to the controversial ICE facility Delaney Hall.
+### OTHER on 2025-07-23 06:00
+- Location: Naturalnews.com
+- Description: President Donald Trump declassifies over 230,000 pages of records related to Dr. Martin Luther King Jr.’s 1968 assassination. Director of National Intelligence Tulsi Gabbard spearheads the release, calling it a “long-overdue reckoning” with federal transparen…
 
 
-### OTHER on 2025-07-23 01:19
-- Location: BBC News
-- Description: Anna Downes says she contacted the BBC after she lost hope that the police would take her seriously.
+### HOMICIDE on 2025-07-23 05:54
+- Location: The Times of India
+- Description: Melina Frattolin's death is ruled a homicide. Autopsy reveals she died by drowning. Luciano Frattolin, the girl's father, faces murder charges. He reported her missing, triggering an AMBER Alert. Police suspect he staged the disappearance. Melina's body was f…
 
 
-### HOMICIDE on 2025-07-23 01:11
-- Location: ABC News (AU)
-- Description: An 18-year-old woman has had her charges heard in the Toowoomba Magistrates Court after being arrested over the alleged murder of Zdravko Bilic.
+### OTHER on 2025-07-23 05:53
+- Location: Risky.biz
+- Description: Risky Biz returns after two weeks off, and there sure is cybersecurity news to catch up on. Patrick Gray and Adam Boileau discuss:
 
-Analysis generated at: Thu Jul 24 02:04:54 UTC 2025
+<ul>
+ <li>Microsoft tried to make outsourcing the Pentagon’s cloud maintenance to China okay (it was not)</li>
+ <li>She shells …
+
+Analysis generated at: Thu Jul 24 06:23:14 UTC 2025
