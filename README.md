@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Jul 24 12:31:49 UTC 2025
+Last updated: Thu Jul 24 12:53:32 UTC 2025
 
 ## Latest Analysis
 
-Loaded 46476 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-23 12:24:00
+Loaded 46484 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-23 12:50:21
 
 Incidents by source:
 source
-newsapi           46375
+newsapi           46383
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,31 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-07-23 12:24
-- Location: LancasterOnline
-- Description: A Lancaster city man accused of threatening a man with a steak knife leading to a police standoff will have his case heard in county court after waiving his preliminary hearing.
+### OTHER on 2025-07-23 12:50
+- Location: Newsbreak.com
+- Description: Woman Allegedly Posed As Fake Nurse At Health Facilities Since 2020 - NewsBreaknewsbreak.com
 
 
-### HOMICIDE on 2025-07-23 12:23
-- Location: The Denver Post
-- Description: A man died Tuesday after being shot during a suspected Monday night robbery outside of an Aurora apartment complex, police said.
+### OTHER on 2025-07-23 12:49
+- Location: Nep123.com
+- Description: Fake Ministry of Home Affairs Employee Busted in Kathmandu Valley: Scam Alert Breaking News from Kathmandu! Authorities have apprehended a man operating a sophisticated fraud scheme, impersonating a Ministry of Home Affairs employee. This scam targeted multip…
 
 
-### HOMICIDE on 2025-07-23 12:20
-- Location: Boston Herald
-- Description: A judge is expected to order Bryan Kohberger to serve four life sentences without parole this week.
+### OTHER on 2025-07-23 12:42
+- Location: ComicBook.com
+- Description: Netflix 
+We’re in the back half of summer and August is officially just around the corner. With just over a week to go before the new month arrives, Netflix has started to let subscribers know which movies and TV shows are on the way. Wednesday morning saw th…
 
 
-### HOMICIDE on 2025-07-23 12:15
-- Location: Democracy Now!
-- Description: Virginia Commonwealth University is withholding the diploma of a Palestinian American student because of her campus activism. In a hearing Tuesday, officials examined the case of VCU student Sereen Haddad, who was told she would not receive her diploma at her…
+### OTHER on 2025-07-23 12:41
+- Location: Order-order.com
+- Description: Essex Police are holding a press conference amid protests in Epping over migrant-related crime. It follows reports that the force escorted pro-migrant demonstrators to last week’s protest…
+
+[…] Read the rest
 
 
-### OTHER on 2025-07-23 12:11
-- Location: The Mac Observer
-- Description: The clear answer: you should not attempt to unlock a found iPhone. Apple devices are protected by security features like Activation Lock and Apple ID verification, making them virtually unusable to anyone but the rightful owner. Trying to bypass these protect…
+### OTHER on 2025-07-23 12:40
+- Location: Yahoo Entertainment
+- Description: Scams targeting older Americans are on the rise.
 
-Analysis generated at: Thu Jul 24 12:31:49 UTC 2025
+Analysis generated at: Thu Jul 24 12:53:32 UTC 2025
