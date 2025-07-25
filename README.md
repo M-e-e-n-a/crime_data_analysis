@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Jul 24 18:21:52 UTC 2025
+Last updated: Fri Jul 25 01:14:38 UTC 2025
 
 ## Latest Analysis
 
-Loaded 46579 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-23 18:21:29
+Loaded 46589 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-24 01:11:00
 
 Incidents by source:
 source
-newsapi           46478
+newsapi           46488
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,30 +24,31 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-07-23 18:21
-- Location: USA Today
-- Description: Alivea Goncalves said she would not offer her sister's murderer tears. Instead she called him "pathetic," "as dumb as they come."
+### HOMICIDE on 2025-07-24 01:11
+- Location: TMZ
+- Description: Bryan Kohberger brutally "disfigured" Kaylee Goncalves' face and fought through a violent struggle with Xana Kernodle before fleeing the scene of the University of Idaho murders ... according to newly unsealed police reports. Moscow Police…
 
 
-### OTHER on 2025-07-23 18:20
-- Location: Thegatewaypundit.com
-- Description: A prominent Midwest city’s experiment with government-run grocery stores shows what awaits Big Apple residents should Marxist New York City Mayoral candidate Zohran Mamdani get his way.
-The post This is Socialism: Kansas City Residents Expose the Disturbing a…
+### DRUG RELATED on 2025-07-24 01:00
+- Location: ABC News (AU)
+- Description: Felicia Djamirze grew up in the criminal underworld, then became a beauty queen. But her life outside the pageant circuit was mired in the world of drugs, bikie gangs and violence (CW: graphic discussion of domestic violence and crime) 
+
+Felicia Djamirze is a…
 
 
-### OTHER on 2025-07-23 18:20
-- Location: Newser
-- Description: A woman accused of impersonating a nurse across several states faces a litany of charges after Pennsylvania authorities uncovered what they describe as an elaborate, five-year fraud operation that began during the COVID pandemic. Shannon Nicole Womack, 39, al…
+### HOMICIDE on 2025-07-24 00:58
+- Location: New York Post
+- Description: The 21-year-old was found with head-to-toe stab and puncture wounds, razor marks, large lacerations, and other injuries indicating she was tied up and possibly beaten with a hammer, sources said.
 
 
-### OTHER on 2025-07-23 18:14
-- Location: Skooknews.com
-- Description: State Police Seek Health Care Providers’ Help in Investigation of Fraudulent Nursing Practicesskooknews.com
+### OTHER on 2025-07-24 00:48
+- Location: Starweekly.com.au
+- Description: Police are investigating a home invasion and firearms incident in Gladstone Park on July 24. Emergency services were called to...
+The post Gladstone Park home invasion appeared first on Northern.
 
 
-### OTHER on 2025-07-23 18:13
-- Location: ComicBook.com
-- Description: Image Credit: Marvel Comics
-Punisher‘s war on crime is finally getting the graphic treatment that it deserves. When it comes to violent characters in the Marvel Universe, you’ll be hard-pressed to find one on the same level as Frank Castle. Punisher brings th…
+### OTHER on 2025-07-24 00:45
+- Location: New York Post
+- Description: Bryan Kohberger had no apparent real-world or online connection to any of his four University of Idaho victims, investigators revealed after his sentencing Wednesday.
 
-Analysis generated at: Thu Jul 24 18:21:52 UTC 2025
+Analysis generated at: Fri Jul 25 01:14:38 UTC 2025
