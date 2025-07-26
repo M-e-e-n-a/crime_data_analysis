@@ -1,10 +1,10 @@
 
-Loaded 46958 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-25 12:39:01
+Loaded 47051 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-25 18:17:57
 
 Incidents by source:
 source
-newsapi           46857
+newsapi           46950
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,30 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-07-25 12:39
-- Location: Rlsbb.cc
-- Description: Note: In Spanish With English Selectable Subtitles or (HERE). 35-year-old designer Ana Páez was found dead, naked, head in plastic bag, in Barcelona, Feb 2008. Police explored sexual crime theories until Angi emerged. Series revisits "near-perfect crime," Ang…
+### OTHER on 2025-07-25 18:17
+- Location: Vulture
+- Description: The introduction of Peter Dinklage’s character in this week’s ‘Dexter: Resurrection’ is one of several reasons to be optimistic about where the season goes from here.
 
 
-### HOMICIDE on 2025-07-25 12:34
-- Location: TheBlaze
-- Description: Suspected assassin Vance Luther Boelter said that before the gruesome June 14 killings in suburban Minneapolis, he was part of an undercover investigation of what he called the “sudden and unexpected deaths of 400 Minnesota citizens and ties between Minnesota…
+### HOMICIDE on 2025-07-25 18:16
+- Location: Sky.com
+- Description: A man has been charged with murder after two great-grandparents died following an arson attack on their home in St Helens last week.
 
 
-### HOMICIDE on 2025-07-25 12:30
-- Location: Shtfplan.com
-- Description: Once again, the American police state is choosing to protect predators, not victims.
-
-Jeffrey Epstein—the hedge fund billionaire/convicted serial pedophile and sex trafficker—may be dead, but the machinery that empowered and protected him is still very much a…
+### HOMICIDE on 2025-07-25 18:12
+- Location: Slashdot.org
+- Description: So many pro-police lawmakers and city officials have always insisted the only way to bring down crime rates is to add more cops to the mix. This may work if youre mainly interested in racking up meaningless arrests or handing out broken windows citations, but…
 
 
-### OTHER on 2025-07-25 12:30
-- Location: GeekTyrant
-- Description: Hulu has released the official U.S. trailer for Red Eye, a tense six-episode thriller set aboard an overnight flight from London to Beijing. This isn’t a remake of Wes Craven’s 2005 film starring Cillian Murphy and Rachel McAdams, it’s its own beast, blending…
+### HOMICIDE on 2025-07-25 18:09
+- Location: The Daily Caller
+- Description: A fatal shooting at the University of New Mexico’s central campus has left one dead and another injured. The suspect remains at large.
 
 
-### HOMICIDE on 2025-07-25 12:29
+### OTHER on 2025-07-25 18:05
 - Location: Freerepublic.com
-- Description: An inmate is facing a murder charge after a woman died from a drug overdose at the Dallas County Jail on July 13, the Dallas County Sheriff's Office confirmed. The suspect, 26-year-old Daisy Zuniga, is accused of smuggling a bag of drugs in her vagina while b…
+- Description: Federal authorities in Southern California have charged two workers at the Ontario Advanced Surgical Center accused of interfering with ICE agents trying to arrest an illegal alien on July 8 who fled into the medical facility. One worker was arrested Friday m…
 
-Analysis generated at: Sat Jul 26 12:48:21 UTC 2025
+Analysis generated at: Sat Jul 26 18:20:16 UTC 2025
