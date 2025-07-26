@@ -1,10 +1,10 @@
 
-Loaded 46843 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-25 01:59:35
+Loaded 46890 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-25 06:19:00
 
 Incidents by source:
 source
-newsapi           46742
+newsapi           46789
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### DRUG RELATED on 2025-07-25 01:59
-- Location: New York Post
-- Description: “Long story short my house gets home invaded and I'm the only one that gets arrested. So that’s tea.”
-
-
-### HOMICIDE on 2025-07-25 01:57
-- Location: Fairbanks Daily News-Miner
-- Description: A woman was arrested Wednesday night on multiple assault charges and attempted murder after allegedly attacking two men at an apartment on Bunnell Street, according to Fairbanks police.
-
-
-### HOMICIDE on 2025-07-25 01:49
-- Location: ABC News
-- Description: A 22-year-old graduate student who disappeared after leaving a Wisconsin bar early Sunday morning has been found dead in the Mississippi River, according to the La Crosse Police Department.
-
-
-### SHOOTING on 2025-07-25 01:37
-- Location: Nep123.com
-- Description: Breaking News: Illegal Firearms Seized in Kailali, Nepal! Hey everyone! Today’s news out of Kailali, Nepal is that local authorities have made a significant arrest in connection with illegal firearms. This is a developing story, and we’re bringing you the lat…
-
-
-### OTHER on 2025-07-25 01:20
+### OTHER on 2025-07-25 06:19
 - Location: The Star Online
-- Description: KUALA LUMPUR: The police have opened 26 investigation papers into a scam syndicate that tricks victims into revealing their one-time password (OTP), resulting in losses totalling RM151,000 since January this year. Read full story
+- Description: KOTA KINABALU: An Indonesian labourer has been sentenced to 34 years' in jail by the Sandakan Sessions Court for molesting and sexually abusing his elder brother's teenage stepdaughter on Friday (July 25). Read full story
 
-Analysis generated at: Sat Jul 26 02:00:56 UTC 2025
+
+### HOMICIDE on 2025-07-25 06:17
+- Location: Protothema.gr
+- Description: Investigations by the Authorities into the circumstances of his death - Who he met and with whom he had contacts - How he acquired a Ferrari, a petrol station and connections with the Greek Mafia while he was a prisoner - Two weapons found in his house in Spa…
+
+
+### OTHER on 2025-07-25 06:16
+- Location: Torrentfreak.com
+- Description: Top-tier Spanish football league LaLiga and Latin American anti-piracy group Alianza have joined forces to maintain the pressure on illegal IPTV service Magis TV. In conjunction with law enforcement partners in Argentina, multiple arrest warrants were execute…
+
+
+### HOMICIDE on 2025-07-25 06:12
+- Location: Cointelegraph
+- Description: Terry Bollea, better known by his wrestling ring name Hulk Hogan, was pronounced dead in a hospital on Thursday at the age of 71, days after Ozzy Osbourne passed away at 76.
+
+
+### OTHER on 2025-07-25 06:07
+- Location: The Local Sweden
+- Description: EU–US tariff talks at ‘critical phase’, a new national security adviser, and other news from Sweden on Friday.
+
+Analysis generated at: Sat Jul 26 06:21:05 UTC 2025
