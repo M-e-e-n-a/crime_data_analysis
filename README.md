@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Jul 25 18:21:39 UTC 2025
+Last updated: Sat Jul 26 01:13:11 UTC 2025
 
 ## Latest Analysis
 
-Loaded 46820 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-24 18:21:12
+Loaded 46837 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-25 01:12:26
 
 Incidents by source:
 source
-newsapi           46719
+newsapi           46736
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,31 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-07-24 18:21
-- Location: ComicBook.com
-- Description: Courtesy of Ubisoft
-The new upcoming skins for Rainbow Six Siege X have been a point of division for some series fans. Some players have been voicing increasing displeasure over the game’s newest skins, which they perceive as detracting from the game’s realis…
+### OTHER on 2025-07-25 01:12
+- Location: CBS News
+- Description: CBS News has spoken to several undocumented immigrants who were arrested by ICE agents, and then after being deported, ended up in a country that they are now unfamiliar with.
 
 
-### DRUG RELATED on 2025-07-24 18:19
-- Location: Breitbart News
-- Description: Rapper and Kamala Harris supporter GloRilla is facing criminal drug charges in Georgia after police reportedly found marijuana in her home after reports that it had been burglarized.
-The post Rapper GloRilla, Kamala Harris Presidential Campaigner, Facing Drug…
+### HOMICIDE on 2025-07-25 01:09
+- Location: HuffPost
+- Description: An Ohio police department says one of its officers is dead after a shooter lying in wait ambushed him and another officer as they parked to eat pizza in a remote, undeveloped area of Lorain.
 
 
-### OTHER on 2025-07-24 18:17
-- Location: Pitchfork
-- Description: The Irish rap trio had been set to perform at Budapest’s Sziget Festival, but government officials say they can’t enter the country for three years due to “antisemitism and glorifying terror”
+### OTHER on 2025-07-25 01:00
+- Location: New Zealand Herald
+- Description: Scheme for three-level apartments on hold, awaiting further information about the project.
 
 
-### OTHER on 2025-07-24 18:17
-- Location: ComicBook.com
-- Description: Image courtesy of Paramount Pictures
-Five Night’s At Freddy’s 2 is on the way, and will feature a re-union of two well-known alumni from the Scream franchise, Skeet Ulrich and Matthew Lilliard. Following on the success of 2023’s video game adaptation Five Nig…
-
-
-### HOMICIDE on 2025-07-24 18:17
+### SHOOTING on 2025-07-25 00:58
 - Location: New York Post
-- Description: "I've kept playing that moment back in my head, asking why we didn't stop," Kulickowski told The Post.
+- Description: Miguel Francisco Mora Nunez, 21, was charged with possession of ammunition by an illegal alien, and fellow Dominican Republic national Christhian Aybar-Berroa, 22, was hit with accessory after the fact for the July 19 shooting, according to the Department of …
 
-Analysis generated at: Fri Jul 25 18:21:39 UTC 2025
+
+### OTHER on 2025-07-25 00:49
+- Location: DW (English)
+- Description: New York is one of a number of US cities which prohibit local police from arresting people based on their immigration status.
+
+Analysis generated at: Sat Jul 26 01:13:11 UTC 2025
