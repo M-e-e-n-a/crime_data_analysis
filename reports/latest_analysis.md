@@ -1,10 +1,10 @@
 
-Loaded 46952 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-25 12:21:55
+Loaded 46958 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-25 12:39:01
 
 Incidents by source:
 source
-newsapi           46851
+newsapi           46857
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-07-25 12:21
-- Location: Nep123.com
-- Description: Justice Delayed: The Unsolved Nirmala Panta Murder Case and the Search for Justice in Nepal The Nirmala Panta murder case continues to haunt Nepal, a grim reminder of the failures of the Nepalese justice system. Seven years after the brutal murder of Nirmala …
+### HOMICIDE on 2025-07-25 12:39
+- Location: Rlsbb.cc
+- Description: Note: In Spanish With English Selectable Subtitles or (HERE). 35-year-old designer Ana Páez was found dead, naked, head in plastic bag, in Barcelona, Feb 2008. Police explored sexual crime theories until Angi emerged. Series revisits "near-perfect crime," Ang…
 
 
-### OTHER on 2025-07-25 12:16
-- Location: Democracy Now!
-- Description: We speak to civil rights lawyer Ben Crump about the ongoing epidemic of anti-Black police violence and impunity for law enforcement in the United States. Crump first comments on the sentencing of Brett Hankison, a former Louisville police officer who fired 10…
+### HOMICIDE on 2025-07-25 12:34
+- Location: TheBlaze
+- Description: Suspected assassin Vance Luther Boelter said that before the gruesome June 14 killings in suburban Minneapolis, he was part of an undercover investigation of what he called the “sudden and unexpected deaths of 400 Minnesota citizens and ties between Minnesota…
 
 
-### HOMICIDE on 2025-07-25 12:15
-- Location: What's on Netflix
-- Description: Netflix joins forces with a venerable Indian studio for its new mythological thriller series.
+### HOMICIDE on 2025-07-25 12:30
+- Location: Shtfplan.com
+- Description: Once again, the American police state is choosing to protect predators, not victims.
+
+Jeffrey Epstein—the hedge fund billionaire/convicted serial pedophile and sex trafficker—may be dead, but the machinery that empowered and protected him is still very much a…
 
 
-### OTHER on 2025-07-25 12:09
-- Location: ESPN
-- Description: The Gators bolstered their roster, while the Cougars welcomed the top recruit. Here are 98 more things to know.
+### OTHER on 2025-07-25 12:30
+- Location: GeekTyrant
+- Description: Hulu has released the official U.S. trailer for Red Eye, a tense six-episode thriller set aboard an overnight flight from London to Beijing. This isn’t a remake of Wes Craven’s 2005 film starring Cillian Murphy and Rachel McAdams, it’s its own beast, blending…
 
 
-### HOMICIDE on 2025-07-25 12:05
-- Location: Us Weekly
-- Description: The gag order on the Idaho University case has been lifted following Bryan Kohberger’s sentencing — and more details about the murders are being revealed. On...
+### HOMICIDE on 2025-07-25 12:29
+- Location: Freerepublic.com
+- Description: An inmate is facing a murder charge after a woman died from a drug overdose at the Dallas County Jail on July 13, the Dallas County Sheriff's Office confirmed. The suspect, 26-year-old Daisy Zuniga, is accused of smuggling a bag of drugs in her vagina while b…
 
-Analysis generated at: Sat Jul 26 12:28:16 UTC 2025
+Analysis generated at: Sat Jul 26 12:48:21 UTC 2025
