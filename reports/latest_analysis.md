@@ -1,10 +1,10 @@
 
-Loaded 47051 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-25 18:17:57
+Loaded 47058 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-26 01:01:55
 
 Incidents by source:
 source
-newsapi           46950
+newsapi           46957
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-07-25 18:17
-- Location: Vulture
-- Description: The introduction of Peter Dinklage’s character in this week’s ‘Dexter: Resurrection’ is one of several reasons to be optimistic about where the season goes from here.
+### HOMICIDE on 2025-07-26 01:01
+- Location: ABC News
+- Description: Police have arrested a 36-year-old woman in connection with the deaths of newborn twins found behind a New York City apartment building nearly five years ago
 
 
-### HOMICIDE on 2025-07-25 18:16
-- Location: Sky.com
-- Description: A man has been charged with murder after two great-grandparents died following an arson attack on their home in St Helens last week.
+### HOMICIDE on 2025-07-26 00:54
+- Location: CBS News
+- Description: The explosion at the Biscailuz Training Facility in East Los Angeles killed three members of the agency's bomb squad.
 
 
-### HOMICIDE on 2025-07-25 18:12
-- Location: Slashdot.org
-- Description: So many pro-police lawmakers and city officials have always insisted the only way to bring down crime rates is to add more cops to the mix. This may work if youre mainly interested in racking up meaningless arrests or handing out broken windows citations, but…
+### OTHER on 2025-07-26 00:47
+- Location: WPXI Pittsburgh
+- Description: Former missionary wanted for sexual abuse against minors in Tonga arrested in Pittsburghwpxi.com
 
 
-### HOMICIDE on 2025-07-25 18:09
-- Location: The Daily Caller
-- Description: A fatal shooting at the University of New Mexico’s central campus has left one dead and another injured. The suspect remains at large.
+### OTHER on 2025-07-26 00:30
+- Location: Screen Rant
+- Description: Ahead of the Will Trent season 4 premiere, I have one simple request – the ABC TV series must give one character much more screen time.
 
 
-### OTHER on 2025-07-25 18:05
-- Location: Freerepublic.com
-- Description: Federal authorities in Southern California have charged two workers at the Ontario Advanced Surgical Center accused of interfering with ICE agents trying to arrest an illegal alien on July 8 who fled into the medical facility. One worker was arrested Friday m…
+### OTHER on 2025-07-26 00:30
+- Location: ARLnow
+- Description: Good Friday evening, Arlington. Let's take a look back at today's stories and a look forward to tomorrow's event calendar.  News recap The following articles were published earlier today -- Jul 25, 2025. 5:30 am: Notice: Virginia ABC permit application by P…
 
-Analysis generated at: Sat Jul 26 18:20:16 UTC 2025
+Analysis generated at: Sun Jul 27 01:21:33 UTC 2025
