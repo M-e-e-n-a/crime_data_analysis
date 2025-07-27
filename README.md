@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Jul 27 12:49:41 UTC 2025
+Last updated: Sun Jul 27 18:20:07 UTC 2025
 
 ## Latest Analysis
 
-Loaded 47123 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-26 12:37:51
+Loaded 47172 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-26 18:19:49
 
 Incidents by source:
 source
-newsapi           47022
+newsapi           47071
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-07-26 12:37
-- Location: ABC News
-- Description: A bomb explosion has targeted the home of the president of the Greek association of prison guards
+### ROBBERY/THEFT on 2025-07-26 18:19
+- Location: CBC News
+- Description: An internal U.S. government analysis found no evidence of systematic theft by the Palestinian militant group Hamas of U.S.-funded humanitarian supplies, challenging the main rationale that Israel and the U.S. give for backing a new armed private aid operation.
 
 
-### SHOOTING on 2025-07-26 12:26
-- Location: fox6now.com
-- Description: A shooting in Milwaukee on Saturday morning, July 26 left one person wounded.
-
-
-### OTHER on 2025-07-26 12:25
+### HOMICIDE on 2025-07-26 18:03
 - Location: Fox News
-- Description: A federal judge in Illinois has dismissed a Trump administration lawsuit that sought to disrupt limits Chicago imposes on cooperation between federal immigration agents and local police.
+- Description: Law enforcement's response to the shootings that left Minnesota state Rep. Melissa Hortman and her husband dead, while wounding state Sen. John Hoffman and his wife are in question.
 
 
-### OTHER on 2025-07-26 12:00
-- Location: Vulture
-- Description: Once upon a time, Emmy voters had to watch all the episodes submitted for the performance categories.
+### HOMICIDE on 2025-07-26 18:00
+- Location: Fox News
+- Description: Texas orthodontist Karin Cain shared details of her relationship with Dr. James Craig, who is on trial for murdering his wife with poisoned protein shakes.
 
 
-### OTHER on 2025-07-26 12:00
-- Location: New York Post
-- Description: It’s been 50 years since Jimmy Hoffa was last seen alive, but his disappearance remains one of the most infamous, unsolved mysteries in American history.
+### HOMICIDE on 2025-07-26 17:41
+- Location: Breitbart News
+- Description: The Trump administration hit yet another roadblock placed by a Biden-appointed federal judge who dismissed a lawsuit this week that sought to curb sanctuary laws in Illinois.
+The post Biden Judge Kills DOJ Lawsuit Against Illinois Sanctuary Policies appeared …
 
-Analysis generated at: Sun Jul 27 12:49:41 UTC 2025
+
+### HOMICIDE on 2025-07-26 17:35
+- Location: TMZ
+- Description: Idaho investigators have unlocked the mystery behind whose blood seeped out of the murder house and dribbled down the side of it after Bryan Kohberger slaughtered 4 college students with a knife. State Police Lt. Darren Gilbertson sat down for an…
+
+Analysis generated at: Sun Jul 27 18:20:07 UTC 2025
