@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Jul 27 01:21:33 UTC 2025
+Last updated: Sun Jul 27 02:20:18 UTC 2025
 
 ## Latest Analysis
 
-Loaded 47058 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-26 01:01:55
+Loaded 47064 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-26 02:02:05
 
 Incidents by source:
 source
-newsapi           46957
+newsapi           46963
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-07-26 01:01
-- Location: ABC News
-- Description: Police have arrested a 36-year-old woman in connection with the deaths of newborn twins found behind a New York City apartment building nearly five years ago
+### ROBBERY/THEFT on 2025-07-26 02:02
+- Location: NBC News
+- Description: An internal U.S. government analysis found no evidence of systematic theft by the Palestinian militant group Hamas of U.S.-funded humanitarian supplies, challenging the main rationale that Israel and the U.S. give for backing a new armed private aid operation.
 
 
-### HOMICIDE on 2025-07-26 00:54
-- Location: CBS News
-- Description: The explosion at the Biscailuz Training Facility in East Los Angeles killed three members of the agency's bomb squad.
+### SHOOTING on 2025-07-26 01:53
+- Location: Milwaukee Journal Sentinel
+- Description: It's been 10 years to the week that a "lion-like creature" possibly roamed Milwaukee, leading to long guns, meat traps and even a helicopter.
 
 
-### OTHER on 2025-07-26 00:47
-- Location: WPXI Pittsburgh
-- Description: Former missionary wanted for sexual abuse against minors in Tonga arrested in Pittsburghwpxi.com
+### HOMICIDE on 2025-07-26 01:45
+- Location: fox6now.com
+- Description: Prosecutors said a Milwaukee man shot and killed his own son. On Friday, community members gathered to remember a boy who they'd never met.
 
 
-### OTHER on 2025-07-26 00:30
-- Location: Screen Rant
-- Description: Ahead of the Will Trent season 4 premiere, I have one simple request – the ABC TV series must give one character much more screen time.
+### HOMICIDE on 2025-07-26 01:38
+- Location: New York Post
+- Description: Babysitter Mackenna Rhodes is charged with first-degree murder for smothering 10-month-old Sylvie Zacovic in June 2024.
 
 
-### OTHER on 2025-07-26 00:30
-- Location: ARLnow
-- Description: Good Friday evening, Arlington. Let's take a look back at today's stories and a look forward to tomorrow's event calendar.  News recap The following articles were published earlier today -- Jul 25, 2025. 5:30 am: Notice: Virginia ABC permit application by P…
+### HOMICIDE on 2025-07-26 01:37
+- Location: Eonline.com
+- Description: After an investigation into the accidental drowning of Emilie Kiser and her husband Brady Kiser's 3-year-old son Trigg, officials revealed that Brady won't be charged in relation to the child's death.
 
-Analysis generated at: Sun Jul 27 01:21:33 UTC 2025
+Analysis generated at: Sun Jul 27 02:20:18 UTC 2025
