@@ -1,10 +1,10 @@
 
-Loaded 47086 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-26 06:03:44
+Loaded 47122 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-26 12:26:33
 
 Incidents by source:
 source
-newsapi           46985
+newsapi           47021
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-07-26 06:03
-- Location: BBC News
-- Description: A horrifying video of the murder of Albert Alfonso by Yostin Mosquera was played to two trials.
+### SHOOTING on 2025-07-26 12:26
+- Location: fox6now.com
+- Description: A shooting in Milwaukee on Saturday morning, July 26 left one person wounded.
 
 
-### HOMICIDE on 2025-07-26 06:02
+### OTHER on 2025-07-26 12:25
+- Location: Fox News
+- Description: A federal judge in Illinois has dismissed a Trump administration lawsuit that sought to disrupt limits Chicago imposes on cooperation between federal immigration agents and local police.
+
+
+### OTHER on 2025-07-26 12:00
+- Location: Vulture
+- Description: Once upon a time, Emmy voters had to watch all the episodes submitted for the performance categories.
+
+
+### OTHER on 2025-07-26 12:00
+- Location: New York Post
+- Description: It’s been 50 years since Jimmy Hoffa was last seen alive, but his disappearance remains one of the most infamous, unsolved mysteries in American history.
+
+
+### OTHER on 2025-07-26 11:57
 - Location: The Times of India
-- Description: A 22-year-old man is facing murder charges in the shooting deaths of longtime “American Idol” producer Robin Kaye and her husband, Thomas Deluca. Authorities allege Raymond Boodarian used the couple’s registered firearm and called 911 after the killings durin…
+- Description: Union Minister Jitan Ram Manjhi has advised Chirag Paswan to stay with the NDA. This follows Paswan's criticism of Bihar's law and order under Nitish Kumar. Manjhi cautioned Paswan against repeating his 2020 election strategy. He emphasized the NDA's importan…
 
-
-### OTHER on 2025-07-26 06:00
-- Location: USA Today
-- Description: Trump isn't widely liked among Scots despite his family ties and golf resort investments, surveys show. He's liked even less by some of his neighbors.
-
-
-### HOMICIDE on 2025-07-26 05:57
-- Location: Borderlandbeat.com
-- Description: CHAR  JULY 25, 2025  INFORMATION BY LOS NOTICIERISTAS  JULY 25, 2025  The News On July 25, 2024, one year ago, news of the arrest of Ismael...
-
-
-### HOMICIDE on 2025-07-26 05:52
-- Location: Sky.com
-- Description: A police and crime commissioner has apologised after claiming multiple human remains had been found in woodland during a murder investigation.
-
-Analysis generated at: Sun Jul 27 06:21:52 UTC 2025
+Analysis generated at: Sun Jul 27 12:28:58 UTC 2025
