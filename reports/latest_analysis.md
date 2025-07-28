@@ -1,10 +1,10 @@
 
-Loaded 47181 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-27 02:06:31
+Loaded 47206 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-27 06:19:52
 
 Incidents by source:
 source
-newsapi           47080
+newsapi           47105
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-07-27 02:06
-- Location: Newsweek
-- Description: Joseph Czuba, who stabbed an innocent 6-year-old Palestinian boy 26 times, died in prison just months after his sentencing.
+### ROBBERY/THEFT on 2025-07-27 06:19
+- Location: Nep123.com
+- Description: Chain Snatching Gang Busted in Kathmandu: Two Arrested for Gold Chain Theft Kathmandu, Nepal – In a recent crackdown on crime in the capital city, the Nepal Police have apprehended two individuals linked to a gold chain snatching incident. The suspects, ident…
 
 
-### OTHER on 2025-07-27 01:57
-- Location: New York Post
-- Description: Some top Democrats finally are finding the courage to slam Zohran Mamdani’s sickening embrace of antisemitism. Sadly, the big Dems doing the right thing are not from New York.
+### ASSAULT on 2025-07-27 06:03
+- Location: BBC News
+- Description: Assaults on police community support officers are up 40%, according to data obtained by the BBC.
 
 
-### OTHER on 2025-07-27 01:38
-- Location: Lawyersgunsmoneyblog.com
-- Description: The Strib has a detailed report on the police response to the MAGA assassinations and attempted assassinations in Minnesota, and…it is not good: About the same time officers at the Hoffman residence were reviewing the home security footage, some police depart…
+### OTHER on 2025-07-27 06:00
+- Location: Dramabeans.com
+- Description: As products — quite literally — of an abhorrent system that caters to dissatisfied parents and offers refunds for “defective” children, our discarded protagonists are jolted out of hiding by an unforeseen turn of events. But every step of the way reveals just…
 
 
-### HOMICIDE on 2025-07-27 01:20
-- Location: STLtoday.com
-- Description: At about 1:15 p.m. Saturday, Madison officers responded to a shots fired call and found a man laying dead in the intersection of Washington and Wayne Lanter avenues in Madison.
+### SHOOTING on 2025-07-27 05:28
+- Location: BBC News
+- Description: Vanessa Whyte, originally from County Clare, and her two children died after they were shot at their home on Wednesday
 
 
-### ROBBERY/THEFT on 2025-07-27 01:15
-- Location: Memeorandum.com
-- Description: Brendan Joel Kelley / Denver Westword:
-Lauren Boebert's Son Charged With Misdemeanor Child Abuse  —  The Congresswoman's oldest son was on probation after pleading guilty to identity theft last October. … Audio By Carbonatix … According to records obtained fr…
+### DRUG RELATED on 2025-07-27 05:20
+- Location: The Times of India
+- Description: Pune police raided an apartment in Kharadi early Sunday morning, acting on a tip about a rave party. The operation led to the seizure of drugs, liquor, and hookah paraphernalia. Authorities detained seven individuals, including five men and two women, one of …
 
-Analysis generated at: Mon Jul 28 02:11:45 UTC 2025
+Analysis generated at: Mon Jul 28 06:25:19 UTC 2025
