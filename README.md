@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Jul 28 06:25:19 UTC 2025
+Last updated: Mon Jul 28 12:32:30 UTC 2025
 
 ## Latest Analysis
 
-Loaded 47206 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-27 06:19:52
+Loaded 47247 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-27 12:16:29
 
 Incidents by source:
 source
-newsapi           47105
+newsapi           47146
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2025-07-27 06:19
-- Location: Nep123.com
-- Description: Chain Snatching Gang Busted in Kathmandu: Two Arrested for Gold Chain Theft Kathmandu, Nepal – In a recent crackdown on crime in the capital city, the Nepal Police have apprehended two individuals linked to a gold chain snatching incident. The suspects, ident…
+### HOMICIDE on 2025-07-27 12:16
+- Location: RTE
+- Description: A prayer service will take place in Co Clare this evening for Vanessa Whyte and her two children, who were murdered at their Co Fermanagh home.
 
 
-### ASSAULT on 2025-07-27 06:03
-- Location: BBC News
-- Description: Assaults on police community support officers are up 40%, according to data obtained by the BBC.
+### ASSAULT on 2025-07-27 12:09
+- Location: Boston Herald
+- Description: Chaos unfolded at a Walmart in Michigan after a man burst into the store during a calm shopping afternoon and stabbed 11 people at random, authorities say. The attack on Saturday left six victims in critical condition and a suspect in custody.
 
 
-### OTHER on 2025-07-27 06:00
-- Location: Dramabeans.com
-- Description: As products — quite literally — of an abhorrent system that caters to dissatisfied parents and offers refunds for “defective” children, our discarded protagonists are jolted out of hiding by an unforeseen turn of events. But every step of the way reveals just…
+### OTHER on 2025-07-27 12:02
+- Location: Freerepublic.com
+- Description: The Talk ShowsJuly 27th, 2025 Guests to be interviewed today on major television talk shows:FACE THE NATION (CBS): Margaret Brennan anchors: OMB Director Russ Voughtl; Sen. Chris Van Hollen (D-Md.); French Minister for Europe and Foreign Affairs Jean‑Noël Bar…
 
 
-### SHOOTING on 2025-07-27 05:28
-- Location: BBC News
-- Description: Vanessa Whyte, originally from County Clare, and her two children died after they were shot at their home on Wednesday
+### ROBBERY/THEFT on 2025-07-27 12:01
+- Location: AppleInsider
+- Description: Apple sues a former Vision Pro engineer, a MacBook is stolen along with unreleased Beyonce music, and a left-behind iPhone helps solve a pawnshop burglary feature in this week's Apple Crime Blotter.Apple Northpark in Dallas The latest in an occasional AppleIn…
 
 
-### DRUG RELATED on 2025-07-27 05:20
-- Location: The Times of India
-- Description: Pune police raided an apartment in Kharadi early Sunday morning, acting on a tip about a rave party. The operation led to the seizure of drugs, liquor, and hookah paraphernalia. Authorities detained seven individuals, including five men and two women, one of …
+### SHOOTING on 2025-07-27 12:00
+- Location: The Denver Post
+- Description: Police shootings and excessive-force allegations have become increasingly common in recent years in Craig.
 
-Analysis generated at: Mon Jul 28 06:25:19 UTC 2025
+Analysis generated at: Mon Jul 28 12:32:30 UTC 2025
