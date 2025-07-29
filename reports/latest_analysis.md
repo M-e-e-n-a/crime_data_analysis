@@ -1,10 +1,10 @@
 
-Loaded 47332 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-28 06:03:56
+Loaded 47427 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-28 12:32:22
 
 Incidents by source:
 source
-newsapi           47231
+newsapi           47326
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-07-28 06:03
-- Location: The Local Germany
-- Description: A train derailment in Baden-Württemberg kills three and injures more, Chancellor Merz welcomes 15 percent tariffs, Germany's 'Chaos Computer Club' warns against the use of software made by US firm Palantir and more news on Monday, July 28th.
+### OTHER on 2025-07-28 12:32
+- Location: Voxeurop.eu
+- Description: The Ukrainian Nobel Peace prize calls for a special tribunal on Russian aggression on Ukraine, exposing global legal gaps, Western inaction on frozen assets, and the brutal reality of life under occupation.
 
 
-### SHOOTING on 2025-07-28 06:01
-- Location: New York Post
-- Description: Police are investigating and probing connections the victims may have had to one another, if any.
+### OTHER on 2025-07-28 12:13
+- Location: Internet
+- Description: Some risks don’t breach the perimeter—they arrive through signed software, clean resumes, or sanctioned vendors still hiding in plain sight.
+This week, the clearest threats weren’t the loudest—they were the most legitimate-looking. In an environment where ide…
 
 
-### OTHER on 2025-07-28 05:47
-- Location: Declassifieduk.org
-- Description: Exclusive: Documents seen by Declassified reveal serious concerns within the UK government and MI5 about proscribing Palestine Action.
-
-
-### OTHER on 2025-07-28 05:38
-- Location: The Times of India
-- Description: A Delta co-pilot was apprehended in San Francisco on Saturday night following a flight from Minneapolis, facing serious child porn charges. Homeland Security Investigations agents made the arrest shortly after landing, stunning passengers and crew. The incide…
-
-
-### HOMICIDE on 2025-07-28 05:08
+### ASSAULT on 2025-07-28 12:07
 - Location: The Star Online
-- Description: KARACHI (Reuters) -A viral video of the "honour killing" of a woman and her lover in a remote part of Pakistan has ignited national outrage, prompting scrutiny of long-standing tribal codes and calls for justice in a country where such killings often pass in …
+- Description: PETALING JAYA: Malaysia has intensified its efforts to become a global leader in the fight against corruption by hosting an anti-corruption course for senior anti-corruption and law enforcement officers from around the world. Read full story
 
-Analysis generated at: Tue Jul 29 06:23:59 UTC 2025
+
+### HOMICIDE on 2025-07-28 12:06
+- Location: WFTV Orlando
+- Description: Authorities in Arkansas are searching for a man after a couple was killed while hiking with their young daughters in a state park.
+
+
+### OTHER on 2025-07-28 12:05
+- Location: Nep123.com
+- Description: Fake Employee Busted: Man Arrested for Fraud in Kathmandu! Hey everyone! Today’s news has a concerning twist, and it’s a reminder to stay vigilant about scams and fraudulent activities. We’re diving into a story about a man posing as a waste management employ…
+
+Analysis generated at: Tue Jul 29 12:32:56 UTC 2025
