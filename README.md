@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Jul 29 12:32:56 UTC 2025
+Last updated: Tue Jul 29 12:55:27 UTC 2025
 
 ## Latest Analysis
 
-Loaded 47427 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-28 12:32:22
+Loaded 47436 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-28 12:54:14
 
 Incidents by source:
 source
-newsapi           47326
+newsapi           47335
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-07-28 12:32
-- Location: Voxeurop.eu
-- Description: The Ukrainian Nobel Peace prize calls for a special tribunal on Russian aggression on Ukraine, exposing global legal gaps, Western inaction on frozen assets, and the brutal reality of life under occupation.
+### OTHER on 2025-07-28 12:54
+- Location: Mactrast.com
+- Description: A Dallas police officer who worked off-duty security at three local Apple Stores has given himself up after a warrant was issued accusing him of stealing merchandise from the stores.Read More...
 
 
-### OTHER on 2025-07-28 12:13
-- Location: Internet
-- Description: Some risks don’t breach the perimeter—they arrive through signed software, clean resumes, or sanctioned vendors still hiding in plain sight.
-This week, the clearest threats weren’t the loudest—they were the most legitimate-looking. In an environment where ide…
+### HOMICIDE on 2025-07-28 12:52
+- Location: Protothema.gr
+- Description: "His act was not impulsive, it was determined," the prosecutor said
+The post In the trial for the murder of Kyriaki Griva, the prosecutor pointed to the 40-year-old as the prime suspect appeared first on ProtoThema English.
 
 
-### ASSAULT on 2025-07-28 12:07
-- Location: The Star Online
-- Description: PETALING JAYA: Malaysia has intensified its efforts to become a global leader in the fight against corruption by hosting an anti-corruption course for senior anti-corruption and law enforcement officers from around the world. Read full story
+### OTHER on 2025-07-28 12:51
+- Location: CNN
+- Description: A French resort town has introduced fines for people found to be walking around topless or in their swimsuits anywhere other than on the beach.
 
 
-### HOMICIDE on 2025-07-28 12:06
-- Location: WFTV Orlando
-- Description: Authorities in Arkansas are searching for a man after a couple was killed while hiking with their young daughters in a state park.
+### OTHER on 2025-07-28 12:49
+- Location: Yahoo Entertainment
+- Description: Two prominent Israeli rights groups on Monday said their country is committing genocide in Gaza, the first time that local Jewish-led organizations have made...
 
 
-### OTHER on 2025-07-28 12:05
-- Location: Nep123.com
-- Description: Fake Employee Busted: Man Arrested for Fraud in Kathmandu! Hey everyone! Today’s news has a concerning twist, and it’s a reminder to stay vigilant about scams and fraudulent activities. We’re diving into a story about a man posing as a waste management employ…
+### ASSAULT on 2025-07-28 12:48
+- Location: Cointelegraph
+- Description: Monero is facing a controversial, economically powered hashrate takeover attempt by Qubic, a mining pool and crypto network led by Iota co-founder Sergey Ivancheglo.
 
-Analysis generated at: Tue Jul 29 12:32:56 UTC 2025
+Analysis generated at: Tue Jul 29 12:55:27 UTC 2025
