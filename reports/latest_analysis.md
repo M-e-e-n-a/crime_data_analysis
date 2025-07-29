@@ -1,10 +1,10 @@
 
-Loaded 47436 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-28 12:54:14
+Loaded 47523 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-28 18:18:34
 
 Incidents by source:
 source
-newsapi           47335
+newsapi           47422
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-07-28 12:54
-- Location: Mactrast.com
-- Description: A Dallas police officer who worked off-duty security at three local Apple Stores has given himself up after a warrant was issued accusing him of stealing merchandise from the stores.Read More...
+### OTHER on 2025-07-28 18:18
+- Location: Breitbart News
+- Description: Immigration and Customs Enforcement (ICE) officials reported that officers and agents in the Houston area arrested more than 200 criminal alien child sex offenders in the past six months of the Trump administration. This represents a larger total than that of…
 
 
-### HOMICIDE on 2025-07-28 12:52
-- Location: Protothema.gr
-- Description: "His act was not impulsive, it was determined," the prosecutor said
-The post In the trial for the murder of Kyriaki Griva, the prosecutor pointed to the 40-year-old as the prime suspect appeared first on ProtoThema English.
+### OTHER on 2025-07-28 18:17
+- Location: Antaranews.com
+- Description: The Kuta Police have arrested TFO (35), an Azerbaijani national, on suspicion of stealing money from a money changer in Kuta, Badung District, ...
 
 
-### OTHER on 2025-07-28 12:51
-- Location: CNN
-- Description: A French resort town has introduced fines for people found to be walking around topless or in their swimsuits anywhere other than on the beach.
+### HOMICIDE on 2025-07-28 18:17
+- Location: CBS News
+- Description: Three young men have been killed and 10 others injured at a popular nightspot in the Turks and Caicos Islands, officials said.
 
 
-### OTHER on 2025-07-28 12:49
-- Location: Yahoo Entertainment
-- Description: Two prominent Israeli rights groups on Monday said their country is committing genocide in Gaza, the first time that local Jewish-led organizations have made...
+### SHOOTING on 2025-07-28 18:16
+- Location: CBS News
+- Description: Andre Hill was shot four times in a garage in Columbus, Ohio, in December 2020.
 
 
-### ASSAULT on 2025-07-28 12:48
-- Location: Cointelegraph
-- Description: Monero is facing a controversial, economically powered hashrate takeover attempt by Qubic, a mining pool and crypto network led by Iota co-founder Sergey Ivancheglo.
+### HOMICIDE on 2025-07-28 18:14
+- Location: BBC News
+- Description: Police say a boy, 12, was among the victims of the latest mass shooting in a country plagued by drug violence.
 
-Analysis generated at: Tue Jul 29 12:55:27 UTC 2025
+Analysis generated at: Tue Jul 29 18:22:58 UTC 2025
