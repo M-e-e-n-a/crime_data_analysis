@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Jul 29 01:23:37 UTC 2025
+Last updated: Tue Jul 29 02:22:41 UTC 2025
 
 ## Latest Analysis
 
-Loaded 47307 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-28 01:00:33
+Loaded 47312 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-28 02:12:00
 
 Incidents by source:
 source
-newsapi           47206
+newsapi           47211
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-07-28 01:00
-- Location: Starcommunity.com.au
-- Description: An 18-year-old male learner rider was arrested on Saturday, 26 July, after being detected at 152 km/h in an 80 mk/h zone. The rider was observed to be overtaking vehicles dangerously and travelling at excessive speeds along Wellington Road from Belgrave-Halla…
+### OTHER on 2025-07-28 02:12
+- Location: The Star Online
+- Description: KUALA LUMPUR: The CCTV system at former Prime Minister Tun Dr Mahathir Mohamad's granddaughter's home in Bukit Ledang records footage for only 24 hours, which might have allowed thieves to evade capture. Read full story
 
 
-### OTHER on 2025-07-28 01:00
-- Location: Screen Rant
-- Description: The Rookie star Nathan Fillion is eager for a fan-favorite guest star to appear in the series again, and showrunner Alexi Hawley could make it happen.
+### OTHER on 2025-07-28 02:00
+- Location: Mypeoplesreview.com
+- Description: Kathmandu, July 28: Nearly 2,400 police personnel resigned from the force over the past year. From Shrawan 2081 to the […]
+The post Nearly 2,400 police personnel quit in a year amid growing discontent appeared first on Peoples' Review.
 
 
-### ASSAULT on 2025-07-28 00:57
-- Location: Mediaite
-- Description: The Grand Traverse Sheriff confirmed that an armed citizen prevented the Walmart stabbing suspect from doing any more harm in Saturday attack in Michigan.
-The post ‘What They Did Was Amazing’: Sheriff Praises Heroic Armed Civilians Who Stopped MI Walmart Stab…
-
-
-### OTHER on 2025-07-28 00:45
+### HOMICIDE on 2025-07-28 01:58
 - Location: BBC News
-- Description: "Foreigners are scary. I’m afraid they may go on a rampage": How tourists played a role in turning the land of humdrum politics into a fierce political battleground
+- Description: Joseph Czuba had served three months of his 53-year sentence when he died in custody in Illinois.
 
 
-### OTHER on 2025-07-28 00:42
-- Location: Nep123.com
-- Description: Karnali Bank Scam: CIB Recommends Prosecution of 111 People Karnali Bikas Bank, formerly known as Karnali Development Bank, is at the center of a major financial scandal, and the Central Investigation Bureau (CIB) of the Nepal Police has recommended prosecuti…
+### ASSAULT on 2025-07-28 01:38
+- Location: Starcommunity.com.au
+- Description: A father-of-three has been convicted for sexually assaulting a heavily drunk victim sleeping rough in Springvale South. Daniel Hart, 46, pleaded guilty after a sentence indication at the Victorian County Court to three charges of sexual assault of a 52-year-o…
 
-Analysis generated at: Tue Jul 29 01:23:37 UTC 2025
+
+### OTHER on 2025-07-28 01:26
+- Location: BBC News
+- Description: A once obscure far-right party has become a serious contender in Japan's political scene.
+
+Analysis generated at: Tue Jul 29 02:22:41 UTC 2025
