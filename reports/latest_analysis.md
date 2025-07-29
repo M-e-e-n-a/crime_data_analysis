@@ -1,10 +1,10 @@
 
-Loaded 47294 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-27 18:05:02
+Loaded 47307 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-28 01:00:33
 
 Incidents by source:
 source
-newsapi           47193
+newsapi           47206
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-07-27 18:05
-- Location: WSB Atlanta
-- Description: Authorities say they are seeking to file terrorism and assault with intent to murder charges against the suspect in tge knife attack at Walmart in Michigan
+### OTHER on 2025-07-28 01:00
+- Location: Starcommunity.com.au
+- Description: An 18-year-old male learner rider was arrested on Saturday, 26 July, after being detected at 152 km/h in an 80 mk/h zone. The rider was observed to be overtaking vehicles dangerously and travelling at excessive speeds along Wellington Road from Belgrave-Halla…
 
 
-### SHOOTING on 2025-07-27 18:01
-- Location: WSB Atlanta
-- Description: An investigation is underway after two separate gatherings led to multiple people being hurt over the weekend, according to Rome police.
+### OTHER on 2025-07-28 01:00
+- Location: Screen Rant
+- Description: The Rookie star Nathan Fillion is eager for a fan-favorite guest star to appear in the series again, and showrunner Alexi Hawley could make it happen.
 
 
-### OTHER on 2025-07-27 18:00
-- Location: Fox News
-- Description: After surviving a kidnapping and false accusations, Denise Huskins partners with police to reform interrogation practices and advocate for respectful treatment.
+### ASSAULT on 2025-07-28 00:57
+- Location: Mediaite
+- Description: The Grand Traverse Sheriff confirmed that an armed citizen prevented the Walmart stabbing suspect from doing any more harm in Saturday attack in Michigan.
+The post ‘What They Did Was Amazing’: Sheriff Praises Heroic Armed Civilians Who Stopped MI Walmart Stab…
 
 
-### SHOOTING on 2025-07-27 17:56
-- Location: LancasterOnline
-- Description: A Columbia man is charged with shooting a person in the head in East Lampeter Township early Saturday morning and leaving them hospitalized with life-threatening injuries.
+### OTHER on 2025-07-28 00:45
+- Location: BBC News
+- Description: "Foreigners are scary. I’m afraid they may go on a rampage": How tourists played a role in turning the land of humdrum politics into a fierce political battleground
 
 
-### HOMICIDE on 2025-07-27 17:53
-- Location: The Times of India
-- Description: The Special Investigation Team (SIT) in Karnataka, led by Pronab Mohanty, is intensifying its investigation into alleged mass burials in Dharmasthala. The team is scrutinizing records, revisiting suspicious death reports, and interviewing residents.
+### OTHER on 2025-07-28 00:42
+- Location: Nep123.com
+- Description: Karnali Bank Scam: CIB Recommends Prosecution of 111 People Karnali Bikas Bank, formerly known as Karnali Development Bank, is at the center of a major financial scandal, and the Central Investigation Bureau (CIB) of the Nepal Police has recommended prosecuti…
 
-Analysis generated at: Mon Jul 28 18:23:05 UTC 2025
+Analysis generated at: Tue Jul 29 01:23:37 UTC 2025
