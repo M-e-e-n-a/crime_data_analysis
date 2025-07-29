@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Jul 29 02:22:41 UTC 2025
+Last updated: Tue Jul 29 06:23:59 UTC 2025
 
 ## Latest Analysis
 
-Loaded 47312 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-28 02:12:00
+Loaded 47332 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-28 06:03:56
 
 Incidents by source:
 source
-newsapi           47211
+newsapi           47231
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-07-28 02:12
+### HOMICIDE on 2025-07-28 06:03
+- Location: The Local Germany
+- Description: A train derailment in Baden-Württemberg kills three and injures more, Chancellor Merz welcomes 15 percent tariffs, Germany's 'Chaos Computer Club' warns against the use of software made by US firm Palantir and more news on Monday, July 28th.
+
+
+### SHOOTING on 2025-07-28 06:01
+- Location: New York Post
+- Description: Police are investigating and probing connections the victims may have had to one another, if any.
+
+
+### OTHER on 2025-07-28 05:47
+- Location: Declassifieduk.org
+- Description: Exclusive: Documents seen by Declassified reveal serious concerns within the UK government and MI5 about proscribing Palestine Action.
+
+
+### OTHER on 2025-07-28 05:38
+- Location: The Times of India
+- Description: A Delta co-pilot was apprehended in San Francisco on Saturday night following a flight from Minneapolis, facing serious child porn charges. Homeland Security Investigations agents made the arrest shortly after landing, stunning passengers and crew. The incide…
+
+
+### HOMICIDE on 2025-07-28 05:08
 - Location: The Star Online
-- Description: KUALA LUMPUR: The CCTV system at former Prime Minister Tun Dr Mahathir Mohamad's granddaughter's home in Bukit Ledang records footage for only 24 hours, which might have allowed thieves to evade capture. Read full story
+- Description: KARACHI (Reuters) -A viral video of the "honour killing" of a woman and her lover in a remote part of Pakistan has ignited national outrage, prompting scrutiny of long-standing tribal codes and calls for justice in a country where such killings often pass in …
 
-
-### OTHER on 2025-07-28 02:00
-- Location: Mypeoplesreview.com
-- Description: Kathmandu, July 28: Nearly 2,400 police personnel resigned from the force over the past year. From Shrawan 2081 to the […]
-The post Nearly 2,400 police personnel quit in a year amid growing discontent appeared first on Peoples' Review.
-
-
-### HOMICIDE on 2025-07-28 01:58
-- Location: BBC News
-- Description: Joseph Czuba had served three months of his 53-year sentence when he died in custody in Illinois.
-
-
-### ASSAULT on 2025-07-28 01:38
-- Location: Starcommunity.com.au
-- Description: A father-of-three has been convicted for sexually assaulting a heavily drunk victim sleeping rough in Springvale South. Daniel Hart, 46, pleaded guilty after a sentence indication at the Victorian County Court to three charges of sexual assault of a 52-year-o…
-
-
-### OTHER on 2025-07-28 01:26
-- Location: BBC News
-- Description: A once obscure far-right party has become a serious contender in Japan's political scene.
-
-Analysis generated at: Tue Jul 29 02:22:41 UTC 2025
+Analysis generated at: Tue Jul 29 06:23:59 UTC 2025
