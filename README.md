@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Jul 30 12:55:00 UTC 2025
+Last updated: Wed Jul 30 18:22:01 UTC 2025
 
 ## Latest Analysis
 
-Loaded 47795 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-29 12:51:43
+Loaded 47891 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-29 18:19:12
 
 Incidents by source:
 source
-newsapi           47694
+newsapi           47790
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2025-07-29 12:51
-- Location: Breitbart News
-- Description: The Essex County Police and Crime Commissioner has called on the government to shut down the migrant hotel at the heart of the protests in recent weeks after an illegal immigrant in the hotel allegedly sexually assaulted a local girl.
-The post Police Commissi…
+### HOMICIDE on 2025-07-29 18:19
+- Location: CBC News
+- Description: Homicide investigators have taken over the case of a "suspicious" death at a residential care home in Abbotsford, B.C., police said Tuesday.
 
 
-### HOMICIDE on 2025-07-29 12:50
-- Location: ESPN
-- Description: A gunman who killed four people at a Manhattan office building was trying to target the headquarters of the NFL but took the wrong elevator.
+### OTHER on 2025-07-29 18:19
+- Location: Fox News
+- Description: The Fox News Entertainment Newsletter brings you the latest Hollywood headlines, celebrity interviews and stories from Los Angeles and beyond.
 
 
-### OTHER on 2025-07-29 12:49
-- Location: Raw Story
-- Description: MAGA media star Megyn Kelly eviscerated Donald Trump, blasting his administration's catastrophic handling of the Jeffrey Epstein controversy as a series of "unforced errors" that left her with zero sympathy for the embattled president.Kelly didn't hold back d…
+### OTHER on 2025-07-29 18:17
+- Location: Fox News
+- Description: Border Patrol agents in Michigan captured an alleged member of the Tren de Aragua gang with an active warrant from Denver, highlighting efforts to remove criminal threats.
 
 
-### OTHER on 2025-07-29 12:43
-- Location: Nep123.com
-- Description: Major Financial Scandal Rocks Nepal’s Banking Sector: Karnali Development Bank Faces Multi-Billion Rupee Fraud Investigation Breaking News: A massive financial scandal has erupted in Nepal, with Karnali Development Bank at the center of a major fraud investig…
+### OTHER on 2025-07-29 18:17
+- Location: Reason
+- Description: The Department of Homeland Security is boasting that its mass deportation program is responsible for a major drop in crime. That's unlikely for several reasons.
 
 
-### HOMICIDE on 2025-07-29 12:39
-- Location: Forbes
-- Description: After killing four people and severely wounding another person, the gunman took his own life.
+### SHOOTING on 2025-07-29 18:14
+- Location: CBC News
+- Description: York police are investigating after a rabbit was shot on the front lawn of a home in Newmarket, Ont., on Sunday.
 
-Analysis generated at: Wed Jul 30 12:55:00 UTC 2025
+Analysis generated at: Wed Jul 30 18:22:01 UTC 2025
