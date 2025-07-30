@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Jul 29 18:22:58 UTC 2025
+Last updated: Wed Jul 30 01:16:28 UTC 2025
 
 ## Latest Analysis
 
-Loaded 47523 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-28 18:18:34
+Loaded 47581 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-29 01:11:45
 
 Incidents by source:
 source
-newsapi           47422
+newsapi           47480
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,27 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-07-28 18:18
-- Location: Breitbart News
-- Description: Immigration and Customs Enforcement (ICE) officials reported that officers and agents in the Houston area arrested more than 200 criminal alien child sex offenders in the past six months of the Trump administration. This represents a larger total than that of…
-
-
-### OTHER on 2025-07-28 18:17
-- Location: Antaranews.com
-- Description: The Kuta Police have arrested TFO (35), an Azerbaijani national, on suspicion of stealing money from a money changer in Kuta, Badung District, ...
-
-
-### HOMICIDE on 2025-07-28 18:17
-- Location: CBS News
-- Description: Three young men have been killed and 10 others injured at a popular nightspot in the Turks and Caicos Islands, officials said.
-
-
-### SHOOTING on 2025-07-28 18:16
-- Location: CBS News
-- Description: Andre Hill was shot four times in a garage in Columbus, Ohio, in December 2020.
-
-
-### HOMICIDE on 2025-07-28 18:14
+### HOMICIDE on 2025-07-29 01:11
 - Location: BBC News
-- Description: Police say a boy, 12, was among the victims of the latest mass shooting in a country plagued by drug violence.
+- Description: A New York City police officer is among the four people killed in a shooting inside a Midtown Manhattan high-rise building.
 
-Analysis generated at: Tue Jul 29 18:22:58 UTC 2025
+
+### OTHER on 2025-07-29 01:11
+- Location: Screen Rant
+- Description: August 2025 brings more exciting summer releases, such as a comedy legacy sequel, a new body swap in a Disney movie, a horror movie, and a lot more.
+
+
+### SHOOTING on 2025-07-29 01:10
+- Location: Biztoc.com
+
+
+### HOMICIDE on 2025-07-29 01:06
+- Location: NBCSports.com
+- Description: Authorities expect the number of victims to increase.
+
+
+### OTHER on 2025-07-29 01:06
+- Location: CBS News
+- Description: Border Patrol and the Florida Highway Patrol arrested Kenny Laynez, an 18-year-old high school senior who was on his way to work as a landscaper, back in May.
+
+Analysis generated at: Wed Jul 30 01:16:28 UTC 2025
