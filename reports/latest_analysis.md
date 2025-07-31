@@ -1,10 +1,10 @@
 
-Loaded 47891 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-29 18:19:12
+Loaded 47906 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-30 01:01:11
 
 Incidents by source:
 source
-newsapi           47790
+newsapi           47805
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-07-29 18:19
-- Location: CBC News
-- Description: Homicide investigators have taken over the case of a "suspicious" death at a residential care home in Abbotsford, B.C., police said Tuesday.
+### OTHER on 2025-07-30 01:01
+- Location: Freerepublic.com
+- Description: Open-borders leftists are constantly claiming illegal immigrants commit disproportionately less crime than their numbers would indicate. But an anonymous source inside the San Diego Police Department tells Amy Reichert that he's seeing something different:A s…
 
 
-### OTHER on 2025-07-29 18:19
+### OTHER on 2025-07-30 00:58
+- Location: Johnaugust.com
+- Description: The original post for this episode can be found here. John August: Hey, this is John, a standard warning for people who are in the car with their kids. There’s some swearing in this episode. Hello, and welcome. My name is John August, and you’re listening to …
+
+
+### OTHER on 2025-07-30 00:51
 - Location: Fox News
-- Description: The Fox News Entertainment Newsletter brings you the latest Hollywood headlines, celebrity interviews and stories from Los Angeles and beyond.
+- Description: The New York Yankees held "a moment of silence in memoriam of NYPD Officer Didarul Islam" before Tuesday's game. The 36-year-old served on the force four years.
 
 
-### OTHER on 2025-07-29 18:17
-- Location: Fox News
-- Description: Border Patrol agents in Michigan captured an alleged member of the Tren de Aragua gang with an active warrant from Denver, highlighting efforts to remove criminal threats.
+### HOMICIDE on 2025-07-30 00:46
+- Location: New York Post
+- Description: “We need our faith community at this moment to do something that is more powerful than any legislative agenda. And that is prayer,” Adams said.
 
 
-### OTHER on 2025-07-29 18:17
-- Location: Reason
-- Description: The Department of Homeland Security is boasting that its mass deportation program is responsible for a major drop in crime. That's unlikely for several reasons.
+### ROBBERY/THEFT on 2025-07-30 00:44
+- Location: fox6now.com
+- Description: Menomonee Falls police are working to identify a man they say stole from a Walgreens last week.
 
-
-### SHOOTING on 2025-07-29 18:14
-- Location: CBC News
-- Description: York police are investigating after a rabbit was shot on the front lawn of a home in Newmarket, Ont., on Sunday.
-
-Analysis generated at: Wed Jul 30 18:22:01 UTC 2025
+Analysis generated at: Thu Jul 31 01:16:04 UTC 2025
