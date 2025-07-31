@@ -1,10 +1,10 @@
 
-Loaded 47951 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-30 06:18:02
+Loaded 48032 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-30 12:30:00
 
 Incidents by source:
 source
-newsapi           47850
+newsapi           47931
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-07-30 06:18
-- Location: Japan Today
-- Description: Investigators are piecing together more details about how a former high school football player who blamed the game for his mental health problems carried out a deadly attack on an office building that is home to the NFL. Shane Tamura killed four people on Mon…
+### HOMICIDE on 2025-07-30 12:30
+- Location: Daily Signal
+- Description: What once would have shocked the conscience is now forgotten by the end of the article. Consider these recent stories on juvenile homicides. In Southern... Read More
+The post How to Keep Kids From Killing Kids appeared first on The Daily Signal.
 
 
-### HOMICIDE on 2025-07-30 06:12
-- Location: The Local Germany
-- Description: A military helicopter crashes into a river killing two soldiers, the first half of 2025 brought record losses says insurance giant, German biathlon champion Laura Dahlmeier is victim of tragic climbing accident and more news on Wednesday, July 30th.
+### OTHER on 2025-07-30 12:28
+- Location: 7NEWS.com.au
+- Description: Elderly woman dies after being hit by car7news.com.au
 
 
-### SHOOTING on 2025-07-30 06:00
-- Location: Dramabeans.com
-- Description: When illicit firearms inexplicably wind up in the hands of regular civilians, the peace of a gun-free country begins to crumble at its very foundation. The temptation of instant catharsis curls around the latent fury of several ticking time bombs, and it won’…
+### HOMICIDE on 2025-07-30 12:23
+- Location: WFTV Orlando
+- Description: A Florida woman who recruited her boyfriend to rob and kill her husband’s great-grandfather to fund a trip was found guilty of second-degree murder, prosecutors said.
 
 
-### OTHER on 2025-07-30 06:00
-- Location: Naturalnews.com
-- Description: A USCIS report reveals that the Special Immigrant Juvenile (SIJ) program, originally intended to protect abused and abandoned minors, has been exploited by thousands of ineligible applicants, including gang members and violent criminals. Between 2013 and earl…
+### OTHER on 2025-07-30 12:22
+- Location: ABC News
+- Description: Drone footage showed tsunami waves flooding the Russian coastal town of Severo-Kurilsk after a powerful earthquake.
 
 
-### OTHER on 2025-07-30 06:00
-- Location: Naturalnews.com
-- Description: In a brazen betrayal of justice, Police Scotland was caught red-handed suppressing reports of crimes tied to the experimental covid injections. A bombshell Freedom of Information (FoI) response reveals a January 2022 directive instructing officers to outright…
+### OTHER on 2025-07-30 12:12
+- Location: Forbes
+- Description: Today’s Forbes Daily covers Pacific tsunami activity after powerful quake, Trump breaks with Netanyahu over Gaza, the Forbes 50 Over 50, a railroad merger and more.
 
-Analysis generated at: Thu Jul 31 06:23:55 UTC 2025
+Analysis generated at: Thu Jul 31 12:30:41 UTC 2025
