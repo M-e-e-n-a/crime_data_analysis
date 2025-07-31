@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Jul 31 12:30:41 UTC 2025
+Last updated: Thu Jul 31 12:53:39 UTC 2025
 
 ## Latest Analysis
 
-Loaded 48032 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-30 12:30:00
+Loaded 48043 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-30 12:52:59
 
 Incidents by source:
 source
-newsapi           47931
+newsapi           47942
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-07-30 12:30
-- Location: Daily Signal
-- Description: What once would have shocked the conscience is now forgotten by the end of the article. Consider these recent stories on juvenile homicides. In Southern... Read More
-The post How to Keep Kids From Killing Kids appeared first on The Daily Signal.
+### HOMICIDE on 2025-07-30 12:52
+- Location: The Denver Post
+- Description: Two people were shot and killed Tuesday evening in Denver's Capitol Hill neighborhood in what police are investigating as a murder-suicide, police said.
 
 
-### OTHER on 2025-07-30 12:28
-- Location: 7NEWS.com.au
-- Description: Elderly woman dies after being hit by car7news.com.au
+### HOMICIDE on 2025-07-30 12:51
+- Location: Democracy Now!
+- Description: Family and friends are reeling after an Israeli settler shot and killed Palestinian activist Odeh Muhammad Hadalin, an athlete, teacher and father of three young children. Hadalin helped produce the Oscar-winning documentary No Other Land, which follows Pales…
 
 
-### HOMICIDE on 2025-07-30 12:23
-- Location: WFTV Orlando
-- Description: A Florida woman who recruited her boyfriend to rob and kill her husband’s great-grandfather to fund a trip was found guilty of second-degree murder, prosecutors said.
+### DRUG RELATED on 2025-07-30 12:45
+- Location: Syllad.com
+- Description: In a rare public demonstration against a foreign armed group, hundreds of tribal and non-tribal residents in Tripura staged a protest at Nutan Bazaar in South Tripura on Wednesday, calling for the arrest and expulsion of members of the Bangladeshi insurgent o…
 
 
-### OTHER on 2025-07-30 12:22
+### OTHER on 2025-07-30 12:43
 - Location: ABC News
-- Description: Drone footage showed tsunami waves flooding the Russian coastal town of Severo-Kurilsk after a powerful earthquake.
+- Description: Severe thunderstorms caused flash flooding around Detroit Metro Airport.
 
 
-### OTHER on 2025-07-30 12:12
-- Location: Forbes
-- Description: Today’s Forbes Daily covers Pacific tsunami activity after powerful quake, Trump breaks with Netanyahu over Gaza, the Forbes 50 Over 50, a railroad merger and more.
+### OTHER on 2025-07-30 12:42
+- Location: ABC News
+- Description: A stray kitten who went viral after boarding a New York City subway train last week has been adopted by a fellow commuter.
 
-Analysis generated at: Thu Jul 31 12:30:41 UTC 2025
+Analysis generated at: Thu Jul 31 12:53:39 UTC 2025
