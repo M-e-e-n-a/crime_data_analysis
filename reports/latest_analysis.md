@@ -1,10 +1,10 @@
 
-Loaded 47906 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-30 01:01:11
+Loaded 47916 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-30 02:04:31
 
 Incidents by source:
 source
-newsapi           47805
+newsapi           47815
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-07-30 01:01
-- Location: Freerepublic.com
-- Description: Open-borders leftists are constantly claiming illegal immigrants commit disproportionately less crime than their numbers would indicate. But an anonymous source inside the San Diego Police Department tells Amy Reichert that he's seeing something different:A s…
+### HOMICIDE on 2025-07-30 02:04
+- Location: CBS News
+- Description: Everything we know about deadly NYC office shooting as police expand investigation; When Lucille Ball said Maurice DuBois' name a decade before he was born
 
 
-### OTHER on 2025-07-30 00:58
-- Location: Johnaugust.com
-- Description: The original post for this episode can be found here. John August: Hey, this is John, a standard warning for people who are in the car with their kids. There’s some swearing in this episode. Hello, and welcome. My name is John August, and you’re listening to …
+### OTHER on 2025-07-30 02:03
+- Location: Starcommunity.com.au
+- Description: Police are appealing to the public for more information after investigating an incident that occurred on the corner of South Gippsland Highway and Endeavour Drive, Cranbourne North, on 11 June. Between 1am and 4am, unknown offenders opened up the Telstra pit …
 
 
-### OTHER on 2025-07-30 00:51
+### SHOOTING on 2025-07-30 02:02
+- Location: The Daily Caller
+- Description: Fmr police officer Randy Sutton predicted major security changes for large buildings could be heading nationwide following a mass shooting in Manhattan.
+
+
+### ROBBERY/THEFT on 2025-07-30 02:01
 - Location: Fox News
-- Description: The New York Yankees held "a moment of silence in memoriam of NYPD Officer Didarul Islam" before Tuesday's game. The 36-year-old served on the force four years.
+- Description: Massachusetts police arrest six Maryland women after home break-in and dramatic chase, with suspects allegedly connected to organized interstate crimes.
 
 
-### HOMICIDE on 2025-07-30 00:46
+### SHOOTING on 2025-07-30 01:49
 - Location: New York Post
-- Description: “We need our faith community at this moment to do something that is more powerful than any legislative agenda. And that is prayer,” Adams said.
+- Description: "Andrew was a kind soul, a dedicated business owner, and a loving father to his young son," Ventura County (Calif.) Supervisor Jeff Gorell wrote on X.
 
-
-### ROBBERY/THEFT on 2025-07-30 00:44
-- Location: fox6now.com
-- Description: Menomonee Falls police are working to identify a man they say stole from a Walgreens last week.
-
-Analysis generated at: Thu Jul 31 01:16:04 UTC 2025
+Analysis generated at: Thu Jul 31 02:07:05 UTC 2025
