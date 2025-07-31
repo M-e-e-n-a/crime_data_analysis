@@ -1,10 +1,10 @@
 
-Loaded 48043 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-30 12:52:59
+Loaded 48132 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-30 18:20:57
 
 Incidents by source:
 source
-newsapi           47942
+newsapi           48031
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,32 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-07-30 12:52
-- Location: The Denver Post
-- Description: Two people were shot and killed Tuesday evening in Denver's Capitol Hill neighborhood in what police are investigating as a murder-suicide, police said.
+### SHOOTING on 2025-07-30 18:20
+- Location: Crooksandliars.com
+- Description: All they have are lies, projection and distraction. Someone tell Cancun Ted to talk to us when he wants to do something about the current occupant of the White House. 
+While discussing the mass shooting in New York this Monday, Sen. Ted Cruz used the occasion…
 
 
-### HOMICIDE on 2025-07-30 12:51
-- Location: Democracy Now!
-- Description: Family and friends are reeling after an Israeli settler shot and killed Palestinian activist Odeh Muhammad Hadalin, an athlete, teacher and father of three young children. Hadalin helped produce the Oscar-winning documentary No Other Land, which follows Pales…
-
-
-### DRUG RELATED on 2025-07-30 12:45
-- Location: Syllad.com
-- Description: In a rare public demonstration against a foreign armed group, hundreds of tribal and non-tribal residents in Tripura staged a protest at Nutan Bazaar in South Tripura on Wednesday, calling for the arrest and expulsion of members of the Bangladeshi insurgent o…
-
-
-### OTHER on 2025-07-30 12:43
+### HOMICIDE on 2025-07-30 18:18
 - Location: ABC News
-- Description: Severe thunderstorms caused flash flooding around Detroit Metro Airport.
+- Description: Authorities say two of the three people killed in a shooting outside the largest casino in Reno, Nevada, were 23-year-old men in town celebrating a bachelor party
 
 
-### OTHER on 2025-07-30 12:42
-- Location: ABC News
-- Description: A stray kitten who went viral after boarding a New York City subway train last week has been adopted by a fellow commuter.
+### OTHER on 2025-07-30 18:07
+- Location: HuffPost
+- Description: Police said the former WWE CEO was driving a Bentley when he rear-ended a BMW and then crashed into a wooden guardrail.
 
-Analysis generated at: Thu Jul 31 12:53:39 UTC 2025
+
+### OTHER on 2025-07-30 18:07
+- Location: Bleeding Cool News
+- Description: Okay, we have a special early look at this week's episode of SYFY and showrunners Aaron B. Koontz and Luke Boyce's adaptation of writer Tim Seeley and artist Mike Norton's Image Comics series Revival to pass along, and for a very good reason. Along with the o…
+
+
+### HOMICIDE on 2025-07-30 18:06
+- Location: Biztoc.com
+- Description: Didarul Islam, Wesley LePatner, Julia Hyman and Aaland Etieene.
+ZUMA Press Wire/ Reuters Connect; Kelly Taub/BFA.com; Courtesy of the Office of New York City Mayor Eric Adams
+A gunman's shooting rampage at a Manhattan office tower left four people dead.
+The v…
+
+Analysis generated at: Thu Jul 31 18:22:58 UTC 2025
