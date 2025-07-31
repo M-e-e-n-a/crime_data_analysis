@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Jul 31 02:07:05 UTC 2025
+Last updated: Thu Jul 31 06:23:55 UTC 2025
 
 ## Latest Analysis
 
-Loaded 47916 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-30 02:04:31
+Loaded 47951 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-30 06:18:02
 
 Incidents by source:
 source
-newsapi           47815
+newsapi           47850
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-07-30 02:04
-- Location: CBS News
-- Description: Everything we know about deadly NYC office shooting as police expand investigation; When Lucille Ball said Maurice DuBois' name a decade before he was born
+### HOMICIDE on 2025-07-30 06:18
+- Location: Japan Today
+- Description: Investigators are piecing together more details about how a former high school football player who blamed the game for his mental health problems carried out a deadly attack on an office building that is home to the NFL. Shane Tamura killed four people on Mon…
 
 
-### OTHER on 2025-07-30 02:03
-- Location: Starcommunity.com.au
-- Description: Police are appealing to the public for more information after investigating an incident that occurred on the corner of South Gippsland Highway and Endeavour Drive, Cranbourne North, on 11 June. Between 1am and 4am, unknown offenders opened up the Telstra pit …
+### HOMICIDE on 2025-07-30 06:12
+- Location: The Local Germany
+- Description: A military helicopter crashes into a river killing two soldiers, the first half of 2025 brought record losses says insurance giant, German biathlon champion Laura Dahlmeier is victim of tragic climbing accident and more news on Wednesday, July 30th.
 
 
-### SHOOTING on 2025-07-30 02:02
-- Location: The Daily Caller
-- Description: Fmr police officer Randy Sutton predicted major security changes for large buildings could be heading nationwide following a mass shooting in Manhattan.
+### SHOOTING on 2025-07-30 06:00
+- Location: Dramabeans.com
+- Description: When illicit firearms inexplicably wind up in the hands of regular civilians, the peace of a gun-free country begins to crumble at its very foundation. The temptation of instant catharsis curls around the latent fury of several ticking time bombs, and it won’…
 
 
-### ROBBERY/THEFT on 2025-07-30 02:01
-- Location: Fox News
-- Description: Massachusetts police arrest six Maryland women after home break-in and dramatic chase, with suspects allegedly connected to organized interstate crimes.
+### OTHER on 2025-07-30 06:00
+- Location: Naturalnews.com
+- Description: A USCIS report reveals that the Special Immigrant Juvenile (SIJ) program, originally intended to protect abused and abandoned minors, has been exploited by thousands of ineligible applicants, including gang members and violent criminals. Between 2013 and earl…
 
 
-### SHOOTING on 2025-07-30 01:49
-- Location: New York Post
-- Description: "Andrew was a kind soul, a dedicated business owner, and a loving father to his young son," Ventura County (Calif.) Supervisor Jeff Gorell wrote on X.
+### OTHER on 2025-07-30 06:00
+- Location: Naturalnews.com
+- Description: In a brazen betrayal of justice, Police Scotland was caught red-handed suppressing reports of crimes tied to the experimental covid injections. A bombshell Freedom of Information (FoI) response reveals a January 2022 directive instructing officers to outright…
 
-Analysis generated at: Thu Jul 31 02:07:05 UTC 2025
+Analysis generated at: Thu Jul 31 06:23:55 UTC 2025
