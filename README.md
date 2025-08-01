@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Aug  1 12:54:01 UTC 2025
+Last updated: Fri Aug  1 18:21:42 UTC 2025
 
 ## Latest Analysis
 
-Loaded 48293 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-31 12:53:01
+Loaded 48385 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-31 18:20:57
 
 Incidents by source:
 source
-newsapi           48192
+newsapi           48284
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-07-31 12:53
-- Location: Thelineofbestfit.com
-- Description: Grammy nominated band IDLES have released "Rabbit Run" as the first of four original songs which feature on the soundtrack to Darren Aronofsky's forthcoming film, Caught Stealing.
+### HOMICIDE on 2025-07-31 18:20
+- Location: TMZ
+- Description: Garrett Rolfe -- the Georgia cop who shot and killed Rayshard Brooks in 2020 -- has been arrested after allegedly getting into a bar fight last month ... and, the 911 audio from the new arrest is explosive. The Atlanta Police Department announced…
 
 
-### OTHER on 2025-07-31 12:49
-- Location: Decrypt
-- Description: Police said hackers duped the employee into installing malware on his office computer using a fake freelance job offer.
+### OTHER on 2025-07-31 18:12
+- Location: Okayplayer
+- Description: Former NBA All-Star Gilbert Arenas has been arrested, along with several other individuals named in an alleged illegal gambling business. According to a federal indictment
+, the operation included high-stakes poker games played at an Encino, CA mansion owned…
 
 
-### HOMICIDE on 2025-07-31 12:48
-- Location: WSB Atlanta
-- Description: Teacher charged with killing Arkansas couple hiking in state park with daughterswsbtv.com
+### HOMICIDE on 2025-07-31 18:09
+- Location: Fox News
+- Description: More than a dozen Western countries, including US, U.K., issue joint statement calling out Iranian intelligence services for targeting citizens in assassination and kidnapping plots.
 
 
-### HOMICIDE on 2025-07-31 12:45
-- Location: Israelnationalnews.com
-- Description: The FBI is now investigating an attack at a kosher restaurant in Queens which left multiple Jewish victims hospitalized as a potential hate crime after the victims said the attackers shouted about killing Jews.
+### HOMICIDE on 2025-07-31 18:08
+- Location: New York Post
+- Description: The Big Apple’s most notorious serial killer is getting a new close-up.
 
 
-### HOMICIDE on 2025-07-31 12:45
-- Location: CNN
-- Description: Nearly a dozen agencies are looking for a man investigators say killed four relatives of a Tennessee baby who was found abandoned alive this week in sweltering heat, authorities said Thursday.
+### OTHER on 2025-07-31 18:04
+- Location: Freerepublic.com
+- Description: https://babylonbee.com/news/cnn-white-man-in-bronco-leading-police-on-high-speed-chaseLOS ANGELES — CNN has reported that a white man driving a Ford Bronco is leading police on a chase all around Los Angeles. According to CNN journalists on the ground, the wh…
 
-Analysis generated at: Fri Aug  1 12:54:01 UTC 2025
+Analysis generated at: Fri Aug  1 18:21:42 UTC 2025
