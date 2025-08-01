@@ -1,10 +1,10 @@
 
-Loaded 48165 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-31 02:21:47
+Loaded 48209 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-31 06:17:39
 
 Incidents by source:
 source
-newsapi           48064
+newsapi           48108
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-07-31 02:21
-- Location: Freerepublic.com
-- Description: Widows and grieving mothers of fallen NYPD hero cops aren’t buying mayoral contender Zohran Mamdani’s pro-police switcheroo. Mamdani tried to make a clean break from his “defund the police” past on Wednesday as he privately visited with the family of NYPD Off…
+### OTHER on 2025-07-31 06:17
+- Location: The Local Germany
+- Description: Auto giants report profits slump in the first half of the year, a retired politician is convicted of bribery on behalf of Azerbaijan, metal fans celebrate the opening of the Wacken festival and more news from around Germany on Thursday, July 31st.
 
 
-### OTHER on 2025-07-31 02:20
-- Location: STLtoday.com
-- Description: Shut out by the Marlins on Tuesday, the Cardinals’ scoreless streak extended to 19 consecutive innings with a 2-0 loss to Miami on Wednesday night at Busch Stadium.
+### OTHER on 2025-07-31 06:13
+- Location: EURACTIV
+- Description: In today’s edition of The Capitals, read about the EU-US deal pitting surrenderists against Machiavellians, Parliament eyeing fixes for no-shows, Eurozone growth beating expectations, the Austrian envoy resigning over a sex blog, and a fresh censure threat fo…
 
 
-### HOMICIDE on 2025-07-31 02:16
-- Location: NBC News
-- Description: A suspect has been arrested in the killing of a couple who were attacked while hiking at Devil’s Den State Park on Saturday, state police said Wednesday.
+### OTHER on 2025-07-31 06:00
+- Location: Dramabeans.com
+- Description: Our show concludes by twisting its head over its heels, and dragging our shaman and her hero through a series of dreams, memories, and imaginations. Even in reality, they cannot escape from the clutches of angst, noble idiocy and self-sacrifice. But the drama…
 
 
-### OTHER on 2025-07-31 02:15
-- Location: STLtoday.com
-- Description: St. Louis City SC loses to Aston Villa of the English Premier League 2-1 in friendly match at Energizer Park
+### OTHER on 2025-07-31 06:00
+- Location: BBC News
+- Description: In the wake of anti-immigration riots last year, two Islamic leaders say they still  feel unsafe.
 
 
-### OTHER on 2025-07-31 02:14
-- Location: Starweekly.com.au
-- Description: Four machete disposal bins will be located in Melbourne’s outer north as part of a two-month amnesty period during which people are being urged to safely dispose of the weapon. The safe disposal bins will be located at Mernda, Mill Park, Broadmeadows and Crai…
+### OTHER on 2025-07-31 05:27
+- Location: International Business Times
+- Description: For over a month, Alberto has hardly dared to leave the small room he rents in someone's backyard for fear of encountering the masked police who have been rounding up immigrants in Los Angeles.
 
-Analysis generated at: Fri Aug  1 02:23:58 UTC 2025
+Analysis generated at: Fri Aug  1 06:25:40 UTC 2025
