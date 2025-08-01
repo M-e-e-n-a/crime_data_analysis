@@ -1,10 +1,10 @@
 
-Loaded 48147 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-31 01:10:00
+Loaded 48165 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-31 02:21:47
 
 Incidents by source:
 source
-newsapi           48046
+newsapi           48064
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,41 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-07-31 01:10
+### OTHER on 2025-07-31 02:21
+- Location: Freerepublic.com
+- Description: Widows and grieving mothers of fallen NYPD hero cops aren’t buying mayoral contender Zohran Mamdani’s pro-police switcheroo. Mamdani tried to make a clean break from his “defund the police” past on Wednesday as he privately visited with the family of NYPD Off…
+
+
+### OTHER on 2025-07-31 02:20
 - Location: STLtoday.com
-- Description: In exchange for Ryan Helsley, the Cardinals acquired three minor leaguers, a power-hitting infielder and two right-handed pitchers. Here's what to know about them.
+- Description: Shut out by the Marlins on Tuesday, the Cardinals’ scoreless streak extended to 19 consecutive innings with a 2-0 loss to Miami on Wednesday night at Busch Stadium.
 
 
-### SHOOTING on 2025-07-31 01:07
-- Location: CBS News
-- Description: A New Mexico judge has dismissed a lawsuit filed by actor Alec Baldwin for malicious prosecution and civil rights violations in the fatal shooting of a cinematographer on the set of the Western movie "Rust."
+### HOMICIDE on 2025-07-31 02:16
+- Location: NBC News
+- Description: A suspect has been arrested in the killing of a couple who were attacked while hiking at Devil’s Den State Park on Saturday, state police said Wednesday.
 
 
-### HOMICIDE on 2025-07-31 01:03
+### OTHER on 2025-07-31 02:15
+- Location: STLtoday.com
+- Description: St. Louis City SC loses to Aston Villa of the English Premier League 2-1 in friendly match at Energizer Park
+
+
+### OTHER on 2025-07-31 02:14
 - Location: Starweekly.com.au
-- Description: A man has been shot in Wollert this morning. Homicide Squad Detective Inspector Dean Thomas said emergency services were called to Champions Parade just before 9am. He said it was believed there was an incident involving two men in a laneway which runs behind…
+- Description: Four machete disposal bins will be located in Melbourne’s outer north as part of a two-month amnesty period during which people are being urged to safely dispose of the weapon. The safe disposal bins will be located at Mernda, Mill Park, Broadmeadows and Crai…
 
-
-### OTHER on 2025-07-31 01:00
-- Location: Human Rights Watch
-- Description: Click to expand Image
- 
-
-
-
- 
- 
- 
-
- 
- 
- 
- 
- Chief Advisor Muhammad Yunus (3rd L) visits three secret detention facilities known as "Ayna Ghor," which had been used as torture cells during the Awami League government's rule, Dhaka, Bangladesh, February 12, 2025…
-
-
-### SHOOTING on 2025-07-31 00:59
-- Location: Screen Rant
-- Description: Akiva Schaffer's remake of The Naked Gun hits theaters on August 1st, and the Liam Neeson-led action comedy is already drawing rave reviews.
-
-Analysis generated at: Fri Aug  1 01:23:36 UTC 2025
+Analysis generated at: Fri Aug  1 02:23:58 UTC 2025
