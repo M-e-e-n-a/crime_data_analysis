@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Aug  1 06:25:40 UTC 2025
+Last updated: Fri Aug  1 12:31:23 UTC 2025
 
 ## Latest Analysis
 
-Loaded 48209 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-31 06:17:39
+Loaded 48284 incidents
+Date range: 2024-01-01 00:00:00 to 2025-07-31 12:30:42
 
 Incidents by source:
 source
-newsapi           48108
+newsapi           48183
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-07-31 06:17
-- Location: The Local Germany
-- Description: Auto giants report profits slump in the first half of the year, a retired politician is convicted of bribery on behalf of Azerbaijan, metal fans celebrate the opening of the Wacken festival and more news from around Germany on Thursday, July 31st.
+### HOMICIDE on 2025-07-31 12:30
+- Location: WSOC Charlotte
+- Description: A teen suspect was arrested in the death of 16-year-old junior firefighter Gabriel Ennis in Richmond County, according to a release from the Richmond County Sheriff’s Office.
 
 
-### OTHER on 2025-07-31 06:13
-- Location: EURACTIV
-- Description: In today’s edition of The Capitals, read about the EU-US deal pitting surrenderists against Machiavellians, Parliament eyeing fixes for no-shows, Eurozone growth beating expectations, the Austrian envoy resigning over a sex blog, and a fresh censure threat fo…
+### OTHER on 2025-07-31 12:30
+- Location: Shtfplan.com
+- Description: Once again, the American police state is choosing to protect predators, not victims.
 
 
-### OTHER on 2025-07-31 06:00
-- Location: Dramabeans.com
-- Description: Our show concludes by twisting its head over its heels, and dragging our shaman and her hero through a series of dreams, memories, and imaginations. Even in reality, they cannot escape from the clutches of angst, noble idiocy and self-sacrifice. But the drama…
+### OTHER on 2025-07-31 12:15
+- Location: 7NEWS.com.au
+- Description: Machete disposal bins have been placed around the state and a campaign will encourage parents to dispose of their children's blades in a three-month amnesty.
 
 
-### OTHER on 2025-07-31 06:00
-- Location: BBC News
-- Description: In the wake of anti-immigration riots last year, two Islamic leaders say they still  feel unsafe.
+### OTHER on 2025-07-31 12:12
+- Location: Freerepublic.com
+- Description: Black teens beat white bystanders in downtown Cincinnati as police, media, and public figures stay silent—revealing a dangerous double standard on racial violence. Recently, a large group of black youths began pummeling several white adults in downtown Cincin…
 
 
-### OTHER on 2025-07-31 05:27
-- Location: International Business Times
-- Description: For over a month, Alberto has hardly dared to leave the small room he rents in someone's backyard for fear of encountering the masked police who have been rounding up immigrants in Los Angeles.
+### OTHER on 2025-07-31 12:04
+- Location: Viewfromthewing.com
+- Description: Just before 1 a.m. on Monday, a man drove a golf cart on the moving walkway inside the terminal at Buffalo airport. He found an unattended airport cart with keys left in it. And he took it to use as if it were an amusement ride. He was arrested at the end of …
 
-Analysis generated at: Fri Aug  1 06:25:40 UTC 2025
+Analysis generated at: Fri Aug  1 12:31:23 UTC 2025
