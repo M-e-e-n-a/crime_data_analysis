@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Aug  2 06:20:46 UTC 2025
+Last updated: Sat Aug  2 12:28:38 UTC 2025
 
 ## Latest Analysis
 
-Loaded 48453 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-01 06:17:00
+Loaded 48532 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-01 12:26:02
 
 Incidents by source:
 source
-newsapi           48352
+newsapi           48431
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-08-01 06:17
-- Location: The Star Online
-- Description: KUALA LUMPUR: Inspector-General of Police Datuk Seri Mohd Khalid Ismail has visited the police officer who was stabbed in the stomach during a crime prevention round in Pudu. Read full story
+### OTHER on 2025-08-01 12:26
+- Location: Rpnradio.com
+- Description: The Philippine National Police Bicol, together with various government agencies, continues its commitment toward stronger community trust and enhanced cooperation to uphold safety and security among Filipinos. In the culminating activity on Friday, August 1, …
 
 
-### OTHER on 2025-08-01 06:16
-- Location: Khabarhub.com
-- Description: KATHMANDU: Police in Kathmandu have arrested 47 people, including notorious gangster Milan Gurung, better known as Chakre Milan, during a lavish birthday celebration that spilled onto the streets with a display of pomp and obstruction of traffic. In a joint o…
+### HOMICIDE on 2025-08-01 12:23
+- Location: Sky.com
+- Description: An eighth person has been arrested over the murders of an elderly couple who died after an arson attack on their home earlier this month, police have said.
 
 
-### OTHER on 2025-08-01 06:10
-- Location: The Star Online
-- Description: Arrestees, aged 19 to 78, include mastermind and core members of criminal syndicate that laundered HK$40 billion, police say Read full story
+### OTHER on 2025-08-01 12:22
+- Location: New York Post
+- Description: Investigators haven't yet released a motive for the slayings.
 
 
-### HOMICIDE on 2025-08-01 06:04
-- Location: TheJournal.ie
-- Description: After the murder of Awdah Hathaleen by an Israeli settler, a village is under lockdown, and his loved ones are still waiting to bury him.
+### HOMICIDE on 2025-08-01 12:21
+- Location: Thepinknews.com
+- Description: The famed “Transgender House” in Topeka, Kansas has sustained serious damage after a murder suspect barricaded himself inside while being pursued by police. The house, which is painted in the colours of the trans flag, sits next to the rainbow-coloured Equali…
 
 
-### ROBBERY/THEFT on 2025-08-01 06:02
-- Location: ABC News (AU)
-- Description: Kalgoorlie police say two children are safe and unharmed after the car they were sitting in was stolen from a home in the mining city.
+### OTHER on 2025-08-01 12:15
+- Location: Thegatewaypundit.com
+- Description: Former NBA star Gilbert Arenas was arrested Wednesday on charges of helping run an illegal gambling ring, according to federal officials.
+The post Ex-NBA All-Star and Suspected Israeli Gangster Busted by Feds, Facing Prison Time appeared first on The Gateway …
 
-Analysis generated at: Sat Aug  2 06:20:46 UTC 2025
+Analysis generated at: Sat Aug  2 12:28:38 UTC 2025
