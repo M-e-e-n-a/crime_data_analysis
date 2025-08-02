@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Aug  1 18:21:42 UTC 2025
+Last updated: Sat Aug  2 01:13:02 UTC 2025
 
 ## Latest Analysis
 
-Loaded 48385 incidents
-Date range: 2024-01-01 00:00:00 to 2025-07-31 18:20:57
+Loaded 48397 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-01 01:06:07
 
 Incidents by source:
 source
-newsapi           48284
+newsapi           48296
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-07-31 18:20
-- Location: TMZ
-- Description: Garrett Rolfe -- the Georgia cop who shot and killed Rayshard Brooks in 2020 -- has been arrested after allegedly getting into a bar fight last month ... and, the 911 audio from the new arrest is explosive. The Atlanta Police Department announced…
+### OTHER on 2025-08-01 01:06
+- Location: BBC News
+- Description: Claire Eady is calling for new regulations after losing her elderly mother in a crash.
 
 
-### OTHER on 2025-07-31 18:12
-- Location: Okayplayer
-- Description: Former NBA All-Star Gilbert Arenas has been arrested, along with several other individuals named in an alleged illegal gambling business. According to a federal indictment
-, the operation included high-stakes poker games played at an Encino, CA mansion owned…
+### OTHER on 2025-08-01 01:03
+- Location: NBC News
+- Description: LOS ANGELES — It appears Yoshinobu Yamamoto’s dog helped keep things safe at home when the Los Angeles Dodgers pitcher was on a road trip
 
 
-### HOMICIDE on 2025-07-31 18:09
+### OTHER on 2025-08-01 01:01
+- Location: Starcommunity.com.au
+- Description: The ban on the sale and possession of machetes will soon be in effect. Premier Jacinta Allan and Minister for Police Anthony Carbines revealed a machete safe disposal bin and announced all the statewide bin locations on Thursday 31 July. Premier Jacinta Allan…
+
+
+### SHOOTING on 2025-08-01 01:00
+- Location: Variety
+- Description: While terms such as “pulse-pounding” and “nerve-racking” are tossed about far too frequently and capriciously in reviews of thrillers, they are altogether appropriate to describe “She Rides Shotgun.” Directed by Nick Rowland (“Calm With Horses,” TV’s “Ripper …
+
+
+### HOMICIDE on 2025-08-01 00:58
 - Location: Fox News
-- Description: More than a dozen Western countries, including US, U.K., issue joint statement calling out Iranian intelligence services for targeting citizens in assassination and kidnapping plots.
+- Description: A manhunt is underway in Tennessee for Austin Robert Drummond, 29, who is suspected of killing four people in Tiptonville in a case linked to the discovery of an abandoned baby.
 
-
-### HOMICIDE on 2025-07-31 18:08
-- Location: New York Post
-- Description: The Big Apple’s most notorious serial killer is getting a new close-up.
-
-
-### OTHER on 2025-07-31 18:04
-- Location: Freerepublic.com
-- Description: https://babylonbee.com/news/cnn-white-man-in-bronco-leading-police-on-high-speed-chaseLOS ANGELES — CNN has reported that a white man driving a Ford Bronco is leading police on a chase all around Los Angeles. According to CNN journalists on the ground, the wh…
-
-Analysis generated at: Fri Aug  1 18:21:42 UTC 2025
+Analysis generated at: Sat Aug  2 01:13:02 UTC 2025
