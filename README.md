@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Aug  2 02:01:35 UTC 2025
+Last updated: Sat Aug  2 06:20:46 UTC 2025
 
 ## Latest Analysis
 
-Loaded 48407 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-01 02:00:00
+Loaded 48453 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-01 06:17:00
 
 Incidents by source:
 source
-newsapi           48306
+newsapi           48352
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-08-01 02:00
-- Location: Thesimplyluxuriouslife.com
-- Description: Soooo many books this week, from award nominated to cozy mysteries and many other topics as well. A gorgeous summer dress that made me swoon, cordless lamps for the English cottage aesthetic, a French candle company I am excited to have found and want to shar…
+### OTHER on 2025-08-01 06:17
+- Location: The Star Online
+- Description: KUALA LUMPUR: Inspector-General of Police Datuk Seri Mohd Khalid Ismail has visited the police officer who was stabbed in the stomach during a crime prevention round in Pudu. Read full story
 
 
-### HOMICIDE on 2025-08-01 01:34
-- Location: Slashdot.org
-- Description: New details on Arkansas couple killed while hiking with daughtersNBC News Victims of Devil’s Den double murders were ‘protecting their children’: Criminal defense attorneyFox News Devil's Den State Park killings: What we know about Andrew James McGannKHBS Ark…
+### OTHER on 2025-08-01 06:16
+- Location: Khabarhub.com
+- Description: KATHMANDU: Police in Kathmandu have arrested 47 people, including notorious gangster Milan Gurung, better known as Chakre Milan, during a lavish birthday celebration that spilled onto the streets with a display of pomp and obstruction of traffic. In a joint o…
 
 
-### OTHER on 2025-08-01 01:32
-- Location: The Japan Times
-- Description: The amount of money swindled in such cases totaled ¥38.93 billion between January and June.
+### OTHER on 2025-08-01 06:10
+- Location: The Star Online
+- Description: Arrestees, aged 19 to 78, include mastermind and core members of criminal syndicate that laundered HK$40 billion, police say Read full story
 
 
-### OTHER on 2025-08-01 01:30
-- Location: Bellingcat.com
-- Description: This article includes data from Justice Delayed, an ongoing project by the author to create a database of criminal cases from more than 650 district courts in India.  On the night of Sept. 29, 2008, an explosion ripped through a crowded area in the predominan…
+### HOMICIDE on 2025-08-01 06:04
+- Location: TheJournal.ie
+- Description: After the murder of Awdah Hathaleen by an Israeli settler, a village is under lockdown, and his loved ones are still waiting to bury him.
 
 
-### SHOOTING on 2025-08-01 01:22
-- Location: Rolling Out
-- Description: The man who doused a Virginia city councilman in flammable liquid and then set him on fire admits that he tried to end him. Shotsie Michael Buck-Hayes allegedly confronted Danville City Councilman Lee Vogler, 38, at his office at Showcase Magazine on Wednesda…
+### ROBBERY/THEFT on 2025-08-01 06:02
+- Location: ABC News (AU)
+- Description: Kalgoorlie police say two children are safe and unharmed after the car they were sitting in was stolen from a home in the mining city.
 
-Analysis generated at: Sat Aug  2 02:01:35 UTC 2025
+Analysis generated at: Sat Aug  2 06:20:46 UTC 2025
