@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Aug  3 12:29:37 UTC 2025
+Last updated: Sun Aug  3 12:51:52 UTC 2025
 
 ## Latest Analysis
 
-Loaded 48720 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-02 12:22:00
+Loaded 48723 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-02 12:46:44
 
 Incidents by source:
 source
-newsapi           48619
+newsapi           48622
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,6 +24,21 @@ bution.svg)
 
 ## Recent Incidents
 
+### HOMICIDE on 2025-08-02 12:46
+- Location: Fox News
+- Description: Police in Jackson, Tennessee have found the vehicle driven by Tennessee quadruple murder suspect Austin Drummond and are warning locals to stay vigilant.
+
+
+### HOMICIDE on 2025-08-02 12:40
+- Location: New York Post
+- Description: One of the last things La'Datra Wiliams told her dad, U.S. veteran Eddie Williams, was she was "determined" to leave Charles Sims and his polygamous cult, which believes he's a true vessel for the Holy Spirit.
+
+
+### ROBBERY/THEFT on 2025-08-02 12:30
+- Location: Yahoo Entertainment
+- Description: In Hollywood, cars on cinder blocks are used in comedy films. But these Angelinos don’t find this tire theft very funny.
+
+
 ### OTHER on 2025-08-02 12:22
 - Location: The Star Online
 - Description: Tech sector warns of dangers of overregulation, as case involving deepfakes of HKU students reveals 'complicated' legal questions Read full story
@@ -33,19 +48,4 @@ bution.svg)
 - Location: New York Post
 - Description: A ruthless pair of convicted killers busted for allegedly slinging drugs in broad daylight in Greenwich Village were both sprung without bail after their arrests -- shocking examples of revolving door of justice spawned by Albany's disastrous soft-on-crime po…
 
-
-### HOMICIDE on 2025-08-02 12:19
-- Location: The Irish Times
-- Description: Mourners wore bright colours to the Mass in Barefield for Vanessa Whyte and her children
-
-
-### HOMICIDE on 2025-08-02 12:18
-- Location: Sky.com
-- Description: Crowds have turned out for the funeral of a murdered mother and her children in Northern Ireland.
-
-
-### HOMICIDE on 2025-08-02 12:13
-- Location: Sky.com
-- Description: A murder investigation has been launched after the death of a teenager who was stabbed in a car park.
-
-Analysis generated at: Sun Aug  3 12:29:37 UTC 2025
+Analysis generated at: Sun Aug  3 12:51:52 UTC 2025
