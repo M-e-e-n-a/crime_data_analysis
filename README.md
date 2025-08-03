@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Aug  3 06:21:23 UTC 2025
+Last updated: Sun Aug  3 12:29:37 UTC 2025
 
 ## Latest Analysis
 
-Loaded 48669 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-02 06:16:50
+Loaded 48720 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-02 12:22:00
 
 Incidents by source:
 source
-newsapi           48568
+newsapi           48619
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-08-02 06:16
-- Location: ABC News (AU)
-- Description: The search for missing Alice Springs man Gach Top has been suspended after five days, after police and the SES sought local advice from trail guides and family friends.
+### OTHER on 2025-08-02 12:22
+- Location: The Star Online
+- Description: Tech sector warns of dangers of overregulation, as case involving deepfakes of HKU students reveals 'complicated' legal questions Read full story
 
 
-### HOMICIDE on 2025-08-02 06:10
-- Location: Thehillstimes.in
-- Description: HT DIGITAL IMPHAL, AUGUST 2: The National Investigation Agency (NIA) has arrested another key accused related to the gruesome murder of three women and three children in Manipur’s Jiribam district in 2024. Official sources said that the arrest was recently ma…
+### HOMICIDE on 2025-08-02 12:20
+- Location: New York Post
+- Description: A ruthless pair of convicted killers busted for allegedly slinging drugs in broad daylight in Greenwich Village were both sprung without bail after their arrests -- shocking examples of revolving door of justice spawned by Albany's disastrous soft-on-crime po…
 
 
-### HOMICIDE on 2025-08-02 05:33
-- Location: BBC News
-- Description: The funeral service for Vanessa Whyte and her children James and Sara, will take place in Barefield, County Clare.
+### HOMICIDE on 2025-08-02 12:19
+- Location: The Irish Times
+- Description: Mourners wore bright colours to the Mass in Barefield for Vanessa Whyte and her children
 
 
-### OTHER on 2025-08-02 04:32
-- Location: KOMO News
-- Description: The King County Sheriff's Office received a report Friday evening regarding a possible Travis Decker sighting on the Pacific Crest Trail near Snoqualmie Pass.
+### HOMICIDE on 2025-08-02 12:18
+- Location: Sky.com
+- Description: Crowds have turned out for the funeral of a murdered mother and her children in Northern Ireland.
 
 
-### OTHER on 2025-08-02 04:30
-- Location: Independent.ie
-- Description: Planning a night on the couch? Here are today’s top TV and streaming picks:
+### HOMICIDE on 2025-08-02 12:13
+- Location: Sky.com
+- Description: A murder investigation has been launched after the death of a teenager who was stabbed in a car park.
 
-Analysis generated at: Sun Aug  3 06:21:23 UTC 2025
+Analysis generated at: Sun Aug  3 12:29:37 UTC 2025
