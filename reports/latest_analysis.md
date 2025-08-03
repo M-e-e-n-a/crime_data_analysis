@@ -1,10 +1,10 @@
 
-Loaded 48649 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-02 02:10:45
+Loaded 48669 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-02 06:16:50
 
 Incidents by source:
 source
-newsapi           48548
+newsapi           48568
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-08-02 02:10
-- Location: Biztoc.com
-- Description: Police are searching for 45-year-old Michael Paul Brown after four people were killed in a Montana bar shooting. Authorities say he is armed and dangerous and fled in a white pickup, prompting a manhunt in the small town of Anaconda.
+### OTHER on 2025-08-02 06:16
+- Location: ABC News (AU)
+- Description: The search for missing Alice Springs man Gach Top has been suspended after five days, after police and the SES sought local advice from trail guides and family friends.
 
 
-### OTHER on 2025-08-02 01:49
-- Location: Breitbart News
-- Description: Greg Gutfeld spent two decades honing his craft and building goodwill with an audience. He has a following, but not an elitist following like this current Late Night crop, who only seek to entertain and please their leftist paymasters. Gutfeld’s following con…
+### HOMICIDE on 2025-08-02 06:10
+- Location: Thehillstimes.in
+- Description: HT DIGITAL IMPHAL, AUGUST 2: The National Investigation Agency (NIA) has arrested another key accused related to the gruesome murder of three women and three children in Manipur’s Jiribam district in 2024. Official sources said that the arrest was recently ma…
 
 
-### OTHER on 2025-08-02 01:33
-- Location: Rolling Stone
-- Description: A judge ordered Tory Lanez to cover Megan Thee Stallion's costs for his April 9 deposition that ran off the rails.
+### HOMICIDE on 2025-08-02 05:33
+- Location: BBC News
+- Description: The funeral service for Vanessa Whyte and her children James and Sara, will take place in Barefield, County Clare.
 
 
-### HOMICIDE on 2025-08-02 01:33
-- Location: The Times of India
-- Description: In Montana, a shooting at a bar in Anaconda resulted in four fatalities. The incident occurred at The Owl Bar. Authorities identified the suspect as Michael Paul Brown. A lockdown was initiated in the Stump Town area during the search. The community is shaken…
+### OTHER on 2025-08-02 04:32
+- Location: KOMO News
+- Description: The King County Sheriff's Office received a report Friday evening regarding a possible Travis Decker sighting on the Pacific Crest Trail near Snoqualmie Pass.
 
 
-### ASSAULT on 2025-08-02 01:26
-- Location: ABC News
-- Description: Cincinnati Mayor Aftab Pureval and other city leaders are deploring a brawl that injured six people but also are criticizing how a viral video of the fight has portrayed the city
+### OTHER on 2025-08-02 04:30
+- Location: Independent.ie
+- Description: Planning a night on the couch? Here are today’s top TV and streaming picks:
 
-Analysis generated at: Sun Aug  3 02:22:33 UTC 2025
+Analysis generated at: Sun Aug  3 06:21:23 UTC 2025
