@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Aug  3 12:51:52 UTC 2025
+Last updated: Sun Aug  3 18:20:59 UTC 2025
 
 ## Latest Analysis
 
-Loaded 48723 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-02 12:46:44
+Loaded 48779 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-02 18:17:39
 
 Incidents by source:
 source
-newsapi           48622
+newsapi           48678
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-08-02 12:46
+### SHOOTING on 2025-08-02 18:17
+- Location: Breitbart News
+- Description: Purple haired Texas mom Ashley Pardo faces charges for allegedly helping her son plan a mass shooting on Rhodes Middle School as way of rewarding him for babysitting, according to the Daily Mail. 
+The post Police: Texas Mom Armed 13-Year-Old Son, Helped Him P…
+
+
+### OTHER on 2025-08-02 18:02
+- Location: Breitbart News
+- Description: Federal authorities arrested a Southern California man Friday for allegedly sending a dozen payments to the Islamic State of Iraq and Syria, commonly known as the foreign terrorist group ISIS.
+The post FBI: Southern California Man Arrested with Homemade Bomb …
+
+
+### OTHER on 2025-08-02 18:00
+- Location: Joehoft.com
+- Description: Do individuals like Jena Griswold who falsely imprisoned Tina Peters really believe they can escape justice? Guest post by Martel Maxim. As Colorado Secretary of State Jena Griswold and her accomplices metaphorically speed across freeways and through neighbor…
+
+
+### OTHER on 2025-08-02 18:00
+- Location: Screen Rant
+- Description: Amazon has plenty of great television options to watch, but if you're looking for something more underrated that's still a 10/10, check these out.
+
+
+### HOMICIDE on 2025-08-02 18:00
 - Location: Fox News
-- Description: Police in Jackson, Tennessee have found the vehicle driven by Tennessee quadruple murder suspect Austin Drummond and are warning locals to stay vigilant.
+- Description: Joe Berlinger explores what made David Berkowitz different from other serial killers in new true crime docuseries, comparing him to modern school shooters rather than sadistic killers.
 
-
-### HOMICIDE on 2025-08-02 12:40
-- Location: New York Post
-- Description: One of the last things La'Datra Wiliams told her dad, U.S. veteran Eddie Williams, was she was "determined" to leave Charles Sims and his polygamous cult, which believes he's a true vessel for the Holy Spirit.
-
-
-### ROBBERY/THEFT on 2025-08-02 12:30
-- Location: Yahoo Entertainment
-- Description: In Hollywood, cars on cinder blocks are used in comedy films. But these Angelinos don’t find this tire theft very funny.
-
-
-### OTHER on 2025-08-02 12:22
-- Location: The Star Online
-- Description: Tech sector warns of dangers of overregulation, as case involving deepfakes of HKU students reveals 'complicated' legal questions Read full story
-
-
-### HOMICIDE on 2025-08-02 12:20
-- Location: New York Post
-- Description: A ruthless pair of convicted killers busted for allegedly slinging drugs in broad daylight in Greenwich Village were both sprung without bail after their arrests -- shocking examples of revolving door of justice spawned by Albany's disastrous soft-on-crime po…
-
-Analysis generated at: Sun Aug  3 12:51:52 UTC 2025
+Analysis generated at: Sun Aug  3 18:20:59 UTC 2025
