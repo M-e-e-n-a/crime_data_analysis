@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Aug  4 02:29:29 UTC 2025
+Last updated: Mon Aug  4 06:29:46 UTC 2025
 
 ## Latest Analysis
 
-Loaded 48789 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-03 02:21:01
+Loaded 48810 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-03 06:21:49
 
 Incidents by source:
 source
-newsapi           48688
+newsapi           48709
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-08-03 02:21
-- Location: WPXI Pittsburgh
-- Description: Man shot in Monroeville, police looking for pickup truckwpxi.com
+### HOMICIDE on 2025-08-03 06:21
+- Location: BBC News
+- Description: Lucy Hargreaves was on the sofa when three men burst into her home while her toddler cried upstairs.
 
 
-### SHOOTING on 2025-08-03 02:19
-- Location: Yahoo Entertainment
-- Description: A shootout between two drivers in broad daylight rattled one of Jacksonville’s busiest intersections on Friday afternoon. One man is recovering in the...
+### HOMICIDE on 2025-08-03 06:14
+- Location: Haaretz
+- Description: Yinon Levi, who was detained after an incident in which he was seen firing several shots and Palestinian Awdah Hathaleen was shot dead, was released from house arrest on Friday after the Jerusalem Magistrate's Court found that he had acted in self defense, an…
 
 
-### OTHER on 2025-08-03 01:41
-- Location: Cointelegraph
-- Description: XRP is eyeing a 20% rebound in August, crypto companies are beginning to return to the United States, and other news. Hodler's Digest.
+### SHOOTING on 2025-08-03 06:11
+- Location: Nep123.com
+- Description: Okay, here’s the blog-style article, incorporating the requested elements: Breaking News: Saptari Police Make Major Drug Bust, Arrest Two Individuals! Saptari, Nepal – In a significant law enforcement operation, police in Saptari have arrested two individuals…
 
 
-### OTHER on 2025-08-03 01:24
-- Location: Sky.com
-- Description: Police in Tennessee have discovered 14 improvised explosive devices in a man's home as they were arresting him, the local sheriff's office said.
+### ASSAULT on 2025-08-03 05:34
+- Location: Nep123.com
+- Description: Thamel Fight Update: Ommnia Club Owner Arrested in Kathmandu Hey everyone! We’ve got an update on the ongoing situation in Thamel, Kathmandu, concerning the recent fight and allegations of gang activity. The Kathmandu Police have made another arrest, adding t…
 
 
-### OTHER on 2025-08-03 01:16
-- Location: Fox News
-- Description: After several years and multiple lawsuits, St. Louis lawyers Mark and Patricia McCloskey have reclaimed their seized AR-15 used during their 2020 BLM protest confrontation.
+### HOMICIDE on 2025-08-03 05:32
+- Location: Slashdot.org
+- Description: Tracing Shadows: Anaconda shooting suspect's brother convicted in Dec. 2000 stabbing deathKBZK News Anaconda, Montana shooting: Police find getaway car of army veteran suspected of deadly attackBBC Officials scour mountainous area for suspect in Montana bar s…
 
-Analysis generated at: Mon Aug  4 02:29:29 UTC 2025
+Analysis generated at: Mon Aug  4 06:29:46 UTC 2025
