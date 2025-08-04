@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Aug  4 12:56:05 UTC 2025
+Last updated: Mon Aug  4 18:22:46 UTC 2025
 
 ## Latest Analysis
 
-Loaded 48856 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-03 12:51:41
+Loaded 48919 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-03 18:15:28
 
 Incidents by source:
 source
-newsapi           48755
+newsapi           48818
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-08-03 12:51
-- Location: New York Post
-- Description: "It was a bit of a chaotic scene at first because there were multiple dogs out there," police said.
+### HOMICIDE on 2025-08-03 18:15
+- Location: CBS News
+- Description: Tennessee investigators allege Tanaka Brown and Giovonte Thomas "assisted" Austin Robert Drummond, who is wanted in the murders.
 
 
-### ROBBERY/THEFT on 2025-08-03 12:31
-- Location: The Star Online
-- Description: GEORGE TOWN: Police have arrested five Middle Eastern nationals in its investigation into the theft of money from several foreign tourists who were allegedly hypnotised in the city centre here. Read full story
+### SHOOTING on 2025-08-03 18:11
+- Location: WPXI Pittsburgh
+- Description: Police are looking to identify a person of interest related to Friday’s shooting in Downtown Pittsburgh that left two people injured.
 
 
-### OTHER on 2025-08-03 12:24
-- Location: Fox News
-- Description: Australian state Victoria is offering an amnesty period for the safe surrender of machetes ahead of a statewide ban with penalties up to two years imprisonment or a hefty fine.
+### OTHER on 2025-08-03 18:05
+- Location: New Zealand Herald
+- Description: When India meet Pakistan in cricket it is more than a match.
 
 
-### SHOOTING on 2025-08-03 12:22
-- Location: ESPN
-- Description: What we know about Shane Tamura, a Las Vegas casino worker who targeted NFL headquarters.
+### OTHER on 2025-08-03 18:03
+- Location: Breitbart News
+- Description: A dog may have saved the lives of a man and a woman when it showed up at nearby dog park and convinced a good Samaritan to follow it.
 
 
-### HOMICIDE on 2025-08-03 12:15
-- Location: Khabarhub.com
-- Description: KATHMANDU: Home Minister Ramesh Lekhak has directed the Central Investigation Bureau (CIB) of Nepal Police to initiate a renewed and in-depth investigation into the rape and murder of Nirmala Pant in Bhimdatta Municipality, Kanchanpur. During an inspection vi…
+### OTHER on 2025-08-03 18:00
+- Location: Allthatsinteresting.com
+- Description: From flappers and speakeasies to tenements and the stock market crash, take a trip back in time to the New York of the Roaring Twenties.
+The post Go Inside The Glamour And Grit Of 1920s New York City With These 44 Photographs appeared first on All That's Inte…
 
-Analysis generated at: Mon Aug  4 12:56:05 UTC 2025
+Analysis generated at: Mon Aug  4 18:22:46 UTC 2025
