@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Aug  4 06:29:46 UTC 2025
+Last updated: Mon Aug  4 12:33:17 UTC 2025
 
 ## Latest Analysis
 
-Loaded 48810 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-03 06:21:49
+Loaded 48855 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-03 12:31:00
 
 Incidents by source:
 source
-newsapi           48709
+newsapi           48754
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-08-03 06:21
-- Location: BBC News
-- Description: Lucy Hargreaves was on the sofa when three men burst into her home while her toddler cried upstairs.
+### ROBBERY/THEFT on 2025-08-03 12:31
+- Location: The Star Online
+- Description: GEORGE TOWN: Police have arrested five Middle Eastern nationals in its investigation into the theft of money from several foreign tourists who were allegedly hypnotised in the city centre here. Read full story
 
 
-### HOMICIDE on 2025-08-03 06:14
-- Location: Haaretz
-- Description: Yinon Levi, who was detained after an incident in which he was seen firing several shots and Palestinian Awdah Hathaleen was shot dead, was released from house arrest on Friday after the Jerusalem Magistrate's Court found that he had acted in self defense, an…
+### OTHER on 2025-08-03 12:24
+- Location: Fox News
+- Description: Australian state Victoria is offering an amnesty period for the safe surrender of machetes ahead of a statewide ban with penalties up to two years imprisonment or a hefty fine.
 
 
-### SHOOTING on 2025-08-03 06:11
-- Location: Nep123.com
-- Description: Okay, here’s the blog-style article, incorporating the requested elements: Breaking News: Saptari Police Make Major Drug Bust, Arrest Two Individuals! Saptari, Nepal – In a significant law enforcement operation, police in Saptari have arrested two individuals…
+### SHOOTING on 2025-08-03 12:22
+- Location: ESPN
+- Description: What we know about Shane Tamura, a Las Vegas casino worker who targeted NFL headquarters.
 
 
-### ASSAULT on 2025-08-03 05:34
-- Location: Nep123.com
-- Description: Thamel Fight Update: Ommnia Club Owner Arrested in Kathmandu Hey everyone! We’ve got an update on the ongoing situation in Thamel, Kathmandu, concerning the recent fight and allegations of gang activity. The Kathmandu Police have made another arrest, adding t…
+### HOMICIDE on 2025-08-03 12:15
+- Location: Khabarhub.com
+- Description: KATHMANDU: Home Minister Ramesh Lekhak has directed the Central Investigation Bureau (CIB) of Nepal Police to initiate a renewed and in-depth investigation into the rape and murder of Nirmala Pant in Bhimdatta Municipality, Kanchanpur. During an inspection vi…
 
 
-### HOMICIDE on 2025-08-03 05:32
-- Location: Slashdot.org
-- Description: Tracing Shadows: Anaconda shooting suspect's brother convicted in Dec. 2000 stabbing deathKBZK News Anaconda, Montana shooting: Police find getaway car of army veteran suspected of deadly attackBBC Officials scour mountainous area for suspect in Montana bar s…
+### HOMICIDE on 2025-08-03 12:00
+- Location: Fox News
+- Description: Brian Walshe faces a murder trial for wife Ana's death, and the prosecution and defense presented contrasting motive theories involving an art fraud conviction and an alleged affair.
 
-Analysis generated at: Mon Aug  4 06:29:46 UTC 2025
+Analysis generated at: Mon Aug  4 12:33:17 UTC 2025
