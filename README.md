@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Aug  4 12:33:17 UTC 2025
+Last updated: Mon Aug  4 12:56:05 UTC 2025
 
 ## Latest Analysis
 
-Loaded 48855 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-03 12:31:00
+Loaded 48856 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-03 12:51:41
 
 Incidents by source:
 source
-newsapi           48754
+newsapi           48755
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -23,6 +23,11 @@ bution.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### HOMICIDE on 2025-08-03 12:51
+- Location: New York Post
+- Description: "It was a bit of a chaotic scene at first because there were multiple dogs out there," police said.
+
 
 ### ROBBERY/THEFT on 2025-08-03 12:31
 - Location: The Star Online
@@ -43,9 +48,4 @@ bution.svg)
 - Location: Khabarhub.com
 - Description: KATHMANDU: Home Minister Ramesh Lekhak has directed the Central Investigation Bureau (CIB) of Nepal Police to initiate a renewed and in-depth investigation into the rape and murder of Nirmala Pant in Bhimdatta Municipality, Kanchanpur. During an inspection vi…
 
-
-### HOMICIDE on 2025-08-03 12:00
-- Location: Fox News
-- Description: Brian Walshe faces a murder trial for wife Ana's death, and the prosecution and defense presented contrasting motive theories involving an art fraud conviction and an alleged affair.
-
-Analysis generated at: Mon Aug  4 12:33:17 UTC 2025
+Analysis generated at: Mon Aug  4 12:56:05 UTC 2025
