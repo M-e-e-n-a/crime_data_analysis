@@ -1,10 +1,10 @@
 
-Loaded 48919 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-03 18:15:28
+Loaded 48932 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-04 01:15:06
 
 Incidents by source:
 source
-newsapi           48818
+newsapi           48831
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-08-03 18:15
-- Location: CBS News
-- Description: Tennessee investigators allege Tanaka Brown and Giovonte Thomas "assisted" Austin Robert Drummond, who is wanted in the murders.
+### SHOOTING on 2025-08-04 01:15
+- Location: Starweekly.com.au
+- Description: A $1 million reward is on offer for information in relation to the fatal shooting of Robert Issa in a Craigieburn shopping centre car park in 2023. Five men – a 29-year-old from Kew, a 31-year-old from Mickleham, a 33-year-old from Pascoe Vale and two 26-year…
 
 
-### SHOOTING on 2025-08-03 18:11
-- Location: WPXI Pittsburgh
-- Description: Police are looking to identify a person of interest related to Friday’s shooting in Downtown Pittsburgh that left two people injured.
+### ASSAULT on 2025-08-04 00:57
+- Location: Crikey
+- Description: Extract: A Liberal politician shocked parliament by claiming to have a list of 28 high-profile paedophiles. Now, a One Nation senator has become an unlikely crusader trying to debunk the conspiracy theory.
+The post How Australia got its own ‘Epstein Files’ co…
 
 
-### OTHER on 2025-08-03 18:05
-- Location: New Zealand Herald
-- Description: When India meet Pakistan in cricket it is more than a match.
+### OTHER on 2025-08-04 00:55
+- Location: Newsweek
+- Description: Loni Anderson, the beloved actress who played the smart receptionist Jennifer Marlowe, died at the age of 79.
 
 
-### OTHER on 2025-08-03 18:03
-- Location: Breitbart News
-- Description: A dog may have saved the lives of a man and a woman when it showed up at nearby dog park and convinced a good Samaritan to follow it.
+### HOMICIDE on 2025-08-04 00:54
+- Location: Fox News
+- Description: Woman killed and another injured in San Bernardino dog attack as police respond to chaotic scene, shooting one dog and removing 14 others from the park.
 
 
-### OTHER on 2025-08-03 18:00
-- Location: Allthatsinteresting.com
-- Description: From flappers and speakeasies to tenements and the stock market crash, take a trip back in time to the New York of the Roaring Twenties.
-The post Go Inside The Glamour And Grit Of 1920s New York City With These 44 Photographs appeared first on All That's Inte…
+### OTHER on 2025-08-04 00:47
+- Location: ABC News (AU)
+- Description: The loved ones of Sydney woman Heather Marks have been left in the dark for over four decades, saying they are "desperate" for answers as to what happened 42 years ago.
 
-Analysis generated at: Mon Aug  4 18:22:46 UTC 2025
+Analysis generated at: Tue Aug  5 01:18:05 UTC 2025
