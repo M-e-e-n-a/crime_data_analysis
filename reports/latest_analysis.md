@@ -1,10 +1,10 @@
 
-Loaded 49033 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-04 12:54:09
+Loaded 49121 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-04 18:23:11
 
 Incidents by source:
 source
-newsapi           48932
+newsapi           49020
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-08-04 12:54
-- Location: The Local Germany
-- Description: Germany recorded the highest number of domestic violence cases ever last year. Here's what you should know about what you can do – and where you can turn – if you or someone you know experiences abuse in the country.
-
-
-### SHOOTING on 2025-08-04 12:45
-- Location: Israelnationalnews.com
-- Description: The teen injured by a police officer's gunfire between Givat Asaf and Beit El was released from the hospital. Several Rabbis have called for an investigation of the incident.
-
-
-### OTHER on 2025-08-04 12:44
-- Location: Substack.com
-- Description: …
-The post A Short Discourse on the “End of the World.” The Role of the Aristocratic Monetary Elite and Their Choice of Global Genocide as the Solution appeared first on Global Research.
-
-
-### OTHER on 2025-08-04 12:42
+### ASSAULT on 2025-08-04 18:23
 - Location: The Times of India
-- Description: Britain plans to invest to curb illegal migration. The UK government allocates funds to boost border security. The National Crime Agency will get more officers and tech. The aim is to disrupt smuggling networks. The UK will return migrants arriving illegally …
+- Description: Shibu Soren, a key figure in the Jharkhand statehood movement and founder of the JMM, passed away at 81. His efforts to uplift tribals and fight exploitation shaped Jharkhand's political landscape. Despite controversies and legal battles throughout his career…
 
 
-### SHOOTING on 2025-08-04 12:35
-- Location: WSB Atlanta
-- Description: The Georgia Bureau of Investigation is investigating an officer-involved shooting that occurred in Warner Robins on Sunday.
+### HOMICIDE on 2025-08-04 18:18
+- Location: CNN
+- Description: A third person has been arrested on suspicion of helping a fugitive accused of killing four relatives of a Tennessee baby who was found abandoned alive last week, authorities said Monday.
 
-Analysis generated at: Tue Aug  5 12:56:00 UTC 2025
+
+### OTHER on 2025-08-04 18:10
+- Location: The Times of India
+- Description: Americans eligible $5,000 data breach settlement warning: A $1.09-million payout is waiting for anyone hit by the Community Care Alliance hack, and the clock is ticking. Victims can claim up to $5,000 for fraud costs or choose two-year credit-monitoring cover…
+
+
+### HOMICIDE on 2025-08-04 18:06
+- Location: ABC News
+- Description: An Arkansas man who shot and killed four people at a grocery store has been sentenced to life in prison without parole
+
+
+### OTHER on 2025-08-04 18:05
+- Location: Rolling Out
+- Description: Matt Edwards filed a federal lawsuit against the Troy Police Department and Officer Taylor Gamache following an arrest that began when Edwards honked his horn at a traffic light in July 2024. According to court documents, Edwards lightly tapped his horn when …
+
+Analysis generated at: Tue Aug  5 18:24:40 UTC 2025
