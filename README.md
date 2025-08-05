@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Aug  5 12:33:20 UTC 2025
+Last updated: Tue Aug  5 12:56:00 UTC 2025
 
 ## Latest Analysis
 
-Loaded 49027 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-04 12:31:33
+Loaded 49033 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-04 12:54:09
 
 Incidents by source:
 source
-newsapi           48926
+newsapi           48932
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,30 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-08-04 12:31
-- Location: Screen Rant
-- Description: Stephen Colbert is set to guest star in Elsbeth after CBS cancelled The Late Show, joining the drama on the network ahead of his show's final year.
+### OTHER on 2025-08-04 12:54
+- Location: The Local Germany
+- Description: Germany recorded the highest number of domestic violence cases ever last year. Here's what you should know about what you can do – and where you can turn – if you or someone you know experiences abuse in the country.
 
 
-### OTHER on 2025-08-04 12:31
-- Location: Autostraddle.com
-- Description: Let’s not forget that witnessing resistance is important fuel in our continued efforts to ensure all trans people get the resources they need and deserve.
-The post Hospitals in Supposedly ‘Blue’ States Are Cutting Gender-Affirming Care for Trans Youth appeare…
+### SHOOTING on 2025-08-04 12:45
+- Location: Israelnationalnews.com
+- Description: The teen injured by a police officer's gunfire between Givat Asaf and Beit El was released from the hospital. Several Rabbis have called for an investigation of the incident.
 
 
-### HOMICIDE on 2025-08-04 12:29
-- Location: JoBlo.com
-- Description: We take a deep dive into Naked Gun 33 1/3: The Final Insult, which hit theatres mere months before co-star O.J. Simpson was arrested for murder. 
-The post The Naked Gun 33 1/3: Does it deserve to be the least loved entry in the series? appeared first on JoBlo.
+### OTHER on 2025-08-04 12:44
+- Location: Substack.com
+- Description: …
+The post A Short Discourse on the “End of the World.” The Role of the Aristocratic Monetary Elite and Their Choice of Global Genocide as the Solution appeared first on Global Research.
 
 
-### ASSAULT on 2025-08-04 12:26
-- Location: Cointelegraph
-- Description: The Qubic mining pool, which is attempting a 51% attack on Monero, is allegedly being hit by a distributed denial-of-service attack linked to the Monero community.
+### OTHER on 2025-08-04 12:42
+- Location: The Times of India
+- Description: Britain plans to invest to curb illegal migration. The UK government allocates funds to boost border security. The National Crime Agency will get more officers and tech. The aim is to disrupt smuggling networks. The UK will return migrants arriving illegally …
 
 
-### OTHER on 2025-08-04 12:21
-- Location: Yahoo Entertainment
-- Description: Reform UK’s new justice adviser has called for the UK to introduce US-style “supermax” prisons.
+### SHOOTING on 2025-08-04 12:35
+- Location: WSB Atlanta
+- Description: The Georgia Bureau of Investigation is investigating an officer-involved shooting that occurred in Warner Robins on Sunday.
 
-Analysis generated at: Tue Aug  5 12:33:20 UTC 2025
+Analysis generated at: Tue Aug  5 12:56:00 UTC 2025
