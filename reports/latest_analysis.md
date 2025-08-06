@@ -1,10 +1,10 @@
 
-Loaded 49235 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-05 12:47:50
+Loaded 49328 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-05 18:18:53
 
 Incidents by source:
 source
-newsapi           49134
+newsapi           49227
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-08-05 12:47
-- Location: NPR
-- Description: In July and August of 2024 in Bangladesh, student protesters' push for change drove the authoritarian prime minister out of power. Hundreds of demonstrators were killed.
+### HOMICIDE on 2025-08-05 18:18
+- Location: BBC News
+- Description: The family was found dead and the infant - in a car seat - was left abandoned at a stranger's home about 40 miles away.
 
 
-### OTHER on 2025-08-05 12:43
-- Location: Rolling Out
-- Description: Bus driver’s quick thinking prevents potential tragedy in shocking neglect case A routine bus journey through New Zealand’s Northland region transformed into a nightmare scenario when a vigilant driver discovered a 2-year-old girl trapped inside a suitcase. T…
+### HOMICIDE on 2025-08-05 18:16
+- Location: BBC News
+- Description: The family was found dead and the infant - in a car seat - was left abandoned at a stranger's home about 40 miles away.
 
 
-### OTHER on 2025-08-05 12:42
-- Location: Hurriyet Daily News
-- Description: A man attempting to set fire to a carpet inside Istanbul’s Hagia Sophia Mosque was stopped just before the flames could spread, local authorities announced on Aug. 5.
+### SHOOTING on 2025-08-05 18:07
+- Location: Mypeoplesreview.com
+- Description: By Rabi Raj Thapa This week has been full of news about a notorious underworld character, Chakre Milan, running an […]
+The post SINGAM-type of operation needed to end gundaraj appeared first on Peoples' Review.
 
 
-### OTHER on 2025-08-05 12:35
-- Location: Breitbart News
-- Description: A British teacher was sacked from Preston College over supposed "Islamophobia" after criticising the jailing of a mother for posts she made on Facebook amid last year's anti-mass migration riots.
-The post Teacher Fired for ‘Islamophobic’ Criticism of UK’s ‘Tw…
+### HOMICIDE on 2025-08-05 18:03
+- Location: KQED
+- Description: Two officers responded to a call that a person with a knife was threatening to kill people in west Richmond. The shooting is under investigation.
 
 
-### OTHER on 2025-08-05 12:31
-- Location: WPXI Pittsburgh
-- Description: Aug. 5 marks the 2025 edition of the community-building event, National Night Out.
+### OTHER on 2025-08-05 18:02
+- Location: Mother Jones
+- Description: Since resuming office, President Donald Trump has sought to rewrite American history, rejecting any signs of historical division and exalting some of the nation’s most notorious oppressors. On Monday, the latest chapter of this quest unfolded: The National Pa…
 
-Analysis generated at: Wed Aug  6 12:55:50 UTC 2025
+Analysis generated at: Wed Aug  6 18:22:56 UTC 2025
