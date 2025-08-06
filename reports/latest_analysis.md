@@ -1,10 +1,10 @@
 
-Loaded 49121 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-04 18:23:11
+Loaded 49140 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-05 02:07:39
 
 Incidents by source:
 source
-newsapi           49020
+newsapi           49039
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2025-08-04 18:23
-- Location: The Times of India
-- Description: Shibu Soren, a key figure in the Jharkhand statehood movement and founder of the JMM, passed away at 81. His efforts to uplift tribals and fight exploitation shaped Jharkhand's political landscape. Despite controversies and legal battles throughout his career…
+### HOMICIDE on 2025-08-05 02:07
+- Location: New York Post
+- Description: Joss was gunned down outside his home in San Antonio, Texas, on June 1.
 
 
-### HOMICIDE on 2025-08-04 18:18
-- Location: CNN
-- Description: A third person has been arrested on suspicion of helping a fugitive accused of killing four relatives of a Tennessee baby who was found abandoned alive last week, authorities said Monday.
+### OTHER on 2025-08-05 02:00
+- Location: POLITICO.eu
+- Description: The spirit that made this island loud, plural and proud is flickering.
 
 
-### OTHER on 2025-08-04 18:10
-- Location: The Times of India
-- Description: Americans eligible $5,000 data breach settlement warning: A $1.09-million payout is waiting for anyone hit by the Community Care Alliance hack, and the clock is ticking. Victims can claim up to $5,000 for fraud costs or choose two-year credit-monitoring cover…
+### HOMICIDE on 2025-08-05 01:32
+- Location: Slashdot.org
+- Description: What is known about the search for a former US soldier suspected of killing 4 at a Montana barAP News How Is the Montana Shooting Suspect Still at Large? Check Out the Terrain.The New York Times Hunt for man accused of gunning down 4 people at his neighborhoo…
 
 
-### HOMICIDE on 2025-08-04 18:06
-- Location: ABC News
-- Description: An Arkansas man who shot and killed four people at a grocery store has been sentenced to life in prison without parole
+### HOMICIDE on 2025-08-05 01:30
+- Location: Screen Rant
+- Description: Netflix's Conversations With a Killer: The Son of Sam Tapes explores how David Berkowitz was eventually captured, his sentence, and where he is today.
 
 
-### OTHER on 2025-08-04 18:05
-- Location: Rolling Out
-- Description: Matt Edwards filed a federal lawsuit against the Troy Police Department and Officer Taylor Gamache following an arrest that began when Edwards honked his horn at a traffic light in July 2024. According to court documents, Edwards lightly tapped his horn when …
+### HOMICIDE on 2025-08-05 01:25
+- Location: The Indian Express
+- Description: Superintendent of Police (SP) Shubham Arya said the operation was carried out based on specific intelligence received on Saturday regarding the alleged manufacturing of illegal arms at one Dinesh Yadav’s residence in Dalsagar village.
 
-Analysis generated at: Tue Aug  5 18:24:40 UTC 2025
+Analysis generated at: Wed Aug  6 02:08:23 UTC 2025
