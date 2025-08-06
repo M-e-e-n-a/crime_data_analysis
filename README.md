@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Aug  6 06:25:53 UTC 2025
+Last updated: Wed Aug  6 12:32:56 UTC 2025
 
 ## Latest Analysis
 
-Loaded 49163 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-05 06:09:16
+Loaded 49231 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-05 12:31:29
 
 Incidents by source:
 source
-newsapi           49062
+newsapi           49130
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-08-05 06:09
-- Location: Odditycentral.com
-- Description: A South Korean student’s mother and her tutor were recently arrested after trying to break into the girl’s school in order to steal exam papers and ensure that she aced her tests. South Korea’s education system was recently rocked by a scandal involving illeg…
+### OTHER on 2025-08-05 12:31
+- Location: WPXI Pittsburgh
+- Description: Aug. 5 marks the 2025 edition of the community-building event, National Night Out.
 
 
-### ASSAULT on 2025-08-05 06:00
-- Location: Naturalnews.com
-- Description: Department of Homeland Security (DHS) Secretary Kristi Noem and Ecuadorian President Daniel Noboa signed a memorandum of understanding on July 31 to launch a law enforcement exchange program aimed at fighting transnational crime and enhancing regional securit…
+### OTHER on 2025-08-05 12:30
+- Location: ARLnow
+- Description: Arlington County police are investigating numerous vehicle break-ins over the weekend. The break-ins happened in a pair of parking garages along Columbia Pike, between late Saturday and early Sunday. Sixteen vehicles had windows smashed in and items were stol…
 
 
-### OTHER on 2025-08-05 05:54
-- Location: CounterPunch
-- Description: It seems so long ago, but the movement against global capitalism that featured mass protests against meetings of capital’s biggest criminals and powerbrokers (usually one and the same) had center stage a mere twenty-five years ago. For those who participated,…
+### HOMICIDE on 2025-08-05 12:27
+- Location: Fox News
+- Description: New York City Mayor Eric Adams has ripped his Democratic mayoral opponent Zohran Mamdani for attending the funeral of slain NYPD officer Didarul Islam last week — but skipping services for other fallen officers killed during his time in the state Assembly.
 
 
-### OTHER on 2025-08-05 05:39
-- Location: The Times of India
-- Description: A violent power struggle between Chinese mafia groups is disrupting Italy’s fast fashion industry in Prato, Europe’s largest apparel manufacturing center. Italian prosecutors report widespread corruption, illegal labor practices, and expanding transnational c…
+### HOMICIDE on 2025-08-05 12:18
+- Location: Democracy Now!
+- Description: We get an update from the occupied West Bank, where U.S. House Speaker Mike Johnson led a delegation to an illegal settlement amid escalating settler violence against Palestinians. Israel is refusing to release the body of Palestinian activist Odeh Hadalin, w…
 
 
-### OTHER on 2025-08-05 05:30
-- Location: Israelnationalnews.com
-- Description: What good is public diplomacy when Israeli “elites” parrot, if not craft, the enemies’ talking points? Opinion.
+### ROBBERY/THEFT on 2025-08-05 12:02
+- Location: AppleInsider
+- Description: Three people, including a pair of former employees of TSMC, were arrested for allegedly stealing proprietary technology from Apple's chip partner, Taiwanese prosecutors have confirmed.Dies on wafers - Image Credit: TSMCIndustrial espionage can be lucrative bu…
 
-Analysis generated at: Wed Aug  6 06:25:53 UTC 2025
+Analysis generated at: Wed Aug  6 12:32:56 UTC 2025
