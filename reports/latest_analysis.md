@@ -1,10 +1,10 @@
 
-Loaded 49361 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-06 02:03:52
+Loaded 49404 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-06 06:19:21
 
 Incidents by source:
 source
-newsapi           49260
+newsapi           49303
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-08-06 02:03
-- Location: Nep123.com
-- Description: Tragedy at the Border: Man Killed in **Saptari, Nepal** During **Police Encounter** The following information is provided for informational purposes and does not constitute legal advice. In a shocking incident, a man has died in **Saptari, Nepal**, following …
+### OTHER on 2025-08-06 06:19
+- Location: The Local Sweden
+- Description: Christian Democrat leader slammed for proposal to recognise Jerusalem, flying still on the increase, and other news from Sweden on Wednesday.
 
 
-### ASSAULT on 2025-08-06 02:03
-- Location: Wired
-- Description: President Donald Trump shared a photo of the DOGE staffer after the alleged attack and threatened to "federalize" Washington, DC. WIRED obtained the police report.
+### OTHER on 2025-08-06 06:13
+- Location: ABC News (AU)
+- Description: A teenage girl whose mother stabbed her secret boyfriend after finding him shirtless in a bed in the family home tells a Perth court she feared he might die after the incident.
 
 
-### OTHER on 2025-08-06 01:55
-- Location: WEAR
-- Description: PENSACOLA, Fla. -- A couple of Pensacola businesses are losing some customers. NAS Pensacola servicemen and women are now banned from "Wild Greg's Saloon" on Pa
+### OTHER on 2025-08-06 06:02
+- Location: Livemint
+- Description: Personal loan scams are evolving with fraudsters using fake pamphlets and forged identities to deceive borrowers, highlighting the urgent need for digital vigilance and lender verification.
 
 
-### OTHER on 2025-08-06 01:55
-- Location: Thesimplyluxuriouslife.com
-- Description: Art, Britain, two detectives that not only get along well but respect each other, travel all over Britain teaching indirectly the audience about various real antiquities, artifacts and cultural heritage, even wine, while solving head-scratching crimes, until …
+### OTHER on 2025-08-06 06:00
+- Location: Naturalnews.com
+- Description: Australia’s Victoria state will prohibit machetes starting Sept. 1, with a three-month amnesty (until Nov. 30) allowing anonymous surrender via reinforced bins at police stations. After the amnesty, possession carries severe consequences – up to two years in …
 
 
-### HOMICIDE on 2025-08-06 01:54
-- Location: Fox News
-- Description: FBI and local detectives probe Clayton, Missouri, incident involving antisemitic graffiti reading 'Death to the IDF' and three vehicles damaged by intentional fire.
+### ASSAULT on 2025-08-06 05:58
+- Location: KTLA Los Angeles
+- Description: A teen is speaking out after he said he was violently assaulted by a group of teens in a racially-motivated attack outside a Simi Valley movie theater. On...
 
-Analysis generated at: Thu Aug  7 02:08:53 UTC 2025
+Analysis generated at: Thu Aug  7 06:25:07 UTC 2025
