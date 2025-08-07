@@ -1,10 +1,10 @@
 
-Loaded 49346 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-06 01:15:44
+Loaded 49361 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-06 02:03:52
 
 Incidents by source:
 source
-newsapi           49245
+newsapi           49260
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-08-06 01:15
-- Location: WSB Atlanta
-- Description: GBI investigating shooting involving officer in College Parkwsbtv.com
+### HOMICIDE on 2025-08-06 02:03
+- Location: Nep123.com
+- Description: Tragedy at the Border: Man Killed in **Saptari, Nepal** During **Police Encounter** The following information is provided for informational purposes and does not constitute legal advice. In a shocking incident, a man has died in **Saptari, Nepal**, following …
 
 
-### OTHER on 2025-08-06 01:09
-- Location: New Zealand Herald
-- Description: She admitted to sending nude photos to a boy under 12.
+### ASSAULT on 2025-08-06 02:03
+- Location: Wired
+- Description: President Donald Trump shared a photo of the DOGE staffer after the alleged attack and threatened to "federalize" Washington, DC. WIRED obtained the police report.
 
 
-### ROBBERY/THEFT on 2025-08-06 01:06
-- Location: WLKY Louisville
-- Description: A sweet heist has Bardstown police looking for a man caught on camera pulling off the theft.
+### OTHER on 2025-08-06 01:55
+- Location: WEAR
+- Description: PENSACOLA, Fla. -- A couple of Pensacola businesses are losing some customers. NAS Pensacola servicemen and women are now banned from "Wild Greg's Saloon" on Pa
 
 
-### HOMICIDE on 2025-08-06 01:01
-- Location: WPXI Pittsburgh
-- Description: Our crew on scene observed a car with front-end damage and a motorcycle on its side within crime scene tape.
+### OTHER on 2025-08-06 01:55
+- Location: Thesimplyluxuriouslife.com
+- Description: Art, Britain, two detectives that not only get along well but respect each other, travel all over Britain teaching indirectly the audience about various real antiquities, artifacts and cultural heritage, even wine, while solving head-scratching crimes, until …
 
 
-### HOMICIDE on 2025-08-06 01:00
-- Location: Freerepublic.com
-- Description: The BriefHundreds of people attended a vigil to remember Christopher "LeBron" Castleberry, a 28-year-old man who was shot and killed outside of Pursuit NW Church. The targeted shooting, which occurred while Castleberry was at a youth BBQ with his wife and son…
+### HOMICIDE on 2025-08-06 01:54
+- Location: Fox News
+- Description: FBI and local detectives probe Clayton, Missouri, incident involving antisemitic graffiti reading 'Death to the IDF' and three vehicles damaged by intentional fire.
 
-Analysis generated at: Thu Aug  7 01:17:12 UTC 2025
+Analysis generated at: Thu Aug  7 02:08:53 UTC 2025
