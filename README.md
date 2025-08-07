@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Aug  6 18:22:56 UTC 2025
+Last updated: Thu Aug  7 01:17:12 UTC 2025
 
 ## Latest Analysis
 
-Loaded 49328 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-05 18:18:53
+Loaded 49346 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-06 01:15:44
 
 Incidents by source:
 source
-newsapi           49227
+newsapi           49245
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-08-05 18:18
-- Location: BBC News
-- Description: The family was found dead and the infant - in a car seat - was left abandoned at a stranger's home about 40 miles away.
+### SHOOTING on 2025-08-06 01:15
+- Location: WSB Atlanta
+- Description: GBI investigating shooting involving officer in College Parkwsbtv.com
 
 
-### HOMICIDE on 2025-08-05 18:16
-- Location: BBC News
-- Description: The family was found dead and the infant - in a car seat - was left abandoned at a stranger's home about 40 miles away.
+### OTHER on 2025-08-06 01:09
+- Location: New Zealand Herald
+- Description: She admitted to sending nude photos to a boy under 12.
 
 
-### SHOOTING on 2025-08-05 18:07
-- Location: Mypeoplesreview.com
-- Description: By Rabi Raj Thapa This week has been full of news about a notorious underworld character, Chakre Milan, running an […]
-The post SINGAM-type of operation needed to end gundaraj appeared first on Peoples' Review.
+### ROBBERY/THEFT on 2025-08-06 01:06
+- Location: WLKY Louisville
+- Description: A sweet heist has Bardstown police looking for a man caught on camera pulling off the theft.
 
 
-### HOMICIDE on 2025-08-05 18:03
-- Location: KQED
-- Description: Two officers responded to a call that a person with a knife was threatening to kill people in west Richmond. The shooting is under investigation.
+### HOMICIDE on 2025-08-06 01:01
+- Location: WPXI Pittsburgh
+- Description: Our crew on scene observed a car with front-end damage and a motorcycle on its side within crime scene tape.
 
 
-### OTHER on 2025-08-05 18:02
-- Location: Mother Jones
-- Description: Since resuming office, President Donald Trump has sought to rewrite American history, rejecting any signs of historical division and exalting some of the nation’s most notorious oppressors. On Monday, the latest chapter of this quest unfolded: The National Pa…
+### HOMICIDE on 2025-08-06 01:00
+- Location: Freerepublic.com
+- Description: The BriefHundreds of people attended a vigil to remember Christopher "LeBron" Castleberry, a 28-year-old man who was shot and killed outside of Pursuit NW Church. The targeted shooting, which occurred while Castleberry was at a youth BBQ with his wife and son…
 
-Analysis generated at: Wed Aug  6 18:22:56 UTC 2025
+Analysis generated at: Thu Aug  7 01:17:12 UTC 2025
