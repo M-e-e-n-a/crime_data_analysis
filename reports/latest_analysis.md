@@ -1,10 +1,10 @@
 
-Loaded 49685 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-07 12:31:44
+Loaded 49687 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-07 12:50:40
 
 Incidents by source:
 source
-newsapi           49584
+newsapi           49586
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,6 +20,17 @@ bution.svg)
 
 ## Recent Incidents
 
+### OTHER on 2025-08-07 12:50
+- Location: Forbes
+- Description: "Dexter: Resurrection," starring Michael C. Hall, begins the second half of its inaugural season this week. What time does Episode 6 start streaming and air on cable?
+
+
+### OTHER on 2025-08-07 12:44
+- Location: Demilked.com
+- Description: Millennials tend to fall victim to these particular scams. 
+The post 25 Popular Scams Millennials Tend To Fall For appeared first on DeMilked.
+
+
 ### HOMICIDE on 2025-08-07 12:31
 - Location: The Denver Post
 - Description: At least one person died Saturday night in a crash at the intersection of Parker Road and Havana Street, on the edge of Denver's Hampden neighborhood, police said.
@@ -34,14 +45,4 @@ bution.svg)
 - Location: Nep123.com
 - Description: Knife Attack in Kathmandu: Two Arrested Following Incident Involving Youth Hey everyone! Today’s a tough one as we bring you the latest updates on a concerning incident that has shaken the Kathmandu community. We’re getting reports about a recent knife attack…
 
-
-### OTHER on 2025-08-07 12:15
-- Location: Order-order.com
-- Description: Rumours are flying around Tameside Labour circles that Andy Burnham’s plan to return to Westminster may come sooner than expected. Sources on the ground say Andrew Gwynne, Labour MP for Gorton and Denton, wants to leave Parliament as soon as he has another jo…
-
-
-### HOMICIDE on 2025-08-07 12:14
-- Location: NBC News
-- Description: Vance Boelter is accused of killing Minnesota Rep. Melissa Hortman and her husband, Mark.
-
-Analysis generated at: Fri Aug  8 12:31:57 UTC 2025
+Analysis generated at: Fri Aug  8 12:54:32 UTC 2025
