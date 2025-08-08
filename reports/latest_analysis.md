@@ -1,10 +1,10 @@
 
-Loaded 49604 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-07 02:05:54
+Loaded 49638 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-07 06:23:12
 
 Incidents by source:
 source
-newsapi           49503
+newsapi           49537
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-08-07 02:05
-- Location: CBC News
-- Description: The B.C. Supreme Court says a Chilliwack, B.C., man who stabbed his wife to death in 2024 was suffering from a "delusional belief" when the violent killing occurred, finding him not criminally responsible for her murder.
+### OTHER on 2025-08-07 06:23
+- Location: BBC News
+- Description: Warwickshire Police has been accused of withholding details of two men charged over an alleged rape.
 
 
-### SHOOTING on 2025-08-07 01:58
-- Location: ABC News
-- Description: A shooting at Fort Stewart on Wednesday has injured five people and raised concerns about safety on military bases
+### HOMICIDE on 2025-08-07 06:20
+- Location: The Indian Express
+- Description: Police said they received information around 4:40 pm about a shooting in the Benta police station area. The victim, Rahul Kumar, was declared dead and his body sent for postmortem.
 
 
-### ASSAULT on 2025-08-07 01:54
-- Location: Breitbart News
-- Description: An arsonist reportedly targeted a Washington state Immigration and Customs Enforcement (ICE) field office over the weekend, with photos showing fire damage and shattered glass from objects thrown at the facility.
-The post DHS: Arsonist Attacked Washington ICE…
-
-
-### OTHER on 2025-08-07 01:49
+### ROBBERY/THEFT on 2025-08-07 06:16
 - Location: ABC News (AU)
-- Description: Afghanistan's rulers have "weaponised" the legal and judicial system to oppress women and girls in what amounts to "crimes against humanity," according to the UN's independent human rights investigator for the country.
+- Description: Police are investigating two complaints about thieves scamming Nepalese jewellers in Canberra.
 
 
-### SHOOTING on 2025-08-07 01:45
-- Location: Fox News
-- Description: Army Sgt. Quornelius Radford, of Jacksonville, Florida, is charged with shooting five fellow soldiers at Fort Stewart as former military officials weigh in on weapons safety protocols.
+### HOMICIDE on 2025-08-07 06:16
+- Location: The Times of India
+- Description: A shocking video surfaced from Kumawas village in Rajasthan. It shows individuals shooting and killing over 25 stray dogs. The incident occurred on August 2 and 3. Police have identified Shyochand Bavariya as one of the accused. A case has been registered und…
 
-Analysis generated at: Fri Aug  8 02:08:13 UTC 2025
+
+### OTHER on 2025-08-07 06:00
+- Location: TheJournal.ie
+- Description: Mick Moran of the Irish Internet Hotline reporting service tackles the difficult topic of the growing use of violent and abusive online pornography.
+
+Analysis generated at: Fri Aug  8 06:25:01 UTC 2025
