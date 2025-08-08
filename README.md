@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Aug  8 12:54:32 UTC 2025
+Last updated: Fri Aug  8 18:20:33 UTC 2025
 
 ## Latest Analysis
 
-Loaded 49687 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-07 12:50:40
+Loaded 49778 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-07 18:19:24
 
 Incidents by source:
 source
-newsapi           49586
+newsapi           49677
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-08-07 12:50
-- Location: Forbes
-- Description: "Dexter: Resurrection," starring Michael C. Hall, begins the second half of its inaugural season this week. What time does Episode 6 start streaming and air on cable?
+### OTHER on 2025-08-07 18:19
+- Location: ABC News
+- Description: Klum joined "GMA" to discuss her first season of the iconic show after departing in 2017.
 
 
-### OTHER on 2025-08-07 12:44
-- Location: Demilked.com
-- Description: Millennials tend to fall victim to these particular scams. 
-The post 25 Popular Scams Millennials Tend To Fall For appeared first on DeMilked.
+### SHOOTING on 2025-08-07 18:18
+- Location: Newsweek
+- Description: The shooting occurred along Route 171 near the village of Thomson, roughly 40 miles north of Scranton.
 
 
-### HOMICIDE on 2025-08-07 12:31
-- Location: The Denver Post
-- Description: At least one person died Saturday night in a crash at the intersection of Parker Road and Havana Street, on the edge of Denver's Hampden neighborhood, police said.
+### OTHER on 2025-08-07 18:15
+- Location: RTE
+- Description: The PSNI has launched a plan to build greater trust with black and ethnic minority communities in Northern Ireland.
 
 
-### OTHER on 2025-08-07 12:30
-- Location: Rolling Stone
-- Description: Mexican reporter Miguel Ángel Vega also works as a "fixer" in Sinaloa, connecting foreign journalists with cartel bosses and get back home alive.
+### OTHER on 2025-08-07 18:12
+- Location: ABC News
+- Description: The actress returns to the iconic role in Netflix's "Wednesday."
 
 
-### ASSAULT on 2025-08-07 12:23
-- Location: Nep123.com
-- Description: Knife Attack in Kathmandu: Two Arrested Following Incident Involving Youth Hey everyone! Today’s a tough one as we bring you the latest updates on a concerning incident that has shaken the Kathmandu community. We’re getting reports about a recent knife attack…
+### HOMICIDE on 2025-08-07 18:10
+- Location: Sky.com
+- Description: A detective described the assault as a "senseless act of violence that has ended the life of a young man (with) so many years in front of him".
 
-Analysis generated at: Fri Aug  8 12:54:32 UTC 2025
+Analysis generated at: Fri Aug  8 18:20:33 UTC 2025
