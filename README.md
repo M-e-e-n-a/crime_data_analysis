@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Aug  7 18:23:42 UTC 2025
+Last updated: Fri Aug  8 01:16:48 UTC 2025
 
 ## Latest Analysis
 
-Loaded 49580 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-06 18:23:19
+Loaded 49591 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-07 01:13:14
 
 Incidents by source:
 source
-newsapi           49479
+newsapi           49490
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-08-06 18:23
-- Location: The New Yorker
-- Description: Michael Schulman recalls his childhood friendship with Wesley LePatner—with whom he attended Horace Mann and Yale—one of four people killed in the mass shooting at 345 Park Avenue.
+### ASSAULT on 2025-08-07 01:13
+- Location: The Times of India
+- Description: President Trump is considering deploying the National Guard to address what he perceives as unsafe conditions in Washington, D.C., following an assault on a staffer. He has threatened a federal takeover, citing high crime rates, despite data showing a decreas…
 
 
-### OTHER on 2025-08-06 18:23
-- Location: LancasterOnline
-- Description: The criminal case of an East Donegal Township woman who police said helped her teenage daughter will be decided in Lancaster County Court.
+### OTHER on 2025-08-07 01:05
+- Location: Pajiba.com
+- Description: In a stellar casting move, Aubrey Plaza is set to star in a biopic on the "Hollywood Madam" Heidi Fleiss. If you're old like me, your first thought was to wonder who will play Tom Sizemore if they show their...
+Read more...
 
 
-### HOMICIDE on 2025-08-06 18:20
-- Location: soompi
-- Description: SBS’s upcoming drama “Queen Mantis” has unveiled its first posters! A remake of the French series “La Mante,” “Queen Mantis” is a crime thriller starring Go Hyun Jung as Jung Yi Shin, a famous serial killer nicknamed “The Mantis” who brutally murdered five me…
+### HOMICIDE on 2025-08-07 01:00
+- Location: WEAR
+- Description: PENSACOLA, Fla. -- A jury found Sheila Agee guilty on Wednesday for her role in the 2023 Pensacola Home Depot murder of the teen mother of her son's child.Agee,
 
 
-### HOMICIDE on 2025-08-06 18:20
-- Location: Radaronline.com
-- Description: Bryan Kohberger was investigated as a possible suspect after a man broke into a sorority home months before the tragic murders in Idaho.
+### OTHER on 2025-08-07 00:53
+- Location: STLtoday.com
+- Description: Jane Pitt was an elementary school teacher in Springfield, Missouri. In 2009, the Pitts donated $1 million to establish the Jane Pitt Pediatric Cancer Center at Mercy Hospital in Springfield.
 
 
-### HOMICIDE on 2025-08-06 18:16
-- Location: CBC News
-- Description: Calgary police and the family of a teenage homicide victim are asking anyone who might have information about his death to get in touch with investigators.
+### OTHER on 2025-08-07 00:45
+- Location: Slashdot.org
+- Description: Bruce66423 shares a report from the BBC: A man who is bringing a High Court challenge against the Metropolitan Police after live facial recognition technology wrongly identified him as a suspect has described it as "stop and search on steroids." Shaun Thompso…
 
-Analysis generated at: Thu Aug  7 18:23:42 UTC 2025
+Analysis generated at: Fri Aug  8 01:16:48 UTC 2025
