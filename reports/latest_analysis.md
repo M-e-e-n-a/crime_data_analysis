@@ -1,10 +1,10 @@
 
-Loaded 49846 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-08 06:18:42
+Loaded 49903 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-08 12:18:21
 
 Incidents by source:
 source
-newsapi           49745
+newsapi           49802
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2025-08-08 06:18
-- Location: KLAS - 8 News Now
-- Description: LAS VEGAS (KLAS) – Las Vegas police are searching for five people accused of committing a robbery at a business in the north Las Vegas valley. It took place ...
+### SHOOTING on 2025-08-08 12:18
+- Location: The Indian Express
+- Description: Last month, the Gurgaon police had arrested another accused who conducted the alleged reconnaissance for shooting the Haryanvi rapper-singer on July 14.
 
 
-### ASSAULT on 2025-08-08 06:12
-- Location: Louder
-- Description: Fist fights, premonitions and a flight into hell: This is the tale of Ronnie Van Zant and Lynyrd Skynyrd
+### OTHER on 2025-08-08 12:10
+- Location: Boston Herald
+- Description: This move follows President Trump's suggestions that his administration could take over running the city.
 
 
-### HOMICIDE on 2025-08-08 06:08
-- Location: The Times of India
-- Description: Asif Qureshi, cousin of actor Huma Qureshi, died in Delhi's Nizamuddin due to a parking argument. Two teenagers got arrested for the murder. Saleem Qureshi, Asif's uncle, described the start of the argument. Shaheen Qureshi, Asif's wife, stated the attack was…
+### OTHER on 2025-08-08 12:10
+- Location: The Denver Post
+- Description: This move follows President Trump's suggestions that his administration could take over running the city.
 
 
-### HOMICIDE on 2025-08-08 05:54
-- Location: New York Post
-- Description: A 61-year-old man shot and killed his neighbor in rural Pennsylvania Thursday and then ambushed first responders, wounding two state troopers and causing an EMT to crash a vehicle while firing dozens of rounds from a semiautomatic weapon, police said.
+### SHOOTING on 2025-08-08 12:09
+- Location: Insurance Journal
+- Description: COLUMBIA, S.C. (AP) — Two deputies shot and injured in a training exercise in South Carolina were wounded by ammunition taken from a plastic bag in a desk drawer and not property tested to see if they were blanks, a …
 
 
-### OTHER on 2025-08-08 05:45
-- Location: Nofilmschool.com
-- Description: In October 1929, Wall Street tanked—and banks were not the only ones who suffered. The fallout smashed into Hollywood, knocking studios sideways. Investors pulled out. Loans dried up. Panic set in. With audiences tightening their belts and studio books bleedi…
+### HOMICIDE on 2025-08-08 12:09
+- Location: CBC News
+- Description: A second person has been arrested and charged in the shooting death of 21-year-old international student Harsimrat Randhawa, an innocent bystander, Hamilton police say.
 
-Analysis generated at: Sat Aug  9 06:21:10 UTC 2025
+Analysis generated at: Sat Aug  9 12:28:12 UTC 2025
