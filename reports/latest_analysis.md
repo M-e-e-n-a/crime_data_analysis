@@ -1,10 +1,10 @@
 
-Loaded 49907 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-08 12:43:02
+Loaded 50000 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-08 18:18:31
 
 Incidents by source:
 source
-newsapi           49806
+newsapi           49899
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,30 +20,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2025-08-08 12:43
-- Location: Freerepublic.com
-- Description: As attention has turned to Washington, DC and crime in the district in the wake of a former DOGE employee being attacked, it has been revealed that a commander with the Metropolitan Police Department was placed on paid administrative leave in mid-May after be…
+### OTHER on 2025-08-08 18:18
+- Location: Foreign Policy
+- Description: The top court’s decision sets a clear precedent that persecuting LGBTQ people is a crime against humanity.
 
 
-### ROBBERY/THEFT on 2025-08-08 12:30
-- Location: Shtfplan.com
-- Description: Don’t be fooled: the madness, mayhem, and malice unfolding in America is not politics as usual. It’s not partisan hardball. It’s not bureaucratic overreach.
-
-It’s theft in the gravest sense imaginable: the theft of our nation, the theft of our sovereignty as …
-
-
-### ROBBERY/THEFT on 2025-08-08 12:30
-- Location: Freethoughtblogs.com
-- Description: The Probability Broach, chapter 8 After debating alternate histories with Ed, and contemplating the possibility that his own universe no longer exists to return to, Win is sleepless with worries: I had a hard time sleeping that night. I was exhausted, and not…
+### OTHER on 2025-08-08 18:17
+- Location: PCMag.com
+- Description: At Black Hat, Jennifer Granick warns against maintaining 'enticing repositories of information.'
+LAS VEGAS–Patching laws is much harder than patching software, especially when the law in question is the Constitution. Jennifer Granick, surveillance and cyberse…
 
 
-### OTHER on 2025-08-08 12:30
-- Location: Yahoo Entertainment
-- Description: Technology has allowed fraudsters new ways to eke every cent out of Americans.
+### OTHER on 2025-08-08 18:17
+- Location: PCMag.com
+- Description: At Black Hat, Jennifer Granick warns against maintaining 'enticing repositories of information.'
+LAS VEGAS–Patching laws is much harder than patching software, especially when the law in question is the Constitution. Jennifer Granick, surveillance and cyberse…
 
 
-### SHOOTING on 2025-08-08 12:18
-- Location: The Indian Express
-- Description: Last month, the Gurgaon police had arrested another accused who conducted the alleged reconnaissance for shooting the Haryanvi rapper-singer on July 14.
+### SHOOTING on 2025-08-08 18:13
+- Location: Hip-Hop Wired
+- Description: A video that recently went viral seemed to show rapper Troy Ave firing shots at a robber, but police now say it’s fake.
 
-Analysis generated at: Sat Aug  9 12:48:16 UTC 2025
+
+### HOMICIDE on 2025-08-08 18:06
+- Location: ABC News
+- Description: An autopsy has been conducted on a man who officials say killed his neighbor in rural Pennsylvania before unleashing a hail of gunfire on first responders
+
+Analysis generated at: Sat Aug  9 18:20:00 UTC 2025
