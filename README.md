@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Aug  8 18:20:33 UTC 2025
+Last updated: Sat Aug  9 01:10:38 UTC 2025
 
 ## Latest Analysis
 
-Loaded 49778 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-07 18:19:24
+Loaded 49792 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-08 01:09:02
 
 Incidents by source:
 source
-newsapi           49677
+newsapi           49691
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-08-07 18:19
-- Location: ABC News
-- Description: Klum joined "GMA" to discuss her first season of the iconic show after departing in 2017.
+### HOMICIDE on 2025-08-08 01:09
+- Location: NBC News
+- Description: A Georgia sheriff’s deputy who fatally shot a man who had been exonerated and freed from prison has been indicted on unrelated civil rights charges, federal prosecutors said Thursday
 
 
-### SHOOTING on 2025-08-07 18:18
-- Location: Newsweek
-- Description: The shooting occurred along Route 171 near the village of Thomson, roughly 40 miles north of Scranton.
+### HOMICIDE on 2025-08-08 01:00
+- Location: Thehillstimes.in
+- Description: AGARTALA, Aug 7: The Tripura High Court has asked the Registrar Judicial to probe the grant of bail to six murder accused by the Additional District and Sessions Court, Belonia, despite rejection of their application by the high court, a senior lawyer said on…
 
 
-### OTHER on 2025-08-07 18:15
-- Location: RTE
-- Description: The PSNI has launched a plan to build greater trust with black and ethnic minority communities in Northern Ireland.
+### HOMICIDE on 2025-08-08 00:44
+- Location: BBC News
+- Description: One alleged attempt left Simon Patterson in a coma, with his family twice told to say their goodbyes.
 
 
-### OTHER on 2025-08-07 18:12
-- Location: ABC News
-- Description: The actress returns to the iconic role in Netflix's "Wednesday."
+### HOMICIDE on 2025-08-08 00:43
+- Location: CBS News
+- Description: Two police officers were shot in Susquehanna County, Pennsylvania, while responding to an incident on Thursday. Authorities say the officers were ambushed, and the gunman was shot and killed by police. CBS News crime and public safety unit coordinating produc…
 
 
-### HOMICIDE on 2025-08-07 18:10
-- Location: Sky.com
-- Description: A detective described the assault as a "senseless act of violence that has ended the life of a young man (with) so many years in front of him".
+### OTHER on 2025-08-08 00:36
+- Location: CNN
+- Description: The Trump administration will increase the federal law enforcement presence in Washington, DC, starting Thursday night, White House press secretary Karoline Leavitt said. It comes just days after a well-known former Department of Government Efficiency staffer…
 
-Analysis generated at: Fri Aug  8 18:20:33 UTC 2025
+Analysis generated at: Sat Aug  9 01:10:37 UTC 2025
