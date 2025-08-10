@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Aug 10 01:20:26 UTC 2025
+Last updated: Sun Aug 10 02:12:16 UTC 2025
 
 ## Latest Analysis
 
-Loaded 50022 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-09 01:00:46
+Loaded 50037 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-09 02:08:47
 
 Incidents by source:
 source
-newsapi           49921
+newsapi           49936
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-08-09 01:00
-- Location: fox5sandiego.com
-- Description: Authorities on Friday are investigating a shooting between a Ralphs security guard and suspect in downtown San Diego.
+### OTHER on 2025-08-09 02:08
+- Location: Digital Journal
+- Description: Canadian actor Fionn Laird chatted about starring in the supernatural TV series "The Institute," which premiered on July 13th on MGM+.
+The post Fionn Laird talks about starring in the supernatural TV series ‘The Institute’ on MGM+ appeared first on Digital Jo…
 
 
-### ROBBERY/THEFT on 2025-08-09 01:00
-- Location: Crooksandliars.com
-- Description: Yes, I know DOGE Bro “Big Balls” was robbed and assaulted in Washington, D.C., allegedly by 15-year-olds. But it seems rather telling that instead of looking at ways to make the district safer with more police or crime-fighting policies, Donald “Grab Them By …
+### OTHER on 2025-08-09 02:06
+- Location: The Star Online
+- Description: SIBU: Police have taken down more than 100 illegal money-lending advertisements during a special operation targeting unlicensed loan activities in the district. Read full story
 
 
-### HOMICIDE on 2025-08-09 00:56
-- Location: CBS News
-- Description: Atlanta police confirmed that a DeKalb County police officer is dead after a shooting near Emory University and the headquarters for the U.S. Centers for Disease Control and Prevention. The officer was a husband and father, officials said. The gunman in the i…
+### OTHER on 2025-08-09 02:05
+- Location: Syllad.com
+- Description: Chief Secretary DP Wahlang on Friday stated that there is no evidence of a recent increase in crimes against women in Meghalaya. He attributed the reported cases to existing societal issues rather than a sudden surge. Addressing reporters, Wahlang said, “It i…
 
 
-### HOMICIDE on 2025-08-09 00:55
-- Location: Slashdot.org
-- Description: Officer injured, suspect dead in shooting near CDC headquarters, Emory University campusABC News Live updates: Police officer killed after shooter appeared to target CDC headquarters in AtlantaCNN Shooter near Emory University killed after standoffMSN Suspect…
+### DRUG RELATED on 2025-08-09 02:01
+- Location: Activistpost.com
+- Description: “There are no dangerous thoughts; thinking itself is a dangerous activity.”Hannah Arendt The government’s war on homelessness—much like its war on terrorism, its war on drugs, its war on illegal immigration, and its war on COVID-19—is yet another Trojan Horse…
 
 
-### HOMICIDE on 2025-08-09 00:53
-- Location: Freerepublic.com
-- Description: Agency may have been the target of shooter who blamed his illness on COVID shotsA gunman opened fire on the CDC campus in Atlanta on Friday evening, and the shooter and a police officer are dead, according to authorities. Sources inside the CDC shared images …
+### OTHER on 2025-08-09 02:00
+- Location: Thegatewaypundit.com
+- Description: A blue city in a blue state awash in red ink is hoping there is a pot of gold at the end of the LGBT rainbow.
+The post Dem-Run City Facing Huge Budget Crisis Makes Pitch to Host LGBT Olympics appeared first on The Gateway Pundit.
 
-Analysis generated at: Sun Aug 10 01:20:26 UTC 2025
+Analysis generated at: Sun Aug 10 02:12:16 UTC 2025
