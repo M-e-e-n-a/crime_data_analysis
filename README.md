@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Aug 10 06:21:30 UTC 2025
+Last updated: Sun Aug 10 12:28:32 UTC 2025
 
 ## Latest Analysis
 
-Loaded 50057 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-09 05:33:13
+Loaded 50112 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-09 12:27:08
 
 Incidents by source:
 source
-newsapi           49956
+newsapi           50011
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,32 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-08-09 05:33
-- Location: The Times of India
-- Description: A year after the RG Kar student's rape and murder case, West Bengal braces for a fresh stir as the students and Bharatiya Janata Party leaders will participate in 'Nabanna Abhiyan' protest march on Saturday, demanding justice for the victim.
+### SHOOTING on 2025-08-09 12:27
+- Location: Mediatakeout.com
+- Description: New York rapper Troy Ave went viral weeks back, after a video was shared online showing him involved in a shootout…but at the time, fans speculated that the video clip had been falsified. Now the case has been closed as a representative for the San Diego Coun…
 
 
-### ROBBERY/THEFT on 2025-08-09 05:26
-- Location: The Star Online
-- Description: IPOH: Five men, including a Pakistani national, have been arrested in connection with a latex theft syndicate during a raid here. Read full story
+### HOMICIDE on 2025-08-09 12:23
+- Location: CBC News
+- Description: A man is dead and a woman has serious injuries after what RCMP are calling a 'targeted' shooting into a vehicle Friday night on the Hackmatack Road near Wellington in western P.E.I.
 
 
-### OTHER on 2025-08-09 05:10
-- Location: Sky.com
-- Description: The former first minister's autobiography Frankly, which will be published on Thursday,  details her miscarriage in 2010 and rumours about an affair with a female French ambassador to the UK.
+### SHOOTING on 2025-08-09 12:15
+- Location: Thegatewaypundit.com
+- Description: Gunfire erupted in Times Square, one of America’s most iconic tourist destinations, during the early hours of Saturday morning.
+The post Chaos in NYC: 17-Year-Old Suspect Arrested After Multiple People Shot in Times Square (VIDEO) appeared first on The Gatewa…
 
 
-### OTHER on 2025-08-09 05:06
-- Location: The Indian Express
-- Description: The POCSO Act is a path-breaking legislation with a victim-centric lens. However, the faultlines are in its implementation
+### OTHER on 2025-08-09 12:02
+- Location: Crooksandliars.com
+- Description: Above, The Police perform, Canary in a Coal Mine. The simile for our times. Sigh. 
+The Rational Optimist says the canary in the coal mine is a goner.
+Wonkette reports on how Prznint Stupid wants a census to count only the REAL AMERICANS, the Red Hats.
+Mike Th…
 
 
-### OTHER on 2025-08-09 05:05
-- Location: The Irish Times
-- Description: Judges face daily dilemma over insufficient places as concerns expressed that ‘feral’ gangs are committing crimes ‘without any fear of recrimination’
+### ASSAULT on 2025-08-09 12:00
+- Location: Fox News
+- Description: Fox News Digital spoke to entrepreneur and lifelong Cincinnati resident Adam Koehler about the viral downtown street brawl last month that grabbed the nation's attention.
 
-Analysis generated at: Sun Aug 10 06:21:30 UTC 2025
+Analysis generated at: Sun Aug 10 12:28:32 UTC 2025
