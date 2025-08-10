@@ -1,10 +1,10 @@
 
-Loaded 50037 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-09 02:08:47
+Loaded 50057 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-09 05:33:13
 
 Incidents by source:
 source
-newsapi           49936
+newsapi           49956
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,30 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-08-09 02:08
-- Location: Digital Journal
-- Description: Canadian actor Fionn Laird chatted about starring in the supernatural TV series "The Institute," which premiered on July 13th on MGM+.
-The post Fionn Laird talks about starring in the supernatural TV series ‘The Institute’ on MGM+ appeared first on Digital Jo…
+### HOMICIDE on 2025-08-09 05:33
+- Location: The Times of India
+- Description: A year after the RG Kar student's rape and murder case, West Bengal braces for a fresh stir as the students and Bharatiya Janata Party leaders will participate in 'Nabanna Abhiyan' protest march on Saturday, demanding justice for the victim.
 
 
-### OTHER on 2025-08-09 02:06
+### ROBBERY/THEFT on 2025-08-09 05:26
 - Location: The Star Online
-- Description: SIBU: Police have taken down more than 100 illegal money-lending advertisements during a special operation targeting unlicensed loan activities in the district. Read full story
+- Description: IPOH: Five men, including a Pakistani national, have been arrested in connection with a latex theft syndicate during a raid here. Read full story
 
 
-### OTHER on 2025-08-09 02:05
-- Location: Syllad.com
-- Description: Chief Secretary DP Wahlang on Friday stated that there is no evidence of a recent increase in crimes against women in Meghalaya. He attributed the reported cases to existing societal issues rather than a sudden surge. Addressing reporters, Wahlang said, “It i…
+### OTHER on 2025-08-09 05:10
+- Location: Sky.com
+- Description: The former first minister's autobiography Frankly, which will be published on Thursday,  details her miscarriage in 2010 and rumours about an affair with a female French ambassador to the UK.
 
 
-### DRUG RELATED on 2025-08-09 02:01
-- Location: Activistpost.com
-- Description: “There are no dangerous thoughts; thinking itself is a dangerous activity.”Hannah Arendt The government’s war on homelessness—much like its war on terrorism, its war on drugs, its war on illegal immigration, and its war on COVID-19—is yet another Trojan Horse…
+### OTHER on 2025-08-09 05:06
+- Location: The Indian Express
+- Description: The POCSO Act is a path-breaking legislation with a victim-centric lens. However, the faultlines are in its implementation
 
 
-### OTHER on 2025-08-09 02:00
-- Location: Thegatewaypundit.com
-- Description: A blue city in a blue state awash in red ink is hoping there is a pot of gold at the end of the LGBT rainbow.
-The post Dem-Run City Facing Huge Budget Crisis Makes Pitch to Host LGBT Olympics appeared first on The Gateway Pundit.
+### OTHER on 2025-08-09 05:05
+- Location: The Irish Times
+- Description: Judges face daily dilemma over insufficient places as concerns expressed that ‘feral’ gangs are committing crimes ‘without any fear of recrimination’
 
-Analysis generated at: Sun Aug 10 02:12:16 UTC 2025
+Analysis generated at: Sun Aug 10 06:21:30 UTC 2025
