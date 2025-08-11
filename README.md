@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Aug 11 06:25:12 UTC 2025
+Last updated: Mon Aug 11 12:32:17 UTC 2025
 
 ## Latest Analysis
 
-Loaded 50250 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-10 06:02:34
+Loaded 50301 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-10 12:19:02
 
 Incidents by source:
 source
-newsapi           50149
+newsapi           50200
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2025-08-10 06:02
-- Location: The Times of India
-- Description: A wave of fear has gripped over 300 villages in Uttar Pradesh, fueled by rumors of thieves using drones for robberies. This has led to nightly vigils, misinformation, and even violence against those suspected of operating drones. Authorities are cracking down…
+### OTHER on 2025-08-10 12:19
+- Location: Common Dreams
+- Description: After a couple of wannabe carjackers punched out Big Balls in DC, Trump used it as an excuse to threaten to take over the city and bring in the National Guard to police it, in a clear violation of the Posse Comitatus Act. This despite the fact that crime in W…
 
 
-### OTHER on 2025-08-10 06:02
-- Location: Fox News
-- Description: A man in New York City was pushed onto the train tracks at a Midtown subway station Saturday night, although he was not struck by a train, according to police.
-
-
-### HOMICIDE on 2025-08-10 06:01
+### HOMICIDE on 2025-08-10 12:18
 - Location: RTE
-- Description: Since 2020, 28 women in Northern Ireland have been murdered by partners, former partners or family members. The murders are just the visible tip of a massive iceberg of physical and psychological abuse against women.
+- Description: Police in Downpatrick have begun a murder inquiry after a man was found dead in a house in the Co Down town.
 
 
-### HOMICIDE on 2025-08-10 06:01
-- Location: RTE
-- Description: Since 2020, 28 women in Northern Ireland have been murdered by partners, former partners or family members. The murders are just the visible tip of a massive iceberg of physical and psychological abuse against women.
+### OTHER on 2025-08-10 12:00
+- Location: ESPN
+- Description: A Michigan teen was goaded into sharing an intimate photo that scammers threatened to expose unless he paid up.
 
 
-### OTHER on 2025-08-10 06:00
-- Location: Naturalnews.com
-- Description: On July 23, CBSA officers seized approximately 197 kilograms of suspected cocaine worth an estimated $24.6 million during a secondary inspection at the Blue Water Bridge crossing. Onkar Kalsi, 29, of Caledon, Ontario, was arrested at the scene and later charg…
+### ROBBERY/THEFT on 2025-08-10 12:00
+- Location: Richmond.com
+- Description: A Richmond court weighed in on whether Women's Army Corps Capt. Kathleen Nash Durant, who stole crown jewels from the royal House of Hesse in Germany, could be convicted by an Army court as a civilian.
 
-Analysis generated at: Mon Aug 11 06:25:12 UTC 2025
+
+### HOMICIDE on 2025-08-10 11:55
+- Location: Protothema.gr
+- Description: The statues of Tasos Isaak and Solomos Solomou were unveiled on Saturday night in Paralimni, Cyprus - Tomorrow marks the 29th anniversary of Isaak’s murder in Deryneia
+The post “We forgot who paid with blood” — The daughter of Tasos Isaak moves people ahead o…
+
+Analysis generated at: Mon Aug 11 12:32:17 UTC 2025
