@@ -1,10 +1,10 @@
 
-Loaded 50213 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-10 01:02:24
+Loaded 50220 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-10 02:00:33
 
 Incidents by source:
 source
-newsapi           50112
+newsapi           50119
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-08-10 01:02
-- Location: ABC News
-- Description: A law enforcement official tells The Associated Press that a Georgia man who opened fire Friday on the U.S. Centers for Disease Control and Prevention headquarters in Atlanta had blamed the COVID-19 vaccine for making him depressed and suicidal
+### SHOOTING on 2025-08-10 02:00
+- Location: CNN
+- Description: Louisiana authorities have agreed to pay $9 million to a man who was partially paralyzed from the waist down after a trooper shot him in the back during a 2018 traffic stop in Baton Rouge and then falsely reported it as a Taser discharge.
 
 
-### SHOOTING on 2025-08-10 01:00
-- Location: WSB Atlanta
-- Description: Officer David Rose lost his life running into the gunfire at the CDC and the Emory campus on Friday.
+### OTHER on 2025-08-10 01:55
+- Location: Securityaffairs.com
+- Description: A new round of the weekly Security Affairs newsletter has arrived! Every week, the best security articles from Security Affairs are free in your email box. Enjoy a new round of the weekly SecurityAffairs newsletter, including the international press. Embargo …
 
 
-### HOMICIDE on 2025-08-10 01:00
-- Location: Legalinsurrection.com
-- Description: In fact, Brown was shot when he sucker punched a cop and tried to grab his service weapon. Yet 11 years after Brown's shooting, the lie persists and is spread by politicians and activists.
-The post Illinois Lt. Governor Tweets That Michael Brown Was “Murdered…
+### ROBBERY/THEFT on 2025-08-10 01:52
+- Location: BBC News
+- Description: Bangladesh marked a year since Sheikh Hasina fled with promises of renewal, but little mention of its problems.
 
 
-### ASSAULT on 2025-08-10 00:53
-- Location: Fox News
-- Description: Honolulu authorities are investigating an acid attack in Chinatown after an unknown assailant threw a corrosive liquid at a pedestrian, causing severe burns and critical injuries.
+### ROBBERY/THEFT on 2025-08-10 01:52
+- Location: BBC News
+- Description: Bangladesh marked a year since Sheikh Hasina fled with promises of renewal, but little mention of its problems.
 
 
-### OTHER on 2025-08-10 00:47
-- Location: 7NEWS.com.au
-- Description: More than 460 people have been arrested for supporting the banned group Palestine Action during protests.
+### HOMICIDE on 2025-08-10 01:48
+- Location: The Times of India
+- Description: Jonathan Ouellet-Gendron, a most wanted fugitive, was arrested at Montreal Airport. He was wanted for a 2022 Saskatoon homicide and drug charges. Police had been searching for him since May 2022. He was a suspect in Brandon Baxandall's death. Another person, …
 
-Analysis generated at: Mon Aug 11 01:17:18 UTC 2025
+Analysis generated at: Mon Aug 11 02:08:29 UTC 2025
