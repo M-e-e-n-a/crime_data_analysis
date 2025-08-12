@@ -1,10 +1,10 @@
 
-Loaded 50552 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-11 12:45:00
+Loaded 50648 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-11 18:21:18
 
 Incidents by source:
 source
-newsapi           50451
+newsapi           50547
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,38 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-08-11 12:45
-- Location: Newsweek
-- Description: President Donald Trump wrote on social media, "The Homeless have to move out, IMMEDIATELY," adding that criminals would be jailed.
+### OTHER on 2025-08-11 18:21
+- Location: Wnd.com
+- Description: 'He's actually trying to give his base red meat to get them off of the Epstein story and it's on the backs of citizens in Washington, D.C.'
 
 
-### OTHER on 2025-08-11 12:44
-- Location: NBC4 Washington
-- Description: DC takeover: Trump will federalize D.C.’s police department and deploy National Guard troops, he announced in historic restrictions on local control.
+### OTHER on 2025-08-11 18:20
+- Location: Thenation.com
+- Description: Chris Lehmann
 
 
-### SHOOTING on 2025-08-11 12:43
-- Location: The Times of India
-- Description: Following two shooting incidents outside Kapil Sharma's Canada café, Mumbai Police have heightened security for the comedian and his family. The increased protection comes after Salman Khan's appearance on 'The Great Indian Kapil Show,' reportedly drawing the…
+
+Trump has put the nation’s capital under federal occupation.
 
 
-### OTHER on 2025-08-11 12:35
-- Location: Billboard
-- Description: U2 issued group and individual statements about the Israel/Hamas war, calling for aid to the starving and an end to the two-year conflict.
 
 
-### SHOOTING on 2025-08-11 12:33
-- Location: The Times of India
-- Description: Kapil Sharma receives police protection in Mumbai. This follows a shooting incident at his restaurant, Kap's Cafe, in Surrey, Canada. The cafe was targeted twice in recent weeks. The first incident occurred on July 10. The second took place on August 8. Mumba…
+The post Washington, DC, Is Under a State of Siege appeared first on The Nation.
 
-Analysis generated at: Tue Aug 12 12:51:03 UTC 2025
+
+### OTHER on 2025-08-11 18:20
+- Location: ABC News
+- Description: The control expires in 30 days, unless the Senate and House back an extension.
+
+
+### ASSAULT on 2025-08-11 18:20
+- Location: Breitbart News
+- Description: President Donald Trump highlighted examples of crimes against public officials and lawlessness in Navy Yard in southeast Washington, DC, over the weekend during his announcement that the federal government is taking control of the Metropolitan Police Departme…
+
+
+### HOMICIDE on 2025-08-11 18:16
+- Location: Breitbart News
+- Description: An illegal alien MS-13 gang member, convicted of raping and murdering 37-year-old Rachel Morin — a mother of five children — in April, was sentenced to life in prison without the possibility of parole on Monday.
+The post Illegal Alien Sentenced to Life in Pri…
+
+Analysis generated at: Tue Aug 12 18:22:25 UTC 2025
