@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Aug 12 01:56:21 UTC 2025
+Last updated: Tue Aug 12 06:22:43 UTC 2025
 
 ## Latest Analysis
 
-Loaded 50413 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-11 01:41:39
+Loaded 50447 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-11 06:09:42
 
 Incidents by source:
 source
-newsapi           50312
+newsapi           50346
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,30 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-08-11 01:41
-- Location: Crikey
-- Description: Erin Patterson's alleged attempts to poison her husband in 2021 and 2022 are only the latest in a series of revelations that have been delayed by suppression orders.
-The post Penne, korma and a wrap: Erin Patterson and the wildest revelations hidden by suppre…
+### HOMICIDE on 2025-08-11 06:09
+- Location: Hurriyet Daily News
+- Description: Al Jazeera correspondents Anas al-Sharif and Mohamed Qraiqea were killed Sunday, along with three other Al Jazeera journalists, in an Israeli strike targeting a journalists’ tent near the Al-Shifa Hospital in western Gaza City, according to the Gaza Media Off…
 
 
-### OTHER on 2025-08-11 01:34
-- Location: WJLA
-- Description: Roughly 450 federal officers are expected to appear around D.C. late Sunday night into early Monday morning as Trump administration again lauds its efforts to c
-
-
-### SHOOTING on 2025-08-11 01:30
-- Location: CNN
-- Description: A tourist from the U.S. mainland who was visiting Puerto Rico for Bad Bunny’s residency was fatally shot early Sunday at La Perla, a popular seaside...
-
-
-### OTHER on 2025-08-11 01:26
-- Location: NBC4 Washington
-- Description: President Donald Trump is considering deploying up to 1,000 National Guard troops to D.C., according to one defense official and two U.S. officials.
-
-
-### HOMICIDE on 2025-08-11 01:23
+### HOMICIDE on 2025-08-11 06:02
 - Location: Mypeoplesreview.com
-- Description: Kathmandu, August 11: One person was killed and 49 others were seriously injured in a clash between inmates of Block […]
-The post Government negligence invited Kailali jail incident appeared first on Peoples' Review.
+- Description: Kathmandu, Aug. 11: Three Nepalis were killed in a suspected murder-suicide in Dallas, Texas. Police said the shooting happened at […]
+The post Suspected murder-suicide: Three Nepalis killed in Texas appeared first on Peoples' Review.
 
-Analysis generated at: Tue Aug 12 01:56:20 UTC 2025
+
+### ROBBERY/THEFT on 2025-08-11 06:02
+- Location: The Times of India
+- Description: Tamil Nadu Chief Minister MK Stalin has accused the BJP of manipulating the Election Commission for electoral gains, citing alleged vote theft in Bengaluru. He voiced support for Rahul Gandhi's protest march by INDIA bloc MPs to the ECI, demanding transparenc…
+
+
+### OTHER on 2025-08-11 06:00
+- Location: ETF Daily News
+- Description: Hippo Holdings Inc. (NYSE:HIPO – Free Report) – Analysts at B. Riley upped their Q3 2025 earnings per share (EPS) estimates for Hippo in a research report issued on Wednesday, August 6th. B. Riley analyst R. Binner now anticipates that the company will post e…
+
+
+### OTHER on 2025-08-11 06:00
+- Location: Newser
+- Description: Sources say the FBI is sending 120 agents to patrol the streets of Washington, DC, as President Trump threatens a federal crackdown on crime and vows to "clear out" the city's homeless—sparking tension between local and federal authorities over the future of …
+
+Analysis generated at: Tue Aug 12 06:22:43 UTC 2025
