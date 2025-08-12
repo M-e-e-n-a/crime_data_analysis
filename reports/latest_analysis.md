@@ -1,10 +1,10 @@
 
-Loaded 50542 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-11 12:28:36
+Loaded 50552 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-11 12:45:00
 
 Incidents by source:
 source
-newsapi           50441
+newsapi           50451
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2025-08-11 12:28
+### OTHER on 2025-08-11 12:45
+- Location: Newsweek
+- Description: President Donald Trump wrote on social media, "The Homeless have to move out, IMMEDIATELY," adding that criminals would be jailed.
+
+
+### OTHER on 2025-08-11 12:44
+- Location: NBC4 Washington
+- Description: DC takeover: Trump will federalize D.C.’s police department and deploy National Guard troops, he announced in historic restrictions on local control.
+
+
+### SHOOTING on 2025-08-11 12:43
 - Location: The Times of India
-- Description: Donald Trump is escalating efforts to combat crime in Washington, D.C., threatening a federal takeover and proposing measures like prosecuting young offenders as adults. This action follows a violent attack and Trump's long-standing criticism of the capital. …
+- Description: Following two shooting incidents outside Kapil Sharma's Canada café, Mumbai Police have heightened security for the comedian and his family. The increased protection comes after Salman Khan's appearance on 'The Great Indian Kapil Show,' reportedly drawing the…
 
 
-### OTHER on 2025-08-11 12:25
-- Location: CNN
-- Description: President Donald Trump will hold a news conference at the White House this morning addressing what he describes as his effort to end violent crime in Washington, DC, and clean up the capital. Follow for live updates.
+### OTHER on 2025-08-11 12:35
+- Location: Billboard
+- Description: U2 issued group and individual statements about the Israel/Hamas war, calling for aid to the starving and an end to the two-year conflict.
 
 
-### OTHER on 2025-08-11 12:25
-- Location: The Jerusalem Post
-- Description: Israel Police have detained a suspect who allegedly graffitied the Western Wall complex and the Great Synagogue with an antisemitic message. Antisemitic...
+### SHOOTING on 2025-08-11 12:33
+- Location: The Times of India
+- Description: Kapil Sharma receives police protection in Mumbai. This follows a shooting incident at his restaurant, Kap's Cafe, in Surrey, Canada. The cafe was targeted twice in recent weeks. The first incident occurred on July 10. The second took place on August 8. Mumba…
 
-
-### OTHER on 2025-08-11 12:22
-- Location: BBC News
-- Description: Two of the men are from the West Midlands, and were part of an organised crime group.
-
-
-### SHOOTING on 2025-08-11 12:22
-- Location: Syllad.com
-- Description: A picnic at Syntu Ksiar, Jowai, on August 10 ended in a serious shooting incident when a civilian was injured after allegedly handling a police officer’s service revolver. According to the FIR lodged at Jowai Police Station, verbal information was first recei…
-
-Analysis generated at: Tue Aug 12 12:30:06 UTC 2025
+Analysis generated at: Tue Aug 12 12:51:03 UTC 2025
