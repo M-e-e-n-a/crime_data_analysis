@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Aug 11 18:22:18 UTC 2025
+Last updated: Tue Aug 12 01:09:45 UTC 2025
 
 ## Latest Analysis
 
-Loaded 50386 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-10 18:18:00
+Loaded 50407 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-11 01:02:30
 
 Incidents by source:
 source
-newsapi           50285
+newsapi           50306
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-08-10 18:18
-- Location: New York Post
-- Description: Cierra Carroll claims the NYPD didn't act fast enough when she reported her 2-year-old son missing -- one day after he was tossed into the East River.
+### ASSAULT on 2025-08-11 01:02
+- Location: ABC News (AU)
+- Description: The 50-year-old has been hospitalised in a serious condition after he was allegedly stabbed by a burglar who police say assaulted his elderly father in Melbourne's north-west.
 
 
-### OTHER on 2025-08-10 18:12
-- Location: CBC News
-- Description: Search efforts are underway in Glace Bay to locate Colby MacIntosh, last seen leaving a bar in the area on Saturday evening.
-
-
-### OTHER on 2025-08-10 18:10
+### OTHER on 2025-08-11 01:00
 - Location: Screen Rant
-- Description: Discover 7 critically acclaimed Netflix original streaming shows that have flown under the radar despite their high quality and compelling storylines.
+- Description: One cast member from FX&#039;s The Bear has played six different characters in Dick Wolf&#039;s Law &amp; Order franchise over 20 years and three different shows.
 
 
-### DRUG RELATED on 2025-08-10 18:06
-- Location: Freerepublic.com
-- Description: President Trump has ordered the military to use force against the drug cartels that he designated as terrorist organizations on his first day in office.The New York Times reported the development this morning, a day after U.S. Attorney General Pam Bondi annou…
+### OTHER on 2025-08-11 01:00
+- Location: The Daily Dot
+- Description: Hundreds of honest Redditors came forward to share the events and people they witnessed that changed their political leanings. Sometimes, all it takes is a new experience or a scrap of information to shift one's perspective on life, or, more often, the ill-fa…
 
 
-### SHOOTING on 2025-08-10 18:02
-- Location: WPXI Pittsburgh
-- Description: A police spokesperson says witnesses told investigators the shooting happened after the two men got into a dispute.
+### HOMICIDE on 2025-08-11 00:57
+- Location: PEOPLE
+- Description: Kevin Mares "had a bright future ahead," his family said
 
-Analysis generated at: Mon Aug 11 18:22:18 UTC 2025
+
+### OTHER on 2025-08-11 00:56
+- Location: The Times of India
+- Description: President Trump has pledged to address homelessness and crime in Washington, D.C., despite Mayor Bowser's assertion that the city is not experiencing a crime spike. Trump plans to evict homeless individuals and jail criminals, raising questions about the lega…
+
+Analysis generated at: Tue Aug 12 01:09:45 UTC 2025
