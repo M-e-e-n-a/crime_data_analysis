@@ -1,10 +1,10 @@
 
-Loaded 50749 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-12 06:17:49
+Loaded 50837 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-12 12:30:18
 
 Incidents by source:
 source
-newsapi           50648
+newsapi           50736
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-08-12 06:17
-- Location: The Times of India
-- Description: Andhra Pradesh police filed a chargesheet regarding a Rs 3,500-crore liquor scam. The investigation revealed kickbacks were laundered using low-profile employees. These individuals deposited illicit cash into linked bank accounts. Some kickbacks were disguise…
+### HOMICIDE on 2025-08-12 12:30
+- Location: RTE
+- Description: A community in Co Down has been "shaken and upset deeply" by the attack on a priest and the death of a man at the weekend, a special mass has heard.
 
 
-### ASSAULT on 2025-08-12 06:16
-- Location: The Local Sweden
-- Description: Assault inquiry into Eurovision star Måns Zelmerlöw dropped, Swedish krona over-valued according to 'Big Mac Index', and other news from Sweden on Tuesday.
+### OTHER on 2025-08-12 12:30
+- Location: Fox News
+- Description: Rep. Barry Moore, R-Ala., touted his conservative bona fides as a member of the House Freedom Caucus and early endorser of President Donald Trump.
 
 
-### OTHER on 2025-08-12 06:02
-- Location: ETF Daily News
-- Description: Hippo Holdings Inc. (NYSE:HIPO – Free Report) – Analysts at William Blair upped their Q3 2025 earnings per share (EPS) estimates for Hippo in a research report issued on Thursday, August 7th. William Blair analyst A. Klauber now forecasts that the company wil…
+### ROBBERY/THEFT on 2025-08-12 12:29
+- Location: Freerepublic.com
+- Description: A Louisville woman was abducted from her home near The Oxmoor Center, along with her two children before being forced to withdraw $20,000 from a local bank at knifepoint Friday morning, police said. The suspect, Armond Langford, 32, was arrested later that da…
 
 
-### OTHER on 2025-08-12 06:00
-- Location: Naturalnews.com
-- Description: On Aug. 10, British opposition leader Nigel Farage declared a “national security emergency” following the interception of seven small boats carrying 435 migrants across the English Channel, bringing the total migrant crossings in 2025 to over 26,000. The surg…
+### OTHER on 2025-08-12 12:28
+- Location: Democracy Now!
+- Description: After announcing the federal takeover of law enforcement in D.C. in the White House briefing room, President Trump painted a grim picture of the capital — including “roving mobs of wild youth” — that contrasts with crime figures showing D.C. reached a 30-year…
 
 
-### OTHER on 2025-08-12 06:00
-- Location: Naturalnews.com
-- Description: Federalizing D.C.: President Trump proposes deploying the National Guard under Section 740 of the D.C. Home Rule Act, placing local police under federal control to combat crime and urban decay, with plans to expand to Democrat-led cities like Chicago and NYC.…
+### SHOOTING on 2025-08-12 12:23
+- Location: New York Post
+- Description: The man who attacked the CDC headquarters in Atlanta on Friday fired more than 180 shots, with bullets piercing “blast-resistant” windows and spattering glass shards into numerous room.
 
-Analysis generated at: Wed Aug 13 06:22:55 UTC 2025
+Analysis generated at: Wed Aug 13 12:30:34 UTC 2025
