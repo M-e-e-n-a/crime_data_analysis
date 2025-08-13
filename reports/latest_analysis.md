@@ -1,10 +1,10 @@
 
-Loaded 50679 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-12 01:58:10
+Loaded 50749 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-12 06:17:49
 
 Incidents by source:
 source
-newsapi           50578
+newsapi           50648
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-08-12 01:58
+### OTHER on 2025-08-12 06:17
 - Location: The Times of India
-- Description: Authorities have identified the suspect in the North Austin Target shooting that left three people dead. The 32-year-old man, with a history of mental health issues and prior offenses, was arrested in South Austin after fleeing in stolen vehicles. Police cont…
+- Description: Andhra Pradesh police filed a chargesheet regarding a Rs 3,500-crore liquor scam. The investigation revealed kickbacks were laundered using low-profile employees. These individuals deposited illicit cash into linked bank accounts. Some kickbacks were disguise…
 
 
-### OTHER on 2025-08-12 01:54
-- Location: New York Post
-- Description: The president has direct control over DC’s National Guard, unlike every other unit, which is under the authority of state governors.
+### ASSAULT on 2025-08-12 06:16
+- Location: The Local Sweden
+- Description: Assault inquiry into Eurovision star Måns Zelmerlöw dropped, Swedish krona over-valued according to 'Big Mac Index', and other news from Sweden on Tuesday.
 
 
-### OTHER on 2025-08-12 01:50
-- Location: CBS News
-- Description: Violent crime down 26% in D.C., but Trump says otherwise as he takes control of city's police; Nonprofit working to train people for available manufacturing jobs
+### OTHER on 2025-08-12 06:02
+- Location: ETF Daily News
+- Description: Hippo Holdings Inc. (NYSE:HIPO – Free Report) – Analysts at William Blair upped their Q3 2025 earnings per share (EPS) estimates for Hippo in a research report issued on Thursday, August 7th. William Blair analyst A. Klauber now forecasts that the company wil…
 
 
-### OTHER on 2025-08-12 01:18
-- Location: Freerepublic.com
-- Description: It’s no fun trying to run a business with liberals in control. In California, shoplifting has been effectively legalized. In NYC, crime itself is virtually legal thanks to bail reform, resulting in store shelves stripped bare. In formerly great Britain, the g…
+### OTHER on 2025-08-12 06:00
+- Location: Naturalnews.com
+- Description: On Aug. 10, British opposition leader Nigel Farage declared a “national security emergency” following the interception of seven small boats carrying 435 migrants across the English Channel, bringing the total migrant crossings in 2025 to over 26,000. The surg…
 
 
-### OTHER on 2025-08-12 01:18
-- Location: The Jerusalem Post
-- Description: The judge emphasized that there was no need to delay the investigation while the defendant remained in custody. A Jerusalem Magistrate's Court judge on...
+### OTHER on 2025-08-12 06:00
+- Location: Naturalnews.com
+- Description: Federalizing D.C.: President Trump proposes deploying the National Guard under Section 740 of the D.C. Home Rule Act, placing local police under federal control to combat crime and urban decay, with plans to expand to Democrat-led cities like Chicago and NYC.…
 
-Analysis generated at: Wed Aug 13 01:58:28 UTC 2025
+Analysis generated at: Wed Aug 13 06:22:55 UTC 2025
