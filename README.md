@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Aug 13 12:52:04 UTC 2025
+Last updated: Wed Aug 13 18:20:39 UTC 2025
 
 ## Latest Analysis
 
-Loaded 50842 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-12 12:49:33
+Loaded 50934 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-12 18:18:04
 
 Incidents by source:
 source
-newsapi           50741
+newsapi           50833
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-08-12 12:49
-- Location: Mediaite
-- Description: Huppke took aim at Trump’s digressions at a White House presser to claim that it’s “clear” the president has “caught Sleepy Joe Biden’s" cognitive decline.
-The post USA Today Columnist Says Trump Has ‘Caught’ a Case of ‘Sleepy Joe’ Decline: ‘The Man’s Brain H…
+### SHOOTING on 2025-08-12 18:18
+- Location: Freerepublic.com
+- Description: The man who fatally shot three people in the parking lot of a Target in Austin, Texas, was identified as 32-year-old Ethan Nieneker. Nineker has a criminal record and a “mental health history.” The shooting took place in the Target parking lot on Research Blv…
 
 
-### HOMICIDE on 2025-08-12 12:47
-- Location: TheJournal.ie
-- Description: Father John Murray was struck on the head in a brutal attack at St Patrick’s Church in Downpatrick on Sunday.
+### OTHER on 2025-08-12 18:15
+- Location: Raw Story
+- Description: Jeanine Pirro appeared on the local Washington, D.C. Fox outlet to complain about criminals being "rehabilitated with ice cream socials and yoga." Standing next to President Donald Trump on Monday for a press conference, Trump claimed that he was going to tak…
 
 
-### HOMICIDE on 2025-08-12 12:39
+### HOMICIDE on 2025-08-12 18:15
 - Location: The Times of India
-- Description: In a shocking case in Italy, Lorena Venier confessed to murdering and dismembering her son, Alessandro, with his wife, Mailyn Castro Monsalvo, allegedly involved in the planning. Venier claimed Monsalvo endured abuse from Alessandro, prompting the desperate a…
+- Description: Ethan Nieneker, 32, has been identified as the suspect in the deadly Target shooting in North Austin on August 11, which resulted in the deaths of three people, including a child. Nieneker, who has a history of mental health issues and a criminal record, is n…
 
 
-### HOMICIDE on 2025-08-12 12:31
-- Location: WPXI Pittsburgh
-- Description: Three people, including a child, were killed when a gunman opened fire at a Target store in Austin, Texas.
+### ROBBERY/THEFT on 2025-08-12 18:12
+- Location: The Times of India
+- Description: In 2002, NASA intern Thad Roberts orchestrated a daring moon rock theft. He and accomplices stole lunar samples worth millions from the Johnson Space Center. Roberts even performed a bizarre ritual with the rocks. An FBI sting operation recovered the stolen g…
 
 
-### SHOOTING on 2025-08-12 12:30
-- Location: Gizmodo.com
-- Description: The health czar has been criticized for how he handled the attack on the health agency.
+### HOMICIDE on 2025-08-12 18:08
+- Location: fox6now.com
+- Description: The Milwaukee County Medical Examiner's Office is investigating a death in Milwaukee's Historic Third Ward on Tuesday.
 
-Analysis generated at: Wed Aug 13 12:52:04 UTC 2025
+Analysis generated at: Wed Aug 13 18:20:39 UTC 2025
