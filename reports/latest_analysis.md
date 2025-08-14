@@ -1,10 +1,10 @@
 
-Loaded 51034 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-13 06:21:08
+Loaded 51122 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-13 12:30:07
 
 Incidents by source:
 source
-newsapi           50933
+newsapi           51021
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2025-08-13 06:21
-- Location: The Times of India
-- Description: Rahul Gandhi accuses the government of vote theft. He shares a video alleging voter fraud. Congress leaders met to plan a nationwide campaign against voter list manipulation. NSUI and Youth Congress activists protested against the Election Commission. They al…
+### OTHER on 2025-08-13 12:30
+- Location: Shtfplan.com
+- Description: President Trump has just made one of the most aggressive federal interventions in Washington, DC’s recent past. Described as “liberation day in DC”, the president has seized control of the city’s police force – for the first time in its history – and deployed…
 
 
-### OTHER on 2025-08-13 06:00
-- Location: Naturalnews.com
-- Description: Britain faces a growing clash over police use of biometric tools, as facial recognition scans of passport and immigration photos surge—with critics warning of overreach. Key Takeaways: U.K. law enforcement facial recognition use against passport photos surged…
+### OTHER on 2025-08-13 12:28
+- Location: Reason
+- Description: From Judge Karin Immergut (D. Or.) yesterday in Alhathloul v. DarkMatter Group: This case involves allegedly unlawful actions by Defendant…
+The post Saudi Activist's Claims Against Alleged Hackers for UAE Government Can Go Forward appeared first on Reason.com.
 
 
-### HOMICIDE on 2025-08-13 05:56
-- Location: The Indian Express
-- Description: The murder of Abohar businessman Sanjay Verma raises alarm over Punjab's law and order, with three gunmen evading the police, backed by the Lawrence Bishnoi gang. Investigations continue amidst political outrage and calls for justice.
+### HOMICIDE on 2025-08-13 12:26
+- Location: WSB Atlanta
+- Description: Police have identified the alleged gunman, who they said killed three people at a Texas Target.
 
 
-### OTHER on 2025-08-13 05:53
-- Location: BBC News
-- Description: Opposition parties have made allegations of electoral irregularities, which the India's poll body has denied.
+### OTHER on 2025-08-13 12:25
+- Location: Al Jazeera English
+- Description: Dean Cain’s leap from TV hero to immigration enforcer captures America’s embrace of fear as patriotism.
 
 
-### ROBBERY/THEFT on 2025-08-13 05:53
-- Location: BBC News
-- Description: Opposition parties have made allegations of electoral irregularities, which the India's poll body has denied.
+### HOMICIDE on 2025-08-13 12:23
+- Location: WFTV Orlando
+- Description: Police have identified the alleged gunman, who they said killed three people at a Texas Target.
 
-Analysis generated at: Thu Aug 14 06:23:02 UTC 2025
+Analysis generated at: Thu Aug 14 12:31:06 UTC 2025
