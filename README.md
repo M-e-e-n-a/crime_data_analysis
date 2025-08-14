@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Aug 14 01:58:43 UTC 2025
+Last updated: Thu Aug 14 06:23:02 UTC 2025
 
 ## Latest Analysis
 
-Loaded 50974 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-13 01:57:57
+Loaded 51034 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-13 06:21:08
 
 Incidents by source:
 source
-newsapi           50873
+newsapi           50933
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-08-13 01:57
-- Location: fox6now.com
-- Description: One person is dead and another is injured in different shootings in Milwaukee on Tuesday, Aug. 12.
-
-
-### OTHER on 2025-08-13 01:55
+### ROBBERY/THEFT on 2025-08-13 06:21
 - Location: The Times of India
-- Description: Chaos erupted at Sydney Airport on Wednesday when a police firearm discharged during the arrest of a man in a domestic terminal. The Australian Federal Police confirmed the arrest and launched an investigation, assuring the public there was no ongoing threat.…
+- Description: Rahul Gandhi accuses the government of vote theft. He shares a video alleging voter fraud. Congress leaders met to plan a nationwide campaign against voter list manipulation. NSUI and Youth Congress activists protested against the Election Commission. They al…
 
 
-### SHOOTING on 2025-08-13 01:52
-- Location: Fox News
-- Description: Body cam video from Uvalde school shooting reveals parents pleading with officers to act. Nearly 400 law enforcement waited over 70 minutes to respond.
+### OTHER on 2025-08-13 06:00
+- Location: Naturalnews.com
+- Description: Britain faces a growing clash over police use of biometric tools, as facial recognition scans of passport and immigration photos surge—with critics warning of overreach. Key Takeaways: U.K. law enforcement facial recognition use against passport photos surged…
 
 
-### OTHER on 2025-08-13 01:46
-- Location: New Zealand Herald
-- Description: Police chief addresses the impact of charges against his former deputy, Jevon McSkimming.
+### HOMICIDE on 2025-08-13 05:56
+- Location: The Indian Express
+- Description: The murder of Abohar businessman Sanjay Verma raises alarm over Punjab's law and order, with three gunmen evading the police, backed by the Lawrence Bishnoi gang. Investigations continue amidst political outrage and calls for justice.
 
 
-### ASSAULT on 2025-08-13 01:45
-- Location: Freerepublic.com
-- Description: President Trump has promised to move the homeless 'far away' from Washington DC, and now that federal agents are flooding the capital, local activists are outraged. More show notes: Protesters fight each other in DC over homeless. Locals upset over police/nat…
+### OTHER on 2025-08-13 05:53
+- Location: BBC News
+- Description: Opposition parties have made allegations of electoral irregularities, which the India's poll body has denied.
 
-Analysis generated at: Thu Aug 14 01:58:43 UTC 2025
+
+### ROBBERY/THEFT on 2025-08-13 05:53
+- Location: BBC News
+- Description: Opposition parties have made allegations of electoral irregularities, which the India's poll body has denied.
+
+Analysis generated at: Thu Aug 14 06:23:02 UTC 2025
