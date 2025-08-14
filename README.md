@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Aug 13 18:20:39 UTC 2025
+Last updated: Thu Aug 14 01:11:38 UTC 2025
 
 ## Latest Analysis
 
-Loaded 50934 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-12 18:18:04
+Loaded 50960 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-13 01:05:47
 
 Incidents by source:
 source
-newsapi           50833
+newsapi           50859
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-08-12 18:18
-- Location: Freerepublic.com
-- Description: The man who fatally shot three people in the parking lot of a Target in Austin, Texas, was identified as 32-year-old Ethan Nieneker. Nineker has a criminal record and a “mental health history.” The shooting took place in the Target parking lot on Research Blv…
+### OTHER on 2025-08-13 01:05
+- Location: Fox News
+- Description: Trump invokes federal control over D.C. police amid crime surge, with National Guard spotted leaving armory as authorities arrest 23 suspects
 
 
-### OTHER on 2025-08-12 18:15
-- Location: Raw Story
-- Description: Jeanine Pirro appeared on the local Washington, D.C. Fox outlet to complain about criminals being "rehabilitated with ice cream socials and yoga." Standing next to President Donald Trump on Monday for a press conference, Trump claimed that he was going to tak…
+### HOMICIDE on 2025-08-13 01:00
+- Location: Fox News
+- Description: Jeanine Pirro defended D.C. crime response efforts by referencing families of murder victims and assault cases during heated media exchange.
 
 
-### HOMICIDE on 2025-08-12 18:15
-- Location: The Times of India
-- Description: Ethan Nieneker, 32, has been identified as the suspect in the deadly Target shooting in North Austin on August 11, which resulted in the deaths of three people, including a child. Nieneker, who has a history of mental health issues and a criminal record, is n…
+### SHOOTING on 2025-08-13 00:59
+- Location: 2paxfly.com
+- Description: An intense scene unfolded this morning around 6am, Wednesday 13 August at Sydney Airport’s Terminal 2 (T2). A man was arrested adjacent to gate 49, metres away from the busy food court. The man had attempted to grab a firearm from an Australian Federal Police…
 
 
-### ROBBERY/THEFT on 2025-08-12 18:12
-- Location: The Times of India
-- Description: In 2002, NASA intern Thad Roberts orchestrated a daring moon rock theft. He and accomplices stole lunar samples worth millions from the Johnson Space Center. Roberts even performed a bizarre ritual with the rocks. An FBI sting operation recovered the stolen g…
+### OTHER on 2025-08-13 00:59
+- Location: New Zealand Herald
+- Description: Family members of the woman were in court to support her.
 
 
-### HOMICIDE on 2025-08-12 18:08
-- Location: fox6now.com
-- Description: The Milwaukee County Medical Examiner's Office is investigating a death in Milwaukee's Historic Third Ward on Tuesday.
+### HOMICIDE on 2025-08-13 00:57
+- Location: KEYE TV CBS Austin
+- Description: 32-year-old Ethan Nieneker is charged with two counts of capital murder and first-degree murder in Monday's Target shooting. He may also face additional charges
 
-Analysis generated at: Wed Aug 13 18:20:39 UTC 2025
+Analysis generated at: Thu Aug 14 01:11:38 UTC 2025
