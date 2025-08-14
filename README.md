@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Aug 14 01:11:38 UTC 2025
+Last updated: Thu Aug 14 01:58:43 UTC 2025
 
 ## Latest Analysis
 
-Loaded 50960 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-13 01:05:47
+Loaded 50974 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-13 01:57:57
 
 Incidents by source:
 source
-newsapi           50859
+newsapi           50873
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-08-13 01:05
+### HOMICIDE on 2025-08-13 01:57
+- Location: fox6now.com
+- Description: One person is dead and another is injured in different shootings in Milwaukee on Tuesday, Aug. 12.
+
+
+### OTHER on 2025-08-13 01:55
+- Location: The Times of India
+- Description: Chaos erupted at Sydney Airport on Wednesday when a police firearm discharged during the arrest of a man in a domestic terminal. The Australian Federal Police confirmed the arrest and launched an investigation, assuring the public there was no ongoing threat.…
+
+
+### SHOOTING on 2025-08-13 01:52
 - Location: Fox News
-- Description: Trump invokes federal control over D.C. police amid crime surge, with National Guard spotted leaving armory as authorities arrest 23 suspects
+- Description: Body cam video from Uvalde school shooting reveals parents pleading with officers to act. Nearly 400 law enforcement waited over 70 minutes to respond.
 
 
-### HOMICIDE on 2025-08-13 01:00
-- Location: Fox News
-- Description: Jeanine Pirro defended D.C. crime response efforts by referencing families of murder victims and assault cases during heated media exchange.
-
-
-### SHOOTING on 2025-08-13 00:59
-- Location: 2paxfly.com
-- Description: An intense scene unfolded this morning around 6am, Wednesday 13 August at Sydney Airport’s Terminal 2 (T2). A man was arrested adjacent to gate 49, metres away from the busy food court. The man had attempted to grab a firearm from an Australian Federal Police…
-
-
-### OTHER on 2025-08-13 00:59
+### OTHER on 2025-08-13 01:46
 - Location: New Zealand Herald
-- Description: Family members of the woman were in court to support her.
+- Description: Police chief addresses the impact of charges against his former deputy, Jevon McSkimming.
 
 
-### HOMICIDE on 2025-08-13 00:57
-- Location: KEYE TV CBS Austin
-- Description: 32-year-old Ethan Nieneker is charged with two counts of capital murder and first-degree murder in Monday's Target shooting. He may also face additional charges
+### ASSAULT on 2025-08-13 01:45
+- Location: Freerepublic.com
+- Description: President Trump has promised to move the homeless 'far away' from Washington DC, and now that federal agents are flooding the capital, local activists are outraged. More show notes: Protesters fight each other in DC over homeless. Locals upset over police/nat…
 
-Analysis generated at: Thu Aug 14 01:11:38 UTC 2025
+Analysis generated at: Thu Aug 14 01:58:43 UTC 2025
