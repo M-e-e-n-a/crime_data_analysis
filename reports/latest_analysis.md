@@ -1,10 +1,10 @@
 
-Loaded 51122 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-13 12:30:07
+Loaded 51128 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-13 12:49:02
 
 Incidents by source:
 source
-newsapi           51021
+newsapi           51027
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-08-13 12:30
-- Location: Shtfplan.com
-- Description: President Trump has just made one of the most aggressive federal interventions in Washington, DC’s recent past. Described as “liberation day in DC”, the president has seized control of the city’s police force – for the first time in its history – and deployed…
+### ROBBERY/THEFT on 2025-08-13 12:49
+- Location: PetaPixel
+- Description: A TV news crew's camera was stolen while they were filming a segment on the rising street thefts in London.
+[Read More]
 
 
-### OTHER on 2025-08-13 12:28
-- Location: Reason
-- Description: From Judge Karin Immergut (D. Or.) yesterday in Alhathloul v. DarkMatter Group: This case involves allegedly unlawful actions by Defendant…
-The post Saudi Activist's Claims Against Alleged Hackers for UAE Government Can Go Forward appeared first on Reason.com.
+### HOMICIDE on 2025-08-13 12:48
+- Location: WLKY Louisville
+- Description: A woman was shot to death while walking a child to a bus stop in west Louisville, and police have a teen suspect in custody.
 
 
-### HOMICIDE on 2025-08-13 12:26
-- Location: WSB Atlanta
-- Description: Police have identified the alleged gunman, who they said killed three people at a Texas Target.
+### OTHER on 2025-08-13 12:42
+- Location: The Week Magazine
+- Description: The government is rolling out more live facial recognition technology across England
 
 
-### OTHER on 2025-08-13 12:25
-- Location: Al Jazeera English
-- Description: Dean Cain’s leap from TV hero to immigration enforcer captures America’s embrace of fear as patriotism.
+### OTHER on 2025-08-13 12:41
+- Location: BBC News
+- Description: Police shared the number in an update sent to victims of the late Harrods owner's predatory behaviour
 
 
-### HOMICIDE on 2025-08-13 12:23
-- Location: WFTV Orlando
-- Description: Police have identified the alleged gunman, who they said killed three people at a Texas Target.
+### SHOOTING on 2025-08-13 12:40
+- Location: HuffPost
+- Description: The health secretary is one of the country's most prominent vaccine skeptics and has previously labeled the agency as a "cesspool of corruption."
 
-Analysis generated at: Thu Aug 14 12:31:06 UTC 2025
+Analysis generated at: Thu Aug 14 12:52:33 UTC 2025
