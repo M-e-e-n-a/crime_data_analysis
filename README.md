@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Aug 15 12:28:58 UTC 2025
+Last updated: Fri Aug 15 12:48:49 UTC 2025
 
 ## Latest Analysis
 
-Loaded 51370 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-14 12:28:24
+Loaded 51377 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-14 12:48:03
 
 Incidents by source:
 source
-newsapi           51269
+newsapi           51276
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-08-14 12:28
-- Location: YLE News
-- Description: A senior prosecutor tells Yle that the sentences handed down by Finnish courts for violent crimes are too lenient — and that this sends a clear message to criminals and perpetrators.
+### OTHER on 2025-08-14 12:48
+- Location: Freerepublic.com
+- Description: We’ve come to expect that no matter what President Donald Trump says or does these days, the mainstream press will rush out to say he’s wrong. So, we weren’t the least bit surprised when, after Trump said crime in the nation’s capital is out of control and ca…
 
 
-### ASSAULT on 2025-08-14 12:27
-- Location: Fox News
-- Description: Senate Minority Leader Chuck Schumer vowed Democrats will fight "tooth and nail" against President Donald Trump's request to extend federal control over D.C. police beyond 30 days.
-
-
-### HOMICIDE on 2025-08-14 12:17
-- Location: Democracy Now!
-- Description: As President Trump threatens to use U.S. special forces against drug cartels abroad, a new book, The Fort Bragg Cartel: Drug Trafficking and Murder in the Special Forces, reveals some of the most secretive and elite special forces in the Army are heavily invo…
-
-
-### ASSAULT on 2025-08-14 12:14
+### SHOOTING on 2025-08-14 12:40
 - Location: Breitbart News
-- Description: “Liberty gives people who oppose liberty — evil people – the freedom to destroy it.” That’s radio and Fox News host Mark Levin’s take on why free societies are attacked by those who, like leftist New York City mayoral candidate
-The post Mark Levin on Schweize…
+- Description: Twanda Willingham is suing the city of Chicago after being shot with a pistol that had been "relinquished to Chicago police at a gun turn-in event," according to the NRA-ILA.
+The post Woman Sues Chicago After Being Shot by Gun from Buyback Program appeared fi…
 
 
-### HOMICIDE on 2025-08-14 12:00
-- Location: The Denver Post
-- Description: Denver police arrested a second suspect in a July shooting that injured four people near Coors Field, officials said Wednesday.
+### OTHER on 2025-08-14 12:38
+- Location: Biztoc.com
 
-Analysis generated at: Fri Aug 15 12:28:58 UTC 2025
+
+### HOMICIDE on 2025-08-14 12:34
+- Location: Fox News
+- Description: Nicholas Rossi, who is accused of faking his own death and fleeing the country to avoid sexual assault charges, was convicted Wednesday of first-degree felony rape. He will be sentenced in October.
+
+
+### DRUG RELATED on 2025-08-14 12:32
+- Location: Fox News
+- Description: New Mexico’s Democrat governor on Wednesday declared a state of emergency over rampant violence and drug trafficking in a large swath of her state.
+
+Analysis generated at: Fri Aug 15 12:48:49 UTC 2025
