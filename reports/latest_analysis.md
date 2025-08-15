@@ -1,10 +1,10 @@
 
-Loaded 51214 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-13 18:20:05
+Loaded 51227 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-14 01:01:57
 
 Incidents by source:
 source
-newsapi           51113
+newsapi           51126
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-08-13 18:20
-- Location: Variety
-- Description: For Jussie Smollett, there are clear-cut perpetrators in the story of the 2019 case that sent his once-ascendant career into a death spiral. “The villains are the two people who assaulted me, the Chicago Police Department and, if I may be so brave, the mayor,…
+### ROBBERY/THEFT on 2025-08-14 01:01
+- Location: Tubefilter
+- Description: Roblox has permabanned and threatened to sue YouTuber Schlep for conducting child predator hunts on its platform. Civilians trying to catch criminals is Civilians trying to catch criminals is far from a new phenomenon, but it's become increasingly popular on …
 
 
-### OTHER on 2025-08-13 18:19
-- Location: ABC News
-- Description: Actress Danielle Spencer, best known for her role as Dee Thomas on the 1970s sitcom "What's Happening!!," has died after a long battle with cancer.
+### ASSAULT on 2025-08-14 01:00
+- Location: WSB Atlanta
+- Description: Bozi was rescued by the Animal Welfare Friends shelter in April after being listed for euthanasia at a shelter here in Georgia.
 
 
-### OTHER on 2025-08-13 18:18
-- Location: Slate Magazine
-- Description: According to Donald Trump, Washington, D.C., is a hellscape. It’s ridden with crime driven by “bloodthirsty criminals” and “roving mobs of wild youth.”
+### SHOOTING on 2025-08-14 01:00
+- Location: Thegatewaypundit.com
+- Description: There are reports of at least one deputy shot in Pittsylvania County, Virginia, on Wednesday evening.
+The post BREAKING UPDATE: Multiple Deputies Shot Attempting to Serve Warrants at Home in Pittsylvania County, Virginia appeared first on The Gateway Pundit.
 
 
-### OTHER on 2025-08-13 18:18
-- Location: The Conversation Africa
-- Description: Targeting adult NSFW video games could have knock-on effects on queer creators and sexual education content.
+### OTHER on 2025-08-14 01:00
+- Location: Chinadigitaltimes.net
+- Description: In March, despite questionable jurisdiction, Xinjiang authorities hit Yunnan-based independent filmmaker Guo Zhenming with a 75,000 yuan (US$10,300) fine and the confiscation of some of his equipment for alleged "unauthorized filmmaking." Guo had previously b…
 
 
-### HOMICIDE on 2025-08-13 18:08
-- Location: The Irish Times
-- Description: Ryan Ndede (24) remanded in continuing custody in Belfast
+### HOMICIDE on 2025-08-14 00:44
+- Location: ABC News (AU)
+- Description: It is believed Annette Brennan's body was put into a wheelie bin that was collected from a home in Coolaroo in 2024.
 
-Analysis generated at: Thu Aug 14 18:21:43 UTC 2025
+Analysis generated at: Fri Aug 15 01:11:58 UTC 2025
