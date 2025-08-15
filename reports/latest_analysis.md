@@ -1,10 +1,10 @@
 
-Loaded 51227 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-14 01:01:57
+Loaded 51235 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-14 01:59:15
 
 Incidents by source:
 source
-newsapi           51126
+newsapi           51134
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2025-08-14 01:01
-- Location: Tubefilter
-- Description: Roblox has permabanned and threatened to sue YouTuber Schlep for conducting child predator hunts on its platform. Civilians trying to catch criminals is Civilians trying to catch criminals is far from a new phenomenon, but it's become increasingly popular on …
+### OTHER on 2025-08-14 01:59
+- Location: Acecomments.mu.nu
+- Description: Good evening Horde. The time has come for mid-week shenanigans of the overnight variety. Welcome to the Wednesday night ONT. Pull up a chair and sit a spell. Be nice to your fellow commenters and AoS contributors....
 
 
-### ASSAULT on 2025-08-14 01:00
-- Location: WSB Atlanta
-- Description: Bozi was rescued by the Animal Welfare Friends shelter in April after being listed for euthanasia at a shelter here in Georgia.
+### OTHER on 2025-08-14 01:56
+- Location: CNN
+- Description: A man was charged Wednesday after allegedly throwing a sandwich at a federal law enforcement officer in Washington, DC, amid President Donald Trump’s takeover of the city’s police and increase in federal law enforcement presence.
 
 
-### SHOOTING on 2025-08-14 01:00
-- Location: Thegatewaypundit.com
-- Description: There are reports of at least one deputy shot in Pittsylvania County, Virginia, on Wednesday evening.
-The post BREAKING UPDATE: Multiple Deputies Shot Attempting to Serve Warrants at Home in Pittsylvania County, Virginia appeared first on The Gateway Pundit.
+### SHOOTING on 2025-08-14 01:42
+- Location: RT
+- Description: Read Full Article at RT.com
 
 
-### OTHER on 2025-08-14 01:00
-- Location: Chinadigitaltimes.net
-- Description: In March, despite questionable jurisdiction, Xinjiang authorities hit Yunnan-based independent filmmaker Guo Zhenming with a 75,000 yuan (US$10,300) fine and the confiscation of some of his equipment for alleged "unauthorized filmmaking." Guo had previously b…
+### OTHER on 2025-08-14 01:27
+- Location: Crikey
+- Description: Events in the past few days have necessitated a new instalment.
+The post Trump’s checklist for establishing a fascist government (Part IV) appeared first on Crikey.
 
 
-### HOMICIDE on 2025-08-14 00:44
-- Location: ABC News (AU)
-- Description: It is believed Annette Brennan's body was put into a wheelie bin that was collected from a home in Coolaroo in 2024.
+### HOMICIDE on 2025-08-14 01:23
+- Location: The Daily Caller
+- Description: The Daily Beast published a story appearing to criticize DeSantis' approval of executions for five veterans found guilty of rape and murder.
 
-Analysis generated at: Fri Aug 15 01:11:58 UTC 2025
+Analysis generated at: Fri Aug 15 01:59:28 UTC 2025
