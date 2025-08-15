@@ -1,10 +1,10 @@
 
-Loaded 51286 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-14 06:00:00
+Loaded 51370 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-14 12:28:24
 
 Incidents by source:
 source
-newsapi           51185
+newsapi           51269
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-08-14 06:00
-- Location: Naturalnews.com
-- Description: President Donald Trump warned he may declare a national emergency to maintain federal control over Washington, D.C.’s police force if Congress doesn’t extend the 30-day authorization granted earlier, bypassing legislative approval if necessary. Trump invoked …
+### OTHER on 2025-08-14 12:28
+- Location: YLE News
+- Description: A senior prosecutor tells Yle that the sentences handed down by Finnish courts for violent crimes are too lenient — and that this sends a clear message to criminals and perpetrators.
 
 
-### HOMICIDE on 2025-08-14 05:55
-- Location: New York Post
-- Description: The Las Vegas school district, where a group of brutes fatally beat a 17-year-old classmate, rehired its former principal and promoted her to a higher administrative position after her abrupt retirement following backlash over the deadly attack.
+### ASSAULT on 2025-08-14 12:27
+- Location: Fox News
+- Description: Senate Minority Leader Chuck Schumer vowed Democrats will fight "tooth and nail" against President Donald Trump's request to extend federal control over D.C. police beyond 30 days.
 
 
-### SHOOTING on 2025-08-14 05:50
-- Location: The Times of India
-- Description: In Virginia, three sheriff's deputies got injured during a gunfire exchange. They were serving warrants related to firearm brandishing and trespassing. The incident occurred in Pittsylvania County. The standoff concluded peacefully with the suspect in custody…
+### HOMICIDE on 2025-08-14 12:17
+- Location: Democracy Now!
+- Description: As President Trump threatens to use U.S. special forces against drug cartels abroad, a new book, The Fort Bragg Cartel: Drug Trafficking and Murder in the Special Forces, reveals some of the most secretive and elite special forces in the Army are heavily invo…
 
 
-### HOMICIDE on 2025-08-14 05:49
-- Location: ABC News (AU)
-- Description: Police arrest and charge a 67-year-old man over the 1994 murder of 24-year-old Castlemaine woman Samantha Mizzi.
+### ASSAULT on 2025-08-14 12:14
+- Location: Breitbart News
+- Description: “Liberty gives people who oppose liberty — evil people – the freedom to destroy it.” That’s radio and Fox News host Mark Levin’s take on why free societies are attacked by those who, like leftist New York City mayoral candidate
+The post Mark Levin on Schweize…
 
 
-### OTHER on 2025-08-14 05:48
-- Location: The Conversation Africa
-- Description: Russia and China have started to bring the Taliban in from the cold. The international community may soon have little leverage to pressure the group to change.
+### HOMICIDE on 2025-08-14 12:00
+- Location: The Denver Post
+- Description: Denver police arrested a second suspect in a July shooting that injured four people near Coors Field, officials said Wednesday.
 
-Analysis generated at: Fri Aug 15 06:22:40 UTC 2025
+Analysis generated at: Fri Aug 15 12:28:58 UTC 2025
