@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Aug 15 12:48:49 UTC 2025
+Last updated: Fri Aug 15 18:21:28 UTC 2025
 
 ## Latest Analysis
 
-Loaded 51377 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-14 12:48:03
+Loaded 51469 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-14 18:20:25
 
 Incidents by source:
 source
-newsapi           51276
+newsapi           51368
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-08-14 12:48
-- Location: Freerepublic.com
-- Description: We’ve come to expect that no matter what President Donald Trump says or does these days, the mainstream press will rush out to say he’s wrong. So, we weren’t the least bit surprised when, after Trump said crime in the nation’s capital is out of control and ca…
+### OTHER on 2025-08-14 18:20
+- Location: Thegatewaypundit.com
+- Description: Federal and local authorities set up a checkpoint Wednesday night in Washington, D.C., stopping cars for seat belt violations and broken taillights.
+The post Protesters Tell ICE to “Read the Constitution,” But Their Actions Are Constitutional appeared first o…
 
 
-### SHOOTING on 2025-08-14 12:40
-- Location: Breitbart News
-- Description: Twanda Willingham is suing the city of Chicago after being shot with a pistol that had been "relinquished to Chicago police at a gun turn-in event," according to the NRA-ILA.
-The post Woman Sues Chicago After Being Shot by Gun from Buyback Program appeared fi…
+### OTHER on 2025-08-14 18:20
+- Location: esquire.com
+- Description: A recent deposition added even more fuel to the MAGA vs. MAGA fire.
 
 
-### OTHER on 2025-08-14 12:38
-- Location: Biztoc.com
+### OTHER on 2025-08-14 18:16
+- Location: CNN
+- Description: Fear and confusion are spreading within Washington, DC’s homeless population at the start of President Donald Trump’s crackdown on encampments.
 
 
-### HOMICIDE on 2025-08-14 12:34
-- Location: Fox News
-- Description: Nicholas Rossi, who is accused of faking his own death and fleeing the country to avoid sexual assault charges, was convicted Wednesday of first-degree felony rape. He will be sentenced in October.
+### OTHER on 2025-08-14 18:13
+- Location: TheWrap
+- Description: "There's some who think this is good. Others say this is worrisome," Jonathan Lemire says
+The post ‘Morning Joe’ Explains Why Trump’s DC Takeover Is Both a Trap and Opportunity for Democrats: ‘Very Tricky’ | Video appeared first on TheWrap.
 
 
-### DRUG RELATED on 2025-08-14 12:32
-- Location: Fox News
-- Description: New Mexico’s Democrat governor on Wednesday declared a state of emergency over rampant violence and drug trafficking in a large swath of her state.
+### OTHER on 2025-08-14 18:11
+- Location: Bikeportland.org
+- Description: "The diverters have inadvertently created a shielded environment" for offenders.
 
-Analysis generated at: Fri Aug 15 12:48:49 UTC 2025
+Analysis generated at: Fri Aug 15 18:21:28 UTC 2025
