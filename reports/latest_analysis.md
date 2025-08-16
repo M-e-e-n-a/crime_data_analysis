@@ -1,10 +1,10 @@
 
-Loaded 51495 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-15 01:53:39
+Loaded 51559 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-15 06:16:00
 
 Incidents by source:
 source
-newsapi           51394
+newsapi           51458
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,30 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-08-15 01:53
-- Location: Slashdot.org
-- Description: All National Guard Troops Sent to Washington Are Mobilized, Pentagon SaysThe New York Times WATCH: National Guard humvees, roughly 30 troops stand guard outside DC's Union Station amid police takeoverFox News ‘These are human beings’: Religious leaders critic…
+### OTHER on 2025-08-15 06:16
+- Location: Globalsecurity.org
+- Description: Today, the Department of the Treasury's Office of Foreign Assets Control (OFAC) is re-designating the cryptocurrency exchange Garantex Europe OU(Garantex), which has directly facilitated notorious ransomware actors and other cybercriminals by processing over …
 
 
-### OTHER on 2025-08-15 01:47
-- Location: Breitbart News
-- Description: Representative Jamie Raskin (D-MD) said Thursday on MSNBC's "All In" that people were "opposing monarchy and police domination" by President Donald Trump.
-The post Raskin: ‘People Are Opposing Monarchy and Police Domination by Donald Trump’ appeared first on …
+### DRUG RELATED on 2025-08-15 06:15
+- Location: Globalsecurity.org
+- Description: A Honduran national was sentenced today to over 18 years in prison for participating in an international drug trafficking conspiracy.
 
 
-### OTHER on 2025-08-15 01:39
-- Location: Mediaite
-- Description: Journalist Batya Ungar-Sargon and host Raymond Arroyo laughed at Democrats for opposing Trump's crackdown in D.C., saying it will definitely hurt their party.
-The post ‘Cannot Stop Laughing!’ Fox Guest Roasts Democrats Making ‘Safe Streets’ and ‘Liking Hot Pe…
+### OTHER on 2025-08-15 06:15
+- Location: International Business Times
+- Description: All 800 National Guard troops who were ordered to the US capital Washington to aid law enforcement personnel by President Donald Trump have now been mobilized, the Pentagon said Thursday.
 
 
-### OTHER on 2025-08-15 01:37
-- Location: HuffPost
-- Description: Harry Enten said Trump is "towering over" Joe Biden like "Air Jordan" on the issue.
+### OTHER on 2025-08-15 06:00
+- Location: Naturalnews.com
+- Description: Imagine a world where a silent prayer lands you in court, where a meme earns you a prison sentence, and where the government monitors your social media posts—not for threats of violence, but for wrong-think. This isn’t the plot of a dystopian novel; it’s mode…
 
 
-### OTHER on 2025-08-15 01:35
-- Location: Thechronicle.com.gh
-- Description: Otumfu Osei Tutu II, Asantehene, Asanteman, Nananom damirifa due.  Due – due ne amanehunu, Yɛn nyinaa yɛn Nana, Asantehemaa Nana Amma Konadu Yiadom III kɔ akuraa, Nana da yie. Shocking! Tragic! Horrible! Devastating! Catastrophic! Disastrous! Harrowing! Heart…
+### OTHER on 2025-08-15 06:00
+- Location: Naturalnews.com
+- Description: D.C. Police Union Chairman Gregg Pemberton publicly backed President Donald Trump’s federal takeover of the Metropolitan Police Department (MPD), calling it a necessary response to “out of control” crime and officer understaffing. On Aug. 11, Trump signed an …
 
-Analysis generated at: Sat Aug 16 01:53:56 UTC 2025
+Analysis generated at: Sat Aug 16 06:20:21 UTC 2025
