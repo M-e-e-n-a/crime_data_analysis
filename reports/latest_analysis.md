@@ -1,10 +1,10 @@
 
-Loaded 51646 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-15 12:17:36
+Loaded 51653 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-15 12:45:33
 
 Incidents by source:
 source
-newsapi           51545
+newsapi           51552
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-08-15 12:17
+### ASSAULT on 2025-08-15 12:45
+- Location: Rogerebert.com
+- Description: In its interrogation of a system and police force whose inherent racism forces Black folks to tell anything but the truth, it never pulls a new lever or uncovers a new line of attack.
+
+
+### HOMICIDE on 2025-08-15 12:42
+- Location: BBC News
+- Description: A woman, 73, is found dead after police are called to an address in Bethnal Green.
+
+
+### DRUG RELATED on 2025-08-15 12:41
 - Location: Fortune
-- Description: "This is an example of the Deep State we have been up against for seven months as we work to refocus DOJ," Bondi wrote on social media.
+- Description: Gov. Michelle Lujan Grisham, a Democrat, is responding to violent crime and drug trafficking across a swath of northern New Mexico, including two Native American pueblo communities.
 
 
-### SHOOTING on 2025-08-15 12:13
-- Location: Substack.com
-- Description: How 16 Senators Accidentally Saved Democracy (Then Watched It Die)
+### OTHER on 2025-08-15 12:30
+- Location: Shtfplan.com
+- Description: “The whole aim of practical politics is to keep the populace alarmed (and hence clamorous to be led to safety) by an endless series of hobgoblins, most of them imaginary.”—H.L. Mencken
 
 
-### OTHER on 2025-08-15 12:05
-- Location: Cointelegraph
-- Description: Czech police have reportedly arrested darknet founder Tomas Jirikovsky in a $45 million Bitcoin bribery case tied to former Justice Minister Pavel Blazek’s resignation.
+### OTHER on 2025-08-15 12:30
+- Location: Breitbart News
+- Description: Alec Baldwin is afraid. Very, very afraid. The actor is riven with fears for the future of the U.S. in the wake of Donald Trump's successful push to increase federal law enforcement across Washington, DC, embracing the conspiracy theory that the president wil…
 
-
-### OTHER on 2025-08-15 12:00
-- Location: ABC News
-- Description: President Trump vowed this week to rid Washington, D.C. of homeless encampments, issuing a warning that the "homeless have to move out, IMMEDIATELY."
-
-
-### HOMICIDE on 2025-08-15 12:00
-- Location: International Business Times
-- Description: The cutting down of an olive tree planted in memory of a young French Jewish man tortured to death in 2006 stirred outrage in France on Friday, with President Emmanuel Macron vowing punishment over an act of antisemitic "hatred".
-
-Analysis generated at: Sat Aug 16 12:27:17 UTC 2025
+Analysis generated at: Sat Aug 16 12:45:45 UTC 2025
