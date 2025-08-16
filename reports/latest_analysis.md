@@ -1,10 +1,10 @@
 
-Loaded 51486 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-15 00:46:58
+Loaded 51495 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-15 01:53:39
 
 Incidents by source:
 source
-newsapi           51385
+newsapi           51394
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,32 +20,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-08-15 00:46
-- Location: Fox News
-- Description: National Guard troops scaled up their presence in D.C. Thursday, with several stationed around the National Mall, at Union Station, on the subway, and other places.
+### OTHER on 2025-08-15 01:53
+- Location: Slashdot.org
+- Description: All National Guard Troops Sent to Washington Are Mobilized, Pentagon SaysThe New York Times WATCH: National Guard humvees, roughly 30 troops stand guard outside DC's Union Station amid police takeoverFox News ‘These are human beings’: Religious leaders critic…
 
 
-### OTHER on 2025-08-15 00:38
-- Location: Gothamist
-- Description: Entrance to the U.S. Immigration and Customs Enforcement's (ICE) New York Headquarters at 26 Federal Plaza in Manhattan.
- 
-
-Officials say no one was injured after the letters were found in ICE offices Thursday afternoon. [ more › ]
-
-
-### OTHER on 2025-08-15 00:33
+### OTHER on 2025-08-15 01:47
 - Location: Breitbart News
-- Description: During an interview with CBS on Thursday, U.S. Marshals Service Director Gady Serralta said that Washington, D.C. has to eliminate cashless bail to eliminate crime and if they did that and made progress on holding people in jail, “absolutely, there will
-The p…
+- Description: Representative Jamie Raskin (D-MD) said Thursday on MSNBC's "All In" that people were "opposing monarchy and police domination" by President Donald Trump.
+The post Raskin: ‘People Are Opposing Monarchy and Police Domination by Donald Trump’ appeared first on …
 
 
-### SHOOTING on 2025-08-15 00:31
-- Location: Yahoo Entertainment
-- Description: A group of former U.S. Centers for Disease Control and Prevention (CDC) employees are blaming HHS Secretary Robert F. Kennedy Jr. for vilifying the agency’s ...
+### OTHER on 2025-08-15 01:39
+- Location: Mediaite
+- Description: Journalist Batya Ungar-Sargon and host Raymond Arroyo laughed at Democrats for opposing Trump's crackdown in D.C., saying it will definitely hurt their party.
+The post ‘Cannot Stop Laughing!’ Fox Guest Roasts Democrats Making ‘Safe Streets’ and ‘Liking Hot Pe…
 
 
-### HOMICIDE on 2025-08-15 00:31
-- Location: Buzzfeed
-- Description: "When did I know? I knew the moment I was six and the bad times began. I thought I'd be his first victim."View Entire Post ›
+### OTHER on 2025-08-15 01:37
+- Location: HuffPost
+- Description: Harry Enten said Trump is "towering over" Joe Biden like "Air Jordan" on the issue.
 
-Analysis generated at: Sat Aug 16 01:08:24 UTC 2025
+
+### OTHER on 2025-08-15 01:35
+- Location: Thechronicle.com.gh
+- Description: Otumfu Osei Tutu II, Asantehene, Asanteman, Nananom damirifa due.  Due – due ne amanehunu, Yɛn nyinaa yɛn Nana, Asantehemaa Nana Amma Konadu Yiadom III kɔ akuraa, Nana da yie. Shocking! Tragic! Horrible! Devastating! Catastrophic! Disastrous! Harrowing! Heart…
+
+Analysis generated at: Sat Aug 16 01:53:56 UTC 2025
