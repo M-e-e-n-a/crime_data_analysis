@@ -1,10 +1,10 @@
 
-Loaded 51653 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-15 12:45:33
+Loaded 51747 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-15 18:15:15
 
 Incidents by source:
 source
-newsapi           51552
+newsapi           51646
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2025-08-15 12:45
-- Location: Rogerebert.com
-- Description: In its interrogation of a system and police force whose inherent racism forces Black folks to tell anything but the truth, it never pulls a new lever or uncovers a new line of attack.
+### SHOOTING on 2025-08-15 18:15
+- Location: Mother Jones
+- Description: When Health and Human Services Secretary Robert F. Kennedy Jr. appeared on Scripps News this week to address the tragic CDC shooting, he began by condemning the violence that had occurred four days earlier, when shooter Patrick Joseph White fired over 180 rou…
 
 
-### HOMICIDE on 2025-08-15 12:42
-- Location: BBC News
-- Description: A woman, 73, is found dead after police are called to an address in Bethnal Green.
+### OTHER on 2025-08-15 18:15
+- Location: IGN
+- Description: The Man of Steel is the most recognizable and iconic superhero of all time. These are the comics that got him there.
 
 
-### DRUG RELATED on 2025-08-15 12:41
-- Location: Fortune
-- Description: Gov. Michelle Lujan Grisham, a Democrat, is responding to violent crime and drug trafficking across a swath of northern New Mexico, including two Native American pueblo communities.
+### SHOOTING on 2025-08-15 18:08
+- Location: Freerepublic.com
+- Description: According to police, officers from the 35th District responded to a report of a shooting on the 1700 block of West Olney Avenue on Thursday, Aug. 14, at 12:55 a.m. A 43-year-old man was walking up a hill when he encountered a woman with three dogs. One of the…
 
 
-### OTHER on 2025-08-15 12:30
-- Location: Shtfplan.com
-- Description: “The whole aim of practical politics is to keep the populace alarmed (and hence clamorous to be led to safety) by an endless series of hobgoblins, most of them imaginary.”—H.L. Mencken
+### SHOOTING on 2025-08-15 18:08
+- Location: Freerepublic.com
+- Description: According to police, officers from the 35th District responded to a report of a shooting on the 1700 block of West Olney Avenue on Thursday, Aug. 14, at 12:55 a.m. A 43-year-old man was walking up a hill when he encountered a woman with three dogs. One of the…
 
 
-### OTHER on 2025-08-15 12:30
-- Location: Breitbart News
-- Description: Alec Baldwin is afraid. Very, very afraid. The actor is riven with fears for the future of the U.S. in the wake of Donald Trump's successful push to increase federal law enforcement across Washington, DC, embracing the conspiracy theory that the president wil…
+### SHOOTING on 2025-08-15 18:07
+- Location: CBC News
+- Description: Newfoundland and Labrador's police watchdog is investigating an officer-involved shooting in Arnold's Cove.
 
-Analysis generated at: Sat Aug 16 12:45:45 UTC 2025
+Analysis generated at: Sat Aug 16 18:18:28 UTC 2025
