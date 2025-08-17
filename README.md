@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Aug 17 12:46:48 UTC 2025
+Last updated: Sun Aug 17 18:19:43 UTC 2025
 
 ## Latest Analysis
 
-Loaded 51845 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-16 12:40:44
+Loaded 51917 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-16 18:17:50
 
 Incidents by source:
 source
-newsapi           51744
+newsapi           51816
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-08-16 12:40
-- Location: The-independent.com
-- Description: A man who helped lure victims for the notorious Candy Man killer back in the 1970s is speaking out on a new doc for the first time about how he almost became a victim himself and how he tried to escape. A friend of one of the victims tells Andrea Cavallier wh…
+### OTHER on 2025-08-16 18:17
+- Location: Wnd.com
+- Description: They're 'so hell-bent on opposing Trump that they have reduced themselves to caricatures'
 
 
-### OTHER on 2025-08-16 12:25
-- Location: The Irish Times
-- Description: Warning comes after 5G tower was set alight in Beechmount Avenue area of Belfast
+### OTHER on 2025-08-16 18:14
+- Location: Slashdot.org
+- Description: ‘The city has really went to hell’: Some DC residents want police help, but are concerned about tacticsWTOP Where D.C. Crime Is Bad, Residents Question Trump’s Motives for Federal TakeoverThe New York Times DC woman goes viral after sharing she feels ‘more sa…
 
 
-### OTHER on 2025-08-16 12:20
-- Location: Independent.ie
-- Description: Antoine Semenyo said the response to his report of racist abuse from a Liverpool fan showed football at its best.
+### OTHER on 2025-08-16 18:12
+- Location: WSB Radio
+- Description: West Virginia is sending 300 to 400 members of its National Guard to the nation’s capital to assist in the Trump administration’s takeover of the city’s police department
 
 
-### OTHER on 2025-08-16 12:15
-- Location: New York Post
-- Description: Minnesota Governor Tim Walz “was always telling me China was the future, China knows how to get things done, China knows how to control their people,” accused assassin Vance Boelter told The Post.…
+### OTHER on 2025-08-16 18:01
+- Location: Breitbart News
+- Description: A cognitively impaired New Jersey senior met the dark side of artificial intelligence when he died while attempting to get together with an attractive AI chatbot he thought was living in New York City.
+The post Senior Dies While Trying to Meet Meta’s Flirty C…
 
 
-### OTHER on 2025-08-16 12:01
-- Location: Common Dreams
-- Description: We’re all familiar with Trump’s famous deportation flights of Venezuelans and Kilmar Abrego Garcia to a concentration camp in El Salvador in violation of a court’s order. But did you know there have been over 1,000 such flights in the past few months, some to…
+### OTHER on 2025-08-16 18:01
+- Location: Wnd.com
+- Description: Man tells New York Times he appreciates the president striving to keep nation's capital pristine and beautiful
 
-Analysis generated at: Sun Aug 17 12:46:48 UTC 2025
+Analysis generated at: Sun Aug 17 18:19:43 UTC 2025
