@@ -1,10 +1,10 @@
 
-Loaded 51763 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-16 01:10:25
+Loaded 51771 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-16 02:00:42
 
 Incidents by source:
 source
-newsapi           51662
+newsapi           51670
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-08-16 01:10
-- Location: ABC News (AU)
-- Description: Police say emergency services received reports that a man and a vehicle were involved in a collision just before 1am on Marmion Avenue in Butler.
+### OTHER on 2025-08-16 02:00
+- Location: 7NEWS.com.au
+- Description: Sydney Harbour Bridge closed as two people die in fall at Western Distributor7news.com.au
 
 
-### HOMICIDE on 2025-08-16 01:03
+### OTHER on 2025-08-16 01:58
 - Location: CBS News
-- Description: Police said the 25-year-old victim was an innocent bystander when he was struck by a bullet while at a nightspot with friends.
+- Description: An internal review reveals that a former police chief, known as the "Devil in the Ozarks," spent months planning his escape from an Arkansas prison.
 
 
-### HOMICIDE on 2025-08-16 01:00
-- Location: Allthatsinteresting.com
-- Description: Charles Stuart was unhappy in his marriage when he allegedly murdered his pregnant wife, Carol, in October 1989. Then, he claimed that a Black man was responsible for the crime.
-The post The Horrific Story Of Charles Stuart, The Boston Man Who Tried To Blame …
+### OTHER on 2025-08-16 01:48
+- Location: WKOW
+- Description: Madison police chief finalists discuss immigration enforcement, mental health crisis and morewkow.com
 
 
-### OTHER on 2025-08-16 00:57
-- Location: ABC News (AU)
-- Description: Whether it's hunting invasive pests or rolling in a river like an otter, there's a lot to love about the rakali. And a lot of Australians love it.
+### OTHER on 2025-08-16 01:47
+- Location: CBS News
+- Description: Baltimore police are asking for the community's help to identify human remains that were found in August 2024.
 
 
-### OTHER on 2025-08-16 00:55
-- Location: STLtoday.com
-- Description: Clayton police say an arsonist set three vehicles on fire and left antisemitic graffiti about 3 a.m. Aug. 5 on a residential street.
+### HOMICIDE on 2025-08-16 01:39
+- Location: Us Weekly
+- Description: Convicted murderer Bryan Kohberger did not delete photos from his phone prior to his arrest for the killings of four University of Idaho students.  Investigators discovered that Kohberger’s photo roll contained shirtless selfies as well as downloaded images o…
 
-Analysis generated at: Sun Aug 17 01:16:38 UTC 2025
+Analysis generated at: Sun Aug 17 02:05:12 UTC 2025
