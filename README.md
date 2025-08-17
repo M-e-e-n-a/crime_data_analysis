@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Aug 17 06:21:05 UTC 2025
+Last updated: Sun Aug 17 12:27:31 UTC 2025
 
 ## Latest Analysis
 
-Loaded 51796 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-16 06:20:43
+Loaded 51844 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-16 12:25:12
 
 Incidents by source:
 source
-newsapi           51695
+newsapi           51743
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-08-16 06:20
+### OTHER on 2025-08-16 12:25
+- Location: The Irish Times
+- Description: Warning comes after 5G tower was set alight in Beechmount Avenue area of Belfast
+
+
+### OTHER on 2025-08-16 12:20
+- Location: Independent.ie
+- Description: Antoine Semenyo said the response to his report of racist abuse from a Liverpool fan showed football at its best.
+
+
+### OTHER on 2025-08-16 12:15
+- Location: New York Post
+- Description: Minnesota Governor Tim Walz “was always telling me China was the future, China knows how to get things done, China knows how to control their people,” accused assassin Vance Boelter told The Post.…
+
+
+### OTHER on 2025-08-16 12:01
+- Location: Common Dreams
+- Description: We’re all familiar with Trump’s famous deportation flights of Venezuelans and Kilmar Abrego Garcia to a concentration camp in El Salvador in violation of a court’s order. But did you know there have been over 1,000 such flights in the past few months, some to…
+
+
+### HOMICIDE on 2025-08-16 12:00
 - Location: BBC News
-- Description: Farmers living near a rural village describe "living in fear" of burglars, thieves and sheep rustlers.
+- Description: Arlind Hashani, 22, is charged over the death of Ahmed Ali Jama who died in Camden in 2023.
 
-
-### HOMICIDE on 2025-08-16 06:17
-- Location: BBC News
-- Description: Sam Rimmer was shot in the back with a sub-machine gun by a masked gunman in Dingle three years ago.
-
-
-### HOMICIDE on 2025-08-16 06:16
-- Location: Freerepublic.com
-- Description: An unidentified man was shot and killed on Monday night in Washington, D.C., just blocks away from a protest against President Donald Trump’s decision to deploy the National Guard to combat crime in the city. The Metropolitan Police Department (MPD) reported …
-
-
-### OTHER on 2025-08-16 06:07
-- Location: Freerepublic.com
-- Description: Using powers authorized by the Home Rule Act, President Trump ordered the deployment of National Guard troops, FBI agents, and other federal law-enforcement officers to patrol the streets of Washington DC. This move has been met with mixed reactions. Citing a…
-
-
-### OTHER on 2025-08-16 06:00
-- Location: TheJournal.ie
-- Description: Peter Flanagan writes from London with a look at Kneecap and their political stance on Gaza, ahead of another court appearance this week.
-
-Analysis generated at: Sun Aug 17 06:21:05 UTC 2025
+Analysis generated at: Sun Aug 17 12:27:31 UTC 2025
