@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Aug 18 12:53:12 UTC 2025
+Last updated: Mon Aug 18 18:21:58 UTC 2025
 
 ## Latest Analysis
 
-Loaded 52015 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-17 12:48:48
+Loaded 52101 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-17 18:12:56
 
 Incidents by source:
 source
-newsapi           51914
+newsapi           52000
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2025-08-17 12:48
-- Location: Newser
-- Description: Smash-and-grab thieves in Seattle made off with an estimated $2 million in diamonds, luxury watches, gold, and other items in a daring midday jewelry store robbery that took just about 90 seconds, per the AP . Video from the West Seattle store's surveillance …
+### OTHER on 2025-08-17 18:12
+- Location: BBC News
+- Description: Washington residents have protested against Trump's deployment of troops in the city.
 
 
-### HOMICIDE on 2025-08-17 12:46
-- Location: The-independent.com
-- Description: The shooting comes amid a record low year for gun violence in New York City
+### ROBBERY/THEFT on 2025-08-17 18:07
+- Location: Newsweek
+- Description: The thefts took place in broad daylight on a busy shopping street.
 
 
-### HOMICIDE on 2025-08-17 12:42
-- Location: 7NEWS.com.au
-- Description: Police Commissioner Jessica Tisch said there were multiple shooters and no one is yet in custody.
+### OTHER on 2025-08-17 18:05
+- Location: ABC News
+- Description: An eyewitness captured the moment a small plane crash-landed onto a golf course in Sydney, Australia. Both plane passengers escaped without serious injury and no one else was hurt, officials said.
 
 
-### HOMICIDE on 2025-08-17 12:35
-- Location: Newser
-- Description: The NYPD is investigating a mass shooting at a Brooklyn club overnight that left three people dead and eight more injured, reports NBC News . Police say the gunfire erupted inside the crowded Taste of the City Lounge, which the New York Post describes as a ho…
+### HOMICIDE on 2025-08-17 18:00
+- Location: Fox News
+- Description: Former gas station worker Elmer Wayne Henley Jr. revealed how he became an accomplice to "Candy Man" serial killer Dean Corll at age 15, helping lure victims in 1970s Texas.
 
 
-### HOMICIDE on 2025-08-17 12:35
-- Location: The Star Online
-- Description: The body of a South Korean man has been discovered in an alleged Cambodian scam compound, wrapped in blankets and plastic bags, his face swollen and bruised, indicating he may have been beaten to death. Read full story
+### OTHER on 2025-08-17 18:00
+- Location: The Irish Times
+- Description: Stern warnings come from president Aleksandar Vucic after five consecutive nights of clashes
 
-Analysis generated at: Mon Aug 18 12:53:12 UTC 2025
+Analysis generated at: Mon Aug 18 18:21:58 UTC 2025
