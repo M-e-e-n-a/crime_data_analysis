@@ -1,10 +1,10 @@
 
-Loaded 52009 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-17 12:30:52
+Loaded 52015 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-17 12:48:48
 
 Incidents by source:
 source
-newsapi           51908
+newsapi           51914
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,30 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-08-17 12:30
-- Location: Freerepublic.com
-- Description: At least three people were killed and eight more were wounded when multiple gunmen opened fire inside a Brooklyn restaurant. The horror unfolded in the early hours of Sunday morning at Taste of the City Lounge in the Crown Heights neighborhood. NYPD Commissio…
+### ROBBERY/THEFT on 2025-08-17 12:48
+- Location: Newser
+- Description: Smash-and-grab thieves in Seattle made off with an estimated $2 million in diamonds, luxury watches, gold, and other items in a daring midday jewelry store robbery that took just about 90 seconds, per the AP . Video from the West Seattle store's surveillance …
 
 
-### OTHER on 2025-08-17 12:30
-- Location: Gatewayhispanic.com
-- Description: This is a Gateway Hispanic article.
-The post Miami Strategic Intelligence Institute Condemns the Assassination of Colombian Senator Miguel Uribe Turbay. appeared first on The Gateway Pundit.
+### HOMICIDE on 2025-08-17 12:46
+- Location: The-independent.com
+- Description: The shooting comes amid a record low year for gun violence in New York City
 
 
-### SHOOTING on 2025-08-17 12:29
-- Location: WQOW TV News 18
-- Description: Mass shootings generally don’t stem from one problem but several factors might increase the risk: A history of violence, access to guns, violent social networks, misogyny and substance abuse all
+### HOMICIDE on 2025-08-17 12:42
+- Location: 7NEWS.com.au
+- Description: Police Commissioner Jessica Tisch said there were multiple shooters and no one is yet in custody.
 
 
-### SHOOTING on 2025-08-17 12:26
-- Location: fox6now.com
-- Description: Two people were injured in separate shootings in Milwaukee on Saturday, Aug. 16.
+### HOMICIDE on 2025-08-17 12:35
+- Location: Newser
+- Description: The NYPD is investigating a mass shooting at a Brooklyn club overnight that left three people dead and eight more injured, reports NBC News . Police say the gunfire erupted inside the crowded Taste of the City Lounge, which the New York Post describes as a ho…
 
 
-### HOMICIDE on 2025-08-17 12:21
-- Location: TMZ
-- Description: A late night out in New York City ended in tragedy over the weekend when multiple gunmen opened fire inside a Brooklyn restaurant, killing three and injuring 8. The gunfire erupted just before 3:30 AM on Sunday inside Taste of the City Lounge,…
- Permalink
+### HOMICIDE on 2025-08-17 12:35
+- Location: The Star Online
+- Description: The body of a South Korean man has been discovered in an alleged Cambodian scam compound, wrapped in blankets and plastic bags, his face swollen and bruised, indicating he may have been beaten to death. Read full story
 
-Analysis generated at: Mon Aug 18 12:31:20 UTC 2025
+Analysis generated at: Mon Aug 18 12:53:12 UTC 2025
