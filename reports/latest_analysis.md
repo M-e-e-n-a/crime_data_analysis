@@ -1,10 +1,10 @@
 
-Loaded 51917 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-16 18:17:50
+Loaded 51927 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-17 01:13:00
 
 Incidents by source:
 source
-newsapi           51816
+newsapi           51826
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-08-16 18:17
-- Location: Wnd.com
-- Description: They're 'so hell-bent on opposing Trump that they have reduced themselves to caricatures'
+### OTHER on 2025-08-17 01:13
+- Location: DW (English)
+- Description: Three Republican-led states are sending their National Guard troops to aid President Donald Trump's effort to combat an "out of control" crime wave in the US capital.
 
 
-### OTHER on 2025-08-16 18:14
-- Location: Slashdot.org
-- Description: ‘The city has really went to hell’: Some DC residents want police help, but are concerned about tacticsWTOP Where D.C. Crime Is Bad, Residents Question Trump’s Motives for Federal TakeoverThe New York Times DC woman goes viral after sharing she feels ‘more sa…
+### OTHER on 2025-08-17 01:12
+- Location: CBC News
+- Description: Three U.S. states moved to deploy hundreds of members of their National Guard to the nation's capital as part of the Trump administration's effort to overhaul policing in Washington through a federal crackdown on crime and homelessness.
 
 
-### OTHER on 2025-08-16 18:12
-- Location: WSB Radio
-- Description: West Virginia is sending 300 to 400 members of its National Guard to the nation’s capital to assist in the Trump administration’s takeover of the city’s police department
+### OTHER on 2025-08-17 01:03
+- Location: NPR
+- Description: Protesters marched to the White House on Saturday as D.C. Metropolitan Police officers and National Park Service police looked on from a distance.
 
 
-### OTHER on 2025-08-16 18:01
-- Location: Breitbart News
-- Description: A cognitively impaired New Jersey senior met the dark side of artificial intelligence when he died while attempting to get together with an attractive AI chatbot he thought was living in New York City.
-The post Senior Dies While Trying to Meet Meta’s Flirty C…
+### HOMICIDE on 2025-08-17 01:02
+- Location: ABC News (AU)
+- Description: The serenity of a sacred temple town in southern India has been broken by a police investigation into sinister and explosive whistleblower allegations about the secret killings and burials of hundreds of men, women and children over decades.
 
 
-### OTHER on 2025-08-16 18:01
-- Location: Wnd.com
-- Description: Man tells New York Times he appreciates the president striving to keep nation's capital pristine and beautiful
+### OTHER on 2025-08-17 00:51
+- Location: WPXI Pittsburgh
+- Description: Three states moved to deploy hundreds of members of their National Guard to the nation’s capital as part of the Trump administration’s effort to overhaul policing in Washington through a federal crackdown on crime and homelessness.
 
-Analysis generated at: Sun Aug 17 18:19:43 UTC 2025
+Analysis generated at: Mon Aug 18 01:15:47 UTC 2025
