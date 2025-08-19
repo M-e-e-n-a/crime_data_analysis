@@ -1,10 +1,10 @@
 
-Loaded 52101 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-17 18:12:56
+Loaded 52108 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-18 01:08:28
 
 Incidents by source:
 source
-newsapi           52000
+newsapi           52007
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-08-17 18:12
-- Location: BBC News
-- Description: Washington residents have protested against Trump's deployment of troops in the city.
+### ROBBERY/THEFT on 2025-08-18 01:08
+- Location: WSB Atlanta
+- Description: Investigators with the Atlanta Police Department are asking for the public’s help in locating two stolen ATVs and two stolen dirt bikes.
 
 
-### ROBBERY/THEFT on 2025-08-17 18:07
-- Location: Newsweek
-- Description: The thefts took place in broad daylight on a busy shopping street.
+### HOMICIDE on 2025-08-18 00:40
+- Location: New York Post
+- Description: At least one teen in the crowd started filming as the pair argued -- and was recording when Raper allegedly pulled the trigger several times, striking and killing Wright, cops said.
 
 
-### OTHER on 2025-08-17 18:05
-- Location: ABC News
-- Description: An eyewitness captured the moment a small plane crash-landed onto a golf course in Sydney, Australia. Both plane passengers escaped without serious injury and no one else was hurt, officials said.
+### OTHER on 2025-08-18 00:22
+- Location: The Conversation Africa
+- Description: Ukraine President Volodymyr Zelenskyy meets with President Donald Trump in the aftermath of an inconclusive summit just days before. A veteran diplomat helps untangle what happened and what’s next.
 
 
-### HOMICIDE on 2025-08-17 18:00
-- Location: Fox News
-- Description: Former gas station worker Elmer Wayne Henley Jr. revealed how he became an accomplice to "Candy Man" serial killer Dean Corll at age 15, helping lure victims in 1970s Texas.
+### OTHER on 2025-08-18 00:22
+- Location: The Conversation Africa
+- Description: Ukraine President Volodymyr Zelenskyy meets with President Donald Trump in the aftermath of an inconclusive summit just days before. A veteran diplomat helps untangle what happened and what’s next.
 
 
-### OTHER on 2025-08-17 18:00
-- Location: The Irish Times
-- Description: Stern warnings come from president Aleksandar Vucic after five consecutive nights of clashes
+### SHOOTING on 2025-08-18 00:09
+- Location: PEOPLE
+- Description: The president of a mission for The Church of Jesus Christ of Latter-day Saints was shot in his home in Mexico City
 
-Analysis generated at: Mon Aug 18 18:21:58 UTC 2025
+Analysis generated at: Tue Aug 19 01:08:36 UTC 2025
