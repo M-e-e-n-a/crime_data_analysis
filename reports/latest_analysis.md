@@ -1,10 +1,10 @@
 
-Loaded 52147 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-18 06:09:00
+Loaded 52224 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-18 12:16:35
 
 Incidents by source:
 source
-newsapi           52046
+newsapi           52123
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,32 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-08-18 06:09
-- Location: Thefutoncritic.com
-- Description: The timely special features an exclusive primetime interview with Amanda Knox, who discusses the yearslong battle to prove her innocence after being wrongfully convicted of her roommate's 2007 murder.
+### ASSAULT on 2025-08-18 12:16
+- Location: The Times of India
+- Description: President Trump's focus on crime, particularly in Democratic-led cities, is a strategy to regain political ground. He's using the issue to criticize Democrats, despite data showing improvements in some areas. While Democrats acknowledge public safety concerns…
 
 
-### OTHER on 2025-08-18 06:01
-- Location: The Star Online
-- Description: KUALA LUMPUR: The police have analysed the diary of the late Zara Qairina Mahathir to learn about her mental state before she died, says Home Minister Datuk Seri Saifuddin Nasution Ismail. Read full story
+### OTHER on 2025-08-18 12:05
+- Location: Demilked.com
+- Description: Have you ever met an actual psychopath or sociopath before? 
+The post 35 People Tell The Disturbing Truth About Living With A Psychopath In Their Close Circle appeared first on DeMilked.
 
 
-### ASSAULT on 2025-08-18 06:00
-- Location: Naturalnews.com
-- Description: Poland launched a program to track COVID-19 recovery fund allocations, but it revealed questionable spending – including grants for luxury yachts, tanning beds in a pizzeria and an enterprise linked to an adult club. The scandal fueled attacks from the opposi…
+### HOMICIDE on 2025-08-18 12:00
+- Location: Fox News
+- Description: A former FBI special agent says the death of a country singer's mother may not have been random.
 
 
-### OTHER on 2025-08-18 06:00
-- Location: Naturalnews.com
-- Description: Border czar Tom Homan announced that Washington, D.C., will not operate as a sanctuary city while its police remain under federal control, pledging full cooperation with Immigration and Customs Enforcement (ICE) to target undocumented immigrants deemed public…
+### ROBBERY/THEFT on 2025-08-18 12:00
+- Location: Seclists.org
+- Description: Posted by Suresh Ramasubramanian via NANOG on Aug 18Everyone that has a network, everyone that runs an organisation that provides and registers resources - netblocks, 
+asns, domains .. everyone that insists it isn’t their problem it is somebody else’s.
+
+--srs…
 
 
-### OTHER on 2025-08-18 06:00
-- Location: Naturalnews.com
-- Description: Every American should be alarmed by the accelerated descent into a police state that President Trump’s administration is leading. By federalizing the National Guard in cities across the nation, the administration is setting a dangerous precedent for future pr…
+### OTHER on 2025-08-18 12:00
+- Location: Screen Rant
+- Description: From Breaking Bad to The Wire, some TV crime dramas are so amazing that I knew they were going to be masterpieces within the first 10 minutes.
 
-Analysis generated at: Tue Aug 19 06:22:10 UTC 2025
+Analysis generated at: Tue Aug 19 12:29:09 UTC 2025
