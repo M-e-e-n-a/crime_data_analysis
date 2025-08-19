@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Aug 19 12:29:09 UTC 2025
+Last updated: Tue Aug 19 12:47:34 UTC 2025
 
 ## Latest Analysis
 
-Loaded 52224 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-18 12:16:35
+Loaded 52226 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-18 12:47:00
 
 Incidents by source:
 source
-newsapi           52123
+newsapi           52125
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -23,6 +23,17 @@ bution.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### OTHER on 2025-08-18 12:47
+- Location: Internet
+- Description: Power doesn’t just disappear in one big breach. It slips away in the small stuff—a patch that’s missed, a setting that’s wrong, a system no one is watching. Security usually doesn’t fail all at once; it breaks slowly, then suddenly. Staying safe isn’t about k…
+
+
+### OTHER on 2025-08-18 12:45
+- Location: Demilked.com
+- Description: Photos of shocking food choices that scandalised people. 
+The post 35 Food Crime Photos That Made People Recoil In Horror appeared first on DeMilked.
+
 
 ### ASSAULT on 2025-08-18 12:16
 - Location: The Times of India
@@ -39,17 +50,4 @@ The post 35 People Tell The Disturbing Truth About Living With A Psychopath In T
 - Location: Fox News
 - Description: A former FBI special agent says the death of a country singer's mother may not have been random.
 
-
-### ROBBERY/THEFT on 2025-08-18 12:00
-- Location: Seclists.org
-- Description: Posted by Suresh Ramasubramanian via NANOG on Aug 18Everyone that has a network, everyone that runs an organisation that provides and registers resources - netblocks, 
-asns, domains .. everyone that insists it isn’t their problem it is somebody else’s.
-
---srs…
-
-
-### OTHER on 2025-08-18 12:00
-- Location: Screen Rant
-- Description: From Breaking Bad to The Wire, some TV crime dramas are so amazing that I knew they were going to be masterpieces within the first 10 minutes.
-
-Analysis generated at: Tue Aug 19 12:29:09 UTC 2025
+Analysis generated at: Tue Aug 19 12:47:34 UTC 2025
