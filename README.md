@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Aug 20 01:51:11 UTC 2025
+Last updated: Wed Aug 20 06:22:02 UTC 2025
 
 ## Latest Analysis
 
-Loaded 52341 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-19 01:44:47
+Loaded 52378 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-19 06:15:21
 
 Incidents by source:
 source
-newsapi           52240
+newsapi           52277
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2025-08-19 01:44
-- Location: Bendigoadvertiser.com.au
-- Description: Men apprehended in Gippsland for alleged illegal Ironbark logging, threatening habitat of endangered species like the Swift Parrot.
+### HOMICIDE on 2025-08-19 06:15
+- Location: TheJournal.ie
+- Description: A 38-year-old man who was arrested remains in custody.
 
 
-### OTHER on 2025-08-19 01:33
-- Location: Raw Story
-- Description: One of President Donald Trump's fiercest advocates lashed out at the president on Monday. Steve Bannon, who served in Trump's first administration, said on a new episode of his podcast, "The War Room," that Trump is focusing too much of his time on the Ukrain…
+### HOMICIDE on 2025-08-19 06:12
+- Location: The Irish Times
+- Description: Man (38) arrested on suspicion of attempted murder and arson with intent to endanger life
 
 
-### HOMICIDE on 2025-08-19 01:30
+### HOMICIDE on 2025-08-19 06:12
+- Location: CNA
+- Description: After disposing of their bodies, Shahrul Nizam Zuraimy fled to Singapore, where he was arrested by the police and later handed over to the Malaysian authorities.
+
+
+### OTHER on 2025-08-19 06:07
 - Location: The Japan Times
-- Description: Authorities said that the victims were a 53-year-old and a 42-year-old traveling in the Philippines and that someone may have hired the suspects to kill them.
+- Description: Garcia Harfuch has earned praise for helping deliver on Sheinbaum's vision of increased cooperation with the U.S.
 
 
-### HOMICIDE on 2025-08-19 01:28
-- Location: ABC News
-- Description: A sheriff says a shooting in southern West Virginia has left two people dead, include a suspected gunman, and three others have been wounded
+### HOMICIDE on 2025-08-19 06:04
+- Location: ABC News (AU)
+- Description: A court hears the prosecution is preparing a 155-exhibit brief against Tanika Bromley and James Wood, including DNA testing, a ballistics report and material from "multiple crime scenes".
 
-
-### OTHER on 2025-08-19 01:28
-- Location: Electronicintifada.net
-- Description: Tom Artiom Alexandrovich was arrested in Las Vegas and is accused of attempting to lure a child but was released and left the country.
-
-Analysis generated at: Wed Aug 20 01:51:11 UTC 2025
+Analysis generated at: Wed Aug 20 06:22:02 UTC 2025
