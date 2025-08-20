@@ -1,10 +1,10 @@
 
-Loaded 52454 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-19 12:43:09
+Loaded 52551 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-19 18:20:03
 
 Incidents by source:
 source
-newsapi           52353
+newsapi           52450
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-08-19 12:43
-- Location: Deadline
-- Description: San Sebastian has added nine titles to its official selection, including new features by Edward Berger and Claire Denis.  Berger will screen Ballad of a Small Player, a UK production starring Colin Farrell as a high-stakes gambler in Macao whose past and debt…
+### OTHER on 2025-08-19 18:20
+- Location: Raw Story
+- Description: White House Press Secretary Karoline Leavitt admitted Tuesday that crime statistics in Washington, D.C. had recently been "reconfigured" to support President Donald Trump's claims.During a White House briefing, a reporter asked Leavitt to clarify what Trump m…
 
 
-### SHOOTING on 2025-08-19 12:40
-- Location: Lesswrong.com
-- Description: Published on August 19, 2025 12:40 PM GMTI got suckered into paying attention to multiple non-AI political stories this month: The shooting of the messenger, in violation of the most sacred principles, via firing the head of the USA’s Bureau of Labor Statisti…
+### ASSAULT on 2025-08-19 18:19
+- Location: HuffPost
+- Description: Michelle Wu responded to U.S. Attorney General Pam Bondi's demand that cities like Boston stop interfering with "federal immigration enforcement."
 
 
-### OTHER on 2025-08-19 12:29
-- Location: The Times of India
-- Description: Royal families across the world are often admired by people-- be it for their luxurious lifestyles, classy fashion, or grace and elegant way of life. However, even Royals aren't perfect when it comes to making life choices-- one wrong decision and it can ofte…
+### OTHER on 2025-08-19 18:15
+- Location: Decider
+- Description: Samantha Stites talks about her ordeal, which includes being held captive by her stalker inside a soundproof bunker, for the first time in this docuseries.
 
 
-### OTHER on 2025-08-19 12:24
-- Location: Crooksandliars.com
-- Description: CNN anchor Brianna Keilar isn’t buying Trump’s latest "sir" story that “friends” were shut-ins in Washington D.C. for years due to crime. Via The Daily Beast:
-Trump, while speaking in the Oval Office with Ukrainian President Volodymyr Zelensky on Monday, told…
+### HOMICIDE on 2025-08-19 18:08
+- Location: fox6now.com
+- Description: A 28-year-old Milwaukee man is accused in the death of his own son, just 14 months old.
 
 
-### HOMICIDE on 2025-08-19 12:01
-- Location: New York Post
-- Description: The teen, only identified as Fatima, lashed out at her parents -- Ihsan and Zahraa Ali -- in a Washington state court after they were previously accused of trying to kill their daughter, then 17, outside her Timberline High School last October.
+### OTHER on 2025-08-19 18:06
+- Location: The Daily Caller
+- Description: White House press secretary Karoline Leavitt announced on Tuesday that law enforcement arrested an MS-13 member off of the streets of Washington, D.C.
 
-Analysis generated at: Wed Aug 20 12:49:22 UTC 2025
+Analysis generated at: Wed Aug 20 18:20:49 UTC 2025
