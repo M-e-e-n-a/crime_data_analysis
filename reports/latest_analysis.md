@@ -1,10 +1,10 @@
 
-Loaded 52555 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-20 01:00:38
+Loaded 52562 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-20 01:46:01
 
 Incidents by source:
 source
-newsapi           52454
+newsapi           52461
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-08-20 01:00
-- Location: WCAX
-- Description: Burlington business leaders are expressing frustration with the current state of the city and fears for the future if nothing changes. Our Ike Bendavid reports.
+### HOMICIDE on 2025-08-20 01:46
+- Location: ComicBook.com
+- Description: Image Courtesy of Marvel Comics
+Most Marvel Comics fans know Blade as a vampire hunter whose only goal in life is to hunt down blood suckers and kill them. However, what some fans might not know is that Blade was also a member of the Avengers, and he actually…
 
 
-### OTHER on 2025-08-20 00:42
-- Location: Yahoo Entertainment
-- Description: The body of Sheylla Cabrera was found this weekend at the bottom of an embankment in the Angeles National Forest, according to authorities. Her husband has...
+### SHOOTING on 2025-08-20 01:44
+- Location: USA Today
+- Description: Damon Wolfe was arrested August 7 on three counts of aggravated assault after he fired multiple shots at a vehicle with three teenagers in it.
 
 
-### OTHER on 2025-08-20 00:12
+### HOMICIDE on 2025-08-20 01:32
 - Location: Freerepublic.com
-- Description: A Jewish-owned business in San Jose was vandalized Monday night, with hateful imagery spray-painted on the building and work vehicles. It is being investigated by police as a targeted hate crime. "They broke the windows, they broke side mirrors and swastikas …
+- Description: Amir, an underground church leader in Iran, told Iran Alive Ministries of being stopped at a police checkpoint with dozens of Bibles in tow, a crime punishable by imprisonment and death. Police confiscated the Bibles but let Amir go free. When he arrived the …
 
 
-### ROBBERY/THEFT on 2025-08-20 00:08
-- Location: Common Dreams
-- Description: He didn't like the latest jobs numbers, so he fired the head of the Bureau of Labor Statistics and tapped a notorious yes-man to replace her.He doesn't like "woke" history, so he ordered federal agencies and institutions to whitewash official accounts of the …
+### ASSAULT on 2025-08-20 01:26
+- Location: Johnnyjet.com
+- Description: A mother of eight from North Carolina is going viral thanks to a video of her tracking down pickpockets in Venice while she was on her way to a Mediterranean...
+The post Hero Mom of 8 From North Carolina Fights Back Against Pickpockets in Venice appeared firs…
 
 
-### OTHER on 2025-08-19 18:20
-- Location: Raw Story
-- Description: White House Press Secretary Karoline Leavitt admitted Tuesday that crime statistics in Washington, D.C. had recently been "reconfigured" to support President Donald Trump's claims.During a White House briefing, a reporter asked Leavitt to clarify what Trump m…
+### OTHER on 2025-08-20 01:25
+- Location: The Times of India
+- Description: India's UN representative, Eldos Mathew Punnoos, addressed the Security Council, highlighting Pakistan's history of sexual violence since 1971, particularly against minority women, and the impunity surrounding these crimes. He emphasized the need for accounta…
 
-Analysis generated at: Thu Aug 21 01:05:26 UTC 2025
+Analysis generated at: Thu Aug 21 01:49:55 UTC 2025
