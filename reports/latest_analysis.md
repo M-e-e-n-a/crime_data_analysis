@@ -1,10 +1,10 @@
 
-Loaded 52611 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-20 06:24:05
+Loaded 52701 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-20 12:24:10
 
 Incidents by source:
 source
-newsapi           52510
+newsapi           52600
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-08-20 06:24
-- Location: The Indian Express
-- Description: When caste can kill a Dalit man who ‘made it’, who had education, a secure job, and the opportunities reservation is meant to create, then the argument that such people no longer ‘need’ this protection rings hollow
+### OTHER on 2025-08-20 12:24
+- Location: NPR
+- Description: President Trump needs Congress' permission to use D.C.'s police for over 30 days, but there are no such limits on its National Guard. Experts spoke to NPR about how the takeover could end.
 
 
-### OTHER on 2025-08-20 06:11
-- Location: The Star Online
-- Description: ISLAMABAD (Reuters) -Evicted from their homes and huddling under plastic sheets after heavy rains, Afghan refugees in a park near government offices in Islamabad said they had nowhere to go as Pakistan pressures landlords to expel documented families. Read fu…
+### OTHER on 2025-08-20 12:19
+- Location: Time
+- Description: The U.S. deployed three Navy missile destroyers and around 4,000 military personnel to the waters off Venezuela in effort to thwart cartels.
 
 
-### HOMICIDE on 2025-08-20 06:07
-- Location: Freerepublic.com
-- Description: Nearly a year after his son’s tragic killing, John Sisneros, Sr. told KOB 4 that his life has stopped in its tracks. He wants the public to know the killer is still at-large. In November 2024, Albuquerque awoke to heartbreaking news. At 8:30 a.m. someone walk…
+### ROBBERY/THEFT on 2025-08-20 12:16
+- Location: Fox News
+- Description: Rep. Wesley Hunt, R-TX, whose apartment complex was robbed in DC, pushed back at Democrats criticizing President Donald Trump for military presence.
 
 
-### HOMICIDE on 2025-08-20 06:00
-- Location: Naturalnews.com
-- Description: A Saudi doctor deliberately drove a rented BMW into a German Christmas market, killing six and injuring hundreds in a calculated attack. Authorities claim the suspect acted out of personal grievance rather than extremist ideology, despite prior warnings about…
+### DRUG RELATED on 2025-08-20 12:15
+- Location: fox6now.com
+- Description: A 20-year-old man was taken into custody following a police chase in Milwaukee on Tuesday night, Aug. 19.
 
 
-### OTHER on 2025-08-20 06:00
-- Location: Naturalnews.com
-- Description: Researchers at Penn State demonstrated that millimeter-wave radar can detect microscopic vibrations (7 micrometers) from smartphone speakers, allowing partial reconstruction of conversations from up to 10 feet away—without hacking or breaching encryption. Usi…
+### OTHER on 2025-08-20 12:15
+- Location: Democracy Now!
+- Description: Six Republican-led states have now pledged National Guard troops to the Trump administration’s takeover of Washington, D.C., where it has assumed control of policing under the claim of tackling crime. Along with the D.C. National Guard that Trump already cont…
 
-Analysis generated at: Thu Aug 21 06:31:34 UTC 2025
+Analysis generated at: Thu Aug 21 12:28:51 UTC 2025
