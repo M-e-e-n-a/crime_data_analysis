@@ -1,10 +1,10 @@
 
-Loaded 52701 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-20 12:24:10
+Loaded 52710 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-20 12:48:05
 
 Incidents by source:
 source
-newsapi           52600
+newsapi           52609
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-08-20 12:24
-- Location: NPR
-- Description: President Trump needs Congress' permission to use D.C.'s police for over 30 days, but there are no such limits on its National Guard. Experts spoke to NPR about how the takeover could end.
+### SHOOTING on 2025-08-20 12:48
+- Location: CNN
+- Description: More than 750 current and former staffers at the US Health and Human Services implored Secretary Robert F. Kennedy, Jr. in a letter Wednesday to “stop spreading inaccurate health information” after a shooter fired hundreds of rounds at the headquarters of the…
 
 
-### OTHER on 2025-08-20 12:19
-- Location: Time
-- Description: The U.S. deployed three Navy missile destroyers and around 4,000 military personnel to the waters off Venezuela in effort to thwart cartels.
+### OTHER on 2025-08-20 12:47
+- Location: The Indian Express
+- Description: According to the complaint, the victim was allegedly made to consume an intoxicant before being raped.
 
 
-### ROBBERY/THEFT on 2025-08-20 12:16
-- Location: Fox News
-- Description: Rep. Wesley Hunt, R-TX, whose apartment complex was robbed in DC, pushed back at Democrats criticizing President Donald Trump for military presence.
+### OTHER on 2025-08-20 12:45
+- Location: Kffhealthnews.org
+- Description: None
 
 
-### DRUG RELATED on 2025-08-20 12:15
-- Location: fox6now.com
-- Description: A 20-year-old man was taken into custody following a police chase in Milwaukee on Tuesday night, Aug. 19.
+### HOMICIDE on 2025-08-20 12:44
+- Location: TMZ
+- Description: As if the crime scene wasn't spooky enough with 4 slaughtered college students ... Bryan Kohberger may have left his creepiest message of all on a window outside the murder house that fateful night. As we reported last week ... two handprints were…
 
 
-### OTHER on 2025-08-20 12:15
-- Location: Democracy Now!
-- Description: Six Republican-led states have now pledged National Guard troops to the Trump administration’s takeover of Washington, D.C., where it has assumed control of policing under the claim of tackling crime. Along with the D.C. National Guard that Trump already cont…
+### HOMICIDE on 2025-08-20 12:33
+- Location: RTE
+- Description: A 38-year-old man facing attempted murder charges after an arson attack on a bar in Northern Ireland allegedly shouted "trick or treat" before throwing a lit petrol bomb directly at two people inside, a court has heard.
 
-Analysis generated at: Thu Aug 21 12:28:51 UTC 2025
+Analysis generated at: Thu Aug 21 12:48:26 UTC 2025
