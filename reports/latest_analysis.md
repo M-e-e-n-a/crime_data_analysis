@@ -1,10 +1,10 @@
 
-Loaded 52562 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-20 01:46:01
+Loaded 52611 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-20 06:24:05
 
 Incidents by source:
 source
-newsapi           52461
+newsapi           52510
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,30 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-08-20 01:46
-- Location: ComicBook.com
-- Description: Image Courtesy of Marvel Comics
-Most Marvel Comics fans know Blade as a vampire hunter whose only goal in life is to hunt down blood suckers and kill them. However, what some fans might not know is that Blade was also a member of the Avengers, and he actually…
+### HOMICIDE on 2025-08-20 06:24
+- Location: The Indian Express
+- Description: When caste can kill a Dalit man who ‘made it’, who had education, a secure job, and the opportunities reservation is meant to create, then the argument that such people no longer ‘need’ this protection rings hollow
 
 
-### SHOOTING on 2025-08-20 01:44
-- Location: USA Today
-- Description: Damon Wolfe was arrested August 7 on three counts of aggravated assault after he fired multiple shots at a vehicle with three teenagers in it.
+### OTHER on 2025-08-20 06:11
+- Location: The Star Online
+- Description: ISLAMABAD (Reuters) -Evicted from their homes and huddling under plastic sheets after heavy rains, Afghan refugees in a park near government offices in Islamabad said they had nowhere to go as Pakistan pressures landlords to expel documented families. Read fu…
 
 
-### HOMICIDE on 2025-08-20 01:32
+### HOMICIDE on 2025-08-20 06:07
 - Location: Freerepublic.com
-- Description: Amir, an underground church leader in Iran, told Iran Alive Ministries of being stopped at a police checkpoint with dozens of Bibles in tow, a crime punishable by imprisonment and death. Police confiscated the Bibles but let Amir go free. When he arrived the …
+- Description: Nearly a year after his son’s tragic killing, John Sisneros, Sr. told KOB 4 that his life has stopped in its tracks. He wants the public to know the killer is still at-large. In November 2024, Albuquerque awoke to heartbreaking news. At 8:30 a.m. someone walk…
 
 
-### ASSAULT on 2025-08-20 01:26
-- Location: Johnnyjet.com
-- Description: A mother of eight from North Carolina is going viral thanks to a video of her tracking down pickpockets in Venice while she was on her way to a Mediterranean...
-The post Hero Mom of 8 From North Carolina Fights Back Against Pickpockets in Venice appeared firs…
+### HOMICIDE on 2025-08-20 06:00
+- Location: Naturalnews.com
+- Description: A Saudi doctor deliberately drove a rented BMW into a German Christmas market, killing six and injuring hundreds in a calculated attack. Authorities claim the suspect acted out of personal grievance rather than extremist ideology, despite prior warnings about…
 
 
-### OTHER on 2025-08-20 01:25
-- Location: The Times of India
-- Description: India's UN representative, Eldos Mathew Punnoos, addressed the Security Council, highlighting Pakistan's history of sexual violence since 1971, particularly against minority women, and the impunity surrounding these crimes. He emphasized the need for accounta…
+### OTHER on 2025-08-20 06:00
+- Location: Naturalnews.com
+- Description: Researchers at Penn State demonstrated that millimeter-wave radar can detect microscopic vibrations (7 micrometers) from smartphone speakers, allowing partial reconstruction of conversations from up to 10 feet away—without hacking or breaching encryption. Usi…
 
-Analysis generated at: Thu Aug 21 01:49:55 UTC 2025
+Analysis generated at: Thu Aug 21 06:31:34 UTC 2025
