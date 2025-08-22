@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Aug 22 01:06:21 UTC 2025
+Last updated: Fri Aug 22 01:50:39 UTC 2025
 
 ## Latest Analysis
 
-Loaded 52821 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-21 01:02:34
+Loaded 52829 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-21 01:50:00
 
 Incidents by source:
 source
-newsapi           52720
+newsapi           52728
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-08-21 01:02
-- Location: CBC News
-- Description: Teens now face murder charges in killing of Awais Ismail Awais, 23, of Toronto, police say
+### OTHER on 2025-08-21 01:50
+- Location: STLtoday.com
+- Description: But the most prominent active head coach in the NFL now works protected by bulletproof glass, sources said.
 
 
-### OTHER on 2025-08-21 00:56
-- Location: Us Weekly
-- Description: Wynonna Judd’s daughter, Grace Kelley, is making some startling allegations regarding her childhood, claiming the singer knew her daughter was being abused by her ex-stepfather, D.R. Roach. Kelley, 29, told The Daily Progress last month that Roach, who was ma…
+### OTHER on 2025-08-21 01:46
+- Location: Twistedsifter.com
+- Description: Now, that's a story!
 
 
-### OTHER on 2025-08-21 00:48
-- Location: Rolling Out
-- Description: Vice President JD Vance and senior White House adviser Stephen Miller found themselves at the center of a heated confrontation Wednesday during what was intended as a morale-boosting visit with National Guard troops stationed in Washington, D.C. The Trump adm…
+### ASSAULT on 2025-08-21 01:37
+- Location: Al Jazeera English
+- Description: Three US warships to be stationed off the coast of Venezuela in fight against 'narco-terrorists', according to reports.
 
 
-### HOMICIDE on 2025-08-21 00:47
-- Location: New York Post
-- Description: Raymond Boodarian, 22, was set to be arraigned in a courthouse in Los Angeles but did not enter a plea.
+### HOMICIDE on 2025-08-21 01:37
+- Location: NBC News
+- Description: Yarely Ashley Hermosillo, an online content creator, was killed in Arizona after a gunman fired in a random direction during an argument between the drivers of two other vehicles, police said.
 
 
-### ROBBERY/THEFT on 2025-08-21 00:42
-- Location: New York Post
-- Description: The manager claimed the “theft” amounted to $110 over a three-month period -- which the employee said was the cost of some of his shift lunches that he forgot to repay.
+### OTHER on 2025-08-21 01:30
+- Location: Snopes.com
+- Description: Here's why Virginia reports more missing kids than other states, why police rarely issue Amber Alerts and how ice cream trucks are or aren't involved.
 
-Analysis generated at: Fri Aug 22 01:06:21 UTC 2025
+Analysis generated at: Fri Aug 22 01:50:39 UTC 2025
