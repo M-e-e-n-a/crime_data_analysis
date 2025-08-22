@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Aug 22 01:50:39 UTC 2025
+Last updated: Fri Aug 22 06:21:47 UTC 2025
 
 ## Latest Analysis
 
-Loaded 52829 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-21 01:50:00
+Loaded 52887 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-21 06:20:04
 
 Incidents by source:
 source
-newsapi           52728
+newsapi           52786
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-08-21 01:50
-- Location: STLtoday.com
-- Description: But the most prominent active head coach in the NFL now works protected by bulletproof glass, sources said.
+### HOMICIDE on 2025-08-21 06:20
+- Location: Rlsbb.cc
+- Description: Season 28, Episode 07 – “A Bridge to Disaster”Can police ease the fears of a close-knit community following the murder of a beloved restaurant owner?Links: HOMEPAGE – TVMOn.The.Case.With.Paula.Zahn.S28E07.720p.WEB.H264-JFFMKV | AAC | 1.19GBNFO - Subtitles – S…
 
 
-### OTHER on 2025-08-21 01:46
-- Location: Twistedsifter.com
-- Description: Now, that's a story!
+### HOMICIDE on 2025-08-21 06:15
+- Location: Slashdot.org
+- Description: NH mother killed husband, 2 kids before fatally shooting herself, state AG saysWCVB New Hampshire woman killed husband, 2 children in murder-suicide, officials sayBoston.com Parents and 2 children found dead in Madbury, New Hampshire home in apparent murder-s…
 
 
-### ASSAULT on 2025-08-21 01:37
-- Location: Al Jazeera English
-- Description: Three US warships to be stationed off the coast of Venezuela in fight against 'narco-terrorists', according to reports.
+### OTHER on 2025-08-21 06:13
+- Location: The-independent.com
+- Description: From a 19th-century lesbian in ‘Gentleman Jack’ to an under-pressure PM in ‘Hostage’, Jones inhabits women who go through the wringer in their determination to make themselves heard, writes Claire Allfree
 
 
-### HOMICIDE on 2025-08-21 01:37
-- Location: NBC News
-- Description: Yarely Ashley Hermosillo, an online content creator, was killed in Arizona after a gunman fired in a random direction during an argument between the drivers of two other vehicles, police said.
+### ASSAULT on 2025-08-21 06:10
+- Location: Starweekly.com.au
+- Description: A Meadow Heights man has been charged over the alleged arson attack at the Adass Israel Synagogue in Ripponlea in December last year. The 20-year-old was charged by the Victorian Joint Counter Terrorism Team (JCTT) on Thursday, August 21, with arson, conduct …
 
 
-### OTHER on 2025-08-21 01:30
-- Location: Snopes.com
-- Description: Here's why Virginia reports more missing kids than other states, why police rarely issue Amber Alerts and how ice cream trucks are or aren't involved.
+### SHOOTING on 2025-08-21 06:01
+- Location: ABC News (AU)
+- Description: A North Queensland magistrate has criticised Queensland Health over its handling of a teenage girl shot by police, releasing her to be sent to hospital for further mental health assessment.
 
-Analysis generated at: Fri Aug 22 01:50:39 UTC 2025
+Analysis generated at: Fri Aug 22 06:21:47 UTC 2025
