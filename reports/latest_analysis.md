@@ -1,10 +1,10 @@
 
-Loaded 52804 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-20 18:16:41
+Loaded 52821 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-21 01:02:34
 
 Incidents by source:
 source
-newsapi           52703
+newsapi           52720
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2025-08-20 18:16
-- Location: Freerepublic.com
-- Description: MACON-BIBB COUNTY, Ga. (WGXA) — Three women were arrested for fighting students on a school bus in West Macon last week. According to an incident report from the Bibb County School District Campus Police, on August 7, Brenda Robinson, the driver of bus number…
+### HOMICIDE on 2025-08-21 01:02
+- Location: CBC News
+- Description: Teens now face murder charges in killing of Awais Ismail Awais, 23, of Toronto, police say
 
 
-### OTHER on 2025-08-20 18:15
-- Location: Reason
-- Description: The president ordering federal agents onto the street is not how routine policing should work, even in the nation's capital.
+### OTHER on 2025-08-21 00:56
+- Location: Us Weekly
+- Description: Wynonna Judd’s daughter, Grace Kelley, is making some startling allegations regarding her childhood, claiming the singer knew her daughter was being abused by her ex-stepfather, D.R. Roach. Kelley, 29, told The Daily Progress last month that Roach, who was ma…
 
 
-### OTHER on 2025-08-20 18:15
-- Location: The Atlantic
-- Description: Pulitzer Prize winner Caitlin Dickerson on ICE’s explosive growth, Trump’s detention surge, and the future of U.S. immigration enforcement.
+### OTHER on 2025-08-21 00:48
+- Location: Rolling Out
+- Description: Vice President JD Vance and senior White House adviser Stephen Miller found themselves at the center of a heated confrontation Wednesday during what was intended as a morale-boosting visit with National Guard troops stationed in Washington, D.C. The Trump adm…
 
 
-### ROBBERY/THEFT on 2025-08-20 18:10
-- Location: The Times of India
-- Description: Thane: Police filed a theft case against an unidentified woman, clad in a burkha, who allegedly stole a gold bangle weighing 19.8 gms, worth around Rs.
+### HOMICIDE on 2025-08-21 00:47
+- Location: New York Post
+- Description: Raymond Boodarian, 22, was set to be arraigned in a courthouse in Los Angeles but did not enter a plea.
 
 
-### ROBBERY/THEFT on 2025-08-20 18:10
-- Location: WPIX 11 New York
-- Description: BROOKLYN, N.Y. (PIX11) — Police are searching for a female suspect in a robbery that left a man with multiple stab wounds in Brooklyn on Saturday. Police...
+### ROBBERY/THEFT on 2025-08-21 00:42
+- Location: New York Post
+- Description: The manager claimed the “theft” amounted to $110 over a three-month period -- which the employee said was the cost of some of his shift lunches that he forgot to repay.
 
-Analysis generated at: Thu Aug 21 18:20:47 UTC 2025
+Analysis generated at: Fri Aug 22 01:06:21 UTC 2025
