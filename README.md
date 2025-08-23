@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Aug 23 06:19:12 UTC 2025
+Last updated: Sat Aug 23 12:25:22 UTC 2025
 
 ## Latest Analysis
 
-Loaded 53111 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-22 06:12:54
+Loaded 53193 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-22 12:24:00
 
 Incidents by source:
 source
-newsapi           53010
+newsapi           53092
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-08-22 06:12
-- Location: ETF Daily News
-- Description: Baozun (NASDAQ:BZUN – Get Free Report) and Ability (OTCMKTS:ABILF – Get Free Report) are both computer and technology companies, but which is the better business? We will contrast the two businesses based on the strength of their institutional ownership, anal…
+### OTHER on 2025-08-22 12:24
+- Location: CBS News
+- Description: A panel denied Erik Menendez, Lyle's brother, parole after a 10-hour hearing on Thursday.
 
 
-### OTHER on 2025-08-22 06:09
-- Location: The Local Germany
-- Description: Porsche to lay off most staff at battery unit, affordable housing shortage increasingly affecting people with jobs, demand for childcare spaces remains high and more news from Germany this Friday, August 22nd.
+### HOMICIDE on 2025-08-22 12:23
+- Location: Israelnationalnews.com
+- Description: Jojo Rabia, a bereaved father whose two sons were murdered on 10/7, received his stolen cell phone containing his sons' voice messages, 'Thank you to everyone who helped.'
 
 
-### HOMICIDE on 2025-08-22 06:05
-- Location: The Times of India
-- Description: A nitrogen gas leak at Medley Pharma in Maharashtra's Palghar district resulted in the death of four workers and injuries to two others. Police have registered a case against four senior employees of the company under culpable homicide charges.
+### SHOOTING on 2025-08-22 12:23
+- Location: Freerepublic.com
+- Description: “Virtually everything the administration is doing is pro-crime.” On August 3, someone was shot about five blocks from my house in Washington, DC. Just two nights before, we had called 911 because of gunfire nearby—not an unusual occurrence. A week later, some…
 
 
-### HOMICIDE on 2025-08-22 06:00
-- Location: TheJournal.ie
-- Description: Trump wants to achieve an “end to the killing” not out of concern for the Ukrainian people, but because it will look good to his base, writes Donnelly.
+### OTHER on 2025-08-22 12:22
+- Location: ABC News
+- Description: Interpol has announced that a major cybercrime crackdown has led to the arrest of 1,209 suspects across Africa
 
 
-### OTHER on 2025-08-22 06:00
-- Location: ABC News (AU)
-- Description: Victorian police say the seizure of $7.2 million worth of illicit tobacco is linked to an alleged Iraqi crime syndicate that is laundering money and using to fund serious crimes like aggravated burglaries.
+### ROBBERY/THEFT on 2025-08-22 12:20
+- Location: Infosecurity Magazine
+- Description: Operation Serengeti 2.0 operators helped recover $97.4m stolen by cybercriminals
 
-Analysis generated at: Sat Aug 23 06:19:12 UTC 2025
+Analysis generated at: Sat Aug 23 12:25:22 UTC 2025
