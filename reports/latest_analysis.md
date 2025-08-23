@@ -1,10 +1,10 @@
 
-Loaded 53195 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-22 12:30:41
+Loaded 53289 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-22 18:16:22
 
 Incidents by source:
 source
-newsapi           53094
+newsapi           53188
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-08-22 12:30
-- Location: ABC News
-- Description: D.C., on Thursday to oversee the surge in federal law enforcement and National Guard responding to what he says is a crime emergency.
+### ASSAULT on 2025-08-22 18:16
+- Location: Breitbart News
+- Description: Newsom is gambling that the typical Democratic primary voter cares more about attacking the opposition than success in government.
+The post Blue State Blues: Newsom’s Rise Is an Indictment of the Democratic Party appeared first on Breitbart.
 
 
-### HOMICIDE on 2025-08-22 12:25
-- Location: The Conversation Africa
-- Description: In 1982, the brutal beating and death of Vincent Chin near a Detroit nightclub enraged the Asian American community and led to changes in the legal system.
+### SHOOTING on 2025-08-22 18:14
+- Location: Fox News
+- Description: An NYPD police officer was shot twice Friday morning while responding to the carjacking of an Uber driver by a violent career criminal who was out on parole, police and New York City Mayor Eric Adams said.
 
 
-### OTHER on 2025-08-22 12:24
-- Location: CBS News
-- Description: A panel denied Erik Menendez, Lyle's brother, parole after a 10-hour hearing on Thursday.
+### ASSAULT on 2025-08-22 18:06
+- Location: Ms. Magazine
+- Description: It took more than a century of fighting by generations of activists to achieve suffrage for all American women.
+The 19th Amendment to the U.S. Constitution reads, “The right of citizens of the United States to vote shall not be denied or abridged by the Unite…
 
 
-### HOMICIDE on 2025-08-22 12:23
-- Location: Israelnationalnews.com
-- Description: Jojo Rabia, a bereaved father whose two sons were murdered on 10/7, received his stolen cell phone containing his sons' voice messages, 'Thank you to everyone who helped.'
+### OTHER on 2025-08-22 18:06
+- Location: TODAY
+- Description: Shawn Hatosy previews Season 2 of "The Pitt," shares why the show is resonating so much and how he's preparing to direct Episode 9.
 
 
-### SHOOTING on 2025-08-22 12:23
-- Location: Freerepublic.com
-- Description: “Virtually everything the administration is doing is pro-crime.” On August 3, someone was shot about five blocks from my house in Washington, DC. Just two nights before, we had called 911 because of gunfire nearby—not an unusual occurrence. A week later, some…
+### HOMICIDE on 2025-08-22 18:04
+- Location: Billboard
+- Description: The legendary rapper just released one of the best albums of his late career. Check out our conversation.
 
-Analysis generated at: Sat Aug 23 12:42:42 UTC 2025
+Analysis generated at: Sat Aug 23 18:17:53 UTC 2025
