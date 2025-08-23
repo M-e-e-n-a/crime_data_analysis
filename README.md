@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Aug 23 01:04:06 UTC 2025
+Last updated: Sat Aug 23 01:46:46 UTC 2025
 
 ## Latest Analysis
 
-Loaded 53052 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-22 01:00:00
+Loaded 53062 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-22 01:41:25
 
 Incidents by source:
 source
-newsapi           52951
+newsapi           52961
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-08-22 01:00
-- Location: New Zealand Herald
-- Description: 'People who fire shots at residential housing should go to prison, bar nothing.'
+### OTHER on 2025-08-22 01:41
+- Location: Mediaite
+- Description: NewsNation host Leland Vittert slammed Democrats and residents of Washington, D.C., "who would prefer more crime."
+The post NewsNation Host Tells Viewers Trump’s Visit to National Guard in D.C. ‘Was Meant for You, in the Middle of America’ first appeared on M…
 
 
-### OTHER on 2025-08-22 00:55
-- Location: Japan Today
-- Description: President Donald Trump declared his crime crackdown in the nation's capital a success on Thursday as he visited federal officers deployed under his plan, which has drawn resident complaints that its tactics are too heavyhanded. Trump visited the U.S. Park Pol…
-
-
-### SHOOTING on 2025-08-22 00:55
-- Location: Breitbart News
-- Description: On Thursday’s broadcast of MSNBC’s “The Weeknight,” Rep. Madeleine Dean (D-PA) stated that in Philadelphia, “We struggle with crime. We struggle with gun violence.” But “it is extremely frightening” that President Donald Trump might use the National Guard lik…
-
-
-### HOMICIDE on 2025-08-22 00:52
+### SHOOTING on 2025-08-22 01:34
 - Location: CBS News
-- Description: The father of Boston Celtics star Jaylen Brown is facing attempted murder charges. Police say Quenton Marselles Brown stabbed a man multiple times during a parking lot dispute. CBS News' Andres Gutierrez reports.
+- Description: A report of an active shooter at Villanova turned out to be a "cruel hoax," according to the university president and Delaware County DA.
 
 
-### OTHER on 2025-08-22 00:47
-- Location: Bleeding Cool News
-- Description: Honey Don't! is a breezy little black comedy, and while it doesn't overstay its welcome and has excellent performances and even individual scenes, none of it comes together in any way that makes anything meaningful. Director: Ethan Coen Summary: A dark comedy…
+### HOMICIDE on 2025-08-22 01:32
+- Location: New York Post
+- Description: She was first charged in Nov 2023, but was never arrested since she wasn't in the US and hadn't been extradited from India.
 
-Analysis generated at: Sat Aug 23 01:04:06 UTC 2025
+
+### HOMICIDE on 2025-08-22 01:31
+- Location: Sky.com
+- Description: Colombian President Gustavo Petro attributed both a car bombing in Cali and an attack on a helicopter en route to Antioquia to dissidents of the defunct Revolutionary Armed Forces of Colombia.
+
+
+### ASSAULT on 2025-08-22 01:28
+- Location: New York Post
+- Description: It all stemmed from a Wednesday night incident in a Las Vegas park, where Quenton M. Brown allegedly stabbed another man over a “door ding."
+
+Analysis generated at: Sat Aug 23 01:46:46 UTC 2025
