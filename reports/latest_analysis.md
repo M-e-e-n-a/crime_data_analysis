@@ -1,10 +1,10 @@
 
-Loaded 53038 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-21 18:19:32
+Loaded 53052 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-22 01:00:00
 
 Incidents by source:
 source
-newsapi           52937
+newsapi           52951
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-08-21 18:19
-- Location: Rolling Stone
-- Description: Hernandez Govan faced charges of first-degree murder and conspiracy to commit first-degree murder after a Memphis district attorney claimed he “solicited the murder and put it into motion”
+### SHOOTING on 2025-08-22 01:00
+- Location: New Zealand Herald
+- Description: 'People who fire shots at residential housing should go to prison, bar nothing.'
 
 
-### OTHER on 2025-08-21 18:17
-- Location: Rolling Stone
-- Description: We join the R&B star on the set of a new music video to go deep on her excellent new album, being more than a famous girlfriend, and getting what she deserves
+### OTHER on 2025-08-22 00:55
+- Location: Japan Today
+- Description: President Donald Trump declared his crime crackdown in the nation's capital a success on Thursday as he visited federal officers deployed under his plan, which has drawn resident complaints that its tactics are too heavyhanded. Trump visited the U.S. Park Pol…
 
 
-### OTHER on 2025-08-21 18:13
-- Location: CoinDesk
-- Description: A fraudster posing as a hardware wallet support agent tricked a victim into handing over wallet credentials, draining 783 BTC.
+### SHOOTING on 2025-08-22 00:55
+- Location: Breitbart News
+- Description: On Thursday’s broadcast of MSNBC’s “The Weeknight,” Rep. Madeleine Dean (D-PA) stated that in Philadelphia, “We struggle with crime. We struggle with gun violence.” But “it is extremely frightening” that President Donald Trump might use the National Guard lik…
 
 
-### OTHER on 2025-08-21 18:10
-- Location: Memeorandum.com
-- Description: Brett Samuels / The Hill:
-Trump to patrol DC streets with police and military  —  President Trump said he plans to go out on patrol with the Metropolitan Police Department and National Guard troops around Washington, D.C., on Thursday night amid a federal cra…
+### HOMICIDE on 2025-08-22 00:52
+- Location: CBS News
+- Description: The father of Boston Celtics star Jaylen Brown is facing attempted murder charges. Police say Quenton Marselles Brown stabbed a man multiple times during a parking lot dispute. CBS News' Andres Gutierrez reports.
 
 
-### OTHER on 2025-08-21 18:06
-- Location: Freerepublic.com
-- Description: It’s possible Donald Trump’s abrupt decision to “federalize” law enforcement in Washington, D.C., was just a one-off power grab, reflecting the federal government’s unique control of the capital city and Trump’s own obsession with Washington as a symbol of th…
+### OTHER on 2025-08-22 00:47
+- Location: Bleeding Cool News
+- Description: Honey Don't! is a breezy little black comedy, and while it doesn't overstay its welcome and has excellent performances and even individual scenes, none of it comes together in any way that makes anything meaningful. Director: Ethan Coen Summary: A dark comedy…
 
-Analysis generated at: Fri Aug 22 18:19:57 UTC 2025
+Analysis generated at: Sat Aug 23 01:04:06 UTC 2025
