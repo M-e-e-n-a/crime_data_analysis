@@ -1,10 +1,10 @@
 
-Loaded 53062 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-22 01:41:25
+Loaded 53111 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-22 06:12:54
 
 Incidents by source:
 source
-newsapi           52961
+newsapi           53010
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-08-22 01:41
-- Location: Mediaite
-- Description: NewsNation host Leland Vittert slammed Democrats and residents of Washington, D.C., "who would prefer more crime."
-The post NewsNation Host Tells Viewers Trump’s Visit to National Guard in D.C. ‘Was Meant for You, in the Middle of America’ first appeared on M…
+### OTHER on 2025-08-22 06:12
+- Location: ETF Daily News
+- Description: Baozun (NASDAQ:BZUN – Get Free Report) and Ability (OTCMKTS:ABILF – Get Free Report) are both computer and technology companies, but which is the better business? We will contrast the two businesses based on the strength of their institutional ownership, anal…
 
 
-### SHOOTING on 2025-08-22 01:34
-- Location: CBS News
-- Description: A report of an active shooter at Villanova turned out to be a "cruel hoax," according to the university president and Delaware County DA.
+### OTHER on 2025-08-22 06:09
+- Location: The Local Germany
+- Description: Porsche to lay off most staff at battery unit, affordable housing shortage increasingly affecting people with jobs, demand for childcare spaces remains high and more news from Germany this Friday, August 22nd.
 
 
-### HOMICIDE on 2025-08-22 01:32
-- Location: New York Post
-- Description: She was first charged in Nov 2023, but was never arrested since she wasn't in the US and hadn't been extradited from India.
+### HOMICIDE on 2025-08-22 06:05
+- Location: The Times of India
+- Description: A nitrogen gas leak at Medley Pharma in Maharashtra's Palghar district resulted in the death of four workers and injuries to two others. Police have registered a case against four senior employees of the company under culpable homicide charges.
 
 
-### HOMICIDE on 2025-08-22 01:31
-- Location: Sky.com
-- Description: Colombian President Gustavo Petro attributed both a car bombing in Cali and an attack on a helicopter en route to Antioquia to dissidents of the defunct Revolutionary Armed Forces of Colombia.
+### HOMICIDE on 2025-08-22 06:00
+- Location: TheJournal.ie
+- Description: Trump wants to achieve an “end to the killing” not out of concern for the Ukrainian people, but because it will look good to his base, writes Donnelly.
 
 
-### ASSAULT on 2025-08-22 01:28
-- Location: New York Post
-- Description: It all stemmed from a Wednesday night incident in a Las Vegas park, where Quenton M. Brown allegedly stabbed another man over a “door ding."
+### OTHER on 2025-08-22 06:00
+- Location: ABC News (AU)
+- Description: Victorian police say the seizure of $7.2 million worth of illicit tobacco is linked to an alleged Iraqi crime syndicate that is laundering money and using to fund serious crimes like aggravated burglaries.
 
-Analysis generated at: Sat Aug 23 01:46:46 UTC 2025
+Analysis generated at: Sat Aug 23 06:19:12 UTC 2025
