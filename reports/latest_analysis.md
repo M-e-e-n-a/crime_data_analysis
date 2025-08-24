@@ -1,10 +1,10 @@
 
-Loaded 53335 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-23 06:00:03
+Loaded 53381 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-23 12:17:02
 
 Incidents by source:
 source
-newsapi           53234
+newsapi           53280
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-08-23 06:00
-- Location: RTE
-- Description: At a rally outside Westminster Magistrates' Court this week, demonstrators turned out in large numbers to support Kneecap band member Liam Óg Ó hAnnaidh who was defending a terrorism charge for the alleged display of a Hezbollah flag at a gig last November.
+### OTHER on 2025-08-23 12:17
+- Location: Business Insider
+- Description: I always thought I knew better than to get scammed out of money. But when I called a customer representative, I found myself handing over money.
 
 
-### SHOOTING on 2025-08-23 05:49
-- Location: The Times of India
-- Description: Shawn Kemp, ex-NBA star, receives home monitoring for a shooting from March 2023. The incident occurred in a Washington mall parking area. Kemp confronted two men he believed stole items from his truck. He will serve 30 days of electronic monitoring. Kemp mus…
+### HOMICIDE on 2025-08-23 12:16
+- Location: FOX 2 Detroit
+- Description: A 53-year-old Detroit man accused of fatally shooting his ex-wife in the basement of Henry Ford Hospital late Friday morning and sparking a manhunt is now in custody.
 
 
-### OTHER on 2025-08-23 05:39
-- Location: Everything-everywhere.com
-- Description: Podcast Transcript At the end of the 15th century, Spain had almost completed the Reconquista and the removal of the Caliphate in the Iberian Peninsula, ending centuries of Islamic rule. One of the first things they did was usher in an attempt to unify and pu…
+### OTHER on 2025-08-23 12:05
+- Location: New York Post
+- Description: These pervs are the driving force behind sex crimes in the city’s transit system.
 
 
-### ROBBERY/THEFT on 2025-08-23 05:32
-- Location: Common Dreams
-- Description: US President Donald Trump said Friday that Chicago is the next city in his crosshairs for the kind of federal invasion and occupation currently underway in Washington, DC—a threat that sparked defiant pushback from officials in the Windy City and beyond."Afte…
+### ASSAULT on 2025-08-23 12:05
+- Location: Fox News
+- Description: Two teenagers facing unarmed carjacking charges have been released from D.C.’s Youth Services Center as President Donald Trump cracks down on crime in the nation's capital.
 
 
-### OTHER on 2025-08-23 05:20
-- Location: Al Jazeera English
-- Description: Elected representatives jailed for 30 days on serious charges could lose their posts – even without a conviction.
+### OTHER on 2025-08-23 12:00
+- Location: ComicBook.com
+- Description: Lucasfilm - Disney+
+Star Wars has done some massive expansion on its own canon in the last ten years under Disney’s ownership; by now, even the most peripheral characters have been padded with extensive backstory and/or new developments, and that is especiall…
 
-Analysis generated at: Sun Aug 24 06:20:25 UTC 2025
+Analysis generated at: Sun Aug 24 12:25:48 UTC 2025
