@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Aug 24 02:00:47 UTC 2025
+Last updated: Sun Aug 24 06:20:25 UTC 2025
 
 ## Latest Analysis
 
-Loaded 53303 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-23 01:58:24
+Loaded 53335 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-23 06:00:03
 
 Incidents by source:
 source
-newsapi           53202
+newsapi           53234
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2025-08-23 01:58
-- Location: Freerepublic.com
-- Description: Three youths were arrested in connection with the assault of a bus driver in northeast Calgary last week. Calgary police say they heard from Calgary Transit that a bus driver had been assaulted in the early morning hours of Aug. 15. The female driver told pol…
+### OTHER on 2025-08-23 06:00
+- Location: RTE
+- Description: At a rally outside Westminster Magistrates' Court this week, demonstrators turned out in large numbers to support Kneecap band member Liam Óg Ó hAnnaidh who was defending a terrorism charge for the alleged display of a Hezbollah flag at a gig last November.
 
 
-### OTHER on 2025-08-23 01:27
-- Location: NBC News
-- Description: A video circulating online shows two brothers who were protesting the war in Gaza being forcibly pulled inside the Permanent Mission of Egypt to the U.N. in New York City before being led away in handcuffs by police earlier this week
+### SHOOTING on 2025-08-23 05:49
+- Location: The Times of India
+- Description: Shawn Kemp, ex-NBA star, receives home monitoring for a shooting from March 2023. The incident occurred in a Washington mall parking area. Kemp confronted two men he believed stole items from his truck. He will serve 30 days of electronic monitoring. Kemp mus…
 
 
-### ASSAULT on 2025-08-23 01:20
-- Location: Gatewayhispanic.com
-- Description: David Pérez-Teofani, an undocumented Mexican immigrant, was arrested on August 20, 2025, near the National Mall in Washington, D.C., after attempting to flee from federal agents.
-The post Journalist Defends Illegal Immigrant Accused of Child Sexual Assault ap…
+### OTHER on 2025-08-23 05:39
+- Location: Everything-everywhere.com
+- Description: Podcast Transcript At the end of the 15th century, Spain had almost completed the Reconquista and the removal of the Caliphate in the Iberian Peninsula, ending centuries of Islamic rule. One of the first things they did was usher in an attempt to unify and pu…
 
 
-### OTHER on 2025-08-23 01:09
-- Location: KSBW The Central Coast
-- Description: President Donald Trump visited a gift shop near the White House and stopped by the Kennedy Center on Friday, all while his federal takeover of Washington is keeping residents on edge
+### ROBBERY/THEFT on 2025-08-23 05:32
+- Location: Common Dreams
+- Description: US President Donald Trump said Friday that Chicago is the next city in his crosshairs for the kind of federal invasion and occupation currently underway in Washington, DC—a threat that sparked defiant pushback from officials in the Windy City and beyond."Afte…
 
 
-### OTHER on 2025-08-23 01:08
-- Location: KETV Omaha
-- Description: President Donald Trump visited a gift shop near the White House and stopped by the Kennedy Center on Friday, all while his federal takeover of Washington is keeping residents on edge
+### OTHER on 2025-08-23 05:20
+- Location: Al Jazeera English
+- Description: Elected representatives jailed for 30 days on serious charges could lose their posts – even without a conviction.
 
-Analysis generated at: Sun Aug 24 02:00:47 UTC 2025
+Analysis generated at: Sun Aug 24 06:20:25 UTC 2025
