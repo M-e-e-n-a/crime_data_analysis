@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Aug 23 18:17:53 UTC 2025
+Last updated: Sun Aug 24 01:13:45 UTC 2025
 
 ## Latest Analysis
 
-Loaded 53289 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-22 18:16:22
+Loaded 53300 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-23 01:09:27
 
 Incidents by source:
 source
-newsapi           53188
+newsapi           53199
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,30 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2025-08-22 18:16
-- Location: Breitbart News
-- Description: Newsom is gambling that the typical Democratic primary voter cares more about attacking the opposition than success in government.
-The post Blue State Blues: Newsom’s Rise Is an Indictment of the Democratic Party appeared first on Breitbart.
+### OTHER on 2025-08-23 01:09
+- Location: KSBW The Central Coast
+- Description: President Donald Trump visited a gift shop near the White House and stopped by the Kennedy Center on Friday, all while his federal takeover of Washington is keeping residents on edge
 
 
-### SHOOTING on 2025-08-22 18:14
+### OTHER on 2025-08-23 01:08
+- Location: KETV Omaha
+- Description: President Donald Trump visited a gift shop near the White House and stopped by the Kennedy Center on Friday, all while his federal takeover of Washington is keeping residents on edge
+
+
+### ROBBERY/THEFT on 2025-08-23 01:00
+- Location: ComicBook.com
+- Description: With Grand Theft Auto 6 officially delayed to 2026, players are looking for their next open-world crimefest to get stuck into. Fortunately, it’s proven a popular genre over the last few decades, giving players plenty of different takes on the formula. With th…
+
+
+### HOMICIDE on 2025-08-23 00:42
 - Location: Fox News
-- Description: An NYPD police officer was shot twice Friday morning while responding to the carjacking of an Uber driver by a violent career criminal who was out on parole, police and New York City Mayor Eric Adams said.
+- Description: Parents of missing 7-month-old Emmanuel Haro face murder charges as San Bernardino authorities continue search for the Southern California child.
 
 
-### ASSAULT on 2025-08-22 18:06
-- Location: Ms. Magazine
-- Description: It took more than a century of fighting by generations of activists to achieve suffrage for all American women.
-The 19th Amendment to the U.S. Constitution reads, “The right of citizens of the United States to vote shall not be denied or abridged by the Unite…
+### OTHER on 2025-08-23 00:36
+- Location: Freerepublic.com
+- Description: Thursday's arrests in Washington, D.C., during the Trump administration's federal crime crackdown included a suspected member of the brutal Salvadoran street gang MS-13. "Just yesterday we made 40 arrests, took 5 more illegal firearms off our streets, and had…
 
-
-### OTHER on 2025-08-22 18:06
-- Location: TODAY
-- Description: Shawn Hatosy previews Season 2 of "The Pitt," shares why the show is resonating so much and how he's preparing to direct Episode 9.
-
-
-### HOMICIDE on 2025-08-22 18:04
-- Location: Billboard
-- Description: The legendary rapper just released one of the best albums of his late career. Check out our conversation.
-
-Analysis generated at: Sat Aug 23 18:17:53 UTC 2025
+Analysis generated at: Sun Aug 24 01:13:45 UTC 2025
