@@ -1,10 +1,10 @@
 
-Loaded 53300 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-23 01:09:27
+Loaded 53303 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-23 01:58:24
 
 Incidents by source:
 source
-newsapi           53199
+newsapi           53202
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,6 +20,22 @@ bution.svg)
 
 ## Recent Incidents
 
+### ASSAULT on 2025-08-23 01:58
+- Location: Freerepublic.com
+- Description: Three youths were arrested in connection with the assault of a bus driver in northeast Calgary last week. Calgary police say they heard from Calgary Transit that a bus driver had been assaulted in the early morning hours of Aug. 15. The female driver told pol…
+
+
+### OTHER on 2025-08-23 01:27
+- Location: NBC News
+- Description: A video circulating online shows two brothers who were protesting the war in Gaza being forcibly pulled inside the Permanent Mission of Egypt to the U.N. in New York City before being led away in handcuffs by police earlier this week
+
+
+### ASSAULT on 2025-08-23 01:20
+- Location: Gatewayhispanic.com
+- Description: David Pérez-Teofani, an undocumented Mexican immigrant, was arrested on August 20, 2025, near the National Mall in Washington, D.C., after attempting to flee from federal agents.
+The post Journalist Defends Illegal Immigrant Accused of Child Sexual Assault ap…
+
+
 ### OTHER on 2025-08-23 01:09
 - Location: KSBW The Central Coast
 - Description: President Donald Trump visited a gift shop near the White House and stopped by the Kennedy Center on Friday, all while his federal takeover of Washington is keeping residents on edge
@@ -29,19 +45,4 @@ bution.svg)
 - Location: KETV Omaha
 - Description: President Donald Trump visited a gift shop near the White House and stopped by the Kennedy Center on Friday, all while his federal takeover of Washington is keeping residents on edge
 
-
-### ROBBERY/THEFT on 2025-08-23 01:00
-- Location: ComicBook.com
-- Description: With Grand Theft Auto 6 officially delayed to 2026, players are looking for their next open-world crimefest to get stuck into. Fortunately, it’s proven a popular genre over the last few decades, giving players plenty of different takes on the formula. With th…
-
-
-### HOMICIDE on 2025-08-23 00:42
-- Location: Fox News
-- Description: Parents of missing 7-month-old Emmanuel Haro face murder charges as San Bernardino authorities continue search for the Southern California child.
-
-
-### OTHER on 2025-08-23 00:36
-- Location: Freerepublic.com
-- Description: Thursday's arrests in Washington, D.C., during the Trump administration's federal crime crackdown included a suspected member of the brutal Salvadoran street gang MS-13. "Just yesterday we made 40 arrests, took 5 more illegal firearms off our streets, and had…
-
-Analysis generated at: Sun Aug 24 01:13:45 UTC 2025
+Analysis generated at: Sun Aug 24 02:00:47 UTC 2025
