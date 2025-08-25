@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Aug 25 01:09:15 UTC 2025
+Last updated: Mon Aug 25 01:55:24 UTC 2025
 
 ## Latest Analysis
 
-Loaded 53447 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-24 00:30:45
+Loaded 53456 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-24 01:50:55
 
 Incidents by source:
 source
-newsapi           53346
+newsapi           53355
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-08-24 00:30
+### SHOOTING on 2025-08-24 01:50
+- Location: Freerepublic.com
+- Description: A Frisco man faces three felony charges after firing a gun at a group of teenagers who attempted a "ding dong ditch" prank at his house. The Frisco Police Department said Monday that 58-year-old Damon Wolfe was arrested for the incident, which happened on the…
+
+
+### HOMICIDE on 2025-08-24 01:39
 - Location: ABC News (AU)
-- Description: Two men with multiple stab wounds, and a woman found unconscious, are located after police respond to a welfare concern this morning.
+- Description: Ms Luke, 48, was found with fatal stab wounds at her home in Taigum early Saturday morning.
 
 
-### OTHER on 2025-08-24 00:00
-- Location: The Washington Post
-- Description: Lohan's big-screen return is a testament to her resilience, and a redemption story for us.
-
-
-### OTHER on 2025-08-23 18:02
-- Location: Fox News
-- Description: The White House says National Guard activations in 19 states are unrelated to President Donald Trump’s push to expand Washington, D.C.’s federal crime crackdown to other cities.
-
-
-### HOMICIDE on 2025-08-23 18:00
-- Location: Fox News
-- Description: Forensic genetic genealogy helps link Vietnam veteran Larry Parks' 1980 murder to California's notorious Scorecard Killer in decades-old cold case.
-
-
-### SHOOTING on 2025-08-23 17:58
+### HOMICIDE on 2025-08-24 01:38
 - Location: New York Post
-- Description: Shawn Kemp was sentenced to 30 days of electronic home monitoring after firing a gun in a Tacoma shopping mall parking lot in March 2023.
+- Description: A shooting battle in the Bronx left one person dead and four injured — with four more arrested and multiple firearms recovered from the mayhem, according to sources and the NYPD. Bullets flew on Burke Avenue and Wickham Avenue just before 5:30 p.m. Saturday w…
 
-Analysis generated at: Mon Aug 25 01:09:15 UTC 2025
+
+### OTHER on 2025-08-24 01:22
+- Location: Digital Journal
+- Description: Civil servants, housewives and retirees alike lined up in Venezuela’s capital Caracas on Saturday as thousands volunteered to join the country’s militia in case there is a US invasion. President Nicolas Maduro called on citizens to respond to the current US “…
+
+
+### OTHER on 2025-08-24 01:21
+- Location: International Business Times
+- Description: Civil servants, housewives and retirees alike lined up in Venezuela's capital Caracas on Saturday as thousands volunteered to join the country's militia in case there is a US invasion.
+
+Analysis generated at: Mon Aug 25 01:55:24 UTC 2025
