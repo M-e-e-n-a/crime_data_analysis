@@ -1,10 +1,10 @@
 
-Loaded 53445 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-23 18:02:38
+Loaded 53447 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-24 00:30:45
 
 Incidents by source:
 source
-newsapi           53344
+newsapi           53346
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,6 +20,16 @@ bution.svg)
 
 ## Recent Incidents
 
+### OTHER on 2025-08-24 00:30
+- Location: ABC News (AU)
+- Description: Two men with multiple stab wounds, and a woman found unconscious, are located after police respond to a welfare concern this morning.
+
+
+### OTHER on 2025-08-24 00:00
+- Location: The Washington Post
+- Description: Lohan's big-screen return is a testament to her resilience, and a redemption story for us.
+
+
 ### OTHER on 2025-08-23 18:02
 - Location: Fox News
 - Description: The White House says National Guard activations in 19 states are unrelated to President Donald Trump’s push to expand Washington, D.C.’s federal crime crackdown to other cities.
@@ -34,14 +44,4 @@ bution.svg)
 - Location: New York Post
 - Description: Shawn Kemp was sentenced to 30 days of electronic home monitoring after firing a gun in a Tacoma shopping mall parking lot in March 2023.
 
-
-### OTHER on 2025-08-23 17:43
-- Location: Boredpanda.com
-- Description: “[Her] physiology was not suitable for analysis and an opinion on the polygraph examination."
-
-
-### OTHER on 2025-08-23 17:39
-- Location: The Times of India
-- Description: Kolkata police have filed a charge sheet against four individuals accused of the gang rape of a law student on her college campus in Kolkata. The charge sheet names Monojit Mishra, an alumnus and prime accused, along with three others, with charges including …
-
-Analysis generated at: Sun Aug 24 18:18:19 UTC 2025
+Analysis generated at: Mon Aug 25 01:09:15 UTC 2025
