@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Aug 25 06:23:20 UTC 2025
+Last updated: Mon Aug 25 12:29:36 UTC 2025
 
 ## Latest Analysis
 
-Loaded 53474 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-24 06:11:47
+Loaded 53502 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-24 12:27:55
 
 Incidents by source:
 source
-newsapi           53373
+newsapi           53401
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,33 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2025-08-24 06:11
-- Location: Al Jazeera English
-- Description: Ross Ulbricht built an empire in the shadows where drugs, weapons, and stolen secrets flowed freely.
+### OTHER on 2025-08-24 12:27
+- Location: TheJournal.ie
+- Description: The reports come after US President Donald Trump deployed National Guard troops this month in the capital Washington DC.
 
 
-### OTHER on 2025-08-24 06:00
-- Location: RTE
-- Description: Police in England arrested over 700 people in recent weeks for wearing Palestine Action t-shirts, while the PSNI has arrested just two, despite many attending a rally in Belfast last weekend. The differing responses has highlighted once again how Northern Ire…
+### ROBBERY/THEFT on 2025-08-24 12:23
+- Location: The Times of India
+- Description: The Samajwadi Party (SP) has requested a Union home ministry investigation into expelled MLA Pooja Pal's claims of life threats from the party, dismissing them as baseless. SP's Uttar Pradesh president, Shyamlal Pal, accused Pal of being influenced by the BJP…
 
 
-### HOMICIDE on 2025-08-24 06:00
-- Location: Naturalnews.com
-- Description: Cindy Rodriguez Singh, who is on the FBI’s “Ten Most Wanted Fugitives” list, was arrested in India and extradited to the U.S. to face charges in the murder of her 6-year-old son, Noel Rodriguez Alvarez. Singh fled the U.S. in March 2023 with her husband and s…
+### OTHER on 2025-08-24 12:22
+- Location: The Conversation Africa
+- Description: Haiti’s endless power transitions and the resulting insecurity crisis are closely connected to the country’s endemic systemic corruption.
 
 
-### OTHER on 2025-08-24 05:58
-- Location: Fox News
-- Description: Illinois Gov. JB Pritzker said there is no emergency following reports that the federal government may deploy the National Guard to Chicago.
+### OTHER on 2025-08-24 12:09
+- Location: The Times of India
+- Description: The Delhi government's BNSS Rules, 2025, will introduce electronic delivery of court summons and warrants via WhatsApp and e-mail. This initiative aims to expedite document delivery, reduce police workload, and ensure faster communication. The system includes…
 
 
-### HOMICIDE on 2025-08-24 05:19
-- Location: Spacewar.com
-- Description: Bogota (AFP) Aug 24, 2025
+### OTHER on 2025-08-24 11:14
+- Location: Fair Observer
+- Description: [This is the sixth part of a ten-part series. To read more, see Parts 1, 2, 3, 4 and 5 here.] Caffè Italiano: The two meet again and over tea and croissants, and begin conversing.  EU bureaucrat: I have the answer. I asked my boss about the statistic you thre…
 
- 
-Two guerrillas arrested after a truck bomb attack in Cali that killed six civilians and wounded more than 60 face aggravated homicide and other charges, Colombia's prosecutor's office said Saturday. 
-
-Thursday's attack in Cali cam…
-
-Analysis generated at: Mon Aug 25 06:23:20 UTC 2025
+Analysis generated at: Mon Aug 25 12:29:36 UTC 2025
