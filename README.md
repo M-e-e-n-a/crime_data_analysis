@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Aug 25 01:55:24 UTC 2025
+Last updated: Mon Aug 25 06:23:20 UTC 2025
 
 ## Latest Analysis
 
-Loaded 53456 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-24 01:50:55
+Loaded 53474 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-24 06:11:47
 
 Incidents by source:
 source
-newsapi           53355
+newsapi           53373
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,33 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-08-24 01:50
-- Location: Freerepublic.com
-- Description: A Frisco man faces three felony charges after firing a gun at a group of teenagers who attempted a "ding dong ditch" prank at his house. The Frisco Police Department said Monday that 58-year-old Damon Wolfe was arrested for the incident, which happened on the…
+### ROBBERY/THEFT on 2025-08-24 06:11
+- Location: Al Jazeera English
+- Description: Ross Ulbricht built an empire in the shadows where drugs, weapons, and stolen secrets flowed freely.
 
 
-### HOMICIDE on 2025-08-24 01:39
-- Location: ABC News (AU)
-- Description: Ms Luke, 48, was found with fatal stab wounds at her home in Taigum early Saturday morning.
+### OTHER on 2025-08-24 06:00
+- Location: RTE
+- Description: Police in England arrested over 700 people in recent weeks for wearing Palestine Action t-shirts, while the PSNI has arrested just two, despite many attending a rally in Belfast last weekend. The differing responses has highlighted once again how Northern Ire…
 
 
-### HOMICIDE on 2025-08-24 01:38
-- Location: New York Post
-- Description: A shooting battle in the Bronx left one person dead and four injured — with four more arrested and multiple firearms recovered from the mayhem, according to sources and the NYPD. Bullets flew on Burke Avenue and Wickham Avenue just before 5:30 p.m. Saturday w…
+### HOMICIDE on 2025-08-24 06:00
+- Location: Naturalnews.com
+- Description: Cindy Rodriguez Singh, who is on the FBI’s “Ten Most Wanted Fugitives” list, was arrested in India and extradited to the U.S. to face charges in the murder of her 6-year-old son, Noel Rodriguez Alvarez. Singh fled the U.S. in March 2023 with her husband and s…
 
 
-### OTHER on 2025-08-24 01:22
-- Location: Digital Journal
-- Description: Civil servants, housewives and retirees alike lined up in Venezuela’s capital Caracas on Saturday as thousands volunteered to join the country’s militia in case there is a US invasion. President Nicolas Maduro called on citizens to respond to the current US “…
+### OTHER on 2025-08-24 05:58
+- Location: Fox News
+- Description: Illinois Gov. JB Pritzker said there is no emergency following reports that the federal government may deploy the National Guard to Chicago.
 
 
-### OTHER on 2025-08-24 01:21
-- Location: International Business Times
-- Description: Civil servants, housewives and retirees alike lined up in Venezuela's capital Caracas on Saturday as thousands volunteered to join the country's militia in case there is a US invasion.
+### HOMICIDE on 2025-08-24 05:19
+- Location: Spacewar.com
+- Description: Bogota (AFP) Aug 24, 2025
 
-Analysis generated at: Mon Aug 25 01:55:24 UTC 2025
+ 
+Two guerrillas arrested after a truck bomb attack in Cali that killed six civilians and wounded more than 60 face aggravated homicide and other charges, Colombia's prosecutor's office said Saturday. 
+
+Thursday's attack in Cali cam…
+
+Analysis generated at: Mon Aug 25 06:23:20 UTC 2025
