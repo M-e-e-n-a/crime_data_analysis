@@ -1,10 +1,10 @@
 
-Loaded 53502 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-24 12:27:55
+Loaded 53503 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-24 12:44:44
 
 Incidents by source:
 source
-newsapi           53401
+newsapi           53402
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -19,6 +19,11 @@ bution.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### OTHER on 2025-08-24 12:44
+- Location: The-independent.com
+- Description: ‘This is a horrible decision!’ one furious fan said
+
 
 ### OTHER on 2025-08-24 12:27
 - Location: TheJournal.ie
@@ -39,9 +44,4 @@ bution.svg)
 - Location: The Times of India
 - Description: The Delhi government's BNSS Rules, 2025, will introduce electronic delivery of court summons and warrants via WhatsApp and e-mail. This initiative aims to expedite document delivery, reduce police workload, and ensure faster communication. The system includes…
 
-
-### OTHER on 2025-08-24 11:14
-- Location: Fair Observer
-- Description: [This is the sixth part of a ten-part series. To read more, see Parts 1, 2, 3, 4 and 5 here.] Caffè Italiano: The two meet again and over tea and croissants, and begin conversing.  EU bureaucrat: I have the answer. I asked my boss about the statistic you thre…
-
-Analysis generated at: Mon Aug 25 12:29:36 UTC 2025
+Analysis generated at: Mon Aug 25 12:49:55 UTC 2025
