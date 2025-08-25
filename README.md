@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Aug 25 12:49:55 UTC 2025
+Last updated: Mon Aug 25 18:21:20 UTC 2025
 
 ## Latest Analysis
 
-Loaded 53503 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-24 12:44:44
+Loaded 53579 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-24 18:19:32
 
 Incidents by source:
 source
-newsapi           53402
+newsapi           53478
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-08-24 12:44
-- Location: The-independent.com
-- Description: ‘This is a horrible decision!’ one furious fan said
+### SHOOTING on 2025-08-24 18:19
+- Location: Newsweek
+- Description: Officers responded to the report of an active shooter at Austin Hall on Sunday morning.
 
 
-### OTHER on 2025-08-24 12:27
-- Location: TheJournal.ie
-- Description: The reports come after US President Donald Trump deployed National Guard troops this month in the capital Washington DC.
+### OTHER on 2025-08-24 18:19
+- Location: CBS News
+- Description: On this "Face the Nation with Margaret Brennan" broadcast, Maryland Gov. Wes Moore and UNICEF executive director Catherine Russell join Margaret Brennan.
 
 
-### ROBBERY/THEFT on 2025-08-24 12:23
-- Location: The Times of India
-- Description: The Samajwadi Party (SP) has requested a Union home ministry investigation into expelled MLA Pooja Pal's claims of life threats from the party, dismissing them as baseless. SP's Uttar Pradesh president, Shyamlal Pal, accused Pal of being influenced by the BJP…
+### OTHER on 2025-08-24 18:15
+- Location: Freerepublic.com
+- Description: To: All Who Wish to Stop Donald Trump and MAGAFrom: Third WayFor a party that spends billions of dollars trying to find the perfect language to connect to voters, Democrats and their allies use an awful lot of words and phrases no ordinary person would ever d…
 
 
-### OTHER on 2025-08-24 12:22
-- Location: The Conversation Africa
-- Description: Haiti’s endless power transitions and the resulting insecurity crisis are closely connected to the country’s endemic systemic corruption.
+### OTHER on 2025-08-24 18:15
+- Location: Freerepublic.com
+- Description: To: All Who Wish to Stop Donald Trump and MAGAFrom: Third WayFor a party that spends billions of dollars trying to find the perfect language to connect to voters, Democrats and their allies use an awful lot of words and phrases no ordinary person would ever d…
 
 
-### OTHER on 2025-08-24 12:09
-- Location: The Times of India
-- Description: The Delhi government's BNSS Rules, 2025, will introduce electronic delivery of court summons and warrants via WhatsApp and e-mail. This initiative aims to expedite document delivery, reduce police workload, and ensure faster communication. The system includes…
+### OTHER on 2025-08-24 18:14
+- Location: Cosmopolitan.com
+- Description: His storyline comes to a head in episode three and this is your reminder of everything he went through last season.
 
-Analysis generated at: Mon Aug 25 12:49:55 UTC 2025
+Analysis generated at: Mon Aug 25 18:21:20 UTC 2025
