@@ -1,10 +1,10 @@
 
-Loaded 53620 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-25 06:09:01
+Loaded 53700 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-25 12:25:58
 
 Incidents by source:
 source
-newsapi           53519
+newsapi           53599
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-08-25 06:09
-- Location: CNA
-- Description: Elvin Suriaganandhan was helping a friend, who had been promised S$20,000 to climb into a warehouse unit to steal seized vapes.
+### HOMICIDE on 2025-08-25 12:25
+- Location: Tallahassee Democrat
+- Description: Donna Adelson is back in court today for the fifth day of her trial in the murder-for-hire plot that killed her ex son-in-law, Dan Markel.
 
 
-### OTHER on 2025-08-25 06:00
-- Location: Naturalnews.com
-- Description: National Guard Deployment: President Trump has authorized National Guard troops in major U.S. cities to suppress expected left-wing riots triggered by Deep State indictments targeting figures like Brennan, Clapper, and Clinton. Blue Cities as Battlegrounds: L…
+### OTHER on 2025-08-25 12:18
+- Location: DW (English)
+- Description: Ranil Wickremesinghe made history in Sri Lanka by becoming the first ever ex-president to be arrested. He is facing charges for alleged misuse of public funds. The arrest of former Sri Lankan President Ranil Wickremesinghe on Friday triggered both outcry and …
 
 
-### OTHER on 2025-08-25 06:00
-- Location: Naturalnews.com
-- Description: A Pew Research Center report revealed the number of illegal immigrants in the U.S. reached 12 million in 2023, following a 3.5 million increase in just two years under former President Joe Biden. Pew attributes the surge to unlawful border crossings, visa ove…
+### HOMICIDE on 2025-08-25 12:11
+- Location: The Conversation Africa
+- Description: Research shows that rural women in the US are more likely to be killed by their current or former male partners compared to their urban and suburban counterparts.
 
 
-### OTHER on 2025-08-25 05:56
-- Location: Hurriyet Daily News
-- Description: Donald Trump threatened to deploy National Guard troops Sunday to yet another Democratic stronghold, the Maryland city of Baltimore, as the U.S. president seeks to expand his crackdown on crime and immigration.
+### HOMICIDE on 2025-08-25 12:00
+- Location: The Denver Post
+- Description: Colorado judges are becoming more likely to hand out dismissals or charge reductions as a sanction for prosecutors' discovery violations.
 
 
-### OTHER on 2025-08-25 05:55
-- Location: CounterPunch
-- Description: Wolfgang Streeck, director emeritus of the Max Planck Institute for the Study of Societies in Cologne, is in the front ranks of Europe’s social thinkers, having come out with some of the most penetrating analyses of the crises of neoliberal economics and the …
+### ROBBERY/THEFT on 2025-08-25 11:55
+- Location: Mactrast.com
+- Description: Two suspects have been arrested and charged with fraud in connection with eight thefts of laptops like the MacBook.Read More...
 
-Analysis generated at: Tue Aug 26 06:22:04 UTC 2025
+Analysis generated at: Tue Aug 26 12:30:36 UTC 2025
