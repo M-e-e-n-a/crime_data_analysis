@@ -1,10 +1,10 @@
 
-Loaded 53873 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-26 06:16:55
+Loaded 53965 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-26 12:28:09
 
 Incidents by source:
 source
-newsapi           53772
+newsapi           53864
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-08-26 06:16
-- Location: BBC News
-- Description: People have been asked to avoid the scene, which has been described as an "active and ongoing incident".
+### OTHER on 2025-08-26 12:28
+- Location: The Week Magazine
+- Description: Risk-assessment checklist relied on by police and social services deemed unfit for frontline use
 
 
-### OTHER on 2025-08-26 06:16
-- Location: The Local Germany
-- Description: Majority of refugees that arrived in 2015 are working, non-government organisations urge Berlin to give refuge to stranded Afghans, a German state wants to ban 'voyeuristic photography' and more news on Tuesday, August 26th.
+### OTHER on 2025-08-26 12:26
+- Location: Freerepublic.com
+- Description: PALM BEACH COUNTY, Fla. — Two men in Palm Beach County have been formally charged in relation to crimes against a child. The Palm Beach County State Attorney’s Office announced Friday that a grand jury has formally charged Josue D. Mendez-Sales, 27, and Pablo…
 
 
-### OTHER on 2025-08-26 06:05
-- Location: ABC News
-- Description: Philippine President Ferdinand Marcos Jr. has fired his national police chief, who gained attention for leading the separate arrests of ex- President Rodrigo Duterte on orders of the International Criminal Court, and televangelist Apollo Quiboloy, who ...
+### HOMICIDE on 2025-08-26 12:26
+- Location: Common Dreams
+- Description: In my 50-some years of community and political ministry, and organizing that resisted Boston's test with "stop and frisk" after the hoax of Charles Stuart murdering his wife and blaming it on a Black man, I thought I had seen it all. Then when Edward Coristin…
 
 
-### OTHER on 2025-08-26 06:00
-- Location: Naturalnews.com
-- Description: Political Persecution Alleged: Joby Weeks, a Bitcoin entrepreneur, claims the DOJ is targeting him for advocating decentralized finance and libertarian ideals, facing wire fraud charges he insists are politically motivated. Legitimacy of Bit Club Defended: We…
+### SHOOTING on 2025-08-26 12:18
+- Location: Freerepublic.com
+- Description: ATLANTIC BEACH, Fla. – A man died Monday night after he was shot by nine officers following a tense and chaotic series of events that began at a boat ramp and ended in a crash in Atlantic Beach, the Jacksonville Sheriff’s Office said. According to JSO, the in…
 
 
-### OTHER on 2025-08-26 06:00
-- Location: Naturalnews.com
-- Description: A left-leaning think tank is urging Democrats to stop repelling normal human beings with the use of a deep grab-bag of woke words and phrases. The road to electoral Hell is paved with good intentions, writes Third Way: “The intent of this language is to inclu…
+### HOMICIDE on 2025-08-26 12:17
+- Location: Freerepublic.com
+- Description: A young Ukrainian woman who fled to the United States seeking a better life has been identified as the victim of a merciless stabbing on Friday night. Iryna Zarutska, 23, was found dead at 9.55pm on Friday at South End light rail station in Charlotte, North C…
 
-Analysis generated at: Wed Aug 27 06:20:42 UTC 2025
+Analysis generated at: Wed Aug 27 12:28:32 UTC 2025
