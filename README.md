@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Aug 27 01:48:24 UTC 2025
+Last updated: Wed Aug 27 06:20:42 UTC 2025
 
 ## Latest Analysis
 
-Loaded 53827 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-26 01:42:11
+Loaded 53873 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-26 06:16:55
 
 Incidents by source:
 source
-newsapi           53726
+newsapi           53772
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-08-26 01:42
-- Location: ABC News (AU)
-- Description: Beau Lamarre-Condon has been in custody since last February, when he was arrested after attending a Bondi police station following the disappearance of Jesse Baird and Luke Davies.
+### HOMICIDE on 2025-08-26 06:16
+- Location: BBC News
+- Description: People have been asked to avoid the scene, which has been described as an "active and ongoing incident".
 
 
-### HOMICIDE on 2025-08-26 01:38
-- Location: New York Post
-- Description: Iryna Zarutska had "recently arrived in the United States, seeking safety from the war and hoping for a new beginning," according to a GoFundMe.
+### OTHER on 2025-08-26 06:16
+- Location: The Local Germany
+- Description: Majority of refugees that arrived in 2015 are working, non-government organisations urge Berlin to give refuge to stranded Afghans, a German state wants to ban 'voyeuristic photography' and more news on Tuesday, August 26th.
 
 
-### OTHER on 2025-08-26 01:30
-- Location: ComicBook.com
-- Description: Courtesy of Toei Animation
-Magical girl anime is a huge genre within the anime community, and for good reason— despite the association of perhaps being lighthearted, frilly, and without substance, often magical girl shows are the exact opposite. They explore …
+### OTHER on 2025-08-26 06:05
+- Location: ABC News
+- Description: Philippine President Ferdinand Marcos Jr. has fired his national police chief, who gained attention for leading the separate arrests of ex- President Rodrigo Duterte on orders of the International Criminal Court, and televangelist Apollo Quiboloy, who ...
 
 
-### OTHER on 2025-08-26 01:28
-- Location: Fox News
-- Description: CBP agents foiled a carjacking in Washington, D.C. during Trump's crime crackdown that has resulted in over 1,000 arrests since the operation began.
+### OTHER on 2025-08-26 06:00
+- Location: Naturalnews.com
+- Description: Political Persecution Alleged: Joby Weeks, a Bitcoin entrepreneur, claims the DOJ is targeting him for advocating decentralized finance and libertarian ideals, facing wire fraud charges he insists are politically motivated. Legitimacy of Bit Club Defended: We…
 
 
-### SHOOTING on 2025-08-26 01:28
-- Location: NBC News
-- Description: At least a half-dozen universities across the nation on Monday welcomed students to first-day-of-fall classes with run-and-hide warnings about possible gunmen on campus
+### OTHER on 2025-08-26 06:00
+- Location: Naturalnews.com
+- Description: A left-leaning think tank is urging Democrats to stop repelling normal human beings with the use of a deep grab-bag of woke words and phrases. The road to electoral Hell is paved with good intentions, writes Third Way: “The intent of this language is to inclu…
 
-Analysis generated at: Wed Aug 27 01:48:24 UTC 2025
+Analysis generated at: Wed Aug 27 06:20:42 UTC 2025
