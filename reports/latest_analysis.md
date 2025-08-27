@@ -1,10 +1,10 @@
 
-Loaded 53974 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-26 12:46:24
+Loaded 54067 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-26 18:17:17
 
 Incidents by source:
 source
-newsapi           53873
+newsapi           53966
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-08-26 12:46
-- Location: Www.gov.uk
-- Description: Government announces crackdown on 'honour'-based abuse.
-
-
-### OTHER on 2025-08-26 12:45
-- Location: Khabarhub.com
-- Description: KATHMANDU: Police have arrested two individuals on charges of fraud after they allegedly swindled victims by falsely promising foreign employment opportunities in Israel and Japan. The suspects have been identified as Susan Tamrakar, 28, of Putalibazaar Munic…
-
-
-### OTHER on 2025-08-26 12:43
-- Location: Mediaite
-- Description: Scarborough grilled Chicago Mayor Brandon Johnson for an answer after the Democrat repeatedly refused to say if he’d accept more police resourcing from Trump.
-The post ‘Yes or No!?’ Chicago’s Dem Mayor Refuses FIVE Times to Answer Scarborough on Whether He’d …
-
-
-### OTHER on 2025-08-26 12:40
+### HOMICIDE on 2025-08-26 18:17
 - Location: Fox News
-- Description: Illinois Gov. J.B. Pritzker blasted President Trump as a "wannabe dictator" Monday, accusing him of trying to "occupy" Chicago with National Guard troops after reports of a possible deployment to the city.
+- Description: Man charged with murdering Ukrainian woman Iryna Zarutska at Charlotte transit station as community raises funds for family expenses
 
 
-### OTHER on 2025-08-26 12:40
+### ROBBERY/THEFT on 2025-08-26 18:17
+- Location: ABC News
+- Description: Police seized $3.7 million in stolen goods during a months-long investigation.
+
+
+### HOMICIDE on 2025-08-26 18:12
+- Location: Deadline
+- Description: Angela Lansbury got 12 seasons and some TV movies out of Murder She Wrote in her later years. Agatha Christie is still revered for her murder mysteries, still being made and remade on the big and small screens. The Best Exotic Marigold Hotel and its sequel ga…
+
+
+### HOMICIDE on 2025-08-26 18:09
 - Location: Freerepublic.com
-- Description: The liberals have gotten so absurd that they have turned themselves into comedy material. Therefore Justine Brooke Murray is now performing MRCTV comedy based on material published in Newsbusters. Here is Justine commenting on the absurdity of a Politico edit…
+- Description: Detectives launched a murder investigation after Sean Small, 84, was found outside the property in Newcastle in County Down, Northern Ireland, late on Sunday night. An elderly man who had recently been released from prison after serving a sentence for sexual …
 
-Analysis generated at: Wed Aug 27 12:47:08 UTC 2025
+
+### SHOOTING on 2025-08-26 18:01
+- Location: ABC News
+- Description: Louisiana officials expressed sadness over a road rage confrontation that left a pregnant 17-year-old in critical condition and caused her baby to be delivered early
+
+Analysis generated at: Wed Aug 27 18:19:48 UTC 2025
