@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Aug 26 18:19:39 UTC 2025
+Last updated: Wed Aug 27 01:05:16 UTC 2025
 
 ## Latest Analysis
 
-Loaded 53799 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-25 18:15:48
+Loaded 53813 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-26 00:45:21
 
 Incidents by source:
 source
-newsapi           53698
+newsapi           53712
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### DRUG RELATED on 2025-08-25 18:15
-- Location: The Times of India
-- Description: The Enforcement Directorate (ED) has dismantled an international drug trafficking syndicate with connections spanning multiple countries. Investigations began following the seizure of 4.3 kg of cocaine in Goa, leading to searches across several Indian states.…
+### ROBBERY/THEFT on 2025-08-26 00:45
+- Location: WPXI Pittsburgh
+- Description: An armed robbery suspect is in custody after a police chase through parts of Pittsburgh and into Penn Hills.
 
 
-### HOMICIDE on 2025-08-25 18:12
-- Location: Wnd.com
-- Description: 'It is a literal statement that President Trump has freed 700,00 people n this city who were living under the rule of criminals and thugs'
+### OTHER on 2025-08-26 00:42
+- Location: Variety
+- Description: In the Netflix documentary “The Truth About Jussie Smollett?”, police, lawyers, journalists, investigators, and Smollett rehash the events of January 29, 2019 — the infamous day when the former “Empire” actor reported that he was a victim of a violent hate cr…
 
 
-### HOMICIDE on 2025-08-25 18:11
-- Location: Israelnationalnews.com
-- Description: The State Prosecutor told the Supreme Court that police opened an investigation into Fatah official Abbas Zaki for incitement, after he praised Hamas and called for murdering Jews.
+### HOMICIDE on 2025-08-26 00:40
+- Location: Thegatewaypundit.com
+- Description: Nearly 30 years ago, popular rock musician Kurt Cobain was found dead in his Seattle home on April 8, 1994.
+The post Courtney Love, Frances Bean Cobain, Send Cease-and-Desist to Journalists Covering Cobain’s 1994 Death appeared first on The Gateway Pundit.
 
 
-### SHOOTING on 2025-08-25 18:10
-- Location: TMZ
-- Description: Jussie Smollett is sticking by his hate crime story ... but the Nigerian brothers who claim Jussie paid them to stage the attack say Smollett needs to stop lying about what went down that fateful night in Chicago. Abel and Ola Osundairo sent Jussie…
- Permalink
+### ROBBERY/THEFT on 2025-08-26 00:37
+- Location: ABC News (AU)
+- Description: The night-time use of Police Air Wing aircraft prompts some complaints from Geraldton residents, but officers say it is playing a key role in an ongoing crackdown on burglaries.
 
 
-### OTHER on 2025-08-25 18:06
-- Location: New York Post
-- Description: New York scrapped bail for most misdemeanors and non-violent felonies in 2019 — and allowed judges to consider the offender’s financial situation when making bond determinations.
+### ROBBERY/THEFT on 2025-08-26 00:37
+- Location: ABC News (AU)
+- Description: The night-time use of Police Air Wing aircraft prompts some complaints from Geraldton residents, but officers say it is playing a key role in an ongoing crackdown on burglaries.
 
-Analysis generated at: Tue Aug 26 18:19:39 UTC 2025
+Analysis generated at: Wed Aug 27 01:05:16 UTC 2025
