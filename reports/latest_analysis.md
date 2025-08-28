@@ -1,10 +1,10 @@
 
-Loaded 54067 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-26 18:17:17
+Loaded 54076 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-27 01:01:00
 
 Incidents by source:
 source
-newsapi           53966
+newsapi           53975
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-08-26 18:17
-- Location: Fox News
-- Description: Man charged with murdering Ukrainian woman Iryna Zarutska at Charlotte transit station as community raises funds for family expenses
+### OTHER on 2025-08-27 01:01
+- Location: Starcommunity.com.au
+- Description: The City of Casey has been identified as Victoria’s family violence hotspot, with police revealing nearly 7000 incidents recorded so far this year, the highest volume of reports for an LGA in the state. This figure formed the centrepiece of discussion during …
 
 
-### ROBBERY/THEFT on 2025-08-26 18:17
+### ROBBERY/THEFT on 2025-08-27 00:38
 - Location: ABC News
-- Description: Police seized $3.7 million in stolen goods during a months-long investigation.
+- Description: Hundreds of people have been arrested since President Donald Trump’s crime crackdown flooded the nation’s capital with federal agents and troops
 
 
-### HOMICIDE on 2025-08-26 18:12
-- Location: Deadline
-- Description: Angela Lansbury got 12 seasons and some TV movies out of Murder She Wrote in her later years. Agatha Christie is still revered for her murder mysteries, still being made and remade on the big and small screens. The Best Exotic Marigold Hotel and its sequel ga…
+### OTHER on 2025-08-27 00:30
+- Location: ComicBook.com
+- Description: Image Courtesy of TOHO
+The Apothecary Diaries manga went on a hiatus after releasing Chapter 80 in April 2025, and it has finally returned to its usual monthly schedule. Between the manga artist, Nekokurage’s arrest due to tax evasion, and her failing health,…
 
 
-### HOMICIDE on 2025-08-26 18:09
-- Location: Freerepublic.com
-- Description: Detectives launched a murder investigation after Sean Small, 84, was found outside the property in Newcastle in County Down, Northern Ireland, late on Sunday night. An elderly man who had recently been released from prison after serving a sentence for sexual …
-
-
-### SHOOTING on 2025-08-26 18:01
+### SHOOTING on 2025-08-27 00:22
 - Location: ABC News
-- Description: Louisiana officials expressed sadness over a road rage confrontation that left a pregnant 17-year-old in critical condition and caused her baby to be delivered early
+- Description: A rash of hoax calls about active shooters on at least a dozen college campuses around the U.S. has spread fear among students as the school year begins
 
-Analysis generated at: Wed Aug 27 18:19:48 UTC 2025
+
+### OTHER on 2025-08-27 00:11
+- Location: WPIX 11 New York
+- Description: NEW JERSEY (PIX11) — A New Jersey cop is accused of filming a female inmate in her holding cell while she was engaging in a sexual act and then using...
+
+Analysis generated at: Thu Aug 28 01:04:32 UTC 2025
