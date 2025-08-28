@@ -1,10 +1,10 @@
 
-Loaded 54131 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-27 06:18:21
+Loaded 54187 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-27 12:21:13
 
 Incidents by source:
 source
-newsapi           54030
+newsapi           54086
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-08-27 06:18
-- Location: International Business Times
-- Description: Police searched the Australian bush on Wednesday for a heavily armed 56-year-old gunman still on the run a day after allegedly killing two officers and wounding a third.
+### SHOOTING on 2025-08-27 12:21
+- Location: CBC News
+- Description: A boy was shot outside a TTC bus in the east end on Aug. 6, police say. Two teens now face multiple charges.
 
 
-### HOMICIDE on 2025-08-27 06:17
-- Location: Digital Journal
-- Description: Police searched the Australian bush on Wednesday for a heavily armed 56-year-old gunman still on the run a day after allegedly killing two officers and wounding a third. Officers hunted through the night for the man identified as Dezi Freeman, who fled on foo…
-
-
-### OTHER on 2025-08-27 06:15
+### ROBBERY/THEFT on 2025-08-27 12:08
 - Location: The Times of India
-- Description: In Delhi's Samaypur Badli, Sujeet Mandal died after a 16-year-old hit him with a car. The car dragged Mandal for 600 metres. CCTV footage showed the horrific incident. The boy fled but police arrested him. He claimed he was afraid of the crowd. Police have fi…
+- Description: Donald Trump's tough stance on crime gains traction. A recent poll reveals increased approval for his handling of crime. This contrasts with views on immigration and the economy. Most Americans see crime as a major issue in cities. Trump has deployed the Nati…
 
 
-### SHOOTING on 2025-08-27 06:09
-- Location: The Local Sweden
-- Description: Two men injured in new Stockholm car shooting, Government squabbles with opposition after school meeting, and other news from Sweden on Wednesday.
+### OTHER on 2025-08-27 12:00
+- Location: Observer
+- Description: The unprecedented increase in value of work by street artists has led to a commodification of a product that was once simply a source of public enjoyment.
 
 
-### HOMICIDE on 2025-08-27 06:08
-- Location: The Irish Times
-- Description: AUSTRALIA-CRIME/ (TV, PIX):Manhunt continues in Australian bush for 'heavily armed' suspect after two officers shot dead
+### HOMICIDE on 2025-08-27 11:50
+- Location: Antaranews.com
+- Description: Indonesian police on Tuesday reenacted the killings of two police&#39;s elite Mobile Brigade (Brimob) officers in Central Papua as part of an ongoing ...
 
-Analysis generated at: Thu Aug 28 06:21:36 UTC 2025
+
+### ROBBERY/THEFT on 2025-08-27 11:33
+- Location: Boston Herald
+- Description: A new poll finds Americans are more positive about Donald Trump's about his tough-on-crime approach than his other policies.
+
+Analysis generated at: Thu Aug 28 12:28:15 UTC 2025
