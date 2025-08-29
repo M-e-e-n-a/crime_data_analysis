@@ -1,10 +1,10 @@
 
-Loaded 54289 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-27 18:19:20
+Loaded 54309 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-28 01:00:55
 
 Incidents by source:
 source
-newsapi           54188
+newsapi           54208
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-08-27 18:19
-- Location: WAVY.com
-- Description: VIRGINIA BEACH, Va. (WAVY) – A man is in custody following the report of gunshots at a youth football event at Bayside Middle School in Virginia Beach. An...
+### HOMICIDE on 2025-08-28 01:00
+- Location: Fox News
+- Description: MSNBC host Jen Psaki blasted prayer and President Trump's D.C. crime strategy following the deadly shooting at Annunciation Catholic School in Minneapolis.
 
 
-### SHOOTING on 2025-08-27 18:15
-- Location: CBS News
-- Description: "My friend Victor like, saved me though. 'Cause he laid on top of me. But he got hit," said fifth grade student Weston Halsne. "I was super scared for him. But I think now he's ok."
+### OTHER on 2025-08-28 00:59
+- Location: Freerepublic.com
+- Description: Islam has been expanding at the expense of Western Civilization for 1,400 years. For centuries, its advance was retarded by the military superiority of the West. But as moonbattery eats away at our will to defend ourselves, the conquest has gone back into hig…
 
 
-### SHOOTING on 2025-08-27 18:14
-- Location: TMZ
-- Description: Law enforcement responding to a mass shooting at a Minneapolis Catholic school called for a bunch of medical personnel and resources to handle a large number of gunshot victims ... including one person who took a bullet to the head ... police dispatch audio r…
+### OTHER on 2025-08-28 00:57
+- Location: Just Jared
+- Description: Elizabeth Banks has booked her next role in a new true-crime series! The 51-year-old Emmy-nominated actress has signed on to star in the upcoming limited series based on Karen Read‘s infamous court case, which Prime Video and Warner Bros. Television are devel…
 
 
-### OTHER on 2025-08-27 18:10
-- Location: Sky.com
-- Description: James Clacher, 57, has denied violently raping two women and has lodged a special defence at his trial at the High Court in Glasgow, claiming any sex was consensual.
+### DRUG RELATED on 2025-08-28 00:55
+- Location: The Times of India
+- Description: In Washington, D.C., during the summer of 2025, a federal law enforcement intervention under President Trump has heightened tensions. A drug and firearm arrest near Bancroft Elementary School sparked outrage among residents, already on edge due to immigration…
 
 
-### SHOOTING on 2025-08-27 18:08
-- Location: Mediaite
-- Description: ABC News White House correspondent Mary Bruce called out Trump for not throwing "the weight and the heft" of his office into addressing mass shootings.
-The post ABC White House Correspondent Calls Out Trump Over School Shooting: Hasn’t Thrown ‘Weight’ Of His …
+### OTHER on 2025-08-28 00:47
+- Location: The Indian Express
+- Description: It was a well-planned fraud with Jaykab and his associate, Rupesh, allegedly duping the 19 aspiring job seekers of Rs 70 lakh as part of “visa processing fees”, the Delhi Police said. The duo were nabbed on Tuesday.
 
-Analysis generated at: Thu Aug 28 18:19:50 UTC 2025
+Analysis generated at: Fri Aug 29 01:04:36 UTC 2025
