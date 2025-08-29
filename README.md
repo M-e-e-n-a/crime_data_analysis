@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Aug 29 01:47:15 UTC 2025
+Last updated: Fri Aug 29 06:21:19 UTC 2025
 
 ## Latest Analysis
 
-Loaded 54322 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-28 01:36:28
+Loaded 54380 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-28 06:20:00
 
 Incidents by source:
 source
-newsapi           54221
+newsapi           54279
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-08-28 01:36
-- Location: Crikey
-- Description: The peddled narrative that a spectrum stretches from pro-Palestine protests to antisemitic violence has been discredited this week. Meanwhile, the real threat of white right-wing extremism has been tragically displayed.
-The post How one dark day unravelled Au…
+### OTHER on 2025-08-28 06:20
+- Location: ComputerWeekly.com
+- Description: Tech giant Microsoft is declining to share key information with Police Scotland about where the sensitive data it uploads to Office 365 will be processed, leaving the force unable to comply with UK-wide data protection laws
 
 
-### ROBBERY/THEFT on 2025-08-28 01:31
-- Location: New York Post
-- Description: Cops also found a $40,000 diamond ring, gold chains, gold coins, $30,000 in cash and additional deluxe watches hidden in a stuffed animal. The total worth of the loot is estimated to be $400,000.
+### HOMICIDE on 2025-08-28 06:07
+- Location: Digital Journal
+- Description: Australian police said Thursday they will not rest until they catch a 56-year-old gunman who fled into the bush two days earlier after allegedly killing two officers. Detectives said they were speaking to the man’s partner and searching rugged, forested terra…
 
 
-### ASSAULT on 2025-08-28 01:29
-- Location: CBS News
-- Description: Many people showed up at DMV offices across Nevada for their appointments this week only to learn the agency is closed.
+### HOMICIDE on 2025-08-28 06:06
+- Location: International Business Times
+- Description: Australian police said Thursday they will not rest until they catch a 56-year-old gunman who fled into the bush two days earlier after allegedly killing two officers.
 
 
-### SHOOTING on 2025-08-28 01:28
-- Location: HuffPost
-- Description: The statements come as Republicans have advanced a torrent of policies undermining trans rights.
+### SHOOTING on 2025-08-28 06:01
+- Location: ABC News (AU)
+- Description: Victorian police have offered Dezi Freeman a surrender plan, but say they will not rest until he is found, as the search for the alleged gunman continues into its third day.
 
 
-### OTHER on 2025-08-28 01:20
-- Location: The Indian Express
-- Description: Rahul was forced to quit as the state Youth Congress president last Thursday after a TV journalist-turned-actor Rini Ann George accused a “young politician” of sending her obscene messages and inviting her to a hotel room.
+### HOMICIDE on 2025-08-28 06:00
+- Location: Naturalnews.com
+- Description: A transgender mass shooter executed a premeditated attack at a Catholic school, killing two children and wounding 17 before taking their own life. The attacker, Robin Westman, left behind disturbing videos, a manifesto glorifying mass murderers, and Satanic a…
 
-Analysis generated at: Fri Aug 29 01:47:15 UTC 2025
+Analysis generated at: Fri Aug 29 06:21:19 UTC 2025
