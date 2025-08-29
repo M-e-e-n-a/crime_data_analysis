@@ -1,10 +1,10 @@
 
-Loaded 54461 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-28 12:26:10
+Loaded 54468 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-28 12:45:24
 
 Incidents by source:
 source
-newsapi           54360
+newsapi           54367
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-08-28 12:26
-- Location: The Times of India
-- Description: The CDC faces turmoil after the firing of Director Susan Monarez. Her dismissal follows disagreements over vaccine guidance. High-ranking officials like Dr. Houry and Dr. Daskalakis resigned. They cited concerns about the politicization of science. The agency…
+### ASSAULT on 2025-08-28 12:45
+- Location: Thegatewaypundit.com
+- Description: Guest post by a Citizen of the Republic of Korea Introduction: A Pattern of Persecution In the span of just a few months in 2025, the South Korean government under President Lee Jae-myung has launched a series of unprecedented raids against major churches and…
 
 
-### OTHER on 2025-08-28 12:25
-- Location: Newsweek
-- Description: The president's approval rating has increased by five percentage points after he deployed federal troops to Washington D.C.
+### OTHER on 2025-08-28 12:42
+- Location: Israelnationalnews.com
+- Description: Fourteen suspects were arrested in Arara after Electric Company workers came under fire during a Bedouin blood feud, prompting the CEO to demand urgent state action to protect staff and infrastructure.
 
 
-### SHOOTING on 2025-08-28 12:23
-- Location: YLE News
-- Description: There was extensive police operation involving several heavily armed patrols and ambulances in the southeastern city.
+### OTHER on 2025-08-28 12:39
+- Location: Democracy Now!
+- Description: As part of our coverage of the 20th anniversary of Hurricane Katrina, we speak with longtime  New Orleans activist Malik Rahim, co-founder of the Common Ground Collective. In the weeks after the storm, we interviewed Rahim in his neighborhood of Algiers. He s…
 
 
-### HOMICIDE on 2025-08-28 12:22
-- Location: Mediatakeout.com
-- Description: The family of Atlanta rapper T-Hood has retained legal representation following the release of an autopsy report that revealed he was shot multiple times before his death. T-Hood, whose real name was Tevin Hood, 33, was found dead inside a home on Lee Road in…
+### HOMICIDE on 2025-08-28 12:37
+- Location: Celebitchy.com
+- Description: August 31st marks the 28th anniversary of Princess Diana’s death in Paris. This year, there have been fewer articles about Diana and her death, especially compared to previous years’ coverage. Personally, I think the way the Duke and Duchess of Sussex have be…
 
 
-### HOMICIDE on 2025-08-28 12:22
-- Location: Freerepublic.com
-- Description: If ever there were an example of the perils of the Democrat approach to crime and social disorder, it is Minneapolis, ground zero of the George Floyd/defund-the-police movement that roiled the country five years ago, and a “sanctuary transgender state.” The d…
+### OTHER on 2025-08-28 12:37
+- Location: HuffPost
+- Description: The director of the nation’s top public health agency has been fired after less than one month in the job.
 
-Analysis generated at: Fri Aug 29 12:27:49 UTC 2025
+Analysis generated at: Fri Aug 29 12:45:52 UTC 2025
