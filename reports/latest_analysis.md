@@ -1,10 +1,10 @@
 
-Loaded 54468 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-28 12:45:24
+Loaded 54561 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-28 18:16:11
 
 Incidents by source:
 source
-newsapi           54367
+newsapi           54460
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2025-08-28 12:45
-- Location: Thegatewaypundit.com
-- Description: Guest post by a Citizen of the Republic of Korea Introduction: A Pattern of Persecution In the span of just a few months in 2025, the South Korean government under President Lee Jae-myung has launched a series of unprecedented raids against major churches and…
+### SHOOTING on 2025-08-28 18:16
+- Location: Fox News
+- Description: Shooter Robert aka Robin Westman left anti-Catholic manifesto and wrote hate messages on firearms before attacking Minneapolis Catholic school Mass, FBI reports.
 
 
-### OTHER on 2025-08-28 12:42
-- Location: Israelnationalnews.com
-- Description: Fourteen suspects were arrested in Arara after Electric Company workers came under fire during a Bedouin blood feud, prompting the CEO to demand urgent state action to protect staff and infrastructure.
+### HOMICIDE on 2025-08-28 18:15
+- Location: Slashdot.org
+- Description: What we know about the shooter who killed 2 and wounded 17 in MinneapolisAP News Robin Westman: Police examine material possibly linked to Minneapolis church shooting suspectCNN Nurse Mom Was Working in ICU When Her Critically Wounded Daughter Arrived After M…
 
 
-### OTHER on 2025-08-28 12:39
-- Location: Democracy Now!
-- Description: As part of our coverage of the 20th anniversary of Hurricane Katrina, we speak with longtime  New Orleans activist Malik Rahim, co-founder of the Common Ground Collective. In the weeks after the storm, we interviewed Rahim in his neighborhood of Algiers. He s…
+### OTHER on 2025-08-28 18:12
+- Location: MSNBC
+- Description: Maya Wiley warns that Trump's unpopular federal takeover of Washington, D.C. could do great harm to police-community relations.
 
 
-### HOMICIDE on 2025-08-28 12:37
-- Location: Celebitchy.com
-- Description: August 31st marks the 28th anniversary of Princess Diana’s death in Paris. This year, there have been fewer articles about Diana and her death, especially compared to previous years’ coverage. Personally, I think the way the Duke and Duchess of Sussex have be…
+### OTHER on 2025-08-28 18:11
+- Location: Newsweek
+- Description: "I never thought that I would have to try to be a single mom," said Kelli Heath, whose husband's final immigration hearing is next week.
 
 
-### OTHER on 2025-08-28 12:37
-- Location: HuffPost
-- Description: The director of the nation’s top public health agency has been fired after less than one month in the job.
+### OTHER on 2025-08-28 18:09
+- Location: Futurism
+- Description: Public health official Dr. Demetre Daskalakis resigned from his high-profile position at the Centers for Disease Control (CDC) yesterday after months of turmoil at the essential federal agency — and he made his reasons for his departure crystal clear. Daskala…
 
-Analysis generated at: Fri Aug 29 12:45:52 UTC 2025
+Analysis generated at: Fri Aug 29 18:19:24 UTC 2025
