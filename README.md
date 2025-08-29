@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Aug 29 01:04:36 UTC 2025
+Last updated: Fri Aug 29 01:47:15 UTC 2025
 
 ## Latest Analysis
 
-Loaded 54309 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-28 01:00:55
+Loaded 54322 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-28 01:36:28
 
 Incidents by source:
 source
-newsapi           54208
+newsapi           54221
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-08-28 01:00
-- Location: Fox News
-- Description: MSNBC host Jen Psaki blasted prayer and President Trump's D.C. crime strategy following the deadly shooting at Annunciation Catholic School in Minneapolis.
+### OTHER on 2025-08-28 01:36
+- Location: Crikey
+- Description: The peddled narrative that a spectrum stretches from pro-Palestine protests to antisemitic violence has been discredited this week. Meanwhile, the real threat of white right-wing extremism has been tragically displayed.
+The post How one dark day unravelled Au…
 
 
-### OTHER on 2025-08-28 00:59
-- Location: Freerepublic.com
-- Description: Islam has been expanding at the expense of Western Civilization for 1,400 years. For centuries, its advance was retarded by the military superiority of the West. But as moonbattery eats away at our will to defend ourselves, the conquest has gone back into hig…
+### ROBBERY/THEFT on 2025-08-28 01:31
+- Location: New York Post
+- Description: Cops also found a $40,000 diamond ring, gold chains, gold coins, $30,000 in cash and additional deluxe watches hidden in a stuffed animal. The total worth of the loot is estimated to be $400,000.
 
 
-### OTHER on 2025-08-28 00:57
-- Location: Just Jared
-- Description: Elizabeth Banks has booked her next role in a new true-crime series! The 51-year-old Emmy-nominated actress has signed on to star in the upcoming limited series based on Karen Read‘s infamous court case, which Prime Video and Warner Bros. Television are devel…
+### ASSAULT on 2025-08-28 01:29
+- Location: CBS News
+- Description: Many people showed up at DMV offices across Nevada for their appointments this week only to learn the agency is closed.
 
 
-### DRUG RELATED on 2025-08-28 00:55
-- Location: The Times of India
-- Description: In Washington, D.C., during the summer of 2025, a federal law enforcement intervention under President Trump has heightened tensions. A drug and firearm arrest near Bancroft Elementary School sparked outrage among residents, already on edge due to immigration…
+### SHOOTING on 2025-08-28 01:28
+- Location: HuffPost
+- Description: The statements come as Republicans have advanced a torrent of policies undermining trans rights.
 
 
-### OTHER on 2025-08-28 00:47
+### OTHER on 2025-08-28 01:20
 - Location: The Indian Express
-- Description: It was a well-planned fraud with Jaykab and his associate, Rupesh, allegedly duping the 19 aspiring job seekers of Rs 70 lakh as part of “visa processing fees”, the Delhi Police said. The duo were nabbed on Tuesday.
+- Description: Rahul was forced to quit as the state Youth Congress president last Thursday after a TV journalist-turned-actor Rini Ann George accused a “young politician” of sending her obscene messages and inviting her to a hotel room.
 
-Analysis generated at: Fri Aug 29 01:04:36 UTC 2025
+Analysis generated at: Fri Aug 29 01:47:15 UTC 2025
