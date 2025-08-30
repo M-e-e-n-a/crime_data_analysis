@@ -1,10 +1,10 @@
 
-Loaded 54588 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-29 01:39:36
+Loaded 54648 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-29 06:15:19
 
 Incidents by source:
 source
-newsapi           54487
+newsapi           54547
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-08-29 01:39
-- Location: CBS News
-- Description: A judge has ordered a new trial for three former Memphis police officers who were convicted of federal charges in the fatal beating of Tyre Nichols.
+### HOMICIDE on 2025-08-29 06:15
+- Location: TheJournal.ie
+- Description: A manhunt for the suspect, Dezi Freeman, 56, has been underway for four days.
 
 
-### OTHER on 2025-08-29 01:39
-- Location: The Daily Caller
-- Description: Stephen Miller hinted that President Donald Trump would consider touring major crime-ridden cities in the United States.
+### HOMICIDE on 2025-08-29 06:11
+- Location: Japan Today
+- Description: Australian police told an on-the-run gunman accused of killing two officers to &quot;lay down your firearms&quot; Friday, as they hunted him for a fourth day in rugged, forested bushland. The heavily armed 56-year-old suspect, Dezi Freeman, fled into the bush…
 
 
-### HOMICIDE on 2025-08-29 01:19
-- Location: New York Post
-- Description: The deadly shooting erupted after a longtime dispute over a shared backyard, law enforcement sources said.
+### OTHER on 2025-08-29 06:08
+- Location: The Times of India
+- Description: Rotorua Mayor Tania Tapsell objects to a lobby group's post. She claims it misrepresents her views on Maori wards. This occurs amid national debates. These debates include parliamentary conduct and Green Party actions. The lobby group used Tapsell's image wit…
 
 
-### OTHER on 2025-08-29 01:13
-- Location: HuffPost
-- Description: The administration is ramping up immigration enforcement in several major "sanctuary cities," according to Tom Homan.
+### HOMICIDE on 2025-08-29 06:00
+- Location: Techmeme.com
+- Description: Wall Street Journal:
+Police are investigating a murder-suicide in what appears to be the first documented murder involving someone who engaged extensively with an AI chatbot  —  “Erik, you're not crazy.”  ChatGPT fueled a 56-year-old tech industry veteran's p…
 
 
-### HOMICIDE on 2025-08-29 01:07
-- Location: 7NEWS.com.au
-- Description: The Clarkes lost their daughter and grandkids, Aaliyah, 6, Laianah, 4, and Trey, 3, in a horrific attack in February 2020.
+### OTHER on 2025-08-29 05:59
+- Location: RTE
+- Description: Tomorrow marks one year to the day that schoolboy Kyran Durnin was first reported missing. On 30 August 2024, Kyran, who would now be nine years old, was reported missing from his home in Drogheda, Co Louth.
 
-Analysis generated at: Sat Aug 30 01:42:03 UTC 2025
+Analysis generated at: Sat Aug 30 06:18:28 UTC 2025
