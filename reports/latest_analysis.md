@@ -1,10 +1,10 @@
 
-Loaded 54581 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-29 01:00:28
+Loaded 54588 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-29 01:39:36
 
 Incidents by source:
 source
-newsapi           54480
+newsapi           54487
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-08-29 01:00
-- Location: Fox News
-- Description: Sen. Amy Klobuchar, D-Minn., discussed the Minneapolis school shooting on NPR, leading to a "clarification" about the perpetrator's pronouns and identity.
+### HOMICIDE on 2025-08-29 01:39
+- Location: CBS News
+- Description: A judge has ordered a new trial for three former Memphis police officers who were convicted of federal charges in the fatal beating of Tyre Nichols.
 
 
-### OTHER on 2025-08-29 01:00
-- Location: Sky.com
-- Description: As asylum hotel protests continue across the country, Sky News speaks to demonstrators who say they feel ignored by the government.
+### OTHER on 2025-08-29 01:39
+- Location: The Daily Caller
+- Description: Stephen Miller hinted that President Donald Trump would consider touring major crime-ridden cities in the United States.
 
 
-### HOMICIDE on 2025-08-29 00:55
-- Location: Freerepublic.com
-- Description: **Update at bottom of article** Mary Grace Westman has retained a criminal defense attorney. Mary Grace Westman, the mother of the transgender Minneapolis mass shooter and child killer Robin Westman appears to have fled and is not cooperating with police.
+### HOMICIDE on 2025-08-29 01:19
+- Location: New York Post
+- Description: The deadly shooting erupted after a longtime dispute over a shared backyard, law enforcement sources said.
 
 
-### SHOOTING on 2025-08-29 00:52
-- Location: USA Today
-- Description: Minnesota families struggling with 'unimaginable loss' remembered the children slain in this week's attack at a Catholic school.
+### OTHER on 2025-08-29 01:13
+- Location: HuffPost
+- Description: The administration is ramping up immigration enforcement in several major "sanctuary cities," according to Tom Homan.
 
 
-### HOMICIDE on 2025-08-29 00:48
-- Location: Crikey
-- Description: A near decade of private Facebook posts, exclusively obtained by Crikey, Telegram messages and unreported Instagram comments show that Freeman posted more about his hatred of police than anything else.
-The post ‘Hunt down all cops’: Dezi Freeman fantasised fo…
+### HOMICIDE on 2025-08-29 01:07
+- Location: 7NEWS.com.au
+- Description: The Clarkes lost their daughter and grandkids, Aaliyah, 6, Laianah, 4, and Trey, 3, in a horrific attack in February 2020.
 
-Analysis generated at: Sat Aug 30 01:01:37 UTC 2025
+Analysis generated at: Sat Aug 30 01:42:03 UTC 2025
