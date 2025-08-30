@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Aug 30 12:40:56 UTC 2025
+Last updated: Sat Aug 30 18:17:29 UTC 2025
 
 ## Latest Analysis
 
-Loaded 54745 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-29 12:38:03
+Loaded 54833 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-29 18:12:38
 
 Incidents by source:
 source
-newsapi           54644
+newsapi           54732
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-08-29 12:38
-- Location: BBC News
-- Description: Leading Italian politicians spoke out against the site, which blamed the "toxic" behaviour of its users.
+### OTHER on 2025-08-29 18:12
+- Location: The Daily Caller
+- Description: Republican Louisiana Sen. John Kennedy said that President Donald Trump's crackdown on crime is having an effect on Democratic California Gov. Gavin Newsom.
 
 
-### SHOOTING on 2025-08-29 12:30
-- Location: Thegatewaypundit.com
-- Description: St.
-The post St. Louis Man Who Gunned Down Police Officer Demond Taylor Is Released on $5,000 Bond appeared first on The Gateway Pundit.
+### SHOOTING on 2025-08-29 18:11
+- Location: WPXI Pittsburgh
+- Description: The teen wanted in connection with a shooting in the City of Washington has been arrested.
 
 
-### OTHER on 2025-08-29 12:30
-- Location: ARLnow
-- Description: An 18-year-old has been arrested in connection to a "suspicious" apartment fire near Columbia Pike earlier this year. Marvin Adelso Hernandez Lopez is accused of using a 7-Eleven cup filled with gasoline during the May 15 blaze at a garden apartment building …
+### HOMICIDE on 2025-08-29 18:11
+- Location: Pajiba.com
+- Description: Spoilers for Dexter: Resurrection through Episode 9 "Dexter Morgan, F**k You." Those were the final words of Captain Angelo "Angel" Batista, retired -- now permanently. Angel Batista is dead. But Dexter didn't kill him. At least, not directly. Let's back...
+R…
 
 
-### ROBBERY/THEFT on 2025-08-29 12:29
-- Location: Freerepublic.com
-- Description: BROOKFIELD, Wisconsin (WISN) -- More than $1 million in tools was stolen from Milwaukee Tool, allegedly by an employee who shipped the tools to himself and others without paying, according to investigators. Brookfield-based Milwaukee Tool, which celebrated it…
+### OTHER on 2025-08-29 18:06
+- Location: Forbes
+- Description: Grand juries have declined to indict at least three defendants as the Trump administration has ramped up arrests.
 
 
-### OTHER on 2025-08-29 12:29
-- Location: ComputerWeekly.com
-- Description: The UK data regulator has released a summary of its facial recognition audit of two police forces
+### HOMICIDE on 2025-08-29 18:00
+- Location: Mediaite
+- Description: CNN GOP analyst Scott Jennings was scolded by a guest for "laughing" when she said vaccine misinformation inspires "violence" citing the CDC shooting.
+The post CNN’s Scott Jennings Scolded On Air For ‘Laughing’ About Anti-Vax ‘Violence’: ‘A Police Officer Is …
 
-Analysis generated at: Sat Aug 30 12:40:56 UTC 2025
+Analysis generated at: Sat Aug 30 18:17:29 UTC 2025
