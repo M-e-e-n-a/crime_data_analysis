@@ -1,10 +1,10 @@
 
-Loaded 54833 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-29 18:12:38
+Loaded 54850 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-30 01:09:49
 
 Incidents by source:
 source
-newsapi           54732
+newsapi           54749
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,30 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-08-29 18:12
-- Location: The Daily Caller
-- Description: Republican Louisiana Sen. John Kennedy said that President Donald Trump's crackdown on crime is having an effect on Democratic California Gov. Gavin Newsom.
+### SHOOTING on 2025-08-30 01:09
+- Location: FOX 5 Atlanta
+- Description: UGA issued a police alert at 8:51 p.m. after a report of an “armed shooter" near the main library in Athens.
 
 
-### SHOOTING on 2025-08-29 18:11
-- Location: WPXI Pittsburgh
-- Description: The teen wanted in connection with a shooting in the City of Washington has been arrested.
+### OTHER on 2025-08-30 00:58
+- Location: ABC News (AU)
+- Description: The NT government is legalising pepper spray in a bid to improve personal safety, but a domestic violence survivor and experts say the plan will hand violent perpetrators a new weapon.
 
 
-### HOMICIDE on 2025-08-29 18:11
-- Location: Pajiba.com
-- Description: Spoilers for Dexter: Resurrection through Episode 9 "Dexter Morgan, F**k You." Those were the final words of Captain Angelo "Angel" Batista, retired -- now permanently. Angel Batista is dead. But Dexter didn't kill him. At least, not directly. Let's back...
-R…
+### HOMICIDE on 2025-08-30 00:56
+- Location: fox6now.com
+- Description: A Dane County death investigation led to a Marinette police chase and shooting on Friday morning, Aug. 29. The suspect was killed.
 
 
-### OTHER on 2025-08-29 18:06
-- Location: Forbes
-- Description: Grand juries have declined to indict at least three defendants as the Trump administration has ramped up arrests.
+### ROBBERY/THEFT on 2025-08-30 00:53
+- Location: WFTV Orlando
+- Description: The Sanford Police Department is investigating a surge in cases of stolen EBT funds, leaving families without money for food and other essentials.
 
 
-### HOMICIDE on 2025-08-29 18:00
-- Location: Mediaite
-- Description: CNN GOP analyst Scott Jennings was scolded by a guest for "laughing" when she said vaccine misinformation inspires "violence" citing the CDC shooting.
-The post CNN’s Scott Jennings Scolded On Air For ‘Laughing’ About Anti-Vax ‘Violence’: ‘A Police Officer Is …
+### HOMICIDE on 2025-08-30 00:53
+- Location: STLtoday.com
+- Description: Police said Alvin Garvin, 31, one of the motorcyclists, died in the crash at Skinker and Enright Friday morning.
 
-Analysis generated at: Sat Aug 30 18:17:29 UTC 2025
+Analysis generated at: Sun Aug 31 01:10:22 UTC 2025
