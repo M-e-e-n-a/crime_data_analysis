@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Aug 31 12:25:18 UTC 2025
+Last updated: Sun Aug 31 12:42:07 UTC 2025
 
 ## Latest Analysis
 
-Loaded 54924 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-30 12:15:31
+Loaded 54926 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-30 12:41:40
 
 Incidents by source:
 source
-newsapi           54823
+newsapi           54825
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,6 +24,17 @@ bution.svg)
 
 ## Recent Incidents
 
+### HOMICIDE on 2025-08-30 12:41
+- Location: Breitbart News
+- Description: A failed asylum seeker from Iraq has been accused of killing a 16-year-old girl in Germany by pushing her in front of an oncoming train.
+The post Failed Iraqi Asylum Seeker Accused of Pushing 16-Year-Old Girl in Front of Train in Germany appeared first on Bre…
+
+
+### ROBBERY/THEFT on 2025-08-30 12:30
+- Location: Thegatewaypundit.com
+- Description: President Donald Trump is scheduled to remain at the White House this Labor Day Weekend, like he has for the entire month of August in a break from presidential tradition of extended vacations while Congress is out for its August recess and the nation’s capit…
+
+
 ### HOMICIDE on 2025-08-30 12:15
 - Location: WSB Atlanta
 - Description: Family members say they were watching football with the 27-year-old father last night.
@@ -38,15 +49,4 @@ bution.svg)
 - Location: The Times of India
 - Description: Delhi Police busted a burglary racket in Shahdara where Mohammad Salman posed as a sari seller to divert suspicion while Suhail broke into houses. The duo's scheme unraveled after a daylight robbery on August 19. Salman was arrested, and the scooter used in t…
 
-
-### OTHER on 2025-08-30 12:07
-- Location: Breitbart News
-- Description: A self-described antisemitic atheist has been accused of stabbing a an elderly Jewish woman in a grocery store in the Canadian capital of Ottawa.
-The post Self-Described Atheist Antisemite Accused of Stabbing Elderly Jewish Woman in Grocery Store appeared fir…
-
-
-### HOMICIDE on 2025-08-30 12:00
-- Location: The Denver Post
-- Description: Brighton Police Department officers were responding to an abandoned vehicle in the 200 block of North Sixth Avenue when they found a woman who had been shot and killed.
-
-Analysis generated at: Sun Aug 31 12:25:18 UTC 2025
+Analysis generated at: Sun Aug 31 12:42:07 UTC 2025
