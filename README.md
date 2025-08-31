@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Aug 31 01:52:43 UTC 2025
+Last updated: Sun Aug 31 06:19:14 UTC 2025
 
 ## Latest Analysis
 
-Loaded 54857 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-30 01:45:42
+Loaded 54874 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-30 06:11:00
 
 Incidents by source:
 source
-newsapi           54756
+newsapi           54773
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-08-30 01:45
-- Location: Deadline
-- Description: Speaking publicly for the first time since her June acquittal in a high-profile Massachusetts murder retrial, Karen Read noted she is not at all involved with the Elizabeth Banks-led Prime Video limited series currently in development about her infamous case.…
+### OTHER on 2025-08-30 06:11
+- Location: The Star Online
+- Description: BALIK PULAU: A 30-year-old teacher accused of slashing his wife has been remanded for six days. Read full story
 
 
-### HOMICIDE on 2025-08-30 01:45
-- Location: Deadline
-- Description: Speaking publicly for the first time since her June acquittal in a high-profile Massachusetts murder retrial, Karen Read noted she is not at all involved...
+### SHOOTING on 2025-08-30 05:21
+- Location: ActionNewsJax.com
+- Description: The Jacksonville Sheriff’s Office has released body camera footage showing the fatal police shooting of a man reportedly in the middle of a mental health crisis.
 
 
-### OTHER on 2025-08-30 01:40
-- Location: BBC News
-- Description: Feelings on the High Street are mixed as unrest continues over a local hotel  housing asylum seekers.
+### ROBBERY/THEFT on 2025-08-30 05:17
+- Location: The Indian Express
+- Description: The police took action based on a complaint filed by a commuter, who reported that cash had been stolen from his bag while travelling between Lajpat Nagar and Majlis Park on the Pink Line.
 
 
-### OTHER on 2025-08-30 01:34
-- Location: Yahoo Entertainment
-- Description: WASHINGTON (Reuters) -U.S. Attorney General Pam Bondi on Friday fired a Department of Justice official for making a vulgar gesture to members of the National...
+### OTHER on 2025-08-30 05:00
+- Location: 7NEWS.com.au
+- Description: Footage of shocking knife threats in Woolworths surfaces amid safe work calls from Coles, Bunnings, Kmart, and BWS7news.com.au
 
 
-### OTHER on 2025-08-30 01:29
-- Location: New York Post
-- Description: The illegal bookie who took bets from Shohei Ohtani's ex-interpreter was sentenced to just over a year in prison on Friday.
+### SHOOTING on 2025-08-30 04:57
+- Location: Biztoc.com
+- Description: For years, experts have warned of the dangers of the so-called sovereign citizen movement. This week's tragic police shooting in ...
 
-Analysis generated at: Sun Aug 31 01:52:43 UTC 2025
+Analysis generated at: Sun Aug 31 06:19:14 UTC 2025
