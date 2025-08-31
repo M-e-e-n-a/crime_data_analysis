@@ -1,10 +1,10 @@
 
-Loaded 54850 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-30 01:09:49
+Loaded 54857 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-30 01:45:42
 
 Incidents by source:
 source
-newsapi           54749
+newsapi           54756
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-08-30 01:09
-- Location: FOX 5 Atlanta
-- Description: UGA issued a police alert at 8:51 p.m. after a report of an “armed shooter" near the main library in Athens.
+### HOMICIDE on 2025-08-30 01:45
+- Location: Deadline
+- Description: Speaking publicly for the first time since her June acquittal in a high-profile Massachusetts murder retrial, Karen Read noted she is not at all involved with the Elizabeth Banks-led Prime Video limited series currently in development about her infamous case.…
 
 
-### OTHER on 2025-08-30 00:58
-- Location: ABC News (AU)
-- Description: The NT government is legalising pepper spray in a bid to improve personal safety, but a domestic violence survivor and experts say the plan will hand violent perpetrators a new weapon.
+### HOMICIDE on 2025-08-30 01:45
+- Location: Deadline
+- Description: Speaking publicly for the first time since her June acquittal in a high-profile Massachusetts murder retrial, Karen Read noted she is not at all involved...
 
 
-### HOMICIDE on 2025-08-30 00:56
-- Location: fox6now.com
-- Description: A Dane County death investigation led to a Marinette police chase and shooting on Friday morning, Aug. 29. The suspect was killed.
+### OTHER on 2025-08-30 01:40
+- Location: BBC News
+- Description: Feelings on the High Street are mixed as unrest continues over a local hotel  housing asylum seekers.
 
 
-### ROBBERY/THEFT on 2025-08-30 00:53
-- Location: WFTV Orlando
-- Description: The Sanford Police Department is investigating a surge in cases of stolen EBT funds, leaving families without money for food and other essentials.
+### OTHER on 2025-08-30 01:34
+- Location: Yahoo Entertainment
+- Description: WASHINGTON (Reuters) -U.S. Attorney General Pam Bondi on Friday fired a Department of Justice official for making a vulgar gesture to members of the National...
 
 
-### HOMICIDE on 2025-08-30 00:53
-- Location: STLtoday.com
-- Description: Police said Alvin Garvin, 31, one of the motorcyclists, died in the crash at Skinker and Enright Friday morning.
+### OTHER on 2025-08-30 01:29
+- Location: New York Post
+- Description: The illegal bookie who took bets from Shohei Ohtani's ex-interpreter was sentenced to just over a year in prison on Friday.
 
-Analysis generated at: Sun Aug 31 01:10:22 UTC 2025
+Analysis generated at: Sun Aug 31 01:52:43 UTC 2025
