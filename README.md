@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Sep  1 12:49:21 UTC 2025
+Last updated: Mon Sep  1 18:19:15 UTC 2025
 
 ## Latest Analysis
 
-Loaded 55108 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-31 12:48:46
+Loaded 55175 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-31 18:11:34
 
 Incidents by source:
 source
-newsapi           55007
+newsapi           55074
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-08-31 12:48
-- Location: The Times of India
-- Description: A protest temporarily closed the main gate at the Minnesota State Fair on Saturday afternoon. The state fair stated that Gate 5 was briefly closed starting at about 1:08 p.m. due to a demonstration. An emergency alert was issued to nearby residents but the ga…
+### OTHER on 2025-08-31 18:11
+- Location: CBS News
+- Description: Gov. Pritzker deflects questions from CBS News about whether he'll run for presidentcbsnews.com
 
 
-### OTHER on 2025-08-31 12:30
-- Location: Richmond.com
-- Description: President Donald Trump framed the 3-week-old operation as a campaign to eradicate rampant crime and "take our capital back."
+### OTHER on 2025-08-31 18:07
+- Location: CBS News
+- Description: On this "Face the Nation with Margaret Brennan" broadcast, Homeland Security Secretary Kristi Noem and Illinois Gov. JB Pritzker join Ed O'Keefe.
 
 
-### OTHER on 2025-08-31 12:24
-- Location: USA Today
-- Description: Chicago Mayor Brandon Johnson laid out how the nation's third-largest city will respond if President Trump deploys the National Guard.
+### SHOOTING on 2025-08-31 18:01
+- Location: Associated Press
+- Description: Pope Leo XIV on Sunday called for an end to the “pandemic of arms, large and small,” as he prayed publicly for the victims of a shooting during a Catholic school Mass in the United States.
 
 
-### ROBBERY/THEFT on 2025-08-31 12:22
-- Location: ABC News
-- Description: A new AP-NORC poll finds that while most Democrats disapprove of how Trump is handling the issue, a large majority, 68%, see crime as a “major problem” in large cities
+### OTHER on 2025-08-31 18:00
+- Location: Dramabeans.com
+- Description: The final hour is upon us as our heroes head towards Nationals. They have come a long way since their first meeting, and while their time together may have been short in the grand scheme of things, the lessons they learned and the memories they made together …
 
 
-### ASSAULT on 2025-08-31 12:12
-- Location: Westernjournal.com
-- Description: ICE Arrests Illegal Immigrant Wanted for 'Russian Roulette-Style Attack' Against Woman in His Home Country: 'Twisted'westernjournal.com
+### SHOOTING on 2025-08-31 18:00
+- Location: Fox News
+- Description: State Democratic lawmaker Justin Jones compared America's relationship with gun manufacturers to idolatry following recent church school shooting in Minnesota.
 
-Analysis generated at: Mon Sep  1 12:49:21 UTC 2025
+Analysis generated at: Mon Sep  1 18:19:15 UTC 2025
