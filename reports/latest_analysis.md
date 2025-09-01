@@ -1,10 +1,10 @@
 
-Loaded 55106 incidents
-Date range: 2024-01-01 00:00:00 to 2025-08-31 12:24:43
+Loaded 55108 incidents
+Date range: 2024-01-01 00:00:00 to 2025-08-31 12:48:46
 
 Incidents by source:
 source
-newsapi           55005
+newsapi           55007
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,6 +20,16 @@ bution.svg)
 
 ## Recent Incidents
 
+### OTHER on 2025-08-31 12:48
+- Location: The Times of India
+- Description: A protest temporarily closed the main gate at the Minnesota State Fair on Saturday afternoon. The state fair stated that Gate 5 was briefly closed starting at about 1:08 p.m. due to a demonstration. An emergency alert was issued to nearby residents but the ga…
+
+
+### OTHER on 2025-08-31 12:30
+- Location: Richmond.com
+- Description: President Donald Trump framed the 3-week-old operation as a campaign to eradicate rampant crime and "take our capital back."
+
+
 ### OTHER on 2025-08-31 12:24
 - Location: USA Today
 - Description: Chicago Mayor Brandon Johnson laid out how the nation's third-largest city will respond if President Trump deploys the National Guard.
@@ -34,14 +44,4 @@ bution.svg)
 - Location: Westernjournal.com
 - Description: ICE Arrests Illegal Immigrant Wanted for 'Russian Roulette-Style Attack' Against Woman in His Home Country: 'Twisted'westernjournal.com
 
-
-### OTHER on 2025-08-31 12:10
-- Location: Biztoc.com
-- Description: The White House insists the takeover of D.C.'s police department and the deployment of the national guard is about crime. But immigration enforcement seems to play more of a role.
-
-
-### OTHER on 2025-08-31 12:10
-- Location: BBC News
-- Description: Police are looking for a man they believe was at the Southampton address at the time of the fall.
-
-Analysis generated at: Mon Sep  1 12:29:05 UTC 2025
+Analysis generated at: Mon Sep  1 12:49:21 UTC 2025
