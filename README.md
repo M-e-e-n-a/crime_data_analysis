@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Sep  2 06:22:02 UTC 2025
+Last updated: Tue Sep  2 12:28:57 UTC 2025
 
 ## Latest Analysis
 
-Loaded 55227 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-01 06:11:59
+Loaded 55309 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-01 12:28:39
 
 Incidents by source:
 source
-newsapi           55126
+newsapi           55208
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-09-01 06:11
-- Location: BBC News
-- Description: Dezi Freeman vanished into thick bushland after killing two police officers and hasn't been seen since.
+### OTHER on 2025-09-01 12:28
+- Location: Al Jazeera English
+- Description: Leading genocide scholars formally declare that Israel’s war on Gaza meets the UN’s definition of genocide.
 
 
-### OTHER on 2025-09-01 06:00
-- Location: Naturalnews.com
-- Description: A nationwide network of automated license plate readers (ALPRs), primarily from companies like Flock Safety, is capturing and storing detailed location data on billions of American drivers. These systems, deployed in thousands of communities, record not just …
+### OTHER on 2025-09-01 12:27
+- Location: Freerepublic.com
+- Description: In June, I reported that Chengxuan Han, a Chinese national and Ph.D. student at Huazhong University of Science and Technology (HUST) in Wuhan, was charged with smuggling biological material into the United States and making false statements to federal authori…
 
 
-### OTHER on 2025-09-01 06:00
-- Location: Naturalnews.com
-- Description: Protesters clashed with police, torched vehicles and tried storming federal detention centers in Los Angeles, forcing Trump to deploy Marines to reinforce the National Guard. California Gov. Gavin Newsom sued to block Trump’s intervention, sparking debate ove…
+### OTHER on 2025-09-01 12:24
+- Location: Democracy Now!
+- Description: In 1980, historian Howard Zinn published his classic work, A People’s History of the United States. The book would go on to sell over a million copies and change the way many look at history in America. We begin today’s special with highlights from a producti…
 
 
-### HOMICIDE on 2025-09-01 05:27
-- Location: BBC News
-- Description: A man in his 20s was seriously injured and died shortly afterwards in hospital, police say.
+### ASSAULT on 2025-09-01 12:24
+- Location: The Times of India
+- Description: In Bengaluru's Gangotri Circle, a 23-year-old woman was allegedly sexually assaulted in her PG accommodation after an unidentified man broke into her room. The incident occurred on August 29 at 3 am, where the man, wearing a mask, was seen in CCTV footage loc…
 
 
-### HOMICIDE on 2025-09-01 05:03
-- Location: Newser
-- Description: As the iconic Burning Man effigy was first ignited in the desert Saturday night, a man was discovered dead "in a pool of blood," according to authorities, launching a homicide investigation and casting a shadow over the Nevada festival's vibrant celebration. …
+### SHOOTING on 2025-09-01 12:17
+- Location: NBC News
+- Description: In today’s newsletter: This year’s gubernatorial races in New Jersey and Virginia test each party’s political messaging ahead of next year’s midterms.
 
-Analysis generated at: Tue Sep  2 06:22:02 UTC 2025
+Analysis generated at: Tue Sep  2 12:28:57 UTC 2025
