@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Sep  3 01:41:40 UTC 2025
+Last updated: Wed Sep  3 06:20:08 UTC 2025
 
 ## Latest Analysis
 
-Loaded 55418 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-02 01:33:07
+Loaded 55452 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-02 06:15:54
 
 Incidents by source:
 source
-newsapi           55317
+newsapi           55351
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-09-02 01:33
-- Location: International Business Times
-- Description: Brazil's Supreme Court will on Tuesday start passing judgment in the coup-plotting trial of former president Jair Bolsonaro, a case that has put the Latin American powerhouse in US President Donald Trump's sights.
+### OTHER on 2025-09-02 06:15
+- Location: Israelnationalnews.com
+- Description: Local reports claim IDF forces raided the home of Hebron Mayor Tayseer Abu Sneineh and arrested him. The IDF has yet to confirm.
 
 
-### OTHER on 2025-09-02 01:32
-- Location: Digital Journal
-- Description: Brazil’s Supreme Court will on Tuesday start passing judgment in the coup-plotting trial of former president Jair Bolsonaro, a case that has put the Latin American powerhouse in US President Donald Trump’s sights. Bolsonaro risks over 40 years in prison if co…
+### OTHER on 2025-09-02 06:15
+- Location: The Star Online
+- Description: ISKANDAR PUTERI: Police have arrested a 37-year-old man for allegedly injuring a Nepalese security guard with a brick. Read full story
 
 
-### ROBBERY/THEFT on 2025-09-02 01:21
-- Location: The Conversation Africa
-- Description: Anyone who tried to rob a tomb was taking a big risk because both the ancient police and the law were ready to punish them.
+### OTHER on 2025-09-02 06:05
+- Location: BBC News
+- Description: South Australian police say the haul was so large it took three truck loads to remove.
 
 
-### OTHER on 2025-09-02 01:20
-- Location: Time
-- Description: Osaka’s performance at this year’s U.S. Open should go a long way toward eliminating any uncertainty—self-inflicted or otherwise—about her chances to win again.
+### OTHER on 2025-09-02 06:00
+- Location: Naturalnews.com
+- Description: Federal authorities plan to deploy over 200 agents and 100 vehicles to Chicago to increase arrests of undocumented immigrants, with Naval Station Great Lakes serving as the staging base. Border czar Tom Homan said the operation targets sanctuary cities like C…
 
 
-### OTHER on 2025-09-02 00:56
-- Location: Thechronicle.com.gh
-- Description: President John Dramani Mahama has removed the Chief Justice, Her Ladyship Justice Gertrude Araba Esaaba Sackey Torkornoo from office with immediate effect, following the recommendation of a constitutional committee established under Article 146 of the 1992 Co…
+### HOMICIDE on 2025-09-02 05:54
+- Location: Slashdot.org
+- Description: Burning Man Homicide: Police Seek Help Identifying VictimRolling Stone Sheriffs seek to identify man found dead ‘in pool of blood’ at Burning Man festivalThe Guardian Man is found dead at annual Burning Man festival in Nevada, sheriff’s office saysCNN Man kil…
 
-Analysis generated at: Wed Sep  3 01:41:40 UTC 2025
+Analysis generated at: Wed Sep  3 06:20:08 UTC 2025
