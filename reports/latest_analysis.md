@@ -1,10 +1,10 @@
 
-Loaded 55513 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-02 12:26:08
+Loaded 55520 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-02 12:44:41
 
 Incidents by source:
 source
-newsapi           55412
+newsapi           55419
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,30 +20,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-09-02 12:26
-- Location: YLE News
-- Description: Two people were found with gunshot wounds in the city last Wednesday, leading to an extensive police operation involving several heavily armed patrols.
+### HOMICIDE on 2025-09-02 12:44
+- Location: Mediaite
+- Description: Joe Scarborough, on Tuesday, floated an idea he billed as "radical" — calling on Gov. JB Pritzker to "partner up" with Trump to stop violent crime in Chicago.
+The post ‘Do Something Radical!’ Joe Scarborough Calls on JB Pritzker to ‘Partner Up’ With Trump Aft…
 
 
-### OTHER on 2025-09-02 12:09
-- Location: Pajiba.com
-- Description: In Britbox's latest, Lynley (premiering September 4), Leo Suter steps into the role of DI Thomas Lynley. He's the son of an Earl, an Oxford-educated lawyer, and not exactly the kind of guy you'd expect to see wearing a badge....
-Read more...
+### ROBBERY/THEFT on 2025-09-02 12:38
+- Location: The Indian Express
+- Description: Motorcycling enthusiast Yogesh Alekari’s motorcycle, carrying his passport, money, and vital documents, was stolen in Nottingham on August 31.
 
 
-### HOMICIDE on 2025-09-02 12:00
-- Location: Newser
-- Description: A fourth person has died in New York City custody in just over a week, raising new questions about the city's treatment of detainees and the conditions inside local jails. The latest death, identified as Turkish-born Musa Cetin, 29, occurred Friday in a Manha…
+### OTHER on 2025-09-02 12:37
+- Location: Boredpanda.com
+- Description: The infant was “located wrapped in a towel inside of a black trash bag."
 
 
-### OTHER on 2025-09-02 12:00
-- Location: Lesswrong.com
-- Description: Published on September 2, 2025 12:00 PM GMTTraffic and transit are finally getting a roundup all their own.
-I’ll start out with various victory laps on the awesomeness that is New York City Congestion pricing, which should hopefully now be a settled matter, t…
+### OTHER on 2025-09-02 12:35
+- Location: Breitbart News
+- Description: Actress Justine Bateman ripped the mayors of Chicago and Los Angeles for wasting their time on MSNBC instead of actually doing their job.
+The post Actress Justine Bateman Torches Karen Bass: Get Off TV and ‘Deal with Crime, Fill Reservoirs Before the Next Fir…
 
 
-### OTHER on 2025-09-02 11:59
-- Location: The Conversation Africa
-- Description: The presence of US naval forces close to Venezuela has rattled the country’s leadership.
+### ROBBERY/THEFT on 2025-09-02 12:34
+- Location: Mactrast.com
+- Description: A West Coast man secreted an Apple AirTag in his baggage, which helped police find it when it was stolen, but not soon enough to prevent one of the bad actors from wearing the man's clothes!Read More...
 
-Analysis generated at: Wed Sep  3 12:27:42 UTC 2025
+Analysis generated at: Wed Sep  3 12:45:22 UTC 2025
