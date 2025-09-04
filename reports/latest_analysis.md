@@ -1,10 +1,10 @@
 
-Loaded 55621 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-03 01:00:25
+Loaded 55679 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-03 06:20:16
 
 Incidents by source:
 source
-newsapi           55520
+newsapi           55578
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-09-03 01:00
-- Location: Fox News
-- Description: MSNBC host Joe Scarborough argued on Tuesday that Illinois Gov. JB Pritzker should partner with President Donald Trump to combat crime in his home state.
+### OTHER on 2025-09-03 06:20
+- Location: ABC News (AU)
+- Description: Remains found at Maidenwell in Queensland's South Burnett region are yet to be formally identified, but investigators have been in contact with Andrew Burow's family.
 
 
-### SHOOTING on 2025-09-03 00:52
-- Location: Breitbart News
-- Description: Illinois Gov. JB Pritzker (D) and Chicago Mayor Brandon Johnson (D) have continued to push back on President Donald Trump's planned deployment of federal agents after dozens of people were shot in the city over Labor Day weekend.
-The post Illinois Gov Pritzke…
+### OTHER on 2025-09-03 06:16
+- Location: The Star Online
+- Description: SHAH ALAM: A series of raids have dealt a significant blow to three scam operations set up within Selangor. Read full story
 
 
-### ROBBERY/THEFT on 2025-09-03 00:45
-- Location: ABC News
-- Description: Police are searching for a wedding crasher who stole about $60,000 in cash and checks intended for a Southern California bride and groom.
+### OTHER on 2025-09-03 06:01
+- Location: New Zealand Herald
+- Description: Ranking all 108 test matches played between the All Blacks and the Springboks.
 
 
-### OTHER on 2025-09-03 00:30
-- Location: Bloomington Pantagraph
-- Description: Naval Station Great Lakes in North Chicago will be the staging grounds for ICE, the Sun-Times reported. Pritzker said staging began at the base Monday.
+### OTHER on 2025-09-03 06:00
+- Location: Naturalnews.com
+- Description: Former NYC Mayor Rudy Giuliani, 81, was seriously injured in a rear-end collision on Interstate 93 in New Hampshire. His rental Ford Bronco was struck by a Honda HR-V, sending both vehicles into the median. He suffered a fractured thoracic vertebra, laceratio…
 
 
-### OTHER on 2025-09-03 00:28
-- Location: Raw Story
-- Description: A fed-up New York Times journalist yelled at a Republican strategist on CNN on Tuesday evening during a heated discussion over President Donald Trump's decision to send troops to Washington, D.C., and his threat to do the same in Chicago to address crime.Lulu…
+### HOMICIDE on 2025-09-03 05:59
+- Location: The Times of India
+- Description: Laila Khan, a Bollywood actress, was tragically murdered with her family in 2011. Her stepfather, Parvez Tak, committed the crime due to family tensions. The bodies were discovered in 2012 at their Igatpuri farmhouse. In 2024, Tak received a death sentence fo…
 
-Analysis generated at: Thu Sep  4 01:01:22 UTC 2025
+Analysis generated at: Thu Sep  4 06:20:36 UTC 2025
