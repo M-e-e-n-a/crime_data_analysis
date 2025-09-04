@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Sep  4 06:20:36 UTC 2025
+Last updated: Thu Sep  4 12:28:03 UTC 2025
 
 ## Latest Analysis
 
-Loaded 55679 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-03 06:20:16
+Loaded 55758 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-03 12:27:08
 
 Incidents by source:
 source
-newsapi           55578
+newsapi           55657
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-09-03 06:20
-- Location: ABC News (AU)
-- Description: Remains found at Maidenwell in Queensland's South Burnett region are yet to be formally identified, but investigators have been in contact with Andrew Burow's family.
+### OTHER on 2025-09-03 12:27
+- Location: Hip-Hop Wired
+- Description: The city of Chicago saw an uptick in violent crime over Labor Day weekend, and, predictably, President Donald Trump is using the news to bolster his threats to deploy National Guard troops to the Windy City, despite the fact that crime is down in Chicago over…
 
 
-### OTHER on 2025-09-03 06:16
-- Location: The Star Online
-- Description: SHAH ALAM: A series of raids have dealt a significant blow to three scam operations set up within Selangor. Read full story
+### OTHER on 2025-09-03 12:27
+- Location: Israelnationalnews.com
+- Description: In an exclusive interview in his midtown office, Sliwa speaks of the challenges New Yorkers face and how it would be a shandah to have a socialist in Gracie Mansion. Interview.
 
 
-### OTHER on 2025-09-03 06:01
-- Location: New Zealand Herald
-- Description: Ranking all 108 test matches played between the All Blacks and the Springboks.
+### OTHER on 2025-09-03 12:26
+- Location: Breitbart News
+- Description: Father Ted creator Graham Linehan is reportedly considering suing London's Metropolitan Police after he was arrested this week by "armed police" over tweets criticising transgenderism.
+The post ‘Dystopian Clown Show’ — Graham Linehan Considering Lawsuit Again…
 
 
-### OTHER on 2025-09-03 06:00
-- Location: Naturalnews.com
-- Description: Former NYC Mayor Rudy Giuliani, 81, was seriously injured in a rear-end collision on Interstate 93 in New Hampshire. His rental Ford Bronco was struck by a Honda HR-V, sending both vehicles into the median. He suffered a fractured thoracic vertebra, laceratio…
+### OTHER on 2025-09-03 12:10
+- Location: Fark.com
+- Description: Nancy Mace comes out of a meeting with Epstein's victims looking like she may be done drinking the Flavoraide
 
 
-### HOMICIDE on 2025-09-03 05:59
-- Location: The Times of India
-- Description: Laila Khan, a Bollywood actress, was tragically murdered with her family in 2011. Her stepfather, Parvez Tak, committed the crime due to family tensions. The bodies were discovered in 2012 at their Igatpuri farmhouse. In 2024, Tak received a death sentence fo…
+### OTHER on 2025-09-03 12:09
+- Location: BBC News
+- Description: An image with the likeness of Mr Mangione was used to advertise a white, short-sleeved shirt.
 
-Analysis generated at: Thu Sep  4 06:20:36 UTC 2025
+Analysis generated at: Thu Sep  4 12:28:03 UTC 2025
