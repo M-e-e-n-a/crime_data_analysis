@@ -1,10 +1,10 @@
 
-Loaded 55611 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-02 18:18:17
+Loaded 55621 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-03 01:00:25
 
 Incidents by source:
 source
-newsapi           55510
+newsapi           55520
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2025-09-02 18:18
-- Location: The Times of India
-- Description: In Srinagar, a drug addict named Irfan allegedly stole 18 iron manhole lids from Residency Road, a Smart City project site, to fund his addiction. He sold the lids for ₹900 to a scrap dealer. Authorities filed a police complaint after municipal workers discov…
-
-
-### OTHER on 2025-09-02 18:17
+### OTHER on 2025-09-03 01:00
 - Location: Fox News
-- Description: Former comedy writer Graham Linehan was arrested at Heathrow Airport in relation to several social media posts in which he criticized trans activists.
+- Description: MSNBC host Joe Scarborough argued on Tuesday that Illinois Gov. JB Pritzker should partner with President Donald Trump to combat crime in his home state.
 
 
-### OTHER on 2025-09-02 18:16
-- Location: New York Post
-- Description: A 5-year-old boy named William snuck out of his house and walked into a Chick-fil-A for breakfast -- leaving cops in Florida with a smile on their faces.
+### SHOOTING on 2025-09-03 00:52
+- Location: Breitbart News
+- Description: Illinois Gov. JB Pritzker (D) and Chicago Mayor Brandon Johnson (D) have continued to push back on President Donald Trump's planned deployment of federal agents after dozens of people were shot in the city over Labor Day weekend.
+The post Illinois Gov Pritzke…
 
 
-### HOMICIDE on 2025-09-02 18:13
-- Location: CBS News
-- Description: A juvenile was killed after a deer that was struck by another vehicle hit a car's windshield on Downingtown Pike on Tuesday.
+### ROBBERY/THEFT on 2025-09-03 00:45
+- Location: ABC News
+- Description: Police are searching for a wedding crasher who stole about $60,000 in cash and checks intended for a Southern California bride and groom.
 
 
-### HOMICIDE on 2025-09-02 18:10
-- Location: News-Press
-- Description: Just over a month after a judge deemed a Fort Myers man who faced the death penalty incompetent to stand trial, officials have confirmed his death.
+### OTHER on 2025-09-03 00:30
+- Location: Bloomington Pantagraph
+- Description: Naval Station Great Lakes in North Chicago will be the staging grounds for ICE, the Sun-Times reported. Pritzker said staging began at the base Monday.
 
-Analysis generated at: Wed Sep  3 18:19:51 UTC 2025
+
+### OTHER on 2025-09-03 00:28
+- Location: Raw Story
+- Description: A fed-up New York Times journalist yelled at a Republican strategist on CNN on Tuesday evening during a heated discussion over President Donald Trump's decision to send troops to Washington, D.C., and his threat to do the same in Chicago to address crime.Lulu…
+
+Analysis generated at: Thu Sep  4 01:01:22 UTC 2025
