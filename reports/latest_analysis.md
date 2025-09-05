@@ -1,10 +1,10 @@
 
-Loaded 55980 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-04 12:38:40
+Loaded 56072 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-04 18:15:32
 
 Incidents by source:
 source
-newsapi           55879
+newsapi           55971
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-09-04 12:38
-- Location: Rlsbb.cc
-- Description: The murder of Jamie Faith, who was gunned down in front of his home in Dallas, and the investigation which revealed his wife, Jennifer, as the orchestrator of his death. Initially doorbell cam footage pointed towards Jennifer as a distraught victim who had be…
+### SHOOTING on 2025-09-04 18:15
+- Location: Newsweek
+- Description: Conservatives have come out against the transgender community after the Annunciation shooting suspect was revealed to be transgender.
 
 
-### OTHER on 2025-09-04 12:32
-- Location: Fox News
-- Description: President Trump proposes deploying National Guard troops to New Orleans to combat crime, but local Democrats push back, calling it "scare tactics."
+### OTHER on 2025-09-04 18:13
+- Location: The Times of India
+- Description: Thieves snatched three porcelain works worth millions of euros and classed as national treasures in a heist at a French collection in the small hours of Thursday, the museum said. The museum holds around 18,000 works including the largest public collection of…
 
 
-### OTHER on 2025-09-04 12:26
-- Location: YEN.COM.GH
-- Description: Actor Don Little has described how he almost landed in prison for offering someone cedis in exchange for their currency, the birr, while in Addis Ababa, Ethiopia.
+### OTHER on 2025-09-04 18:13
+- Location: Breitbart News
+- Description: Trump Border Czar Tom Homan during a speech on Wednesday outlined President Donald Trump's victories in curbing illegal immigration.
+The post Tom Homan: Trump Brought Illegal Immigration Down 96 Percent appeared first on Breitbart.
 
 
-### HOMICIDE on 2025-09-04 12:25
-- Location: Rlsbb.ru
-- Description: The murder of Jamie Faith, who was gunned down in front of his home in Dallas, and the investigation which revealed his wife, Jennifer, as the orchestrator of his death. Initially doorbell cam footage pointed towards Jennifer as a distraught victim who had be…
+### HOMICIDE on 2025-09-04 18:04
+- Location: The Denver Post
+- Description: Two motorcycles were racing on eastbound 38th Avenue Wednesday night when one crashed into an SUV making a legal U-turn, Aurora police said.
 
 
-### OTHER on 2025-09-04 12:20
-- Location: Mediaite
-- Description: Harris is reportedly under the protection of Los Angeles police officers after Trump formally ended her extended Secret Service protection last week.
-The post LAPD Officers Pulled Off ‘Working Cases’ to Protect Kamala Harris: Reports first appeared on Mediait…
+### HOMICIDE on 2025-09-04 18:00
+- Location: CNET
+- Description: The new Netflix hit doesn't shy away from dropping references to other movies and shows.
 
-Analysis generated at: Fri Sep  5 12:44:31 UTC 2025
+Analysis generated at: Fri Sep  5 18:18:20 UTC 2025
