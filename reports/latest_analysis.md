@@ -1,10 +1,10 @@
 
-Loaded 55978 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-04 12:26:08
+Loaded 55980 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-04 12:38:40
 
 Incidents by source:
 source
-newsapi           55877
+newsapi           55879
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -19,6 +19,16 @@ bution.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### HOMICIDE on 2025-09-04 12:38
+- Location: Rlsbb.cc
+- Description: The murder of Jamie Faith, who was gunned down in front of his home in Dallas, and the investigation which revealed his wife, Jennifer, as the orchestrator of his death. Initially doorbell cam footage pointed towards Jennifer as a distraught victim who had be…
+
+
+### OTHER on 2025-09-04 12:32
+- Location: Fox News
+- Description: President Trump proposes deploying National Guard troops to New Orleans to combat crime, but local Democrats push back, calling it "scare tactics."
+
 
 ### OTHER on 2025-09-04 12:26
 - Location: YEN.COM.GH
@@ -35,16 +45,4 @@ bution.svg)
 - Description: Harris is reportedly under the protection of Los Angeles police officers after Trump formally ended her extended Secret Service protection last week.
 The post LAPD Officers Pulled Off ‘Working Cases’ to Protect Kamala Harris: Reports first appeared on Mediait…
 
-
-### HOMICIDE on 2025-09-04 12:20
-- Location: Catholicnewsagency.com
-- Description: The U.S. Capitol in Washington, D.C. President Donald Trump has called for the death penalty for capital crimes in the District of Columbia and Catholic groups have pushed back. / Credit: Andrea Izzotti/Shutterstock
-
-Washington, D.C. Newsroom, Sep 4, 2025 / 0…
-
-
-### OTHER on 2025-09-04 12:07
-- Location: CBM (Comic Book Movie)
-- Description: Despite reliable sources claiming that Zach Cregger's DC Comics-based script does feature the likes of The Joker and Harley Quinn, the filmmaker has now made a few clarifications...
-
-Analysis generated at: Fri Sep  5 12:26:59 UTC 2025
+Analysis generated at: Fri Sep  5 12:44:31 UTC 2025
