@@ -1,10 +1,10 @@
 
-Loaded 55864 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-04 01:02:48
+Loaded 55869 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-04 01:32:48
 
 Incidents by source:
 source
-newsapi           55763
+newsapi           55768
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2025-09-04 01:02
-- Location: Starcommunity.com.au
-- Description: Four teens as young as 13 have been charged after an alleged attempted carjacking and police pursuit in the South East. Police say a family was parked in their home driveway in Ashburton on Sunday 31 August when offenders in a stolen Mercedes parked behind th…
+### HOMICIDE on 2025-09-04 01:32
+- Location: Freerepublic.com
+- Description: Just “hide and comply” and maybe the armed intruders invading your house will not hurt you or your family. That’s York Regional Police Chief Jim MacSween’s recommendation to the public following the gutless murder of 46-year-old dad, Abdul Aleem Farooqi. Easy…
 
 
-### HOMICIDE on 2025-09-04 00:54
-- Location: New York Post
-- Description: Former Letcher County Sheriff Shawn “Mickey” Stines is charged with killing District Judge Kevin Mullins in his chambers nearly a year ago.
+### OTHER on 2025-09-04 01:30
+- Location: Fox News
+- Description: Former MSNBC host Joy Reid continued to express doubts that President Donald Trump was injured after the first assassination attempt against him in 2024.
 
 
-### SHOOTING on 2025-09-04 00:38
-- Location: Us Weekly
-- Description: Kristin Cavallari got into plenty of mischief in her teen years — and, at one point, got into a fight with ex-boyfriend Stephen Colletti that led to a run-in with the police. “In Laguna, I remember I got taken home by the cops because I was out,” Cavallari, 3…
+### OTHER on 2025-09-04 01:25
+- Location: STLtoday.com
+- Description: The governor also reiterated that the state “cannot stand in the way” of federal law enforcement.
 
 
-### ASSAULT on 2025-09-04 00:25
-- Location: The Atlantic
-- Description: A missile strike in the Caribbean and National Guard deployments are pushing the armed forces beyond their traditional mission.
+### HOMICIDE on 2025-09-04 01:19
+- Location: Yahoo Entertainment
+- Description: US army accused of ‘repeatedly violating its own policies’ over 2023 shooting by reservist that left 18 people dead
 
 
-### HOMICIDE on 2025-09-04 00:15
-- Location: fox6now.com
-- Description: A 15-year-old male is in custody after a 68-year-old woman was found unresponsive in her South Milwaukee home on Aug. 27 and later died.
+### OTHER on 2025-09-04 01:04
+- Location: Balloon-juice.com
+- Description: Other than answering a question from last night, I am just going to run through the basics as I’m fried. Last night, Traveller asked: I just happened to have the opportunity to show some people this evening the posts here on people sleeping and children holdi…
 
-Analysis generated at: Fri Sep  5 01:03:03 UTC 2025
+Analysis generated at: Fri Sep  5 01:44:49 UTC 2025
