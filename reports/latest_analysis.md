@@ -1,10 +1,10 @@
 
-Loaded 55854 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-03 18:10:21
+Loaded 55864 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-04 01:02:48
 
 Incidents by source:
 source
-newsapi           55753
+newsapi           55763
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-09-03 18:10
-- Location: Gizmodo.com
-- Description: Poster boy for capitalism, apparently.
+### ROBBERY/THEFT on 2025-09-04 01:02
+- Location: Starcommunity.com.au
+- Description: Four teens as young as 13 have been charged after an alleged attempted carjacking and police pursuit in the South East. Police say a family was parked in their home driveway in Ashburton on Sunday 31 August when offenders in a stolen Mercedes parked behind th…
 
 
-### OTHER on 2025-09-03 18:03
-- Location: Fox News
-- Description: D.C. Mayor Muriel Bowser said the city needs hundreds more police officers as Trump's federal takeover of the Metropolitan Police Department ends Sept. 10.
+### HOMICIDE on 2025-09-04 00:54
+- Location: New York Post
+- Description: Former Letcher County Sheriff Shawn “Mickey” Stines is charged with killing District Judge Kevin Mullins in his chambers nearly a year ago.
 
 
-### OTHER on 2025-09-03 18:00
-- Location: Dramabeans.com
-- Description: Upcoming crime thriller No Mercy (previously Condemnation) has released a teaser highlighting its hero Lee Joo-young (The Deal) and her thirst for vengeance. Having lost everything due to a voice phishing scam, she decides to take matters into her own hands a…
+### SHOOTING on 2025-09-04 00:38
+- Location: Us Weekly
+- Description: Kristin Cavallari got into plenty of mischief in her teen years — and, at one point, got into a fight with ex-boyfriend Stephen Colletti that led to a run-in with the police. “In Laguna, I remember I got taken home by the cops because I was out,” Cavallari, 3…
 
 
-### HOMICIDE on 2025-09-03 18:00
-- Location: Time
-- Description: Defense Secretary Pete Hegseth said the U.S. military would continue to hit drug cartels after killing 11 alleged traffickers in a strike.
+### ASSAULT on 2025-09-04 00:25
+- Location: The Atlantic
+- Description: A missile strike in the Caribbean and National Guard deployments are pushing the armed forces beyond their traditional mission.
 
 
-### HOMICIDE on 2025-09-03 18:00
-- Location: Deadline
-- Description: The Case Against Adnan Syed launched in 2019 and told the story of the 1999 murder of high school student Hae Min Lee, and the arrest and conviction of Syed, who was her ex-boyfriend at the time. The documentary series is now getting a new episode – six years…
+### HOMICIDE on 2025-09-04 00:15
+- Location: fox6now.com
+- Description: A 15-year-old male is in custody after a 68-year-old woman was found unresponsive in her South Milwaukee home on Aug. 27 and later died.
 
-Analysis generated at: Thu Sep  4 18:19:19 UTC 2025
+Analysis generated at: Fri Sep  5 01:03:03 UTC 2025
