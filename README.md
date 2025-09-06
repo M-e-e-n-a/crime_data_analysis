@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Sep  6 12:39:39 UTC 2025
+Last updated: Sat Sep  6 18:16:33 UTC 2025
 
 ## Latest Analysis
 
-Loaded 56180 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-05 12:26:00
+Loaded 56272 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-05 18:15:00
 
 Incidents by source:
 source
-newsapi           56079
+newsapi           56171
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,45 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-09-05 12:26
-- Location: Sky.com
-- Description: Amy Pugh, 34, pretended to be a "concerned" wife who had found her husband, Kyle Pugh, hanging outside the back of the family home.
+### OTHER on 2025-09-05 18:15
+- Location: PCMag.com
+- Description: HBO Max has one of the funniest movies of 2025 landing on streaming this week, plus an exclusive crime drama series and more
+HBO Max has a serious selection of shows and movies from all of its partner networks, including HBO, Discovery, Food Network, and more…
 
 
-### OTHER on 2025-09-05 12:12
-- Location: Gossiplankanews.com
-- Description: Colombo’s gossip grapevine is buzzing — and this time it’s not about a minister’s son or a secret deal, but about a village police boss who thought he could play god with a boy’s life.The Supreme Court yesterday didn’t just slap former Acting OIC Inspector We…
+### OTHER on 2025-09-05 18:15
+- Location: PCMag.com
+- Description: HBO Max has one of the funniest movies of 2025 landing on streaming this week, plus an exclusive crime drama series and more
+HBO Max has a serious selection of shows and movies from all of its partner networks, including HBO, Discovery, Food Network, and more…
 
 
-### HOMICIDE on 2025-09-05 12:09
-- Location: Mediatakeout.com
-- Description: Duane “Keefe D” Davis, the man accused of orchestrating the 1996 murder of rap legend Tupac Shakur, has been sentenced for a separate incident behind bars. The judge handed down a sentence of 16 to 40 months for Keefe D’s role in a fight at the Clark County D…
+### OTHER on 2025-09-05 18:13
+- Location: Screen Rant
+- Description: Before Elsbeth, USA aired an even funnier crime-comedy procedural that took the concept of an outside helping the police to a whole new level.
 
 
-### HOMICIDE on 2025-09-05 12:08
-- Location: FOX 5 DC
-- Description: Police say 35-year-old Hugo Hernandez-Mendez of Bowie was arrested and is facing first and second-degree murder charges after detectives linked him to the killing of 19-year-old Dacara Thompson, whose August disappearance prompted an investigation by agencies…
+### SHOOTING on 2025-09-05 18:10
+- Location: Newsweek
+- Description: Several gun rights groups took aim Friday at the Trump administration's reported plans to restrict transgender Americans from owning firearms.
 
 
-### OTHER on 2025-09-05 12:00
-- Location: Fox News
-- Description: Federal agents arrested 361 illegal immigrants at California marijuana farms in Camarillo and Carpinteria, rescuing 14 minors from potential exploitation.
+### OTHER on 2025-09-05 18:10
+- Location: The Texas Tribune
+- Description: by Lexi Churchill, ProPublica and The Texas Tribune, and Colleen DeGuzman, The Texas Tribune 
+ 
 
-Analysis generated at: Sat Sep  6 12:39:39 UTC 2025
+ 
+ 
+ ProPublica is a nonprofit newsroom that investigates abuses of power. Sign up to receive our biggest stories as soon as they’re published.
+
+ 
+
+ 
+
+
+
+ 
+ 
+ This…
+
+Analysis generated at: Sat Sep  6 18:16:33 UTC 2025
