@@ -1,10 +1,10 @@
 
-Loaded 56091 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-05 01:37:42
+Loaded 56119 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-05 06:09:12
 
 Incidents by source:
 source
-newsapi           55990
+newsapi           56018
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-09-05 01:37
-- Location: Freerepublic.com
-- Description: The mystery surrounding local elections in Germany’s North Rhine–Westphalia province deepens as two more politicians from the right-wing anti-immigration Alternative für Deutschland (AfD) were reported dead unexpectedly, just days before the vote. As Hungaria…
-
-
-### HOMICIDE on 2025-09-05 01:35
-- Location: The Indian Express
-- Description: Dr Vasu collapsed at her home, but was pronounced dead at the Kozhikode Medical College, where she had worked several years.
-
-
-### HOMICIDE on 2025-09-05 01:31
-- Location: soompi
-- Description: SBS’s upcoming drama “Queen Mantis” has shared a sneak peek of the tense reunion between Jang Dong Yoon and Go Hyun Jung! A remake of the French series “La Mante,” “Queen Mantis” is a crime thriller starring Go Hyun Jung as Jung Yi Shin, a famous serial kille…
-
-
-### OTHER on 2025-09-05 01:24
-- Location: Raw Story
-- Description: President Donald Trump is reportedly mulling a takeover bid of the 9/11 Memorial & Museum — and museum officials aren't on board.Trump is looking into how the federal government could take control of the museum, which has faced questions over its finances and…
-
-
-### SHOOTING on 2025-09-05 01:21
+### HOMICIDE on 2025-09-05 06:09
 - Location: New York Post
-- Description: The minor was seen creeping around the college campus brandishing a mock firearm held as if he were preparing to start a school shooting, according to videos taken by students sheltering in place.
+- Description: "We can never return what was taken from Mr. Hooper in 1998 and for that, I am sorry. However, we can do the right thing today, and today we are joining the petition to vacate Mr. Hooper’s conviction.”
 
-Analysis generated at: Sat Sep  6 01:41:26 UTC 2025
+
+### OTHER on 2025-09-05 05:45
+- Location: Khabarhub.com
+- Description: CHAME: Chief District Officer (CDO) Nawaraj Paudel has instructed security agencies to give special priority to peace, security, and preparedness for the upcoming by-election in Manang. He issued the directive during inspections of subordinate offices this we…
+
+
+### OTHER on 2025-09-05 05:30
+- Location: Shtfplan.com
+- Description: As President Donald Trump continues to impose his will on numerous government agencies, his critics become increasingly angry—and helpless. At this point in his presidency, we are seeing two opposite and irreconcilable narratives, with neither really being co…
+
+
+### OTHER on 2025-09-05 05:28
+- Location: The Star Online
+- Description: SEREMBAN: Police have obtained a seven-day remand for a couple over an investigation into the drowning of two children here. Read full story
+
+
+### ASSAULT on 2025-09-05 05:01
+- Location: Q13 News Seattle
+- Description: A man who works as a travel nurse is still recovering after being attacked and assaulted outside a restaurant in Kent.
+
+Analysis generated at: Sat Sep  6 06:18:28 UTC 2025
