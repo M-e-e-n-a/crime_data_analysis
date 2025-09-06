@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Sep  6 12:23:51 UTC 2025
+Last updated: Sat Sep  6 12:39:39 UTC 2025
 
 ## Latest Analysis
 
-Loaded 56179 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-05 12:12:00
+Loaded 56180 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-05 12:26:00
 
 Incidents by source:
 source
-newsapi           56078
+newsapi           56079
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -23,6 +23,11 @@ bution.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### HOMICIDE on 2025-09-05 12:26
+- Location: Sky.com
+- Description: Amy Pugh, 34, pretended to be a "concerned" wife who had found her husband, Kyle Pugh, hanging outside the back of the family home.
+
 
 ### OTHER on 2025-09-05 12:12
 - Location: Gossiplankanews.com
@@ -43,9 +48,4 @@ bution.svg)
 - Location: Fox News
 - Description: Federal agents arrested 361 illegal immigrants at California marijuana farms in Camarillo and Carpinteria, rescuing 14 minors from potential exploitation.
 
-
-### HOMICIDE on 2025-09-05 12:00
-- Location: The Denver Post
-- Description: Two men shot by Denver police – one who was killed and one seriously injured – in separate confrontations in late August were carrying fake guns, Denver Police Department officials said Thursday.…
-
-Analysis generated at: Sat Sep  6 12:23:51 UTC 2025
+Analysis generated at: Sat Sep  6 12:39:39 UTC 2025
