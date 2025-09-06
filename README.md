@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Sep  6 01:01:43 UTC 2025
+Last updated: Sat Sep  6 01:41:26 UTC 2025
 
 ## Latest Analysis
 
-Loaded 56084 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-05 01:00:04
+Loaded 56091 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-05 01:37:42
 
 Incidents by source:
 source
-newsapi           55983
+newsapi           55990
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2025-09-05 01:00
-- Location: Fox News
-- Description: Portland Mayor Keith Wilson wrote an email to thousands of recipients warning President Donald Trump might deploy "bulldozers" to the city if they don't address the homelessness crisis.
+### HOMICIDE on 2025-09-05 01:37
+- Location: Freerepublic.com
+- Description: The mystery surrounding local elections in Germany’s North Rhine–Westphalia province deepens as two more politicians from the right-wing anti-immigration Alternative für Deutschland (AfD) were reported dead unexpectedly, just days before the vote. As Hungaria…
 
 
-### ASSAULT on 2025-09-05 01:00
-- Location: Allthatsinteresting.com
-- Description: Sneha Anne Philip is listed as a victim of the 9/11 attacks, but she was last seen shopping at a Manhattan department store on September 10, 2001 — and it's unclear where she went after that.
-The post What Happened To Sneha Philip, The Doctor Who Vanished In …
+### HOMICIDE on 2025-09-05 01:35
+- Location: The Indian Express
+- Description: Dr Vasu collapsed at her home, but was pronounced dead at the Kozhikode Medical College, where she had worked several years.
 
 
-### OTHER on 2025-09-05 00:53
-- Location: Thechronicle.com.gh
-- Description: The New Patriotic Party (NPP) writes to formally petition your office (i.e. the Ghana police) as a law enforcement agency in charge of internal securi ty with a complaint of criminal conduct by National Vice Chairman of the National Democratic Congress (NDC),…
+### HOMICIDE on 2025-09-05 01:31
+- Location: soompi
+- Description: SBS’s upcoming drama “Queen Mantis” has shared a sneak peek of the tense reunion between Jang Dong Yoon and Go Hyun Jung! A remake of the French series “La Mante,” “Queen Mantis” is a crime thriller starring Go Hyun Jung as Jung Yi Shin, a famous serial kille…
 
 
-### ROBBERY/THEFT on 2025-09-05 00:47
-- Location: Digital Journal
-- Description: The daughter and son-in-law of a Nazi who stole art from European Jews during World War II were charged in an Argentine court Thursday with hiding numerous works, including 22 by French painter Henri Matisse. The pair came into the spotlight after an 18th cen…
+### OTHER on 2025-09-05 01:24
+- Location: Raw Story
+- Description: President Donald Trump is reportedly mulling a takeover bid of the 9/11 Memorial & Museum — and museum officials aren't on board.Trump is looking into how the federal government could take control of the museum, which has faced questions over its finances and…
 
 
-### HOMICIDE on 2025-09-05 00:44
-- Location: NBC News
-- Description: A federal magistrate judge on Thursday chastised prosecutors seeking to dismiss a case after a grand jury declined to indict a man charged with threatening to kill President Donald Trump, citing a string of other cases they've brought recently that failed to …
+### SHOOTING on 2025-09-05 01:21
+- Location: New York Post
+- Description: The minor was seen creeping around the college campus brandishing a mock firearm held as if he were preparing to start a school shooting, according to videos taken by students sheltering in place.
 
-Analysis generated at: Sat Sep  6 01:01:43 UTC 2025
+Analysis generated at: Sat Sep  6 01:41:26 UTC 2025
