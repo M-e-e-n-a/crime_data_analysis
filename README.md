@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Sep  7 01:07:46 UTC 2025
+Last updated: Sun Sep  7 01:49:59 UTC 2025
 
 ## Latest Analysis
 
-Loaded 56285 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-06 01:02:19
+Loaded 56289 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-06 01:44:38
 
 Incidents by source:
 source
-newsapi           56184
+newsapi           56188
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
+### OTHER on 2025-09-06 01:44
+- Location: CBC News
+- Description: Police are looking for help locating a man who went missing in Portage la Prairie last week.
+
+
+### HOMICIDE on 2025-09-06 01:34
+- Location: Fox News
+- Description: A South Carolina man on death row said judges who rule against him are guided by Satan and that most laws are unconstitutional, as he seeks to avoid execution.
+
+
+### OTHER on 2025-09-06 01:30
+- Location: Snopes.com
+- Description: According to one report, the only U.S. city in the world's 10 "most dangerous" cities was Memphis, Tennessee.
+
+
+### HOMICIDE on 2025-09-06 01:15
+- Location: Memeorandum.com
+- Description: NBC4 Washington:
+2 teens charged in deadly shooting of DC congressional intern … Two 17-year-olds have been charged as adults in the deadly shooting of 21-year-old congressional intern Eric Tarpinian-Jachym in June, authorities said Friday.  —  A third person…
+
+
 ### SHOOTING on 2025-09-06 01:02
 - Location: ABC News
 - Description: In a pointed show of solidarity against President Donald Trump, state and local leaders walked through one of Baltimore’s most historically underserved neighborhoods amid ongoing efforts to curb gun violence
 
-
-### OTHER on 2025-09-06 00:59
-- Location: Fox News
-- Description: Austin officials unveiled a $1.1M rebrand with a new logo that critics blasted as woke, confusing and compared to a math textbook cover.
-
-
-### HOMICIDE on 2025-09-06 00:42
-- Location: WBRZ
-- Description: BATON ROUGE - Police say a 3-year-old boy, now identified as Emouri Woodard, died Friday morning after accidentally shooting himself with a handgun.
-
-
-### ASSAULT on 2025-09-06 00:24
-- Location: BBC News
-- Description: The US health secretary's plans could have a huge impact on health policy not just in the US, but across the globe.
-
-
-### OTHER on 2025-09-06 00:22
-- Location: New York Post
-- Description: For more than 70 years, Olive Dell Ranch in San Jacinto was a sanctuary for naturists -- a 136-acre retreat where residents could live unclothed.
-
-Analysis generated at: Sun Sep  7 01:07:46 UTC 2025
+Analysis generated at: Sun Sep  7 01:49:59 UTC 2025
