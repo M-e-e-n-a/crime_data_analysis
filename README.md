@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Sep  7 12:40:29 UTC 2025
+Last updated: Sun Sep  7 18:16:48 UTC 2025
 
 ## Latest Analysis
 
-Loaded 56364 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-06 12:36:42
+Loaded 56415 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-06 18:14:36
 
 Incidents by source:
 source
-newsapi           56263
+newsapi           56314
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-09-06 12:36
-- Location: The Daily Caller
-- Description: GOP Rep. Andrew Clyde said Friday that "Trump Derangement Syndrome" is "so strong" among Democrats that they will continue to "oppose" President Donald Trump.
+### HOMICIDE on 2025-09-06 18:14
+- Location: The Times of India
+- Description: Debashis Bisoi was arrested for the murder of his fiancée. He suspected her of having affairs. Bisoi strangled her in Tapang after a planned outing. He dumped her body in a quarry. Police found the skeletal remains. Bisoi tried to mislead the investigation by…
 
 
-### OTHER on 2025-09-06 12:34
-- Location: The Indian Express
-- Description: Haque, booked for abetment of suicide, is chairman of the school’s management panel where Ray was headmaster
+### OTHER on 2025-09-06 18:14
+- Location: PBS
+- Description: Trump took control of the Metropolitan Police Department in August in addition to deploying hundreds of National Guard troops, saying he was going to “take our capital back” from criminals.
 
 
-### OTHER on 2025-09-06 12:32
-- Location: The Daily Caller
-- Description: Mesa County Commissioners are ripping a Colorado sanctuary law after enforcement of the statewide statute led to the resignation of a local sheriff's deputy.
+### HOMICIDE on 2025-09-06 18:09
+- Location: WFTV Orlando
+- Description: Augustin Hernandez Gonzalez has been arrested on a felony warrant for attempted homicide following a shooting incident in Pierson last week.
 
 
-### OTHER on 2025-09-06 12:15
+### OTHER on 2025-09-06 18:07
+- Location: FOX 5 DC
+- Description: Thousands of demonstrators took to DC streets on Saturday to protest the deployment of the National Guard. Earlier this week the Army extended the deployment through November.
+
+
+### OTHER on 2025-09-06 18:05
 - Location: New York Post
-- Description: Pressley (D-Mass) and her ex-con hubby, management consultant Conan Harris, raked in up to a staggering $350,000 in profit from a property sale and rental income that includes a decidedly capitalist pad on Martha's Vineyard last year, Pressley's 2024 annual f…
+- Description: Abigail Faust allegedly confessed her love to one of her victims even after she was cuffed for abusing another child.
 
-
-### HOMICIDE on 2025-09-06 12:11
-- Location: Rlsbb.cc
-- Description: Awards 2 wins & 1 nomination total See more awards » Plot: A slow, quiet Christmas Eve night at the police station turns into strange horror after a man enters claiming he wants to confess to murder. Genre: Action | ThrillerIMDB Rating Live: IMDB Rating: 4.2/…
-
-Analysis generated at: Sun Sep  7 12:40:29 UTC 2025
+Analysis generated at: Sun Sep  7 18:16:48 UTC 2025
