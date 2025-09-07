@@ -1,10 +1,10 @@
 
-Loaded 56272 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-05 18:15:00
+Loaded 56285 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-06 01:02:19
 
 Incidents by source:
 source
-newsapi           56171
+newsapi           56184
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,45 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-09-05 18:15
-- Location: PCMag.com
-- Description: HBO Max has one of the funniest movies of 2025 landing on streaming this week, plus an exclusive crime drama series and more
-HBO Max has a serious selection of shows and movies from all of its partner networks, including HBO, Discovery, Food Network, and more…
+### SHOOTING on 2025-09-06 01:02
+- Location: ABC News
+- Description: In a pointed show of solidarity against President Donald Trump, state and local leaders walked through one of Baltimore’s most historically underserved neighborhoods amid ongoing efforts to curb gun violence
 
 
-### OTHER on 2025-09-05 18:15
-- Location: PCMag.com
-- Description: HBO Max has one of the funniest movies of 2025 landing on streaming this week, plus an exclusive crime drama series and more
-HBO Max has a serious selection of shows and movies from all of its partner networks, including HBO, Discovery, Food Network, and more…
+### OTHER on 2025-09-06 00:59
+- Location: Fox News
+- Description: Austin officials unveiled a $1.1M rebrand with a new logo that critics blasted as woke, confusing and compared to a math textbook cover.
 
 
-### OTHER on 2025-09-05 18:13
-- Location: Screen Rant
-- Description: Before Elsbeth, USA aired an even funnier crime-comedy procedural that took the concept of an outside helping the police to a whole new level.
+### HOMICIDE on 2025-09-06 00:42
+- Location: WBRZ
+- Description: BATON ROUGE - Police say a 3-year-old boy, now identified as Emouri Woodard, died Friday morning after accidentally shooting himself with a handgun.
 
 
-### SHOOTING on 2025-09-05 18:10
-- Location: Newsweek
-- Description: Several gun rights groups took aim Friday at the Trump administration's reported plans to restrict transgender Americans from owning firearms.
+### ASSAULT on 2025-09-06 00:24
+- Location: BBC News
+- Description: The US health secretary's plans could have a huge impact on health policy not just in the US, but across the globe.
 
 
-### OTHER on 2025-09-05 18:10
-- Location: The Texas Tribune
-- Description: by Lexi Churchill, ProPublica and The Texas Tribune, and Colleen DeGuzman, The Texas Tribune 
- 
+### OTHER on 2025-09-06 00:22
+- Location: New York Post
+- Description: For more than 70 years, Olive Dell Ranch in San Jacinto was a sanctuary for naturists -- a 136-acre retreat where residents could live unclothed.
 
- 
- 
- ProPublica is a nonprofit newsroom that investigates abuses of power. Sign up to receive our biggest stories as soon as they’re published.
-
- 
-
- 
-
-
-
- 
- 
- This…
-
-Analysis generated at: Sat Sep  6 18:16:33 UTC 2025
+Analysis generated at: Sun Sep  7 01:07:46 UTC 2025
