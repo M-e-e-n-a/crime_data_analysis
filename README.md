@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Sep  7 06:18:32 UTC 2025
+Last updated: Sun Sep  7 12:24:18 UTC 2025
 
 ## Latest Analysis
 
-Loaded 56313 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-06 06:09:11
+Loaded 56361 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-06 12:15:00
 
 Incidents by source:
 source
-newsapi           56212
+newsapi           56260
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-09-06 06:09
-- Location: The Times of India
-- Description: Mumbai Police apprehended a 50-year-old man from Noida for allegedly sending a hoax message to the traffic police WhatsApp helpline, claiming that 14 terrorists had entered Mumbai with 400 kg of RDX. The message, which mentioned a group called 'Lashkar-e-Jiha…
+### OTHER on 2025-09-06 12:15
+- Location: New York Post
+- Description: Pressley (D-Mass) and her ex-con hubby, management consultant Conan Harris, raked in up to a staggering $350,000 in profit from a property sale and rental income that includes a decidedly capitalist pad on Martha's Vineyard last year, Pressley's 2024 annual f…
 
 
-### ROBBERY/THEFT on 2025-09-06 06:00
-- Location: RTE
-- Description: If ever there was a mic-drop moment this week, it came on Thursday night when the Ombudsman for Children issued a scathing statement about the response to the case of the missing boy in north county Dublin.
+### HOMICIDE on 2025-09-06 12:11
+- Location: Rlsbb.cc
+- Description: Awards 2 wins & 1 nomination total See more awards » Plot: A slow, quiet Christmas Eve night at the police station turns into strange horror after a man enters claiming he wants to confess to murder. Genre: Action | ThrillerIMDB Rating Live: IMDB Rating: 4.2/…
 
 
-### OTHER on 2025-09-06 06:00
-- Location: Naturalnews.com
-- Description: British comedy writer Graham Linehan was arrested at Heathrow Airport due to three tweets critical of gender ideology, following complaints by transgender activists. Upon arrival, Linehan was met by five armed police officers, placed in a cell and questioned …
+### HOMICIDE on 2025-09-06 12:00
+- Location: Fox News
+- Description: The shooter in Minneapolis who shot and killed 2 children, injuring 21 people during a Catholic school Mass, bought a firearm four days prior, a gun store owner said.
 
 
-### OTHER on 2025-09-06 05:57
-- Location: The Daily Caller
-- Description: Trump's proposal to deploy the National Guard isn't the flight of fancy of a would-be strongman. It's federalism functioning as the Founders intended.
+### OTHER on 2025-09-06 12:00
+- Location: National Post
+- Description: In separate letter, only 32 of 168 Liberal MPs signed a document to condemn antisemitism after an elderly woman was stabbed at kosher grocery store in Ottawa
 
 
-### OTHER on 2025-09-06 05:56
+### HOMICIDE on 2025-09-06 11:51
 - Location: BBC News
-- Description: Some locals are working to prevent youngsters from sliding into gangs, but others ask the troops to come sooner.
+- Description: A 39-year-old man remains in custody after Chrissy Burns was found dead in Mountnorris.
 
-Analysis generated at: Sun Sep  7 06:18:32 UTC 2025
+Analysis generated at: Sun Sep  7 12:24:18 UTC 2025
