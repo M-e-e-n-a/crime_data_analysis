@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Sep  8 12:49:07 UTC 2025
+Last updated: Mon Sep  8 18:20:31 UTC 2025
 
 ## Latest Analysis
 
-Loaded 56505 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-07 12:48:32
+Loaded 56579 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-07 18:14:07
 
 Incidents by source:
 source
-newsapi           56404
+newsapi           56478
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-09-07 12:48
-- Location: WGAL Susquehanna Valley Pa.
-- Description: The feud between the White House and Democratic-led cities over immigration and crime enforcement is escalating.
+### ROBBERY/THEFT on 2025-09-07 18:14
+- Location: The Times of India
+- Description: Bokaro police have apprehended five individuals from Kasmar and Jaridih on Saturday, accused of theft. The arrests followed a complaint about a burglary in Bahadurpur, leading the Special Investigation Team to use technical evidence and intelligence to track …
 
 
-### OTHER on 2025-09-07 12:48
-- Location: WMUR Manchester
-- Description: The feud between the White House and Democratic-led cities over immigration and crime enforcement is escalating.
+### HOMICIDE on 2025-09-07 18:00
+- Location: Thegatewaypundit.com
+- Description: Leftwing mainstream media outlets are refusing to report on the Ukrainian refugee who was killed by a homeless career criminal on the North Carolina lightrail last month, leaving questions about their motives to supress Black on White crime or to portray Demo…
 
 
-### OTHER on 2025-09-07 12:48
-- Location: WTAE Pittsburgh
-- Description: The feud between the White House and Democratic-led cities over immigration and crime enforcement is escalating.
+### HOMICIDE on 2025-09-07 18:00
+- Location: WSB Atlanta
+- Description: An investigation is underway after a teen was fatally shot in Hampton Saturday night, police said.
 
 
-### HOMICIDE on 2025-09-07 12:36
-- Location: Ibtimes.com.au
-- Description: Russia fired its biggest-ever aerial barrage at Ukraine early Sunday, killing two people and setting the seat of the Ukrainian government in Kyiv ablaze in an attack President Volodymyr Zelensky warned would prolong the war.
+### OTHER on 2025-09-07 17:55
+- Location: Sky.com
+- Description: The security alliance, hosted by Shabana Mahmood,  comes after small-boat crossings pass 30,000 arrivals in record time.
 
 
-### OTHER on 2025-09-07 12:35
-- Location: Yahoo Entertainment
-- Description: British police said Sunday that they arrested almost 900 people demonstrating in London against a ban on the group Palestine Action, which has been deemed a ...
+### HOMICIDE on 2025-09-07 17:47
+- Location: Wnd.com
+- Description: 'If Iryna were black and her killer white, the media would be rioting nonstop. But because she's white, they stay silent. This is evil. And it's deliberate'
 
-Analysis generated at: Mon Sep  8 12:49:07 UTC 2025
+Analysis generated at: Mon Sep  8 18:20:31 UTC 2025
