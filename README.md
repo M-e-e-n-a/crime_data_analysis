@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Sep  8 01:06:44 UTC 2025
+Last updated: Mon Sep  8 01:50:03 UTC 2025
 
 ## Latest Analysis
 
-Loaded 56423 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-07 01:00:54
+Loaded 56428 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-07 01:45:03
 
 Incidents by source:
 source
-newsapi           56322
+newsapi           56327
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-09-07 01:00
-- Location: ABC News (AU)
-- Description: The ACT Firearms Registry remains mostly paper based. Both police and the government say the "very analogue" system needs to go fully digital as soon as possible.
-
-
-### HOMICIDE on 2025-09-07 00:56
+### HOMICIDE on 2025-09-07 01:45
 - Location: fox6now.com
-- Description: The Marquette University community came together on Saturday to mourn two students and members of the men's lacrosse team who were killed in a crash.
+- Description: A family continues to grieve a man who was killed in a hit-and-run near Teutonia and Ruby on Milwaukee’s north side last month.
 
 
-### SHOOTING on 2025-09-07 00:22
-- Location: 7NEWS.com.au
-- Description: Man dies at hospital after shooting in Melbourne’s CBD7news.com.au
+### HOMICIDE on 2025-09-07 01:40
+- Location: Thegatewaypundit.com
+- Description: Burning Man 2025 was marred by monsoonal storms, windstorms and a grisly murder.
+The post Burning Man Murder Mystery: Victim Identified – Throat Slashed with Knife – Police Still Looking For Suspect appeared first on The Gateway Pundit.
 
 
-### OTHER on 2025-09-07 00:20
-- Location: IndieWire
-- Description: A frosty professor tries to escape 1981 Poland in the richly atmospheric Soviet era thriller 'Winter of the Crow,' starring Lesley Manville.
+### OTHER on 2025-09-07 01:28
+- Location: The Times of India
+- Description: British police clashed with demonstrators in London, arresting over 400 people protesting the ban on Palestine Action, a group labeled as terrorist. The protest, organized by Defend Our Juries, saw participants arrested under the Terrorism Act, leading to scu…
 
 
-### OTHER on 2025-09-07 00:14
-- Location: Screen Rant
-- Description: Johnny Depp has had a long and successful career, but his movie choices have changed dramatically over the years and here are his highlights.
+### OTHER on 2025-09-07 01:22
+- Location: ABC News (AU)
+- Description: Custom numberplates can be funny, sentimental and wildly abstract. They now make up one in every four numberplates in Victoria.
 
-Analysis generated at: Mon Sep  8 01:06:44 UTC 2025
+
+### HOMICIDE on 2025-09-07 01:20
+- Location: Bossip
+- Description: Prince George’s County police have arrested and charged a Maryland man for the death of 19-year-old Dacara Thompson, whose disappearance in late August led to the discovery of her body in Anne Arundel County. Police identified the suspect as Hugo Hernandez-Me…
+
+Analysis generated at: Mon Sep  8 01:50:03 UTC 2025
