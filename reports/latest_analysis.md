@@ -1,10 +1,10 @@
 
-Loaded 56457 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-07 06:00:00
+Loaded 56500 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-07 12:10:55
 
 Incidents by source:
 source
-newsapi           56356
+newsapi           56399
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-09-07 06:00
-- Location: Naturalnews.com
-- Description: A Canadian study found that women who had abortions were more than twice as likely to be hospitalized for psychiatric, substance-related and suicide-related reasons compared to women who gave birth. The study analyzed health records from over 1.25 million wom…
+### OTHER on 2025-09-07 12:10
+- Location: New York Post
+- Description: "Criminals and threat actors are evolving their tactics at internet speed. Unfortunately, law enforcement is still operating in dialogue."
 
 
-### OTHER on 2025-09-07 06:00
-- Location: Naturalnews.com
-- Description: The DOJ is considering proposals that could restrict transgender Americans from buying or owning firearms, potentially by labeling transgender identity as a mental illness. Current federal law requires a court ruling to declare someone mentally unfit to own a…
+### OTHER on 2025-09-07 12:03
+- Location: The Conversation Africa
+- Description: Double standards in Canada’s approach to Gaza cast doubt on its commitment to principles of human rights.
 
 
-### ASSAULT on 2025-09-07 06:00
-- Location: Sky.com
-- Description: The Metropolitan Police has said 890 people were arrested at a protest against the banning of Palestine Action as a terror group on Saturday - including 17 on suspicion of assaulting officers.
+### OTHER on 2025-09-07 12:00
+- Location: Fox News
+- Description: Criminals posing as police officers with fake badges and vehicles spark nationwide concern, with officials urging vigilance to protect public trust.
 
 
-### ASSAULT on 2025-09-07 06:00
-- Location: Naturalnews.com
-- Description: Three Syrian brothers launched an unprovoked assault on a family-run ice cream parlor in Hof, Bavaria over an unpaid €15 debt – attacking the owner, his 10-year-old daughter and a staff member. The attackers overturned furniture, struck the owner with a flagp…
+### HOMICIDE on 2025-09-07 11:55
+- Location: The Verge
+- Description: When director Rian Johnson introduced the new Knives Out film on the third day of TIFF 2025, he exclaimed: "we're going back to church." By that he meant that Wake Up Dead Man, the latest Benoit Blanc mystery, would harken back to the origins of the whodunit,…
 
 
-### SHOOTING on 2025-09-07 05:42
-- Location: ABC News
-- Description: A Black man in South Carolina is pushing for the state to pass its own hate crime law after police say he was shot at by a white man in a racist attack
+### ASSAULT on 2025-09-07 11:53
+- Location: The Times of India
+- Description: Russia launched its largest aerial assault on Ukraine, resulting in casualties and igniting a fire at Kyiv's government headquarters. The extensive strikes, involving drones and missiles, targeted infrastructure and residential areas, prompting international …
 
-Analysis generated at: Mon Sep  8 06:22:21 UTC 2025
+Analysis generated at: Mon Sep  8 12:29:31 UTC 2025
