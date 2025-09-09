@@ -1,10 +1,10 @@
 
-Loaded 56597 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-08 01:38:00
+Loaded 56644 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-08 06:12:31
 
 Incidents by source:
 source
-newsapi           56496
+newsapi           56543
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-09-08 01:38
-- Location: The Star Online
-- Description: BATU PAHAT: A 55-year-old trader lost RM571,242 after falling victim to a non-existent investment scheme promoted through Facebook. Read full story
-
-
-### SHOOTING on 2025-09-08 01:26
-- Location: ABC News (AU)
-- Description: Detective Leading Senior Constable Neal Thompson is being honoured at a funeral service at the police academy chapel in Melbourne's east.
-
-
-### SHOOTING on 2025-09-08 01:24
-- Location: New York Post
-- Description: Doll, 33, was shot multiple times — including in the neck, face, hands and right leg.
-
-
-### HOMICIDE on 2025-09-08 01:23
-- Location: New York Post
-- Description: It is impossible to watch the surveillance footage showing Ukrainian refugee Iryna Zarutska being stabbed to death on a crowded light rail carriage in Charlotte, NC, and not understand that America has a serious crime problem. Iryna, 23, had fled a war zone a…
-
-
-### ROBBERY/THEFT on 2025-09-08 01:10
+### HOMICIDE on 2025-09-08 06:12
 - Location: ABC News
-- Description: Mexico's top prosecutor says the government plans to arrest many more people involved in fuel theft networks between Mexico and the United States
+- Description: A funeral has been held for one of two schoolchildren killed when a mass shooter opened fire at a Minneapolis Catholic church during Mass
 
-Analysis generated at: Tue Sep  9 01:46:38 UTC 2025
+
+### HOMICIDE on 2025-09-08 06:11
+- Location: The Conversation Africa
+- Description: The violent end of the hunt for Tom Phillips is a reminder of the tactical calculations Australian police must make in their search for alleged killer Dezi Freeman.
+
+
+### OTHER on 2025-09-08 06:02
+- Location: ABC News
+- Description: Jury selection is set to begin in the trial of a man charged with trying to assassinate Donald Trump while he played golf last year in South Florida
+
+
+### ASSAULT on 2025-09-08 06:00
+- Location: Naturalnews.com
+- Description: President Donald Trump has ordered the deployment of 10 F-35 fighter jets to Puerto Rico to intensify military operations against drug cartels in the southern Caribbean, especially along smuggling routes from Venezuela and Colombia. The deployment follows a S…
+
+
+### HOMICIDE on 2025-09-08 05:52
+- Location: New Zealand Herald
+- Description: Their mother Catherine says she feels both relief and deep sadness today.
+
+Analysis generated at: Tue Sep  9 06:21:29 UTC 2025
