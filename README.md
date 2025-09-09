@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Sep  9 12:49:44 UTC 2025
+Last updated: Tue Sep  9 18:17:54 UTC 2025
 
 ## Latest Analysis
 
-Loaded 56737 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-08 12:30:06
+Loaded 56830 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-08 18:16:59
 
 Incidents by source:
 source
-newsapi           56636
+newsapi           56729
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-09-08 12:30
-- Location: Shtfplan.com
-- Description: Remember these days, because these are the days when global leaders could have reversed course before it was too late.  2025 has certainly been a year of war, and it appears that things are poised to go to an entirely new level in the months ahead.  If we do …
+### HOMICIDE on 2025-09-08 18:16
+- Location: The Daily Caller
+- Description: A 28-year-old man has been charged with two counts of capital murder after allegedly stabbing a veterinary professor to death at an Alabama park, police said.
 
 
-### HOMICIDE on 2025-09-08 12:18
-- Location: HuffPost
-- Description: Erin Patterson poisoned her estranged husband’s relatives with death cap mushrooms.
+### HOMICIDE on 2025-09-08 18:15
+- Location: New York Post
+- Description: Chaos descended at the Alas Locas bar in Cleveland just north of Houston after the killer, who was there alone drinking beer, left around midnight and returned to the bar at 2:30 a.m. armed with a handgun, the Liberty County Sheriff's Office said.
 
 
-### SHOOTING on 2025-09-08 12:18
-- Location: NBC News
-- Description: The trial of Ryan Wesley Routh, the man accused of attempting to gun down Donald Trump on his golf course, is scheduled to begin on Monday.
+### HOMICIDE on 2025-09-08 18:11
+- Location: PBS
+- Description: Kony faces charges of war crimes and crimes against humanity, including murder and sexual enslavement.
 
 
-### HOMICIDE on 2025-09-08 12:08
-- Location: Biztoc.com
-- Description: Police say two terrorists opened fire at a bus stop along a highway at the entrance to Jerusalem, killing at least five. Israel media report the attackers were Palestinians from the West Bank. The attack comes as the Israeli military is intensifying its assau…
+### OTHER on 2025-09-08 18:11
+- Location: ABC News
+- Description: President Donald Trump on Monday continued to take aim at Chicago as the city braces for expected federal intervention.
 
 
-### ROBBERY/THEFT on 2025-09-08 12:06
-- Location: Thechronicle.com.gh
-- Description: A Circuit Court sitting in Dansoman and presided over by Her Honour Basilia Adjei-Tawiah has convicted a 29-year-old mason, Justice Armah, for his role in a high-value theft, involving construction materials and household items totalling GH¢185,885.00. Justic…
+### HOMICIDE on 2025-09-08 18:08
+- Location: Breitbart News
+- Description: We have to be able to handle "evil" people; otherwise we "don't have a country," President Donald Trump said in reaction to the horrific murder of a Ukrainian refugee in North Carolina.
+The post Trump on NC Stabbing: ‘They’re Evil People’; If We Don’t Handle …
 
-Analysis generated at: Tue Sep  9 12:49:44 UTC 2025
+Analysis generated at: Tue Sep  9 18:17:54 UTC 2025
