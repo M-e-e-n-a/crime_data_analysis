@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Sep 10 06:20:53 UTC 2025
+Last updated: Wed Sep 10 12:27:32 UTC 2025
 
 ## Latest Analysis
 
-Loaded 56914 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-09 06:17:06
+Loaded 57000 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-09 12:25:15
 
 Incidents by source:
 source
-newsapi           56813
+newsapi           56899
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-09-09 06:17
+### OTHER on 2025-09-09 12:25
+- Location: Raw Story
+- Description: MSNBC's Joe Scarborough clashed with a panelist over President Donald Trump's deployment of National Guard troops in American cities — and many viewers were repulsed by the exchange.The "Morning Joe" host has been using his platform to encourage Democratic go…
+
+
+### HOMICIDE on 2025-09-09 12:18
 - Location: ABC News
-- Description: A panel of Brazilian Supreme Court justices is expected to decide this week whether former President Jair Bolsonaro is guilty or not of plotting to stay in power illegally after his 2022 election defeat
+- Description: The star sent asked her "Only Murders in the Building" castmates a question on "GMA."
 
 
-### ASSAULT on 2025-09-09 06:10
-- Location: DW (English)
-- Description: A German could be locked up for assaulting five people during a meeting of far-right groups in Budapest. Electric cars are the rage at an auto show in Munich and a former German diplomat starts a new job. DW has more. German prosecutors want a 9-year sentence…
+### OTHER on 2025-09-09 12:13
+- Location: ABC News
+- Description: The actor tells "GMA" that he sees similarities to his on-screen TV news role.
 
 
-### ASSAULT on 2025-09-09 06:05
-- Location: 7NEWS.com.au
-- Description: Asian-Australian cosplayer traumatised after racially motivated attack by teenage girls in Sydney CBD7news.com.au
+### OTHER on 2025-09-09 12:12
+- Location: ABC News
+- Description: Democrats on the committee have shared a photo they say is the page purportedly written by Donald Trump.
 
 
-### ROBBERY/THEFT on 2025-09-09 06:03
-- Location: Starweekly.com.au
-- Description: Police are investigating after two caravans were stolen from a business in Epping. Officers were told a man attended a business on Fullarton Drive about 2am on Monday, August 29 in a grey Toyota Landcruiser. The man rammed the gates to the property and stole …
+### ROBBERY/THEFT on 2025-09-09 12:12
+- Location: ABC News
+- Description: Police are investigating after more than a dozen masked robbers swarmed a jewelry store in San Jose, California.
 
-
-### ASSAULT on 2025-09-09 06:02
-- Location: The Irish Times
-- Description: Trump administration’s playbook cites fatal incidents to condemn ‘tolerance of crime’ in Democratic-run cities
-
-Analysis generated at: Wed Sep 10 06:20:53 UTC 2025
+Analysis generated at: Wed Sep 10 12:27:32 UTC 2025
