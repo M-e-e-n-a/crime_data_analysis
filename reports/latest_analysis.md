@@ -1,10 +1,10 @@
 
-Loaded 56857 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-09 01:41:33
+Loaded 56914 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-09 06:17:06
 
 Incidents by source:
 source
-newsapi           56756
+newsapi           56813
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-09-09 01:41
-- Location: ABC News (AU)
-- Description: Queensland police say the man was shot during an incident with officers who were responding to a reported house fire.
+### OTHER on 2025-09-09 06:17
+- Location: ABC News
+- Description: A panel of Brazilian Supreme Court justices is expected to decide this week whether former President Jair Bolsonaro is guilty or not of plotting to stay in power illegally after his 2022 election defeat
 
 
-### ASSAULT on 2025-09-09 01:30
-- Location: Fox News
-- Description: New York mayoral candidate Zohran Mamdani faces criticism from Republicans and Democrats over past rhetoric as he campaigns to lead the city.
+### ASSAULT on 2025-09-09 06:10
+- Location: DW (English)
+- Description: A German could be locked up for assaulting five people during a meeting of far-right groups in Budapest. Electric cars are the rage at an auto show in Munich and a former German diplomat starts a new job. DW has more. German prosecutors want a 9-year sentence…
 
 
-### HOMICIDE on 2025-09-09 01:29
-- Location: Rolling Stone
-- Description: Horrific video of the 23-year-old Ukrainian refugee's death in an apparently random stabbing has become a flashpoint in the debate over crime in U.S. cities
+### ASSAULT on 2025-09-09 06:05
+- Location: 7NEWS.com.au
+- Description: Asian-Australian cosplayer traumatised after racially motivated attack by teenage girls in Sydney CBD7news.com.au
 
 
-### OTHER on 2025-09-09 01:29
-- Location: ABC News (AU)
-- Description: Jacinta Allan offered her condolences to the families of two boys who were fatally stabbed at Cobblebank over the weekend as police continue to search for those responsible.
+### ROBBERY/THEFT on 2025-09-09 06:03
+- Location: Starweekly.com.au
+- Description: Police are investigating after two caravans were stolen from a business in Epping. Officers were told a man attended a business on Fullarton Drive about 2am on Monday, August 29 in a grey Toyota Landcruiser. The man rammed the gates to the property and stole …
 
 
-### OTHER on 2025-09-09 01:09
-- Location: RT
-- Description: Donald Trump Jr. has criticized social media users who display the Ukrainian flag in their online profiles Read Full Article at RT.com
+### ASSAULT on 2025-09-09 06:02
+- Location: The Irish Times
+- Description: Trump administration’s playbook cites fatal incidents to condemn ‘tolerance of crime’ in Democratic-run cities
 
-Analysis generated at: Wed Sep 10 01:42:59 UTC 2025
+Analysis generated at: Wed Sep 10 06:20:53 UTC 2025
