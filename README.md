@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Sep  9 18:17:54 UTC 2025
+Last updated: Wed Sep 10 01:02:29 UTC 2025
 
 ## Latest Analysis
 
-Loaded 56830 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-08 18:16:59
+Loaded 56851 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-09 01:00:55
 
 Incidents by source:
 source
-newsapi           56729
+newsapi           56750
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-09-08 18:16
-- Location: The Daily Caller
-- Description: A 28-year-old man has been charged with two counts of capital murder after allegedly stabbing a veterinary professor to death at an Alabama park, police said.
+### ASSAULT on 2025-09-09 01:00
+- Location: Japan Today
+- Description: After weeks of vowing to deploy National Guard troops to fight crime in Chicago, the Trump administration said on Monday it had launched a deportation crackdown in Illinois targeting hardened criminals among immigrants in the U.S. without legal status. The U.…
 
 
-### HOMICIDE on 2025-09-08 18:15
-- Location: New York Post
-- Description: Chaos descended at the Alas Locas bar in Cleveland just north of Houston after the killer, who was there alone drinking beer, left around midnight and returned to the bar at 2:30 a.m. armed with a handgun, the Liberty County Sheriff's Office said.
+### HOMICIDE on 2025-09-09 01:00
+- Location: Fox News
+- Description: CNN's Brian Stelter called out "pro-Trump activists" for seizing on the murder of 23-year-old Ukrainian refugee Iryna Zarutska that has sparked a national outcry.
 
 
-### HOMICIDE on 2025-09-08 18:11
-- Location: PBS
-- Description: Kony faces charges of war crimes and crimes against humanity, including murder and sexual enslavement.
+### OTHER on 2025-09-09 01:00
+- Location: Allthatsinteresting.com
+- Description: From its growing skyline to its ever-evolving economy, Chicago looks very different today than it did decades ago.
+The post 44 Colorized Vintage Photos Of Chicago That Show How The Windy City Has Evolved appeared first on All That's Interesting.
 
 
-### OTHER on 2025-09-08 18:11
-- Location: ABC News
-- Description: President Donald Trump on Monday continued to take aim at Chicago as the city braces for expected federal intervention.
+### ASSAULT on 2025-09-09 01:00
+- Location: CNA
+- Description: CHICAGO: After weeks of vowing to deploy National Guard troops to fight crime in Chicago, the Trump administration said on Monday (Sep 8) it had launched a deportation crackdown in Illinois targeting harde
 
 
-### HOMICIDE on 2025-09-08 18:08
-- Location: Breitbart News
-- Description: We have to be able to handle "evil" people; otherwise we "don't have a country," President Donald Trump said in reaction to the horrific murder of a Ukrainian refugee in North Carolina.
-The post Trump on NC Stabbing: ‘They’re Evil People’; If We Don’t Handle …
+### OTHER on 2025-09-09 00:57
+- Location: Balloon-juice.com
+- Description: Turns out it wasn’t a shahed drone that hit the Cabinet of Ministers building in Kyiv, it was an Iskander missile. EU Ambassador to Ukraine, Maternova, has shown the wreckage of an Iskander missile that hit the Cabinet of Ministers building. Russian propagand…
 
-Analysis generated at: Tue Sep  9 18:17:54 UTC 2025
+Analysis generated at: Wed Sep 10 01:02:29 UTC 2025
