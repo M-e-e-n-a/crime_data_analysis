@@ -1,10 +1,10 @@
 
-Loaded 57000 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-09 12:25:15
+Loaded 57001 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-09 12:29:11
 
 Incidents by source:
 source
-newsapi           56899
+newsapi           56900
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -19,6 +19,11 @@ bution.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### OTHER on 2025-09-09 12:29
+- Location: Insurance Journal
+- Description: In a unanimous vote Tuesday, Durham City Council passed a resolution to make the North Carolina city a “Fourth Amendment Workplace,” increasing protections for city workers against U.S. Immigration and Customs Enforcement raids and arrests. The Fourth Amendme…
+
 
 ### OTHER on 2025-09-09 12:25
 - Location: Raw Story
@@ -39,9 +44,4 @@ bution.svg)
 - Location: ABC News
 - Description: Democrats on the committee have shared a photo they say is the page purportedly written by Donald Trump.
 
-
-### ROBBERY/THEFT on 2025-09-09 12:12
-- Location: ABC News
-- Description: Police are investigating after more than a dozen masked robbers swarmed a jewelry store in San Jose, California.
-
-Analysis generated at: Wed Sep 10 12:27:32 UTC 2025
+Analysis generated at: Wed Sep 10 12:45:35 UTC 2025
