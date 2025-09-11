@@ -1,10 +1,10 @@
 
-Loaded 57109 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-10 01:00:46
+Loaded 57115 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-10 01:42:38
 
 Incidents by source:
 source
-newsapi           57008
+newsapi           57014
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-09-10 01:00
-- Location: Freerepublic.com
-- Description: Police launched a massive manhunt Tuesday for a violent sex offender and career criminal sought in the horrific Queens fire that killed the elderly parents of an FDNY paramedic. Jamel McGriff, 42, an ex-con on parole with a string of career busts, has been id…
+### OTHER on 2025-09-10 01:42
+- Location: Khabarhub.com
+- Description: KATHMANDU: The Nepal Police has issued a public appeal, calling on all Nepalis to support efforts to restore peace, uphold the rule of law, and safeguard the welfare of the nation. In a press statement, the police expressed sorrow over the tragic incidents th…
 
 
-### OTHER on 2025-09-10 01:00
-- Location: WAFF
-- Description: ‘She loved America’: Ukrainian refugee who was stabbed on train will be buried in US, family sayswaff.com
+### HOMICIDE on 2025-09-10 01:41
+- Location: Fox News
+- Description: Vi Lyles advances to Charlotte's mayoral general election after winning a Democratic primary overshadowed by a Ukrainian refugee's murder on a light-rail train.
 
 
-### OTHER on 2025-09-10 01:00
-- Location: KPTV.com
-- Description: ‘She loved America’: Ukrainian refugee who was stabbed on train will be buried in US, family sayskptv.com
+### HOMICIDE on 2025-09-10 01:35
+- Location: Newser
+- Description: A Texas man accused of killing his roommate, flight attendant Rana Nofal Soluri, may have inadvertently sealed his alleged accomplice's fate with an accidental phone call, according to police. Authorities say that after his arrest in June, Dennis Day, 66, con…
 
 
-### OTHER on 2025-09-10 00:57
-- Location: CinemaBlend
-- Description: This is just strange.
+### HOMICIDE on 2025-09-10 01:32
+- Location: Mediaite
+- Description: Sen. Thom Tillis (R-NC) was blunt when asked about the possibility that President Donald Trump might send federal troops into Charlotte, North Carolina in the wake of a brutal murder on one of the city's light rail trains, saying that it would be a "problem" …
 
 
-### SHOOTING on 2025-09-10 00:47
-- Location: KPBS
-- Description: The San Diego City Council voted unanimously Tuesday to approve a settlement with a man who alleged excessive force by police.
+### OTHER on 2025-09-10 01:30
+- Location: Wcjb.com
+- Description: ‘She loved America’: Ukrainian refugee who was stabbed on train will be buried in US, family sayswcjb.com
 
-Analysis generated at: Thu Sep 11 01:03:55 UTC 2025
+Analysis generated at: Thu Sep 11 01:45:39 UTC 2025
