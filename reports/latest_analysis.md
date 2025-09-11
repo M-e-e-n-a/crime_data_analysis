@@ -1,10 +1,10 @@
 
-Loaded 57245 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-10 12:25:43
+Loaded 57250 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-10 12:42:57
 
 Incidents by source:
 source
-newsapi           57144
+newsapi           57149
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-09-10 12:25
+### HOMICIDE on 2025-09-10 12:42
+- Location: Freerepublic.com
+- Description: Gruesome video shows a 23-year-old Ukrainian refugee getting stabbed to death on a Charlotte light rail train – a case that has turned into a flashpoint as the Trump administration vows to crack down on crime in large, predominantly Democratic cities. The att…
+
+
+### HOMICIDE on 2025-09-10 12:42
+- Location: WSOC Charlotte
+- Description: The man accused of stabbing a Ukrainian refugee in Charlotte, North Carolina, is now facing a federal charge.
+
+
+### HOMICIDE on 2025-09-10 12:31
 - Location: Fox News
-- Description: House Republicans are blasting Democrat-led cities and states for violent crime and what they see as a lax response to it.
+- Description: The family of Iryna Zarutska are demanding justice and public safety reforms in the wake of her brutal killing on a North Carolina light rail train.
 
 
-### SHOOTING on 2025-09-10 12:23
-- Location: Freerepublic.com
-- Description: A Florida robbery Saturday ended up far from whatever two men had expected after one victim grabbed his gun. The incident took place at about 7 p.m. in Dania Beach, according to WTVJ-TV. Two robberies took place at a 7-Eleven. A victim was robbed at gunpoint …
+### OTHER on 2025-09-10 12:30
+- Location: Getfootballnewsspain.com
+- Description: A member of the fanbase at La Liga newcomers Real Oviedo was recently detained by the police, for racially-motivated abuse of Real Madrid star Kylian Mbappé.That’s according to journalist Melchor R...
 
 
-### HOMICIDE on 2025-09-10 12:11
-- Location: Syllad.com
-- Description: The Court of District & Sessions Judge NA Khan has convicted Dros Pakem for culpable homicide not amounting to murder. In its judgment passed on Wednesday, the court sentenced Dros to two years of imprisonment and imposed a fine of Rs. 5,000. The case dates b…
+### OTHER on 2025-09-10 12:27
+- Location: The Times of India
+- Description: Iryna Zarutska, a 23-year-old Ukrainian refugee, escaped Russia Ukraine war to live a peaceful life in America. But last month, in a tragic turn of events, she was brutally stabbed on a train after she was returning home from work. The incident occurred on Au…
 
-
-### OTHER on 2025-09-10 12:11
-- Location: Freerepublic.com
-- Description: White House Deputy Chief of Staff Stephen Miller is warning that an ongoing Department of Justice (DOJ) investigation into whether Washington D.C. officials manipulated crime statistics is in the process of uncovering a “massive scandal.” At an Oval Office pr…
-
-
-### ASSAULT on 2025-09-10 12:09
-- Location: fox6now.com
-- Description: One person was injured after a stabbing in Milwaukee on Wednesday morning, Sept. 10.
-
-Analysis generated at: Thu Sep 11 12:27:07 UTC 2025
+Analysis generated at: Thu Sep 11 12:43:58 UTC 2025
