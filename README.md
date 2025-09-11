@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Sep 10 18:19:51 UTC 2025
+Last updated: Thu Sep 11 01:03:55 UTC 2025
 
 ## Latest Analysis
 
-Loaded 57095 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-09 18:17:08
+Loaded 57109 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-10 01:00:46
 
 Incidents by source:
 source
-newsapi           56994
+newsapi           57008
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2025-09-09 18:17
-- Location: WSB Atlanta
-- Description: A brazen daylight robbery was caught on camera and the crime sent the elderly shop owner to the hospital.
-
-
-### HOMICIDE on 2025-09-09 18:12
+### HOMICIDE on 2025-09-10 01:00
 - Location: Freerepublic.com
-- Description: An online fundraiser designed to support a career criminal who brutally murdered a Ukrainian girl onboard a train in North Carolina has sparked fury online. Decarlos Brown Jr., 35, is facing first-degree murder charges for stabbing Iryna Zarutska, 23, onboard…
+- Description: Police launched a massive manhunt Tuesday for a violent sex offender and career criminal sought in the horrific Queens fire that killed the elderly parents of an FDNY paramedic. Jamel McGriff, 42, an ex-con on parole with a string of career busts, has been id…
 
 
-### HOMICIDE on 2025-09-09 18:02
-- Location: DW (English)
-- Description: A verdict is expected in the trial of a Syrian man accused of killing three people in a knife attack last August. The case brought Germany's asylum policies and security loopholes into focus.
+### OTHER on 2025-09-10 01:00
+- Location: WAFF
+- Description: ‘She loved America’: Ukrainian refugee who was stabbed on train will be buried in US, family sayswaff.com
 
 
-### OTHER on 2025-09-09 17:52
-- Location: Reason
-- Description: The president claims The Wall Street Journal inflicted "billions of dollars" in reputational damage by confirming a well-established relationship.
+### OTHER on 2025-09-10 01:00
+- Location: KPTV.com
+- Description: ‘She loved America’: Ukrainian refugee who was stabbed on train will be buried in US, family sayskptv.com
 
 
-### HOMICIDE on 2025-09-09 17:50
-- Location: The Times of India
-- Description: Giridih police solved the Neemadih double murder case, arresting Shrikant Chaudhary for killing Soni Devi and Rinku Devi after Soni was suspected of infidelity. Chaudhary confessed during interrogation, revealing he strangled Soni and then killed Rinku to sil…
+### OTHER on 2025-09-10 00:57
+- Location: CinemaBlend
+- Description: This is just strange.
 
-Analysis generated at: Wed Sep 10 18:19:51 UTC 2025
+
+### SHOOTING on 2025-09-10 00:47
+- Location: KPBS
+- Description: The San Diego City Council voted unanimously Tuesday to approve a settlement with a man who alleged excessive force by police.
+
+Analysis generated at: Thu Sep 11 01:03:55 UTC 2025
