@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Sep 11 06:21:05 UTC 2025
+Last updated: Thu Sep 11 12:27:07 UTC 2025
 
 ## Latest Analysis
 
-Loaded 57158 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-10 06:14:45
+Loaded 57245 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-10 12:25:43
 
 Incidents by source:
 source
-newsapi           57057
+newsapi           57144
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2025-09-10 06:14
-- Location: ABC News (AU)
-- Description: Police allege the truck was stolen from Elizabeth Street in Brisbane's CBD about 10:15 this morning.
+### OTHER on 2025-09-10 12:25
+- Location: Fox News
+- Description: House Republicans are blasting Democrat-led cities and states for violent crime and what they see as a lax response to it.
 
 
-### OTHER on 2025-09-10 06:00
-- Location: The Week Magazine
-- Description: This month's new releases include 'Spinal Tap II,' 'One Battle After Another' and 'The Long Walk'
+### SHOOTING on 2025-09-10 12:23
+- Location: Freerepublic.com
+- Description: A Florida robbery Saturday ended up far from whatever two men had expected after one victim grabbed his gun. The incident took place at about 7 p.m. in Dania Beach, according to WTVJ-TV. Two robberies took place at a 7-Eleven. A victim was robbed at gunpoint …
 
 
-### SHOOTING on 2025-09-10 06:00
-- Location: Naturalnews.com
-- Description: Charlie Kirk, 31, founder of Turning Point USA and a key ally of Donald Trump, was fatally shot during a campus event at Utah Valley University on September 10, 2025, amid rising political tensions. The shooter remains at large; a detained individual was rele…
+### HOMICIDE on 2025-09-10 12:11
+- Location: Syllad.com
+- Description: The Court of District & Sessions Judge NA Khan has convicted Dros Pakem for culpable homicide not amounting to murder. In its judgment passed on Wednesday, the court sentenced Dros to two years of imprisonment and imposed a fine of Rs. 5,000. The case dates b…
 
 
-### HOMICIDE on 2025-09-10 06:00
-- Location: Naturalnews.com
-- Description: Conservative activist Charlie Kirk was shot and killed by a sniper during a Q&A session at his “American Comeback Tour” event at Utah Valley University. Witnesses described a sudden gunshot, followed by Kirk collapsing from a neck wound. The shooting occurred…
+### OTHER on 2025-09-10 12:11
+- Location: Freerepublic.com
+- Description: White House Deputy Chief of Staff Stephen Miller is warning that an ongoing Department of Justice (DOJ) investigation into whether Washington D.C. officials manipulated crime statistics is in the process of uncovering a “massive scandal.” At an Oval Office pr…
 
 
-### HOMICIDE on 2025-09-10 05:56
-- Location: ABC News (AU)
-- Description: An alleged murder victim was "angry" and intoxicated when he borrowed a baseball bat from a friend prior to being fatally stabbed, a trial in Launceston Supreme Court has heard.
+### ASSAULT on 2025-09-10 12:09
+- Location: fox6now.com
+- Description: One person was injured after a stabbing in Milwaukee on Wednesday morning, Sept. 10.
 
-Analysis generated at: Thu Sep 11 06:21:05 UTC 2025
+Analysis generated at: Thu Sep 11 12:27:07 UTC 2025
