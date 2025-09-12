@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Sep 12 12:43:19 UTC 2025
+Last updated: Fri Sep 12 18:17:15 UTC 2025
 
 ## Latest Analysis
 
-Loaded 57535 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-11 12:41:15
+Loaded 57627 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-11 18:15:18
 
 Incidents by source:
 source
-newsapi           57434
+newsapi           57526
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-09-11 12:41
-- Location: Malwarebytes.com
-- Description: Many state departments are warning about scam text messages targeting motorists. Here's how you can recognize them.
+### OTHER on 2025-09-11 18:15
+- Location: PC Gamer
+- Description: Volodymyr Tymoshchuk is a very naughty boy.
 
 
-### OTHER on 2025-09-11 12:40
-- Location: Www.gov.uk
-- Description: Applying advanced data technologies gives investigators faster insights, reduces effort duplication, and improves how information is shared across the system.
+### OTHER on 2025-09-11 18:13
+- Location: Mediaite
+- Description: Ryan Routh, the man accused of plotting to assassinate President Donald Trump on his golf course, delivered a meandering, off-topic opening statement at his trial Thursday, drawing several sharp rebukes from the judge, who eventually cut him off.
+The post Jud…
 
 
-### ROBBERY/THEFT on 2025-09-11 12:32
-- Location: The Times of India
-- Description: Chhend police in Rourkela arrested Rajesh Das, a 25-year-old from Bhadrak, for allegedly stealing a scooter belonging to Gyanendra Panigrahi. Panigrahi reported the theft on September 9th after his scooter vanished from in front of his house. Police recovered…
+### OTHER on 2025-09-11 18:06
+- Location: Forbes
+- Description: The latest survey, released Sept. 10, shows Trump has a 42% approval rating.
 
 
-### HOMICIDE on 2025-09-11 12:30
-- Location: Thegatewaypundit.com
-- Description: TMZ faced massive backlash after staff of the outlet could be heard erupting in cheers seconds before host Harvey Levin announced Charlie Kirk’s death on Wednesday.
-The post WATCH: Vile TMZ Staff Caught Cheering Moments Before Announcing Charlie Kirk’s Death,…
+### HOMICIDE on 2025-09-11 18:05
+- Location: Crooksandliars.com
+- Description: The tragic shooting death of Charlie Kirk, Turning Point USA CEO and co-founder, was a terrible loss for his family, friends, and supporters. It never should have happened. However, there is a lot of noise, victimhood, and finger-pointing taking place. The le…
 
 
-### OTHER on 2025-09-11 12:24
-- Location: Westernjournal.com
-- Description: Charlie Kirk provided “refuge and shelter when my home had been horribly fire-damaged and when bullets rang out on my block,” he said.
+### HOMICIDE on 2025-09-11 18:05
+- Location: The Daily Caller
+- Description: A Verizon store clerk said he recently fought off a man accused of double murder.
 
-Analysis generated at: Fri Sep 12 12:43:19 UTC 2025
+Analysis generated at: Fri Sep 12 18:17:15 UTC 2025
