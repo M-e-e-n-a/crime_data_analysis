@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Sep 12 01:41:32 UTC 2025
+Last updated: Fri Sep 12 06:20:42 UTC 2025
 
 ## Latest Analysis
 
-Loaded 57370 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-11 01:40:35
+Loaded 57439 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-11 06:15:30
 
 Incidents by source:
 source
-newsapi           57269
+newsapi           57338
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-09-11 01:40
-- Location: RTE
-- Description: US conservative activist Charlie Kirk, an influential ally of President Donald Trump, was fatally shot while speaking at a university, sparking a manhunt for a lone sniper who the governor of Utah said had carried out a political assassination
-
-
-### SHOOTING on 2025-09-11 01:40
-- Location: RTE
-- Description: The FBI has released photos of someone who they have described as a "person of interest" in the shooting of influential conservative activist Charlie Kirk.
-
-
-### HOMICIDE on 2025-09-11 01:39
-- Location: Freerepublic.com
-- Description: 2 facts about Charlie Kirk’s killer are VERY rare in the modern history of assassinations… 1) Firing ONLY one shot & it being perfect 2) Eluding capture until at least nightfall that day I would be willing to bet that this was not this killer’s 1st rodeo, & h…
-
-
-### SHOOTING on 2025-09-11 01:33
+### HOMICIDE on 2025-09-11 06:15
 - Location: The Times of India
-- Description: FBI releases person of interest in Charlie Kirk shooting investigation at Utah Valley University. Conservative commentator gunned down Wednesday afternoon, September 10, suspect remains at large as law enforcement continues search
+- Description: Renuka Agarwal, wife of a Hyderabad businessman, was murdered in her apartment by two domestic helpers. The assailants, Harsha and Roushan, tied her up, stabbed her, and stole gold ornaments and cash before fleeing on a scooter. Police are investigating, susp…
 
 
-### OTHER on 2025-09-11 01:32
-- Location: Thechronicle.com.gh
-- Description: Two Nigerian nationals have been arraigned before the Accra Circuit Court for their alleged involvement in a foiled cross-border kidnapping operation, masterminded by former members of a Niger Delta militant group. The accused, Joseph Howell, 43, a self-procl…
+### SHOOTING on 2025-09-11 06:07
+- Location: ABC News (AU)
+- Description: Police say the attack on a home in Fairy Meadow, near Wollongong, was targeted and that they are investigating potential links to gang and black market activity.
 
-Analysis generated at: Fri Sep 12 01:41:32 UTC 2025
+
+### HOMICIDE on 2025-09-11 06:03
+- Location: The Intercept
+- Description: Charlie Kirk’s killer has not been identified. That didn’t stop Trump or his acolytes from blaming the “radical left.”
+The post Nothing Will Stop Trump From Weaponizing Charlie Kirk’s Killing to Attack the Left appeared first on The Intercept.
+
+
+### OTHER on 2025-09-11 06:02
+- Location: Starcommunity.com.au
+- Description: A Cranbourne West man was among nine arrested as part of Victoria Police’s national day of action targeting outlaw motorcycle gangs (OMCG), including the Mongols. The 34-year-old man was arrested for possessing 100mg of methylamphetamine and was part of Taskf…
+
+
+### HOMICIDE on 2025-09-11 06:00
+- Location: Fox News
+- Description: Following President Donald Trump’s call for swift action, U.S. Attorney General Pam Bondi shared that the Justice Department may seek the death penalty for Iryna Zarutska’s killer.
+
+Analysis generated at: Fri Sep 12 06:20:42 UTC 2025
