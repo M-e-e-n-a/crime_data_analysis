@@ -1,10 +1,10 @@
 
-Loaded 57439 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-11 06:15:30
+Loaded 57531 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-11 12:24:00
 
 Incidents by source:
 source
-newsapi           57338
+newsapi           57430
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-09-11 06:15
-- Location: The Times of India
-- Description: Renuka Agarwal, wife of a Hyderabad businessman, was murdered in her apartment by two domestic helpers. The assailants, Harsha and Roushan, tied her up, stabbed her, and stole gold ornaments and cash before fleeing on a scooter. Police are investigating, susp…
+### OTHER on 2025-09-11 12:24
+- Location: Westernjournal.com
+- Description: Charlie Kirk provided “refuge and shelter when my home had been horribly fire-damaged and when bullets rang out on my block,” he said.
 
 
-### SHOOTING on 2025-09-11 06:07
-- Location: ABC News (AU)
-- Description: Police say the attack on a home in Fairy Meadow, near Wollongong, was targeted and that they are investigating potential links to gang and black market activity.
+### SHOOTING on 2025-09-11 12:15
+- Location: Thegatewaypundit.com
+- Description: As the manhunt continues for the shooter, the FBI has set up a tip line for the public to submit information about the assassination of 31-year-old Turning Point USA leader Charlie Kirk at a Utah college campus speaking event on Wednesday at this link: fbi.go…
 
 
-### HOMICIDE on 2025-09-11 06:03
-- Location: The Intercept
-- Description: Charlie Kirk’s killer has not been identified. That didn’t stop Trump or his acolytes from blaming the “radical left.”
-The post Nothing Will Stop Trump From Weaponizing Charlie Kirk’s Killing to Attack the Left appeared first on The Intercept.
+### SHOOTING on 2025-09-11 12:14
+- Location: Freerepublic.com
+- Description: In the immediate wake of the fatal shooting of conservative activist Charlie Kirk Wednesday at Utah Valley University, little to nothing is known about the suspect, and prominent Democrats were quick to condemn the violence. And yet many on the far-right have…
 
 
-### OTHER on 2025-09-11 06:02
-- Location: Starcommunity.com.au
-- Description: A Cranbourne West man was among nine arrested as part of Victoria Police’s national day of action targeting outlaw motorcycle gangs (OMCG), including the Mongols. The 34-year-old man was arrested for possessing 100mg of methylamphetamine and was part of Taskf…
+### OTHER on 2025-09-11 12:10
+- Location: ComputerWeekly.com
+- Description: Law enforcement and police experts meet on Friday to decide on proposals to require technology companies to scan encrypted messages for possible child abuse images amid growing opposition from security experts
 
 
-### HOMICIDE on 2025-09-11 06:00
-- Location: Fox News
-- Description: Following President Donald Trump’s call for swift action, U.S. Attorney General Pam Bondi shared that the Justice Department may seek the death penalty for Iryna Zarutska’s killer.
+### SHOOTING on 2025-09-11 12:08
+- Location: HuffPost
+- Description: "For the first time ever, my son made threats of harm against our family. That night, we learned he’d charged a 9mm pistol and 100 rounds of ammo to his...
 
-Analysis generated at: Fri Sep 12 06:20:42 UTC 2025
+Analysis generated at: Fri Sep 12 12:27:06 UTC 2025
