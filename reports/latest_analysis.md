@@ -1,10 +1,10 @@
 
-Loaded 57359 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-11 01:00:11
+Loaded 57370 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-11 01:40:35
 
 Incidents by source:
 source
-newsapi           57258
+newsapi           57269
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-09-11 01:00
-- Location: Dramabeans.com
-- Description: With or without her memories, our amnesic heroine is determined to unmask the mastermind who wants her dead. And the plot thickens and twists in unexpected ways as she tries to make sense of the 25-year old conspiracy against her. EPISODES 7-8 One name sticks…
+### HOMICIDE on 2025-09-11 01:40
+- Location: RTE
+- Description: US conservative activist Charlie Kirk, an influential ally of President Donald Trump, was fatally shot while speaking at a university, sparking a manhunt for a lone sniper who the governor of Utah said had carried out a political assassination
 
 
-### SHOOTING on 2025-09-11 01:00
-- Location: SoraNews24
-- Description: Well, at least she washed her hands, apparently. Few things in life will shatter your mental focus like really, really badly needing to use the bathroom. However, while the mind may want to stay clouded in blissful relief following a buzzer-beating poo or pee…
+### SHOOTING on 2025-09-11 01:40
+- Location: RTE
+- Description: The FBI has released photos of someone who they have described as a "person of interest" in the shooting of influential conservative activist Charlie Kirk.
 
 
-### OTHER on 2025-09-11 00:57
-- Location: The Star Online
-- Description: PUTRAJAYA: Police have appealed to the public to come forward if they have missing family members, following the discovery of a decomposed female body near Kuala Lumpur International Airport (KLIA) on Sept 1. Read full story
+### HOMICIDE on 2025-09-11 01:39
+- Location: Freerepublic.com
+- Description: 2 facts about Charlie Kirk’s killer are VERY rare in the modern history of assassinations… 1) Firing ONLY one shot & it being perfect 2) Eluding capture until at least nightfall that day I would be willing to bet that this was not this killer’s 1st rodeo, & h…
 
 
-### OTHER on 2025-09-11 00:56
-- Location: ABC News (AU)
-- Description: Police allege the 59-year-old West Australian man communicated with minors and others on social media in order to engage in sexual activity.
+### SHOOTING on 2025-09-11 01:33
+- Location: The Times of India
+- Description: FBI releases person of interest in Charlie Kirk shooting investigation at Utah Valley University. Conservative commentator gunned down Wednesday afternoon, September 10, suspect remains at large as law enforcement continues search
 
 
-### HOMICIDE on 2025-09-11 00:53
-- Location: WSB Atlanta
-- Description: Kirk died doing what made him a potent political force — rallying the right on a college campus.
+### OTHER on 2025-09-11 01:32
+- Location: Thechronicle.com.gh
+- Description: Two Nigerian nationals have been arraigned before the Accra Circuit Court for their alleged involvement in a foiled cross-border kidnapping operation, masterminded by former members of a Niger Delta militant group. The accused, Joseph Howell, 43, a self-procl…
 
-Analysis generated at: Fri Sep 12 01:01:39 UTC 2025
+Analysis generated at: Fri Sep 12 01:41:32 UTC 2025
