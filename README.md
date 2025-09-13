@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Sep 13 12:39:59 UTC 2025
+Last updated: Sat Sep 13 18:16:29 UTC 2025
 
 ## Latest Analysis
 
-Loaded 57842 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-12 12:39:32
+Loaded 57932 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-12 18:13:29
 
 Incidents by source:
 source
-newsapi           57741
+newsapi           57831
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-09-12 12:39
-- Location: Fox News
-- Description: Chris Kluwe, ex-Minnesota Vikings punter fired from high school football coaching job, made inflammatory posts about Charlie Kirk's assassination on BlueSky this week.
+### HOMICIDE on 2025-09-12 18:13
+- Location: Us Weekly
+- Description: The CEO of a company at the center of a conspiracy theory regarding Charlie Kirk’s death has spoken out, calling the online chatter “baseless.” Derek Maxfield, CEO of marketing company Komigo, denied that a plane that his company owns was used to help the sus…
 
 
-### HOMICIDE on 2025-09-12 12:39
-- Location: The Japan Times
-- Description: Kirk's killer had eluded police and federal agents after Wednesday's shooting, in which a sniper fired a single gunshot that killed the right-wing activist.
+### ASSAULT on 2025-09-12 18:12
+- Location: The Times of India
+- Description: Trump said he will send National Guard troops to Memphis to fight rising crime. The city has one of the highest crime rates in America. Trump also spoke about Chicago and New Orleans. The move comes after his earlier use of the National Guard in Washington DC…
 
 
-### HOMICIDE on 2025-09-12 12:38
-- Location: Radaronline.com
-- Description: Donald Trump says Charlie Kirk’s murder suspect is in custody, stating 'I think we got him', while delivering major manhunt update during television appearance.
+### HOMICIDE on 2025-09-12 18:12
+- Location: Slate Magazine
+- Description: Now is the time to resist this dangerous strategy, before it’s too late.
 
 
-### HOMICIDE on 2025-09-12 12:36
-- Location: International Business Times
-- Description: US President Donald Trump on Friday announced that the suspect had been taken into custody over the killing of right-wing activist Charlie Kirk after a massive manhunt.
+### HOMICIDE on 2025-09-12 18:09
+- Location: The Daily Caller
+- Description: The alleged Charlie Kirk assassin threatened to take his own life rather than surrender to authorities when confronted by his father, the New York Post reported.
 
 
-### SHOOTING on 2025-09-12 12:33
-- Location: Variety
-- Description: President Donald Trump said on Friday that the suspect in the fatal shooting of conservative activist Charlie Kirk has been taken into custody. Speaking on “Fox & Friends” Friday morning, Trump said: “With a high degree of certainty, we have him.” He added th…
+### ROBBERY/THEFT on 2025-09-12 18:05
+- Location: Breitbart News
+- Description: It is crucial to get to the root of the problem in society, Sen. Tommy Tuberville (R-AL) said during an appearance on Breitbart News Daily.
+The post Exclusive — Sen. Tommy Tuberville on Violence: We Must Get to Root of Problem in Society appeared first on Bre…
 
-Analysis generated at: Sat Sep 13 12:39:59 UTC 2025
+Analysis generated at: Sat Sep 13 18:16:29 UTC 2025
