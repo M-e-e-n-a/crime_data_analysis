@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Sep 12 18:17:15 UTC 2025
+Last updated: Sat Sep 13 00:59:05 UTC 2025
 
 ## Latest Analysis
 
-Loaded 57627 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-11 18:15:18
+Loaded 57644 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-12 00:58:38
 
 Incidents by source:
 source
-newsapi           57526
+newsapi           57543
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-09-11 18:15
-- Location: PC Gamer
-- Description: Volodymyr Tymoshchuk is a very naughty boy.
+### HOMICIDE on 2025-09-12 00:58
+- Location: Freerepublic.com
+- Description: President Donald Trump urged supporters Thursday to respond peacefully to the killing of right-wing campaigner Charlie Kirk, as the murderer continued to evade a manhunt more than 24 hours after the shooting put an already divided U.S. on edge. Trump, who soo…
 
 
-### OTHER on 2025-09-11 18:13
-- Location: Mediaite
-- Description: Ryan Routh, the man accused of plotting to assassinate President Donald Trump on his golf course, delivered a meandering, off-topic opening statement at his trial Thursday, drawing several sharp rebukes from the judge, who eventually cut him off.
-The post Jud…
+### HOMICIDE on 2025-09-12 00:56
+- Location: The Star Online
+- Description: NAIROBI (Reuters) - South Sudan's First Vice President Riek Machar has been charged with murder, treason and crimes against humanity for his alleged involvement in attacks by an ethnic militia against federal forces in March, the justice minister said on Thur…
 
 
-### OTHER on 2025-09-11 18:06
-- Location: Forbes
-- Description: The latest survey, released Sept. 10, shows Trump has a 42% approval rating.
+### SHOOTING on 2025-09-12 00:53
+- Location: NBC News
+- Description: A student at the Naval Academy was shot by a law enforcement officer Thursday during a lockdown that was prompted by online threats from someone who had been kicked out of the institution, a source said
 
 
-### HOMICIDE on 2025-09-11 18:05
-- Location: Crooksandliars.com
-- Description: The tragic shooting death of Charlie Kirk, Turning Point USA CEO and co-founder, was a terrible loss for his family, friends, and supporters. It never should have happened. However, there is a lot of noise, victimhood, and finger-pointing taking place. The le…
+### SHOOTING on 2025-09-12 00:48
+- Location: Fox News
+- Description: A witness to the assassination of TPUSA founder Charlie Kirk detailed how people in the audience immediately ducked to the ground after a shot rang out.
 
 
-### HOMICIDE on 2025-09-11 18:05
-- Location: The Daily Caller
-- Description: A Verizon store clerk said he recently fought off a man accused of double murder.
+### OTHER on 2025-09-12 00:45
+- Location: Twistedsifter.com
+- Description: How dare you stop me from stealing!
 
-Analysis generated at: Fri Sep 12 18:17:15 UTC 2025
+Analysis generated at: Sat Sep 13 00:59:05 UTC 2025
