@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Sep 13 18:16:29 UTC 2025
+Last updated: Sun Sep 14 01:07:29 UTC 2025
 
 ## Latest Analysis
 
-Loaded 57932 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-12 18:13:29
+Loaded 57954 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-13 01:00:46
 
 Incidents by source:
 source
-newsapi           57831
+newsapi           57853
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-09-12 18:13
-- Location: Us Weekly
-- Description: The CEO of a company at the center of a conspiracy theory regarding Charlie Kirk’s death has spoken out, calling the online chatter “baseless.” Derek Maxfield, CEO of marketing company Komigo, denied that a plane that his company owns was used to help the sus…
+### HOMICIDE on 2025-09-13 01:00
+- Location: Fox News
+- Description: MSNBC criminologist analyzed messages etched on bullet casings from Charlie Kirk shooting suspect, calling them immature rantings and saying she sees no clear political motive yet.
 
 
-### ASSAULT on 2025-09-12 18:12
+### HOMICIDE on 2025-09-13 01:00
+- Location: BusinessLine
+- Description: In this whodunnit, Hercules Tarot investigates the murder of Mademoiselle Sanity in Indian stock market
+
+
+### OTHER on 2025-09-13 00:59
+- Location: Freerepublic.com
+- Description: North Carolina Republicans are blaming Democrats' "woke" policies and lenient crime enforcement for the fatal stabbing of 23-year-old Ukrainian refugee Iryna Zarutska on a Charlotte, North Carolina, light-rail train. Meanwhile, former Gov. Roy Cooper, a Democ…
+
+
+### HOMICIDE on 2025-09-13 00:59
 - Location: The Times of India
-- Description: Trump said he will send National Guard troops to Memphis to fight rising crime. The city has one of the highest crime rates in America. Trump also spoke about Chicago and New Orleans. The move comes after his earlier use of the National Guard in Washington DC…
+- Description: Two days after an Indian national, Chandra Nagamallaiah was brutally murdered and decapitated by an undocumented immigrant from Cuba, the US Department of Homeland Security (DHS) announced that Immigration and Customs Enforcement (ICE) has started the process…
 
 
-### HOMICIDE on 2025-09-12 18:12
-- Location: Slate Magazine
-- Description: Now is the time to resist this dangerous strategy, before it’s too late.
+### HOMICIDE on 2025-09-13 00:55
+- Location: Mediaite
+- Description: Erika Kirk, the widow of conservative activist Charlie Kirk, blamed unspecified "evildoers" for the murder of her husband.
+The post Charlie Kirk’s Widow Strikes Cryptic Note Directed at ‘The Evildoers Responsible for My Husband’s Assassination’ first appeared…
 
-
-### HOMICIDE on 2025-09-12 18:09
-- Location: The Daily Caller
-- Description: The alleged Charlie Kirk assassin threatened to take his own life rather than surrender to authorities when confronted by his father, the New York Post reported.
-
-
-### ROBBERY/THEFT on 2025-09-12 18:05
-- Location: Breitbart News
-- Description: It is crucial to get to the root of the problem in society, Sen. Tommy Tuberville (R-AL) said during an appearance on Breitbart News Daily.
-The post Exclusive — Sen. Tommy Tuberville on Violence: We Must Get to Root of Problem in Society appeared first on Bre…
-
-Analysis generated at: Sat Sep 13 18:16:29 UTC 2025
+Analysis generated at: Sun Sep 14 01:07:29 UTC 2025
