@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Sep 14 06:18:41 UTC 2025
+Last updated: Sun Sep 14 12:23:44 UTC 2025
 
 ## Latest Analysis
 
-Loaded 58014 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-13 06:16:22
+Loaded 58074 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-13 12:20:00
 
 Incidents by source:
 source
-newsapi           57913
+newsapi           57973
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-09-13 06:16
+### HOMICIDE on 2025-09-13 12:20
+- Location: The Star Online
+- Description: IPOH: Police have classified the discovery of a body wrapped in a bundle of clothes, near a river close to the Orang Asli cemetery in Kampung Kerawat, Simpang Pulai, on Friday (Sept 12), as a murder case. Read full story
+
+
+### HOMICIDE on 2025-09-13 12:13
+- Location: Fox News
+- Description: Formal charges against Tyler Robinson in Charlie Kirk's assassination are set for Tuesday as the Utah community is speaking out following his arrest.
+
+
+### OTHER on 2025-09-13 12:08
+- Location: fox6now.com
+- Description: A Wisconsin man was sentenced to prison after prosecutors said he stabbed and then ran over a girl as she tried to get away in 2022.
+
+
+### HOMICIDE on 2025-09-13 12:00
 - Location: New York Post
-- Description: “The movement is not going anywhere, and it will only grow stronger when you join it.”
+- Description: Ruben Santiago, 36, and Caitlin M. Gibson, 28, were initially arrested on May 7, the day after their baby girl's death.
 
 
-### HOMICIDE on 2025-09-13 06:02
-- Location: Next Big Future
-- Description: The killing of the United Healthcare CEO, assassination of Charlie Kirk and attempted assassination of Trump and many other incidents indicate that companies must step up security expenditures for CEOs and top executives and celebrities must be increased. Tes…
+### ROBBERY/THEFT on 2025-09-13 12:00
+- Location: Fox News
+- Description: Tyler Robinson's family played a role in helping turn him in to police as the suspect in conservative speaker Charlie Kirk's assassination at Utah Valley University.
 
-
-### HOMICIDE on 2025-09-13 06:01
-- Location: RTE
-- Description: The US military bombed a boat in international waters killing all 11 people on board. The US said it was a warning to drug-runners. Venezuela called it murder. As tensions rise, what does it mean for the region?
-
-
-### HOMICIDE on 2025-09-13 06:01
-- Location: RTE
-- Description: The US military bombed a boat in international waters killing all 11 people on board. The US said it was a warning to drug-runners. Venezuela called it murder. As tensions rise, what does it mean for the region?
-
-
-### SHOOTING on 2025-09-13 06:00
-- Location: Wcjb.com
-- Description: Gainesville police say a shooting victim is in the hospital with what appear to be life-threatening injuries.
-
-Analysis generated at: Sun Sep 14 06:18:41 UTC 2025
+Analysis generated at: Sun Sep 14 12:23:44 UTC 2025
