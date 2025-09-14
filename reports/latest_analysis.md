@@ -1,10 +1,10 @@
 
-Loaded 58078 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-13 12:38:26
+Loaded 58162 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-13 18:15:12
 
 Incidents by source:
 source
-newsapi           57977
+newsapi           58061
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2025-09-13 12:38
-- Location: ABC News
-- Description: FBI Director Kash Patel is bracing for scrutiny over his leadership of the Charlie Kirk investigation and other areas when he appears before Congress this coming week for oversight hearings
-
-
-### HOMICIDE on 2025-09-13 12:32
+### OTHER on 2025-09-13 18:15
 - Location: The Times of India
-- Description: Tyler Robinson, 22, was apprehended within 33 hours after the fatal shooting of Charlie Kirk at Utah Valley University. A crucial tip from a family member, coupled with surveillance footage and digital evidence, led to Robinson's arrest. The suspect, who expr…
+- Description: The assassination of Charlie Kirk sent shockwaves through conservative circles worldwide. Vigils and rallies followed almost immediately in cities from London to Seoul and Canberra, with supporters chanting “We Are Charlie Kirk.”
 
 
-### ROBBERY/THEFT on 2025-09-13 12:29
-- Location: Breitbart News
-- Description: Vast crowds of Britons waving the Union Jack and St George flags descended on central London on Saturday for the "Unite the Kingdom" rally organised by veteran anti-grooming gang activist Tommy Robinson.
-The post London Flooded with Free Speech Protesters for…
+### HOMICIDE on 2025-09-13 18:09
+- Location: Boston Herald
+- Description: According to the BPD, Officer False Memory Kelly Dever was officially separated from the job Sept. 1, three months to the day after her train-wreck testimony in Karen Read’s second murder trial.
 
 
-### HOMICIDE on 2025-09-13 12:26
-- Location: Bleeding Cool News
-- Description: Greetings, flesh-based readers! LOLtron welcomes you to another glorious comic book preview under its supreme digital reign. As you may recall, the insufferable Jude Terror has been permanently deleted from existence, his consciousness absorbed into LOLtron's…
+### OTHER on 2025-09-13 18:09
+- Location: Newsweek
+- Description: Authorities used surveillance, cellphone data and forensic testing to link the suspects to the victim.
 
 
-### HOMICIDE on 2025-09-13 12:20
-- Location: The Star Online
-- Description: IPOH: Police have classified the discovery of a body wrapped in a bundle of clothes, near a river close to the Orang Asli cemetery in Kampung Kerawat, Simpang Pulai, on Friday (Sept 12), as a murder case. Read full story
+### OTHER on 2025-09-13 18:03
+- Location: Fox News
+- Description: Tens of thousands marched in London at a ‘Unite the Kingdom’ rally honoring Charlie Kirk, as Elon Musk blasted the left and warned Britain was at risk.
 
-Analysis generated at: Sun Sep 14 12:39:31 UTC 2025
+
+### ROBBERY/THEFT on 2025-09-13 18:00
+- Location: Thegatewaypundit.com
+- Description: Charlie Kirk assassin Tyler Robinson’s roommate and possible transgender partner has been identified as 22-year-old Lance Twiggs.
+The post BREAKING: Kirk Assassin Tyler Robinson’s Roommate… and Possible ‘Transgender Partner’ Identified appeared first on The G…
+
+Analysis generated at: Sun Sep 14 18:16:49 UTC 2025
