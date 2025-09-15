@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Sep 14 18:16:49 UTC 2025
+Last updated: Mon Sep 15 01:07:36 UTC 2025
 
 ## Latest Analysis
 
-Loaded 58162 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-13 18:15:12
+Loaded 58171 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-14 00:36:20
 
 Incidents by source:
 source
-newsapi           58061
+newsapi           58070
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-09-13 18:15
-- Location: The Times of India
-- Description: The assassination of Charlie Kirk sent shockwaves through conservative circles worldwide. Vigils and rallies followed almost immediately in cities from London to Seoul and Canberra, with supporters chanting “We Are Charlie Kirk.”
+### OTHER on 2025-09-14 00:36
+- Location: USA Today
+- Description: An Ohio councilman says he and his family are hiding at federal officials' advice after 500-plus threats over a post criticizing Charlie Kirk.
 
 
-### HOMICIDE on 2025-09-13 18:09
-- Location: Boston Herald
-- Description: According to the BPD, Officer False Memory Kelly Dever was officially separated from the job Sept. 1, three months to the day after her train-wreck testimony in Karen Read’s second murder trial.
+### OTHER on 2025-09-14 00:33
+- Location: Israelnationalnews.com
+- Description: Hundreds of left-wing activists demonstrate outside Likud party Rosh Hashanah event in Petah Tikva.
 
 
-### OTHER on 2025-09-13 18:09
-- Location: Newsweek
-- Description: Authorities used surveillance, cellphone data and forensic testing to link the suspects to the victim.
+### HOMICIDE on 2025-09-14 00:31
+- Location: The Japan Times
+- Description: The killing has stirred outrage among Kirk's supporters and condemnation of political violence from across the ideological spectrum.
 
 
-### OTHER on 2025-09-13 18:03
-- Location: Fox News
-- Description: Tens of thousands marched in London at a ‘Unite the Kingdom’ rally honoring Charlie Kirk, as Elon Musk blasted the left and warned Britain was at risk.
+### HOMICIDE on 2025-09-14 00:16
+- Location: RT
+- Description: Federal investigators are digging through “a mountain of evidence” to establish a motive in the conservative influencer’s murder Read Full Article at RT.com
 
 
-### ROBBERY/THEFT on 2025-09-13 18:00
-- Location: Thegatewaypundit.com
-- Description: Charlie Kirk assassin Tyler Robinson’s roommate and possible transgender partner has been identified as 22-year-old Lance Twiggs.
-The post BREAKING: Kirk Assassin Tyler Robinson’s Roommate… and Possible ‘Transgender Partner’ Identified appeared first on The G…
+### OTHER on 2025-09-14 00:14
+- Location: New York Post
+- Description: Memphis Mayor Paul Young said that President Trump’s TV announcement the day before was the first hard confirmation he received that the National Guard would be sent to the city.
 
-Analysis generated at: Sun Sep 14 18:16:49 UTC 2025
+Analysis generated at: Mon Sep 15 01:07:36 UTC 2025
