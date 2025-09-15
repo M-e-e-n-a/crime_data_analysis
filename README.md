@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Sep 15 12:47:53 UTC 2025
+Last updated: Mon Sep 15 18:20:05 UTC 2025
 
 ## Latest Analysis
 
-Loaded 58260 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-14 12:40:24
+Loaded 58335 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-14 18:14:49
 
 Incidents by source:
 source
-newsapi           58159
+newsapi           58234
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-09-14 12:40
-- Location: ABC News
-- Description: Some political leaders are canceling public appearances after Charlie Kirk's killing
+### OTHER on 2025-09-14 18:14
+- Location: New York Post
+- Description: "Well that white sniper was over qualified when he put that hole in your neck hunni bunni," read one of the school cop's sick posts on her Instagram account, a report said.
 
 
-### HOMICIDE on 2025-09-14 12:40
-- Location: Newser
-- Description: As investigators continue to suss out the motives for the murder of Charlie Kirk , one of their key focuses is the transgender roommate of suspect Tyler Robinson. Investigators believe their relationship was a romantic one, and they are looking into whether K…
+### HOMICIDE on 2025-09-14 18:09
+- Location: BBC News
+- Description: Cleveland Police detectives say the child's death is "currently being treated as unexplained".
 
 
-### HOMICIDE on 2025-09-14 12:30
-- Location: ABC News
-- Description: From the moment conservative icon Charlie Kirk was felled by an assassin’s bullet, partisans have fought over who’s to blame for his death
+### OTHER on 2025-09-14 18:05
+- Location: CBS News
+- Description: On this "Face the Nation with Margaret Brennan" broadcast, House Speaker Mike Johnson and Sens. Chris Coons and James Lankford join Major Garrett.
 
 
-### HOMICIDE on 2025-09-14 12:27
-- Location: Newsweek
-- Description: Silvero Villegas-Gonzalez was shot dead after he "resisted arrest and attempted to flee the scene," Homeland Security said.
+### OTHER on 2025-09-14 18:03
+- Location: The Times of India
+- Description: The countdown is underway for the 77th Primetime Emmy Awards, television’s most prestigious night. With a mix of star power, groundbreaking nominations, and tightened security, the ceremony is poised to not only honour excellence on screen but also highlight …
 
 
-### HOMICIDE on 2025-09-14 12:21
-- Location: TODAY
-- Description: President Donald Trump told NBC News in an exclusive interview that he hopes the nation will heal following the death of Charlie Kirk while also pointing blame at the “radical left group of lunatics.” Meanwhile, in London on Saturday, more than 100,000 people…
+### OTHER on 2025-09-14 18:00
+- Location: Legalinsurrection.com
+- Description: “This tragedy was not part of a scripted, one-hour TV crime show, yet was brought to a logical conclusion within a 48-hour time period.”
+The post Kash Patel Faces Scrutiny Amid Capture of Kirk’s Assassin first appeared on Le·gal In·sur·rec·tion.
 
-Analysis generated at: Mon Sep 15 12:47:53 UTC 2025
+Analysis generated at: Mon Sep 15 18:20:05 UTC 2025
