@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Sep 15 06:22:15 UTC 2025
+Last updated: Mon Sep 15 12:28:28 UTC 2025
 
 ## Latest Analysis
 
-Loaded 58212 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-14 06:11:57
+Loaded 58257 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-14 12:27:39
 
 Incidents by source:
 source
-newsapi           58111
+newsapi           58156
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,31 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-09-14 06:11
-- Location: ABC News (AU)
-- Description: Kash Patel faces a clear test of whether he can convince the country that the FBI, under his watch, can avoid compounding its mistakes in a time of political violence and deepening distrust.
+### HOMICIDE on 2025-09-14 12:27
+- Location: Newsweek
+- Description: Silvero Villegas-Gonzalez was shot dead after he "resisted arrest and attempted to flee the scene," Homeland Security said.
 
 
-### OTHER on 2025-09-14 06:00
-- Location: RTE
-- Description: Are the tariffs announced by US President Donald Trump working, or has the flurry of horse-trading that followed mean things have more or less stayed the same for industries in European countries?
+### HOMICIDE on 2025-09-14 12:21
+- Location: TODAY
+- Description: President Donald Trump told NBC News in an exclusive interview that he hopes the nation will heal following the death of Charlie Kirk while also pointing blame at the “radical left group of lunatics.” Meanwhile, in London on Saturday, more than 100,000 people…
 
 
-### ASSAULT on 2025-09-14 06:00
-- Location: Naturalnews.com
-- Description: A growing national movement, led by states like Florida and Texas, seeks to abolish or radically reform local property taxes. Critics argue the tax is unconstitutional, effectively making homeowners “ground lessees” who never achieve true ownership. The syste…
+### HOMICIDE on 2025-09-14 12:17
+- Location: Bleeding Cool News
+- Description: Netflix's star-studded take on Richard Osman's bestseller The Thursday Murder Club has finally arrived, and so far, fans are mostly enjoying the cozy nature of this quirky whodunnit. Directed by Chris Columbus, the film's story follows four retirees at the up…
 
 
-### HOMICIDE on 2025-09-14 06:00
-- Location: Naturalnews.com
-- Description: Left-wing CENSORSHIP of conservative speech is part of what got Charlie Kirk killed. Censorship is terrorism. Censorship is violence. And both Big Tech and the corporate media routinely practice censorship to this day. Even X practices it and continues to cen…
+### HOMICIDE on 2025-09-14 12:16
+- Location: The Denver Post
+- Description: By STEVE PEOPLES and MIKE CATALINI MORRISTOWN, N.J. (AP) — Even before the killing of Charlie Kirk, Gov. Josh Shapiro of Pennsylvania was struggling with the emotional toll of political violence. In the middle of the night just five months ago, someone broke …
 
 
-### OTHER on 2025-09-14 06:00
-- Location: Naturalnews.com
-- Description: America is under siege—not from foreign invaders, but from a censorship industrial complex that has weaponized Big Tech, corporate media, universities, and government agencies to silence dissent, manipulate elections, and destroy the very foundation of our re…
+### HOMICIDE on 2025-09-14 12:09
+- Location: Catholicnewsagency.com
+- Description: null / Credit: Freedom Studio/Shutterstock
 
-Analysis generated at: Mon Sep 15 06:22:15 UTC 2025
+ACI MENA, Sep 14, 2025 / 08:09 am (CNA).
+The death of Milad Farakh, a member of the Melkite Greek Catholic community from the village of Kafra in Syria’s Valley of Christians (Wadi al-Nasara), has stirred controvers…
+
+Analysis generated at: Mon Sep 15 12:28:28 UTC 2025
