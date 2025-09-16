@@ -1,10 +1,10 @@
 
-Loaded 58349 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-15 01:41:44
+Loaded 58395 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-15 06:20:25
 
 Incidents by source:
 source
-newsapi           58248
+newsapi           58294
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-09-15 01:41
-- Location: Israelnationalnews.com
-- Description: Antisemitic graffiti, including "Jews did 9/11" and a swastika, found on two Halifax synagogues and a Jewish center.
+### HOMICIDE on 2025-09-15 06:20
+- Location: TheJournal.ie
+- Description: Soldier F is accused of two murders and five attempted murders in Derry in 1972.
 
 
-### OTHER on 2025-09-15 01:27
-- Location: IndieWire
-- Description: The 15-year-old actor made his debut performance on the Netflix series "Adolescence" and is now the youngest male Emmy winner ever.
+### OTHER on 2025-09-15 06:11
+- Location: The Times of India
+- Description: President Trump threatened to declare a national emergency and federalize Washington, D.C., after Mayor Bowser indicated the city's police would cease cooperation with Immigration and Customs Enforcement. This escalates tensions following Trump's deployment o…
 
 
-### HOMICIDE on 2025-09-15 01:27
-- Location: Digital Journal
-- Description: The first ever trial of a former British soldier accused of murdering victims of the Bloody Sunday massacre opens Monday in Belfast, in a landmark moment in Northern Ireland’s conflict-scarred recent history. The ex-paratrooper — identified only as “Soldier F…
+### OTHER on 2025-09-15 06:06
+- Location: The Star Online
+- Description: GEORGE TOWN: Elected representatives need to be cautious when handling e-mail, especially those requesting them to click on links or scan QR codes, says Datuk Fahmi Fadzil. Read full story
 
 
-### HOMICIDE on 2025-09-15 01:27
-- Location: International Business Times
-- Description: The first ever trial of a former British soldier accused of murdering victims of the Bloody Sunday massacre opens Monday in Belfast, in a landmark moment in Northern Ireland's conflict-scarred recent history.
+### SHOOTING on 2025-09-15 06:00
+- Location: Naturalnews.com
+- Description: Prominent conservative activist and Turning Point USA co-founder Charlie Kirk was fatally shot at Utah Valley University, sparking mourning and outrage in the conservative community. President Trump delivered a heartfelt yet accusatory speech from the Oval Of…
 
 
-### HOMICIDE on 2025-09-15 01:22
-- Location: Yahoo Entertainment
-- Description: The first ever trial of a former British soldier accused of murdering victims of the Bloody Sunday massacre opens Monday in Belfast, in a landmark moment in ...
+### OTHER on 2025-09-15 06:00
+- Location: Naturalnews.com
+- Description: The ivory towers of academia are rarely known for their bold political stands, but when over 1,300 Israeli scholars raise their voices in unison, the world must listen. In an unprecedented act of collective conscience, professors, researchers, and intellectua…
 
-Analysis generated at: Tue Sep 16 01:42:45 UTC 2025
+Analysis generated at: Tue Sep 16 06:21:11 UTC 2025
