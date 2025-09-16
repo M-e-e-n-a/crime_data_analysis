@@ -1,10 +1,10 @@
 
-Loaded 58489 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-15 12:46:07
+Loaded 58580 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-15 18:18:49
 
 Incidents by source:
 source
-newsapi           58388
+newsapi           58479
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-09-15 12:46
-- Location: BBC News
-- Description: Michael Paterson exploited his position in Aberdeen Council to take £1m over 17 years.
+### HOMICIDE on 2025-09-15 18:18
+- Location: ABC News (AU)
+- Description: Tyler Robinson, 22, was arrested last week over the death of conservative influencer Charlie Kirk.
 
 
-### OTHER on 2025-09-15 12:45
-- Location: CBS News
-- Description: Christian Brueckner, a sex offender identified as the prime suspect in the 2007 disappearance of Madeleine McCann, is set to be released from a German prison.
+### HOMICIDE on 2025-09-15 18:18
+- Location: ABC News (AU)
+- Description: Tyler Robinson, 22, was arrested last week over the death of the conservative influencer Charlie Kirk.
 
 
-### HOMICIDE on 2025-09-15 12:35
-- Location: CBS Sports
-- Description: A college football player from Minnesota was found early Friday after suffering a gunshot wound
+### ROBBERY/THEFT on 2025-09-15 18:18
+- Location: Fox News
+- Description: Suspect Tyler Robinson allegedly became radicalized through "dark internet" culture after dropping out of Utah State University, according to Utah officials.
 
 
-### HOMICIDE on 2025-09-15 12:33
-- Location: CBS News
-- Description: Authorities try to pin down a motive for the murder of activist Charlie Kirk. Also, massive protests fill the streets of London as demonstrators clash with police. All that and all that matters in today's Eye Opener.
+### HOMICIDE on 2025-09-15 18:15
+- Location: fox6now.com
+- Description: One person was taken into custody in the Village of Butler on Sunday, Sept. 14 after a tactical situation.
 
 
-### SHOOTING on 2025-09-15 12:30
+### OTHER on 2025-09-15 18:14
 - Location: Freerepublic.com
-- Description: FBI Director Kash Patel says investigators have found DNA evidence linking alleged Charlie Kirk assassin Tyler Robinson to the scene of last week's shooting. Patel made the statement during a Monday morning appearance on "Fox & Friends," saying the suspect's …
+- Description: President Trump has threatened to declare a national emergency in Washington, D.C., to ensure his controversial crime crackdown survives. He railed against Democratic Mayor Muriel Bowser’s decision to end the cooperation between the district’s police force an…
 
-Analysis generated at: Tue Sep 16 12:47:06 UTC 2025
+Analysis generated at: Tue Sep 16 18:20:03 UTC 2025
