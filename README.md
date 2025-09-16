@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Sep 15 18:20:05 UTC 2025
+Last updated: Tue Sep 16 01:02:31 UTC 2025
 
 ## Latest Analysis
 
-Loaded 58335 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-14 18:14:49
+Loaded 58341 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-15 01:00:54
 
 Incidents by source:
 source
-newsapi           58234
+newsapi           58240
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,41 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-09-14 18:14
+### OTHER on 2025-09-15 01:00
+- Location: Dramabeans.com
+- Description: Clockwise from top left, Sohn Seok-gu, Nagayama Eita, Jung Jae-young, Choi Sung-eun, Kim Shin-rok Saluting us from a new crime-thriller on Netflix, Sohn Seok-gu (Nine Puzzles) has buttoned on his police uniform once again for Road (working title) and teaming …
+
+
+### HOMICIDE on 2025-09-15 00:52
 - Location: New York Post
-- Description: "Well that white sniper was over qualified when he put that hole in your neck hunni bunni," read one of the school cop's sick posts on her Instagram account, a report said.
+- Description: Now the courts aren't letting Jamel McGriff walk free — far too late for Maureen and Frank Thomas Olton, the elderly Queens couple he allegedly tortured to death.
 
 
-### HOMICIDE on 2025-09-14 18:09
-- Location: BBC News
-- Description: Cleveland Police detectives say the child's death is "currently being treated as unexplained".
+### ROBBERY/THEFT on 2025-09-15 00:32
+- Location: Freerepublic.com
+- Description: Flicking through his school yearbooks, they have, instead, come to terms with the fact he has become among America's most wanted.Flicking through his school yearbooks, they have, instead, come to terms with the fact he has become among America's most wanted. …
 
 
-### OTHER on 2025-09-14 18:05
-- Location: CBS News
-- Description: On this "Face the Nation with Margaret Brennan" broadcast, House Speaker Mike Johnson and Sens. Chris Coons and James Lankford join Major Garrett.
+### ROBBERY/THEFT on 2025-09-15 00:28
+- Location: Kansas City Star
+- Description: A security robot failed in NYC. Now, it’s trying to protect downtown Kansas City...
+
+ 
+ 
+ 
+ (First column, 16th story, link)
+
+ 
+
+ 
+
+ 
+ 
+ Drudge Report Feed needs your support!   Become a Patron
 
 
-### OTHER on 2025-09-14 18:03
-- Location: The Times of India
-- Description: The countdown is underway for the 77th Primetime Emmy Awards, television’s most prestigious night. With a mix of star power, groundbreaking nominations, and tightened security, the ceremony is poised to not only honour excellence on screen but also highlight …
+### OTHER on 2025-09-15 00:11
+- Location: Screen Rant
+- Description: A trio of tech experts has explained how laughably unrealistic an NCIS scene was and what it was that was so inaccurate about the moment.
 
-
-### OTHER on 2025-09-14 18:00
-- Location: Legalinsurrection.com
-- Description: “This tragedy was not part of a scripted, one-hour TV crime show, yet was brought to a logical conclusion within a 48-hour time period.”
-The post Kash Patel Faces Scrutiny Amid Capture of Kirk’s Assassin first appeared on Le·gal In·sur·rec·tion.
-
-Analysis generated at: Mon Sep 15 18:20:05 UTC 2025
+Analysis generated at: Tue Sep 16 01:02:31 UTC 2025
