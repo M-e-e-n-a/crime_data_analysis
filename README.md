@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Sep 16 12:28:08 UTC 2025
+Last updated: Tue Sep 16 12:47:06 UTC 2025
 
 ## Latest Analysis
 
-Loaded 58483 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-15 12:24:42
+Loaded 58489 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-15 12:46:07
 
 Incidents by source:
 source
-newsapi           58382
+newsapi           58388
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-09-15 12:24
-- Location: Radaronline.com
-- Description: Charlie Kirk's alleged assassin is refusing to collaborate with police as he languishes in a Utah jail, despite admitting to his own father he shot influencer.
+### OTHER on 2025-09-15 12:46
+- Location: BBC News
+- Description: Michael Paterson exploited his position in Aberdeen Council to take £1m over 17 years.
 
 
-### OTHER on 2025-09-15 12:15
-- Location: Southasiaviews.com
-- Description: Shillong (Meghalaya), Sep 15 : A chilling crime has shaken the outskirts of Shillong, where a 4-year-old girl’s life was brutally cut short in Nongrah. The tiny tot went missing from her residence early yesterday morning, and her lifeless body was recovered t…
+### OTHER on 2025-09-15 12:45
+- Location: CBS News
+- Description: Christian Brueckner, a sex offender identified as the prime suspect in the 2007 disappearance of Madeleine McCann, is set to be released from a German prison.
 
 
-### OTHER on 2025-09-15 12:13
-- Location: Time Out
-- Description: Six of the top 10 safest areas in the UK are in the capital city, according to new research by Get Licensed
+### HOMICIDE on 2025-09-15 12:35
+- Location: CBS Sports
+- Description: A college football player from Minnesota was found early Friday after suffering a gunshot wound
 
 
-### HOMICIDE on 2025-09-15 12:12
-- Location: New York Post
-- Description: A Texas Tech student was arrested after she was filmed mocking Charlie Kirk's assassination and harassing mourners at a vigil.
+### HOMICIDE on 2025-09-15 12:33
+- Location: CBS News
+- Description: Authorities try to pin down a motive for the murder of activist Charlie Kirk. Also, massive protests fill the streets of London as demonstrators clash with police. All that and all that matters in today's Eye Opener.
 
 
-### OTHER on 2025-09-15 12:10
-- Location: Mcsweeneys.net
-- Description: Early in President Trump’s first term, McSweeney’s editors began to catalog the head-spinning number of misdeeds coming from his administration. We called this list a collection of Trump’s cruelties, collusions, corruptions, and crimes, and it felt urgent to …
+### SHOOTING on 2025-09-15 12:30
+- Location: Freerepublic.com
+- Description: FBI Director Kash Patel says investigators have found DNA evidence linking alleged Charlie Kirk assassin Tyler Robinson to the scene of last week's shooting. Patel made the statement during a Monday morning appearance on "Fox & Friends," saying the suspect's …
 
-Analysis generated at: Tue Sep 16 12:28:08 UTC 2025
+Analysis generated at: Tue Sep 16 12:47:06 UTC 2025
