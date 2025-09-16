@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Sep 16 01:02:31 UTC 2025
+Last updated: Tue Sep 16 01:42:45 UTC 2025
 
 ## Latest Analysis
 
-Loaded 58341 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-15 01:00:54
+Loaded 58349 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-15 01:41:44
 
 Incidents by source:
 source
-newsapi           58240
+newsapi           58248
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,41 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-09-15 01:00
-- Location: Dramabeans.com
-- Description: Clockwise from top left, Sohn Seok-gu, Nagayama Eita, Jung Jae-young, Choi Sung-eun, Kim Shin-rok Saluting us from a new crime-thriller on Netflix, Sohn Seok-gu (Nine Puzzles) has buttoned on his police uniform once again for Road (working title) and teaming …
+### OTHER on 2025-09-15 01:41
+- Location: Israelnationalnews.com
+- Description: Antisemitic graffiti, including "Jews did 9/11" and a swastika, found on two Halifax synagogues and a Jewish center.
 
 
-### HOMICIDE on 2025-09-15 00:52
-- Location: New York Post
-- Description: Now the courts aren't letting Jamel McGriff walk free — far too late for Maureen and Frank Thomas Olton, the elderly Queens couple he allegedly tortured to death.
+### OTHER on 2025-09-15 01:27
+- Location: IndieWire
+- Description: The 15-year-old actor made his debut performance on the Netflix series "Adolescence" and is now the youngest male Emmy winner ever.
 
 
-### ROBBERY/THEFT on 2025-09-15 00:32
-- Location: Freerepublic.com
-- Description: Flicking through his school yearbooks, they have, instead, come to terms with the fact he has become among America's most wanted.Flicking through his school yearbooks, they have, instead, come to terms with the fact he has become among America's most wanted. …
+### HOMICIDE on 2025-09-15 01:27
+- Location: Digital Journal
+- Description: The first ever trial of a former British soldier accused of murdering victims of the Bloody Sunday massacre opens Monday in Belfast, in a landmark moment in Northern Ireland’s conflict-scarred recent history. The ex-paratrooper — identified only as “Soldier F…
 
 
-### ROBBERY/THEFT on 2025-09-15 00:28
-- Location: Kansas City Star
-- Description: A security robot failed in NYC. Now, it’s trying to protect downtown Kansas City...
-
- 
- 
- 
- (First column, 16th story, link)
-
- 
-
- 
-
- 
- 
- Drudge Report Feed needs your support!   Become a Patron
+### HOMICIDE on 2025-09-15 01:27
+- Location: International Business Times
+- Description: The first ever trial of a former British soldier accused of murdering victims of the Bloody Sunday massacre opens Monday in Belfast, in a landmark moment in Northern Ireland's conflict-scarred recent history.
 
 
-### OTHER on 2025-09-15 00:11
-- Location: Screen Rant
-- Description: A trio of tech experts has explained how laughably unrealistic an NCIS scene was and what it was that was so inaccurate about the moment.
+### HOMICIDE on 2025-09-15 01:22
+- Location: Yahoo Entertainment
+- Description: The first ever trial of a former British soldier accused of murdering victims of the Bloody Sunday massacre opens Monday in Belfast, in a landmark moment in ...
 
-Analysis generated at: Tue Sep 16 01:02:31 UTC 2025
+Analysis generated at: Tue Sep 16 01:42:45 UTC 2025
