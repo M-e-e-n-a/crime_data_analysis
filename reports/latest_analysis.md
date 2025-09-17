@@ -1,10 +1,10 @@
 
-Loaded 58751 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-16 12:28:07
+Loaded 58757 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-16 12:46:36
 
 Incidents by source:
 source
-newsapi           58650
+newsapi           58656
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-09-16 12:28
-- Location: The Conversation Africa
-- Description: Trying to change someone’s mind can seem futile. But there are approaches to political discourse that still matter, even if they don’t instantly win someone over.
+### OTHER on 2025-09-16 12:46
+- Location: CBS News
+- Description: FBI Director Kash Patel is appearing before the Senate Judiciary Committee Tuesday for an annual hearing on oversight of the FBI.
 
 
-### HOMICIDE on 2025-09-16 12:28
-- Location: Sky.com
-- Description: The 2004 murder of Alistair Wilson, 30, in the Scottish Highlands remains unsolved. A new team of Crown Office prosecutors and Police Scotland officers are working on the reinvestigation.
+### ROBBERY/THEFT on 2025-09-16 12:45
+- Location: BBC News
+- Description: Look back at the life of the actor whose laconic style made him one of Hollywood's brightest stars.
 
 
-### HOMICIDE on 2025-09-16 12:27
-- Location: Www.gov.uk
-- Description: The process when a British national dies in Venezuela, including registering the death, funerals and cremations, and bringing the person’s body to the UK.
-
-
-### HOMICIDE on 2025-09-16 12:20
-- Location: Boston Herald
-- Description: Mangione's lawyers argue that the New York case and a parallel federal death penalty prosecution amount to double jeopardy.
-
-
-### HOMICIDE on 2025-09-16 12:18
+### OTHER on 2025-09-16 12:42
 - Location: Breitbart News
-- Description: The suspected killer of UnitedHealthcare CEO Brian Thompson is due in court Tuesday as Luigi Mangione's lawyers seek to have state murder charges against their client thrown out.
-The post United Healthcare CEO’s Accused Killer, Luigi Mangione, Due in Court: S…
+- Description: President Donald Trump's deputies are granting Hungarians easy, visa-free entry into the United States.
+The post Kristi Noem Grants Visa-Free Travel to Hungary’s Citizens appeared first on Breitbart.
 
-Analysis generated at: Wed Sep 17 12:28:23 UTC 2025
+
+### HOMICIDE on 2025-09-16 12:40
+- Location: Celebitchy.com
+- Description: Tyler Robinson is currently under arrest and in custody in Utah for the murder of Charlie Kirk. Reportedly, Robinson’s father turned him in. Reportedly, Robinson’s family is all MAGA, all ultra-conservative and Trump-supporters through and through, and they’r…
+
+
+### HOMICIDE on 2025-09-16 12:36
+- Location: International Business Times
+- Description: A Nairobi court issued an arrest warrant Tuesday for a British citizen in connection with the high-profile death of a young Kenyan mother whose body was found in a septic tank over a decade ago.
+
+Analysis generated at: Wed Sep 17 12:46:50 UTC 2025
