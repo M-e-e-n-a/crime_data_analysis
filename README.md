@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Sep 17 06:21:21 UTC 2025
+Last updated: Wed Sep 17 12:28:23 UTC 2025
 
 ## Latest Analysis
 
-Loaded 58661 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-16 06:16:31
+Loaded 58751 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-16 12:28:07
 
 Incidents by source:
 source
-newsapi           58560
+newsapi           58650
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,32 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2025-09-16 06:16
-- Location: The Local Germany
-- Description: Poland's President seeks support against Russian drones in Berlin, extreme weather costs Europe countries billions this year, a verdict is due for attacker who went on a rampage in Mannheim and more news around Germany on Tuesday, September 16th.
+### HOMICIDE on 2025-09-16 12:28
+- Location: The Conversation Africa
+- Description: Trying to change someone’s mind can seem futile. But there are approaches to political discourse that still matter, even if they don’t instantly win someone over.
 
 
-### HOMICIDE on 2025-09-16 06:15
-- Location: Independent.ie
-- Description: US Vice President JD Vance and another top official in President Donald Trump's administration on Monday argued that serving the memory of Charlie Kirk means pursuing left-leaning groups they portray as bent on undermining national unity.
+### HOMICIDE on 2025-09-16 12:28
+- Location: Sky.com
+- Description: The 2004 murder of Alistair Wilson, 30, in the Scottish Highlands remains unsolved. A new team of Crown Office prosecutors and Police Scotland officers are working on the reinvestigation.
 
 
-### OTHER on 2025-09-16 06:07
-- Location: Biztoc.com
-- Description: "I've Never Experienced Crime Of This Magnitude Before": 20-Year Veteran Austrian Police Spox
- 
-Via Remix News,
-More than 30 victims of a Syrian youth gang, known as “505,” have been recorded n the cities of Graz and Vienna. 
-The suspects range in age from 17…
+### HOMICIDE on 2025-09-16 12:27
+- Location: Www.gov.uk
+- Description: The process when a British national dies in Venezuela, including registering the death, funerals and cremations, and bringing the person’s body to the UK.
 
 
-### HOMICIDE on 2025-09-16 06:00
-- Location: Naturalnews.com
-- Description: The shot that killed Charlie Kirk didn’t just silence an influential conservative firebrand who spoke truth and engaged in civil debate. It shattered the illusion that America’s political landscape was democratic, an opportunity for individuals to discuss ide…
+### HOMICIDE on 2025-09-16 12:20
+- Location: Boston Herald
+- Description: Mangione's lawyers argue that the New York case and a parallel federal death penalty prosecution amount to double jeopardy.
 
 
-### ASSAULT on 2025-09-16 05:47
-- Location: CNN
-- Description: Republican Utah Gov. Spencer Cox’s plea for people to stop turning Charlie Kirk’s assassination into a political food fight appear to have fallen on deaf ears among many on the right.
+### HOMICIDE on 2025-09-16 12:18
+- Location: Breitbart News
+- Description: The suspected killer of UnitedHealthcare CEO Brian Thompson is due in court Tuesday as Luigi Mangione's lawyers seek to have state murder charges against their client thrown out.
+The post United Healthcare CEO’s Accused Killer, Luigi Mangione, Due in Court: S…
 
-Analysis generated at: Wed Sep 17 06:21:21 UTC 2025
+Analysis generated at: Wed Sep 17 12:28:23 UTC 2025
