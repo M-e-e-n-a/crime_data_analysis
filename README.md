@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Sep 17 12:46:50 UTC 2025
+Last updated: Wed Sep 17 18:19:38 UTC 2025
 
 ## Latest Analysis
 
-Loaded 58757 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-16 12:46:36
+Loaded 58853 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-16 18:13:21
 
 Incidents by source:
 source
-newsapi           58656
+newsapi           58752
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-09-16 12:46
-- Location: CBS News
-- Description: FBI Director Kash Patel is appearing before the Senate Judiciary Committee Tuesday for an annual hearing on oversight of the FBI.
+### OTHER on 2025-09-16 18:13
+- Location: Deadline
+- Description: The Iranian Independent Filmmakers Association (IIFMA) has stepped-up calls for the Academy of Motion Picture Arts and Sciences (AMPAS) to reappraise its relationship with Iran’s government-controlled Farabi cinema body. Up until now, AMPAS has accepted Farab…
 
 
-### ROBBERY/THEFT on 2025-09-16 12:45
-- Location: BBC News
-- Description: Look back at the life of the actor whose laconic style made him one of Hollywood's brightest stars.
+### HOMICIDE on 2025-09-16 18:13
+- Location: Freerepublic.com
+- Description: A 12-year-old boy and a 20-year-old man have been charged with second-degree murder in connection with a series of violent robberies of homeless or vulnerable people in downtown Toronto last month. “This was a disturbing crime spree,” Toronto Police Det. Stac…
 
 
-### OTHER on 2025-09-16 12:42
-- Location: Breitbart News
-- Description: President Donald Trump's deputies are granting Hungarians easy, visa-free entry into the United States.
-The post Kristi Noem Grants Visa-Free Travel to Hungary’s Citizens appeared first on Breitbart.
+### SHOOTING on 2025-09-16 18:12
+- Location: New York Post
+- Description: Law enforcement accused the 71-year-old of keeping “graphic” sexual photos of children on his phone.
 
 
-### HOMICIDE on 2025-09-16 12:40
-- Location: Celebitchy.com
-- Description: Tyler Robinson is currently under arrest and in custody in Utah for the murder of Charlie Kirk. Reportedly, Robinson’s father turned him in. Reportedly, Robinson’s family is all MAGA, all ultra-conservative and Trump-supporters through and through, and they’r…
+### HOMICIDE on 2025-09-16 18:10
+- Location: The Daily Caller
+- Description: A man who claimed he killed Charlie Kirk is facing child exploitation charges after investigators allegedly found explicit images of children on his phone.
 
 
-### HOMICIDE on 2025-09-16 12:36
-- Location: International Business Times
-- Description: A Nairobi court issued an arrest warrant Tuesday for a British citizen in connection with the high-profile death of a young Kenyan mother whose body was found in a septic tank over a decade ago.
+### ROBBERY/THEFT on 2025-09-16 18:10
+- Location: WSB Atlanta
+- Description: Beyoncé’s choreographer and one of her dancers said thieves broke into their SUV on July 8 and stole numerous items, including jump drives containing unreleased music. She was in Atlanta four her Cowboy Carter tour.
 
-Analysis generated at: Wed Sep 17 12:46:50 UTC 2025
+Analysis generated at: Wed Sep 17 18:19:38 UTC 2025
