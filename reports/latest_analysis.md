@@ -1,10 +1,10 @@
 
-Loaded 58580 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-15 18:18:49
+Loaded 58595 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-16 01:00:07
 
 Incidents by source:
 source
-newsapi           58479
+newsapi           58494
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-09-15 18:18
-- Location: ABC News (AU)
-- Description: Tyler Robinson, 22, was arrested last week over the death of conservative influencer Charlie Kirk.
+### HOMICIDE on 2025-09-16 01:00
+- Location: Themirror.com
+- Description: EXCLUSIVE: One former Turning Point USA employee recalls her time with the Turning Point USA organization and Charlie Kirk after his death in Utah
 
 
-### HOMICIDE on 2025-09-15 18:18
-- Location: ABC News (AU)
-- Description: Tyler Robinson, 22, was arrested last week over the death of the conservative influencer Charlie Kirk.
+### ROBBERY/THEFT on 2025-09-16 00:58
+- Location: FOX21News.com
+- Description: (COLORADO SPRINGS) — The Colorado Springs Police Department (CSPD) said a man has been arrested after police tracked a stolen motorcycle to the suspect, who ...
 
 
-### ROBBERY/THEFT on 2025-09-15 18:18
-- Location: Fox News
-- Description: Suspect Tyler Robinson allegedly became radicalized through "dark internet" culture after dropping out of Utah State University, according to Utah officials.
+### HOMICIDE on 2025-09-16 00:58
+- Location: The Conversation Africa
+- Description: New research tries to unpack why and how groups of people hide victims after a murder.
 
 
-### HOMICIDE on 2025-09-15 18:15
+### SHOOTING on 2025-09-16 00:45
 - Location: fox6now.com
-- Description: One person was taken into custody in the Village of Butler on Sunday, Sept. 14 after a tactical situation.
+- Description: A 30-year-old Milwaukee man is accused of fatally shooting a woman near 42nd and Hope on Aug. 13.
 
 
-### OTHER on 2025-09-15 18:14
-- Location: Freerepublic.com
-- Description: President Trump has threatened to declare a national emergency in Washington, D.C., to ensure his controversial crime crackdown survives. He railed against Democratic Mayor Muriel Bowser’s decision to end the cooperation between the district’s police force an…
+### OTHER on 2025-09-16 00:37
+- Location: Mediaite
+- Description: Greg Gutfeld went nuclear on co-host Jessica Tarlov after she cited the assassination of a Democratic lawmaker as an example of right-wing violence. 
+The post ‘Did You Know Her Name?!’ Greg Gutfeld LOSES IT on Co-Host for ‘Bulls–t’ Comparison of Kirk Assassin…
 
-Analysis generated at: Tue Sep 16 18:20:03 UTC 2025
+Analysis generated at: Wed Sep 17 01:02:02 UTC 2025
