@@ -1,10 +1,10 @@
 
-Loaded 58595 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-16 01:00:07
+Loaded 58606 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-16 01:40:28
 
 Incidents by source:
 source
-newsapi           58494
+newsapi           58505
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-09-16 01:00
-- Location: Themirror.com
-- Description: EXCLUSIVE: One former Turning Point USA employee recalls her time with the Turning Point USA organization and Charlie Kirk after his death in Utah
+### OTHER on 2025-09-16 01:40
+- Location: Thegatewaypundit.com
+- Description: FBI Director Kash Patel appeared on Fox & Friends Monday morning, providing new details about the investigation into the assassination of TPUSA founder Charlie Kirk.
+The post Fox News Host Asks FBI Director Kash Patel If the First Subject Detained Served as a…
 
 
-### ROBBERY/THEFT on 2025-09-16 00:58
-- Location: FOX21News.com
-- Description: (COLORADO SPRINGS) — The Colorado Springs Police Department (CSPD) said a man has been arrested after police tracked a stolen motorcycle to the suspect, who ...
+### OTHER on 2025-09-16 01:37
+- Location: Freerepublic.com
+- Description: President Donald Trump signed a memo Monday establishing a task force in Memphis, Tennessee, that would mobilize the National Guard and other federal law enforcement agencies to crack down on crime, similar to steps taken in Washington, D.C.
 
 
-### HOMICIDE on 2025-09-16 00:58
-- Location: The Conversation Africa
-- Description: New research tries to unpack why and how groups of people hide victims after a murder.
+### HOMICIDE on 2025-09-16 01:30
+- Location: The Indian Express
+- Description: Move comes after third-year student's parents meet Kolkata Police Commissioner and other senior officers
 
 
-### SHOOTING on 2025-09-16 00:45
-- Location: fox6now.com
-- Description: A 30-year-old Milwaukee man is accused of fatally shooting a woman near 42nd and Hope on Aug. 13.
+### OTHER on 2025-09-16 01:28
+- Location: ABC News (AU)
+- Description: Donald Trump signs a memorandum to send the National Guard into Memphis to combat crime, setting up another major test of his presidential power.
 
 
-### OTHER on 2025-09-16 00:37
-- Location: Mediaite
-- Description: Greg Gutfeld went nuclear on co-host Jessica Tarlov after she cited the assassination of a Democratic lawmaker as an example of right-wing violence. 
-The post ‘Did You Know Her Name?!’ Greg Gutfeld LOSES IT on Co-Host for ‘Bulls–t’ Comparison of Kirk Assassin…
+### SHOOTING on 2025-09-16 01:20
+- Location: New York Post
+- Description: "When it happens in your hometown on the streets I grew up on, It hits too close. Cause I don't believe it's about inclusion. Lord, I pray it's about reunion with you someday," the lyrics read.
 
-Analysis generated at: Wed Sep 17 01:02:02 UTC 2025
+Analysis generated at: Wed Sep 17 01:42:37 UTC 2025
