@@ -1,10 +1,10 @@
 
-Loaded 59035 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-17 12:40:15
+Loaded 59127 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-17 18:14:03
 
 Incidents by source:
 source
-newsapi           58934
+newsapi           59026
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,32 +20,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-09-17 12:40
-- Location: Theregister.com
-- Description: Prosecutors say Conor Fitzpatrick's crimes caused 'incalculable' damage
-The founder of the popular cybercrime website BreachForums will spend three years in prison after previously being let off with a slap on the wrist.…
+### ASSAULT on 2025-09-17 18:14
+- Location: Raw Story
+- Description: On Sept. 2, the Trump administration shared footage
+ purporting to show a US strike on a Venezuelan fishing boat. Even if we take the incident entirely at face value (and there are a lot of reasons to question the video itself
+) — the US Navy attacked a fis…
 
 
-### HOMICIDE on 2025-09-17 12:36
-- Location: Democracy Now!
-- Description: The alleged shooter of conservative activist Charlie Kirk was formally charged Tuesday by Utah prosecutors. The top charge is aggravated murder, along with six other counts. The accused, 22-year old Tyler Robinson, also made his first court appearance to hear…
+### HOMICIDE on 2025-09-17 18:12
+- Location: Westernjournal.com
+- Description: The woman reportedly used a metal piece of her wheelchair to attack her fellow nursing home resident, who was 89.
 
 
-### HOMICIDE on 2025-09-17 12:34
-- Location: HuffPost
-- Description: Donald Trump is escalating threats against what he calls the "radical left" after the assassination of Charlie Kirk.
+### HOMICIDE on 2025-09-17 18:01
+- Location: Fark.com
+- Description: "Circle K Clerk Was 'Having a Bad Day' When He Killed an Off-Duty Officer Buying a Hot Dog: Police". Plus, he wasn't even supposed to BE there that day
 
 
-### HOMICIDE on 2025-09-17 12:33
-- Location: Independent.ie
-- Description: Southport killer Axel Rudakubana could and should have been stopped before launching his murderous attack on children, a public inquiry heard.
+### OTHER on 2025-09-17 18:00
+- Location: LancasterOnline
+- Description: A Montgomery County man accused of scamming people in three counties out of $150,000 by failing to deliver tickets to professional sporting events and concerts will have one of his Lancaster County cases decided in Lancaster County court.
 
 
-### OTHER on 2025-09-17 12:30
-- Location: Thenation.com
-- Description: Clay Bennett
+### OTHER on 2025-09-17 18:00
+- Location: LancasterOnline
+- Description: A Montgomery County man accused of scamming people in three counties out of $150,000 by failing to deliver tickets to professional sporting events and concerts will have one of his Lancaster County cases decided in Lancaster County court.
 
-Trump’s crime wave to break democracy.
-The post The Police State Presidency appeared first on The Nation.
-
-Analysis generated at: Thu Sep 18 12:45:42 UTC 2025
+Analysis generated at: Thu Sep 18 18:20:22 UTC 2025
