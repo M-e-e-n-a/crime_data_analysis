@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Sep 18 12:27:42 UTC 2025
+Last updated: Thu Sep 18 12:45:42 UTC 2025
 
 ## Latest Analysis
 
-Loaded 59028 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-17 12:27:20
+Loaded 59035 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-17 12:40:15
 
 Incidents by source:
 source
-newsapi           58927
+newsapi           58934
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,32 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2025-09-17 12:27
-- Location: Digital Journal
-- Description: A judicial commission set up by South Africa’s president to investigate explosive claims by a top cop linking politicians to criminal gangs began its public hearings on Wednesday, weeks after a delayed start. Africa’s most industrialised nation is plagued by …
+### OTHER on 2025-09-17 12:40
+- Location: Theregister.com
+- Description: Prosecutors say Conor Fitzpatrick's crimes caused 'incalculable' damage
+The founder of the popular cybercrime website BreachForums will spend three years in prison after previously being let off with a slap on the wrist.…
 
 
-### OTHER on 2025-09-17 12:24
-- Location: Thoughtcatalog.com
-- Description: Two boys, ages 12 and 13, broke into the library at Friendship Elementary School in Deltona, Florida. They smashed a glass door, flipped tables, and wrecked the media center. Police said the damage cost at least $50,000.
+### HOMICIDE on 2025-09-17 12:36
+- Location: Democracy Now!
+- Description: The alleged shooter of conservative activist Charlie Kirk was formally charged Tuesday by Utah prosecutors. The top charge is aggravated murder, along with six other counts. The accused, 22-year old Tyler Robinson, also made his first court appearance to hear…
 
 
-### OTHER on 2025-09-17 12:22
-- Location: Associated Press
-- Description: President Donald Trump is escalating threats against what he calls the "radical left" after the assassination of Charlie Kirk. His administration is considering classifying some groups as domestic terrorists and revoking tax-exempt status for certain nonprofi…
+### HOMICIDE on 2025-09-17 12:34
+- Location: HuffPost
+- Description: Donald Trump is escalating threats against what he calls the "radical left" after the assassination of Charlie Kirk.
 
 
-### HOMICIDE on 2025-09-17 12:21
-- Location: soompi
-- Description: The next episode of SBS’s “Queen Mantis” will reveal why serial killer Go Hyun Jung confessed to her crimes 23 years ago! A remake of the French series “La Mante,” “Queen Mantis” is a new crime thriller starring Go Hyun Jung as Jung Yi Shin, a famous serial k…
+### HOMICIDE on 2025-09-17 12:33
+- Location: Independent.ie
+- Description: Southport killer Axel Rudakubana could and should have been stopped before launching his murderous attack on children, a public inquiry heard.
 
 
-### ROBBERY/THEFT on 2025-09-17 12:20
-- Location: National Post
-- Description: Police are calling it distraction theft. In the video, the victim doesn't notice anything amiss; instead she thanks the suspect for the fake necklace
+### OTHER on 2025-09-17 12:30
+- Location: Thenation.com
+- Description: Clay Bennett
 
-Analysis generated at: Thu Sep 18 12:27:42 UTC 2025
+Trump’s crime wave to break democracy.
+The post The Police State Presidency appeared first on The Nation.
+
+Analysis generated at: Thu Sep 18 12:45:42 UTC 2025
