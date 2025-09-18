@@ -1,10 +1,10 @@
 
-Loaded 58853 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-16 18:13:21
+Loaded 58872 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-17 01:00:00
 
 Incidents by source:
 source
-newsapi           58752
+newsapi           58771
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-09-16 18:13
-- Location: Deadline
-- Description: The Iranian Independent Filmmakers Association (IIFMA) has stepped-up calls for the Academy of Motion Picture Arts and Sciences (AMPAS) to reappraise its relationship with Iran’s government-controlled Farabi cinema body. Up until now, AMPAS has accepted Farab…
+### OTHER on 2025-09-17 01:00
+- Location: Allthatsinteresting.com
+- Description: Between 1986 and 2013, Christopher Thomas Knight lived alone in the woods of Maine, stealing from seasonal cabins and summer camps in order to survive.
+The post The Astonishing Story Of Christopher Thomas Knight, The Maine ‘Hermit’ Who Lived In Isolation For …
 
 
-### HOMICIDE on 2025-09-16 18:13
-- Location: Freerepublic.com
-- Description: A 12-year-old boy and a 20-year-old man have been charged with second-degree murder in connection with a series of violent robberies of homeless or vulnerable people in downtown Toronto last month. “This was a disturbing crime spree,” Toronto Police Det. Stac…
+### HOMICIDE on 2025-09-17 00:56
+- Location: Sky.com
+- Description: Mohanad Abdullaahi Goobe died in Manchester's Moss Side in an incident detectives described as "shocking", and urged people not to share social media footage.
 
 
-### SHOOTING on 2025-09-16 18:12
-- Location: New York Post
-- Description: Law enforcement accused the 71-year-old of keeping “graphic” sexual photos of children on his phone.
+### HOMICIDE on 2025-09-17 00:54
+- Location: Syllad.com
+- Description: Chief Minister Conrad K Sangma has assured that the perpetrators involved in the recent murder of a 4-year-old girl at Nongrah Nonglum will soon be brought to book. Speaking to media persons on Tuesday, Sangma has extended his deepest condolences to the famil…
 
 
-### HOMICIDE on 2025-09-16 18:10
-- Location: The Daily Caller
-- Description: A man who claimed he killed Charlie Kirk is facing child exploitation charges after investigators allegedly found explicit images of children on his phone.
+### HOMICIDE on 2025-09-17 00:48
+- Location: NBC News
+- Description: Nearly a week after Charlie Kirk's assassination, many Republican members of Congress are publicly grieving and casting blame on Democrats and the media.
 
 
-### ROBBERY/THEFT on 2025-09-16 18:10
-- Location: WSB Atlanta
-- Description: Beyoncé’s choreographer and one of her dancers said thieves broke into their SUV on July 8 and stole numerous items, including jump drives containing unreleased music. She was in Atlanta four her Cowboy Carter tour.
+### DRUG RELATED on 2025-09-17 00:45
+- Location: fox6now.com
+- Description: A multi-jurisdiction drug interdiction operation in Fond du Lac County led to dozens of recent arrests, multiple drug seizures and traffic citations, authorities said.
 
-Analysis generated at: Wed Sep 17 18:19:38 UTC 2025
+Analysis generated at: Thu Sep 18 01:02:05 UTC 2025
