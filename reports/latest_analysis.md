@@ -1,10 +1,10 @@
 
-Loaded 58940 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-17 06:20:00
+Loaded 59028 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-17 12:27:20
 
 Incidents by source:
 source
-newsapi           58839
+newsapi           58927
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-09-17 06:20
-- Location: Internet
-- Description: The U.S. Department of Justice (DoJ) on Tuesday resentenced the former administrator of BreachForums to three years in prison in connection with his role in running the cybercrime forum and possessing child sexual abuse material (CSAM).
-Conor Brian Fitzpatric…
+### ROBBERY/THEFT on 2025-09-17 12:27
+- Location: Digital Journal
+- Description: A judicial commission set up by South Africa’s president to investigate explosive claims by a top cop linking politicians to criminal gangs began its public hearings on Wednesday, weeks after a delayed start. Africa’s most industrialised nation is plagued by …
 
 
-### HOMICIDE on 2025-09-17 06:16
-- Location: The Times of India
-- Description: A domestic shooting near Lincoln Middle School in Berwyn resulted in three fatalities. Berwyn police responded to gunfire and found a man shooting into a vehicle. Another suspect fired at the officers. The school went into lockdown following the shooting inci…
+### OTHER on 2025-09-17 12:24
+- Location: Thoughtcatalog.com
+- Description: Two boys, ages 12 and 13, broke into the library at Friendship Elementary School in Deltona, Florida. They smashed a glass door, flipped tables, and wrecked the media center. Police said the damage cost at least $50,000.
 
 
-### OTHER on 2025-09-17 06:14
-- Location: ComputerWeekly.com
-- Description: It is being described as a “Goldilocks moment” to encourage US investment in UK AI infrastructure, but Donald Trump’s state visit and the UK-US Tech Prosperity Deal that has been announced, come at ...
+### OTHER on 2025-09-17 12:22
+- Location: Associated Press
+- Description: President Donald Trump is escalating threats against what he calls the "radical left" after the assassination of Charlie Kirk. His administration is considering classifying some groups as domestic terrorists and revoking tax-exempt status for certain nonprofi…
 
 
-### DRUG RELATED on 2025-09-17 06:11
-- Location: The Star Online
-- Description: KUALA LUMPUR: Drugs worth around RM2bil have been seized nationwide involving a staggering 174,134 cases until Sept 14 this year, says Datuk Seri Mohd Khalid Ismail. Read full story
+### HOMICIDE on 2025-09-17 12:21
+- Location: soompi
+- Description: The next episode of SBS’s “Queen Mantis” will reveal why serial killer Go Hyun Jung confessed to her crimes 23 years ago! A remake of the French series “La Mante,” “Queen Mantis” is a new crime thriller starring Go Hyun Jung as Jung Yi Shin, a famous serial k…
 
 
-### DRUG RELATED on 2025-09-17 06:00
-- Location: The Star Online
-- Description: KUALA LUMPUR: Police have seized over 3.5 tonnes of MDMA, also known as ecstasy, worth more than half a billion ringgit in a series of raids in the Klang Valley. Read full story
+### ROBBERY/THEFT on 2025-09-17 12:20
+- Location: National Post
+- Description: Police are calling it distraction theft. In the video, the victim doesn't notice anything amiss; instead she thanks the suspect for the fake necklace
 
-Analysis generated at: Thu Sep 18 06:20:58 UTC 2025
+Analysis generated at: Thu Sep 18 12:27:42 UTC 2025
