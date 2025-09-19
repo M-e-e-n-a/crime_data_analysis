@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Sep 19 12:46:28 UTC 2025
+Last updated: Fri Sep 19 18:19:32 UTC 2025
 
 ## Latest Analysis
 
-Loaded 59307 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-18 12:40:49
+Loaded 59400 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-18 18:17:20
 
 Incidents by source:
 source
-newsapi           59206
+newsapi           59299
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-09-18 12:40
-- Location: Newsweek
-- Description: Jimmy Kimmel Live! was pulled from the air indefinitely over remarks made by the host after Charlie Kirk's murder.
+### HOMICIDE on 2025-09-18 18:17
+- Location: Digital Journal
+- Description: A Colombian tribunal on Thursday issued its first sentences for former soldiers over the killing of civilians during the country’s decades-long armed conflict, ordering 12 of them to carry out work including building memorials for their victims. The retired m…
 
 
-### OTHER on 2025-09-18 12:35
-- Location: Boston Herald
-- Description: The Boston Police Department has released a new list of “most wanted" and is asking the public to help them find any of the named suspects.
+### HOMICIDE on 2025-09-18 18:15
+- Location: International Business Times
+- Description: A Colombian tribunal on Thursday issued its first sentences for former soldiers over the killing of civilians during the country's decades-long armed conflict, ordering 12 of them to carry out work including building memorials for their victims.
 
 
-### HOMICIDE on 2025-09-18 12:34
-- Location: New York Post
-- Description: Nerissa Lee and her 76-year-old mother were killed at the end of the school day while sitting in a car outside Lincoln Middle School in Berwyn, a few miles from Chicago.
+### HOMICIDE on 2025-09-18 18:09
+- Location: The Times of India
+- Description: Turning Point USA board unanimously elects Erika Kirk as CEO and Chair following founder Charlie Kirk's assassination at Utah Valley University. Organization vows to continue conservative mission while Tyler Robinson faces murder charges in the September 10 s…
 
 
-### HOMICIDE on 2025-09-18 12:33
-- Location: Slashdot.org
-- Description: 3 officers fatally shot, 2 critically injured in rural PennsylvaniaAxios 5 police officers shot, 3 dead in Pennsylvania, FBI investigatingFox News Pennsylvania mourns 3 officers killed, 2 wounded after police shooting. UpdatesUSA Today Rural Pennsylvania comm…
+### OTHER on 2025-09-18 18:04
+- Location: Freerepublic.com
+- Description: There is still more to learn about the horrific case of Yordanis Cobos-Martinez, the illegal immigrant accused of beheading a hotel manager in Dallas. You can read the terrible details of what happened here. And now, a bit more about the suspect’s history, co…
 
 
-### SHOOTING on 2025-09-18 12:33
-- Location: Slashdot.org
-- Description: Charlie Kirk's accused assassin feared being shot by police and agreed to peaceful surrender, sheriff saysCBS News Charlie Kirk shooting suspect's conditions for surrender had to be 'gentle': SheriffABC News House Democrats fume about vote to honor Charlie Ki…
+### OTHER on 2025-09-18 18:04
+- Location: The Daily Caller
+- Description: Democrats refuse to stand with the overwhelming majority, clinging instead to fringe positions that barely resonate with 20% of voters.
 
-Analysis generated at: Fri Sep 19 12:46:28 UTC 2025
+Analysis generated at: Fri Sep 19 18:19:32 UTC 2025
