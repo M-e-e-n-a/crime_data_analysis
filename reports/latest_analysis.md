@@ -1,10 +1,10 @@
 
-Loaded 59158 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-18 01:41:02
+Loaded 59213 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-18 06:15:51
 
 Incidents by source:
 source
-newsapi           59057
+newsapi           59112
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-09-18 01:41
-- Location: Starcommunity.com.au
-- Description: Homicide Squad detectives have charged two men this evening following a fatal shooting in Melbourne’s CBD earlier this month. With assistance from the Special Operations Group, four men were arrested in South Melbourne shortly at about 3.20pm on Wednesday, 17…
+### HOMICIDE on 2025-09-18 06:15
+- Location: The Irish Times
+- Description: Suspect fatally shot by police after confrontation
 
 
-### OTHER on 2025-09-18 01:40
-- Location: Eonline.com
-- Description: A body found in an abandoned Tesla registered under singer D4vd's real name David Anthony Burke has been identified as a 15-year-old girl who was reported missing in Lake Elsinore, Calif., per police.
-
-
-### HOMICIDE on 2025-09-18 01:33
+### HOMICIDE on 2025-09-18 06:04
 - Location: The Times of India
-- Description: Jimmy Kimmel's show faced cancellation after comments on Charlie Kirk's death. Donald Trump reacted to the show's removal. Nexstar stopped broadcasting the program. Kimmel accused Trump supporters of politicizing Kirk's murder. The White House announced an in…
+- Description: A grisly crime has come to light on the outskirts of Ludhiana, where a 71-year-old NRI, Rupinder Kaur, who had travelled from the US to marry her would-be groom, was allegedly bludgeoned to death and her body burnt, police said.
+
+Rupinder was reportedly kille…
 
 
-### SHOOTING on 2025-09-18 01:30
-- Location: Snopes.com
-- Description: Snopes readers asked if the conservative activist's family members were present during his speaking event at Utah Valley University on Sept. 10, 2025.
+### SHOOTING on 2025-09-18 06:00
+- Location: Naturalnews.com
+- Description: Geoorge Zinn, 71, falsely claimed responsibility for Charlie Kirk’s assassination to help the real shooter escape. Zinn is charged with obstruction of justice and possession of child pornography. Tyler Robinson, 22, later identified as the actual shooter, fac…
 
 
-### SHOOTING on 2025-09-18 01:24
-- Location: Sky.com
-- Description: A firearm, thought to have been involved in the shooting, has been recovered from the scene at Clissold Park.
+### OTHER on 2025-09-18 06:00
+- Location: Naturalnews.com
+- Description: EU Commission paid OCCRP €600,000 after the 2024 European elections. OCCRP was accused of orchestrating smear campaigns against conservative politicians. USAID previously funded OCCRP but cut off support after Trump’s reelection. OCCRP’s co-founder admitted t…
 
-Analysis generated at: Fri Sep 19 01:45:45 UTC 2025
+
+### HOMICIDE on 2025-09-18 05:56
+- Location: WSOC Charlotte
+- Description: ABC has suspended Jimmy Kimmel’s late-night show indefinitely following comments he made about Charlie Kirk’s killing
+
+Analysis generated at: Fri Sep 19 06:21:00 UTC 2025
