@@ -1,10 +1,10 @@
 
-Loaded 59213 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-18 06:15:51
+Loaded 59299 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-18 12:24:42
 
 Incidents by source:
 source
-newsapi           59112
+newsapi           59198
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,30 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-09-18 06:15
-- Location: The Irish Times
-- Description: Suspect fatally shot by police after confrontation
+### HOMICIDE on 2025-09-18 12:24
+- Location: Al Jazeera English
+- Description: The LAPD identified the body of a girl in the car of Romantic Homicide singer d4vd. She went missing in 2024, aged 13.
 
 
-### HOMICIDE on 2025-09-18 06:04
-- Location: The Times of India
-- Description: A grisly crime has come to light on the outskirts of Ludhiana, where a 71-year-old NRI, Rupinder Kaur, who had travelled from the US to marry her would-be groom, was allegedly bludgeoned to death and her body burnt, police said.
-
-Rupinder was reportedly kille…
+### HOMICIDE on 2025-09-18 12:21
+- Location: Salon
+- Description: Police are still searching for a suspect in the August 2025 killing at the sprawling, desert festival
 
 
-### SHOOTING on 2025-09-18 06:00
-- Location: Naturalnews.com
-- Description: Geoorge Zinn, 71, falsely claimed responsibility for Charlie Kirk’s assassination to help the real shooter escape. Zinn is charged with obstruction of justice and possession of child pornography. Tyler Robinson, 22, later identified as the actual shooter, fac…
+### HOMICIDE on 2025-09-18 12:07
+- Location: Freerepublic.com
+- Description: Charlie Kirk’s murder sparked peaceful resolve, not riots—sharply contrasting the violence, destruction, and radical agendas unleashed after George Floyd’s death. Just days after the assassination of Charlie Kirk, the left is working overtime to hide the trut…
 
 
-### OTHER on 2025-09-18 06:00
-- Location: Naturalnews.com
-- Description: EU Commission paid OCCRP €600,000 after the 2024 European elections. OCCRP was accused of orchestrating smear campaigns against conservative politicians. USAID previously funded OCCRP but cut off support after Trump’s reelection. OCCRP’s co-founder admitted t…
+### HOMICIDE on 2025-09-18 12:00
+- Location: Fox News
+- Description: Luigi Mangione supporters raise over $1.2 million and push for jury nullification in his murder case, though experts doubt the strategy will succeed.
 
 
-### HOMICIDE on 2025-09-18 05:56
-- Location: WSOC Charlotte
-- Description: ABC has suspended Jimmy Kimmel’s late-night show indefinitely following comments he made about Charlie Kirk’s killing
+### ASSAULT on 2025-09-18 12:00
+- Location: Ibtimes.com.au
+- Description: Israeli tanks and warplanes pounded Gaza City on Thursday, prompting long lines of scared Palestinian civilians to flee as the military intensified its assault on the territory's largest urban hub.
 
-Analysis generated at: Fri Sep 19 06:21:00 UTC 2025
+Analysis generated at: Fri Sep 19 12:28:31 UTC 2025
