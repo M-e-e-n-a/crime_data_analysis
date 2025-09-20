@@ -1,10 +1,10 @@
 
-Loaded 59400 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-18 18:17:20
+Loaded 59407 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-19 00:53:15
 
 Incidents by source:
 source
-newsapi           59299
+newsapi           59306
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-09-18 18:17
-- Location: Digital Journal
-- Description: A Colombian tribunal on Thursday issued its first sentences for former soldiers over the killing of civilians during the country’s decades-long armed conflict, ordering 12 of them to carry out work including building memorials for their victims. The retired m…
+### SHOOTING on 2025-09-19 00:53
+- Location: ABC News
+- Description: Susan Lorincz speaks out from behind bars in her first interview since being convicted of manslaughter for fatally shooting her neighbor, Ajike 'AJ' Owens.
 
 
-### HOMICIDE on 2025-09-18 18:15
-- Location: International Business Times
-- Description: A Colombian tribunal on Thursday issued its first sentences for former soldiers over the killing of civilians during the country's decades-long armed conflict, ordering 12 of them to carry out work including building memorials for their victims.
+### OTHER on 2025-09-19 00:31
+- Location: BBC News
+- Description: The singer says she avoided the second-album slump as she "has always got something to say".
 
 
-### HOMICIDE on 2025-09-18 18:09
-- Location: The Times of India
-- Description: Turning Point USA board unanimously elects Erika Kirk as CEO and Chair following founder Charlie Kirk's assassination at Utah Valley University. Organization vows to continue conservative mission while Tyler Robinson faces murder charges in the September 10 s…
+### HOMICIDE on 2025-09-19 00:27
+- Location: 7NEWS.com.au
+- Description: Dr Christopher Webster triggered complaints by publicly calling Patterson a ‘crazy b****’ and ‘disturbed sociopathic nut bag’.
 
 
-### OTHER on 2025-09-18 18:04
-- Location: Freerepublic.com
-- Description: There is still more to learn about the horrific case of Yordanis Cobos-Martinez, the illegal immigrant accused of beheading a hotel manager in Dallas. You can read the terrible details of what happened here. And now, a bit more about the suspect’s history, co…
+### SHOOTING on 2025-09-19 00:05
+- Location: CBC News
+- Description: Prayer walks led by police officers and faith leaders were staged in several neighbourhoods across Toronto on Thursday as a show of unity against gun violence.
 
 
-### OTHER on 2025-09-18 18:04
-- Location: The Daily Caller
-- Description: Democrats refuse to stand with the overwhelming majority, clinging instead to fringe positions that barely resonate with 20% of voters.
+### ASSAULT on 2025-09-19 00:02
+- Location: Starcommunity.com.au
+- Description: A man who bundled an alleged drug-debtee into a car in Cranbourne and demanded $1000 from parents for his safe release has seemingly avoided deportation. Christoper Pasi pleaded guilty at the Victorian County Court to false imprisonment and common-law assault…
 
-Analysis generated at: Fri Sep 19 18:19:32 UTC 2025
+Analysis generated at: Sat Sep 20 01:01:04 UTC 2025
