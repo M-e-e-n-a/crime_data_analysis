@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Sep 20 01:40:59 UTC 2025
+Last updated: Sat Sep 20 06:18:55 UTC 2025
 
 ## Latest Analysis
 
-Loaded 59415 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-19 01:30:00
+Loaded 59464 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-19 06:06:13
 
 Incidents by source:
 source
-newsapi           59314
+newsapi           59363
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-09-19 01:30
-- Location: The Daily Dot
-- Description: Redditors of all kinds shared their thoughts on the reports of job firings over negative statements about Charlie Kirk after his death. One conservative group launched a website dedicated to doxxing these individuals and calling their employers, and a few hig…
+### OTHER on 2025-09-19 06:06
+- Location: ABC News (AU)
+- Description: WA Police and the CCC are put on notice after failing to adequately respond to complaints of serious police misconduct, including an allegation an off-duty officer choked a man following a road rage incident.
 
 
-### SHOOTING on 2025-09-19 01:29
-- Location: Fox News
-- Description: NYC police prevented a potential school shooting by arresting a Queens teen found with a loaded handgun at Benjamin Cardozo High School.
+### SHOOTING on 2025-09-19 06:00
+- Location: Naturalnews.com
+- Description: President Donald Trump officially declared Antifa a terrorist organization via Truth Social, calling it a “sick, dangerous, radical left disaster” and pledging legal action against its financiers and operatives. The move follows the fatal shooting of conserva…
 
 
-### OTHER on 2025-09-19 01:20
-- Location: Thegatewaypundit.com
-- Description: Rep.
-The post Jim Jordan SHREDS DC Council Chair for COOKING the Crime Books — EXPOSES Him for Fudging Stats with Fake Category “Taking Property Without Right” Instead of Calling It “Stealing” appeared first on The Gateway Pundit.
+### OTHER on 2025-09-19 06:00
+- Location: Naturalnews.com
+- Description: President Donald Trump has officially designated Antifa as a domestic terrorist organization, a decision he defended as long overdue due to the group’s “horrible” incitement and actions. The declaration follows the assassination of conservative commentator Ch…
 
 
-### OTHER on 2025-09-19 01:19
-- Location: HuffPost
-- Description: Stephen A. Smith Criticizes Kimmel Over Charlie Kirk Commentshuffpost.com
+### OTHER on 2025-09-19 06:00
+- Location: Naturalnews.com
+- Description: Courts treat forensic methods as infallible, but systemic issues (bias, unreliable methodologies, lack of scientific validity) have led to thousands of wrongful convictions. Ballistics, bite marks, hair analysis and toolmark matching are unreliable (examiners…
 
 
-### OTHER on 2025-09-19 01:18
-- Location: International Business Times
-- Description: The suspension by Disney-owned ABC of talk show host Jimmy Kimmel is the latest surrender by a US media giant to pressure from the Trump administration, putting the bottom line over free speech.
+### OTHER on 2025-09-19 05:54
+- Location: CNA
+- Description: The defence said Tan Kay Leong is homeless and hopes to keep the roof over his head and find a job as a cook.
 
-Analysis generated at: Sat Sep 20 01:40:59 UTC 2025
+Analysis generated at: Sat Sep 20 06:18:55 UTC 2025
