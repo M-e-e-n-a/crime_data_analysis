@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Sep 20 01:01:04 UTC 2025
+Last updated: Sat Sep 20 01:40:59 UTC 2025
 
 ## Latest Analysis
 
-Loaded 59407 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-19 00:53:15
+Loaded 59415 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-19 01:30:00
 
 Incidents by source:
 source
-newsapi           59306
+newsapi           59314
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-09-19 00:53
-- Location: ABC News
-- Description: Susan Lorincz speaks out from behind bars in her first interview since being convicted of manslaughter for fatally shooting her neighbor, Ajike 'AJ' Owens.
+### HOMICIDE on 2025-09-19 01:30
+- Location: The Daily Dot
+- Description: Redditors of all kinds shared their thoughts on the reports of job firings over negative statements about Charlie Kirk after his death. One conservative group launched a website dedicated to doxxing these individuals and calling their employers, and a few hig…
 
 
-### OTHER on 2025-09-19 00:31
-- Location: BBC News
-- Description: The singer says she avoided the second-album slump as she "has always got something to say".
+### SHOOTING on 2025-09-19 01:29
+- Location: Fox News
+- Description: NYC police prevented a potential school shooting by arresting a Queens teen found with a loaded handgun at Benjamin Cardozo High School.
 
 
-### HOMICIDE on 2025-09-19 00:27
-- Location: 7NEWS.com.au
-- Description: Dr Christopher Webster triggered complaints by publicly calling Patterson a ‘crazy b****’ and ‘disturbed sociopathic nut bag’.
+### OTHER on 2025-09-19 01:20
+- Location: Thegatewaypundit.com
+- Description: Rep.
+The post Jim Jordan SHREDS DC Council Chair for COOKING the Crime Books — EXPOSES Him for Fudging Stats with Fake Category “Taking Property Without Right” Instead of Calling It “Stealing” appeared first on The Gateway Pundit.
 
 
-### SHOOTING on 2025-09-19 00:05
-- Location: CBC News
-- Description: Prayer walks led by police officers and faith leaders were staged in several neighbourhoods across Toronto on Thursday as a show of unity against gun violence.
+### OTHER on 2025-09-19 01:19
+- Location: HuffPost
+- Description: Stephen A. Smith Criticizes Kimmel Over Charlie Kirk Commentshuffpost.com
 
 
-### ASSAULT on 2025-09-19 00:02
-- Location: Starcommunity.com.au
-- Description: A man who bundled an alleged drug-debtee into a car in Cranbourne and demanded $1000 from parents for his safe release has seemingly avoided deportation. Christoper Pasi pleaded guilty at the Victorian County Court to false imprisonment and common-law assault…
+### OTHER on 2025-09-19 01:18
+- Location: International Business Times
+- Description: The suspension by Disney-owned ABC of talk show host Jimmy Kimmel is the latest surrender by a US media giant to pressure from the Trump administration, putting the bottom line over free speech.
 
-Analysis generated at: Sat Sep 20 01:01:04 UTC 2025
+Analysis generated at: Sat Sep 20 01:40:59 UTC 2025
