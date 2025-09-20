@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Sep 20 12:25:15 UTC 2025
+Last updated: Sat Sep 20 12:41:38 UTC 2025
 
 ## Latest Analysis
 
-Loaded 59544 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-19 12:23:00
+Loaded 59548 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-19 12:35:47
 
 Incidents by source:
 source
-newsapi           59443
+newsapi           59447
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
+### HOMICIDE on 2025-09-19 12:35
+- Location: The Denver Post
+- Description: Aurora police fatally shot a teen boy Thursday night who officers say threatened to open fire inside a business.
+
+
+### ROBBERY/THEFT on 2025-09-19 12:32
+- Location: CBS News
+- Description: Authorities in Egypt say a golden bracelet once owned by a king, that survived some 3,000 years, was stolen by a museum worker and then melted down.
+
+
+### OTHER on 2025-09-19 12:31
+- Location: WXII12 Winston-Salem
+- Description: Jon Stewart, Stephen Colbert and Jimmy Fallon address Jimmy Kimmel’s suspension
+
+
+### HOMICIDE on 2025-09-19 12:29
+- Location: The Times of India
+- Description: Who is Brett James, the songwriter who died in Franklin NC small plane crash? The Grammy-winning writer of Carrie Underwood’s “Jesus, Take the Wheel” was among three people killed after a Cirrus SR22T went down.
+
+
 ### OTHER on 2025-09-19 12:23
 - Location: Newser
 - Description: The strip search lasted just six minutes, but when it ended, Jarius Brown had a broken nose, fractured eye socket, and badly swollen face. Never-before-published footage now shows why: Two Louisiana sheriff's deputies pummeled the naked 25-year-old, flinging …
 
-
-### HOMICIDE on 2025-09-19 12:20
-- Location: Newsweek
-- Description: Claims in a new documentary series may tie serial killer Joseph Naso to as many as 26 murders.
-
-
-### ROBBERY/THEFT on 2025-09-19 12:15
-- Location: Protothema.gr
-- Description: The 30-year-old Romanian tourist who arrived on holiday in Italy in August and was arrested, as he has the same name as a man wanted for theft, had a nightmare
-The post His holiday in Italy turned sour – Arrested and spent two months in prison due to having t…
-
-
-### HOMICIDE on 2025-09-19 12:14
-- Location: Freerepublic.com
-- Description: A 22-year-old has been arrested after he allegedly threatened to murder New Hampshire Governor Kelly Ayotte using homemade pipe bombs. Independent reporter Breanna Morello posted on X: “Investigators say Tristan Anderson boasted about his plans to his roommat…
-
-
-### OTHER on 2025-09-19 12:08
-- Location: The Times of India
-- Description: AnjMishra from Uttar Pradesh intends to file a police complaint after Rahul Gandhi displayed his phone number during a press conference, alleging a connection to voter ID issues in Maharashtra. Mishra denies any involvement, stating he has no travel history t…
-
-Analysis generated at: Sat Sep 20 12:25:15 UTC 2025
+Analysis generated at: Sat Sep 20 12:41:38 UTC 2025
