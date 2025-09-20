@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Sep 20 12:41:38 UTC 2025
+Last updated: Sat Sep 20 18:17:14 UTC 2025
 
 ## Latest Analysis
 
-Loaded 59548 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-19 12:35:47
+Loaded 59647 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-19 18:14:28
 
 Incidents by source:
 source
-newsapi           59447
+newsapi           59546
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-09-19 12:35
-- Location: The Denver Post
-- Description: Aurora police fatally shot a teen boy Thursday night who officers say threatened to open fire inside a business.
+### HOMICIDE on 2025-09-19 18:14
+- Location: WFTV Orlando
+- Description: The argument was over an alleged defective oil filter and resulted in the deaths of two O'Reilly Auto Parts employees.
 
 
-### ROBBERY/THEFT on 2025-09-19 12:32
-- Location: CBS News
-- Description: Authorities in Egypt say a golden bracelet once owned by a king, that survived some 3,000 years, was stolen by a museum worker and then melted down.
+### SHOOTING on 2025-09-19 18:14
+- Location: ABC News
+- Description: A student was arrested after allegedly posting a threat online and being found with a gun in their backpack at a New York City high school on Thursday, officials said.
 
 
-### OTHER on 2025-09-19 12:31
-- Location: WXII12 Winston-Salem
-- Description: Jon Stewart, Stephen Colbert and Jimmy Fallon address Jimmy Kimmel’s suspension
+### HOMICIDE on 2025-09-19 18:13
+- Location: WSOC Charlotte
+- Description: The argument was over an alleged defective oil filter and resulted in the deaths of two O'Reilly Auto Parts employees.
 
 
-### HOMICIDE on 2025-09-19 12:29
-- Location: The Times of India
-- Description: Who is Brett James, the songwriter who died in Franklin NC small plane crash? The Grammy-winning writer of Carrie Underwood’s “Jesus, Take the Wheel” was among three people killed after a Cirrus SR22T went down.
+### OTHER on 2025-09-19 18:12
+- Location: BBC News
+- Description: Police are satisfied 'no offences occurred' during the match against Salford City in July.
 
 
-### OTHER on 2025-09-19 12:23
-- Location: Newser
-- Description: The strip search lasted just six minutes, but when it ended, Jarius Brown had a broken nose, fractured eye socket, and badly swollen face. Never-before-published footage now shows why: Two Louisiana sheriff's deputies pummeled the naked 25-year-old, flinging …
+### OTHER on 2025-09-19 18:05
+- Location: TODAY
+- Description: TODAY.com talks to a Stanford psychologist plus a 30-year-old Munchausen by proxy survivor about the Netflix documentary, “Unknown Number."
 
-Analysis generated at: Sat Sep 20 12:41:38 UTC 2025
+Analysis generated at: Sat Sep 20 18:17:14 UTC 2025
