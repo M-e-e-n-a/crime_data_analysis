@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Sep 20 06:18:55 UTC 2025
+Last updated: Sat Sep 20 12:25:15 UTC 2025
 
 ## Latest Analysis
 
-Loaded 59464 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-19 06:06:13
+Loaded 59544 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-19 12:23:00
 
 Incidents by source:
 source
-newsapi           59363
+newsapi           59443
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-09-19 06:06
-- Location: ABC News (AU)
-- Description: WA Police and the CCC are put on notice after failing to adequately respond to complaints of serious police misconduct, including an allegation an off-duty officer choked a man following a road rage incident.
+### OTHER on 2025-09-19 12:23
+- Location: Newser
+- Description: The strip search lasted just six minutes, but when it ended, Jarius Brown had a broken nose, fractured eye socket, and badly swollen face. Never-before-published footage now shows why: Two Louisiana sheriff's deputies pummeled the naked 25-year-old, flinging …
 
 
-### SHOOTING on 2025-09-19 06:00
-- Location: Naturalnews.com
-- Description: President Donald Trump officially declared Antifa a terrorist organization via Truth Social, calling it a “sick, dangerous, radical left disaster” and pledging legal action against its financiers and operatives. The move follows the fatal shooting of conserva…
+### HOMICIDE on 2025-09-19 12:20
+- Location: Newsweek
+- Description: Claims in a new documentary series may tie serial killer Joseph Naso to as many as 26 murders.
 
 
-### OTHER on 2025-09-19 06:00
-- Location: Naturalnews.com
-- Description: President Donald Trump has officially designated Antifa as a domestic terrorist organization, a decision he defended as long overdue due to the group’s “horrible” incitement and actions. The declaration follows the assassination of conservative commentator Ch…
+### ROBBERY/THEFT on 2025-09-19 12:15
+- Location: Protothema.gr
+- Description: The 30-year-old Romanian tourist who arrived on holiday in Italy in August and was arrested, as he has the same name as a man wanted for theft, had a nightmare
+The post His holiday in Italy turned sour – Arrested and spent two months in prison due to having t…
 
 
-### OTHER on 2025-09-19 06:00
-- Location: Naturalnews.com
-- Description: Courts treat forensic methods as infallible, but systemic issues (bias, unreliable methodologies, lack of scientific validity) have led to thousands of wrongful convictions. Ballistics, bite marks, hair analysis and toolmark matching are unreliable (examiners…
+### HOMICIDE on 2025-09-19 12:14
+- Location: Freerepublic.com
+- Description: A 22-year-old has been arrested after he allegedly threatened to murder New Hampshire Governor Kelly Ayotte using homemade pipe bombs. Independent reporter Breanna Morello posted on X: “Investigators say Tristan Anderson boasted about his plans to his roommat…
 
 
-### OTHER on 2025-09-19 05:54
-- Location: CNA
-- Description: The defence said Tan Kay Leong is homeless and hopes to keep the roof over his head and find a job as a cook.
+### OTHER on 2025-09-19 12:08
+- Location: The Times of India
+- Description: AnjMishra from Uttar Pradesh intends to file a police complaint after Rahul Gandhi displayed his phone number during a press conference, alleging a connection to voter ID issues in Maharashtra. Mishra denies any involvement, stating he has no travel history t…
 
-Analysis generated at: Sat Sep 20 06:18:55 UTC 2025
+Analysis generated at: Sat Sep 20 12:25:15 UTC 2025
