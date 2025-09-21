@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Sep 21 12:24:46 UTC 2025
+Last updated: Sun Sep 21 12:41:30 UTC 2025
 
 ## Latest Analysis
 
-Loaded 59747 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-20 12:15:00
+Loaded 59748 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-20 12:27:30
 
 Incidents by source:
 source
-newsapi           59646
+newsapi           59647
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -23,6 +23,11 @@ bution.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### OTHER on 2025-09-20 12:27
+- Location: Antiwar.com
+- Description: Reprinted from People’s Dispatch. Activists from the anti-war group CODEPINK confronted US President Donald Trump and his cabinet at a restaurant in Washington, DC on September 9. The disruption made national headlines and (evidently) sent the Trump administr…
+
 
 ### HOMICIDE on 2025-09-20 12:15
 - Location: Gatewayhispanic.com
@@ -44,9 +49,4 @@ The post Shock in Germany: Syrian father jailed after ordering his son to kill h
 - Location: Exystence.net
 - Description: For Johnathan Blake, music has always been a family affair. The drummer and bandleader’s previous Blue Note album, Passage (2023), was an homage to his father and chief mentor, the late jazz violinist John Blake Jr. The album cover features a sepia-toned snap…
 
-
-### OTHER on 2025-09-20 11:45
-- Location: Whyevolutionistrue.com
-- Description: Welcome to CaturSaturday, September 20, 2025, the sabbath for all good Jewish cats and National String Cheese Day. I love the stuff but never buy it (it’s a great snack). Here’s how they make it: It’s also International Eat an Apple Day, International Red Pan…
-
-Analysis generated at: Sun Sep 21 12:24:46 UTC 2025
+Analysis generated at: Sun Sep 21 12:41:30 UTC 2025
