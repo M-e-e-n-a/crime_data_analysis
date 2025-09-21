@@ -1,10 +1,10 @@
 
-Loaded 59748 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-20 12:27:30
+Loaded 59819 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-20 18:04:45
 
 Incidents by source:
 source
-newsapi           59647
+newsapi           59718
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-09-20 12:27
-- Location: Antiwar.com
-- Description: Reprinted from People’s Dispatch. Activists from the anti-war group CODEPINK confronted US President Donald Trump and his cabinet at a restaurant in Washington, DC on September 9. The disruption made national headlines and (evidently) sent the Trump administr…
+### OTHER on 2025-09-20 18:04
+- Location: Breitbart News
+- Description: A protest against an Immigration and Customs Enforcement (ICE) facility in suburban Chicago Friday turned into a full blown melee engulfed in clouds of tear gas as pepper balls and rubber bullets were fired to clear its entrance. One of
+The post Watch: Agents…
 
 
-### HOMICIDE on 2025-09-20 12:15
-- Location: Gatewayhispanic.com
-- Description: This is a Gateway Hispanic article.
-The post Shock in Germany: Syrian father jailed after ordering his son to kill his sister in an “honor killing” appeared first on The Gateway Pundit.
+### OTHER on 2025-09-20 18:02
+- Location: Truthout
+- Description: Black-led abolitionist community defense organizations are organizing against Trump’s efforts to target DC and Chicago.
 
 
-### SHOOTING on 2025-09-20 12:00
-- Location: Fox News
-- Description: Broadcast networks criticized for biased reporting on Charlie Kirk assassination case, with alleged shooter Tyler Robinson's political leanings becoming contentious issue.
+### SHOOTING on 2025-09-20 18:01
+- Location: TMZ
+- Description: Well, that didn't take long -- shortly after bullets ripped through a local ABC news station in California's capital ... cops made an arrest. Police in Sacramento tell TMZ ... 64-year-old Anibal Hernandezsantana is the alleged shooter ... and he's…
 
 
-### HOMICIDE on 2025-09-20 12:00
-- Location: New York Post
-- Description: Newly released records obtained by The Post have revealed the cause of death of Sabina Khorramdel Rosas and the intimate thoughts of her boyfriend-turned-murderer, Thomas J. Gannon, in the hours after the gruesome Oct. 28, 2024 episode.
+### HOMICIDE on 2025-09-20 18:00
+- Location: Daily Signal
+- Description: An increasing number of alleged murderers, mass shooters, and violent offenders have apparently tried to silence Christians or critics of transgender ideology, acting on the... Read More
+The post Transgender Ideology Is Motivating Violence: It’s High Time the…
 
 
-### OTHER on 2025-09-20 11:52
-- Location: Exystence.net
-- Description: For Johnathan Blake, music has always been a family affair. The drummer and bandleader’s previous Blue Note album, Passage (2023), was an homage to his father and chief mentor, the late jazz violinist John Blake Jr. The album cover features a sepia-toned snap…
+### SHOOTING on 2025-09-20 17:58
+- Location: Freerepublic.com
+- Description: Police arrested 64-year-old Anibal Hernandezsantana and charged him with three felonies. Hernandezsantana is being held on $200,000 bail.
 
-Analysis generated at: Sun Sep 21 12:41:30 UTC 2025
+Analysis generated at: Sun Sep 21 18:17:47 UTC 2025
