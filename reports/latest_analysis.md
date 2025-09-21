@@ -1,10 +1,10 @@
 
-Loaded 59647 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-19 18:14:28
+Loaded 59660 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-20 00:50:35
 
 Incidents by source:
 source
-newsapi           59546
+newsapi           59559
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-09-19 18:14
-- Location: WFTV Orlando
-- Description: The argument was over an alleged defective oil filter and resulted in the deaths of two O'Reilly Auto Parts employees.
+### OTHER on 2025-09-20 00:50
+- Location: 7NEWS.com.au
+- Description: Twist in Dezi Freeman search as man arrested in Myrtleford, in Victoria’s northeast7news.com.au
 
 
-### SHOOTING on 2025-09-19 18:14
-- Location: ABC News
-- Description: A student was arrested after allegedly posting a threat online and being found with a gun in their backpack at a New York City high school on Thursday, officials said.
+### DRUG RELATED on 2025-09-20 00:44
+- Location: The Indian Express
+- Description: In addition to physical assets such as luxury vehicles, land, apartments and farmhouses, the police have traced money transfers,bank accounts and digital wallets to disrupt the cash flow of drug networks.
 
 
-### HOMICIDE on 2025-09-19 18:13
-- Location: WSOC Charlotte
-- Description: The argument was over an alleged defective oil filter and resulted in the deaths of two O'Reilly Auto Parts employees.
+### SHOOTING on 2025-09-20 00:40
+- Location: TMZ
+- Description: Three bullets pierced through a local ABC news station in California's capital ... and people were inside working when the shooter opened fire. Cops in Sacramento say someone shot up the ABC10 news station downtown Friday afternoon ... with police…
 
 
-### OTHER on 2025-09-19 18:12
+### OTHER on 2025-09-20 00:34
 - Location: BBC News
-- Description: Police are satisfied 'no offences occurred' during the match against Salford City in July.
+- Description: The suspension of Jimmy Kimmel's show has triggered concerns about the US communications regulator's power over TV networks.
 
 
-### OTHER on 2025-09-19 18:05
-- Location: TODAY
-- Description: TODAY.com talks to a Stanford psychologist plus a 30-year-old Munchausen by proxy survivor about the Netflix documentary, “Unknown Number."
+### OTHER on 2025-09-20 00:30
+- Location: Bitcoinist
+- Description: The Royal Canadian Mounted Police (RCMP) has confirmed a record-breaking seizure of cryptocurrency linked to the centralized exchange TradeOgre, taking control of assets worth more than 56 million Canadian dollars—about 40 million US dollars—following a feder…
 
-Analysis generated at: Sat Sep 20 18:17:14 UTC 2025
+Analysis generated at: Sun Sep 21 01:09:11 UTC 2025
