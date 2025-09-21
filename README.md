@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Sep 21 01:52:43 UTC 2025
+Last updated: Sun Sep 21 06:19:25 UTC 2025
 
 ## Latest Analysis
 
-Loaded 59669 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-20 01:51:52
+Loaded 59699 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-20 06:00:24
 
 Incidents by source:
 source
-newsapi           59568
+newsapi           59598
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-09-20 01:51
-- Location: Freerepublic.com
-- Description: An ABC TV station was hit by gunfire on Friday afternoon, just one day after protestors gathered outside and railed against the network's decision to pull Jimmy Kimmel off the air. Police say the broadcasting station in Sacramento, California, was struck by a…
+### OTHER on 2025-09-20 06:00
+- Location: Dramabeans.com
+- Description: Time slot: Broadcaster: KBS Genre: Thriller Episode count: 12 Global streamer: Kocowa+, Viki Reasons to watch: How far would you go if you could save your family from financial ruin? KBS’s latest drama, Walking on Thin Ice posits that question as we follow Le…
 
 
-### OTHER on 2025-09-20 01:46
-- Location: ABC News
-- Description: Kayakers in Costa Rica had the best view of an unexpected show in the middle of the ocean when a humpback whale and its calf breached yards away from them.
+### OTHER on 2025-09-20 05:45
+- Location: International Business Times
+- Description: From the music, film to publishing industries, growing numbers of Western artists are calling for a cultural boycott of Israel over the Gaza war, hoping to emulate the success of the apartheid-era blockade of South Africa.
 
 
-### OTHER on 2025-09-20 01:46
-- Location: ABC News
-- Description: A student in Massachusetts crossing the street to get on his school bus was nearly hit by a car that sped by him. Police in Hadley are searching for the driver.
+### OTHER on 2025-09-20 05:45
+- Location: Ibtimes.com.au
+- Description: From the music, film to publishing industries, growing numbers of Western artists are calling for a cultural boycott of Israel over the Gaza war, hoping to emulate the success of the apartheid-era blockade of South Africa.
 
 
-### ASSAULT on 2025-09-20 01:46
-- Location: ABC News
-- Description: Three Russian fighter jets are accused of violating Estonia's airspace, flying for about 12 minutes over NATO territory. NATO scrambled jets to intercept.
+### HOMICIDE on 2025-09-20 05:16
+- Location: soompi
+- Description: The copycat killer on SBS’s “Queen Mantis” will stream his next crime live. A remake of the French series “La Mante,” “Queen Mantis” is a crime thriller starring Go Hyun Jung as Jung Yi Shin, a famous serial killer nicknamed “The Mantis” who brutally murdered…
 
 
-### ASSAULT on 2025-09-20 01:39
-- Location: ABC News
-- Description: "During the assault, the victim says the suspects made homophobic remarks to her," police said.
+### DRUG RELATED on 2025-09-20 05:16
+- Location: The Times of India
+- Description: Delhi Police conducted a major operation in South East Delhi. They arrested sixty-three people. The police recovered fifteen pistols. They also found MDMA, cocaine, heroin, and cash. The raid targeted criminal networks. Authorities are investigating the sourc…
 
-Analysis generated at: Sun Sep 21 01:52:43 UTC 2025
+Analysis generated at: Sun Sep 21 06:19:25 UTC 2025
