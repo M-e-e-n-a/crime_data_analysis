@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Sep 21 06:19:25 UTC 2025
+Last updated: Sun Sep 21 12:24:46 UTC 2025
 
 ## Latest Analysis
 
-Loaded 59699 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-20 06:00:24
+Loaded 59747 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-20 12:15:00
 
 Incidents by source:
 source
-newsapi           59598
+newsapi           59646
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-09-20 06:00
-- Location: Dramabeans.com
-- Description: Time slot: Broadcaster: KBS Genre: Thriller Episode count: 12 Global streamer: Kocowa+, Viki Reasons to watch: How far would you go if you could save your family from financial ruin? KBS’s latest drama, Walking on Thin Ice posits that question as we follow Le…
+### HOMICIDE on 2025-09-20 12:15
+- Location: Gatewayhispanic.com
+- Description: This is a Gateway Hispanic article.
+The post Shock in Germany: Syrian father jailed after ordering his son to kill his sister in an “honor killing” appeared first on The Gateway Pundit.
 
 
-### OTHER on 2025-09-20 05:45
-- Location: International Business Times
-- Description: From the music, film to publishing industries, growing numbers of Western artists are calling for a cultural boycott of Israel over the Gaza war, hoping to emulate the success of the apartheid-era blockade of South Africa.
+### SHOOTING on 2025-09-20 12:00
+- Location: Fox News
+- Description: Broadcast networks criticized for biased reporting on Charlie Kirk assassination case, with alleged shooter Tyler Robinson's political leanings becoming contentious issue.
 
 
-### OTHER on 2025-09-20 05:45
-- Location: Ibtimes.com.au
-- Description: From the music, film to publishing industries, growing numbers of Western artists are calling for a cultural boycott of Israel over the Gaza war, hoping to emulate the success of the apartheid-era blockade of South Africa.
+### HOMICIDE on 2025-09-20 12:00
+- Location: New York Post
+- Description: Newly released records obtained by The Post have revealed the cause of death of Sabina Khorramdel Rosas and the intimate thoughts of her boyfriend-turned-murderer, Thomas J. Gannon, in the hours after the gruesome Oct. 28, 2024 episode.
 
 
-### HOMICIDE on 2025-09-20 05:16
-- Location: soompi
-- Description: The copycat killer on SBS’s “Queen Mantis” will stream his next crime live. A remake of the French series “La Mante,” “Queen Mantis” is a crime thriller starring Go Hyun Jung as Jung Yi Shin, a famous serial killer nicknamed “The Mantis” who brutally murdered…
+### OTHER on 2025-09-20 11:52
+- Location: Exystence.net
+- Description: For Johnathan Blake, music has always been a family affair. The drummer and bandleader’s previous Blue Note album, Passage (2023), was an homage to his father and chief mentor, the late jazz violinist John Blake Jr. The album cover features a sepia-toned snap…
 
 
-### DRUG RELATED on 2025-09-20 05:16
-- Location: The Times of India
-- Description: Delhi Police conducted a major operation in South East Delhi. They arrested sixty-three people. The police recovered fifteen pistols. They also found MDMA, cocaine, heroin, and cash. The raid targeted criminal networks. Authorities are investigating the sourc…
+### OTHER on 2025-09-20 11:45
+- Location: Whyevolutionistrue.com
+- Description: Welcome to CaturSaturday, September 20, 2025, the sabbath for all good Jewish cats and National String Cheese Day. I love the stuff but never buy it (it’s a great snack). Here’s how they make it: It’s also International Eat an Apple Day, International Red Pan…
 
-Analysis generated at: Sun Sep 21 06:19:25 UTC 2025
+Analysis generated at: Sun Sep 21 12:24:46 UTC 2025
