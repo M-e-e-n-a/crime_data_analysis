@@ -1,10 +1,10 @@
 
-Loaded 59819 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-20 18:04:45
+Loaded 59850 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-21 01:52:32
 
 Incidents by source:
 source
-newsapi           59718
+newsapi           59749
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,30 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-09-20 18:04
-- Location: Breitbart News
-- Description: A protest against an Immigration and Customs Enforcement (ICE) facility in suburban Chicago Friday turned into a full blown melee engulfed in clouds of tear gas as pepper balls and rubber bullets were fired to clear its entrance. One of
-The post Watch: Agents…
+### SHOOTING on 2025-09-21 01:52
+- Location: Slashdot.org
+- Description: Man Charged After Drive-by Shooting at Local ABC Station in SacramentoThe New York Times Sacramento man released on bail after arrest in connection with ABC10 news station shootingKCRA Gunfire erupts outside California news station as employees work inside bu…
 
 
-### OTHER on 2025-09-20 18:02
-- Location: Truthout
-- Description: Black-led abolitionist community defense organizations are organizing against Trump’s efforts to target DC and Chicago.
+### SHOOTING on 2025-09-21 01:50
+- Location: NBC News
+- Description: Multiple people were shot at a New Hampshire country club Saturday night after a gunman opened fire, police said.
 
 
-### SHOOTING on 2025-09-20 18:01
-- Location: TMZ
-- Description: Well, that didn't take long -- shortly after bullets ripped through a local ABC news station in California's capital ... cops made an arrest. Police in Sacramento tell TMZ ... 64-year-old Anibal Hernandezsantana is the alleged shooter ... and he's…
+### SHOOTING on 2025-09-21 01:38
+- Location: Fox News
+- Description: Police have one suspect in custody after a shooting at a New Hampshire country club left multiple people shot, with authorities confirming no further danger exists.
 
 
-### HOMICIDE on 2025-09-20 18:00
-- Location: Daily Signal
-- Description: An increasing number of alleged murderers, mass shooters, and violent offenders have apparently tried to silence Christians or critics of transgender ideology, acting on the... Read More
-The post Transgender Ideology Is Motivating Violence: It’s High Time the…
+### HOMICIDE on 2025-09-21 01:38
+- Location: Fox News
+- Description: Police have one suspect in custody after a shooting at a country club in Nashua, New Hampshire, left one man dead and multiple others injured.
 
 
-### SHOOTING on 2025-09-20 17:58
+### HOMICIDE on 2025-09-21 01:33
 - Location: Freerepublic.com
-- Description: Police arrested 64-year-old Anibal Hernandezsantana and charged him with three felonies. Hernandezsantana is being held on $200,000 bail.
+- Description: The number of public school employees who celebrated the political assassination of Christian and conservative commentator Charlie Kirk has reached such a high level that teachers’ unions are now tracking Kirk’s supporters and preparing to coordinate the lega…
 
-Analysis generated at: Sun Sep 21 18:17:47 UTC 2025
+Analysis generated at: Mon Sep 22 01:52:45 UTC 2025
