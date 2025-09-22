@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Sep 22 01:52:45 UTC 2025
+Last updated: Mon Sep 22 06:22:22 UTC 2025
 
 ## Latest Analysis
 
-Loaded 59850 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-21 01:52:32
+Loaded 59887 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-21 06:15:00
 
 Incidents by source:
 source
-newsapi           59749
+newsapi           59786
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-09-21 01:52
-- Location: Slashdot.org
-- Description: Man Charged After Drive-by Shooting at Local ABC Station in SacramentoThe New York Times Sacramento man released on bail after arrest in connection with ABC10 news station shootingKCRA Gunfire erupts outside California news station as employees work inside bu…
+### OTHER on 2025-09-21 06:15
+- Location: The Week Magazine
+- Description: The Trump administration thinks that free speech is in retreat in Britain. What do we mean by freedom of speech, and is it in danger?
 
 
-### SHOOTING on 2025-09-21 01:50
-- Location: NBC News
-- Description: Multiple people were shot at a New Hampshire country club Saturday night after a gunman opened fire, police said.
+### OTHER on 2025-09-21 06:00
+- Location: Naturalnews.com
+- Description: Vietnam is freezing or deleting 86 million bank accounts (nearly half of all accounts nationwide) for failing to comply with mandatory facial biometric scans, citing AI-driven fraud and money laundering as justification. Transactions over 10 million dong ($37…
 
 
-### SHOOTING on 2025-09-21 01:38
-- Location: Fox News
-- Description: Police have one suspect in custody after a shooting at a New Hampshire country club left multiple people shot, with authorities confirming no further danger exists.
+### SHOOTING on 2025-09-21 06:00
+- Location: Naturalnews.com
+- Description: The fatal shooting of conservative commentator Charlie Kirk by Tyler Robinson, allegedly influenced by Robinson’s radicalization into left-wing ideologies related to sex and gender, has raised concerns about the intersection of radical beliefs and violent beh…
 
 
-### HOMICIDE on 2025-09-21 01:38
-- Location: Fox News
-- Description: Police have one suspect in custody after a shooting at a country club in Nashua, New Hampshire, left one man dead and multiple others injured.
+### SHOOTING on 2025-09-21 05:55
+- Location: Nofilmschool.com
+- Description: The final moments of Chinatown
+ (1974) leave viewers in stunned silence.Private investigator Jake Gittes (Jack Nicholson) watches helplessly as Evelyn Mulwray (Faye Dunaway) is gunned down, her daughter pulled into the arms of the very man she was running fr…
 
 
-### HOMICIDE on 2025-09-21 01:33
-- Location: Freerepublic.com
-- Description: The number of public school employees who celebrated the political assassination of Christian and conservative commentator Charlie Kirk has reached such a high level that teachers’ unions are now tracking Kirk’s supporters and preparing to coordinate the lega…
+### OTHER on 2025-09-21 05:47
+- Location: Bidoun.org
+- Description: I was working at the magazine as a fact-checker and my parents no longer considered me a failure, not because they read or admired it, but because when they said its name to friends and relatives it sparkled on their tongues.
 
-Analysis generated at: Mon Sep 22 01:52:45 UTC 2025
+Analysis generated at: Mon Sep 22 06:22:21 UTC 2025
