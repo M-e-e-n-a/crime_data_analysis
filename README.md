@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Sep 23 12:27:55 UTC 2025
+Last updated: Tue Sep 23 12:46:17 UTC 2025
 
 ## Latest Analysis
 
-Loaded 60098 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-22 12:24:11
+Loaded 60105 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-22 12:45:00
 
 Incidents by source:
 source
-newsapi           59997
+newsapi           60004
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,30 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-09-22 12:24
-- Location: Protothema.gr
-- Description: Shocking testimonies from influencers who travel for weekends to the Emirates for dangerous porta-potty parties – risking their lives and enduring unbearable humiliation
-The post Greek Women in Dubai: “You go to the parties in Dior, and if you leave alive, yo…
+### HOMICIDE on 2025-09-22 12:45
+- Location: Newser
+- Description: The passing of Robert Redford has brought renewed attention to a decades-old mystery: the unsolved murder of his daughter's boyfriend—and the fugitive suspect who vanished without a trace. In 1983, Redford's daughter, Shauna, was dating Sid Wells, a Universit…
 
 
-### OTHER on 2025-09-22 12:16
-- Location: The Conversation Africa
-- Description: A sociologist and longtime punk rock fan reflects on Philly’s heyday of squatters, underground venues, anarchist spaces and anti-capitalist protest.
+### HOMICIDE on 2025-09-22 12:43
+- Location: The Times of India
+- Description: A 23-year-old hotel employee, Ranjan Kumar Maraiya, was found dead in the staff room of a Purnia hotel. His family suspects foul play, alleging murder due to the body's position and the fan's height. Police are investigating, reviewing CCTV footage, and await…
 
 
-### ASSAULT on 2025-09-22 12:15
-- Location: Daily Signal
-- Description: People can disagree about whether President Donald Trump had to send the National Guard to help fight crime in the nation’s capital, but it seems to have already reduced crime rates... Read More
-The post Trump Has Constitutional Authority to Battle Washington…
+### OTHER on 2025-09-22 12:43
+- Location: ComputerWeekly.com
+- Description: PSNI apologises after failing to destroy data unlawfully seized from journalists Trevor Birney and Barry McCaffrey despite a court agreement. It also apologised to the Investigatory Powers Tribunal for failing to disclose key information to the court.
 
 
-### OTHER on 2025-09-22 12:09
-- Location: Freerepublic.com
-- Description: As mourners gathered for conservative leader Charlie Kirk's stadium-sized memorial, FBI Director Kash Patel repeated his "pursuing every lead" statement shared in last week's Senate testimony, saying the investigation is looking into the "possibility of accom…
+### HOMICIDE on 2025-09-22 12:42
+- Location: 7NEWS.com.au
+- Description: Protests after shooting kills three transgender women in Pakistan’s largest city7news.com.au
 
 
-### SHOOTING on 2025-09-22 12:05
-- Location: Freerepublic.com
-- Description: Jimmy Kimmel’s show was suspended indefinitely by ABC last week. Executives yanked the program off the air on September 17. Three days later, a local ABC station was fired upon. You’re not going to hear about it, especially after the suspect has been identifi…
+### HOMICIDE on 2025-09-22 12:39
+- Location: Boston Herald
+- Description: Ryan Routh is set to call just three witnesses Monday.
 
-Analysis generated at: Tue Sep 23 12:27:55 UTC 2025
+Analysis generated at: Tue Sep 23 12:46:17 UTC 2025
