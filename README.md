@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Sep 23 12:46:17 UTC 2025
+Last updated: Tue Sep 23 18:20:48 UTC 2025
 
 ## Latest Analysis
 
-Loaded 60105 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-22 12:45:00
+Loaded 60199 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-22 18:20:38
 
 Incidents by source:
 source
-newsapi           60004
+newsapi           60098
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-09-22 12:45
-- Location: Newser
-- Description: The passing of Robert Redford has brought renewed attention to a decades-old mystery: the unsolved murder of his daughter's boyfriend—and the fugitive suspect who vanished without a trace. In 1983, Redford's daughter, Shauna, was dating Sid Wells, a Universit…
+### ASSAULT on 2025-09-22 18:20
+- Location: Fox News
+- Description: Travelers face increased risks from fake Wi-Fi networks at airports and on flights as attackers exploit growing reliance on in-flight internet for entertainment and services.
 
 
-### HOMICIDE on 2025-09-22 12:43
+### HOMICIDE on 2025-09-22 18:18
 - Location: The Times of India
-- Description: A 23-year-old hotel employee, Ranjan Kumar Maraiya, was found dead in the staff room of a Purnia hotel. His family suspects foul play, alleging murder due to the body's position and the fan's height. Police are investigating, reviewing CCTV footage, and await…
+- Description: The Gujarat High Court granted bail to AAP MLA Chaitar Vasava in an attempted murder case, stipulating he cannot enter Dediapada taluka for a year. Vasava, accused of attacking a taluka panchayat president during a meeting, was arrested in July.
 
 
-### OTHER on 2025-09-22 12:43
-- Location: ComputerWeekly.com
-- Description: PSNI apologises after failing to destroy data unlawfully seized from journalists Trevor Birney and Barry McCaffrey despite a court agreement. It also apologised to the Investigatory Powers Tribunal for failing to disclose key information to the court.
+### OTHER on 2025-09-22 18:15
+- Location: The Indian Express
+- Description: The arrest comes amidst the thaw in the relationship between Indian and Canada.
 
 
-### HOMICIDE on 2025-09-22 12:42
-- Location: 7NEWS.com.au
-- Description: Protests after shooting kills three transgender women in Pakistan’s largest city7news.com.au
+### OTHER on 2025-09-22 18:09
+- Location: The Times of India
+- Description: The Calcutta High Court has reversed a decision to release Md Khalid, convicted in the 1993 Bowbazar blast case. The court supported the State Sentence Review Board's denial of premature release. Concerns about Khalid's association with Rashid Khan and potent…
 
 
-### HOMICIDE on 2025-09-22 12:39
-- Location: Boston Herald
-- Description: Ryan Routh is set to call just three witnesses Monday.
+### HOMICIDE on 2025-09-22 18:04
+- Location: New York Post
+- Description: Club owner and longtime Nashua resident Rob Parsons said outside court after that he and everyone in the community is “heartbroken" by the weekend's attack.
 
-Analysis generated at: Tue Sep 23 12:46:17 UTC 2025
+Analysis generated at: Tue Sep 23 18:20:48 UTC 2025
