@@ -1,10 +1,10 @@
 
-Loaded 60258 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-23 06:17:27
+Loaded 60323 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-23 12:05:23
 
 Incidents by source:
 source
-newsapi           60157
+newsapi           60222
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-09-23 06:17
-- Location: The-independent.com
-- Description: Disney announces ‘Jimmy Kimmel Live!’ returning on Tuesday night
+### HOMICIDE on 2025-09-23 12:05
+- Location: BBC News
+- Description: Michael Ley fired several bolts at the officers after they were called to his Dundee home by a mental health nurse.
 
 
-### OTHER on 2025-09-23 06:16
-- Location: Decrypt
-- Description: The fraud ring likely have used "chain-hopping" and OTC networks to launder $15 million, an expert told Decrypt.
+### OTHER on 2025-09-23 12:03
+- Location: Hurriyet Daily News
+- Description: France has taken center stage in a widening diplomatic drive to recognize a Palestinian state, setting out a plan for a U.N.-mandated international stabilization force in Gaza.
 
 
-### OTHER on 2025-09-23 06:00
-- Location: Naturalnews.com
-- Description: Global consensus is forming that Israel’s actions in Gaza meet the legal definition of genocide under international law. Brazil, Turkey, Ireland, Spain, and Mexico have formally intervened in South Africa’s ICJ case, signaling growing legal and diplomatic pre…
+### OTHER on 2025-09-23 12:00
+- Location: Dramabeans.com
+- Description: The secret ingredient for this week’s episodes of Iron Chef Joseon, is revealed to be our chef! Everyone — from greedy envoys to scheming ministers — is set to use her in their revenge dish against our tyrant, and Mr. Tyrant has to race against time to save t…
 
 
-### HOMICIDE on 2025-09-23 06:00
-- Location: The Irish Times
-- Description: Looking for a good podcast? We’ve compiled a list of our favourite series and a few one-episode wonders
+### OTHER on 2025-09-23 12:00
+- Location: The Denver Post
+- Description: The Office of Independent Monitor provides civilian oversight for the Denver Police Department and Denver Sheriff Department.
 
 
-### DRUG RELATED on 2025-09-23 05:47
-- Location: Dhs.gov
-- Description: Following the evil act of political violence witnessed in the country last week and two attempts to resist arrest resulting in severe injuries of ICE law enforcement officers—one being drug by a car and another hit by a car—DHS is calling on the media, leftis…
+### HOMICIDE on 2025-09-23 12:00
+- Location: Fox News
+- Description: The brother of murder victim criticized comments made by former Chicago Mayor Lori Lightfoot, who said President Donald Trump has "manufactured" a crime crisis.
 
-Analysis generated at: Wed Sep 24 06:21:02 UTC 2025
+Analysis generated at: Wed Sep 24 12:28:33 UTC 2025
