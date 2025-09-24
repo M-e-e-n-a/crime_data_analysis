@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Sep 24 01:44:48 UTC 2025
+Last updated: Wed Sep 24 06:21:02 UTC 2025
 
 ## Latest Analysis
 
-Loaded 60214 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-23 01:15:11
+Loaded 60258 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-23 06:17:27
 
 Incidents by source:
 source
-newsapi           60113
+newsapi           60157
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,31 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-09-23 01:15
-- Location: Thegatewaypundit.com
-- Description: The ABC affiliate shooter left a handwritten note in his car referencing Charlie Kirk and threatening Trump Administration officials – and he was still released on bond over the weekend.
-The post “They’re Next” – Trump-Hating Suspect Arrested For Shooting Int…
+### OTHER on 2025-09-23 06:17
+- Location: The-independent.com
+- Description: Disney announces ‘Jimmy Kimmel Live!’ returning on Tuesday night
 
 
-### OTHER on 2025-09-23 01:12
-- Location: Balloon-juice.com
-- Description: Since tonight is the first night of Rosh HaShana, I’m just going to run through the basics. Also, Happy Jew Year! President Zelenskyy and First Lady Zelenska traveled to New York today for meetings at the UN. Zelenskyy landed in New York  [image or embed] —…
+### OTHER on 2025-09-23 06:16
+- Location: Decrypt
+- Description: The fraud ring likely have used "chain-hopping" and OTC networks to launder $15 million, an expert told Decrypt.
 
 
-### HOMICIDE on 2025-09-23 01:04
-- Location: CBC News
-- Description: Canadian police have arrested a Sikh activist on firearms charges in Ontario, an advocacy group said on Monday, two years after his close associate was murdered and the crime strained Canada's diplomatic ties with India.
+### OTHER on 2025-09-23 06:00
+- Location: Naturalnews.com
+- Description: Global consensus is forming that Israel’s actions in Gaza meet the legal definition of genocide under international law. Brazil, Turkey, Ireland, Spain, and Mexico have formally intervened in South Africa’s ICJ case, signaling growing legal and diplomatic pre…
 
 
-### ROBBERY/THEFT on 2025-09-23 01:02
-- Location: Starcommunity.com.au
-- Description: Victoria Police are investigating a carjacking that occurred at Casey Central Shopping Centre on 14 September, between 6:15pm and 7pm. Two offenders exited a stolen black Mitsubishi Outlander and made threats to the victim before stealing her vehicle. Police …
+### HOMICIDE on 2025-09-23 06:00
+- Location: The Irish Times
+- Description: Looking for a good podcast? We’ve compiled a list of our favourite series and a few one-episode wonders
 
 
-### ROBBERY/THEFT on 2025-09-23 01:00
-- Location: ABC News (AU)
-- Description: In 2017, journalist Nick McKenzie heard rumours of executions and cover-ups inside Australia’s most elite military unit. For the next eight years, Nick waged an epic battle for the truth to be acknowledged about Ben Roberts-Smith VC.
+### DRUG RELATED on 2025-09-23 05:47
+- Location: Dhs.gov
+- Description: Following the evil act of political violence witnessed in the country last week and two attempts to resist arrest resulting in severe injuries of ICE law enforcement officers—one being drug by a car and another hit by a car—DHS is calling on the media, leftis…
 
-Along with his colleague…
-
-Analysis generated at: Wed Sep 24 01:44:48 UTC 2025
+Analysis generated at: Wed Sep 24 06:21:02 UTC 2025
