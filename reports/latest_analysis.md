@@ -1,10 +1,10 @@
 
-Loaded 60323 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-23 12:05:23
+Loaded 60331 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-23 12:47:30
 
 Incidents by source:
 source
-newsapi           60222
+newsapi           60230
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-09-23 12:05
-- Location: BBC News
-- Description: Michael Ley fired several bolts at the officers after they were called to his Dundee home by a mental health nurse.
+### OTHER on 2025-09-23 12:47
+- Location: The Conversation Africa
+- Description: By militarizing law enforcement, the US is entering largely uncharted waters, but it’s familiar territory for Chile and Argentina, where established democracies broke down in the 1970s.
 
 
-### OTHER on 2025-09-23 12:03
-- Location: Hurriyet Daily News
-- Description: France has taken center stage in a widening diplomatic drive to recognize a Palestinian state, setting out a plan for a U.N.-mandated international stabilization force in Gaza.
+### SHOOTING on 2025-09-23 12:45
+- Location: National Observer
+- Description: A prominent gun-control group says the federal government's buyback of assault-style firearms will be a waste of money unless it includes a prohibition of the semi-automatic SKS rifle.
 
 
-### OTHER on 2025-09-23 12:00
-- Location: Dramabeans.com
-- Description: The secret ingredient for this week’s episodes of Iron Chef Joseon, is revealed to be our chef! Everyone — from greedy envoys to scheming ministers — is set to use her in their revenge dish against our tyrant, and Mr. Tyrant has to race against time to save t…
+### OTHER on 2025-09-23 12:44
+- Location: The Conversation Africa
+- Description: Donald Trump has a partisan ally running the FBI. He’s urged retribution against his perceived enemies. Will today’s FBI repeat the vast, unconstitutional persecutions of the J. Edgar Hoover era?
 
 
-### OTHER on 2025-09-23 12:00
-- Location: The Denver Post
-- Description: The Office of Independent Monitor provides civilian oversight for the Denver Police Department and Denver Sheriff Department.
+### OTHER on 2025-09-23 12:42
+- Location: Reason
+- Description: From Wednesday's decision by Judge K. Michael Moore in Signorello v. Murphy (S.D. Fla.): {The following facts are taken from…
 
 
-### HOMICIDE on 2025-09-23 12:00
-- Location: Fox News
-- Description: The brother of murder victim criticized comments made by former Chicago Mayor Lori Lightfoot, who said President Donald Trump has "manufactured" a crime crisis.
+### OTHER on 2025-09-23 12:40
+- Location: Dineshkhabar.com
+- Description: Kanchanpur: A rapid response team has been mobilized under the Kunda Sub-Division Forest Office in Kanchanpur to curb illegal activities in forest areas during the festive season.
 
-Analysis generated at: Wed Sep 24 12:28:33 UTC 2025
+According to Forest Office Chief Dinesh Kumar Yadav, the team’s primary objec…
+
+Analysis generated at: Wed Sep 24 12:47:41 UTC 2025
