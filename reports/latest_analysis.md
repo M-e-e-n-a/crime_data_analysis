@@ -1,10 +1,10 @@
 
-Loaded 60211 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-23 01:02:37
+Loaded 60214 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-23 01:15:11
 
 Incidents by source:
 source
-newsapi           60110
+newsapi           60113
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,6 +20,22 @@ bution.svg)
 
 ## Recent Incidents
 
+### SHOOTING on 2025-09-23 01:15
+- Location: Thegatewaypundit.com
+- Description: The ABC affiliate shooter left a handwritten note in his car referencing Charlie Kirk and threatening Trump Administration officials – and he was still released on bond over the weekend.
+The post “They’re Next” – Trump-Hating Suspect Arrested For Shooting Int…
+
+
+### OTHER on 2025-09-23 01:12
+- Location: Balloon-juice.com
+- Description: Since tonight is the first night of Rosh HaShana, I’m just going to run through the basics. Also, Happy Jew Year! President Zelenskyy and First Lady Zelenska traveled to New York today for meetings at the UN. Zelenskyy landed in New York  [image or embed] —…
+
+
+### HOMICIDE on 2025-09-23 01:04
+- Location: CBC News
+- Description: Canadian police have arrested a Sikh activist on firearms charges in Ontario, an advocacy group said on Monday, two years after his close associate was murdered and the crime strained Canada's diplomatic ties with India.
+
+
 ### ROBBERY/THEFT on 2025-09-23 01:02
 - Location: Starcommunity.com.au
 - Description: Victoria Police are investigating a carjacking that occurred at Casey Central Shopping Centre on 14 September, between 6:15pm and 7pm. Two offenders exited a stolen black Mitsubishi Outlander and made threats to the victim before stealing her vehicle. Police …
@@ -31,19 +47,4 @@ bution.svg)
 
 Along with his colleague…
 
-
-### HOMICIDE on 2025-09-23 00:59
-- Location: Boston Herald
-- Description: The City of Boston has paid $150,000 as part of a settlement agreement with two Black men wrongfully accused in the 36-year-old shooting murder of a white pregnant woman Carol Stuart, two years after the mayor formally apologized to them.
-
-
-### OTHER on 2025-09-23 00:55
-- Location: Financial Post
-- Description: A last stand to try and save 400 ostriches from an ordered cull is unfolding along a dusty gravel road near the tiny community of Edgewood in southeastern British Columbia. Yellow tape has been strung around the ostriches’ pen, where the co-owner of the farm …
-
-
-### ASSAULT on 2025-09-23 00:50
-- Location: New York Post
-- Description: The attacker stabbed the victim from behind, once in the neck and twice in the back after the pair got into a verbal dispute on a Manhattan-bound 7 train passing through Queens, cops said.
-
-Analysis generated at: Wed Sep 24 01:03:15 UTC 2025
+Analysis generated at: Wed Sep 24 01:44:48 UTC 2025
