@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Sep 24 18:19:35 UTC 2025
+Last updated: Thu Sep 25 01:03:44 UTC 2025
 
 ## Latest Analysis
 
-Loaded 60424 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-23 18:18:44
+Loaded 60435 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-24 01:00:32
 
 Incidents by source:
 source
-newsapi           60323
+newsapi           60334
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-09-23 18:18
-- Location: Financial Post
-- Description: HARTFORD, Conn. (AP) — Connecticut officials have agreed to a $2.25 million settlement of a lawsuit over a sex offender’s killing of visiting nurse Joyce Grayson at a halfway house in 2023 _ a case that reignited calls for better protections for home health c…
+### HOMICIDE on 2025-09-24 01:00
+- Location: CBC News
+- Description: The parents of a Brampton, Ont. woman killed more than five years ago say bail reform would make a big difference to community safety in Canada.
 
 
-### OTHER on 2025-09-23 18:15
-- Location: Thegatewaypundit.com
-- Description: Breaking update: The jury has reached a verdict – GUILTY ON ALL CHARGES BREAKING: Ryan Routh, the man accused of trying to assassinate President Donald Trump during his 2024 campaign, found GUILTY on all counts at trial.
-The post BREAKING: Judge Cannon Shuts …
+### ROBBERY/THEFT on 2025-09-24 00:41
+- Location: WSB Atlanta
+- Description: The Fulton County Sheriff’s Office arrested Amanda Noble, 44, of Atlanta, who was wanted for multiple offenses in Brookhaven.
 
 
-### OTHER on 2025-09-23 18:14
-- Location: WDAF FOX4 Kansas City
-- Description: A police report from the Prairie Village Police Department is revealing new details about the investigation into a Johnson County priest.
+### HOMICIDE on 2025-09-24 00:35
+- Location: Yahoo Entertainment
+- Description: CHICAGO (Reuters) -Police records and witness accounts from a Chicago suburb where a man was fatally shot by a federal immigration enforcement agent earlier ...
 
 
-### OTHER on 2025-09-23 18:11
-- Location: ABC News
-- Description: Major medical organizations are pushing back against the Trump admin’s claim that the use of Tylenol during pregnancy may be linked to an increased risk of autism.
+### HOMICIDE on 2025-09-24 00:33
+- Location: KOIN.com
+- Description: PORTLAND, Ore. (KOIN) — A man who is accused of the murder of a Gresham teenager was “erroneously released” from jail on Monday, authorities said. Ty Sage...
 
 
-### OTHER on 2025-09-23 18:01
-- Location: New Zealand Herald
-- Description: Rotorua mayoral candidates outline tourism plans as reputation and safety take focus.
+### SHOOTING on 2025-09-24 00:25
+- Location: Raw Story
+- Description: Local police body camera footage released Monday has further called into question the government’s justification for an Immigration and Customs Enforcement agent’s fatal shooting
+ of Silverio Villegas-Gonzalez, a 38-year-old father of two, in the Chicago sub…
 
-Analysis generated at: Wed Sep 24 18:19:35 UTC 2025
+Analysis generated at: Thu Sep 25 01:03:44 UTC 2025
