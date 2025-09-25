@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Sep 25 01:45:38 UTC 2025
+Last updated: Thu Sep 25 06:21:37 UTC 2025
 
 ## Latest Analysis
 
-Loaded 60440 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-24 01:44:05
+Loaded 60477 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-24 06:00:19
 
 Incidents by source:
 source
-newsapi           60339
+newsapi           60376
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-09-24 01:44
-- Location: New Zealand Herald
-- Description: Police executed a search warrant at a Hollywood Hills home linked to D4vd.
+### ROBBERY/THEFT on 2025-09-24 06:00
+- Location: Dramabeans.com
+- Description: Time slot: Wednesday & Thursday Broadcaster: Waave Genre: Crime, thriller Episode count: 8 Global streamer: TBA Reasons to watch: If you’ve ever had to help stop a loved one from getting taken in by a voice phishing scheme, you’ll probably identify with the h…
 
 
-### SHOOTING on 2025-09-24 01:38
-- Location: KFDX - Texomashomepage.com
-- Description: Six women who were arraigned on federal charges related to the shooting of an Alvarado police officer at an ICE detention center on July 4, 2025, were being ...
+### ASSAULT on 2025-09-24 05:47
+- Location: Notus.org
+- Description: The Public Integrity Section is the latest casualty in the administration’s attacks on Nixon-era good-government reforms.
 
 
-### OTHER on 2025-09-24 01:34
-- Location: Mypeoplesreview.com
-- Description: By Rabi Raj Thapa Nepal has once again become a victim of political violence and paralyzed politics. Whenever Nepali political […]
-The post Political violence and paralyzed politics appeared first on Peoples' Review.
+### ROBBERY/THEFT on 2025-09-24 05:26
+- Location: 3AW
+- Description: UPDATE Victoria Police have confirmed more shocking details on 11 armed robberies that took place across Melbourne on Tuesday evening. A stolen red Mazda SUV was allegedly used in the crimes, which took place in Officer, Berwick, Cranbourne North, Clyde North…
 
 
-### OTHER on 2025-09-24 01:29
-- Location: The Star Online
-- Description: KUALA LUMPUR: The Malaysian Anti-Corruption Commission (MACC) has stressed that it will not compromise on any form of misconduct or crime committed by its officers, following the arrest of a deputy public prosecutor recently assigned to the agency. Read full …
+### HOMICIDE on 2025-09-24 05:26
+- Location: WISN Milwaukee
+- Description: Jimmy Kimmel has returned to late-night TV after a suspension over comments about the killing of conservative activist Charlie Kirk.
 
 
-### OTHER on 2025-09-24 01:15
-- Location: Decider
-- Description: Black Rabbit’s future is getting closer.
+### HOMICIDE on 2025-09-24 05:26
+- Location: KOAT New Mexico
+- Description: Jimmy Kimmel has returned to late-night TV after a suspension over comments about the killing of conservative activist Charlie Kirk.
 
-Analysis generated at: Thu Sep 25 01:45:38 UTC 2025
+Analysis generated at: Thu Sep 25 06:21:37 UTC 2025
