@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Sep 25 12:48:47 UTC 2025
+Last updated: Thu Sep 25 18:20:56 UTC 2025
 
 ## Latest Analysis
 
-Loaded 60558 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-24 12:47:40
+Loaded 60647 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-24 18:20:00
 
 Incidents by source:
 source
-newsapi           60457
+newsapi           60546
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,30 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-09-24 12:47
-- Location: Mediaite
-- Description: Three people were critically wounded in a Wednesday morning shooting outside of an ICE facility in Dallas, Texas, according to local reports.
-The post BREAKING: Two Dead, Multiple People Wounded in Shooting at Dallas ICE Facility first appeared on Mediaite.
+### ROBBERY/THEFT on 2025-09-24 18:20
+- Location: Sky.com
+- Description: Nigel Fleming, 64, and Catherine Nash, 75, were given a month-long conditional discharge. They were released with no further action but will still get a criminal record.
 
 
-### SHOOTING on 2025-09-24 12:47
-- Location: Mediaite
-- Description: Three people were critically wounded in a Wednesday morning shooting outside of an ICE facility in Dallas, Texas, according to local reports.
-The post BREAKING: 3 Critically Wounded in Shooting at Dallas ICE Facility first appeared on Mediaite.
+### HOMICIDE on 2025-09-24 18:16
+- Location: ABC News
+- Description: Travis Decker declared dead before DNA confirmation on remains: US Marshals Servicego.com
 
 
-### HOMICIDE on 2025-09-24 12:45
-- Location: CNN
-- Description: At least one victim is dead and two were injured in a shooting at a US Immigration and Customs Enforcement facility in Dallas. At least two detainees are among the victims, according to sources. Follow here for the latest.
+### HOMICIDE on 2025-09-24 18:16
+- Location: Freerepublic.com
+- Description: The staff member fired by Ball State University because of a Facebook post about the murder of Charlie Kirk is suing university president Geoffrey Mearns, alleging a violation of her First Amendment rights. Suzanne Swierc, formerly Ball State's director of he…
 
 
-### HOMICIDE on 2025-09-24 12:45
-- Location: Decider
-- Description: Marcia Gay Harden and Bethany Brown join the cast for Season 2. Guest stars this season include Camryn Manheim and the late Malcolm-Jamal Warner.
+### HOMICIDE on 2025-09-24 18:15
+- Location: CBC News
+- Description: Justin Bourque, 35, has been sentenced for stabbing another inmate three years ago at a federal maximum-security prison near the New Brunswick community of Miramichi.
 
 
-### SHOOTING on 2025-09-24 12:44
-- Location: WFTV Orlando
-- Description: Police in Dallas, Texas, responded to reports of an active shooter at an ICE facility on Wednesday morning.
+### HOMICIDE on 2025-09-24 18:13
+- Location: Raw Story
+- Description: At least two people were killed and another critically wounded in a shooting at a Dallas ICE facility Wednesday, Acting Director Todd Lyons confirmed on CNN. Lyons said the shooter appeared to be dead and that all three victims were detainees. Police found th…
 
-Analysis generated at: Thu Sep 25 12:48:47 UTC 2025
+Analysis generated at: Thu Sep 25 18:20:56 UTC 2025
