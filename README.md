@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Sep 26 01:03:39 UTC 2025
+Last updated: Fri Sep 26 01:44:51 UTC 2025
 
 ## Latest Analysis
 
-Loaded 60664 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-25 01:00:00
+Loaded 60668 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-25 01:43:34
 
 Incidents by source:
 source
-newsapi           60563
+newsapi           60567
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
+### HOMICIDE on 2025-09-25 01:43
+- Location: CBC News
+- Description: Major crime investigators on Vancouver Island are looking into the suspicious death of a man in Victoria.
+
+
+### HOMICIDE on 2025-09-25 01:19
+- Location: Freerepublic.com
+- Description: A California man who plotted to assassinate Supreme Court Justice Brett Kavanaugh also wanted to kill at least two other conservative justices in a bid to preserve Roe v. Wade. New court filings revealed this week are spotlighting the violent extremism that g…
+
+
+### OTHER on 2025-09-25 01:17
+- Location: CNN
+- Description: An innocent man who spent 38 years behind bars in California was awarded $25 million in what his lawyers called the largest wrongful conviction settlement in state history.
+
+
+### HOMICIDE on 2025-09-25 01:13
+- Location: RT
+- Description: The shooting at the ICE Field Office in Texas left one detainee dead and two critically injured, but no agents harmed Read Full Article at RT.com
+
+
 ### HOMICIDE on 2025-09-25 01:00
 - Location: STLtoday.com
 - Description: Craig Jones, 22, was charged with first-degree murder in the attack on Taylar Hill, 26, on Tuesday night.
 
-
-### SHOOTING on 2025-09-25 01:00
-- Location: TVLine
-- Description: While Law & Order Toronto: Criminal Intent premiered in Canada in 2024, American TV viewers weren’t privy to the Law & Orderverse’s first northern offshoot until Wednesday night. Aboot time, eh? (I promise, that’s the only time I’m going to do that in this re…
-
-
-### ASSAULT on 2025-09-25 00:58
-- Location: Freerepublic.com
-- Description: From Ohio to Illinois, the ACLJ is standing on the front lines defending the constitutional rights of pro-life advocates against government overreach. We now have a new case defending pro-life rights from assault by the state. In a troubling case out of Maine…
-
-
-### OTHER on 2025-09-25 00:52
-- Location: Freerepublic.com
-- Description: A former high school administrator in California raped a 17-year-old student on campus, impregnated her and then begged her on a wiretapped phone call to abort the child, warning that keeping the baby would “ruin” his and his children’s lives. That’s the deta…
-
-
-### HOMICIDE on 2025-09-25 00:47
-- Location: NBC News
-- Description: Acting ICE Director Todd Lyons called the shooting Wednesday morning at a Dallas Immigration and Customs Enforcement facility, which killed one detainee and critically wounded two, his "worst nightmare."For Lyons, who previously worked in a Dallas ICE office,…
-
-Analysis generated at: Fri Sep 26 01:03:39 UTC 2025
+Analysis generated at: Fri Sep 26 01:44:51 UTC 2025
