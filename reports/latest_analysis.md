@@ -1,10 +1,10 @@
 
-Loaded 60668 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-25 01:43:34
+Loaded 60718 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-25 06:16:07
 
 Incidents by source:
 source
-newsapi           60567
+newsapi           60617
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-09-25 01:43
-- Location: CBC News
-- Description: Major crime investigators on Vancouver Island are looking into the suspicious death of a man in Victoria.
+### OTHER on 2025-09-25 06:16
+- Location: The Indian Express
+- Description: However, the entire conspiracy unfolded after Khanna Police's cyber wing started an investigation and found loopholes in the story presented by the accused.
 
 
-### HOMICIDE on 2025-09-25 01:19
-- Location: Freerepublic.com
-- Description: A California man who plotted to assassinate Supreme Court Justice Brett Kavanaugh also wanted to kill at least two other conservative justices in a bid to preserve Roe v. Wade. New court filings revealed this week are spotlighting the violent extremism that g…
+### SHOOTING on 2025-09-25 06:14
+- Location: Associated Press
+- Description: The motives of a shooter who authorities say opened fire from a roof onto a U.S. Immigration and Customs Enforcement location in Dallas remain unclear.
 
 
-### OTHER on 2025-09-25 01:17
-- Location: CNN
-- Description: An innocent man who spent 38 years behind bars in California was awarded $25 million in what his lawyers called the largest wrongful conviction settlement in state history.
+### ROBBERY/THEFT on 2025-09-25 06:08
+- Location: Starcommunity.com.au
+- Description: Five teenagers have been arrested following a lengthy pursuit across the southeastern and eastern suburbs in the early hours of yesterday morning. The chase followed several incidents believed to be linked: - An alleged aggravated burglary on Cluden Street, B…
 
 
-### HOMICIDE on 2025-09-25 01:13
-- Location: RT
-- Description: The shooting at the ICE Field Office in Texas left one detainee dead and two critically injured, but no agents harmed Read Full Article at RT.com
+### SHOOTING on 2025-09-25 06:08
+- Location: Starcommunity.com.au
+- Description: Police have arrested nine people across the South East as part of a Firearm Prohibition Order blitz. They include a Springvale man, 27, accused of using a 3D printer to manufacture guns before trafficking them throughout Melbourne. A large quantity of ampheta…
 
 
-### HOMICIDE on 2025-09-25 01:00
-- Location: STLtoday.com
-- Description: Craig Jones, 22, was charged with first-degree murder in the attack on Taylar Hill, 26, on Tuesday night.
+### SHOOTING on 2025-09-25 06:08
+- Location: Starcommunity.com.au
+- Description: Police detectives have released CCTV footage of a stolen grey BMW carrying an allegedly shot man at Casey Hospital in May. Occupants of a late model dark coloured Nissan Patrol fired several shots at a stolen grey BMW X5 near Bennet Street Dandenong during th…
 
-Analysis generated at: Fri Sep 26 01:44:51 UTC 2025
+Analysis generated at: Fri Sep 26 06:21:18 UTC 2025
