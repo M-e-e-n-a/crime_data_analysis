@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Sep 25 18:20:56 UTC 2025
+Last updated: Fri Sep 26 01:03:39 UTC 2025
 
 ## Latest Analysis
 
-Loaded 60647 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-24 18:20:00
+Loaded 60664 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-25 01:00:00
 
 Incidents by source:
 source
-newsapi           60546
+newsapi           60563
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2025-09-24 18:20
-- Location: Sky.com
-- Description: Nigel Fleming, 64, and Catherine Nash, 75, were given a month-long conditional discharge. They were released with no further action but will still get a criminal record.
+### HOMICIDE on 2025-09-25 01:00
+- Location: STLtoday.com
+- Description: Craig Jones, 22, was charged with first-degree murder in the attack on Taylar Hill, 26, on Tuesday night.
 
 
-### HOMICIDE on 2025-09-24 18:16
-- Location: ABC News
-- Description: Travis Decker declared dead before DNA confirmation on remains: US Marshals Servicego.com
+### SHOOTING on 2025-09-25 01:00
+- Location: TVLine
+- Description: While Law & Order Toronto: Criminal Intent premiered in Canada in 2024, American TV viewers weren’t privy to the Law & Orderverse’s first northern offshoot until Wednesday night. Aboot time, eh? (I promise, that’s the only time I’m going to do that in this re…
 
 
-### HOMICIDE on 2025-09-24 18:16
+### ASSAULT on 2025-09-25 00:58
 - Location: Freerepublic.com
-- Description: The staff member fired by Ball State University because of a Facebook post about the murder of Charlie Kirk is suing university president Geoffrey Mearns, alleging a violation of her First Amendment rights. Suzanne Swierc, formerly Ball State's director of he…
+- Description: From Ohio to Illinois, the ACLJ is standing on the front lines defending the constitutional rights of pro-life advocates against government overreach. We now have a new case defending pro-life rights from assault by the state. In a troubling case out of Maine…
 
 
-### HOMICIDE on 2025-09-24 18:15
-- Location: CBC News
-- Description: Justin Bourque, 35, has been sentenced for stabbing another inmate three years ago at a federal maximum-security prison near the New Brunswick community of Miramichi.
+### OTHER on 2025-09-25 00:52
+- Location: Freerepublic.com
+- Description: A former high school administrator in California raped a 17-year-old student on campus, impregnated her and then begged her on a wiretapped phone call to abort the child, warning that keeping the baby would “ruin” his and his children’s lives. That’s the deta…
 
 
-### HOMICIDE on 2025-09-24 18:13
-- Location: Raw Story
-- Description: At least two people were killed and another critically wounded in a shooting at a Dallas ICE facility Wednesday, Acting Director Todd Lyons confirmed on CNN. Lyons said the shooter appeared to be dead and that all three victims were detainees. Police found th…
+### HOMICIDE on 2025-09-25 00:47
+- Location: NBC News
+- Description: Acting ICE Director Todd Lyons called the shooting Wednesday morning at a Dallas Immigration and Customs Enforcement facility, which killed one detainee and critically wounded two, his "worst nightmare."For Lyons, who previously worked in a Dallas ICE office,…
 
-Analysis generated at: Thu Sep 25 18:20:56 UTC 2025
+Analysis generated at: Fri Sep 26 01:03:39 UTC 2025
