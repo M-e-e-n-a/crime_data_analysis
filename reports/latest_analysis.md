@@ -1,10 +1,10 @@
 
-Loaded 60814 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-25 12:38:01
+Loaded 60911 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-25 18:15:18
 
 Incidents by source:
 source
-newsapi           60713
+newsapi           60810
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-09-25 12:38
-- Location: Independent.ie
-- Description: A 68-year-old man armed himself with a 12-inch kitchen knife and laid in wait at a cemetery before stabbing his ex-wife to death at the graveside of their son, a court has heard.
+### OTHER on 2025-09-25 18:15
+- Location: Screen Rant
+- Description: These are the crime drama TV shows that took their twists too far, leaving fans shocked and betrayed by disappointing endings and narrative missteps.
 
 
-### HOMICIDE on 2025-09-25 12:32
-- Location: Slashdot.org
-- Description: Ohio police officer indicted in shooting death of pregnant mom "recklessly escalated" response, lawsuit allegesCBS News Estate files federal lawsuit over fatal police shooting of Ta'Kiya YoungWSYX Family of woman fatally shot by officer files federal lawsuit …
+### OTHER on 2025-09-25 18:10
+- Location: Theobserver.com
+- Description: One Harrison man who has had a previous run-in with the Kearny Police Department was at it again recently. According to Det. Sgt. Mike Gontarczuk, the Kearny Police Department’s public-information… 
+The post KPD: ‘Familiar’ Harrison man would not submit to fi…
 
 
-### SHOOTING on 2025-09-25 12:31
-- Location: El Paso Times
-- Description: El Paso Fashion Week organizers said Mia Molina, a former model, died in the shooting in a post on Wednesday, Sept. 24.
+### OTHER on 2025-09-25 18:06
+- Location: The Hollywood Gossip
+- Description: Reading Time: 3 minutesTwo siblings who defaced a Charlie Kirk memorial are now raising money
+Siblings Who Destroyed Charlie Kirk Memorial Launch GoFundMe, Raise $20k After Getting … was originally published on The Hollywood Gossip.
 
 
-### HOMICIDE on 2025-09-25 12:30
-- Location: Shtfplan.com
-- Description: The terrorists who shoot people and blow things up aren’t the real threat. We can handle the small-scale stuff. What we should really be concerned about are the terrorists who are thinking much bigger. If terrorists cook up a highly contagious disease in a la…
+### OTHER on 2025-09-25 18:06
+- Location: PBS
+- Description: A Paris court has sentenced former French President Nicolas Sarkozy to five years in prison for criminal conspiracy.
 
 
-### OTHER on 2025-09-25 12:29
-- Location: Democracy Now!
-- Description: More than a dozen West African men who were deported to Ghana by the United States have since been returned to their home countries by the Ghanaian government, despite legitimate fears of torture or persecution at home. Ghana is one of a growing list of count…
+### HOMICIDE on 2025-09-25 18:02
+- Location: CBC News
+- Description: Longueuil police say they've opened an investigation into threats made toward certain officers. They say the threats are related to the fatal police shooting of a 15-year-old boy Sunday on Montreal's South Shore.
 
-Analysis generated at: Fri Sep 26 12:47:23 UTC 2025
+Analysis generated at: Fri Sep 26 18:18:19 UTC 2025
