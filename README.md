@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Sep 27 12:40:48 UTC 2025
+Last updated: Sat Sep 27 18:17:32 UTC 2025
 
 ## Latest Analysis
 
-Loaded 61024 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-26 12:34:24
+Loaded 61112 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-26 18:15:53
 
 Incidents by source:
 source
-newsapi           60923
+newsapi           61011
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-09-26 12:34
+### OTHER on 2025-09-26 18:15
+- Location: Associated Press
+- Description: Sinclair Broadcast Group has decided to bring Jimmy Kimmel's late-night show back to its ABC affiliate stations. This ends a dayslong TV blackout in dozens of U.S. cities. The blackout followed remarks Kimmel made about conservative activist Charlie Kirk's ki…
+
+
+### ROBBERY/THEFT on 2025-09-26 18:15
+- Location: The Times of India
+- Description: Thane: Police arrested four members of Shikalkar gang, who broke into houses across Thane, Pune, Navi Mumbai, Kalyan, and Bhiwandi. The arrests led to.
+
+
+### OTHER on 2025-09-26 18:12
 - Location: Forbes
-- Description: Civil forfeiture money goes into accounts controlled by prosecutors and police. The result is often wasted money. A Georgia DA used funds for a self-serving newsletter.
+- Description: Amazon MGM Studios has today revealed its latest blockbuster investment which it hopes will help it to take on Hollywood’s heavyweights.
 
 
-### ASSAULT on 2025-09-26 12:30
-- Location: New York Post
-- Description: Left-wing terror attacks are on track to reach record highs this year -- as Democrats have been accused of ramping up their harmful rhetoric in their opposition to the Trump administration, a disturbing new study has found.
+### OTHER on 2025-09-26 18:09
+- Location: The Daily Caller
+- Description: Fox News host Harris Faulkner tore into a Democratic guest on “The Faulkner Focus” Friday while a riot broke out at a ICE facility in Illinois.
 
 
-### ASSAULT on 2025-09-26 12:29
-- Location: LADbible
-- Description: EU leaders are considering a 'drone wall' following a series of attacks on airports they believe came from Russia
+### ROBBERY/THEFT on 2025-09-26 18:03
+- Location: The Times of India
+- Description: Mumbai: Mumbai police have apprehended a 52-year-old history-sheeter, who was involved in at least 28 cases of burglary, theft, cheating and gambling .
 
-
-### OTHER on 2025-09-26 12:26
-- Location: ABC News (AU)
-- Description: An investigation is underway after the body of a female in her 30s was found in the Hobart Rivulet on Friday afternoon.
-
-
-### OTHER on 2025-09-26 12:25
-- Location: ABC News
-- Description: The former FBI director has been indicted on charges of making a false statement and obstruction related to his testimony before the Senate Judiciary Committee in 2020.
-
-Analysis generated at: Sat Sep 27 12:40:48 UTC 2025
+Analysis generated at: Sat Sep 27 18:17:32 UTC 2025
