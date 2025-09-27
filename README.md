@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Sep 26 18:18:19 UTC 2025
+Last updated: Sat Sep 27 01:01:03 UTC 2025
 
 ## Latest Analysis
 
-Loaded 60911 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-25 18:15:18
+Loaded 60921 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-26 01:00:07
 
 Incidents by source:
 source
-newsapi           60810
+newsapi           60820
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,30 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-09-25 18:15
-- Location: Screen Rant
-- Description: These are the crime drama TV shows that took their twists too far, leaving fans shocked and betrayed by disappointing endings and narrative missteps.
+### OTHER on 2025-09-26 01:00
+- Location: TODAY
+- Description: "Law & Order" stars Tony Goldwyn, Hugh Dancy and Odelya Halevi speak in an interview with TODAY.com about the Season 25 premiere episode and the ending.
 
 
-### OTHER on 2025-09-25 18:10
-- Location: Theobserver.com
-- Description: One Harrison man who has had a previous run-in with the Kearny Police Department was at it again recently. According to Det. Sgt. Mike Gontarczuk, the Kearny Police Department’s public-information… 
-The post KPD: ‘Familiar’ Harrison man would not submit to fi…
+### HOMICIDE on 2025-09-26 01:00
+- Location: TVLine
+- Description: We waited all summer to find out: Could Law & Order Assistant District Attorney Samantha Maroun actually have been involved in killing her sister’s murderer? Showrunner Rick Eid promised we wouldn’t have to wait long to find out, and he delivered: The Season …
 
 
-### OTHER on 2025-09-25 18:06
-- Location: The Hollywood Gossip
-- Description: Reading Time: 3 minutesTwo siblings who defaced a Charlie Kirk memorial are now raising money
-Siblings Who Destroyed Charlie Kirk Memorial Launch GoFundMe, Raise $20k After Getting … was originally published on The Hollywood Gossip.
+### SHOOTING on 2025-09-26 00:53
+- Location: New York Post
+- Description: Chilling videos have reportedly emerged of attempted Donald Trump assassin Thomas Crooks dry-firing a handgun while in a tactical stance in his home. The short but jarring undated clips were purportedly posted online by Crooks, 20, but were later “scraped” fr…
 
 
-### OTHER on 2025-09-25 18:06
-- Location: PBS
-- Description: A Paris court has sentenced former French President Nicolas Sarkozy to five years in prison for criminal conspiracy.
+### OTHER on 2025-09-26 00:52
+- Location: The Indian Express
+- Description: Police identified the three directors as Amitav Roy, Subhendu Kumar Paul and Jaydeep Goswami.
 
 
-### HOMICIDE on 2025-09-25 18:02
-- Location: CBC News
-- Description: Longueuil police say they've opened an investigation into threats made toward certain officers. They say the threats are related to the fatal police shooting of a 15-year-old boy Sunday on Montreal's South Shore.
+### HOMICIDE on 2025-09-26 00:45
+- Location: soompi
+- Description: SBS’s “Queen Mantis” will finally reveal the identity of its culprit on its next episode! A remake of the French series “La Mante,” “Queen Mantis” is a crime thriller starring Go Hyun Jung as Jung Yi Shin, a famous serial killer nicknamed “The Mantis” who bru…
 
-Analysis generated at: Fri Sep 26 18:18:19 UTC 2025
+Analysis generated at: Sat Sep 27 01:01:03 UTC 2025
