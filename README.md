@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Sep 27 06:18:08 UTC 2025
+Last updated: Sat Sep 27 12:24:37 UTC 2025
 
 ## Latest Analysis
 
-Loaded 60953 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-26 05:56:21
+Loaded 61019 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-26 12:21:24
 
 Incidents by source:
 source
-newsapi           60852
+newsapi           60918
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-09-26 05:56
-- Location: CounterPunch
-- Description: Donald Trump is provoking fear in the United States. His declarations and actions are part of a deliberate strategy of creating enough fear to have established a reign of terror. Trump is being compared with Vladimir Putin in Russia – see M. Gessen in the New…
+### OTHER on 2025-09-26 12:21
+- Location: Common Dreams
+- Description: Despite protests nationwide, a California district court order, and politician complaints, President Trump with the blessing of Governor Bill Lee is expected tosend troops any day now to Memphis. Growing up in my hometown, I can’t imagine seeing National Guar…
 
 
-### HOMICIDE on 2025-09-26 05:43
-- Location: ABC News (AU)
-- Description: Chol Achiek, one of two boys killed in Cobblebank earlier this month, has been remembered as a loving brother and son who dreamed of a career in basketball and was wise beyond his years.
+### OTHER on 2025-09-26 12:20
+- Location: Breitbart News
+- Description: U.S. Immigration and Customs Enforcement (ICE) Buffalo officers arrested 35 criminal aliens and immigration violators across Central New York during a weeklong enforcement blitz from September 14-19. The targeted enforcement operations are part of President D…
 
 
-### OTHER on 2025-09-26 05:33
-- Location: The Star Online
-- Description: KUCHING: Deputy Director of Investigations/Legal at Bukit Aman's Criminal Investigation Department, Datuk Mohamad Zainal Abdullah, has been appointed as the new Sarawak Police Commissioner, effective Friday (Sept 26). Read full story
+### ROBBERY/THEFT on 2025-09-26 12:17
+- Location: Inside the Magic
+- Description: When you think of Disney World, you picture families strolling through theme parks, fireworks lighting up the sky, and Mickey-shaped treats at every corner. What you don’t picture? A late-night scuba-style robbery that reads like a scene from Ocean’s Eleven. …
 
 
-### OTHER on 2025-09-26 05:32
-- Location: BBC News
-- Description: Cardiff council issues guidance for when when a child is suspected of having a weapon.
+### ROBBERY/THEFT on 2025-09-26 12:12
+- Location: Slashdot.org
+- Description: OnePlus devices have a big SMS vulnerability, but a patch is finally on the way9to5Google Rapid7: OnePlus phones vulnerable to SMS theft since 2021theregister.com Unpatched flaw in OnePlus phones lets rogue apps text messagesBleepingComputer OnePlus Phones At…
 
 
-### SHOOTING on 2025-09-26 05:29
-- Location: The-independent.com
-- Description: Penn plays a white supremacist in Paul Thomas Anderson’s new movie, ‘One Battle After Another’
+### HOMICIDE on 2025-09-26 12:03
+- Location: Sky.com
+- Description: The Old Bailey heard that Lorik Lupqi, 22, and Jason Furtado, 28, planned the attack, and enlisted Abel Chunda, 29, Xavier Poponne, 22, and Eden Clark, 31, to carry it out.
 
-Analysis generated at: Sat Sep 27 06:18:08 UTC 2025
+Analysis generated at: Sat Sep 27 12:24:37 UTC 2025
