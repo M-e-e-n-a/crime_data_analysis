@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Sep 27 12:24:37 UTC 2025
+Last updated: Sat Sep 27 12:40:48 UTC 2025
 
 ## Latest Analysis
 
-Loaded 61019 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-26 12:21:24
+Loaded 61024 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-26 12:34:24
 
 Incidents by source:
 source
-newsapi           60918
+newsapi           60923
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-09-26 12:21
-- Location: Common Dreams
-- Description: Despite protests nationwide, a California district court order, and politician complaints, President Trump with the blessing of Governor Bill Lee is expected tosend troops any day now to Memphis. Growing up in my hometown, I can’t imagine seeing National Guar…
+### OTHER on 2025-09-26 12:34
+- Location: Forbes
+- Description: Civil forfeiture money goes into accounts controlled by prosecutors and police. The result is often wasted money. A Georgia DA used funds for a self-serving newsletter.
 
 
-### OTHER on 2025-09-26 12:20
-- Location: Breitbart News
-- Description: U.S. Immigration and Customs Enforcement (ICE) Buffalo officers arrested 35 criminal aliens and immigration violators across Central New York during a weeklong enforcement blitz from September 14-19. The targeted enforcement operations are part of President D…
+### ASSAULT on 2025-09-26 12:30
+- Location: New York Post
+- Description: Left-wing terror attacks are on track to reach record highs this year -- as Democrats have been accused of ramping up their harmful rhetoric in their opposition to the Trump administration, a disturbing new study has found.
 
 
-### ROBBERY/THEFT on 2025-09-26 12:17
-- Location: Inside the Magic
-- Description: When you think of Disney World, you picture families strolling through theme parks, fireworks lighting up the sky, and Mickey-shaped treats at every corner. What you don’t picture? A late-night scuba-style robbery that reads like a scene from Ocean’s Eleven. …
+### ASSAULT on 2025-09-26 12:29
+- Location: LADbible
+- Description: EU leaders are considering a 'drone wall' following a series of attacks on airports they believe came from Russia
 
 
-### ROBBERY/THEFT on 2025-09-26 12:12
-- Location: Slashdot.org
-- Description: OnePlus devices have a big SMS vulnerability, but a patch is finally on the way9to5Google Rapid7: OnePlus phones vulnerable to SMS theft since 2021theregister.com Unpatched flaw in OnePlus phones lets rogue apps text messagesBleepingComputer OnePlus Phones At…
+### OTHER on 2025-09-26 12:26
+- Location: ABC News (AU)
+- Description: An investigation is underway after the body of a female in her 30s was found in the Hobart Rivulet on Friday afternoon.
 
 
-### HOMICIDE on 2025-09-26 12:03
-- Location: Sky.com
-- Description: The Old Bailey heard that Lorik Lupqi, 22, and Jason Furtado, 28, planned the attack, and enlisted Abel Chunda, 29, Xavier Poponne, 22, and Eden Clark, 31, to carry it out.
+### OTHER on 2025-09-26 12:25
+- Location: ABC News
+- Description: The former FBI director has been indicted on charges of making a false statement and obstruction related to his testimony before the Senate Judiciary Committee in 2020.
 
-Analysis generated at: Sat Sep 27 12:24:37 UTC 2025
+Analysis generated at: Sat Sep 27 12:40:48 UTC 2025
