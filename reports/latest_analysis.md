@@ -1,10 +1,10 @@
 
-Loaded 61130 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-27 01:43:30
+Loaded 61160 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-27 06:03:20
 
 Incidents by source:
 source
-newsapi           61029
+newsapi           61059
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-09-27 01:43
-- Location: Thoughtcatalog.com
-- Description: James Gunn has a knack for digging through comic book archives and pulling out the oddballs everyone else ignores. He did it with Guardians of the Galaxy in 2014, turned The Suicide Squad into a bl…
-
-
-### ASSAULT on 2025-09-27 01:40
-- Location: Raw Story
-- Description: Amid rising concerns over US President Donald Trump’s authoritarianism, including attacks on the media, press freedom advocates on Friday celebrated the dismissal of some federal charges against a journalist indicted during the Biden administration.“This ruli…
-
-
-### HOMICIDE on 2025-09-27 01:23
-- Location: Vulture
-- Description: Austin Police say they’ve solved the murder of four teen girls, as covered in HBO’s ‘The Yogurt Shop Murders.’ DNA evidence has linked alleged serial killer Robert Eugene Brashers to the case.
-
-
-### HOMICIDE on 2025-09-27 01:15
+### DRUG RELATED on 2025-09-27 06:03
 - Location: International Business Times
-- Description: Shocked and in tears, relatives on Friday laid to rest two women and a girl whose live-streamed torture and murder caused an outcry in Argentina, where activists are planning a weekend protest against femicide.
+- Description: Eleven years after her son vanished, Delfina de la Cruz vented frustration at the unsolved disappearances of 43 Mexican students who were allegedly kidnapped by drug traffickers while authorities turned a blind eye.
 
 
-### HOMICIDE on 2025-09-27 01:12
+### DRUG RELATED on 2025-09-27 06:02
 - Location: Digital Journal
-- Description: Shocked and in tears, relatives on Friday laid to rest two women and a girl whose live-streamed torture and murder caused an outcry in Argentina, where activists are planning a weekend protest against femicide. The bodies of Morena Verdi and Brenda Del Castil…
+- Description: Eleven years after her son vanished, Delfina de la Cruz vented frustration at the unsolved disappearances of 43 Mexican students who were allegedly kidnapped by drug traffickers while authorities turned a blind eye. The students from the Ayotzinapa teacher tr…
 
-Analysis generated at: Sun Sep 28 01:53:36 UTC 2025
+
+### OTHER on 2025-09-27 06:01
+- Location: The Times of India
+- Description: The Enforcement Directorate filed a chargesheet against Raj Kundra. This action relates to a bitcoin-linked money laundering case. The ED alleges Kundra was a beneficial owner of 285 Bitcoins. These Bitcoins, valued at ₹150.47 crore, came from Amit Bhardwaj. …
+
+
+### OTHER on 2025-09-27 06:00
+- Location: RTE
+- Description: Police in Northern Ireland made more than 5,000 arrests during the past three years under new legislation aimed at tackling violence against women and girls.
+
+
+### HOMICIDE on 2025-09-27 06:00
+- Location: Naturalnews.com
+- Description: <table><tr><td></td><td>(NaturalNews) President Trump designates Antifa as a domestic terrorist group, citing its role in riots, attacks on police and the murder of conservative activi...</td></tr></table>
+
+Analysis generated at: Sun Sep 28 06:19:18 UTC 2025
