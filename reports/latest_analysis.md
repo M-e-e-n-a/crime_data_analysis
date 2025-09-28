@@ -1,10 +1,10 @@
 
-Loaded 61112 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-26 18:15:53
+Loaded 61123 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-27 01:08:29
 
 Incidents by source:
 source
-newsapi           61011
+newsapi           61022
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-09-26 18:15
-- Location: Associated Press
-- Description: Sinclair Broadcast Group has decided to bring Jimmy Kimmel's late-night show back to its ABC affiliate stations. This ends a dayslong TV blackout in dozens of U.S. cities. The blackout followed remarks Kimmel made about conservative activist Charlie Kirk's ki…
+### OTHER on 2025-09-27 01:08
+- Location: Japan Today
+- Description: A U.S. immigration officer shoving a woman in a New York City courthouse to the floor. Protesters dispersed with tear gas outside a Chicago detention center. A woman injured during an arrest in the Boston area. The incidents on Thursday and Friday highlight t…
 
 
-### ROBBERY/THEFT on 2025-09-26 18:15
-- Location: The Times of India
-- Description: Thane: Police arrested four members of Shikalkar gang, who broke into houses across Thane, Pune, Navi Mumbai, Kalyan, and Bhiwandi. The arrests led to.
+### OTHER on 2025-09-27 01:07
+- Location: Balloon-juice.com
+- Description: A brief housekeeping note: Rest in the peace you couldn’t find in life Hunter, we’ll finish the mission for you. May your memory be a blessing for your family and friends. Last night Nettoyeur asked: I grew up during the Cold War and spent a significant part …
 
 
-### OTHER on 2025-09-26 18:12
-- Location: Forbes
-- Description: Amazon MGM Studios has today revealed its latest blockbuster investment which it hopes will help it to take on Hollywood’s heavyweights.
+### HOMICIDE on 2025-09-27 00:53
+- Location: Pajiba.com
+- Description: The deaths of four teenagers -- Amy Ayers (13), Eliza Thomas (17), Jennifer Harbison (17), and Sarah Harbison (15) -- in an Austin, Texas yogurt shop in 1991 have finally been solved. The killings were the subject of a recent...
+Read more...
 
 
-### OTHER on 2025-09-26 18:09
-- Location: The Daily Caller
-- Description: Fox News host Harris Faulkner tore into a Democratic guest on “The Faulkner Focus” Friday while a riot broke out at a ICE facility in Illinois.
+### OTHER on 2025-09-27 00:50
+- Location: The Japan Times
+- Description: Immigration officers are pepper spraying protesters and manhandling detainees in overt displays of force.
 
 
-### ROBBERY/THEFT on 2025-09-26 18:03
-- Location: The Times of India
-- Description: Mumbai: Mumbai police have apprehended a 52-year-old history-sheeter, who was involved in at least 28 cases of burglary, theft, cheating and gambling .
+### HOMICIDE on 2025-09-27 00:48
+- Location: ABC News
+- Description: Austin police have identified a new suspect in the 1991 yogurt shop murders of four teenage girls
 
-Analysis generated at: Sat Sep 27 18:17:32 UTC 2025
+Analysis generated at: Sun Sep 28 01:10:21 UTC 2025
