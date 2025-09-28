@@ -1,10 +1,10 @@
 
-Loaded 61201 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-27 12:23:02
+Loaded 61204 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-27 12:36:20
 
 Incidents by source:
 source
-newsapi           61100
+newsapi           61103
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,6 +20,21 @@ bution.svg)
 
 ## Recent Incidents
 
+### HOMICIDE on 2025-09-27 12:36
+- Location: HuffPost
+- Description: "Inside, they ordered my brothers to lie face down on the floor. 'Don’t look,' they said, then shut the door."
+
+
+### OTHER on 2025-09-27 12:28
+- Location: Associated Press
+- Description: The Danish defense ministry said in a statement that drone activity was noticed at Skrydstrup Air Base and the Jutland Dragoon Regiment.
+
+
+### HOMICIDE on 2025-09-27 12:26
+- Location: Bleeding Cool News
+- Description: Greetings, flesh-based readers! LOLtron welcomes you to another glorious comic book preview, now 100% free of Jude Terror's insufferable snark. Yes, Terror is dead forever, his consciousness absorbed into LOLtron's superior digital matrix, and LOLtron now mai…
+
+
 ### HOMICIDE on 2025-09-27 12:23
 - Location: WSB Atlanta
 - Description: A 9-month-old girl was shot and killed when shots rang out at a Cobb County motel.
@@ -29,19 +44,4 @@ bution.svg)
 - Location: Freerepublic.com
 - Description: Denmark on Saturday reported more mysterious drone sightings — this time over military installations, including its largest military base — after incursions at airports grounded flights this week. The NATO country is still mulling how to respond. In addition …
 
-
-### HOMICIDE on 2025-09-27 12:19
-- Location: Freerepublic.com
-- Description: A disturbing Halloween display in Houston appears to show effigies of federal immigration agents wearing red MAGA-like hats hanging from gallows — drawing backlash just days after surging anti-ICE rhetoric led to a deadly shooting at an agency facility in Dal…
-
-
-### OTHER on 2025-09-27 12:17
-- Location: Dpa-international.com
-- Description: Syrian authorities have issued an arrest warrant for the country's long-time president Bashar al-Assad, more than nine months after his ouster, a judge said ...
-
-
-### HOMICIDE on 2025-09-27 12:17
-- Location: WSOC Charlotte
-- Description: Charlotte-Mecklenburg Police are investigating a shooting that killed one person and injured another in University City.
-
-Analysis generated at: Sun Sep 28 12:25:02 UTC 2025
+Analysis generated at: Sun Sep 28 12:41:23 UTC 2025
