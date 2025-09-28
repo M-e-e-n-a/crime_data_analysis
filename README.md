@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Sep 28 06:19:18 UTC 2025
+Last updated: Sun Sep 28 12:25:02 UTC 2025
 
 ## Latest Analysis
 
-Loaded 61160 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-27 06:03:20
+Loaded 61201 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-27 12:23:02
 
 Incidents by source:
 source
-newsapi           61059
+newsapi           61100
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### DRUG RELATED on 2025-09-27 06:03
-- Location: International Business Times
-- Description: Eleven years after her son vanished, Delfina de la Cruz vented frustration at the unsolved disappearances of 43 Mexican students who were allegedly kidnapped by drug traffickers while authorities turned a blind eye.
+### HOMICIDE on 2025-09-27 12:23
+- Location: WSB Atlanta
+- Description: A 9-month-old girl was shot and killed when shots rang out at a Cobb County motel.
 
 
-### DRUG RELATED on 2025-09-27 06:02
-- Location: Digital Journal
-- Description: Eleven years after her son vanished, Delfina de la Cruz vented frustration at the unsolved disappearances of 43 Mexican students who were allegedly kidnapped by drug traffickers while authorities turned a blind eye. The students from the Ayotzinapa teacher tr…
+### ASSAULT on 2025-09-27 12:20
+- Location: Freerepublic.com
+- Description: Denmark on Saturday reported more mysterious drone sightings — this time over military installations, including its largest military base — after incursions at airports grounded flights this week. The NATO country is still mulling how to respond. In addition …
 
 
-### OTHER on 2025-09-27 06:01
-- Location: The Times of India
-- Description: The Enforcement Directorate filed a chargesheet against Raj Kundra. This action relates to a bitcoin-linked money laundering case. The ED alleges Kundra was a beneficial owner of 285 Bitcoins. These Bitcoins, valued at ₹150.47 crore, came from Amit Bhardwaj. …
+### HOMICIDE on 2025-09-27 12:19
+- Location: Freerepublic.com
+- Description: A disturbing Halloween display in Houston appears to show effigies of federal immigration agents wearing red MAGA-like hats hanging from gallows — drawing backlash just days after surging anti-ICE rhetoric led to a deadly shooting at an agency facility in Dal…
 
 
-### OTHER on 2025-09-27 06:00
-- Location: RTE
-- Description: Police in Northern Ireland made more than 5,000 arrests during the past three years under new legislation aimed at tackling violence against women and girls.
+### OTHER on 2025-09-27 12:17
+- Location: Dpa-international.com
+- Description: Syrian authorities have issued an arrest warrant for the country's long-time president Bashar al-Assad, more than nine months after his ouster, a judge said ...
 
 
-### HOMICIDE on 2025-09-27 06:00
-- Location: Naturalnews.com
-- Description: <table><tr><td></td><td>(NaturalNews) President Trump designates Antifa as a domestic terrorist group, citing its role in riots, attacks on police and the murder of conservative activi...</td></tr></table>
+### HOMICIDE on 2025-09-27 12:17
+- Location: WSOC Charlotte
+- Description: Charlotte-Mecklenburg Police are investigating a shooting that killed one person and injured another in University City.
 
-Analysis generated at: Sun Sep 28 06:19:18 UTC 2025
+Analysis generated at: Sun Sep 28 12:25:02 UTC 2025
