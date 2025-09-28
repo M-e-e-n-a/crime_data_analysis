@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Sep 28 01:10:21 UTC 2025
+Last updated: Sun Sep 28 01:53:36 UTC 2025
 
 ## Latest Analysis
 
-Loaded 61123 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-27 01:08:29
+Loaded 61130 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-27 01:43:30
 
 Incidents by source:
 source
-newsapi           61022
+newsapi           61029
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-09-27 01:08
-- Location: Japan Today
-- Description: A U.S. immigration officer shoving a woman in a New York City courthouse to the floor. Protesters dispersed with tear gas outside a Chicago detention center. A woman injured during an arrest in the Boston area. The incidents on Thursday and Friday highlight t…
+### SHOOTING on 2025-09-27 01:43
+- Location: Thoughtcatalog.com
+- Description: James Gunn has a knack for digging through comic book archives and pulling out the oddballs everyone else ignores. He did it with Guardians of the Galaxy in 2014, turned The Suicide Squad into a bl…
 
 
-### OTHER on 2025-09-27 01:07
-- Location: Balloon-juice.com
-- Description: A brief housekeeping note: Rest in the peace you couldn’t find in life Hunter, we’ll finish the mission for you. May your memory be a blessing for your family and friends. Last night Nettoyeur asked: I grew up during the Cold War and spent a significant part …
+### ASSAULT on 2025-09-27 01:40
+- Location: Raw Story
+- Description: Amid rising concerns over US President Donald Trump’s authoritarianism, including attacks on the media, press freedom advocates on Friday celebrated the dismissal of some federal charges against a journalist indicted during the Biden administration.“This ruli…
 
 
-### HOMICIDE on 2025-09-27 00:53
-- Location: Pajiba.com
-- Description: The deaths of four teenagers -- Amy Ayers (13), Eliza Thomas (17), Jennifer Harbison (17), and Sarah Harbison (15) -- in an Austin, Texas yogurt shop in 1991 have finally been solved. The killings were the subject of a recent...
-Read more...
+### HOMICIDE on 2025-09-27 01:23
+- Location: Vulture
+- Description: Austin Police say they’ve solved the murder of four teen girls, as covered in HBO’s ‘The Yogurt Shop Murders.’ DNA evidence has linked alleged serial killer Robert Eugene Brashers to the case.
 
 
-### OTHER on 2025-09-27 00:50
-- Location: The Japan Times
-- Description: Immigration officers are pepper spraying protesters and manhandling detainees in overt displays of force.
+### HOMICIDE on 2025-09-27 01:15
+- Location: International Business Times
+- Description: Shocked and in tears, relatives on Friday laid to rest two women and a girl whose live-streamed torture and murder caused an outcry in Argentina, where activists are planning a weekend protest against femicide.
 
 
-### HOMICIDE on 2025-09-27 00:48
-- Location: ABC News
-- Description: Austin police have identified a new suspect in the 1991 yogurt shop murders of four teenage girls
+### HOMICIDE on 2025-09-27 01:12
+- Location: Digital Journal
+- Description: Shocked and in tears, relatives on Friday laid to rest two women and a girl whose live-streamed torture and murder caused an outcry in Argentina, where activists are planning a weekend protest against femicide. The bodies of Morena Verdi and Brenda Del Castil…
 
-Analysis generated at: Sun Sep 28 01:10:21 UTC 2025
+Analysis generated at: Sun Sep 28 01:53:36 UTC 2025
