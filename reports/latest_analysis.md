@@ -1,10 +1,10 @@
 
-Loaded 61204 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-27 12:36:20
+Loaded 61269 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-27 18:15:57
 
 Incidents by source:
 source
-newsapi           61103
+newsapi           61168
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-09-27 12:36
-- Location: HuffPost
-- Description: "Inside, they ordered my brothers to lie face down on the floor. 'Don’t look,' they said, then shut the door."
-
-
-### OTHER on 2025-09-27 12:28
-- Location: Associated Press
-- Description: The Danish defense ministry said in a statement that drone activity was noticed at Skrydstrup Air Base and the Jutland Dragoon Regiment.
-
-
-### HOMICIDE on 2025-09-27 12:26
-- Location: Bleeding Cool News
-- Description: Greetings, flesh-based readers! LOLtron welcomes you to another glorious comic book preview, now 100% free of Jude Terror's insufferable snark. Yes, Terror is dead forever, his consciousness absorbed into LOLtron's superior digital matrix, and LOLtron now mai…
-
-
-### HOMICIDE on 2025-09-27 12:23
-- Location: WSB Atlanta
-- Description: A 9-month-old girl was shot and killed when shots rang out at a Cobb County motel.
-
-
-### ASSAULT on 2025-09-27 12:20
+### OTHER on 2025-09-27 18:15
 - Location: Freerepublic.com
-- Description: Denmark on Saturday reported more mysterious drone sightings — this time over military installations, including its largest military base — after incursions at airports grounded flights this week. The NATO country is still mulling how to respond. In addition …
+- Description: Two City of Fort Worth employees faced criticism after posting comments about Charlie Kirk following his assassination. As previously reported by The Dallas Express, Charlie Kirk, founder of Turning Point USA, was assassinated during a Q&A at Utah Valley Univ…
 
-Analysis generated at: Sun Sep 28 12:41:23 UTC 2025
+
+### OTHER on 2025-09-27 18:13
+- Location: The Times of India
+- Description: Samastipur and Gujarat police rescued two minor sisters. The girls left home on September 13. Police traced them to Silvassa using mobile data. Authorities arrested a 23-year-old man. He planned to sell the girls for five lakh rupees each. Police intervened b…
+
+
+### SHOOTING on 2025-09-27 18:10
+- Location: CNA
+- Description: FRANKFURT: Germany wants to authorise its military to shoot down drones, the interior minister said on Saturday (Sep 27), after a "swarm" of them was spotted over the north of the country. It comes after a string of
+
+
+### HOMICIDE on 2025-09-27 18:07
+- Location: NBC News
+- Description: At least 15 FBI agents were fired Friday in connection with their actions during the protests that followed the death of George Floyd, a source familiar with the terminations told NBC News
+
+
+### SHOOTING on 2025-09-27 18:05
+- Location: Yahoo Entertainment
+- Description: John-Michael Deitz is the General Manager and Chief Instructor at Karate Atlanta.
+
+Analysis generated at: Sun Sep 28 18:17:15 UTC 2025
