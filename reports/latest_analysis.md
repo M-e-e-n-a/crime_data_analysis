@@ -1,10 +1,10 @@
 
-Loaded 61280 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-28 01:45:50
+Loaded 61302 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-28 06:12:58
 
 Incidents by source:
 source
-newsapi           61179
+newsapi           61201
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-09-28 01:45
-- Location: The Indian Express
-- Description: He had reportedly experienced breathing troubles while swimming during an outing on a yacht while in Singapore and the certificate of death issued by Singapore authorities recorded the condition leading to death as ‘drowning.’
+### ROBBERY/THEFT on 2025-09-28 06:12
+- Location: BBC News
+- Description: One September night in Birmingham in 1895, the original trophy was taken, never to be seen again.
 
 
-### OTHER on 2025-09-28 01:38
-- Location: NPR
-- Description: The participation of big name funnymen, including Dave Chappelle, Aziz Ansari and Kevin Hart, provoked criticism from fellow comedians and human rights groups.
+### SHOOTING on 2025-09-28 06:05
+- Location: The Local Germany
+- Description: Germany wants to authorise its military to shoot down drones, the interior minister said Saturday, after a "swarm" of them was spotted over the north of the country.
 
 
-### OTHER on 2025-09-28 01:30
-- Location: Fark.com
-- Description: So many police officers have gotten arrested over last three months, police chief reassures Huntsville, AL citizens his remaining cops are fine people
+### OTHER on 2025-09-28 06:00
+- Location: Naturalnews.com
+- Description: The Assassination of Charlie Kirk: A Fabricated Narrative, Eerie Hollywood Parallels, and the Unanswered Questions That Demand the Truth The assassination of conservative leader Charlie Kirk on September 10, 2025, has become one of the most suspicious and hot…
 
 
-### OTHER on 2025-09-28 01:28
-- Location: New York Post
-- Description: A 26-year-old repeat offender was stopped for jumping a turnstile on Friday night when cops discovered the repeat offender was wanted in connection to a Bronx rape, according to the NYPD. Zion Exum, 26, was stopped by police at the Jackson Avenue Subway stati…
+### HOMICIDE on 2025-09-28 05:54
+- Location: The Times of India
+- Description: Argentinians protested in Buenos Aires for justice. Three young women, Lara, Brenda, and Morena, were killed. Their torture and killings were livestreamed on social media. A drug gang murdered them after luring them to a party. Authorities arrested five suspe…
 
 
-### OTHER on 2025-09-28 01:05
-- Location: Memeorandum.com
-- Description: Debbie Elliott / NPR:
-NPR-Ipsos poll: Americans don't broadly support Trump's National Guard deployments  —  Americans are concerned about crime, but don't broadly support President Trump's deployment of the National Guard to police U.S. cities according to a…
+### OTHER on 2025-09-28 05:00
+- Location: 7NEWS.com.au
+- Description: Teenager dies after being found seriously injured7news.com.au
 
-Analysis generated at: Mon Sep 29 01:48:06 UTC 2025
+Analysis generated at: Mon Sep 29 06:22:42 UTC 2025
