@@ -1,10 +1,10 @@
 
-Loaded 61348 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-28 12:10:49
+Loaded 61354 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-28 12:43:00
 
 Incidents by source:
 source
-newsapi           61247
+newsapi           61253
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-09-28 12:10
-- Location: Westernjournal.com
-- Description: The man used a sophisticated disguise and strategy in order to catch his target off guard. He then saw his plan through to its bloody end.
+### OTHER on 2025-09-28 12:43
+- Location: Livejournal.com
+- Description: The first week of fall in the global north continued the steady train of promo and the ever blooming awards consideration. Thanks to festivals, screenings, premieres, and tv appearances the stars were out and about. And there's been an increase in notable loo…
 
 
-### OTHER on 2025-09-28 12:00
-- Location: HuffPost
-- Description: A movement to dismantle the existing school system and remake it in a Christian nationalist image is well on its way across America.
+### OTHER on 2025-09-28 12:35
+- Location: The Times of India
+- Description: An injured man from the September 27 Karur stampede at a TVK rally moved the Madras High Court, seeking to bar the DGP from permitting further political gatherings by party leader Vijay until the fatal incident is fully investigated and safety protocols ensur…
 
 
-### SHOOTING on 2025-09-28 12:00
-- Location: The Denver Post
-- Description: “We feel like people don’t even know that this is going on,” said Oren Segal of the Anti-Defamation League. "We need to understand there are these terrible places online.”
+### HOMICIDE on 2025-09-28 12:33
+- Location: Newser
+- Description: The latest mass shooting in the US involved a shooter opening fire from a boat onto a waterfront bar in North Carolina, police say. Three people were killed and at least eight others injured Saturday night at the American Fish Company, a popular spot along th…
 
 
-### ROBBERY/THEFT on 2025-09-28 12:00
-- Location: Fox News
-- Description: Former FBI agent Greg Rogers analyzes how Tyler Robinson's alleged assassination of Charlie Kirk involved extensive planning but left a substantial trail of evidence.
+### HOMICIDE on 2025-09-28 12:30
+- Location: The Times of India
+- Description: A mass shooting at Southport Yacht Basin in North Carolina left three dead and several injured when a gunman on a boat opened fire on a waterfront eatery Saturday night. Online investigators identified the alleged shooter as Nigel Max Edge, a former military …
 
 
-### SHOOTING on 2025-09-28 11:59
-- Location: 7NEWS.com.au
-- Description: Gunman on the run after daylight park shooting in Broadmeadows, Melbourne7news.com.au
+### OTHER on 2025-09-28 12:30
+- Location: Richmond.com
+- Description: Black unemployment climbed from 6.2% to 7.5% this year, while Black homeownership fell to the lowest level since 2021.
 
-Analysis generated at: Mon Sep 29 12:29:18 UTC 2025
+Analysis generated at: Mon Sep 29 12:49:53 UTC 2025
