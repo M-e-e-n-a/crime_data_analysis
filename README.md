@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Sep 29 06:22:42 UTC 2025
+Last updated: Mon Sep 29 12:29:18 UTC 2025
 
 ## Latest Analysis
 
-Loaded 61302 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-28 06:12:58
+Loaded 61348 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-28 12:10:49
 
 Incidents by source:
 source
-newsapi           61201
+newsapi           61247
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2025-09-28 06:12
-- Location: BBC News
-- Description: One September night in Birmingham in 1895, the original trophy was taken, never to be seen again.
+### HOMICIDE on 2025-09-28 12:10
+- Location: Westernjournal.com
+- Description: The man used a sophisticated disguise and strategy in order to catch his target off guard. He then saw his plan through to its bloody end.
 
 
-### SHOOTING on 2025-09-28 06:05
-- Location: The Local Germany
-- Description: Germany wants to authorise its military to shoot down drones, the interior minister said Saturday, after a "swarm" of them was spotted over the north of the country.
+### OTHER on 2025-09-28 12:00
+- Location: HuffPost
+- Description: A movement to dismantle the existing school system and remake it in a Christian nationalist image is well on its way across America.
 
 
-### OTHER on 2025-09-28 06:00
-- Location: Naturalnews.com
-- Description: The Assassination of Charlie Kirk: A Fabricated Narrative, Eerie Hollywood Parallels, and the Unanswered Questions That Demand the Truth The assassination of conservative leader Charlie Kirk on September 10, 2025, has become one of the most suspicious and hot…
+### SHOOTING on 2025-09-28 12:00
+- Location: The Denver Post
+- Description: “We feel like people don’t even know that this is going on,” said Oren Segal of the Anti-Defamation League. "We need to understand there are these terrible places online.”
 
 
-### HOMICIDE on 2025-09-28 05:54
-- Location: The Times of India
-- Description: Argentinians protested in Buenos Aires for justice. Three young women, Lara, Brenda, and Morena, were killed. Their torture and killings were livestreamed on social media. A drug gang murdered them after luring them to a party. Authorities arrested five suspe…
+### ROBBERY/THEFT on 2025-09-28 12:00
+- Location: Fox News
+- Description: Former FBI agent Greg Rogers analyzes how Tyler Robinson's alleged assassination of Charlie Kirk involved extensive planning but left a substantial trail of evidence.
 
 
-### OTHER on 2025-09-28 05:00
+### SHOOTING on 2025-09-28 11:59
 - Location: 7NEWS.com.au
-- Description: Teenager dies after being found seriously injured7news.com.au
+- Description: Gunman on the run after daylight park shooting in Broadmeadows, Melbourne7news.com.au
 
-Analysis generated at: Mon Sep 29 06:22:42 UTC 2025
+Analysis generated at: Mon Sep 29 12:29:18 UTC 2025
