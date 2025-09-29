@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Sep 29 12:49:53 UTC 2025
+Last updated: Mon Sep 29 18:20:49 UTC 2025
 
 ## Latest Analysis
 
-Loaded 61354 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-28 12:43:00
+Loaded 61447 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-28 18:20:17
 
 Incidents by source:
 source
-newsapi           61253
+newsapi           61346
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-09-28 12:43
-- Location: Livejournal.com
-- Description: The first week of fall in the global north continued the steady train of promo and the ever blooming awards consideration. Thanks to festivals, screenings, premieres, and tv appearances the stars were out and about. And there's been an increase in notable loo…
+### OTHER on 2025-09-28 18:20
+- Location: Screen Rant
+- Description: October 2025 is bringing a variety of movies to theaters, such as a horror sequel, a musical drama, Yorgos Lanthimos' latest movie, and more.
 
 
-### OTHER on 2025-09-28 12:35
-- Location: The Times of India
-- Description: An injured man from the September 27 Karur stampede at a TVK rally moved the Madras High Court, seeking to bar the DGP from permitting further political gatherings by party leader Vijay until the fatal incident is fully investigated and safety protocols ensur…
+### OTHER on 2025-09-28 18:20
+- Location: Thegatewaypundit.com
+- Description: President Trump announced Saturday that, at the request of Homeland Security Secretary Kristi Noem, he was directing Defense Secretary Pete Hegseth to send troops to Portland to protect the city and Immigration and Customs Enforcement (ICE) facilities.
+The po…
 
 
-### HOMICIDE on 2025-09-28 12:33
-- Location: Newser
-- Description: The latest mass shooting in the US involved a shooter opening fire from a boat onto a waterfront bar in North Carolina, police say. Three people were killed and at least eight others injured Saturday night at the American Fish Company, a popular spot along th…
+### HOMICIDE on 2025-09-28 18:15
+- Location: Roanoke Times
+- Description: A gunman opened fire inside a Michigan church during Sunday services, killing at least one person and injuring nine others.
 
 
-### HOMICIDE on 2025-09-28 12:30
-- Location: The Times of India
-- Description: A mass shooting at Southport Yacht Basin in North Carolina left three dead and several injured when a gunman on a boat opened fire on a waterfront eatery Saturday night. Online investigators identified the alleged shooter as Nigel Max Edge, a former military …
-
-
-### OTHER on 2025-09-28 12:30
+### HOMICIDE on 2025-09-28 18:15
 - Location: Richmond.com
-- Description: Black unemployment climbed from 6.2% to 7.5% this year, while Black homeownership fell to the lowest level since 2021.
+- Description: A gunman opened fire inside a Michigan church during Sunday services, killing at least one person and injuring nine others.
 
-Analysis generated at: Mon Sep 29 12:49:53 UTC 2025
+
+### HOMICIDE on 2025-09-28 18:13
+- Location: Israelnationalnews.com
+- Description: A 67-year-old man wearing a kippa was violently assaulted on Saturday, in Yerres (Essonne), while the attacker shouted, 'Dirty Jew, I’m going to kill you.'
+
+Analysis generated at: Mon Sep 29 18:20:49 UTC 2025
