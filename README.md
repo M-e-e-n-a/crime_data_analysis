@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Sep 30 01:42:34 UTC 2025
+Last updated: Tue Sep 30 06:22:20 UTC 2025
 
 ## Latest Analysis
 
-Loaded 61475 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-29 01:38:15
+Loaded 61525 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-29 06:02:08
 
 Incidents by source:
 source
-newsapi           61374
+newsapi           61424
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-09-29 01:38
-- Location: Breitbart News
-- Description: During a Sunday night press conference, Grand Blanc Township Police Chief William Renye indicated two more bodies had been discovered in the burned church, bringing the total number of deaths to four.
-The post Police Chief: Four Dead in Church Attack, Two of …
+### OTHER on 2025-09-29 06:02
+- Location: ABC News (AU)
+- Description: SA Police conducted more than 1,600 metal detector searches at Burnside Village at the weekend, but the state's Guardian for Children and Young People says officials need to "get the balance right" amid a crackdown on knife crime.
 
 
-### HOMICIDE on 2025-09-29 01:30
-- Location: RTE
-- Description: A man who crashed his vehicle through the front doors of a Mormon church in Michigan opened fire with an assault rifle and set the church ablaze, killing at least four people and wounding at least eight others before dying in a shootout with police, officials…
+### OTHER on 2025-09-29 06:00
+- Location: CNN
+- Description: President Donald Trump’s announcement that he will send troops to Portland, agents clashing with protesters near an immigration enforcement building in suburban Chicago, and the expected arrival of the National Guard in Memphis are the most recent examples of…
 
 
-### OTHER on 2025-09-29 01:22
-- Location: New Zealand Herald
-- Description: Four people have been arrested.
+### OTHER on 2025-09-29 06:00
+- Location: Naturalnews.com
+- Description: A U.K.-based American cancer patient, Deborah Anderson, was visited by Thames Valley Police (TVP) over a vague Facebook post that allegedly “upset someone,” with no specific offense cited. The police pressured Anderson to apologize, framing it as protocol – a…
 
 
-### OTHER on 2025-09-29 01:22
-- Location: 7NEWS.com.au
-- Description: Search underway for missing four-year-old boy Gus south of Yunta in remote South Australia7news.com.au
+### OTHER on 2025-09-29 05:59
+- Location: ABC News (AU)
+- Description: Security guards at a Darwin nightclub have been confronted with pepper spray two weekends in a row, during the first month of a Northern Territory-wide trial of the weapons.
 
 
-### SHOOTING on 2025-09-29 01:22
-- Location: ABC News
-- Description: Gunman in Michigan LDS church shooting was a veteran of the Iraq Wargo.com
+### OTHER on 2025-09-29 05:50
+- Location: Independent.ie
+- Description: Police officers in the largest force in the UK could soon be made to tell bosses if they are part of the Freemasons.
 
-Analysis generated at: Tue Sep 30 01:42:34 UTC 2025
+Analysis generated at: Tue Sep 30 06:22:20 UTC 2025
