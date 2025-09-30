@@ -1,10 +1,10 @@
 
-Loaded 61465 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-29 00:56:23
+Loaded 61475 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-29 01:38:15
 
 Incidents by source:
 source
-newsapi           61364
+newsapi           61374
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-09-29 00:56
-- Location: Balloon-juice.com
-- Description: Last night I wrote:  I would also not be surprised if Trump shows up with the press in tow and just turns it into an impromptu rally type of thing. Largely because we never bring all of these senior leaders together in one place. www.washingtonpost.com/nation…
+### HOMICIDE on 2025-09-29 01:38
+- Location: Breitbart News
+- Description: During a Sunday night press conference, Grand Blanc Township Police Chief William Renye indicated two more bodies had been discovered in the burned church, bringing the total number of deaths to four.
+The post Police Chief: Four Dead in Church Attack, Two of …
 
 
-### OTHER on 2025-09-29 00:51
-- Location: Biztoc.com
-- Description: Michigan officials say additional bodies were discovered in the church, raising the total to four fatal victims, plus the suspect, Thomas Jacob Sanford, as the fifth deceased, according to Grand Blanc Township Police Chief William Renye. The investigation int…
+### HOMICIDE on 2025-09-29 01:30
+- Location: RTE
+- Description: A man who crashed his vehicle through the front doors of a Mormon church in Michigan opened fire with an assault rifle and set the church ablaze, killing at least four people and wounding at least eight others before dying in a shootout with police, officials…
 
 
-### HOMICIDE on 2025-09-29 00:46
-- Location: Boston Herald
-- Description: A gunman opened fire inside a Church of Jesus Christ of Latter-day Saints chapel in Michigan during a Sunday service and set the building ablaze, killing at least two people and injuring eight others before police shot him, authorities said.
+### OTHER on 2025-09-29 01:22
+- Location: New Zealand Herald
+- Description: Four people have been arrested.
 
 
-### OTHER on 2025-09-29 00:46
-- Location: Crikey
-- Description: Plus, one reader makes the case for protecting Australian manufacturing.
-The post ‘Distinct odour of boot polish and starch’: Crikey readers on the rise of Andrew Hastie appeared first on Crikey.
+### OTHER on 2025-09-29 01:22
+- Location: 7NEWS.com.au
+- Description: Search underway for missing four-year-old boy Gus south of Yunta in remote South Australia7news.com.au
 
 
-### OTHER on 2025-09-29 00:46
-- Location: Starcommunity.com.au
-- Description: Casey has been rocked by a dramatic surge in crime, with nearly 30,000 offences recorded in just 12 months. The latest figures from the Crime Statistics Agency (CSA) reveal 29,858 offences were recorded in the year to June 2025, a staggering 20.5 per cent inc…
+### SHOOTING on 2025-09-29 01:22
+- Location: ABC News
+- Description: Gunman in Michigan LDS church shooting was a veteran of the Iraq Wargo.com
 
-Analysis generated at: Tue Sep 30 01:04:34 UTC 2025
+Analysis generated at: Tue Sep 30 01:42:34 UTC 2025
