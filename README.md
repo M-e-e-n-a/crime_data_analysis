@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Oct  1 06:27:54 UTC 2025
+Last updated: Wed Oct  1 12:30:27 UTC 2025
 
 ## Latest Analysis
 
-Loaded 61761 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-30 06:20:09
+Loaded 61839 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-30 12:21:48
 
 Incidents by source:
 source
-newsapi           61660
+newsapi           61738
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-09-30 06:20
-- Location: ABC News (AU)
-- Description: Tylere Baker-Pearce, 39, was hit with two additional counts of the alleged offence on Monday after being arrested by counterterrorism police outside the Brisbane Magistrates Court.
+### OTHER on 2025-09-30 12:21
+- Location: ESPN
+- Description: For 30 years, the Oklahoma City bombing -- the most devastating act of homegrown terrorism in history -- has been seared into the identity of the city. Since 2008, the Thunder have been trying to honor it -- and give the fans a new one.
 
 
-### OTHER on 2025-09-30 06:20
-- Location: ABC News (AU)
-- Description: Tylere Baker-Pearce, 39, was hit with two additional counts of the alleged offence on Monday after being arrested by counterterrorism police outside the Brisbane Magistrates Court.
+### OTHER on 2025-09-30 12:19
+- Location: The Indian Express
+- Description: Why is the signing of contract with ISA for exclusive rights to explore Polymetallic Sulphides (PMS) important for your UPSC exam? What significance do topics such as postal ballots, NCRB data on cybercrimes, and theatreisation plan have for both the Prelimin…
 
 
-### HOMICIDE on 2025-09-30 06:17
-- Location: Digital Journal
-- Description: An alleged gunman went on trial Tuesday in Bangkok over the murder of a Cambodian opposition politician whose widow called for a full accounting of who was behind the killing. French national 73-year-old Lim Kimya, a former opposition lawmaker in Cambodia, wa…
+### ASSAULT on 2025-09-30 12:15
+- Location: The Jerusalem Post
+- Description: Police said on Tuesday that evidence suggests the suspect aided the terrorists directly and that an indictment from the prosecution is expected within the...
 
 
-### HOMICIDE on 2025-09-30 06:15
-- Location: International Business Times
-- Description: An alleged gunman went on trial Tuesday in Bangkok over the murder of a Cambodian opposition politician whose widow called for a full accounting of who was behind the killing.
+### SHOOTING on 2025-09-30 12:05
+- Location: Bring Me The News
+- Description: The suspected shooter was one of the wedding party, police say.
 
 
-### HOMICIDE on 2025-09-30 06:07
-- Location: ABC News (AU)
-- Description: Pictured riding on a luxury boat and posing on the deck of a multi-million-dollar home with sweeping views of the Swan River, life appeared good for Jessica Ann Walker in 2022 — but just three years later she would be charged with murdering a man.
+### OTHER on 2025-09-30 12:00
+- Location: The New York Review of Books
+- Description: Shadow Ticket is brisker than Thomas Pynchon’s other work, but it’s full of his usual vaudevillian sensibility, and it addresses his favorite theme: how to live freely under powerful systems of control.
 
-Analysis generated at: Wed Oct  1 06:27:54 UTC 2025
+Analysis generated at: Wed Oct  1 12:30:27 UTC 2025
