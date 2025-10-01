@@ -1,10 +1,10 @@
 
-Loaded 61839 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-30 12:21:48
+Loaded 61841 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-30 12:45:00
 
 Incidents by source:
 source
-newsapi           61738
+newsapi           61740
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,6 +20,16 @@ bution.svg)
 
 ## Recent Incidents
 
+### OTHER on 2025-09-30 12:45
+- Location: Roll Bama Roll
+- Description: All the College Football news, scores, injuries, gaffes, upsets, derps, and snark that you can handle. Polls, Plays of the Week and more.
+
+
+### SHOOTING on 2025-09-30 12:44
+- Location: CNN
+- Description: A second detainee who was shot at an Immigration and Customs Enforcement facility in Dallas last week has died, according to a Homeland Security official and LULAC national spokesperson David Cruz.
+
+
 ### OTHER on 2025-09-30 12:21
 - Location: ESPN
 - Description: For 30 years, the Oklahoma City bombing -- the most devastating act of homegrown terrorism in history -- has been seared into the identity of the city. Since 2008, the Thunder have been trying to honor it -- and give the fans a new one.
@@ -34,14 +44,4 @@ bution.svg)
 - Location: The Jerusalem Post
 - Description: Police said on Tuesday that evidence suggests the suspect aided the terrorists directly and that an indictment from the prosecution is expected within the...
 
-
-### SHOOTING on 2025-09-30 12:05
-- Location: Bring Me The News
-- Description: The suspected shooter was one of the wedding party, police say.
-
-
-### OTHER on 2025-09-30 12:00
-- Location: The New York Review of Books
-- Description: Shadow Ticket is brisker than Thomas Pynchon’s other work, but it’s full of his usual vaudevillian sensibility, and it addresses his favorite theme: how to live freely under powerful systems of control.
-
-Analysis generated at: Wed Oct  1 12:30:27 UTC 2025
+Analysis generated at: Wed Oct  1 12:50:00 UTC 2025
