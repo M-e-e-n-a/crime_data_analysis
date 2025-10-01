@@ -1,10 +1,10 @@
 
-Loaded 61727 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-30 01:53:33
+Loaded 61761 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-30 06:20:09
 
 Incidents by source:
 source
-newsapi           61626
+newsapi           61660
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-09-30 01:53
-- Location: Slashdot.org
-- Description: Detective's shirt brings closure to families of yogurt shop murder victimsAustin American-Statesman 'A great amount of emotion': Family of Austin yogurt shop murder victims share powerful messageAustin American-Statesman New details: How Austin Police identif…
+### OTHER on 2025-09-30 06:20
+- Location: ABC News (AU)
+- Description: Tylere Baker-Pearce, 39, was hit with two additional counts of the alleged offence on Monday after being arrested by counterterrorism police outside the Brisbane Magistrates Court.
 
 
-### SHOOTING on 2025-09-30 01:45
-- Location: Catholicnewsagency.com
-- Description: Nurses who are on strike hold signs in support of the community following a shooting and fire at the Church of Jesus Christ of Latter-day Saints in front of Henry Ford Genesys Hospital on September 29, 2025 in Grand Blanc, Michigan. (Photo by Emily Elconin/Ge…
+### OTHER on 2025-09-30 06:20
+- Location: ABC News (AU)
+- Description: Tylere Baker-Pearce, 39, was hit with two additional counts of the alleged offence on Monday after being arrested by counterterrorism police outside the Brisbane Magistrates Court.
 
 
-### ASSAULT on 2025-09-30 01:44
-- Location: BBC News
-- Description: UN and EU diplomats were travelling with Daniel Noboa, as tensions with Indigenous groups escalate over fuel subsidy cuts.
+### HOMICIDE on 2025-09-30 06:17
+- Location: Digital Journal
+- Description: An alleged gunman went on trial Tuesday in Bangkok over the murder of a Cambodian opposition politician whose widow called for a full accounting of who was behind the killing. French national 73-year-old Lim Kimya, a former opposition lawmaker in Cambodia, wa…
 
 
-### SHOOTING on 2025-09-30 01:41
-- Location: Biztoc.com
-- Description: Grand Blanc Township Police Chief William Renye confirmed the arrest during a news conference on Monday.
+### HOMICIDE on 2025-09-30 06:15
+- Location: International Business Times
+- Description: An alleged gunman went on trial Tuesday in Bangkok over the murder of a Cambodian opposition politician whose widow called for a full accounting of who was behind the killing.
 
 
-### SHOOTING on 2025-09-30 01:39
-- Location: USA Today
-- Description: The shooting occurred as hundreds of people were attending Sunday service in central Michigan, sending shock waves throughout the community.
+### HOMICIDE on 2025-09-30 06:07
+- Location: ABC News (AU)
+- Description: Pictured riding on a luxury boat and posing on the deck of a multi-million-dollar home with sweeping views of the Swan River, life appeared good for Jessica Ann Walker in 2022 — but just three years later she would be charged with murdering a man.
 
-Analysis generated at: Wed Oct  1 01:55:07 UTC 2025
+Analysis generated at: Wed Oct  1 06:27:54 UTC 2025
