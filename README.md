@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Oct  1 01:11:21 UTC 2025
+Last updated: Wed Oct  1 01:55:07 UTC 2025
 
 ## Latest Analysis
 
-Loaded 61721 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-30 01:09:44
+Loaded 61727 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-30 01:53:33
 
 Incidents by source:
 source
-newsapi           61620
+newsapi           61626
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2025-09-30 01:09
+### HOMICIDE on 2025-09-30 01:53
+- Location: Slashdot.org
+- Description: Detective's shirt brings closure to families of yogurt shop murder victimsAustin American-Statesman 'A great amount of emotion': Family of Austin yogurt shop murder victims share powerful messageAustin American-Statesman New details: How Austin Police identif…
+
+
+### SHOOTING on 2025-09-30 01:45
+- Location: Catholicnewsagency.com
+- Description: Nurses who are on strike hold signs in support of the community following a shooting and fire at the Church of Jesus Christ of Latter-day Saints in front of Henry Ford Genesys Hospital on September 29, 2025 in Grand Blanc, Michigan. (Photo by Emily Elconin/Ge…
+
+
+### ASSAULT on 2025-09-30 01:44
+- Location: BBC News
+- Description: UN and EU diplomats were travelling with Daniel Noboa, as tensions with Indigenous groups escalate over fuel subsidy cuts.
+
+
+### SHOOTING on 2025-09-30 01:41
+- Location: Biztoc.com
+- Description: Grand Blanc Township Police Chief William Renye confirmed the arrest during a news conference on Monday.
+
+
+### SHOOTING on 2025-09-30 01:39
 - Location: USA Today
-- Description: Illinois Gov. JB Pritzker said that the authorities requested troops to protect federal agents. Pentagon confirms the request has been made.
+- Description: The shooting occurred as hundreds of people were attending Sunday service in central Michigan, sending shock waves throughout the community.
 
-
-### OTHER on 2025-09-30 01:07
-- Location: KTVU San Francisco
-- Description: An elementary school counselor was arrested for sex acts with a minor under 14 years old, according to the Sonoma County Sheriff's Office.
-
-
-### HOMICIDE on 2025-09-30 01:04
-- Location: The Denver Post
-- Description: Rafael Alberto Buitrago and his dog, Nova, were fatally struck by Michael Graham-Hyde on April 3.
-
-
-### OTHER on 2025-09-30 01:00
-- Location: Dramabeans.com
-- Description: The Murky Stream drops us into a miserable port ruled by thieves and characterized by corruption and violence. But bleak as it may seem, there are still a few people who persist in standing up against the injustice around them. Can they change the course of t…
-
-
-### OTHER on 2025-09-30 00:55
-- Location: Freerepublic.com
-- Description: NBC’s long-running crime drama "Law & Order: Special Victims Unit" featured immigration officers blocking the police from investigating a rape by trying to arrest an illegal immigrant witness. Thursday’s episode, "In the Wind," followed a building superintend…
-
-Analysis generated at: Wed Oct  1 01:11:21 UTC 2025
+Analysis generated at: Wed Oct  1 01:55:07 UTC 2025
