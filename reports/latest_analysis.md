@@ -1,10 +1,10 @@
 
-Loaded 61710 incidents
-Date range: 2024-01-01 00:00:00 to 2025-09-29 18:18:40
+Loaded 61721 incidents
+Date range: 2024-01-01 00:00:00 to 2025-09-30 01:09:44
 
 Incidents by source:
 source
-newsapi           61609
+newsapi           61620
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-09-29 18:18
-- Location: NBC News
-- Description: Officials provided a timeline of the 1991 murders of four teenaged girls in Austin, Texas, after identifying a suspect in the killings last week, and described him on Monday as a potential serial killer who is linked to multiple cases around the country.
+### ASSAULT on 2025-09-30 01:09
+- Location: USA Today
+- Description: Illinois Gov. JB Pritzker said that the authorities requested troops to protect federal agents. Pentagon confirms the request has been made.
 
 
-### HOMICIDE on 2025-09-29 18:12
-- Location: Fox News
-- Description: Officials say the North Carolina bar shooting that left three dead was highly premeditated, with the suspect tied to anti-LGBTQ claims.
+### OTHER on 2025-09-30 01:07
+- Location: KTVU San Francisco
+- Description: An elementary school counselor was arrested for sex acts with a minor under 14 years old, according to the Sonoma County Sheriff's Office.
 
 
-### HOMICIDE on 2025-09-29 18:11
-- Location: The Times of India
-- Description: An FIR filed in the Karur stampede incident that killed 41 and injured 60 blames Tamilaga Vettri Kazhagam (TVK) leaders for delaying actor-politician Vijay’s rally to attract larger crowds. Though no case is filed against Vijay, the FIR cites poor crowd contr…
+### HOMICIDE on 2025-09-30 01:04
+- Location: The Denver Post
+- Description: Rafael Alberto Buitrago and his dog, Nova, were fatally struck by Michael Graham-Hyde on April 3.
 
 
-### OTHER on 2025-09-29 18:09
-- Location: Financial Post
-- Description: MALVERN, Pa. — 3Si Security Systems, a leader in security technologies that deliver verified felony-level crime alerts and intelligence to law enforcement and help organizations protect their assets and people, is proud to announce that Peter Giacalone has jo…
+### OTHER on 2025-09-30 01:00
+- Location: Dramabeans.com
+- Description: The Murky Stream drops us into a miserable port ruled by thieves and characterized by corruption and violence. But bleak as it may seem, there are still a few people who persist in standing up against the injustice around them. Can they change the course of t…
 
 
-### OTHER on 2025-09-29 18:08
-- Location: Reason
-- Description: The agency has been expanding its surveillance capabilities without a public explanation.
+### OTHER on 2025-09-30 00:55
+- Location: Freerepublic.com
+- Description: NBC’s long-running crime drama "Law & Order: Special Victims Unit" featured immigration officers blocking the police from investigating a rape by trying to arrest an illegal immigrant witness. Thursday’s episode, "In the Wind," followed a building superintend…
 
-Analysis generated at: Tue Sep 30 18:19:13 UTC 2025
+Analysis generated at: Wed Oct  1 01:11:21 UTC 2025
