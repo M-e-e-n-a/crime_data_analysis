@@ -1,10 +1,10 @@
 
-Loaded 61983 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-01 06:19:04
+Loaded 62060 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-01 12:25:16
 
 Incidents by source:
 source
-newsapi           61882
+newsapi           61959
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-10-01 06:19
-- Location: ABC News (AU)
-- Description: Authorities are searching for a missing four-year-old boy on a sheep grazing station in the mid-north of South Australia. Here's what we know about the search so far.
+### OTHER on 2025-10-01 12:25
+- Location: International Business Times
+- Description: A viral video shows Kyle Kania shouting racist insults at Hispanic individuals. Internet sleuths identified him as a sales rep for Polymershapes.
 
 
-### OTHER on 2025-10-01 06:17
-- Location: ComputerWeekly.com
-- Description: A hybrid quantum solver accessed through D-Wave’s cloud has been used to halve police incident response times in Wales
+### OTHER on 2025-10-01 12:23
+- Location: International Business Times
+- Description: Zhimin Qian pleaded guilty in UK court over a £5bn Bitcoin scam that defrauded 128,000 victims. Police seized 61,000 BTC in world's largest crypto bust, exposing money laundering risks. Sentencing due 10 November 2025.
 
 
-### OTHER on 2025-10-01 06:16
-- Location: Antaranews.com
-- Description: The Ministry of Forestry has named a resident of Tanjung Jabung District, identified by the initials YL, as a suspect in a case involving the illegal sale of ...
+### OTHER on 2025-10-01 12:22
+- Location: Breitbart News
+- Description: In a sweeping weeklong operation across Central Florida, U.S. Immigration and Customs Enforcement (ICE) agents — bolstered by state and local law enforcement partners — arrested more than 400 illegal aliens. These include individuals with prior convictions fo…
 
 
-### SHOOTING on 2025-10-01 06:01
-- Location: DW (English)
-- Description: Patel gave the firearms during a visit to the Pacific island country earlier this year. New Zealand has strict rules on weapons, which have been tightened following a mass shooting in 2019. Director of the US Federal Bureau of Investigation, Kash Patel, gifte…
+### HOMICIDE on 2025-10-01 12:20
+- Location: New York Post
+- Description: Laken Snelling's roommates allegedly heard loud noises coming from her bedroom around the time she gave birth -- and later found the newborn stuffed in the closet when the University of Kentucky cheerleader left to go get McDonalds.
 
 
-### OTHER on 2025-10-01 06:00
-- Location: Smallwarsjournal.com
-- Description: Introduction Insurgencies have existed throughout history, shaping the dynamics of state governance and stability across various regions. According to the Central Intelligence Agency, an insurgency is a political-military activity involving the control of ter…
+### HOMICIDE on 2025-10-01 12:16
+- Location: RTE
+- Description: The family of a nationalist councillor murdered more than 50 years ago has received an apology from police.
 
-Analysis generated at: Thu Oct  2 06:21:18 UTC 2025
+Analysis generated at: Thu Oct  2 12:27:08 UTC 2025
