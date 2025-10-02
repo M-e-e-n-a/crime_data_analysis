@@ -1,10 +1,10 @@
 
-Loaded 61950 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-01 01:13:33
+Loaded 61983 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-01 06:19:04
 
 Incidents by source:
 source
-newsapi           61849
+newsapi           61882
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-10-01 01:13
-- Location: NBC News
-- Description: The sister of a Texas man whose wife allegedly killed him with a fatal dose of insulin testified Tuesday that before his 2023 death she’d grown increasingly worried about him after learning of Sarah Hartsfield’s ominous past
+### OTHER on 2025-10-01 06:19
+- Location: ABC News (AU)
+- Description: Authorities are searching for a missing four-year-old boy on a sheep grazing station in the mid-north of South Australia. Here's what we know about the search so far.
 
 
-### HOMICIDE on 2025-10-01 01:10
-- Location: NBC News
-- Description: Craig Hayden, 72, was killed as he tried to help another worshipper escape during a shooting at their Michigan church over the weekend, a Hayden family member said Tuesday.
+### OTHER on 2025-10-01 06:17
+- Location: ComputerWeekly.com
+- Description: A hybrid quantum solver accessed through D-Wave’s cloud has been used to halve police incident response times in Wales
 
 
-### HOMICIDE on 2025-10-01 01:09
-- Location: Fox News
-- Description: Enhanced security including drones and counter-snipers protected a Turning Point USA event in Utah after founder Charlie Kirk was shot and killed earlier this month.
+### OTHER on 2025-10-01 06:16
+- Location: Antaranews.com
+- Description: The Ministry of Forestry has named a resident of Tanjung Jabung District, identified by the initials YL, as a suspect in a case involving the illegal sale of ...
 
 
-### SHOOTING on 2025-10-01 01:02
-- Location: CBS News
-- Description: One person was shot outside Ross Park Mall in Ross Township on Tuesday night, police said.
+### SHOOTING on 2025-10-01 06:01
+- Location: DW (English)
+- Description: Patel gave the firearms during a visit to the Pacific island country earlier this year. New Zealand has strict rules on weapons, which have been tightened following a mass shooting in 2019. Director of the US Federal Bureau of Investigation, Kash Patel, gifte…
 
 
-### OTHER on 2025-10-01 00:53
-- Location: Balloon-juice.com
-- Description: I want to start with a brief take on the ignorance on parade we saw this morning. This bit, and the one in the next skeet, need to be fully unpacked. Hegseth: “You should not pay for an earnest mistake for your entire career. That’s why today, at my direction…
+### OTHER on 2025-10-01 06:00
+- Location: Smallwarsjournal.com
+- Description: Introduction Insurgencies have existed throughout history, shaping the dynamics of state governance and stability across various regions. According to the Central Intelligence Agency, an insurgency is a political-military activity involving the control of ter…
 
-Analysis generated at: Thu Oct  2 01:43:08 UTC 2025
+Analysis generated at: Thu Oct  2 06:21:18 UTC 2025
