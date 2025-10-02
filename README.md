@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Oct  2 12:27:08 UTC 2025
+Last updated: Thu Oct  2 12:44:55 UTC 2025
 
 ## Latest Analysis
 
-Loaded 62060 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-01 12:25:16
+Loaded 62064 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-01 12:41:54
 
 Incidents by source:
 source
-newsapi           61959
+newsapi           61963
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
+### ROBBERY/THEFT on 2025-10-01 12:41
+- Location: HackRead
+- Description: Zhimin Qian, the 'Bitcoin Queen,' pleads guilty in the UK after police seized over £5 billion in stolen crypto, the world's largest crypto seizure. Details on the Ponzi scam and fight for the funds.
+
+
+### HOMICIDE on 2025-10-01 12:41
+- Location: Newser
+- Description: The man charged with trying to kill Virginia city councilman Lee Vogler in a July 30 gasoline attack reportedly told police he intended to murder his wife's lover. Danville Police Sgt. Gerrit Clay took the stand during a pre-trial hearing Tuesday, telling a j…
+
+
+### HOMICIDE on 2025-10-01 12:36
+- Location: International Business Times
+- Description: A high school student from Washington was arrested and charged in relation to an alleged school shooting plot.
+
+
+### ROBBERY/THEFT on 2025-10-01 12:35
+- Location: BBC News
+- Description: A psychiatrist says Nicholas Daniel was experiencing "acute psychosis" at the time of the robbery.
+
+
 ### OTHER on 2025-10-01 12:25
 - Location: International Business Times
 - Description: A viral video shows Kyle Kania shouting racist insults at Hispanic individuals. Internet sleuths identified him as a sales rep for Polymershapes.
 
-
-### OTHER on 2025-10-01 12:23
-- Location: International Business Times
-- Description: Zhimin Qian pleaded guilty in UK court over a £5bn Bitcoin scam that defrauded 128,000 victims. Police seized 61,000 BTC in world's largest crypto bust, exposing money laundering risks. Sentencing due 10 November 2025.
-
-
-### OTHER on 2025-10-01 12:22
-- Location: Breitbart News
-- Description: In a sweeping weeklong operation across Central Florida, U.S. Immigration and Customs Enforcement (ICE) agents — bolstered by state and local law enforcement partners — arrested more than 400 illegal aliens. These include individuals with prior convictions fo…
-
-
-### HOMICIDE on 2025-10-01 12:20
-- Location: New York Post
-- Description: Laken Snelling's roommates allegedly heard loud noises coming from her bedroom around the time she gave birth -- and later found the newborn stuffed in the closet when the University of Kentucky cheerleader left to go get McDonalds.
-
-
-### HOMICIDE on 2025-10-01 12:16
-- Location: RTE
-- Description: The family of a nationalist councillor murdered more than 50 years ago has received an apology from police.
-
-Analysis generated at: Thu Oct  2 12:27:08 UTC 2025
+Analysis generated at: Thu Oct  2 12:44:55 UTC 2025
