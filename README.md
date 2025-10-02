@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Oct  2 12:44:55 UTC 2025
+Last updated: Thu Oct  2 18:20:14 UTC 2025
 
 ## Latest Analysis
 
-Loaded 62064 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-01 12:41:54
+Loaded 62157 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-01 18:12:19
 
 Incidents by source:
 source
-newsapi           61963
+newsapi           62056
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2025-10-01 12:41
-- Location: HackRead
-- Description: Zhimin Qian, the 'Bitcoin Queen,' pleads guilty in the UK after police seized over £5 billion in stolen crypto, the world's largest crypto seizure. Details on the Ponzi scam and fight for the funds.
+### HOMICIDE on 2025-10-01 18:12
+- Location: Fox News
+- Description: Derrick Alling, 39, faces first-degree murder charges for allegedly beating his mother Carolyn Alling to death with a gardening tool in Missouri after demanding his inheritance.
 
 
-### HOMICIDE on 2025-10-01 12:41
-- Location: Newser
-- Description: The man charged with trying to kill Virginia city councilman Lee Vogler in a July 30 gasoline attack reportedly told police he intended to murder his wife's lover. Danville Police Sgt. Gerrit Clay took the stand during a pre-trial hearing Tuesday, telling a j…
+### ASSAULT on 2025-10-01 18:10
+- Location: Gizmodo.com
+- Description: Several NATO countries have seen mysterious drones flying in their airspace that many have pinned on Russian intrusions.
 
 
-### HOMICIDE on 2025-10-01 12:36
-- Location: International Business Times
-- Description: A high school student from Washington was arrested and charged in relation to an alleged school shooting plot.
+### HOMICIDE on 2025-10-01 18:05
+- Location: Screenanarchy.com
+- Description: A police officer tracks a killer after her husband, a highway patrolman, becomes one of his victims.
+ 
+ [Read the whole post on screenanarchy.com...]
 
 
-### ROBBERY/THEFT on 2025-10-01 12:35
-- Location: BBC News
-- Description: A psychiatrist says Nicholas Daniel was experiencing "acute psychosis" at the time of the robbery.
+### OTHER on 2025-10-01 18:03
+- Location: Freerepublic.com
+- Description: SNIP Known in the Armenian community as “psycho Barbie,” Nadine had allegedly stalked an ex. She was also accused of keying his new girlfriend’s car and showing up at his home on Christmas Day in 2010 with her two children to try to win him back, according to…
 
 
-### OTHER on 2025-10-01 12:25
-- Location: International Business Times
-- Description: A viral video shows Kyle Kania shouting racist insults at Hispanic individuals. Internet sleuths identified him as a sales rep for Polymershapes.
+### OTHER on 2025-10-01 18:00
+- Location: CNET
+- Description: Netflix is offering a bounty of new releases this month.
 
-Analysis generated at: Thu Oct  2 12:44:55 UTC 2025
+Analysis generated at: Thu Oct  2 18:20:14 UTC 2025
