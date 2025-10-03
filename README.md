@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Oct  3 12:27:39 UTC 2025
+Last updated: Fri Oct  3 12:45:04 UTC 2025
 
 ## Latest Analysis
 
-Loaded 62304 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-02 12:27:12
+Loaded 62305 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-02 12:30:58
 
 Incidents by source:
 source
-newsapi           62203
+newsapi           62204
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -23,6 +23,11 @@ bution.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### HOMICIDE on 2025-10-02 12:30
+- Location: Shtfplan.com
+- Description: “The era of the Department of Defense is over… From this moment forward, the only mission of the newly restored Department of War is this: warfighting… We untie the hands of our warfighters to intimidate, demoralize, hunt and kill the enemies of our country… …
+
 
 ### OTHER on 2025-10-02 12:27
 - Location: Time
@@ -43,9 +48,4 @@ bution.svg)
 - Location: The Indian Express
 - Description: The aspect of religion seems to have played a major role here as donating to the family of the attacker -- seen as 'two more victims' -- struck a chord with churchgoers.
 
-
-### OTHER on 2025-10-02 12:11
-- Location: The Star Online
-- Description: KUALA LUMPUR: Five Malaysian human rights lawyers are currently in Amman, Jordan, to ensure transparent and fair legal protection for Malaysian delegates of the Global Sumud Flotilla (GSF) detained by Israeli forces. Read full story
-
-Analysis generated at: Fri Oct  3 12:27:39 UTC 2025
+Analysis generated at: Fri Oct  3 12:45:04 UTC 2025
