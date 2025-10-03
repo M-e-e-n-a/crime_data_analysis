@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Oct  3 06:20:31 UTC 2025
+Last updated: Fri Oct  3 12:27:39 UTC 2025
 
 ## Latest Analysis
 
-Loaded 62218 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-02 06:12:20
+Loaded 62304 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-02 12:27:12
 
 Incidents by source:
 source
-newsapi           62117
+newsapi           62203
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-10-02 06:12
-- Location: Digital Journal
-- Description: Turkish opposition leaders say the government has found a new way to silence dissent: pressuring its mayors and local officials to defect to the ruling party. Turkey’s main opposition, the Republican People’s Party (CHP), is currently battling a string of wha…
+### OTHER on 2025-10-02 12:27
+- Location: Time
+- Description: The order, experts warn, could target protestors' constitutional right to protest and free speech under the guise of anti-terrorism.
 
 
-### OTHER on 2025-10-02 06:12
-- Location: International Business Times
-- Description: Turkish opposition leaders say the government has found a new way to silence dissent: pressuring its mayors and local officials to defect to the ruling party.
+### HOMICIDE on 2025-10-02 12:23
+- Location: The Times of India
+- Description: Assam Police have charged Zubeen Garg's manager Siddharth Sharma and festival organiser Shyamkanu Mahanta with murder in connection with the singer's death in Singapore. Arrested from Delhi, the duo is now in 14-day police custody. Section 103 of the BNS, dea…
 
 
-### OTHER on 2025-10-02 06:06
-- Location: ABC News
-- Description: A Japanese nationalist party led by fiery anti-globalist Sohei Kamiya was among the biggest winners in this summer’s parliamentary election
+### HOMICIDE on 2025-10-02 12:22
+- Location: New York Post
+- Description: The gunman allegedly "pulled out a pulled a shotgun out of his bag and shot him in the torso area."
 
 
-### HOMICIDE on 2025-10-02 06:02
-- Location: ABC News (AU)
-- Description: A retired detective is urging the man who once confessed to Cheryl Grimmer's murder to hand himself in, as volunteers search for her remains in Wollongong.
+### SHOOTING on 2025-10-02 12:12
+- Location: The Indian Express
+- Description: The aspect of religion seems to have played a major role here as donating to the family of the attacker -- seen as 'two more victims' -- struck a chord with churchgoers.
 
 
-### OTHER on 2025-10-02 06:00
-- Location: Dramabeans.com
-- Description: The contract marriage trope is back in dramaland, and our incognito heroine gets the deal of a lifetime as a chaebol bride. But not everyone in her new household is happy with this contract union, and she just might have signed her life away on the marriage r…
+### OTHER on 2025-10-02 12:11
+- Location: The Star Online
+- Description: KUALA LUMPUR: Five Malaysian human rights lawyers are currently in Amman, Jordan, to ensure transparent and fair legal protection for Malaysian delegates of the Global Sumud Flotilla (GSF) detained by Israeli forces. Read full story
 
-Analysis generated at: Fri Oct  3 06:20:31 UTC 2025
+Analysis generated at: Fri Oct  3 12:27:39 UTC 2025
