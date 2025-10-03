@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Oct  3 01:42:48 UTC 2025
+Last updated: Fri Oct  3 06:20:31 UTC 2025
 
 ## Latest Analysis
 
-Loaded 62174 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-02 01:39:32
+Loaded 62218 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-02 06:12:20
 
 Incidents by source:
 source
-newsapi           62073
+newsapi           62117
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-10-02 01:39
-- Location: CBS News
-- Description: A judge in Idaho is blocking the release of graphic photos taken by investigators after Bryan Kohberger killed four University of Idaho students in 2022.
-
-
-### OTHER on 2025-10-02 01:31
-- Location: Thesmokinggun.com
-- Description: OCTOBER 1--Minutes after vandalizing 17 cars in a Missouri college parking lot, a 19-year-old sophomore had a lengthy ChatGPT conversation during which he confessed to the crime, asked about the pos
-
-
-### HOMICIDE on 2025-10-02 01:10
-- Location: ABC News
-- Description: Federal prosecutors have charged a man in connection with a gang-related shooting at a Brooklyn bar this summer that left three people dead and ten injured
-
-
-### OTHER on 2025-10-02 01:01
-- Location: CBS News
-- Description: The judge said the state will "quite likely" be able to prove its claims that the money would be improperly diverted.
-
-
-### OTHER on 2025-10-02 00:47
+### OTHER on 2025-10-02 06:12
 - Location: Digital Journal
-- Description: Israeli naval forces on Wednesday intercepted a flotilla carrying aid to Gaza, ending its latest bid to break an Israeli blockade of the war-battered Palestinian territory. The Global Sumud Flotilla — involving around 45 vessels carrying politicians and activ…
+- Description: Turkish opposition leaders say the government has found a new way to silence dissent: pressuring its mayors and local officials to defect to the ruling party. Turkey’s main opposition, the Republican People’s Party (CHP), is currently battling a string of wha…
 
-Analysis generated at: Fri Oct  3 01:42:48 UTC 2025
+
+### OTHER on 2025-10-02 06:12
+- Location: International Business Times
+- Description: Turkish opposition leaders say the government has found a new way to silence dissent: pressuring its mayors and local officials to defect to the ruling party.
+
+
+### OTHER on 2025-10-02 06:06
+- Location: ABC News
+- Description: A Japanese nationalist party led by fiery anti-globalist Sohei Kamiya was among the biggest winners in this summer’s parliamentary election
+
+
+### HOMICIDE on 2025-10-02 06:02
+- Location: ABC News (AU)
+- Description: A retired detective is urging the man who once confessed to Cheryl Grimmer's murder to hand himself in, as volunteers search for her remains in Wollongong.
+
+
+### OTHER on 2025-10-02 06:00
+- Location: Dramabeans.com
+- Description: The contract marriage trope is back in dramaland, and our incognito heroine gets the deal of a lifetime as a chaebol bride. But not everyone in her new household is happy with this contract union, and she just might have signed her life away on the marriage r…
+
+Analysis generated at: Fri Oct  3 06:20:31 UTC 2025
