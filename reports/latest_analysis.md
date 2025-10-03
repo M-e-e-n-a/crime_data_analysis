@@ -1,10 +1,10 @@
 
-Loaded 62157 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-01 18:12:19
+Loaded 62171 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-02 01:01:09
 
 Incidents by source:
 source
-newsapi           62056
+newsapi           62070
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,30 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-10-01 18:12
-- Location: Fox News
-- Description: Derrick Alling, 39, faces first-degree murder charges for allegedly beating his mother Carolyn Alling to death with a gardening tool in Missouri after demanding his inheritance.
+### OTHER on 2025-10-02 01:01
+- Location: CBS News
+- Description: The judge said the state will "quite likely" be able to prove its claims that the money would be improperly diverted.
 
 
-### ASSAULT on 2025-10-01 18:10
-- Location: Gizmodo.com
-- Description: Several NATO countries have seen mysterious drones flying in their airspace that many have pinned on Russian intrusions.
+### OTHER on 2025-10-02 00:47
+- Location: Digital Journal
+- Description: Israeli naval forces on Wednesday intercepted a flotilla carrying aid to Gaza, ending its latest bid to break an Israeli blockade of the war-battered Palestinian territory. The Global Sumud Flotilla — involving around 45 vessels carrying politicians and activ…
 
 
-### HOMICIDE on 2025-10-01 18:05
-- Location: Screenanarchy.com
-- Description: A police officer tracks a killer after her husband, a highway patrolman, becomes one of his victims.
- 
- [Read the whole post on screenanarchy.com...]
+### SHOOTING on 2025-10-02 00:44
+- Location: Breitbart News
+- Description: Wednesday on CNN's "OutFront," Los Angeles Mayor Karen Bass (D) said the Trump administration wanted to "go in primarily inner city communities and shoot people."
+The post Karen Bass: Trump Administration Wants to Go into Inner Cities and ‘Shoot People’ appea…
 
 
-### OTHER on 2025-10-01 18:03
-- Location: Freerepublic.com
-- Description: SNIP Known in the Armenian community as “psycho Barbie,” Nadine had allegedly stalked an ex. She was also accused of keying his new girlfriend’s car and showing up at his home on Christmas Day in 2010 with her two children to try to win him back, according to…
+### SHOOTING on 2025-10-02 00:43
+- Location: Starweekly.com.au
+- Description: Police have arrested a man following a shooting in Broadmeadows on Sunday, September 28. Emergency services were called to Pascoe Vale Road after reports a man had suffered a gunshot wound about 3.45pm. A 22-year-old Meadow Heights man was taken to hospital w…
 
 
-### OTHER on 2025-10-01 18:00
-- Location: CNET
-- Description: Netflix is offering a bounty of new releases this month.
+### OTHER on 2025-10-02 00:41
+- Location: Matadornetwork.com
+- Description: These are the most mysterious places in the Midwest US, from creepy museums to beaches with unexplained natural phenomena.
 
-Analysis generated at: Thu Oct  2 18:20:14 UTC 2025
+Analysis generated at: Fri Oct  3 01:02:24 UTC 2025
