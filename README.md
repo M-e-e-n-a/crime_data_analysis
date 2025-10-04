@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Oct  4 00:59:48 UTC 2025
+Last updated: Sat Oct  4 01:39:37 UTC 2025
 
 ## Latest Analysis
 
-Loaded 62401 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-03 00:59:13
+Loaded 62406 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-03 01:32:33
 
 Incidents by source:
 source
-newsapi           62300
+newsapi           62305
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,30 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-10-03 00:59
-- Location: Balloon-juice.com
-- Description: (Image by NEIVANMADE) Apparently I survived. The cost: The woman who was killed in russian attack on Balaklia in Kharkiv region yesterday, had survived World War II as a child and was wounded during those times, according to the Kharkiv Regional Prosecutor’s …
+### ASSAULT on 2025-10-03 01:32
+- Location: ABC News (AU)
+- Description: A witness says the attacker crashed his car and then began "stabbing anyone near him" before trying to get into the synagogue.
 
 
-### SHOOTING on 2025-10-03 00:52
-- Location: Rpnradio.com
-- Description: BACOLOD CITY – The Bacolod City Police Office (BCPO) is aiming to achieve zero major crime incidents during the month-long celebration of the 46th MassKara 2025, despite the non-implementation of a gun ban. BCPO Director PCol. Joeresty Coronica expressed to t…
+### SHOOTING on 2025-10-03 01:31
+- Location: CBC News
+- Description: A cinema west of Toronto says it is cancelling screenings of South Asian films after an arson attempt and a shooting on its property in the past week.
 
 
-### ROBBERY/THEFT on 2025-10-03 00:20
-- Location: Fox News
-- Description: Rep. Ashley Hinson demands accountability from Des Moines Public Schools chair Jackie Norris over hiring Ian Roberts, former superintendent arrested by ICE.
+### OTHER on 2025-10-03 01:13
+- Location: Raw Story
+- Description: Former D.C. Metropolitan Police officer Michael Fanone, who was injured defending the Capitol on Jan. 6, had nothing but contempt for Secretary of Defense Pete Hegseth for his use of the National Guard to take over U.S. cities.He unloaded on the former Fox Ne…
 
 
-### ASSAULT on 2025-10-03 00:20
-- Location: Sky.com
-- Description: The hip-hop mogul says he is no longer running from his "many mistakes". He also addresses the infamous CCTV footage from an LA hotel in 2016, which showed him attacking his former girlfriend Cassie Ventura.
+### OTHER on 2025-10-03 01:07
+- Location: The Times of India
+- Description: Israel's navy intercepted the Gaza-bound Global Sumud Flotilla, detaining over 400 activists including Greta Thunberg, drawing global condemnation. Prime Minister Netanyahu praised the action, calling it vital to prevent an "incursion." While Israel prepares …
 
 
-### ASSAULT on 2025-10-03 00:19
-- Location: Crooksandliars.com
-- Description: You know what’s a great thing to do when you’re visiting a foreign country in a diplomatic role as part of a joint effort to fight crime? Bring some illegal weapons.
-At least that’s what FBI Director Kash Patel apparently believes.
-When visiting New Zealand t…
+### HOMICIDE on 2025-10-03 01:00
+- Location: Screen Rant
+- Description: Here's what we know of the horrifying crimes of serial killer Ed Gein, including his confirmed victims and suspected involvement in other cases.
 
-Analysis generated at: Sat Oct  4 00:59:48 UTC 2025
+Analysis generated at: Sat Oct  4 01:39:37 UTC 2025
