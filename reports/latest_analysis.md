@@ -1,10 +1,10 @@
 
-Loaded 62457 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-03 06:10:00
+Loaded 62535 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-03 12:23:28
 
 Incidents by source:
 source
-newsapi           62356
+newsapi           62434
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-10-03 06:10
-- Location: The Star Online
-- Description: KUALA LUMPUR: Some 7,013 summonses have been issued in the first two days of the Law Compliance Operation's (Ops PUU) enforcement phase. Read full story
+### ASSAULT on 2025-10-03 12:23
+- Location: Fox News
+- Description: The Manchester synagogue terror suspect has been identified by police as Jihad Al-Shamie, a 35-year-old British citizen of Syrian descent.
 
 
-### HOMICIDE on 2025-10-03 06:00
-- Location: ABC News (AU)
-- Description: Rohen James Hanson will spend at least the next 17 years behind bars for murdering his partner in a remote cabin on the NSW Mid North Coast in 2021.
+### OTHER on 2025-10-03 12:18
+- Location: The Times of India
+- Description: Missed opportunities to control militant preacher Jarnail Singh Bhindranwale tragically shaped 1984. Indira Gandhi's attempts for Rajiv to meet Bhindranwale were twice cancelled due to safety concerns, infuriating him. This, coupled with Bhindranwale's quick …
 
 
-### OTHER on 2025-10-03 06:00
-- Location: Naturalnews.com
-- Description: Italian unions call a general strike over the Gaza flotilla interception. Dock workers are refusing to handle Israeli-connected ships in protest. Protests and blockades have erupted in cities and railway stations across Italy. The action was triggered by Isra…
+### HOMICIDE on 2025-10-03 12:18
+- Location: Mediatakeout.com
+- Description: Kim Kardashian says she was left shaken after investigators told her someone she knows allegedly wanted her dead. “I got a call from investigators,” Kim says in the trailer for Season 7 of The Kardashians. “Someone extremely close to me put a hit out on my li…
 
 
-### OTHER on 2025-10-03 05:57
-- Location: TheJournal.ie
-- Description: Airports in Denmark, Norway and Poland have recently suspended flights due to unidentified drones.
+### ASSAULT on 2025-10-03 12:16
+- Location: Livejournal.com
+- Description: Sean Combs is scheduled to be sentenced on Friday. On Thursday, he submitted a letter to the judge asking for leniency, claiming that this has been the hardest two years of his life but he has been "humbled" and deserves a second chance. He said that assaulti…
 
 
-### ROBBERY/THEFT on 2025-10-03 05:55
-- Location: Twistedsifter.com
-- Description: This customer was a big help in solving this case.
+### HOMICIDE on 2025-10-03 12:06
+- Location: The Times of India
+- Description: A 14-year-old girl's nude body was recovered from a pond in Begusarai, leading to local allegations of rape and murder at a wedding hall owned by a former minister. Villagers initially resisted police, demanding an immediate investigation and protesting at th…
 
-Analysis generated at: Sat Oct  4 06:18:31 UTC 2025
+Analysis generated at: Sat Oct  4 12:24:23 UTC 2025
