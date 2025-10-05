@@ -1,10 +1,10 @@
 
-Loaded 62640 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-04 01:46:44
+Loaded 62662 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-04 06:00:00
 
 Incidents by source:
 source
-newsapi           62539
+newsapi           62561
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-10-04 01:46
-- Location: USA Today
-- Description: Some veterans view National Guard deployments to U.S. cities as unlawful and argue soldiers better uphold American values by resisting the orders.
+### OTHER on 2025-10-04 06:00
+- Location: Naturalnews.com
+- Description: Colombian President Gustavo Petro ordered the immediate expulsion of all remaining Israeli diplomats after Israel intercepted a humanitarian flotilla attempting to breach Gaza’s blockade, detaining two Colombian activists. Bogota suspended its free trade agre…
 
 
-### OTHER on 2025-10-04 01:26
-- Location: Fox News
-- Description: The Department of Homeland Security announced that federal agents arrested more than 1,000 illegal aliens in Illinois during Operation Midway Blitz.
+### OTHER on 2025-10-04 06:00
+- Location: Naturalnews.com
+- Description: The United Kingdom is rapidly morphing into a biometric police state, where citizens are no longer presumed innocent until proven guilty—but rather scanned, flagged, and detained based on faulty algorithms. The Labour government, under the guise of “public sa…
 
 
-### HOMICIDE on 2025-10-04 01:23
-- Location: Newsonjapan.com
-- Description: A man in his twenties who was abducted in Amagasaki, Hyogo Prefecture, in June and later killed has been confirmed dead after his remains were found as bones in the mountains of Kochi Prefecture. (News On Japan)
+### HOMICIDE on 2025-10-04 06:00
+- Location: Naturalnews.com
+- Description: A man carried out a coordinated car-ramming and stabbing attack outside a synagogue during Yom Kippur observances, which authorities have officially declared an act of terrorism. The attack left two members of the Jewish community dead and three others seriou…
 
 
-### ROBBERY/THEFT on 2025-10-04 01:18
-- Location: Newsbreak.com
-- Description: 'Ended up getting infections': Fake dentists disfigured and shaved patients' teeth down, gave them veneers that were too big and caused health problems, cops saynewsbreak.com
+### OTHER on 2025-10-04 05:36
+- Location: International Business Times
+- Description: From Venezuela, Maria travelled halfway around the world in search of a better life.
 
 
-### OTHER on 2025-10-04 01:15
-- Location: Fox News
-- Description: A man claiming barricaded himself in a car on a sidewalk outside Los Angeles City Hall on Friday, prompting an evacuation as police responded to the incident.
+### OTHER on 2025-10-04 05:36
+- Location: Ibtimes.com.au
+- Description: From Venezuela, Maria travelled halfway around the world in search of a better life.
 
-Analysis generated at: Sun Oct  5 01:53:08 UTC 2025
+Analysis generated at: Sun Oct  5 06:18:56 UTC 2025
