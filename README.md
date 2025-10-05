@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Oct  5 12:24:44 UTC 2025
+Last updated: Sun Oct  5 12:41:25 UTC 2025
 
 ## Latest Analysis
 
-Loaded 62695 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-04 12:17:42
+Loaded 62701 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-04 12:39:30
 
 Incidents by source:
 source
-newsapi           62594
+newsapi           62600
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-10-04 12:17
-- Location: The Times of India
-- Description: Kyren Lacy, an NFL prospect accused in a fatal hit-and-run, died by suicide before his trial. Months later, his attorney presented new video evidence, claiming it proves Lacy's innocence by showing he was far behind the vehicles at the time of impact, contrad…
+### OTHER on 2025-10-04 12:39
+- Location: The Indian Express
+- Description: As per the FIR, the seven accused are identified as Manthan Bhalerao, Om Nagarkar, Harshal Pawar, Piyush Bidkar, Atharva Nalawade, Omkar Mergu and Faizal Shaikh, all residents of Nana Peth area.
 
 
-### HOMICIDE on 2025-10-04 12:10
-- Location: The Times of India
-- Description: Punjab's Anti-Gangster Task Force arrested Gurpreet Singh alias Vicky Nihang, a key associate of foreign-based gangsters, after an exchange of fire in Ludhiana. He was wanted for the murder of social media influencer Kartik Baggan. Police stated his arrest av…
+### HOMICIDE on 2025-10-04 12:32
+- Location: Slashdot.org
+- Description: 'Drop it now!': Video shows Michigan church shooter was ordered to give up before he was killedKSL TV 5 Michigan church shooting bodycam video shows police confront gunmanFox News What we learned from newly-released bodycam video in Michigan church attackClic…
 
 
-### HOMICIDE on 2025-10-04 12:00
+### OTHER on 2025-10-04 12:30
+- Location: The Indian Express
+- Description: Punjab’s Anti-Gangster Task Force has arrested Gurpreet Singh alias Vicky Nihang, a close associate of fugitive gangsters Doni Bal and Munn Ghanshampuria, after a brief exchange of fire in Ludhiana Rural.
+
+
+### OTHER on 2025-10-04 12:30
 - Location: New York Post
-- Description: The only borough command in NYC that saw an increase in murders this year was Queens North – with a 62% rise from 13 to 21 so far, new police data show.
+- Description: A woke Build-A-Bear Workshop employee in Washington allegedly refused a teenaged customer’s wish to name her new teddy after slain conservative activist Charlie Kirk, according to a report.
 
 
-### OTHER on 2025-10-04 12:00
-- Location: STLtoday.com
-- Description: Bill McClellan writes: Words have lost whatever shock value they once had. We’re conditioned to coarseness and tough talk.
+### OTHER on 2025-10-04 12:27
+- Location: The Times of India
+- Description: Singer Zubeen Garg was "poisoned" in Singapore and his manager Siddharth Sharma and festival organiser Shyamkanu Mahanta had "deliberately chosen a foreign venue to conceal their conspiracy", the late singer's bandmate Shekhar Jyoti Goswami has alleged, accor…
 
-
-### OTHER on 2025-10-04 11:21
-- Location: CNN
-- Description: A federal judge in Oregon has granted a temporary restraining order blocking the Trump administration from deploying the National Guard into Portland.
-
-Analysis generated at: Sun Oct  5 12:24:44 UTC 2025
+Analysis generated at: Sun Oct  5 12:41:25 UTC 2025
