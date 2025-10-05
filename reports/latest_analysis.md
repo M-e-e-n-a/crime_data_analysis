@@ -1,10 +1,10 @@
 
-Loaded 62627 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-03 18:14:57
+Loaded 62635 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-04 01:09:09
 
 Incidents by source:
 source
-newsapi           62526
+newsapi           62534
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,35 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2025-10-03 18:14
-- Location: KTLA Los Angeles
-- Description: Five teenagers are facing felony charges, including assault and hate crimes, after allegedly attacking multiple people in the parking lot of a Simi Valley...
+### ASSAULT on 2025-10-04 01:09
+- Location: Newsonjapan.com
+- Description: A string of so-called “honey trap” cases is drawing attention across Japan as schemes once limited to extortion have become increasingly violent, involving physical assaults and life-threatening intimidation. (News On Japan)
 
 
-### OTHER on 2025-10-03 18:10
-- Location: TheStranger.com
-- Description: Seattle is growing. We are becoming big. And with a big city, comes big, delicious food tents.
- 
- by Charles Mudede
- 
- 
- 
- Illustrations by James Yates
-It’s Friday night in South Seattle. I’m standing in a short line for tacos sold by what is officially calle…
+### OTHER on 2025-10-04 00:53
+- Location: Freerepublic.com
+- Description: Conversation Viral News NYC @ViralNewsNYC New Protest Rules Go Live Today — Anarchists Poised to Take Advantage, Police Say Today, the NYPD was officially shackled by a court settlement that critics say will leave the city more vulnerable the next time prot…
 
 
-### OTHER on 2025-10-03 18:07
-- Location: EFF
-- Description: A San Francisco supervisor has proposed that police and other city agencies should have no financial consequences for breaking a landmark surveillance oversight law. In 2019, organizations from across the city worked together to help pass that law, which requ…
+### ASSAULT on 2025-10-04 00:46
+- Location: The Japan Times
+- Description: The Chinese finance hub has already installed almost 4,000 CCTV cameras under a police crime-fighting program.
 
 
-### ASSAULT on 2025-10-03 18:07
-- Location: The Atlantic
-- Description: In the 21st century, censorship of work like Judy Blume’s has evolved into a broader attack on books.
+### OTHER on 2025-10-04 00:41
+- Location: Raw Story
+- Description: A Democratic Chicago City Council member was handcuffed Friday by federal agents while at a hospital in her district as she insisted that a man who suffered serious injuries during a chase with immigration authorities had due process rights.Chicago Alderperso…
 
 
-### OTHER on 2025-10-03 18:03
-- Location: KPBS
-- Description: For more than a year, Attorney General Bonta has been looking into the El Cajon Police Department’s sharing of license plate reader data with out-of-state agencies
+### OTHER on 2025-10-04 00:33
+- Location: The Daily Caller
+- Description: A 42-year-old Indiana man convicted in the fatally stabbing a 6-year-old boy in 2015, was released from prison early for alleged good behavior.
 
-Analysis generated at: Sat Oct  4 18:17:50 UTC 2025
+Analysis generated at: Sun Oct  5 01:09:26 UTC 2025
