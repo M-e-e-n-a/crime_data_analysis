@@ -1,10 +1,10 @@
 
-Loaded 62827 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-05 12:44:16
+Loaded 62894 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-05 18:21:05
 
 Incidents by source:
 source
-newsapi           62726
+newsapi           62793
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-10-05 12:44
-- Location: Freerepublic.com
-- Description: The FBI once chased Catholics and parents with the SPLC’s “hate map.” Now, under Trump, the grifters are exposed and America’s institutions are being reset. emember the good old days when the FBI would hang out in the parking lots of Catholic churches where t…
+### ROBBERY/THEFT on 2025-10-05 18:21
+- Location: CBC News
+- Description: Two people have been arrested in connection with a distraction theft and robbery that left an elderly man injured outside a Scarborough shopping plaza last month, police said.
 
 
-### SHOOTING on 2025-10-05 12:39
-- Location: Biztoc.com
-- Description: Rival gunmen began shooting at each other in a crowd, police said.
-
-
-### ASSAULT on 2025-10-05 12:32
+### HOMICIDE on 2025-10-05 18:19
 - Location: The Times of India
-- Description: Britain's police will gain new powers to restrict repeat protests, enabling officers to consider the cumulative impact of previous activity. This follows recent pro-Palestinian marches and a synagogue attack, aiming to balance protest rights with public safet…
+- Description: Palghar: A man accused of killing a co-worker at a company in Palghar district has been apprehended from a ship at Okha Port in Gujarat, police said o.
 
 
-### HOMICIDE on 2025-10-05 12:22
-- Location: New York Post
-- Description: At least two people have been killed and 14 injured in a mass shooting in Montgomery on Saturday night, authorities in Alabama have said.
+### HOMICIDE on 2025-10-05 18:10
+- Location: The Denver Post
+- Description: One of the seven people charged in connection with a 2023 ambush killing of a pregnant Lakewood woman will serve 10 years in prison after pleading guilty to assault with a deadly weapon.
 
 
-### SHOOTING on 2025-10-05 12:17
-- Location: LancasterOnline
-- Description: One person was left with non-life-threatening injuries after a shooting in the early Sunday morning hours in Lancaster city.
+### OTHER on 2025-10-05 18:00
+- Location: Daily Signal
+- Description: Soviet show trials were not just sham proceedings. The charges were often purposefully absurd, as if to communicate that it wasn’t about justice, or even retribution,... Read More
+The post The Show Trial of Jeffrey Clark appeared first on The Daily Signal.
 
-Analysis generated at: Mon Oct  6 12:49:20 UTC 2025
+
+### OTHER on 2025-10-05 17:58
+- Location: Breitbart News
+- Description: Massachusetts State Police have arrested a 60-year-old Boston-area physical education teacher on charges of possessing and disseminating child pornography.
+The post Massachusetts Gym Teacher Facing Child Porn Charges appeared first on Breitbart.
+
+Analysis generated at: Mon Oct  6 18:21:16 UTC 2025
