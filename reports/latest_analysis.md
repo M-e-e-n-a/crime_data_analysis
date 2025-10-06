@@ -1,10 +1,10 @@
 
-Loaded 62750 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-04 18:07:42
+Loaded 62760 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-05 01:00:00
 
 Incidents by source:
 source
-newsapi           62649
+newsapi           62659
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2025-10-04 18:07
-- Location: Freerepublic.com
-- Description: Tricia McLaughlin @TriciaOhio This morning, during routine patrolling in Broadview, in the same area of Chicago that law enforcement were assaulted yesterday, our brave law enforcement officers were rammed by vehicles and boxed in by 10 cars. Agents were unab…
+### HOMICIDE on 2025-10-05 01:00
+- Location: Starexponent.com
+- Description: Sylena Jo Dalton's 10-week-old daughter, Allyson Kathleen, was also missing and has never been found to this day; State Police use DNA to crack case.
 
 
-### SHOOTING on 2025-10-04 18:01
-- Location: WPXI Pittsburgh
-- Description: A Pittsburgh Public Safety spokesperson confirmed police were called to the 1200 block of East Carson Street for a shooting inside a business on Sunday afternoon.
+### HOMICIDE on 2025-10-05 00:59
+- Location: Fox News
+- Description: Brazilian Health Ministry says 127 suspected cases tied to methanol-laced liquor while antidote shipments are rushed to five states and panic spreads.
 
 
-### OTHER on 2025-10-04 18:00
-- Location: Legalinsurrection.com
-- Description: Noem noted that the Village of Broadview “receives at least $1 million in federal funding every year.”
-The post Illinois City Hall Building Security Denied Bathroom Access to DHS Secretary Noem first appeared on Le·gal In·sur·rec·tion.
+### ASSAULT on 2025-10-05 00:57
+- Location: 7NEWS.com.au
+- Description: Man fighting for life after stabbing in Port Augusta, South Australia7news.com.au
 
 
-### SHOOTING on 2025-10-04 17:58
-- Location: Freerepublic.com
-- Description: BREAKING: DHS announces federal agents in Broadview, IL were rammed & boxed in by 10 cars, including a woman armed w/ a semi-automatic gun who had posted online threats to “fuck up” ICE & was flagged in a CBP intel bulletin. DHS says feds fired on her defensi…
+### HOMICIDE on 2025-10-05 00:57
+- Location: PerthNow
+- Description: Books about Erin Patterson's sensational triple murder trial are being published, promising to reveal more about the poisoning case that fascinated the world.
 
 
-### OTHER on 2025-10-04 17:55
-- Location: Ndtvprofit.com
-- Description: Zubeen Garg's manager manager Siddharth Sharma, was heard shouting 'Jabo de, jabo de' (let him go, let him go) when Garg was gasping for breath, almost drowning in the sea off Singapore.
+### SHOOTING on 2025-10-05 00:34
+- Location: The Times of India
+- Description: President Trump authorized 300 National Guard troops for Chicago, citing "violent riots" and a Border Patrol shooting incident where agents fired on an armed woman. Illinois Gov. Pritzker condemned the move as unnecessary and a "manufactured performance," whi…
 
-Analysis generated at: Sun Oct  5 18:17:51 UTC 2025
+Analysis generated at: Mon Oct  6 01:04:24 UTC 2025
