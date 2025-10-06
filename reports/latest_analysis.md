@@ -1,10 +1,10 @@
 
-Loaded 62767 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-05 01:46:09
+Loaded 62796 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-05 06:20:35
 
 Incidents by source:
 source
-newsapi           62666
+newsapi           62695
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2025-10-05 01:46
-- Location: Twistedsifter.com
-- Description: By his logic, anyone who ever glances at his ID could steal his identity.
+### SHOOTING on 2025-10-05 06:20
+- Location: TheJournal.ie
+- Description: A judge blocked the US President’s attempt to send the military into Portland, another Democratic-run city.
 
 
-### SHOOTING on 2025-10-05 01:30
-- Location: International Business Times
-- Description: President Donald Trump authorized deployment of troops to Chicago after a federal agent shot an allegedly armed motorist Saturday, while a judge blocked the Republican leader's attempt to send the military into Portland, another Democratic-run city.
+### OTHER on 2025-10-05 05:35
+- Location: Honolulu Star-Advertiser
+- Description: Honolulu police arrested an 18-year-old woman Saturday afternoon for allegedly stabbing a 13-year-old girl at Beretania Community Park.
 
 
-### OTHER on 2025-10-05 01:26
-- Location: The Star Online
-- Description: ROME: Huge numbers turned out at pro-Palestinian rallies in Europe on Saturday, calling for an immediate end to the war in Gaza and the release of activists on board a flotilla carrying humanitarian aid to the territory. Read full story
+### HOMICIDE on 2025-10-05 05:12
+- Location: Slashdot.org
+- Description: Security video helps lead Oregon detectives to a masked killer who tried to hide the crimeCBS News Vengeful veterinarian eyed in Oregon man's parking garage murderYahoo A MASKED KILLER SPRAY PAINTS SECURITY CAMERAS TO HIDE HIS CRIME – “48 HOURS” REPORTS “MURD…
 
 
-### OTHER on 2025-10-05 01:25
-- Location: The Japan Times
-- Description: There has been a surge in Gen Z demonstrations in Africa and Asia against aging leaders and corruption.
+### OTHER on 2025-10-05 05:01
+- Location: The Times of India
+- Description: Chief Minister Himanta Biswa Sarma inaugurated the headquarters of the 5th Assam Police Commando Battalion in Biswanath, significantly boosting police manpower and connectivity. Completed within three years, this modern facility, spread over 218 bighas, inclu…
 
 
-### ASSAULT on 2025-10-05 01:15
-- Location: Sky.com
-- Description: Footage showed a large fire in front of the mosque, which was later put out by the fire service. Photos from the aftermath showed a burnt-out car in front of the door to the mosque.
+### HOMICIDE on 2025-10-05 05:00
+- Location: The Irish Times
+- Description: Supreme Court panel to decide if it will hear appeal by Conor McGregor over Nikita Hand’s civil action victory
 
-Analysis generated at: Mon Oct  6 01:46:22 UTC 2025
+Analysis generated at: Mon Oct  6 06:22:09 UTC 2025
