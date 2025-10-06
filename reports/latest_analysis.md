@@ -1,10 +1,10 @@
 
-Loaded 62824 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-05 12:22:12
+Loaded 62827 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-05 12:44:16
 
 Incidents by source:
 source
-newsapi           62723
+newsapi           62726
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,6 +20,21 @@ bution.svg)
 
 ## Recent Incidents
 
+### OTHER on 2025-10-05 12:44
+- Location: Freerepublic.com
+- Description: The FBI once chased Catholics and parents with the SPLC’s “hate map.” Now, under Trump, the grifters are exposed and America’s institutions are being reset. emember the good old days when the FBI would hang out in the parking lots of Catholic churches where t…
+
+
+### SHOOTING on 2025-10-05 12:39
+- Location: Biztoc.com
+- Description: Rival gunmen began shooting at each other in a crowd, police said.
+
+
+### ASSAULT on 2025-10-05 12:32
+- Location: The Times of India
+- Description: Britain's police will gain new powers to restrict repeat protests, enabling officers to consider the cumulative impact of previous activity. This follows recent pro-Palestinian marches and a synagogue attack, aiming to balance protest rights with public safet…
+
+
 ### HOMICIDE on 2025-10-05 12:22
 - Location: New York Post
 - Description: At least two people have been killed and 14 injured in a mass shooting in Montgomery on Saturday night, authorities in Alabama have said.
@@ -29,19 +44,4 @@ bution.svg)
 - Location: LancasterOnline
 - Description: One person was left with non-life-threatening injuries after a shooting in the early Sunday morning hours in Lancaster city.
 
-
-### OTHER on 2025-10-05 12:08
-- Location: Marca
-- Description: Former Chivas de Guadalajara player Omar Bravo was arrested on Saturday on charges of alleged sexual abuse of a minor, the Mexican State Prosecutor&apos;s Office of Jalisco, in the
-
-
-### HOMICIDE on 2025-10-05 12:00
-- Location: WSB Atlanta
-- Description: Woman shot, killed by husband on birthday in Douglas Countywsbtv.com
-
-
-### HOMICIDE on 2025-10-05 12:00
-- Location: Fox News
-- Description: Grieving father Stephen Federico advocates for federal Logan's Law after his daughter's killer had extensive criminal history but minimal jail time in South Carolina justice system.
-
-Analysis generated at: Mon Oct  6 12:29:25 UTC 2025
+Analysis generated at: Mon Oct  6 12:49:20 UTC 2025
