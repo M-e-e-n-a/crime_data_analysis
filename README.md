@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Oct  7 01:03:16 UTC 2025
+Last updated: Tue Oct  7 01:43:46 UTC 2025
 
 ## Latest Analysis
 
-Loaded 62905 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-06 01:01:52
+Loaded 62910 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-06 01:30:19
 
 Incidents by source:
 source
-newsapi           62804
+newsapi           62809
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-10-06 01:01
-- Location: Freerepublic.com
-- Description: Two men who killed a 60-year-old man in an expressway shooting nearly four years ago while they were both on pretrial release for felony gun cases have pleaded guilty. Joshua Concepcion, 22, and Alexis Perez, 20, were sentenced to 15 years and 12 years, respe…
+### OTHER on 2025-10-06 01:30
+- Location: Screen Rant
+- Description: Netflix might be known for its variety of original streaming series, but its platform also has a great selection of TV shows from the 1990s.
 
 
-### HOMICIDE on 2025-10-06 01:01
-- Location: ABC News
-- Description: Authorities say rival gunmen shot at each other in a crowded downtown nightlife district in Alabama’s capital city, killing two people and injuring 12 others
+### OTHER on 2025-10-06 01:30
+- Location: Fox News
+- Description: Three dozen D.C. police officers report crime misclassification allegations to DOJ as Trump deploys National Guard citing inflated safety statistics.
 
 
-### OTHER on 2025-10-06 00:56
-- Location: Yahoo Entertainment
-- Description: WASHINGTON (Reuters) -U.S. President Donald Trump is reassigning about 200 federalized California National Guard troops from the Los Angeles area to Portland...
+### SHOOTING on 2025-10-06 01:26
+- Location: ABC News (AU)
+- Description: A suburb in Sydney's inner west was plunged into lockdown overnight after an alleged gunman opened fire on passing cars, including police vehicles.
 
 
-### OTHER on 2025-10-06 00:53
-- Location: Freerepublic.com
-- Description: October 14 will mark the birthday of two very different American martyrs. On that day in 1973, George Floyd was born. And, as everyone knows only too well, he died in 2020 after being placed under arrest by a Minneapolis police officer. Twenty years later Cha…
+### ASSAULT on 2025-10-06 01:12
+- Location: KOCO Oklahoma City
+- Description: “There’s no need for military intervention in Oregon. There’s no insurrection in Portland, there’s no threat to national security," Oregon Gov. Tina Kotek said.
 
 
-### ASSAULT on 2025-10-06 00:52
-- Location: BBC News
-- Description: Are this year's major attacks the "cumulative effect of a kind of inaction on cyber security" from the government and big business?
+### ASSAULT on 2025-10-06 01:07
+- Location: The Times of India
+- Description: President Trump is deploying California National Guard members to Portland, Oregon, after a judge temporarily blocked the state's own guard deployment. Democratic governors of Oregon and California are challenging this move in court, calling it an abuse of po…
 
-Analysis generated at: Tue Oct  7 01:03:15 UTC 2025
+Analysis generated at: Tue Oct  7 01:43:46 UTC 2025
