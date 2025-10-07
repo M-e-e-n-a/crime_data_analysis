@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Oct  6 18:21:16 UTC 2025
+Last updated: Tue Oct  7 01:03:16 UTC 2025
 
 ## Latest Analysis
 
-Loaded 62894 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-05 18:21:05
+Loaded 62905 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-06 01:01:52
 
 Incidents by source:
 source
-newsapi           62793
+newsapi           62804
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,30 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2025-10-05 18:21
-- Location: CBC News
-- Description: Two people have been arrested in connection with a distraction theft and robbery that left an elderly man injured outside a Scarborough shopping plaza last month, police said.
+### HOMICIDE on 2025-10-06 01:01
+- Location: Freerepublic.com
+- Description: Two men who killed a 60-year-old man in an expressway shooting nearly four years ago while they were both on pretrial release for felony gun cases have pleaded guilty. Joshua Concepcion, 22, and Alexis Perez, 20, were sentenced to 15 years and 12 years, respe…
 
 
-### HOMICIDE on 2025-10-05 18:19
-- Location: The Times of India
-- Description: Palghar: A man accused of killing a co-worker at a company in Palghar district has been apprehended from a ship at Okha Port in Gujarat, police said o.
+### HOMICIDE on 2025-10-06 01:01
+- Location: ABC News
+- Description: Authorities say rival gunmen shot at each other in a crowded downtown nightlife district in Alabama’s capital city, killing two people and injuring 12 others
 
 
-### HOMICIDE on 2025-10-05 18:10
-- Location: The Denver Post
-- Description: One of the seven people charged in connection with a 2023 ambush killing of a pregnant Lakewood woman will serve 10 years in prison after pleading guilty to assault with a deadly weapon.
+### OTHER on 2025-10-06 00:56
+- Location: Yahoo Entertainment
+- Description: WASHINGTON (Reuters) -U.S. President Donald Trump is reassigning about 200 federalized California National Guard troops from the Los Angeles area to Portland...
 
 
-### OTHER on 2025-10-05 18:00
-- Location: Daily Signal
-- Description: Soviet show trials were not just sham proceedings. The charges were often purposefully absurd, as if to communicate that it wasn’t about justice, or even retribution,... Read More
-The post The Show Trial of Jeffrey Clark appeared first on The Daily Signal.
+### OTHER on 2025-10-06 00:53
+- Location: Freerepublic.com
+- Description: October 14 will mark the birthday of two very different American martyrs. On that day in 1973, George Floyd was born. And, as everyone knows only too well, he died in 2020 after being placed under arrest by a Minneapolis police officer. Twenty years later Cha…
 
 
-### OTHER on 2025-10-05 17:58
-- Location: Breitbart News
-- Description: Massachusetts State Police have arrested a 60-year-old Boston-area physical education teacher on charges of possessing and disseminating child pornography.
-The post Massachusetts Gym Teacher Facing Child Porn Charges appeared first on Breitbart.
+### ASSAULT on 2025-10-06 00:52
+- Location: BBC News
+- Description: Are this year's major attacks the "cumulative effect of a kind of inaction on cyber security" from the government and big business?
 
-Analysis generated at: Mon Oct  6 18:21:16 UTC 2025
+Analysis generated at: Tue Oct  7 01:03:15 UTC 2025
