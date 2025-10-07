@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Oct  7 12:48:40 UTC 2025
+Last updated: Tue Oct  7 18:21:05 UTC 2025
 
 ## Latest Analysis
 
-Loaded 63029 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-06 12:46:31
+Loaded 63118 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-06 18:20:35
 
 Incidents by source:
 source
-newsapi           62928
+newsapi           63017
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-10-06 12:46
-- Location: Breitbart News
-- Description: At least 30 people were shot, five of them fatally, during the weekend in Mayor Brandon Johnson's (D) Chicago. 
-The post At Least 30 Shot During Weekend In Democrat-Run Chicago appeared first on Breitbart.
+### OTHER on 2025-10-06 18:20
+- Location: Reason
+- Description: From today's notice of dismissal, filed by the plaintiff's lawyerin Hook v. Rave: On October 3, defendants wisely abandoned their…
+The post Univ. of South Dakota Withdraws Planned Firing of Art Professor for Vulgar Tweet Calling Charlie Kirk a "Hate Spreading…
 
 
-### HOMICIDE on 2025-10-06 12:30
-- Location: WPXI Pittsburgh
-- Description: A Blairsville woman is facing several charges in a deadly stabbing inside an Indiana County home Sunday evening.
+### HOMICIDE on 2025-10-06 18:17
+- Location: The Times of India
+- Description: A Mumbai special court denied bail to three individuals accused in the murder of former Maharashtra minister Baba Siddique. Kisan Pardhi, Gaurav Apune, and Anurag Kashyap remain in judicial custody. Police allege Apune was involved in the conspiracy despite b…
 
 
-### ASSAULT on 2025-10-06 12:26
-- Location: Freerepublic.com
-- Description: A firefighter was accused of stalking after she allegedly dumped 75 "possibly used" tampons onto her ex-boyfriend's lawn when she learned that he was dating a new woman. The Volusia County Sheriff's Office was contacted by a woman on September 30 after she an…
+### OTHER on 2025-10-06 18:15
+- Location: New York Post
+- Description: Pritchett's mom was hospitalized as an “emotionally disturbed person” on Wednesday, but was not immediately facing criminal charges, sources confirmed.
 
 
-### ASSAULT on 2025-10-06 12:17
-- Location: Al Jazeera English
-- Description: Doorbell cam video from the UK shows masked men setting fire to a mosque while people were in the building.
+### OTHER on 2025-10-06 18:12
+- Location: The Week Magazine
+- Description: If you don’t like a good gangster flick, just fuhgeddaboudit
 
 
-### SHOOTING on 2025-10-06 12:12
-- Location: CNA
-- Description: SYDNEY: Australian police charged a 60-year-old man Monday (Oct 6) after he allegedly opened fire on a busy Sydney street, wounding 16 people in a chaotic attack.Police were called on Sun
+### OTHER on 2025-10-06 18:08
+- Location: Raw Story
+- Description: World leaders meet every September for the United Nations General Assembly. There have been plenty of weird moments over the years: Soviet Premier Nikita Khrushchev banging his shoe on the table in 1960 to stop the leader of another country from criticizing h…
 
-Analysis generated at: Tue Oct  7 12:48:40 UTC 2025
+Analysis generated at: Tue Oct  7 18:21:05 UTC 2025
