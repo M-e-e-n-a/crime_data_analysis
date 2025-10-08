@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Oct  7 18:21:05 UTC 2025
+Last updated: Wed Oct  8 01:02:54 UTC 2025
 
 ## Latest Analysis
 
-Loaded 63118 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-06 18:20:35
+Loaded 63130 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-07 00:48:00
 
 Incidents by source:
 source
-newsapi           63017
+newsapi           63029
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-10-06 18:20
-- Location: Reason
-- Description: From today's notice of dismissal, filed by the plaintiff's lawyerin Hook v. Rave: On October 3, defendants wisely abandoned their…
-The post Univ. of South Dakota Withdraws Planned Firing of Art Professor for Vulgar Tweet Calling Charlie Kirk a "Hate Spreading…
+### HOMICIDE on 2025-10-07 00:48
+- Location: STLtoday.com
+- Description: According to the complaint, a ranking member of the Latin Kings sent Snapchat messages saying, “2k on information when you get him” and “10k if u take him down.”
 
 
-### HOMICIDE on 2025-10-06 18:17
-- Location: The Times of India
-- Description: A Mumbai special court denied bail to three individuals accused in the murder of former Maharashtra minister Baba Siddique. Kisan Pardhi, Gaurav Apune, and Anurag Kashyap remain in judicial custody. Police allege Apune was involved in the conspiracy despite b…
+### SHOOTING on 2025-10-07 00:45
+- Location: Montgomery Advertiser
+- Description: Local activist Ja'Mel Brown organized the rally and called for a stronger police presence.
 
 
-### OTHER on 2025-10-06 18:15
-- Location: New York Post
-- Description: Pritchett's mom was hospitalized as an “emotionally disturbed person” on Wednesday, but was not immediately facing criminal charges, sources confirmed.
+### HOMICIDE on 2025-10-07 00:40
+- Location: Breitbart News
+- Description: A Republican lawmaker in Virginia claimed that in 2020, during a phone conversation with Virginia Democrat attorney general candidate Jay Jones, Jones was in favor of more police officers dying so that fewer people would be killed, according to a report.
+The …
 
 
-### OTHER on 2025-10-06 18:12
-- Location: The Week Magazine
-- Description: If you don’t like a good gangster flick, just fuhgeddaboudit
+### ASSAULT on 2025-10-07 00:23
+- Location: Balloon-juice.com
+- Description: (Image by NEIVANMADE) I want to take a few minutes and address the different targeting strategies that Ukraine and Russia are utilizing. Ever since the second or third week of the war, Russia has been targeting civilian infrastructure: civilian housing, schoo…
 
 
-### OTHER on 2025-10-06 18:08
-- Location: Raw Story
-- Description: World leaders meet every September for the United Nations General Assembly. There have been plenty of weird moments over the years: Soviet Premier Nikita Khrushchev banging his shoe on the table in 1960 to stop the leader of another country from criticizing h…
+### OTHER on 2025-10-07 00:21
+- Location: Rlsbb.to
+- Description: Release Description:The year is 1981, and as a young officer trainee, you are assigned to work at a border post in the mountainous region of Karikatka. Entry into the Acarist People's Republic is strictly regulated by the party and your every move is monitore…
 
-Analysis generated at: Tue Oct  7 18:21:05 UTC 2025
+Analysis generated at: Wed Oct  8 01:02:54 UTC 2025
