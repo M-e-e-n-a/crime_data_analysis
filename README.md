@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Oct  8 01:44:02 UTC 2025
+Last updated: Wed Oct  8 06:21:40 UTC 2025
 
 ## Latest Analysis
 
-Loaded 63139 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-07 01:37:04
+Loaded 63184 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-07 06:21:12
 
 Incidents by source:
 source
-newsapi           63038
+newsapi           63083
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2025-10-07 01:37
-- Location: Bleeding Cool News
-- Description: CBS Premiere Week is hitting the ground running this Sunday, kicking things off with season premiere episodes of Kathy Bates-starring Matlock and EPs Robert King & Michelle King, and Showrunner Jonathan Tolins's Carrie Preston-starring Elsbeth. To help build …
+### OTHER on 2025-10-07 06:21
+- Location: The Local Sweden
+- Description: Employers slam work permit salary threshold hike, appeals court overturns Quran-burning verdict, and other news from Sweden on Tuesday.
 
 
-### OTHER on 2025-10-07 01:30
-- Location: UPI.com
-- Description: President Donald Trump told reporters Monday he would consider invoking the Insurrection Act to send National Guard troops into Portland "if it was necessary...
+### HOMICIDE on 2025-10-07 06:01
+- Location: ABC News (AU)
+- Description: Authorities say they are still piecing together who was involved in a "violent altercation" that left a man fatally stabbed and another in hospital.
 
 
-### OTHER on 2025-10-07 01:30
-- Location: Screen Rant
-- Description: It's often said that Breaking Bad gets off to a slow start, so it can be tough to get into, but season 1 is faster than people remember.
+### HOMICIDE on 2025-10-07 06:00
+- Location: ABC News (AU)
+- Description: Restaurant owner and father of four Abdul Basith Mohammed was found dead outside his home in 2017 after going to investigate a power outage.
 
 
-### HOMICIDE on 2025-10-07 01:26
-- Location: New York Post
-- Description: "This was a heartbreaking, devastating and traumatizing scene that I wouldn’t wish on anyone. I found my baby like this," his mother wrote.
+### OTHER on 2025-10-07 06:00
+- Location: Dramabeans.com
+- Description: Our scam artists get closer to their last target, but in order to lure him out, they need to catch a movie fan first. Our villain of the week once dreamed of being on the big screen, and it seems our heroes can make that happen. Unfortunately for him, our sca…
 
 
-### ASSAULT on 2025-10-07 01:21
-- Location: Fox News
-- Description: ICE and CBP agents arrest criminal suspects including alleged Tren de Aragua gang member in Chicago as part of Operation Midway Blitz enforcement crackdown.
+### ROBBERY/THEFT on 2025-10-07 06:00
+- Location: Naturalnews.com
+- Description: Last week, Nature sent a series of identical, thinly-veiled threat letters to Substack writers—including Sayer Ji of GreenMedInfo, Dr. Robert Malone, Dr. Peter McCullough, and Alex Berenson—accusing them of being “purveyors of anti-vaccine misinformation” who…
 
-Analysis generated at: Wed Oct  8 01:44:02 UTC 2025
+Analysis generated at: Wed Oct  8 06:21:40 UTC 2025
