@@ -1,10 +1,10 @@
 
-Loaded 63348 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-07 18:21:02
+Loaded 63355 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-08 01:00:00
 
 Incidents by source:
 source
-newsapi           63247
+newsapi           63254
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,27 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-10-07 18:21
-- Location: The Irish Times
-- Description: Illinois governor says ‘Trump’s invasion’ of state ongoing as government continues military deployment in Chicago
+### HOMICIDE on 2025-10-08 01:00
+- Location: Spoilertv.com
 
 
-### OTHER on 2025-10-07 18:17
-- Location: HuffPost
-- Description: Illinois Gov. JB Pritzker has accused Trump of using troops as “political props” and “pawns.”
+### OTHER on 2025-10-08 00:51
+- Location: Fox News
+- Description: FBI Director Kash Patel defends the bureau's role in Trump administration immigration enforcement efforts in Chicago despite continued local resistance.
 
 
-### HOMICIDE on 2025-10-07 18:02
-- Location: Livejournal.com
-- Description: The Hearth Witch's Guide to Magic & MurderWhen a rise in London's supernatural crime puts Fey society at risk of discovery, the Winter Council turns to an unlikely solution: Avery Hemlock, the changeling they sentenced to 500 Years of Nightmares. Inherently l…
+### HOMICIDE on 2025-10-08 00:50
+- Location: New York Post
+- Description: A Florida man was charged with two counts of murder after one of his alleged victims captured the double homicide on cellphone video, according to reports. Louis Jules, 59, was arrested on Friday less than 8 hours after video footage of the fatal shootings wa…
 
 
-### OTHER on 2025-10-07 18:00
-- Location: The Irish Times
-- Description: In keeping with a low-budget production, the movie was projected onto a make-shift screen
+### OTHER on 2025-10-08 00:43
+- Location: CNET
+- Description: The Kaitlin Olson series is on ABC tonight and Hulu tomorrow.
 
 
-### ASSAULT on 2025-10-07 17:57
-- Location: The Irish Times
-- Description: For survivors, the installation is about bringing the tragedy and trauma of the attacks to a world where attention has shifted to the human cost of the conflict in Gaza
+### OTHER on 2025-10-08 00:18
+- Location: ABC News (AU)
+- Description: Police are alerting hundreds of accused sexual offenders that their cases may be compromised by the work of a digital forensics officer based in Bendigo.
 
-Analysis generated at: Wed Oct  8 18:21:20 UTC 2025
+Analysis generated at: Thu Oct  9 01:03:47 UTC 2025
