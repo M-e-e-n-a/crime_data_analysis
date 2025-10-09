@@ -1,10 +1,10 @@
 
-Loaded 63355 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-08 01:00:00
+Loaded 63362 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-08 01:43:03
 
 Incidents by source:
 source
-newsapi           63254
+newsapi           63261
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,27 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-10-08 01:00
-- Location: Spoilertv.com
+### OTHER on 2025-10-08 01:43
+- Location: BBC News
+- Description: Campaigners call for tighter rules on possession of catapults.
 
 
-### OTHER on 2025-10-08 00:51
-- Location: Fox News
-- Description: FBI Director Kash Patel defends the bureau's role in Trump administration immigration enforcement efforts in Chicago despite continued local resistance.
+### OTHER on 2025-10-08 01:35
+- Location: ABC News
+- Description: Noem met with local law enforcement officials at the ICE facility, according to the Portland Police Bureau.
 
 
-### HOMICIDE on 2025-10-08 00:50
-- Location: New York Post
-- Description: A Florida man was charged with two counts of murder after one of his alleged victims captured the double homicide on cellphone video, according to reports. Louis Jules, 59, was arrested on Friday less than 8 hours after video footage of the fatal shootings wa…
+### HOMICIDE on 2025-10-08 01:33
+- Location: Thechronicle.com.gh
+- Description: A judge in Albania has been shot dead after a man opened fire during a trial at the Court of Appeal in the capital Tirana. Judge Astrit Kalaja died en route to hospital, officials said, while two others involved in the hearing over a property dispute – a fath…
 
 
-### OTHER on 2025-10-08 00:43
-- Location: CNET
-- Description: The Kaitlin Olson series is on ABC tonight and Hulu tomorrow.
+### OTHER on 2025-10-08 01:29
+- Location: Borderlandbeat.com
+- Description: "Sol Prendido" for Borderland Beat María del Carmen Volante was about to begin a search in a part of the Ajusco forest when she learned of a...
 
 
-### OTHER on 2025-10-08 00:18
-- Location: ABC News (AU)
-- Description: Police are alerting hundreds of accused sexual offenders that their cases may be compromised by the work of a digital forensics officer based in Bendigo.
+### OTHER on 2025-10-08 01:20
+- Location: BBC News
+- Description: As President Trump threatens to send the military, residents at the centre of Portland's protests tell the BBC about what it's been like.
 
-Analysis generated at: Thu Oct  9 01:03:47 UTC 2025
+Analysis generated at: Thu Oct  9 01:45:00 UTC 2025
