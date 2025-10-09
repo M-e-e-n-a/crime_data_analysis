@@ -1,10 +1,10 @@
 
-Loaded 63399 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-08 06:13:43
+Loaded 63479 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-08 12:28:02
 
 Incidents by source:
 source
-newsapi           63298
+newsapi           63378
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-10-08 06:13
-- Location: ABC News
-- Description: National Guard troops are positioned outside Chicago and they could soon be in Memphis as the Trump administration pushes ahead with an aggressive policy toward big-city crime whether local leaders support it or not
+### OTHER on 2025-10-08 12:28
+- Location: The Daily Caller
+- Description: Over 350,000 Virginians had voted prior to the news that Democrat Virginia Attorney General candidate Jay Jones had endorsed political violence.
 
 
-### ASSAULT on 2025-10-08 06:07
-- Location: BBC News
-- Description: Police said they arrested a 25-year-old man on Tuesday night, following the arrest of a 46-year-old.
+### OTHER on 2025-10-08 12:25
+- Location: Deadline
+- Description: EXCLUSIVE: Subscription streaming outlet MHz Choice, which brings prestige international television to North American viewers, has acquired from Studio TF1 exclusive U.S. and Canada rights to Camilla Läckberg’s Erica, the first French-language adaptation of h…
 
 
-### OTHER on 2025-10-08 06:00
-- Location: Naturalnews.com
-- Description: Texas National Guard troops arrive in Chicago following Trump’s order to combat violent unrest and enforce immigration laws. Illinois officials file lawsuit against federal intervention, accusing Trump of overreach and violating state sovereignty. Chicago May…
+### OTHER on 2025-10-08 12:24
+- Location: Fox News
+- Description: Illinois Democratic Gov. JB Pritzker suggested U.S. Immigration and Customs Enforcement (ICE) was being dishonest about a recent report and committed crimes.
 
 
-### HOMICIDE on 2025-10-08 06:00
-- Location: Naturalnews.com
-- Description: Juan Espinoza Martinez, a Mexican national and Latin Kings gang member, was arrested for placing a bounty on U.S. Border Patrol Chief Gregory Bovino. Martinez faces federal charges for soliciting the murder of a senior law enforcement official. The hit was al…
+### OTHER on 2025-10-08 12:15
+- Location: Screen Rant
+- Description: The Rookie season 8 is frustratingly delayed until 2026 despite already filming, but that saves it from ABC's most dreaded programming issue.
 
 
-### SHOOTING on 2025-10-08 05:42
-- Location: Freerepublic.com
-- Description: The Monterey County Sheriff’s Office deputies arrested a man they say was wanted for an armed robbery and brandishing a handgun in Pajaro, on Monday. The man, identified as Agustin Ayala Castellanos of the Watsonville and Pajaro areas, was arrested a week aft…
+### OTHER on 2025-10-08 12:14
+- Location: Khabarhub.com
+- Description: KATHMANDU: The Commission for the Investigation of Abuse of Authority (CIAA) has filed a case at the Special Court against former minister Rajkumar Gupta, former minister and Nagarik Unmukti Party chair Ranjita Shrestha, and five others in connection with the…
 
-Analysis generated at: Thu Oct  9 06:22:08 UTC 2025
+Analysis generated at: Thu Oct  9 12:29:01 UTC 2025
