@@ -1,10 +1,10 @@
 
-Loaded 63479 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-08 12:28:02
+Loaded 63484 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-08 12:35:12
 
 Incidents by source:
 source
-newsapi           63378
+newsapi           63383
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-10-08 12:28
-- Location: The Daily Caller
-- Description: Over 350,000 Virginians had voted prior to the news that Democrat Virginia Attorney General candidate Jay Jones had endorsed political violence.
-
-
-### OTHER on 2025-10-08 12:25
-- Location: Deadline
-- Description: EXCLUSIVE: Subscription streaming outlet MHz Choice, which brings prestige international television to North American viewers, has acquired from Studio TF1 exclusive U.S. and Canada rights to Camilla Läckberg’s Erica, the first French-language adaptation of h…
-
-
-### OTHER on 2025-10-08 12:24
+### OTHER on 2025-10-08 12:35
 - Location: Fox News
-- Description: Illinois Democratic Gov. JB Pritzker suggested U.S. Immigration and Customs Enforcement (ICE) was being dishonest about a recent report and committed crimes.
+- Description: Talk show host Joe Scarborough urged Virginia attorney general candidate Jay Jones to leave his race following a report exposing wishes for violence against a Republican lawmaker.
 
 
-### OTHER on 2025-10-08 12:15
-- Location: Screen Rant
-- Description: The Rookie season 8 is frustratingly delayed until 2026 despite already filming, but that saves it from ABC's most dreaded programming issue.
+### OTHER on 2025-10-08 12:32
+- Location: Substack.com
+- Description: But what if disrupted sleep was actually biologically natural? In pre-industrial times, people slept in two segments called biphasic sleep.
 
 
-### OTHER on 2025-10-08 12:14
-- Location: Khabarhub.com
-- Description: KATHMANDU: The Commission for the Investigation of Abuse of Authority (CIAA) has filed a case at the Special Court against former minister Rajkumar Gupta, former minister and Nagarik Unmukti Party chair Ranjita Shrestha, and five others in connection with the…
+### HOMICIDE on 2025-10-08 12:32
+- Location: Breitbart News
+- Description: The commander of the Department of Homeland Security's illegal alien operations in Los Angeles and Chicago reacted to the arrest of the man who allegedly offered a bounty for his kidnapping or murder. He stated that violent gangs are "feeling way to comfortab…
 
-Analysis generated at: Thu Oct  9 12:29:01 UTC 2025
+
+### OTHER on 2025-10-08 12:30
+- Location: ARLnow
+- Description: Two people were stabbed in Arlington yesterday (Tuesday) by suspects that remain at large. The first stabbing happened shortly after midnight near the Thomas Jefferson Community Center. Police say a man approached the victim, yelled at him, and stabbed him be…
+
+
+### OTHER on 2025-10-08 12:30
+- Location: WGNO New Orleans
+- Description: The New Orleans Police Department is looking to identify and arrest a suspect who is accused of trying to cash a fraudulent $21,000 check.
+
+Analysis generated at: Thu Oct  9 12:48:46 UTC 2025
