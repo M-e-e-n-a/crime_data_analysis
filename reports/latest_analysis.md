@@ -1,10 +1,10 @@
 
-Loaded 63362 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-08 01:43:03
+Loaded 63399 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-08 06:13:43
 
 Incidents by source:
 source
-newsapi           63261
+newsapi           63298
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-10-08 01:43
-- Location: BBC News
-- Description: Campaigners call for tighter rules on possession of catapults.
-
-
-### OTHER on 2025-10-08 01:35
+### OTHER on 2025-10-08 06:13
 - Location: ABC News
-- Description: Noem met with local law enforcement officials at the ICE facility, according to the Portland Police Bureau.
+- Description: National Guard troops are positioned outside Chicago and they could soon be in Memphis as the Trump administration pushes ahead with an aggressive policy toward big-city crime whether local leaders support it or not
 
 
-### HOMICIDE on 2025-10-08 01:33
-- Location: Thechronicle.com.gh
-- Description: A judge in Albania has been shot dead after a man opened fire during a trial at the Court of Appeal in the capital Tirana. Judge Astrit Kalaja died en route to hospital, officials said, while two others involved in the hearing over a property dispute – a fath…
-
-
-### OTHER on 2025-10-08 01:29
-- Location: Borderlandbeat.com
-- Description: "Sol Prendido" for Borderland Beat María del Carmen Volante was about to begin a search in a part of the Ajusco forest when she learned of a...
-
-
-### OTHER on 2025-10-08 01:20
+### ASSAULT on 2025-10-08 06:07
 - Location: BBC News
-- Description: As President Trump threatens to send the military, residents at the centre of Portland's protests tell the BBC about what it's been like.
+- Description: Police said they arrested a 25-year-old man on Tuesday night, following the arrest of a 46-year-old.
 
-Analysis generated at: Thu Oct  9 01:45:00 UTC 2025
+
+### OTHER on 2025-10-08 06:00
+- Location: Naturalnews.com
+- Description: Texas National Guard troops arrive in Chicago following Trump’s order to combat violent unrest and enforce immigration laws. Illinois officials file lawsuit against federal intervention, accusing Trump of overreach and violating state sovereignty. Chicago May…
+
+
+### HOMICIDE on 2025-10-08 06:00
+- Location: Naturalnews.com
+- Description: Juan Espinoza Martinez, a Mexican national and Latin Kings gang member, was arrested for placing a bounty on U.S. Border Patrol Chief Gregory Bovino. Martinez faces federal charges for soliciting the murder of a senior law enforcement official. The hit was al…
+
+
+### SHOOTING on 2025-10-08 05:42
+- Location: Freerepublic.com
+- Description: The Monterey County Sheriff’s Office deputies arrested a man they say was wanted for an armed robbery and brandishing a handgun in Pajaro, on Monday. The man, identified as Agustin Ayala Castellanos of the Watsonville and Pajaro areas, was arrested a week aft…
+
+Analysis generated at: Thu Oct  9 06:22:08 UTC 2025
