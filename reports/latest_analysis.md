@@ -1,10 +1,10 @@
 
-Loaded 63578 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-08 18:16:58
+Loaded 63594 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-09 01:01:23
 
 Incidents by source:
 source
-newsapi           63477
+newsapi           63493
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-10-08 18:16
-- Location: Ndtvprofit.com
-- Description: In relation to a Rs 179.5-crore scam linked to the Employee Stock Ownership Plan, the Enforcement Directorate has filed a chargesheet in a court against Rashmi Saluja, a former executive chairperson of Religare Enterprises Ltd. The ED also claimed that she wa…
+### HOMICIDE on 2025-10-09 01:01
+- Location: WABC-TV
+- Description: David Mazariegos, 25, was charged with murder in the fatal beating of another man at a subway station in Brooklyn.
 
 
-### HOMICIDE on 2025-10-08 18:14
-- Location: The Week Magazine
-- Description: Murder mysteries don’t necessarily have to make us miserable, and these shows have perfected a feel-good crime formula
+### HOMICIDE on 2025-10-09 01:00
+- Location: Fox News
+- Description: Four people died, including the suspected shooter, in a deadly spree that began with an incident on Highway 90 in Sugar Land and ended in Houston.
 
 
-### OTHER on 2025-10-08 18:10
-- Location: The Times of India
-- Description: The Enforcement Directorate has charged Rashmi Saluja, former Religare chairperson, and two others. The charges relate to alleged irregularities in employee stock options at Care Health Insurance. The agency claims shares worth Rs 179.54 crore were wrongfully…
+### OTHER on 2025-10-09 00:56
+- Location: The Atlantic
+- Description: The president’s threats of revenge are no longer bluster.
 
 
-### HOMICIDE on 2025-10-08 18:10
-- Location: Daily Signal
-- Description: In July, Washington Post columnist E.J. Dionne Jr. penned a piece titled, “The good news about murder,” purporting to explain how and why violent crime... Read More
-The post Washington Post Columnist’s Deceptive Op-Ed on Murder Rates—and Why it Matters appear…
+### SHOOTING on 2025-10-09 00:55
+- Location: KRQE News 13
+- Description: ALBUQUERQUE, N.M. (KRQE) – The Albuquerque Police Department is investigating a shooting that sent one man to the hospital. They said there was a dispute...
 
 
-### OTHER on 2025-10-08 18:07
-- Location: CNET
-- Description: Xbox Game Pass is adding Ninja Gaiden 4, as well as other titles, this month.
+### OTHER on 2025-10-09 00:46
+- Location: The Denver Post
+- Description: Eastbound C-470 is closed at West Bowles Avenue because of a police investigation in the area, according to the Jefferson County Sheriff's Office.
 
-Analysis generated at: Thu Oct  9 18:20:18 UTC 2025
+Analysis generated at: Fri Oct 10 01:03:24 UTC 2025
