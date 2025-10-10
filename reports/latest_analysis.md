@@ -1,10 +1,10 @@
 
-Loaded 63651 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-09 06:06:40
+Loaded 63733 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-09 12:23:14
 
 Incidents by source:
 source
-newsapi           63550
+newsapi           63632
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-10-09 06:06
-- Location: The Indian Express
-- Description: BJP Yuva Morcha leader Venkatesh Kurubara was on his bike when a car hit him from behind. He died after being assaulted with machetes and iron rods, the police said.
+### OTHER on 2025-10-09 12:23
+- Location: Mediatakeout.com
+- Description: The final inmate on the run who escaped from a New Orleans jail five months ago has finally been caught. Derrick Groves was captured at a residence in Atlanta by US Marshals. A video of him handcuffed, blowing a kiss to the person behind the camera, has gone …
 
 
-### OTHER on 2025-10-09 06:01
-- Location: The Local Sweden
-- Description: Prime minister to 'look into' activists' reports of torture in Israel, Swedish universities fall out of top 50 worldwide, young people prioritise safety over climate and equality, and other news from Sweden on Thursday.
+### HOMICIDE on 2025-10-09 12:22
+- Location: Newser
+- Description: A former UFC fighter was shot dead in Australia on Wednesday—20 months after surviving a previous attempt on his life. Police say 33-year-old Suman Mokhtarian was killed in what they called a "targeted attack" in Riverstone, a suburb of Sydney, reports CBS Ne…
 
 
-### HOMICIDE on 2025-10-09 06:00
-- Location: KLAS - 8 News Now
-- Description: Las Vegas police are investigating a shooting at Sunset Park in the central Las Vegas valley.
+### OTHER on 2025-10-09 12:13
+- Location: BBC News
+- Description: Lincolnshire's Police Commissioner says his force faces bankruptcy under the current funding set-up.
 
 
-### OTHER on 2025-10-09 05:57
-- Location: ABC News
-- Description: An injured monarch butterfly was able to continue its migration after undergoing a wing transplant at a nature preserve in New York.
+### ASSAULT on 2025-10-09 12:10
+- Location: Boston Herald
+- Description: BPD officers responded to at least 291 reported incidents in the covered 24-hour period.
 
 
-### HOMICIDE on 2025-10-09 05:53
-- Location: Rlsbb.to
-- Description: Season 1, Episode 02 – “We All Go a Little Mad”On a dark and stormy night, the police find a family dead in their mansion. A horror film flickers. A bloody mask lies nearby. And a letter to the victim’s mother, the voice of the demon in “The Exorcist,” hints …
+### HOMICIDE on 2025-10-09 12:09
+- Location: TechRadar
+- Description: I still can't believe I've already seen Wake Up Dead Man: A Knives Out Mystery before it's released on Netflix. My verdict? It didn't let me down.
 
-Analysis generated at: Fri Oct 10 06:21:53 UTC 2025
+Analysis generated at: Fri Oct 10 12:29:01 UTC 2025
