@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Oct 10 12:47:20 UTC 2025
+Last updated: Fri Oct 10 18:20:39 UTC 2025
 
 ## Latest Analysis
 
-Loaded 63733 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-09 12:23:14
+Loaded 63824 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-09 18:20:10
 
 Incidents by source:
 source
-newsapi           63632
+newsapi           63723
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-10-09 12:23
-- Location: Mediatakeout.com
-- Description: The final inmate on the run who escaped from a New Orleans jail five months ago has finally been caught. Derrick Groves was captured at a residence in Atlanta by US Marshals. A video of him handcuffed, blowing a kiss to the person behind the camera, has gone …
+### OTHER on 2025-10-09 18:20
+- Location: The Times of India
+- Description: Golf titans Tiger Woods and Phil Mickelson have built colossal business empires alongside their legendary careers. Woods, a billionaire, leverages endorsements and ventures like TGL. Mickelson, a top PGA earner, thrives on endorsements and his wellness brand,…
 
 
-### HOMICIDE on 2025-10-09 12:22
-- Location: Newser
-- Description: A former UFC fighter was shot dead in Australia on Wednesday—20 months after surviving a previous attempt on his life. Police say 33-year-old Suman Mokhtarian was killed in what they called a "targeted attack" in Riverstone, a suburb of Sydney, reports CBS Ne…
+### DRUG RELATED on 2025-10-09 18:16
+- Location: The Times of India
+- Description: Panaji: The anti-narcotic cell (ANC) of Goa police on Thursday seized drugs worth Rs 2.5 crore and arrested a Nigerian national. DySP ANC Nerlon Albuq.
 
 
-### OTHER on 2025-10-09 12:13
-- Location: BBC News
-- Description: Lincolnshire's Police Commissioner says his force faces bankruptcy under the current funding set-up.
+### OTHER on 2025-10-09 18:16
+- Location: The Times of India
+- Description: Antifa executive order: President Trump has declared Antifa a "domestic terrorist organisation," accusing the loosely organized leftist movement of radicalizing youth for political violence. Experts question the legality of this move, as US law only allows fo…
 
 
-### ASSAULT on 2025-10-09 12:10
-- Location: Boston Herald
-- Description: BPD officers responded to at least 291 reported incidents in the covered 24-hour period.
+### ROBBERY/THEFT on 2025-10-09 18:16
+- Location: The Times of India
+- Description: Bengaluru: Jalahalli police arrested two persons, who stole gold ornaments from a jewellery store recently and recovered around 429 grams of gold wort.
 
 
-### HOMICIDE on 2025-10-09 12:09
-- Location: TechRadar
-- Description: I still can't believe I've already seen Wake Up Dead Man: A Knives Out Mystery before it's released on Netflix. My verdict? It didn't let me down.
+### OTHER on 2025-10-09 18:11
+- Location: The Times of India
+- Description: Mumbai: A labourer from West Bengal died after being hit by a car at Hiranandani Gardens in Powai on Tuesday. Powai Police said the incident occurred .
 
-Analysis generated at: Fri Oct 10 12:47:20 UTC 2025
+Analysis generated at: Fri Oct 10 18:20:39 UTC 2025
