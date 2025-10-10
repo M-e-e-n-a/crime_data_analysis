@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Oct 10 01:03:24 UTC 2025
+Last updated: Fri Oct 10 01:45:27 UTC 2025
 
 ## Latest Analysis
 
-Loaded 63594 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-09 01:01:23
+Loaded 63604 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-09 01:41:15
 
 Incidents by source:
 source
-newsapi           63493
+newsapi           63503
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-10-09 01:01
-- Location: WABC-TV
-- Description: David Mazariegos, 25, was charged with murder in the fatal beating of another man at a subway station in Brooklyn.
+### OTHER on 2025-10-09 01:41
+- Location: ABC News (AU)
+- Description: The mother of missing British woman Madeleine McCann says a woman accused of stalking her for over two years made her feel distressed and "invaded" by approaching her at her house and claiming to be her daughter.
 
 
-### HOMICIDE on 2025-10-09 01:00
-- Location: Fox News
-- Description: Four people died, including the suspected shooter, in a deadly spree that began with an incident on Highway 90 in Sugar Land and ended in Houston.
+### HOMICIDE on 2025-10-09 01:33
+- Location: NBC News
+- Description: Three people were killed Wednesday in a series of shootings in the Houston area that authorities believe are linked to a gunman who later took his own life
 
 
-### OTHER on 2025-10-09 00:56
-- Location: The Atlantic
-- Description: The president’s threats of revenge are no longer bluster.
+### OTHER on 2025-10-09 01:33
+- Location: WSB Atlanta
+- Description: Two co-workers said they thwarted an attempted hijacking at a Quick Trip gas station in Mableton, Cobb County, preventing a man from stealing their work vehicle.
 
 
-### SHOOTING on 2025-10-09 00:55
-- Location: KRQE News 13
-- Description: ALBUQUERQUE, N.M. (KRQE) – The Albuquerque Police Department is investigating a shooting that sent one man to the hospital. They said there was a dispute...
+### SHOOTING on 2025-10-09 01:30
+- Location: WPXI Pittsburgh
+- Description: 2 Pennsylvania state troopers, 1 suspect shot in Franklin Countywpxi.com
 
 
-### OTHER on 2025-10-09 00:46
-- Location: The Denver Post
-- Description: Eastbound C-470 is closed at West Bowles Avenue because of a police investigation in the area, according to the Jefferson County Sheriff's Office.
+### OTHER on 2025-10-09 01:25
+- Location: Freerepublic.com
+- Description: Pubs, clubs and restaurants will be able to open into the early hours as part of Labour’s drive for economic growth, a move which critics say will lead to more drunken disorder. Ministers are pushing ahead with plans to allow premises that sell alcohol to ext…
 
-Analysis generated at: Fri Oct 10 01:03:24 UTC 2025
+Analysis generated at: Fri Oct 10 01:45:27 UTC 2025
