@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Oct 11 01:40:54 UTC 2025
+Last updated: Sat Oct 11 06:19:09 UTC 2025
 
 ## Latest Analysis
 
-Loaded 63848 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-10 01:31:16
+Loaded 63892 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-10 06:12:33
 
 Incidents by source:
 source
-newsapi           63747
+newsapi           63791
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-10-10 01:31
+### SHOOTING on 2025-10-10 06:12
+- Location: The Local Sweden
+- Description: Liberals to decide on Sweden Democrat collaboration, security guard shot on Stureplan and Sweden's Jews hope for less antisemitism after peace agreement. Here's Sweden's news on Friday.
+
+
+### HOMICIDE on 2025-10-10 06:09
+- Location: ABC News (AU)
+- Description: Mark Akers was travelling to Melbourne from Brisbane before his body was found on the side of the Newell Highway near Jerilderie in June.
+
+
+### OTHER on 2025-10-10 06:05
+- Location: ABC News
+- Description: National Guard troops are expected to begin patrolling in Memphis
+
+
+### OTHER on 2025-10-10 06:00
+- Location: CounterPunch
+- Description: The fatal flaw in Donald Trump's scheme to whitewash American history of its most depraved and embarrassing episodes is that his administration is committing new acts of barbarity and stupidity in real-time on an almost hourly basis. Consider the last week in…
+
+
+### HOMICIDE on 2025-10-10 05:58
 - Location: The Times of India
-- Description: Duke University researchers secured a $15M federal grant to expand Duke-PMA, an AI model predicting mental illness in adolescents. Using questionnaires, it identifies at-risk teens with 84% accuracy, offering actionable insights for clinicians. The observatio…
+- Description: Assam Police's SIT has arrested two of singer Zubeen Garg's Personal Security Officers (PSOs) in connection with his death in Singapore. This follows the uncovering of a significant financial transaction in the PSOs' bank accounts. The investigation has alrea…
 
-
-### OTHER on 2025-10-10 01:28
-- Location: The Times of India
-- Description: US News: US President Trump said on Thursday the Gaza hostages should be released on Monday or Tuesday and that he hopes to attend a signing ceremony in Egypt .
-
-
-### OTHER on 2025-10-10 01:18
-- Location: The Times of India
-- Description: Europe News: Among his best-known works are ‘The Melancholy of Resistance’, about events in a small town after a circus arrives with a huge stuffed whale in tow, a.
-
-
-### HOMICIDE on 2025-10-10 01:05
-- Location: Starweekly.com.au
-- Description: More than 200 Ambulance Victoria (AV) staff have swapped their uniforms for sports gear as they take on colleagues from across the state at this year’s Victoria Police and Emergency Services (VPES) Games. The VPES Games began on Sunday 5 October and finish on…
-
-
-### OTHER on 2025-10-10 01:04
-- Location: CBC News
-- Description: An Ontario man pleaded guilty in Toronto on Thursday to three terrorism charges for his participation in an international neo-Nazi terrorist group.
-
-Analysis generated at: Sat Oct 11 01:40:54 UTC 2025
+Analysis generated at: Sat Oct 11 06:19:08 UTC 2025
