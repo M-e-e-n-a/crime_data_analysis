@@ -1,10 +1,10 @@
 
-Loaded 63964 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-10 12:40:20
+Loaded 64053 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-10 18:15:41
 
 Incidents by source:
 source
-newsapi           63863
+newsapi           63952
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-10-10 12:40
-- Location: Freerepublic.com
-- Description: Democrats Are Giving Up On DemocracyIt doesn’t matter how unpopular Democrats’ policies are, they are not going to negotiate, they are not going to compromise.Tectonic plates are shifting in the American polity. A new dynamic is emerging, and a big part of th…
+### OTHER on 2025-10-10 18:15
+- Location: Mediatakeout.com
+- Description: ‘Real Housewives of Potomac’ Star Wendy Osefo Charged With 16 Counts — Including Fraud and False Reporting! It’s looking like The Real Housewives of Potomac may have just turned into a real-life courtroom drama. Media Take Out confirmed that Wendy Osefo, one …
 
 
-### OTHER on 2025-10-10 12:39
-- Location: The Conversation Africa
-- Description: The church, whose members are often known as Mormons, has grown from a small community to 17.5 million members around the world – but not without some tensions.
+### HOMICIDE on 2025-10-10 18:14
+- Location: The Indian Express
+- Description: Akash initially claimed to Rahul’s family members that they had “consumed tadi from a house at Ichhapore and that Rahul lost consciousness when they were travelling on a bike soon after
 
 
-### SHOOTING on 2025-10-10 12:38
-- Location: The Conversation Africa
-- Description: Political violence, made easier to carry out by the proliferation of guns, harms democracy by shifting the field of political disagreement from debate to aggression.
+### ROBBERY/THEFT on 2025-10-10 18:03
+- Location: The Times of India
+- Description: It was hard to think of London as being the "crime capital" of Europe now, having been there countless times over the past 30 years with nary a pilfered pochette. But things have clearly changed. Not only do tourists no longer have the option to get 17% VAT r…
 
 
-### OTHER on 2025-10-10 12:32
-- Location: Fair Observer
-- Description: At the risk of sounding repetitive, I return this week to the still developing story I’ve followed in two recent columns. Although instances of combat between proverbial “good and evil” causes across the globe are certainly not lacking in these days of maximu…
+### ROBBERY/THEFT on 2025-10-10 18:03
+- Location: CBS Sports
+- Description: Jones was scammed out of $2.58 million over multiple years
 
 
-### SHOOTING on 2025-10-10 12:30
-- Location: Freethoughtblogs.com
-- Description: The Probability Broach, chapter 10 When he arrived in this alternate universe, Win Bear was shot and almost died. Lucky for him, the North American Confederacy has super-advanced medical technology. The high-tech cast that’s healing his bullet wounds is suppo…
+### OTHER on 2025-10-10 18:00
+- Location: Decider
+- Description: Keira Knightley stars in this film adaptation of Ruth Ware's 2016 novel.
 
-Analysis generated at: Sat Oct 11 12:40:58 UTC 2025
+Analysis generated at: Sat Oct 11 18:16:43 UTC 2025
