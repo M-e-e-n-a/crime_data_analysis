@@ -1,10 +1,10 @@
 
-Loaded 63958 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-10 12:16:52
+Loaded 63964 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-10 12:40:20
 
 Incidents by source:
 source
-newsapi           63857
+newsapi           63863
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-10-10 12:16
-- Location: BBC News
-- Description: Amen Teklay was found seriously injured on Clarendon Street in Glasgow in march this year
+### OTHER on 2025-10-10 12:40
+- Location: Freerepublic.com
+- Description: Democrats Are Giving Up On DemocracyIt doesn’t matter how unpopular Democrats’ policies are, they are not going to negotiate, they are not going to compromise.Tectonic plates are shifting in the American polity. A new dynamic is emerging, and a big part of th…
 
 
-### SHOOTING on 2025-10-10 12:14
-- Location: Mediatakeout.com
-- Description: Tekashi 6ix9ine is continuing to troll his opp, Lil Tjay, this time about the time he almost lost his life after he was shot at a Chipotle restaurant back in 2022. The rappers were going back and forth online and in the DMs before and after the shooting. “He …
+### OTHER on 2025-10-10 12:39
+- Location: The Conversation Africa
+- Description: The church, whose members are often known as Mormons, has grown from a small community to 17.5 million members around the world – but not without some tensions.
 
 
-### OTHER on 2025-10-10 12:13
-- Location: National Observer
-- Description: Featuring John Candy, French cinema innovators and a familiar immigrant to Canada story
+### SHOOTING on 2025-10-10 12:38
+- Location: The Conversation Africa
+- Description: Political violence, made easier to carry out by the proliferation of guns, harms democracy by shifting the field of political disagreement from debate to aggression.
 
 
-### OTHER on 2025-10-10 12:00
-- Location: The Daily Caller
-- Description: An activist is offering free homes for his allies to move to a GOP-leaning Texas county to change its electoral makeup in favor of "melanated people of power."
+### OTHER on 2025-10-10 12:32
+- Location: Fair Observer
+- Description: At the risk of sounding repetitive, I return this week to the still developing story I’ve followed in two recent columns. Although instances of combat between proverbial “good and evil” causes across the globe are certainly not lacking in these days of maximu…
 
 
-### OTHER on 2025-10-10 12:00
-- Location: Daily Signal
-- Description: Every election season, mayors and governors step before cameras to boast that crime is down. Charts are waved, statistics are cited, and carefully crafted talking... Read More
-The post The Myth of Falling Crime: Why Americans Don’t Trust the Numbers appeared …
+### SHOOTING on 2025-10-10 12:30
+- Location: Freethoughtblogs.com
+- Description: The Probability Broach, chapter 10 When he arrived in this alternate universe, Win Bear was shot and almost died. Lucky for him, the North American Confederacy has super-advanced medical technology. The high-tech cast that’s healing his bullet wounds is suppo…
 
-Analysis generated at: Sat Oct 11 12:24:32 UTC 2025
+Analysis generated at: Sat Oct 11 12:40:58 UTC 2025
