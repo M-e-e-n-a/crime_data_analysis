@@ -1,10 +1,10 @@
 
-Loaded 63842 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-10 01:00:00
+Loaded 63848 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-10 01:31:16
 
 Incidents by source:
 source
-newsapi           63741
+newsapi           63747
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-10-10 01:00
-- Location: OK!
-- Description: Kseniya Alexandrova, JonBenet Ramsey and other pageant queens left their crowns behind when tragedy cut their lives short.
+### OTHER on 2025-10-10 01:31
+- Location: The Times of India
+- Description: Duke University researchers secured a $15M federal grant to expand Duke-PMA, an AI model predicting mental illness in adolescents. Using questionnaires, it identifies at-risk teens with 84% accuracy, offering actionable insights for clinicians. The observatio…
 
 
-### OTHER on 2025-10-10 00:58
-- Location: The Denver Post
-- Description: A 16-year-old Arvada girl is missing after she was last seen in the 6900 block of West 69th Avenue on Friday.
+### OTHER on 2025-10-10 01:28
+- Location: The Times of India
+- Description: US News: US President Trump said on Thursday the Gaza hostages should be released on Monday or Tuesday and that he hopes to attend a signing ceremony in Egypt .
 
 
-### OTHER on 2025-10-10 00:56
+### OTHER on 2025-10-10 01:18
+- Location: The Times of India
+- Description: Europe News: Among his best-known works are ‘The Melancholy of Resistance’, about events in a small town after a circus arrives with a huge stuffed whale in tow, a.
+
+
+### HOMICIDE on 2025-10-10 01:05
+- Location: Starweekly.com.au
+- Description: More than 200 Ambulance Victoria (AV) staff have swapped their uniforms for sports gear as they take on colleagues from across the state at this year’s Victoria Police and Emergency Services (VPES) Games. The VPES Games began on Sunday 5 October and finish on…
+
+
+### OTHER on 2025-10-10 01:04
 - Location: CBC News
-- Description: A 38-year-old Ontario man who faced a rare charge under Canada's state secrets law of leaking sensitive information to a foreign entity or terrorist group has been found not criminally responsible after he posted a YouTube video that disclosed nuclear power p…
+- Description: An Ontario man pleaded guilty in Toronto on Thursday to three terrorism charges for his participation in an international neo-Nazi terrorist group.
 
-
-### OTHER on 2025-10-10 00:56
-- Location: CBC News
-- Description: A 38-year-old Ontario man who faced a rare charge under Canada's state secrets law of leaking sensitive information to a foreign entity or terrorist group has been found not criminally responsible after he posted a YouTube video that disclosed nuclear power p…
-
-
-### HOMICIDE on 2025-10-10 00:55
-- Location: The Indian Express
-- Description: The accused, identified as Hamza, is the main perpetrator in the murder of Adil, who was killed in Meerut on October 1. According to police, a love affair gone wrong could have led to the incident.
-
-Analysis generated at: Sat Oct 11 01:01:21 UTC 2025
+Analysis generated at: Sat Oct 11 01:40:54 UTC 2025
