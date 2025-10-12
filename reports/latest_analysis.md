@@ -1,10 +1,10 @@
 
-Loaded 64079 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-11 06:18:01
+Loaded 64121 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-11 12:00:00
 
 Incidents by source:
 source
-newsapi           63978
+newsapi           64020
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-10-11 06:18
-- Location: The Times of India
-- Description: A heart-wrenching incident unfolded on the Pendra–Gaurela road as a mother monkey was fatally struck by a speeding vehicle. Her infant clung to her lifeless body, a poignant display of grief that moved onlookers to tears. Forest officials have rescued the bab…
+### OTHER on 2025-10-11 12:00
+- Location: NBC News
+- Description: Dancing frogs and unicorns on the protest line defy portrait of Portland as a 'war zone'
 
 
-### HOMICIDE on 2025-10-11 06:07
-- Location: Syllad.com
-- Description: Leader of Opposition Mukul Sangma has raised serious concerns over Meghalaya’s law and order situation, especially following the recent deaths of two minor children. Speaking to the media on Friday, Sangma stressed the need to address petty crimes, which he w…
+### OTHER on 2025-10-11 11:55
+- Location: HuffPost
+- Description: In papers filed in Manhattan federal court, the lawyers said that officers did not obtain a warrant before searching Mangione's backpack.
 
 
-### OTHER on 2025-10-11 05:58
-- Location: The Times of India
-- Description: Debina and Gurmeet observed a virtual Karwa Chauth as Gurmeet was working, yet they expressed their love and broke their fast together. Fans lauded the couple for their mutual fasting and affection, calling them 'relationship goals' for their devotion and res…
+### HOMICIDE on 2025-10-11 11:54
+- Location: Yahoo Entertainment
+- Description: Deputies responded to the 900 block of West 23rd Street just after 10 p.m.
 
 
-### OTHER on 2025-10-11 05:49
-- Location: Freerepublic.com
-- Description: Mayor Brandon Johnson issued an executive order "banning Immigration and Customs Enforcement (ICE) officers from entering any city property to enforce federal laws against illegal immigration. This includes streets and parking lots. Further, City Police are i…
+### OTHER on 2025-10-11 11:49
+- Location: New York Post
+- Description: The Staten Island teen accused of beheading his mom’s boyfriend allegedly showed his little sister the mutilated body -- then asked if she wanted their mother to live.
 
 
-### OTHER on 2025-10-11 05:31
-- Location: The Times of India
-- Description: First Lady Melania Trump announced the return of Ukrainian children displaced by Russia. This breakthrough followed discreet diplomatic communication with Russian President Vladimir Putin. Eight children were returned to their families within 24 hours. Melani…
+### OTHER on 2025-10-11 11:45
+- Location: Whyevolutionistrue.com
+- Description: Welcome to CaturSaturday, October 11, 2025. It’s shabbos for Jewish cats and also International African Penguin Awareness Day.  Here are three photos I took last August of African Penguins  (Spheniscus demersus) at Boulders Beach) near Capetown, South Africa.…
 
-Analysis generated at: Sun Oct 12 06:19:15 UTC 2025
+Analysis generated at: Sun Oct 12 12:24:59 UTC 2025
