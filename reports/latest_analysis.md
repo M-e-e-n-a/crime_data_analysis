@@ -45,4 +45,4 @@ Another Unhinged Leftist Arrested: He Threatened to Murder Benny Johnson  — 
 - Location: The Denver Post
 - Description: The FBI was working to identify the Evergreen High School shooter’s social media accounts through search warrants when the attack happened, the Jefferson County Sheriff’s Office said Friday.
 
-Analysis generated at: Sun Oct 12 01:06:46 UTC 2025
+Analysis generated at: Sun Oct 12 01:48:43 UTC 2025
