@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Oct 12 01:48:43 UTC 2025
+Last updated: Sun Oct 12 06:19:15 UTC 2025
 
 ## Latest Analysis
 
-Loaded 64059 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-11 01:05:18
+Loaded 64079 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-11 06:18:01
 
 Incidents by source:
 source
-newsapi           63958
+newsapi           63978
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2025-10-11 01:05
-- Location: ABC News (AU)
-- Description: It has been close to three decades since Irene Davey's daughter disappeared, now she is taking her case to the United Nations in an attempt to finally get justice.
+### HOMICIDE on 2025-10-11 06:18
+- Location: The Times of India
+- Description: A heart-wrenching incident unfolded on the Pendra–Gaurela road as a mother monkey was fatally struck by a speeding vehicle. Her infant clung to her lifeless body, a poignant display of grief that moved onlookers to tears. Forest officials have rescued the bab…
 
 
-### HOMICIDE on 2025-10-11 00:25
-- Location: Memeorandum.com
-- Description: John Sexton / HotAir:
-Another Unhinged Leftist Arrested: He Threatened to Murder Benny Johnson  —  The threat happened just a few days after the murder of Charlie Kirk last month but it's coming to light now because the person responsible was just arrested. ……
+### HOMICIDE on 2025-10-11 06:07
+- Location: Syllad.com
+- Description: Leader of Opposition Mukul Sangma has raised serious concerns over Meghalaya’s law and order situation, especially following the recent deaths of two minor children. Speaking to the media on Friday, Sangma stressed the need to address petty crimes, which he w…
 
 
-### HOMICIDE on 2025-10-11 00:24
-- Location: KLAS - 8 News Now
-- Description: LAS VEGAS (KLAS) — Surveillance video 8 News Now obtained shows two teenagers shooting into a crowd of people after being denied entry into a house party in ...
+### OTHER on 2025-10-11 05:58
+- Location: The Times of India
+- Description: Debina and Gurmeet observed a virtual Karwa Chauth as Gurmeet was working, yet they expressed their love and broke their fast together. Fans lauded the couple for their mutual fasting and affection, calling them 'relationship goals' for their devotion and res…
 
 
-### OTHER on 2025-10-11 00:11
-- Location: Raw Story
-- Description: Border Patrol agents in Chicago triggered outrage on Friday after they wrestled WGN News video producer Debbie Brockman to the ground and arrested her, for what appeared to be no reason other than filming federal agents carrying out another arrest.The video, …
+### OTHER on 2025-10-11 05:49
+- Location: Freerepublic.com
+- Description: Mayor Brandon Johnson issued an executive order "banning Immigration and Customs Enforcement (ICE) officers from entering any city property to enforce federal laws against illegal immigration. This includes streets and parking lots. Further, City Police are i…
 
 
-### SHOOTING on 2025-10-11 00:01
-- Location: The Denver Post
-- Description: The FBI was working to identify the Evergreen High School shooter’s social media accounts through search warrants when the attack happened, the Jefferson County Sheriff’s Office said Friday.
+### OTHER on 2025-10-11 05:31
+- Location: The Times of India
+- Description: First Lady Melania Trump announced the return of Ukrainian children displaced by Russia. This breakthrough followed discreet diplomatic communication with Russian President Vladimir Putin. Eight children were returned to their families within 24 hours. Melani…
 
-Analysis generated at: Sun Oct 12 01:48:43 UTC 2025
+Analysis generated at: Sun Oct 12 06:19:15 UTC 2025
