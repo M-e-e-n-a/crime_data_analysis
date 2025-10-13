@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Oct 13 12:29:14 UTC 2025
+Last updated: Mon Oct 13 12:49:01 UTC 2025
 
 ## Latest Analysis
 
-Loaded 64265 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-12 12:27:39
+Loaded 64268 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-12 12:48:51
 
 Incidents by source:
 source
-newsapi           64164
+newsapi           64167
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,6 +24,21 @@ bution.svg)
 
 ## Recent Incidents
 
+### HOMICIDE on 2025-10-12 12:48
+- Location: Westernjournal.com
+- Description: Man Who Beat His Infant Daughter to Death for Crying and Disrupting His Xbox Time Learns His Fate in Courtwesternjournal.com
+
+
+### HOMICIDE on 2025-10-12 12:41
+- Location: WPXI Pittsburgh
+- Description: A man is charged with criminal homicide after a woman was stabbed to death at a North Braddock senior apartment community.
+
+
+### HOMICIDE on 2025-10-12 12:32
+- Location: BBC News
+- Description: Northamptonshire Police is investigating the death of David Morgan, 73, who was found dead at his home.
+
+
 ### OTHER on 2025-10-12 12:27
 - Location: Khabarhub.com
 - Description: KATHMANDU: The Central Investigation Bureau (CIB) of Nepal Police has arrested CPN (Maoist Centre) Vice-Chair Krishna Bahadur Mahara in connection with a three-year-old gold smuggling case involving 9 kilograms of gold hidden in vapes. SSP Shiv Kumar Shrestha…
@@ -33,20 +48,4 @@ bution.svg)
 - Location: The Times of India
 - Description: A 32-year-old man with an MPhil in Chemistry from Delhi University has been arrested. He is accused of two jewellery shop robberies in Model Town, Delhi. The accused, Deep Shubham, was previously convicted in a bank robbery case in Bihar. He used his chemistr…
 
-
-### ASSAULT on 2025-10-12 12:15
-- Location: Futurism
-- Description: "Lmfao, that was beautiful and before you ask I voted for this!"
-The post Trump Supporters Are Using OpenAI’s Sora to Generate AI Videos of Soldiers Assaulting Protesters appeared first on Futurism.
-
-
-### OTHER on 2025-10-12 12:14
-- Location: Rap-Up.com
-- Description: Singer d4vd reportedly transferred ownership of his two Texas homes to his mother weeks after Celeste Rivas Hernandez was found in his impounded Tesla.
-
-
-### HOMICIDE on 2025-10-12 12:01
-- Location: TMZ
-- Description: The mass shooting in Leland, Mississippi Friday night wasn't the only one in the state ... police say there were two more shootings in different towns. Cops say after the dust settled from the three shooting incidents, a total of 8 people were dead…
-
-Analysis generated at: Mon Oct 13 12:29:14 UTC 2025
+Analysis generated at: Mon Oct 13 12:49:01 UTC 2025
