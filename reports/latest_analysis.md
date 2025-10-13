@@ -1,10 +1,10 @@
 
-Loaded 64236 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-12 06:21:25
+Loaded 64265 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-12 12:27:39
 
 Incidents by source:
 source
-newsapi           64135
+newsapi           64164
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-10-12 06:21
-- Location: Fox News
-- Description: Air ambulance providers avoid OHSU helipad after online flyer encourages laser targeting of federal aircraft over Portland, raising serious safety concerns.
+### OTHER on 2025-10-12 12:27
+- Location: Khabarhub.com
+- Description: KATHMANDU: The Central Investigation Bureau (CIB) of Nepal Police has arrested CPN (Maoist Centre) Vice-Chair Krishna Bahadur Mahara in connection with a three-year-old gold smuggling case involving 9 kilograms of gold hidden in vapes. SSP Shiv Kumar Shrestha…
 
 
-### ROBBERY/THEFT on 2025-10-12 06:00
+### ROBBERY/THEFT on 2025-10-12 12:26
 - Location: The Times of India
-- Description: Grand Theft Auto 6 could be priced at Rs 9000 in India. This potential cost is a significant increase from earlier estimates. Rockstar, the developer, has reportedly invested over a billion dollars in the game. GTA 6 is set to launch on May 26, 2026, for Play…
+- Description: A 32-year-old man with an MPhil in Chemistry from Delhi University has been arrested. He is accused of two jewellery shop robberies in Model Town, Delhi. The accused, Deep Shubham, was previously convicted in a bank robbery case in Bihar. He used his chemistr…
 
 
-### HOMICIDE on 2025-10-12 05:37
-- Location: Breaking NEWS in KENYA for Today Right Now & Kenyan News | TUKO
-- Description: A famous musician jailed for serious crimes has tragically died after a brutal prison attack where his throat was slashed. Police are investigating.
+### ASSAULT on 2025-10-12 12:15
+- Location: Futurism
+- Description: "Lmfao, that was beautiful and before you ask I voted for this!"
+The post Trump Supporters Are Using OpenAI’s Sora to Generate AI Videos of Soldiers Assaulting Protesters appeared first on Futurism.
 
 
-### HOMICIDE on 2025-10-12 05:25
-- Location: WSB Atlanta
-- Description: The Atlanta Police Department confirmed an officer-involved shooting is under investigation in Buckhead.
+### OTHER on 2025-10-12 12:14
+- Location: Rap-Up.com
+- Description: Singer d4vd reportedly transferred ownership of his two Texas homes to his mother weeks after Celeste Rivas Hernandez was found in his impounded Tesla.
 
 
-### OTHER on 2025-10-12 05:12
-- Location: Freerepublic.com
-- Description: Unveiling the Bias: How Israel's Systems Favor Arabs Over JewsThe provided sources argue that Israel’s legal, social, and administrative systems exhibit preferential treatment toward Arabs over Jews, particularly in religious freedom, construction, land alloc…
+### HOMICIDE on 2025-10-12 12:01
+- Location: TMZ
+- Description: The mass shooting in Leland, Mississippi Friday night wasn't the only one in the state ... police say there were two more shootings in different towns. Cops say after the dust settled from the three shooting incidents, a total of 8 people were dead…
 
-Analysis generated at: Mon Oct 13 06:23:04 UTC 2025
+Analysis generated at: Mon Oct 13 12:29:14 UTC 2025
