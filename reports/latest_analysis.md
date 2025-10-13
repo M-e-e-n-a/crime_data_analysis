@@ -1,10 +1,10 @@
 
-Loaded 64213 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-12 01:41:44
+Loaded 64236 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-12 06:21:25
 
 Incidents by source:
 source
-newsapi           64112
+newsapi           64135
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2025-10-12 01:41
-- Location: The Jerusalem Post
-- Description: A Palestinian inmate slated for release under the Israel-Hamas ceasefire deal attacked a female prison guard before being restrained and detained. A...
+### OTHER on 2025-10-12 06:21
+- Location: Fox News
+- Description: Air ambulance providers avoid OHSU helipad after online flyer encourages laser targeting of federal aircraft over Portland, raising serious safety concerns.
 
 
-### HOMICIDE on 2025-10-12 01:27
-- Location: Clarion Ledger
-- Description: Two SWAC homecoming events were marred by shootings in Mississippi, with shootings involving JSU and Alcorn events.
+### ROBBERY/THEFT on 2025-10-12 06:00
+- Location: The Times of India
+- Description: Grand Theft Auto 6 could be priced at Rs 9000 in India. This potential cost is a significant increase from earlier estimates. Rockstar, the developer, has reportedly invested over a billion dollars in the game. GTA 6 is set to launch on May 26, 2026, for Play…
 
 
-### OTHER on 2025-10-12 01:16
-- Location: New York Post
-- Description: Around 6 p.m. Tuesday, pro-Palestinian radicals descend upon Midtown Manhattan to commemorate one of the darkest days in recent history: The Oct. 7, 2023, massacre of innocent Israelis by Hamas terrorists.
+### HOMICIDE on 2025-10-12 05:37
+- Location: Breaking NEWS in KENYA for Today Right Now & Kenyan News | TUKO
+- Description: A famous musician jailed for serious crimes has tragically died after a brutal prison attack where his throat was slashed. Police are investigating.
 
 
-### ROBBERY/THEFT on 2025-10-12 01:15
-- Location: WPXI Pittsburgh
-- Description: A woman is in jail after police say she stole a car and fled from officers before hitting two vehicles and a hotel in Pittsburgh.
+### HOMICIDE on 2025-10-12 05:25
+- Location: WSB Atlanta
+- Description: The Atlanta Police Department confirmed an officer-involved shooting is under investigation in Buckhead.
 
 
-### HOMICIDE on 2025-10-12 01:12
-- Location: CBS News
-- Description: Mangione's lawyers asked a New York federal judge to toss several charges, including the one that carries the death penalty.
+### OTHER on 2025-10-12 05:12
+- Location: Freerepublic.com
+- Description: Unveiling the Bias: How Israel's Systems Favor Arabs Over JewsThe provided sources argue that Israel’s legal, social, and administrative systems exhibit preferential treatment toward Arabs over Jews, particularly in religious freedom, construction, land alloc…
 
-Analysis generated at: Mon Oct 13 01:52:19 UTC 2025
+Analysis generated at: Mon Oct 13 06:23:04 UTC 2025
