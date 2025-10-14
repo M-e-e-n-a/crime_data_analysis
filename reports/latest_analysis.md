@@ -1,10 +1,10 @@
 
-Loaded 64466 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-13 12:49:04
+Loaded 64538 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-13 18:13:53
 
 Incidents by source:
 source
-newsapi           64365
+newsapi           64437
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-10-13 12:49
-- Location: The Conversation Africa
-- Description: Young women are heavily targeted by sex-for-rent arrangements, and so are economically marginalised men.
+### HOMICIDE on 2025-10-13 18:13
+- Location: WSOC Charlotte
+- Description: Gov. Josh Stein announced today that North Carolina is offering a reward of up to $25,000 for information leading to the arrest and conviction of those responsible for the murder of Isis Denise “Dee Dee” Dawkins, a 13-year-old girl.
 
 
-### HOMICIDE on 2025-10-13 12:49
-- Location: Sky.com
-- Description: The man was arrested at an undisclosed prison where he is currently serving a sentence for other offences.
+### OTHER on 2025-10-13 18:08
+- Location: Raw Story
+- Description: For the Trump regime, the brutality is the point. It’s the means to the end of a violent, single-party state that they’re openly proclaiming, even though our media insists on turning away from it.Back in the 1980s, I lived with my family and worked in Germany…
 
 
-### HOMICIDE on 2025-10-13 12:45
-- Location: Freerepublic.com
-- Description: A mass shooting at a crowded family-friendly restaurant in South Carolina left four people dead and at least 20 customers injured, according to police. The horror unfolded around 1am Sunday at Willie's Bar and Grill in St. Helena Island, about two hours from …
+### ROBBERY/THEFT on 2025-10-13 18:04
+- Location: Boston Herald
+- Description: "Real Housewives of the Potomac" star Wendy Osefo and her husband, Edward Osefo, were charged in Carroll County after allegedly lying about a burglary.
 
 
-### SHOOTING on 2025-10-13 12:44
-- Location: The Times of India
-- Description: Prime Minister Modi advocates group farming for farmer income. Southwest monsoon has withdrawn from West Bengal. Assam Police will discuss Zubeen Garg's post-mortem report. Donald Trump calls Gaza ceasefire a new dawn. A mass shooting in South Carolina left f…
+### OTHER on 2025-10-13 18:00
+- Location: TheJournal.ie
+- Description: Unionists opposing dual language signage including Irish in Belfast are told it won’t help their cause by leading unionist commentator.
 
 
-### HOMICIDE on 2025-10-13 12:43
-- Location: BBC News
-- Description: Lindsay Rimer, 13, was found dead five months after she went missing from Hebden Bridge in 1994.
+### OTHER on 2025-10-13 18:00
+- Location: Daily Signal
+- Description: WASHINGTON — In a better world, Democrats would be running at full speed away from Jay Jones, the Democratic nominee in the Virginia attorney general... Read More
+The post Virginia Attorney General Race May Show Proof of the Charlie Kirk Effect appeared first…
 
-Analysis generated at: Tue Oct 14 12:51:04 UTC 2025
+Analysis generated at: Tue Oct 14 18:21:20 UTC 2025
