@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Oct 14 01:03:47 UTC 2025
+Last updated: Tue Oct 14 01:45:47 UTC 2025
 
 ## Latest Analysis
 
-Loaded 64337 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-13 01:01:04
+Loaded 64343 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-13 01:45:03
 
 Incidents by source:
 source
-newsapi           64236
+newsapi           64242
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-10-13 01:01
-- Location: WPXI Pittsburgh
-- Description: A man is facing charges after police say he shot at the front of a bar after being asked to leave.
-
-
-### HOMICIDE on 2025-10-13 00:49
-- Location: KTLA Los Angeles
-- Description: A judge in Northern California sentenced a 51-year-old man to 95 years to life in state prison for the 2017 murder of a 30-year-old woman, his ex-girlfriend,...
-
-
-### ROBBERY/THEFT on 2025-10-13 00:45
-- Location: Honolulu Star-Advertiser
-- Description: A Naalehu man, 31, has been arrested for first-degree robbery after a violent crime spree in Volcano on Saturday afternoon, according to the Hawaii County Police Department.
-
-
-### OTHER on 2025-10-13 00:45
-- Location: Activistpost.com
-- Description: National Guard troops have been deployed to Portland, Oregon, in defiance of a federal judge’s court order. Donald Trump has been creating standing armies in towns across the United States, even though the militarization of law enforcement is a violation of t…
-
-
-### OTHER on 2025-10-13 00:42
+### OTHER on 2025-10-13 01:45
 - Location: The Times of India
-- Description: President Trump receives a hero's welcome in Israel's Knesset as a fragile Gaza ceasefire enters its fourth day, with hostage and prisoner exchanges marking tentative steps. Despite Trump's optimism for regional normalization, a lasting peace remains distant,…
+- Description: India Business News: MUMBAI: Banks are expected to report weaker earnings for the second quarter of FY26 in coming weeks as falling lending rates outpaced the decline in f.
 
-Analysis generated at: Tue Oct 14 01:03:47 UTC 2025
+
+### HOMICIDE on 2025-10-13 01:42
+- Location: The Times of India
+- Description: A fatal assault in Turbhe village has escalated from an attempt to murder to a murder charge under the BNS. Kishore Varak, 23, died from injuries sustained during a dispute that turned violent. Police have arrested five individuals, including the alleged key …
+
+
+### OTHER on 2025-10-13 01:32
+- Location: The Times of India
+- Description: Ecuador's capital, Quito, witnessed intense street protests Sunday as citizens voiced anger over soaring fuel prices. Demonstrators clashed with police, who deployed tear gas to disperse crowds burning tires and blocking roads. The unrest, initiated by an ind…
+
+
+### DRUG RELATED on 2025-10-13 01:17
+- Location: Starcommunity.com.au
+- Description: A judge described it as “breathtaking” that a trafficker arrived at a Dandenong Drug Court appointment in a dubiously-obtained Landcruiser laden with meth and cash. Shamit Naidu, 30, of Cranbourne South, pleaded guilty at Victorian County Court to drug traffi…
+
+
+### OTHER on 2025-10-13 01:17
+- Location: Mypeoplesreview.com
+- Description: Kathmandu, October 13: After former speaker and Maoist leader Krishna Bahadur Mahara’s arrest on charges of gold smuggling, ex-vice president […]
+The post Ex-VP Pun also under police investigation appeared first on Peoples' Review.
+
+Analysis generated at: Tue Oct 14 01:45:47 UTC 2025
