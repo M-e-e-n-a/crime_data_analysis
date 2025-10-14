@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Oct 14 01:45:47 UTC 2025
+Last updated: Tue Oct 14 06:22:19 UTC 2025
 
 ## Latest Analysis
 
-Loaded 64343 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-13 01:45:03
+Loaded 64394 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-13 06:21:00
 
 Incidents by source:
 source
-newsapi           64242
+newsapi           64293
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-10-13 01:45
-- Location: The Times of India
-- Description: India Business News: MUMBAI: Banks are expected to report weaker earnings for the second quarter of FY26 in coming weeks as falling lending rates outpaced the decline in f.
+### HOMICIDE on 2025-10-13 06:21
+- Location: BBC News
+- Description: The boy’s father has been arrested on charges of negligent handling of a firearm and the two are due in court.
 
 
-### HOMICIDE on 2025-10-13 01:42
-- Location: The Times of India
-- Description: A fatal assault in Turbhe village has escalated from an attempt to murder to a murder charge under the BNS. Kishore Varak, 23, died from injuries sustained during a dispute that turned violent. Police have arrested five individuals, including the alleged key …
+### OTHER on 2025-10-13 06:15
+- Location: Variety
+- Description: Cineflix Rights has announced multiple international deals for the BBC One primetime crime thriller “Virdee” at Mipcom. The series has been bought by Canal+ (Netherlands), SVT (Sweden), Filmin (Spain), Britbox for its platforms across Norway, Finland and Denm…
 
 
-### OTHER on 2025-10-13 01:32
-- Location: The Times of India
-- Description: Ecuador's capital, Quito, witnessed intense street protests Sunday as citizens voiced anger over soaring fuel prices. Demonstrators clashed with police, who deployed tear gas to disperse crowds burning tires and blocking roads. The unrest, initiated by an ind…
+### OTHER on 2025-10-13 06:04
+- Location: Boredpanda.com
+- Description: Would you divorce your spouse over Pokémon cards?
 
 
-### DRUG RELATED on 2025-10-13 01:17
-- Location: Starcommunity.com.au
-- Description: A judge described it as “breathtaking” that a trafficker arrived at a Dandenong Drug Court appointment in a dubiously-obtained Landcruiser laden with meth and cash. Shamit Naidu, 30, of Cranbourne South, pleaded guilty at Victorian County Court to drug traffi…
+### OTHER on 2025-10-13 06:00
+- Location: The Irish Times
+- Description: Reorganisation has left large areas without local Garda knowledge - leaving them vulnerable
 
 
-### OTHER on 2025-10-13 01:17
-- Location: Mypeoplesreview.com
-- Description: Kathmandu, October 13: After former speaker and Maoist leader Krishna Bahadur Mahara’s arrest on charges of gold smuggling, ex-vice president […]
-The post Ex-VP Pun also under police investigation appeared first on Peoples' Review.
+### OTHER on 2025-10-13 06:00
+- Location: Naturalnews.com
+- Description: Authorities dismantled two criminal rings in Long Island accused of stealing 500,000 pounds of clothing from charity donation bins, depriving vulnerable populations of aid. Sixteen suspects (including at least eight undocumented individuals) were arrested aft…
 
-Analysis generated at: Tue Oct 14 01:45:47 UTC 2025
+Analysis generated at: Tue Oct 14 06:22:19 UTC 2025
