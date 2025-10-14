@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Oct 14 06:22:19 UTC 2025
+Last updated: Tue Oct 14 12:30:09 UTC 2025
 
 ## Latest Analysis
 
-Loaded 64394 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-13 06:21:00
+Loaded 64458 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-13 12:30:00
 
 Incidents by source:
 source
-newsapi           64293
+newsapi           64357
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-10-13 06:21
+### OTHER on 2025-10-13 12:30
+- Location: STLtoday.com
+- Description: “We lost,” Missouri coach Eli Drinkwitz said after Saturday’s defeat to Alabama, “but all is not lost. I mean, that’s the reality of college football.”
+
+
+### HOMICIDE on 2025-10-13 12:12
 - Location: BBC News
-- Description: The boy’s father has been arrested on charges of negligent handling of a firearm and the two are due in court.
+- Description: A judge sentences a man to six years in prison over a fight that killed a 63-year-old drug dealer.
 
 
-### OTHER on 2025-10-13 06:15
-- Location: Variety
-- Description: Cineflix Rights has announced multiple international deals for the BBC One primetime crime thriller “Virdee” at Mipcom. The series has been bought by Canal+ (Netherlands), SVT (Sweden), Filmin (Spain), Britbox for its platforms across Norway, Finland and Denm…
+### ROBBERY/THEFT on 2025-10-13 12:11
+- Location: Lse.ac.uk
+- Description: The Israel-Hamas peace plan brokered by Donald Trump has brought a ceasefire to Gaza. Yet as Robert H. Wade argues, this success has done little to dampen Trump’s appetite for … Continued
+The post Trump, Gaza and the US political maelstrom first appeared on E…
 
 
-### OTHER on 2025-10-13 06:04
-- Location: Boredpanda.com
-- Description: Would you divorce your spouse over Pokémon cards?
+### ROBBERY/THEFT on 2025-10-13 12:07
+- Location: The Star Online
+- Description: SEGAMAT: Police have arrested three teenagers for allegedly stealing a donation box from a surau here. Read full story
 
 
-### OTHER on 2025-10-13 06:00
-- Location: The Irish Times
-- Description: Reorganisation has left large areas without local Garda knowledge - leaving them vulnerable
+### HOMICIDE on 2025-10-13 12:01
+- Location: BBC News
+- Description: Lindsay Rimer, 13, was found dead five months after she went missing from Hebden Bridge in 1994.
 
-
-### OTHER on 2025-10-13 06:00
-- Location: Naturalnews.com
-- Description: Authorities dismantled two criminal rings in Long Island accused of stealing 500,000 pounds of clothing from charity donation bins, depriving vulnerable populations of aid. Sixteen suspects (including at least eight undocumented individuals) were arrested aft…
-
-Analysis generated at: Tue Oct 14 06:22:19 UTC 2025
+Analysis generated at: Tue Oct 14 12:30:09 UTC 2025
