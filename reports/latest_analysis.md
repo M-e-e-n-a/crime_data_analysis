@@ -1,10 +1,10 @@
 
-Loaded 64458 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-13 12:30:00
+Loaded 64466 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-13 12:49:04
 
 Incidents by source:
 source
-newsapi           64357
+newsapi           64365
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-10-13 12:30
-- Location: STLtoday.com
-- Description: “We lost,” Missouri coach Eli Drinkwitz said after Saturday’s defeat to Alabama, “but all is not lost. I mean, that’s the reality of college football.”
+### OTHER on 2025-10-13 12:49
+- Location: The Conversation Africa
+- Description: Young women are heavily targeted by sex-for-rent arrangements, and so are economically marginalised men.
 
 
-### HOMICIDE on 2025-10-13 12:12
-- Location: BBC News
-- Description: A judge sentences a man to six years in prison over a fight that killed a 63-year-old drug dealer.
+### HOMICIDE on 2025-10-13 12:49
+- Location: Sky.com
+- Description: The man was arrested at an undisclosed prison where he is currently serving a sentence for other offences.
 
 
-### ROBBERY/THEFT on 2025-10-13 12:11
-- Location: Lse.ac.uk
-- Description: The Israel-Hamas peace plan brokered by Donald Trump has brought a ceasefire to Gaza. Yet as Robert H. Wade argues, this success has done little to dampen Trump’s appetite for … Continued
-The post Trump, Gaza and the US political maelstrom first appeared on E…
+### HOMICIDE on 2025-10-13 12:45
+- Location: Freerepublic.com
+- Description: A mass shooting at a crowded family-friendly restaurant in South Carolina left four people dead and at least 20 customers injured, according to police. The horror unfolded around 1am Sunday at Willie's Bar and Grill in St. Helena Island, about two hours from …
 
 
-### ROBBERY/THEFT on 2025-10-13 12:07
-- Location: The Star Online
-- Description: SEGAMAT: Police have arrested three teenagers for allegedly stealing a donation box from a surau here. Read full story
+### SHOOTING on 2025-10-13 12:44
+- Location: The Times of India
+- Description: Prime Minister Modi advocates group farming for farmer income. Southwest monsoon has withdrawn from West Bengal. Assam Police will discuss Zubeen Garg's post-mortem report. Donald Trump calls Gaza ceasefire a new dawn. A mass shooting in South Carolina left f…
 
 
-### HOMICIDE on 2025-10-13 12:01
+### HOMICIDE on 2025-10-13 12:43
 - Location: BBC News
 - Description: Lindsay Rimer, 13, was found dead five months after she went missing from Hebden Bridge in 1994.
 
-Analysis generated at: Tue Oct 14 12:30:09 UTC 2025
+Analysis generated at: Tue Oct 14 12:51:04 UTC 2025
