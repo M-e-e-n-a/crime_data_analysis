@@ -1,10 +1,10 @@
 
-Loaded 64674 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-14 12:28:02
+Loaded 64676 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-14 12:38:22
 
 Incidents by source:
 source
-newsapi           64573
+newsapi           64575
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,6 +20,16 @@ bution.svg)
 
 ## Recent Incidents
 
+### OTHER on 2025-10-14 12:38
+- Location: The Conversation Africa
+- Description: A series of protests are taking place across the world, largely led by young people.
+
+
+### OTHER on 2025-10-14 12:38
+- Location: Cryptonews
+- Description: Hanoi police have arrested Nguyen Hoa Binh, better known as Shark Binh, the chairman of NextTech Group and a well-known investor from Shark Tank Vietnam, as ...
+
+
 ### OTHER on 2025-10-14 12:28
 - Location: Boston Herald
 - Description: ICE's use of a specific full-body restraint system continues despite concerns about its safety.
@@ -34,14 +44,4 @@ bution.svg)
 - Location: The-independent.com
 - Description: IHOP says it is “fully cooperating” with police investigation
 
-
-### OTHER on 2025-10-14 12:21
-- Location: ABC News
-- Description: SpaceX launched another of its mammoth Starship rockets on a test flight Monday, successfully making it halfway around the world.
-
-
-### OTHER on 2025-10-14 12:20
-- Location: HackRead
-- Description: Spanish Guardia Civil and Group-IB arrest 'GoogleXcoder,' the 25-year-old Brazilian mastermind of the GXC Team, for selling AI-powered phishing kits and malware used to steal millions from banks across the US, UK, Spain, and Brazil.
-
-Analysis generated at: Wed Oct 15 12:30:31 UTC 2025
+Analysis generated at: Wed Oct 15 12:50:35 UTC 2025
