@@ -1,10 +1,10 @@
 
-Loaded 64601 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-14 06:00:00
+Loaded 64674 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-14 12:28:02
 
 Incidents by source:
 source
-newsapi           64500
+newsapi           64573
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-10-14 06:00
-- Location: Naturalnews.com
-- Description: A German mayor-elect was brutally tortured and stabbed by her adopted daughter, raising questions about domestic violence and justice system failures. Despite the severity of the attack, prosecutors declined to charge the daughter with attempted murder, citin…
+### OTHER on 2025-10-14 12:28
+- Location: Boston Herald
+- Description: ICE's use of a specific full-body restraint system continues despite concerns about its safety.
 
 
-### HOMICIDE on 2025-10-14 05:47
-- Location: CounterPunch
-- Description: Will the Trump-Netanyahu deal at least pause the mass killing of Gazans? Maybe, and Gazans have every right to celebrate. But we have repeatedly learned how brief any reprieve in Israel’s genocidal attacks on Palestine can be. And as Hamas releases 20 living …
+### OTHER on 2025-10-14 12:24
+- Location: ABC News
+- Description: Eyewitness video captured the heart-stopping moment a gorilla rushed the glass at a viewing enclosure in the San Diego Zoo.
 
 
-### OTHER on 2025-10-14 05:20
-- Location: BBC News
-- Description: Nadia Yahlom says she had the "right to take a stance about genocide" by removing ribbons.
+### HOMICIDE on 2025-10-14 12:21
+- Location: The-independent.com
+- Description: IHOP says it is “fully cooperating” with police investigation
 
 
-### OTHER on 2025-10-14 05:20
-- Location: ComingSoon.net
-- Description: From Portia and Curtis making the final decision on their marriage to the PCPD arresting Willow and another suspect, here is a recap and all the spoilers...
+### OTHER on 2025-10-14 12:21
+- Location: ABC News
+- Description: SpaceX launched another of its mammoth Starship rockets on a test flight Monday, successfully making it halfway around the world.
 
 
-### OTHER on 2025-10-14 05:19
-- Location: Al Jazeera English
-- Description: More than 2,500 people have been charged as an initial crackdown on the expression has spawned broader protests.
+### OTHER on 2025-10-14 12:20
+- Location: HackRead
+- Description: Spanish Guardia Civil and Group-IB arrest 'GoogleXcoder,' the 25-year-old Brazilian mastermind of the GXC Team, for selling AI-powered phishing kits and malware used to steal millions from banks across the US, UK, Spain, and Brazil.
 
-Analysis generated at: Wed Oct 15 06:22:09 UTC 2025
+Analysis generated at: Wed Oct 15 12:30:31 UTC 2025
