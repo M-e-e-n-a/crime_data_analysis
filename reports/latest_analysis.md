@@ -1,10 +1,10 @@
 
-Loaded 64538 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-13 18:13:53
+Loaded 64552 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-14 01:01:50
 
 Incidents by source:
 source
-newsapi           64437
+newsapi           64451
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-10-13 18:13
-- Location: WSOC Charlotte
-- Description: Gov. Josh Stein announced today that North Carolina is offering a reward of up to $25,000 for information leading to the arrest and conviction of those responsible for the murder of Isis Denise “Dee Dee” Dawkins, a 13-year-old girl.
+### OTHER on 2025-10-14 01:01
+- Location: HuffPost
+- Description: Comments from Salesforce CEO Marc Benioff were met with fierce backlash.
 
 
-### OTHER on 2025-10-13 18:08
-- Location: Raw Story
-- Description: For the Trump regime, the brutality is the point. It’s the means to the end of a violent, single-party state that they’re openly proclaiming, even though our media insists on turning away from it.Back in the 1980s, I lived with my family and worked in Germany…
+### HOMICIDE on 2025-10-14 01:00
+- Location: Allthatsinteresting.com
+- Description: In 2006, Crystal Mangum accused three Duke University lacrosse players of raping her at a party where she performed as an exotic dancer. She later admitted she lied — while in prison for murdering her boyfriend.
+The post The Shocking Story Of Crystal Mangum, …
 
 
-### ROBBERY/THEFT on 2025-10-13 18:04
-- Location: Boston Herald
-- Description: "Real Housewives of the Potomac" star Wendy Osefo and her husband, Edward Osefo, were charged in Carroll County after allegedly lying about a burglary.
+### HOMICIDE on 2025-10-14 00:43
+- Location: The Japan Times
+- Description: U.S. President Donald Trump, speaking on his way to the Middle East, suggested Hamas had been given a temporary green light to police Gaza.
 
 
-### OTHER on 2025-10-13 18:00
-- Location: TheJournal.ie
-- Description: Unionists opposing dual language signage including Irish in Belfast are told it won’t help their cause by leading unionist commentator.
+### OTHER on 2025-10-14 00:24
+- Location: New York Post
+- Description: If Xi Jinping's rule of China is so fragile that he feels mortally threatened by independent religious institutions, it's hard to see how any Western nation can trust his word on anything.
 
 
-### OTHER on 2025-10-13 18:00
-- Location: Daily Signal
-- Description: WASHINGTON — In a better world, Democrats would be running at full speed away from Jay Jones, the Democratic nominee in the Virginia attorney general... Read More
-The post Virginia Attorney General Race May Show Proof of the Charlie Kirk Effect appeared first…
+### OTHER on 2025-10-14 00:23
+- Location: New York Post
+- Description: It may infuriate the anti-cop “privacy” loons, but news that the NYPD has direct access to cameras in public areas in public-housing projects is excellent.
 
-Analysis generated at: Tue Oct 14 18:21:20 UTC 2025
+Analysis generated at: Wed Oct 15 01:05:33 UTC 2025
