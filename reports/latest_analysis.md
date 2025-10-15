@@ -1,10 +1,10 @@
 
-Loaded 64552 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-14 01:01:50
+Loaded 64562 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-14 01:47:15
 
 Incidents by source:
 source
-newsapi           64451
+newsapi           64461
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-10-14 01:01
-- Location: HuffPost
-- Description: Comments from Salesforce CEO Marc Benioff were met with fierce backlash.
+### HOMICIDE on 2025-10-14 01:47
+- Location: CBS News
+- Description: The FBI says four people have been arrested, three of them on murder charges, in a weekend shooting that left six people dead and more than a dozen injured in a small Mississippi town.
 
 
-### HOMICIDE on 2025-10-14 01:00
-- Location: Allthatsinteresting.com
-- Description: In 2006, Crystal Mangum accused three Duke University lacrosse players of raping her at a party where she performed as an exotic dancer. She later admitted she lied — while in prison for murdering her boyfriend.
-The post The Shocking Story Of Crystal Mangum, …
+### HOMICIDE on 2025-10-14 01:47
+- Location: CBS News
+- Description: The FBI says four people have been arrested, three of them on murder charges, in a weekend shooting that left six people dead and more than a dozen injured...
 
 
-### HOMICIDE on 2025-10-14 00:43
-- Location: The Japan Times
-- Description: U.S. President Donald Trump, speaking on his way to the Middle East, suggested Hamas had been given a temporary green light to police Gaza.
+### OTHER on 2025-10-14 01:35
+- Location: Syllad.com
+- Description: Calling out the failure of the district administration to curb the sudden, unprecedented, and shocking surge in crimes against children—some as young as four—the BJP state general secretary Wankitbok Pohshna said the East Khasi Hills district administration h…
 
 
-### OTHER on 2025-10-14 00:24
-- Location: New York Post
-- Description: If Xi Jinping's rule of China is so fragile that he feels mortally threatened by independent religious institutions, it's hard to see how any Western nation can trust his word on anything.
+### OTHER on 2025-10-14 01:30
+- Location: International Business Times
+- Description: They said they had smashed them.
 
 
-### OTHER on 2025-10-14 00:23
-- Location: New York Post
-- Description: It may infuriate the anti-cop “privacy” loons, but news that the NYPD has direct access to cameras in public areas in public-housing projects is excellent.
+### OTHER on 2025-10-14 01:30
+- Location: Ibtimes.com.au
+- Description: They said they had smashed them.
 
-Analysis generated at: Wed Oct 15 01:05:33 UTC 2025
+Analysis generated at: Wed Oct 15 01:48:37 UTC 2025
