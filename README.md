@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Oct 16 06:22:00 UTC 2025
+Last updated: Thu Oct 16 12:30:15 UTC 2025
 
 ## Latest Analysis
 
-Loaded 64814 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-15 06:18:56
+Loaded 64900 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-15 12:26:00
 
 Incidents by source:
 source
-newsapi           64713
+newsapi           64799
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-10-15 06:18
-- Location: The Times of India
-- Description: A Karnataka government accountant, caught accepting a bribe, was ordered compulsory retirement after a departmental inquiry. The Sessions Court acquitted him of criminal charges, and the KSAT overturned the retirement. However, the High Court reinstated the p…
+### OTHER on 2025-10-15 12:26
+- Location: The Star Online
+- Description: JOHOR BARU: A retired Malaysian teacher claimed to have lost her pension savings amounting to RM490,000 after being duped by a phone scam syndicate. Read full story
 
 
-### OTHER on 2025-10-15 06:18
-- Location: CNA
-- Description: SEOUL: South Korea will send a special team to Cambodia on Wednesday (Oct 15) to discuss cases of fake jobs and scam centres involved in kidnapping dozens of its nationals, officials said a day after Seoul vowed
+### ROBBERY/THEFT on 2025-10-15 12:25
+- Location: Freerepublic.com
+- Description: Whenever a nation goes into crisis, an invisible countdown begins. We may not be able to see it. We may not know how much time is left. But the countdown is there—the countdown to reform or revolution. When a nation faces major problems that leave the people …
 
 
-### HOMICIDE on 2025-10-15 06:16
-- Location: New Zealand Herald
-- Description: Bay of Plenty man charged over Foxton Beach incident granted interim name suppression.
+### OTHER on 2025-10-15 12:23
+- Location: C21media.net
+- Description: MIPCOM: Thai streaming service TrueVisions NOW has partnered with Banijay Entertainment's production label CreAsia Studio on a local version of new drama franchise My Chef in Crime. The innovative eigh...
 
 
-### HOMICIDE on 2025-10-15 06:03
-- Location: ABC News (AU)
-- Description: The man accused of organising the assassination of former Rebels boss Nick Martin believed the bikie had also arranged to have him killed, a Perth court hears.
+### HOMICIDE on 2025-10-15 12:19
+- Location: BBC News
+- Description: Aren Pearson stabbed fellow Canadian Claire Leveque, 24, to death at his mother's home in 2023.
 
 
-### OTHER on 2025-10-15 06:00
-- Location: GlobeNewswire
-- Description: This announcement contains inside information.Kenmare Resources plc(“Kenmare” or “the Company” or “the Group”)15 October 2025Q3 2025 Production......
+### OTHER on 2025-10-15 12:18
+- Location: ABC News
+- Description: President Trump on Tuesday posthumously awarded conservative activist Charlie Kirk the nation's highest civilian honor, the Presidential Medal of Freedom, presenting the medal to his widow Erika Kirk.
 
-Analysis generated at: Thu Oct 16 06:22:00 UTC 2025
+Analysis generated at: Thu Oct 16 12:30:15 UTC 2025
