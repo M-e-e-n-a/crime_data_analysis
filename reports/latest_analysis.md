@@ -1,10 +1,10 @@
 
-Loaded 64779 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-15 01:46:45
+Loaded 64814 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-15 06:18:56
 
 Incidents by source:
 source
-newsapi           64678
+newsapi           64713
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-10-15 01:46
-- Location: Lawyersgunsmoneyblog.com
-- Description: This is a sad story. The non-prolific but brilliant R&B titan has died at the too-much-fucking-perspective age of 51: D’Angelo, the groundbreaking R&B artist who helped define the neo-soul movement across decades despite his reclusive nature, has died. In a s…
+### OTHER on 2025-10-15 06:18
+- Location: The Times of India
+- Description: A Karnataka government accountant, caught accepting a bribe, was ordered compulsory retirement after a departmental inquiry. The Sessions Court acquitted him of criminal charges, and the KSAT overturned the retirement. However, the High Court reinstated the p…
 
 
-### OTHER on 2025-10-15 01:46
-- Location: ABC News (AU)
-- Description: The Federal Court orders mediation for former Liberal staffer Bruce Lehrmann over funding he says he was offered to pay for his lawyers.
+### OTHER on 2025-10-15 06:18
+- Location: CNA
+- Description: SEOUL: South Korea will send a special team to Cambodia on Wednesday (Oct 15) to discuss cases of fake jobs and scam centres involved in kidnapping dozens of its nationals, officials said a day after Seoul vowed
 
 
-### OTHER on 2025-10-15 01:38
+### HOMICIDE on 2025-10-15 06:16
 - Location: New Zealand Herald
-- Description: Aydan was last seen in Hamilton’s Chartwell area on August 17.
+- Description: Bay of Plenty man charged over Foxton Beach incident granted interim name suppression.
 
 
-### HOMICIDE on 2025-10-15 01:36
-- Location: ABC News
-- Description: Manhattan DA asks Supreme Court to intervene on retrial of 1979 murder of Etan Patz
+### HOMICIDE on 2025-10-15 06:03
+- Location: ABC News (AU)
+- Description: The man accused of organising the assassination of former Rebels boss Nick Martin believed the bikie had also arranged to have him killed, a Perth court hears.
 
 
-### HOMICIDE on 2025-10-15 01:29
-- Location: Inside the Magic
-- Description: A distressing incident unfolded today at Walt Disney World’s Contemporary Resort, where a body was being removed from the property following what local observers claim was a fall—or more accurately, a jump—from a high point into a viewing area. The event caus…
+### OTHER on 2025-10-15 06:00
+- Location: GlobeNewswire
+- Description: This announcement contains inside information.Kenmare Resources plc(“Kenmare” or “the Company” or “the Group”)15 October 2025Q3 2025 Production......
 
-Analysis generated at: Thu Oct 16 01:47:25 UTC 2025
+Analysis generated at: Thu Oct 16 06:22:00 UTC 2025
