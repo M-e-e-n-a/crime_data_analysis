@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Oct 16 01:05:24 UTC 2025
+Last updated: Thu Oct 16 01:47:25 UTC 2025
 
 ## Latest Analysis
 
-Loaded 64774 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-15 01:04:29
+Loaded 64779 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-15 01:46:45
 
 Incidents by source:
 source
-newsapi           64673
+newsapi           64678
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-10-15 01:04
-- Location: Balloon-juice.com
-- Description: Just going to do a brief(ish) update tonight. First Lady Zelenska hosted Reem al Hashimy, the UAE Minister of State for International Cooperation, in Kyiv today. where an agreement was signed between the Olena Zelenska Foundation and the UAE was signed. Here’…
+### OTHER on 2025-10-15 01:46
+- Location: Lawyersgunsmoneyblog.com
+- Description: This is a sad story. The non-prolific but brilliant R&B titan has died at the too-much-fucking-perspective age of 51: D’Angelo, the groundbreaking R&B artist who helped define the neo-soul movement across decades despite his reclusive nature, has died. In a s…
 
 
-### OTHER on 2025-10-15 00:30
-- Location: The Indian Express
-- Description: On the run for over a year, a court declared Grewal a proclaimed offender and ordered police to book her after she failed to appear for a hearing in July
+### OTHER on 2025-10-15 01:46
+- Location: ABC News (AU)
+- Description: The Federal Court orders mediation for former Liberal staffer Bruce Lehrmann over funding he says he was offered to pay for his lawyers.
 
 
-### HOMICIDE on 2025-10-15 00:00
-- Location: Radaronline.com
-- Description: Ian Watkins is believed to have foresaw his prison murder amid brutal conditions inside the so-called Monster Mansion.
+### OTHER on 2025-10-15 01:38
+- Location: New Zealand Herald
+- Description: Aydan was last seen in Hamilton’s Chartwell area on August 17.
 
 
-### OTHER on 2025-10-15 00:00
-- Location: National Geographic
-- Description: The Finnish capital is defined by the nature around it and the creative spirit of its people. This itinerary explores both traits, with a visit to a sprawling cultural complex, a bike ride along the coast and a happy hour with views.
+### HOMICIDE on 2025-10-15 01:36
+- Location: ABC News
+- Description: Manhattan DA asks Supreme Court to intervene on retrial of 1979 murder of Etan Patz
 
 
-### HOMICIDE on 2025-10-14 18:19
-- Location: The Times of India
-- Description: Ramgarh police apprehended a truck driver from Bihar, identified as Suvindra Yadav, in Ranchi on Monday night. He is accused of the brutal rape and murder of a Ramgarh woman on October 11. The victim was reportedly abducted from the Ramgarh-Patratu highway wh…
+### HOMICIDE on 2025-10-15 01:29
+- Location: Inside the Magic
+- Description: A distressing incident unfolded today at Walt Disney World’s Contemporary Resort, where a body was being removed from the property following what local observers claim was a fall—or more accurately, a jump—from a high point into a viewing area. The event caus…
 
-Analysis generated at: Thu Oct 16 01:05:24 UTC 2025
+Analysis generated at: Thu Oct 16 01:47:25 UTC 2025
