@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Oct 16 12:30:15 UTC 2025
+Last updated: Thu Oct 16 12:50:43 UTC 2025
 
 ## Latest Analysis
 
-Loaded 64900 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-15 12:26:00
+Loaded 64905 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-15 12:49:51
 
 Incidents by source:
 source
-newsapi           64799
+newsapi           64804
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-10-15 12:26
-- Location: The Star Online
-- Description: JOHOR BARU: A retired Malaysian teacher claimed to have lost her pension savings amounting to RM490,000 after being duped by a phone scam syndicate. Read full story
+### OTHER on 2025-10-15 12:49
+- Location: The Conversation Africa
+- Description: The fines of $250 for a first offense and $500 for a second hit low-income families the hardest.
 
 
-### ROBBERY/THEFT on 2025-10-15 12:25
-- Location: Freerepublic.com
-- Description: Whenever a nation goes into crisis, an invisible countdown begins. We may not be able to see it. We may not know how much time is left. But the countdown is there—the countdown to reform or revolution. When a nation faces major problems that leave the people …
+### SHOOTING on 2025-10-15 12:44
+- Location: Al Jazeera English
+- Description: Prosecutors label crimes as 'nihilistic violent extremism', while experts caution against oversimplifying motivations.
 
 
-### OTHER on 2025-10-15 12:23
-- Location: C21media.net
-- Description: MIPCOM: Thai streaming service TrueVisions NOW has partnered with Banijay Entertainment's production label CreAsia Studio on a local version of new drama franchise My Chef in Crime. The innovative eigh...
-
-
-### HOMICIDE on 2025-10-15 12:19
+### HOMICIDE on 2025-10-15 12:43
 - Location: BBC News
-- Description: Aren Pearson stabbed fellow Canadian Claire Leveque, 24, to death at his mother's home in 2023.
+- Description: Spanish police allege Michael Riley murdered Eddie Lyons Jnr and Ross Monaghan at a bar in Fuengirola on the Costa del Sol in May.
 
 
-### OTHER on 2025-10-15 12:18
-- Location: ABC News
-- Description: President Trump on Tuesday posthumously awarded conservative activist Charlie Kirk the nation's highest civilian honor, the Presidential Medal of Freedom, presenting the medal to his widow Erika Kirk.
+### ASSAULT on 2025-10-15 12:38
+- Location: Fox News
+- Description: Surveillance video shows Cody Balmer attack Pennsylvania Gov. Josh Shapiro's mansion with Molotov cocktails in April as the governor and his family slept.
 
-Analysis generated at: Thu Oct 16 12:30:15 UTC 2025
+
+### HOMICIDE on 2025-10-15 12:37
+- Location: Rlsbb.to
+- Description: Plot: Detective Stefani Bennett investigates mysterious deaths while exploring her clairvoyant abilities, guided by Father Arland Anthony, her late father's police partner and family's spiritual advisor. Genre: Crime | Horror | ThrillerIMDB Rating Live: IMDB …
+
+Analysis generated at: Thu Oct 16 12:50:43 UTC 2025
