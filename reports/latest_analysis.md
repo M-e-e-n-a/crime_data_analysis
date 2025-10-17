@@ -1,10 +1,10 @@
 
-Loaded 65001 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-15 18:20:19
+Loaded 65012 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-16 01:02:18
 
 Incidents by source:
 source
-newsapi           64900
+newsapi           64911
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2025-10-15 18:20
-- Location: Wnd.com
-- Description: 'They broke into homes, handcuffed even the elderly, and took them away. One pastor’s mother had a heart attack during the arrest'
+### HOMICIDE on 2025-10-16 01:02
+- Location: Ndtvprofit.com
+- Description: Chandrashekhar Kalekar is accused of knifing a woman when he was living in the Lalbaug area in 1977. He never responded to legal notices and vanished into thin air, but police didn't give up.
 
 
-### OTHER on 2025-10-15 18:13
-- Location: The Times of India
-- Description: A male friend of a gang rape survivor in Durgapur has been remanded to seven days police custody, bringing the total arrests to six. Police are reconstructing the crime scene, focusing on the friend's alleged molestation of the victim before the gang rape.
+### OTHER on 2025-10-16 01:01
+- Location: Mypeoplesreview.com
+- Description: Kathmandu, October 16: The Nepal government deported six Sri Lankan nationals, accused of crime in Sri Lanka, to Sri Lanka […]
+The post six Sri Lankan citizens deported appeared first on Peoples' Review.
 
 
-### HOMICIDE on 2025-10-15 18:13
-- Location: CBC News
-- Description: Two Hamilton Crown attorneys made such critical mistakes during a murder trial that a Superior Court justice has issued what she called an "extremely rare" judicial stay, effectively stopping all proceedings and letting the accused off the hook for one of Can…
+### HOMICIDE on 2025-10-16 01:00
+- Location: Decider
+- Description: This one starts by rewinding all the way back to March 1989.
 
 
-### HOMICIDE on 2025-10-15 18:11
-- Location: TMZ
-- Description: Bryan Kohberger's senseless murder of four college students in Idaho back in 2022 shocked plenty of families around the country ... and we're thinking his...
+### OTHER on 2025-10-16 00:56
+- Location: Freerepublic.com
+- Description: After watching Trump's presser today (my partial notes on the video below), I can say we're in a far safer standing than I thought regarding civil unrest in major cities. President Trump has invested major Law Enforcement resources in many cities, not just Po…
 
 
-### ROBBERY/THEFT on 2025-10-15 18:08
-- Location: New York Post
-- Description: "For the first time in history, we are on the offense not the defense," the legendary Hollywood power player told NYNext.
+### HOMICIDE on 2025-10-16 00:50
+- Location: Breitbart News
+- Description: A career criminal out on parole — who allegedly tortured, killed, and burned an elderly couple at their residence in Democrat-controlled New York City — is also accused of making off with their Yankees ball and going on a shopping spree with their credit card…
 
-Analysis generated at: Thu Oct 16 18:20:53 UTC 2025
+Analysis generated at: Fri Oct 17 01:04:29 UTC 2025
