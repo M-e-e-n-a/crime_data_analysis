@@ -1,10 +1,10 @@
 
-Loaded 65058 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-16 06:20:38
+Loaded 65133 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-16 12:24:08
 
 Incidents by source:
 source
-newsapi           64957
+newsapi           65032
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,31 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-10-16 06:20
-- Location: 7NEWS.com.au
-- Description: Alleged gunman accused of Melbourne crime spree had sought help for acute mental health days before rampage7news.com.au
+### HOMICIDE on 2025-10-16 12:24
+- Location: Rlsbb.to
+- Description: A teenage girl goes missing from her home in Bristol, prompting a huge search across the city and a social media campaign to find her. As days pass fears grow that she may have come to harm. As the police investigation progresses shocking evidence is discover…
 
 
-### HOMICIDE on 2025-10-16 06:09
-- Location: New York Post
-- Description: An Italian model and reality TV star was allegedly stabbed more than 20 times by her wealthy older boyfriend during a heated argument on her apartment balcony.
+### SHOOTING on 2025-10-16 12:22
+- Location: Breitbart News
+- Description: A shooting at a popular mall in Cancun spread panic amongst locals who were forced to run for cover amid the sounds of gunfire.
+The post VIDEO: Shooting Spreads Panic at Mall in Cancun Beach Resort Area appeared first on Breitbart.
 
 
-### OTHER on 2025-10-16 06:08
-- Location: ABC News (AU)
-- Description: A jury finds Callum Anthony Padaric Cook guilty of the manslaughter of Russell Klein, who died after he was struck by Cook's car outside his home on Christmas Day in 2022.
+### HOMICIDE on 2025-10-16 12:22
+- Location: Breitbart News
+- Description: Sweden seeking to arrest Syrian for killing Salwan Momika, who burned copies of the Koran in 2023 and sparked outrage in the Muslim world.
+The post Sweden Doesn’t Know Where Syrian Male Suspected of Shooting Qur’an Burning Activist Dead Fled To appeared first…
 
 
-### HOMICIDE on 2025-10-16 06:04
-- Location: The Local Sweden
-- Description: Prime Minister 'not worried' about low support, Centre Party leader steps down following threats and Quran-burner's murderer potentially identified. Here's Sweden's news on Thursday.
+### ASSAULT on 2025-10-16 12:20
+- Location: Thepinknews.com
+- Description: British Transport Police‘s Chief Superintendent, Chris Casey, has called the ableist and homophobic attack on lesbian comedian Rosie Jones and queer TV presenter Lee Peart “absolutely abhorrent.” Casey, one of London’s most senior openly gay police officers, …
 
 
-### HOMICIDE on 2025-10-16 06:04
-- Location: Everything-everywhere.com
-- Description: Podcast Transcript 1968 marked the beginning of one of the most infamous killing sprees in American history. For two years, Northern California was terrorized by a series of seemingly random murders. It wasn’t just the killings that terrorized people; it was …
+### OTHER on 2025-10-16 12:17
+- Location: Biztoc.com
+- Description: Immigration and Customs Enforcement (ICE) agent Billy Olvera just wanted more cookies—or so he told an American Airlines flight attendant. Meanwhile, he used the ruse to take photos and videos of the attendant's butt, legs, and feet.
+A police examination of h…
 
-Analysis generated at: Fri Oct 17 06:21:10 UTC 2025
+Analysis generated at: Fri Oct 17 12:29:06 UTC 2025
