@@ -1,10 +1,10 @@
 
-Loaded 65016 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-16 01:31:41
+Loaded 65058 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-16 06:20:38
 
 Incidents by source:
 source
-newsapi           64915
+newsapi           64957
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-10-16 01:31
-- Location: The News Journal
-- Description: Chirstina board declares vacancy in ranks, with member still abroad
+### SHOOTING on 2025-10-16 06:20
+- Location: 7NEWS.com.au
+- Description: Alleged gunman accused of Melbourne crime spree had sought help for acute mental health days before rampage7news.com.au
 
 
-### OTHER on 2025-10-16 01:25
-- Location: ABC News
-- Description: President Donald Trump has threatened to relocate World Cup matches set to be played next year in suburban Boston, but it's not really up to him
+### HOMICIDE on 2025-10-16 06:09
+- Location: New York Post
+- Description: An Italian model and reality TV star was allegedly stabbed more than 20 times by her wealthy older boyfriend during a heated argument on her apartment balcony.
 
 
-### HOMICIDE on 2025-10-16 01:13
-- Location: Slashdot.org
-- Description: Man charged with murder over 40 years after teen's killing: DAABC News - Breaking News, Latest News and Videos Long Island teen's 1984 murder solved after 41 years, police sayABC7 New York Nassau Police Charge Man With Raping and Killing Teenager in 1984The N…
+### OTHER on 2025-10-16 06:08
+- Location: ABC News (AU)
+- Description: A jury finds Callum Anthony Padaric Cook guilty of the manslaughter of Russell Klein, who died after he was struck by Cook's car outside his home on Christmas Day in 2022.
 
 
-### HOMICIDE on 2025-10-16 01:10
-- Location: Fox News
-- Description: Charles Crawford was executed Wednesday in Mississippi after spending over 30 years on death row for the 1993 rape and murder of college student Kristy Ray.
+### HOMICIDE on 2025-10-16 06:04
+- Location: The Local Sweden
+- Description: Prime Minister 'not worried' about low support, Centre Party leader steps down following threats and Quran-burner's murderer potentially identified. Here's Sweden's news on Thursday.
 
 
-### HOMICIDE on 2025-10-16 01:02
-- Location: Ndtvprofit.com
-- Description: Chandrashekhar Kalekar is accused of knifing a woman when he was living in the Lalbaug area in 1977. He never responded to legal notices and vanished into thin air, but police didn't give up.
+### HOMICIDE on 2025-10-16 06:04
+- Location: Everything-everywhere.com
+- Description: Podcast Transcript 1968 marked the beginning of one of the most infamous killing sprees in American history. For two years, Northern California was terrorized by a series of seemingly random murders. It wasn’t just the killings that terrorized people; it was …
 
-Analysis generated at: Fri Oct 17 01:46:11 UTC 2025
+Analysis generated at: Fri Oct 17 06:21:10 UTC 2025
