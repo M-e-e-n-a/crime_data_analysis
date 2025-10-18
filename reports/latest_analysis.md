@@ -1,10 +1,10 @@
 
-Loaded 65383 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-17 12:24:31
+Loaded 65384 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-17 12:30:00
 
 Incidents by source:
 source
-newsapi           65282
+newsapi           65283
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -19,6 +19,11 @@ bution.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### OTHER on 2025-10-17 12:30
+- Location: GlobeNewswire
+- Description: Summary: SoundThinking today announced CrimeTracer Gen3, the third generation and most significant upgrade in the product’s history. This release introduces more than a dozen new capabilities and delivers greater value to more units across agencies Summary: S…
+
 
 ### DRUG RELATED on 2025-10-17 12:24
 - Location: ABC News
@@ -39,10 +44,4 @@ bution.svg)
 - Location: Democracy Now!
 - Description: Just days after the U.S.-backed ceasefire deal between Israel and Hamas went into effect, President Trump has issued new threats against Hamas, saying Thursday the United States would back a military intervention against the group if it fails to uphold the ce…
 
-
-### OTHER on 2025-10-17 12:12
-- Location: Breitbart News
-- Description: A car belonging to one of Italy´s leading investigative journalists exploded outside his home overnight.
-The post Counter-Mafia Police Investigate Explosion of Car Belonging to Journalist appeared first on Breitbart.
-
-Analysis generated at: Sat Oct 18 12:25:58 UTC 2025
+Analysis generated at: Sat Oct 18 12:42:19 UTC 2025
