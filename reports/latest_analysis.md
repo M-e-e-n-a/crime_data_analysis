@@ -1,10 +1,10 @@
 
-Loaded 65384 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-17 12:30:00
+Loaded 65476 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-17 18:13:00
 
 Incidents by source:
 source
-newsapi           65283
+newsapi           65375
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-10-17 12:30
-- Location: GlobeNewswire
-- Description: Summary: SoundThinking today announced CrimeTracer Gen3, the third generation and most significant upgrade in the product’s history. This release introduces more than a dozen new capabilities and delivers greater value to more units across agencies Summary: S…
+### OTHER on 2025-10-17 18:13
+- Location: LancasterOnline
+- Description: Police are asking for the public’s help in its investigation of a hit-and-run last month that left an Ephrata man seriously injured.
 
 
-### DRUG RELATED on 2025-10-17 12:24
-- Location: ABC News
-- Description: President DonaldTrump announces a deal with a prescription fertility drug company to reduce the cost of some IVF medications.
+### SHOOTING on 2025-10-17 18:07
+- Location: The New Republic
+- Description: As President Donald Trump’s consolidation of authoritarian power escalates, he and his allies have been employing undisguised state-sponsored propaganda to a degree unmatched by any president in modern times. This much, one hopes, is broadly understood—even i…
 
 
-### OTHER on 2025-10-17 12:22
-- Location: Forbes
-- Description: Capone who reportedly boasted, “They can’t collect legal taxes from illegal money,” was sentenced to 11 years in prison on Oct. 17, 1931, for failing to file tax returns.
+### HOMICIDE on 2025-10-17 18:06
+- Location: Ibtimes.com.au
+- Description: An Algerian woman apologised for her "horrible" actions Friday as she went on trial accused of raping and murdering a 12-year-old girl in Paris, in a case that sparked horror in France and was seized by the far right.
 
 
-### OTHER on 2025-10-17 12:20
-- Location: The Times of India
-- Description: China has expelled nine senior military officials, that includes Vice-Chairman He Weidong, as a part of an anti-corruption initiative. The Defence Ministry stated that He, a member of the Politburo and the Central Military Commission, was expelled from both t…
+### OTHER on 2025-10-17 18:00
+- Location: Screen Rant
+- Description: These 10 horror shows began with pilot episodes that set a tone so precise and alive, and better yet, they live up to the promise from frame one.
 
 
-### OTHER on 2025-10-17 12:12
-- Location: Democracy Now!
-- Description: Just days after the U.S.-backed ceasefire deal between Israel and Hamas went into effect, President Trump has issued new threats against Hamas, saying Thursday the United States would back a military intervention against the group if it fails to uphold the ce…
+### OTHER on 2025-10-17 18:00
+- Location: IndieWire
+- Description: Former editor Geeta Gandbhir tells IndieWire that her obsessive need to create a timeline for her grieving relatives opened up a new way to make a documentary.
 
-Analysis generated at: Sat Oct 18 12:42:19 UTC 2025
+Analysis generated at: Sat Oct 18 18:18:17 UTC 2025
