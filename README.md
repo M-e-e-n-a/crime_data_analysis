@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Oct 19 12:42:09 UTC 2025
+Last updated: Sun Oct 19 18:18:23 UTC 2025
 
 ## Latest Analysis
 
-Loaded 65558 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-18 12:35:47
+Loaded 65609 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-18 18:08:59
 
 Incidents by source:
 source
-newsapi           65457
+newsapi           65508
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-10-18 12:35
-- Location: CBC News
-- Description: Man died of injuries following assault at Queensville Sideroad and Yonge Street late Friday night, police say.
+### OTHER on 2025-10-18 18:08
+- Location: HuffPost
+- Description: Ex-FBI Director James Comey, New York Attorney General Letitia James and former national security adviser John Bolton were all indicted in recent weeks.
 
 
-### OTHER on 2025-10-18 12:26
-- Location: The Times of India
-- Description: A Telugu Desam Party MLA lost over one crore rupees to cybercriminals. The fraudsters posed as Mumbai cyber crime officials. They threatened the MLA with arrest in a fake money laundering case. The MLA transferred the money to secure a provisional bail. He ap…
+### OTHER on 2025-10-18 18:06
+- Location: WTAE Pittsburgh
+- Description: FBI Pittsburgh, along with local, state, and federal partners, arrested 19 "dangerous wanted fugitives" during a five-day operation as part of a nationwide initiative targeting violent crime.
 
 
-### HOMICIDE on 2025-10-18 12:25
-- Location: New York Post
-- Description: The rapper told his audience to "delete everything" after his underaged counterpart -- who was later found dead in his Tesla on Sept. 8 --- made a comment about "raping kids" during the video stream, which was broadcast on Twitch.
+### OTHER on 2025-10-18 18:00
+- Location: Legalinsurrection.com
+- Description: “This new nationwide campaign echoes the darkest days of the 1980s, when urban churches first re-emerged from the Cultural Revolution.”
+The post China Arrests 30 Pastors as Crackdown on Christians Grows first appeared on Le·gal In·sur·rec·tion.
 
 
-### OTHER on 2025-10-18 12:12
-- Location: The Indian Express
-- Description: Why is the curb on the use of the term ‘ORS’ important for your UPSC exam? What significance do topics such as LCA Tejas Mk1A, digital arrest, and the rights of transgender persons have for both the Preliminary and Main exams? You can learn more by reading th…
+### OTHER on 2025-10-18 18:00
+- Location: Newser
+- Description: Marc Benioff, the CEO of Salesforce, has issued a public apology after facing backlash for suggesting President Trump should deploy the National Guard to San Francisco. The tech billionaire posted Friday on X that he does not believe troops are needed to addr…
 
 
-### HOMICIDE on 2025-10-18 12:09
-- Location: The Times of India
-- Description: Trey Reed's death: A Black student's death at Delta State University, initially ruled a suicide, is now under scrutiny.  Family concerns and a private investigation, including an independent autopsy, have fueled allegations of a lynching and cover-up.  Activi…
+### OTHER on 2025-10-18 17:57
+- Location: Yahoo Entertainment
+- Description: Local and federal law enforcement officials worked together on the FBI’s Summer Heat initiative between Oct. 6 and Oct. 10 to “identify targets, collect...
 
-Analysis generated at: Sun Oct 19 12:42:09 UTC 2025
+Analysis generated at: Sun Oct 19 18:18:23 UTC 2025
