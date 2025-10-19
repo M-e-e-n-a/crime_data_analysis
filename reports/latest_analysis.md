@@ -1,10 +1,10 @@
 
-Loaded 65484 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-18 01:07:04
+Loaded 65488 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-18 01:40:59
 
 Incidents by source:
 source
-newsapi           65383
+newsapi           65387
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
+### ROBBERY/THEFT on 2025-10-18 01:40
+- Location: Wrestlezone.com
+- Description: A toy influencer was recently arrested with chargers against him stating he stole thousands of dollars worth of wrestling toys. This week, the San Diego County Sheriff’s Department conducted a search at the residence of 36-year-old Brittany Gomez and 52-year-…
+
+
+### HOMICIDE on 2025-10-18 01:29
+- Location: Breitbart News
+- Description: Disturbing doorbell footage released his week reveals costumed perpetrators terrorizing a widow and her family in Alexandria, Virginia, as they allegedly try to break in and threaten to kill everyone inside.
+The post Watch: Trio of Horror Film Characters Terr…
+
+
+### OTHER on 2025-10-18 01:27
+- Location: CBC News
+- Description: Just over a week out from the Elmwood–East Kildonan byelection, seven candidates are canvassing doorsteps with promises to tackle crime, fix roads and restore community programs — but the contest is also being shaped by the question of who would be best to re…
+
+
+### HOMICIDE on 2025-10-18 01:20
+- Location: Fox News
+- Description: A South Carolina man on death row is scheduled to be executed next month for killing a man and painting "catch me if u can" on the wall with the victim's blood more than 20 years ago.
+
+
 ### OTHER on 2025-10-18 01:07
 - Location: Bleeding Cool News
 - Description: In CBS and Showrunners Brandon Sonnier and Brandon Margolis' "Blue Bloods" spinoff series, Donnie Wahlberg's NYPD Det. Danny Reagan heads north to take a position with the Boston Police Department. Paired up with Det. Lena Silver (Sonequa Martin-Green), Danny…
 
-
-### OTHER on 2025-10-18 00:57
-- Location: Freerepublic.com
-- Description: Chilling security footage shows a sushi chef being randomly stabbed by a homeless woman while the chef was walking down the street to work. Wan Lai, 26, was walking down the sidewalk in a busy area of Melbourne, Australia, when a redheaded stranger ran up beh…
-
-
-### OTHER on 2025-10-18 00:42
-- Location: International Business Times
-- Description: Sixty-four South Koreans who had been detained in Cambodia for alleged involvement in cyberscam operations returned home Saturday and were under arrest, a police official told AFP.
-South Korea had sent a team to Cambodia on Wednesday to discuss cases of fake …
-
-
-### HOMICIDE on 2025-10-18 00:38
-- Location: New York Post
-- Description: "He went to work, and back everyday from that subway station. To have something like that happen, and the way that it did, he didn’t deserve that.”
-
-
-### HOMICIDE on 2025-10-18 00:36
-- Location: CBS News
-- Description: If jury selection for a retrial does not begin by that date, Hernandez will be released, the judge said.
-
-Analysis generated at: Sun Oct 19 01:12:37 UTC 2025
+Analysis generated at: Sun Oct 19 01:58:08 UTC 2025
