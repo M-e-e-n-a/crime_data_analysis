@@ -1,10 +1,10 @@
 
-Loaded 65488 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-18 01:40:59
+Loaded 65524 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-18 06:14:12
 
 Incidents by source:
 source
-newsapi           65387
+newsapi           65423
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2025-10-18 01:40
-- Location: Wrestlezone.com
-- Description: A toy influencer was recently arrested with chargers against him stating he stole thousands of dollars worth of wrestling toys. This week, the San Diego County Sheriff’s Department conducted a search at the residence of 36-year-old Brittany Gomez and 52-year-…
+### OTHER on 2025-10-18 06:14
+- Location: Protothema.gr
+- Description: A new book by Russian investigative journalists sheds light on Vladimir Putin’s rumored love affairs, the fortunes allegedly accumulated by those involved, and the Kremlin’s efforts to keep his private life out of public view
+The post Putin’s “Harem”: The $78…
 
 
-### HOMICIDE on 2025-10-18 01:29
-- Location: Breitbart News
-- Description: Disturbing doorbell footage released his week reveals costumed perpetrators terrorizing a widow and her family in Alexandria, Virginia, as they allegedly try to break in and threaten to kill everyone inside.
-The post Watch: Trio of Horror Film Characters Terr…
+### SHOOTING on 2025-10-18 05:50
+- Location: The Indian Express
+- Description: The comedian cafe in Surrey has been targeted three times over the past four months. Dhillon has claimed responsibility for two of the attacks
 
 
-### OTHER on 2025-10-18 01:27
-- Location: CBC News
-- Description: Just over a week out from the Elmwood–East Kildonan byelection, seven candidates are canvassing doorsteps with promises to tackle crime, fix roads and restore community programs — but the contest is also being shaped by the question of who would be best to re…
+### OTHER on 2025-10-18 05:47
+- Location: ABC News (AU)
+- Description: NT Chief Minister Lia Finocchiaro says the Country Liberal Party's tough-on-crime approach "is working". But after two teens broke into a play centre and left a trail of destruction, operator Steve Mason is not convinced.
 
 
-### HOMICIDE on 2025-10-18 01:20
-- Location: Fox News
-- Description: A South Carolina man on death row is scheduled to be executed next month for killing a man and painting "catch me if u can" on the wall with the victim's blood more than 20 years ago.
+### OTHER on 2025-10-18 05:20
+- Location: BBC News
+- Description: The returnees have been arrested by Seoul authorities as they are accused of committing crimes while being detained in Cambodia.
 
 
-### OTHER on 2025-10-18 01:07
-- Location: Bleeding Cool News
-- Description: In CBS and Showrunners Brandon Sonnier and Brandon Margolis' "Blue Bloods" spinoff series, Donnie Wahlberg's NYPD Det. Danny Reagan heads north to take a position with the Boston Police Department. Paired up with Det. Lena Silver (Sonequa Martin-Green), Danny…
+### OTHER on 2025-10-18 05:07
+- Location: soompi
+- Description: Get ready for even more twists and turns on the next episode of “Walking on Thin Ice”! KBS 2TV’s “Walking on Thin Ice” is an emotional crime thriller about the dangerous partnership between Kang Eun Soo (Lee Young Ae), an ordinary housewife determined to prot…
 
-Analysis generated at: Sun Oct 19 01:58:08 UTC 2025
+Analysis generated at: Sun Oct 19 06:20:38 UTC 2025
