@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Oct 19 06:20:38 UTC 2025
+Last updated: Sun Oct 19 12:25:38 UTC 2025
 
 ## Latest Analysis
 
-Loaded 65524 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-18 06:14:12
+Loaded 65556 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-18 12:25:00
 
 Incidents by source:
 source
-newsapi           65423
+newsapi           65455
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-10-18 06:14
-- Location: Protothema.gr
-- Description: A new book by Russian investigative journalists sheds light on Vladimir Putin’s rumored love affairs, the fortunes allegedly accumulated by those involved, and the Kremlin’s efforts to keep his private life out of public view
-The post Putin’s “Harem”: The $78…
+### HOMICIDE on 2025-10-18 12:25
+- Location: New York Post
+- Description: The rapper told his audience to "delete everything" after his underaged counterpart -- who was later found dead in his Tesla on Sept. 8 --- made a comment about "raping kids" during the video stream, which was broadcast on Twitch.
 
 
-### SHOOTING on 2025-10-18 05:50
+### OTHER on 2025-10-18 12:12
 - Location: The Indian Express
-- Description: The comedian cafe in Surrey has been targeted three times over the past four months. Dhillon has claimed responsibility for two of the attacks
+- Description: Why is the curb on the use of the term ‘ORS’ important for your UPSC exam? What significance do topics such as LCA Tejas Mk1A, digital arrest, and the rights of transgender persons have for both the Preliminary and Main exams? You can learn more by reading th…
 
 
-### OTHER on 2025-10-18 05:47
-- Location: ABC News (AU)
-- Description: NT Chief Minister Lia Finocchiaro says the Country Liberal Party's tough-on-crime approach "is working". But after two teens broke into a play centre and left a trail of destruction, operator Steve Mason is not convinced.
+### HOMICIDE on 2025-10-18 12:09
+- Location: The Times of India
+- Description: Trey Reed's death: A Black student's death at Delta State University, initially ruled a suicide, is now under scrutiny.  Family concerns and a private investigation, including an independent autopsy, have fueled allegations of a lynching and cover-up.  Activi…
 
 
-### OTHER on 2025-10-18 05:20
-- Location: BBC News
-- Description: The returnees have been arrested by Seoul authorities as they are accused of committing crimes while being detained in Cambodia.
+### OTHER on 2025-10-18 12:00
+- Location: Screen Rant
+- Description: After the success of Suits on the streamer, Patrick J. Adams' first true Netflix character shows how Mike Ross could have prevented his worst fate.
 
 
-### OTHER on 2025-10-18 05:07
-- Location: soompi
-- Description: Get ready for even more twists and turns on the next episode of “Walking on Thin Ice”! KBS 2TV’s “Walking on Thin Ice” is an emotional crime thriller about the dangerous partnership between Kang Eun Soo (Lee Young Ae), an ordinary housewife determined to prot…
+### OTHER on 2025-10-18 12:00
+- Location: New York Post
+- Description: A 17-year-old gang banger from the Bronx who's been arrested 20 times is the poster child for all that is wrong with the Raise the Age law, police sources said.
 
-Analysis generated at: Sun Oct 19 06:20:38 UTC 2025
+Analysis generated at: Sun Oct 19 12:25:38 UTC 2025
