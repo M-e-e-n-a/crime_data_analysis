@@ -1,10 +1,10 @@
 
-Loaded 65476 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-17 18:13:00
+Loaded 65484 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-18 01:07:04
 
 Incidents by source:
 source
-newsapi           65375
+newsapi           65383
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-10-17 18:13
-- Location: LancasterOnline
-- Description: Police are asking for the public’s help in its investigation of a hit-and-run last month that left an Ephrata man seriously injured.
+### OTHER on 2025-10-18 01:07
+- Location: Bleeding Cool News
+- Description: In CBS and Showrunners Brandon Sonnier and Brandon Margolis' "Blue Bloods" spinoff series, Donnie Wahlberg's NYPD Det. Danny Reagan heads north to take a position with the Boston Police Department. Paired up with Det. Lena Silver (Sonequa Martin-Green), Danny…
 
 
-### SHOOTING on 2025-10-17 18:07
-- Location: The New Republic
-- Description: As President Donald Trump’s consolidation of authoritarian power escalates, he and his allies have been employing undisguised state-sponsored propaganda to a degree unmatched by any president in modern times. This much, one hopes, is broadly understood—even i…
+### OTHER on 2025-10-18 00:57
+- Location: Freerepublic.com
+- Description: Chilling security footage shows a sushi chef being randomly stabbed by a homeless woman while the chef was walking down the street to work. Wan Lai, 26, was walking down the sidewalk in a busy area of Melbourne, Australia, when a redheaded stranger ran up beh…
 
 
-### HOMICIDE on 2025-10-17 18:06
-- Location: Ibtimes.com.au
-- Description: An Algerian woman apologised for her "horrible" actions Friday as she went on trial accused of raping and murdering a 12-year-old girl in Paris, in a case that sparked horror in France and was seized by the far right.
+### OTHER on 2025-10-18 00:42
+- Location: International Business Times
+- Description: Sixty-four South Koreans who had been detained in Cambodia for alleged involvement in cyberscam operations returned home Saturday and were under arrest, a police official told AFP.
+South Korea had sent a team to Cambodia on Wednesday to discuss cases of fake …
 
 
-### OTHER on 2025-10-17 18:00
-- Location: Screen Rant
-- Description: These 10 horror shows began with pilot episodes that set a tone so precise and alive, and better yet, they live up to the promise from frame one.
+### HOMICIDE on 2025-10-18 00:38
+- Location: New York Post
+- Description: "He went to work, and back everyday from that subway station. To have something like that happen, and the way that it did, he didn’t deserve that.”
 
 
-### OTHER on 2025-10-17 18:00
-- Location: IndieWire
-- Description: Former editor Geeta Gandbhir tells IndieWire that her obsessive need to create a timeline for her grieving relatives opened up a new way to make a documentary.
+### HOMICIDE on 2025-10-18 00:36
+- Location: CBS News
+- Description: If jury selection for a retrial does not begin by that date, Hernandez will be released, the judge said.
 
-Analysis generated at: Sat Oct 18 18:18:17 UTC 2025
+Analysis generated at: Sun Oct 19 01:12:37 UTC 2025
