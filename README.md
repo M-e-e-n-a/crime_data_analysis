@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Oct 20 01:10:08 UTC 2025
+Last updated: Mon Oct 20 01:55:35 UTC 2025
 
 ## Latest Analysis
 
-Loaded 65614 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-19 01:09:30
+Loaded 65617 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-19 01:45:30
 
 Incidents by source:
 source
-newsapi           65513
+newsapi           65516
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,6 +24,21 @@ bution.svg)
 
 ## Recent Incidents
 
+### HOMICIDE on 2025-10-19 01:45
+- Location: WSOC Charlotte
+- Description: There were three murders in 16 hours in Charlotte Saturday.
+
+
+### OTHER on 2025-10-19 01:17
+- Location: Freerepublic.com
+- Description: Fox News exclusively embedded with the Austin Police Department as part of a nationwide human trafficking operation targeting illicit Chinese massage parlors. A loudspeaker blared, "Austin Police! Search warrant! Come out with your hands up," as detectives fr…
+
+
+### OTHER on 2025-10-19 01:15
+- Location: Balloon-juice.com
+- Description: A quick housekeeping note: Apparently whenever there is a protest, someone asks if my posts about safety while protesting can get reposted. I have no idea if that happened for today’s protests. I know it happened for the last one several months ago because so…
+
+
 ### OTHER on 2025-10-19 01:09
 - Location: KOIN.com
 - Description: The scene outside the ICE facility took a darker turn as federal agents deployed tear gas on the crowd around 4:30 p.m. and detained at least one person over...
@@ -33,19 +48,4 @@ bution.svg)
 - Location: ABC News (AU)
 - Description: The "green bans" in the 1970s saved many of Australia's historic buildings and our cities are richer for them. But a famous economist didn't like them.
 
-
-### OTHER on 2025-10-19 00:55
-- Location: Rolling Stone
-- Description: In the largest series of demonstrations against the administration and its policies to date, participants express fear and anger at America’s political trajectory
-
-
-### HOMICIDE on 2025-10-19 00:49
-- Location: The Star Online
-- Description: BUKIT MERTAJAM: The bodies of a mother and her daughter, believed to have been murdered, were found in a house in Juru, here on Saturday (Oct 18) night. Read full story
-
-
-### OTHER on 2025-10-19 00:30
-- Location: ABC News
-- Description: Mount Kilauea, a volcano that has been active in recent years, erupted again on Hawaii’s Big Island, according to the United States Geological Survey.
-
-Analysis generated at: Mon Oct 20 01:10:08 UTC 2025
+Analysis generated at: Mon Oct 20 01:55:35 UTC 2025
