@@ -1,10 +1,10 @@
 
-Loaded 65617 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-19 01:45:30
+Loaded 65634 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-19 06:02:00
 
 Incidents by source:
 source
-newsapi           65516
+newsapi           65533
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-10-19 01:45
-- Location: WSOC Charlotte
-- Description: There were three murders in 16 hours in Charlotte Saturday.
+### HOMICIDE on 2025-10-19 06:02
+- Location: Gossiplankanews.com
+- Description: The Return of a FugitiveIshara Sewwandi, the woman at the centre of the Ganemulla Sanjeewa murder investigation, is back in Sri Lanka. Arrested in Nepal and flown under tight security, she now faces 90 days of extended custody after the Ministry of Defence ap…
 
 
-### OTHER on 2025-10-19 01:17
+### HOMICIDE on 2025-10-19 05:53
 - Location: Freerepublic.com
-- Description: Fox News exclusively embedded with the Austin Police Department as part of a nationwide human trafficking operation targeting illicit Chinese massage parlors. A loudspeaker blared, "Austin Police! Search warrant! Come out with your hands up," as detectives fr…
+- Description: I’ve got some absolutely wonderful news for all the liberals who think it’s wrong to lock up serial criminals who are under 18 years old.This 15-year-old has been arrested and released 111 times.Charlotte has given him permission to steal as many cars as he w…
 
 
-### OTHER on 2025-10-19 01:15
-- Location: Balloon-juice.com
-- Description: A quick housekeeping note: Apparently whenever there is a protest, someone asks if my posts about safety while protesting can get reposted. I have no idea if that happened for today’s protests. I know it happened for the last one several months ago because so…
+### ASSAULT on 2025-10-19 05:42
+- Location: The Times of India
+- Description: A heated argument between pantry assistants on the Khajuraho Vande Bharat Express at Hazrat Nizamuddin station escalated into a physical scuffle, captured in a viral video. Police have registered a case, and four employees were taken into custody. Their ident…
 
 
-### OTHER on 2025-10-19 01:09
-- Location: KOIN.com
-- Description: The scene outside the ICE facility took a darker turn as federal agents deployed tear gas on the crowd around 4:30 p.m. and detained at least one person over...
+### HOMICIDE on 2025-10-19 05:19
+- Location: The Times of India
+- Description: Tragedy struck a Bihar-bound train near Nashik Road station on Saturday night when two passengers lost their lives and another was critically injured after allegedly falling from the moving Lokmanya Tilak Terminus - Raxaul express. Police discovered the victi…
 
 
-### OTHER on 2025-10-19 00:59
-- Location: ABC News (AU)
-- Description: The "green bans" in the 1970s saved many of Australia's historic buildings and our cities are richer for them. But a famous economist didn't like them.
+### ROBBERY/THEFT on 2025-10-19 05:00
+- Location: The Irish Times
+- Description: The PSNI describe it as ‘hate-motivated criminal damage’, while a TUV member calls it ‘probably the most predictable crime in Northern Ireland’
 
-Analysis generated at: Mon Oct 20 01:55:35 UTC 2025
+Analysis generated at: Mon Oct 20 06:22:36 UTC 2025
