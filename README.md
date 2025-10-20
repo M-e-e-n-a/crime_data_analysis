@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Oct 20 06:22:36 UTC 2025
+Last updated: Mon Oct 20 12:30:19 UTC 2025
 
 ## Latest Analysis
 
-Loaded 65634 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-19 06:02:00
+Loaded 65668 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-19 12:30:00
 
 Incidents by source:
 source
-newsapi           65533
+newsapi           65567
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-10-19 06:02
-- Location: Gossiplankanews.com
-- Description: The Return of a FugitiveIshara Sewwandi, the woman at the centre of the Ganemulla Sanjeewa murder investigation, is back in Sri Lanka. Arrested in Nepal and flown under tight security, she now faces 90 days of extended custody after the Ministry of Defence ap…
+### ROBBERY/THEFT on 2025-10-19 12:30
+- Location: Newser
+- Description: Police in Santa Rosa, California, say they have dismantled an elaborate—and unusual—theft ring. Its focus: Legos. Lots and lots of Legos. Police arrested 39-year-old Robert Lopez after a raid on his house, where they found tens of thousands of loose Lego piec…
 
 
-### HOMICIDE on 2025-10-19 05:53
-- Location: Freerepublic.com
-- Description: I’ve got some absolutely wonderful news for all the liberals who think it’s wrong to lock up serial criminals who are under 18 years old.This 15-year-old has been arrested and released 111 times.Charlotte has given him permission to steal as many cars as he w…
+### OTHER on 2025-10-19 12:07
+- Location: Washington Free Beacon
+- Description: The Directorate of Operations in the Central Intelligence Agency wasn’t initially a big fan of what might be its two most consequential Cold War covert actions: the delivery of Stinger missiles to the Afghan mujahedeen and QRHELPFUL, which sent books, magazin…
 
 
-### ASSAULT on 2025-10-19 05:42
-- Location: The Times of India
-- Description: A heated argument between pantry assistants on the Khajuraho Vande Bharat Express at Hazrat Nizamuddin station escalated into a physical scuffle, captured in a viral video. Police have registered a case, and four employees were taken into custody. Their ident…
+### ROBBERY/THEFT on 2025-10-19 12:06
+- Location: CBS News
+- Description: Thieves broke into the Louvre in Paris — the world's most visited museum — early Sunday morning. Museum officials said they stole jewelry and fled.
 
 
-### HOMICIDE on 2025-10-19 05:19
-- Location: The Times of India
-- Description: Tragedy struck a Bihar-bound train near Nashik Road station on Saturday night when two passengers lost their lives and another was critically injured after allegedly falling from the moving Lokmanya Tilak Terminus - Raxaul express. Police discovered the victi…
+### ROBBERY/THEFT on 2025-10-19 12:06
+- Location: CBS News
+- Description: Thieves broke into the Louvre in Paris — the world's most visited museum — early Sunday morning. Museum officials said they stole jewelry and fled.
 
 
-### ROBBERY/THEFT on 2025-10-19 05:00
-- Location: The Irish Times
-- Description: The PSNI describe it as ‘hate-motivated criminal damage’, while a TUV member calls it ‘probably the most predictable crime in Northern Ireland’
+### OTHER on 2025-10-19 12:00
+- Location: The Hill
+- Description: There are many reasons — cost, efficient use of personnel and resources, a hallowed democratic tradition of keeping the military out of domestic politics...
 
-Analysis generated at: Mon Oct 20 06:22:36 UTC 2025
+Analysis generated at: Mon Oct 20 12:30:19 UTC 2025
