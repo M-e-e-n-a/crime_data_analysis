@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Oct 19 18:18:23 UTC 2025
+Last updated: Mon Oct 20 01:10:08 UTC 2025
 
 ## Latest Analysis
 
-Loaded 65609 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-18 18:08:59
+Loaded 65614 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-19 01:09:30
 
 Incidents by source:
 source
-newsapi           65508
+newsapi           65513
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-10-18 18:08
-- Location: HuffPost
-- Description: Ex-FBI Director James Comey, New York Attorney General Letitia James and former national security adviser John Bolton were all indicted in recent weeks.
+### OTHER on 2025-10-19 01:09
+- Location: KOIN.com
+- Description: The scene outside the ICE facility took a darker turn as federal agents deployed tear gas on the crowd around 4:30 p.m. and detained at least one person over...
 
 
-### OTHER on 2025-10-18 18:06
-- Location: WTAE Pittsburgh
-- Description: FBI Pittsburgh, along with local, state, and federal partners, arrested 19 "dangerous wanted fugitives" during a five-day operation as part of a nationwide initiative targeting violent crime.
+### OTHER on 2025-10-19 00:59
+- Location: ABC News (AU)
+- Description: The "green bans" in the 1970s saved many of Australia's historic buildings and our cities are richer for them. But a famous economist didn't like them.
 
 
-### OTHER on 2025-10-18 18:00
-- Location: Legalinsurrection.com
-- Description: “This new nationwide campaign echoes the darkest days of the 1980s, when urban churches first re-emerged from the Cultural Revolution.”
-The post China Arrests 30 Pastors as Crackdown on Christians Grows first appeared on Le·gal In·sur·rec·tion.
+### OTHER on 2025-10-19 00:55
+- Location: Rolling Stone
+- Description: In the largest series of demonstrations against the administration and its policies to date, participants express fear and anger at America’s political trajectory
 
 
-### OTHER on 2025-10-18 18:00
-- Location: Newser
-- Description: Marc Benioff, the CEO of Salesforce, has issued a public apology after facing backlash for suggesting President Trump should deploy the National Guard to San Francisco. The tech billionaire posted Friday on X that he does not believe troops are needed to addr…
+### HOMICIDE on 2025-10-19 00:49
+- Location: The Star Online
+- Description: BUKIT MERTAJAM: The bodies of a mother and her daughter, believed to have been murdered, were found in a house in Juru, here on Saturday (Oct 18) night. Read full story
 
 
-### OTHER on 2025-10-18 17:57
-- Location: Yahoo Entertainment
-- Description: Local and federal law enforcement officials worked together on the FBI’s Summer Heat initiative between Oct. 6 and Oct. 10 to “identify targets, collect...
+### OTHER on 2025-10-19 00:30
+- Location: ABC News
+- Description: Mount Kilauea, a volcano that has been active in recent years, erupted again on Hawaii’s Big Island, according to the United States Geological Survey.
 
-Analysis generated at: Sun Oct 19 18:18:23 UTC 2025
+Analysis generated at: Mon Oct 20 01:10:08 UTC 2025
