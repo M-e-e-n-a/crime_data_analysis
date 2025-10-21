@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Oct 21 01:07:02 UTC 2025
+Last updated: Tue Oct 21 01:49:43 UTC 2025
 
 ## Latest Analysis
 
-Loaded 65740 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-20 00:40:13
+Loaded 65743 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-20 01:35:18
 
 Incidents by source:
 source
-newsapi           65639
+newsapi           65642
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,6 +24,21 @@ bution.svg)
 
 ## Recent Incidents
 
+### SHOOTING on 2025-10-20 01:35
+- Location: The Indian Express
+- Description: According to police sources, the unidentified customer had ordered veg biryani to take home, and found out only after getting home that he had received chicken biryani. After this, he went back to the eatery and allegedly shot the owner.
+
+
+### ROBBERY/THEFT on 2025-10-20 01:30
+- Location: Fox News
+- Description: Brazen robbers stole priceless French crown jewels from the Louvre Museum's Apollo Gallery in broad daylight Saturday in what an expert calls a "targeted heist."
+
+
+### OTHER on 2025-10-20 01:25
+- Location: Balloon-juice.com
+- Description: We now know that Putin’s phone call with Trump last Thursday was even more successful than we suspected. If you want to know what Donald will say tomorrow, listen to what Kremlin says today. [image or embed] — Darth Putin (@darthputinkgb.bsky.social) October …
+
+
 ### OTHER on 2025-10-20 00:40
 - Location: Biztoc.com
 
@@ -32,24 +47,4 @@ bution.svg)
 - Location: New York Post
 - Description: “He was minding his business, doing nothing,” one family member told the outlet. “Just sitting in his room. And now he’s gone.”
 
-
-### OTHER on 2025-10-20 00:00
-- Location: Mercola.com
-- Description: 1 Which new agency did the Make America Healthy Again (MAHA) plan propose to lead chronic disease response?
-
-<ul>
-<li>National Council on Food and Family Health</li>
-<li>Administration for a Healthy America (AHA) 
-The AHA, within the U.S. Department of Healt…
-
-
-### ROBBERY/THEFT on 2025-10-19 18:12
-- Location: Freerepublic.com
-- Description: The robbers reached a first-floor window and cut through glass panes to gain access to the museum's gilded Galerie d'ApollonThe Louvre Museum in Paris has been forced to close while police investigate a brazen heist which reportedly targeted France's priceles…
-
-
-### HOMICIDE on 2025-10-19 18:00
-- Location: Fox News
-- Description: Kerri Rawson confronts her father Dennis Rader, the BTK killer, after nearly 20 years in prison, leading to her final decision to cut all contact with him.
-
-Analysis generated at: Tue Oct 21 01:07:02 UTC 2025
+Analysis generated at: Tue Oct 21 01:49:43 UTC 2025
