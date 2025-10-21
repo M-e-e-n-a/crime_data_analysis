@@ -1,10 +1,10 @@
 
-Loaded 65782 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-20 06:19:02
+Loaded 65835 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-20 12:19:31
 
 Incidents by source:
 source
-newsapi           65681
+newsapi           65734
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,31 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-10-20 06:19
-- Location: BBC News
-- Description: Shelley Davies, 38, from Caerau, was injured during the incident and died in hospital on Saturday.
+### ROBBERY/THEFT on 2025-10-20 12:19
+- Location: Sankakucomplex.com
+- Description: A major scandal has erupted following reports that former co-director Byeong‑lim Park and other ex-staff at Dynamis One were sent to prosecutors for allegedly stealing development data from Nexon and its Blue Archive franchise — a reminder that even big-budge…
 
 
-### OTHER on 2025-10-20 06:18
-- Location: The Local Sweden
-- Description: Rental hikes lower this year than previous years, teens hospitalised after drinking bootleg alcohol and gang leader held on suspicion of 30 crimes. Here's Sweden's news on Monday.
+### OTHER on 2025-10-20 12:16
+- Location: Independent.ie
+- Description: Maccabi Tel Aviv have distanced themselves from disturbances which led to the cancellation of the derby match against Hapoel before kick-off on Sunday.
 
 
-### ROBBERY/THEFT on 2025-10-20 06:18
-- Location: Sky.com
-- Description: In broad daylight, thieves broke into one of the world's most famous museums and accessed a gallery containing the French Crown Jewels.
+### OTHER on 2025-10-20 12:09
+- Location: Insurance Journal
+- Description: Former WWE CEO Vince McMahon has been allowed to enter a pretrial program to resolve a reckless driving charge stemming from a crash this summer in Connecticut. A state Superior Court judge ruled Thursday that McMahon could enter the program …
 
 
-### OTHER on 2025-10-20 06:17
-- Location: Malted.dev
-- Description: Article URL: https://writing.malted.dev/cbp
-Comments URL: https://news.ycombinator.com/item?id=45640545
-Points: 1
-# Comments: 1
+### ROBBERY/THEFT on 2025-10-20 12:01
+- Location: NBC News
+- Description: In the space of just 7 minutes in the casual daylight of Sunday morning, four suspects stole nine pieces of France’s crown jewels from the Louvre.
 
 
-### ROBBERY/THEFT on 2025-10-20 06:05
-- Location: Hurriyet Daily News
-- Description: The hunt was on Monday for the band of thieves who stole eight priceless royal pieces of jewellery from the Louvre Museum in the heart of Paris in broad daylight.
+### ROBBERY/THEFT on 2025-10-20 12:00
+- Location: Fox News
+- Description: FBI data shows Colorado recorded 104 bank robberies in 2023, ranking third nationally as banking leaders express concern about rising crime trends.
 
-Analysis generated at: Tue Oct 21 06:22:05 UTC 2025
+Analysis generated at: Tue Oct 21 12:30:04 UTC 2025
