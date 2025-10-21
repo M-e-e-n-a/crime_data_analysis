@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Oct 21 12:30:04 UTC 2025
+Last updated: Tue Oct 21 12:51:06 UTC 2025
 
 ## Latest Analysis
 
-Loaded 65835 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-20 12:19:31
+Loaded 65839 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-20 12:50:29
 
 Incidents by source:
 source
-newsapi           65734
+newsapi           65738
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
+### ROBBERY/THEFT on 2025-10-20 12:50
+- Location: TMZ
+- Description: New details have surfaced in the daring jewelry heist at The Louvre in Paris ... as well as a photo showing one the alleged thieves doing their handiwork. Let's start with the shocking video, which captures the suspect  — dressed in black…
+
+
+### OTHER on 2025-10-20 12:48
+- Location: MSNBC
+- Description: After rescuing George Santos, Trump has now pardoned or commuted the sentences of most of Republican congressmen convicted of felonies in the 21st century.
+
+
+### OTHER on 2025-10-20 12:40
+- Location: Celebitchy.com
+- Description: There’s going to be a wall-to-wall royal catastrophe this week as the fallout from Prince Andrew’s degeneracy continues. On Friday, Andrew was allowed to “give up” his ducal title and his royal honors, all part of a private deal he worked out with King Charle…
+
+
+### HOMICIDE on 2025-10-20 12:38
+- Location: Rlsbb.to
+- Description: Awards 1 win & 2 nominations total See more awards » Plot: A rookie New Orleans police officer is forced to balance her identity as a black woman after she witnesses two corrupt cops committing murder. Genre: Action | ThrillerIMDB Rating Live: IMDB Rating: 6.…
+
+
 ### ROBBERY/THEFT on 2025-10-20 12:19
 - Location: Sankakucomplex.com
 - Description: A major scandal has erupted following reports that former co-director Byeong‑lim Park and other ex-staff at Dynamis One were sent to prosecutors for allegedly stealing development data from Nexon and its Blue Archive franchise — a reminder that even big-budge…
 
-
-### OTHER on 2025-10-20 12:16
-- Location: Independent.ie
-- Description: Maccabi Tel Aviv have distanced themselves from disturbances which led to the cancellation of the derby match against Hapoel before kick-off on Sunday.
-
-
-### OTHER on 2025-10-20 12:09
-- Location: Insurance Journal
-- Description: Former WWE CEO Vince McMahon has been allowed to enter a pretrial program to resolve a reckless driving charge stemming from a crash this summer in Connecticut. A state Superior Court judge ruled Thursday that McMahon could enter the program …
-
-
-### ROBBERY/THEFT on 2025-10-20 12:01
-- Location: NBC News
-- Description: In the space of just 7 minutes in the casual daylight of Sunday morning, four suspects stole nine pieces of France’s crown jewels from the Louvre.
-
-
-### ROBBERY/THEFT on 2025-10-20 12:00
-- Location: Fox News
-- Description: FBI data shows Colorado recorded 104 bank robberies in 2023, ranking third nationally as banking leaders express concern about rising crime trends.
-
-Analysis generated at: Tue Oct 21 12:30:04 UTC 2025
+Analysis generated at: Tue Oct 21 12:51:06 UTC 2025
