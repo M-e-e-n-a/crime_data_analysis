@@ -1,10 +1,10 @@
 
-Loaded 66080 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-21 12:43:00
+Loaded 66173 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-21 18:21:07
 
 Incidents by source:
 source
-newsapi           65979
+newsapi           66072
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-10-21 12:43
-- Location: Sky.com
-- Description: The Kenyan government has started the process to extradite former British soldier, Robert James Purkiss, to stand trial for the 2012 alleged murder of Agnes Wanjiru.
+### ROBBERY/THEFT on 2025-10-21 18:21
+- Location: Forbes
+- Description: Christopher A. Marinello, CEO and founder of Art Recovery International, joins “Forbes True Crime” to discuss the shocking Louvre heist.
 
 
-### OTHER on 2025-10-21 12:38
-- Location: Mediatakeout.com
-- Description: Denise Richards’ estranged husband, Aaron Phypers, has been formally charged with four felonies tied to alleged domestic violence and witness intimidation. This comes days after his dramatic courtroom arrest. According to court documents, Phypers faces two fe…
+### ROBBERY/THEFT on 2025-10-21 18:18
+- Location: Biztoc.com
+- Description: Prosecutor Laure Beccuau, whose office is leading the investigation, said about 100 investigators are now involved in the police hunt for the suspects and gems after Sunday’s theft.
 
 
-### SHOOTING on 2025-10-21 12:35
-- Location: CBS News
-- Description: Police say a man went to the Atlanta airport with a gun, allegedly planning to open fire. Billy Joe Cagle was scouting the area Monday, authorities say, but thanks to a tip from his family, police were able to intervene. CBS News' Skyler Henry reports.
+### HOMICIDE on 2025-10-21 18:10
+- Location: The Times of India
+- Description: Police apprehended three individuals in connection with the murder of restaurant owner Vijay Kumar Nag. The shooter, Abhishek Kumar Singh, was arrested after an encounter, while a suspended police constable, Harendra Singh, who supplied the weapons, was nabbe…
 
 
-### ROBBERY/THEFT on 2025-10-21 12:34
-- Location: TheJournal.ie
-- Description: The 57-year-old Irish comedy writer was arrested at Heathrow Airport in September on suspicion of inciting violence over social media posts.
+### HOMICIDE on 2025-10-21 18:06
+- Location: Just Jared
+- Description: The Perfect Neighbor is a documentary currently streaming on Netflix that is making waves online. In the film, you see the events of Ajike “AJ” Owens‘ death at the hands of her neighbor, Susan Lorincz. The doc solely uses police body cam footage, interview fo…
 
 
-### OTHER on 2025-10-21 12:30
-- Location: New York Magazine
-- Description: The Louvre jewelry heist wasn’t some ‘Ocean’s Eleven’–style caper but more of a smash and grab. Here’s what art-crime experts and other commentators are saying.
+### ROBBERY/THEFT on 2025-10-21 18:05
+- Location: PBS
+- Description: Prosecutor Laure Beccuau, whose office is leading the investigation, said about 100 investigators are now involved in the police hunt for the suspects and gems after Sunday’s theft.
 
-Analysis generated at: Wed Oct 22 12:51:47 UTC 2025
+Analysis generated at: Wed Oct 22 18:22:29 UTC 2025
