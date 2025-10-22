@@ -1,10 +1,10 @@
 
-Loaded 65984 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-21 06:00:00
+Loaded 66075 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-21 12:24:32
 
 Incidents by source:
 source
-newsapi           65883
+newsapi           65974
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-10-21 06:00
-- Location: Naturalnews.com
-- Description: What does it mean to be an American citizen abroad, and what responsibility does the U.S. government have to protect its own? For one family in Tampa, Florida, this is not a theoretical question but a desperate, daily nightmare. While the world watches high-p…
+### DRUG RELATED on 2025-10-21 12:24
+- Location: WAVY.com
+- Description: ELIZABETH CITY, N.C. (WAVY) — A career offender was recently sentenced to 25 years in prison in connection with drug and firearm charges. According to...
 
 
-### HOMICIDE on 2025-10-21 06:00
-- Location: Naturalnews.com
-- Description: Following Charlie Kirk’s assassination, Attorney General Pam Bondi declared a crackdown on “hate speech,” causing backlash across the political spectrum and exposing divisions within conservative circles over free speech vs. government intervention. Bondi inc…
+### ROBBERY/THEFT on 2025-10-21 12:14
+- Location: Al Jazeera English
+- Description: Experts say jewels stolen in heists from the iconic Parisian museum are hard to recover, as they are broken down.
 
 
-### OTHER on 2025-10-21 05:47
-- Location: EURACTIV
-- Description: In today’s edition: Europe’s dependence on the US grows as Trump shapes foreign policy from afar, Bulgaria opens its skies for Putin ahead of the Budapest summit, and the Commission begins quietly dismantling the Green Deal under political pressure
+### ROBBERY/THEFT on 2025-10-21 12:06
+- Location: Thetimes.com
+- Description: “Because of repeated postponements of the scheduled modernisation of security systems, cameras have mainly been installed only when rooms have been refurbished,” said the report from the government’s Court of Accounts. “Under the effect of increasing visitor …
 
 
-### HOMICIDE on 2025-10-21 05:40
-- Location: Protothema.gr
-- Description: Young Greek man under 25 identified as the perpetrator – Known to authorities, he worked as “security” in the same area
-The post Murder in Peristeri: Arrest of the perpetrator only a matter of time – He had been beaten 15 days earlier by the Bulgarian he kill…
+### OTHER on 2025-10-21 12:01
+- Location: Thefutoncritic.com
+- Description: In the final stretch to Halloween, those lured in by the story of the OG horror villain put "Monster: The Ed Gein Story" at No. 1 on the English TV list with 9.5 million views.
 
 
-### ASSAULT on 2025-10-21 05:32
-- Location: Christiantoday.com
-- Description: The German Bishops’ Conference has raised alarm over a sharp increase in the frequency and severity of vandalism and desecration of churches.
+### OTHER on 2025-10-21 12:00
+- Location: Fox News
+- Description: Viral videos from 'No Kings' protests show people making threats against Charlie Kirk and President Donald Trump, prompting investigations by authorities.
 
-Analysis generated at: Wed Oct 22 06:22:49 UTC 2025
+Analysis generated at: Wed Oct 22 12:30:22 UTC 2025
