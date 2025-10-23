@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Oct 23 01:06:09 UTC 2025
+Last updated: Thu Oct 23 01:48:05 UTC 2025
 
 ## Latest Analysis
 
-Loaded 66187 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-22 01:01:42
+Loaded 66192 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-22 01:33:43
 
 Incidents by source:
 source
-newsapi           66086
+newsapi           66091
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,27 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-10-22 01:01
-- Location: Freerepublic.com
-- Description: If Austin’s farm fiasco teaches us anything, it’s that the left’s words aren’t harmless — they’re harbingers of dehumanization and violence.In my Oct. 2 article for The Federalist, I detailed a chilling 2,500 percent spike in indexed internet content pairing …
+### OTHER on 2025-10-22 01:33
+- Location: Balloon-juice.com
+- Description: (Image by NEIVANMADE) Air raid alerts are up for all of central and eastern Ukraine and warnings have been issued for inbound Russian missiles. President Zelenskyy issued a statement on peace for Ukraine today. There is no video, here is the transcript: State…
 
 
-### HOMICIDE on 2025-10-22 00:59
-- Location: WSB Atlanta
-- Description: Justine Mroz allegedly told detectives that she “snapped” before strangling her 6-year-old autistic son to death, according to an affidavit from the Pasco County Sheriff's Office.
+### HOMICIDE on 2025-10-22 01:33
+- Location: The Times of India
+- Description: A brutal double murder on Diwali night has plunged Mohangarh town into shock. Grain trader Madanlal Saraswat and his accountant Rewantram were found dead, their bodies discovered by a temple priest. The assailants fled in the victim's car, fueling speculation…
 
 
-### HOMICIDE on 2025-10-22 00:59
-- Location: Spoilertv.com
+### SHOOTING on 2025-10-22 01:18
+- Location: Newser
+- Description: An immigration enforcement operation in Los Angeles turned violent Tuesday when federal agents shot at an undocumented immigrant who allegedly tried to escape by ramming his vehicle into law enforcement, according to authorities. The man was injured, as was a…
 
 
-### OTHER on 2025-10-22 00:54
-- Location: Honolulu Star-Advertiser
-- Description: Maui police arrested five middle school girls after a 13-year-old boy was allegedly held against his will at Samuel E. Kalama Intermediate School on a Friday afternoon.
+### OTHER on 2025-10-22 01:14
+- Location: Borderlandbeat.com
+- Description: "Sol Prendido" for Borderland Beat Federal and state authorities reported the arrest of Rigoberto López Mendoza, "El Pantano," who is believ...
 
 
-### SHOOTING on 2025-10-22 00:46
-- Location: Boston Herald
-- Description: Federal prosecutors on Tuesday brought charges against a Georgia man who was arrested a day earlier by police after his family contacted authorities saying he planned a shooting at Atlanta's international airport.
+### OTHER on 2025-10-22 01:07
+- Location: Fox News
+- Description: Federal authorities arrested between 15 and 40 vendors during an immigration enforcement operation in Manhattan's Chinatown, sparking protests and political backlash.
 
-Analysis generated at: Thu Oct 23 01:06:09 UTC 2025
+Analysis generated at: Thu Oct 23 01:48:05 UTC 2025
