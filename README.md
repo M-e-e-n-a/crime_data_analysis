@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Oct 23 06:22:17 UTC 2025
+Last updated: Thu Oct 23 12:30:15 UTC 2025
 
 ## Latest Analysis
 
-Loaded 66238 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-22 06:14:38
+Loaded 66315 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-22 12:27:13
 
 Incidents by source:
 source
-newsapi           66137
+newsapi           66214
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-10-22 06:14
+### OTHER on 2025-10-22 12:27
+- Location: Fox News
+- Description: Sen. Jeff Merkley spoke overnight and is still delivering a marathon speech railing against President Donald Trump's "grave threats to democracy."
+
+
+### HOMICIDE on 2025-10-22 12:25
+- Location: The Irish Times
+- Description: Judge says sentencing process ‘not an act of vengeance’
+
+
+### HOMICIDE on 2025-10-22 12:24
 - Location: ABC News
-- Description: Omer Neutra from New York state is one of two deceased American Israeli hostages whose bodies have still not been returned by Hamas.
+- Description: An unidentified gunman has fatally shot an opposition Sri Lankan politician Wednesday while he was working at his office, making him the first politician killed in a spate of shootings that has gripped the island nation
 
 
-### HOMICIDE on 2025-10-22 06:11
-- Location: Yahoo Entertainment
-- Description: Two buses and two other vehicles crashed early Wednesday on a highway in western Uganda, killing at least 63 people, police said, in one of the worst motor...
+### OTHER on 2025-10-22 12:18
+- Location: RT
+- Description: A man has opened fire near the parliament building in Belgrade and set ablaze a tent erected by supporters of the president Read Full Article at RT.com
 
 
-### ASSAULT on 2025-10-22 06:00
-- Location: Naturalnews.com
-- Description: A vocational school in Ulm is experiencing a severe crisis of violence, with its principal going public about daily brawls, weapon attacks and the systematic harassment of female students who do not wear headscarves. The violence is extreme and frequent, incl…
+### HOMICIDE on 2025-10-22 12:12
+- Location: LADbible
+- Description: The 15-year-old who murdered Harvey Willgoose has been named
 
-
-### ROBBERY/THEFT on 2025-10-22 05:45
-- Location: Al Jazeera English
-- Description: Eight items of stolen jewellery included a tiara and earrings from the set of Queen Marie-Amelie and Queen Hortense.
-
-
-### OTHER on 2025-10-22 05:39
-- Location: WSB Atlanta
-- Description: The French culture minister said that the security system in the Louvre museum was operating as it should when burglars broke into the Apollo Gallery and took off with several historic pieces.
-
-Analysis generated at: Thu Oct 23 06:22:17 UTC 2025
+Analysis generated at: Thu Oct 23 12:30:15 UTC 2025
