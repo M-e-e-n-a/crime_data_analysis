@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Oct 23 01:48:05 UTC 2025
+Last updated: Thu Oct 23 06:22:17 UTC 2025
 
 ## Latest Analysis
 
-Loaded 66192 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-22 01:33:43
+Loaded 66238 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-22 06:14:38
 
 Incidents by source:
 source
-newsapi           66091
+newsapi           66137
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-10-22 01:33
-- Location: Balloon-juice.com
-- Description: (Image by NEIVANMADE) Air raid alerts are up for all of central and eastern Ukraine and warnings have been issued for inbound Russian missiles. President Zelenskyy issued a statement on peace for Ukraine today. There is no video, here is the transcript: State…
+### HOMICIDE on 2025-10-22 06:14
+- Location: ABC News
+- Description: Omer Neutra from New York state is one of two deceased American Israeli hostages whose bodies have still not been returned by Hamas.
 
 
-### HOMICIDE on 2025-10-22 01:33
-- Location: The Times of India
-- Description: A brutal double murder on Diwali night has plunged Mohangarh town into shock. Grain trader Madanlal Saraswat and his accountant Rewantram were found dead, their bodies discovered by a temple priest. The assailants fled in the victim's car, fueling speculation…
+### HOMICIDE on 2025-10-22 06:11
+- Location: Yahoo Entertainment
+- Description: Two buses and two other vehicles crashed early Wednesday on a highway in western Uganda, killing at least 63 people, police said, in one of the worst motor...
 
 
-### SHOOTING on 2025-10-22 01:18
-- Location: Newser
-- Description: An immigration enforcement operation in Los Angeles turned violent Tuesday when federal agents shot at an undocumented immigrant who allegedly tried to escape by ramming his vehicle into law enforcement, according to authorities. The man was injured, as was a…
+### ASSAULT on 2025-10-22 06:00
+- Location: Naturalnews.com
+- Description: A vocational school in Ulm is experiencing a severe crisis of violence, with its principal going public about daily brawls, weapon attacks and the systematic harassment of female students who do not wear headscarves. The violence is extreme and frequent, incl…
 
 
-### OTHER on 2025-10-22 01:14
-- Location: Borderlandbeat.com
-- Description: "Sol Prendido" for Borderland Beat Federal and state authorities reported the arrest of Rigoberto López Mendoza, "El Pantano," who is believ...
+### ROBBERY/THEFT on 2025-10-22 05:45
+- Location: Al Jazeera English
+- Description: Eight items of stolen jewellery included a tiara and earrings from the set of Queen Marie-Amelie and Queen Hortense.
 
 
-### OTHER on 2025-10-22 01:07
-- Location: Fox News
-- Description: Federal authorities arrested between 15 and 40 vendors during an immigration enforcement operation in Manhattan's Chinatown, sparking protests and political backlash.
+### OTHER on 2025-10-22 05:39
+- Location: WSB Atlanta
+- Description: The French culture minister said that the security system in the Louvre museum was operating as it should when burglars broke into the Apollo Gallery and took off with several historic pieces.
 
-Analysis generated at: Thu Oct 23 01:48:05 UTC 2025
+Analysis generated at: Thu Oct 23 06:22:17 UTC 2025
