@@ -1,10 +1,10 @@
 
-Loaded 66315 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-22 12:27:13
+Loaded 66320 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-22 12:49:16
 
 Incidents by source:
 source
-newsapi           66214
+newsapi           66219
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-10-22 12:27
-- Location: Fox News
-- Description: Sen. Jeff Merkley spoke overnight and is still delivering a marathon speech railing against President Donald Trump's "grave threats to democracy."
+### OTHER on 2025-10-22 12:49
+- Location: YLE News
+- Description: Police initially detained four men on suspicion of aggravated rape in a cabin on board the Helsinki-Stockholm ferry.
 
 
-### HOMICIDE on 2025-10-22 12:25
-- Location: The Irish Times
-- Description: Judge says sentencing process ‘not an act of vengeance’
-
-
-### HOMICIDE on 2025-10-22 12:24
+### ROBBERY/THEFT on 2025-10-22 12:42
 - Location: ABC News
-- Description: An unidentified gunman has fatally shot an opposition Sri Lankan politician Wednesday while he was working at his office, making him the first politician killed in a spate of shootings that has gripped the island nation
+- Description: There are new concerns that Amazon, the second-largest private employer in the country, may be planning one of the biggest workplace transformations in modern history.
 
 
-### OTHER on 2025-10-22 12:18
-- Location: RT
-- Description: A man has opened fire near the parliament building in Belgrade and set ablaze a tent erected by supporters of the president Read Full Article at RT.com
+### HOMICIDE on 2025-10-22 12:35
+- Location: TheJournal.ie
+- Description: Jozef Puska’s partner and the mother of his children, Lucia Istokova (36) will serve a 20-month sentence.
 
 
-### HOMICIDE on 2025-10-22 12:12
-- Location: LADbible
-- Description: The 15-year-old who murdered Harvey Willgoose has been named
+### HOMICIDE on 2025-10-22 12:33
+- Location: Democracy Now!
+- Description: Tensions are escalating between Colombia and the United States as President Trump conducts deadly airstrikes on supposed “drug boats” in the Caribbean. Colombian President Gustavo Petro accused the U.S. of committing murder for killing a Colombian fisherman i…
 
-Analysis generated at: Thu Oct 23 12:30:15 UTC 2025
+
+### OTHER on 2025-10-22 12:33
+- Location: The Times of India
+- Description: Poland issued a stern warning to Russian President Vladimir Putin.  Polish officials stated his aircraft would be forcibly landed if he entered Polish airspace.  Putin would then be escorted to The Hague for war crimes prosecution.  This action stems from an …
+
+Analysis generated at: Thu Oct 23 12:51:08 UTC 2025
