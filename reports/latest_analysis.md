@@ -1,10 +1,10 @@
 
-Loaded 66320 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-22 12:49:16
+Loaded 66412 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-22 18:20:10
 
 Incidents by source:
 source
-newsapi           66219
+newsapi           66311
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-10-22 12:49
-- Location: YLE News
-- Description: Police initially detained four men on suspicion of aggravated rape in a cabin on board the Helsinki-Stockholm ferry.
+### OTHER on 2025-10-22 18:20
+- Location: TVLine
+- Description: We mustache you a question about Morgan and Nick on "High Potential": Would you support their relationship, or is he still not to be trusted? Let's discuss.
 
 
-### ROBBERY/THEFT on 2025-10-22 12:42
+### OTHER on 2025-10-22 18:19
 - Location: ABC News
-- Description: There are new concerns that Amazon, the second-largest private employer in the country, may be planning one of the biggest workplace transformations in modern history.
+- Description: NYC residents will see an 'increase in ICE arrests' after crackdown on Canal Street: ICE directorgo.com
 
 
-### HOMICIDE on 2025-10-22 12:35
-- Location: TheJournal.ie
-- Description: Jozef Puska’s partner and the mother of his children, Lucia Istokova (36) will serve a 20-month sentence.
+### OTHER on 2025-10-22 18:16
+- Location: ABC News (AU)
+- Description: Three men charged over a machete brawl outside Melbourne's Luna Park have been freed on bail, despite police urging magistrates to keep the trio locked up.
 
 
-### HOMICIDE on 2025-10-22 12:33
-- Location: Democracy Now!
-- Description: Tensions are escalating between Colombia and the United States as President Trump conducts deadly airstrikes on supposed “drug boats” in the Caribbean. Colombian President Gustavo Petro accused the U.S. of committing murder for killing a Colombian fisherman i…
+### OTHER on 2025-10-22 18:15
+- Location: Gizmodo.com
+- Description: The guardrails are completely gone.
 
 
-### OTHER on 2025-10-22 12:33
-- Location: The Times of India
-- Description: Poland issued a stern warning to Russian President Vladimir Putin.  Polish officials stated his aircraft would be forcibly landed if he entered Polish airspace.  Putin would then be escorted to The Hague for war crimes prosecution.  This action stems from an …
+### OTHER on 2025-10-22 18:14
+- Location: Fox News
+- Description: A Florida Uber Eats driver was charged with child neglect after his autistic son was found wandering naked on an interstate ramp. Good Samaritans rescued the nonverbal child.
 
-Analysis generated at: Thu Oct 23 12:51:08 UTC 2025
+Analysis generated at: Thu Oct 23 18:21:22 UTC 2025
