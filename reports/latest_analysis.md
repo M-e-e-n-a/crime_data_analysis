@@ -1,10 +1,10 @@
 
-Loaded 66412 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-22 18:20:10
+Loaded 66423 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-23 01:01:20
 
 Incidents by source:
 source
-newsapi           66311
+newsapi           66322
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-10-22 18:20
-- Location: TVLine
-- Description: We mustache you a question about Morgan and Nick on "High Potential": Would you support their relationship, or is he still not to be trusted? Let's discuss.
+### OTHER on 2025-10-23 01:01
+- Location: Havana Times
+- Description: The report describes how these “troll farms” function as propaganda and intimidation arms of the regime.
 
 
-### OTHER on 2025-10-22 18:19
-- Location: ABC News
-- Description: NYC residents will see an 'increase in ICE arrests' after crackdown on Canal Street: ICE directorgo.com
+### HOMICIDE on 2025-10-23 01:00
+- Location: Allthatsinteresting.com
+- Description: Police believe Charles Sobhraj murdered at least 20 tourists on Asia's famous Hippie Trail in the 1970s — but even though the "Bikini Killer" was sentenced to life in prison in Nepal, he walks free in France today.
+The post Inside The Crimes Of Charles Sobhra…
 
 
-### OTHER on 2025-10-22 18:16
-- Location: ABC News (AU)
-- Description: Three men charged over a machete brawl outside Melbourne's Luna Park have been freed on bail, despite police urging magistrates to keep the trio locked up.
-
-
-### OTHER on 2025-10-22 18:15
-- Location: Gizmodo.com
-- Description: The guardrails are completely gone.
-
-
-### OTHER on 2025-10-22 18:14
+### OTHER on 2025-10-23 00:55
 - Location: Fox News
-- Description: A Florida Uber Eats driver was charged with child neglect after his autistic son was found wandering naked on an interstate ramp. Good Samaritans rescued the nonverbal child.
+- Description: New York City mayoral candidates Zohran Mamdani, former Gov. Andrew Cuomo and Curtis Sliwa faced off in their last debate as billionaires call for Sliwa to drop out.
 
-Analysis generated at: Thu Oct 23 18:21:22 UTC 2025
+
+### OTHER on 2025-10-23 00:49
+- Location: TheWrap
+- Description: Writer/director Chris Stuckmann makes his feature debut with a simplistic, underwritten supernatural thriller about a missing YouTuber
+The post ‘Shelby Oaks’ Review: The Derivative, Hollow Horror Film You Didn’t Ask for appeared first on TheWrap.
+
+
+### SHOOTING on 2025-10-23 00:48
+- Location: Biztoc.com
+
+Analysis generated at: Fri Oct 24 01:02:27 UTC 2025
