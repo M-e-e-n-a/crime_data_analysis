@@ -1,10 +1,10 @@
 
-Loaded 66542 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-23 12:49:41
+Loaded 66633 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-23 18:19:15
 
 Incidents by source:
 source
-newsapi           66441
+newsapi           66532
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-10-23 12:49
-- Location: RT
-- Description: An Irish court has cleared the anonymous Soldier F of all charges relating to the 1972 Bloody Sunday massacre Read Full Article at RT.com
+### SHOOTING on 2025-10-23 18:19
+- Location: Boston Herald
+- Description: Baldwin initially filed the lawsuit in state court in January.
 
 
-### ROBBERY/THEFT on 2025-10-23 12:49
-- Location: KOIN.com
-- Description: Portland Trail Blazers head coach Chauncy Billups was reportedly arrested by the FBI as part of a sports betting probe.
+### OTHER on 2025-10-23 18:17
+- Location: Boston Herald
+- Description: Naroditsky's old friends and mentors remember a bright, soft-spoken young man.
 
 
-### OTHER on 2025-10-23 12:45
-- Location: ABC News
-- Description: Sajeeb Wazed Joy, son of Bangladesh's ousted Prime Minister Sheikh Hasina, is calling for the interim government to lift a ban on Hasina's party
+### OTHER on 2025-10-23 18:17
+- Location: ARTnews
+- Description: A German firm stepped into the media spotlight this week thanks to a marketing campaign featuring the furniture lift used in the Louvre jewel heist.
 
 
-### SHOOTING on 2025-10-23 12:42
-- Location: Breitbart News
-- Description: Federal agents launched a high-impact gang takedown in Wisconsin this morning, arresting 22 suspects and seizing a cache of drugs, guns, and vehicles in a coordinated strike dubbed “Operation Chalkline.” Backed by 14 SWAT teams and dozens of law enforcement p…
+### OTHER on 2025-10-23 18:13
+- Location: BBC News
+- Description: Authorities said the "mind-boggling" fraud involved tens of millions of dollars and included members of organised crime.
 
 
-### HOMICIDE on 2025-10-23 12:35
-- Location: Gossiplankanews.com
-- Description: The assassination of Weligama Pradeshiya Sabha Chairman Lasantha Wickramasekara has sent shockwaves through Sri Lanka’s political and security circles, reigniting fierce debate over governance, accountability, and the resurgence of organised crime in the coun…
+### OTHER on 2025-10-23 18:11
+- Location: Protothema.gr
+- Description: Players, coaches, and members of the Italian-American mafia formed a multibillion-dollar network that manipulated results using insider information about player absences, fitness levels, and other data, involving figures like Billups, Rozier, and Jones
+The po…
 
-Analysis generated at: Fri Oct 24 12:50:46 UTC 2025
+Analysis generated at: Fri Oct 24 18:21:13 UTC 2025
