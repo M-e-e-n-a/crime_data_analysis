@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Oct 24 06:21:24 UTC 2025
+Last updated: Fri Oct 24 12:30:31 UTC 2025
 
 ## Latest Analysis
 
-Loaded 66470 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-23 06:14:00
+Loaded 66537 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-23 12:29:50
 
 Incidents by source:
 source
-newsapi           66369
+newsapi           66436
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-10-23 06:14
-- Location: Gossiplankanews.com
-- Description: Further details have now emerged regarding the fatal shooting of Lasantha Wickramasekara, Chairman of the Weligama Pradeshiya Sabha, who was gunned down inside his official office this morning.According to reports, the incident occurred around 10:30 a.m. toda…
+### HOMICIDE on 2025-10-23 12:29
+- Location: CBC News
+- Description: A former British paratrooper who was the only soldier ever charged in the 1972 Bloody Sunday massacre in Northern Ireland was acquitted Thursday of murder charges.
 
 
-### OTHER on 2025-10-23 05:47
-- Location: Sherwoodforestzinelibrary.org
-- Description: Home of the Sherwood Forest Zine Library's Virtual Zine Library featuring hundreds of free downloadable zines! The home page shows zine categories and recently added zines as well as details on how to submit a digital zine to the virtual library.
+### HOMICIDE on 2025-10-23 12:27
+- Location: International Business Times
+- Description: A judge in Belfast on Thursday acquitted a British ex-paratrooper of killing unarmed civilians during the 1972 Bloody Sunday massacre.
 
 
-### HOMICIDE on 2025-10-23 05:42
-- Location: Sky.com
-- Description: A man previously accused of abducting and murdering a three-year-old British girl who vanished from a beach 55 years ago has been identified by an Australian politician.
+### ROBBERY/THEFT on 2025-10-23 12:20
+- Location: The Times of India
+- Description: Lavish jewels stolen from the Louvre Museum in Paris are feared to be melted or broken down. Experts suggest these valuable artifacts could be sold discreetly in smaller pieces. The theft of these historic royal items presents a significant challenge for reco…
 
 
-### OTHER on 2025-10-23 05:33
-- Location: CNA
-- Description: PHNOM PENH: Cambodian authorities arrested 57 South Koreans for alleged involvement in transnational cyberscams, a government commission said on Thursday (Oct 23), days after dozens accused of working in the illicit networks were repatriated.The multibillion-…
+### OTHER on 2025-10-23 12:17
+- Location: Boston Herald
+- Description: The deployment has sparked mixed feelings among Washington D.C. residents.
 
 
-### ROBBERY/THEFT on 2025-10-23 05:28
-- Location: Al Jazeera English
-- Description: Laurence des Cars told France's Senate the heist exposed the museum's camera shortage and other security 'weaknesses'.
+### OTHER on 2025-10-23 12:09
+- Location: Fox News
+- Description: Republican candidate Darren Bailey lost his son, daughter-in-law and two grandchildren aged 12 and 7 in a helicopter crash in Montana on Wednesday.
 
-Analysis generated at: Fri Oct 24 06:21:24 UTC 2025
+Analysis generated at: Fri Oct 24 12:30:31 UTC 2025
