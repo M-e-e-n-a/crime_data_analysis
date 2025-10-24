@@ -1,10 +1,10 @@
 
-Loaded 66537 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-23 12:29:50
+Loaded 66542 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-23 12:49:41
 
 Incidents by source:
 source
-newsapi           66436
+newsapi           66441
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-10-23 12:29
-- Location: CBC News
-- Description: A former British paratrooper who was the only soldier ever charged in the 1972 Bloody Sunday massacre in Northern Ireland was acquitted Thursday of murder charges.
+### OTHER on 2025-10-23 12:49
+- Location: RT
+- Description: An Irish court has cleared the anonymous Soldier F of all charges relating to the 1972 Bloody Sunday massacre Read Full Article at RT.com
 
 
-### HOMICIDE on 2025-10-23 12:27
-- Location: International Business Times
-- Description: A judge in Belfast on Thursday acquitted a British ex-paratrooper of killing unarmed civilians during the 1972 Bloody Sunday massacre.
+### ROBBERY/THEFT on 2025-10-23 12:49
+- Location: KOIN.com
+- Description: Portland Trail Blazers head coach Chauncy Billups was reportedly arrested by the FBI as part of a sports betting probe.
 
 
-### ROBBERY/THEFT on 2025-10-23 12:20
-- Location: The Times of India
-- Description: Lavish jewels stolen from the Louvre Museum in Paris are feared to be melted or broken down. Experts suggest these valuable artifacts could be sold discreetly in smaller pieces. The theft of these historic royal items presents a significant challenge for reco…
+### OTHER on 2025-10-23 12:45
+- Location: ABC News
+- Description: Sajeeb Wazed Joy, son of Bangladesh's ousted Prime Minister Sheikh Hasina, is calling for the interim government to lift a ban on Hasina's party
 
 
-### OTHER on 2025-10-23 12:17
-- Location: Boston Herald
-- Description: The deployment has sparked mixed feelings among Washington D.C. residents.
+### SHOOTING on 2025-10-23 12:42
+- Location: Breitbart News
+- Description: Federal agents launched a high-impact gang takedown in Wisconsin this morning, arresting 22 suspects and seizing a cache of drugs, guns, and vehicles in a coordinated strike dubbed “Operation Chalkline.” Backed by 14 SWAT teams and dozens of law enforcement p…
 
 
-### OTHER on 2025-10-23 12:09
-- Location: Fox News
-- Description: Republican candidate Darren Bailey lost his son, daughter-in-law and two grandchildren aged 12 and 7 in a helicopter crash in Montana on Wednesday.
+### HOMICIDE on 2025-10-23 12:35
+- Location: Gossiplankanews.com
+- Description: The assassination of Weligama Pradeshiya Sabha Chairman Lasantha Wickramasekara has sent shockwaves through Sri Lanka’s political and security circles, reigniting fierce debate over governance, accountability, and the resurgence of organised crime in the coun…
 
-Analysis generated at: Fri Oct 24 12:30:31 UTC 2025
+Analysis generated at: Fri Oct 24 12:50:46 UTC 2025
