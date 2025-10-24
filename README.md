@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Oct 24 01:44:19 UTC 2025
+Last updated: Fri Oct 24 06:21:24 UTC 2025
 
 ## Latest Analysis
 
-Loaded 66427 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-23 01:40:43
+Loaded 66470 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-23 06:14:00
 
 Incidents by source:
 source
-newsapi           66326
+newsapi           66369
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2025-10-23 01:40
-- Location: The Times of India
-- Description: BENGALURU: Police Wednesday said a 27-year-old woman from Bengal was allegedly gang-raped and robbed at her residence here. Three of the accused were .
+### HOMICIDE on 2025-10-23 06:14
+- Location: Gossiplankanews.com
+- Description: Further details have now emerged regarding the fatal shooting of Lasantha Wickramasekara, Chairman of the Weligama Pradeshiya Sabha, who was gunned down inside his official office this morning.According to reports, the incident occurred around 10:30 a.m. toda…
 
 
-### OTHER on 2025-10-23 01:13
-- Location: New Zealand Herald
-- Description: Co-defendant MaxBuild and its director, Munesh 'Max' Kumar, were sentenced last year.
+### OTHER on 2025-10-23 05:47
+- Location: Sherwoodforestzinelibrary.org
+- Description: Home of the Sherwood Forest Zine Library's Virtual Zine Library featuring hundreds of free downloadable zines! The home page shows zine categories and recently added zines as well as details on how to submit a digital zine to the virtual library.
 
 
-### OTHER on 2025-10-23 01:11
-- Location: Israelnationalnews.com
-- Description: Andrew Cuomo and Curtis Sliwa confront Zohran Mamdani over antisemitism and anti-Israel rhetoric in NYC’s final mayoral debate, as 650 rabbis warn his election could endanger Jews. Mamdani defends his record and pledges inclusivity.
+### HOMICIDE on 2025-10-23 05:42
+- Location: Sky.com
+- Description: A man previously accused of abducting and murdering a three-year-old British girl who vanished from a beach 55 years ago has been identified by an Australian politician.
 
 
-### OTHER on 2025-10-23 01:10
-- Location: The Star Online
-- Description: KOTA TINGGI: A 51-year-old businessman lost about RM380,000 after falling victim to a fake investment scheme promoted on WhatsApp. Read full story
+### OTHER on 2025-10-23 05:33
+- Location: CNA
+- Description: PHNOM PENH: Cambodian authorities arrested 57 South Koreans for alleged involvement in transnational cyberscams, a government commission said on Thursday (Oct 23), days after dozens accused of working in the illicit networks were repatriated.The multibillion-…
 
 
-### OTHER on 2025-10-23 01:01
-- Location: Havana Times
-- Description: The report describes how these “troll farms” function as propaganda and intimidation arms of the regime.
+### ROBBERY/THEFT on 2025-10-23 05:28
+- Location: Al Jazeera English
+- Description: Laurence des Cars told France's Senate the heist exposed the museum's camera shortage and other security 'weaknesses'.
 
-Analysis generated at: Fri Oct 24 01:44:19 UTC 2025
+Analysis generated at: Fri Oct 24 06:21:24 UTC 2025
