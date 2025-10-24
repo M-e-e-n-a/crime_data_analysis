@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Oct 24 01:02:27 UTC 2025
+Last updated: Fri Oct 24 01:44:19 UTC 2025
 
 ## Latest Analysis
 
-Loaded 66423 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-23 01:01:20
+Loaded 66427 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-23 01:40:43
 
 Incidents by source:
 source
-newsapi           66322
+newsapi           66326
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
+### ROBBERY/THEFT on 2025-10-23 01:40
+- Location: The Times of India
+- Description: BENGALURU: Police Wednesday said a 27-year-old woman from Bengal was allegedly gang-raped and robbed at her residence here. Three of the accused were .
+
+
+### OTHER on 2025-10-23 01:13
+- Location: New Zealand Herald
+- Description: Co-defendant MaxBuild and its director, Munesh 'Max' Kumar, were sentenced last year.
+
+
+### OTHER on 2025-10-23 01:11
+- Location: Israelnationalnews.com
+- Description: Andrew Cuomo and Curtis Sliwa confront Zohran Mamdani over antisemitism and anti-Israel rhetoric in NYC’s final mayoral debate, as 650 rabbis warn his election could endanger Jews. Mamdani defends his record and pledges inclusivity.
+
+
+### OTHER on 2025-10-23 01:10
+- Location: The Star Online
+- Description: KOTA TINGGI: A 51-year-old businessman lost about RM380,000 after falling victim to a fake investment scheme promoted on WhatsApp. Read full story
+
+
 ### OTHER on 2025-10-23 01:01
 - Location: Havana Times
 - Description: The report describes how these “troll farms” function as propaganda and intimidation arms of the regime.
 
-
-### HOMICIDE on 2025-10-23 01:00
-- Location: Allthatsinteresting.com
-- Description: Police believe Charles Sobhraj murdered at least 20 tourists on Asia's famous Hippie Trail in the 1970s — but even though the "Bikini Killer" was sentenced to life in prison in Nepal, he walks free in France today.
-The post Inside The Crimes Of Charles Sobhra…
-
-
-### OTHER on 2025-10-23 00:55
-- Location: Fox News
-- Description: New York City mayoral candidates Zohran Mamdani, former Gov. Andrew Cuomo and Curtis Sliwa faced off in their last debate as billionaires call for Sliwa to drop out.
-
-
-### OTHER on 2025-10-23 00:49
-- Location: TheWrap
-- Description: Writer/director Chris Stuckmann makes his feature debut with a simplistic, underwritten supernatural thriller about a missing YouTuber
-The post ‘Shelby Oaks’ Review: The Derivative, Hollow Horror Film You Didn’t Ask for appeared first on TheWrap.
-
-
-### SHOOTING on 2025-10-23 00:48
-- Location: Biztoc.com
-
-Analysis generated at: Fri Oct 24 01:02:27 UTC 2025
+Analysis generated at: Fri Oct 24 01:44:19 UTC 2025
