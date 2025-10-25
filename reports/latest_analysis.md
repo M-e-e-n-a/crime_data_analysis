@@ -1,10 +1,10 @@
 
-Loaded 66645 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-24 00:59:04
+Loaded 66655 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-24 01:42:09
 
 Incidents by source:
 source
-newsapi           66544
+newsapi           66554
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### DRUG RELATED on 2025-10-24 00:59
-- Location: Starweekly.com.au
-- Description: A licensed electrician and two other men have been arrested following police raids targeting a network of cannabis crop houses linked to organised crime across Melbourne. Police executed search warrants at properties in Epping, Airport West, Hadfield and Cobu…
+### SHOOTING on 2025-10-24 01:42
+- Location: International Business Times
+- Description: Car bombings, massacres, extortion, and a security force outgunned by drug gangs: the mayor of Ecuador's most violent city says residents are living through a "collective psychosis" -- and suggests the president's hardline policies bear some of the blame.
 
 
-### OTHER on 2025-10-24 00:55
-- Location: 7NEWS.com.au
-- Description: Police Taskforce Summit to take over ongoing search for fugitive Dezi Freeman7news.com.au
+### SHOOTING on 2025-10-24 01:37
+- Location: Digital Journal
+- Description: Car bombings, massacres, extortion, and a security force outgunned by drug gangs: the mayor of Ecuador’s most violent city says residents are living through a “collective psychosis” — and suggests the president’s hardline policies bear some of the blame. Aqui…
 
 
-### ROBBERY/THEFT on 2025-10-24 00:40
-- Location: Fox News
-- Description: Basketball Hall of Famer and NBA head coach Chauncey Billups was arrested on Thursday as part of the FBI's investigation into a rigged poker scheme.
+### OTHER on 2025-10-24 01:36
+- Location: Al Jazeera English
+- Description: Here are the key events from day 1,338 of Russia’s war on Ukraine.
 
 
-### OTHER on 2025-10-24 00:36
-- Location: ABC News (AU)
-- Description: Mount Buffalo National Park will open to everyone as Victoria Police's search for Dezi Freeman continues with the creation of a new taskforce.
+### HOMICIDE on 2025-10-24 01:35
+- Location: Boston News, Weather, Sports | WHDH 7News
+- Description: DEDHAM, MASS. (WHDH) - The trial of Brian Walshe, a Cohasset man accused of killing his wife, could once again be delayed as the 48-year-old<a class="excerpt-read-more" href="https://whdh.com/news/judge-grants-extension-for-brian-walshe-mental-health-evaluati…
 
 
-### HOMICIDE on 2025-10-24 00:36
-- Location: BBC News
-- Description: Mark Killick's fourth fraud conviction involved 37 victims, who police estimate lost £1.25m.
+### OTHER on 2025-10-24 01:30
+- Location: The Indian Express
+- Description: Funds were reportedly withdrawn using forged identities and accounts spread across Jodhpur, Kota, Bundi, and Dausa, with personal data sourced from Jhalawar.
 
-Analysis generated at: Sat Oct 25 01:03:54 UTC 2025
+Analysis generated at: Sat Oct 25 01:45:36 UTC 2025
