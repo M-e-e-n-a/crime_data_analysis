@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Oct 24 18:21:13 UTC 2025
+Last updated: Sat Oct 25 01:03:54 UTC 2025
 
 ## Latest Analysis
 
-Loaded 66633 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-23 18:19:15
+Loaded 66645 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-24 00:59:04
 
 Incidents by source:
 source
-newsapi           66532
+newsapi           66544
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-10-23 18:19
-- Location: Boston Herald
-- Description: Baldwin initially filed the lawsuit in state court in January.
+### DRUG RELATED on 2025-10-24 00:59
+- Location: Starweekly.com.au
+- Description: A licensed electrician and two other men have been arrested following police raids targeting a network of cannabis crop houses linked to organised crime across Melbourne. Police executed search warrants at properties in Epping, Airport West, Hadfield and Cobu…
 
 
-### OTHER on 2025-10-23 18:17
-- Location: Boston Herald
-- Description: Naroditsky's old friends and mentors remember a bright, soft-spoken young man.
+### OTHER on 2025-10-24 00:55
+- Location: 7NEWS.com.au
+- Description: Police Taskforce Summit to take over ongoing search for fugitive Dezi Freeman7news.com.au
 
 
-### OTHER on 2025-10-23 18:17
-- Location: ARTnews
-- Description: A German firm stepped into the media spotlight this week thanks to a marketing campaign featuring the furniture lift used in the Louvre jewel heist.
+### ROBBERY/THEFT on 2025-10-24 00:40
+- Location: Fox News
+- Description: Basketball Hall of Famer and NBA head coach Chauncey Billups was arrested on Thursday as part of the FBI's investigation into a rigged poker scheme.
 
 
-### OTHER on 2025-10-23 18:13
+### OTHER on 2025-10-24 00:36
+- Location: ABC News (AU)
+- Description: Mount Buffalo National Park will open to everyone as Victoria Police's search for Dezi Freeman continues with the creation of a new taskforce.
+
+
+### HOMICIDE on 2025-10-24 00:36
 - Location: BBC News
-- Description: Authorities said the "mind-boggling" fraud involved tens of millions of dollars and included members of organised crime.
+- Description: Mark Killick's fourth fraud conviction involved 37 victims, who police estimate lost £1.25m.
 
-
-### OTHER on 2025-10-23 18:11
-- Location: Protothema.gr
-- Description: Players, coaches, and members of the Italian-American mafia formed a multibillion-dollar network that manipulated results using insider information about player absences, fitness levels, and other data, involving figures like Billups, Rozier, and Jones
-The po…
-
-Analysis generated at: Fri Oct 24 18:21:13 UTC 2025
+Analysis generated at: Sat Oct 25 01:03:54 UTC 2025
