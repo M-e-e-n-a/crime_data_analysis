@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Oct 25 12:25:47 UTC 2025
+Last updated: Sat Oct 25 12:41:58 UTC 2025
 
 ## Latest Analysis
 
-Loaded 66751 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-24 12:19:43
+Loaded 66758 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-24 12:36:25
 
 Incidents by source:
 source
-newsapi           66650
+newsapi           66657
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-10-24 12:19
-- Location: Rogerebert.com
-- Description: “Last Days” is a scattered, superficial depiction of a sad tale that requires deeper analysis.
+### HOMICIDE on 2025-10-24 12:36
+- Location: The Times of India
+- Description: Patna police and STF apprehended Mohammad Naushad, the main conspirator in the murder of alleged criminal "Chhote Sarkar" at Danapur court. Naushad, who provided firearms to the assailants, was arrested in Anand Bazaar. His capture is expected to reveal cruci…
 
 
-### OTHER on 2025-10-24 12:19
-- Location: Rogerebert.com
-- Description: A conversation with director Yorgos Lanthimos and writer Will Tracy on their new film, Bugonia.
+### HOMICIDE on 2025-10-24 12:34
+- Location: Www.gov.uk
+- Description: Border Force becomes the first agency in the world to use specially trained dogs to detect both deadly fentanyl and nitazenes.
 
 
-### OTHER on 2025-10-24 12:17
-- Location: TODAY
-- Description: Who is Susan Lorincz? What is her bio? Where is she after the events of The Perfect Neighbor? What did she do to Ajike AJ Owens? Find out.
+### ROBBERY/THEFT on 2025-10-24 12:32
+- Location: Freerepublic.com
+- Description: LOS ANGELES (KABC) -- Could copper theft slow Los Angeles's move towards a zero-emissions future? Thieves are targeting electric vehicle charging stations for copper wire -- cutting cords and even breaking into chargers using hacksaws. It's a costly fix to re…
 
 
-### OTHER on 2025-10-24 12:10
-- Location: Boston Herald
-- Description: The deployment of National Guard troops by President Trump faces multiple court challenges.
+### HOMICIDE on 2025-10-24 12:30
+- Location: Shtfplan.com
+- Description: President Donald Trump’s use of the US military to kill persons on speed boats in international waters, or in territorial waters claimed by other sovereign nations — all 1,500 miles from the US — has posed grave issues of due process. The Constitution’s guara…
 
 
-### HOMICIDE on 2025-10-24 12:03
-- Location: BBC News
-- Description: The Court of Appeal says Mahek Bukhari's sentence did not take into account her young age.
+### HOMICIDE on 2025-10-24 12:29
+- Location: The Indian Express
+- Description: Police said the murder took place because of an old dispute between the victim and the accused, which resurfaced when they ran into each other on Thursday evening.
 
-Analysis generated at: Sat Oct 25 12:25:47 UTC 2025
+Analysis generated at: Sat Oct 25 12:41:58 UTC 2025
