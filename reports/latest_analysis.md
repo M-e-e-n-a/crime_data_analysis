@@ -1,10 +1,10 @@
 
-Loaded 66758 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-24 12:36:25
+Loaded 66847 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-24 18:17:20
 
 Incidents by source:
 source
-newsapi           66657
+newsapi           66746
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-10-24 12:36
-- Location: The Times of India
-- Description: Patna police and STF apprehended Mohammad Naushad, the main conspirator in the murder of alleged criminal "Chhote Sarkar" at Danapur court. Naushad, who provided firearms to the assailants, was arrested in Anand Bazaar. His capture is expected to reveal cruci…
+### OTHER on 2025-10-24 18:17
+- Location: New York Post
+- Description: The young victim was walking at 160th Street and Hillside Avenue in Jamaica around 2:15 p.m. Friday when 13 strangers – who appeared to be teens themselves – stormed up to him and surrounded him, cops said.
 
 
-### HOMICIDE on 2025-10-24 12:34
-- Location: Www.gov.uk
-- Description: Border Force becomes the first agency in the world to use specially trained dogs to detect both deadly fentanyl and nitazenes.
+### OTHER on 2025-10-24 18:12
+- Location: Borderlandbeat.com
+- Description: "Sol Prendido" for Borderland Beat A Reuters investigation revealed that the Jalisco New Generation Cartel (CJNG) has established a transnat...
 
 
-### ROBBERY/THEFT on 2025-10-24 12:32
-- Location: Freerepublic.com
-- Description: LOS ANGELES (KABC) -- Could copper theft slow Los Angeles's move towards a zero-emissions future? Thieves are targeting electric vehicle charging stations for copper wire -- cutting cords and even breaking into chargers using hacksaws. It's a costly fix to re…
+### OTHER on 2025-10-24 18:04
+- Location: Mental Floss
+- Description: Caleb Milne rushed out of his apartment to tend to his ailing grandfather. He was later found alive in a ditch. What happened in between?
 
 
-### HOMICIDE on 2025-10-24 12:30
-- Location: Shtfplan.com
-- Description: President Donald Trump’s use of the US military to kill persons on speed boats in international waters, or in territorial waters claimed by other sovereign nations — all 1,500 miles from the US — has posed grave issues of due process. The Constitution’s guara…
+### OTHER on 2025-10-24 18:02
+- Location: ABC News
+- Description: Boecker's AgiLo furniture lift was used in last weekend's jewel heist at the Louvre Museum in Paris, and the German company's social media post went viral.
 
 
-### HOMICIDE on 2025-10-24 12:29
-- Location: The Indian Express
-- Description: Police said the murder took place because of an old dispute between the victim and the accused, which resurfaced when they ran into each other on Thursday evening.
+### OTHER on 2025-10-24 18:00
+- Location: PCMag.com
+- Description: Want some cinema picks for your week? Try a buzzy documentary, along with the funniest found footage horror flick we've seen, and a sci-fi satire that's leaving the service next week.
+It's impossible to count the total number of movies on Netflix (and I've tr…
 
-Analysis generated at: Sat Oct 25 12:41:58 UTC 2025
+Analysis generated at: Sat Oct 25 18:18:41 UTC 2025
