@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Oct 26 01:10:51 UTC 2025
+Last updated: Sun Oct 26 01:54:29 UTC 2025
 
 ## Latest Analysis
 
-Loaded 66856 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-25 00:58:26
+Loaded 66864 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-25 01:54:06
 
 Incidents by source:
 source
-newsapi           66755
+newsapi           66763
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-10-25 00:58
-- Location: The Daily Caller
-- Description: Smith said not all supporters of Trump are "racist, bigoted morons," adding that his party needs to broaden its outreach and not focus on "identity politics."
+### HOMICIDE on 2025-10-25 01:54
+- Location: Yahoo Entertainment
+- Description: A crime spree in Charlotte resulted in tragedy when 38-year-old Justin Carlton was murdered, leading to a series of violent events involving suspect Joseph...
 
 
-### HOMICIDE on 2025-10-25 00:58
-- Location: CBC News
-- Description: The family of Savannah Rose Kulla-Davies, 29, spoke to CBC Toronto about their grief after the Brampton, Ont., woman was allegedly killed by her ex-partner on Tuesday.
+### ASSAULT on 2025-10-25 01:53
+- Location: Al Jazeera English
+- Description: UK prosecutors said defendants planned a 'sustained campaign of terrorism and sabotage' backed by Russia's Wagner Group.
 
 
-### HOMICIDE on 2025-10-25 00:49
-- Location: Fox News
-- Description: ICE arrests dozens of criminal illegal immigrants in Twin Cities area including murderers and child abusers, Homeland Security Secretary Kristi Noem announces.
+### OTHER on 2025-10-25 01:48
+- Location: Nep123.com
+- Description: Was Evidence Compromised at the #GenZMovement Protest Sites? Following the #GenZAndolan protests on September 9th, the government has initiated cleanup and reconstruction efforts at sites damaged by arson and vandalism. However, concerns are rising among expe…
 
 
-### OTHER on 2025-10-25 00:37
-- Location: Bleeding Cool News
-- Description: After a big start for the "Blue Bloods" spinoff last week, CBS and Showrunners Brandon Sonnier and Brandon Margolis' Donnie Wahlberg and Sonequa Martin-Green-starring Boston Blue returns tonight. In S01E02: "Teammates," Lena (Martin-Green) and Danny (Wahlberg…
+### HOMICIDE on 2025-10-25 01:43
+- Location: New York Post
+- Description: Lee David Strole, 39, was charged with aggravated assault with a deadly weapon after allegedly opening fire on his neighbor in Leggett on Oct. 15.
 
 
-### OTHER on 2025-10-25 00:25
-- Location: Fox News
-- Description: Washington D.C. congressional delegate targeted in brazen credit card fraud scheme as suspects pose as maintenance workers to access her home and finances.
+### SHOOTING on 2025-10-25 01:41
+- Location: Kiwipolitico.com
+- Description: A while back I wrote about Trump’s nostalgia for the William McKinley “gilded” era (defined by tariffs and wars) and his return to a “neo” version of Gunboat Diplomacy with his threats to annex Greenland, Canada and the Panama Canal. The term “gilded” was bes…
 
-Analysis generated at: Sun Oct 26 01:10:51 UTC 2025
+Analysis generated at: Sun Oct 26 01:54:29 UTC 2025
