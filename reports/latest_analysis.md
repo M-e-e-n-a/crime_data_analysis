@@ -1,10 +1,10 @@
 
-Loaded 66847 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-24 18:17:20
+Loaded 66856 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-25 00:58:26
 
 Incidents by source:
 source
-newsapi           66746
+newsapi           66755
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-10-24 18:17
-- Location: New York Post
-- Description: The young victim was walking at 160th Street and Hillside Avenue in Jamaica around 2:15 p.m. Friday when 13 strangers – who appeared to be teens themselves – stormed up to him and surrounded him, cops said.
+### OTHER on 2025-10-25 00:58
+- Location: The Daily Caller
+- Description: Smith said not all supporters of Trump are "racist, bigoted morons," adding that his party needs to broaden its outreach and not focus on "identity politics."
 
 
-### OTHER on 2025-10-24 18:12
-- Location: Borderlandbeat.com
-- Description: "Sol Prendido" for Borderland Beat A Reuters investigation revealed that the Jalisco New Generation Cartel (CJNG) has established a transnat...
+### HOMICIDE on 2025-10-25 00:58
+- Location: CBC News
+- Description: The family of Savannah Rose Kulla-Davies, 29, spoke to CBC Toronto about their grief after the Brampton, Ont., woman was allegedly killed by her ex-partner on Tuesday.
 
 
-### OTHER on 2025-10-24 18:04
-- Location: Mental Floss
-- Description: Caleb Milne rushed out of his apartment to tend to his ailing grandfather. He was later found alive in a ditch. What happened in between?
+### HOMICIDE on 2025-10-25 00:49
+- Location: Fox News
+- Description: ICE arrests dozens of criminal illegal immigrants in Twin Cities area including murderers and child abusers, Homeland Security Secretary Kristi Noem announces.
 
 
-### OTHER on 2025-10-24 18:02
-- Location: ABC News
-- Description: Boecker's AgiLo furniture lift was used in last weekend's jewel heist at the Louvre Museum in Paris, and the German company's social media post went viral.
+### OTHER on 2025-10-25 00:37
+- Location: Bleeding Cool News
+- Description: After a big start for the "Blue Bloods" spinoff last week, CBS and Showrunners Brandon Sonnier and Brandon Margolis' Donnie Wahlberg and Sonequa Martin-Green-starring Boston Blue returns tonight. In S01E02: "Teammates," Lena (Martin-Green) and Danny (Wahlberg…
 
 
-### OTHER on 2025-10-24 18:00
-- Location: PCMag.com
-- Description: Want some cinema picks for your week? Try a buzzy documentary, along with the funniest found footage horror flick we've seen, and a sci-fi satire that's leaving the service next week.
-It's impossible to count the total number of movies on Netflix (and I've tr…
+### OTHER on 2025-10-25 00:25
+- Location: Fox News
+- Description: Washington D.C. congressional delegate targeted in brazen credit card fraud scheme as suspects pose as maintenance workers to access her home and finances.
 
-Analysis generated at: Sat Oct 25 18:18:41 UTC 2025
+Analysis generated at: Sun Oct 26 01:10:51 UTC 2025
