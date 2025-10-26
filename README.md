@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Oct 26 01:54:29 UTC 2025
+Last updated: Sun Oct 26 06:20:04 UTC 2025
 
 ## Latest Analysis
 
-Loaded 66864 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-25 01:54:06
+Loaded 66881 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-25 06:17:13
 
 Incidents by source:
 source
-newsapi           66763
+newsapi           66780
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-10-25 01:54
-- Location: Yahoo Entertainment
-- Description: A crime spree in Charlotte resulted in tragedy when 38-year-old Justin Carlton was murdered, leading to a series of violent events involving suspect Joseph...
+### OTHER on 2025-10-25 06:17
+- Location: The Times of India
+- Description: Prime Minister Narendra Modi will visit Bihar on October 30 to attend programs in Muzaffarpur and Chhapra, BJP state president Dilip Jaiswal said. Modi has already addressed rallies in Samastipur and Begusarai, launching the NDA’s campaign for the November 6 …
 
 
-### ASSAULT on 2025-10-25 01:53
-- Location: Al Jazeera English
-- Description: UK prosecutors said defendants planned a 'sustained campaign of terrorism and sabotage' backed by Russia's Wagner Group.
+### ROBBERY/THEFT on 2025-10-25 05:38
+- Location: Hurriyet Daily News
+- Description: Amid global shock over the audacious Louvre heist, where $102 million in royal jewels were stolen in under eight minutes, Türkiye is set to evaluate security vulnerabilities in its museums to strengthen a robust plan safeguarding its most valuable cultural tr…
 
 
-### OTHER on 2025-10-25 01:48
-- Location: Nep123.com
-- Description: Was Evidence Compromised at the #GenZMovement Protest Sites? Following the #GenZAndolan protests on September 9th, the government has initiated cleanup and reconstruction efforts at sites damaged by arson and vandalism. However, concerns are rising among expe…
+### HOMICIDE on 2025-10-25 05:18
+- Location: The Star Online
+- Description: BUKIT MERTAJAM: Three Nepalese men who were arrested yesterday for their alleged involvement in the murders of a woman and her daughter in Kampung Sekolah Juru were remanded for seven days on Saturday (Oct 25). Read full story
 
 
-### HOMICIDE on 2025-10-25 01:43
+### HOMICIDE on 2025-10-25 05:16
 - Location: New York Post
-- Description: Lee David Strole, 39, was charged with aggravated assault with a deadly weapon after allegedly opening fire on his neighbor in Leggett on Oct. 15.
+- Description: This chilling footage shows a man taking children out for a McDonald's - after he had just murdered their parents.
 
 
-### SHOOTING on 2025-10-25 01:41
-- Location: Kiwipolitico.com
-- Description: A while back I wrote about Trump’s nostalgia for the William McKinley “gilded” era (defined by tariffs and wars) and his return to a “neo” version of Gunboat Diplomacy with his threats to annex Greenland, Canada and the Panama Canal. The term “gilded” was bes…
+### OTHER on 2025-10-25 05:00
+- Location: TechRadar
+- Description: Attending the 2025 Matrix conference made me think of the dual vision on encryption, dividing governments and citizens. I spoke to attendees to find out what they make of it.
 
-Analysis generated at: Sun Oct 26 01:54:29 UTC 2025
+Analysis generated at: Sun Oct 26 06:20:04 UTC 2025
