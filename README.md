@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Oct 27 01:12:16 UTC 2025
+Last updated: Mon Oct 27 01:58:39 UTC 2025
 
 ## Latest Analysis
 
-Loaded 66991 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-26 01:09:00
+Loaded 66996 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-26 01:57:34
 
 Incidents by source:
 source
-newsapi           66890
+newsapi           66895
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-10-26 01:09
-- Location: Activistpost.com
-- Description: “When they came in the middle of the night, they terrorized the families that were living there. There were children who were without clothing, they were zip tied, taken outside at 3 o’clock in the morning. A senior resident, an American citizen with no warra…
+### HOMICIDE on 2025-10-26 01:57
+- Location: ABC News
+- Description: The Los Angeles District Attorney's Office says a grand jury indictment was unsealed charging a former Los Angeles police officer in the 2015 shooting death of an unarmed homeless man
 
 
-### ROBBERY/THEFT on 2025-10-26 00:36
-- Location: Freerepublic.com
-- Description: The crimes of illegals are not just numbers, they are grotesque in scope. If there's any doubt about the horror of Joe Biden's open border, and the righteousness of President Trump working to stop it, a look at the new innovations in crime and thuggery brough…
+### HOMICIDE on 2025-10-26 01:48
+- Location: CBC News
+- Description: Residents in Winnipeg's Elmwood-East Kildonan ward cast ballots Saturday in a byelection for a new councillor, following the death of Jason Schreyer in April.
 
 
-### OTHER on 2025-10-26 00:32
-- Location: Mypeoplesreview.com
-- Description: Kathmandu, October 26: Chairman of the Aam Janata Party (AJP) and former minister Prabhu Shah has demanded the immediate resignation […]
-The post Prabhu Shah demands immediate resignation of the Home Minister appeared first on Peoples' Review.
+### SHOOTING on 2025-10-26 01:46
+- Location: New York Post
+- Description: "By no means was the student singled out. The whole class did not get a snack time."
 
 
-### HOMICIDE on 2025-10-26 00:13
-- Location: New Zealand Herald
-- Description: Police say the victim died in hospital after suffering a critical gunshot wound.
+### ROBBERY/THEFT on 2025-10-26 01:17
+- Location: Breitbart News
+- Description: Shaquille O'Neal's custom-modified $200,000 Range Rover has disappeared into the black market transportation sector created by President Joe Biden's welcome for millions of illegal migrants.
+The post Shaquille O’Neal Loses Custom Auto Amid Spike in Cargo Thef…
 
 
-### OTHER on 2025-10-26 00:12
-- Location: Wnd.com
-- Description: 'Across Europe, there is much that can be learned from the Trump example'
+### HOMICIDE on 2025-10-26 01:16
+- Location: Yahoo Entertainment
+- Description: A grand jury indictment was unsealed Friday charging a former Los Angeles police officer in the May 2015 shooting death of an unarmed homeless man in Venice,...
 
-Analysis generated at: Mon Oct 27 01:12:16 UTC 2025
+Analysis generated at: Mon Oct 27 01:58:39 UTC 2025
