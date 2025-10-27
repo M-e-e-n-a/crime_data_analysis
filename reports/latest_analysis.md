@@ -1,10 +1,10 @@
 
-Loaded 66984 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-25 18:16:33
+Loaded 66991 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-26 01:09:00
 
 Incidents by source:
 source
-newsapi           66883
+newsapi           66890
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-10-25 18:16
-- Location: CBC News
-- Description: A man has been charged with second-degree murder after a fatal shooting in a residential neighbourhood of Burnaby, B.C., in February 2021.
+### OTHER on 2025-10-26 01:09
+- Location: Activistpost.com
+- Description: “When they came in the middle of the night, they terrorized the families that were living there. There were children who were without clothing, they were zip tied, taken outside at 3 o’clock in the morning. A senior resident, an American citizen with no warra…
 
 
-### SHOOTING on 2025-10-25 18:07
-- Location: PEOPLE
-- Description: The man allegedly said he would return to the school the following day and “air the place out,” a slang term for gun violence
+### ROBBERY/THEFT on 2025-10-26 00:36
+- Location: Freerepublic.com
+- Description: The crimes of illegals are not just numbers, they are grotesque in scope. If there's any doubt about the horror of Joe Biden's open border, and the righteousness of President Trump working to stop it, a look at the new innovations in crime and thuggery brough…
 
 
-### ROBBERY/THEFT on 2025-10-25 18:07
-- Location: NPR
-- Description: From brands and influencers to a viral "Inspector Clouseau," the world's most glamorous theft is also quickly becoming one of the year's most profitable memes.
+### OTHER on 2025-10-26 00:32
+- Location: Mypeoplesreview.com
+- Description: Kathmandu, October 26: Chairman of the Aam Janata Party (AJP) and former minister Prabhu Shah has demanded the immediate resignation […]
+The post Prabhu Shah demands immediate resignation of the Home Minister appeared first on Peoples' Review.
 
 
-### OTHER on 2025-10-25 18:00
-- Location: Thegatewaypundit.com
-- Description: White House Deputy Chief of Staff for Policy Stephen Miller laid out a clear warning to Illinois Governor JB Pritzker and other officials in sanctuary states, specifically that any attempt to block federal immigration enforcement could lead to serious crimina…
+### HOMICIDE on 2025-10-26 00:13
+- Location: New Zealand Herald
+- Description: Police say the victim died in hospital after suffering a critical gunshot wound.
 
 
-### HOMICIDE on 2025-10-25 18:00
-- Location: Fox News
-- Description: Dr. Mildred Muhammad, the ex-wife of D.C. sniper John Allen Muhammad, shares her harrowing story of domestic violence and terror in new true-crime documentary "Hunted by My Husband."
+### OTHER on 2025-10-26 00:12
+- Location: Wnd.com
+- Description: 'Across Europe, there is much that can be learned from the Trump example'
 
-Analysis generated at: Sun Oct 26 18:19:09 UTC 2025
+Analysis generated at: Mon Oct 27 01:12:16 UTC 2025
