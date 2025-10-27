@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Oct 27 06:24:33 UTC 2025
+Last updated: Mon Oct 27 12:30:23 UTC 2025
 
 ## Latest Analysis
 
-Loaded 67025 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-26 06:21:18
+Loaded 67081 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-26 12:22:57
 
 Incidents by source:
 source
-newsapi           66924
+newsapi           66980
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2025-10-26 06:21
+### ROBBERY/THEFT on 2025-10-26 12:22
+- Location: WSB Atlanta
+- Description: Paris prosecutors have announced the arrest of suspects in connection with the theft of crown jewels from the Louvre museum
+
+
+### HOMICIDE on 2025-10-26 12:13
 - Location: The Times of India
-- Description: A daring robbery at the Louvre has unexpectedly propelled France's Crown Jewels to global fame, mirroring the Mona Lisa's rise after its 1911 theft. The heist, while a deep wound to national heritage, has ignited intense media attention, potentially turning t…
+- Description: Andhra Pradesh police confirmed that two drunk bikers were responsible for a bus fire accident that killed 19 passengers. The incident occurred when the bus ran over a two-wheeler that had already crashed. Police Commissioner V.C. Sajjanar stated that drunk d…
 
 
-### HOMICIDE on 2025-10-26 06:00
-- Location: The Jerusalem Post
-- Description: A well-known Israeli model was arrested with three others after a man’s death in Petah Tikva was reclassified from suspected suicide to alleged murder...
+### DRUG RELATED on 2025-10-26 12:11
+- Location: Westernjournal.com
+- Description: During a recent interview, Director of National Intelligence Tulsi Gabbard detailed how the Trump administration is taking on the cartels.
 
 
-### HOMICIDE on 2025-10-26 06:00
-- Location: Naturalnews.com
-- Description: Under President Trump’s leadership, the FBI has arrested over 28,000 violent criminals, seized 6,000 illegal weapons, rescued 5,000 children and confiscated 1,900 kilos of fentanyl – enough to kill 125 million people. Operation Summer Heat alone resulted in 8…
+### HOMICIDE on 2025-10-26 12:10
+- Location: Freerepublic.com
+- Description: The Chester County District Attorney said the violence may have included multiple shooters. One person alleged to have a gun was in custody, the D.A. said. One person is dead and at least six others were wounded in a shooting amid homecoming festivities Satur…
 
 
-### SHOOTING on 2025-10-26 05:44
-- Location: The Times of India
-- Description: A shooting incident occurred at Lincoln University on Saturday night. Authorities confirmed at least seven individuals sustained injuries. Law enforcement is actively investigating the incident. The public has been advised to stay away from the affected area.…
+### OTHER on 2025-10-26 12:08
+- Location: Independent.ie
+- Description: An asylum seeker sex offender mistakenly released from prison has been arrested following a high-profile days-long manhunt in England.
 
-
-### OTHER on 2025-10-26 05:43
-- Location: The Times of India
-- Description: Chunky Panday pens an emotional tribute for veteran actor Satish Shah, remembering their entertaining moments together in films like Teesra Kaun. Satish Shah, known for his iconic roles in classics like \"Jaane Bhi Do Yaaro\" and \"Sarabhai vs Sarabhai,\" pas…
-
-Analysis generated at: Mon Oct 27 06:24:33 UTC 2025
+Analysis generated at: Mon Oct 27 12:30:23 UTC 2025
