@@ -1,10 +1,10 @@
 
-Loaded 67081 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-26 12:22:57
+Loaded 67083 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-26 12:36:10
 
 Incidents by source:
 source
-newsapi           66980
+newsapi           66982
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,6 +20,16 @@ bution.svg)
 
 ## Recent Incidents
 
+### OTHER on 2025-10-26 12:36
+- Location: Forbes
+- Description: The US's deployment of a $13 billion aircraft carrier to the Caribbean is sparking concerns that the US is on the brink of war, while not using the right approach to target organized crime.
+
+
+### ROBBERY/THEFT on 2025-10-26 12:32
+- Location: Slashdot.org
+- Description: Suspects arrested over jewel theft from Paris’s Louvre museumCNN Police Make Arrests in Louvre Robbery, Authorities SayThe New York Times First, came the Louvre heist. Then came the memesNPR Thieves steal crown jewels in 4 minutes from Louvre MuseumAP News My…
+
+
 ### ROBBERY/THEFT on 2025-10-26 12:22
 - Location: WSB Atlanta
 - Description: Paris prosecutors have announced the arrest of suspects in connection with the theft of crown jewels from the Louvre museum
@@ -34,14 +44,4 @@ bution.svg)
 - Location: Westernjournal.com
 - Description: During a recent interview, Director of National Intelligence Tulsi Gabbard detailed how the Trump administration is taking on the cartels.
 
-
-### HOMICIDE on 2025-10-26 12:10
-- Location: Freerepublic.com
-- Description: The Chester County District Attorney said the violence may have included multiple shooters. One person alleged to have a gun was in custody, the D.A. said. One person is dead and at least six others were wounded in a shooting amid homecoming festivities Satur…
-
-
-### OTHER on 2025-10-26 12:08
-- Location: Independent.ie
-- Description: An asylum seeker sex offender mistakenly released from prison has been arrested following a high-profile days-long manhunt in England.
-
-Analysis generated at: Mon Oct 27 12:30:23 UTC 2025
+Analysis generated at: Mon Oct 27 12:51:23 UTC 2025
