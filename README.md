@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Oct 28 12:49:43 UTC 2025
+Last updated: Tue Oct 28 18:22:11 UTC 2025
 
 ## Latest Analysis
 
-Loaded 67260 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-27 12:45:37
+Loaded 67350 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-27 18:21:50
 
 Incidents by source:
 source
-newsapi           67159
+newsapi           67249
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-10-27 12:45
-- Location: The Indian Express
-- Description: The Nanavati case remains one of India’s most sensational legal sagas. Decades later, it continues to captivate filmmakers, inspiring movies from Yeh Raaste Hain Pyaar Ke to Rustom and Gulzar's Achanak.
+### OTHER on 2025-10-27 18:21
+- Location: The Conversation Africa
+- Description: Through the years, the work of women journalists in the Middle East has gone far beyond reporting news and has become a vital force for truth and justice.
 
 
-### OTHER on 2025-10-27 12:34
-- Location: The Times of India
-- Description: In the complaint, the actor stated that the websites have hosted, published and are distributing AI-generated and morphed videos using his name, likeness, and image, falsely depicting him in obscene acts.
+### OTHER on 2025-10-27 18:21
+- Location: LancasterOnline
+- Description: A Lititz man charged with stealing nearly $22,000 from an American Legion post waived his preliminary hearing and will have his case heard in court.
 
 
-### OTHER on 2025-10-27 12:31
-- Location: CBC News
-- Description: Dozens of members of the public turned up to talk about bail reform Sunday at a town hall led by Manitoba MPs in the federal Conservative caucus.
+### OTHER on 2025-10-27 18:21
+- Location: LancasterOnline
+- Description: A Lititz man charged with stealing nearly $22,000 from an American Legion post waived his preliminary hearing and will have his case heard in court.
 
 
-### HOMICIDE on 2025-10-27 12:26
-- Location: 2822news.com
-- Description: COLLEY TWP., SULLIVAN COUNTY (WBRE/WYOU) — State police say a driver was killed after he left the roadway and struck multiple trees off State Route 87...
+### HOMICIDE on 2025-10-27 18:17
+- Location: BBC News
+- Description: The 40-year-old was cooking bacon and eggs before she was killed.
 
 
-### HOMICIDE on 2025-10-27 12:20
-- Location: The Atlantic
-- Description: Trump and the Republican Party are bringing capital punishment back to the forefront of American criminal justice.
+### HOMICIDE on 2025-10-27 18:15
+- Location: ABC News (AU)
+- Description: Tasmania Police confirms despite five knife-detecting wands being available, none were being used by officers in Hobart on the night of an alleged stabbing murder.
 
-Analysis generated at: Tue Oct 28 12:49:43 UTC 2025
+Analysis generated at: Tue Oct 28 18:22:11 UTC 2025
