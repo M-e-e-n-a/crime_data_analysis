@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Oct 27 18:22:22 UTC 2025
+Last updated: Tue Oct 28 01:05:07 UTC 2025
 
 ## Latest Analysis
 
-Loaded 67145 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-26 18:17:45
+Loaded 67153 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-27 01:00:00
 
 Incidents by source:
 source
-newsapi           67044
+newsapi           67052
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-10-26 18:17
-- Location: Statetimes.in
-- Description: NEW DELHI: Prime Minister Narendra Modi on Sunday extended greetings on the occasion of Chhath puja and said that festivals have become more vibrant this year due to success of Operation Sindoor and steps taken to eradicate the Maoist menace. In his 127th edi…
+### HOMICIDE on 2025-10-27 01:00
+- Location: PEOPLE
+- Description: Mark Van Winkle was serving a life sentence for a 1993 murder
 
 
-### HOMICIDE on 2025-10-26 18:16
-- Location: The Times of India
-- Description: Guwahati: Two disturbing incidents have rocked Guwahati, with police recovering the body of a woman alongside drug vials in Hatigaon, and a decomposed.
+### OTHER on 2025-10-27 00:50
+- Location: Newsbreak.com
+- Description: RFK Jr’s Fat Push Stuns Experts, Sparks Health Alarm Nationwide - NewsBreaknewsbreak.com
 
 
-### OTHER on 2025-10-26 18:16
-- Location: Breitbart News
-- Description: A prolific influencer and YouTube video creator known as “Mr. Crafty Pants” has been charged by Kentucky authorities with nearly 30 counts of possessing and trading disturbing sexual images of children on a messenger app traditionally popular with teens.
-The …
+### OTHER on 2025-10-27 00:47
+- Location: The Conversation Africa
+- Description: The obvious solution to the housing crisis, Melbourne crime and Lisztomania: an edited selection of your views.
 
 
-### ROBBERY/THEFT on 2025-10-26 18:15
-- Location: Radaronline.com
-- Description: Four men carried out a $100 million robbery at the Louvre Museum in Paris, stealing priceless French crown jewels.
+### OTHER on 2025-10-27 00:45
+- Location: Sky.com
+- Description: It promises to be a tough time for Mr Lammy at the despatch box with political opponents lining up to criticise the accidental release of Ethiopian national Hadush Kebatu from HMP Chelmsford.
 
 
-### OTHER on 2025-10-26 18:11
-- Location: Forbes
-- Description: On October 22, 2025, the UN Special Rapporteur on the situation of human rights in Afghanistan, Richard Bennett, published a statement condemning the latest public...
+### OTHER on 2025-10-27 00:31
+- Location: Newsbreak.com
+- Description: RFK Jr’s Fat Push Stuns Experts, Sparks Health Alarm Nationwide - NewsBreaknewsbreak.com
 
-Analysis generated at: Mon Oct 27 18:22:22 UTC 2025
+Analysis generated at: Tue Oct 28 01:05:07 UTC 2025
