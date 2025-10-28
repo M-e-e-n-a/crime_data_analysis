@@ -1,10 +1,10 @@
 
-Loaded 67153 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-27 01:00:00
+Loaded 67156 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-27 01:47:54
 
 Incidents by source:
 source
-newsapi           67052
+newsapi           67055
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,6 +20,21 @@ bution.svg)
 
 ## Recent Incidents
 
+### ROBBERY/THEFT on 2025-10-27 01:47
+- Location: RT
+- Description: French detectives are probing whether a Louvre security guard colluded with the thieves, according to the report by The Telegraph Read Full Article at RT.com
+
+
+### OTHER on 2025-10-27 01:45
+- Location: Vulture
+- Description: In an episode that finds the new women of RHOP trying to carve out their own space, Stacey gives a masterclass in how to manage confrontation and flip aggression against your opponent.
+
+
+### SHOOTING on 2025-10-27 01:25
+- Location: Fox News
+- Description: A Maryland high schooler was cuffed by police after AI falsely flagged his bag of chips as a firearm. In bodycam video, a police officer is heard saying: "AI's not the best."
+
+
 ### HOMICIDE on 2025-10-27 01:00
 - Location: PEOPLE
 - Description: Mark Van Winkle was serving a life sentence for a 1993 murder
@@ -29,19 +44,4 @@ bution.svg)
 - Location: Newsbreak.com
 - Description: RFK Jr’s Fat Push Stuns Experts, Sparks Health Alarm Nationwide - NewsBreaknewsbreak.com
 
-
-### OTHER on 2025-10-27 00:47
-- Location: The Conversation Africa
-- Description: The obvious solution to the housing crisis, Melbourne crime and Lisztomania: an edited selection of your views.
-
-
-### OTHER on 2025-10-27 00:45
-- Location: Sky.com
-- Description: It promises to be a tough time for Mr Lammy at the despatch box with political opponents lining up to criticise the accidental release of Ethiopian national Hadush Kebatu from HMP Chelmsford.
-
-
-### OTHER on 2025-10-27 00:31
-- Location: Newsbreak.com
-- Description: RFK Jr’s Fat Push Stuns Experts, Sparks Health Alarm Nationwide - NewsBreaknewsbreak.com
-
-Analysis generated at: Tue Oct 28 01:05:07 UTC 2025
+Analysis generated at: Tue Oct 28 01:48:23 UTC 2025
