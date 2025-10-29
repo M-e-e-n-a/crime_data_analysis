@@ -1,10 +1,10 @@
 
-Loaded 67460 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-28 12:30:00
+Loaded 67467 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-28 12:46:26
 
 Incidents by source:
 source
-newsapi           67359
+newsapi           67366
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-10-28 12:30
-- Location: Variety
-- Description: Principal photography is underway on Netflix Latin America’s first-ever Spanish adaptation of a Philip K. Dick novel, “The Future Is Ours” (“El futuro es nuestro”), based on his 1956 sci-fi novel “The World Jones Made.” Its showrunner, Spain’s Mateo Gil — who…
+### HOMICIDE on 2025-10-28 12:46
+- Location: Dineshkhabar.com
+- Description: Kathmandu: A 19-year-old youth, Anupam Bhandari, has been arrested in connection with the murder of Assistant Constable Amrit Gurung at the Koteshwor Police Division in Kathmandu during the Genji agitation on Bhadra 24. Police have filed a case against Bhanda…
 
 
-### OTHER on 2025-10-28 12:19
-- Location: Breitbart News
-- Description: In a bold nighttime sweep through Houston’s high-crime corridors, Breitbart Texas rode with a team of 40 federal officers and agents arrested approximately 25 illegal aliens—many with criminal records — during a four-hour ICE operation that unfolded under pou…
+### ROBBERY/THEFT on 2025-10-28 12:45
+- Location: The Times of India
+- Description: Tamil Nadu police received bomb threat emails targeting actors Rajinikanth and Dhanush. The threats were sent to the state Director General of Police. Both actors' teams declined assistance from the bomb squad. Cyber Crime police are investigating the origin …
 
 
-### OTHER on 2025-10-28 12:16
-- Location: BBC News
-- Description: The Romanian national had previously admitted stabbing the girl in Leicester Square last August.
+### OTHER on 2025-10-28 12:43
+- Location: Dineshkhabar.com
+- Description: Dhangadhi: The District Police Office Kailali has formed a new patrol team, dissolving the previous one. The newly established team will operate in plain clothes.
+
+According to sources, Senior Inspector Lokendra Chand Thakuri has been appointed as the in-cha…
 
 
-### HOMICIDE on 2025-10-28 12:14
-- Location: Fox News
-- Description: Dramatic video shows a suspect in a fatal deputy shooting crashing his motorcycle in a high-speed chase in San Bernardino County, California.
+### OTHER on 2025-10-28 12:42
+- Location: Forbes
+- Description: Parish is moving up the Netflix top 10 list as a new crime show, but it just isn't worth it. Here's a better Netflix show to watch instead.
 
 
-### OTHER on 2025-10-28 12:14
-- Location: ABC News
-- Description: Experts said the storm unleased rains comparable to what the region saw from a hurricane in 2022.
+### HOMICIDE on 2025-10-28 12:40
+- Location: The Denver Post
+- Description: A man was shot and killed Monday night by Denver police officers while attempting to rob a gas station, injuring two people inside and a responding officer, according to the agency.
 
-Analysis generated at: Wed Oct 29 12:30:41 UTC 2025
+Analysis generated at: Wed Oct 29 12:51:42 UTC 2025
