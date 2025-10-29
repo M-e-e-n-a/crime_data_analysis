@@ -1,10 +1,10 @@
 
-Loaded 67363 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-28 01:54:46
+Loaded 67388 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-28 06:10:32
 
 Incidents by source:
 source
-newsapi           67262
+newsapi           67287
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,48 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-10-28 01:54
-- Location: The Cincinnati Enquirer
-- Description: Cincinnati is paying an outside law firm $40,000 to investigate Police Chief Teresa Theetge's performance, according to a copy of the contract.
+### HOMICIDE on 2025-10-28 06:10
+- Location: BBC News
+- Description: Actors Ashley Jensen and Alison Donnnell return to our screens next week for the 10th series of the BBC One drama Shetland.
 
 
-### HOMICIDE on 2025-10-28 01:51
-- Location: ABC News (AU)
-- Description: Police say they are "very keen" to find a car believed to be the "missing piece of the jigsaw puzzle" as they investigate the death of father-of-two Chris Robertson.
+### SHOOTING on 2025-10-28 06:00
+- Location: Human Rights Watch
+- Description: Click to expand Image
+ 
 
 
-### SHOOTING on 2025-10-28 01:47
-- Location: The Daily Caller
-- Description: An 18-year-old student in Indiana admitted to scheming a Valentine’s Day massacre after federal agents traced violent online threats back to her.
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Screenshot of a video showing police firing tear gas at protesters in Maroua, Far North region, Cameroon on October 22, 2025 @private
+ © 
+ 
+ 
 
 
-### HOMICIDE on 2025-10-28 01:46
-- Location: ABC News (AU)
-- Description: A US judge has agreed Tyler Robinson's case has drawn "extraordinary" public and media attention.
+ 
+Cameroon’s post-election period has been marred with violence, with at…
 
 
-### HOMICIDE on 2025-10-28 00:45
-- Location: CBC News
-- Description: The family of a woman killed in Kelowna, B.C., say they are "extremely disappointed" in the B.C. NDP government for not supporting a federal private member's bill that aims to toughen charges and detention policies for those accused of intimate partner violen…
+### OTHER on 2025-10-28 06:00
+- Location: The-independent.com
+- Description: HBO’s new Stephen King adaptation is completely watchable television, writes Louis Chilton – but part of a dispiriting trend that’s sweeping the industry
 
-Analysis generated at: Wed Oct 29 01:55:19 UTC 2025
+
+### OTHER on 2025-10-28 05:54
+- Location: CounterPunch
+- Description: The wish to be credulous is central to the fraudulent scheme.  The one playing the fraud can always rely on some connivance and collaboration from the tricked and the gulled.  Many an art curator is bound to turn scarlet at the prospect that their expertise w…
+
+
+### OTHER on 2025-10-28 05:30
+- Location: Nakedcapitalism.com
+- Description: Why no one should fall for the ceasefire sleight of hand in Gaza.
+
+Analysis generated at: Wed Oct 29 06:23:22 UTC 2025
