@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Oct 29 06:23:22 UTC 2025
+Last updated: Wed Oct 29 12:30:41 UTC 2025
 
 ## Latest Analysis
 
-Loaded 67388 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-28 06:10:32
+Loaded 67460 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-28 12:30:00
 
 Incidents by source:
 source
-newsapi           67287
+newsapi           67359
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,48 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-10-28 06:10
+### OTHER on 2025-10-28 12:30
+- Location: Variety
+- Description: Principal photography is underway on Netflix Latin America’s first-ever Spanish adaptation of a Philip K. Dick novel, “The Future Is Ours” (“El futuro es nuestro”), based on his 1956 sci-fi novel “The World Jones Made.” Its showrunner, Spain’s Mateo Gil — who…
+
+
+### OTHER on 2025-10-28 12:19
+- Location: Breitbart News
+- Description: In a bold nighttime sweep through Houston’s high-crime corridors, Breitbart Texas rode with a team of 40 federal officers and agents arrested approximately 25 illegal aliens—many with criminal records — during a four-hour ICE operation that unfolded under pou…
+
+
+### OTHER on 2025-10-28 12:16
 - Location: BBC News
-- Description: Actors Ashley Jensen and Alison Donnnell return to our screens next week for the 10th series of the BBC One drama Shetland.
+- Description: The Romanian national had previously admitted stabbing the girl in Leicester Square last August.
 
 
-### SHOOTING on 2025-10-28 06:00
-- Location: Human Rights Watch
-- Description: Click to expand Image
- 
+### HOMICIDE on 2025-10-28 12:14
+- Location: Fox News
+- Description: Dramatic video shows a suspect in a fatal deputy shooting crashing his motorcycle in a high-speed chase in San Bernardino County, California.
 
 
+### OTHER on 2025-10-28 12:14
+- Location: ABC News
+- Description: Experts said the storm unleased rains comparable to what the region saw from a hurricane in 2022.
 
- 
- 
- 
-
- 
- 
- 
- 
- Screenshot of a video showing police firing tear gas at protesters in Maroua, Far North region, Cameroon on October 22, 2025 @private
- © 
- 
- 
-
-
- 
-Cameroon’s post-election period has been marred with violence, with at…
-
-
-### OTHER on 2025-10-28 06:00
-- Location: The-independent.com
-- Description: HBO’s new Stephen King adaptation is completely watchable television, writes Louis Chilton – but part of a dispiriting trend that’s sweeping the industry
-
-
-### OTHER on 2025-10-28 05:54
-- Location: CounterPunch
-- Description: The wish to be credulous is central to the fraudulent scheme.  The one playing the fraud can always rely on some connivance and collaboration from the tricked and the gulled.  Many an art curator is bound to turn scarlet at the prospect that their expertise w…
-
-
-### OTHER on 2025-10-28 05:30
-- Location: Nakedcapitalism.com
-- Description: Why no one should fall for the ceasefire sleight of hand in Gaza.
-
-Analysis generated at: Wed Oct 29 06:23:22 UTC 2025
+Analysis generated at: Wed Oct 29 12:30:41 UTC 2025
