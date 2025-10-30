@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Oct 30 12:50:04 UTC 2025
+Last updated: Thu Oct 30 18:21:24 UTC 2025
 
 ## Latest Analysis
 
-Loaded 67678 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-29 12:46:41
+Loaded 67764 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-29 18:12:00
 
 Incidents by source:
 source
-newsapi           67577
+newsapi           67663
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,35 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-10-29 12:46
-- Location: Thoughtcatalog.com
-- Description: Only Murders in the Building was firing on all cylinders this year, which is no small feat for a show entering middle age. Season 5’s central mystery delivered the goods as per usual, but the seaso…
+### ROBBERY/THEFT on 2025-10-29 18:12
+- Location: DW (English)
+- Description: Two men detained Saturday have admitted involvement in a recent jewel heist, Paris prosecutors have said. The pair faces charges of theft committed by an organized gang and criminal conspiracy.
 
 
-### HOMICIDE on 2025-10-29 12:35
-- Location: BBC News
-- Description: Greener Ealing Ltd pays tribute to Wayne Broadhurst, 49, who was one of its employees.
+### ROBBERY/THEFT on 2025-10-29 18:02
+- Location: New York Post
+- Description: A sicko sexually assaulted an elderly woman on her own couch after breaking into her Long Island home during an "unspeakable" cat burglary, police said Wednesday.
 
 
-### DRUG RELATED on 2025-10-29 12:32
-- Location: Mondediplo.com
-- Description: Feuding drug cartels make great TV – and handy political enemies. In France, as elsewhere, though it's largely a myth, the ‘narco threat' has become a justification for expanding the security machine.
-
--
-2025/11
-
-/ 
-article, 
-2025/11 drugs
+### HOMICIDE on 2025-10-29 18:02
+- Location: The Denver Post
+- Description: The scooter rider was headed west on West 88th Avenue when he was hit by an eastbound Dodge Caravan turning north onto Lipan Street, according to the Thornton Police Department.
 
 
-### OTHER on 2025-10-29 12:24
-- Location: The Times of India
-- Description: A detailed Enforcement Directorate report reveals Chinese nationals are behind most loan app and crypto scams in India, with Rs 28,000 crore in crime proceeds identified. These sophisticated syndicates, operating from abroad with Indian associates, have explo…
+### ASSAULT on 2025-10-29 18:01
+- Location: Fox News
+- Description: An Alabama man was arrested for allegedly plotting synagogue attacks across multiple states. The FBI and local authorities prevented potential violence, seizing weapons and ammunition.
 
 
-### HOMICIDE on 2025-10-29 12:16
-- Location: Boston Herald
-- Description: A jury is set for a second day of deliberations in the murder trial of a sheriff’s deputy in the shooting death of Sonya Massey.
+### OTHER on 2025-10-29 18:00
+- Location: Nakedcapitalism.com
+- Description: ICE Barbie Kristi Noem, Secretary of the Department of Homeland Security, is on the front lines of Trump 2.0 era conflict and corruption alongside Palantir co-founder Joe Lonsdale.
 
-Analysis generated at: Thu Oct 30 12:50:04 UTC 2025
+Analysis generated at: Thu Oct 30 18:21:24 UTC 2025
