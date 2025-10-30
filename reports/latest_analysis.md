@@ -1,10 +1,10 @@
 
-Loaded 67608 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-29 06:16:36
+Loaded 67675 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-29 12:24:48
 
 Incidents by source:
 source
-newsapi           67507
+newsapi           67574
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-10-29 06:16
-- Location: ABC News
-- Description: Dijana Hrka’s world fell apart on Nov. 1 last year, when tons of concrete crushed her son to death at a train station in Serbia
+### OTHER on 2025-10-29 12:24
+- Location: The Times of India
+- Description: A detailed Enforcement Directorate report reveals Chinese nationals are behind most loan app and crypto scams in India, with Rs 28,000 crore in crime proceeds identified. These sophisticated syndicates, operating from abroad with Indian associates, have explo…
 
 
-### OTHER on 2025-10-29 06:12
-- Location: ABC News (AU)
-- Description: The man is warned that he came close to being remanded in custody, with the magistrate saying he is on a "knife-edge".
+### HOMICIDE on 2025-10-29 12:16
+- Location: Boston Herald
+- Description: A jury is set for a second day of deliberations in the murder trial of a sheriff’s deputy in the shooting death of Sonya Massey.
 
 
-### OTHER on 2025-10-29 06:05
-- Location: Starcommunity.com.au
-- Description: A new campaign delivers a blunt warning to viewers of child abuse material (CAM) – you stand to lose everything. The ‘What Are You Watching’ campaign from Crime Stoppers Victoria, in partnership with Victoria Police, confronts offenders with the reality that …
+### ROBBERY/THEFT on 2025-10-29 12:15
+- Location: The Times of India
+- Description: Delhi police have uncovered a sophisticated car theft ring that combines physical theft with digital deception. The gang clones stolen vehicles by forging documents and identities, then sells them through online platforms and dealerships. This modus operandi,…
 
 
-### HOMICIDE on 2025-10-29 05:34
-- Location: NPR
-- Description: Brazilian police and soldiers launched a raid on a drug-trafficking gang in Rio de Janeiro on Tuesday, sparking shootouts that left at least 60 suspects and four police officers dead, officials said.
+### OTHER on 2025-10-29 12:15
+- Location: The Verge
+- Description: On Monday, a new online “encyclopedia” sputtered to life. Grokipedia is the brainchild of Elon Musk and his startup xAI, and the billionaire is promoting it as a supposedly less woke and less biased version of Wikipedia. Musk’s goal? “The truth, the whole tru…
 
 
-### HOMICIDE on 2025-10-29 05:31
-- Location: CBC News
-- Description: A maroon city of Ottawa plaque honouring the life, and tragic death, of Brkti Berhe is the latest addition to Paul Landry park in south Ottawa. The plaque, which adorns a large boulder, was unveiled before Berhe’s family and friends during a memorial event at…
+### HOMICIDE on 2025-10-29 12:14
+- Location: Yahoo Entertainment
+- Description: After waiting more than four decades to clear his name in a friend’s 1980 killing, Subramanyam Vedam was set to walk free from a Pennsylvania prison this...
 
-Analysis generated at: Thu Oct 30 06:22:00 UTC 2025
+Analysis generated at: Thu Oct 30 12:29:59 UTC 2025
