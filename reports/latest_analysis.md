@@ -1,10 +1,10 @@
 
-Loaded 67562 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-28 18:20:02
+Loaded 67569 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-29 00:57:35
 
 Incidents by source:
 source
-newsapi           67461
+newsapi           67468
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-10-28 18:20
-- Location: The Daily Caller
-- Description: The fringe ideas driving political violence have been actively embraced, repeated, and amplified through the largest megaphones in the nation.
+### OTHER on 2025-10-29 00:57
+- Location: Freerepublic.com
+- Description: The alleged connection between the Mafia and two former NBA players -- Hall of Famer Chauncey Billups and longtime veteran Damon Jones -- began the way such things often do: through a little-known intermediary. That's one of the ways organized crime finds its…
 
 
-### HOMICIDE on 2025-10-28 18:19
-- Location: Rolling Out
-- Description: A Ohio judge handed down the maximum sentence on Monday to a woman who brutally killed a toddler in an unprovoked attack that left a community devastated and a family forever changed. Bionca Ellis, 34, received life in prison without the possibility of parole…
+### SHOOTING on 2025-10-29 00:31
+- Location: New York Post
+- Description: Luis Castillo, 19, was arrested in connection with the fatal shooting of Ronell Marte, 26, an autistic man, during a botched robbery at Starlight Park that occurred last month.
 
 
-### HOMICIDE on 2025-10-28 18:19
-- Location: Yahoo Entertainment
-- Description: A North Carolina man who told authorities he had killed four of his children and that the bodies were in the trunk of a vehicle at his home has been charged ...
+### HOMICIDE on 2025-10-29 00:29
+- Location: New York Post
+- Description: "Do you all not have anything better to do?" asked the daughter of Shawn “Mickey” Stines, accused of murdering a judge.
 
 
-### OTHER on 2025-10-28 18:13
-- Location: CBC News
-- Description: The head of Legal Aid Manitoba is urging caution as the federal government proposes changes that will make it harder for some people to get bail.
+### HOMICIDE on 2025-10-29 00:08
+- Location: ABC News
+- Description: A former Massachusetts police officer, who earlier pleaded not guilty to killing a woman he is accused of sexually exploiting when she was underage, faces an additional charge of causing the death of her unborn son
 
 
-### ASSAULT on 2025-10-28 18:13
-- Location: Us Weekly
-- Description: Retired NHL player Ryan Kesler is speaking out after he was accused of sexual assault in Michigan. “Ryan emphatically denies the allegations and is completely innocent of the charges. The allegations are false, and he is prepared to fight them vigorously in c…
+### HOMICIDE on 2025-10-29 00:06
+- Location: ABC News
+- Description: A former New York state trooper is on trial for murder after a high-speed chase that left an 11-year-old girl dead in 2020
 
-Analysis generated at: Wed Oct 29 18:22:14 UTC 2025
+Analysis generated at: Thu Oct 30 01:09:34 UTC 2025
