@@ -1,10 +1,10 @@
 
-Loaded 67578 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-29 01:44:39
+Loaded 67608 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-29 06:16:36
 
 Incidents by source:
 source
-newsapi           67477
+newsapi           67507
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-10-29 01:44
-- Location: New York Post
-- Description: "All he ever wanted to be was the best father ever and the best husband," his heartbroken wife Krisan said.
+### HOMICIDE on 2025-10-29 06:16
+- Location: ABC News
+- Description: Dijana Hrka’s world fell apart on Nov. 1 last year, when tons of concrete crushed her son to death at a train station in Serbia
 
 
-### OTHER on 2025-10-29 01:43
-- Location: HuffPost
-- Description: The move adds to Trump's efforts to preserve monuments that honor Confederate leaders.
-
-
-### HOMICIDE on 2025-10-29 01:42
-- Location: Freerepublic.com
-- Description: A suspected homicide near a Charlotte light-rail station rekindled crime fears that have plagued officials since the August gruesome caught-on-video murder of Ukrainian refugee Iryna Zarutska. The Charlotte-Mecklenburg Police Department said Zephaniah Adewale…
-
-
-### HOMICIDE on 2025-10-29 01:40
+### OTHER on 2025-10-29 06:12
 - Location: ABC News (AU)
-- Description: Lawyers for the man charged with carrying out Melbourne's Easey Street murders have failed in a bid to prevent the media reporting about "explosive" DNA evidence.
+- Description: The man is warned that he came close to being remanded in custody, with the magistrate saying he is on a "knife-edge".
 
 
-### HOMICIDE on 2025-10-29 01:40
-- Location: ABC News (AU)
-- Description: Prosecutors in Melbourne's Easey Street murder case tell a court that DNA found at the crime scene is highly likely to have come from prime suspect Perry Kouroumblis.
+### OTHER on 2025-10-29 06:05
+- Location: Starcommunity.com.au
+- Description: A new campaign delivers a blunt warning to viewers of child abuse material (CAM) – you stand to lose everything. The ‘What Are You Watching’ campaign from Crime Stoppers Victoria, in partnership with Victoria Police, confronts offenders with the reality that …
 
-Analysis generated at: Thu Oct 30 01:54:52 UTC 2025
+
+### HOMICIDE on 2025-10-29 05:34
+- Location: NPR
+- Description: Brazilian police and soldiers launched a raid on a drug-trafficking gang in Rio de Janeiro on Tuesday, sparking shootouts that left at least 60 suspects and four police officers dead, officials said.
+
+
+### HOMICIDE on 2025-10-29 05:31
+- Location: CBC News
+- Description: A maroon city of Ottawa plaque honouring the life, and tragic death, of Brkti Berhe is the latest addition to Paul Landry park in south Ottawa. The plaque, which adorns a large boulder, was unveiled before Berhe’s family and friends during a memorial event at…
+
+Analysis generated at: Thu Oct 30 06:22:00 UTC 2025
