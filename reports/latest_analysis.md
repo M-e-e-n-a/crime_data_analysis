@@ -1,10 +1,10 @@
 
-Loaded 67814 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-30 06:13:10
+Loaded 67904 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-30 12:29:01
 
 Incidents by source:
 source
-newsapi           67713
+newsapi           67803
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-10-30 06:13
-- Location: Rolling Out
-- Description: The courtroom fell silent at 2:28 p.m. as the verdict was announced. Sean Grayson, a former Sangamon County sheriff’s deputy, stood convicted of second-degree murder in the fatal shooting of Sonya Massey, a 36-year-old unarmed Black woman who had called polic…
+### HOMICIDE on 2025-10-30 12:29
+- Location: Rediff.com
+- Description: 'There have been multiple cases of people being shot for pulling into someone's driveway because they made a wrong turn or ringing the wrong bell because they made a mistake.'
+'That is also the pathway to fascism.'
+'The way you divide people is to make them f…
 
 
-### OTHER on 2025-10-30 06:04
-- Location: Starcommunity.com.au
-- Description: In the wake of a series of "truly horrible" recent agg burgs, Victoria Police has anounced it's monitoring a list of 45 young chronic burglars and “influencers” said to be driving significant crime across Melbourne, The 45 have connections with almost 2,000 k…
+### OTHER on 2025-10-30 12:28
+- Location: Mediafax.ro
+- Description: The three people detained in connection with the October 17 explosion in a Bucharest apartment building failed to properly fulfill their legal or professional duties regarding the identification of the type of defect in the gas supply system, prosecutors said…
 
 
-### ROBBERY/THEFT on 2025-10-30 06:03
-- Location: Drive.com.au
-- Description: It’s a nightmare scenario for all Aussies. If you’ve been a car-theft victim, is it...
+### OTHER on 2025-10-30 12:27
+- Location: DW (English)
+- Description: Police took a late-night emergency call from a young man who didn't know where he was and said he was injured. He'd fallen from a pub into a neighboring butcher's yard, where he found ample snacks as he awaited rescue.
 
 
-### OTHER on 2025-10-30 06:00
-- Location: Dramabeans.com
-- Description: Our incognito heroine finally comes out of hiding! But rather than shining like she’s born to be, she gets caught up in a scheme and things take a downward turn. But there’s a shocking light at the end of the tunnel, and it seems all hope isn’t lost after all…
+### ROBBERY/THEFT on 2025-10-30 12:18
+- Location: Fox News
+- Description: Five more arrests made in Louvre heist investigation as French crown jewels worth $102 million remain missing after daring daytime theft from Paris museum.
 
 
-### ROBBERY/THEFT on 2025-10-30 06:00
-- Location: Naturalnews.com
-- Description: French authorities have arrested five more suspects in the high-profile theft of priceless Napoleonic-era jewels from the Louvre Museum. This brings the total number of people detained to seven and is considered a major breakthrough. The robbery was carried o…
+### OTHER on 2025-10-30 12:17
+- Location: DW (English)
+- Description: A dual national man has been jailed for six years for spying for Moscow and planning sabotage in Germany. Meanwhile, Germany's economy remains stagnant, piling pressure on Chancellor Merz’s government. DW has more. A 41-year-old German-Russian man has been se…
 
-Analysis generated at: Fri Oct 31 06:22:22 UTC 2025
+Analysis generated at: Fri Oct 31 12:29:56 UTC 2025
