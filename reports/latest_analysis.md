@@ -1,10 +1,10 @@
 
-Loaded 67907 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-30 12:49:07
+Loaded 67999 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-30 18:17:32
 
 Incidents by source:
 source
-newsapi           67806
+newsapi           67898
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,30 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-10-30 12:49
-- Location: Rlsbb.to
-- Description: Season 30, Episode 36 – "Against The Odds"Twenty years ago, teenager Lauren Huxley was brutally bashed and left for dead in her suburban home. She was given little chance of survival but miraculously recovered and today leads a relatively normal life. As her …
+### OTHER on 2025-10-30 18:17
+- Location: Wonkette.com
+- Description: There goes newshero Phil Williams, breaking innocent people out of jail!
 
 
-### HOMICIDE on 2025-10-30 12:45
-- Location: RT
-- Description: Slovenia has unveiled new security and welfare measures after a Roma man killed a local resident, sparking mass protests Read Full Article at RT.com
+### OTHER on 2025-10-30 18:15
+- Location: Aclu.org
+- Description: The Fourth Amendment protects us from being stopped, searched, or detained by police without good reason. But over the years, courts have dramatically weakened those protections when it comes to cars and traffic enforcement.
+Courts have ruled that a traffic s…
 
 
-### HOMICIDE on 2025-10-30 12:44
-- Location: Al Jazeera English
-- Description: Residents of favelas gather bodies after police operation turns to 'slaughter' in predawn assault.
+### ROBBERY/THEFT on 2025-10-30 18:10
+- Location: BBC News
+- Description: Liam Middleton-Gomm broke into Hirst's studios and stole about £5,000 worth of goods.
 
 
-### HOMICIDE on 2025-10-30 12:29
-- Location: Rediff.com
-- Description: 'There have been multiple cases of people being shot for pulling into someone's driveway because they made a wrong turn or ringing the wrong bell because they made a mistake.'
-'That is also the pathway to fascism.'
-'The way you divide people is to make them f…
+### OTHER on 2025-10-30 18:08
+- Location: ABC News
+- Description: ABC News senior Pentagon reporter Luis Martinez on President Donald Trump ordering the Pentagon to resume nuclear testing on an "equal basis" to other countries' testing programs.
 
 
-### OTHER on 2025-10-30 12:28
-- Location: Mediafax.ro
-- Description: The three people detained in connection with the October 17 explosion in a Bucharest apartment building failed to properly fulfill their legal or professional duties regarding the identification of the type of defect in the gas supply system, prosecutors said…
+### OTHER on 2025-10-30 18:04
+- Location: Mental Floss
+- Description: The 1990s noir anthology show put Tom Cruise in the director's chair and made Tom Hanks the bad guy.
 
-Analysis generated at: Fri Oct 31 12:49:39 UTC 2025
+Analysis generated at: Fri Oct 31 18:21:34 UTC 2025
