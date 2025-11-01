@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Nov  1 06:19:56 UTC 2025
+Last updated: Sat Nov  1 12:25:44 UTC 2025
 
 ## Latest Analysis
 
-Loaded 68056 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-31 06:00:14
+Loaded 68108 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-31 12:23:03
 
 Incidents by source:
 source
-newsapi           67955
+newsapi           68007
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-10-31 06:00
-- Location: Bitcoinist
-- Description: A Chinese national was arrested in Bangkok on Thursday, after police moved on a search warrant tied to an alleged crypto Ponzi scheme that took in more than 100 million yuan — roughly $14 million. Related Reading: IBM Unveils Digital Asset Haven For Banks And…
+### ROBBERY/THEFT on 2025-10-31 12:23
+- Location: WSB Atlanta
+- Description: More than 1,000 artifacts were stolen from a California museum earlier this month, but museum officials are just releasing the information about the heist in an effort to get the pieces of the Golden State’s history back.
 
 
-### OTHER on 2025-10-31 06:00
-- Location: Naturalnews.com
-- Description: President Trump’s federal crime initiative in Memphis resulted in over 1,700 arrests and a 46 percent drop in serious crime in one month. The operation, involving the National Guard and over a dozen federal agencies, led to the seizure of 293 firearms and the…
+### HOMICIDE on 2025-10-31 12:20
+- Location: The Denver Post
+- Description: Two motorists were killed in an early Friday morning crash on I-25 near 6th Avenue.
 
 
-### HOMICIDE on 2025-10-31 05:41
-- Location: The Star Online
-- Description: PETALING JAYA: There was a tense, emotional moment at the Sessions Court here when Zaim Ikhwan Zahari, the father of murdered autistic child Zayn Rayyan Abdul Matin, shouted at the investigating officer in the son's case. Read full story
+### ROBBERY/THEFT on 2025-10-31 12:05
+- Location: Mediatakeout.com
+- Description: A Texas woman who gained widespread attention for claiming she was attacked with a brick has now been convicted of theft. In 2023, Roda Osman went viral after saying a man struck her in the head with a brick because she wouldn’t give him her phone number. The…
 
 
-### OTHER on 2025-10-31 05:30
-- Location: Independent.ie
-- Description: French police have arrested five new people, including a “prime suspect”, over this month’s spectacular jewellery heist from the Louvre museum.
+### ROBBERY/THEFT on 2025-10-31 12:00
+- Location: LancasterOnline
+- Description: A masked burglary suspect who a Lancaster city police detective recognized on surveillance video by his tattoo and voice will have his case decided in Lancaster County court.
 
 
-### OTHER on 2025-10-31 05:30
-- Location: Independent.ie
-- Description: Planning a night on the couch? Here are today’s top TV and streaming picks:
+### ROBBERY/THEFT on 2025-10-31 11:54
+- Location: WSOC Charlotte
+- Description: More than 1,000 artifacts were stolen from a California museum earlier this month, but museum officials are just releasing the information about the heist in an effort to get the pieces of the Golden State’s history back.
 
-Analysis generated at: Sat Nov  1 06:19:56 UTC 2025
+Analysis generated at: Sat Nov  1 12:25:44 UTC 2025
