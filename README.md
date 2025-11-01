@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Nov  1 12:42:53 UTC 2025
+Last updated: Sat Nov  1 18:18:35 UTC 2025
 
 ## Latest Analysis
 
-Loaded 68111 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-31 12:36:16
+Loaded 68191 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-31 18:18:19
 
 Incidents by source:
 source
-newsapi           68010
+newsapi           68090
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-10-31 12:36
-- Location: WMUR Manchester
-- Description: The Justice Department is investigating Black Lives Matter over donor fraud allegations tied to $90M in donations
+### HOMICIDE on 2025-10-31 18:18
+- Location: The Daily Caller
+- Description: An alleged 19-year-old Brazilian gang member’s head was cut off and hung following a deadly gang crackdown, according to his mother.
 
 
-### OTHER on 2025-10-31 12:35
-- Location: Ndtvprofit.com
-- Description: A London woman’s emotional outburst during a call-in programme on live television has gone viral after she broke down describing how unsafe she feels in her own city. Her words came just days after a triple stabbing in Uxbridge, west London, that left one man…
+### OTHER on 2025-10-31 18:17
+- Location: BBC News
+- Description: David Abraham boarded the 149 bus in Hackney when he dropped his bank card inside the driver's cab.
 
 
-### ROBBERY/THEFT on 2025-10-31 12:30
-- Location: Freethoughtblogs.com
-- Description: The Probability Broach, chapter 10 Win Bear and his friends have captured a hitman. By threatening the prisoner with summary execution, Win got the thug to confess who sent him. His tactic was a success, but his friends are angry at him, especially Clarissa O…
+### OTHER on 2025-10-31 18:08
+- Location: BroBible
+- Description: Over the past year or so, a number of notable professional athletes have been targeted by thieves who broke into their homes while they were playing. Now, another name has been added to that list in the form of Thunder star Shai Gilgeous-Alexander. There are …
 
 
-### ROBBERY/THEFT on 2025-10-31 12:23
-- Location: WSB Atlanta
-- Description: More than 1,000 artifacts were stolen from a California museum earlier this month, but museum officials are just releasing the information about the heist in an effort to get the pieces of the Golden State’s history back.
+### ROBBERY/THEFT on 2025-10-31 18:07
+- Location: Freerepublic.com
+- Description: The Justice Department is probing whether Black Lives Matter (BLM) defrauded donors who sent the organization millions of dollars during the racial justice protests in 2020, the Associated Press is reporting. Federal law enforcement authorities have issued su…
 
 
-### HOMICIDE on 2025-10-31 12:20
-- Location: The Denver Post
-- Description: Two motorists were killed in an early Friday morning crash on I-25 near 6th Avenue.
+### OTHER on 2025-10-31 18:05
+- Location: The Indian Express
+- Description: Kejriwal once again alleged the Congress and BJP are hand-in-glove in Gujarat, asking why only AAP leaders were sent to jail and Congress leaders were spared
 
-Analysis generated at: Sat Nov  1 12:42:53 UTC 2025
+Analysis generated at: Sat Nov  1 18:18:35 UTC 2025
