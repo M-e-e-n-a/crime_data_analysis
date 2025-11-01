@@ -1,10 +1,10 @@
 
-Loaded 68108 incidents
-Date range: 2024-01-01 00:00:00 to 2025-10-31 12:23:03
+Loaded 68111 incidents
+Date range: 2024-01-01 00:00:00 to 2025-10-31 12:36:16
 
 Incidents by source:
 source
-newsapi           68007
+newsapi           68010
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,6 +20,21 @@ bution.svg)
 
 ## Recent Incidents
 
+### OTHER on 2025-10-31 12:36
+- Location: WMUR Manchester
+- Description: The Justice Department is investigating Black Lives Matter over donor fraud allegations tied to $90M in donations
+
+
+### OTHER on 2025-10-31 12:35
+- Location: Ndtvprofit.com
+- Description: A London woman’s emotional outburst during a call-in programme on live television has gone viral after she broke down describing how unsafe she feels in her own city. Her words came just days after a triple stabbing in Uxbridge, west London, that left one man…
+
+
+### ROBBERY/THEFT on 2025-10-31 12:30
+- Location: Freethoughtblogs.com
+- Description: The Probability Broach, chapter 10 Win Bear and his friends have captured a hitman. By threatening the prisoner with summary execution, Win got the thug to confess who sent him. His tactic was a success, but his friends are angry at him, especially Clarissa O…
+
+
 ### ROBBERY/THEFT on 2025-10-31 12:23
 - Location: WSB Atlanta
 - Description: More than 1,000 artifacts were stolen from a California museum earlier this month, but museum officials are just releasing the information about the heist in an effort to get the pieces of the Golden State’s history back.
@@ -29,19 +44,4 @@ bution.svg)
 - Location: The Denver Post
 - Description: Two motorists were killed in an early Friday morning crash on I-25 near 6th Avenue.
 
-
-### ROBBERY/THEFT on 2025-10-31 12:05
-- Location: Mediatakeout.com
-- Description: A Texas woman who gained widespread attention for claiming she was attacked with a brick has now been convicted of theft. In 2023, Roda Osman went viral after saying a man struck her in the head with a brick because she wouldn’t give him her phone number. The…
-
-
-### ROBBERY/THEFT on 2025-10-31 12:00
-- Location: LancasterOnline
-- Description: A masked burglary suspect who a Lancaster city police detective recognized on surveillance video by his tattoo and voice will have his case decided in Lancaster County court.
-
-
-### ROBBERY/THEFT on 2025-10-31 11:54
-- Location: WSOC Charlotte
-- Description: More than 1,000 artifacts were stolen from a California museum earlier this month, but museum officials are just releasing the information about the heist in an effort to get the pieces of the Golden State’s history back.
-
-Analysis generated at: Sat Nov  1 12:25:44 UTC 2025
+Analysis generated at: Sat Nov  1 12:42:53 UTC 2025
