@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Nov  2 01:12:10 UTC 2025
+Last updated: Sun Nov  2 01:57:15 UTC 2025
 
 ## Latest Analysis
 
-Loaded 68198 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-01 00:38:52
+Loaded 68199 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-01 01:20:33
 
 Incidents by source:
 source
-newsapi           68097
+newsapi           68098
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -23,6 +23,11 @@ bution.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### HOMICIDE on 2025-11-01 01:20
+- Location: The Times of India
+- Description: The FBI confirmed that a deadly church shooting and arson in Michigan was motivated by the gunman's anti-religious beliefs against the Church of Jesus Christ of Latter-day Saints. Thomas Jacob Sanford, 40, drove his truck into the chapel, set it ablaze, and k…
+
 
 ### OTHER on 2025-11-01 00:38
 - Location: New York Post
@@ -43,9 +48,4 @@ bution.svg)
 - Location: Breitbart News
 - Description: Joe Abraham, whose daughter, Katie, was killed by an alleged drunk-driving illegal alien in Illinois, is solidly backing ICE's "Operation Midway Blitz" enforcement operation, shortly after the victim's mother, Denise Lorence, publicly denounced the Chicago-ba…
 
-
-### HOMICIDE on 2025-11-01 00:21
-- Location: The Japan Times
-- Description: Police arrested the woman on Friday evening. She admitted the allegations against her, saying, they are "correct."
-
-Analysis generated at: Sun Nov  2 01:12:10 UTC 2025
+Analysis generated at: Sun Nov  2 01:57:15 UTC 2025
