@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Nov  2 01:57:15 UTC 2025
+Last updated: Sun Nov  2 06:21:00 UTC 2025
 
 ## Latest Analysis
 
-Loaded 68199 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-01 01:20:33
+Loaded 68214 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-01 06:20:36
 
 Incidents by source:
 source
-newsapi           68098
+newsapi           68113
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,34 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-11-01 01:20
-- Location: The Times of India
-- Description: The FBI confirmed that a deadly church shooting and arson in Michigan was motivated by the gunman's anti-religious beliefs against the Church of Jesus Christ of Latter-day Saints. Thomas Jacob Sanford, 40, drove his truck into the chapel, set it ablaze, and k…
+### OTHER on 2025-11-01 06:20
+- Location: BBC News
+- Description: Declan Diedrick's "determination and violence" was "truly horrifying", a senior detective says.
 
 
-### OTHER on 2025-11-01 00:38
-- Location: New York Post
-- Description: Mayor Eric Adams deserves praise for his bold move to add 5,000 new cops to beef up a depleted NYPD — and so expose Zohran Mamdani's anti-policing obsessions.
+### OTHER on 2025-11-01 06:00
+- Location: Naturalnews.com
+- Description: OpenAI disclosed that approximately 560,000 users weekly show signs of mania or psychosis, with 1.2 million more sending messages indicating potential suicidal intent, revealing a significant hidden toll. Over a million users weekly form an “exclusive attachm…
 
 
-### OTHER on 2025-11-01 00:37
-- Location: Bleeding Cool News
-- Description: Welcome back to our weekly look at what's ahead with CBS and Showrunners Brandon Sonnier and Brandon Margolis' Donnie Wahlberg and Sonequa Martin-Green-starring Boston Blue. In S01E03: "History," Lena (Martin-Green) and Danny's (Wahlberg) investigation leads …
+### OTHER on 2025-11-01 06:00
+- Location: Bay12games.com
+- Description: (Toady One) Ah, last month was quiet since I was a bit absorbed in the work and testing - siege update is in two days, on November 3rd! Here is 
+
+a monthly report.
+
+ Here also is 
+
+a Future of the Fortress reply.
 
 
-### OTHER on 2025-11-01 00:33
-- Location: New York Post
-- Description: The Post once again urges Westchester voters who want lower taxes, less crime and a repeal of the insane sanctuary law to support Christine Schulti for county executive.
+### HOMICIDE on 2025-11-01 05:42
+- Location: The Indian Express
+- Description: More than 2,700 members of the Sikh community were murdered in four days of violence in the Capital in the aftermath of the assassination of then Prime Minister Indira Gandhi by her Sikh bodyguards on October 31.
 
 
-### HOMICIDE on 2025-11-01 00:23
-- Location: Breitbart News
-- Description: Joe Abraham, whose daughter, Katie, was killed by an alleged drunk-driving illegal alien in Illinois, is solidly backing ICE's "Operation Midway Blitz" enforcement operation, shortly after the victim's mother, Denise Lorence, publicly denounced the Chicago-ba…
+### HOMICIDE on 2025-11-01 05:38
+- Location: ABC News (AU)
+- Description: Police have arrested a man in connection with the violent death of a 39-year-old woman in a home near Cessnock.
 
-Analysis generated at: Sun Nov  2 01:57:15 UTC 2025
+Analysis generated at: Sun Nov  2 06:21:00 UTC 2025
