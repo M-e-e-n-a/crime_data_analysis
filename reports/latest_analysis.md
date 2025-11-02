@@ -1,10 +1,10 @@
 
-Loaded 68251 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-01 12:36:07
+Loaded 68309 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-01 18:17:45
 
 Incidents by source:
 source
-newsapi           68150
+newsapi           68208
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-11-01 12:36
-- Location: Freerepublic.com
-- Description: Let’s say you paid top dollar to go to a fancy, five-star restaurant, and the waiter served you warmed-over McDonald’s. Would you ever go back? Maybe, if you didn’t know any better. I started thinking about that after I recently changed my residency from Virg…
+### OTHER on 2025-11-01 18:17
+- Location: Rlsbb.to
+- Description: Awards 13 wins & 44 nominations total See more awards » Plot: A couple's first date takes an unexpected turn when a police officer pulls them over. Genre: Crime | Drama | RomanceIMDB Rating Live: IMDB Rating: 7.1/10 From 36,587 UsersTMDB Rating: N/ARotten Rat…
 
 
-### OTHER on 2025-11-01 12:30
-- Location: Ambcrypto.com
-- Description: Why did Singapore act now and what information triggered the sudden asset freeze?
+### OTHER on 2025-11-01 18:09
+- Location: GOOD Magazine
+- Description: There are some first dates that are merely awkward, and then there are those that become internet legends. A story from Reddit user u/Affectionate_Base827 is one of those timeless tales—a masterclass in cringeworthy moments and perfect payback that's making t…
 
 
-### ROBBERY/THEFT on 2025-11-01 12:12
-- Location: New York Post
-- Description: An unkosher ex-con has been burglarizing Jewish grocery stores on the Sabbath – and not even five stints in prison could deter him from his life of crime, The Post has learned.
+### ROBBERY/THEFT on 2025-11-01 18:04
+- Location: DW (English)
+- Description: Paris police have so far arrested seven people in connection with last month's theft of crown jewels; three of them have been released.
 
 
-### OTHER on 2025-11-01 12:08
-- Location: The Times of India
-- Description: Golfer Tony Finau celebrated Halloween with his family dressed as characters from Snow White and the Seven Dwarfs. The Finaus shared a video of their costumes online. The post quickly gained attention on social media. Fans praised the family's creativity and …
+### HOMICIDE on 2025-11-01 18:01
+- Location: RT
+- Description: The mother of British fighter Jordan Chadwick has urged his former comrades in Ukraine’s International Legion to reveal how he was killed Read Full Article at RT.com
 
 
-### OTHER on 2025-11-01 12:03
-- Location: The Times of India
-- Description: ICC Chairman Jay Shah met with Cricket Association for the Blind in India (CABI) officials, pledging full support for the inaugural Women's T20 World Cup – Cricket for the Blind 2025. The tournament, co-hosted by India and Sri Lanka, will feature six nations …
+### OTHER on 2025-11-01 18:00
+- Location: Daily Signal
+- Description: In just a few days, a Karl Marx-quoting communist who has struggled to disavow Hamas is likely to be elected the next mayor of the... Read More
+The post Reject Radical Mamdani: NYC Mayor Race Has National Ramifications appeared first on The Daily Signal.
 
-Analysis generated at: Sun Nov  2 12:42:08 UTC 2025
+Analysis generated at: Sun Nov  2 18:17:51 UTC 2025
