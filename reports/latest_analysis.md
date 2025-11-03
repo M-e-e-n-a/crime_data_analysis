@@ -1,10 +1,10 @@
 
-Loaded 68321 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-02 01:50:00
+Loaded 68343 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-02 05:47:02
 
 Incidents by source:
 source
-newsapi           68220
+newsapi           68242
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,27 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-11-02 01:50
-- Location: The Star Online
-- Description: GOLOK, THAILAND: A Malaysian man in his thirties has died after being shot at a house in Sungai Golok on Saturday (Nov 1) Read full story
+### OTHER on 2025-11-02 05:47
+- Location: Joellehman.com
 
 
-### OTHER on 2025-11-02 01:43
-- Location: New York Post
-- Description: The New York mayoral race, where the Democrats’ nominee, Zohran Mamdani, is pushing a sweepingly radical agenda.
+### OTHER on 2025-11-02 05:30
+- Location: Independent.ie
+- Description: The stranger was tall and well-built, with striking blue eyes and a strong Irish accent. He approached a French university student on his way to class in the centre of Toulouse earlier last month, and introduced himself politely in English.
 
 
-### HOMICIDE on 2025-11-02 01:30
-- Location: Smallwarsjournal.com
-- Description: A police counter-gang “megaoperação” (mega-operation) targeting the Comando Vermelho (CV) or Red Command in in the Alemão and Penha favelas on northern Rio de Janeiro killed at least 132. The raid on Tuesday, 28 October 2025 is reportedly the deadliest police…
+### OTHER on 2025-11-02 04:29
+- Location: ABC News
+- Description: The nation’s largest police fleet of Tesla Cybertrucks is set to begin patrolling the streets of Las Vegas in November
 
 
-### OTHER on 2025-11-02 01:01
-- Location: Freerepublic.com
-- Description: SUMMARY Emergency services have been called after "multiple people" were stabbed on a train travelling in Cambridgeshire Two people have been arrested, Cambridgeshire Police say - pictures show them responding to the scene at Huntingdon station There are no f…
+### HOMICIDE on 2025-11-02 04:13
+- Location: ABC News (AU)
+- Description: A man charged with the domestic violence murder of 39-year-old Hunter woman Rhukaya Lake is remanded in custody.
 
 
-### OTHER on 2025-11-02 00:51
-- Location: Freerepublic.com
-- Description: Dozens of people disrupted Washington D.C.’s Navy Yard neighborhood on Halloween night, prompting police to make multiple arrests and shut down several streets. The Metropolitan Police Department responded to reports of disorderly conduct at First Street and …
+### OTHER on 2025-11-02 04:08
+- Location: Financial Post
+- Description: LAS VEGAS (AP) — The nation’s largest police fleet of Tesla Cybertrucks is set to begin patrolling the streets of Las Vegas in November thanks to a donation from a U.S. tech billionaire, raising concerns about the blurring of lines between public and private …
 
-Analysis generated at: Mon Nov  3 01:56:30 UTC 2025
+Analysis generated at: Mon Nov  3 06:23:24 UTC 2025
