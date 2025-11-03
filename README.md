@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Nov  3 12:31:06 UTC 2025
+Last updated: Mon Nov  3 12:50:54 UTC 2025
 
 ## Latest Analysis
 
-Loaded 68394 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-02 12:19:35
+Loaded 68402 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-02 12:48:41
 
 Incidents by source:
 source
-newsapi           68293
+newsapi           68301
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2025-11-02 12:19
-- Location: Breitbart News
-- Description: The Paris prosecutor said Sunday that two of the suspects in the Louvre jewels heist had previously been convicted in a theft case together 10 years ago, as three alleged members of the team of four are now in custody.
-The post Paris Prosecutor: Two Louvre He…
+### OTHER on 2025-11-02 12:48
+- Location: International Business Times
+- Description: The arrest of Martín de Jesús "N" is the second this month by federal forces targeting members of Los Gigios. Earlier in October, authorities captured the Nogales plaza boss for La Mayiza, a Sinaloa Cartel faction loyal to Ismael "El Mayo" Zambada.
 
 
-### HOMICIDE on 2025-11-02 12:01
-- Location: Freerepublic.com
-- Description: The son of longtime LA Crips leader and music mogul lauded as the “godfather” of rap was gunned down outside a smoke shop Friday night. Jabari “Baby Uiie” Henley, whose father Eugene Henley Jr. is the former head of the Rollin’ 60’s Neighborhood Crips, was on…
+### ASSAULT on 2025-11-02 12:48
+- Location: International Business Times
+- Description: Two men were arrested after a knife rampage on a London-bound train left nine passengers critically injured, forcing armed police to storm Huntingdon Station.
 
 
-### HOMICIDE on 2025-11-02 11:55
-- Location: Nakedcapitalism.com
-- Description: Our strategic daily links: monkey bath, serial killers, climate chaos, student naps, African wars, Gaza horrors, Ukraine burning, vanishing privacy, Trumpishness, Musk world, immigration troubles, Mr. market, AI, and wretched excess
+### OTHER on 2025-11-02 12:47
+- Location: Nep123.com
+- Description: Local Gambling Arrests: Five Detained in Kathmandu with Seized Cash Are you interested in local news and police blotter updates? Recent reports detail a gambling bust in Kathmandu‘s Chandragiri Municipality. On Sunday afternoon, authorities apprehended five i…
 
 
-### ROBBERY/THEFT on 2025-11-02 11:52
-- Location: New York Post
-- Description: The Paris prosecutor said Sunday that two of the suspects in the Louvre jewels heist had previously been convicted in a theft case together 10 years ago, as three alleged members of the team of four are now in custody.
+### OTHER on 2025-11-02 12:46
+- Location: The-sun.com
+- Description: The incursion comes just days after Nato revealed it is ramping up its air defences as rogue drones continue to menace Europe
 
 
-### OTHER on 2025-11-02 11:50
-- Location: Independent.ie
-- Description: When passengers boarded the busy 6.25pm train from Doncaster to King’s Cross, many were eager to arrive into London less than two hours later – but the train would never make it that far.
+### HOMICIDE on 2025-11-02 12:38
+- Location: Newser
+- Description: The New York Times calls it "perhaps the most unlikely casualty of the Trump administration's sweeping budget cuts last spring." An Oregon county some 2,500 miles away lost a very specific 2023 grant from the Justice Department: one designated for rural viole…
 
-Analysis generated at: Mon Nov  3 12:31:06 UTC 2025
+Analysis generated at: Mon Nov  3 12:50:54 UTC 2025
