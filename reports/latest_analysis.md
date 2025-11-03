@@ -1,10 +1,10 @@
 
-Loaded 68343 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-02 05:47:02
+Loaded 68394 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-02 12:19:35
 
 Incidents by source:
 source
-newsapi           68242
+newsapi           68293
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,27 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-11-02 05:47
-- Location: Joellehman.com
+### ROBBERY/THEFT on 2025-11-02 12:19
+- Location: Breitbart News
+- Description: The Paris prosecutor said Sunday that two of the suspects in the Louvre jewels heist had previously been convicted in a theft case together 10 years ago, as three alleged members of the team of four are now in custody.
+The post Paris Prosecutor: Two Louvre He…
 
 
-### OTHER on 2025-11-02 05:30
+### HOMICIDE on 2025-11-02 12:01
+- Location: Freerepublic.com
+- Description: The son of longtime LA Crips leader and music mogul lauded as the “godfather” of rap was gunned down outside a smoke shop Friday night. Jabari “Baby Uiie” Henley, whose father Eugene Henley Jr. is the former head of the Rollin’ 60’s Neighborhood Crips, was on…
+
+
+### HOMICIDE on 2025-11-02 11:55
+- Location: Nakedcapitalism.com
+- Description: Our strategic daily links: monkey bath, serial killers, climate chaos, student naps, African wars, Gaza horrors, Ukraine burning, vanishing privacy, Trumpishness, Musk world, immigration troubles, Mr. market, AI, and wretched excess
+
+
+### ROBBERY/THEFT on 2025-11-02 11:52
+- Location: New York Post
+- Description: The Paris prosecutor said Sunday that two of the suspects in the Louvre jewels heist had previously been convicted in a theft case together 10 years ago, as three alleged members of the team of four are now in custody.
+
+
+### OTHER on 2025-11-02 11:50
 - Location: Independent.ie
-- Description: The stranger was tall and well-built, with striking blue eyes and a strong Irish accent. He approached a French university student on his way to class in the centre of Toulouse earlier last month, and introduced himself politely in English.
+- Description: When passengers boarded the busy 6.25pm train from Doncaster to King’s Cross, many were eager to arrive into London less than two hours later – but the train would never make it that far.
 
-
-### OTHER on 2025-11-02 04:29
-- Location: ABC News
-- Description: The nation’s largest police fleet of Tesla Cybertrucks is set to begin patrolling the streets of Las Vegas in November
-
-
-### HOMICIDE on 2025-11-02 04:13
-- Location: ABC News (AU)
-- Description: A man charged with the domestic violence murder of 39-year-old Hunter woman Rhukaya Lake is remanded in custody.
-
-
-### OTHER on 2025-11-02 04:08
-- Location: Financial Post
-- Description: LAS VEGAS (AP) — The nation’s largest police fleet of Tesla Cybertrucks is set to begin patrolling the streets of Las Vegas in November thanks to a donation from a U.S. tech billionaire, raising concerns about the blurring of lines between public and private …
-
-Analysis generated at: Mon Nov  3 06:23:24 UTC 2025
+Analysis generated at: Mon Nov  3 12:31:06 UTC 2025
