@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Nov  3 12:50:54 UTC 2025
+Last updated: Mon Nov  3 18:21:05 UTC 2025
 
 ## Latest Analysis
 
-Loaded 68402 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-02 12:48:41
+Loaded 68473 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-02 18:20:48
 
 Incidents by source:
 source
-newsapi           68301
+newsapi           68372
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-11-02 12:48
-- Location: International Business Times
-- Description: The arrest of Martín de Jesús "N" is the second this month by federal forces targeting members of Los Gigios. Earlier in October, authorities captured the Nogales plaza boss for La Mayiza, a Sinaloa Cartel faction loyal to Ismael "El Mayo" Zambada.
+### HOMICIDE on 2025-11-02 18:20
+- Location: Breitbart News
+- Description: Eugene "Big U" Henley, a former rapper and the son of a high-ranking gang leader and music executive, was shot dead on Halloween night in Los Angeles, according to reports.
+The post Eugene ‘Big U’ Henley, Son of Crips Gang Leader and Music Executive, Murdered…
 
 
-### ASSAULT on 2025-11-02 12:48
-- Location: International Business Times
-- Description: Two men were arrested after a knife rampage on a London-bound train left nine passengers critically injured, forcing armed police to storm Huntingdon Station.
+### OTHER on 2025-11-02 18:20
+- Location: /FILM
+- Description: Danish spy thriller series The Asset is climbing up Netflix's global charts. Here's why it might be worth the binge for genre fans.
 
 
-### OTHER on 2025-11-02 12:47
-- Location: Nep123.com
-- Description: Local Gambling Arrests: Five Detained in Kathmandu with Seized Cash Are you interested in local news and police blotter updates? Recent reports detail a gambling bust in Kathmandu‘s Chandragiri Municipality. On Sunday afternoon, authorities apprehended five i…
+### ASSAULT on 2025-11-02 18:17
+- Location: Lansing State Journal
+- Description: The FBI confirmed a man attacked The Church of Jesus Christ of Latter-day Saints in Grand Blanc Township due to his "anti-religious beliefs."
 
 
-### OTHER on 2025-11-02 12:46
-- Location: The-sun.com
-- Description: The incursion comes just days after Nato revealed it is ramping up its air defences as rogue drones continue to menace Europe
+### OTHER on 2025-11-02 18:15
+- Location: Boston Herald
+- Description: LOWELL — A man was arrested Tuesday after allegedly removing his colostomy bag and hurling it at hospital staff and police officers during a messy confrontation at Lowell General Hospital's Saints Campus.
 
 
-### HOMICIDE on 2025-11-02 12:38
-- Location: Newser
-- Description: The New York Times calls it "perhaps the most unlikely casualty of the Trump administration's sweeping budget cuts last spring." An Oregon county some 2,500 miles away lost a very specific 2023 grant from the Justice Department: one designated for rural viole…
+### HOMICIDE on 2025-11-02 18:12
+- Location: Slashdot.org
+- Description: UK police say a man arrested over train stabbings is released without chargeAP News Two British nationals arrested on suspicion of attempted murder after train stabbing - latestBBC ‘It felt like forever’: passengers recount mass stabbing on Cambridgeshire tra…
 
-Analysis generated at: Mon Nov  3 12:50:54 UTC 2025
+Analysis generated at: Mon Nov  3 18:21:05 UTC 2025
