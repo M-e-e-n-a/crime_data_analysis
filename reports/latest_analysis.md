@@ -1,10 +1,10 @@
 
-Loaded 68492 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-03 01:40:42
+Loaded 68528 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-03 06:07:14
 
 Incidents by source:
 source
-newsapi           68391
+newsapi           68427
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-11-03 01:40
+### HOMICIDE on 2025-11-03 06:07
 - Location: The Times of India
-- Description: A birthday party at a rented Ohio home turned violent early Sunday, with gunfire injuring nine teenagers. The chaotic scene saw guests flee as first responders arrived. This incident, occurring just days after Airbnb launched new anti-party technology, highli…
+- Description: A 1982 Malayalam film, Madrasile Mon, featured Mohanlal in a role inspired by a shocking real-life double murder. The crime occurred in 1980, and the film blended fact and fiction. The killer, a relative of the victims, was sentenced to life imprisonment. The…
 
 
-### OTHER on 2025-11-03 01:35
-- Location: ABC News (AU)
-- Description: As incarceration rates continue to soar in the Northern Territory, experts warn mental health reform in the justice system is crucial for improving community safety in the long term.
+### OTHER on 2025-11-03 06:01
+- Location: The Irish Times
+- Description: Academics call for sanctions as Israel’s actions against education in Gaza draw condemnation
 
 
-### OTHER on 2025-11-03 01:33
-- Location: The New Republic
-- Description: Democratic operative Patrick Gaspard, who once advised Barack Obama, is aiding Zohran Mamdani’s campaign and sees many similarities in their political rises.
+### OTHER on 2025-11-03 06:00
+- Location: Reader's Digest
+- Description: Get ready for the arresting truth about your go-to word for police officers. Here's the surprising origin of the word "cop."
+The post Here’s the Real Reason Why Police Officers Are Called “Cops” appeared first on Reader's Digest.
 
 
-### OTHER on 2025-11-03 01:32
-- Location: Starweekly.com.au
-- Description: Police are investigating an attempted aggravated home invasion in Thomastown on Sunday 2 November. Detectives were told up to five male teens had attempted to gain entry to The Boulevard residence about 5.45am. A 42-year-old man home at the time managed to fe…
+### OTHER on 2025-11-03 06:00
+- Location: Naturalnews.com
+- Description: Maryland’s Baltimore County was officially removed from the DOJ’s sanctuary jurisdiction list after signing an MOU with ICE, formalizing cooperation with federal immigration enforcement. County Executive Kathy Klausmeier had contested the Trump administration…
 
 
-### OTHER on 2025-11-03 01:26
-- Location: The Japan Times
-- Description: The profiles of the four people under arrest so far are not typical of organized crime professionals capable of executing complex operations, the Paris prosecutor said.
+### OTHER on 2025-11-03 06:00
+- Location: Naturalnews.com
+- Description: Skydio’s AI-powered drones—battle-tested in Gaza—are now deployed across U.S. cities for routine policing, protests and public monitoring, raising concerns about militarized domestic surveillance. Over 800 agencies, including NYPD (55 flights/day), DEA and Cu…
 
-Analysis generated at: Tue Nov  4 01:51:55 UTC 2025
+Analysis generated at: Tue Nov  4 06:22:33 UTC 2025
