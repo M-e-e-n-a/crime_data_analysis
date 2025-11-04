@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Nov  3 18:21:05 UTC 2025
+Last updated: Tue Nov  4 01:07:40 UTC 2025
 
 ## Latest Analysis
 
-Loaded 68473 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-02 18:20:48
+Loaded 68482 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-03 00:32:49
 
 Incidents by source:
 source
-newsapi           68372
+newsapi           68381
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-11-02 18:20
-- Location: Breitbart News
-- Description: Eugene "Big U" Henley, a former rapper and the son of a high-ranking gang leader and music executive, was shot dead on Halloween night in Los Angeles, according to reports.
-The post Eugene ‘Big U’ Henley, Son of Crips Gang Leader and Music Executive, Murdered…
+### OTHER on 2025-11-03 00:32
+- Location: CBS News
+- Description: Read the full transcript of Norah O'Donnell's interview with President Trump here.
 
 
-### OTHER on 2025-11-02 18:20
-- Location: /FILM
-- Description: Danish spy thriller series The Asset is climbing up Netflix's global charts. Here's why it might be worth the binge for genre fans.
-
-
-### ASSAULT on 2025-11-02 18:17
-- Location: Lansing State Journal
-- Description: The FBI confirmed a man attacked The Church of Jesus Christ of Latter-day Saints in Grand Blanc Township due to his "anti-religious beliefs."
-
-
-### OTHER on 2025-11-02 18:15
-- Location: Boston Herald
-- Description: LOWELL — A man was arrested Tuesday after allegedly removing his colostomy bag and hurling it at hospital staff and police officers during a messy confrontation at Lowell General Hospital's Saints Campus.
-
-
-### HOMICIDE on 2025-11-02 18:12
+### SHOOTING on 2025-11-03 00:32
 - Location: Slashdot.org
-- Description: UK police say a man arrested over train stabbings is released without chargeAP News Two British nationals arrested on suspicion of attempted murder after train stabbing - latestBBC ‘It felt like forever’: passengers recount mass stabbing on Cambridgeshire tra…
+- Description: Nine people injured in mass shooting at Ohio party held in AirbnbThe Guardian Juveniles among 9 people hurt in shooting at Airbnb house party near Akron, Ohio: PoliceABC News Shooting at teen birthday party in Ohio rental home leaves 9 injuredCBS News 9 peopl…
 
-Analysis generated at: Mon Nov  3 18:21:05 UTC 2025
+
+### OTHER on 2025-11-03 00:30
+- Location: Screen Rant
+- Description: Prime Video screwed one show that could have been the perfect Bosch replacement, but it still has the chance to redeem itself and fix the series.
+
+
+### HOMICIDE on 2025-11-03 00:17
+- Location: ESPN
+- Description: Daiyan Henley played for the Chargers two days after his brother was shot and killed in Los Angeles. He had a sack, a pass deflection and seven tackles in the win over the Titans, later saying: "As traumatizing as all this is, I got a job to do."
+
+
+### HOMICIDE on 2025-11-03 00:14
+- Location: Freerepublic.com
+- Description: A woman is behind bars six years after she allegedly stabbed a man to death at a home in Southeast Albuquerque. Antionette Hernandez, 29, was arrested Thursday and charged with an open count of murder and criminal trespass in the 2019 killing of 38-year-old E…
+
+Analysis generated at: Tue Nov  4 01:07:40 UTC 2025
