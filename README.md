@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Nov  4 12:53:06 UTC 2025
+Last updated: Tue Nov  4 18:21:24 UTC 2025
 
 ## Latest Analysis
 
-Loaded 68622 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-03 12:51:27
+Loaded 68714 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-03 18:19:06
 
 Incidents by source:
 source
-newsapi           68521
+newsapi           68613
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-11-03 12:51
-- Location: The Irish Times
-- Description: Ryan Weir Gibbons (20s) died last Thursday after sustaining head injuries in apparent one-punch attack
+### SHOOTING on 2025-11-03 18:19
+- Location: Bossip
+- Description: Chester Highway Superintendent John Reilly III And his Wife Charged In Shooting of lost Guinean DoorDash Driver Alpha Barry
+The post White Chester Official And Wife Charged In Shooting Of Lost Guinean DoorDash Driver appeared first on Bossip.
 
 
-### HOMICIDE on 2025-11-03 12:50
-- Location: Fox News
-- Description: A Mississippi mother shot an escaped monkey near her home after a truck crash released 21 research primates. Two monkeys remain missing as authorities continue the search.
+### OTHER on 2025-11-03 18:18
+- Location: Newsbreak.com
+- Description: Illinois Gov. JB Pritzker and Sen. Ruben Gallego (D-AZ) have condemned President Donald Trump’s National Guard deployments to Democratic-run cities, questi
 
 
-### OTHER on 2025-11-03 12:45
-- Location: Whyevolutionistrue.com
-- Description: Welcome to the first Monday in November: November 3, 2025 and National Sandwich Day.  Here’s a pastrami/corned beef sandwich at Katz’s Deli in NYC, along with the only proper accompaniment to this item: a Dr. Brown’s Cel-Ray Tonic, celery-flavored soda that c…
+### HOMICIDE on 2025-11-03 18:14
+- Location: PEOPLE
+- Description: When police showed up to arrest Anthony Lennon at an Oklahoma motel in 2012, they found pools of blood everywhere - but no sign of him, authorities allege
 
 
-### HOMICIDE on 2025-11-03 12:31
-- Location: RTE
-- Description: Budapest's Metropolitan Prosecutor's Office has filed a charge of homicide against a 38-year-old Irish man for the alleged murder of a female American tourist in the Hungarian capital in November 2024.
+### SHOOTING on 2025-11-03 18:14
+- Location: New York Post
+- Description: Footage from just outside of Tampa on Sunday afternoon showed Hillsborough County Sheriff’s Office Deputy Anthony Gonzalez, 25, kick down a bedroom door after hearing a 7-year-old boy pleading for help inside.
 
 
-### HOMICIDE on 2025-11-03 12:31
-- Location: RTE
-- Description: Budapest's Metropolitan Prosecutor's Office has filed a charge of homicide against a 38-year-old Irish man for the alleged murder of an American female tourist in the Hungarian capital in November 2024.
+### OTHER on 2025-11-03 18:13
+- Location: Slate Magazine
+- Description: Can a relative centrist hold on against a surging left-wing candidate? This Midwestern city is about to find out.
 
-Analysis generated at: Tue Nov  4 12:53:06 UTC 2025
+Analysis generated at: Tue Nov  4 18:21:24 UTC 2025
