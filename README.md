@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Nov  5 01:53:30 UTC 2025
+Last updated: Wed Nov  5 06:22:41 UTC 2025
 
 ## Latest Analysis
 
-Loaded 68732 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-04 01:51:29
+Loaded 68768 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-04 06:18:34
 
 Incidents by source:
 source
-newsapi           68631
+newsapi           68667
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-11-04 01:51
-- Location: Fox News
-- Description: NHL player Arthur Kaliyev accused of $50,000 fraud scheme targeting girlfriend to fund gambling addiction, using fake checks and intimidation tactics.
+### OTHER on 2025-11-04 06:18
+- Location: BBC News
+- Description: Jagtar Singh Johal was arrested in connection with terror-related offences in the Punjab region in November 2017.
 
 
-### OTHER on 2025-11-04 01:35
+### ASSAULT on 2025-11-04 06:10
+- Location: BBC News
+- Description: Jan Sears says the passengers were told to run as fast and as far away as they could from the station.
+
+
+### OTHER on 2025-11-04 06:09
+- Location: BBC News
+- Description: Just 15% of 999 calls were for genuine emergencies last year, the Metropolitan Police says.
+
+
+### HOMICIDE on 2025-11-04 06:04
 - Location: The Times of India
-- Description: New York City mayoral candidates concluded their campaigns on the eve of Election Day. Former Governor Andrew Cuomo received an endorsement from President Donald Trump. Trump urged voters to support Cuomo over Zohran Mamdani. Early voting saw high turnout. Ca…
+- Description: A domestic help, Pushpalatha, is accused of brutally killing a pet puppy named Goofy inside a Bengaluru apartment lift. CCTV footage captured the horrifying act. The owner discovered the incident and filed a complaint. Pushpalatha is also accused of stealing …
 
 
-### SHOOTING on 2025-11-04 01:28
-- Location: CBC News
-- Description: Former MP Jinny Sims, now a radio host at Swift 1200 AM in Surrey, saw her radio station itself targeted by a shooting in September that police have linked to extortion.
+### ASSAULT on 2025-11-04 06:00
+- Location: The Irish Times
+- Description: Stephen Crean, son of a Dublin mother and Roscommon father, cherishes childhood memories of Ireland
 
-
-### HOMICIDE on 2025-11-04 01:22
-- Location: NBC News
-- Description: Jake Haro, the California father accused of killing his infant son and falsely claiming he had been kidnapped, was sentenced Monday to 25 years to life in prison.
-
-
-### OTHER on 2025-11-04 01:15
-- Location: WPXI Pittsburgh
-- Description: Pittsburgh police are investigating a string of attempted and successful vehicle break-ins over the weekend.
-
-Analysis generated at: Wed Nov  5 01:53:30 UTC 2025
+Analysis generated at: Wed Nov  5 06:22:41 UTC 2025
