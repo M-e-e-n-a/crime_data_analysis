@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Nov  5 01:09:24 UTC 2025
+Last updated: Wed Nov  5 01:53:30 UTC 2025
 
 ## Latest Analysis
 
-Loaded 68725 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-04 01:02:00
+Loaded 68732 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-04 01:51:29
 
 Incidents by source:
 source
-newsapi           68624
+newsapi           68631
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-11-04 01:02
+### OTHER on 2025-11-04 01:51
 - Location: Fox News
-- Description: ICE continued its crackdown on the “worst of the worst" illegal immigrants over Halloween weekend, arresting criminals convicted of intercourse with minor, sexual abuse and kidnapping.
+- Description: NHL player Arthur Kaliyev accused of $50,000 fraud scheme targeting girlfriend to fund gambling addiction, using fake checks and intimidation tactics.
 
 
-### OTHER on 2025-11-04 01:00
-- Location: Boston Herald
-- Description: Zohran Mamdani has won over many progressive Jewish voters, but alarmed many other Jews.
+### OTHER on 2025-11-04 01:35
+- Location: The Times of India
+- Description: New York City mayoral candidates concluded their campaigns on the eve of Election Day. Former Governor Andrew Cuomo received an endorsement from President Donald Trump. Trump urged voters to support Cuomo over Zohran Mamdani. Early voting saw high turnout. Ca…
 
 
-### HOMICIDE on 2025-11-04 00:57
-- Location: WFTV Orlando
-- Description: George Banks, one of the most notorious mass murderers in the U.S., has died
+### SHOOTING on 2025-11-04 01:28
+- Location: CBC News
+- Description: Former MP Jinny Sims, now a radio host at Swift 1200 AM in Surrey, saw her radio station itself targeted by a shooting in September that police have linked to extortion.
 
 
-### OTHER on 2025-11-04 00:51
-- Location: Newser
-- Description: A brazen daylight raid on the Louvre last month was initially seen as a heist worthy of Ocean's Eleven , but prosecutors say the thieves weren't the criminal masterminds they initially seemed to be. The suspects, all from the northern suburbs of Paris and des…
+### HOMICIDE on 2025-11-04 01:22
+- Location: NBC News
+- Description: Jake Haro, the California father accused of killing his infant son and falsely claiming he had been kidnapped, was sentenced Monday to 25 years to life in prison.
 
 
-### OTHER on 2025-11-04 00:48
-- Location: Fox News
-- Description: Police Chief Kevin McMahill announced that Las Vegas police received 10 bulletproof Tesla Cybertrucks through a $2.7 million donation from Ben and Felicia Horowitz.
+### OTHER on 2025-11-04 01:15
+- Location: WPXI Pittsburgh
+- Description: Pittsburgh police are investigating a string of attempted and successful vehicle break-ins over the weekend.
 
-Analysis generated at: Wed Nov  5 01:09:24 UTC 2025
+Analysis generated at: Wed Nov  5 01:53:30 UTC 2025
