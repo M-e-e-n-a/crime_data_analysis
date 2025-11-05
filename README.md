@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Nov  5 06:22:41 UTC 2025
+Last updated: Wed Nov  5 12:30:18 UTC 2025
 
 ## Latest Analysis
 
-Loaded 68768 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-04 06:18:34
+Loaded 68830 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-04 12:30:00
 
 Incidents by source:
 source
-newsapi           68667
+newsapi           68729
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,31 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-11-04 06:18
-- Location: BBC News
-- Description: Jagtar Singh Johal was arrested in connection with terror-related offences in the Punjab region in November 2017.
+### OTHER on 2025-11-04 12:30
+- Location: Mother Jones
+- Description: One Tuesday night in April, Mikaela Levons, head of development at Equal Justice USA (EJUSA), a criminal and racial justice nonprofit, had just wrapped up a phone call and was preparing to cook dinner for her kids when an email landed in her inbox. It came fr…
 
 
-### ASSAULT on 2025-11-04 06:10
-- Location: BBC News
-- Description: Jan Sears says the passengers were told to run as fast and as far away as they could from the station.
+### OTHER on 2025-11-04 12:25
+- Location: Raw Story
+- Description: Nick Fuentes, a far-right influencer who’s praised Adolf Hitler
+, called for a “holy war
+” against Jews and championed a “whites-only immigration policy
+” is well poised to take up the mantle of right-wing influencer Charlie Kirk after his assasination in …
 
 
-### OTHER on 2025-11-04 06:09
-- Location: BBC News
-- Description: Just 15% of 999 calls were for genuine emergencies last year, the Metropolitan Police says.
+### OTHER on 2025-11-04 12:20
+- Location: TheJournal.ie
+- Description: CAB’s annual report was brought to Cabinet this morning and shows it sold 20 properties seized from criminals across the country and one in Lanzarote.
 
 
-### HOMICIDE on 2025-11-04 06:04
-- Location: The Times of India
-- Description: A domestic help, Pushpalatha, is accused of brutally killing a pet puppy named Goofy inside a Bengaluru apartment lift. CCTV footage captured the horrifying act. The owner discovered the incident and filed a complaint. Pushpalatha is also accused of stealing …
+### OTHER on 2025-11-04 12:19
+- Location: Www.gov.uk
+- Description: A new law will restrict protests outside the homes of public office holders, in response to growing harassment and intimidation of those in British politics.
 
 
-### ASSAULT on 2025-11-04 06:00
-- Location: The Irish Times
-- Description: Stephen Crean, son of a Dublin mother and Roscommon father, cherishes childhood memories of Ireland
+### HOMICIDE on 2025-11-04 12:11
+- Location: Newser
+- Description: A former television anchor has been charged with first-degree murder after her mother was found stabbed to death in Wichita, Kansas. Police allege 47-year-old Angelynn Mock was outside her mother's home early on Halloween when officers responded to a call abo…
 
-Analysis generated at: Wed Nov  5 06:22:41 UTC 2025
+Analysis generated at: Wed Nov  5 12:30:18 UTC 2025
