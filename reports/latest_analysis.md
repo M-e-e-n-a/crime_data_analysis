@@ -1,10 +1,10 @@
 
-Loaded 68714 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-03 18:19:06
+Loaded 68725 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-04 01:02:00
 
 Incidents by source:
 source
-newsapi           68613
+newsapi           68624
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-11-03 18:19
-- Location: Bossip
-- Description: Chester Highway Superintendent John Reilly III And his Wife Charged In Shooting of lost Guinean DoorDash Driver Alpha Barry
-The post White Chester Official And Wife Charged In Shooting Of Lost Guinean DoorDash Driver appeared first on Bossip.
+### OTHER on 2025-11-04 01:02
+- Location: Fox News
+- Description: ICE continued its crackdown on the “worst of the worst" illegal immigrants over Halloween weekend, arresting criminals convicted of intercourse with minor, sexual abuse and kidnapping.
 
 
-### OTHER on 2025-11-03 18:18
-- Location: Newsbreak.com
-- Description: Illinois Gov. JB Pritzker and Sen. Ruben Gallego (D-AZ) have condemned President Donald Trump’s National Guard deployments to Democratic-run cities, questi
+### OTHER on 2025-11-04 01:00
+- Location: Boston Herald
+- Description: Zohran Mamdani has won over many progressive Jewish voters, but alarmed many other Jews.
 
 
-### HOMICIDE on 2025-11-03 18:14
-- Location: PEOPLE
-- Description: When police showed up to arrest Anthony Lennon at an Oklahoma motel in 2012, they found pools of blood everywhere - but no sign of him, authorities allege
+### HOMICIDE on 2025-11-04 00:57
+- Location: WFTV Orlando
+- Description: George Banks, one of the most notorious mass murderers in the U.S., has died
 
 
-### SHOOTING on 2025-11-03 18:14
-- Location: New York Post
-- Description: Footage from just outside of Tampa on Sunday afternoon showed Hillsborough County Sheriff’s Office Deputy Anthony Gonzalez, 25, kick down a bedroom door after hearing a 7-year-old boy pleading for help inside.
+### OTHER on 2025-11-04 00:51
+- Location: Newser
+- Description: A brazen daylight raid on the Louvre last month was initially seen as a heist worthy of Ocean's Eleven , but prosecutors say the thieves weren't the criminal masterminds they initially seemed to be. The suspects, all from the northern suburbs of Paris and des…
 
 
-### OTHER on 2025-11-03 18:13
-- Location: Slate Magazine
-- Description: Can a relative centrist hold on against a surging left-wing candidate? This Midwestern city is about to find out.
+### OTHER on 2025-11-04 00:48
+- Location: Fox News
+- Description: Police Chief Kevin McMahill announced that Las Vegas police received 10 bulletproof Tesla Cybertrucks through a $2.7 million donation from Ben and Felicia Horowitz.
 
-Analysis generated at: Tue Nov  4 18:21:24 UTC 2025
+Analysis generated at: Wed Nov  5 01:09:24 UTC 2025
