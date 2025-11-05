@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Nov  5 12:51:00 UTC 2025
+Last updated: Wed Nov  5 18:21:19 UTC 2025
 
 ## Latest Analysis
 
-Loaded 68833 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-04 12:43:36
+Loaded 68924 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-04 18:15:13
 
 Incidents by source:
 source
-newsapi           68732
+newsapi           68823
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,31 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-11-04 12:43
-- Location: International Business Times
-- Description: Police say the Doncaster train stabbings were not terrorism, as no ideological motive was found under UK law defining terror as violence driven by a cause.
+### OTHER on 2025-11-04 18:15
+- Location: Newsbreak.com
+- Description: Illinois Gov. JB Pritzker and Sen. Ruben Gallego (D-AZ) have condemned President Donald Trump’s National Guard deployments to Democratic-run cities, questi
 
 
-### HOMICIDE on 2025-11-04 12:42
-- Location: Independent.ie
-- Description: An Irishman has been charged with the killing of a US woman in Budapest.
+### OTHER on 2025-11-04 18:09
+- Location: The Times of India
+- Description: Despite a shocking World Cup final loss, Richa Ghosh emerged as a fearless game-changer, battling a fractured finger to deliver crucial performances. Her aggressive batting, highest strike rate, and 12 sixes in the tournament, coupled with improved fitness an…
 
 
-### HOMICIDE on 2025-11-04 12:42
-- Location: Independent.ie
-- Description: An Irish man has been charged with the killing of a US woman in Budapest.
+### ASSAULT on 2025-11-04 18:08
+- Location: The Irish Times
+- Description: ‘It just felt like my whole world was crashing down,’ officer tells court
 
 
-### OTHER on 2025-11-04 12:30
-- Location: Mother Jones
-- Description: One Tuesday night in April, Mikaela Levons, head of development at Equal Justice USA (EJUSA), a criminal and racial justice nonprofit, had just wrapped up a phone call and was preparing to cook dinner for her kids when an email landed in her inbox. It came fr…
+### HOMICIDE on 2025-11-04 18:07
+- Location: Al Jazeera English
+- Description: Military commander arrested by RSF grew famous on social media after apparently recording himself killing civilians.
 
 
-### OTHER on 2025-11-04 12:25
-- Location: Raw Story
-- Description: Nick Fuentes, a far-right influencer who’s praised Adolf Hitler
-, called for a “holy war
-” against Jews and championed a “whites-only immigration policy
-” is well poised to take up the mantle of right-wing influencer Charlie Kirk after his assasination in …
+### OTHER on 2025-11-04 18:00
+- Location: Autostraddle.com
+- Description: Sally Wainwright's latest follows a group of menopausal women who start a rock band — hitting many of the Wainright's favorite themes.
+The post ‘Riot Women’ Is Full of Angry Women, Shitbag Men and Casual Gayness appeared first on Autostraddle.
 
-Analysis generated at: Wed Nov  5 12:51:00 UTC 2025
+Analysis generated at: Wed Nov  5 18:21:19 UTC 2025
