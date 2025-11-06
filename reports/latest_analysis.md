@@ -1,10 +1,10 @@
 
-Loaded 69067 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-05 12:29:24
+Loaded 69068 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-05 12:30:16
 
 Incidents by source:
 source
-newsapi           68966
+newsapi           68967
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -19,6 +19,11 @@ bution.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### HOMICIDE on 2025-11-05 12:30
+- Location: Screen Rant
+- Description: Hazbin Hotel season 2 offers a character backstory that provides fresh insight into one of the most notorious serial killer mysteries of all time.
+
 
 ### OTHER on 2025-11-05 12:29
 - Location: BleepingComputer
@@ -39,9 +44,4 @@ bution.svg)
 - Location: BBC News
 - Description: The Home Office is promising to investigate after the BBC exposed on a UK-wide criminal network.
 
-
-### HOMICIDE on 2025-11-05 12:13
-- Location: London Review of Books
-- Description: On 30 October, days after the largest police massacre in the history of a city infamous for them, which left at least 121 dead, President Lula...
-
-Analysis generated at: Thu Nov  6 12:29:55 UTC 2025
+Analysis generated at: Thu Nov  6 12:50:35 UTC 2025
