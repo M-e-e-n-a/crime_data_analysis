@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Nov  5 18:21:19 UTC 2025
+Last updated: Thu Nov  6 01:08:32 UTC 2025
 
 ## Latest Analysis
 
-Loaded 68924 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-04 18:15:13
+Loaded 68941 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-05 01:07:58
 
 Incidents by source:
 source
-newsapi           68823
+newsapi           68840
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-11-04 18:15
-- Location: Newsbreak.com
-- Description: Illinois Gov. JB Pritzker and Sen. Ruben Gallego (D-AZ) have condemned President Donald Trump’s National Guard deployments to Democratic-run cities, questi
+### HOMICIDE on 2025-11-05 01:07
+- Location: WPXI Pittsburgh
+- Description: A man charged with shooting and killing a man in Wilkinsburg was arrested in Florida.
 
 
-### OTHER on 2025-11-04 18:09
-- Location: The Times of India
-- Description: Despite a shocking World Cup final loss, Richa Ghosh emerged as a fearless game-changer, battling a fractured finger to deliver crucial performances. Her aggressive batting, highest strike rate, and 12 sixes in the tournament, coupled with improved fitness an…
+### HOMICIDE on 2025-11-05 01:03
+- Location: New York Post
+- Description: Four people were arrested in addition to those killed after security personnel carrying out a patrol were attacked by an armed group hidden under a bridge.
 
 
-### ASSAULT on 2025-11-04 18:08
-- Location: The Irish Times
-- Description: ‘It just felt like my whole world was crashing down,’ officer tells court
+### ROBBERY/THEFT on 2025-11-05 00:52
+- Location: BBC News
+- Description: The Kerala high court says some of the Sabarimala temple idols have been stripped of their gold covering.
 
 
-### HOMICIDE on 2025-11-04 18:07
-- Location: Al Jazeera English
-- Description: Military commander arrested by RSF grew famous on social media after apparently recording himself killing civilians.
+### OTHER on 2025-11-05 00:48
+- Location: BBC News
+- Description: Officers say there appear to be cases where lines of inquiry were not pursued properly.
 
 
-### OTHER on 2025-11-04 18:00
-- Location: Autostraddle.com
-- Description: Sally Wainwright's latest follows a group of menopausal women who start a rock band — hitting many of the Wainright's favorite themes.
-The post ‘Riot Women’ Is Full of Angry Women, Shitbag Men and Casual Gayness appeared first on Autostraddle.
+### OTHER on 2025-11-05 00:35
+- Location: Us Weekly
+- Description: Former American Idol contestant Randy Madden has been arrested for allegedly having sex with a minor. According to TMZ, who was the first to report the news, Madden, 45, is facing six felony charges, including oral copulation of a person under 18 and unlawful…
 
-Analysis generated at: Wed Nov  5 18:21:19 UTC 2025
+Analysis generated at: Thu Nov  6 01:08:32 UTC 2025
