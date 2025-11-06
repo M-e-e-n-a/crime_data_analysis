@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Nov  6 01:08:32 UTC 2025
+Last updated: Thu Nov  6 01:53:22 UTC 2025
 
 ## Latest Analysis
 
-Loaded 68941 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-05 01:07:58
+Loaded 68947 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-05 01:52:00
 
 Incidents by source:
 source
-newsapi           68840
+newsapi           68846
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-11-05 01:07
-- Location: WPXI Pittsburgh
-- Description: A man charged with shooting and killing a man in Wilkinsburg was arrested in Florida.
+### HOMICIDE on 2025-11-05 01:52
+- Location: The Star Online
+- Description: KUALA LUMPUR: The police have confirmed that local rapper Wee Meng Chee, better known as Namewee, has been detained in connection with the death of Taiwanese social media influencer Hsieh Yun-hsin. Read full story
 
 
-### HOMICIDE on 2025-11-05 01:03
-- Location: New York Post
-- Description: Four people were arrested in addition to those killed after security personnel carrying out a patrol were attacked by an armed group hidden under a bridge.
+### OTHER on 2025-11-05 01:46
+- Location: Fox News
+- Description: Democratic incumbent Mayor Aftab Pureval won re-election Tuesday, defeating Republican challenger Cory Bowman.
 
 
-### ROBBERY/THEFT on 2025-11-05 00:52
-- Location: BBC News
-- Description: The Kerala high court says some of the Sabarimala temple idols have been stripped of their gold covering.
+### OTHER on 2025-11-05 01:36
+- Location: The Times of India
+- Description: Malayalam audiences can look forward to a new web series, Inspection Bungalow. This horror-comedy is set to premiere online this month. The series promises a mix of mystery, humour, and supernatural elements. Directed by Saiju SS, it features a cast known for…
 
 
-### OTHER on 2025-11-05 00:48
-- Location: BBC News
-- Description: Officers say there appear to be cases where lines of inquiry were not pursued properly.
+### OTHER on 2025-11-05 01:30
+- Location: WTAE Pittsburgh
+- Description: Allegheny County Controller Corey O'Connor is projected to become Pittsburgh's next mayor, according to the Associated Press on Tuesday night.
 
 
-### OTHER on 2025-11-05 00:35
-- Location: Us Weekly
-- Description: Former American Idol contestant Randy Madden has been arrested for allegedly having sex with a minor. According to TMZ, who was the first to report the news, Madden, 45, is facing six felony charges, including oral copulation of a person under 18 and unlawful…
+### HOMICIDE on 2025-11-05 01:22
+- Location: Starweekly.com.au
+- Description: Police have charged a man as part of their investigation into the 1991 death of Melinda Freeman in Whittlesea. A 63-year-old Greensborough man was arrested in Greensborough on the morning of Wednesday 5 November. The man was interviewed by police and charged …
 
-Analysis generated at: Thu Nov  6 01:08:32 UTC 2025
+Analysis generated at: Thu Nov  6 01:53:22 UTC 2025
