@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Nov  6 06:22:48 UTC 2025
+Last updated: Thu Nov  6 12:29:55 UTC 2025
 
 ## Latest Analysis
 
-Loaded 69006 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-05 06:21:27
+Loaded 69067 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-05 12:29:24
 
 Incidents by source:
 source
-newsapi           68905
+newsapi           68966
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2025-11-05 06:21
-- Location: ABC News
-- Description: Democratic Seattle Mayor Bruce Harrell faces a tough reelection fight against progressive activist Katie Wilson as voters in the liberal city question whether he’s done enough in his first term to address public safety, homelessness and affordability
+### OTHER on 2025-11-05 12:29
+- Location: BleepingComputer
+- Description: International authorities have dismantled three massive credit card fraud and money laundering networks, linked to losses exceeding €300 million ($344 million) and affecting over 4.3 million cardholders across 193 countries. [...]
 
 
-### HOMICIDE on 2025-11-05 06:15
-- Location: Newser
-- Description: Two years after the deadliest mass shooting in state history, Maine residents voted Tuesday to make it easier for family members to petition a court to restrict a potentially dangerous person's access to guns, the AP reports. A ballot question asked residents…
+### OTHER on 2025-11-05 12:29
+- Location: Fortune
+- Description: The 34-year-old democratic socialist made history by vanquishing Andrew Cuomo.
 
 
-### OTHER on 2025-11-05 06:10
+### OTHER on 2025-11-05 12:18
+- Location: CBS News
+- Description: Officials say a local man on France's Atlantic island of Oleron shouted "God is the greatest" in Arabic as he was arrested after allegedly ramming pedestrians in a car.
+
+
+### OTHER on 2025-11-05 12:15
 - Location: BBC News
-- Description: It comes as Harrow Council launches a crackdown on the "reckless and antisocial use of fireworks".
+- Description: The Home Office is promising to investigate after the BBC exposed on a UK-wide criminal network.
 
 
-### OTHER on 2025-11-05 06:00
-- Location: Naturalnews.com
-- Description: In early October, YouTube removed over 700 videos documenting Israeli abuses in Gaza and the West Bank, deleting accounts of three major Palestinian rights groups—Al-Haq, Al Mezan and the Palestinian Centre for Human Rights—citing compliance with U.S. sanctio…
+### HOMICIDE on 2025-11-05 12:13
+- Location: London Review of Books
+- Description: On 30 October, days after the largest police massacre in the history of a city infamous for them, which left at least 121 dead, President Lula...
 
-
-### OTHER on 2025-11-05 06:00
-- Location: Naturalnews.com
-- Description: Unidentified drones conducted coordinated surveillance over Belgium’s Kleine Brogel Air Base, targeting F-16 jets and nuclear munitions storage. Belgian officials confirmed the drones evaded detection and jamming equipment, suggesting advanced state-level esp…
-
-Analysis generated at: Thu Nov  6 06:22:48 UTC 2025
+Analysis generated at: Thu Nov  6 12:29:55 UTC 2025
