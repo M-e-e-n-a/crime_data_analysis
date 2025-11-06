@@ -1,10 +1,10 @@
 
-Loaded 69068 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-05 12:30:16
+Loaded 69156 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-05 18:22:00
 
 Incidents by source:
 source
-newsapi           68967
+newsapi           69055
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-11-05 12:30
-- Location: Screen Rant
-- Description: Hazbin Hotel season 2 offers a character backstory that provides fresh insight into one of the most notorious serial killer mysteries of all time.
+### OTHER on 2025-11-05 18:22
+- Location: Freerepublic.com
+- Description: The mayoral race focused largely on Albuquerque’s crime rate, homelessness, housing and economic development. Keller, a Democrat who has served in the state Legislature and as state auditor, defended his record as mayor and his knowledge of the issues, emphas…
 
 
-### OTHER on 2025-11-05 12:29
-- Location: BleepingComputer
-- Description: International authorities have dismantled three massive credit card fraud and money laundering networks, linked to losses exceeding €300 million ($344 million) and affecting over 4.3 million cardholders across 193 countries. [...]
+### OTHER on 2025-11-05 18:18
+- Location: The Daily Caller
+- Description: Minnesota state Sen. Omar Fateh, a far-left candidate for Minneapolis mayor who drew comparisons to Zohran Mamdani, came up short in his effort to cement the city as a socialist stronghold. The Associated Press called the race for incumbent Minneapolis Democr…
 
 
-### OTHER on 2025-11-05 12:29
-- Location: Fortune
-- Description: The 34-year-old democratic socialist made history by vanquishing Andrew Cuomo.
+### SHOOTING on 2025-11-05 18:16
+- Location: Chicago Reader
+- Description: The rideshare driver waiting areas at O’Hare International Airport have restrooms, food trucks, and spaces for religious worship. At any time, as many as 70 Uber and Lyft drivers can usually be found parked in one of two designated lots. But, in recent weeks,…
 
 
-### OTHER on 2025-11-05 12:18
-- Location: CBS News
-- Description: Officials say a local man on France's Atlantic island of Oleron shouted "God is the greatest" in Arabic as he was arrested after allegedly ramming pedestrians in a car.
+### SHOOTING on 2025-11-05 18:14
+- Location: WPXI Pittsburgh
+- Description: Police are on scene for a shooting in Pittsburgh’s Bedford Dwellings neighborhood.
 
 
-### OTHER on 2025-11-05 12:15
-- Location: BBC News
-- Description: The Home Office is promising to investigate after the BBC exposed on a UK-wide criminal network.
+### OTHER on 2025-11-05 18:14
+- Location: Freerepublic.com
+- Description: A driver “shouting Allahu Akbar” has ploughed his car into a crowd of pedestrians on a French holiday island. The male driver rammed into pedestrians and cyclists on Ile d’Oléron, off the Atlantic Coast, on Wednesday morning shortly before 9am local time, Lau…
 
-Analysis generated at: Thu Nov  6 12:50:35 UTC 2025
+Analysis generated at: Thu Nov  6 18:22:32 UTC 2025
