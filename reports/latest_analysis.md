@@ -47,4 +47,4 @@ She was killed at the Harborview Terrace complex in Hell’s Kitchen. [ more ›
 - Location: Newser
 - Description: An Australian teenager is facing charges of damaging a public sculpture—allegedly by sticking googly eyes on it. The sculpture in question, known officially as Cast in Blue but locally nicknamed the "Blue Blob," has been a lightning rod for criticism since it…
 
-Analysis generated at: Fri Nov  7 12:29:24 UTC 2025
+Analysis generated at: Fri Nov  7 12:49:19 UTC 2025
