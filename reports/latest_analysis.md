@@ -1,10 +1,10 @@
 
-Loaded 69186 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-06 01:51:12
+Loaded 69218 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-06 06:03:11
 
 Incidents by source:
 source
-newsapi           69085
+newsapi           69117
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-11-06 01:51
-- Location: Starweekly.com.au
-- Description: A Dallas man was taken into custody following a knife incident in Melbourne's CBD this morning. Police believe a man, armed with a knife and acting erratically, ran through a shopping centre carpark on Lonsdale Street at about 6am. Two bystanders chased the m…
+### HOMICIDE on 2025-11-06 06:03
+- Location: ABC News (AU)
+- Description: A jury has unanimously found Steven John guilty of murdering his wife when he stabbed her in the back following a drunken argument in 2023.
 
 
-### OTHER on 2025-11-06 01:45
-- Location: Yahoo Entertainment
-- Description: Jeffrey Epstein's cellmate has shared details of their interaction behind bars, revealing shocking things the financier allegedly told him.
+### HOMICIDE on 2025-11-06 06:00
+- Location: ABC News (AU)
+- Description: The convicted killer, who cannot be named, showed no emotion as Ashley Gordon's family members confronted him one by one during a plea hearing at court.
 
 
-### ROBBERY/THEFT on 2025-11-06 01:40
-- Location: Israelnationalnews.com
-- Description: Two New Jersey men arrested in an ISIS-inspired terror probe, linked to a Michigan cell that was already caught. One suspect was caught at Newark Airport en route to Syria.
+### OTHER on 2025-11-06 05:58
+- Location: New York Post
+- Description: New Yorkers looking to flee Mayor-elect Zohran Mamdani's Democratic socialist agenda are being given an open invitation to Florida by one county sheriff pitching it as "the beginning of a new life."
 
 
-### OTHER on 2025-11-06 01:37
-- Location: Bleeding Cool News
-- Description: Any time you adapt something as beloved as the procedural crime drama franchise as Maigret, it always comes with its set of challenges. Creator and showrunner Patrick Harbinson decided to take a dramatically different approach to the well-established figure o…
+### ROBBERY/THEFT on 2025-11-06 05:54
+- Location: BBC News
+- Description: Ricky Butcher says he was slashed in the mouth with a knife while waiting for a taxi.
 
 
-### ROBBERY/THEFT on 2025-11-06 01:30
-- Location: CNET
-- Description: Following the infamous jewel heist, reports show the museum's security and password habits were atrocious.
+### HOMICIDE on 2025-11-06 05:36
+- Location: ABC News (AU)
+- Description: The findings of a coronial inquest into the death of German backpacker Simone Strobel in Lismore in 2005 have been delivered.
 
-Analysis generated at: Fri Nov  7 01:52:19 UTC 2025
+Analysis generated at: Fri Nov  7 06:22:42 UTC 2025
