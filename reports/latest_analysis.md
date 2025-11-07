@@ -1,10 +1,10 @@
 
-Loaded 69293 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-06 12:28:23
+Loaded 69384 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-06 18:18:23
 
 Incidents by source:
 source
-newsapi           69192
+newsapi           69283
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,31 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-11-06 12:28
-- Location: ESPN
-- Description: She was the No. 1 pick in the 2007 WNBA draft. She has played all over the world and coached through triumph and horror. Now, Harding is not only a leading voice for JJ Redick, LeBron and the Lakers, but is on the short list for future NBA head coaches.
+### HOMICIDE on 2025-11-06 18:18
+- Location: The Times of India
+- Description: A 12-year-old Sainik School student's death is under scrutiny following his sister's allegations of severe bullying by senior students. The family claims dormitory mates revealed the boy was subjected to mental and physical torture, accused of theft, and thre…
 
 
-### OTHER on 2025-11-06 12:24
-- Location: Fox News
-- Description: Bank impostor scams cost Americans $2.9 billion as criminals use AI voices and caller ID spoofing to steal life savings. Learn 9 essential fraud protection tips.
+### HOMICIDE on 2025-11-06 18:09
+- Location: BBC News
+- Description: In the first ruling of its kind, Dmitry Kurashov was found guilty of killing an unarmed Ukrainian soldier who had surrendered.
 
 
-### HOMICIDE on 2025-11-06 12:23
+### OTHER on 2025-11-06 18:06
+- Location: CNN
+- Description: In March, a painting by M.F. Husain became the highest-priced modern Indian artwork ever; in June, an auction of his work in Mumbai was nearly cancelled after Hindu extremists threatened it. Last January, an Indian court ordered impoundment of two “offensive”…
+
+
+### HOMICIDE on 2025-11-06 18:05
 - Location: Gothamist
-- Description: An NYPD cruiser seen in the Bronx on Feb. 10, 2023
- 
-
-She was killed at the Harborview Terrace complex in Hell’s Kitchen. [ more › ]
+- Description: Shootings are up about 17% in the area, according to NYPD records. [ more › ]
 
 
-### HOMICIDE on 2025-11-06 12:22
-- Location: RTE
-- Description: A 21-year-old man has appeared in court charged with the murder of a man in Co Down.
+### OTHER on 2025-11-06 18:00
+- Location: Breitbart News
+- Description: The real estate business in South Florida is booming with residents of New York City looking to relocate as the political climate in the Big Apple appears to be taking a hard left turn, a developer told Fox Business.
+The post Developer: Florida Real Estate Su…
 
-
-### OTHER on 2025-11-06 12:21
-- Location: Newser
-- Description: An Australian teenager is facing charges of damaging a public sculpture—allegedly by sticking googly eyes on it. The sculpture in question, known officially as Cast in Blue but locally nicknamed the "Blue Blob," has been a lightning rod for criticism since it…
-
-Analysis generated at: Fri Nov  7 12:49:19 UTC 2025
+Analysis generated at: Fri Nov  7 18:20:55 UTC 2025
