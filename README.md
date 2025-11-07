@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Nov  6 18:22:32 UTC 2025
+Last updated: Fri Nov  7 01:07:40 UTC 2025
 
 ## Latest Analysis
 
-Loaded 69156 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-05 18:22:00
+Loaded 69175 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-06 01:06:34
 
 Incidents by source:
 source
-newsapi           69055
+newsapi           69074
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-11-05 18:22
+### ASSAULT on 2025-11-06 01:06
+- Location: New York Post
+- Description: Tomas Kaan Jimenez-Guzal and Milo Sedarat, both 19, were arrested on Tuesday, with both teens living in $1 million-plus Victorian houses in the manicured New York City suburb.
+
+
+### OTHER on 2025-11-06 01:05
 - Location: Freerepublic.com
-- Description: The mayoral race focused largely on Albuquerque’s crime rate, homelessness, housing and economic development. Keller, a Democrat who has served in the state Legislature and as state auditor, defended his record as mayor and his knowledge of the issues, emphas…
+- Description: NEW YORK — Andrew Cuomo’s political career is ending where it began — with a failed mayoral race. Nearly 50 years ago, Cuomo served as an informal adviser to his father’s unsuccessful City Hall bid. Decades later, he is once again on the losing side. While 19…
 
 
-### OTHER on 2025-11-05 18:18
+### HOMICIDE on 2025-11-06 00:46
+- Location: Boston Herald
+- Description: A South Boston man accepted a plea deal for the killings of two men in 1984 and 1993 and will serve 15 years -- a conclusion one victim's daughter called the "coward's way out."
+
+
+### OTHER on 2025-11-06 00:43
 - Location: The Daily Caller
-- Description: Minnesota state Sen. Omar Fateh, a far-left candidate for Minneapolis mayor who drew comparisons to Zohran Mamdani, came up short in his effort to cement the city as a socialist stronghold. The Associated Press called the race for incumbent Minneapolis Democr…
+- Description: Democratic New York City (NYC) Mayor-elect Zohran Mamdani promised free buses, free child care, rent freezes, and big-ticket building projects, but the office’s limitations may restrict his sweeping reforms. Mamdani’s preeminent issue in enacting his policy p…
 
 
-### SHOOTING on 2025-11-05 18:16
-- Location: Chicago Reader
-- Description: The rideshare driver waiting areas at O’Hare International Airport have restrooms, food trucks, and spaces for religious worship. At any time, as many as 70 Uber and Lyft drivers can usually be found parked in one of two designated lots. But, in recent weeks,…
-
-
-### SHOOTING on 2025-11-05 18:14
-- Location: WPXI Pittsburgh
-- Description: Police are on scene for a shooting in Pittsburgh’s Bedford Dwellings neighborhood.
-
-
-### OTHER on 2025-11-05 18:14
+### HOMICIDE on 2025-11-06 00:39
 - Location: Freerepublic.com
-- Description: A driver “shouting Allahu Akbar” has ploughed his car into a crowd of pedestrians on a French holiday island. The male driver rammed into pedestrians and cyclists on Ile d’Oléron, off the Atlantic Coast, on Wednesday morning shortly before 9am local time, Lau…
+- Description: PHOENIX (KPHO/Gray News) - An Arizona father at the center of a high-profile case regarding the death of his young daughter has died. The Maricopa County Medical Examiner’s Office confirmed that Christopher Ryan Scholtes, 38, was found dead around 5 a.m. Wedn…
 
-Analysis generated at: Thu Nov  6 18:22:32 UTC 2025
+Analysis generated at: Fri Nov  7 01:07:40 UTC 2025
