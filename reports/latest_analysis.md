@@ -1,10 +1,10 @@
 
-Loaded 69384 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-06 18:18:23
+Loaded 69402 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-07 01:00:00
 
 Incidents by source:
 source
-newsapi           69283
+newsapi           69301
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-11-06 18:18
-- Location: The Times of India
-- Description: A 12-year-old Sainik School student's death is under scrutiny following his sister's allegations of severe bullying by senior students. The family claims dormitory mates revealed the boy was subjected to mental and physical torture, accused of theft, and thre…
+### OTHER on 2025-11-07 01:00
+- Location: New Zealand Herald
+- Description: Don't believe the bleating: this place isn't broke, dysfunctional or crime-ridden.
 
 
-### HOMICIDE on 2025-11-06 18:09
-- Location: BBC News
-- Description: In the first ruling of its kind, Dmitry Kurashov was found guilty of killing an unarmed Ukrainian soldier who had surrendered.
+### ROBBERY/THEFT on 2025-11-07 00:58
+- Location: Digital Journal
+- Description: From cooking oil theft to brain-computer interfaces, this year’s Top 10 show how Calgary’s innovators are tackling real problems.
+The post Launch Party caps off Calgary Innovation Week with a celebration of the city’s top startups appeared first on Digital Jo…
 
 
-### OTHER on 2025-11-06 18:06
-- Location: CNN
-- Description: In March, a painting by M.F. Husain became the highest-priced modern Indian artwork ever; in June, an auction of his work in Mumbai was nearly cancelled after Hindu extremists threatened it. Last January, an Indian court ordered impoundment of two “offensive”…
+### HOMICIDE on 2025-11-07 00:56
+- Location: Freerepublic.com
+- Description: Former NFL star Antonio Brown has been arrested on an attempted murder charge stemming from a shooting after a celebrity boxing event in Miami, police confirmed Thursday. Miami police spokesperson Mike Vega said Brown, 37, was taken into custody by U.S. Marsh…
 
 
-### HOMICIDE on 2025-11-06 18:05
-- Location: Gothamist
-- Description: Shootings are up about 17% in the area, according to NYPD records. [ more › ]
+### HOMICIDE on 2025-11-07 00:55
+- Location: Freerepublic.com
+- Description: A Seattle sex offender who had previously been sentenced to life in prison without the possibility of parole is now accused of the 1994 murder of 14-year-old Tanya Frazier. On Thursday, King County prosecutors charged Mark Anthony Russ, 57, with one count of …
 
 
-### OTHER on 2025-11-06 18:00
-- Location: Breitbart News
-- Description: The real estate business in South Florida is booming with residents of New York City looking to relocate as the political climate in the Big Apple appears to be taking a hard left turn, a developer told Fox Business.
-The post Developer: Florida Real Estate Su…
+### OTHER on 2025-11-07 00:53
+- Location: ABC News (AU)
+- Description: The funding will be used to provide more therapeutic services for young offenders as well as more caseworkers and bail accommodation in Moree.
 
-Analysis generated at: Fri Nov  7 18:20:55 UTC 2025
+Analysis generated at: Sat Nov  8 01:04:57 UTC 2025
