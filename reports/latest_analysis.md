@@ -1,10 +1,10 @@
 
-Loaded 69512 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-07 12:18:24
+Loaded 69513 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-07 12:28:15
 
 Incidents by source:
 source
-newsapi           69411
+newsapi           69412
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -19,6 +19,12 @@ bution.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### OTHER on 2025-11-07 12:28
+- Location: Raw Story
+- Description: A senior White House official is accusing a federal judge of supporting the doxing of White House Deputy Chief of Staff Stephen Miller, lashing out at the judge with comments made to Axios, the outlet reported
+ Friday.Barbara Wien, an activist and professor …
+
 
 ### OTHER on 2025-11-07 12:18
 - Location: Westernjournal.com
@@ -39,9 +45,4 @@ bution.svg)
 - Location: Boredpanda.com
 - Description: The teenage daughter, who had filed a lawsuit against the father, said she wasn’t surprised he took his own life.
 
-
-### OTHER on 2025-11-07 12:04
-- Location: DW (English)
-- Description: The monthly Deutschlandtrend survey has looked into the debate about the perception of urban space in Germany. It found that the number of people who no longer feel safe in public has risen. A statement on migration and public safety by German Chancellor Frie…
-
-Analysis generated at: Sat Nov  8 12:26:07 UTC 2025
+Analysis generated at: Sat Nov  8 12:42:59 UTC 2025
