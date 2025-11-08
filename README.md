@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Nov  8 01:46:05 UTC 2025
+Last updated: Sat Nov  8 06:20:03 UTC 2025
 
 ## Latest Analysis
 
-Loaded 69408 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-07 01:41:33
+Loaded 69453 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-07 06:12:05
 
 Incidents by source:
 source
-newsapi           69307
+newsapi           69352
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,27 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-11-07 01:41
-- Location: Biztoc.com
+### HOMICIDE on 2025-11-07 06:12
+- Location: ABC News (AU)
+- Description: Homicide detectives are investigating the death of a man whose body was found on a walking track near Lismore.
 
 
-### HOMICIDE on 2025-11-07 01:31
-- Location: The Times of India
-- Description: A 64-year-old grip, James 'Trapper' McEvoy, was electrocuted on the set of the independent horror film 'Kill Me Now' in Louisiana. McEvoy was operating a bucket truck when he struck an active power line. The International Alliance of Theatrical Stage Employee…
+### OTHER on 2025-11-07 06:11
+- Location: ABC News (AU)
+- Description: Three men are in a critical condition after a car veered onto a footpath where they were standing following a collision with another vehicle in Sydney's west.
 
 
-### OTHER on 2025-11-07 01:26
-- Location: Balloon-juice.com
-- Description: Russia has ever so helpfully announced their next set of war crimes before they’ve committed them. Russia announces its future war crimes: [image or embed] — Kate from Kharkiv (@kateinkharkiv.bsky.social) November 6, 2025 at 7:59 AM Always so helpful. Here’s …
+### ROBBERY/THEFT on 2025-11-07 06:06
+- Location: ABC News (AU)
+- Description: A former police officer who travelled more than 700 kilometres to steal $100,000 from a convicted sex offender has been jailed for 10 years.
 
 
-### HOMICIDE on 2025-11-07 01:25
-- Location: Marca
-- Description: Mental health has emerged as a pressing issue in the National Football League (NFL), a stark reminder following the tragic death of Marshawn Kneeland, the Dallas Cowboys&apos; defe
+### SHOOTING on 2025-11-07 06:00
+- Location: Newser
+- Description: Former NFL star Antonio Brown has been captured after more than four months on the run, Miami authorities said Thursday. Brown, who was wanted in connection with a shooting outside an amateur boxing match in Miami's Little Haiti neighborhood on May 16, was ta…
 
 
-### OTHER on 2025-11-07 01:21
-- Location: The Times of India
-- Description: An engineering graduate was arrested for sending bomb threat emails to 21 schools across India, including in Bengaluru and Mysuru. The accused, Rene Joshilda, allegedly used her ex-lover's name to implicate him in the crime. She was taken into Bengaluru polic…
+### ROBBERY/THEFT on 2025-11-07 06:00
+- Location: Naturalnews.com
+- Description: The FBI announced the arrest of 19 individuals allegedly involved in an elaborate international scam that targeted over 500 seniors, resulting in approximately $40 million in losses. The scheme, uncovered by the San Diego “Elder Justice” task force, involved …
 
-Analysis generated at: Sat Nov  8 01:46:05 UTC 2025
+Analysis generated at: Sat Nov  8 06:20:03 UTC 2025
