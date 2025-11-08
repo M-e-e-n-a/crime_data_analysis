@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Nov  8 01:04:57 UTC 2025
+Last updated: Sat Nov  8 01:46:05 UTC 2025
 
 ## Latest Analysis
 
-Loaded 69402 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-07 01:00:00
+Loaded 69408 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-07 01:41:33
 
 Incidents by source:
 source
-newsapi           69301
+newsapi           69307
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,27 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-11-07 01:00
-- Location: New Zealand Herald
-- Description: Don't believe the bleating: this place isn't broke, dysfunctional or crime-ridden.
+### HOMICIDE on 2025-11-07 01:41
+- Location: Biztoc.com
 
 
-### ROBBERY/THEFT on 2025-11-07 00:58
-- Location: Digital Journal
-- Description: From cooking oil theft to brain-computer interfaces, this year’s Top 10 show how Calgary’s innovators are tackling real problems.
-The post Launch Party caps off Calgary Innovation Week with a celebration of the city’s top startups appeared first on Digital Jo…
+### HOMICIDE on 2025-11-07 01:31
+- Location: The Times of India
+- Description: A 64-year-old grip, James 'Trapper' McEvoy, was electrocuted on the set of the independent horror film 'Kill Me Now' in Louisiana. McEvoy was operating a bucket truck when he struck an active power line. The International Alliance of Theatrical Stage Employee…
 
 
-### HOMICIDE on 2025-11-07 00:56
-- Location: Freerepublic.com
-- Description: Former NFL star Antonio Brown has been arrested on an attempted murder charge stemming from a shooting after a celebrity boxing event in Miami, police confirmed Thursday. Miami police spokesperson Mike Vega said Brown, 37, was taken into custody by U.S. Marsh…
+### OTHER on 2025-11-07 01:26
+- Location: Balloon-juice.com
+- Description: Russia has ever so helpfully announced their next set of war crimes before they’ve committed them. Russia announces its future war crimes: [image or embed] — Kate from Kharkiv (@kateinkharkiv.bsky.social) November 6, 2025 at 7:59 AM Always so helpful. Here’s …
 
 
-### HOMICIDE on 2025-11-07 00:55
-- Location: Freerepublic.com
-- Description: A Seattle sex offender who had previously been sentenced to life in prison without the possibility of parole is now accused of the 1994 murder of 14-year-old Tanya Frazier. On Thursday, King County prosecutors charged Mark Anthony Russ, 57, with one count of …
+### HOMICIDE on 2025-11-07 01:25
+- Location: Marca
+- Description: Mental health has emerged as a pressing issue in the National Football League (NFL), a stark reminder following the tragic death of Marshawn Kneeland, the Dallas Cowboys&apos; defe
 
 
-### OTHER on 2025-11-07 00:53
-- Location: ABC News (AU)
-- Description: The funding will be used to provide more therapeutic services for young offenders as well as more caseworkers and bail accommodation in Moree.
+### OTHER on 2025-11-07 01:21
+- Location: The Times of India
+- Description: An engineering graduate was arrested for sending bomb threat emails to 21 schools across India, including in Bengaluru and Mysuru. The accused, Rene Joshilda, allegedly used her ex-lover's name to implicate him in the crime. She was taken into Bengaluru polic…
 
-Analysis generated at: Sat Nov  8 01:04:57 UTC 2025
+Analysis generated at: Sat Nov  8 01:46:05 UTC 2025
