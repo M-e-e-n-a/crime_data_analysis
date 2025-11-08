@@ -1,10 +1,10 @@
 
-Loaded 69453 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-07 06:12:05
+Loaded 69512 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-07 12:18:24
 
 Incidents by source:
 source
-newsapi           69352
+newsapi           69411
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-11-07 06:12
-- Location: ABC News (AU)
-- Description: Homicide detectives are investigating the death of a man whose body was found on a walking track near Lismore.
+### OTHER on 2025-11-07 12:18
+- Location: Westernjournal.com
+- Description: Mamdani may, with NYC Council approval, reallocate funding given to other projects, but taxing and borrowing remain under the state’s purview.
 
 
-### OTHER on 2025-11-07 06:11
-- Location: ABC News (AU)
-- Description: Three men are in a critical condition after a car veered onto a footpath where they were standing following a collision with another vehicle in Sydney's west.
+### OTHER on 2025-11-07 12:15
+- Location: Twistedsifter.com
+- Description: Forgiveness might heal a relationship—but it won’t magically get your iPad back from Walmart.
 
 
-### ROBBERY/THEFT on 2025-11-07 06:06
-- Location: ABC News (AU)
-- Description: A former police officer who travelled more than 700 kilometres to steal $100,000 from a convicted sex offender has been jailed for 10 years.
+### HOMICIDE on 2025-11-07 12:09
+- Location: BroBible
+- Description: Antonio Brown’s social media presence ultimately led to his downfall. Back in May, Brown was accused of shooting at a man after a scuffle at an influencer boxing event in Miami. The Miami PD immediately filed a warrant for Brown’s arrest. “According to the wa…
 
 
-### SHOOTING on 2025-11-07 06:00
-- Location: Newser
-- Description: Former NFL star Antonio Brown has been captured after more than four months on the run, Miami authorities said Thursday. Brown, who was wanted in connection with a shooting outside an amateur boxing match in Miami's Little Haiti neighborhood on May 16, was ta…
+### OTHER on 2025-11-07 12:05
+- Location: Boredpanda.com
+- Description: The teenage daughter, who had filed a lawsuit against the father, said she wasn’t surprised he took his own life.
 
 
-### ROBBERY/THEFT on 2025-11-07 06:00
-- Location: Naturalnews.com
-- Description: The FBI announced the arrest of 19 individuals allegedly involved in an elaborate international scam that targeted over 500 seniors, resulting in approximately $40 million in losses. The scheme, uncovered by the San Diego “Elder Justice” task force, involved …
+### OTHER on 2025-11-07 12:04
+- Location: DW (English)
+- Description: The monthly Deutschlandtrend survey has looked into the debate about the perception of urban space in Germany. It found that the number of people who no longer feel safe in public has risen. A statement on migration and public safety by German Chancellor Frie…
 
-Analysis generated at: Sat Nov  8 06:20:03 UTC 2025
+Analysis generated at: Sat Nov  8 12:26:07 UTC 2025
