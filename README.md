@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Nov  9 01:56:11 UTC 2025
+Last updated: Sun Nov  9 06:20:40 UTC 2025
 
 ## Latest Analysis
 
-Loaded 69617 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-08 01:51:56
+Loaded 69655 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-08 06:16:34
 
 Incidents by source:
 source
-newsapi           69516
+newsapi           69554
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-11-08 01:51
-- Location: HuffPost
-- Description: The ruling from U.S. District Court Judge Karin Immergut, a Trump appointee, followed a three-day trial last week.
+### OTHER on 2025-11-08 06:16
+- Location: The Times of India
+- Description: A Dombivli architect was allegedly defrauded of over ₹92 lakh by a man she met on Instagram. The accused, Shailesh Ramgude, befriended her, promised marriage, and then fabricated a story about an ED raid to extort money. He claimed seized gold and cash needed…
 
 
-### HOMICIDE on 2025-11-08 01:37
-- Location: Bleeding Cool News
-- Description: In tonight's episode of CBS and Showrunners Brandon Sonnier and Brandon Margolis' Donnie Wahlberg and Sonequa Martin-Green-starring Boston Blue, Lena (Martin-Green) and Danny (Wahlberg) investigate the murder of a shop owner, the Silver family honors patriarc…
+### OTHER on 2025-11-08 06:16
+- Location: ABC News (AU)
+- Description: Police say the one-year-old girl was playing with other children when she was clipped by a freight train near Narrabri, on the New South Wales north-western slopes.
 
 
-### ASSAULT on 2025-11-08 01:33
-- Location: soompi
-- Description: “Light Beyond the Reed” wastes no time pulling viewers into its haunting world, opening with a chilling sequence that sets the tone for its emotionally charged story. Starring Vin Zhang as Qin Nan and Mao Xiao Tong as Ye Si Bei, the drama follows a woman whos…
+### OTHER on 2025-11-08 06:14
+- Location: The-independent.com
+- Description: The rumours of a rift with co-star Millie Bobby Brown has come weeks after the release of Lily Allen’s album ‘West End Girl’ which painted David Harbour as callous and cruel. For years, the ‘Stranger Things’ star has used work as a lifeline while dealing with…
 
 
-### HOMICIDE on 2025-11-08 01:31
-- Location: CBS News
-- Description: Deputy Devin Jaramillo responded to a traffic crash when he was "brutally attacked and murdered," Miami-Dade Sheriff Rosie Cordero-Stutz said.
+### ROBBERY/THEFT on 2025-11-08 06:13
+- Location: The Times of India
+- Description: The NIA filed a supplementary charge sheet in the Madhya Pradesh terror conspiracy case, adding one new suspect and fresh charges against five others linked to Hizb-ut-Tahrir. This brings the total accused to 18, with investigators alleging involvement in a t…
 
 
-### OTHER on 2025-11-08 01:16
-- Location: HuffPost
-- Description: The Associated Press learned the identities of four of the men who were slain, providing the first detailed account of those who died in the U.S. military strikes.
+### OTHER on 2025-11-08 06:10
+- Location: The Times of India
+- Description: AIIMS Raipur's leadership, including Executive Director Lt Gen (Dr) Ashok Jindal, showcased advancements in simulation-based healthcare training at the prestigious S3 Conference 2025 in Singapore. Highlighting simulation as crucial for public health and emerg…
 
-Analysis generated at: Sun Nov  9 01:56:11 UTC 2025
+Analysis generated at: Sun Nov  9 06:20:40 UTC 2025
