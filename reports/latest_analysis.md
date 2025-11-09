@@ -1,10 +1,10 @@
 
-Loaded 69612 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-08 00:57:36
+Loaded 69617 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-08 01:51:56
 
 Incidents by source:
 source
-newsapi           69511
+newsapi           69516
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-11-08 00:57
-- Location: Financial Post
-- Description: EDGEWOOD, BRITISH COLUMBIA, CANADA — It had taken more than 10 months before the first gunshots marked the beginning of a cull of hundreds of ostriches at a British Columbia farm that was ordered during an avian flu outbreak last New Year’s Eve. But it was ov…
+### OTHER on 2025-11-08 01:51
+- Location: HuffPost
+- Description: The ruling from U.S. District Court Judge Karin Immergut, a Trump appointee, followed a three-day trial last week.
 
 
-### HOMICIDE on 2025-11-08 00:50
-- Location: CNN
-- Description: Authorities are considering whether to charge an Indiana homeowner who they say shot and killed a woman working as a house cleaner after she mistakenly went to the wrong address.
+### HOMICIDE on 2025-11-08 01:37
+- Location: Bleeding Cool News
+- Description: In tonight's episode of CBS and Showrunners Brandon Sonnier and Brandon Margolis' Donnie Wahlberg and Sonequa Martin-Green-starring Boston Blue, Lena (Martin-Green) and Danny (Wahlberg) investigate the murder of a shop owner, the Silver family honors patriarc…
 
 
-### HOMICIDE on 2025-11-08 00:45
-- Location: ABC News
-- Description: Authorities are considering whether to charge an Indiana homeowner who they say shot and killed a woman working as a house cleaner after she came to the wrong address
+### ASSAULT on 2025-11-08 01:33
+- Location: soompi
+- Description: “Light Beyond the Reed” wastes no time pulling viewers into its haunting world, opening with a chilling sequence that sets the tone for its emotionally charged story. Starring Vin Zhang as Qin Nan and Mao Xiao Tong as Ye Si Bei, the drama follows a woman whos…
 
 
-### OTHER on 2025-11-08 00:21
-- Location: Boston Herald
-- Description: Lamar Cook, 45, of Springfield, served since 2023 as the deputy director of Healey’s western Massachusetts office until late last month when he was arrested and charged with trafficking cocaine.
+### HOMICIDE on 2025-11-08 01:31
+- Location: CBS News
+- Description: Deputy Devin Jaramillo responded to a traffic crash when he was "brutally attacked and murdered," Miami-Dade Sheriff Rosie Cordero-Stutz said.
 
 
-### OTHER on 2025-11-08 00:18
-- Location: Newgeography.com
-- Description: The greatest threat to the United States is self-created and centered in urban areas. Having survived the pandemic and the 2020 “summer of love”, America’s cities — most critically, New York — are adopting politics that seem designed to make the much-feared “…
+### OTHER on 2025-11-08 01:16
+- Location: HuffPost
+- Description: The Associated Press learned the identities of four of the men who were slain, providing the first detailed account of those who died in the U.S. military strikes.
 
-Analysis generated at: Sun Nov  9 01:11:19 UTC 2025
+Analysis generated at: Sun Nov  9 01:56:11 UTC 2025
