@@ -44,4 +44,4 @@ bution.svg)
 - Location: CBC News
 - Description: A 22-year member of the Winnipeg Police Service leaked information to associates involved in illicit activity, took and shared a photo of a nearly naked dead woman, and used his connections to get contacts out of tickets in exchange for goods including whisky…
 
-Analysis generated at: Sun Nov  9 12:25:58 UTC 2025
+Analysis generated at: Sun Nov  9 12:43:16 UTC 2025
