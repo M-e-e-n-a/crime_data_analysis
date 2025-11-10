@@ -1,10 +1,10 @@
 
-Loaded 69789 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-09 12:45:53
+Loaded 69829 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-09 18:17:21
 
 Incidents by source:
 source
-newsapi           69688
+newsapi           69728
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,30 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-11-09 12:45
-- Location: Whyevolutionistrue.com
-- Description: Welcome to Sunday (the Sabbath that was made for goyische cats), November 9, 2025, and National Scrapple Day. If you don’t know this food (and you won’t if you’re not American, it’s “a traditional mush of fried pork scraps and trimmings combined with cornmeal…
+### OTHER on 2025-11-09 18:17
+- Location: The Times of India
+- Description: India's adoption laws, failing to recognize transgender individuals, have prevented Prithika Yashini, a transgender police officer, from adopting. The Madras High Court, citing a lack of legislative mandate, dismissed her plea, highlighting a significant gap …
 
 
-### ASSAULT on 2025-11-09 12:29
-- Location: Sky.com
-- Description: Samir Zitouni, 48, known as Sam, was working on board the London North Eastern Railway (LNER) train from Doncaster to London when the attack began in Cambridgeshire on 1 November.
+### OTHER on 2025-11-09 18:16
+- Location: ABC News (AU)
+- Description: Crime has increased at several major Melbourne shopping centres with concerned communities calling for more action.
 
 
-### OTHER on 2025-11-09 12:20
-- Location: NPR
-- Description: "I didn't want to say immediately it was me," fifteen-year-old Pedro Elias Garzon Delvaux said. "With this photo there is a mystery, so you have to make it last."
+### OTHER on 2025-11-09 18:07
+- Location: The Times of India
+- Description: Ranchi is undergoing beautification efforts ahead of Jharkhand's Statehood Day and Janjatiya Gaurav Diwas on November 15. The Ranchi Municipal Corporation is restoring key sites linked to tribal icon Bhagwan Birsa Munda, including the Kokar Birsa Munda Memori…
 
 
-### OTHER on 2025-11-09 12:14
-- Location: The Atlantic
-- Description: A judge explains his reasons for resigning.
+### OTHER on 2025-11-09 18:06
+- Location: The Times of India
+- Description: Patna: The curtain has come down on high-stakes campaigning for the 122 assembly constituencies in Bihar, which will go to the polls in the second and.
 
 
-### HOMICIDE on 2025-11-09 12:08
-- Location: Dineshkhabar.com
-- Description: Dhangadhi: The District Court, Kailali, has released one of the two individuals accused in the murder of Sher Bahadur Chaudhary of Khamaura, Godavari Municipality-10, Kailali, on bail, while the other has been sent to judicial custody.
+### OTHER on 2025-11-09 18:03
+- Location: The Times of India
+- Description: Gaya: But for the profile and prospects of Rajesh Ram, Kutumba would have been just another name in Bihar’s long list of 243 assembly constituencies. .
 
-According to police, …
-
-Analysis generated at: Mon Nov 10 12:51:44 UTC 2025
+Analysis generated at: Mon Nov 10 18:21:31 UTC 2025
