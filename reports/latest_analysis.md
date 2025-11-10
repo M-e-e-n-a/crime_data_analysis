@@ -1,10 +1,10 @@
 
-Loaded 69788 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-09 12:29:00
+Loaded 69789 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-09 12:45:53
 
 Incidents by source:
 source
-newsapi           69687
+newsapi           69688
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -19,6 +19,11 @@ bution.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### OTHER on 2025-11-09 12:45
+- Location: Whyevolutionistrue.com
+- Description: Welcome to Sunday (the Sabbath that was made for goyische cats), November 9, 2025, and National Scrapple Day. If you don’t know this food (and you won’t if you’re not American, it’s “a traditional mush of fried pork scraps and trimmings combined with cornmeal…
+
 
 ### ASSAULT on 2025-11-09 12:29
 - Location: Sky.com
@@ -41,9 +46,4 @@ bution.svg)
 
 According to police, …
 
-
-### OTHER on 2025-11-09 12:00
-- Location: The Atlantic
-- Description: Amid the president’s fast-moving deportation campaign, the stories of most people being swept up are missed.
-
-Analysis generated at: Mon Nov 10 12:30:33 UTC 2025
+Analysis generated at: Mon Nov 10 12:51:44 UTC 2025
