@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Nov 10 01:11:29 UTC 2025
+Last updated: Mon Nov 10 01:57:28 UTC 2025
 
 ## Latest Analysis
 
-Loaded 69733 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-09 00:59:51
+Loaded 69739 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-09 01:29:46
 
 Incidents by source:
 source
-newsapi           69632
+newsapi           69638
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-11-09 00:59
-- Location: Freerepublic.com
-- Description: Maria Florinda Rios Perez was fatally shot after arriving at the wrong home for a house-cleaning appointment US officials are looking into whether to file charges against an Indiana homeowner who shot and killed a house cleaner who mistakenly showed up at the…
+### HOMICIDE on 2025-11-09 01:29
+- Location: Fox News
+- Description: North Carolina is mourning WakeMed campus police officer Roger Smith, who was shot and killed while protecting patients. The governor offered condolences to his family.
 
 
-### ASSAULT on 2025-11-09 00:56
-- Location: Breitbart News
-- Description: Current Democrat politicians like J.B. Pritzker, Gavin Newsom, and Kathy Hochul, who call for resistance against legitimate federal law enforcement, are flirting with the side previously filled by past Democrat insurrectionists.
-The post Exclusive—Rep. Brad K…
+### SHOOTING on 2025-11-09 01:20
+- Location: Thegatewaypundit.com
+- Description: If you need any more proof that the leftist media is the enemy of the people, look no further.
+The post WATCH: Liberal Media and MSNBC Props Up Wanted Man with Stolen Gun who Abandoned Child in Car to Attack CBP with Hammer and Rocks – Accuses Agents of Famil…
 
 
-### HOMICIDE on 2025-11-09 00:32
-- Location: Slashdot.org
-- Description: Four people dead after shooting at landscaping business, including suspectWOAI 4 dead after shooting at San Antonio landscape businessFOX 7 Austin 3 shot dead at landscape supply company in San Antonio, suspect 'down'abcnews.go.com SAPD: Man accused of fatall…
+### ASSAULT on 2025-11-09 01:19
+- Location: New Zealand Herald
+- Description: Security agencies will band together to find drugs, fight cartels - and heal communities.
 
 
-### OTHER on 2025-11-09 00:20
-- Location: New York Post
-- Description: The 2026 New York gubernatorial election will be “existential battle” to save New York and all of Western civilization from socialism, Rep. Elise Stefanik (D-NY) told The Post’s Rich Calder during a nearly 20-minute interview this week, excerpted below, discu…
+### OTHER on 2025-11-09 01:16
+- Location: Buzzfeed
+- Description: I'm truly speechless.View Entire Post ›
 
 
-### HOMICIDE on 2025-11-09 00:07
-- Location: NBC4 Washington
-- Description: Jayz Agnew, 13, was shot to death outside his home in Prince George’s County while he was raking leaves. His mom held a walk to honor his memory.
+### ASSAULT on 2025-11-09 01:14
+- Location: Fox News
+- Description: Multi-state terror investigation reveals encrypted messaging network connecting Michigan cell to New Jersey suspects planning domestic attacks and overseas travel.
 
-Analysis generated at: Mon Nov 10 01:11:29 UTC 2025
+Analysis generated at: Mon Nov 10 01:57:28 UTC 2025
