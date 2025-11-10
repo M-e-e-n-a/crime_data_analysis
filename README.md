@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Nov  9 18:18:52 UTC 2025
+Last updated: Mon Nov 10 01:11:29 UTC 2025
 
 ## Latest Analysis
 
-Loaded 69727 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-08 18:15:07
+Loaded 69733 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-09 00:59:51
 
 Incidents by source:
 source
-newsapi           69626
+newsapi           69632
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-11-08 18:15
-- Location: Aphyr.com
-- Description: None
+### HOMICIDE on 2025-11-09 00:59
+- Location: Freerepublic.com
+- Description: Maria Florinda Rios Perez was fatally shot after arriving at the wrong home for a house-cleaning appointment US officials are looking into whether to file charges against an Indiana homeowner who shot and killed a house cleaner who mistakenly showed up at the…
 
 
-### HOMICIDE on 2025-11-08 18:03
-- Location: The Times of India
-- Description: Two youths, Abhishek Kumar (20) and Preeti Kumari (18), were found hanging from a tree in Bihar's Samastipur district. Preeti's uncle alleges she was murdered after going missing and being found with Abhishek. Abhishek's family denies knowing Preeti and claim…
+### ASSAULT on 2025-11-09 00:56
+- Location: Breitbart News
+- Description: Current Democrat politicians like J.B. Pritzker, Gavin Newsom, and Kathy Hochul, who call for resistance against legitimate federal law enforcement, are flirting with the side previously filled by past Democrat insurrectionists.
+The post Exclusive—Rep. Brad K…
 
 
-### HOMICIDE on 2025-11-08 17:46
-- Location: NPR
-- Description: In interviews in villages on Venezuela's northeastern coast, from which some of the boats departed, residents and relatives said the dead men had been running drugs but were not narco-terrorists.
+### HOMICIDE on 2025-11-09 00:32
+- Location: Slashdot.org
+- Description: Four people dead after shooting at landscaping business, including suspectWOAI 4 dead after shooting at San Antonio landscape businessFOX 7 Austin 3 shot dead at landscape supply company in San Antonio, suspect 'down'abcnews.go.com SAPD: Man accused of fatall…
 
 
-### HOMICIDE on 2025-11-08 17:45
-- Location: CBC News
-- Description: A 27-year-old man has been arrested two years after the shooting death of Mohamed Ahmed, brother of the renowned Toronto musician and poet Mustafa Ahmed, said Toronto police.
+### OTHER on 2025-11-09 00:20
+- Location: New York Post
+- Description: The 2026 New York gubernatorial election will be “existential battle” to save New York and all of Western civilization from socialism, Rep. Elise Stefanik (D-NY) told The Post’s Rich Calder during a nearly 20-minute interview this week, excerpted below, discu…
 
 
-### OTHER on 2025-11-08 17:28
-- Location: Rlsbb.to
-- Description: Season 1, Episode 04 – Across the north of England, police close in on an organised crime gang targeting farms and stealing high-tech GPS systems worth hundreds of thousands of pounds. After months of painstaking detective work, coordination across multiple f…
+### HOMICIDE on 2025-11-09 00:07
+- Location: NBC4 Washington
+- Description: Jayz Agnew, 13, was shot to death outside his home in Prince George’s County while he was raking leaves. His mom held a walk to honor his memory.
 
-Analysis generated at: Sun Nov  9 18:18:52 UTC 2025
+Analysis generated at: Mon Nov 10 01:11:29 UTC 2025
