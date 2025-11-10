@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Nov 10 01:57:28 UTC 2025
+Last updated: Mon Nov 10 06:25:08 UTC 2025
 
 ## Latest Analysis
 
-Loaded 69739 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-09 01:29:46
+Loaded 69758 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-09 06:04:23
 
 Incidents by source:
 source
-newsapi           69638
+newsapi           69657
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-11-09 01:29
-- Location: Fox News
-- Description: North Carolina is mourning WakeMed campus police officer Roger Smith, who was shot and killed while protecting patients. The governor offered condolences to his family.
+### OTHER on 2025-11-09 06:04
+- Location: Associated Press
+- Description: Fifteen-year-old Pedro Elias Garzon Delvaux has become an internet sensation after an Associated Press photo captured him outside the Louvre on the day of a crown jewels heist. The image shows him in a fedora and three-piece suit, sparking online speculation …
 
 
-### SHOOTING on 2025-11-09 01:20
-- Location: Thegatewaypundit.com
-- Description: If you need any more proof that the leftist media is the enemy of the people, look no further.
-The post WATCH: Liberal Media and MSNBC Props Up Wanted Man with Stolen Gun who Abandoned Child in Car to Attack CBP with Hammer and Rocks – Accuses Agents of Famil…
+### OTHER on 2025-11-09 06:00
+- Location: The Irish Times
+- Description: A group of retired people ‘from different backgrounds and walks of life’ have formed a club to watch proceedings in the Central Criminal Court
 
 
-### ASSAULT on 2025-11-09 01:19
-- Location: New Zealand Herald
-- Description: Security agencies will band together to find drugs, fight cartels - and heal communities.
+### OTHER on 2025-11-09 05:47
+- Location: Equator.org
+- Description: The education and reeducation of a Mongolian reporter
 
 
-### OTHER on 2025-11-09 01:16
-- Location: Buzzfeed
-- Description: I'm truly speechless.View Entire Post ›
+### OTHER on 2025-11-09 05:40
+- Location: KHON2
+- Description: "When I hear about bodies being found where they're doing fingerprint identification, instead of photograph or in-person identification, it's a rage issue or...
 
 
-### ASSAULT on 2025-11-09 01:14
-- Location: Fox News
-- Description: Multi-state terror investigation reveals encrypted messaging network connecting Michigan cell to New Jersey suspects planning domestic attacks and overseas travel.
+### OTHER on 2025-11-09 05:19
+- Location: KTLA Los Angeles
+- Description: Surveillance video captured the moment a thief who posed as a customer at a Glendale clothing store escaped with thousands of dollars worth of merchandise...
 
-Analysis generated at: Mon Nov 10 01:57:28 UTC 2025
+Analysis generated at: Mon Nov 10 06:25:08 UTC 2025
