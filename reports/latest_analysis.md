@@ -1,10 +1,10 @@
 
-Loaded 69758 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-09 06:04:23
+Loaded 69788 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-09 12:29:00
 
 Incidents by source:
 source
-newsapi           69657
+newsapi           69687
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-11-09 06:04
-- Location: Associated Press
-- Description: Fifteen-year-old Pedro Elias Garzon Delvaux has become an internet sensation after an Associated Press photo captured him outside the Louvre on the day of a crown jewels heist. The image shows him in a fedora and three-piece suit, sparking online speculation …
+### ASSAULT on 2025-11-09 12:29
+- Location: Sky.com
+- Description: Samir Zitouni, 48, known as Sam, was working on board the London North Eastern Railway (LNER) train from Doncaster to London when the attack began in Cambridgeshire on 1 November.
 
 
-### OTHER on 2025-11-09 06:00
-- Location: The Irish Times
-- Description: A group of retired people ‘from different backgrounds and walks of life’ have formed a club to watch proceedings in the Central Criminal Court
+### OTHER on 2025-11-09 12:20
+- Location: NPR
+- Description: "I didn't want to say immediately it was me," fifteen-year-old Pedro Elias Garzon Delvaux said. "With this photo there is a mystery, so you have to make it last."
 
 
-### OTHER on 2025-11-09 05:47
-- Location: Equator.org
-- Description: The education and reeducation of a Mongolian reporter
+### OTHER on 2025-11-09 12:14
+- Location: The Atlantic
+- Description: A judge explains his reasons for resigning.
 
 
-### OTHER on 2025-11-09 05:40
-- Location: KHON2
-- Description: "When I hear about bodies being found where they're doing fingerprint identification, instead of photograph or in-person identification, it's a rage issue or...
+### HOMICIDE on 2025-11-09 12:08
+- Location: Dineshkhabar.com
+- Description: Dhangadhi: The District Court, Kailali, has released one of the two individuals accused in the murder of Sher Bahadur Chaudhary of Khamaura, Godavari Municipality-10, Kailali, on bail, while the other has been sent to judicial custody.
+
+According to police, …
 
 
-### OTHER on 2025-11-09 05:19
-- Location: KTLA Los Angeles
-- Description: Surveillance video captured the moment a thief who posed as a customer at a Glendale clothing store escaped with thousands of dollars worth of merchandise...
+### OTHER on 2025-11-09 12:00
+- Location: The Atlantic
+- Description: Amid the president’s fast-moving deportation campaign, the stories of most people being swept up are missed.
 
-Analysis generated at: Mon Nov 10 06:25:08 UTC 2025
+Analysis generated at: Mon Nov 10 12:30:33 UTC 2025
