@@ -1,10 +1,10 @@
 
-Loaded 69944 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-10 12:48:33
+Loaded 70010 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-10 18:17:00
 
 Incidents by source:
 source
-newsapi           69843
+newsapi           69909
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-11-10 12:48
-- Location: RTE
-- Description: An elderly Irish man killed in north London last May suffered traumatic brain injuries associated with kicking and stamping, the Old Bailey has heard.
-
-
-### HOMICIDE on 2025-11-10 12:39
+### HOMICIDE on 2025-11-10 18:17
 - Location: Sky.com
-- Description: A teenager has been sentenced to at least 16 years for murdering Harry Pitman on New Year's Eve in 2023.
+- Description: The suspect, Taleb A, is accused of driving a car into a crowded German Christmas market on 20 December 2024, killing five women and a nine-year-old boy.
 
 
-### HOMICIDE on 2025-11-10 12:33
-- Location: The Indian Express
-- Description: A G Ajeeth Kumar is a close associate of Jaga, who is the main accused in the July 15 murder of Bikla Shiva.
+### HOMICIDE on 2025-11-10 18:16
+- Location: New York Post
+- Description: As many as 100 teens packed a wild Long Island house party last week before a scuffle left a 15-year-old stabbed to death, police said.
 
 
-### DRUG RELATED on 2025-11-10 12:28
-- Location: Mediatakeout.com
-- Description: Rapper Rod Wave was taken into custody in Atlanta on multiple drug and weapon-related charges on Friday. He was charged on the same day he received his first-ever Grammy nomination for Best Song Written for Visual Media for “Sinners,” featured in the 2025 fil…
+### ASSAULT on 2025-11-10 18:08
+- Location: MSNBC
+- Description: A whole of accused Jan. 6 criminals have ended up in legal trouble again, despite Donald Trump's efforts to downplay the total.
 
 
-### OTHER on 2025-11-10 12:17
-- Location: BBC News
-- Description: Alexander McCartney was given a life sentence last year, with a minimum of 20 years in jail, for the online abuse of children and the manslaughter of a 12-year-old girl.
+### HOMICIDE on 2025-11-10 18:03
+- Location: The Times of India
+- Description: An 18-year-old pregnant college student's body was found in a septic tank in Assam's Jorhat district, four days after she went missing. Police arrested a 60-year-old man, Jagat Singh, as the prime accused, along with his sons and a pharmacist, for murder and …
 
-Analysis generated at: Tue Nov 11 12:50:46 UTC 2025
+
+### OTHER on 2025-11-10 17:57
+- Location: RTE
+- Description: US mediator Jared Kushner and Israeli Prime Minister Benjamin Netanyahu have held talks on the second phase of the Gaza ceasefire, as Washington intensified its efforts to ensure the fragile truce endures.
+
+Analysis generated at: Tue Nov 11 18:21:18 UTC 2025
