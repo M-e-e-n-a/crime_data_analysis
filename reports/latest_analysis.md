@@ -1,10 +1,10 @@
 
-Loaded 69829 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-09 18:17:21
+Loaded 69835 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-10 01:00:00
 
 Incidents by source:
 source
-newsapi           69728
+newsapi           69734
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-11-09 18:17
-- Location: The Times of India
-- Description: India's adoption laws, failing to recognize transgender individuals, have prevented Prithika Yashini, a transgender police officer, from adopting. The Madras High Court, citing a lack of legislative mandate, dismissed her plea, highlighting a significant gap …
+### OTHER on 2025-11-10 01:00
+- Location: ComicBook.com
+- Description: It's a testament to the power of animation and storytelling that these dark moments not only made it past the studio's strict censors, but are now essential, if disturbing, parts of movie history.
+The post 7 Incredibly Dark Disney Movie Moments I Still Can’t …
 
 
-### OTHER on 2025-11-09 18:16
+### OTHER on 2025-11-10 00:58
+- Location: The Hollywood Gossip
+- Description: Reading Time: 3 minutesDiddy has been accused of breaking some major rule behind bars. But did is he actually guilty in this case?
+Diddy Denies Breaking Any Prison Rules, Once Again Proclaims Innocence was originally published on The Hollywood Gossip.
+
+
+### OTHER on 2025-11-10 00:32
+- Location: BBC News
+- Description: A former leading figure in the Russian Orthodox Church breaks his silence after an ex-aide levels allegations against him.
+
+
+### OTHER on 2025-11-10 00:25
+- Location: BBC News
+- Description: Some residents in the heart of the South African city are living amid sewage in derelict buildings run by criminal gangs.
+
+
+### OTHER on 2025-11-10 00:11
 - Location: ABC News (AU)
-- Description: Crime has increased at several major Melbourne shopping centres with concerned communities calling for more action.
+- Description: A 15-year-old is unmasked as the "Fedora man" in a viral image taken outside the Louvre on the day of the crown jewels heist.
 
-
-### OTHER on 2025-11-09 18:07
-- Location: The Times of India
-- Description: Ranchi is undergoing beautification efforts ahead of Jharkhand's Statehood Day and Janjatiya Gaurav Diwas on November 15. The Ranchi Municipal Corporation is restoring key sites linked to tribal icon Bhagwan Birsa Munda, including the Kokar Birsa Munda Memori…
-
-
-### OTHER on 2025-11-09 18:06
-- Location: The Times of India
-- Description: Patna: The curtain has come down on high-stakes campaigning for the 122 assembly constituencies in Bihar, which will go to the polls in the second and.
-
-
-### OTHER on 2025-11-09 18:03
-- Location: The Times of India
-- Description: Gaya: But for the profile and prospects of Rajesh Ram, Kutumba would have been just another name in Bihar’s long list of 243 assembly constituencies. .
-
-Analysis generated at: Mon Nov 10 18:21:31 UTC 2025
+Analysis generated at: Tue Nov 11 01:09:24 UTC 2025
