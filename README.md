@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Nov 11 06:23:18 UTC 2025
+Last updated: Tue Nov 11 12:30:20 UTC 2025
 
 ## Latest Analysis
 
-Loaded 69879 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-10 06:20:51
+Loaded 69941 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-10 12:28:10
 
 Incidents by source:
 source
-newsapi           69778
+newsapi           69840
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-11-10 06:20
-- Location: The Indian Express
-- Description: The case was filed on the basis of a complaint by Deepak Kothari, the director of an NBFC, who said that Shilpa Shetty and Raj Kundra had approached him through an agent, seeking a business loan.
+### DRUG RELATED on 2025-11-10 12:28
+- Location: Mediatakeout.com
+- Description: Rapper Rod Wave was taken into custody in Atlanta on multiple drug and weapon-related charges on Friday. He was charged on the same day he received his first-ever Grammy nomination for Best Song Written for Visual Media for “Sinners,” featured in the 2025 fil…
 
 
-### OTHER on 2025-11-10 06:15
-- Location: ABC News (AU)
-- Description: Police believe a woman went to the aid of a child drowning in the creek, before also getting into difficulty on Monday afternoon.
-
-
-### OTHER on 2025-11-10 06:13
+### OTHER on 2025-11-10 12:17
 - Location: BBC News
-- Description: Harrow is due to see its last police front desk at Pinner Police Station close.
+- Description: Alexander McCartney was given a life sentence last year, with a minimum of 20 years in jail, for the online abuse of children and the manslaughter of a 12-year-old girl.
 
 
-### OTHER on 2025-11-10 06:11
-- Location: The Times of India
-- Description: Bengaluru police are investigating a Rs 2.16 crore cyber fraud where hackers infiltrated email communications between Group Pharmaceuticals and Dr Reddy's Laboratories. The fraudsters impersonated Group Pharmaceuticals officials, diverting the payment to a fr…
+### HOMICIDE on 2025-11-10 12:09
+- Location: ABC News
+- Description: The storm hit the Philippines, killing at least four people and displacing more than 1.4 million others.
 
 
-### OTHER on 2025-11-10 06:01
-- Location: BBC News
-- Description: One of the world's most prominent cyber-criminals speaks to the BBC in an exclusive interview.
+### OTHER on 2025-11-10 12:08
+- Location: ABC News
+- Description: President Donald Trump became the first commander-in-chief at a regular-season NFL game since 1978, attending Sunday's Commanders-Lions game in Landover, Maryland.
 
-Analysis generated at: Tue Nov 11 06:23:18 UTC 2025
+
+### ROBBERY/THEFT on 2025-11-10 12:00
+- Location: Legalinsurrection.com
+- Description: As the Grand Egyptian Museum Opens, an Oakland Museum is robbed of 1,000 Native American artifacts and 4 arrested in Louvre heist of royal jewels.
+The post After 20 Years, Egypt Unveils Monumental Museum Fit for the Pharaohs first appeared on Le·gal In·sur·re…
+
+Analysis generated at: Tue Nov 11 12:30:20 UTC 2025
