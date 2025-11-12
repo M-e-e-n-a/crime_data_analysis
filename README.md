@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Nov 12 06:22:44 UTC 2025
+Last updated: Wed Nov 12 12:30:55 UTC 2025
 
 ## Latest Analysis
 
-Loaded 70069 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-11 06:08:42
+Loaded 70124 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-11 12:30:00
 
 Incidents by source:
 source
-newsapi           69968
+newsapi           70023
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2025-11-11 06:08
-- Location: The Times of India
-- Description: Red Fort blast: Delhi Police are investigating a high-intensity explosion near the Red Fort, with initial findings suggesting a possible fidayeen (suicide) attack. Investigators believe the suspect shifted to this plan after a Faridabad module was busted, aim…
+### OTHER on 2025-11-11 12:30
+- Location: Mother Jones
+- Description: On the morning of August 13, Paulo Cesar Gamez Lira was pulling up to his mother’s house in Horizon City, Texas, when three unmarked cars blocked the driveway. Seven officers in plain clothes—some wearing masks, at least one armed—surrounded Gamez Lira’s truc…
 
 
-### OTHER on 2025-11-11 06:00
-- Location: Israelnationalnews.com
-- Description: American Jews should no longer contribute a penny to all the very large Jewish organizations that have served us so poorly and whose major priorities are their own pension plans, inflated salaries, and travel perks. Instead, they should focus asap on the acti…
+### HOMICIDE on 2025-11-11 12:29
+- Location: CBS News
+- Description: Mexican authorities arrested a former intelligence agent suspected of involvement in the 1994 assassination of presidential favorite Luis Donaldo Colosio.
 
 
-### OTHER on 2025-11-11 05:55
-- Location: The Indian Express
-- Description: The legal foundation of the ICJ opinion is unassailable, rooted in the Fourth Geneva Convention’s core mandate that an occupier must ensure that the territory is supplied with the essentials of daily life
+### OTHER on 2025-11-11 12:17
+- Location: BBC News
+- Description: A council has lost its legal battle with the government in a landmark High Court ruling.
 
 
-### ROBBERY/THEFT on 2025-11-11 05:46
-- Location: Johnnyjet.com
-- Description: Airport baggage theft can happen anywhere even in airports with tight security. A recent example comes from Denver International Airport (DIA) where police are searching for a man suspected of...
-The post Alleged Serial Baggage Thief Hits Major U.S. Airport –…
+### OTHER on 2025-11-11 12:04
+- Location: Al Jazeera English
+- Description: The arrest of a Ukrainian man in Italy has reignited an unsolved geopolitical crime drama.
 
 
-### OTHER on 2025-11-11 05:34
-- Location: Freerepublic.com
-- Description: Nothing that seems to make any sense on the surface or would appear to be what's commonly known as a 'next logical step' follows when you're talking about the mess that is the German government. Chancellor Friederich Merz's shaky coalition has only gotten wob…
+### OTHER on 2025-11-11 12:02
+- Location: Dineshkhabar.com
+- Description: Dhangadhi: Four Nepali nationals have been arrested at the Gaurifanta border crossing in Kailali with 52 tolas of gold and nearly one kilogram of silver. The individuals, from Kailali, Bardiya, and Surkhet, were apprehended by Indian police on Tuesday evening…
 
-Analysis generated at: Wed Nov 12 06:22:44 UTC 2025
+Analysis generated at: Wed Nov 12 12:30:55 UTC 2025
