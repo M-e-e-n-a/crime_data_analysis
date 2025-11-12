@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Nov 11 18:21:18 UTC 2025
+Last updated: Wed Nov 12 01:08:42 UTC 2025
 
 ## Latest Analysis
 
-Loaded 70010 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-10 18:17:00
+Loaded 70023 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-11 01:05:25
 
 Incidents by source:
 source
-newsapi           69909
+newsapi           69922
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-11-10 18:17
-- Location: Sky.com
-- Description: The suspect, Taleb A, is accused of driving a car into a crowded German Christmas market on 20 December 2024, killing five women and a nine-year-old boy.
-
-
-### HOMICIDE on 2025-11-10 18:16
-- Location: New York Post
-- Description: As many as 100 teens packed a wild Long Island house party last week before a scuffle left a 15-year-old stabbed to death, police said.
-
-
-### ASSAULT on 2025-11-10 18:08
-- Location: MSNBC
-- Description: A whole of accused Jan. 6 criminals have ended up in legal trouble again, despite Donald Trump's efforts to downplay the total.
-
-
-### HOMICIDE on 2025-11-10 18:03
+### OTHER on 2025-11-11 01:05
 - Location: The Times of India
-- Description: An 18-year-old pregnant college student's body was found in a septic tank in Assam's Jorhat district, four days after she went missing. Police arrested a 60-year-old man, Jagat Singh, as the prime accused, along with his sons and a pharmacist, for murder and …
+- Description: A blast near Delhi's Red Fort has led to a case registered under stringent laws. The explosion in a car claimed eight lives and injured several others. Union Home Minister Amit Shah confirmed the incident and assured a thorough investigation. Prime Minister N…
 
 
-### OTHER on 2025-11-10 17:57
-- Location: RTE
-- Description: US mediator Jared Kushner and Israeli Prime Minister Benjamin Netanyahu have held talks on the second phase of the Gaza ceasefire, as Washington intensified its efforts to ensure the fragile truce endures.
+### OTHER on 2025-11-11 01:00
+- Location: Thechronicle.com.gh
+- Description: Ghana is witnessing a worrying surge in kidnappings and human trafficking, threatening both national security and the country’s hard-earned reputation as a beacon of peace and stability in West Africa. If urgent and decisive action is not taken, the nation ri…
 
-Analysis generated at: Tue Nov 11 18:21:18 UTC 2025
+
+### ASSAULT on 2025-11-11 00:46
+- Location: BleepingComputer
+- Description: North Korean hackers from the KONNI activity cluster are abusing Google's Find Hub tool to track their targets' GPS positions and trigger remote factory resets of Android devices. [...]
+
+
+### HOMICIDE on 2025-11-11 00:33
+- Location: CBC News
+- Description: A teenager from Nasonworth has been sentenced to 3.5 years in a community-based rehabilitation and supervision program, for the stabbing death of his step-father last year, in the family home near Fredericton.
+
+
+### HOMICIDE on 2025-11-11 00:32
+- Location: CBC News
+- Description: Clayton Berard, 44, is charged with first-degree murder, attempted murder and aggravated assault in connection with attacks outside two central Edmonton homeless agencies on March 28, 2019.
+
+Analysis generated at: Wed Nov 12 01:08:42 UTC 2025
