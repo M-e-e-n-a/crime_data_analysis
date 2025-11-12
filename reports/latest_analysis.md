@@ -1,10 +1,10 @@
 
-Loaded 70127 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-11 12:44:11
+Loaded 70212 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-11 18:20:07
 
 Incidents by source:
 source
-newsapi           70026
+newsapi           70111
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,30 +20,27 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-11-11 12:44
-- Location: Protothema.gr
-- Description: A new vendetta mirrors a society where gun ownership Is a "tradition" and revenge a "justification"
-The post From gunshots to carnage: The blood feud in Vorizia and crime in mountainous Crete appeared first on ProtoThema English.
+### ROBBERY/THEFT on 2025-11-11 18:20
+- Location: ARTnews
+- Description: The National Museum of Damascus closed temporarily this week following the audacious theft of several artifacts from its classical department,
 
 
-### ROBBERY/THEFT on 2025-11-11 12:35
-- Location: Malwarebytes.com
-- Description: Stolen iPhones are hard to hack, so thieves are phishing the owners instead. How fake ‘Find My’ messages trick victims into sharing their Apple ID login.
+### OTHER on 2025-11-11 18:08
+- Location: KXLY Spokane
+- Description: POST FALLS, Idaho -- Post Falls Police say a homeless man got ahold of an excavator early Tuesday morning and used it to destroy a brand new house.
 
 
-### DRUG RELATED on 2025-11-11 12:31
-- Location: Breitbart News
-- Description: Rapper Rod Wave was arrested on weapon and drug charges in Atlanta on Friday, the same day he was nominated for his first Grammy.
-The post Rapper Rod Wave Arrested on Drug, Weapon Charges Same Day as Grammy Nomination appeared first on Breitbart.
+### SHOOTING on 2025-11-11 18:07
+- Location: Fox News
+- Description: Twin 4-year-olds in critical condition after allegedly shooting themselves with gun left under couch cushion.
 
 
-### OTHER on 2025-11-11 12:30
-- Location: Mother Jones
-- Description: On the morning of August 13, Paulo Cesar Gamez Lira was pulling up to his mother’s house in Horizon City, Texas, when three unmarked cars blocked the driveway. Seven officers in plain clothes—some wearing masks, at least one armed—surrounded Gamez Lira’s truc…
+### HOMICIDE on 2025-11-11 18:06
+- Location: Boston Herald
+- Description: The Caesar Files let some families know what became of disappeared loved ones.
 
 
-### HOMICIDE on 2025-11-11 12:29
-- Location: CBS News
-- Description: Mexican authorities arrested a former intelligence agent suspected of involvement in the 1994 assassination of presidential favorite Luis Donaldo Colosio.
+### HOMICIDE on 2025-11-11 18:00
+- Location: Spoilertv.com
 
-Analysis generated at: Wed Nov 12 12:51:59 UTC 2025
+Analysis generated at: Wed Nov 12 18:21:52 UTC 2025
