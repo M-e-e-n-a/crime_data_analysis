@@ -1,10 +1,10 @@
 
-Loaded 70028 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-11 01:45:00
+Loaded 70069 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-11 06:08:42
 
 Incidents by source:
 source
-newsapi           69927
+newsapi           69968
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-11-11 01:45
+### ROBBERY/THEFT on 2025-11-11 06:08
+- Location: The Times of India
+- Description: Red Fort blast: Delhi Police are investigating a high-intensity explosion near the Red Fort, with initial findings suggesting a possible fidayeen (suicide) attack. Investigators believe the suspect shifted to this plan after a Faridabad module was busted, aim…
+
+
+### OTHER on 2025-11-11 06:00
+- Location: Israelnationalnews.com
+- Description: American Jews should no longer contribute a penny to all the very large Jewish organizations that have served us so poorly and whose major priorities are their own pension plans, inflated salaries, and travel perks. Instead, they should focus asap on the acti…
+
+
+### OTHER on 2025-11-11 05:55
 - Location: The Indian Express
-- Description: Over a dozen vehicles were gutted in fire, and occupants killed. Moments later, body parts were scattered up to 100 metres from the spot.
+- Description: The legal foundation of the ICJ opinion is unassailable, rooted in the Fourth Geneva Convention’s core mandate that an occupier must ensure that the territory is supplied with the essentials of daily life
 
 
-### OTHER on 2025-11-11 01:32
+### ROBBERY/THEFT on 2025-11-11 05:46
+- Location: Johnnyjet.com
+- Description: Airport baggage theft can happen anywhere even in airports with tight security. A recent example comes from Denver International Airport (DIA) where police are searching for a man suspected of...
+The post Alleged Serial Baggage Thief Hits Major U.S. Airport –…
+
+
+### OTHER on 2025-11-11 05:34
 - Location: Freerepublic.com
-- Description: House Select Subcommittee on January 6 Chairman Barry Loudermilk on Monday sent a letter to the Secret Service requesting transcribed interviews with Secret Service agents who were at the Democratic National Committee (DNC) before and after the mysterious pip…
+- Description: Nothing that seems to make any sense on the surface or would appear to be what's commonly known as a 'next logical step' follows when you're talking about the mess that is the German government. Chancellor Friederich Merz's shaky coalition has only gotten wob…
 
-
-### OTHER on 2025-11-11 01:26
-- Location: Fox News
-- Description: A Beloit College student says she and classmates have been blocked from starting a new TPUSA chapter on campus and faced a harassment campaign that faculty has failed to address.
-
-
-### HOMICIDE on 2025-11-11 01:24
-- Location: New Zealand Herald
-- Description: Judge: 'If you had been complying with the law, this would never have happened.'
-
-
-### HOMICIDE on 2025-11-11 01:15
-- Location: KLAS - 8 News Now
-- Description: LAS VEGAS (KLAS) — The former adult film star accused of killing the father of her children drove with the victim’s cellphone to her Las Vegas residence...
-
-Analysis generated at: Wed Nov 12 01:53:16 UTC 2025
+Analysis generated at: Wed Nov 12 06:22:44 UTC 2025
