@@ -1,10 +1,10 @@
 
-Loaded 70269 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-12 06:21:11
+Loaded 70339 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-12 12:30:00
 
 Incidents by source:
 source
-newsapi           70168
+newsapi           70238
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2025-11-12 06:21
-- Location: The Times of India
-- Description: Consumers are unknowingly ingesting harmful chemicals like calcium carbide and ethylene gas used to artificially ripen fruits, especially papayas. These chemicals speed up ripening but pose serious health risks, including neurological problems and reduced nut…
+### OTHER on 2025-11-12 12:30
+- Location: Mother Jones
+- Description: In the winter of 1996, a cadre of police officers met an airplane as it landed in Portland, Oregon. Santa Claus had come to town.  It was the early years of what would come to be known as Santacon, and the plane carried a contingent of pranksters aiming to cr…
 
 
-### HOMICIDE on 2025-11-12 06:18
-- Location: Israelnationalnews.com
-- Description: Nicholas Lyn Ray of Texas is charged with making antisemitic death threats to Jewish conservative pundits.
+### ASSAULT on 2025-11-12 12:30
+- Location: The Atlantic
+- Description: How the plight of a few hundred birds in Canada became an all-out fight for freedom
 
 
-### HOMICIDE on 2025-11-12 06:16
-- Location: The Times of India
-- Description: The Supreme Court has ordered the immediate release of Delhi advocate Vikram Singh. He was arrested by the Gurugram police in connection with a murder case. The court directed his release on bail. Singh claims he was targeted after alleging custodial assault …
+### OTHER on 2025-11-12 12:25
+- Location: BBC News
+- Description: Argyle House starred as the police headquarters in the Netflix series, but it could be demolished for a new development.
 
 
-### OTHER on 2025-11-12 06:05
-- Location: Independent.ie
-- Description: From the IRA member he unknowingly trained, to the gangland figure he later exposed as a prolific sexual predator, Paul Williams has spent decades events that make headlines, and others that never see the light of day.
+### OTHER on 2025-11-12 12:24
+- Location: ABC News
+- Description: ABC News' Danny New shares the heartwarming story of how a viral social media clip helped Nacho the chihuahua find his forever home.
 
 
-### ROBBERY/THEFT on 2025-11-12 06:04
-- Location: Globalsecurity.org
-- Description: Amid rapidly inflating military expenditures, ever-more-sophisticated trafficking networks and the emergence of technologies, such as 3D-printed weapons, senior United Nations and civil society leaders urged more robust action to stem the bloody and destabili…
+### HOMICIDE on 2025-11-12 12:24
+- Location: The Federalist
+- Description: Gun control advocates often claim that guns are the leading cause of death among children — but that is false.
 
-Analysis generated at: Thu Nov 13 06:23:31 UTC 2025
+Analysis generated at: Thu Nov 13 12:31:28 UTC 2025
