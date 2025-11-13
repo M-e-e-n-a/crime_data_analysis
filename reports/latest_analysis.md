@@ -1,10 +1,10 @@
 
-Loaded 70341 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-12 12:43:21
+Loaded 70434 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-12 18:17:48
 
 Incidents by source:
 source
-newsapi           70240
+newsapi           70333
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-11-12 12:43
-- Location: RT
-- Description: A Ukrainian man facing forced conscription has reportedly shot and wounded two draft officers Read Full Article at RT.com
+### OTHER on 2025-11-12 18:17
+- Location: ABC News
+- Description: Oscar-winning actor Matthew McConaughey has teamed up with AI company ElevenLabs to create a digital replica of his voice.
 
 
-### DRUG RELATED on 2025-11-12 12:36
-- Location: Mediatakeout.com
-- Description: New details have emerged about Rod Wave’s arrest last week. Rapper Rod Wave was taken into custody in Atlanta on November 7 after police allegedly discovered firearms, drugs, and suspected lean during a traffic stop. According to reports from Atlanta News Fir…
+### OTHER on 2025-11-12 18:17
+- Location: ABC News
+- Description: Video appears to show a San Francisco commuter train operator falling asleep at the controls while the train traveled up to 50 mph, throwing passengers back and forth.
 
 
-### ASSAULT on 2025-11-12 12:30
-- Location: The Atlantic
-- Description: How the plight of a few hundred birds in Canada became an all-out fight for freedom
+### HOMICIDE on 2025-11-12 18:14
+- Location: New York Post
+- Description: “This gang member on El Salvador’s most wanted list is a perfect example of ICE targeting the worst of the worst," DHS Assistant Secretary Tricia McLaughlin said.
 
 
-### OTHER on 2025-11-12 12:30
-- Location: Mother Jones
-- Description: In the winter of 1996, a cadre of police officers met an airplane as it landed in Portland, Oregon. Santa Claus had come to town.  It was the early years of what would come to be known as Santacon, and the plane carried a contingent of pranksters aiming to cr…
+### OTHER on 2025-11-12 18:13
+- Location: The Hollywood Gossip
+- Description: Reading Time: 3 minutesThe House Oversight Committee has released never-before-seen emails in which Jeffrey Epstein describes his relationship with Donald Trump.
+Jeffrey Epstein Says Trump ‘Knew About the Girls,’ Spent Several Hours With … was originally publ…
 
 
-### OTHER on 2025-11-12 12:25
-- Location: BBC News
-- Description: Argyle House starred as the police headquarters in the Netflix series, but it could be demolished for a new development.
+### HOMICIDE on 2025-11-12 18:09
+- Location: Rolling Out
+- Description: Former NFL star wide receiver Antonio Brown will be released on $25,000 bail and must wear a GPS ankle monitor on an attempted murder charge in Florida, a judge ordered Wednesday. Brown, 37, has pleaded not guilty to the second-degree attempted murder charge,…
 
-Analysis generated at: Thu Nov 13 12:52:20 UTC 2025
+Analysis generated at: Thu Nov 13 18:21:30 UTC 2025
