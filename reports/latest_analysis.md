@@ -1,10 +1,10 @@
 
-Loaded 70446 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-13 00:49:48
+Loaded 70447 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-13 01:53:01
 
 Incidents by source:
 source
-newsapi           70345
+newsapi           70346
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -19,6 +19,11 @@ bution.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### OTHER on 2025-11-13 01:53
+- Location: Electronicintifada.net
+- Description: Testimonies reflect systematic policy, rather than isolated incidents, says human rights groups.
+
 
 ### HOMICIDE on 2025-11-13 00:49
 - Location: Radaronline.com
@@ -39,9 +44,4 @@ bution.svg)
 - Location: ABC News
 - Description: A song created through artificial intelligence has made history by topping a Billboard country music chart, sending shockwaves through the music industry.
 
-
-### ASSAULT on 2025-11-13 00:21
-- Location: BBC News
-- Description: As France marks 10 years since the Paris attacks, an ex-girlfriend of a jihadist survivor is arrested for an alleged plot of her own.
-
-Analysis generated at: Fri Nov 14 01:08:21 UTC 2025
+Analysis generated at: Fri Nov 14 01:54:12 UTC 2025
