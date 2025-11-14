@@ -44,4 +44,4 @@ bution.svg)
 - Location: YLE News
 - Description: Police expected an increase in reported cases after changes to the Sexual Offences Act came into force at the beginning of 2023, but a department spokesperson still describes the increase as "significant".
 
-Analysis generated at: Fri Nov 14 12:30:27 UTC 2025
+Analysis generated at: Fri Nov 14 12:50:05 UTC 2025
