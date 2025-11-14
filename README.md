@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Nov 13 18:21:30 UTC 2025
+Last updated: Fri Nov 14 01:08:21 UTC 2025
 
 ## Latest Analysis
 
-Loaded 70434 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-12 18:17:48
+Loaded 70446 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-13 00:49:48
 
 Incidents by source:
 source
-newsapi           70333
+newsapi           70345
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-11-12 18:17
+### HOMICIDE on 2025-11-13 00:49
+- Location: Radaronline.com
+- Description: Golden State Killer Joseph DeAngelo's miniscule manhood helped tie him to a series of crimes, a new book reveals for the first time.
+
+
+### OTHER on 2025-11-13 00:39
+- Location: CBC News
+- Description: Technical Safety B.C. says in  an investigation report  into the May 31 incident that the patron fell about two metres when the Zipper ride was activated prematurely during unloading, which "ejected the unsecured rider onto the ground below."
+
+
+### OTHER on 2025-11-13 00:39
 - Location: ABC News
-- Description: Oscar-winning actor Matthew McConaughey has teamed up with AI company ElevenLabs to create a digital replica of his voice.
+- Description: White House press secretary Karoline Leavitt told reporters on Wednesday that Jeffrey Epstein's emails referring to President Trump as the "dog that hasn't barked" prove Trump "did nothing wrong."
 
 
-### OTHER on 2025-11-12 18:17
+### OTHER on 2025-11-13 00:29
 - Location: ABC News
-- Description: Video appears to show a San Francisco commuter train operator falling asleep at the controls while the train traveled up to 50 mph, throwing passengers back and forth.
+- Description: A song created through artificial intelligence has made history by topping a Billboard country music chart, sending shockwaves through the music industry.
 
 
-### HOMICIDE on 2025-11-12 18:14
-- Location: New York Post
-- Description: “This gang member on El Salvador’s most wanted list is a perfect example of ICE targeting the worst of the worst," DHS Assistant Secretary Tricia McLaughlin said.
+### ASSAULT on 2025-11-13 00:21
+- Location: BBC News
+- Description: As France marks 10 years since the Paris attacks, an ex-girlfriend of a jihadist survivor is arrested for an alleged plot of her own.
 
-
-### OTHER on 2025-11-12 18:13
-- Location: The Hollywood Gossip
-- Description: Reading Time: 3 minutesThe House Oversight Committee has released never-before-seen emails in which Jeffrey Epstein describes his relationship with Donald Trump.
-Jeffrey Epstein Says Trump ‘Knew About the Girls,’ Spent Several Hours With … was originally publ…
-
-
-### HOMICIDE on 2025-11-12 18:09
-- Location: Rolling Out
-- Description: Former NFL star wide receiver Antonio Brown will be released on $25,000 bail and must wear a GPS ankle monitor on an attempted murder charge in Florida, a judge ordered Wednesday. Brown, 37, has pleaded not guilty to the second-degree attempted murder charge,…
-
-Analysis generated at: Thu Nov 13 18:21:30 UTC 2025
+Analysis generated at: Fri Nov 14 01:08:21 UTC 2025
