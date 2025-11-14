@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Nov 14 12:50:05 UTC 2025
+Last updated: Fri Nov 14 18:21:22 UTC 2025
 
 ## Latest Analysis
 
-Loaded 70564 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-13 12:30:00
+Loaded 70654 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-13 18:17:34
 
 Incidents by source:
 source
-newsapi           70463
+newsapi           70553
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2025-11-13 12:30
-- Location: The Atlantic
-- Description: Under Trump, progressives have embraced the rhetoric of “moral clarity.” It won’t help their cause.
+### OTHER on 2025-11-13 18:17
+- Location: ABC News
+- Description: Under an unusual state law in North Carolina, known as "Alienation of Affection," the woman was able to sue the influencer for allegedly ruining her marriage.
 
 
-### OTHER on 2025-11-13 12:30
-- Location: Mother Jones
-- Description: This article first appeared on The War Horse, an award-winning nonprofit news organization educating the public on military service. Subscribe to their newsletter. The caravan of executions started with a US Army veteran in March. It continued in May with a f…
+### OTHER on 2025-11-13 18:15
+- Location: Harvard School of Engineering and Applied Sciences
+- Description: Extensive law enforcement career marked by strong community collaboration.
 
 
-### OTHER on 2025-11-13 12:29
+### OTHER on 2025-11-13 18:12
 - Location: TVLine
-- Description: On TV this Thursday: The Secret Lives of Mormon Wives returns, Claire Danes headlines The Beast in Me, and 9-1-1, 9-1-1: Nashville and Grey's go on hiatus.
+- Description: Fifteen years before Gotham shed light on Bruce Wayne's pre-Batman days, another DC TV show sought to do the same, only for the series to never materialize.
 
 
-### ASSAULT on 2025-11-13 12:24
-- Location: Israelnationalnews.com
-- Description: In joint operation, security forces thwart terror attacks, arrest 40 terror suspects.
+### HOMICIDE on 2025-11-13 18:11
+- Location: Freerepublic.com
+- Description: An elderly former Ohio State University professor allegedly murdered his wife — and then tried to kill himself and his dog — after a woman he met on a dating app threatened to release nude photos of him in a $15,000 sextortion sting, according to police. Jame…
 
 
-### OTHER on 2025-11-13 12:20
-- Location: YLE News
-- Description: Police expected an increase in reported cases after changes to the Sexual Offences Act came into force at the beginning of 2023, but a department spokesperson still describes the increase as "significant".
+### ASSAULT on 2025-11-13 18:08
+- Location: Breitbart News
+- Description: A migrant is accused of attacking a coworker with a concrete saw at a construction site in Chicago, Illinois.
+The post Chicago: Migrant Accused of Attacking Coworker with Running Concrete Saw appeared first on Breitbart.
 
-Analysis generated at: Fri Nov 14 12:50:05 UTC 2025
+Analysis generated at: Fri Nov 14 18:21:22 UTC 2025
