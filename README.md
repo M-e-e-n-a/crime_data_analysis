@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Nov 15 01:07:04 UTC 2025
+Last updated: Sat Nov 15 01:49:49 UTC 2025
 
 ## Latest Analysis
 
-Loaded 70676 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-14 01:03:48
+Loaded 70683 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-14 01:49:26
 
 Incidents by source:
 source
-newsapi           70575
+newsapi           70582
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,48 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-11-14 01:03
-- Location: Balloon-juice.com
-- Description: “I’ve come to this anti-vax conference with a message: that we need to be more boldly anti-vax,” said Mark Gorton, the head of the MAHA Institute…(he) called for the elimination of the childhood vaccination schedule & removal of vaccines from the market. www.…
+### SHOOTING on 2025-11-14 01:49
+- Location: New York Post
+- Description: Laney College Athletic Director and former football coach John Beam -- who was featured on Netflix's “Last Chance U” -- was shot on Thursday.
 
 
-### HOMICIDE on 2025-11-14 01:02
-- Location: Us Weekly
-- Description: Christian influencer Allie Beth Stuckey clapped back at Candace Owens’ claims that she doesn’t care about who murdered Charlie Kirk — and that the right-wing activist’s murder was an “inside job.” Stuckey — who has been identified by the Wall Street Journal a…
+### OTHER on 2025-11-14 01:43
+- Location: Freerepublic.com
+- Description: University of California, Irvine professor Charis E. Kubrin has been awarded the Stockholm Prize in Criminology -often considered the field’s Nobel Prize equivalent- for decades of research challenging the notion that immigrants bring crime to their new commu…
 
 
-### OTHER on 2025-11-14 01:00
-- Location: Bitcoinist
-- Description: Cybercriminals in Australia are exploiting the country’s official cybercrime reporting platform to impersonate federal police officers and steal cryptocurrency, prompting urgent warnings from national authorities. Related Reading: Ethereum’s Fusaka Upgrade Is…
+### OTHER on 2025-11-14 01:27
+- Location: Thechronicle.com.gh
+- Description: The Circuit Court 8 in Accra, presided over by His Honour Jojo Amoah Hagan, has granted bail to two persons accused of defrauding a public servant of GH¢600,000 under the guise of facilitating recruitment into the Ghana Armed Forces. The accused, Adjoa Owusua…
 
 
-### OTHER on 2025-11-14 01:00
-- Location: Human Rights Watch
-- Description: Click to expand Image
- 
+### OTHER on 2025-11-14 01:25
+- Location: ABC News
+- Description: President Donald Trump's administration is designating four left-wing European networks as terrorist organizations
 
 
+### OTHER on 2025-11-14 01:24
+- Location: CBS News
+- Description: Thousands of pages of Epstein documents released by the House Oversight Committee include emails and texts with close contacts that often touched on President Trump.
 
- 
- 
- 
-
- 
- 
- 
- 
- Vietnamese police questioning refugees in Thailand, March 14, 2024.
- © Private
- 
- 
-
-
- 
-Increased cooperation between Thai and Vietnamese authorities is putting Vietnamese refugees and asylum seekers in Thailand at he…
-
-
-### HOMICIDE on 2025-11-14 00:58
-- Location: Radaronline.com
-- Description: Four University of Idaho students were fatally stabbed at their off-campus home on November 13, 2022.
-
-Analysis generated at: Sat Nov 15 01:07:04 UTC 2025
+Analysis generated at: Sat Nov 15 01:49:49 UTC 2025
