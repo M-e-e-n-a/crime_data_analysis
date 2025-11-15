@@ -1,10 +1,10 @@
 
-Loaded 70654 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-13 18:17:34
+Loaded 70676 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-14 01:03:48
 
 Incidents by source:
 source
-newsapi           70553
+newsapi           70575
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,48 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-11-13 18:17
-- Location: ABC News
-- Description: Under an unusual state law in North Carolina, known as "Alienation of Affection," the woman was able to sue the influencer for allegedly ruining her marriage.
+### OTHER on 2025-11-14 01:03
+- Location: Balloon-juice.com
+- Description: “I’ve come to this anti-vax conference with a message: that we need to be more boldly anti-vax,” said Mark Gorton, the head of the MAHA Institute…(he) called for the elimination of the childhood vaccination schedule & removal of vaccines from the market. www.…
 
 
-### OTHER on 2025-11-13 18:15
-- Location: Harvard School of Engineering and Applied Sciences
-- Description: Extensive law enforcement career marked by strong community collaboration.
+### HOMICIDE on 2025-11-14 01:02
+- Location: Us Weekly
+- Description: Christian influencer Allie Beth Stuckey clapped back at Candace Owens’ claims that she doesn’t care about who murdered Charlie Kirk — and that the right-wing activist’s murder was an “inside job.” Stuckey — who has been identified by the Wall Street Journal a…
 
 
-### OTHER on 2025-11-13 18:12
-- Location: TVLine
-- Description: Fifteen years before Gotham shed light on Bruce Wayne's pre-Batman days, another DC TV show sought to do the same, only for the series to never materialize.
+### OTHER on 2025-11-14 01:00
+- Location: Bitcoinist
+- Description: Cybercriminals in Australia are exploiting the country’s official cybercrime reporting platform to impersonate federal police officers and steal cryptocurrency, prompting urgent warnings from national authorities. Related Reading: Ethereum’s Fusaka Upgrade Is…
 
 
-### HOMICIDE on 2025-11-13 18:11
-- Location: Freerepublic.com
-- Description: An elderly former Ohio State University professor allegedly murdered his wife — and then tried to kill himself and his dog — after a woman he met on a dating app threatened to release nude photos of him in a $15,000 sextortion sting, according to police. Jame…
+### OTHER on 2025-11-14 01:00
+- Location: Human Rights Watch
+- Description: Click to expand Image
+ 
 
 
-### ASSAULT on 2025-11-13 18:08
-- Location: Breitbart News
-- Description: A migrant is accused of attacking a coworker with a concrete saw at a construction site in Chicago, Illinois.
-The post Chicago: Migrant Accused of Attacking Coworker with Running Concrete Saw appeared first on Breitbart.
 
-Analysis generated at: Fri Nov 14 18:21:22 UTC 2025
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Vietnamese police questioning refugees in Thailand, March 14, 2024.
+ © Private
+ 
+ 
+
+
+ 
+Increased cooperation between Thai and Vietnamese authorities is putting Vietnamese refugees and asylum seekers in Thailand at he…
+
+
+### HOMICIDE on 2025-11-14 00:58
+- Location: Radaronline.com
+- Description: Four University of Idaho students were fatally stabbed at their off-campus home on November 13, 2022.
+
+Analysis generated at: Sat Nov 15 01:07:04 UTC 2025
