@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Nov 15 01:49:49 UTC 2025
+Last updated: Sat Nov 15 06:20:52 UTC 2025
 
 ## Latest Analysis
 
-Loaded 70683 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-14 01:49:26
+Loaded 70721 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-14 06:20:40
 
 Incidents by source:
 source
-newsapi           70582
+newsapi           70620
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-11-14 01:49
+### SHOOTING on 2025-11-14 06:20
 - Location: New York Post
-- Description: Laney College Athletic Director and former football coach John Beam -- who was featured on Netflix's “Last Chance U” -- was shot on Thursday.
+- Description: "They had a conversation where she didn't indicate that it was her son in the photograph, but she said it might be something that she could see him doing," NYPD Chief of Detectives Joseph Kenny said.
 
 
-### OTHER on 2025-11-14 01:43
-- Location: Freerepublic.com
-- Description: University of California, Irvine professor Charis E. Kubrin has been awarded the Stockholm Prize in Criminology -often considered the field’s Nobel Prize equivalent- for decades of research challenging the notion that immigrants bring crime to their new commu…
+### ROBBERY/THEFT on 2025-11-14 06:20
+- Location: The Star Online
+- Description: KUALA LUMPUR: The mother of Dutch model Ivana Esther Robert Smit is demanding that the government pay RM1.1mil within 48 hours following the High Court's order. Read full story
 
 
-### OTHER on 2025-11-14 01:27
-- Location: Thechronicle.com.gh
-- Description: The Circuit Court 8 in Accra, presided over by His Honour Jojo Amoah Hagan, has granted bail to two persons accused of defrauding a public servant of GH¢600,000 under the guise of facilitating recruitment into the Ghana Armed Forces. The accused, Adjoa Owusua…
+### SHOOTING on 2025-11-14 06:01
+- Location: Insurance Journal
+- Description: In an age of frequent mass shootings, insurers cannot escape coverage by arguing that each pull of the trigger was a “separate occurrence” unless the policy unambiguously says so, a federal appeals court held this week in a case stemming …
 
 
-### OTHER on 2025-11-14 01:25
-- Location: ABC News
-- Description: President Donald Trump's administration is designating four left-wing European networks as terrorist organizations
+### OTHER on 2025-11-14 06:00
+- Location: The Irish Times
+- Description: Garda Commissioner Justin Kelly noted the role played by international social media actors in the recent disturbances at the Citywest Hotel
 
 
-### OTHER on 2025-11-14 01:24
-- Location: CBS News
-- Description: Thousands of pages of Epstein documents released by the House Oversight Committee include emails and texts with close contacts that often touched on President Trump.
+### ROBBERY/THEFT on 2025-11-14 06:00
+- Location: Naturalnews.com
+- Description: A key associate and friend of Ukrainian President Volodymyr Zelensky, businessman Timur Mindich, fled Ukraine just before anti-corruption agents raided his and his associates’ properties. There are suspicions that he was tipped off by a corrupt official. The …
 
-Analysis generated at: Sat Nov 15 01:49:49 UTC 2025
+Analysis generated at: Sat Nov 15 06:20:52 UTC 2025
