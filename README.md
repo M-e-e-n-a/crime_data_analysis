@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Nov 15 06:20:52 UTC 2025
+Last updated: Sat Nov 15 12:26:07 UTC 2025
 
 ## Latest Analysis
 
-Loaded 70721 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-14 06:20:40
+Loaded 70762 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-14 12:16:52
 
 Incidents by source:
 source
-newsapi           70620
+newsapi           70661
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-11-14 06:20
-- Location: New York Post
-- Description: "They had a conversation where she didn't indicate that it was her son in the photograph, but she said it might be something that she could see him doing," NYPD Chief of Detectives Joseph Kenny said.
+### ASSAULT on 2025-11-14 12:16
+- Location: BBC News
+- Description: Lainie Williams, 17, died at the scene and a 38-year-old woman is being treated in hospital.
 
 
-### ROBBERY/THEFT on 2025-11-14 06:20
-- Location: The Star Online
-- Description: KUALA LUMPUR: The mother of Dutch model Ivana Esther Robert Smit is demanding that the government pay RM1.1mil within 48 hours following the High Court's order. Read full story
+### ASSAULT on 2025-11-14 12:11
+- Location: FOX 4 News
+- Description: A woman was attacked with a hammer while jogging in a Plano park Thursday afternoon, police reported.
 
 
-### SHOOTING on 2025-11-14 06:01
-- Location: Insurance Journal
-- Description: In an age of frequent mass shootings, insurers cannot escape coverage by arguing that each pull of the trigger was a “separate occurrence” unless the policy unambiguously says so, a federal appeals court held this week in a case stemming …
+### OTHER on 2025-11-14 12:06
+- Location: NBC News
+- Description: Trump faces criticism from some of his most loyal supporters.
 
 
-### OTHER on 2025-11-14 06:00
+### HOMICIDE on 2025-11-14 12:05
 - Location: The Irish Times
-- Description: Garda Commissioner Justin Kelly noted the role played by international social media actors in the recent disturbances at the Citywest Hotel
+- Description: Adnan Asic (60) was fatally assaulted at Old Navan Road, Blanchardstown on October 22nd, 2022
 
 
-### ROBBERY/THEFT on 2025-11-14 06:00
-- Location: Naturalnews.com
-- Description: A key associate and friend of Ukrainian President Volodymyr Zelensky, businessman Timur Mindich, fled Ukraine just before anti-corruption agents raided his and his associates’ properties. There are suspicions that he was tipped off by a corrupt official. The …
+### OTHER on 2025-11-14 12:02
+- Location: BBC News
+- Description: Sarah Taylor says there is "no vision for the Labour Party that's being really explained".
 
-Analysis generated at: Sat Nov 15 06:20:52 UTC 2025
+Analysis generated at: Sat Nov 15 12:26:07 UTC 2025
