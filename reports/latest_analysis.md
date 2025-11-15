@@ -1,10 +1,10 @@
 
-Loaded 70765 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-14 12:42:24
+Loaded 70852 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-14 18:15:06
 
 Incidents by source:
 source
-newsapi           70664
+newsapi           70751
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,31 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-11-14 12:42
-- Location: RTE
-- Description: A 45-year-old man has appeared in court charged with the murder of a 60-year-old Adnan Asic in Dublin three years ago.
+### SHOOTING on 2025-11-14 18:15
+- Location: KQED
+- Description: The Oakland Police Department said Friday morning that an arrest has been made but did not immediately release details. Beam was critically injured and hospitalized.
 
 
-### ROBBERY/THEFT on 2025-11-14 12:34
-- Location: TheJournal.ie
-- Description: The two men were arrested inside the terminal by gardaí attached to Dublin Airport.
+### HOMICIDE on 2025-11-14 18:04
+- Location: Catholicnewsagency.com
+- Description: Father Ernesto Baltazar Hernández Vilchis. / Credit: Courtesy of Our Lady of Guadalupe Parish/Screenshot
+
+Puebla, Mexico, Nov 14, 2025 / 13:04 pm (CNA).
+The Catholic Church has confirmed the discovery of the body of Father Ernesto Baltazar Hernández Vilchis, …
 
 
-### HOMICIDE on 2025-11-14 12:31
-- Location: Common Dreams
-- Description: oday, Donald Trump presides over his own Murder Incorporated, less a government than a death squad.Many brushed off his proclamation early in his second term that the Gulf of Mexico would henceforth be called the Gulf of America as a foolish, yet harmless, sh…
+### OTHER on 2025-11-14 18:01
+- Location: Starweekly.com.au
+- Description: Australia’s busiest airports are joining forces in a national stand against human trafficking and modern slavery, launching a high-impact awareness campaign across Melbourne, Sydney and Perth airports. The Can You See Me? campaign is led by global anti-traffi…
 
 
-### ASSAULT on 2025-11-14 12:16
-- Location: BBC News
-- Description: Lainie Williams, 17, died at the scene and a 38-year-old woman is being treated in hospital.
+### OTHER on 2025-11-14 17:59
+- Location: Freerepublic.com
+- Description: (Transcribed by TurboScribe.ai. Go Unlimited to remove this message.) These are videos the FBI has worked hard to make sure you haven't seen. They're from the Google Drive account of Thomas Crooks, the man who on July 13, 2024, showed up at the Butler County,…
 
 
-### ASSAULT on 2025-11-14 12:11
-- Location: FOX 4 News
-- Description: A woman was attacked with a hammer while jogging in a Plano park Thursday afternoon, police reported.
+### SHOOTING on 2025-11-14 17:54
+- Location: Boston Herald
+- Description: The arrest caps an intense manhunt for the suspected shooter.
 
-Analysis generated at: Sat Nov 15 12:43:36 UTC 2025
+Analysis generated at: Sat Nov 15 18:19:09 UTC 2025
