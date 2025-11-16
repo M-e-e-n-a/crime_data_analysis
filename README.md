@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Nov 16 12:26:27 UTC 2025
+Last updated: Sun Nov 16 12:43:28 UTC 2025
 
 ## Latest Analysis
 
-Loaded 70929 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-15 12:23:07
+Loaded 70930 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-15 12:26:40
 
 Incidents by source:
 source
-newsapi           70828
+newsapi           70829
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -23,6 +23,11 @@ bution.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### OTHER on 2025-11-15 12:26
+- Location: Al Jazeera English
+- Description: Chile's right wing is seeking to capitalise on concern over crime and immigration in its bid to replace Gabriel Boric.
+
 
 ### HOMICIDE on 2025-11-15 12:23
 - Location: BusinessLine
@@ -43,9 +48,4 @@ bution.svg)
 - Location: The Atlantic
 - Description: The institutional checks that got the country through Watergate are far weaker now.
 
-
-### OTHER on 2025-11-15 11:30
-- Location: Newser
-- Description: It might seem like Kim Kardashian found the basement of bad television with her universally trashed "legal drama," All's Fair, but she had plenty of company in the race to the bottom. ScreenRant takes a gleeful look around the medium to run down the worst sho…
-
-Analysis generated at: Sun Nov 16 12:26:27 UTC 2025
+Analysis generated at: Sun Nov 16 12:43:28 UTC 2025
