@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Nov 16 12:43:28 UTC 2025
+Last updated: Sun Nov 16 18:19:32 UTC 2025
 
 ## Latest Analysis
 
-Loaded 70930 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-15 12:26:40
+Loaded 70982 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-15 18:18:05
 
 Incidents by source:
 source
-newsapi           70829
+newsapi           70881
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-11-15 12:26
-- Location: Al Jazeera English
-- Description: Chile's right wing is seeking to capitalise on concern over crime and immigration in its bid to replace Gabriel Boric.
+### HOMICIDE on 2025-11-15 18:18
+- Location: Raw Story
+- Description: The Washington Post reports Trump-style divisiveness is infiltrating the nation in its smallest communities.Palmyra police chief Paul Blount reports a “growing sense of unease” in his tiny town of 1,719 tucked between Milwaukee and Madison.“Given the climate …
 
 
-### HOMICIDE on 2025-11-15 12:23
-- Location: BusinessLine
-- Description: J&K Police confirm Nowgam blast was accidental, ruling out terror links, as locals recount the tragic event's horror.
+### HOMICIDE on 2025-11-15 18:09
+- Location: The Cincinnati Enquirer
+- Description: The 40-year-old was fatally shot after police said he emerged from an Adams County residence with a firearm following a vehicle chase.
 
 
-### ROBBERY/THEFT on 2025-11-15 12:20
-- Location: BusinessLine
-- Description: Teams from the Delhi Police Special Cell and the NIA conducted simultaneous searches in Dhauj, Nuh and neighbouring areas, detaining the two doctors, identified as Mohammad and Mustakim
+### ASSAULT on 2025-11-15 18:07
+- Location: Breitbart News
+- Description: An Algerian national allegedly assaulted two women in the back of his New York taxi in separate incidents but is still snagging fares after getting a sweetheart deal from Manhattan District Attorney Alvin Bragg, the New York Post reported Saturday.
+The post D…
 
 
-### OTHER on 2025-11-15 12:00
-- Location: NPR
-- Description: King's 1982 novel was set in the year 2025, in a world with widespread poverty, mass surveillance, and giant corporations. The newest film version loses some of its critique.
+### HOMICIDE on 2025-11-15 18:05
+- Location: The Denver Post
+- Description: One person was killed in a crash on northbound Interstate 25 in Denver on Friday night, police said.
 
 
-### OTHER on 2025-11-15 12:00
-- Location: The Atlantic
-- Description: The institutional checks that got the country through Watergate are far weaker now.
+### SHOOTING on 2025-11-15 18:02
+- Location: HuffPost
+- Description: Tyler Matthew Johns, 22, was charged in connection with the shooting.
 
-Analysis generated at: Sun Nov 16 12:43:28 UTC 2025
+Analysis generated at: Sun Nov 16 18:19:32 UTC 2025
