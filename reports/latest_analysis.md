@@ -1,10 +1,10 @@
 
-Loaded 70889 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-15 06:00:00
+Loaded 70929 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-15 12:23:07
 
 Incidents by source:
 source
-newsapi           70788
+newsapi           70828
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-11-15 06:00
-- Location: The Irish Times
-- Description: ‘This should not be happening’ says sentencing law expert
+### HOMICIDE on 2025-11-15 12:23
+- Location: BusinessLine
+- Description: J&K Police confirm Nowgam blast was accidental, ruling out terror links, as locals recount the tragic event's horror.
 
 
-### ROBBERY/THEFT on 2025-11-15 06:00
-- Location: The Irish Times
-- Description: The founder of advocacy group Black and Irish on the childhood racism he experienced in Tallaght, overcoming his identity crisis, and the recent violence in Citywest
+### ROBBERY/THEFT on 2025-11-15 12:20
+- Location: BusinessLine
+- Description: Teams from the Delhi Police Special Cell and the NIA conducted simultaneous searches in Dhauj, Nuh and neighbouring areas, detaining the two doctors, identified as Mohammad and Mustakim
 
 
-### OTHER on 2025-11-15 05:41
-- Location: ABC News
-- Description: The Georgia election interference case against Donald Trump and others is now in the hands of a new prosecutor
+### OTHER on 2025-11-15 12:00
+- Location: NPR
+- Description: King's 1982 novel was set in the year 2025, in a world with widespread poverty, mass surveillance, and giant corporations. The newest film version loses some of its critique.
 
 
-### OTHER on 2025-11-15 05:34
-- Location: ABC News (AU)
-- Description: The AFP has raided homes and businesses across Darwin after a tip-off that a Defence employee, his wife, and a director of a building firm were allegedly involved in a fraudulent scheme to steer multi-million-dollar defence building contracts their way.
+### OTHER on 2025-11-15 12:00
+- Location: The Atlantic
+- Description: The institutional checks that got the country through Watergate are far weaker now.
 
 
-### HOMICIDE on 2025-11-15 05:32
-- Location: Slashdot.org
-- Description: College football coach John Beam from ‘Last Chance U’ has died after being shotKTLA 'Last Chance U' coach Beam dies after being shotESPN Laney’s John Beam ‘was always going to be about Oakland’The New York Times Arrest made in deadly shooting of Laney College…
+### OTHER on 2025-11-15 11:30
+- Location: Newser
+- Description: It might seem like Kim Kardashian found the basement of bad television with her universally trashed "legal drama," All's Fair, but she had plenty of company in the race to the bottom. ScreenRant takes a gleeful look around the medium to run down the worst sho…
 
-Analysis generated at: Sun Nov 16 06:21:11 UTC 2025
+Analysis generated at: Sun Nov 16 12:26:27 UTC 2025
