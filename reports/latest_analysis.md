@@ -1,10 +1,10 @@
 
-Loaded 70852 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-14 18:15:06
+Loaded 70862 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-15 01:08:17
 
 Incidents by source:
 source
-newsapi           70751
+newsapi           70761
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,31 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-11-14 18:15
-- Location: KQED
-- Description: The Oakland Police Department said Friday morning that an arrest has been made but did not immediately release details. Beam was critically injured and hospitalized.
+### HOMICIDE on 2025-11-15 01:08
+- Location: CBC News
+- Description: A U.S. federal appeals court on Friday upheld the hate crime convictions of three white men who chased Ahmaud Arbery, a Black jogger, through their Georgia subdivision with pickup trucks before one of them killed him with a shotgun in February 2020.
 
 
-### HOMICIDE on 2025-11-14 18:04
-- Location: Catholicnewsagency.com
-- Description: Father Ernesto Baltazar Hernández Vilchis. / Credit: Courtesy of Our Lady of Guadalupe Parish/Screenshot
-
-Puebla, Mexico, Nov 14, 2025 / 13:04 pm (CNA).
-The Catholic Church has confirmed the discovery of the body of Father Ernesto Baltazar Hernández Vilchis, …
+### OTHER on 2025-11-15 01:07
+- Location: KGO-TV
+- Description: A light and a legend might have been taken from the Oakland and Bay Area community, but the legacy of coach John Beam will live on through the lives of the people he touched and impacted.
 
 
-### OTHER on 2025-11-14 18:01
-- Location: Starweekly.com.au
-- Description: Australia’s busiest airports are joining forces in a national stand against human trafficking and modern slavery, launching a high-impact awareness campaign across Melbourne, Sydney and Perth airports. The Can You See Me? campaign is led by global anti-traffi…
+### HOMICIDE on 2025-11-15 01:06
+- Location: Fox News
+- Description: The Justice Department indicted nine Antifa members and charged seven more in a Texas ICE facility attack that left a police officer wounded.
 
 
-### OTHER on 2025-11-14 17:59
-- Location: Freerepublic.com
-- Description: (Transcribed by TurboScribe.ai. Go Unlimited to remove this message.) These are videos the FBI has worked hard to make sure you haven't seen. They're from the Google Drive account of Thomas Crooks, the man who on July 13, 2024, showed up at the Butler County,…
+### OTHER on 2025-11-15 00:59
+- Location: Nep123.com
+- Description: Analyzing the Bihar Election Results 2025: A Historic Victory for the NDA Alliance The NDA alliance is on track for a historic victory in the Bihar Legislative Assembly Election 2025. According to the election results, the NDA alliance has secured 202 seats, …
 
 
-### SHOOTING on 2025-11-14 17:54
-- Location: Boston Herald
-- Description: The arrest caps an intense manhunt for the suspected shooter.
+### HOMICIDE on 2025-11-15 00:59
+- Location: NBC News
+- Description: An 11-year-old Nevada boy on his way to school was fatally shot in a road-rage incident over position on a congested Las Vegas area freeway Friday morning, authorities said
 
-Analysis generated at: Sat Nov 15 18:19:09 UTC 2025
+Analysis generated at: Sun Nov 16 01:13:24 UTC 2025
