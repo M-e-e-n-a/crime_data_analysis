@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Nov 17 01:09:39 UTC 2025
+Last updated: Mon Nov 17 01:54:57 UTC 2025
 
 ## Latest Analysis
 
-Loaded 70989 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-16 01:00:17
+Loaded 70996 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-16 01:52:28
 
 Incidents by source:
 source
-newsapi           70888
+newsapi           70895
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-11-16 01:00
-- Location: Starcommunity.com.au
-- Description: A Dandenong SES controller has urged people to stay clear of Dandenong Creek after a woman and boy drowned in ‘swift’ stormwater on Monday 10 November. The 33-year-old and 7-year-old from Doveton are believed to have fallen into the creek near Shepley Oval be…
+### OTHER on 2025-11-16 01:52
+- Location: Slashdot.org
+- Description: Mexico’s new generation takes to the streets, accusing leaders of protecting cartelsNPR Thousands protest crime and corruption in Mexico City as ‘Gen Z’ protests gain momentumCNN Protesters Rage Against Mexico’s Government Over Corruption and ViolenceThe New …
 
 
-### HOMICIDE on 2025-11-16 00:43
-- Location: The Star Online
-- Description: MEXICO CITY (Reuters) -Thousands protested across Mexico on Saturday under the banner of "Generation Z," denouncing rising violence after the public killing of an anti-crime mayor earlier this month. Read full story
+### SHOOTING on 2025-11-16 01:49
+- Location: Fox News
+- Description: Dog shoots owner with shotgun in bizarre Pennsylvania accident. Man hospitalized after pet jumped on bed during gun cleaning, causing accidental discharge.
 
 
-### OTHER on 2025-11-16 00:23
-- Location: CNN
-- Description: Several thousand people took to the streets of Mexico City on Saturday to protest crime, corruption and impunity in a demonstration organized by members of Generation Z, but which ended with strong backing from older supporters of opposition parties.
+### HOMICIDE on 2025-11-16 01:49
+- Location: The Times of India
+- Description: Young Mexicans, identifying as Generation Z, took to the streets nationwide. Protests erupted following the murder of Uruapan Mayor Carlos Manzo. In Mexico City, demonstrators clashed with police near the National Palace. The government questioned the protest…
 
 
-### SHOOTING on 2025-11-16 00:20
-- Location: Yahoo Entertainment
-- Description: The NBA seems interested in some acquaintances of LeBron James after the arrest of his former shooting coach Damon Jones.
+### OTHER on 2025-11-16 01:44
+- Location: sandiegoville.com
+- Description: Mr Tempo Cantina In San Diego’s Gaslamp Stops Alcohol Service Amid Liquor License Suspension, Adding To Recent Repeated Health Closuressandiegoville.com
 
 
-### OTHER on 2025-11-16 00:06
-- Location: RT
-- Description: Protesters clashed with riot police outside the presidential palace in Mexico City on Saturday Read Full Article at RT.com
+### SHOOTING on 2025-11-16 01:35
+- Location: Freerepublic.com
+- Description: Federal prosecutors have filed additional terrorism-related charges against six additional people in connection with the July 4 shooting outside the Prairieland immigration detention center near Alvarado, Texas, with six other defendants scheduled to enter gu…
 
-Analysis generated at: Mon Nov 17 01:09:39 UTC 2025
+Analysis generated at: Mon Nov 17 01:54:57 UTC 2025
