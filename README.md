@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Nov 17 01:54:57 UTC 2025
+Last updated: Mon Nov 17 06:23:50 UTC 2025
 
 ## Latest Analysis
 
-Loaded 70996 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-16 01:52:28
+Loaded 71010 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-16 06:05:44
 
 Incidents by source:
 source
-newsapi           70895
+newsapi           70909
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-11-16 01:52
-- Location: Slashdot.org
-- Description: Mexico’s new generation takes to the streets, accusing leaders of protecting cartelsNPR Thousands protest crime and corruption in Mexico City as ‘Gen Z’ protests gain momentumCNN Protesters Rage Against Mexico’s Government Over Corruption and ViolenceThe New …
-
-
-### SHOOTING on 2025-11-16 01:49
-- Location: Fox News
-- Description: Dog shoots owner with shotgun in bizarre Pennsylvania accident. Man hospitalized after pet jumped on bed during gun cleaning, causing accidental discharge.
-
-
-### HOMICIDE on 2025-11-16 01:49
+### ROBBERY/THEFT on 2025-11-16 06:05
 - Location: The Times of India
-- Description: Young Mexicans, identifying as Generation Z, took to the streets nationwide. Protests erupted following the murder of Uruapan Mayor Carlos Manzo. In Mexico City, demonstrators clashed with police near the National Palace. The government questioned the protest…
+- Description: A man was kidnapped from a Florida McDonald's after being forced into a vehicle to retrieve his stolen phone. The victim was later assaulted, and he managed to call 911. A police chase ensued, leading to the suspects crashing their SUV and fleeing on foot. Th…
 
 
-### OTHER on 2025-11-16 01:44
-- Location: sandiegoville.com
-- Description: Mr Tempo Cantina In San Diego’s Gaslamp Stops Alcohol Service Amid Liquor License Suspension, Adding To Recent Repeated Health Closuressandiegoville.com
+### ASSAULT on 2025-11-16 06:05
+- Location: BBC News
+- Description: The star and her mother physically subdued a man who broke into her home with a weapon, according to South Korean media.
 
 
-### SHOOTING on 2025-11-16 01:35
-- Location: Freerepublic.com
-- Description: Federal prosecutors have filed additional terrorism-related charges against six additional people in connection with the July 4 shooting outside the Prairieland immigration detention center near Alvarado, Texas, with six other defendants scheduled to enter gu…
+### HOMICIDE on 2025-11-16 06:01
+- Location: New York Post
+- Description: A Florida creep, who faked his own death to escape arrest and evade police for nearly 16 years, was found living in Indiana, telling law enforcement he hoped to have died before he was captured.
 
-Analysis generated at: Mon Nov 17 01:54:57 UTC 2025
+
+### OTHER on 2025-11-16 05:59
+- Location: The Times of India
+- Description: Bangladesh’s security agencies are on high alert ahead of Monday’s verdict by the International Crimes Tribunal in a case against former prime minister Sheikh Hasina over alleged crimes against humanity during last year’s anti-government protests. Authorities…
+
+
+### OTHER on 2025-11-16 05:47
+- Location: Substack.com
+- Description: In Chronological Order, Complete with Counter-Arguments
+
+Analysis generated at: Mon Nov 17 06:23:50 UTC 2025
