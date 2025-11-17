@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Nov 17 12:30:33 UTC 2025
+Last updated: Mon Nov 17 12:51:15 UTC 2025
 
 ## Latest Analysis
 
-Loaded 71042 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-16 12:22:11
+Loaded 71043 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-16 12:50:08
 
 Incidents by source:
 source
-newsapi           70941
+newsapi           70942
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -23,6 +23,11 @@ bution.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### HOMICIDE on 2025-11-16 12:50
+- Location: Fox News
+- Description: Deadly Newark shooting claims two lives, injures three others. Mayor calls incident 'senseless' as authorities search for suspect in South Ward attack.
+
 
 ### HOMICIDE on 2025-11-16 12:22
 - Location: Haaretz
@@ -43,9 +48,4 @@ bution.svg)
 - Location: National Post
 - Description: Critics say mandatory drug treatment can cause more harm. For the most seriously ill, it can mean not dying on the streets.
 
-
-### OTHER on 2025-11-16 11:55
-- Location: Nakedcapitalism.com
-- Description: Our strategic daily links: undersea courtship, chemtrails, Venezuela tensions, China EV slowdown, crumbling parliament, Gaza horrors, Ukraine burning, vanishing privacy, Trumpishness, Musk world, hapless Democrats, immigration troubles, Mr. market, AI, and wr…
-
-Analysis generated at: Mon Nov 17 12:30:33 UTC 2025
+Analysis generated at: Mon Nov 17 12:51:15 UTC 2025
