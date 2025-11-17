@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Nov 17 06:23:50 UTC 2025
+Last updated: Mon Nov 17 12:30:33 UTC 2025
 
 ## Latest Analysis
 
-Loaded 71010 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-16 06:05:44
+Loaded 71042 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-16 12:22:11
 
 Incidents by source:
 source
-newsapi           70909
+newsapi           70941
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2025-11-16 06:05
-- Location: The Times of India
-- Description: A man was kidnapped from a Florida McDonald's after being forced into a vehicle to retrieve his stolen phone. The victim was later assaulted, and he managed to call 911. A police chase ensued, leading to the suspects crashing their SUV and fleeing on foot. Th…
+### HOMICIDE on 2025-11-16 12:22
+- Location: Haaretz
+- Description: The shooting followed two additional incidents that occurred over the weekend in Arab towns, in which a woman was murdered and a man was seriously wounded. 222 people from Arab Israeli society have been murdered so far this year
 
 
-### ASSAULT on 2025-11-16 06:05
-- Location: BBC News
-- Description: The star and her mother physically subdued a man who broke into her home with a weapon, according to South Korean media.
+### ASSAULT on 2025-11-16 12:04
+- Location: The Star Online
+- Description: KUALA LUMPUR: Bukit Aman has been proactive in the fight against major drug-smuggling cartels, says Inspector-General of Police Datuk Seri Mohd Khalid Ismail. Read full story
 
 
-### HOMICIDE on 2025-11-16 06:01
-- Location: New York Post
-- Description: A Florida creep, who faked his own death to escape arrest and evade police for nearly 16 years, was found living in Indiana, telling law enforcement he hoped to have died before he was captured.
+### ROBBERY/THEFT on 2025-11-16 12:03
+- Location: Bulawayo24.com
+- Description: Barely a day after two sports bars in Entumbane were targeted, Gibixhegu Beerhall, popularly known as koHerbert, became the latest victim of a daring early-morn...
 
 
-### OTHER on 2025-11-16 05:59
-- Location: The Times of India
-- Description: Bangladesh’s security agencies are on high alert ahead of Monday’s verdict by the International Crimes Tribunal in a case against former prime minister Sheikh Hasina over alleged crimes against humanity during last year’s anti-government protests. Authorities…
+### DRUG RELATED on 2025-11-16 12:00
+- Location: National Post
+- Description: Critics say mandatory drug treatment can cause more harm. For the most seriously ill, it can mean not dying on the streets.
 
 
-### OTHER on 2025-11-16 05:47
-- Location: Substack.com
-- Description: In Chronological Order, Complete with Counter-Arguments
+### OTHER on 2025-11-16 11:55
+- Location: Nakedcapitalism.com
+- Description: Our strategic daily links: undersea courtship, chemtrails, Venezuela tensions, China EV slowdown, crumbling parliament, Gaza horrors, Ukraine burning, vanishing privacy, Trumpishness, Musk world, hapless Democrats, immigration troubles, Mr. market, AI, and wr…
 
-Analysis generated at: Mon Nov 17 06:23:50 UTC 2025
+Analysis generated at: Mon Nov 17 12:30:33 UTC 2025
