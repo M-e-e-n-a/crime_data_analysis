@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Nov 18 12:51:07 UTC 2025
+Last updated: Tue Nov 18 18:22:40 UTC 2025
 
 ## Latest Analysis
 
-Loaded 71224 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-17 12:50:24
+Loaded 71315 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-17 18:22:29
 
 Incidents by source:
 source
-newsapi           71123
+newsapi           71214
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-11-17 12:50
+### HOMICIDE on 2025-11-17 18:22
 - Location: New York Post
-- Description: Police have released surveillance images of a suspect in the Manhattan shooting of New York Jets cornerback Kris Boyd.
+- Description: His lawyer worried that prosecutors would raise testimony that Ana "would never abandon her children." She was last seen Jan. 1, 2023.
 
 
-### HOMICIDE on 2025-11-17 12:39
-- Location: BBC News
-- Description: The two defendants, aged 16 and 17, have admitted manslaughter but deny murdering the 38-year-old.
+### OTHER on 2025-11-17 18:21
+- Location: New York Post
+- Description: The Trump administration has made the Democratic city of about 950,000 people its latest target for an immigration enforcement surge it says will combat crime, despite objections from local leaders.
 
 
-### OTHER on 2025-11-17 12:38
-- Location: Www.gov.uk
-- Description: Joint day of action at Johnson’s Scrap Metal Ltd in Southport. The company’s environmental permit was revoked and it is required to clear the waste.
+### SHOOTING on 2025-11-17 18:21
+- Location: Hip-Hop Wired
+- Description: Kris Boyd is currently in critical condition after he was shot in the abdomen outside of the restaurant Sei Less on West 38 Street near Seventh Avenue around 2 am on Sunday.
 
 
-### OTHER on 2025-11-17 12:36
-- Location: Over The Monster
-- Description: After standing alone for so long, JBJ has finally found the supportive environment that he truly deserves.
+### OTHER on 2025-11-17 18:16
+- Location: Deadline
+- Description: EXCLUSIVE: Michael Mann has his Public Enemies star Christian Bale circling a major role alongside Leonardo DiCaprio in Heat 2. Amazon MGM and United Artists will start production next year on the second installment of Mann’s 1995 heist classic. Mann wrote th…
 
 
-### ASSAULT on 2025-11-17 12:34
-- Location: Internet
-- Description: This week showed just how fast things can go wrong when no one’s watching. Some attacks were silent and sneaky. Others used tools we trust every day — like AI, VPNs, or app stores — to cause damage without setting off alarms.
-It’s not just about hacking anymo…
+### OTHER on 2025-11-17 18:15
+- Location: Mcsweeneys.net
+- Description: Early in President Trump’s first term, McSweeney’s editors began to catalog the head-spinning number of misdeeds coming from his administration. We called this list a collection of Trump’s cruelties, collusions, corruptions, and crimes, and it felt urgent to …
 
-Analysis generated at: Tue Nov 18 12:51:07 UTC 2025
+Analysis generated at: Tue Nov 18 18:22:40 UTC 2025
