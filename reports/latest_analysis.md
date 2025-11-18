@@ -1,10 +1,10 @@
 
-Loaded 71218 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-17 12:30:00
+Loaded 71224 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-17 12:50:24
 
 Incidents by source:
 source
-newsapi           71117
+newsapi           71123
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-11-17 12:30
-- Location: Mother Jones
-- Description: On their first day guarding a mall in Minneapolis, the men met in a warehouse on the outskirts of town at 4 a.m. to get “kitted up.” They put on flak jackets and masks. Some had military fatigues. Their boss, Nathan Seabrook, wore a walkie-talkie headset. He …
+### SHOOTING on 2025-11-17 12:50
+- Location: New York Post
+- Description: Police have released surveillance images of a suspect in the Manhattan shooting of New York Jets cornerback Kris Boyd.
 
 
-### SHOOTING on 2025-11-17 12:17
-- Location: ESPN
-- Description: Extradition from Dubai caps a twisted saga involving gunfire and questions of self-defense.
+### HOMICIDE on 2025-11-17 12:39
+- Location: BBC News
+- Description: The two defendants, aged 16 and 17, have admitted manslaughter but deny murdering the 38-year-old.
 
 
-### OTHER on 2025-11-17 12:15
-- Location: Forbes
-- Description: A new report shows that one state's reporting on property forfeiture is severely lacking. Innocent people may be at risk of losing cash and cars.
+### OTHER on 2025-11-17 12:38
+- Location: Www.gov.uk
+- Description: Joint day of action at Johnson’s Scrap Metal Ltd in Southport. The company’s environmental permit was revoked and it is required to clear the waste.
 
 
-### OTHER on 2025-11-17 12:00
-- Location: Bay12games.com
-- Description: (Toady One) Continuing to improve the Siege Update. You can now view and set the status of your siege engines from a centralized tab. Lots of improvement for invader AI, and ogres look properly scary now. There are also some general improvements to item pictu…
+### OTHER on 2025-11-17 12:36
+- Location: Over The Monster
+- Description: After standing alone for so long, JBJ has finally found the supportive environment that he truly deserves.
 
 
-### OTHER on 2025-11-17 12:00
-- Location: Bay12games.com
-- Description: DF Version 53.04 has been released.
+### ASSAULT on 2025-11-17 12:34
+- Location: Internet
+- Description: This week showed just how fast things can go wrong when no one’s watching. Some attacks were silent and sneaky. Others used tools we trust every day — like AI, VPNs, or app stores — to cause damage without setting off alarms.
+It’s not just about hacking anymo…
 
-Analysis generated at: Tue Nov 18 12:30:56 UTC 2025
+Analysis generated at: Tue Nov 18 12:51:07 UTC 2025
