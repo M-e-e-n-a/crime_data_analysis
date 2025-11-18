@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Nov 18 01:53:15 UTC 2025
+Last updated: Tue Nov 18 06:22:47 UTC 2025
 
 ## Latest Analysis
 
-Loaded 71114 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-17 01:47:01
+Loaded 71164 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-17 06:22:31
 
 Incidents by source:
 source
-newsapi           71013
+newsapi           71063
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-11-17 01:47
-- Location: Buddytv.com
-- Description: Boston Blue keeps deepening the Blue Bloods universe with Season 1, Episode 5, “Suffer the Children,” a tense hour that ties an infamous real-world art heist to a very personal question: how far should parents be held responsible for their children’s choices?…
+### HOMICIDE on 2025-11-17 06:22
+- Location: Independent.ie
+- Description: A man has been arrested on suspicion of murder after a 21-year-old woman was found dead in a boat yard.
 
 
-### HOMICIDE on 2025-11-17 01:35
-- Location: Raw Story
-- Description: Today, Donald Trump presides over his own Murder Incorporated, less a government than a death squad.Many brushed off his proclamation early in his second term that the Gulf of Mexico would henceforth be called the Gulf of America as a foolish, yet harmless, s…
+### OTHER on 2025-11-17 06:19
+- Location: The Indian Express
+- Description: The 57-year-old woman said she delayed reporting the 'digital arrest' scam due to her initial shock, preoccupation with her son's wedding preparations, subsequent international travel, and illness.
 
 
-### OTHER on 2025-11-17 01:23
-- Location: Digital Journal
-- Description: Bangladeshi judges will deliver their verdict on Monday in the crimes against humanity trial of fugitive former prime minister Sheikh Hasina, a highly anticipated ruling before the first polls since her overthrow. Hasina, 78, defied court orders that she retu…
+### HOMICIDE on 2025-11-17 06:17
+- Location: DW (English)
+- Description: Bangladeshi judges have found former Prime Minister Sheikh Hasina guilty of crimes against humanity for the violent repression of anti-government protests in 2024. DW has the latest.
 
 
-### OTHER on 2025-11-17 01:13
-- Location: Al Jazeera English
-- Description: Count of a third of ballots show 60 percent rejection of the proposal to host foreign military bases.
+### HOMICIDE on 2025-11-17 06:17
+- Location: DW (English)
+- Description: Bangladeshi judges are expected to deliver their verdict in the trial of former Prime Minister Sheikh Hasina. She is charged with crimes against humanity relating to an uprising last year that killed hundreds of people.
 
 
-### ASSAULT on 2025-11-17 01:10
-- Location: The Times of India
-- Description: Heightened security is in place across Bangladesh as a special tribunal prepares to deliver a verdict against former Prime Minister Sheikh Hasina for alleged crimes against humanity. Sporadic arson and crude bomb attacks have occurred overnight, with authorit…
+### HOMICIDE on 2025-11-17 06:14
+- Location: ABC News (AU)
+- Description: Police search two homes linked to a suspect in the investigation into the murder of Adelaide woman Rosemary Brown and the disappearance of her 15-year-old daughter, Melissa Trussell.
 
-Analysis generated at: Tue Nov 18 01:53:15 UTC 2025
+Analysis generated at: Tue Nov 18 06:22:47 UTC 2025
