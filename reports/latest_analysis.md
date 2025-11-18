@@ -1,10 +1,10 @@
 
-Loaded 71108 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-17 01:05:18
+Loaded 71114 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-17 01:47:01
 
 Incidents by source:
 source
-newsapi           71007
+newsapi           71013
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-11-17 01:05
-- Location: Screen Rant
-- Description: From Don's carousel speech in Mad Men to the death of Logan Roy in Succession, these are the greatest scenes ever created for a TV drama.
+### OTHER on 2025-11-17 01:47
+- Location: Buddytv.com
+- Description: Boston Blue keeps deepening the Blue Bloods universe with Season 1, Episode 5, “Suffer the Children,” a tense hour that ties an infamous real-world art heist to a very personal question: how far should parents be held responsible for their children’s choices?…
 
 
-### HOMICIDE on 2025-11-17 01:04
-- Location: New Zealand Herald
-- Description: The children have been named as Goldie, August and Hugo, aged 1, 5 and 7.
+### HOMICIDE on 2025-11-17 01:35
+- Location: Raw Story
+- Description: Today, Donald Trump presides over his own Murder Incorporated, less a government than a death squad.Many brushed off his proclamation early in his second term that the Gulf of Mexico would henceforth be called the Gulf of America as a foolish, yet harmless, s…
 
 
-### OTHER on 2025-11-17 00:41
-- Location: ABC News (AU)
-- Description: The demonstration was mostly peaceful but ended with some young people clashing with the police.
+### OTHER on 2025-11-17 01:23
+- Location: Digital Journal
+- Description: Bangladeshi judges will deliver their verdict on Monday in the crimes against humanity trial of fugitive former prime minister Sheikh Hasina, a highly anticipated ruling before the first polls since her overthrow. Hasina, 78, defied court orders that she retu…
 
 
-### OTHER on 2025-11-17 00:30
+### OTHER on 2025-11-17 01:13
 - Location: Al Jazeera English
-- Description: Chile’s presidential appears is headed to a December run-off after leading candidates fail to gain majority votes.
+- Description: Count of a third of ballots show 60 percent rejection of the proposal to host foreign military bases.
 
 
-### SHOOTING on 2025-11-17 00:27
-- Location: The Daily Caller
-- Description: Kris Boyd, a cornerback for the New York Jets, is in critical condition at Bellevue Hospital after being shot in Midtown during the early morning hours Sunday.
+### ASSAULT on 2025-11-17 01:10
+- Location: The Times of India
+- Description: Heightened security is in place across Bangladesh as a special tribunal prepares to deliver a verdict against former Prime Minister Sheikh Hasina for alleged crimes against humanity. Sporadic arson and crude bomb attacks have occurred overnight, with authorit…
 
-Analysis generated at: Tue Nov 18 01:08:13 UTC 2025
+Analysis generated at: Tue Nov 18 01:53:15 UTC 2025
