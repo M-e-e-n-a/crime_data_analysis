@@ -1,10 +1,10 @@
 
-Loaded 71096 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-16 18:20:07
+Loaded 71108 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-17 01:05:18
 
 Incidents by source:
 source
-newsapi           70995
+newsapi           71007
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-11-16 18:20
-- Location: Freerepublic.com
-- Description: Police say the 53-year-old man was cleaning his shotgun when his dog accidentally set it off, shooting him in the lower back.SHILLINGTON, Pa. — A 53-year-old man shot in the lower back by one of his dogs is expected to survive, police say. The shooting happen…
+### HOMICIDE on 2025-11-17 01:05
+- Location: Screen Rant
+- Description: From Don's carousel speech in Mad Men to the death of Logan Roy in Succession, these are the greatest scenes ever created for a TV drama.
 
 
-### SHOOTING on 2025-11-16 18:16
-- Location: CBC News
-- Description: A First Nation in northern Alberta had to shelter in place overnight, after RCMP spotted three people near the community Saturday evening who were believed to be armed, having allegedly robbed several guns and shot at someone earlier that day.
+### HOMICIDE on 2025-11-17 01:04
+- Location: New Zealand Herald
+- Description: The children have been named as Goldie, August and Hugo, aged 1, 5 and 7.
 
 
-### HOMICIDE on 2025-11-16 18:12
-- Location: The Times of India
-- Description: National Security Guard and forensic teams from Delhi and Chandigarh inspected the Nowgam police station site. Experts are key to investigations following an accidental blast. Three people were killed during the sampling of seized explosives. Officials stated…
+### OTHER on 2025-11-17 00:41
+- Location: ABC News (AU)
+- Description: The demonstration was mostly peaceful but ended with some young people clashing with the police.
 
 
-### HOMICIDE on 2025-11-16 18:03
-- Location: New York Post
-- Description: The teen's 8-year-old brother hid under his bed after hearing his older sister's screams, the Sun said.
+### OTHER on 2025-11-17 00:30
+- Location: Al Jazeera English
+- Description: Chile’s presidential appears is headed to a December run-off after leading candidates fail to gain majority votes.
 
 
-### OTHER on 2025-11-16 18:02
-- Location: The Star Online
-- Description: NEW DELHI (Reuters) -The son and adviser of ousted Bangladesh Prime Minister Sheikh Hasina said on Sunday that supporters of her Awami League would block February's national election if a ban on the party was not lifted, warning that protests could escalate i…
+### SHOOTING on 2025-11-17 00:27
+- Location: The Daily Caller
+- Description: Kris Boyd, a cornerback for the New York Jets, is in critical condition at Bellevue Hospital after being shot in Midtown during the early morning hours Sunday.
 
-Analysis generated at: Mon Nov 17 18:21:39 UTC 2025
+Analysis generated at: Tue Nov 18 01:08:13 UTC 2025
