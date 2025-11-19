@@ -1,10 +1,10 @@
 
-Loaded 71326 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-18 01:06:18
+Loaded 71333 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-18 01:52:11
 
 Incidents by source:
 source
-newsapi           71225
+newsapi           71232
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,50 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-11-18 01:06
-- Location: Fox News
-- Description: A San Antonio raid on a Tren de Aragua–linked human trafficking ring led to the arrest of more than 140 illegal immigrants, Texas officials confirmed Monday.
+### SHOOTING on 2025-11-18 01:52
+- Location: ABC News (AU)
+- Description: Police have shot a man in Far North Queensland after reportedly approaching them armed with a knife.
 
 
-### OTHER on 2025-11-18 00:47
-- Location: Mypeoplesreview.com
-- Description: Kathmandu, November 18: Durga Prasai has been arrested in Bhaktapur. In recent days, he had been making aggressive statements. According […]
-The post Police arrest Durga Prasai appeared first on Peoples' Review.
+### HOMICIDE on 2025-11-18 01:44
+- Location: WFTV Orlando
+- Description: Rapid FDLE probe, sparked by INTERPOL alert on October 13, links Ocala resident Dwain Hall to homicide; suspect already jailed for victim’s credit card fraud
 
 
-### OTHER on 2025-11-18 00:31
-- Location: Screen Rant
-- Description: Nile Jarvis's wife, Madison, disappears without a trace long before the start of The Beast In Me, and here is what really happened to her
+### HOMICIDE on 2025-11-18 01:30
+- Location: The Indian Express
+- Description: In an interview with The Indian Express, Uttar Pradesh DGP Rajeev Krishna speaks about tackling cyber crime — one of his main priorities — and addresses the issue of police ‘encounters’ in the state.
 
 
-### HOMICIDE on 2025-11-18 00:30
-- Location: TMZ
-- Description: A 27-year-old man has been charged with murder in the death of "Last Chance U" star John Beam ... officials announced Monday. According to court docs, Cedric Irving Jr. admitted to shooting Beam at Laney College in Oakland on Thursday ... and had…
- Permalink
+### OTHER on 2025-11-18 01:30
+- Location: OK!
+- Description: A representative for Turning Point USA said Candace Owens and Charlie Kirk remained friends despite reports they 'had a breakup' over her 'extreme' theories.
 
 
-### OTHER on 2025-11-18 00:30
-- Location: Human Rights Watch
-- Description: Click to expand Image
- 
+### HOMICIDE on 2025-11-18 01:26
+- Location: New York Post
+- Description: Cedric Irving Jr. allegedly confessed to shooting Beam because he thought the coach was using black magic.
 
-
-
- 
- 
- 
-
- 
- 
- 
- 
- Former Prime Minister of Bangladesh Sheikh Hasina Wazed at the Elysee Palace in Paris, France, November 9, 2021.
- © 2021 Michel Euler/AP Photo 
- 
- 
-
-
- 
-The International Crimes Tribunal of Bangladesh on November 17, …
-
-Analysis generated at: Wed Nov 19 01:08:23 UTC 2025
+Analysis generated at: Wed Nov 19 01:52:54 UTC 2025
