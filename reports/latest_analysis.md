@@ -1,10 +1,10 @@
 
-Loaded 71333 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-18 01:52:11
+Loaded 71372 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-18 06:00:00
 
 Incidents by source:
 source
-newsapi           71232
+newsapi           71271
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-11-18 01:52
+### DRUG RELATED on 2025-11-18 06:00
+- Location: Naturalnews.com
+- Description: A record-breaking seizure of fentanyl was made in a Colorado storage unit. A private citizen discovered the drugs and immediately alerted law enforcement. The haul included 1.7 million fentanyl pills and powder to make millions more. The operation was linked …
+
+
+### OTHER on 2025-11-18 05:57
 - Location: ABC News (AU)
-- Description: Police have shot a man in Far North Queensland after reportedly approaching them armed with a knife.
+- Description: Victoria's first female Liberal Party leader is facing a gargantuan task to unite her party and prove the opposition is worth voting for, Richard Willingham writes.
 
 
-### HOMICIDE on 2025-11-18 01:44
-- Location: WFTV Orlando
-- Description: Rapid FDLE probe, sparked by INTERPOL alert on October 13, links Ocala resident Dwain Hall to homicide; suspect already jailed for victim’s credit card fraud
+### OTHER on 2025-11-18 05:43
+- Location: HuffPost
+- Description: Federal immigration authorities will expand their enforcement action in North Carolina to the city as soon as Tuesday.
 
 
-### HOMICIDE on 2025-11-18 01:30
-- Location: The Indian Express
-- Description: In an interview with The Indian Express, Uttar Pradesh DGP Rajeev Krishna speaks about tackling cyber crime — one of his main priorities — and addresses the issue of police ‘encounters’ in the state.
+### SHOOTING on 2025-11-18 05:38
+- Location: PEOPLE
+- Description: The NFL athlete survived the shooting, and has reportedly spoken with police
 
 
-### OTHER on 2025-11-18 01:30
-- Location: OK!
-- Description: A representative for Turning Point USA said Candace Owens and Charlie Kirk remained friends despite reports they 'had a breakup' over her 'extreme' theories.
+### OTHER on 2025-11-18 05:25
+- Location: ABC News (AU)
+- Description: A Tennessee judge has blocked the use of the National Guard in Memphis, but also put the order on hold, giving the government five days to appeal.
 
-
-### HOMICIDE on 2025-11-18 01:26
-- Location: New York Post
-- Description: Cedric Irving Jr. allegedly confessed to shooting Beam because he thought the coach was using black magic.
-
-Analysis generated at: Wed Nov 19 01:52:54 UTC 2025
+Analysis generated at: Wed Nov 19 06:22:34 UTC 2025
