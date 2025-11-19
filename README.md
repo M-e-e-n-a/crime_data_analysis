@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Nov 19 12:51:23 UTC 2025
+Last updated: Wed Nov 19 18:22:22 UTC 2025
 
 ## Latest Analysis
 
-Loaded 71439 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-18 12:45:11
+Loaded 71525 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-18 18:17:08
 
 Incidents by source:
 source
-newsapi           71338
+newsapi           71424
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-11-18 12:45
-- Location: Whyevolutionistrue.com
-- Description: Welcome to The Cruelest Day: Tuesday, November 18, 2025, and Mickey Mouse Day, celebrating the rodent’s first appearance in a Disney cartoon. It was in Steamboat Willie, released on this day in 1928.  Here’s the cartoon, and they don’t make them like this any…
+### SHOOTING on 2025-11-18 18:17
+- Location: Boston Herald
+- Description: Estranged friends and family and even a judge had raised concerns months before the shooting.
 
 
-### HOMICIDE on 2025-11-18 12:41
+### OTHER on 2025-11-18 18:07
+- Location: WFTV Orlando
+- Description: Tallahassee police say Joshua Hidalgo, 38, tried to run from officers but didn't get far.
+
+
+### OTHER on 2025-11-18 17:59
+- Location: Southasiaviews.com
+- Description: Shillong (Meghalaya), Nov 18: Two students from the Chemistry Department of North-Eastern Hill University (NEHU), Daritngen Pohdukhei and Stephanie Shadap, were involved in a tragic accident near Gate-2 of the campus. The students were critically injured afte…
+
+
+### OTHER on 2025-11-18 17:54
+- Location: Bossip
+- Description: Megan Thee Stallion has returned to court, this time facing both Tory Lanez and blogger Milagro Gramz in her ongoing defamation lawsuit.
+The post Milagro Gramz Hits The Stand In Megan Thee Stallion Defamation Trial While Tory Lanez Gets Contempt Clapback appe…
+
+
+### HOMICIDE on 2025-11-18 17:53
 - Location: The Times of India
-- Description: Union Home Minister Amit Shah has approved legal action against those linked to singer Zubeen Garg's death in Singapore. This sanction under BNSS Section 208 allows prosecution for crimes committed abroad. The Assam government plans to file a charge sheet by …
+- Description: Tragedy struck at the Nowgam police station, where a devastating explosion resulted in the deaths of nine individuals and left 32 others injured. Experts, including former FSL director RL Dhar, assert that the calamity was preventable, citing a failure to adh…
 
-
-### OTHER on 2025-11-18 12:32
-- Location: Independent.ie
-- Description: A rioter who hurled concrete blocks at gardaí as violence broke out over plans for an Ipas centre in north Dublin has been spared jail.
-
-
-### OTHER on 2025-11-18 12:30
-- Location: Mother Jones
-- Description: Imagine an abortion ban so radical that even leading anti-abortion groups have lined up to denounce it. That’s what abortion “abolitionists” are hoping eventually to unleash on South Carolina, with a key legislative hearing scheduled for Tuesday.  Senate Bill…
-
-
-### HOMICIDE on 2025-11-18 12:25
-- Location: Sky.com
-- Description: Prosecutors say Sharaz Ali went to the property aiming to "take revenge" on his former partner's sister, Antonia Gawith. Antonia managed to escape but Bryonie Gawith and her children died in the blaze.
-
-Analysis generated at: Wed Nov 19 12:51:23 UTC 2025
+Analysis generated at: Wed Nov 19 18:22:22 UTC 2025
