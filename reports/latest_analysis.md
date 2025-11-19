@@ -1,10 +1,10 @@
 
-Loaded 71372 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-18 06:00:00
+Loaded 71436 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-18 12:30:00
 
 Incidents by source:
 source
-newsapi           71271
+newsapi           71335
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,39 @@ bution.svg)
 
 ## Recent Incidents
 
-### DRUG RELATED on 2025-11-18 06:00
-- Location: Naturalnews.com
-- Description: A record-breaking seizure of fentanyl was made in a Colorado storage unit. A private citizen discovered the drugs and immediately alerted law enforcement. The haul included 1.7 million fentanyl pills and powder to make millions more. The operation was linked …
+### OTHER on 2025-11-18 12:30
+- Location: Mother Jones
+- Description: Imagine an abortion ban so radical that even leading anti-abortion groups have lined up to denounce it. That’s what abortion “abolitionists” are hoping eventually to unleash on South Carolina, with a key legislative hearing scheduled for Tuesday.  Senate Bill…
 
 
-### OTHER on 2025-11-18 05:57
-- Location: ABC News (AU)
-- Description: Victoria's first female Liberal Party leader is facing a gargantuan task to unite her party and prove the opposition is worth voting for, Richard Willingham writes.
+### HOMICIDE on 2025-11-18 12:25
+- Location: Sky.com
+- Description: Prosecutors say Sharaz Ali went to the property aiming to "take revenge" on his former partner's sister, Antonia Gawith. Antonia managed to escape but Bryonie Gawith and her children died in the blaze.
 
 
-### OTHER on 2025-11-18 05:43
-- Location: HuffPost
-- Description: Federal immigration authorities will expand their enforcement action in North Carolina to the city as soon as Tuesday.
+### HOMICIDE on 2025-11-18 12:21
+- Location: Rlsbb.to
+- Description: Follows Leaphorn and Chee, two Navajo police officers in the 1970s Southwest that are forced to challenge their own spiritual beliefs when they search for clues in a double murder case. Links: HOMEPAGE – iMDBDark.Winds.S03.720p.BluRay.x264-BORDUREMKV | AC3 / …
 
 
-### SHOOTING on 2025-11-18 05:38
-- Location: PEOPLE
-- Description: The NFL athlete survived the shooting, and has reportedly spoken with police
+### OTHER on 2025-11-18 12:00
+- Location: The Cut
+- Description: The ‘Christy’ actress and martial artist is taking on a risk-averse Hollywood, one queer role at a time.
 
 
-### OTHER on 2025-11-18 05:25
-- Location: ABC News (AU)
-- Description: A Tennessee judge has blocked the use of the National Guard in Memphis, but also put the order on hold, giving the government five days to appeal.
+### OTHER on 2025-11-18 12:00
+- Location: Bay12games.com
+- Description: (Toady One) Quick fix for a few sorting issues.
 
-Analysis generated at: Wed Nov 19 06:22:34 UTC 2025
+General updates
+
+
+<ul>
+<li>Fixed crash with animal domestication status sorting.</li>
+
+
+<li>Fixed happiness sorting.</li>
+
+</ul>
+
+Analysis generated at: Wed Nov 19 12:30:50 UTC 2025
