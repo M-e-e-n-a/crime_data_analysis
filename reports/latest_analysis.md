@@ -1,10 +1,10 @@
 
-Loaded 71650 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-19 12:46:04
+Loaded 71744 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-19 18:21:09
 
 Incidents by source:
 source
-newsapi           71549
+newsapi           71643
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-11-19 12:46
-- Location: Fox News
-- Description: Homeland Security is reportedly planning an operation in New Orleans, deploying 250 immigrant agents with the goal of 5,000 arrests across Louisiana.
+### OTHER on 2025-11-19 18:21
+- Location: The Times of India
+- Description: The Enforcement Directorate is set to share its findings with Delhi Police. This could lead to a new FIR against Al Falah group chairman Jawad Siddiqui for cheating and conspiracy. Siddiqui was arrested by ED on Tuesday. The agency is investigating alleged di…
 
 
-### OTHER on 2025-11-19 12:45
-- Location: Whyevolutionistrue.com
-- Description: Welcome to a Hump Day (“Дзень горба” in Belarusian): Wednesday, November 19, 2025 and World Toilet Day. Below are Roman public toilets from the ancient city of Ostia Antica, the port of Rome. It looks as if the Romans did their business right next to their pa…
+### OTHER on 2025-11-19 18:19
+- Location: Variety
+- Description: What do this year’s International Emmy Awards say about the current state of TV production outside the U.S.? If three of its major scripted categories – drama series, telenovelas, miniseries – are anything to go by, rather a lot. For one thing, global streami…
 
 
-### HOMICIDE on 2025-11-19 12:22
-- Location: Newser
-- Description: The North Carolina man charged with killing four of his children told investigators a fifth child, a 1-month-old infant, also died and was buried behind the family home. Court documents released Tuesday reveal that Wellington Dickens III, 38, said the infant,…
+### OTHER on 2025-11-19 18:16
+- Location: The Times of India
+- Description: Actor Anirban Chakrabarti reveals the secret behind detective Eken Babu's brilliance: constant fuel from food. Samosas and tea are not indulgences but essential tools for the quirky sleuth, providing power boosters and calm moments for renewed clarity. These …
 
 
-### OTHER on 2025-11-19 12:17
-- Location: Freerepublic.com
-- Description: Our newly-anointed Mayor-elect, Zohran Mamdani, vows that he is a Socialist, and that he intends to implement an explicitly Socialist suite of policies. OK, the guy is only 34 years old. He was born on October 18, 1991, just a couple of months before the fina…
+### OTHER on 2025-11-19 18:15
+- Location: Screen Rant
+- Description: Netflix's cozy crime comedy about a retiree undercover is back, and there are several new faces joining Ted Danson in the sitcom's 2nd season.
 
 
-### ASSAULT on 2025-11-19 12:14
-- Location: Freerepublic.com
-- Description: Police said the woman suffered "severe burns" all over her body and that she remains in critical condition at a hospital, per NBC 5. Firefighters who responded to the scene extinguished the flames before officers arrived, the outlet reported. On Tuesday, Nov.…
+### SHOOTING on 2025-11-19 18:14
+- Location: Thoughtcatalog.com
+- Description: The first few minutes of Thoughts & Prayers: How To Survive an Active Shooter in America make me feel like I’m descending into a collective hallucination. You watch the camera pan through a mar…
 
-Analysis generated at: Thu Nov 20 12:50:28 UTC 2025
+Analysis generated at: Thu Nov 20 18:22:46 UTC 2025
