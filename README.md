@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Nov 20 12:30:15 UTC 2025
+Last updated: Thu Nov 20 12:50:29 UTC 2025
 
 ## Latest Analysis
 
-Loaded 71648 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-19 12:22:00
+Loaded 71650 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-19 12:46:04
 
 Incidents by source:
 source
-newsapi           71547
+newsapi           71549
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,6 +24,16 @@ bution.svg)
 
 ## Recent Incidents
 
+### OTHER on 2025-11-19 12:46
+- Location: Fox News
+- Description: Homeland Security is reportedly planning an operation in New Orleans, deploying 250 immigrant agents with the goal of 5,000 arrests across Louisiana.
+
+
+### OTHER on 2025-11-19 12:45
+- Location: Whyevolutionistrue.com
+- Description: Welcome to a Hump Day (“Дзень горба” in Belarusian): Wednesday, November 19, 2025 and World Toilet Day. Below are Roman public toilets from the ancient city of Ostia Antica, the port of Rome. It looks as if the Romans did their business right next to their pa…
+
+
 ### HOMICIDE on 2025-11-19 12:22
 - Location: Newser
 - Description: The North Carolina man charged with killing four of his children told investigators a fifth child, a 1-month-old infant, also died and was buried behind the family home. Court documents released Tuesday reveal that Wellington Dickens III, 38, said the infant,…
@@ -38,14 +48,4 @@ bution.svg)
 - Location: Freerepublic.com
 - Description: Police said the woman suffered "severe burns" all over her body and that she remains in critical condition at a hospital, per NBC 5. Firefighters who responded to the scene extinguished the flames before officers arrived, the outlet reported. On Tuesday, Nov.…
 
-
-### OTHER on 2025-11-19 12:02
-- Location: Marca
-- Description: The Cleveland Browns general manager Andrew Berry is taking a strategic approach to ensure rookie quarterback Shedeur Sanders gets a legitimate opportunity, even as head coach Kevi
-
-
-### OTHER on 2025-11-19 12:00
-- Location: The Irish Times
-- Description: With hands zip-tied and heads bowed, Assad loyalists were among the first to face a public court in Aleppo
-
-Analysis generated at: Thu Nov 20 12:30:15 UTC 2025
+Analysis generated at: Thu Nov 20 12:50:28 UTC 2025
