@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Nov 20 01:07:06 UTC 2025
+Last updated: Thu Nov 20 01:51:30 UTC 2025
 
 ## Latest Analysis
 
-Loaded 71545 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-19 01:00:12
+Loaded 71555 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-19 01:45:25
 
 Incidents by source:
 source
-newsapi           71444
+newsapi           71454
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-11-19 01:00
-- Location: Mypeoplesreview.com
-- Description: By Rabi Raj Thapa There is a new government in Nepal. This is not a military government, but the government […]
-The post Amazing Nepal appeared first on Peoples' Review.
+### HOMICIDE on 2025-11-19 01:45
+- Location: ABC News
+- Description: A man convicted of fatally shooting a man and woman during home invasion robbery and later confessing to three other killings is scheduled to be put to death in December
 
 
-### OTHER on 2025-11-19 00:48
-- Location: BBC News
-- Description: The resounding vote in favour of the Epstein bill, 427-1, marks a rare moment of bipartisanship on Capitol Hill that was near-unanimous - almost.
+### HOMICIDE on 2025-11-19 01:45
+- Location: Israelnationalnews.com
+- Description: A man in his 30s was shot and killed in a violent incident in Hadera. Magen David Adom medics pronounced him dead at the scene.Police have set up roadblocks and are conducting searches in the area to locate suspects.
 
 
-### HOMICIDE on 2025-11-19 00:43
-- Location: New York Post
-- Description: “He made it clear there was no way out unless I shoot him. I was questioning it last night... I thought he’d do it quick and not give my mind time to stew," the victim messaged a friend.
+### HOMICIDE on 2025-11-19 01:36
+- Location: NBC News
+- Description: Singer D4vd has been identified as a suspect in the death of a 15-year-old girl who was found dead in a vehicle owned by the singer in September, according to a Los Angeles Police Department source with direct knowledge of the investigation.
 
 
-### SHOOTING on 2025-11-19 00:37
-- Location: KQED
-- Description: Students at Skyline High School protested what they call a lack of safety on campus, less than a week after a student was injured in a shooting on the Oakland campus.
+### OTHER on 2025-11-19 01:32
+- Location: Thechronicle.com.gh
+- Description: Ghana is facing a disturbing surge in crime, a trend that threatens not only the safety of citizens but also the nation’s image and stability. Last week, The Chronicle highlighted the rising incidents of kidnapping and human trafficking in an editorial titled…
 
 
-### OTHER on 2025-11-19 00:34
-- Location: Boston Herald
-- Description: The City of Boston moved to dismiss the federal government's lawsuit challenging its sanctuary city policy Monday, arguing the policy is constitutionally protected and the U.S.'s lawsuit failed to show a conflict with federal law.
+### HOMICIDE on 2025-11-19 01:28
+- Location: Yahoo Entertainment
+- Description: A man convicted of fatally shooting a man and woman during home invasion robbery and later confessing to three other killings is scheduled to be put to death...
 
-Analysis generated at: Thu Nov 20 01:07:06 UTC 2025
+Analysis generated at: Thu Nov 20 01:51:30 UTC 2025
