@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Nov 20 01:51:30 UTC 2025
+Last updated: Thu Nov 20 06:22:10 UTC 2025
 
 ## Latest Analysis
 
-Loaded 71555 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-19 01:45:25
+Loaded 71591 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-19 06:21:36
 
 Incidents by source:
 source
-newsapi           71454
+newsapi           71490
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-11-19 01:45
+### HOMICIDE on 2025-11-19 06:21
+- Location: BBC News
+- Description: In his first interview since release, Peter Sullivan says he wants an apology from the police after wrongful conviction of the 1986 murder of Diane Sindall.
+
+
+### OTHER on 2025-11-19 06:08
+- Location: BBC News
+- Description: Sir Sadiq Khan says the money will fund new sexual violence advocates and expand counselling provision.
+
+
+### ASSAULT on 2025-11-19 06:00
+- Location: Naturalnews.com
+- Description: Chenguang Gong, 59, was sentenced to nearly four years in prison for stealing classified U.S. military technology – including infrared sensors for missile detection and fighter jet countermeasures – and attempting to transfer it to China. Gong admitted to tra…
+
+
+### HOMICIDE on 2025-11-19 05:59
+- Location: Protothema.gr
+- Description: A 27-year-old Greek-Canadian woman, Vanessa Kollias, admitted in court that she killed her two sons, aged 4 and 5, just days after the death of her 72-year-old husband from cancer, saying she wanted her family “to be reunited together in heaven”
+The post Gree…
+
+
+### HOMICIDE on 2025-11-19 05:58
 - Location: ABC News
-- Description: A man convicted of fatally shooting a man and woman during home invasion robbery and later confessing to three other killings is scheduled to be put to death in December
+- Description: Closing arguments are scheduled for Wednesday in the murder trial of an Ohio officer charged in the shooting death of Ta'Kiya Young, a pregnant Black mother killed in a supermarket parking lot after being accused of shoplifting
 
-
-### HOMICIDE on 2025-11-19 01:45
-- Location: Israelnationalnews.com
-- Description: A man in his 30s was shot and killed in a violent incident in Hadera. Magen David Adom medics pronounced him dead at the scene.Police have set up roadblocks and are conducting searches in the area to locate suspects.
-
-
-### HOMICIDE on 2025-11-19 01:36
-- Location: NBC News
-- Description: Singer D4vd has been identified as a suspect in the death of a 15-year-old girl who was found dead in a vehicle owned by the singer in September, according to a Los Angeles Police Department source with direct knowledge of the investigation.
-
-
-### OTHER on 2025-11-19 01:32
-- Location: Thechronicle.com.gh
-- Description: Ghana is facing a disturbing surge in crime, a trend that threatens not only the safety of citizens but also the nation’s image and stability. Last week, The Chronicle highlighted the rising incidents of kidnapping and human trafficking in an editorial titled…
-
-
-### HOMICIDE on 2025-11-19 01:28
-- Location: Yahoo Entertainment
-- Description: A man convicted of fatally shooting a man and woman during home invasion robbery and later confessing to three other killings is scheduled to be put to death...
-
-Analysis generated at: Thu Nov 20 01:51:30 UTC 2025
+Analysis generated at: Thu Nov 20 06:22:10 UTC 2025
