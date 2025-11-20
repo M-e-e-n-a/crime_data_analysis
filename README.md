@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Nov 20 06:22:10 UTC 2025
+Last updated: Thu Nov 20 12:30:15 UTC 2025
 
 ## Latest Analysis
 
-Loaded 71591 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-19 06:21:36
+Loaded 71648 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-19 12:22:00
 
 Incidents by source:
 source
-newsapi           71490
+newsapi           71547
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-11-19 06:21
-- Location: BBC News
-- Description: In his first interview since release, Peter Sullivan says he wants an apology from the police after wrongful conviction of the 1986 murder of Diane Sindall.
+### HOMICIDE on 2025-11-19 12:22
+- Location: Newser
+- Description: The North Carolina man charged with killing four of his children told investigators a fifth child, a 1-month-old infant, also died and was buried behind the family home. Court documents released Tuesday reveal that Wellington Dickens III, 38, said the infant,…
 
 
-### OTHER on 2025-11-19 06:08
-- Location: BBC News
-- Description: Sir Sadiq Khan says the money will fund new sexual violence advocates and expand counselling provision.
+### OTHER on 2025-11-19 12:17
+- Location: Freerepublic.com
+- Description: Our newly-anointed Mayor-elect, Zohran Mamdani, vows that he is a Socialist, and that he intends to implement an explicitly Socialist suite of policies. OK, the guy is only 34 years old. He was born on October 18, 1991, just a couple of months before the fina…
 
 
-### ASSAULT on 2025-11-19 06:00
-- Location: Naturalnews.com
-- Description: Chenguang Gong, 59, was sentenced to nearly four years in prison for stealing classified U.S. military technology – including infrared sensors for missile detection and fighter jet countermeasures – and attempting to transfer it to China. Gong admitted to tra…
+### ASSAULT on 2025-11-19 12:14
+- Location: Freerepublic.com
+- Description: Police said the woman suffered "severe burns" all over her body and that she remains in critical condition at a hospital, per NBC 5. Firefighters who responded to the scene extinguished the flames before officers arrived, the outlet reported. On Tuesday, Nov.…
 
 
-### HOMICIDE on 2025-11-19 05:59
-- Location: Protothema.gr
-- Description: A 27-year-old Greek-Canadian woman, Vanessa Kollias, admitted in court that she killed her two sons, aged 4 and 5, just days after the death of her 72-year-old husband from cancer, saying she wanted her family “to be reunited together in heaven”
-The post Gree…
+### OTHER on 2025-11-19 12:02
+- Location: Marca
+- Description: The Cleveland Browns general manager Andrew Berry is taking a strategic approach to ensure rookie quarterback Shedeur Sanders gets a legitimate opportunity, even as head coach Kevi
 
 
-### HOMICIDE on 2025-11-19 05:58
-- Location: ABC News
-- Description: Closing arguments are scheduled for Wednesday in the murder trial of an Ohio officer charged in the shooting death of Ta'Kiya Young, a pregnant Black mother killed in a supermarket parking lot after being accused of shoplifting
+### OTHER on 2025-11-19 12:00
+- Location: The Irish Times
+- Description: With hands zip-tied and heads bowed, Assad loyalists were among the first to face a public court in Aleppo
 
-Analysis generated at: Thu Nov 20 06:22:10 UTC 2025
+Analysis generated at: Thu Nov 20 12:30:15 UTC 2025
