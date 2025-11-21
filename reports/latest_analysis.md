@@ -1,10 +1,10 @@
 
-Loaded 71781 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-20 01:47:00
+Loaded 71828 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-20 06:08:00
 
 Incidents by source:
 source
-newsapi           71680
+newsapi           71727
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-11-20 01:47
+### OTHER on 2025-11-20 06:08
 - Location: The Star Online
-- Description: MEXICO CITY (Reuters) -Mexican authorities on Wednesday announced the arrest of an alleged mastermind in the assassination of a popular opposition mayor, a vocal critic of the government's security policies whose murder has shocked the country and sparked mas…
+- Description: SEREMBAN: A 20-year-old delivery man was ordered by the Sessions Court here to perform 240 hours of community service within 12 months for raping a student who was two months short of turning 14. Read full story
 
 
-### HOMICIDE on 2025-11-20 01:40
-- Location: Joehoft.com
-- Description: Covering Up the Behavioral Health Links to Mass Murders and Assassinations Republished with permission from AbleChild. When violent bloodshed occurs – a school shooting, an assassination, a sudden act of mass violence— behavioral health usually is behind it. …
+### OTHER on 2025-11-20 06:00
+- Location: The Times of India
+- Description: A new report reveals over 50,000 children in conflict with the law are awaiting justice, with over 55% of cases pending before Juvenile Justice Boards. Despite the Juvenile Justice Act's decade-long implementation, the system struggles with delays, vacancies,…
 
 
-### ROBBERY/THEFT on 2025-11-20 01:38
-- Location: ABC News (AU)
-- Description: Queensland Police had been investigating the alleged theft of a vehicle and Arnie the German shepherd, from Brisbane's bayside.
+### ASSAULT on 2025-11-20 05:45
+- Location: New York Post
+- Description: The 44-year-old mother of two lured the child to meet up with her over a course of several months in 2022, driving him to several different locations where she forced him "to engage in sexually explicit conduct with her."
 
 
-### ASSAULT on 2025-11-20 01:30
-- Location: Theregister.com
-- Description: ‘Bulletproof’ hosts partly dodged the last attack of this sort
-US, UK, Australia sanction Lockbit gang’s hosting provider ‘Bulletproof’ hosts partly dodged the last attack of this sort Cybercrime fighters in the US, UK, and Australia have imposed sanctions on…
+### OTHER on 2025-11-20 05:42
+- Location: BBC News
+- Description: David Carrick is already serving life in prison, but he now faces a further sentence.
 
 
-### ROBBERY/THEFT on 2025-11-20 01:28
-- Location: Just Jared
-- Description: Mia Thornton has been arrested. On Wednesday (November 19), the 40-year-old Real Housewives of Potomac alum was arrested for felony theft in Atlanta, Georgia after she allegedly stole $11,000 worth of furniture from a condo she had been renting in the area. K…
+### DRUG RELATED on 2025-11-20 05:41
+- Location: Al Jazeera English
+- Description: FBI Director Kash Patel described Canadian former snowboarder Ryan Wedding as a 'modern-day iteration of Pablo Escobar'.
 
-Analysis generated at: Fri Nov 21 01:52:20 UTC 2025
+Analysis generated at: Fri Nov 21 06:23:33 UTC 2025
