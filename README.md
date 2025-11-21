@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Nov 20 18:22:46 UTC 2025
+Last updated: Fri Nov 21 01:07:51 UTC 2025
 
 ## Latest Analysis
 
-Loaded 71744 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-19 18:21:09
+Loaded 71771 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-20 01:03:22
 
 Incidents by source:
 source
-newsapi           71643
+newsapi           71670
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-11-19 18:21
-- Location: The Times of India
-- Description: The Enforcement Directorate is set to share its findings with Delhi Police. This could lead to a new FIR against Al Falah group chairman Jawad Siddiqui for cheating and conspiracy. Siddiqui was arrested by ED on Tuesday. The agency is investigating alleged di…
+### OTHER on 2025-11-20 01:03
+- Location: KPBS
+- Description: ICE has arrested at least 35 people in Chula Vista this year, according to the Deportation Data Project.
 
 
-### OTHER on 2025-11-19 18:19
-- Location: Variety
-- Description: What do this year’s International Emmy Awards say about the current state of TV production outside the U.S.? If three of its major scripted categories – drama series, telenovelas, miniseries – are anything to go by, rather a lot. For one thing, global streami…
+### OTHER on 2025-11-20 01:00
+- Location: The Denver Post
+- Description: Michael Christopher Digiacomo is charged with two felonies after an investigation into incidents that happened while he was working as a paraprofessional at Welby Community School.
 
 
-### OTHER on 2025-11-19 18:16
-- Location: The Times of India
-- Description: Actor Anirban Chakrabarti reveals the secret behind detective Eken Babu's brilliance: constant fuel from food. Samosas and tea are not indulgences but essential tools for the quirky sleuth, providing power boosters and calm moments for renewed clarity. These …
+### HOMICIDE on 2025-11-20 00:55
+- Location: Fox News
+- Description: Fugitive task force arrests suspect in murder of Texas woman in 2020 after illegal border crossing. Hernan Perez Juarez now faces charges in brutal Georgetown case.
 
 
-### OTHER on 2025-11-19 18:15
-- Location: Screen Rant
-- Description: Netflix's cozy crime comedy about a retiree undercover is back, and there are several new faces joining Ted Danson in the sitcom's 2nd season.
+### DRUG RELATED on 2025-11-20 00:53
+- Location: New York Post
+- Description: Federal authorities said Wednesday they seized more than a half-ton of methamphetamine and indicted 15 people following a two-year investigation that disrupted a drug trafficking organization from Mexico operating in Colorado.
 
 
-### SHOOTING on 2025-11-19 18:14
-- Location: Thoughtcatalog.com
-- Description: The first few minutes of Thoughts & Prayers: How To Survive an Active Shooter in America make me feel like I’m descending into a collective hallucination. You watch the camera pan through a mar…
+### OTHER on 2025-11-20 00:51
+- Location: Rpnradio.com
+- Description: Bacolod City – Remnants of New People’s Army in Negros Island have instituted a bloody purge targeting alleged military informants, a ranking military official disclosed recently. Brig. Gen. Ted Dumosmog, Army’s 303rd Infantry Brigade commander, said some of …
 
-Analysis generated at: Thu Nov 20 18:22:46 UTC 2025
+Analysis generated at: Fri Nov 21 01:07:51 UTC 2025
