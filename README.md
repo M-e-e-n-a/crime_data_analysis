@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Nov 21 06:23:33 UTC 2025
+Last updated: Fri Nov 21 12:29:35 UTC 2025
 
 ## Latest Analysis
 
-Loaded 71828 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-20 06:08:00
+Loaded 71880 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-20 12:25:08
 
 Incidents by source:
 source
-newsapi           71727
+newsapi           71779
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-11-20 06:08
-- Location: The Star Online
-- Description: SEREMBAN: A 20-year-old delivery man was ordered by the Sessions Court here to perform 240 hours of community service within 12 months for raping a student who was two months short of turning 14. Read full story
+### OTHER on 2025-11-20 12:25
+- Location: Celebitchy.com
+- Description: View this post on Instagram A post shared by Raleigh Downtown (@raleighdowntown) Over the weekend, North Carolina became the latest target for the Trump administration’s immigration “crackdown.” It began with the lamely named “Operation Charlotte’s Web” in Ch…
 
 
-### OTHER on 2025-11-20 06:00
+### SHOOTING on 2025-11-20 12:23
+- Location: Fox News
+- Description: An update on Kris Boyd's condition was provided on Wednesday as the New York Jets player continues to recover from being wounded in a shooting
+
+
+### OTHER on 2025-11-20 12:11
 - Location: The Times of India
-- Description: A new report reveals over 50,000 children in conflict with the law are awaiting justice, with over 55% of cases pending before Juvenile Justice Boards. Despite the Juvenile Justice Act's decade-long implementation, the system struggles with delays, vacancies,…
+- Description: Fugitive diamond trader Mehul Choksi's challenge to his extradition will be heard by Belgium's supreme court on December 9. Choksi is contesting a ruling that upheld India's request for his extradition. The court will review the legal aspects of the previous …
 
 
-### ASSAULT on 2025-11-20 05:45
-- Location: New York Post
-- Description: The 44-year-old mother of two lured the child to meet up with her over a course of several months in 2022, driving him to several different locations where she forced him "to engage in sexually explicit conduct with her."
+### ASSAULT on 2025-11-20 11:56
+- Location: Jezebel
+- Description: Sarah Weinman's excellent new book, Without Consent, chronicles the relationship at the center of the sensationalized 1970s trial and its impact on the long—and alarmingly recent—fight to criminalize spousal rape.
 
 
-### OTHER on 2025-11-20 05:42
-- Location: BBC News
-- Description: David Carrick is already serving life in prison, but he now faces a further sentence.
+### OTHER on 2025-11-20 11:56
+- Location: Www.gov.uk
+- Description: Environment Secretary Emma Reynolds delivered a keynote speech at the 2025 CLA Rural Business Conference
 
-
-### DRUG RELATED on 2025-11-20 05:41
-- Location: Al Jazeera English
-- Description: FBI Director Kash Patel described Canadian former snowboarder Ryan Wedding as a 'modern-day iteration of Pablo Escobar'.
-
-Analysis generated at: Fri Nov 21 06:23:33 UTC 2025
+Analysis generated at: Fri Nov 21 12:29:35 UTC 2025
