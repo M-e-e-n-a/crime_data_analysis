@@ -1,10 +1,10 @@
 
-Loaded 71885 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-20 12:46:46
+Loaded 71957 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-20 18:12:04
 
 Incidents by source:
 source
-newsapi           71784
+newsapi           71856
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-11-20 12:46
+### OTHER on 2025-11-20 18:12
+- Location: Bleeding Cool News
+- Description: This week saw Marvel Comics put out five Age of Revelation titles Unbreakable X-Men #2 by Gail Simone, C.F. Villa, Alessandro Cappuccio, David Marquez, Davide Tinto, Mario Santoro, R.B. Silva, Ramon Rosana, Lucas Werneck, Omega Kids #2 by Tony Fleecs, Andres …
+
+
+### OTHER on 2025-11-20 18:07
 - Location: ABC News
-- Description: At least 26 people, including three children, were killed in Russian strikes on the Ukrainian city of Ternopil.
+- Description: Former Rep. Liz Cheney spoke at the funeral of her father, former Vice President Dick Cheney, reflecting on his devotion to public service and time spent together during his final years.
 
 
-### OTHER on 2025-11-20 12:45
-- Location: Whyevolutionistrue.com
-- Description: Welcome to Thursday, November 20, 2025, and World Philosophy Day. Can you guess the names of these philosophers?  This skit would never ever make it on t.v. today for several reasons you’ll discern. It’s also National Peanut Butter Fudge Day, National Absurdi…
+### HOMICIDE on 2025-11-20 18:03
+- Location: Exclaim!
+- Description: Earlier this year, actor Jonathan Joss died following an altercation with a neighbour near the rubble of his burned-down San Antonio, TX
 
 
-### OTHER on 2025-11-20 12:44
-- Location: Cointelegraph
-- Description: A federal judge has sentenced Samourai Wallet’s co-founders to four and five years in prison, ruling their non-custodial mixer amounted to an unlicensed money-transmission service.
+### HOMICIDE on 2025-11-20 18:01
+- Location: WTAE Pittsburgh
+- Description: The posts followed a video statement from the lawmakers, including Navy veteran and Western Pennsylvania Rep. Chris Deluzio, telling military members they can refuse illegal military orders.
 
 
-### OTHER on 2025-11-20 12:32
-- Location: Forbes
-- Description: The third season of International Emmy award winning Hindi web series 'Delhi Crime' debuts on Netflix global top 10 along with four Indian films this week.
+### OTHER on 2025-11-20 18:00
+- Location: Freerepublic.com
+- Description: Several defendants who are among the first indicted on terrorism-related charges for their alleged connection to Antifa are scheduled to plead guilty this week and next, according to the U.S. Attorney's Office in the Northern District of Texas. A grand jury i…
 
-
-### OTHER on 2025-11-20 12:30
-- Location: Thefutoncritic.com
-- Description: Created by and starring Sally Lindsay, the special is set to premiere on Monday, December 15 and Monday, December 22, respectively, in the US, Canada, Australia and New Zealand.
-
-Analysis generated at: Fri Nov 21 12:49:26 UTC 2025
+Analysis generated at: Fri Nov 21 18:21:11 UTC 2025
