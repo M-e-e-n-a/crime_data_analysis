@@ -1,10 +1,10 @@
 
-Loaded 72056 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-21 12:41:48
+Loaded 72144 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-21 18:17:12
 
 Incidents by source:
 source
-newsapi           71955
+newsapi           72043
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-11-21 12:41
-- Location: New York Post
-- Description: A suspect was shot and killed by a cop inside the terminal at Missouri's St. Louis Lambert International Airport early Friday.
+### ASSAULT on 2025-11-21 18:17
+- Location: National Post
+- Description: Daughter sexually assaulted on camera, wife 'degraded' as thieves threatened to cut off the man's genitalia. One of the men came specifically to Canada to commit the crime, court documents state
 
 
-### OTHER on 2025-11-21 12:41
-- Location: Financial Post
-- Description: PARIS (AP) — France’s government is taking action against artificial intelligence chatbot Grok, which was launched by a company owned by billionaire Elon Musk, after it generated French-language posts that questioned the use of gas chambers at Auschwitz and l…
+### HOMICIDE on 2025-11-21 18:15
+- Location: Freerepublic.com
+- Description: A knife-wielding suspect was shot and killed Friday morning at St. Louis Lambert International Airport after refusing orders to drop his weapon, police said. The officer-involved shooting happened around 1:05 a.m. local time as "STL Airport Police officers we…
 
 
-### OTHER on 2025-11-21 12:41
-- Location: Boston Herald
-- Description: Chicago's immigrant communities have been gripped by fear due to the recent crackdown, but one defiant couple bucks the trend.
+### OTHER on 2025-11-21 18:15
+- Location: Raw Story
+- Description: At least nine Indiana lawmakers have faced intimidation and swatting threats following President Donald Trump's campaign to have the state's congressional districts redrawn before the 2026 midterms.Indiana state Senator Andy Zay confirmed to FOX59 that he was…
 
 
-### OTHER on 2025-11-21 12:37
-- Location: Yahoo Entertainment
-- Description: France’s government is taking action against artificial intelligence chatbot Grok, which was launched by a company owned by billionaire Elon Musk, after it...
+### OTHER on 2025-11-21 18:14
+- Location: Hip-Hop Wired
+- Description: Thee Stallion let the tears flow while speaking to the jury about the PSA she cut about suicide prevention, and revealing how Tory Lanez fed Milagro Gramz lies to spread on social media and her blog.
 
 
-### OTHER on 2025-11-21 12:21
-- Location: Thepinknews.com
-- Description: Zack Polanski, Kate Nash, Victoria McCloud, and Caroline Litman joined millions of activists across the UK and the world holding candlelight vigils to mark Trans Day of Remembrance. 43-year-old Green Party leader Zack Polanski gave a speech during a frigid, s…
+### HOMICIDE on 2025-11-21 18:13
+- Location: Slashdot.org
+- Description: 1 dead after officer-involved shooting at St. Louis Lambert International Airport: PoliceABC News 1 dead in police shooting inside Terminal 1 at Lambert AirportKSDK 1 person dead in officer-involved shooting at St. Louis airportFOX 2 Knife-wielding man in St.…
 
-Analysis generated at: Sat Nov 22 12:42:31 UTC 2025
+Analysis generated at: Sat Nov 22 18:19:52 UTC 2025
