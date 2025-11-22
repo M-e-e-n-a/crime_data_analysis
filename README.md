@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Nov 21 18:21:11 UTC 2025
+Last updated: Sat Nov 22 01:05:32 UTC 2025
 
 ## Latest Analysis
 
-Loaded 71957 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-20 18:12:04
+Loaded 71964 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-21 00:55:33
 
 Incidents by source:
 source
-newsapi           71856
+newsapi           71863
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-11-20 18:12
-- Location: Bleeding Cool News
-- Description: This week saw Marvel Comics put out five Age of Revelation titles Unbreakable X-Men #2 by Gail Simone, C.F. Villa, Alessandro Cappuccio, David Marquez, Davide Tinto, Mario Santoro, R.B. Silva, Ramon Rosana, Lucas Werneck, Omega Kids #2 by Tony Fleecs, Andres …
+### OTHER on 2025-11-21 00:55
+- Location: CounterPunch
+- Description: “One might almost say that to live in society today is something like living inside an enormous comic strip.” ― Jean-Luc Godard + President Bone Spurs on Prince Bone Saws: “We have an extremely respected man in the Oval Office today. And a friend of mine for …
 
 
-### OTHER on 2025-11-20 18:07
-- Location: ABC News
-- Description: Former Rep. Liz Cheney spoke at the funeral of her father, former Vice President Dick Cheney, reflecting on his devotion to public service and time spent together during his final years.
+### DRUG RELATED on 2025-11-21 00:49
+- Location: Sky.com
+- Description: Profits from drug sales are often turned into cryptocurrency - and according to the National Crime Agency, these proceeds have a direct link to "geopolitical events causing suffering around the world".
 
 
-### HOMICIDE on 2025-11-20 18:03
-- Location: Exclaim!
-- Description: Earlier this year, actor Jonathan Joss died following an altercation with a neighbour near the rubble of his burned-down San Antonio, TX
+### OTHER on 2025-11-21 00:17
+- Location: Boston Herald
+- Description: The BPD reports that its officers responded to 261 incidents in its report ending at 10 a.m. Thursday.
 
 
-### HOMICIDE on 2025-11-20 18:01
-- Location: WTAE Pittsburgh
-- Description: The posts followed a video statement from the lawmakers, including Navy veteran and Western Pennsylvania Rep. Chris Deluzio, telling military members they can refuse illegal military orders.
+### ROBBERY/THEFT on 2025-11-21 00:07
+- Location: ABC News (AU)
+- Description: Nicolas Kostowski is ordered to pay hundreds of thousands of dollars in compensation after pleading guilty to stealing 116 cattle from a neighbouring property.
 
 
-### OTHER on 2025-11-20 18:00
-- Location: Freerepublic.com
-- Description: Several defendants who are among the first indicted on terrorism-related charges for their alleged connection to Antifa are scheduled to plead guilty this week and next, according to the U.S. Attorney's Office in the Northern District of Texas. A grand jury i…
+### HOMICIDE on 2025-11-21 00:02
+- Location: BBC News
+- Description: Nearly 1,000 women were raped and 137 murdered in the first three months of this year.
 
-Analysis generated at: Fri Nov 21 18:21:11 UTC 2025
+Analysis generated at: Sat Nov 22 01:05:32 UTC 2025
