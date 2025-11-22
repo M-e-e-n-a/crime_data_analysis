@@ -1,10 +1,10 @@
 
-Loaded 71970 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-21 01:46:57
+Loaded 71997 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-21 06:15:34
 
 Incidents by source:
 source
-newsapi           71869
+newsapi           71896
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-11-21 01:46
+### OTHER on 2025-11-21 06:15
+- Location: BBC News
+- Description: Being in a courtroom to give evidence is daunting says London victims' commissioner Claire Waxman.
+
+
+### OTHER on 2025-11-21 06:08
 - Location: ABC News (AU)
-- Description: Almost three years on, the Queensland coroner is handing down his findings into the Wieambilla terror attack, which claimed the lives of two young police officers and a neighbour.
+- Description: Former NSW union leaders, Michael Greenfield, and his son, Michael, have been sentenced to 10 months and six months in prison.
 
 
-### HOMICIDE on 2025-11-21 01:42
-- Location: Tampa Bay Times
-- Description: Tampa police have arrested in man in connection with the shooting death of a popular local DJ during an apparent traffic dispute in Ybor City last week. Joel...
-
-
-### OTHER on 2025-11-21 01:33
-- Location: New York Post
-- Description: Disgraced former Harvard president Larry Summers spent his honeymoon on Jeffrey Epstein's private island, according to a new report released a day after he left his cushy Ivy League teaching post amid explosive emails showing extensive contact with the convic…
-
-
-### OTHER on 2025-11-21 01:21
+### HOMICIDE on 2025-11-21 06:07
 - Location: ABC News (AU)
-- Description: Britain's National Crime Agency says criminal cash has been funnelled through a bank in Kyrgyzstan, then on to Russia.
+- Description: A ute captured on CCTV outside a workshop where an Adelaide father-of-two's body was later found has now been located, police say, with a lead detective describing the development as a "significant breakthrough" in the investigation into the alleged murder.
 
 
-### SHOOTING on 2025-11-21 01:17
-- Location: Lawyersgunsmoneyblog.com
-- Description: Another appalling sequence of events related to a particularly extreme Kavanaugh stop: Federal prosecutors moved to dismiss charges on Thursday against two motorists who were accused of using their cars to “assault, impede and interfere with the work of feder…
+### ROBBERY/THEFT on 2025-11-21 06:02
+- Location: ABC News (AU)
+- Description: Victorian police say a man has been arrested over the theft of a vehicle that had a sleeping toddler inside.
 
-Analysis generated at: Sat Nov 22 01:48:32 UTC 2025
+
+### HOMICIDE on 2025-11-21 06:01
+- Location: Yahoo Entertainment
+- Description: Three Christian extremists shared a delusional disorder when they opened fire on police officers they perceived as “demons intent on killing them” on a rural...
+
+Analysis generated at: Sat Nov 22 06:20:35 UTC 2025
