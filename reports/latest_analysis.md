@@ -1,10 +1,10 @@
 
-Loaded 71964 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-21 00:55:33
+Loaded 71970 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-21 01:46:57
 
 Incidents by source:
 source
-newsapi           71863
+newsapi           71869
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-11-21 00:55
-- Location: CounterPunch
-- Description: “One might almost say that to live in society today is something like living inside an enormous comic strip.” ― Jean-Luc Godard + President Bone Spurs on Prince Bone Saws: “We have an extremely respected man in the Oval Office today. And a friend of mine for …
-
-
-### DRUG RELATED on 2025-11-21 00:49
-- Location: Sky.com
-- Description: Profits from drug sales are often turned into cryptocurrency - and according to the National Crime Agency, these proceeds have a direct link to "geopolitical events causing suffering around the world".
-
-
-### OTHER on 2025-11-21 00:17
-- Location: Boston Herald
-- Description: The BPD reports that its officers responded to 261 incidents in its report ending at 10 a.m. Thursday.
-
-
-### ROBBERY/THEFT on 2025-11-21 00:07
+### HOMICIDE on 2025-11-21 01:46
 - Location: ABC News (AU)
-- Description: Nicolas Kostowski is ordered to pay hundreds of thousands of dollars in compensation after pleading guilty to stealing 116 cattle from a neighbouring property.
+- Description: Almost three years on, the Queensland coroner is handing down his findings into the Wieambilla terror attack, which claimed the lives of two young police officers and a neighbour.
 
 
-### HOMICIDE on 2025-11-21 00:02
-- Location: BBC News
-- Description: Nearly 1,000 women were raped and 137 murdered in the first three months of this year.
+### HOMICIDE on 2025-11-21 01:42
+- Location: Tampa Bay Times
+- Description: Tampa police have arrested in man in connection with the shooting death of a popular local DJ during an apparent traffic dispute in Ybor City last week. Joel...
 
-Analysis generated at: Sat Nov 22 01:05:32 UTC 2025
+
+### OTHER on 2025-11-21 01:33
+- Location: New York Post
+- Description: Disgraced former Harvard president Larry Summers spent his honeymoon on Jeffrey Epstein's private island, according to a new report released a day after he left his cushy Ivy League teaching post amid explosive emails showing extensive contact with the convic…
+
+
+### OTHER on 2025-11-21 01:21
+- Location: ABC News (AU)
+- Description: Britain's National Crime Agency says criminal cash has been funnelled through a bank in Kyrgyzstan, then on to Russia.
+
+
+### SHOOTING on 2025-11-21 01:17
+- Location: Lawyersgunsmoneyblog.com
+- Description: Another appalling sequence of events related to a particularly extreme Kavanaugh stop: Federal prosecutors moved to dismiss charges on Thursday against two motorists who were accused of using their cars to “assault, impede and interfere with the work of feder…
+
+Analysis generated at: Sat Nov 22 01:48:32 UTC 2025
