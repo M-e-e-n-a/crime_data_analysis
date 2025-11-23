@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Nov 23 01:17:53 UTC 2025
+Last updated: Sun Nov 23 02:07:20 UTC 2025
 
 ## Latest Analysis
 
-Loaded 72162 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-22 01:08:35
+Loaded 72168 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-22 02:05:25
 
 Incidents by source:
 source
-newsapi           72061
+newsapi           72067
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,31 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-11-22 01:08
-- Location: New York Post
-- Description: She was treated at a hospital — and promptly arrested when authorities discovered she was a suspected gang member with six outstanding warrants.
+### SHOOTING on 2025-11-22 02:05
+- Location: Yahoo Entertainment
+- Description: A former University of Virginia student was sentenced on Friday to life in prison for fatally shooting three football players and wounding two other students...
 
 
-### OTHER on 2025-11-22 01:08
-- Location: KOMO News
-- Description: Abdinjib Ibraham has spent most of the last decade locked up or at Western State Hospital.
+### SHOOTING on 2025-11-22 02:04
+- Location: TMZ
+- Description: A police standoff in Los Angeles featured a man allegedly shooting at an LAPD helicopter ... and TMZ obtained the insane video of the man firing bullets in the air! In the footage, you see a man dressed in black pacing menacingly around the front…
 
 
-### OTHER on 2025-11-22 01:01
-- Location: Extra
-- Description: Less than a week after her in-flight incident, Porsha Williams won’t be facing any legal troubles!
- On Friday, Williams’ rep Joel Habachy provided an update on the case.
- In a statement to “Extra,” they said, “We just received word from the United States Atto…
+### OTHER on 2025-11-22 02:01
+- Location: Page Six
+- Description: Williams was escorted by police off of a Delta Airlines flight on Nov. 16 after she was accused of getting physical with another passenger.
 
 
-### OTHER on 2025-11-22 01:00
-- Location: Starweekly.com.au
-- Description: Violent offenders using knives may be locked up for longer as a record number of machetes and other blades are seized, mainly from criminals and youth gang members. Police have confiscated more than 15,000 knives, machetes and zombie knives in Victoria in 202…
+### ROBBERY/THEFT on 2025-11-22 01:44
+- Location: CBC News
+- Description: RCMP say they're searching for two men who broke into a business and stole its ATM in a community southeast of Winnipeg early Friday.
 
 
-### OTHER on 2025-11-22 00:56
-- Location: Breitbart News
-- Description: House Republicans blasted Democrats on Friday after a majority refused to condemn the horrors of socialism, warning that the vote revealed “more Democrats support socialism than oppose it.”
-The post Republicans Call Out ‘Despicable’ Democrats After Majority R…
+### HOMICIDE on 2025-11-22 01:37
+- Location: Japan Today
+- Description: A Ground Self-Defense Force member was arrested Saturday for attempted murder after a woman in her 40s was stabbed and suffered serious wounds in Tokyo's Akasaka district days earlier, police said. Yoichiro Otsu, a 43-year-old resident of Tokyo's Nerima Ward,…
 
-Analysis generated at: Sun Nov 23 01:17:53 UTC 2025
+Analysis generated at: Sun Nov 23 02:07:20 UTC 2025
