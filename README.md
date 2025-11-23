@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Nov 23 06:21:21 UTC 2025
+Last updated: Sun Nov 23 12:25:46 UTC 2025
 
 ## Latest Analysis
 
-Loaded 72204 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-22 06:15:38
+Loaded 72241 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-22 12:00:00
 
 Incidents by source:
 source
-newsapi           72103
+newsapi           72140
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-11-22 06:15
-- Location: The Daily Caller
-- Description: In small towns across Kentucky and across America, law enforcement officers don’t just serve—they become part of the community’s fabric.
+### ASSAULT on 2025-11-22 12:00
+- Location: CBC News
+- Description: Survivors of sexual violence say a newly released national report on how the justice system fails sex assault victims has a potentially fatal flaw in that its recommendations for change are not enforceable.
 
 
-### HOMICIDE on 2025-11-22 06:03
-- Location: The Quietus
-- Description: A new boxset from Eureka Entertainment collects five films from the DEFA archives, taking in film noir, Expressionism, melodrama – and denazification
-At least twice, Germany has had among the most influential and important mainstream film industries in the wo…
+### SHOOTING on 2025-11-22 11:57
+- Location: Freerepublic.com
+- Description: A shooting at a Christmas tree lighting event in Concord, North Carolina, on Friday left four people wounded, according to police. Concord Police said three victims were listed in critical condition and one was in stable condition. All four victims were rushe…
 
 
-### DRUG RELATED on 2025-11-22 06:00
-- Location: Naturalnews.com
-- Description: The U.S. Border Patrol has deployed covert license plate readers, AI and predictive algorithms to monitor millions of American drivers nationwide. Originally targeting drug/human trafficking, the program now functions as a domestic intelligence operation, rai…
+### OTHER on 2025-11-22 11:40
+- Location: Loyaltylobby.com
+- Description: Over the years, we have seen plenty of disruptive and unacceptable behavior of tourists and now there is a new case where two Chinese tourists were caught defecating at a palace in Seoul, South Korea. The pair was arrested, but only the man got fined […]
 
 
-### SHOOTING on 2025-11-22 05:41
-- Location: The Times of India
-- Description: Four people were injured, three critically, during Concord's annual Christmas Tree Lighting Ceremony on Friday evening. The shooting occurred near the event's location, prompting an immediate response from law enforcement and emergency personnel. The remainde…
+### HOMICIDE on 2025-11-22 11:37
+- Location: BBC News
+- Description: Police say a number of people are being temporarily moved from their homes while inquiries continue.
 
 
-### OTHER on 2025-11-22 05:33
-- Location: ABC News
-- Description: Yemen's Houthi rebels have arrested dozens of workers with United Nations agencies, aid groups and nongovernmental organizations
+### OTHER on 2025-11-22 11:29
+- Location: The Indian Express
+- Description: According to the Delhi Police, traffickers based in Pakistan deploy customised commercial drones to drop arms, ammunition, and other contraband items near vulnerable stretches of the border, primarily during late-night hours to avoid detection.
 
-Analysis generated at: Sun Nov 23 06:21:21 UTC 2025
+Analysis generated at: Sun Nov 23 12:25:46 UTC 2025
