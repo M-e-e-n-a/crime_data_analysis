@@ -1,10 +1,10 @@
 
-Loaded 72242 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-22 12:30:51
+Loaded 72297 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-22 18:18:11
 
 Incidents by source:
 source
-newsapi           72141
+newsapi           72196
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2025-11-22 12:30
-- Location: The Times of India
-- Description: The Bengaluru City Police on Saturday stated that it had a significant breakthrough in the daylight robbery case from an ATM cash van, recovering Rs 5.76 crore out of the total Rs 7.11 crore of the total amount stolen and arresting three key accused who were …
+### HOMICIDE on 2025-11-22 18:18
+- Location: Capitalbnews.org
+- Description: Sean Walton, an attorney for the Young family, called the outcome “an American tragedy.”…
 
 
-### ASSAULT on 2025-11-22 12:00
-- Location: CBC News
-- Description: Survivors of sexual violence say a newly released national report on how the justice system fails sex assault victims has a potentially fatal flaw in that its recommendations for change are not enforceable.
+### ASSAULT on 2025-11-22 18:16
+- Location: Breitbart News
+- Description: Arizona laws that distance sex offenders from schools didn’t stop a felon just released from prison from entering a Phoenix elementary and posing as a doctor so he could allegedly sexually assault a 10-year-old girl.
+The post Freed Sex Offender Poses as Docto…
 
 
-### SHOOTING on 2025-11-22 11:57
-- Location: Freerepublic.com
-- Description: A shooting at a Christmas tree lighting event in Concord, North Carolina, on Friday left four people wounded, according to police. Concord Police said three victims were listed in critical condition and one was in stable condition. All four victims were rushe…
+### OTHER on 2025-11-22 18:01
+- Location: Wonkette.com
+- Description: And just like that, the goons (or some of them, maybe?) are fucking off to New Orleans.
 
 
-### OTHER on 2025-11-22 11:40
-- Location: Loyaltylobby.com
-- Description: Over the years, we have seen plenty of disruptive and unacceptable behavior of tourists and now there is a new case where two Chinese tourists were caught defecating at a palace in Seoul, South Korea. The pair was arrested, but only the man got fined […]
+### OTHER on 2025-11-22 18:01
+- Location: The Daily Caller
+- Description: Don’t you want to live in a crime-free utopia? Local authorities have the perfect tool to usher in mass surveillance in your city: Flock cameras.
 
 
-### HOMICIDE on 2025-11-22 11:37
-- Location: BBC News
-- Description: Police say a number of people are being temporarily moved from their homes while inquiries continue.
+### HOMICIDE on 2025-11-22 17:41
+- Location: TMZ
+- Description: Beloved Italian singer Ornella Vanoni, whose international hits include "Senza Fine" and "L’appuntamento," has died. Vanoni died from cardiac arrest at her home in Milan, Italy, according to Italian newspaper La Stampa. Italian Prime Minister…
 
-Analysis generated at: Sun Nov 23 12:42:20 UTC 2025
+Analysis generated at: Sun Nov 23 18:19:56 UTC 2025
