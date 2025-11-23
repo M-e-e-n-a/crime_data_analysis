@@ -1,10 +1,10 @@
 
-Loaded 72241 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-22 12:00:00
+Loaded 72242 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-22 12:30:51
 
 Incidents by source:
 source
-newsapi           72140
+newsapi           72141
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -19,6 +19,11 @@ bution.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### ROBBERY/THEFT on 2025-11-22 12:30
+- Location: The Times of India
+- Description: The Bengaluru City Police on Saturday stated that it had a significant breakthrough in the daylight robbery case from an ATM cash van, recovering Rs 5.76 crore out of the total Rs 7.11 crore of the total amount stolen and arresting three key accused who were …
+
 
 ### ASSAULT on 2025-11-22 12:00
 - Location: CBC News
@@ -39,9 +44,4 @@ bution.svg)
 - Location: BBC News
 - Description: Police say a number of people are being temporarily moved from their homes while inquiries continue.
 
-
-### OTHER on 2025-11-22 11:29
-- Location: The Indian Express
-- Description: According to the Delhi Police, traffickers based in Pakistan deploy customised commercial drones to drop arms, ammunition, and other contraband items near vulnerable stretches of the border, primarily during late-night hours to avoid detection.
-
-Analysis generated at: Sun Nov 23 12:25:46 UTC 2025
+Analysis generated at: Sun Nov 23 12:42:20 UTC 2025
