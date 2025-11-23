@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Nov 23 02:07:20 UTC 2025
+Last updated: Sun Nov 23 06:21:21 UTC 2025
 
 ## Latest Analysis
 
-Loaded 72168 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-22 02:05:25
+Loaded 72204 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-22 06:15:38
 
 Incidents by source:
 source
-newsapi           72067
+newsapi           72103
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-11-22 02:05
-- Location: Yahoo Entertainment
-- Description: A former University of Virginia student was sentenced on Friday to life in prison for fatally shooting three football players and wounding two other students...
+### HOMICIDE on 2025-11-22 06:15
+- Location: The Daily Caller
+- Description: In small towns across Kentucky and across America, law enforcement officers don’t just serve—they become part of the community’s fabric.
 
 
-### SHOOTING on 2025-11-22 02:04
-- Location: TMZ
-- Description: A police standoff in Los Angeles featured a man allegedly shooting at an LAPD helicopter ... and TMZ obtained the insane video of the man firing bullets in the air! In the footage, you see a man dressed in black pacing menacingly around the front…
+### HOMICIDE on 2025-11-22 06:03
+- Location: The Quietus
+- Description: A new boxset from Eureka Entertainment collects five films from the DEFA archives, taking in film noir, Expressionism, melodrama – and denazification
+At least twice, Germany has had among the most influential and important mainstream film industries in the wo…
 
 
-### OTHER on 2025-11-22 02:01
-- Location: Page Six
-- Description: Williams was escorted by police off of a Delta Airlines flight on Nov. 16 after she was accused of getting physical with another passenger.
+### DRUG RELATED on 2025-11-22 06:00
+- Location: Naturalnews.com
+- Description: The U.S. Border Patrol has deployed covert license plate readers, AI and predictive algorithms to monitor millions of American drivers nationwide. Originally targeting drug/human trafficking, the program now functions as a domestic intelligence operation, rai…
 
 
-### ROBBERY/THEFT on 2025-11-22 01:44
-- Location: CBC News
-- Description: RCMP say they're searching for two men who broke into a business and stole its ATM in a community southeast of Winnipeg early Friday.
+### SHOOTING on 2025-11-22 05:41
+- Location: The Times of India
+- Description: Four people were injured, three critically, during Concord's annual Christmas Tree Lighting Ceremony on Friday evening. The shooting occurred near the event's location, prompting an immediate response from law enforcement and emergency personnel. The remainde…
 
 
-### HOMICIDE on 2025-11-22 01:37
-- Location: Japan Today
-- Description: A Ground Self-Defense Force member was arrested Saturday for attempted murder after a woman in her 40s was stabbed and suffered serious wounds in Tokyo's Akasaka district days earlier, police said. Yoichiro Otsu, a 43-year-old resident of Tokyo's Nerima Ward,…
+### OTHER on 2025-11-22 05:33
+- Location: ABC News
+- Description: Yemen's Houthi rebels have arrested dozens of workers with United Nations agencies, aid groups and nongovernmental organizations
 
-Analysis generated at: Sun Nov 23 02:07:20 UTC 2025
+Analysis generated at: Sun Nov 23 06:21:21 UTC 2025
