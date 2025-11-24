@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Nov 24 12:30:53 UTC 2025
+Last updated: Mon Nov 24 12:52:38 UTC 2025
 
 ## Latest Analysis
 
-Loaded 72357 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-23 12:19:01
+Loaded 72361 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-23 12:45:56
 
 Incidents by source:
 source
-newsapi           72256
+newsapi           72260
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
+### OTHER on 2025-11-23 12:45
+- Location: Whyevolutionistrue.com
+- Description: Welcome to the Sabbath for goyische cats: it’s Sunday, February 23, 2025, and we’re into Thanksgiving week (next Thursday). It’s also National Espresso Day, celebrating the only way to have black coffee (I usually have a latte, though).  I recommend that if y…
+
+
+### OTHER on 2025-11-23 12:43
+- Location: PCMag.com
+- Description: The judge found that the Sacramento Municipal Utility District (SMUD) and the city 'developed a relationship beyond that of utility provider and law enforcement,' and that the electricity provider knew that the city’s ZIP-code-based requests 'are not being ma…
+
+
+### OTHER on 2025-11-23 12:43
+- Location: PCMag.com
+- Description: The judge found that the Sacramento Municipal Utility District (SMUD) and the city 'developed a relationship beyond that of utility provider and law enforcement,' and that the electricity provider knew that the city’s ZIP-code-based requests 'are not being ma…
+
+
+### OTHER on 2025-11-23 12:35
+- Location: Nep123.com
+- Description: Indian Nationals Arrested for Illegal Betting During Nepal Premier League In a crackdown on illegal activities, police have apprehended eight Indian nationals for allegedly running an illegal betting operation during the second season of the Nepal Premier Lea…
+
+
 ### OTHER on 2025-11-23 12:19
 - Location: The Indian Express
 - Description: How the case against Mohd Ilyas, charged in the 1996 Ghaziabad bus blast, was thrown out by High Court
 
-
-### HOMICIDE on 2025-11-23 11:37
-- Location: BBC News
-- Description: The girl was arrested after the death of a woman in her 50s inside a house in Swindon.
-
-
-### ROBBERY/THEFT on 2025-11-23 11:32
-- Location: Notesfrombelow.org
-- Description: by Ian Wright // Silicon Valley's startup culture believes it's changing the world for the better. But in reality its culture is deeply unethical since it institutionalises theft on a global scale.
-
-
-### ASSAULT on 2025-11-23 11:00
-- Location: The Intercept
-- Description: Daniel Sanchez is facing federal charges for what free speech advocates say is a clear attack on the First Amendment.
-The post The Feds Want to Make It Illegal to Even Possess an Anarchist Zine appeared first on The Intercept.
-
-
-### HOMICIDE on 2025-11-23 11:00
-- Location: NBC News
-- Description: Over the course of two decades, Ryan James Wedding went from a promising snowboarder competing in the Olympics to what officials have said is one of the most violent and ruthless criminals in the world, responsible for orchestrating murders and running a bill…
-
-Analysis generated at: Mon Nov 24 12:30:53 UTC 2025
+Analysis generated at: Mon Nov 24 12:52:38 UTC 2025
