@@ -1,10 +1,10 @@
 
-Loaded 72297 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-22 18:18:11
+Loaded 72307 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-23 01:03:21
 
 Incidents by source:
 source
-newsapi           72196
+newsapi           72206
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-11-22 18:18
-- Location: Capitalbnews.org
-- Description: Sean Walton, an attorney for the Young family, called the outcome “an American tragedy.”…
+### OTHER on 2025-11-23 01:03
+- Location: New York Post
+- Description: All three face a felony count of disturbing schools and religious assemblies under Florida’s hate-crime enhancement statute.
 
 
-### ASSAULT on 2025-11-22 18:16
-- Location: Breitbart News
-- Description: Arizona laws that distance sex offenders from schools didn’t stop a felon just released from prison from entering a Phoenix elementary and posing as a doctor so he could allegedly sexually assault a 10-year-old girl.
-The post Freed Sex Offender Poses as Docto…
+### SHOOTING on 2025-11-23 01:01
+- Location: Freerepublic.com
+- Description: Amale entered a 7-Eleven in Oklahoma City just before midnight Thursday and tried to buy burritos, beef sticks, and ice cream with a counterfeit $100 bill, according to a KOKH-TV news video. But the female clerk wasn't buying the con. What's more, the clerk s…
 
 
-### OTHER on 2025-11-22 18:01
-- Location: Wonkette.com
-- Description: And just like that, the goons (or some of them, maybe?) are fucking off to New Orleans.
+### HOMICIDE on 2025-11-23 01:00
+- Location: Oxygen
+- Description: Alan Abrahamson, 71, was found dead in the middle of a field on Jan. 25, 2018, with a gunshot wound to the chest, according to Oxygen’s Accident, Suicide, or...
 
 
-### OTHER on 2025-11-22 18:01
-- Location: The Daily Caller
-- Description: Don’t you want to live in a crime-free utopia? Local authorities have the perfect tool to usher in mass surveillance in your city: Flock cameras.
+### OTHER on 2025-11-23 00:57
+- Location: Basketball Network
+- Description: Tayshaun Prince could not believe it when the Detroit Pistons traded him to the Memphis Grizzlies.
 
 
-### HOMICIDE on 2025-11-22 17:41
-- Location: TMZ
-- Description: Beloved Italian singer Ornella Vanoni, whose international hits include "Senza Fine" and "L’appuntamento," has died. Vanoni died from cardiac arrest at her home in Milan, Italy, according to Italian newspaper La Stampa. Italian Prime Minister…
+### OTHER on 2025-11-23 00:45
+- Location: ComicBook.com
+- Description: Korean dramas are one of the hottest TV genres right now. Netflix and other streaming platforms offer easy access to popular Korean programs, and fans often find themselves addicted to the complex plots, characters with complicated motives, and emotions that …
 
-Analysis generated at: Sun Nov 23 18:19:56 UTC 2025
+Analysis generated at: Mon Nov 24 01:13:20 UTC 2025
