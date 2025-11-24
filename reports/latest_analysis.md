@@ -1,10 +1,10 @@
 
-Loaded 72361 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-23 12:45:56
+Loaded 72403 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-23 17:29:08
 
 Incidents by source:
 source
-newsapi           72260
+newsapi           72302
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-11-23 12:45
-- Location: Whyevolutionistrue.com
-- Description: Welcome to the Sabbath for goyische cats: it’s Sunday, February 23, 2025, and we’re into Thanksgiving week (next Thursday). It’s also National Espresso Day, celebrating the only way to have black coffee (I usually have a latte, though).  I recommend that if y…
+### HOMICIDE on 2025-11-23 17:29
+- Location: BBC News
+- Description: A woman is in a critical condition in hospital after the attack in Elswick, Northumbria police say.
 
 
-### OTHER on 2025-11-23 12:43
-- Location: PCMag.com
-- Description: The judge found that the Sacramento Municipal Utility District (SMUD) and the city 'developed a relationship beyond that of utility provider and law enforcement,' and that the electricity provider knew that the city’s ZIP-code-based requests 'are not being ma…
+### HOMICIDE on 2025-11-23 17:28
+- Location: Forbes
+- Description: "Wake Up Dead Man: A Knives Out Mystery," starring Daniel Craig, is opening in theaters before it streams on Netflix in December. Find out where you can see the film on the big screen.
 
 
-### OTHER on 2025-11-23 12:43
-- Location: PCMag.com
-- Description: The judge found that the Sacramento Municipal Utility District (SMUD) and the city 'developed a relationship beyond that of utility provider and law enforcement,' and that the electricity provider knew that the city’s ZIP-code-based requests 'are not being ma…
+### HOMICIDE on 2025-11-23 17:26
+- Location: Freerepublic.com
+- Description: Attorney Greg Joseph has filed a “Memorandum in support of petition for postconviction relief” on behalf of his client Derek Chauvin—the former Minneapolis police officer involved in the arrest and death of George Floyd. In the 71-page petition filed in Henne…
 
 
-### OTHER on 2025-11-23 12:35
-- Location: Nep123.com
-- Description: Indian Nationals Arrested for Illegal Betting During Nepal Premier League In a crackdown on illegal activities, police have apprehended eight Indian nationals for allegedly running an illegal betting operation during the second season of the Nepal Premier Lea…
+### HOMICIDE on 2025-11-23 17:17
+- Location: Freerepublic.com
+- Description: An Ohio man allegedly ambushed his wife as she tried to move out, fatally shooting her two children and the father of the eldest before turning the gun on himself in a grisly apparent murder-suicide, cops said. Ryan Eagon, 42, went on the deadly rampage Wedne…
 
 
-### OTHER on 2025-11-23 12:19
-- Location: The Indian Express
-- Description: How the case against Mohd Ilyas, charged in the 1996 Ghaziabad bus blast, was thrown out by High Court
+### OTHER on 2025-11-23 17:13
+- Location: CBS News
+- Description: The following is the transcript of the interview with Sen. Rand Paul, Republican of Kentucky, that aired on "Face the Nation with Margaret Brennan" on Nov. 23, 2025.
 
-Analysis generated at: Mon Nov 24 12:52:38 UTC 2025
+Analysis generated at: Mon Nov 24 18:23:04 UTC 2025
