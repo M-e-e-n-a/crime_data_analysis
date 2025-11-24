@@ -1,10 +1,10 @@
 
-Loaded 72309 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-23 01:30:00
+Loaded 72334 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-23 06:07:03
 
 Incidents by source:
 source
-newsapi           72208
+newsapi           72233
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-11-23 01:30
-- Location: CBM (Comic Book Movie)
-- Description: A brief new video from the set of Spider-Man: Brand New Day has been shared online, and it shows what looks a lot like Sadie Sink's character having a very bad day...
+### OTHER on 2025-11-23 06:07
+- Location: Bleeding Cool News
+- Description: Greetings, comrades! It is I, your El Presidente, reporting to you live from my underground bunker beneath the presidential palace, where I have been forced to take shelter after the CIA attempted to sabotage my viewing of AEW Full Gear by releasing a swarm o…
 
 
-### OTHER on 2025-11-23 01:15
-- Location: Khabarhub.com
-- Description: KATHMANDU: Human Rights Watch (HRW), the international human rights watchdog, has concluded that Nepali security forces used “unlawful, unnecessary, and disproportionate” force during the Gen-Z protests held on September 8 and 9. In its newly released study, …
+### OTHER on 2025-11-23 06:03
+- Location: BBC News
+- Description: Ripped-off customers are hunting for Miles Hart after he sold hundreds of Glastonbury tickets and vanished.
 
 
-### OTHER on 2025-11-23 01:03
-- Location: New York Post
-- Description: All three face a felony count of disturbing schools and religious assemblies under Florida’s hate-crime enhancement statute.
+### ROBBERY/THEFT on 2025-11-23 06:00
+- Location: Naturalnews.com
+- Description: Boston Dynamics’ Spot robot (valued at $100,000+) is now deployed in 60+ U.S. and Canadian bomb squads and SWAT teams. Used in hostage situations, bomb threats and hazardous environments, replacing human officers in high-risk scenarios. Critics warn of creepi…
 
 
-### SHOOTING on 2025-11-23 01:01
+### SHOOTING on 2025-11-23 05:44
 - Location: Freerepublic.com
-- Description: Amale entered a 7-Eleven in Oklahoma City just before midnight Thursday and tried to buy burritos, beef sticks, and ice cream with a counterfeit $100 bill, according to a KOKH-TV news video. But the female clerk wasn't buying the con. What's more, the clerk s…
+- Description: A man with a 30-year criminal record, reportedly at least 72 arrests, and around 15 convictions, lit a 26-year-old woman on fire on a train in Chicago Monday night. She is fighting for her life in critical condition.Mayor Brandon Johnson on Thursday called it…
 
 
-### HOMICIDE on 2025-11-23 01:00
-- Location: Oxygen
-- Description: Alan Abrahamson, 71, was found dead in the middle of a field on Jan. 25, 2018, with a gunshot wound to the chest, according to Oxygen’s Accident, Suicide, or...
+### OTHER on 2025-11-23 05:39
+- Location: The Times of India
+- Description: Lord Shani, the planet of karma and justice, is believed to bring consequences for actions. To mitigate negative effects, the article suggests remedies like performing good deeds, practicing charity, adopting a disciplined and sattvik lifestyle, and showing r…
 
-Analysis generated at: Mon Nov 24 02:01:02 UTC 2025
+Analysis generated at: Mon Nov 24 06:24:07 UTC 2025
