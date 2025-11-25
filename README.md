@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Nov 25 12:52:02 UTC 2025
+Last updated: Tue Nov 25 18:23:07 UTC 2025
 
 ## Latest Analysis
 
-Loaded 72522 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-24 12:51:08
+Loaded 72605 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-24 18:21:55
 
 Incidents by source:
 source
-newsapi           72421
+newsapi           72504
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-11-24 12:51
-- Location: Yahoo Entertainment
-- Description: Myanmar’s military government has begun broadcasting extensive video on state television of its crackdown on online scam centers, showing buildings being...
+### OTHER on 2025-11-24 18:21
+- Location: CBS News
+- Description: The Trump administration has designated the Cartel de los Soles a terrorist organization, but some say the Venezuelan entity is "not a group" at all.
 
 
-### ROBBERY/THEFT on 2025-11-24 12:44
-- Location: Haaretz
-- Description: TikTok recruiters, teenage drivers, and high-speed flight from police: Palestinian boys as young as 13, from the West Bank's most deprived areas, are powering a car theft industry that responsible for tens of thousands of Israeli cars each year
+### OTHER on 2025-11-24 18:17
+- Location: Breitbart News
+- Description: Authorities believe burglaries of high-end residences in Mequon, Wisconsin, show a pattern similar to that of South American crime rings.
+The post VIDEO — Police: South American Crime Ring Targets Wisconsin Homes appeared first on Breitbart.
 
 
-### OTHER on 2025-11-24 12:43
-- Location: The Indian Express
-- Description: The Delhi Police have arrested three people who were part of the racket — Sunil Kumar, Vishal Choure, and his wife.
+### OTHER on 2025-11-24 18:13
+- Location: Freerepublic.com
+- Description: James Q. Wilson’s work showed that removing dangerous people from the streets protects communities. Sergio Hyland seemed like the perfect advocate. Calling himself a “fierce, relentless, implacable abolitionist,” determined to end incarceration in the United …
 
 
-### OTHER on 2025-11-24 12:26
-- Location: Israelnationalnews.com
-- Description: Five Jerusalem Arabs arrested in joint operation, on suspicion of exploiting elderly and innocent customers.
+### OTHER on 2025-11-24 18:05
+- Location: ProPublica
+- Description: Under a zero tolerance policy, the first Trump administration separated immigrant children from their families at the U.S.-Mexico border. New data suggests separations are happening all over the country, often after little more than a traffic stop.
 
 
-### OTHER on 2025-11-24 12:18
-- Location: The Times of India
-- Description: A personal assistant to Maharashtra minister Pankaja Munde was arrested for allegedly abetting the suicide of his wife, a dentist. The wife allegedly hanged herself due to a domestic dispute and an alleged extra-marital affair. The accused's relatives are sti…
+### OTHER on 2025-11-24 17:55
+- Location: London Review of Books
+- Description: Jonathan Tokeley-Parry, who died last month, had a business card in the early 1990s that described him as ‘Jonty “Brown Trews” Tokeley: Smuggler...
 
-Analysis generated at: Tue Nov 25 12:52:02 UTC 2025
+Analysis generated at: Tue Nov 25 18:23:07 UTC 2025
