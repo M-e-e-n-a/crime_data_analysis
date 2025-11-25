@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Nov 25 06:23:56 UTC 2025
+Last updated: Tue Nov 25 12:31:35 UTC 2025
 
 ## Latest Analysis
 
-Loaded 72456 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-24 06:19:38
+Loaded 72519 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-24 12:26:31
 
 Incidents by source:
 source
-newsapi           72355
+newsapi           72418
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-11-24 06:19
-- Location: ABC News (AU)
-- Description: The week-long murder trial of Brendan Kantilla, charged over the death of Bangladeshi student Md Isfaqur Rahman in 2023, has begun in the Northern Territory Supreme Court in Darwin.
+### OTHER on 2025-11-24 12:26
+- Location: Israelnationalnews.com
+- Description: Five Jerusalem Arabs arrested in joint operation, on suspicion of exploiting elderly and innocent customers.
 
 
-### HOMICIDE on 2025-11-24 06:11
+### OTHER on 2025-11-24 12:18
 - Location: The Times of India
-- Description: Major government organisations are closing their recruitment cycles this week, offering vacancies across railways, healthcare, banking, and infrastructure. Northern Railway, AIIMS, NABARD, NHM, and RVNL have announced roles for candidates ranging from Class 1…
+- Description: A personal assistant to Maharashtra minister Pankaja Munde was arrested for allegedly abetting the suicide of his wife, a dentist. The wife allegedly hanged herself due to a domestic dispute and an alleged extra-marital affair. The accused's relatives are sti…
 
 
-### OTHER on 2025-11-24 06:01
-- Location: Louder
-- Description: Want to know the best albums by The Clash? And the worst? Here is the ultimate guide
+### OTHER on 2025-11-24 12:10
+- Location: CBS News
+- Description: Kim Nok-wan's crimes warrants his "permanent isolation from society," the Seoul Central District Court said.
 
 
-### DRUG RELATED on 2025-11-24 06:00
-- Location: Naturalnews.com
-- Description: Venezuela deployed 15,000 troops, drones and naval assets to its Colombian border amid U.S. accusations of state-sponsored drug trafficking. The Trump administration labeled Venezuela’s alleged “Cartel de los Soles” a terrorist organization and doubled the bo…
+### OTHER on 2025-11-24 12:08
+- Location: The Indian Express
+- Description: The order noted “if a reasonable doubt arises regarding the guilt of the accused, benefit of doubt cannot be withheld from the accused”.
 
 
-### HOMICIDE on 2025-11-24 06:00
-- Location: Naturalnews.com
-- Description: ICE arrested nearly 3,600 illegal immigrants in Houston during the six-week government shutdown. Targets included violent offenders, child predators, gang members and repeat deportees. Among those arrested: Leo Michel Acosta Sanchez (wanted for homicide via I…
+### ROBBERY/THEFT on 2025-11-24 12:01
+- Location: CinemaBlend
+- Description: I'll show you the life of the mind!
 
-Analysis generated at: Tue Nov 25 06:23:56 UTC 2025
+Analysis generated at: Tue Nov 25 12:31:35 UTC 2025
