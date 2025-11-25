@@ -1,10 +1,10 @@
 
-Loaded 72403 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-23 17:29:08
+Loaded 72412 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-24 01:02:44
 
 Incidents by source:
 source
-newsapi           72302
+newsapi           72311
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-11-23 17:29
+### HOMICIDE on 2025-11-24 01:02
 - Location: BBC News
-- Description: A woman is in a critical condition in hospital after the attack in Elswick, Northumbria police say.
+- Description: BBC Africa Eye uncovers two so-called "juju" practitioners, who offer to obtain body parts for ritual purposes.
 
 
-### HOMICIDE on 2025-11-23 17:28
-- Location: Forbes
-- Description: "Wake Up Dead Man: A Knives Out Mystery," starring Daniel Craig, is opening in theaters before it streams on Netflix in December. Find out where you can see the film on the big screen.
+### HOMICIDE on 2025-11-24 01:00
+- Location: Hollywood Reporter
+- Description: The acclaimed author, whose 250 books sold half a billion copies, casts an eye on the actress’s still-mysterious death.
 
 
-### HOMICIDE on 2025-11-23 17:26
-- Location: Freerepublic.com
-- Description: Attorney Greg Joseph has filed a “Memorandum in support of petition for postconviction relief” on behalf of his client Derek Chauvin—the former Minneapolis police officer involved in the arrest and death of George Floyd. In the 71-page petition filed in Henne…
+### OTHER on 2025-11-24 00:59
+- Location: The Times of India
+- Description: India News: NAGPUR: Maharashtra forces on Sunday pushed deeper into Abujmarh than ever before, establishing a fortified police outpost in a lightning 24-hour oper.
 
 
-### HOMICIDE on 2025-11-23 17:17
-- Location: Freerepublic.com
-- Description: An Ohio man allegedly ambushed his wife as she tried to move out, fatally shooting her two children and the father of the eldest before turning the gun on himself in a grisly apparent murder-suicide, cops said. Ryan Eagon, 42, went on the deadly rampage Wedne…
+### HOMICIDE on 2025-11-24 00:51
+- Location: Mediaite
+- Description: Turning Point USA CEO Erika Kirk told Megyn Kelly she was "praying to God" when was pregnant when her husband, Charlie Kirk, was killed in September.
+The post Erika Kirk Reveals to Megyn Kelly She Was ‘Praying to God’ She Was Pregnant When Charlie Kirk Was Ki…
 
 
-### OTHER on 2025-11-23 17:13
-- Location: CBS News
-- Description: The following is the transcript of the interview with Sen. Rand Paul, Republican of Kentucky, that aired on "Face the Nation with Margaret Brennan" on Nov. 23, 2025.
+### HOMICIDE on 2025-11-24 00:50
+- Location: BBC News
+- Description: BBC Africa Eye uncovers two so-called "juju" practitioners, who offer to obtain body parts for ritual purposes.
 
-Analysis generated at: Mon Nov 24 18:23:04 UTC 2025
+Analysis generated at: Tue Nov 25 01:08:31 UTC 2025
