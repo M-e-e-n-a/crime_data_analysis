@@ -1,10 +1,10 @@
 
-Loaded 72419 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-24 01:53:21
+Loaded 72456 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-24 06:19:38
 
 Incidents by source:
 source
-newsapi           72318
+newsapi           72355
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-11-24 01:53
-- Location: NBC Chicago
-- Description: Cook County Crime Stoppers is offering a $10,000 reward for information that leads to the arrest of a suspect in a homicide in the Loop.
-
-
-### HOMICIDE on 2025-11-24 01:34
+### HOMICIDE on 2025-11-24 06:19
 - Location: ABC News (AU)
-- Description: Five people have now been charged with murder over a fatal stabbing on the NSW South Coast, after a 48-year-old man was arrested at a local hospital over the weekend.
+- Description: The week-long murder trial of Brendan Kantilla, charged over the death of Bangladeshi student Md Isfaqur Rahman in 2023, has begun in the Northern Territory Supreme Court in Darwin.
 
 
-### HOMICIDE on 2025-11-24 01:28
-- Location: The-independent.com
-- Description: The 17-year-old suspect is being held at Harborfields Atlantic Youth Center until his trial
+### HOMICIDE on 2025-11-24 06:11
+- Location: The Times of India
+- Description: Major government organisations are closing their recruitment cycles this week, offering vacancies across railways, healthcare, banking, and infrastructure. Northern Railway, AIIMS, NABARD, NHM, and RVNL have announced roles for candidates ranging from Class 1…
 
 
-### ASSAULT on 2025-11-24 01:28
-- Location: Fox News
-- Description: Transportation Secretary Sean Duffy identifies Chicago train attack victim as Bethany MaGee, 26, who suffered burns after career criminal allegedly set her on fire.
+### OTHER on 2025-11-24 06:01
+- Location: Louder
+- Description: Want to know the best albums by The Clash? And the worst? Here is the ultimate guide
 
 
-### OTHER on 2025-11-24 01:26
-- Location: Freerepublic.com
-- Description: In Chicago, the great city shaped by Mayor Richard J. Daley and his son, Mayor Richard M. Daley there is a new policy, a progressive policy. It is not the law-and-order city. Instead, the liberal politically correct Democrats who have followed the Daleys now …
+### DRUG RELATED on 2025-11-24 06:00
+- Location: Naturalnews.com
+- Description: Venezuela deployed 15,000 troops, drones and naval assets to its Colombian border amid U.S. accusations of state-sponsored drug trafficking. The Trump administration labeled Venezuela’s alleged “Cartel de los Soles” a terrorist organization and doubled the bo…
 
-Analysis generated at: Tue Nov 25 01:54:48 UTC 2025
+
+### HOMICIDE on 2025-11-24 06:00
+- Location: Naturalnews.com
+- Description: ICE arrested nearly 3,600 illegal immigrants in Houston during the six-week government shutdown. Targets included violent offenders, child predators, gang members and repeat deportees. Among those arrested: Leo Michel Acosta Sanchez (wanted for homicide via I…
+
+Analysis generated at: Tue Nov 25 06:23:56 UTC 2025
