@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Nov 26 01:09:14 UTC 2025
+Last updated: Wed Nov 26 01:54:41 UTC 2025
 
 ## Latest Analysis
 
-Loaded 72619 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-25 01:08:40
+Loaded 72625 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-25 01:53:40
 
 Incidents by source:
 source
-newsapi           72518
+newsapi           72524
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-11-25 01:08
-- Location: Financial Post
-- Description: Securing a guilty plea in a British Columbia money laundering case that dates back to 2019 involved undercover officers and multiple search warrants, and organized crime investigators say they hope an 18-month jail sentence handed down this month is the first…
+### OTHER on 2025-11-25 01:53
+- Location: BusinessLine
+- Description: Canadian Foreign Minister Anita Anand’s statement follows a meeting between Prime Minister Modi and his Canadian counterpart at the G20 summit in South Africa
 
 
-### HOMICIDE on 2025-11-25 01:00
+### HOMICIDE on 2025-11-25 01:52
+- Location: NBC News
+- Description: University of Alabama at Birmingham offensive lineman Daniel Israel Mincey was charged Monday with attempted murder and first-degree assault after two teammates were stabbed hours before a game
+
+
+### OTHER on 2025-11-25 01:42
+- Location: Raw Story
+- Description: ICE Sent 600 Immigrant Kids to Detention in Federal Shelters This Year. It’s a New Record.It was Friday, June 6, and the rent was due. As soon as she finished an errand, Imelda Carreto planned on joining her family as they gathered scrap metal to earn a littl…
+
+
+### HOMICIDE on 2025-11-25 01:35
 - Location: ABC News (AU)
-- Description: The 15-year-old allegedly fatally stabbed a 17-year-old boy on Monday a reserve in Rouse Hill.
+- Description: In an era of grim news and uncertainty, audiences are consistently drawn to murder mysteries. But what's behind that enduring fascination for the genre?
 
 
-### OTHER on 2025-11-25 01:00
-- Location: The Times of India
-- Description: Canada and India will accelerate trade talks. This follows a meeting between Prime Ministers Mark Carney and Narendra Modi. Relations were strained after allegations regarding an assassination. Canada is pursuing a new foreign policy. This aims to diversify t…
+### OTHER on 2025-11-25 01:23
+- Location: BBC News
+- Description: Police launch a new nationwide strategy to crack down on organised crime gangs in the countryside.
 
-
-### HOMICIDE on 2025-11-25 01:00
-- Location: New Zealand Herald
-- Description: The 39-year-old delivered five kicks or stomps to the victim's head in Rimutaka Prison.
-
-
-### HOMICIDE on 2025-11-25 00:52
-- Location: WLS-TV
-- Description: A man accused of killing his wife in a South Loop high-rise last year pleaded guilty to contempt of court in a Michigan courtroom.
-
-Analysis generated at: Wed Nov 26 01:09:14 UTC 2025
+Analysis generated at: Wed Nov 26 01:54:41 UTC 2025
