@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Nov 26 06:23:32 UTC 2025
+Last updated: Wed Nov 26 12:31:51 UTC 2025
 
 ## Latest Analysis
 
-Loaded 72653 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-25 06:21:24
+Loaded 72705 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-25 12:18:16
 
 Incidents by source:
 source
-newsapi           72552
+newsapi           72604
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-11-25 06:21
-- Location: BBC News
-- Description: "Jane", from north-east England, tells how she lost her inheritance in an elaborate 18-month scam.
+### HOMICIDE on 2025-11-25 12:18
+- Location: Bossip
+- Description: Three years ago, tragedy struck three young men with promising lives ahead of them and today, justice was served. According to CNN, the man responsible for killing three University of Virginia football players, Devin Chandler, Lavel Davis Jr. and D’Sean Perry…
 
 
-### ASSAULT on 2025-11-25 06:18
-- Location: The Star Online
-- Description: SEREMBAN: The man who was attacked by several assailants at an entertainment centre here early Sunday (Nov 23) died of a stab wound to the chest, according to police. Read full story
+### HOMICIDE on 2025-11-25 12:18
+- Location: Bossip
+- Description: Three years ago, tragedy struck three young men with promising lives ahead of them, and justice has been served. According to CNN, the man responsible for killing three University of Virginia football players, Devin Chandler, Lavel Davis Jr, and D’Sean Perry,…
 
 
-### HOMICIDE on 2025-11-25 06:15
-- Location: New York Post
-- Description: The University of Alabama at Birmingham football player accused of stabbing two teammates inside a team facility before Saturday's Senior Day loss has been charged with attempted murder.
+### OTHER on 2025-11-25 12:13
+- Location: Www.gov.uk
+- Description: More than 1,000 victims have been protected through first-of-its-kind domestic abuse protection orders since their roll out in November 2024.
 
 
-### HOMICIDE on 2025-11-25 06:15
-- Location: Protothema.gr
-- Description: How Tsipras describes the events following the murder of Alexis Grigoropoulos, as well as his relationship with Prokopis Pavlopoulos - A relationship so close that years later he proposed him for President of the Republic
-The post Tsipras’ dithyramb about Pro…
+### OTHER on 2025-11-25 12:03
+- Location: Rolling Out
+- Description: NBA legend enters not guilty plea in Brooklyn Chauncey Billups stood before U.S. District Judge Ramon Reyes on Monday in a packed Brooklyn courtroom, entering a not guilty plea to federal charges that threaten everything the basketball legend built over three…
 
 
-### OTHER on 2025-11-25 06:01
-- Location: Insurance Journal
-- Description: A barge carrying 192 shipping containers that ran aground in the Bahamas and was quickly looted has returned to Jacksonville, ending a stormy journey that will likely result in millions of dollars in insurance claims. The barge, known as the …
+### OTHER on 2025-11-25 12:03
+- Location: ZDNet
+- Description: Your smartphone holds your entire life, making it a prime target for hackers and spies. Here's how to protect it.
 
-Analysis generated at: Wed Nov 26 06:23:32 UTC 2025
+Analysis generated at: Wed Nov 26 12:31:51 UTC 2025
