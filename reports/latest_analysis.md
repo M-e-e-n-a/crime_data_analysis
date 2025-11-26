@@ -1,10 +1,10 @@
 
-Loaded 72605 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-24 18:21:55
+Loaded 72619 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-25 01:08:40
 
 Incidents by source:
 source
-newsapi           72504
+newsapi           72518
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-11-24 18:21
-- Location: CBS News
-- Description: The Trump administration has designated the Cartel de los Soles a terrorist organization, but some say the Venezuelan entity is "not a group" at all.
+### OTHER on 2025-11-25 01:08
+- Location: Financial Post
+- Description: Securing a guilty plea in a British Columbia money laundering case that dates back to 2019 involved undercover officers and multiple search warrants, and organized crime investigators say they hope an 18-month jail sentence handed down this month is the first…
 
 
-### OTHER on 2025-11-24 18:17
-- Location: Breitbart News
-- Description: Authorities believe burglaries of high-end residences in Mequon, Wisconsin, show a pattern similar to that of South American crime rings.
-The post VIDEO — Police: South American Crime Ring Targets Wisconsin Homes appeared first on Breitbart.
+### HOMICIDE on 2025-11-25 01:00
+- Location: ABC News (AU)
+- Description: The 15-year-old allegedly fatally stabbed a 17-year-old boy on Monday a reserve in Rouse Hill.
 
 
-### OTHER on 2025-11-24 18:13
-- Location: Freerepublic.com
-- Description: James Q. Wilson’s work showed that removing dangerous people from the streets protects communities. Sergio Hyland seemed like the perfect advocate. Calling himself a “fierce, relentless, implacable abolitionist,” determined to end incarceration in the United …
+### OTHER on 2025-11-25 01:00
+- Location: The Times of India
+- Description: Canada and India will accelerate trade talks. This follows a meeting between Prime Ministers Mark Carney and Narendra Modi. Relations were strained after allegations regarding an assassination. Canada is pursuing a new foreign policy. This aims to diversify t…
 
 
-### OTHER on 2025-11-24 18:05
-- Location: ProPublica
-- Description: Under a zero tolerance policy, the first Trump administration separated immigrant children from their families at the U.S.-Mexico border. New data suggests separations are happening all over the country, often after little more than a traffic stop.
+### HOMICIDE on 2025-11-25 01:00
+- Location: New Zealand Herald
+- Description: The 39-year-old delivered five kicks or stomps to the victim's head in Rimutaka Prison.
 
 
-### OTHER on 2025-11-24 17:55
-- Location: London Review of Books
-- Description: Jonathan Tokeley-Parry, who died last month, had a business card in the early 1990s that described him as ‘Jonty “Brown Trews” Tokeley: Smuggler...
+### HOMICIDE on 2025-11-25 00:52
+- Location: WLS-TV
+- Description: A man accused of killing his wife in a South Loop high-rise last year pleaded guilty to contempt of court in a Michigan courtroom.
 
-Analysis generated at: Tue Nov 25 18:23:07 UTC 2025
+Analysis generated at: Wed Nov 26 01:09:14 UTC 2025
