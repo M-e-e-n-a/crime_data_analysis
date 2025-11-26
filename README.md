@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Nov 26 12:53:15 UTC 2025
+Last updated: Wed Nov 26 18:19:32 UTC 2025
 
 ## Latest Analysis
 
-Loaded 72706 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-25 12:50:07
+Loaded 72798 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-25 18:16:08
 
 Incidents by source:
 source
-newsapi           72605
+newsapi           72697
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-11-25 12:50
+### OTHER on 2025-11-25 18:16
+- Location: The Daily Caller
+- Description: A Hennepin County, Minnesota, judge set aside a jury’s guilty verdict in a $7.2 million Medicaid fraud case Monday, leaving jurors shocked.
+
+
+### OTHER on 2025-11-25 18:15
+- Location: The Denver Post
+- Description: At least 20 cases have been documented.
+
+
+### OTHER on 2025-11-25 18:15
 - Location: Boston Herald
-- Description: The decision could impact up to 4,000 people.
+- Description: At least 20 cases have been documented.
 
 
-### HOMICIDE on 2025-11-25 12:18
-- Location: Bossip
-- Description: Three years ago, tragedy struck three young men with promising lives ahead of them, and justice has been served. According to CNN, the man responsible for killing three University of Virginia football players, Devin Chandler, Lavel Davis Jr, and D’Sean Perry,…
+### HOMICIDE on 2025-11-25 18:13
+- Location: The Denver Post
+- Description: Two teenagers and a 21-year-old allegedly conspired and carried out a brutal bludgeoning murder in Fruita, according to an arrest affidavit, discussing how to torture and murder the 62-year-old victim on Snapchat.
 
 
-### HOMICIDE on 2025-11-25 12:18
-- Location: Bossip
-- Description: Three years ago, tragedy struck three young men with promising lives ahead of them and today, justice was served. According to CNN, the man responsible for killing three University of Virginia football players, Devin Chandler, Lavel Davis Jr. and D’Sean Perry…
+### OTHER on 2025-11-25 18:11
+- Location: The Daily Caller
+- Description: French authorities arrested four more suspects Tuesday allegedly involved in the October jewel heist at the Louvre in Paris, France, according to an official. Paris prosecutor Laure Beccuau announced the arrests in a statement, NBC News reported. The suspects…
 
-
-### OTHER on 2025-11-25 12:13
-- Location: Www.gov.uk
-- Description: More than 1,000 victims have been protected through first-of-its-kind domestic abuse protection orders since their roll out in November 2024.
-
-
-### OTHER on 2025-11-25 12:03
-- Location: Rolling Out
-- Description: NBA legend enters not guilty plea in Brooklyn Chauncey Billups stood before U.S. District Judge Ramon Reyes on Monday in a packed Brooklyn courtroom, entering a not guilty plea to federal charges that threaten everything the basketball legend built over three…
-
-Analysis generated at: Wed Nov 26 12:53:15 UTC 2025
+Analysis generated at: Wed Nov 26 18:19:32 UTC 2025
