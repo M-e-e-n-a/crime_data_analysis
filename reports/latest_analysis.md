@@ -1,10 +1,10 @@
 
-Loaded 72625 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-25 01:53:40
+Loaded 72653 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-25 06:21:24
 
 Incidents by source:
 source
-newsapi           72524
+newsapi           72552
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-11-25 01:53
-- Location: BusinessLine
-- Description: Canadian Foreign Minister Anita Anand’s statement follows a meeting between Prime Minister Modi and his Canadian counterpart at the G20 summit in South Africa
-
-
-### HOMICIDE on 2025-11-25 01:52
-- Location: NBC News
-- Description: University of Alabama at Birmingham offensive lineman Daniel Israel Mincey was charged Monday with attempted murder and first-degree assault after two teammates were stabbed hours before a game
-
-
-### OTHER on 2025-11-25 01:42
-- Location: Raw Story
-- Description: ICE Sent 600 Immigrant Kids to Detention in Federal Shelters This Year. It’s a New Record.It was Friday, June 6, and the rent was due. As soon as she finished an errand, Imelda Carreto planned on joining her family as they gathered scrap metal to earn a littl…
-
-
-### HOMICIDE on 2025-11-25 01:35
-- Location: ABC News (AU)
-- Description: In an era of grim news and uncertainty, audiences are consistently drawn to murder mysteries. But what's behind that enduring fascination for the genre?
-
-
-### OTHER on 2025-11-25 01:23
+### OTHER on 2025-11-25 06:21
 - Location: BBC News
-- Description: Police launch a new nationwide strategy to crack down on organised crime gangs in the countryside.
+- Description: "Jane", from north-east England, tells how she lost her inheritance in an elaborate 18-month scam.
 
-Analysis generated at: Wed Nov 26 01:54:41 UTC 2025
+
+### ASSAULT on 2025-11-25 06:18
+- Location: The Star Online
+- Description: SEREMBAN: The man who was attacked by several assailants at an entertainment centre here early Sunday (Nov 23) died of a stab wound to the chest, according to police. Read full story
+
+
+### HOMICIDE on 2025-11-25 06:15
+- Location: New York Post
+- Description: The University of Alabama at Birmingham football player accused of stabbing two teammates inside a team facility before Saturday's Senior Day loss has been charged with attempted murder.
+
+
+### HOMICIDE on 2025-11-25 06:15
+- Location: Protothema.gr
+- Description: How Tsipras describes the events following the murder of Alexis Grigoropoulos, as well as his relationship with Prokopis Pavlopoulos - A relationship so close that years later he proposed him for President of the Republic
+The post Tsipras’ dithyramb about Pro…
+
+
+### OTHER on 2025-11-25 06:01
+- Location: Insurance Journal
+- Description: A barge carrying 192 shipping containers that ran aground in the Bahamas and was quickly looted has returned to Jacksonville, ending a stormy journey that will likely result in millions of dollars in insurance claims. The barge, known as the …
+
+Analysis generated at: Wed Nov 26 06:23:32 UTC 2025
