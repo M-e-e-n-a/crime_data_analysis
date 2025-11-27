@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Nov 27 06:24:56 UTC 2025
+Last updated: Thu Nov 27 12:31:39 UTC 2025
 
 ## Latest Analysis
 
-Loaded 72850 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-26 06:22:00
+Loaded 72908 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-26 12:30:04
 
 Incidents by source:
 source
-newsapi           72749
+newsapi           72807
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,30 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-11-26 06:22
+### OTHER on 2025-11-26 12:30
+- Location: Memeorandum.com
+- Description: Violet Jira / NOTUS:
+D.C. Leaders Say Trump's Crime Crackdown Created More Community Fear Around Police  —  Trump's crime crackdown in Washington saw drops in some crime — but was the decrease sustainable?  — Copy  —  President Donald Trump has repeatedly pro…
+
+
+### OTHER on 2025-11-26 12:28
+- Location: Lse.ac.uk
+- Description: Decisions by courts in criminal cases should be based on the law, and the law alone. In new research which examines criminal cases before the Supreme Court, Elizabeth Maltby and Abigail Matthews find that this is often far from reality. They write that the Su…
+
+
+### OTHER on 2025-11-26 12:06
 - Location: The Star Online
-- Description: LAGOS (Reuters) -The families of Papiri had long called for security forces to protect their children at the school in northern Nigeria where more than 300 pupils were kidnapped by gunmen last week, in one of the country's worst mass abductions. Read full sto…
+- Description: ROME (Reuters) -Italy's Senate has postponed debate on a landmark bill that would stipulate for the first time that sex without consent constitutes rape, exposing tensions within Prime Minister Giorgia Meloni's coalition. Read full story
 
 
-### HOMICIDE on 2025-11-26 06:12
-- Location: RTE
-- Description: A South Korean-born New Zealand woman has been sentenced to life in prison for murdering her two young children, whose bodies were discovered in suitcases in an abandoned storage locker more than three years ago, New Zealand media reported.
+### HOMICIDE on 2025-11-26 12:01
+- Location: Ndtvprofit.com
+- Description: Pakistan's political turmoil is spinning further as social media rumours claim former prime minister Imran Khan has died in jail. His three sisters have claimed that they were "brutally assaulted" by police for demanding a meeting with Khan, lodged in the hig…
 
 
-### HOMICIDE on 2025-11-26 06:05
-- Location: The Punch
-- Description: Three youths were killed in a violent land dispute in Asaba, Delta State. Police have launched a manhunt for Chief Jerry Nkeeshe and armed suspects.
+### ASSAULT on 2025-11-26 12:00
+- Location: Fox News
+- Description: Chaotic street takeover in New York City ends with car set ablaze and property destroyed as officials call incident a 'planned attack' on residential community.
 
-Read More: https://punchng.com/three-delta-youths-killed-as-police-hunt-chief-suspects/
-
-
-### OTHER on 2025-11-26 05:59
-- Location: Hurriyet Daily News
-- Description: Brazil's Supreme Court on Tuesday ordered far-right former president Jair Bolsonaro to begin serving a 27-year sentence for plotting a failed coup, after he exhausted all appeals.
-
-
-### OTHER on 2025-11-26 05:49
-- Location: HuffPost
-- Description: About 20 "Dreamers" have been arrested or detained by immigration authorities since President Trump took office in January.
-
-Analysis generated at: Thu Nov 27 06:24:56 UTC 2025
+Analysis generated at: Thu Nov 27 12:31:39 UTC 2025
