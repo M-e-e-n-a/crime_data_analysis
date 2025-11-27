@@ -1,10 +1,10 @@
 
-Loaded 72915 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-26 12:46:36
+Loaded 73004 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-26 18:20:23
 
 Incidents by source:
 source
-newsapi           72814
+newsapi           72903
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-11-26 12:46
-- Location: New York Post
-- Description: Robert Dear died Saturday at a medical center for federal prisoners in Springfield, Missouri, the Bureau of Prisons said.
+### OTHER on 2025-11-26 18:20
+- Location: The Conversation Africa
+- Description: Hundreds of returnees and forced migrants reported being terrorised by soldiers and armed militias on both sides of the Sudan civil war.
 
 
-### OTHER on 2025-11-26 12:45
-- Location: Whyevolutionistrue.com
-- Description: Welcome to Wednesday, November 26, 2025, and a Hump Day (“ཧམ་པ་ཉིན་མོ།” in Tibetan). Tomorrow is Thanksgiving, and I may take a well-deserved break from writing here, though I will have no Thanksgiving dinner since nobody loves me. It’s also National Cake Day…
+### HOMICIDE on 2025-11-26 18:18
+- Location: What's on Netflix
+- Description: A sharp, spirited whodunnit with big laughs and a powerhouse turn from Josh Brolin, Wake Up Dead Man proves the Knives Out franchise is still firing on all cylinders.
 
 
-### OTHER on 2025-11-26 12:42
-- Location: BBC News
-- Description: The masked cyclist is shown taking the 8ft tall soldier from outside a bar in the capital.
+### OTHER on 2025-11-26 18:15
+- Location: TMZ
+- Description: An aspiring influencer could be deported after her alleged dine-and-dash stunts at several restaurants in New York City landed her behind bars.
 
 
-### OTHER on 2025-11-26 12:42
-- Location: BBC News
-- Description: Paul Doyle broke down in tears as he admitted seriously injuring fans at Liverpool's victory parade.
+### HOMICIDE on 2025-11-26 18:10
+- Location: LancasterOnline
+- Description: Recently unsealed autopsy and toxicology reports in the Dec. 4, 2003, death of federal prosecutor Jonathan Luna, whose body was found face-down in a creek in Brecknock Township, detail what he was wearing, what he had with him, where he…
 
 
-### OTHER on 2025-11-26 12:41
-- Location: Thepinknews.com
-- Description: A Florida man has been arrested after allegedly attempting to hit members of an LGBTQ+ running club with an SUV. Ihab Mustafa El Mahmoud, 43, was taken into police custody on Monday (24 November) after witnesses claimed he accelerated toward a group of pedest…
+### HOMICIDE on 2025-11-26 18:03
+- Location: Boston Herald
+- Description: Karen Read’s civil complaint against defendants who she argues killed John O’Keefe and then conspired to frame her for his murder has been transferred to federal court, with the judge who sentenced Whitey Bulger assigned to the case.
 
-Analysis generated at: Thu Nov 27 12:52:10 UTC 2025
+Analysis generated at: Thu Nov 27 18:21:11 UTC 2025
