@@ -1,10 +1,10 @@
 
-Loaded 72798 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-25 18:16:08
+Loaded 72809 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-26 01:01:16
 
 Incidents by source:
 source
-newsapi           72697
+newsapi           72708
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-11-25 18:16
-- Location: The Daily Caller
-- Description: A Hennepin County, Minnesota, judge set aside a jury’s guilty verdict in a $7.2 million Medicaid fraud case Monday, leaving jurors shocked.
+### OTHER on 2025-11-26 01:01
+- Location: Screen Rant
+- Description: One bestselling thriller book franchise is getting the television treatment, and it will be perfect for fans of both Bosch and Jack Reacher.
 
 
-### OTHER on 2025-11-25 18:15
-- Location: The Denver Post
-- Description: At least 20 cases have been documented.
+### OTHER on 2025-11-26 00:44
+- Location: The Indian Express
+- Description: Arrests part of crackdown on syndicates involved in digital arrest scams, investment frauds
 
 
-### OTHER on 2025-11-25 18:15
-- Location: Boston Herald
-- Description: At least 20 cases have been documented.
+### OTHER on 2025-11-26 00:39
+- Location: ABC News (AU)
+- Description: Melbourne's CBD will become a designated area from this weekend, giving police the power to search people and vehicles for prohibited weapons.
 
 
-### HOMICIDE on 2025-11-25 18:13
-- Location: The Denver Post
-- Description: Two teenagers and a 21-year-old allegedly conspired and carried out a brutal bludgeoning murder in Fruita, according to an arrest affidavit, discussing how to torture and murder the 62-year-old victim on Snapchat.
+### HOMICIDE on 2025-11-26 00:36
+- Location: BBC News
+- Description: The gender-motivated murder of a woman will now be covered by a distinct clause in Italian law - punishable by a life sentence.
 
 
-### OTHER on 2025-11-25 18:11
-- Location: The Daily Caller
-- Description: French authorities arrested four more suspects Tuesday allegedly involved in the October jewel heist at the Louvre in Paris, France, according to an official. Paris prosecutor Laure Beccuau announced the arrests in a statement, NBC News reported. The suspects…
+### HOMICIDE on 2025-11-26 00:27
+- Location: Digital Journal
+- Description: A mother who murdered her two children and stuffed them into suitcases stashed inside a storage locker was on Wednesday sentenced to life imprisonment in New Zealand.  Hakyung Lee, a New Zealand citizen originally from South Korea, was earlier this year found…
 
-Analysis generated at: Wed Nov 26 18:19:32 UTC 2025
+Analysis generated at: Thu Nov 27 01:07:58 UTC 2025
