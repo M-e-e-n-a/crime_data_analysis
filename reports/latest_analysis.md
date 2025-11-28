@@ -1,10 +1,10 @@
 
-Loaded 73085 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-27 06:11:57
+Loaded 73144 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-27 12:21:05
 
 Incidents by source:
 source
-newsapi           72984
+newsapi           73043
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-11-27 06:11
-- Location: ABC News (AU)
-- Description: A NSW court is told heard Milenko Snjegota had limited capacity for reason when he allegedly murdered his 74-year-old father in their home near Wollongong.
+### SHOOTING on 2025-11-27 12:21
+- Location: Breitbart News
+- Description: Rahmanullah Lakanwal, the 29-year-old Afghan national suspected of shooting two National Guardsmen in Washington, DC, worked with the CIA as a member of a partner force in Kandahar, Afghanistan, the agency's director John Ratcliffe revealed.
+The post Ratcliff…
 
 
-### OTHER on 2025-11-27 06:05
-- Location: ABC News (AU)
-- Description: Tom Phillips disappeared with his children in late 2021, in a case that drew global attention for his ability to evade arrest.
+### SHOOTING on 2025-11-27 12:19
+- Location: TODAY
+- Description: Final preparations are underway for the 2025 Macy’s Thanksgiving Day Parade with a massive police presence along the route in New York City. The NYPD says there are no specific threats to the parade as they track Wednesday's shooting in Washington, D.C. close…
 
 
-### HOMICIDE on 2025-11-27 05:59
-- Location: BBC News
-- Description: A quarter of a century has passed since the killing of 10-year-old Damilola Taylor in Peckham.
+### OTHER on 2025-11-27 12:17
+- Location: Vsquare.org
+- Description: In the spring of 2019, a private jet landed at the airport near Basel. What looked like a routine flight turned into an international police operation: officers seized 600 kilograms of cocaine hidden in 21 suitcases.
 
 
-### SHOOTING on 2025-11-27 05:43
-- Location: The Denver Post
-- Description: By ALANNA DURKIN RICHER, GARY FIELDS, ANTHONY IZAGUIRRE and BEN FINLEY WASHINGTON (AP) — An Afghan national who worked for the CIA in his native country and arrived in the U.S. in 2021 drove across the country from Washington state to shoot two West Virginia …
+### OTHER on 2025-11-27 12:11
+- Location: Nep123.com
+- Description: Singapore Orders Apple and Google to Prevent Impersonation on Messaging Platforms In a move to combat online scams, the Singapore Ministry of Home Affairs has directed Apple and Google to implement measures preventing the impersonation of government entities …
 
 
-### SHOOTING on 2025-11-27 05:41
-- Location: Hurriyet Daily News
-- Description: President Donald Trump said Wednesday that an Afghan man who fled the Taliban was the suspect in the shooting of two National Guard soldiers near the White House, calling it an "act of terror."
+### SHOOTING on 2025-11-27 12:03
+- Location: NBC News
+- Description: Investigators search for a motive in the D.C. shooting that left two National Guard members in critical condition.
 
-Analysis generated at: Fri Nov 28 06:24:19 UTC 2025
+Analysis generated at: Fri Nov 28 12:30:02 UTC 2025
