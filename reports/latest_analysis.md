@@ -1,10 +1,10 @@
 
-Loaded 73144 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-27 12:21:05
+Loaded 73147 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-27 12:45:54
 
 Incidents by source:
 source
-newsapi           73043
+newsapi           73046
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,6 +20,23 @@ bution.svg)
 
 ## Recent Incidents
 
+### OTHER on 2025-11-27 12:45
+- Location: Socialmediaexplorer.com
+- Description: Police pursuits have long been presented as a necessary tool for law enforcement, but new...
+The post Why So Many Fatal Police Pursuits Start With Minor Traffic Stops — And Why Experts Say It’s Time for National Reform appeared first on Social Media Explorer.
+
+
+### OTHER on 2025-11-27 12:33
+- Location: Protothema.gr
+- Description: The White House blamed the incident on Democrats' soft policies on crime
+The post Chicago man accused of setting train passenger on fire had 72 prior arrests appeared first on ProtoThema English.
+
+
+### OTHER on 2025-11-27 12:30
+- Location: The Daily Caller
+- Description: The New York Times and The New Yorker have published sympathetic profiles of criminal illegal aliens in recent days.
+
+
 ### SHOOTING on 2025-11-27 12:21
 - Location: Breitbart News
 - Description: Rahmanullah Lakanwal, the 29-year-old Afghan national suspected of shooting two National Guardsmen in Washington, DC, worked with the CIA as a member of a partner force in Kandahar, Afghanistan, the agency's director John Ratcliffe revealed.
@@ -30,19 +47,4 @@ The post Ratcliff…
 - Location: TODAY
 - Description: Final preparations are underway for the 2025 Macy’s Thanksgiving Day Parade with a massive police presence along the route in New York City. The NYPD says there are no specific threats to the parade as they track Wednesday's shooting in Washington, D.C. close…
 
-
-### OTHER on 2025-11-27 12:17
-- Location: Vsquare.org
-- Description: In the spring of 2019, a private jet landed at the airport near Basel. What looked like a routine flight turned into an international police operation: officers seized 600 kilograms of cocaine hidden in 21 suitcases.
-
-
-### OTHER on 2025-11-27 12:11
-- Location: Nep123.com
-- Description: Singapore Orders Apple and Google to Prevent Impersonation on Messaging Platforms In a move to combat online scams, the Singapore Ministry of Home Affairs has directed Apple and Google to implement measures preventing the impersonation of government entities …
-
-
-### SHOOTING on 2025-11-27 12:03
-- Location: NBC News
-- Description: Investigators search for a motive in the D.C. shooting that left two National Guard members in critical condition.
-
-Analysis generated at: Fri Nov 28 12:30:02 UTC 2025
+Analysis generated at: Fri Nov 28 12:50:31 UTC 2025
