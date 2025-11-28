@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Nov 28 01:06:39 UTC 2025
+Last updated: Fri Nov 28 01:52:06 UTC 2025
 
 ## Latest Analysis
 
-Loaded 73029 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-27 01:03:00
+Loaded 73043 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-27 01:51:03
 
 Incidents by source:
 source
-newsapi           72928
+newsapi           72942
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-11-27 01:03
-- Location: Mediaite
-- Description: Fox News contributor Ted Williams bashed President Donald Trump's decision to deploy 500 additional National Guard members to Washington, D.C., after two soldiers were shot.
-The post ‘Why in the Hell Are You Doing That?’ Fox News Contributor Slams Trump’s Dep…
+### SHOOTING on 2025-11-27 01:51
+- Location: TMZ
+- Description: The suspected gunman who allegedly shot two National Guard members has been identified as a man from Afghanistan ... and there's video of his arrest. Footage going viral on social media appears to show the alleged gunman being taken into custody on…
+ Permalink
 
 
-### OTHER on 2025-11-27 01:01
-- Location: Deadline
-- Description: SPOILER ALERT! This post contains major plot details from the first four episodes of Netflix’s Stranger Things 5. The Hawkins crew are set for one last adventure in Stranger Things 5, which debuted with four episodes on Wednesday evening. While there’s an 18 …
+### SHOOTING on 2025-11-27 01:50
+- Location: Breitbart News
+- Description: Republicans and conservative voices blasted what they called Democrats’ “vile,” “dangerous,” and “reckless” rhetoric toward the National Guard, arguing that days of escalating attacks from leading Democrats have “put a target on the backs of every person in u…
 
 
-### OTHER on 2025-11-27 01:01
-- Location: IndieWire
-- Description: Excessive running times aside, the final season's first half works better in its few smaller moments than its many big ones — briefly hearkening back to when its motley crew of characters carried the day and the clumsy, CGI-filled action scenes were just kits…
+### HOMICIDE on 2025-11-27 01:48
+- Location: The Daily Caller
+- Description: Brit Hume said Wednesday night that the attack on two National Guardsmen in Washington looked like one of the most vicious attempted killings he has ever seen.
 
 
-### OTHER on 2025-11-27 00:59
-- Location: ABC News (AU)
-- Description: Police say a search of an area of state park near Ballarat for missing woman Samantha Murphy may continue beyond Thursday.
+### SHOOTING on 2025-11-27 01:43
+- Location: Economictimes.com
+- Description: Washington DC will see an increased National Guard presence. Defense Secretary Pete Hegseth announced the deployment of 500 additional troops following an attack on two guardsmen. This move raises the total deployment to approximately 2,700. The administratio…
 
 
-### SHOOTING on 2025-11-27 00:55
-- Location: New York Post
-- Description: Lefty politicians for months have loudly condemned the deployment of National Guard troops in crime-ridden Democrat-run cities as "authoritarian" and an "invasion" leading up to Wednesday's heinous ambush attack that left two guardsmen fighting for their live…
+### ASSAULT on 2025-11-27 01:39
+- Location: Newsbreak.com
+- Description: 'Stop fighting it': Home health aide crawled into elderly patient's bed and drove a chef's knife into her torso while telling her to 'just let go,' DA saysnewsbreak.com
 
-Analysis generated at: Fri Nov 28 01:06:39 UTC 2025
+Analysis generated at: Fri Nov 28 01:52:06 UTC 2025
