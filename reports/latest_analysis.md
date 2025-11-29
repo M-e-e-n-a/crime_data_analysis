@@ -1,10 +1,10 @@
 
-Loaded 73264 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-28 01:48:37
+Loaded 73299 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-28 06:01:13
 
 Incidents by source:
 source
-newsapi           73163
+newsapi           73198
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,32 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-11-28 01:48
-- Location: ABC News (AU)
-- Description: Wayne Pedro Morseu was reported missing on December 10, with police now upgrading his disappearance to suspicious.
+### ASSAULT on 2025-11-28 06:01
+- Location: The Times of India
+- Description: Police have registered a case against MLA Rahul Mamkoottathil. A woman accused him of sexual assault and forcing her to terminate a pregnancy. The case also names his friend as an accused. The MLA is reportedly in hiding. Investigations are underway. This fol…
 
 
-### HOMICIDE on 2025-11-28 01:35
-- Location: Freerepublic.com
-- Description: The latest brutal act of Afghan refugee terrorism claimed the lives of two brave members of the National Guard in D.C.. Since their arrival in the United States, Afghan ‘refugees’ have been involved in violent attacks, in assorted crimes, and in sexual assaul…
+### SHOOTING on 2025-11-28 05:40
+- Location: The Punch
+- Description: Gunmen attack former governor Chris Ngige’s convoy in Anambra, injuring a policeman. Police have recovered the snatched SUV and launched a manhunt for the
+
+Read More: https://punchng.com/police-hunt-gunmen-recover-car-after-attack-on-ngiges-convoy/
 
 
-### HOMICIDE on 2025-11-28 01:30
-- Location: The Denver Post
-- Description: One person was killed in a single-vehicle crash on Interstate 25 near East Yale Avenue on Thanksgiving, according to the Denver Police Department.
+### OTHER on 2025-11-28 05:34
+- Location: Mediaite
+- Description: President Donald Trump reached another low on Thanksgiving night in a rant against immigrants and Minnesota Governor Tim Walz.
+The post Trump’s Vicious Mental Spiral Takes Center Stage on Thanksgiving as He Calls Governor, ‘Seriously Retarded’ first appeared …
 
 
-### OTHER on 2025-11-28 01:30
-- Location: ABC News (AU)
-- Description: The fugitives broke out of the prison in the eastern city of Dijon in the early hours of Thrusday, local time, and 100 police officers are on their trail.
+### OTHER on 2025-11-28 05:34
+- Location: Mediaite
+- Description: President Donald Trump reached another low on Thanksgiving night in a rant against immigrants and Minnesota Governor Tim Walz.
 
 
-### OTHER on 2025-11-28 01:22
-- Location: Rlsbb.to
-- Description: Release Description:The Last Case of John Morley thrusts players into the shoes of detective John Morley in the gritty, noir atmosphere of the 1940s. After spending several months recovering in the hospital from injuries sustained during his last case, Morley…
+### OTHER on 2025-11-28 05:32
+- Location: Mediaite
+- Description: President Donald Trump railed against Minnesota Gov. Tim Walz, describing him as "seriously retarded" in a Thanksgiving message posted to Truth Social.
+The post Trump Rails Against ‘Seriously Retarded Governor’ Tim Walz in Thanksgiving Message first appeared …
 
-Analysis generated at: Sat Nov 29 01:51:37 UTC 2025
+Analysis generated at: Sat Nov 29 06:21:24 UTC 2025
