@@ -1,10 +1,10 @@
 
-Loaded 73299 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-28 06:01:13
+Loaded 73364 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-28 12:27:45
 
 Incidents by source:
 source
-newsapi           73198
+newsapi           73263
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,32 +20,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2025-11-28 06:01
+### OTHER on 2025-11-28 12:27
 - Location: The Times of India
-- Description: Police have registered a case against MLA Rahul Mamkoottathil. A woman accused him of sexual assault and forcing her to terminate a pregnancy. The case also names his friend as an accused. The MLA is reportedly in hiding. Investigations are underway. This fol…
+- Description: Ahmedabad is accelerating infrastructure development, including the Sardar Vallabhbhai Patel Sports Enclave, following its selection to host the 2030 Commonwealth Games. This ambitious push is also a strategic step towards a potential bid for the 2036 Olympic…
 
 
-### SHOOTING on 2025-11-28 05:40
+### OTHER on 2025-11-28 12:27
+- Location: Nep123.com
+- Description: Breaking News: Illegal Firearm Seized in Kathmandu In a recent operation, the Kathmandu Police apprehended a 41-year-old individual, identified as Manoj Kumar Sundas, a resident of Bhanu Municipality-9, Tanahun, in connection to illegal weapons possession. Th…
+
+
+### SHOOTING on 2025-11-28 12:23
+- Location: WPXI Pittsburgh
+- Description: The shooting is believed to happened inside a home after a fight.
+
+
+### HOMICIDE on 2025-11-28 12:21
 - Location: The Punch
-- Description: Gunmen attack former governor Chris Ngige’s convoy in Anambra, injuring a policeman. Police have recovered the snatched SUV and launched a manhunt for the
+- Description: A househelp in Rivers State allegedly kills her employer’s 7-year-old daughter before taking her own life. Police are now investigating the murder-suicide.
 
-Read More: https://punchng.com/police-hunt-gunmen-recover-car-after-attack-on-ngiges-convoy/
-
-
-### OTHER on 2025-11-28 05:34
-- Location: Mediaite
-- Description: President Donald Trump reached another low on Thanksgiving night in a rant against immigrants and Minnesota Governor Tim Walz.
-The post Trump’s Vicious Mental Spiral Takes Center Stage on Thanksgiving as He Calls Governor, ‘Seriously Retarded’ first appeared …
+Read More: https://punchng.com/rivers-househelp-stabs-employers-daughter-to-death-takes-own-life/
 
 
-### OTHER on 2025-11-28 05:34
-- Location: Mediaite
-- Description: President Donald Trump reached another low on Thanksgiving night in a rant against immigrants and Minnesota Governor Tim Walz.
+### OTHER on 2025-11-28 12:15
+- Location: Khabarhub.com
+- Description: KATHMANDU: Minister for Home Affairs Om Prakash Aryal has pledged to further strengthen relations between the federal and provincial governments. During a meeting today with Madhesh Province Minister for Home, Law and Communications Bimala Ansari, Minister Ar…
 
-
-### OTHER on 2025-11-28 05:32
-- Location: Mediaite
-- Description: President Donald Trump railed against Minnesota Gov. Tim Walz, describing him as "seriously retarded" in a Thanksgiving message posted to Truth Social.
-The post Trump Rails Against ‘Seriously Retarded Governor’ Tim Walz in Thanksgiving Message first appeared …
-
-Analysis generated at: Sat Nov 29 06:21:24 UTC 2025
+Analysis generated at: Sat Nov 29 12:27:55 UTC 2025
