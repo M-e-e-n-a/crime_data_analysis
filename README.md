@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Nov 28 18:21:24 UTC 2025
+Last updated: Sat Nov 29 01:07:21 UTC 2025
 
 ## Latest Analysis
 
-Loaded 73242 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-27 18:18:41
+Loaded 73257 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-28 00:54:11
 
 Incidents by source:
 source
-newsapi           73141
+newsapi           73156
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-11-27 18:18
-- Location: Biztoc.com
-- Description: The Israel Defense Forces acknowledged on Thursday that its troops opened fire on two Palestinians during a joint IDF–Israel Border Police raid in Jenin, a city in the northern West Bank. According to...
+### SHOOTING on 2025-11-28 00:54
+- Location: Freerepublic.com
+- Description: The Afghan national accused of shooting two West Virginia National Guard members just blocks from the White House previously worked with multiple U.S. government entities—including the CIA—while serving with a partner force in Kandahar, Afghanistan, according…
 
 
-### OTHER on 2025-11-27 18:18
+### SHOOTING on 2025-11-28 00:47
+- Location: CBS News
+- Description: President Trump told reporters Thursday evening that 20-year-old Army Spc. Sarah Beckstrom died from her injuries in the Washington, D.C., shooting.
+
+
+### SHOOTING on 2025-11-28 00:32
 - Location: The Times of India
-- Description: Gopal Vittal from Bharti Airtel emphasizes the importance of safer digital payment practices for consumers. He encourages individuals to create a separate secondary account dedicated exclusively to everyday transactions. This proactive approach safeguards per…
+- Description: A National Guard member has died after being shot in an ambush near the White House. Another Guard member is fighting for his life. The suspect, an Afghan national, was apprehended. The incident has led to accusations of immigration vetting failures. An inves…
 
 
-### ASSAULT on 2025-11-27 18:16
-- Location: The Times of India
-- Description: The row between Asia's two biggest economies began after Takaichi suggested this month that Tokyo could intervene militarily in any attack on self-ruled Taiwan, which China claims as part of its territory. According to Beijing's foreign ministry, Chinese lead…
+### SHOOTING on 2025-11-28 00:31
+- Location: Japan Today
+- Description: President Donald Trump said on Thursday that a National Guard member had died after being shot in an ambush by an Afghan national near the White House, an attack that drew accusations from his administration of Biden-era immigration vetting failures and promp…
 
 
-### HOMICIDE on 2025-11-27 18:13
-- Location: Rlsbb.to
-- Description: Ying hung boon sik II (original title) - Awards 2 nominations total See more awards » Plot: A restauranteur teams up with a police officer and his ex-con brother to avenge the death of a friend's daughter. Genre: Action | Crime | DramaIMDB Rating Live: IMDB R…
+### HOMICIDE on 2025-11-28 00:27
+- Location: CinemaBlend
+- Description: A murder-mystery with a meaning.
 
-
-### OTHER on 2025-11-27 18:13
-- Location: TheJournal.ie
-- Description: The author said it was “unclear” whether any UK company can make payments to her.
-
-Analysis generated at: Fri Nov 28 18:21:24 UTC 2025
+Analysis generated at: Sat Nov 29 01:07:21 UTC 2025
