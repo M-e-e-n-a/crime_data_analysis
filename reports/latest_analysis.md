@@ -1,10 +1,10 @@
 
-Loaded 73257 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-28 00:54:11
+Loaded 73264 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-28 01:48:37
 
 Incidents by source:
 source
-newsapi           73156
+newsapi           73163
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-11-28 00:54
+### OTHER on 2025-11-28 01:48
+- Location: ABC News (AU)
+- Description: Wayne Pedro Morseu was reported missing on December 10, with police now upgrading his disappearance to suspicious.
+
+
+### HOMICIDE on 2025-11-28 01:35
 - Location: Freerepublic.com
-- Description: The Afghan national accused of shooting two West Virginia National Guard members just blocks from the White House previously worked with multiple U.S. government entities—including the CIA—while serving with a partner force in Kandahar, Afghanistan, according…
+- Description: The latest brutal act of Afghan refugee terrorism claimed the lives of two brave members of the National Guard in D.C.. Since their arrival in the United States, Afghan ‘refugees’ have been involved in violent attacks, in assorted crimes, and in sexual assaul…
 
 
-### SHOOTING on 2025-11-28 00:47
-- Location: CBS News
-- Description: President Trump told reporters Thursday evening that 20-year-old Army Spc. Sarah Beckstrom died from her injuries in the Washington, D.C., shooting.
+### HOMICIDE on 2025-11-28 01:30
+- Location: The Denver Post
+- Description: One person was killed in a single-vehicle crash on Interstate 25 near East Yale Avenue on Thanksgiving, according to the Denver Police Department.
 
 
-### SHOOTING on 2025-11-28 00:32
-- Location: The Times of India
-- Description: A National Guard member has died after being shot in an ambush near the White House. Another Guard member is fighting for his life. The suspect, an Afghan national, was apprehended. The incident has led to accusations of immigration vetting failures. An inves…
+### OTHER on 2025-11-28 01:30
+- Location: ABC News (AU)
+- Description: The fugitives broke out of the prison in the eastern city of Dijon in the early hours of Thrusday, local time, and 100 police officers are on their trail.
 
 
-### SHOOTING on 2025-11-28 00:31
-- Location: Japan Today
-- Description: President Donald Trump said on Thursday that a National Guard member had died after being shot in an ambush by an Afghan national near the White House, an attack that drew accusations from his administration of Biden-era immigration vetting failures and promp…
+### OTHER on 2025-11-28 01:22
+- Location: Rlsbb.to
+- Description: Release Description:The Last Case of John Morley thrusts players into the shoes of detective John Morley in the gritty, noir atmosphere of the 1940s. After spending several months recovering in the hospital from injuries sustained during his last case, Morley…
 
-
-### HOMICIDE on 2025-11-28 00:27
-- Location: CinemaBlend
-- Description: A murder-mystery with a meaning.
-
-Analysis generated at: Sat Nov 29 01:07:21 UTC 2025
+Analysis generated at: Sat Nov 29 01:51:37 UTC 2025
