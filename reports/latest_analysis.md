@@ -1,10 +1,10 @@
 
-Loaded 73364 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-28 12:27:45
+Loaded 73366 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-28 12:46:01
 
 Incidents by source:
 source
-newsapi           73263
+newsapi           73265
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,6 +20,16 @@ bution.svg)
 
 ## Recent Incidents
 
+### SHOOTING on 2025-11-28 12:46
+- Location: CBS News
+- Description: Israeli human rights group B'Tselem says a video shows soldiers fatally shooting two Palestinian men as they surrender during a West Bank raid.
+
+
+### OTHER on 2025-11-28 12:45
+- Location: Whyevolutionistrue.com
+- Description: Welcome to a “no work” Friday in America: it’s November  28, 2025, and all Americans get the day off unless they’re workaholics. It’s also National French Toast Day, my favorite breakfast treat, one my mom made for me on special days. Here it is unadorned, ne…
+
+
 ### OTHER on 2025-11-28 12:27
 - Location: The Times of India
 - Description: Ahmedabad is accelerating infrastructure development, including the Sardar Vallabhbhai Patel Sports Enclave, following its selection to host the 2030 Commonwealth Games. This ambitious push is also a strategic step towards a potential bid for the 2036 Olympic…
@@ -34,16 +44,4 @@ bution.svg)
 - Location: WPXI Pittsburgh
 - Description: The shooting is believed to happened inside a home after a fight.
 
-
-### HOMICIDE on 2025-11-28 12:21
-- Location: The Punch
-- Description: A househelp in Rivers State allegedly kills her employer’s 7-year-old daughter before taking her own life. Police are now investigating the murder-suicide.
-
-Read More: https://punchng.com/rivers-househelp-stabs-employers-daughter-to-death-takes-own-life/
-
-
-### OTHER on 2025-11-28 12:15
-- Location: Khabarhub.com
-- Description: KATHMANDU: Minister for Home Affairs Om Prakash Aryal has pledged to further strengthen relations between the federal and provincial governments. During a meeting today with Madhesh Province Minister for Home, Law and Communications Bimala Ansari, Minister Ar…
-
-Analysis generated at: Sat Nov 29 12:27:55 UTC 2025
+Analysis generated at: Sat Nov 29 12:46:24 UTC 2025
