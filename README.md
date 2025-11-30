@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Nov 30 02:05:52 UTC 2025
+Last updated: Sun Nov 30 06:22:20 UTC 2025
 
 ## Latest Analysis
 
-Loaded 73466 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-29 02:01:35
+Loaded 73496 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-29 06:00:00
 
 Incidents by source:
 source
-newsapi           73365
+newsapi           73395
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2025-11-29 02:01
-- Location: Freerepublic.com
-- Description: “Seditionist 6” member Elissa Slotkin predicted an incident with the National Guard in DC one month ago. This is sick and looking more and more like another Deep State color revolution against the American people. The Deep State went on full attack during Pre…
+### ASSAULT on 2025-11-29 06:00
+- Location: The-independent.com
+- Description: The Dune and Avengers star tells Patrick Smith not to drink the Kool-Aid as he talks about his wild past – fights, addiction, and friendship with Donald Trump – plus his relationship with fame and starring in the new Knives Out film
 
 
-### HOMICIDE on 2025-11-29 02:00
-- Location: PEOPLE
-- Description: Luke Truesdell was convicted on three counts of first-degree murder and one count of second-degree murder
+### OTHER on 2025-11-29 06:00
+- Location: The Irish Times
+- Description: Gerry Hutch plans to run in Dublin Central byelection and mobilise first-time voters after tapping academics for advice
 
 
-### HOMICIDE on 2025-11-29 01:54
-- Location: Freerepublic.com
-- Description: President Donald Trump has not dismissed the possibility of deporting the family of Rahmanullah Lakanwal, the 29-year-old Afghan refugee charged with the ambush murder of a National Guard soldier near the White House. Speaking to reporters on Thanksgiving, Tr…
+### OTHER on 2025-11-29 05:47
+- Location: Observer.co.uk
+- Description: In the vicious debate around trans issues no one has been as stubborn as the Father Ted creator. Even in Arizona, he’s not going away
 
 
-### HOMICIDE on 2025-11-29 01:52
-- Location: ABC News (AU)
-- Description: A 19-year-old man has been released from custody after police withdrew charges against him.
+### HOMICIDE on 2025-11-29 05:41
+- Location: ABC News
+- Description: The Trump administration has halted all asylum decisions and paused issuing visas for people traveling on Afghan passports in the wake of a shooting that left one National Guard member dead and another in critical condition near the White House
 
 
-### HOMICIDE on 2025-11-29 01:14
-- Location: Fox News
-- Description: Bryan Kohberger complained about the bananas served at Idaho Maximum Security Institution, where he is serving multiple life sentences for murdering four University of Idaho students.
+### SHOOTING on 2025-11-29 05:32
+- Location: Slashdot.org
+- Description: Two injured in Westfield Valley Fair shopping mall shooting on Black FridayLos Angeles Times 3 people shot at Valley Fair Mall in West San JoseNBC Bay Area Multiple victims with gunshot wounds at Valley Fair Mall in California on Black Friday: policeFox News …
 
-Analysis generated at: Sun Nov 30 02:05:52 UTC 2025
+Analysis generated at: Sun Nov 30 06:22:20 UTC 2025
