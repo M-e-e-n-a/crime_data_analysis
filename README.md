@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Nov 29 18:20:33 UTC 2025
+Last updated: Sun Nov 30 01:17:33 UTC 2025
 
 ## Latest Analysis
 
-Loaded 73447 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-28 18:19:32
+Loaded 73462 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-29 01:14:38
 
 Incidents by source:
 source
-newsapi           73346
+newsapi           73361
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,30 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-11-28 18:19
-- Location: Balloon-juice.com
-- Description: Yesterday on his janky social media platform, the demented shitbag that 49.81% of U.S. voters elected “president” spewed forth a multipart hateful tirade that even the most unhinged druncle at a random Thanksgiving dinner would be unable to match: (1/8) A ver…
+### HOMICIDE on 2025-11-29 01:14
+- Location: Fox News
+- Description: Bryan Kohberger complained about the bananas served at Idaho Maximum Security Institution, where he is serving multiple life sentences for murdering four University of Idaho students.
 
 
-### ROBBERY/THEFT on 2025-11-28 18:18
-- Location: The Times of India
-- Description: Days after three doctors associated with the university were allegedly found to be part of a terror module that carried out a blast in the national capital, ED earlier this month had carried out searches at nearly two dozen premises linked to the Al Falah Uni…
+### OTHER on 2025-11-29 01:13
+- Location: ABC News (AU)
+- Description: Police have seized about $8.4 million in assets, including two cars and a jet ski, and almost 1 million cigarettes, following an operation targeting the NT's illicit tobacco trade.
 
 
-### OTHER on 2025-11-28 18:16
-- Location: HuffPost
-- Description: The prosecutor’s statement didn’t say what role, exactly, the man is thought to have played in the daylight heist, though.
+### SHOOTING on 2025-11-29 01:09
+- Location: ABC News
+- Description: West Virginia communities and officials are honoring two members of the state's National Guard who were shot in Washington, D.C., this week, lauding their dedication to serving their country
 
 
-### HOMICIDE on 2025-11-28 18:06
-- Location: Sky.com
-- Description: A man who murdered a family friend in her sleep before committing sexual offences on her body in an act of "unimaginable depravity" has been jailed for at least 26 years.
+### ROBBERY/THEFT on 2025-11-29 01:00
+- Location: BroBible
+- Description: Back in the day, losing your phone meant simply missing a few phone calls. Now, it means someone potentially having the keys to a significant amount of your life. A New York woman knows this feeling firsthand. After seemingly losing her phone in an Uber, she …
 
 
-### OTHER on 2025-11-28 18:00
-- Location: Cracked.com
-- Description: By
- Brian VanHooker
- Published: November 28th, 2025
+### SHOOTING on 2025-11-29 00:52
+- Location: CBC News
+- Description: Police in the Indian capital of Delhi say they have arrested the "prime conspirator" behind a series of extortion-linked shootings at a Surrey, B.C., café.
 
-Analysis generated at: Sat Nov 29 18:20:33 UTC 2025
+Analysis generated at: Sun Nov 30 01:17:33 UTC 2025
