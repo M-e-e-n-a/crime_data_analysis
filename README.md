@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Nov 30 06:22:20 UTC 2025
+Last updated: Sun Nov 30 12:27:32 UTC 2025
 
 ## Latest Analysis
 
-Loaded 73496 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-29 06:00:00
+Loaded 73528 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-29 12:23:04
 
 Incidents by source:
 source
-newsapi           73395
+newsapi           73427
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2025-11-29 06:00
-- Location: The-independent.com
-- Description: The Dune and Avengers star tells Patrick Smith not to drink the Kool-Aid as he talks about his wild past – fights, addiction, and friendship with Donald Trump – plus his relationship with fame and starring in the new Knives Out film
-
-
-### OTHER on 2025-11-29 06:00
+### HOMICIDE on 2025-11-29 12:23
 - Location: The Irish Times
-- Description: Gerry Hutch plans to run in Dublin Central byelection and mobilise first-time voters after tapping academics for advice
+- Description: New books by Natasha Bache, Gabriel Rotello, Abir Mukherjee and Samir Machado de Machado
 
 
-### OTHER on 2025-11-29 05:47
-- Location: Observer.co.uk
-- Description: In the vicious debate around trans issues no one has been as stubborn as the Father Ted creator. Even in Arizona, he’s not going away
+### OTHER on 2025-11-29 12:01
+- Location: CNN
+- Description: After a 6-year-old boy vanished on his way to a school bus stop one morning in 1979, family members, friends and neighbors scoured the gritty, industrial...
 
 
-### HOMICIDE on 2025-11-29 05:41
-- Location: ABC News
-- Description: The Trump administration has halted all asylum decisions and paused issuing visas for people traveling on Afghan passports in the wake of a shooting that left one National Guard member dead and another in critical condition near the White House
+### OTHER on 2025-11-29 12:00
+- Location: CBC News
+- Description: The 28-year-old registered sex offender charged after Winnipeg police say a child was grabbed in a St. Vital elementary school bathroom this week has a criminal record that includes groping a child.
 
 
-### SHOOTING on 2025-11-29 05:32
-- Location: Slashdot.org
-- Description: Two injured in Westfield Valley Fair shopping mall shooting on Black FridayLos Angeles Times 3 people shot at Valley Fair Mall in West San JoseNBC Bay Area Multiple victims with gunshot wounds at Valley Fair Mall in California on Black Friday: policeFox News …
+### HOMICIDE on 2025-11-29 11:47
+- Location: Borderlandbeat.com
+- Description: “Sol Prendido” for Borderland Beat  Carlos Manzo: Stalled investigation and public concern surrounding  the murder of the mayor of Uruapan. ...
 
-Analysis generated at: Sun Nov 30 06:22:20 UTC 2025
+
+### OTHER on 2025-11-29 11:45
+- Location: Salon
+- Description: The debate isn’t about “trusting experts.” It’s about who shoulders responsibility for staying healthy.
+
+Analysis generated at: Sun Nov 30 12:27:32 UTC 2025
