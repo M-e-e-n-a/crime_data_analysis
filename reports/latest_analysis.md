@@ -1,10 +1,10 @@
 
-Loaded 73530 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-29 12:45:31
+Loaded 73573 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-29 18:20:19
 
 Incidents by source:
 source
-newsapi           73429
+newsapi           73472
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-11-29 12:45
-- Location: Whyevolutionistrue.com
-- Description: Welcome to CaturSaturday, November 29, 2025, a day of shabbos for Jewish cats (no work permitted; it’s a day to nap) as well as National Chocolates Day. My favorite commercial chocolate is See’s Candy, and it’s best when you go into one of their stores and pi…
+### HOMICIDE on 2025-11-29 18:20
+- Location: Breitbart News
+- Description: The Gold Star father of one of the soldiers killed in the notorious Abbey Gate bombing during the disastrous 2021 withdrawal from Afghanistan is continuing his condemnation of the Biden administration — this time following the recent shooting of two National …
 
 
-### HOMICIDE on 2025-11-29 12:42
-- Location: The Irish Times
-- Description: One officer stabbed in leg and attempt made to stab another in chest
+### SHOOTING on 2025-11-29 18:15
+- Location: TheJournal.ie
+- Description: Specialist Sarah Beckstrom, 20, died after the Wednesday shooting.
 
 
-### HOMICIDE on 2025-11-29 12:23
-- Location: The Irish Times
-- Description: New books by Natasha Bache, Gabriel Rotello, Abir Mukherjee and Samir Machado de Machado
+### OTHER on 2025-11-29 17:46
+- Location: Open Democracy
+- Description: The Community Love Fund is a guaranteed income program built and run by abolitionist women.
 
 
-### OTHER on 2025-11-29 12:01
-- Location: CNN
-- Description: After a 6-year-old boy vanished on his way to a school bus stop one morning in 1979, family members, friends and neighbors scoured the gritty, industrial...
+### ASSAULT on 2025-11-29 17:41
+- Location: Truthout
+- Description: The administration's preemptive assault on history is a desperate attempt to stop new social movements from starting.
 
 
-### OTHER on 2025-11-29 12:00
-- Location: CBC News
-- Description: The 28-year-old registered sex offender charged after Winnipeg police say a child was grabbed in a St. Vital elementary school bathroom this week has a criminal record that includes groping a child.
+### OTHER on 2025-11-29 17:24
+- Location: Forbes
+- Description: Looking for what to stream this weekend? Here’s every major new movie and show hitting Netflix, Hulu, Prime Video, Apple TV and more.
 
-Analysis generated at: Sun Nov 30 12:45:48 UTC 2025
+Analysis generated at: Sun Nov 30 18:20:34 UTC 2025
