@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Nov 30 01:17:33 UTC 2025
+Last updated: Sun Nov 30 02:05:52 UTC 2025
 
 ## Latest Analysis
 
-Loaded 73462 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-29 01:14:38
+Loaded 73466 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-29 02:01:35
 
 Incidents by source:
 source
-newsapi           73361
+newsapi           73365
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
+### ASSAULT on 2025-11-29 02:01
+- Location: Freerepublic.com
+- Description: “Seditionist 6” member Elissa Slotkin predicted an incident with the National Guard in DC one month ago. This is sick and looking more and more like another Deep State color revolution against the American people. The Deep State went on full attack during Pre…
+
+
+### HOMICIDE on 2025-11-29 02:00
+- Location: PEOPLE
+- Description: Luke Truesdell was convicted on three counts of first-degree murder and one count of second-degree murder
+
+
+### HOMICIDE on 2025-11-29 01:54
+- Location: Freerepublic.com
+- Description: President Donald Trump has not dismissed the possibility of deporting the family of Rahmanullah Lakanwal, the 29-year-old Afghan refugee charged with the ambush murder of a National Guard soldier near the White House. Speaking to reporters on Thanksgiving, Tr…
+
+
+### HOMICIDE on 2025-11-29 01:52
+- Location: ABC News (AU)
+- Description: A 19-year-old man has been released from custody after police withdrew charges against him.
+
+
 ### HOMICIDE on 2025-11-29 01:14
 - Location: Fox News
 - Description: Bryan Kohberger complained about the bananas served at Idaho Maximum Security Institution, where he is serving multiple life sentences for murdering four University of Idaho students.
 
-
-### OTHER on 2025-11-29 01:13
-- Location: ABC News (AU)
-- Description: Police have seized about $8.4 million in assets, including two cars and a jet ski, and almost 1 million cigarettes, following an operation targeting the NT's illicit tobacco trade.
-
-
-### SHOOTING on 2025-11-29 01:09
-- Location: ABC News
-- Description: West Virginia communities and officials are honoring two members of the state's National Guard who were shot in Washington, D.C., this week, lauding their dedication to serving their country
-
-
-### ROBBERY/THEFT on 2025-11-29 01:00
-- Location: BroBible
-- Description: Back in the day, losing your phone meant simply missing a few phone calls. Now, it means someone potentially having the keys to a significant amount of your life. A New York woman knows this feeling firsthand. After seemingly losing her phone in an Uber, she …
-
-
-### SHOOTING on 2025-11-29 00:52
-- Location: CBC News
-- Description: Police in the Indian capital of Delhi say they have arrested the "prime conspirator" behind a series of extortion-linked shootings at a Surrey, B.C., café.
-
-Analysis generated at: Sun Nov 30 01:17:33 UTC 2025
+Analysis generated at: Sun Nov 30 02:05:52 UTC 2025
