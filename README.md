@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Dec  1 12:53:27 UTC 2025
+Last updated: Mon Dec  1 18:25:13 UTC 2025
 
 ## Latest Analysis
 
-Loaded 73649 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-30 12:47:44
+Loaded 73688 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-30 18:19:31
 
 Incidents by source:
 source
-newsapi           73548
+newsapi           73587
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-11-30 12:47
+### OTHER on 2025-11-30 18:19
+- Location: The Daily Caller
+- Description: Democratic Tennessee congressional candidate Aftyn Behn defended her past alienating comments Sunday by noting she was a "private citizen" when she made them.
+
+
+### SHOOTING on 2025-11-30 18:13
+- Location: WPVI-TV
+- Description: A woman was critically injured following a police-involved shooting Sunday morning.
+
+
+### OTHER on 2025-11-30 18:09
+- Location: PEOPLE
+- Description: The actor's fiancée, Johnnie Faye Cartwright, was also arrested and is facing five charges
+
+
+### OTHER on 2025-11-30 18:07
 - Location: Fox News
-- Description: Milei declassifies shocking documents revealing how Nazi war criminal Josef Mengele lived openly in Argentina despite authorities knowing his identity.
+- Description: New Orleans police chief Anne Kirkpatrick sparks viral controversy claiming immigration violations are 'civil issues' her department won't enforce.
 
 
-### HOMICIDE on 2025-11-30 12:28
-- Location: TMZ
-- Description: A mass shooting in California has left four people dead and 10 others injured at a child's birthday party. The bullets started flying Saturday night at a banquet hall in Stockton where the family celebration was underway, according to police. The…
+### SHOOTING on 2025-11-30 17:53
+- Location: New York Post
+- Description: Beckstrom was shot in the chest and head in a cowardly ambush attack while standing guard in DC a day before Thanksgiving along with fellow National Guard member US Air Force Staff Sgt. Andrew Wolfe, 24.
 
-
-### ASSAULT on 2025-11-30 12:10
-- Location: BBC News
-- Description: British light-heavyweight Ben Whittaker is offering a "big reward" after returning from his latest fight to find his home had been burgled.
-
-
-### HOMICIDE on 2025-11-30 12:07
-- Location: Newser
-- Description: A family celebration in Stockton, California, became the site of the latest mass shooting in the US on Saturday, with four people dead and 10 injured, say police. The assault took place just before 6pm at a banquet hall in the northern part of the city, rough…
-
-
-### ASSAULT on 2025-11-30 12:03
-- Location: BBC News
-- Description: British light-heavyweight Ben Whittaker is offering a "big reward" after returning from his latest fight to find his home had been burgled.
-
-Analysis generated at: Mon Dec  1 12:53:27 UTC 2025
+Analysis generated at: Mon Dec  1 18:25:13 UTC 2025
