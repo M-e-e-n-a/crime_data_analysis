@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Dec  1 12:32:08 UTC 2025
+Last updated: Mon Dec  1 12:53:27 UTC 2025
 
 ## Latest Analysis
 
-Loaded 73648 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-30 12:28:18
+Loaded 73649 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-30 12:47:44
 
 Incidents by source:
 source
-newsapi           73547
+newsapi           73548
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -23,6 +23,11 @@ bution.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### OTHER on 2025-11-30 12:47
+- Location: Fox News
+- Description: Milei declassifies shocking documents revealing how Nazi war criminal Josef Mengele lived openly in Argentina despite authorities knowing his identity.
+
 
 ### HOMICIDE on 2025-11-30 12:28
 - Location: TMZ
@@ -43,9 +48,4 @@ bution.svg)
 - Location: BBC News
 - Description: British light-heavyweight Ben Whittaker is offering a "big reward" after returning from his latest fight to find his home had been burgled.
 
-
-### HOMICIDE on 2025-11-30 12:00
-- Location: WSOC Charlotte
-- Description: One person was killed, and another was injured during a shooting in north Charlotte early Sunday morning, police said.
-
-Analysis generated at: Mon Dec  1 12:32:08 UTC 2025
+Analysis generated at: Mon Dec  1 12:53:27 UTC 2025
