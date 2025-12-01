@@ -1,10 +1,10 @@
 
-Loaded 73614 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-30 06:21:00
+Loaded 73648 incidents
+Date range: 2024-01-01 00:00:00 to 2025-11-30 12:28:18
 
 Incidents by source:
 source
-newsapi           73513
+newsapi           73547
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-11-30 06:21
-- Location: DW (English)
-- Description: Police in California have said four people were killed in a possible targeted shooting Saturday evening. The incident took place during a children's birthday party. Police in the California city of Stockton have said that four people were killed Saturday even…
+### HOMICIDE on 2025-11-30 12:28
+- Location: TMZ
+- Description: A mass shooting in California has left four people dead and 10 others injured at a child's birthday party. The bullets started flying Saturday night at a banquet hall in Stockton where the family celebration was underway, according to police. The…
 
 
-### OTHER on 2025-11-30 06:00
-- Location: The Irish Times
-- Description: US sanctions making normal life impossible for International Criminal Court officials who issued war crimes arrest warrants
-
-
-### SHOOTING on 2025-11-30 06:00
-- Location: Naturalnews.com
-- Description: Rahmanullah Lakanwal, 29, an Afghan national who previously worked with the CIA and U.S. forces in Afghanistan, ambushed two National Guard members near the White House. He entered the U.S. in 2021 under Operation Allies Welcome, a Biden-era evacuation progra…
-
-
-### HOMICIDE on 2025-11-30 05:57
+### ASSAULT on 2025-11-30 12:10
 - Location: BBC News
-- Description: Police say 10 others are injured in what they believe is a "targeted" shooting, with children among the victims.
+- Description: British light-heavyweight Ben Whittaker is offering a "big reward" after returning from his latest fight to find his home had been burgled.
 
 
-### HOMICIDE on 2025-11-30 05:57
+### HOMICIDE on 2025-11-30 12:07
+- Location: Newser
+- Description: A family celebration in Stockton, California, became the site of the latest mass shooting in the US on Saturday, with four people dead and 10 injured, say police. The assault took place just before 6pm at a banquet hall in the northern part of the city, rough…
+
+
+### ASSAULT on 2025-11-30 12:03
 - Location: BBC News
-- Description: Police say 10 others are injured in what they believe is a "targeted" shooting, with children among the victims.
+- Description: British light-heavyweight Ben Whittaker is offering a "big reward" after returning from his latest fight to find his home had been burgled.
 
-Analysis generated at: Mon Dec  1 06:26:00 UTC 2025
+
+### HOMICIDE on 2025-11-30 12:00
+- Location: WSOC Charlotte
+- Description: One person was killed, and another was injured during a shooting in north Charlotte early Sunday morning, police said.
+
+Analysis generated at: Mon Dec  1 12:32:08 UTC 2025
