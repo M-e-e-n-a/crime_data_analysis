@@ -1,10 +1,10 @@
 
-Loaded 73780 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-01 12:47:00
+Loaded 73873 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-01 18:18:25
 
 Incidents by source:
 source
-newsapi           73679
+newsapi           73772
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-12-01 12:47
-- Location: Internet
-- Description: Hackers aren’t kicking down the door anymore. They just use the same tools we use every day — code packages, cloud accounts, email, chat, phones, and “trusted” partners — and turn them against us.
-One bad download can leak your keys. One weak vendor can expos…
+### HOMICIDE on 2025-12-01 18:18
+- Location: The Hollywood Gossip
+- Description: Reading Time: 2 minutesZarbab Ali has confessed to murdering his estranged wife, Rachel Castillo.
+Zarbab Ali: Man Confesses to Killing Wife, Digging Up and ‘Raping’ Her Corpse was originally published on The Hollywood Gossip.
 
 
-### HOMICIDE on 2025-12-01 12:24
-- Location: CBS News
-- Description: Luigi Mangione's defense argues certain evidence should not be allowed during trial in the killing of UnitedHealthcare CEO Brian Thompson in NYC.
+### OTHER on 2025-12-01 18:15
+- Location: Crooksandliars.com
+- Description: Gov. Tim Walz whacked Trump for normalizing the sort of behavior we saw from him during his unhinged rant on Thanksgiving, where the narcissist did his best to ruin the holiday for everyone and called Walz "retarded."
+Meet the Press host Kristen Welker asked …
 
 
-### OTHER on 2025-12-01 12:12
-- Location: Decrypt
-- Description: The takedown of Cryptomixer disrupts a nine-year-old laundering hub relied upon by ransomware groups and darknet markets.
+### SHOOTING on 2025-12-01 18:00
+- Location: WSB Atlanta
+- Description: The Athens-Clarke County Police Department confirmed they are investigating a shooting at a dentist’s office near Clarke Central High School.
 
 
-### OTHER on 2025-12-01 12:00
-- Location: National Post
-- Description: Nearly 80,000 foreign labourers pick the cherries, apples and wine that end up on Canadian tables. The system is set up to exploit them
+### DRUG RELATED on 2025-12-01 17:58
+- Location: Theregister.com
+- Description: Plus: Aussie Wi-Fi phisher and Brit dark web dealer nailed Cybercrime suspects and offenders across three continents have been rounded up this week, with cases spanning hacked IP cameras in South Korea, evil twin Wi-Fi traps in Australia, and a dark web drug …
 
 
-### OTHER on 2025-12-01 12:00
-- Location: Screen Rant
-- Description: These 5 must-watch new December 2025 Paramount+ shows are perfect to binge-watch this week. #1 is now trending worldwide on Paramount's global charts.
+### OTHER on 2025-12-01 17:56
+- Location: Israelnationalnews.com
+- Description: IDF Chief of Staff Eyal Zamir toured the Tammun-Tubas and Menashe areas, praising counterterrorism gains and ordering a full inquiry into the Yamas operation in which two terrorists were eliminated.
 
-Analysis generated at: Tue Dec  2 12:54:27 UTC 2025
+Analysis generated at: Tue Dec  2 18:24:30 UTC 2025
