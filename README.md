@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Dec  2 01:56:38 UTC 2025
+Last updated: Tue Dec  2 06:25:27 UTC 2025
 
 ## Latest Analysis
 
-Loaded 73701 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-01 01:33:10
+Loaded 73730 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-01 06:24:54
 
 Incidents by source:
 source
-newsapi           73600
+newsapi           73629
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-12-01 01:33
-- Location: BBC News
-- Description: An officer tells the Independent Inquiry relating to Afghanistan UK Special Forces leadership was "very much suppressing" the allegations.
+### OTHER on 2025-12-01 06:24
+- Location: Rpnradio.com
+- Description: The Police Regional Office 5 (PRO5) opened another work week with renewed zeal and unwavering dedication to its mission of serving and protecting the people of the Bicol Region. The Monday Flag Raising Ceremony was held today, December 1, 2025, at the PRO5 Gr…
 
 
-### OTHER on 2025-12-01 01:10
-- Location: Breitbart News
-- Description: President Donald Trump suggested that Rep. Ilhan Omar (D-MN) should be removed from the United States, referencing allegations that she "supposedly" entered the country by marrying her brother.
-The post Trump Suggests Rep. Ilhan Omar Be Thrown ‘Out Of’ U.S. O…
+### HOMICIDE on 2025-12-01 06:11
+- Location: The Times of India
+- Description: A national-level bodybuilder and para-athlete, Rohit Dhankhar, died after being brutally assaulted for intervening in a harassment incident at a wedding in Bhiwani. He was attacked by a group of men armed with weapons while returning home. Police have launche…
 
 
-### ROBBERY/THEFT on 2025-12-01 01:09
-- Location: NPR
-- Description: Thousands of demonstrators including from the dominant Roman Catholic church clergy are protesting in the Philippines, calling for the swift prosecution of top legislators.
+### HOMICIDE on 2025-12-01 06:11
+- Location: The Indian Express
+- Description: The Bengaluru woman, who was being treated at Victoria Hospital, gave a video statement to the police a day before she died of multiple organ failure on November 26.
 
 
-### OTHER on 2025-12-01 01:08
-- Location: Honolulu Star-Advertiser
-- Description: Hilo in flames again as fires destroy 4 buildings downtown | Honolulu Star-Advertiserstaradvertiser.com
+### OTHER on 2025-12-01 06:08
+- Location: Fox News
+- Description: Trump said the asylum freeze could last “a long time" and suggested he may seek authority to strip citizenship from some naturalized immigrants with criminal histories.
 
 
-### SHOOTING on 2025-12-01 01:08
-- Location: Sky.com
-- Description: The sheriff of San Joaquin County said there appeared to have been "multiple shooters" who began the attack indoors and then moved outside.
+### OTHER on 2025-12-01 06:08
+- Location: Amusingplanet.com
+- Description: On a crisp October morning in 1906, a man in an immaculate Prussian captain’s uniform marched into the Berlin suburb of Köpenick and coolly ...
 
-Analysis generated at: Tue Dec  2 01:56:38 UTC 2025
+Analysis generated at: Tue Dec  2 06:25:27 UTC 2025
