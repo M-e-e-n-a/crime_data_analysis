@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Dec  1 18:25:13 UTC 2025
+Last updated: Tue Dec  2 01:10:21 UTC 2025
 
 ## Latest Analysis
 
-Loaded 73688 incidents
-Date range: 2024-01-01 00:00:00 to 2025-11-30 18:19:31
+Loaded 73699 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-01 01:09:20
 
 Incidents by source:
 source
-newsapi           73587
+newsapi           73598
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-11-30 18:19
-- Location: The Daily Caller
-- Description: Democratic Tennessee congressional candidate Aftyn Behn defended her past alienating comments Sunday by noting she was a "private citizen" when she made them.
+### ROBBERY/THEFT on 2025-12-01 01:09
+- Location: NPR
+- Description: Thousands of demonstrators including from the dominant Roman Catholic church clergy are protesting in the Philippines, calling for the swift prosecution of top legislators.
 
 
-### SHOOTING on 2025-11-30 18:13
-- Location: WPVI-TV
-- Description: A woman was critically injured following a police-involved shooting Sunday morning.
+### OTHER on 2025-12-01 01:08
+- Location: Honolulu Star-Advertiser
+- Description: Hilo in flames again as fires destroy 4 buildings downtown | Honolulu Star-Advertiserstaradvertiser.com
 
 
-### OTHER on 2025-11-30 18:09
-- Location: PEOPLE
-- Description: The actor's fiancée, Johnnie Faye Cartwright, was also arrested and is facing five charges
+### SHOOTING on 2025-12-01 01:08
+- Location: Sky.com
+- Description: The sheriff of San Joaquin County said there appeared to have been "multiple shooters" who began the attack indoors and then moved outside.
 
 
-### OTHER on 2025-11-30 18:07
-- Location: Fox News
-- Description: New Orleans police chief Anne Kirkpatrick sparks viral controversy claiming immigration violations are 'civil issues' her department won't enforce.
+### OTHER on 2025-12-01 01:02
+- Location: ABC News (AU)
+- Description: A series of clues relating to allegedly violently threats against an Adelaide high school has been released in the hope it could help identify the perpetrator, three months after charges against a teenager were dropped.
 
 
-### SHOOTING on 2025-11-30 17:53
+### OTHER on 2025-12-01 00:52
 - Location: New York Post
-- Description: Beckstrom was shot in the chest and head in a cowardly ambush attack while standing guard in DC a day before Thanksgiving along with fellow National Guard member US Air Force Staff Sgt. Andrew Wolfe, 24.
+- Description: My own Thanksgiving: I was the guest of Luigi Romaniello, the Waldorf’s managing director, in the hotel’s new Lex Yard restaurant. Just months old, Lex Yard is beyond terrific. Décor, service, menu. As I left, there came an unfamiliar phone caller. She quickl…
 
-Analysis generated at: Mon Dec  1 18:25:13 UTC 2025
+Analysis generated at: Tue Dec  2 01:10:21 UTC 2025
