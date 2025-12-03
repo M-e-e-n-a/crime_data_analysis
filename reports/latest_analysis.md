@@ -1,10 +1,10 @@
 
-Loaded 73898 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-02 01:55:49
+Loaded 73933 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-02 06:19:00
 
 Incidents by source:
 source
-newsapi           73797
+newsapi           73832
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2025-12-02 01:55
-- Location: Twistedsifter.com
-- Description: Some lessons are best learned with a hint of blackmail.
+### OTHER on 2025-12-02 06:19
+- Location: Christiantoday.com
+- Description: Pro-life campaigner Isabel Vaughan-Spruce has had a legal Sword of Damocles over her head for 10 months as British authorities continue to decide whether or not to charge her for silent prayer in an abortion clinic buffer zone.
 
 
-### HOMICIDE on 2025-12-02 01:53
-- Location: Livejournal.com
-- Description: Luigi Mangione, 27, is back in court for a multi-day hearing that could determine the balance of evidence in his state murder trial. https://t.co/S5HcOBP7bF pic.twitter.com/VprZWUAc2P
-— ABC News (@ABC) December 1, 2025 Luigi Mangione is back in court this we…
+### HOMICIDE on 2025-12-02 06:13
+- Location: ABC News
+- Description: The latest mass killing in the United States occurred Saturday when three children ages 8, 9 and 14, and an adult were killed in a shooting at a child’s birthday party in California
 
 
-### ASSAULT on 2025-12-02 01:47
-- Location: ABC News (AU)
-- Description: Police say members of the public helped the 84-year-old woman after the alleged attack before she was taken to hospital with serious injuries.
+### OTHER on 2025-12-02 06:00
+- Location: Naturalnews.com
+- Description: The Trump administration plans to eliminate federal tax benefits—including refundable credits like EITC and Child Tax Credit—for illegal immigrants and non-qualified aliens, citing concerns over welfare abuse and immigration enforcement. Treasury Secretary Sc…
 
 
-### HOMICIDE on 2025-12-02 01:31
-- Location: The Denver Post
-- Description: The Denver Police Department is searching for a suspect in connection with a Saturday road rage shooting death in the Harvey Park neighborhood.
+### HOMICIDE on 2025-12-02 05:50
+- Location: The Indian Express
+- Description: So far, seven people have been arrested in connection with the murders during the Ludhiana wedding firing.
 
 
-### HOMICIDE on 2025-12-02 01:31
-- Location: CBC News
-- Description: Homicide investigators have released the identity of a man who was killed in a fatal shooting in Surrey, B.C., late Friday night.
+### OTHER on 2025-12-02 05:50
+- Location: New York Post
+- Description: Janeese Lewis George, 37, is seeking to replace DC Mayor Muriel Bowser, who announced last week that she would not seek re-election to a fourth term.
 
-Analysis generated at: Wed Dec  3 01:56:10 UTC 2025
+Analysis generated at: Wed Dec  3 06:24:49 UTC 2025
