@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Dec  3 12:55:03 UTC 2025
+Last updated: Wed Dec  3 18:24:27 UTC 2025
 
 ## Latest Analysis
 
-Loaded 73993 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-02 12:45:55
+Loaded 74072 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-02 18:10:00
 
 Incidents by source:
 source
-newsapi           73892
+newsapi           73971
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-12-02 12:45
-- Location: Whyevolutionistrue.com
-- Description: Welcome to the Cruelest Day: Tuesday, December 2, 2025, and National Fritters Day. Fritters of many forms are found worldwide; here are banana fritters from Kerala, a state in south India: It’s also Business of Popping Corn Day, celebrating the day in 1885 wh…
+### ROBBERY/THEFT on 2025-12-02 18:10
+- Location: Newser
+- Description: A New Zealand man is facing theft charges after allegedly swallowing a Faberge pendant worth nearly $22,000 at an Auckland jewelry store. Police say the 32-year-old suspect walked into Partridge Jewellers on Friday, picked up the luxury item—a Faberge x 007 S…
 
 
-### OTHER on 2025-12-02 12:41
-- Location: The New Republic
-- Description: The following is a lightly edited transcript of the December 2 episode of the Daily Blast podcast. Listen to it here.Greg Sargent: This is The Daily Blast from The New Republic, produced and presented by the DSR Network. I’m your host, Greg Sargent. President…
+### OTHER on 2025-12-02 18:07
+- Location: TechRadar
+- Description: Another mixing service bites the dust, but no arrests were made.
 
 
-### HOMICIDE on 2025-12-02 12:30
-- Location: TODAY
-- Description: In the pre-trial hearing of accused killer Luigi Mangione, prosecutors presented audio of the crucial 911 call by a McDonald's manager that helped lead to his arrest in Pennsylvania. Mangione appeared at the hearing in civilian clothes where his defense team …
+### SHOOTING on 2025-12-02 18:06
+- Location: Wnd.com
+- Description: Everytown's numbers confirm '2nd Amendment advocates have been right all along'
 
 
-### HOMICIDE on 2025-12-02 12:30
-- Location: Fox News
-- Description: The FBI offered a $50,000 reward as a manhunt continues for Stockton, California, shooting suspects who killed 4 at a child's birthday party on Saturday.
+### OTHER on 2025-12-02 18:00
+- Location: Deadline
+- Description: EXCLUSIVE: Golden Globe and Emmy Award-winning actor Tom Selleck has signed with UTA for representation. Selleck recently completed a 15-season run on the CBS hit series Blue Bloods, where he starred as New York City Police Commissioner and patriarch of the R…
 
 
-### OTHER on 2025-12-02 12:29
-- Location: The Local Sweden
-- Description: Two districts in Stockholm and four in Malmö classed as "especially vulnerable" by police have seen less crime in 2025, according to a biennial assessment by Swedish police. But two districts in Gothenburg and Borås have seen the situation worsen.
+### OTHER on 2025-12-02 18:00
+- Location: CBC News
+- Description: Police in Brantford, Ont., confirmed with CBC News that they received calls from upset residents, as well as online and in-person complaints, after a house along the parade route posted anti-Santa signs in its windows.
 
-Analysis generated at: Wed Dec  3 12:55:03 UTC 2025
+Analysis generated at: Wed Dec  3 18:24:27 UTC 2025
