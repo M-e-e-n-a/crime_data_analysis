@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Dec  3 01:11:07 UTC 2025
+Last updated: Wed Dec  3 01:56:10 UTC 2025
 
 ## Latest Analysis
 
-Loaded 73891 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-02 01:08:59
+Loaded 73898 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-02 01:55:49
 
 Incidents by source:
 source
-newsapi           73790
+newsapi           73797
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,68 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-12-02 01:08
-- Location: Fox News
-- Description: Socialist New York City mayor-elect Zohran Mamdani has appointed Tamika Mallory, an ex-Women’s March organizer who resigned over allegations of antisemitism, to his transition team.
+### ROBBERY/THEFT on 2025-12-02 01:55
+- Location: Twistedsifter.com
+- Description: Some lessons are best learned with a hint of blackmail.
 
 
-### HOMICIDE on 2025-12-02 01:03
-- Location: Bleeding Cool News
-- Description: Well, this weekend might have just solidified that the next Knives Out film won't be on Netflix. The limited theatrical release began last weekend, and it failed to connect with any audiences. There is a little time for people to realize it's in theaters, but…
+### HOMICIDE on 2025-12-02 01:53
+- Location: Livejournal.com
+- Description: Luigi Mangione, 27, is back in court for a multi-day hearing that could determine the balance of evidence in his state murder trial. https://t.co/S5HcOBP7bF pic.twitter.com/VprZWUAc2P
+— ABC News (@ABC) December 1, 2025 Luigi Mangione is back in court this we…
 
 
-### OTHER on 2025-12-02 01:01
-- Location: MakeUseOf
-- Description: This has three seasons of intrigue.
+### ASSAULT on 2025-12-02 01:47
+- Location: ABC News (AU)
+- Description: Police say members of the public helped the 84-year-old woman after the alleged attack before she was taken to hospital with serious injuries.
 
 
-### HOMICIDE on 2025-12-02 01:00
-- Location: Human Rights Watch
-- Description: Click to expand Image
- 
+### HOMICIDE on 2025-12-02 01:31
+- Location: The Denver Post
+- Description: The Denver Police Department is searching for a suspect in connection with a Saturday road rage shooting death in the Harvey Park neighborhood.
 
 
+### HOMICIDE on 2025-12-02 01:31
+- Location: CBC News
+- Description: Homicide investigators have released the identity of a man who was killed in a fatal shooting in Surrey, B.C., late Friday night.
 
- 
- 
- 
-
- 
- 
- 
- 
- Flowers offered for the victims near the site of the deadly fire at Wang Fuk Court, a residential complex in the Tai Po district of Hong Kong, December 1, 2025.
- ©2025 AP Photo/Chan Long Hei
- 
- 
-
-
- 
-(Bangkok) – The H…
-
-
-### HOMICIDE on 2025-12-02 01:00
-- Location: Human Rights Watch
-- Description: Click to expand Image
- 
-
-
-
- 
- 
- 
-
- 
- 
- 
- 
- Flowers offered for the victims near the site of the deadly fire at Wang Fuk Court, a residential complex in the Tai Po district of Hong Kong, December 1, 2025.
- ©2025 AP Photo/Chan Long Hei
- 
- 
-
-
- 
-(Bangkok) – The H…
-
-Analysis generated at: Wed Dec  3 01:11:07 UTC 2025
+Analysis generated at: Wed Dec  3 01:56:10 UTC 2025
