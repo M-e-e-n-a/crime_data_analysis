@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Dec  2 18:24:30 UTC 2025
+Last updated: Wed Dec  3 01:11:07 UTC 2025
 
 ## Latest Analysis
 
-Loaded 73873 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-01 18:18:25
+Loaded 73891 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-02 01:08:59
 
 Incidents by source:
 source
-newsapi           73772
+newsapi           73790
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,30 +24,68 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-12-01 18:18
-- Location: The Hollywood Gossip
-- Description: Reading Time: 2 minutesZarbab Ali has confessed to murdering his estranged wife, Rachel Castillo.
-Zarbab Ali: Man Confesses to Killing Wife, Digging Up and ‘Raping’ Her Corpse was originally published on The Hollywood Gossip.
+### OTHER on 2025-12-02 01:08
+- Location: Fox News
+- Description: Socialist New York City mayor-elect Zohran Mamdani has appointed Tamika Mallory, an ex-Women’s March organizer who resigned over allegations of antisemitism, to his transition team.
 
 
-### OTHER on 2025-12-01 18:15
-- Location: Crooksandliars.com
-- Description: Gov. Tim Walz whacked Trump for normalizing the sort of behavior we saw from him during his unhinged rant on Thanksgiving, where the narcissist did his best to ruin the holiday for everyone and called Walz "retarded."
-Meet the Press host Kristen Welker asked …
+### HOMICIDE on 2025-12-02 01:03
+- Location: Bleeding Cool News
+- Description: Well, this weekend might have just solidified that the next Knives Out film won't be on Netflix. The limited theatrical release began last weekend, and it failed to connect with any audiences. There is a little time for people to realize it's in theaters, but…
 
 
-### SHOOTING on 2025-12-01 18:00
-- Location: WSB Atlanta
-- Description: The Athens-Clarke County Police Department confirmed they are investigating a shooting at a dentist’s office near Clarke Central High School.
+### OTHER on 2025-12-02 01:01
+- Location: MakeUseOf
+- Description: This has three seasons of intrigue.
 
 
-### DRUG RELATED on 2025-12-01 17:58
-- Location: Theregister.com
-- Description: Plus: Aussie Wi-Fi phisher and Brit dark web dealer nailed Cybercrime suspects and offenders across three continents have been rounded up this week, with cases spanning hacked IP cameras in South Korea, evil twin Wi-Fi traps in Australia, and a dark web drug …
+### HOMICIDE on 2025-12-02 01:00
+- Location: Human Rights Watch
+- Description: Click to expand Image
+ 
 
 
-### OTHER on 2025-12-01 17:56
-- Location: Israelnationalnews.com
-- Description: IDF Chief of Staff Eyal Zamir toured the Tammun-Tubas and Menashe areas, praising counterterrorism gains and ordering a full inquiry into the Yamas operation in which two terrorists were eliminated.
 
-Analysis generated at: Tue Dec  2 18:24:30 UTC 2025
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Flowers offered for the victims near the site of the deadly fire at Wang Fuk Court, a residential complex in the Tai Po district of Hong Kong, December 1, 2025.
+ ©2025 AP Photo/Chan Long Hei
+ 
+ 
+
+
+ 
+(Bangkok) – The H…
+
+
+### HOMICIDE on 2025-12-02 01:00
+- Location: Human Rights Watch
+- Description: Click to expand Image
+ 
+
+
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Flowers offered for the victims near the site of the deadly fire at Wang Fuk Court, a residential complex in the Tai Po district of Hong Kong, December 1, 2025.
+ ©2025 AP Photo/Chan Long Hei
+ 
+ 
+
+
+ 
+(Bangkok) – The H…
+
+Analysis generated at: Wed Dec  3 01:11:07 UTC 2025
