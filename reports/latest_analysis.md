@@ -1,10 +1,10 @@
 
-Loaded 74072 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-02 18:10:00
+Loaded 74088 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-03 01:07:54
 
 Incidents by source:
 source
-newsapi           73971
+newsapi           73987
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2025-12-02 18:10
-- Location: Newser
-- Description: A New Zealand man is facing theft charges after allegedly swallowing a Faberge pendant worth nearly $22,000 at an Auckland jewelry store. Police say the 32-year-old suspect walked into Partridge Jewellers on Friday, picked up the luxury item—a Faberge x 007 S…
+### OTHER on 2025-12-03 01:07
+- Location: The Punch
+- Description: The Nigerian Navy’s Central Command launches Exercise EBI TORU to protect critical assets and ensure maritime security in the Niger Delta region.
+
+Read More: https://punchng.com/navy-redoubles-effort-to-protect-critical-assets/
 
 
-### OTHER on 2025-12-02 18:07
-- Location: TechRadar
-- Description: Another mixing service bites the dust, but no arrests were made.
+### OTHER on 2025-12-03 01:07
+- Location: Snopes.com
+- Description: Users claimed the video depicted Muslims "trying to assert their religious dominance over you, claim your country and turn it into Sharia law."
 
 
-### SHOOTING on 2025-12-02 18:06
-- Location: Wnd.com
-- Description: Everytown's numbers confirm '2nd Amendment advocates have been right all along'
+### OTHER on 2025-12-03 01:07
+- Location: Snopes.com
+- Description: A video authentically shows Muslims participating in a Fajr (dawn) prayer at 5 a.m. in the middle of a one-way street in Brooklyn, New York, with the voice of an imam guiding the congregants.
 
 
-### OTHER on 2025-12-02 18:00
-- Location: Deadline
-- Description: EXCLUSIVE: Golden Globe and Emmy Award-winning actor Tom Selleck has signed with UTA for representation. Selleck recently completed a 15-season run on the CBS hit series Blue Bloods, where he starred as New York City Police Commissioner and patriarch of the R…
+### HOMICIDE on 2025-12-03 01:03
+- Location: ABC News (AU)
+- Description: A 44-year-old man has been charged with murder of the death of his partner near Darwin, and will be extradited from Victoria ahead of his first appearance in the Darwin Local Court.
 
 
-### OTHER on 2025-12-02 18:00
-- Location: CBC News
-- Description: Police in Brantford, Ont., confirmed with CBC News that they received calls from upset residents, as well as online and in-person complaints, after a house along the parade route posted anti-Santa signs in its windows.
+### HOMICIDE on 2025-12-03 00:45
+- Location: CinemaBlend
+- Description: This wouldn't be Karl and Cassandra if they didn't have high stakes ahead of the finale.
 
-Analysis generated at: Wed Dec  3 18:24:27 UTC 2025
+Analysis generated at: Thu Dec  4 01:10:38 UTC 2025
