@@ -1,10 +1,10 @@
 
-Loaded 74140 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-03 06:21:00
+Loaded 74186 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-03 12:30:00
 
 Incidents by source:
 source
-newsapi           74039
+newsapi           74085
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-12-03 06:21
-- Location: Christiantoday.com
-- Description: Real life is very rarely about the "goodies" and the "baddies".
+### HOMICIDE on 2025-12-03 12:30
+- Location: Rap-Up.com
+- Description: The Grammy Award winner connected with local officials after the Nov. 29 attack, which left four people dead and 11 others wounded. Read more here.
 
 
-### OTHER on 2025-12-03 06:21
-- Location: Christiantoday.com
-- Description: Real life is very rarely about the "goodies" and the "baddies".
+### OTHER on 2025-12-03 12:27
+- Location: Fox News
+- Description: Jose Francisco Jovel, 54, is set to make his first court appearance after allegedly throwing Molotov cocktails at a Los Angeles federal building on Monday.
 
 
-### HOMICIDE on 2025-12-03 06:20
-- Location: New York Post
-- Description: An 8-year-old girl, "the light in everyone's life," was two weeks shy of her 9th birthday when she was gunned down during a shooting at a child's birthday party in California, her grieving family revealed.
+### OTHER on 2025-12-03 12:23
+- Location: Rolling Out
+- Description: Netflix is defending its new documentary about Sean “Diddy” Combs after the music mogul’s legal team branded it a shameful hit piece. The streaming service released Sean Combs: The Reckoning this week, and the four-part series has already ignited a firestorm …
 
 
-### HOMICIDE on 2025-12-03 06:00
-- Location: ABC News (AU)
-- Description: Rajwinder Singh, 41, is accused of the 24-year-old's 2018 murder. A trial in the Supreme Court in Cairns is entering its final stages.
+### OTHER on 2025-12-03 12:11
+- Location: Business Insider
+- Description: An affidavit says a 35-year-old Louisiana native is accused of making the threat in early November, telling a phone operator: "We have the bomb."
 
 
-### OTHER on 2025-12-03 06:00
-- Location: The Star Online
-- Description: The authorities arrested four people this week in the latest turn in the country's effort to stop exploitative recordings. Read full story
+### OTHER on 2025-12-03 12:04
+- Location: NBC News
+- Description: A CDC advisory panel weighs reversing a decades-old vaccine recommendation for newborns.
 
-Analysis generated at: Thu Dec  4 06:24:25 UTC 2025
+Analysis generated at: Thu Dec  4 12:33:05 UTC 2025
