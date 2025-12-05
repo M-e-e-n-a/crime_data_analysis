@@ -1,10 +1,10 @@
 
-Loaded 74332 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-04 06:23:37
+Loaded 74395 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-04 12:25:11
 
 Incidents by source:
 source
-newsapi           74231
+newsapi           74294
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-12-04 06:23
-- Location: Freerepublic.com
-- Description: Belgium? Really? Of all the places in the world you would not expect to be a cesspool of nearly open corruption, Belgium pretty much tops the list. But there it is. Belgium is basically a narco-state, a top Antwerp judge has warned.https://t.co/zH0fSm2mfR— PO…
+### OTHER on 2025-12-04 12:25
+- Location: International Business Times
+- Description: Animal control officers discovered the identity of the unlikely suspect that broke into the Ashland ABC Store for some booze - a raccoon, who passed out on the bathroom floor, apparently drunk.
 
 
-### OTHER on 2025-12-04 06:18
-- Location: Freerepublic.com
-- Description: Apparently, many people in Minnesota are certifiably insane, considering that they voted for Tim Walz as their governor and have veered about as left as any state in the union. The latest to spout ridiculousness is Minneapolis Police Chief Brian O'Hara, who a…
+### HOMICIDE on 2025-12-04 12:23
+- Location: Nep123.com
+- Description: Tragic Family Dispute: Brother Kills Brother in Morang A shocking incident unfolded in Jahada, Morang, where a family dispute turned deadly. Rajkumar Sah allegedly murdered his brother, Shrawan Kumar Sah, following a domestic dispute. The incident has left th…
 
 
-### HOMICIDE on 2025-12-04 06:08
-- Location: CBC News
-- Description: Sentencing hearings were paused Wednesday for a B.C. man found guilty of manslaughter in the 2017 killing of Chelsey Gauthier. The defendant chose to exert his right to obtain a report based on his claim of Indigenous heritage.
+### OTHER on 2025-12-04 12:09
+- Location: Globalresearch.ca
+- Description: The Gate as Border Crossing
+The first shock comes before anything inside the camp reveals itself. Ain al-Hilweh — Lebanon’s largest Palestinian refugee camp, established in 1948 on a mere square kilometer east of Sidon — does not behave like …
+The post Ain al…
 
 
-### OTHER on 2025-12-04 06:02
-- Location: New York Post
-- Description: A Florida official was fired for allegedly cashing in his employee's $20,000 winning lottery ticket — three years after his wife resigned as police chief for trying to use her position to get him out of a traffic stop.
+### OTHER on 2025-12-04 12:05
+- Location: Thechronicle.com.gh
+- Description: President John Dramani Mahama on Thursday reaffirmed his administration’s determination to build a secure, stable, and well-protected nation when he handed 40 advanced armoured vehicles to the Ghana Police Service, marking one of the most significant logistic…
 
 
-### OTHER on 2025-12-04 06:02
-- Location: BBC News
-- Description: A BBC investigation learns of five cases of suspected blackmail involving victims targeted on Grindr in one area.
+### OTHER on 2025-12-04 12:05
+- Location: Www.gov.uk
+- Description: How to report cyber crime and fraud is changing.
 
-Analysis generated at: Fri Dec  5 06:24:40 UTC 2025
+Analysis generated at: Fri Dec  5 12:31:57 UTC 2025
