@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Dec  5 12:51:52 UTC 2025
+Last updated: Fri Dec  5 18:20:32 UTC 2025
 
 ## Latest Analysis
 
-Loaded 74396 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-04 12:45:40
+Loaded 74487 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-04 18:20:04
 
 Incidents by source:
 source
-newsapi           74295
+newsapi           74386
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,30 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-12-04 12:45
-- Location: Whyevolutionistrue.com
-- Description: Welcome to Thursday, December 4, 2025, and International Cheetah Day, celebrating the only big cat with non-retractable claws.  Here are two pictures of a cheetah I took in South Africa in August of 2024: It’s also Cabernet Franc Day, National Dice Day, Natio…
+### OTHER on 2025-12-04 18:20
+- Location: Boston Herald
+- Description: The Assembly of States Parties is holding its 24th annual weeklong meeting this week.
 
 
-### OTHER on 2025-12-04 12:25
-- Location: International Business Times
-- Description: Animal control officers discovered the identity of the unlikely suspect that broke into the Ashland ABC Store for some booze - a raccoon, who passed out on the bathroom floor, apparently drunk.
+### OTHER on 2025-12-04 18:16
+- Location: The Conversation Africa
+- Description: Revisiting Fyodor Dostoevsky’s compelling, original and scandalous novel – after a 60-year hiatus – is a profoundly affecting experience.
 
 
-### HOMICIDE on 2025-12-04 12:23
-- Location: Nep123.com
-- Description: Tragic Family Dispute: Brother Kills Brother in Morang A shocking incident unfolded in Jahada, Morang, where a family dispute turned deadly. Rajkumar Sah allegedly murdered his brother, Shrawan Kumar Sah, following a domestic dispute. The incident has left th…
+### HOMICIDE on 2025-12-04 18:10
+- Location: Us Weekly
+- Description: Never-before-seen bodycam footage of Luigi Mangione‘s arrest confirmed his defense team’s claim that police interrogated the accused killer for nearly 20 minutes before reading him his Miranda rights. Prosecutors played the videos — which have not been releas…
 
 
-### OTHER on 2025-12-04 12:09
-- Location: Globalresearch.ca
-- Description: The Gate as Border Crossing
-The first shock comes before anything inside the camp reveals itself. Ain al-Hilweh — Lebanon’s largest Palestinian refugee camp, established in 1948 on a mere square kilometer east of Sidon — does not behave like …
-The post Ain al…
+### SHOOTING on 2025-12-04 18:03
+- Location: CBC News
+- Description: One day after Laval police began an operation to crack down on extortion, two cafés were targeted by gunfire. The shootings took place within 20 minutes of one another.
 
 
-### OTHER on 2025-12-04 12:05
-- Location: Thechronicle.com.gh
-- Description: President John Dramani Mahama on Thursday reaffirmed his administration’s determination to build a secure, stable, and well-protected nation when he handed 40 advanced armoured vehicles to the Ghana Police Service, marking one of the most significant logistic…
+### ROBBERY/THEFT on 2025-12-04 18:03
+- Location: The Hollywood Gossip
+- Description: Reading Time: 4 minutesAs Kim Kardashian tearfully recalled the 2016 Paris robbery that changed her life, she revealed Kanye West's hurtful accusation.
+Kim Kardashian: Kanye West Accused Me of FAKING the Paris Robbery! was originally published on The Hollywoo…
 
-Analysis generated at: Fri Dec  5 12:51:52 UTC 2025
+Analysis generated at: Fri Dec  5 18:20:32 UTC 2025
