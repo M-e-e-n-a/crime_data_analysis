@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Dec  4 18:24:48 UTC 2025
+Last updated: Fri Dec  5 01:11:19 UTC 2025
 
 ## Latest Analysis
 
-Loaded 74266 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-03 18:23:25
+Loaded 74283 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-04 01:11:01
 
 Incidents by source:
 source
-newsapi           74165
+newsapi           74182
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-12-03 18:23
-- Location: KABC-TV
-- Description: Los Angeles police responded to a mental health call that led to an officer-involved shooting at a home in Lake Balboa, authorities said.
+### HOMICIDE on 2025-12-04 01:11
+- Location: The Punch
+- Description: A man confesses to luring his FRSC officer girlfriend and her daughter to their deaths for a ritual killing, claiming she used his glory.
+
+Read More: https://punchng.com/why-we-slaughtered-missing-ogun-frsc-officer-daughter-suspects/
 
 
-### HOMICIDE on 2025-12-03 18:18
-- Location: ABC News (AU)
-- Description: The family of the late first wife of High Country killer Greg Lynn says a fresh investigation into her death has stalled because police won't pay for an expert report.
-
-
-### OTHER on 2025-12-03 18:14
+### HOMICIDE on 2025-12-04 01:05
 - Location: CBC News
-- Description: Winnipeg Mayor Scott Gillingham wants to hire a consultant to create a detailed proposal for how the city can launch an emergency service fully dedicated to mental health calls.
+- Description: The lawsuit says that the Hells Angels is a criminal organization with a global presence and a "reputation for violence," with members committing crimes for the organization's benefit, including drug trafficking, murder and extortion.
 
 
-### HOMICIDE on 2025-12-03 17:44
-- Location: BroBible
-- Description: Jillian Shriner, the wife of Weezer bassist Scott Shriner, has filed for divorce. Her divorce filing comes just months after she was shot by Los Angeles Police officers and arrested for attempted murder. In April, LAPD officers were searching the neighborhood…
+### OTHER on 2025-12-04 01:00
+- Location: Dramabeans.com
+- Description: Ahn Bo-hyun, Jung Eun-chae Preparations are in full swing for the return of SBS’s Flex x Cop with Season 2 and our chaebol hero Ahn Bo-hyun (See You in My 19th Life) will be joined this time by the police unit’s new team leader Jung Eun-chae (Jeongnyeon – The…
 
 
-### OTHER on 2025-12-03 17:42
-- Location: Breaking Belize News
-- Description: A Ladyville construction worker is out on bail after being charged with stealing a $150 Stanley rechargeable flashlight from inside a parked vehicle in his neighborhood.
+### HOMICIDE on 2025-12-04 01:00
+- Location: Fox News
+- Description: California radiologist Dr. Eric Cordes and wife found shot dead in driveway. Son Keith Cordes suspected in double shooting before apparent suicide.
 
-Analysis generated at: Thu Dec  4 18:24:48 UTC 2025
+
+### OTHER on 2025-12-04 00:52
+- Location: WyoFile
+- Description: Authorities suspect Andi Summerville embezzled $31,000 from the Wyoming Association of Mental Health and Substance Abuse Centers. She says she’s innocent.
+
+Analysis generated at: Fri Dec  5 01:11:19 UTC 2025
