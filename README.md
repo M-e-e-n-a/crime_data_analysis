@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Dec  5 12:31:57 UTC 2025
+Last updated: Fri Dec  5 12:51:52 UTC 2025
 
 ## Latest Analysis
 
-Loaded 74395 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-04 12:25:11
+Loaded 74396 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-04 12:45:40
 
 Incidents by source:
 source
-newsapi           74294
+newsapi           74295
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -23,6 +23,11 @@ bution.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### OTHER on 2025-12-04 12:45
+- Location: Whyevolutionistrue.com
+- Description: Welcome to Thursday, December 4, 2025, and International Cheetah Day, celebrating the only big cat with non-retractable claws.  Here are two pictures of a cheetah I took in South Africa in August of 2024: It’s also Cabernet Franc Day, National Dice Day, Natio…
+
 
 ### OTHER on 2025-12-04 12:25
 - Location: International Business Times
@@ -45,9 +50,4 @@ The post Ain al…
 - Location: Thechronicle.com.gh
 - Description: President John Dramani Mahama on Thursday reaffirmed his administration’s determination to build a secure, stable, and well-protected nation when he handed 40 advanced armoured vehicles to the Ghana Police Service, marking one of the most significant logistic…
 
-
-### OTHER on 2025-12-04 12:05
-- Location: Www.gov.uk
-- Description: How to report cyber crime and fraud is changing.
-
-Analysis generated at: Fri Dec  5 12:31:57 UTC 2025
+Analysis generated at: Fri Dec  5 12:51:52 UTC 2025
