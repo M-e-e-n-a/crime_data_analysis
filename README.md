@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Dec  5 01:57:39 UTC 2025
+Last updated: Fri Dec  5 06:24:40 UTC 2025
 
 ## Latest Analysis
 
-Loaded 74288 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-04 01:48:22
+Loaded 74332 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-04 06:23:37
 
 Incidents by source:
 source
-newsapi           74187
+newsapi           74231
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-12-04 01:48
-- Location: New York Post
-- Description: Chopper video's showed investigators--some in hazmat gear--digging with shovels in the yard and searching a crawl space before confirming their findings.
-
-
-### ROBBERY/THEFT on 2025-12-04 01:41
+### OTHER on 2025-12-04 06:23
 - Location: Freerepublic.com
-- Description: A trace of blood found on a pizza box inside a ransacked Northeast Florida home became the key evidence that helped detectives identify and locate a suspect, authorities said Monday. The incident originally took place on Jan. 28, when a Palm Coast homeowner r…
+- Description: Belgium? Really? Of all the places in the world you would not expect to be a cesspool of nearly open corruption, Belgium pretty much tops the list. But there it is. Belgium is basically a narco-state, a top Antwerp judge has warned.https://t.co/zH0fSm2mfR— PO…
 
 
-### SHOOTING on 2025-12-04 01:40
-- Location: New Zealand Herald
-- Description: Police cordoned off a Te Puke street after reports shots were fired at a house.
+### OTHER on 2025-12-04 06:18
+- Location: Freerepublic.com
+- Description: Apparently, many people in Minnesota are certifiably insane, considering that they voted for Tim Walz as their governor and have veered about as left as any state in the union. The latest to spout ridiculousness is Minneapolis Police Chief Brian O'Hara, who a…
 
 
-### DRUG RELATED on 2025-12-04 01:40
-- Location: Fox News
-- Description: Massive methamphetamine bust in Atlanta area nets 1,585 pounds of drugs hidden in blackberry shipments, leading to federal charges against repeat offenders.
+### HOMICIDE on 2025-12-04 06:08
+- Location: CBC News
+- Description: Sentencing hearings were paused Wednesday for a B.C. man found guilty of manslaughter in the 2017 killing of Chelsey Gauthier. The defendant chose to exert his right to obtain a report based on his claim of Indigenous heritage.
 
 
-### HOMICIDE on 2025-12-04 01:25
-- Location: The-independent.com
-- Description: Rhonda Marie Fisher’s murder in April 1987 in Denver, Colorado, went unsolved for nearly 40 years
+### OTHER on 2025-12-04 06:02
+- Location: New York Post
+- Description: A Florida official was fired for allegedly cashing in his employee's $20,000 winning lottery ticket — three years after his wife resigned as police chief for trying to use her position to get him out of a traffic stop.
 
-Analysis generated at: Fri Dec  5 01:57:39 UTC 2025
+
+### OTHER on 2025-12-04 06:02
+- Location: BBC News
+- Description: A BBC investigation learns of five cases of suspected blackmail involving victims targeted on Grindr in one area.
+
+Analysis generated at: Fri Dec  5 06:24:40 UTC 2025
