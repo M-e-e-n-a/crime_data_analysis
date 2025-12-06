@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Dec  6 01:51:24 UTC 2025
+Last updated: Sat Dec  6 06:21:20 UTC 2025
 
 ## Latest Analysis
 
-Loaded 74512 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-05 01:50:20
+Loaded 74566 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-05 06:18:33
 
 Incidents by source:
 source
-newsapi           74411
+newsapi           74465
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,33 +24,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-12-05 01:50
-- Location: ABC News (AU)
-- Description: Police say the 41-year-old man was transported to hospital in a life-threatening condition and was declared dead on arrival.
+### OTHER on 2025-12-05 06:18
+- Location: Israelnationalnews.com
+- Description: Why the insane obsession with Israel and Jews?
 
 
-### HOMICIDE on 2025-12-05 01:45
+### OTHER on 2025-12-05 06:09
+- Location: The Punch
+- Description: Read the latest Borno crime news as the State Police Command recovers two bodies in separate gruesome incidents and launches a full investigation.
+
+Read More: https://punchng.com/police-recover-two-bodies-in-borno/
+
+
+### OTHER on 2025-12-05 06:03
 - Location: ABC News
-- Description: Years after the body of a woman was found on Long Island, her suspected killer appeared before a Florida judge on Thursday facing murder charges.
+- Description: Federal border agents have descended on a Hispanic enclave just outside New Orleans and local business owners are suffering
 
 
-### DRUG RELATED on 2025-12-05 01:33
-- Location: The Punch
-- Description: Bauchi State Police arrested a suspected drug dealer, seizing Tramadol and Diazepam valued at N12.2 million after a raid on his shop in Ningi town.
-
-Read More: https://punchng.com/bauchi-police-arrest-drug-dealer-recover-narcotics/
+### OTHER on 2025-12-05 06:00
+- Location: Rlsbb.to
+- Description: Shi mian mai fu (original title) Plot: A crippled man with an invalid son, is so greedy that he forces his wife into prostitution. Then, he makes a deal with a crime boss to pull a big heist and invites his friends from China to help. Meanwhile, Miss Fan (Yuk…
 
 
-### DRUG RELATED on 2025-12-05 01:22
-- Location: The Punch
-- Description: Police in Borno State arrest five suspects for a girl’s abduction, masterminded by her uncle who collected a N3m crypto ransom after drugging her.
+### OTHER on 2025-12-05 06:00
+- Location: Naturalnews.com
+- Description: President Donald Trump confirmed the deployment of up to 1,000 National Guard troops to New Orleans at the request of Louisiana Governor Jeff Landry, citing rising violent crime and police shortages. The move follows similar federal interventions in cities li…
 
-Read More: https://punchng.com/uncle-four-others-arrested-over-borno-girls-abduction/
-
-
-### HOMICIDE on 2025-12-05 01:14
-- Location: Mypeoplesreview.com
-- Description: Kathmandu, December 5: A group called the “Extremist Group of Nepal” has allegedly issued death threats against ten prominent individuals […]
-The post An unidentified group issues death threats against 10 VIPs appeared first on Peoples' Review.
-
-Analysis generated at: Sat Dec  6 01:51:24 UTC 2025
+Analysis generated at: Sat Dec  6 06:21:20 UTC 2025
