@@ -1,10 +1,10 @@
 
-Loaded 74613 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-05 12:21:27
+Loaded 74621 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-05 12:44:00
 
 Incidents by source:
 source
-newsapi           74512
+newsapi           74520
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-12-05 12:21
-- Location: CBC News
-- Description: A man who stabbed his parents and grandmother to death inside their Montreal home in March 2023 should be found not criminally responsible, the prosecution and defence told a courtroom on Thursday. Quebec Superior Court Justice Annie Émond said she will rende…
-
-
-### ROBBERY/THEFT on 2025-12-05 12:18
-- Location: Israelnationalnews.com
-- Description: The interminable investigation against the PM was more than a fishing expedition; it was corroboration of the Communist police chief Lavrentiy Beria’s boast to Stalin, “give me the man, and I will find the crime.” Opinion.
-
-
-### OTHER on 2025-12-05 12:13
-- Location: Slashdot.org
-- Description: Police 'naturally' recover a $19,000 Fabergé egg swallowed by alleged thiefNBC News New Zealand police recovers $19k Fabergé egg swallowed by suspected thiefBBC Diamond-encrusted Faberge egg recovered by police 6 days after man allegedly swallowed itCBS News …
-
-
-### SHOOTING on 2025-12-05 12:11
+### HOMICIDE on 2025-12-05 12:44
 - Location: New York Post
-- Description: A Brazilian Harvard Law School professor who pleaded guilty last month to illegally firing an air rifle outside a Boston-area synagogue — and told police he was “hunting rats” — has agreed to leave the US following his arrest by Immigration and Customs Enforc…
+- Description: A suspect has been arrested in Florida for the murder of “Peaches,” the mom once thought to have been tied to the Gilgo Beach serial-killer victims — and he’s the father of her 2-year-old daughter whose remains were also discovered nearby, according to report…
 
 
-### HOMICIDE on 2025-12-05 12:08
-- Location: FOX 29 News Philadelphia
-- Description: Investigators say a 60-year-old man was shot and killed during a dispute with his first-floor neighbors early Friday morning in North Philadelphia.
+### OTHER on 2025-12-05 12:41
+- Location: Freerepublic.com
+- Description: The suspect’s grandmother, Loretta, told The New York Post: “He’s almost autistic-like because he doesn’t understand a lot of stuff. I hope he is not talking.” She also alleged: “He’s very naive…He would not hurt a fly. He’s just not that kind of person. I do…
 
-Analysis generated at: Sat Dec  6 12:27:59 UTC 2025
+
+### OTHER on 2025-12-05 12:37
+- Location: ABC News
+- Description: When President Donald Trump suspended the refugee program, he left thousands stranded worldwide
+
+
+### ROBBERY/THEFT on 2025-12-05 12:37
+- Location: The Punch
+- Description: Sokoto police arrests suspected bandit financiers and motorcycle thieves in joint operations, recovering stolen cattle and bikes. Read the full details.
+
+Read More: https://punchng.com/police-arrest-suspected-bandit-financiers-bike-thieves-in-sokoto/
+
+
+### DRUG RELATED on 2025-12-05 12:32
+- Location: DW (English)
+- Description: Meth production and opium poppy cultivation are growing and expanding in Myanmar, according to the UN, with many armed groups using the profits to buy weapons.
+
+Analysis generated at: Sat Dec  6 12:46:46 UTC 2025
