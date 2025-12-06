@@ -1,10 +1,10 @@
 
-Loaded 74621 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-05 12:44:00
+Loaded 74706 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-05 18:16:22
 
 Incidents by source:
 source
-newsapi           74520
+newsapi           74605
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,30 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-12-05 12:44
-- Location: New York Post
-- Description: A suspect has been arrested in Florida for the murder of “Peaches,” the mom once thought to have been tied to the Gilgo Beach serial-killer victims — and he’s the father of her 2-year-old daughter whose remains were also discovered nearby, according to report…
+### ROBBERY/THEFT on 2025-12-05 18:16
+- Location: Statetimes.in
+- Description: STATE TIMES NEWS JAMMU: The Janipur Police have solved two theft cases, registered under FIR No. 172/2025 and FIR No. 182/2025, recovering stolen gold ornaments worth a significant amount. The recovered items include 16 tolas of gold, retrieved after meticulo…
 
 
-### OTHER on 2025-12-05 12:41
-- Location: Freerepublic.com
-- Description: The suspect’s grandmother, Loretta, told The New York Post: “He’s almost autistic-like because he doesn’t understand a lot of stuff. I hope he is not talking.” She also alleged: “He’s very naive…He would not hurt a fly. He’s just not that kind of person. I do…
+### OTHER on 2025-12-05 18:13
+- Location: BBC News
+- Description: Yangchen Lachungpa is accused of building trafficking corridors leading out of the country.
 
 
-### OTHER on 2025-12-05 12:37
-- Location: ABC News
-- Description: When President Donald Trump suspended the refugee program, he left thousands stranded worldwide
+### OTHER on 2025-12-05 18:10
+- Location: Thoughtcatalog.com
+- Description: We spoke to Reservation Dog‘s Dallas Goldtooth about his latest role in Apple TV+’s action thrillerThe Last Frontier, which wrapped up its first season today, (12/5). Goldtooth plays Hutch, an Alaskan deputy U.S.
 
 
-### ROBBERY/THEFT on 2025-12-05 12:37
-- Location: The Punch
-- Description: Sokoto police arrests suspected bandit financiers and motorcycle thieves in joint operations, recovering stolen cattle and bikes. Read the full details.
-
-Read More: https://punchng.com/police-arrest-suspected-bandit-financiers-bike-thieves-in-sokoto/
+### OTHER on 2025-12-05 18:08
+- Location: The Daily Caller
+- Description: 'forged in blood’
 
 
-### DRUG RELATED on 2025-12-05 12:32
-- Location: DW (English)
-- Description: Meth production and opium poppy cultivation are growing and expanding in Myanmar, according to the UN, with many armed groups using the profits to buy weapons.
+### OTHER on 2025-12-05 18:07
+- Location: KTVU San Francisco
+- Description: The new laws signed by Gov. Gavin Newsom address issues that continue to impact Californians such as consumer protections, labor and workplace rights, education, and immigration.
 
-Analysis generated at: Sat Dec  6 12:46:46 UTC 2025
+Analysis generated at: Sat Dec  6 18:20:08 UTC 2025
