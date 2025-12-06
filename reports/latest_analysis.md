@@ -1,10 +1,10 @@
 
-Loaded 74487 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-04 18:20:04
+Loaded 74505 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-05 01:00:11
 
 Incidents by source:
 source
-newsapi           74386
+newsapi           74404
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-12-04 18:20
-- Location: Boston Herald
-- Description: The Assembly of States Parties is holding its 24th annual weeklong meeting this week.
+### HOMICIDE on 2025-12-05 01:00
+- Location: New York Post
+- Description: The force of the rope snapped the dog's neck, according to the Orange County district attorney. It's unclear if Holliday owned the dog.
 
 
-### OTHER on 2025-12-04 18:16
-- Location: The Conversation Africa
-- Description: Revisiting Fyodor Dostoevsky’s compelling, original and scandalous novel – after a 60-year hiatus – is a profoundly affecting experience.
+### OTHER on 2025-12-05 01:00
+- Location: BusinessLine
+- Description: Recruitment, training methods must improve
 
 
-### HOMICIDE on 2025-12-04 18:10
-- Location: Us Weekly
-- Description: Never-before-seen bodycam footage of Luigi Mangione‘s arrest confirmed his defense team’s claim that police interrogated the accused killer for nearly 20 minutes before reading him his Miranda rights. Prosecutors played the videos — which have not been releas…
+### OTHER on 2025-12-05 00:56
+- Location: KGET 17
+- Description: She says she last had a drink -- a Moscow Mule -- around 1 p.m. at Luigi's Restaurant and Delicatessen. That was about five hours earlier.
 
 
-### SHOOTING on 2025-12-04 18:03
-- Location: CBC News
-- Description: One day after Laval police began an operation to crack down on extortion, two cafés were targeted by gunfire. The shootings took place within 20 minutes of one another.
+### HOMICIDE on 2025-12-05 00:53
+- Location: ABC News
+- Description: Two New York City police officers won't be charged in the shooting death of a 19-year-old during a mental crisis last year
 
 
-### ROBBERY/THEFT on 2025-12-04 18:03
-- Location: The Hollywood Gossip
-- Description: Reading Time: 4 minutesAs Kim Kardashian tearfully recalled the 2016 Paris robbery that changed her life, she revealed Kanye West's hurtful accusation.
-Kim Kardashian: Kanye West Accused Me of FAKING the Paris Robbery! was originally published on The Hollywoo…
+### HOMICIDE on 2025-12-05 00:53
+- Location: Rolling Stone
+- Description: The singer D4vd was the top trending musician on Google in 2025 after a dead teenager was found in his Tesla earlier in the year.
 
-Analysis generated at: Fri Dec  5 18:20:32 UTC 2025
+Analysis generated at: Sat Dec  6 01:07:25 UTC 2025
