@@ -1,10 +1,10 @@
 
-Loaded 74725 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-06 01:52:49
+Loaded 74750 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-06 06:12:37
 
 Incidents by source:
 source
-newsapi           74624
+newsapi           74649
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,30 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-12-06 01:52
-- Location: The Punch
-- Description: Sokoto police have arrested suspected terrorist financiers who fund bandits by selling rustled cattle. Operations in Sokoto & Zamfara led to key arrests.
-
-Read More: https://punchng.com/police-arrest-suspected-terrorist-financiers-in-sokoto/
+### HOMICIDE on 2025-12-06 06:12
+- Location: Slashdot.org
+- Description: San Diego Agrees to Pay $30 Million to Family of Teen Killed by PoliceThe New York Times San Diego agrees to pay $30m to family of boy, 16, shot dead by policeThe Guardian City of San Diego to pay $30M to settle wrongful death suit of 16-year-old boycbs8.com …
 
 
-### OTHER on 2025-12-06 01:46
-- Location: CinemaBlend
-- Description: Comedy is said to be harder than drama.
+### OTHER on 2025-12-06 06:09
+- Location: The Times of India
+- Description: Mathura is on high alert today, the 33rd anniversary of the Babri Mosque demolition. Security forces are conducting thorough checks and maintaining a strong presence. The Krishna Janmabhoomi-Shahi Idgah Mosque area is a high-security zone. Authorities are mon…
 
 
-### OTHER on 2025-12-06 01:45
-- Location: CBC News
-- Description: Frustrated city officials pointed to the case of Jacelynn Guzman, a 23-year-old U.S. citizen who was walking back to her Louisiana home from a trip to the grocery store on Wednesday when a truck pulled up beside her and two masked federal agents approached he…
+### OTHER on 2025-12-06 06:00
+- Location: The Irish Times
+- Description: A year on from the collapse of the Assad regime, Syrian-Irish writer Suad Aldarra reflects on her return to Damascus in 2025
 
 
-### SHOOTING on 2025-12-06 01:44
-- Location: WPXI Pittsburgh
-- Description: Police have arrested a suspect and issued a warrant for a third person in connection with a shooting that happened at a convenience store in Washington County.
+### OTHER on 2025-12-06 06:00
+- Location: Naturalnews.com
+- Description: The Treasury Department sanctioned key individuals and entities tied to Tren de Aragua (TdA), targeting their financial infrastructure, including Venezuelan entertainer Jimena “Rosita” Navarro (accused of aiding TdA leadership) and her associates involved in …
 
 
-### OTHER on 2025-12-06 01:40
-- Location: ABC News
-- Description: A New York City high school senior has been jailed on a federal arson charge days after authorities say he set a fire that severely burned a sleeping subway passenger
+### ASSAULT on 2025-12-06 05:58
+- Location: Freerepublic.com
+- Description: Federal prosecutors on Thursday charged a Minneapolis man in connection with a string of sexual assaults including of a 15-year-old girl. In two of the cases, Abdimahat Bille Mohamed, 28, avoided prison as part of a recent plea deal with the Hennepin County A…
 
-Analysis generated at: Sun Dec  7 02:06:25 UTC 2025
+Analysis generated at: Sun Dec  7 06:21:34 UTC 2025
