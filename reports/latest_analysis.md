@@ -1,10 +1,10 @@
 
-Loaded 74798 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-06 12:45:11
+Loaded 74867 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-06 18:13:36
 
 Incidents by source:
 source
-newsapi           74697
+newsapi           74766
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-12-06 12:45
-- Location: The Irish Times
-- Description: Police say they are searching for three suspects
+### HOMICIDE on 2025-12-06 18:13
+- Location: Marca
+- Description: Former Pittsburgh Steelers wide receiver Antonio Brown has filed a motion seeking the dismissal of the attempted-murder charge hanging over him, a crime that could carry a sentence
 
 
-### HOMICIDE on 2025-12-06 12:44
-- Location: The Times of India
-- Description: A horrific mass shooting at an unlicensed bar in South Africa's Saulsville township has claimed at least 11 lives, including three young children. Fourteen others were injured in the early Saturday morning attack. Police are actively searching for three suspe…
+### HOMICIDE on 2025-12-06 18:07
+- Location: Biztoc.com
+- Description: A mass shooting carried out Saturday by multiple suspects in an unlicensed bar near the South African capital left at least 11 people dead, police said. The victims included three children aged 3, 12 and 16.
 
 
-### HOMICIDE on 2025-12-06 12:34
-- Location: ABC News
-- Description: Police say at least 11 people including three children have been killed in a mass shooting at a bar near Pretoria, South Africa
+### OTHER on 2025-12-06 18:06
+- Location: Boston Herald
+- Description: Dementia Joe Biden called the U.S. “Amerigotit,” and misgendered his press secretary KJP as “Kareem.” But he was sharp as a tack, fit as a fiddle — that’s what regime-controlled media told us for four years.
 
 
-### OTHER on 2025-12-06 12:21
-- Location: The Local Germany
-- Description: German Chancellor Friedrich Merz heads to Israel on Saturday for his first visit since taking office, aiming to reaffirm traditionally solid ties that were shaken during the Gaza war.
+### HOMICIDE on 2025-12-06 17:53
+- Location: PBS
+- Description: A mass shooting carried out Saturday by multiple suspects in an unlicensed bar near the South African capital left at least 11 people dead, police said. The victims included three children aged 3, 12 and 16.
 
 
-### HOMICIDE on 2025-12-06 12:13
-- Location: BBC News
-- Description: Leajunne Wood sustained life-changing injuries in 2007 and died 14 years later, police say.
+### HOMICIDE on 2025-12-06 17:52
+- Location: Slashdot.org
+- Description: South Africa shooting leaves 12 dead, including young child: PoliceAl Jazeera At least 11 killed in South Africa mass shootingBBC Gunmen kill at least 11 people including three-year-old in hostel in South AfricaThe Guardian Shooting at South African bar leave…
 
-Analysis generated at: Sun Dec  7 12:45:29 UTC 2025
+Analysis generated at: Sun Dec  7 18:20:18 UTC 2025
