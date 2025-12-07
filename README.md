@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Dec  7 06:21:34 UTC 2025
+Last updated: Sun Dec  7 12:27:44 UTC 2025
 
 ## Latest Analysis
 
-Loaded 74750 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-06 06:12:37
+Loaded 74795 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-06 12:21:49
 
 Incidents by source:
 source
-newsapi           74649
+newsapi           74694
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-12-06 06:12
-- Location: Slashdot.org
-- Description: San Diego Agrees to Pay $30 Million to Family of Teen Killed by PoliceThe New York Times San Diego agrees to pay $30m to family of boy, 16, shot dead by policeThe Guardian City of San Diego to pay $30M to settle wrongful death suit of 16-year-old boycbs8.com …
+### OTHER on 2025-12-06 12:21
+- Location: The Local Germany
+- Description: German Chancellor Friedrich Merz heads to Israel on Saturday for his first visit since taking office, aiming to reaffirm traditionally solid ties that were shaken during the Gaza war.
 
 
-### OTHER on 2025-12-06 06:09
-- Location: The Times of India
-- Description: Mathura is on high alert today, the 33rd anniversary of the Babri Mosque demolition. Security forces are conducting thorough checks and maintaining a strong presence. The Krishna Janmabhoomi-Shahi Idgah Mosque area is a high-security zone. Authorities are mon…
+### HOMICIDE on 2025-12-06 12:13
+- Location: BBC News
+- Description: Leajunne Wood sustained life-changing injuries in 2007 and died 14 years later, police say.
 
 
-### OTHER on 2025-12-06 06:00
-- Location: The Irish Times
-- Description: A year on from the collapse of the Assad regime, Syrian-Irish writer Suad Aldarra reflects on her return to Damascus in 2025
+### OTHER on 2025-12-06 12:01
+- Location: The Denver Post
+- Description: When Congressman Jason Crow and five Democratic colleagues with military and intelligence service released a video on social media urging troops to refuse orders “that violate the law or our Constitution,” detractors complained the message was dangerously amb…
 
 
-### OTHER on 2025-12-06 06:00
-- Location: Naturalnews.com
-- Description: The Treasury Department sanctioned key individuals and entities tied to Tren de Aragua (TdA), targeting their financial infrastructure, including Venezuelan entertainer Jimena “Rosita” Navarro (accused of aiding TdA leadership) and her associates involved in …
+### ROBBERY/THEFT on 2025-12-06 12:01
+- Location: The Denver Post
+- Description: "The four-star should be court-martialed and charged with a war crime along with Hegseth. The pardoning of the former president of Honduras should prove these actions are not about drugs." -- Robert F. Matthias, Boulder
 
 
-### ASSAULT on 2025-12-06 05:58
-- Location: Freerepublic.com
-- Description: Federal prosecutors on Thursday charged a Minneapolis man in connection with a string of sexual assaults including of a 15-year-old girl. In two of the cases, Abdimahat Bille Mohamed, 28, avoided prison as part of a recent plea deal with the Hennepin County A…
+### SHOOTING on 2025-12-06 11:45
+- Location: Nep123.com
+- Description: Breaking News: Shooting in Lamahi, Nepal – Jewelry Store Targeted! Tragedy struck in Lamahi, Dang, Nepal today as a shooting occurred. Initial reports suggest a jewelry store, Junatara Jewelry Store located in Lamahi Gulli, Lamahi Municipality-5, was targeted…
 
-Analysis generated at: Sun Dec  7 06:21:34 UTC 2025
+Analysis generated at: Sun Dec  7 12:27:44 UTC 2025
