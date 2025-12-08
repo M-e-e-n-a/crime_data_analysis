@@ -1,10 +1,10 @@
 
-Loaded 74922 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-07 12:20:48
+Loaded 74923 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-07 12:35:00
 
 Incidents by source:
 source
-newsapi           74821
+newsapi           74822
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -19,6 +19,11 @@ bution.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### OTHER on 2025-12-07 12:35
+- Location: road.cc
+- Description: After years of delays and inaction, cyclists in Scotland feel left behind England and Wales and fear the lack of an online reporting portal has put lives at risk
+
 
 ### OTHER on 2025-12-07 12:20
 - Location: New York Post
@@ -39,9 +44,4 @@ bution.svg)
 - Location: Associated Press
 - Description: Police in Edmonton, Canada, have started a pilot project using AI-equipped body cameras to detect faces on a "high risk" watch list. The move by Axon Enterprise, Inc. has raised ethical concerns, especially since the company previously paused facial recogniti…
 
-
-### OTHER on 2025-12-07 11:33
-- Location: ABC News
-- Description: Police in Edmonton, Canada, have started a pilot project using AI-equipped body cameras to detect faces on a "high risk" watch list
-
-Analysis generated at: Mon Dec  8 12:32:05 UTC 2025
+Analysis generated at: Mon Dec  8 12:53:13 UTC 2025
