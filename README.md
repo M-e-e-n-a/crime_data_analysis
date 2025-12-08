@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Dec  8 06:26:46 UTC 2025
+Last updated: Mon Dec  8 12:32:05 UTC 2025
 
 ## Latest Analysis
 
-Loaded 74891 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-07 06:15:00
+Loaded 74922 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-07 12:20:48
 
 Incidents by source:
 source
-newsapi           74790
+newsapi           74821
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-12-07 06:15
-- Location: The Star Online
-- Description: KUALA LUMPUR: The police has confirmed receiving a compact disc (CD) related to the shooting incident in Durian Tunggal, Melaka, which was handed over on Saturday (Dec 6) by a family member of one of the suspects. Read full story
+### OTHER on 2025-12-07 12:20
+- Location: New York Post
+- Description: US Attorney for DC Jeanine Pirro took aim at blue state governors on the John Catsimatidis show as she described safety risks in Washington and tore into illegal immigration.
 
 
-### OTHER on 2025-12-07 06:00
-- Location: Naturalnews.com
-- Description: The U.S. State Department reissued its Level 4 “Do Not Travel” advisory, urging Americans to leave immediately or avoid travel due to extreme dangers – including wrongful detention, torture, terrorism, violent crime and healthcare collapse under Maduro’s soci…
+### HOMICIDE on 2025-12-07 12:15
+- Location: The Jerusalem Post
+- Description: If the people cannot be persuaded to fear, then they will be forced to, is the mentality behind the ayatollahs’ rule. The result is intimidation, but there...
 
 
-### OTHER on 2025-12-07 06:00
-- Location: Naturalnews.com
-- Description: President Trump declared a “crime emergency” in Washington, D.C., citing rising violence endangering public safety and government operations. This triggered a 48-hour federal takeover of the Metropolitan Police Department (MPD), extendable up to 30 days with …
+### OTHER on 2025-12-07 12:12
+- Location: The-independent.com
+- Description: Adam White lists just some of the times actors and directors couldn’t stand each other
 
 
-### DRUG RELATED on 2025-12-07 06:00
-- Location: The Irish Times
-- Description: As drug-cartel operations, migration and China reshape the region, the US is pushing a revived Monroe Doctrine for the 21st century
+### OTHER on 2025-12-07 11:54
+- Location: Associated Press
+- Description: Police in Edmonton, Canada, have started a pilot project using AI-equipped body cameras to detect faces on a "high risk" watch list. The move by Axon Enterprise, Inc. has raised ethical concerns, especially since the company previously paused facial recogniti…
 
 
-### SHOOTING on 2025-12-07 05:47
-- Location: The Times of India
-- Description: A Rollins College senior, Constantine Demetriades, was arrested after campus security discovered 1,500 rounds of ammunition and an AR-15 rifle in his dorm room. Demetriades stated he enjoys shooting as a hobby and had no harmful intent, claiming the firearm w…
+### OTHER on 2025-12-07 11:33
+- Location: ABC News
+- Description: Police in Edmonton, Canada, have started a pilot project using AI-equipped body cameras to detect faces on a "high risk" watch list
 
-Analysis generated at: Mon Dec  8 06:26:46 UTC 2025
+Analysis generated at: Mon Dec  8 12:32:05 UTC 2025
