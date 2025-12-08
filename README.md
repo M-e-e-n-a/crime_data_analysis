@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Dec  8 01:58:14 UTC 2025
+Last updated: Mon Dec  8 06:26:46 UTC 2025
 
 ## Latest Analysis
 
-Loaded 74875 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-07 01:50:57
+Loaded 74891 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-07 06:15:00
 
 Incidents by source:
 source
-newsapi           74774
+newsapi           74790
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,30 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-12-07 01:50
-- Location: New York Post
-- Description: A homeless illegal immigrant who had been previously deported was arrested after stabbing a man on the Charlotte Light Rail -- just four months after the horrific Iryna Zarutska killing.
+### SHOOTING on 2025-12-07 06:15
+- Location: The Star Online
+- Description: KUALA LUMPUR: The police has confirmed receiving a compact disc (CD) related to the shooting incident in Durian Tunggal, Melaka, which was handed over on Saturday (Dec 6) by a family member of one of the suspects. Read full story
 
 
-### OTHER on 2025-12-07 01:35
-- Location: 7NEWS.com.au
-- Description: Hong Kong leader vows ‘justice’ as apartment inferno investigators focus on unsafe netting7news.com.au
+### OTHER on 2025-12-07 06:00
+- Location: Naturalnews.com
+- Description: The U.S. State Department reissued its Level 4 “Do Not Travel” advisory, urging Americans to leave immediately or avoid travel due to extreme dangers – including wrongful detention, torture, terrorism, violent crime and healthcare collapse under Maduro’s soci…
 
 
-### DRUG RELATED on 2025-12-07 01:27
-- Location: Boston Herald
-- Description: Also: New Hampshire woman arrested in second drug bust in four months. And: BPD 24-hour arrest report.
+### OTHER on 2025-12-07 06:00
+- Location: Naturalnews.com
+- Description: President Trump declared a “crime emergency” in Washington, D.C., citing rising violence endangering public safety and government operations. This triggered a 48-hour federal takeover of the Metropolitan Police Department (MPD), extendable up to 30 days with …
 
 
-### HOMICIDE on 2025-12-07 01:25
-- Location: The Punch
-- Description: Six vigilante members arrested in an Abia community murder after the headless body of a 25-year-old man was discovered a month after his abduction.
-
-Read More: https://punchng.com/six-arrested-as-abia-community-recovers-youths-headless-body/
+### DRUG RELATED on 2025-12-07 06:00
+- Location: The Irish Times
+- Description: As drug-cartel operations, migration and China reshape the region, the US is pushing a revived Monroe Doctrine for the 21st century
 
 
-### HOMICIDE on 2025-12-07 01:08
-- Location: ABC News (AU)
-- Description: Gunmen stormed a hostel in the early hours of the morning, shooting 25 people at the scene and killing at least 11 people, including three children.
+### SHOOTING on 2025-12-07 05:47
+- Location: The Times of India
+- Description: A Rollins College senior, Constantine Demetriades, was arrested after campus security discovered 1,500 rounds of ammunition and an AR-15 rifle in his dorm room. Demetriades stated he enjoys shooting as a hobby and had no harmful intent, claiming the firearm w…
 
-Analysis generated at: Mon Dec  8 01:58:14 UTC 2025
+Analysis generated at: Mon Dec  8 06:26:46 UTC 2025
