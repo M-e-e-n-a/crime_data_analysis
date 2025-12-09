@@ -1,10 +1,10 @@
 
-Loaded 75068 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-08 12:30:00
+Loaded 75072 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-08 12:48:03
 
 Incidents by source:
 source
-newsapi           74967
+newsapi           74971
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
+### OTHER on 2025-12-08 12:48
+- Location: CBC News
+- Description: Multiple mezuzahs were reportedly taken over the weekend from outside multiple units of Toronto Seniors Housing Corporation building, Toronto police say.
+
+
+### ROBBERY/THEFT on 2025-12-08 12:46
+- Location: Fox News
+- Description: Louvre suffers another major setback as burst pipe damages rare books, adding to troubles following theft of Napoleon crown jewels worth $102 million.
+
+
+### OTHER on 2025-12-08 12:45
+- Location: Whyevolutionistrue.com
+- Description: Good morning at the top o’ the week: Monday, December 8, 2025.. It’s two weeks until winter arrives, but, as you saw, it’s already here in Chicago. It’s National Brownie Day,  Here’s a Pillsbury brownie-mix ad from the 1950s. I could use some now, and yes, wi…
+
+
+### OTHER on 2025-12-08 12:33
+- Location: Www.gov.uk
+- Description: New anti-corruption strategy 2025 will drive dirty money out of the UK, strengthening national security and putting more money into working people's pockets.
+
+
 ### OTHER on 2025-12-08 12:30
 - Location: In These Times
 - Description: As the United States faces the largest healthcare cuts in its history, Texas presents a frightening vision of the future of long-term care.
 
-
-### ROBBERY/THEFT on 2025-12-08 12:10
-- Location: The Indian Express
-- Description: The Karnataka government admitted that 29.60 lakh kg of stolen PDS rice was seized during the 2025-26 financial year.
-
-
-### OTHER on 2025-12-08 12:09
-- Location: Lse.ac.uk
-- Description: Dominguez, Magdalena and Kirchmaier, Tom ORCID: 0000-0002-8938-2206 (2025) Cost of living and crime in London: lessons from an empirical and collaborative study. In: Applied Policing Policy Research: Improving Evidence Based Oversight of the Police. Springer …
-
-
-### OTHER on 2025-12-08 12:03
-- Location: Globalresearch.ca
-- Description: On December 5, President Trump made public his National Security Strategy (NSS). Dubbed the “Trump Corollary” to the Monroe Doctrine, the NSS document states the Trump administration will prevent and discourage mass migration to the United States; we want a ……
-
-
-### OTHER on 2025-12-08 12:03
-- Location: KARE11.com
-- Description: ICE agents detained four people from a Burnsville home, according to family members, including a 7-year-old's parents and the husband of a pregnant woman.
-
-Analysis generated at: Tue Dec  9 12:32:59 UTC 2025
+Analysis generated at: Tue Dec  9 12:54:38 UTC 2025
