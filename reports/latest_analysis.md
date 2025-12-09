@@ -1,10 +1,10 @@
 
-Loaded 74960 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-07 18:19:25
+Loaded 74970 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-08 01:07:20
 
 Incidents by source:
 source
-newsapi           74859
+newsapi           74869
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-12-07 18:19
+### HOMICIDE on 2025-12-08 01:07
+- Location: Digital Journal
+- Description: Venezuela acknowledged Sunday an opposition figure died while in custody, as the Trump administration slammed Caracas as “vile” and the South American country’s army swore in thousands of new soldiers amid mounting US military pressure. Leftist President Nico…
+
+
+### ASSAULT on 2025-12-08 01:00
+- Location: CBS News
+- Description: Sean Dunn, who threw a "submarine-style sandwich" at a CBP officer in downtown D.C. in July was found not guilty of misdemeanor assault in November.
+
+
+### HOMICIDE on 2025-12-08 01:00
+- Location: Oxygen
+- Description: Killer Grannies explores the terrifying boarding home kept by Dorothea Puente, who allegedly buried one victim alive.
+
+
+### OTHER on 2025-12-08 00:54
+- Location: Fox News
+- Description: NYC mayor-elect Zohran Mamdani releases comprehensive video guide on immigrant rights during ICE encounters, pledging to protect city's 3 million immigrants.
+
+
+### HOMICIDE on 2025-12-08 00:36
 - Location: New York Post
-- Description: Her autopsy has determined she "had been subjected to violence" before her death.
+- Description: Seattle police said the deadly officer-involved shooting followed a flood of 911 calls about a man waving a gun at passing motorists.
 
-
-### OTHER on 2025-12-07 18:18
-- Location: Www.gov.uk
-- Description: The UK will host a major international summit next summer to tackle the flows of dirty money around the world, which are making the UK’s streets less safe.
-
-
-### OTHER on 2025-12-07 18:17
-- Location: The Providence Journal
-- Description: The students were attending a house party on Liege Street during their apparent overdoses, after which they were treated with NARCAN and hospitalized.
-
-
-### OTHER on 2025-12-07 18:00
-- Location: OilPrice.com
-- Description: The stock market is hitting record highs. GDP growth is in the green. Tech valuations are defying gravity... fueled by a promise that artificial intelligence is going to generate trillions of dollars in wealth. And yet... everything feels kinda…terrible?  Job…
-
-
-### HOMICIDE on 2025-12-07 17:50
-- Location: Yahoo Entertainment
-- Description: The number of victims killed in an explosion outside a police station in the western Mexican state of Michoacán over the weekend has risen to five, the...
-
-Analysis generated at: Mon Dec  8 18:23:44 UTC 2025
+Analysis generated at: Tue Dec  9 01:10:48 UTC 2025
