@@ -1,10 +1,10 @@
 
-Loaded 74970 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-08 01:07:20
+Loaded 74972 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-08 01:54:19
 
 Incidents by source:
 source
-newsapi           74869
+newsapi           74871
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,6 +20,18 @@ bution.svg)
 
 ## Recent Incidents
 
+### HOMICIDE on 2025-12-08 01:54
+- Location: The Punch
+- Description: Authorities confirm six people were killed by bandits in a Gatawa town attack in Sokoto, while dismissing false social media reports of a mosque raid.
+
+Read More: https://punchng.com/lg-dismisses-mosque-attack-as-bandits-kill-six-in-sokoto/
+
+
+### SHOOTING on 2025-12-08 01:31
+- Location: Fox News
+- Description: Convicted felon and illegal immigrant from El Salvador allegedly wounds Omaha police in shootout after randomly opening fire on shopper at neighborhood store.
+
+
 ### HOMICIDE on 2025-12-08 01:07
 - Location: Digital Journal
 - Description: Venezuela acknowledged Sunday an opposition figure died while in custody, as the Trump administration slammed Caracas as “vile” and the South American country’s army swore in thousands of new soldiers amid mounting US military pressure. Leftist President Nico…
@@ -34,14 +46,4 @@ bution.svg)
 - Location: Oxygen
 - Description: Killer Grannies explores the terrifying boarding home kept by Dorothea Puente, who allegedly buried one victim alive.
 
-
-### OTHER on 2025-12-08 00:54
-- Location: Fox News
-- Description: NYC mayor-elect Zohran Mamdani releases comprehensive video guide on immigrant rights during ICE encounters, pledging to protect city's 3 million immigrants.
-
-
-### HOMICIDE on 2025-12-08 00:36
-- Location: New York Post
-- Description: Seattle police said the deadly officer-involved shooting followed a flood of 911 calls about a man waving a gun at passing motorists.
-
-Analysis generated at: Tue Dec  9 01:10:48 UTC 2025
+Analysis generated at: Tue Dec  9 01:57:38 UTC 2025
