@@ -1,10 +1,10 @@
 
-Loaded 75072 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-08 12:48:03
+Loaded 75162 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-08 18:20:05
 
 Incidents by source:
 source
-newsapi           74971
+newsapi           75061
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-12-08 12:48
-- Location: CBC News
-- Description: Multiple mezuzahs were reportedly taken over the weekend from outside multiple units of Toronto Seniors Housing Corporation building, Toronto police say.
+### ROBBERY/THEFT on 2025-12-08 18:20
+- Location: Inside the Magic
+- Description: Walt Disney World Resort, known for its enchanting experiences and family-friendly atmosphere, was the site of an alarming incident on December 8, 2025. At approximately 12:28 p.m., a police alert was issued, notifying the public of a grand theft that had occ…
 
 
-### ROBBERY/THEFT on 2025-12-08 12:46
-- Location: Fox News
-- Description: Louvre suffers another major setback as burst pipe damages rare books, adding to troubles following theft of Napoleon crown jewels worth $102 million.
+### SHOOTING on 2025-12-08 18:16
+- Location: Marca
+- Description: New York police have arrested a 20-year-old in connection with the November 16 shooting of Jets cornerback Kris Boyd in Midtown Manhattan. 
+Authorities said the suspect was apprehe
 
 
-### OTHER on 2025-12-08 12:45
-- Location: Whyevolutionistrue.com
-- Description: Good morning at the top o’ the week: Monday, December 8, 2025.. It’s two weeks until winter arrives, but, as you saw, it’s already here in Chicago. It’s National Brownie Day,  Here’s a Pillsbury brownie-mix ad from the 1950s. I could use some now, and yes, wi…
+### HOMICIDE on 2025-12-08 18:09
+- Location: Boston Herald
+- Description: The attack came a few months after an unrelated one that killed a Ukrainian refugee.
 
 
-### OTHER on 2025-12-08 12:33
-- Location: Www.gov.uk
-- Description: New anti-corruption strategy 2025 will drive dirty money out of the UK, strengthening national security and putting more money into working people's pockets.
+### HOMICIDE on 2025-12-08 18:08
+- Location: PEOPLE
+- Description: Charity Beallis, 40, of Bonanza, and her two young children were found shot to death on Wednesday, Dec. 3, in their sprawling Arkansas mansion
 
 
-### OTHER on 2025-12-08 12:30
-- Location: In These Times
-- Description: As the United States faces the largest healthcare cuts in its history, Texas presents a frightening vision of the future of long-term care.
+### HOMICIDE on 2025-12-08 18:08
+- Location: Oxygen
+- Description: Sally McNeil—who once wrestled under the stage name “Killer Sally”—shot her husband Ray McNeil to death on Valentine’s Day in 1995. Was it an act of murder...
 
-Analysis generated at: Tue Dec  9 12:54:38 UTC 2025
+Analysis generated at: Tue Dec  9 18:20:17 UTC 2025
