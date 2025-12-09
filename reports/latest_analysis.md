@@ -1,10 +1,10 @@
 
-Loaded 74972 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-08 01:54:19
+Loaded 75012 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-08 06:16:25
 
 Incidents by source:
 source
-newsapi           74871
+newsapi           74911
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,30 +20,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-12-08 01:54
+### OTHER on 2025-12-08 06:16
+- Location: BBC News
+- Description: Police Scotland have ramped up their use of stop and search powers against young people to record levels.
+
+
+### HOMICIDE on 2025-12-08 06:08
 - Location: The Punch
-- Description: Authorities confirm six people were killed by bandits in a Gatawa town attack in Sokoto, while dismissing false social media reports of a mosque raid.
+- Description: Unknown gunmen launched a deadly Anambra community attack in Nawfia, Njikoka LGA, leaving multiple people feared dead and causing widespread panic.
 
-Read More: https://punchng.com/lg-dismisses-mosque-attack-as-bandits-kill-six-in-sokoto/
-
-
-### SHOOTING on 2025-12-08 01:31
-- Location: Fox News
-- Description: Convicted felon and illegal immigrant from El Salvador allegedly wounds Omaha police in shootout after randomly opening fire on shopper at neighborhood store.
+Read More: https://punchng.com/many-feared-dead-as-gunmen-attack-anambra-community/
 
 
-### HOMICIDE on 2025-12-08 01:07
-- Location: Digital Journal
-- Description: Venezuela acknowledged Sunday an opposition figure died while in custody, as the Trump administration slammed Caracas as “vile” and the South American country’s army swore in thousands of new soldiers amid mounting US military pressure. Leftist President Nico…
+### ROBBERY/THEFT on 2025-12-08 06:00
+- Location: BBC News
+- Description: One year into his rule Syria's leader has won over Trump and much of the West, but at home people know his weaknesses
 
 
-### ASSAULT on 2025-12-08 01:00
-- Location: CBS News
-- Description: Sean Dunn, who threw a "submarine-style sandwich" at a CBP officer in downtown D.C. in July was found not guilty of misdemeanor assault in November.
+### HOMICIDE on 2025-12-08 06:00
+- Location: Insurance Journal
+- Description: Honolulu’s city council authorized $1 million to settle a lawsuit by the family of a 16-year-old boy who was shot and killed by police. The fatal shooting of Iremamber Sykap in 2021 came amid a national reckoning over police use …
 
 
-### HOMICIDE on 2025-12-08 01:00
-- Location: Oxygen
-- Description: Killer Grannies explores the terrifying boarding home kept by Dorothea Puente, who allegedly buried one victim alive.
+### ASSAULT on 2025-12-08 06:00
+- Location: Naturalnews.com
+- Description: The narrative sold to the American public and the Western world is one of a valiant democracy fighting for freedom, a cause worthy of blank checks and unwavering support. But what if the very leadership being propped up is actively dismantling the mechanisms …
 
-Analysis generated at: Tue Dec  9 01:57:38 UTC 2025
+Analysis generated at: Tue Dec  9 06:25:08 UTC 2025
