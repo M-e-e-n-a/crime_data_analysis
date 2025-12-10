@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Dec 10 01:12:30 UTC 2025
+Last updated: Wed Dec 10 01:59:14 UTC 2025
 
 ## Latest Analysis
 
-Loaded 75178 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-09 01:04:00
+Loaded 75184 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-09 01:51:08
 
 Incidents by source:
 source
-newsapi           75077
+newsapi           75083
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-12-09 01:04
-- Location: Sky.com
-- Description: Illegal number plates and lax rules about who can sell them are threatening national security and putting road users at risk, according to a report.
+### HOMICIDE on 2025-12-09 01:51
+- Location: Us Weekly
+- Description: Accused killer Luigi Mangione allegedly started a to-do list after the murder of UnitedHealthcare CEO Brian Thompson, a veteran police officer testified in court on Monday, December 8. Christy Wasser of the Altoona Police Department in Pennsylvania said durin…
 
 
-### HOMICIDE on 2025-12-09 00:39
-- Location: Rlsbb.to
-- Description: Season 18, Episode 10 – “A Family Vendetta Part One”The series begins with police launching an early morning raid to arrest a man on suspicion of conspiracy to murder. While driving to work the victim’s car was hit by another, whose driver then shot him with …
+### OTHER on 2025-12-09 01:37
+- Location: ABC News
+- Description: Nearly 100,000 people in northern Japan were urged by authorities to seek higher ground.
 
 
-### OTHER on 2025-12-09 00:30
-- Location: Decider
-- Description: The legacy of To Catch a Predator is considered in a provocative way in Predators, a new documentary from David Osit.
-
-
-### HOMICIDE on 2025-12-09 00:28
-- Location: Yahoo Entertainment
-- Description: A Mexican National Guardsmen shot and killed three fellow service members at a barracks over the weekend in the western Mexican state of Michoacan, where the...
-
-
-### ASSAULT on 2025-12-09 00:23
+### HOMICIDE on 2025-12-09 01:32
 - Location: ABC News (AU)
-- Description: Police charge six youths aged 13 to 16 with a string of offences over the stabbing of a 15-year-old boy at Ellenbrook Secondary College in Perth’s north-east on Monday.
+- Description: Rajwinder Singh, 41, was found guilty of the Far North Queensland woman's 2018 murder on a secluded beach north of Cairns. He then fled to India, hiding out for about four years before his arrest and extradition.
 
-Analysis generated at: Wed Dec 10 01:12:30 UTC 2025
+
+### HOMICIDE on 2025-12-09 01:30
+- Location: CBS News
+- Description: All four incidents where people were killed by Baltimore County police this year involved subjects with mental health issues, according to family members.
+
+
+### OTHER on 2025-12-09 01:22
+- Location: ABC News
+- Description: The driver and one passenger suffered minor injuries.
+
+Analysis generated at: Wed Dec 10 01:59:13 UTC 2025
