@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Dec 11 06:26:11 UTC 2025
+Last updated: Thu Dec 11 12:33:57 UTC 2025
 
 ## Latest Analysis
 
-Loaded 75447 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-10 06:13:30
+Loaded 75518 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-10 12:31:22
 
 Incidents by source:
 source
-newsapi           75346
+newsapi           75417
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-12-10 06:13
-- Location: Israelnationalnews.com
-- Description: Investigative journalist David Collier and anti-Semitism researcher Rachel Feldman show how politicians and activists manipulated the narrative around a violent crime to ensure Jews-who played no part in the incident whatsoever-would be scapegoated. In sum, i…
+### DRUG RELATED on 2025-12-10 12:31
+- Location: Fox News
+- Description: Europe faces massive cocaine influx via narco-subs crossing Atlantic with only 5-10% interdiction rate. Police warn continent is 'flooded' with drugs.
 
 
-### OTHER on 2025-12-10 06:13
-- Location: Independent.ie
-- Description: The long-awaited report on the activities of double agent Freddie ‘Stakeknife’ Scappaticci has been released.
+### OTHER on 2025-12-10 12:25
+- Location: Al Jazeera English
+- Description: Here's a closer look at what Trump said about the economy and migration during the Politico interview and the rally.
 
 
-### HOMICIDE on 2025-12-10 06:12
-- Location: Slashdot.org
-- Description: San Diego officials approve $30M settlement for family of teen killed by policeAP News San Diego agrees to pay $30M to settle suit of teen's shooting death by policeNBC 7 San Diego San Diego to pay $30M to family of 16-year-old fatally shot by LEOPolice1 City…
+### OTHER on 2025-12-10 12:25
+- Location: Celebitchy.com
+- Description: Last week, we learned some interesting news about the Wales family’s new home, Forest Lodge. Forest Lodge is located on the Windsor estate, and it’s part of the Crown Estates. We learned that Prince William and Kate actually are paying “market rate” for their…
 
 
-### OTHER on 2025-12-10 06:11
-- Location: The Indian Express
-- Description: From ruling against caste based discrimination in prisons to compensating victims of illegal detention, time and again courts have intervened to protect the human rights enshrined under the constitution.
+### HOMICIDE on 2025-12-10 12:22
+- Location: Gothamgal.com
+- Description: I love watching murder-solving documentaries without having to pay full attention—a dirty little secret. These shows rarely stick with me, but this particular one did. The doc is called “Why Did You Kill Me” and was made in 2021, although the murder occurred …
 
 
-### OTHER on 2025-12-10 06:04
-- Location: BBC News
-- Description: The BBC has spoken to passengers, transport staff and bus drivers about a growing national trend of antisocial behaviour on public transport.
+### HOMICIDE on 2025-12-10 12:14
+- Location: WFTV Orlando
+- Description: The suspect was identified as Jacob Lee Bard. He was charged with murder and first-degree assault.
 
-Analysis generated at: Thu Dec 11 06:26:11 UTC 2025
+Analysis generated at: Thu Dec 11 12:33:57 UTC 2025
