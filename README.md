@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Dec 10 18:24:20 UTC 2025
+Last updated: Thu Dec 11 01:13:32 UTC 2025
 
 ## Latest Analysis
 
-Loaded 75377 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-09 18:22:07
+Loaded 75399 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-10 01:09:40
 
 Incidents by source:
 source
-newsapi           75276
+newsapi           75298
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,47 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-12-09 18:22
-- Location: BBC News
-- Description: The boy was treated by paramedics for a stab wound but died in hospital, the Met Police says.
+### ROBBERY/THEFT on 2025-12-10 01:09
+- Location: Thesmokinggun.com
+- Description: "You saved me from the aliens," Florida Man told investigators 
+
+ 
 
 
-### ROBBERY/THEFT on 2025-12-09 18:21
-- Location: Popular Science
-- Description: ‘This pistol is something a bit different,’ according to a firearms expert.
-The post Rare 18th century pistol used to rob Tulsa liquor store appeared first on Popular Science.
+
+ 
+ 
+ 
+
+ 
 
 
-### HOMICIDE on 2025-12-09 18:18
-- Location: HuffPost
-- Description: A pretrial hearing will determine whether or not key evidence can be included at Mangione’s murder trial.
+<!--paging_filter-->DECEMBER 9--After crashing a stolen BMW yesterday, a Florida Man denied swiping the wheels, explaining to cops that he was actually 
+ 
+ 
+ Teleport Report …
 
 
-### HOMICIDE on 2025-12-09 18:13
-- Location: NBC News
-- Description: An officer who escorted Luigi Mangione to an arraignment hearing after his December 2024 arrest revealed in court Tuesday what the accused murderer said while walking past spectators and reporters on his way out of the Pennsylvania courthouse.
+### HOMICIDE on 2025-12-10 01:07
+- Location: The Punch
+- Description: A rights group calls for an investigation into alleged Tiger Base torture, extortion, and killings, citing a documented pattern of human rights violations.
+
+Read More: https://punchng.com/group-urges-probe-of-alleged-torture-extortion-in-tiger-base/
 
 
-### HOMICIDE on 2025-12-09 18:12
-- Location: Us Weekly
-- Description: Brian Walshe’s case has been making headlines since immediately after he was accused of dismembering his wife Ana Walshe around New Year’s Day in 2023. As Walshe currently sits on trial in Massachusetts, Us Weekly breaks down everything you need to know about…
+### OTHER on 2025-12-10 01:02
+- Location: ComicBook.com
+- Description: Image Courtesy of Netflix
+Netflix has some great movies on the streaming service, from originals to ones they license from other studios, and this includes some hidden sci-fi masterpieces. These films remain hidden thanks to Netflix adding new movies every mo…
 
-Analysis generated at: Wed Dec 10 18:24:20 UTC 2025
+
+### OTHER on 2025-12-10 00:59
+- Location: ABC News
+- Description: A powerful winter storm slamming the Northern Plains and Midwest created dangerous road conditions. In the West, an atmospheric river has brought up to a foot of rain in parts of Washington state.
+
+
+### OTHER on 2025-12-10 00:54
+- Location: Boston Herald
+- Description: Prosecutors narrowed in on DNA evidence on day seven of Brian Walshe's trial, with witnesses detailing the process of analyzing samples from slippers to a hacksaw and hatchet.
+
+Analysis generated at: Thu Dec 11 01:13:32 UTC 2025
