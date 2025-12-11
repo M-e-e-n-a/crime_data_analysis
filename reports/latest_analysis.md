@@ -1,10 +1,10 @@
 
-Loaded 75524 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-10 12:54:35
+Loaded 75614 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-10 18:21:38
 
 Incidents by source:
 source
-newsapi           75423
+newsapi           75513
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-12-10 12:54
-- Location: Fox News
-- Description: Indiana man Jacob Lee Bard charged with murder in Kentucky State University shooting that killed one student, injured another in campus dormitory.
+### OTHER on 2025-12-10 18:21
+- Location: CNN
+- Description: Chinese authorities are using artificial intelligence to turbocharge surveillance and censorship, with the technology predicting public demonstrations and monitoring prison inmates, according to a new report.
 
 
-### HOMICIDE on 2025-12-10 12:51
-- Location: The Indian Express
-- Description: This comes days after clashes were reported between the tribal Rakhelguda village and MV-26 village, where Bengali settlers live, over the headless body found in a river.
+### DRUG RELATED on 2025-12-10 18:19
+- Location: Breitbart News
+- Description: Three people have been arrested for allegedly providing drugs to 7 students of Providence College in Rhode Island who ended up overdosing.
+The post Three People Arrested After Seven Rhode Island College Students Overdose at Party appeared first on Breitbart.
 
 
-### HOMICIDE on 2025-12-10 12:47
-- Location: CBS News
-- Description: The settlement approved for Konoa Wilson's family exceeds the $27 million the city of Minneapolis agreed to pay the family of George Floyd.
+### HOMICIDE on 2025-12-10 18:12
+- Location: BBC News
+- Description: Anthony Gilheaney is accused of mowing down five pedestrians in London's West End, killing one.
 
 
-### OTHER on 2025-12-10 12:45
-- Location: Whyevolutionistrue.com
-- Description: Welcome to a Hump Day (“Pukkeldag” in Danish): December 10, 2025.  It’s winter in Chicago, the streets clotted with ice and slush that has turned a dirty gray. Welcome, winter! It’s National Lager Day, and here’s a good one to drink now, from the excellent we…
+### DRUG RELATED on 2025-12-10 18:09
+- Location: CBC News
+- Description: Police in Belleville, Ont., say they've laid dozens of charges as part of a months-long investigation into fentanyl and cocaine trafficking in the eastern Ontario city.
 
 
-### OTHER on 2025-12-10 12:35
-- Location: Freerepublic.com
-- Description: Either Americans win, or the criminals do. Pithy social critic David Burge said it best: “Journalism is about covering important stories — with a pillow, until they stop moving.” One of the important stories that “journalists” are covering up today is the Tru…
+### OTHER on 2025-12-10 18:07
+- Location: First Showing
+- Description: "This marks an especially defining year of coming together as a community to uplift independent film and the legacy of the Festival.” Time for a peek at how the next year in cinema is shaping up.  Every new year brings another Sundance Film Festival and wit…
 
-Analysis generated at: Thu Dec 11 12:56:37 UTC 2025
+Analysis generated at: Thu Dec 11 18:22:32 UTC 2025
