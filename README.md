@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Dec 11 12:33:57 UTC 2025
+Last updated: Thu Dec 11 12:56:37 UTC 2025
 
 ## Latest Analysis
 
-Loaded 75518 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-10 12:31:22
+Loaded 75524 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-10 12:54:35
 
 Incidents by source:
 source
-newsapi           75417
+newsapi           75423
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### DRUG RELATED on 2025-12-10 12:31
+### HOMICIDE on 2025-12-10 12:54
 - Location: Fox News
-- Description: Europe faces massive cocaine influx via narco-subs crossing Atlantic with only 5-10% interdiction rate. Police warn continent is 'flooded' with drugs.
+- Description: Indiana man Jacob Lee Bard charged with murder in Kentucky State University shooting that killed one student, injured another in campus dormitory.
 
 
-### OTHER on 2025-12-10 12:25
-- Location: Al Jazeera English
-- Description: Here's a closer look at what Trump said about the economy and migration during the Politico interview and the rally.
+### HOMICIDE on 2025-12-10 12:51
+- Location: The Indian Express
+- Description: This comes days after clashes were reported between the tribal Rakhelguda village and MV-26 village, where Bengali settlers live, over the headless body found in a river.
 
 
-### OTHER on 2025-12-10 12:25
-- Location: Celebitchy.com
-- Description: Last week, we learned some interesting news about the Wales family’s new home, Forest Lodge. Forest Lodge is located on the Windsor estate, and it’s part of the Crown Estates. We learned that Prince William and Kate actually are paying “market rate” for their…
+### HOMICIDE on 2025-12-10 12:47
+- Location: CBS News
+- Description: The settlement approved for Konoa Wilson's family exceeds the $27 million the city of Minneapolis agreed to pay the family of George Floyd.
 
 
-### HOMICIDE on 2025-12-10 12:22
-- Location: Gothamgal.com
-- Description: I love watching murder-solving documentaries without having to pay full attention—a dirty little secret. These shows rarely stick with me, but this particular one did. The doc is called “Why Did You Kill Me” and was made in 2021, although the murder occurred …
+### OTHER on 2025-12-10 12:45
+- Location: Whyevolutionistrue.com
+- Description: Welcome to a Hump Day (“Pukkeldag” in Danish): December 10, 2025.  It’s winter in Chicago, the streets clotted with ice and slush that has turned a dirty gray. Welcome, winter! It’s National Lager Day, and here’s a good one to drink now, from the excellent we…
 
 
-### HOMICIDE on 2025-12-10 12:14
-- Location: WFTV Orlando
-- Description: The suspect was identified as Jacob Lee Bard. He was charged with murder and first-degree assault.
+### OTHER on 2025-12-10 12:35
+- Location: Freerepublic.com
+- Description: Either Americans win, or the criminals do. Pithy social critic David Burge said it best: “Journalism is about covering important stories — with a pillow, until they stop moving.” One of the important stories that “journalists” are covering up today is the Tru…
 
-Analysis generated at: Thu Dec 11 12:33:57 UTC 2025
+Analysis generated at: Thu Dec 11 12:56:37 UTC 2025
