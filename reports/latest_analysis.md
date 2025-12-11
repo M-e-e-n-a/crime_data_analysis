@@ -1,10 +1,10 @@
 
-Loaded 75404 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-10 01:47:25
+Loaded 75447 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-10 06:13:30
 
 Incidents by source:
 source
-newsapi           75303
+newsapi           75346
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-12-10 01:47
-- Location: Al Jazeera English
-- Description: Kentucky Governor Andy Beshear said the shooting appeared to be an isolated incident rather than a mass shooting event.
+### OTHER on 2025-12-10 06:13
+- Location: Israelnationalnews.com
+- Description: Investigative journalist David Collier and anti-Semitism researcher Rachel Feldman show how politicians and activists manipulated the narrative around a violent crime to ensure Jews-who played no part in the incident whatsoever-would be scapegoated. In sum, i…
 
 
-### SHOOTING on 2025-12-10 01:37
-- Location: Bleeding Cool News
-- Description: We've got a trifecta of new episodes for "NCIS" Universe fans tonight, and that brings us to our preview for tonight's episode of CBS's Olivia Swann and Todd Lasance-starring NCIS: Sydney. In S03E08: "Turkey Shoot," the team investigates what could be a case …
+### OTHER on 2025-12-10 06:13
+- Location: Independent.ie
+- Description: The long-awaited report on the activities of double agent Freddie ‘Stakeknife’ Scappaticci has been released.
 
 
-### HOMICIDE on 2025-12-10 01:32
+### HOMICIDE on 2025-12-10 06:12
 - Location: Slashdot.org
-- Description: Suspect in custody after one killed in Kentucky university shootingBBC 1 student dead, another in critical condition after shooting on Kentucky State University’s campusWKYT Suspect arrested after police respond to 'active aggressor' at Kentucky State Univers…
+- Description: San Diego officials approve $30M settlement for family of teen killed by policeAP News San Diego agrees to pay $30M to settle suit of teen's shooting death by policeNBC 7 San Diego San Diego to pay $30M to family of 16-year-old fatally shot by LEOPolice1 City…
 
 
-### OTHER on 2025-12-10 01:17
-- Location: ABC News
-- Description: The small plane experienced a "loss of power in both engines," according to the NTSB.
+### OTHER on 2025-12-10 06:11
+- Location: The Indian Express
+- Description: From ruling against caste based discrimination in prisons to compensating victims of illegal detention, time and again courts have intervened to protect the human rights enshrined under the constitution.
 
 
-### HOMICIDE on 2025-12-10 01:14
-- Location: NPR
-- Description: Classes and campus activities were canceled for the rest of the week after a shooting that police said left one student dead and another in critical condition. Police said a suspect who is not a KSU student was in custody.
+### OTHER on 2025-12-10 06:04
+- Location: BBC News
+- Description: The BBC has spoken to passengers, transport staff and bus drivers about a growing national trend of antisocial behaviour on public transport.
 
-Analysis generated at: Thu Dec 11 02:00:55 UTC 2025
+Analysis generated at: Thu Dec 11 06:26:11 UTC 2025
