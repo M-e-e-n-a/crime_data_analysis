@@ -1,10 +1,10 @@
 
-Loaded 75629 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-11 01:51:40
+Loaded 75664 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-11 06:25:00
 
 Incidents by source:
 source
-newsapi           75528
+newsapi           75563
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-12-11 01:51
-- Location: The Times of India
-- Description: Tesla CEO Elon Musk stated that President Trump's Department of Government Efficiency (DOGE) had "a little bit successful" results, but he would not lead the project again. Musk reflected that focusing on his companies would have been a better choice, avoidin…
+### OTHER on 2025-12-11 06:25
+- Location: Mypeoplesreview.com
+- Description: Kathmandu, Dec 11: A diffusion notice has been issued against Prakash Pathak, the man accused of threatening high-profile figures, including […]
+The post Interpol issues diffusion notice against Pathak who threatened high-profile figures appeared first on Peo…
 
 
-### OTHER on 2025-12-11 01:50
-- Location: Deadline
-- Description: Some of the biggest names in documentary film will be descending on Park City, Utah next month for the final edition of Sundance in the mountain town. Oscar winners Alex Gibney, Daniel Roher, Shane Boris, Diane Becker, Joanna Natasegara, Dan Cogan, and Raney …
+### OTHER on 2025-12-11 06:06
+- Location: Protothema.gr
+- Description: For years he was the most valuable British spy inside the IRA during the Troubles in Northern Ireland - The security services knew almost everything about his actions
+The post The dark legacy of Stakeknife: A spy who operated as torturer and executioner under…
 
 
-### OTHER on 2025-12-11 01:49
-- Location: ABC News
-- Description: Amid escalating tensions between the Trump administration and Venezuela, the U.S. has seized a tanker off the coast of the South American nation, President Donald Trump announced
+### DRUG RELATED on 2025-12-11 06:03
+- Location: BBC News
+- Description: The number of teenagers involved in the drugs trade has quadrupled in eight years, the government says.
 
 
-### OTHER on 2025-12-11 01:45
-- Location: The Indian Express
-- Description: Acting on a tip-off received on Tuesday afternoon, the department formed a special team and conducted a search at the outlet in Sector 30, where they found a large quantity of non–duty-paid foreign liquor stored, officials said.
+### OTHER on 2025-12-11 06:00
+- Location: BBC News
+- Description: About 2,700 spiking offences were reported in the past year, the Metropolitan Police says.
 
 
-### OTHER on 2025-12-11 01:29
-- Location: Theobserver.com
-- Description: Six members of the Hudson County Prosecutor’s Office have been recognized for exceptional performance in 2025 by law enforcement partners and organizations. These awards highlight investigative excellence and efforts made… 
-The post Six HCPO investigators awa…
+### OTHER on 2025-12-11 06:00
+- Location: Naturalnews.com
+- Description: A new report reveals extensive research collaborations between elite Western universities and Chinese AI labs embedded in Beijing’s security state. The Chinese labs are tied to technologies enabling mass surveillance and human rights abuses, including against…
 
-Analysis generated at: Fri Dec 12 02:00:17 UTC 2025
+Analysis generated at: Fri Dec 12 06:25:31 UTC 2025
