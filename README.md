@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Dec 12 12:32:26 UTC 2025
+Last updated: Fri Dec 12 12:53:50 UTC 2025
 
 ## Latest Analysis
 
-Loaded 75736 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-11 12:30:02
+Loaded 75748 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-11 12:45:56
 
 Incidents by source:
 source
-newsapi           75635
+newsapi           75647
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-12-11 12:30
-- Location: Freerepublic.com
-- Description: A Swiss wind instrument repairman is serving a ten-day jail sentence after refusing to pay a fine imposed for a comment he made on Facebook about biological sex. Emanuel Brünisholz, from Burgdorf in the canton of Bern, responded to a December 2022 post by Swi…
+### OTHER on 2025-12-11 12:45
+- Location: Whyevolutionistrue.com
+- Description: Welcome to Thursday, December 11, 2025, with 14 shopping days left until Koynezaa (note: an alternative spelling is “Coynezaa”). It’s National Noodle Ring Day. What the deuce is that? AI describes it, correctly as ” a retro, elegant baked pasta casserole dish…
 
 
-### OTHER on 2025-12-11 12:30
-- Location: Mother Jones
-- Description: This column originally appeared on author Hamilton Nolan’s site How Things Work, which you can subscribe or donate to here. Even stipulating that America is a nation of immigrants, and that the persecution of immigrants is an insult to our history wherever it…
+### OTHER on 2025-12-11 12:45
+- Location: BBC News
+- Description: Murdo Fraser had threatened legal action after Police Scotland recorded one of his social media posts.
 
 
-### OTHER on 2025-12-11 12:27
-- Location: ABC News
-- Description: A stunning video shows skydivers narrowly averting a disaster after a parachute deployed too early.
+### OTHER on 2025-12-11 12:44
+- Location: The Times of India
+- Description: Amazon's senior vice president Amit Agarwal stated that recent layoffs are aimed at removing organizational layers to foster agility, enabling the company to operate like a startup in an AI-driven world. CEO Andy Jassy clarified the cuts are culture-driven, n…
 
 
-### SHOOTING on 2025-12-11 12:26
-- Location: FOX 9
-- Description: A Minneapolis police officer is on leave after firing his gun at an armed suspect early Thursday morning. No one was injured.
+### HOMICIDE on 2025-12-11 12:43
+- Location: Biztoc.com
+- Description: The heirs of an 83-year-old Connecticut woman are suing ChatGPT maker OpenAI and its business partner Microsoft for wrongful death, alleging that the artificial intelligence chatbot intensified her son’s “paranoid delusions” and helped direct them at his moth…
 
 
-### ROBBERY/THEFT on 2025-12-11 12:23
-- Location: RTE
-- Description: More than 600 artefacts relating to the British Empire and Commonwealth have been stolen from a museum collection in Bristol.
+### OTHER on 2025-12-11 12:41
+- Location: The Times of India
+- Description: Popular streamer RaKai, also known as “2xRaKai,” experienced a YouTube livestream disruption when his live chat was disabled due to mass reports. The 16-year-old influencer pleaded with viewers to stop, explaining that false reports of him being underage trig…
 
-Analysis generated at: Fri Dec 12 12:32:26 UTC 2025
+Analysis generated at: Fri Dec 12 12:53:50 UTC 2025
