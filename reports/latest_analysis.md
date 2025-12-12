@@ -1,10 +1,10 @@
 
-Loaded 75622 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-11 01:10:30
+Loaded 75629 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-11 01:51:40
 
 Incidents by source:
 source
-newsapi           75521
+newsapi           75528
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2025-12-11 01:10
-- Location: ABC News (AU)
-- Description: A business owner has called for a youth curfew in Tennant Creek, after a weekend crime spree involving the theft of multiple cars, rams raids and a police chase through the Northern Territory town.
+### OTHER on 2025-12-11 01:51
+- Location: The Times of India
+- Description: Tesla CEO Elon Musk stated that President Trump's Department of Government Efficiency (DOGE) had "a little bit successful" results, but he would not lead the project again. Musk reflected that focusing on his companies would have been a better choice, avoidin…
 
 
-### OTHER on 2025-12-11 01:00
+### OTHER on 2025-12-11 01:50
+- Location: Deadline
+- Description: Some of the biggest names in documentary film will be descending on Park City, Utah next month for the final edition of Sundance in the mountain town. Oscar winners Alex Gibney, Daniel Roher, Shane Boris, Diane Becker, Joanna Natasegara, Dan Cogan, and Raney …
+
+
+### OTHER on 2025-12-11 01:49
 - Location: ABC News
-- Description: Water rescues are underway in the West after major flooding from an atmospheric river as an Arctic-air-fueled snowstorm sweeps from the Midwest all the way East.
+- Description: Amid escalating tensions between the Trump administration and Venezuela, the U.S. has seized a tanker off the coast of the South American nation, President Donald Trump announced
 
 
-### OTHER on 2025-12-11 00:52
-- Location: ABC News
-- Description: A helicopter on a routine patrol spotted a man stuck on top of a large boulder on Arizona's Camelback Mountain. Crews used a drone to get him blankets and food and were able to rescue him in daylight.
+### OTHER on 2025-12-11 01:45
+- Location: The Indian Express
+- Description: Acting on a tip-off received on Tuesday afternoon, the department formed a special team and conducted a search at the outlet in Sector 30, where they found a large quantity of non–duty-paid foreign liquor stored, officials said.
 
 
-### HOMICIDE on 2025-12-11 00:38
-- Location: New York Post
-- Description: Park, 22, was found dead in the Manistee National Forest in Michigan on Nov. 25, weeks after she vanished on Nov. 3, when she was 38 weeks pregnant.
+### OTHER on 2025-12-11 01:29
+- Location: Theobserver.com
+- Description: Six members of the Hudson County Prosecutor’s Office have been recognized for exceptional performance in 2025 by law enforcement partners and organizations. These awards highlight investigative excellence and efforts made… 
+The post Six HCPO investigators awa…
 
-
-### HOMICIDE on 2025-12-11 00:30
-- Location: Boston Herald
-- Description: The shooting happened at Whitney M. Young Jr. Hall, the second in four months.
-
-Analysis generated at: Fri Dec 12 01:13:29 UTC 2025
+Analysis generated at: Fri Dec 12 02:00:17 UTC 2025
