@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Dec 12 12:53:50 UTC 2025
+Last updated: Fri Dec 12 18:24:06 UTC 2025
 
 ## Latest Analysis
 
-Loaded 75748 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-11 12:45:56
+Loaded 75841 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-11 18:22:14
 
 Incidents by source:
 source
-newsapi           75647
+newsapi           75740
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-12-11 12:45
-- Location: Whyevolutionistrue.com
-- Description: Welcome to Thursday, December 11, 2025, with 14 shopping days left until Koynezaa (note: an alternative spelling is “Coynezaa”). It’s National Noodle Ring Day. What the deuce is that? AI describes it, correctly as ” a retro, elegant baked pasta casserole dish…
+### HOMICIDE on 2025-12-11 18:22
+- Location: Us Weekly
+- Description: Five months ago, William Ahle was being celebrated by his entire community for heroically trying to rescue one of his elderly neighbors from her burning home. This week, the 70-year-old man stands accused of murder. Ahle was lauded back on July 25 after tryin…
 
 
-### OTHER on 2025-12-11 12:45
+### OTHER on 2025-12-11 18:22
 - Location: BBC News
-- Description: Murdo Fraser had threatened legal action after Police Scotland recorded one of his social media posts.
+- Description: The teenager's family said: "We will never recover from the loss and not having him in our lives."
 
 
-### OTHER on 2025-12-11 12:44
-- Location: The Times of India
-- Description: Amazon's senior vice president Amit Agarwal stated that recent layoffs are aimed at removing organizational layers to foster agility, enabling the company to operate like a startup in an AI-driven world. CEO Andy Jassy clarified the cuts are culture-driven, n…
+### OTHER on 2025-12-11 18:18
+- Location: The Irish Times
+- Description: Federal agent alleged John O’Brien capitalised on his Irish identity to charm victims into agreeing to exorbitant home repair contracts
 
 
-### HOMICIDE on 2025-12-11 12:43
-- Location: Biztoc.com
-- Description: The heirs of an 83-year-old Connecticut woman are suing ChatGPT maker OpenAI and its business partner Microsoft for wrongful death, alleging that the artificial intelligence chatbot intensified her son’s “paranoid delusions” and helped direct them at his moth…
+### ROBBERY/THEFT on 2025-12-11 18:00
+- Location: Deadline
+- Description: EXCLUSIVE: Lifetime has three new ripped-from-the-headline movies premiering in January, including the new Kate Beckinsale and Scott Eastwood film Stolen Girl, Accused: The Karen Read Story, and I Am Mary Jo Buttafuoco. More information on each title can be f…
 
 
-### OTHER on 2025-12-11 12:41
-- Location: The Times of India
-- Description: Popular streamer RaKai, also known as “2xRaKai,” experienced a YouTube livestream disruption when his live chat was disabled due to mass reports. The 16-year-old influencer pleaded with viewers to stop, explaining that false reports of him being underage trig…
+### HOMICIDE on 2025-12-11 17:57
+- Location: The Irish Times
+- Description: An apology was issued for the family’s hurt and suffering since nine-year-old Patrick Rooney was shot dead in his west Belfast home
 
-Analysis generated at: Fri Dec 12 12:53:50 UTC 2025
+Analysis generated at: Fri Dec 12 18:24:06 UTC 2025
