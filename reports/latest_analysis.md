@@ -1,10 +1,10 @@
 
-Loaded 75614 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-10 18:21:38
+Loaded 75622 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-11 01:10:30
 
 Incidents by source:
 source
-newsapi           75513
+newsapi           75521
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-12-10 18:21
-- Location: CNN
-- Description: Chinese authorities are using artificial intelligence to turbocharge surveillance and censorship, with the technology predicting public demonstrations and monitoring prison inmates, according to a new report.
+### ROBBERY/THEFT on 2025-12-11 01:10
+- Location: ABC News (AU)
+- Description: A business owner has called for a youth curfew in Tennant Creek, after a weekend crime spree involving the theft of multiple cars, rams raids and a police chase through the Northern Territory town.
 
 
-### DRUG RELATED on 2025-12-10 18:19
-- Location: Breitbart News
-- Description: Three people have been arrested for allegedly providing drugs to 7 students of Providence College in Rhode Island who ended up overdosing.
-The post Three People Arrested After Seven Rhode Island College Students Overdose at Party appeared first on Breitbart.
+### OTHER on 2025-12-11 01:00
+- Location: ABC News
+- Description: Water rescues are underway in the West after major flooding from an atmospheric river as an Arctic-air-fueled snowstorm sweeps from the Midwest all the way East.
 
 
-### HOMICIDE on 2025-12-10 18:12
-- Location: BBC News
-- Description: Anthony Gilheaney is accused of mowing down five pedestrians in London's West End, killing one.
+### OTHER on 2025-12-11 00:52
+- Location: ABC News
+- Description: A helicopter on a routine patrol spotted a man stuck on top of a large boulder on Arizona's Camelback Mountain. Crews used a drone to get him blankets and food and were able to rescue him in daylight.
 
 
-### DRUG RELATED on 2025-12-10 18:09
-- Location: CBC News
-- Description: Police in Belleville, Ont., say they've laid dozens of charges as part of a months-long investigation into fentanyl and cocaine trafficking in the eastern Ontario city.
+### HOMICIDE on 2025-12-11 00:38
+- Location: New York Post
+- Description: Park, 22, was found dead in the Manistee National Forest in Michigan on Nov. 25, weeks after she vanished on Nov. 3, when she was 38 weeks pregnant.
 
 
-### OTHER on 2025-12-10 18:07
-- Location: First Showing
-- Description: "This marks an especially defining year of coming together as a community to uplift independent film and the legacy of the Festival.” Time for a peek at how the next year in cinema is shaping up.  Every new year brings another Sundance Film Festival and wit…
+### HOMICIDE on 2025-12-11 00:30
+- Location: Boston Herald
+- Description: The shooting happened at Whitney M. Young Jr. Hall, the second in four months.
 
-Analysis generated at: Thu Dec 11 18:22:32 UTC 2025
+Analysis generated at: Fri Dec 12 01:13:29 UTC 2025
