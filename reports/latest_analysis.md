@@ -1,10 +1,10 @@
 
-Loaded 75664 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-11 06:25:00
+Loaded 75736 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-11 12:30:02
 
 Incidents by source:
 source
-newsapi           75563
+newsapi           75635
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,30 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-12-11 06:25
-- Location: Mypeoplesreview.com
-- Description: Kathmandu, Dec 11: A diffusion notice has been issued against Prakash Pathak, the man accused of threatening high-profile figures, including […]
-The post Interpol issues diffusion notice against Pathak who threatened high-profile figures appeared first on Peo…
+### OTHER on 2025-12-11 12:30
+- Location: Freerepublic.com
+- Description: A Swiss wind instrument repairman is serving a ten-day jail sentence after refusing to pay a fine imposed for a comment he made on Facebook about biological sex. Emanuel Brünisholz, from Burgdorf in the canton of Bern, responded to a December 2022 post by Swi…
 
 
-### OTHER on 2025-12-11 06:06
-- Location: Protothema.gr
-- Description: For years he was the most valuable British spy inside the IRA during the Troubles in Northern Ireland - The security services knew almost everything about his actions
-The post The dark legacy of Stakeknife: A spy who operated as torturer and executioner under…
+### OTHER on 2025-12-11 12:30
+- Location: Mother Jones
+- Description: This column originally appeared on author Hamilton Nolan’s site How Things Work, which you can subscribe or donate to here. Even stipulating that America is a nation of immigrants, and that the persecution of immigrants is an insult to our history wherever it…
 
 
-### DRUG RELATED on 2025-12-11 06:03
-- Location: BBC News
-- Description: The number of teenagers involved in the drugs trade has quadrupled in eight years, the government says.
+### OTHER on 2025-12-11 12:27
+- Location: ABC News
+- Description: A stunning video shows skydivers narrowly averting a disaster after a parachute deployed too early.
 
 
-### OTHER on 2025-12-11 06:00
-- Location: BBC News
-- Description: About 2,700 spiking offences were reported in the past year, the Metropolitan Police says.
+### SHOOTING on 2025-12-11 12:26
+- Location: FOX 9
+- Description: A Minneapolis police officer is on leave after firing his gun at an armed suspect early Thursday morning. No one was injured.
 
 
-### OTHER on 2025-12-11 06:00
-- Location: Naturalnews.com
-- Description: A new report reveals extensive research collaborations between elite Western universities and Chinese AI labs embedded in Beijing’s security state. The Chinese labs are tied to technologies enabling mass surveillance and human rights abuses, including against…
+### ROBBERY/THEFT on 2025-12-11 12:23
+- Location: RTE
+- Description: More than 600 artefacts relating to the British Empire and Commonwealth have been stolen from a museum collection in Bristol.
 
-Analysis generated at: Fri Dec 12 06:25:31 UTC 2025
+Analysis generated at: Fri Dec 12 12:32:26 UTC 2025
