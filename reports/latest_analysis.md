@@ -1,10 +1,10 @@
 
-Loaded 75855 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-12 01:00:15
+Loaded 75862 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-12 01:50:13
 
 Incidents by source:
 source
-newsapi           75754
+newsapi           75761
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-12-12 01:00
-- Location: MakeUseOf
-- Description: The perfect miniseries is an artform, and these HBO Max ones will bring out your inner binge-watcher.
+### HOMICIDE on 2025-12-12 01:50
+- Location: New York Post
+- Description: Giuseppe Canzani, 45, admitted to fatally shooting Anna Torres, 51,  with a .45-caliber gun as she answered the door of her Ozone Park  home  in May 2022 because he believed she had cast a spell on his family, prosecutors said.
 
 
-### ROBBERY/THEFT on 2025-12-12 00:55
-- Location: BBC News
-- Description: With "sharp rises" in shop theft in recent years, the nature of it is changing too - as retail workers in the area dubbed England's shoplifting capital have seen
+### HOMICIDE on 2025-12-12 01:48
+- Location: The Times of India
+- Description: US News: SAN FRANCISCO : The heirs of an 83-year-old Connecticut woman are suing ChatGPT maker OpenAI and its business partner Microsoft for wrongful death, al.
 
 
-### HOMICIDE on 2025-12-12 00:45
-- Location: Yahoo Entertainment
-- Description: Tyler Robinson appeared in person in court for the first time after his arrest for the alleged shooting of right-wing activist Charlie Kirk.
+### DRUG RELATED on 2025-12-12 01:39
+- Location: New Zealand Herald
+- Description: A 34-year-old local man is in custody.
 
 
-### HOMICIDE on 2025-12-12 00:28
-- Location: PBS
-- Description: The Utah man charged with killing Charlie Kirk made his first in-person court appearance Thursday as his attorneys pushed to further limit media access in the high-profile criminal case.
+### ROBBERY/THEFT on 2025-12-12 01:31
+- Location: New York Post
+- Description: Dreamliife Rizzy joined host Adam Grandmaison for a wide-ranging discussion of how crime has changed in San Francisco, which became internationally infamous for rampant drug dealing, thefts and “bipping” — smashing car windows.
 
 
-### OTHER on 2025-12-12 00:27
+### ROBBERY/THEFT on 2025-12-12 01:22
 - Location: Breitbart News
-- Description: DHS officials announced the milestone of 10,000 criminal aliens being arrested in the sanctuary city of Los Angeles. These include many violent criminal aliens, including a woman who had 14 previous convictions. Others arrested include illegal aliens with cha…
+- Description: Tyler Robinson, the Utah man accused of assassinating Charlie Kirk, smirked Thursday during his first in-person court appearance since his September arrest.
+The post Watch: Accused Charlie Kirk Assassin Tyler Robinson Smirks in First In-Person Court Appearanc…
 
-Analysis generated at: Sat Dec 13 01:08:27 UTC 2025
+Analysis generated at: Sat Dec 13 01:54:08 UTC 2025
