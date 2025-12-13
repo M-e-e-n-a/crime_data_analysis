@@ -1,10 +1,10 @@
 
-Loaded 75958 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-12 12:45:09
+Loaded 76048 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-12 18:18:16
 
 Incidents by source:
 source
-newsapi           75857
+newsapi           75947
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-12-12 12:45
-- Location: Khabarhub.com
-- Description: KATHMANDU: Newly appointed Minister for Labor, Employment and Social Security Rajendra Singh Bhandari has said he will work to help address the country’s challenges in line with his experience and capabilities. He assumed office at the Ministry in Singha Durb…
+### OTHER on 2025-12-12 18:18
+- Location: The Denver Post
+- Description: It includes a feature that won’t allow the pickups to start even with key fobs.
 
 
-### OTHER on 2025-12-12 12:35
-- Location: The Federalist
-- Description: How can there be a legal injury in removing a citizen of Somalia, Venezuela, Afghanistan, Mexico, or any other country, from the U.S.?
+### OTHER on 2025-12-12 18:18
+- Location: Boston Herald
+- Description: It includes a feature that won’t allow the pickups to start even with key fobs.
 
 
-### HOMICIDE on 2025-12-12 12:31
-- Location: BBC News
-- Description: Robert Rhodes, 52, killed his wife Dawn in Redhill but was initially acquitted in 2017.
+### HOMICIDE on 2025-12-12 18:18
+- Location: Newser
+- Description: Toronto police say a dead Ontario man is now believed to be behind at least three long-unsolved killings of women dating back more than 40 years. At a joint news conference Thursday, Toronto police and the Ontario Provincial Police identified Kenneth Smith, w…
 
 
-### SHOOTING on 2025-12-12 12:30
-- Location: Mother Jones
-- Description: Not long after the shooting of two members of the National Guard in Washington D.C., Elora Mukherjee found herself contacting her clients with bad news. Mukherjee, the director of the Immigrants’ Rights Clinic at Columbia Law School, needed to tell several as…
+### HOMICIDE on 2025-12-12 18:14
+- Location: The Irish Times
+- Description: Assault in Midlands Prison took place hours before firebomb attack that killed four-year-old Tadhg Farrell and his grand-aunt Mary Holt
 
 
-### OTHER on 2025-12-12 12:11
-- Location: Freerepublic.com
-- Description: CHICAGO (WLS) -- A federal appeals court is blocking the release of hundreds of people detained by immigration agents during "Operation Midway Blitz" in the Chicago area, at least for now. The case centers around whether the government violated a consent decr…
+### ASSAULT on 2025-12-12 18:14
+- Location: ABC News
+- Description: A California woman changing her infant daughter’s diaper in a New York City department store bathroom was stabbed and injured by another woman in what police say was an unprovoked attack
 
-Analysis generated at: Sat Dec 13 12:48:03 UTC 2025
+Analysis generated at: Sat Dec 13 18:20:12 UTC 2025
