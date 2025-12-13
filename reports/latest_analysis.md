@@ -1,10 +1,10 @@
 
-Loaded 75841 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-11 18:22:14
+Loaded 75855 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-12 01:00:15
 
 Incidents by source:
 source
-newsapi           75740
+newsapi           75754
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-12-11 18:22
-- Location: Us Weekly
-- Description: Five months ago, William Ahle was being celebrated by his entire community for heroically trying to rescue one of his elderly neighbors from her burning home. This week, the 70-year-old man stands accused of murder. Ahle was lauded back on July 25 after tryin…
+### OTHER on 2025-12-12 01:00
+- Location: MakeUseOf
+- Description: The perfect miniseries is an artform, and these HBO Max ones will bring out your inner binge-watcher.
 
 
-### OTHER on 2025-12-11 18:22
+### ROBBERY/THEFT on 2025-12-12 00:55
 - Location: BBC News
-- Description: The teenager's family said: "We will never recover from the loss and not having him in our lives."
+- Description: With "sharp rises" in shop theft in recent years, the nature of it is changing too - as retail workers in the area dubbed England's shoplifting capital have seen
 
 
-### OTHER on 2025-12-11 18:18
-- Location: The Irish Times
-- Description: Federal agent alleged John O’Brien capitalised on his Irish identity to charm victims into agreeing to exorbitant home repair contracts
+### HOMICIDE on 2025-12-12 00:45
+- Location: Yahoo Entertainment
+- Description: Tyler Robinson appeared in person in court for the first time after his arrest for the alleged shooting of right-wing activist Charlie Kirk.
 
 
-### ROBBERY/THEFT on 2025-12-11 18:00
-- Location: Deadline
-- Description: EXCLUSIVE: Lifetime has three new ripped-from-the-headline movies premiering in January, including the new Kate Beckinsale and Scott Eastwood film Stolen Girl, Accused: The Karen Read Story, and I Am Mary Jo Buttafuoco. More information on each title can be f…
+### HOMICIDE on 2025-12-12 00:28
+- Location: PBS
+- Description: The Utah man charged with killing Charlie Kirk made his first in-person court appearance Thursday as his attorneys pushed to further limit media access in the high-profile criminal case.
 
 
-### HOMICIDE on 2025-12-11 17:57
-- Location: The Irish Times
-- Description: An apology was issued for the family’s hurt and suffering since nine-year-old Patrick Rooney was shot dead in his west Belfast home
+### OTHER on 2025-12-12 00:27
+- Location: Breitbart News
+- Description: DHS officials announced the milestone of 10,000 criminal aliens being arrested in the sanctuary city of Los Angeles. These include many violent criminal aliens, including a woman who had 14 previous convictions. Others arrested include illegal aliens with cha…
 
-Analysis generated at: Fri Dec 12 18:24:06 UTC 2025
+Analysis generated at: Sat Dec 13 01:08:27 UTC 2025
