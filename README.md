@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Dec 13 06:22:34 UTC 2025
+Last updated: Sat Dec 13 12:29:08 UTC 2025
 
 ## Latest Analysis
 
-Loaded 75902 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-12 06:11:08
+Loaded 75954 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-12 12:11:48
 
 Incidents by source:
 source
-newsapi           75801
+newsapi           75853
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-12-12 06:11
-- Location: The Times of India
-- Description: Education News: India’s education sector is witnessing a steady, though uneven, push towards digital and AI-enabled learning. According to recent data from the Minist.
+### OTHER on 2025-12-12 12:11
+- Location: Freerepublic.com
+- Description: CHICAGO (WLS) -- A federal appeals court is blocking the release of hundreds of people detained by immigration agents during "Operation Midway Blitz" in the Chicago area, at least for now. The case centers around whether the government violated a consent decr…
 
 
-### OTHER on 2025-12-12 06:02
-- Location: BBC News
-- Description: This time of year is known as the "golden quarter" of trade, generating £1bn of business in the capital.
+### OTHER on 2025-12-12 12:06
+- Location: Freerepublic.com
+- Description: It’s been 50 years since Godfrey Wade arrived to the United States from Jamaica at the age of 15 with his mother, moving to New York with a green card that granted him permanent residency. The Black man enlisted in the U.S. Army a few years later, spending ei…
 
 
-### HOMICIDE on 2025-12-12 06:00
-- Location: Insurance Journal
-- Description: OpenAI and its investor Microsoft Corp. were sued over a Connecticut murder-suicide in the latest case to blame the popular ChatGPT chatbot for dangerous psychological manipulation of users. The lawsuit turns on the actions of a 56-year-old man who lived …
+### OTHER on 2025-12-12 12:06
+- Location: ComputerWeekly.com
+- Description: Research by ransomware expert Max Smeets suggests companies that pay up to criminal gangs are more likely to attract press attention
 
 
-### HOMICIDE on 2025-12-12 06:00
-- Location: Insurance Journal
-- Description: An internal affairs investigation into the actions of Rutland, Vermont police in a motor-vehicle pursuit that resulted in the death of a young officer was “preventable” if police had followed proper procedures, recent court documents show. A Salisbury man dri…
+### ASSAULT on 2025-12-12 12:03
+- Location: Haaretz
+- Description: The Social Equality minister used a letter written to police by the Arab mayors' council head expressing general support in the fight against Arab community crime as evidence that Arab leaders supported her diverting funds to the Shin Bet to combat crime
 
 
-### OTHER on 2025-12-12 06:00
-- Location: The Irish Times
-- Description: A little subterfuge to get an edge, to try and determine an outcome, is more common than ever in modern sport
+### HOMICIDE on 2025-12-12 12:00
+- Location: Fox News
+- Description: Over 10,000 illegal immigrants, including murderers, kidnappers and sexual predators, have been arrested in Los Angeles since June despite pushback from sanctuary leaders and rioters.
 
-Analysis generated at: Sat Dec 13 06:22:34 UTC 2025
+Analysis generated at: Sat Dec 13 12:29:08 UTC 2025
