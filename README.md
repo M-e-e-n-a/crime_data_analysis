@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Dec 13 01:54:08 UTC 2025
+Last updated: Sat Dec 13 06:22:34 UTC 2025
 
 ## Latest Analysis
 
-Loaded 75862 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-12 01:50:13
+Loaded 75902 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-12 06:11:08
 
 Incidents by source:
 source
-newsapi           75761
+newsapi           75801
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-12-12 01:50
-- Location: New York Post
-- Description: Giuseppe Canzani, 45, admitted to fatally shooting Anna Torres, 51,  with a .45-caliber gun as she answered the door of her Ozone Park  home  in May 2022 because he believed she had cast a spell on his family, prosecutors said.
-
-
-### HOMICIDE on 2025-12-12 01:48
+### OTHER on 2025-12-12 06:11
 - Location: The Times of India
-- Description: US News: SAN FRANCISCO : The heirs of an 83-year-old Connecticut woman are suing ChatGPT maker OpenAI and its business partner Microsoft for wrongful death, al.
+- Description: Education News: India’s education sector is witnessing a steady, though uneven, push towards digital and AI-enabled learning. According to recent data from the Minist.
 
 
-### DRUG RELATED on 2025-12-12 01:39
-- Location: New Zealand Herald
-- Description: A 34-year-old local man is in custody.
+### OTHER on 2025-12-12 06:02
+- Location: BBC News
+- Description: This time of year is known as the "golden quarter" of trade, generating £1bn of business in the capital.
 
 
-### ROBBERY/THEFT on 2025-12-12 01:31
-- Location: New York Post
-- Description: Dreamliife Rizzy joined host Adam Grandmaison for a wide-ranging discussion of how crime has changed in San Francisco, which became internationally infamous for rampant drug dealing, thefts and “bipping” — smashing car windows.
+### HOMICIDE on 2025-12-12 06:00
+- Location: Insurance Journal
+- Description: OpenAI and its investor Microsoft Corp. were sued over a Connecticut murder-suicide in the latest case to blame the popular ChatGPT chatbot for dangerous psychological manipulation of users. The lawsuit turns on the actions of a 56-year-old man who lived …
 
 
-### ROBBERY/THEFT on 2025-12-12 01:22
-- Location: Breitbart News
-- Description: Tyler Robinson, the Utah man accused of assassinating Charlie Kirk, smirked Thursday during his first in-person court appearance since his September arrest.
-The post Watch: Accused Charlie Kirk Assassin Tyler Robinson Smirks in First In-Person Court Appearanc…
+### HOMICIDE on 2025-12-12 06:00
+- Location: Insurance Journal
+- Description: An internal affairs investigation into the actions of Rutland, Vermont police in a motor-vehicle pursuit that resulted in the death of a young officer was “preventable” if police had followed proper procedures, recent court documents show. A Salisbury man dri…
 
-Analysis generated at: Sat Dec 13 01:54:08 UTC 2025
+
+### OTHER on 2025-12-12 06:00
+- Location: The Irish Times
+- Description: A little subterfuge to get an edge, to try and determine an outcome, is more common than ever in modern sport
+
+Analysis generated at: Sat Dec 13 06:22:34 UTC 2025
