@@ -1,10 +1,10 @@
 
-Loaded 76111 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-13 12:28:27
+Loaded 76114 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-13 12:45:35
 
 Incidents by source:
 source
-newsapi           76010
+newsapi           76013
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,6 +20,21 @@ bution.svg)
 
 ## Recent Incidents
 
+### OTHER on 2025-12-13 12:45
+- Location: Whyevolutionistrue.com
+- Description: Welcome to CaturSaturday, December 13, 2025, shabbos for Jewish cats, and National Day of the Horse.  And here, according  to the Guinness book of world records, is the world’s shortest horse. He’s adorable and his job is to be a therapy horse. It’s also Ging…
+
+
+### HOMICIDE on 2025-12-13 12:44
+- Location: The Indian Express
+- Description: The Ludhiana police recorded the arrest of Amit Nishad, 25, on Friday. He is currently under treatment at PGIMER, Chandigarh.
+
+
+### OTHER on 2025-12-13 12:41
+- Location: New York Post
+- Description: Mayor Eric Adams during an exclusive interview this week with The Post’s Rich Calder said he has no regrets heading into his final days in office, insisting he won’t miss the headaches of the job and looks forward to accepting private sector gigs and writing …
+
+
 ### OTHER on 2025-12-13 12:28
 - Location: Al Jazeera English
 - Description: US president orders 5,000 Ethiopians to leave in 60 days amid broader push to end protections for over one million.
@@ -29,19 +44,4 @@ bution.svg)
 - Location: Fox News
 - Description: How social media transformed legal case coverage, from the 1993 World Trade Center bombing to today's Charlie Kirk murder case with Tyler Robinson.
 
-
-### HOMICIDE on 2025-12-13 12:00
-- Location: NBC News
-- Description: A hearing focused on a defense effort to exclude evidence from Luigi Mangione's state murder trial just completed its second week — and revealed new details about his December 2024 arrest at a Pennsylvania McDonald’s
-
-
-### HOMICIDE on 2025-12-13 12:00
-- Location: New York Post
-- Description: Van Dyke celebrates his monumental 100th birthday on Saturday, Dec. 13.
-
-
-### OTHER on 2025-12-13 11:58
-- Location: The Times of India
-- Description: The UPSC has introduced a 'Centre of Choice' facility for persons with benchmark disabilities, guaranteeing their preferred exam location. This reform addresses issues where popular centres fill up, forcing disabled candidates to travel long distances. The ne…
-
-Analysis generated at: Sun Dec 14 12:28:47 UTC 2025
+Analysis generated at: Sun Dec 14 12:48:20 UTC 2025
