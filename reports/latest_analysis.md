@@ -1,10 +1,10 @@
 
-Loaded 76062 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-13 01:22:15
+Loaded 76085 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-13 06:14:21
 
 Incidents by source:
 source
-newsapi           75961
+newsapi           75984
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-12-13 01:22
-- Location: KQED
-- Description: San Leandro Police Officer Jason Fletcher shot and killed Steven Taylor, 33, in a Walmart in 2020.
+### OTHER on 2025-12-13 06:14
+- Location: Freerepublic.com
+- Description: WARNING: Some readers may find the details in this story provided by police to be disturbing. WILMINGTON, IL — Police say a Manhattan man used a plunger to try to flush a newborn after the mother gave birth in a toilet, more than a year before the baby girl w…
 
 
-### OTHER on 2025-12-13 01:18
-- Location: BBC News
-- Description: Prosecutors played dozens of body camera videos and interviewed witnesses from the day of his arrest.
+### ASSAULT on 2025-12-13 06:00
+- Location: New Zealand Herald
+- Description: Joan Whincup didn't realise she was battling a heart attack as she walked up a hill.
 
 
-### OTHER on 2025-12-13 01:13
-- Location: PEOPLE
-- Description: Harbaugh hired Sherrone Moore as the team’s tight ends coach in 2018 and he replaced Harbaugh as head coach in 2024
+### HOMICIDE on 2025-12-13 05:57
+- Location: Syllad.com
+- Description: Nearly three months after the shocking and deeply emotional loss of Assamese cultural icon Zubeen Garg, the Special Investigation Team (SIT) on Friday carried an aluminium trunk into the court of the Chief Judicial Magistrate — a trunk that, for many in Assam…
 
 
-### OTHER on 2025-12-13 01:00
-- Location: MakeUseOf
-- Description: True crime is one of the most popular genres of TV out there, so it's to be expected that a few great shows would fall through the cracks.
+### OTHER on 2025-12-13 05:56
+- Location: ABC News (AU)
+- Description: A delegation of United Nations inspectors have raised the alarm about Australia's detention facilities and a breach of human rights.
 
 
-### OTHER on 2025-12-13 01:00
-- Location: SoraNews24
-- Description: But now he knows, and knowing is half the battle. We all have certain gaps in our knowledge that are widely known to others. They say even Einstein couldn’t drive a car because he found it too complicated, though in fairness, cars were a lot more complicated …
+### ASSAULT on 2025-12-13 05:44
+- Location: Breaking NEWS in KENYA for Today Right Now & Kenyan News | TUKO
+- Description: President William Ruto was startled when a rhino charged at him during the Tsavo West Rhino Sanctuary launch, but security quickly intervened to ensure his safety.
 
-Analysis generated at: Sun Dec 14 02:07:03 UTC 2025
+Analysis generated at: Sun Dec 14 06:22:47 UTC 2025
