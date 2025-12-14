@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Dec 14 01:18:05 UTC 2025
+Last updated: Sun Dec 14 02:07:03 UTC 2025
 
 ## Latest Analysis
 
-Loaded 76060 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-13 01:13:29
+Loaded 76062 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-13 01:22:15
 
 Incidents by source:
 source
-newsapi           75959
+newsapi           75961
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,6 +24,16 @@ bution.svg)
 
 ## Recent Incidents
 
+### HOMICIDE on 2025-12-13 01:22
+- Location: KQED
+- Description: San Leandro Police Officer Jason Fletcher shot and killed Steven Taylor, 33, in a Walmart in 2020.
+
+
+### OTHER on 2025-12-13 01:18
+- Location: BBC News
+- Description: Prosecutors played dozens of body camera videos and interviewed witnesses from the day of his arrest.
+
+
 ### OTHER on 2025-12-13 01:13
 - Location: PEOPLE
 - Description: Harbaugh hired Sherrone Moore as the team’s tight ends coach in 2018 and he replaced Harbaugh as head coach in 2024
@@ -38,14 +48,4 @@ bution.svg)
 - Location: SoraNews24
 - Description: But now he knows, and knowing is half the battle. We all have certain gaps in our knowledge that are widely known to others. They say even Einstein couldn’t drive a car because he found it too complicated, though in fairness, cars were a lot more complicated …
 
-
-### HOMICIDE on 2025-12-13 00:59
-- Location: CBC News
-- Description: Two men have died after they were found in a southeast Edmonton neighbourhood early Friday morning suffering from what police say they believe were gunshot wounds.
-
-
-### OTHER on 2025-12-13 00:38
-- Location: New York Post
-- Description: The messages, written in pen on the wall of the Bern Dibner Library at 4 MetroTech Center, included “F–k Jews” and “F–k Indians,” according to a photo posted on Instagram by an on-campus Jewish group.
-
-Analysis generated at: Sun Dec 14 01:18:05 UTC 2025
+Analysis generated at: Sun Dec 14 02:07:03 UTC 2025
