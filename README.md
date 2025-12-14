@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Dec 14 06:22:47 UTC 2025
+Last updated: Sun Dec 14 12:28:48 UTC 2025
 
 ## Latest Analysis
 
-Loaded 76085 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-13 06:14:21
+Loaded 76111 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-13 12:28:27
 
 Incidents by source:
 source
-newsapi           75984
+newsapi           76010
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-12-13 06:14
-- Location: Freerepublic.com
-- Description: WARNING: Some readers may find the details in this story provided by police to be disturbing. WILMINGTON, IL — Police say a Manhattan man used a plunger to try to flush a newborn after the mother gave birth in a toilet, more than a year before the baby girl w…
+### OTHER on 2025-12-13 12:28
+- Location: Al Jazeera English
+- Description: US president orders 5,000 Ethiopians to leave in 60 days amid broader push to end protections for over one million.
 
 
-### ASSAULT on 2025-12-13 06:00
-- Location: New Zealand Herald
-- Description: Joan Whincup didn't realise she was battling a heart attack as she walked up a hill.
+### HOMICIDE on 2025-12-13 12:03
+- Location: Fox News
+- Description: How social media transformed legal case coverage, from the 1993 World Trade Center bombing to today's Charlie Kirk murder case with Tyler Robinson.
 
 
-### HOMICIDE on 2025-12-13 05:57
-- Location: Syllad.com
-- Description: Nearly three months after the shocking and deeply emotional loss of Assamese cultural icon Zubeen Garg, the Special Investigation Team (SIT) on Friday carried an aluminium trunk into the court of the Chief Judicial Magistrate — a trunk that, for many in Assam…
+### HOMICIDE on 2025-12-13 12:00
+- Location: NBC News
+- Description: A hearing focused on a defense effort to exclude evidence from Luigi Mangione's state murder trial just completed its second week — and revealed new details about his December 2024 arrest at a Pennsylvania McDonald’s
 
 
-### OTHER on 2025-12-13 05:56
-- Location: ABC News (AU)
-- Description: A delegation of United Nations inspectors have raised the alarm about Australia's detention facilities and a breach of human rights.
+### HOMICIDE on 2025-12-13 12:00
+- Location: New York Post
+- Description: Van Dyke celebrates his monumental 100th birthday on Saturday, Dec. 13.
 
 
-### ASSAULT on 2025-12-13 05:44
-- Location: Breaking NEWS in KENYA for Today Right Now & Kenyan News | TUKO
-- Description: President William Ruto was startled when a rhino charged at him during the Tsavo West Rhino Sanctuary launch, but security quickly intervened to ensure his safety.
+### OTHER on 2025-12-13 11:58
+- Location: The Times of India
+- Description: The UPSC has introduced a 'Centre of Choice' facility for persons with benchmark disabilities, guaranteeing their preferred exam location. This reform addresses issues where popular centres fill up, forcing disabled candidates to travel long distances. The ne…
 
-Analysis generated at: Sun Dec 14 06:22:47 UTC 2025
+Analysis generated at: Sun Dec 14 12:28:47 UTC 2025
