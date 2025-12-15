@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Dec 15 12:35:13 UTC 2025
+Last updated: Mon Dec 15 12:57:14 UTC 2025
 
 ## Latest Analysis
 
-Loaded 76320 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-14 12:31:01
+Loaded 76337 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-14 12:53:40
 
 Incidents by source:
 source
-newsapi           76219
+newsapi           76236
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,47 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-12-14 12:31
-- Location: CBC News
-- Description: Police in Rhode Island say they have a person of interest in custody as they investigate the shooting at Brown University that killed two people and wounded nine others on Saturday.
+### HOMICIDE on 2025-12-14 12:53
+- Location: WSOC Charlotte
+- Description: Police in Rhode Island said early Sunday that they had a person of interest in custody over the shooting at Brown University campus that killed two people and wounded nine others.
 
 
-### SHOOTING on 2025-12-14 12:30
-- Location: The Indian Express
-- Description: Today News Headlines for School Assembly, December 15, 2025: Get important National, International, Sports, Business, and GK current affairs updates curated for students, teachers, and morning assemblies.
+### SHOOTING on 2025-12-14 12:52
+- Location: RTE
+- Description: The Department of Foreign Affairs is "not aware" of any Irish citizens who have been "impacted directly" by the mass shooting on Sydney's Bondi Beach.
 
 
-### HOMICIDE on 2025-12-14 12:30
-- Location: The Irish Times
-- Description: At least twelve  killed and dozens wounded in Sydney gun attack
+### ASSAULT on 2025-12-14 12:52
+- Location: RTE
+- Description: Gardaí have said there will be increased garda patrols at centres and events for the Irish Jewish community following the terrorist attack targeting the Jewish community in Sydney this morning.
 
 
-### HOMICIDE on 2025-12-14 12:28
-- Location: The-sun.com
-- Description: Cops arrest 'person of interest'...
-
- 
- 
- 
- (Third column, 3rd story, link)
-
- 
-
- 
-
- 
- Related stories:UPDATE: MASS SHOOTING AT BROWN...
-TWO DEAD IN PROVIDENCE...
-
- 
-
- 
- 
- Drudge Report Feed needs your support!   Become a Patron
+### SHOOTING on 2025-12-14 12:52
+- Location: Slashdot.org
+- Description: For two Brown University students, school shooting was not their firstNBC News Live updates: Person of interest in custody in Brown University shooting after CNN witnesses police activity at hotelCNN Brown University mass shooting live updates: Person of inte…
 
 
-### OTHER on 2025-12-14 12:28
-- Location: CBS News
-- Description: The following is the transcript of the full interview with Nobel Peace Prize winner María Corina Machado that aired on "Face the Nation with Margaret Brennan" on Dec. 14, 2025.
+### HOMICIDE on 2025-12-14 12:52
+- Location: Slashdot.org
+- Description: Gunmen kill at least 11 people at a Jewish event at Sydney's Bondi BeachNPR At least 11 killed in shooting at Jewish gathering on Australia's Bondi BeachCBS News Police say 2 were arrested after reports of several people shot at Sydney’s Bondi BeachYahoo At l…
 
-Analysis generated at: Mon Dec 15 12:35:13 UTC 2025
+Analysis generated at: Mon Dec 15 12:57:14 UTC 2025
