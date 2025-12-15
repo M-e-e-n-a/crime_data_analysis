@@ -1,10 +1,10 @@
 
-Loaded 76188 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-14 01:54:31
+Loaded 76231 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-14 06:23:00
 
 Incidents by source:
 source
-newsapi           76087
+newsapi           76130
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-12-14 01:54
-- Location: Japan Today
-- Description: A shooter dressed in black killed at least two people and wounded eight others at Brown University on Saturday during final exams on the Ivy League campus, authorities said, and police were searching for the suspect. Officers scattered across the campus and i…
+### OTHER on 2025-12-14 06:23
+- Location: The Star Online
+- Description: SANTIAGO, Dec 14 (Reuters) - Chileans will vote in a runoff presidential election on Sunday that is expected to result in the South American country's sharpest rightward shift since the end of the military dictatorship in 1990. Read full story
 
 
-### HOMICIDE on 2025-12-14 01:45
-- Location: WSB Atlanta
-- Description: South Fulton police says a double shooting Saturday has claimed someone’s life.
+### HOMICIDE on 2025-12-14 06:08
+- Location: Yahoo Entertainment
+- Description: Police in Rhode Island said early Sunday that they had a person of interest in custody after a shooting that rocked the Brown University campus during final ...
 
 
-### OTHER on 2025-12-14 01:25
-- Location: KTVQ Billings News
-- Description: 406 Pride, an independent nonprofit located at the First Congregational Church in Billings, is standing in solidarity with the Mayflower Church after it was vandalized in a hate crime.
+### ROBBERY/THEFT on 2025-12-14 06:00
+- Location: Naturalnews.com
+- Description: An elderly man in Arizona was targeted in a “Gold Bar” government impersonation scam, where a fraudster posing as a U.S. Marshal convinced him to hand over $100,000 in gold coins and attempt to withdraw $180,000 more. These scams, which have caused over $186 …
 
 
-### SHOOTING on 2025-12-14 01:25
-- Location: Mediaite
-- Description: A mother of a Brown University student described the "nightmare" she was living through of having her son text he was hiding in a closet from a gunman on campus
-The post ‘This Is Just a Nightmare’ Mom of Brown University Student Shares Harrowing Story of Son …
+### OTHER on 2025-12-14 06:00
+- Location: Naturalnews.com
+- Description: Homeland Security Secretary Kristi Noem announced the deportation of 2.5 million individuals in the country illegally, a milestone the administration attributes to stringent enforcement policies. The 2.5 million figure includes over 605,000 people deported th…
 
 
-### OTHER on 2025-12-14 01:12
-- Location: The Indian Express
-- Description: According to his brother Mohammad Shakib Alam, Hussain, who also lived partly with his in-laws in Barui village, was returning home when his bicycle broke down near Bhattapar village under Roh police station, forcing him to look for a puncture shop.
+### SHOOTING on 2025-12-14 05:42
+- Location: NBC News
+- Description: First-year Brown University Benjamin DiBella was in the Sciences Library at the Providence college Saturday afternoon when someone yelled that there was an active shooter on campus
 
-Analysis generated at: Mon Dec 15 02:04:29 UTC 2025
+Analysis generated at: Mon Dec 15 06:27:33 UTC 2025
