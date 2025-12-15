@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Dec 15 06:27:33 UTC 2025
+Last updated: Mon Dec 15 12:35:13 UTC 2025
 
 ## Latest Analysis
 
-Loaded 76231 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-14 06:23:00
+Loaded 76320 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-14 12:31:01
 
 Incidents by source:
 source
-newsapi           76130
+newsapi           76219
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,47 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-12-14 06:23
-- Location: The Star Online
-- Description: SANTIAGO, Dec 14 (Reuters) - Chileans will vote in a runoff presidential election on Sunday that is expected to result in the South American country's sharpest rightward shift since the end of the military dictatorship in 1990. Read full story
+### HOMICIDE on 2025-12-14 12:31
+- Location: CBC News
+- Description: Police in Rhode Island say they have a person of interest in custody as they investigate the shooting at Brown University that killed two people and wounded nine others on Saturday.
 
 
-### HOMICIDE on 2025-12-14 06:08
-- Location: Yahoo Entertainment
-- Description: Police in Rhode Island said early Sunday that they had a person of interest in custody after a shooting that rocked the Brown University campus during final ...
+### SHOOTING on 2025-12-14 12:30
+- Location: The Indian Express
+- Description: Today News Headlines for School Assembly, December 15, 2025: Get important National, International, Sports, Business, and GK current affairs updates curated for students, teachers, and morning assemblies.
 
 
-### ROBBERY/THEFT on 2025-12-14 06:00
-- Location: Naturalnews.com
-- Description: An elderly man in Arizona was targeted in a “Gold Bar” government impersonation scam, where a fraudster posing as a U.S. Marshal convinced him to hand over $100,000 in gold coins and attempt to withdraw $180,000 more. These scams, which have caused over $186 …
+### HOMICIDE on 2025-12-14 12:30
+- Location: The Irish Times
+- Description: At least twelve  killed and dozens wounded in Sydney gun attack
 
 
-### OTHER on 2025-12-14 06:00
-- Location: Naturalnews.com
-- Description: Homeland Security Secretary Kristi Noem announced the deportation of 2.5 million individuals in the country illegally, a milestone the administration attributes to stringent enforcement policies. The 2.5 million figure includes over 605,000 people deported th…
+### HOMICIDE on 2025-12-14 12:28
+- Location: The-sun.com
+- Description: Cops arrest 'person of interest'...
+
+ 
+ 
+ 
+ (Third column, 3rd story, link)
+
+ 
+
+ 
+
+ 
+ Related stories:UPDATE: MASS SHOOTING AT BROWN...
+TWO DEAD IN PROVIDENCE...
+
+ 
+
+ 
+ 
+ Drudge Report Feed needs your support!   Become a Patron
 
 
-### SHOOTING on 2025-12-14 05:42
-- Location: NBC News
-- Description: First-year Brown University Benjamin DiBella was in the Sciences Library at the Providence college Saturday afternoon when someone yelled that there was an active shooter on campus
+### OTHER on 2025-12-14 12:28
+- Location: CBS News
+- Description: The following is the transcript of the full interview with Nobel Peace Prize winner María Corina Machado that aired on "Face the Nation with Margaret Brennan" on Dec. 14, 2025.
 
-Analysis generated at: Mon Dec 15 06:27:33 UTC 2025
+Analysis generated at: Mon Dec 15 12:35:13 UTC 2025
