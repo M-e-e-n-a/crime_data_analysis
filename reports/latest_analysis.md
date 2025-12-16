@@ -1,10 +1,10 @@
 
-Loaded 76459 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-15 01:12:38
+Loaded 76480 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-15 02:00:00
 
 Incidents by source:
 source
-newsapi           76358
+newsapi           76379
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,30 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-12-15 01:12
+### SHOOTING on 2025-12-15 02:00
+- Location: New Zealand Herald
+- Description: A woman sought shelter in his cool room and wouldn't come out, he said.
+
+
+### OTHER on 2025-12-15 01:55
+- Location: KOMO News
+- Description: Deputies in Snohomish County are investigating reports of looting in a flood-stricken area following the wideapread chaos and destruction casued by the week's a
+
+
+### HOMICIDE on 2025-12-15 01:52
 - Location: Slashdot.org
-- Description: Hanukkah security ramped up around the world after Bondi shootingsReuters N.Y., L.A. police bolster security during Hanukkah after Sydney attackAxios Australia terror attack: 16 dead, including gunman, after father-son duo opens fire on Jewish communityFox Ne…
+- Description: Police arrest person of interest in Brown University shooting that killed 2, wounded 9Los Angeles Times Wisconsin man identified as person of interest in connection with deadly Brown University shootingCNN What to know about Benjamin Erickson, the person of i…
 
 
-### HOMICIDE on 2025-12-15 01:12
-- Location: BusinessLine
-- Description: Sixteen killed in a targeted antisemitic shooting at Sydney’s Bondi Beach. Police say the attackers were a father and son. Australia mourns.
+### SHOOTING on 2025-12-15 01:51
+- Location: Freerepublic.com
+- Description: My previous immediate Substack column was titled, “Holiday Warnings.” However, unfortunately, we’ve graduated to “Holiday Terror.” This weekend we received chilling news about two mass terror attacks. The first was a shooting on Brown University’s campus and …
 
 
-### HOMICIDE on 2025-12-15 01:10
-- Location: Israelnationalnews.com
-- Description: CNN reports that authorities detained 24-year-old Benjamin Erickson after the Brown University shooting that killed two and injured nine. FBI searched his family’s Wisconsin home.
+### SHOOTING on 2025-12-15 01:51
+- Location: Freerepublic.com
+- Description: My previous immediate Substack column was titled, “Holiday Warnings.” However, unfortunately, we’ve graduated to “Holiday Terror.” This weekend we received chilling news about two mass terror attacks. The first was a shooting on Brown University’s campus and …
 
-
-### ASSAULT on 2025-12-15 01:09
-- Location: ABC News (AU)
-- Description: NSW Premier Chris Minns has urged community members wanting to help the Jewish community following the Bondi terror attack to donate blood.
-
-
-### OTHER on 2025-12-15 01:09
-- Location: The Punch
-- Description: PUNCH newspaper cements its industry leadership, winning a historic 20 awards at the 33rd Nigeria Media Merit Award (NMMA), including Newspaper of the Year
-
-Read More: https://punchng.com/punch-affirms-no-1-position-with-20-nmma-awards/
-
-Analysis generated at: Tue Dec 16 01:14:14 UTC 2025
+Analysis generated at: Tue Dec 16 02:00:54 UTC 2025
