@@ -1,10 +1,10 @@
 
-Loaded 76572 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-15 06:22:08
+Loaded 76651 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-15 12:33:14
 
 Incidents by source:
 source
-newsapi           76471
+newsapi           76550
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,31 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2025-12-15 06:22
-- Location: New York Post
-- Description: "Together, he and his wife lived lives defined by purpose. They will be remembered for the values they championed and the countless people they inspired."
+### HOMICIDE on 2025-12-15 12:33
+- Location: The Hollywood Gossip
+- Description: Reading Time: 2 minutesTwo deaths at the home of Hollywood legend Rob Reiner are being investigated as homicides.
+Rob Reiner and Wife Found Dead With Throats Slashed; Son Identified as Possible Suspect: … was originally published on The Hollywood Gossip.
 
 
-### SHOOTING on 2025-12-15 06:12
-- Location: BBC News
-- Description: Authorities say two rabbis, a Holocaust survivor and a 10-year-old girl were among the victims.
+### HOMICIDE on 2025-12-15 12:32
+- Location: Mediaite
+- Description: Cook’s identity as a victim was revealed during a service at the Cathedral Church of the Advent in Birmingham, Alabama, where she was a parishioner.
+The post Campus Republican Club VP Ella Cook Named as Student Killed in Brown Shooting first appeared on Media…
 
 
-### SHOOTING on 2025-12-15 06:08
-- Location: The Star Online
-- Description: SHAH ALAM: Police are still waiting for a report from the Malaysian Communications and Multimedia Commission (MCMC) on the social media profile of an individual who allegedly posted a threat against a lawyer representing the families of three men involved in …
+### HOMICIDE on 2025-12-15 12:32
+- Location: Freethoughtblogs.com
+- Description: This time, at Brown University. It’s deja vu all over again. For some of the students, this was their second school shooting. As the deadly attack unfolded at Brown University, leaving students hiding under desks and reeling as gunshots rang out, the scene wa…
 
 
-### HOMICIDE on 2025-12-15 06:06
-- Location: Japan Today
-- Description: The man held as a &quot;person of interest&quot; in the Brown University shooting that left two students dead and nine injured will be released from custody, authorities said on Sunday night. Providence Police Chief Oscar Perez said earlier at a ‌midday news …
+### OTHER on 2025-12-15 12:31
+- Location: Variety
+- Description: Göteborg’s 20th edition of its TV Drama Vision confab looks like it could be one of the powerful ever with some of the biggest Nordic and European drama creators from 13 countries set to pitch 15 projects at the Series in Development lineup. Headlining the sl…
 
 
-### OTHER on 2025-12-15 06:02
-- Location: Insurance Journal
-- Description: Allegations that some roofers deliberately damage roofs in order to qualify properties for insurance claims have long been a concern for insurers. This fall, the North Carolina Department of Insurance and North Carolina Farm Bureau decided to do something abo…
+### SHOOTING on 2025-12-15 12:30
+- Location: Poynter
+- Description: This is The Poynter Report, your daily guide to the news about news. Subscribe to get it in your inbox every weekday. The horrors continue. This past weekend was marred […]
+The post How journalists covered a weekend of mass shootings across two continents app…
 
-Analysis generated at: Tue Dec 16 06:25:37 UTC 2025
+Analysis generated at: Tue Dec 16 12:33:41 UTC 2025
