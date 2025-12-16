@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Dec 16 12:55:38 UTC 2025
+Last updated: Tue Dec 16 18:24:31 UTC 2025
 
 ## Latest Analysis
 
-Loaded 76658 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-15 12:53:22
+Loaded 76753 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-15 18:24:07
 
 Incidents by source:
 source
-newsapi           76557
+newsapi           76652
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,31 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2025-12-15 12:53
-- Location: Freerepublic.com
-- Description: An obvious career shoplifter strolled into a Wisconsin Walmart she had robbed days prior, to find the store crawling with more than a dozen cops during an annual holiday event. Sophia Malak, 24, was quickly arrested by the officers during the yearly “Shop wit…
+### HOMICIDE on 2025-12-15 18:24
+- Location: CBS News
+- Description: Sheina Gutnick's dad came to Australia to escape persecution for his Jewish faith, and his murder in Bondi has left her feeling "betrayed by the government."
 
 
-### HOMICIDE on 2025-12-15 12:49
-- Location: New York Post
-- Description: Australia vowed stricter gun laws on Monday as it began mourning victims of its worst mass shooting in almost 30 years, in which police accused a father-and-son duo of killing 15 people at a Jewish celebration at Sydney's famed Bondi Beach.
+### OTHER on 2025-12-15 18:24
+- Location: Yahoo Entertainment
+- Description: The home of Tennessee Titans defensive tackle Jeffery Simmons was burglarized while he was on the road in San Francisco, the team said Monday. Simmons posted several Instagram stories that implied he returned from the Titans’ 37-24 road loss against the 49ers…
 
 
-### HOMICIDE on 2025-12-15 12:48
-- Location: Catholicnewsagency.com
-- Description: Pope Leo XIV gives his apostolic blessing at the end of the general audience in St. Peter’s Square on Nov. 12, 2025. / Daniel Ibanez/CNA
-
-Vatican City, Dec 15, 2025 / 07:48 am (CNA).
-Pope Leo XIV on Monday condemned a deadly attack on the Jewish community in …
+### HOMICIDE on 2025-12-15 18:23
+- Location: PennLive
+- Description: The president shared a statement on the actor's death that many found disturbing.
 
 
-### HOMICIDE on 2025-12-15 12:46
-- Location: CBC News
-- Description: As Hollywood mourns the death of film and television legend Rob Reiner, U.S. President Donald Trump blasted the actor in a social media post that observers say was remarkably uncouth — even for him.
+### OTHER on 2025-12-15 18:23
+- Location: WSB Atlanta
+- Description: A woman who was abducted as a child more than 40 years ago is finally back with her family and the person accused of taking her has been charged.
 
 
-### OTHER on 2025-12-15 12:45
-- Location: Whyevolutionistrue.com
-- Description: Welcome to Monday, December 15, 2025, and it’s Cat Herder’s Day. This gives me an excuse to show the best television commercial ever made (it’s for Electronic Data Systems), one that has its own Wikipedia page, which includes this: Using a “giant Western meta…
+### ROBBERY/THEFT on 2025-12-15 18:21
+- Location: WREG NewsChannel 3
+- Description: MEMPHIS, Tenn. — Two employees were robbed and carjacked at the One and Only BBQ restaurant while they were opening the store in Cordova, Monday morning...
 
-Analysis generated at: Tue Dec 16 12:55:38 UTC 2025
+Analysis generated at: Tue Dec 16 18:24:31 UTC 2025
