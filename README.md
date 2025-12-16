@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Dec 15 18:24:19 UTC 2025
+Last updated: Tue Dec 16 01:14:14 UTC 2025
 
 ## Latest Analysis
 
-Loaded 76433 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-14 18:08:32
+Loaded 76459 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-15 01:12:38
 
 Incidents by source:
 source
-newsapi           76332
+newsapi           76358
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-12-14 18:08
-- Location: The Denver Post
-- Description: Ella Cromwell was driving south on Kipling Street at more than 80 mph in a 40 mph zone just before the Nov. 30 crash at W. Sixth Avenue Frontage Road, Lakewood police said.
+### HOMICIDE on 2025-12-15 01:12
+- Location: Slashdot.org
+- Description: Hanukkah security ramped up around the world after Bondi shootingsReuters N.Y., L.A. police bolster security during Hanukkah after Sydney attackAxios Australia terror attack: 16 dead, including gunman, after father-son duo opens fire on Jewish communityFox Ne…
 
 
-### ROBBERY/THEFT on 2025-12-14 18:02
-- Location: The Sydney Morning Herald
-- Description: Westpac has conducted an internal investigation into fraud in its business banking division that staff say has been driven by a toxic, sales-focused culture.
+### HOMICIDE on 2025-12-15 01:12
+- Location: BusinessLine
+- Description: Sixteen killed in a targeted antisemitic shooting at Sydney’s Bondi Beach. Police say the attackers were a father and son. Australia mourns.
 
 
-### SHOOTING on 2025-12-14 18:01
-- Location: The Times of India
-- Description: A civilian is being celebrated as a hero in Sydney. He bravely tackled and disarmed an armed attacker at a Jewish holiday event. This courageous act potentially saved many lives during the incident. The bystander's quick thinking is widely praised. Authoritie…
+### HOMICIDE on 2025-12-15 01:10
+- Location: Israelnationalnews.com
+- Description: CNN reports that authorities detained 24-year-old Benjamin Erickson after the Brown University shooting that killed two and injured nine. FBI searched his family’s Wisconsin home.
 
 
-### HOMICIDE on 2025-12-14 18:00
-- Location: Salon
-- Description: Providence police say a person of interest is in custody as authorities investigate the deadly campus attack
+### ASSAULT on 2025-12-15 01:09
+- Location: ABC News (AU)
+- Description: NSW Premier Chris Minns has urged community members wanting to help the Jewish community following the Bondi terror attack to donate blood.
 
 
-### ROBBERY/THEFT on 2025-12-14 17:56
-- Location: New York Post
-- Description: Police stormed a Coventry, RI, hotel around 3:45 a.m to take the individual into custody after an 11-hour manhunt.
+### OTHER on 2025-12-15 01:09
+- Location: The Punch
+- Description: PUNCH newspaper cements its industry leadership, winning a historic 20 awards at the 33rd Nigeria Media Merit Award (NMMA), including Newspaper of the Year
 
-Analysis generated at: Mon Dec 15 18:24:19 UTC 2025
+Read More: https://punchng.com/punch-affirms-no-1-position-with-20-nmma-awards/
+
+Analysis generated at: Tue Dec 16 01:14:14 UTC 2025
