@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Dec 17 01:56:19 UTC 2025
+Last updated: Wed Dec 17 06:25:08 UTC 2025
 
 ## Latest Analysis
 
-Loaded 76818 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-16 01:55:33
+Loaded 76892 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-16 06:23:13
 
 Incidents by source:
 source
-newsapi           76717
+newsapi           76791
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-12-16 01:55
-- Location: Ndtvprofit.com
-- Description: President Donald Trump stood by comments ridiculing murdered Hollywood impresario Rob Reiner and his wife on Monday, even after the remarks prompted criticism from both Democrats and Republicans.
+### HOMICIDE on 2025-12-16 06:23
+- Location: Protothema.gr
+- Description: Rob Reiner and his wife had been worried about their son’s mental health in recent months, with friends saying he had relapsed into drug use
+The post Rob Reiner: The moment of his son’s arrest and the unknown argument one day before the murder appeared first …
 
 
-### OTHER on 2025-12-16 01:50
-- Location: The Times of India
-- Description: India News: New Delhi: Noting that the social evil of dowry still prevails showing the ineffectiveness of the anti-dowry laws and at the same time the law is bein.
+### HOMICIDE on 2025-12-16 06:22
+- Location: BBC News
+- Description: Australia's PM says the attack - in which 15 people were killed - appears to have been "motivated by Islamic State ideology".
 
 
-### HOMICIDE on 2025-12-16 01:42
-- Location: NBC News
-- Description: Investigators knocked on doors, combed through bushes and released more video and photos as they hunt for a masked gunman who opened fire at Brown University over the weekend, killing two students and wounding nine others.“It’s all hands on deck,” Providence …
+### ROBBERY/THEFT on 2025-12-16 06:20
+- Location: Hollywood Reporter
+- Description: "That corroded brain is in charge of our lives. If you voted for that, it's OK to reconsider," Kimmel told his late-night audience on Monday.
 
 
-### HOMICIDE on 2025-12-16 01:35
-- Location: International Business Times
-- Description: Rob Reiner and his wife were tragically killed by their own son, Nick Reiner. Now, multiple reports are unveiling the possible motive behind the murder.
+### HOMICIDE on 2025-12-16 06:17
+- Location: Al Jazeera English
+- Description: Investigators say the deadly Bondi Beach attack is being treated as 'terrorism' after evidence of ISIL influence found.
 
 
-### OTHER on 2025-12-16 01:35
-- Location: NBC News
-- Description: For the past couple of years, leaders in Australia’s Jewish community have been seeing a rise in antisemitism and urging the country’s leaders to act.
+### SHOOTING on 2025-12-16 06:13
+- Location: ABC News
+- Description: The effort to find a man who walked onto Brown University’s campus and shot nearly a dozen students in a crowded lecture hall has raised serious questions about the school’s security systems and the urgency of the investigation itself
 
-Analysis generated at: Wed Dec 17 01:56:19 UTC 2025
+Analysis generated at: Wed Dec 17 06:25:08 UTC 2025
