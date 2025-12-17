@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Dec 17 12:55:39 UTC 2025
+Last updated: Wed Dec 17 18:26:11 UTC 2025
 
 ## Latest Analysis
 
-Loaded 76983 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-16 12:48:18
+Loaded 77075 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-16 18:23:08
 
 Incidents by source:
 source
-newsapi           76882
+newsapi           76974
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-12-16 12:48
-- Location: TODAY
-- Description: As the manhunt intensifies for the gunman responsible for the deadly mass shooting at Brown University, police have released new footage of a “person of interest” walking near the campus just two hours before the attack. It comes as the FBI is announcing a $5…
+### SHOOTING on 2025-12-16 18:23
+- Location: Boston Herald
+- Description: It wasn’t clear if the shots hit anything.
 
 
-### OTHER on 2025-12-16 12:47
-- Location: Boredpanda.com
-- Description: From racist tirades at sporting events to explosive meltdowns on planes, parking lots, and public parks, the term “Karen” has become shorthand for entitlement caught on camera.
+### HOMICIDE on 2025-12-16 18:20
+- Location: The Punch
+- Description: The FBI is leading a major manhunt for the suspect in the Brown University shooting that killed two students. A $50,000 reward is being offered.
+
+Read More: https://punchng.com/fbi-widens-net-in-hunt-for-brown-university-shooter/
 
 
-### OTHER on 2025-12-16 12:45
-- Location: Whyevolutionistrue.com
-- Description: Welcome to The Cruelest Day: Tuesday, December 16, 2025.  It’s the second day of Hanukkah, and there are only nine shopping days until Koynezaa. It’s also National Chocolate Covered Anything Day. Here are chocolate-covered scorpions from Thailand at five buck…
+### HOMICIDE on 2025-12-16 18:20
+- Location: Forbes
+- Description: The iconic actor and director and his wife were found dead in their Brentwood, Los Angeles home on Sunday. Police are interviewing a family member.
 
 
-### SHOOTING on 2025-12-16 12:45
-- Location: Freerepublic.com
-- Description: What used to be online threats, harassment, and social-media trolling has started to bleed (literally) into the real world. Conservatives are being swatted. Homes are being shot up. Public figures are facing assassinations. Events are being shut down by threa…
+### HOMICIDE on 2025-12-16 18:19
+- Location: Us Weekly
+- Description: Nick Reiner failed to appear in court after he was arrested following the stabbing deaths of his parents, Rob Reiner and Michele Singer Reiner. Nick’s attorney Alan Jackson told reporters on Tuesday, December 16, that his client has yet to be “medically clear…
 
 
-### HOMICIDE on 2025-12-16 12:43
-- Location: ABC News
-- Description: The alleged father and son gunmen who killed at least 15 people in a mass shooting at Australia's Bondi Beach may have been inspired by the ISIS terrorist organization.
+### HOMICIDE on 2025-12-16 18:18
+- Location: The Daily Caller
+- Description: Nick Reiner - under arrest for the murders of his parents, Rob and Michele Reiner - reportedly left behind a trail of blood after the gruesome murder.
 
-Analysis generated at: Wed Dec 17 12:55:39 UTC 2025
+Analysis generated at: Wed Dec 17 18:26:11 UTC 2025
