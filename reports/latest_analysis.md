@@ -1,10 +1,10 @@
 
-Loaded 76974 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-16 12:32:12
+Loaded 76983 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-16 12:48:18
 
 Incidents by source:
 source
-newsapi           76873
+newsapi           76882
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-12-16 12:32
-- Location: NPR
-- Description: Rob Reiner and Michele Singer Reiner's son Nick has been arrested in connection with their deaths. And, authorities have released new images to help identify the gunman in the Brown University shooting.
+### HOMICIDE on 2025-12-16 12:48
+- Location: TODAY
+- Description: As the manhunt intensifies for the gunman responsible for the deadly mass shooting at Brown University, police have released new footage of a “person of interest” walking near the campus just two hours before the attack. It comes as the FBI is announcing a $5…
 
 
-### OTHER on 2025-12-16 12:30
+### OTHER on 2025-12-16 12:47
+- Location: Boredpanda.com
+- Description: From racist tirades at sporting events to explosive meltdowns on planes, parking lots, and public parks, the term “Karen” has become shorthand for entitlement caught on camera.
+
+
+### OTHER on 2025-12-16 12:45
+- Location: Whyevolutionistrue.com
+- Description: Welcome to The Cruelest Day: Tuesday, December 16, 2025.  It’s the second day of Hanukkah, and there are only nine shopping days until Koynezaa. It’s also National Chocolate Covered Anything Day. Here are chocolate-covered scorpions from Thailand at five buck…
+
+
+### SHOOTING on 2025-12-16 12:45
+- Location: Freerepublic.com
+- Description: What used to be online threats, harassment, and social-media trolling has started to bleed (literally) into the real world. Conservatives are being swatted. Homes are being shot up. Public figures are facing assassinations. Events are being shut down by threa…
+
+
+### HOMICIDE on 2025-12-16 12:43
 - Location: ABC News
-- Description: ABC News' Danny New has the inspiring story of Gus, a dog born half the size of all his siblings and proof that the best things come to those who wait.
+- Description: The alleged father and son gunmen who killed at least 15 people in a mass shooting at Australia's Bondi Beach may have been inspired by the ISIS terrorist organization.
 
-
-### OTHER on 2025-12-16 12:30
-- Location: Mother Jones
-- Description: On a dark November evening, I find myself outside one of the units at a garden-style apartment complex in Memphis, its parking lot alight in flashing blues and reds. The police are here—about a dozen cars—responding to reports of a violent crime. I’m accompan…
-
-
-### HOMICIDE on 2025-12-16 12:29
-- Location: New York Post
-- Description: Crystal, 77, and his wife then rushed over to the home, where they viewed the grisly murder scene and bodies of their slain friends, the source said.
-
-
-### HOMICIDE on 2025-12-16 12:23
-- Location: NBC News
-- Description: Dramatic new footage has emerged showing an elderly couple who were killed in the Bondi Beach shooting attempt to stop and disarm one of the gunmen.
-
-Analysis generated at: Wed Dec 17 12:33:19 UTC 2025
+Analysis generated at: Wed Dec 17 12:55:39 UTC 2025
