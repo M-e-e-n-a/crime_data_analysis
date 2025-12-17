@@ -1,10 +1,10 @@
 
-Loaded 76794 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-16 01:07:46
+Loaded 76818 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-16 01:55:33
 
 Incidents by source:
 source
-newsapi           76693
+newsapi           76717
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-12-16 01:07
-- Location: The Sydney Morning Herald
-- Description: Elon Musk’s chatbot said Edward Crabtree – a fictional 47-year-old IT professional – was the hero who tackled one of the attackers and seized his weapon.
+### HOMICIDE on 2025-12-16 01:55
+- Location: Ndtvprofit.com
+- Description: President Donald Trump stood by comments ridiculing murdered Hollywood impresario Rob Reiner and his wife on Monday, even after the remarks prompted criticism from both Democrats and Republicans.
 
 
-### ROBBERY/THEFT on 2025-12-16 01:06
-- Location: Fox News
-- Description: Federal investigation reveals D.C. police artificially lowered crime statistics through widespread misclassification of reports, U.S. Attorney finds.
+### OTHER on 2025-12-16 01:50
+- Location: The Times of India
+- Description: India News: New Delhi: Noting that the social evil of dowry still prevails showing the ineffectiveness of the anti-dowry laws and at the same time the law is bein.
 
 
-### HOMICIDE on 2025-12-16 01:04
-- Location: Al Jazeera English
-- Description: Reiner and his wife, Michele, were found dead at their home, a discovery that quickly led to widespread reactions.
+### HOMICIDE on 2025-12-16 01:42
+- Location: NBC News
+- Description: Investigators knocked on doors, combed through bushes and released more video and photos as they hunt for a masked gunman who opened fire at Brown University over the weekend, killing two students and wounding nine others.“It’s all hands on deck,” Providence …
 
 
-### SHOOTING on 2025-12-16 01:04
-- Location: Boston Herald
-- Description: Australian leaders promised on Monday to immediately overhaul already-tough gun control laws after a mass shooting targeted a Hanukkah celebration on Sydney's Bondi Beach.
+### HOMICIDE on 2025-12-16 01:35
+- Location: International Business Times
+- Description: Rob Reiner and his wife were tragically killed by their own son, Nick Reiner. Now, multiple reports are unveiling the possible motive behind the murder.
 
 
-### SHOOTING on 2025-12-16 00:58
-- Location: HuffPost
-- Description: Authorities hope the images can help spur new tips as they try to track down a suspect.
+### OTHER on 2025-12-16 01:35
+- Location: NBC News
+- Description: For the past couple of years, leaders in Australia’s Jewish community have been seeing a rise in antisemitism and urging the country’s leaders to act.
 
-Analysis generated at: Wed Dec 17 01:08:21 UTC 2025
+Analysis generated at: Wed Dec 17 01:56:19 UTC 2025
