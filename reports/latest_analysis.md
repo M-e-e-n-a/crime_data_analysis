@@ -1,10 +1,10 @@
 
-Loaded 76892 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-16 06:23:13
+Loaded 76974 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-16 12:32:12
 
 Incidents by source:
 source
-newsapi           76791
+newsapi           76873
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-12-16 06:23
-- Location: Protothema.gr
-- Description: Rob Reiner and his wife had been worried about their son’s mental health in recent months, with friends saying he had relapsed into drug use
-The post Rob Reiner: The moment of his son’s arrest and the unknown argument one day before the murder appeared first …
+### HOMICIDE on 2025-12-16 12:32
+- Location: NPR
+- Description: Rob Reiner and Michele Singer Reiner's son Nick has been arrested in connection with their deaths. And, authorities have released new images to help identify the gunman in the Brown University shooting.
 
 
-### HOMICIDE on 2025-12-16 06:22
-- Location: BBC News
-- Description: Australia's PM says the attack - in which 15 people were killed - appears to have been "motivated by Islamic State ideology".
-
-
-### ROBBERY/THEFT on 2025-12-16 06:20
-- Location: Hollywood Reporter
-- Description: "That corroded brain is in charge of our lives. If you voted for that, it's OK to reconsider," Kimmel told his late-night audience on Monday.
-
-
-### HOMICIDE on 2025-12-16 06:17
-- Location: Al Jazeera English
-- Description: Investigators say the deadly Bondi Beach attack is being treated as 'terrorism' after evidence of ISIL influence found.
-
-
-### SHOOTING on 2025-12-16 06:13
+### OTHER on 2025-12-16 12:30
 - Location: ABC News
-- Description: The effort to find a man who walked onto Brown University’s campus and shot nearly a dozen students in a crowded lecture hall has raised serious questions about the school’s security systems and the urgency of the investigation itself
+- Description: ABC News' Danny New has the inspiring story of Gus, a dog born half the size of all his siblings and proof that the best things come to those who wait.
 
-Analysis generated at: Wed Dec 17 06:25:08 UTC 2025
+
+### OTHER on 2025-12-16 12:30
+- Location: Mother Jones
+- Description: On a dark November evening, I find myself outside one of the units at a garden-style apartment complex in Memphis, its parking lot alight in flashing blues and reds. The police are here—about a dozen cars—responding to reports of a violent crime. I’m accompan…
+
+
+### HOMICIDE on 2025-12-16 12:29
+- Location: New York Post
+- Description: Crystal, 77, and his wife then rushed over to the home, where they viewed the grisly murder scene and bodies of their slain friends, the source said.
+
+
+### HOMICIDE on 2025-12-16 12:23
+- Location: NBC News
+- Description: Dramatic new footage has emerged showing an elderly couple who were killed in the Bondi Beach shooting attempt to stop and disarm one of the gunmen.
+
+Analysis generated at: Wed Dec 17 12:33:19 UTC 2025
