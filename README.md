@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Dec 16 18:24:31 UTC 2025
+Last updated: Wed Dec 17 01:08:21 UTC 2025
 
 ## Latest Analysis
 
-Loaded 76753 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-15 18:24:07
+Loaded 76794 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-16 01:07:46
 
 Incidents by source:
 source
-newsapi           76652
+newsapi           76693
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-12-15 18:24
-- Location: CBS News
-- Description: Sheina Gutnick's dad came to Australia to escape persecution for his Jewish faith, and his murder in Bondi has left her feeling "betrayed by the government."
+### SHOOTING on 2025-12-16 01:07
+- Location: The Sydney Morning Herald
+- Description: Elon Musk’s chatbot said Edward Crabtree – a fictional 47-year-old IT professional – was the hero who tackled one of the attackers and seized his weapon.
 
 
-### OTHER on 2025-12-15 18:24
-- Location: Yahoo Entertainment
-- Description: The home of Tennessee Titans defensive tackle Jeffery Simmons was burglarized while he was on the road in San Francisco, the team said Monday. Simmons posted several Instagram stories that implied he returned from the Titans’ 37-24 road loss against the 49ers…
+### ROBBERY/THEFT on 2025-12-16 01:06
+- Location: Fox News
+- Description: Federal investigation reveals D.C. police artificially lowered crime statistics through widespread misclassification of reports, U.S. Attorney finds.
 
 
-### HOMICIDE on 2025-12-15 18:23
-- Location: PennLive
-- Description: The president shared a statement on the actor's death that many found disturbing.
+### HOMICIDE on 2025-12-16 01:04
+- Location: Al Jazeera English
+- Description: Reiner and his wife, Michele, were found dead at their home, a discovery that quickly led to widespread reactions.
 
 
-### OTHER on 2025-12-15 18:23
-- Location: WSB Atlanta
-- Description: A woman who was abducted as a child more than 40 years ago is finally back with her family and the person accused of taking her has been charged.
+### SHOOTING on 2025-12-16 01:04
+- Location: Boston Herald
+- Description: Australian leaders promised on Monday to immediately overhaul already-tough gun control laws after a mass shooting targeted a Hanukkah celebration on Sydney's Bondi Beach.
 
 
-### ROBBERY/THEFT on 2025-12-15 18:21
-- Location: WREG NewsChannel 3
-- Description: MEMPHIS, Tenn. — Two employees were robbed and carjacked at the One and Only BBQ restaurant while they were opening the store in Cordova, Monday morning...
+### SHOOTING on 2025-12-16 00:58
+- Location: HuffPost
+- Description: Authorities hope the images can help spur new tips as they try to track down a suspect.
 
-Analysis generated at: Tue Dec 16 18:24:31 UTC 2025
+Analysis generated at: Wed Dec 17 01:08:21 UTC 2025
