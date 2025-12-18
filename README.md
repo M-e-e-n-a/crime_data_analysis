@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Dec 18 01:57:01 UTC 2025
+Last updated: Thu Dec 18 06:25:00 UTC 2025
 
 ## Latest Analysis
 
-Loaded 77123 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-17 01:53:24
+Loaded 77201 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-17 06:20:00
 
 Incidents by source:
 source
-newsapi           77022
+newsapi           77100
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,33 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-12-17 01:53
-- Location: Fox News
-- Description: The Brown University building where two students were killed had no surveillance cameras, even as the school president’s home is equipped with security monitoring.
+### HOMICIDE on 2025-12-17 06:20
+- Location: Independent.ie
+- Description: A man has been charged over the Bondi terrorist attack that killed 15 people in Sydney.
 
 
-### ROBBERY/THEFT on 2025-12-17 01:44
-- Location: The Times of India
-- Description: Science News: To treat their pain, anxiety and sleep problems, millions of Americans turn to cannabis, which is now legal in 40 states for medical use. But a new re.
+### HOMICIDE on 2025-12-17 06:19
+- Location: The Star Online
+- Description: SYDNEY, Dec 17 (Reuters) - After Australia's deadliest mass shooting in 1996, the country rushed in some of the world's toughest gun laws, including mandatory licensing and background checks, as well as registration of every firearm. Read full story
 
 
-### HOMICIDE on 2025-12-17 01:38
-- Location: The Times of India
-- Description: US News: The night before Rob Reiner and his wife, Michele, were found dead, their son, Nick Reiner, attended a holiday party with his father at the home of Co.
-
-
-### ASSAULT on 2025-12-17 01:37
-- Location: The Punch
-- Description: A human rights group petitions Enugu police after a man was allegedly threatened and nearly run over at a road block set up for a birthday party.
-
-Read More: https://punchng.com/rights-group-petitions-police-over-birthday-party-road-block-attack/
-
-
-### OTHER on 2025-12-17 01:37
+### SHOOTING on 2025-12-17 06:16
 - Location: DW (English)
-- Description: The Trump administration has hit 19 nations plus the Palestinian Authority with new travel restrictions. This doubles the number of countries with limits on who can travel and emigrate to the United States. What you need to know:
+- Description: The alleged gunman who survived a shootout with police, is charged with terrorism and additional offenses in connection with the attack that claimed 15 lives. Police in Australia said Tuesday they charged the surviving suspected gunman who opened fire on a Je…
 
 
-Nationals from Syria, Burki…
+### OTHER on 2025-12-17 06:13
+- Location: BBC News
+- Description: Bipin Khanal and Leonita Metaj were among those who called on the Met to stop sharing knife imagery on social media.
 
-Analysis generated at: Thu Dec 18 01:57:01 UTC 2025
+
+### HOMICIDE on 2025-12-17 06:13
+- Location: Us Weekly
+- Description: Before Alan Jackson became Nick Reiner’s lawyer, the high-profile Texan attorney spoke publicly about his admiration for Rob Reiner’s work. Jackson, who is representing Nick, 32, after he was arrested and booked on murder charges following the death of his pa…
+
+Analysis generated at: Thu Dec 18 06:25:00 UTC 2025
