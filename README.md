@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Dec 18 12:53:42 UTC 2025
+Last updated: Thu Dec 18 18:24:08 UTC 2025
 
 ## Latest Analysis
 
-Loaded 77292 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-17 12:53:20
+Loaded 77387 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-17 18:21:11
 
 Incidents by source:
 source
-newsapi           77191
+newsapi           77286
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-12-17 12:53
+### HOMICIDE on 2025-12-17 18:21
+- Location: New York Post
+- Description: The Providence Police Department has widened its search to include a person who was "in proximity" to the at-large Brown University gunman who murdered two students and wounded seven others on Saturday.
+
+
+### HOMICIDE on 2025-12-17 18:18
 - Location: International Business Times
-- Description: Critics slam FBI Director Kash Patel for chasing publicity as a Brown University shooting suspect remains at large.
+- Description: Donald Trump's reaction to the deaths of filmmaker Rob Reiner and his wife has sparked outrage and renewed concern, with commentator Michael Wolff claiming senior White House aides are privately questioning the president's mental stability.
 
 
-### ASSAULT on 2025-12-17 12:52
-- Location: International Business Times
-- Description: In a post on social media, GOP Rep. Randy Fine called for the U.S. government to impose a travel ban on Muslims, suggesting that diversity around the world has "become suicidal."
+### HOMICIDE on 2025-12-17 18:16
+- Location: CBC News
+- Description: Twenty-seven years after a deadly Christmas Day crash in Florida, a longtime fugitive in Toronto has signalled he will not fight extradition to face manslaughter charges. A CBC News investigation this year revealed Patrick Lutts Jr. lived openly in the city, …
 
 
-### OTHER on 2025-12-17 12:49
-- Location: RTE
-- Description: A long-running fraud trial arising from the sale of the Northern Ireland loan book concluded for the Christmas break today.
+### OTHER on 2025-12-17 18:15
+- Location: ComicBook.com
+- Description: If you thought that Sons of Anarchy creator Kurt Sutter was done with TV, think again. Reports are out that Sutter is developing a “period hour-long series” for MGM+, which will be a “Noir crime drama.” Currently, the series is called Book of Kash, but it is …
 
 
-### OTHER on 2025-12-17 12:45
-- Location: Whyevolutionistrue.com
-- Description: Welcome to a Hump Day (“Горб нунал” in Udmurt): Wednesday, December 17, 2025, and the third day of Hanukkah. It’s also National Maple Syrup Day. Remember to get the darkest grade you can. That used to be labeled “Grade B,” but Big Syrup decided that was pejor…
+### HOMICIDE on 2025-12-17 18:12
+- Location: Rolling Stone
+- Description: Nick Reiner made his first court appearance, after being charged with first-degree murder in the slaying of his parents, Rob and Michele Reiner.
 
-
-### HOMICIDE on 2025-12-17 12:32
-- Location: International Business Times
-- Description: Nick Reiner's court appearance is delayed as authorities continue investigating the stabbing deaths of his parents, Rob and Michele Reiner.
-
-Analysis generated at: Thu Dec 18 12:53:42 UTC 2025
+Analysis generated at: Thu Dec 18 18:24:08 UTC 2025
