@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Dec 18 06:25:00 UTC 2025
+Last updated: Thu Dec 18 12:32:28 UTC 2025
 
 ## Latest Analysis
 
-Loaded 77201 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-17 06:20:00
+Loaded 77286 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-17 12:31:53
 
 Incidents by source:
 source
-newsapi           77100
+newsapi           77185
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-12-17 06:20
-- Location: Independent.ie
-- Description: A man has been charged over the Bondi terrorist attack that killed 15 people in Sydney.
+### HOMICIDE on 2025-12-17 12:31
+- Location: ABC News
+- Description: Alyssa Burkett was 24 and the mother to an infant daughter.
 
 
-### HOMICIDE on 2025-12-17 06:19
-- Location: The Star Online
-- Description: SYDNEY, Dec 17 (Reuters) - After Australia's deadliest mass shooting in 1996, the country rushed in some of the world's toughest gun laws, including mandatory licensing and background checks, as well as registration of every firearm. Read full story
-
-
-### SHOOTING on 2025-12-17 06:16
-- Location: DW (English)
-- Description: The alleged gunman who survived a shootout with police, is charged with terrorism and additional offenses in connection with the attack that claimed 15 lives. Police in Australia said Tuesday they charged the surviving suspected gunman who opened fire on a Je…
-
-
-### OTHER on 2025-12-17 06:13
+### HOMICIDE on 2025-12-17 12:31
 - Location: BBC News
-- Description: Bipin Khanal and Leonita Metaj were among those who called on the Met to stop sharing knife imagery on social media.
+- Description: Harry and Megan Tooze were found dead with gunshot wounds at their farmhouse more than 30 years ago.
 
 
-### HOMICIDE on 2025-12-17 06:13
-- Location: Us Weekly
-- Description: Before Alan Jackson became Nick Reiner’s lawyer, the high-profile Texan attorney spoke publicly about his admiration for Rob Reiner’s work. Jackson, who is representing Nick, 32, after he was arrested and booked on murder charges following the death of his pa…
+### OTHER on 2025-12-17 12:29
+- Location: Fox News
+- Description: Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.
 
-Analysis generated at: Thu Dec 18 06:25:00 UTC 2025
+
+### OTHER on 2025-12-17 12:26
+- Location: New York Post
+- Description: "He had so much anger in his eyes. It was terrifying really."
+
+
+### OTHER on 2025-12-17 12:18
+- Location: The Times of India
+- Description: The Karnataka School Examination and Assessment Board (KSEAB) has released the SSLC Class 10 preparatory examination time table for 2026. Three preparatory exams are scheduled from January 5 to February 28, 2026, to help students assess their readiness for th…
+
+Analysis generated at: Thu Dec 18 12:32:28 UTC 2025
