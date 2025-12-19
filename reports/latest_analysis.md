@@ -1,10 +1,10 @@
 
-Loaded 77387 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-17 18:21:11
+Loaded 77411 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-18 00:59:19
 
 Incidents by source:
 source
-newsapi           77286
+newsapi           77310
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-12-17 18:21
+### OTHER on 2025-12-18 00:59
 - Location: New York Post
-- Description: The Providence Police Department has widened its search to include a person who was "in proximity" to the at-large Brown University gunman who murdered two students and wounded seven others on Saturday.
+- Description: At least four Brooklyn judges have bizarrely recused themselves from a legal case involving more than $2 million in allegedly missing investor money and a longtime local Democratic power broker. Two of the jurists stepped away from the case just this week — i…
 
 
-### HOMICIDE on 2025-12-17 18:18
-- Location: International Business Times
-- Description: Donald Trump's reaction to the deaths of filmmaker Rob Reiner and his wife has sparked outrage and renewed concern, with commentator Michael Wolff claiming senior White House aides are privately questioning the president's mental stability.
+### OTHER on 2025-12-18 00:58
+- Location: The Indian Express
+- Description: Seven people, including the father-son duo, were arrested and cow meat was recovered from them, say officials
 
 
-### HOMICIDE on 2025-12-17 18:16
-- Location: CBC News
-- Description: Twenty-seven years after a deadly Christmas Day crash in Florida, a longtime fugitive in Toronto has signalled he will not fight extradition to face manslaughter charges. A CBC News investigation this year revealed Patrick Lutts Jr. lived openly in the city, …
+### OTHER on 2025-12-18 00:54
+- Location: ABC News
+- Description: Dramatic body camera video shows the moment police officers rescued three people after their vehicle crashed into an icy pond in Glendale Heights, Illinois. The driver was arrested on a DUI charge.
 
 
-### OTHER on 2025-12-17 18:15
-- Location: ComicBook.com
-- Description: If you thought that Sons of Anarchy creator Kurt Sutter was done with TV, think again. Reports are out that Sutter is developing a “period hour-long series” for MGM+, which will be a “Noir crime drama.” Currently, the series is called Book of Kash, but it is …
+### HOMICIDE on 2025-12-18 00:54
+- Location: Israelnationalnews.com
+- Description: A 43-year-old man, a resident of Tamra, was shot to death in his home.Police officers dispatched to the scene began searching for suspects and opened an investigation. The incident is criminal in nature.
 
 
-### HOMICIDE on 2025-12-17 18:12
-- Location: Rolling Stone
-- Description: Nick Reiner made his first court appearance, after being charged with first-degree murder in the slaying of his parents, Rob and Michele Reiner.
+### SHOOTING on 2025-12-18 00:51
+- Location: Freerepublic.com
+- Description: Nearly 30 years ago I wrote a short article for the Human Rights Defender about the ‘right’ to own guns. In those days there wasn’t much to say. Even in the gun-crazy United States of America (USA), the courts had consistently ruled that the vaunted Second Am…
 
-Analysis generated at: Thu Dec 18 18:24:08 UTC 2025
+Analysis generated at: Fri Dec 19 01:13:33 UTC 2025
