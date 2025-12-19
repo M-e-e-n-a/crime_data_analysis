@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Dec 19 06:24:39 UTC 2025
+Last updated: Fri Dec 19 12:31:18 UTC 2025
 
 ## Latest Analysis
 
-Loaded 77466 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-18 06:23:03
+Loaded 77554 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-18 12:30:22
 
 Incidents by source:
 source
-newsapi           77365
+newsapi           77453
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-12-18 06:23
-- Location: News.com.au
-- Description: Bondi hero Ahmed Al Ahmed is now a multi-millionaire, as donations pour in for victims of Sunday’s horror mass shooting.
+### HOMICIDE on 2025-12-18 12:30
+- Location: The Times of India
+- Description: Fifteen years after a shocking murder, the Uttarakhand high court has upheld the life sentence of a US-returned software engineer. Rajesh Gulati was convicted of killing his wife, dismembering her body into 72 pieces, and disposing of the remains across Dehra…
 
 
-### SHOOTING on 2025-12-18 06:20
-- Location: The Irish Times
-- Description: Police conduct further searches in the aftermath of the gun attack on a Jewish celebration
+### OTHER on 2025-12-18 12:21
+- Location: Variety
+- Description: “Shorta” director Frederik Louis Hviid and leading Scandinavian filmmaker-screenwriter Tobias Lindholm (“The Investigation”) are teaming on “Torpedo,” a thriller set in the Danish organized crime underworld where kids and youngsters are weaponized. “Torpedo” …
 
 
-### OTHER on 2025-12-18 06:06
-- Location: BBC News
-- Description: Theo Rose was "misled" by police into accepting a sanction for violence he didn't admit, review finds.
+### OTHER on 2025-12-18 12:16
+- Location: The Star Online
+- Description: KUALA LUMPUR: The Royal Malaysia Police (PDRM) has identified 10 companies involved in fraudulent activities, with 127 police reports lodged within a month as of last Monday, says Bukit Aman. Read full story
 
 
-### OTHER on 2025-12-18 06:00
-- Location: Naturalnews.com
-- Description: The North Atlantic Treaty Organization, an alliance founded on collective defense, now finds its own members compromised by the very proxy forces it arms and funds. As Ukrainian operatives are caught red-handed conducting espionage and sabotage on NATO soil, …
+### OTHER on 2025-12-18 12:14
+- Location: Fox News
+- Description: Fox News' "Antisemitism Exposed" newsletter brings you stories on the rising anti-Jewish prejudice across the U.S. and the world.
 
 
-### OTHER on 2025-12-18 06:00
-- Location: Naturalnews.com
-- Description: A Syrian migrant with a prior criminal record attempted to force entry into a Leipzig nightclub by brandishing an AK-47 rifle, but was swiftly disarmed by security. The weapon was later found to be inoperable. The incident is presented as evidence of escalati…
+### HOMICIDE on 2025-12-18 12:12
+- Location: Slashdot.org
+- Description: 'He truly changed my life': Classmate recalls Brown University student killed in mass shootingABC News Search for Brown University shooter continues into 5th day. Live updatesThe Providence Journal Brown University shooting reveals major gap in Providence's $…
 
-Analysis generated at: Fri Dec 19 06:24:39 UTC 2025
+Analysis generated at: Fri Dec 19 12:31:18 UTC 2025
