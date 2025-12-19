@@ -1,10 +1,10 @@
 
-Loaded 77411 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-18 00:59:19
+Loaded 77421 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-18 01:55:41
 
 Incidents by source:
 source
-newsapi           77310
+newsapi           77320
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-12-18 00:59
+### HOMICIDE on 2025-12-18 01:55
+- Location: The Times of India
+- Description: Rest of World News: The surviving suspect in the mass shooting at Bondi Beach in Sydney was charged Wednesday with murder, terrorism and causing grievous bodily harm with.
+
+
+### OTHER on 2025-12-18 01:53
+- Location: BBC News
+- Description: Lina Chernykh tells the BBC her niece Matilda was a joyous child who spread love everywhere she went.
+
+
+### OTHER on 2025-12-18 01:52
 - Location: New York Post
-- Description: At least four Brooklyn judges have bizarrely recused themselves from a legal case involving more than $2 million in allegedly missing investor money and a longtime local Democratic power broker. Two of the jurists stepped away from the case just this week — i…
+- Description: Veteran police officer Jeffery Carroll will take over as interim chief of Washington’s police force, Mayor Muriel Bowser said Wednesday, after it was announced earlier this month that the department’s leader was stepping down.
 
 
-### OTHER on 2025-12-18 00:58
-- Location: The Indian Express
-- Description: Seven people, including the father-son duo, were arrested and cow meat was recovered from them, say officials
+### HOMICIDE on 2025-12-18 01:43
+- Location: The Times of India
+- Description: Australia is enacting sweeping reforms to combat hate speech following a deadly mass shooting at a Hanukkah celebration. Prime Minister Anthony Albanese announced legislation to make charging and penalizing hate speech easier, alongside measures targeting org…
 
 
-### OTHER on 2025-12-18 00:54
-- Location: ABC News
-- Description: Dramatic body camera video shows the moment police officers rescued three people after their vehicle crashed into an icy pond in Glendale Heights, Illinois. The driver was arrested on a DUI charge.
+### OTHER on 2025-12-18 01:43
+- Location: BusinessLine
+- Description: Belgium’s Court of Cassation rejects Mehul Choksi’s appeal against extradition, backing India’s request and dismissing claims of torture and unfair trial.
 
-
-### HOMICIDE on 2025-12-18 00:54
-- Location: Israelnationalnews.com
-- Description: A 43-year-old man, a resident of Tamra, was shot to death in his home.Police officers dispatched to the scene began searching for suspects and opened an investigation. The incident is criminal in nature.
-
-
-### SHOOTING on 2025-12-18 00:51
-- Location: Freerepublic.com
-- Description: Nearly 30 years ago I wrote a short article for the Human Rights Defender about the ‘right’ to own guns. In those days there wasn’t much to say. Even in the gun-crazy United States of America (USA), the courts had consistently ruled that the vaunted Second Am…
-
-Analysis generated at: Fri Dec 19 01:13:33 UTC 2025
+Analysis generated at: Fri Dec 19 02:00:05 UTC 2025
