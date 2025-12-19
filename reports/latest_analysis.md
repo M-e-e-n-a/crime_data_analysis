@@ -1,10 +1,10 @@
 
-Loaded 77554 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-18 12:30:22
+Loaded 77559 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-18 12:47:02
 
 Incidents by source:
 source
-newsapi           77453
+newsapi           77458
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-12-18 12:30
-- Location: The Times of India
-- Description: Fifteen years after a shocking murder, the Uttarakhand high court has upheld the life sentence of a US-returned software engineer. Rajesh Gulati was convicted of killing his wife, dismembering her body into 72 pieces, and disposing of the remains across Dehra…
+### HOMICIDE on 2025-12-18 12:47
+- Location: Mediatakeout.com
+- Description: A private investigator says an industrial incinerator was discovered inside a Hollywood Hills home once leased by singer D4vd, adding a new and troubling detail to an ongoing death investigation involving a California teenager. Steve Fischer said he was grant…
 
 
-### OTHER on 2025-12-18 12:21
-- Location: Variety
-- Description: “Shorta” director Frederik Louis Hviid and leading Scandinavian filmmaker-screenwriter Tobias Lindholm (“The Investigation”) are teaming on “Torpedo,” a thriller set in the Danish organized crime underworld where kids and youngsters are weaponized. “Torpedo” …
+### OTHER on 2025-12-18 12:45
+- Location: Whyevolutionistrue.com
+- Description: Welcome to Thursday, December 18, 2025, the fourth full day of Hanukkah and only one week until the beginning of Koynezaa. It’s also National Roast Suckling Pig Day, definitely not kosher. Which reminds me of a joke. . . An elderly rabbi, having just retired …
 
 
-### OTHER on 2025-12-18 12:16
-- Location: The Star Online
-- Description: KUALA LUMPUR: The Royal Malaysia Police (PDRM) has identified 10 companies involved in fraudulent activities, with 127 police reports lodged within a month as of last Monday, says Bukit Aman. Read full story
+### OTHER on 2025-12-18 12:34
+- Location: Katedaviesdesigns.com
+- Description: Surprise favourites and movie night best-ofs
 
 
-### OTHER on 2025-12-18 12:14
-- Location: Fox News
-- Description: Fox News' "Antisemitism Exposed" newsletter brings you stories on the rising anti-Jewish prejudice across the U.S. and the world.
+### ASSAULT on 2025-12-18 12:33
+- Location: Sky.com
+- Description: The UK's Chief Rabbi has told Sky News that the Bondi Beach terror attack is a tragedy for all societies, caused by "hateful extremism" that threatens "our entire civilisation".
 
 
-### HOMICIDE on 2025-12-18 12:12
-- Location: Slashdot.org
-- Description: 'He truly changed my life': Classmate recalls Brown University student killed in mass shootingABC News Search for Brown University shooter continues into 5th day. Live updatesThe Providence Journal Brown University shooting reveals major gap in Providence's $…
+### SHOOTING on 2025-12-18 12:32
+- Location: CNN
+- Description: Live updates: Brown University shooting manhunt continues as police release map of person of interest’s movementscnn.com
 
-Analysis generated at: Fri Dec 19 12:31:18 UTC 2025
+Analysis generated at: Fri Dec 19 12:52:04 UTC 2025
