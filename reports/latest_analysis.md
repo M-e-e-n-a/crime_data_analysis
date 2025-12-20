@@ -1,10 +1,10 @@
 
-Loaded 77785 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-19 06:20:00
+Loaded 77872 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-19 12:27:39
 
 Incidents by source:
 source
-newsapi           77684
+newsapi           77771
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-12-19 06:20
-- Location: Sky.com
-- Description: Frustration had mounted that the murderer had managed to get away and that a clear image of his face hadn't emerged - until a Reddit post finally put police on his trail.
+### OTHER on 2025-12-19 12:27
+- Location: The Week Magazine
+- Description: Police have arrested two people over controversial ‘globalise the intifada’ chants
 
 
-### OTHER on 2025-12-19 06:19
-- Location: Israelnationalnews.com
-- Description: The time for platitudes is over. What’s needed is zero tolerance of Islamic extremism and anti-Zionism. Opinion.
+### SHOOTING on 2025-12-19 12:25
+- Location: New York Post
+- Description: A homeless hero has been credited with cracking the shootings at Brown University and MIT wide open after he confronted the gunman -- as the feds say he is now "entitled" to the staggering $50,000 reward.
 
 
-### SHOOTING on 2025-12-19 06:13
-- Location: The Star Online
-- Description: SYDNEY, Dec 19 (Reuters) - As two gunmen ‌opened fire on hundreds celebrating Hanukkah on Sydney's Bondi Beach, 14-year-old Chaya Dadon's mind was clear. Read full story
+### HOMICIDE on 2025-12-19 12:24
+- Location: The Punch
+- Description: The FCT Police Command reports nine criminals neutralized and six officers lost in Q4 2025. Get the latest FCT crime statistics on arrests and operations.
+
+Read More: https://punchng.com/police-kill-nine-criminals-in-fct-lose-six-officers-in-three-months-2/
 
 
-### OTHER on 2025-12-19 06:12
-- Location: BBC News
-- Description: British Transport Police said international events played "a really big part" on how people behave.
+### HOMICIDE on 2025-12-19 12:24
+- Location: WPXI Pittsburgh
+- Description: A homicide investigation is underway after a man was found shot to death inside an apartment in Beaver County early Friday morning.
 
 
-### ROBBERY/THEFT on 2025-12-19 06:10
-- Location: Times of Malta
-- Description: The man was found through an international probe involving Maltese and Italian authorities
+### HOMICIDE on 2025-12-19 12:22
+- Location: TODAY
+- Description: The man suspected of killing two students and wounding nine others in a shooting at Brown University before fatally shooting a Massachusetts Institute of Technology professor days later was found dead Thursday in a New Hampshire storage unit, officials said
 
-Analysis generated at: Sat Dec 20 06:23:50 UTC 2025
+Analysis generated at: Sat Dec 20 12:28:51 UTC 2025
