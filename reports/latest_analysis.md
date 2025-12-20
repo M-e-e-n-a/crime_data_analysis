@@ -1,10 +1,10 @@
 
-Loaded 77872 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-19 12:27:39
+Loaded 77882 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-19 12:47:49
 
 Incidents by source:
 source
-newsapi           77771
+newsapi           77781
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,30 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-12-19 12:27
-- Location: The Week Magazine
-- Description: Police have arrested two people over controversial ‘globalise the intifada’ chants
+### OTHER on 2025-12-19 12:47
+- Location: Raw Story
+- Description: Let me take off my psychotherapist hat and simply speak as a parent, an adult, a businessman, a citizen, and a human being.There is something deeply and fundamentally wrong with Donald Trump,His Wednesday night speech demonstrated it. He didn’t need to trash-…
 
 
-### SHOOTING on 2025-12-19 12:25
-- Location: New York Post
-- Description: A homeless hero has been credited with cracking the shootings at Brown University and MIT wide open after he confronted the gunman -- as the feds say he is now "entitled" to the staggering $50,000 reward.
+### OTHER on 2025-12-19 12:45
+- Location: Whyevolutionistrue.com
+- Description: Welcome to Friday, December 19, 2025, the fifth day of Hanukkah and National Hard Candy Day. Here’s a short video about complex hard candies are made: It’s also National Oatmeal Muffin Day (ugh, but they’re better than rhubarb muffines), Holly Day, National E…
 
 
-### HOMICIDE on 2025-12-19 12:24
-- Location: The Punch
-- Description: The FCT Police Command reports nine criminals neutralized and six officers lost in Q4 2025. Get the latest FCT crime statistics on arrests and operations.
-
-Read More: https://punchng.com/police-kill-nine-criminals-in-fct-lose-six-officers-in-three-months-2/
+### HOMICIDE on 2025-12-19 12:39
+- Location: BBC News
+- Description: Michelle Mills, 46, who plotted with her lover of three months to murder her husband, is jailed.
 
 
-### HOMICIDE on 2025-12-19 12:24
-- Location: WPXI Pittsburgh
-- Description: A homicide investigation is underway after a man was found shot to death inside an apartment in Beaver County early Friday morning.
+### OTHER on 2025-12-19 12:38
+- Location: Al Jazeera English
+- Description: The US Trump Administration says it is deporting 'the worst of the worst' - but how true is that?
 
 
-### HOMICIDE on 2025-12-19 12:22
-- Location: TODAY
-- Description: The man suspected of killing two students and wounding nine others in a shooting at Brown University before fatally shooting a Massachusetts Institute of Technology professor days later was found dead Thursday in a New Hampshire storage unit, officials said
+### HOMICIDE on 2025-12-19 12:37
+- Location: Steynonline.com
+- Description: Programming note: please join me later tonight at SteynOnline for the fourth of this season's Christmas Tales for Our Time. ~The Brown University shooter has been found dead by his own hand in a storage locker in southern New Hampshire. The entire
 
-Analysis generated at: Sat Dec 20 12:28:51 UTC 2025
+Analysis generated at: Sat Dec 20 12:47:58 UTC 2025
