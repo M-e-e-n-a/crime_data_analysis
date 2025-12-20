@@ -1,10 +1,10 @@
 
-Loaded 77682 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-19 01:02:16
+Loaded 77697 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-19 01:53:24
 
 Incidents by source:
 source
-newsapi           77581
+newsapi           77596
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-12-19 01:02
+### SHOOTING on 2025-12-19 01:53
+- Location: Japan Today
+- Description: Australia will launch a national gun buyback scheme following the mass shooting in Sydney, Prime Minister Anthony Albanese said on Friday, as hundreds of surfers and swimmers paddled out at ‌Bondi beach to honor victims. The buyback would be similar to gun re…
+
+
+### HOMICIDE on 2025-12-19 01:52
+- Location: Slashdot.org
+- Description: Brown Shooting: Authorities Search for a Person With Possible Connection to MIT KillingThe New York Times Live updates: Investigators believe they have identified suspect in Brown University shooting, sources sayCNN Police probe potential ties between Brown U…
+
+
+### OTHER on 2025-12-19 01:45
+- Location: Khabarhub.com
+- Description: KATHMANDU: The Central Investigation Bureau (CIB) of Nepal Police has arrested two inmates who had escaped from the Jagannath Deval Sundhara Prison Office during protests on September 8 and 9. According to CIB spokesperson Shiva Kumar Shrestha, the arrested i…
+
+
+### SHOOTING on 2025-12-19 01:40
+- Location: CBC News
+- Description: A 23-year-old man has been charged in relation to an incident at the Dalhousie LRT Station on Tuesday that resulted in a Calgary police officer shooting him.
+
+
+### HOMICIDE on 2025-12-19 01:40
 - Location: ABC News (AU)
-- Description: Nicholas Kozac pleaded guilty to possessing a trafficable amount of cocaine after he was caught with nearly 100 grams of cocaine.
+- Description: Jodie Hill wept as a Supreme Court jury found her not guilty of murder and manslaughter, follow a week of deliberations.
 
-
-### HOMICIDE on 2025-12-19 01:00
-- Location: New Zealand Herald
-- Description: Friends entered the remote Ruatiti farm to calmly secure Trina Cole’s mastiffs.
-
-
-### OTHER on 2025-12-19 01:00
-- Location: CinemaBlend
-- Description: And, what an ending it is!
-
-
-### HOMICIDE on 2025-12-19 00:58
-- Location: CBS News
-- Description: Police are searching an area in Salem, New Hampshire, in connection with the Brown University mass shooting and the killing of the MIT professor, sources told CBS News Boston. CBS News Boston's Penny Kmitt reports and Jeff Harp, retired FBI assistant special …
-
-
-### SHOOTING on 2025-12-19 00:55
-- Location: CNN
-- Description: Australian Prime Minister Anthony Albanese has announced a national buy-back scheme for firearms to “get more guns off our streets” following the Bondi Beach shooting.
-
-Analysis generated at: Sat Dec 20 01:08:55 UTC 2025
+Analysis generated at: Sat Dec 20 01:53:55 UTC 2025
