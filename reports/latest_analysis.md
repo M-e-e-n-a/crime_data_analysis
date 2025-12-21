@@ -1,10 +1,10 @@
 
-Loaded 78000 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-20 01:15:43
+Loaded 78006 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-20 02:06:11
 
 Incidents by source:
 source
-newsapi           77899
+newsapi           77905
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2025-12-20 01:15
-- Location: The Times of India
-- Description: President Putin offered no compromise on ending the Ukraine war, placing the onus on Kyiv and its European backers. He accused the EU of "daylight robbery" over frozen Russian assets. Putin reiterated his peace terms, demanding Ukraine abandon NATO aspiration…
+### HOMICIDE on 2025-12-20 02:06
+- Location: WPXI Pittsburgh
+- Description: An autopsy determined that the man suspected in last weekend’s attack at Brown University and the fatal shooting of a Massachusetts Institute of Technology professor days later had been dead for two days when his body was found, New Hampshire’s attorney gener…
 
 
-### HOMICIDE on 2025-12-20 01:12
-- Location: The Times of India
-- Description: Dhaka prepares for the funeral of a prominent youth leader on Saturday. Security is tight following unrest triggered by his death. The government has urged citizens to resist violence. The leader's body arrived from Singapore amid widespread mourning. Attacks…
+### HOMICIDE on 2025-12-20 01:47
+- Location: CNA
+- Description: <![CDATA[ Australian surf lifesavers lined the shore of Sydney's Bondi Beach and fell silent as they honoured the 15 people killed. ]]>
 
 
-### OTHER on 2025-12-20 01:08
-- Location: The Times of India
-- Description: The Supreme Court has fined 10 private dental colleges in Rajasthan Rs 10 crore each for admitting students without meeting NEET 2016-17 cutoffs. The court regularized degrees for affected students, who must now provide pro bono services during state emergenc…
+### HOMICIDE on 2025-12-20 01:42
+- Location: New York Post
+- Description: The city agreed to pay $160,000 to the father of 44-year-old Dante Dwaine Day, who was fatally shot by police on a light rail train in August 2023 near Sacramento City College.
 
 
-### HOMICIDE on 2025-12-20 00:52
-- Location: Yahoo Entertainment
-- Description: The suspect in the Dec. 13 mass shooting on the campus of Brown University was found dead by suicide in a storage unit in Salem, New Hampshire, authorities...
+### HOMICIDE on 2025-12-20 01:36
+- Location: Freerepublic.com
+- Description: Brown University and MIT gunman's autopsy reveals how long he had been dead during massive manhunt Brown University and MIT gunman Claudio Neves Valente had been dead for two days before he was found by law enforcement, his autopsy reveals. The body of Neves …
 
 
-### HOMICIDE on 2025-12-20 00:52
-- Location: CBS News
-- Description: The suspect in the Dec. 13 mass shooting on the campus of Brown University was found dead by suicide in a storage unit in Salem, New Hampshire, authorities said. He has been identified as 48-year-old Claudio Manuel Neves Valente, a former Brown grad student. …
+### SHOOTING on 2025-12-20 01:23
+- Location: WSB Atlanta
+- Description: He faces felony aggravated assault charges and appeared in court Friday hoping a judge would grant him bond.
 
-Analysis generated at: Sun Dec 21 01:17:55 UTC 2025
+Analysis generated at: Sun Dec 21 02:07:09 UTC 2025
