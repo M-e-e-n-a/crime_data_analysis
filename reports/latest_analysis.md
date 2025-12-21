@@ -1,10 +1,10 @@
 
-Loaded 78034 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-20 06:15:56
+Loaded 78078 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-20 12:25:20
 
 Incidents by source:
 source
-newsapi           77933
+newsapi           77977
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,31 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-12-20 06:15
-- Location: ABC News
-- Description: Taiwanese authorities says the suspect who killed three people and injured 11 others in knife and smoke grenade attacks in the island’s capital had planned the assaults and set fires at two other locations earlier in the day
+### OTHER on 2025-12-20 12:25
+- Location: Freerepublic.com
+- Description: The goal was allegedley ‘to lower public-facing crime rates’, regardless of if there was actually less crime. Leadership at the D.C. Metropolitan Police Department (MPD) under former chief Pamela A. Smith (who announced on Dec. 8 she would step down at year’s…
 
 
-### OTHER on 2025-12-20 06:15
-- Location: Khabarhub.com
-- Description: KATHMANDU: A total of 68 inmates who escaped from Tanahun Prison during the Gen-Z movement on September 9 are still at large, police have said. Of the 327 inmates held at the prison at the time, 259 have since returned, while the remaining inmates are yet to …
+### HOMICIDE on 2025-12-20 12:20
+- Location: Common Dreams
+- Description: Few believe the justifications for the ongoing US murder campaign, and now military blockade, off the coast of Venezuela. Even US officials seem halfheartedly committed to their claims
+ about stopping drugs
+. They now concede
+ that the real goal is overthr…
 
 
-### OTHER on 2025-12-20 06:00
-- Location: The-independent.com
-- Description: After revealing our Albums of the Year list for 2025, Hannah Ewens and Roisin O’Connor speak with some of the artists behind those records about their own cultural highlights from the past 12 months... and their hopes for 2026
+### HOMICIDE on 2025-12-20 12:05
+- Location: WSOC Charlotte
+- Description: Charlotte-Mecklenburg Police responded to a hospital in southeast Charlotte after a gunshot victim was dropped off and pronounced deceased.
 
 
-### ASSAULT on 2025-12-20 06:00
-- Location: The Irish Times
-- Description: After a tough few years, Minneapolis was in the news again when Donald Trump launched a savage verbal attack on the Somali community
+### HOMICIDE on 2025-12-20 12:00
+- Location: Fox News
+- Description: A former "Family Guy" production assistant recalls dark, troubled Nick Reiner years before he was charged with murdering parents Rob and Michele Reiner.
 
 
-### OTHER on 2025-12-20 05:47
-- Location: Archiveofourown.org
-- Description: He was dying down here a little piece at a time, and if it took too long to get him out, there wouldn’t be a lot left of the guy he remembered in the mirror.
+### OTHER on 2025-12-20 12:00
+- Location: Politico
+- Description: A veteran civil rights attorney won a landmark redistricting case. He fears such wins could soon vanish.
 
-Analysis generated at: Sun Dec 21 06:23:18 UTC 2025
+Analysis generated at: Sun Dec 21 12:29:08 UTC 2025
