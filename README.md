@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Dec 21 12:48:56 UTC 2025
+Last updated: Sun Dec 21 18:21:35 UTC 2025
 
 ## Latest Analysis
 
-Loaded 78081 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-20 12:45:35
+Loaded 78145 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-20 18:17:20
 
 Incidents by source:
 source
-newsapi           77980
+newsapi           78044
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,31 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-12-20 12:45
-- Location: RT
-- Description: The US is trying to establish a ‘multinational stabilization force’ to decide who will handle the Middle East’s hottest potato Read Full Article at RT.com
+### HOMICIDE on 2025-12-20 18:17
+- Location: Digital Journal
+- Description: Millions of Australians will light candles and observe a minute’s silence on Sunday, a week after a pair of gunmen fired into crowds at a Jewish festival on Sydney’s most famous beach and killed 15 people.  A father and son are accused of targeting the family…
 
 
-### OTHER on 2025-12-20 12:45
-- Location: Whyevolutionistrue.com
-- Description: Welcome to CaturSaturday, December 20, 2025, the fifth full day of Hanukkah, five days before the beginning of Koynezaa, and National Sangria Day, which is good if you use a decent light red wine and fresh fruit. It’s a lovely refresher on a summer evening. B…
+### HOMICIDE on 2025-12-20 18:08
+- Location: Wnd.com
+- Description: Authorities found his body inside New Hampshire storage facility
 
 
-### OTHER on 2025-12-20 12:38
-- Location: New York Post
-- Description: Brown University has been brushing off security issues for years -- ignoring warnings from students, staff and even police, The Post has learned.
+### HOMICIDE on 2025-12-20 18:01
+- Location: Decrypt
+- Description: The lawsuit alleges that OpenAI's ChatGPT reinforced delusions that preceded a fatal attack on a user’s mother.
 
 
-### OTHER on 2025-12-20 12:25
-- Location: Freerepublic.com
-- Description: The goal was allegedley ‘to lower public-facing crime rates’, regardless of if there was actually less crime. Leadership at the D.C. Metropolitan Police Department (MPD) under former chief Pamela A. Smith (who announced on Dec. 8 she would step down at year’s…
+### HOMICIDE on 2025-12-20 18:00
+- Location: TMZ
+- Description: LAPD searched the hotel room where Nick Reiner checked in around the time his parents were murdered, and TMZ has been told the police did not have a search warrant. Harvey explains during the latest episode of the "2 Angry Men" podcast what…
 
 
-### HOMICIDE on 2025-12-20 12:20
-- Location: Common Dreams
-- Description: Few believe the justifications for the ongoing US murder campaign, and now military blockade, off the coast of Venezuela. Even US officials seem halfheartedly committed to their claims
- about stopping drugs
-. They now concede
- that the real goal is overthr…
+### ASSAULT on 2025-12-20 18:00
+- Location: ABC News (AU)
+- Description: As Sydney marks one week since the antisemitic Bondi attack, the Jewish community is grappling with the question of where to go from here.
 
-Analysis generated at: Sun Dec 21 12:48:56 UTC 2025
+Analysis generated at: Sun Dec 21 18:21:35 UTC 2025
