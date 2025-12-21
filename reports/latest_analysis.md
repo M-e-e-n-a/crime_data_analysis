@@ -1,10 +1,10 @@
 
-Loaded 77978 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-19 18:04:14
+Loaded 78000 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-20 01:15:43
 
 Incidents by source:
 source
-newsapi           77877
+newsapi           77899
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-12-19 18:04
-- Location: The Daily Dot
-- Description: The Providence community spent nearly a week searching for answers after a deadly shooting at Brown University on Saturday, Dec 13. While the police had no information for the community for days, the investigation shifted after an unexpected tip surfaced onli…
+### ROBBERY/THEFT on 2025-12-20 01:15
+- Location: The Times of India
+- Description: President Putin offered no compromise on ending the Ukraine war, placing the onus on Kyiv and its European backers. He accused the EU of "daylight robbery" over frozen Russian assets. Putin reiterated his peace terms, demanding Ukraine abandon NATO aspiration…
 
 
-### HOMICIDE on 2025-12-19 18:01
-- Location: The-independent.com
-- Description: Florida officials were initially unaware the woman had two ex-husbands and became confused when she started talking about the one they weren’t questioning
+### HOMICIDE on 2025-12-20 01:12
+- Location: The Times of India
+- Description: Dhaka prepares for the funeral of a prominent youth leader on Saturday. Security is tight following unrest triggered by his death. The government has urged citizens to resist violence. The leader's body arrived from Singapore amid widespread mourning. Attacks…
 
 
-### SHOOTING on 2025-12-19 18:00
-- Location: Boston Herald
-- Description: Sgt. Quornelius Radford is scheduled to appear in court Friday at Fort Stewart.
+### OTHER on 2025-12-20 01:08
+- Location: The Times of India
+- Description: The Supreme Court has fined 10 private dental colleges in Rajasthan Rs 10 crore each for admitting students without meeting NEET 2016-17 cutoffs. The court regularized degrees for affected students, who must now provide pro bono services during state emergenc…
 
 
-### ROBBERY/THEFT on 2025-12-19 18:00
-- Location: The Daily Caller
-- Description: Rapper Mysonne Linen — who served seven years in state prison for armed robbery — repeatedly mispronounced New York City Mayor-elect Zohran Mamdani's last name.
+### HOMICIDE on 2025-12-20 00:52
+- Location: Yahoo Entertainment
+- Description: The suspect in the Dec. 13 mass shooting on the campus of Brown University was found dead by suicide in a storage unit in Salem, New Hampshire, authorities...
 
 
-### HOMICIDE on 2025-12-19 18:00
-- Location: Allthatsinteresting.com
-- Description: After pretending to be a successful doctor for 18 years, Jean-Claude Romand murdered his wife, children, and parents in January 1993.
-The post Jean-Claude Romand Lied About Being A Doctor For Years — Then Murdered His Entire Family To Keep Them From Discoveri…
+### HOMICIDE on 2025-12-20 00:52
+- Location: CBS News
+- Description: The suspect in the Dec. 13 mass shooting on the campus of Brown University was found dead by suicide in a storage unit in Salem, New Hampshire, authorities said. He has been identified as 48-year-old Claudio Manuel Neves Valente, a former Brown grad student. …
 
-Analysis generated at: Sat Dec 20 18:20:11 UTC 2025
+Analysis generated at: Sun Dec 21 01:17:55 UTC 2025
