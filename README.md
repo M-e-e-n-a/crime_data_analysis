@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Dec 21 02:07:09 UTC 2025
+Last updated: Sun Dec 21 06:23:18 UTC 2025
 
 ## Latest Analysis
 
-Loaded 78006 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-20 02:06:11
+Loaded 78034 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-20 06:15:56
 
 Incidents by source:
 source
-newsapi           77905
+newsapi           77933
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-12-20 02:06
-- Location: WPXI Pittsburgh
-- Description: An autopsy determined that the man suspected in last weekend’s attack at Brown University and the fatal shooting of a Massachusetts Institute of Technology professor days later had been dead for two days when his body was found, New Hampshire’s attorney gener…
+### HOMICIDE on 2025-12-20 06:15
+- Location: ABC News
+- Description: Taiwanese authorities says the suspect who killed three people and injured 11 others in knife and smoke grenade attacks in the island’s capital had planned the assaults and set fires at two other locations earlier in the day
 
 
-### HOMICIDE on 2025-12-20 01:47
-- Location: CNA
-- Description: <![CDATA[ Australian surf lifesavers lined the shore of Sydney's Bondi Beach and fell silent as they honoured the 15 people killed. ]]>
+### OTHER on 2025-12-20 06:15
+- Location: Khabarhub.com
+- Description: KATHMANDU: A total of 68 inmates who escaped from Tanahun Prison during the Gen-Z movement on September 9 are still at large, police have said. Of the 327 inmates held at the prison at the time, 259 have since returned, while the remaining inmates are yet to …
 
 
-### HOMICIDE on 2025-12-20 01:42
-- Location: New York Post
-- Description: The city agreed to pay $160,000 to the father of 44-year-old Dante Dwaine Day, who was fatally shot by police on a light rail train in August 2023 near Sacramento City College.
+### OTHER on 2025-12-20 06:00
+- Location: The-independent.com
+- Description: After revealing our Albums of the Year list for 2025, Hannah Ewens and Roisin O’Connor speak with some of the artists behind those records about their own cultural highlights from the past 12 months... and their hopes for 2026
 
 
-### HOMICIDE on 2025-12-20 01:36
-- Location: Freerepublic.com
-- Description: Brown University and MIT gunman's autopsy reveals how long he had been dead during massive manhunt Brown University and MIT gunman Claudio Neves Valente had been dead for two days before he was found by law enforcement, his autopsy reveals. The body of Neves …
+### ASSAULT on 2025-12-20 06:00
+- Location: The Irish Times
+- Description: After a tough few years, Minneapolis was in the news again when Donald Trump launched a savage verbal attack on the Somali community
 
 
-### SHOOTING on 2025-12-20 01:23
-- Location: WSB Atlanta
-- Description: He faces felony aggravated assault charges and appeared in court Friday hoping a judge would grant him bond.
+### OTHER on 2025-12-20 05:47
+- Location: Archiveofourown.org
+- Description: He was dying down here a little piece at a time, and if it took too long to get him out, there wouldn’t be a lot left of the guy he remembered in the mirror.
 
-Analysis generated at: Sun Dec 21 02:07:09 UTC 2025
+Analysis generated at: Sun Dec 21 06:23:18 UTC 2025
