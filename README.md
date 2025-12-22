@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Dec 22 06:27:22 UTC 2025
+Last updated: Mon Dec 22 12:32:18 UTC 2025
 
 ## Latest Analysis
 
-Loaded 78190 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-21 06:23:05
+Loaded 78249 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-21 12:26:28
 
 Incidents by source:
 source
-newsapi           78089
+newsapi           78148
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-12-21 06:23
-- Location: Israelnationalnews.com
-- Description: Suspected murder-suicide in Bat Yam: A man was found lying on the road, critically injured, with a blood-stained knife next to him. A 70-year-old woman was found in his apartment and pronounced dead.
-
-
-### HOMICIDE on 2025-12-21 06:16
-- Location: Freerepublic.com
-- Description: The Australian state of New South Wales is proposing to ban public displays of Islamic State group flags or extremist symbols after a mass shooting driven by antisemitism killed 15 people at Sydney’s Bondi Beach. Under draft laws to be debated by the state Pa…
-
-
-### HOMICIDE on 2025-12-21 06:14
-- Location: Sky.com
-- Description: Nine people have died and at least 10 others are wounded after a shooting at a South African pub.
-
-
-### HOMICIDE on 2025-12-21 06:10
+### SHOOTING on 2025-12-21 12:26
 - Location: BBC News
-- Description: Police say another 10 people were injured in the township shooting near Johannesburg, and a manhunt is under way.
+- Description: It is the second shooting in as many days to take place in the area, as police link attacks.
 
 
-### HOMICIDE on 2025-12-21 05:46
-- Location: Al Jazeera English
-- Description: At least nine people have been killed and 10 wounded in a mass shooting in the Bekkersdal township.
+### OTHER on 2025-12-21 12:25
+- Location: Freerepublic.com
+- Description: Much of the mainstream news this week has been, in my opinion, partisan or devoted to less-than-significant matters. Does it really matter if the Trump-appointed board that saved the Kennedy Center from going to wrack and ruin has added his name to the buildi…
 
-Analysis generated at: Mon Dec 22 06:27:22 UTC 2025
+
+### OTHER on 2025-12-21 12:24
+- Location: Sky.com
+- Description: Joe Bennett, whose mum and stepfather have been imprisoned for almost a year, says they are undernourished and cooking among rats after being charged with espionage during a motorcycle tour.
+
+
+### SHOOTING on 2025-12-21 12:19
+- Location: BBC News
+- Description: Simon Whyte, 55, died at the scene on West End Close, Stonebridge, at 21:35 GMT on Friday.
+
+
+### OTHER on 2025-12-21 12:18
+- Location: The Times of India
+- Description: US News: H-1B visa holders facing sudden appointment cancellations have little legal relief, according to immigration lawyers, as interview dates are pushed la.
+
+Analysis generated at: Mon Dec 22 12:32:18 UTC 2025
