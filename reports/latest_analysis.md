@@ -1,10 +1,10 @@
 
-Loaded 78155 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-21 01:08:14
+Loaded 78162 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-21 01:50:44
 
 Incidents by source:
 source
-newsapi           78054
+newsapi           78061
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-12-21 01:08
-- Location: Honolulu Star-Advertiser
-- Description: Honolulu police opened a murder investigation today after finding the body of a 60-year-old woman while doing a welfare check at a Hawaii Kai home.
+### OTHER on 2025-12-21 01:50
+- Location: BBC News
+- Description: Amateur radio enthusiasts found themselves acting as a link between emergency crews.
 
 
-### HOMICIDE on 2025-12-21 00:59
-- Location: The Star Online
-- Description: PETALING JAYA: Police believe a dispute over money led to the murder of the woman, whose body was found stuffed in a bag and buried at a vacant house near Kampung Batu 4, Pedas in Negri Sembilan last Thursday (Dec 18). Read full story
+### HOMICIDE on 2025-12-21 01:36
+- Location: Freerepublic.com
+- Description: The suspected gunman behind both the deadly shooting spree at Brown University and the killing of the Massachusetts Institute of Technology (MIT) professor was already dead for two days before authorities found his body inside a New Hampshire storage facility…
 
 
-### OTHER on 2025-12-21 00:50
-- Location: Popternative.com
-- Description: Popternative: On Our Radar — 40 Actors & Filmmakers to Watch in 2026 - Popternativepopternative.com
+### ASSAULT on 2025-12-21 01:27
+- Location: New York Post
+- Description: Subway mayhem gripped New York City as a man and teen boy were stabbed while riding trains Saturday.
 
 
-### SHOOTING on 2025-12-21 00:46
-- Location: ABC News
-- Description: Australians are lighting candles Sunday to remember the victims of a mass shooting at a Jewish festival in Sydney's Bondi Beach
+### OTHER on 2025-12-21 01:25
+- Location: The Times of India
+- Description: He stated that India's future is linked to its neighbours, underscoring the importance of maintaining positive ties amid turmoil in Bangladesh. Speaking about Bangladesh, Naravane refrained from commenting on internal matters, stressing India's focus on nurtu…
 
 
-### SHOOTING on 2025-12-21 00:20
-- Location: CNA
-- Description: Australians have been invited to light candles and observe a minute's silence at 6.47pm local time to honour the victims of the Bondi Beach mass shooting.
+### OTHER on 2025-12-21 01:24
+- Location: Wnd.com
+- Description: 'We've heard about squatters in the news but never thought it would be next door'
 
-Analysis generated at: Mon Dec 22 01:16:10 UTC 2025
+Analysis generated at: Mon Dec 22 02:06:14 UTC 2025
