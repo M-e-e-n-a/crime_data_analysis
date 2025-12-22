@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Dec 21 18:21:35 UTC 2025
+Last updated: Mon Dec 22 01:16:10 UTC 2025
 
 ## Latest Analysis
 
-Loaded 78145 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-20 18:17:20
+Loaded 78155 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-21 01:08:14
 
 Incidents by source:
 source
-newsapi           78044
+newsapi           78054
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-12-20 18:17
-- Location: Digital Journal
-- Description: Millions of Australians will light candles and observe a minute’s silence on Sunday, a week after a pair of gunmen fired into crowds at a Jewish festival on Sydney’s most famous beach and killed 15 people.  A father and son are accused of targeting the family…
+### HOMICIDE on 2025-12-21 01:08
+- Location: Honolulu Star-Advertiser
+- Description: Honolulu police opened a murder investigation today after finding the body of a 60-year-old woman while doing a welfare check at a Hawaii Kai home.
 
 
-### HOMICIDE on 2025-12-20 18:08
-- Location: Wnd.com
-- Description: Authorities found his body inside New Hampshire storage facility
+### HOMICIDE on 2025-12-21 00:59
+- Location: The Star Online
+- Description: PETALING JAYA: Police believe a dispute over money led to the murder of the woman, whose body was found stuffed in a bag and buried at a vacant house near Kampung Batu 4, Pedas in Negri Sembilan last Thursday (Dec 18). Read full story
 
 
-### HOMICIDE on 2025-12-20 18:01
-- Location: Decrypt
-- Description: The lawsuit alleges that OpenAI's ChatGPT reinforced delusions that preceded a fatal attack on a user’s mother.
+### OTHER on 2025-12-21 00:50
+- Location: Popternative.com
+- Description: Popternative: On Our Radar — 40 Actors & Filmmakers to Watch in 2026 - Popternativepopternative.com
 
 
-### HOMICIDE on 2025-12-20 18:00
-- Location: TMZ
-- Description: LAPD searched the hotel room where Nick Reiner checked in around the time his parents were murdered, and TMZ has been told the police did not have a search warrant. Harvey explains during the latest episode of the "2 Angry Men" podcast what…
+### SHOOTING on 2025-12-21 00:46
+- Location: ABC News
+- Description: Australians are lighting candles Sunday to remember the victims of a mass shooting at a Jewish festival in Sydney's Bondi Beach
 
 
-### ASSAULT on 2025-12-20 18:00
-- Location: ABC News (AU)
-- Description: As Sydney marks one week since the antisemitic Bondi attack, the Jewish community is grappling with the question of where to go from here.
+### SHOOTING on 2025-12-21 00:20
+- Location: CNA
+- Description: Australians have been invited to light candles and observe a minute's silence at 6.47pm local time to honour the victims of the Bondi Beach mass shooting.
 
-Analysis generated at: Sun Dec 21 18:21:35 UTC 2025
+Analysis generated at: Mon Dec 22 01:16:10 UTC 2025
