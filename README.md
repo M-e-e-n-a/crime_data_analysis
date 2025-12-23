@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Dec 23 12:54:31 UTC 2025
+Last updated: Tue Dec 23 18:24:00 UTC 2025
 
 ## Latest Analysis
 
-Loaded 78422 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-22 12:53:10
+Loaded 78512 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-22 18:20:41
 
 Incidents by source:
 source
-newsapi           78321
+newsapi           78411
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,31 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-12-22 12:53
-- Location: Slashdot.org
-- Description: Bondi terror suspects threw unexploded bombs at crowd and practiced shooting ahead of attack, document revealsYahoo News Singapore Bondi gunmen 'meticulously' planned attack for months, police allegeBBC Homemade bombs thrown before Bondi mass shooting, but fa…
+### HOMICIDE on 2025-12-22 18:20
+- Location: Breitbart News
+- Description: 248 members of El Salvador's Mara Salvatrucha (MS-13) deadly gang were sentenced to up to 1,335 years in prison for multiple crimes.
+The post El Salvador Sentences Nearly 250 MS-13 Members to up to 1,335 Years in Prison appeared first on Breitbart.
 
 
-### SHOOTING on 2025-12-22 12:48
-- Location: Order-order.com
-- Description: Reform is ramping up its campaign in the capital with a direct mailshot from Nigel Farage to target voters. The next Mayoral election is a long way off in 2028 but all London borough seats are up in May 2026… The letter focuses on crime: “Police hardly dare u…
+### HOMICIDE on 2025-12-22 18:19
+- Location: Us Weekly
+- Description: A female serial killer has admitted in open court to killing four men by intentionally causing them to overdose on fentanyl, Us Weekly has learned. Rebecca...
 
 
-### OTHER on 2025-12-22 12:45
-- Location: WWD
-- Description: Looking back on the biggest sneaker news stories in 2025, including Steph Curry leaving Under Armour, Tom Sachs returning to Nike and more.
+### OTHER on 2025-12-22 18:15
+- Location: Screen Rant
+- Description: Screen Rant has you covered with the top 5 must-watch Paramount+ shows this week, December 22–26, 2025, perfect for holiday binge sessions.
 
 
-### HOMICIDE on 2025-12-22 12:42
-- Location: The Times of India
-- Description: The trial for the Zubeen Garg death case commenced virtually in Guwahati, with seven accused appearing from different jails. The court will frame charges on January 3, 2026, after examining pleas. Garg died mysteriously while swimming in Singapore on Septembe…
+### ROBBERY/THEFT on 2025-12-22 17:55
+- Location: The Punch
+- Description: The Edo State Police Command arrested 821 suspects for various crimes including kidnapping and robbery in 2025, while rescuing 377 kidnap victims.
+
+Read More: https://punchng.com/police-arrest-821-suspects-rescue-377-kidnap-victims-in-edo/
 
 
-### SHOOTING on 2025-12-22 12:37
-- Location: The Times of India
-- Description: Jammu and Kashmir Police are committed to eradicating terrorism and criminal activities. Director General of Police Nalin Prabhat stated that anti-national elements will be targeted. The force is organizing a cricket tournament to honor fallen personnel. Yout…
+### SHOOTING on 2025-12-22 17:53
+- Location: CBC News
+- Description: In a news release Sunday, Quebec's police watchdog, the Bureau des enquêtes indépendantes, says preliminary findings from its investigation suggest police received a call around 3:30 a.m. on Saturday about a person endangering other people inside a home. That…
 
-Analysis generated at: Tue Dec 23 12:54:31 UTC 2025
+Analysis generated at: Tue Dec 23 18:24:00 UTC 2025
