@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Dec 23 12:32:38 UTC 2025
+Last updated: Tue Dec 23 12:54:31 UTC 2025
 
 ## Latest Analysis
 
-Loaded 78417 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-22 12:13:51
+Loaded 78422 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-22 12:53:10
 
 Incidents by source:
 source
-newsapi           78316
+newsapi           78321
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-12-22 12:13
-- Location: ABC News
-- Description: New York City Mayor Eric Adams was once seen as a rising star in the Democratic Party
+### SHOOTING on 2025-12-22 12:53
+- Location: Slashdot.org
+- Description: Bondi terror suspects threw unexploded bombs at crowd and practiced shooting ahead of attack, document revealsYahoo News Singapore Bondi gunmen 'meticulously' planned attack for months, police allegeBBC Homemade bombs thrown before Bondi mass shooting, but fa…
 
 
-### HOMICIDE on 2025-12-22 12:10
+### SHOOTING on 2025-12-22 12:48
+- Location: Order-order.com
+- Description: Reform is ramping up its campaign in the capital with a direct mailshot from Nigel Farage to target voters. The next Mayoral election is a long way off in 2028 but all London borough seats are up in May 2026… The letter focuses on crime: “Police hardly dare u…
+
+
+### OTHER on 2025-12-22 12:45
+- Location: WWD
+- Description: Looking back on the biggest sneaker news stories in 2025, including Steph Curry leaving Under Armour, Tom Sachs returning to Nike and more.
+
+
+### HOMICIDE on 2025-12-22 12:42
 - Location: The Times of India
-- Description: Police documents reveal Naveed Akram, accused of the Bondi Beach massacre, trained with his father. They recorded footage justifying the attack.  The pair threw unexploded bombs at a Jewish event.  Akram faces 59 charges, including murder.  This was Australia…
+- Description: The trial for the Zubeen Garg death case commenced virtually in Guwahati, with seven accused appearing from different jails. The court will frame charges on January 3, 2026, after examining pleas. Garg died mysteriously while swimming in Singapore on Septembe…
 
 
-### OTHER on 2025-12-22 12:01
-- Location: NBC News
-- Description: How the divide between Secretary of State Marco Rubio and President Donald Trump’s envoy, Steve Witkoff plays out could determine how the war in Ukraine ends and how the U.S. is perceived by its allies and adversaries.
+### SHOOTING on 2025-12-22 12:37
+- Location: The Times of India
+- Description: Jammu and Kashmir Police are committed to eradicating terrorism and criminal activities. Director General of Police Nalin Prabhat stated that anti-national elements will be targeted. The force is organizing a cricket tournament to honor fallen personnel. Yout…
 
-
-### OTHER on 2025-12-22 12:00
-- Location: Bradenkelley.com
-- Description: GUEST POST from Greg Satell I still remember the excitement I felt seeing Kyiv, Ukraine for the first time in 2002. I had been living in Eastern Europe for five years by that time and had the privilege of witnessing first-hand how formerly communist countries…
-
-
-### HOMICIDE on 2025-12-22 11:59
-- Location: The Irish Times
-- Description: Gardaí arrest woman in her 20s on suspicion of murder of the boy whose remains were found in Donabate earlier this year
-
-Analysis generated at: Tue Dec 23 12:32:38 UTC 2025
+Analysis generated at: Tue Dec 23 12:54:31 UTC 2025
