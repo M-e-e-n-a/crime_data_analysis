@@ -1,10 +1,10 @@
 
-Loaded 78321 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-22 01:03:38
+Loaded 78328 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-22 01:46:43
 
 Incidents by source:
 source
-newsapi           78220
+newsapi           78227
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### DRUG RELATED on 2025-12-22 01:03
-- Location: Khabarhub.com
-- Description: KATHMANDU: An Indian national has been arrested at Tribhuvan International Airport (TIA) with around four kilograms of suspected marijuana. According to the Narcotics Control Bureau of Nepal Police, 33-year-old Ranjit Singh was arrested on Sunday. A joint tea…
+### OTHER on 2025-12-22 01:46
+- Location: The Times of India
+- Description: A surge in sophisticated counterfeit Canadian banknotes is alarming retailers, with fake $20, $50, and $100 bills circulating in unprecedented numbers. These high-quality fakes are difficult to detect, even for trained staff, during the busy holiday shopping …
 
 
-### HOMICIDE on 2025-12-22 01:02
-- Location: Page Six
-- Description: Rob's sister Annie appeared to host a gathering for their loved ones at her home on Sunday, one week after the director and his wife were found stabbed to death.
+### SHOOTING on 2025-12-22 01:44
+- Location: ABC News
+- Description: Dramatic video captures accused shoplifter allegedly pulling a gun on Ohio police officergo.com
 
 
-### OTHER on 2025-12-22 00:59
-- Location: Sfpoliceblotter.com
-- Description: I built an open-source alternative to Citizen App's paid 911 feed for San Francisco.It streams live dispatch data from SF's official open data portal, uses an LLM to translate police codes into readable summaries, and auto-redacts sensitive locations (shelter…
-
-
-### OTHER on 2025-12-22 00:57
+### HOMICIDE on 2025-12-22 01:43
 - Location: New York Post
-- Description: Assemblyman Eddie Gibbs insisted in his social media post that he was only ever speaking the way his own mother would have.
+- Description: Being tried as adults, the teens could face life in prison or death if convicted.
 
 
-### OTHER on 2025-12-22 00:41
-- Location: New York Post
-- Description: Former Michigan co-offensive coordinator Matt Weiss was fired in February 2023.
+### HOMICIDE on 2025-12-22 01:30
+- Location: Boston Herald
+- Description: A 26-year-old Brockton man allegedly killed one person and injured another with his vehicle while involved in a chase with police in Stoughton Saturday morning.
 
-Analysis generated at: Tue Dec 23 01:13:10 UTC 2025
+
+### OTHER on 2025-12-22 01:27
+- Location: HuffPost
+- Description: Ransone's fans mourned his loss and celebrated his contributions on social media Sunday.
+
+Analysis generated at: Tue Dec 23 02:01:30 UTC 2025
