@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Dec 23 02:01:30 UTC 2025
+Last updated: Tue Dec 23 06:26:07 UTC 2025
 
 ## Latest Analysis
 
-Loaded 78328 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-22 01:46:43
+Loaded 78365 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-22 06:25:36
 
 Incidents by source:
 source
-newsapi           78227
+newsapi           78264
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-12-22 01:46
-- Location: The Times of India
-- Description: A surge in sophisticated counterfeit Canadian banknotes is alarming retailers, with fake $20, $50, and $100 bills circulating in unprecedented numbers. These high-quality fakes are difficult to detect, even for trained staff, during the busy holiday shopping …
+### HOMICIDE on 2025-12-22 06:25
+- Location: The Punch
+- Description: A detailed timeline of the Bondi Beach mass shooting. See how the father-son duo planned and carried out the terrorist attack that killed 15 people.
+
+Read More: https://punchng.com/timeline-how-the-bondi-beach-mass-shooting-unfolded/
 
 
-### SHOOTING on 2025-12-22 01:44
-- Location: ABC News
-- Description: Dramatic video captures accused shoplifter allegedly pulling a gun on Ohio police officergo.com
+### HOMICIDE on 2025-12-22 06:24
+- Location: RTE
+- Description: Two suspects in last week's deadly mass shooting at Australia's Bondi Beach trained for the attack in the countryside, police have alleged in court documents, as Prime Minister Anthony Albanese vowed tougher laws against hate speech and extremism.
 
 
-### HOMICIDE on 2025-12-22 01:43
-- Location: New York Post
-- Description: Being tried as adults, the teens could face life in prison or death if convicted.
+### OTHER on 2025-12-22 06:21
+- Location: RTE
+- Description: An Irish citizen who had been held by immigration authorities in the United States for almost five months has been freed and is back at the family home in Missouri.
 
 
-### HOMICIDE on 2025-12-22 01:30
-- Location: Boston Herald
-- Description: A 26-year-old Brockton man allegedly killed one person and injured another with his vehicle while involved in a chase with police in Stoughton Saturday morning.
+### HOMICIDE on 2025-12-22 06:17
+- Location: Digital Journal
+- Description: A father and son are accused of opening fire on a Jewish festival at Sydney’s Bondi Beach, killing 15 people and wounding many more. Here’s what we know about the December 14 attack, one of the deadliest mass shootings in Australian history. – Gunfire at Bond…
 
 
-### OTHER on 2025-12-22 01:27
-- Location: HuffPost
-- Description: Ransone's fans mourned his loss and celebrated his contributions on social media Sunday.
+### HOMICIDE on 2025-12-22 06:16
+- Location: The Indian Express
+- Description: The police said the accused, who lived with an aunt after his mother’s death, took the help of two minor accomplices to carry out the murder at Yash Lawns in Pune’s Bibwewadi area.
 
-Analysis generated at: Tue Dec 23 02:01:30 UTC 2025
+Analysis generated at: Tue Dec 23 06:26:07 UTC 2025
