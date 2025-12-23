@@ -1,10 +1,10 @@
 
-Loaded 78308 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-21 18:20:27
+Loaded 78321 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-22 01:03:38
 
 Incidents by source:
 source
-newsapi           78207
+newsapi           78220
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-12-21 18:20
+### DRUG RELATED on 2025-12-22 01:03
+- Location: Khabarhub.com
+- Description: KATHMANDU: An Indian national has been arrested at Tribhuvan International Airport (TIA) with around four kilograms of suspected marijuana. According to the Narcotics Control Bureau of Nepal Police, 33-year-old Ranjit Singh was arrested on Sunday. A joint tea…
+
+
+### HOMICIDE on 2025-12-22 01:02
+- Location: Page Six
+- Description: Rob's sister Annie appeared to host a gathering for their loved ones at her home on Sunday, one week after the director and his wife were found stabbed to death.
+
+
+### OTHER on 2025-12-22 00:59
+- Location: Sfpoliceblotter.com
+- Description: I built an open-source alternative to Citizen App's paid 911 feed for San Francisco.It streams live dispatch data from SF's official open data portal, uses an LLM to translate police codes into readable summaries, and auto-redacts sensitive locations (shelter…
+
+
+### OTHER on 2025-12-22 00:57
 - Location: New York Post
-- Description: "For Disney, losing the Oscars to YouTube" actually "kinda feels like a blessing," argues Vulture's Josef Adalian.
+- Description: Assemblyman Eddie Gibbs insisted in his social media post that he was only ever speaking the way his own mother would have.
 
 
-### ROBBERY/THEFT on 2025-12-21 18:15
-- Location: DW (English)
-- Description: France's presidential silverware keeper and two other men are suspected of stealing thousands of euros' worth of porcelain and other tableware from the president's official residence.
+### OTHER on 2025-12-22 00:41
+- Location: New York Post
+- Description: Former Michigan co-offensive coordinator Matt Weiss was fired in February 2023.
 
-
-### OTHER on 2025-12-21 17:24
-- Location: The Times of India
-- Description: Astrologers suggest planetary positions significantly influence property disputes and acquisition delays, beyond legal and financial hurdles. Vedic astrology links the 4th house, Mars, Moon, and Saturn to land matters, with negative influences causing prolong…
-
-
-### OTHER on 2025-12-21 17:24
-- Location: The Times of India
-- Description: Bangladesh has rejected India's statements regarding a protest outside its High Commission in New Delhi. Dhaka questions how demonstrators gained access to the diplomatic area. India had previously called reports of a security breach misleading propaganda. Th…
-
-
-### HOMICIDE on 2025-12-21 17:21
-- Location: News.com.au
-- Description: When Danny Zayat threw his girlfriend Tatiana Dokhotaru’s phone from her balcony shortly before he murdered her, it meant that it took police 20 hours to be able to gain entry into her unit.
-
-Analysis generated at: Mon Dec 22 18:24:06 UTC 2025
+Analysis generated at: Tue Dec 23 01:13:10 UTC 2025
