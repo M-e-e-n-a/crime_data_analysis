@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Dec 23 18:24:00 UTC 2025
+Last updated: Wed Dec 24 01:12:34 UTC 2025
 
 ## Latest Analysis
 
-Loaded 78512 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-22 18:20:41
+Loaded 78536 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-23 01:09:08
 
 Incidents by source:
 source
-newsapi           78411
+newsapi           78435
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,31 +24,31 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-12-22 18:20
-- Location: Breitbart News
-- Description: 248 members of El Salvador's Mara Salvatrucha (MS-13) deadly gang were sentenced to up to 1,335 years in prison for multiple crimes.
-The post El Salvador Sentences Nearly 250 MS-13 Members to up to 1,335 Years in Prison appeared first on Breitbart.
+### OTHER on 2025-12-23 01:09
+- Location: New York Post
+- Description: NY Post readers discuss a rise in violence against Jewish New Yorkers amid a growing acceptance of antisemitism.
 
 
-### HOMICIDE on 2025-12-22 18:19
-- Location: Us Weekly
-- Description: A female serial killer has admitted in open court to killing four men by intentionally causing them to overdose on fentanyl, Us Weekly has learned. Rebecca...
+### HOMICIDE on 2025-12-23 01:04
+- Location: ABC News
+- Description: A New Jersey man faces murder and arson charges for allegedly striking another man with an arrow and then setting fires while barricading himself inside his residence.
 
 
-### OTHER on 2025-12-22 18:15
-- Location: Screen Rant
-- Description: Screen Rant has you covered with the top 5 must-watch Paramount+ shows this week, December 22–26, 2025, perfect for holiday binge sessions.
-
-
-### ROBBERY/THEFT on 2025-12-22 17:55
-- Location: The Punch
-- Description: The Edo State Police Command arrested 821 suspects for various crimes including kidnapping and robbery in 2025, while rescuing 377 kidnap victims.
-
-Read More: https://punchng.com/police-arrest-821-suspects-rescue-377-kidnap-victims-in-edo/
-
-
-### SHOOTING on 2025-12-22 17:53
+### HOMICIDE on 2025-12-23 01:00
 - Location: CBC News
-- Description: In a news release Sunday, Quebec's police watchdog, the Bureau des enquêtes indépendantes, says preliminary findings from its investigation suggest police received a call around 3:30 a.m. on Saturday about a person endangering other people inside a home. That…
+- Description: Nearly six years after 24-year-old soccer player Edi Bogere-Nyigwo's body was discovered in rural Maple Ridge, B.C., a man has been charged in his death.
 
-Analysis generated at: Tue Dec 23 18:24:00 UTC 2025
+
+### HOMICIDE on 2025-12-23 00:58
+- Location: New York Post
+- Description: Brown University has placed its troubled police chief on administrative leave "effective immediately" in the wake of the devastating campus shooting that killed two students.
+
+
+### OTHER on 2025-12-23 00:56
+- Location: GameSpot
+- Description: The Pink Panther Blu-rays 
+ Releasing December 30 
+See at Amazon 
+The Pink Panther is one of the few film franchises instantly recognizable by its theme tune, and if you've never seen it, you can grab four classic entries in the series on 4K Blu-ray starti…
+
+Analysis generated at: Wed Dec 24 01:12:34 UTC 2025
