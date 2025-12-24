@@ -1,10 +1,10 @@
 
-Loaded 78581 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-23 06:06:34
+Loaded 78637 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-23 12:25:31
 
 Incidents by source:
 source
-newsapi           78480
+newsapi           78536
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-12-23 06:06
+### ASSAULT on 2025-12-23 12:25
 - Location: BBC News
-- Description: The Christmas homecoming of Jack Hibbert, who was shot in the head and shoulder, is a "miracle", his family say.
+- Description: Logan Carlin targeted the salon in Leith which has been linked to an ongoing gang feud in Scotland's central belt.
 
 
-### HOMICIDE on 2025-12-23 05:32
-- Location: Slashdot.org
-- Description: Brown University put police chief on leave after deadly shootingBBC Brown president places police chief on leave as Trump administration launches investigationThe Boston Globe Trump administration to investigate security at Brown University after attackWPRI.c…
+### SHOOTING on 2025-12-23 12:24
+- Location: DW (English)
+- Description: New South Wales, Australia's most populous state, is expected to pass sweeping new gun laws and give police power to temporarily ban protests in the wake of the mass shooting at Bondi.
 
 
-### SHOOTING on 2025-12-23 05:30
-- Location: Gossiplankanews.com
-- Description: A person was injured and hospitalized in a shooting incident that occurred last night (22) in the area between Nugegoda and Kohuwala junction. Police say that a group of unknown gunmen who arrived on a motorcycle targeted a person traveling in a three-wheeler…
+### ROBBERY/THEFT on 2025-12-23 12:22
+- Location: New York Post
+- Description: The unemployed dad said he "was planning to sell the avocados on the street to buy his children Christmas presents."
 
 
-### HOMICIDE on 2025-12-23 05:30
-- Location: Independent.ie
-- Description: Australian police say homemade pipe and tennis ball bombs were thrown at a crowd at Bondi Beach before a mass shooting but failed to detonate, according to court documents released yesterday.
+### HOMICIDE on 2025-12-23 12:05
+- Location: STLtoday.com
+- Description: The St. Louis Metropolitan Police Department acknowledged on Friday that the three-year-old shooting of Bade Jabir, 61, had fallen through the cracks and hadn't previously been reviewed.
 
 
-### DRUG RELATED on 2025-12-23 05:30
-- Location: Independent.ie
-- Description: The Trump administration has been reallocating scarce federal resources to combating drug cartels (“narco-terrorists”), the Venezuelan state (“a foreign terrorist organisation”) and leftist groups like Antifa (a “violent fifth column of domestic terrorists”).
+### HOMICIDE on 2025-12-23 12:03
+- Location: Newser
+- Description: A homicide case in Florida has taken an unusual turn, with investigators alleging that a woman killed two former husbands in separate shootings on the same day, USA Today reports. Authorities say Susan Erica Avalon was arrested Dec. 18 and charged with second…
 
-Analysis generated at: Wed Dec 24 06:25:56 UTC 2025
+Analysis generated at: Wed Dec 24 12:32:21 UTC 2025
