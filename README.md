@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Dec 24 01:59:41 UTC 2025
+Last updated: Wed Dec 24 06:25:56 UTC 2025
 
 ## Latest Analysis
 
-Loaded 78542 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-23 01:48:11
+Loaded 78581 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-23 06:06:34
 
 Incidents by source:
 source
-newsapi           78441
+newsapi           78480
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2025-12-23 01:48
-- Location: New York Post
-- Description: NYPD Lt. Richard Mack, who suffered injuries during the assault that ended his 26-year career, ripped the judge's decision as "repugnant."
+### SHOOTING on 2025-12-23 06:06
+- Location: BBC News
+- Description: The Christmas homecoming of Jack Hibbert, who was shot in the head and shoulder, is a "miracle", his family say.
 
 
-### DRUG RELATED on 2025-12-23 01:45
-- Location: The Times of India
-- Description: Researchers from IIT Madras and Australian universities have developed a novel nanotechnology injection system. This system delivers cancer drugs directly into breast cancer cells using tiny silicon needles, protecting healthy cells. Lab tests show it signifi…
+### HOMICIDE on 2025-12-23 05:32
+- Location: Slashdot.org
+- Description: Brown University put police chief on leave after deadly shootingBBC Brown president places police chief on leave as Trump administration launches investigationThe Boston Globe Trump administration to investigate security at Brown University after attackWPRI.c…
 
 
-### HOMICIDE on 2025-12-23 01:37
-- Location: CBS News
-- Description: Brown University police chief Rodney Chatman has been placed on leave after the mass shooting​ that killed two students in Providence, Rhode Island.
+### SHOOTING on 2025-12-23 05:30
+- Location: Gossiplankanews.com
+- Description: A person was injured and hospitalized in a shooting incident that occurred last night (22) in the area between Nugegoda and Kohuwala junction. Police say that a group of unknown gunmen who arrived on a motorcycle targeted a person traveling in a three-wheeler…
 
 
-### OTHER on 2025-12-23 01:34
-- Location: Legalinsurrection.com
-- Description: As more facts come out, Brown's handling of campus security will look worse and worse, and should result in more firings and resignations.
-The post Feds Open Investigation Into Brown Univ Over Security Failures, as Campus Police Chief Placed on Leave first ap…
+### HOMICIDE on 2025-12-23 05:30
+- Location: Independent.ie
+- Description: Australian police say homemade pipe and tennis ball bombs were thrown at a crowd at Bondi Beach before a mass shooting but failed to detonate, according to court documents released yesterday.
 
 
-### OTHER on 2025-12-23 01:17
-- Location: Fox News
-- Description: Mexican Navy plane reportedly crashes near Galveston Causeway during medical mission, resulting in multiple fatalities as search and recovery efforts continue.
+### DRUG RELATED on 2025-12-23 05:30
+- Location: Independent.ie
+- Description: The Trump administration has been reallocating scarce federal resources to combating drug cartels (“narco-terrorists”), the Venezuelan state (“a foreign terrorist organisation”) and leftist groups like Antifa (a “violent fifth column of domestic terrorists”).
 
-Analysis generated at: Wed Dec 24 01:59:41 UTC 2025
+Analysis generated at: Wed Dec 24 06:25:56 UTC 2025
