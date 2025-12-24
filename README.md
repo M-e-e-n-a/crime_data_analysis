@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Dec 24 12:32:21 UTC 2025
+Last updated: Wed Dec 24 12:52:46 UTC 2025
 
 ## Latest Analysis
 
-Loaded 78637 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-23 12:25:31
+Loaded 78639 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-23 12:49:29
 
 Incidents by source:
 source
-newsapi           78536
+newsapi           78538
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,6 +24,16 @@ bution.svg)
 
 ## Recent Incidents
 
+### DRUG RELATED on 2025-12-23 12:49
+- Location: BBC News
+- Description: Det Insp Yoni Adler says this is the "biggest drugs operation Essex Police has ever run".
+
+
+### HOMICIDE on 2025-12-23 12:42
+- Location: Israelnationalnews.com
+- Description: Attacker shouted that he was going to "kill a Jew today" before committing stabbing, victim says.
+
+
 ### ASSAULT on 2025-12-23 12:25
 - Location: BBC News
 - Description: Logan Carlin targeted the salon in Leith which has been linked to an ongoing gang feud in Scotland's central belt.
@@ -38,14 +48,4 @@ bution.svg)
 - Location: New York Post
 - Description: The unemployed dad said he "was planning to sell the avocados on the street to buy his children Christmas presents."
 
-
-### HOMICIDE on 2025-12-23 12:05
-- Location: STLtoday.com
-- Description: The St. Louis Metropolitan Police Department acknowledged on Friday that the three-year-old shooting of Bade Jabir, 61, had fallen through the cracks and hadn't previously been reviewed.
-
-
-### HOMICIDE on 2025-12-23 12:03
-- Location: Newser
-- Description: A homicide case in Florida has taken an unusual turn, with investigators alleging that a woman killed two former husbands in separate shootings on the same day, USA Today reports. Authorities say Susan Erica Avalon was arrested Dec. 18 and charged with second…
-
-Analysis generated at: Wed Dec 24 12:32:21 UTC 2025
+Analysis generated at: Wed Dec 24 12:52:46 UTC 2025
