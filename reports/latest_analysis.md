@@ -1,10 +1,10 @@
 
-Loaded 78536 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-23 01:09:08
+Loaded 78542 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-23 01:48:11
 
 Incidents by source:
 source
-newsapi           78435
+newsapi           78441
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,31 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-12-23 01:09
+### ASSAULT on 2025-12-23 01:48
 - Location: New York Post
-- Description: NY Post readers discuss a rise in violence against Jewish New Yorkers amid a growing acceptance of antisemitism.
+- Description: NYPD Lt. Richard Mack, who suffered injuries during the assault that ended his 26-year career, ripped the judge's decision as "repugnant."
 
 
-### HOMICIDE on 2025-12-23 01:04
-- Location: ABC News
-- Description: A New Jersey man faces murder and arson charges for allegedly striking another man with an arrow and then setting fires while barricading himself inside his residence.
+### DRUG RELATED on 2025-12-23 01:45
+- Location: The Times of India
+- Description: Researchers from IIT Madras and Australian universities have developed a novel nanotechnology injection system. This system delivers cancer drugs directly into breast cancer cells using tiny silicon needles, protecting healthy cells. Lab tests show it signifi…
 
 
-### HOMICIDE on 2025-12-23 01:00
-- Location: CBC News
-- Description: Nearly six years after 24-year-old soccer player Edi Bogere-Nyigwo's body was discovered in rural Maple Ridge, B.C., a man has been charged in his death.
+### HOMICIDE on 2025-12-23 01:37
+- Location: CBS News
+- Description: Brown University police chief Rodney Chatman has been placed on leave after the mass shooting​ that killed two students in Providence, Rhode Island.
 
 
-### HOMICIDE on 2025-12-23 00:58
-- Location: New York Post
-- Description: Brown University has placed its troubled police chief on administrative leave "effective immediately" in the wake of the devastating campus shooting that killed two students.
+### OTHER on 2025-12-23 01:34
+- Location: Legalinsurrection.com
+- Description: As more facts come out, Brown's handling of campus security will look worse and worse, and should result in more firings and resignations.
+The post Feds Open Investigation Into Brown Univ Over Security Failures, as Campus Police Chief Placed on Leave first ap…
 
 
-### OTHER on 2025-12-23 00:56
-- Location: GameSpot
-- Description: The Pink Panther Blu-rays 
- Releasing December 30 
-See at Amazon 
-The Pink Panther is one of the few film franchises instantly recognizable by its theme tune, and if you've never seen it, you can grab four classic entries in the series on 4K Blu-ray starti…
+### OTHER on 2025-12-23 01:17
+- Location: Fox News
+- Description: Mexican Navy plane reportedly crashes near Galveston Causeway during medical mission, resulting in multiple fatalities as search and recovery efforts continue.
 
-Analysis generated at: Wed Dec 24 01:12:34 UTC 2025
+Analysis generated at: Wed Dec 24 01:59:41 UTC 2025
