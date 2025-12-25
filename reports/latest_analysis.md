@@ -1,10 +1,10 @@
 
-Loaded 78752 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-24 02:00:54
+Loaded 78796 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-24 06:10:46
 
 Incidents by source:
 source
-newsapi           78651
+newsapi           78695
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-12-24 02:00
-- Location: SoraNews24
-- Description: If you’re bad behind the handlebars, you’re considered bad behind the wheel here. As the end of the year approaches, it’s a common time of year to meet family, friends, and coworkers in situations that often involve lots of alcohol. Of course, drinking and dr…
+### HOMICIDE on 2025-12-24 06:10
+- Location: Gossiplankanews.com
+- Description: A tragic incident is reported from Galkanda area, Ankumbura, Kandy. Ankumbura Police confirm that a person residing in a house that was closed due to a drought risk was burnt to death in a sudden fire that broke out there.
+<!--gossip-below-article-Rs--> (ads…
 
 
-### HOMICIDE on 2025-12-24 02:00
-- Location: International Business Times
-- Description: Denmark reels after a two year old boy is killed in a seventh floor fall in Høje Gladsaxe, with a man admitting guilt.
+### DRUG RELATED on 2025-12-24 06:04
+- Location: The Star Online
+- Description: ALOR SETAR: A total of 77 civil servants, including police officers and personnel, were arrested in Kedah for alleged drug abuse. Read full story
 
 
-### OTHER on 2025-12-24 02:00
-- Location: Yahoo Entertainment
-- Description: Ashley Shaw, the owner of The Salty Local in downtown Fernandina Beach, spent part of her weekend handling the first break-in she’s ever experienced while...
+### OTHER on 2025-12-24 06:01
+- Location: BBC News
+- Description: The landowner says a lack of action over waste dumped on his field in Faversham is "outrageous".
 
 
-### HOMICIDE on 2025-12-24 01:52
-- Location: Slashdot.org
-- Description: Delaware state police trooper killed in active shooter incident at DMV in New Castle, DelawareABC7 Los Angeles Live updates: Gunman killed after murdering state trooper at Del. DMV: OfficialsNBC10 Philadelphia Delaware state police trooper killed in active sh…
+### OTHER on 2025-12-24 06:00
+- Location: BBC News
+- Description: There were 595 sexual offences across London Underground in 2024-25, the most since 2019-20.
 
 
-### SHOOTING on 2025-12-24 01:47
-- Location: KLAS - 8 News Now
-- Description: LAS VEGAS (KLAS) — Metro police are investigating a shooting after they say a homeowner shot at two men in the far west Las Vegas valley. It happened on...
+### DRUG RELATED on 2025-12-24 06:00
+- Location: Smallwarsjournal.com
+- Description: From the French Connection to today’s criminal networks, drug trafficking in France has undergone profound transformations, evolving from centralized, predictable structures to decentralized, technologically advanced organizations. This article examines these…
 
-Analysis generated at: Thu Dec 25 02:01:40 UTC 2025
+Analysis generated at: Thu Dec 25 06:25:31 UTC 2025
