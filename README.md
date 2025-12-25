@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Dec 25 06:25:31 UTC 2025
+Last updated: Thu Dec 25 12:31:10 UTC 2025
 
 ## Latest Analysis
 
-Loaded 78796 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-24 06:10:46
+Loaded 78850 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-24 12:29:45
 
 Incidents by source:
 source
-newsapi           78695
+newsapi           78749
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-12-24 06:10
-- Location: Gossiplankanews.com
-- Description: A tragic incident is reported from Galkanda area, Ankumbura, Kandy. Ankumbura Police confirm that a person residing in a house that was closed due to a drought risk was burnt to death in a sudden fire that broke out there.
-<!--gossip-below-article-Rs--> (ads…
+### HOMICIDE on 2025-12-24 12:29
+- Location: Fox News
+- Description: A woman died from stab wounds after allegedly being attacked inside a Barnes & Noble bookstore in Palm Beach Gardens, leaving police searching for a motive.
 
 
-### DRUG RELATED on 2025-12-24 06:04
-- Location: The Star Online
-- Description: ALOR SETAR: A total of 77 civil servants, including police officers and personnel, were arrested in Kedah for alleged drug abuse. Read full story
+### HOMICIDE on 2025-12-24 12:26
+- Location: New York Post
+- Description: Three people were killed by a bomb in Moscow on Wednesday after two police officers approached a man acting suspiciously near the site where a senior general was killed two days ago by a car bomb that Russia said was planted by Ukrainian intelligence.
 
 
-### OTHER on 2025-12-24 06:01
-- Location: BBC News
-- Description: The landowner says a lack of action over waste dumped on his field in Faversham is "outrageous".
+### ROBBERY/THEFT on 2025-12-24 12:19
+- Location: Mediafax.ro
+- Description: Two Romanians fraudulently obtained hundreds of thousands of pounds each by accessing Government Gateway accounts, personal accounts for collecting taxes and child benefits made available by the British Government to British citizens and residents in the UK.
 
 
-### OTHER on 2025-12-24 06:00
-- Location: BBC News
-- Description: There were 595 sexual offences across London Underground in 2024-25, the most since 2019-20.
+### OTHER on 2025-12-24 12:00
+- Location: Lawyersgunsmoneyblog.com
+- Description: This is the grave of Michael Musmanno. Born in 1897 in Stowe Township, Pennsylvania, Musmanno grew up in the Italian coal mining immigrant world. Lots of Italians came to Pennsylvania and worked in the coal mines. Not too many got out of there to go on and be…
 
 
-### DRUG RELATED on 2025-12-24 06:00
-- Location: Smallwarsjournal.com
-- Description: From the French Connection to today’s criminal networks, drug trafficking in France has undergone profound transformations, evolving from centralized, predictable structures to decentralized, technologically advanced organizations. This article examines these…
+### OTHER on 2025-12-24 12:00
+- Location: The Atlantic
+- Description: Trump has presented Mexico’s Claudia Sheinbaum with a near-impossible dilemma.
 
-Analysis generated at: Thu Dec 25 06:25:31 UTC 2025
+Analysis generated at: Thu Dec 25 12:31:10 UTC 2025
