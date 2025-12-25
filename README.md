@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Dec 25 12:52:31 UTC 2025
+Last updated: Thu Dec 25 18:22:48 UTC 2025
 
 ## Latest Analysis
 
-Loaded 78852 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-24 12:44:16
+Loaded 78910 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-24 18:08:48
 
 Incidents by source:
 source
-newsapi           78751
+newsapi           78809
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-12-24 12:44
-- Location: The Irish Times
-- Description: Arrest of man, who is expected to be deported to Ireland, comes days after woman was arrested by gardaí in Dublin
+### ROBBERY/THEFT on 2025-12-24 18:08
+- Location: The Times of India
+- Description: In 2025, the Supreme Court of India witnessed a series of groundbreaking developments. An internal probe ignited impeachment proceedings against a judge from the Delhi High Court. Additionally, a presidential reference sparked a legal debate over the authorit…
 
 
-### ASSAULT on 2025-12-24 12:35
-- Location: Israelnationalnews.com
-- Description: The Judicial Complaints Commissioner warned against wording that downplays the severity of criminal actions even if the attacker has already died.
+### HOMICIDE on 2025-12-24 18:04
+- Location: CBC News
+- Description: Durham police have charged one man and are searching for a second who is considered armed and dangerous in connection with the region’s ninth homicide.
 
 
-### HOMICIDE on 2025-12-24 12:29
-- Location: Fox News
-- Description: A woman died from stab wounds after allegedly being attacked inside a Barnes & Noble bookstore in Palm Beach Gardens, leaving police searching for a motive.
+### HOMICIDE on 2025-12-24 18:00
+- Location: Legalinsurrection.com
+- Description: "The board conducts regular reviews of the university president, and has authority over the president’s employment."
+The post Brown University Board of Trustees Curiously Silent Following Murders on Campus first appeared on Le·gal In·sur·rec·tion.
 
 
-### HOMICIDE on 2025-12-24 12:26
-- Location: New York Post
-- Description: Three people were killed by a bomb in Moscow on Wednesday after two police officers approached a man acting suspiciously near the site where a senior general was killed two days ago by a car bomb that Russia said was planted by Ukrainian intelligence.
+### OTHER on 2025-12-24 18:00
+- Location: /FILM
+- Description: The Absolute DC Universe's first crossover brings Batman and Wonder Woman together, putting an unconventional twist on the Bat-Signal along the way.
 
 
-### ROBBERY/THEFT on 2025-12-24 12:19
-- Location: Mediafax.ro
-- Description: Two Romanians fraudulently obtained hundreds of thousands of pounds each by accessing Government Gateway accounts, personal accounts for collecting taxes and child benefits made available by the British Government to British citizens and residents in the UK.
+### OTHER on 2025-12-24 18:00
+- Location: The Atlantic
+- Description: The Atlantic’s Helen Lewis on the Riyadh Comedy Festival, why comedians are attracted to conspiracy theories, and the rise of the right-wing comedy podcast-industrial complex. Plus: the importance of NATO and David’s reflections on Edith Wharton’s Autres Temp…
 
-Analysis generated at: Thu Dec 25 12:52:31 UTC 2025
+Analysis generated at: Thu Dec 25 18:22:48 UTC 2025
