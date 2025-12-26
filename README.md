@@ -1,5 +1,5 @@
 # Crime Data Analysis
-Last updated: Fri Dec 26 12:31:18 UTC 2025
+Last updated: Fri Dec 26 12:52:21 UTC 2025
 
 ## Latest Analysis
 
@@ -49,4 +49,4 @@ The post UNESCO Warns of ‘Serious Decline’ in Freedom and Safety for Jo…
 - Location: CBC News
 - Description: It was a busy year for Manitoba, but when hasn't it been? If you've been out of the loop, or just want to refresh your memory, then take a look at CBC Manitoba's top 10 news stories of 2025.
 
-Analysis generated at: Fri Dec 26 12:31:18 UTC 2025
+Analysis generated at: Fri Dec 26 12:52:21 UTC 2025
