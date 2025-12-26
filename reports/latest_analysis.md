@@ -1,10 +1,10 @@
 
-Loaded 78910 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-24 18:08:48
+Loaded 78919 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-25 00:59:24
 
 Incidents by source:
 source
-newsapi           78809
+newsapi           78818
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,32 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2025-12-24 18:08
-- Location: The Times of India
-- Description: In 2025, the Supreme Court of India witnessed a series of groundbreaking developments. An internal probe ignited impeachment proceedings against a judge from the Delhi High Court. Additionally, a presidential reference sparked a legal debate over the authorit…
+### OTHER on 2025-12-25 00:59
+- Location: ABC News (AU)
+- Description: Authorities were called to a St Kilda East residence about 3am, where a car with a sign celebrating the Jewish holiday had been set alight.
 
 
-### HOMICIDE on 2025-12-24 18:04
-- Location: CBC News
-- Description: Durham police have charged one man and are searching for a second who is considered armed and dangerous in connection with the region’s ninth homicide.
+### OTHER on 2025-12-25 00:53
+- Location: The Punch
+- Description: Ghanaian authorities arrest 48 Nigerian nationals in a major crackdown on cybercrime, targeting romance scams and online investment fraud.
+
+Read More: https://punchng.com/ghana-arrests-48-nigerians-linked-to-cybercrime-operations/
 
 
-### HOMICIDE on 2025-12-24 18:00
-- Location: Legalinsurrection.com
-- Description: "The board conducts regular reviews of the university president, and has authority over the president’s employment."
-The post Brown University Board of Trustees Curiously Silent Following Murders on Campus first appeared on Le·gal In·sur·rec·tion.
+### OTHER on 2025-12-25 00:53
+- Location: The Indian Express
+- Description: Started in 2018, it is now expected to be launched in 2026
 
 
-### OTHER on 2025-12-24 18:00
-- Location: /FILM
-- Description: The Absolute DC Universe's first crossover brings Batman and Wonder Woman together, putting an unconventional twist on the Bat-Signal along the way.
+### SHOOTING on 2025-12-25 00:52
+- Location: New York Post
+- Description: “I know that kind of person, because I work in customer service. I just said, ‘Thank you, sir.’ And he said he was taking my life today,” the victim said.
 
 
-### OTHER on 2025-12-24 18:00
-- Location: The Atlantic
-- Description: The Atlantic’s Helen Lewis on the Riyadh Comedy Festival, why comedians are attracted to conspiracy theories, and the rise of the right-wing comedy podcast-industrial complex. Plus: the importance of NATO and David’s reflections on Edith Wharton’s Autres Temp…
+### OTHER on 2025-12-25 00:38
+- Location: The Punch
+- Description: Nasarawa State Police Command boosts Yuletide security by deploying 2,231 officers to ensure safety of lives and property during the festive season.
 
-Analysis generated at: Thu Dec 25 18:22:48 UTC 2025
+Read More: https://punchng.com/yuletide-police-beef-up-security-with-2231-officers-in-nasarawa/
+
+Analysis generated at: Fri Dec 26 01:13:20 UTC 2025
