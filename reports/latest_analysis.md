@@ -1,10 +1,10 @@
 
-Loaded 78919 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-25 00:59:24
+Loaded 78922 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-25 01:50:36
 
 Incidents by source:
 source
-newsapi           78818
+newsapi           78821
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,6 +20,21 @@ bution.svg)
 
 ## Recent Incidents
 
+### ROBBERY/THEFT on 2025-12-25 01:50
+- Location: Fox News
+- Description: Thieves attempted to drag an ATM through a Texas 7-Eleven's doors using a stolen black SUV and cable on Christmas Eve, but the machine broke free.
+
+
+### SHOOTING on 2025-12-25 01:45
+- Location: CNA
+- Description: SYDNEY: An Australian man has been charged and detained after allegedly posting a message on social media backing the mass shooting on Bondi Beach.A court in Western Australia heard that polic
+
+
+### DRUG RELATED on 2025-12-25 01:22
+- Location: Lifesciencesworld.com
+- Description: What Drugs Are Police Dogs Trained To Smell? Police dogs, also known as K-9 units, undergo rigorous training to detect various illicit substances. The primary answer to what drugs are police dogs trained to smell? includes, but isn’t limited to, marijuana, co…
+
+
 ### OTHER on 2025-12-25 00:59
 - Location: ABC News (AU)
 - Description: Authorities were called to a St Kilda East residence about 3am, where a car with a sign celebrating the Jewish holiday had been set alight.
@@ -31,21 +46,4 @@ bution.svg)
 
 Read More: https://punchng.com/ghana-arrests-48-nigerians-linked-to-cybercrime-operations/
 
-
-### OTHER on 2025-12-25 00:53
-- Location: The Indian Express
-- Description: Started in 2018, it is now expected to be launched in 2026
-
-
-### SHOOTING on 2025-12-25 00:52
-- Location: New York Post
-- Description: “I know that kind of person, because I work in customer service. I just said, ‘Thank you, sir.’ And he said he was taking my life today,” the victim said.
-
-
-### OTHER on 2025-12-25 00:38
-- Location: The Punch
-- Description: Nasarawa State Police Command boosts Yuletide security by deploying 2,231 officers to ensure safety of lives and property during the festive season.
-
-Read More: https://punchng.com/yuletide-police-beef-up-security-with-2231-officers-in-nasarawa/
-
-Analysis generated at: Fri Dec 26 01:13:20 UTC 2025
+Analysis generated at: Fri Dec 26 02:01:16 UTC 2025
