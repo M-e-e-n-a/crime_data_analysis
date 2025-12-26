@@ -1,10 +1,10 @@
 
-Loaded 78973 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-25 12:11:55
+Loaded 79019 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-25 18:20:51
 
 Incidents by source:
 source
-newsapi           78872
+newsapi           78918
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2025-12-25 12:11
-- Location: Newser
-- Description: It probably went a lot easier in the planning stages, on paper. An early morning smash-and-grab at a 7-Eleven near Fort Worth, Texas, ended with a wrecked store and an abandoned ATM instead of a payday for the thieves, police say. Surveillance video released …
+### OTHER on 2025-12-25 18:20
+- Location: National Post
+- Description: Mexico seized motorcycles and two Olympic medals in raids linked to a former Olympian on the FBI's most wanted list, likely Canadian fugitive Ryan Wedding.
 
 
-### HOMICIDE on 2025-12-25 12:00
-- Location: Breitbart News
-- Description: Nigerian activists and leaders at the front lines of the jihadist mass killings in the country denounced attempts to erase the religious aspect of the persecution in the country during a recent online press briefing alongside the human rights organization Ope…
+### OTHER on 2025-12-25 18:15
+- Location: New York Post
+- Description: The vandal's destruction came one day before Jewish New Yorker Elias Rosner, 35, was stabbed by a hate-spewing man.
 
 
-### OTHER on 2025-12-25 12:00
-- Location: HuffPost
-- Description: “That choice isn’t holiday symbolism; it’s political theater," one expert said.
+### HOMICIDE on 2025-12-25 18:12
+- Location: New York Post
+- Description: Wei Hou, 41, was tracked to the Castle Inn in Schodack, just south of Albany, and taken into custody after a brief Christmas Eve standoff.
 
 
-### OTHER on 2025-12-25 12:00
-- Location: Breitbart News
-- Description: The United Nations Educational, Scientific, and Cultural Organization (UNESCO) released a report on December 12 that found freedom of expression has declined sharply over the past decade.
-The post UNESCO Warns of ‘Serious Decline’ in Freedom and Safety for Jo…
+### OTHER on 2025-12-25 18:11
+- Location: Protothema.gr
+- Description: The total booty of the fraudsters reaches half a million euros - A 40-year-old man, a 36-year-old woman and a 25-year-old man were arrested
+The post Colpo grosso in Thessaloniki: Fake DEDDIE employees con 70-year-old woman out of gold coins and €100,000 in je…
 
 
-### OTHER on 2025-12-25 12:00
-- Location: CBC News
-- Description: It was a busy year for Manitoba, but when hasn't it been? If you've been out of the loop, or just want to refresh your memory, then take a look at CBC Manitoba's top 10 news stories of 2025.
+### HOMICIDE on 2025-12-25 17:58
+- Location: Bleeding Cool News
+- Description: I Saw Santa is a particularly grisly Spawn Universe series by Andrew Sanders, Chris Killian and Bleeding Cool favourite Thomas Nachlik, with police detectives Sam and Twitch working on a Christmas-themed mass murder of a family, their heads decapitated and pl…
 
-Analysis generated at: Fri Dec 26 12:52:21 UTC 2025
+Analysis generated at: Fri Dec 26 18:22:39 UTC 2025
