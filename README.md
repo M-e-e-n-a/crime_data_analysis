@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Dec 26 06:25:20 UTC 2025
+Last updated: Fri Dec 26 12:31:18 UTC 2025
 
 ## Latest Analysis
 
-Loaded 78937 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-25 06:15:58
+Loaded 78973 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-25 12:11:55
 
 Incidents by source:
 source
-newsapi           78836
+newsapi           78872
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-12-25 06:15
-- Location: Japan Today
-- Description: Christmas celebrations were held at Sydney's famed Bondi beach on Thursday in the aftermath of a terror ‌attack that killed 15 people there more than a week ago, as the community continued to grapple with the country's deadliest mass shooting in nearly three …
+### ROBBERY/THEFT on 2025-12-25 12:11
+- Location: Newser
+- Description: It probably went a lot easier in the planning stages, on paper. An early morning smash-and-grab at a 7-Eleven near Fort Worth, Texas, ended with a wrecked store and an abandoned ATM instead of a payday for the thieves, police say. Surveillance video released …
 
 
-### OTHER on 2025-12-25 05:47
-- Location: British Film Institute
-- Description: Now in its ninth year, our annual poll showcases 255 vital video essays, nominated by 72 international voters.
+### HOMICIDE on 2025-12-25 12:00
+- Location: Breitbart News
+- Description: Nigerian activists and leaders at the front lines of the jihadist mass killings in the country denounced attempts to erase the religious aspect of the persecution in the country during a recent online press briefing alongside the human rights organization Ope…
 
 
-### HOMICIDE on 2025-12-25 05:29
-- Location: The Indian Express
-- Description: Shiva was murdered outside his house on a busy street in east Bengaluru by a gang of hired assailants, allegedly operating on behalf of Basavaraj’s associates, including Jaga. While Jaga is the main accused in the case, Basavaraj is accused number five.
+### OTHER on 2025-12-25 12:00
+- Location: HuffPost
+- Description: “That choice isn’t holiday symbolism; it’s political theater," one expert said.
 
 
-### HOMICIDE on 2025-12-25 05:24
-- Location: Freerepublic.com
-- Description: A grand jury has chosen not to indict the father of two Kentucky State University students who faced murder charges following an on-campus shooting that left one student dead and another critically wounded. Following Tuesday's hearing, defense lawyer Scott Da…
+### OTHER on 2025-12-25 12:00
+- Location: Breitbart News
+- Description: The United Nations Educational, Scientific, and Cultural Organization (UNESCO) released a report on December 12 that found freedom of expression has declined sharply over the past decade.
+The post UNESCO Warns of ‘Serious Decline’ in Freedom and Safety for Jo…
 
 
-### OTHER on 2025-12-25 04:51
-- Location: Freerepublic.com
-- Description: "...uncovered over a million more documents potentially related to the Jeffrey Epstein case" That post this afternoon from the US Justice Department...Thomas Massie... "they expect you to believe this involves only two guilty people"... Two oil storage tanks …
+### OTHER on 2025-12-25 12:00
+- Location: CBC News
+- Description: It was a busy year for Manitoba, but when hasn't it been? If you've been out of the loop, or just want to refresh your memory, then take a look at CBC Manitoba's top 10 news stories of 2025.
 
-Analysis generated at: Fri Dec 26 06:25:20 UTC 2025
+Analysis generated at: Fri Dec 26 12:31:18 UTC 2025
