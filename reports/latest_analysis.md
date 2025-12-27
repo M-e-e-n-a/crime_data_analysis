@@ -1,10 +1,10 @@
 
-Loaded 79023 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-26 01:55:23
+Loaded 79039 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-26 06:00:00
 
 Incidents by source:
 source
-newsapi           78922
+newsapi           78938
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,32 +20,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-12-26 01:55
-- Location: Israelnationalnews.com
-- Description: Police have opened an investigation following a shooting incident on Thursday evening in the town of Ilut, during which a 48‑year‑old resident of Kafr Kanna was pronounced dead.Police forces were dispatched to the scene, began searching for suspects, and laun…
+### OTHER on 2025-12-26 06:00
+- Location: Naturalnews.com
+- Description: The Pennsylvania Supreme Court ruled police do not need a warrant to access an individual’s Google search history. The court argued users have no “reasonable expectation of privacy” because tech companies routinely collect and sell data. The decision stemmed …
 
 
-### HOMICIDE on 2025-12-26 01:39
+### OTHER on 2025-12-26 05:37
 - Location: The Punch
-- Description: A deadly Borno bomb blast at a Maiduguri mosque prompts a nationwide security scale-up, with thousands of operatives deployed to protect citizens.
+- Description: Get the latest Zamfara State news. Gov. Dauda Lawal tackles insecurity, signs the 2026 budget, and launches new healthcare infrastructure projects.
 
-Read More: https://punchng.com/borno-bomb-blast-sparks-heightened-security-nationwide/
-
-
-### DRUG RELATED on 2025-12-26 01:27
-- Location: The Punch
-- Description: The Sokoto NDLEA arrests 146 suspects and seizes 982.8kg of illicit drugs, including cannabis and codeine, in a four-month crackdown on trafficking.
-
-Read More: https://punchng.com/sokoto-ndlea-arrests-146-seizes-illicit-drugs/
+Read More: https://punchng.com/zamfara-govt-reaffirms-commitment-to-protect-vulnerable-populations/
 
 
-### HOMICIDE on 2025-12-26 01:01
-- Location: New York Post
-- Description: A post on social media revealed that defense attorney Scott Danks said grand jurors did not indict his client, Jacob Lee Bard, for the Dec. 9 shooting at Kentucky State University.
+### OTHER on 2025-12-26 05:26
+- Location: ABC News (AU)
+- Description: Summer is here and so are those long leisurely days of nothing following Christmas. Here are five documentaries that will help you while away the time.
 
 
-### OTHER on 2025-12-25 18:20
-- Location: National Post
-- Description: Mexico seized motorcycles and two Olympic medals in raids linked to a former Olympian on the FBI's most wanted list, likely Canadian fugitive Ryan Wedding.
+### ROBBERY/THEFT on 2025-12-26 04:58
+- Location: The Times of India
+- Description: Indore police cracked a major jewellery shop heist. Two 18-year-olds, a graphic designer and a NEET aspirant, were arrested. The duo stole jewellery worth over Rs 16 lakh from Shri Jewellers.  CCTV footage and technical tracking led to their capture in Bhopal…
 
-Analysis generated at: Sat Dec 27 01:58:41 UTC 2025
+
+### OTHER on 2025-12-26 04:56
+- Location: The Times of India
+- Description: Najib Razak, once groomed for leadership, now serves jail time for graft. A crucial verdict looms in a second trial concerning the 1MDB scandal. Investigations have deepened allegations against him and his wife, Rosmah Mansor. This marks a significant fall fo…
+
+Analysis generated at: Sat Dec 27 06:24:01 UTC 2025
