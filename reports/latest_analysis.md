@@ -44,4 +44,4 @@ bution.svg)
 - Location: Football Italia
 - Description: Serie A returns to San Siro on Sunday lunchtime as second-placed Milan welcome Verona, with kick-off scheduled for 11:30 GMT (12:30 local time).
 
-Analysis generated at: Sat Dec 27 12:29:43 UTC 2025
+Analysis generated at: Sat Dec 27 12:49:58 UTC 2025
