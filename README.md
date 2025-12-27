@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Dec 27 06:24:01 UTC 2025
+Last updated: Sat Dec 27 12:29:43 UTC 2025
 
 ## Latest Analysis
 
-Loaded 79039 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-26 06:00:00
+Loaded 79084 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-26 12:23:54
 
 Incidents by source:
 source
-newsapi           78938
+newsapi           78983
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,30 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-12-26 06:00
-- Location: Naturalnews.com
-- Description: The Pennsylvania Supreme Court ruled police do not need a warrant to access an individual’s Google search history. The court argued users have no “reasonable expectation of privacy” because tech companies routinely collect and sell data. The decision stemmed …
+### HOMICIDE on 2025-12-26 12:23
+- Location: RTE
+- Description: EastEnders appears to have killed off one of its characters following a confrontation at the Queen Vic pub during the soap's two-part Christmas special.
 
 
-### OTHER on 2025-12-26 05:37
-- Location: The Punch
-- Description: Get the latest Zamfara State news. Gov. Dauda Lawal tackles insecurity, signs the 2026 budget, and launches new healthcare infrastructure projects.
-
-Read More: https://punchng.com/zamfara-govt-reaffirms-commitment-to-protect-vulnerable-populations/
+### ROBBERY/THEFT on 2025-12-26 12:15
+- Location: Khabarhub.com
+- Description: KATHMANDU: The Kathmandu Valley Traffic Police Office has recovered 60 motorcycles and scooters that had been stolen at different times and handed them over to their respective owners on Friday. At a program organized at the Kathmandu Valley Police Office, Ra…
 
 
-### OTHER on 2025-12-26 05:26
-- Location: ABC News (AU)
-- Description: Summer is here and so are those long leisurely days of nothing following Christmas. Here are five documentaries that will help you while away the time.
+### ASSAULT on 2025-12-26 12:13
+- Location: RTE
+- Description: Fourteen people have been injured in a stabbing attack in a factory in central Japan, during which an unspecified liquid was also sprayed, officials said today.
 
 
-### ROBBERY/THEFT on 2025-12-26 04:58
-- Location: The Times of India
-- Description: Indore police cracked a major jewellery shop heist. Two 18-year-olds, a graphic designer and a NEET aspirant, were arrested. The duo stole jewellery worth over Rs 16 lakh from Shri Jewellers.  CCTV footage and technical tracking led to their capture in Bhopal…
+### OTHER on 2025-12-26 12:00
+- Location: Chicago Reader
+- Description: Terrance has followed the same routine for years. Once a week, he leaves his family around 7 AM and drives to the Second District police station, a rectangular, two-story building of beige bricks at 51st and Wentworth in Chicago’s Fuller Park neighborhood. In…
 
 
-### OTHER on 2025-12-26 04:56
-- Location: The Times of India
-- Description: Najib Razak, once groomed for leadership, now serves jail time for graft. A crucial verdict looms in a second trial concerning the 1MDB scandal. Investigations have deepened allegations against him and his wife, Rosmah Mansor. This marks a significant fall fo…
+### SHOOTING on 2025-12-26 12:00
+- Location: Football Italia
+- Description: Serie A returns to San Siro on Sunday lunchtime as second-placed Milan welcome Verona, with kick-off scheduled for 11:30 GMT (12:30 local time).
 
-Analysis generated at: Sat Dec 27 06:24:01 UTC 2025
+Analysis generated at: Sat Dec 27 12:29:43 UTC 2025
