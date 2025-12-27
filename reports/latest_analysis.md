@@ -1,10 +1,10 @@
 
-Loaded 79019 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-25 18:20:51
+Loaded 79020 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-26 01:01:16
 
 Incidents by source:
 source
-newsapi           78918
+newsapi           78919
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -19,6 +19,11 @@ bution.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### HOMICIDE on 2025-12-26 01:01
+- Location: New York Post
+- Description: A post on social media revealed that defense attorney Scott Danks said grand jurors did not indict his client, Jacob Lee Bard, for the Dec. 9 shooting at Kentucky State University.
+
 
 ### OTHER on 2025-12-25 18:20
 - Location: National Post
@@ -40,9 +45,4 @@ bution.svg)
 - Description: The total booty of the fraudsters reaches half a million euros - A 40-year-old man, a 36-year-old woman and a 25-year-old man were arrested
 The post Colpo grosso in Thessaloniki: Fake DEDDIE employees con 70-year-old woman out of gold coins and €100,000 in je…
 
-
-### HOMICIDE on 2025-12-25 17:58
-- Location: Bleeding Cool News
-- Description: I Saw Santa is a particularly grisly Spawn Universe series by Andrew Sanders, Chris Killian and Bleeding Cool favourite Thomas Nachlik, with police detectives Sam and Twitch working on a Christmas-themed mass murder of a family, their heads decapitated and pl…
-
-Analysis generated at: Fri Dec 26 18:22:39 UTC 2025
+Analysis generated at: Sat Dec 27 01:11:30 UTC 2025
