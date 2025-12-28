@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Dec 28 12:50:37 UTC 2025
+Last updated: Sun Dec 28 18:22:33 UTC 2025
 
 ## Latest Analysis
 
-Loaded 79222 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-27 12:43:40
+Loaded 79267 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-27 18:17:52
 
 Incidents by source:
 source
-newsapi           79121
+newsapi           79166
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-12-27 12:43
-- Location: WPXI Pittsburgh
-- Description: The spokesperson says witnesses told police that the injured man was in “some kind of altercation” with another man before he was shot.
+### OTHER on 2025-12-27 18:17
+- Location: Daily Beast
+- Description: Pete Hegseth’s bomb-first, question-later approach to alleged narcoterrorists is reportedly helping those same terrorists get off scot-free. A Hegseth...
 
 
-### ASSAULT on 2025-12-27 12:26
-- Location: The Times of India
-- Description: A new chargesheet reveals cleric Maulana Tauqeer Raza Khan allegedly directed a mob to attack police and chant 'sar tan se juda' slogans during Bareilly violence on September 26.  Police have filed charges against 38 people, including Khan.  Violence erupted …
+### DRUG RELATED on 2025-12-27 18:00
+- Location: WSB Atlanta
+- Description: What began as a routine traffic stop just after midnight following Christmas quickly escalated into a criminal case, according to the Duluth Police Department.
 
 
-### HOMICIDE on 2025-12-27 11:03
-- Location: ABC News (AU)
-- Description: Authorities say the cause of death is unknown, and further updates will be provided.
+### DRUG RELATED on 2025-12-27 18:00
+- Location: Breitbart News
+- Description: An alleged drug trafficker is behind bars after police in Kentucky confiscated 55 pounds of suspected methamphetamine wrapped as Christmas presents in the trunk of his car.
+The post Police: Man Arrested in Kentucky with 55 Pounds of Meth Wrapped as Christmas …
 
 
-### OTHER on 2025-12-27 11:00
-- Location: National Post
-- Description: Ideology has seized our universities, Cary Kogan says: “We can't have this kind of identity-based hate movement being taught in classrooms."
+### HOMICIDE on 2025-12-27 18:00
+- Location: Dramabeans.com
+- Description: Everyone deserves a proper defense, no matter what the public may think — or in the case of a bigtime idol, no matter what their fans may think. When this idol is slapped in the face with a murder charge, people start to wonder if they ever knew him at all. B…
 
 
-### ASSAULT on 2025-12-27 10:44
-- Location: The Indian Express
-- Description: While the world celebrates Christmas, it seems to be a low-key affair in a number of states in our country, where miscreants are attacking Christians in their homes and places of worship
+### ROBBERY/THEFT on 2025-12-27 17:59
+- Location: Breitbart News
+- Description: An extremely valuable shipment of live lobsters went missing after being picked up in Taunton, Massachusetts.
+The post Live Lobster Shipment Worth $400,000 Disappears amid Rising Cargo Thefts appeared first on Breitbart.
 
-Analysis generated at: Sun Dec 28 12:50:37 UTC 2025
+Analysis generated at: Sun Dec 28 18:22:33 UTC 2025
