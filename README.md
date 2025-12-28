@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Dec 27 18:21:59 UTC 2025
+Last updated: Sun Dec 28 01:21:29 UTC 2025
 
 ## Latest Analysis
 
-Loaded 79151 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-26 18:13:29
+Loaded 79163 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-27 01:20:08
 
 Incidents by source:
 source
-newsapi           79050
+newsapi           79062
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2025-12-26 18:13
-- Location: GhanaWeb
-- Description: INTERPOL has disclosed that a ransomware attack on a Ghanaian financial institution led to the theft of about US$120,000, highlighting the growing financial toll cybercrime is taking on banks and other financial institutions across the continent.
+### SHOOTING on 2025-12-27 01:20
+- Location: The Indian Express
+- Description: Why Pune Police travelled 105 km, with body cameras sending live feed and drone support, for one of the biggest raids Umarti – and a community traditionally into metallurgy – has seen
 
 
-### OTHER on 2025-12-26 18:09
-- Location: Wnd.com
-- Description: Claim forcing a DEI agenda on students allows them to 'reflect' on whites' 'historical privilege'
+### OTHER on 2025-12-27 01:19
+- Location: Borderlandbeat.com
+- Description: “Sol Prendido” for Borderland Beat  The Chamber of Deputies is keeping "frozen" at least 30 initiatives presented during the current legisla...
 
 
-### SHOOTING on 2025-12-26 18:08
-- Location: New York Post
-- Description: "We later learned the bullet in the face hit her on the bridge of the nose [then] went straight up and out the top of her head."
+### HOMICIDE on 2025-12-27 01:06
+- Location: Boston Herald
+- Description: Boston police arrested a man for armed robbery after they say that he stole a cash register from a downtown 7-11 convenience store and then threatened to kill the cops. Plus: 24-hour BPD arrest report.
 
 
-### OTHER on 2025-12-26 18:06
-- Location: New York Post
-- Description: The sparsely populated republic gained pop-culture relevance as the location of the 10th season of "Survivor."
+### OTHER on 2025-12-27 01:00
+- Location: Decider
+- Description: And who could forget Dylan O'Brien in Twinless?
 
 
-### SHOOTING on 2025-12-26 17:53
-- Location: Westernjournal.com
-- Description: Definition of Insanity: Repeat Offender Reportedly Tied to 3 Separate Shootings Was Freed After SWAT Standoffwesternjournal.com
+### HOMICIDE on 2025-12-27 00:57
+- Location: The Times of India
+- Description: A man was killed in Mint Hill, North Carolina, after opening fire on police during a child custody exchange. Two Mint Hill police officers were wounded in the incident. The man died at the scene following a gun battle with officers. Authorities were called to…
 
-Analysis generated at: Sat Dec 27 18:21:59 UTC 2025
+Analysis generated at: Sun Dec 28 01:21:29 UTC 2025
