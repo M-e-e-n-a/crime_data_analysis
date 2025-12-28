@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Dec 28 02:12:26 UTC 2025
+Last updated: Sun Dec 28 06:24:05 UTC 2025
 
 ## Latest Analysis
 
-Loaded 79167 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-27 01:55:09
+Loaded 79191 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-27 06:22:20
 
 Incidents by source:
 source
-newsapi           79066
+newsapi           79090
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-12-27 01:55
-- Location: CBC News
-- Description: Peterborough police have arrested and charged one man with second-degree murder in connection with a homicide in the city earlier this month.
+### ASSAULT on 2025-12-27 06:22
+- Location: Digital Journal
+- Description: French police on Friday arrested a man suspected of stabbing three women in the Paris metro as the capital’s end-of-year festivities were in full swing, prosecutors told AFP. The three victims were attacked at three different locations along the Line 3 metro …
 
 
-### HOMICIDE on 2025-12-27 01:51
-- Location: The Indian Express
-- Description: Sengar may not be freed immediately — he is also serving a 10-year sentence for the custodial death of the survivor’s father. But the saga of the Unnao survivor paints a stark picture of how rocky the road to justice can be.
-
-
-### ASSAULT on 2025-12-27 01:46
-- Location: ABC News (AU)
-- Description: A man is in a critical condition after he was allegedly assaulted in Northbridge in the early hours of Saturday morning.
-
-
-### HOMICIDE on 2025-12-27 01:32
+### ASSAULT on 2025-12-27 06:16
 - Location: The Times of India
-- Description: A 38-year-old man was arrested for attempted murder after stabbing eight people and injuring seven others with bleach at a Yokohama Rubber Company factory in Mishima, Japan. Five of those stabbed were reported in serious condition. The incident occurred on Fr…
+- Description: The Supreme Court witnessed a dynamic 2025 with landmark rulings on governor and president powers, and Waqf law provisions. The judiciary saw three Chief Justices and judges publicly renounce post-retiral assignments. Unprecedented events included an attack o…
 
 
-### SHOOTING on 2025-12-27 01:20
-- Location: The Indian Express
-- Description: Why Pune Police travelled 105 km, with body cameras sending live feed and drone support, for one of the biggest raids Umarti – and a community traditionally into metallurgy – has seen
+### OTHER on 2025-12-27 06:01
+- Location: BBC News
+- Description: Dave Derby began detecting in 1964 and his finds include a Saxon warrior and a Roman villa.
 
-Analysis generated at: Sun Dec 28 02:12:26 UTC 2025
+
+### OTHER on 2025-12-27 06:01
+- Location: BBC News
+- Description: Dave Derby began detecting in 1964 and his finds include a Saxon warrior and a Roman villa.
+
+
+### HOMICIDE on 2025-12-27 06:00
+- Location: The Irish Times
+- Description: Clampdown after Dublin hotel attack was more effective than response to murders of Jerry McCabe and Veronica Guerin, says senior detective
+
+Analysis generated at: Sun Dec 28 06:24:05 UTC 2025
