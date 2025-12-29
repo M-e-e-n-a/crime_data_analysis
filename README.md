@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Dec 29 02:10:41 UTC 2025
+Last updated: Mon Dec 29 06:27:44 UTC 2025
 
 ## Latest Analysis
 
-Loaded 79285 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-28 01:58:47
+Loaded 79300 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-28 05:25:31
 
 Incidents by source:
 source
-newsapi           79184
+newsapi           79199
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-12-28 01:58
-- Location: ABC News
-- Description: French musician Plumes serenades elephants, giraffes, tigers and pandas, as he plays guitar and elicits amazing reactions from the animal kingdom.
+### OTHER on 2025-12-28 05:25
+- Location: Anime News Network
+- Description: Anime gets episode collabs with J-League, Birdman Rally; gets new ending theme on January 10; concert in April-May
 
 
-### ROBBERY/THEFT on 2025-12-28 01:57
-- Location: Freerepublic.com
-- Description: THE WORDS “retirement community” summon up images of easy chairs, overcooked food and endless daytime TV. Latitude Margaritaville, a community being built near Hilton Head Island in South Carolina, quickly disabuses these. “There was a toga party this past we…
+### OTHER on 2025-12-28 05:17
+- Location: Lifesciencesworld.com
+- Description: How Common Is Hitting Deer? A Deep Dive into Wildlife-Vehicle Collisions The frequency of deer-vehicle collisions is significantly higher than many drivers realize; while statistically challenging to pinpoint precisely, estimates suggest that the average driv…
 
 
-### OTHER on 2025-12-28 01:47
-- Location: New York Post
-- Description: He didn't want to face the music.
+### ROBBERY/THEFT on 2025-12-28 05:05
+- Location: The Indian Express
+- Description: Delhi Police Crime Branch has arrested Mohammad Farman, a key planner of an interstate gang that targeted sleeping bus passengers across Karnataka and Andhra Pradesh, stealing valuables including 10 kg silver and Rs 3 lakh cash.
 
 
-### OTHER on 2025-12-28 01:39
-- Location: Balloon-juice.com
-- Description: Here are tonight’s outgoing Ukrainian fires: Mass airport closures in fascist Russia, with ‘Plan Carpet’ triggered in multiple regions. Vnukovo, Kaluga, Yaroslavl, and Volgograd fully shut down, Sheremetyevo restricted to security-cleared flights only. Jet-dr…
+### SHOOTING on 2025-12-28 04:47
+- Location: ABC News (AU)
+- Description: Sydneysiders can expect to see more police officers carrying long-armed guns in the weeks ahead, with the premier not ruling out sending troops to protect the Jewish community.
 
 
-### HOMICIDE on 2025-12-28 01:37
-- Location: Fox News
-- Description: Duane "Keffe D" Davis' lawyers seek to dismiss evidence in the Tupac murder trial, arguing Las Vegas police misled a judge about the defendant's status.
+### HOMICIDE on 2025-12-28 03:55
+- Location: WMTW Portland
+- Description: Police have taken Daniel Derosier, 22, into custody and charged him with murder
 
-Analysis generated at: Mon Dec 29 02:10:41 UTC 2025
+Analysis generated at: Mon Dec 29 06:27:44 UTC 2025
