@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Dec 29 12:55:41 UTC 2025
+Last updated: Mon Dec 29 18:23:48 UTC 2025
 
 ## Latest Analysis
 
-Loaded 79325 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-28 12:45:29
+Loaded 79362 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-28 18:12:00
 
 Incidents by source:
 source
-newsapi           79224
+newsapi           79261
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,31 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-12-28 12:45
-- Location: WPXI Pittsburgh
-- Description: Man shot multiple times in Pittsburgh taken immediately into surgerywpxi.com
+### OTHER on 2025-12-28 18:12
+- Location: TVLine
+- Description: Before The Shield, some of his previous work nearly cost Michael Chiklis the ultimate opportunity to audition for the character of Vic Mackey.
 
 
-### OTHER on 2025-12-28 12:35
-- Location: CBS News
-- Description: This debut novel is a mystery in which a dictionary editor at Oxford turns to word-sleuthing in order to unravel a family member's long-ago disappearance.
+### HOMICIDE on 2025-12-28 17:50
+- Location: TMZ
+- Description: Chad Ollinger, who appeared on Discovery Channel's "Mystery at Blind Frog Ranch", is facing a murder charge after his cellmate was found dead inside a Las Vegas jail ... TMZ has learned. According to the Las Vegas Metro Police, corrections officers…
+ Permalink
 
 
-### OTHER on 2025-12-28 12:02
-- Location: The Mercury News
-- Description: AI booms, Newsom rises, driverless cars take to the freeways, and the Golden State Valkyries begin with flair
+### SHOOTING on 2025-12-28 17:30
+- Location: WSB Atlanta
+- Description: The Atlanta Police Department said that a situation at Atlantic Station involving fireworks, juveniles and a gunfight led to five juveniles being detained.
 
 
-### OTHER on 2025-12-28 12:02
-- Location: BBC News
-- Description: The Iran Human Rights (IHR) group says it has verified at least 1,500 executions up until the start of December.
+### HOMICIDE on 2025-12-28 17:28
+- Location: Yahoo Entertainment
+- Description: A knife attack outside Suriname ’s capital of Paramaribo killed at least nine people, including five children, police said Sunday.  Officials said the...
 
 
-### ROBBERY/THEFT on 2025-12-28 12:00
-- Location: CBC News
-- Description: Harry Longabaugh — better known as the Sundance Kid — is perhaps most famous for his daring bank and train robberies as part of Butch Cassidy’s Wild Bunch. But the American outlaw’s short stint as a cowboy and businessman in southern Alberta is a lesser-known…
+### HOMICIDE on 2025-12-28 17:24
+- Location: The Punch
+- Description: Edo State police have arrested a 43-year-old man for allegedly killing his childhood friend with a machete during a housewarming party in Oben Community.
 
-Analysis generated at: Mon Dec 29 12:55:41 UTC 2025
+Read More: https://punchng.com/man-kills-childhood-friend-during-housewarming-party-in-edo/
+
+Analysis generated at: Mon Dec 29 18:23:48 UTC 2025
