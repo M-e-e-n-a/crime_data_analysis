@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Dec 29 12:34:09 UTC 2025
+Last updated: Mon Dec 29 12:55:41 UTC 2025
 
 ## Latest Analysis
 
-Loaded 79323 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-28 12:02:54
+Loaded 79325 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-28 12:45:29
 
 Incidents by source:
 source
-newsapi           79222
+newsapi           79224
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,6 +24,16 @@ bution.svg)
 
 ## Recent Incidents
 
+### SHOOTING on 2025-12-28 12:45
+- Location: WPXI Pittsburgh
+- Description: Man shot multiple times in Pittsburgh taken immediately into surgerywpxi.com
+
+
+### OTHER on 2025-12-28 12:35
+- Location: CBS News
+- Description: This debut novel is a mystery in which a dictionary editor at Oxford turns to word-sleuthing in order to unravel a family member's long-ago disappearance.
+
+
 ### OTHER on 2025-12-28 12:02
 - Location: The Mercury News
 - Description: AI booms, Newsom rises, driverless cars take to the freeways, and the Golden State Valkyries begin with flair
@@ -38,16 +48,4 @@ bution.svg)
 - Location: CBC News
 - Description: Harry Longabaugh — better known as the Sundance Kid — is perhaps most famous for his daring bank and train robberies as part of Butch Cassidy’s Wild Bunch. But the American outlaw’s short stint as a cowboy and businessman in southern Alberta is a lesser-known…
 
-
-### OTHER on 2025-12-28 12:00
-- Location: Daily Signal
-- Description: This past year, the Left crossed a Rubicon in normalizing political violence. The year opened with many on the Left praising a man who allegedly... Read More
-The post 10 Major Incidents of Left-Wing Violence and Threats in 2025 appeared first on The Daily Sig…
-
-
-### OTHER on 2025-12-28 11:22
-- Location: Breitbart News
-- Description: Starmer hailed achieving "top priority" with arrival of El-Fattah from Egypt, with critics highlighting activist's writings against Britain.
-The post ‘F*ing Hate White People’: UK Govt Celebrates Securing Release of Jailed Egyptian Extremist Activist appeared…
-
-Analysis generated at: Mon Dec 29 12:34:08 UTC 2025
+Analysis generated at: Mon Dec 29 12:55:41 UTC 2025
