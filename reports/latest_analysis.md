@@ -1,10 +1,10 @@
 
-Loaded 79267 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-27 18:17:52
+Loaded 79276 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-28 00:55:50
 
 Incidents by source:
 source
-newsapi           79166
+newsapi           79175
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,30 +20,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-12-27 18:17
-- Location: Daily Beast
-- Description: Pete Hegseth’s bomb-first, question-later approach to alleged narcoterrorists is reportedly helping those same terrorists get off scot-free. A Hegseth...
+### HOMICIDE on 2025-12-28 00:55
+- Location: The Punch
+- Description: Gombe police have arrested a 19-year-old casual worker for allegedly killing a colleague at the Government House. The suspect was identified via CCTV foota
+
+Read More: https://punchng.com/gombe-govt-house-worker-arrested-over-colleagues-death/
 
 
-### DRUG RELATED on 2025-12-27 18:00
-- Location: WSB Atlanta
-- Description: What began as a routine traffic stop just after midnight following Christmas quickly escalated into a criminal case, according to the Duluth Police Department.
+### OTHER on 2025-12-28 00:48
+- Location: BBC News
+- Description: There's been a surge in remittances going back to Honduras amid Trump's immigration crackdown.
 
 
-### DRUG RELATED on 2025-12-27 18:00
-- Location: Breitbart News
-- Description: An alleged drug trafficker is behind bars after police in Kentucky confiscated 55 pounds of suspected methamphetamine wrapped as Christmas presents in the trunk of his car.
-The post Police: Man Arrested in Kentucky with 55 Pounds of Meth Wrapped as Christmas …
+### OTHER on 2025-12-28 00:44
+- Location: ABC News
+- Description: Veterinarian Adam Christman is here with some tips for pet lovers who are looking to level up their pet care for the new year.
 
 
-### HOMICIDE on 2025-12-27 18:00
-- Location: Dramabeans.com
-- Description: Everyone deserves a proper defense, no matter what the public may think — or in the case of a bigtime idol, no matter what their fans may think. When this idol is slapped in the face with a murder charge, people start to wonder if they ever knew him at all. B…
+### OTHER on 2025-12-28 00:36
+- Location: The Times of India
+- Description: Mayor-elect Zohran Mamdani's New Year's Day inauguration party, spanning seven blocks, will necessitate 350-400 police officers, potentially costing over Rs 4.15 crore in overtime. This comes despite Mamdani's past calls to defund the NYPD and his criticism o…
 
 
-### ROBBERY/THEFT on 2025-12-27 17:59
-- Location: Breitbart News
-- Description: An extremely valuable shipment of live lobsters went missing after being picked up in Taunton, Massachusetts.
-The post Live Lobster Shipment Worth $400,000 Disappears amid Rising Cargo Thefts appeared first on Breitbart.
+### OTHER on 2025-12-28 00:21
+- Location: New York Post
+- Description: A onetime reality TV swinger who appeared on A&E’s short-lived series “Neighbors With Benefits” is behind bars in Ohio, charged with child offenses and sexual conduct involving animals as a long-shelved show resurfaces in a disturbing new light.
 
-Analysis generated at: Sun Dec 28 18:22:33 UTC 2025
+Analysis generated at: Mon Dec 29 01:19:07 UTC 2025
