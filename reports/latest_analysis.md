@@ -1,10 +1,10 @@
 
-Loaded 79378 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-29 01:12:05
+Loaded 79387 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-29 01:53:17
 
 Incidents by source:
 source
-newsapi           79277
+newsapi           79286
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-12-29 01:12
-- Location: Boston Herald
-- Description: Boston Police arrested a Lowell man who they believe is a serial shoplifter Saturday in Back Bay.
+### SHOOTING on 2025-12-29 01:53
+- Location: FOX 5 Atlanta
+- Description: Five juveniles were detained after hundreds of teens launched fireworks and fired gunshots during a massive disturbance at Atlantic Station Saturday night.
 
 
-### SHOOTING on 2025-12-29 01:05
-- Location: CNA
-- Description: SYDNEY: Families of Bondi Beach shooting victims have urged Australia's prime minister to launch a royal commission - an independent public inquiry - into the "rapid rise of antisemitism", warning more lives could be lost without action.Father and son Sajid a…
+### OTHER on 2025-12-29 01:49
+- Location: The Indian Express
+- Description: Accused duped people in multiple states of a total of over Rs 200 crore
 
 
-### OTHER on 2025-12-29 01:02
+### ASSAULT on 2025-12-29 01:42
 - Location: ABC News (AU)
-- Description: Police say they have "grave concerns" for a woman who has not been seen for more than two weeks in outback South Australia.
+- Description: Prime Minister Anthony Albanese announces the terms for a Commonwealth review into the Bondi terror atttack.
 
 
-### HOMICIDE on 2025-12-29 01:01
+### HOMICIDE on 2025-12-29 01:38
 - Location: New York Post
-- Description: A member of Mayor-elect Zohran Mamdani's transition team for worker justice slammed fellow Bangladeshi and other South Asian families for being "proud" to have relatives join the NYPD, because they could become "killers."
+- Description: The NYPD under boss Jessica Tisch this year is blowing away record lows on shootings, and coming impressively close on murders.
 
 
-### OTHER on 2025-12-29 00:50
-- Location: ABC News
-- Description: Mental health expert Kurt Schmidt discusses ways to combat loneliness during the holidays and beyond.
+### ROBBERY/THEFT on 2025-12-29 01:30
+- Location: WPXI Pittsburgh
+- Description: Police are asking for the public’s help in identifying a woman in connection with a retail theft in Beaver County.
 
-Analysis generated at: Tue Dec 30 01:13:49 UTC 2025
+Analysis generated at: Tue Dec 30 02:02:07 UTC 2025
