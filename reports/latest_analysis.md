@@ -1,10 +1,10 @@
 
-Loaded 79435 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-29 06:16:00
+Loaded 79491 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-29 12:30:00
 
 Incidents by source:
 source
-newsapi           79334
+newsapi           79390
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-12-29 06:16
-- Location: The Star Online
-- Description: KUALA LUMPUR: Policemen involved in the Durian Tunggal shooting in Melaka have been removed from active duty pending investigations, says Bukit Aman. Read full story
+### HOMICIDE on 2025-12-29 12:30
+- Location: SPIN
+- Description: Questions by Bob Guccione, Jr., Justine Bateman, Kyle Eustice, Arsenio Orteza, Matt Thompson, A.D. Amorosi, Daniel Scheffler Killer Mike, Rapper, Activist Why can’t we all just get along? I think we all could just get along if it was human beings wanting the …
 
 
-### OTHER on 2025-12-29 06:09
-- Location: BBC News
-- Description: Data from the force revealed reports of domestic abuse in Scotland rose by 10% over the last 12 months.
+### HOMICIDE on 2025-12-29 12:26
+- Location: Freerepublic.com
+- Description: In PM Keir Starmer’s UK (above), free speech is met with prison sentences. Criticize Muslim mass migration or transgenderism and you will be arrested. After a Muslim terrorist murdered 3 British girls, a 55-year-old woman was dragged out of her home, arrested…
 
 
-### OTHER on 2025-12-29 06:05
-- Location: BBC News
-- Description: BBC Scotland News is looking back at our most-read stories and this is the top 20 for 2025.
+### HOMICIDE on 2025-12-29 12:25
+- Location: International Business Times
+- Description: Houston is on edge after three more bodies were found in bayous, bringing 2025's total to 34. Serial killer rumours spread despite police denials.
 
 
-### OTHER on 2025-12-29 06:02
-- Location: Insurance Journal
-- Description: Mergers and acquisitions were among big stories last year and they continued to catch the attention of readers in 2025. The three largest insurance brokers — March, Aon and Arthur J. Gallagher — announced or closed multi-billion-dollar acquisitions in 2024. …
+### HOMICIDE on 2025-12-29 12:07
+- Location: WBAL TV Baltimore
+- Description: A coalition of faith groups will come together Monday for a candlelight vigil to pay tribute to the lives lost in 2025 to homicides.
 
 
-### OTHER on 2025-12-29 06:00
-- Location: Insurance Journal
-- Description: There was a lot of news for Insurance Journal East readers in 2025, of course. While readership was strong across topics, readers showed special interest in number of topics and articles including reports on tragic events, recovery efforts, insurance affordab…
+### HOMICIDE on 2025-12-29 12:05
+- Location: Freerepublic.com
+- Description: A 77-year-old gunman opened fire at an Idaho sheriff’s office — injuring three people before he was killed in a standoff with police, according to authorities. The incident unfolded around 2:30 p.m. on Friday when shooter John Drake opened fire outside of the…
 
-Analysis generated at: Tue Dec 30 06:25:29 UTC 2025
+Analysis generated at: Tue Dec 30 12:32:39 UTC 2025
