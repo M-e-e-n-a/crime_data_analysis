@@ -1,10 +1,10 @@
 
-Loaded 79362 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-28 18:12:00
+Loaded 79378 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-29 01:12:05
 
 Incidents by source:
 source
-newsapi           79261
+newsapi           79277
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,31 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-12-28 18:12
-- Location: TVLine
-- Description: Before The Shield, some of his previous work nearly cost Michael Chiklis the ultimate opportunity to audition for the character of Vic Mackey.
+### SHOOTING on 2025-12-29 01:12
+- Location: Boston Herald
+- Description: Boston Police arrested a Lowell man who they believe is a serial shoplifter Saturday in Back Bay.
 
 
-### HOMICIDE on 2025-12-28 17:50
-- Location: TMZ
-- Description: Chad Ollinger, who appeared on Discovery Channel's "Mystery at Blind Frog Ranch", is facing a murder charge after his cellmate was found dead inside a Las Vegas jail ... TMZ has learned. According to the Las Vegas Metro Police, corrections officers…
- Permalink
+### SHOOTING on 2025-12-29 01:05
+- Location: CNA
+- Description: SYDNEY: Families of Bondi Beach shooting victims have urged Australia's prime minister to launch a royal commission - an independent public inquiry - into the "rapid rise of antisemitism", warning more lives could be lost without action.Father and son Sajid a…
 
 
-### SHOOTING on 2025-12-28 17:30
-- Location: WSB Atlanta
-- Description: The Atlanta Police Department said that a situation at Atlantic Station involving fireworks, juveniles and a gunfight led to five juveniles being detained.
+### OTHER on 2025-12-29 01:02
+- Location: ABC News (AU)
+- Description: Police say they have "grave concerns" for a woman who has not been seen for more than two weeks in outback South Australia.
 
 
-### HOMICIDE on 2025-12-28 17:28
-- Location: Yahoo Entertainment
-- Description: A knife attack outside Suriname ’s capital of Paramaribo killed at least nine people, including five children, police said Sunday.  Officials said the...
+### HOMICIDE on 2025-12-29 01:01
+- Location: New York Post
+- Description: A member of Mayor-elect Zohran Mamdani's transition team for worker justice slammed fellow Bangladeshi and other South Asian families for being "proud" to have relatives join the NYPD, because they could become "killers."
 
 
-### HOMICIDE on 2025-12-28 17:24
-- Location: The Punch
-- Description: Edo State police have arrested a 43-year-old man for allegedly killing his childhood friend with a machete during a housewarming party in Oben Community.
+### OTHER on 2025-12-29 00:50
+- Location: ABC News
+- Description: Mental health expert Kurt Schmidt discusses ways to combat loneliness during the holidays and beyond.
 
-Read More: https://punchng.com/man-kills-childhood-friend-during-housewarming-party-in-edo/
-
-Analysis generated at: Mon Dec 29 18:23:48 UTC 2025
+Analysis generated at: Tue Dec 30 01:13:49 UTC 2025
