@@ -1,10 +1,10 @@
 
-Loaded 79387 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-29 01:53:17
+Loaded 79435 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-29 06:16:00
 
 Incidents by source:
 source
-newsapi           79286
+newsapi           79334
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2025-12-29 01:53
-- Location: FOX 5 Atlanta
-- Description: Five juveniles were detained after hundreds of teens launched fireworks and fired gunshots during a massive disturbance at Atlantic Station Saturday night.
+### SHOOTING on 2025-12-29 06:16
+- Location: The Star Online
+- Description: KUALA LUMPUR: Policemen involved in the Durian Tunggal shooting in Melaka have been removed from active duty pending investigations, says Bukit Aman. Read full story
 
 
-### OTHER on 2025-12-29 01:49
-- Location: The Indian Express
-- Description: Accused duped people in multiple states of a total of over Rs 200 crore
+### OTHER on 2025-12-29 06:09
+- Location: BBC News
+- Description: Data from the force revealed reports of domestic abuse in Scotland rose by 10% over the last 12 months.
 
 
-### ASSAULT on 2025-12-29 01:42
-- Location: ABC News (AU)
-- Description: Prime Minister Anthony Albanese announces the terms for a Commonwealth review into the Bondi terror atttack.
+### OTHER on 2025-12-29 06:05
+- Location: BBC News
+- Description: BBC Scotland News is looking back at our most-read stories and this is the top 20 for 2025.
 
 
-### HOMICIDE on 2025-12-29 01:38
-- Location: New York Post
-- Description: The NYPD under boss Jessica Tisch this year is blowing away record lows on shootings, and coming impressively close on murders.
+### OTHER on 2025-12-29 06:02
+- Location: Insurance Journal
+- Description: Mergers and acquisitions were among big stories last year and they continued to catch the attention of readers in 2025. The three largest insurance brokers — March, Aon and Arthur J. Gallagher — announced or closed multi-billion-dollar acquisitions in 2024. …
 
 
-### ROBBERY/THEFT on 2025-12-29 01:30
-- Location: WPXI Pittsburgh
-- Description: Police are asking for the public’s help in identifying a woman in connection with a retail theft in Beaver County.
+### OTHER on 2025-12-29 06:00
+- Location: Insurance Journal
+- Description: There was a lot of news for Insurance Journal East readers in 2025, of course. While readership was strong across topics, readers showed special interest in number of topics and articles including reports on tragic events, recovery efforts, insurance affordab…
 
-Analysis generated at: Tue Dec 30 02:02:07 UTC 2025
+Analysis generated at: Tue Dec 30 06:25:29 UTC 2025
