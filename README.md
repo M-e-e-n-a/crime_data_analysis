@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Dec 31 02:02:40 UTC 2025
+Last updated: Wed Dec 31 06:25:50 UTC 2025
 
 ## Latest Analysis
 
-Loaded 79571 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-30 01:50:53
+Loaded 79601 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-30 06:06:07
 
 Incidents by source:
 source
-newsapi           79470
+newsapi           79500
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2025-12-30 01:50
-- Location: Mediaite
-- Description: A Florida man was arrested for allegedly committing an armed robbery at a meat market "wearing nothing but a mask," reported WCJB, Gainesville's ABC affiliate.
-The post Florida Man Arrested for Naked Armed Robbery of Meat Market While ‘Wearing Nothing But a M…
+### HOMICIDE on 2025-12-30 06:06
+- Location: The Times of India
+- Description: Delhi Police had a demanding year. They responded to a deadly Red Fort blast and a stampede at New Delhi Railway Station. The force also arrested a serial killer known as Doctor Death and investigated a self-styled godman. Bomb threats and street crimes teste…
 
 
-### SHOOTING on 2025-12-30 01:47
-- Location: Israelnationalnews.com
-- Description: Australian police say the Bondi Hanukkah shooters acted alone, finding no link to a terror network or training during their recent trip to the Philippines.
+### OTHER on 2025-12-30 06:04
+- Location: BBC News
+- Description: Chiedu Oraka still films music videos on his childhood street, despite performing with Coldplay.
 
 
-### HOMICIDE on 2025-12-30 01:19
-- Location: Marca
-- Description: A shooting in Zapopan, Jalisco, left at least three people dead - including a 16-year-old girl - and four seriously injured on December 29, 2025, according to the Jalisco state gov
+### HOMICIDE on 2025-12-30 06:02
+- Location: Insurance Journal
+- Description: A grand jury has declined to indict the father of two Kentucky State University students who was charged with murder in an on-campus shooting that killed one student and critically injured another. In a social media post after the Tuesday …
 
 
-### HOMICIDE on 2025-12-30 01:17
+### OTHER on 2025-12-30 05:42
 - Location: ABC News (AU)
-- Description: AFP Commissioner Krissy Barrett says there is no evidence the men were instructed to carry out the attack, which left 15 people dead.
+- Description: Police have been given expanded powers to search for weapons and remove people at every bus, train and tram as well as stations in the Adelaide metropolitan area ahead of New Year Eve's celebration.
 
 
-### HOMICIDE on 2025-12-30 01:15
-- Location: Freerepublic.com
-- Description: An Alameda man accused of killing a wild turkey this month is facing felony animal cruelty charges, prosecutors said. The 38-year-old was arrested on Dec. 17 after the illegal hunting was reported to police and animal control by a witness, the East Bay Times …
+### OTHER on 2025-12-30 05:30
+- Location: Independent.ie
+- Description: Irish officials were briefed by a senior British police chief that the British spy dubbed Stakeknife was the focus of suicide concerns.
 
-Analysis generated at: Wed Dec 31 02:02:40 UTC 2025
+Analysis generated at: Wed Dec 31 06:25:50 UTC 2025
