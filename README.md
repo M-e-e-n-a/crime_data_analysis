@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Dec 31 01:14:57 UTC 2025
+Last updated: Wed Dec 31 02:02:40 UTC 2025
 
 ## Latest Analysis
 
-Loaded 79566 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-30 01:12:20
+Loaded 79571 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-30 01:50:53
 
 Incidents by source:
 source
-newsapi           79465
+newsapi           79470
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### DRUG RELATED on 2025-12-30 01:12
-- Location: CBS News
-- Description: Authorities in Mexico have seized a large collection of motorcycles believed to be owned by Ryan Wedding, the former Olympian wanted for allegedly running a major drug trafficking operation.
+### ROBBERY/THEFT on 2025-12-30 01:50
+- Location: Mediaite
+- Description: A Florida man was arrested for allegedly committing an armed robbery at a meat market "wearing nothing but a mask," reported WCJB, Gainesville's ABC affiliate.
+The post Florida Man Arrested for Naked Armed Robbery of Meat Market While ‘Wearing Nothing But a M…
 
 
-### HOMICIDE on 2025-12-30 01:02
-- Location: Digital Journal
-- Description: A father and son accused of a mass shooting at Australia’s Bondi Beach “acted alone” and were not part of a wider terrorist cell, police said on Tuesday. Sajid Akram and his son Naveed allegedly killed 15 people in an ISIS-inspired attack targeting a Jewish f…
+### SHOOTING on 2025-12-30 01:47
+- Location: Israelnationalnews.com
+- Description: Australian police say the Bondi Hanukkah shooters acted alone, finding no link to a terror network or training during their recent trip to the Philippines.
 
 
-### HOMICIDE on 2025-12-30 01:01
-- Location: Boston Herald
-- Description: The Guard is expected be confined to the French Quarter area popular with tourists.
+### HOMICIDE on 2025-12-30 01:19
+- Location: Marca
+- Description: A shooting in Zapopan, Jalisco, left at least three people dead - including a 16-year-old girl - and four seriously injured on December 29, 2025, according to the Jalisco state gov
 
 
-### OTHER on 2025-12-30 00:51
-- Location: New York Post
-- Description: SNL writer Jimmy Fowlie begs for tips as search for missing sister Christina Lynn Downer continues in LA’s Koreatown.
+### HOMICIDE on 2025-12-30 01:17
+- Location: ABC News (AU)
+- Description: AFP Commissioner Krissy Barrett says there is no evidence the men were instructed to carry out the attack, which left 15 people dead.
 
 
-### HOMICIDE on 2025-12-30 00:50
-- Location: ABC News
-- Description: A National Guard deployment in New Orleans authorized by President Donald Trump will begin Tuesday as part of a heavy security presence for New Year’s celebrations
+### HOMICIDE on 2025-12-30 01:15
+- Location: Freerepublic.com
+- Description: An Alameda man accused of killing a wild turkey this month is facing felony animal cruelty charges, prosecutors said. The 38-year-old was arrested on Dec. 17 after the illegal hunting was reported to police and animal control by a witness, the East Bay Times …
 
-Analysis generated at: Wed Dec 31 01:14:57 UTC 2025
+Analysis generated at: Wed Dec 31 02:02:40 UTC 2025
