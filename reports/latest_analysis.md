@@ -1,10 +1,10 @@
 
-Loaded 79601 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-30 06:06:07
+Loaded 79652 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-30 12:22:29
 
 Incidents by source:
 source
-newsapi           79500
+newsapi           79551
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2025-12-30 06:06
-- Location: The Times of India
-- Description: Delhi Police had a demanding year. They responded to a deadly Red Fort blast and a stampede at New Delhi Railway Station. The force also arrested a serial killer known as Doctor Death and investigated a self-styled godman. Bomb threats and street crimes teste…
+### ROBBERY/THEFT on 2025-12-30 12:22
+- Location: The Punch
+- Description: The Kano State Police Command announced 3,081 crime arrests in 2025, tackling armed robbery, kidnapping, and thuggery across the state.
+
+Read More: https://punchng.com/police-arrest-3081-suspects-for-various-crimes-in-kano/
 
 
-### OTHER on 2025-12-30 06:04
+### OTHER on 2025-12-30 12:11
 - Location: BBC News
-- Description: Chiedu Oraka still films music videos on his childhood street, despite performing with Coldplay.
+- Description: Officers in Merton made 57 arrests during the month-long operation, which also led to weapons being recovered.
 
 
-### HOMICIDE on 2025-12-30 06:02
-- Location: Insurance Journal
-- Description: A grand jury has declined to indict the father of two Kentucky State University students who was charged with murder in an on-campus shooting that killed one student and critically injured another. In a social media post after the Tuesday …
+### HOMICIDE on 2025-12-30 12:09
+- Location: The Times of India
+- Description: An Ansar member, Bajendra Biswas, was fatally shot by a colleague, Noman Mia, in Bhaluka, Mymensingh. The incident occurred at Sultana Sweaters Limited factory. Noman Mia has been arrested. Police are investigating the motive behind the shooting. The deceased…
 
 
-### OTHER on 2025-12-30 05:42
-- Location: ABC News (AU)
-- Description: Police have been given expanded powers to search for weapons and remove people at every bus, train and tram as well as stations in the Adelaide metropolitan area ahead of New Year Eve's celebration.
+### OTHER on 2025-12-30 12:05
+- Location: Celebitchy.com
+- Description: The New Year’s Honours list is out. This is the list of knighthoods and lesser honors given by King Charles and the government/Downing Street. The biggest names on this year’s honors list? Idris Elba and Cynthia Erivo. I wasn’t even aware that Erivo was on an…
 
 
-### OTHER on 2025-12-30 05:30
-- Location: Independent.ie
-- Description: Irish officials were briefed by a senior British police chief that the British spy dubbed Stakeknife was the focus of suicide concerns.
+### SHOOTING on 2025-12-30 11:54
+- Location: Jezebel
+- Description: Every single day in America, someone dies in an accidental shooting--practically inevitable, when guns surround us on every side.
 
-Analysis generated at: Wed Dec 31 06:25:50 UTC 2025
+Analysis generated at: Wed Dec 31 12:31:41 UTC 2025
