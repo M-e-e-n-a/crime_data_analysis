@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Dec 31 12:31:41 UTC 2025
+Last updated: Wed Dec 31 12:53:19 UTC 2025
 
 ## Latest Analysis
 
-Loaded 79652 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-30 12:22:29
+Loaded 79655 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-30 12:45:46
 
 Incidents by source:
 source
-newsapi           79551
+newsapi           79554
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,6 +24,21 @@ bution.svg)
 
 ## Recent Incidents
 
+### OTHER on 2025-12-30 12:45
+- Location: Whyevolutionistrue.com
+- Description: Welcome to Tuesday, December 30, 2025, the Cruelest Day. But it’s also the final day of Koynezaa, which means it’s my damn birthday, and also Bacon Day, distinctly unkosher. Reader Bill made a lovely montage for my birthday (see also the special Hili dialogue…
+
+
+### DRUG RELATED on 2025-12-30 12:43
+- Location: International Business Times
+- Description: Mexican authorities seized 62 motorcycles worth $40m (£32m) belonging to Ryan Wedding, former Olympic snowboarder now on FBI's Top 10 Most Wanted list
+
+
+### HOMICIDE on 2025-12-30 12:36
+- Location: International Business Times
+- Description: Authorities reject claims of a Texas serial killer after bodies found in Houston bayous, warning viral speculation is spreading fear.
+
+
 ### ROBBERY/THEFT on 2025-12-30 12:22
 - Location: The Punch
 - Description: The Kano State Police Command announced 3,081 crime arrests in 2025, tackling armed robbery, kidnapping, and thuggery across the state.
@@ -35,19 +50,4 @@ Read More: https://punchng.com/police-arrest-3081-suspects-for-various-crimes-in
 - Location: BBC News
 - Description: Officers in Merton made 57 arrests during the month-long operation, which also led to weapons being recovered.
 
-
-### HOMICIDE on 2025-12-30 12:09
-- Location: The Times of India
-- Description: An Ansar member, Bajendra Biswas, was fatally shot by a colleague, Noman Mia, in Bhaluka, Mymensingh. The incident occurred at Sultana Sweaters Limited factory. Noman Mia has been arrested. Police are investigating the motive behind the shooting. The deceased…
-
-
-### OTHER on 2025-12-30 12:05
-- Location: Celebitchy.com
-- Description: The New Year’s Honours list is out. This is the list of knighthoods and lesser honors given by King Charles and the government/Downing Street. The biggest names on this year’s honors list? Idris Elba and Cynthia Erivo. I wasn’t even aware that Erivo was on an…
-
-
-### SHOOTING on 2025-12-30 11:54
-- Location: Jezebel
-- Description: Every single day in America, someone dies in an accidental shooting--practically inevitable, when guns surround us on every side.
-
-Analysis generated at: Wed Dec 31 12:31:41 UTC 2025
+Analysis generated at: Wed Dec 31 12:53:19 UTC 2025
