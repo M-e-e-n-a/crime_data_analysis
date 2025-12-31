@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Dec 31 12:53:19 UTC 2025
+Last updated: Wed Dec 31 18:22:45 UTC 2025
 
 ## Latest Analysis
 
-Loaded 79655 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-30 12:45:46
+Loaded 79730 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-30 18:21:37
 
 Incidents by source:
 source
-newsapi           79554
+newsapi           79629
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,30 +24,34 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-12-30 12:45
-- Location: Whyevolutionistrue.com
-- Description: Welcome to Tuesday, December 30, 2025, the Cruelest Day. But it’s also the final day of Koynezaa, which means it’s my damn birthday, and also Bacon Day, distinctly unkosher. Reader Bill made a lovely montage for my birthday (see also the special Hili dialogue…
+### OTHER on 2025-12-30 18:21
+- Location: Latest News in Nigeria & Breaking Naija News 24/7 | LEGIT.NG
+- Description: Ghana Police arrest Abubakari Sadick for firing live rounds during Asake's street celebration in Accra New Town after the AfroFuture Festival performance
 
 
-### DRUG RELATED on 2025-12-30 12:43
-- Location: International Business Times
-- Description: Mexican authorities seized 62 motorcycles worth $40m (£32m) belonging to Ryan Wedding, former Olympic snowboarder now on FBI's Top 10 Most Wanted list
+### HOMICIDE on 2025-12-30 18:20
+- Location: NBC News
+- Description: Houston's top prosecutor disputing online rumors that a serial killer is to blame for bodies that have washed ashore in Houston's waterways in recent weeks
 
 
-### HOMICIDE on 2025-12-30 12:36
-- Location: International Business Times
-- Description: Authorities reject claims of a Texas serial killer after bodies found in Houston bayous, warning viral speculation is spreading fear.
+### OTHER on 2025-12-30 18:20
+- Location: EFF
+- Description: Throughout 2025, EFF conducted groundbreaking investigations into Flock Safety's automated license plate reader (ALPR) network, revealing a system designed to enable mass surveillance and susceptible to grave abuses. Our research sparked state and federal inv…
 
 
-### ROBBERY/THEFT on 2025-12-30 12:22
-- Location: The Punch
-- Description: The Kano State Police Command announced 3,081 crime arrests in 2025, tackling armed robbery, kidnapping, and thuggery across the state.
+### HOMICIDE on 2025-12-30 18:10
+- Location: TheStranger.com
+- Description: The Stranger's Morning News Roundup
+ 
+ by Marcus Harrison Green
+ 
+ 
+ 
+ If you were worried the dead zone between Christmas and New Year’s didn’t have quite enough aggressively-unnecessary holidays, congratulations: today is Falling Needles Family Fest Day, an…
 
-Read More: https://punchng.com/police-arrest-3081-suspects-for-various-crimes-in-kano/
 
+### OTHER on 2025-12-30 18:00
+- Location: Fox News
+- Description: New York City Mayor-elect Zohran Mamdani is prepared to implement his socialist agenda as New York City's mayor, promising rent freezes and free childcare after his historic victory.
 
-### OTHER on 2025-12-30 12:11
-- Location: BBC News
-- Description: Officers in Merton made 57 arrests during the month-long operation, which also led to weapons being recovered.
-
-Analysis generated at: Wed Dec 31 12:53:19 UTC 2025
+Analysis generated at: Wed Dec 31 18:22:45 UTC 2025
