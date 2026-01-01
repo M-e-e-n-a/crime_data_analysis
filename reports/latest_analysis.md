@@ -1,10 +1,10 @@
 
-Loaded 79730 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-30 18:21:37
+Loaded 79747 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-31 01:02:52
 
 Incidents by source:
 source
-newsapi           79629
+newsapi           79646
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,34 +20,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-12-30 18:21
-- Location: Latest News in Nigeria & Breaking Naija News 24/7 | LEGIT.NG
-- Description: Ghana Police arrest Abubakari Sadick for firing live rounds during Asake's street celebration in Accra New Town after the AfroFuture Festival performance
+### HOMICIDE on 2025-12-31 01:02
+- Location: CBC News
+- Description: Vancouver police say they are investigating the sudden death of a 16-year-old girl who was reported missing in North Vancouver.
 
 
-### HOMICIDE on 2025-12-30 18:20
+### OTHER on 2025-12-31 01:02
+- Location: New York Post
+- Description: The heated argument that ultimately took the life of civil rights attorney, Krikor Kouyoumdjian, 33, erupted inside the family’s 1.3 million dollar home on Saturday, days after Christmas.
+
+
+### OTHER on 2025-12-31 01:00
+- Location: Activistpost.com
+- Description: Cuba was already in dire straits. Oil is the finishing touch. Cuba’s Economy Collapses Trump’s de facto declaration of war on Venezuela (a naval blockade is undoubtedly war) has taken a toll on two economies, Venezuela and and Cuba. The Wall Street journal ac…
+
+
+### OTHER on 2025-12-31 00:52
+- Location: The Punch
+- Description: The US will deport Ibrahim Ijaoba, a Nigerian national and convicted Bloods gang member, for his extensive criminal record including violent crimes.
+
+Read More: https://punchng.com/us-to-deport-nigerian-over-gang-membership/
+
+
+### OTHER on 2025-12-31 00:44
 - Location: NBC News
-- Description: Houston's top prosecutor disputing online rumors that a serial killer is to blame for bodies that have washed ashore in Houston's waterways in recent weeks
+- Description: Actor Isiah Whitlock Jr., best known for his role on HBO's 2000s crime drama "The Wire," has died, his manager said Tuesday.
 
-
-### OTHER on 2025-12-30 18:20
-- Location: EFF
-- Description: Throughout 2025, EFF conducted groundbreaking investigations into Flock Safety's automated license plate reader (ALPR) network, revealing a system designed to enable mass surveillance and susceptible to grave abuses. Our research sparked state and federal inv…
-
-
-### HOMICIDE on 2025-12-30 18:10
-- Location: TheStranger.com
-- Description: The Stranger's Morning News Roundup
- 
- by Marcus Harrison Green
- 
- 
- 
- If you were worried the dead zone between Christmas and New Year’s didn’t have quite enough aggressively-unnecessary holidays, congratulations: today is Falling Needles Family Fest Day, an…
-
-
-### OTHER on 2025-12-30 18:00
-- Location: Fox News
-- Description: New York City Mayor-elect Zohran Mamdani is prepared to implement his socialist agenda as New York City's mayor, promising rent freezes and free childcare after his historic victory.
-
-Analysis generated at: Wed Dec 31 18:22:45 UTC 2025
+Analysis generated at: Thu Jan  1 01:21:27 UTC 2026
