@@ -1,10 +1,10 @@
 
-Loaded 79829 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-31 12:24:51
+Loaded 79836 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-31 12:46:34
 
 Incidents by source:
 source
-newsapi           79728
+newsapi           79735
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2025-12-31 12:24
-- Location: Al Jazeera English
-- Description: While the robbers remain at large, customers are furious about the Christmas break robbery.
+### HOMICIDE on 2025-12-31 12:46
+- Location: BBC News
+- Description: Stefania Glowka is charged with the murder of Tamara Glowka in Devizes, Wiltshire, on 25 December.
 
 
-### OTHER on 2025-12-31 12:16
-- Location: RTE
-- Description: New Zealanders were amongst the first in the world to celebrate the arrival of 2026 with a fireworks display in Auckland.
+### ASSAULT on 2025-12-31 12:44
+- Location: The Star Online
+- Description: NIBONG TEBAL: A man who was injured after being attacked by a group of masked individuals armed with sharp objects at a restaurant in Sungai Bakap here on Tuesday (Dec 30) is reported to be in critical condition. Read full story
 
 
-### OTHER on 2025-12-31 12:16
-- Location: CBS News
-- Description: As the U.S. and Israel back Iranians' right to protest against their leaders, authorities in Tehran detain students and declare a sudden holiday.
+### SHOOTING on 2025-12-31 12:40
+- Location: LancasterOnline
+- Description: A man was injured in a shooting Tuesday night at an apartment complex in Lancaster Township.
 
 
-### HOMICIDE on 2025-12-31 12:11
-- Location: The Indian Express
-- Description: UPSC Civil Services Mains Exam: Strengthen your conceptual clarity and answer-writing skills with structured guidance, key points, and self-evaluation prompts. Do not miss points to ponder and answer in the comment box below.
+### SHOOTING on 2025-12-31 12:37
+- Location: The Punch
+- Description: Delta State Police Command has arrested a 24-year-old robbery suspect in Ughelli North, recovering guns and ammunition after a raid on a criminal hideout.
+
+Read More: https://punchng.com/police-arrest-robbery-suspect-in-delta-recover-arms/
 
 
-### OTHER on 2025-12-31 12:07
-- Location: NBC News
-- Description: A new strain of the flu is spiking, the Trump administration freezes child care payments to the state of Minnesota and eyewitnesses recount an explosion in Venezuela that has raised concern over the U.S. military action against the South American country.
+### OTHER on 2025-12-31 12:37
+- Location: Unexplained-mysteries.com
+- Description: To round out our festive week of top lists, here are the most bizarre stories of the last 12 months...
 
-Analysis generated at: Thu Jan  1 12:31:54 UTC 2026
+Analysis generated at: Thu Jan  1 12:53:31 UTC 2026
