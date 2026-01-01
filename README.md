@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Jan  1 02:12:52 UTC 2026
+Last updated: Thu Jan  1 06:25:46 UTC 2026
 
 ## Latest Analysis
 
-Loaded 79751 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-31 02:02:20
+Loaded 79784 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-31 06:25:24
 
 Incidents by source:
 source
-newsapi           79650
+newsapi           79683
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,31 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2025-12-31 02:02
-- Location: ClutchPoints
-- Description: Georgia football head coach Kirby Smart cited two selfless moments at Sugar Bowl Media Day Tuesday as his favorites moments of season so far.
+### OTHER on 2025-12-31 06:25
+- Location: The Punch
+- Description: A year in review of 2025, a year of turmoil marked by Donald Trump’s return, a fragile Gaza truce, and the ongoing war in Ukraine. See the key events.
+
+Read More: https://punchng.com/world-bids-farewell-to-2025-marked-by-trump-tariffs-truces-turmoil/
 
 
-### OTHER on 2025-12-31 01:45
-- Location: Decider
-- Description: This story has been told a handful of times in films and series already, but not on Netflix, who seems obligated to further exploit it.
+### OTHER on 2025-12-31 06:11
+- Location: BBC News
+- Description: Unite says workers have not had a pay increase from the Met for this financial year.
 
 
-### OTHER on 2025-12-31 01:23
-- Location: Fox News
-- Description: Texas authorities find body and firearm during search for 19-year-old Camila Olmos who vanished Christmas Eve from Bexar County in ongoing case.
+### OTHER on 2025-12-31 06:05
+- Location: Gossiplankanews.com
+- Description: Anuradhapura Additional Magistrate D. L. Samarasinghe ordered the seventy-year-old suspect, arrested on charges of abusing a minor schoolgirl aged about seven years and eight months, to be remanded until January 8th.
+<!--gossip-below-article-Rs--> (adsbygoog…
 
 
-### OTHER on 2025-12-31 01:22
-- Location: The Times of India
-- Description: The year 2025 saw trade wars, a Gaza truce and ongoing conflict in Ukraine. Looking ahead, 2026 promises space missions, the Winter Olympics and an expanded football World Cup.
+### OTHER on 2025-12-31 06:03
+- Location: Israelnationalnews.com
+- Description: The relationship between the Trump and Netanyahu is very strong. There is complete alignment on Hamas, Hezbollah, Syria and Iran. And Trump’s fondness toward Israel remains unshakable. Opinion.
 
 
-### HOMICIDE on 2025-12-31 01:02
-- Location: CBC News
-- Description: Vancouver police say they are investigating the sudden death of a 16-year-old girl who was reported missing in North Vancouver.
+### HOMICIDE on 2025-12-31 06:00
+- Location: Insurance Journal
+- Description: Mike Lambert heard fewer illegal fireworks exploding in his suburban Honolulu neighborhood in the months after a chain of blasts at a house party last New Year’s Eve led to the deaths of six people, including a 3-year-old boy. As …
 
-Analysis generated at: Thu Jan  1 02:12:52 UTC 2026
+Analysis generated at: Thu Jan  1 06:25:46 UTC 2026
