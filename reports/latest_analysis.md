@@ -1,10 +1,10 @@
 
-Loaded 79747 incidents
-Date range: 2024-01-01 00:00:00 to 2025-12-31 01:02:52
+Loaded 79751 incidents
+Date range: 2024-01-01 00:00:00 to 2025-12-31 02:02:20
 
 Incidents by source:
 source
-newsapi           79646
+newsapi           79650
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,30 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
+### OTHER on 2025-12-31 02:02
+- Location: ClutchPoints
+- Description: Georgia football head coach Kirby Smart cited two selfless moments at Sugar Bowl Media Day Tuesday as his favorites moments of season so far.
+
+
+### OTHER on 2025-12-31 01:45
+- Location: Decider
+- Description: This story has been told a handful of times in films and series already, but not on Netflix, who seems obligated to further exploit it.
+
+
+### OTHER on 2025-12-31 01:23
+- Location: Fox News
+- Description: Texas authorities find body and firearm during search for 19-year-old Camila Olmos who vanished Christmas Eve from Bexar County in ongoing case.
+
+
+### OTHER on 2025-12-31 01:22
+- Location: The Times of India
+- Description: The year 2025 saw trade wars, a Gaza truce and ongoing conflict in Ukraine. Looking ahead, 2026 promises space missions, the Winter Olympics and an expanded football World Cup.
+
+
 ### HOMICIDE on 2025-12-31 01:02
 - Location: CBC News
 - Description: Vancouver police say they are investigating the sudden death of a 16-year-old girl who was reported missing in North Vancouver.
 
-
-### OTHER on 2025-12-31 01:02
-- Location: New York Post
-- Description: The heated argument that ultimately took the life of civil rights attorney, Krikor Kouyoumdjian, 33, erupted inside the family’s 1.3 million dollar home on Saturday, days after Christmas.
-
-
-### OTHER on 2025-12-31 01:00
-- Location: Activistpost.com
-- Description: Cuba was already in dire straits. Oil is the finishing touch. Cuba’s Economy Collapses Trump’s de facto declaration of war on Venezuela (a naval blockade is undoubtedly war) has taken a toll on two economies, Venezuela and and Cuba. The Wall Street journal ac…
-
-
-### OTHER on 2025-12-31 00:52
-- Location: The Punch
-- Description: The US will deport Ibrahim Ijaoba, a Nigerian national and convicted Bloods gang member, for his extensive criminal record including violent crimes.
-
-Read More: https://punchng.com/us-to-deport-nigerian-over-gang-membership/
-
-
-### OTHER on 2025-12-31 00:44
-- Location: NBC News
-- Description: Actor Isiah Whitlock Jr., best known for his role on HBO's 2000s crime drama "The Wire," has died, his manager said Tuesday.
-
-Analysis generated at: Thu Jan  1 01:21:27 UTC 2026
+Analysis generated at: Thu Jan  1 02:12:52 UTC 2026
