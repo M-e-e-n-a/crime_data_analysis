@@ -1,10 +1,10 @@
 
-Loaded 79950 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-01 06:09:56
+Loaded 79987 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-01 12:26:14
 
 Incidents by source:
 source
-newsapi           79849
+newsapi           79886
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,30 +20,32 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-01-01 06:09
-- Location: BusinessLine
-- Description: Zohran Mamdani makes history as New York City's first Muslim mayor, sworn in at a decommissioned subway station.
+### OTHER on 2026-01-01 12:26
+- Location: Antaranews.com
+- Description: Devastating floods and landslides ravaged numerous districts and cities in Indonesia&rsquo;s Aceh, North Sumatra, and West Sumatra in late November 2025. ...
 
 
-### OTHER on 2026-01-01 06:06
+### ASSAULT on 2026-01-01 11:27
+- Location: Fortune
+- Description: Rogue teens have attacked some 120 companies—including Nike, Chick-fil-A, Instacart, and News Corporation—often posing as IT staff.
+
+
+### ROBBERY/THEFT on 2026-01-01 11:21
 - Location: The Punch
-- Description: Democrat Zohran Mamdani, 34, makes history as he is sworn in as New York City’s first Muslim and South Asian mayor in a ceremony beneath Manhattan.
+- Description: The Jigawa State Police Command arrested 17 suspects for armed robbery, drug dealing, and vandalism, recovering firearms, narcotics, and stolen items.
 
-Read More: https://punchng.com/democrat-zohran-mamdani-makes-history-as-new-yorks-first-muslim-mayor/
-
-
-### HOMICIDE on 2026-01-01 05:53
-- Location: The Times of India
-- Description: The younger brother of a murder victim in Dehradun has requested privacy, citing exhaustion and grief. Police are now open to considering allegations of racial slurs by the accused, a claim initially downplayed but now being re-examined after the family's sta…
+Read More: https://punchng.com/police-arrest-17-suspects-seize-weapons-drugs-in-jigawa/
 
 
-### OTHER on 2026-01-01 05:32
-- Location: The Times of India
-- Description: The world welcomed 2026 with grand celebrations. Cities like Sydney, Paris, and New York hosted spectacular fireworks and light shows. In Japan, temple bells rang and people climbed mountains for the first sunrise. Dubai featured a unique jet ski light show. …
+### SHOOTING on 2026-01-01 11:21
+- Location: The Punch
+- Description: Oba Simeon Olaonipekun, a Kwara monarch, and his son were abducted after gunmen stormed their palace in Ifelodun LGA. The monarch’s wife was reportedly sho
+
+Read More: https://punchng.com/gunmen-storm-palace-in-kwara-abduct-monarch-son/
 
 
-### OTHER on 2026-01-01 05:31
-- Location: Hurriyet Daily News
-- Description: Revellers around the world toasted the start of 2026 on Thursday, bidding farewell to a volatile year when temperatures soared, U.S. President Donald Trump upended global trade, and the brutal conflict in Ukraine and tragedy in Gaza raged on.
+### SHOOTING on 2026-01-01 11:21
+- Location: WREG NewsChannel 3
+- Description: MEMPHIS, Tenn. — A shooting victim showed up at the St. Francis Hospital along Park Avenue just before 1 this morning, Memphis Police confirmed. And this is ...
 
-Analysis generated at: Fri Jan  2 06:25:54 UTC 2026
+Analysis generated at: Fri Jan  2 12:31:11 UTC 2026
