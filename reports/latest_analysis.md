@@ -1,10 +1,10 @@
 
-Loaded 79989 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-01 12:39:25
+Loaded 80032 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-01 18:19:35
 
 Incidents by source:
 source
-newsapi           79888
+newsapi           79931
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,30 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-01-01 12:39
+### HOMICIDE on 2026-01-01 18:19
+- Location: New York Post
+- Description: A New Year’s Eve gun call in a quiet Northridge block after an off-duty federal agent shot and killed an armed neighbor during a late-night police response, authorities said.
+
+
+### OTHER on 2026-01-01 18:15
 - Location: The Times of India
-- Description: Haryana Congress president Rao Narendra Singh visited a gangrape victim in Faridabad, condemning the 'inhumane and heinous crime' and criticizing the BJP government's claims on women's safety. The 25-year-old mother of three was allegedly gangraped in a movin…
+- Description: Ranchi: The city is going to host the 2nd All India Judges’ Badminton Tournament under the aegis of the Jharkhand high court on January 3 and 4.The to.
 
 
-### OTHER on 2026-01-01 12:32
-- Location: HuffPost
-- Description: The democratic-socialist phenom begins one of the most unrelenting jobs in American politics as one of the country’s most-watched politicians.
+### OTHER on 2026-01-01 18:14
+- Location: The Times of India
+- Description: Ranchi will host the 2nd All India Judges’ Badminton Tournament on January 3 and 4, organized by the Jharkhand High Court. Over 30 high court judges from nine states will compete in men's singles, men's doubles, women's singles, and mixed doubles at Khelgaon'…
 
 
-### OTHER on 2026-01-01 12:26
-- Location: Antaranews.com
-- Description: Devastating floods and landslides ravaged numerous districts and cities in Indonesia&rsquo;s Aceh, North Sumatra, and West Sumatra in late November 2025. ...
+### OTHER on 2026-01-01 18:13
+- Location: The Times of India
+- Description: Ranchi welcomed the New Year with a blend of spiritual devotion and outdoor recreation. Residents offered prayers at churches and temples, while tribal communities observed traditional rituals. Popular picnic spots and dams buzzed with families enjoying boat …
 
 
-### ASSAULT on 2026-01-01 11:27
-- Location: Fortune
-- Description: Rogue teens have attacked some 120 companies—including Nike, Chick-fil-A, Instacart, and News Corporation—often posing as IT staff.
+### OTHER on 2026-01-01 18:12
+- Location: The Times of India
+- Description: In the charming Dhubri district, a fresh approach to road safety has emerged where officials delight helmet-clad, law-abiding motorcyclists with roses as tokens of appreciation. This innovative initiative is part of a month-long national campaign designed to …
 
-
-### ROBBERY/THEFT on 2026-01-01 11:21
-- Location: The Punch
-- Description: The Jigawa State Police Command arrested 17 suspects for armed robbery, drug dealing, and vandalism, recovering firearms, narcotics, and stolen items.
-
-Read More: https://punchng.com/police-arrest-17-suspects-seize-weapons-drugs-in-jigawa/
-
-Analysis generated at: Fri Jan  2 12:52:06 UTC 2026
+Analysis generated at: Fri Jan  2 18:23:23 UTC 2026
