@@ -1,10 +1,10 @@
 
-Loaded 79987 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-01 12:26:14
+Loaded 79989 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-01 12:39:25
 
 Incidents by source:
 source
-newsapi           79886
+newsapi           79888
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -19,6 +19,16 @@ bution.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### OTHER on 2026-01-01 12:39
+- Location: The Times of India
+- Description: Haryana Congress president Rao Narendra Singh visited a gangrape victim in Faridabad, condemning the 'inhumane and heinous crime' and criticizing the BJP government's claims on women's safety. The 25-year-old mother of three was allegedly gangraped in a movin…
+
+
+### OTHER on 2026-01-01 12:32
+- Location: HuffPost
+- Description: The democratic-socialist phenom begins one of the most unrelenting jobs in American politics as one of the country’s most-watched politicians.
+
 
 ### OTHER on 2026-01-01 12:26
 - Location: Antaranews.com
@@ -36,16 +46,4 @@ bution.svg)
 
 Read More: https://punchng.com/police-arrest-17-suspects-seize-weapons-drugs-in-jigawa/
 
-
-### SHOOTING on 2026-01-01 11:21
-- Location: The Punch
-- Description: Oba Simeon Olaonipekun, a Kwara monarch, and his son were abducted after gunmen stormed their palace in Ifelodun LGA. The monarch’s wife was reportedly sho
-
-Read More: https://punchng.com/gunmen-storm-palace-in-kwara-abduct-monarch-son/
-
-
-### SHOOTING on 2026-01-01 11:21
-- Location: WREG NewsChannel 3
-- Description: MEMPHIS, Tenn. — A shooting victim showed up at the St. Francis Hospital along Park Avenue just before 1 this morning, Memphis Police confirmed. And this is ...
-
-Analysis generated at: Fri Jan  2 12:31:11 UTC 2026
+Analysis generated at: Fri Jan  2 12:52:06 UTC 2026
