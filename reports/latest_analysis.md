@@ -1,10 +1,10 @@
 
-Loaded 80064 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-02 06:01:05
+Loaded 80105 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-02 12:26:06
 
 Incidents by source:
 source
-newsapi           79963
+newsapi           80004
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2026-01-02 06:01
-- Location: BBC News
-- Description: Campaigners are calling for a specific new offence to deter attacks on frontline workers.
+### ASSAULT on 2026-01-02 12:26
+- Location: Theregister.com
+- Description: Gavin Webb orchestrated Operation Cronos as it pulled off the legendary disruption sting
+A senior British crimefighter has been awarded one of the country's highest tributes for public service for his role in the 2024 LockBit ransomware takedown.…
 
 
-### OTHER on 2026-01-02 06:00
-- Location: Smallwarsjournal.com
-- Description: Encrypted networks and artificial intelligence are enabling new forms of decentralized mobilization. Britain’s institutions must learn to track behavior, not just words. When a Telegram channel created only hours before a protest swelled from a few dozen memb…
+### OTHER on 2026-01-02 12:09
+- Location: The Times of India
+- Description: Toronto Maple Leafs winger William Nylander will miss the next game because of a lower-body injury he sustained against the Ottawa Senators. The absence of Nylander is his third game absence in the season, and the absence has caused a huge gap in the Leafs ' …
 
 
-### ROBBERY/THEFT on 2026-01-02 05:51
-- Location: BBC News
-- Description: London's police force is the worst performing in the country with 88.5% of car thefts unsolved, figures show.
+### HOMICIDE on 2026-01-02 12:00
+- Location: CBS News
+- Description: Esther Jane Stephen, a high school softball coach, was arrested in 2020 in the fatal shooting of her former fiancé Shea Briar in Jay County, Indiana. Prosecutors say Stephen, known as E.J., had attempted to kill him before with a drink laced with ibuprofen.
 
 
-### ASSAULT on 2026-01-02 05:40
-- Location: Economictimes.com
-- Description: Indian OTT has changed the game by putting women at the centre, not as side characters, but as decision-makers, fighters and survivors. These stories focus on ambition, trauma, strength and agency, proving that women-led narratives are gripping, layered and d…
+### OTHER on 2026-01-02 12:00
+- Location: CBC News
+- Description: As the new chief officially steps into the role, he sat down with CBC News to talk about his priorities for the job, and a major controversy that marked the beginning of his tenure.
 
 
-### OTHER on 2026-01-02 05:30
-- Location: Independent.ie
-- Description: Members of An Garda Síochána have been busy in recent weeks, making sure that the rest of us could enjoy more peace and goodwill than crime and disorder.
+### HOMICIDE on 2026-01-02 11:57
+- Location: CNA
+- Description: PARIS: President Donald Trump said on Friday (Jan 2) that the United States is "locked and loaded" to respond if Iran kills protesters, prompting Tehran to warn that intervention would destabilise the region.Protesters and security forces clashed in several I…
 
-Analysis generated at: Sat Jan  3 06:24:02 UTC 2026
+Analysis generated at: Sat Jan  3 12:29:37 UTC 2026
