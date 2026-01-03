@@ -1,10 +1,10 @@
 
-Loaded 80106 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-02 12:30:00
+Loaded 80184 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-02 18:16:59
 
 Incidents by source:
 source
-newsapi           80005
+newsapi           80083
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-01-02 12:30
-- Location: ComingSoon.net
-- Description: Netflix will soon begin streaming seasons 1 to 5 of a popular crime-drama series. Southland, created by Ann Biderman, originally debuted on NBC in 2009. It was canceled after one season despite an initial renewal for Season 2. The series eventually found a ne…
+### HOMICIDE on 2026-01-02 18:16
+- Location: New York Post
+- Description: Longtime pals of Spencer Tepe, 37, and his wife, Monique, 39 — who were gunned down in their Columbus home Tuesday while their young children were inside  — said they had no clue who may have wanted to hurt the couple.
 
 
-### ASSAULT on 2026-01-02 12:26
-- Location: Theregister.com
-- Description: Gavin Webb orchestrated Operation Cronos as it pulled off the legendary disruption sting
-A senior British crimefighter has been awarded one of the country's highest tributes for public service for his role in the 2024 LockBit ransomware takedown.…
+### HOMICIDE on 2026-01-02 18:15
+- Location: LancasterOnline
+- Description: Lancaster County had six homicides in 2025, four fewer than in 2024 and tying 2010 for the lowest number of homicides this century.
 
 
-### OTHER on 2026-01-02 12:09
+### OTHER on 2026-01-02 18:09
 - Location: The Times of India
-- Description: Toronto Maple Leafs winger William Nylander will miss the next game because of a lower-body injury he sustained against the Ottawa Senators. The absence of Nylander is his third game absence in the season, and the absence has caused a huge gap in the Leafs ' …
+- Description: A shocking discovery was made on railway tracks near Adityapur as a partially clothed, decapitated body was found. Local residents alerted authorities after spotting the remains early Friday morning. Police are working to identify the deceased and are investi…
 
 
-### HOMICIDE on 2026-01-02 12:00
-- Location: CBS News
-- Description: Esther Jane Stephen, a high school softball coach, was arrested in 2020 in the fatal shooting of her former fiancé Shea Briar in Jay County, Indiana. Prosecutors say Stephen, known as E.J., had attempted to kill him before with a drink laced with ibuprofen.
+### SHOOTING on 2026-01-02 18:06
+- Location: WFTV Orlando
+- Description: “Yes, I ate your snack, and it was good,” Kenneth Beals allegedly said before shooting a woman in her arm.
 
 
-### OTHER on 2026-01-02 12:00
-- Location: CBC News
-- Description: As the new chief officially steps into the role, he sat down with CBC News to talk about his priorities for the job, and a major controversy that marked the beginning of his tenure.
+### SHOOTING on 2026-01-02 18:05
+- Location: WPXI Pittsburgh
+- Description: “Yes, I ate your snack, and it was good,” Kenneth Beals allegedly said before shooting a woman in her arm.
 
-Analysis generated at: Sat Jan  3 12:50:23 UTC 2026
+Analysis generated at: Sat Jan  3 18:22:06 UTC 2026
