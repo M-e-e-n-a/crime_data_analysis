@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Jan  3 12:29:37 UTC 2026
+Last updated: Sat Jan  3 12:50:23 UTC 2026
 
 ## Latest Analysis
 
-Loaded 80105 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-02 12:26:06
+Loaded 80106 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-02 12:30:00
 
 Incidents by source:
 source
-newsapi           80004
+newsapi           80005
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -23,6 +23,11 @@ bution.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### OTHER on 2026-01-02 12:30
+- Location: ComingSoon.net
+- Description: Netflix will soon begin streaming seasons 1 to 5 of a popular crime-drama series. Southland, created by Ann Biderman, originally debuted on NBC in 2009. It was canceled after one season despite an initial renewal for Season 2. The series eventually found a ne…
+
 
 ### ASSAULT on 2026-01-02 12:26
 - Location: Theregister.com
@@ -44,9 +49,4 @@ A senior British crimefighter has been awarded one of the country's highest trib
 - Location: CBC News
 - Description: As the new chief officially steps into the role, he sat down with CBC News to talk about his priorities for the job, and a major controversy that marked the beginning of his tenure.
 
-
-### HOMICIDE on 2026-01-02 11:57
-- Location: CNA
-- Description: PARIS: President Donald Trump said on Friday (Jan 2) that the United States is "locked and loaded" to respond if Iran kills protesters, prompting Tehran to warn that intervention would destabilise the region.Protesters and security forces clashed in several I…
-
-Analysis generated at: Sat Jan  3 12:29:37 UTC 2026
+Analysis generated at: Sat Jan  3 12:50:23 UTC 2026
