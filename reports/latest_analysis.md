@@ -1,10 +1,10 @@
 
-Loaded 80043 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-02 01:07:50
+Loaded 80044 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-02 01:45:15
 
 Incidents by source:
 source
-newsapi           79942
+newsapi           79943
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -19,6 +19,11 @@ bution.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### OTHER on 2026-01-02 01:45
+- Location: ABC News (AU)
+- Description: In just four minutes, two men were stabbed in the chest and customers inside the Queanbeyan hairdresser's were left shaken.
+
 
 ### HOMICIDE on 2026-01-02 01:07
 - Location: WLWT Cincinnati
@@ -39,9 +44,4 @@ bution.svg)
 - Location: Vanity Fair
 - Description: Now the democratic socialist has to translate campaign momentum into an ambitious and expensive agenda–while keeping President Donald Trump at bay.
 
-
-### SHOOTING on 2026-01-02 00:12
-- Location: BBC News
-- Description: Mr Reavey's brothers were shot at the family home in County Armagh on 4 January 1976.
-
-Analysis generated at: Sat Jan  3 01:10:49 UTC 2026
+Analysis generated at: Sat Jan  3 01:57:34 UTC 2026
