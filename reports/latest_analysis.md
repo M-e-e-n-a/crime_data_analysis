@@ -1,10 +1,10 @@
 
-Loaded 80184 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-02 18:16:59
+Loaded 80196 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-03 01:19:24
 
 Incidents by source:
 source
-newsapi           80083
+newsapi           80095
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-01-02 18:16
-- Location: New York Post
-- Description: Longtime pals of Spencer Tepe, 37, and his wife, Monique, 39 — who were gunned down in their Columbus home Tuesday while their young children were inside  — said they had no clue who may have wanted to hurt the couple.
+### OTHER on 2026-01-03 01:19
+- Location: ABC News
+- Description: As the holidays wrap up and the new year begins, remarkable acts of kindness happening across the nation including the Chobani yogurt company helping feed communities.
 
 
-### HOMICIDE on 2026-01-02 18:15
-- Location: LancasterOnline
-- Description: Lancaster County had six homicides in 2025, four fewer than in 2024 and tying 2010 for the lowest number of homicides this century.
+### HOMICIDE on 2026-01-03 01:13
+- Location: Us Weekly
+- Description: Romy and Jake Reiner kicked off the New Year performing some community service. Romy, 28, and Jake, 34, whose parents were Rob Reiner and Michele Singer Reiner, were spotted cleaning up a beach in Malibu on Thursday, January 1, per photos obtained by TMZ. The…
 
 
-### OTHER on 2026-01-02 18:09
+### SHOOTING on 2026-01-03 01:10
+- Location: WLWT Cincinnati
+- Description: Cincinnati police are investigating after three people were shot in Winton Hills on Friday night.
+
+
+### OTHER on 2026-01-03 00:59
 - Location: The Times of India
-- Description: A shocking discovery was made on railway tracks near Adityapur as a partially clothed, decapitated body was found. Local residents alerted authorities after spotting the remains early Friday morning. Police are working to identify the deceased and are investi…
+- Description: Karnataka HC ruled that a third party can challenge a Lok Adalat award via writ petition if fraud is proven by excluding a necessary party. Justice M Nagaprasanna quashed a civil court decree arising from a land partition compromise, stating that deliberate n…
 
 
-### SHOOTING on 2026-01-02 18:06
-- Location: WFTV Orlando
-- Description: “Yes, I ate your snack, and it was good,” Kenneth Beals allegedly said before shooting a woman in her arm.
+### OTHER on 2026-01-03 00:52
+- Location: The Times of India
+- Description: Karnataka's cabinet has strongly opposed the Centre's new rural employment scheme, G-RAM-G, deeming it a blow to federalism and the right to work. The state is exploring its own rural employment guarantee program, potentially foregoing central funding to prot…
 
-
-### SHOOTING on 2026-01-02 18:05
-- Location: WPXI Pittsburgh
-- Description: “Yes, I ate your snack, and it was good,” Kenneth Beals allegedly said before shooting a woman in her arm.
-
-Analysis generated at: Sat Jan  3 18:22:06 UTC 2026
+Analysis generated at: Sun Jan  4 01:22:20 UTC 2026
