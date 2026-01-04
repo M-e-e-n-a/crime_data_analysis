@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Jan  4 01:22:20 UTC 2026
+Last updated: Sun Jan  4 02:20:38 UTC 2026
 
 ## Latest Analysis
 
-Loaded 80196 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-03 01:19:24
+Loaded 80202 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-03 02:08:47
 
 Incidents by source:
 source
-newsapi           80095
+newsapi           80101
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-01-03 01:19
+### HOMICIDE on 2026-01-03 02:08
+- Location: Page Six
+- Description: The Oscar-winning actor shared his daughter with ex-wife Kimberlea Cloughley. The former couple also welcomed son Austin during their time together.
+
+
+### SHOOTING on 2026-01-03 02:07
+- Location: WPXI Pittsburgh
+- Description: A man was shot outside of a funeral home in Beaver County.
+
+
+### DRUG RELATED on 2026-01-03 02:05
 - Location: ABC News
-- Description: As the holidays wrap up and the new year begins, remarkable acts of kindness happening across the nation including the Chobani yogurt company helping feed communities.
+- Description: Retired baseball player Lenny Dykstra faces charges after Pennsylvania State Police say a trooper found drugs and paraphernalia in his possession
 
 
-### HOMICIDE on 2026-01-03 01:13
-- Location: Us Weekly
-- Description: Romy and Jake Reiner kicked off the New Year performing some community service. Romy, 28, and Jake, 34, whose parents were Rob Reiner and Michele Singer Reiner, were spotted cleaning up a beach in Malibu on Thursday, January 1, per photos obtained by TMZ. The…
+### OTHER on 2026-01-03 01:48
+- Location: ABC News (AU)
+- Description: The man was pulled unresponsive from the water at a remote beach south of Wollongong after he was tangled in a float line.
 
 
-### SHOOTING on 2026-01-03 01:10
-- Location: WLWT Cincinnati
-- Description: Cincinnati police are investigating after three people were shot in Winton Hills on Friday night.
+### HOMICIDE on 2026-01-03 01:35
+- Location: ABC News (AU)
+- Description: Police arrest a 61-year-old man after a seven-day investigation involving CCTV, crime scene analysis, forensic examination and witness enquiries.
 
-
-### OTHER on 2026-01-03 00:59
-- Location: The Times of India
-- Description: Karnataka HC ruled that a third party can challenge a Lok Adalat award via writ petition if fraud is proven by excluding a necessary party. Justice M Nagaprasanna quashed a civil court decree arising from a land partition compromise, stating that deliberate n…
-
-
-### OTHER on 2026-01-03 00:52
-- Location: The Times of India
-- Description: Karnataka's cabinet has strongly opposed the Centre's new rural employment scheme, G-RAM-G, deeming it a blow to federalism and the right to work. The state is exploring its own rural employment guarantee program, potentially foregoing central funding to prot…
-
-Analysis generated at: Sun Jan  4 01:22:20 UTC 2026
+Analysis generated at: Sun Jan  4 02:20:38 UTC 2026
