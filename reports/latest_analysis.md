@@ -1,10 +1,10 @@
 
-Loaded 80299 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-04 01:35:55
+Loaded 80322 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-04 06:21:22
 
 Incidents by source:
 source
-newsapi           80198
+newsapi           80221
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-01-04 01:35
-- Location: Bannersontheparkway.com
-- Description: There are not a lot of ways to couch this game as a positive. This one is to avoid finishing dead last in the Big East. Make no mistake, the bottom four of the conference will feature DePaul and Xavier in some positions. There may be a smattering of Marquette…
+### DRUG RELATED on 2026-01-04 06:21
+- Location: Antaranews.com
+- Description: Indonesia&rsquo;s navy has intensified patrols along its maritime border with Papua New Guinea, deploying warships and surveillance assets to curb smuggling ...
 
 
-### OTHER on 2026-01-04 01:15
-- Location: Boston Herald
-- Description: Two juveniles are under arrest after allegedly carjacking a woman in a movie theater parking lot in Braintree and then abandoning her car in Boston.
+### OTHER on 2026-01-04 06:05
+- Location: Mypeoplesreview.com
+- Description: Kathmandu, Jan 4: Prakash Pathak, who allegedly threatened the lives of 10 high-ranking officials, has been arrested. The Bureau of […]
+The post Pathak, who threatened 10 high-profile officials, arrested in Philippines appeared first on Peoples' Review.
 
 
-### OTHER on 2026-01-04 00:40
-- Location: Mediaite
-- Description: Donald Trump took time out of his very busy day deposing Venezuelan strongman Nicolas Maduro to "re-Truth" a social media post About Tim Walz.
-The post Trump Shares Conspiracy Post Suggesting Tim Walz Ordered the Assassination of Minnesota Legislator first ap…
+### OTHER on 2026-01-04 06:00
+- Location: The Week Magazine
+- Description: From comedies to thrillers, documentaries to animations, 2025 featured some unforgettable film moments
 
 
-### OTHER on 2026-01-04 00:24
-- Location: The Indian Express
-- Description: According to the police, for the first time, investigators have focused on tracing the financial trail linked to such frauds.
+### OTHER on 2026-01-04 05:51
+- Location: Japan Today
+- Description: Myanmar’s military government granted amnesty to more than 6,100 prisoners and reduced other inmates’ sentences Sunday to mark the 78th anniversary of the country's independence from Britain. It was not immediately clear whether those released include the tho…
 
 
-### HOMICIDE on 2026-01-04 00:20
-- Location: The Indian Express
-- Description: A mobile phone and ATM card of the deceased, Ajay Mukhiya (24), and an e-rickshaw used to dump his body have been recovered, officials said.
+### OTHER on 2026-01-04 05:30
+- Location: Independent.ie
+- Description: Isiah Whitlock Jr, the actor best known for playing Maryland state senator Clay Davis in HBO’s crime series The Wire and for his frequent roles in Spike Lee’s films, has died. He was 71.
 
-Analysis generated at: Mon Jan  5 02:15:22 UTC 2026
+Analysis generated at: Mon Jan  5 06:31:19 UTC 2026
