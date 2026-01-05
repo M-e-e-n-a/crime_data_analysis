@@ -1,10 +1,10 @@
 
-Loaded 80361 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-04 12:44:00
+Loaded 80404 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-04 18:18:56
 
 Incidents by source:
 source
-newsapi           80260
+newsapi           80303
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-01-04 12:44
-- Location: Israelnationalnews.com
-- Description: Ahmed Al-Ahmad, who tackled the terrorist at Bondi Beach, and Jewish teen Haya Dadon, who was shot while protecting two small children, were honored by thousands of spectators in Sydney stadium.
+### OTHER on 2026-01-04 18:18
+- Location: The Times of India
+- Description: Jammu and Kashmir's legislative assembly will convene on February 2nd in Jammu, with Lieutenant Governor Manoj Sinha delivering the inaugural address. Chief Minister Omar Abdullah, also finance minister, is slated to present the budget for 2026-27 later in th…
 
 
-### OTHER on 2026-01-04 12:31
-- Location: fox6now.com
-- Description: A 41-year-old Waterloo woman was arrested by Wisconsin State Patrol on Saturday, Jan. 3, for operating a motor vehicle while under the influence with four children in the vehicle under the age of 16.
+### OTHER on 2026-01-04 18:17
+- Location: The Times of India
+- Description: A group of 2025-batch trainee IAS officers visited Bokaro Steel Plant on Jan 1 to gain insights into steel production. They were briefed at the human .
 
 
-### OTHER on 2026-01-04 12:21
-- Location: Al Jazeera English
-- Description: Rodriguez has a long history of representing the socialist 'revolution' of late President Hugo Chavez.
+### OTHER on 2026-01-04 18:17
+- Location: The Times of India
+- Description: In a bold stance, the Manipur Congress is standing firm against any prolongation of President's Rule, insisting on the urgent need for fresh elections to restore a democratically elected government capable of addressing the dire challenges facing the state.
 
 
-### OTHER on 2026-01-04 12:13
-- Location: BBC News
-- Description: The PM tells Laura Kuenssberg he "should have been made aware" of Alaa Abd El Fattah's social media history.
+### OTHER on 2026-01-04 18:16
+- Location: The Times of India
+- Description: Bokaro admin conducts road safety driveAdding a symbolic touch to enforcement, the district administration conducted a stop-and-check road safety driv.
 
 
-### ROBBERY/THEFT on 2026-01-04 12:06
-- Location: PCMag.com
-- Description: Ilya Lichtenstein, who had pleaded guilty to attempting to launder 120,000 bitcoin stolen from the Bitfinex crypto exchange in 2016, was released after just 14 months of his original five-year sentence.
-Ilya Lichtenstein, perpetrator of one of the biggest hac…
+### OTHER on 2026-01-04 18:14
+- Location: The Times of India
+- Description: Police in Jammu and Reasi districts have booked multiple property owners for renting to unverified tenants, intensifying checks ahead of Republic Day. In Reasi's Katra, a group of unverified tenants from outside the state were found residing in jhuggis after …
 
-Analysis generated at: Mon Jan  5 12:57:20 UTC 2026
+Analysis generated at: Mon Jan  5 18:25:31 UTC 2026
