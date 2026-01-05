@@ -1,10 +1,10 @@
 
-Loaded 80298 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-04 01:15:51
+Loaded 80299 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-04 01:35:55
 
 Incidents by source:
 source
-newsapi           80197
+newsapi           80198
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -19,6 +19,11 @@ bution.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### HOMICIDE on 2026-01-04 01:35
+- Location: Bannersontheparkway.com
+- Description: There are not a lot of ways to couch this game as a positive. This one is to avoid finishing dead last in the Big East. Make no mistake, the bottom four of the conference will feature DePaul and Xavier in some positions. There may be a smattering of Marquette…
+
 
 ### OTHER on 2026-01-04 01:15
 - Location: Boston Herald
@@ -40,9 +45,4 @@ The post Trump Shares Conspiracy Post Suggesting Tim Walz Ordered the Assassinat
 - Location: The Indian Express
 - Description: A mobile phone and ATM card of the deceased, Ajay Mukhiya (24), and an e-rickshaw used to dump his body have been recovered, officials said.
 
-
-### OTHER on 2026-01-04 00:09
-- Location: The Conversation Africa
-- Description: President Donald Trump has said the US will ‘run’ Venezuela until a ‘safe, proper and judicious transition’ can take place. But that still leaves many options.
-
-Analysis generated at: Mon Jan  5 01:21:09 UTC 2026
+Analysis generated at: Mon Jan  5 02:15:22 UTC 2026
