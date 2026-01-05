@@ -1,10 +1,10 @@
 
-Loaded 80360 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-04 12:31:26
+Loaded 80361 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-04 12:44:00
 
 Incidents by source:
 source
-newsapi           80259
+newsapi           80260
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -19,6 +19,11 @@ bution.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### SHOOTING on 2026-01-04 12:44
+- Location: Israelnationalnews.com
+- Description: Ahmed Al-Ahmad, who tackled the terrorist at Bondi Beach, and Jewish teen Haya Dadon, who was shot while protecting two small children, were honored by thousands of spectators in Sydney stadium.
+
 
 ### OTHER on 2026-01-04 12:31
 - Location: fox6now.com
@@ -40,10 +45,4 @@ bution.svg)
 - Description: Ilya Lichtenstein, who had pleaded guilty to attempting to launder 120,000 bitcoin stolen from the Bitfinex crypto exchange in 2016, was released after just 14 months of his original five-year sentence.
 Ilya Lichtenstein, perpetrator of one of the biggest hac…
 
-
-### ROBBERY/THEFT on 2026-01-04 12:06
-- Location: PCMag.com
-- Description: Ilya Lichtenstein, who had pleaded guilty to attempting to launder 120,000 bitcoin stolen from the Bitfinex crypto exchange in 2016, was released after just 14 months of his original five-year sentence.
-Ilya Lichtenstein, perpetrator of one of the biggest hac…
-
-Analysis generated at: Mon Jan  5 12:35:20 UTC 2026
+Analysis generated at: Mon Jan  5 12:57:20 UTC 2026
