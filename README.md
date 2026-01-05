@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Jan  5 06:31:19 UTC 2026
+Last updated: Mon Jan  5 12:35:20 UTC 2026
 
 ## Latest Analysis
 
-Loaded 80322 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-04 06:21:22
+Loaded 80360 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-04 12:31:26
 
 Incidents by source:
 source
-newsapi           80221
+newsapi           80259
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### DRUG RELATED on 2026-01-04 06:21
-- Location: Antaranews.com
-- Description: Indonesia&rsquo;s navy has intensified patrols along its maritime border with Papua New Guinea, deploying warships and surveillance assets to curb smuggling ...
+### OTHER on 2026-01-04 12:31
+- Location: fox6now.com
+- Description: A 41-year-old Waterloo woman was arrested by Wisconsin State Patrol on Saturday, Jan. 3, for operating a motor vehicle while under the influence with four children in the vehicle under the age of 16.
 
 
-### OTHER on 2026-01-04 06:05
-- Location: Mypeoplesreview.com
-- Description: Kathmandu, Jan 4: Prakash Pathak, who allegedly threatened the lives of 10 high-ranking officials, has been arrested. The Bureau of […]
-The post Pathak, who threatened 10 high-profile officials, arrested in Philippines appeared first on Peoples' Review.
+### OTHER on 2026-01-04 12:21
+- Location: Al Jazeera English
+- Description: Rodriguez has a long history of representing the socialist 'revolution' of late President Hugo Chavez.
 
 
-### OTHER on 2026-01-04 06:00
-- Location: The Week Magazine
-- Description: From comedies to thrillers, documentaries to animations, 2025 featured some unforgettable film moments
+### OTHER on 2026-01-04 12:13
+- Location: BBC News
+- Description: The PM tells Laura Kuenssberg he "should have been made aware" of Alaa Abd El Fattah's social media history.
 
 
-### OTHER on 2026-01-04 05:51
-- Location: Japan Today
-- Description: Myanmar’s military government granted amnesty to more than 6,100 prisoners and reduced other inmates’ sentences Sunday to mark the 78th anniversary of the country's independence from Britain. It was not immediately clear whether those released include the tho…
+### ROBBERY/THEFT on 2026-01-04 12:06
+- Location: PCMag.com
+- Description: Ilya Lichtenstein, who had pleaded guilty to attempting to launder 120,000 bitcoin stolen from the Bitfinex crypto exchange in 2016, was released after just 14 months of his original five-year sentence.
+Ilya Lichtenstein, perpetrator of one of the biggest hac…
 
 
-### OTHER on 2026-01-04 05:30
-- Location: Independent.ie
-- Description: Isiah Whitlock Jr, the actor best known for playing Maryland state senator Clay Davis in HBO’s crime series The Wire and for his frequent roles in Spike Lee’s films, has died. He was 71.
+### ROBBERY/THEFT on 2026-01-04 12:06
+- Location: PCMag.com
+- Description: Ilya Lichtenstein, who had pleaded guilty to attempting to launder 120,000 bitcoin stolen from the Bitfinex crypto exchange in 2016, was released after just 14 months of his original five-year sentence.
+Ilya Lichtenstein, perpetrator of one of the biggest hac…
 
-Analysis generated at: Mon Jan  5 06:31:19 UTC 2026
+Analysis generated at: Mon Jan  5 12:35:20 UTC 2026
