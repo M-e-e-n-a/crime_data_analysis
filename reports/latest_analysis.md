@@ -1,10 +1,10 @@
 
-Loaded 80450 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-05 06:16:19
+Loaded 80496 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-05 12:28:11
 
 Incidents by source:
 source
-newsapi           80349
+newsapi           80395
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-01-05 06:16
-- Location: Everything-everywhere.com
-- Description: Podcast Transcript Alphonse Gabriel Capone, aka Al Capone, aka Scarface, is one of the most notorious gangsters in American history.  Known for dominating Chicago’s underworld during Prohibition, he gained fame and notoriety throughout the United States. Capo…
+### ROBBERY/THEFT on 2026-01-05 12:28
+- Location: Haaretz
+- Description: Police say a year-long covert operation into the Abu Latif crime family relied on a state witnesswho infiltrated the network and helped amass evidence against senior figures. Authorities described the organization as one of the country's most violent, tied to…
 
 
-### OTHER on 2026-01-05 06:04
-- Location: Freerepublic.com
-- Description: The brilliantly executed US operation to snatch Venezuelan dictator Nicolás Maduro benefits American citizens in many different ways.It took out the head of a major international organized crime cartel. The cartel, which the US has labeled the “Cartel de los …
+### OTHER on 2026-01-05 12:26
+- Location: NPR
+- Description: The U.S. forces' capture of Venezuelan President Nicolás Maduro and his wife in Caracas has left many people with questions. Here's what we know so far, including who is running the country.
 
 
-### OTHER on 2026-01-05 06:00
-- Location: Smallwarsjournal.com
-- Description: Introduction Illegal, unreported, unregulated (IUU) fishing represents one of the leading global maritime security threats confronting policymakers today (author’s note: This paper will utilize “IUU” as synonymous with “IUU fishing”). Despite this challenge, …
+### OTHER on 2026-01-05 12:22
+- Location: International Business Times
+- Description: As Maduro is taken by US forces, social media compares his 'extraction' to Rodrigo Duterte's 2025 ICC arrest. Are these kidnappings or justice? We explore the viral debate.
 
 
-### ROBBERY/THEFT on 2026-01-05 06:00
-- Location: Naturalnews.com
-- Description: A South Korean crypto exchange operator was sentenced for trading Bitcoin for military secrets. He recruited an army captain to hack a critical U.S.-South Korea command system. The plot aimed to steal sensitive data for North Korean operatives. Stolen cryptoc…
+### HOMICIDE on 2026-01-05 12:21
+- Location: International Business Times
+- Description: Nikitha Godishala was found dead in her ex-boyfriend's Maryland apartment as he fled the US. Police are now pursuing an international manhunt.
 
 
-### OTHER on 2026-01-05 06:00
-- Location: The Irish Times
-- Description: I tell my gay and immigrant clients: we suffer more in imagination than reality. Words often can’t stop the inevitable
+### DRUG RELATED on 2026-01-05 12:20
+- Location: The Denver Post
+- Description: Maduro and his wife are expected to appear at noon before a judge in New York.
 
-Analysis generated at: Tue Jan  6 06:26:58 UTC 2026
+Analysis generated at: Tue Jan  6 12:33:34 UTC 2026
