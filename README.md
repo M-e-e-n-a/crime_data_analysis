@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Jan  6 12:33:34 UTC 2026
+Last updated: Tue Jan  6 12:55:28 UTC 2026
 
 ## Latest Analysis
 
-Loaded 80496 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-05 12:28:11
+Loaded 80497 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-05 12:47:32
 
 Incidents by source:
 source
-newsapi           80395
+newsapi           80396
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -23,6 +23,11 @@ bution.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### OTHER on 2026-01-05 12:47
+- Location: HuffPost
+- Description: Deposed Venezuelan will face tthe narco-terrorism charges the Trump administration used to justify capturing him and bringing him to New York.
+
 
 ### ROBBERY/THEFT on 2026-01-05 12:28
 - Location: Haaretz
@@ -43,9 +48,4 @@ bution.svg)
 - Location: International Business Times
 - Description: Nikitha Godishala was found dead in her ex-boyfriend's Maryland apartment as he fled the US. Police are now pursuing an international manhunt.
 
-
-### DRUG RELATED on 2026-01-05 12:20
-- Location: The Denver Post
-- Description: Maduro and his wife are expected to appear at noon before a judge in New York.
-
-Analysis generated at: Tue Jan  6 12:33:34 UTC 2026
+Analysis generated at: Tue Jan  6 12:55:28 UTC 2026
