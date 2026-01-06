@@ -1,10 +1,10 @@
 
-Loaded 80415 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-05 02:01:20
+Loaded 80450 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-05 06:16:19
 
 Incidents by source:
 source
-newsapi           80314
+newsapi           80349
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-01-05 02:01
-- Location: Rpnradio.com
-- Description: BACOLOD CITY — The Police Regional Office–Negros Island Region (PRO-NIR) reported a generally peaceful and orderly New Year celebration across the region, with no recorded stray bullet incidents and only one case of indiscriminate firing involving a retired M…
+### OTHER on 2026-01-05 06:16
+- Location: Everything-everywhere.com
+- Description: Podcast Transcript Alphonse Gabriel Capone, aka Al Capone, aka Scarface, is one of the most notorious gangsters in American history.  Known for dominating Chicago’s underworld during Prohibition, he gained fame and notoriety throughout the United States. Capo…
 
 
-### ROBBERY/THEFT on 2026-01-05 01:35
-- Location: Fiji Sun Online
-- Description: The youth allegedly made derogatory sexual comments, hugged her tightly and kissed her forehead without her consent.
+### OTHER on 2026-01-05 06:04
+- Location: Freerepublic.com
+- Description: The brilliantly executed US operation to snatch Venezuelan dictator Nicolás Maduro benefits American citizens in many different ways.It took out the head of a major international organized crime cartel. The cartel, which the US has labeled the “Cartel de los …
 
 
-### HOMICIDE on 2026-01-05 00:40
-- Location: The Denver Post
-- Description: The pedestrian, a 43-year-old man, was walking west across Peoria Street at East Colfax Avenue in Aurora when he was hit just before 11 p.m. Saturday, police said.
+### OTHER on 2026-01-05 06:00
+- Location: Smallwarsjournal.com
+- Description: Introduction Illegal, unreported, unregulated (IUU) fishing represents one of the leading global maritime security threats confronting policymakers today (author’s note: This paper will utilize “IUU” as synonymous with “IUU fishing”). Despite this challenge, …
 
 
-### ROBBERY/THEFT on 2026-01-05 00:39
-- Location: New York Post
-- Description: Surveillance footage released by police captured Kahl prowling around in what appeared to be glasses, a pair of blue slippers, and a beige tablecloth draped haphazardly around his waist.
+### ROBBERY/THEFT on 2026-01-05 06:00
+- Location: Naturalnews.com
+- Description: A South Korean crypto exchange operator was sentenced for trading Bitcoin for military secrets. He recruited an army captain to hack a critical U.S.-South Korea command system. The plot aimed to steal sensitive data for North Korean operatives. Stolen cryptoc…
 
 
-### HOMICIDE on 2026-01-05 00:26
-- Location: NBC Chicago
-- Description: Authorities in Ohio are searching for video evidence that may lead to the identification of whoever killed a dentist and his wife.
+### OTHER on 2026-01-05 06:00
+- Location: The Irish Times
+- Description: I tell my gay and immigrant clients: we suffer more in imagination than reality. Words often can’t stop the inevitable
 
-Analysis generated at: Tue Jan  6 02:04:11 UTC 2026
+Analysis generated at: Tue Jan  6 06:26:58 UTC 2026
