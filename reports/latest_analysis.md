@@ -1,10 +1,10 @@
 
-Loaded 80685 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-06 12:48:25
+Loaded 80769 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-06 18:24:48
 
 Incidents by source:
 source
-newsapi           80584
+newsapi           80668
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-01-06 12:48
-- Location: Newser
-- Description: Police in Columbus, Ohio, have released surveillance footage of a person they want to identify as they investigate the fatal shootings of a local dentist and his wife. The video, recorded between 2am and 5am on Dec. 30 in an alley beside the home of Dr. Spenc…
+### OTHER on 2026-01-06 18:24
+- Location: FOX 9
+- Description: The acting director of ICE says the "largest ever" ICE immigration enforcement operation is underway now in Minnesota.
 
 
-### OTHER on 2026-01-06 12:47
-- Location: The Indian Express
-- Description: Two others accused in the case were, however, granted bail, with the Gujarat High Court pointing out that they appeared to be unaware of the trafficking involved to carry out cyber crimes.
+### HOMICIDE on 2026-01-06 18:24
+- Location: Independent.ie
+- Description: A woman has been charged with the murder of her four-year-old daughter in a house fire.
 
 
-### HOMICIDE on 2026-01-06 12:47
-- Location: Boston Herald
-- Description: Officials say that while increased training, better medical resources and public awareness campaigns account for some of the decrease.
+### ROBBERY/THEFT on 2026-01-06 18:21
+- Location: CNN
+- Description: The trial for former school police officer Adrian Gonzales began Tuesday with emotional opening statements from the prosecution and defense about the Robb...
 
 
-### OTHER on 2026-01-06 12:45
-- Location: Whyevolutionistrue.com
-- Description: Welcome to The Cruelest Day, when, boundless and bare, the lonely and loony week stretches far ahead. Yes, it’s Tuesday, January 6, 2026, and National Cuddle Up Day. Here’s a kitten not only cuddling with a deer, but also making biscuits on the deer. Please d…
+### OTHER on 2026-01-06 18:19
+- Location: Globalresearch.ca
+- Description: The leaders in the US and UK cannot expect to retain a position of world leadership. 
+The post The US-UK War Machine: Partners in Looming Disaster appeared first on Global Research.
 
 
-### ROBBERY/THEFT on 2026-01-06 12:42
-- Location: International Business Times
-- Description: Princess Kate targeted by Grok AI deepfakes, sparking an urgent Ofcom probe into Elon Musk's X.
+### HOMICIDE on 2026-01-06 18:18
+- Location: The Hollywood Gossip
+- Description: Reading Time: 3 minutesNick Reiner will finally be arraigned for the murders of his parents.
+Nick Reiner Removed From Suicide Watch, Will Finally Be Arraigned For Parents’ … was originally published on The Hollywood Gossip.
 
-Analysis generated at: Wed Jan  7 12:56:27 UTC 2026
+Analysis generated at: Wed Jan  7 18:25:19 UTC 2026
