@@ -1,10 +1,10 @@
 
-Loaded 80587 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-06 01:57:00
+Loaded 80613 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-06 06:23:58
 
 Incidents by source:
 source
-newsapi           80486
+newsapi           80512
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-01-06 01:57
-- Location: CBS News
-- Description: Jury selection began Monday in the trial of a former police officer accused of not protecting children during the 2022 Uvalde school shooting in Texas. CBS News' Karen Hua reports.
+### OTHER on 2026-01-06 06:23
+- Location: The Times of India
+- Description: Ambala police have arrested a contractor, Sunil alias Sunny, for allegedly spying for Pakistan and sharing sensitive information about an Air Force station. He reportedly worked at the station since 2020 and was in contact with a woman who solicited informati…
 
 
-### HOMICIDE on 2026-01-06 01:50
-- Location: NBC News
-- Description: Authorities investigating the apparent shooting deaths of Spencer Tepe and wife Monique Tepe in Ohio released security video Monday of a person of interest in the case.
+### OTHER on 2026-01-06 06:13
+- Location: ABC News (AU)
+- Description: Police seize vapes and cigarettes from the South West WA store days after two different shops were destroyed.
 
 
-### OTHER on 2026-01-06 01:47
-- Location: Bleeding Cool News
-- Description: Welcome to the new year. It's time to see what some of the streamers have in store for us. All eyes are on Netflix this year, and they need to show everyone that their release model is still worth a damn, and also that the movies they release are decent. It w…
+### HOMICIDE on 2026-01-06 06:00
+- Location: The Irish Times
+- Description: Catholic Primate of Ireland  Eamon Martin asked Taoiseach to do all he could to support plea of murder victim’s family
 
 
-### ROBBERY/THEFT on 2026-01-06 01:43
-- Location: ABC News
-- Description: New Haven's police chief has abruptly retired following allegations he stole money from a department account
+### OTHER on 2026-01-06 06:00
+- Location: Naturalnews.com
+- Description: ANALYTICAL REPORT: GLOBAL RAMIFICATIONS OF US INVASION AND OCCUPATION OF VENEZUELA (2026) A detailed research report compiled by Mike Adams using the new “Expert Analysis” engine at BrightAnswers.ai Executive Summary The 2026 invasion and occupation of Venezu…
 
 
-### HOMICIDE on 2026-01-06 01:34
-- Location: WFTV Orlando
-- Description: A caregiver at an Ocoee group home for autistic residents faces attempted murder charges after allegedly shooting a co-worker during a domestic dispute. Journey Powell, 22, is accused of assaulting Ki’merse Akins, damaging her vehicle, and firing into it as s…
+### OTHER on 2026-01-06 06:00
+- Location: Naturalnews.com
+- Description: Former Israeli PM Yair Lapid and Diaspora Minister Amichai Chikli cited the U.S. capture of Venezuelan President Maduro as a warning to Iran, suggesting Tehran could face similar consequences if it continues defying Western demands. The U.S. special forces ra…
 
-Analysis generated at: Wed Jan  7 02:03:47 UTC 2026
+Analysis generated at: Wed Jan  7 06:26:47 UTC 2026
