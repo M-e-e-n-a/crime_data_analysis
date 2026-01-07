@@ -1,10 +1,10 @@
 
-Loaded 80613 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-06 06:23:58
+Loaded 80678 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-06 12:30:47
 
 Incidents by source:
 source
-newsapi           80512
+newsapi           80577
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-01-06 06:23
-- Location: The Times of India
-- Description: Ambala police have arrested a contractor, Sunil alias Sunny, for allegedly spying for Pakistan and sharing sensitive information about an Air Force station. He reportedly worked at the station since 2020 and was in contact with a woman who solicited informati…
+### SHOOTING on 2026-01-06 12:30
+- Location: WPXI Pittsburgh
+- Description: Charges have been filed after dozens of shots were fired at a teenager after he got off the school bus on Monday afternoon.
 
 
-### OTHER on 2026-01-06 06:13
-- Location: ABC News (AU)
-- Description: Police seize vapes and cigarettes from the South West WA store days after two different shops were destroyed.
+### SHOOTING on 2026-01-06 12:27
+- Location: CBC News
+- Description: A 36-year-old northern Quebec man is scheduled to appear in court today in connection with a Dec. 20 exchange of gunfire with Nunavik Police Service officers that turned tragic after a six-year-old girl died.
 
 
-### HOMICIDE on 2026-01-06 06:00
-- Location: The Irish Times
-- Description: Catholic Primate of Ireland  Eamon Martin asked Taoiseach to do all he could to support plea of murder victim’s family
+### OTHER on 2026-01-06 12:27
+- Location: ABC News
+- Description: After their grandmother passed away, a family surprised their 92-year-old grandfather – whom they call Papa – with a dinner featuring all of his grandkids at his home in the Bronx.
 
 
-### OTHER on 2026-01-06 06:00
-- Location: Naturalnews.com
-- Description: ANALYTICAL REPORT: GLOBAL RAMIFICATIONS OF US INVASION AND OCCUPATION OF VENEZUELA (2026) A detailed research report compiled by Mike Adams using the new “Expert Analysis” engine at BrightAnswers.ai Executive Summary The 2026 invasion and occupation of Venezu…
+### ROBBERY/THEFT on 2026-01-06 12:26
+- Location: Odditycentral.com
+- Description: A fortune-teller in Pattaya, Thailand, stole a woman's smartphone after previously "predicting" she would have bad luck and one of her possessions stolen.
+The post Fortune-Teller Steals Client’s Phone to Confirm His Own Bad Luck Prediction first appeared on O…
 
 
-### OTHER on 2026-01-06 06:00
-- Location: Naturalnews.com
-- Description: Former Israeli PM Yair Lapid and Diaspora Minister Amichai Chikli cited the U.S. capture of Venezuelan President Maduro as a warning to Iran, suggesting Tehran could face similar consequences if it continues defying Western demands. The U.S. special forces ra…
+### OTHER on 2026-01-06 12:26
+- Location: KATC Lafayette News
+- Description: In regards to the multi-vehicle crash at Johnston and E Broussard, Traffic Investigators have confirmed that three occupants in two vehicles have died.
 
-Analysis generated at: Wed Jan  7 06:26:47 UTC 2026
+Analysis generated at: Wed Jan  7 12:34:23 UTC 2026
