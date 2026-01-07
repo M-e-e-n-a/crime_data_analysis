@@ -1,10 +1,10 @@
 
-Loaded 80678 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-06 12:30:47
+Loaded 80685 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-06 12:48:25
 
 Incidents by source:
 source
-newsapi           80577
+newsapi           80584
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-01-06 12:30
-- Location: WPXI Pittsburgh
-- Description: Charges have been filed after dozens of shots were fired at a teenager after he got off the school bus on Monday afternoon.
+### HOMICIDE on 2026-01-06 12:48
+- Location: Newser
+- Description: Police in Columbus, Ohio, have released surveillance footage of a person they want to identify as they investigate the fatal shootings of a local dentist and his wife. The video, recorded between 2am and 5am on Dec. 30 in an alley beside the home of Dr. Spenc…
 
 
-### SHOOTING on 2026-01-06 12:27
-- Location: CBC News
-- Description: A 36-year-old northern Quebec man is scheduled to appear in court today in connection with a Dec. 20 exchange of gunfire with Nunavik Police Service officers that turned tragic after a six-year-old girl died.
+### OTHER on 2026-01-06 12:47
+- Location: The Indian Express
+- Description: Two others accused in the case were, however, granted bail, with the Gujarat High Court pointing out that they appeared to be unaware of the trafficking involved to carry out cyber crimes.
 
 
-### OTHER on 2026-01-06 12:27
-- Location: ABC News
-- Description: After their grandmother passed away, a family surprised their 92-year-old grandfather – whom they call Papa – with a dinner featuring all of his grandkids at his home in the Bronx.
+### HOMICIDE on 2026-01-06 12:47
+- Location: Boston Herald
+- Description: Officials say that while increased training, better medical resources and public awareness campaigns account for some of the decrease.
 
 
-### ROBBERY/THEFT on 2026-01-06 12:26
-- Location: Odditycentral.com
-- Description: A fortune-teller in Pattaya, Thailand, stole a woman's smartphone after previously "predicting" she would have bad luck and one of her possessions stolen.
-The post Fortune-Teller Steals Client’s Phone to Confirm His Own Bad Luck Prediction first appeared on O…
+### OTHER on 2026-01-06 12:45
+- Location: Whyevolutionistrue.com
+- Description: Welcome to The Cruelest Day, when, boundless and bare, the lonely and loony week stretches far ahead. Yes, it’s Tuesday, January 6, 2026, and National Cuddle Up Day. Here’s a kitten not only cuddling with a deer, but also making biscuits on the deer. Please d…
 
 
-### OTHER on 2026-01-06 12:26
-- Location: KATC Lafayette News
-- Description: In regards to the multi-vehicle crash at Johnston and E Broussard, Traffic Investigators have confirmed that three occupants in two vehicles have died.
+### ROBBERY/THEFT on 2026-01-06 12:42
+- Location: International Business Times
+- Description: Princess Kate targeted by Grok AI deepfakes, sparking an urgent Ofcom probe into Elon Musk's X.
 
-Analysis generated at: Wed Jan  7 12:34:23 UTC 2026
+Analysis generated at: Wed Jan  7 12:56:27 UTC 2026
