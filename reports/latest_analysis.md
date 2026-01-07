@@ -1,10 +1,10 @@
 
-Loaded 80566 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-05 18:16:45
+Loaded 80580 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-06 01:04:59
 
 Incidents by source:
 source
-newsapi           80465
+newsapi           80479
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-01-05 18:16
-- Location: El Paso Times
-- Description: A teen driver faces a felony charge after an El Paso freeway pursuit during a DWI enforcement operation.
-
-
-### OTHER on 2026-01-05 18:06
-- Location: Bleeding Cool News
-- Description: The start of the new year brings us one step closer to the return of AMC and showrunner John Wirth's Zahn McClarnon, Kiowa Gordon, Jessica Matten, and Deanna Allison-starring Dark Winds for its fourth season. Set to premiere on February 15th, the next chapter…
-
-
-### DRUG RELATED on 2026-01-05 17:53
-- Location: WSB Atlanta
-- Description: Deposed Venezuelan leader Nicolas Maduro declared himself “innocent” and a “decent man” as he pleaded not guilty to federal drug trafficking charges in a U.S. courtroom on Monday.
-
-
-### ASSAULT on 2026-01-05 17:53
-- Location: Breitbart News
-- Description: Zoe Welsh, a teacher at Raleigh, North Carolina's Ravenscroft School, was attacked and fatally beaten while on the phone with 911 Saturday morning in her home.
-The post North Carolina Teacher Fatally Beaten by Alleged Intruder While on 911 Call appeared first…
-
-
-### OTHER on 2026-01-05 17:52
+### ROBBERY/THEFT on 2026-01-06 01:04
 - Location: Yahoo Entertainment
-- Description: Police have identified the victim of the Dec. 28 incident as 34-year-old Luke Daniel Kellett-Smith. A 30-year-old man from Richmond Hill was originally...
+- Description: New Haven’s police chief abruptly retired following allegations he stole money from a department account, Mayor Justin Elicker announced Monday.  The...
 
-Analysis generated at: Tue Jan  6 18:23:49 UTC 2026
+
+### HOMICIDE on 2026-01-06 01:03
+- Location: The Indian Express
+- Description: He also filed a police complaint against former BJP MLA Suresh Rathore and his wife Urmila Sanawar
+
+
+### HOMICIDE on 2026-01-06 01:00
+- Location: Fox News
+- Description: Seattle Police Officers Guild President Mike Solan said on Sunday that the city's LEAD program represents "suicidal empathy" and will increase death and decay on streets.
+
+
+### SHOOTING on 2026-01-06 00:53
+- Location: CBC News
+- Description: An 81-year-old Cornwall man died by suicide after shooting his 80-year-old former partner and her 83-year-old male friend on Saturday, according to police. The woman is still in hospital with serious injuries.
+
+
+### OTHER on 2026-01-06 00:46
+- Location: ABC News
+- Description: A paramedic helped the women move to a safer location on the rocks, and then onto the chopper.
+
+Analysis generated at: Wed Jan  7 01:15:25 UTC 2026
