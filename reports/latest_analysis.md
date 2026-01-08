@@ -1,10 +1,10 @@
 
-Loaded 80822 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-07 06:21:35
+Loaded 80888 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-07 12:31:26
 
 Incidents by source:
 source
-newsapi           80721
+newsapi           80787
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-01-07 06:21
-- Location: The Indian Express
-- Description: According to FIR, persons posing as representatives of IIFL Wealth Management approached the victim, a resident of Binnypet, in November under the promise of facilitating “pre-IPO allotments in sizable quantities.”
+### HOMICIDE on 2026-01-07 12:31
+- Location: Antaranews.com
+- Description: Indonesia&rsquo;s National Police counterterrorism unit, Densus 88, has reported a possible connection between a deadly school stabbing in Moscow and a recent ...
 
 
-### HOMICIDE on 2026-01-07 06:21
-- Location: Associated Press
-- Description: A judge has delayed Nick Reiner’s arraignment in the killing of his parents, Rob Reiner and Michele Singer Reiner, after his high-profile attorney asked to be replaced by a public defender. Judge Theresa McGonigle agreed to attorney Alan Jackson’s request on …
+### OTHER on 2026-01-07 12:31
+- Location: The Atlantic
+- Description: The Trump administration attempts to silence veterans.
 
 
-### OTHER on 2026-01-07 06:18
-- Location: The Times of India
-- Description: Sabrina Ionescu boasts a net worth of $6.3 million. This exceeds Sophie Cunningham's $2 million. Ionescu's wealth stems from significant off-court deals and her signature Nike shoe. Cunningham, though less wealthy, is gaining popularity. Both players have ear…
+### OTHER on 2026-01-07 12:30
+- Location: Mother Jones
+- Description: It’s the judge who first tips off Daniela that something is wrong. “I am pretty certain that you won’t be coming back to my court,” he tells her and another asylum seeker from Colombia—let’s call her Isabella. (All of the immigrants in this story are identifi…
 
 
-### OTHER on 2026-01-07 06:00
-- Location: Newser
-- Description: The Department of Homeland Security said Tuesday that it launched what it described as the largest immigration enforcement operation ever carried out by the agency—with 2,000 federal agents and officers expected in the Minneapolis area for a crackdown tied in…
+### OTHER on 2026-01-07 12:26
+- Location: WMUR Manchester
+- Description: President Trump says Venezuela will be providing 30 million to 50 million barrels of oil to the U.S., and he pledges to use proceeds from the sale of this oil “to benefit the people” of both countries.
 
 
-### HOMICIDE on 2026-01-07 05:55
-- Location: ABC News (AU)
-- Description: A 37-year-old woman has been charged with attempted murder after allegedly stabbing a man with a steak knife.
+### OTHER on 2026-01-07 12:25
+- Location: IGN
+- Description: Southern California police are investigating a wave of similar burglaries involving trading card businesses in a bid to establish whether they are linked.
 
-Analysis generated at: Thu Jan  8 06:26:55 UTC 2026
+Analysis generated at: Thu Jan  8 12:34:34 UTC 2026
