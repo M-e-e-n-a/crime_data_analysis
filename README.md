@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Jan  9 12:55:32 UTC 2026
+Last updated: Fri Jan  9 18:25:01 UTC 2026
 
 ## Latest Analysis
 
-Loaded 81191 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-08 12:52:33
+Loaded 81288 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-08 18:21:50
 
 Incidents by source:
 source
-newsapi           81090
+newsapi           81187
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-01-08 12:52
-- Location: TODAY
-- Description: It’s been more than a week since an Ohio dentist and his wife were fatally shot in their Columbus home, and police have released few details as the search for the suspect continues
+### SHOOTING on 2026-01-08 18:21
+- Location: The Federalist
+- Description: 'It stands to reason that, if police officers are justified in firing at a suspect in order to end a severe threat to public safety, the officers need not stop shooting until the threat has ended,' wrote Justice Alito.
 
 
-### HOMICIDE on 2026-01-08 12:52
-- Location: New York Post
-- Description: A neighbor of the slain Ohio dentist and his wife called 911 to report a stranger banging on her door -- just days before the couple were found dead.
+### HOMICIDE on 2026-01-08 18:21
+- Location: Babylonbee.com
+- Description: MINNEAPOLIS, MN — Democrats took to social media following the deadly ICE shooting in Minneapolis to demand to know why the agents can't just shoot cars in the legs to de-escalate situations.
 
 
-### HOMICIDE on 2026-01-08 12:52
-- Location: CBS News
-- Description: A woman on a bus in Houston was shot in the head by mistake and killed and another passenger says he was wounded, authorities said. A manhunt is underway for the gunman.
+### HOMICIDE on 2026-01-08 18:20
+- Location: Freerepublic.com
+- Description: Many AT readers will be aware that my judgment can be harsh regarding police-involved homicides and shootings. The reasons for that are simple: cops represent authority, and do so while bearing firearms. That being the case, the power dynamic is always tilted…
 
 
-### OTHER on 2026-01-08 12:49
-- Location: International Business Times
-- Description: Nala Ray says working with YouTuber Vitaly Zdorovetskiy was her biggest regret, as a 2025 Whatever Podcast clip resurfaces amid renewed scrutiny online
+### HOMICIDE on 2026-01-08 18:17
+- Location: Slate Magazine
+- Description: Renée Nicole Good’s death after being shot by an immigration officer was preceded by a wave of misinformation peddled by right-wing influencers.
 
 
-### HOMICIDE on 2026-01-08 12:45
-- Location: Fox News
-- Description: DHS labels Minneapolis ICE shooting "domestic terrorism" after woman allegedly tried to "weaponize her vehicle" against agent.
+### HOMICIDE on 2026-01-08 18:17
+- Location: Freerepublic.com
+- Description: n the wake of an ICE shooting that killed a woman in Minneapolis on Wednesday, academics have joined the chorus of left-wing radicals seeking to abolish the federal law enforcement agency. "Abolishing ICE is the moderate position," said Victor Ray, an associa…
 
-Analysis generated at: Fri Jan  9 12:55:32 UTC 2026
+Analysis generated at: Fri Jan  9 18:25:01 UTC 2026
