@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Jan  9 01:15:53 UTC 2026
+Last updated: Fri Jan  9 02:05:29 UTC 2026
 
 ## Latest Analysis
 
-Loaded 81024 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-08 01:14:26
+Loaded 81036 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-08 01:55:40
 
 Incidents by source:
 source
-newsapi           80923
+newsapi           80935
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-01-08 01:14
-- Location: BBC News
-- Description: A woman in a car was shot and killed by a US immigration officer on a residential street in Minnesota.
+### OTHER on 2026-01-08 01:55
+- Location: Daily Signal
+- Description: Americans tend to forget that the Civil War didn’t start overnight. The Confederate South’s desire to nullify federal law sparked multiple crises before Abraham Lincoln’s... Read More
+The post Minnesota Democrats’ Dangerous Neo-Confederate Rhetoric appeared f…
 
 
-### OTHER on 2026-01-08 01:12
-- Location: Thechronicle.com.gh
-- Description: Residents of the SNNIT residential enclave in Koforidua, within the New Juaben South Municipality of the Eastern Region, are living in fear and distress following a disturbing series of car-related crimes that have rocked the community in recent weeks. Accord…
+### SHOOTING on 2026-01-08 01:45
+- Location: WPXI Pittsburgh
+- Description: Police are investigating a shooting in Pittsburgh that they believe is connected to an armed kidnapping that happened in Plum.
 
 
-### OTHER on 2026-01-08 01:11
-- Location: Fox News
-- Description: Congress should impeach two federal judges for misconduct despite the rarity of such action, Senator Ted Cruz argued Wednesday, citing gag orders and a lenient sentencing decision.
+### OTHER on 2026-01-08 01:41
+- Location: CBS News
+- Description: Border czar Tom Homan said he hasn't seen ICE act in a way that's outside of policy, despite videos showing protesters being tackled and tear-gassed.
 
 
-### OTHER on 2026-01-08 01:09
-- Location: Breitbart News
-- Description: More than 1,000 fire victims gathered in front of ruins of the historic Pacific Palisades Business Block Building on Wednesday and listened to speakers accuse Gov. Gavin Newsom (D) and Los Angeles Mayor Karen Bass (D) of “negligence” before, during, and after…
+### OTHER on 2026-01-08 01:37
+- Location: Bleeding Cool News
+- Description: Tonight, New York Times bestselling author Harlan Coben applies his signature storytelling style to real-life cases with the first episode of CBS's Harlan Coben's Final Twist. Premiering at 10:00 PM ET/PT, "Billy & Billie Jean" sees the police investigating t…
 
 
-### OTHER on 2026-01-08 01:07
-- Location: ABC News
-- Description: Surveillance video captured the moment a dog named Dawson slipped out of his locked kennel at a West Virginia animal shelter, before using his teeth to unlock the front door and run away.
+### SHOOTING on 2026-01-08 01:35
+- Location: KARE11.com
+- Description: The Department of Homeland Security said the woman attempted to ram her car into ICE agents before an agent shot her, but multiple leaders dispute the claim.
 
-Analysis generated at: Fri Jan  9 01:15:53 UTC 2026
+Analysis generated at: Fri Jan  9 02:05:29 UTC 2026
