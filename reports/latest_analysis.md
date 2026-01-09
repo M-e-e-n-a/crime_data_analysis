@@ -1,10 +1,10 @@
 
-Loaded 80983 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-07 18:20:00
+Loaded 81024 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-08 01:14:26
 
 Incidents by source:
 source
-newsapi           80882
+newsapi           80923
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2026-01-07 18:20
-- Location: The Times of India
-- Description: In a shocking revelation, a jewellery store worker from Samastipur has claimed he endured severe brutality at the hands of police officers, including an alleged petrol injection, lasting five harrowing days linked to a theft investigation. The distressing all…
+### HOMICIDE on 2026-01-08 01:14
+- Location: BBC News
+- Description: A woman in a car was shot and killed by a US immigration officer on a residential street in Minnesota.
 
 
-### OTHER on 2026-01-07 18:20
-- Location: Sky.com
-- Description: Serial rapists David Carrick and Cliff Mitchell were among more than 130 Metropolitan Police officers and staff wrongly hired or allowed to keep working as vetting was relaxed in a recruitment drive, a review has found.
+### OTHER on 2026-01-08 01:12
+- Location: Thechronicle.com.gh
+- Description: Residents of the SNNIT residential enclave in Koforidua, within the New Juaben South Municipality of the Eastern Region, are living in fear and distress following a disturbing series of car-related crimes that have rocked the community in recent weeks. Accord…
 
 
-### HOMICIDE on 2026-01-07 18:19
-- Location: CBC News
-- Description: Nunavimmiut are reeling from a double tragedy in Puvirnituq, Que., Jan. 5. Police are investigating the deaths as a murder and suicide.
+### OTHER on 2026-01-08 01:11
+- Location: Fox News
+- Description: Congress should impeach two federal judges for misconduct despite the rarity of such action, Senator Ted Cruz argued Wednesday, citing gag orders and a lenient sentencing decision.
 
 
-### HOMICIDE on 2026-01-07 18:17
-- Location: The Times of India
-- Description: Tragedy struck Darbhanga as the lifeless body of Pawan Prasad, a local PHED worker and e-rickshaw driver, was found on a roadside, marked by multiple knife wounds. The police have launched an investigation into his murder, further complicated by the emergence…
+### OTHER on 2026-01-08 01:09
+- Location: Breitbart News
+- Description: More than 1,000 fire victims gathered in front of ruins of the historic Pacific Palisades Business Block Building on Wednesday and listened to speakers accuse Gov. Gavin Newsom (D) and Los Angeles Mayor Karen Bass (D) of “negligence” before, during, and after…
 
 
-### HOMICIDE on 2026-01-07 18:13
-- Location: Us Weekly
-- Description: Nick Reiner did not enter a plea after being charged for the murders of his parents, Rob and Michele Reiner. Nick, 32, appeared in court for his arraignment on Wednesday, January 7, but it has been put on pause. During the hearing, Alan Jackson — who previous…
+### OTHER on 2026-01-08 01:07
+- Location: ABC News
+- Description: Surveillance video captured the moment a dog named Dawson slipped out of his locked kennel at a West Virginia animal shelter, before using his teeth to unlock the front door and run away.
 
-Analysis generated at: Thu Jan  8 18:21:56 UTC 2026
+Analysis generated at: Fri Jan  9 01:15:53 UTC 2026
