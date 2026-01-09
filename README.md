@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Jan  9 02:05:29 UTC 2026
+Last updated: Fri Jan  9 06:26:38 UTC 2026
 
 ## Latest Analysis
 
-Loaded 81036 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-08 01:55:40
+Loaded 81094 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-08 06:22:52
 
 Incidents by source:
 source
-newsapi           80935
+newsapi           80993
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,48 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-01-08 01:55
-- Location: Daily Signal
-- Description: Americans tend to forget that the Civil War didn’t start overnight. The Confederate South’s desire to nullify federal law sparked multiple crises before Abraham Lincoln’s... Read More
-The post Minnesota Democrats’ Dangerous Neo-Confederate Rhetoric appeared f…
+### HOMICIDE on 2026-01-08 06:22
+- Location: Freerepublic.com
+- Description: A blood-covered woman who identified herself as the wife of Renee Nicole Good hysterically blamed herself for her partner’s killing at the hands of ICE agents, gut-wrenching footage shows. The woman was filmed distraught and sobbing just steps from Good’s wre…
 
 
-### SHOOTING on 2026-01-08 01:45
-- Location: WPXI Pittsburgh
-- Description: Police are investigating a shooting in Pittsburgh that they believe is connected to an armed kidnapping that happened in Plum.
+### HOMICIDE on 2026-01-08 06:17
+- Location: New York Post
+- Description: “[E]ven if the woman was mainly trying to get away (which is what it looks like to me), she was engaged in an actionable assault on a federal officer, a felony under Section 111 of the federal penal code,” McCarthy wrote in a piece for National Review.
 
 
-### OTHER on 2026-01-08 01:41
-- Location: CBS News
-- Description: Border czar Tom Homan said he hasn't seen ICE act in a way that's outside of policy, despite videos showing protesters being tackled and tear-gassed.
+### ASSAULT on 2026-01-08 06:10
+- Location: The Verge
+- Description: President Donald Trump has no shame in admitting what he wants to get out of attacking Venezuela and threatening other energy resource-rich nations. "We're gonna get the oil flowing the way it should be," he said January 3rd, soon after his administration stu…
 
 
-### OTHER on 2026-01-08 01:37
-- Location: Bleeding Cool News
-- Description: Tonight, New York Times bestselling author Harlan Coben applies his signature storytelling style to real-life cases with the first episode of CBS's Harlan Coben's Final Twist. Premiering at 10:00 PM ET/PT, "Billy & Billie Jean" sees the police investigating t…
+### OTHER on 2026-01-08 06:08
+- Location: Human Rights Watch
+- Description: Click to expand Image
+ 
 
 
-### SHOOTING on 2026-01-08 01:35
-- Location: KARE11.com
-- Description: The Department of Homeland Security said the woman attempted to ram her car into ICE agents before an agent shot her, but multiple leaders dispute the claim.
 
-Analysis generated at: Fri Jan  9 02:05:29 UTC 2026
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Rohingya walk through rice fields after fleeing across the border from Myanmar to Bangladesh near Teknaf, September 1, 2017.
+ © 2017 AP Photo/Bernat Armangue
+ 
+ 
+
+
+ 
+(The Hague) – International Court of Justice (ICJ)…
+
+
+### OTHER on 2026-01-08 06:01
+- Location: Thefutoncritic.com
+- Description: The event will air live from Dolby Theatre in Los Angeles, Thursday, March 26 (8:00-10:00 p.m. ET live / PT tape-delayed) on FOX.
+
+Analysis generated at: Fri Jan  9 06:26:38 UTC 2026
