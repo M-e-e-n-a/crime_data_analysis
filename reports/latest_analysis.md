@@ -1,10 +1,10 @@
 
-Loaded 81184 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-08 12:32:59
+Loaded 81191 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-08 12:52:33
 
 Incidents by source:
 source
-newsapi           81083
+newsapi           81090
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,30 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-01-08 12:32
-- Location: ABC News
-- Description: Bryan Reisberg is on a mission to help shelter dogs get adopted by using his special backpack.
+### SHOOTING on 2026-01-08 12:52
+- Location: TODAY
+- Description: It’s been more than a week since an Ohio dentist and his wife were fatally shot in their Columbus home, and police have released few details as the search for the suspect continues
 
 
-### OTHER on 2026-01-08 12:30
-- Location: Brickset.com
-- Description: I had a chance to see the LEGO SMART Play sets in London earlier this week and there is much to say about them, as you can imagine.
-
-I am going to begin by covering the facts of what the SMART Brick can actually do and its essential features like battery life…
+### HOMICIDE on 2026-01-08 12:52
+- Location: New York Post
+- Description: A neighbor of the slain Ohio dentist and his wife called 911 to report a stranger banging on her door -- just days before the couple were found dead.
 
 
-### HOMICIDE on 2026-01-08 12:28
-- Location: Al Jazeera English
-- Description: Trump administration officials allege the shooting victim was interfering with an ICE agent's work.
+### HOMICIDE on 2026-01-08 12:52
+- Location: CBS News
+- Description: A woman on a bus in Houston was shot in the head by mistake and killed and another passenger says he was wounded, authorities said. A manhunt is underway for the gunman.
 
 
-### HOMICIDE on 2026-01-08 12:25
-- Location: WPXI Pittsburgh
-- Description: The shooting occurred while mourners were attending a memorial service. All of the victims were adults.
+### OTHER on 2026-01-08 12:49
+- Location: International Business Times
+- Description: Nala Ray says working with YouTuber Vitaly Zdorovetskiy was her biggest regret, as a 2025 Whatever Podcast clip resurfaces amid renewed scrutiny online
 
 
-### HOMICIDE on 2026-01-08 12:25
-- Location: WTVD-TV
-- Description: Ryan Camacho's extensive criminal history raises questions after the murder of Ravenscroft teacher Zoe Welsh.
+### HOMICIDE on 2026-01-08 12:45
+- Location: Fox News
+- Description: DHS labels Minneapolis ICE shooting "domestic terrorism" after woman allegedly tried to "weaponize her vehicle" against agent.
 
-Analysis generated at: Fri Jan  9 12:33:53 UTC 2026
+Analysis generated at: Fri Jan  9 12:55:32 UTC 2026
