@@ -1,10 +1,10 @@
 
-Loaded 81513 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-09 12:48:48
+Loaded 81602 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-09 18:17:09
 
 Incidents by source:
 source
-newsapi           81412
+newsapi           81501
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-01-09 12:48
-- Location: Freerepublic.com
-- Description: D’IBERVILLE, Miss. (WXXV)- One man is dead and another man is behind bars after attempting to rob another person in D’Iberville on Monday night. The Harrison County coroner has identified the deceased as 25-year-old Tristan Young of Hattiesburg. Twenty-five-y…
+### OTHER on 2026-01-09 18:17
+- Location: The Times of India
+- Description: A sub-inspector from Bedo police station, Shyam Nandan Paswan, was apprehended by the ACB in Ranchi for demanding a Rs 50,000 bribe. He was caught red-handed accepting Rs 10,000 from a truck owner to facilitate a mechanical check report for a 14-wheeler truck…
 
 
-### HOMICIDE on 2026-01-09 12:48
-- Location: Freerepublic.com
-- Description: D’IBERVILLE, Miss. (WXXV)- One man is dead and another man is behind bars after attempting to rob another person in D’Iberville on Monday night. The Harrison County coroner has identified the deceased as 25-year-old Tristan Young of Hattiesburg. Twenty-five-y…
+### SHOOTING on 2026-01-09 18:17
+- Location: Breitbart News
+- Description: Footage taken by the ICE agent forced to shoot a Minneapolis left-wing activist in self-defense proves that Renee Good aimed her two-ton SUV at him and hit the gas.
+The post Nolte: ICE Agent’s Footage Proves ‘Poet’ Tried to Run Him Over appeared first on Brei…
 
 
-### OTHER on 2026-01-09 12:45
-- Location: Whyevolutionistrue.com
-- Description: Welcome to the tail end of the week, as it’s Friday, January 9, 2026, and the wind is blowing like a banshee in Chicago. It’s blowing so hard, in fact, that it’s sometimes hard to walk against it. Welcome to the Windy City which is, I’m told a misnomer, as I’…
+### OTHER on 2026-01-09 18:14
+- Location: ABC News
+- Description: A video of Romano Duncan speaking in his thick Boston accent is getting a lot of positive attention on social media.
 
 
-### SHOOTING on 2026-01-09 12:45
-- Location: Crooksandliars.com
-- Description: Federal agents shot and injured two people in Portland, Oregon yesterday afternoon, city officials said. Via the Washington Post:
-Department of Homeland Security spokeswoman Tricia McLaughlin said the shooting involved Border Patrol agents who were conducting…
+### OTHER on 2026-01-09 18:13
+- Location: BBC News
+- Description: Nigel Dewale made derogatory comments about the Lioness star's skin colour.
 
 
-### SHOOTING on 2026-01-09 12:40
-- Location: The Denver Post
-- Description: A new shooting by federal agents in Portland, Oregon, is eliciting more scrutiny of enforcement operations throughout the U.S.
+### HOMICIDE on 2026-01-09 18:10
+- Location: BBC News
+- Description: Leon Bangura is convicted of stabbing 19-year-old Kalvin Taylor with a Rambo-style knife in Norwich.
 
-Analysis generated at: Sat Jan 10 12:50:25 UTC 2026
+Analysis generated at: Sat Jan 10 18:22:22 UTC 2026
