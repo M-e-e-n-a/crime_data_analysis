@@ -1,10 +1,10 @@
 
-Loaded 81504 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-09 12:27:09
+Loaded 81513 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-09 12:48:48
 
 Incidents by source:
 source
-newsapi           81403
+newsapi           81412
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,30 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-01-09 12:27
-- Location: HuffPost
-- Description: "Given the enormity of what we are looking at and the sheer, utter lack of reasonable explanation, it’s difficult to say right now, at this juncture, exactly what took place."
+### HOMICIDE on 2026-01-09 12:48
+- Location: Freerepublic.com
+- Description: D’IBERVILLE, Miss. (WXXV)- One man is dead and another man is behind bars after attempting to rob another person in D’Iberville on Monday night. The Harrison County coroner has identified the deceased as 25-year-old Tristan Young of Hattiesburg. Twenty-five-y…
 
 
-### ROBBERY/THEFT on 2026-01-09 12:23
-- Location: BusinessLine
-- Description: The ED files a money laundering case in the Sabarimala gold loss scandal. SIT probe continues as arrests made over temple gold theft and misconduct.
+### HOMICIDE on 2026-01-09 12:48
+- Location: Freerepublic.com
+- Description: D’IBERVILLE, Miss. (WXXV)- One man is dead and another man is behind bars after attempting to rob another person in D’Iberville on Monday night. The Harrison County coroner has identified the deceased as 25-year-old Tristan Young of Hattiesburg. Twenty-five-y…
 
 
-### SHOOTING on 2026-01-09 12:19
-- Location: NBC News
-- Description: Two people are wounded in a shooting involving a Border Patrol agent in Portland, just one day after the fatal incident in Minneapolis.
+### OTHER on 2026-01-09 12:45
+- Location: Whyevolutionistrue.com
+- Description: Welcome to the tail end of the week, as it’s Friday, January 9, 2026, and the wind is blowing like a banshee in Chicago. It’s blowing so hard, in fact, that it’s sometimes hard to walk against it. Welcome to the Windy City which is, I’m told a misnomer, as I’…
 
 
-### SHOOTING on 2026-01-09 12:12
-- Location: NPR
-- Description: Many Americans say the U.S. is not a moral leader but want it to be, according to an NPR/Ipsos poll. And, the FBI is taking over the investigation into the fatal Minnesota ICE shooting.
+### SHOOTING on 2026-01-09 12:45
+- Location: Crooksandliars.com
+- Description: Federal agents shot and injured two people in Portland, Oregon yesterday afternoon, city officials said. Via the Washington Post:
+Department of Homeland Security spokeswoman Tricia McLaughlin said the shooting involved Border Patrol agents who were conducting…
 
 
-### OTHER on 2026-01-09 12:11
-- Location: The Punch
-- Description: The Oyo State Police Command has arrested a 49-year-old man, Peter Adubi, for the alleged defilement of a 13-year-old girl in Ibadan.
+### SHOOTING on 2026-01-09 12:40
+- Location: The Denver Post
+- Description: A new shooting by federal agents in Portland, Oregon, is eliciting more scrutiny of enforcement operations throughout the U.S.
 
-Read More: https://punchng.com/police-arrest-49-year-old-man-for-defiling-minor-in-oyo/
-
-Analysis generated at: Sat Jan 10 12:29:37 UTC 2026
+Analysis generated at: Sat Jan 10 12:50:25 UTC 2026
