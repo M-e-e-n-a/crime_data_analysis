@@ -1,10 +1,10 @@
 
-Loaded 81424 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-09 06:22:24
+Loaded 81504 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-09 12:27:09
 
 Incidents by source:
 source
-newsapi           81323
+newsapi           81403
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-01-09 06:22
-- Location: Independent.ie
-- Description: Tensions over US president Donald Trump's immigration crackdown rose across the United States on Thursday after the second shooting involving immigration officers in two days, deepening rifts between state and federal officials over how and why the shootings …
+### OTHER on 2026-01-09 12:27
+- Location: HuffPost
+- Description: "Given the enormity of what we are looking at and the sheer, utter lack of reasonable explanation, it’s difficult to say right now, at this juncture, exactly what took place."
 
 
-### HOMICIDE on 2026-01-09 06:09
-- Location: The Star Online
-- Description: NAIROBI, Jan 9 - Around 8:30 p.m. on October 31, a group of policemen appeared in the Mjimwema ‌neighbourhood of the Tanzanian city of Mwanza, where residents were running errands and drinking coffee. Without warning, they opened fire in different directions,…
+### ROBBERY/THEFT on 2026-01-09 12:23
+- Location: BusinessLine
+- Description: The ED files a money laundering case in the Sabarimala gold loss scandal. SIT probe continues as arrests made over temple gold theft and misconduct.
 
 
-### HOMICIDE on 2026-01-09 06:04
-- Location: Yahoo Entertainment
-- Description: By Aaron Ross and Vincent Mumo Nzilani NAIROBI, Jan 9 - Around 8:30 p.m. on October 31, a group of policemen appeared in the Mjimwema neighbourhood of the...
+### SHOOTING on 2026-01-09 12:19
+- Location: NBC News
+- Description: Two people are wounded in a shooting involving a Border Patrol agent in Portland, just one day after the fatal incident in Minneapolis.
 
 
-### OTHER on 2026-01-09 06:02
-- Location: BBC News
-- Description: Gustavo Petro tells the BBC's Ione Wells that the United States is treating other nations as part of a US "empire", after Trump threatened Colombia with military action.
+### SHOOTING on 2026-01-09 12:12
+- Location: NPR
+- Description: Many Americans say the U.S. is not a moral leader but want it to be, according to an NPR/Ipsos poll. And, the FBI is taking over the investigation into the fatal Minnesota ICE shooting.
 
 
-### OTHER on 2026-01-09 06:00
-- Location: The Irish Times
-- Description: Trump’s erogenous zone is in his pocket. Let’s hit him where it hurts
+### OTHER on 2026-01-09 12:11
+- Location: The Punch
+- Description: The Oyo State Police Command has arrested a 49-year-old man, Peter Adubi, for the alleged defilement of a 13-year-old girl in Ibadan.
 
-Analysis generated at: Sat Jan 10 06:23:50 UTC 2026
+Read More: https://punchng.com/police-arrest-49-year-old-man-for-defiling-minor-in-oyo/
+
+Analysis generated at: Sat Jan 10 12:29:37 UTC 2026
