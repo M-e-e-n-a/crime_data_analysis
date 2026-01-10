@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Jan 10 01:13:40 UTC 2026
+Last updated: Sat Jan 10 02:01:13 UTC 2026
 
 ## Latest Analysis
 
-Loaded 81343 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-09 01:12:34
+Loaded 81370 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-09 01:57:08
 
 Incidents by source:
 source
-newsapi           81242
+newsapi           81269
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-01-09 01:12
-- Location: The Times of India
-- Description: A diary detailing family activities, including references to chemicals and the concept of the next life, was recovered by police investigating a triple murder in Laxmi Nagar. The accused son, Yashbir Singh, was reportedly under financial stress, though his fa…
+### SHOOTING on 2026-01-09 01:57
+- Location: The Daily Caller
+- Description: Federal agents shot two people in Portland on Thursday afternoon, prompting an FBI investigation
 
 
-### OTHER on 2026-01-09 01:08
-- Location: New York Post
-- Description: "When we make an arrest, we want there to be nothing that would make that case unprosecutable."
+### OTHER on 2026-01-09 01:53
+- Location: 7NEWS.com.au
+- Description: Anthony Albanese grilled on Sunrise over claim royal commission called in ‘record time’7news.com.au
 
 
-### OTHER on 2026-01-09 01:07
-- Location: Bleeding Cool News
-- Description: When it comes to the new year, NBC is hitting the ground running in 2026, with a massive "Law & Order" universe crossover currently underway as you're reading this. As we learned by the time the credits rolled on Law & Order, there's a whole lot more going on…
+### OTHER on 2026-01-09 01:53
+- Location: ABC News
+- Description: In an unprecedented move, NASA will bring four astronauts – including two Americans – home early from their mission at the International Space Station because of a medical issue with a crew member.
 
 
-### SHOOTING on 2026-01-09 01:06
-- Location: Balloon-juice.com
-- Description: I have nothing, not one fucking positive thing to say tonight and am still in a seething rage. Trump’s brownshirts shot two more people tonight in Portland: Federal immigration officers shot and wounded two people outside a hospital in Portland, Oregon, on Th…
+### SHOOTING on 2026-01-09 01:53
+- Location: Westernjournal.com
+- Description: "Fearing for his life and safety, an agent fired defensive shots. The driver drove off with the passenger, fleeing the scene."
 
 
-### SHOOTING on 2026-01-09 01:03
-- Location: Legalinsurrection.com
-- Description: "The passenger of the vehicle and target is a Venezuelan illegal alien affiliated with the transnational Tren de Aragua prostitution ring and involved in a recent shooting in Portland. The vehicle driver is believed to be a member of the vicious Venezuelan ga…
+### SHOOTING on 2026-01-09 01:51
+- Location: WPXI Pittsburgh
+- Description: Federal immigration officers shot and wounded two people in a vehicle outside a hospital in Portland, Oregon.
 
-Analysis generated at: Sat Jan 10 01:13:40 UTC 2026
+Analysis generated at: Sat Jan 10 02:01:13 UTC 2026
