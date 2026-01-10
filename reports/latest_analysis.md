@@ -1,10 +1,10 @@
 
-Loaded 81288 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-08 18:21:50
+Loaded 81343 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-09 01:12:34
 
 Incidents by source:
 source
-newsapi           81187
+newsapi           81242
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-01-08 18:21
-- Location: The Federalist
-- Description: 'It stands to reason that, if police officers are justified in firing at a suspect in order to end a severe threat to public safety, the officers need not stop shooting until the threat has ended,' wrote Justice Alito.
+### HOMICIDE on 2026-01-09 01:12
+- Location: The Times of India
+- Description: A diary detailing family activities, including references to chemicals and the concept of the next life, was recovered by police investigating a triple murder in Laxmi Nagar. The accused son, Yashbir Singh, was reportedly under financial stress, though his fa…
 
 
-### HOMICIDE on 2026-01-08 18:21
-- Location: Babylonbee.com
-- Description: MINNEAPOLIS, MN — Democrats took to social media following the deadly ICE shooting in Minneapolis to demand to know why the agents can't just shoot cars in the legs to de-escalate situations.
+### OTHER on 2026-01-09 01:08
+- Location: New York Post
+- Description: "When we make an arrest, we want there to be nothing that would make that case unprosecutable."
 
 
-### HOMICIDE on 2026-01-08 18:20
-- Location: Freerepublic.com
-- Description: Many AT readers will be aware that my judgment can be harsh regarding police-involved homicides and shootings. The reasons for that are simple: cops represent authority, and do so while bearing firearms. That being the case, the power dynamic is always tilted…
+### OTHER on 2026-01-09 01:07
+- Location: Bleeding Cool News
+- Description: When it comes to the new year, NBC is hitting the ground running in 2026, with a massive "Law & Order" universe crossover currently underway as you're reading this. As we learned by the time the credits rolled on Law & Order, there's a whole lot more going on…
 
 
-### HOMICIDE on 2026-01-08 18:17
-- Location: Slate Magazine
-- Description: Renée Nicole Good’s death after being shot by an immigration officer was preceded by a wave of misinformation peddled by right-wing influencers.
+### SHOOTING on 2026-01-09 01:06
+- Location: Balloon-juice.com
+- Description: I have nothing, not one fucking positive thing to say tonight and am still in a seething rage. Trump’s brownshirts shot two more people tonight in Portland: Federal immigration officers shot and wounded two people outside a hospital in Portland, Oregon, on Th…
 
 
-### HOMICIDE on 2026-01-08 18:17
-- Location: Freerepublic.com
-- Description: n the wake of an ICE shooting that killed a woman in Minneapolis on Wednesday, academics have joined the chorus of left-wing radicals seeking to abolish the federal law enforcement agency. "Abolishing ICE is the moderate position," said Victor Ray, an associa…
+### SHOOTING on 2026-01-09 01:03
+- Location: Legalinsurrection.com
+- Description: "The passenger of the vehicle and target is a Venezuelan illegal alien affiliated with the transnational Tren de Aragua prostitution ring and involved in a recent shooting in Portland. The vehicle driver is believed to be a member of the vicious Venezuelan ga…
 
-Analysis generated at: Fri Jan  9 18:25:01 UTC 2026
+Analysis generated at: Sat Jan 10 01:13:40 UTC 2026
