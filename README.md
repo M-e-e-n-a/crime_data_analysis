@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Jan 10 02:01:13 UTC 2026
+Last updated: Sat Jan 10 06:23:51 UTC 2026
 
 ## Latest Analysis
 
-Loaded 81370 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-09 01:57:08
+Loaded 81424 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-09 06:22:24
 
 Incidents by source:
 source
-newsapi           81269
+newsapi           81323
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-01-09 01:57
-- Location: The Daily Caller
-- Description: Federal agents shot two people in Portland on Thursday afternoon, prompting an FBI investigation
+### HOMICIDE on 2026-01-09 06:22
+- Location: Independent.ie
+- Description: Tensions over US president Donald Trump's immigration crackdown rose across the United States on Thursday after the second shooting involving immigration officers in two days, deepening rifts between state and federal officials over how and why the shootings …
 
 
-### OTHER on 2026-01-09 01:53
-- Location: 7NEWS.com.au
-- Description: Anthony Albanese grilled on Sunrise over claim royal commission called in ‘record time’7news.com.au
+### HOMICIDE on 2026-01-09 06:09
+- Location: The Star Online
+- Description: NAIROBI, Jan 9 - Around 8:30 p.m. on October 31, a group of policemen appeared in the Mjimwema ‌neighbourhood of the Tanzanian city of Mwanza, where residents were running errands and drinking coffee. Without warning, they opened fire in different directions,…
 
 
-### OTHER on 2026-01-09 01:53
-- Location: ABC News
-- Description: In an unprecedented move, NASA will bring four astronauts – including two Americans – home early from their mission at the International Space Station because of a medical issue with a crew member.
+### HOMICIDE on 2026-01-09 06:04
+- Location: Yahoo Entertainment
+- Description: By Aaron Ross and Vincent Mumo Nzilani NAIROBI, Jan 9 - Around 8:30 p.m. on October 31, a group of policemen appeared in the Mjimwema neighbourhood of the...
 
 
-### SHOOTING on 2026-01-09 01:53
-- Location: Westernjournal.com
-- Description: "Fearing for his life and safety, an agent fired defensive shots. The driver drove off with the passenger, fleeing the scene."
+### OTHER on 2026-01-09 06:02
+- Location: BBC News
+- Description: Gustavo Petro tells the BBC's Ione Wells that the United States is treating other nations as part of a US "empire", after Trump threatened Colombia with military action.
 
 
-### SHOOTING on 2026-01-09 01:51
-- Location: WPXI Pittsburgh
-- Description: Federal immigration officers shot and wounded two people in a vehicle outside a hospital in Portland, Oregon.
+### OTHER on 2026-01-09 06:00
+- Location: The Irish Times
+- Description: Trump’s erogenous zone is in his pocket. Let’s hit him where it hurts
 
-Analysis generated at: Sat Jan 10 02:01:13 UTC 2026
+Analysis generated at: Sat Jan 10 06:23:50 UTC 2026
