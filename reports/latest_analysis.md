@@ -1,10 +1,10 @@
 
-Loaded 81636 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-10 01:16:00
+Loaded 81654 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-10 02:17:32
 
 Incidents by source:
 source
-newsapi           81535
+newsapi           81553
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-01-10 01:16
-- Location: The Atlantic
-- Description: Frazzled agents, quick triggers, and a motor-powered protest movement are creating a uniquely dangerous moment on U.S. streets.
-
-
-### ASSAULT on 2026-01-10 01:13
+### OTHER on 2026-01-10 02:17
 - Location: The Times of India
-- Description: The Karnataka High Court has dismissed a dowry harassment case against a husband and his family. The court found the allegations of minor marital disputes, like dietary choices and household chores, insufficient to prove statutory cruelty.
+- Description: Madhav Gadgil, a scientist and teacher, championed the idea that forests are best saved by listening to local communities, a principle that shaped the influential Gadgil report. His work on the Western Ghats Ecology Expert Panel, though initially shelved, hig…
 
 
-### SHOOTING on 2026-01-10 01:03
-- Location: CBS News
-- Description: Prosecutors in the Justice Department's Civil Rights Division were told they will not play a role in the investigation into a fatal shooting of a Minnesota woman by an ICE officer, two sources said.
+### HOMICIDE on 2026-01-10 02:15
+- Location: Mother Jones
+- Description: A video reportedly filmed by the federal agent who shot and killed Renée Nicole Good in Minneapolis earlier this week was released on Friday by a conservative Minnesota outlet whose most prominent reporter is married to the city’s former police union head. Al…
 
 
-### HOMICIDE on 2026-01-10 01:03
-- Location: CNN
-- Description: As questions continue to mount about the circumstances that led a US Immigration and Customs Enforcement officer to open fire and kill a 37-year-old woman in her vehicle in Minneapolis this week, the agent’s potentially traumatic recent history could be as mu…
+### OTHER on 2026-01-10 02:15
+- Location: Khabarhub.com
+- Description: KATHMANDU: Economic Digest offers a concise yet comprehensive overview of significant business happenings in Nepal, presented in easily digestible summaries. Nepal’s recent economic indicators present a mixed but broadly stabilizing picture, marked by strong …
 
 
-### OTHER on 2026-01-10 01:03
+### OTHER on 2026-01-10 02:13
 - Location: The Times of India
-- Description: India News: KOLKATA: Aftershocks of the showdown between Enforcement Directorate (ED) and Bengal CM Mamata Banerjee over raids on Trinamool-linked political consu.
+- Description: The Staff Selection Commission has released the city intimation slip for the SSC CGL 2025 Tier 2 examination. Candidates can now check their exam city for the Tier 2 exam scheduled for January 18 and 19, 2026. The SSC has also made the final answer key and ma…
 
-Analysis generated at: Sun Jan 11 01:22:26 UTC 2026
+
+### OTHER on 2026-01-10 02:07
+- Location: ABC News (AU)
+- Description: A sixth man is charged over an alleged plot to import half a tonne of cocaine into Western Australia using an international livestock carrier.
+
+Analysis generated at: Sun Jan 11 02:20:27 UTC 2026
