@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Jan 11 06:24:48 UTC 2026
+Last updated: Sun Jan 11 12:30:43 UTC 2026
 
 ## Latest Analysis
 
-Loaded 81700 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-10 06:22:35
+Loaded 81728 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-10 12:30:00
 
 Incidents by source:
 source
-newsapi           81599
+newsapi           81627
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-01-10 06:22
-- Location: New York Post
-- Description: Hundreds of rowdy anti-ICE protesters shouting curses descended on a Minneapolis hotel Friday night, where they believed federal agents were staying after the shooting death of Renee Nicole Good. The frenzied crowd flooded the outside of the Hilton Canopy Hot…
+### OTHER on 2026-01-10 12:30
+- Location: The Atlantic
+- Description: The HBO Max show has a moral clarity that’s hard to find of late on television.
 
 
-### SHOOTING on 2026-01-10 06:18
-- Location: NPR
-- Description: The video, published online by a Minnesota-based news site, Alpha News, and reposted by the Department of Homeland Security, shows the shooting from the perspective of the officer who fired the shots.
+### SHOOTING on 2026-01-10 12:30
+- Location: Roanoke Times
+- Description: Fifteen minutes before the first active shooter alert, students were already documenting the chaos. Their posts formed a digital time capsule of how a college campus experienced a mass shooting.
 
 
-### SHOOTING on 2026-01-10 06:00
-- Location: Irishtimes.comhttps
-- Description: Tension comes months into campaign by Donald Trump to increase immigration enforcement in Democratic-led cities
-
-
-### HOMICIDE on 2026-01-10 05:56
-- Location: The Times of India
-- Description: A shocking murder in Ludhiana saw a carpenter allegedly dismember his friend's body after a drug-fueled argument over debt. CCTV footage captured the gruesome disposal of the remains hidden in a drum, with his wife reportedly aiding the cleanup. Police have a…
-
-
-### ROBBERY/THEFT on 2026-01-10 05:53
+### OTHER on 2026-01-10 12:27
 - Location: ABC News
-- Description: ABC News’ Stephanie Ramos spoke with PC Mag Editor-in-Chief Wendy Sheehan Donnell about the top products at the annual Consumer Electronics Show, from robots to the weirdest AI tech innovations.
+- Description: ABC News technology reporter Mike Dobuski discusses the backlash involving Elon Musk's AI chatbot Grok.
 
-Analysis generated at: Sun Jan 11 06:24:48 UTC 2026
+
+### SHOOTING on 2026-01-10 12:12
+- Location: Slashdot.org
+- Description: Defense attorney disputes police narrative in Portland Border Patrol shootingOregon Public Broadcasting - OPB Pair shot by immigration agents in Portland had gang links, officials sayBBC 2 people were shot by a federal agent after accusations of having ties t…
+
+
+### HOMICIDE on 2026-01-10 12:11
+- Location: The Irish Times
+- Description: James ‘Jake’ Berney, died following an incident at Foxdene Drive, Balgaddy in June 25th
+
+Analysis generated at: Sun Jan 11 12:30:43 UTC 2026
