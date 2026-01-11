@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Jan 10 18:22:22 UTC 2026
+Last updated: Sun Jan 11 01:22:26 UTC 2026
 
 ## Latest Analysis
 
-Loaded 81602 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-09 18:17:09
+Loaded 81636 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-10 01:16:00
 
 Incidents by source:
 source
-newsapi           81501
+newsapi           81535
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-01-09 18:17
+### HOMICIDE on 2026-01-10 01:16
+- Location: The Atlantic
+- Description: Frazzled agents, quick triggers, and a motor-powered protest movement are creating a uniquely dangerous moment on U.S. streets.
+
+
+### ASSAULT on 2026-01-10 01:13
 - Location: The Times of India
-- Description: A sub-inspector from Bedo police station, Shyam Nandan Paswan, was apprehended by the ACB in Ranchi for demanding a Rs 50,000 bribe. He was caught red-handed accepting Rs 10,000 from a truck owner to facilitate a mechanical check report for a 14-wheeler truck…
+- Description: The Karnataka High Court has dismissed a dowry harassment case against a husband and his family. The court found the allegations of minor marital disputes, like dietary choices and household chores, insufficient to prove statutory cruelty.
 
 
-### SHOOTING on 2026-01-09 18:17
-- Location: Breitbart News
-- Description: Footage taken by the ICE agent forced to shoot a Minneapolis left-wing activist in self-defense proves that Renee Good aimed her two-ton SUV at him and hit the gas.
-The post Nolte: ICE Agent’s Footage Proves ‘Poet’ Tried to Run Him Over appeared first on Brei…
+### SHOOTING on 2026-01-10 01:03
+- Location: CBS News
+- Description: Prosecutors in the Justice Department's Civil Rights Division were told they will not play a role in the investigation into a fatal shooting of a Minnesota woman by an ICE officer, two sources said.
 
 
-### OTHER on 2026-01-09 18:14
-- Location: ABC News
-- Description: A video of Romano Duncan speaking in his thick Boston accent is getting a lot of positive attention on social media.
+### HOMICIDE on 2026-01-10 01:03
+- Location: CNN
+- Description: As questions continue to mount about the circumstances that led a US Immigration and Customs Enforcement officer to open fire and kill a 37-year-old woman in her vehicle in Minneapolis this week, the agent’s potentially traumatic recent history could be as mu…
 
 
-### OTHER on 2026-01-09 18:13
-- Location: BBC News
-- Description: Nigel Dewale made derogatory comments about the Lioness star's skin colour.
+### OTHER on 2026-01-10 01:03
+- Location: The Times of India
+- Description: India News: KOLKATA: Aftershocks of the showdown between Enforcement Directorate (ED) and Bengal CM Mamata Banerjee over raids on Trinamool-linked political consu.
 
-
-### HOMICIDE on 2026-01-09 18:10
-- Location: BBC News
-- Description: Leon Bangura is convicted of stabbing 19-year-old Kalvin Taylor with a Rambo-style knife in Norwich.
-
-Analysis generated at: Sat Jan 10 18:22:22 UTC 2026
+Analysis generated at: Sun Jan 11 01:22:26 UTC 2026
