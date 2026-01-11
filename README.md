@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Jan 11 12:51:35 UTC 2026
+Last updated: Sun Jan 11 18:22:10 UTC 2026
 
 ## Latest Analysis
 
-Loaded 81730 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-10 12:45:54
+Loaded 81820 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-10 18:20:25
 
 Incidents by source:
 source
-newsapi           81629
+newsapi           81719
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2026-01-10 12:45
-- Location: The Daily Hodl
-- Description: A 23-year-old man in Florida is accused of posing as representatives of the Federal Deposit Insurance Corporation (FDIC) and multiple banks in a scam that led to the theft of $203,000 from woman’s bank account. According to the Davie Police Department, the vi…
+### OTHER on 2026-01-10 18:20
+- Location: Joehoft.com
+- Description: The Iranian women are risking their lives standing up to the radical Islamist regime.  Their courage is unfathomable.
+The post Iranian Women Show Real Courage Risking Their Lives Standing Up to the Radical Islamist Regime appeared first on The Gateway Pundit.
 
 
-### OTHER on 2026-01-10 12:45
-- Location: Whyevolutionistrue.com
-- Description: Welcome to CaturSaturday, January 10, 2026, and Save the Eagles Day. America’s bald eagle (Haliaeetus leucocephalus) doesn’t need much saving, for within my lifetime it’s gone from being an “endangered species” to a “species of least concern” (other species o…
+### OTHER on 2026-01-10 18:17
+- Location: BleepingComputer
+- Description: The latest incarnation of the notorious BreachForums hacking forum has suffered a data breach, with its user database table leaked online. [...]
 
 
-### SHOOTING on 2026-01-10 12:30
-- Location: Roanoke Times
-- Description: Fifteen minutes before the first active shooter alert, students were already documenting the chaos. Their posts formed a digital time capsule of how a college campus experienced a mass shooting.
+### OTHER on 2026-01-10 18:17
+- Location: The Times of India
+- Description: India News: JAMMU: A drone from Pakistan dropped a consignment of arms and ammunition in a border village in Jammu and Kashmir’s Samba district on Friday, police .
 
 
-### OTHER on 2026-01-10 12:30
-- Location: The Atlantic
-- Description: The HBO Max show has a moral clarity that’s hard to find of late on television.
+### OTHER on 2026-01-10 18:14
+- Location: The Times of India
+- Description: Goa police raise awareness about the dangers of human trafficking stemming from online interactions, urging parents and teachers to monitor digital activities.
 
 
-### OTHER on 2026-01-10 12:27
-- Location: ABC News
-- Description: ABC News technology reporter Mike Dobuski discusses the backlash involving Elon Musk's AI chatbot Grok.
+### SHOOTING on 2026-01-10 18:12
+- Location: Fox News
+- Description: Minneapolis protests continue after an ICE agent fatally shot a woman, with House Majority Whip Tom Emmer blaming Democratic leaders for ongoing tensions in the city.
 
-Analysis generated at: Sun Jan 11 12:51:35 UTC 2026
+Analysis generated at: Sun Jan 11 18:22:10 UTC 2026
