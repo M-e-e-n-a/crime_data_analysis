@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Jan 11 02:20:27 UTC 2026
+Last updated: Sun Jan 11 06:24:48 UTC 2026
 
 ## Latest Analysis
 
-Loaded 81654 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-10 02:17:32
+Loaded 81700 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-10 06:22:35
 
 Incidents by source:
 source
-newsapi           81553
+newsapi           81599
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-01-10 02:17
+### HOMICIDE on 2026-01-10 06:22
+- Location: New York Post
+- Description: Hundreds of rowdy anti-ICE protesters shouting curses descended on a Minneapolis hotel Friday night, where they believed federal agents were staying after the shooting death of Renee Nicole Good. The frenzied crowd flooded the outside of the Hilton Canopy Hot…
+
+
+### SHOOTING on 2026-01-10 06:18
+- Location: NPR
+- Description: The video, published online by a Minnesota-based news site, Alpha News, and reposted by the Department of Homeland Security, shows the shooting from the perspective of the officer who fired the shots.
+
+
+### SHOOTING on 2026-01-10 06:00
+- Location: Irishtimes.comhttps
+- Description: Tension comes months into campaign by Donald Trump to increase immigration enforcement in Democratic-led cities
+
+
+### HOMICIDE on 2026-01-10 05:56
 - Location: The Times of India
-- Description: Madhav Gadgil, a scientist and teacher, championed the idea that forests are best saved by listening to local communities, a principle that shaped the influential Gadgil report. His work on the Western Ghats Ecology Expert Panel, though initially shelved, hig…
+- Description: A shocking murder in Ludhiana saw a carpenter allegedly dismember his friend's body after a drug-fueled argument over debt. CCTV footage captured the gruesome disposal of the remains hidden in a drum, with his wife reportedly aiding the cleanup. Police have a…
 
 
-### HOMICIDE on 2026-01-10 02:15
-- Location: Mother Jones
-- Description: A video reportedly filmed by the federal agent who shot and killed Renée Nicole Good in Minneapolis earlier this week was released on Friday by a conservative Minnesota outlet whose most prominent reporter is married to the city’s former police union head. Al…
+### ROBBERY/THEFT on 2026-01-10 05:53
+- Location: ABC News
+- Description: ABC News’ Stephanie Ramos spoke with PC Mag Editor-in-Chief Wendy Sheehan Donnell about the top products at the annual Consumer Electronics Show, from robots to the weirdest AI tech innovations.
 
-
-### OTHER on 2026-01-10 02:15
-- Location: Khabarhub.com
-- Description: KATHMANDU: Economic Digest offers a concise yet comprehensive overview of significant business happenings in Nepal, presented in easily digestible summaries. Nepal’s recent economic indicators present a mixed but broadly stabilizing picture, marked by strong …
-
-
-### OTHER on 2026-01-10 02:13
-- Location: The Times of India
-- Description: The Staff Selection Commission has released the city intimation slip for the SSC CGL 2025 Tier 2 examination. Candidates can now check their exam city for the Tier 2 exam scheduled for January 18 and 19, 2026. The SSC has also made the final answer key and ma…
-
-
-### OTHER on 2026-01-10 02:07
-- Location: ABC News (AU)
-- Description: A sixth man is charged over an alleged plot to import half a tonne of cocaine into Western Australia using an international livestock carrier.
-
-Analysis generated at: Sun Jan 11 02:20:27 UTC 2026
+Analysis generated at: Sun Jan 11 06:24:48 UTC 2026
