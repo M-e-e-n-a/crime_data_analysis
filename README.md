@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Jan 11 12:30:43 UTC 2026
+Last updated: Sun Jan 11 12:51:35 UTC 2026
 
 ## Latest Analysis
 
-Loaded 81728 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-10 12:30:00
+Loaded 81730 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-10 12:45:54
 
 Incidents by source:
 source
-newsapi           81627
+newsapi           81629
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,9 +24,14 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-01-10 12:30
-- Location: The Atlantic
-- Description: The HBO Max show has a moral clarity that’s hard to find of late on television.
+### ROBBERY/THEFT on 2026-01-10 12:45
+- Location: The Daily Hodl
+- Description: A 23-year-old man in Florida is accused of posing as representatives of the Federal Deposit Insurance Corporation (FDIC) and multiple banks in a scam that led to the theft of $203,000 from woman’s bank account. According to the Davie Police Department, the vi…
+
+
+### OTHER on 2026-01-10 12:45
+- Location: Whyevolutionistrue.com
+- Description: Welcome to CaturSaturday, January 10, 2026, and Save the Eagles Day. America’s bald eagle (Haliaeetus leucocephalus) doesn’t need much saving, for within my lifetime it’s gone from being an “endangered species” to a “species of least concern” (other species o…
 
 
 ### SHOOTING on 2026-01-10 12:30
@@ -34,18 +39,13 @@ bution.svg)
 - Description: Fifteen minutes before the first active shooter alert, students were already documenting the chaos. Their posts formed a digital time capsule of how a college campus experienced a mass shooting.
 
 
+### OTHER on 2026-01-10 12:30
+- Location: The Atlantic
+- Description: The HBO Max show has a moral clarity that’s hard to find of late on television.
+
+
 ### OTHER on 2026-01-10 12:27
 - Location: ABC News
 - Description: ABC News technology reporter Mike Dobuski discusses the backlash involving Elon Musk's AI chatbot Grok.
 
-
-### SHOOTING on 2026-01-10 12:12
-- Location: Slashdot.org
-- Description: Defense attorney disputes police narrative in Portland Border Patrol shootingOregon Public Broadcasting - OPB Pair shot by immigration agents in Portland had gang links, officials sayBBC 2 people were shot by a federal agent after accusations of having ties t…
-
-
-### HOMICIDE on 2026-01-10 12:11
-- Location: The Irish Times
-- Description: James ‘Jake’ Berney, died following an incident at Foxdene Drive, Balgaddy in June 25th
-
-Analysis generated at: Sun Jan 11 12:30:43 UTC 2026
+Analysis generated at: Sun Jan 11 12:51:35 UTC 2026
