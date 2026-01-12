@@ -1,10 +1,10 @@
 
-Loaded 81934 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-11 12:57:00
+Loaded 82000 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-11 18:23:56
 
 Incidents by source:
 source
-newsapi           81833
+newsapi           81899
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-01-11 12:57
-- Location: The Star Online
-- Description: MUAR: Police have arrested nine individuals believed to have acted as mule account holders involved in online scam activities. Read full story
+### HOMICIDE on 2026-01-11 18:23
+- Location: WLKY Louisville
+- Description: Police are investigating after a 15-year-old girl was shot and killed by another 15-year-old girl.
 
 
-### OTHER on 2026-01-11 12:56
-- Location: Freerepublic.com
-- Description: The Talk Shows Jan 11th, 2026 Guests to be interviewed today on major television talk shows:FACE THE NATION (CBS): Margaret Brennan anchors: Energy Secretary Chris Wright; Sen. Tim coKaine (D-Va.); Rep. Ilhan Omar (D-Minn.); Rep. María Elvira Salazar (R-Fla.)…
+### SHOOTING on 2026-01-11 18:23
+- Location: The Boston Globe
+- Description: Homeland Security Secretary Kristi Noem signaled that more federal agents will be in Minneapolis, where the fatal shooting of a woman by an ICE agent inflamed strife.
 
 
-### HOMICIDE on 2026-01-11 12:53
-- Location: Fox News
-- Description: Renee Nicole Good's death sparked tens of thousands of anti-ICE protesters to demonstrate across major U.S. cities this weekend in an event organized by a left-wing group.
+### OTHER on 2026-01-11 18:16
+- Location: The Times of India
+- Description: Leader of Opposition in the Assembly, V D Satheesan, alleged that the government was spending crores of rupees on the propaganda using party volunteers keeping an eye on the upcoming assembly polls.
 
 
-### OTHER on 2026-01-11 12:45
-- Location: Whyevolutionistrue.com
-- Description: Welcome to sabbath for goyische cats: Sunday, January 11, 2026, and National Hot Toddy Day. Here’s one, followed by some informative text from Wikipedia: Some etymology: The word toddy comes from the toddy drink in India, produced by fermenting the sap of pal…
+### OTHER on 2026-01-11 18:16
+- Location: The Times of India
+- Description: Leader of Opposition in the Assembly, V D Satheesan, alleged that the government was spending crores of rupees on the propaganda using party volunteers keeping an eye on the upcoming assembly polls.
 
 
-### HOMICIDE on 2026-01-11 12:42
-- Location: WSB Atlanta
-- Description: East Point police are searching for the people they say shot two people outside a wake at a funeral home Friday night, killing one woman and injuring another.
+### SHOOTING on 2026-01-11 18:16
+- Location: Breitbart News
+- Description: Nearly two hundred members of the Party for Socialism and Liberation (PSL) gathered in downtown San Antonio to protest the recent U.S. Immigration and Customs Enforcement (ICE) shooting in Minneapolis. The group and attendees created a makeshift memorial to R…
 
-Analysis generated at: Mon Jan 12 12:58:06 UTC 2026
+Analysis generated at: Mon Jan 12 18:25:47 UTC 2026
