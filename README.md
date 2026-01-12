@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Jan 12 01:18:54 UTC 2026
+Last updated: Mon Jan 12 02:10:08 UTC 2026
 
 ## Latest Analysis
 
-Loaded 81839 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-11 01:17:09
+Loaded 81850 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-11 01:59:46
 
 Incidents by source:
 source
-newsapi           81738
+newsapi           81749
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-01-11 01:17
+### HOMICIDE on 2026-01-11 01:59
 - Location: The Times of India
-- Description: A 24-year-old Mississippi man is in custody after allegedly killing six people, including family members and a pastor, at three separate locations. Authorities apprehended Daricka M Moore at a police roadblock following a violent rampage. Investigators are st…
+- Description: A Nepalese man died and six others were hospitalized in Dharwad after a suspected suffocation incident. The men, who worked at a local eatery, reportedly slept in a closed room after cooking dinner on a coal-fired stove. Police suspect smoke inhalation as the…
 
 
-### ROBBERY/THEFT on 2026-01-11 01:13
+### OTHER on 2026-01-11 01:58
+- Location: Breitbart News
+- Description: The greatest loss exacted by the firestorm that tore through my Palisades neighborhood on January 7, 2025, was not the buildings and possessions the flames consumed; it was something far more important.
+The post Cauffiel: Fire, Wind, and Incompetence Destroye…
+
+
+### HOMICIDE on 2026-01-11 01:55
+- Location: RTE
+- Description: Thousands of demonstrators took to the streets of Minneapolis chanting the name of the woman killed by a federal agent in the city, amid widespread anger at use of force in the Trump administration's immigration crackdown.
+
+
+### OTHER on 2026-01-11 01:55
 - Location: New York Post
-- Description: Cops walked into a "horror movie," according to Delaware County DA Tanner Rouse.
+- Description: Though he’s been in office less than two weeks, Mayor Zohran Mamdani's Socialist-echoing choices of words and topics are early warning signs of trouble ahead.
 
 
-### OTHER on 2026-01-11 01:11
-- Location: Truthout
-- Description: The Trump administration now has zine distributors and jail support efforts in its sights.
+### SHOOTING on 2026-01-11 01:51
+- Location: ABC News (AU)
+- Description: The protests come after Renee Nicole Good was fatally shot by an immigration officer in Minneapolis.
 
-
-### SHOOTING on 2026-01-11 01:08
-- Location: Boston News, Weather, Sports | WHDH 7News
-- Description: Hundreds of people marched in Boston on Saturday to protest the fatal shooting of a woman by a federal immigration officer in Minneapolis, Minnesota and the shooting of<a class="excerpt-read-more" href="https://whdh.com/news/hundreds-of-anti-ice-protesters-ga…
-
-
-### HOMICIDE on 2026-01-11 01:07
-- Location: Fox News
-- Description: Ohio surgeon Michael David McKee is accused of murdering his ex-wife and her dentist husband in a Columbus shooting. The Chicago doctor was arrested on murder charges.
-
-Analysis generated at: Mon Jan 12 01:18:54 UTC 2026
+Analysis generated at: Mon Jan 12 02:10:08 UTC 2026
