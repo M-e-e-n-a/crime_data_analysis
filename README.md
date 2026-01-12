@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Jan 12 02:10:08 UTC 2026
+Last updated: Mon Jan 12 06:29:27 UTC 2026
 
 ## Latest Analysis
 
-Loaded 81850 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-11 01:59:46
+Loaded 81890 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-11 06:28:18
 
 Incidents by source:
 source
-newsapi           81749
+newsapi           81789
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-01-11 01:59
-- Location: The Times of India
-- Description: A Nepalese man died and six others were hospitalized in Dharwad after a suspected suffocation incident. The men, who worked at a local eatery, reportedly slept in a closed room after cooking dinner on a coal-fired stove. Police suspect smoke inhalation as the…
+### OTHER on 2026-01-11 06:28
+- Location: Digital Journal
+- Description: Hundreds screamed with excitement as Uganda’s opposition leader passed by a recent rally, with the crowd waving a sea of national flags — a dangerously politicised symbol in the run-up to this week’s election. Analysts say it is almost a foregone conclusion t…
 
 
-### OTHER on 2026-01-11 01:58
-- Location: Breitbart News
-- Description: The greatest loss exacted by the firestorm that tore through my Palisades neighborhood on January 7, 2025, was not the buildings and possessions the flames consumed; it was something far more important.
-The post Cauffiel: Fire, Wind, and Incompetence Destroye…
+### DRUG RELATED on 2026-01-11 06:21
+- Location: The Star Online
+- Description: KOTA BARU: Kelantan police have dismantled a drug syndicate, arresting three men and seizing 52kg of cannabis buds worth RM1.82 million in Kuala Krai on Jan 3. Read full story
 
 
-### HOMICIDE on 2026-01-11 01:55
-- Location: RTE
-- Description: Thousands of demonstrators took to the streets of Minneapolis chanting the name of the woman killed by a federal agent in the city, amid widespread anger at use of force in the Trump administration's immigration crackdown.
+### SHOOTING on 2026-01-11 06:00
+- Location: Naturalnews.com
+- Description: Minneapolis Public Schools canceled in-person classes and offered remote learning following the fatal ICE shooting of American citizen Renee Nicole Good, citing safety concerns. Officials cited an “abundance of caution” due to “incidents all around the city.”…
 
 
-### OTHER on 2026-01-11 01:55
-- Location: New York Post
-- Description: Though he’s been in office less than two weeks, Mayor Zohran Mamdani's Socialist-echoing choices of words and topics are early warning signs of trouble ahead.
+### OTHER on 2026-01-11 05:47
+- Location: The Indian Express
+- Description: Indian travel vlogger Prateek Singh has sparked a social media debate, arguing that the Western world is "losing its status" compared to Asian giants like Japan and Singapore.
 
 
-### SHOOTING on 2026-01-11 01:51
-- Location: ABC News (AU)
-- Description: The protests come after Renee Nicole Good was fatally shot by an immigration officer in Minneapolis.
+### OTHER on 2026-01-11 05:36
+- Location: Mobileread.com
+- Description: Mystery and Crime Martin, A. E.: Common People, v1, 11 Jan 2026 Other Books
 
-Analysis generated at: Mon Jan 12 02:10:08 UTC 2026
+Analysis generated at: Mon Jan 12 06:29:27 UTC 2026
