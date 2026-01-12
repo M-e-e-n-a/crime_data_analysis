@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Jan 12 06:29:27 UTC 2026
+Last updated: Mon Jan 12 12:36:07 UTC 2026
 
 ## Latest Analysis
 
-Loaded 81890 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-11 06:28:18
+Loaded 81926 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-11 12:30:00
 
 Incidents by source:
 source
-newsapi           81789
+newsapi           81825
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-01-11 06:28
-- Location: Digital Journal
-- Description: Hundreds screamed with excitement as Uganda’s opposition leader passed by a recent rally, with the crowd waving a sea of national flags — a dangerously politicised symbol in the run-up to this week’s election. Analysts say it is almost a foregone conclusion t…
+### HOMICIDE on 2026-01-11 12:30
+- Location: Decider
+- Description: The veteran actor's career spanned stand-up stages to genre favorites.
 
 
-### DRUG RELATED on 2026-01-11 06:21
-- Location: The Star Online
-- Description: KOTA BARU: Kelantan police have dismantled a drug syndicate, arresting three men and seizing 52kg of cannabis buds worth RM1.82 million in Kuala Krai on Jan 3. Read full story
+### SHOOTING on 2026-01-11 12:24
+- Location: Freerepublic.com
+- Description: More than one thousand people crammed into a Minnesota church Saturday for “training” in how to deal with ICE in the wake of Renee Nicole Good’s fatal shooting — during which the radical leftist organizer urged participants to annoy the agents like “mosquitoe…
 
 
-### SHOOTING on 2026-01-11 06:00
-- Location: Naturalnews.com
-- Description: Minneapolis Public Schools canceled in-person classes and offered remote learning following the fatal ICE shooting of American citizen Renee Nicole Good, citing safety concerns. Officials cited an “abundance of caution” due to “incidents all around the city.”…
+### HOMICIDE on 2026-01-11 12:07
+- Location: NBC News
+- Description: Ten days after the apparent shooting deaths of an Ohio dentist and his wife, police announced an arrest in the case, identifying the suspect as her ex-husband
 
 
-### OTHER on 2026-01-11 05:47
-- Location: The Indian Express
-- Description: Indian travel vlogger Prateek Singh has sparked a social media debate, arguing that the Western world is "losing its status" compared to Asian giants like Japan and Singapore.
+### HOMICIDE on 2026-01-11 12:06
+- Location: The Punch
+- Description: Police in Anambra have arrested a 26-year-old man for the alleged murder of his 35-year-old girlfriend over suspected infidelity and financial disputes.
+
+Read More: https://punchng.com/police-arrest-man-over-girlfriends-death-in-anambra/
 
 
-### OTHER on 2026-01-11 05:36
-- Location: Mobileread.com
-- Description: Mystery and Crime Martin, A. E.: Common People, v1, 11 Jan 2026 Other Books
+### OTHER on 2026-01-11 11:30
+- Location: Nakedcapitalism.com
+- Description: One Eyed Jacks is a movie about love and revenge in the Old West.
 
-Analysis generated at: Mon Jan 12 06:29:27 UTC 2026
+Analysis generated at: Mon Jan 12 12:36:07 UTC 2026
