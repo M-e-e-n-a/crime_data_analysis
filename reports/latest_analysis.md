@@ -1,10 +1,10 @@
 
-Loaded 82000 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-11 18:23:56
+Loaded 82019 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-12 01:06:06
 
 Incidents by source:
 source
-newsapi           81899
+newsapi           81918
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-01-11 18:23
-- Location: WLKY Louisville
-- Description: Police are investigating after a 15-year-old girl was shot and killed by another 15-year-old girl.
+### HOMICIDE on 2026-01-12 01:06
+- Location: New York Post
+- Description: The baby-faced firebug allegedly confessed to starting the blaze in an attempt to kill his teenage friend who was inside the home with three other family members, cops said.
 
 
-### SHOOTING on 2026-01-11 18:23
-- Location: The Boston Globe
-- Description: Homeland Security Secretary Kristi Noem signaled that more federal agents will be in Minneapolis, where the fatal shooting of a woman by an ICE agent inflamed strife.
+### HOMICIDE on 2026-01-12 01:02
+- Location: WPXI Pittsburgh
+- Description: Protests held across the country this weekend showed the sharp divide in opinion over a shooting involving an Immigration and Customs Enforcement agent in Minnesota.
 
 
-### OTHER on 2026-01-11 18:16
-- Location: The Times of India
-- Description: Leader of Opposition in the Assembly, V D Satheesan, alleged that the government was spending crores of rupees on the propaganda using party volunteers keeping an eye on the upcoming assembly polls.
+### SHOOTING on 2026-01-12 01:00
+- Location: SoraNews24
+- Description: Yes, even in 2026 you can still get arrested if you don’t follow a law originally enacted to keep ex-samurai in line. The late 19th century’s Meiji Restoration, in which Japan abolished the shogunate and warrior castes, is often treated with a sense of bitter…
 
 
-### OTHER on 2026-01-11 18:16
-- Location: The Times of India
-- Description: Leader of Opposition in the Assembly, V D Satheesan, alleged that the government was spending crores of rupees on the propaganda using party volunteers keeping an eye on the upcoming assembly polls.
+### ASSAULT on 2026-01-12 01:00
+- Location: New Zealand Herald
+- Description: 'Money mule' was allegedly kidnapped and assaulted after threatening to blow the whistle.
 
 
-### SHOOTING on 2026-01-11 18:16
+### ASSAULT on 2026-01-12 00:43
 - Location: Breitbart News
-- Description: Nearly two hundred members of the Party for Socialism and Liberation (PSL) gathered in downtown San Antonio to protest the recent U.S. Immigration and Customs Enforcement (ICE) shooting in Minneapolis. The group and attendees created a makeshift memorial to R…
+- Description: Trump's deputies are sending hundreds of additional agents to Minneapolis to protect the federal investigation of the Democrats' fraud-and-migration political machine in Minnesota.
+The post Trump Sends More Agents to Fight Tim Walz’s Fraud-and-Migration Machi…
 
-Analysis generated at: Mon Jan 12 18:25:47 UTC 2026
+Analysis generated at: Tue Jan 13 01:12:28 UTC 2026
