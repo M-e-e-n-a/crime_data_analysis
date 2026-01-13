@@ -1,10 +1,10 @@
 
-Loaded 82076 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-12 06:25:53
+Loaded 82137 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-12 12:30:04
 
 Incidents by source:
 source
-newsapi           81975
+newsapi           82036
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-01-12 06:25
-- Location: ABC News
-- Description: Nearly 900,000 acres have burned in the past days as the country bakes in a record-setting heatwave.
-
-
-### OTHER on 2026-01-12 06:25
-- Location: ABC News (AU)
-- Description: Thousands of Iranians have taken to the streets for more than a fortnight in protests against the country's government. Here's what to know about the situation.
-
-
-### OTHER on 2026-01-12 06:25
-- Location: ABC News
-- Description: The surfer is safe and in stable condition after being missing for more than 24 hours.
-
-
-### HOMICIDE on 2026-01-12 06:06
+### OTHER on 2026-01-12 12:30
 - Location: BBC News
-- Description: According to the latest data, there were 97 homicides in London in 2025, the lowest figure since 2014.
+- Description: Bathers found the body parts in Puerto López, a town which has been wracked by gang violence.
 
 
-### HOMICIDE on 2026-01-12 06:06
+### OTHER on 2026-01-12 12:30
 - Location: BBC News
-- Description: According to the latest data, there were 97 homicides in London in 2025 - the lowest figure since 2014.
+- Description: Bathers found the body parts in Puerto López, a town which has been wracked by gang violence.
 
-Analysis generated at: Tue Jan 13 06:26:37 UTC 2026
+
+### OTHER on 2026-01-12 12:21
+- Location: Www.gov.uk
+- Description: Victims to be given more privacy with new rules blocking police from requesting counselling notes during investigations unless in exceptional circumstances.
+
+
+### OTHER on 2026-01-12 12:15
+- Location: Securityaffairs.com
+- Description: Europol announced the arrest of 34 suspected Black Axe members in Spain during a joint operation with Spanish and European law enforcement. Europol announced the arrest of 34 suspects in Spain linked to the Black Axe criminal network, following a joint operat…
+
+
+### HOMICIDE on 2026-01-12 12:14
+- Location: YLE News
+- Description: The prosecutor told the court that the man travelled from the UK to Finland to exact revenge after the woman said she was not interested in being in a relationship with him.
+
+Analysis generated at: Tue Jan 13 12:35:19 UTC 2026
