@@ -1,10 +1,10 @@
 
-Loaded 82023 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-12 01:40:36
+Loaded 82076 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-12 06:25:53
 
 Incidents by source:
 source
-newsapi           81922
+newsapi           81975
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-01-12 01:40
-- Location: Thegatewaypundit.com
-- Description: A U-Haul truck mowed through a crowd of protesters in Los Angeles on Sunday during a demonstration in support of the Iranian people.  The number of injured individuals is currently unclear.
-The post WATCH: U-Haul Driver Rams Through Protestors in Los Angeles …
+### OTHER on 2026-01-12 06:25
+- Location: ABC News
+- Description: Nearly 900,000 acres have burned in the past days as the country bakes in a record-setting heatwave.
 
 
-### OTHER on 2026-01-12 01:38
-- Location: New York Post
-- Description: Johnson is better known as the "Lectern guy" after he was photographed grinning while carrying Pelosi's podium around the US Capitol during the Jan. 6 riots.
+### OTHER on 2026-01-12 06:25
+- Location: ABC News (AU)
+- Description: Thousands of Iranians have taken to the streets for more than a fortnight in protests against the country's government. Here's what to know about the situation.
 
 
-### OTHER on 2026-01-12 01:29
-- Location: Theregister.com
-- Description: PLUS: Cambodia arrests alleged scam camp boss; Baidu spins out chip biz; Panasonic’s noodle shop plan; And more! Asia in Brief  The governments of Malaysia and Indonesia have suspended access to social network X, on grounds that it allows users to produce sex…
+### OTHER on 2026-01-12 06:25
+- Location: ABC News
+- Description: The surfer is safe and in stable condition after being missing for more than 24 hours.
 
 
-### HOMICIDE on 2026-01-12 01:26
-- Location: WSB Atlanta
-- Description: The Gwinnett County Police Department is investigating a shooting death in Snellville that killed a 36-year-old father of two young girls.
+### HOMICIDE on 2026-01-12 06:06
+- Location: BBC News
+- Description: According to the latest data, there were 97 homicides in London in 2025, the lowest figure since 2014.
 
 
-### HOMICIDE on 2026-01-12 01:06
-- Location: New York Post
-- Description: The baby-faced firebug allegedly confessed to starting the blaze in an attempt to kill his teenage friend who was inside the home with three other family members, cops said.
+### HOMICIDE on 2026-01-12 06:06
+- Location: BBC News
+- Description: According to the latest data, there were 97 homicides in London in 2025 - the lowest figure since 2014.
 
-Analysis generated at: Tue Jan 13 02:01:49 UTC 2026
+Analysis generated at: Tue Jan 13 06:26:37 UTC 2026
