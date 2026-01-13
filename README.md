@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Jan 13 12:58:07 UTC 2026
+Last updated: Tue Jan 13 18:26:21 UTC 2026
 
 ## Latest Analysis
 
-Loaded 82139 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-12 12:56:05
+Loaded 82228 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-12 18:25:56
 
 Incidents by source:
 source
-newsapi           82038
+newsapi           82127
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-01-12 12:56
-- Location: Freerepublic.com
-- Description: Democrats mourn ‘insurrection’ on January 6, engage in insurrection on January 7. The ability of the Democrat Machine to rewrite its code at a moment’s notice is terrifying. What it supported yesterday, it will denounce tomorrow when politically expedient. Ri…
+### HOMICIDE on 2026-01-12 18:25
+- Location: The Hill
+- Description: By now, everyone has had an opportunity to review the footage of the shooting death of Renee Good, who was killed by an ICE officer while in her car in...
 
 
-### SHOOTING on 2026-01-12 12:42
-- Location: Yahoo Entertainment
-- Description: The trial of a Texas police officer charged in the halting law enforcement response to the attack on Robb Elementary heads into a second week Monday with...
+### SHOOTING on 2026-01-12 18:24
+- Location: Just Jared
+- Description: The father of an 11-year-old in California who was shot in the head revealed the young girl’s heartbreaking question as she begins to recover. On Monday (January 5), the Antioch Police Department issued a statement revealing that they responded to “multiple” …
 
 
-### OTHER on 2026-01-12 12:30
-- Location: BBC News
-- Description: Bathers found the body parts in Puerto López, a town which has been wracked by gang violence.
+### HOMICIDE on 2026-01-12 18:23
+- Location: Fox News
+- Description: Barry Morphew accused of killing wife Suzanne returns to court to enter plea on murder charges. Case began with her Mother's Day 2020 disappearance.
 
 
-### OTHER on 2026-01-12 12:30
-- Location: BBC News
-- Description: Bathers found the body parts in Puerto López, a town which has been wracked by gang violence.
+### HOMICIDE on 2026-01-12 18:22
+- Location: The Star Online
+- Description: PARIS, Jan. 12 (Xinhua) -- A man was shot dead on the French Mediterranean island of Corsica on Monday, local media reported. Read full story
 
 
-### OTHER on 2026-01-12 12:21
-- Location: Www.gov.uk
-- Description: Victims to be given more privacy with new rules blocking police from requesting counselling notes during investigations unless in exceptional circumstances.
+### OTHER on 2026-01-12 18:21
+- Location: The Times of India
+- Description: Mumbai: The city has seen a rise in crimes against women (up 13%) and children (up 7%) in 2025 from 2024, while cyber crime has dipped 5%, Mumbai Crim.
 
-Analysis generated at: Tue Jan 13 12:58:07 UTC 2026
+Analysis generated at: Tue Jan 13 18:26:21 UTC 2026
