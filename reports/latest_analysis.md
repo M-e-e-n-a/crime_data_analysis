@@ -1,10 +1,10 @@
 
-Loaded 82378 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-13 12:33:22
+Loaded 82386 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-13 12:57:10
 
 Incidents by source:
 source
-newsapi           82277
+newsapi           82285
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-01-13 12:33
-- Location: KCCI Des Moines
-- Description: When can federal immigration agents lawfully enter private property to make an arrest?
+### HOMICIDE on 2026-01-13 12:57
+- Location: Raw Story
+- Description: Like everyone, I’ve been spending a lot of time thinking about Renee Nicole Good and the horrible fate that befell her in Minneapolis last Wednesday. Given what we’ve seen on video, that there is even debate over whether she deserved to die is absolutely unfa…
 
 
-### HOMICIDE on 2026-01-13 12:31
-- Location: TODAY
-- Description: A man accused of killing his ex-wife and her husband in Ohio faces upgraded murder charges as he’s expected to be moved from Illinois to face prosecution across the state line
+### OTHER on 2026-01-13 12:54
+- Location: ABC News
+- Description: A water main burst and gushed into the sky in a manner reminiscent of a geyser in San Diego, California on Monday.
 
 
-### OTHER on 2026-01-13 12:28
-- Location: KARE11.com
-- Description: Chelsea Kane and Courtney Azar are sisters and Army combat vets who say they're going to keep documenting federal agents, despite escalating tensions.
+### OTHER on 2026-01-13 12:54
+- Location: ABC News
+- Description: A paraglider survived a nearly 500-foot fall into the ocean off the coast of Florida, authorities say.
 
 
-### HOMICIDE on 2026-01-13 12:27
-- Location: BBC News
-- Description: Alain Orsoni, 71, was a well-known separatist figure in Corsica who had been living in exile for years in Nicaragua.
+### SHOOTING on 2026-01-13 12:52
+- Location: Fox News
+- Description: Rep. Ilhan Omar, D-Minn., faces backlash from GOP critics who say she has been encouraging violence against ICE agents following fatal shootings involving federal immigration agents.
 
 
-### HOMICIDE on 2026-01-13 12:27
-- Location: New York Post
-- Description: A former prosecutor has raised concerns about the evidence against surgeon Michael McKee, who is charged with murdering his ex-wife and her dentist husband in their Ohio home last month -- after it took 11 days to arrest him.
+### ASSAULT on 2026-01-13 12:52
+- Location: CBC News
+- Description: A suspect in an arson fire at a synagogue that was bombed by the Ku Klux Klan decades ago admitted to targeting the historic institution because it's a Jewish house of worship and confessed what he had done to his father, who turned him in to authorities afte…
 
-Analysis generated at: Wed Jan 14 12:38:30 UTC 2026
+Analysis generated at: Wed Jan 14 12:58:04 UTC 2026
