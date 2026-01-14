@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Jan 13 18:26:21 UTC 2026
+Last updated: Wed Jan 14 01:18:40 UTC 2026
 
 ## Latest Analysis
 
-Loaded 82228 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-12 18:25:56
+Loaded 82247 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-13 01:10:51
 
 Incidents by source:
 source
-newsapi           82127
+newsapi           82146
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-01-12 18:25
-- Location: The Hill
-- Description: By now, everyone has had an opportunity to review the footage of the shooting death of Renee Good, who was killed by an ICE officer while in her car in...
+### SHOOTING on 2026-01-13 01:10
+- Location: Breitbart News
+- Description: Monday on ABC's "The View," co-host Alyssa Farah Griffin said Americans' different reactions to the fatal ICE shooting in Minneapolis last week show we were "losing our collective humanity."
+The post Alyssa Farah Griffin on ICE Shooting: ‘I Feel Like We’re Lo…
 
 
-### SHOOTING on 2026-01-12 18:24
-- Location: Just Jared
-- Description: The father of an 11-year-old in California who was shot in the head revealed the young girl’s heartbreaking question as she begins to recover. On Monday (January 5), the Antioch Police Department issued a statement revealing that they responded to “multiple” …
+### SHOOTING on 2026-01-13 01:10
+- Location: Snopes.com
+- Description: There was no evidence the video was fake, but we couldn't geolocate it or confirm the gun had fired.
 
 
-### HOMICIDE on 2026-01-12 18:23
-- Location: Fox News
-- Description: Barry Morphew accused of killing wife Suzanne returns to court to enter plea on murder charges. Case began with her Mother's Day 2020 disappearance.
+### OTHER on 2026-01-13 01:07
+- Location: ABC News
+- Description: Video shows the terrifying moment a paraglider took a 500-foot fall, splash-landing into the water off the Florida coast.
 
 
-### HOMICIDE on 2026-01-12 18:22
-- Location: The Star Online
-- Description: PARIS, Jan. 12 (Xinhua) -- A man was shot dead on the French Mediterranean island of Corsica on Monday, local media reported. Read full story
+### HOMICIDE on 2026-01-13 01:02
+- Location: Boston Herald
+- Description: A Mississippi man pleaded not guilty Monday to killing six people — including a 7-year-old girl — during a rampage through a rural area in the northeastern part of the state.
 
 
-### OTHER on 2026-01-12 18:21
-- Location: The Times of India
-- Description: Mumbai: The city has seen a rise in crimes against women (up 13%) and children (up 7%) in 2025 from 2024, while cyber crime has dipped 5%, Mumbai Crim.
+### OTHER on 2026-01-13 01:01
+- Location: Loweringthebar.net
+- Description: Hope to never see you again.       Related Stories
+<ul><li>Assorted Stupidity #171</li><li>Assorted Stupidity #170</li><li>Assorted Stupidity #169</li></ul>
 
-Analysis generated at: Tue Jan 13 18:26:21 UTC 2026
+Analysis generated at: Wed Jan 14 01:18:40 UTC 2026
