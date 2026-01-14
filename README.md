@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Jan 14 02:08:52 UTC 2026
+Last updated: Wed Jan 14 06:28:18 UTC 2026
 
 ## Latest Analysis
 
-Loaded 82260 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-13 02:07:12
+Loaded 82301 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-13 06:04:08
 
 Incidents by source:
 source
-newsapi           82159
+newsapi           82200
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,30 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-01-13 02:07
+### SHOOTING on 2026-01-13 06:04
 - Location: Yahoo Entertainment
-- Description: <body><p>STORY: :: Graphic Warning - Profanity</p><p>:: ICE agents arrest a protest singer at a demonstration outside a federal building in Minneapolis</p><p...
+- Description: None
 
 
-### ROBBERY/THEFT on 2026-01-13 02:04
-- Location: HuffPost
-- Description: “He tried to taunt me,” the former fourth-grade teacher at Robb Elementary said.
+### HOMICIDE on 2026-01-13 06:00
+- Location: The Irish Times
+- Description: Former Garda commissioner says short sentences they would receive would not ‘weigh the scales’ for 1989 murder
 
 
-### OTHER on 2026-01-13 01:55
-- Location: CBS News
-- Description: On Monday afternoon, WCCO's Esme Murphy sat down with Bovino to discuss the ICE crackdown, the widespread backlash and what the future holds in the Twin Cities and beyond. Here is their full conversation.
+### HOMICIDE on 2026-01-13 06:00
+- Location: Naturalnews.com
+- Description: Minnesota Gov. Tim Walz signed a 2020 law (Minnesota Statutes §609.066) allowing police to use deadly force against vehicles perceived as imminent threats – even before physical impact – now under scrutiny after ICE agents fatally shot Renee Good during a tra…
 
 
-### OTHER on 2026-01-13 01:53
-- Location: The Punch
-- Description: Kebbi’s new Police Commissioner, CP Umar Hadejia, assumes office with a pledge to tackle cross-border crimes, kidnapping, and illegal arms movement.
-
-Read More: https://punchng.com/kebbis-new-cp-assumes-office-vows-to-tackle-border-crimes/
+### OTHER on 2026-01-13 06:00
+- Location: Naturalnews.com
+- Description: The British government, under the guise of public safety and crime prevention, is quietly constructing the most advanced surveillance architecture in the Western world, a system designed not just to see you, but to feed you lies, provoke you, and interpret yo…
 
 
-### HOMICIDE on 2026-01-13 01:49
-- Location: ABC News
-- Description: A Mississippi man has pleaded not guilty to charges that he killed six people during a late night rampage
+### HOMICIDE on 2026-01-13 05:54
+- Location: The Times of India
+- Description: Dombivli saw a violent clash between Shiv Sena and BJP workers late Monday night. An attack occurred on Omnath Natekar, husband of a BJP candidate. He sustained serious injuries. Two other BJP workers and a Shiv Sena office-bearer also suffered minor injuries…
 
-Analysis generated at: Wed Jan 14 02:08:52 UTC 2026
+Analysis generated at: Wed Jan 14 06:28:18 UTC 2026
