@@ -1,10 +1,10 @@
 
-Loaded 82386 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-13 12:57:10
+Loaded 82477 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-13 18:19:14
 
 Incidents by source:
 source
-newsapi           82285
+newsapi           82376
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-01-13 12:57
-- Location: Raw Story
-- Description: Like everyone, I’ve been spending a lot of time thinking about Renee Nicole Good and the horrible fate that befell her in Minneapolis last Wednesday. Given what we’ve seen on video, that there is even debate over whether she deserved to die is absolutely unfa…
-
-
-### OTHER on 2026-01-13 12:54
+### ASSAULT on 2026-01-13 18:19
 - Location: ABC News
-- Description: A water main burst and gushed into the sky in a manner reminiscent of a geyser in San Diego, California on Monday.
+- Description: Federal officials have charged a man with setting fire to the only synagogue in Jackson, Mississippi, claiming that the suspect did so because of the building's "Jewish ties."
 
 
-### OTHER on 2026-01-13 12:54
-- Location: ABC News
-- Description: A paraglider survived a nearly 500-foot fall into the ocean off the coast of Florida, authorities say.
+### HOMICIDE on 2026-01-13 18:18
+- Location: Al Jazeera English
+- Description: US president issues latest threat to midwestern state, where protests have continued after ICE agent killed woman.
 
 
-### SHOOTING on 2026-01-13 12:52
-- Location: Fox News
-- Description: Rep. Ilhan Omar, D-Minn., faces backlash from GOP critics who say she has been encouraging violence against ICE agents following fatal shootings involving federal immigration agents.
+### ROBBERY/THEFT on 2026-01-13 18:16
+- Location: The Times of India
+- Description: Palamu police have apprehended five individuals, including a woman, linked to fourteen burglary and theft incidents across Palamu and Uttar Pradesh. The gang, specializing in nighttime raids on locked homes after daytime reconnaissance, was found with stolen …
 
 
-### ASSAULT on 2026-01-13 12:52
-- Location: CBC News
-- Description: A suspect in an arson fire at a synagogue that was bombed by the Ku Klux Klan decades ago admitted to targeting the historic institution because it's a Jewish house of worship and confessed what he had done to his father, who turned him in to authorities afte…
+### OTHER on 2026-01-13 18:12
+- Location: The Week Magazine
+- Description: From #MomTok to reality TV gems, Utah has emerged as a media powerhouse
 
-Analysis generated at: Wed Jan 14 12:58:04 UTC 2026
+
+### ASSAULT on 2026-01-13 18:05
+- Location: Common Dreams
+- Description: Congressman Jamie Raskin got right to the point in a letter to Attorney General Pam Bondi and Homeland Security Secretary Kristi Noem as he sought an answer to a question several Democratic lawmakers have raised in recent months regarding the Trump administra…
+
+Analysis generated at: Wed Jan 14 18:26:50 UTC 2026
