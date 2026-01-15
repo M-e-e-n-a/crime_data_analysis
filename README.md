@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Jan 15 06:26:54 UTC 2026
+Last updated: Thu Jan 15 12:34:23 UTC 2026
 
 ## Latest Analysis
 
-Loaded 82547 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-14 06:20:10
+Loaded 82616 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-14 12:30:00
 
 Incidents by source:
 source
-newsapi           82446
+newsapi           82515
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,30 +24,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-01-14 06:20
-- Location: The Conversation Africa
-- Description: At first glance, this new legislation might appear to significantly restrict free speech. But it is important to note there is a high threshold for conviction.
+### OTHER on 2026-01-14 12:30
+- Location: Mother Jones
+- Description: Even as Secretary of Homeland Security Kristi Noem has promised to deploy an even greater surge of federal agents into Minneapolis, ostensibly to investigate fraud, city residents have shown up in large numbers to express their desire for ICE to, as Minneapol…
 
 
-### HOMICIDE on 2026-01-14 06:07
-- Location: The Star Online
-- Description: KUCHING: A husband and wife have been found dead with severe injuries in their home at Sri Aman, 192km from here, early Wednesday (Jan 14) morning. Read full story
-
-
-### HOMICIDE on 2026-01-14 06:05
+### HOMICIDE on 2026-01-14 12:22
 - Location: The Punch
-- Description: The Oyo State Police Command has successfully rescued a 60-year-old kidnap victim, Isiaku Saidu, and arrested a three-member kidnapping syndicate.
+- Description: Suspected armed herders have killed six people, including a retired officer and a former councillor, in a recent attack in Otukpo LGA, Benue State.
 
-Read More: https://punchng.com/police-rescue-60-year-old-kidnap-victim-arrest-murder-suspects-in-oyo/
-
-
-### ROBBERY/THEFT on 2026-01-14 06:02
-- Location: ABC News (AU)
-- Description: Police are searching for a boat worth about $140k which was stolen from the Sunshine Coast after keys were left on board while the owners were overseas on holiday.
+Read More: https://punchng.com/armed-herders-kill-retired-officer-councillor-four-others-in-benue/
 
 
-### ASSAULT on 2026-01-14 05:55
-- Location: Ibtimes.com.au
-- Description: The NSW Fair Trading is alerting citizens against a so-called "ghost store" using the Bondi massacre for scams.
+### HOMICIDE on 2026-01-14 12:22
+- Location: TODAY
+- Description: A Brazilian au pair testified that her employer planned a double murder using a man he lured from a BDSM website as a patsy to avoid a divorce, prosecutors alleged at the first day of his trial Tuesday
 
-Analysis generated at: Thu Jan 15 06:26:54 UTC 2026
+
+### OTHER on 2026-01-14 12:16
+- Location: CBS News
+- Description: The case has provoked anger and bewilderment from Russian politicians.
+
+
+### OTHER on 2026-01-14 12:16
+- Location: The Star Online
+- Description: JEMPOL: Police have detained a 34-year-old man for allegedly forcing his 10-year-old son to shoplift on several occasions. Read full story
+
+Analysis generated at: Thu Jan 15 12:34:23 UTC 2026
