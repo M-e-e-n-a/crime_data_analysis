@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Jan 15 01:13:59 UTC 2026
+Last updated: Thu Jan 15 02:03:55 UTC 2026
 
 ## Latest Analysis
 
-Loaded 82494 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-14 01:11:49
+Loaded 82501 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-14 02:00:03
 
 Incidents by source:
 source
-newsapi           82393
+newsapi           82400
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-01-14 01:11
-- Location: The Indian Express
-- Description: The operation, conducted from 8 pm on January 9 to 8 pm on January 11, aimed to dismantle criminal networks and deter any subversive or terror elements from disrupting the January 26 celebrations, police said.
+### OTHER on 2026-01-14 02:00
+- Location: Fox News
+- Description: The San Diego school district strengthened security after the Trump administration rescinded a policy protecting schools from ICE arrests.
 
 
-### OTHER on 2026-01-14 01:03
-- Location: BusinessLine
-- Description: Rights groups say Iran has broadcast nearly 100 coerced confessions from protesters since late December, raising fears of executions amid a widening crackdown.
+### OTHER on 2026-01-14 01:42
+- Location: TheWrap
+- Description: "I said, 'I need somebody to be naked from the waist down so that the leg can kick you in the balls,' and four guys were like, 'Me, me, me, me!'" Filho says of one wild scene
+The post Director Kleber Mendonça Filho Breaks Down Key Scenes in ‘The Secret Agent’…
 
 
-### HOMICIDE on 2026-01-14 01:00
-- Location: HuffPost
-- Description: Killing survivors. A warplane in disguise. Alarms are going off about Trump's mission in the waters off Latin America.
+### ASSAULT on 2026-01-14 01:42
+- Location: New York Post
+- Description: He raised his swollen and severely burned left hand in the photo while his bemused face was covered in pink scorch marks.
 
 
-### OTHER on 2026-01-14 00:58
-- Location: The Indian Express
-- Description: Unverified social media post says US-based members of Lawrence Bishnoi gang behind one of them
+### OTHER on 2026-01-14 01:36
+- Location: CBS News
+- Description: WCCO has documented multiple instances where ICE has detained and, at times, physically harmed American citizens in Minnesota since Operation Metro Surge began.
 
 
-### HOMICIDE on 2026-01-14 00:52
-- Location: Slashdot.org
-- Description: ‘Like a Military Occupation’: Clashes Rise With Federal Agents in MinneapolisThe New York Times Minnesota protesters, agents repeatedly square off while prosecutors quit after Renee Good's deathAP News Video captures Minneapolis immigration arrest in a city o…
+### OTHER on 2026-01-14 01:33
+- Location: Wnd.com
+- Description: Cash payments to be adjusted starting Feb. 1
 
-Analysis generated at: Thu Jan 15 01:13:59 UTC 2026
+Analysis generated at: Thu Jan 15 02:03:55 UTC 2026
