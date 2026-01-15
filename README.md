@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Jan 14 18:26:50 UTC 2026
+Last updated: Thu Jan 15 01:13:59 UTC 2026
 
 ## Latest Analysis
 
-Loaded 82477 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-13 18:19:14
+Loaded 82494 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-14 01:11:49
 
 Incidents by source:
 source
-newsapi           82376
+newsapi           82393
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2026-01-13 18:19
-- Location: ABC News
-- Description: Federal officials have charged a man with setting fire to the only synagogue in Jackson, Mississippi, claiming that the suspect did so because of the building's "Jewish ties."
+### OTHER on 2026-01-14 01:11
+- Location: The Indian Express
+- Description: The operation, conducted from 8 pm on January 9 to 8 pm on January 11, aimed to dismantle criminal networks and deter any subversive or terror elements from disrupting the January 26 celebrations, police said.
 
 
-### HOMICIDE on 2026-01-13 18:18
-- Location: Al Jazeera English
-- Description: US president issues latest threat to midwestern state, where protests have continued after ICE agent killed woman.
+### OTHER on 2026-01-14 01:03
+- Location: BusinessLine
+- Description: Rights groups say Iran has broadcast nearly 100 coerced confessions from protesters since late December, raising fears of executions amid a widening crackdown.
 
 
-### ROBBERY/THEFT on 2026-01-13 18:16
-- Location: The Times of India
-- Description: Palamu police have apprehended five individuals, including a woman, linked to fourteen burglary and theft incidents across Palamu and Uttar Pradesh. The gang, specializing in nighttime raids on locked homes after daytime reconnaissance, was found with stolen …
+### HOMICIDE on 2026-01-14 01:00
+- Location: HuffPost
+- Description: Killing survivors. A warplane in disguise. Alarms are going off about Trump's mission in the waters off Latin America.
 
 
-### OTHER on 2026-01-13 18:12
-- Location: The Week Magazine
-- Description: From #MomTok to reality TV gems, Utah has emerged as a media powerhouse
+### OTHER on 2026-01-14 00:58
+- Location: The Indian Express
+- Description: Unverified social media post says US-based members of Lawrence Bishnoi gang behind one of them
 
 
-### ASSAULT on 2026-01-13 18:05
-- Location: Common Dreams
-- Description: Congressman Jamie Raskin got right to the point in a letter to Attorney General Pam Bondi and Homeland Security Secretary Kristi Noem as he sought an answer to a question several Democratic lawmakers have raised in recent months regarding the Trump administra…
+### HOMICIDE on 2026-01-14 00:52
+- Location: Slashdot.org
+- Description: ‘Like a Military Occupation’: Clashes Rise With Federal Agents in MinneapolisThe New York Times Minnesota protesters, agents repeatedly square off while prosecutors quit after Renee Good's deathAP News Video captures Minneapolis immigration arrest in a city o…
 
-Analysis generated at: Wed Jan 14 18:26:50 UTC 2026
+Analysis generated at: Thu Jan 15 01:13:59 UTC 2026
