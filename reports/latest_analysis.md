@@ -1,10 +1,10 @@
 
-Loaded 82501 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-14 02:00:03
+Loaded 82547 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-14 06:20:10
 
 Incidents by source:
 source
-newsapi           82400
+newsapi           82446
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-01-14 02:00
-- Location: Fox News
-- Description: The San Diego school district strengthened security after the Trump administration rescinded a policy protecting schools from ICE arrests.
+### OTHER on 2026-01-14 06:20
+- Location: The Conversation Africa
+- Description: At first glance, this new legislation might appear to significantly restrict free speech. But it is important to note there is a high threshold for conviction.
 
 
-### OTHER on 2026-01-14 01:42
-- Location: TheWrap
-- Description: "I said, 'I need somebody to be naked from the waist down so that the leg can kick you in the balls,' and four guys were like, 'Me, me, me, me!'" Filho says of one wild scene
-The post Director Kleber Mendonça Filho Breaks Down Key Scenes in ‘The Secret Agent’…
+### HOMICIDE on 2026-01-14 06:07
+- Location: The Star Online
+- Description: KUCHING: A husband and wife have been found dead with severe injuries in their home at Sri Aman, 192km from here, early Wednesday (Jan 14) morning. Read full story
 
 
-### ASSAULT on 2026-01-14 01:42
-- Location: New York Post
-- Description: He raised his swollen and severely burned left hand in the photo while his bemused face was covered in pink scorch marks.
+### HOMICIDE on 2026-01-14 06:05
+- Location: The Punch
+- Description: The Oyo State Police Command has successfully rescued a 60-year-old kidnap victim, Isiaku Saidu, and arrested a three-member kidnapping syndicate.
+
+Read More: https://punchng.com/police-rescue-60-year-old-kidnap-victim-arrest-murder-suspects-in-oyo/
 
 
-### OTHER on 2026-01-14 01:36
-- Location: CBS News
-- Description: WCCO has documented multiple instances where ICE has detained and, at times, physically harmed American citizens in Minnesota since Operation Metro Surge began.
+### ROBBERY/THEFT on 2026-01-14 06:02
+- Location: ABC News (AU)
+- Description: Police are searching for a boat worth about $140k which was stolen from the Sunshine Coast after keys were left on board while the owners were overseas on holiday.
 
 
-### OTHER on 2026-01-14 01:33
-- Location: Wnd.com
-- Description: Cash payments to be adjusted starting Feb. 1
+### ASSAULT on 2026-01-14 05:55
+- Location: Ibtimes.com.au
+- Description: The NSW Fair Trading is alerting citizens against a so-called "ghost store" using the Bondi massacre for scams.
 
-Analysis generated at: Thu Jan 15 02:03:55 UTC 2026
+Analysis generated at: Thu Jan 15 06:26:54 UTC 2026
