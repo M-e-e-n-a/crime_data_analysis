@@ -1,10 +1,10 @@
 
-Loaded 82873 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-15 12:48:16
+Loaded 82970 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-15 18:13:58
 
 Incidents by source:
 source
-newsapi           82772
+newsapi           82869
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-01-15 12:48
-- Location: Westernjournal.com
-- Description: "As the officer was being ambushed and attacked by the two individuals, the original subject got loose and began striking the officer..."
+### OTHER on 2026-01-15 18:13
+- Location: Wnd.com
+- Description: 'It’s a little hard to breathe because they just let off several flashbangs, multiple tear gas canisters that were coming off all around us'
 
 
-### OTHER on 2026-01-15 12:45
-- Location: Whyevolutionistrue.com
-- Description: Welcome to Thursday, January 15, 2026 and National Bagel Day, celebrating a contribution of Jewish cuisine, such as it is, to world culture. Everybody eats bagels now, save those counting their carbs.  Below is one of the few places in the world you can still…
+### SHOOTING on 2026-01-15 18:11
+- Location: Breitbart News
+- Description: Minneapolis Police Chief Brian O'Hara noted rioters gathered in response to Wednesday's officer-involved shooting were "engaging in unlawful acts."
+The post Minneapolis Police Chief: Rioters ‘Are Engaging in Unlawful Acts’ appeared first on Breitbart.
 
 
-### ROBBERY/THEFT on 2026-01-15 12:45
-- Location: Onmantel.com
-- Description: Good morning, Collectors. Finally a card shop criminal was nabbed! On Sunday police in Wilmington, NC arrested a man for kidnapping and robbery charges, tied...
+### SHOOTING on 2026-01-15 18:11
+- Location: Honolulu Star-Advertiser
+- Description: Honolulu police are searching for an unknown gunman who opened fire during a large fight at the Ewa Beach Community Park late Wednesday night, leaving one man hospitalized.
 
 
-### OTHER on 2026-01-15 12:32
-- Location: Thepinknews.com
-- Description: An LGBTQ+ centre has been the target of a man throwing bags of dog poo at the building for months, but local police say it’s a littering offence and not vandalism or a hate crime. Since June, staff at Mi SELA LGBTQ+ – an LGBTQ+ youth centre has which is run b…
+### OTHER on 2026-01-15 18:10
+- Location: Reason
+- Description: The administration's written policies make it likely that more people like Renee Good will be targets, and victims, of ICE.
 
 
-### HOMICIDE on 2026-01-15 12:27
-- Location: Sky.com
-- Description: Police have launched a murder investigation after a 68-year-old woman was stabbed to death at a Hampshire village home.
+### SHOOTING on 2026-01-15 18:09
+- Location: GamesRadar+
+- Description: Bungie has been in the kitchen, I'll give it that
 
-Analysis generated at: Fri Jan 16 12:55:53 UTC 2026
+Analysis generated at: Fri Jan 16 18:25:10 UTC 2026
