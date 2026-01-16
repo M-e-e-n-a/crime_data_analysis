@@ -1,10 +1,10 @@
 
-Loaded 82739 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-15 01:11:14
+Loaded 82748 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-15 02:02:15
 
 Incidents by source:
 source
-newsapi           82638
+newsapi           82647
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-01-15 01:11
-- Location: Israelnationalnews.com
-- Description: Speaking to Fox News, Iran’s Foreign Minister Abbas Araghchi rejects reports of mass protest casualties, blaming “terrorists" and an “Israeli plot".
+### SHOOTING on 2026-01-15 02:02
+- Location: FOX 9
+- Description: A person from Venezuela was shot by ICE in north Minneapolis Wednesday night after federal officials say they attacked an officer following a traffic stop. This comes exactly a week after an ICE officer fatally shot Renee Good. Find live updates on the incide…
 
 
-### OTHER on 2026-01-15 01:10
+### SHOOTING on 2026-01-15 02:00
+- Location: CBS News
+- Description: State police in Greensburg have released a motive behind a shooting that happened outside of a Planet Fitness in East Huntington Township on Tuesday.
+
+
+### SHOOTING on 2026-01-15 01:53
+- Location: The Star Online
+- Description: WASHINGTON, ‌Jan 14 (Reuters) - U.S. President Donald Trump struck a more conciliatory tone regarding an ‌ICE officer's fatal shooting of a Minnesota mother, saying on Wednesday that it was "sad ‌to see on both sides." Read full story
+
+
+### OTHER on 2026-01-15 01:48
+- Location: HuffPost
+- Description: Adrian Gonzales has appeared calm and stoic throughout the trial until Wednesday.
+
+
+### OTHER on 2026-01-15 01:33
 - Location: ABC News
-- Description: Deputy White House Chief of Staff Stephen Miller has argued for years that the Venezuelan government has intentionally orchestrated mass migration into the United States
+- Description: The Liberian man arrested over the weekend after heavily armed immigration agents used a battering ram to break through the front door of his Minneapolis home had been checking in regularly with federal authorities for years, his attorney said
 
-
-### OTHER on 2026-01-15 01:09
-- Location: Boston Herald
-- Description: Video shows the officer firing at the demonstrator, who grabbed his face and fell.
-
-
-### OTHER on 2026-01-15 01:07
-- Location: Yahoo Entertainment
-- Description: The Liberian man arrested over the weekend after heavily armed immigration agents used a battering ram to break through the front door of his Minneapolis...
-
-
-### SHOOTING on 2026-01-15 01:07
-- Location: New York Post
-- Description: The incident comes after two other students were found armed in Big Apple schools Monday morning.
-
-Analysis generated at: Fri Jan 16 01:16:08 UTC 2026
+Analysis generated at: Fri Jan 16 02:05:54 UTC 2026
