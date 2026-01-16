@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Jan 15 18:30:02 UTC 2026
+Last updated: Fri Jan 16 01:16:08 UTC 2026
 
 ## Latest Analysis
 
-Loaded 82710 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-14 18:29:40
+Loaded 82739 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-15 01:11:14
 
 Incidents by source:
 source
-newsapi           82609
+newsapi           82638
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,30 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2026-01-14 18:29
-- Location: HuffPost
-- Description: "Secretary Noem, you have violated your oath of office and there will be consequences," said Rep. Robin Kelly (D-Ill.).
+### HOMICIDE on 2026-01-15 01:11
+- Location: Israelnationalnews.com
+- Description: Speaking to Fox News, Iran’s Foreign Minister Abbas Araghchi rejects reports of mass protest casualties, blaming “terrorists" and an “Israeli plot".
 
 
-### OTHER on 2026-01-14 18:29
-- Location: Vanity Fair
-- Description: The stylist dressed the downtown set, worked at high-end retailers like Khaite, and looked like he was living the fashion fantasy—until an anonymous Instagram account, a court dispute with his roommate, and a trail of allegations pulled back the curtain.
+### OTHER on 2026-01-15 01:10
+- Location: ABC News
+- Description: Deputy White House Chief of Staff Stephen Miller has argued for years that the Venezuelan government has intentionally orchestrated mass migration into the United States
 
 
-### OTHER on 2026-01-14 18:27
+### OTHER on 2026-01-15 01:09
+- Location: Boston Herald
+- Description: Video shows the officer firing at the demonstrator, who grabbed his face and fell.
+
+
+### OTHER on 2026-01-15 01:07
 - Location: Yahoo Entertainment
-- Description: Prosecutors declined to press charges against Freeman after he was accused of battery, saying that video evidence did not support the accusation.
+- Description: The Liberian man arrested over the weekend after heavily armed immigration agents used a battering ram to break through the front door of his Minneapolis...
 
 
-### OTHER on 2026-01-14 18:27
-- Location: KCRA Sacramento
-- Description: New documents shed new light on Renee Good's connection to efforts to monitor and potentially disrupt ICE operations.
+### SHOOTING on 2026-01-15 01:07
+- Location: New York Post
+- Description: The incident comes after two other students were found armed in Big Apple schools Monday morning.
 
-
-### OTHER on 2026-01-14 18:24
-- Location: The Punch
-- Description: Nigeria’s SEC seeks police support to intensify its clampdown on Ponzi schemes, crypto scams, and other investment fraud to protect investors.
-
-Read More: https://punchng.com/sec-seeks-police-help-to-tackle-ponzi-schemes-crypto-scams/
-
-Analysis generated at: Thu Jan 15 18:30:02 UTC 2026
+Analysis generated at: Fri Jan 16 01:16:08 UTC 2026
