@@ -1,10 +1,10 @@
 
-Loaded 83036 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-16 06:23:05
+Loaded 83093 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-16 12:22:16
 
 Incidents by source:
 source
-newsapi           82935
+newsapi           82992
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-01-16 06:23
-- Location: ABC News (AU)
-- Description: Tasmania Police says it received "valuable information" from the public in relation to recent shootings in Gagebrook and Bridgewater.
+### OTHER on 2026-01-16 12:22
+- Location: The Irish Times
+- Description: Coco’s Law bans sharing of intimate images but does not appear to criminalise generating them
 
 
-### OTHER on 2026-01-16 06:21
-- Location: Freerepublic.com
-- Description: UPDATE: The Rioter who drove off with Law Enforcement rifIe has been Identified as Raul Gutierrez. —— He’s been taken into federal custody. Everyone wave  because this asshole is going bye bye
+### HOMICIDE on 2026-01-16 12:15
+- Location: Biztoc.com
+- Description: Reports from the city's police and fire departments show that Renee Good, who was killed by an ICE agent last week, was found ...
 
 
-### OTHER on 2026-01-16 06:17
-- Location: Digital Journal
-- Description: Hundreds of people dragged away suitcases, computer monitors, pets and furniture as they fled a suspected Cambodian cyberfraud centre, after the country’s most wanted alleged scam kingpin was arrested and deported. Boarding tuk-tuks, Lexus SUVs and tourist co…
+### SHOOTING on 2026-01-16 12:14
+- Location: Raw Story
+- Description: An ominous plot to paste images of ICE protesters across TV and pressure employees to fire anybody opposing the immigration agency's presence in American cities has been announced by President Donald Trump's administration.Trump's border chief suggested Thurs…
 
 
-### HOMICIDE on 2026-01-16 06:04
-- Location: The-independent.com
-- Description: Nick Reiner, who is accused of murdering his parents Rob and Michele, was reportedly placed in the mental health conservatorship for a year
+### OTHER on 2026-01-16 12:14
+- Location: Independent.ie
+- Description: White House press secretary Karoline Leavitt had a heated exchange with an Irish journalist yesterday during a press briefing.
 
 
-### ROBBERY/THEFT on 2026-01-16 06:00
-- Location: Naturalnews.com
-- Description: A Pennsylvania man, Jonathan Christ Gerlach, has been arrested for allegedly looting historic Mount Moriah Cemetery, stealing human remains from vandalized mausoleums and burial vaults. Authorities discovered a massive collection of over 100 human skulls, mum…
+### OTHER on 2026-01-16 12:00
+- Location: National Post
+- Description: A spokesperson for Carney's office told National Post that the government is 'taking action to combat the scourge of antisemitism and protect Jewish Canadians'
 
-Analysis generated at: Sat Jan 17 06:24:03 UTC 2026
+Analysis generated at: Sat Jan 17 12:29:50 UTC 2026
