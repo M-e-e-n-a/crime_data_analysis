@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Jan 17 01:12:40 UTC 2026
+Last updated: Sat Jan 17 01:59:50 UTC 2026
 
 ## Latest Analysis
 
-Loaded 82992 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-16 01:12:02
+Loaded 83000 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-16 01:38:31
 
 Incidents by source:
 source
-newsapi           82891
+newsapi           82899
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-01-16 01:12
-- Location: CBS News
-- Description: Cell phone footage shared on social media by a Democratic state senator appears to show the moments after Wednesday's shooting took place, in which a woman calls 911 and can be heard pleading for help.
-
-
-### HOMICIDE on 2026-01-16 01:04
-- Location: Freerepublic.com
-- Description: A Cuban citizen faces a felony charge after federal officials say he rammed his vehicle into two U.S. Immigration and Customs Enforcement vehicles in San Antonio on Tuesday, injuring an ICE officer.Robyn Argote Brooks was being detained by ICE officers when h…
-
-
-### HOMICIDE on 2026-01-16 01:03
+### OTHER on 2026-01-16 01:38
 - Location: New York Post
-- Description: Jose Velasquez, 59, formerly of Astoria, now stands accused of fatally strangling a “Jane Doe” victim – believed to be between 25 and 35 years old – inside Room 119 of the since-shuttered Turf Motel on 14th Street near Broadway in 1998, the DA’s office said.
+- Description: Hurley allegedly hid in the megastore's dog bed section where he planned to spend the night as part of a TikTok trend, informally called the "24-hour Fort Overnight Challenge."
 
 
-### OTHER on 2026-01-16 01:00
-- Location: The Denver Post
-- Description: An Aurora man suspected of starting a five-alarm fire in a partially built apartment complex on Leetsdale Drive in Denver was seen filling a container with gasoline approximately one hour before he walked onto the construction site, investigators wrote in an …
+### OTHER on 2026-01-16 01:34
+- Location: CBS News
+- Description: The FBI says that a suspect is in custody after protests in north Minneapolis Wednesday evening culminated in vandalism and the apparent compromising of federal documents.
 
 
-### SHOOTING on 2026-01-16 00:52
-- Location: The Indian Express
-- Description: The Anti-Narcotics Cell (ANC) of the Delhi Police had received a tip-off that the alleged shooters would be passing through Burari, carrying firearms, on Wednesday.
+### HOMICIDE on 2026-01-16 01:30
+- Location: Freerepublic.com
+- Description: Police arrested a woman who had worked for three weeks at the Rocking Horse Ranch childcare center in the death of 11-month-old Harvey Muklebust. Theah Loudemia Russell, 18, is in custody and expected to be charged soon for second-degree unintentional murder,…
 
-Analysis generated at: Sat Jan 17 01:12:40 UTC 2026
+
+### HOMICIDE on 2026-01-16 01:30
+- Location: Freerepublic.com
+- Description: Police arrested a woman who had worked for three weeks at the Rocking Horse Ranch childcare center in the death of 11-month-old Harvey Muklebust. Theah Loudemia Russell, 18, is in custody and expected to be charged soon for second-degree unintentional murder,…
+
+
+### OTHER on 2026-01-16 01:27
+- Location: ABC News
+- Description: In an attempt to combat certain uses of AI, Matthew McConaughey has trademarked himself, including his catchphrase, "Alright, alright, alright," to prevent anyone from stealing his likeness.
+
+Analysis generated at: Sat Jan 17 01:59:50 UTC 2026
