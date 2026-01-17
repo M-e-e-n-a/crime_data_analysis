@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Jan 17 01:59:50 UTC 2026
+Last updated: Sat Jan 17 06:24:04 UTC 2026
 
 ## Latest Analysis
 
-Loaded 83000 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-16 01:38:31
+Loaded 83036 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-16 06:23:05
 
 Incidents by source:
 source
-newsapi           82899
+newsapi           82935
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-01-16 01:38
-- Location: New York Post
-- Description: Hurley allegedly hid in the megastore's dog bed section where he planned to spend the night as part of a TikTok trend, informally called the "24-hour Fort Overnight Challenge."
+### SHOOTING on 2026-01-16 06:23
+- Location: ABC News (AU)
+- Description: Tasmania Police says it received "valuable information" from the public in relation to recent shootings in Gagebrook and Bridgewater.
 
 
-### OTHER on 2026-01-16 01:34
-- Location: CBS News
-- Description: The FBI says that a suspect is in custody after protests in north Minneapolis Wednesday evening culminated in vandalism and the apparent compromising of federal documents.
-
-
-### HOMICIDE on 2026-01-16 01:30
+### OTHER on 2026-01-16 06:21
 - Location: Freerepublic.com
-- Description: Police arrested a woman who had worked for three weeks at the Rocking Horse Ranch childcare center in the death of 11-month-old Harvey Muklebust. Theah Loudemia Russell, 18, is in custody and expected to be charged soon for second-degree unintentional murder,…
+- Description: UPDATE: The Rioter who drove off with Law Enforcement rifIe has been Identified as Raul Gutierrez. —— He’s been taken into federal custody. Everyone wave  because this asshole is going bye bye
 
 
-### HOMICIDE on 2026-01-16 01:30
-- Location: Freerepublic.com
-- Description: Police arrested a woman who had worked for three weeks at the Rocking Horse Ranch childcare center in the death of 11-month-old Harvey Muklebust. Theah Loudemia Russell, 18, is in custody and expected to be charged soon for second-degree unintentional murder,…
+### OTHER on 2026-01-16 06:17
+- Location: Digital Journal
+- Description: Hundreds of people dragged away suitcases, computer monitors, pets and furniture as they fled a suspected Cambodian cyberfraud centre, after the country’s most wanted alleged scam kingpin was arrested and deported. Boarding tuk-tuks, Lexus SUVs and tourist co…
 
 
-### OTHER on 2026-01-16 01:27
-- Location: ABC News
-- Description: In an attempt to combat certain uses of AI, Matthew McConaughey has trademarked himself, including his catchphrase, "Alright, alright, alright," to prevent anyone from stealing his likeness.
+### HOMICIDE on 2026-01-16 06:04
+- Location: The-independent.com
+- Description: Nick Reiner, who is accused of murdering his parents Rob and Michele, was reportedly placed in the mental health conservatorship for a year
 
-Analysis generated at: Sat Jan 17 01:59:50 UTC 2026
+
+### ROBBERY/THEFT on 2026-01-16 06:00
+- Location: Naturalnews.com
+- Description: A Pennsylvania man, Jonathan Christ Gerlach, has been arrested for allegedly looting historic Mount Moriah Cemetery, stealing human remains from vandalized mausoleums and burial vaults. Authorities discovered a massive collection of over 100 human skulls, mum…
+
+Analysis generated at: Sat Jan 17 06:24:03 UTC 2026
