@@ -1,10 +1,10 @@
 
-Loaded 83095 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-16 12:45:16
+Loaded 83190 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-16 18:21:11
 
 Incidents by source:
 source
-newsapi           82994
+newsapi           83089
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-01-16 12:45
-- Location: Whyevolutionistrue.com
-- Description: Welcome to the end of the a frigid week in Chicago: it’s Friday, January 16, 2026, and National Fig Newton Day. Called “fig rolls” in the UK, the most famous U.S. version is from Nabisco, which has trademarked the name. Here’s some Fig Newton Trivia from Wiki…
+### OTHER on 2026-01-16 18:21
+- Location: CBC News
+- Description: Police and paramedics responded to the scene of an ATV crash in Addington Forks, N.S., at 5:30 a.m. on Friday,  according to a news release from RCMP.
 
 
-### SHOOTING on 2026-01-16 12:30
-- Location: CBS News
-- Description: Bruno Rocuba claimed he shot his wife Melissa Rocuba accidentally, but then he started getting rid of all her belongings. "It's like he wanted her erased," said one of their daughters.
+### OTHER on 2026-01-16 18:20
+- Location: Boston Herald
+- Description: The terminations and a larger voluntary exodus of lawyers have erased centuries of combined experience.
 
 
-### OTHER on 2026-01-16 12:22
-- Location: The Irish Times
-- Description: Coco’s Law bans sharing of intimate images but does not appear to criminalise generating them
+### SHOOTING on 2026-01-16 18:18
+- Location: The Denver Post
+- Description: The Minneapolis Fire Department’s incident report details Renee Good's gunshot wounds.
 
 
-### HOMICIDE on 2026-01-16 12:15
-- Location: Biztoc.com
-- Description: Reports from the city's police and fire departments show that Renee Good, who was killed by an ICE agent last week, was found ...
+### SHOOTING on 2026-01-16 18:18
+- Location: Boston Herald
+- Description: The Minneapolis Fire Department’s incident report details Renee Good's gunshot wounds.
 
 
-### SHOOTING on 2026-01-16 12:14
-- Location: Raw Story
-- Description: An ominous plot to paste images of ICE protesters across TV and pressure employees to fire anybody opposing the immigration agency's presence in American cities has been announced by President Donald Trump's administration.Trump's border chief suggested Thurs…
+### OTHER on 2026-01-16 18:15
+- Location: Hip-Hop Wired
+- Description: Adin Ross is not taking any chances when it comes to his safety or the safety of his friends. The streamer has been feuding with rapper Lil Tjay, which has led him to believe that someone affiliated with the artist could potentially harm him. The Florida nati…
 
-Analysis generated at: Sat Jan 17 12:50:17 UTC 2026
+Analysis generated at: Sat Jan 17 18:22:02 UTC 2026
