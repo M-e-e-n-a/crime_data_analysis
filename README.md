@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Jan 18 12:30:10 UTC 2026
+Last updated: Sun Jan 18 12:50:46 UTC 2026
 
 ## Latest Analysis
 
-Loaded 83300 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-17 12:30:00
+Loaded 83306 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-17 12:45:31
 
 Incidents by source:
 source
-newsapi           83199
+newsapi           83205
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-01-17 12:30
-- Location: Mother Jones
-- Description: More resignations of federal prosecutors are expected at the US Attorney’s Office in Minnesota amid ongoing frustration over the Trump administration’s response to the fatal shooting of Renée Good by an ICE officer in Minneapolis.“I have heard there may be mo…
+### OTHER on 2026-01-17 12:45
+- Location: Whyevolutionistrue.com
+- Description: Welcome to CaturSaturday, January 17, and Popeye the Sailor Man Day. Here is the first strip to feature the spinach-addicted sailor, which appeared on this day in 1929. That was ten years after artist Elzie Crisler created the “Thimble Theater” strip which or…
 
 
-### OTHER on 2026-01-17 12:28
-- Location: Fox News
-- Description: California Governor Gavin Newsom walks back his office's criticism of ICE as terrorism during podcast with Ben Shapiro, defending state cooperation with federal immigration officers.
-
-
-### HOMICIDE on 2026-01-17 12:08
+### HOMICIDE on 2026-01-17 12:35
 - Location: The Times of India
-- Description: A Hindu man was killed in Bangladesh after he tried to stop a vehicle from leaving a petrol pump without paying. Ripon Saha, a fuel station worker, was run over by an SUV. Police have arrested the owner and driver of the vehicle. This incident occurs amidst r…
+- Description: Set in Miami, The Rip centers on a Tactical Narcotics Team following the murder of one of their own ignites a federal investigation and internal suspicion. As pressure rises, detectives JD Byrne and Dane Dumars lead their unit on a late-day raid that finds a …
 
 
-### ASSAULT on 2026-01-17 12:00
-- Location: Fox News
-- Description: Anti-ICE violence escalates in Minneapolis with federal officers attacked and vehicles vandalized as President Donald Trump weighs military deployment options under Insurrection Act.
+### SHOOTING on 2026-01-17 12:35
+- Location: The Punch
+- Description: Ogun State Police recovered an abandoned silver Toyota RAV4 Jeep in Abeokuta and are seeking the owner. The vehicle is suspected to have been stolen.
+
+Read More: https://punchng.com/photos-abandoned-vehicle-recovered-in-ogun-police-seek-owner/
 
 
-### OTHER on 2026-01-17 12:00
-- Location: Fox News
-- Description: Network news coverage of ICE operations in Minneapolis shows media bias as ABC, CBS, and NBC frame Democratic opposition as nonpartisan while downplaying protester violence.
+### ROBBERY/THEFT on 2026-01-17 12:32
+- Location: Balloon-juice.com
+- Description: NYTimes has truly outdone itself with this latest in its "ask white guys in diner" genre. Thank goodness we get a perspective on what's happening in Minneapolis from people in **Nisswa** who probably mean Brainerd when they say they "prefer not to go the city…
 
-Analysis generated at: Sun Jan 18 12:30:10 UTC 2026
+
+### OTHER on 2026-01-17 12:32
+- Location: Freerepublic.com
+- Description: A newly introduced bill that would bar former Immigration and Customs Enforcement agents from working in state and local law enforcement in Illinois is sparking intense debate, with supporters calling it a necessary accountability measure and critics warning …
+
+Analysis generated at: Sun Jan 18 12:50:46 UTC 2026
