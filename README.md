@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Jan 18 06:24:33 UTC 2026
+Last updated: Sun Jan 18 12:30:10 UTC 2026
 
 ## Latest Analysis
 
-Loaded 83247 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-17 06:14:34
+Loaded 83300 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-17 12:30:00
 
 Incidents by source:
 source
-newsapi           83146
+newsapi           83199
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-01-17 06:14
+### SHOOTING on 2026-01-17 12:30
+- Location: Mother Jones
+- Description: More resignations of federal prosecutors are expected at the US Attorney’s Office in Minnesota amid ongoing frustration over the Trump administration’s response to the fatal shooting of Renée Good by an ICE officer in Minneapolis.“I have heard there may be mo…
+
+
+### OTHER on 2026-01-17 12:28
+- Location: Fox News
+- Description: California Governor Gavin Newsom walks back his office's criticism of ICE as terrorism during podcast with Ben Shapiro, defending state cooperation with federal immigration officers.
+
+
+### HOMICIDE on 2026-01-17 12:08
 - Location: The Times of India
-- Description: A joint operation by Nagpur Police and Uttar Pradesh ATS led to the arrest of Idhu Islam, a key associate and money manager for preacher Changur Baba, in Ashinagar early Saturday. Islam, wanted for over two years for his alleged involvement in large-scale rel…
+- Description: A Hindu man was killed in Bangladesh after he tried to stop a vehicle from leaving a petrol pump without paying. Ripon Saha, a fuel station worker, was run over by an SUV. Police have arrested the owner and driver of the vehicle. This incident occurs amidst r…
 
 
-### OTHER on 2026-01-17 05:56
-- Location: The Indian Express
-- Description: The bank accounts, police said, have been traced to Kolkata, Delhi and Chhattisgarh. Over Rs 2.89 crore in them have been frozen, officers said.
+### ASSAULT on 2026-01-17 12:00
+- Location: Fox News
+- Description: Anti-ICE violence escalates in Minneapolis with federal officers attacked and vehicles vandalized as President Donald Trump weighs military deployment options under Insurrection Act.
 
 
-### OTHER on 2026-01-17 05:43
-- Location: The Star Online
-- Description: KOTA KINABALU: Over RM635,000 worth of e-cigarettes were seized while 23 suspects were nabbed following an integrated crackdown across seven districts in Sabah. Read full story
+### OTHER on 2026-01-17 12:00
+- Location: Fox News
+- Description: Network news coverage of ICE operations in Minneapolis shows media bias as ABC, CBS, and NBC frame Democratic opposition as nonpartisan while downplaying protester violence.
 
-
-### HOMICIDE on 2026-01-17 05:40
-- Location: Gossiplankanews.com
-- Description: Three suspects, for whom INTERPOL Red Notices had been issued in connection with organized crime, murder, and financial fraud, were arrested in Dubai and brought to the island yesterday (16) morning. A team of officers from the Sri Lanka Criminal Investigatio…
-
-
-### OTHER on 2026-01-17 05:24
-- Location: New York Post
-- Description: US District Judge Kate Menendez's ruling addresses a case filed in December on behalf of six Minnesota activists who have been observing the activities of Immigration and Customs Enforcement and Border Patrol officers.
-
-Analysis generated at: Sun Jan 18 06:24:33 UTC 2026
+Analysis generated at: Sun Jan 18 12:30:10 UTC 2026
