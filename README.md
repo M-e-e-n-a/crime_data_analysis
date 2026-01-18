@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Jan 18 02:13:06 UTC 2026
+Last updated: Sun Jan 18 06:24:33 UTC 2026
 
 ## Latest Analysis
 
-Loaded 83211 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-17 02:09:52
+Loaded 83247 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-17 06:14:34
 
 Incidents by source:
 source
-newsapi           83110
+newsapi           83146
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2026-01-17 02:09
-- Location: New York Post
-- Description: Forget handcuffs and batons. In a move that has critics outraged, the Los Angeles Metro has officially launched its “care-based services division,” a new department that swaps armed law enforcement for a “holistic” army of social workers to tackle a transit s…
-
-
-### OTHER on 2026-01-17 02:07
+### OTHER on 2026-01-17 06:14
 - Location: The Times of India
-- Description: A judge has ruled that federal officers cannot detain or use tear gas on peaceful protesters during immigration enforcement in Minneapolis. This decision came after a lawsuit filed by activists. The ruling also restricts officers from stopping vehicles withou…
+- Description: A joint operation by Nagpur Police and Uttar Pradesh ATS led to the arrest of Idhu Islam, a key associate and money manager for preacher Changur Baba, in Ashinagar early Saturday. Islam, wanted for over two years for his alleged involvement in large-scale rel…
 
 
-### OTHER on 2026-01-17 02:07
-- Location: Boston Herald
-- Description: The case was filed in December on behalf of six Minnesota activists.
+### OTHER on 2026-01-17 05:56
+- Location: The Indian Express
+- Description: The bank accounts, police said, have been traced to Kolkata, Delhi and Chhattisgarh. Over Rs 2.89 crore in them have been frozen, officers said.
 
 
-### OTHER on 2026-01-17 02:00
-- Location: WTAE Pittsburgh
-- Description: Federal officers in the Minneapolis area participating in its largest recent U.S. immigration enforcement operation can’t detain or tear gas peaceful protesters, a U.S. judge in Minnesota ruled Friday.
+### OTHER on 2026-01-17 05:43
+- Location: The Star Online
+- Description: KOTA KINABALU: Over RM635,000 worth of e-cigarettes were seized while 23 suspects were nabbed following an integrated crackdown across seven districts in Sabah. Read full story
 
 
-### OTHER on 2026-01-17 01:56
-- Location: WMUR Manchester
-- Description: Federal officers in the Minneapolis area participating in its largest recent U.S. immigration enforcement operation can’t detain or tear gas peaceful protesters, a U.S. judge in Minnesota ruled Friday.
+### HOMICIDE on 2026-01-17 05:40
+- Location: Gossiplankanews.com
+- Description: Three suspects, for whom INTERPOL Red Notices had been issued in connection with organized crime, murder, and financial fraud, were arrested in Dubai and brought to the island yesterday (16) morning. A team of officers from the Sri Lanka Criminal Investigatio…
 
-Analysis generated at: Sun Jan 18 02:13:06 UTC 2026
+
+### OTHER on 2026-01-17 05:24
+- Location: New York Post
+- Description: US District Judge Kate Menendez's ruling addresses a case filed in December on behalf of six Minnesota activists who have been observing the activities of Immigration and Customs Enforcement and Border Patrol officers.
+
+Analysis generated at: Sun Jan 18 06:24:33 UTC 2026
