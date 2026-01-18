@@ -1,10 +1,10 @@
 
-Loaded 83198 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-17 01:15:39
+Loaded 83211 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-17 02:09:52
 
 Incidents by source:
 source
-newsapi           83097
+newsapi           83110
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-01-17 01:15
-- Location: CBC News
-- Description: Privacy Commissioner Michael Harvey this week ordered the city to get rid of the cameras at the intersection of Minoru Boulevard and Granville Avenue after an investigation report concluded the Freedom of Information and Protection of Privacy Act didn't grant…
+### ASSAULT on 2026-01-17 02:09
+- Location: New York Post
+- Description: Forget handcuffs and batons. In a move that has critics outraged, the Los Angeles Metro has officially launched its “care-based services division,” a new department that swaps armed law enforcement for a “holistic” army of social workers to tackle a transit s…
 
 
-### OTHER on 2026-01-17 01:13
-- Location: PBS
-- Description: The Justice Department is investigating whether Minnesota Gov. Tim Walz and Minneapolis Mayor Jacob Frey have impeded federal immigration enforcement through public statements they have made, according to two people familiar with the matter.
+### OTHER on 2026-01-17 02:07
+- Location: The Times of India
+- Description: A judge has ruled that federal officers cannot detain or use tear gas on peaceful protesters during immigration enforcement in Minneapolis. This decision came after a lawsuit filed by activists. The ruling also restricts officers from stopping vehicles withou…
 
 
-### SHOOTING on 2026-01-17 01:05
-- Location: CBS News
-- Description: Sgt. Bo, a therapy dog who has provided constant comfort to survivors of a 2023 Nashville school shooting, was the American Humane Society's 2025 Hero Dog Award winner.
+### OTHER on 2026-01-17 02:07
+- Location: Boston Herald
+- Description: The case was filed in December on behalf of six Minnesota activists.
 
 
-### HOMICIDE on 2026-01-17 00:44
-- Location: Freerepublic.com
-- Description: An 11-year-old boy has been charged with criminal homicide after his father was fatally shot in the family’s home. According to Pennsylvania State Police, the boy had his Nintendo Switch taken away shortly before the shooting, and was ordered to go to bed. In…
+### OTHER on 2026-01-17 02:00
+- Location: WTAE Pittsburgh
+- Description: Federal officers in the Minneapolis area participating in its largest recent U.S. immigration enforcement operation can’t detain or tear gas peaceful protesters, a U.S. judge in Minnesota ruled Friday.
 
 
-### HOMICIDE on 2026-01-17 00:23
-- Location: PBS
-- Description: The Utah man charged with killing conservative activist Charlie Kirk returned to court Friday, as his attorneys sought to disqualify prosecutors because the daughter of a deputy county attorney involved in the case attended the rally where Kirk was shot.
+### OTHER on 2026-01-17 01:56
+- Location: WMUR Manchester
+- Description: Federal officers in the Minneapolis area participating in its largest recent U.S. immigration enforcement operation can’t detain or tear gas peaceful protesters, a U.S. judge in Minnesota ruled Friday.
 
-Analysis generated at: Sun Jan 18 01:21:15 UTC 2026
+Analysis generated at: Sun Jan 18 02:13:06 UTC 2026
