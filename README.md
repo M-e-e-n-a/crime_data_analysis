@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Jan 18 12:50:46 UTC 2026
+Last updated: Sun Jan 18 18:21:26 UTC 2026
 
 ## Latest Analysis
 
-Loaded 83306 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-17 12:45:31
+Loaded 83381 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-17 18:18:59
 
 Incidents by source:
 source
-newsapi           83205
+newsapi           83280
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,30 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-01-17 12:45
-- Location: Whyevolutionistrue.com
-- Description: Welcome to CaturSaturday, January 17, and Popeye the Sailor Man Day. Here is the first strip to feature the spinach-addicted sailor, which appeared on this day in 1929. That was ten years after artist Elzie Crisler created the “Thimble Theater” strip which or…
+### OTHER on 2026-01-17 18:18
+- Location: HuffPost
+- Description: The DEA has amassed a detailed intelligence file on Rodríguez dating to at least 2018, records obtained by the AP show.
 
 
-### HOMICIDE on 2026-01-17 12:35
-- Location: The Times of India
-- Description: Set in Miami, The Rip centers on a Tactical Narcotics Team following the murder of one of their own ignites a federal investigation and internal suspicion. As pressure rises, detectives JD Byrne and Dane Dumars lead their unit on a late-day raid that finds a …
+### SHOOTING on 2026-01-17 18:14
+- Location: CBC News
+- Description: The federal government has unveiled the next steps in its national gun buyback program — and Canadians will have approximately two months to declare their interest in participating in order to receive compensation for turning in outlawed firearms.
 
 
-### SHOOTING on 2026-01-17 12:35
-- Location: The Punch
-- Description: Ogun State Police recovered an abandoned silver Toyota RAV4 Jeep in Abeokuta and are seeking the owner. The vehicle is suspected to have been stolen.
-
-Read More: https://punchng.com/photos-abandoned-vehicle-recovered-in-ogun-police-seek-owner/
+### SHOOTING on 2026-01-17 18:14
+- Location: CBC News
+- Description: The federal government has unveiled the next steps in its national gun buyback program — and Canadians will have about two months to declare their interest in participating in order to receive compensation for turning in outlawed firearms.
 
 
-### ROBBERY/THEFT on 2026-01-17 12:32
-- Location: Balloon-juice.com
-- Description: NYTimes has truly outdone itself with this latest in its "ask white guys in diner" genre. Thank goodness we get a perspective on what's happening in Minneapolis from people in **Nisswa** who probably mean Brainerd when they say they "prefer not to go the city…
+### OTHER on 2026-01-17 18:14
+- Location: Toronto Sun
+- Description: How Ben Affleck and Matt Damon got crew bonuses for 'The Rip'torontosun.com
 
 
-### OTHER on 2026-01-17 12:32
-- Location: Freerepublic.com
-- Description: A newly introduced bill that would bar former Immigration and Customs Enforcement agents from working in state and local law enforcement in Illinois is sparking intense debate, with supporters calling it a necessary accountability measure and critics warning …
+### OTHER on 2026-01-17 18:12
+- Location: Us Weekly
+- Description: Timothy Busfield has been accused of inappropriately touching two twin boys while working as a director on the set of The Cleaning Lady. The West Wing alum, 68, has not only denied the charges, but is insisting that the father of the alleged victims often enc…
 
-Analysis generated at: Sun Jan 18 12:50:46 UTC 2026
+Analysis generated at: Sun Jan 18 18:21:26 UTC 2026
