@@ -1,10 +1,10 @@
 
-Loaded 83424 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-18 06:00:00
+Loaded 83459 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-18 12:21:18
 
 Incidents by source:
 source
-newsapi           83323
+newsapi           83358
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,32 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2026-01-18 06:00
-- Location: Naturalnews.com
-- Description: British Transport Police data obtained through a Freedom of Information request shows that foreign nationals accounted for 79% of theft arrests on trains and about 40% of all railway arrests across Britain in 2025. Overall, foreign nationals were involved in …
+### OTHER on 2026-01-18 12:21
+- Location: The Punch
+- Description: The Lagos State Police Command is tackling a rise in fake kidnapping scams used to extort money. Learn about recent cases and how to avoid falling victim.
+
+Read More: https://punchng.com/police-crack-down-on-fake-kidnapping-scams-in-lagos/
 
 
-### OTHER on 2026-01-18 05:46
+### HOMICIDE on 2026-01-18 12:20
 - Location: Freerepublic.com
-- Description: During a summit hosted by the far-Left Empowerment Congress in Los Angeles, Swalwell told the crowd, “They’re going to lose their immunity. They’re not going to be able to drive. I will take your driver’s license.” “Good luck walking to work, assholes,” he ad…
+- Description: BREAKING: Another FBI Ten Most Wanted Fugitive has been captured. Alejandro Rosales Castillo - a Ten Most Wanted Fugitive since 2017 - was arrested in Mexico on Friday. He has been wanted on charges for the 2016 murder of his former coworker, 23 year old “San…
 
 
-### OTHER on 2026-01-18 05:20
-- Location: Lifesciencesworld.com
-- Description: Egged and Outraged: Can You Really Call the Cops for Someone Egging Your Car? Yes, you can call the cops for someone egging your car, as it’s often considered vandalism or property damage, potentially leading to charges depending on the severity and local law…
+### HOMICIDE on 2026-01-18 12:20
+- Location: Freerepublic.com
+- Description: BREAKING: Another FBI Ten Most Wanted Fugitive has been captured. Alejandro Rosales Castillo - a Ten Most Wanted Fugitive since 2017 - was arrested in Mexico on Friday. He has been wanted on charges for the 2016 murder of his former coworker, 23 year old “San…
 
 
-### HOMICIDE on 2026-01-18 05:15
-- Location: WMUR Manchester
-- Description: Neighbors share doorbell footage of alleged Maine murder suspect who was arrested in New Hampshirewmur.com
+### HOMICIDE on 2026-01-18 12:10
+- Location: Sky.com
+- Description: Officers were called to Catherine Gardens in Thorpe St Andrew, outside Norwich, just before 11.45pm on Saturday following reports of a woman injured in the street.
 
 
-### HOMICIDE on 2026-01-18 05:13
-- Location: Slashdot.org
-- Description: Shooting at Historic New Orleans Restaurant Leaves One Dead, Several WoundedThe New York Times Man killed, 3 women wounded as gunman enters Dooky Chase’s restaurant, police sayfox8live.com NOPD chief says suspect in Dooky Chase Restaurant shooting is on the r…
+### OTHER on 2026-01-18 12:09
+- Location: The Punch
+- Description: The Lagos State Police Command has activated a new CCTV surveillance centre to enhance security and provide real-time crime prevention across Lagos Island.
 
-Analysis generated at: Mon Jan 19 06:31:13 UTC 2026
+Read More: https://punchng.com/lagos-cctv-surveillance-centre-will-enhance-crime-prevention-police/
+
+Analysis generated at: Mon Jan 19 12:37:25 UTC 2026
