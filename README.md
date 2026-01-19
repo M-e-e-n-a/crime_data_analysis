@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Jan 19 02:10:54 UTC 2026
+Last updated: Mon Jan 19 06:31:13 UTC 2026
 
 ## Latest Analysis
 
-Loaded 83395 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-18 02:07:47
+Loaded 83424 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-18 06:00:00
 
 Incidents by source:
 source
-newsapi           83294
+newsapi           83323
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-01-18 02:07
-- Location: Japan Today
-- Description: Hundreds of anti-ICE protesters in Minneapolis chased off a small group of far-right activists who had vowed to march on a neighborhood where many immigrants live on Saturday, stoking tensions ‌in a city on edge after the killing of Renee Good by a federal im…
+### ROBBERY/THEFT on 2026-01-18 06:00
+- Location: Naturalnews.com
+- Description: British Transport Police data obtained through a Freedom of Information request shows that foreign nationals accounted for 79% of theft arrests on trains and about 40% of all railway arrests across Britain in 2025. Overall, foreign nationals were involved in …
 
 
-### OTHER on 2026-01-18 02:04
-- Location: Davidbordwell.net
-- Description: The Youth of Maxim (Grigoriy Kozintsev and Leonid Trauberg) Kristin here: As usual, this end-of-the-year entry has come out early in the next year. I was out of the country for six weeks recently, returning on December 27. It takes awhile to choose ten films,…
+### OTHER on 2026-01-18 05:46
+- Location: Freerepublic.com
+- Description: During a summit hosted by the far-Left Empowerment Congress in Los Angeles, Swalwell told the crowd, “They’re going to lose their immunity. They’re not going to be able to drive. I will take your driver’s license.” “Good luck walking to work, assholes,” he ad…
 
 
-### OTHER on 2026-01-18 02:03
-- Location: Japan Today
-- Description: Several dozen Guatemalan prison guards were being held hostage by inmates in three prisons Saturday following apparently coordinated disturbances, authorities said. Interior Minister Marco Antonio Villeda said he was willing to talk with the inmates, but woul…
+### OTHER on 2026-01-18 05:20
+- Location: Lifesciencesworld.com
+- Description: Egged and Outraged: Can You Really Call the Cops for Someone Egging Your Car? Yes, you can call the cops for someone egging your car, as it’s often considered vandalism or property damage, potentially leading to charges depending on the severity and local law…
 
 
-### HOMICIDE on 2026-01-18 02:00
-- Location: Legalinsurrection.com
-- Description: Pam Bondi: "We are prosecuting the monster, and we will seek the death penalty.”
-The post Feds To Seek Death Penalty In DC Murders of Two Israeli Embassy Staffers By “Pro-Palestinian” first appeared on Le·gal In·sur·rec·tion.
+### HOMICIDE on 2026-01-18 05:15
+- Location: WMUR Manchester
+- Description: Neighbors share doorbell footage of alleged Maine murder suspect who was arrested in New Hampshirewmur.com
 
 
-### SHOOTING on 2026-01-18 01:32
-- Location: Rlsbb.to
-- Description: Awards 3 wins & 10 nominations total See more awards » Plot: Shot documentary-style, this film follows the daily grind of two young police officers in LA who are partners and close friends. Genre: Action | Crime | DramaIMDB Rating Live: IMDB Rating: 7.6/10 Fr…
+### HOMICIDE on 2026-01-18 05:13
+- Location: Slashdot.org
+- Description: Shooting at Historic New Orleans Restaurant Leaves One Dead, Several WoundedThe New York Times Man killed, 3 women wounded as gunman enters Dooky Chase’s restaurant, police sayfox8live.com NOPD chief says suspect in Dooky Chase Restaurant shooting is on the r…
 
-Analysis generated at: Mon Jan 19 02:10:54 UTC 2026
+Analysis generated at: Mon Jan 19 06:31:13 UTC 2026
