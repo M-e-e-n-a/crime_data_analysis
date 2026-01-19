@@ -1,10 +1,10 @@
 
-Loaded 83381 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-17 18:18:59
+Loaded 83389 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-18 00:55:33
 
 Incidents by source:
 source
-newsapi           83280
+newsapi           83288
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-01-17 18:18
-- Location: HuffPost
-- Description: The DEA has amassed a detailed intelligence file on Rodríguez dating to at least 2018, records obtained by the AP show.
+### OTHER on 2026-01-18 00:55
+- Location: WJLA
+- Description: Shortly after being sworn in, Virginia Governor Abigail Spanberger signed 10 executive orders on affordability, education, and immigration.
 
 
-### SHOOTING on 2026-01-17 18:14
-- Location: CBC News
-- Description: The federal government has unveiled the next steps in its national gun buyback program — and Canadians will have approximately two months to declare their interest in participating in order to receive compensation for turning in outlawed firearms.
+### HOMICIDE on 2026-01-18 00:46
+- Location: The Punch
+- Description: Kano State Police are investigating the murder of a 35-year-old woman and her six children at their home in the Dorayi Chiranchi Quarters area.
+
+Read More: https://punchng.com/kano-community-mourns-murder-of-woman-six-children/
 
 
-### SHOOTING on 2026-01-17 18:14
-- Location: CBC News
-- Description: The federal government has unveiled the next steps in its national gun buyback program — and Canadians will have about two months to declare their interest in participating in order to receive compensation for turning in outlawed firearms.
+### OTHER on 2026-01-18 00:41
+- Location: New York Post
+- Description: Photos shared on social media show guardsmen lining up their Humvees and prepping their gear.
 
 
-### OTHER on 2026-01-17 18:14
-- Location: Toronto Sun
-- Description: How Ben Affleck and Matt Damon got crew bonuses for 'The Rip'torontosun.com
+### OTHER on 2026-01-18 00:35
+- Location: The Daily Caller
+- Description: Three workers at El Tapatio Mexican Restaurant served lunch to U.S. Immigration and Customs Enforcement (ICE) agents on Wednesday before being detained later.
 
 
-### OTHER on 2026-01-17 18:12
-- Location: Us Weekly
-- Description: Timothy Busfield has been accused of inappropriately touching two twin boys while working as a director on the set of The Cleaning Lady. The West Wing alum, 68, has not only denied the charges, but is insisting that the father of the alleged victims often enc…
+### OTHER on 2026-01-18 00:19
+- Location: ABC News (AU)
+- Description: The 41-year-old Belconnen man is charged in relation to the 15 pipe bombs found along the shore of Canberra's Lake Ginninderra this week.
 
-Analysis generated at: Sun Jan 18 18:21:26 UTC 2026
+Analysis generated at: Mon Jan 19 01:20:06 UTC 2026
