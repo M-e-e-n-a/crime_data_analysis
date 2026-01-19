@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Jan 19 13:00:51 UTC 2026
+Last updated: Mon Jan 19 18:24:54 UTC 2026
 
 ## Latest Analysis
 
-Loaded 83463 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-18 13:00:35
+Loaded 83521 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-18 18:07:51
 
 Incidents by source:
 source
-newsapi           83362
+newsapi           83420
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,32 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-01-18 13:00
-- Location: Fox News
-- Description: Professors fired for controversial posts about Charlie Kirk's assassination have been reinstated at their universities as the spring semester begins.
+### OTHER on 2026-01-18 18:07
+- Location: ABC News
+- Description: Gov.-elect Sherrill criticizes Trump’s focus on Greenland, says New Jerseyans are concerned about cost of livinggo.com
 
 
-### OTHER on 2026-01-18 13:00
-- Location: Fox News
-- Description: Hollywood royalty Kiefer Sutherland follows father Donald's footsteps with iconic roles in "Stand By Me," "24," and "Designated Survivor."
+### OTHER on 2026-01-18 18:02
+- Location: Digital Journal
+- Description: Uganda’s President Yoweri Museveni, fresh from winning a seventh term at age 81, said Sunday that the opposition were “terrorists” who had tried to use violence to overturn results. Official results showed Museveni winning a landslide with 72 percent from Thu…
 
 
-### ROBBERY/THEFT on 2026-01-18 12:45
-- Location: Whyevolutionistrue.com
-- Description: Welcome to the Sabbath that is made for cats, not cats for the Sabbath: it’s Sunday, January 18, 2026 and National Winnie The Pooh day, commemorating the birthday of A. A. Milne in 1882.  Christopher Robin Milne‘s stuffed toys that served as inspiration for t…
+### SHOOTING on 2026-01-18 18:00
+- Location: ComicBook.com
+- Description: Image Courtesy of DC Comics
+James Gunn has a lot of great ideas for the DCU, and it seems that he is pulling a lot of what he is doing from his love of comic books. The upcoming Supergirl movie is an adaptation of the Tom King and Bilquis Evely series Supergi…
 
 
-### OTHER on 2026-01-18 12:39
-- Location: The Punch
-- Description: IG Kayode Egbetokun clarifies that the 52 suspects arrested during the Ekpoma violence were involved in looting and vandalism, not peaceful protest.
-
-Read More: https://punchng.com/ekpoma-violence-52-suspects-arrested-not-peaceful-protesters-says-ig/
+### OTHER on 2026-01-18 17:50
+- Location: New York Post
+- Description: Minneapolis Mayor Jacob Frey decried the immigration crackdown on his city as an "invasion" by the federal government and fretted about the possibility of local cops clashing with the feds.
 
 
-### OTHER on 2026-01-18 12:21
-- Location: The Punch
-- Description: The Lagos State Police Command is tackling a rise in fake kidnapping scams used to extort money. Learn about recent cases and how to avoid falling victim.
+### HOMICIDE on 2026-01-18 17:50
+- Location: The Times of India
+- Description: A woman and her three children were found dead in Muzaffarpur, Bihar. Police suspect an illicit affair as a motive, arresting the woman's alleged lover. The husband also faces questioning over alleged domestic abuse. Investigations are ongoing to determine if…
 
-Read More: https://punchng.com/police-crack-down-on-fake-kidnapping-scams-in-lagos/
-
-Analysis generated at: Mon Jan 19 13:00:51 UTC 2026
+Analysis generated at: Mon Jan 19 18:24:54 UTC 2026
