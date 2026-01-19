@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Jan 19 12:37:25 UTC 2026
+Last updated: Mon Jan 19 13:00:51 UTC 2026
 
 ## Latest Analysis
 
-Loaded 83459 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-18 12:21:18
+Loaded 83463 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-18 13:00:35
 
 Incidents by source:
 source
-newsapi           83358
+newsapi           83362
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,32 +24,32 @@ bution.svg)
 
 ## Recent Incidents
 
+### OTHER on 2026-01-18 13:00
+- Location: Fox News
+- Description: Professors fired for controversial posts about Charlie Kirk's assassination have been reinstated at their universities as the spring semester begins.
+
+
+### OTHER on 2026-01-18 13:00
+- Location: Fox News
+- Description: Hollywood royalty Kiefer Sutherland follows father Donald's footsteps with iconic roles in "Stand By Me," "24," and "Designated Survivor."
+
+
+### ROBBERY/THEFT on 2026-01-18 12:45
+- Location: Whyevolutionistrue.com
+- Description: Welcome to the Sabbath that is made for cats, not cats for the Sabbath: it’s Sunday, January 18, 2026 and National Winnie The Pooh day, commemorating the birthday of A. A. Milne in 1882.  Christopher Robin Milne‘s stuffed toys that served as inspiration for t…
+
+
+### OTHER on 2026-01-18 12:39
+- Location: The Punch
+- Description: IG Kayode Egbetokun clarifies that the 52 suspects arrested during the Ekpoma violence were involved in looting and vandalism, not peaceful protest.
+
+Read More: https://punchng.com/ekpoma-violence-52-suspects-arrested-not-peaceful-protesters-says-ig/
+
+
 ### OTHER on 2026-01-18 12:21
 - Location: The Punch
 - Description: The Lagos State Police Command is tackling a rise in fake kidnapping scams used to extort money. Learn about recent cases and how to avoid falling victim.
 
 Read More: https://punchng.com/police-crack-down-on-fake-kidnapping-scams-in-lagos/
 
-
-### HOMICIDE on 2026-01-18 12:20
-- Location: Freerepublic.com
-- Description: BREAKING: Another FBI Ten Most Wanted Fugitive has been captured. Alejandro Rosales Castillo - a Ten Most Wanted Fugitive since 2017 - was arrested in Mexico on Friday. He has been wanted on charges for the 2016 murder of his former coworker, 23 year old “San…
-
-
-### HOMICIDE on 2026-01-18 12:20
-- Location: Freerepublic.com
-- Description: BREAKING: Another FBI Ten Most Wanted Fugitive has been captured. Alejandro Rosales Castillo - a Ten Most Wanted Fugitive since 2017 - was arrested in Mexico on Friday. He has been wanted on charges for the 2016 murder of his former coworker, 23 year old “San…
-
-
-### HOMICIDE on 2026-01-18 12:10
-- Location: Sky.com
-- Description: Officers were called to Catherine Gardens in Thorpe St Andrew, outside Norwich, just before 11.45pm on Saturday following reports of a woman injured in the street.
-
-
-### OTHER on 2026-01-18 12:09
-- Location: The Punch
-- Description: The Lagos State Police Command has activated a new CCTV surveillance centre to enhance security and provide real-time crime prevention across Lagos Island.
-
-Read More: https://punchng.com/lagos-cctv-surveillance-centre-will-enhance-crime-prevention-police/
-
-Analysis generated at: Mon Jan 19 12:37:25 UTC 2026
+Analysis generated at: Mon Jan 19 13:00:51 UTC 2026
