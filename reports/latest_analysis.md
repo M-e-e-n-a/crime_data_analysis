@@ -1,10 +1,10 @@
 
-Loaded 83389 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-18 00:55:33
+Loaded 83395 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-18 02:07:47
 
 Incidents by source:
 source
-newsapi           83288
+newsapi           83294
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,30 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-01-18 00:55
-- Location: WJLA
-- Description: Shortly after being sworn in, Virginia Governor Abigail Spanberger signed 10 executive orders on affordability, education, and immigration.
+### HOMICIDE on 2026-01-18 02:07
+- Location: Japan Today
+- Description: Hundreds of anti-ICE protesters in Minneapolis chased off a small group of far-right activists who had vowed to march on a neighborhood where many immigrants live on Saturday, stoking tensions ‌in a city on edge after the killing of Renee Good by a federal im…
 
 
-### HOMICIDE on 2026-01-18 00:46
-- Location: The Punch
-- Description: Kano State Police are investigating the murder of a 35-year-old woman and her six children at their home in the Dorayi Chiranchi Quarters area.
-
-Read More: https://punchng.com/kano-community-mourns-murder-of-woman-six-children/
+### OTHER on 2026-01-18 02:04
+- Location: Davidbordwell.net
+- Description: The Youth of Maxim (Grigoriy Kozintsev and Leonid Trauberg) Kristin here: As usual, this end-of-the-year entry has come out early in the next year. I was out of the country for six weeks recently, returning on December 27. It takes awhile to choose ten films,…
 
 
-### OTHER on 2026-01-18 00:41
-- Location: New York Post
-- Description: Photos shared on social media show guardsmen lining up their Humvees and prepping their gear.
+### OTHER on 2026-01-18 02:03
+- Location: Japan Today
+- Description: Several dozen Guatemalan prison guards were being held hostage by inmates in three prisons Saturday following apparently coordinated disturbances, authorities said. Interior Minister Marco Antonio Villeda said he was willing to talk with the inmates, but woul…
 
 
-### OTHER on 2026-01-18 00:35
-- Location: The Daily Caller
-- Description: Three workers at El Tapatio Mexican Restaurant served lunch to U.S. Immigration and Customs Enforcement (ICE) agents on Wednesday before being detained later.
+### HOMICIDE on 2026-01-18 02:00
+- Location: Legalinsurrection.com
+- Description: Pam Bondi: "We are prosecuting the monster, and we will seek the death penalty.”
+The post Feds To Seek Death Penalty In DC Murders of Two Israeli Embassy Staffers By “Pro-Palestinian” first appeared on Le·gal In·sur·rec·tion.
 
 
-### OTHER on 2026-01-18 00:19
-- Location: ABC News (AU)
-- Description: The 41-year-old Belconnen man is charged in relation to the 15 pipe bombs found along the shore of Canberra's Lake Ginninderra this week.
+### SHOOTING on 2026-01-18 01:32
+- Location: Rlsbb.to
+- Description: Awards 3 wins & 10 nominations total See more awards » Plot: Shot documentary-style, this film follows the daily grind of two young police officers in LA who are partners and close friends. Genre: Action | Crime | DramaIMDB Rating Live: IMDB Rating: 7.6/10 Fr…
 
-Analysis generated at: Mon Jan 19 01:20:06 UTC 2026
+Analysis generated at: Mon Jan 19 02:10:54 UTC 2026
