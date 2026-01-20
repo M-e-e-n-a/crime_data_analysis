@@ -1,10 +1,10 @@
 
-Loaded 83634 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-19 13:00:36
+Loaded 83715 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-19 18:18:40
 
 Incidents by source:
 source
-newsapi           83533
+newsapi           83614
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### DRUG RELATED on 2026-01-19 13:00
-- Location: Fox News
-- Description: Portland DA announces drug prosecution crackdown for those refusing treatment, contrasting sharply with Seattle's lenient approach to possession cases.
+### HOMICIDE on 2026-01-19 18:18
+- Location: The Times of India
+- Description: In 2025, the Goa police registered an average of 10 crime cases daily, including serious offenses such as murder and rape, with a detection rate remaining steady at 88%.
 
 
-### HOMICIDE on 2026-01-19 13:00
-- Location: The Denver Post
-- Description: "I want it to be known that this was murder," said Jade Toko, Caleb's mother.
+### OTHER on 2026-01-19 18:05
+- Location: The Jerusalem Post
+- Description: New electronic bracelets have been so far ineffective The IDF on Monday admitted that it failed in 2025 to sufficiently reduce the volume of Jewish extremist...
 
 
-### OTHER on 2026-01-19 13:00
-- Location: The Advocate
-- Description: While signs suggest that the federal government's Border Patrol-led south Louisiana operation has largely ended, the region's immigrant communities say that even as businesses re-open and people fearful of being deported breathe a sigh of relief, an undercurr…
+### OTHER on 2026-01-19 18:00
+- Location: ComicBook.com
+- Description: Image courtesy of HBO
+The television industry’s pivot toward the prestige model was solidified in the early 21st century as premium networks like HBO prioritized subscription-based depth over the advertiser-driven syndication of the past. This business strate…
 
 
-### OTHER on 2026-01-19 13:00
-- Location: NBC News
-- Description: VSCO filters, Kylie lip kits and the summer of Pokemon Go
+### HOMICIDE on 2026-01-19 17:48
+- Location: RT
+- Description: The story of the 1953 Iran coup that took six days, cost under $100,000, and left hundreds of Iranians dead Read Full Article at RT.com
 
 
-### HOMICIDE on 2026-01-19 12:56
-- Location: Fox News
-- Description: Florida man accused of randomly shooting three stranded tourists at Kissimmee rental home. Ahmad Bojeh arrested and charged with premeditated murder.
+### OTHER on 2026-01-19 17:44
+- Location: Freerepublic.com
+- Description: Desperate to generate events that will help push the fraud scandal out of the current news, Gov. Tim (D) and Mayor Jacob Frey (D) have been goading folks to continue their efforts to impede ICE's enforcement activities. Some of these efforts include: At an IC…
 
-Analysis generated at: Tue Jan 20 13:01:12 UTC 2026
+Analysis generated at: Tue Jan 20 18:29:04 UTC 2026
