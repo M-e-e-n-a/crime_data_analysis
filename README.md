@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Jan 19 18:24:54 UTC 2026
+Last updated: Tue Jan 20 01:15:23 UTC 2026
 
 ## Latest Analysis
 
-Loaded 83521 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-18 18:07:51
+Loaded 83539 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-19 01:06:32
 
 Incidents by source:
 source
-newsapi           83420
+newsapi           83438
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,35 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-01-18 18:07
-- Location: ABC News
-- Description: Gov.-elect Sherrill criticizes Trump’s focus on Greenland, says New Jerseyans are concerned about cost of livinggo.com
+### OTHER on 2026-01-19 01:06
+- Location: The Punch
+- Description: Police in Oyo State nabbed a man with suspected human parts on the Lagos-Ibadan Expressway during a routine stop-and-search operation.
+
+Read More: https://punchng.com/man-nabbed-with-human-parts-on-lagos-ibadan-expressway-2/
 
 
-### OTHER on 2026-01-18 18:02
-- Location: Digital Journal
-- Description: Uganda’s President Yoweri Museveni, fresh from winning a seventh term at age 81, said Sunday that the opposition were “terrorists” who had tried to use violence to overturn results. Official results showed Museveni winning a landslide with 72 percent from Thu…
+### HOMICIDE on 2026-01-19 01:06
+- Location: The Punch
+- Description: The NDLEA has arrested drug kingpin Lekan Jimoh, who was wanted for 12 years for his alleged role in the killing of three anti-drug officers in 2014.
+
+Read More: https://punchng.com/suspect-linked-to-2014-ndlea-officers-killings-arrested-in-ogun/
 
 
-### SHOOTING on 2026-01-18 18:00
-- Location: ComicBook.com
-- Description: Image Courtesy of DC Comics
-James Gunn has a lot of great ideas for the DCU, and it seems that he is pulling a lot of what he is doing from his love of comic books. The upcoming Supergirl movie is an adaptation of the Tom King and Bilquis Evely series Supergi…
+### OTHER on 2026-01-19 00:51
+- Location: The Punch
+- Description: Nasarawa police conduct an anti-trafficking operation, rescuing 17 minors from a vehicle in Karu. The victims were allegedly being lured to Kwara State.
+
+Read More: https://punchng.com/anti-trafficking-operation-rescues-17-victims-in-nasarawa/
 
 
-### OTHER on 2026-01-18 17:50
-- Location: New York Post
-- Description: Minneapolis Mayor Jacob Frey decried the immigration crackdown on his city as an "invasion" by the federal government and fretted about the possibility of local cops clashing with the feds.
+### ROBBERY/THEFT on 2026-01-19 00:48
+- Location: BBC News
+- Description: As crypto wealth continues to grow, criminals are mixing sophisticated hacks with deception, and in some cases, real life violence.
 
 
-### HOMICIDE on 2026-01-18 17:50
-- Location: The Times of India
-- Description: A woman and her three children were found dead in Muzaffarpur, Bihar. Police suspect an illicit affair as a motive, arresting the woman's alleged lover. The husband also faces questioning over alleged domestic abuse. Investigations are ongoing to determine if…
+### HOMICIDE on 2026-01-19 00:42
+- Location: Mediaite
+- Description: Minneapolis Police Chief Brian O'Hara questioned the actions of the ICE agent who shot and killed protester Renee Good during an interview with 60 Minutes
+The post Minneapolis Police Chief Questions ICE Agent Who Shot Renee Good — Tells 60 Minutes He Violated…
 
-Analysis generated at: Mon Jan 19 18:24:54 UTC 2026
+Analysis generated at: Tue Jan 20 01:15:23 UTC 2026
