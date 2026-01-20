@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Jan 20 12:38:00 UTC 2026
+Last updated: Tue Jan 20 13:01:12 UTC 2026
 
 ## Latest Analysis
 
-Loaded 83624 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-19 12:23:52
+Loaded 83634 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-19 13:00:36
 
 Incidents by source:
 source
-newsapi           83523
+newsapi           83533
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-01-19 12:23
-- Location: Us Weekly
-- Description: The best new movies and TV shows to watch the week of January 19-23 include 'The Smashing Machine,' a Bruce Springsteen biopic and more
+### DRUG RELATED on 2026-01-19 13:00
+- Location: Fox News
+- Description: Portland DA announces drug prosecution crackdown for those refusing treatment, contrasting sharply with Seattle's lenient approach to possession cases.
 
 
-### ROBBERY/THEFT on 2026-01-19 12:17
-- Location: Latest News in Nigeria & Breaking Naija News 24/7 | LEGIT.NG
-- Description: Regina Daniels' brother reveals they introduced Ned Nwoko to Instagram amid feud and $40k theft claims, sparking online buzz and public reactions.
+### HOMICIDE on 2026-01-19 13:00
+- Location: The Denver Post
+- Description: "I want it to be known that this was murder," said Jade Toko, Caleb's mother.
 
 
-### OTHER on 2026-01-19 12:00
-- Location: Foreign Policy
-- Description: Trump has shown how democracy can be neutralized without being destroyed.
+### OTHER on 2026-01-19 13:00
+- Location: The Advocate
+- Description: While signs suggest that the federal government's Border Patrol-led south Louisiana operation has largely ended, the region's immigrant communities say that even as businesses re-open and people fearful of being deported breathe a sigh of relief, an undercurr…
 
 
-### OTHER on 2026-01-19 12:00
-- Location: The Atlantic
-- Description: In 1963, Martin Luther King, Jr. outlined a strategy to expose official brutality. Anti-ICE protesters are following it—and it’s working.
+### OTHER on 2026-01-19 13:00
+- Location: NBC News
+- Description: VSCO filters, Kylie lip kits and the summer of Pokemon Go
 
 
-### OTHER on 2026-01-19 11:55
-- Location: Nakedcapitalism.com
-- Description: Our daily links, including troops on standby for Minnesota—or Greenland, fearing a (Chinese) cure for cancer, and record wealth for billionaires.
+### HOMICIDE on 2026-01-19 12:56
+- Location: Fox News
+- Description: Florida man accused of randomly shooting three stranded tourists at Kissimmee rental home. Ahmad Bojeh arrested and charged with premeditated murder.
 
-Analysis generated at: Tue Jan 20 12:38:00 UTC 2026
+Analysis generated at: Tue Jan 20 13:01:12 UTC 2026
