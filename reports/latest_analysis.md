@@ -1,10 +1,10 @@
 
-Loaded 83539 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-19 01:06:32
+Loaded 83543 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-19 02:04:01
 
 Incidents by source:
 source
-newsapi           83438
+newsapi           83442
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,11 +20,24 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-01-19 01:06
-- Location: The Punch
-- Description: Police in Oyo State nabbed a man with suspected human parts on the Lagos-Ibadan Expressway during a routine stop-and-search operation.
+### HOMICIDE on 2026-01-19 02:04
+- Location: ABC News (AU)
+- Description: Hundreds of statements gathered in murder case against Tanika Bromley.
 
-Read More: https://punchng.com/man-nabbed-with-human-parts-on-lagos-ibadan-expressway-2/
+
+### SHOOTING on 2026-01-19 02:02
+- Location: ABC News (AU)
+- Description: Damien Paul O'Brien was arrested in Gungahlin on Saturday night after officers attached to ACT Policing allegedly found items used to assemble pipe bombs during a search of his Belconnen home earlier in the day.
+
+
+### OTHER on 2026-01-19 01:44
+- Location: ABC News
+- Description: Bridget and Mark Rogers are brought together by Indiana University football, and for them it's more.
+
+
+### SHOOTING on 2026-01-19 01:20
+- Location: ABC News (AU)
+- Description: A 16-year-old boy died after being found by officers who heard gunshots near the Fitzroy Police Station earlier this month.
 
 
 ### HOMICIDE on 2026-01-19 01:06
@@ -33,22 +46,4 @@ Read More: https://punchng.com/man-nabbed-with-human-parts-on-lagos-ibadan-expre
 
 Read More: https://punchng.com/suspect-linked-to-2014-ndlea-officers-killings-arrested-in-ogun/
 
-
-### OTHER on 2026-01-19 00:51
-- Location: The Punch
-- Description: Nasarawa police conduct an anti-trafficking operation, rescuing 17 minors from a vehicle in Karu. The victims were allegedly being lured to Kwara State.
-
-Read More: https://punchng.com/anti-trafficking-operation-rescues-17-victims-in-nasarawa/
-
-
-### ROBBERY/THEFT on 2026-01-19 00:48
-- Location: BBC News
-- Description: As crypto wealth continues to grow, criminals are mixing sophisticated hacks with deception, and in some cases, real life violence.
-
-
-### HOMICIDE on 2026-01-19 00:42
-- Location: Mediaite
-- Description: Minneapolis Police Chief Brian O'Hara questioned the actions of the ICE agent who shot and killed protester Renee Good during an interview with 60 Minutes
-The post Minneapolis Police Chief Questions ICE Agent Who Shot Renee Good — Tells 60 Minutes He Violated…
-
-Analysis generated at: Tue Jan 20 01:15:23 UTC 2026
+Analysis generated at: Tue Jan 20 02:05:48 UTC 2026
