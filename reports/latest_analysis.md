@@ -1,10 +1,10 @@
 
-Loaded 83736 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-20 02:00:41
+Loaded 83768 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-20 06:19:31
 
 Incidents by source:
 source
-newsapi           83635
+newsapi           83667
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-01-20 02:00
-- Location: Legalinsurrection.com
-- Description: "Hands Up, Don't Shoot" from the Michael Brown case was the lie that gave birth to the BLM movement, and now has been adopted by the anti-ICE movement.
-The post Anti-ICE Church Invaders Chanted Fabricated BLM “Hands Up, Don’t Shoot” Slogan first appeared on L…
+### SHOOTING on 2026-01-20 06:19
+- Location: Japan Today
+- Description: Federal immigration agents forced open a door and detained a U.S. citizen in his Minnesota home at gunpoint without a warrant, then led him out onto the streets in his underwear in subfreezing conditions, according to his family and videos reviewed by The Ass…
 
 
-### OTHER on 2026-01-20 01:51
-- Location: The Times of India
-- Description: A video allegedly showing Karnataka DGP K Ramachandra Rao in a compromising position with women has gone viral. Rao has denied the authenticity of the videos, calling them fabricated. Chief Minister Siddaramaiah has ordered an investigation, stating that no o…
+### HOMICIDE on 2026-01-20 06:13
+- Location: The Irish Times
+- Description: Plus: The impact of the Greenland crisis on Ireland, sika deer, and a double murderer’s confession tape
 
 
-### OTHER on 2026-01-20 01:31
-- Location: The Times of India
-- Description: US President Donald Trump has ignited an international firestorm by demanding "Complete and Total Control of Greenland," linking this aggressive stance to Norway's decision not to award him the Nobel Peace Prize. This declaration, made in a private message, e…
+### HOMICIDE on 2026-01-20 06:00
+- Location: Naturalnews.com
+- Description: The FBI has captured five of its ten most wanted fugitives within the first year of Trump’s second term, surpassing the total arrests made during Biden’s entire four-year presidency. FBI Director Kash Patel credits Trump’s administration for enabling a revita…
 
 
-### SHOOTING on 2026-01-20 01:12
-- Location: CBC News
-- Description: As another suspected extortion-related shooting was reported in Surrey, B.C., on Monday, police have said they've received 34 reports of extortion in the first 19 days of the year.
+### OTHER on 2026-01-20 05:58
+- Location: ABC News (AU)
+- Description: Australian Federal Police allege Billal Chami submitted claims for supports and services never provided to participants.
 
 
-### OTHER on 2026-01-20 01:08
-- Location: The Times of India
-- Description: MUMBAI: An auto driver was injured after a Mercedes rammed into the threewheeler at Juhu on Monday. The auto, in turn, rammed into a car that was pilo.
+### HOMICIDE on 2026-01-20 05:32
+- Location: The Indian Express
+- Description: Sanatan Sanstha member Sameer Gaikwad passed away in Sangli. He had filed a discharge application before the court, which was pending.
 
-Analysis generated at: Wed Jan 21 02:08:36 UTC 2026
+Analysis generated at: Wed Jan 21 06:29:19 UTC 2026
