@@ -1,10 +1,10 @@
 
-Loaded 83842 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-20 12:35:00
+Loaded 83850 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-20 13:00:17
 
 Incidents by source:
 source
-newsapi           83741
+newsapi           83749
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-01-20 12:35
-- Location: The Star Online
-- Description: KUANTAN: The Pahang Malaysian Anti-Corruption Commission (MACC) has secured a remand order for a female police officer who holds the rank of Inspector and her younger brother for allegedly soliciting and receiving bribes totalling about RM30,000. Read full st…
+### OTHER on 2026-01-20 13:00
+- Location: HuffPost
+- Description: From his creation of a ‘papers-please’ police force to unilateral military actions to his disregard of court orders, even those who warned it would happen are alarmed.
 
 
-### OTHER on 2026-01-20 12:33
-- Location: Yahoo Entertainment
-- Description: President Donald Trump promised the largest mass deportation operation in U.S. history, but achieving his goal wouldn't have been possible without funding...
+### OTHER on 2026-01-20 12:50
+- Location: Raw Story
+- Description: Nebraska mom Jamie Bonkiewicz filmed her interaction with Secret Service agents and police who came to her door because of a tweet.“The Secret Service came to my door today because of a tweet. No threats. No violence. Just words. That’s where we are now.”Mean…
 
 
-### HOMICIDE on 2026-01-20 12:32
-- Location: Digital Journal
-- Description: Australia passed tougher hate crime and gun laws Tuesday, weeks after gunmen targeting a Jewish festival on Bondi Beach killed 15 people. Lawmakers in both houses of parliament voted in favour of the legislation in response to the December 14 shooting at Sydn…
+### OTHER on 2026-01-20 12:49
+- Location: ABC News
+- Description: Russia's Far Eastern Kamchatka Peninsula saw its biggest snow fall in 60 years.
 
 
-### OTHER on 2026-01-20 12:30
-- Location: The Atlantic
-- Description: The president’s party has total control of government—but not what Americans care about.
+### OTHER on 2026-01-20 12:44
+- Location: ABC News
+- Description: Sand dunes in the Sahara Desert got turned an unusual shade this week, after receiving a rare dusting of snow.
 
 
-### OTHER on 2026-01-20 12:26
-- Location: The New Republic
-- Description: The following is a lightly edited transcript of the January 20 episode of TheDaily Blast podcast. Listen to it here.Editor’s note: After we recorded this episode, Trump kept raging about protests in Minneapolis. He seethed about jailing Minnesota Congresswoma…
+### OTHER on 2026-01-20 12:44
+- Location: ABC News
+- Description: Enthusiasts in Russia were not deterred by the -40 degree Celsius conditions as they took to the River Ob.
 
-Analysis generated at: Wed Jan 21 12:37:59 UTC 2026
+Analysis generated at: Wed Jan 21 13:00:45 UTC 2026
