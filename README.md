@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Jan 21 13:00:45 UTC 2026
+Last updated: Wed Jan 21 18:36:08 UTC 2026
 
 ## Latest Analysis
 
-Loaded 83850 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-20 13:00:17
+Loaded 83939 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-20 18:34:32
 
 Incidents by source:
 source
-newsapi           83749
+newsapi           83838
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-01-20 13:00
-- Location: HuffPost
-- Description: From his creation of a ‘papers-please’ police force to unilateral military actions to his disregard of court orders, even those who warned it would happen are alarmed.
+### ASSAULT on 2026-01-20 18:34
+- Location: Fox News
+- Description: As gang violence escalates, the U.S. Embassy has issued a security alert for Americans in Guatemala. Travelers have been advised to use increased caution.
 
 
-### OTHER on 2026-01-20 12:50
-- Location: Raw Story
-- Description: Nebraska mom Jamie Bonkiewicz filmed her interaction with Secret Service agents and police who came to her door because of a tweet.“The Secret Service came to my door today because of a tweet. No threats. No violence. Just words. That’s where we are now.”Mean…
+### SHOOTING on 2026-01-20 18:25
+- Location: PBS
+- Description: The gun laws introduce new restrictions and a government-funded buyback program. The anti-hate speech laws allow for groups not classified as terrorist organizations, like Hizb ut-Tahrir, to be banned.
 
 
-### OTHER on 2026-01-20 12:49
-- Location: ABC News
-- Description: Russia's Far Eastern Kamchatka Peninsula saw its biggest snow fall in 60 years.
+### SHOOTING on 2026-01-20 18:19
+- Location: Journal & Courier
+- Description: Tippecanoe County employees returned to work Tuesday, but things felt different in the wake of Sunday's shootings of Judge Steve Meyer and his wife, Kim.
 
 
-### OTHER on 2026-01-20 12:44
-- Location: ABC News
-- Description: Sand dunes in the Sahara Desert got turned an unusual shade this week, after receiving a rare dusting of snow.
+### ROBBERY/THEFT on 2026-01-20 18:18
+- Location: ABC News (AU)
+- Description: Data shows more than 2,000 items were reported stolen from gardens over a year in one state alone. So what can plant owners do to protect their beloved greenery from theft?
 
 
-### OTHER on 2026-01-20 12:44
-- Location: ABC News
-- Description: Enthusiasts in Russia were not deterred by the -40 degree Celsius conditions as they took to the River Ob.
+### ROBBERY/THEFT on 2026-01-20 18:16
+- Location: CBC News
+- Description: The Surrey Police Service says it's investigating after a business and multiple vehicles were damaged by bullets in the Newton neighbourhood early Tuesday morning. Police say it's the 35th suspected extortion case so far this year.
 
-Analysis generated at: Wed Jan 21 13:00:45 UTC 2026
+Analysis generated at: Wed Jan 21 18:36:08 UTC 2026
