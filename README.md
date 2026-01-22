@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Jan 22 02:09:39 UTC 2026
+Last updated: Thu Jan 22 06:27:43 UTC 2026
 
 ## Latest Analysis
 
-Loaded 83960 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-21 01:55:15
+Loaded 83989 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-21 06:03:34
 
 Incidents by source:
 source
-newsapi           83859
+newsapi           83888
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-01-21 01:55
-- Location: BBC News
-- Description: The Emmy-winning actor is accused of sexually abusing two boys on the set of a TV series he directed and produced.
+### OTHER on 2026-01-21 06:03
+- Location: Thechronicle.com.gh
+- Description: The Adamawa State Police Command has deployed a new Divisional Police Officer (DPO) to take charge of Yolde Pate and Sabon Hanya, two neighbouring communities in Yola South Local Government Area. The command has also reinforced security presence in the commun…
 
 
-### OTHER on 2026-01-21 01:53
-- Location: WSB Atlanta
-- Description: Clayton County teen at center of manhunt surrenderswsbtv.com
+### ROBBERY/THEFT on 2026-01-21 06:00
+- Location: Naturalnews.com
+- Description: Introduction: A Conviction, Not a Cure Six individuals have been sentenced to federal prison, with the ringleader receiving a 13.5-year term, for a multi-state conspiracy to hijack tractor-trailers loaded with millions in high-end electronics and merchandise …
 
 
-### SHOOTING on 2026-01-21 01:51
-- Location: Freerepublic.com
-- Description: “PORTLAND, Ore. (KATU) — Someone shot and wounded two Portland police officers Monday night in the Sullivan's Gulch neighborhood of Northeast Portland, prompting a massive police response as officers searched for the shooter. The two officers were in stable c…
+### OTHER on 2026-01-21 05:58
+- Location: The Conversation Africa
+- Description: The new laws, which allow ‘hate’ groups to be banned, could also potentially affect people wanting to make legitimate criticisms of a foreign government.
 
 
-### OTHER on 2026-01-21 01:50
-- Location: Crimethinc.com
-- Description: Anarchists from Germany explore how events in German history should inform those who are resisting the consolidation of authoritarian power in the US today.
-
-
-### HOMICIDE on 2026-01-21 01:47
+### HOMICIDE on 2026-01-21 05:54
 - Location: New York Post
-- Description: Becker High School social studies teacher Dr. Heather Abrahamson is seen growing increasingly agitated as she insists that ICE agent Jonathan Ross used unnecessary deadly force against Renee Good.
+- Description: Investigators revealed the alleged murderous mom may be linked to more mysterious deaths at a bond hearing Tuesday.
 
-Analysis generated at: Thu Jan 22 02:09:39 UTC 2026
+
+### ASSAULT on 2026-01-21 05:48
+- Location: ABC News (AU)
+- Description: Police investigate fires at two NSW Central Coast Pilates studios, one of which was destroyed by fire less than a year ago.
+
+Analysis generated at: Thu Jan 22 06:27:43 UTC 2026
