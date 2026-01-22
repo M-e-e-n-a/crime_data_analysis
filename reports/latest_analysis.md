@@ -1,10 +1,10 @@
 
-Loaded 84059 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-21 12:30:00
+Loaded 84064 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-21 13:00:17
 
 Incidents by source:
 source
-newsapi           83958
+newsapi           83963
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-01-21 12:30
-- Location: GlobeNewswire
-- Description: Warren County Sheriff's Office deployed WRAP Reality VR training system for recruit training, field training, and professional development programs....
+### OTHER on 2026-01-21 13:00
+- Location: SoraNews24
+- Description: The question of how to respond to the Japanese police’s quasi-random on-the-street questioning is a complex one, but this isn’t the answer. Many residents would say that Japan is, by a lot of objective metrics and subjective judgments, a pretty great place to…
 
 
-### OTHER on 2026-01-21 12:30
-- Location: The Atlantic
-- Description: Matt Damon and Ben Affleck’s latest movie doesn’t quite understand their brotherly appeal.
+### HOMICIDE on 2026-01-21 12:48
+- Location: The Indian Express
+- Description: The Fazilka police said they intercepted gangster Preetpal Singh as part of the Punjab Government’s ‘War Against Gangsters’ campaign.
 
 
-### OTHER on 2026-01-21 12:21
-- Location: GlobeNewswire
-- Description: The civilian less lethal and self-defense weapons market offers significant opportunities driven by rising urban safety concerns, innovation in smart defensive devices, increased e-commerce distribution, and expanding product lines for women. Growing crime ra…
+### ASSAULT on 2026-01-21 12:43
+- Location: CBC News
+- Description: A 25-year-old Brampton man has been arrested in connection to a fatal assault at a Brampton parking lot last week, said Peel police.
 
 
-### OTHER on 2026-01-21 12:20
-- Location: Boredpanda.com
-- Description: When Victoria Jones was arrested last October, officials found a personal detail that is now shedding new light on her final months.
+### OTHER on 2026-01-21 12:39
+- Location: ABC News
+- Description: The chopper was in the air for about 10 minutes over Utah before it spun out of control, descending and slamming into trees, injuring one person and three others evacuated from the wreckage.
 
 
-### SHOOTING on 2026-01-21 12:17
-- Location: The Times of India
-- Description: The fatal shooting of 37-year-old Renee Nicole Good by an ICE officer in Minneapolis has resulted in intense scrutiny. Minnesota Public Radio (MPR) News analysis disclosed that Good had a pulse, stated as “thready and irregular”, six minutes following the inc…
+### DRUG RELATED on 2026-01-21 12:36
+- Location: CBS News
+- Description: Authorities dismantled 24 industrial-scale labs and seized around 1,000 tons of chemicals used to make street drugs such as MDMA, amphetamine and meth.
 
-Analysis generated at: Thu Jan 22 12:36:41 UTC 2026
+Analysis generated at: Thu Jan 22 13:01:27 UTC 2026
