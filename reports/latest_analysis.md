@@ -1,10 +1,10 @@
 
-Loaded 83939 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-20 18:34:32
+Loaded 83952 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-21 01:14:01
 
 Incidents by source:
 source
-newsapi           83838
+newsapi           83851
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2026-01-20 18:34
-- Location: Fox News
-- Description: As gang violence escalates, the U.S. Embassy has issued a security alert for Americans in Guatemala. Travelers have been advised to use increased caution.
+### ROBBERY/THEFT on 2026-01-21 01:14
+- Location: New York Post
+- Description: Tavano allegedly swindled multiple men of thousands of dollars and pricey designer luxury goods after gaining their trust “under the pretense of consensual activity,” police wrote
 
 
-### SHOOTING on 2026-01-20 18:25
+### OTHER on 2026-01-21 01:07
+- Location: Santa Rosa Press Democrat
+- Description: The Free America Walkout took place on the anniversary of Donald Trump’s inauguration as president. Demonstrations in Santa Rosa, Petaluma and Napa joined others happening nationwide.
+
+
+### OTHER on 2026-01-21 00:54
 - Location: PBS
-- Description: The gun laws introduce new restrictions and a government-funded buyback program. The anti-hate speech laws allow for groups not classified as terrorist organizations, like Hizb ut-Tahrir, to be banned.
+- Description: ICE and Border Patrol officers have used aggressive tactics during the recent crackdown in Minnesota, including breaking down the door of a family's home without a judicial warrant and pulling people from vehicles.
 
 
-### SHOOTING on 2026-01-20 18:19
-- Location: Journal & Courier
-- Description: Tippecanoe County employees returned to work Tuesday, but things felt different in the wake of Sunday's shootings of Judge Steve Meyer and his wife, Kim.
+### OTHER on 2026-01-21 00:47
+- Location: Bleeding Cool News
+- Description: If there's anything Night Patrol stars in RJ Cyler (The Harder They Fall), Nicki Micheaux (Ballard), and Freddie Gibbs (Power Book IV: Force) know what to do as actors is to live in the moment and have fun, especially when they have someone as creatively open…
 
 
-### ROBBERY/THEFT on 2026-01-20 18:18
-- Location: ABC News (AU)
-- Description: Data shows more than 2,000 items were reported stolen from gardens over a year in one state alone. So what can plant owners do to protect their beloved greenery from theft?
+### OTHER on 2026-01-21 00:43
+- Location: The Daily Caller
+- Description: Tom Homan said Tuesday that federal immigration agents may briefly detain a U.S. citizen during an enforcement operation if officers have reasonable suspicion.
 
-
-### ROBBERY/THEFT on 2026-01-20 18:16
-- Location: CBC News
-- Description: The Surrey Police Service says it's investigating after a business and multiple vehicles were damaged by bullets in the Newton neighbourhood early Tuesday morning. Police say it's the 35th suspected extortion case so far this year.
-
-Analysis generated at: Wed Jan 21 18:36:08 UTC 2026
+Analysis generated at: Thu Jan 22 01:17:37 UTC 2026
