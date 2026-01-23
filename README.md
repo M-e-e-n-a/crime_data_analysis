@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Jan 23 12:58:30 UTC 2026
+Last updated: Fri Jan 23 18:25:51 UTC 2026
 
 ## Latest Analysis
 
-Loaded 84323 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-22 12:31:26
+Loaded 84410 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-22 18:10:19
 
 Incidents by source:
 source
-newsapi           84222
+newsapi           84309
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,34 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-01-22 12:31
-- Location: New York Post
-- Description: “This horrific violence will not shake my belief in the importance of peacefully resolving disputes,” Judge Steven Meyer said defiantly.
+### OTHER on 2026-01-22 18:10
+- Location: PBS
+- Description: The U.S. Army has ordered several dozen additional active-duty soldiers to prepare for a possible deployment to Minneapolis if needed, a defense official said Wednesday, amid protests over the Trump administration's immigration enforcement crackdown.
 
 
-### SHOOTING on 2026-01-22 12:24
-- Location: Celebitchy.com
-- Description: This weekend, there was a big exclusive about the degenerate formerly known as Prince Andrew. It feels like people care less about this Andrew Mountbatten-Windsor situation right now, mostly because the royal establishment has made it clear that they’re still…
+### OTHER on 2026-01-22 18:01
+- Location: Us Weekly
+- Description: The Cleaning Lady hairstylist Danielle Vigil has denied observing anything “unprofessional, inappropriate or sexual” between Timothy Busfield and the twin boys who starred on the show in a new declaration obtained exclusively by Us Weekly. “The detective did …
 
 
-### HOMICIDE on 2026-01-22 12:20
-- Location: Premium Times
-- Description: Authorities in Kano are currently prosecuting several individuals linked to several killings. Particularly tragic is the impact on minors, who were the most affected in two of the three latest attacks.
+### SHOOTING on 2026-01-22 18:00
+- Location: Variety
+- Description: For an indie filmmaker, there can be a lot of advantages to filming in your own home: No need for permits, no time restrictions, and you can manipulate the surroundings any way you wish. When Ian Tuason was preparing his directorial debut, “Undertone,” it was…
 
 
-### SHOOTING on 2026-01-22 12:15
-- Location: WFTV Orlando
-- Description: Adrian Gonzales, the first officer to arrive at Robb Elementary School on May 24, 2022, was acquitted of 29 counts of abandoning and endangering children.
+### HOMICIDE on 2026-01-22 17:59
+- Location: Israelnationalnews.com
+- Description: Med school graduate involved in deadly criminal Negev shooting arrested in Ramallah.
 
 
-### ROBBERY/THEFT on 2026-01-22 12:12
-- Location: BBC News
-- Description: Doorbell footage caught the delivery man picking up the cat and walking off from a house in Elland.
+### OTHER on 2026-01-22 17:58
+- Location: TheStranger.com
+- Description: The Stranger's morning news roundup.
+ 
+ by Micah Yip
+ 
+ 
+ 
+ ICE Detains a 5-Year-Old near Minneapolis: And tried to use him as bait to catch his family. On Tuesday, Liam Conejo Ramos had just been picked up from school when masked agents apprehended him and h…
 
-Analysis generated at: Fri Jan 23 12:58:30 UTC 2026
+Analysis generated at: Fri Jan 23 18:25:51 UTC 2026
