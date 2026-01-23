@@ -1,10 +1,10 @@
 
-Loaded 84200 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-22 02:02:02
+Loaded 84248 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-22 06:23:55
 
 Incidents by source:
 source
-newsapi           84099
+newsapi           84147
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-01-22 02:02
-- Location: Page Six
-- Description: Akiva called Page Six to sound the alarm on a friend who was allegedly scamming his pals before his arrest.
+### OTHER on 2026-01-22 06:23
+- Location: Dailyutahchronicle.com
+- Description: The University of Utah Public Safety Dashboard displays campus crimes in the area where they occur, the total number of arrests and the category of the case. The Fall 2025 semester reported approximately 1,500 cases, 25,800 dispatch calls and 94 total arrests…
 
 
-### OTHER on 2026-01-22 01:56
-- Location: The Times of India
-- Description: Reports of a surge in immigration arrests have struck fear in immigrant communities of Portland and Lewiston and prompted backlash from Gov. Janet Mills and other Democrats, including a refusal to help ICE agents obscure the identity of their vehicles by issu…
+### HOMICIDE on 2026-01-22 06:10
+- Location: The-independent.com
+- Description: Rebecca Ferguson co-stars in a film in which any promising idea leads to a dead end
 
 
-### HOMICIDE on 2026-01-22 01:53
-- Location: Freerepublic.com
-- Description: A San Jose police officer was shot and taken to the hospital Wednesday following a pursuit involving a carjacking suspect, according to authorities. A suspect is dead, and a San Jose police sergeant was taken to the hospital Wednesday following a multi-county…
+### HOMICIDE on 2026-01-22 06:03
+- Location: BBC News
+- Description: Peter Sullivan spent 38 years in prison for the murder of Diane Sindall before being cleared in 2025.
 
 
-### HOMICIDE on 2026-01-22 01:53
-- Location: Freerepublic.com
-- Description: A San Jose police officer was shot and taken to the hospital Wednesday following a pursuit involving a carjacking suspect, according to authorities. A suspect is dead, and a San Jose police sergeant was taken to the hospital Wednesday following a multi-county…
+### OTHER on 2026-01-22 06:00
+- Location: Smallwarsjournal.com
+- Description: A Battlefield Commander’s Warning: Venezuela’s Political Transition Offers Hope, But the Shadows of Iraq Reveal Risks We Cannot Ignore In April 2003, I commanded Task Force 2-7 when we destroyed the Iraqi Republican Guard at Baghdad International Airport and …
 
 
-### HOMICIDE on 2026-01-22 01:52
-- Location: Bleeding Cool News
-- Description: Mercy takes an interesting premise and removes all the interesting parts, making it the first frustrating film experience of 2026. Chris Pratt is horribly miscast as a father who has 90 minutes to prove that he is not responsible for the murder of his wife, o…
+### HOMICIDE on 2026-01-22 06:00
+- Location: Newser
+- Description: A former Uvalde police officer was acquitted Wednesday of charges that he failed in his duties to confront the gunman at Robb Elementary during the critical first minutes of one of the deadliest school shootings in US history, the AP reports. Jurors deliberat…
 
-Analysis generated at: Fri Jan 23 02:05:32 UTC 2026
+Analysis generated at: Fri Jan 23 06:27:13 UTC 2026
