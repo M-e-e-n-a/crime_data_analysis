@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Jan 23 06:27:13 UTC 2026
+Last updated: Fri Jan 23 12:35:42 UTC 2026
 
 ## Latest Analysis
 
-Loaded 84248 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-22 06:23:55
+Loaded 84323 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-22 12:31:26
 
 Incidents by source:
 source
-newsapi           84147
+newsapi           84222
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-01-22 06:23
-- Location: Dailyutahchronicle.com
-- Description: The University of Utah Public Safety Dashboard displays campus crimes in the area where they occur, the total number of arrests and the category of the case. The Fall 2025 semester reported approximately 1,500 cases, 25,800 dispatch calls and 94 total arrests…
+### SHOOTING on 2026-01-22 12:31
+- Location: New York Post
+- Description: “This horrific violence will not shake my belief in the importance of peacefully resolving disputes,” Judge Steven Meyer said defiantly.
 
 
-### HOMICIDE on 2026-01-22 06:10
-- Location: The-independent.com
-- Description: Rebecca Ferguson co-stars in a film in which any promising idea leads to a dead end
+### SHOOTING on 2026-01-22 12:24
+- Location: Celebitchy.com
+- Description: This weekend, there was a big exclusive about the degenerate formerly known as Prince Andrew. It feels like people care less about this Andrew Mountbatten-Windsor situation right now, mostly because the royal establishment has made it clear that they’re still…
 
 
-### HOMICIDE on 2026-01-22 06:03
+### HOMICIDE on 2026-01-22 12:20
+- Location: Premium Times
+- Description: Authorities in Kano are currently prosecuting several individuals linked to several killings. Particularly tragic is the impact on minors, who were the most affected in two of the three latest attacks.
+
+
+### SHOOTING on 2026-01-22 12:15
+- Location: WFTV Orlando
+- Description: Adrian Gonzales, the first officer to arrive at Robb Elementary School on May 24, 2022, was acquitted of 29 counts of abandoning and endangering children.
+
+
+### ROBBERY/THEFT on 2026-01-22 12:12
 - Location: BBC News
-- Description: Peter Sullivan spent 38 years in prison for the murder of Diane Sindall before being cleared in 2025.
+- Description: Doorbell footage caught the delivery man picking up the cat and walking off from a house in Elland.
 
-
-### OTHER on 2026-01-22 06:00
-- Location: Smallwarsjournal.com
-- Description: A Battlefield Commander’s Warning: Venezuela’s Political Transition Offers Hope, But the Shadows of Iraq Reveal Risks We Cannot Ignore In April 2003, I commanded Task Force 2-7 when we destroyed the Iraqi Republican Guard at Baghdad International Airport and …
-
-
-### HOMICIDE on 2026-01-22 06:00
-- Location: Newser
-- Description: A former Uvalde police officer was acquitted Wednesday of charges that he failed in his duties to confront the gunman at Robb Elementary during the critical first minutes of one of the deadliest school shootings in US history, the AP reports. Jurors deliberat…
-
-Analysis generated at: Fri Jan 23 06:27:13 UTC 2026
+Analysis generated at: Fri Jan 23 12:35:42 UTC 2026
