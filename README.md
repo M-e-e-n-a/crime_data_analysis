@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Jan 22 18:24:54 UTC 2026
+Last updated: Fri Jan 23 01:15:57 UTC 2026
 
 ## Latest Analysis
 
-Loaded 84157 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-21 18:19:20
+Loaded 84177 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-22 01:13:00
 
 Incidents by source:
 source
-newsapi           84056
+newsapi           84076
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-01-21 18:19
-- Location: Boston Herald
-- Description: Tetsuya Yamagami pleaded guilty to killing Abe in July 2022 during his election campaign speech.
+### SHOOTING on 2026-01-22 01:13
+- Location: The Star Online
+- Description: SYDNEY, Jan 22 (Reuters) - ‌Australia began a national day of mourning on Thursday for the victims ‌of the Bondi Beach mass shooting, with flags across the country ‌flown at half mast ahead of a commemoration event at Sydney's iconic Opera House. Read full st…
 
 
-### HOMICIDE on 2026-01-21 18:09
-- Location: New York Post
-- Description: Horrific video shows the moment armed men disguised as police officers stormed a soccer pitch in Ecuador and murdered three people, believed to be members of a rival gang. Security footage from a gated community outside of the port city of Guayaquil earlier t…
+### OTHER on 2026-01-22 01:09
+- Location: The Punch
+- Description: The Lagos State Police Command has arrested 13 kidnapping suspects after uncovering a den disguised as a shrine used by a notorious ‘one-chance’ syndicate.
+
+Read More: https://punchng.com/13-kidnapping-suspects-arrested-after-police-uncover-shrine-in-lagos/
 
 
-### HOMICIDE on 2026-01-21 18:04
-- Location: New York Post
-- Description: An IRS agent accused of murdering his wife in a plot to be with his child's au pair devolved into waterworks in court on Wednesday as the jury was shown police bodycam video of the moment he was told his spouse was dead.
+### HOMICIDE on 2026-01-22 01:04
+- Location: Fox News
+- Description: Jury weighs murder-for-hire case against Chicago man accused of targeting Border Patrol official through Snapchat messages offering cash rewards.
 
 
-### OTHER on 2026-01-21 18:03
-- Location: The Atlantic
-- Description: Even cities with understaffed police departments have made record gains.
+### HOMICIDE on 2026-01-22 00:53
+- Location: Internazionale.it
+- Description: Jan 21 (Reuters) - A Texas jury on Wednesday found a former police officer not guilty of felony child-endangerment charges for his role in the law enforcement response to… Leggi
 
 
-### SHOOTING on 2026-01-21 18:02
-- Location: NBC News
-- Description: The LA County Sheriff's Department said the shooting occurred around 7:20 a.m. in the neighborhood of Willowbrook as federal agents were conducting an operation.
+### OTHER on 2026-01-22 00:53
+- Location: The Times of India
+- Description: Raipur witnessed a swift crackdown as the Municipal Corporation demolished the house of an accused rapist. The civic body acted after serving a notice, citing illegal construction on encroached land. Heavy police presence ensured the operation. The demolition…
 
-Analysis generated at: Thu Jan 22 18:24:54 UTC 2026
+Analysis generated at: Fri Jan 23 01:15:57 UTC 2026
