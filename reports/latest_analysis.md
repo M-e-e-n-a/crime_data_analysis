@@ -1,10 +1,10 @@
 
-Loaded 84482 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-23 06:23:11
+Loaded 84540 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-23 12:29:54
 
 Incidents by source:
 source
-newsapi           84381
+newsapi           84439
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-01-23 06:23
-- Location: The Indian Express
-- Description: Based on the complaint of Rakesh Kumar, 41, a resident of Suraj Nagar in Moga, police have registered an FIR against a woman identified as Glory Masih, a native of Partap Pura, Jalandhar, but currently believed to be in Thailand.
+### OTHER on 2026-01-23 12:29
+- Location: What's on Netflix
+- Description: What documentaries are coming to Netflix in February 2026?
 
 
-### HOMICIDE on 2026-01-23 06:16
-- Location: CBC News
-- Description: Homicide investigators are looking into Thursday's fatal shooting in Burnaby, B.C. Investigators say they believe the shooting was targeted but there is no further risk to the public.
+### OTHER on 2026-01-23 12:24
+- Location: The-independent.com
+- Description: Lemon interviewed protestors entering a church in Minnesota where an ICE official serves as a pastor
 
 
-### OTHER on 2026-01-23 06:11
-- Location: ABC News
-- Description: ABC News’ Britt Clennett is in Ukraine and embeds with an organization that helps to repatriate Ukrainian children that had been sent to Russian military camps or orphanages.
+### SHOOTING on 2026-01-23 12:20
+- Location: CBS News
+- Description: Five people have been arrested in connection with the Sunday shooting of a judge and his wife​ in Indiana, according to authorities.
 
 
-### OTHER on 2026-01-23 06:10
-- Location: ABC News
-- Description: The winter storm stretches over 2,000 miles from New Mexico and Texas all the way to Maine. Several states have declared a state of emergency.
+### HOMICIDE on 2026-01-23 12:14
+- Location: WSB Radio
+- Description: Investigators believe the shooting was domestic-related, though the motive remains under investigation.
 
 
-### OTHER on 2026-01-23 06:08
-- Location: ABC News
-- Description: ABC News’ Linsey Davis spoke with Variety senior artisans editor Jazz Tangcay about the record 16 Oscar noms for “Sinners” and the tough international field heading into award season’s homestretch.
+### HOMICIDE on 2026-01-23 12:14
+- Location: New York Post
+- Description: Luigi Mangione is set to return to court on Friday as a judge weighs whether to allow or exclude certain evidence from his federal death penalty case in the killing of UnitedHealthcare CEO Brian Thompson.
 
-Analysis generated at: Sat Jan 24 06:24:47 UTC 2026
+Analysis generated at: Sat Jan 24 12:30:53 UTC 2026
