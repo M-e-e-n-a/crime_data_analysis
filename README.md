@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Jan 23 18:25:51 UTC 2026
+Last updated: Sat Jan 24 01:13:58 UTC 2026
 
 ## Latest Analysis
 
-Loaded 84410 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-22 18:10:19
+Loaded 84428 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-23 01:08:23
 
 Incidents by source:
 source
-newsapi           84309
+newsapi           84327
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,34 +24,32 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-01-22 18:10
-- Location: PBS
-- Description: The U.S. Army has ordered several dozen additional active-duty soldiers to prepare for a possible deployment to Minneapolis if needed, a defense official said Wednesday, amid protests over the Trump administration's immigration enforcement crackdown.
+### HOMICIDE on 2026-01-23 01:08
+- Location: The Punch
+- Description: Fresh bandit attacks in Katsina State resume despite peace deals, causing killings, abductions, and forcing residents to abandon their communities.
+
+Read More: https://punchng.com/renewed-bandit-attacks-hit-katsina-residents-abandon-communities/
 
 
-### OTHER on 2026-01-22 18:01
-- Location: Us Weekly
-- Description: The Cleaning Lady hairstylist Danielle Vigil has denied observing anything “unprofessional, inappropriate or sexual” between Timothy Busfield and the twin boys who starred on the show in a new declaration obtained exclusively by Us Weekly. “The detective did …
+### HOMICIDE on 2026-01-23 01:08
+- Location: Fox News
+- Description: Armed carjacking suspect allegedly stole Corvette, led police chase through San Jose area before deadly shootout that wounded sergeant.
 
 
-### SHOOTING on 2026-01-22 18:00
-- Location: Variety
-- Description: For an indie filmmaker, there can be a lot of advantages to filming in your own home: No need for permits, no time restrictions, and you can manipulate the surroundings any way you wish. When Ian Tuason was preparing his directorial debut, “Undertone,” it was…
+### OTHER on 2026-01-23 00:55
+- Location: BBC News
+- Description: A BBC investigation uncovers how criminals are operating huge illegal rubbish tips across the country.
 
 
-### HOMICIDE on 2026-01-22 17:59
-- Location: Israelnationalnews.com
-- Description: Med school graduate involved in deadly criminal Negev shooting arrested in Ramallah.
+### HOMICIDE on 2026-01-23 00:55
+- Location: The Punch
+- Description: Nigerian military destroys terror cells in Sokoto, Kebbi & Zamfara after Lakurawa bandits kill six. Troops rescue 62 hostages and recover arms.
+
+Read More: https://punchng.com/lakurawa-kills-six-in-sokoto-military-destroys-terror-cells/
 
 
-### OTHER on 2026-01-22 17:58
-- Location: TheStranger.com
-- Description: The Stranger's morning news roundup.
- 
- by Micah Yip
- 
- 
- 
- ICE Detains a 5-Year-Old near Minneapolis: And tried to use him as bait to catch his family. On Tuesday, Liam Conejo Ramos had just been picked up from school when masked agents apprehended him and h…
+### HOMICIDE on 2026-01-23 00:41
+- Location: Freerepublic.com
+- Description: Yes, recent analyses from late 2025 and early 2026 data suggest the U.S. murder rate is projected to hit its lowest point since at least 1900, with a dramatic drop in 2025, potentially reaching around 4.0 per 100,000 people, marking the largest single-year de…
 
-Analysis generated at: Fri Jan 23 18:25:51 UTC 2026
+Analysis generated at: Sat Jan 24 01:13:58 UTC 2026
