@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Jan 24 12:51:30 UTC 2026
+Last updated: Sat Jan 24 18:23:06 UTC 2026
 
 ## Latest Analysis
 
-Loaded 84543 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-23 12:49:51
+Loaded 84638 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-23 18:17:57
 
 Incidents by source:
 source
-newsapi           84442
+newsapi           84537
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-01-23 12:49
-- Location: Fox News
-- Description: Five suspects arrested in shooting of Indiana judge Steven Meyer and his wife at their home, with charges including attempted murder and aggravated battery.
+### HOMICIDE on 2026-01-23 18:17
+- Location: The Daily Caller
+- Description: Protesters staged a "sit-in" at the Minneapolis-Saint Paul International Airport to complain about deportation flights as ICE snatches violent migrants.
 
 
-### OTHER on 2026-01-23 12:48
-- Location: Demilked.com
-- Description: Celeb demises that happened under mysterious circumstances and could involve a cover-up. Suspicious netizens let the conspiracy theories flow... 
-The post 25 Celebrities No Longer With Us Due To Suspicious Circumstances appeared first on DeMilked.
+### HOMICIDE on 2026-01-23 18:14
+- Location: Decrypt
+- Description: Ryan James Wedding was accused of using stablecoin Tether to fuel a cocaine smuggling and murder operation in Latin America and the U.S.
 
 
-### OTHER on 2026-01-23 12:41
-- Location: Westernjournal.com
-- Description: Erika Kirk’s attorney notified Utah’s Fourth District Court of her move, which stated that the case was being needlessly prolonged.
+### HOMICIDE on 2026-01-23 18:12
+- Location: NBC News
+- Description: The surgeon accused of fatally shooting an Ohio dentist and his wife in a killing authorities described as a "targeted attack" pleaded not guilty Friday to charges of aggravated murder and burglary
 
 
-### OTHER on 2026-01-23 12:29
-- Location: What's on Netflix
-- Description: What documentaries are coming to Netflix in February 2026?
+### OTHER on 2026-01-23 18:12
+- Location: Buddytv.com
+- Description: General Hospital spoilers for January 23, 2026: Emma’s fear for Anna sends her to Nathan General Hospital spoilers for Friday, January 23, 2026, build around a young woman who has waited months for news and finally decides she cannot stay quiet. Emma (Braedyn…
 
 
-### OTHER on 2026-01-23 12:24
-- Location: The-independent.com
-- Description: Lemon interviewed protestors entering a church in Minnesota where an ICE official serves as a pastor
+### OTHER on 2026-01-23 18:11
+- Location: Yahoo Entertainment
+- Description: Ryan Wedding turned himself in at US consulate in Mexico City and is due to appear in court in California on Monday
 
-Analysis generated at: Sat Jan 24 12:51:30 UTC 2026
+Analysis generated at: Sat Jan 24 18:23:06 UTC 2026
