@@ -1,10 +1,10 @@
 
-Loaded 84648 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-24 01:09:42
+Loaded 84653 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-24 02:16:05
 
 Incidents by source:
 source
-newsapi           84547
+newsapi           84552
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-01-24 01:09
-- Location: CBC News
-- Description: As an alleged cocaine kingpin, Ryan Wedding is accused of ordering the murders of rival drug traffickers and an FBI witness he considered a “rat.” Could Wedding, who was arrested Friday after a decade on the run, now be the one to spill what he knows about th…
+### OTHER on 2026-01-24 02:16
+- Location: CinemaBlend
+- Description: The Hollywood stars have been together for over a decade.
 
 
-### HOMICIDE on 2026-01-24 01:02
-- Location: Boston Herald
-- Description: Five people were charged in the shooting of county Judge Steven Meyer and his wife.
+### HOMICIDE on 2026-01-24 02:00
+- Location: Allthatsinteresting.com
+- Description: Serial killer Mary Bell was 11 years old when she was sentenced to life in prison for killing two toddlers in 1968 — but she now lives in anonymity after being freed just 12 years later.
+The post The Chilling Story Of Mary Bell, The 10-Year-Old Murderer Who S…
 
 
-### ASSAULT on 2026-01-24 00:52
-- Location: Smallwarsjournal.com
-- Description: Barrio 18 gang attacks in Guatemala expose government impotence in the face of organized crime By: Bryan Avelar for El Pais | Guatemala City – JAN 22, 2026 – 06:20 EST Strategic Shock and Visible Normalcy The article opens with a sharp contradiction. Barrio 1…
+### OTHER on 2026-01-24 01:57
+- Location: ABC News
+- Description: Federal immigration agents in Minnesota are accused of using a 5-year-old boy as "bait" to arrest his father
 
 
-### OTHER on 2026-01-24 00:47
-- Location: The Times of India
-- Description: Protests erupted across Minnesota against federal immigration crackdowns. Clergy were arrested at the Minneapolis-St. Paul International Airport. Thousands gathered downtown despite frigid temperatures. Businesses closed in solidarity. The demonstrations foll…
+### HOMICIDE on 2026-01-24 01:39
+- Location: New York Post
+- Description: The young girl posed the startling question to the naughty nanny hours after her mother was killed.
 
 
-### OTHER on 2026-01-24 00:38
-- Location: The Daily Caller
-- Description: CNN senior political commentator Scott Jennings why immigration enforcement proceeds without disruption in most states but repeatedly breaks down in Minnesota.
+### OTHER on 2026-01-24 01:36
+- Location: Yahoo Entertainment
+- Description: The detention of a 5-year-old Ecuadorian boy with his father outside their home in Minnesota has become the latest lightning rod for America’s divisions on...
 
-Analysis generated at: Sun Jan 25 01:23:19 UTC 2026
+Analysis generated at: Sun Jan 25 02:22:54 UTC 2026
