@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Jan 25 06:25:08 UTC 2026
+Last updated: Sun Jan 25 12:31:55 UTC 2026
 
 ## Latest Analysis
 
-Loaded 84674 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-24 06:18:34
+Loaded 84713 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-24 12:30:00
 
 Incidents by source:
 source
-newsapi           84573
+newsapi           84612
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,30 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-01-24 06:18
-- Location: Lifesciencesworld.com
-- Description: Was Batman Bitten By a Bat? The Truth Behind Gotham’s Dark Knight The question of whether Batman was ever bitten by a bat is a common one. The short answer: no. His fear of bats is not derived from a bite, but from a traumatic childhood experience. The Origin…
+### OTHER on 2026-01-24 12:30
+- Location: Scientific American
+- Description: As deepfakes blur the line between truth and fiction, we’ll need a new class of forensic experts to determine what’s real, what’s fake and what can be proved in court
 
 
-### OTHER on 2026-01-24 06:00
-- Location: Naturalnews.com
-- Description: UK police are testing AI to predict crimes by monitoring citizens. This shifts policing from responding to crimes to treating everyone as a potential suspect. Accountability vanishes as algorithms make unchallengeable decisions based on biased data. The end g…
+### ASSAULT on 2026-01-24 12:29
+- Location: TheJournal.ie
+- Description: The judge commented that Maura McKiernan ‘was left black and blue’ when he was presented with photos of the woman after the alleged attack.
 
 
-### OTHER on 2026-01-24 05:56
-- Location: The Punch
-- Description: Thousands protest the US immigration crackdown in Minneapolis, sparked by the outrage over a five-year-old migrant boy’s detention by ICE agents.
-
-Read More: https://punchng.com/defiant-protests-over-us-immigration-crackdown-childs-detention/
+### ASSAULT on 2026-01-24 12:27
+- Location: BBC News
+- Description: The home secretary is promising the biggest policing reform in centuries, but she faces a fight, writes Laura Kuenssberg.
 
 
-### OTHER on 2026-01-24 05:34
-- Location: ABC News
-- Description: Federal immigration officials say more than 100 people have been detained in Maine this week as part of an enforcement surge targeting what ICE calls “the worst of the worst.”
+### HOMICIDE on 2026-01-24 12:26
+- Location: The Star Online
+- Description: ROME, Jan 24 (Reuters) - Italy formally protested ‌on Saturday the release on bail of the owner of a Swiss bar engulfed ‌in a deadly New Year's Day fire and recalled its ambassador to Switzerland, as ‌the court's decision came under criticism in both countrie…
 
 
-### OTHER on 2026-01-24 05:00
-- Location: New Zealand Herald
-- Description: The successful businessman ran companies in New Zealand and abroad prior to his arrest.
+### HOMICIDE on 2026-01-24 12:24
+- Location: The Times of India
+- Description: The body of a three-year-old boy, missing since January 13 from Delhi's Jaitpur area, was recovered from a drain. Police initiated a detailed investigation, examining CCTV footage and auto-rickshaw driver movements. The father suspects kidnapping and murder, …
 
-Analysis generated at: Sun Jan 25 06:25:08 UTC 2026
+Analysis generated at: Sun Jan 25 12:31:55 UTC 2026
