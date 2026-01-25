@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Jan 25 12:31:55 UTC 2026
+Last updated: Sun Jan 25 12:53:39 UTC 2026
 
 ## Latest Analysis
 
-Loaded 84713 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-24 12:30:00
+Loaded 84718 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-24 12:50:21
 
 Incidents by source:
 source
-newsapi           84612
+newsapi           84617
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-01-24 12:30
-- Location: Scientific American
-- Description: As deepfakes blur the line between truth and fiction, we’ll need a new class of forensic experts to determine what’s real, what’s fake and what can be proved in court
+### OTHER on 2026-01-24 12:50
+- Location: Freerepublic.com
+- Description: "No work, no school, no shopping." Anti-ICE efforts continue to ramp up Minneapolis, coordinated by a coalition of socialists, communists, and labor unions. A collection of far-left activist groups — including the Democratic Socialists of America, major labor…
 
 
-### ASSAULT on 2026-01-24 12:29
-- Location: TheJournal.ie
-- Description: The judge commented that Maura McKiernan ‘was left black and blue’ when he was presented with photos of the woman after the alleged attack.
+### OTHER on 2026-01-24 12:45
+- Location: Whyevolutionistrue.com
+- Description: Welcome to CaturSaturday, January 24. 2026, and we’re in for a cold week. Here’s the temperatures for today (the number of the top was for 5 AM), and the next week—all in degrees Fahrenheit.  Right now, with the wind, it feels like -13°F (-25°C) and my face f…
 
 
-### ASSAULT on 2026-01-24 12:27
-- Location: BBC News
-- Description: The home secretary is promising the biggest policing reform in centuries, but she faces a fight, writes Laura Kuenssberg.
+### HOMICIDE on 2026-01-24 12:43
+- Location: Fox News
+- Description: Arkansas father Aaron Spencer faces murder charges after rescuing his daughter from alleged rapist. Judge removed from case after serious violations.
 
 
-### HOMICIDE on 2026-01-24 12:26
-- Location: The Star Online
-- Description: ROME, Jan 24 (Reuters) - Italy formally protested ‌on Saturday the release on bail of the owner of a Swiss bar engulfed ‌in a deadly New Year's Day fire and recalled its ambassador to Switzerland, as ‌the court's decision came under criticism in both countrie…
+### OTHER on 2026-01-24 12:35
+- Location: TMZ
+- Description: D4vd's friend Neo has been booked into the Los Angeles County jail after being arrested in Montana for failing to appear as a witness. Online records show Neo was booked around 11:30 PM Friday and is being held on a 60,000 bail. His charge is a…
+ Permalink
 
 
-### HOMICIDE on 2026-01-24 12:24
-- Location: The Times of India
-- Description: The body of a three-year-old boy, missing since January 13 from Delhi's Jaitpur area, was recovered from a drain. Police initiated a detailed investigation, examining CCTV footage and auto-rickshaw driver movements. The father suspects kidnapping and murder, …
+### DRUG RELATED on 2026-01-24 12:32
+- Location: WSB Atlanta
+- Description: A routine traffic stop along Interstate 75 in Henry County led to a major drug bust on Wednesday afternoon, according to Locust Grove police.
 
-Analysis generated at: Sun Jan 25 12:31:55 UTC 2026
+Analysis generated at: Sun Jan 25 12:53:39 UTC 2026
