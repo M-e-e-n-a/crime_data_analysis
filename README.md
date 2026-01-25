@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Jan 25 02:22:54 UTC 2026
+Last updated: Sun Jan 25 06:25:08 UTC 2026
 
 ## Latest Analysis
 
-Loaded 84653 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-24 02:16:05
+Loaded 84674 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-24 06:18:34
 
 Incidents by source:
 source
-newsapi           84552
+newsapi           84573
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-01-24 02:16
-- Location: CinemaBlend
-- Description: The Hollywood stars have been together for over a decade.
+### OTHER on 2026-01-24 06:18
+- Location: Lifesciencesworld.com
+- Description: Was Batman Bitten By a Bat? The Truth Behind Gotham’s Dark Knight The question of whether Batman was ever bitten by a bat is a common one. The short answer: no. His fear of bats is not derived from a bite, but from a traumatic childhood experience. The Origin…
 
 
-### HOMICIDE on 2026-01-24 02:00
-- Location: Allthatsinteresting.com
-- Description: Serial killer Mary Bell was 11 years old when she was sentenced to life in prison for killing two toddlers in 1968 — but she now lives in anonymity after being freed just 12 years later.
-The post The Chilling Story Of Mary Bell, The 10-Year-Old Murderer Who S…
+### OTHER on 2026-01-24 06:00
+- Location: Naturalnews.com
+- Description: UK police are testing AI to predict crimes by monitoring citizens. This shifts policing from responding to crimes to treating everyone as a potential suspect. Accountability vanishes as algorithms make unchallengeable decisions based on biased data. The end g…
 
 
-### OTHER on 2026-01-24 01:57
+### OTHER on 2026-01-24 05:56
+- Location: The Punch
+- Description: Thousands protest the US immigration crackdown in Minneapolis, sparked by the outrage over a five-year-old migrant boy’s detention by ICE agents.
+
+Read More: https://punchng.com/defiant-protests-over-us-immigration-crackdown-childs-detention/
+
+
+### OTHER on 2026-01-24 05:34
 - Location: ABC News
-- Description: Federal immigration agents in Minnesota are accused of using a 5-year-old boy as "bait" to arrest his father
+- Description: Federal immigration officials say more than 100 people have been detained in Maine this week as part of an enforcement surge targeting what ICE calls “the worst of the worst.”
 
 
-### HOMICIDE on 2026-01-24 01:39
-- Location: New York Post
-- Description: The young girl posed the startling question to the naughty nanny hours after her mother was killed.
+### OTHER on 2026-01-24 05:00
+- Location: New Zealand Herald
+- Description: The successful businessman ran companies in New Zealand and abroad prior to his arrest.
 
-
-### OTHER on 2026-01-24 01:36
-- Location: Yahoo Entertainment
-- Description: The detention of a 5-year-old Ecuadorian boy with his father outside their home in Minnesota has become the latest lightning rod for America’s divisions on...
-
-Analysis generated at: Sun Jan 25 02:22:54 UTC 2026
+Analysis generated at: Sun Jan 25 06:25:08 UTC 2026
