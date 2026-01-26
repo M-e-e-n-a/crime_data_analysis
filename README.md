@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Jan 25 18:23:46 UTC 2026
+Last updated: Mon Jan 26 01:22:08 UTC 2026
 
 ## Latest Analysis
 
-Loaded 84814 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-24 18:21:57
+Loaded 84835 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-25 01:19:58
 
 Incidents by source:
 source
-newsapi           84713
+newsapi           84734
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,30 +24,31 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-01-24 18:21
-- Location: Mediaite
-- Description: MS NOW's Ali Velshi was stunned by Saturday's deadly ICE shooting in Minneapolis and the subsequent tear gas rounds shot at protesters.
-The post ‘An American City in 2026’: MS Anchor Stunned By Chaos As Feds Pump Tear Gas Shots At Protesters Amid New Shooting…
+### OTHER on 2026-01-25 01:19
+- Location: Wikipedia.org
+- Description: Article URL: https://en.wikipedia.org/wiki/Stochastic_terrorism
+Comments URL: https://news.ycombinator.com/item?id=46749636
+Points: 12
+# Comments: 0
 
 
-### SHOOTING on 2026-01-24 18:21
-- Location: The Daily Caller
-- Description: Chaos erupted Saturday in Minneapolis shortly after a Border Patrol agent reportedly fatally shot a man with a firearm and two magazines, according to DHS.
+### HOMICIDE on 2026-01-25 01:17
+- Location: CNN
+- Description: The man killed by federal immigration agents in Minneapolis legally owned a gun and had no criminal record.
 
 
-### HOMICIDE on 2026-01-24 18:14
-- Location: Mediaite
-- Description: Minneapolis Mayor Jacob Frey asked "how many more Americans have to die" for ICE to leave his city following federal agents shooting and killing a man.
-The post Mayor Frey Says Video Shows Federal Agents ‘Pummeling’ and Killing Constituent: ‘How Many More Ame…
+### OTHER on 2026-01-25 01:04
+- Location: Boston Herald
+- Description: An 80-year-old Haverhill accountant pleaded guilty to charges of maintaining a house of prostitution, and possession with intent to distribute charges for suboxone, gabapentin, and marijuana. Plus: BPD 24-hour arrest report.
 
 
-### HOMICIDE on 2026-01-24 18:14
-- Location: Forbes
-- Description: Video on Saturday showed federal agents wrestling a man to the ground outside a donut shop before shots rang out.
+### HOMICIDE on 2026-01-25 01:03
+- Location: KCRA Sacramento
+- Description: Some called for the resignation of top officials or to cut funding for Immigration and Customs Enforcement.
 
 
-### ROBBERY/THEFT on 2026-01-24 18:14
-- Location: The Times of India
-- Description: Odisha Police and Jharkhand Police have arrested two interstate armed miscreants in Dhanbad. They are accused in the January 19 bank robbery in Odisha. Around 5 to 6 kg of gold was looted from a bank branch. A part of the looted gold and vehicles used in the …
+### HOMICIDE on 2026-01-25 01:00
+- Location: 7NEWS.com.au
+- Description: It is less than three weeks after another fatal shooting by immigration enforcement officers in the city sparked national outrage.
 
-Analysis generated at: Sun Jan 25 18:23:46 UTC 2026
+Analysis generated at: Mon Jan 26 01:22:08 UTC 2026
