@@ -1,10 +1,10 @@
 
-Loaded 84899 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-25 06:18:34
+Loaded 84953 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-25 12:27:12
 
 Incidents by source:
 source
-newsapi           84798
+newsapi           84852
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-01-25 06:18
-- Location: The Times of India
-- Description: After Palaash Muchhal's wedding with Smriti Mandhana was called off, an actor-producer Vidnyan Mane accused the music composer and filmmaker of infidelity and financial fraud of Rs 40 lakh. However, Palaash Muchhal has denied these allegations, calling them b…
+### HOMICIDE on 2026-01-25 12:27
+- Location: BBC News
+- Description: Federal and state authorities have offered conflicting versions of what happened in the moments leading to the shooting.
 
 
-### HOMICIDE on 2026-01-25 06:13
-- Location: Westernjournal.com
-- Description: New video appears to show the man shot dead in Minneapolis Saturday ignite the confrontation that led to his death.
+### OTHER on 2026-01-25 12:14
+- Location: The-independent.com
+- Description: These records serve as statements of intent and have the power to change or reshape the industry, inspire fellow musicians, and drive essential conversation about our understanding of music. Roisin O'Connor picks the best of the bunch
 
 
-### ASSAULT on 2026-01-25 06:02
-- Location: New York Post
-- Description: Frost, the first Gen. Z member of Congress, alleged that a drunk man attacked him and spewed hateful comments about him and his friend's race during the private party.
+### OTHER on 2026-01-25 12:02
+- Location: Order-order.com
+- Description: The NEC voted 8-1 against him. Only Lucy Powell voted in favour. Grab the popcorn… UPDATE: Statement from the Labour Party: “Directly Elected Mayors and Police and Crime Commissioners must seek the express permission of Labour’s ruling body, the National Exec…
 
 
-### HOMICIDE on 2026-01-25 06:00
-- Location: Naturalnews.com
-- Description: Coordinated gang attacks in Guatemala have killed at least 10 police officers. The Barrio 18 gang seized three prisons and took guards hostage. Guatemala’s president declared a 30-day state of siege, deploying the military. The U.S. designates Barrio 18 as te…
+### HOMICIDE on 2026-01-25 12:00
+- Location: The Jerusalem Post
+- Description: If the estimates are true, the only comparable massacre in history databases would be the murder of 33,000 Jews in the Babyn Yar massacre during the Holocaust outside of Kyiv in 1941.
 
 
-### ASSAULT on 2026-01-25 06:00
-- Location: Naturalnews.com
-- Description: The “Living Hell” report by B’Tselem documents brutal tactics, including forced stripping, genital mutilation, electric shocks, dog attacks and anal rape with objects. Survivors describe starvation (one cucumber and rotten bread per day), severe dehydration (…
+### HOMICIDE on 2026-01-25 11:54
+- Location: Nakedcapitalism.com
+- Description: ICE repeatedly shot and killed Alex Pretti who posed no threat to anyone. The US we once knew is over.
 
-Analysis generated at: Mon Jan 26 06:30:04 UTC 2026
+Analysis generated at: Mon Jan 26 12:36:54 UTC 2026
