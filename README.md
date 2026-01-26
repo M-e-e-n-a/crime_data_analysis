@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Jan 26 12:59:59 UTC 2026
+Last updated: Mon Jan 26 18:28:22 UTC 2026
 
 ## Latest Analysis
 
-Loaded 84958 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-25 12:58:08
+Loaded 85052 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-25 18:27:18
 
 Incidents by source:
 source
-newsapi           84857
+newsapi           84951
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,30 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-01-25 12:58
-- Location: Celebitchy.com
-- Description: Embed from Getty Images Two and a half weeks after ICE agents murdered unarmed American citizen Renee Good in her SUV, another American citizen has been murdered by federal agents on the streets of Minneapolis. ICE Gestapo has been laying siege to Minneapolis…
+### ASSAULT on 2026-01-25 18:27
+- Location: Slate Magazine
+- Description: The community is pulling together. It has been eye-opening.
 
 
-### OTHER on 2026-01-25 12:45
-- Location: Whyevolutionistrue.com
-- Description: Welcome to Sunday, the Sabbath for goyische cats: it’s January 25, 2026, and we have cold and snow. Here’s the forecast: we won’t get above freezing this week (temperatures are in Fahrenheit, and the highs and lows are given for each day): A view on my walk t…
+### HOMICIDE on 2026-01-25 18:23
+- Location: Forbes
+- Description: Pretti, a 37-year-old nurse, was shot and killed by ICE agents on Saturday.
 
 
-### HOMICIDE on 2026-01-25 12:43
-- Location: The Irish Times
-- Description: Incident involving US federal agents is second fatal shooting in city after death of Renee Good on January 7th
+### SHOOTING on 2026-01-25 18:19
+- Location: Breitbart News
+- Description: Minneapolis Police Chief Brian O’Hara warned on Face the Nation Sunday that public anger over a string of federal‑involved shootings has reached a breaking point, saying the city is so overwhelmed that even a finding of legal justification in the latest incid…
 
 
-### HOMICIDE on 2026-01-25 12:43
-- Location: WFMJ
-- Description: Family members say the man who was killed by a federal officer in Minneapolis was an intensive care nurse at a U.S. Department of Veterans Affairs hospital.
+### SHOOTING on 2026-01-25 18:17
+- Location: HuffPost
+- Description: Families of the victims of the 2022 mass shooting expressed their frustration with the not guilty verdict.
 
 
-### ROBBERY/THEFT on 2026-01-25 12:38
-- Location: The Punch
-- Description: Ondo police arrest seven suspects, including employees, in a ₦20.45 million theft case. The suspects confessed to stealing goods from a shop in Ore.
+### HOMICIDE on 2026-01-25 18:08
+- Location: Business Insider
+- Description: The killing of Alex Pretti, a US citizen, by ICE in Minneapolis on Saturday has drawn sharp responses from many Americans, including business leaders.
 
-Read More: https://punchng.com/police-arrest-seven-workers-for-stealing-%e2%82%a620m-goods-in-ondo/
-
-Analysis generated at: Mon Jan 26 12:59:59 UTC 2026
+Analysis generated at: Mon Jan 26 18:28:22 UTC 2026
