@@ -1,10 +1,10 @@
 
-Loaded 84953 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-25 12:27:12
+Loaded 84958 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-25 12:58:08
 
 Incidents by source:
 source
-newsapi           84852
+newsapi           84857
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-01-25 12:27
-- Location: BBC News
-- Description: Federal and state authorities have offered conflicting versions of what happened in the moments leading to the shooting.
+### HOMICIDE on 2026-01-25 12:58
+- Location: Celebitchy.com
+- Description: Embed from Getty Images Two and a half weeks after ICE agents murdered unarmed American citizen Renee Good in her SUV, another American citizen has been murdered by federal agents on the streets of Minneapolis. ICE Gestapo has been laying siege to Minneapolis…
 
 
-### OTHER on 2026-01-25 12:14
-- Location: The-independent.com
-- Description: These records serve as statements of intent and have the power to change or reshape the industry, inspire fellow musicians, and drive essential conversation about our understanding of music. Roisin O'Connor picks the best of the bunch
+### OTHER on 2026-01-25 12:45
+- Location: Whyevolutionistrue.com
+- Description: Welcome to Sunday, the Sabbath for goyische cats: it’s January 25, 2026, and we have cold and snow. Here’s the forecast: we won’t get above freezing this week (temperatures are in Fahrenheit, and the highs and lows are given for each day): A view on my walk t…
 
 
-### OTHER on 2026-01-25 12:02
-- Location: Order-order.com
-- Description: The NEC voted 8-1 against him. Only Lucy Powell voted in favour. Grab the popcorn… UPDATE: Statement from the Labour Party: “Directly Elected Mayors and Police and Crime Commissioners must seek the express permission of Labour’s ruling body, the National Exec…
+### HOMICIDE on 2026-01-25 12:43
+- Location: The Irish Times
+- Description: Incident involving US federal agents is second fatal shooting in city after death of Renee Good on January 7th
 
 
-### HOMICIDE on 2026-01-25 12:00
-- Location: The Jerusalem Post
-- Description: If the estimates are true, the only comparable massacre in history databases would be the murder of 33,000 Jews in the Babyn Yar massacre during the Holocaust outside of Kyiv in 1941.
+### HOMICIDE on 2026-01-25 12:43
+- Location: WFMJ
+- Description: Family members say the man who was killed by a federal officer in Minneapolis was an intensive care nurse at a U.S. Department of Veterans Affairs hospital.
 
 
-### HOMICIDE on 2026-01-25 11:54
-- Location: Nakedcapitalism.com
-- Description: ICE repeatedly shot and killed Alex Pretti who posed no threat to anyone. The US we once knew is over.
+### ROBBERY/THEFT on 2026-01-25 12:38
+- Location: The Punch
+- Description: Ondo police arrest seven suspects, including employees, in a ₦20.45 million theft case. The suspects confessed to stealing goods from a shop in Ore.
 
-Analysis generated at: Mon Jan 26 12:36:54 UTC 2026
+Read More: https://punchng.com/police-arrest-seven-workers-for-stealing-%e2%82%a620m-goods-in-ondo/
+
+Analysis generated at: Mon Jan 26 12:59:59 UTC 2026
