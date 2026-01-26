@@ -1,10 +1,10 @@
 
-Loaded 84857 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-25 02:19:49
+Loaded 84899 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-25 06:18:34
 
 Incidents by source:
 source
-newsapi           84756
+newsapi           84798
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-01-25 02:19
-- Location: Japan Today
-- Description: Videos quickly emerged Saturday showing the fatal shooting of a Minneapolis protester by a Border Patrol agent, with Democratic leaders in Minnesota saying the footage showed the deadly encounter was the result of untrained federal officers overreacting and t…
+### OTHER on 2026-01-25 06:18
+- Location: The Times of India
+- Description: After Palaash Muchhal's wedding with Smriti Mandhana was called off, an actor-producer Vidnyan Mane accused the music composer and filmmaker of infidelity and financial fraud of Rs 40 lakh. However, Palaash Muchhal has denied these allegations, calling them b…
 
 
-### HOMICIDE on 2026-01-25 02:10
-- Location: GovExec.com
-- Description: He was the third person shot recently by federal officers in Minnesota, where the Trump administration says they are conducting national-security operations.
+### HOMICIDE on 2026-01-25 06:13
+- Location: Westernjournal.com
+- Description: New video appears to show the man shot dead in Minneapolis Saturday ignite the confrontation that led to his death.
 
 
-### ROBBERY/THEFT on 2026-01-25 02:09
-- Location: Freerepublic.com
-- Description: Did you know that in most of America, police can take your property, even if you did nothing wrong? They don't have to charge you with a crime. They don't have to take you to court. They can just say they suspect you of a crime. Then they can grab your money,…
+### ASSAULT on 2026-01-25 06:02
+- Location: New York Post
+- Description: Frost, the first Gen. Z member of Congress, alleged that a drunk man attacked him and spewed hateful comments about him and his friend's race during the private party.
 
 
-### SHOOTING on 2026-01-25 02:09
-- Location: Mediaite
-- Description: Chuck Schumer vowed congressional Democrats will vote against a package that includes billions of dollars for DHS after Alex Pretti was shot in Minnesota
-The post Another Shutdown Looms? Schumer Threatens Dems Will Vote Against Funding ICE After Latest Minnes…
+### HOMICIDE on 2026-01-25 06:00
+- Location: Naturalnews.com
+- Description: Coordinated gang attacks in Guatemala have killed at least 10 police officers. The Barrio 18 gang seized three prisons and took guards hostage. Guatemala’s president declared a 30-day state of siege, deploying the military. The U.S. designates Barrio 18 as te…
 
 
-### HOMICIDE on 2026-01-25 02:07
-- Location: Fox News
-- Description: DHS Secretary Kristi Noem warns the Trump administration is considering Insurrection Act as tensions escalate in Minneapolis following deadly Border Patrol shooting and unrest.
+### ASSAULT on 2026-01-25 06:00
+- Location: Naturalnews.com
+- Description: The “Living Hell” report by B’Tselem documents brutal tactics, including forced stripping, genital mutilation, electric shocks, dog attacks and anal rape with objects. Survivors describe starvation (one cucumber and rotten bread per day), severe dehydration (…
 
-Analysis generated at: Mon Jan 26 02:22:04 UTC 2026
+Analysis generated at: Mon Jan 26 06:30:04 UTC 2026
