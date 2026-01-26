@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Jan 26 01:22:08 UTC 2026
+Last updated: Mon Jan 26 02:22:04 UTC 2026
 
 ## Latest Analysis
 
-Loaded 84835 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-25 01:19:58
+Loaded 84857 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-25 02:19:49
 
 Incidents by source:
 source
-newsapi           84734
+newsapi           84756
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,31 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-01-25 01:19
-- Location: Wikipedia.org
-- Description: Article URL: https://en.wikipedia.org/wiki/Stochastic_terrorism
-Comments URL: https://news.ycombinator.com/item?id=46749636
-Points: 12
-# Comments: 0
+### HOMICIDE on 2026-01-25 02:19
+- Location: Japan Today
+- Description: Videos quickly emerged Saturday showing the fatal shooting of a Minneapolis protester by a Border Patrol agent, with Democratic leaders in Minnesota saying the footage showed the deadly encounter was the result of untrained federal officers overreacting and t…
 
 
-### HOMICIDE on 2026-01-25 01:17
-- Location: CNN
-- Description: The man killed by federal immigration agents in Minneapolis legally owned a gun and had no criminal record.
+### HOMICIDE on 2026-01-25 02:10
+- Location: GovExec.com
+- Description: He was the third person shot recently by federal officers in Minnesota, where the Trump administration says they are conducting national-security operations.
 
 
-### OTHER on 2026-01-25 01:04
-- Location: Boston Herald
-- Description: An 80-year-old Haverhill accountant pleaded guilty to charges of maintaining a house of prostitution, and possession with intent to distribute charges for suboxone, gabapentin, and marijuana. Plus: BPD 24-hour arrest report.
+### ROBBERY/THEFT on 2026-01-25 02:09
+- Location: Freerepublic.com
+- Description: Did you know that in most of America, police can take your property, even if you did nothing wrong? They don't have to charge you with a crime. They don't have to take you to court. They can just say they suspect you of a crime. Then they can grab your money,…
 
 
-### HOMICIDE on 2026-01-25 01:03
-- Location: KCRA Sacramento
-- Description: Some called for the resignation of top officials or to cut funding for Immigration and Customs Enforcement.
+### SHOOTING on 2026-01-25 02:09
+- Location: Mediaite
+- Description: Chuck Schumer vowed congressional Democrats will vote against a package that includes billions of dollars for DHS after Alex Pretti was shot in Minnesota
+The post Another Shutdown Looms? Schumer Threatens Dems Will Vote Against Funding ICE After Latest Minnes…
 
 
-### HOMICIDE on 2026-01-25 01:00
-- Location: 7NEWS.com.au
-- Description: It is less than three weeks after another fatal shooting by immigration enforcement officers in the city sparked national outrage.
+### HOMICIDE on 2026-01-25 02:07
+- Location: Fox News
+- Description: DHS Secretary Kristi Noem warns the Trump administration is considering Insurrection Act as tensions escalate in Minneapolis following deadly Border Patrol shooting and unrest.
 
-Analysis generated at: Mon Jan 26 01:22:08 UTC 2026
+Analysis generated at: Mon Jan 26 02:22:04 UTC 2026
