@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Jan 27 02:12:46 UTC 2026
+Last updated: Tue Jan 27 06:28:04 UTC 2026
 
 ## Latest Analysis
 
-Loaded 85081 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-26 02:04:18
+Loaded 85120 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-26 06:19:54
 
 Incidents by source:
 source
-newsapi           84980
+newsapi           85019
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-01-26 02:04
-- Location: The Indian Express
-- Description: Minnesota officials said Pretti had a valid state permit to carry a concealed firearm, which is protected under a 2022 Supreme Court ruling.
-
-
-### HOMICIDE on 2026-01-26 02:01
-- Location: CBC News
-- Description: The sentence for a Kelowna woman who killed her boyfriend with a vehicle in 2022 came to an abrupt halt on Friday after the court heard the accused had been hospitalized following a drug overdose and suicide attempt during the daily lunch break.
-
-
-### HOMICIDE on 2026-01-26 02:00
-- Location: Crooksandliars.com
-- Description: They're all out there in full damage control mode following another shooting in Minneapolis by Trump's DHS thugs. Not long after Trump's storm-trooper Gergory Bovino gave his press conference lying about what anyone could clearly see with their own eyes in th…
-
-
-### OTHER on 2026-01-26 01:42
-- Location: The Atlantic
-- Description: In the frozen streets of Minneapolis, something profound is happening.
-
-
-### SHOOTING on 2026-01-26 01:41
+### OTHER on 2026-01-26 06:19
 - Location: ABC News (AU)
-- Description: The man is charged with nine offences, including drug possession and supply and dealing with the proceeds of crime.
+- Description: Politician Frank Pangallo is calling for a permanent memorial to be installed at an Adelaide beach to acknowledge the disappearance of the Beaumont children in 1966.
 
-Analysis generated at: Tue Jan 27 02:12:46 UTC 2026
+
+### OTHER on 2026-01-26 06:13
+- Location: Hurriyet Daily News
+- Description: Turkish authorities are moving to enforce mandatory age-rating standards for all digital games offered on online platforms through a new legislative proposal, aiming to block unclassified titles from the domestic market and restrict children’s access to unrat…
+
+
+### SHOOTING on 2026-01-26 06:01
+- Location: RTE
+- Description: The shooting of Alex Pretti will spark fraught political battles after the Trump administration offered contradictory claims to what can be viewed in footage that has been replayed on TV and in social media feeds since the incident happened.
+
+
+### OTHER on 2026-01-26 06:00
+- Location: Insurance Journal
+- Description: A reality TV series meant to spotlight the New York Police Department has spawned a real-life legal drama involving the city and the show’s producer, Jordan McGraw — the son of TV’s “Dr. Phil” McGraw. The city sued the younger …
+
+
+### OTHER on 2026-01-26 06:00
+- Location: Gossiplankanews.com
+- Description: Notices have been issued to Mr. Namal Rajapaksa, National Organizer of the Sri Lanka Podujana Peramuna (SLPP) and Member of Parliament, and Mrs. Shiranthi Rajapaksa, wife of former President Mahinda Rajapaksa, to appear before various investigative divisions …
+
+Analysis generated at: Tue Jan 27 06:28:04 UTC 2026
