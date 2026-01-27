@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Jan 27 12:36:53 UTC 2026
+Last updated: Tue Jan 27 13:01:40 UTC 2026
 
 ## Latest Analysis
 
-Loaded 85183 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-26 12:36:04
+Loaded 85188 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-26 13:00:00
 
 Incidents by source:
 source
-newsapi           85082
+newsapi           85087
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-01-26 12:36
-- Location: Freerepublic.com
-- Description: Minnesota Attorney General Keith Ellison previously argued that Americans have no Second Amendment right to carry firearms at political protests. Ellison joined 16 other attorneys general from Democrat-led states in an amicus brief filed with the Ninth Circui…
+### HOMICIDE on 2026-01-26 13:00
+- Location: IndieWire
+- Description: Sundance: Alex Gibney directs this purposely confrontational and quite emotional look at the author's life both before and after the vicious attack that almost ended his life.
 
 
-### SHOOTING on 2026-01-26 12:30
-- Location: Poynter
-- Description: This is The Poynter Report, your daily guide to the news about news. Subscribe to get it in your inbox every weekday. Believe what we tell you, not your own […]
-The post Once again, citizen videos of an ICE shooting dispute what the government is telling Amer…
+### OTHER on 2026-01-26 13:00
+- Location: New York Post
+- Description: Maria Corina Machado is vowing to return to Venezuela soon, despite the risks the opposition leader faces once she's back on her native soil.
 
 
-### SHOOTING on 2026-01-26 12:21
-- Location: TMZ
-- Description: President Trump is chiming in again on the fatal shooting of Alex Pretti by a federal Border Patrol agent in Minnesota, saying his administration is looking into the matter while also criticizing Pretti for carrying a "very powerful, fully loaded" gun.
+### SHOOTING on 2026-01-26 12:58
+- Location: TODAY
+- Description: MINNEAPOLIS — Alex Pretti, the Minneapolis man fatally shot by a federal agent Saturday, was a 37-year-old intensive care nurse whose family remembered him as a “kind-hearted soul” who cared deeply for the patients he served at a Veterans Affairs facility.“Al…
 
 
-### OTHER on 2026-01-26 12:18
-- Location: Lithub.com
-- Description: Since early December of last year, thousands of ICE officers have streamed into Minnesota to carry out a violent and grossly unconstitutional campaign of state intimidation upon the people of Minneapolis and St. Paul. Children and their families have been
+### OTHER on 2026-01-26 12:45
+- Location: Whyevolutionistrue.com
+- Description: Welcome to the last Monday in January; it’s January 26, 2026, and Bubble Wrap Appreciation Day. Who among us has not popped the stuff?  Here’s a 3½-minute video about how they make the stuff: Here’s the weather forecast from Chicago with temperatures (high an…
 
 
-### SHOOTING on 2026-01-26 12:16
-- Location: Israelnationalnews.com
-- Description: The IDF has insisted shots fired towards a Jew by a Palestinian Authority police officer were not a terror attack."Following the initial report regarding a shooting toward an Israeli vehicle near the area of Mount Ebal, an initial review at the scene inquiry …
+### OTHER on 2026-01-26 12:41
+- Location: Westernjournal.com
+- Description: Hunt served on the board of Harris Center for Mental Health and Intellectual and Developmental Disabilities from January 2019 to March 2021.
 
-Analysis generated at: Tue Jan 27 12:36:53 UTC 2026
+Analysis generated at: Tue Jan 27 13:01:40 UTC 2026
