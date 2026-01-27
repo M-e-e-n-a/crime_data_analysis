@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Jan 26 18:28:22 UTC 2026
+Last updated: Tue Jan 27 01:21:29 UTC 2026
 
 ## Latest Analysis
 
-Loaded 85052 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-25 18:27:18
+Loaded 85075 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-26 01:17:12
 
 Incidents by source:
 source
-newsapi           84951
+newsapi           84974
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2026-01-25 18:27
-- Location: Slate Magazine
-- Description: The community is pulling together. It has been eye-opening.
+### HOMICIDE on 2026-01-26 01:17
+- Location: NBC News
+- Description: The Border Patrol’s killing of Alex Pretti in Minneapolis has revived concerns about whether immigration enforcement officers are properly trained to deal with protesters.
 
 
-### HOMICIDE on 2026-01-25 18:23
-- Location: Forbes
-- Description: Pretti, a 37-year-old nurse, was shot and killed by ICE agents on Saturday.
+### SHOOTING on 2026-01-26 01:15
+- Location: Freerepublic.com
+- Description: Minneapolis Mayor Jacob Frey says the city will file a temporary restraining order on Monday in an effort to halt Operation Metro Surge and get federal agents out of Minnesota. FOX 9's Mary McGuire has more.
 
 
-### SHOOTING on 2026-01-25 18:19
-- Location: Breitbart News
-- Description: Minneapolis Police Chief Brian O’Hara warned on Face the Nation Sunday that public anger over a string of federal‑involved shootings has reached a breaking point, saying the city is so overwhelmed that even a finding of legal justification in the latest incid…
+### HOMICIDE on 2026-01-26 01:09
+- Location: Honolulu Star-Advertiser
+- Description: Former President Obama and Michelle Obama called on Americans to recognize the dangers of the increasingly violent Immigration and Customs Enforcement crack-downs in the wake of the deadly shooting of an ICU nurse in Minneapolis.
 
 
-### SHOOTING on 2026-01-25 18:17
-- Location: HuffPost
-- Description: Families of the victims of the 2022 mass shooting expressed their frustration with the not guilty verdict.
+### SHOOTING on 2026-01-26 01:04
+- Location: Fox News
+- Description: Surveillance video shows masked suspects ramming a car into a California jewelry store, looting cases, stealing the owner’s gun and fleeing in cars that later crashed during police chases.
 
 
-### HOMICIDE on 2026-01-25 18:08
-- Location: Business Insider
-- Description: The killing of Alex Pretti, a US citizen, by ICE in Minneapolis on Saturday has drawn sharp responses from many Americans, including business leaders.
+### OTHER on 2026-01-26 01:04
+- Location: Slashdot.org
+- Description: Adafruit managing director Phillip Torrone (also long-time Slashdot reader ptorrone ) writes: Washington State lawmakers are proposing bills (HB 2320 and HB 2321) that would require 3D printers and CNC machines to block certain designs using software-based "f…
 
-Analysis generated at: Mon Jan 26 18:28:22 UTC 2026
+Analysis generated at: Tue Jan 27 01:21:29 UTC 2026
