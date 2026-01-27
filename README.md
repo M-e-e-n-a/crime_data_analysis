@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Jan 27 13:01:40 UTC 2026
+Last updated: Tue Jan 27 18:31:06 UTC 2026
 
 ## Latest Analysis
 
-Loaded 85188 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-26 13:00:00
+Loaded 85279 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-26 18:31:00
 
 Incidents by source:
 source
-newsapi           85087
+newsapi           85178
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-01-26 13:00
-- Location: IndieWire
-- Description: Sundance: Alex Gibney directs this purposely confrontational and quite emotional look at the author's life both before and after the vicious attack that almost ended his life.
+### HOMICIDE on 2026-01-26 18:31
+- Location: Bossip
+- Description: Singer D4vd faces mounting legal troubles over Celeste's death, as his associate is arrested and manager testifies.
+The post Update: D4vd Associate Arrested For Failing To Report As Witness In Celeste Rivas Case; Singer Reportedly ‘Likely To Be Indicted’ appe…
 
 
-### OTHER on 2026-01-26 13:00
-- Location: New York Post
-- Description: Maria Corina Machado is vowing to return to Venezuela soon, despite the risks the opposition leader faces once she's back on her native soil.
+### HOMICIDE on 2026-01-26 18:30
+- Location: CBC News
+- Description: A man accused of killing a Ukrainian newcomer two years ago in Winnipeg has pleaded not guilty to a stabbing that left blood on a sidewalk during morning rush hour.
 
 
-### SHOOTING on 2026-01-26 12:58
-- Location: TODAY
-- Description: MINNEAPOLIS — Alex Pretti, the Minneapolis man fatally shot by a federal agent Saturday, was a 37-year-old intensive care nurse whose family remembered him as a “kind-hearted soul” who cared deeply for the patients he served at a Veterans Affairs facility.“Al…
+### SHOOTING on 2026-01-26 18:30
+- Location: CBS News
+- Description: Gov. Tim Walz says that he and President Trump shared a phone call Monday morning, during which he says the president agreed to consider a reduction of federal immigration enforcement forces in Minnesota following the second fatal shooting of a resident​ by f…
 
 
-### OTHER on 2026-01-26 12:45
-- Location: Whyevolutionistrue.com
-- Description: Welcome to the last Monday in January; it’s January 26, 2026, and Bubble Wrap Appreciation Day. Who among us has not popped the stuff?  Here’s a 3½-minute video about how they make the stuff: Here’s the weather forecast from Chicago with temperatures (high an…
+### OTHER on 2026-01-26 18:22
+- Location: Common Dreams
+- Description: Kristi Noem, Donald Trump, Greg Bovino, and even whiskey Pete Hegseth are all out there trying to tell us that Alex Pretti was a domestic terrorist who came to a protest with the intention to “massacre” ICE agents. But that’s not their real message. Back in 1…
 
 
-### OTHER on 2026-01-26 12:41
-- Location: Westernjournal.com
-- Description: Hunt served on the board of Harris Center for Mental Health and Intellectual and Developmental Disabilities from January 2019 to March 2021.
+### HOMICIDE on 2026-01-26 18:19
+- Location: New Zealand Herald
+- Description: Police are investigating whether Jillian Clark died in a murder-suicide attempt.
 
-Analysis generated at: Tue Jan 27 13:01:40 UTC 2026
+Analysis generated at: Tue Jan 27 18:31:06 UTC 2026
