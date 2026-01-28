@@ -1,10 +1,10 @@
 
-Loaded 85296 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-27 01:10:37
+Loaded 85302 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-27 02:00:00
 
 Incidents by source:
 source
-newsapi           85195
+newsapi           85201
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-01-27 01:10
-- Location: Fox News
-- Description: Former DHS Secretary Chad Wolf calls President Donald Trump's decision to send 'border czar' Tom Homan to Minnesota a "stroke of genius" for deportations.
+### SHOOTING on 2026-01-27 02:00
+- Location: Memeorandum.com
+- Description: Carl Hulse / New York Times:
+Democrats Embrace a Shutdown Fight They Wanted to Avoid  —  After a second fatal shooting of a U.S. citizen in Minneapolis, Democrats say public opinion is on their side and they are willing to risk a backlash to counter what they…
 
 
-### HOMICIDE on 2026-01-27 01:07
-- Location: Just Jared
-- Description: American Idol is paying tribute to Robin Kaye, the show’s late music supervisor who was killed in her Los Angeles home in summer 2025. The season 24 premiere began with a dedication to Robin, who was murder on July 10, 2025. Robin and her husband Thomas Deluc…
+### HOMICIDE on 2026-01-27 01:59
+- Location: KPBS
+- Description: San Diego’s elected officials renew calls to impeach Kristi Noem.
 
 
-### OTHER on 2026-01-27 01:03
-- Location: New York Post
-- Description: Numerous employees ignored the nightmare for their own financial gain, a shocking lawsuit claims.
+### HOMICIDE on 2026-01-27 01:53
+- Location: CBS News
+- Description: A growing number of Republicans, including some Trump allies, are questioning or criticizing the Trump administration's response to the killing of Alex Pretti.
 
 
-### HOMICIDE on 2026-01-27 01:01
-- Location: CBC News
-- Description: A panel of judges in Mexico is set to review the case of a B.C. man who was acquitted of the killing of a woman from Dawson Creek, B.C., while the pair were on vacation. Kiara Agnew, 23, was found dead in a laundry room at a resort in Playa del Carmen, Mexico…
+### OTHER on 2026-01-27 01:37
+- Location: Bleeding Cool News
+- Description: Welcome to Monday nights, fans of ABC and Showrunner Alexi Hawley's The Rookie! We've got our updated preview for S08E04: "Cut and Run" to help everyone process the change. This week, Nolan (Nathan Fillion) and Bailey (Jenna Dewan) find themselves hunting dow…
 
 
-### HOMICIDE on 2026-01-27 01:00
-- Location: Fox News
-- Description: Charlamagne compared the Trump regime to Nazi Germany, predicting future prosecution of leaders while defending Second Amendment rights after activist Alex Pretti's shooting death.
+### HOMICIDE on 2026-01-27 01:33
+- Location: CBS News
+- Description: ICE's Homeland Security Investigations unit is leading the probe of the fatal shooting of Alex Pretti by a Border Patrol officer.
 
-Analysis generated at: Wed Jan 28 01:17:02 UTC 2026
+Analysis generated at: Wed Jan 28 02:08:08 UTC 2026
