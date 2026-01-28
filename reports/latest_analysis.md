@@ -1,10 +1,10 @@
 
-Loaded 85279 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-26 18:31:00
+Loaded 85296 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-27 01:10:37
 
 Incidents by source:
 source
-newsapi           85178
+newsapi           85195
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-01-26 18:31
-- Location: Bossip
-- Description: Singer D4vd faces mounting legal troubles over Celeste's death, as his associate is arrested and manager testifies.
-The post Update: D4vd Associate Arrested For Failing To Report As Witness In Celeste Rivas Case; Singer Reportedly ‘Likely To Be Indicted’ appe…
+### OTHER on 2026-01-27 01:10
+- Location: Fox News
+- Description: Former DHS Secretary Chad Wolf calls President Donald Trump's decision to send 'border czar' Tom Homan to Minnesota a "stroke of genius" for deportations.
 
 
-### HOMICIDE on 2026-01-26 18:30
+### HOMICIDE on 2026-01-27 01:07
+- Location: Just Jared
+- Description: American Idol is paying tribute to Robin Kaye, the show’s late music supervisor who was killed in her Los Angeles home in summer 2025. The season 24 premiere began with a dedication to Robin, who was murder on July 10, 2025. Robin and her husband Thomas Deluc…
+
+
+### OTHER on 2026-01-27 01:03
+- Location: New York Post
+- Description: Numerous employees ignored the nightmare for their own financial gain, a shocking lawsuit claims.
+
+
+### HOMICIDE on 2026-01-27 01:01
 - Location: CBC News
-- Description: A man accused of killing a Ukrainian newcomer two years ago in Winnipeg has pleaded not guilty to a stabbing that left blood on a sidewalk during morning rush hour.
+- Description: A panel of judges in Mexico is set to review the case of a B.C. man who was acquitted of the killing of a woman from Dawson Creek, B.C., while the pair were on vacation. Kiara Agnew, 23, was found dead in a laundry room at a resort in Playa del Carmen, Mexico…
 
 
-### SHOOTING on 2026-01-26 18:30
-- Location: CBS News
-- Description: Gov. Tim Walz says that he and President Trump shared a phone call Monday morning, during which he says the president agreed to consider a reduction of federal immigration enforcement forces in Minnesota following the second fatal shooting of a resident​ by f…
+### HOMICIDE on 2026-01-27 01:00
+- Location: Fox News
+- Description: Charlamagne compared the Trump regime to Nazi Germany, predicting future prosecution of leaders while defending Second Amendment rights after activist Alex Pretti's shooting death.
 
-
-### OTHER on 2026-01-26 18:22
-- Location: Common Dreams
-- Description: Kristi Noem, Donald Trump, Greg Bovino, and even whiskey Pete Hegseth are all out there trying to tell us that Alex Pretti was a domestic terrorist who came to a protest with the intention to “massacre” ICE agents. But that’s not their real message. Back in 1…
-
-
-### HOMICIDE on 2026-01-26 18:19
-- Location: New Zealand Herald
-- Description: Police are investigating whether Jillian Clark died in a murder-suicide attempt.
-
-Analysis generated at: Tue Jan 27 18:31:06 UTC 2026
+Analysis generated at: Wed Jan 28 01:17:02 UTC 2026
