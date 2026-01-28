@@ -1,10 +1,10 @@
 
-Loaded 85426 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-27 13:00:56
+Loaded 85519 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-27 18:27:16
 
 Incidents by source:
 source
-newsapi           85325
+newsapi           85418
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-01-27 13:00
-- Location: The Denver Post
-- Description: Denver Mayor Mike Johnston says he'll focus on reducing homicides, getting more people off the streets, accelerating the permitting of new housing and filling some of downtown's vacant office space.
+### HOMICIDE on 2026-01-27 18:27
+- Location: New York Post
+- Description: Janet Flanner, a struggling novelist with an unconventional lifestyle, was one of countless Americans living in 1920s Paris, now known as “The Lost Generation.” Her friend Jane Grant, a New York Times reporter, was starting an ambitious magazine with her husb…
 
 
-### ROBBERY/THEFT on 2026-01-27 12:57
-- Location: Databreaches.net
-- Description: Lydia Blackstone reports: A 20-year-old Best Buy employee is jailed in Savannah after police said he helped a group of suspected shoplifters walk out of the store with more than $40,000 in merchandise, claiming he was pressured by online blackmail threats. Do…
+### OTHER on 2026-01-27 18:27
+- Location: Common Dreams
+- Description: He broke it! He did not wait for permission to change things. He simply bent and, in most cases, broke it. If the answer was going to be no, why wait for the no is his strategy. The strategy is to test the basic mores of the country. Don't ask about tearing d…
 
 
-### HOMICIDE on 2026-01-27 12:55
-- Location: WFTV Orlando
-- Description: Wedding, who competed for Canada in the Salt Lake City Olympics in 2002, is facing 17 charges related to drug trafficking and murder,
+### SHOOTING on 2026-01-27 18:23
+- Location: Fox News
+- Description: A Los Angeles homeowner fired multiple shots at two suspects during attempted burglary in Studio City early Tuesday morning, forcing the pair to flee in SUV.
 
 
-### OTHER on 2026-01-27 12:54
-- Location: ABC News
-- Description: ABC News' Danny New introduces us to a Maryland man whose work at an animal shelter are, in his words, “cheaper than therapy,” even in snowy weather.
+### SHOOTING on 2026-01-27 18:22
+- Location: Freerepublic.com
+- Description: U.S. Sen Ted Cruz is urging the Trump administration to rethink its handling of the recent shooting of protestors by Immigration and Customers Enforcement officers in Minnesota. While Cruz praised the administration's crackdown on illegal immigration, he is t…
 
 
-### OTHER on 2026-01-27 12:45
-- Location: Whyevolutionistrue.com
-- Description: Welcome to The Cruelest Day: Tuesday, January 27, 2026, and Holocaust Remembrance Day, marking the liberation of Auschwitz in 1945.  Here’s a 15-minute movie showing the liberation of the camps and giving interviews with the liberators and survivors: I visite…
+### HOMICIDE on 2026-01-27 18:09
+- Location: Fox News
+- Description: U.S. News ranks safest American cities, with Johns Creek, Georgia topping list amid state's strict immigration laws following Laken Riley murder case.
 
-Analysis generated at: Wed Jan 28 13:01:52 UTC 2026
+Analysis generated at: Wed Jan 28 18:31:05 UTC 2026
