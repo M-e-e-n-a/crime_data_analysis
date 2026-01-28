@@ -1,10 +1,10 @@
 
-Loaded 85338 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-27 06:23:43
+Loaded 85420 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-27 12:32:13
 
 Incidents by source:
 source
-newsapi           85237
+newsapi           85319
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-01-27 06:23
-- Location: ABC News (AU)
-- Description: A 20-year-old man remains in an induced coma after being stabbed "no less than 10 times" at a hotel in Victor Harbor, on South Australia's Fleurieu Peninsula. Warning: This story contains content some readers may find distressing.
+### ASSAULT on 2026-01-27 12:32
+- Location: Fox News
+- Description: Top border patrol official leading deportation operations in Minnesota and other states, Gregory Bovino, is set to return to prior duties and will be replaced with Tom Homan in MN.
 
 
-### OTHER on 2026-01-27 06:01
+### HOMICIDE on 2026-01-27 12:31
+- Location: Freerepublic.com
+- Description: WASHINGTON (AP) — President Donald Trump shifted toward a more conciliatory approach with Democratic leaders in Minnesota on Monday, a sudden change in tack following an outcry over the second fatal shooting by federal agents in the state this month during th…
+
+
+### HOMICIDE on 2026-01-27 12:30
+- Location: CBC News
+- Description: A central Edmonton apartment building could soon reopen to tenants after it was shuttered and evacuated in 2024 following the killing of a security guard and multiple reported safety violations.
+
+
+### OTHER on 2026-01-27 12:26
 - Location: BBC News
-- Description: How a secret audio recording played in court helped clear a woman accused of making a false rape allegation.
+- Description: Critics say the proposal could see even younger children becoming offenders as well as breaching children's rights.
 
 
-### OTHER on 2026-01-27 06:00
-- Location: Foreign Policy
-- Description: He has boosted the private sector and fired tens of thousands of civil servants.
+### HOMICIDE on 2026-01-27 12:25
+- Location: Al Jazeera English
+- Description: Shootings of Alex Pretti and Renee Nicole Good are two of at least nine deaths related to immigration enforcement in US.
 
-
-### OTHER on 2026-01-27 06:00
-- Location: BBC News
-- Description: The "crazy" situation of cars broken into for parcel shelves that are listed for sale hours later.
-
-
-### OTHER on 2026-01-27 06:00
-- Location: Naturalnews.com
-- Description: Trump claims a classified weapon called “The Discombobulator” was used by U.S. forces to disable Venezuelan defensive systems during the Jan. 3 operation that captured Nicolás Maduro. He said it made equipment “not work,” including radar and rockets, but refu…
-
-Analysis generated at: Wed Jan 28 06:29:28 UTC 2026
+Analysis generated at: Wed Jan 28 12:37:16 UTC 2026
