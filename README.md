@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Jan 28 12:37:16 UTC 2026
+Last updated: Wed Jan 28 13:01:52 UTC 2026
 
 ## Latest Analysis
 
-Loaded 85420 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-27 12:32:13
+Loaded 85426 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-27 13:00:56
 
 Incidents by source:
 source
-newsapi           85319
+newsapi           85325
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2026-01-27 12:32
-- Location: Fox News
-- Description: Top border patrol official leading deportation operations in Minnesota and other states, Gregory Bovino, is set to return to prior duties and will be replaced with Tom Homan in MN.
+### HOMICIDE on 2026-01-27 13:00
+- Location: The Denver Post
+- Description: Denver Mayor Mike Johnston says he'll focus on reducing homicides, getting more people off the streets, accelerating the permitting of new housing and filling some of downtown's vacant office space.
 
 
-### HOMICIDE on 2026-01-27 12:31
-- Location: Freerepublic.com
-- Description: WASHINGTON (AP) — President Donald Trump shifted toward a more conciliatory approach with Democratic leaders in Minnesota on Monday, a sudden change in tack following an outcry over the second fatal shooting by federal agents in the state this month during th…
+### ROBBERY/THEFT on 2026-01-27 12:57
+- Location: Databreaches.net
+- Description: Lydia Blackstone reports: A 20-year-old Best Buy employee is jailed in Savannah after police said he helped a group of suspected shoplifters walk out of the store with more than $40,000 in merchandise, claiming he was pressured by online blackmail threats. Do…
 
 
-### HOMICIDE on 2026-01-27 12:30
-- Location: CBC News
-- Description: A central Edmonton apartment building could soon reopen to tenants after it was shuttered and evacuated in 2024 following the killing of a security guard and multiple reported safety violations.
+### HOMICIDE on 2026-01-27 12:55
+- Location: WFTV Orlando
+- Description: Wedding, who competed for Canada in the Salt Lake City Olympics in 2002, is facing 17 charges related to drug trafficking and murder,
 
 
-### OTHER on 2026-01-27 12:26
-- Location: BBC News
-- Description: Critics say the proposal could see even younger children becoming offenders as well as breaching children's rights.
+### OTHER on 2026-01-27 12:54
+- Location: ABC News
+- Description: ABC News' Danny New introduces us to a Maryland man whose work at an animal shelter are, in his words, “cheaper than therapy,” even in snowy weather.
 
 
-### HOMICIDE on 2026-01-27 12:25
-- Location: Al Jazeera English
-- Description: Shootings of Alex Pretti and Renee Nicole Good are two of at least nine deaths related to immigration enforcement in US.
+### OTHER on 2026-01-27 12:45
+- Location: Whyevolutionistrue.com
+- Description: Welcome to The Cruelest Day: Tuesday, January 27, 2026, and Holocaust Remembrance Day, marking the liberation of Auschwitz in 1945.  Here’s a 15-minute movie showing the liberation of the camps and giving interviews with the liberators and survivors: I visite…
 
-Analysis generated at: Wed Jan 28 12:37:16 UTC 2026
+Analysis generated at: Wed Jan 28 13:01:52 UTC 2026
