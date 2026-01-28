@@ -1,10 +1,10 @@
 
-Loaded 85302 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-27 02:00:00
+Loaded 85338 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-27 06:23:43
 
 Incidents by source:
 source
-newsapi           85201
+newsapi           85237
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-01-27 02:00
-- Location: Memeorandum.com
-- Description: Carl Hulse / New York Times:
-Democrats Embrace a Shutdown Fight They Wanted to Avoid  —  After a second fatal shooting of a U.S. citizen in Minneapolis, Democrats say public opinion is on their side and they are willing to risk a backlash to counter what they…
+### OTHER on 2026-01-27 06:23
+- Location: ABC News (AU)
+- Description: A 20-year-old man remains in an induced coma after being stabbed "no less than 10 times" at a hotel in Victor Harbor, on South Australia's Fleurieu Peninsula. Warning: This story contains content some readers may find distressing.
 
 
-### HOMICIDE on 2026-01-27 01:59
-- Location: KPBS
-- Description: San Diego’s elected officials renew calls to impeach Kristi Noem.
+### OTHER on 2026-01-27 06:01
+- Location: BBC News
+- Description: How a secret audio recording played in court helped clear a woman accused of making a false rape allegation.
 
 
-### HOMICIDE on 2026-01-27 01:53
-- Location: CBS News
-- Description: A growing number of Republicans, including some Trump allies, are questioning or criticizing the Trump administration's response to the killing of Alex Pretti.
+### OTHER on 2026-01-27 06:00
+- Location: Foreign Policy
+- Description: He has boosted the private sector and fired tens of thousands of civil servants.
 
 
-### OTHER on 2026-01-27 01:37
-- Location: Bleeding Cool News
-- Description: Welcome to Monday nights, fans of ABC and Showrunner Alexi Hawley's The Rookie! We've got our updated preview for S08E04: "Cut and Run" to help everyone process the change. This week, Nolan (Nathan Fillion) and Bailey (Jenna Dewan) find themselves hunting dow…
+### OTHER on 2026-01-27 06:00
+- Location: BBC News
+- Description: The "crazy" situation of cars broken into for parcel shelves that are listed for sale hours later.
 
 
-### HOMICIDE on 2026-01-27 01:33
-- Location: CBS News
-- Description: ICE's Homeland Security Investigations unit is leading the probe of the fatal shooting of Alex Pretti by a Border Patrol officer.
+### OTHER on 2026-01-27 06:00
+- Location: Naturalnews.com
+- Description: Trump claims a classified weapon called “The Discombobulator” was used by U.S. forces to disable Venezuelan defensive systems during the Jan. 3 operation that captured Nicolás Maduro. He said it made equipment “not work,” including radar and rockets, but refu…
 
-Analysis generated at: Wed Jan 28 02:08:08 UTC 2026
+Analysis generated at: Wed Jan 28 06:29:28 UTC 2026
