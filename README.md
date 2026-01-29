@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Jan 29 06:39:53 UTC 2026
+Last updated: Thu Jan 29 12:43:11 UTC 2026
 
 ## Latest Analysis
 
-Loaded 85596 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-28 06:33:44
+Loaded 85687 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-28 12:38:35
 
 Incidents by source:
 source
-newsapi           85495
+newsapi           85586
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-01-28 06:33
-- Location: ABC News (AU)
-- Description: In one of the most harrowing accounts yet a doctor who fled Iran for Australia has recounted trying to save bullet-riddled victims of the government crackdown on protests.
+### HOMICIDE on 2026-01-28 12:38
+- Location: Crooksandliars.com
+- Description: I don’t know why Chad Mizelle, who recently resigned from his job as chief of staff for Attorney General Pam Bondi after an unusually short tenure, felt the need to go on CNN and blame Alex Pretti for his own murder in Minneapolis. Even Fox News has backed aw…
 
 
-### OTHER on 2026-01-28 06:23
-- Location: Freerepublic.com
-- Description: Leaked Signal chats allegedly link Minnesota officials to a coordinated anti-ICE network accused of obstructing federal enforcement, sparking calls for investigations as evidence spreads nationwide.
+### OTHER on 2026-01-28 12:35
+- Location: The Punch
+- Description: The Zamfara State Police Command arrested a 38-year-old man with 954 suspected explosive materials believed to be intended for bandits’ IEDs.
+
+Read More: https://punchng.com/police-arrest-38-year-old-man-with-954-suspected-explosives-in-zamfara/
 
 
-### OTHER on 2026-01-28 06:23
-- Location: Fox News
-- Description: Dozens arrested after anti-ICE protesters took over New York City hotel lobby, chanting against immigration enforcement and refusing to leave the Tribeca location.
+### ASSAULT on 2026-01-28 12:35
+- Location: WFTV Orlando
+- Description: The attacker was arrested and booked into the Hennepin County Jail on suspicion of third-degree assault.
 
 
-### HOMICIDE on 2026-01-28 06:06
-- Location: Israelnationalnews.com
-- Description: What' the use of International Holocaust Day events and Holocaust Museums if the murder of 6 million can be wantonly trivialized? Opinion.
+### ASSAULT on 2026-01-28 12:34
+- Location: WPXI Pittsburgh
+- Description: The attacker was arrested and booked into the Hennepin County Jail on suspicion of third-degree assault.
 
 
-### OTHER on 2026-01-28 06:01
-- Location: Insurance Journal
-- Description: In March of 2025 a well-known dentist’s office exploded in the town of Evergreen, Alabama, near the Florida line. Today, the owner of that office, a dentist described as “very successful” and a “very nice guy,” is in jail, charged …
+### ASSAULT on 2026-01-28 12:34
+- Location: WSOC Charlotte
+- Description: The attacker was arrested and booked into the Hennepin County Jail on suspicion of third-degree assault.
 
-Analysis generated at: Thu Jan 29 06:39:53 UTC 2026
+Analysis generated at: Thu Jan 29 12:43:11 UTC 2026
