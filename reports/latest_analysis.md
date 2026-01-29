@@ -1,10 +1,10 @@
 
-Loaded 85544 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-28 01:22:26
+Loaded 85560 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-28 02:29:05
 
 Incidents by source:
 source
-newsapi           85443
+newsapi           85459
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-01-28 01:22
-- Location: The Denver Post
-- Description: By LAURA BARGFELD and HANNAH SCHOENBAUM MINNEAPOLIS (AP) — A man sprayed an unknown substance on Democratic U.S. Rep. Ilhan Omar and was tackled to the ground Tuesday during a town hall she was hosting in Minneapolis, where tensions over federal immigration e…
+### OTHER on 2026-01-28 02:29
+- Location: Fox News
+- Description: WNBA star Brittney Griner believes a new documentary about her Russian imprisonment draws parallels to current U.S. immigration crackdowns in its Sundance premiere.
 
 
-### HOMICIDE on 2026-01-28 01:20
-- Location: CBC News
-- Description: For days, the people of Minneapolis have been expressing outrage over the shooting death of Alex Pretti at the hands of federal agents. Here's how some of them are reacting to the shooting, as well as what they say about U.S. President Donald Trump's move to …
+### HOMICIDE on 2026-01-28 02:28
+- Location: Mediaite
+- Description: Top White House aide Stephen Miller said on Tuesday that agents in Minneapolis “may not have been following” proper protocol when they shot Alex Pretti, marking a stunning shift away from administration officials’ previous statements on the shooting. “The Whi…
 
 
-### HOMICIDE on 2026-01-28 01:16
-- Location: NPR
-- Description: The preliminary assessment from Customs and Border Protection makes no mention of Alex Pretti attacking officers or threatening them with a weapon — as the administration first described the incident.
+### ROBBERY/THEFT on 2026-01-28 02:27
+- Location: NBCSports.com
+- Description: This is the same investigation that led to the arrest of Portland's Chauncey Billups and Miami's Terry Rozier.
 
 
-### HOMICIDE on 2026-01-28 01:12
-- Location: Freerepublic.com
-- Description: The Department of Homeland Security is investigating whether an errant shot from Alex Pretti’s handgun — after it was taken off of him — caused Border Patrol agents to think they were being fired on, The Post has learned. As a result of the accidental dischar…
+### OTHER on 2026-01-28 02:27
+- Location: Japan Today
+- Description: A man charged at Democratic U.S. Representative Ilhan Omar and sprayed a foul-smelling ‌liquid on her during a town hall in Minneapolis on Tuesday as she condemned the actions of U.S. Immigration and Customs Enforcement in Minnesota. Video showed a ⁠man surgi…
 
 
-### DRUG RELATED on 2026-01-28 01:10
-- Location: New York Post
-- Description: Santa Monica's social justice-centered pot program will provide minorities, ex-cons and low-income individuals with tens of thousands of dollars in startup capital to help open up pot shops, and a local doctor is giving the ultra-woke plan a grim diagnosis.
+### OTHER on 2026-01-28 02:26
+- Location: The Star Online
+- Description: Jan 27 (Reuters) - A man charged at Democratic U.S. Representative Ilhan Omar and sprayed ‌a foul-smelling liquid on her during a town hall in Minneapolis on Tuesday ‌as she condemned the actions of U.S. Immigration and Customs Enforcement in Minnesota. Read …
 
-Analysis generated at: Thu Jan 29 01:26:53 UTC 2026
+Analysis generated at: Thu Jan 29 02:30:01 UTC 2026
