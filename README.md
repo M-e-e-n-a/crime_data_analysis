@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Jan 28 18:31:05 UTC 2026
+Last updated: Thu Jan 29 01:26:53 UTC 2026
 
 ## Latest Analysis
 
-Loaded 85519 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-27 18:27:16
+Loaded 85544 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-28 01:22:26
 
 Incidents by source:
 source
-newsapi           85418
+newsapi           85443
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-01-27 18:27
-- Location: New York Post
-- Description: Janet Flanner, a struggling novelist with an unconventional lifestyle, was one of countless Americans living in 1920s Paris, now known as “The Lost Generation.” Her friend Jane Grant, a New York Times reporter, was starting an ambitious magazine with her husb…
+### OTHER on 2026-01-28 01:22
+- Location: The Denver Post
+- Description: By LAURA BARGFELD and HANNAH SCHOENBAUM MINNEAPOLIS (AP) — A man sprayed an unknown substance on Democratic U.S. Rep. Ilhan Omar and was tackled to the ground Tuesday during a town hall she was hosting in Minneapolis, where tensions over federal immigration e…
 
 
-### OTHER on 2026-01-27 18:27
-- Location: Common Dreams
-- Description: He broke it! He did not wait for permission to change things. He simply bent and, in most cases, broke it. If the answer was going to be no, why wait for the no is his strategy. The strategy is to test the basic mores of the country. Don't ask about tearing d…
+### HOMICIDE on 2026-01-28 01:20
+- Location: CBC News
+- Description: For days, the people of Minneapolis have been expressing outrage over the shooting death of Alex Pretti at the hands of federal agents. Here's how some of them are reacting to the shooting, as well as what they say about U.S. President Donald Trump's move to …
 
 
-### SHOOTING on 2026-01-27 18:23
-- Location: Fox News
-- Description: A Los Angeles homeowner fired multiple shots at two suspects during attempted burglary in Studio City early Tuesday morning, forcing the pair to flee in SUV.
+### HOMICIDE on 2026-01-28 01:16
+- Location: NPR
+- Description: The preliminary assessment from Customs and Border Protection makes no mention of Alex Pretti attacking officers or threatening them with a weapon — as the administration first described the incident.
 
 
-### SHOOTING on 2026-01-27 18:22
+### HOMICIDE on 2026-01-28 01:12
 - Location: Freerepublic.com
-- Description: U.S. Sen Ted Cruz is urging the Trump administration to rethink its handling of the recent shooting of protestors by Immigration and Customers Enforcement officers in Minnesota. While Cruz praised the administration's crackdown on illegal immigration, he is t…
+- Description: The Department of Homeland Security is investigating whether an errant shot from Alex Pretti’s handgun — after it was taken off of him — caused Border Patrol agents to think they were being fired on, The Post has learned. As a result of the accidental dischar…
 
 
-### HOMICIDE on 2026-01-27 18:09
-- Location: Fox News
-- Description: U.S. News ranks safest American cities, with Johns Creek, Georgia topping list amid state's strict immigration laws following Laken Riley murder case.
+### DRUG RELATED on 2026-01-28 01:10
+- Location: New York Post
+- Description: Santa Monica's social justice-centered pot program will provide minorities, ex-cons and low-income individuals with tens of thousands of dollars in startup capital to help open up pot shops, and a local doctor is giving the ultra-woke plan a grim diagnosis.
 
-Analysis generated at: Wed Jan 28 18:31:05 UTC 2026
+Analysis generated at: Thu Jan 29 01:26:53 UTC 2026
