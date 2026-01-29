@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Jan 29 12:43:11 UTC 2026
+Last updated: Thu Jan 29 13:08:36 UTC 2026
 
 ## Latest Analysis
 
-Loaded 85687 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-28 12:38:35
+Loaded 85695 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-28 13:02:03
 
 Incidents by source:
 source
-newsapi           85586
+newsapi           85594
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,30 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-01-28 12:38
-- Location: Crooksandliars.com
-- Description: I don’t know why Chad Mizelle, who recently resigned from his job as chief of staff for Attorney General Pam Bondi after an unusually short tenure, felt the need to go on CNN and blame Alex Pretti for his own murder in Minneapolis. Even Fox News has backed aw…
+### OTHER on 2026-01-28 13:02
+- Location: Theregister.com
+- Description: Home Office white paper promises millions for LFR, a new Police.AI unit, and a bespoke legal framework
+Police in England and Wales will increase their use of live facial recognition (LFR) and artificial intelligence (AI) under wide-ranging government plans to…
 
 
-### OTHER on 2026-01-28 12:35
-- Location: The Punch
-- Description: The Zamfara State Police Command arrested a 38-year-old man with 954 suspected explosive materials believed to be intended for bandits’ IEDs.
-
-Read More: https://punchng.com/police-arrest-38-year-old-man-with-954-suspected-explosives-in-zamfara/
+### OTHER on 2026-01-28 13:02
+- Location: The Star Online
+- Description: IPOH: The police have arrested a 29-year-old woman who ran amok at an eatery in Taman Tasek Damai and injured two workers there. Read full story
 
 
-### ASSAULT on 2026-01-28 12:35
-- Location: WFTV Orlando
-- Description: The attacker was arrested and booked into the Hennepin County Jail on suspicion of third-degree assault.
+### SHOOTING on 2026-01-28 13:00
+- Location: The Denver Post
+- Description: A bill in the Colorado legislature would expand the list of who can seek extreme risk protection orders from a court.
 
 
-### ASSAULT on 2026-01-28 12:34
-- Location: WPXI Pittsburgh
-- Description: The attacker was arrested and booked into the Hennepin County Jail on suspicion of third-degree assault.
+### ROBBERY/THEFT on 2026-01-28 13:00
+- Location: Activistpost.com
+- Description: Which Country Is Israel’s Most Complete Puppet, America or Britain? Paul Craig Roberts To please Israel, Trump attacked Iran, an act of war, and Trump is likely to submit to Netanyahu’s pressure to conduct a larger American attack on Iran. That the American p…
 
 
-### ASSAULT on 2026-01-28 12:34
-- Location: WSOC Charlotte
-- Description: The attacker was arrested and booked into the Hennepin County Jail on suspicion of third-degree assault.
+### OTHER on 2026-01-28 13:00
+- Location: esquire.com
+- Description: Hip-hop superstardom, a budding movie career, his own fashion line, and three kids with Rihanna. This is the new picture of success, and there ain’t a picket fence in sight.
 
-Analysis generated at: Thu Jan 29 12:43:11 UTC 2026
+Analysis generated at: Thu Jan 29 13:08:36 UTC 2026
