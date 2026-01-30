@@ -1,10 +1,10 @@
 
-Loaded 85873 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-29 06:32:49
+Loaded 85955 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-29 12:36:21
 
 Incidents by source:
 source
-newsapi           85772
+newsapi           85854
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-01-29 06:32
-- Location: Fox News
-- Description: Texas carried out the nation’s first execution of the year, putting to death a man convicted of killing his ex-girlfriend and her new boyfriend in a 1998 double murder.
+### OTHER on 2026-01-29 12:36
+- Location: Africasacountry.com
+- Description: In Chad, domestic labor between Chinese employers and local workers unfolds in private spaces where rules are missing and conflict fills the gap.
 
 
-### ASSAULT on 2026-01-29 06:31
+### SHOOTING on 2026-01-29 12:33
 - Location: CBC News
-- Description: Brenda Locke, who will travel to Ottawa next week to meet federal representatives, says she welcomes the additional resources.
+- Description: The Cree Nation of Mistissini is under a lockdown notice Thursday morning following a fatal shooting in the community.
 
 
-### OTHER on 2026-01-29 06:30
-- Location: HuffPost
-- Description: No one was injured when the driver struck a door of a building in the complex before reversing and striking it several more times.
+### OTHER on 2026-01-29 12:33
+- Location: Balloon-juice.com
+- Description: Pretty good name for a snowplow! "Abolish ICE" was submitted 9,200 times for Chicago's snowplow naming contest, records show. blockclubchi.co/3ZAnDTZ [image or embed] — Block Club Chicago (@blockclubchi.bsky.social) January 28, 2026 at 10:42 AM brass solidari…
 
 
-### OTHER on 2026-01-29 06:26
-- Location: The Indian Express
-- Description: The crash took place at the Chabad Lubavitch World Headquarters in Brooklyn and New City Police said that the driver of the car was arrested.
+### HOMICIDE on 2026-01-29 12:30
+- Location: Freerepublic.com
+- Description: COLUMBUS, Ohio (WSYX) — After over 45 years of uncertainty, the families of Lynn Vest and her 2-year-old nephew, Jeremy Pickens, finally have answers. The pair disappeared in November 1980 after going out to run errands, last seen at Hamilton and Main in Whit…
 
 
-### HOMICIDE on 2026-01-29 06:12
-- Location: New Zealand Herald
-- Description: Police were notified on January 1 of the death of a woman on Old Coach Rd.
+### OTHER on 2026-01-29 12:29
+- Location: ABC News
+- Description: Roads were nearly impassable in Ohio during the winter storm as an ambulance transferred a baby boy to Cincinnati Children's Hospital. David Muir shares how a snowplow driver helped save the day.
 
-Analysis generated at: Fri Jan 30 06:41:32 UTC 2026
+Analysis generated at: Fri Jan 30 12:40:58 UTC 2026
