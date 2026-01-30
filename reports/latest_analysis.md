@@ -1,10 +1,10 @@
 
-Loaded 85962 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-29 13:05:46
+Loaded 86057 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-29 18:34:00
 
 Incidents by source:
 source
-newsapi           85861
+newsapi           85956
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-01-29 13:05
+### HOMICIDE on 2026-01-29 18:34
+- Location: Snopes.com
+- Description: Footage authentically shows a confrontation between Alex Pretti and federal immigration agents 11 days before he was killed on Jan. 24, 2026.
+
+
+### OTHER on 2026-01-29 18:33
 - Location: The Times of India
-- Description: The Arunachal Pradesh Staff Selection Board has announced 205 vacancies for LDC, JSA, and Driver posts, with applications opening February 12, 2026, and closing February 25, 2026. The recruitment drive targets Group C positions, offering stable government job…
+- Description: In a recent meeting, Bihar's Chief Secretary Pratyaya Amrit emphasized the urgency of the Agristack initiative, encouraging district magistrates to accelerate the registration of farmers. From February 2-6, a focused effort aims to maximize farmer connectivit…
 
 
-### OTHER on 2026-01-29 13:01
-- Location: The Irish Times
-- Description: James and Patrick Mansfield were arrested on Thursday morning
+### OTHER on 2026-01-29 18:31
+- Location: The Times of India
+- Description: In a heartbreaking incident in Kaimur, Umashankar Paswan, the district vice-president of the Congress party, took his own life amid overwhelming financial challenges. His body was discovered in a locked room, accompanied by a note detailing his struggles with…
 
 
-### OTHER on 2026-01-29 12:55
-- Location: RTE
-- Description: Gardaí last year identified and safeguarded 151 children who were suspected victims of online exploitation and harm, 16 of whom were in Ireland.
+### OTHER on 2026-01-29 18:30
+- Location: The Times of India
+- Description: Jammu/Chamba: A joint team of security forces Thursday launched a search operation in Billawar in J&K’s Kathua district after locals reported sigh.
 
 
-### OTHER on 2026-01-29 12:55
-- Location: RTE
-- Description: Gardaí last year identified and safeguarded 151 children who were suspected victims of online exploitation and harm, 16 of whom were in Ireland.
+### OTHER on 2026-01-29 18:30
+- Location: The Times of India
+- Description: Fresh from being named a Padma awardee, Rohit Sharma’s journey took centre stage in Bengaluru on an evening that felt less like a book launch of The R.
 
-
-### OTHER on 2026-01-29 12:47
-- Location: Globalresearch.ca
-- Description: There are controversial interpretations of the real and ultimate reasons for the direct and extremely unilateral intervention of the West, and primarily the USA, in the "Kosovo Crisis" of 1998‒1999.
-The post The “Racak Case” (January 15th, 1999): The “False F…
-
-Analysis generated at: Fri Jan 30 13:06:29 UTC 2026
+Analysis generated at: Fri Jan 30 18:34:26 UTC 2026
