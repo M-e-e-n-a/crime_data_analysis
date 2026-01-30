@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Jan 30 12:40:58 UTC 2026
+Last updated: Fri Jan 30 13:06:29 UTC 2026
 
 ## Latest Analysis
 
-Loaded 85955 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-29 12:36:21
+Loaded 85962 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-29 13:05:46
 
 Incidents by source:
 source
-newsapi           85854
+newsapi           85861
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-01-29 12:36
-- Location: Africasacountry.com
-- Description: In Chad, domestic labor between Chinese employers and local workers unfolds in private spaces where rules are missing and conflict fills the gap.
+### OTHER on 2026-01-29 13:05
+- Location: The Times of India
+- Description: The Arunachal Pradesh Staff Selection Board has announced 205 vacancies for LDC, JSA, and Driver posts, with applications opening February 12, 2026, and closing February 25, 2026. The recruitment drive targets Group C positions, offering stable government job…
 
 
-### SHOOTING on 2026-01-29 12:33
-- Location: CBC News
-- Description: The Cree Nation of Mistissini is under a lockdown notice Thursday morning following a fatal shooting in the community.
+### OTHER on 2026-01-29 13:01
+- Location: The Irish Times
+- Description: James and Patrick Mansfield were arrested on Thursday morning
 
 
-### OTHER on 2026-01-29 12:33
-- Location: Balloon-juice.com
-- Description: Pretty good name for a snowplow! "Abolish ICE" was submitted 9,200 times for Chicago's snowplow naming contest, records show. blockclubchi.co/3ZAnDTZ [image or embed] — Block Club Chicago (@blockclubchi.bsky.social) January 28, 2026 at 10:42 AM brass solidari…
+### OTHER on 2026-01-29 12:55
+- Location: RTE
+- Description: Gardaí last year identified and safeguarded 151 children who were suspected victims of online exploitation and harm, 16 of whom were in Ireland.
 
 
-### HOMICIDE on 2026-01-29 12:30
-- Location: Freerepublic.com
-- Description: COLUMBUS, Ohio (WSYX) — After over 45 years of uncertainty, the families of Lynn Vest and her 2-year-old nephew, Jeremy Pickens, finally have answers. The pair disappeared in November 1980 after going out to run errands, last seen at Hamilton and Main in Whit…
+### OTHER on 2026-01-29 12:55
+- Location: RTE
+- Description: Gardaí last year identified and safeguarded 151 children who were suspected victims of online exploitation and harm, 16 of whom were in Ireland.
 
 
-### OTHER on 2026-01-29 12:29
-- Location: ABC News
-- Description: Roads were nearly impassable in Ohio during the winter storm as an ambulance transferred a baby boy to Cincinnati Children's Hospital. David Muir shares how a snowplow driver helped save the day.
+### OTHER on 2026-01-29 12:47
+- Location: Globalresearch.ca
+- Description: There are controversial interpretations of the real and ultimate reasons for the direct and extremely unilateral intervention of the West, and primarily the USA, in the "Kosovo Crisis" of 1998‒1999.
+The post The “Racak Case” (January 15th, 1999): The “False F…
 
-Analysis generated at: Fri Jan 30 12:40:58 UTC 2026
+Analysis generated at: Fri Jan 30 13:06:29 UTC 2026
