@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Jan 31 12:35:08 UTC 2026
+Last updated: Sat Jan 31 12:58:51 UTC 2026
 
 ## Latest Analysis
 
-Loaded 86223 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-30 12:34:10
+Loaded 86228 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-30 12:57:14
 
 Incidents by source:
 source
-newsapi           86122
+newsapi           86127
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-01-30 12:34
-- Location: Rlsbb.to
-- Description: Awards 3 wins total See more awards » Plot: A barrister visiting a town in Western Australian town battles police corruption and the silence of the locals to help a teenage girl seek justice against a gang of young rapists. Genre: Crime | DramaIMDB Rating Liv…
+### SHOOTING on 2026-01-30 12:57
+- Location: Marca
+- Description: NBA icon LeBron James has added his voice - albeit indirectly - to the growing national outrage following the fatal shooting of ICU nurse Alex Pretti by federal immigration officer
 
 
-### OTHER on 2026-01-30 12:30
-- Location: Silodrome.com
-- Description: This is a 1992 Harley-Davidson FXRT that was personally owned and ridden by outlaw motorcycle legend Sonny Barger – one of the most prominent...
-The post For Sale: Hells Angel Icon Sonny Barger’s Harley-Davidson FXRT appeared first on Silodrome.
+### OTHER on 2026-01-30 12:56
+- Location: DW (English)
+- Description: Relations between Czech President Petr Pavel and Foreign Minister Petr Macinka have almost completely broken down. With PM Andrej Babis backing his minister, the confrontation between president and government is growing.
 
 
-### OTHER on 2026-01-30 12:28
-- Location: Freerepublic.com
-- Description: Hillary Clinton took to social media to express support for the rioters in Minneapolis even as the disgraced former candidate and her husband were dodging a congressional subpoena looking into their relationship with family friend and Clinton Foundation co-fo…
+### HOMICIDE on 2026-01-30 12:55
+- Location: New York Post
+- Description: Accused assassin Luigi Mangione is due back in court in Manhattan on Friday, as his attorneys push to throw out the most serious federal charge that could see him face the death penalty. Mangione, 27, is due in federal court for a hearing, with the judge pote…
 
 
-### OTHER on 2026-01-30 12:20
-- Location: The New Republic
-- Description: This is a lightly edited transcript of the January 29 edition of Right Now With Perry Bacon. You can watch the video here or by following this show on YouTube or Substack.Perry Bacon: Good morning. I’m Perry Bacon. I’m the host of The New Republic’s Right Now…
+### OTHER on 2026-01-30 12:48
+- Location: Statetimes.in
+- Description: TRAFFIC POLICE HEADQUARTERS, J&K, JAMMU/SRINAGARTRAFFIC PLAN & ADVISORY FOR 31-01-2026:-In view of 20–30 Mtrs single-lane stretch at Kishtwari Pather caused by the sinking of road , Heavy Motor Vehicles ( HMVs ) shall be allowed to ply on alternate days . Pas…
 
 
-### HOMICIDE on 2026-01-30 12:20
-- Location: Jezebel
-- Description: ICE is required to issue a full report to Congress on any detainee death within 90 days. They've skipped the last 8 deaths entirely.
+### OTHER on 2026-01-30 12:36
+- Location: The Federalist
+- Description: The Trump administration believes it can abandon the mass deportation effort, but still deliver wins elsewhere. This is all but impossible.
 
-Analysis generated at: Sat Jan 31 12:35:08 UTC 2026
+Analysis generated at: Sat Jan 31 12:58:51 UTC 2026
