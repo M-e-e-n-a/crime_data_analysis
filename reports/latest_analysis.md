@@ -1,10 +1,10 @@
 
-Loaded 86228 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-30 12:57:14
+Loaded 86322 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-30 18:24:02
 
 Incidents by source:
 source
-newsapi           86127
+newsapi           86221
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-01-30 12:57
-- Location: Marca
-- Description: NBA icon LeBron James has added his voice - albeit indirectly - to the growing national outrage following the fatal shooting of ICU nurse Alex Pretti by federal immigration officer
+### OTHER on 2026-01-30 18:24
+- Location: The Daily Caller
+- Description: The Senate appeared to be on track to fund vast portions of the government Thursday, but Republican South Carolina Sen. Lindsey Graham put a hold on the package, citing the need to crack down on sanctuary cities. Graham, an immigration hawk, is demanding a vo…
 
 
-### OTHER on 2026-01-30 12:56
-- Location: DW (English)
-- Description: Relations between Czech President Petr Pavel and Foreign Minister Petr Macinka have almost completely broken down. With PM Andrej Babis backing his minister, the confrontation between president and government is growing.
+### SHOOTING on 2026-01-30 18:22
+- Location: CBC News
+- Description: Nova Scotia's police watchdog has ruled no charges are warranted against a Halifax Regional Police officer who  shot a man last July.
 
 
-### HOMICIDE on 2026-01-30 12:55
-- Location: New York Post
-- Description: Accused assassin Luigi Mangione is due back in court in Manhattan on Friday, as his attorneys push to throw out the most serious federal charge that could see him face the death penalty. Mangione, 27, is due in federal court for a hearing, with the judge pote…
+### HOMICIDE on 2026-01-30 18:21
+- Location: Rlsbb.to
+- Description: Season 2, Episode 04 – "Lured to Death"In 2021, John Hay, a former police officer, failed to return to his West Yorkshire home and SIO Lisa Griffin ordered phone record analysis of strange calls from an 'Eric Johnson'. Links: HOMEPAGE – TVMSecrets.Of.A.Murder…
 
 
-### OTHER on 2026-01-30 12:48
-- Location: Statetimes.in
-- Description: TRAFFIC POLICE HEADQUARTERS, J&K, JAMMU/SRINAGARTRAFFIC PLAN & ADVISORY FOR 31-01-2026:-In view of 20–30 Mtrs single-lane stretch at Kishtwari Pather caused by the sinking of road , Heavy Motor Vehicles ( HMVs ) shall be allowed to ply on alternate days . Pas…
+### HOMICIDE on 2026-01-30 18:20
+- Location: Thegatewaypundit.com
+- Description: Germany’s globalist political establishment, which has imposed a catastrophic multiculturalism at any cost ideology upon its population, is once again confronting the human cost of its failed migration experiment, after a shocking and senseless killing at a H…
 
 
-### OTHER on 2026-01-30 12:36
-- Location: The Federalist
-- Description: The Trump administration believes it can abandon the mass deportation effort, but still deliver wins elsewhere. This is all but impossible.
+### OTHER on 2026-01-30 18:19
+- Location: Sky.com
+- Description: Don Lemon has been charged with federal civil rights crimes over the anti-ICE church protest in Minnesota, the Department of Homeland Security has said.
 
-Analysis generated at: Sat Jan 31 12:58:51 UTC 2026
+Analysis generated at: Sat Jan 31 18:24:34 UTC 2026
