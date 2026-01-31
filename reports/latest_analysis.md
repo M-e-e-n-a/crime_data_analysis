@@ -1,10 +1,10 @@
 
-Loaded 86075 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-30 01:23:45
+Loaded 86097 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-30 02:23:50
 
 Incidents by source:
 source
-newsapi           85974
+newsapi           85996
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,30 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-01-30 01:23
-- Location: The Times of India
-- Description: A 27-year-old man, Omkar Shinde, has been arrested for allegedly murdering a college teacher, Alok Kumar Singh, during an altercation on a local train at Malad station. Shinde reportedly stabbed Singh with a pair of tongs after being shoved and having his hai…
+### SHOOTING on 2026-01-30 02:23
+- Location: WLKY Louisville
+- Description: Nearly three years after being injured in the Old National Bank shooting, Louisville Metro Police Department Officer Nick Wilt is retiring.
 
 
-### OTHER on 2026-01-30 01:14
-- Location: The Times of India
-- Description: Here’s your chance to become part of India’s proud naval history. Ahead of the International Fleet Review commencing Feb 15, 2026, in which Navies fro.
-
-
-### OTHER on 2026-01-30 01:10
-- Location: NPR
-- Description: A spending agreement under consideration in the Senate would temporarily fund the Department of Homeland Security while lawmakers negotiate provisions to rein in federal immigration agents.
-
-
-### OTHER on 2026-01-30 00:54
-- Location: The Punch
-- Description: A northern group calls for Omoyele Sowore’s prosecution for allegedly leaking court footage showing a DSS operative, citing national security breaches.
-
-Read More: https://punchng.com/group-tackles-sowore-over-leaked-court-footage/
-
-
-### SHOOTING on 2026-01-30 00:48
+### HOMICIDE on 2026-01-30 02:21
 - Location: New York Post
-- Description: Officers repeatedly shouted “drop the knife” as they pointed their guns at the blood-soaked man.
+- Description: Brandon Gerner, 42, allegedly slaughtered the animal, Lemon, so his fellow gang member Kody Olsen, who died in Dec. 2023 after being shot by cops, could “steed a ride into Valhalla.”
 
-Analysis generated at: Sat Jan 31 01:24:05 UTC 2026
+
+### HOMICIDE on 2026-01-30 02:18
+- Location: CBC News
+- Description: The Surrey Police Service says in a statement that correctional officers observed Dean Wiwchar and Harry Christensen attempting to escape from the exercise yard at Surrey Pretrial Services Centre on Dec. 7.
+
+
+### OTHER on 2026-01-30 02:13
+- Location: RNZ
+- Description: The International Online Crime Coordination Centre has been tracking the hacker following the breach.
+
+
+### OTHER on 2026-01-30 02:10
+- Location: Raw Story
+- Description: A jury in Wisconsin has convicted a man of trying to frame an undocumented immigrant for attempted assassination of President Donald Trump, so he couldn't testify at his trial.According to the Associated Press, "online court records show the Milwaukee County …
+
+Analysis generated at: Sat Jan 31 02:25:47 UTC 2026
