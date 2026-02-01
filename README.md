@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Feb  1 13:00:56 UTC 2026
+Last updated: Sun Feb  1 18:27:43 UTC 2026
 
 ## Latest Analysis
 
-Loaded 86420 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-31 13:00:45
+Loaded 86466 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-31 18:15:55
 
 Incidents by source:
 source
-newsapi           86319
+newsapi           86365
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-01-31 13:00
-- Location: The Denver Post
-- Description: For years, Colorado Medicaid mistakenly paid a program’s providers several times too much -- costing millions.
+### ASSAULT on 2026-01-31 18:15
+- Location: Israelnationalnews.com
+- Description: The suspect told an undercover officer that he planned to carry out terror attacks against Jews or people in the USA who support Israel.
 
 
-### SHOOTING on 2026-01-31 12:49
-- Location: Fox News
-- Description: Tom Homan takes command of Minneapolis immigration operation after two fatal shootings spark protests, replacing Border Patrol Commander Gregory Bovino.
+### OTHER on 2026-01-31 18:14
+- Location: Freerepublic.com
+- Description: A student was struck by a vehicle during an anti-ICE rally Thursday in front of Fremont High School. The SUV, which displayed a Trump flag, fled the scene, video of the incident shows. The episode was captured and shared first by News Channel Nebraska, which …
 
 
-### SHOOTING on 2026-01-31 12:42
-- Location: Westernjournal.com
-- Description: Arizona's Senate wants the state AG to step down after comments that suggested shooting ICE agents could be justified.
+### HOMICIDE on 2026-01-31 18:06
+- Location: Freerepublic.com
+- Description: Compassion. Empathy. Caring. These are the virtues that the left claims for itself, both in rhetoric and in policy. But their compassion is remarkably selective. They riot in the streets when a criminal suspect is killed by police, but have nothing to say whe…
 
 
-### OTHER on 2026-01-31 12:19
-- Location: Jezebel
-- Description: MS Now reports that anti-abortion extremists have been emboldened by the DOJ’s decision to limit enforcement of a 1994 law meant to protect reproductive health clinics from violence.
+### OTHER on 2026-01-31 18:05
+- Location: ABC News
+- Description: 9-year-old piano prodigy Alexander Zhou and Kaufman Music Center president and CEO Tony Mazzocchi discuss Alexander’s musical journey.
 
 
-### OTHER on 2026-01-31 12:13
-- Location: Westernjournal.com
-- Description: Democrats nearly unanimously came out against the funding measure for the Department of Homeland Security.
+### HOMICIDE on 2026-01-31 18:04
+- Location: The Times of India
+- Description: Kalamkaval, a Malayalam film, draws inspiration from a real-life serial killer. The movie focuses heavily on its male lead, Mammootty. This approach neglects the victims' stories and the societal pressures they faced. In contrast, the Hindi series Dahaad expl…
 
-Analysis generated at: Sun Feb  1 13:00:56 UTC 2026
+Analysis generated at: Sun Feb  1 18:27:43 UTC 2026
