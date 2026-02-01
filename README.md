@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Feb  1 01:50:49 UTC 2026
+Last updated: Sun Feb  1 02:50:31 UTC 2026
 
 ## Latest Analysis
 
-Loaded 86333 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-31 01:47:10
+Loaded 86343 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-31 02:49:45
 
 Incidents by source:
 source
-newsapi           86232
+newsapi           86242
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,31 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-01-31 01:47
-- Location: Japan Today
-- Description: Thousands of protesters took to the streets in Minneapolis and students across the United States staged walkouts on Friday to demand the withdrawal of federal immigration agents from Minnesota following the fatal shootings of two U.S. citizens. Students and ‌…
+### ASSAULT on 2026-01-31 02:49
+- Location: Fox News
+- Description: ICE lodged an arrest detainer against an illegal immigrant from Egypt accused of sexually assaulting a 16-year-old girl while she slept in her bed, according to federal authorities.
 
 
-### SHOOTING on 2026-01-31 01:45
-- Location: Gothamist
-- Description: Jabez Chakraborty
- 
-
-But the NYPD says the family wanted an involuntary removal, which involves police. [ more › ]
+### OTHER on 2026-01-31 02:23
+- Location: FOX 9
+- Description: A second "National Day of Action" happened in Minneapolis on Friday to demand "ICE Out" of Minnesota, only hours after Bruce Springsteen made a surprise appearance at a protest concert at First Avenue.
 
 
-### OTHER on 2026-01-31 01:41
-- Location: CBC News
-- Description: The new owners of a Winnipeg hotel that's been the site of several violent incidents hope to rehabilitate its seedy reputation. The New Lodge Hotel — once known as the Maryland Hotel — as well as the beer vendor and bar across its parking lot have been sold t…
+### SHOOTING on 2026-01-31 02:18
+- Location: Breitbart News
+- Description: The older man who was initially arrested and falsely confessed that he shot Turning Point USA Founder Charlie Kirk, was sentenced to prison and is facing a 15-year prison sentence.
+The post Older Man Who Falsely Confessed Shooting Charlie Kirk Facing 15 Year …
 
 
-### OTHER on 2026-01-31 01:30
-- Location: Japan Today
-- Description: Venezuela’s acting President Delcy Rodríguez on Friday announced an amnesty bill that could lead to the release of hundreds of prisoners, including opposition leaders, journalists and human rights activists detained for political reasons. The measure had long…
+### HOMICIDE on 2026-01-31 02:14
+- Location: WPXI Pittsburgh
+- Description: A man convicted of shooting and killing a teenager outside of his mother’s restaurant was sentenced to life in prison on Friday. His family shared their message for him with Channel 11.
 
 
-### ROBBERY/THEFT on 2026-01-31 01:07
-- Location: Al Jazeera English
-- Description: A man has been arrested by police in Spain after they recovered a stolen statue of the late golfer Seve Ballesteros.
+### ASSAULT on 2026-01-31 02:13
+- Location: ABC News (AU)
+- Description: A 44-year-old woman is rushed to hospital with life-threatening injuries after allegedly being assaulted at a home in suburban Perth overnight.
 
-Analysis generated at: Sun Feb  1 01:50:49 UTC 2026
+Analysis generated at: Sun Feb  1 02:50:31 UTC 2026
