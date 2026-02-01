@@ -1,10 +1,10 @@
 
-Loaded 86322 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-30 18:24:02
+Loaded 86333 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-31 01:47:10
 
 Incidents by source:
 source
-newsapi           86221
+newsapi           86232
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,31 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-01-30 18:24
-- Location: The Daily Caller
-- Description: The Senate appeared to be on track to fund vast portions of the government Thursday, but Republican South Carolina Sen. Lindsey Graham put a hold on the package, citing the need to crack down on sanctuary cities. Graham, an immigration hawk, is demanding a vo…
+### SHOOTING on 2026-01-31 01:47
+- Location: Japan Today
+- Description: Thousands of protesters took to the streets in Minneapolis and students across the United States staged walkouts on Friday to demand the withdrawal of federal immigration agents from Minnesota following the fatal shootings of two U.S. citizens. Students and ‌…
 
 
-### SHOOTING on 2026-01-30 18:22
+### SHOOTING on 2026-01-31 01:45
+- Location: Gothamist
+- Description: Jabez Chakraborty
+ 
+
+But the NYPD says the family wanted an involuntary removal, which involves police. [ more › ]
+
+
+### OTHER on 2026-01-31 01:41
 - Location: CBC News
-- Description: Nova Scotia's police watchdog has ruled no charges are warranted against a Halifax Regional Police officer who  shot a man last July.
+- Description: The new owners of a Winnipeg hotel that's been the site of several violent incidents hope to rehabilitate its seedy reputation. The New Lodge Hotel — once known as the Maryland Hotel — as well as the beer vendor and bar across its parking lot have been sold t…
 
 
-### HOMICIDE on 2026-01-30 18:21
-- Location: Rlsbb.to
-- Description: Season 2, Episode 04 – "Lured to Death"In 2021, John Hay, a former police officer, failed to return to his West Yorkshire home and SIO Lisa Griffin ordered phone record analysis of strange calls from an 'Eric Johnson'. Links: HOMEPAGE – TVMSecrets.Of.A.Murder…
+### OTHER on 2026-01-31 01:30
+- Location: Japan Today
+- Description: Venezuela’s acting President Delcy Rodríguez on Friday announced an amnesty bill that could lead to the release of hundreds of prisoners, including opposition leaders, journalists and human rights activists detained for political reasons. The measure had long…
 
 
-### HOMICIDE on 2026-01-30 18:20
-- Location: Thegatewaypundit.com
-- Description: Germany’s globalist political establishment, which has imposed a catastrophic multiculturalism at any cost ideology upon its population, is once again confronting the human cost of its failed migration experiment, after a shocking and senseless killing at a H…
+### ROBBERY/THEFT on 2026-01-31 01:07
+- Location: Al Jazeera English
+- Description: A man has been arrested by police in Spain after they recovered a stolen statue of the late golfer Seve Ballesteros.
 
-
-### OTHER on 2026-01-30 18:19
-- Location: Sky.com
-- Description: Don Lemon has been charged with federal civil rights crimes over the anti-ICE church protest in Minnesota, the Department of Homeland Security has said.
-
-Analysis generated at: Sat Jan 31 18:24:34 UTC 2026
+Analysis generated at: Sun Feb  1 01:50:49 UTC 2026
