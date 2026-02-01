@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Feb  1 06:42:32 UTC 2026
+Last updated: Sun Feb  1 12:36:40 UTC 2026
 
 ## Latest Analysis
 
-Loaded 86376 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-31 06:41:08
+Loaded 86417 incidents
+Date range: 2024-01-01 00:00:00 to 2026-01-31 12:19:14
 
 Incidents by source:
 source
-newsapi           86275
+newsapi           86316
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-01-31 06:41
+### OTHER on 2026-01-31 12:19
+- Location: Jezebel
+- Description: MS Now reports that anti-abortion extremists have been emboldened by the DOJ’s decision to limit enforcement of a 1994 law meant to protect reproductive health clinics from violence.
+
+
+### OTHER on 2026-01-31 12:13
+- Location: Westernjournal.com
+- Description: Democrats nearly unanimously came out against the funding measure for the Department of Homeland Security.
+
+
+### SHOOTING on 2026-01-31 12:01
 - Location: Freerepublic.com
-- Description: Steven Tyler's attorneys can claim partial victory in a new court ruling as arguments continue in a child sex-abuse lawsuit brought by the former Julia Holcomb. Los Angeles County Judge Patricia A. Young has dismissed claims of alleged abuse in Oregon, Washin…
+- Description: A viral video showing gunmen firing from a Dallas bridge on New Year’s has now led to multiple arrests and immigration holds as police say the suspects were involved in repeated acts of gun violence across North Texas. The Dallas Police Department announced t…
 
 
-### OTHER on 2026-01-31 06:37
-- Location: Fox News
-- Description: Los Angeles police arrested multiple protesters after violent clashes erupted outside a federal detention center during Friday demonstrations.
+### OTHER on 2026-01-31 12:00
+- Location: The Cut
+- Description: In this edition of Brooding, Kathryn Jezer-Morton speaks to parents engaging in civil disobedience about how they talk about their activism with their children.
 
 
-### OTHER on 2026-01-31 06:00
-- Location: LatestLY
-- Description: Activist and scientist Sonam Wangchuk, currently lodged in Jodhpur Central Jail under the National Security Act (NSA), has fallen ill and was taken to AIIMS Jodhpur for medical examination on Saturday morning, police sources said. Wangchuk was brought to the …
+### HOMICIDE on 2026-01-31 12:00
+- Location: Daily Signal
+- Description: Last year, Democrats largely stood by Virginia Attorney General candidate Jay Jones, who wished death on the children of his political opponent. Now, they’re carrying... Read More
+The post Democrats Carry Water for Agitators Who Invade Church Services and Tra…
 
-
-### HOMICIDE on 2026-01-31 06:00
-- Location: The Irish Times
-- Description: Seamus Howell has no memories of his mother and has not spoken to his father since he confessed in 2009 to murdering her 18 years earlier
-
-
-### HOMICIDE on 2026-01-31 05:47
-- Location: Antaranews.com
-- Description: Indonesia&rsquo;s National Police are coordinating with the Health Ministry and Food and Drug Authority (BPOM) to draft regulations on nitrous oxide (N2O) ...
-
-Analysis generated at: Sun Feb  1 06:42:32 UTC 2026
+Analysis generated at: Sun Feb  1 12:36:40 UTC 2026
