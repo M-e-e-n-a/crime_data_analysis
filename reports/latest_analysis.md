@@ -1,10 +1,10 @@
 
-Loaded 86473 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-01 01:33:19
+Loaded 86478 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-01 02:16:16
 
 Incidents by source:
 source
-newsapi           86372
+newsapi           86377
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,32 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-02-01 01:33
-- Location: TheWrap
-- Description: "Pretti ... was a very militant activist," the "No Spin News" host says. "That doesn’t mean he should be dead. But let’s be honest about the situation"
-The post Bill O’Reilly Says the Media Doesn’t Care About Alex Pretti: ‘Using a Dead Man to Damage the Trump…
+### OTHER on 2026-02-01 02:16
+- Location: New York Post
+- Description: The woman, who did not want to be identified, told The California Post that she and co-workers are regularly harassed at the Edward R. Roybal Federal building.
 
 
-### OTHER on 2026-02-01 01:14
-- Location: Associated Press
-- Description: Prominent political and business leaders are named in the documents released by the Justice Department in connection with its investigations into Jeffrey Epstein. Elon Musk, Britain’s former Prince Andrew, New York Giants co-owner Steven Tisch, U.S. Commerce …
+### OTHER on 2026-02-01 02:03
+- Location: The Times of India
+- Description: Unidentified individuals fired four rounds outside filmmaker Rohit Shetty's Mumbai residence in Juhu early Sunday. Police and crime branch teams are investigating the incident, which led to intensified security and a forensic team collecting evidence. No inju…
 
 
-### OTHER on 2026-02-01 01:11
-- Location: Breitbart News
-- Description: President Donald Trump revealed that he told Department of Homeland Security (DHS) Secretary Kristi Noem the administration will not be participating with "various poorly run Democrat Cities with regard" to protests and riots.
-The post Trump Directs DHS Not t…
+### OTHER on 2026-02-01 01:51
+- Location: ABC News
+- Description: A special thanks to the men and women who never get a snow day.
 
 
-### OTHER on 2026-02-01 01:09
-- Location: The Indian Express
-- Description: The trio, officers said, allegedly opened fire at homes in Kadarpur village  of Sohna area, acting out of long-standing enmity and also targeted employees at the Ghamroj Toll Plaza on Sohna Road after an alleged dispute over toll payment.
+### OTHER on 2026-02-01 01:46
+- Location: The Times of India
+- Description: A vast release of documents connected to Jeffrey Epstein's investigations has revealed interactions between the financier and numerous powerful men, including Prince Andrew, Elon Musk, and Richard Branson. Many individuals have denied close ties or involvemen…
 
 
-### OTHER on 2026-02-01 00:37
-- Location: The Punch
-- Description: Ex-Governor Timipre Sylva, wanted by the EFCC for $14.8M fraud and linked to a coup plot, may be arraigned in absentia as Interpol joins the global hunt.
+### OTHER on 2026-02-01 01:44
+- Location: Fox News
+- Description: California police warned residents after burglars allegedly used hidden cameras to secretly monitor homes before striking in a concerning new tactic.
 
-Read More: https://punchng.com/fraud-and-conspiracy-ex-gov-sylva-may-be-arraigned-in-absentia/
-
-Analysis generated at: Mon Feb  2 01:43:55 UTC 2026
+Analysis generated at: Mon Feb  2 02:39:56 UTC 2026
