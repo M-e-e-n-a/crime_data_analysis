@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Feb  1 18:27:43 UTC 2026
+Last updated: Mon Feb  2 01:43:55 UTC 2026
 
 ## Latest Analysis
 
-Loaded 86466 incidents
-Date range: 2024-01-01 00:00:00 to 2026-01-31 18:15:55
+Loaded 86473 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-01 01:33:19
 
 Incidents by source:
 source
-newsapi           86365
+newsapi           86372
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,32 @@ bution.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2026-01-31 18:15
-- Location: Israelnationalnews.com
-- Description: The suspect told an undercover officer that he planned to carry out terror attacks against Jews or people in the USA who support Israel.
+### HOMICIDE on 2026-02-01 01:33
+- Location: TheWrap
+- Description: "Pretti ... was a very militant activist," the "No Spin News" host says. "That doesn’t mean he should be dead. But let’s be honest about the situation"
+The post Bill O’Reilly Says the Media Doesn’t Care About Alex Pretti: ‘Using a Dead Man to Damage the Trump…
 
 
-### OTHER on 2026-01-31 18:14
-- Location: Freerepublic.com
-- Description: A student was struck by a vehicle during an anti-ICE rally Thursday in front of Fremont High School. The SUV, which displayed a Trump flag, fled the scene, video of the incident shows. The episode was captured and shared first by News Channel Nebraska, which …
+### OTHER on 2026-02-01 01:14
+- Location: Associated Press
+- Description: Prominent political and business leaders are named in the documents released by the Justice Department in connection with its investigations into Jeffrey Epstein. Elon Musk, Britain’s former Prince Andrew, New York Giants co-owner Steven Tisch, U.S. Commerce …
 
 
-### HOMICIDE on 2026-01-31 18:06
-- Location: Freerepublic.com
-- Description: Compassion. Empathy. Caring. These are the virtues that the left claims for itself, both in rhetoric and in policy. But their compassion is remarkably selective. They riot in the streets when a criminal suspect is killed by police, but have nothing to say whe…
+### OTHER on 2026-02-01 01:11
+- Location: Breitbart News
+- Description: President Donald Trump revealed that he told Department of Homeland Security (DHS) Secretary Kristi Noem the administration will not be participating with "various poorly run Democrat Cities with regard" to protests and riots.
+The post Trump Directs DHS Not t…
 
 
-### OTHER on 2026-01-31 18:05
-- Location: ABC News
-- Description: 9-year-old piano prodigy Alexander Zhou and Kaufman Music Center president and CEO Tony Mazzocchi discuss Alexander’s musical journey.
+### OTHER on 2026-02-01 01:09
+- Location: The Indian Express
+- Description: The trio, officers said, allegedly opened fire at homes in Kadarpur village  of Sohna area, acting out of long-standing enmity and also targeted employees at the Ghamroj Toll Plaza on Sohna Road after an alleged dispute over toll payment.
 
 
-### HOMICIDE on 2026-01-31 18:04
-- Location: The Times of India
-- Description: Kalamkaval, a Malayalam film, draws inspiration from a real-life serial killer. The movie focuses heavily on its male lead, Mammootty. This approach neglects the victims' stories and the societal pressures they faced. In contrast, the Hindi series Dahaad expl…
+### OTHER on 2026-02-01 00:37
+- Location: The Punch
+- Description: Ex-Governor Timipre Sylva, wanted by the EFCC for $14.8M fraud and linked to a coup plot, may be arraigned in absentia as Interpol joins the global hunt.
 
-Analysis generated at: Sun Feb  1 18:27:43 UTC 2026
+Read More: https://punchng.com/fraud-and-conspiracy-ex-gov-sylva-may-be-arraigned-in-absentia/
+
+Analysis generated at: Mon Feb  2 01:43:55 UTC 2026
