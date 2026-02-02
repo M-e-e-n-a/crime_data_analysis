@@ -1,10 +1,10 @@
 
-Loaded 86544 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-01 13:10:36
+Loaded 86595 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-01 18:12:04
 
 Incidents by source:
 source
-newsapi           86443
+newsapi           86494
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-02-01 13:10
-- Location: The Times of India
-- Description: Jeffrey Epstein drafted notes to and about Bill Gates, the billionaire co-founder of Microsoft, suggesting that he engaged in extramarital sex, according to emails that the Justice Department released on Friday.
+### HOMICIDE on 2026-02-01 18:12
+- Location: Yahoo Entertainment
+- Description: None
 
 
-### OTHER on 2026-02-01 13:02
-- Location: Celebitchy.com
-- Description: Don’t hate me but I totally forgot that Don Lemon doesn’t work for CNN anymore. I thought he was still a CNN reporter and anchor, that’s how little I pay attention to CNN’s programming at this point. Lemon was fired from CNN in 2023, and since then, he’s trie…
+### OTHER on 2026-02-01 18:10
+- Location: CNN
+- Description: Deputy Attorney General Todd Blanche defended the Justice Department’s actions on multiple fronts Sunday, signaling that no new charges will be brought in the Jeffrey Epstein investigation, downplaying Director of National Intelligence Tulsi Gabbard’s involve…
 
 
-### OTHER on 2026-02-01 13:00
-- Location: Fox News
-- Description: Florida couple accused of luxury car title fraud scheme faces criminal charges after allegedly submitting fake invoices for vehicles at their dealership.
+### OTHER on 2026-02-01 18:07
+- Location: ABC News (AU)
+- Description: Victoria Police will spend five days scouring a remote section of Mount Buffalo National Park in the state's north-east as part of a renewed search for fugitive Dezi Freeman.
 
 
-### OTHER on 2026-02-01 12:45
-- Location: Whyevolutionistrue.com
-- Description: Welcome to Sunday, February 1, 2026, and we’re into a new month, one likely filled with more snow, slush and freezing temperatures. You can see what’s in store from this illumination of February from the Très Riches Heures du Duc de Berry, produced between 14…
+### OTHER on 2026-02-01 18:04
+- Location: The Denver Post
+- Description: An 18-year-old pedestrian died Saturday after being injured in an Aurora hit-and-run 11 days earlier, police said.
 
 
-### OTHER on 2026-02-01 12:30
-- Location: The Atlantic
-- Description: Ammon Bundy’s criticism of the Trump administration has left him out of step with his own community.
+### OTHER on 2026-02-01 18:00
+- Location: LADbible
+- Description: Lucy Letby was convicted in 2023, as new information has come to light in a Netflix documentary
 
-Analysis generated at: Mon Feb  2 13:11:21 UTC 2026
+Analysis generated at: Mon Feb  2 18:35:53 UTC 2026
