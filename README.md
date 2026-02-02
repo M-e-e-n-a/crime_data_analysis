@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Feb  2 12:44:37 UTC 2026
+Last updated: Mon Feb  2 13:11:21 UTC 2026
 
 ## Latest Analysis
 
-Loaded 86540 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-01 12:30:00
+Loaded 86544 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-01 13:10:36
 
 Incidents by source:
 source
-newsapi           86439
+newsapi           86443
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
+### OTHER on 2026-02-01 13:10
+- Location: The Times of India
+- Description: Jeffrey Epstein drafted notes to and about Bill Gates, the billionaire co-founder of Microsoft, suggesting that he engaged in extramarital sex, according to emails that the Justice Department released on Friday.
+
+
+### OTHER on 2026-02-01 13:02
+- Location: Celebitchy.com
+- Description: Don’t hate me but I totally forgot that Don Lemon doesn’t work for CNN anymore. I thought he was still a CNN reporter and anchor, that’s how little I pay attention to CNN’s programming at this point. Lemon was fired from CNN in 2023, and since then, he’s trie…
+
+
+### OTHER on 2026-02-01 13:00
+- Location: Fox News
+- Description: Florida couple accused of luxury car title fraud scheme faces criminal charges after allegedly submitting fake invoices for vehicles at their dealership.
+
+
+### OTHER on 2026-02-01 12:45
+- Location: Whyevolutionistrue.com
+- Description: Welcome to Sunday, February 1, 2026, and we’re into a new month, one likely filled with more snow, slush and freezing temperatures. You can see what’s in store from this illumination of February from the Très Riches Heures du Duc de Berry, produced between 14…
+
+
 ### OTHER on 2026-02-01 12:30
 - Location: The Atlantic
 - Description: Ammon Bundy’s criticism of the Trump administration has left him out of step with his own community.
 
-
-### OTHER on 2026-02-01 12:16
-- Location: Israelnationalnews.com
-- Description: Peace is not a product of conferences or signatures; it is the result of the enemy accepting that they have lost. Only once the foundational concept of Israeli victory is accepted can any discussion about the future relationship begin. Opinion.
-
-
-### HOMICIDE on 2026-02-01 12:10
-- Location: STLtoday.com
-- Description: "There's been a big drop off in terms of the new death sentences," said Robin Maher, executive director of the Death Penalty Information Center. "Missouri looks to be very much like the other death penalty states in the country in…
-
-
-### HOMICIDE on 2026-02-01 11:55
-- Location: Boston Herald
-- Description: LOWELL — Jury selection in the murder retrial of the Phan brothers stretched through last week and remains unfinished, with 11 of the 16 required jurors seated so far.
-
-
-### OTHER on 2026-02-01 11:44
-- Location: The Times of India
-- Description: A video by Kolkata-based content creator Sayak Chakraborty has set off a wave of debate after he claimed he was served beef instead of mutton at the popular Olypub, resulting in the arrest of a waiter. The incident has drawn mixed reactions from public figure…
-
-Analysis generated at: Mon Feb  2 12:44:37 UTC 2026
+Analysis generated at: Mon Feb  2 13:11:21 UTC 2026
