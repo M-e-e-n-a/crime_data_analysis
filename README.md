@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Feb  2 06:57:03 UTC 2026
+Last updated: Mon Feb  2 12:44:37 UTC 2026
 
 ## Latest Analysis
 
-Loaded 86507 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-01 06:34:32
+Loaded 86540 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-01 12:30:00
 
 Incidents by source:
 source
-newsapi           86406
+newsapi           86439
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-02-01 06:34
-- Location: New York Post
-- Description: Zinn was captured on video shouting, “I shot him! Now shoot me," after Kirk, 31, was killed by alleged gunman Tyler Robinson during the outdoor campus event.
+### OTHER on 2026-02-01 12:30
+- Location: The Atlantic
+- Description: Ammon Bundy’s criticism of the Trump administration has left him out of step with his own community.
 
 
-### OTHER on 2026-02-01 06:22
-- Location: The Daily Caller
-- Description: As leader of an election monitoring team, we found indications of possible election fraud. I also became concerned over the treatment of protesters.
+### OTHER on 2026-02-01 12:16
+- Location: Israelnationalnews.com
+- Description: Peace is not a product of conferences or signatures; it is the result of the enemy accepting that they have lost. Only once the foundational concept of Israeli victory is accepted can any discussion about the future relationship begin. Opinion.
 
 
-### SHOOTING on 2026-02-01 06:00
-- Location: The-independent.com
-- Description: The Welsh acting great talks to Patrick Smith about ‘Game of Thrones’, seeing his father’s ghost, the vanity of youth, and his new crime drama ‘Under Salt Marsh’, shot near his boyhood haunts
+### HOMICIDE on 2026-02-01 12:10
+- Location: STLtoday.com
+- Description: "There's been a big drop off in terms of the new death sentences," said Robin Maher, executive director of the Death Penalty Information Center. "Missouri looks to be very much like the other death penalty states in the country in…
 
 
-### HOMICIDE on 2026-02-01 06:00
-- Location: Naturalnews.com
-- Description: Alex Pretti, killed by ICE agents on Jan. 24, had a violent altercation with federal officers just a week earlier, resulting in a broken rib. Medical records confirm his injury, complicating activist claims that he was a peaceful protester. Pretti allegedly o…
+### HOMICIDE on 2026-02-01 11:55
+- Location: Boston Herald
+- Description: LOWELL — Jury selection in the murder retrial of the Phan brothers stretched through last week and remains unfinished, with 11 of the 16 required jurors seated so far.
 
 
-### OTHER on 2026-02-01 05:57
-- Location: Freerepublic.com
-- Description: Wall St./Langley & The City of London/ MI6 intend to break up the Giants of the Multipolar World into Bitesize Chunks So They Can Be Most Easily Digested by The 2,250 Oligarch Masters of the Universe. (Analyst Alex Krainer is a fund manager who generated +27%…
+### OTHER on 2026-02-01 11:44
+- Location: The Times of India
+- Description: A video by Kolkata-based content creator Sayak Chakraborty has set off a wave of debate after he claimed he was served beef instead of mutton at the popular Olypub, resulting in the arrest of a waiter. The incident has drawn mixed reactions from public figure…
 
-Analysis generated at: Mon Feb  2 06:57:03 UTC 2026
+Analysis generated at: Mon Feb  2 12:44:37 UTC 2026
