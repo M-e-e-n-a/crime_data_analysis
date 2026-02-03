@@ -1,10 +1,10 @@
 
-Loaded 86636 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-02 06:27:58
+Loaded 86686 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-02 12:37:00
 
 Incidents by source:
 source
-newsapi           86535
+newsapi           86585
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-02-02 06:27
-- Location: The-independent.com
-- Description: It's one of many movies and series leaving in February 2026
+### HOMICIDE on 2026-02-02 12:37
+- Location: The Intercept
+- Description: From boat strikes to killings in the streets of Minnesota to NSPM-7, the White House leans on the word “terror” to justify its violence.
+The post Trump Calls His Enemies Terrorists. Does That Mean He Can Just Kill Them? appeared first on The Intercept.
 
 
-### HOMICIDE on 2026-02-02 06:19
-- Location: ABC News (AU)
-- Description: A suspected murder-suicide in Perth has put the spotlight on families with high needs children, with speculation that the Clune family were not getting the support they needed in the lead up to their deaths.
+### OTHER on 2026-02-02 12:33
+- Location: Freerepublic.com
+- Description: When we talk about political violence, we almost always assume that its perpetrators are young men. That makes sense: men are statistically more likely to engage in physical aggression and get arrested for violent crimes at higher rates. At the same time, man…
 
 
-### HOMICIDE on 2026-02-02 06:00
-- Location: Insurance Journal
-- Description: A deadly gas explosion in a New York City high-rise last weekend was traced to an intruder who disconnected a stove to steal and sell it, prosecutors said Thursday. The suspect, Samuel Calderon, was being held without bail after his …
+### OTHER on 2026-02-02 12:32
+- Location: Variety
+- Description: Savannah Guthrie was not behind the desk on “Today” Monday morning amid the search for her 84-year-old mother Nancy Guthrie, but gave a statement to her co-hosts Craig Melvin and Sheinelle Jones asking for the public’s help. “On behalf of our family, I want t…
 
 
-### OTHER on 2026-02-02 05:47
-- Location: Doomsdayscenario.co
-- Description: However bad you think the corruption and misconduct at ICE and CBP is — the reality is far far worse.
+### OTHER on 2026-02-02 12:18
+- Location: CBC News
+- Description: The major crimes unit with the Longueuil police service (SPAL) is investigating after the bodies of a 54-year-old woman and a 56-year-old man were found inside a home in Brossard, Que., overnight.
 
 
-### HOMICIDE on 2026-02-02 05:46
-- Location: ABC News (AU)
-- Description: Exclusive footage and imagery shows the state of Villawood Detention Centre, exposing illicit drug use and filthy conditions.
+### DRUG RELATED on 2026-02-02 12:14
+- Location: ComputerWeekly.com
+- Description: Intercepted communications data used to prosecute drug crime gangs is unreliable and does not conform to international standards of evidence, according to an expert report presented to a court in Antwerp
 
-Analysis generated at: Tue Feb  3 06:43:02 UTC 2026
+Analysis generated at: Tue Feb  3 12:45:20 UTC 2026
