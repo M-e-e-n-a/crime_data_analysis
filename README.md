@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Feb  3 12:45:20 UTC 2026
+Last updated: Tue Feb  3 13:12:50 UTC 2026
 
 ## Latest Analysis
 
-Loaded 86686 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-02 12:37:00
+Loaded 86692 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-02 13:11:52
 
 Incidents by source:
 source
-newsapi           86585
+newsapi           86591
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-02-02 12:37
-- Location: The Intercept
-- Description: From boat strikes to killings in the streets of Minnesota to NSPM-7, the White House leans on the word “terror” to justify its violence.
-The post Trump Calls His Enemies Terrorists. Does That Mean He Can Just Kill Them? appeared first on The Intercept.
+### HOMICIDE on 2026-02-02 13:11
+- Location: The Indian Express
+- Description: 28-year-old took her for a trip to neighbouring Telangana and pushed her into a canal. But his plan soon unravelled.
 
 
-### OTHER on 2026-02-02 12:33
-- Location: Freerepublic.com
-- Description: When we talk about political violence, we almost always assume that its perpetrators are young men. That makes sense: men are statistically more likely to engage in physical aggression and get arrested for violent crimes at higher rates. At the same time, man…
+### OTHER on 2026-02-02 13:00
+- Location: Opiniojuris.org
+- Description: [Diana Kearney is a former Visiting Instructor of Clinical Law at Cardozo Law School Human Rights & Atrocity Prevention Clinic] The Trump administration’s abduction of Venezuelan President Nicolas Maduro and subsequent announcement that the U.S. intends to ru…
 
 
-### OTHER on 2026-02-02 12:32
-- Location: Variety
-- Description: Savannah Guthrie was not behind the desk on “Today” Monday morning amid the search for her 84-year-old mother Nancy Guthrie, but gave a statement to her co-hosts Craig Melvin and Sheinelle Jones asking for the public’s help. “On behalf of our family, I want t…
-
-
-### OTHER on 2026-02-02 12:18
+### HOMICIDE on 2026-02-02 13:00
 - Location: CBC News
-- Description: The major crimes unit with the Longueuil police service (SPAL) is investigating after the bodies of a 54-year-old woman and a 56-year-old man were found inside a home in Brossard, Que., overnight.
+- Description: Three of the seven people arrested have been charged with murder as a following a "complex and lengthy" homicide investigation into the fatal shooting of 55-year-old Ruo Zhou Wei, police say.
 
 
-### DRUG RELATED on 2026-02-02 12:14
-- Location: ComputerWeekly.com
-- Description: Intercepted communications data used to prosecute drug crime gangs is unreliable and does not conform to international standards of evidence, according to an expert report presented to a court in Antwerp
+### SHOOTING on 2026-02-02 13:00
+- Location: Fox News
+- Description: Suspected human smuggler shot by federal agents near Arizona border is repeat offender, officials say. Patrick Schlegel allegedly fired at agents.
 
-Analysis generated at: Tue Feb  3 12:45:20 UTC 2026
+
+### HOMICIDE on 2026-02-02 13:00
+- Location: The Denver Post
+- Description: The push for more oversight came to a head in Lakewood after the death of Jax Gratton, a 34-year-old transgender woman who disappeared in April and was found dead in June.
+
+Analysis generated at: Tue Feb  3 13:12:50 UTC 2026
