@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Feb  3 01:43:21 UTC 2026
+Last updated: Tue Feb  3 02:36:31 UTC 2026
 
 ## Latest Analysis
 
-Loaded 86614 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-02 01:43:04
+Loaded 86617 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-02 02:05:58
 
 Incidents by source:
 source
-newsapi           86513
+newsapi           86516
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,6 +24,21 @@ bution.svg)
 
 ## Recent Incidents
 
+### HOMICIDE on 2026-02-02 02:05
+- Location: soompi
+- Description: tvN’s new Monday-Tuesday drama “Siren’s Kiss” has unveiled a new teaser ahead of its premiere! “Siren’s Kiss” is a romance thriller about a man who investigates an insurance fraud case involving people who all died after falling in love with an irresistibly c…
+
+
+### HOMICIDE on 2026-02-02 02:05
+- Location: soompi
+- Description: tvN’s new Monday-Tuesday drama “Siren’s Kiss” has unveiled a new teaser ahead of its premiere! “Siren’s Kiss” is a romance thriller about a man who investigates an insurance fraud case involving people who all died after falling in love with an irresistibly c…
+
+
+### OTHER on 2026-02-02 02:00
+- Location: Screen Rant
+- Description: There are several dialogue driven movies that are just as thrilling as any action flick, and here are the ones that keep viewer's engrossed.
+
+
 ### OTHER on 2026-02-02 01:43
 - Location: Israelnationalnews.com
 - Description: Yoaz Hendel, chairman of the Reservists’ Party, sparks uproar after comparing Bnei Brak to Rahat in the context of loss of governance.
@@ -33,19 +48,4 @@ bution.svg)
 - Location: The Times of India
 - Description: US deportations: In case after case, federal judges have found that the Trump administration has been ignoring long-standing legal interpretations that mandate the release of many people who are taken into immigration custody if they post a bond.
 
-
-### ROBBERY/THEFT on 2026-02-02 01:25
-- Location: KTVQ Billings News
-- Description: A Billings woman who has dedicated her life to rodeo had years of hard work stolen overnight after her horse trailer disappeared from the Public Auction Yards.
-
-
-### OTHER on 2026-02-02 01:23
-- Location: Advocate.com
-- Description: Out journalist Don Lemon was released without bail Friday after a federal court hearing in Los Angeles, as Mayor Karen Bass, a Democrat, sharply criticized the Justice Department’s case against him and warned that the prosecution marks a dangerous escalation …
-
-
-### OTHER on 2026-02-02 01:20
-- Location: ABC News
-- Description: The City of Myrtle Beach shared drone footage Sunday of the popular South Carolina beach town after this weekend's winter storm.
-
-Analysis generated at: Tue Feb  3 01:43:21 UTC 2026
+Analysis generated at: Tue Feb  3 02:36:31 UTC 2026
