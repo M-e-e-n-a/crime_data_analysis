@@ -1,10 +1,10 @@
 
-Loaded 86788 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-03 02:12:34
+Loaded 86815 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-03 06:05:01
 
 Incidents by source:
 source
-newsapi           86687
+newsapi           86714
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-02-03 02:12
-- Location: New York Post
-- Description: Wild video shows masked federal immigration agents chase down a congregant during an LA church's charity food drive.
+### OTHER on 2026-02-03 06:05
+- Location: The Times of India
+- Description: Rachel Foster, a Cornell graduate and lawyer, champions survivors of gender-based violence. For over 30 years, she has worked on legal and advocacy efforts. Recently, she co-chaired World Without Exploitation, aiding survivors connected to the Epstein and Max…
 
 
-### HOMICIDE on 2026-02-03 01:56
-- Location: The Denver Post
-- Description: The Brighton Police Department is investigating a fatal domestic disturbance that happened on Sunday night.
+### OTHER on 2026-02-03 06:00
+- Location: Newser
+- Description: Authorities in Arizona say they are treating the disappearance of Savannah Guthrie's mother as a likely abduction from inside her home, People reports. Nancy Guthrie, 84, was last seen when one of her kids dropped her off at her residence in the Catalina Foot…
 
 
-### HOMICIDE on 2026-02-03 01:43
-- Location: ABC News (AU)
-- Description: In 2022 Gregory Lee Roser was found guilty of murder after beating a man with a metal bar and then placing his body in a woodchipper.
+### OTHER on 2026-02-03 06:00
+- Location: RTE
+- Description: Prime Time's Conor Wilson travelled to Estonia and Finland to understand how the two countries are dealing with an increase in hybrid warfare activity, four years on from Russia's full-scale invasion of Ukraine.
 
 
-### HOMICIDE on 2026-02-03 01:41
-- Location: New York Post
-- Description: The Fulton County Medical Examiner's office determined the infant's blood alcohol level was a whopping 0.179, over twice the legal limit of intoxication for a driver aged 21 years or older.
+### HOMICIDE on 2026-02-03 06:00
+- Location: New Zealand Herald
+- Description: But hospital staff said Zain Taikato Fox's injuries weren't consistent with their story.
 
 
-### OTHER on 2026-02-03 01:28
-- Location: Dark Horizons
-- Description: American Blue Milo Ventimiglia has been set as the lead in “American Blue,” the new HBO Max cop drama from former “Supernatural” showrunner Jeremy Carver. In addition filmmaker David Ayer (“Suicide Squad,” “End of Watch”) will direct. The story centers on nat…
+### OTHER on 2026-02-03 05:57
+- Location: ABC News
+- Description: The nearly monthlong disappearance from public view of Bolivia’s towering socialist icon, ex-leader Evo Morales, just days after the Jan. 3 U.S. seizure of former Venezuelan President Nicolas Maduro, his close ally, is alarming his supporters, roiling ...
 
-Analysis generated at: Wed Feb  4 02:30:54 UTC 2026
+Analysis generated at: Wed Feb  4 06:43:36 UTC 2026
