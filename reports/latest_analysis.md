@@ -1,10 +1,10 @@
 
-Loaded 86815 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-03 06:05:01
+Loaded 86865 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-03 12:44:30
 
 Incidents by source:
 source
-newsapi           86714
+newsapi           86764
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-02-03 06:05
+### OTHER on 2026-02-03 12:44
+- Location: WFTV Orlando
+- Description: More details are being released about the disappearance of Nancy Guthrie, the mother of Savannah Guthrie.
+
+
+### HOMICIDE on 2026-02-03 12:42
+- Location: Fox News
+- Description: Honduran illegal immigrant Eswin Mejia sentenced to 20-22 years for killing Iowa woman Sarah Root in drunk driving crash. He had fled to Honduras.
+
+
+### OTHER on 2026-02-03 12:35
+- Location: Eonline.com
+- Description: Savannah Guthrie is looking to the public to help pray for the safe return of her mother Nancy Guthrie, 84, who disappeared from her Arizona home in what police think may have been an abduction.
+
+
+### OTHER on 2026-02-03 12:24
 - Location: The Times of India
-- Description: Rachel Foster, a Cornell graduate and lawyer, champions survivors of gender-based violence. For over 30 years, she has worked on legal and advocacy efforts. Recently, she co-chaired World Without Exploitation, aiding survivors connected to the Epstein and Max…
+- Description: Arizona authorities are investigating the disappearance of Nancy Guthrie, the 84-year-old mother of Today show co-anchor Savannah Guthrie, as a suspected abduction. Police suspect that she was taken from her Tucson-area home during the night and did not leave…
 
 
-### OTHER on 2026-02-03 06:00
-- Location: Newser
-- Description: Authorities in Arizona say they are treating the disappearance of Savannah Guthrie's mother as a likely abduction from inside her home, People reports. Nancy Guthrie, 84, was last seen when one of her kids dropped her off at her residence in the Catalina Foot…
+### OTHER on 2026-02-03 12:15
+- Location: NBC News
+- Description: has found an unexpected audience in Russia, where fans can face extremism charges for publicly displaying their love for the show
 
-
-### OTHER on 2026-02-03 06:00
-- Location: RTE
-- Description: Prime Time's Conor Wilson travelled to Estonia and Finland to understand how the two countries are dealing with an increase in hybrid warfare activity, four years on from Russia's full-scale invasion of Ukraine.
-
-
-### HOMICIDE on 2026-02-03 06:00
-- Location: New Zealand Herald
-- Description: But hospital staff said Zain Taikato Fox's injuries weren't consistent with their story.
-
-
-### OTHER on 2026-02-03 05:57
-- Location: ABC News
-- Description: The nearly monthlong disappearance from public view of Bolivia’s towering socialist icon, ex-leader Evo Morales, just days after the Jan. 3 U.S. seizure of former Venezuelan President Nicolas Maduro, his close ally, is alarming his supporters, roiling ...
-
-Analysis generated at: Wed Feb  4 06:43:36 UTC 2026
+Analysis generated at: Wed Feb  4 12:45:08 UTC 2026
