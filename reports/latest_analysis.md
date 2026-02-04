@@ -1,10 +1,10 @@
 
-Loaded 86783 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-03 01:18:00
+Loaded 86788 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-03 02:12:34
 
 Incidents by source:
 source
-newsapi           86682
+newsapi           86687
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-02-03 01:18
-- Location: Thefutoncritic.com
-- Description: "Veronika" follows police officer Veronika Gren, a woman haunted by visions from the dead, as she navigates complex investigations while struggling to keep her personal life from unravelling.
+### OTHER on 2026-02-03 02:12
+- Location: New York Post
+- Description: Wild video shows masked federal immigration agents chase down a congregant during an LA church's charity food drive.
 
 
-### HOMICIDE on 2026-02-03 01:13
-- Location: The Times of India
-- Description: A Virginia jury convicted former IRS agent Brendan Banfield of two counts of aggravated murder for the deaths of his wife, Christine Banfield, and Joseph Ryan. Prosecutors detailed a calculated plot involving Banfield and the family's au pair to murder his wi…
+### HOMICIDE on 2026-02-03 01:56
+- Location: The Denver Post
+- Description: The Brighton Police Department is investigating a fatal domestic disturbance that happened on Sunday night.
 
 
-### OTHER on 2026-02-03 01:11
-- Location: Us Weekly
-- Description: Savannah Guthrie’s sister, Annie Guthrie, was the last person to see their mom, Nancy Guthrie, before she was reported missing in Arizona, Us Weekly can confirm. Pima County Sheriff Chris Nanos exclusively spoke to Us on Monday, February 2, revealing what pol…
-
-
-### ASSAULT on 2026-02-03 01:09
+### HOMICIDE on 2026-02-03 01:43
 - Location: ABC News (AU)
-- Description: Assaults in custody, longer remand times and a doubling of young people in detention are among the concerns flagged in the submission by the Aboriginal legal service.
+- Description: In 2022 Gregory Lee Roser was found guilty of murder after beating a man with a metal bar and then placing his body in a woodchipper.
 
 
-### OTHER on 2026-02-03 01:05
-- Location: New York Daily News
-- Description: NEW YORK — The NFL and commissioner Roger Goodell both made weak and cautious statements Monday in their first comments on New York Giants co-owner Steve Tisch’s email correspondences with Jeffrey Epstein that were released three days prior. The league pre-em…
+### HOMICIDE on 2026-02-03 01:41
+- Location: New York Post
+- Description: The Fulton County Medical Examiner's office determined the infant's blood alcohol level was a whopping 0.179, over twice the legal limit of intoxication for a driver aged 21 years or older.
 
-Analysis generated at: Wed Feb  4 01:26:47 UTC 2026
+
+### OTHER on 2026-02-03 01:28
+- Location: Dark Horizons
+- Description: American Blue Milo Ventimiglia has been set as the lead in “American Blue,” the new HBO Max cop drama from former “Supernatural” showrunner Jeremy Carver. In addition filmmaker David Ayer (“Suicide Squad,” “End of Watch”) will direct. The story centers on nat…
+
+Analysis generated at: Wed Feb  4 02:30:54 UTC 2026
