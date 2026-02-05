@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Feb  5 13:13:39 UTC 2026
+Last updated: Thu Feb  5 18:41:10 UTC 2026
 
 ## Latest Analysis
 
-Loaded 87114 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-04 13:03:59
+Loaded 87205 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-04 18:40:47
 
 Incidents by source:
 source
-newsapi           87013
+newsapi           87104
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-02-04 13:03
+### ROBBERY/THEFT on 2026-02-04 18:40
+- Location: Fox News
+- Description: Jose Ramirez is being accused of threatening an FBI agent whose information was stolen by Minneapolis agitators, according to court documents.
+
+
+### OTHER on 2026-02-04 18:39
+- Location: Freethoughtblogs.com
+- Description: The latest release from the Epstein files has ensnared a whole lot of people. While just having had contact with him does not mean that someone also indulged in his sex-obsessed pedophilic life, his brazenness about his sheer sleaziness means that no one had …
+
+
+### OTHER on 2026-02-04 18:29
+- Location: The Atlantic
+- Description: Accountability, transparency, and trust must be centerpieces of “New ICE.”
+
+
+### OTHER on 2026-02-04 18:25
+- Location: Gematsu
+- Description: Skunkape Games has announced Poker Night at the Inventory, a remastered version of the November 2010-released crossover poker game. It will launch for PlayStation 4, Switch, and PC via Steam on Mar…
+
+
+### OTHER on 2026-02-04 18:25
 - Location: Page Six
-- Description: During Tuesday's episode of "Today with Jenna & Sheinelle," Sheinelle Jones confessed that "behind the scenes … we’re all rattled" after the disappearance of Nancy Guthrie.
+- Description: The husband of Nancy's daughter Annie was the last person to see her before her friends reported that she didn't show up to church on Jan. 31.
 
-
-### OTHER on 2026-02-04 13:00
-- Location: The Denver Post
-- Description: Westminster police found three children in the trunk of a car after pulling over the driver and arresting him on suspicion of drunken driving, officials said Tuesday.
-
-
-### OTHER on 2026-02-04 13:00
-- Location: Daily Signal
-- Description: WHEELING, West Virginia—West Virginia is the only state in the United States that is located entirely within the 13-state, 423-county Appalachian region. Much of the... Read More
-The post The Choices That We Make appeared first on The Daily Signal.
-
-
-### DRUG RELATED on 2026-02-04 13:00
-- Location: New York Post
-- Description: Once-sworn enemies in Hispanic gangs have set aside decades of violence to form a "super gang," cashing in on drugs, extortion and a booming underground casino trade.
-
-
-### SHOOTING on 2026-02-04 12:46
-- Location: Mediatakeout.com
-- Description: A new suspect has been taken into custody in the terrifying armed robbery at Tekashi 6ix9ine’s Florida home, where the rapper’s mother was confronted by gunmen during a break-in last fall. Authorities in Palm Beach County announced on Feb. 1 that 18-year-old …
-
-Analysis generated at: Thu Feb  5 13:13:39 UTC 2026
+Analysis generated at: Thu Feb  5 18:41:10 UTC 2026
