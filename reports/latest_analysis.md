@@ -1,10 +1,10 @@
 
-Loaded 87043 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-04 06:35:35
+Loaded 87110 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-04 12:46:21
 
 Incidents by source:
 source
-newsapi           86942
+newsapi           87009
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,30 +20,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### DRUG RELATED on 2026-02-04 06:35
-- Location: Decrypt
-- Description: The Incognito Market operator extorted vendors by threatening to publish their transaction histories and crypto addresses.
+### SHOOTING on 2026-02-04 12:46
+- Location: Mediatakeout.com
+- Description: A new suspect has been taken into custody in the terrifying armed robbery at Tekashi 6ix9ine’s Florida home, where the rapper’s mother was confronted by gunmen during a break-in last fall. Authorities in Palm Beach County announced on Feb. 1 that 18-year-old …
 
 
-### OTHER on 2026-02-04 06:32
-- Location: The Local Sweden
-- Description: Swedish drinking water companies used Russian pump company, share of women on Swedish company boards hits record high, and other news from Sweden on Wednesday.
-
-
-### HOMICIDE on 2026-02-04 06:20
+### OTHER on 2026-02-04 12:46
 - Location: New York Post
-- Description: The teen killer displayed a menacing grin while he was hauled away in handcuffs, chilling arrest photo show.
+- Description: Larry Temah, a 46-year-old illegal migrant from Cameroon, was nabbed by ICE at his home on Jan. 26 -- just one week before he was set to graduate from the police academy.
 
 
-### HOMICIDE on 2026-02-04 06:19
+### OTHER on 2026-02-04 12:40
+- Location: RT
+- Description: NBC’s Savannah Guthrie’s mother has been taken from her home against her will as authorities are investigating alleged ransom notes Read Full Article at RT.com
+
+
+### HOMICIDE on 2026-02-04 12:36
 - Location: The Punch
-- Description: William Stevenson, ex-husband of first lady Jill Biden, has been arrested and charged with first-degree murder in the death of his wife, Linda Stevenson.
+- Description: The Nigerian Army has debunked social media reports that soldiers were killed during the recent Ebonyi community crisis in the Oso Edda community.
 
-Read More: https://punchng.com/ex-husband-of-former-us-first-lady-jill-biden-charged-in-wife-killing/
+Read More: https://punchng.com/no-soldier-killed-in-ebonyi-community-crisis-says-army/
 
 
-### OTHER on 2026-02-04 06:00
-- Location: The Irish Times
-- Description: A justice system that can’t be measured is one that can’t be transparent
+### HOMICIDE on 2026-02-04 12:28
+- Location: Sky.com
+- Description: Police were called to the scene just after 5pm on Tuesday following a report a man had collapsed near De Montfort University.
 
-Analysis generated at: Thu Feb  5 06:51:57 UTC 2026
+Analysis generated at: Thu Feb  5 12:48:05 UTC 2026
