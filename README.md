@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Feb  4 18:41:08 UTC 2026
+Last updated: Thu Feb  5 01:27:28 UTC 2026
 
 ## Latest Analysis
 
-Loaded 86965 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-03 18:38:37
+Loaded 86995 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-04 01:25:35
 
 Incidents by source:
 source
-newsapi           86864
+newsapi           86894
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-02-03 18:38
-- Location: Us Weekly
-- Description: Real Housewives of Beverly Hills alum Garcelle Beauvais is opening up about a “scary” experience that left her in handcuffs. “It was 9:30 at night, I was in my pajamas. I had a beautiful day, I mean, just peaceful, my kids were out of the house, luckily,” Bea…
+### SHOOTING on 2026-02-04 01:25
+- Location: ABC News
+- Description: Immigration officers with guns drawn arrested some activists who were trailing their vehicles Tuesday in Minneapolis
 
 
-### OTHER on 2026-02-03 18:37
-- Location: TechCrunch
-- Description: The use of administrative subpoenas, which are not subject to judicial oversight, are used to demand a wealth of information from tech companies, including the owners of anonymous online accounts documenting ICE operations.
+### OTHER on 2026-02-04 01:24
+- Location: The Indian Express
+- Description: On January 26, Deepak Kumar stood up to a group of men who were harassing a 70-year-old Muslim shopkeeper, who suffers from Parkinson’s disease, to drop the word “Baba” from his shop’s name
 
 
-### OTHER on 2026-02-03 18:28
-- Location: PBS
-- Description: Nancy Guthrie must be found soon because she could die without her medication, Pima County Sheriff Chris Nanos said Tuesday, urging whoever has her to free her.
+### HOMICIDE on 2026-02-04 01:21
+- Location: Boston Herald
+- Description: Two suspects in a Brockton murder were arrested in Lewiston, Maine, on Monday, according to the Plymouth County District Attorney’s Office.
 
 
-### OTHER on 2026-02-03 18:28
-- Location: The Star Online
-- Description: NEW YORK, Feb 3 (Reuters) - New ‌York is creating a team of legal observers that will don purple vests to monitor and ‌record the Trump administration's immigration enforcement officers as they seek to detain and deport migrants, the ‌state's attorney general…
+### HOMICIDE on 2026-02-04 01:16
+- Location: Boston Herald
+- Description: Former Stoughton police officer Matthew Farwell’s lawyers filed a motion to dismiss the federal murder charges against him late last week.
 
 
-### HOMICIDE on 2026-02-03 18:27
-- Location: The Hollywood Gossip
-- Description: Reading Time: 2 minutesWilliam Stevenson, the ex-husband of Jill Biden, has been arrested for murder.
-William Stevenson, Ex-Husband of Jill Biden, Arrested For Murder was originally published on The Hollywood Gossip.
+### ASSAULT on 2026-02-04 01:14
+- Location: The Denver Post
+- Description: Denver police are looking for a man or men suspected of attacking two women in the city’s Speer and Platt Park neighborhoods in January, officials said.
 
-Analysis generated at: Wed Feb  4 18:41:08 UTC 2026
+Analysis generated at: Thu Feb  5 01:27:28 UTC 2026
