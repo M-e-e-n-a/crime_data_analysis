@@ -1,10 +1,10 @@
 
-Loaded 86995 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-04 01:25:35
+Loaded 87004 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-04 02:30:40
 
 Incidents by source:
 source
-newsapi           86894
+newsapi           86903
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,31 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-02-04 01:25
-- Location: ABC News
-- Description: Immigration officers with guns drawn arrested some activists who were trailing their vehicles Tuesday in Minneapolis
+### ASSAULT on 2026-02-04 02:30
+- Location: ABC News (AU)
+- Description: A 16-year-old boy is facing charges of rape and taking a person by force after the alleged sexual assault of another teenager in Adelaide's south on Saturday night, police say.
 
 
-### OTHER on 2026-02-04 01:24
-- Location: The Indian Express
-- Description: On January 26, Deepak Kumar stood up to a group of men who were harassing a 70-year-old Muslim shopkeeper, who suffers from Parkinson’s disease, to drop the word “Baba” from his shop’s name
+### OTHER on 2026-02-04 02:30
+- Location: Reason
+- Description: A former employee of the U.S. House of Representatives was arrested and indicted in federal court for stealing government-issued cellphones…
+The post Brickbat: A Game of Telephone appeared first on Reason.com.
 
 
-### HOMICIDE on 2026-02-04 01:21
-- Location: Boston Herald
-- Description: Two suspects in a Brockton murder were arrested in Lewiston, Maine, on Monday, according to the Plymouth County District Attorney’s Office.
+### HOMICIDE on 2026-02-04 02:23
+- Location: NBC Chicago
+- Description: A woman was shot and killed inside of a parking garage on the campus of the University of Illinois at Chicago.
 
 
-### HOMICIDE on 2026-02-04 01:16
-- Location: Boston Herald
-- Description: Former Stoughton police officer Matthew Farwell’s lawyers filed a motion to dismiss the federal murder charges against him late last week.
+### OTHER on 2026-02-04 02:00
+- Location: Winter is Coming
+- Description: All roads lead to New Vegas in the season 2 finale of Fallout, but some are more satisfying than others.
 
 
-### ASSAULT on 2026-02-04 01:14
-- Location: The Denver Post
-- Description: Denver police are looking for a man or men suspected of attacking two women in the city’s Speer and Platt Park neighborhoods in January, officials said.
+### HOMICIDE on 2026-02-04 01:55
+- Location: The Punch
+- Description: At least four people are feared dead following a series of recent Lagos cult clashes in areas including Iyana-Ipaja, Ajah, and Onipanu over the past week.
 
-Analysis generated at: Thu Feb  5 01:27:28 UTC 2026
+Read More: https://punchng.com/four-feared-killed-in-fresh-lagos-cult-clashes/
+
+Analysis generated at: Thu Feb  5 02:32:56 UTC 2026
