@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Feb  5 02:32:56 UTC 2026
+Last updated: Thu Feb  5 06:51:57 UTC 2026
 
 ## Latest Analysis
 
-Loaded 87004 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-04 02:30:40
+Loaded 87043 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-04 06:35:35
 
 Incidents by source:
 source
-newsapi           86903
+newsapi           86942
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,31 +24,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2026-02-04 02:30
-- Location: ABC News (AU)
-- Description: A 16-year-old boy is facing charges of rape and taking a person by force after the alleged sexual assault of another teenager in Adelaide's south on Saturday night, police say.
+### DRUG RELATED on 2026-02-04 06:35
+- Location: Decrypt
+- Description: The Incognito Market operator extorted vendors by threatening to publish their transaction histories and crypto addresses.
 
 
-### OTHER on 2026-02-04 02:30
-- Location: Reason
-- Description: A former employee of the U.S. House of Representatives was arrested and indicted in federal court for stealing government-issued cellphones…
-The post Brickbat: A Game of Telephone appeared first on Reason.com.
+### OTHER on 2026-02-04 06:32
+- Location: The Local Sweden
+- Description: Swedish drinking water companies used Russian pump company, share of women on Swedish company boards hits record high, and other news from Sweden on Wednesday.
 
 
-### HOMICIDE on 2026-02-04 02:23
-- Location: NBC Chicago
-- Description: A woman was shot and killed inside of a parking garage on the campus of the University of Illinois at Chicago.
+### HOMICIDE on 2026-02-04 06:20
+- Location: New York Post
+- Description: The teen killer displayed a menacing grin while he was hauled away in handcuffs, chilling arrest photo show.
 
 
-### OTHER on 2026-02-04 02:00
-- Location: Winter is Coming
-- Description: All roads lead to New Vegas in the season 2 finale of Fallout, but some are more satisfying than others.
-
-
-### HOMICIDE on 2026-02-04 01:55
+### HOMICIDE on 2026-02-04 06:19
 - Location: The Punch
-- Description: At least four people are feared dead following a series of recent Lagos cult clashes in areas including Iyana-Ipaja, Ajah, and Onipanu over the past week.
+- Description: William Stevenson, ex-husband of first lady Jill Biden, has been arrested and charged with first-degree murder in the death of his wife, Linda Stevenson.
 
-Read More: https://punchng.com/four-feared-killed-in-fresh-lagos-cult-clashes/
+Read More: https://punchng.com/ex-husband-of-former-us-first-lady-jill-biden-charged-in-wife-killing/
 
-Analysis generated at: Thu Feb  5 02:32:56 UTC 2026
+
+### OTHER on 2026-02-04 06:00
+- Location: The Irish Times
+- Description: A justice system that can’t be measured is one that can’t be transparent
+
+Analysis generated at: Thu Feb  5 06:51:57 UTC 2026
