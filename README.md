@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Feb  6 01:27:57 UTC 2026
+Last updated: Fri Feb  6 02:33:12 UTC 2026
 
 ## Latest Analysis
 
-Loaded 87224 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-05 01:24:09
+Loaded 87233 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-05 02:17:37
 
 Incidents by source:
 source
-newsapi           87123
+newsapi           87132
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,30 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-02-05 01:24
-- Location: The Punch
-- Description: The family of a 24-year-old man accuses Bayelsa police of torture, leading to his death six days after his release. Protests erupt as investigations begin.
-
-Read More: https://punchng.com/our-son-was-tortured-in-police-custody-died-family/
-
-
-### OTHER on 2026-02-05 01:24
-- Location: 7NEWS.com.au
-- Description: Missing mother of TV host Savannah Guthrie ‘alive’ say police as ransom notes surface: ‘We want to save her’7news.com.au
-
-
-### HOMICIDE on 2026-02-05 01:22
+### OTHER on 2026-02-05 02:17
 - Location: CBC News
-- Description: The testimony at a coroners inquest by Julie Furlaino, director of operations for the ministry in the region, offers the first description of how Christopher Duong, Janet Nguyen and their children may have died in 2023.
+- Description: Canada Computers & Electronics continues to investigate a data breach affecting hundreds of people that has left customers frustrated over how the company handled the episode and communicated about it.
 
 
-### OTHER on 2026-02-05 01:12
-- Location: Us Weekly
-- Description: The home of Nancy Guthrie has been taped off as a crime scene again as the search for Today cohost Savannah Guthrie’s mother continues. “Right now — investigators are putting crime scene tape back up at Nancy Guthrie’s house,” News Nation reporter Brian Entin…
+### HOMICIDE on 2026-02-05 02:12
+- Location: Israelnationalnews.com
+- Description: Australian police charge 19-year-old for alleged online death threats against President Herzog ahead of his visit.
 
 
-### OTHER on 2026-02-05 01:12
-- Location: NBC News
-- Description: Trump made several false or misleading claims on topics ranging from the economy to immigration to elections during an Oval Office interview with NBC News’ Tom Llamas.
+### ROBBERY/THEFT on 2026-02-05 01:54
+- Location: ABC News (AU)
+- Description: Police take two people into custody in relation to an alleged early morning home invasion and firearms theft in the Huon Valley.
 
-Analysis generated at: Fri Feb  6 01:27:57 UTC 2026
+
+### DRUG RELATED on 2026-02-05 01:53
+- Location: Fox News
+- Description: FBI arrests 55 people in major Georgia drug trafficking ring accused of flooding streets with fentanyl, linked to China supplier in sweeping takedown.
+
+
+### HOMICIDE on 2026-02-05 01:49
+- Location: ABC News (AU)
+- Description: A Queensland man has been ordered to serve community service hours after pleading guilty to killing his dog Arnie, who he left in his car to die, and to misleading police by claiming it had been stolen.
+
+Analysis generated at: Fri Feb  6 02:33:12 UTC 2026
