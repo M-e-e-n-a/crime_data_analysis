@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Feb  5 18:41:10 UTC 2026
+Last updated: Fri Feb  6 01:27:57 UTC 2026
 
 ## Latest Analysis
 
-Loaded 87205 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-04 18:40:47
+Loaded 87224 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-05 01:24:09
 
 Incidents by source:
 source
-newsapi           87104
+newsapi           87123
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2026-02-04 18:40
-- Location: Fox News
-- Description: Jose Ramirez is being accused of threatening an FBI agent whose information was stolen by Minneapolis agitators, according to court documents.
+### HOMICIDE on 2026-02-05 01:24
+- Location: The Punch
+- Description: The family of a 24-year-old man accuses Bayelsa police of torture, leading to his death six days after his release. Protests erupt as investigations begin.
+
+Read More: https://punchng.com/our-son-was-tortured-in-police-custody-died-family/
 
 
-### OTHER on 2026-02-04 18:39
-- Location: Freethoughtblogs.com
-- Description: The latest release from the Epstein files has ensnared a whole lot of people. While just having had contact with him does not mean that someone also indulged in his sex-obsessed pedophilic life, his brazenness about his sheer sleaziness means that no one had …
+### OTHER on 2026-02-05 01:24
+- Location: 7NEWS.com.au
+- Description: Missing mother of TV host Savannah Guthrie ‘alive’ say police as ransom notes surface: ‘We want to save her’7news.com.au
 
 
-### OTHER on 2026-02-04 18:29
-- Location: The Atlantic
-- Description: Accountability, transparency, and trust must be centerpieces of “New ICE.”
+### HOMICIDE on 2026-02-05 01:22
+- Location: CBC News
+- Description: The testimony at a coroners inquest by Julie Furlaino, director of operations for the ministry in the region, offers the first description of how Christopher Duong, Janet Nguyen and their children may have died in 2023.
 
 
-### OTHER on 2026-02-04 18:25
-- Location: Gematsu
-- Description: Skunkape Games has announced Poker Night at the Inventory, a remastered version of the November 2010-released crossover poker game. It will launch for PlayStation 4, Switch, and PC via Steam on Mar…
+### OTHER on 2026-02-05 01:12
+- Location: Us Weekly
+- Description: The home of Nancy Guthrie has been taped off as a crime scene again as the search for Today cohost Savannah Guthrie’s mother continues. “Right now — investigators are putting crime scene tape back up at Nancy Guthrie’s house,” News Nation reporter Brian Entin…
 
 
-### OTHER on 2026-02-04 18:25
-- Location: Page Six
-- Description: The husband of Nancy's daughter Annie was the last person to see her before her friends reported that she didn't show up to church on Jan. 31.
+### OTHER on 2026-02-05 01:12
+- Location: NBC News
+- Description: Trump made several false or misleading claims on topics ranging from the economy to immigration to elections during an Oval Office interview with NBC News’ Tom Llamas.
 
-Analysis generated at: Thu Feb  5 18:41:10 UTC 2026
+Analysis generated at: Fri Feb  6 01:27:57 UTC 2026
