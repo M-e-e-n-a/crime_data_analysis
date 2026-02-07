@@ -1,10 +1,10 @@
 
-Loaded 87471 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-06 02:27:06
+Loaded 87501 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-06 06:31:58
 
 Incidents by source:
 source
-newsapi           87370
+newsapi           87400
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,35 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-02-06 02:27
-- Location: HuffPost
-- Description: Authorities are still working to identify a potential suspect as they look into alleged ransom notes that have been sent to media outlets.
+### SHOOTING on 2026-02-06 06:31
+- Location: The Local Sweden
+- Description: Moderates call for life sentences for gang leaders, Sweden Democrat leader drops out of reindeer race due to gun scare, orange warning in Skåne as more snow hits and more news from Sweden on Friday.
 
 
-### OTHER on 2026-02-06 02:24
-- Location: Mediaite
-- Description: Martin Luther King III sharply criticized recent changes at the historic museum at the home of assassinated civil rights leader Medgar Evers.
-The post MLK Jr’s Son Accuses Trump-Run National Park of ‘Erasing’ and ‘Sanitizing’ History By Deleting Racism Refere…
+### HOMICIDE on 2026-02-06 06:31
+- Location: Freerepublic.com
+- Description: A female shooter has been convicted of attempted murder after she opened fire at a New Year’s Eve house party when she spotted her estranged husband and her boyfriend talking to each other. Olivia Clendenin, seen smirking in her mugshot, fired eight shots aft…
 
 
-### OTHER on 2026-02-06 02:24
-- Location: The Star Online
-- Description: KANGAR: The Ninja Turtle gang involved in trafficking various species of turtles was busted, with the seizure of more than RM200,000, after three individuals were arrested on Wednesday (Feb 6). Read full story
+### OTHER on 2026-02-06 06:29
+- Location: Lifesciencesworld.com
+- Description: Does AAA Cover Hitting a Deer? Understanding Your Coverage Options Yes, AAA comprehensive insurance generally covers damage resulting from hitting a deer. However, coverage depends on your specific policy and state laws, and may be subject to a deductible. Th…
 
 
-### HOMICIDE on 2026-02-06 02:22
-- Location: The Portland Mercury
-- Description: Police say the victim tried to shoot security guards at a grocery store five days earlier, leaving behind a shotgun with shells containing "threatening" messages naming Donald Trump.
- 
- by Courtney Vaughn
- 
- 
- 
- Portland Police officers shot and killed a man …
+### OTHER on 2026-02-06 06:20
+- Location: The Times of India
+- Description: The Staff Selection Commission has released the SSC MTS Admit Card 2026 for MTS and Havaldar candidates on ssc.gov.in ahead of the February 4 computer-based exam. Hall tickets contain vital exam details and are mandatory for entry. Aspirants must download, ve…
 
 
-### OTHER on 2026-02-06 02:12
-- Location: Us Weekly
-- Description: A former LA County employee has been charged with attempting to scam Savannah Guthrie’s family as they continue their search for the Today anchor’s missing mother. Los Angeles Magazine reported on Thursday, February 5, that Derrick Callella, was previously in…
+### OTHER on 2026-02-06 06:19
+- Location: The Times of India
+- Description: Amid reports of 800 people missing in Delhi in the first two weeks of 2026, Delhi Police has issued a clarification saying that the hype around the surge in missing girls in Delhi is being pushed through paid promotion. The remarks came after reports surfaced…
 
-Analysis generated at: Sat Feb  7 02:28:52 UTC 2026
+Analysis generated at: Sat Feb  7 06:35:53 UTC 2026
