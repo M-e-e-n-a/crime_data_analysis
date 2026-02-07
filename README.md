@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Feb  7 13:00:11 UTC 2026
+Last updated: Sat Feb  7 18:27:59 UTC 2026
 
 ## Latest Analysis
 
-Loaded 87570 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-06 13:00:00
+Loaded 87655 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-06 18:17:39
 
 Incidents by source:
 source
-newsapi           87469
+newsapi           87554
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-02-06 13:00
-- Location: Activistpost.com
-- Description: Introduction A palpable tension grips the nation in 2026. The cheers from some quarters for the extrajudicial actions of federal agents signal more than partisan victory; they herald a fundamental rupture in America’s social contract. The rule of law, due pro…
+### OTHER on 2026-02-06 18:17
+- Location: The Times of India
+- Description: An elderly farmer, Vasudev Mahto (65), died tragically when his motorcycle was struck by a speeding tractor near the Luta Railway Overbridge. The tractor driver fled the scene, prompting locals to block the road demanding justice. Police have seized the tract…
 
 
-### HOMICIDE on 2026-02-06 12:54
-- Location: Sky.com
-- Description: Police have launched a fresh appeal for information about "possible previous offending" by serial killer Steve Wright, as he was jailed for the murder of a teenager more than 25 years ago.
+### ROBBERY/THEFT on 2026-02-06 18:15
+- Location: The Times of India
+- Description: In a tragic turn of events, well-known Ranchi real estate figure Anurag Sarawgi, age 50, has allegedly taken his own life after reportedly leaping from the balcony of his sixth-floor residence late Thursday. The local police are currently probing the circumst…
 
 
-### SHOOTING on 2026-02-06 12:46
-- Location: THE CITY
-- Description: Reacting to the police shooting of Jabez Chakraborty, Mayor Mamdani plans to speed up the expansion of community responders, but a CITY analysis of existing efforts found that 911 dispatchers call in cops in the vast majority of cases.
+### OTHER on 2026-02-06 18:14
+- Location: WSOC Charlotte
+- Description: The actor-director is accused of inappropriately touching two boys on the set of “The Cleaning Lady” while filming in Albuquerque during 2022.
 
 
-### SHOOTING on 2026-02-06 12:45
-- Location: Breitbart News
-- Description: A Western-sanctioned Russian military intelligence chief has been rushed to hospital after being repeatedly shot.
-The post Russian General Known For UK Chemical Weapon Attack, Wagner Mutiny, Shot in Attempted Moscow Assassination appeared first on Breitbart.
+### OTHER on 2026-02-06 18:11
+- Location: The Times of India
+- Description: Purnia MP Pappu Yadav faced a dramatic late-night attempt by police to arrest him over a 31-year-old case involving alleged fraudulent house rental in Patna. Supporters gathered, hindering the arrest. The case, dating back to 1995, concerns accusations of mis…
 
 
-### OTHER on 2026-02-06 12:40
-- Location: Variety
-- Description: Hoda Kotb returned to “Today” on Friday to show support for her former co-anchor Savannah Guthrie, whose 84-year-old mother Nancy Guthrie has been missing since Jan. 31. Kotb, who was Guthrie’s “Today” co-anchor form 2018 to 2025, joined Craig Melvin, Sheinel…
+### OTHER on 2026-02-06 18:06
+- Location: Slate Magazine
+- Description: Well, that was unexpected.
 
-Analysis generated at: Sat Feb  7 13:00:11 UTC 2026
+Analysis generated at: Sat Feb  7 18:27:59 UTC 2026
