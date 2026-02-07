@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Feb  7 01:26:29 UTC 2026
+Last updated: Sat Feb  7 02:28:52 UTC 2026
 
 ## Latest Analysis
 
-Loaded 87459 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-06 01:20:00
+Loaded 87471 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-06 02:27:06
 
 Incidents by source:
 source
-newsapi           87358
+newsapi           87370
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,35 @@ bution.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2026-02-06 01:20
-- Location: TheBlaze
-- Description: The Department of Justice arrested a man for making threats against federal agents and cited his many posts on social media that called for violent resistance.Kyle Wagner, 37, identified as a member of Antifa and called for militant attacks on Immigration and…
+### OTHER on 2026-02-06 02:27
+- Location: HuffPost
+- Description: Authorities are still working to identify a potential suspect as they look into alleged ransom notes that have been sent to media outlets.
 
 
-### HOMICIDE on 2026-02-06 01:18
-- Location: New York Post
-- Description: A stunning, bloody video taken moments after a elderly woman crashed into a Westwood grocery store Thursday shows the dust clearing and the nauseating aftermath of the deadly collision.
+### OTHER on 2026-02-06 02:24
+- Location: Mediaite
+- Description: Martin Luther King III sharply criticized recent changes at the historic museum at the home of assassinated civil rights leader Medgar Evers.
+The post MLK Jr’s Son Accuses Trump-Run National Park of ‘Erasing’ and ‘Sanitizing’ History By Deleting Racism Refere…
 
 
-### OTHER on 2026-02-06 01:17
-- Location: Fox News
-- Description: Homeland Security claims anti-ICE agitators and sanctuary officials tried to block arrests of illegal immigrants accused of child rape, other sex crimes, and domestic abuse.
+### OTHER on 2026-02-06 02:24
+- Location: The Star Online
+- Description: KANGAR: The Ninja Turtle gang involved in trafficking various species of turtles was busted, with the seizure of more than RM200,000, after three individuals were arrested on Wednesday (Feb 6). Read full story
 
 
-### OTHER on 2026-02-06 01:08
-- Location: New York Post
-- Description: An ATM scam perpetrated by SoCal swindlers will leave you cashless and confused.
+### HOMICIDE on 2026-02-06 02:22
+- Location: The Portland Mercury
+- Description: Police say the victim tried to shoot security guards at a grocery store five days earlier, leaving behind a shotgun with shells containing "threatening" messages naming Donald Trump.
+ 
+ by Courtney Vaughn
+ 
+ 
+ 
+ Portland Police officers shot and killed a man …
 
 
-### HOMICIDE on 2026-02-06 00:53
-- Location: TODAY
-- Description: The ending of Lincoln Lawyer Season 4 explained, including who killed Sam and if Mickey gets out of jail. Find out here.
+### OTHER on 2026-02-06 02:12
+- Location: Us Weekly
+- Description: A former LA County employee has been charged with attempting to scam Savannah Guthrie’s family as they continue their search for the Today anchor’s missing mother. Los Angeles Magazine reported on Thursday, February 5, that Derrick Callella, was previously in…
 
-Analysis generated at: Sat Feb  7 01:26:29 UTC 2026
+Analysis generated at: Sat Feb  7 02:28:52 UTC 2026
