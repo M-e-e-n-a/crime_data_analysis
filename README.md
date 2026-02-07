@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Feb  7 06:35:53 UTC 2026
+Last updated: Sat Feb  7 12:36:00 UTC 2026
 
 ## Latest Analysis
 
-Loaded 87501 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-06 06:31:58
+Loaded 87565 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-06 12:34:17
 
 Incidents by source:
 source
-newsapi           87400
+newsapi           87464
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-02-06 06:31
-- Location: The Local Sweden
-- Description: Moderates call for life sentences for gang leaders, Sweden Democrat leader drops out of reindeer race due to gun scare, orange warning in Skåne as more snow hits and more news from Sweden on Friday.
+### OTHER on 2026-02-06 12:34
+- Location: Www.gov.uk
+- Description: Multi-agency operation into suspected illegal waste dumping in Liverpool results in arrest and vehicle seizure.
 
 
-### HOMICIDE on 2026-02-06 06:31
-- Location: Freerepublic.com
-- Description: A female shooter has been convicted of attempted murder after she opened fire at a New Year’s Eve house party when she spotted her estranged husband and her boyfriend talking to each other. Olivia Clendenin, seen smirking in her mugshot, fired eight shots aft…
+### HOMICIDE on 2026-02-06 12:32
+- Location: Boston Herald
+- Description: Police say the attack happened during Friday prayers and that an investigation is underway.
 
 
-### OTHER on 2026-02-06 06:29
-- Location: Lifesciencesworld.com
-- Description: Does AAA Cover Hitting a Deer? Understanding Your Coverage Options Yes, AAA comprehensive insurance generally covers damage resulting from hitting a deer. However, coverage depends on your specific policy and state laws, and may be subject to a deductible. Th…
+### OTHER on 2026-02-06 12:27
+- Location: ABC News
+- Description: Speed skater Erin Jackson and bobsledder Frank Del Duca will represent Team USA and carry the American flag at the Olympics opening ceremony in Milan on Friday.
 
 
-### OTHER on 2026-02-06 06:20
-- Location: The Times of India
-- Description: The Staff Selection Commission has released the SSC MTS Admit Card 2026 for MTS and Havaldar candidates on ssc.gov.in ahead of the February 4 computer-based exam. Hall tickets contain vital exam details and are mandatory for entry. Aspirants must download, ve…
+### ASSAULT on 2026-02-06 12:15
+- Location: RT
+- Description: The latest attack on a Russian general in Moscow proves Kiev wants to derail peace talks, Russian Foreign Minister Sergey Lavrov said Read Full Article at RT.com
 
 
-### OTHER on 2026-02-06 06:19
-- Location: The Times of India
-- Description: Amid reports of 800 people missing in Delhi in the first two weeks of 2026, Delhi Police has issued a clarification saying that the hype around the surge in missing girls in Delhi is being pushed through paid promotion. The remarks came after reports surfaced…
+### OTHER on 2026-02-06 12:14
+- Location: Sky.com
+- Description: Amnesty International has revealed the brutal punishments meted out to North Koreans who consume foreign media, after 25 interviews with escapees.
 
-Analysis generated at: Sat Feb  7 06:35:53 UTC 2026
+Analysis generated at: Sat Feb  7 12:36:00 UTC 2026
