@@ -1,10 +1,10 @@
 
-Loaded 87746 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-07 12:50:00
+Loaded 87839 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-07 18:28:52
 
 Incidents by source:
 source
-newsapi           87645
+newsapi           87738
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-02-07 12:50
-- Location: Sky.com
-- Description: The body of Delia McInerney was discovered in St Helens on 8 January. George Christopher Gordon, 65, of St Helens, has been charged with murder.
+### HOMICIDE on 2026-02-07 18:28
+- Location: Sporting News
+- Description: Here is what we know about former NFL and Ohio State standout linebacker Darron Lee being arrested for his girlfriend's alleged murder.
 
 
-### OTHER on 2026-02-07 12:46
-- Location: New York Post
-- Description: Only China, Russia and Hamas get lower favorability ratings than the Immigration and Customs Enforcement agency, a new Harvard / Harris poll reveals.
+### HOMICIDE on 2026-02-07 18:27
+- Location: The Daily Caller
+- Description: Federal agents investigating a Toledo man who threatened to kill Vice President JD Vance discovered child sexual abuse material in his possession, DOJ says.
 
 
-### OTHER on 2026-02-07 12:45
-- Location: Whyevolutionistrue.com
-- Description: Welcome to CaturSaturday, February 7, 2026. It’s shabbos for Jewish cats, and National Fettuccine Alfredo Day, celebrating my favorite pasta dish. It’s also “e” Day (the first two digits of that irrational number are 2.7, and today is 2/7 in English notation)…
+### SHOOTING on 2026-02-07 18:26
+- Location: Breitbart News
+- Description: A new bill proposed by Congressman Tony Gonzales (TX-23) will add stronger protections to elite Border Patrol Tactical Groups deployed to enhance security at public events or assist with law enforcement responses to mass shootings or other mass casualty terro…
 
 
-### HOMICIDE on 2026-02-07 12:36
+### OTHER on 2026-02-07 18:21
 - Location: The Times of India
-- Description: A wedding celebration in Rohtas district turned tragic as a 24-year-old man was fatally shot during a dance performance. A dispute with a friend on stage reportedly led to the fatal shooting. Police are investigating the incident, which highlights a disturbin…
+- Description: Patna: CM Nitish Kumar on Saturday handed over appointment letters to 1,224 newly appointed specialist and general medical officers at a health depart.
 
 
-### OTHER on 2026-02-07 12:32
-- Location: Common Dreams
-- Description: As people are watching online and in person, American federal immigration enforcement is stepping up a policy of an authoritarian police state using violence against immigrants and their native-born backers. Operation Metro Surge in Minneapolis is a primary c…
+### OTHER on 2026-02-07 18:20
+- Location: The Times of India
+- Description: As the race for the mayoral seat in Ranchi escalates, 11 enthusiastic candidates have unveiled their electoral symbols this past Friday. Among them, Congress-JMM's Rama Khalko will represent with the 'bench', while BJP's Roshni Khalko is set to campaign under…
 
-Analysis generated at: Sun Feb  8 13:01:41 UTC 2026
+Analysis generated at: Sun Feb  8 18:29:30 UTC 2026
