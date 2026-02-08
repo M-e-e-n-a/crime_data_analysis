@@ -1,10 +1,10 @@
 
-Loaded 87678 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-07 02:02:43
+Loaded 87681 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-07 02:45:44
 
 Incidents by source:
 source
-newsapi           87577
+newsapi           87580
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,6 +20,21 @@ bution.svg)
 
 ## Recent Incidents
 
+### SHOOTING on 2026-02-07 02:45
+- Location: RTE
+- Description: Australian authorities warned protesters to avoid violence in Sydney's streets when Israeli President Isaac Herzog visits on Monday to honour victims of the Bondi Beach mass shooting.
+
+
+### ROBBERY/THEFT on 2026-02-07 02:26
+- Location: The Indian Express
+- Description: 8 arrested, five gyms sealed, fitness centres across district emptying out.
+
+
+### HOMICIDE on 2026-02-07 02:13
+- Location: Fci Academy
+- Description: Darren Lee, a former Ohio State linebacker, was a member of the Buckeyes' 2014 national championship team.
+
+
 ### HOMICIDE on 2026-02-07 02:02
 - Location: ABC News (AU)
 - Description: US prosecutors are seeking a sentence of almost four years for a conspiracy theorist linked to the trio behind the Wieambilla shooting.
@@ -29,19 +44,4 @@ bution.svg)
 - Location: The Star Online
 - Description: MEXICO CITY, Feb ‌6 (Reuters) - Mexican authorities said on Friday that at least one body matching the ‌characteristics of one of 10 mine workers who were kidnapped from a mine ‌in northern Sinaloa state late last month was found in a clandestine grave. Read …
 
-
-### HOMICIDE on 2026-02-07 01:46
-- Location: New York Post
-- Description: The former Jets first-round draft selection was arrested and charged in Tennessee for allegedly murdering his girlfriend, according to reports.
-
-
-### OTHER on 2026-02-07 01:35
-- Location: New York Post
-- Description: Los Angeles’ rampant crime issues trace back to a tiny fraction of criminals, but jam-packed jails and soft laws are leading many of these swindlers, crooks and thugs to cycle right back onto the streets, District Attorney Nathan Hochman told The Post in an e…
-
-
-### HOMICIDE on 2026-02-07 01:26
-- Location: ABC News (AU)
-- Description: Zubayar Al-Bakoush, 58, has been wanted by the United States for more than a decade for his alleged role in the attack, which killed four Americans, including the US ambassador to Libya.
-
-Analysis generated at: Sun Feb  8 02:03:07 UTC 2026
+Analysis generated at: Sun Feb  8 02:56:15 UTC 2026
