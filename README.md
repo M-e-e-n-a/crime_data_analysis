@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Feb  8 18:29:30 UTC 2026
+Last updated: Mon Feb  9 01:46:21 UTC 2026
 
 ## Latest Analysis
 
-Loaded 87839 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-07 18:28:52
+Loaded 87853 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-08 01:18:31
 
 Incidents by source:
 source
-newsapi           87738
+newsapi           87752
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-02-07 18:28
-- Location: Sporting News
-- Description: Here is what we know about former NFL and Ohio State standout linebacker Darron Lee being arrested for his girlfriend's alleged murder.
+### OTHER on 2026-02-08 01:18
+- Location: Fox News
+- Description: Anti-ICE protesters were arrested in Minneapolis after chaos unfolded outside a federal building, with footage showing confrontations with officers.
 
 
-### HOMICIDE on 2026-02-07 18:27
-- Location: The Daily Caller
-- Description: Federal agents investigating a Toledo man who threatened to kill Vice President JD Vance discovered child sexual abuse material in his possession, DOJ says.
+### OTHER on 2026-02-08 01:09
+- Location: Page Six
+- Description: Nancy Guthrie was reported missing on Sunday after failing to attend church.
 
 
-### SHOOTING on 2026-02-07 18:26
-- Location: Breitbart News
-- Description: A new bill proposed by Congressman Tony Gonzales (TX-23) will add stronger protections to elite Border Patrol Tactical Groups deployed to enhance security at public events or assist with law enforcement responses to mass shootings or other mass casualty terro…
+### OTHER on 2026-02-08 01:08
+- Location: Freerepublic.com
+- Description: STOUGHTON, Wis. (WMTV/Gray News) - A police department in Wisconsin used a drone to find a person it said was repeatedly defecating in a public park. The Stoughton Police Department reported Thursday it received dozens of complaints about feces and used toile…
 
 
-### OTHER on 2026-02-07 18:21
+### OTHER on 2026-02-08 01:06
+- Location: Mediaite
+- Description: Retired NYPD Inspector Paul Mauro shocked his Fox News colleagues on Saturday when he said Nancy Guthrie's kidnappers may not be able to provide proof of life
+The post Fox News Hosts Stunned by Ex-Cop’s Theory on ‘Elusive’ Nancy Guthrie Kidnappers: ‘Hoping Ag…
+
+
+### HOMICIDE on 2026-02-08 00:55
 - Location: The Times of India
-- Description: Patna: CM Nitish Kumar on Saturday handed over appointment letters to 1,224 newly appointed specialist and general medical officers at a health depart.
+- Description: Police in Amritsar arrested Shaminder Singh, the key suspect in the murder of Satwinderpal Singh alias Lucky Oberoi, following a brief exchange of fire. Singh, who has a criminal past, was apprehended in the Khasa area after attempting to flee. He sustained a…
 
-
-### OTHER on 2026-02-07 18:20
-- Location: The Times of India
-- Description: As the race for the mayoral seat in Ranchi escalates, 11 enthusiastic candidates have unveiled their electoral symbols this past Friday. Among them, Congress-JMM's Rama Khalko will represent with the 'bench', while BJP's Roshni Khalko is set to campaign under…
-
-Analysis generated at: Sun Feb  8 18:29:30 UTC 2026
+Analysis generated at: Mon Feb  9 01:46:21 UTC 2026
