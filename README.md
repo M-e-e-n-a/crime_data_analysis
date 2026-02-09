@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Feb  9 01:46:21 UTC 2026
+Last updated: Mon Feb  9 02:41:05 UTC 2026
 
 ## Latest Analysis
 
-Loaded 87853 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-08 01:18:31
+Loaded 87866 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-08 02:37:03
 
 Incidents by source:
 source
-newsapi           87752
+newsapi           87765
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-02-08 01:18
-- Location: Fox News
-- Description: Anti-ICE protesters were arrested in Minneapolis after chaos unfolded outside a federal building, with footage showing confrontations with officers.
-
-
-### OTHER on 2026-02-08 01:09
-- Location: Page Six
-- Description: Nancy Guthrie was reported missing on Sunday after failing to attend church.
-
-
-### OTHER on 2026-02-08 01:08
-- Location: Freerepublic.com
-- Description: STOUGHTON, Wis. (WMTV/Gray News) - A police department in Wisconsin used a drone to find a person it said was repeatedly defecating in a public park. The Stoughton Police Department reported Thursday it received dozens of complaints about feces and used toile…
-
-
-### OTHER on 2026-02-08 01:06
-- Location: Mediaite
-- Description: Retired NYPD Inspector Paul Mauro shocked his Fox News colleagues on Saturday when he said Nancy Guthrie's kidnappers may not be able to provide proof of life
-The post Fox News Hosts Stunned by Ex-Cop’s Theory on ‘Elusive’ Nancy Guthrie Kidnappers: ‘Hoping Ag…
-
-
-### HOMICIDE on 2026-02-08 00:55
+### OTHER on 2026-02-08 02:37
 - Location: The Times of India
-- Description: Police in Amritsar arrested Shaminder Singh, the key suspect in the murder of Satwinderpal Singh alias Lucky Oberoi, following a brief exchange of fire. Singh, who has a criminal past, was apprehended in the Khasa area after attempting to flee. He sustained a…
+- Description: Modern "Pied Pipers" leverage emotional conditioning, not outright lies, to attract followers, particularly Gen Z. They offer catchy certainties and promises of success, leading to disappointment and eroded trust when these promises collapse. The solution lie…
 
-Analysis generated at: Mon Feb  9 01:46:21 UTC 2026
+
+### OTHER on 2026-02-08 02:26
+- Location: TimesLIVE
+- Description: First liquefied natural gas terminal set to stabilise the supply of gas
+
+
+### OTHER on 2026-02-08 02:25
+- Location: Fox News
+- Description: Sheriff Chris Nanos spotted at basketball game as Savannah Guthrie's family makes third plea for missing mother's return after alleged ransom message.
+
+
+### OTHER on 2026-02-08 02:23
+- Location: ABC News
+- Description: "Today" show host Savannah Guthrie and her siblings released a new video on Saturday saying they have received a message and begged for the return of their missing mother.
+
+
+### OTHER on 2026-02-08 02:21
+- Location: ABC News
+- Description: The family of Nancy Guthrie is pleading for her safe return a week after the 84-year-old was allegedly abducted from her home in Tucson, Arizona.
+
+Analysis generated at: Mon Feb  9 02:41:05 UTC 2026
