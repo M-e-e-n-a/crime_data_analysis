@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Feb  9 02:41:05 UTC 2026
+Last updated: Mon Feb  9 06:58:54 UTC 2026
 
 ## Latest Analysis
 
-Loaded 87866 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-08 02:37:03
+Loaded 87888 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-08 06:54:00
 
 Incidents by source:
 source
-newsapi           87765
+newsapi           87787
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-02-08 02:37
+### SHOOTING on 2026-02-08 06:54
+- Location: Rlsbb.to
+- Description: Season 38, Episode 16 – “The Rx Defense”On Dec. 23, 2023, police were called to a Texas home where two teenagers had been shot. Eighteen-year-old Ethan Riley died from his injuries, while 19-year-old Ben Bliek survived. Their friend, 17-year-old Connor Hilton…
+
+
+### OTHER on 2026-02-08 06:51
 - Location: The Times of India
-- Description: Modern "Pied Pipers" leverage emotional conditioning, not outright lies, to attract followers, particularly Gen Z. They offer catchy certainties and promises of success, leading to disappointment and eroded trust when these promises collapse. The solution lie…
+- Description: Jagadeesh Vasanthada, SAP Ariba Enterprise Architect at Kyyte, USA, received the Industry Excellence Award at the IEEE ICCETM 2025 in Australia for his contributions to AI-driven procurement and digital transformation. Selected from 2,679 global submissions, …
 
 
-### OTHER on 2026-02-08 02:26
-- Location: TimesLIVE
-- Description: First liquefied natural gas terminal set to stabilise the supply of gas
+### HOMICIDE on 2026-02-08 06:47
+- Location: The Times of India
+- Description: Kerala Governor Rajendra Arlekar urged students to embrace skill-based education to become self-reliant and job creators, rather than merely seeking employment. Speaking at the Annual Conclave and Future Skills Summit 2026 in Pune, he praised Fuel Education G…
 
 
-### OTHER on 2026-02-08 02:25
-- Location: Fox News
-- Description: Sheriff Chris Nanos spotted at basketball game as Savannah Guthrie's family makes third plea for missing mother's return after alleged ransom message.
+### OTHER on 2026-02-08 06:44
+- Location: The Times of India
+- Description: The National Council of Educational Research and Training has opened online applications for NCERT Recruitment 2026 to fill 117 academic posts across six campuses. The drive includes teaching and librarian roles, with selection based on interviews. Registrati…
 
 
-### OTHER on 2026-02-08 02:23
-- Location: ABC News
-- Description: "Today" show host Savannah Guthrie and her siblings released a new video on Saturday saying they have received a message and begged for the return of their missing mother.
+### HOMICIDE on 2026-02-08 05:55
+- Location: The Times of India
+- Description: A court in Muzaffarnagar has acquitted 22 individuals in a murder, loot, and arson case stemming from the 2013 riots. The judge cited a lack of evidence, stating the prosecution failed to prove charges beyond reasonable doubt. The case involved an attack on M…
 
-
-### OTHER on 2026-02-08 02:21
-- Location: ABC News
-- Description: The family of Nancy Guthrie is pleading for her safe return a week after the 84-year-old was allegedly abducted from her home in Tucson, Arizona.
-
-Analysis generated at: Mon Feb  9 02:41:05 UTC 2026
+Analysis generated at: Mon Feb  9 06:58:54 UTC 2026
