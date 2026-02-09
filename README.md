@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Feb  9 06:58:54 UTC 2026
+Last updated: Mon Feb  9 12:57:11 UTC 2026
 
 ## Latest Analysis
 
-Loaded 87888 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-08 06:54:00
+Loaded 87917 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-08 12:52:26
 
 Incidents by source:
 source
-newsapi           87787
+newsapi           87816
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-02-08 06:54
-- Location: Rlsbb.to
-- Description: Season 38, Episode 16 – “The Rx Defense”On Dec. 23, 2023, police were called to a Texas home where two teenagers had been shot. Eighteen-year-old Ethan Riley died from his injuries, while 19-year-old Ben Bliek survived. Their friend, 17-year-old Connor Hilton…
+### SHOOTING on 2026-02-08 12:52
+- Location: Slashdot.org
+- Description: Russian investigators claim Ukraine behind assassination attempt on top generalcnn.com Vladimir Alexeyev: Three suspects in shooting of Russian general namedBBC Russia says second suspect in general’s shooting arrested in DubaiAl Jazeera Arrest in Dubai after…
 
 
-### OTHER on 2026-02-08 06:51
-- Location: The Times of India
-- Description: Jagadeesh Vasanthada, SAP Ariba Enterprise Architect at Kyyte, USA, received the Industry Excellence Award at the IEEE ICCETM 2025 in Australia for his contributions to AI-driven procurement and digital transformation. Selected from 2,679 global submissions, …
+### ROBBERY/THEFT on 2026-02-08 12:45
+- Location: Westernjournal.com
+- Description: Police have deployed bomb-detecting dogs, stationed rooftop snipers, closed streets, and placed armed SWAT team members in the courthouse.
 
 
-### HOMICIDE on 2026-02-08 06:47
-- Location: The Times of India
-- Description: Kerala Governor Rajendra Arlekar urged students to embrace skill-based education to become self-reliant and job creators, rather than merely seeking employment. Speaking at the Annual Conclave and Future Skills Summit 2026 in Pune, he praised Fuel Education G…
+### SHOOTING on 2026-02-08 12:18
+- Location: Freerepublic.com
+- Description: JACKSONVILLE, Fla. — A man was sitting in his car late Tuesday in the 1000 block of Crestwood Street in Jacksonville’s North Shore neighborhood when he was approached by four people armed with guns. The incident occurred at about 11:40 p.m., according to a Ja…
 
 
-### OTHER on 2026-02-08 06:44
-- Location: The Times of India
-- Description: The National Council of Educational Research and Training has opened online applications for NCERT Recruitment 2026 to fill 117 academic posts across six campuses. The drive includes teaching and librarian roles, with selection based on interviews. Registrati…
+### ASSAULT on 2026-02-08 12:00
+- Location: CBC News
+- Description: The "con code," a set of unwritten rules among inmates, could be behind attacks behind bars. But advocates say Canadian courts have been reluctant to take the situation seriously.
 
 
-### HOMICIDE on 2026-02-08 05:55
-- Location: The Times of India
-- Description: A court in Muzaffarnagar has acquitted 22 individuals in a murder, loot, and arson case stemming from the 2013 riots. The judge cited a lack of evidence, stating the prosecution failed to prove charges beyond reasonable doubt. The case involved an attack on M…
+### ROBBERY/THEFT on 2026-02-08 11:59
+- Location: Dineshkhabar.com
+- Description: Kathmandu: Police have arrested three individuals in connection with a theft at the residence of senior National Independent Party (NISP) leader Balen Shah.
 
-Analysis generated at: Mon Feb  9 06:58:54 UTC 2026
+The arrested include Manish Rajbahak, 42, of Balaju Height, Kathmandu Metropolitan City-16, currentl…
+
+Analysis generated at: Mon Feb  9 12:57:11 UTC 2026
