@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Feb 10 02:50:03 UTC 2026
+Last updated: Tue Feb 10 06:58:35 UTC 2026
 
 ## Latest Analysis
 
-Loaded 87936 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-09 02:49:02
+Loaded 87958 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-09 06:55:00
 
 Incidents by source:
 source
-newsapi           87835
+newsapi           87857
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-02-09 02:49
-- Location: Littlegreenfootballs.com
-- Description: With everything going on in Minneapolis and around the country, it is stunning to note the similarities to the Orangeburg Massacre, which took place February 8, 1968. A quick recap: more here littlegreenfootballs.com and here littlegreenfootballs.com Students…
+### OTHER on 2026-02-09 06:55
+- Location: The Star Online
+- Description: KOTA KINABALU: Online scams, non-existent investment schemes and fake part time job opportunities are the most common commercial crime cases recorded throughout 2025 in Sabah. Read full story
 
 
-### HOMICIDE on 2026-02-09 02:36
-- Location: The Times of India
-- Description: Israel's President Isaac Herzog said Monday people of all faiths will "overcome this evil" as he laid a wreath to commemorate victims of a shooting that killed 15 people at a Jewish festival on Sydney's Bondi Beach. Herzog said he had laid two stones from Jer…
+### OTHER on 2026-02-09 06:49
+- Location: soompi
+- Description: 2025 was no short of mystery and suspense dramas! For K-drama fans who want to binge-watch popular releases from last year, we’ve put together masterlists of 2025 K-dramas organized by genre. If you’re in the mood for thrilling mysteries and suspenseful drama…
 
 
-### HOMICIDE on 2026-02-09 02:27
-- Location: Rpnradio.com
-- Description: Bacolod City – The Police Regional Office – Negros Island Region (PRO-NIR) reported a significant decline of 42 percent in murder cases across the region for January this year, compared to December last year, which it attributed to intensified crime preventio…
+### OTHER on 2026-02-09 06:44
+- Location: Lifesciencesworld.com
+- Description: Is the Dingo Ate My Baby Based on a True Story? Exploring the Lindy Chamberlain Case The phrase “Is the dingo ate my baby based on a true story?” is tragically rooted in the real-life disappearance of Azaria Chamberlain. While the initial conviction of Lindy …
 
 
-### OTHER on 2026-02-09 02:15
-- Location: ABC News
-- Description: Music superstar Bad Bunny making history and what he is saying about the halftime show.
+### HOMICIDE on 2026-02-09 06:18
+- Location: New York Post
+- Description: Israel President Isaac Herzog started a state visit Monday aimed at consoling grieving Australian Jews and improving bilateral relations by laying a wreath and stones at the site of an antisemitic attack in Sydney that left 15 dead.
 
 
-### OTHER on 2026-02-09 02:14
-- Location: ABC News
-- Description: Heartbreak at the Winter Games, as legendary skier Lindsey Vonn's dream of making the podium ends in a scary crash.
+### OTHER on 2026-02-09 06:16
+- Location: ABC News (AU)
+- Description: Sam says his ancestors arrived to the US on the Mayflower. He now fears his wife and daughter could be arrested at any point by ICE agents. 7.30 goes inside their home.
 
-Analysis generated at: Tue Feb 10 02:50:03 UTC 2026
+Analysis generated at: Tue Feb 10 06:58:35 UTC 2026
