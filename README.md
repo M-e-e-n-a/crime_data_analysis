@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Feb 10 06:58:35 UTC 2026
+Last updated: Tue Feb 10 13:00:09 UTC 2026
 
 ## Latest Analysis
 
-Loaded 87958 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-09 06:55:00
+Loaded 88027 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-09 12:59:35
 
 Incidents by source:
 source
-newsapi           87857
+newsapi           87926
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-02-09 06:55
-- Location: The Star Online
-- Description: KOTA KINABALU: Online scams, non-existent investment schemes and fake part time job opportunities are the most common commercial crime cases recorded throughout 2025 in Sabah. Read full story
+### OTHER on 2026-02-09 12:59
+- Location: TheJournal.ie
+- Description: The investigation witnesses stated they believed the Ireland–UK common travel area was used to bring the women to the Republic via Belfast to avoid immigration points.
 
 
-### OTHER on 2026-02-09 06:49
-- Location: soompi
-- Description: 2025 was no short of mystery and suspense dramas! For K-drama fans who want to binge-watch popular releases from last year, we’ve put together masterlists of 2025 K-dramas organized by genre. If you’re in the mood for thrilling mysteries and suspenseful drama…
+### OTHER on 2026-02-09 12:56
+- Location: TVInsider
+- Description: Officers were seen opening a manhole cover behind Savannah Guthrie mom's home.
 
 
-### OTHER on 2026-02-09 06:44
-- Location: Lifesciencesworld.com
-- Description: Is the Dingo Ate My Baby Based on a True Story? Exploring the Lindy Chamberlain Case The phrase “Is the dingo ate my baby based on a true story?” is tragically rooted in the real-life disappearance of Azaria Chamberlain. While the initial conviction of Lindy …
+### OTHER on 2026-02-09 12:54
+- Location: ABC News
+- Description: The star brought his native Puerto Rico to world stage by turning the Apple Music Super Bowl Halftime Show into a celebration of his roots and a multicultural America and into one big party.
 
 
-### HOMICIDE on 2026-02-09 06:18
-- Location: New York Post
-- Description: Israel President Isaac Herzog started a state visit Monday aimed at consoling grieving Australian Jews and improving bilateral relations by laying a wreath and stones at the site of an antisemitic attack in Sydney that left 15 dead.
+### OTHER on 2026-02-09 12:53
+- Location: ABC News
+- Description: The images of masked federal officers has become a flashpoint in the Trump administration’s immigration enforcement operations
 
 
-### OTHER on 2026-02-09 06:16
-- Location: ABC News (AU)
-- Description: Sam says his ancestors arrived to the US on the Mayflower. He now fears his wife and daughter could be arrested at any point by ICE agents. 7.30 goes inside their home.
+### OTHER on 2026-02-09 12:50
+- Location: The Big Lead
+- Description: This past season saw the Indiana Hoosiers set the new high mark for a perfect season in college football, finishing an unblemished 16-0 with a conference championship and three CFP wins. This season in college basketball, we sit here on February 9th with two …
 
-Analysis generated at: Tue Feb 10 06:58:35 UTC 2026
+Analysis generated at: Tue Feb 10 13:00:09 UTC 2026
