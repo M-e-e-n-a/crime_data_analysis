@@ -1,10 +1,10 @@
 
-Loaded 88027 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-09 12:59:35
+Loaded 88032 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-09 13:21:32
 
 Incidents by source:
 source
-newsapi           87926
+newsapi           87931
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,31 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-02-09 12:59
-- Location: TheJournal.ie
-- Description: The investigation witnesses stated they believed the Ireland–UK common travel area was used to bring the women to the Republic via Belfast to avoid immigration points.
+### OTHER on 2026-02-09 13:21
+- Location: The Punch
+- Description: Police used pepper spray on protesters in Sydney during a rally against Israeli President Isaac Herzog’s visit, leading to violent clashes and arrests.
+
+Read More: https://punchng.com/sydney-protesters-police-clash-during-israeli-presidents-visit/
 
 
-### OTHER on 2026-02-09 12:56
-- Location: TVInsider
-- Description: Officers were seen opening a manhole cover behind Savannah Guthrie mom's home.
+### HOMICIDE on 2026-02-09 13:20
+- Location: RTE
+- Description: A 42-year-old man who admitted helping a criminal gang murder a rival gang member in Limerick 19 years ago has been jailed for 15 years.
 
 
-### OTHER on 2026-02-09 12:54
+### ASSAULT on 2026-02-09 13:14
+- Location: Democracy Now!
+- Description: We speak with Aliya Rahman, a U.S. citizen who was violently dragged from her car by federal immigration officers in Minneapolis last month and detained at the Whipple Federal Building, which has become the epicenter of the government’s immigration crackdown …
+
+
+### OTHER on 2026-02-09 13:09
 - Location: ABC News
-- Description: The star brought his native Puerto Rico to world stage by turning the Apple Music Super Bowl Halftime Show into a celebration of his roots and a multicultural America and into one big party.
+- Description: This year’s Super Bowl ads reached an estimated 130 million viewers and ad expert and “On Brand” podcast host Donny Deutsch weighs in on celebrity use and artificial intelligence.
 
 
-### OTHER on 2026-02-09 12:53
-- Location: ABC News
-- Description: The images of masked federal officers has become a flashpoint in the Trump administration’s immigration enforcement operations
+### SHOOTING on 2026-02-09 13:08
+- Location: PetaPixel
+- Description: A photographer covering anti-ICE protests in Los Angeles says he was shot by an officer with a less-lethal weapon and suffered a broken bone as a result.
+[Read More]
 
-
-### OTHER on 2026-02-09 12:50
-- Location: The Big Lead
-- Description: This past season saw the Indiana Hoosiers set the new high mark for a perfect season in college football, finishing an unblemished 16-0 with a conference championship and three CFP wins. This season in college basketball, we sit here on February 9th with two …
-
-Analysis generated at: Tue Feb 10 13:00:09 UTC 2026
+Analysis generated at: Tue Feb 10 13:25:44 UTC 2026
