@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Feb 11 02:47:03 UTC 2026
+Last updated: Wed Feb 11 06:55:41 UTC 2026
 
 ## Latest Analysis
 
-Loaded 88173 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-10 02:46:43
+Loaded 88213 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-10 06:49:10
 
 Incidents by source:
 source
-newsapi           88072
+newsapi           88112
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-02-10 02:46
-- Location: Fox News
-- Description: 49ers defensive end Keion White was shot in the ankle during a San Francisco altercation, with the team saying he underwent surgery to repair his injury.
+### HOMICIDE on 2026-02-10 06:49
+- Location: BBC News
+- Description: Officers say advances in DNA tests helped link serial killer Steve Wright to Victoria Hall's murder.
 
 
-### SHOOTING on 2026-02-10 02:41
+### SHOOTING on 2026-02-10 06:25
+- Location: KGO-TV
+- Description: San Francisco police say it happened on Mission Street near 14th, after an alleged altercation between two groups. They don't believe White was involved -- but he was shot in the crossfire.
+
+
+### HOMICIDE on 2026-02-10 06:16
 - Location: ABC News (AU)
-- Description: A raft of new gun laws in response to the Wieambilla shooting falls short of mandatory mental health checks for gun licence applicants.
+- Description: New details have emerged about the murder of Canberra woman Tiffany Spence, as court documents show her partner staged the scene before calling Triple Zero.
 
 
-### HOMICIDE on 2026-02-10 02:38
-- Location: Rpnradio.com
-- Description: BACOLOD CITY – The National Task Force to End Local Communist Armed Conflict (NTF-ELCAC) on Saturday denounced the killing of Leonora “Leonor” Anguit, a 74-year-old grandmother, by the New People’s Army, calling the crime a clear case of “spy-tagging” turned …
+### OTHER on 2026-02-10 06:05
+- Location: Breaking NEWS in KENYA for Today Right Now & Kenyan News | TUKO
+- Description: Four suspects arrested for impersonating Uganda’s First Daughter Natasha Karugire on social media, using fake accounts to scam victims seeking financial help.
 
 
-### OTHER on 2026-02-10 02:22
-- Location: ABC News (AU)
-- Description: Powerful socialite Ghislaine Maxwell was able to exploit her connections to recruit, groom, and abuse dozens of young girls. Now, she faces a fresh interrogation over her role in Jeffrey Epstein's abuse.
+### SHOOTING on 2026-02-10 06:03
+- Location: Lifesciencesworld.com
+- Description: Can I Carry a Gun in a National Forest in California?: A Comprehensive Guide Yes, generally you can carry a gun in a national forest in California, but it’s crucial to understand the specific laws and regulations, including restrictions on types of firearms a…
 
-
-### OTHER on 2026-02-10 02:20
-- Location: New Zealand Herald
-- Description: The group had been funded to last until September this year.
-
-Analysis generated at: Wed Feb 11 02:47:03 UTC 2026
+Analysis generated at: Wed Feb 11 06:55:41 UTC 2026
