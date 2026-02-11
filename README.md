@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Feb 11 06:55:41 UTC 2026
+Last updated: Wed Feb 11 12:56:43 UTC 2026
 
 ## Latest Analysis
 
-Loaded 88213 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-10 06:49:10
+Loaded 88306 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-10 12:53:47
 
 Incidents by source:
 source
-newsapi           88112
+newsapi           88205
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-02-10 06:49
-- Location: BBC News
-- Description: Officers say advances in DNA tests helped link serial killer Steve Wright to Victoria Hall's murder.
+### HOMICIDE on 2026-02-10 12:53
+- Location: ABC News
+- Description: The heads of agencies enforcing President Donald Trump's immigration agenda are set to testify before Congress
 
 
-### SHOOTING on 2026-02-10 06:25
-- Location: KGO-TV
-- Description: San Francisco police say it happened on Mission Street near 14th, after an alleged altercation between two groups. They don't believe White was involved -- but he was shot in the crossfire.
+### OTHER on 2026-02-10 12:50
+- Location: Jezebel
+- Description: Seamus Culleton has a valid work permit and was about to receive his green card before ICE imprisoned him for five months.
 
 
-### HOMICIDE on 2026-02-10 06:16
-- Location: ABC News (AU)
-- Description: New details have emerged about the murder of Canberra woman Tiffany Spence, as court documents show her partner staged the scene before calling Triple Zero.
+### OTHER on 2026-02-10 12:43
+- Location: Onefootball.com
+- Description: The world of Ecuadorian football has been shaken this Tuesday following the confirmation of the arrest of Antonio Álvarez, current president of Barcelona SC.The arrest took place in the early hours a...
 
 
-### OTHER on 2026-02-10 06:05
-- Location: Breaking NEWS in KENYA for Today Right Now & Kenyan News | TUKO
-- Description: Four suspects arrested for impersonating Uganda’s First Daughter Natasha Karugire on social media, using fake accounts to scam victims seeking financial help.
+### HOMICIDE on 2026-02-10 12:40
+- Location: The Big Lead
+- Description: The trade deadline was Thursday, February 5th, and many players made the move to new destinations. Certain teams tried to solidify their rosters for the playoffs, while others did complete teardowns in return for future draft assets. With the trade deadline i…
 
 
-### SHOOTING on 2026-02-10 06:03
-- Location: Lifesciencesworld.com
-- Description: Can I Carry a Gun in a National Forest in California?: A Comprehensive Guide Yes, generally you can carry a gun in a national forest in California, but it’s crucial to understand the specific laws and regulations, including restrictions on types of firearms a…
+### HOMICIDE on 2026-02-10 12:36
+- Location: Boston Herald
+- Description: The administration's mass deportation strategy faces growing criticism and declining public support.
 
-Analysis generated at: Wed Feb 11 06:55:41 UTC 2026
+Analysis generated at: Wed Feb 11 12:56:43 UTC 2026
