@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Feb 10 18:59:31 UTC 2026
+Last updated: Wed Feb 11 01:52:26 UTC 2026
 
 ## Latest Analysis
 
-Loaded 88128 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-09 18:57:56
+Loaded 88162 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-10 01:47:33
 
 Incidents by source:
 source
-newsapi           88027
+newsapi           88061
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-02-09 18:57
-- Location: Breitbart News
-- Description: President Donald Trump's officials have dramatically expanded the deportation of migrants who do not have criminal convictions, according to a critical report by CBS.
-The post CBS Complains Non-Violent Migrants Are Being Deported appeared first on Breitbart.
+### SHOOTING on 2026-02-10 01:47
+- Location: San Francisco Chronicle
+- Description: The city police department is investigating. The source said White was considered a victim in the shooting, which happened during an altercation at about 4 a.m.
 
 
-### HOMICIDE on 2026-02-09 18:53
+### OTHER on 2026-02-10 01:31
 - Location: The Times of India
-- Description: Terror accused Abdul Rehman was murdered in Neemla Jail by another inmate, Arun Chaudhary. Rehman was lodged for alleged involvement in an Ayodhya explosion conspiracy. The incident occurred during a brawl. Chaudhary, who has a history of serious charges, all…
+- Description: A husband successfully claimed Rs 42.92 lakh from his insurer after his wife's Rs 18 lakh gold jewellery was lost from his scooter. The insurance company initially rejected the claim, citing lack of logic and care. However, after a 12-year legal battle, the c…
 
 
-### OTHER on 2026-02-09 18:51
-- Location: ABC News (AU)
-- Description: Victoria Police says a man turned himself in after allegedly running over a man and stabbing a woman near Swan Hill on Monday night.
+### OTHER on 2026-02-10 01:27
+- Location: NBCSports.com
+- Description: More details have emerged regarding the recent arrest of Falcons linebacker James Pearce Jr., who has professed innocence through his lawyer.
 
 
-### OTHER on 2026-02-09 18:50
-- Location: ABC News
-- Description: Officials at the Olympics say they’re giving “maximum attention” to reports that medals are snapping off of their ribbons just hours after they are awarded to athletes.
+### SHOOTING on 2026-02-10 01:27
+- Location: CBS Sports
+- Description: Police do not believe White was involved in the altercation that led to him being injured
 
 
-### HOMICIDE on 2026-02-09 18:44
-- Location: New York Post
-- Description: While being interrogated by the police, Coonnor Hilton claimed a popular prescription drug for acne was to blame for shooting two of his friends.
+### SHOOTING on 2026-02-10 01:26
+- Location: Sporting News
+- Description: Here are the latest updates for San Francisco DE Keion White, who is recovering from non-life-threatening injuries from a shooting.
 
-Analysis generated at: Tue Feb 10 18:59:31 UTC 2026
+Analysis generated at: Wed Feb 11 01:52:26 UTC 2026
