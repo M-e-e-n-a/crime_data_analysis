@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Feb 11 13:22:05 UTC 2026
+Last updated: Wed Feb 11 18:55:55 UTC 2026
 
 ## Latest Analysis
 
-Loaded 88313 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-10 13:09:33
+Loaded 88411 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-10 18:55:35
 
 Incidents by source:
 source
-newsapi           88212
+newsapi           88310
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-02-10 13:09
-- Location: RTE
-- Description: An American man who killed his father at the five-star Ballyfin Demesne hotel during a psychotic episode told gardaí that he told his father he would always love him as he took his last breath.
+### HOMICIDE on 2026-02-10 18:55
+- Location: The Times of India
+- Description: A MCOCA court in Mumbai has framed charges against 27 individuals in the murder of former minister Baba Siddique. This development allows the trial to begin. The accused face charges under MCOCA, Bharatiya Nyaya Sanhita, Arms Act, and Bombay Police Act. The p…
 
 
-### OTHER on 2026-02-10 13:02
-- Location: The New Yorker
-- Description: The first feature by Hasan Hadi, set in 1990, depicts the agonies of war and dictatorship as experienced by a schoolgirl in the course of a high-stakes day, Richard Brody writes.
+### HOMICIDE on 2026-02-10 18:53
+- Location: The Times of India
+- Description: The Karnataka High Court has rejected anticipatory bail for BJP legislator BA Basavaraja. This decision comes in a case related to the murder of Shivaprakash, also known as Bikla Shiva. The court's order cancels previous interim protection from arrest. Basava…
 
 
-### OTHER on 2026-02-10 13:01
-- Location: New York Post
-- Description: A former FBI agent confessed he was stunned by how dark and remote the neighborhood around Nancy Guthrie’s home is when he arrived on the scene — and said that it was likely hampering the investigation. “What I was immediately struck by was this — the darknes…
+### HOMICIDE on 2026-02-10 18:48
+- Location: TheJournal.ie
+- Description: Today’s arrest marks the second in the case as investigations continue.
 
 
-### OTHER on 2026-02-10 13:00
-- Location: The Denver Post
-- Description: "In our rush to make our community safe, we're not getting the full picture of the risks we're facing," Thornton resident Steve Mathias said.
+### OTHER on 2026-02-10 18:46
+- Location: Fox News
+- Description: ICE acting director commits to releasing body camera footage from Minnesota operations, promising "full transparency" following recent fatal encounters.
 
 
-### OTHER on 2026-02-10 13:00
-- Location: The Denver Post
-- Description: Tom Zaidan wants to open a venue called Beta X at 1909 Blake St. in downtown Denver.
+### SHOOTING on 2026-02-10 18:43
+- Location: XXLMAG.COM
+- Description: No arrests have been made. Continue reading…
 
-Analysis generated at: Wed Feb 11 13:22:05 UTC 2026
+Analysis generated at: Wed Feb 11 18:55:55 UTC 2026
