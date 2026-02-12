@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Feb 12 02:42:20 UTC 2026
+Last updated: Thu Feb 12 06:55:25 UTC 2026
 
 ## Latest Analysis
 
-Loaded 88453 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-11 02:41:39
+Loaded 88513 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-11 06:55:13
 
 Incidents by source:
 source
-newsapi           88352
+newsapi           88412
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-02-11 02:41
-- Location: Al Jazeera English
-- Description: The shooting occurred at a high school in Tumbler Ridge, in Canada's province of British Columbia, police said.
+### HOMICIDE on 2026-02-11 06:55
+- Location: TheJournal.ie
+- Description: Canadian media has reported that the shooter was female, but no official details about their identity have been released.
 
 
-### OTHER on 2026-02-11 02:38
-- Location: Variety
-- Description: The Pima County Sheriff’s Department, in collaboration with the FBI, has detained a person for questioning in connection with the disappearance of “Today” host Savannah Guthrie’s 84-year-old mother, Nancy Guthrie, according to ABC News. Authorities told ABC t…
+### HOMICIDE on 2026-02-11 06:50
+- Location: Gossiplankanews.com
+- Description: Police in Canada confirm that a series of shootings targeting a school and a house in Western Canada has resulted in the deaths of 10 people and injuries to 25 others. Seven people sustained fatal injuries and died in the shooting at Tumbler Ridge Secondary S…
 
 
-### ROBBERY/THEFT on 2026-02-11 02:38
-- Location: The Star Online
-- Description: KUALA LUMPUR: Malaysia has sought the help of Chinese authorities to obtain a "Serious Offence Certificate" in the investigation of fugitive Malaysian businessman Tedy Teow and his MBI Group ponzi scheme network, says Datuk Seri Saifuddin Nasution Ismail. Rea…
-
-
-### HOMICIDE on 2026-02-11 02:34
+### HOMICIDE on 2026-02-11 06:42
 - Location: ABC News (AU)
-- Description: A school shooting in British Columbia has left eight people dead, including a shooter, and dozens injured, Canadian police say.
+- Description: Police confirmed the suspect was a woman but have yet to identify the victims of the mass shooting that left 10 people, including the alleged shooter, dead in the rural town.
 
 
-### HOMICIDE on 2026-02-11 02:33
-- Location: BBC News
-- Description: Police say the dead include an adult female educator, three female students, two male students, plus the suspect's mother and step-brother.
+### HOMICIDE on 2026-02-11 06:38
+- Location: Breaking NEWS in KENYA for Today Right Now & Kenyan News | TUKO
+- Description: Forensic evidence takes centre stage in John Matara's high-profile murder trial of socialite Starlet Wahu, raising questions of third-party involvement.
 
-Analysis generated at: Thu Feb 12 02:42:20 UTC 2026
+
+### HOMICIDE on 2026-02-11 06:30
+- Location: Newser
+- Description: In a remote British Columbia town of about 2,400 people, police are working to determine what happened in the mass shooting that left nine dead, plus the suspect, Tuesday . RCMP described the suspect as a "female in a dress with brown hair," CTV News reports.…
+
+Analysis generated at: Thu Feb 12 06:55:25 UTC 2026
