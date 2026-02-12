@@ -1,10 +1,10 @@
 
-Loaded 88411 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-10 18:55:35
+Loaded 88437 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-11 01:43:24
 
 Incidents by source:
 source
-newsapi           88310
+newsapi           88336
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-02-10 18:55
+### OTHER on 2026-02-11 01:43
 - Location: The Times of India
-- Description: A MCOCA court in Mumbai has framed charges against 27 individuals in the murder of former minister Baba Siddique. This development allows the trial to begin. The accused face charges under MCOCA, Bharatiya Nyaya Sanhita, Arms Act, and Bombay Police Act. The p…
+- Description: Actor Ranveer Singh faces a security threat from the Lawrence Bishnoi gang. This has led to enhanced security at his Mumbai home. The presence of armed guards has caused concern among other residents. Singh is preparing for the sequel to his blockbuster film …
 
 
-### HOMICIDE on 2026-02-10 18:53
-- Location: The Times of India
-- Description: The Karnataka High Court has rejected anticipatory bail for BJP legislator BA Basavaraja. This decision comes in a case related to the murder of Shivaprakash, also known as Bikla Shiva. The court's order cancels previous interim protection from arrest. Basava…
+### HOMICIDE on 2026-02-11 01:40
+- Location: The Denver Post
+- Description: TUMBLER RIDGE, British Columbia (AP) — Canadian police said eight people were killed in a school shooting on Tuesday in British Columbia, including a shooter, and dozens more were injured. The Royal Canadian Mounted Police said a suspect has been found dead w…
 
 
-### HOMICIDE on 2026-02-10 18:48
-- Location: TheJournal.ie
-- Description: Today’s arrest marks the second in the case as investigations continue.
+### HOMICIDE on 2026-02-11 01:40
+- Location: The Denver Post
+- Description: TUMBLER RIDGE, British Columbia (AP) — Canadian police said eight people were killed in a school shooting on Tuesday in British Columbia, including a shooter, and dozens more were injured. The Royal Canadian Mounted Police said a suspect has been found dead w…
 
 
-### OTHER on 2026-02-10 18:46
-- Location: Fox News
-- Description: ICE acting director commits to releasing body camera footage from Minnesota operations, promising "full transparency" following recent fatal encounters.
+### HOMICIDE on 2026-02-11 01:40
+- Location: The Denver Post
+- Description: TUMBLER RIDGE, British Columbia (AP) — Canadian police said eight people were killed in a school shooting on Tuesday in British Columbia, including a shooter, and dozens more were injured. The Royal Canadian Mounted Police said a suspect has been found dead w…
 
 
-### SHOOTING on 2026-02-10 18:43
-- Location: XXLMAG.COM
-- Description: No arrests have been made. Continue reading…
+### HOMICIDE on 2026-02-11 01:40
+- Location: The Denver Post
+- Description: TUMBLER RIDGE, British Columbia (AP) — Canadian police said eight people were killed in a school shooting on Tuesday in British Columbia, including a shooter, and dozens more were injured. The Royal Canadian Mounted Police said a suspect has been found dead w…
 
-Analysis generated at: Wed Feb 11 18:55:55 UTC 2026
+Analysis generated at: Thu Feb 12 01:45:42 UTC 2026
