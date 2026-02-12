@@ -1,10 +1,10 @@
 
-Loaded 88606 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-11 12:51:41
+Loaded 88617 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-11 13:17:19
 
 Incidents by source:
 source
-newsapi           88505
+newsapi           88516
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-02-11 12:51
-- Location: Rlsbb.to
-- Description: Note: In RUSSIAN With English SRT Subtitles (HERE). Two friends, Yuri and Sergey, are police officers, only the first serves in the homicide department, and the second fights corruption. Yuri's wife is ill, and for the sake of saving her life, a man goes for …
+### HOMICIDE on 2026-02-11 13:17
+- Location: CBC News
+- Description: Police say nine people were killed and at least 25 more were injured after a mass shooting in the community of Tumbler Ridge, B.C., on Tuesday. Here's what we know so far about one of Canada's deadliest school shootings.
 
 
-### ROBBERY/THEFT on 2026-02-11 12:51
-- Location: The Conversation Africa
-- Description: The Ontario probe into police corruption allows police forces to safeguard their institutional image.
+### OTHER on 2026-02-11 13:15
+- Location: Freerepublic.com
+- Description: Here are some facts: 1. A small number of people commit a wildly disproportionate amount of crime, about 1% commit most crime and 3 to 5 percent commit ALL crime. 2. Offenders who commit major crimes also commit constant public order infractions, so policing …
 
 
-### HOMICIDE on 2026-02-11 12:49
-- Location: Thepinknews.com
-- Description: The mother of murdered transgender teenager Brianna Ghey has shared a heartfelt message on the third anniversary of her daughter’s death. “Tomorrow marks 3 years without you, Brianna,” her mum, Esther, wrote in a message shared on social media on Tuesday (10 …
+### OTHER on 2026-02-11 13:15
+- Location: Freerepublic.com
+- Description: Here are some facts: 1. A small number of people commit a wildly disproportionate amount of crime, about 1% commit most crime and 3 to 5 percent commit ALL crime. 2. Offenders who commit major crimes also commit constant public order infractions, so policing …
 
 
-### HOMICIDE on 2026-02-11 12:46
-- Location: Al Jazeera English
-- Description: A significant part of Iranian society is infuriated and grieving the killings of thousands during recent protests.
+### HOMICIDE on 2026-02-11 13:14
+- Location: WSOC Charlotte
+- Description: The suspected shooter also died from a self-inflicted wound, police said. The shooting is the second-deadliest in Canadian history.
 
 
-### OTHER on 2026-02-11 12:42
-- Location: The Times of India
-- Description: Formula 1's 2026 season preparations commenced in Bahrain with crucial pre-season testing. Teams are evaluating significantly revised cars featuring a shorter, narrower, and lighter design with aerodynamic overhauls and a new "overtake" button. Power units no…
+### HOMICIDE on 2026-02-11 13:14
+- Location: WFTV Orlando
+- Description: The suspected shooter also died from a self-inflicted wound, police said. The shooting is the second-deadliest in Canadian history.
 
-Analysis generated at: Thu Feb 12 12:54:43 UTC 2026
+Analysis generated at: Thu Feb 12 13:20:13 UTC 2026
