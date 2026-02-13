@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Feb 13 06:54:11 UTC 2026
+Last updated: Fri Feb 13 12:44:36 UTC 2026
 
 ## Latest Analysis
 
-Loaded 88824 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-12 06:52:33
+Loaded 88905 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-12 12:43:45
 
 Incidents by source:
 source
-newsapi           88723
+newsapi           88804
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,30 +24,33 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-02-12 06:52
-- Location: The Times of India
-- Description: Suraksha Smart City in Vasai is poised to make waves in the Mumbai Metropolitan Region with the launch of 5,868 budget-friendly homes this year as part of the PMAY scheme. Leveraging cutting-edge precast technology, these 1 BHK residences come at ₹22.5 lakh, …
+### OTHER on 2026-02-12 12:43
+- Location: NBC News
+- Description: In today’s newsletter: Venezuela’s acting president tells NBC News that Nicolás Maduro is the country’s legitimate leader.
 
 
-### OTHER on 2026-02-12 06:48
-- Location: The Star Online
-- Description: JOHOR BARU: A total of 12 people, including a woman and an underage boy, have been charged in court here with being members of two separate organised crime groups. Read full story
+### HOMICIDE on 2026-02-12 12:30
+- Location: Gothamist
+- Description: NYPD barricades outside the 73rd precinct on March 4, 2023.
+ 
+
+The shooting happened at a busy intersection in Kingsbridge in the late afternoon. [ more › ]
 
 
-### OTHER on 2026-02-12 06:37
+### OTHER on 2026-02-12 12:27
 - Location: The Punch
-- Description: Get your Nigerian morning recap. Top stories include the debate on US sanctions, major Lagos crime cases, cybercrime convictions, and a new NAHCON chair.
+- Description: A woman in Lagos went missing after visiting a male friend. Her family disputes the suspect’s claims and urges the police to find answers for justice.
 
-Read More: https://punchng.com/2062327-2/
-
-
-### HOMICIDE on 2026-02-12 06:33
-- Location: The Star Online
-- Description: PETALING JAYA: A domestic dispute turned deadly when a man allegedly stabbed his wife to death before taking his own life in a double tragedy at a house in Kepong on Wednesday (Feb 11). Read full story
+Read More: https://punchng.com/my-sister-went-missing-after-visiting-male-friend-at-hotel-lagos-woman/
 
 
-### OTHER on 2026-02-12 06:31
-- Location: Japan Today
-- Description: Antisemitism in Australia is &quot;frightening&quot; but most people want good relations, Israel's President Isaac Herzog said on Thursday as he wrapped up a four-day visit and was met by protests in the city of Melbourne. Herzog's tightly policed visit to Au…
+### OTHER on 2026-02-12 12:21
+- Location: LADbible
+- Description: A US lawmaker identified the woman laid under Andrew Mountbatten-Windsor in latest Epstein file docs as a victim of sex trafficking during fiery hearing.
 
-Analysis generated at: Fri Feb 13 06:54:11 UTC 2026
+
+### OTHER on 2026-02-12 12:18
+- Location: Fox News
+- Description: The Trump DHS is clapping back at New Jersey Gov. Mikie Sherrill after she pledged to help members of the public track ICE officers through an online portal.
+
+Analysis generated at: Fri Feb 13 12:44:36 UTC 2026
