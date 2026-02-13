@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Feb 13 02:43:16 UTC 2026
+Last updated: Fri Feb 13 06:54:11 UTC 2026
 
 ## Latest Analysis
 
-Loaded 88765 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-12 02:42:06
+Loaded 88824 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-12 06:52:33
 
 Incidents by source:
 source
-newsapi           88664
+newsapi           88723
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,30 +24,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-02-12 02:42
+### OTHER on 2026-02-12 06:52
 - Location: The Times of India
-- Description: BENGALURU: Department of school education and literacy Wednesday said schools in Karnataka would function normally Thursday and would not be affected .
+- Description: Suraksha Smart City in Vasai is poised to make waves in the Mumbai Metropolitan Region with the launch of 5,868 budget-friendly homes this year as part of the PMAY scheme. Leveraging cutting-edge precast technology, these 1 BHK residences come at ₹22.5 lakh, …
 
 
-### ROBBERY/THEFT on 2026-02-12 02:39
-- Location: Starweekly.com.au
-- Description: A Mernda man is one of three men who were arrested during a police investigation into organised crime linked to the construction industry. The 55-year old Mernda man was arrested on 12 February, during search warrants in Mernda, Eltham and Watsonia. Police al…
+### OTHER on 2026-02-12 06:48
+- Location: The Star Online
+- Description: JOHOR BARU: A total of 12 people, including a woman and an underage boy, have been charged in court here with being members of two separate organised crime groups. Read full story
 
 
-### OTHER on 2026-02-12 02:37
+### OTHER on 2026-02-12 06:37
 - Location: The Punch
-- Description: NAPTIP rescues 23 young Nigerians trafficked to Thailand and forced into cybercrime activities, including romance scams and cryptocurrency fraud.
+- Description: Get your Nigerian morning recap. Top stories include the debate on US sanctions, major Lagos crime cases, cybercrime convictions, and a new NAHCON chair.
 
-Read More: https://punchng.com/naptip-rescues-23-nigerians-trafficked-to-thailand-for-cybercrimes/
-
-
-### OTHER on 2026-02-12 02:35
-- Location: The Verge
-- Description: Minneapolis was not the war zone I expected to find. Depending on who you are and where you live, things can seem, for a few fleeting moments, almost normal, like a few blocks or neighborhoods over people aren't being tear gassed or rounded up by ICE or, in t…
+Read More: https://punchng.com/2062327-2/
 
 
-### HOMICIDE on 2026-02-12 02:32
-- Location: CBS News
-- Description: Six people in Sarasota and Fort Lauderdale, Florida, are dead in what police say is a cross-state murder spree by the same suspect Wednesday morning. The suspect was also found dead, authorities said.
+### HOMICIDE on 2026-02-12 06:33
+- Location: The Star Online
+- Description: PETALING JAYA: A domestic dispute turned deadly when a man allegedly stabbed his wife to death before taking his own life in a double tragedy at a house in Kepong on Wednesday (Feb 11). Read full story
 
-Analysis generated at: Fri Feb 13 02:43:16 UTC 2026
+
+### OTHER on 2026-02-12 06:31
+- Location: Japan Today
+- Description: Antisemitism in Australia is &quot;frightening&quot; but most people want good relations, Israel's President Isaac Herzog said on Thursday as he wrapped up a four-day visit and was met by protests in the city of Melbourne. Herzog's tightly policed visit to Au…
+
+Analysis generated at: Fri Feb 13 06:54:11 UTC 2026
