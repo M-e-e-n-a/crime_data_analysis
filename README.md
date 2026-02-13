@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Feb 12 18:56:07 UTC 2026
+Last updated: Fri Feb 13 01:48:12 UTC 2026
 
 ## Latest Analysis
 
-Loaded 88711 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-11 18:55:41
+Loaded 88742 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-12 01:47:15
 
 Incidents by source:
 source
-newsapi           88610
+newsapi           88641
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,34 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-02-11 18:55
-- Location: WPXI Pittsburgh
-- Description: Pennsylvania State Police are offering a $2,000 reward for information that leads to the arrest of a shooting suspect.
+### HOMICIDE on 2026-02-12 01:47
+- Location: Fox News
+- Description: Former Jets and Bills linebacker Darron Lee remains jailed after prosecutors cited factors that could make the case of his girlfriend's homicide eligible for the death penalty.
 
 
-### HOMICIDE on 2026-02-11 18:53
-- Location: New York Post
-- Description: The identity of the deranged shooter who killed nine people in British Columbia including six victims at a local high school, has been confirmed as Jesse Strang, an 18-year-old biological male who identified as transgender.
+### OTHER on 2026-02-12 01:43
+- Location: The Times of India
+- Description: This weekend’s OTT lineup brings a mix of crime, family drama, reality romance, horror, and music. From the intense mystery of Kohrra Season 2 to the emotional twists of Love Is Blind 10 and the spooky finale of The Conjuring: Last Rites, there’s something fo…
 
 
-### ASSAULT on 2026-02-11 18:45
-- Location: Radaronline.com
-- Description: Melanie Hamrick was leaving a club in London's upscale Mayfair section when she was physically grabbed from behind and attacked.
+### HOMICIDE on 2026-02-12 01:41
+- Location: FRANCE 24 English
+- Description: A chaotic spiral of events, symptomatic of a surge in racist violence targeting Arab bus drivers in Israel, led to the death of a teenager, Khatib's arrest and calls for him to be charged with aggravated murder.
+
+His case is an extreme one, but it sheds light…
 
 
-### OTHER on 2026-02-11 18:43
-- Location: TechCrunch
-- Description: The former boss of the L3Harris-owned hacking and surveillance tools maker Trenchant faces nine years in prison for selling several exploits to a Russian broker, which counts the Russian government among its customers.
+### ASSAULT on 2026-02-12 01:40
+- Location: The Punch
+- Description: Ghanaian police arrest 12 Nigerians in a prostitution crackdown after a trafficked woman reported being assaulted for not meeting her daily earnings target
+
+Read More: https://punchng.com/12-nigerians-nabbed-in-ghana-prostitution-crackdown/
 
 
-### OTHER on 2026-02-11 18:43
-- Location: The Atlantic
-- Description: Lawmakers need to acknowledge these realities about immigration if they want to implement policy that is both popular and in the nation’s best interest.
+### OTHER on 2026-02-12 01:40
+- Location: The Punch
+- Description: A Gombe businessman abducted from his cattle ranch in Nafada LGA has been successfully rescued by a coordinated team of police, hunters, and vigilantes.
 
-Analysis generated at: Thu Feb 12 18:56:07 UTC 2026
+Read More: https://punchng.com/abducted-gombe-bizman-regains-freedom/
+
+Analysis generated at: Fri Feb 13 01:48:12 UTC 2026
