@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Feb 13 12:44:36 UTC 2026
+Last updated: Fri Feb 13 13:12:00 UTC 2026
 
 ## Latest Analysis
 
-Loaded 88905 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-12 12:43:45
+Loaded 88910 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-12 13:02:46
 
 Incidents by source:
 source
-newsapi           88804
+newsapi           88809
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,33 +24,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-02-12 12:43
-- Location: NBC News
-- Description: In today’s newsletter: Venezuela’s acting president tells NBC News that Nicolás Maduro is the country’s legitimate leader.
+### SHOOTING on 2026-02-12 13:02
+- Location: CNN
+- Description: The suspect in Canada’s Tumbler Ridge mass shooting posted about guns and hunting on her YouTube channel and appeared to have written about her struggles with mental health online, according to social media posts.
 
 
-### HOMICIDE on 2026-02-12 12:30
-- Location: Gothamist
-- Description: NYPD barricades outside the 73rd precinct on March 4, 2023.
- 
-
-The shooting happened at a busy intersection in Kingsbridge in the late afternoon. [ more › ]
+### OTHER on 2026-02-12 13:00
+- Location: Artsjournal.com
+- Description: Can we please stop glorifying nonprofit arts organizations that do not live up to their charitable responsibilities?
 
 
-### OTHER on 2026-02-12 12:27
-- Location: The Punch
-- Description: A woman in Lagos went missing after visiting a male friend. Her family disputes the suspect’s claims and urges the police to find answers for justice.
-
-Read More: https://punchng.com/my-sister-went-missing-after-visiting-male-friend-at-hotel-lagos-woman/
-
-
-### OTHER on 2026-02-12 12:21
-- Location: LADbible
-- Description: A US lawmaker identified the woman laid under Andrew Mountbatten-Windsor in latest Epstein file docs as a victim of sex trafficking during fiery hearing.
-
-
-### OTHER on 2026-02-12 12:18
+### OTHER on 2026-02-12 12:57
 - Location: Fox News
-- Description: The Trump DHS is clapping back at New Jersey Gov. Mikie Sherrill after she pledged to help members of the public track ICE officers through an online portal.
+- Description: Man accused of antisemitic hate crime released on $50,000 bail after allegedly stabbing Jewish victim in Brooklyn. Armani Charles pleaded not guilty.
 
-Analysis generated at: Fri Feb 13 12:44:36 UTC 2026
+
+### OTHER on 2026-02-12 12:55
+- Location: The Punch
+- Description: Adamawa Police have rescued two kidnapped victims in Song LGA after a raid on a hideout. One suspect was arrested, and the victims were recovered unhurt.
+
+Read More: https://punchng.com/police-rescue-two-kidnapped-victims-in-adamawa/
+
+
+### OTHER on 2026-02-12 12:45
+- Location: Whyevolutionistrue.com
+- Description: Welcome to Thursday, February 12, 2026, and it is, of course INTERNATIONAL DARWIN DAY, the day Charles Darwin was born in 1809 (he lived to be 73). It was Daniel Dennett who said that natural selection was “the single best idea anyone ever had” in Dennett’s b…
+
+Analysis generated at: Fri Feb 13 13:12:00 UTC 2026
