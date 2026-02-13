@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Feb 13 13:12:00 UTC 2026
+Last updated: Fri Feb 13 18:39:32 UTC 2026
 
 ## Latest Analysis
 
-Loaded 88910 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-12 13:02:46
+Loaded 89004 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-12 18:38:21
 
 Incidents by source:
 source
-newsapi           88809
+newsapi           88903
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,30 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-02-12 13:02
-- Location: CNN
-- Description: The suspect in Canada’s Tumbler Ridge mass shooting posted about guns and hunting on her YouTube channel and appeared to have written about her struggles with mental health online, according to social media posts.
+### HOMICIDE on 2026-02-12 18:38
+- Location: Boston Herald
+- Description: The remote Canadian community of Tumbler Ridge is mourning.
 
 
-### OTHER on 2026-02-12 13:00
-- Location: Artsjournal.com
-- Description: Can we please stop glorifying nonprofit arts organizations that do not live up to their charitable responsibilities?
+### ASSAULT on 2026-02-12 18:36
+- Location: Foreign Policy
+- Description: New restrictions try to shield ICE from being watched from above.
 
 
-### OTHER on 2026-02-12 12:57
-- Location: Fox News
-- Description: Man accused of antisemitic hate crime released on $50,000 bail after allegedly stabbing Jewish victim in Brooklyn. Armani Charles pleaded not guilty.
+### OTHER on 2026-02-12 18:32
+- Location: Milwaukee Journal Sentinel
+- Description: William Waterstradt, 21, faces 16 felonies for alleged sexual contact with a 13-year-old in Langlade County and a 15-year-old in Sheboygan County.
 
 
-### OTHER on 2026-02-12 12:55
-- Location: The Punch
-- Description: Adamawa Police have rescued two kidnapped victims in Song LGA after a raid on a hideout. One suspect was arrested, and the victims were recovered unhurt.
-
-Read More: https://punchng.com/police-rescue-two-kidnapped-victims-in-adamawa/
+### ASSAULT on 2026-02-12 18:31
+- Location: The Times of India
+- Description: Fear gripped Ramgarh's Saunda Basti after four armed assailants on motorcycles fired at two coal traders' homes. While no one was injured, police suspect the attack aimed to instill terror and demand money. A special investigation team has been formed to appr…
 
 
-### OTHER on 2026-02-12 12:45
-- Location: Whyevolutionistrue.com
-- Description: Welcome to Thursday, February 12, 2026, and it is, of course INTERNATIONAL DARWIN DAY, the day Charles Darwin was born in 1809 (he lived to be 73). It was Daniel Dennett who said that natural selection was “the single best idea anyone ever had” in Dennett’s b…
+### SHOOTING on 2026-02-12 18:30
+- Location: CBC News
+- Description: A 21-year-old man is in critical condition after a shooting in Winnipeg's West End on Wednesday.
 
-Analysis generated at: Fri Feb 13 13:12:00 UTC 2026
+Analysis generated at: Fri Feb 13 18:39:32 UTC 2026
