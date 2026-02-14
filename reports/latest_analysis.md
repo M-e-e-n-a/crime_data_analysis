@@ -1,10 +1,10 @@
 
-Loaded 89023 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-13 01:26:05
+Loaded 89031 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-13 02:19:37
 
 Incidents by source:
 source
-newsapi           88922
+newsapi           88930
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-02-13 01:26
-- Location: Variety
-- Description: The FBI announced on Thursday that it would increase the reward to $100,000 for information leading to the location of Nancy Guthrie or to the arrest and conviction of anyone involved in her disappearance. The agency also released new identifying details abou…
+### SHOOTING on 2026-02-13 02:19
+- Location: KOMO News
+- Description: Seattle police are investigating an officer-involved shooting in the Ballard neighborhood Thursday evening.
 
 
-### HOMICIDE on 2026-02-13 01:22
-- Location: Westernjournal.com
-- Description: Canadian Police Double Down on Respecting Trans Killer's Gender Identity, Will Use Preferred Pronounswesternjournal.com
+### HOMICIDE on 2026-02-13 02:19
+- Location: The Star Online
+- Description: KUCHING: A teenager is believed to have been murdered in an incident in a rented house in Lundu on Thursday (Feb 12) morning. Read full story
 
 
-### OTHER on 2026-02-13 01:20
-- Location: Newser
-- Description: European nations are moving toward holding its politicians accountable for revelations in the Jeffrey Epstein files. Prosecutors said Thursday that Thorbjørn Jagland, a former prime minister of Norway, has been charged with "gross corruption" over his dealing…
+### ASSAULT on 2026-02-13 02:08
+- Location: Israelnationalnews.com
+- Description: Jewish student from Yeshiva University assaulted by six to eight masked attackers near the campus in Manhattan. The attack comes amid a rise in antisemitic hate crimes in New York.
 
 
-### OTHER on 2026-02-13 01:17
+### OTHER on 2026-02-13 02:03
+- Location: Fox News
+- Description: DHS arrests illegal immigrant charged with rape after Oregon sanctuary policies allowed his release on bail after suspect was caught using a fake passport at airport.
+
+
+### OTHER on 2026-02-13 01:57
 - Location: Abcnews.com
-- Description: A Palestinian protester says “inhumane” conditions in a Texas immigration jail have harmed her health after nearly a year in detention, possibly contributing to a seizure she suffered last week
+- Description: New York politicians defiantly raised a rainbow flag at the Stonewall National Monument amid a boisterous, cheering crowd
 
-
-### OTHER on 2026-02-13 01:11
-- Location: ABC News (AU)
-- Description: Police have issued a call out for information after a homemade bomb exploded in south Canberra.
-
-Analysis generated at: Sat Feb 14 01:27:40 UTC 2026
+Analysis generated at: Sat Feb 14 02:30:11 UTC 2026
