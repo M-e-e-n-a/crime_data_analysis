@@ -1,10 +1,10 @@
 
-Loaded 89138 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-13 12:35:08
+Loaded 89147 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-13 13:00:17
 
 Incidents by source:
 source
-newsapi           89037
+newsapi           89046
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-02-13 12:35
+### OTHER on 2026-02-13 13:00
+- Location: HuffPost
+- Description: Contrary to Trump's claims, immigrants, even illegal ones, use fewer services and commit fewer crimes than native-born Americans, according to Cato Institute studies.
+
+
+### OTHER on 2026-02-13 13:00
+- Location: HuffPost
+- Description: After protecting Congress on Jan. 6 and as the Trump administration runs roughshod over democracy, he’s running for Congress — again — because, he told HuffPost, “We’re in regime territory.”
+
+
+### HOMICIDE on 2026-02-13 13:00
+- Location: Rolling Stone
+- Description: The murder of O’Jays member Frankie Little Jr. has been a cold case for more than 50 years. Now, a retired journalist believes he may have found the culprit
+
+
+### OTHER on 2026-02-13 12:55
 - Location: Celebitchy.com
-- Description: Amazon Ring aired a commercial during the Super Bowl that was supposed to be a feel-good story about how the collective power of their cameras can be used to find lost dogs. Instead, it revealed to a global audience that their home security system is being us…
+- Description: The Epstein Files have become such a rolling catastrophe for the Windsors, to the point where I doubt that any of the “Yorks” are going to come out unscathed. King Charles has attempted to cauterize the issue, blaming everything on Prince Andrew and Sarah Fer…
 
 
-### OTHER on 2026-02-13 12:30
-- Location: CNN
-- Description: Trust in government health agencies has plummeted, according to health policy and research group KFF, with declines across the political spectrum. And experts told CNN that they fear things could get worse.
+### OTHER on 2026-02-13 12:47
+- Location: HuffPost
+- Description: The Trump administration dismantled USAID and canceled most of its aid programs last year.
 
-
-### HOMICIDE on 2026-02-13 12:30
-- Location: Mother Jones
-- Description: From the moment I learned of “The Call,” an appeal to religious professionals across the country to come to Minneapolis to join with local clergy and bear witness against aggressive and now deadly ICE operations in that city, I knew that I had to go. Our miss…
-
-
-### OTHER on 2026-02-13 12:19
-- Location: NBC News
-- Description: In today’s newsletter: The Department of Homeland Security is poised to shut down as Congress recesses with no final funding deal.
-
-
-### OTHER on 2026-02-13 12:18
-- Location: BusinessLine
-- Description: Investigation revealed that foreign operators based in South-East Asian countries, including Vietnam, Myanmar, Cambodia, Laos, Thailand and Malaysia were routing internet-based VoIP calls to India through SIP softphones
-
-Analysis generated at: Sat Feb 14 12:35:18 UTC 2026
+Analysis generated at: Sat Feb 14 13:00:45 UTC 2026
