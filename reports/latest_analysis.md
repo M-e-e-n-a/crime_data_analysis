@@ -1,10 +1,10 @@
 
-Loaded 89004 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-12 18:38:21
+Loaded 89023 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-13 01:26:05
 
 Incidents by source:
 source
-newsapi           88903
+newsapi           88922
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-02-12 18:38
-- Location: Boston Herald
-- Description: The remote Canadian community of Tumbler Ridge is mourning.
+### OTHER on 2026-02-13 01:26
+- Location: Variety
+- Description: The FBI announced on Thursday that it would increase the reward to $100,000 for information leading to the location of Nancy Guthrie or to the arrest and conviction of anyone involved in her disappearance. The agency also released new identifying details abou…
 
 
-### ASSAULT on 2026-02-12 18:36
-- Location: Foreign Policy
-- Description: New restrictions try to shield ICE from being watched from above.
+### HOMICIDE on 2026-02-13 01:22
+- Location: Westernjournal.com
+- Description: Canadian Police Double Down on Respecting Trans Killer's Gender Identity, Will Use Preferred Pronounswesternjournal.com
 
 
-### OTHER on 2026-02-12 18:32
-- Location: Milwaukee Journal Sentinel
-- Description: William Waterstradt, 21, faces 16 felonies for alleged sexual contact with a 13-year-old in Langlade County and a 15-year-old in Sheboygan County.
+### OTHER on 2026-02-13 01:20
+- Location: Newser
+- Description: European nations are moving toward holding its politicians accountable for revelations in the Jeffrey Epstein files. Prosecutors said Thursday that Thorbjørn Jagland, a former prime minister of Norway, has been charged with "gross corruption" over his dealing…
 
 
-### ASSAULT on 2026-02-12 18:31
-- Location: The Times of India
-- Description: Fear gripped Ramgarh's Saunda Basti after four armed assailants on motorcycles fired at two coal traders' homes. While no one was injured, police suspect the attack aimed to instill terror and demand money. A special investigation team has been formed to appr…
+### OTHER on 2026-02-13 01:17
+- Location: Abcnews.com
+- Description: A Palestinian protester says “inhumane” conditions in a Texas immigration jail have harmed her health after nearly a year in detention, possibly contributing to a seizure she suffered last week
 
 
-### SHOOTING on 2026-02-12 18:30
-- Location: CBC News
-- Description: A 21-year-old man is in critical condition after a shooting in Winnipeg's West End on Wednesday.
+### OTHER on 2026-02-13 01:11
+- Location: ABC News (AU)
+- Description: Police have issued a call out for information after a homemade bomb exploded in south Canberra.
 
-Analysis generated at: Fri Feb 13 18:39:32 UTC 2026
+Analysis generated at: Sat Feb 14 01:27:40 UTC 2026
