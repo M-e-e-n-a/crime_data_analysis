@@ -1,10 +1,10 @@
 
-Loaded 89147 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-13 13:00:17
+Loaded 89239 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-13 18:22:00
 
 Incidents by source:
 source
-newsapi           89046
+newsapi           89138
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-02-13 13:00
-- Location: HuffPost
-- Description: Contrary to Trump's claims, immigrants, even illegal ones, use fewer services and commit fewer crimes than native-born Americans, according to Cato Institute studies.
+### OTHER on 2026-02-13 18:22
+- Location: The Times of India
+- Description: Mumbai: Vakola police have arrested an autorickshaw driver under the Protection of Children from Sexual Offences (Pocso) Act for allegedly stalking an.
 
 
-### OTHER on 2026-02-13 13:00
-- Location: HuffPost
-- Description: After protecting Congress on Jan. 6 and as the Trump administration runs roughshod over democracy, he’s running for Congress — again — because, he told HuffPost, “We’re in regime territory.”
+### OTHER on 2026-02-13 18:21
+- Location: The Times of India
+- Description: In response to a series of tragic accidents, the Ranchi police ramped up their vigilance against reckless and intoxicated driving. Senior officers monitored critical hotspots, issuing fines to six drivers caught under the influence and another for having unau…
 
 
-### HOMICIDE on 2026-02-13 13:00
-- Location: Rolling Stone
-- Description: The murder of O’Jays member Frankie Little Jr. has been a cold case for more than 50 years. Now, a retired journalist believes he may have found the culprit
+### SHOOTING on 2026-02-13 18:18
+- Location: CBC News
+- Description: Advocates for the 2SLGBTQ+ community are responding to anti-trans rhetoric in the wake of the mass shooting in Tumbler Ridge, B.C. after police confirmed the shooter was an 18-year-old trans woman.
 
 
-### OTHER on 2026-02-13 12:55
-- Location: Celebitchy.com
-- Description: The Epstein Files have become such a rolling catastrophe for the Windsors, to the point where I doubt that any of the “Yorks” are going to come out unscathed. King Charles has attempted to cauterize the issue, blaming everything on Prince Andrew and Sarah Fer…
+### OTHER on 2026-02-13 18:16
+- Location: The Times of India
+- Description: In a significant crackdown, Balangir law enforcement has taken two suspects into custody for executing a large-scale digital scam, diverting over Rs 5 crore through a myriad of mule bank accounts within just seven months. The offenders are believed to have pl…
 
 
-### OTHER on 2026-02-13 12:47
-- Location: HuffPost
-- Description: The Trump administration dismantled USAID and canceled most of its aid programs last year.
+### OTHER on 2026-02-13 18:14
+- Location: The Times of India
+- Description: Churachandpur: Tension erupted again late on Thursday night in Churachandpur, despite earlier efforts to pacify women protesters outside the residence.
 
-Analysis generated at: Sat Feb 14 13:00:45 UTC 2026
+Analysis generated at: Sat Feb 14 18:27:27 UTC 2026
