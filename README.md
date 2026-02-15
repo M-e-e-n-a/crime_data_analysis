@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Feb 15 12:37:49 UTC 2026
+Last updated: Sun Feb 15 13:02:38 UTC 2026
 
 ## Latest Analysis
 
-Loaded 89317 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-14 12:30:00
+Loaded 89321 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-14 13:00:03
 
 Incidents by source:
 source
-newsapi           89216
+newsapi           89220
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
+### OTHER on 2026-02-14 13:00
+- Location: Advocate.com
+- Description: This story is part of History is Queer, an Advocate series examining key LGBTQ+ moments, events, and people in history and their ongoing impact. Is there a piece of LGBTQ+ history we should write about? Email us at history@advocate.com.
+
+
+### OTHER on 2026-02-14 12:45
+- Location: Yahoo Entertainment
+- Description: The consequences of fraudulent loans can be long-lasting.
+
+
+### OTHER on 2026-02-14 12:41
+- Location: Abcnews.com
+- Description: Nancy Guthrie’s disappearance highlights how differently police respond when a case draws national attention
+
+
+### OTHER on 2026-02-14 12:39
+- Location: Fair Observer
+- Description: Three years before Jeffrey Epstein was first investigated for a sexual crime by Palm Beach Florida police, a Vanity Fair journalist observed, in a feature piece with the prophetic title “The Talented Mr. Epstein”, that in the upstairs office of Epstein’s nine…
+
+
 ### HOMICIDE on 2026-02-14 12:30
 - Location: New York Post
 - Description: Slain mother Jennifer Strang had expressed concerns about her son’s behavior more than 10 years ago, according to posts in a Facebook parent group.
 
-
-### HOMICIDE on 2026-02-14 12:20
-- Location: The Irish Times
-- Description: Isaac Koko (32) from Cromwell Road in city did not apply for bail
-
-
-### OTHER on 2026-02-14 12:00
-- Location: The New York Review of Books
-- Description: As National Guard troops and federal officers swarmed Washington, D.C., in August, sent by President Donald Trump to confront what he declared a “crime emergency,” members of the city council expressed their outrage. Janeese Lewis George, who represents a nor…
-
-
-### HOMICIDE on 2026-02-14 11:05
-- Location: Sky.com
-- Description: Detective Inspector Stuart Prendiville said: 'Darren Steel committed the ultimate betrayal against his older brother.'
-
-
-### SHOOTING on 2026-02-14 11:00
-- Location: National Post
-- Description: ‘You’re thinking obviously somebody is hurt, somebody is in distress. But you’re not thinking that you’re going to walk into what you’re walking into’
-
-Analysis generated at: Sun Feb 15 12:37:49 UTC 2026
+Analysis generated at: Sun Feb 15 13:02:38 UTC 2026
