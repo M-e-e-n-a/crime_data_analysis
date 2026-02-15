@@ -1,10 +1,10 @@
 
-Loaded 89289 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-14 06:01:07
+Loaded 89317 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-14 12:30:00
 
 Incidents by source:
 source
-newsapi           89188
+newsapi           89216
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-02-14 06:01
-- Location: Freerepublic.com
-- Description: High schoolers in numerous blue cities around the country have regularly been playing hooky, preferring to attend anti-ICE protests rather than focus on their education. Not surprisingly, the data show that many of these so-called learning institutions have d…
+### HOMICIDE on 2026-02-14 12:30
+- Location: New York Post
+- Description: Slain mother Jennifer Strang had expressed concerns about her son’s behavior more than 10 years ago, according to posts in a Facebook parent group.
 
 
-### HOMICIDE on 2026-02-14 06:00
-- Location: Naturalnews.com
-- Description: A shooting at South Carolina State University’s Hugine Suites housing complex left two men dead and one wounded. The incident triggered an eight-hour campus lockdown, with classes canceled through Monday. Both deceased victims were identified as non-students,…
+### HOMICIDE on 2026-02-14 12:20
+- Location: The Irish Times
+- Description: Isaac Koko (32) from Cromwell Road in city did not apply for bail
 
 
-### OTHER on 2026-02-14 06:00
-- Location: Naturalnews.com
-- Description: An Arizona sheriff is blocking the FBI from accessing key DNA evidence in the abduction of Nancy Guthrie, mother of ‘Today’ show host Savannah Guthrie. A federal law enforcement official says the Pima County Sheriff’s insistence on using a private Florida lab…
+### OTHER on 2026-02-14 12:00
+- Location: The New York Review of Books
+- Description: As National Guard troops and federal officers swarmed Washington, D.C., in August, sent by President Donald Trump to confront what he declared a “crime emergency,” members of the city council expressed their outrage. Janeese Lewis George, who represents a nor…
 
 
-### HOMICIDE on 2026-02-14 05:54
-- Location: The Star Online
-- Description: KOTA KINABALU: A 44-year-old woman whose body was dismembered has been buried despite her left leg and right arm still being missing, her son revealed in a TikTok live broadcast. Read full story
+### HOMICIDE on 2026-02-14 11:05
+- Location: Sky.com
+- Description: Detective Inspector Stuart Prendiville said: 'Darren Steel committed the ultimate betrayal against his older brother.'
 
 
-### HOMICIDE on 2026-02-14 05:35
-- Location: Gossiplankanews.com
-- Description: The Bar Association of Sri Lanka today convened a special press conference at its headquarters, strongly protesting against the brutal daytime murder of a young lawyer and his wife.
-<!--gossip-below-article-Rs--> (adsbygoogle = window.adsbygoogle || []).push…
+### SHOOTING on 2026-02-14 11:00
+- Location: National Post
+- Description: ‘You’re thinking obviously somebody is hurt, somebody is in distress. But you’re not thinking that you’re going to walk into what you’re walking into’
 
-Analysis generated at: Sun Feb 15 06:44:24 UTC 2026
+Analysis generated at: Sun Feb 15 12:37:49 UTC 2026
