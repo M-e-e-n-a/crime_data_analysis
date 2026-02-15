@@ -1,10 +1,10 @@
 
-Loaded 89260 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-14 01:46:22
+Loaded 89271 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-14 02:41:55
 
 Incidents by source:
 source
-newsapi           89159
+newsapi           89170
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-02-14 01:46
-- Location: The Denver Post
-- Description: A 4-year-old boy is missing after he was "forcibly removed" from his Commerce City home on Friday afternoon, state officials said in an Amber Alert.
+### OTHER on 2026-02-14 02:41
+- Location: The Times of India
+- Description: A mother in Alirajpur district allegedly made her three young daughters drink pesticide before attempting suicide. The children, aged seven, five, and three, died after consuming the poison. Their mother remains in critical condition. Police are investigating…
 
 
-### SHOOTING on 2026-02-14 01:43
-- Location: WSB Atlanta
-- Description: Police said responding officers found a 17-year-old with a gunshot wound to his thigh.
+### OTHER on 2026-02-14 02:39
+- Location: The Indian Express
+- Description: Kohrra 2: True to form, Sudip Sharma uses the framework of the police procedural as a lens, delving deep into the social hierarchies and hard truths that render crime almost inevitable.
 
 
-### SHOOTING on 2026-02-14 01:40
-- Location: CBC News
-- Description: Abel Mwansa’s father remembers his son as a bright, ambitious boy with a gentle spirit and a smile that lit up every room. The family, who moved to Tumbler Ridge, B.C., from Zambia in 2023, is now mourning the loss of a son, who his father says, always helped…
+### SHOOTING on 2026-02-14 02:38
+- Location: CNA
+- Description: Canadian Prime Minister Mark Carney told grieving residents of Tumbler Ridge, British Columbia, on Friday (Feb 13) that Canadians "will always be with you" at a vigil to mourn victims of one of the country's worst mass shootings.Carney, opposition leaders and…
 
 
-### OTHER on 2026-02-14 01:33
+### SHOOTING on 2026-02-14 02:37
 - Location: Abcnews.com
-- Description: Four people have been indicted on federal charges stemming from clashes with federal officers in Minneapolis
+- Description: Federal authorities have announced an investigation into two immigration officers who appeared to have made untruthful statements under oath about a shooting in Minneapolis last month
 
 
-### OTHER on 2026-02-14 01:13
-- Location: Chinadigitaltimes.net
-- Description: CDT presents a monthly series of censored content that has been added to our “404 Deleted Content Archive.” Each month, we publish a summary of content blocked or deleted (often yielding the message “404: content not found”) from Chinese platforms such as WeC…
+### HOMICIDE on 2026-02-14 02:30
+- Location: NBC News
+- Description: The U.S. Southern Command said it struck a vessel allegedly transporting drugs in the Caribbean on Friday, killing three people.
 
-Analysis generated at: Sun Feb 15 01:47:48 UTC 2026
+Analysis generated at: Sun Feb 15 02:44:04 UTC 2026
