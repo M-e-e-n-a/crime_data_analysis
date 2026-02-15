@@ -1,10 +1,10 @@
 
-Loaded 89239 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-13 18:22:00
+Loaded 89260 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-14 01:46:22
 
 Incidents by source:
 source
-newsapi           89138
+newsapi           89159
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-02-13 18:22
-- Location: The Times of India
-- Description: Mumbai: Vakola police have arrested an autorickshaw driver under the Protection of Children from Sexual Offences (Pocso) Act for allegedly stalking an.
+### OTHER on 2026-02-14 01:46
+- Location: The Denver Post
+- Description: A 4-year-old boy is missing after he was "forcibly removed" from his Commerce City home on Friday afternoon, state officials said in an Amber Alert.
 
 
-### OTHER on 2026-02-13 18:21
-- Location: The Times of India
-- Description: In response to a series of tragic accidents, the Ranchi police ramped up their vigilance against reckless and intoxicated driving. Senior officers monitored critical hotspots, issuing fines to six drivers caught under the influence and another for having unau…
+### SHOOTING on 2026-02-14 01:43
+- Location: WSB Atlanta
+- Description: Police said responding officers found a 17-year-old with a gunshot wound to his thigh.
 
 
-### SHOOTING on 2026-02-13 18:18
+### SHOOTING on 2026-02-14 01:40
 - Location: CBC News
-- Description: Advocates for the 2SLGBTQ+ community are responding to anti-trans rhetoric in the wake of the mass shooting in Tumbler Ridge, B.C. after police confirmed the shooter was an 18-year-old trans woman.
+- Description: Abel Mwansa’s father remembers his son as a bright, ambitious boy with a gentle spirit and a smile that lit up every room. The family, who moved to Tumbler Ridge, B.C., from Zambia in 2023, is now mourning the loss of a son, who his father says, always helped…
 
 
-### OTHER on 2026-02-13 18:16
-- Location: The Times of India
-- Description: In a significant crackdown, Balangir law enforcement has taken two suspects into custody for executing a large-scale digital scam, diverting over Rs 5 crore through a myriad of mule bank accounts within just seven months. The offenders are believed to have pl…
+### OTHER on 2026-02-14 01:33
+- Location: Abcnews.com
+- Description: Four people have been indicted on federal charges stemming from clashes with federal officers in Minneapolis
 
 
-### OTHER on 2026-02-13 18:14
-- Location: The Times of India
-- Description: Churachandpur: Tension erupted again late on Thursday night in Churachandpur, despite earlier efforts to pacify women protesters outside the residence.
+### OTHER on 2026-02-14 01:13
+- Location: Chinadigitaltimes.net
+- Description: CDT presents a monthly series of censored content that has been added to our “404 Deleted Content Archive.” Each month, we publish a summary of content blocked or deleted (often yielding the message “404: content not found”) from Chinese platforms such as WeC…
 
-Analysis generated at: Sat Feb 14 18:27:27 UTC 2026
+Analysis generated at: Sun Feb 15 01:47:48 UTC 2026
