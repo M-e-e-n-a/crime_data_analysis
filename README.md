@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Feb 16 13:15:32 UTC 2026
+Last updated: Mon Feb 16 18:35:57 UTC 2026
 
 ## Latest Analysis
 
-Loaded 89448 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-15 13:02:01
+Loaded 89483 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-15 17:56:44
 
 Incidents by source:
 source
-newsapi           89347
+newsapi           89382
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-02-15 13:02
-- Location: Common Dreams
-- Description: Insecurity is spreading. The world is experiencing unprecedented armed conflict. Sixty-one state-based armed conflicts have been recorded across 36 countries. Eleven of these escalated into full-scale wars. Instead of “never again,” genocide is ongoing—again …
+### OTHER on 2026-02-15 17:56
+- Location: Rlsbb.to
+- Description: Tracklist: 01. Nicki Minaj - Va Va Voom [03:03]02. Zara Larsson - Lush Life [03:20]03. Rihanna - Needed Me [03:11]04. Joan Jett & the Blackhearts - I Love Rock ''N Roll [02:55]05. The Police - Every Breath You Take [04:11]06. blackbear - do re mi [03:32]07. B…
 
 
-### OTHER on 2026-02-15 13:00
-- Location: HuffPost
-- Description: ICE didn't show up at the polls during a January special election in St. Paul, Minnesota. That doesn't mean their presence didn't threaten voters.
+### HOMICIDE on 2026-02-15 17:43
+- Location: fox6now.com
+- Description: One person is dead, and another person was seriously injured in a crash in Milwaukee early Sunday morning, Feb. 15.
 
 
-### ASSAULT on 2026-02-15 13:00
+### OTHER on 2026-02-15 17:37
+- Location: Times of Malta
+- Description: Four iGaming workers accused of beating up colleague over €250 loantimesofmalta.com
+
+
+### SHOOTING on 2026-02-15 17:25
+- Location: The Florida Times-Union
+- Description: Jacksonville police say they are questioning "a person of interest" after gunfire erupted amid a large crowd of teens outside The Avenues.
+
+
+### OTHER on 2026-02-15 17:15
 - Location: New York Post
-- Description: 'Dare To Struggle SoCal' is urging children to skip class and "rebel against" agents across major West Coast cities.
+- Description: "I always wanted to do something like this for the community and for the legacy of Italian food. I think this is a very new concept to the people.''
 
-
-### ROBBERY/THEFT on 2026-02-15 12:40
-- Location: The Indian Express
-- Description: Over 123 homebuyers, mostly senior citizens, have been left in the lurch after paying Rs 70 crore for flats that were never delivered.
-
-
-### OTHER on 2026-02-15 12:31
-- Location: Neatorama.com
-- Description: CrackerMilk is a sketch comedy troupe in Brisbane, Australia. In this video, a police officer encounters mimes engaging in increasingly disturbing criminal behavior. The mean streets of Brisbane are tragically unsafe due to these monsters in face paint.This i…
-
-Analysis generated at: Mon Feb 16 13:15:32 UTC 2026
+Analysis generated at: Mon Feb 16 18:35:57 UTC 2026
