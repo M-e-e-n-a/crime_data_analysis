@@ -1,10 +1,10 @@
 
-Loaded 89396 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-15 01:36:01
+Loaded 89401 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-15 02:08:27
 
 Incidents by source:
 source
-newsapi           89295
+newsapi           89300
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,30 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-02-15 01:36
-- Location: New York Post
-- Description: The suspect was taken into custody Saturday in the northwest Bronx.
+### SHOOTING on 2026-02-15 02:08
+- Location: Economictimes.com
+- Description: Breaking News Live Updates: Delhi Police apprehended a wanted criminal after a brief exchange of gunfire in the Bawana area. The suspect was shot in the leg during the encounter and taken into custody. Officials said the operation followed efforts to arrest t…
 
 
-### OTHER on 2026-02-15 01:18
+### HOMICIDE on 2026-02-15 02:03
 - Location: ABC News (AU)
-- Description: Opposition leader Jess Wilson has pledged to investigate an alleged $15 billion blowout to Victoria's Big Build projects if elected.
+- Description: The 24-year-old was riding near the Giralang shops when his motorcycle hit a kerb this morning.
 
 
-### OTHER on 2026-02-15 01:15
-- Location: The Punch
-- Description: Remo Stars host Abia Warriors in Akure for NPFL matchday 26. Can the struggling champions find form in their new home against a top-five side?
-
-Read More: https://punchng.com/remo-begin-akure-spell-with-abia-visit/
+### HOMICIDE on 2026-02-15 01:57
+- Location: The Times of India
+- Description: A man identified as Sahil Solanki, recently released from jail, was shot dead in Delhi's Rohini area. Suspected to be linked to the Gogi gang, his murder is believed to be a result of a rivalry with the Tillu gang. The brazen daylight killing has instilled fe…
 
 
-### OTHER on 2026-02-15 01:02
+### ASSAULT on 2026-02-15 01:53
+- Location: WSOC Charlotte
+- Description: A 25-year-old Maiden man faces kidnapping and assault charges after police said he targeted two girls inside the Lincolnton Walmart on Friday night.
+
+
+### HOMICIDE on 2026-02-15 01:45
 - Location: ABC News (AU)
-- Description: Gisèle Pelicot, the woman at the centre of France's largest rape trial, says she intends to visit her ex-husband in jail and look her abuser "straight in the eye" to get answers to other allegations under investigation.
+- Description: Six unsolved deaths in two remote parts of the Balkan Mountains become a source of conspiracy across Bulgaria.
 
-
-### HOMICIDE on 2026-02-15 01:00
-- Location: The Mendocino Voice
-- Description: Celinda Gonzales of the Yurok Tribe worked to prevent suicides among Native Americans after experiencing loss in her family. She “was a friend to many,” the tribe said.
-
-Analysis generated at: Mon Feb 16 01:44:13 UTC 2026
+Analysis generated at: Mon Feb 16 02:39:36 UTC 2026
