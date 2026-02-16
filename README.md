@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Feb 16 12:50:56 UTC 2026
+Last updated: Mon Feb 16 13:15:32 UTC 2026
 
 ## Latest Analysis
 
-Loaded 89445 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-15 12:40:44
+Loaded 89448 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-15 13:02:01
 
 Incidents by source:
 source
-newsapi           89344
+newsapi           89347
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,6 +24,21 @@ bution.svg)
 
 ## Recent Incidents
 
+### OTHER on 2026-02-15 13:02
+- Location: Common Dreams
+- Description: Insecurity is spreading. The world is experiencing unprecedented armed conflict. Sixty-one state-based armed conflicts have been recorded across 36 countries. Eleven of these escalated into full-scale wars. Instead of “never again,” genocide is ongoing—again …
+
+
+### OTHER on 2026-02-15 13:00
+- Location: HuffPost
+- Description: ICE didn't show up at the polls during a January special election in St. Paul, Minnesota. That doesn't mean their presence didn't threaten voters.
+
+
+### ASSAULT on 2026-02-15 13:00
+- Location: New York Post
+- Description: 'Dare To Struggle SoCal' is urging children to skip class and "rebel against" agents across major West Coast cities.
+
+
 ### ROBBERY/THEFT on 2026-02-15 12:40
 - Location: The Indian Express
 - Description: Over 123 homebuyers, mostly senior citizens, have been left in the lurch after paying Rs 70 crore for flats that were never delivered.
@@ -33,19 +48,4 @@ bution.svg)
 - Location: Neatorama.com
 - Description: CrackerMilk is a sketch comedy troupe in Brisbane, Australia. In this video, a police officer encounters mimes engaging in increasingly disturbing criminal behavior. The mean streets of Brisbane are tragically unsafe due to these monsters in face paint.This i…
 
-
-### HOMICIDE on 2026-02-15 12:15
-- Location: Gossiplankanews.com
-- Description: The Bar Association of Sri Lanka has decided to withdraw from all duties island-wide on February 16, protesting the brutal shooting and killing of a lawyer and his wife in the Akuregoda area. This decision was reached at a special general meeting held on Febr…
-
-
-### OTHER on 2026-02-15 12:00
-- Location: National Post
-- Description: The Calgary Board of Education says all potential threats to school communities are taken seriously but is aware of the anxiety such measures cause
-
-
-### OTHER on 2026-02-15 12:00
-- Location: Politico
-- Description: The U.S. attorney is stumbling in Trump’s revenge tour — and it’s a sign of more struggles to come.
-
-Analysis generated at: Mon Feb 16 12:50:56 UTC 2026
+Analysis generated at: Mon Feb 16 13:15:32 UTC 2026
