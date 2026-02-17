@@ -1,10 +1,10 @@
 
-Loaded 89499 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-16 02:12:42
+Loaded 89529 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-16 06:51:05
 
 Incidents by source:
 source
-newsapi           89398
+newsapi           89428
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-02-16 02:12
-- Location: Slashdot.org
-- Description: Canada Trans shooter Jesse Van Rootselaar was 'hunting', disturbing details of mass shooting continue to emergeWION Online activity of Canada school shooter shows a fascination with mass violence and violent content, expert saysCBS News Investigation into Tum…
+### HOMICIDE on 2026-02-16 06:51
+- Location: TheJournal.ie
+- Description: Naveed Akram has been charged with terrorism, 15 counts of murder, dozens of counts of causing wounds to a person with intent to kill and planting explosives.
 
 
-### OTHER on 2026-02-16 02:09
-- Location: New York Post
-- Description: "It only makes our streets less safe for every Angeleno," LAPD's union said.
+### HOMICIDE on 2026-02-16 06:42
+- Location: ABC News (AU)
+- Description: Lee Casuscelli and Maureen Crosland died when their car was hit in Camden by an allegedly stolen car that police had been pursuing.
 
 
-### HOMICIDE on 2026-02-16 02:09
-- Location: CNA
-- Description: SYDNEY: A man accused of opening fire on a Jewish Hanukkah celebration at Sydney's famed Bondi Beach in an attack that killed 15 people appeared in cou
+### SHOOTING on 2026-02-16 06:38
+- Location: The Irish Times
+- Description: Naveed Akram (24) faces 59 charges over December attack in Sydney, Australia
 
 
-### HOMICIDE on 2026-02-16 01:49
-- Location: Internazionale.it
-- Description: SYDNEY, Feb 16 (Reuters) - A man accused of opening fire on a Jewish Hanukkah celebration at Sydney’s famed Bondi Beach in an attack that killed 15 people appeared in cou… Leggi
+### HOMICIDE on 2026-02-16 06:20
+- Location: ABC News (AU)
+- Description: DNA from a Perth man accused of murdering his wife 40 years ago was found on an envelope containing an anonymous tip-off that claimed another man had killed her, a court hears.
 
 
-### ASSAULT on 2026-02-16 01:38
-- Location: Sky.com
-- Description: Naveed Akram wore a green prison-issued jumper and sat mostly in silence during the hearing at a Sydney court. His lawyer said it was too early to indicate how the 24-year-old would plead to the charges.
+### HOMICIDE on 2026-02-16 06:09
+- Location: Globalsecurity.org
+- Description: Gunmen riding motorcycles have killed at least 32 people and abducted several more in three villages in northern Nigeria.
 
-Analysis generated at: Tue Feb 17 02:35:23 UTC 2026
+Analysis generated at: Tue Feb 17 06:52:56 UTC 2026
