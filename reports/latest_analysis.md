@@ -1,10 +1,10 @@
 
-Loaded 89529 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-16 06:51:05
+Loaded 89585 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-16 12:45:56
 
 Incidents by source:
 source
-newsapi           89428
+newsapi           89484
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-02-16 06:51
-- Location: TheJournal.ie
-- Description: Naveed Akram has been charged with terrorism, 15 counts of murder, dozens of counts of causing wounds to a person with intent to kill and planting explosives.
+### OTHER on 2026-02-16 12:45
+- Location: Whyevolutionistrue.com
+- Description: Welcome to Monday, Februay 16, 2026, as this month wings by, bringing each of us closer to extinction. It’s Presidents Day, a federal holiday but not one here at the hard-working University of Chicago.  Here is Mount Rushmore, Sculpture of Presidents, before …
 
 
-### HOMICIDE on 2026-02-16 06:42
-- Location: ABC News (AU)
-- Description: Lee Casuscelli and Maureen Crosland died when their car was hit in Camden by an allegedly stolen car that police had been pursuing.
+### OTHER on 2026-02-16 12:41
+- Location: Mediafax.ro
+- Description: On Monday, police conducted searches at the home of an active military officer suspected of defrauding several people using a cryptocurrency platform.
 
 
-### SHOOTING on 2026-02-16 06:38
-- Location: The Irish Times
-- Description: Naveed Akram (24) faces 59 charges over December attack in Sydney, Australia
+### ASSAULT on 2026-02-16 12:40
+- Location: Fox News
+- Description: Naveed Akram appeared via video link in a Sydney court as a suppression order protecting the names of some victims was extended.
 
 
-### HOMICIDE on 2026-02-16 06:20
-- Location: ABC News (AU)
-- Description: DNA from a Perth man accused of murdering his wife 40 years ago was found on an envelope containing an anonymous tip-off that claimed another man had killed her, a court hears.
+### OTHER on 2026-02-16 12:34
+- Location: The Conversation Africa
+- Description: The aim is to disrupt Channel crossings well before people reach the French coast.
 
 
-### HOMICIDE on 2026-02-16 06:09
-- Location: Globalsecurity.org
-- Description: Gunmen riding motorcycles have killed at least 32 people and abducted several more in three villages in northern Nigeria.
+### SHOOTING on 2026-02-16 12:28
+- Location: New York Post
+- Description: Their bodies were discovered in a room at Rio Hotel & Casino on Sunday alongside an apparent suicide note after the pair failed to show up for a cheer competition.
 
-Analysis generated at: Tue Feb 17 06:52:56 UTC 2026
+Analysis generated at: Tue Feb 17 12:50:59 UTC 2026
