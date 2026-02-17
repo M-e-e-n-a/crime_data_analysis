@@ -1,10 +1,10 @@
 
-Loaded 89585 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-16 12:45:56
+Loaded 89591 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-16 13:14:22
 
 Incidents by source:
 source
-newsapi           89484
+newsapi           89490
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-02-16 12:45
-- Location: Whyevolutionistrue.com
-- Description: Welcome to Monday, Februay 16, 2026, as this month wings by, bringing each of us closer to extinction. It’s Presidents Day, a federal holiday but not one here at the hard-working University of Chicago.  Here is Mount Rushmore, Sculpture of Presidents, before …
+### OTHER on 2026-02-16 13:14
+- Location: Freerepublic.com
+- Description: It's not live yet, but will be. Just an absolute evil individual. He will be the sole cause of civil war in Britain, which Brits may lose because they are unarmed while there is a good chance that Starmer will allow Muslims to be armed. Just keep tabs on this…
 
 
-### OTHER on 2026-02-16 12:41
-- Location: Mediafax.ro
-- Description: On Monday, police conducted searches at the home of an active military officer suspected of defrauding several people using a cryptocurrency platform.
+### HOMICIDE on 2026-02-16 13:04
+- Location: The Star Online
+- Description: KUALA LANGAT: A murder investigation has been launched following the discovery of an Indonesian woman's body with marks on her neck in a plantation here. Read full story
 
 
-### ASSAULT on 2026-02-16 12:40
-- Location: Fox News
-- Description: Naveed Akram appeared via video link in a Sydney court as a suppression order protecting the names of some victims was extended.
+### HOMICIDE on 2026-02-16 13:03
+- Location: Boston Herald
+- Description: He did not enter pleas to the charges against him, including murder.
 
 
-### OTHER on 2026-02-16 12:34
-- Location: The Conversation Africa
-- Description: The aim is to disrupt Channel crossings well before people reach the French coast.
+### HOMICIDE on 2026-02-16 13:00
+- Location: The Indian Express
+- Description: Dana Eden, 52, was found dead in a hotel in the Greek capital, Athens, a Greek police official said, adding that initial indications suggested she had taken her own life and there was no suspicion of foul play.
 
 
-### SHOOTING on 2026-02-16 12:28
-- Location: New York Post
-- Description: Their bodies were discovered in a room at Rio Hotel & Casino on Sunday alongside an apparent suicide note after the pair failed to show up for a cheer competition.
+### OTHER on 2026-02-16 13:00
+- Location: Deadline
+- Description: South Africa’s racist system of Apartheid endured for generations and, so brutally was it maintained, appeared impregnable. One of those who played a vital role in its unlikely demise was Archbishop Desmond Tutu, the religious leader and theologian. He did it…
 
-Analysis generated at: Tue Feb 17 12:50:59 UTC 2026
+Analysis generated at: Tue Feb 17 13:15:15 UTC 2026
