@@ -1,10 +1,10 @@
 
-Loaded 89493 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-16 01:03:40
+Loaded 89499 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-16 02:12:42
 
 Incidents by source:
 source
-newsapi           89392
+newsapi           89398
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2026-02-16 01:03
-- Location: ABC News (AU)
-- Description: Brett Pointing has been named as the interim Queensland police commissioner after Steve Gollchewski announced his retirement.
+### SHOOTING on 2026-02-16 02:12
+- Location: Slashdot.org
+- Description: Canada Trans shooter Jesse Van Rootselaar was 'hunting', disturbing details of mass shooting continue to emergeWION Online activity of Canada school shooter shows a fascination with mass violence and violent content, expert saysCBS News Investigation into Tum…
 
 
-### OTHER on 2026-02-16 00:56
-- Location: ABC News (AU)
-- Description: Detectives believe 85-year-old Chris Baghsarian was mistakenly snatched just after 5am last Friday from his bedroom after intruders forced their way into his North Ryde property.
+### OTHER on 2026-02-16 02:09
+- Location: New York Post
+- Description: "It only makes our streets less safe for every Angeleno," LAPD's union said.
 
 
-### OTHER on 2026-02-16 00:45
-- Location: Decider
-- Description: The show takes a calculated risk by going off-rez in Season 4.
+### HOMICIDE on 2026-02-16 02:09
+- Location: CNA
+- Description: SYDNEY: A man accused of opening fire on a Jewish Hanukkah celebration at Sydney's famed Bondi Beach in an attack that killed 15 people appeared in cou
 
 
-### OTHER on 2026-02-16 00:37
-- Location: Bleeding Cool News
-- Description: With a fifth season set to kick off production later this year, the fourth season of AMC and showrunner John Wirth's Zahn McClarnon, Kiowa Gordon, and Jessica Matten-starring Dark Winds returns tonight – and we've got exactly the preview you need. A young gir…
+### HOMICIDE on 2026-02-16 01:49
+- Location: Internazionale.it
+- Description: SYDNEY, Feb 16 (Reuters) - A man accused of opening fire on a Jewish Hanukkah celebration at Sydney’s famed Bondi Beach in an attack that killed 15 people appeared in cou… Leggi
 
 
-### HOMICIDE on 2026-02-16 00:30
-- Location: ABC News (AU)
-- Description: Bondi Beach gunman Naveed Akram, who is charged with 15 counts of murder, has appeared via video link for the first time in a Sydney court as a senior magistrate extended existing suppression orders in the case.
+### ASSAULT on 2026-02-16 01:38
+- Location: Sky.com
+- Description: Naveed Akram wore a green prison-issued jumper and sat mostly in silence during the hearing at a Sydney court. His lawyer said it was too early to indicate how the 24-year-old would plead to the charges.
 
-Analysis generated at: Tue Feb 17 01:30:45 UTC 2026
+Analysis generated at: Tue Feb 17 02:35:23 UTC 2026
