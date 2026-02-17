@@ -1,10 +1,10 @@
 
-Loaded 89483 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-15 17:56:44
+Loaded 89493 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-16 01:03:40
 
 Incidents by source:
 source
-newsapi           89382
+newsapi           89392
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-02-15 17:56
-- Location: Rlsbb.to
-- Description: Tracklist: 01. Nicki Minaj - Va Va Voom [03:03]02. Zara Larsson - Lush Life [03:20]03. Rihanna - Needed Me [03:11]04. Joan Jett & the Blackhearts - I Love Rock ''N Roll [02:55]05. The Police - Every Breath You Take [04:11]06. blackbear - do re mi [03:32]07. B…
+### ROBBERY/THEFT on 2026-02-16 01:03
+- Location: ABC News (AU)
+- Description: Brett Pointing has been named as the interim Queensland police commissioner after Steve Gollchewski announced his retirement.
 
 
-### HOMICIDE on 2026-02-15 17:43
-- Location: fox6now.com
-- Description: One person is dead, and another person was seriously injured in a crash in Milwaukee early Sunday morning, Feb. 15.
+### OTHER on 2026-02-16 00:56
+- Location: ABC News (AU)
+- Description: Detectives believe 85-year-old Chris Baghsarian was mistakenly snatched just after 5am last Friday from his bedroom after intruders forced their way into his North Ryde property.
 
 
-### OTHER on 2026-02-15 17:37
-- Location: Times of Malta
-- Description: Four iGaming workers accused of beating up colleague over €250 loantimesofmalta.com
+### OTHER on 2026-02-16 00:45
+- Location: Decider
+- Description: The show takes a calculated risk by going off-rez in Season 4.
 
 
-### SHOOTING on 2026-02-15 17:25
-- Location: The Florida Times-Union
-- Description: Jacksonville police say they are questioning "a person of interest" after gunfire erupted amid a large crowd of teens outside The Avenues.
+### OTHER on 2026-02-16 00:37
+- Location: Bleeding Cool News
+- Description: With a fifth season set to kick off production later this year, the fourth season of AMC and showrunner John Wirth's Zahn McClarnon, Kiowa Gordon, and Jessica Matten-starring Dark Winds returns tonight – and we've got exactly the preview you need. A young gir…
 
 
-### OTHER on 2026-02-15 17:15
-- Location: New York Post
-- Description: "I always wanted to do something like this for the community and for the legacy of Italian food. I think this is a very new concept to the people.''
+### HOMICIDE on 2026-02-16 00:30
+- Location: ABC News (AU)
+- Description: Bondi Beach gunman Naveed Akram, who is charged with 15 counts of murder, has appeared via video link for the first time in a Sydney court as a senior magistrate extended existing suppression orders in the case.
 
-Analysis generated at: Mon Feb 16 18:35:57 UTC 2026
+Analysis generated at: Tue Feb 17 01:30:45 UTC 2026
