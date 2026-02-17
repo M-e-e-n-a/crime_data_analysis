@@ -1,10 +1,10 @@
 
-Loaded 89591 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-16 13:14:22
+Loaded 89665 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-16 18:45:34
 
 Incidents by source:
 source
-newsapi           89490
+newsapi           89564
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-02-16 13:14
-- Location: Freerepublic.com
-- Description: It's not live yet, but will be. Just an absolute evil individual. He will be the sole cause of civil war in Britain, which Brits may lose because they are unarmed while there is a good chance that Starmer will allow Muslims to be armed. Just keep tabs on this…
+### HOMICIDE on 2026-02-16 18:45
+- Location: The Times of India
+- Description: In a shocking turn of events, the Saharsa police have successfully solved the tragic murder case of Rajesh Kumar, whose headless remains were discovered beside the Sursar River. Authorities have uncovered a sinister plot orchestrated by his girlfriend's broth…
 
 
-### HOMICIDE on 2026-02-16 13:04
-- Location: The Star Online
-- Description: KUALA LANGAT: A murder investigation has been launched following the discovery of an Indonesian woman's body with marks on her neck in a plantation here. Read full story
+### HOMICIDE on 2026-02-16 18:33
+- Location: The Irish Times
+- Description: Judge to pass sentence in March after jury previously delivered unanimous guilty verdict of manslaughter
 
 
-### HOMICIDE on 2026-02-16 13:03
-- Location: Boston Herald
-- Description: He did not enter pleas to the charges against him, including murder.
+### HOMICIDE on 2026-02-16 18:25
+- Location: The Conversation Africa
+- Description: Shot, stabbed, poisoned with frog toxin –  a new book reveals how the killing of political opponents has emerged from the shadows of government secrecy.
 
 
-### HOMICIDE on 2026-02-16 13:00
-- Location: The Indian Express
-- Description: Dana Eden, 52, was found dead in a hotel in the Greek capital, Athens, a Greek police official said, adding that initial indications suggested she had taken her own life and there was no suspicion of foul play.
+### OTHER on 2026-02-16 18:17
+- Location: ABC News (AU)
+- Description: The Victorian Greens are calling for broadened powers of the state's anti-corruption body after the watchdog confirmed it rejected a request by the premier for an investigation into the CFMEU scandal because it was out of scope.
 
 
-### OTHER on 2026-02-16 13:00
-- Location: Deadline
-- Description: South Africa’s racist system of Apartheid endured for generations and, so brutally was it maintained, appeared impregnable. One of those who played a vital role in its unlikely demise was Archbishop Desmond Tutu, the religious leader and theologian. He did it…
+### ASSAULT on 2026-02-16 18:15
+- Location: Common Dreams
+- Description: The US Department of Homeland Security is partially shut down due to a congressional funding fight, but armed with an extra $75 billion from last year's Republican budget package, Immigration and Customs Enforcement is not only expanding its concentration cam…
 
-Analysis generated at: Tue Feb 17 13:15:15 UTC 2026
+Analysis generated at: Tue Feb 17 18:50:16 UTC 2026
