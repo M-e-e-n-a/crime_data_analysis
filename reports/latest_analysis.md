@@ -1,10 +1,10 @@
 
-Loaded 89697 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-17 02:37:31
+Loaded 89739 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-17 06:50:06
 
 Incidents by source:
 source
-newsapi           89596
+newsapi           89638
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-02-17 02:37
-- Location: Haaretz
-- Description: 'They Want a Deal': Trump Says He Will Be Involved Indirectly in Iran Talks. IDF Says It Killed Operative Who Worked to Restore Hezbollah Infrastructure in Southern Lebanon. Palestinian Journalist Arrested on Suspicion of Sending News Clips to Media Agency De…
+### HOMICIDE on 2026-02-17 06:50
+- Location: ABC News (AU)
+- Description: Victims of Syria's brutal Assad regime were tortured to death in completely horrible and inhumane ways. The relatives of "The Missing" are still searching for them as their numbers continue to explode.
 
 
-### SHOOTING on 2026-02-17 02:31
-- Location: Marca
-- Description: A quiet Monday afternoon at a Rhode Island youth hockey game turned into a horrific scene of violence and loss, when a shooting at the Dennis M. Lynch Arena in Pawtucket left sever
+### OTHER on 2026-02-17 06:50
+- Location: The Star Online
+- Description: Feb 17 (Reuters) - Gisele Pelicot, the French woman whose ⁠husband was convicted of inviting dozens of men to rape her unconscious body, has released her memoir, recounting the ⁠horrors she endured and why she chose to go public in a trial that shocked the wo…
 
 
-### HOMICIDE on 2026-02-17 02:31
+### HOMICIDE on 2026-02-17 06:44
 - Location: The Times of India
-- Description: A retired Army man, Chetram Paswan, allegedly shot his wife and son before ending his life by jumping before a train in Kanpur. Police discovered the tragic scene at his home after being alerted to a body on the tracks. Neighbours reported a domestic dispute …
+- Description: A week after a tragic shooting at Tumbler Ridge Secondary School, where eight people were killed, including six children, the community is beginning to recover. Portable facilities are arriving to allow students to return to classes. The 18-year-old shooter, …
 
 
-### OTHER on 2026-02-17 02:24
-- Location: Al Jazeera English
-- Description: Pritzker steps down as Hyatt executive chairman, effective immediately, over his relationship with the sex offender.
+### OTHER on 2026-02-17 06:26
+- Location: Independent.ie
+- Description: Gisele Pelicot, the French woman whose husband was convicted of inviting dozens of men to rape her unconscious body, has released her memoir, recounting the horrors she endured and why she chose to go public in a trial that shocked the world.
 
 
-### SHOOTING on 2026-02-17 02:20
-- Location: USA Today
-- Description: Local area sports team, including the New England Patriots, react to the Pawtucket, Rhode Island shooting on Feb. 16.
+### HOMICIDE on 2026-02-17 06:07
+- Location: The-independent.com
+- Description: Unbeknownst to many, the actor so beloved as Black Panther was also a playwright. Six years after his death, his 2005 play about the killing of his friend at the hands of a policeman is making its UK debut. His brothers, Kevin and Derrick, speak with Annabel …
 
-Analysis generated at: Wed Feb 18 02:39:04 UTC 2026
+Analysis generated at: Wed Feb 18 06:56:21 UTC 2026
