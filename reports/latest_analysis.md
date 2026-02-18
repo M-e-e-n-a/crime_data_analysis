@@ -1,10 +1,10 @@
 
-Loaded 89815 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-17 12:51:49
+Loaded 89824 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-17 13:15:33
 
 Incidents by source:
 source
-newsapi           89714
+newsapi           89723
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,30 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2026-02-17 12:51
-- Location: The Punch
-- Description: The Lagos Domestic and Sexual Violence Agency asks for public help locating a TikToker who shared her story of sexual assault in Lagos, sparking outrage.
-
-Read More: https://punchng.com/sexual-assault-lagos-seeks-public-help-to-locate-tiktoker/
+### HOMICIDE on 2026-02-17 13:15
+- Location: Turn to 10
+- Description: North Providence Mayor Charles Lombardi identified one of the victims of the deadly Pawtucket ice rink shooting as the son of the suspect.
 
 
-### SHOOTING on 2026-02-17 12:51
+### HOMICIDE on 2026-02-17 13:14
+- Location: PBS
+- Description: Pawtucket Police Chief Tina Goncalves told reporters that someone helped bring a swift end to the violent scene Monday afternoon by intervening and trying to subdue the shooter, who was at an arena to watch a family member's hockey game.
+
+
+### OTHER on 2026-02-17 13:11
+- Location: Lawyersgunsmoneyblog.com
+- Description: Jesse Jackson has died. One of the most important civil rights leaders in the post-King era, Jackson was a complicated man with a complex legacy. He had quite an ability to both promote himself endlessly and shapeshift into the Black politics of the moment, w…
+
+
+### OTHER on 2026-02-17 13:05
 - Location: Freerepublic.com
-- Description: The crazed transgender dad who shot up a high school hockey game in Rhode Island threatened to go “BERSERK” in a trans-rights rant just a day before he massacred two family members and injured three others. Robert Dorgan, who also identified as Roberta Esposi…
+- Description: The self-destruction of Britain: New Labour’s quiet revolution, deep state resistance to democracy, and transethnic buildup to civil war. The British historian David Starkey has long maintained that Tony Blair’s assumption of power in 1997 marked an all-encom…
 
 
-### OTHER on 2026-02-17 12:46
-- Location: Raw Story
-- Description: At 3:07 in the morning the pounding started.Not a knock or a doorbell: it was the kind of impact meant to wake the neighbors and erase any doubt that resistance would be pointless.Within seconds armed men were inside the house, shouting orders, refusing quest…
+### HOMICIDE on 2026-02-17 13:00
+- Location: Freerepublic.com
+- Description: BAKERSFIELD, CA. (KATU) — Salem Police (SPD) say that the man wanted for attempted murder and sexual assault was arrested last night in California. Daniel Ray Myers is accused of stabbing a woman multiple times late Feb. 10 after she resisted an alleged sexua…
 
-
-### OTHER on 2026-02-17 12:45
-- Location: Whyevolutionistrue.com
-- Description: Welcome to The Cruelest Day:Tuesday, February 17, 2026, and Pączki Day, celebrating the rich, filled Polish donut traditionally eaten before Lent. Here are a bunch with different fillings in Katowice, Poland (I ate two): It’s also Chinese New Year, Mardi Gras…
-
-
-### OTHER on 2026-02-17 12:32
-- Location: Thepinknews.com
-- Description: Hate crimes targeting people on the grounds of their sexuality, gender identity or disability would be made an aggravated offence, under a proposed new law. If passed, an amendment to the Crime and Policing Bill would see hate crimes targeting LGBTQ+ and disa…
-
-Analysis generated at: Wed Feb 18 12:52:38 UTC 2026
+Analysis generated at: Wed Feb 18 13:16:42 UTC 2026
