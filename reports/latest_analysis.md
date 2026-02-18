@@ -1,10 +1,10 @@
 
-Loaded 89689 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-17 01:41:32
+Loaded 89697 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-17 02:37:31
 
 Incidents by source:
 source
-newsapi           89588
+newsapi           89596
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-02-17 01:41
-- Location: Al Jazeera English
-- Description: The attacker has also died from a self-inflicted gunshot wound after opening fire at an ice hockey rink in the US.
+### HOMICIDE on 2026-02-17 02:37
+- Location: Haaretz
+- Description: 'They Want a Deal': Trump Says He Will Be Involved Indirectly in Iran Talks. IDF Says It Killed Operative Who Worked to Restore Hezbollah Infrastructure in Southern Lebanon. Palestinian Journalist Arrested on Suspicion of Sending News Clips to Media Agency De…
 
 
-### OTHER on 2026-02-17 01:38
-- Location: The Conversation Africa
-- Description: Novelist Alexis Wright has described Lionel Fogarty as Aboriginal literature’s ‘poet laureate’. His was a life of energy, art, yarning, poetry and politics.
+### SHOOTING on 2026-02-17 02:31
+- Location: Marca
+- Description: A quiet Monday afternoon at a Rhode Island youth hockey game turned into a horrific scene of violence and loss, when a shooting at the Dennis M. Lynch Arena in Pawtucket left sever
 
 
-### HOMICIDE on 2026-02-17 01:18
+### HOMICIDE on 2026-02-17 02:31
 - Location: The Times of India
-- Description: Rest of World News: A man accused of killing 15 people in a mass shooting at a Jewish festival on Sydney's Bondi Beach appeared in court Monday for the first time since h.
+- Description: A retired Army man, Chetram Paswan, allegedly shot his wife and son before ending his life by jumping before a train in Kanpur. Police discovered the tragic scene at his home after being alerted to a body on the tracks. Neighbours reported a domestic dispute …
 
 
-### SHOOTING on 2026-02-17 01:10
-- Location: CBC News
-- Description: The B.C. government is setting up temporary classroom space in trailers for the students of Tumbler Ridge, B.C., in the wake of the mass shooting at Tumbler Ridge Secondary School last week.
+### OTHER on 2026-02-17 02:24
+- Location: Al Jazeera English
+- Description: Pritzker steps down as Hyatt executive chairman, effective immediately, over his relationship with the sex offender.
 
 
-### HOMICIDE on 2026-02-17 01:09
-- Location: New York Post
-- Description: A livestream captured the sound of approximately 11 gunshots as players and spectators fled for their lives.
+### SHOOTING on 2026-02-17 02:20
+- Location: USA Today
+- Description: Local area sports team, including the New England Patriots, react to the Pawtucket, Rhode Island shooting on Feb. 16.
 
-Analysis generated at: Wed Feb 18 01:45:54 UTC 2026
+Analysis generated at: Wed Feb 18 02:39:04 UTC 2026
