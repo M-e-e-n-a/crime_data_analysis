@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Feb 18 13:16:42 UTC 2026
+Last updated: Wed Feb 18 18:44:48 UTC 2026
 
 ## Latest Analysis
 
-Loaded 89824 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-17 13:15:33
+Loaded 89917 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-17 18:40:11
 
 Incidents by source:
 source
-newsapi           89723
+newsapi           89816
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-02-17 13:15
-- Location: Turn to 10
-- Description: North Providence Mayor Charles Lombardi identified one of the victims of the deadly Pawtucket ice rink shooting as the son of the suspect.
+### OTHER on 2026-02-17 18:40
+- Location: The Times of India
+- Description: A tragic incident unfolded on NH-319 near Sasaram as a school bus, filled with eager students and devoted teachers on an educational journey, overturned early Tuesday morning. The devastating accident resulted in the loss of two beloved teachers, Puneet Kumar…
 
 
-### HOMICIDE on 2026-02-17 13:14
-- Location: PBS
-- Description: Pawtucket Police Chief Tina Goncalves told reporters that someone helped bring a swift end to the violent scene Monday afternoon by intervening and trying to subdue the shooter, who was at an arena to watch a family member's hockey game.
+### OTHER on 2026-02-17 18:31
+- Location: The Times of India
+- Description: Giridih police apprehended three individuals involved in online scams, seizing mobile phones and SIM cards. These fraudsters allegedly posed as bank officials, sending fake APK files to dupe victims. One accused, previously jailed for cyber fraud, is wanted i…
 
 
-### OTHER on 2026-02-17 13:11
-- Location: Lawyersgunsmoneyblog.com
-- Description: Jesse Jackson has died. One of the most important civil rights leaders in the post-King era, Jackson was a complicated man with a complex legacy. He had quite an ability to both promote himself endlessly and shapeshift into the Black politics of the moment, w…
+### OTHER on 2026-02-17 18:31
+- Location: The Times of India
+- Description: Over 6,000 students, including 30 Indians, have settled with UCL over Covid disruptions. This paves the way for legal action against 36 more British universities for around 100,000 students, including 217 Indians, who paid for in-person education but received…
 
 
-### OTHER on 2026-02-17 13:05
-- Location: Freerepublic.com
-- Description: The self-destruction of Britain: New Labour’s quiet revolution, deep state resistance to democracy, and transethnic buildup to civil war. The British historian David Starkey has long maintained that Tony Blair’s assumption of power in 1997 marked an all-encom…
+### HOMICIDE on 2026-02-17 18:30
+- Location: Fox News
+- Description: Robert Dorgan posted about going "BERSERK" before a hockey game attack that killed two, according to an account linked to the Rhode Island shooting suspect.
 
 
-### HOMICIDE on 2026-02-17 13:00
-- Location: Freerepublic.com
-- Description: BAKERSFIELD, CA. (KATU) — Salem Police (SPD) say that the man wanted for attempted murder and sexual assault was arrested last night in California. Daniel Ray Myers is accused of stabbing a woman multiple times late Feb. 10 after she resisted an alleged sexua…
+### OTHER on 2026-02-17 18:27
+- Location: What's on Netflix
+- Description: Spring is just around the corner, and for Netflix, it means a significant spring cleaning of its Original library. March 2026 will see the departure of several long-standing series, international gems, and a comedy heavyweight. ...
 
-Analysis generated at: Wed Feb 18 13:16:42 UTC 2026
+Analysis generated at: Wed Feb 18 18:44:48 UTC 2026
