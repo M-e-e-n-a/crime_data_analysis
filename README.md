@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Feb 19 02:38:29 UTC 2026
+Last updated: Thu Feb 19 06:54:47 UTC 2026
 
 ## Latest Analysis
 
-Loaded 89960 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-18 02:37:34
+Loaded 89992 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-18 06:51:05
 
 Incidents by source:
 source
-newsapi           89859
+newsapi           89891
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,31 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-02-18 02:37
-- Location: The Indian Express
-- Description: Kohrra 2 on Netflix explores the dark reality of parental violence and generational trauma in Punjab, starring Mona Singh and Barun Sobti.
+### OTHER on 2026-02-18 06:51
+- Location: ABC News (AU)
+- Description: Officers are looking for two men who fled on bikes after rocks smashed a glass door, causing panic at a defence industry event in Canberra.
 
 
-### HOMICIDE on 2026-02-18 02:36
-- Location: HuffPost
-- Description: Linda Davis' death has called attention to the dangers of vehicular pursuits.
+### HOMICIDE on 2026-02-18 06:43
+- Location: New York Post
+- Description: Lina Guerra, 39, was found dead inside a freezer in the Norfolk apartment she shared with David Varela, her husband of 11 years, earlier this month.
 
 
-### DRUG RELATED on 2026-02-18 02:35
-- Location: The Punch
-- Description: A foundation has launched a drug abuse campaign, establishing ‘ASACADA clubs’ in schools across Nigeria to combat drug abuse and cultism among youths.
-
-Read More: https://punchng.com/foundation-creates-school-clubs-against-drug-abuse-cultism/
+### SHOOTING on 2026-02-18 06:24
+- Location: New York Post
+- Description: A 23-year-old woman was shot in the leg in front of a building on Wyckoff Avenue and Stephen Street in Ridgewood.
 
 
-### OTHER on 2026-02-18 02:25
-- Location: The Indian Express
-- Description: For many political leaders, power is not only to be exercised but also displayed. The authority to transfer and appoint officers is one such pompous display. It also allows them to reward loyalty and punish independence.
+### OTHER on 2026-02-18 06:08
+- Location: ABC News (AU)
+- Description: Raptor Squad detectives are treating three separate incidents as linked to a conflict between two organised criminal networks.
 
 
-### OTHER on 2026-02-18 02:19
-- Location: The Indian Express
-- Description: Sometime in 2004-5, talent scouts from Australia arrived in Jharkhand’s tribal districts and flung a strange-looking, oblong ball at anyone who seemed interested. And then, just like that, a new sport was born.
-With inputs from Shubham Tigga
+### OTHER on 2026-02-18 06:02
+- Location: Mypeoplesreview.com
+- Description: By Rabi Raj Thapa Recently, two incidents that have rocked the Nepali psyche in two different ways. The first is […]
+The post Uninformed dancer and venomous writer appeared first on Peoples' Review.
 
-Analysis generated at: Thu Feb 19 02:38:29 UTC 2026
+Analysis generated at: Thu Feb 19 06:54:47 UTC 2026
