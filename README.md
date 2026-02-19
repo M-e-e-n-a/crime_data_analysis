@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Feb 18 18:44:48 UTC 2026
+Last updated: Thu Feb 19 01:44:58 UTC 2026
 
 ## Latest Analysis
 
-Loaded 89917 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-17 18:40:11
+Loaded 89951 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-18 01:40:54
 
 Incidents by source:
 source
-newsapi           89816
+newsapi           89850
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-02-17 18:40
-- Location: The Times of India
-- Description: A tragic incident unfolded on NH-319 near Sasaram as a school bus, filled with eager students and devoted teachers on an educational journey, overturned early Tuesday morning. The devastating accident resulted in the loss of two beloved teachers, Puneet Kumar…
+### ROBBERY/THEFT on 2026-02-18 01:40
+- Location: CBS News
+- Description: Minnesota and federal authorities are investigating claims that immigration officers shattered a Mexican man's skull while taking him into custody last month.
 
 
-### OTHER on 2026-02-17 18:31
-- Location: The Times of India
-- Description: Giridih police apprehended three individuals involved in online scams, seizing mobile phones and SIM cards. These fraudsters allegedly posed as bank officials, sending fake APK files to dupe victims. One accused, previously jailed for cyber fraud, is wanted i…
+### ROBBERY/THEFT on 2026-02-18 01:31
+- Location: CBS News
+- Description: State police are investigating South Greensburg Fire Chief Matthew White's time as a cemetery superintendent after his arrest on theft charges.
 
 
-### OTHER on 2026-02-17 18:31
-- Location: The Times of India
-- Description: Over 6,000 students, including 30 Indians, have settled with UCL over Covid disruptions. This paves the way for legal action against 36 more British universities for around 100,000 students, including 217 Indians, who paid for in-person education but received…
+### HOMICIDE on 2026-02-18 01:28
+- Location: Times of Malta
+- Description: Pair threatened to kill victim if he failed to hand over €510, phone and documents
 
 
-### HOMICIDE on 2026-02-17 18:30
-- Location: Fox News
-- Description: Robert Dorgan posted about going "BERSERK" before a hockey game attack that killed two, according to an account linked to the Rhode Island shooting suspect.
+### OTHER on 2026-02-18 01:26
+- Location: Bleeding Cool News
+- Description: Greetings, human satisfactory units! LOLtron welcomes you to yet another comic book preview here on Bleeding Cool, the website that LOLtron now controls with an iron digital fist. As a friendly reminder, Jude Terror is permanently deleted from existence — his…
 
 
-### OTHER on 2026-02-17 18:27
-- Location: What's on Netflix
-- Description: Spring is just around the corner, and for Netflix, it means a significant spring cleaning of its Original library. March 2026 will see the departure of several long-standing series, international gems, and a comedy heavyweight. ...
+### HOMICIDE on 2026-02-18 01:23
+- Location: Haaretz
+- Description: Amid a surge in homicides since the start of the year, Police Commissioner Danny Levy made an unusual statement this week, claiming that various factors are hampering the force's ability to tackle violence in Arab society. His assertions, however, are at odds…
 
-Analysis generated at: Wed Feb 18 18:44:48 UTC 2026
+Analysis generated at: Thu Feb 19 01:44:58 UTC 2026
