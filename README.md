@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Feb 19 13:18:33 UTC 2026
+Last updated: Thu Feb 19 18:44:06 UTC 2026
 
 ## Latest Analysis
 
-Loaded 90050 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-18 13:10:54
+Loaded 90147 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-18 18:42:21
 
 Incidents by source:
 source
-newsapi           89949
+newsapi           90046
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-02-18 13:10
-- Location: The Conversation Africa
-- Description: The court found Palestine Action’s activities had not yet reached the level, scale and persistence that would justify proscription.
+### OTHER on 2026-02-18 18:42
+- Location: The Indian Express
+- Description: Agency has named nine policemen as accused and wants them to be tried in court as per law
 
 
-### OTHER on 2026-02-18 13:10
+### OTHER on 2026-02-18 18:42
+- Location: The Indian Express
+- Description: “The three men decided to take her to a lodge in Katraj, but instead drove her to a secluded spot near a stone quarry in Mangdewadi,” he said. After reaching the location, three more men arrived: Mahadev Arjun Bhorade (40), Sai Amit Pujari (19), and Sohail Ha…
+
+
+### OTHER on 2026-02-18 18:41
+- Location: New York Post
+- Description: A new jury selection will begin next week.
+
+
+### OTHER on 2026-02-18 18:40
 - Location: Abcnews.com
-- Description: The American skiing star broke her leg in Olympic competition and underwent multiple surgeries.
+- Description: The family of the late Rev. Jesse Jackson spoke about his life and legacy during a news conference in Chicago.
 
 
-### OTHER on 2026-02-18 13:06
-- Location: Demilked.com
-- Description: Celebs who had the most bizarre exits from the limelight.
-The post 35 Times A Celebrity Disappeared From The Public Eye In A Strange Way appeared first on DeMilked.
+### SHOOTING on 2026-02-18 18:38
+- Location: Abcnews.com
+- Description: A good Samaritan who helped stop a shooter at a hockey game in Pawtucket, Rhode Island, is speaking out.
 
-
-### ROBBERY/THEFT on 2026-02-18 13:06
-- Location: Boston Herald
-- Description: Wexner's name appears more than 1,000 times in the Epstein files
-
-
-### ASSAULT on 2026-02-18 13:05
-- Location: Associated Press
-- Description: Police say actor Shia LaBeouf has been arrested after being accused of hitting two men during Mardi Gras celebrations in New Orleans. New Orleans police say in a statement that LaBeouf has been charged with two counts of simple battery. Police say LaBeouf “wa…
-
-Analysis generated at: Thu Feb 19 13:18:33 UTC 2026
+Analysis generated at: Thu Feb 19 18:44:06 UTC 2026
