@@ -1,10 +1,10 @@
 
-Loaded 90043 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-18 12:46:59
+Loaded 90050 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-18 13:10:54
 
 Incidents by source:
 source
-newsapi           89942
+newsapi           89949
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-02-18 12:46
-- Location: The Indian Express
-- Description: Mere suspicion or conjecture cannot substitute for proof, the sessions court observed as it acquitted the father.
+### OTHER on 2026-02-18 13:10
+- Location: The Conversation Africa
+- Description: The court found Palestine Action’s activities had not yet reached the level, scale and persistence that would justify proscription.
 
 
-### HOMICIDE on 2026-02-18 12:44
-- Location: New York Post
-- Description: “While there are many questions being asked, please know we are focused on all of those who have been injured and whose lives have been forever changed."
+### OTHER on 2026-02-18 13:10
+- Location: Abcnews.com
+- Description: The American skiing star broke her leg in Olympic competition and underwent multiple surgeries.
 
 
-### OTHER on 2026-02-18 12:40
-- Location: Mediatakeout.com
-- Description: British actor Noel Clarke has been arrested in connection with allegations stemming from incidents reported to have occurred more than a decade ago. The Metropolitan Police confirmed that a man in his 50s was taken into custody on Feb. 10 on suspicion of atte…
+### OTHER on 2026-02-18 13:06
+- Location: Demilked.com
+- Description: Celebs who had the most bizarre exits from the limelight.
+The post 35 Times A Celebrity Disappeared From The Public Eye In A Strange Way appeared first on DeMilked.
 
 
-### ROBBERY/THEFT on 2026-02-18 12:38
-- Location: Cointelegraph
-- Description: Social engineering and impersonation-related scams were the most frequent attack vectors targeting crypto investors in AMLBot’s own investigations last year.
+### ROBBERY/THEFT on 2026-02-18 13:06
+- Location: Boston Herald
+- Description: Wexner's name appears more than 1,000 times in the Epstein files
 
 
-### HOMICIDE on 2026-02-18 12:33
-- Location: Fox News
-- Description: The trans suspect who opened fire at a Rhode Island ice rink killed his ex-wife and adult son, authorities said, as his daughter alleged a “vendetta."
+### ASSAULT on 2026-02-18 13:05
+- Location: Associated Press
+- Description: Police say actor Shia LaBeouf has been arrested after being accused of hitting two men during Mardi Gras celebrations in New Orleans. New Orleans police say in a statement that LaBeouf has been charged with two counts of simple battery. Police say LaBeouf “wa…
 
-Analysis generated at: Thu Feb 19 12:52:57 UTC 2026
+Analysis generated at: Thu Feb 19 13:18:33 UTC 2026
