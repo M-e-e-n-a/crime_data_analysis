@@ -1,10 +1,10 @@
 
-Loaded 90172 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-19 02:24:50
+Loaded 90195 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-19 06:47:37
 
 Incidents by source:
 source
-newsapi           90071
+newsapi           90094
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2026-02-19 02:24
-- Location: Fox News
-- Description: Third suspect arrested in alleged brutal North Carolina home invasion involving sexual assault, kidnapping charges. ICE detainers placed on two suspects.
+### ROBBERY/THEFT on 2026-02-19 06:47
+- Location: Japan Today
+- Description: Australian police said on Thursday they had launched an investigation after a threatening letter was sent to the country’s largest ‌mosque, the third such incident in the lead-up to the Muslim fasting month of Ramadan. The letter sent to Lakemba Mosque in Syd…
 
 
-### OTHER on 2026-02-19 02:02
-- Location: New York Post
-- Description: A head-scratching campaign blasting across LADOT buses has riders doing a double take — and sometimes sitting through it on repeat for hours.
+### ROBBERY/THEFT on 2026-02-19 06:33
+- Location: Israelnationalnews.com
+- Description: Three Israelis stole property from victims of the Supernova festival just hours after the massacre.
 
 
-### HOMICIDE on 2026-02-19 01:46
-- Location: The Times of India
-- Description: A new psychological thriller, 56 Days, has arrived in India. The series explores a passionate relationship that takes a dark turn. It combines romance with a chilling murder investigation. The story unfolds across two timelines, revealing secrets and a shocki…
+### ROBBERY/THEFT on 2026-02-19 06:33
+- Location: BBC News
+- Description: Wanted for multiple counts of theft, the suspect was caught outside a temple on the outskirts of Bangkok.
 
 
-### HOMICIDE on 2026-02-19 01:40
-- Location: Haaretz
-- Description: Far-right police minister Itamar Ben-Gvir rushed to defend the officer, drawing allegations of 'racism.' Elsewhere, three men were killed in separate incidents across Israel on Wednesday
+### HOMICIDE on 2026-02-19 06:19
+- Location: ABC News (AU)
+- Description: A statement made by murdered woman Irma Palasics after a burglary at her home a year prior is read to the ACT Supreme Court.
 
 
-### HOMICIDE on 2026-02-19 01:40
-- Location: Haaretz
-- Description: Far-right police minister Itamar Ben-Gvir rushed to defend the officer, drawing allegations of 'racism.' Elsewhere, three men were killed in separate incidents across Israel on Wednesday
+### ROBBERY/THEFT on 2026-02-19 06:01
+- Location: RTE
+- Description: Vehicles and large pieces of machinery - including quad bikes, jeeps, trailers and skid-steers - are being stolen from farms across the country, often under the cover of darkness, CCTV footage obtained by Prime Time shows.
 
-Analysis generated at: Fri Feb 20 02:33:16 UTC 2026
+Analysis generated at: Fri Feb 20 06:49:01 UTC 2026
