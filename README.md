@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Feb 21 02:27:12 UTC 2026
+Last updated: Sat Feb 21 06:36:02 UTC 2026
 
 ## Latest Analysis
 
-Loaded 90396 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-20 02:16:48
+Loaded 90427 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-20 06:32:06
 
 Incidents by source:
 source
-newsapi           90295
+newsapi           90326
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-02-20 02:16
-- Location: The Times of India
-- Description: India News: Raipur: Chhattisgarh HC has dismissed a juvenile's appeal for bail in a 2025 murder case, saying such relief can't be treated as an absolute or automa.
+### ASSAULT on 2026-02-20 06:32
+- Location: Slashdot.org
+- Description: Man allegedly assaulted by Shia LaBeouf in New Orleans wants to see hate crime chargesThe Guardian Actor Shia LaBeouf seen dancing on Bourbon Street after arrestWGNO Actor Shia LaBeouf used homophobic slurs before Mardi Gras arrest: reportwwltv.com Shia LaBeo…
 
 
-### OTHER on 2026-02-20 02:16
-- Location: CNA
-- Description: BANGKOK: Thai police donned a lion dance costume during this week's Chinese New Year festivities to arrest a suspect accused of stealing about US$64,000 worth of Buddhist artefacts, police said on Thursday (Feb 19).Officers dressed as a red-and-yellow lion ma…
+### OTHER on 2026-02-20 06:30
+- Location: Independent.ie
+- Description: Detectives are continuing searches of Andrew Mountbatten-Windsor’s former home in Berkshire following his release from custody after he was arrested on suspicion of misconduct in public office.
 
 
-### OTHER on 2026-02-20 02:10
-- Location: Bleeding Cool News
-- Description: It's never too early for a look at what's ahead with ABC and Showrunners Liz Heldens & Daniel Thomsen's Ramón Rodríguez-starring Will Trent, right? We're glad you agree, because we have a look at the official overview and image gallery for S04E08: "We're Look…
+### OTHER on 2026-02-20 06:30
+- Location: Independent.ie
+- Description: King Charles' younger brother Andrew Mountbatten-Windsor was released from police custody on Thursday evening after being arrested on suspicion of misconduct in public office over allegations he sent confidential government documents to Jeffrey Epstein.
 
 
-### OTHER on 2026-02-20 02:05
-- Location: Fox News
-- Description: A bullet found in a United Airlines overhead bin at Newark airport caused a scary security incident for passengers. The ammunition discovery caused a three-hour delay in departure.
+### OTHER on 2026-02-20 06:30
+- Location: Independent.ie
+- Description: Detectives are continuing searches of Andrew Mountbatten-Windsor’s former home in Berkshire following his release from custody after he was arrested on suspicion of misconduct in public office.
 
 
-### HOMICIDE on 2026-02-20 02:00
-- Location: Allthatsinteresting.com
-- Description: Between 1944 and 1949, British serial killer John George Haigh murdered at least six people, destroyed their remains in acid, and stole their assets.
-The post John Haigh, The ‘Acid Bath Killer’ Who Dissolved His Victims In Vats Of Sulfuric Acid appeared first…
+### OTHER on 2026-02-20 06:16
+- Location: ABC News (AU)
+- Description: Tylere Baker-Pearce, 39, was initially charged with giving the salute at the Gabba, and was later hit with two additional counts of the alleged offence.
 
-Analysis generated at: Sat Feb 21 02:27:12 UTC 2026
+Analysis generated at: Sat Feb 21 06:36:02 UTC 2026
