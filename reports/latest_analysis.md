@@ -1,10 +1,10 @@
 
-Loaded 90427 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-20 06:32:06
+Loaded 90498 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-20 12:33:42
 
 Incidents by source:
 source
-newsapi           90326
+newsapi           90397
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2026-02-20 06:32
-- Location: Slashdot.org
-- Description: Man allegedly assaulted by Shia LaBeouf in New Orleans wants to see hate crime chargesThe Guardian Actor Shia LaBeouf seen dancing on Bourbon Street after arrestWGNO Actor Shia LaBeouf used homophobic slurs before Mardi Gras arrest: reportwwltv.com Shia LaBeo…
+### OTHER on 2026-02-20 12:33
+- Location: The Times of India
+- Description: A CNN royal commentator warns that Prince Andrew's recent arrest in the UK could cast a significant shadow over King Charles III's reign. The arrest, stemming from an investigation into alleged misconduct in public office related to Jeffrey Epstein, might for…
 
 
-### OTHER on 2026-02-20 06:30
-- Location: Independent.ie
-- Description: Detectives are continuing searches of Andrew Mountbatten-Windsor’s former home in Berkshire following his release from custody after he was arrested on suspicion of misconduct in public office.
+### ASSAULT on 2026-02-20 12:28
+- Location: Lithub.com
+- Description: I’m sorry I called you “dog boy” that July morning, dear Mohammad. “That’s enough, my love,” you said, your final words as you petted the Israeli attack dog that mangled you limb to limb and ate your flesh alive. “That’s
 
 
-### OTHER on 2026-02-20 06:30
-- Location: Independent.ie
-- Description: King Charles' younger brother Andrew Mountbatten-Windsor was released from police custody on Thursday evening after being arrested on suspicion of misconduct in public office over allegations he sent confidential government documents to Jeffrey Epstein.
+### OTHER on 2026-02-20 12:16
+- Location: The Times of India
+- Description: Bomb hoaxes continue to target Delhi schools. Police face challenges tracing threats due to VPNs and encrypted emails. Perpetrators use international servers and privacy-focused services. Tracing these digital phantoms is a complex and often frustrating task …
 
 
-### OTHER on 2026-02-20 06:30
-- Location: Independent.ie
-- Description: Detectives are continuing searches of Andrew Mountbatten-Windsor’s former home in Berkshire following his release from custody after he was arrested on suspicion of misconduct in public office.
+### OTHER on 2026-02-20 12:15
+- Location: The Indian Express
+- Description: Former MUDA commissioner D B Natesh lodged a complaint alleging that forged documents and fabricated audio clips were circulated on Facebook to tarnish his image.
 
 
-### OTHER on 2026-02-20 06:16
-- Location: ABC News (AU)
-- Description: Tylere Baker-Pearce, 39, was initially charged with giving the salute at the Gabba, and was later hit with two additional counts of the alleged offence.
+### OTHER on 2026-02-20 12:14
+- Location: NPR
+- Description: The U.S. buildup in the Middle East has reached a critical mass that could put pressure on Iran in negotiations. And, Trump unveils big plans for Gaza during the first-ever Board of Peace meeting.
 
-Analysis generated at: Sat Feb 21 06:36:02 UTC 2026
+Analysis generated at: Sat Feb 21 12:35:18 UTC 2026
