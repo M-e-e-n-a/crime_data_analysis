@@ -1,10 +1,10 @@
 
-Loaded 90498 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-20 12:33:42
+Loaded 90501 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-20 12:56:05
 
 Incidents by source:
 source
-newsapi           90397
+newsapi           90400
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,6 +20,21 @@ bution.svg)
 
 ## Recent Incidents
 
+### OTHER on 2026-02-20 12:56
+- Location: BusinessLine
+- Description: Former Jaypee Infratech MD Manoj Gaur surrenders to Tihar Jail after court denies bail in a ₹14,599-crore fraud case.
+
+
+### HOMICIDE on 2026-02-20 12:50
+- Location: Sky.com
+- Description: Thisara Weragalage, 38, admitted murdering his 32-year-old wife, Niwunhellage Dona Nirodha Kalpani Niwunhella, who was known as Nirodha, last year.
+
+
+### OTHER on 2026-02-20 12:49
+- Location: The Times of India
+- Description: Officials said Gaur, who had secured interim bail, surrendered on Thursday and is now lodged in Tihar Jail. Jaiprakash Power Ventures Ltd also filed a regulatory update on Friday stating that Gaur, a non-executive director and chairman of the company, has "su…
+
+
 ### OTHER on 2026-02-20 12:33
 - Location: The Times of India
 - Description: A CNN royal commentator warns that Prince Andrew's recent arrest in the UK could cast a significant shadow over King Charles III's reign. The arrest, stemming from an investigation into alleged misconduct in public office related to Jeffrey Epstein, might for…
@@ -29,19 +44,4 @@ bution.svg)
 - Location: Lithub.com
 - Description: I’m sorry I called you “dog boy” that July morning, dear Mohammad. “That’s enough, my love,” you said, your final words as you petted the Israeli attack dog that mangled you limb to limb and ate your flesh alive. “That’s
 
-
-### OTHER on 2026-02-20 12:16
-- Location: The Times of India
-- Description: Bomb hoaxes continue to target Delhi schools. Police face challenges tracing threats due to VPNs and encrypted emails. Perpetrators use international servers and privacy-focused services. Tracing these digital phantoms is a complex and often frustrating task …
-
-
-### OTHER on 2026-02-20 12:15
-- Location: The Indian Express
-- Description: Former MUDA commissioner D B Natesh lodged a complaint alleging that forged documents and fabricated audio clips were circulated on Facebook to tarnish his image.
-
-
-### OTHER on 2026-02-20 12:14
-- Location: NPR
-- Description: The U.S. buildup in the Middle East has reached a critical mass that could put pressure on Iran in negotiations. And, Trump unveils big plans for Gaza during the first-ever Board of Peace meeting.
-
-Analysis generated at: Sat Feb 21 12:35:18 UTC 2026
+Analysis generated at: Sat Feb 21 12:59:31 UTC 2026
