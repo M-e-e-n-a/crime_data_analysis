@@ -1,10 +1,10 @@
 
-Loaded 90370 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-19 18:37:25
+Loaded 90386 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-20 01:18:11
 
 Incidents by source:
 source
-newsapi           90269
+newsapi           90285
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-02-19 18:37
-- Location: The Conversation Africa
-- Description: The British monarch is immune from criminal liability and certain other privileges apply to senior royals.
+### OTHER on 2026-02-20 01:18
+- Location: New York Post
+- Description: "I've been receiving tons of threatening phone calls," said Stamos-Buesig. "They're saying that Amy is innocent and it's all my fault, and I'm the one that's bad person."
 
 
-### OTHER on 2026-02-19 18:37
-- Location: The Conversation Africa
-- Description: The British monarch is immune from criminal liability and certain other privileges apply to senior royals.
+### OTHER on 2026-02-20 01:01
+- Location: WFTV Orlando
+- Description: Daytona Beach Police have launched an internal investigation to learn why an officer let a man go after he hit someone with a sledgehammer.
 
 
-### OTHER on 2026-02-19 18:36
+### DRUG RELATED on 2026-02-20 00:58
 - Location: The Times of India
-- Description: King Charles expressed deep concern over his brother Andrew's arrest, assuring full royal family cooperation with authorities. He emphasized that the law must take its course, with the investigation proceeding fairly. The Prince and Princess of Wales reported…
+- Description: Delhi Police's special cell has apprehended Khusnuma Ansari, also known as Neha, a key associate of Mahfuz, alias Bobby Kabootar. Authorities allege Ansari was instrumental in managing a drug network connected to the Lawrence Bishnoi gang. Mahfuz, previously …
 
 
-### OTHER on 2026-02-19 18:36
-- Location: The Times of India
-- Description: Navi Mumbai: The State Excise Department laid a trap in Poyanje and Tupgaon village on the old Mumbai-Pune highway in Panvel taluka on Feb 18 and seiz.
+### HOMICIDE on 2026-02-20 00:56
+- Location: New York Post
+- Description: She pleaded “not guilty” for the grizzly crime.
 
 
-### OTHER on 2026-02-19 18:35
-- Location: Slate Magazine
-- Description: The last time this happened 400 years ago, the British royal in question was executed.
+### OTHER on 2026-02-20 00:53
+- Location: New York Post
+- Description: “Don’t tread on me” used to be a slogan conservatives and libertarians alike could rally around.
 
-Analysis generated at: Fri Feb 20 18:38:45 UTC 2026
+Analysis generated at: Sat Feb 21 01:26:19 UTC 2026
