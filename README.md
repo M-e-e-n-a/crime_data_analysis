@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Feb 21 18:27:26 UTC 2026
+Last updated: Sun Feb 22 01:43:10 UTC 2026
 
 ## Latest Analysis
 
-Loaded 90586 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-20 18:21:00
+Loaded 90611 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-21 01:42:39
 
 Incidents by source:
 source
-newsapi           90485
+newsapi           90510
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,30 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-02-20 18:21
-- Location: Sky.com
-- Description: The families of a teenage couple who died from suspected carbon monoxide poisoning at a holiday park in east Yorkshire have paid tribute.
+### SHOOTING on 2026-02-21 01:42
+- Location: WHIO
+- Description: ChatGPT-maker OpenAI says it considered alerting Canadian police last year about the activities of a person who months later committed one of the worst school shootings in the country’s history
 
 
-### OTHER on 2026-02-20 18:17
-- Location: Decider
-- Description: As The Rookie Season 8 winds down on ABC, many fans may be wondering if the show will be renewed.
+### HOMICIDE on 2026-02-21 01:30
+- Location: The Indian Express
+- Description: The Karnataka High Court granted bail to a man accused of mob-lynching a person of unsound mind to death.
 
 
-### OTHER on 2026-02-20 18:09
-- Location: The Punch
-- Description: The Police Service Commission (PSC) has approved the promotion of AIG Fayoade Mustapha to the rank of Deputy Inspector General of Police after his intervie
-
-Read More: https://punchng.com/psc-promotes-another-aig-to-deputy-inspector-general-of-police/
-
-
-### ASSAULT on 2026-02-20 18:03
-- Location: Boston Herald
-- Description: A video shows LaBeouf shoving one person to the ground and hitting another in the face.
-
-
-### DRUG RELATED on 2026-02-20 18:03
+### SHOOTING on 2026-02-21 01:20
 - Location: CBC News
-- Description: Rolan Sokolovski, described by U.S. authorities as a chief money launderer for alleged drug kingpin Ryan Wedding, has been denied bail. An Ontario court found it's likely the Toronto jeweller has access to "substantial, undisclosed" cryptocurrency, making him…
+- Description: The company said, in response to questions from CBC News, that Jesse Van Rootselaar's account was detected via automated tools and human investigations that "identify misuses of our models in furtherance of violent activities."
 
-Analysis generated at: Sat Feb 21 18:27:26 UTC 2026
+
+### HOMICIDE on 2026-02-21 01:17
+- Location: CBC News
+- Description: Before he was shot dead on a GO Transit bus in Toronto in January, Osemwengie Irorere hoped to become a nurse to create a better life for his wife and four children back home, a family member says.
+
+
+### OTHER on 2026-02-21 01:15
+- Location: Screen Rant
+- Description: Tom Hardy is a specialist in gritty gangster roles, but this sublime performance has slipped under the radar. Don't miss it before it leaves Netflix.
+
+Analysis generated at: Sun Feb 22 01:43:10 UTC 2026
