@@ -1,10 +1,10 @@
 
-Loaded 90611 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-21 01:42:39
+Loaded 90615 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-21 02:24:28
 
 Incidents by source:
 source
-newsapi           90510
+newsapi           90514
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
+### SHOOTING on 2026-02-21 02:24
+- Location: Associated Press
+- Description: ChatGPT-maker OpenAI says it considered alerting Canadian police last year about the activities of a person who months later committed one of the worst school shootings in the country’s history. OpenAI says last June the company identified the account of Jess…
+
+
+### SHOOTING on 2026-02-21 02:13
+- Location: The Times of India
+- Description: ChatGPT-maker OpenAI said Friday it considered last year alerting Canadian police about the activities of a person who months later committed one of the worst school shootings in the country's history.
+
+
+### SHOOTING on 2026-02-21 02:00
+- Location: Japan Today
+- Description: ChatGPT-maker OpenAI said Friday it considered last year alerting Canadian police about the activities of a person who months later committed one of the worst school shootings in the country’s history.  OpenAI said last June the company identified the account…
+
+
+### OTHER on 2026-02-21 01:48
+- Location: Twistedsifter.com
+- Description: Always document everything!
+
+
 ### SHOOTING on 2026-02-21 01:42
 - Location: WHIO
 - Description: ChatGPT-maker OpenAI says it considered alerting Canadian police last year about the activities of a person who months later committed one of the worst school shootings in the country’s history
 
-
-### HOMICIDE on 2026-02-21 01:30
-- Location: The Indian Express
-- Description: The Karnataka High Court granted bail to a man accused of mob-lynching a person of unsound mind to death.
-
-
-### SHOOTING on 2026-02-21 01:20
-- Location: CBC News
-- Description: The company said, in response to questions from CBC News, that Jesse Van Rootselaar's account was detected via automated tools and human investigations that "identify misuses of our models in furtherance of violent activities."
-
-
-### HOMICIDE on 2026-02-21 01:17
-- Location: CBC News
-- Description: Before he was shot dead on a GO Transit bus in Toronto in January, Osemwengie Irorere hoped to become a nurse to create a better life for his wife and four children back home, a family member says.
-
-
-### OTHER on 2026-02-21 01:15
-- Location: Screen Rant
-- Description: Tom Hardy is a specialist in gritty gangster roles, but this sublime performance has slipped under the radar. Don't miss it before it leaves Netflix.
-
-Analysis generated at: Sun Feb 22 01:43:10 UTC 2026
+Analysis generated at: Sun Feb 22 02:39:11 UTC 2026
