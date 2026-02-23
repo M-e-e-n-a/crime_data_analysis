@@ -1,10 +1,10 @@
 
-Loaded 90775 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-22 06:50:02
+Loaded 90802 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-22 12:07:47
 
 Incidents by source:
 source
-newsapi           90674
+newsapi           90701
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-02-22 06:50
-- Location: Starweekly.com.au
-- Description: Police are appealing for information as part of their investigation into the suspicious disappearance of Brendan Breen 14 years ago. The then 55-year-old was last seen in Melbourne on 12 April, 2012. He was then reported missing to police on 9 May 2012 by his…
+### OTHER on 2026-02-22 12:07
+- Location: Globalsecurity.org
+- Description: Former President Yoon Suk Yeol has been sentenced to life in prison for masterminding the failed attempt at martial law on Dec. 3, 2024.
 
 
-### OTHER on 2026-02-22 06:33
-- Location: The Star Online
-- Description: KUALA LUMPUR: Police recorded 100 love scam cases involving losses of RM3.5mil in January this year, an increase of 5 cases compared to January 2025. Read full story
-
-
-### ROBBERY/THEFT on 2026-02-22 06:28
-- Location: DW (English)
-- Description: Videos that suggest China may be building a robot army sound like science fiction, but social media says it's real. DW Fact Check investigates.
-
-
-### OTHER on 2026-02-22 06:26
+### OTHER on 2026-02-22 12:02
 - Location: The Times of India
-- Description: The side profile features pronounced wheel arches housing 18-inch wheels with 33-inch off-road tyres, along with extensive cladding. Conventional mirrors are replaced by detachable cameras that can function as flashlights. The SUV has rear-hinged back doors a…
+- Description: The Knight First Amendment Institute has launched "Reconstructing Free Expression" to strengthen First Amendment protections amid campus tensions. This research initiative will examine legislation and institutional practices, aiming to provide a blueprint for…
 
 
-### OTHER on 2026-02-22 06:10
-- Location: Mypeoplesreview.com
-- Description: By Sharachchandra Bhandary Nepal’s cooperative sector, comprising over 30,000 institutions and more than seven million members, plays a vital role […]
-The post Nepal’s cooperatives at risk: Legal concerns over RSP’s policy appeared first on Peoples' Review.
+### OTHER on 2026-02-22 12:00
+- Location: Fox News
+- Description: Declassified Argentine files reveal how Nazi war criminals Adolf Eichmann and Walter Kutschmann lived openly in South America for decades after World War II.
 
-Analysis generated at: Mon Feb 23 06:58:44 UTC 2026
+
+### OTHER on 2026-02-22 12:00
+- Location: NBC News
+- Description: In and out of court, more than half of the amendments in the Bill of Rights are being fought over as a result of Trump’s immigration enforcement surge in Minnesota.
+
+
+### OTHER on 2026-02-22 12:00
+- Location: The Atlantic
+- Description: Culture and entertainment recommendations including The Devil Wears Prada, Agatha Christie novels, and more
+
+Analysis generated at: Mon Feb 23 12:52:19 UTC 2026
