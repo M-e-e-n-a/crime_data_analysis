@@ -1,10 +1,10 @@
 
-Loaded 90735 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-21 18:23:13
+Loaded 90746 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-22 01:29:21
 
 Incidents by source:
 source
-newsapi           90634
+newsapi           90645
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2026-02-21 18:23
-- Location: The Daily Caller
-- Description: A Virginia Tech professor alleged white teens committed hate crime, but police found they were just clearing snow. A progressive group had already cried racism.
+### OTHER on 2026-02-22 01:29
+- Location: The Indian Express
+- Description: The family complained to the Child Welfare Committee after the girl narrated her ordeal to her mother last month
 
 
-### OTHER on 2026-02-21 18:15
-- Location: Mediaite
-- Description: Leland Vittert was so aggressive in his questioning of Melanie Stansburyon the Epstein files Friday that Julie K. Brown felt compelled to comment on X.
-The post Epstein Files Journo Slams NewsNation Host As ‘Misogynistic and Unprofessional’ Over Heated Throwd…
+### HOMICIDE on 2026-02-22 01:21
+- Location: RTE
+- Description: A reward of up to £20,000 has been offered for information about the "ruthless" attempted murder of a man in west Belfast one year ago.
 
 
-### HOMICIDE on 2026-02-21 18:06
+### HOMICIDE on 2026-02-22 01:21
+- Location: RTE
+- Description: A reward of up to £20,000 has been offered for information about the "ruthless" attempted murder of a man in west Belfast last year.
+
+
+### HOMICIDE on 2026-02-22 01:20
+- Location: Thegatewaypundit.com
+- Description: Detectives for the Montgomery County Department of Police in Maryland have released a surveillance video of a suspect who is wanted in connection with the murder of an 87-year-old millionaire philanthropist.
+The post Authorities Release Video of Suspect in Mu…
+
+
+### HOMICIDE on 2026-02-22 01:15
 - Location: New York Post
-- Description: Two people were killed and seven others were hurt in a shooting during an apparent fight on a street in an entertainment district, the police chief in Richmond, Virginia, said Saturday.
+- Description: Federal officials will probe a fiery car crash in Long Beach early Saturday that left four dead. Police responded to the scene of the single-vehicle collision at around 1:18 a.m. in the area of East Spring Street and Lakewood Boulevard, ABC 7 reported. Firefi…
 
-
-### OTHER on 2026-02-21 18:06
-- Location: Statetimes.in
-- Description: JAMMU: The Special Crime Wing of Jammu and Kashmir Police’s Crime Branch on Saturday filed a chargesheet against a fraudster who has duped a person on the pretext of selling land here, an official said. The chargesheet was filed against Rajinder Singh Manhas,…
-
-
-### HOMICIDE on 2026-02-21 18:04
-- Location: Alltoc.com
-- Description: The criminal case and early court developments A former American Idol contestant has been arrested and charged in connection with the death of his wife. Court documents and local reports allege the shooting took place inside the family home while the couple’s…
-
-Analysis generated at: Sun Feb 22 18:28:20 UTC 2026
+Analysis generated at: Mon Feb 23 01:44:02 UTC 2026
