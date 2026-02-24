@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Feb 24 12:53:29 UTC 2026
+Last updated: Tue Feb 24 13:18:30 UTC 2026
 
 ## Latest Analysis
 
-Loaded 91006 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-23 12:52:23
+Loaded 91009 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-23 13:05:00
 
 Incidents by source:
 source
-newsapi           90905
+newsapi           90908
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,6 +24,21 @@ bution.svg)
 
 ## Recent Incidents
 
+### HOMICIDE on 2026-02-23 13:05
+- Location: The Irish Times
+- Description: The man’s defence team has appealed the decision
+
+
+### HOMICIDE on 2026-02-23 13:02
+- Location: The Star Online
+- Description: JOHANNESBURG, Feb 23 (Reuters) - ⁠The youngest son of Zimbabwe's former leader ⁠Robert Mugabe appeared in a South African court ‌on Monday, charged with attempted murder after a gardener was shot and wounded last week at the Johannesburg mansion where ​Mugabe…
+
+
+### OTHER on 2026-02-23 13:00
+- Location: The Denver Post
+- Description: "It's in the top 10 pickup opportunities for Democrats" nationally, said Erin Covey, the U.S. House editor for the Cook Political Report, of the race for Colorado's 8th Congressional District.
+
+
 ### HOMICIDE on 2026-02-23 12:52
 - Location: Abcnews.com
 - Description: The son of Zimbabwe's late ex-President Robert Mugabe faces attempted murder charges in South Africa after a shooting at his home in Johannesburg
@@ -33,19 +48,4 @@ bution.svg)
 - Location: The Times of India
 - Description: Mexican forces killed feared cartel leader El Mencho. This sparked widespread violence and highway blockades. The Jalisco New Generation Cartel, CJNG, is Mexico's most powerful drug group. It possesses immense wealth and global links. CJNG operates like a mil…
 
-
-### OTHER on 2026-02-23 12:45
-- Location: Whyevolutionistrue.com
-- Description: Welcome to the last Monday of the month: it’s Monday, February 23, 2026. In a week it will be March, the Month of Ducks Arrival. It’s also National Tootsie Roll Day, the candy that looks like dung. Here’s a mini: Here’s an ad for the candy in 1918, when the b…
-
-
-### OTHER on 2026-02-23 12:44
-- Location: Africasacountry.com
-- Description: The Federal Capital Territory’s green belts were designed as flood buffers and cooling lungs. But under its current leadership, they are becoming patronage spoils.
-
-
-### HOMICIDE on 2026-02-23 12:31
-- Location: The Times of India
-- Description: Shocking videos showing burning vehicles, blocked highways, and panicked civilians flooded social media after the death of Nemesio Rubén Oseguera Cervantes, widely known as “El Mencho.” The dramatic scenes followed a high-stakes military operation targeting t…
-
-Analysis generated at: Tue Feb 24 12:53:29 UTC 2026
+Analysis generated at: Tue Feb 24 13:18:30 UTC 2026
