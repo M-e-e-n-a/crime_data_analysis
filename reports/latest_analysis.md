@@ -1,10 +1,10 @@
 
-Loaded 90876 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-23 01:25:30
+Loaded 90886 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-23 02:24:00
 
 Incidents by source:
 source
-newsapi           90775
+newsapi           90785
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,30 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2026-02-23 01:25
-- Location: Breitbart News
-- Description: A Lyft driver accused of sexually assaulting his female passenger during a rideshare to a doctor’s appointment is now apparently being sought by U.S. Immigration officials for deportation as an illegal alien.
-The post ICE Levies Retainer Against Cuban Lyft Dr…
+### ASSAULT on 2026-02-23 02:24
+- Location: Activistpost.com
+- Description: Half a century after the public learned that boys at a Belfast group home were sexually assaulted by senior staff, a key question remains unanswered: was British intelligence implicated in the abuse conspiracy, and did Kincora serve as a ‘honeypot’ to entrap …
 
 
-### OTHER on 2026-02-23 01:25
-- Location: Mediaite
-- Description: Anderson Cooper traveled to South Africa to get to the bottom of Donald Trump's claim of a "genocide" of white, predominantly Afrikaner farmers.
-The post 60 Minutes’ Anderson Cooper Debunks Trump’s Claim of ‘Genocide’ of White Farmers in South Africa first ap…
+### HOMICIDE on 2026-02-23 02:22
+- Location: The Times of India
+- Description: The Indian Embassy in Mexico has issued an urgent advisory for Indian nationals to shelter in place. This follows escalating violence across several Mexican states. The unrest began after the killing of cartel leader Nemesio Oseguera, alias 'El Mencho'. The e…
 
 
-### HOMICIDE on 2026-02-23 01:21
-- Location: Thoughtcatalog.com
-- Description: Epstein is dead. Maxwell is in prison. Many victims are still seeking justice. Meanwhile, the woman who replaced Maxwell as the primary beneficiary of his estate just completed an advanced degree a…
+### OTHER on 2026-02-23 02:11
+- Location: Chinadigitaltimes.net
+- Description: CDT presents a monthly series of censored content that has been added to our “404 Deleted Content Archive.” Each month, we publish a summary of content blocked or deleted (often yielding the message “404: content not found”) from Chinese platforms such as WeC…
 
 
-### OTHER on 2026-02-23 01:20
+### OTHER on 2026-02-23 02:06
 - Location: Starcommunity.com.au
 - Description: Tributes have flowed for 16 year old Chris Rue Anthony, who passed away following a collision with a vehicle in Narre Warren. Chris was walking home from school on Friday 13 February about 4:30pm when he was hit by a Toyota station wagon that left Pound Road …
 
 
-### HOMICIDE on 2026-02-23 01:16
-- Location: CBS News
-- Description: Nemesio Rubén Oseguera Cervantes — also known as "El Mencho" — was the leader of the notorious Jalisco New Generation Cartel prior to his death on Sunday.
+### HOMICIDE on 2026-02-23 02:00
+- Location: Fox News
+- Description: Mexican forces killed cartel boss "El Mencho" and seized rocket launchers capable of downing aircraft, revealing CJNG's extensive military arsenal.
 
-Analysis generated at: Tue Feb 24 01:29:40 UTC 2026
+Analysis generated at: Tue Feb 24 02:36:29 UTC 2026
