@@ -1,10 +1,10 @@
 
-Loaded 90930 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-23 06:44:09
+Loaded 91006 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-23 12:52:23
 
 Incidents by source:
 source
-newsapi           90829
+newsapi           90905
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-02-23 06:44
-- Location: ABC News (AU)
-- Description: Nemesio Rubén Oseguera Cervantes died after a gunfight with military personnel. Hours later, vehicles were set alight, roads blocked and shopfronts torched as retaliation in eight states.
+### HOMICIDE on 2026-02-23 12:52
+- Location: Abcnews.com
+- Description: The son of Zimbabwe's late ex-President Robert Mugabe faces attempted murder charges in South Africa after a shooting at his home in Johannesburg
 
 
-### HOMICIDE on 2026-02-23 06:42
-- Location: New York Post
-- Description: “He did what he had to do as a father.”
+### HOMICIDE on 2026-02-23 12:48
+- Location: The Times of India
+- Description: Mexican forces killed feared cartel leader El Mencho. This sparked widespread violence and highway blockades. The Jalisco New Generation Cartel, CJNG, is Mexico's most powerful drug group. It possesses immense wealth and global links. CJNG operates like a mil…
 
 
-### OTHER on 2026-02-23 06:28
-- Location: ABC News (AU)
-- Description: Muslim Australians fear Islamophobia is rising following comments made by One Nation leader Pauline Hanson and in the wake of recent threats against one of Australia's largest mosques.
+### OTHER on 2026-02-23 12:45
+- Location: Whyevolutionistrue.com
+- Description: Welcome to the last Monday of the month: it’s Monday, February 23, 2026. In a week it will be March, the Month of Ducks Arrival. It’s also National Tootsie Roll Day, the candy that looks like dung. Here’s a mini: Here’s an ad for the candy in 1918, when the b…
 
 
-### HOMICIDE on 2026-02-23 06:11
-- Location: Gossiplankanews.com
-- Description: Police have arrested a key suspect in connection with the double murder of lawyer Gayan Buddhika Mallawarachchi and his wife, who were shot dead while seated in their car in the parking lot of a Keells supermarket in Akuregoda. The arrested individual is a 46…
+### OTHER on 2026-02-23 12:44
+- Location: Africasacountry.com
+- Description: The Federal Capital Territory’s green belts were designed as flood buffers and cooling lungs. But under its current leadership, they are becoming patronage spoils.
 
 
-### OTHER on 2026-02-23 06:07
-- Location: Antaranews.com
-- Description: Jakarta Metro Police reported that 23 people were injured in a bus collision involving operators BMP 263 and MYS 17100 on Corridor 13 (Puri Beta-Petukangan) ...
+### HOMICIDE on 2026-02-23 12:31
+- Location: The Times of India
+- Description: Shocking videos showing burning vehicles, blocked highways, and panicked civilians flooded social media after the death of Nemesio Rubén Oseguera Cervantes, widely known as “El Mencho.” The dramatic scenes followed a high-stakes military operation targeting t…
 
-Analysis generated at: Tue Feb 24 06:54:05 UTC 2026
+Analysis generated at: Tue Feb 24 12:53:29 UTC 2026
