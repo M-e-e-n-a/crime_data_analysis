@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Feb 24 02:36:29 UTC 2026
+Last updated: Tue Feb 24 06:54:05 UTC 2026
 
 ## Latest Analysis
 
-Loaded 90886 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-23 02:24:00
+Loaded 90930 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-23 06:44:09
 
 Incidents by source:
 source
-newsapi           90785
+newsapi           90829
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2026-02-23 02:24
-- Location: Activistpost.com
-- Description: Half a century after the public learned that boys at a Belfast group home were sexually assaulted by senior staff, a key question remains unanswered: was British intelligence implicated in the abuse conspiracy, and did Kincora serve as a ‘honeypot’ to entrap …
+### SHOOTING on 2026-02-23 06:44
+- Location: ABC News (AU)
+- Description: Nemesio Rubén Oseguera Cervantes died after a gunfight with military personnel. Hours later, vehicles were set alight, roads blocked and shopfronts torched as retaliation in eight states.
 
 
-### HOMICIDE on 2026-02-23 02:22
-- Location: The Times of India
-- Description: The Indian Embassy in Mexico has issued an urgent advisory for Indian nationals to shelter in place. This follows escalating violence across several Mexican states. The unrest began after the killing of cartel leader Nemesio Oseguera, alias 'El Mencho'. The e…
+### HOMICIDE on 2026-02-23 06:42
+- Location: New York Post
+- Description: “He did what he had to do as a father.”
 
 
-### OTHER on 2026-02-23 02:11
-- Location: Chinadigitaltimes.net
-- Description: CDT presents a monthly series of censored content that has been added to our “404 Deleted Content Archive.” Each month, we publish a summary of content blocked or deleted (often yielding the message “404: content not found”) from Chinese platforms such as WeC…
+### OTHER on 2026-02-23 06:28
+- Location: ABC News (AU)
+- Description: Muslim Australians fear Islamophobia is rising following comments made by One Nation leader Pauline Hanson and in the wake of recent threats against one of Australia's largest mosques.
 
 
-### OTHER on 2026-02-23 02:06
-- Location: Starcommunity.com.au
-- Description: Tributes have flowed for 16 year old Chris Rue Anthony, who passed away following a collision with a vehicle in Narre Warren. Chris was walking home from school on Friday 13 February about 4:30pm when he was hit by a Toyota station wagon that left Pound Road …
+### HOMICIDE on 2026-02-23 06:11
+- Location: Gossiplankanews.com
+- Description: Police have arrested a key suspect in connection with the double murder of lawyer Gayan Buddhika Mallawarachchi and his wife, who were shot dead while seated in their car in the parking lot of a Keells supermarket in Akuregoda. The arrested individual is a 46…
 
 
-### HOMICIDE on 2026-02-23 02:00
-- Location: Fox News
-- Description: Mexican forces killed cartel boss "El Mencho" and seized rocket launchers capable of downing aircraft, revealing CJNG's extensive military arsenal.
+### OTHER on 2026-02-23 06:07
+- Location: Antaranews.com
+- Description: Jakarta Metro Police reported that 23 people were injured in a bus collision involving operators BMP 263 and MYS 17100 on Corridor 13 (Puri Beta-Petukangan) ...
 
-Analysis generated at: Tue Feb 24 02:36:29 UTC 2026
+Analysis generated at: Tue Feb 24 06:54:05 UTC 2026
