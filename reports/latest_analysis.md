@@ -1,10 +1,10 @@
 
-Loaded 90856 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-22 18:53:45
+Loaded 90876 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-23 01:25:30
 
 Incidents by source:
 source
-newsapi           90755
+newsapi           90775
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-02-22 18:53
-- Location: Ibtimes.com.au
-- Description: Mexican security forces killed Nemesio Oseguera Cervantes, the elusive leader of the Jalisco New Generation Cartel (CJNG) known as "El Mencho," during a military operation in the western state of Jalisco on Sunday, February 21, 2026, according to multiple gov…
+### ASSAULT on 2026-02-23 01:25
+- Location: Breitbart News
+- Description: A Lyft driver accused of sexually assaulting his female passenger during a rideshare to a doctor’s appointment is now apparently being sought by U.S. Immigration officials for deportation as an illegal alien.
+The post ICE Levies Retainer Against Cuban Lyft Dr…
 
 
-### HOMICIDE on 2026-02-22 18:52
+### OTHER on 2026-02-23 01:25
+- Location: Mediaite
+- Description: Anderson Cooper traveled to South Africa to get to the bottom of Donald Trump's claim of a "genocide" of white, predominantly Afrikaner farmers.
+The post 60 Minutes’ Anderson Cooper Debunks Trump’s Claim of ‘Genocide’ of White Farmers in South Africa first ap…
+
+
+### HOMICIDE on 2026-02-23 01:21
+- Location: Thoughtcatalog.com
+- Description: Epstein is dead. Maxwell is in prison. Many victims are still seeking justice. Meanwhile, the woman who replaced Maxwell as the primary beneficiary of his estate just completed an advanced degree a…
+
+
+### OTHER on 2026-02-23 01:20
+- Location: Starcommunity.com.au
+- Description: Tributes have flowed for 16 year old Chris Rue Anthony, who passed away following a collision with a vehicle in Narre Warren. Chris was walking home from school on Friday 13 February about 4:30pm when he was hit by a Toyota station wagon that left Pound Road …
+
+
+### HOMICIDE on 2026-02-23 01:16
 - Location: CBS News
-- Description: A Mexican federal official says the Mexican army has killed the leader of the Jalisco New Generation Cartel in a military operation.
+- Description: Nemesio Rubén Oseguera Cervantes — also known as "El Mencho" — was the leader of the notorious Jalisco New Generation Cartel prior to his death on Sunday.
 
-
-### ROBBERY/THEFT on 2026-02-22 18:47
-- Location: The Times of India
-- Description: Panaji: The Goa Football Association (GFA) will approach Goa police after it receives a report from its ethics committee which is probing match-fixing.
-
-
-### SHOOTING on 2026-02-22 18:47
-- Location: CBC News
-- Description: A  man who went to hospital seeking treatment for a gunshot-related wound has been charged in connection with a shooting that left a woman seriously wounded on Friday, Winnipeg police say.
-
-
-### HOMICIDE on 2026-02-22 18:45
-- Location: New York Post
-- Description: A major Mexican resort town was under siege on Sunday and an airport was reportedly attacked after the leader of the brutal Jalisco New Generation Cartel was killed by the army on Sunday.
-
-Analysis generated at: Mon Feb 23 18:56:23 UTC 2026
+Analysis generated at: Tue Feb 24 01:29:40 UTC 2026
