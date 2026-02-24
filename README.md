@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Feb 24 13:18:30 UTC 2026
+Last updated: Tue Feb 24 18:54:47 UTC 2026
 
 ## Latest Analysis
 
-Loaded 91009 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-23 13:05:00
+Loaded 91101 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-23 18:53:54
 
 Incidents by source:
 source
-newsapi           90908
+newsapi           91000
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-02-23 13:05
-- Location: The Irish Times
-- Description: The man’s defence team has appealed the decision
+### ASSAULT on 2026-02-23 18:53
+- Location: Al Jazeera English
+- Description: Attack on Nablus-area mosque is latest in surge of Israeli settler and military violence targeting Palestinians.
 
 
-### HOMICIDE on 2026-02-23 13:02
-- Location: The Star Online
-- Description: JOHANNESBURG, Feb 23 (Reuters) - ⁠The youngest son of Zimbabwe's former leader ⁠Robert Mugabe appeared in a South African court ‌on Monday, charged with attempted murder after a gardener was shot and wounded last week at the Johannesburg mansion where ​Mugabe…
+### HOMICIDE on 2026-02-23 18:52
+- Location: CBC News
+- Description: The evidence phase of a Janson Baker's double-murder trial has concluded, the Moncton jury hearing the case was told Monday.
 
 
-### OTHER on 2026-02-23 13:00
-- Location: The Denver Post
-- Description: "It's in the top 10 pickup opportunities for Democrats" nationally, said Erin Covey, the U.S. House editor for the Cook Political Report, of the race for Colorado's 8th Congressional District.
+### HOMICIDE on 2026-02-23 18:50
+- Location: National Post
+- Description: The cartel run by El Mencho has been "assessed to have the highest cocaine, heroin, and methamphetamine trafficking capacity in Mexico."
 
 
-### HOMICIDE on 2026-02-23 12:52
-- Location: Abcnews.com
-- Description: The son of Zimbabwe's late ex-President Robert Mugabe faces attempted murder charges in South Africa after a shooting at his home in Johannesburg
-
-
-### HOMICIDE on 2026-02-23 12:48
+### HOMICIDE on 2026-02-23 18:49
 - Location: The Times of India
-- Description: Mexican forces killed feared cartel leader El Mencho. This sparked widespread violence and highway blockades. The Jalisco New Generation Cartel, CJNG, is Mexico's most powerful drug group. It possesses immense wealth and global links. CJNG operates like a mil…
+- Description: On February 22, 2026, Mexico's most wanted man died in a military helicopter — shot, bleeding, and finally caught. Nemesio Rubén Oseguera Cervantes, "El Mencho," founder of the Jalisco New Generation Cartel (CJNG), was 59. The U.S. had hunted him for over a d…
 
-Analysis generated at: Tue Feb 24 13:18:30 UTC 2026
+
+### OTHER on 2026-02-23 18:41
+- Location: New York Post
+- Description: "This is the third time that I've been with him," married mom Alicia Hughes, 31, calmly admits of the 18-year-old boy.
+
+Analysis generated at: Tue Feb 24 18:54:47 UTC 2026
