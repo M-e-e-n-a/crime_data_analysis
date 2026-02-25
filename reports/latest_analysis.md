@@ -1,10 +1,10 @@
 
-Loaded 91249 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-24 12:37:32
+Loaded 91263 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-24 13:13:02
 
 Incidents by source:
 source
-newsapi           91148
+newsapi           91162
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,32 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-02-24 12:37
-- Location: Spiked
-- Description: The elites’ narcissistic fear of being thought of as racist is causing untold harm to ordinary Brits.
+### ROBBERY/THEFT on 2026-02-24 13:13
+- Location: The Indian Express
+- Description: The Delhi Police Crime Branch has taken over the case from the local police and will probe the 'conspiracy' angle behind the protest, according to officials.
 
 
-### ASSAULT on 2026-02-24 12:36
-- Location: Spacewar.com
-- Description: Rome (AFP) Feb 18, 2026
-
- Italian police said Wednesday they had detected cyber-attacks against the interior ministry seeking information on dissident Chinese citizens and officers investigating Chinese groups in Italy. 
-
-"No sensitive data related to operati…
+### HOMICIDE on 2026-02-24 13:11
+- Location: Newser
+- Description: Rapper Luci4, whose track " BodyPartz " became a TikTok staple, has died in Los Angeles at age 23. The LA County Medical Examiner confirmed the death of the artist, born James Dear, though a cause has not been determined. His grandparents told TMZ he died on …
 
 
-### HOMICIDE on 2026-02-24 12:22
-- Location: Mediatakeout.com
-- Description: Nick Reiner entered a not guilty plea Monday in the deaths of his parents, Rob and Michele Reiner, who were found stabbed inside their Brentwood home last December. The 32-year-old appeared briefly in Los Angeles Superior Court, where he spoke only once to ag…
+### SHOOTING on 2026-02-24 13:07
+- Location: Freerepublic.com
+- Description: LONG ISLAND, N.Y. (TNND) — A New York man was arrested after he shot a woman in the face with a crossbow, according to authorities. The Nassau County Police Department on Tuesday identified him as 21-year-old Samy Sedhom. Police said he was charged with the f…
 
 
-### OTHER on 2026-02-24 12:06
-- Location: Forcar.org
-- Description: Free VIN decoder and lookup tool. Get instant vehicle history, specifications, recalls, and detailed information for any car, truck, or motorcycle by VIN number.
+### SHOOTING on 2026-02-24 13:07
+- Location: Freerepublic.com
+- Description: LONG ISLAND, N.Y. (TNND) — A New York man was arrested after he shot a woman in the face with a crossbow, according to authorities. The Nassau County Police Department on Tuesday identified him as 21-year-old Samy Sedhom. Police said he was charged with the f…
 
 
-### OTHER on 2026-02-24 12:01
-- Location: Sky.com
-- Description: A man who stabbed a nine-year-old girl outside her mother's embroidery shop has been jailed for a minimum of 25 years.
+### OTHER on 2026-02-24 13:00
+- Location: Breitbart News
+- Description: During his State of the Union address tonight, President Trump will celebrate the progress he has made in making America safe again so that women like Iryna Zarutska do not have to fear for their lives on public transit.
+The post Exclusive—Rep. Mark Harris: N…
 
-Analysis generated at: Wed Feb 25 12:52:40 UTC 2026
+Analysis generated at: Wed Feb 25 13:17:55 UTC 2026
