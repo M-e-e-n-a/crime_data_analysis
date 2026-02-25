@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Feb 24 18:54:47 UTC 2026
+Last updated: Wed Feb 25 01:44:21 UTC 2026
 
 ## Latest Analysis
 
-Loaded 91101 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-23 18:53:54
+Loaded 91130 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-24 01:28:23
 
 Incidents by source:
 source
-newsapi           91000
+newsapi           91029
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2026-02-23 18:53
-- Location: Al Jazeera English
-- Description: Attack on Nablus-area mosque is latest in surge of Israeli settler and military violence targeting Palestinians.
+### HOMICIDE on 2026-02-24 01:28
+- Location: Digital Journal
+- Description: Brazil’s Supreme Court begins the trial Tuesday of politicians accused of ordering the 2018 murder of Rio de Janeiro councilwoman Marielle Franco, a case that exposed deep ties between politics and organized crime in the city. Franco, a black, lesbian activis…
 
 
-### HOMICIDE on 2026-02-23 18:52
-- Location: CBC News
-- Description: The evidence phase of a Janson Baker's double-murder trial has concluded, the Moncton jury hearing the case was told Monday.
+### HOMICIDE on 2026-02-24 01:25
+- Location: Israelnationalnews.com
+- Description: Australia’s royal commission into antisemitism begins public hearings, investigating the causes of antisemitism and the deadly Bondi Beach shooting. An interim report is expected by April.
 
 
-### HOMICIDE on 2026-02-23 18:50
-- Location: National Post
-- Description: The cartel run by El Mencho has been "assessed to have the highest cocaine, heroin, and methamphetamine trafficking capacity in Mexico."
+### HOMICIDE on 2026-02-24 01:21
+- Location: Fortune
+- Description: In all, more than 70 people were killed in the operation and the ensuing violence, including security forces, suspected cartel members and others.
 
 
-### HOMICIDE on 2026-02-23 18:49
-- Location: The Times of India
-- Description: On February 22, 2026, Mexico's most wanted man died in a military helicopter — shot, bleeding, and finally caught. Nemesio Rubén Oseguera Cervantes, "El Mencho," founder of the Jalisco New Generation Cartel (CJNG), was 59. The U.S. had hunted him for over a d…
+### OTHER on 2026-02-24 01:20
+- Location: Fox News
+- Description: Pennsylvania man accused of grooming 13-year-old girl online for explicit images and self-harm linked to nihilistic violent extremist ideology and "764" network.
 
 
-### OTHER on 2026-02-23 18:41
-- Location: New York Post
-- Description: "This is the third time that I've been with him," married mom Alicia Hughes, 31, calmly admits of the 18-year-old boy.
+### OTHER on 2026-02-24 01:20
+- Location: Fox News
+- Description: Pennsylvania man accused of grooming 13-year-old girl online for explicit images and self-harm linked to nihilistic violent extremist ideology and "764" network.
 
-Analysis generated at: Tue Feb 24 18:54:47 UTC 2026
+Analysis generated at: Wed Feb 25 01:44:20 UTC 2026
