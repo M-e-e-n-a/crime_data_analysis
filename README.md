@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Feb 25 06:57:03 UTC 2026
+Last updated: Wed Feb 25 12:52:40 UTC 2026
 
 ## Latest Analysis
 
-Loaded 91172 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-24 06:53:36
+Loaded 91249 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-24 12:37:32
 
 Incidents by source:
 source
-newsapi           91071
+newsapi           91148
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,32 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-02-24 06:53
-- Location: The Local Sweden
-- Description: Man killed in Eskilstuna in year's first fatal shooting, Social Democrats oppose welfare restrictions for immigrants, and other news from Sweden on Tuesday.
+### HOMICIDE on 2026-02-24 12:37
+- Location: Spiked
+- Description: The elites’ narcissistic fear of being thought of as racist is causing untold harm to ordinary Brits.
 
 
-### OTHER on 2026-02-24 06:23
-- Location: The Times of India
-- Description: Rahul Gandhi has strongly condemned the arrest of Uday Bhanu Chib, president of the Indian Youth Congress. Gandhi stated the police action shows dictatorial tendencies and cowardice. He affirmed that peaceful protest is a democratic legacy. Gandhi declared hi…
+### ASSAULT on 2026-02-24 12:36
+- Location: Spacewar.com
+- Description: Rome (AFP) Feb 18, 2026
+
+ Italian police said Wednesday they had detected cyber-attacks against the interior ministry seeking information on dissident Chinese citizens and officers investigating Chinese groups in Italy. 
+
+"No sensitive data related to operati…
 
 
-### ASSAULT on 2026-02-24 06:18
-- Location: The Times of India
-- Description: India has launched PRAHAAR, its first national counter-terrorism strategy. This unified approach coordinates intelligence, policing, diplomacy, and technology. It aims to detect threats early, respond swiftly, and build resilience. PRAHAAR signals India's com…
+### HOMICIDE on 2026-02-24 12:22
+- Location: Mediatakeout.com
+- Description: Nick Reiner entered a not guilty plea Monday in the deaths of his parents, Rob and Michele Reiner, who were found stabbed inside their Brentwood home last December. The 32-year-old appeared briefly in Los Angeles Superior Court, where he spoke only once to ag…
 
 
-### HOMICIDE on 2026-02-24 06:17
-- Location: The Indian Express
-- Description: Victim’s father, an cloth-ironing vendor, says accused pressuring daughter to marry him
+### OTHER on 2026-02-24 12:06
+- Location: Forcar.org
+- Description: Free VIN decoder and lookup tool. Get instant vehicle history, specifications, recalls, and detailed information for any car, truck, or motorcycle by VIN number.
 
 
-### HOMICIDE on 2026-02-24 06:10
-- Location: New York Post
-- Description: Cartel warfare has threatened to spill into California as a Mexican border city was engulfed in violence following the killing of a notorious drug kingpin.
+### OTHER on 2026-02-24 12:01
+- Location: Sky.com
+- Description: A man who stabbed a nine-year-old girl outside her mother's embroidery shop has been jailed for a minimum of 25 years.
 
-Analysis generated at: Wed Feb 25 06:57:03 UTC 2026
+Analysis generated at: Wed Feb 25 12:52:40 UTC 2026
