@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Feb 25 01:44:21 UTC 2026
+Last updated: Wed Feb 25 02:37:10 UTC 2026
 
 ## Latest Analysis
 
-Loaded 91130 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-24 01:28:23
+Loaded 91138 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-24 02:12:45
 
 Incidents by source:
 source
-newsapi           91029
+newsapi           91037
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-02-24 01:28
-- Location: Digital Journal
-- Description: Brazil’s Supreme Court begins the trial Tuesday of politicians accused of ordering the 2018 murder of Rio de Janeiro councilwoman Marielle Franco, a case that exposed deep ties between politics and organized crime in the city. Franco, a black, lesbian activis…
+### HOMICIDE on 2026-02-24 02:12
+- Location: Freerepublic.com
+- Description: Since January 2026, sanctuary policies under Newsom have led to the release of 4,561 criminal illegal aliens into California communities In a blistering statement released Monday, the U.S. Department of Homeland Security (DHS) condemned California Governor Ga…
 
 
-### HOMICIDE on 2026-02-24 01:25
-- Location: Israelnationalnews.com
-- Description: Australia’s royal commission into antisemitism begins public hearings, investigating the causes of antisemitism and the deadly Bondi Beach shooting. An interim report is expected by April.
+### HOMICIDE on 2026-02-24 02:10
+- Location: New York Post
+- Description: Romy, 28, and Jake Reiner, 34, have cut off funding for a private defense attorney for their brother, TMZ reported Monday.
 
 
-### HOMICIDE on 2026-02-24 01:21
-- Location: Fortune
-- Description: In all, more than 70 people were killed in the operation and the ensuing violence, including security forces, suspected cartel members and others.
+### SHOOTING on 2026-02-24 02:07
+- Location: The Times of India
+- Description: ​Canada summoned top officials from OpenAI for a meeting about the company's safety protocols, a Canadian official said on Monday, after the ChatGPT maker said it did not reach out to police about an account it banned last year belonging to mass ‌shooter Jess…
 
 
-### OTHER on 2026-02-24 01:20
+### HOMICIDE on 2026-02-24 01:58
+- Location: Rpnradio.com
+- Description: BACOLOD CITY — The Army’s 3rd Infantry Division (3ID) urged the Commission on Human Rights (CHR) and all human rights advocates to look into the murders perpetrated by the New People’s Army (NPA) in Negros Island. Based on 3ID records, at least 28 individuals…
+
+
+### HOMICIDE on 2026-02-24 01:52
 - Location: Fox News
-- Description: Pennsylvania man accused of grooming 13-year-old girl online for explicit images and self-harm linked to nihilistic violent extremist ideology and "764" network.
+- Description: A manhunt is underway in Missouri after a Christian County deputy was shot and killed. Authorities are searching for a white 2001 Chevrolet Silverado that may be headed toward Arkansas.
 
-
-### OTHER on 2026-02-24 01:20
-- Location: Fox News
-- Description: Pennsylvania man accused of grooming 13-year-old girl online for explicit images and self-harm linked to nihilistic violent extremist ideology and "764" network.
-
-Analysis generated at: Wed Feb 25 01:44:20 UTC 2026
+Analysis generated at: Wed Feb 25 02:37:10 UTC 2026
