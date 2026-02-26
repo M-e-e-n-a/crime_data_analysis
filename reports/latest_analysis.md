@@ -1,10 +1,10 @@
 
-Loaded 91398 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-25 06:53:51
+Loaded 91445 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-25 12:46:31
 
 Incidents by source:
 source
-newsapi           91297
+newsapi           91344
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,30 +20,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-02-25 06:53
-- Location: The Local Sweden
-- Description: Two thirds of Tidö Agreement fulfilled, Swedish politicians laud Ukraine on four-year anniversary, and more news from Sweden on Wednesday.
+### HOMICIDE on 2026-02-25 12:46
+- Location: RTE
+- Description: The jury in the trial of a man accused of killing his pregnant girlfriend has heard details of WhatsApp messages exchanged between them on the day she died.
 
 
-### HOMICIDE on 2026-02-25 06:52
-- Location: Slashdot.org
-- Description: Chris Baghsarian: Police make arrests over alleged kidnap and murderBBC Human Remains Found on Golf Course in Search for Grandfather, 85, Who Was Kidnapped by MistakePeople.com Australian police arrest two over alleged kidnapping, murder of grandfatherYahoo H…
+### OTHER on 2026-02-25 12:45
+- Location: Whyevolutionistrue.com
+- Description: Welcome to a Hump Day (“יום הגיבנת” in Hebrew): Wednesday, February 25, 2026, and National Clam Chowder Day. Of the several varieties, I can recommend only one, the New England variety made with cream and plenty of clams. Avoid anything with tomatoes in it! Y…
 
 
-### OTHER on 2026-02-25 06:52
-- Location: CounterPunch
-- Description: Of all the events that unfolded in the first half of the 1970s, none has haunted me more than the blast in an apartment building in Manhattan that claimed the lives of three members of Weatherman and their fledgling underground organization. All that past cam…
-
-
-### HOMICIDE on 2026-02-25 06:47
+### ROBBERY/THEFT on 2026-02-25 12:42
 - Location: The Punch
-- Description: A stakeholder urges Governor Aiyedatiwa to decentralise Ondo State security in response to escalating killings, kidnappings, and coordinated attacks.
+- Description: Oyo State Police Command announces the arrest of three suspects in connection with a highway robbery, recovering stolen goods worth over N31.75 million.
 
-Read More: https://punchng.com/stakeholder-urges-ondo-gov-to-decentralise-security/
+Read More: https://punchng.com/police-arrest-three-recover-n31-75m-stolen-goods-in-oyo/
 
 
-### OTHER on 2026-02-25 06:40
-- Location: The Irish Times
-- Description: President’s speech lasting one hour and 48 minutes sought to reinvigorate supporters in Republican heartland states
+### OTHER on 2026-02-25 12:37
+- Location: The New Humanitarian
+- Description: The recent deportation of alleged scam ringleader Chen Zhi to China led to mass escapes of trafficked workers. But who is helping the freed survivors?
 
-Analysis generated at: Thu Feb 26 06:54:09 UTC 2026
+
+### ASSAULT on 2026-02-25 12:37
+- Location: The Star Online
+- Description: BERLIN, Feb 25 (Reuters) - Germany plans ⁠to modernise its main security authorities and enlist AI in its fight against ⁠organised crime, as it cracks down on financial offences, money laundering and drug-related ‌cases, the ministries of finance, interior af…
+
+Analysis generated at: Thu Feb 26 12:53:33 UTC 2026
