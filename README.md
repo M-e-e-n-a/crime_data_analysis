@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Feb 26 02:33:04 UTC 2026
+Last updated: Thu Feb 26 06:54:09 UTC 2026
 
 ## Latest Analysis
 
-Loaded 91355 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-25 02:07:20
+Loaded 91398 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-25 06:53:51
 
 Incidents by source:
 source
-newsapi           91254
+newsapi           91297
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-02-25 02:07
-- Location: The Denver Post
-- Description: Trump is reversing the many years of rising crime and chaos inflicted on families under Democrat rule. Denver saw one of the highest drops in homicide rates in the nation.
+### OTHER on 2026-02-25 06:53
+- Location: The Local Sweden
+- Description: Two thirds of Tidö Agreement fulfilled, Swedish politicians laud Ukraine on four-year anniversary, and more news from Sweden on Wednesday.
 
 
-### HOMICIDE on 2026-02-25 01:57
-- Location: New York Post
-- Description: Asked by cops if he knew what happened, Simmons chillingly admitted, "I do know what happened, I did it," according to an arrest affidavit.
-
-
-### HOMICIDE on 2026-02-25 01:52
+### HOMICIDE on 2026-02-25 06:52
 - Location: Slashdot.org
-- Description: Police: Two killed in shooting at West San Jose shopping centerThe Mercury News Man, woman dead after shooting in West San JoseNBC Bay Area Man, woman found shot to death in San Jose parking lotKTVU Man, woman found dead in shooting at San Jose parking lot at…
+- Description: Chris Baghsarian: Police make arrests over alleged kidnap and murderBBC Human Remains Found on Golf Course in Search for Grandfather, 85, Who Was Kidnapped by MistakePeople.com Australian police arrest two over alleged kidnapping, murder of grandfatherYahoo H…
 
 
-### OTHER on 2026-02-25 01:52
-- Location: TheWrap
-- Description: Churchgoer Ann Douchette claims the independent journalist took "satisfaction in the disruption" that led to his controversial arrest
-The post Don Lemon Sued for ‘Severe Emotional Distress’ Over Minneapolis Church Protest appeared first on TheWrap.
+### OTHER on 2026-02-25 06:52
+- Location: CounterPunch
+- Description: Of all the events that unfolded in the first half of the 1970s, none has haunted me more than the blast in an apartment building in Manhattan that claimed the lives of three members of Weatherman and their fledgling underground organization. All that past cam…
 
 
-### ASSAULT on 2026-02-25 01:47
-- Location: The Times of India
-- Description: Hoax emails threatening suicide bomb and RDX attacks landed in the inboxes of district judges supervising SIR verification work across several West Bengal districts. Police conducted anti-sabotage drills, but searches yielded nothing. Authorities have deemed …
+### HOMICIDE on 2026-02-25 06:47
+- Location: The Punch
+- Description: A stakeholder urges Governor Aiyedatiwa to decentralise Ondo State security in response to escalating killings, kidnappings, and coordinated attacks.
 
-Analysis generated at: Thu Feb 26 02:33:04 UTC 2026
+Read More: https://punchng.com/stakeholder-urges-ondo-gov-to-decentralise-security/
+
+
+### OTHER on 2026-02-25 06:40
+- Location: The Irish Times
+- Description: President’s speech lasting one hour and 48 minutes sought to reinvigorate supporters in Republican heartland states
+
+Analysis generated at: Thu Feb 26 06:54:09 UTC 2026
