@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Feb 25 18:58:24 UTC 2026
+Last updated: Thu Feb 26 01:29:00 UTC 2026
 
 ## Latest Analysis
 
-Loaded 91335 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-24 18:54:55
+Loaded 91348 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-25 01:21:45
 
 Incidents by source:
 source
-newsapi           91234
+newsapi           91247
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-02-24 18:54
-- Location: CBS News
-- Description: State District Judge Tony Graf decided in a Tuesday ruling to keep the Utah County Attorney's Office on the case against the man accused of killing Charlie Kirk.
+### HOMICIDE on 2026-02-25 01:21
+- Location: New York Post
+- Description: “Anytime that you lose two law enforcement officers in a 24-hour time period … it is a dark day,” Christian County Sheriff Brad Cole told reporters.
 
 
-### HOMICIDE on 2026-02-24 18:51
-- Location: DW (English)
-- Description: With the killing of "El Mencho," the Mexican government seems to have ended its truce with the country's drug cartels. Who was the drug boss, and what is the Jalisco New Generation Cartel, or CJNG?
+### OTHER on 2026-02-25 01:00
+- Location: New Zealand Herald
+- Description: Ōpiki School is a rural primary school of 113 students near Manawatū.
 
 
-### ASSAULT on 2026-02-24 18:45
-- Location: ABC News (AU)
-- Description: An ABC investigation has obtained distressing videos and victims' accounts of IS sympathisers hunting and bashing gay and bisexual boys on camera in Sydney.
+### HOMICIDE on 2026-02-25 00:50
+- Location: Mediaite
+- Description: An Oklahoma man is being charged with attempting to murder law enforcement officers and he also allegedly declared Trump needed to "die" to "save lives."
+The post ‘Needs To Die’: Man Who Threatened Trump Charged With Attempting To Murder Federal Law Enforceme…
 
 
-### HOMICIDE on 2026-02-24 18:43
-- Location: The Times of India
-- Description: On February 22, Bokaro police arrested 26-year-old Balram Kumar in connection with the fatal shooting of 28-year-old Sachin Yadav near the railway station. Yadav died from his injuries while being taken to the hospital. Investigators say the killing was drive…
+### OTHER on 2026-02-25 00:33
+- Location: Sky.com
+- Description: Searches at Andrew Mountbatten-Windsor's former Windsor residence in relation to an investigation into alleged misconduct in public office have concluded, police have said.
 
 
-### DRUG RELATED on 2026-02-24 18:40
-- Location: Radaronline.com
-- Description: Jeffrey Epstein was named in a DEA investigation, according to bombshell new documents.
+### SHOOTING on 2026-02-25 00:30
+- Location: New York Post
+- Description: The victim was suddenly blasted in the right arm as he strolled in front of an apartment building on MacDonough Street near Howard Avenue in Bedford-Stuyvesant around 10 p.m., police said.
 
-Analysis generated at: Wed Feb 25 18:58:24 UTC 2026
+Analysis generated at: Thu Feb 26 01:29:00 UTC 2026
