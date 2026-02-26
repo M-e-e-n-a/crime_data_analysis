@@ -1,10 +1,10 @@
 
-Loaded 91445 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-25 12:46:31
+Loaded 91446 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-25 13:00:56
 
 Incidents by source:
 source
-newsapi           91344
+newsapi           91345
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -19,6 +19,11 @@ bution.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### OTHER on 2026-02-25 13:00
+- Location: Fox News
+- Description: A Tucson neighbor said she saw a suspicious man near Nancy Guthrie’s home weeks before her suspected abduction. Investigators are reviewing security footage as they refine the timeline.
+
 
 ### HOMICIDE on 2026-02-25 12:46
 - Location: RTE
@@ -41,9 +46,4 @@ Read More: https://punchng.com/police-arrest-three-recover-n31-75m-stolen-goods-
 - Location: The New Humanitarian
 - Description: The recent deportation of alleged scam ringleader Chen Zhi to China led to mass escapes of trafficked workers. But who is helping the freed survivors?
 
-
-### ASSAULT on 2026-02-25 12:37
-- Location: The Star Online
-- Description: BERLIN, Feb 25 (Reuters) - Germany plans ⁠to modernise its main security authorities and enlist AI in its fight against ⁠organised crime, as it cracks down on financial offences, money laundering and drug-related ‌cases, the ministries of finance, interior af…
-
-Analysis generated at: Thu Feb 26 12:53:33 UTC 2026
+Analysis generated at: Thu Feb 26 13:18:27 UTC 2026
