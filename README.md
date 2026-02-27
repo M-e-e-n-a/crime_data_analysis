@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Feb 26 18:44:31 UTC 2026
+Last updated: Fri Feb 27 01:27:03 UTC 2026
 
 ## Latest Analysis
 
-Loaded 91530 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-25 18:43:50
+Loaded 91550 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-26 01:21:07
 
 Incidents by source:
 source
-newsapi           91429
+newsapi           91449
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2026-02-25 18:43
-- Location: The Times of India
-- Description: Patna: Taking cognizance of child theft rumours circulating across several districts, the Police Headquarters (PHQ) on Wednesday issued a statewide al.
+### ROBBERY/THEFT on 2026-02-26 01:21
+- Location: Starcommunity.com.au
+- Description: A 31-year old man has been charged with 98 offences following an extensive investigation into thefts across several suburbs. Officers from Casey Crime Investigation Unit and the Crime Reduction Team executed a search warrant at a property in Cranbourne East o…
 
 
-### OTHER on 2026-02-25 18:40
-- Location: RNZ
-- Description: NZ risks losing visa-free US travel if it refuses the new data-sharing deal.
+### HOMICIDE on 2026-02-26 01:15
+- Location: TheBlaze
+- Description: Four people were stabbed and killed at a home where an elderly woman had tried to obtain a domestic violence protective order against her son. Washington state police responded to a report that a 32-year-old man was violating a protective order on Tuesday whe…
 
 
-### OTHER on 2026-02-25 18:34
-- Location: New York Post
-- Description: Fifth-grade teacher Dominic Evans, 48, revealed his family have been hunkering down in their Tucson home ever since his name became linked to the Nancy Guthrie case early on.
-
-
-### ASSAULT on 2026-02-25 18:31
+### ROBBERY/THEFT on 2026-02-26 01:09
 - Location: Fox News
-- Description: A viral video shows Whataburger employees in Paris, Texas, using a trash can and fry basket to fend off a man who allegedly entered the restaurant and began assaulting a worker.
+- Description: North Carolina woman located after 24-year disappearance tells police she left family voluntarily. Alcohol abuse and marital problems preceded vanishing.
 
 
-### OTHER on 2026-02-25 18:31
-- Location: The Irish Times
-- Description: Vincent Kearney was wrongly referred to as a ‘suspect’ in a criminal investigation, and the PSNI complied a detailed profile of intelligence material on him
+### OTHER on 2026-02-26 00:58
+- Location: CBC News
+- Description: The issuance of a duty to warn letter by Vancouver police and continued activity by the RCMP suggest that law enforcement are not convinced threats to Sikh activists have really subsided, even as the Carney government says Indian interference is a thing of th…
 
-Analysis generated at: Thu Feb 26 18:44:31 UTC 2026
+
+### HOMICIDE on 2026-02-26 00:36
+- Location: The Times of India
+- Description: Police in Gurdaspur shot dead a suspect, Ranjit Singh, and arrested another, Dilawar Singh, in connection with the murder of two policemen. A third accused, Inderjit Singh, believed to be an ISI-linked recruiter, remains at large. The incident is suspected to…
+
+Analysis generated at: Fri Feb 27 01:27:03 UTC 2026
