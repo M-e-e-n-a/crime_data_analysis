@@ -1,10 +1,10 @@
 
-Loaded 91592 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-26 06:38:41
+Loaded 91648 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-26 12:36:20
 
 Incidents by source:
 source
-newsapi           91491
+newsapi           91547
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-02-26 06:38
+### OTHER on 2026-02-26 12:36
+- Location: RT
+- Description: South Africa’s finance minister has said about $15.7 billion has been allocated for army deployment and to intensify law enforcement Read Full Article at RT.com
+
+
+### OTHER on 2026-02-26 12:20
 - Location: The Times of India
-- Description: A year after ties froze over the Nijjar controversy, Canada is quietly changing tone as Prime Minister Mark Carney is set to land in India with a “reset” agenda — dialling down past allegations, and pivoting toward trade, tech, and energy partnerships.
+- Description: Eighty-four-year-old Nancy Guthrie remains missing nearly four weeks after her abduction, with authorities pursuing 40,000 leads. Sheriff Chris Nanos believes she is being held locally, despite no confirmed DNA matches from evidence found. Her daughter, Savan…
 
 
-### HOMICIDE on 2026-02-26 06:37
-- Location: ABC News (AU)
-- Description: The property where two Queensland police officers were murdered has been put up for sale, with photos showing the house in a state of disrepair.
+### HOMICIDE on 2026-02-26 12:13
+- Location: Associated Press
+- Description: Officials say a third victim has died from injuries sustained during a deadly shooting at a youth hockey game in Rhode Island. Pawtucket police said Wednesday that Gerald Dorgan has died. He had been in critical condition following last week’s…
 
 
-### OTHER on 2026-02-26 06:37
-- Location: BusinessLine
-- Description: CBI coordinates via INTERPOL to bring back Andhra Pradesh fugitive Anil Kumar Reddy Yeddula from UAE; over 130 criminals returned in recent years.
+### ROBBERY/THEFT on 2026-02-26 12:11
+- Location: YLE News
+- Description: The department confirmed to Yle that it is investigating a case of suspected negligent breach of official secrecy.
 
 
-### OTHER on 2026-02-26 06:28
-- Location: BBC News
-- Description: Dave Evans blames a DVLA issue for his car not having tax at the start of February.
+### OTHER on 2026-02-26 12:00
+- Location: National Post
+- Description: New breaches of personal data seem to occur daily. Still, many Canadians aren't yet ready to accept a world where others control all our secrets
 
-
-### HOMICIDE on 2026-02-26 06:20
-- Location: The Irish Times
-- Description: Early Edition with Aideen Finnegan
-
-Analysis generated at: Fri Feb 27 06:45:24 UTC 2026
+Analysis generated at: Fri Feb 27 12:44:42 UTC 2026
