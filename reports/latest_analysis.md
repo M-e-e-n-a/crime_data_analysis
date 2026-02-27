@@ -1,10 +1,10 @@
 
-Loaded 91562 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-26 02:24:32
+Loaded 91592 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-26 06:38:41
 
 Incidents by source:
 source
-newsapi           91461
+newsapi           91491
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-02-26 02:24
-- Location: New York Post
-- Description: A registered sex offender in California is asking voters to overlook his criminal record as he launches a bid for a seat on the Fresno City Council.
+### OTHER on 2026-02-26 06:38
+- Location: The Times of India
+- Description: A year after ties froze over the Nijjar controversy, Canada is quietly changing tone as Prime Minister Mark Carney is set to land in India with a “reset” agenda — dialling down past allegations, and pivoting toward trade, tech, and energy partnerships.
 
 
-### HOMICIDE on 2026-02-26 02:23
-- Location: Breitbart News
-- Description: The man who struck NHL star Johnny Gaudreau and his brother, Matthew, in a fatal car crash now wants the murder case thrown out.
-The post Man Accused of Killing Johnny and Matthew Gaudreau Wants Case Thrown Out, Says He was Not Drunk appeared first on Breitba…
-
-
-### OTHER on 2026-02-26 02:21
-- Location: The Atlantic
-- Description: Our national project of elite impunity
-
-
-### OTHER on 2026-02-26 02:21
+### HOMICIDE on 2026-02-26 06:37
 - Location: ABC News (AU)
-- Description: Most Australians will receive a mobile phone alert in July this year, as part of a nationwide test of a new emergency warning system.
+- Description: The property where two Queensland police officers were murdered has been put up for sale, with photos showing the house in a state of disrepair.
 
 
-### OTHER on 2026-02-26 02:08
-- Location: Cointelegraph
-- Description: UK security committee chair Matt Western is urging the government to add a temporary ban on crypto political donations to the Representation of the People Bill until tighter rules can be developed.
+### OTHER on 2026-02-26 06:37
+- Location: BusinessLine
+- Description: CBI coordinates via INTERPOL to bring back Andhra Pradesh fugitive Anil Kumar Reddy Yeddula from UAE; over 130 criminals returned in recent years.
 
-Analysis generated at: Fri Feb 27 02:31:43 UTC 2026
+
+### OTHER on 2026-02-26 06:28
+- Location: BBC News
+- Description: Dave Evans blames a DVLA issue for his car not having tax at the start of February.
+
+
+### HOMICIDE on 2026-02-26 06:20
+- Location: The Irish Times
+- Description: Early Edition with Aideen Finnegan
+
+Analysis generated at: Fri Feb 27 06:45:24 UTC 2026
