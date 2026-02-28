@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Feb 28 02:21:33 UTC 2026
+Last updated: Sat Feb 28 06:31:32 UTC 2026
 
 ## Latest Analysis
 
-Loaded 91757 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-27 02:16:39
+Loaded 91788 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-27 06:20:26
 
 Incidents by source:
 source
-newsapi           91656
+newsapi           91687
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,30 +24,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-02-27 02:16
-- Location: ABC News (AU)
-- Description: Jaani Pani knows how loyalty to a postcode can shape your life in Western Sydney. He is telling his story for the stage to inspire the next generation.
+### DRUG RELATED on 2026-02-27 06:20
+- Location: Gossiplankanews.com
+- Description: 'Podi Lassie' alias Arumahandi Janith Madusanka de Silva, a powerful organized criminal and large-scale drug trafficker, was brought to Sri Lanka today (27) in the early hours of the morning from Mumbai, India, under strict security. This suspect was brought …
 
 
-### SHOOTING on 2026-02-27 02:05
-- Location: Abcnews.com
-- Description: ChatGPT-maker OpenAI says the shooter in one of the worst school shootings in Canada’s history got around a ban on her problematic use of the service by having a second account
+### HOMICIDE on 2026-02-27 06:17
+- Location: Christiantoday.com
+- Description: The Christians were accused of practising black magic before their murders.
 
 
-### OTHER on 2026-02-27 02:00
-- Location: Thegatewaypundit.com
-- Description: Woke retail giant Target Corp.
-The post CORPORATE EXODUS: Woke Target Pays Staggering $110 Million Fee to Terminate Minneapolis Lease appeared first on The Gateway Pundit.
+### HOMICIDE on 2026-02-27 06:17
+- Location: Christiantoday.com
+- Description: The Christians were accused of practising black magic before their murders.
 
 
-### HOMICIDE on 2026-02-27 02:00
-- Location: Allthatsinteresting.com
-- Description: In 68 C.E., Emperor Nero stabbed himself in the throat with a dagger as he heard the hoofbeats of the approaching centurions who were sent to arrest him for his extravagant spending and tyrannical behavior.
-The post The Death Of Emperor Nero, The Notorious De…
+### ROBBERY/THEFT on 2026-02-27 06:14
+- Location: Cointelegraph
+- Description: Local police seized the Bitcoin in 2021 but stored it in a third-party wallet that was later compromised, with the theft going unnoticed for four years.
 
 
-### SHOOTING on 2026-02-27 01:47
-- Location: The Times of India
-- Description: Sajid Akram and Naveed Akram, accused in the 2026 Sydney Hanukkah mass shooting, previously tried to travel to Afghanistan. Their journey was halted in Kyrgyzstan. Investigations are examining these travel plans. The initial probe found no evidence of trainin…
+### OTHER on 2026-02-27 06:03
+- Location: EFF
+- Description: In a big win for protesters’ rights, the U.S. Court of Appeals for the Tenth Circuit overturned a lower court’s dismissal of a challenge to sweeping warrants to search a protester’s devices and digital data and a nonprofit’s social media data.
 
-Analysis generated at: Sat Feb 28 02:21:33 UTC 2026
+The case, Arm…
+
+Analysis generated at: Sat Feb 28 06:31:32 UTC 2026
