@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Feb 28 12:56:34 UTC 2026
+Last updated: Sat Feb 28 18:25:44 UTC 2026
 
 ## Latest Analysis
 
-Loaded 91841 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-27 12:38:18
+Loaded 91903 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-27 18:18:44
 
 Incidents by source:
 source
-newsapi           91740
+newsapi           91802
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,31 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-02-27 12:38
-- Location: Celebitchy.com
-- Description: Does anyone find it interesting that King Charles and the rest of the “working royals” (aka the left-behinds) have spent the last week doing a flurry of “business as usual” events following Prince Andrew’s arrest on Feb. 19? For Charles and Camilla especially…
+### OTHER on 2026-02-27 18:18
+- Location: TheWrap
+- Description: From "Bridgerton" Season 4 Part 2 to "DTF St. Louis" and everything in between
+The post The 8 Best New Movies and Shows to Stream This Weekend on Netflix, Prime Video and More appeared first on TheWrap.
 
 
-### HOMICIDE on 2026-02-27 12:35
-- Location: The Times of India
-- Description: Bihar's Special Task Force apprehended notorious criminal Deva Gupta, carrying a Rs 1 lakh bounty, from Patna. Gupta, husband of Motihari mayor Preeti Kumari and an RJD candidate in the 2025 assembly polls, faces charges in 28 serious cases including murder a…
-
-
-### OTHER on 2026-02-27 12:30
+### ROBBERY/THEFT on 2026-02-27 18:15
 - Location: Mother Jones
-- Description: The United States has welcomed refugees fleeing persecution under the same law for 45 years, following a tradition dating back to World War II. Through an orderly process, applicants for refugee status undergo extensive federal vetting before arriving. A year…
+- Description: This story is published in partnership with The Florida Trib. In a small, piercingly bright room inside a state prison in northeast Florida, Frank Walls was strapped to a gurney and injected three times: first with a sedative meant to render him unconscious, …
 
 
-### HOMICIDE on 2026-02-27 12:23
-- Location: Protothema.gr
-- Description: The daughter of the 40-year-old woman murdered in Menidi in 2024 speaks exclusively after her powerful intervention at the European Parliament. She describes the nightmare her mother lived through and how she learned of the killing when a journalist rang her …
+### OTHER on 2026-02-27 18:00
+- Location: Consequence.net
+- Description: Here's what to stream the weekend of February 27th. 
+Stream On This Week: A Scrubs-Tastic Revival, Pirates, Spies, and Ninja Turtles
+Liz Shannon Miller
 
 
-### ASSAULT on 2026-02-27 12:21
-- Location: ABC News (AU)
-- Description: Islamic State has embraced Sajid and Naveed Akram as "soldiers" and urged other supporters to continue attacks on Jews and Christians, as they claimed responsibility for the Bondi massacre.
+### SHOOTING on 2026-02-27 17:58
+- Location: BetaKit
+- Description: OpenAI says that since banning a mass shooter in Tumbler Ridge, BC, it has tightened protocols for referring ChatGPT accounts to police, and would have reported it had the account been flagged today.
 
-Analysis generated at: Sat Feb 28 12:56:34 UTC 2026
+
+### OTHER on 2026-02-27 17:57
+- Location: Hollywood Reporter
+- Description: Logan Marshall-Green and Gil Birmingham also star in the crime procedural, which follows federal law enforcement as they solve cases and chase bad guys in the mountains of Montana.
+
+Analysis generated at: Sat Feb 28 18:25:44 UTC 2026
