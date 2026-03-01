@@ -1,10 +1,10 @@
 
-Loaded 91922 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-28 02:37:02
+Loaded 91941 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-28 06:37:46
 
 Incidents by source:
 source
-newsapi           91821
+newsapi           91840
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-02-28 02:37
-- Location: Breitbart News
-- Description: On Friday’s broadcast of “CNN News Central,” Denver Mayor Mike Johnston discussed an order he issued on police officers intervening with ICE officers and said that when ICE is in a city, it “does not make it safer, it makes
-The post Denver Mayor: ICE Makes Ci…
+### HOMICIDE on 2026-02-28 06:37
+- Location: Abcnews.com
+- Description: Police video of the aftermath of a deadly shooting at a Rhode Island ice rink last week has been released
 
 
-### HOMICIDE on 2026-02-28 02:12
+### HOMICIDE on 2026-02-28 06:23
+- Location: Al Jazeera English
+- Description: Air Force plane transporting cash veers off runway and into busy road; crowds scramble for scattered banknotes.
+
+
+### OTHER on 2026-02-28 05:46
 - Location: The Times of India
-- Description: Postmortem reports confirm a woman and her three young daughters, found murdered in Delhi, were not drugged and the mother was not pregnant. Police are actively searching for the prime suspect, the husband, Munchun Kewat, with raids conducted across multiple …
+- Description: Kolkata Police unveil all-women Pink Booths and SHINING mobile patrol units to bolster women's safety and confidence. The city is touted as one of India's safest, with crimes against women on a decline. By merging technology, trained personnel, and strong com…
 
 
-### OTHER on 2026-02-28 02:03
-- Location: ABC News (AU)
-- Description: Denmark is fast-tracking female conscription as it muscles up to Russia and faces threats of invasion from the US.
+### OTHER on 2026-02-28 05:46
+- Location: The Times of India
+- Description: Kolkata Police unveil all-women Pink Booths and SHINING mobile patrol units to bolster women's safety and confidence. The city is touted as one of India's safest, with crimes against women on a decline. By merging technology, trained personnel, and strong com…
 
 
-### OTHER on 2026-02-28 02:02
-- Location: The Indian Express
-- Description: Bahul Ramesh on trusting impulse over structure and building his thrillers inside out, one scene at a time.
+### SHOOTING on 2026-02-28 05:46
+- Location: The Star Online
+- Description: ALOR SETAR: Two more suspects have been arrested in connection with the shooting incident involving a senior officer of Malaysia Border Control and Protection Agency (AKPS), says Datuk Seri Saifuddin Nasution Ismail. Read full story
 
-
-### OTHER on 2026-02-28 02:00
-- Location: Allthatsinteresting.com
-- Description: With roots in the temperance movement, Prohibition was intended to improve morality in American society and produce a more disciplined workforce. Instead, it led to the rise of organized crime, people dying from drinking tainted liquor, and distrust of govern…
-
-Analysis generated at: Sun Mar  1 02:46:22 UTC 2026
+Analysis generated at: Sun Mar  1 06:39:34 UTC 2026
