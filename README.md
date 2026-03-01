@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Feb 28 18:25:44 UTC 2026
+Last updated: Sun Mar  1 01:49:31 UTC 2026
 
 ## Latest Analysis
 
-Loaded 91903 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-27 18:18:44
+Loaded 91916 incidents
+Date range: 2024-01-01 00:00:00 to 2026-02-28 01:40:49
 
 Incidents by source:
 source
-newsapi           91802
+newsapi           91815
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,31 +24,31 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-02-27 18:18
-- Location: TheWrap
-- Description: From "Bridgerton" Season 4 Part 2 to "DTF St. Louis" and everything in between
-The post The 8 Best New Movies and Shows to Stream This Weekend on Netflix, Prime Video and More appeared first on TheWrap.
+### OTHER on 2026-02-28 01:40
+- Location: Globalresearch.ca
+- Description: Anyone who criticizes those in power in Kenya risks their freedom or worse. The brutal abduction of Booker Omole marks a new escalation in a country sliding toward authoritarian rule.
+
+To read this article in the following languages, click the …
+The post Oppo…
 
 
-### ROBBERY/THEFT on 2026-02-27 18:15
-- Location: Mother Jones
-- Description: This story is published in partnership with The Florida Trib. In a small, piercingly bright room inside a state prison in northeast Florida, Frank Walls was strapped to a gurney and injected three times: first with a sedative meant to render him unconscious, …
+### ROBBERY/THEFT on 2026-02-28 01:40
+- Location: CinemaBlend
+- Description: He has a good reason.
 
 
-### OTHER on 2026-02-27 18:00
-- Location: Consequence.net
-- Description: Here's what to stream the weekend of February 27th. 
-Stream On This Week: A Scrubs-Tastic Revival, Pirates, Spies, and Ninja Turtles
-Liz Shannon Miller
+### HOMICIDE on 2026-02-28 01:36
+- Location: Us Weekly
+- Description: Former MLB player Dan Serafini has been sentenced to life in prison for shooting his in-laws. On Friday, February 27, a judge sentenced Serafini, 52, to life in prison without the possibility of parole for the murder of his father-in-law Gary Spohr and the at…
 
 
-### SHOOTING on 2026-02-27 17:58
-- Location: BetaKit
-- Description: OpenAI says that since banning a mass shooter in Tumbler Ridge, BC, it has tightened protocols for referring ChatGPT accounts to police, and would have reported it had the account been flagged today.
+### OTHER on 2026-02-28 01:26
+- Location: TMZ
+- Description: An attorney for two people targeted in raids connected to Nancy Guthrie's disappearance is calling out law enforcement for going after his client ... who he says has no involvement in the crime. Attorney Chris Scileppi represents Luke Daley -- the…
 
 
-### OTHER on 2026-02-27 17:57
-- Location: Hollywood Reporter
-- Description: Logan Marshall-Green and Gil Birmingham also star in the crime procedural, which follows federal law enforcement as they solve cases and chase bad guys in the mountains of Montana.
+### OTHER on 2026-02-28 01:06
+- Location: Al Jazeera English
+- Description: The expanded indictment targets protesters who rallied at Cities Church in St Paul against Trump's immigration surge.
 
-Analysis generated at: Sat Feb 28 18:25:44 UTC 2026
+Analysis generated at: Sun Mar  1 01:49:31 UTC 2026
