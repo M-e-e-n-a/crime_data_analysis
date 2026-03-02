@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Mar  2 06:51:23 UTC 2026
+Last updated: Mon Mar  2 12:43:48 UTC 2026
 
 ## Latest Analysis
 
-Loaded 92039 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-01 05:54:33
+Loaded 92068 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-01 12:39:00
 
 Incidents by source:
 source
-newsapi           91938
+newsapi           91967
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-03-01 05:54
-- Location: Newsonjapan.com
-- Description: A man indicted on murder charges over the killing of a 31-year-old nailist in Mito, Ibaraki Prefecture, is suspected of attaching a location-tracking “lost-item tag” to the victim’s car, investigative sources said, with police planning to rearrest him on Marc…
+### HOMICIDE on 2026-03-01 12:39
+- Location: Sky.com
+- Description: At least three people have been killed after shooting at a bar in Texas.
 
 
-### OTHER on 2026-03-01 05:30
-- Location: Independent.ie
-- Description: A mother and daughter will be sentenced next month after pleading guilty to money laundering more than €500,000 for the Boylan Organised Crime Group (OCG).
+### HOMICIDE on 2026-03-01 12:37
+- Location: Boston Herald
+- Description: Three people were killed, including the alleged gunman, and 14 others were wounded in a shooting early Sunday at a popular bar in the Texas capital of Austin, police said.
 
 
-### OTHER on 2026-03-01 05:12
-- Location: The Irish Times
-- Description: Including Vladimir, Scarpetta, Young Sherlock, Imperfect Women and Something Very Bad Is Going to Happen
+### HOMICIDE on 2026-03-01 12:37
+- Location: Boston Herald
+- Description: Three people were killed, including the alleged gunman, and 14 others were wounded in a shooting early Sunday at a popular bar in the Texas capital of Austin, police said.
 
 
-### HOMICIDE on 2026-03-01 04:15
-- Location: Screen Rant
-- Description: Kodansha is bringing one of 2021's coolest mysteries, Lonely Deaths Lie Thick as Snow, to North American readers.
+### HOMICIDE on 2026-03-01 12:37
+- Location: Boston Herald
+- Description: Three people were killed, including the alleged gunman, and 14 others were wounded in a shooting early Sunday at a popular bar in the Texas capital of Austin, police said.
 
 
-### HOMICIDE on 2026-03-01 04:08
-- Location: HuffPost
-- Description: He was killed on Saturday in air strikes by Israel and the U.S. that pulverised his central Tehran compound.
+### ASSAULT on 2026-03-01 12:32
+- Location: Abcnews.com
+- Description: The fighting in the region is leaving thousands of Americans there uncertain about their situation. ABC News' Chief International Correspondent James Longman reports from Turkey.
 
-Analysis generated at: Mon Mar  2 06:51:23 UTC 2026
+Analysis generated at: Mon Mar  2 12:43:48 UTC 2026
