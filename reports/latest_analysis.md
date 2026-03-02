@@ -1,10 +1,10 @@
 
-Loaded 92021 incidents
-Date range: 2024-01-01 00:00:00 to 2026-02-28 18:25:02
+Loaded 92027 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-01 00:56:00
 
 Incidents by source:
 source
-newsapi           91920
+newsapi           91926
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-02-28 18:25
-- Location: The Irish Times
-- Description: Tatjana Talockina, a Latvian national with an address at Foster Terrace, Ballybough, appeared at Dublin District Court
+### OTHER on 2026-03-01 00:56
+- Location: The Star Online
+- Description: LA PAZ, ⁠Feb 28 (Reuters) - Anger swelled in a poor Bolivian city where a plane crash left banknotes ⁠strewn on the ground, prompting authorities to burn the notes they collected and use ‌tear gas to disperse those they accused of trying to pick them up. Read…
 
 
-### ROBBERY/THEFT on 2026-02-28 18:22
-- Location: The Times of India
-- Description: A bike-theft suspect, Firoz Ansari, escaped from a Siwan police lock-up early Friday by breaking through a washroom wall and exiting via a window. The escape was detected about an hour later, prompting Siwan SP Puran Kumar Jha to issue show-cause notices to a…
+### ROBBERY/THEFT on 2026-03-01 00:38
+- Location: Forbes
+- Description: Headaches and problems have piled up in the U.S. and Mexico prior to this summer's World Cup. Can they be solved prior to the June 11 kickoff?
 
 
-### OTHER on 2026-02-28 18:17
-- Location: The Times of India
-- Description: Bihar Police are boosting security for Holi and Ramzan by deploying thousands of personnel, including CAPF officers and trainee constables. The plan emphasizes proactive measures: peace committee meetings, social media monitoring, and heightened focus on sens…
+### OTHER on 2026-03-01 00:08
+- Location: Abcnews.com
+- Description: Court records in New Orleans show that actor Shia LaBeouf has been rearrested and charged with an additional count of simple battery
 
 
-### HOMICIDE on 2026-02-28 18:10
-- Location: RTE
-- Description: A 63-year-old woman has appeared in court charged with the murder of a man in his 50s in Dublin's north inner city last month.
+### HOMICIDE on 2026-03-01 00:03
+- Location: Fox News
+- Description: A former escaped fugitive was charged with the 1996 Kentucky killing of 7-year-old Morgan Jade Violi after DNA evidence linked him to the 30-year-old cold case.
 
 
-### OTHER on 2026-02-28 17:41
-- Location: ProPublica
-- Description: A pending case could expose thousands of immigrant parents to deportation due to minor involvement in juvenile courts.
+### OTHER on 2026-03-01 00:03
+- Location: Wnd.com
+- Description: 'It's going to be fun to watch'
 
-Analysis generated at: Sun Mar  1 18:26:11 UTC 2026
+Analysis generated at: Mon Mar  2 01:29:28 UTC 2026
