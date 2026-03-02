@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Mar  2 13:11:13 UTC 2026
+Last updated: Mon Mar  2 18:38:59 UTC 2026
 
 ## Latest Analysis
 
-Loaded 92078 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-01 13:07:40
+Loaded 92131 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-01 18:36:58
 
 Incidents by source:
 source
-newsapi           91977
+newsapi           92030
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-03-01 13:07
-- Location: Toronto Sun
-- Description: Ding dong, the Ayatollah is dead and the whole world should be celebrating. Read more.
+### HOMICIDE on 2026-03-01 18:36
+- Location: Breitbart News
+- Description: FOX News's Bill Melugin is reporting that the shooter who killed two innocents and wounded numerous others at an Austin, Texas, nightclub was wearing a shirt that said, "Property of Allah."
+The post Report: Texas Bar Shooter Wore Shirt That Said, ‘Property of…
 
 
-### HOMICIDE on 2026-03-01 13:06
+### HOMICIDE on 2026-03-01 18:35
 - Location: The Times of India
-- Description: Austin Police Chief Lisa Davis said at a press conference early Sunday that police received a call for reports of a "male shooting" at Buford's, a popular beer garden in the city's entertainment district.
+- Description: Mumbai: A 46-year-old man was arrested by MIDC police for the brutal murder of his wife on a street at Andheri East on Saturday as she was not willing.
 
 
-### HOMICIDE on 2026-03-01 13:00
-- Location: The Denver Post
-- Description: Defense attorneys James Castle and Laura Jensen accused the Denver District Attorney’s Office of being “out of control” and a “rogue office that operates with impunity in regards to their discovery violations”
+### OTHER on 2026-03-01 18:32
+- Location: The Times of India
+- Description: Panaji: Owing to vehicle related menace on roads, the traffic cell of Goa police has decided to use social media for awareness on certain key violatio.
 
 
-### OTHER on 2026-03-01 13:00
-- Location: Thegatewaypundit.com
-- Description: A Tennessee mother and her kids were a victim of a carjacking earlier this week at a Burger King in Memphis.
-The post Mother and Her Children Carjacked at Tennessee Burger King after Mom Went Back in for Missing Fries appeared first on The Gateway Pundit.
+### HOMICIDE on 2026-03-01 18:32
+- Location: Fox News
+- Description: FBI investigates Austin shooting that killed 3, wounded 14 in downtown entertainment district as potentially an act of terrorism after Sunday rampage.
 
 
-### OTHER on 2026-03-01 13:00
-- Location: The Denver Post
-- Description: The restoration is expected to be completed by the end of 2027.
+### OTHER on 2026-03-01 18:21
+- Location: The Times of India
+- Description: Panic gripped Dandkhora in Katihar on Sunday after a farmer spotted a leopard. Forest and police teams have intensified the hunt, with loudspeakers urging residents to stay alert and avoid fields at dusk. Unconfirmed earlier sightings fuel worry as authoritie…
 
-Analysis generated at: Mon Mar  2 13:11:13 UTC 2026
+Analysis generated at: Mon Mar  2 18:38:59 UTC 2026
