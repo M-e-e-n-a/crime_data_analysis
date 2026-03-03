@@ -1,10 +1,10 @@
 
-Loaded 92131 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-01 18:36:58
+Loaded 92149 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-02 01:36:14
 
 Incidents by source:
 source
-newsapi           92030
+newsapi           92048
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-03-01 18:36
-- Location: Breitbart News
-- Description: FOX News's Bill Melugin is reporting that the shooter who killed two innocents and wounded numerous others at an Austin, Texas, nightclub was wearing a shirt that said, "Property of Allah."
-The post Report: Texas Bar Shooter Wore Shirt That Said, ‘Property of…
+### HOMICIDE on 2026-03-02 01:36
+- Location: Abcnews.com
+- Description: In the U.S., Iranians and Iranian-Americans are taking to the streets to celebrate and protest the U.S. military strikes and the death of the Iranian supreme leader. ABC News' Jaclyn Lee reports.
 
 
-### HOMICIDE on 2026-03-01 18:35
-- Location: The Times of India
-- Description: Mumbai: A 46-year-old man was arrested by MIDC police for the brutal murder of his wife on a street at Andheri East on Saturday as she was not willing.
+### HOMICIDE on 2026-03-02 01:32
+- Location: RTE
+- Description: US President Donald Trump vowed to avenge the first US deaths in the war he launched to topple Iran's cleric-run state, which fired missiles across the Middle East even as the headquarters of its elite Revolutionary Guards was reduced to rubble.
 
 
-### OTHER on 2026-03-01 18:32
-- Location: The Times of India
-- Description: Panaji: Owing to vehicle related menace on roads, the traffic cell of Goa police has decided to use social media for awareness on certain key violatio.
+### HOMICIDE on 2026-03-02 01:30
+- Location: The Indian Express
+- Description: On April 21 last year, a Panvel court sentenced three people, including a former inspector, for murdering Assistant Inspector Ashwini Bidre Gore. Ten months later, authorities refused to issue her death certificate saying the judgment may get overturned, leav…
 
 
-### HOMICIDE on 2026-03-01 18:32
-- Location: Fox News
-- Description: FBI investigates Austin shooting that killed 3, wounded 14 in downtown entertainment district as potentially an act of terrorism after Sunday rampage.
+### HOMICIDE on 2026-03-02 01:21
+- Location: Boston Herald
+- Description: A gunman wearing clothes with an Iranian flag design and the words "Property of Allah" killed two people and wounded 14 early Sunday at a Texas bar, a law enforcement official told The Associated Press.
 
 
-### OTHER on 2026-03-01 18:21
-- Location: The Times of India
-- Description: Panic gripped Dandkhora in Katihar on Sunday after a farmer spotted a leopard. Forest and police teams have intensified the hunt, with loudspeakers urging residents to stay alert and avoid fields at dusk. Unconfirmed earlier sightings fuel worry as authoritie…
+### HOMICIDE on 2026-03-02 01:00
+- Location: Allthatsinteresting.com
+- Description: Between 2005 and 2008, Vlado Taneski brutally raped and killed at least three women in Kičevo, Macedonia, then reported about their deaths for local newspapers. 
+The post The Horrific Story Of Vlado Taneski, The Serial Killer Journalist Who Reported On His Ow…
 
-Analysis generated at: Mon Mar  2 18:38:59 UTC 2026
+Analysis generated at: Tue Mar  3 01:44:40 UTC 2026
