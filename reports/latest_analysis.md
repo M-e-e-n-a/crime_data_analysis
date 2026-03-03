@@ -1,10 +1,10 @@
 
-Loaded 92222 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-02 12:18:35
+Loaded 92228 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-02 13:06:28
 
 Incidents by source:
 source
-newsapi           92121
+newsapi           92127
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-03-02 12:18
-- Location: National Post
-- Description: York Regional Police officers were called to Saliwan Boxing, near Yonge Street and Steeles Avenue West, at around 3 am following reports of a shooting
+### HOMICIDE on 2026-03-02 13:06
+- Location: Abcnews.com
+- Description: A suspect allegedly opened fire at about 2 a.m. on Sunday in the Texas capital.
 
 
-### OTHER on 2026-03-02 12:00
-- Location: Wonkette.com
-- Description: News and things to read, watch and listen to
+### ROBBERY/THEFT on 2026-03-02 13:05
+- Location: CoinDesk
+- Description: An unblurred image shared by the National Tax Service exposed crypto wallet seed phrases, prompting a multi-agency probe and a sweeping review of digital asset seizure procedures.
 
 
-### SHOOTING on 2026-03-02 11:58
-- Location: The Hill
-- Description: According to the Department of Homeland Security (DHS), Diagne entered the U.S. on a tourist visa in March 2000. Since then, he became a lawful permanent...
+### OTHER on 2026-03-02 13:02
+- Location: Screenanarchy.com
+- Description: As a Tunisian queer filmmaker, one must exercise particular care when addressing an issue that remains deeply taboo in society to this day. Yet this does not prevent Leyla Bouzid from boldly portraying the increasingly precarious reality faced by homosexual p…
 
 
-### OTHER on 2026-03-02 11:53
-- Location: The Times of India
-- Description: The Maharashtra Police Bharti Physical Efficiency Test (PET) 2026 is in progress, with admit cards now accessible on the official portal. Candidates must download and carry the hall ticket, as entry without it is strictly barred. The document contains vital d…
+### OTHER on 2026-03-02 13:00
+- Location: The Denver Post
+- Description: "When this crazy liberal from Denver and this libertarian from El Paso County sit in front of you, that means there is a legitimate community concern," state Rep. Jennifer Bacon said.
 
 
-### OTHER on 2026-03-02 11:44
-- Location: The Times of India
-- Description: Ranchi police have detained eight individuals, including five women and three men, for their alleged involvement in a sex racket operating from a hotel near the railway station. Raids were conducted at multiple locations following a tip-off about human traffi…
+### HOMICIDE on 2026-03-02 12:56
+- Location: New York Post
+- Description: Senegalese national Ndiaga Diagne, 53, was shot dead by Austin police.
 
-Analysis generated at: Tue Mar  3 12:43:00 UTC 2026
+Analysis generated at: Tue Mar  3 13:09:14 UTC 2026
