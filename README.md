@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Mar  3 01:44:40 UTC 2026
+Last updated: Tue Mar  3 02:37:17 UTC 2026
 
 ## Latest Analysis
 
-Loaded 92149 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-02 01:36:14
+Loaded 92156 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-02 02:34:48
 
 Incidents by source:
 source
-newsapi           92048
+newsapi           92055
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-03-02 01:36
-- Location: Abcnews.com
-- Description: In the U.S., Iranians and Iranian-Americans are taking to the streets to celebrate and protest the U.S. military strikes and the death of the Iranian supreme leader. ABC News' Jaclyn Lee reports.
+### HOMICIDE on 2026-03-02 02:34
+- Location: CBC News
+- Description: The father of 12-year-old Abel Mwansa Jr. says he is "eternally grateful" to the governments of Zambia, Canada and local MP Bob Zimmer, among others, for helping him repatriate the body of his son after he was killed in Tumbler Ridge, B.C., last month.
 
 
-### HOMICIDE on 2026-03-02 01:32
-- Location: RTE
-- Description: US President Donald Trump vowed to avenge the first US deaths in the war he launched to topple Iran's cleric-run state, which fired missiles across the Middle East even as the headquarters of its elite Revolutionary Guards was reduced to rubble.
+### SHOOTING on 2026-03-02 02:34
+- Location: The Star Online
+- Description: KOTA KINABALU: A man who was earlier reported to have died after falling from a tree while hunting in Kota Belud was actually shot, police said. Read full story
 
 
-### HOMICIDE on 2026-03-02 01:30
+### OTHER on 2026-03-02 02:30
 - Location: The Indian Express
-- Description: On April 21 last year, a Panvel court sentenced three people, including a former inspector, for murdering Assistant Inspector Ashwini Bidre Gore. Ten months later, authorities refused to issue her death certificate saying the judgment may get overturned, leav…
+- Description: In a New Year's eve toast in 1977, US president Jimmy Carter hailed the Shah of Iran and called the country 'an island of stability'. It wouldn't remain an 'island of stability' for much longer.
 
 
-### HOMICIDE on 2026-03-02 01:21
-- Location: Boston Herald
-- Description: A gunman wearing clothes with an Iranian flag design and the words "Property of Allah" killed two people and wounded 14 early Sunday at a Texas bar, a law enforcement official told The Associated Press.
+### HOMICIDE on 2026-03-02 02:29
+- Location: The Times of India
+- Description: A man allegedly strangled his wife to death in Kanpur and dumped her body in a drain, weighing it down with stones. Police arrested the husband and two brothers-in-law, with the husband confessing to the crime. The victim's brother reported ongoing domestic a…
 
 
-### HOMICIDE on 2026-03-02 01:00
-- Location: Allthatsinteresting.com
-- Description: Between 2005 and 2008, Vlado Taneski brutally raped and killed at least three women in Kičevo, Macedonia, then reported about their deaths for local newspapers. 
-The post The Horrific Story Of Vlado Taneski, The Serial Killer Journalist Who Reported On His Ow…
+### OTHER on 2026-03-02 02:14
+- Location: Abcnews.com
+- Description: President Trump returned to the White House on Sunday night following the U.S. strikes on Iran, but he did not answer questions from reporters.
 
-Analysis generated at: Tue Mar  3 01:44:40 UTC 2026
+Analysis generated at: Tue Mar  3 02:37:17 UTC 2026
