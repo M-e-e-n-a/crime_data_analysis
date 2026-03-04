@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Mar  4 02:29:58 UTC 2026
+Last updated: Wed Mar  4 06:40:36 UTC 2026
 
 ## Latest Analysis
 
-Loaded 92324 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-03 02:27:22
+Loaded 92347 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-03 06:35:21
 
 Incidents by source:
 source
-newsapi           92223
+newsapi           92246
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,30 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2026-03-03 02:27
-- Location: Fox News
-- Description: Cher's son Elijah Blue Allman was arrested twice in one weekend in New Hampshire, facing burglary and assault charges after alleged incidents at local properties.
+### SHOOTING on 2026-03-03 06:35
+- Location: Gossiplankanews.com
+- Description: Two officials have confirmed that American Marines fired upon protesters who stormed the U.S. Consulate in Karachi, Pakistan, in opposition to the assassination of Iranian Supreme Leader Ayatollah Ali Khamenei. The use of force at a diplomatic mission is a ra…
 
 
-### OTHER on 2026-03-03 02:05
-- Location: Us Weekly
-- Description: After being detained with his mother by police following a SWAT raid at his home in Arizona and a car search in connection to Nancy Guthrie’s alleged kidnapping, Luke Daley has broken his silence. “It’s not me,” Daley, 37, told True Crime Arizona host Briana …
+### OTHER on 2026-03-03 06:18
+- Location: Glasgow Times
+- Description: Police Scotland warns officers are spending more time on mental health callouts than crime, with 700 incidents daily. Calls for NHS-led response…
 
 
-### OTHER on 2026-03-03 02:00
-- Location: GlobeNewswire
-- Description: Okello T. Chatrie v. United States Okello T. Chatrie v. United States
+### HOMICIDE on 2026-03-03 06:13
+- Location: ABC News (AU)
+- Description: A 19-year-old WA man admits threatening to kill the PM and NSW premier in a direct message to Chris Minns on Instagram.
 
 
-### HOMICIDE on 2026-03-03 01:50
-- Location: The Punch
-- Description: The Association of Psychiatrists in Nigeria condemns the murder of Dr. Andrew Orovwigho in Enugu and demands justice for their colleague.
-
-Read More: https://punchng.com/psychiatrists-condemn-killing-of-colleague-in-enugu-demand-justice/
+### HOMICIDE on 2026-03-03 06:08
+- Location: The Star Online
+- Description: PARIS/BERLIN, March 3 (Reuters) - The killing of a ⁠young activist in France - cast by some as the country's "Charlie Kirk moment" - has galvanised Europe's far right, sparking coordinated rallies across the continent that highlight how local groups are build…
 
 
-### OTHER on 2026-03-03 01:41
-- Location: Rlsbb.to
-- Description: Season 1, Episode 02 – Detectives in Cheshire investigate a prolific international criminal gang responsible for stealing £160,000 worth of premium goods from Asda over 81 raids, distracting security as they hit stores across the country. Police use ANPR to t…
+### OTHER on 2026-03-03 06:01
+- Location: The Irish Times
+- Description: In a society with so much stigma around reporting childhood sex abuse, I have often doubted that decision, and asked myself: ‘Was it my fault?’
 
-Analysis generated at: Wed Mar  4 02:29:58 UTC 2026
+Analysis generated at: Wed Mar  4 06:40:36 UTC 2026
