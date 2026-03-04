@@ -1,10 +1,10 @@
 
-Loaded 92318 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-03 01:25:16
+Loaded 92324 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-03 02:27:22
 
 Incidents by source:
 source
-newsapi           92217
+newsapi           92223
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,30 +20,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-03-03 01:25
-- Location: The Times of India
-- Description: America and Israel have initiated a war against Iran. A surprise strike eliminated Iran's supreme leader, Ayatollah Ali Khamenei. This action raises serious legal questions regarding the targeting of sovereign nation leaders. The United States stated the stri…
+### ROBBERY/THEFT on 2026-03-03 02:27
+- Location: Fox News
+- Description: Cher's son Elijah Blue Allman was arrested twice in one weekend in New Hampshire, facing burglary and assault charges after alleged incidents at local properties.
 
 
-### SHOOTING on 2026-03-03 01:23
-- Location: ABC News (AU)
-- Description: Police were called to a unit in inner Sydney after reports an armed man had entered the building and assaulted two women.
+### OTHER on 2026-03-03 02:05
+- Location: Us Weekly
+- Description: After being detained with his mother by police following a SWAT raid at his home in Arizona and a car search in connection to Nancy Guthrie’s alleged kidnapping, Luke Daley has broken his silence. “It’s not me,” Daley, 37, told True Crime Arizona host Briana …
 
 
-### OTHER on 2026-03-03 01:15
-- Location: ComicBook.com
-- Description: Sci-fi is one of the most important and beloved genres of both the past and present. It’s wildly popular, and for good reason—it’s both an escape and an examination of our world told through a lens that’s both hopeful and unfamiliar, pushing us to discover ne…
+### OTHER on 2026-03-03 02:00
+- Location: GlobeNewswire
+- Description: Okello T. Chatrie v. United States Okello T. Chatrie v. United States
 
 
-### OTHER on 2026-03-03 01:07
+### HOMICIDE on 2026-03-03 01:50
 - Location: The Punch
-- Description: President Tinubu will swear in Olatunji Disu as the new Inspector General of Police following the unanimous endorsement of the Nigeria Police Council.
+- Description: The Association of Psychiatrists in Nigeria condemns the murder of Dr. Andrew Orovwigho in Enugu and demands justice for their colleague.
 
-Read More: https://punchng.com/tinubu-to-swear-in-disu-as-ig-wednesday-2/
+Read More: https://punchng.com/psychiatrists-condemn-killing-of-colleague-in-enugu-demand-justice/
 
 
-### OTHER on 2026-03-03 01:00
-- Location: Screen Rant
-- Description: One of the best tricks a TV series can pull is making you empathize with terrible people. Shows like Barry and Succession have done it masterfully.
+### OTHER on 2026-03-03 01:41
+- Location: Rlsbb.to
+- Description: Season 1, Episode 02 – Detectives in Cheshire investigate a prolific international criminal gang responsible for stealing £160,000 worth of premium goods from Asda over 81 raids, distracting security as they hit stores across the country. Police use ANPR to t…
 
-Analysis generated at: Wed Mar  4 01:27:12 UTC 2026
+Analysis generated at: Wed Mar  4 02:29:58 UTC 2026
