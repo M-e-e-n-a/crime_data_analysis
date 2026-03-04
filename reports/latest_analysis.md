@@ -1,10 +1,10 @@
 
-Loaded 92305 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-02 18:38:23
+Loaded 92318 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-03 01:25:16
 
 Incidents by source:
 source
-newsapi           92204
+newsapi           92217
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2026-03-02 18:38
-- Location: Fox News
-- Description: The FBI remains on high alert as U.S. escalates Iran conflict, deploying more troops to Middle East while counterterrorism teams work around the clock.
+### HOMICIDE on 2026-03-03 01:25
+- Location: The Times of India
+- Description: America and Israel have initiated a war against Iran. A surprise strike eliminated Iran's supreme leader, Ayatollah Ali Khamenei. This action raises serious legal questions regarding the targeting of sovereign nation leaders. The United States stated the stri…
 
 
-### HOMICIDE on 2026-03-02 18:30
-- Location: Fox News
-- Description: Joe Abraham’s 20-year-old daughter, Katie, was killed last year when the vehicle she was traveling in was rear-ended by an illegal immigrant drunk driver, according to police.
+### SHOOTING on 2026-03-03 01:23
+- Location: ABC News (AU)
+- Description: Police were called to a unit in inner Sydney after reports an armed man had entered the building and assaulted two women.
 
 
-### OTHER on 2026-03-02 18:25
-- Location: Freerepublic.com
-- Description: The SWAT response and shelter-in-place order in Lake in the Hills Thursday morning was due to a search warrant on a 20-year-old man allegedly possessing 38 rounds of pistol and rifle ammunition without a FOID card. Joel Fernandez, 20, was arrested without inc…
+### OTHER on 2026-03-03 01:15
+- Location: ComicBook.com
+- Description: Sci-fi is one of the most important and beloved genres of both the past and present. It’s wildly popular, and for good reason—it’s both an escape and an examination of our world told through a lens that’s both hopeful and unfamiliar, pushing us to discover ne…
 
 
-### OTHER on 2026-03-02 18:14
-- Location: CBS Sports
-- Description: The Hornets, Suns, Spurs, Celtics and Pistons have all overachieved this season... so which coach deserves the honor?
+### OTHER on 2026-03-03 01:07
+- Location: The Punch
+- Description: President Tinubu will swear in Olatunji Disu as the new Inspector General of Police following the unanimous endorsement of the Nigeria Police Council.
+
+Read More: https://punchng.com/tinubu-to-swear-in-disu-as-ig-wednesday-2/
 
 
-### OTHER on 2026-03-02 18:00
-- Location: Vulture
-- Description: Four seasons in, ‘Dark Winds’ is having some fun with one of its most consistent tropes with Zahn McClarnon and Franka Potente giving a pair of intensely entertaining performances.
+### OTHER on 2026-03-03 01:00
+- Location: Screen Rant
+- Description: One of the best tricks a TV series can pull is making you empathize with terrible people. Shows like Barry and Succession have done it masterfully.
 
-Analysis generated at: Tue Mar  3 18:40:38 UTC 2026
+Analysis generated at: Wed Mar  4 01:27:12 UTC 2026
