@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Mar  4 13:08:18 UTC 2026
+Last updated: Wed Mar  4 18:40:46 UTC 2026
 
 ## Latest Analysis
 
-Loaded 92401 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-03 13:02:32
+Loaded 92474 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-03 18:39:14
 
 Incidents by source:
 source
-newsapi           92300
+newsapi           92373
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-03-03 13:02
-- Location: HackRead
-- Description: Europol’s Project Compass targets The Com (aka 764 network), an online group exploiting minors. After 30 arrests, officials say the hunt for those involved is far from over.
+### SHOOTING on 2026-03-03 18:39
+- Location: Israelnationalnews.com
+- Description: Police investigate suspected antisemitic attack after 12 bullets fired at Temple Emanu-El; no injuries reported.
 
 
-### HOMICIDE on 2026-03-03 13:02
-- Location: News.com.au
-- Description: A man on an unregistered trail bike has been caught performing death-defying stunts on the Sydney Harbor Bridge, popping wheelies and ducking between cars.
+### HOMICIDE on 2026-03-03 18:38
+- Location: BroBible
+- Description: On Tuesday, the United States Attorney for the Northern District of Florida announced that a federal court had indicted a 46-year-old man on one count of threat upon the President of the United States. At the United States Courthouse in Pensacola, Florida, th…
 
 
-### SHOOTING on 2026-03-03 13:00
-- Location: The Denver Post
-- Description: Aurora has settled a federal lawsuit brought by a protester last year against the city over public comment rules at city council meetings, with the city agreeing to provide up to one hour for the public to speak at the start of regularly scheduled meetings.
+### OTHER on 2026-03-03 18:38
+- Location: Abcnews.com
+- Description: The House Oversight Committee released video of the the Clintons' depositions as part of an inquiry into the federal government's handling of investigations into Jeffrey Epstein and Ghislaine Maxwell.
 
 
-### HOMICIDE on 2026-03-03 13:00
+### ASSAULT on 2026-03-03 18:35
+- Location: Abcnews.com
+- Description: President Donald Trump pushed back on the idea that Israel forced the Trump administration's hand to attack Iran, telling ABC News that Iran was "going to attack if we didn't do it."
+
+
+### HOMICIDE on 2026-03-03 18:27
 - Location: Fox News
-- Description: Texas Democratic Senate candidates Talarico and Crockett focused on gun control after Austin shooting, avoiding addressing possible Islamic terrorism concerns.
+- Description: DHS clashes with Virginia governor over accused murderer's release. Immigration dispute erupts after illegal immigrant with 30+ arrests charged.
 
-
-### HOMICIDE on 2026-03-03 12:56
-- Location: The Times of India
-- Description: Jammu and Kashmir Chief Minister Omar Abdullah condemned strikes on Iran. He questioned the authority of the United States and Israel to take such actions. Abdullah stated that no international law justifies foreign military aggression or the killing of civil…
-
-Analysis generated at: Wed Mar  4 13:08:18 UTC 2026
+Analysis generated at: Wed Mar  4 18:40:46 UTC 2026
