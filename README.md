@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Mar  5 12:45:35 UTC 2026
+Last updated: Thu Mar  5 13:12:08 UTC 2026
 
 ## Latest Analysis
 
-Loaded 92573 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-04 12:38:06
+Loaded 92580 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-04 13:00:59
 
 Incidents by source:
 source
-newsapi           92472
+newsapi           92479
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-03-04 12:38
-- Location: Freerepublic.com
-- Description: RAIFORD, Fla. — Billy Leon Kearse, the Fort Pierce man convicted of shooting and killing a police sergeant 35 years ago, was declared dead at 6:24 p.m. He declined his last meal in the hours before his scheduled execution at Florida State Prison. The Florida …
+### SHOOTING on 2026-03-04 13:00
+- Location: The Denver Post
+- Description: A former Colorado doctor accused of sexually assaulting a woman on the Western Slope was arrested in Florida Monday after stating “he would not be taken into custody alive” and opening fire on officers, police say.
 
 
-### OTHER on 2026-03-04 12:35
-- Location: Bellingcat.com
-- Description: US President Donald Trump said on January 2 that the US was “locked and loaded and ready to go”. Trump was talking aloud about intervening in Iran if it continued a violent crackdown on demonstrators who had taken to the streets over spiralling inflation and …
+### OTHER on 2026-03-04 13:00
+- Location: Fox News
+- Description: Volunteers used a metal detector to search the yard of missing 84-year-old Nancy Guthrie’s home. A $1M+ reward is offered as police continue investigating her Feb. 1 disappearance.
 
 
-### OTHER on 2026-03-04 12:30
-- Location: Abcnews.com
-- Description: ABC News' Danny New talks to NBA legend Marques Johnson, who says this year may be his final birthday dunk.
+### OTHER on 2026-03-04 13:00
+- Location: Vulture
+- Description: Suburban boredom leads to a fatal love triangle starring TV heavyweights Jason Bateman, Linda Cardellini, and David Harbour in HBO’s latest buzzy mystery thriller.
 
 
-### HOMICIDE on 2026-03-04 12:25
-- Location: Freerepublic.com
-- Description: Luigi: The Musical will premiere in New York City this summer, mere miles from where Luigi Mangione allegedly assassinated the father of two children. The show is already a hit in far-left San Francisco. Prosecutors say Mangione gunned down UnitedHealthcare C…
+### HOMICIDE on 2026-03-04 13:00
+- Location: Us Weekly
+- Description: On February 23, Nick Reiner appeared at the Los Angeles Superior Court, where his lawyer entered a plea of not guilty to the brutal murder of his parents, Rob Reiner and Michele Singer Reiner, late last year. Dressed in a brown, jail-issued jumpsuit and sport…
 
 
-### OTHER on 2026-03-04 12:06
-- Location: YLE News
-- Description: Police have detained a 71-year-old resident of the building on suspicion of deliberately setting the blaze.
+### OTHER on 2026-03-04 13:00
+- Location: Rolling Stone
+- Description: After the government declares mission complete in Minneapolis, aggressive ICE occupation continues in small-town Minnesota
 
-Analysis generated at: Thu Mar  5 12:45:35 UTC 2026
+Analysis generated at: Thu Mar  5 13:12:08 UTC 2026
