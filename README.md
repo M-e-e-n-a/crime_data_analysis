@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Mar  5 02:32:54 UTC 2026
+Last updated: Thu Mar  5 06:46:10 UTC 2026
 
 ## Latest Analysis
 
-Loaded 92510 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-04 02:23:24
+Loaded 92535 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-04 06:35:23
 
 Incidents by source:
 source
-newsapi           92409
+newsapi           92434
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,31 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-03-04 02:23
+### HOMICIDE on 2026-03-04 06:35
+- Location: Freerepublic.com
+- Description: A 6-year-old girl was killed in an accidental shooting on Monday in a shopping center parking lot in Detroit, authorities say. Detroit Police Assistance Chief Charles Fitzgerald was visibly upset as he briefed news media about the situation Monday afternoon. …
+
+
+### OTHER on 2026-03-04 06:30
+- Location: Gossiplankanews.com
+- Description: Nikaveratiya Magistrate Chandana Liyanage officially read out and handed over the charge sheet in court against a minor school student, who was arrested in connection with an incident where he allegedly misused Artificial Intelligence (AI) technology to conve…
+
+
+### OTHER on 2026-03-04 06:19
+- Location: CBS News
+- Description: Republican Rep. Dan Crenshaw of Texas lost his primary race to Republican state Rep. Steve Toth.
+
+
+### DRUG RELATED on 2026-03-04 06:13
 - Location: ABC News (AU)
-- Description: South Australia's Police Commissioner has said that two members of missing boy Gus Lamont's family are "not cooperating" with investigators, but a police spokesperson said they could not comment further on the number of suspects in the case.
+- Description: Police say 120kg of pseudoephedrine found concealed in a shipping container would have been made into illicit drugs.
 
 
-### HOMICIDE on 2026-03-04 02:07
-- Location: Bleeding Cool News
-- Description: CBS's "NCIS" universe is back in a very big way tonight, and that includes the return of Olivia Swann and Todd Lasance-starring NCIS: Sydney. In S03E09: "South of Nowhere," the pressure is even higher than usual to solve a murder. That's because the crime wen…
+### ASSAULT on 2026-03-04 06:08
+- Location: BBC News
+- Description: The Met Police says it's done a good job tackling street crime in Harold Hill - but do locals agree?
 
-
-### HOMICIDE on 2026-03-04 02:05
-- Location: The Punch
-- Description: Delta State police are on a manhunt for a man who allegedly set his wife’s shop ablaze in an act of arson and attempted murder with two people inside.
-
-Read More: https://punchng.com/police-hunt-delta-man-for-attempted-murder/
-
-
-### HOMICIDE on 2026-03-04 02:00
-- Location: CBC News
-- Description: Prime Minister Mark Carney wouldn't take a stand Wednesday on whether he thinks Indian agents are actively interfering in Canada's affairs, saying there's an ongoing criminal matter related to the murder of a B.C. Sikh man and he doesn't want to prejudice the…
-
-
-### HOMICIDE on 2026-03-04 02:00
-- Location: Allthatsinteresting.com
-- Description: Since 1997, at least 45 young men have mysteriously disappeared after a night at the bar only to be found dead in a nearby body of water — and some believe the shadowy Smiley Face Killer is to blame.
-The post Inside The Disturbing Theory Of The Smiley Face Ki…
-
-Analysis generated at: Thu Mar  5 02:32:54 UTC 2026
+Analysis generated at: Thu Mar  5 06:46:10 UTC 2026
