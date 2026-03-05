@@ -1,10 +1,10 @@
 
-Loaded 92474 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-03 18:39:14
+Loaded 92501 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-04 01:27:40
 
 Incidents by source:
 source
-newsapi           92373
+newsapi           92400
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,33 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-03-03 18:39
-- Location: Israelnationalnews.com
-- Description: Police investigate suspected antisemitic attack after 12 bullets fired at Temple Emanu-El; no injuries reported.
+### OTHER on 2026-03-04 01:27
+- Location: Breitbart News
+- Description: The Immigration and Customs Enforcement (ICE) arrested illegal alien sex offenders, rapists, fentanyl dealers, and burglars across sanctuary jurisdictions this week.
+The post ICE Agents Arrest Illegal Alien Sex Offenders, Rapists, Fentanyl Dealers in Sanctuar…
 
 
-### HOMICIDE on 2026-03-03 18:38
-- Location: BroBible
-- Description: On Tuesday, the United States Attorney for the Northern District of Florida announced that a federal court had indicted a 46-year-old man on one count of threat upon the President of the United States. At the United States Courthouse in Pensacola, Florida, th…
+### HOMICIDE on 2026-03-04 01:22
+- Location: CBC News
+- Description: Inderdeep Singh Gosal, 34, pleaded not guilty last month to second-degree murder in the death of Paul Schmidt on March 26, 2023.
 
 
-### OTHER on 2026-03-03 18:38
-- Location: Abcnews.com
-- Description: The House Oversight Committee released video of the the Clintons' depositions as part of an inquiry into the federal government's handling of investigations into Jeffrey Epstein and Ghislaine Maxwell.
+### HOMICIDE on 2026-03-04 01:21
+- Location: The Punch
+- Description: A violent Lagos communal clash between Oto-Awori and Ijanikin residents turned deadly, resulting in a student’s death and multiple injuries. Learn more.
+
+Read More: https://punchng.com/how-lagos-communal-clash-turned-deadly-residents/
 
 
-### ASSAULT on 2026-03-03 18:35
-- Location: Abcnews.com
-- Description: President Donald Trump pushed back on the idea that Israel forced the Trump administration's hand to attack Iran, telling ABC News that Iran was "going to attack if we didn't do it."
+### OTHER on 2026-03-04 01:21
+- Location: The Punch
+- Description: An Ondo couple has been sentenced to 14 years in jail for operating an illegal baby factory. NAPTIP secured the conviction after an 11-year trial.
+
+Read More: https://punchng.com/baby-factory-ondo-couple-jailed-14-years/
 
 
-### HOMICIDE on 2026-03-03 18:27
-- Location: Fox News
-- Description: DHS clashes with Virginia governor over accused murderer's release. Immigration dispute erupts after illegal immigrant with 30+ arrests charged.
+### HOMICIDE on 2026-03-04 01:19
+- Location: RTE
+- Description: A 53-year-old man convicted of killing a police officer after snatching his gun was executed by lethal injection in the southern US state of Florida.
 
-Analysis generated at: Wed Mar  4 18:40:46 UTC 2026
+Analysis generated at: Thu Mar  5 01:29:27 UTC 2026
