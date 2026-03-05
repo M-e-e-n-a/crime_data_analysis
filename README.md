@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Mar  5 13:12:08 UTC 2026
+Last updated: Thu Mar  5 19:12:38 UTC 2026
 
 ## Latest Analysis
 
-Loaded 92580 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-04 13:00:59
+Loaded 92652 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-04 19:07:22
 
 Incidents by source:
 source
-newsapi           92479
+newsapi           92551
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-03-04 13:00
-- Location: The Denver Post
-- Description: A former Colorado doctor accused of sexually assaulting a woman on the Western Slope was arrested in Florida Monday after stating “he would not be taken into custody alive” and opening fire on officers, police say.
+### OTHER on 2026-03-04 19:07
+- Location: The Conversation Africa
+- Description: At some point, Australia must accept that it is time to break the chokehold commercial gambling has on this country.
 
 
-### OTHER on 2026-03-04 13:00
-- Location: Fox News
-- Description: Volunteers used a metal detector to search the yard of missing 84-year-old Nancy Guthrie’s home. A $1M+ reward is offered as police continue investigating her Feb. 1 disappearance.
+### HOMICIDE on 2026-03-04 19:01
+- Location: Abcnews.com
+- Description: Police in Puerto Rico say an armed suspect flung open the door of an ambulance and fatally shot a man who was being treated by medics for bullet wounds he received during a shooting earlier in the U.S. territory’s capital
 
 
-### OTHER on 2026-03-04 13:00
-- Location: Vulture
-- Description: Suburban boredom leads to a fatal love triangle starring TV heavyweights Jason Bateman, Linda Cardellini, and David Harbour in HBO’s latest buzzy mystery thriller.
+### OTHER on 2026-03-04 18:40
+- Location: The Daily Caller
+- Description: An elementary school filed a police report after a City Council candidate and registered sex offender held a press conference mere feet away from the school.
 
 
-### HOMICIDE on 2026-03-04 13:00
-- Location: Us Weekly
-- Description: On February 23, Nick Reiner appeared at the Los Angeles Superior Court, where his lawyer entered a plea of not guilty to the brutal murder of his parents, Rob Reiner and Michele Singer Reiner, late last year. Dressed in a brown, jail-issued jumpsuit and sport…
+### OTHER on 2026-03-04 18:39
+- Location: Rlsbb.to
+- Description: Sekai saigo no hibi (original title) Plot: Kanou is a bored schoolboy. When a small man appears in front of him and announces that the earth will soon be destroyed, Kanou vows to spend the rest of his time doing whatever he wants to do. Kanou smashes his clas…
 
 
-### OTHER on 2026-03-04 13:00
-- Location: Rolling Stone
-- Description: After the government declares mission complete in Minneapolis, aggressive ICE occupation continues in small-town Minnesota
+### ASSAULT on 2026-03-04 18:38
+- Location: Breitbart News
+- Description: A married, former gym teacher in Rhode Island is scheduled to be arraigned this month on sexual assault charges for allegedly grooming a student into an inappropriate relationship starting in his sophomore year and planning to have sex with the boy when he tu…
 
-Analysis generated at: Thu Mar  5 13:12:08 UTC 2026
+Analysis generated at: Thu Mar  5 19:12:38 UTC 2026
