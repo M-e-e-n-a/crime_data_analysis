@@ -1,10 +1,10 @@
 
-Loaded 92535 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-04 06:35:23
+Loaded 92573 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-04 12:38:06
 
 Incidents by source:
 source
-newsapi           92434
+newsapi           92472
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-03-04 06:35
+### HOMICIDE on 2026-03-04 12:38
 - Location: Freerepublic.com
-- Description: A 6-year-old girl was killed in an accidental shooting on Monday in a shopping center parking lot in Detroit, authorities say. Detroit Police Assistance Chief Charles Fitzgerald was visibly upset as he briefed news media about the situation Monday afternoon. …
+- Description: RAIFORD, Fla. — Billy Leon Kearse, the Fort Pierce man convicted of shooting and killing a police sergeant 35 years ago, was declared dead at 6:24 p.m. He declined his last meal in the hours before his scheduled execution at Florida State Prison. The Florida …
 
 
-### OTHER on 2026-03-04 06:30
-- Location: Gossiplankanews.com
-- Description: Nikaveratiya Magistrate Chandana Liyanage officially read out and handed over the charge sheet in court against a minor school student, who was arrested in connection with an incident where he allegedly misused Artificial Intelligence (AI) technology to conve…
+### OTHER on 2026-03-04 12:35
+- Location: Bellingcat.com
+- Description: US President Donald Trump said on January 2 that the US was “locked and loaded and ready to go”. Trump was talking aloud about intervening in Iran if it continued a violent crackdown on demonstrators who had taken to the streets over spiralling inflation and …
 
 
-### OTHER on 2026-03-04 06:19
-- Location: CBS News
-- Description: Republican Rep. Dan Crenshaw of Texas lost his primary race to Republican state Rep. Steve Toth.
+### OTHER on 2026-03-04 12:30
+- Location: Abcnews.com
+- Description: ABC News' Danny New talks to NBA legend Marques Johnson, who says this year may be his final birthday dunk.
 
 
-### DRUG RELATED on 2026-03-04 06:13
-- Location: ABC News (AU)
-- Description: Police say 120kg of pseudoephedrine found concealed in a shipping container would have been made into illicit drugs.
+### HOMICIDE on 2026-03-04 12:25
+- Location: Freerepublic.com
+- Description: Luigi: The Musical will premiere in New York City this summer, mere miles from where Luigi Mangione allegedly assassinated the father of two children. The show is already a hit in far-left San Francisco. Prosecutors say Mangione gunned down UnitedHealthcare C…
 
 
-### ASSAULT on 2026-03-04 06:08
-- Location: BBC News
-- Description: The Met Police says it's done a good job tackling street crime in Harold Hill - but do locals agree?
+### OTHER on 2026-03-04 12:06
+- Location: YLE News
+- Description: Police have detained a 71-year-old resident of the building on suspicion of deliberately setting the blaze.
 
-Analysis generated at: Thu Mar  5 06:46:10 UTC 2026
+Analysis generated at: Thu Mar  5 12:45:35 UTC 2026
