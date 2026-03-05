@@ -1,10 +1,10 @@
 
-Loaded 92501 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-04 01:27:40
+Loaded 92510 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-04 02:23:24
 
 Incidents by source:
 source
-newsapi           92400
+newsapi           92409
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,33 +20,31 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-03-04 01:27
-- Location: Breitbart News
-- Description: The Immigration and Customs Enforcement (ICE) arrested illegal alien sex offenders, rapists, fentanyl dealers, and burglars across sanctuary jurisdictions this week.
-The post ICE Agents Arrest Illegal Alien Sex Offenders, Rapists, Fentanyl Dealers in Sanctuar…
+### OTHER on 2026-03-04 02:23
+- Location: ABC News (AU)
+- Description: South Australia's Police Commissioner has said that two members of missing boy Gus Lamont's family are "not cooperating" with investigators, but a police spokesperson said they could not comment further on the number of suspects in the case.
 
 
-### HOMICIDE on 2026-03-04 01:22
+### HOMICIDE on 2026-03-04 02:07
+- Location: Bleeding Cool News
+- Description: CBS's "NCIS" universe is back in a very big way tonight, and that includes the return of Olivia Swann and Todd Lasance-starring NCIS: Sydney. In S03E09: "South of Nowhere," the pressure is even higher than usual to solve a murder. That's because the crime wen…
+
+
+### HOMICIDE on 2026-03-04 02:05
+- Location: The Punch
+- Description: Delta State police are on a manhunt for a man who allegedly set his wife’s shop ablaze in an act of arson and attempted murder with two people inside.
+
+Read More: https://punchng.com/police-hunt-delta-man-for-attempted-murder/
+
+
+### HOMICIDE on 2026-03-04 02:00
 - Location: CBC News
-- Description: Inderdeep Singh Gosal, 34, pleaded not guilty last month to second-degree murder in the death of Paul Schmidt on March 26, 2023.
+- Description: Prime Minister Mark Carney wouldn't take a stand Wednesday on whether he thinks Indian agents are actively interfering in Canada's affairs, saying there's an ongoing criminal matter related to the murder of a B.C. Sikh man and he doesn't want to prejudice the…
 
 
-### HOMICIDE on 2026-03-04 01:21
-- Location: The Punch
-- Description: A violent Lagos communal clash between Oto-Awori and Ijanikin residents turned deadly, resulting in a student’s death and multiple injuries. Learn more.
+### HOMICIDE on 2026-03-04 02:00
+- Location: Allthatsinteresting.com
+- Description: Since 1997, at least 45 young men have mysteriously disappeared after a night at the bar only to be found dead in a nearby body of water — and some believe the shadowy Smiley Face Killer is to blame.
+The post Inside The Disturbing Theory Of The Smiley Face Ki…
 
-Read More: https://punchng.com/how-lagos-communal-clash-turned-deadly-residents/
-
-
-### OTHER on 2026-03-04 01:21
-- Location: The Punch
-- Description: An Ondo couple has been sentenced to 14 years in jail for operating an illegal baby factory. NAPTIP secured the conviction after an 11-year trial.
-
-Read More: https://punchng.com/baby-factory-ondo-couple-jailed-14-years/
-
-
-### HOMICIDE on 2026-03-04 01:19
-- Location: RTE
-- Description: A 53-year-old man convicted of killing a police officer after snatching his gun was executed by lethal injection in the southern US state of Florida.
-
-Analysis generated at: Thu Mar  5 01:29:27 UTC 2026
+Analysis generated at: Thu Mar  5 02:32:54 UTC 2026
