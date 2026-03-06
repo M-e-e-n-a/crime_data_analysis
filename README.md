@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Mar  6 13:07:54 UTC 2026
+Last updated: Fri Mar  6 18:36:55 UTC 2026
 
 ## Latest Analysis
 
-Loaded 92744 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-05 13:00:26
+Loaded 92798 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-05 18:36:18
 
 Incidents by source:
 source
-newsapi           92643
+newsapi           92697
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-03-05 13:00
-- Location: RTE
-- Description: The trial of a man accused of murdering his pregnant girlfriend has been hearing from the defendant's best friend.
+### ROBBERY/THEFT on 2026-03-05 18:36
+- Location: BleepingComputer
+- Description: ​A U.S. government contractor's son, accused of stealing more than $46 million in cryptocurrency from the U.S. Marshals Service, was arrested Wednesday on the island of Saint Martin. [...]
 
 
-### HOMICIDE on 2026-03-05 13:00
-- Location: RTE
-- Description: The trial of a man accused of murdering his pregnant girlfriend has been hearing from the defendant's best friend.
+### DRUG RELATED on 2026-03-05 18:25
+- Location: New York Post
+- Description: Federal agents have launched a massive takedown of the notorious 18th Street Gang — a major player in the drugs epidemic.
 
 
-### HOMICIDE on 2026-03-05 13:00
-- Location: Fox News
-- Description: Bodycam video from the bar shooting in Austin, Texas will be released Thursday as the district attorney said police officers who shot and killed the suspect will not face a grand jury.
+### HOMICIDE on 2026-03-05 18:21
+- Location: Oxygen
+- Description: Addilyn Smith’s father called 911 on Feb. 15 to report that he couldn’t get ahold of his daughter or her mother, describing it as “very strange.”
 
 
-### OTHER on 2026-03-05 13:00
-- Location: Dramabeans.com
-- Description: In dramaland, leading ladies often find themselves torn between the love of two equally attractive men — a choice none of us would want to make! But what if you did have to pick between the frustrating lawyer and the adorkable police officer? In this feature,…
+### SHOOTING on 2026-03-05 18:10
+- Location: ABC News (AU)
+- Description: Shooting groups say tighter firearm laws could cause recreational shooters to change their votes as the Victorian government conducts a review into firearms reform following the Bondi terror attack.
 
 
-### OTHER on 2026-03-05 13:00
-- Location: CBC News
-- Description: Sukhnaaz Singh Sandhu was flagged by Immigration officials as a member of a criminal gang of international students called The Ruffians in 2020. But documents reveal it took more than five years to deport him, during which time he was investigated for "firear…
+### ROBBERY/THEFT on 2026-03-05 18:04
+- Location: The-independent.com
+- Description: “Nigel Peverett, who worked at the museum’s Department of Prints and Drawings in the early 1970s, had remained a ‘frequent visitor’ until one day in April 1992, when he was caught.” He was prosecuted, hospitalized after a suicide attempt, and got a suspended …
 
-Analysis generated at: Fri Mar  6 13:07:54 UTC 2026
+Analysis generated at: Fri Mar  6 18:36:55 UTC 2026
