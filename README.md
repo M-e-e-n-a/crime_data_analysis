@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Mar  5 19:12:38 UTC 2026
+Last updated: Fri Mar  6 01:43:49 UTC 2026
 
 ## Latest Analysis
 
-Loaded 92652 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-04 19:07:22
+Loaded 92666 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-05 01:43:14
 
 Incidents by source:
 source
-newsapi           92551
+newsapi           92565
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-03-04 19:07
-- Location: The Conversation Africa
-- Description: At some point, Australia must accept that it is time to break the chokehold commercial gambling has on this country.
+### HOMICIDE on 2026-03-05 01:43
+- Location: Freerepublic.com
+- Description: A father accused of killing the man who allegedly raped and abducted his teenage daughter has won the Republican primary for county sheriff in Arkansas - despite him awaiting trial for murder. Aaron Spencer, 37, secured 53.5 percent of the vote in Tuesday’s R…
 
 
-### HOMICIDE on 2026-03-04 19:01
-- Location: Abcnews.com
-- Description: Police in Puerto Rico say an armed suspect flung open the door of an ambulance and fatally shot a man who was being treated by medics for bullet wounds he received during a shooting earlier in the U.S. territory’s capital
+### HOMICIDE on 2026-03-05 01:34
+- Location: CBC News
+- Description: Lawyers for the prosecution and defence argued for sharply different sentences Wednesday in a Kentville, N.S., courtroom for Drake Brown, 23, who has admitted he was impaired and drove more than 170 kilometres an hour on a back road before a crash that killed…
 
 
-### OTHER on 2026-03-04 18:40
-- Location: The Daily Caller
-- Description: An elementary school filed a police report after a City Council candidate and registered sex offender held a press conference mere feet away from the school.
+### HOMICIDE on 2026-03-05 01:32
+- Location: New York Post
+- Description: Karen Read claims the lawyers representing her dead Boston cop boyfriend's family completely made up statements from her.
 
 
-### OTHER on 2026-03-04 18:39
-- Location: Rlsbb.to
-- Description: Sekai saigo no hibi (original title) Plot: Kanou is a bored schoolboy. When a small man appears in front of him and announces that the earth will soon be destroyed, Kanou vows to spend the rest of his time doing whatever he wants to do. Kanou smashes his clas…
+### SHOOTING on 2026-03-05 01:22
+- Location: Israelnationalnews.com
+- Description: Antisemitic incidents in Canada continue following the elimination of Iran’s Ali Khamenei, with vandalism in Montreal following shootings targeting a Jewish-owned restaurant and synagogue in Toronto.
 
 
-### ASSAULT on 2026-03-04 18:38
-- Location: Breitbart News
-- Description: A married, former gym teacher in Rhode Island is scheduled to be arraigned this month on sexual assault charges for allegedly grooming a student into an inappropriate relationship starting in his sophomore year and planning to have sex with the boy when he tu…
+### OTHER on 2026-03-05 01:18
+- Location: CBC News
+- Description: Ecuador declared Cuba's ambassador, Basilio Antonio Gutiérrez, and his diplomatic staff "persona non grata" on Wednesday and gave them 48 hours to leave the South American country.
 
-Analysis generated at: Thu Mar  5 19:12:38 UTC 2026
+Analysis generated at: Fri Mar  6 01:43:49 UTC 2026
