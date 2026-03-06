@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Mar  6 02:31:39 UTC 2026
+Last updated: Fri Mar  6 06:40:21 UTC 2026
 
 ## Latest Analysis
 
-Loaded 92670 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-05 02:13:49
+Loaded 92690 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-05 06:35:21
 
 Incidents by source:
 source
-newsapi           92569
+newsapi           92589
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-03-05 02:13
-- Location: ABC News (AU)
-- Description: This month sees Louis Theroux back on the tools to dive into the manosphere, Nicole Kidman team up with Jamie Lee Curtis for a new crime show and much more.
-
-
-### OTHER on 2026-03-05 02:12
-- Location: Freerepublic.com
-- Description: Costa Rica authorities handed over a Syrian national to the United States after his arrest last year on charges of running a human smuggling operation. The man, known by the last name Maklad, led a group that moved migrants from Egypt, Venezuela, and Guatemal…
-
-
-### ROBBERY/THEFT on 2026-03-05 01:56
+### ROBBERY/THEFT on 2026-03-05 06:35
 - Location: The Times of India
-- Description: Toronto's police chief is launching a two-year anti-corruption project following the February 2026 arrests of several officers in a major organized crime investigation. The initiative will focus on supervision, screening, and database access to enhance accoun…
+- Description: If the warning light remains on, it may indicate that one or more components are not functioning correctly. Understanding dashboard warning symbols helps drivers identify potential problems early. Prompt action and regular vehicle maintenance can prevent mino…
 
 
-### HOMICIDE on 2026-03-05 01:56
-- Location: The Daily Caller
-- Description: Fairfax County prosecutor Steve Descano was aware of an illegal immigrant's violent past and still elected to set him free, new FOIA filings show.
+### OTHER on 2026-03-05 06:30
+- Location: The Times of India
+- Description: Filmmaker Mahesh Bhatt has heaped praise on actor Anupam Kher's directorial "Tanvi The Great," calling it the most outstanding movie he has watched this year.
 
 
-### HOMICIDE on 2026-03-05 01:43
-- Location: Freerepublic.com
-- Description: A father accused of killing the man who allegedly raped and abducted his teenage daughter has won the Republican primary for county sheriff in Arkansas - despite him awaiting trial for murder. Aaron Spencer, 37, secured 53.5 percent of the vote in Tuesday’s R…
+### OTHER on 2026-03-05 06:29
+- Location: The Times of India
+- Description: A forest guard in Surajpur was allegedly manhandled and forced to dance by local youths after being seen with a woman friend. Video clips of the incident, which occurred a week ago, have surfaced online, highlighting concerns about rising vigilantism. The for…
 
-Analysis generated at: Fri Mar  6 02:31:39 UTC 2026
+
+### HOMICIDE on 2026-03-05 06:29
+- Location: The Times of India
+- Description: Social media influencer Nancy Grewal has been found stabbed to death in her home. LaSalle Police confirmed the incident as a homicide. Grewal, known for her outspoken views, was discovered Tuesday night. Authorities are actively investigating and have not yet…
+
+
+### OTHER on 2026-03-05 06:27
+- Location: The Times of India
+- Description: Discover the captivating details behind Rashmika Mandanna and Vijay Deverakonda's wedding pictures, including insights from photographer Siddharth Sharma and the couple's favorite moments.
+
+Analysis generated at: Fri Mar  6 06:40:21 UTC 2026
