@@ -1,10 +1,10 @@
 
-Loaded 92690 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-05 06:35:21
+Loaded 92737 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-05 12:38:15
 
 Incidents by source:
 source
-newsapi           92589
+newsapi           92636
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,32 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2026-03-05 06:35
-- Location: The Times of India
-- Description: If the warning light remains on, it may indicate that one or more components are not functioning correctly. Understanding dashboard warning symbols helps drivers identify potential problems early. Prompt action and regular vehicle maintenance can prevent mino…
+### ROBBERY/THEFT on 2026-03-05 12:38
+- Location: RTE
+- Description: A permanent high visibility policing plan has been launched in Limerick city following the allocation of 12 probationer gardaí to the Limerick division.
 
 
-### OTHER on 2026-03-05 06:30
-- Location: The Times of India
-- Description: Filmmaker Mahesh Bhatt has heaped praise on actor Anupam Kher's directorial "Tanvi The Great," calling it the most outstanding movie he has watched this year.
+### ROBBERY/THEFT on 2026-03-05 12:38
+- Location: RTE
+- Description: A permanent high visibility policing plan has been launched in Limerick city following the allocation of 12 probationer gardaí to the Limerick division.
 
 
-### OTHER on 2026-03-05 06:29
-- Location: The Times of India
-- Description: A forest guard in Surajpur was allegedly manhandled and forced to dance by local youths after being seen with a woman friend. Video clips of the incident, which occurred a week ago, have surfaced online, highlighting concerns about rising vigilantism. The for…
+### OTHER on 2026-03-05 12:35
+- Location: The New Humanitarian
+- Description: Beyond “Christian genocide”: The real roots of criminal violence in Nigeria
+
+sofia
+
+Thu, 03/05/2026 - 12:35
 
 
-### HOMICIDE on 2026-03-05 06:29
-- Location: The Times of India
-- Description: Social media influencer Nancy Grewal has been found stabbed to death in her home. LaSalle Police confirmed the incident as a homicide. Grewal, known for her outspoken views, was discovered Tuesday night. Authorities are actively investigating and have not yet…
+### SHOOTING on 2026-03-05 12:30
+- Location: Fox News
+- Description: Rep. Andy Ogles plans to introduce congressional bill banning entry from six Muslim-majority countries, reviving Trump-era travel restrictions.
 
 
-### OTHER on 2026-03-05 06:27
-- Location: The Times of India
-- Description: Discover the captivating details behind Rashmika Mandanna and Vijay Deverakonda's wedding pictures, including insights from photographer Siddharth Sharma and the couple's favorite moments.
+### OTHER on 2026-03-05 12:30
+- Location: New York Post
+- Description: Cruz Davis can show the world he truly is a superstar in the next few weeks. And it took leaving the coach that recruited, developed and trusted him to get there.
 
-Analysis generated at: Fri Mar  6 06:40:21 UTC 2026
+Analysis generated at: Fri Mar  6 12:41:21 UTC 2026
