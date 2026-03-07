@@ -1,10 +1,10 @@
 
-Loaded 92885 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-06 12:54:50
+Loaded 92951 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-06 18:26:13
 
 Incidents by source:
 source
-newsapi           92784
+newsapi           92850
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-03-06 12:54
-- Location: The-independent.com
-- Description: Ivan Miller, 22, was apprehended in Colorado following a manhunt sparked by three suspicious deaths
+### OTHER on 2026-03-06 18:26
+- Location: Boston Herald
+- Description: Deepfakes are the next iteration of email phishing scams that troubled pastors in the 2000s.
 
 
-### OTHER on 2026-03-06 12:51
-- Location: CBS News
-- Description: Ihor Komarov, 28, was identified from DNA samples taken from the dismembered body and compared to those of his mother, police said.
+### HOMICIDE on 2026-03-06 18:18
+- Location: TheJournal.ie
+- Description: A transcript of a police interview with Stephen McCullagh about the incident was read to the court, in which he said he had ‘never hit a woman in my life’ before.
 
 
-### OTHER on 2026-03-06 12:50
-- Location: Africasacountry.com
-- Description: The Trump administration’s crackdown on Somalis in Minnesota ignores a longer history: decades of US intervention that helped produce the violence and displacement Somalis fled.
+### ROBBERY/THEFT on 2026-03-06 18:17
+- Location: Raw Story
+- Description: Jeffrey Epstein was the target of a sprawling federal investigation into alleged money laundering, drug smuggling and sex trafficking operation by a specialized unit shut down last year by the Trump administration.The Federal Drug Enforcement Administration o…
 
 
-### OTHER on 2026-03-06 12:50
-- Location: Boredpanda.com
-- Description: Weeks after the 28-year-old tourist was seen begging his parents for help, authorities confirmed that the body parts recovered from a Bali beach were his.
+### OTHER on 2026-03-06 18:17
+- Location: BGR
+- Description: Rapidly growing surveillance tech company Flock is seeing many of its cameras in cities across the U.S. be torn down by concerned citizens, and here's why.
 
 
-### OTHER on 2026-03-06 12:30
-- Location: Mother Jones
-- Description: “I have a bomb, I have a bomb,” the male voice said. “Don’t let anyone in or out of the clinic, or I’ll set it off.” For about 25 years, A Preferred Women’s Health Center, an abortion clinic in Charlotte, North Carolina, has endured more than its share of thr…
+### OTHER on 2026-03-06 18:02
+- Location: The Intercept
+- Description: DHS has built a national police force with massive surveillance capabilities — which it could use to interfere with our elections.
+The post Surveillance, Propaganda, Intimidation: Dems Need to Wise Up That ICE Is a National Security Threat appeared first on T…
 
-Analysis generated at: Sat Mar  7 12:58:24 UTC 2026
+Analysis generated at: Sat Mar  7 18:26:27 UTC 2026
