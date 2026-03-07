@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Mar  7 02:24:46 UTC 2026
+Last updated: Sat Mar  7 06:33:26 UTC 2026
 
 ## Latest Analysis
 
-Loaded 92816 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-06 02:18:34
+Loaded 92836 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-06 06:16:31
 
 Incidents by source:
 source
-newsapi           92715
+newsapi           92735
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,30 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-03-06 02:18
-- Location: Fox News
-- Description: An Ohio mother was charged with aggravated murder after her two young daughters were found buried in separate suitcases in shallow graves in Cleveland earlier this week, officials said.
-
-
-### OTHER on 2026-03-06 02:06
-- Location: CBC News
-- Description: U.S. President Donald Trump's firing of Homeland Security Secretary Kristi Noem on Thursday overshadowed the announcement of his plans to nominate Republican Sen. Markwayne Mullin as her successor. But who is the Oklahoman tapped to take over the position?
-
-
-### HOMICIDE on 2026-03-06 01:51
+### HOMICIDE on 2026-03-06 06:16
 - Location: ABC News (AU)
-- Description: Supreme Court Justice Jane Dixon is considering Thomas Clarke's sentence after he pleaded guilty to the brutal 2023 murder of a 72-year-old man.
+- Description: Police say they are treating the death of a 69-year-old grandmother as a double homicide investigation, after her son, who was also found at the scene with serious injuries, died.
 
 
-### HOMICIDE on 2026-03-06 01:46
-- Location: The Times of India
-- Description: A 65-year-old woman was found murdered and bound in her Ahmedabad home, with jewellery and cash stolen. Police suspect unknown individuals entered her house late Tuesday night, killed her, and fled with valuables. Her son filed a complaint, leading to a case …
+### OTHER on 2026-03-06 06:11
+- Location: The Star Online
+- Description: LABUAN: Labuan police have crippled an online scam syndicate with the arrest of 13 Chinese nationals operating from a double-storey house near Pulau Buah here. Read full story
 
 
-### ROBBERY/THEFT on 2026-03-06 01:46
-- Location: The Punch
-- Description: Two siblings face remand over an alleged N35m theft case. They are accused of stealing jewelry, clothes, and more from their elder brother in Lagos.
+### OTHER on 2026-03-06 06:00
+- Location: Freerepublic.com
+- Description: Daily Readings from the USCCBJesus said to the chief priests and the elders of the people: “Hear another parable. There was a landowner who planted a vineyard, put a hedge around it, dug a wine press in it, and built a tower. Then he leased it to tenants and …
 
-Read More: https://punchng.com/court-remands-siblings-over-alleged-n35m-theft/
 
-Analysis generated at: Sat Mar  7 02:24:46 UTC 2026
+### OTHER on 2026-03-06 06:00
+- Location: Naturalnews.com
+- Description: National security experts warn that Iranian-backed sleeper cells may be activated in the U.S. in retaliation for Operation Epic Fury. Concerns are heightened by the influx of millions of illegal border crossers during the previous administration, including in…
+
+
+### ASSAULT on 2026-03-06 06:00
+- Location: Wattsupwiththat.com
+- Description: Ofcom’s attempt to extend this regime to American soil raises the stakes further. It asserts, in effect, that British regulators may determine what Americans are permitted to say on the American internet and that American law has no recourse. That is not a te…
+
+Analysis generated at: Sat Mar  7 06:33:26 UTC 2026
