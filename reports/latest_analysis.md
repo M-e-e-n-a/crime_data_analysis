@@ -1,10 +1,10 @@
 
-Loaded 92809 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-06 01:14:30
+Loaded 92816 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-06 02:18:34
 
 Incidents by source:
 source
-newsapi           92708
+newsapi           92715
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-03-06 01:14
-- Location: Abcnews.com
-- Description: Designed to make visitors feel like they're walking alongside the elephants, it's the largest project in the zoo's 109-year history.
+### HOMICIDE on 2026-03-06 02:18
+- Location: Fox News
+- Description: An Ohio mother was charged with aggravated murder after her two young daughters were found buried in separate suitcases in shallow graves in Cleveland earlier this week, officials said.
 
 
-### HOMICIDE on 2026-03-06 01:05
-- Location: The Times of India
-- Description: A shocking incident unfolded in Damoh where a 16-year-old boy was brutally murdered. Eyewitnesses claim the accused then engaged in cannibalistic acts. Police have arrested the suspect, who has a prior murder conviction. The investigation into the motive behi…
-
-
-### ROBBERY/THEFT on 2026-03-06 01:01
-- Location: Dark Horizons
-- Description: The Batman Part II A rumor over at Giant Freakin Robot reports that Daniel Craig has been offered the role of Christopher Dent in Matt Reeves’ “The Batman: Part II” and, if he passes, Liam Neeson would be offered it next. The key role of the father of Harvey …
-
-
-### OTHER on 2026-03-06 01:00
-- Location: Dramabeans.com
-- Description: Jung Kyung-ho, Jeon Yeo-bin Jung Kyung-ho (Oh My Ghost Clients) and Jeon Yeo-bin (Ms. Incognito) are reportedly turning anchor and newsroom writer, respectively, in a new series called Disenchanted Romance (roughly translated). The Korean title uses the term …
-
-
-### HOMICIDE on 2026-03-06 00:52
+### OTHER on 2026-03-06 02:06
 - Location: CBC News
-- Description: The company behind ChatGPT is facing waves of criticism after it came out that the account of Jesse Van Rootselaar — who police say killed eight people, including six children, in Tumbler Ridge on Feb. 10 — wasn't reported to police despite posts about gun vi…
+- Description: U.S. President Donald Trump's firing of Homeland Security Secretary Kristi Noem on Thursday overshadowed the announcement of his plans to nominate Republican Sen. Markwayne Mullin as her successor. But who is the Oklahoman tapped to take over the position?
 
-Analysis generated at: Sat Mar  7 01:24:28 UTC 2026
+
+### HOMICIDE on 2026-03-06 01:51
+- Location: ABC News (AU)
+- Description: Supreme Court Justice Jane Dixon is considering Thomas Clarke's sentence after he pleaded guilty to the brutal 2023 murder of a 72-year-old man.
+
+
+### HOMICIDE on 2026-03-06 01:46
+- Location: The Times of India
+- Description: A 65-year-old woman was found murdered and bound in her Ahmedabad home, with jewellery and cash stolen. Police suspect unknown individuals entered her house late Tuesday night, killed her, and fled with valuables. Her son filed a complaint, leading to a case …
+
+
+### ROBBERY/THEFT on 2026-03-06 01:46
+- Location: The Punch
+- Description: Two siblings face remand over an alleged N35m theft case. They are accused of stealing jewelry, clothes, and more from their elder brother in Lagos.
+
+Read More: https://punchng.com/court-remands-siblings-over-alleged-n35m-theft/
+
+Analysis generated at: Sat Mar  7 02:24:46 UTC 2026
