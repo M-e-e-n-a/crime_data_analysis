@@ -1,10 +1,10 @@
 
-Loaded 92836 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-06 06:16:31
+Loaded 92881 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-06 12:30:00
 
 Incidents by source:
 source
-newsapi           92735
+newsapi           92780
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-03-06 06:16
-- Location: ABC News (AU)
-- Description: Police say they are treating the death of a 69-year-old grandmother as a double homicide investigation, after her son, who was also found at the scene with serious injuries, died.
+### OTHER on 2026-03-06 12:30
+- Location: Mother Jones
+- Description: “I have a bomb, I have a bomb,” the male voice said. “Don’t let anyone in or out of the clinic, or I’ll set it off.” For about 25 years, A Preferred Women’s Health Center, an abortion clinic in Charlotte, North Carolina, has endured more than its share of thr…
 
 
-### OTHER on 2026-03-06 06:11
-- Location: The Star Online
-- Description: LABUAN: Labuan police have crippled an online scam syndicate with the arrest of 13 Chinese nationals operating from a double-storey house near Pulau Buah here. Read full story
+### OTHER on 2026-03-06 12:23
+- Location: Sky Sports
+- Description: Harry Maguire's lawyers are adamant that the Manchester United defender does not have a criminal record and he has complete freedom to travel - despite him being convicted in a Greek court and being handed a 15-month suspended prison sentence.
 
 
-### OTHER on 2026-03-06 06:00
-- Location: Freerepublic.com
-- Description: Daily Readings from the USCCBJesus said to the chief priests and the elders of the people: “Hear another parable. There was a landowner who planted a vineyard, put a hedge around it, dug a wine press in it, and built a tower. Then he leased it to tenants and …
+### OTHER on 2026-03-06 12:12
+- Location: The Times of India
+- Description: Drawing from the depths of the Mahabharata, we discover profound insights that are just as relevant today. The Anushasana Parva imparts a vital message: "Do Not Impose on Others What Would Displease You Yourself." This call for introspection, rooted in the pr…
 
 
-### OTHER on 2026-03-06 06:00
-- Location: Naturalnews.com
-- Description: National security experts warn that Iranian-backed sleeper cells may be activated in the U.S. in retaliation for Operation Epic Fury. Concerns are heightened by the influx of millions of illegal border crossers during the previous administration, including in…
+### SHOOTING on 2026-03-06 12:09
+- Location: Tomdispatch.com
+- Description: Power is felt, attributed, invisible, all-important, descriptive, without shape, and so much more. There is personal power, governmental power, and the collective power of the people. Power can be bought, sold, traded, bestowed, even rescinded. It can be good…
 
 
-### ASSAULT on 2026-03-06 06:00
-- Location: Wattsupwiththat.com
-- Description: Ofcom’s attempt to extend this regime to American soil raises the stakes further. It asserts, in effect, that British regulators may determine what Americans are permitted to say on the American internet and that American law has no recourse. That is not a te…
+### HOMICIDE on 2026-03-06 12:08
+- Location: RTE
+- Description: The trial of a man accused of murdering his pregnant girlfriend has heard from a former partner who said he assaulted her after discovering images she had sent to another man.
 
-Analysis generated at: Sat Mar  7 06:33:26 UTC 2026
+Analysis generated at: Sat Mar  7 12:35:19 UTC 2026
