@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Mar  6 18:36:55 UTC 2026
+Last updated: Sat Mar  7 01:24:28 UTC 2026
 
 ## Latest Analysis
 
-Loaded 92798 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-05 18:36:18
+Loaded 92809 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-06 01:14:30
 
 Incidents by source:
 source
-newsapi           92697
+newsapi           92708
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2026-03-05 18:36
-- Location: BleepingComputer
-- Description: ​A U.S. government contractor's son, accused of stealing more than $46 million in cryptocurrency from the U.S. Marshals Service, was arrested Wednesday on the island of Saint Martin. [...]
+### OTHER on 2026-03-06 01:14
+- Location: Abcnews.com
+- Description: Designed to make visitors feel like they're walking alongside the elephants, it's the largest project in the zoo's 109-year history.
 
 
-### DRUG RELATED on 2026-03-05 18:25
-- Location: New York Post
-- Description: Federal agents have launched a massive takedown of the notorious 18th Street Gang — a major player in the drugs epidemic.
+### HOMICIDE on 2026-03-06 01:05
+- Location: The Times of India
+- Description: A shocking incident unfolded in Damoh where a 16-year-old boy was brutally murdered. Eyewitnesses claim the accused then engaged in cannibalistic acts. Police have arrested the suspect, who has a prior murder conviction. The investigation into the motive behi…
 
 
-### HOMICIDE on 2026-03-05 18:21
-- Location: Oxygen
-- Description: Addilyn Smith’s father called 911 on Feb. 15 to report that he couldn’t get ahold of his daughter or her mother, describing it as “very strange.”
+### ROBBERY/THEFT on 2026-03-06 01:01
+- Location: Dark Horizons
+- Description: The Batman Part II A rumor over at Giant Freakin Robot reports that Daniel Craig has been offered the role of Christopher Dent in Matt Reeves’ “The Batman: Part II” and, if he passes, Liam Neeson would be offered it next. The key role of the father of Harvey …
 
 
-### SHOOTING on 2026-03-05 18:10
-- Location: ABC News (AU)
-- Description: Shooting groups say tighter firearm laws could cause recreational shooters to change their votes as the Victorian government conducts a review into firearms reform following the Bondi terror attack.
+### OTHER on 2026-03-06 01:00
+- Location: Dramabeans.com
+- Description: Jung Kyung-ho, Jeon Yeo-bin Jung Kyung-ho (Oh My Ghost Clients) and Jeon Yeo-bin (Ms. Incognito) are reportedly turning anchor and newsroom writer, respectively, in a new series called Disenchanted Romance (roughly translated). The Korean title uses the term …
 
 
-### ROBBERY/THEFT on 2026-03-05 18:04
-- Location: The-independent.com
-- Description: “Nigel Peverett, who worked at the museum’s Department of Prints and Drawings in the early 1970s, had remained a ‘frequent visitor’ until one day in April 1992, when he was caught.” He was prosecuted, hospitalized after a suicide attempt, and got a suspended …
+### HOMICIDE on 2026-03-06 00:52
+- Location: CBC News
+- Description: The company behind ChatGPT is facing waves of criticism after it came out that the account of Jesse Van Rootselaar — who police say killed eight people, including six children, in Tumbler Ridge on Feb. 10 — wasn't reported to police despite posts about gun vi…
 
-Analysis generated at: Fri Mar  6 18:36:55 UTC 2026
+Analysis generated at: Sat Mar  7 01:24:28 UTC 2026
