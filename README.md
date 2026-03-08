@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Mar  8 12:59:54 UTC 2026
+Last updated: Sun Mar  8 18:26:38 UTC 2026
 
 ## Latest Analysis
 
-Loaded 93033 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-07 12:56:47
+Loaded 93085 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-07 18:20:55
 
 Incidents by source:
 source
-newsapi           92932
+newsapi           92984
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-03-07 12:56
-- Location: Fox News
-- Description: Virginia faces federal showdown over proposed laws that would allegedly criminalize ICE enforcement actions and impose penalties on immigration agents.
+### HOMICIDE on 2026-03-07 18:20
+- Location: The Denver Post
+- Description: Three people were arrested on suspicion of second-degree murder this week in connection with a 47-year-old man’s slaying near Cherry Creek Reservoir in Denver.
 
 
-### DRUG RELATED on 2026-03-07 12:45
-- Location: Antaranews.com
-- Description: Indonesia&#39;s National Narcotics Agency (BNN) has uncovered a Russian-controlled mephedrone drug laboratory at The Lavana De&#39;Bale Marcapada villa ...
+### HOMICIDE on 2026-03-07 18:12
+- Location: Newser
+- Description: One of Britain's most notorious child killers died Saturday, days after he was attacked by a fellow inmate in the workshop of a maximum-security prison. Ian Huntley, a 52-year-old former school caretaker convicted in 2003 for the murder of two 10-year-old gir…
 
 
-### OTHER on 2026-03-07 12:25
-- Location: The Times of India
-- Description: Her childhood dream was to join the army. Then, she decided to become a war journalist and later, a documentary filmmaker. But Aditi Anandeventually g.
+### OTHER on 2026-03-07 18:08
+- Location: The-independent.com
+- Description: The 35-year-old inmate ‘freely” admitted to having sex with the woman, saying ‘look at the video,’ police said
 
 
-### OTHER on 2026-03-07 12:00
-- Location: HuffPost
-- Description: Immigration detention is not supposed to be punitive. But one man who spent 20 years in state prison told HuffPost the ICE detention facility he is currently in is worse.
+### ASSAULT on 2026-03-07 18:03
+- Location: New York Post
+- Description: New footage shows San Francisco Mayor Daniel Lurie motionlessly watching his security guard shove a homeless man to the ground — before quickly fleeing down the sidewalk as the man fought back.
 
 
-### OTHER on 2026-03-07 12:00
-- Location: Revenge of the Birds
-- Description: Didn’t he make millions?
+### OTHER on 2026-03-07 18:00
+- Location: Associated Press
+- Description: Court documents say immigration authorities arrested a reporter for a Spanish-language news outlet in Tennessee without a warrant. But U.S. Immigration and Customs Enforcement says in a court filing Friday that a valid arrest warrant was issued. Agents arrest…
 
-Analysis generated at: Sun Mar  8 12:59:54 UTC 2026
+Analysis generated at: Sun Mar  8 18:26:38 UTC 2026
