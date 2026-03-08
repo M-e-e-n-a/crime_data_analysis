@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Mar  7 18:26:27 UTC 2026
+Last updated: Sun Mar  8 01:42:10 UTC 2026
 
 ## Latest Analysis
 
-Loaded 92951 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-06 18:26:13
+Loaded 92969 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-07 01:18:55
 
 Incidents by source:
 source
-newsapi           92850
+newsapi           92868
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-03-06 18:26
-- Location: Boston Herald
-- Description: Deepfakes are the next iteration of email phishing scams that troubled pastors in the 2000s.
+### OTHER on 2026-03-07 01:18
+- Location: Abcnews.com
+- Description: Trailing in the final minute, Iowa high school sophomore Ava Smid delivered a stunning comeback -- scoring 8 points in just 19 seconds to win the girls state basketball semifinal.
 
 
-### HOMICIDE on 2026-03-06 18:18
-- Location: TheJournal.ie
-- Description: A transcript of a police interview with Stephen McCullagh about the incident was read to the court, in which he said he had ‘never hit a woman in my life’ before.
+### OTHER on 2026-03-07 01:17
+- Location: USA Today
+- Description: Vanderbilt's Shea Ralph, the SEC Coach of the Year, was ejected from the quarterfinals of the conference tournament after cursing at a referee.
 
 
-### ROBBERY/THEFT on 2026-03-06 18:17
-- Location: Raw Story
-- Description: Jeffrey Epstein was the target of a sprawling federal investigation into alleged money laundering, drug smuggling and sex trafficking operation by a specialized unit shut down last year by the Trump administration.The Federal Drug Enforcement Administration o…
+### OTHER on 2026-03-07 01:06
+- Location: New York Post
+- Description: San Francisco Mayor Daniel Lurie just found himself at the center of a quickly-escalating street altercation in the Tenderloin district.
 
 
-### OTHER on 2026-03-06 18:17
-- Location: BGR
-- Description: Rapidly growing surveillance tech company Flock is seeing many of its cameras in cities across the U.S. be torn down by concerned citizens, and here's why.
+### HOMICIDE on 2026-03-07 01:00
+- Location: The Punch
+- Description: Police arrest a 15-year-old Kwara teen killer for murdering his guardian. The suspect allegedly attacked her with household items due to resentment.
+
+Read More: https://punchng.com/kwara-boy-15-kills-guardian-after-failed-poisoning-attempt/
 
 
-### OTHER on 2026-03-06 18:02
-- Location: The Intercept
-- Description: DHS has built a national police force with massive surveillance capabilities — which it could use to interfere with our elections.
-The post Surveillance, Propaganda, Intimidation: Dems Need to Wise Up That ICE Is a National Security Threat appeared first on T…
+### SHOOTING on 2026-03-07 00:45
+- Location: TheBlaze
+- Description: Once again, the popular "ding-dong ditch" prank — in which young people bang on front doors of homes, typically late at night, and run away — has ended with a teenager getting shot.Sheriff Mike McCormick of Garland County, Arkansas, said a 16-year-old male su…
 
-Analysis generated at: Sat Mar  7 18:26:27 UTC 2026
+Analysis generated at: Sun Mar  8 01:42:10 UTC 2026
