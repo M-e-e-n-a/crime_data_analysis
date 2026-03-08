@@ -1,10 +1,10 @@
 
-Loaded 92976 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-07 02:30:00
+Loaded 92993 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-07 06:32:38
 
 Incidents by source:
 source
-newsapi           92875
+newsapi           92892
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-03-07 02:30
-- Location: The New Yorker
-- Description: Tyler Foggatt reviews the new HBO reality show “Neighbors,” produced by A24 and Josh Safdie, in which conflicts between neighbors can turn violent.
-
-
-### SHOOTING on 2026-03-07 02:21
-- Location: New York Post
-- Description: The child sex offender who launched a longshot bid for city council in Fresno filed paperwork Friday morning to run — but still hadn't turned in the 20 signatures needed to officially get on the ballot as of late afternoon.
-
-
-### OTHER on 2026-03-07 02:14
-- Location: The Times of India
-- Description: Mumbai: Powai police have arrested a Bihar-based real estate agent in connection with recovery of five live bullets from a BTech student's bag in his .
-
-
-### HOMICIDE on 2026-03-07 02:12
+### SHOOTING on 2026-03-07 06:32
 - Location: Abcnews.com
-- Description: A Cleveland woman is jailed with bail set after $2 million after being accused of killing her two young daughters
+- Description: Women in South Africa are turning to guns and martial arts for self-defense in a country where rates of gender-based violence are extremely high
 
 
-### OTHER on 2026-03-07 02:11
-- Location: Abcnews.com
-- Description: The top Justice Department prosecutor in Miami is considering criminal investigations of Cuban government officials
+### OTHER on 2026-03-07 06:24
+- Location: The Star Online
+- Description: KOTA KINABALU: Parti Warisan is urging the Federal Government to respect and implement Sabah's 40% revenue rights, amid its move to seek a stay order on the Oct 17 High Court ruling last year regarding the timelines set for resolving the issue. Read full story
 
-Analysis generated at: Sun Mar  8 02:36:30 UTC 2026
+
+### OTHER on 2026-03-07 06:00
+- Location: The Irish Times
+- Description: There’s no chance of an end to the Burke family circus – and maybe that’s not a bad thing
+
+
+### OTHER on 2026-03-07 06:00
+- Location: The-independent.com
+- Description: The actor and comedian, known for ‘Brass Eye’, ‘Toast of London’ and ‘Two Doors Down’, speaks to Louis Chilton about sexism in TV, turning down the chance to ‘break America’, and her latest project – Russian anti-rich satire ‘Summerfolk’ at the National Theat…
+
+
+### OTHER on 2026-03-07 05:56
+- Location: Antaranews.com
+- Description: The Bali Regional Police suspected the kidnappers of Ukrainian citizen Ihor Komarav (28) are using multiple passports to enter the island.
+
+So far, the ...
+
+Analysis generated at: Sun Mar  8 06:36:47 UTC 2026
