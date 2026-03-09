@@ -1,10 +1,10 @@
 
-Loaded 93106 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-08 06:52:35
+Loaded 93132 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-08 11:55:21
 
 Incidents by source:
 source
-newsapi           93005
+newsapi           93031
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-03-08 06:52
-- Location: Israelnationalnews.com
-- Description: The police announced that they have solved the murder of Yaakov Azran (z"l) in Ofakim.The investigation revealed that during a visit to the suspect’s apartment, an argument broke out between a city resident and Azran, during which the suspect stabbed Azran in…
+### OTHER on 2026-03-08 11:55
+- Location: The Times of India
+- Description: A Thane court denied bail to Ravi Varma, a service engineer accused of leaking sensitive Indian naval information to Pakistani nationals. The court deemed the offense serious, carrying a potential 14-year sentence. Varma allegedly shared ship details for mone…
 
 
-### OTHER on 2026-03-08 06:37
-- Location: The Daily Caller
-- Description: Since Jan. 18, I’ve been tearing my hair out watching the conservative response to the disruption conducted by Don Lemon and his friends at Cities Church in St.
+### HOMICIDE on 2026-03-08 11:45
+- Location: The Times of India
+- Description: The world is focused on the West Asia war. So partly are Ukrainians, who have endured the sound and pain of war for four years. “Now you know what we go through,” they say. Resilience has become a fact of life for them; surrender is off the table. As a TOI jo…
 
 
-### OTHER on 2026-03-08 06:15
-- Location: The Irish Times
-- Description: Former Sinn Féin leader’s long history of denials of IRA membership will come under the spotlight in a case starting on Monday
+### OTHER on 2026-03-08 11:38
+- Location: The Times of India
+- Description: As Calcutta Times marks 25 years of telling Kolkata’s stories, we revisit one of Kolkata’s most iconic landmarks – theIndian Museum. At 212, it’s amon.
 
 
-### OTHER on 2026-03-08 06:00
-- Location: Swordandscale.com
-- Description: In a quiet Ohio suburb where families mow their lawns and kids ride bikes on the sidewalks, police uncover a bloody scene: two decomposing bodies, Regina Capobianco and her friend John Mann, buried beneath trash inside a modest home. As investigators peel bac…
+### OTHER on 2026-03-08 11:37
+- Location: The Times of India
+- Description: The Indira Gandhi National Open University has started the application process for the January 2026 admission cycle for its Open and Distance Learning and Online Programmes. Interested candidates can apply through the official admission portals until March 15…
 
 
-### OTHER on 2026-03-08 05:50
-- Location: Antaranews.com
-- Description: Indonesia&rsquo;s national police chief called on ride-hailing motorcycle taxi drivers and laborers to maintain unity and help safeguard national stability, ...
+### OTHER on 2026-03-08 11:31
+- Location: Truthout
+- Description: Federal protections against detention and deportation for sexual abuse survivors have deteriorated under Trump.
 
-Analysis generated at: Mon Mar  9 06:55:46 UTC 2026
+Analysis generated at: Mon Mar  9 12:48:17 UTC 2026
