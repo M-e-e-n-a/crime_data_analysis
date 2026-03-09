@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Mar  8 18:26:38 UTC 2026
+Last updated: Mon Mar  9 01:30:33 UTC 2026
 
 ## Latest Analysis
 
-Loaded 93085 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-07 18:20:55
+Loaded 93091 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-08 01:20:25
 
 Incidents by source:
 source
-newsapi           92984
+newsapi           92990
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-03-07 18:20
-- Location: The Denver Post
-- Description: Three people were arrested on suspicion of second-degree murder this week in connection with a 47-year-old man’s slaying near Cherry Creek Reservoir in Denver.
+### OTHER on 2026-03-08 01:20
+- Location: Twistedsifter.com
+- Description: Let her be the one to decide!
 
 
-### HOMICIDE on 2026-03-07 18:12
-- Location: Newser
-- Description: One of Britain's most notorious child killers died Saturday, days after he was attacked by a fellow inmate in the workshop of a maximum-security prison. Ian Huntley, a 52-year-old former school caretaker convicted in 2003 for the murder of two 10-year-old gir…
-
-
-### OTHER on 2026-03-07 18:08
-- Location: The-independent.com
-- Description: The 35-year-old inmate ‘freely” admitted to having sex with the woman, saying ‘look at the video,’ police said
-
-
-### ASSAULT on 2026-03-07 18:03
+### HOMICIDE on 2026-03-08 01:05
 - Location: New York Post
-- Description: New footage shows San Francisco Mayor Daniel Lurie motionlessly watching his security guard shove a homeless man to the ground — before quickly fleeing down the sidewalk as the man fought back.
+- Description: Ian Huntley, 52, who was convicted of murdering 10-year-old girls Holly Wells and Jessica Chapman in 2003, has died after allegedly being attacked by fellow inmate Anthony Russell, 43, at Frankland prison in northeast England.
 
 
-### OTHER on 2026-03-07 18:00
-- Location: Associated Press
-- Description: Court documents say immigration authorities arrested a reporter for a Spanish-language news outlet in Tennessee without a warrant. But U.S. Immigration and Customs Enforcement says in a court filing Friday that a valid arrest warrant was issued. Agents arrest…
+### OTHER on 2026-03-08 00:50
+- Location: New York Post
+- Description: New details have been uncovered in the unprovoked stabbing caught on video in San Francisco's Chinatown earlier this week.
 
-Analysis generated at: Sun Mar  8 18:26:38 UTC 2026
+
+### SHOOTING on 2026-03-08 00:35
+- Location: Abcnews.com
+- Description: Ruben Ray Martinez, 23, was fatally shot in South Padre Island, Texas.
+
+
+### OTHER on 2026-03-08 00:28
+- Location: Lifesciencesworld.com
+- Description: Does Insurance Go Up After Hitting an Animal? Does insurance go up after hitting an animal? It depends. While it’s not always the case, your insurance premium could increase, making it crucial to understand the circumstances and how your insurance company han…
+
+Analysis generated at: Mon Mar  9 01:30:33 UTC 2026
