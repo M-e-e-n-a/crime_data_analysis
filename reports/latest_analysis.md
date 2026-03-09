@@ -1,10 +1,10 @@
 
-Loaded 93132 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-08 11:55:21
+Loaded 93161 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-08 18:43:23
 
 Incidents by source:
 source
-newsapi           93031
+newsapi           93060
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-03-08 11:55
+### OTHER on 2026-03-08 18:43
 - Location: The Times of India
-- Description: A Thane court denied bail to Ravi Varma, a service engineer accused of leaking sensitive Indian naval information to Pakistani nationals. The court deemed the offense serious, carrying a potential 14-year sentence. Varma allegedly shared ship details for mone…
+- Description: Bokaro police, led by SP Harvinder Singh, launched a special anti-crime drive on International Women's Day, with women officers spearheading the initiative. The campaign focused on traffic rule enforcement at key city points, including helmet and seatbelt che…
 
 
-### HOMICIDE on 2026-03-08 11:45
+### OTHER on 2026-03-08 18:30
+- Location: Screen Rant
+- Description: It's been 31 years since Michael Mann's 3-hour-long heist movie changed the face of the genre, and viewers are still excited for its upcoming sequel.
+
+
+### OTHER on 2026-03-08 18:05
+- Location: ABC News (AU)
+- Description: Australian crime syndicates are using fake plain packaging — mass produced overseas — to legitimise illicit tobacco and flood the legal market with knock-offs.
+
+
+### HOMICIDE on 2026-03-08 17:59
 - Location: The Times of India
-- Description: The world is focused on the West Asia war. So partly are Ukrainians, who have endured the sound and pain of war for four years. “Now you know what we go through,” they say. Resilience has become a fact of life for them; surrender is off the table. As a TOI jo…
+- Description: Mumbai: Kandivali police arrested two men, Chandtabhushan Chauhan and Vijaykumar Chauhan, both aged between 40 and 45, for the alleged murder of Ramla.
 
 
-### OTHER on 2026-03-08 11:38
-- Location: The Times of India
-- Description: As Calcutta Times marks 25 years of telling Kolkata’s stories, we revisit one of Kolkata’s most iconic landmarks – theIndian Museum. At 212, it’s amon.
+### HOMICIDE on 2026-03-08 17:36
+- Location: Statetimes.in
+- Description: JAMMU: On the run for almost 10 years, a man wanted for allegedly killing his 12-year-old daughter here has been arrested by Jammu and Kashmir Police from Delhi, officials said on Sunday. The accused, Ramesh Kumar from Jhikmau-Chhatarpur in Madhya Pradesh, ha…
 
-
-### OTHER on 2026-03-08 11:37
-- Location: The Times of India
-- Description: The Indira Gandhi National Open University has started the application process for the January 2026 admission cycle for its Open and Distance Learning and Online Programmes. Interested candidates can apply through the official admission portals until March 15…
-
-
-### OTHER on 2026-03-08 11:31
-- Location: Truthout
-- Description: Federal protections against detention and deportation for sexual abuse survivors have deteriorated under Trump.
-
-Analysis generated at: Mon Mar  9 13:15:37 UTC 2026
+Analysis generated at: Mon Mar  9 18:44:18 UTC 2026
