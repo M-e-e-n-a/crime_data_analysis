@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Mar  9 01:30:33 UTC 2026
+Last updated: Mon Mar  9 02:37:47 UTC 2026
 
 ## Latest Analysis
 
-Loaded 93091 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-08 01:20:25
+Loaded 93095 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-08 02:10:00
 
 Incidents by source:
 source
-newsapi           92990
+newsapi           92994
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
+### HOMICIDE on 2026-03-08 02:10
+- Location: Sky.com
+- Description: Kurtis Pratt's mother Kellie went missing in Norwich in 2000. Her body was never found - and her murder remains unsolved.
+
+
+### SHOOTING on 2026-03-08 02:08
+- Location: New York Post
+- Description: The inked-up suspect was arrested shortly after the incident.
+
+
+### OTHER on 2026-03-08 01:42
+- Location: Abcnews.com
+- Description: Linsey Davis shares the special bond between a group of construction workers and 4-year-old Brinley, who is awaiting a heart transplant, at the Cleveland Clinic Children's Hospital.
+
+
+### HOMICIDE on 2026-03-08 01:31
+- Location: The Times of India
+- Description: A 26-year-old man was allegedly lynched in Delhi's Uttam Nagar following a Holi celebration dispute. His father is demanding a CBI probe, citing a lack of transparency from the police. Six individuals, identified as wall painters and relatives, have been arre…
+
+
 ### OTHER on 2026-03-08 01:20
 - Location: Twistedsifter.com
 - Description: Let her be the one to decide!
 
-
-### HOMICIDE on 2026-03-08 01:05
-- Location: New York Post
-- Description: Ian Huntley, 52, who was convicted of murdering 10-year-old girls Holly Wells and Jessica Chapman in 2003, has died after allegedly being attacked by fellow inmate Anthony Russell, 43, at Frankland prison in northeast England.
-
-
-### OTHER on 2026-03-08 00:50
-- Location: New York Post
-- Description: New details have been uncovered in the unprovoked stabbing caught on video in San Francisco's Chinatown earlier this week.
-
-
-### SHOOTING on 2026-03-08 00:35
-- Location: Abcnews.com
-- Description: Ruben Ray Martinez, 23, was fatally shot in South Padre Island, Texas.
-
-
-### OTHER on 2026-03-08 00:28
-- Location: Lifesciencesworld.com
-- Description: Does Insurance Go Up After Hitting an Animal? Does insurance go up after hitting an animal? It depends. While it’s not always the case, your insurance premium could increase, making it crucial to understand the circumstances and how your insurance company han…
-
-Analysis generated at: Mon Mar  9 01:30:33 UTC 2026
+Analysis generated at: Mon Mar  9 02:37:47 UTC 2026
