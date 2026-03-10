@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Mar 10 01:25:22 UTC 2026
+Last updated: Tue Mar 10 02:29:23 UTC 2026
 
 ## Latest Analysis
 
-Loaded 93176 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-09 01:15:44
+Loaded 93182 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-09 02:18:46
 
 Incidents by source:
 source
-newsapi           93075
+newsapi           93081
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,30 +24,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-03-09 01:15
-- Location: BBC News
-- Description: A suspect was arrested after the shooting on Sunday afternoon, Los Angeles officers say.
+### HOMICIDE on 2026-03-09 02:18
+- Location: The Punch
+- Description: Lagos police have arrested additional suspects linked to the murder of Prince Ademola Akinloye. Read the latest on the investigation and the hunt for the p
+
+Read More: https://punchng.com/more-suspects-in-police-net-over-lagos-monarch-sons-death/
 
 
-### SHOOTING on 2026-03-09 01:07
-- Location: NBC News
-- Description: Pop star Rihanna was home when a women drove up and shot at her Los Angeles residence with an AR-15-style rifle on Sunday, but no one was injured, police said.
+### SHOOTING on 2026-03-09 02:06
+- Location: Vulture
+- Description: A woman has been arrested after reportedly firing shots into the home of Rihanna and A$AP Rocky. Rihanna was at home at the time, but no injuries have been reported.
 
 
-### SHOOTING on 2026-03-09 00:58
-- Location: Page Six
-- Description: A 30-year-old woman was arrested Sunday after allegedly firing several shots with a rifle at the Beverly Hills, Calif. mansion belonging to the pop star.
+### ASSAULT on 2026-03-09 02:02
+- Location: The Times of India
+- Description: A married man allegedly attacked a woman with a knife after she refused his marriage proposal in Bahraich district. The accused then attempted suicide by stabbing himself and consuming pesticide. Both are undergoing treatment at Bahraich Medical College, with…
 
 
-### SHOOTING on 2026-03-09 00:57
-- Location: Consequence.net
-- Description: The singer was home at the time of the incident, but is said to be unharmed.
-Rihanna’s Home Targeted in Shooting, Woman Arrested: Report
-Alex Young
+### OTHER on 2026-03-09 02:00
+- Location: Vulture
+- Description: The suspicious nature of Clark and Carol’s affair isn’t as big a revelation as the show aims to make it.
 
 
-### HOMICIDE on 2026-03-09 00:56
-- Location: Sky.com
-- Description: A 35-year-old Florida woman has been arrested on suspicion of attempted murder after shots were fired at Rihanna's home.
+### SHOOTING on 2026-03-09 01:54
+- Location: Haaretz
+- Description: Police are investigating whether the attack was tied to criminal pressure over municipal tenders amid rising violence in Arab communities. In a separate case, police said a man in his twenties died of wounds sustained in a shooting in Jaffa last Wednesday
 
-Analysis generated at: Tue Mar 10 01:25:22 UTC 2026
+Analysis generated at: Tue Mar 10 02:29:23 UTC 2026
