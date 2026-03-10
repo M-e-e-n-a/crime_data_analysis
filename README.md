@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Mar 10 13:13:19 UTC 2026
+Last updated: Tue Mar 10 18:40:22 UTC 2026
 
 ## Latest Analysis
 
-Loaded 93279 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-09 13:09:10
+Loaded 93371 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-09 18:33:16
 
 Incidents by source:
 source
-newsapi           93178
+newsapi           93270
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2026-03-09 13:09
+### HOMICIDE on 2026-03-09 18:33
+- Location: New York Post
+- Description: "Ira repeatedly said it was cheaper to have me killed than divorce me," ex-wife Susan Bernstein said in court, according to The Journal News.
+
+
+### OTHER on 2026-03-09 18:30
+- Location: ABC News (AU)
+- Description: The Bride!, a modern retelling of The Bride of Frankenstein, takes massive swings in terms of performances, plotting and subtext, but not all of its gambles pay off.
+
+
+### HOMICIDE on 2026-03-09 18:28
+- Location: Abcnews.com
+- Description: Bangladesh’s police chief says diplomatic efforts are being made with India to return two suspects in the December killing of a prominent Bangladeshi activist
+
+
+### HOMICIDE on 2026-03-09 18:26
 - Location: CBC News
-- Description: A major fire in the heart of Glasgow crippled Scottish train services Monday as firefighters worked to douse the blaze that destroyed a four-storey building near Scotland's busiest railway station.
+- Description: On Tuesday, Quebec Superior Court Judge Marc-André Blanchard handed Carranza Ladry his mandatory life sentence and ruled him inadmissible for parole for 14 years. Blanchard cited the victim’s age, 18 months, as an aggravating factor in his sentence. He also l…
 
 
-### HOMICIDE on 2026-03-09 13:08
-- Location: Theregister.com
-- Description: Two-week deadline to fraudsters to fess up or have their faces plastered across every screen in the country Dutch national police are taking a novel stand against scammers - 100 suspects now have less than two weeks to hand themselves in or face public shamin…
+### OTHER on 2026-03-09 18:24
+- Location: Abcnews.com
+- Description: President Donald Trump suggests Cuba could be “easy” to overthrow as tensions grow in the region. Mick Mulroy weighs what U.S. intervention would actually look like.
 
-
-### OTHER on 2026-03-09 13:06
-- Location: The Star Online
-- Description: IPOH: The marine police have arrested 22 Indonesians who are trying to illegally travel back to Indonesia near the coast of Bagan Datuk. Read full story
-
-
-### OTHER on 2026-03-09 13:03
-- Location: The Denver Post
-- Description: Three drivers were involved in the crash in Denver's Congress Park neighborhood that injured two people, and one driver left the scene, police said early Monday morning.
-
-
-### OTHER on 2026-03-09 13:00
-- Location: CBC News
-- Description: The B.C. NDP has promised a mental health counsellor in every school but gaps, particularly in rural regions, persist.
-
-Analysis generated at: Tue Mar 10 13:13:19 UTC 2026
+Analysis generated at: Tue Mar 10 18:40:22 UTC 2026
