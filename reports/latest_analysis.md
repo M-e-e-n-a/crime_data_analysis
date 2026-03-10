@@ -1,10 +1,10 @@
 
-Loaded 93161 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-08 18:43:23
+Loaded 93176 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-09 01:15:44
 
 Incidents by source:
 source
-newsapi           93060
+newsapi           93075
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-03-08 18:43
-- Location: The Times of India
-- Description: Bokaro police, led by SP Harvinder Singh, launched a special anti-crime drive on International Women's Day, with women officers spearheading the initiative. The campaign focused on traffic rule enforcement at key city points, including helmet and seatbelt che…
+### SHOOTING on 2026-03-09 01:15
+- Location: BBC News
+- Description: A suspect was arrested after the shooting on Sunday afternoon, Los Angeles officers say.
 
 
-### OTHER on 2026-03-08 18:30
-- Location: Screen Rant
-- Description: It's been 31 years since Michael Mann's 3-hour-long heist movie changed the face of the genre, and viewers are still excited for its upcoming sequel.
+### SHOOTING on 2026-03-09 01:07
+- Location: NBC News
+- Description: Pop star Rihanna was home when a women drove up and shot at her Los Angeles residence with an AR-15-style rifle on Sunday, but no one was injured, police said.
 
 
-### OTHER on 2026-03-08 18:05
-- Location: ABC News (AU)
-- Description: Australian crime syndicates are using fake plain packaging — mass produced overseas — to legitimise illicit tobacco and flood the legal market with knock-offs.
+### SHOOTING on 2026-03-09 00:58
+- Location: Page Six
+- Description: A 30-year-old woman was arrested Sunday after allegedly firing several shots with a rifle at the Beverly Hills, Calif. mansion belonging to the pop star.
 
 
-### HOMICIDE on 2026-03-08 17:59
-- Location: The Times of India
-- Description: Mumbai: Kandivali police arrested two men, Chandtabhushan Chauhan and Vijaykumar Chauhan, both aged between 40 and 45, for the alleged murder of Ramla.
+### SHOOTING on 2026-03-09 00:57
+- Location: Consequence.net
+- Description: The singer was home at the time of the incident, but is said to be unharmed.
+Rihanna’s Home Targeted in Shooting, Woman Arrested: Report
+Alex Young
 
 
-### HOMICIDE on 2026-03-08 17:36
-- Location: Statetimes.in
-- Description: JAMMU: On the run for almost 10 years, a man wanted for allegedly killing his 12-year-old daughter here has been arrested by Jammu and Kashmir Police from Delhi, officials said on Sunday. The accused, Ramesh Kumar from Jhikmau-Chhatarpur in Madhya Pradesh, ha…
+### HOMICIDE on 2026-03-09 00:56
+- Location: Sky.com
+- Description: A 35-year-old Florida woman has been arrested on suspicion of attempted murder after shots were fired at Rihanna's home.
 
-Analysis generated at: Mon Mar  9 18:44:18 UTC 2026
+Analysis generated at: Tue Mar 10 01:25:22 UTC 2026
