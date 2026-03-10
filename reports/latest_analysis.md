@@ -1,10 +1,10 @@
 
-Loaded 93182 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-09 02:18:46
+Loaded 93218 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-09 06:40:42
 
 Incidents by source:
 source
-newsapi           93081
+newsapi           93117
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,30 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-03-09 02:18
-- Location: The Punch
-- Description: Lagos police have arrested additional suspects linked to the murder of Prince Ademola Akinloye. Read the latest on the investigation and the hunt for the p
-
-Read More: https://punchng.com/more-suspects-in-police-net-over-lagos-monarch-sons-death/
-
-
-### SHOOTING on 2026-03-09 02:06
-- Location: Vulture
-- Description: A woman has been arrested after reportedly firing shots into the home of Rihanna and A$AP Rocky. Rihanna was at home at the time, but no injuries have been reported.
-
-
-### ASSAULT on 2026-03-09 02:02
+### OTHER on 2026-03-09 06:40
 - Location: The Times of India
-- Description: A married man allegedly attacked a woman with a knife after she refused his marriage proposal in Bahraich district. The accused then attempted suicide by stabbing himself and consuming pesticide. Both are undergoing treatment at Bahraich Medical College, with…
+- Description: The Staff Selection Commission (SSC) has opened the post preference submission window for SSC CGL 2025 Tier-II candidates from March 9 to March 12, 2026. This mandatory step requires candidates to log in to the official SSC website and submit their choices to…
 
 
-### OTHER on 2026-03-09 02:00
-- Location: Vulture
-- Description: The suspicious nature of Clark and Carol’s affair isn’t as big a revelation as the show aims to make it.
+### OTHER on 2026-03-09 06:37
+- Location: The Times of India
+- Description: Basoda, or Sheetala Ashtami, will be celebrated on March 11, 2026. This significant Hindu festival honors Goddess Sheetala. Devotees pray to her for protection against diseases like smallpox and measles. The festival marks the arrival of summer. On this day, …
 
 
-### SHOOTING on 2026-03-09 01:54
-- Location: Haaretz
-- Description: Police are investigating whether the attack was tied to criminal pressure over municipal tenders amid rising violence in Arab communities. In a separate case, police said a man in his twenties died of wounds sustained in a shooting in Jaffa last Wednesday
+### HOMICIDE on 2026-03-09 06:30
+- Location: The Times of India
+- Description: Dan Rogers says breaking into Silicon Valley has never been easy, urging young professionals to avoid shortcuts and instead build strong experience over time. Drawing from his own journey to Asana, Rogers advises Gen Z to pursue skills in smaller firms or dif…
 
-Analysis generated at: Tue Mar 10 02:29:23 UTC 2026
+
+### HOMICIDE on 2026-03-09 06:27
+- Location: Lifesciencesworld.com
+- Description: Can You Stand Your Ground in Nevada? Navigating the Silver State’s Self-Defense Laws Yes, Nevada is a “stand your ground” state. This means you generally have no duty to retreat before using force, including deadly force, in self-defense if you are in a place…
+
+
+### OTHER on 2026-03-09 06:26
+- Location: The Times of India
+- Description: North Western Railway is installing the Kavach 4.0 anti-collision system across 1,586 km in its first phase, with over 50% of towers and 70% of OFC work complete. The GM also revealed plans to strengthen rail networks in Rajasthan's border districts and indic…
+
+Analysis generated at: Tue Mar 10 06:41:31 UTC 2026
