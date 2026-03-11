@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Mar 10 18:40:22 UTC 2026
+Last updated: Wed Mar 11 01:25:32 UTC 2026
 
 ## Latest Analysis
 
-Loaded 93371 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-09 18:33:16
+Loaded 93382 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-10 01:04:33
 
 Incidents by source:
 source
-newsapi           93270
+newsapi           93281
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-03-09 18:33
-- Location: New York Post
-- Description: "Ira repeatedly said it was cheaper to have me killed than divorce me," ex-wife Susan Bernstein said in court, according to The Journal News.
-
-
-### OTHER on 2026-03-09 18:30
-- Location: ABC News (AU)
-- Description: The Bride!, a modern retelling of The Bride of Frankenstein, takes massive swings in terms of performances, plotting and subtext, but not all of its gambles pay off.
-
-
-### HOMICIDE on 2026-03-09 18:28
-- Location: Abcnews.com
-- Description: Bangladesh’s police chief says diplomatic efforts are being made with India to return two suspects in the December killing of a prominent Bangladeshi activist
-
-
-### HOMICIDE on 2026-03-09 18:26
+### SHOOTING on 2026-03-10 01:04
 - Location: CBC News
-- Description: On Tuesday, Quebec Superior Court Judge Marc-André Blanchard handed Carranza Ladry his mandatory life sentence and ruled him inadmissible for parole for 14 years. Blanchard cited the victim’s age, 18 months, as an aggravating factor in his sentence. He also l…
+- Description: More than a dozen shots were fired at two homes and three vehicles in Brampton early Monday, leaving some residents rattled.
 
 
-### OTHER on 2026-03-09 18:24
-- Location: Abcnews.com
-- Description: President Donald Trump suggests Cuba could be “easy” to overthrow as tensions grow in the region. Mick Mulroy weighs what U.S. intervention would actually look like.
+### OTHER on 2026-03-10 00:49
+- Location: TMZ
+- Description: Dwight Howard may have filed for divorce Monday ... but TMZ has learned his estranged wife, Amber Howard, headed to court the same day to do the exact same thing. Sources with direct knowledge tell TMZ ... Amber was also filing with her attorney…
+ Permalink
 
-Analysis generated at: Tue Mar 10 18:40:22 UTC 2026
+
+### OTHER on 2026-03-10 00:43
+- Location: New York Post
+- Description: The creep was first arrested following a viral livestream clip of him touching several women's hiar on the metro train without their knowledge.
+
+
+### ASSAULT on 2026-03-10 00:21
+- Location: News.com.au
+- Description: Two GoFundMe campaigns have raised more than $90,000 for the injured women.
+
+
+### SHOOTING on 2026-03-10 00:15
+- Location: CBS News
+- Description: The Los Angeles Police Department has identified a woman arrested for allegedly firing several shots at the Beverly Hills home of pop star Rihanna. Carter Evans has details.
+
+Analysis generated at: Wed Mar 11 01:25:32 UTC 2026
