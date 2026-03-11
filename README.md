@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Mar 11 12:44:51 UTC 2026
+Last updated: Wed Mar 11 13:13:05 UTC 2026
 
 ## Latest Analysis
 
-Loaded 93460 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-10 12:23:48
+Loaded 93465 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-10 13:11:00
 
 Incidents by source:
 source
-newsapi           93359
+newsapi           93364
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-03-10 12:23
+### OTHER on 2026-03-10 13:11
+- Location: Statetimes.in
+- Description: TRAFFIC POLICE HEADQUARTERS, J&K, JAMMU/SRINAGARTRAFFIC PLAN & ADVISORY FOR 11-03-2026:-From 09-03-2026, 1600 hrs. to 10-03-2026, 1600 hrs., there was slow movement observed on NH-44 due to single lane traffic between Marog and Kishtwari Pather, in addition t…
+
+
+### OTHER on 2026-03-10 13:00
+- Location: Vulture
+- Description: Call the 2026 Oscar lineup a classic Sally O’Malley, because the voters nominated FIFTY, yes 50 combined features and short films across its 24 categories. Here, we rank all of them from worst to best.
+
+
+### OTHER on 2026-03-10 12:50
 - Location: Abcnews.com
-- Description: Eight-year-old Beckham and friends choreographed a dance to a mashup of “Sorry I’m Here for Someone Else,” “Mr. Electric Blue” and “Beautiful Things.”
+- Description: Pope Leo XIV has accepted the resignation of the Chaldean Catholic bishop of San Diego, California
 
 
-### SHOOTING on 2026-03-10 12:11
-- Location: Alltoc.com
-- Description: Incident outside the consulate and ongoing inquiries Local police reported that a firearm was discharged outside the U.S. consulate in downtown Toronto, prompting an immediate law‑enforcement response. Authorities described the event as a shooting incident ne…
+### OTHER on 2026-03-10 12:46
+- Location: The Conversation Africa
+- Description: Couples in interfaith marriages came under intense pressure in Nazi Germany. But women’s protests in February 1943 may have helped save their husbands.
 
 
-### ASSAULT on 2026-03-10 12:10
-- Location: 101 Great Goals
-- Description: Joey Barton has been detained by Merseyside Police
+### ASSAULT on 2026-03-10 12:45
+- Location: Cointelegraph
+- Description: A French couple was forced to transfer about $1 million in Bitcoin during a fake police home invasion as wrench attacks keep rising, local media reported.
 
-
-### HOMICIDE on 2026-03-10 12:08
-- Location: Freerepublic.com
-- Description: BERWYN, Pa. - Police say a woman was shot and killed in her car Saturday night in Berwyn, and a man is now in custody facing first-degree murder charges. Police say Berwyn shooting appears to be random act of violence What we know: Authorities say Steven Jahn…
-
-
-### OTHER on 2026-03-10 12:07
-- Location: Decrypt
-- Description: Blockchain analysis firm Chainalysis argued that crypto’s transparency creates a “powerful flywheel” of fraud disruption.
-
-Analysis generated at: Wed Mar 11 12:44:51 UTC 2026
+Analysis generated at: Wed Mar 11 13:13:05 UTC 2026
