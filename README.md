@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Mar 11 13:13:05 UTC 2026
+Last updated: Wed Mar 11 18:47:05 UTC 2026
 
 ## Latest Analysis
 
-Loaded 93465 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-10 13:11:00
+Loaded 93558 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-10 18:31:53
 
 Incidents by source:
 source
-newsapi           93364
+newsapi           93457
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-03-10 13:11
-- Location: Statetimes.in
-- Description: TRAFFIC POLICE HEADQUARTERS, J&K, JAMMU/SRINAGARTRAFFIC PLAN & ADVISORY FOR 11-03-2026:-From 09-03-2026, 1600 hrs. to 10-03-2026, 1600 hrs., there was slow movement observed on NH-44 due to single lane traffic between Marog and Kishtwari Pather, in addition t…
+### SHOOTING on 2026-03-10 18:31
+- Location: PBS
+- Description: Toronto police say they responded after reports that someone was shooting at the building. Police say they found evidence of a firearm discharge.
 
 
-### OTHER on 2026-03-10 13:00
-- Location: Vulture
-- Description: Call the 2026 Oscar lineup a classic Sally O’Malley, because the voters nominated FIFTY, yes 50 combined features and short films across its 24 categories. Here, we rank all of them from worst to best.
+### ASSAULT on 2026-03-10 18:25
+- Location: Fox News
+- Description: Former D.C. police officer is accused of sexually assaulting 10 women across Maryland and Virginia using dating apps. Timothy Valentin faces multiple charges.
 
 
-### OTHER on 2026-03-10 12:50
-- Location: Abcnews.com
-- Description: Pope Leo XIV has accepted the resignation of the Chaldean Catholic bishop of San Diego, California
+### HOMICIDE on 2026-03-10 18:21
+- Location: The Daily Caller
+- Description: Darron Lee, an ex-first round selection by the New York Jets, allegedly asked ChatGPT how he could "cover up" his ex-partner's murder.
 
 
-### OTHER on 2026-03-10 12:46
-- Location: The Conversation Africa
-- Description: Couples in interfaith marriages came under intense pressure in Nazi Germany. But women’s protests in February 1943 may have helped save their husbands.
+### SHOOTING on 2026-03-10 18:19
+- Location: TMZ
+- Description: The woman accused of shooting at Rihanna's house while the singer was inside seems to have taken cops on a trip through Los Angeles after the incident ... according to just-released dispatch audio of her arrest. In the recording, obtained by TMZ,…
 
 
-### ASSAULT on 2026-03-10 12:45
-- Location: Cointelegraph
-- Description: A French couple was forced to transfer about $1 million in Bitcoin during a fake police home invasion as wrench attacks keep rising, local media reported.
+### SHOOTING on 2026-03-10 18:14
+- Location: Breitbart News
+- Description: At least one police officer was shot, and the barricaded suspect with whom gunfire was exchanged was shot as well, on Tuesday in northwest Baltimore, Maryland.
+The post Report: Baltimore Police Officer, Barricaded Suspect Shot in Gunfire Exchange appeared fir…
 
-Analysis generated at: Wed Mar 11 13:13:05 UTC 2026
+Analysis generated at: Wed Mar 11 18:47:05 UTC 2026
