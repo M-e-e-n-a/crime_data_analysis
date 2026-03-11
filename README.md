@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Mar 11 02:28:58 UTC 2026
+Last updated: Wed Mar 11 06:44:48 UTC 2026
 
 ## Latest Analysis
 
-Loaded 93390 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-10 02:28:08
+Loaded 93415 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-10 06:29:58
 
 Incidents by source:
 source
-newsapi           93289
+newsapi           93314
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2026-03-10 02:28
-- Location: PEOPLE
-- Description: Barmore was previously charged with domestic assault and battery amid allegations that he threw his then-girlfriend to the ground during an argument
-
-
-### HOMICIDE on 2026-03-10 02:17
+### HOMICIDE on 2026-03-10 06:29
 - Location: The Times of India
-- Description: OpenAI came forward to police after Jesse Van Roostselaar killed eight people and then herself last month, saying the attacker's ChatGPT account had been closed but that she evaded the ban by having a second account. The legal claim filed in the British Colum…
+- Description: Rihanna's Beverly Crest home was targeted by gunfire on March 8, 2026, when a woman fired an AR-15-style rifle from a white Tesla. The LAPD arrested Ivanna Ortiz, 35, from Florida, charging her with attempted murder. Investigators are examining her social med…
 
 
-### HOMICIDE on 2026-03-10 02:03
+### SHOOTING on 2026-03-10 06:28
+- Location: ABC News (AU)
+- Description: A man who fatally shot his colleague at a Wheatbelt grain silo before turning the weapon on himself had undiagnosed mental health issues and was exploring extremist ideology, an inquest hears.
+
+
+### HOMICIDE on 2026-03-10 06:27
 - Location: The Times of India
-- Description: Julian Ingram Manhunt: The NSW Government have announced a $250,000 reward for information leading to the arrest of Julian Ingram, 37, wanted in connection with the deaths of three people and an unborn child in Lake Cargelligo. Ingram, an expert bushman, has …
+- Description: A realtor from Bengaluru Rural was kidnapped and murdered, his body discovered in Tamil Nadu. Assailants intercepted his car, sprayed his friend with a chemical, and abducted him. Police suspect a former business associate, Mohan Babu, driven by financial dis…
 
 
-### OTHER on 2026-03-10 02:00
-- Location: The Conversation Africa
-- Description: Five Iranian soccer players have been granted humanitarian visas to stay in Australia. How did it get to this and what happens next?
+### HOMICIDE on 2026-03-10 06:17
+- Location: Variety
+- Description: “Death in Torrevieja,” the anticipated first feature of Adriana Arratia expanding on her eye-catching same-titled 2023 short, has tied down its first international co-production accord, with Luxembourg’s Deal Productions. Founded by “Bad Banks’ actor Désirée …
 
 
-### OTHER on 2026-03-10 02:00
-- Location: The Conversation Africa
-- Description: Five Iranian soccer players have been granted humanitarian visas to stay in Australia. How did it get to this and what happens next?
+### OTHER on 2026-03-10 06:13
+- Location: The Times of India
+- Description: Pakistan has shut schools for two weeks and moved universities online as an emergency measure against a looming fuel shortage. This decision, driven by rising global oil prices and Middle East tensions, aims to conserve energy by reducing daily commutes. The …
 
-Analysis generated at: Wed Mar 11 02:28:58 UTC 2026
+Analysis generated at: Wed Mar 11 06:44:48 UTC 2026
