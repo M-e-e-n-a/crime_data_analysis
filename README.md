@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Mar 12 13:13:03 UTC 2026
+Last updated: Thu Mar 12 18:45:08 UTC 2026
 
 ## Latest Analysis
 
-Loaded 93661 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-11 13:09:47
+Loaded 93730 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-11 18:44:46
 
 Incidents by source:
 source
-newsapi           93560
+newsapi           93629
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,30 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-03-11 13:09
-- Location: Israelnationalnews.com
-- Description: A member of one of the Toronto-area synagogues targeted in the past week says that the congregation has no intention of being driven away from their way of life.
+### OTHER on 2026-03-11 18:44
+- Location: Foreign Policy
+- Description: A year before presidential elections, the National Rally has a chance of capturing Marseille, a historic hub of immigration.
 
 
-### HOMICIDE on 2026-03-11 13:06
-- Location: The Daily Caller
-- Description: A state trooper was killed in a murder-suicide by a suspect who appeared to be an open Marxist who believed that “All Cops Are Bad,” his social media shows.
+### HOMICIDE on 2026-03-11 18:35
+- Location: CBC News
+- Description: Police say Faizaan Awan was chased by other cars, shot and killed in Stoney Creek a year ago.
 
 
-### SHOOTING on 2026-03-11 13:00
-- Location: Consequence.net
-- Description: More details have emerged about the targeted shooting at Rihanna's home and how close it came to becoming a tragedy.
-Rihanna and A$AP Rocky Were in Airstream at Time of Shooting: “They Easily Could Have Been Hit”
-Scoop Harrison
+### ROBBERY/THEFT on 2026-03-11 18:31
+- Location: New York Post
+- Description: Shekita Maxwell, a one-time-mayoral candidate in the city of Macon, Ga., was arrested Monday night on theft charges over the alleged dine-and-dash saga.
 
 
-### OTHER on 2026-03-11 12:51
-- Location: ComicBook.com
-- Description: Almost four decades ago, one of the greatest travesties in sci-fi came to pass when the BBC cancelled a great show without even allowing it to air for its planned run. It wasn’t the first show cancelled before its time, and it certainly won’t be the last, but…
+### OTHER on 2026-03-11 18:30
+- Location: Abcnews.com
+- Description: The head priest of Trinity Episcopal Cathedral in downtown Pittsburgh is facing charges after being accused of stealing more than $1,000 in baseball cards from a Walmart
 
 
-### HOMICIDE on 2026-03-11 12:46
-- Location: Bar & Bench - Indian Legal News
-- Description: The Supreme Court recently stayed the death penalty awarded to a man convicted of raping and murdering a five-year-old girl in Bhopal [Atul Nihale vs. State of
+### HOMICIDE on 2026-03-11 18:10
+- Location: CBC News
+- Description: It will now be up to Quebec's public prosecution service whether to lay charges against the police officer who shot 15-year-old Nooran Rezayi.
 
-Analysis generated at: Thu Mar 12 13:13:03 UTC 2026
+Analysis generated at: Thu Mar 12 18:45:08 UTC 2026
