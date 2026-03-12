@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Mar 12 12:45:22 UTC 2026
+Last updated: Thu Mar 12 13:13:03 UTC 2026
 
 ## Latest Analysis
 
-Loaded 93655 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-11 12:38:48
+Loaded 93661 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-11 13:09:47
 
 Incidents by source:
 source
-newsapi           93554
+newsapi           93560
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-03-11 12:38
-- Location: Fox News
-- Description: Trooper-paramedic Hunter Bennett and pilot Robert Skankey died when their helicopter crashed during active shooter pursuit in Flagstaff last month.
+### SHOOTING on 2026-03-11 13:09
+- Location: Israelnationalnews.com
+- Description: A member of one of the Toronto-area synagogues targeted in the past week says that the congregation has no intention of being driven away from their way of life.
 
 
-### ASSAULT on 2026-03-11 12:31
-- Location: The Times of India
-- Description: Police have arrested a 25-year-old engineer for allegedly stabbing his sister 40 times as she opposed his interfaith relationship with a woman he had met online. The man also attacked his mother, but luckily, she survived the attack. The post-mortem report re…
+### HOMICIDE on 2026-03-11 13:06
+- Location: The Daily Caller
+- Description: A state trooper was killed in a murder-suicide by a suspect who appeared to be an open Marxist who believed that “All Cops Are Bad,” his social media shows.
 
 
-### HOMICIDE on 2026-03-11 12:18
-- Location: Khabarhub.com
-- Description: SURKHET: A 16-year-old girl, who left home for tuition classes on Saturday morning, was found brutally raped and murdered in a community forest in Birendranagar, Surkhet. The deceased has been identified as Inisha BK, a Grade 11 science student at Usha Balbat…
+### SHOOTING on 2026-03-11 13:00
+- Location: Consequence.net
+- Description: More details have emerged about the targeted shooting at Rihanna's home and how close it came to becoming a tragedy.
+Rihanna and A$AP Rocky Were in Airstream at Time of Shooting: “They Easily Could Have Been Hit”
+Scoop Harrison
 
 
-### OTHER on 2026-03-11 12:12
-- Location: Theregister.com
-- Description: 17-year-old allegedly withdrew large sums of cash from ATMs
-Dutch police have arrested a 17-year-old boy who detectives suspect was responsible for 16 bank card frauds across the Netherlands.…
+### OTHER on 2026-03-11 12:51
+- Location: ComicBook.com
+- Description: Almost four decades ago, one of the greatest travesties in sci-fi came to pass when the BBC cancelled a great show without even allowing it to air for its planned run. It wasn’t the first show cancelled before its time, and it certainly won’t be the last, but…
 
 
-### HOMICIDE on 2026-03-11 12:05
-- Location: Alltoc.com
-- Description: Woman Charged After Shots Fired at Beverly Hills Mansion Authorities arrested Ivanna Lisette Ortiz, a 35 year old woman, and booked her on attempted murder and related charges after gunfire struck the Beverly Hills home of a major recording artist. Police say…
+### HOMICIDE on 2026-03-11 12:46
+- Location: Bar & Bench - Indian Legal News
+- Description: The Supreme Court recently stayed the death penalty awarded to a man convicted of raping and murdering a five-year-old girl in Bhopal [Atul Nihale vs. State of
 
-Analysis generated at: Thu Mar 12 12:45:22 UTC 2026
+Analysis generated at: Thu Mar 12 13:13:03 UTC 2026
