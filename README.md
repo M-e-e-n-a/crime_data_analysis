@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Mar 11 18:47:05 UTC 2026
+Last updated: Thu Mar 12 01:25:17 UTC 2026
 
 ## Latest Analysis
 
-Loaded 93558 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-10 18:31:53
+Loaded 93573 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-11 01:21:07
 
 Incidents by source:
 source
-newsapi           93457
+newsapi           93472
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-03-10 18:31
-- Location: PBS
-- Description: Toronto police say they responded after reports that someone was shooting at the building. Police say they found evidence of a firearm discharge.
+### OTHER on 2026-03-11 01:21
+- Location: CBC News
+- Description: Police say they need help to solve the mystery surrounding a Manitoba woman's disappearance a decade ago.
 
 
-### ASSAULT on 2026-03-10 18:25
+### OTHER on 2026-03-11 01:17
+- Location: Gizmodo.com
+- Description: According to a new job listing, Elon Musk's company town needs some law and order.
+
+
+### ROBBERY/THEFT on 2026-03-11 01:12
+- Location: New York Post
+- Description: The SJPD confirmed the incident is currently being investigated as a possible hate crime. The investigation is active and ongoing.
+
+
+### HOMICIDE on 2026-03-11 01:10
+- Location: New York Post
+- Description: Federal agents are searching for a hulking murder suspect on the FBI’s Ten Most Wanted list and they’re now offering $1 million for information that could lead to his arrest. Omar Alexander Cardenas, a California native who also goes by the nickname “Dollar,”…
+
+
+### ASSAULT on 2026-03-11 01:07
 - Location: Fox News
-- Description: Former D.C. police officer is accused of sexually assaulting 10 women across Maryland and Virginia using dating apps. Timothy Valentin faces multiple charges.
+- Description: San Jose police are investigating a potential antisemitic hate crime following a violent attack at Santana Row. Authorities say the suspects allegedly used antisemitic hate speech.
 
-
-### HOMICIDE on 2026-03-10 18:21
-- Location: The Daily Caller
-- Description: Darron Lee, an ex-first round selection by the New York Jets, allegedly asked ChatGPT how he could "cover up" his ex-partner's murder.
-
-
-### SHOOTING on 2026-03-10 18:19
-- Location: TMZ
-- Description: The woman accused of shooting at Rihanna's house while the singer was inside seems to have taken cops on a trip through Los Angeles after the incident ... according to just-released dispatch audio of her arrest. In the recording, obtained by TMZ,…
-
-
-### SHOOTING on 2026-03-10 18:14
-- Location: Breitbart News
-- Description: At least one police officer was shot, and the barricaded suspect with whom gunfire was exchanged was shot as well, on Tuesday in northwest Baltimore, Maryland.
-The post Report: Baltimore Police Officer, Barricaded Suspect Shot in Gunfire Exchange appeared fir…
-
-Analysis generated at: Wed Mar 11 18:47:05 UTC 2026
+Analysis generated at: Thu Mar 12 01:25:17 UTC 2026
