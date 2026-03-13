@@ -1,10 +1,10 @@
 
-Loaded 93748 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-12 02:21:15
+Loaded 93771 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-12 06:34:00
 
 Incidents by source:
 source
-newsapi           93647
+newsapi           93670
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-03-12 02:21
-- Location: Al Jazeera English
-- Description: The attack on Shajareh Tayyebeh Elementary School quickly became a focal point of concern over civilian casualties.
+### ROBBERY/THEFT on 2026-03-12 06:34
+- Location: The Star Online
+- Description: PETALING JAYA: Police have arrested two local men believed to be involved in a snatch theft that left a Spanish woman injured in Taman Midah, Cheras. Read full story
 
 
-### OTHER on 2026-03-12 02:16
-- Location: The Times of India
-- Description: Srinagar MP Aga Ruhullah Mehdi sarcastically questioned the Jammu and Kashmir police about a potential third FIR following his pro-Iran and anti-Israel/US statements. He had previously faced two FIRs for allegedly circulating misleading content and making an …
+### HOMICIDE on 2026-03-12 06:17
+- Location: New York Post
+- Description: Cedric Ricks, 51, was pronounced dead at 6:55 p.m. CDT following a lethal dose of the sedative pentobarbital at the state penitentiary in Huntsville.
 
 
-### OTHER on 2026-03-12 01:48
-- Location: Todayifoundout.com
-- Description: For those of us of the slightly more seasoned vintage growing up in or living in the late 20th century, which was totally only a decade ago and I’ll take no further input on this matter, spontaneous Human Combustion ranks alongside the likes of quicksand, the…
+### SHOOTING on 2026-03-12 06:05
+- Location: Alltoc.com
+- Description: What happened and what investigators say A 35‑year‑old woman has been charged in connection with an afternoon shooting at the Beverly Hills residence of pop star Rihanna while the singer and members of her family were inside. Authorities say multiple rounds w…
 
 
-### OTHER on 2026-03-12 01:24
-- Location: Abcnews.com
-- Description: Despite attempting to break free from his grasp, the police officer was able to pull her to safety.
+### OTHER on 2026-03-12 06:00
+- Location: New Zealand Herald
+- Description: Experts say real losses may be 10 to 15 times higher than official estimates.
 
 
-### HOMICIDE on 2026-03-12 01:19
-- Location: The Daily Caller
-- Description: Two Florida teenagers accused of plotting to murder a fellow student at their high school are being held without bond.
+### OTHER on 2026-03-12 05:55
+- Location: Freerepublic.com
+- Description: The bodies were found inside a car in Queensland’s flood-hit Gympie region.Australian police have recovered two bodies during a search for two Chinese backpackers who went missing in a flood-hit region in the country's east, local media reported on Thursday (…
 
-Analysis generated at: Fri Mar 13 02:32:46 UTC 2026
+Analysis generated at: Fri Mar 13 06:44:50 UTC 2026
