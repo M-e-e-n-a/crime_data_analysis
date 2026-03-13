@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Mar 13 12:43:47 UTC 2026
+Last updated: Fri Mar 13 13:10:54 UTC 2026
 
 ## Latest Analysis
 
-Loaded 93820 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-12 12:36:15
+Loaded 93822 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-12 13:02:00
 
 Incidents by source:
 source
-newsapi           93719
+newsapi           93721
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -23,6 +23,25 @@ bution.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### OTHER on 2026-03-12 13:02
+- Location: Thefutoncritic.com
+- Description: All 10 episodes of the new season will be available to stream at launch on on Tuesday, March 31.
+
+
+### OTHER on 2026-03-12 12:50
+- Location: Thenation.com
+- Description: Sara Van Horn
+
+
+
+The Prairieland Defendants are on trial in a case that could set a chilling precedent for the right to protest in the United States.
+
+
+
+
+The post Trump Wants to Criminalize Dissent. This Texas Case Could Help Him Do It. appeared first on Th…
+
 
 ### SHOOTING on 2026-03-12 12:36
 - Location: The Times of India
@@ -39,14 +58,4 @@ The post Four Military Drones Stolen from Fort Campbell in Kentucky appeared fir
 - Location: HuffPost
 - Description: The report found the police shooting was justified, but raised questions about why the first ambulance that arrived was used to take away the officer.
 
-
-### ROBBERY/THEFT on 2026-03-12 12:27
-- Location: Decrypt
-- Description: Prosecutors said Zhang Xinghua helped move stolen funds through Tornado Cash after unauthorized access drained SafeX-linked wallets in 2025.
-
-
-### HOMICIDE on 2026-03-12 12:20
-- Location: Whatjapanthinks.com
-- Description: Japan consistently ranks among the safest nations globally, boasting remarkably low crime rates that leave many in awe. Intentional homicide rates in Japan hover between 0.2–0.3 per 100,000 people, a stark contrast to countries like the United States, where t…
-
-Analysis generated at: Fri Mar 13 12:43:47 UTC 2026
+Analysis generated at: Fri Mar 13 13:10:54 UTC 2026
