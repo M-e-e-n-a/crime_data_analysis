@@ -1,10 +1,10 @@
 
-Loaded 93822 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-12 13:02:00
+Loaded 93915 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-12 18:27:41
 
 Incidents by source:
 source
-newsapi           93721
+newsapi           93814
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,38 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-03-12 13:02
-- Location: Thefutoncritic.com
-- Description: All 10 episodes of the new season will be available to stream at launch on on Tuesday, March 31.
+### HOMICIDE on 2026-03-12 18:27
+- Location: TheBlaze
+- Description: Ex-NFL player asked ChatGPT for advice after allegedly murdering his fiancée | Blaze Mediatheblaze.com
 
 
-### OTHER on 2026-03-12 12:50
-- Location: Thenation.com
-- Description: Sara Van Horn
+### HOMICIDE on 2026-03-12 18:27
+- Location: NPR
+- Description: Security officers at Temple Israel had "engaged with the suspect" after a vehicle rammed into the building, according to Oakland County Sheriff Mike Bouchard.
 
 
-
-The Prairieland Defendants are on trial in a case that could set a chilling precedent for the right to protest in the United States.
-
-
-
-
-The post Trump Wants to Criminalize Dissent. This Texas Case Could Help Him Do It. appeared first on Th…
+### HOMICIDE on 2026-03-12 18:27
+- Location: NPR
+- Description: Security officers at Temple Israel had "engaged the threat" that apparently started with a vehicle ramming into the building, according to Oakland County Sheriff Mike Bouchard.
 
 
-### SHOOTING on 2026-03-12 12:36
-- Location: The Times of India
-- Description: A Delhi court has denied bail to Shahrukh Pathan. He is accused of pointing a gun at a police officer during the 2020 North-East Delhi riots. Pathan has been in custody since March 2020. The court considered the serious nature of the allegations. Prosecution …
+### SHOOTING on 2026-03-12 18:26
+- Location: Fox News
+- Description: Michigan State Police are responding to an "active shooting" at Temple Israel, a Reform Jewish synagogue in West Bloomfield, Michigan. The shooting unfolded at about 12:30 p.m. local time Thursday.
 
 
-### ROBBERY/THEFT on 2026-03-12 12:30
-- Location: Thegatewaypundit.com
-- Description: Four military drones were stolen from Fort Campbell in Kentucky.
-The post Four Military Drones Stolen from Fort Campbell in Kentucky appeared first on The Gateway Pundit.
+### HOMICIDE on 2026-03-12 18:23
+- Location: Freerepublic.com
+- Description: NORFOLK, Va. (WAVY) — The all clear was provided after a shooting at Old Dominion University Thursday morning. One victim was killed and two were hurt. The suspected gunman is dead, according to ODU officials. In a press conference held around 2 p.m., ODU Pol…
 
-
-### SHOOTING on 2026-03-12 12:29
-- Location: HuffPost
-- Description: The report found the police shooting was justified, but raised questions about why the first ambulance that arrived was used to take away the officer.
-
-Analysis generated at: Fri Mar 13 13:10:54 UTC 2026
+Analysis generated at: Fri Mar 13 18:34:20 UTC 2026
