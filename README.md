@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Mar 13 01:28:57 UTC 2026
+Last updated: Fri Mar 13 02:32:46 UTC 2026
 
 ## Latest Analysis
 
-Loaded 93745 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-12 01:24:26
+Loaded 93748 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-12 02:21:15
 
 Incidents by source:
 source
-newsapi           93644
+newsapi           93647
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,6 +24,21 @@ bution.svg)
 
 ## Recent Incidents
 
+### HOMICIDE on 2026-03-12 02:21
+- Location: Al Jazeera English
+- Description: The attack on Shajareh Tayyebeh Elementary School quickly became a focal point of concern over civilian casualties.
+
+
+### OTHER on 2026-03-12 02:16
+- Location: The Times of India
+- Description: Srinagar MP Aga Ruhullah Mehdi sarcastically questioned the Jammu and Kashmir police about a potential third FIR following his pro-Iran and anti-Israel/US statements. He had previously faced two FIRs for allegedly circulating misleading content and making an …
+
+
+### OTHER on 2026-03-12 01:48
+- Location: Todayifoundout.com
+- Description: For those of us of the slightly more seasoned vintage growing up in or living in the late 20th century, which was totally only a decade ago and I’ll take no further input on this matter, spontaneous Human Combustion ranks alongside the likes of quicksand, the…
+
+
 ### OTHER on 2026-03-12 01:24
 - Location: Abcnews.com
 - Description: Despite attempting to break free from his grasp, the police officer was able to pull her to safety.
@@ -33,19 +48,4 @@ bution.svg)
 - Location: The Daily Caller
 - Description: Two Florida teenagers accused of plotting to murder a fellow student at their high school are being held without bond.
 
-
-### OTHER on 2026-03-12 01:00
-- Location: Japan Today
-- Description: Cambodia hopes to shut down all of the country’s notorious online scam centers by the end of next month, the head of the Southeast Asian nation's effort to combat the cybercrime said Wednesday. Senior Minister Chhay Sinarith, in charge of the Commission for C…
-
-
-### ASSAULT on 2026-03-12 00:53
-- Location: Freerepublic.com
-- Description: A Toronto Police constable who took a photo with Mayor Olivia Chow while on the "Muslim Liaison Unit" has been suspended after being arrested by Peel Regional Police and charged with multiple criminal offences. Peel police confirmed that Farhan Ali, 39, faces…
-
-
-### HOMICIDE on 2026-03-12 00:47
-- Location: Israelnationalnews.com
-- Description: Police have launched an investigation following a report of gunfire directed at a vehicle in Kafr Yasif in which a man was sitting.Medical teams pronounced him dead at the scene. Officers from the Western Galilee police station have begun investigative activi…
-
-Analysis generated at: Fri Mar 13 01:28:57 UTC 2026
+Analysis generated at: Fri Mar 13 02:32:46 UTC 2026
