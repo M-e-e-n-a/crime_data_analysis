@@ -1,10 +1,10 @@
 
-Loaded 93730 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-11 18:44:46
+Loaded 93745 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-12 01:24:26
 
 Incidents by source:
 source
-newsapi           93629
+newsapi           93644
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-03-11 18:44
-- Location: Foreign Policy
-- Description: A year before presidential elections, the National Rally has a chance of capturing Marseille, a historic hub of immigration.
-
-
-### HOMICIDE on 2026-03-11 18:35
-- Location: CBC News
-- Description: Police say Faizaan Awan was chased by other cars, shot and killed in Stoney Creek a year ago.
-
-
-### ROBBERY/THEFT on 2026-03-11 18:31
-- Location: New York Post
-- Description: Shekita Maxwell, a one-time-mayoral candidate in the city of Macon, Ga., was arrested Monday night on theft charges over the alleged dine-and-dash saga.
-
-
-### OTHER on 2026-03-11 18:30
+### OTHER on 2026-03-12 01:24
 - Location: Abcnews.com
-- Description: The head priest of Trinity Episcopal Cathedral in downtown Pittsburgh is facing charges after being accused of stealing more than $1,000 in baseball cards from a Walmart
+- Description: Despite attempting to break free from his grasp, the police officer was able to pull her to safety.
 
 
-### HOMICIDE on 2026-03-11 18:10
-- Location: CBC News
-- Description: It will now be up to Quebec's public prosecution service whether to lay charges against the police officer who shot 15-year-old Nooran Rezayi.
+### HOMICIDE on 2026-03-12 01:19
+- Location: The Daily Caller
+- Description: Two Florida teenagers accused of plotting to murder a fellow student at their high school are being held without bond.
 
-Analysis generated at: Thu Mar 12 18:45:08 UTC 2026
+
+### OTHER on 2026-03-12 01:00
+- Location: Japan Today
+- Description: Cambodia hopes to shut down all of the country’s notorious online scam centers by the end of next month, the head of the Southeast Asian nation's effort to combat the cybercrime said Wednesday. Senior Minister Chhay Sinarith, in charge of the Commission for C…
+
+
+### ASSAULT on 2026-03-12 00:53
+- Location: Freerepublic.com
+- Description: A Toronto Police constable who took a photo with Mayor Olivia Chow while on the "Muslim Liaison Unit" has been suspended after being arrested by Peel Regional Police and charged with multiple criminal offences. Peel police confirmed that Farhan Ali, 39, faces…
+
+
+### HOMICIDE on 2026-03-12 00:47
+- Location: Israelnationalnews.com
+- Description: Police have launched an investigation following a report of gunfire directed at a vehicle in Kafr Yasif in which a man was sitting.Medical teams pronounced him dead at the scene. Officers from the Western Galilee police station have begun investigative activi…
+
+Analysis generated at: Fri Mar 13 01:28:57 UTC 2026
