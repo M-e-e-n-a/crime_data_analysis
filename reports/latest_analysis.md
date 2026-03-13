@@ -1,10 +1,10 @@
 
-Loaded 93771 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-12 06:34:00
+Loaded 93820 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-12 12:36:15
 
 Incidents by source:
 source
-newsapi           93670
+newsapi           93719
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2026-03-12 06:34
-- Location: The Star Online
-- Description: PETALING JAYA: Police have arrested two local men believed to be involved in a snatch theft that left a Spanish woman injured in Taman Midah, Cheras. Read full story
+### SHOOTING on 2026-03-12 12:36
+- Location: The Times of India
+- Description: A Delhi court has denied bail to Shahrukh Pathan. He is accused of pointing a gun at a police officer during the 2020 North-East Delhi riots. Pathan has been in custody since March 2020. The court considered the serious nature of the allegations. Prosecution …
 
 
-### HOMICIDE on 2026-03-12 06:17
-- Location: New York Post
-- Description: Cedric Ricks, 51, was pronounced dead at 6:55 p.m. CDT following a lethal dose of the sedative pentobarbital at the state penitentiary in Huntsville.
+### ROBBERY/THEFT on 2026-03-12 12:30
+- Location: Thegatewaypundit.com
+- Description: Four military drones were stolen from Fort Campbell in Kentucky.
+The post Four Military Drones Stolen from Fort Campbell in Kentucky appeared first on The Gateway Pundit.
 
 
-### SHOOTING on 2026-03-12 06:05
-- Location: Alltoc.com
-- Description: What happened and what investigators say A 35‑year‑old woman has been charged in connection with an afternoon shooting at the Beverly Hills residence of pop star Rihanna while the singer and members of her family were inside. Authorities say multiple rounds w…
+### SHOOTING on 2026-03-12 12:29
+- Location: HuffPost
+- Description: The report found the police shooting was justified, but raised questions about why the first ambulance that arrived was used to take away the officer.
 
 
-### OTHER on 2026-03-12 06:00
-- Location: New Zealand Herald
-- Description: Experts say real losses may be 10 to 15 times higher than official estimates.
+### ROBBERY/THEFT on 2026-03-12 12:27
+- Location: Decrypt
+- Description: Prosecutors said Zhang Xinghua helped move stolen funds through Tornado Cash after unauthorized access drained SafeX-linked wallets in 2025.
 
 
-### OTHER on 2026-03-12 05:55
-- Location: Freerepublic.com
-- Description: The bodies were found inside a car in Queensland’s flood-hit Gympie region.Australian police have recovered two bodies during a search for two Chinese backpackers who went missing in a flood-hit region in the country's east, local media reported on Thursday (…
+### HOMICIDE on 2026-03-12 12:20
+- Location: Whatjapanthinks.com
+- Description: Japan consistently ranks among the safest nations globally, boasting remarkably low crime rates that leave many in awe. Intentional homicide rates in Japan hover between 0.2–0.3 per 100,000 people, a stark contrast to countries like the United States, where t…
 
-Analysis generated at: Fri Mar 13 06:44:50 UTC 2026
+Analysis generated at: Fri Mar 13 12:43:47 UTC 2026
