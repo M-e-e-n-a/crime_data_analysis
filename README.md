@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Mar 14 12:37:54 UTC 2026
+Last updated: Sat Mar 14 13:04:07 UTC 2026
 
 ## Latest Analysis
 
-Loaded 94026 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-13 12:35:15
+Loaded 94029 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-13 12:53:16
 
 Incidents by source:
 source
-newsapi           93925
+newsapi           93928
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,6 +24,21 @@ bution.svg)
 
 ## Recent Incidents
 
+### OTHER on 2026-03-13 12:53
+- Location: CinemaBlend
+- Description: Let's go over what happened.
+
+
+### OTHER on 2026-03-13 12:39
+- Location: Theregister.com
+- Description: Operation Synergia's third season is the most productive to date Ninety-four people were arrested as part of a global, multi-month cybercrime crackdown, Interpol revealed today.…
+
+
+### OTHER on 2026-03-13 12:38
+- Location: Dark Horizons
+- Description: Single Female Award-winning playwright Sarah DeLappe (“Bodies Bodies Bodies”) has been hired to write 3000 Pictures’ “Single Female,” the remake of 1992 thriller smash “Single White Female” set to star Jenna Ortega and Taylor Russell. Stacey Sher (“Heretic”) …
+
+
 ### OTHER on 2026-03-13 12:35
 - Location: Twistedsifter.com
 - Description: They finally had enough of dealing with these incredibly rude neighbors!
@@ -33,19 +48,4 @@ bution.svg)
 - Location: The Conversation Africa
 - Description: Black children who go missing are often labeled as runaways, which excludes them from the Amber Alert system.
 
-
-### SHOOTING on 2026-03-13 12:25
-- Location: Freerepublic.com
-- Description: Andrew Stanton of Wisconsin faces up to 10 YEARS in prison for a TikTok where he threatened to shoot @DHSgov law enforcement: "If ICE shows up to your neighborhood — I’m sorry, I’m just gonna say it. It’s time to start f**king shooting at them." Welcome to th…
-
-
-### OTHER on 2026-03-13 12:24
-- Location: Abcnews.com
-- Description: A woman was out shopping in Malibu when she stumbled upon three Golden Retriever pups in a truck bed at the peak of golden hour in the Golden State.
-
-
-### HOMICIDE on 2026-03-13 12:15
-- Location: Jezebel
-- Description: There's not enough therapy in the world for the Old Dominion University ROTC students who were forced to kill a school shooter yesterday.
-
-Analysis generated at: Sat Mar 14 12:37:54 UTC 2026
+Analysis generated at: Sat Mar 14 13:04:07 UTC 2026
