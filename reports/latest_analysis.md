@@ -1,10 +1,10 @@
 
-Loaded 93940 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-13 02:10:14
+Loaded 93971 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-13 06:24:16
 
 Incidents by source:
 source
-newsapi           93839
+newsapi           93870
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,30 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2026-03-13 02:10
+### OTHER on 2026-03-13 06:24
+- Location: Abcnews.com
+- Description: A California animal shelter been treating a kitten, named Zoe, who was found appearing inflated like a balloon. ABC News' Danny New has the story.
+
+
+### OTHER on 2026-03-13 06:00
+- Location: The Irish Times
+- Description: No one knows who they are, what they went through or the landmark legal change they secured, but we owe them a debt
+
+
+### OTHER on 2026-03-13 06:00
+- Location: Naturalnews.com
+- Description: The War We Didn’t Need, The Hunger We’ll All Feel It is 2026, and I am watching with horror as President Donald Trump, sworn in last year, deliberately provokes a war that is set to starve millions across the globe. The choice to escalate strikes on Iran and …
+
+
+### OTHER on 2026-03-13 05:46
 - Location: The Times of India
-- Description: A bizarre theft unfolded in Ujjain as a 25-year-old man was apprehended for stealing a woman's innerwear from her clothesline. CCTV footage captured the peculiar act, leading to his identification and arrest. The accused confessed to a one-sided love for the …
+- Description: Santy Sharma supported Badshah: Rapper Badshah faces backlash for his song 'Tateeree' due to controversial lyrics and visuals, including depictions of minors in school uniforms. Despite an apology and song removal, criticism persists. Rapper Santy Sharma defe…
 
 
-### OTHER on 2026-03-13 02:01
-- Location: CBC News
-- Description: Suspended physician David Edward-Ooi Poon has been charged with 28 more sex crimes this week, for a total of 71 alleged offences. Toronto police now accuse the doctor and public health expert with three counts of sexual interference with minors and seven addi…
+### HOMICIDE on 2026-03-13 05:33
+- Location: ABC News (AU)
+- Description: Aniko Berguno says the crash that killed her elder sister Nora and her niece has left "a hole in many hearts for the rest of our lives," remembering her sister as someone who always put others first.
 
-
-### OTHER on 2026-03-13 02:00
-- Location: Thesimplyluxuriouslife.com
-- Description: Friday the 13th brings the luck here on TSLL! And that means oodles of books on all sorts of topics – British capers, inspiring memoirs for bibliophiles and anyone holding a dream in their hearts, books about loving life, how to succeed as an artist, and many…
-
-
-### SHOOTING on 2026-03-13 01:58
-- Location: New York Post
-- Description: A TV news reporter sensationally accused of shooting at two Hispanic men in separate incidents has spoken out for the first time following his arrest.
-
-
-### OTHER on 2026-03-13 01:57
-- Location: The Punch
-- Description: Sokoto police arrest five for currency counterfeiting and recover an AK-47 rifle from suspected Yan Sakai members. An impersonator was also caught.
-
-Read More: https://punchng.com/sokoto-police-arrest-five-for-currency-counterfeiting-recover-ak-47/
-
-Analysis generated at: Sat Mar 14 02:30:31 UTC 2026
+Analysis generated at: Sat Mar 14 06:39:57 UTC 2026
