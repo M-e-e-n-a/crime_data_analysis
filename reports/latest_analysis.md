@@ -1,10 +1,10 @@
 
-Loaded 93915 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-12 18:27:41
+Loaded 93932 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-13 01:15:00
 
 Incidents by source:
 source
-newsapi           93814
+newsapi           93831
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-03-12 18:27
-- Location: TheBlaze
-- Description: Ex-NFL player asked ChatGPT for advice after allegedly murdering his fiancée | Blaze Mediatheblaze.com
+### ROBBERY/THEFT on 2026-03-13 01:15
+- Location: The Indian Express
+- Description: Farooq is a Z-Plus protectee, entitled to NSG commandos and two-three security wings. As aides claim lack of any security at venue, officers admit “lapses to some extent”
 
 
-### HOMICIDE on 2026-03-12 18:27
-- Location: NPR
-- Description: Security officers at Temple Israel had "engaged with the suspect" after a vehicle rammed into the building, according to Oakland County Sheriff Mike Bouchard.
+### OTHER on 2026-03-13 01:09
+- Location: CBC News
+- Description: A man last seen near Manitoba's largest First Nation in late February has been reported missing, and RCMP say he may be travelling in a borrowed pickup truck.
 
 
-### HOMICIDE on 2026-03-12 18:27
-- Location: NPR
-- Description: Security officers at Temple Israel had "engaged the threat" that apparently started with a vehicle ramming into the building, according to Oakland County Sheriff Mike Bouchard.
+### HOMICIDE on 2026-03-13 01:00
+- Location: CBC News
+- Description: Francis Usher, the CEO of the Ministry of National Defence in Belize, said police are treating the boat as a potential crime scene, because "apparent wounds" were found on the body, which was in a state of decomposition.
 
 
-### SHOOTING on 2026-03-12 18:26
-- Location: Fox News
-- Description: Michigan State Police are responding to an "active shooting" at Temple Israel, a Reform Jewish synagogue in West Bloomfield, Michigan. The shooting unfolded at about 12:30 p.m. local time Thursday.
+### HOMICIDE on 2026-03-13 00:56
+- Location: Screen Rant
+- Description: Discover the latest Netflix crime thriller series, 'That Night,' following three sisters embroiled in a murder mystery. Perfect for a weekend binge.
 
 
-### HOMICIDE on 2026-03-12 18:23
+### HOMICIDE on 2026-03-13 00:50
 - Location: Freerepublic.com
-- Description: NORFOLK, Va. (WAVY) — The all clear was provided after a shooting at Old Dominion University Thursday morning. One victim was killed and two were hurt. The suspected gunman is dead, according to ODU officials. In a press conference held around 2 p.m., ODU Pol…
+- Description: SEMINOLE COUNTY, Fla. (WFTV) — Two high school girls in central Florida are charged with attempted murder of another student. Video from the back seat of a police cruiser caught them laughing about their plan. Isabelle Valdez, 15, and Lois Lippert, 14, were s…
 
-Analysis generated at: Fri Mar 13 18:34:20 UTC 2026
+Analysis generated at: Sat Mar 14 01:27:01 UTC 2026
