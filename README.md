@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Mar 15 13:04:49 UTC 2026
+Last updated: Sun Mar 15 18:31:36 UTC 2026
 
 ## Latest Analysis
 
-Loaded 94185 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-14 13:03:33
+Loaded 94227 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-14 18:23:40
 
 Incidents by source:
 source
-newsapi           94084
+newsapi           94126
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-03-14 13:03
-- Location: BroBible
-- Description: TPC Sawgrass had to delay opening gates for The Players Championship after an alleged murderer fled the scene of a crime and ran onto the golf course. Fortunately, the suspect was captured. Unfortunately, patrons must wait a little bit longer to get onto the …
+### SHOOTING on 2026-03-14 18:23
+- Location: Thetimes.com
+- Description: The Irish cartel has long been known to deal in drugs, guns and fraud. Now we can reveal its links to ‘the Sniper’ and his sanction-busting tankers
 
 
-### HOMICIDE on 2026-03-14 12:34
-- Location: Yahoo Entertainment
-- Description: Authorities were searching for a man who shot and killed two people in a drug store parking lot near the TPC Sawgrass, leading The Players Championship to delay opening gates for the third round Saturday morning. St. Johns County Sheriff Rob Hardwick said the…
+### OTHER on 2026-03-14 18:17
+- Location: DW (English)
+- Description: Founded in 1951, the Federal Criminal Police Office (BKA) was dominated for decades by men with Nazi pasts. Today, the BKA is a central pillar of Germany's security architecture — even on the international stage.
 
 
-### OTHER on 2026-03-14 12:33
-- Location: The Irish Times
-- Description: Two people arrested following operation in Co Monaghan supported by Belgian police
+### SHOOTING on 2026-03-14 18:03
+- Location: Alltoc.com
+- Description: Fatal shooting near the course forces delayed entry Tournament officials postponed public entry to the third round after a shooting in a parking lot adjacent to TPC Sawgrass. Local law enforcement confirmed two people were fatally shot at a nearby drug store …
 
 
-### HOMICIDE on 2026-03-14 12:32
-- Location: CBC News
-- Description: Toronto police have identified a 60-year-old woman as the city's fourth homicide victim of the year.
+### OTHER on 2026-03-14 17:59
+- Location: Variety
+- Description: Variety’s Publisher and Co-President Dea Lawrence and SimpliSafe’s Chief Product Officer Hooman Shahidi took to the stage to talk about proactive protection at Variety’s inaugural True Crime Summit presented by Investigation Discovery at the SXSW festival in …
 
 
-### HOMICIDE on 2026-03-14 12:20
-- Location: BBC News
-- Description: An urgent appeal has been issued by police to find out who the man is and how and where he died.
+### OTHER on 2026-03-14 17:30
+- Location: Screen Rant
+- Description: 10 gripping crime dramas similar to Prime Video's Scarpetta, featuring forensic investigations and complex characters working through crime drama.
 
-Analysis generated at: Sun Mar 15 13:04:49 UTC 2026
+Analysis generated at: Sun Mar 15 18:31:36 UTC 2026
