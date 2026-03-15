@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Mar 14 18:30:24 UTC 2026
+Last updated: Sun Mar 15 01:52:59 UTC 2026
 
 ## Latest Analysis
 
-Loaded 94111 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-13 18:24:45
+Loaded 94129 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-14 01:40:28
 
 Incidents by source:
 source
-newsapi           94010
+newsapi           94028
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-03-13 18:24
-- Location: RTE
-- Description: A man charged with the murder of his partner who was found with "catastrophic" injuries at a burning apartment in Co Cork told gardaí that he was "replaying a nightmare" having lost his "soulmate" and "best friend".
+### HOMICIDE on 2026-03-14 01:40
+- Location: Freerepublic.com
+- Description: In August 1992, six U.S. marshals set out to arrest Idaho survivalist Randy Weaver over a missed court date on a firearms charge, partly caused by a clerical error. What followed was an 11-day standoff and three deaths - including a federal officer. The siege…
 
 
-### HOMICIDE on 2026-03-13 18:24
-- Location: Breitbart News
-- Description: Officials are investigating the death of a 12-year-old girl who died this week after a fight that erupted when a group of students got off a school bus in an Atlanta suburb.
-The post VIDEO: Georgia Girl, 12, Dies Three Days After Brutal Fight at School Bus St…
+### HOMICIDE on 2026-03-14 01:36
+- Location: The Times of India
+- Description: In a shocking turn of events, Abhishek Tiwari, a 24-year-old student from Delhi University, was arrested in Haryana for the suspected murder of a woman at a hotel in north Delhi. According to police reports, Tiwari stated that the victim had been insisting on…
 
 
-### HOMICIDE on 2026-03-13 18:24
-- Location: Fox News
-- Description: Stay up to date with the Fox News True Crime Newsletter, which brings you the latest cases ripped from the headlines, from crime to courts, legal and scandal.
+### HOMICIDE on 2026-03-14 01:36
+- Location: Westernjournal.com
+- Description: "He exited the vehicle armed with a gun, and pointed it at officers," one report of the encounter that ended Mike King's life read.
 
 
-### ASSAULT on 2026-03-13 18:23
-- Location: fox6now.com
-- Description: Police in Kenosha are looking for the suspect wanted in connection to a sexual assault from earlier this year.
+### DRUG RELATED on 2026-03-14 01:21
+- Location: ABC News (AU)
+- Description: A months-long interstate police operation targeting alleged methamphetamine supply in Darwin has ended with a bust netting more than 156 kilograms of illicit drugs.
 
 
-### SHOOTING on 2026-03-13 18:21
-- Location: New York Post
-- Description: The troubled son of Cyndi Lauper who was busted with a loaded gun during a Harlem shooting dodged a lengthy prison sentence Friday when he finally copped to the weapon charge. Declyn “Dex” Lauper pleaded guilty to criminal possession of a weapon in the second…
+### HOMICIDE on 2026-03-14 01:16
+- Location: TODAY
+- Description: Charges against the five students who were involved in the senior high school prank that led to the death of Georgia math teacher Jason Hughes have been dismissed.
 
-Analysis generated at: Sat Mar 14 18:30:24 UTC 2026
+Analysis generated at: Sun Mar 15 01:52:59 UTC 2026
