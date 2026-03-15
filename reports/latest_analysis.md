@@ -1,10 +1,10 @@
 
-Loaded 94135 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-14 02:51:17
+Loaded 94148 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-14 06:36:15
 
 Incidents by source:
 source
-newsapi           94034
+newsapi           94047
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-03-14 02:51
-- Location: Abcnews.com
-- Description: A federal jury has convicted eight people accused of having links to antifa on terrorism charges over what prosecutors called an attack on a Texas immigration detention center
+### ROBBERY/THEFT on 2026-03-14 06:36
+- Location: The Punch
+- Description: Get your Nigerian news recap. President Tinubu moves a safety bureau to the Presidency, police probe a school assault, and a power crisis worsens.
+
+Read More: https://punchng.com/morning-recap-tinubu-moves-safety-bureau-to-presidency-police-invite-parents-ove…
 
 
-### HOMICIDE on 2026-03-14 02:51
-- Location: Abcnews.com
-- Description: A Georgia prosecutor has dropped a vehicular homicide charge against a teen who police say was driving the truck that struck and killed a beloved high school teacher when a prank turned deadly, his lawyer says
+### ROBBERY/THEFT on 2026-03-14 06:31
+- Location: Statetimes.in
+- Description: AGENCY NEW YORK: Eleven Indian nationals, living illegally in the US, have been charged with visa fraud for conspiring to carry out staged armed robberies of convenience shops, according to US federal prosecutors. Authorities said the suspects are accused of …
 
 
-### OTHER on 2026-03-14 02:48
-- Location: NBC News
-- Description: Prosecutors sought to drop the charges against Jan Carey after a judge said he was entitled to further inquiry into whether the administration was vindictively prosecuting him.
+### HOMICIDE on 2026-03-14 06:17
+- Location: The Times of India
+- Description: In a decisive move, Delhi Police are cracking down on social media accounts that have propagated falsehoods regarding a murder case in Uttam Nagar, amassing over Rs 35 lakh through deceitful narratives. They are targeting posts that incite outrage and dubious…
 
 
-### OTHER on 2026-03-14 02:08
-- Location: Fox News
-- Description: VP JD Vance claims economy improving in North Carolina campaign visit, touts rising home purchases and falling rents while campaigning for GOP candidates.
+### HOMICIDE on 2026-03-14 06:17
+- Location: ABC News (AU)
+- Description: A man has been arrested after an older man was found dead and a woman critically injured inside a home at Wellington, New South Wales on Saturday.
 
 
-### HOMICIDE on 2026-03-14 02:00
-- Location: Deadline
-- Description: Rachel Mason’s excellent 2019 documentary feature Circus of Books took us inside an ordinary mom and pop business with a difference. Starring her own mother and father, Barry and Karen, it told the story of the Masons’ flagship store, a bookshop that was, for…
+### ROBBERY/THEFT on 2026-03-14 06:00
+- Location: The Irish Times
+- Description: ‘There’s a world of difference between theft of a Creme Egg and mortgage fraud,’ says one lawyer
 
-Analysis generated at: Sun Mar 15 02:51:35 UTC 2026
+Analysis generated at: Sun Mar 15 06:50:26 UTC 2026
