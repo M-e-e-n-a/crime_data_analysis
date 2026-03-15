@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Mar 15 01:52:59 UTC 2026
+Last updated: Sun Mar 15 02:51:35 UTC 2026
 
 ## Latest Analysis
 
-Loaded 94129 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-14 01:40:28
+Loaded 94135 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-14 02:51:17
 
 Incidents by source:
 source
-newsapi           94028
+newsapi           94034
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-03-14 01:40
-- Location: Freerepublic.com
-- Description: In August 1992, six U.S. marshals set out to arrest Idaho survivalist Randy Weaver over a missed court date on a firearms charge, partly caused by a clerical error. What followed was an 11-day standoff and three deaths - including a federal officer. The siege…
+### SHOOTING on 2026-03-14 02:51
+- Location: Abcnews.com
+- Description: A federal jury has convicted eight people accused of having links to antifa on terrorism charges over what prosecutors called an attack on a Texas immigration detention center
 
 
-### HOMICIDE on 2026-03-14 01:36
-- Location: The Times of India
-- Description: In a shocking turn of events, Abhishek Tiwari, a 24-year-old student from Delhi University, was arrested in Haryana for the suspected murder of a woman at a hotel in north Delhi. According to police reports, Tiwari stated that the victim had been insisting on…
+### HOMICIDE on 2026-03-14 02:51
+- Location: Abcnews.com
+- Description: A Georgia prosecutor has dropped a vehicular homicide charge against a teen who police say was driving the truck that struck and killed a beloved high school teacher when a prank turned deadly, his lawyer says
 
 
-### HOMICIDE on 2026-03-14 01:36
-- Location: Westernjournal.com
-- Description: "He exited the vehicle armed with a gun, and pointed it at officers," one report of the encounter that ended Mike King's life read.
+### OTHER on 2026-03-14 02:48
+- Location: NBC News
+- Description: Prosecutors sought to drop the charges against Jan Carey after a judge said he was entitled to further inquiry into whether the administration was vindictively prosecuting him.
 
 
-### DRUG RELATED on 2026-03-14 01:21
-- Location: ABC News (AU)
-- Description: A months-long interstate police operation targeting alleged methamphetamine supply in Darwin has ended with a bust netting more than 156 kilograms of illicit drugs.
+### OTHER on 2026-03-14 02:08
+- Location: Fox News
+- Description: VP JD Vance claims economy improving in North Carolina campaign visit, touts rising home purchases and falling rents while campaigning for GOP candidates.
 
 
-### HOMICIDE on 2026-03-14 01:16
-- Location: TODAY
-- Description: Charges against the five students who were involved in the senior high school prank that led to the death of Georgia math teacher Jason Hughes have been dismissed.
+### HOMICIDE on 2026-03-14 02:00
+- Location: Deadline
+- Description: Rachel Mason’s excellent 2019 documentary feature Circus of Books took us inside an ordinary mom and pop business with a difference. Starring her own mother and father, Barry and Karen, it told the story of the Masons’ flagship store, a bookshop that was, for…
 
-Analysis generated at: Sun Mar 15 01:52:59 UTC 2026
+Analysis generated at: Sun Mar 15 02:51:35 UTC 2026
