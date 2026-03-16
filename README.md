@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Mar 16 07:10:08 UTC 2026
+Last updated: Mon Mar 16 12:58:29 UTC 2026
 
 ## Latest Analysis
 
-Loaded 94255 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-15 07:05:00
+Loaded 94282 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-15 12:28:19
 
 Incidents by source:
 source
-newsapi           94154
+newsapi           94181
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,30 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-03-15 07:05
-- Location: The Irish Times
-- Description: Only a multi-speed Europe – in which certain countries decide to move to closer integration, with others opting out – can save Ireland now
+### HOMICIDE on 2026-03-15 12:28
+- Location: News.com.au
+- Description: Suzie, a vibrant 21-year-old newlywed, vanished from Penn Square Mall in Oklahoma City.
 
 
-### HOMICIDE on 2026-03-15 06:00
-- Location: Naturalnews.com
-- Description: Former National Guardsman Mohamed Jalloh, a convicted ISIS supporter, fatally shot an ROTC instructor and injured two others before being killed by armed students in a classroom at Old Dominion University. Jalloh, previously imprisoned for attempting to aid I…
+### OTHER on 2026-03-15 12:11
+- Location: Antaranews.com
+- Description: Indonesia&rsquo;s police chief has ordered heightened security ahead of the 2026 Eid travel peak, expected two days before Eid al-Fitr 1447 Hijri, which falls ...
 
 
-### SHOOTING on 2026-03-15 05:57
-- Location: Israelnationalnews.com
-- Description: David Weizman, deputy director at the Ministry of National Security, presents the data behind the firearms licensing reform and the strategy guiding the move in an interview with Arutz Sheva.
+### HOMICIDE on 2026-03-15 12:11
+- Location: Al Jazeera English
+- Description: Each person shot in the head in the village of Tammun, while two other children of the deceased couple sustain injuries.
 
 
-### OTHER on 2026-03-15 05:47
-- Location: Newdesigncongress.org
-- Description: via https://post.lurk.org/@shibacomputer/116212328257230121 via @dalias@hachyderm.io boost of https://furry.engineer/@talisyn/116216311303828038
+### OTHER on 2026-03-15 12:00
+- Location: Gatewayhispanic.com
+- Description: This is a Gateway Hispanic article.
+The post Claudia Sheinbaum admitted that she did not personally give the order for the operation against El Mencho appeared first on The Gateway Pundit.
 
-cf. _ via https://chaos.social/@catileptic/116215493389731086 and https://mastodon.social/@gusseting/116216442915…
 
+### OTHER on 2026-03-15 11:45
+- Location: Whyevolutionistrue.com
+- Description: Welcome to a gray Sunday, with snow in the offing tomorrow for Chicago. Oy!. It’s Sunday, March 15, 2026, the dreaded Ides of March, the day on which Julius Caesar was assassinated in 44 BC.  Here’s a painting of the aftermath, with the Wikipedia caption, “Af…
 
-### ROBBERY/THEFT on 2026-03-15 05:26
-- Location: New York Post
-- Description: He was full of Crock.
-
-Analysis generated at: Mon Mar 16 07:10:08 UTC 2026
+Analysis generated at: Mon Mar 16 12:58:29 UTC 2026
