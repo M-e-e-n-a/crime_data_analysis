@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Mar 16 12:58:29 UTC 2026
+Last updated: Mon Mar 16 13:25:31 UTC 2026
 
 ## Latest Analysis
 
-Loaded 94282 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-15 12:28:19
+Loaded 94283 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-15 13:07:51
 
 Incidents by source:
 source
-newsapi           94181
+newsapi           94182
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -23,6 +23,11 @@ bution.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### OTHER on 2026-03-15 13:07
+- Location: Abcnews.com
+- Description: The Trump administration’s immigration crackdown is expanding.
+
 
 ### HOMICIDE on 2026-03-15 12:28
 - Location: News.com.au
@@ -44,9 +49,4 @@ bution.svg)
 - Description: This is a Gateway Hispanic article.
 The post Claudia Sheinbaum admitted that she did not personally give the order for the operation against El Mencho appeared first on The Gateway Pundit.
 
-
-### OTHER on 2026-03-15 11:45
-- Location: Whyevolutionistrue.com
-- Description: Welcome to a gray Sunday, with snow in the offing tomorrow for Chicago. Oy!. It’s Sunday, March 15, 2026, the dreaded Ides of March, the day on which Julius Caesar was assassinated in 44 BC.  Here’s a painting of the aftermath, with the Wikipedia caption, “Af…
-
-Analysis generated at: Mon Mar 16 12:58:29 UTC 2026
+Analysis generated at: Mon Mar 16 13:25:31 UTC 2026
