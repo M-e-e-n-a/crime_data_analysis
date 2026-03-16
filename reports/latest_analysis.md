@@ -1,10 +1,10 @@
 
-Loaded 94241 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-15 02:49:05
+Loaded 94255 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-15 07:05:00
 
 Incidents by source:
 source
-newsapi           94140
+newsapi           94154
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-03-15 02:49
-- Location: The Times of India
-- Description: Alberta shooting: A fatal shooting occurred on Highway 2 in Alberta on March 14, 2026. A white or grey pickup truck reportedly pulled alongside a black Honda Civic before a weapon was discharged. The driver of the Honda Civic died at the scene. Authorities ar…
+### OTHER on 2026-03-15 07:05
+- Location: The Irish Times
+- Description: Only a multi-speed Europe – in which certain countries decide to move to closer integration, with others opting out – can save Ireland now
 
 
-### HOMICIDE on 2026-03-15 02:41
+### HOMICIDE on 2026-03-15 06:00
+- Location: Naturalnews.com
+- Description: Former National Guardsman Mohamed Jalloh, a convicted ISIS supporter, fatally shot an ROTC instructor and injured two others before being killed by armed students in a classroom at Old Dominion University. Jalloh, previously imprisoned for attempting to aid I…
+
+
+### SHOOTING on 2026-03-15 05:57
+- Location: Israelnationalnews.com
+- Description: David Weizman, deputy director at the Ministry of National Security, presents the data behind the firearms licensing reform and the strategy guiding the move in an interview with Arutz Sheva.
+
+
+### OTHER on 2026-03-15 05:47
+- Location: Newdesigncongress.org
+- Description: via https://post.lurk.org/@shibacomputer/116212328257230121 via @dalias@hachyderm.io boost of https://furry.engineer/@talisyn/116216311303828038
+
+cf. _ via https://chaos.social/@catileptic/116215493389731086 and https://mastodon.social/@gusseting/116216442915…
+
+
+### ROBBERY/THEFT on 2026-03-15 05:26
 - Location: New York Post
-- Description: Looks like he hit a rough patch.
+- Description: He was full of Crock.
 
-
-### OTHER on 2026-03-15 02:30
-- Location: soompi
-- Description: Imagine channeling your inner sleuth and getting into investigative mode in disguise and undercover. The thill of investigations is not just the prerogative of detectives and secret agents in K-dramas. Several characters, from taxi drivers to office workers, …
-
-
-### ASSAULT on 2026-03-15 02:06
-- Location: The Times of India
-- Description: Dubai is actively working to restore its image as a secure destination following Iran's missile and drone attacks. Authorities are promoting a message of continued safety, with influencers supporting the government's narrative, while simultaneously cracking d…
-
-
-### HOMICIDE on 2026-03-15 01:53
-- Location: CBC News
-- Description: Leduc RCMP say one person is dead after being shot on Highway 2, near Township Road 490 on Saturday.
-
-Analysis generated at: Mon Mar 16 02:51:38 UTC 2026
+Analysis generated at: Mon Mar 16 07:10:08 UTC 2026
