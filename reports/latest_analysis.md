@@ -1,10 +1,10 @@
 
-Loaded 94283 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-15 13:07:51
+Loaded 94328 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-15 18:52:16
 
 Incidents by source:
 source
-newsapi           94182
+newsapi           94227
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-03-15 13:07
-- Location: Abcnews.com
-- Description: The Trump administration’s immigration crackdown is expanding.
+### HOMICIDE on 2026-03-15 18:52
+- Location: CBC News
+- Description: Israeli soldiers fired on a car carrying a family in the northern West Bank, killing four people including two children, the Palestinian Authority's Health Ministry said. The Palestinian Red Crescent rescue service said that Ali and Waed Odeh, and two of thei…
 
 
-### HOMICIDE on 2026-03-15 12:28
-- Location: News.com.au
-- Description: Suzie, a vibrant 21-year-old newlywed, vanished from Penn Square Mall in Oklahoma City.
+### HOMICIDE on 2026-03-15 18:50
+- Location: CNA
+- Description: GAZA: Gaza's Hamas-run interior ministry said an Israeli air strike on a police vehicle Sunday (Mar 15) killed nine officers in the centre of the Palestinian territory, updating an earlier hospital toll of eight.The strike came as a Hamas delegation was due t…
 
 
-### OTHER on 2026-03-15 12:11
-- Location: Antaranews.com
-- Description: Indonesia&rsquo;s police chief has ordered heightened security ahead of the 2026 Eid travel peak, expected two days before Eid al-Fitr 1447 Hijri, which falls ...
+### OTHER on 2026-03-15 18:40
+- Location: Screenanarchy.com
+- Description: Edward Drake, Scott Veltri, and Francis Cronin direct the documentary, which follows one woman's brave journey through trauma and up a mountain, while the night she lost her legs becomes a true-crime story. 
+ 
+ [Read the whole post on screenanarchy.com...]
 
 
-### HOMICIDE on 2026-03-15 12:11
-- Location: Al Jazeera English
-- Description: Each person shot in the head in the village of Tammun, while two other children of the deceased couple sustain injuries.
+### SHOOTING on 2026-03-15 18:31
+- Location: New York Post
+- Description: A crazed customer who was kicked out of a Brooklyn restaurant came back and shot two people, including the female bartender who booted him, cops and law-enforcement sources said Sunday.
 
 
-### OTHER on 2026-03-15 12:00
-- Location: Gatewayhispanic.com
-- Description: This is a Gateway Hispanic article.
-The post Claudia Sheinbaum admitted that she did not personally give the order for the operation against El Mencho appeared first on The Gateway Pundit.
+### OTHER on 2026-03-15 18:23
+- Location: The Times of India
+- Description: In a historic move, Assam has embraced peace by formalizing agreements with three Kuki militant factions and one Hmar group, marking a significant shift away from ethnic militancy. These pacts pave the way for community welfare councils and introduce financia…
 
-Analysis generated at: Mon Mar 16 13:25:31 UTC 2026
+Analysis generated at: Mon Mar 16 18:55:53 UTC 2026
