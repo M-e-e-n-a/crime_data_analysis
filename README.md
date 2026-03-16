@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Mar 16 01:54:19 UTC 2026
+Last updated: Mon Mar 16 02:51:38 UTC 2026
 
 ## Latest Analysis
 
-Loaded 94237 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-15 01:53:29
+Loaded 94241 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-15 02:49:05
 
 Incidents by source:
 source
-newsapi           94136
+newsapi           94140
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
+### HOMICIDE on 2026-03-15 02:49
+- Location: The Times of India
+- Description: Alberta shooting: A fatal shooting occurred on Highway 2 in Alberta on March 14, 2026. A white or grey pickup truck reportedly pulled alongside a black Honda Civic before a weapon was discharged. The driver of the Honda Civic died at the scene. Authorities ar…
+
+
+### HOMICIDE on 2026-03-15 02:41
+- Location: New York Post
+- Description: Looks like he hit a rough patch.
+
+
+### OTHER on 2026-03-15 02:30
+- Location: soompi
+- Description: Imagine channeling your inner sleuth and getting into investigative mode in disguise and undercover. The thill of investigations is not just the prerogative of detectives and secret agents in K-dramas. Several characters, from taxi drivers to office workers, …
+
+
+### ASSAULT on 2026-03-15 02:06
+- Location: The Times of India
+- Description: Dubai is actively working to restore its image as a secure destination following Iran's missile and drone attacks. Authorities are promoting a message of continued safety, with influencers supporting the government's narrative, while simultaneously cracking d…
+
+
 ### HOMICIDE on 2026-03-15 01:53
 - Location: CBC News
 - Description: Leduc RCMP say one person is dead after being shot on Highway 2, near Township Road 490 on Saturday.
 
-
-### SHOOTING on 2026-03-15 01:51
-- Location: New York Post
-- Description: Disturbing bodycam footage shows six police officers unloading their clips on a car passenger who grabbed his gun and fired during an tense standoff in the San Diego area.
-
-
-### OTHER on 2026-03-15 01:30
-- Location: New York Post
-- Description: In week two, the war against Iran and Hezbollah came home to America.
-
-
-### ROBBERY/THEFT on 2026-03-15 01:07
-- Location: The Indian Express
-- Description: According to an order issued by Inspector General of Police, Jammu zone, Bhim Sen Tuti, the SIT headed by SSP Sanjay Sharma will work under the overall supervision of DIG Jammu-Samba-Kathua range, Shiv Kumar Sharma.
-
-
-### DRUG RELATED on 2026-03-15 00:56
-- Location: New York Post
-- Description: Christian Momfluencer Amber Sinkler, 31, and her husband Joshua Sinkler, 36, allegedly sexually abused their two-year-old daughter from the time she was a newborn -- with the drugged-up father even filming himself torturing the toddler.
-
-Analysis generated at: Mon Mar 16 01:54:19 UTC 2026
+Analysis generated at: Mon Mar 16 02:51:38 UTC 2026
