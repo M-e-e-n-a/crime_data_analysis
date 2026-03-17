@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Mar 16 18:55:53 UTC 2026
+Last updated: Tue Mar 17 01:43:19 UTC 2026
 
 ## Latest Analysis
 
-Loaded 94328 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-15 18:52:16
+Loaded 94336 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-16 01:24:04
 
 Incidents by source:
 source
-newsapi           94227
+newsapi           94235
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,30 +24,32 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-03-15 18:52
-- Location: CBC News
-- Description: Israeli soldiers fired on a car carrying a family in the northern West Bank, killing four people including two children, the Palestinian Authority's Health Ministry said. The Palestinian Red Crescent rescue service said that Ali and Waed Odeh, and two of thei…
+### OTHER on 2026-03-16 01:24
+- Location: Legalinsurrection.com
+- Description: My initial take, subject to more actual facts coming from someone other than Tucker, is that his communications with Iran were swept up and "unmasked" as part of American intelligence agencies (not just CIA) surveillance of Iran. Either someone illegally tipp…
 
 
-### HOMICIDE on 2026-03-15 18:50
-- Location: CNA
-- Description: GAZA: Gaza's Hamas-run interior ministry said an Israeli air strike on a police vehicle Sunday (Mar 15) killed nine officers in the centre of the Palestinian territory, updating an earlier hospital toll of eight.The strike came as a Hamas delegation was due t…
+### HOMICIDE on 2026-03-16 01:08
+- Location: The Punch
+- Description: The Osun State Police Command has arrested two customs operatives allegedly involved in the fatal shooting of a driver along the Osogbo–Iwo Road.
+
+Read More: https://punchng.com/police-arrest-two-customs-operatives-over-osun-drivers-killing/
 
 
-### OTHER on 2026-03-15 18:40
-- Location: Screenanarchy.com
-- Description: Edward Drake, Scott Veltri, and Francis Cronin direct the documentary, which follows one woman's brave journey through trauma and up a mountain, while the night she lost her legs becomes a true-crime story. 
- 
- [Read the whole post on screenanarchy.com...]
+### OTHER on 2026-03-16 01:00
+- Location: The Punch
+- Description: Nasarawa State Police Command arrested a suspected kidnapper, Jibril Yunusa, in Keana LGA and recovered an AK-47 rifle from the criminal hideout.
+
+Read More: https://punchng.com/police-arrest-suspected-nasarawa-kidnapper-seize-ak-47/
 
 
-### SHOOTING on 2026-03-15 18:31
-- Location: New York Post
-- Description: A crazed customer who was kicked out of a Brooklyn restaurant came back and shot two people, including the female bartender who booted him, cops and law-enforcement sources said Sunday.
+### OTHER on 2026-03-16 00:49
+- Location: Freerepublic.com
+- Description: Keir Starmer held a call with Donald Trump today after the US president urged Britain to send warships to the Middle East to help police the Strait of Hormuz. Trump said he hoped the UK would be among "many countries" to help combat Iranian efforts to block t…
 
 
-### OTHER on 2026-03-15 18:23
-- Location: The Times of India
-- Description: In a historic move, Assam has embraced peace by formalizing agreements with three Kuki militant factions and one Hmar group, marking a significant shift away from ethnic militancy. These pacts pave the way for community welfare councils and introduce financia…
+### OTHER on 2026-03-16 00:35
+- Location: CBS News
+- Description: An Afghan father who served with U.S. forces dies in ICE custody less than a day after being arrested in North Texas.
 
-Analysis generated at: Mon Mar 16 18:55:53 UTC 2026
+Analysis generated at: Tue Mar 17 01:43:19 UTC 2026
