@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Mar 17 13:23:46 UTC 2026
+Last updated: Tue Mar 17 18:55:04 UTC 2026
 
 ## Latest Analysis
 
-Loaded 94406 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-16 13:22:47
+Loaded 94474 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-16 18:53:43
 
 Incidents by source:
 source
-newsapi           94305
+newsapi           94373
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,30 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### DRUG RELATED on 2026-03-16 13:22
-- Location: The Punch
-- Description: Police in Akwa Ibom arrest a university graduate for operating an illegal arms factory, seizing weapons, drugs, and fabrication equipment in a Uyo raid.
-
-Read More: https://punchng.com/police-arrest-graduate-for-running-illegal-arms-factory-in-uyo/
+### OTHER on 2026-03-16 18:53
+- Location: Fortune
+- Description: For four decades, Trump bent the rules, walked away from debts, and rewrote agreements mid-stream. The Strait of Hormuz defies the Art of the Deal.
 
 
-### ASSAULT on 2026-03-16 13:18
-- Location: Techtarget.com
-- Description: Explore how global events such as the Olympics and World Cup face cyberattacks and offer key incident response lessons for CISOs and organizations.
+### OTHER on 2026-03-16 18:52
+- Location: NBC News
+- Description: Welcome back to ON THE LOT.
 
 
-### SHOOTING on 2026-03-16 13:17
-- Location: New York Post
-- Description: Wild video has surfaced of thousands of terrified spring break beachgoers fleeing the sand in Florida as gunshots rang out over the weekend.
+### HOMICIDE on 2026-03-16 18:51
+- Location: CBC News
+- Description: Maple Ridge resident Mehdi Ahmadzadeh Razavi, 48, and North Vancouver resident Arezou Soltani, 45, are charged with first-degree murder in the killing of 45-year-old Masood Masjoody.
 
 
-### HOMICIDE on 2026-03-16 13:12
-- Location: Jezebel
-- Description: Mohommad Nazeer Paktyawal died Saturday morning after being detained for less than 24 hours, while Daphy Michel was found dead outside a bus stop after being released to an ICE office an hour from her home.
+### HOMICIDE on 2026-03-16 18:48
+- Location: BBC News
+- Description: Police say the motive remains under investigation but noted the three had disputes on social media.
 
 
-### OTHER on 2026-03-16 13:11
-- Location: Hurriyet Daily News
-- Description: Since the outbreak of the conflict in Iran, there has been no surge in crossings at Türkiye’s border gates, on the contrary, authorities have recorded a decline in traffic, Turkish Interior Minister Mustafa Çiftçi said on March 16, amid fears of a potential m…
+### OTHER on 2026-03-16 18:38
+- Location: newsBTC
+- Description: The Ertzaintza (Basque Country police) says crypto is now present in a growing share of tech‑enabled crimes in Euskadi. More Than 500 Crypto Crimes In A Small Region In a report from last Monday, northern Spain’s Ertzaintza stated that they logged 541 crypto‑…
 
-Analysis generated at: Tue Mar 17 13:23:46 UTC 2026
+Analysis generated at: Tue Mar 17 18:55:04 UTC 2026
