@@ -1,10 +1,10 @@
 
-Loaded 94344 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-16 02:30:51
+Loaded 94360 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-16 06:52:49
 
 Incidents by source:
 source
-newsapi           94243
+newsapi           94259
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-03-16 02:30
-- Location: Freerepublic.com
-- Description: A former Texas substitute teacher and her boyfriend are now facing a combined 38 child sex crime charges, with their bonds set at nearly $9 million. Madison Paige Jones, a former substitute teacher in the Midlothian Independent School District, and her boyfri…
+### SHOOTING on 2026-03-16 06:52
+- Location: Ibtimes.com.au
+- Description: SANTA MONICA, Calif. — Two people suffered non-life-threatening gunshot wounds Sunday night after a large fight erupted among groups on the iconic Santa Monica Pier, prompting a swift police response and sending visitors scrambling in the popular tourist dest…
 
 
-### DRUG RELATED on 2026-03-16 02:27
-- Location: New Zealand Herald
-- Description: Crime was a key agenda topic for the PMs' Cabinet meeting.
+### HOMICIDE on 2026-03-16 06:51
+- Location: The Star Online
+- Description: PETALING JAYA: An individual was killed, believed to have been shot while attempting to rob a jewellery store here on Monday morning (March 16). Read full story
 
 
-### OTHER on 2026-03-16 02:25
-- Location: esquire.com
-- Description: The Academy finally honored one of Hollywood’s best, after overlooking his incredible work in 'Fruitvale Station,' 'Black Panther' and 'Creed.'
+### OTHER on 2026-03-16 06:30
+- Location: Sky.com
+- Description: Three people have been arrested after a man's body was found in a wheelie bin.
 
 
-### OTHER on 2026-03-16 02:05
-- Location: Lifesciencesworld.com
-- Description: Did Lindy Chamberlain Want an Apology? The Long Road to Justice Lindy Chamberlain endured years of public scrutiny and wrongful conviction. Did Lindy Chamberlain want an apology? Yes, but more than that, she sought validation of her innocence and an end to th…
+### HOMICIDE on 2026-03-16 06:29
+- Location: ABC News (AU)
+- Description: Homicide squad detectives are investigating the death of a man whose body was found in the western Victorian town of Jung.
 
 
-### OTHER on 2026-03-16 01:52
-- Location: Fox News
-- Description: A Texas substitute teacher and her boyfriend, accused of 38 child sex crimes, see bonds jump to nearly $9 million as new charges filed in shocking abuse case.
+### ROBBERY/THEFT on 2026-03-16 06:11
+- Location: The Indian Express
+- Description: Of the cylinders stolen, 12 were filled with gas while the remaining were empty, say police
 
-Analysis generated at: Tue Mar 17 02:34:44 UTC 2026
+Analysis generated at: Tue Mar 17 06:58:29 UTC 2026
