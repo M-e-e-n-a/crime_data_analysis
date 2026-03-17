@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Mar 17 12:59:17 UTC 2026
+Last updated: Tue Mar 17 13:23:46 UTC 2026
 
 ## Latest Analysis
 
-Loaded 94398 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-16 12:48:49
+Loaded 94406 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-16 13:22:47
 
 Incidents by source:
 source
-newsapi           94297
+newsapi           94305
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,30 +24,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### DRUG RELATED on 2026-03-16 12:48
-- Location: RTE
-- Description: A 53-year-old man has appeared in court charged in relation to a €5 million drug seizure in Monaghan.
-
-
-### ROBBERY/THEFT on 2026-03-16 12:46
-- Location: Abcnews.com
-- Description: Robocalls, texts, and phishing emails from scammers are up this tax season compared to previous years, according to the consumer protection bureau of the FTC
-
-
-### ASSAULT on 2026-03-16 12:42
-- Location: Mondoweiss
-- Description: March marks the one-year anniversary of Mahmoud Khalil's arrest, a moment that kicked off a wave of suppression against the Palestine movement. Mondoweiss sat down with Khalil to discuss his case, the media attacks, and his ongoing fight for justice.
-
-
-### ROBBERY/THEFT on 2026-03-16 12:35
+### DRUG RELATED on 2026-03-16 13:22
 - Location: The Punch
-- Description: The Oyo State Police Command has arrested four suspects in connection with cattle rustling in Ado-Awaye, recovering stolen cows after a swift response.
+- Description: Police in Akwa Ibom arrest a university graduate for operating an illegal arms factory, seizing weapons, drugs, and fabrication equipment in a Uyo raid.
 
-Read More: https://punchng.com/police-foil-cattle-rustling-arrest-four-suspects-in-oyo/
+Read More: https://punchng.com/police-arrest-graduate-for-running-illegal-arms-factory-in-uyo/
 
 
-### ROBBERY/THEFT on 2026-03-16 12:30
-- Location: Abcnews.com
-- Description: Robocalls, texts, and phishing emails from scammers are up this tax season compared to previous years, according to the consumer protection bureau of the FTC
+### ASSAULT on 2026-03-16 13:18
+- Location: Techtarget.com
+- Description: Explore how global events such as the Olympics and World Cup face cyberattacks and offer key incident response lessons for CISOs and organizations.
 
-Analysis generated at: Tue Mar 17 12:59:17 UTC 2026
+
+### SHOOTING on 2026-03-16 13:17
+- Location: New York Post
+- Description: Wild video has surfaced of thousands of terrified spring break beachgoers fleeing the sand in Florida as gunshots rang out over the weekend.
+
+
+### HOMICIDE on 2026-03-16 13:12
+- Location: Jezebel
+- Description: Mohommad Nazeer Paktyawal died Saturday morning after being detained for less than 24 hours, while Daphy Michel was found dead outside a bus stop after being released to an ICE office an hour from her home.
+
+
+### OTHER on 2026-03-16 13:11
+- Location: Hurriyet Daily News
+- Description: Since the outbreak of the conflict in Iran, there has been no surge in crossings at Türkiye’s border gates, on the contrary, authorities have recorded a decline in traffic, Turkish Interior Minister Mustafa Çiftçi said on March 16, amid fears of a potential m…
+
+Analysis generated at: Tue Mar 17 13:23:46 UTC 2026
