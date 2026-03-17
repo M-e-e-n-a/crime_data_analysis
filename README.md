@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Mar 17 01:43:19 UTC 2026
+Last updated: Tue Mar 17 02:34:44 UTC 2026
 
 ## Latest Analysis
 
-Loaded 94336 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-16 01:24:04
+Loaded 94344 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-16 02:30:51
 
 Incidents by source:
 source
-newsapi           94235
+newsapi           94243
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,32 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-03-16 01:24
-- Location: Legalinsurrection.com
-- Description: My initial take, subject to more actual facts coming from someone other than Tucker, is that his communications with Iran were swept up and "unmasked" as part of American intelligence agencies (not just CIA) surveillance of Iran. Either someone illegally tipp…
-
-
-### HOMICIDE on 2026-03-16 01:08
-- Location: The Punch
-- Description: The Osun State Police Command has arrested two customs operatives allegedly involved in the fatal shooting of a driver along the Osogbo–Iwo Road.
-
-Read More: https://punchng.com/police-arrest-two-customs-operatives-over-osun-drivers-killing/
-
-
-### OTHER on 2026-03-16 01:00
-- Location: The Punch
-- Description: Nasarawa State Police Command arrested a suspected kidnapper, Jibril Yunusa, in Keana LGA and recovered an AK-47 rifle from the criminal hideout.
-
-Read More: https://punchng.com/police-arrest-suspected-nasarawa-kidnapper-seize-ak-47/
-
-
-### OTHER on 2026-03-16 00:49
+### OTHER on 2026-03-16 02:30
 - Location: Freerepublic.com
-- Description: Keir Starmer held a call with Donald Trump today after the US president urged Britain to send warships to the Middle East to help police the Strait of Hormuz. Trump said he hoped the UK would be among "many countries" to help combat Iranian efforts to block t…
+- Description: A former Texas substitute teacher and her boyfriend are now facing a combined 38 child sex crime charges, with their bonds set at nearly $9 million. Madison Paige Jones, a former substitute teacher in the Midlothian Independent School District, and her boyfri…
 
 
-### OTHER on 2026-03-16 00:35
-- Location: CBS News
-- Description: An Afghan father who served with U.S. forces dies in ICE custody less than a day after being arrested in North Texas.
+### DRUG RELATED on 2026-03-16 02:27
+- Location: New Zealand Herald
+- Description: Crime was a key agenda topic for the PMs' Cabinet meeting.
 
-Analysis generated at: Tue Mar 17 01:43:19 UTC 2026
+
+### OTHER on 2026-03-16 02:25
+- Location: esquire.com
+- Description: The Academy finally honored one of Hollywood’s best, after overlooking his incredible work in 'Fruitvale Station,' 'Black Panther' and 'Creed.'
+
+
+### OTHER on 2026-03-16 02:05
+- Location: Lifesciencesworld.com
+- Description: Did Lindy Chamberlain Want an Apology? The Long Road to Justice Lindy Chamberlain endured years of public scrutiny and wrongful conviction. Did Lindy Chamberlain want an apology? Yes, but more than that, she sought validation of her innocence and an end to th…
+
+
+### OTHER on 2026-03-16 01:52
+- Location: Fox News
+- Description: A Texas substitute teacher and her boyfriend, accused of 38 child sex crimes, see bonds jump to nearly $9 million as new charges filed in shocking abuse case.
+
+Analysis generated at: Tue Mar 17 02:34:44 UTC 2026
