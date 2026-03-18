@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Mar 18 02:40:56 UTC 2026
+Last updated: Wed Mar 18 06:56:32 UTC 2026
 
 ## Latest Analysis
 
-Loaded 94500 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-17 02:38:48
+Loaded 94534 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-17 06:32:00
 
 Incidents by source:
 source
-newsapi           94399
+newsapi           94433
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2026-03-17 02:38
-- Location: ABC News (AU)
-- Description: The NSW Police Rural Crime Team is reporting a spike in diesel being stolen from landholders amid soaring prices.
+### ROBBERY/THEFT on 2026-03-17 06:32
+- Location: The Star Online
+- Description: NILAI: Police are investigating a bizarre theft involving more than 15 cremation urns allegedly stolen from niches at a local memorial park columbarium. Read full story
 
 
-### ASSAULT on 2026-03-17 02:33
-- Location: New York Post
-- Description: A man who was charged with attacking San Francisco Mayor Daniel Lurie’s bodyguard last week is back behind bars after he reportedly violated a court order.
+### HOMICIDE on 2026-03-17 06:15
+- Location: CBS News
+- Description: Authorities have made an arrest in the cold case disappearance of California teenager Victoria Marquina.
 
 
-### OTHER on 2026-03-17 02:30
-- Location: The Times of India
-- Description: The Kerala High Court refused to quash an FIR against an excise inspector accused of accepting liquor bottles as a bribe for issuing transport permits. The court found that the recovery of liquor bottles established a prima facie case of corruption, dismissin…
+### OTHER on 2026-03-17 06:10
+- Location: Abcnews.com
+- Description: Officials say an Afghan immigrant whose family said had worked with U.S. forces in his home country died at a Texas hospital after having been detained by immigration authorities
 
 
-### HOMICIDE on 2026-03-17 02:28
-- Location: ABC News (AU)
-- Description: A lawyer has revealed Naveed Akram's mother and siblings have been targeted with abusive messages, death threats, stalking and pork chops being thrown into their driveway.
+### HOMICIDE on 2026-03-17 06:08
+- Location: BBC News
+- Description: Naveed Akram is seeking a court order to suppress his family's identity over fears for their safety.
 
 
-### OTHER on 2026-03-17 02:28
-- Location: The Daily Caller
-- Description: Aden Holloway, a guard for the Crimson Tide, was placed under arrest Monday for a possession of marijuana charge, according to the Tuscaloosa Police Department.
+### HOMICIDE on 2026-03-17 06:06
+- Location: Abcnews.com
+- Description: A Florida man convicted of abducting, raping and murdering a young mother is set to be executed
 
-Analysis generated at: Wed Mar 18 02:40:56 UTC 2026
+Analysis generated at: Wed Mar 18 06:56:32 UTC 2026
