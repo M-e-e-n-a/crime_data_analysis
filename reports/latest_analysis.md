@@ -1,10 +1,10 @@
 
-Loaded 94492 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-17 01:45:25
+Loaded 94500 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-17 02:38:48
 
 Incidents by source:
 source
-newsapi           94391
+newsapi           94399
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,32 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-03-17 01:45
-- Location: WPRI.com
-- Description: It's been one month since the deadly shooting at Dennis M. Lynch Arena in Pawtucket rocked the entire state.
+### ROBBERY/THEFT on 2026-03-17 02:38
+- Location: ABC News (AU)
+- Description: The NSW Police Rural Crime Team is reporting a spike in diesel being stolen from landholders amid soaring prices.
 
 
-### HOMICIDE on 2026-03-17 01:35
-- Location: HuffPost
-- Description: A Utah woman who wrote a children’s book about coping with grief after her husband’s death has been convicted of aggravated murder in his death.
+### ASSAULT on 2026-03-17 02:33
+- Location: New York Post
+- Description: A man who was charged with attacking San Francisco Mayor Daniel Lurie’s bodyguard last week is back behind bars after he reportedly violated a court order.
 
 
-### OTHER on 2026-03-17 01:25
-- Location: The Punch
-- Description: A Lagos Federal High Court strikes out a N20bn money laundering charge against a retired director after the police prosecution filed to withdraw the case.
-
-Read More: https://punchng.com/court-strikes-out-n20bn-money-laundering-charge-against-ex-director/
-
-
-### ASSAULT on 2026-03-17 01:25
-- Location: The Punch
-- Description: Multiple Maiduguri bomb explosions cause casualties after security forces repel coordinated insurgent attacks on military positions in Borno State.
-
-Read More: https://punchng.com/bomb-explosions-hit-maiduguri-after-security-forces-repel-insurgents-attacks/
-
-
-### HOMICIDE on 2026-03-17 01:21
+### OTHER on 2026-03-17 02:30
 - Location: The Times of India
-- Description: After her husband’s death, the woman author self-published a children’s book about grief to help her sons and other kids cope with the loss of a parent.
+- Description: The Kerala High Court refused to quash an FIR against an excise inspector accused of accepting liquor bottles as a bribe for issuing transport permits. The court found that the recovery of liquor bottles established a prima facie case of corruption, dismissin…
 
-Analysis generated at: Wed Mar 18 01:47:04 UTC 2026
+
+### HOMICIDE on 2026-03-17 02:28
+- Location: ABC News (AU)
+- Description: A lawyer has revealed Naveed Akram's mother and siblings have been targeted with abusive messages, death threats, stalking and pork chops being thrown into their driveway.
+
+
+### OTHER on 2026-03-17 02:28
+- Location: The Daily Caller
+- Description: Aden Holloway, a guard for the Crimson Tide, was placed under arrest Monday for a possession of marijuana charge, according to the Tuscaloosa Police Department.
+
+Analysis generated at: Wed Mar 18 02:40:56 UTC 2026
