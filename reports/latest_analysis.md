@@ -1,10 +1,10 @@
 
-Loaded 94474 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-16 18:53:43
+Loaded 94492 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-17 01:45:25
 
 Incidents by source:
 source
-newsapi           94373
+newsapi           94391
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,32 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-03-16 18:53
-- Location: Fortune
-- Description: For four decades, Trump bent the rules, walked away from debts, and rewrote agreements mid-stream. The Strait of Hormuz defies the Art of the Deal.
+### HOMICIDE on 2026-03-17 01:45
+- Location: WPRI.com
+- Description: It's been one month since the deadly shooting at Dennis M. Lynch Arena in Pawtucket rocked the entire state.
 
 
-### OTHER on 2026-03-16 18:52
-- Location: NBC News
-- Description: Welcome back to ON THE LOT.
+### HOMICIDE on 2026-03-17 01:35
+- Location: HuffPost
+- Description: A Utah woman who wrote a children’s book about coping with grief after her husband’s death has been convicted of aggravated murder in his death.
 
 
-### HOMICIDE on 2026-03-16 18:51
-- Location: CBC News
-- Description: Maple Ridge resident Mehdi Ahmadzadeh Razavi, 48, and North Vancouver resident Arezou Soltani, 45, are charged with first-degree murder in the killing of 45-year-old Masood Masjoody.
+### OTHER on 2026-03-17 01:25
+- Location: The Punch
+- Description: A Lagos Federal High Court strikes out a N20bn money laundering charge against a retired director after the police prosecution filed to withdraw the case.
+
+Read More: https://punchng.com/court-strikes-out-n20bn-money-laundering-charge-against-ex-director/
 
 
-### HOMICIDE on 2026-03-16 18:48
-- Location: BBC News
-- Description: Police say the motive remains under investigation but noted the three had disputes on social media.
+### ASSAULT on 2026-03-17 01:25
+- Location: The Punch
+- Description: Multiple Maiduguri bomb explosions cause casualties after security forces repel coordinated insurgent attacks on military positions in Borno State.
+
+Read More: https://punchng.com/bomb-explosions-hit-maiduguri-after-security-forces-repel-insurgents-attacks/
 
 
-### OTHER on 2026-03-16 18:38
-- Location: newsBTC
-- Description: The Ertzaintza (Basque Country police) says crypto is now present in a growing share of tech‑enabled crimes in Euskadi. More Than 500 Crypto Crimes In A Small Region In a report from last Monday, northern Spain’s Ertzaintza stated that they logged 541 crypto‑…
+### HOMICIDE on 2026-03-17 01:21
+- Location: The Times of India
+- Description: After her husband’s death, the woman author self-published a children’s book about grief to help her sons and other kids cope with the loss of a parent.
 
-Analysis generated at: Tue Mar 17 18:55:04 UTC 2026
+Analysis generated at: Wed Mar 18 01:47:04 UTC 2026
