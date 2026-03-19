@@ -1,10 +1,10 @@
 
-Loaded 94666 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-18 02:37:02
+Loaded 94682 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-18 06:38:00
 
 Incidents by source:
 source
-newsapi           94565
+newsapi           94581
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,30 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-03-18 02:37
-- Location: ABC News (AU)
-- Description: Daniel Holdom is appealing his life sentences for dumping the remains of a toddler in a suitcase after he killed her and her mother.
+### HOMICIDE on 2026-03-18 06:38
+- Location: Newser
+- Description: A shooting at a US Air Force base in New Mexico on Tuesday has left one person dead and another wounded, according to military officials. The Holloman Air Force Base near Alamogordo, in southern New Mexico, was put on lockdown at about 5:30pm because of repor…
 
 
-### HOMICIDE on 2026-03-18 02:15
-- Location: Freerepublic.com
-- Description: Meet One of the Media’s “Non-Criminals” Kele Christian Alves-Pereire, a criminal illegal alien from Brazil wanted in her home country for MURDER charges. Because she lacks a criminal history in the U.S. the media counts this as a non-criminal arrest. Nearly 7…
+### HOMICIDE on 2026-03-18 06:28
+- Location: The-independent.com
+- Description: The victim's father and one of Lee's two sons were among relatives who witnessed the execution
 
 
-### OTHER on 2026-03-18 02:10
-- Location: Thechronicle.com.gh
-- Description: The Inspector General of Police (IGP), Mr Christian Tetteh Yohuno, has revealed his vision to transform the Ghana Police Service into a world class institution, drawing inspiration from the New York Police Department (NYPD) and Scotland Yard. In an exclusive …
+### OTHER on 2026-03-18 06:23
+- Location: The Indian Express
+- Description: Concerns raised over security arrangements on the campus, case registered
 
 
-### OTHER on 2026-03-18 01:53
-- Location: The Punch
-- Description: Explore the escalating crisis of banditry in Nigeria, from macabre ransom demands to its spread into the South-West. Uncover the grim reality and urgent ne
-
-Read More: https://punchng.com/banditry-after-virgins-what-next/
+### HOMICIDE on 2026-03-18 06:00
+- Location: The Irish Times
+- Description: Dubliner McGovern pleaded guilty to two charges of directing gang’s murder conspiracies, though charge of murdering Noel Kirwan now dropped
 
 
-### OTHER on 2026-03-18 01:45
-- Location: Todayifoundout.com
-- Description: “We sewed the sacks, we broke the stones, We turned the dusty drill: We banged the tins, and bawled the hymns, And sweated on the mill: But in the heart of every man Terror was lying still.” These are the words of famed master of the pen, Oscar Wilde, in his …
+### ASSAULT on 2026-03-18 06:00
+- Location: Naturalnews.com
+- Description: Introduction A series of recent attacks in the United States, involving individuals who entered through legal immigration channels, has intensified scrutiny of federal screening protocols. Multiple incidents in late 2025 and early 2026, classified by authorit…
 
-Analysis generated at: Thu Mar 19 02:42:09 UTC 2026
+Analysis generated at: Thu Mar 19 06:52:29 UTC 2026
