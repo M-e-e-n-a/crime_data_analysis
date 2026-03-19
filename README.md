@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Mar 18 18:53:13 UTC 2026
+Last updated: Thu Mar 19 01:48:11 UTC 2026
 
 ## Latest Analysis
 
-Loaded 94649 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-17 18:41:34
+Loaded 94662 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-18 01:45:45
 
 Incidents by source:
 source
-newsapi           94548
+newsapi           94561
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2026-03-17 18:41
-- Location: MobileSyrup
-- Description: Bell says that stolen copper is the cause of an internet outage that impacted nearly 200 people across three New Brunswick communities over the weekend. A Bell spokesperson confirmed to CBC New that 187 internet customers in Durham Bridge, South Portage, and …
+### OTHER on 2026-03-18 01:45
+- Location: Todayifoundout.com
+- Description: “We sewed the sacks, we broke the stones, We turned the dusty drill: We banged the tins, and bawled the hymns, And sweated on the mill: But in the heart of every man Terror was lying still.” These are the words of famed master of the pen, Oscar Wilde, in his …
 
 
-### ROBBERY/THEFT on 2026-03-17 18:37
+### OTHER on 2026-03-18 01:35
+- Location: Fox News
+- Description: Pittsburgh police allegedly told to stand down as ICE agents struggled with suspect during detention attempt. Chief launches investigation into the claims.
+
+
+### OTHER on 2026-03-18 01:32
 - Location: CBC News
-- Description: Emergency crews responded to a collision in Shearwater late Monday and determined that one of the vehicles involved was stolen from Truro earlier in the day.
+- Description: Interim co-chief executive and chief financial officer Meghan Frank said Tuesday that the apparel retailer plans to shake up its product assortment with fewer logos, a "more focused and co-ordinated" colour palette and a "more edited" assortment of small acce…
 
 
-### HOMICIDE on 2026-03-17 18:37
-- Location: DW (English)
-- Description: Etienne Davignon, the only surviving suspect, is ordered to stand trial over war crimes tied to Patrice Lumumba's killing six decades ago. The case represents a historic moment in confronting Belgium's colonial past. A Brussels court on Tuesday ruled that Eti…
+### OTHER on 2026-03-18 01:30
+- Location: NBCSports.com
+- Description: Holloway has been suspended indefinitely and is away from the team as it prepares to play Hofstra on Friday in the NCAA Tournament.
 
 
-### OTHER on 2026-03-17 18:34
-- Location: Chicago Reader
-- Description: As a journalist, it’s always been important for me to center the people directly impacted by injustice and tell stories that capture their full humanity, not just ones that fixate on their trauma. So, when I opened Instagram last Friday and learned that 28-ye…
+### OTHER on 2026-03-18 01:30
+- Location: The Times of India
+- Description: This week's South Indian OTT releases offer a diverse range of genres, from rural dramas and romantic tales to supernatural thrillers and crime series.  Explore gripping stories of love, justice, and mystery dropping between March 16 and March 22 across vario…
 
-
-### HOMICIDE on 2026-03-17 18:34
-- Location: DW (English)
-- Description: Etienne Davignon, the only surviving suspect, is ordered to stand trial over war crimes tied to Patrice Lumumba's killing six decades ago. The case represents a historic moment in confronting Belgium's colonial past.
-
-Analysis generated at: Wed Mar 18 18:53:12 UTC 2026
+Analysis generated at: Thu Mar 19 01:48:11 UTC 2026
