@@ -1,10 +1,10 @@
 
-Loaded 94682 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-18 06:38:00
+Loaded 94738 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-18 12:37:00
 
 Incidents by source:
 source
-newsapi           94581
+newsapi           94637
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,31 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-03-18 06:38
-- Location: Newser
-- Description: A shooting at a US Air Force base in New Mexico on Tuesday has left one person dead and another wounded, according to military officials. The Holloman Air Force Base near Alamogordo, in southern New Mexico, was put on lockdown at about 5:30pm because of repor…
+### ROBBERY/THEFT on 2026-03-18 12:37
+- Location: CBS News
+- Description: The 1990 theft of 13 artworks, collectively worth over $500 million, from Boston’s Isabella Stewart Gardner Museum has never been solved. Former FBI agent Geoffrey Kelly says the “whodunit” part of the crime is solved and he has a probable motive, but that pr…
 
 
-### HOMICIDE on 2026-03-18 06:28
-- Location: The-independent.com
-- Description: The victim's father and one of Lee's two sons were among relatives who witnessed the execution
+### OTHER on 2026-03-18 12:36
+- Location: Abcnews.com
+- Description: Eyewitness video captured the moment a multi-story building was hit by an Israeli airstrike and collapsed.
 
 
-### OTHER on 2026-03-18 06:23
+### OTHER on 2026-03-18 12:28
+- Location: Gothamist
+- Description: The Dyckman Street subway station on the A line in Inwood on June 10, 2019
+ 
+
+The incident happened at the Dyckman Street station on the A line in Inwood over the weekend, the NYPD says. [ more › ]
+
+
+### OTHER on 2026-03-18 12:27
+- Location: RTE
+- Description: Actor Mark Bonnar will reprise his role as former Deputy Chief Constable Mike Dryden in the hit BBC drama Line of Duty for its highly anticipated seventh series.
+
+
+### HOMICIDE on 2026-03-18 12:27
 - Location: The Indian Express
-- Description: Concerns raised over security arrangements on the campus, case registered
+- Description: Israeli Defence Minister Israel Katz said Iranian Intelligence Minister Esmail Khatib was killed in an overnight strike and vowed that “significant surprises are expected throughout this day on all fronts", without elaborating. Iran did not immediately confir…
 
-
-### HOMICIDE on 2026-03-18 06:00
-- Location: The Irish Times
-- Description: Dubliner McGovern pleaded guilty to two charges of directing gang’s murder conspiracies, though charge of murdering Noel Kirwan now dropped
-
-
-### ASSAULT on 2026-03-18 06:00
-- Location: Naturalnews.com
-- Description: Introduction A series of recent attacks in the United States, involving individuals who entered through legal immigration channels, has intensified scrutiny of federal screening protocols. Multiple incidents in late 2025 and early 2026, classified by authorit…
-
-Analysis generated at: Thu Mar 19 06:52:29 UTC 2026
+Analysis generated at: Thu Mar 19 12:52:43 UTC 2026
