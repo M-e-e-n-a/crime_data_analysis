@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Mar 19 12:52:43 UTC 2026
+Last updated: Thu Mar 19 13:18:32 UTC 2026
 
 ## Latest Analysis
 
-Loaded 94738 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-18 12:37:00
+Loaded 94748 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-18 13:15:00
 
 Incidents by source:
 source
-newsapi           94637
+newsapi           94647
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,31 +24,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2026-03-18 12:37
-- Location: CBS News
-- Description: The 1990 theft of 13 artworks, collectively worth over $500 million, from Boston’s Isabella Stewart Gardner Museum has never been solved. Former FBI agent Geoffrey Kelly says the “whodunit” part of the crime is solved and he has a probable motive, but that pr…
+### HOMICIDE on 2026-03-18 13:15
+- Location: Variety
+- Description: The Apple TV psychological thriller “Imperfect Women,” based on Araminta Hall’s novel of the same name and adapted by Annie Weisman, is a twisted, sinister tale of friendship and the facades people put up to prevent others from looking too closely. Utterly co…
 
 
-### OTHER on 2026-03-18 12:36
-- Location: Abcnews.com
-- Description: Eyewitness video captured the moment a multi-story building was hit by an Israeli airstrike and collapsed.
+### DRUG RELATED on 2026-03-18 13:13
+- Location: CBS Sports
+- Description: What happens next for the Crimson Tide star guard who's facing multiple felony drug charges
 
 
-### OTHER on 2026-03-18 12:28
-- Location: Gothamist
-- Description: The Dyckman Street subway station on the A line in Inwood on June 10, 2019
- 
+### OTHER on 2026-03-18 13:09
+- Location: The Punch
+- Description: A Federal High Court in Lagos imposes a $6M cocaine smuggling fine on 10 Filipino sailors and their vessel for importing 20kg of cocaine into Nigeria.
 
-The incident happened at the Dyckman Street station on the A line in Inwood over the weekend, the NYPD says. [ more › ]
-
-
-### OTHER on 2026-03-18 12:27
-- Location: RTE
-- Description: Actor Mark Bonnar will reprise his role as former Deputy Chief Constable Mike Dryden in the hit BBC drama Line of Duty for its highly anticipated seventh series.
+Read More: https://punchng.com/lagos-court-fines-ship-10-sailors-6m-for-cocaine-smuggling-ndlea/
 
 
-### HOMICIDE on 2026-03-18 12:27
-- Location: The Indian Express
-- Description: Israeli Defence Minister Israel Katz said Iranian Intelligence Minister Esmail Khatib was killed in an overnight strike and vowed that “significant surprises are expected throughout this day on all fronts", without elaborating. Iran did not immediately confir…
+### OTHER on 2026-03-18 13:08
+- Location: Freethoughtblogs.com
+- Description: This is somewhat old news: I’ve mentioned before this strange entitled woman who has been harassing tenants, specifically by throwing tarantulas at them, but now at last she has been found guilty in the courts of the crime. A jury on Friday found Marisa Simon…
 
-Analysis generated at: Thu Mar 19 12:52:43 UTC 2026
+
+### OTHER on 2026-03-18 13:01
+- Location: ABC News (AU)
+- Description: Criminal gangs cashing in on Australia's illicit tobacco boom will face tougher penalties and expanded police surveillance powers in a fresh crackdown on the black market.
+
+Analysis generated at: Thu Mar 19 13:18:32 UTC 2026
