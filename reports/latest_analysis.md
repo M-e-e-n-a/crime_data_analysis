@@ -1,10 +1,10 @@
 
-Loaded 94874 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-19 06:41:15
+Loaded 94921 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-19 12:28:43
 
 Incidents by source:
 source
-newsapi           94773
+newsapi           94820
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-03-19 06:41
-- Location: The-independent.com
-- Description: A twitchy man takes a mortgage broker hostage in this Seventies thriller, starring Bill Skarsgård and Al Pacino
+### OTHER on 2026-03-19 12:28
+- Location: Page Six
+- Description: In 2021, Josh Duggar was found guilty of receiving and possessing child sexual abuse material. He has been sentenced to more than 12 years in prison.
 
 
-### HOMICIDE on 2026-03-19 06:38
+### OTHER on 2026-03-19 12:24
 - Location: The Times of India
-- Description: Iran executed three people on Thursday convicted of killing police officers and carrying out operations in favour of the United States and Israel during unrest earlier this year, the judiciary said. "Three individuals convicted in the Dey (January) unrest, on…
+- Description: A horrific incident unfolded at Narmadapuram railway station where a mother allegedly pushed her eight-year-old daughter onto the tracks before a moving train. The critically injured child, suffering severe head, waist, and shoulder trauma, was rushed to hosp…
 
 
-### OTHER on 2026-03-19 06:00
-- Location: The Irish Times
-- Description: Chris and Rose Murray say their offer to give the 588 sq m property to a charity has failed
+### SHOOTING on 2026-03-19 12:19
+- Location: New York Post
+- Description: A no-nonsense judge scolded a “high risk” teen thug as she sentenced him to 25 years in prison over a convenience store robbery. Texas judge Raquel West blasted Caden Fontenette and his two accomplices over how they terrorized a Nederland store clerk before v…
 
 
-### OTHER on 2026-03-19 06:00
-- Location: Naturalnews.com
-- Description: FBI and IRS form joint task force to investigate extremist funding. The effort targets nonprofits suspected of financing domestic terrorism. Attorney General Bondi’s memo defines extremists by specific ideological agendas. A centralized FBI command will inclu…
+### OTHER on 2026-03-19 12:00
+- Location: The New York Review of Books
+- Description: When I first read The Count of Monte Cristo, it offered something irresistible: the possibility of reinvention. If, against all odds, Edmond Dantès could remake himself, so could I.
 
 
-### SHOOTING on 2026-03-19 06:00
-- Location: Newser
-- Description: As Colin Dorgan stood before a deafening crowd exploding in pride for his high school hockey team's championship win, secured by a goal in an exhausting yet exhilarating quadruple overtime, three seats were noticeably empty in the Rhode Island arena. The high…
+### OTHER on 2026-03-19 12:00
+- Location: The New York Review of Books
+- Description: There has never been a moral and historical reckoning with the horrors inflicted by the Allied firebombing of Japan during World War II.
 
-Analysis generated at: Fri Mar 20 06:47:50 UTC 2026
+Analysis generated at: Fri Mar 20 12:44:51 UTC 2026
