@@ -1,10 +1,10 @@
 
-Loaded 94924 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-19 13:09:01
+Loaded 94999 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-19 18:36:59
 
 Incidents by source:
 source
-newsapi           94823
+newsapi           94898
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-03-19 13:09
-- Location: Us Weekly
-- Description: Joseph Duggar and his wife, Kendra Duggar, welcomed four kids before he was arrested in 2026. Joseph was featured on TLC’s 19 Kids and Counting alongside his large family, including parents Jim Bob and Michelle Duggar. The show’s spinoff, Counting On, later c…
+### HOMICIDE on 2026-03-19 18:36
+- Location: Independent.ie
+- Description: A man has been charged with the murder of a Ukrainian father-of-one in Cork.
 
 
-### HOMICIDE on 2026-03-19 13:08
-- Location: Fox News
-- Description: Colin Dorgan, who family members were killed by a trans shooter, helped his high school ice hockey team to a Rhode Island state championship on Wednesday.
-
-
-### ROBBERY/THEFT on 2026-03-19 13:00
-- Location: Cheezburger.com
-- Description: Some people truly do not think their actions through before acting on them. This entitled neighbor, who already has a reputation for theft and entitlement, found that out the hard way. He truly didn't think about the consequences of his actions. What did he d…
-
-
-### OTHER on 2026-03-19 12:28
-- Location: Page Six
-- Description: In 2021, Josh Duggar was found guilty of receiving and possessing child sexual abuse material. He has been sentenced to more than 12 years in prison.
-
-
-### OTHER on 2026-03-19 12:24
+### OTHER on 2026-03-19 18:33
 - Location: The Times of India
-- Description: A horrific incident unfolded at Narmadapuram railway station where a mother allegedly pushed her eight-year-old daughter onto the tracks before a moving train. The critically injured child, suffering severe head, waist, and shoulder trauma, was rushed to hosp…
+- Description: Guwahati: BJP has fielded six women candidates this time, one less than number of female contenders from the party in the 2021 assembly polls.In 2021,.
 
-Analysis generated at: Fri Mar 20 13:11:14 UTC 2026
+
+### OTHER on 2026-03-19 18:33
+- Location: The Times of India
+- Description: As Ranchi gears up for Chaitra Navratri, the air is filled with colorful temple adornments and heartfelt home rituals. However, a sudden spike in fruit prices has put a strain on devotees' wallets. Essentials like bananas and apples have seen a price hike, le…
+
+
+### OTHER on 2026-03-19 18:32
+- Location: The Times of India
+- Description: In a plea to prevent chaos, Aditya Sahu, the BJP chief of Jharkhand, called on Chief Minister Hemant Soren to avoid divisive language classifications in the teacher recruitment process. He emphasized the rich linguistic fabric of the state and cautioned that …
+
+
+### OTHER on 2026-03-19 18:31
+- Location: The Times of India
+- Description: In a delightful reveal, comedian Bharti Singh and her husband Haarsh Limbachiyaa introduced their newest family member, baby Yashveer, affectionately dubbed Kaaju. The special occasion was beautifully themed around snails, adding a unique touch to the celebra…
+
+Analysis generated at: Fri Mar 20 18:40:23 UTC 2026
