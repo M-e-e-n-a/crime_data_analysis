@@ -1,10 +1,10 @@
 
-Loaded 94834 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-18 18:42:37
+Loaded 94847 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-19 01:17:27
 
 Incidents by source:
 source
-newsapi           94733
+newsapi           94746
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,31 +20,36 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-03-18 18:42
-- Location: Gothamist
-- Description: Commissioner Jessica Tisch at the City Council hearing Wednesday.
- 
-
-Tisch was responding to questions from Council Speaker Julie Menin about a Gothamist story that included concerns from experts about a shift in the NYPD's reporting method. [ more › ]
+### HOMICIDE on 2026-03-19 01:17
+- Location: NBC News
+- Description: An Iowa woman was arrested in connection with the death of a real estate agent whose killing nearly 15 years ago sent shock waves through the state and haunted realtors, authorities said Wednesday
 
 
-### OTHER on 2026-03-18 18:40
-- Location: Hip-Hop Wired
-- Description: Afroman's legal battle with police over music videos mocking a raid on his home highlights free speech, police accountability, and internet culture.
+### HOMICIDE on 2026-03-19 00:55
+- Location: The Times of India
+- Description: A man who reported his cousin missing is now accused of her murder. Leela Devi, a grocery store owner, was allegedly killed by her cousin Pappuram and two others over a property dispute. Her body was dismembered and dumped in a water body. Police arrested the…
 
 
-### OTHER on 2026-03-18 18:29
-- Location: Statetimes.in
-- Description: TRAFFIC POLICE HEADQUARTERS, J&K, JAMMU/SRINAGARTRAFFIC PLAN & ADVISORY FOR 19-03-2026:-From 17-03-2026, 1600 hrs. to 18-03-2026, 1600 hrs., there was slow movement observed on NH-44 due to single lane traffic between Marog and Kishtwari Pather, In addition t…
+### OTHER on 2026-03-19 00:39
+- Location: Starobserver.com.au
+- Description: Thanks to a successful motion by Greens LGBTQIA+ spokesperson Dr Amanda Cohn in the NSW upper house, the highly anticipated Sackar Review of criminal law protections against hate speech for ...
+The post EXPLAINER: The Long Awaited Sackar Review Into Hate Spee…
 
 
-### OTHER on 2026-03-18 18:20
-- Location: Hollywood Reporter
-- Description: The former Fox anchor's reluctance to distance herself from Owens’ escalating controversies underscores the brutal incentives of the influencer economy.
+### OTHER on 2026-03-19 00:30
+- Location: Seclists.org
+- Description: Posted by RISKS List Owner on Mar 18Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+precedence: bulk
+Subject: Risks Digest 34.90
+
+RISKS-LIST: Risks-Forum Digest Wednesday 18 March 2026 Volume 34 : Issue 90
+
+ACM FORUM ON RISKS TO THE PU…
 
 
-### OTHER on 2026-03-18 18:17
-- Location: Abcnews.com
-- Description: ABC News' Tom Soufi Burridge was given rare access to an Israeli air force base to see the Arrow air defense system, Israel's longest-range air defense system.
+### OTHER on 2026-03-19 00:30
+- Location: The Times of India
+- Description: The government is considering expanding the remit of the Information Technology Act, 2000 to empower critical ministries such as defence, home affairs, external affairs and information and broadcasting to issue content blocking orders under Section 69(A) of t…
 
-Analysis generated at: Thu Mar 19 18:49:40 UTC 2026
+Analysis generated at: Fri Mar 20 01:30:16 UTC 2026
