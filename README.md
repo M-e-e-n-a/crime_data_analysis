@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Mar 20 02:33:17 UTC 2026
+Last updated: Fri Mar 20 06:47:50 UTC 2026
 
 ## Latest Analysis
 
-Loaded 94851 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-19 02:18:59
+Loaded 94874 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-19 06:41:15
 
 Incidents by source:
 source
-newsapi           94750
+newsapi           94773
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-03-19 02:18
-- Location: CBC News
-- Description: Police in Manitoba's Interlake region are searching for a 39-year-old man who was last seen at a home in Riverton last week.
+### HOMICIDE on 2026-03-19 06:41
+- Location: The-independent.com
+- Description: A twitchy man takes a mortgage broker hostage in this Seventies thriller, starring Bill Skarsgård and Al Pacino
 
 
-### HOMICIDE on 2026-03-19 02:09
-- Location: New York Post
-- Description: "The autopsy could not definitively determine when the young woman died," prosecutors said.
+### HOMICIDE on 2026-03-19 06:38
+- Location: The Times of India
+- Description: Iran executed three people on Thursday convicted of killing police officers and carrying out operations in favour of the United States and Israel during unrest earlier this year, the judiciary said. "Three individuals convicted in the Dey (January) unrest, on…
 
 
-### HOMICIDE on 2026-03-19 02:03
-- Location: New York Post
-- Description: The acccused killer had worked for Rottlund Homes, the developer of the townhouse where Ashley Okland was fatally shot.
+### OTHER on 2026-03-19 06:00
+- Location: The Irish Times
+- Description: Chris and Rose Murray say their offer to give the 588 sq m property to a charity has failed
 
 
-### ROBBERY/THEFT on 2026-03-19 02:00
-- Location: The Indian Express
-- Description: Police are filing a chargesheet in a case where HSC question papers were circulated on WhatsApp before three separate exams. The Board's position: it wasn't a leak, because students were already in the hall.
+### OTHER on 2026-03-19 06:00
+- Location: Naturalnews.com
+- Description: FBI and IRS form joint task force to investigate extremist funding. The effort targets nonprofits suspected of financing domestic terrorism. Attorney General Bondi’s memo defines extremists by specific ideological agendas. A centralized FBI command will inclu…
 
 
-### HOMICIDE on 2026-03-19 01:17
-- Location: NBC News
-- Description: An Iowa woman was arrested in connection with the death of a real estate agent whose killing nearly 15 years ago sent shock waves through the state and haunted realtors, authorities said Wednesday
+### SHOOTING on 2026-03-19 06:00
+- Location: Newser
+- Description: As Colin Dorgan stood before a deafening crowd exploding in pride for his high school hockey team's championship win, secured by a goal in an exhausting yet exhilarating quadruple overtime, three seats were noticeably empty in the Rhode Island arena. The high…
 
-Analysis generated at: Fri Mar 20 02:33:17 UTC 2026
+Analysis generated at: Fri Mar 20 06:47:50 UTC 2026
