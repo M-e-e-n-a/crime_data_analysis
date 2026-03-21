@@ -1,10 +1,10 @@
 
-Loaded 95074 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-20 12:28:00
+Loaded 95079 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-20 13:00:00
 
 Incidents by source:
 source
-newsapi           94973
+newsapi           94978
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-03-20 12:28
-- Location: LancasterOnline
-- Description: Two 16-year-old boys accused of shooting at a group of bystanders in front of a Lancaster Township apartment complex will have their cases heard in county court after waiving their preliminary hearings.
+### OTHER on 2026-03-20 13:00
+- Location: Thephoblographer.com
+- Description: It’s rare in street photography to come across easily reproducible lighting scenarios, but that is exactly what photographer Walter Rothwell has done with his Exit Left project since 2007. Each year Mr. Rothwell makes his way to a local train station, where b…
 
 
-### OTHER on 2026-03-20 12:16
-- Location: Us Weekly
-- Description: Josh Duggar is speaking out from behind bars after his brother Joseph Duggar was arrested for unlawful sexual activity with a minor. Josh’s lawyer told the Daily Mail on Friday, March 20, that he was “deeply saddened” to learn Joseph, 31, was charged. Josh, 3…
+### HOMICIDE on 2026-03-20 12:56
+- Location: Fox News
+- Description: Spanish police say Jimmy Gracey, a 20-year-old University of Alabama student, died accidentally in Barcelona after vanishing near Shoko nightclub.
 
 
-### ASSAULT on 2026-03-20 12:08
-- Location: Sky.com
-- Description: The 43-year-old was charged with GBH earlier this month after an alleged assault near a golf course in Merseyside. He has been in custody since 10 March.
+### HOMICIDE on 2026-03-20 12:48
+- Location: Inside the Magic
+- Description: Disney influencers once thrived on YouTube, showcasing park tours, food reviews, and trip planning, but recent trends reveal a decline in audience engagement post-pandemic. While some creators continue to succeed, overall viewership and subscriber growth for …
 
 
-### OTHER on 2026-03-20 12:01
-- Location: Researchbuzz.me
-- Description: NEW RESOURCES Blue News: US archive makes millions of NSDAP files available online. “In contrast to Germany, the USA provides access to a complete digital copy of the microfilmed NSDAP Central Index […]
+### OTHER on 2026-03-20 12:46
+- Location: The Indian Express
+- Description: The incident unfolded about 15 minutes after Albanese and Home Affairs Minister Tony Burke joined worshippers at the mosque in western Sydney to mark the end of Ramadan.
 
 
-### HOMICIDE on 2026-03-20 12:00
-- Location: GamesRadar+
-- Description: Exclusive: Bill Skarsgård discusses starring in Gun Van Sant's surprisingly funny crime thriller about real-life kidnapper Tony Kiritsis
+### OTHER on 2026-03-20 12:40
+- Location: The Hollywood Gossip
+- Description: Reading Time: 4 minutesJoseph Duggar's arrest for molesting a little girl has his most notorious sibling defending him.
+Joseph Duggar is INNOCENT, Claims Convicted Sex Offender Josh Duggar was originally published on The Hollywood Gossip.
 
-Analysis generated at: Sat Mar 21 12:36:27 UTC 2026
+Analysis generated at: Sat Mar 21 13:01:13 UTC 2026
