@@ -1,10 +1,10 @@
 
-Loaded 95004 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-20 01:18:44
+Loaded 95010 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-20 02:24:40
 
 Incidents by source:
 source
-newsapi           94903
+newsapi           94909
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2026-03-20 01:18
-- Location: Breitbart News
-- Description: American A.I. and robotics companies are reportedly asking Congress to impose curbs on Chinese robotics manufacturers, due to their unfair business practices and the security risks they pose, Chinese media complained this week.
-The post U.S. Tech Firms Demand…
+### OTHER on 2026-03-20 02:24
+- Location: CBC News
+- Description: Winnipeg school officials and police are urging parents to talk to their kids about the consequences of making threats.
 
 
-### OTHER on 2026-03-20 00:28
-- Location: Yahoo Entertainment
-- Description: Benjy Taylor, the head coach for Tuskegee University’s men’s basketball team, is set to announce a lawsuit against Morehouse College and two campus police officers, who handcuffed him during a game in January.
+### OTHER on 2026-03-20 02:23
+- Location: The Times of India
+- Description: Jammu and Kashmir police have dismantled a sophisticated international cyber fraud network in Srinagar. Seven individuals were arrested for targeting victims in the USA, UK, and Canada. The syndicate used fake online advertisements and psychological tactics. …
 
 
-### ROBBERY/THEFT on 2026-03-20 00:22
-- Location: New York Post
-- Description: The Post had a front-row seat to the action early Thursday morning, as agents moved in to arrest Vardevaryan, by blasting his stately white home with blinding spotlights
+### HOMICIDE on 2026-03-20 02:14
+- Location: WSB Atlanta
+- Description: Alexia Moore would be one of the first women charged for terminating a pregnancy since Georgia's law passed.
 
 
-### OTHER on 2026-03-20 00:07
-- Location: Bleeding Cool News
-- Description: We're not going to jump into spoilers for this week's episode of ABC and Showrunners Liz Heldens & Daniel Thomsen's Ramón Rodríguez-starring Will Trent S04E11: "He Lives!" (at least, not yet), but we do have some intel to pass along regarding the next two epi…
+### HOMICIDE on 2026-03-20 02:01
+- Location: ABC News (AU)
+- Description: Nathan Vikatos has been jailed for more than 28 years for what a judge described as the tragic, horrific and untimely death of his three-year-old son, Alexi, in May 2023.
 
 
-### OTHER on 2026-03-20 00:01
-- Location: Www.gov.uk
-- Description: Entering a football match without a ticket will become a criminal offence this weekend, with offenders facing a banning order alongside up to £1,000 fine.
+### OTHER on 2026-03-20 02:00
+- Location: Decider
+- Description: Who's going to take care of baby Jane Doe?!?
 
-Analysis generated at: Sat Mar 21 01:25:49 UTC 2026
+Analysis generated at: Sat Mar 21 02:27:49 UTC 2026
