@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Mar 20 18:40:23 UTC 2026
+Last updated: Sat Mar 21 01:25:49 UTC 2026
 
 ## Latest Analysis
 
-Loaded 94999 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-19 18:36:59
+Loaded 95004 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-20 01:18:44
 
 Incidents by source:
 source
-newsapi           94898
+newsapi           94903
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-03-19 18:36
-- Location: Independent.ie
-- Description: A man has been charged with the murder of a Ukrainian father-of-one in Cork.
+### ROBBERY/THEFT on 2026-03-20 01:18
+- Location: Breitbart News
+- Description: American A.I. and robotics companies are reportedly asking Congress to impose curbs on Chinese robotics manufacturers, due to their unfair business practices and the security risks they pose, Chinese media complained this week.
+The post U.S. Tech Firms Demand…
 
 
-### OTHER on 2026-03-19 18:33
-- Location: The Times of India
-- Description: Guwahati: BJP has fielded six women candidates this time, one less than number of female contenders from the party in the 2021 assembly polls.In 2021,.
+### OTHER on 2026-03-20 00:28
+- Location: Yahoo Entertainment
+- Description: Benjy Taylor, the head coach for Tuskegee University’s men’s basketball team, is set to announce a lawsuit against Morehouse College and two campus police officers, who handcuffed him during a game in January.
 
 
-### OTHER on 2026-03-19 18:33
-- Location: The Times of India
-- Description: As Ranchi gears up for Chaitra Navratri, the air is filled with colorful temple adornments and heartfelt home rituals. However, a sudden spike in fruit prices has put a strain on devotees' wallets. Essentials like bananas and apples have seen a price hike, le…
+### ROBBERY/THEFT on 2026-03-20 00:22
+- Location: New York Post
+- Description: The Post had a front-row seat to the action early Thursday morning, as agents moved in to arrest Vardevaryan, by blasting his stately white home with blinding spotlights
 
 
-### OTHER on 2026-03-19 18:32
-- Location: The Times of India
-- Description: In a plea to prevent chaos, Aditya Sahu, the BJP chief of Jharkhand, called on Chief Minister Hemant Soren to avoid divisive language classifications in the teacher recruitment process. He emphasized the rich linguistic fabric of the state and cautioned that …
+### OTHER on 2026-03-20 00:07
+- Location: Bleeding Cool News
+- Description: We're not going to jump into spoilers for this week's episode of ABC and Showrunners Liz Heldens & Daniel Thomsen's Ramón Rodríguez-starring Will Trent S04E11: "He Lives!" (at least, not yet), but we do have some intel to pass along regarding the next two epi…
 
 
-### OTHER on 2026-03-19 18:31
-- Location: The Times of India
-- Description: In a delightful reveal, comedian Bharti Singh and her husband Haarsh Limbachiyaa introduced their newest family member, baby Yashveer, affectionately dubbed Kaaju. The special occasion was beautifully themed around snails, adding a unique touch to the celebra…
+### OTHER on 2026-03-20 00:01
+- Location: Www.gov.uk
+- Description: Entering a football match without a ticket will become a criminal offence this weekend, with offenders facing a banning order alongside up to £1,000 fine.
 
-Analysis generated at: Fri Mar 20 18:40:23 UTC 2026
+Analysis generated at: Sat Mar 21 01:25:49 UTC 2026
