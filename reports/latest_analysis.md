@@ -1,10 +1,10 @@
 
-Loaded 95010 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-20 02:24:40
+Loaded 95030 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-20 06:15:35
 
 Incidents by source:
 source
-newsapi           94909
+newsapi           94929
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-03-20 02:24
-- Location: CBC News
-- Description: Winnipeg school officials and police are urging parents to talk to their kids about the consequences of making threats.
+### OTHER on 2026-03-20 06:15
+- Location: The Punch
+- Description: The US Department of Justice has filed a lawsuit to revoke the citizenship of a Nigerian man, Emmanuel Kazeem, convicted for an $11m tax fraud scheme.
+
+Read More: https://punchng.com/11m-fraud-us-moves-to-revoke-nigerians-citizenship/
 
 
-### OTHER on 2026-03-20 02:23
-- Location: The Times of India
-- Description: Jammu and Kashmir police have dismantled a sophisticated international cyber fraud network in Srinagar. Seven individuals were arrested for targeting victims in the USA, UK, and Canada. The syndicate used fake online advertisements and psychological tactics. …
-
-
-### HOMICIDE on 2026-03-20 02:14
-- Location: WSB Atlanta
-- Description: Alexia Moore would be one of the first women charged for terminating a pregnancy since Georgia's law passed.
-
-
-### HOMICIDE on 2026-03-20 02:01
+### ROBBERY/THEFT on 2026-03-20 06:12
 - Location: ABC News (AU)
-- Description: Nathan Vikatos has been jailed for more than 28 years for what a judge described as the tragic, horrific and untimely death of his three-year-old son, Alexi, in May 2023.
+- Description: Robert Alan Gee, who has been jailed for the manslaughter of baby Michael Willmott, had in 2003 assaulted a 3-month-old girl in a different state.
 
 
-### OTHER on 2026-03-20 02:00
-- Location: Decider
-- Description: Who's going to take care of baby Jane Doe?!?
+### OTHER on 2026-03-20 06:06
+- Location: New York Post
+- Description: Six Flags is rolling out new age restrictions at several parks throughout spring break as the company battles rampant nuisance from its younger customers.
 
-Analysis generated at: Sat Mar 21 02:27:49 UTC 2026
+
+### OTHER on 2026-03-20 06:00
+- Location: CounterPunch
+- Description: Perhaps Trump will now replace Joe Kent with Newt Gingrich, who is very, very strong on security. So strong that Newt, the Edward Teller of our tormented times, advised Trump to drop 12 nuclear bombs on Iran to blast out a canal by-passing the Strait of Hormu…
+
+
+### OTHER on 2026-03-20 06:00
+- Location: The Irish Times
+- Description: The Oscar-winning documentary Mr Nobody Against Putin is a record of something totally unseen in the world outside Russia
+
+Analysis generated at: Sat Mar 21 06:37:04 UTC 2026
