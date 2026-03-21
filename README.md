@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Mar 21 06:37:04 UTC 2026
+Last updated: Sat Mar 21 12:36:27 UTC 2026
 
 ## Latest Analysis
 
-Loaded 95030 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-20 06:15:35
+Loaded 95074 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-20 12:28:00
 
 Incidents by source:
 source
-newsapi           94929
+newsapi           94973
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,30 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-03-20 06:15
-- Location: The Punch
-- Description: The US Department of Justice has filed a lawsuit to revoke the citizenship of a Nigerian man, Emmanuel Kazeem, convicted for an $11m tax fraud scheme.
-
-Read More: https://punchng.com/11m-fraud-us-moves-to-revoke-nigerians-citizenship/
+### SHOOTING on 2026-03-20 12:28
+- Location: LancasterOnline
+- Description: Two 16-year-old boys accused of shooting at a group of bystanders in front of a Lancaster Township apartment complex will have their cases heard in county court after waiving their preliminary hearings.
 
 
-### ROBBERY/THEFT on 2026-03-20 06:12
-- Location: ABC News (AU)
-- Description: Robert Alan Gee, who has been jailed for the manslaughter of baby Michael Willmott, had in 2003 assaulted a 3-month-old girl in a different state.
+### OTHER on 2026-03-20 12:16
+- Location: Us Weekly
+- Description: Josh Duggar is speaking out from behind bars after his brother Joseph Duggar was arrested for unlawful sexual activity with a minor. Josh’s lawyer told the Daily Mail on Friday, March 20, that he was “deeply saddened” to learn Joseph, 31, was charged. Josh, 3…
 
 
-### OTHER on 2026-03-20 06:06
-- Location: New York Post
-- Description: Six Flags is rolling out new age restrictions at several parks throughout spring break as the company battles rampant nuisance from its younger customers.
+### ASSAULT on 2026-03-20 12:08
+- Location: Sky.com
+- Description: The 43-year-old was charged with GBH earlier this month after an alleged assault near a golf course in Merseyside. He has been in custody since 10 March.
 
 
-### OTHER on 2026-03-20 06:00
-- Location: CounterPunch
-- Description: Perhaps Trump will now replace Joe Kent with Newt Gingrich, who is very, very strong on security. So strong that Newt, the Edward Teller of our tormented times, advised Trump to drop 12 nuclear bombs on Iran to blast out a canal by-passing the Strait of Hormu…
+### OTHER on 2026-03-20 12:01
+- Location: Researchbuzz.me
+- Description: NEW RESOURCES Blue News: US archive makes millions of NSDAP files available online. “In contrast to Germany, the USA provides access to a complete digital copy of the microfilmed NSDAP Central Index […]
 
 
-### OTHER on 2026-03-20 06:00
-- Location: The Irish Times
-- Description: The Oscar-winning documentary Mr Nobody Against Putin is a record of something totally unseen in the world outside Russia
+### HOMICIDE on 2026-03-20 12:00
+- Location: GamesRadar+
+- Description: Exclusive: Bill Skarsgård discusses starring in Gun Van Sant's surprisingly funny crime thriller about real-life kidnapper Tony Kiritsis
 
-Analysis generated at: Sat Mar 21 06:37:04 UTC 2026
+Analysis generated at: Sat Mar 21 12:36:27 UTC 2026
