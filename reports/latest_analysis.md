@@ -1,10 +1,10 @@
 
-Loaded 95165 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-21 01:37:09
+Loaded 95171 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-21 02:33:54
 
 Incidents by source:
 source
-newsapi           95064
+newsapi           95070
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-03-21 01:37
-- Location: Bleeding Cool News
-- Description: Though we still have some time to go until "March Madness" wraps and CBS and Showrunners Brandon Sonnier and Brandon Margolis' Donnie Wahlberg and Sonequa Martin-Green-starring Boston Blue is back on our screens. But that doesn't mean it's too early for us to…
+### OTHER on 2026-03-21 02:33
+- Location: CBS News
+- Description: Nicholas Brendon was best known for his role as Xander Harris on all seven seasons of "Buffy the Vampire Slayer."
 
 
-### OTHER on 2026-03-21 01:31
-- Location: Screen Rant
-- Description: Reacher is all set to return in 2026 with its fourth instalment, which seemingly allows it to achieve a rare and impressive streaming television feat.
+### OTHER on 2026-03-21 02:32
+- Location: ABC News (AU)
+- Description: Two teenage boys have been arrested after the Tarneit store in the city's west was destroyed by fire early this morning.
 
 
-### OTHER on 2026-03-21 01:09
+### OTHER on 2026-03-21 02:32
+- Location: ABC News (AU)
+- Description: Two teenage boys have been arrested after the store in Tarneit, in the city's west, was destroyed by fire early this morning.
+
+
+### SHOOTING on 2026-03-21 02:25
 - Location: CBC News
-- Description: Out $280,000, the Inglewood community league says it has reported missing money to the police. Now, it’s suing its former treasurer.
+- Description: The older half-brother of the Tumbler Ridge school shooter will serve a three-year prison sentence after pleading guilty to attacking a man with a knife-sharpener during an unrelated 2024 incident.
 
 
-### OTHER on 2026-03-21 01:02
+### HOMICIDE on 2026-03-21 02:02
 - Location: Abcnews.com
-- Description: After capturing hearts across the world with his affection towards a stuffed orangutan, Punch the monkey has been seen cuddling up with a fellow monkey in his enclosure.
+- Description: Nicholas Brendon's family announced in a statement on social media that he "passed in his sleep of natural causes."
 
-
-### OTHER on 2026-03-21 01:02
-- Location: Abcnews.com
-- Description: Norris is best known for his roles in action movies and the series “Walker, Texas Ranger.”
-
-Analysis generated at: Sun Mar 22 01:47:13 UTC 2026
+Analysis generated at: Sun Mar 22 02:42:59 UTC 2026
