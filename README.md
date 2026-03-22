@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Mar 22 13:03:16 UTC 2026
+Last updated: Sun Mar 22 18:29:59 UTC 2026
 
 ## Latest Analysis
 
-Loaded 95208 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-21 13:00:17
+Loaded 95241 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-21 18:24:17
 
 Incidents by source:
 source
-newsapi           95107
+newsapi           95140
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,31 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-03-21 13:00
-- Location: HuffPost
-- Description: Kerry Washington and Elisabeth Moss are the draw for this new Apple TV series, but the writing doesn’t give them enough to work with.
+### ROBBERY/THEFT on 2026-03-21 18:24
+- Location: CBC News
+- Description: Police in Richmond, B.C., are investigating after a series of meat thefts from retail stores that they say may be "organized" crime.
 
 
-### OTHER on 2026-03-21 12:40
-- Location: Unexplained-mysteries.com
-- Description: The teenager had seemingly managed to take the bus without anyone realizing for quite some time. According to reports, the bizarre incident began on M...
+### OTHER on 2026-03-21 18:09
+- Location: CBM (Comic Book Movie)
+- Description: A new adult animated adaptation of Brian Michael Bendis' long-running Dark Horse comic series, Powers, is in development for Netflix...
 
 
-### OTHER on 2026-03-21 12:11
-- Location: The Times of India
-- Description: Nancy Guthrie case: The disappearance of Nancy Guthrie, mother of Savannah Guthrie, remains unsolved more than a month after she was abducted from her Tucson home. Surveillance footage shows a masked man attempting to disable security equipment, raising conce…
+### OTHER on 2026-03-21 18:08
+- Location: The Punch
+- Description: A civic group reaffirms confidence in IGP Olatunji Disu, urging public support for ongoing police reforms in Nigeria to enhance trust and security.
+
+Read More: https://punchng.com/group-reaffirms-confidence-in-ig-urges-support-for-police-reforms/
 
 
-### OTHER on 2026-03-21 12:00
+### HOMICIDE on 2026-03-21 18:00
 - Location: Fox News
-- Description: On March 19, just a day before the celebration of the ancient Iranian New Year Nowruz, the Islamic regime executed one of Iran’s most gifted wrestlers, along with two other young men.
+- Description: Prosecutor who called Sarah Jo Pender 'female Charles Manson' now doubts her murder conviction. A new true crime docuseries explores the controversial case.
 
 
-### OTHER on 2026-03-21 12:00
-- Location: Fox News
-- Description: On March 19, just a day before the celebration of the ancient Iranian New Year Nowruz, the Islamic regime executed one of Iran’s most gifted wrestlers, along with two other young men.
+### ROBBERY/THEFT on 2026-03-21 18:00
+- Location: Allthatsinteresting.com
+- Description: Discover the stories behind the biggest heists in history, whether the perpetrators were eventually captured or the case remains bafflingly unsolved to this day.
+The post 7 Of History’s Most Unbelievable Heists, From D.B. Cooper To The Lufthansa Robbery appea…
 
-Analysis generated at: Sun Mar 22 13:03:16 UTC 2026
+Analysis generated at: Sun Mar 22 18:29:59 UTC 2026
