@@ -1,10 +1,10 @@
 
-Loaded 95265 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-22 06:50:21
+Loaded 95289 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-22 12:51:00
 
 Incidents by source:
 source
-newsapi           95164
+newsapi           95188
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-03-22 06:50
-- Location: New Zealand Herald
-- Description: Police most recently confirmed a death in a Bay of Plenty crash this afternoon.
+### HOMICIDE on 2026-03-22 12:51
+- Location: Sky.com
+- Description: Police officers were called to Sparrow's Nest Gardens in Lowestoft on Friday evening where they discovered 54-year-old Gary Grant unresponsive.
 
 
-### OTHER on 2026-03-22 06:45
-- Location: Protothema.gr
-- Description: More than 300 works were found in his gallery, of which only 7 are estimated to be genuine - 200,000 euros in cash were found
-The post How the police investigation into Giorgos Tsagkarakis began – Anonymous tip, says Dimoglidi – See photos of the fake paintin…
+### OTHER on 2026-03-22 12:43
+- Location: BBC News
+- Description: The property had been turned into a "substantial and well-organised cannabis factory", police say.
 
 
-### HOMICIDE on 2026-03-22 06:29
+### OTHER on 2026-03-22 12:26
+- Location: Ibtimes.com.au
+- Description: The disappearance of Nancy Guthrie, the 84-year-old mother of NBC *Today* show co-anchor Savannah Guthrie, has entered its eighth week with no resolution, as federal investigators recently obtained what may be the last known video footage of her before she va…
+
+
+### OTHER on 2026-03-22 12:16
 - Location: The Times of India
-- Description: Dhurandhar 2 captivates audiences with villains inspired by real figures. Characters like Major Iqbal, SP Chaudhary Aslam, Rehman Dakait, Uzair Baloch, Bade Sahab, and Javed Khanani draw from notorious criminals and operatives. These portrayals reflect real-w…
+- Description: Dacoit: Oka Prema Katha, starring Adivi Sesh and Mrunal Thakur, is set to release in theatres on April 10, 2026, after a brief postponement. The action-thriller will stream on Amazon Prime Video following its theatrical run. Directed by Shaneil Deo, the film …
 
 
-### OTHER on 2026-03-22 06:00
-- Location: The Irish Times
-- Description: Mike Quill’s friend Dr Martin Luther King said he fought for Irish independence, labour organisation and racial equality
+### OTHER on 2026-03-22 12:00
+- Location: Screen Rant
+- Description: Ranking the best Far Sides from its debut year.
 
-
-### OTHER on 2026-03-22 06:00
-- Location: New Zealand Herald
-- Description: How to explore Birmingham, home to TV’s notorious Shelby family.
-
-Analysis generated at: Mon Mar 23 07:03:50 UTC 2026
+Analysis generated at: Mon Mar 23 12:54:28 UTC 2026
