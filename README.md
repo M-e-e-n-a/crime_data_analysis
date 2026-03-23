@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Mar 22 18:29:59 UTC 2026
+Last updated: Mon Mar 23 01:48:28 UTC 2026
 
 ## Latest Analysis
 
-Loaded 95241 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-21 18:24:17
+Loaded 95247 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-22 01:38:45
 
 Incidents by source:
 source
-newsapi           95140
+newsapi           95146
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,31 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2026-03-21 18:24
-- Location: CBC News
-- Description: Police in Richmond, B.C., are investigating after a series of meat thefts from retail stores that they say may be "organized" crime.
+### OTHER on 2026-03-22 01:38
+- Location: New York Post
+- Description: The California Post visited dozens of anxious and smelly but cute animals Saturday from the massive Lake Hughes rescue operation at a Los Angeles animal control care center — as the alleged animal hoarder who took care of them disputes she did anything wrong.
 
 
-### OTHER on 2026-03-21 18:09
-- Location: CBM (Comic Book Movie)
-- Description: A new adult animated adaptation of Brian Michael Bendis' long-running Dark Horse comic series, Powers, is in development for Netflix...
+### OTHER on 2026-03-22 01:24
+- Location: Abcnews.com
+- Description: The Milford Police Department adopted lost pup, Lil’ Craig, to be a cherished member of the department in his forever home.
 
 
-### OTHER on 2026-03-21 18:08
-- Location: The Punch
-- Description: A civic group reaffirms confidence in IGP Olatunji Disu, urging public support for ongoing police reforms in Nigeria to enhance trust and security.
-
-Read More: https://punchng.com/group-reaffirms-confidence-in-ig-urges-support-for-police-reforms/
+### OTHER on 2026-03-22 00:30
+- Location: Screen Rant
+- Description: Rotten Tomatoes is the ultimate arbiter of modern television, and these 10 Netflix original series have accrued perfect critical scores on the site.
 
 
-### HOMICIDE on 2026-03-21 18:00
-- Location: Fox News
-- Description: Prosecutor who called Sarah Jo Pender 'female Charles Manson' now doubts her murder conviction. A new true crime docuseries explores the controversial case.
+### OTHER on 2026-03-22 00:28
+- Location: Abcnews.com
+- Description: ABC's Andrew Dymburt with newly released footage of the police stop and field sobriety test of pop star Justin Timberlake before being booked in 2024 for alleged DWI.
 
 
-### ROBBERY/THEFT on 2026-03-21 18:00
-- Location: Allthatsinteresting.com
-- Description: Discover the stories behind the biggest heists in history, whether the perpetrators were eventually captured or the case remains bafflingly unsolved to this day.
-The post 7 Of History’s Most Unbelievable Heists, From D.B. Cooper To The Lufthansa Robbery appea…
+### ASSAULT on 2026-03-22 00:05
+- Location: TheJournal.ie
+- Description: Recently, The Journal travelled to Interpol in Lyon to hear from experts fighting the scammers.
 
-Analysis generated at: Sun Mar 22 18:29:59 UTC 2026
+Analysis generated at: Mon Mar 23 01:48:28 UTC 2026
