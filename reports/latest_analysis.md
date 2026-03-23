@@ -1,10 +1,10 @@
 
-Loaded 95250 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-22 02:14:08
+Loaded 95265 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-22 06:50:21
 
 Incidents by source:
 source
-newsapi           95149
+newsapi           95164
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-03-22 02:14
+### HOMICIDE on 2026-03-22 06:50
+- Location: New Zealand Herald
+- Description: Police most recently confirmed a death in a Bay of Plenty crash this afternoon.
+
+
+### OTHER on 2026-03-22 06:45
+- Location: Protothema.gr
+- Description: More than 300 works were found in his gallery, of which only 7 are estimated to be genuine - 200,000 euros in cash were found
+The post How the police investigation into Giorgos Tsagkarakis began – Anonymous tip, says Dimoglidi – See photos of the fake paintin…
+
+
+### HOMICIDE on 2026-03-22 06:29
 - Location: The Times of India
-- Description: A man's tragic death in a malfunctioning hospital lift could have been prevented, police told a court. Lift operators and guards allegedly neglected their duties, leading to the fatal incident. Five individuals have been arrested and remanded in custody as in…
+- Description: Dhurandhar 2 captivates audiences with villains inspired by real figures. Characters like Major Iqbal, SP Chaudhary Aslam, Rehman Dakait, Uzair Baloch, Bade Sahab, and Javed Khanani draw from notorious criminals and operatives. These portrayals reflect real-w…
 
 
-### OTHER on 2026-03-22 02:00
-- Location: NBC News
-- Description: The Guthrie family on Saturday evening expressed their gratitude to the Tucson community where their missing mother Nancy lived before her disappearance and suspected abduction seven weeks ago
+### OTHER on 2026-03-22 06:00
+- Location: The Irish Times
+- Description: Mike Quill’s friend Dr Martin Luther King said he fought for Irish independence, labour organisation and racial equality
 
 
-### HOMICIDE on 2026-03-22 01:58
-- Location: Fox News
-- Description: Authorities arrest a Venezuelan migrant following the shooting death of Loyola University Chicago student Sheridan Gorman, who was killed near campus.
+### OTHER on 2026-03-22 06:00
+- Location: New Zealand Herald
+- Description: How to explore Birmingham, home to TV’s notorious Shelby family.
 
-
-### OTHER on 2026-03-22 01:38
-- Location: New York Post
-- Description: The California Post visited dozens of anxious and smelly but cute animals Saturday from the massive Lake Hughes rescue operation at a Los Angeles animal control care center — as the alleged animal hoarder who took care of them disputes she did anything wrong.
-
-
-### OTHER on 2026-03-22 01:24
-- Location: Abcnews.com
-- Description: The Milford Police Department adopted lost pup, Lil’ Craig, to be a cherished member of the department in his forever home.
-
-Analysis generated at: Mon Mar 23 02:43:17 UTC 2026
+Analysis generated at: Mon Mar 23 07:03:50 UTC 2026
