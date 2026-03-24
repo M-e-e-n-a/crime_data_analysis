@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Mar 24 02:34:34 UTC 2026
+Last updated: Tue Mar 24 06:58:45 UTC 2026
 
 ## Latest Analysis
 
-Loaded 95335 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-23 02:32:39
+Loaded 95369 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-23 06:55:00
 
 Incidents by source:
 source
-newsapi           95234
+newsapi           95268
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2026-03-23 02:32
-- Location: The Times of India
-- Description: A 21-year-old woman is in critical condition after a suspected hit-and-run on the NSW Mid-North Coast. A 17-year-old boy has been charged with multiple offences, including failing to stop and assist, and causing grievous bodily harm. He was refused bail and w…
+### OTHER on 2026-03-23 06:55
+- Location: DW (English)
+- Description: After seemingly switching sides, a pro-government blogger in Russia who criticized President Vladimir Putin has been admitted to psychiatric care in St. Petersburg. Did he go rogue?
 
 
-### HOMICIDE on 2026-03-23 02:31
-- Location: The Indian Express
-- Description: RG Kar hospital lift death probe centres on safety lapses and machine room access as police investigate delays and arrest five staff in Kolkata.
+### OTHER on 2026-03-23 06:43
+- Location: BBC News
+- Description: The vehicles belonged to Hatzolah, a volunteer Jewish organisation that responds to medical emergencies.
 
 
-### SHOOTING on 2026-03-23 02:07
-- Location: Freerepublic.com
-- Description: MONTROSE, W.Va. — Two West Virginia men face felony charges after authorities said one of them shot his younger brother multiple times at a home in Randolph County on Feb. 12, and the other helped restrain the wounded man as he tried to get away. Investigator…
+### ASSAULT on 2026-03-23 06:36
+- Location: DW (English)
+- Description: British police have launched an investigation into an apparent arson attack on ambulances belonging to a Jewish emergency service in London, treating it as a hate crime.
 
 
-### HOMICIDE on 2026-03-23 01:54
-- Location: New York Post
-- Description: Jose Medina, 25, allegedly executed 18-year-old Sheridan Gorman while she was walking along the pier at Chicago's Tobey Prinz Beach on Thursday morning.
+### ASSAULT on 2026-03-23 06:28
+- Location: Abcnews.com
+- Description: Police in London are investigating a suspected antisemitic hate crime attack after four vehicles belonging to a Jewish ambulance service were set on fire
 
 
-### HOMICIDE on 2026-03-23 01:45
-- Location: The Times of India
-- Description: A 36-year-old woman and her 21-year-old lover have been arrested for allegedly murdering her 69-year-old mother-in-law in Nishatganj, Lucknow. Police state an illicit relationship and family opposition were the motives. The duo reportedly tied the victim and …
+### OTHER on 2026-03-23 06:08
+- Location: The Punch
+- Description: The Nigerian Navy reports the illegal petroleum interception of 44,000 litres and the arrest of eight suspects in Rivers under Operation DELTA SENTINEL.
 
-Analysis generated at: Tue Mar 24 02:34:34 UTC 2026
+Read More: https://punchng.com/navy-intercepts-illegally-refined-petroleum-products-arrests-eight-suspect…
+
+Analysis generated at: Tue Mar 24 06:58:45 UTC 2026
