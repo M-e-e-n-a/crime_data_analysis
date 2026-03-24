@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Mar 24 06:58:45 UTC 2026
+Last updated: Tue Mar 24 12:59:13 UTC 2026
 
 ## Latest Analysis
 
-Loaded 95369 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-23 06:55:00
+Loaded 95425 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-23 12:45:00
 
 Incidents by source:
 source
-newsapi           95268
+newsapi           95324
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,30 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-03-23 06:55
-- Location: DW (English)
-- Description: After seemingly switching sides, a pro-government blogger in Russia who criticized President Vladimir Putin has been admitted to psychiatric care in St. Petersburg. Did he go rogue?
+### OTHER on 2026-03-23 12:45
+- Location: Hyperallergic
+- Description: “The ministry reportedly took issue with Duwaji’s animation Eyes on Jenin (2025), a work that linked police brutality against pro-Palestinian protesters to Israel’s genocide in Gaza.” – Hyperallergic
 
 
-### OTHER on 2026-03-23 06:43
-- Location: BBC News
-- Description: The vehicles belonged to Hatzolah, a volunteer Jewish organisation that responds to medical emergencies.
+### SHOOTING on 2026-03-23 12:35
+- Location: Ibtimes.com.au
+- Description: SYDNEY — Australia's civilian firearm ownership reached a record high of over 4.1 million registered guns in 2025, according to Department of Home Affairs data released in January 2026, surpassing pre-1996 Port Arthur massacre levels despite strict post-1996 …
 
 
-### ASSAULT on 2026-03-23 06:36
-- Location: DW (English)
-- Description: British police have launched an investigation into an apparent arson attack on ambulances belonging to a Jewish emergency service in London, treating it as a hate crime.
+### OTHER on 2026-03-23 12:30
+- Location: Screen Rant
+- Description: A hit UK crime drama is returning after 5 years to right the wrongs of its final episode, a feat that Dexter has managed not once, but twice.
 
 
-### ASSAULT on 2026-03-23 06:28
-- Location: Abcnews.com
-- Description: Police in London are investigating a suspected antisemitic hate crime attack after four vehicles belonging to a Jewish ambulance service were set on fire
+### OTHER on 2026-03-23 12:24
+- Location: The Conversation Africa
+- Description: If President Trump gets his way, the future of the US and Cuba will look very much like a partnership of unequals.
 
 
-### OTHER on 2026-03-23 06:08
-- Location: The Punch
-- Description: The Nigerian Navy reports the illegal petroleum interception of 44,000 litres and the arrest of eight suspects in Rivers under Operation DELTA SENTINEL.
+### OTHER on 2026-03-23 12:20
+- Location: Newser
+- Description: Four ambulances belonging to a Jewish volunteer emergency service in north London were torched before dawn Monday in what police are treating as an antisemitic hate crime. The vehicles, owned by the Hatzola Northwest nonprofit and parked in the Golders Green …
 
-Read More: https://punchng.com/navy-intercepts-illegally-refined-petroleum-products-arrests-eight-suspect…
-
-Analysis generated at: Tue Mar 24 06:58:45 UTC 2026
+Analysis generated at: Tue Mar 24 12:59:13 UTC 2026
