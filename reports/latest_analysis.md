@@ -1,10 +1,10 @@
 
-Loaded 95321 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-22 18:42:53
+Loaded 95328 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-23 01:01:05
 
 Incidents by source:
 source
-newsapi           95220
+newsapi           95227
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,34 @@ bution.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2026-03-22 18:42
-- Location: ABC News (AU)
-- Description: Threats like economic shocks and cyber attacks were considered most likely, but nearly half of Australians expect foreign military action on Australian soil.
+### ASSAULT on 2026-03-23 01:01
+- Location: Fox News
+- Description: "The Bachelorette" alum James McCoy Taylor was arrested for allegedly failing to pay court-mandated fines from his 2024 assault case.
 
 
-### OTHER on 2026-03-22 18:38
-- Location: New York Post
-- Description: The suspect is accused of pumping the liquid gold into tanks hidden in his truck.
-
-
-### OTHER on 2026-03-22 18:37
+### OTHER on 2026-03-23 00:42
 - Location: Freerepublic.com
-- Description: 3,000 Jewish children vanished from the face of Nazi-occupied Europe. They weren't deported. They weren't found in concentration camps. They simply evaporated. And the most unlikely place on earth became the perfect hiding spot: a small Protestant village in …
+- Description: OZARK, Ala. (WPEC) — An Alabama police officer discovered a Florida man hauling 81 gallons of moonshine during a routine traffic stop, an amount authorities say far exceeds what can legally be transported without a license. The Ozark Police Department said Of…
 
 
-### ROBBERY/THEFT on 2026-03-22 18:17
-- Location: CBC News
-- Description: Winnipeg police say they've arrested the alleged leader of a retail theft crime ring, accusing him of having a hand in recruiting several shoplifters to steal brand-name power tools.
+### OTHER on 2026-03-23 00:37
+- Location: The Punch
+- Description: The Inspector General of Police has ordered a reduction in police tactical teams nationwide to enhance supervision, improve accountability, and reduce comp
+
+Read More: https://punchng.com/ig-reduces-tactical-teams-to-boost-supervision-deployment/
 
 
-### OTHER on 2026-03-22 18:12
-- Location: Abcnews.com
-- Description: ABC News' Tom Soufi Burridge reports from southern Israel, where officials say an Iranian strike on the city of Arad left dozens of people injured.
+### ROBBERY/THEFT on 2026-03-23 00:06
+- Location: The Punch
+- Description: Anambra State Police Command announces the arrest of three suspected armed robbers and cultists, recovering firearms and a stolen petrol tanker in Ogidi.
 
-Analysis generated at: Mon Mar 23 18:45:13 UTC 2026
+Read More: https://punchng.com/three-suspected-armed-robbers-nabbed-stolen-tanker-recovered-in-anambra/
+
+
+### HOMICIDE on 2026-03-23 00:06
+- Location: The Punch
+- Description: An Ondo man, Alabi Anthony, 21, was arrested by police for the alleged rape and murder of a woman. The suspect confessed after being tracked with the victi
+
+Read More: https://punchng.com/21-year-old-ondo-man-arrested-for-alleged-rape-murder/
+
+Analysis generated at: Tue Mar 24 01:28:45 UTC 2026
