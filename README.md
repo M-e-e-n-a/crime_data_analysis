@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Mar 24 12:59:13 UTC 2026
+Last updated: Tue Mar 24 13:23:41 UTC 2026
 
 ## Latest Analysis
 
-Loaded 95425 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-23 12:45:00
+Loaded 95426 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-23 13:22:14
 
 Incidents by source:
 source
-newsapi           95324
+newsapi           95325
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -23,6 +23,11 @@ bution.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### OTHER on 2026-03-23 13:22
+- Location: Variety
+- Description: A series spin on a beloved bilingual crime-comedy classic (“Bon Cop, Bad Cop”), buried secrets and power games in a Canada-U.S. border town (“Prescott”), plus two psychological thrillers created by writer Simon Boulerice (“Getting Under Your Skin,” “Take Care…
+
 
 ### OTHER on 2026-03-23 12:45
 - Location: Hyperallergic
@@ -43,9 +48,4 @@ bution.svg)
 - Location: The Conversation Africa
 - Description: If President Trump gets his way, the future of the US and Cuba will look very much like a partnership of unequals.
 
-
-### OTHER on 2026-03-23 12:20
-- Location: Newser
-- Description: Four ambulances belonging to a Jewish volunteer emergency service in north London were torched before dawn Monday in what police are treating as an antisemitic hate crime. The vehicles, owned by the Hatzola Northwest nonprofit and parked in the Golders Green …
-
-Analysis generated at: Tue Mar 24 12:59:13 UTC 2026
+Analysis generated at: Tue Mar 24 13:23:41 UTC 2026
