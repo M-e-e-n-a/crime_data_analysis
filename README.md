@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Mar 24 13:23:41 UTC 2026
+Last updated: Tue Mar 24 18:56:01 UTC 2026
 
 ## Latest Analysis
 
-Loaded 95426 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-23 13:22:14
+Loaded 95502 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-23 18:55:35
 
 Incidents by source:
 source
-newsapi           95325
+newsapi           95401
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-03-23 13:22
-- Location: Variety
-- Description: A series spin on a beloved bilingual crime-comedy classic (“Bon Cop, Bad Cop”), buried secrets and power games in a Canada-U.S. border town (“Prescott”), plus two psychological thrillers created by writer Simon Boulerice (“Getting Under Your Skin,” “Take Care…
+### OTHER on 2026-03-23 18:55
+- Location: Koreaboo.com
+- Description: The police have provided an update on their investigation of Bang Si Hyuk, the Chairman of HYBE. On the 23rd, Park Jung Bo, chief of the Seoul Metropolitan Police Agency,…
 
 
-### OTHER on 2026-03-23 12:45
-- Location: Hyperallergic
-- Description: “The ministry reportedly took issue with Duwaji’s animation Eyes on Jenin (2025), a work that linked police brutality against pro-Palestinian protesters to Israel’s genocide in Gaza.” – Hyperallergic
+### OTHER on 2026-03-23 18:49
+- Location: ComicBook.com
+- Description: Video game publisher Electronic Arts has announced that it will be shutting down a game from one of its biggest franchises in just a few short months. Over the past year, EA has been shutting down numerous games across mobile, PC, and console platforms. While…
 
 
-### SHOOTING on 2026-03-23 12:35
-- Location: Ibtimes.com.au
-- Description: SYDNEY — Australia's civilian firearm ownership reached a record high of over 4.1 million registered guns in 2025, according to Department of Home Affairs data released in January 2026, surpassing pre-1996 Port Arthur massacre levels despite strict post-1996 …
-
-
-### OTHER on 2026-03-23 12:30
-- Location: Screen Rant
-- Description: A hit UK crime drama is returning after 5 years to right the wrongs of its final episode, a feat that Dexter has managed not once, but twice.
-
-
-### OTHER on 2026-03-23 12:24
+### OTHER on 2026-03-23 18:48
 - Location: The Conversation Africa
-- Description: If President Trump gets his way, the future of the US and Cuba will look very much like a partnership of unequals.
+- Description: A researcher answers the question many asked when they heard charges of abuse and rape against civil rights icon Cesar Chavez: Why didn’t the women speak earlier about the events from decades ago?
 
-Analysis generated at: Tue Mar 24 13:23:41 UTC 2026
+
+### OTHER on 2026-03-23 18:48
+- Location: The Conversation Africa
+- Description: A researcher answers the question many asked when they heard charges of abuse and rape against civil rights icon Cesar Chavez: Why didn’t the women speak earlier about the events from decades ago?
+
+
+### ROBBERY/THEFT on 2026-03-23 18:44
+- Location: CBC News
+- Description: Peel police have recovered $800,000 worth of stolen vehicles as part of a bust targeting an auto-theft ring believed to be selling stolen vehicles overseas, investigators say. Six people are now facing charges, police announced Monday at a news conference.
+
+Analysis generated at: Tue Mar 24 18:56:01 UTC 2026
