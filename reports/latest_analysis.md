@@ -1,10 +1,10 @@
 
-Loaded 95528 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-24 02:39:43
+Loaded 95554 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-24 06:53:00
 
 Incidents by source:
 source
-newsapi           95427
+newsapi           95453
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-03-24 02:39
+### OTHER on 2026-03-24 06:53
 - Location: ABC News (AU)
-- Description: Anthony Monteleone allegedly intended to kill his former girlfriend after realising his repeated, unwelcome attempts to persuade her against ending their short-term relationship were futile, a jury has heard.
+- Description: An alleged fuel thief accused of seriously injuring a Perth petrol station worker in a hit-and-run is told he will likely go to prison if convicted of the "extremely serious" charges.
 
 
-### HOMICIDE on 2026-03-24 02:39
-- Location: Yahoo Entertainment
-- Description: Police are investigating how Webber could have fired a weapon and driven a car during the alleged murder
+### HOMICIDE on 2026-03-24 06:52
+- Location: Globalresearch.ca
+- Description: Apparently, even athletes are being targeted by the Kiev neo-Nazi regime. Recently, Russian citizens were readmitted to the Paralympics, returning to compete under the Russian flag. This angered the Ukrainian regime authorities, who reacted by including at le…
 
 
-### HOMICIDE on 2026-03-24 02:39
-- Location: CBS News
-- Description: Dayton James Webber, a quadruple amputee and professional cornhole player, was arrested and charged with murder in Maryland.
+### HOMICIDE on 2026-03-24 06:30
+- Location: Newser
+- Description: A Maryland athlete who built a national profile after his arms and legs were amputated when he was a baby is now charged with murder, Fox 5 DC reports. Authorities say 27-year-old professional cornhole player Dayton James Webber, a quadruple amputee from La P…
 
 
-### HOMICIDE on 2026-03-24 02:35
-- Location: The Times of India
-- Description: A 23-year-old woman and a teacher have been arrested for allegedly strangling her husband in Rajasthan's Balotra district. The victim, 21-year-old Mahendra Meghwal, was found dead at his home after a reported argument. Police detained the accused after they c…
+### SHOOTING on 2026-03-24 06:22
+- Location: Abcnews.com
+- Description: A U.S. Park Police officer was seriously wounded Monday evening in Washington in what law enforcement officials called an ambush
 
 
-### SHOOTING on 2026-03-24 02:34
-- Location: New York Post
-- Description: The officer was taken by a police helicopter to a local hospital in non-life-threatening condition, the department added.
+### HOMICIDE on 2026-03-24 06:11
+- Location: ABC News (AU)
+- Description: Leeanne Eatts is alleged to have omitted her duty to supervise the children who drowned in a river.
 
-Analysis generated at: Wed Mar 25 02:40:00 UTC 2026
+Analysis generated at: Wed Mar 25 06:56:56 UTC 2026
