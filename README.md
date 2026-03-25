@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Mar 25 13:22:56 UTC 2026
+Last updated: Wed Mar 25 18:49:48 UTC 2026
 
 ## Latest Analysis
 
-Loaded 95642 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-24 13:21:31
+Loaded 95732 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-24 18:48:28
 
 Incidents by source:
 source
-newsapi           95541
+newsapi           95631
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-03-24 13:21
-- Location: BroBible
-- Description: The story of Dayton Webber was once an uplifting one. At 10 months old, doctors gave him just a three percent chance to live. Doctors were forced to amputate both of his arms and legs to stop a deadly infection from spreading. Webber proceeded to beat the odd…
+### OTHER on 2026-03-24 18:48
+- Location: ComingSoon.net
+- Description: One of Paramount+‘s long-running crime dramas has finally been renewed, ahead of the TV show’s return this year. Over two decades since the original’s inception, Criminal Minds: Evolution is officially coming back for Season 20. “The series follows the FBI’s …
 
 
-### ASSAULT on 2026-03-24 13:19
-- Location: CBS News
-- Description: A shadowy group claiming antisemitic attacks in Europe amid the Iran war tells CBS News it will target "U.S. and Israeli interests worldwide."
+### ASSAULT on 2026-03-24 18:47
+- Location: Decrypt
+- Description: Aleksei Volkov facilitated dozens of attacks across the U.S. as an "initial access broker," causing over $9 million in actual losses.
 
 
-### OTHER on 2026-03-24 13:19
-- Location: Statetimes.in
-- Description: TRAFFIC POLICE HEADQUARTERS, J&K, JAMMU/SRINAGARTRAFFIC PLAN & ADVISORY FOR 25-03-2026:-From 23-03-2026, 1600 hrs. to 24-03-2026, 1600 hrs., there was slow movement observed on NH-44 due to single lane traffic between Marog and Kishtwari Pather, In addition t…
+### HOMICIDE on 2026-03-24 18:47
+- Location: ABC News (AU)
+- Description: The Home Affairs Minister says Australia was "so lucky" to avoid mass casualties during the attempted Australia Day bomb attack in Perth and admits the nation was slow to recognise the gravity of the alleged terrorist act.
 
 
-### HOMICIDE on 2026-03-24 13:14
-- Location: Ibtimes.com.au
-- Description: A 27-year-old quadruple amputee who rose from a life-threatening childhood infection to become a professional cornhole champion and an ESPN-profiled inspiration is now facing first- and second-degree murder charges in the fatal shooting of a man during an arg…
+### SHOOTING on 2026-03-24 18:41
+- Location: KTRK-TV
+- Description: In a video obtained by ABC13, the bloodied man can be seen shouting for help multiple times while banging on someone's door. Police said the man knocked on...
 
 
-### OTHER on 2026-03-24 13:11
-- Location: RTE
-- Description: Graham Norton and Philippa Dunne are among the Irish nominees at this year's BAFTA Television Awards, where Adolescence leads the field.
+### ASSAULT on 2026-03-24 18:38
+- Location: Fox News
+- Description: Kimberly Sullivan, accused of holding her stepson captive for decades in a Connecticut home, now faces additional kidnapping and assault charges.
 
-Analysis generated at: Wed Mar 25 13:22:56 UTC 2026
+Analysis generated at: Wed Mar 25 18:49:48 UTC 2026
