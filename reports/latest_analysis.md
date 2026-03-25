@@ -1,10 +1,10 @@
 
-Loaded 95502 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-23 18:55:35
+Loaded 95521 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-24 01:45:31
 
 Incidents by source:
 source
-newsapi           95401
+newsapi           95420
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-03-23 18:55
-- Location: Koreaboo.com
-- Description: The police have provided an update on their investigation of Bang Si Hyuk, the Chairman of HYBE. On the 23rd, Park Jung Bo, chief of the Seoul Metropolitan Police Agency,…
+### SHOOTING on 2026-03-24 01:45
+- Location: Abcnews.com
+- Description: A U.S. Park Police officer was shot in Washington, D.C., while on duty, according to a statement from the agency.
 
 
-### OTHER on 2026-03-23 18:49
-- Location: ComicBook.com
-- Description: Video game publisher Electronic Arts has announced that it will be shutting down a game from one of its biggest franchises in just a few short months. Over the past year, EA has been shutting down numerous games across mobile, PC, and console platforms. While…
-
-
-### OTHER on 2026-03-23 18:48
-- Location: The Conversation Africa
-- Description: A researcher answers the question many asked when they heard charges of abuse and rape against civil rights icon Cesar Chavez: Why didn’t the women speak earlier about the events from decades ago?
-
-
-### OTHER on 2026-03-23 18:48
-- Location: The Conversation Africa
-- Description: A researcher answers the question many asked when they heard charges of abuse and rape against civil rights icon Cesar Chavez: Why didn’t the women speak earlier about the events from decades ago?
-
-
-### ROBBERY/THEFT on 2026-03-23 18:44
+### OTHER on 2026-03-24 01:44
 - Location: CBC News
-- Description: Peel police have recovered $800,000 worth of stolen vehicles as part of a bust targeting an auto-theft ring believed to be selling stolen vehicles overseas, investigators say. Six people are now facing charges, police announced Monday at a news conference.
+- Description: The U.S. Senate confirmed Markwayne Mullin as homeland security secretary late Monday, approving President Donald Trump's nominee to take over the embattled department after the firing of Kristi Noem.
 
-Analysis generated at: Tue Mar 24 18:56:01 UTC 2026
+
+### HOMICIDE on 2026-03-24 01:31
+- Location: Buzzfeed
+- Description: "It scares me to know that that guy is still out there free."View Entire Post ›
+
+
+### SHOOTING on 2026-03-24 01:21
+- Location: Fox News
+- Description: A US Park Police officer was shot in SE Washington, D.C., and is critically wounded, with FBI Director Kash Patel vowing to find those responsible.
+
+
+### OTHER on 2026-03-24 01:19
+- Location: Freerepublic.com
+- Description: if a North Side state legislator gets her way, Illinois police will soon be barred from using any facial recognition database, including the Secretary of State’s, to do their work ever again. The bill is called the Illinois Biometric Surveillance Act, and it’…
+
+Analysis generated at: Wed Mar 25 01:46:10 UTC 2026
