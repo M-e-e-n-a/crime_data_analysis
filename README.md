@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Mar 25 18:49:48 UTC 2026
+Last updated: Thu Mar 26 01:52:08 UTC 2026
 
 ## Latest Analysis
 
-Loaded 95732 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-24 18:48:28
+Loaded 95748 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-25 01:36:38
 
 Incidents by source:
 source
-newsapi           95631
+newsapi           95647
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-03-24 18:48
-- Location: ComingSoon.net
-- Description: One of Paramount+‘s long-running crime dramas has finally been renewed, ahead of the TV show’s return this year. Over two decades since the original’s inception, Criminal Minds: Evolution is officially coming back for Season 20. “The series follows the FBI’s …
+### OTHER on 2026-03-25 01:36
+- Location: USA Today
+- Description: UNC basketball's 'national search' for Hubert Davis' replacement may include some of the sport's biggest names.
 
 
-### ASSAULT on 2026-03-24 18:47
-- Location: Decrypt
-- Description: Aleksei Volkov facilitated dozens of attacks across the U.S. as an "initial access broker," causing over $9 million in actual losses.
-
-
-### HOMICIDE on 2026-03-24 18:47
+### OTHER on 2026-03-25 01:20
 - Location: ABC News (AU)
-- Description: The Home Affairs Minister says Australia was "so lucky" to avoid mass casualties during the attempted Australia Day bomb attack in Perth and admits the nation was slow to recognise the gravity of the alleged terrorist act.
+- Description: A 55-year-old public servant is accused of illegally offering a social housing tenancy to her intimate partner, allowing them to bypass a large number of applicants who were on the social housing waitlist.
 
 
-### SHOOTING on 2026-03-24 18:41
-- Location: KTRK-TV
-- Description: In a video obtained by ABC13, the bloodied man can be seen shouting for help multiple times while banging on someone's door. Police said the man knocked on...
+### ASSAULT on 2026-03-25 01:00
+- Location: Consequence.net
+- Description: In the Disney+ series' return, Charlie Cox dishes out plenty of TV-MA-rated beatings. 
+Daredevil: Born Again Fights the Man In Timely, Bone-Crunching Season 2: Review
+Liz Shannon Miller
 
 
-### ASSAULT on 2026-03-24 18:38
-- Location: Fox News
-- Description: Kimberly Sullivan, accused of holding her stepson captive for decades in a Connecticut home, now faces additional kidnapping and assault charges.
+### HOMICIDE on 2026-03-25 00:54
+- Location: CBC News
+- Description: A man wanted for first-degree murder in a shooting two years ago has been arrested in Mississippi, Toronto police say
 
-Analysis generated at: Wed Mar 25 18:49:48 UTC 2026
+
+### HOMICIDE on 2026-03-25 00:53
+- Location: Rpnradio.com
+- Description: BACOLOD CITY – A Special Investigation Task Group (SITG) is now spearheading an investigation into the killing of a community radio block timer, who was shot and killed on March 20 by a still unidentified gunman at Sitio Lapak Kawayanan in Barangay Robles, La…
+
+Analysis generated at: Thu Mar 26 01:52:08 UTC 2026
