@@ -1,10 +1,10 @@
 
-Loaded 95864 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-25 13:00:50
+Loaded 95871 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-25 13:27:29
 
 Incidents by source:
 source
-newsapi           95763
+newsapi           95770
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-03-25 13:00
-- Location: Opiniojuris.org
-- Description: [Muhammad Tanvir Hashem Munim is a Barrister of Lincoln’s Inn, a Counsel of the International Criminal Court, an Advocate of the Appellate Division of the Supreme Court of Bangladesh, and a defence counsel at the International Crimes Tribunal – Bangladesh (IC…
+### HOMICIDE on 2026-03-25 13:27
+- Location: The-independent.com
+- Description: Ten-year-old Damilola Taylor, who was friends with Boyega, was fatally stabbed in south-east London in 2000
 
 
-### HOMICIDE on 2026-03-25 13:00
-- Location: Israelnationalnews.com
-- Description: The judges rejected the defendant's claims of mental distress and a purely personal background, and held that he acted with intent to kill a police officer for nationalist motives and to create fear among the public.
+### OTHER on 2026-03-25 13:25
+- Location: Bitcoinfoundation.org
+- Description: Ireland’s Criminal Assets Bureau (CAB), in cooperation with Europol, has gained access to one of 12 Bitcoin wallets linked to convicted criminal Clifton Collins. On...
+The post Irish Police Gain Access to Criminal’s Bitcoin Wallet appeared first on Bitcoin Fo…
 
 
-### OTHER on 2026-03-25 12:56
-- Location: The Star Online
-- Description: KUALA LUMPUR: The 219th Police Day celebration was held nationwide on Wednesday (March 25) in an atmosphere of respect and patriotic spirit, in appreciation of the services and sacrifices of the Royal Malaysia Police (PDRM), which has safeguarded the nation's…
+### HOMICIDE on 2026-03-25 13:21
+- Location: The Indian Express
+- Description: Why is Scheduled Caste status for Hindus, Sikhs, and Buddhists relevant to the UPSC exam? What is the significance of topics such as the women in the Indian Armed Forces, cervical cancer, and plea bargaining on both the preliminary and main exams? You can lea…
 
 
-### OTHER on 2026-03-25 12:49
+### HOMICIDE on 2026-03-25 13:12
 - Location: The Times of India
-- Description: Mrithyunjay, starring Sree Vishnu and Reba Monica John, is expected to make its OTT debut soon after a decent theatrical run. The film’s digital rights have been acquired by Netflix, and it is likely to start streaming soon, although an official confirmation …
+- Description: NCP (SP) MLA Rohit Pawar has alleged a conspiracy to take over the NCP following Ajit Pawar's death. He claims senior leaders Praful Patel and Sunil Tatkare attempted to give sweeping powers to the working president. Rohit Pawar presented letters to the Elect…
 
 
-### OTHER on 2026-03-25 12:43
-- Location: Fox News
-- Description: Dennis Coyle, a 64-year-old American man held by the Taliban in Afghanistan for more than a year without charges, landed on U.S. soil on Wednesday.
+### SHOOTING on 2026-03-25 13:08
+- Location: Freerepublic.com
+- Description: Roughly 800 teenagers took over a $4.8 million Texas mansion rented on Airbnb – sparking brawls and gunshots that turned the quiet getaway into a chaotic, pop-up frenzy. Property owner Kishore Karlapudi claimed he was duped by the rowdy youngsters who booked …
 
-Analysis generated at: Thu Mar 26 13:01:38 UTC 2026
+Analysis generated at: Thu Mar 26 13:29:13 UTC 2026
