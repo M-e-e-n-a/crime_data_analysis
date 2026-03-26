@@ -1,10 +1,10 @@
 
-Loaded 95871 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-25 13:27:29
+Loaded 95969 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-25 18:58:17
 
 Incidents by source:
 source
-newsapi           95770
+newsapi           95868
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-03-25 13:27
-- Location: The-independent.com
-- Description: Ten-year-old Damilola Taylor, who was friends with Boyega, was fatally stabbed in south-east London in 2000
+### OTHER on 2026-03-25 18:58
+- Location: Reason
+- Description: From the Introduction to an amicus brief filed by Gill Sperlein and Ronnie London (the Foundation for Individual Rights and…
+The post Brief Challenging California Law Banning Publication of Information About Sealed Arrests appeared first on Reason.com.
 
 
-### OTHER on 2026-03-25 13:25
-- Location: Bitcoinfoundation.org
-- Description: Ireland’s Criminal Assets Bureau (CAB), in cooperation with Europol, has gained access to one of 12 Bitcoin wallets linked to convicted criminal Clifton Collins. On...
-The post Irish Police Gain Access to Criminal’s Bitcoin Wallet appeared first on Bitcoin Fo…
-
-
-### HOMICIDE on 2026-03-25 13:21
+### ROBBERY/THEFT on 2026-03-25 18:49
 - Location: The Indian Express
-- Description: Why is Scheduled Caste status for Hindus, Sikhs, and Buddhists relevant to the UPSC exam? What is the significance of topics such as the women in the Indian Armed Forces, cervical cancer, and plea bargaining on both the preliminary and main exams? You can lea…
+- Description: CAG observes FSL reports in 12 cases pending for 23 years; application to magistrate in some cases not filed for 6 years; drugs disposal pending for 31 years
 
 
-### HOMICIDE on 2026-03-25 13:12
-- Location: The Times of India
-- Description: NCP (SP) MLA Rohit Pawar has alleged a conspiracy to take over the NCP following Ajit Pawar's death. He claims senior leaders Praful Patel and Sunil Tatkare attempted to give sweeping powers to the working president. Rohit Pawar presented letters to the Elect…
+### SHOOTING on 2026-03-25 18:39
+- Location: NBC News
+- Description: A Florida woman pleaded not guilty Wednesday to charges that she opened fire on Rihanna’s Los Angeles home while the Grammy winner, her partner A$AP Rocky and their children were inside.
 
 
-### SHOOTING on 2026-03-25 13:08
-- Location: Freerepublic.com
-- Description: Roughly 800 teenagers took over a $4.8 million Texas mansion rented on Airbnb – sparking brawls and gunshots that turned the quiet getaway into a chaotic, pop-up frenzy. Property owner Kishore Karlapudi claimed he was duped by the rowdy youngsters who booked …
+### HOMICIDE on 2026-03-25 18:30
+- Location: ComicBook.com
+- Description: The volatile TV landscape has resulted in some dramatic “from-the-dead” comeback stories, proving that a cancellation in some cases is just a temporary pause. That was certainly the case for a TV show that just landed on Prime Video. All 61 episodes of the fa…
 
-Analysis generated at: Thu Mar 26 13:29:13 UTC 2026
+
+### HOMICIDE on 2026-03-25 18:25
+- Location: Islandfm.com
+- Description: A woman charged with the attempted murder of Rihanna following a shooting at the singer's home has pleaded not guilty.
+
+Analysis generated at: Thu Mar 26 18:58:53 UTC 2026
