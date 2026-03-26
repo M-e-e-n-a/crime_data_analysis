@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Mar 26 07:02:04 UTC 2026
+Last updated: Thu Mar 26 13:01:38 UTC 2026
 
 ## Latest Analysis
 
-Loaded 95777 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-25 07:00:00
+Loaded 95864 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-25 13:00:50
 
 Incidents by source:
 source
-newsapi           95676
+newsapi           95763
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-03-25 07:00
-- Location: GlobeNewswire
-- Description: Kenmare Resources plc (“Kenmare” or the “Company” or the “Group”)  25 March 2026  2025 PRELIMINARY RESULTS  Kenmare Resources plc (LSE:KMR, ISE:KMR), one...
+### OTHER on 2026-03-25 13:00
+- Location: Opiniojuris.org
+- Description: [Muhammad Tanvir Hashem Munim is a Barrister of Lincoln’s Inn, a Counsel of the International Criminal Court, an Advocate of the Appellate Division of the Supreme Court of Bangladesh, and a defence counsel at the International Crimes Tribunal – Bangladesh (IC…
 
 
-### ROBBERY/THEFT on 2026-03-25 06:51
+### HOMICIDE on 2026-03-25 13:00
+- Location: Israelnationalnews.com
+- Description: The judges rejected the defendant's claims of mental distress and a purely personal background, and held that he acted with intent to kill a police officer for nationalist motives and to create fear among the public.
+
+
+### OTHER on 2026-03-25 12:56
 - Location: The Star Online
-- Description: MELAKA: Melaka police have successfully dismantled an organised crime group known as the "Harraz Gang", believed to be the mastermind behind a string of vehicle thefts, housebreaking and robberies in the Melaka Tengah district since the beginning of this year…
+- Description: KUALA LUMPUR: The 219th Police Day celebration was held nationwide on Wednesday (March 25) in an atmosphere of respect and patriotic spirit, in appreciation of the services and sacrifices of the Royal Malaysia Police (PDRM), which has safeguarded the nation's…
 
 
-### HOMICIDE on 2026-03-25 06:34
-- Location: Abcnews.com
-- Description: A K-9 commander serving life for his wife’s 1982 murder plans to use his first parole hearing as an opening salvo to clear his name
+### OTHER on 2026-03-25 12:49
+- Location: The Times of India
+- Description: Mrithyunjay, starring Sree Vishnu and Reba Monica John, is expected to make its OTT debut soon after a decent theatrical run. The film’s digital rights have been acquired by Netflix, and it is likely to start streaming soon, although an official confirmation …
 
 
-### OTHER on 2026-03-25 06:01
-- Location: The Irish Times
-- Description: Jewish-owned ambulances are set on fire in London while Manchester mosque users stop hammer-wielding man from entering
+### OTHER on 2026-03-25 12:43
+- Location: Fox News
+- Description: Dennis Coyle, a 64-year-old American man held by the Taliban in Afghanistan for more than a year without charges, landed on U.S. soil on Wednesday.
 
-
-### ROBBERY/THEFT on 2026-03-25 05:45
-- Location: The Star Online
-- Description: SEREMBAN: Four of the 30 urns reported stolen from a memorial park in Nilai a month ago have been found, say police. Read full story
-
-Analysis generated at: Thu Mar 26 07:02:04 UTC 2026
+Analysis generated at: Thu Mar 26 13:01:38 UTC 2026
