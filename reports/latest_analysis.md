@@ -1,10 +1,10 @@
 
-Loaded 96092 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-26 13:04:41
+Loaded 96177 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-26 18:42:50
 
 Incidents by source:
 source
-newsapi           95991
+newsapi           96076
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,31 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-03-26 13:04
+### HOMICIDE on 2026-03-26 18:42
+- Location: The Daily Caller
+- Description: Officials charged an illegal alien from Honduras after an elderly veteran he allegedly shoved onto the New York subway tracks died.
+
+
+### HOMICIDE on 2026-03-26 18:40
 - Location: The Irish Times
-- Description: Police found mother of two seriously injured at a Derry property and have arrested a man (30)
+- Description: Prosecution has been making final submissions in trial of three men accused of murdering journalist in Derry
 
 
-### OTHER on 2026-03-26 12:56
-- Location: Insurance Journal
-- Description: Georgia could become the first state to require every student to be checked for weapons when arriving at a public school each day. A bill is nearing passage that would require weapons detection systems in a further reaction to a …
+### HOMICIDE on 2026-03-26 18:38
+- Location: Israelnationalnews.com
+- Description: Police confirm 18-year-old Yehuda Sherman was killed in a deliberate car ramming attack in Samaria, after suspect confessed and reenacted the act.
 
 
-### OTHER on 2026-03-26 12:52
-- Location: The Punch
-- Description: The EFCC clarifies its operation in Ilorin was not linked to the Kwara Poly protest, stating its sting operation targeted suspected internet fraudsters.
-
-Read More: https://punchng.com/efcc-denies-link-to-kwara-poly-protest-says-operation-targeted-fraud-suspe…
+### ROBBERY/THEFT on 2026-03-26 18:36
+- Location: Kotaku
+- Description: Microsoft revealed new details on Stranger Than Heaven, Hades II and Super Meat Boy 3D
 
 
-### OTHER on 2026-03-26 12:49
-- Location: MediaNama.com
-- Description: Kerala’s Cyber Operations Wing has registered a case against the X account “Laxmi N Raju (@valiant_Raju)” and issued a legal…
-The post Kerala Cyber Police serves X notice, registers FIR over AI deepfake of PM and ECI appeared first on MEDIANAMA.
+### HOMICIDE on 2026-03-26 18:25
+- Location: Daily Signal
+- Description: THE CENTER SQUARE—Former Virginia Attorney General Jason Miyares joined the family of Stephanie Minter at the state Capitol on Tuesday, calling for policy changes following... Read More
+The post Former Virginia AG, Victim’s Family Call for Immigration Enforce…
 
-
-### HOMICIDE on 2026-03-26 12:44
-- Location: CBC News
-- Description: One person is dead and another is in hospital after a morning fire on the fourth floor of a residential building near Fennell and Upper Kenilworth avenues, Hamilton police said Thursday.
-
-Analysis generated at: Fri Mar 27 13:18:06 UTC 2026
+Analysis generated at: Fri Mar 27 18:49:33 UTC 2026
