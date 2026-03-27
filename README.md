@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Mar 27 07:01:32 UTC 2026
+Last updated: Fri Mar 27 12:52:53 UTC 2026
 
 ## Latest Analysis
 
-Loaded 96020 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-26 07:00:12
+Loaded 96090 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-26 12:52:16
 
 Incidents by source:
 source
-newsapi           95919
+newsapi           95989
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,30 +24,34 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-03-26 07:00
+### OTHER on 2026-03-26 12:52
 - Location: The Punch
-- Description: The Police Community Relations Committee (PCRC) in Lagos and Ogun commends the appointment of AIG Moshood Jimoh, citing his proven track record.
+- Description: The EFCC clarifies its operation in Ilorin was not linked to the Kwara Poly protest, stating its sting operation targeted suspected internet fraudsters.
 
-Read More: https://punchng.com/pcrc-hails-jimohs-appointment-as-aig-zone-2/
-
-
-### HOMICIDE on 2026-03-26 06:44
-- Location: The Times of India
-- Description: Parents of a doctor, raped and murdered in a state-run hospital, are now campaigning for the BJP. They believe the party can end the TMC's misrule and ensure justice for their daughter and women's safety in West Bengal. The mother is contesting assembly polls…
+Read More: https://punchng.com/efcc-denies-link-to-kwara-poly-protest-says-operation-targeted-fraud-suspe…
 
 
-### HOMICIDE on 2026-03-26 06:33
-- Location: The Irish Times
-- Description: Ivanna Lisette Ortiz accused of spraying Beverly Hills home singer shares with her partner ASAP Rocky and their children with at least 20 bullets
+### OTHER on 2026-03-26 12:49
+- Location: MediaNama.com
+- Description: Kerala’s Cyber Operations Wing has registered a case against the X account “Laxmi N Raju (@valiant_Raju)” and issued a legal…
+The post Kerala Cyber Police serves X notice, registers FIR over AI deepfake of PM and ECI appeared first on MEDIANAMA.
 
 
-### OTHER on 2026-03-26 06:22
-- Location: Overdriveonline.com
-- Description: FMCSA at the Mid America Trucking Show shared a bit about its anti-fraud efforts, what owner-ops can do to keep safe, and how the agency is cracking down.
+### HOMICIDE on 2026-03-26 12:44
+- Location: CBC News
+- Description: One person is dead and another is in hospital after a morning fire on the fourth floor of a residential building near Fennell and Upper Kenilworth avenues, Hamilton police said Thursday.
 
 
-### OTHER on 2026-03-26 06:18
-- Location: BusinessLine
-- Description: "Upon verification, it was assessed that the material had the potential to mislead the public, undermine the credibility of constitutional bodies, and adversely impact the conduct of free and fair elections," the police said
+### HOMICIDE on 2026-03-26 12:44
+- Location: BBC News
+- Description: A police watchdog tells the police it should investigate its handling of the 1999 murder case.
 
-Analysis generated at: Fri Mar 27 07:01:32 UTC 2026
+
+### HOMICIDE on 2026-03-26 12:41
+- Location: Gothamist
+- Description: The Lexington Avenue-63rd Street station on the Upper East Side in May 2017
+ 
+
+The man was pushed onto the tracks at an Upper East Side station this month. [ more › ]
+
+Analysis generated at: Fri Mar 27 12:52:53 UTC 2026
