@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Mar 27 12:52:53 UTC 2026
+Last updated: Fri Mar 27 13:18:06 UTC 2026
 
 ## Latest Analysis
 
-Loaded 96090 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-26 12:52:16
+Loaded 96092 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-26 13:04:41
 
 Incidents by source:
 source
-newsapi           95989
+newsapi           95991
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -23,6 +23,16 @@ bution.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### OTHER on 2026-03-26 13:04
+- Location: The Irish Times
+- Description: Police found mother of two seriously injured at a Derry property and have arrested a man (30)
+
+
+### OTHER on 2026-03-26 12:56
+- Location: Insurance Journal
+- Description: Georgia could become the first state to require every student to be checked for weapons when arriving at a public school each day. A bill is nearing passage that would require weapons detection systems in a further reaction to a …
+
 
 ### OTHER on 2026-03-26 12:52
 - Location: The Punch
@@ -41,17 +51,4 @@ The post Kerala Cyber Police serves X notice, registers FIR over AI deepfake of 
 - Location: CBC News
 - Description: One person is dead and another is in hospital after a morning fire on the fourth floor of a residential building near Fennell and Upper Kenilworth avenues, Hamilton police said Thursday.
 
-
-### HOMICIDE on 2026-03-26 12:44
-- Location: BBC News
-- Description: A police watchdog tells the police it should investigate its handling of the 1999 murder case.
-
-
-### HOMICIDE on 2026-03-26 12:41
-- Location: Gothamist
-- Description: The Lexington Avenue-63rd Street station on the Upper East Side in May 2017
- 
-
-The man was pushed onto the tracks at an Upper East Side station this month. [ more › ]
-
-Analysis generated at: Fri Mar 27 12:52:53 UTC 2026
+Analysis generated at: Fri Mar 27 13:18:06 UTC 2026
