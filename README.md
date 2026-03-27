@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Mar 26 18:58:53 UTC 2026
+Last updated: Fri Mar 27 01:52:49 UTC 2026
 
 ## Latest Analysis
 
-Loaded 95969 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-25 18:58:17
+Loaded 95982 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-26 01:46:11
 
 Incidents by source:
 source
-newsapi           95868
+newsapi           95881
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,36 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-03-25 18:58
-- Location: Reason
-- Description: From the Introduction to an amicus brief filed by Gill Sperlein and Ronnie London (the Foundation for Individual Rights and…
-The post Brief Challenging California Law Banning Publication of Information About Sealed Arrests appeared first on Reason.com.
+### OTHER on 2026-03-26 01:46
+- Location: Vulture
+- Description: ‘Adolescence’ still has one more award show to sweep. The 2026 BAFTA TV nominations were released today. Let’s see who’s top-of-mind for the Vox ‘Gogglebox.’
 
 
-### ROBBERY/THEFT on 2026-03-25 18:49
-- Location: The Indian Express
-- Description: CAG observes FSL reports in 12 cases pending for 23 years; application to magistrate in some cases not filed for 6 years; drugs disposal pending for 31 years
+### HOMICIDE on 2026-03-26 01:39
+- Location: ABC News (AU)
+- Description: The man who police have alleged to be a "major player" in the mistaken identity kidnapping and murder of a Sydney grandfather has fronted court for the first time.
 
 
-### SHOOTING on 2026-03-25 18:39
-- Location: NBC News
-- Description: A Florida woman pleaded not guilty Wednesday to charges that she opened fire on Rihanna’s Los Angeles home while the Grammy winner, her partner A$AP Rocky and their children were inside.
+### HOMICIDE on 2026-03-26 01:24
+- Location: The Punch
+- Description: Youths in Jos protest rising Plateau insecurity after gunmen kill two in Rim Village. Protesters demand government action and state police to stop the kill
+
+Read More: https://punchng.com/plateau-youths-protest-killings-demand-state-police-for-security/
 
 
-### HOMICIDE on 2026-03-25 18:30
-- Location: ComicBook.com
-- Description: The volatile TV landscape has resulted in some dramatic “from-the-dead” comeback stories, proving that a cancellation in some cases is just a temporary pause. That was certainly the case for a TV show that just landed on Prime Video. All 61 episodes of the fa…
+### OTHER on 2026-03-26 01:00
+- Location: Qchron.com
+- Description: Mayor Mamdani on March 19 signed an executive order establishing a new Office of Community Safety, a step toward one of his major campaign promises.The office will aim to address the “root causes” of violence, streamline and expand crime prevention…
 
 
-### HOMICIDE on 2026-03-25 18:25
-- Location: Islandfm.com
-- Description: A woman charged with the attempted murder of Rihanna following a shooting at the singer's home has pleaded not guilty.
+### OTHER on 2026-03-26 00:45
+- Location: The Portland Mercury
+- Description: Plus, Portland Music News and New Music Portland!
+ 
+ by Nolan Parker
+ 
+ 
+ 
+ Okay, so who saw Sessa last night at Showdown? Was Sessa's charming stage presence, irresistible Portuguese vocals, and the whole band's groovy sunshine energy to blame for the entire…
 
-Analysis generated at: Thu Mar 26 18:58:53 UTC 2026
+Analysis generated at: Fri Mar 27 01:52:49 UTC 2026
