@@ -1,10 +1,10 @@
 
-Loaded 95988 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-26 02:45:29
+Loaded 96020 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-26 07:00:12
 
 Incidents by source:
 source
-newsapi           95887
+newsapi           95919
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-03-26 02:45
-- Location: Freerepublic.com
-- Description: Brock McNerney, 72, and Moisette McNerney, 69, of the 1200 block of East Clarendon Avenue in Arlington Heights, were taken into custody on Monday, the village police department announced. Both were charged with two misdemeanor offenses and released pending th…
+### SHOOTING on 2026-03-26 07:00
+- Location: The Punch
+- Description: The Police Community Relations Committee (PCRC) in Lagos and Ogun commends the appointment of AIG Moshood Jimoh, citing his proven track record.
+
+Read More: https://punchng.com/pcrc-hails-jimohs-appointment-as-aig-zone-2/
 
 
-### OTHER on 2026-03-26 02:36
-- Location: Deadline
-- Description: Alan Ritchson is giving his fists (and vocal chords) a rest after wrapping post-production on Season 4 of Reacher. The actor, who recently got into an off-screen scuffle with a neighbor, shared an update on Wednesday from a recording booth on the upcoming sea…
+### HOMICIDE on 2026-03-26 06:44
+- Location: The Times of India
+- Description: Parents of a doctor, raped and murdered in a state-run hospital, are now campaigning for the BJP. They believe the party can end the TMC's misrule and ensure justice for their daughter and women's safety in West Bengal. The mother is contesting assembly polls…
 
 
-### HOMICIDE on 2026-03-26 02:13
-- Location: Fox News
-- Description: The Gorman family is demanding accountability from Chicago and Illinois leaders, rejecting their 'senseless tragedy' framing of Sheridan's death.
+### HOMICIDE on 2026-03-26 06:33
+- Location: The Irish Times
+- Description: Ivanna Lisette Ortiz accused of spraying Beverly Hills home singer shares with her partner ASAP Rocky and their children with at least 20 bullets
 
 
-### ASSAULT on 2026-03-26 02:11
-- Location: Israelnationalnews.com
-- Description: Conservative MP Sir Edward Leigh, the longest-serving continuously sitting MP, urges unity following the arson attack on Hatzolah ambulances in Golders Green, declares the Jewish community has the full support of the House.
+### OTHER on 2026-03-26 06:22
+- Location: Overdriveonline.com
+- Description: FMCSA at the Mid America Trucking Show shared a bit about its anti-fraud efforts, what owner-ops can do to keep safe, and how the agency is cracking down.
 
 
-### OTHER on 2026-03-26 02:01
-- Location: Thefutoncritic.com
-- Description: Spanning from the desert to the city, this offbeat comedy anthology tells unique tales of desire, ambition... and those tempted enough to seek them out.
+### OTHER on 2026-03-26 06:18
+- Location: BusinessLine
+- Description: "Upon verification, it was assessed that the material had the potential to mislead the public, undermine the credibility of constitutional bodies, and adversely impact the conduct of free and fair elections," the police said
 
-Analysis generated at: Fri Mar 27 02:49:25 UTC 2026
+Analysis generated at: Fri Mar 27 07:01:32 UTC 2026
