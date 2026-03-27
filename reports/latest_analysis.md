@@ -1,10 +1,10 @@
 
-Loaded 95982 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-26 01:46:11
+Loaded 95988 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-26 02:45:29
 
 Incidents by source:
 source
-newsapi           95881
+newsapi           95887
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,36 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-03-26 01:46
-- Location: Vulture
-- Description: ‘Adolescence’ still has one more award show to sweep. The 2026 BAFTA TV nominations were released today. Let’s see who’s top-of-mind for the Vox ‘Gogglebox.’
+### HOMICIDE on 2026-03-26 02:45
+- Location: Freerepublic.com
+- Description: Brock McNerney, 72, and Moisette McNerney, 69, of the 1200 block of East Clarendon Avenue in Arlington Heights, were taken into custody on Monday, the village police department announced. Both were charged with two misdemeanor offenses and released pending th…
 
 
-### HOMICIDE on 2026-03-26 01:39
-- Location: ABC News (AU)
-- Description: The man who police have alleged to be a "major player" in the mistaken identity kidnapping and murder of a Sydney grandfather has fronted court for the first time.
+### OTHER on 2026-03-26 02:36
+- Location: Deadline
+- Description: Alan Ritchson is giving his fists (and vocal chords) a rest after wrapping post-production on Season 4 of Reacher. The actor, who recently got into an off-screen scuffle with a neighbor, shared an update on Wednesday from a recording booth on the upcoming sea…
 
 
-### HOMICIDE on 2026-03-26 01:24
-- Location: The Punch
-- Description: Youths in Jos protest rising Plateau insecurity after gunmen kill two in Rim Village. Protesters demand government action and state police to stop the kill
-
-Read More: https://punchng.com/plateau-youths-protest-killings-demand-state-police-for-security/
+### HOMICIDE on 2026-03-26 02:13
+- Location: Fox News
+- Description: The Gorman family is demanding accountability from Chicago and Illinois leaders, rejecting their 'senseless tragedy' framing of Sheridan's death.
 
 
-### OTHER on 2026-03-26 01:00
-- Location: Qchron.com
-- Description: Mayor Mamdani on March 19 signed an executive order establishing a new Office of Community Safety, a step toward one of his major campaign promises.The office will aim to address the “root causes” of violence, streamline and expand crime prevention…
+### ASSAULT on 2026-03-26 02:11
+- Location: Israelnationalnews.com
+- Description: Conservative MP Sir Edward Leigh, the longest-serving continuously sitting MP, urges unity following the arson attack on Hatzolah ambulances in Golders Green, declares the Jewish community has the full support of the House.
 
 
-### OTHER on 2026-03-26 00:45
-- Location: The Portland Mercury
-- Description: Plus, Portland Music News and New Music Portland!
- 
- by Nolan Parker
- 
- 
- 
- Okay, so who saw Sessa last night at Showdown? Was Sessa's charming stage presence, irresistible Portuguese vocals, and the whole band's groovy sunshine energy to blame for the entire…
+### OTHER on 2026-03-26 02:01
+- Location: Thefutoncritic.com
+- Description: Spanning from the desert to the city, this offbeat comedy anthology tells unique tales of desire, ambition... and those tempted enough to seek them out.
 
-Analysis generated at: Fri Mar 27 01:52:49 UTC 2026
+Analysis generated at: Fri Mar 27 02:49:25 UTC 2026
