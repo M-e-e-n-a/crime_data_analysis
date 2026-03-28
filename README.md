@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Mar 27 18:49:33 UTC 2026
+Last updated: Sat Mar 28 01:44:48 UTC 2026
 
 ## Latest Analysis
 
-Loaded 96177 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-26 18:42:50
+Loaded 96189 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-27 01:41:27
 
 Incidents by source:
 source
-newsapi           96076
+newsapi           96088
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-03-26 18:42
-- Location: The Daily Caller
-- Description: Officials charged an illegal alien from Honduras after an elderly veteran he allegedly shoved onto the New York subway tracks died.
+### OTHER on 2026-03-27 01:41
+- Location: The Times of India
+- Description: Rani Mukerji returns as Shivani Shivaji Roy in Mardaani 3. The film, which earned Rs 76.20 crore worldwide, tackles human trafficking and features the franchise's first female antagonist. Directed by Abhiraj Minawala, it continues the tradition of hard-hittin…
 
 
-### HOMICIDE on 2026-03-26 18:40
-- Location: The Irish Times
-- Description: Prosecution has been making final submissions in trial of three men accused of murdering journalist in Derry
+### SHOOTING on 2026-03-27 01:31
+- Location: New York Post
+- Description: Former Dolton Mayor Tiffany Henyard confirmed that her 65-year-old father was directly affected by the "senseless gun violence that continues to plague Illinois."
 
 
-### HOMICIDE on 2026-03-26 18:38
-- Location: Israelnationalnews.com
-- Description: Police confirm 18-year-old Yehuda Sherman was killed in a deliberate car ramming attack in Samaria, after suspect confessed and reenacted the act.
+### HOMICIDE on 2026-03-27 01:22
+- Location: The Times of India
+- Description: A horrifying incident unfolded near Balurgi village where a man allegedly murdered his wife, Saheli, by slitting her throat and then running over her body with his car. The brutal act, witnessed by motorists who reportedly filmed it, has sparked outrage. Poli…
 
 
-### ROBBERY/THEFT on 2026-03-26 18:36
-- Location: Kotaku
-- Description: Microsoft revealed new details on Stranger Than Heaven, Hades II and Super Meat Boy 3D
+### SHOOTING on 2026-03-27 00:58
+- Location: New York Post
+- Description: One 15-year-old was shot in the face and the other in the hand on a Bronx street just feet away from a day care center.
 
 
-### HOMICIDE on 2026-03-26 18:25
-- Location: Daily Signal
-- Description: THE CENTER SQUARE—Former Virginia Attorney General Jason Miyares joined the family of Stephanie Minter at the state Capitol on Tuesday, calling for policy changes following... Read More
-The post Former Virginia AG, Victim’s Family Call for Immigration Enforce…
+### SHOOTING on 2026-03-27 00:42
+- Location: New York Post
+- Description: The boy was shot just six blocks from the 73rd Precinct, where Police Commissioner Jessica Tisch announced earlier that the NYPD had seized 1,000 firearms since the start of 2026.
 
-Analysis generated at: Fri Mar 27 18:49:33 UTC 2026
+Analysis generated at: Sat Mar 28 01:44:48 UTC 2026
