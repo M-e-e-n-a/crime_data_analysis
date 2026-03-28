@@ -1,10 +1,10 @@
 
-Loaded 96192 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-27 02:31:27
+Loaded 96221 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-27 06:47:02
 
 Incidents by source:
 source
-newsapi           96091
+newsapi           96120
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-03-27 02:31
-- Location: The Times of India
-- Description: An 18-year-old boy rammed his car into residents in Indore after a dispute over an Airbnb-rented penthouse escalated. The incident tragically killed a woman software engineer and injured several others. Police have registered murder and attempted murder charg…
+### HOMICIDE on 2026-03-27 06:47
+- Location: Abcnews.com
+- Description: A Minneapolis woman who confronted federal immigration officers alongside Alex Pretti in January is speaking out about alleged excessive force during the enforcement surge in Minnesota
 
 
-### OTHER on 2026-03-27 02:31
-- Location: Al Jazeera English
-- Description: Fear for future of peaceful protest in Australia while some say Jewish community being prioritised over others.
+### OTHER on 2026-03-27 06:43
+- Location: ABC News (AU)
+- Description: The remains were found in the yard after police were called to the property for a welfare check on a 70-year-old man. An identity has not yet been confirmed.
 
 
-### ROBBERY/THEFT on 2026-03-27 01:51
-- Location: New York Post
-- Description: Hemet police say they have cracked a bold toy theft ring, recovering about $10,000 worth of stolen LEGO sets and Hot Wheels in a dramatic Southern California bust. The operation, led by the Hemet Police Department’s Organized Retail Theft Team with support fr…
+### OTHER on 2026-03-27 06:42
+- Location: Globalsecurity.org
+- Description: US lawmakers from both parties sharply condemned Russia's mass abduction of Ukrainian children during a congressional hearing on March 25, presenting a united front in support of accountability for what witnesses described as one of the gravest ongoing crimes…
 
 
-### OTHER on 2026-03-27 01:41
-- Location: The Times of India
-- Description: Rani Mukerji returns as Shivani Shivaji Roy in Mardaani 3. The film, which earned Rs 76.20 crore worldwide, tackles human trafficking and features the franchise's first female antagonist. Directed by Abhiraj Minawala, it continues the tradition of hard-hittin…
+### HOMICIDE on 2026-03-27 06:39
+- Location: Abcnews.com
+- Description: The execution of a former Florida police officer convicted of raping and murdering an 11-year-old girl has been temporarily halted by the Florida Supreme Court
 
 
-### SHOOTING on 2026-03-27 01:31
-- Location: New York Post
-- Description: Former Dolton Mayor Tiffany Henyard confirmed that her 65-year-old father was directly affected by the "senseless gun violence that continues to plague Illinois."
+### HOMICIDE on 2026-03-27 06:24
+- Location: Anime News Network
+- Description: Store, neighboring Pikachu Sweets closed until further notice; assailant reportedly killed himself
 
-Analysis generated at: Sat Mar 28 02:38:45 UTC 2026
+Analysis generated at: Sat Mar 28 06:53:12 UTC 2026
