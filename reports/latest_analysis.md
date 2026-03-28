@@ -1,10 +1,10 @@
 
-Loaded 96284 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-27 13:04:00
+Loaded 96348 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-27 18:31:56
 
 Incidents by source:
 source
-newsapi           96183
+newsapi           96247
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-03-27 13:04
-- Location: Sky.com
-- Description: Riad Bouchaker, who appeared in court on Friday, is charged with several offences including the attempted murder of two girls and a boy, and possession of a 36cm kitchen knife.
-
-
-### OTHER on 2026-03-27 13:03
+### OTHER on 2026-03-27 18:31
 - Location: Abcnews.com
-- Description: "GMA" honors Bob Iger, the longtime Disney leader whose nearly two decades at the helm have helped shape the company's creative legacy and innovation.
+- Description: The emotional final episode of "Love Story: JFK Jr. and Carolyn Bessette" debuted last night.
 
 
-### OTHER on 2026-03-27 13:00
-- Location: Vulture
-- Description: The colonization of Mars is going great — if you ignore all the instability back on Earth and growing resentment among the colonists.
+### HOMICIDE on 2026-03-27 18:31
+- Location: Abcnews.com
+- Description: Dr. Tara Narula explains a study of more than 11,000 women that found those who met recommended activity levels had about half the risk of death compared to those who remained inactive.
 
 
-### SHOOTING on 2026-03-27 12:58
-- Location: Freerepublic.com
-- Description: A 11-year-old boy from Minneapolis was recognized with a Citizen Honor Award in Washington, D.C., for helping save a classmate's life during a mass shooting at their school. Victor Greenawalt is among this year's six honorees -- five individuals and one nonpr…
+### OTHER on 2026-03-27 18:31
+- Location: Abcnews.com
+- Description: The search is underway for an American Airlines flight attendant who has been reported missing in Colombia, according to officials.
 
 
-### OTHER on 2026-03-27 12:45
-- Location: CNN
-- Description: Millions of people are expected to join a national rally on Saturday to protest President Donald Trump’s policies, event organizers say.
+### OTHER on 2026-03-27 18:30
+- Location: ABC News (AU)
+- Description: Wondering what to read next? Gothic crime fiction, a cult Japanese bestseller and a fantastical twist on the Blitz are among our critics' latest recommendations.
 
-Analysis generated at: Sat Mar 28 13:06:12 UTC 2026
+
+### SHOOTING on 2026-03-27 18:28
+- Location: Us Weekly
+- Description: One of former first lady Jill Biden’s Secret Service agents has been hospitalized in Philadelphia after accidentally shooting himself in the leg. “On Friday morning just after 8:30, an on-duty U.S. Secret Service Special Agent suffered a non-life-threatening …
+
+Analysis generated at: Sat Mar 28 18:33:16 UTC 2026
