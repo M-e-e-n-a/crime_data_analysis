@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Mar 28 12:41:00 UTC 2026
+Last updated: Sat Mar 28 13:06:13 UTC 2026
 
 ## Latest Analysis
 
-Loaded 96279 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-27 12:37:46
+Loaded 96284 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-27 13:04:00
 
 Incidents by source:
 source
-newsapi           96178
+newsapi           96183
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,32 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-03-27 12:37
-- Location: The Hollywood Gossip
-- Description: Reading Time: 4 minutesA condition of Kendra's bond was that she not try to contact her alleged victims -- her four children.
-Kendra Caldwell Barred From Contacting Her 4 Children was originally published on The Hollywood Gossip.
+### HOMICIDE on 2026-03-27 13:04
+- Location: Sky.com
+- Description: Riad Bouchaker, who appeared in court on Friday, is charged with several offences including the attempted murder of two girls and a boy, and possession of a 36cm kitchen knife.
 
 
-### SHOOTING on 2026-03-27 12:34
-- Location: Gothamist
-- Description: An NYPD vehicle in New York City on July 4, 2022
- 
-
-Police say they’re looking for three suspects in the Brownsville incident. [ more › ]
+### OTHER on 2026-03-27 13:03
+- Location: Abcnews.com
+- Description: "GMA" honors Bob Iger, the longtime Disney leader whose nearly two decades at the helm have helped shape the company's creative legacy and innovation.
 
 
-### SHOOTING on 2026-03-27 12:32
-- Location: Fox News
-- Description: Former Dolton Mayor Tiffany Henyard urged Illinois Gov. Pritzker and Chicago Mayor Johnson to accept federal assistance after her father was shot in the neck.
+### OTHER on 2026-03-27 13:00
+- Location: Vulture
+- Description: The colonization of Mars is going great — if you ignore all the instability back on Earth and growing resentment among the colonists.
 
 
-### ROBBERY/THEFT on 2026-03-27 12:30
-- Location: Freethoughtblogs.com
-- Description: The Probability Broach, chapter 16 Win and his friends are trying to alert the North American Confederacy to the Hamiltonian threat in their midst. Conveniently, one of said friends is Jenny Smythe, the president of the NAC. The NAC has a Congress, but it doe…
+### SHOOTING on 2026-03-27 12:58
+- Location: Freerepublic.com
+- Description: A 11-year-old boy from Minneapolis was recognized with a Citizen Honor Award in Washington, D.C., for helping save a classmate's life during a mass shooting at their school. Victor Greenawalt is among this year's six honorees -- five individuals and one nonpr…
 
 
-### OTHER on 2026-03-27 12:27
-- Location: The Conversation Africa
-- Description: An anthropologist of religion shows how Coptic Christians navigate two competing realities: the narrative of Christian persecution abroad and the suspicion surrounding migrants in the contemporary US.
+### OTHER on 2026-03-27 12:45
+- Location: CNN
+- Description: Millions of people are expected to join a national rally on Saturday to protest President Donald Trump’s policies, event organizers say.
 
-Analysis generated at: Sat Mar 28 12:41:00 UTC 2026
+Analysis generated at: Sat Mar 28 13:06:12 UTC 2026
