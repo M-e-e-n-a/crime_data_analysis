@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Mar 29 06:57:50 UTC 2026
+Last updated: Sun Mar 29 12:41:51 UTC 2026
 
 ## Latest Analysis
 
-Loaded 96375 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-28 06:47:04
+Loaded 96400 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-28 12:39:05
 
 Incidents by source:
 source
-newsapi           96274
+newsapi           96299
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-03-28 06:47
-- Location: The Times of India
-- Description: PES University suspended an adjunct faculty member, Muralidhar Deshpande, after a video surfaced showing him allegedly insulting a minority student. The university is verifying the video's authenticity and has initiated disciplinary proceedings. While no poli…
+### HOMICIDE on 2026-03-28 12:39
+- Location: Antaranews.com
+- Description: Bali police have named two foreign nationals, believed to be from Brazil, as suspects in the fatal stabbing of a Dutch man in Badung District, and said both ...
 
 
-### ASSAULT on 2026-03-28 06:43
-- Location: Protothema.gr
-- Description: 23-year-old Ahmad Mulakhil was sentenced to 15 years in prison, watch video of him approaching the minor and asking her age just before the attack
-The post Afghan migrant raped 12-year-old girl in Britain, attacked her while she was playing on the swings appe…
+### OTHER on 2026-03-28 12:30
+- Location: New York Post
+- Description: The mailman who savagely shoved a 4-year-old Jewish boy is an "animal" known for flipping out on residents in the community, sources said.
 
 
-### OTHER on 2026-03-28 06:40
-- Location: The Times of India
-- Description: Delhi Police has busted an investment fraud racket with Dubai links, arresting five individuals. The syndicate defrauded a complainant of over Rs 12 lakh through fake stock market investments. Investigations revealed the cheated money was routed through multi…
+### HOMICIDE on 2026-03-28 12:17
+- Location: Fair Observer
+- Description: For well over 50 years, long before the popular 1979 Revolution that then enabled Ayatollah Khomeini’s Islamic Revolutionary Party to grab total power in 1980 (having shut down, exiled, imprisoned or killed all political opposition in the fledgling post-revol…
 
 
-### OTHER on 2026-03-28 06:38
-- Location: The Times of India
-- Description: The Punjab government has announced 532 vacancies in jails and police departments, including 475 jail warden posts and 57 police sector positions. The official notification for PSSSB Recruitment 2026 is now live on www.sssb.punjab.gov.in from April 1, 2026. A…
+### ROBBERY/THEFT on 2026-03-28 12:01
+- Location: TheJournal.ie
+- Description: The loss of McSweeney’s phone means important messages relating to Peter Mandelson’s appointment as US ambassador will not be revealed.
 
 
-### HOMICIDE on 2026-03-28 06:01
-- Location: ABC News (AU)
-- Description: A 7-month-old child has died after a rideshare vehicle crashed into a tree in Perth's south-east, leaving two other passengers seriously injured.
+### HOMICIDE on 2026-03-28 12:00
+- Location: Fox News
+- Description: A forensic scientist says claims that Jimmy Gracey sustained bruises over hours are "implausible," raising doubts about Spain's accidental death ruling.
 
-Analysis generated at: Sun Mar 29 06:57:50 UTC 2026
+Analysis generated at: Sun Mar 29 12:41:51 UTC 2026
