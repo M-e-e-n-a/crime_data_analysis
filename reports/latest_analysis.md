@@ -1,10 +1,10 @@
 
-Loaded 96362 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-28 02:46:51
+Loaded 96375 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-28 06:47:04
 
 Incidents by source:
 source
-newsapi           96261
+newsapi           96274
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-03-28 02:46
-- Location: Screen Rant
-- Description: Prime Video’s Reacher remains one of the best modern crime thriller adaptations on TV, but Netflix now seems to have two worthy replacements for it.
+### OTHER on 2026-03-28 06:47
+- Location: The Times of India
+- Description: PES University suspended an adjunct faculty member, Muralidhar Deshpande, after a video surfaced showing him allegedly insulting a minority student. The university is verifying the video's authenticity and has initiated disciplinary proceedings. While no poli…
 
 
-### ROBBERY/THEFT on 2026-03-28 02:11
+### ASSAULT on 2026-03-28 06:43
+- Location: Protothema.gr
+- Description: 23-year-old Ahmad Mulakhil was sentenced to 15 years in prison, watch video of him approaching the minor and asking her age just before the attack
+The post Afghan migrant raped 12-year-old girl in Britain, attacked her while she was playing on the swings appe…
+
+
+### OTHER on 2026-03-28 06:40
+- Location: The Times of India
+- Description: Delhi Police has busted an investment fraud racket with Dubai links, arresting five individuals. The syndicate defrauded a complainant of over Rs 12 lakh through fake stock market investments. Investigations revealed the cheated money was routed through multi…
+
+
+### OTHER on 2026-03-28 06:38
+- Location: The Times of India
+- Description: The Punjab government has announced 532 vacancies in jails and police departments, including 475 jail warden posts and 57 police sector positions. The official notification for PSSSB Recruitment 2026 is now live on www.sssb.punjab.gov.in from April 1, 2026. A…
+
+
+### HOMICIDE on 2026-03-28 06:01
 - Location: ABC News (AU)
-- Description: Police say four teenagers in a stolen car collided with an older couple in Carlton this morning, with two fleeing the scene immediately.
+- Description: A 7-month-old child has died after a rideshare vehicle crashed into a tree in Perth's south-east, leaving two other passengers seriously injured.
 
-
-### SHOOTING on 2026-03-28 01:54
-- Location: Newsonjapan.com
-- Description: A hunter who had his firearm license revoked over a controversial shooting during a brown bear culling operation won a reversal in Japan's Supreme Court on March 27th, bringing an end to a seven-year legal battle and clearing the way for him to resume hunting…
-
-
-### HOMICIDE on 2026-03-28 01:48
-- Location: Khabarhub.com
-- Description: KATHMANDU: The CPN-UML has convened an emergency Secretariat meeting to decide the party’s official stance after Chairman KP Sharma Oli was arrested from his residence on Saturday morning on charges linked to murder. Secretary Mahesh Basnet stated that the me…
-
-
-### OTHER on 2026-03-28 01:45
-- Location: The Indian Express
-- Description: While the exact motive for the crime remains unclear, police suspect the crime stemmed from a dispute within the family
-
-Analysis generated at: Sun Mar 29 02:53:09 UTC 2026
+Analysis generated at: Sun Mar 29 06:57:50 UTC 2026
