@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Mar 29 01:55:05 UTC 2026
+Last updated: Sun Mar 29 02:53:09 UTC 2026
 
 ## Latest Analysis
 
-Loaded 96360 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-28 01:54:11
+Loaded 96362 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-28 02:46:51
 
 Incidents by source:
 source
-newsapi           96259
+newsapi           96261
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,6 +24,16 @@ bution.svg)
 
 ## Recent Incidents
 
+### OTHER on 2026-03-28 02:46
+- Location: Screen Rant
+- Description: Prime Video’s Reacher remains one of the best modern crime thriller adaptations on TV, but Netflix now seems to have two worthy replacements for it.
+
+
+### ROBBERY/THEFT on 2026-03-28 02:11
+- Location: ABC News (AU)
+- Description: Police say four teenagers in a stolen car collided with an older couple in Carlton this morning, with two fleeing the scene immediately.
+
+
 ### SHOOTING on 2026-03-28 01:54
 - Location: Newsonjapan.com
 - Description: A hunter who had his firearm license revoked over a controversial shooting during a brown bear culling operation won a reversal in Japan's Supreme Court on March 27th, bringing an end to a seven-year legal battle and clearing the way for him to resume hunting…
@@ -38,15 +48,4 @@ bution.svg)
 - Location: The Indian Express
 - Description: While the exact motive for the crime remains unclear, police suspect the crime stemmed from a dispute within the family
 
-
-### OTHER on 2026-03-28 01:11
-- Location: The Times of India
-- Description: Tiger Woods was arrested on suspicion of driving under the influence after his vehicle, reportedly moving at high speed, clipped a truck and overturned on a residential road in Florida. He was not injured and managed to exit the vehicle on his own.
-
-
-### HOMICIDE on 2026-03-28 01:00
-- Location: Allthatsinteresting.com
-- Description: Although prison officials insisted that Kenneth Trentadue had hanged himself, he had injuries inconsistent with suicide — and his family believes he was beaten to death by guards after being mistaken for an Oklahoma City bombing suspect.
-The post Kenneth Tren…
-
-Analysis generated at: Sun Mar 29 01:55:05 UTC 2026
+Analysis generated at: Sun Mar 29 02:53:09 UTC 2026
