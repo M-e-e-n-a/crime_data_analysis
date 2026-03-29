@@ -1,10 +1,10 @@
 
-Loaded 96404 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-28 13:01:26
+Loaded 96431 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-28 18:13:11
 
 Incidents by source:
 source
-newsapi           96303
+newsapi           96330
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-03-28 13:01
-- Location: road.cc
-- Description: A Californian motorist at the centre of a viral clip showing him harassing cyclists riding in a bike lane, forcing one onto the pavement, before throwing objects at them, has been arrested by police on suspicion of assault with a deadly weapon, while his BMW …
+### HOMICIDE on 2026-03-28 18:13
+- Location: Wnd.com
+- Description: 'She waited in the kitchen area of the residence for them to arrive home, with a gun in her hand and the knife in her right pants pocket'
 
 
-### HOMICIDE on 2026-03-28 12:53
-- Location: The Indian Express
-- Description: The convicts were found guilty of attempt to murder and dacoity among other charges. The violence was triggered by an alleged act of disrespect towards a religious book.
+### HOMICIDE on 2026-03-28 18:04
+- Location: Sky.com
+- Description: Police have launched a murder investigation after the death of a young woman in Leeds.
 
 
-### OTHER on 2026-03-28 12:53
-- Location: Screen Rant
-- Description: This chilling true crime docuseries from Dick Wolf delves into New York City's darkest cases, leaving viewers on the edge of their seats.
+### HOMICIDE on 2026-03-28 18:00
+- Location: Fox News
+- Description: Joe Abraham warns more deaths will follow in Illinois after his daughter Katie and Loyola student Sheridan Gorman were allegedly killed by illegal immigrants.
 
 
-### ROBBERY/THEFT on 2026-03-28 12:45
+### OTHER on 2026-03-28 18:00
 - Location: New York Post
-- Description: Ettore Mazzei, 63, has been behind bars since his May 2024 arrest on a 61-count indictment and faces multiple charges including criminal sale of a controlled substance, grand larceny, identity theft and possession of a forged instrument.
+- Description: Bid winter farewell and say hello to an array of exciting new books.
 
 
-### HOMICIDE on 2026-03-28 12:39
-- Location: Antaranews.com
-- Description: Bali police have named two foreign nationals, believed to be from Brazil, as suspects in the fatal stabbing of a Dutch man in Badung District, and said both ...
+### ROBBERY/THEFT on 2026-03-28 17:50
+- Location: New York Post
+- Description: A MTA worker was struck in the head with an unknown object, kicked in the body and robbed of about $150 in an employee parking lot in the Bronx Saturday morning, cops said.
 
-Analysis generated at: Sun Mar 29 13:07:22 UTC 2026
+Analysis generated at: Sun Mar 29 18:34:36 UTC 2026
