@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Mar 30 07:20:50 UTC 2026
+Last updated: Mon Mar 30 13:06:10 UTC 2026
 
 ## Latest Analysis
 
-Loaded 96447 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-29 07:07:57
+Loaded 96490 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-29 13:03:13
 
 Incidents by source:
 source
-newsapi           96346
+newsapi           96389
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-03-29 07:07
-- Location: The Times of India
-- Description: Rahul Gandhi alleged that hatred and atrocities against Dalit and Adivasi communities have intensified in Gujarat under the BJP government. He expressed solidarity with Una flogging case victims, vowing to amplify their voices until justice is served after a …
+### HOMICIDE on 2026-03-29 13:03
+- Location: BBC News
+- Description: The teenager found unconscious in Leeds was a teenager from Cleckheaton, police say.
 
 
-### OTHER on 2026-03-29 06:34
-- Location: RTE
-- Description: Five members of the Hennessy Organised Crime Group were jailed this week but, as Paul Reynolds reports, the case has raised serious questions about the State's ability to tackle organised crime.
+### OTHER on 2026-03-29 13:00
+- Location: Notus.org
+- Description: Is the Republican base finally tired of the culture wars? Or just getting started? Oklahoma may reveal the answer.
 
 
-### OTHER on 2026-03-29 06:34
-- Location: Asia Times
-- Description: For decades, cars dictated urban planning in the United States. Few could have predicted that they would one day also double as nodes for surveillance. In
+### OTHER on 2026-03-29 13:00
+- Location: Breitbart News
+- Description: Exclusive interviews with leading researchers and forensic psychologists and an investigation by Breitbart News into the data reveals that teacher sexual misconduct is both underreported and understudied, despite being what one researcher called “a serious pu…
 
 
-### HOMICIDE on 2026-03-29 06:05
-- Location: The Irish Times
-- Description: For our small population, we are outstripping other jurisdictions in one area only – the murder of women
+### OTHER on 2026-03-29 13:00
+- Location: PCMag.com
+- Description: Darth Maul finally gets his own series, plus tons of new movies and shows this month.
+Disney+ and Hulu continue the process of becoming a single streaming service, with the standalone Hulu app being shut down later this year. Many movies and shows are now ove…
 
 
-### OTHER on 2026-03-29 05:53
-- Location: Ibtimes.com.au
-- Description: TUCSON, Ariz. — Nancy Guthrie, the 84-year-old mother of NBC "Today" show co-anchor Savannah Guthrie, remained missing Sunday as the search entered its eighth week with no arrests and no confirmed sightings since she was last seen at her Catalina Foothills ho…
+### OTHER on 2026-03-29 13:00
+- Location: PCMag.com
+- Description: Darth Maul finally gets his own series, plus tons of new movies and shows this month.
+Disney+ and Hulu continue the process of becoming a single streaming service, with the standalone Hulu app being shut down later this year. Many movies and shows are now ove…
 
-Analysis generated at: Mon Mar 30 07:20:50 UTC 2026
+Analysis generated at: Mon Mar 30 13:06:10 UTC 2026
