@@ -1,10 +1,10 @@
 
-Loaded 96431 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-28 18:13:11
+Loaded 96436 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-29 01:39:03
 
 Incidents by source:
 source
-newsapi           96330
+newsapi           96335
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-03-28 18:13
-- Location: Wnd.com
-- Description: 'She waited in the kitchen area of the residence for them to arrive home, with a gun in her hand and the knife in her right pants pocket'
+### HOMICIDE on 2026-03-29 01:39
+- Location: The Indian Express
+- Description: Police said while personal enmity appears to be the primary motive, they are also probing whether the scuffle was linked to financial losses at the casino. One accused, Komal Baraskar (28), has been detained.
 
 
-### HOMICIDE on 2026-03-28 18:04
-- Location: Sky.com
-- Description: Police have launched a murder investigation after the death of a young woman in Leeds.
+### OTHER on 2026-03-29 01:10
+- Location: The Times of India
+- Description: A newly constructed 75,000-litre overhead water tank under the Jal Jeevan Mission collapsed during its first testing in Khatkhari village, Mauganj district. The Rs 75 lakh project, intended for 3,000 residents, failed due to suspected poor quality control and…
 
 
-### HOMICIDE on 2026-03-28 18:00
-- Location: Fox News
-- Description: Joe Abraham warns more deaths will follow in Illinois after his daughter Katie and Loyola student Sheridan Gorman were allegedly killed by illegal immigrants.
+### OTHER on 2026-03-29 00:59
+- Location: The Times of India
+- Description: Actor Vijay Antony celebrated his wife's birthday with a heartfelt message, calling her his "love, owner, and world." He promised her unparalleled love, declaring her the purpose of his life. Meanwhile, his upcoming film 'Nooru Saami,' directed by Sasi, is re…
 
 
-### OTHER on 2026-03-28 18:00
-- Location: New York Post
-- Description: Bid winter farewell and say hello to an array of exciting new books.
+### OTHER on 2026-03-29 00:49
+- Location: The Times of India
+- Description: The makers of director Murali Kishor Abburu's eagerly awaited film 'Lenin', featuring actors Akhil Akkineni and Bhagyashri Borse in the lead, on Saturday announced that they had now decided to postpone the film's release to June 26 this year.
 
 
-### ROBBERY/THEFT on 2026-03-28 17:50
-- Location: New York Post
-- Description: A MTA worker was struck in the head with an unknown object, kicked in the body and robbed of about $150 in an employee parking lot in the Bronx Saturday morning, cops said.
+### HOMICIDE on 2026-03-29 00:21
+- Location: RTE
+- Description: The victim at the centre of a murder inquiry in Portadown has been named by the PSNI as 49-year-old Rolandas Kvederis.
 
-Analysis generated at: Sun Mar 29 18:34:36 UTC 2026
+Analysis generated at: Mon Mar 30 01:58:00 UTC 2026
