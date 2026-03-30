@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Mar 30 13:06:10 UTC 2026
+Last updated: Mon Mar 30 13:46:14 UTC 2026
 
 ## Latest Analysis
 
-Loaded 96490 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-29 13:03:13
+Loaded 96493 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-29 13:45:49
 
 Incidents by source:
 source
-newsapi           96389
+newsapi           96392
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,6 +24,21 @@ bution.svg)
 
 ## Recent Incidents
 
+### HOMICIDE on 2026-03-29 13:45
+- Location: Israelnationalnews.com
+- Description: Efrat resident who was arrested after shooting a Palestinian Arab dead, claiming self-defense, will be released to house arrest.
+
+
+### HOMICIDE on 2026-03-29 13:33
+- Location: Sky.com
+- Description: Despite paramedics' best efforts, the 26-year-old victim was pronounced dead at the scene.
+
+
+### ROBBERY/THEFT on 2026-03-29 13:14
+- Location: DW (English)
+- Description: Vehicles stolen in the EU may soon be legally registered in Russia. One German police union fears this could lead to an increase in car thefts in Europe.
+
+
 ### HOMICIDE on 2026-03-29 13:03
 - Location: BBC News
 - Description: The teenager found unconscious in Leeds was a teenager from Cleckheaton, police say.
@@ -33,21 +48,4 @@ bution.svg)
 - Location: Notus.org
 - Description: Is the Republican base finally tired of the culture wars? Or just getting started? Oklahoma may reveal the answer.
 
-
-### OTHER on 2026-03-29 13:00
-- Location: Breitbart News
-- Description: Exclusive interviews with leading researchers and forensic psychologists and an investigation by Breitbart News into the data reveals that teacher sexual misconduct is both underreported and understudied, despite being what one researcher called “a serious pu…
-
-
-### OTHER on 2026-03-29 13:00
-- Location: PCMag.com
-- Description: Darth Maul finally gets his own series, plus tons of new movies and shows this month.
-Disney+ and Hulu continue the process of becoming a single streaming service, with the standalone Hulu app being shut down later this year. Many movies and shows are now ove…
-
-
-### OTHER on 2026-03-29 13:00
-- Location: PCMag.com
-- Description: Darth Maul finally gets his own series, plus tons of new movies and shows this month.
-Disney+ and Hulu continue the process of becoming a single streaming service, with the standalone Hulu app being shut down later this year. Many movies and shows are now ove…
-
-Analysis generated at: Mon Mar 30 13:06:10 UTC 2026
+Analysis generated at: Mon Mar 30 13:46:14 UTC 2026
