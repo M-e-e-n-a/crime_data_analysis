@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Mar 30 13:46:14 UTC 2026
+Last updated: Mon Mar 30 18:53:59 UTC 2026
 
 ## Latest Analysis
 
-Loaded 96493 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-29 13:45:49
+Loaded 96519 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-29 18:53:13
 
 Incidents by source:
 source
-newsapi           96392
+newsapi           96418
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-03-29 13:45
-- Location: Israelnationalnews.com
-- Description: Efrat resident who was arrested after shooting a Palestinian Arab dead, claiming self-defense, will be released to house arrest.
+### HOMICIDE on 2026-03-29 18:53
+- Location: CBC News
+- Description: The Surrey Police Service says in a news release that officers responded to reports of shots fired in the 15100 block of 60 Avenue around 6:40 p.m. on Saturday. It says officers arrived and found a man who was suffering from gunshot wounds.
 
 
-### HOMICIDE on 2026-03-29 13:33
-- Location: Sky.com
-- Description: Despite paramedics' best efforts, the 26-year-old victim was pronounced dead at the scene.
+### OTHER on 2026-03-29 18:15
+- Location: CBS News
+- Description: On this "Face the Nation with Margaret Brennan" broadcast, Border Czar Tom Homan and former U.S. Surgeon General Jerome Adams join Margaret Brennan.
 
 
-### ROBBERY/THEFT on 2026-03-29 13:14
-- Location: DW (English)
-- Description: Vehicles stolen in the EU may soon be legally registered in Russia. One German police union fears this could lead to an increase in car thefts in Europe.
+### HOMICIDE on 2026-03-29 18:00
+- Location: Dramabeans.com
+- Description: Unlike his previous clients, our phantom lawyer’s newest ghost is not here for revenge. In fact, he wants his killer to go free, but what happens when the murderer is not who he thinks it is? As our attorney discovers a twist to this mystery, he will need the…
 
 
-### HOMICIDE on 2026-03-29 13:03
-- Location: BBC News
-- Description: The teenager found unconscious in Leeds was a teenager from Cleckheaton, police say.
+### HOMICIDE on 2026-03-29 17:48
+- Location: The Indian Express
+- Description: Warring says 'law and order deteriorating but AAP continues to sleep'
 
 
-### OTHER on 2026-03-29 13:00
-- Location: Notus.org
-- Description: Is the Republican base finally tired of the culture wars? Or just getting started? Oklahoma may reveal the answer.
+### OTHER on 2026-03-29 17:45
+- Location: Screen Rant
+- Description: Audiences continue to misinterpret or misremember these popular movies, entirely missing or reversing the filmmakers’ intended messages.
 
-Analysis generated at: Mon Mar 30 13:46:14 UTC 2026
+Analysis generated at: Mon Mar 30 18:53:59 UTC 2026
