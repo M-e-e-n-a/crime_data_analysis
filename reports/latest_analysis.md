@@ -1,10 +1,10 @@
 
-Loaded 96612 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-30 12:46:41
+Loaded 96618 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-30 13:44:00
 
 Incidents by source:
 source
-newsapi           96511
+newsapi           96517
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,31 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-03-30 12:46
-- Location: BBC News
-- Description: Rolandas Kvederis, 49, was found dead at a property in Ranfurley Road.
+### HOMICIDE on 2026-03-30 13:44
+- Location: TheJournal.ie
+- Description: In 2009, the dissident republican group the Real IRA claimed responsibility for the killing.
 
 
-### ROBBERY/THEFT on 2026-03-30 12:25
-- Location: Techdirt
-- Description: Republicans spent three years suffering an embolism over Chinese influence over TikTok, but have suddenly gone mysteriously quiet now that $25 billion in Saudi, Chinese, and other foreign cash is helping to bankroll right wing billionaire Larry Ellison’s $111…
+### OTHER on 2026-03-30 13:33
+- Location: CBC News
+- Description: Thieves made off with three paintings by Renoir, Cézanne and Matisse worth millions of euros from a museum near the city of Parma in northern Italy, police said on Monday.
 
 
-### OTHER on 2026-03-30 12:24
+### ROBBERY/THEFT on 2026-03-30 13:33
+- Location: The Irish Times
+- Description: Thieves forced opened entrance door and stole paintings in less than three minutes, according to local media reports
+
+
+### OTHER on 2026-03-30 13:29
 - Location: Abcnews.com
-- Description: Some Barbie fans paid nearly $500 for a weekend “Dream Pass” that promised an 80s roller rink, a Barbie Dreamhouse photo op and more, but some fans said it wasn’t quite the dream they hoped for.
+- Description: The crew is speaking out on the first human moon mission in more than 50 years that will send them on a 10-day, 685,000-mile journey venturing deeper into space than ever before.
 
 
-### HOMICIDE on 2026-03-30 12:23
-- Location: Gothamist
-- Description: The Lexington Avenue-63rd Street station on the Upper East Side in May 2017
- 
+### HOMICIDE on 2026-03-30 13:12
+- Location: The Irish Times
+- Description: Arrest made following extradition from Scotland on foot of a European Arrest Warrant
 
-The defendant allegedly pushed the older man onto the tracks. The victim died days later. [ more › ]
-
-
-### OTHER on 2026-03-30 12:17
-- Location: The Times of India
-- Description: A Rajasthan farmer, Shri Kishan Suman, has cultivated a remarkable 'Sadabahar Mango' variety, yielding fruit thrice annually. This disease-resistant, Alphonso-like mango, developed over years of dedicated effort, has gained national recognition and is now reg…
-
-Analysis generated at: Tue Mar 31 13:04:03 UTC 2026
+Analysis generated at: Tue Mar 31 13:44:52 UTC 2026
