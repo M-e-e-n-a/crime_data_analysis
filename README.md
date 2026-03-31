@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Mar 31 07:07:02 UTC 2026
+Last updated: Tue Mar 31 13:04:03 UTC 2026
 
 ## Latest Analysis
 
-Loaded 96564 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-30 07:04:56
+Loaded 96612 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-30 12:46:41
 
 Incidents by source:
 source
-newsapi           96463
+newsapi           96511
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,39 +24,31 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-03-30 07:04
-- Location: New York Post
-- Description: Australian police said they believe they shot dead a suspect Monday accused of killing two police officers and seriously wounding a third in a remote forest region seven months ago.
+### HOMICIDE on 2026-03-30 12:46
+- Location: BBC News
+- Description: Rolandas Kvederis, 49, was found dead at a property in Ranfurley Road.
 
 
-### OTHER on 2026-03-30 07:00
-- Location: Inside Higher Ed
-- Description: The Complexity Curve
+### ROBBERY/THEFT on 2026-03-30 12:25
+- Location: Techdirt
+- Description: Republicans spent three years suffering an embolism over Chinese influence over TikTok, but have suddenly gone mysteriously quiet now that $25 billion in Saudi, Chinese, and other foreign cash is helping to bankroll right wing billionaire Larry Ellison’s $111…
 
-Sara Brady
 
-Mon, 03/30/2026 - 03:00 AM
+### OTHER on 2026-03-30 12:24
+- Location: Abcnews.com
+- Description: Some Barbie fans paid nearly $500 for a weekend “Dream Pass” that promised an 80s roller rink, a Barbie Dreamhouse photo op and more, but some fans said it wasn’t quite the dream they hoped for.
 
-At a certain point of understanding, simplicity and clarity return, albeit with more nuance.
+
+### HOMICIDE on 2026-03-30 12:23
+- Location: Gothamist
+- Description: The Lexington Avenue-63rd Street station on the Upper East Side in May 2017
  
- Byline(s)
 
- 
- Matt Reed
+The defendant allegedly pushed the older man onto the tracks. The victim died days later. [ more › ]
 
 
-### OTHER on 2026-03-30 06:46
-- Location: DW (English)
-- Description: Three paintings by French masters Cezanne, Renoir, and Matisse have been taken from a museum near the Italian city of Parma.
+### OTHER on 2026-03-30 12:17
+- Location: The Times of India
+- Description: A Rajasthan farmer, Shri Kishan Suman, has cultivated a remarkable 'Sadabahar Mango' variety, yielding fruit thrice annually. This disease-resistant, Alphonso-like mango, developed over years of dedicated effort, has gained national recognition and is now reg…
 
-
-### OTHER on 2026-03-30 06:45
-- Location: soompi
-- Description: tvN’s Monday–Tuesday drama “Siren’s Kiss” has unveiled new stills ahead of its upcoming episode! “Siren’s Kiss” is a romance thriller that follows inspector Cha Woo Seok (Wi Ha Joon) as he investigates an insurance fraud case involving people who all died aft…
-
-
-### OTHER on 2026-03-30 06:40
-- Location: ABC News (AU)
-- Description: A man has pleaded guilty in Toowoomba District Court today to two counts of fraud as an employee, with one of those fraud charges involving more than $100,000.
-
-Analysis generated at: Tue Mar 31 07:07:02 UTC 2026
+Analysis generated at: Tue Mar 31 13:04:03 UTC 2026
