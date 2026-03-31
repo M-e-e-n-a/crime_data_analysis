@@ -1,10 +1,10 @@
 
-Loaded 96526 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-30 01:39:58
+Loaded 96532 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-30 02:37:12
 
 Incidents by source:
 source
-newsapi           96425
+newsapi           96431
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-03-30 01:39
+### HOMICIDE on 2026-03-30 02:37
 - Location: ABC News (AU)
-- Description: A 19-year-old man has died and another has been airlifted to hospital with serious injuries after a stabbing incident in the Northern Territory town of Katherine overnight.
+- Description: An inquest into a father-son murder-suicide has led the NSW Coroner to recommend that doctors be legally required to alert police if they have concerns about patients who own guns.
 
 
-### OTHER on 2026-03-30 01:01
-- Location: Screen Rant
-- Description: Exclusive: A Yellowstone spinoff star, Mo Brings Plenty, opens up about Marshals' reservation trafficking episode and his own real-life experience.
+### OTHER on 2026-03-30 02:18
+- Location: The Sydney Morning Herald
+- Description: If these landmark court decisions against Meta and YouTube result in a dilution of free speech, the so-called victory will be hollow indeed.
 
 
-### HOMICIDE on 2026-03-30 01:00
-- Location: RTE
-- Description: Australian police said they shot dead a fugitive gunman wanted for killing two officers, ending a seven-month manhunt for one of the country's most-wanted criminals.
+### HOMICIDE on 2026-03-30 02:07
+- Location: The Times of India
+- Description: A seven-month manhunt for fugitive gunman Dezi Freeman has ended. Freeman, accused of killing two police officers, was shot dead by Australian police in Victoria. The incident followed a three-hour standoff at a rural property. Over 450 officers were involved…
 
 
-### HOMICIDE on 2026-03-30 00:53
-- Location: The Conversation Africa
-- Description: In February police said they strongly believed Dezi Freeman was dead. It may have been a tactic that helped bring the manhunt to an end.
+### OTHER on 2026-03-30 02:07
+- Location: Bleeding Cool News
+- Description: With the hit prequel series set to return this Tuesday, we have a look at what's ahead with CBS's Austin Stowell-starring NCIS: Origins. In S02E13: "Homeward Bound," Adam Campbell's Dr. Donald "Ducky" Mallard returns to help clear Dr. Tango's (Julian Black An…
 
 
-### HOMICIDE on 2026-03-30 00:38
-- Location: Japan Today
-- Description: British police were on Sunday questioning a 36-year-old man arrested for attempted murder after a car plowed into people on a street in a central English city, injuring seven of them. Police in Derby, about 64 kilometers north of Birmingham, said counter-terr…
+### OTHER on 2026-03-30 02:02
+- Location: CinemaBlend
+- Description: Too many secrets to keep up with.
 
-Analysis generated at: Tue Mar 31 01:53:39 UTC 2026
+Analysis generated at: Tue Mar 31 02:48:51 UTC 2026
