@@ -1,10 +1,10 @@
 
-Loaded 96682 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-30 18:49:51
+Loaded 96700 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-31 02:00:00
 
 Incidents by source:
 source
-newsapi           96581
+newsapi           96599
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,68 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-03-30 18:49
+### OTHER on 2026-03-31 02:00
+- Location: Human Rights Watch
+- Description: Click to expand Image
+ 
+
+
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Iranian security forces stand guard on top of an armored vehicle in Tehran on March 21, 2026.
+ © 2026 AFP via Getty Images 
+ 
+ 
+
+
+ 
+(Beirut) – Iran’s Islamic Revolutionary Guard Corps (IRGC) is conducting a campaign …
+
+
+### OTHER on 2026-03-31 02:00
+- Location: Human Rights Watch
+- Description: Click to expand Image
+ 
+
+
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Iranian security forces stand guard on top of an armored vehicle in Tehran on March 21, 2026.
+ © 2026 AFP via Getty Images 
+ 
+ 
+
+
+ 
+(Beirut) – Iran’s Islamic Revolutionary Guard Corps (IRGC) is conducting a campaign …
+
+
+### HOMICIDE on 2026-03-31 01:44
+- Location: The Times of India
+- Description: Police in Bijnor have arrested a woman, her lover, and his friend for the murder of her husband, Mohammad Mehraj. The victim was allegedly sedated and then murdered with a sharp weapon while sleeping. The wife reportedly staged being unconscious during the in…
+
+
+### OTHER on 2026-03-31 01:36
+- Location: Fox News
+- Description: Illegal alien Xa Lee tried to strike an ICE officer with his car in Sacramento, California, during an arrest attempt, and the fugitive remains at large.
+
+
+### HOMICIDE on 2026-03-31 01:29
 - Location: ABC News (AU)
-- Description: When the parents of Senior Constable Vadim de Waart-Hottart flew to Melbourne for a police service, little did they know their son's killer would emerge just days later.
+- Description: Michael James Chalmers is ordered to face trial after pleading not guilty to murdering a sex worker at a Melbourne brothel in 2024.
 
-
-### ROBBERY/THEFT on 2026-03-30 18:45
-- Location: ABC News (AU)
-- Description: In mid-2009 British citizen Simon Kadwill-Kelly was catching a ferry returning from France. Within minutes of trying to board he found out his identity had been stolen.
-
-
-### ROBBERY/THEFT on 2026-03-30 18:41
-- Location: CBC News
-- Description: Five people, including two teenagers, are facing a host of charges after a brazen daytime robbery at a jewelry store inside the Oshawa Centre Sunday afternoon, police say.
-
-
-### HOMICIDE on 2026-03-30 18:35
-- Location: Breitbart News
-- Description: Unknown gunmen opened fire "indiscriminately" in a residential area of Jos, Plateau State, Nigeria on Sunday night, killing an estimated 30 people during a time in which jihadists in the country tend to orchestrate massacres against Christians.
-The post Palm …
-
-
-### HOMICIDE on 2026-03-30 18:31
-- Location: PBS
-- Description: The bill's passage marked a major victory for Israel's far-right, which has pushed hard for the measure.
-
-Analysis generated at: Tue Mar 31 18:55:00 UTC 2026
+Analysis generated at: Wed Apr  1 02:01:47 UTC 2026
