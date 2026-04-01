@@ -1,10 +1,10 @@
 
-Loaded 96703 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-31 03:12:22
+Loaded 96727 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-31 07:12:52
 
 Incidents by source:
 source
-newsapi           96602
+newsapi           96626
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,68 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-03-31 03:12
-- Location: New Zealand Herald
-- Description: The firearm has likely been discarded in the Murumuru Rd, Parinui or Ruatiti areas.
+### OTHER on 2026-03-31 07:12
+- Location: Rediff.com
+- Description: Director Honey Trehan's film Punjab '95, based on human rights activist Jaswant Singh Khalra's life, remains stuck with the Censor Board, facing over 127 cuts.
 
 
-### HOMICIDE on 2026-03-31 02:06
-- Location: Rlsbb.to
-- Description: Season 10, Episode 08 – "Granville Ritchie"A missing child case unravels fast when police uncover a horrific tale of abuse and murder behind a child reported as a runaway. Links: HOMEPAGE – iMDBWorlds.Most.Evil.Killers.S10E08.1080p.NOW.WEB-DL.AAC2.0.H.264-RAW…
+### OTHER on 2026-03-31 07:00
+- Location: TheJournal.ie
+- Description: Dodgy boxes, Helen McEntree in Kyiv, and details of savings and investments plan to be outlined.
 
 
-### HOMICIDE on 2026-03-31 02:02
-- Location: Freerepublic.com
-- Description: The bullet that killed conservative commentator Charlie Kirk did not match the rifle used by suspected killer Tyler Robinson, a bombshell new court filing states. Robinson, 22, is facing capital murder charges and a potential death sentence for Kirk's murder …
+### ASSAULT on 2026-03-31 06:49
+- Location: The Times of India
+- Description: The Punjab and Haryana High Court has acquitted AAP MLA Manjinder Singh Lalpura and seven others. They were convicted in a 2013 molestation and assault case. The court allowed a petition following a compromise between the parties. The FIR registered in 2013 u…
 
 
-### OTHER on 2026-03-31 02:00
-- Location: Human Rights Watch
-- Description: Click to expand Image
- 
+### ASSAULT on 2026-03-31 06:49
+- Location: The Times of India
+- Description: The Punjab and Haryana High Court has acquitted AAP MLA Manjinder Singh Lalpura and seven others. They were convicted in a 2013 molestation and assault case. The court allowed a petition following a compromise between the parties. The FIR registered in 2013 u…
 
 
+### HOMICIDE on 2026-03-31 06:17
+- Location: The Indian Express
+- Description: Following the death of Arunachal Pradesh student Nido Tania in Delhi's Lajpat Nagar in 2014, the Delhi Police set up the Special Police Unit for the North East Region (SPUNER). The Indian Express looks at the unit, what it does
 
- 
- 
- 
-
- 
- 
- 
- 
- Iranian security forces stand guard on top of an armored vehicle in Tehran on March 21, 2026.
- © 2026 AFP via Getty Images 
- 
- 
-
-
- 
-(Beirut) – Iran’s Islamic Revolutionary Guard Corps (IRGC) is conducting a campaign …
-
-
-### OTHER on 2026-03-31 02:00
-- Location: Human Rights Watch
-- Description: Click to expand Image
- 
-
-
-
- 
- 
- 
-
- 
- 
- 
- 
- Iranian security forces stand guard on top of an armored vehicle in Tehran on March 21, 2026.
- © 2026 AFP via Getty Images 
- 
- 
-
-
- 
-(Beirut) – Iran’s Islamic Revolutionary Guard Corps (IRGC) is conducting a campaign …
-
-Analysis generated at: Wed Apr  1 03:18:36 UTC 2026
+Analysis generated at: Wed Apr  1 07:13:39 UTC 2026
