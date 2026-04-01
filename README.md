@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Apr  1 02:01:47 UTC 2026
+Last updated: Wed Apr  1 03:18:36 UTC 2026
 
 ## Latest Analysis
 
-Loaded 96700 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-31 02:00:00
+Loaded 96703 incidents
+Date range: 2024-01-01 00:00:00 to 2026-03-31 03:12:22
 
 Incidents by source:
 source
-newsapi           96599
+newsapi           96602
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,19 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-03-31 02:00
-- Location: Human Rights Watch
-- Description: Click to expand Image
- 
+### HOMICIDE on 2026-03-31 03:12
+- Location: New Zealand Herald
+- Description: The firearm has likely been discarded in the Murumuru Rd, Parinui or Ruatiti areas.
 
 
-
- 
- 
- 
-
- 
- 
- 
- 
- Iranian security forces stand guard on top of an armored vehicle in Tehran on March 21, 2026.
- © 2026 AFP via Getty Images 
- 
- 
+### HOMICIDE on 2026-03-31 02:06
+- Location: Rlsbb.to
+- Description: Season 10, Episode 08 – "Granville Ritchie"A missing child case unravels fast when police uncover a horrific tale of abuse and murder behind a child reported as a runaway. Links: HOMEPAGE – iMDBWorlds.Most.Evil.Killers.S10E08.1080p.NOW.WEB-DL.AAC2.0.H.264-RAW…
 
 
- 
-(Beirut) – Iran’s Islamic Revolutionary Guard Corps (IRGC) is conducting a campaign …
+### HOMICIDE on 2026-03-31 02:02
+- Location: Freerepublic.com
+- Description: The bullet that killed conservative commentator Charlie Kirk did not match the rifle used by suspected killer Tyler Robinson, a bombshell new court filing states. Robinson, 22, is facing capital murder charges and a potential death sentence for Kirk's murder …
 
 
 ### OTHER on 2026-03-31 02:00
@@ -74,18 +64,28 @@ bution.svg)
 (Beirut) – Iran’s Islamic Revolutionary Guard Corps (IRGC) is conducting a campaign …
 
 
-### HOMICIDE on 2026-03-31 01:44
-- Location: The Times of India
-- Description: Police in Bijnor have arrested a woman, her lover, and his friend for the murder of her husband, Mohammad Mehraj. The victim was allegedly sedated and then murdered with a sharp weapon while sleeping. The wife reportedly staged being unconscious during the in…
+### OTHER on 2026-03-31 02:00
+- Location: Human Rights Watch
+- Description: Click to expand Image
+ 
 
 
-### OTHER on 2026-03-31 01:36
-- Location: Fox News
-- Description: Illegal alien Xa Lee tried to strike an ICE officer with his car in Sacramento, California, during an arrest attempt, and the fugitive remains at large.
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Iranian security forces stand guard on top of an armored vehicle in Tehran on March 21, 2026.
+ © 2026 AFP via Getty Images 
+ 
+ 
 
 
-### HOMICIDE on 2026-03-31 01:29
-- Location: ABC News (AU)
-- Description: Michael James Chalmers is ordered to face trial after pleading not guilty to murdering a sex worker at a Melbourne brothel in 2024.
+ 
+(Beirut) – Iran’s Islamic Revolutionary Guard Corps (IRGC) is conducting a campaign …
 
-Analysis generated at: Wed Apr  1 02:01:47 UTC 2026
+Analysis generated at: Wed Apr  1 03:18:36 UTC 2026
