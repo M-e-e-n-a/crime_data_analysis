@@ -1,10 +1,10 @@
 
-Loaded 96927 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-01 13:20:13
+Loaded 97014 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-01 18:27:53
 
 Incidents by source:
 source
-newsapi           96826
+newsapi           96913
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,30 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-04-01 13:20
-- Location: EFF
-- Description: This is the second installment of a blog series reflecting on the global digital legacy of the 2011 Arab uprisings.
-
-From Russia—where wartime censorship and more stringent platform controls have choked dissenting voices—to Nigeria, with its aggressive taked…
+### OTHER on 2026-04-01 18:27
+- Location: Clarkesworldmagazine.com
+- Description: When D0G hears the scream and streaks ahead down the leaf-strewn road through the fall-bright birch and beech and maple, I remember what my sister Taylor used to say: there […]
 
 
-### HOMICIDE on 2026-04-01 13:00
-- Location: New York Post
-- Description: A 20-year-old man gunned down his 18-year-old girlfriend and then killed himself in a tragic murder-suicide in Queens early Wednesday, police sources told The Post.
+### HOMICIDE on 2026-04-01 18:27
+- Location: Fox News
+- Description: Chicago Mayor Brandon Johnson again refuses to apologize to Sheridan Gorman's parents, doubling down on sanctuary city policies amid fierce criticism.
 
 
-### ROBBERY/THEFT on 2026-04-01 12:36
-- Location: Rediff.com
-- Description: Spanish police investigate Islamophobic chants during Spain vs Egypt friendly, drawing condemnation from government and football authorities over racism in stadiums.
+### OTHER on 2026-04-01 18:26
+- Location: Clarkesworldmagazine.com
+- Description: EMPLOYMENT AGREEMENT Name of Employer: Chaska Punku Space Port Administrative Authority (CPSPAA), based in Chaska Punku, Chile, acting in lieu of the European Space Agency (ESA), based in Paris, France […]
 
 
-### ROBBERY/THEFT on 2026-04-01 12:35
-- Location: Livemint
-- Description: Indian households hold 25,000-30,000 tonnes of gold, valued at nearly $5 trillion. With limited bank locker availability, experts recommend jewellery insurance to cover risks like theft and natural disasters, especially as gold prices rise.
+### OTHER on 2026-04-01 18:19
+- Location: Abcnews.com
+- Description: A former corrections officer has been found guilty of manslaughter in the fatal beating of an inmate at Mid-State Correctional Facility in upstate New York
 
 
-### OTHER on 2026-04-01 12:22
-- Location: Page Six
-- Description: According to the Bay County Jail website, the former reality star was no longer listed as an inmate at the Florida jail as of Tuesday afternoon.
+### OTHER on 2026-04-01 18:18
+- Location: NPR
+- Description: Israeli fringe actor in the spotlight for anti-war film
 
-Analysis generated at: Thu Apr  2 13:26:14 UTC 2026
+Analysis generated at: Thu Apr  2 18:50:24 UTC 2026
