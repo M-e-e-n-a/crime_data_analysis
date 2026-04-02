@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Apr  1 18:54:36 UTC 2026
+Last updated: Thu Apr  2 01:50:22 UTC 2026
 
 ## Latest Analysis
 
-Loaded 96835 incidents
-Date range: 2024-01-01 00:00:00 to 2026-03-31 18:53:46
+Loaded 96847 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-01 01:36:54
 
 Incidents by source:
 source
-newsapi           96734
+newsapi           96746
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-03-31 18:53
+### HOMICIDE on 2026-04-01 01:36
 - Location: ABC News (AU)
-- Description: Australia has a long history of violent outlaws heading bush to avoid capture. But how is it still possible to remain on the run for so long?
+- Description: The Supreme Court has heard Newcastle man Anthony Nugent was shot dead at his front door as payback for selling a fake gun.
 
 
-### SHOOTING on 2026-03-31 18:51
-- Location: New York Post
-- Description: The 51-year-old driver was on break around 1:30 a.m. March 23 when four strangers approached his Toyota Highlander on Second Avenue near East 3rd Street in the Bowery and asked for a ride, authorities and sources said.
+### HOMICIDE on 2026-04-01 01:08
+- Location: ABC News (AU)
+- Description: Victoria Police have officially confirmed that the person shot dead by officers at a property in Victoria's north-east on Monday morning was fugitive Dezi Freeman.
 
 
-### OTHER on 2026-03-31 18:49
-- Location: NBC News
-- Description: A journalist was kidnapped in Iraq on Tuesday by unknown individuals, according to the Interior Ministry
+### HOMICIDE on 2026-04-01 01:07
+- Location: Bleeding Cool News
+- Description: After an explosion has deadly and devastating consequences during the first part of this two-part case, the team looks to stop a serial bomber's path of destruction before more lives are lost. Here's a look at the official overview, image gallery, and sneak p…
 
 
-### ASSAULT on 2026-03-31 18:39
-- Location: New York Post
-- Description: The male attacker stormed up to the unsuspecting teen around 7:35 p.m. as he walked on 34th Avenue near 82nd Street and asked him, “What set?”, referring to gangs, authorities said.
+### OTHER on 2026-04-01 01:00
+- Location: Fox News
+- Description: A contributor for the far-left outlet Drop Site News called for "wiping out Israel" called Israelis "terrorist parasites" who "must be removed from our planet" in an Instagram post.
 
 
-### SHOOTING on 2026-03-31 18:34
-- Location: The Daily Caller
-- Description: Police found 11-year-old boy shot on Crandall, Texas, elementary school playground Sunday and arrested another 11-year-old on assault and evidence charges.
+### OTHER on 2026-04-01 00:37
+- Location: Bleeding Cool News
+- Description: We've got your pregame preview for tonight's hit ABC series, as Scott Speedman's ex-con/private investigator RJ Decker investigates a Little League coach with a target on his back while staying within the limits of his conditional release. Along with an offic…
 
-Analysis generated at: Wed Apr  1 18:54:36 UTC 2026
+Analysis generated at: Thu Apr  2 01:50:22 UTC 2026
