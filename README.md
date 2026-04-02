@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Apr  2 12:59:59 UTC 2026
+Last updated: Thu Apr  2 13:26:14 UTC 2026
 
 ## Latest Analysis
 
-Loaded 96925 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-01 12:36:50
+Loaded 96927 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-01 13:20:13
 
 Incidents by source:
 source
-newsapi           96824
+newsapi           96826
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,6 +24,18 @@ bution.svg)
 
 ## Recent Incidents
 
+### OTHER on 2026-04-01 13:20
+- Location: EFF
+- Description: This is the second installment of a blog series reflecting on the global digital legacy of the 2011 Arab uprisings.
+
+From Russia—where wartime censorship and more stringent platform controls have choked dissenting voices—to Nigeria, with its aggressive taked…
+
+
+### HOMICIDE on 2026-04-01 13:00
+- Location: New York Post
+- Description: A 20-year-old man gunned down his 18-year-old girlfriend and then killed himself in a tragic murder-suicide in Queens early Wednesday, police sources told The Post.
+
+
 ### ROBBERY/THEFT on 2026-04-01 12:36
 - Location: Rediff.com
 - Description: Spanish police investigate Islamophobic chants during Spain vs Egypt friendly, drawing condemnation from government and football authorities over racism in stadiums.
@@ -38,15 +50,4 @@ bution.svg)
 - Location: Page Six
 - Description: According to the Bay County Jail website, the former reality star was no longer listed as an inmate at the Florida jail as of Tuesday afternoon.
 
-
-### OTHER on 2026-04-01 12:21
-- Location: PetaPixel
-- Description: Google Street View can capture the weird and wonderful, and this week a bicycle accident from 2018 has been going viral on the internet.
-[Read More]
-
-
-### ASSAULT on 2026-04-01 12:11
-- Location: Abcnews.com
-- Description: London police have arrested three more suspects in the arson attack that burned four ambulances owned by a Jewish charity
-
-Analysis generated at: Thu Apr  2 12:59:59 UTC 2026
+Analysis generated at: Thu Apr  2 13:26:14 UTC 2026
