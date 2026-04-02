@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Apr  2 02:44:59 UTC 2026
+Last updated: Thu Apr  2 07:06:34 UTC 2026
 
 ## Latest Analysis
 
-Loaded 96852 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-01 02:35:00
+Loaded 96873 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-01 06:05:40
 
 Incidents by source:
 source
-newsapi           96751
+newsapi           96772
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-04-01 02:35
-- Location: Dazed
-- Description: Shot during his time as a volunteer on the front lines of the Ukraine war, Aria Shahrokhshahi’s new book is an eerily beautiful depiction of a society under attack
+### SHOOTING on 2026-04-01 06:05
+- Location: New York Post
+- Description: An illegal migrant who’s been convicted of a host of crimes including battery and felony gun possession slammed into an ICE agent with his vehicle during a traffic stop in Sacramento. Authorities tried to arrest Xa Lee, a criminal illegal migrant from Laos wi…
 
 
-### OTHER on 2026-04-01 02:11
-- Location: Mediaite
-- Description: Conspiracy theorist and podcaster Alex Jones said on Tuesday that President Donald Trump was in “freefall,” claiming that it was time to “cut the bait” on the president before the upcoming midterms. Jones, a longtime supporter of Trump in his first term, has …
+### ROBBERY/THEFT on 2026-04-01 06:00
+- Location: Naturalnews.com
+- Description: Four masked thieves stole three high-value paintings from a private museum in northern Italy in a heist lasting approximately three minutes, according to police reports. The theft occurred on the night of March 22-23 at the Magnani Rocca Foundation villa near…
 
 
-### OTHER on 2026-04-01 02:01
-- Location: Slate Magazine
-- Description: Daredevil: Born Again’s Anti-Vigilante Task Force bears a clear resemblance to Trump’s real-life goons.
+### OTHER on 2026-04-01 05:45
+- Location: Abajournal.com
+- Description: On June 8, 1966, when Bill Kurtis ducked out of his tax review class in the basement classroom at Washburn University School of Law in…
 
 
-### OTHER on 2026-04-01 02:00
-- Location: Mediaite
-- Description: The New York Times Editorial Board released a lengthy piece on Tuesday documenting all of the crimes committed by Jan. 6 rioters after they were pardoned by President Donald Trump.  When Trump pardoned approximately 1,500 Jan. 6 defendants and prisoners in th…
+### OTHER on 2026-04-01 05:44
+- Location: Abcnews.com
+- Description: ABC News’ Linsey Davis spoke with UCLA director of space medicine Dr. Haig Aintablian on how astronauts are preparing for their trip to space ahead of the Artemis II launch.
 
 
-### OTHER on 2026-04-01 01:56
-- Location: Fox News
-- Description: Florida's Supreme Court denied a request to lift James Duckett's execution stay after DNA testing of key evidence came back inconclusive Friday.
+### OTHER on 2026-04-01 05:27
+- Location: Christiantoday.com
+- Description: The situation has declined since 2018.
 
-Analysis generated at: Thu Apr  2 02:44:59 UTC 2026
+Analysis generated at: Thu Apr  2 07:06:34 UTC 2026
