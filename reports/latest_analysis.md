@@ -1,10 +1,10 @@
 
-Loaded 97126 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-02 13:01:00
+Loaded 97221 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-02 18:37:32
 
 Incidents by source:
 source
-newsapi           97025
+newsapi           97120
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-04-02 13:01
-- Location: CBC News
-- Description: Ohman says accounting software glitches created duplicate expenses and missing data. He claims all of the reimbursements he received were rightfully owed.
+### HOMICIDE on 2026-04-02 18:37
+- Location: The Irish Times
+- Description: Gardaí arrested man in 40s on foot of extradition warrant to face charges in Northern Ireland
 
 
-### HOMICIDE on 2026-04-02 13:00
-- Location: Legalinsurrection.com
-- Description: "The lengths that @wusa9 and the mainstream media will go to run cover for criminal illegal aliens is astonishing."
-The post ‘Virginia Dad’ Who Allegedly Killed Three-Year-Old Daughter is an Illegal Alien first appeared on Le·gal In·sur·rec·tion.
+### HOMICIDE on 2026-04-02 18:33
+- Location: The Times of India
+- Description: Dr. Loni Liriina, a dedicated physician from Manipur, showcased her remarkable skills during a tense moment on an Air India flight from Tokyo. When a young traveler suffered intense chest pain and struggled to breathe, her quick assessment revealed an acute a…
 
 
-### OTHER on 2026-04-02 13:00
-- Location: Rolling Stone
-- Description: The Trump toadies talked a big game about foreign wars and health care during the campaign. They’ve since betrayed themselves, and the nation
-
-
-### HOMICIDE on 2026-04-02 12:57
+### ROBBERY/THEFT on 2026-04-02 18:29
 - Location: Fox News
-- Description: ICE arrests MS-13 gangster known as 'the witch,' wanted in El Salvador for murder, after he was allegedly caught and released in California in 2023.
+- Description: Insurance companies are being scammed out of money by fraudulent rescue schemes in the nation of Nepal, according to a report by The Kathmandu Post.
 
 
-### ROBBERY/THEFT on 2026-04-02 12:51
-- Location: Abcnews.com
-- Description: Dutch authorities have recovered a priceless ancient golden helmet from Romania stolen last year from a museum in the Netherlands
+### HOMICIDE on 2026-04-02 18:25
+- Location: TheJournal.ie
+- Description: Lawlor was shot outside a house in north Belfast on 4 April, 2020.
 
-Analysis generated at: Fri Apr  3 13:14:47 UTC 2026
+
+### ASSAULT on 2026-04-02 18:22
+- Location: Freerepublic.com
+- Description: The Alternative für Deutschland (AfD) has launched an interactive online tool tracking knife attacks across Berlin, as the party seeks to make rising violent crime a central issue in the city’s election campaign. The so-called “knife app” provides a detailed …
+
+Analysis generated at: Fri Apr  3 18:39:56 UTC 2026
