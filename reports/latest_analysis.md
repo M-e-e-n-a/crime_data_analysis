@@ -1,10 +1,10 @@
 
-Loaded 97014 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-01 18:27:53
+Loaded 97028 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-02 01:35:17
 
 Incidents by source:
 source
-newsapi           96913
+newsapi           96927
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-04-01 18:27
-- Location: Clarkesworldmagazine.com
-- Description: When D0G hears the scream and streaks ahead down the leaf-strewn road through the fall-bright birch and beech and maple, I remember what my sister Taylor used to say: there […]
+### OTHER on 2026-04-02 01:35
+- Location: Syllad.com
+- Description: Meghalaya Police has been conferred the prestigious President of India’s Police Colour, as conveyed by the Ministry of Home Affairs, Government of India, in recognition of its exemplary service, professionalism, and steadfast commitment. The President’s Colou…
 
 
-### HOMICIDE on 2026-04-01 18:27
-- Location: Fox News
-- Description: Chicago Mayor Brandon Johnson again refuses to apologize to Sheridan Gorman's parents, doubling down on sanctuary city policies amid fierce criticism.
-
-
-### OTHER on 2026-04-01 18:26
-- Location: Clarkesworldmagazine.com
-- Description: EMPLOYMENT AGREEMENT Name of Employer: Chaska Punku Space Port Administrative Authority (CPSPAA), based in Chaska Punku, Chile, acting in lieu of the European Space Agency (ESA), based in Paris, France […]
-
-
-### OTHER on 2026-04-01 18:19
+### OTHER on 2026-04-02 01:16
 - Location: Abcnews.com
-- Description: A former corrections officer has been found guilty of manslaughter in the fatal beating of an inmate at Mid-State Correctional Facility in upstate New York
+- Description: Footage from aboard a commercial aircraft shows a unique perspective of the Artemis II launch from Kennedy Space Center in Florida.
 
 
-### OTHER on 2026-04-01 18:18
-- Location: NPR
-- Description: Israeli fringe actor in the spotlight for anti-war film
+### ROBBERY/THEFT on 2026-04-02 01:11
+- Location: Abcnews.com
+- Description: Authorities in Indiana say a 41-year-old man is facing multiple charges after he stole a Bud Light truck and crashed into a patrol car.
 
-Analysis generated at: Thu Apr  2 18:50:24 UTC 2026
+
+### OTHER on 2026-04-02 01:09
+- Location: Abcnews.com
+- Description: The four-person crew of the Artemis II mission has crossed the boundary into space after launching from NASA’s Kennedy Space Center in Florida.
+
+
+### HOMICIDE on 2026-04-02 00:55
+- Location: New York Post
+- Description: A murder suspect who was accidentally released from a California jail last year is back in custody after a dramatic multi-state manhunt that ended with his arrest in St. Louis, federal authorities said.
+
+Analysis generated at: Fri Apr  3 01:52:28 UTC 2026
