@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Apr  3 12:50:47 UTC 2026
+Last updated: Fri Apr  3 13:14:47 UTC 2026
 
 ## Latest Analysis
 
-Loaded 97121 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-02 12:47:18
+Loaded 97126 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-02 13:01:00
 
 Incidents by source:
 source
-newsapi           97020
+newsapi           97025
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-04-02 12:47
-- Location: Consequence.net
-- Description: Former Turnstile guitarist Brady Ebert has been arrested on a charge of second degree attempted murder, according to arrest records in Montgomery County, Maryland.
+### OTHER on 2026-04-02 13:01
+- Location: CBC News
+- Description: Ohman says accounting software glitches created duplicate expenses and missing data. He claims all of the reimbursements he received were rightfully owed.
 
 
-### HOMICIDE on 2026-04-02 12:41
-- Location: The Hollywood Gossip
-- Description: Reading Time: 3 minutesDespite last year's political killings of Minnesota lawmakers, this tragedy appears much more personal.
-Florida Politician Nancy Metayer Bowen Killed at Home Before Congressional Run, Husband … was originally published on The Hollywood …
+### HOMICIDE on 2026-04-02 13:00
+- Location: Legalinsurrection.com
+- Description: "The lengths that @wusa9 and the mainstream media will go to run cover for criminal illegal aliens is astonishing."
+The post ‘Virginia Dad’ Who Allegedly Killed Three-Year-Old Daughter is an Illegal Alien first appeared on Le·gal In·sur·rec·tion.
 
 
-### OTHER on 2026-04-02 12:39
+### OTHER on 2026-04-02 13:00
+- Location: Rolling Stone
+- Description: The Trump toadies talked a big game about foreign wars and health care during the campaign. They’ve since betrayed themselves, and the nation
+
+
+### HOMICIDE on 2026-04-02 12:57
+- Location: Fox News
+- Description: ICE arrests MS-13 gangster known as 'the witch,' wanted in El Salvador for murder, after he was allegedly caught and released in California in 2023.
+
+
+### ROBBERY/THEFT on 2026-04-02 12:51
 - Location: Abcnews.com
-- Description: "GMA" shares an update after the rapper fell ill while performing in "Moulin Rouge!"
+- Description: Dutch authorities have recovered a priceless ancient golden helmet from Romania stolen last year from a museum in the Netherlands
 
-
-### HOMICIDE on 2026-04-02 12:34
-- Location: Sky.com
-- Description: Police investigating the murder of a mother and her five children in a house fire have appealed to whoever wrote an anonymous letter containing "a number of details" about the incident to come forward.
-
-
-### ROBBERY/THEFT on 2026-04-02 12:19
-- Location: RTE
-- Description: Dutch authorities showed off a recovered priceless gold 2,500-year-old helmet from Romania that was stolen last year during a brazen robbery in the Netherlands.
-
-Analysis generated at: Fri Apr  3 12:50:47 UTC 2026
+Analysis generated at: Fri Apr  3 13:14:47 UTC 2026
