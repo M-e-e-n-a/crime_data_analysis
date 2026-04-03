@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Apr  3 07:02:09 UTC 2026
+Last updated: Fri Apr  3 12:50:47 UTC 2026
 
 ## Latest Analysis
 
-Loaded 97062 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-02 06:45:49
+Loaded 97121 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-02 12:47:18
 
 Incidents by source:
 source
-newsapi           96961
+newsapi           97020
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-04-02 06:45
+### HOMICIDE on 2026-04-02 12:47
+- Location: Consequence.net
+- Description: Former Turnstile guitarist Brady Ebert has been arrested on a charge of second degree attempted murder, according to arrest records in Montgomery County, Maryland.
+
+
+### HOMICIDE on 2026-04-02 12:41
+- Location: The Hollywood Gossip
+- Description: Reading Time: 3 minutesDespite last year's political killings of Minnesota lawmakers, this tragedy appears much more personal.
+Florida Politician Nancy Metayer Bowen Killed at Home Before Congressional Run, Husband … was originally published on The Hollywood …
+
+
+### OTHER on 2026-04-02 12:39
 - Location: Abcnews.com
-- Description: President Trump on the war in Iran: "We are on track to complete all of America's military objectives... We're going to bring them back to the Stone Ages where they belong."
+- Description: "GMA" shares an update after the rapper fell ill while performing in "Moulin Rouge!"
 
 
-### HOMICIDE on 2026-04-02 06:32
-- Location: Abcnews.com
-- Description: Ted Bundy's violent spree spanned at least four years, leaving dozens of victims, including at least 30 women and girls killed
+### HOMICIDE on 2026-04-02 12:34
+- Location: Sky.com
+- Description: Police investigating the murder of a mother and her five children in a house fire have appealed to whoever wrote an anonymous letter containing "a number of details" about the incident to come forward.
 
 
-### OTHER on 2026-04-02 06:19
-- Location: Odditycentral.com
-- Description: A 50-year-old Tennessee woman spent over five months in jail after being wrongfully tied to a bank fraud investigation by an AI facial recognition software.
-The post Grandmother Wrongfully Jailed for Nearly Six Months After AI Facial Recognition Error first a…
+### ROBBERY/THEFT on 2026-04-02 12:19
+- Location: RTE
+- Description: Dutch authorities showed off a recovered priceless gold 2,500-year-old helmet from Romania that was stolen last year during a brazen robbery in the Netherlands.
 
-
-### ROBBERY/THEFT on 2026-04-02 06:10
-- Location: New York Post
-- Description: Muhsin Sarac, a Baltimore-based Twitch streamer who broadcasts his day-to-day hustle serving food under the username Musa_usa, was busy working the grill around 9 p.m. on March 27 when a sneaky customer made off with money from his tip jar.
-
-
-### HOMICIDE on 2026-04-02 05:54
-- Location: New York Post
-- Description: Howard Wang, 43, was charged in the September 2025 killings of his wife, Linlin Guo, 37, and her mother, Beimin Cheng, who were found were their throats slashed inside the couple's Walnut Creek home.
-
-Analysis generated at: Fri Apr  3 07:02:09 UTC 2026
+Analysis generated at: Fri Apr  3 12:50:47 UTC 2026
