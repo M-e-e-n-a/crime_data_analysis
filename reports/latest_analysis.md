@@ -1,10 +1,10 @@
 
-Loaded 97028 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-02 01:35:17
+Loaded 97034 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-02 02:46:50
 
 Incidents by source:
 source
-newsapi           96927
+newsapi           96933
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,48 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-04-02 01:35
-- Location: Syllad.com
-- Description: Meghalaya Police has been conferred the prestigious President of India’s Police Colour, as conveyed by the Ministry of Home Affairs, Government of India, in recognition of its exemplary service, professionalism, and steadfast commitment. The President’s Colou…
-
-
-### OTHER on 2026-04-02 01:16
-- Location: Abcnews.com
-- Description: Footage from aboard a commercial aircraft shows a unique perspective of the Artemis II launch from Kennedy Space Center in Florida.
-
-
-### ROBBERY/THEFT on 2026-04-02 01:11
-- Location: Abcnews.com
-- Description: Authorities in Indiana say a 41-year-old man is facing multiple charges after he stole a Bud Light truck and crashed into a patrol car.
-
-
-### OTHER on 2026-04-02 01:09
-- Location: Abcnews.com
-- Description: The four-person crew of the Artemis II mission has crossed the boundary into space after launching from NASA’s Kennedy Space Center in Florida.
-
-
-### HOMICIDE on 2026-04-02 00:55
+### HOMICIDE on 2026-04-02 02:46
 - Location: New York Post
-- Description: A murder suspect who was accidentally released from a California jail last year is back in custody after a dramatic multi-state manhunt that ended with his arrest in St. Louis, federal authorities said.
+- Description: It’s fitting that the Iryna Zarutska mural in Providence, RI, is being removed on the say-so of the city’s lefty mayor before the artist could complete the murdered young woman’s face.
 
-Analysis generated at: Fri Apr  3 01:52:28 UTC 2026
+
+### HOMICIDE on 2026-04-02 02:37
+- Location: CBC News
+- Description: A man who police said was involved in a deadly gang war in B.C.'s Lower Mainland between 2008 and 2009 was sentenced to 15 years in prison for conspiracy to commit murder on Wednesday.
+
+
+### SHOOTING on 2026-04-02 02:31
+- Location: New Zealand Herald
+- Description: Commissioner wanted to end production crew's access in weeks after Phillips was shot.
+
+
+### HOMICIDE on 2026-04-02 02:03
+- Location: Fox News
+- Description: The man charged for killing NYPD Detective Jonathan Diller during a 2024 Queens traffic stop was convicted of manslaughter but acquitted of murder.
+
+
+### OTHER on 2026-04-02 02:00
+- Location: Human Rights Watch
+- Description: Click to expand Image
+ 
+
+
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ An external view of the destruction of buildings in Evin prison's northern premises after the Israeli strikes on June 23, 2025 in Tehran, Iran. Photo taken on July 1, 2025. 
+ © 2025 Majid Saeedi/Getty Images
+ 
+ 
+
+
+ 
+…
+
+Analysis generated at: Fri Apr  3 02:47:17 UTC 2026
