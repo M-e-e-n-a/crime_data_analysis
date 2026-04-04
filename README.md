@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Apr  4 02:37:40 UTC 2026
+Last updated: Sat Apr  4 06:54:42 UTC 2026
 
 ## Latest Analysis
 
-Loaded 97254 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-03 02:27:18
+Loaded 97275 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-03 06:31:30
 
 Incidents by source:
 source
-newsapi           97153
+newsapi           97174
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-04-03 02:27
-- Location: TmoNews
-- Description: A 29-year-old restaurant server has been arrested in Miami on multiple charges after impersonating a T-Mobile representative to defraud an elderly customer. The incident occurred in September at a warehouse company in Medley, Florida, where the suspect met a …
+### OTHER on 2026-04-03 06:31
+- Location: The Indian Express
+- Description: The failure to report incidents of child pregnancies would result in imprisonment for a term of up to 1 year and a fine, say the guidelines issued by the Karnataka Health and Family Welfare Department to state hospitals and the Indian Medical Association.
 
 
-### OTHER on 2026-04-03 02:24
-- Location: New York Post
-- Description: Bloodthirsty ‘No Kings’ protestors threw bottles at two police horses and injured an officer at last weekend’s mayhem-filled riots, Los Angeles Police Department officials said.   The demonstrations kicked off Saturday morning at Grand Park in downtown LA and…
-
-
-### OTHER on 2026-04-03 02:19
-- Location: CBC News
-- Description: A 14-year-old boy has been arrested and charged in a hate crimes investigation after a Brampton monument that honours victims of the Tamil genocide in Sri Lanka was vandalized, police say.
-
-
-### OTHER on 2026-04-03 02:14
+### HOMICIDE on 2026-04-03 06:29
 - Location: The Times of India
-- Description: In a heartwarming twist, an online Kumaoni folk song sparked a long-overdue family reunion after 30 years. When relatives stumbled upon heartfelt comments from Mahipal Rajwar—who'd embarked on a spiritual journey away from his home—curiosity turned into hope.
+- Description: Police have solved the murder of Ehjazhussain Qureshi, a mechanical engineer. His skeletal remains were discovered on farmland in Rampur village. The prime accused, real estate agent Vishal Khoddekar, and his aide Jannatunisa Khan were arrested. A dispute ove…
 
 
-### OTHER on 2026-04-03 02:13
-- Location: The Times of India
-- Description: India News: Zahraa Ilyas, a Bachelor of Commerce student at Mount Carmel College, Bengaluru, got placed with investment banker Goldman Sachs in July last year. Pl.
+### HOMICIDE on 2026-04-03 06:00
+- Location: ABC News (AU)
+- Description: A highway has been closed in southern NSW after the state's first road death of the Easter long weekend, with the detour expected to add five hours' travel time for some motorists.
 
-Analysis generated at: Sat Apr  4 02:37:40 UTC 2026
+
+### OTHER on 2026-04-03 05:56
+- Location: CounterPunch
+- Description: What will the costs of the latest round of illegal, ill-fated U.S. military adventurism in the Middle East amount to? Some of the toll is already clear. Washington has squandered billions of dollars on a reckless war of aggression against Iran. A merciless ca…
+
+
+### OTHER on 2026-04-03 05:25
+- Location: Freerepublic.com
+- Description: Daily Readings from the USCCBStanding by the cross of Jesus were his mother and his mother’s sister, Mary the wife of Clopas, and Mary of Magdala. When Jesus saw his mother and the disciple there whom he loved, he said to his mother, “Woman, behold, your son.…
+
+Analysis generated at: Sat Apr  4 06:54:42 UTC 2026
