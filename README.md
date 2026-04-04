@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Apr  3 18:39:56 UTC 2026
+Last updated: Sat Apr  4 01:45:20 UTC 2026
 
 ## Latest Analysis
 
-Loaded 97221 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-02 18:37:32
+Loaded 97240 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-03 01:39:42
 
 Incidents by source:
 source
-newsapi           97120
+newsapi           97139
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-04-02 18:37
-- Location: The Irish Times
-- Description: Gardaí arrested man in 40s on foot of extradition warrant to face charges in Northern Ireland
+### OTHER on 2026-04-03 01:39
+- Location: Abcnews.com
+- Description: The translunar injection burn sending the Artemis II crew and Orion on its path toward the moon has been successfully completed.
 
 
-### HOMICIDE on 2026-04-02 18:33
-- Location: The Times of India
-- Description: Dr. Loni Liriina, a dedicated physician from Manipur, showcased her remarkable skills during a tense moment on an Air India flight from Tokyo. When a young traveler suffered intense chest pain and struggled to breathe, her quick assessment revealed an acute a…
+### OTHER on 2026-04-03 01:36
+- Location: New York Post
+- Description: Defense Secretary Pete Hegseth said Thursday he'll allow service members to carry personal weapons during military installations.
 
 
-### ROBBERY/THEFT on 2026-04-02 18:29
+### ASSAULT on 2026-04-03 01:20
 - Location: Fox News
-- Description: Insurance companies are being scammed out of money by fraudulent rescue schemes in the nation of Nepal, according to a report by The Kathmandu Post.
+- Description: A woman accused of stalking Fleetwood Mac's Lindsey Buckingham reportedly has spoken out. She has a years-long history of stalking, threats and false claims against him.
 
 
-### HOMICIDE on 2026-04-02 18:25
-- Location: TheJournal.ie
-- Description: Lawlor was shot outside a house in north Belfast on 4 April, 2020.
+### ASSAULT on 2026-04-03 01:15
+- Location: Israelnationalnews.com
+- Description: Secretary of War Pete Hegseth authorizes off-futy service members to carry private firearms on installations
 
 
-### ASSAULT on 2026-04-02 18:22
-- Location: Freerepublic.com
-- Description: The Alternative für Deutschland (AfD) has launched an interactive online tool tracking knife attacks across Berlin, as the party seeks to make rising violent crime a central issue in the city’s election campaign. The so-called “knife app” provides a detailed …
+### HOMICIDE on 2026-04-03 01:01
+- Location: KTLA Los Angeles
+- Description: A notorious Southern California killer who was condemned to death for his role in a 2002 murder-for-hire plot that claimed the life of a 44-year-old Orange...
 
-Analysis generated at: Fri Apr  3 18:39:56 UTC 2026
+Analysis generated at: Sat Apr  4 01:45:20 UTC 2026
