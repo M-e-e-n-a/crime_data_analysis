@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Apr  4 01:45:20 UTC 2026
+Last updated: Sat Apr  4 02:37:40 UTC 2026
 
 ## Latest Analysis
 
-Loaded 97240 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-03 01:39:42
+Loaded 97254 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-03 02:27:18
 
 Incidents by source:
 source
-newsapi           97139
+newsapi           97153
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-04-03 01:39
-- Location: Abcnews.com
-- Description: The translunar injection burn sending the Artemis II crew and Orion on its path toward the moon has been successfully completed.
+### OTHER on 2026-04-03 02:27
+- Location: TmoNews
+- Description: A 29-year-old restaurant server has been arrested in Miami on multiple charges after impersonating a T-Mobile representative to defraud an elderly customer. The incident occurred in September at a warehouse company in Medley, Florida, where the suspect met a …
 
 
-### OTHER on 2026-04-03 01:36
+### OTHER on 2026-04-03 02:24
 - Location: New York Post
-- Description: Defense Secretary Pete Hegseth said Thursday he'll allow service members to carry personal weapons during military installations.
+- Description: Bloodthirsty ‘No Kings’ protestors threw bottles at two police horses and injured an officer at last weekend’s mayhem-filled riots, Los Angeles Police Department officials said.   The demonstrations kicked off Saturday morning at Grand Park in downtown LA and…
 
 
-### ASSAULT on 2026-04-03 01:20
-- Location: Fox News
-- Description: A woman accused of stalking Fleetwood Mac's Lindsey Buckingham reportedly has spoken out. She has a years-long history of stalking, threats and false claims against him.
+### OTHER on 2026-04-03 02:19
+- Location: CBC News
+- Description: A 14-year-old boy has been arrested and charged in a hate crimes investigation after a Brampton monument that honours victims of the Tamil genocide in Sri Lanka was vandalized, police say.
 
 
-### ASSAULT on 2026-04-03 01:15
-- Location: Israelnationalnews.com
-- Description: Secretary of War Pete Hegseth authorizes off-futy service members to carry private firearms on installations
+### OTHER on 2026-04-03 02:14
+- Location: The Times of India
+- Description: In a heartwarming twist, an online Kumaoni folk song sparked a long-overdue family reunion after 30 years. When relatives stumbled upon heartfelt comments from Mahipal Rajwar—who'd embarked on a spiritual journey away from his home—curiosity turned into hope.
 
 
-### HOMICIDE on 2026-04-03 01:01
-- Location: KTLA Los Angeles
-- Description: A notorious Southern California killer who was condemned to death for his role in a 2002 murder-for-hire plot that claimed the life of a 44-year-old Orange...
+### OTHER on 2026-04-03 02:13
+- Location: The Times of India
+- Description: India News: Zahraa Ilyas, a Bachelor of Commerce student at Mount Carmel College, Bengaluru, got placed with investment banker Goldman Sachs in July last year. Pl.
 
-Analysis generated at: Sat Apr  4 01:45:20 UTC 2026
+Analysis generated at: Sat Apr  4 02:37:40 UTC 2026
