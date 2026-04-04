@@ -1,10 +1,10 @@
 
-Loaded 97326 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-03 13:02:21
+Loaded 97397 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-03 18:32:33
 
 Incidents by source:
 source
-newsapi           97225
+newsapi           97296
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,30 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-04-03 13:02
-- Location: Globalresearch.ca
-- Description: “As democracy improves, the role of president increasingly represents the soul of the people. On some great and glorious day, the plain folks of the land will reach their heart’s desire and the White House will be adorned by a …
-The post What Is Best for the …
+### OTHER on 2026-04-03 18:32
+- Location: The Week Magazine
+- Description: Hallucinating stoners, Algerian ennui and another Minnesota crime story headline April’s cinematic offerings
 
 
-### OTHER on 2026-04-03 13:02
-- Location: DW (English)
-- Description: The increasing use of artificial intelligence in courtrooms raises worries that the technology may aggravate bias and structural distortions in the legal system.
+### ROBBERY/THEFT on 2026-04-03 18:31
+- Location: Robotmak3rs.com
+- Description: ROBOTMAK3RS + LEGO SMART Play bricks and tiles resulted in some new play possibilities. Can SMART Play bricks and tiles be used to enhance L...
 
 
-### OTHER on 2026-04-03 13:00
-- Location: Vulture
-- Description: A distinct culture has emerged among the people who live on ‘For All Mankind’s Mars, and they have different priorities than the powerful corporations running the Red Planet.
+### OTHER on 2026-04-03 18:30
+- Location: ABC News (AU)
+- Description: The podcasts we're listening to this weekend include an investigation into the Salt Path scandal and a personal look at the role of Australia in the end of apartheid.
 
 
-### ASSAULT on 2026-04-03 13:00
-- Location: Brownstoner.com
-- Description: by Adam Daly, amNY
-A long-running fight over a proposed men’s shelter in Brooklyn has entered a new phase under Mayor Zohran Mamdani, with demolition resuming despite over two years of protests and local officials pressing the new administration to reverse co…
+### HOMICIDE on 2026-04-03 18:24
+- Location: Fox News
+- Description: Two admitted murderers will serve just five years in prison after a plea deal with a progressive Virginia prosecutor reduced their effective sentences.
 
 
-### OTHER on 2026-04-03 12:58
-- Location: The Irish Times
-- Description: Court hears final arguments in appeal by Irishman and former team-mates of rape convictions
+### ASSAULT on 2026-04-03 18:23
+- Location: The Times of India
+- Description: A shocking incident unfolded at a private hospital in Saran, Bihar, where an 11-year-old girl was allegedly assaulted by a compounder. The accused, Monu Kumar, was apprehended by police shortly after the crime. Authorities have sealed the hospital for evidenc…
 
-Analysis generated at: Sat Apr  4 13:07:33 UTC 2026
+Analysis generated at: Sat Apr  4 18:34:41 UTC 2026
