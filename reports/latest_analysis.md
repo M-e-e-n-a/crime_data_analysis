@@ -1,10 +1,10 @@
 
-Loaded 97397 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-03 18:32:33
+Loaded 97410 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-04 01:54:03
 
 Incidents by source:
 source
-newsapi           97296
+newsapi           97309
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-04-03 18:32
-- Location: The Week Magazine
-- Description: Hallucinating stoners, Algerian ennui and another Minnesota crime story headline April’s cinematic offerings
+### ASSAULT on 2026-04-04 01:54
+- Location: New York Post
+- Description: "This was a random and vicious attack on an innocent woman who was doing nothing wrong."
 
 
-### ROBBERY/THEFT on 2026-04-03 18:31
-- Location: Robotmak3rs.com
-- Description: ROBOTMAK3RS + LEGO SMART Play bricks and tiles resulted in some new play possibilities. Can SMART Play bricks and tiles be used to enhance L...
-
-
-### OTHER on 2026-04-03 18:30
-- Location: ABC News (AU)
-- Description: The podcasts we're listening to this weekend include an investigation into the Salt Path scandal and a personal look at the role of Australia in the end of apartheid.
-
-
-### HOMICIDE on 2026-04-03 18:24
+### HOMICIDE on 2026-04-04 01:40
 - Location: Fox News
-- Description: Two admitted murderers will serve just five years in prison after a plea deal with a progressive Virginia prosecutor reduced their effective sentences.
+- Description: Walmart employee Jordanne Drinkwater, 32, was fatally stabbed in a random attack during her shift by Zeddrick Ross, 37, who claimed he was killing a "demon" that had been stalking him.
 
 
-### ASSAULT on 2026-04-03 18:23
+### HOMICIDE on 2026-04-04 01:35
 - Location: The Times of India
-- Description: A shocking incident unfolded at a private hospital in Saran, Bihar, where an 11-year-old girl was allegedly assaulted by a compounder. The accused, Monu Kumar, was apprehended by police shortly after the crime. Authorities have sealed the hospital for evidenc…
+- Description: Police have arrested a second suspect in the tragic stray-bullet killing of a 7-month-old baby in Brooklyn. Matthew Rodriguez, 18, was apprehended in Pennsylvania. The suspected shooter, Amuri Greene, 21, was arrested earlier. The infant, Kaori Patterson-Moor…
 
-Analysis generated at: Sat Apr  4 18:34:41 UTC 2026
+
+### OTHER on 2026-04-04 01:31
+- Location: Slubillikens.com
+- Description: Saint Louis men’s tennis split Atlantic 10 play in Media, Pa., falling 5-0 to Saint Joseph’s before edging George Mason 4-3 behind key doubles and tiebreak wins.
+
+
+### OTHER on 2026-04-04 01:30
+- Location: Screen Rant
+- Description: This Netflix series only raises the stakes higher and higher with each new season, and it's become a must-see thriller for any action fan.
+
+Analysis generated at: Sun Apr  5 01:56:56 UTC 2026
