@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Apr  5 01:56:56 UTC 2026
+Last updated: Sun Apr  5 02:55:22 UTC 2026
 
 ## Latest Analysis
 
-Loaded 97410 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-04 01:54:03
+Loaded 97416 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-04 02:52:51
 
 Incidents by source:
 source
-newsapi           97309
+newsapi           97315
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2026-04-04 01:54
+### SHOOTING on 2026-04-04 02:52
+- Location: BusinessLine
+- Description: Iran downed two US planes in major escalation; one service member rescued, another missing as tensions rise across the Middle East amid ongoing war.
+
+
+### HOMICIDE on 2026-04-04 02:39
+- Location: Techdirt
+- Description: This story was originally published by ProPublica. Republished under a CC BY-NC-ND 3.0 license. They asked nicely at first.  After an Immigration and Customs Enforcement agent shot and killed Renee Good, a 37-year-old mother of three who’d recently moved to M…
+
+
+### ASSAULT on 2026-04-04 02:23
+- Location: Activistpost.com
+- Description: Claims that an Iran-backed group is carrying out attacks in European cities raise questions about why they’re not targeting countries directly involved in the US-Israeli war, and why they appear to communicate like Israelis. Strangely, suspects arrested in th…
+
+
+### OTHER on 2026-04-04 02:15
+- Location: Khabarhub.com
+- Description: KATHMANDU: Economic Digest offers a concise yet comprehensive overview of significant business happenings in Nepal, presented in easily digestible summaries. Nepal’s economy reflects a mix of structural strength and underlying fragility, where strong external…
+
+
+### OTHER on 2026-04-04 02:03
 - Location: New York Post
-- Description: "This was a random and vicious attack on an innocent woman who was doing nothing wrong."
+- Description: A Los Angeles burglar with a flair for luxury struck again, stealing a 21-piece, $58,000 Mah Jong sofa by Roche Bobois from a downtown furniture store. Authorities and victims believe the culprit is Zack Vincler, who has a documented criminal history and an o…
 
-
-### HOMICIDE on 2026-04-04 01:40
-- Location: Fox News
-- Description: Walmart employee Jordanne Drinkwater, 32, was fatally stabbed in a random attack during her shift by Zeddrick Ross, 37, who claimed he was killing a "demon" that had been stalking him.
-
-
-### HOMICIDE on 2026-04-04 01:35
-- Location: The Times of India
-- Description: Police have arrested a second suspect in the tragic stray-bullet killing of a 7-month-old baby in Brooklyn. Matthew Rodriguez, 18, was apprehended in Pennsylvania. The suspected shooter, Amuri Greene, 21, was arrested earlier. The infant, Kaori Patterson-Moor…
-
-
-### OTHER on 2026-04-04 01:31
-- Location: Slubillikens.com
-- Description: Saint Louis men’s tennis split Atlantic 10 play in Media, Pa., falling 5-0 to Saint Joseph’s before edging George Mason 4-3 behind key doubles and tiebreak wins.
-
-
-### OTHER on 2026-04-04 01:30
-- Location: Screen Rant
-- Description: This Netflix series only raises the stakes higher and higher with each new season, and it's become a must-see thriller for any action fan.
-
-Analysis generated at: Sun Apr  5 01:56:56 UTC 2026
+Analysis generated at: Sun Apr  5 02:55:22 UTC 2026
