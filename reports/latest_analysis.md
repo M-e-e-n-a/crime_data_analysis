@@ -44,4 +44,4 @@ bution.svg)
 - Location: CBC News
 - Description: Two people are dead after a shooting in Brampton late Friday, according to Peel police.
 
-Analysis generated at: Sun Apr  5 12:44:17 UTC 2026
+Analysis generated at: Sun Apr  5 13:09:33 UTC 2026
