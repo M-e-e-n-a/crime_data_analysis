@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Apr  5 02:55:22 UTC 2026
+Last updated: Sun Apr  5 07:00:07 UTC 2026
 
 ## Latest Analysis
 
-Loaded 97416 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-04 02:52:51
+Loaded 97431 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-04 06:56:05
 
 Incidents by source:
 source
-newsapi           97315
+newsapi           97330
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-04-04 02:52
-- Location: BusinessLine
-- Description: Iran downed two US planes in major escalation; one service member rescued, another missing as tensions rise across the Middle East amid ongoing war.
+### HOMICIDE on 2026-04-04 06:56
+- Location: BBC News
+- Description: The 45-year-old man died after he was hit by a white Volkswagen in Cudworth on Friday.
 
 
-### HOMICIDE on 2026-04-04 02:39
-- Location: Techdirt
-- Description: This story was originally published by ProPublica. Republished under a CC BY-NC-ND 3.0 license. They asked nicely at first.  After an Immigration and Customs Enforcement agent shot and killed Renee Good, a 37-year-old mother of three who’d recently moved to M…
+### OTHER on 2026-04-04 06:14
+- Location: ABC News (AU)
+- Description: A large-scale search is underway for 51-year-old Naomi Marie Duckett, who was last seen at Gap Natural Bridge within Torndirrup National Park just before midday on Thursday.
 
 
-### ASSAULT on 2026-04-04 02:23
-- Location: Activistpost.com
-- Description: Claims that an Iran-backed group is carrying out attacks in European cities raise questions about why they’re not targeting countries directly involved in the US-Israeli war, and why they appear to communicate like Israelis. Strangely, suspects arrested in th…
+### HOMICIDE on 2026-04-04 05:57
+- Location: The Times of India
+- Description: A tragic incident unfolded in Warangal where a 26-year-old woman and her two young daughters were discovered dead in a swimming pool. The woman's father alleges her husband murdered them, suspecting the unborn child was also a girl, and is now absconding. Pol…
 
 
-### OTHER on 2026-04-04 02:15
-- Location: Khabarhub.com
-- Description: KATHMANDU: Economic Digest offers a concise yet comprehensive overview of significant business happenings in Nepal, presented in easily digestible summaries. Nepal’s economy reflects a mix of structural strength and underlying fragility, where strong external…
+### OTHER on 2026-04-04 05:43
+- Location: Breitbart News
+- Description: Immigration and Customs Enforcement officers in Texas issued a detainer to Dallas County officials, placing a hold on a Mexican illegal alien accused of slitting his newlywed wife's throat with a pocketknife. The detainer asks Dallas County law enforcement to…
 
 
-### OTHER on 2026-04-04 02:03
-- Location: New York Post
-- Description: A Los Angeles burglar with a flair for luxury struck again, stealing a 21-piece, $58,000 Mah Jong sofa by Roche Bobois from a downtown furniture store. Authorities and victims believe the culprit is Zack Vincler, who has a documented criminal history and an o…
+### OTHER on 2026-04-04 05:20
+- Location: Gossiplankanews.com
+- Description: 152 foreigners who were illegally residing in the country and engaged in large-scale financial fraud via the internet have been arrested by the Criminal Investigation Department while hiding in a tourist hotel located in Ambalakandawila, Chilaw. The arrested …
 
-Analysis generated at: Sun Apr  5 02:55:22 UTC 2026
+Analysis generated at: Sun Apr  5 07:00:07 UTC 2026
