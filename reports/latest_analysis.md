@@ -1,10 +1,10 @@
 
-Loaded 97431 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-04 06:56:05
+Loaded 97458 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-04 12:43:48
 
 Incidents by source:
 source
-newsapi           97330
+newsapi           97357
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-04-04 06:56
-- Location: BBC News
-- Description: The 45-year-old man died after he was hit by a white Volkswagen in Cudworth on Friday.
+### HOMICIDE on 2026-04-04 12:43
+- Location: CBS News
+- Description: Janice Randle was found dead in her bed in 1992, but police couldn't make an arrest in the case until new information emerged.
 
 
-### OTHER on 2026-04-04 06:14
-- Location: ABC News (AU)
-- Description: A large-scale search is underway for 51-year-old Naomi Marie Duckett, who was last seen at Gap Natural Bridge within Torndirrup National Park just before midday on Thursday.
+### OTHER on 2026-04-04 12:40
+- Location: Realclearinvestigations.com
+- Description: In “The Information State: Politics in the Age of Total Control,” Jacob Siegel traces how we reached the point where anything that contradicts the dominant narrative can be labeled...
 
 
-### HOMICIDE on 2026-04-04 05:57
-- Location: The Times of India
-- Description: A tragic incident unfolded in Warangal where a 26-year-old woman and her two young daughters were discovered dead in a swimming pool. The woman's father alleges her husband murdered them, suspecting the unborn child was also a girl, and is now absconding. Pol…
+### OTHER on 2026-04-04 12:39
+- Location: Inside the Magic
+- Description: A group of 28 Disney annual passholders has been arrested after a police investigation. Being a Disney passholder comes with plenty of perks, from unlimited visits (with potential reservation restrictions, depending on the pass in question) and merchandise an…
 
 
-### OTHER on 2026-04-04 05:43
-- Location: Breitbart News
-- Description: Immigration and Customs Enforcement officers in Texas issued a detainer to Dallas County officials, placing a hold on a Mexican illegal alien accused of slitting his newlywed wife's throat with a pocketknife. The detainer asks Dallas County law enforcement to…
+### HOMICIDE on 2026-04-04 12:30
+- Location: Newser
+- Description: A Utah man who has lived under a death sentence for roughly 40 years now says the state's case against him should be tossed out entirely, the Salt Lake Tribune reports. Lawyers for Douglas Stewart Carter on Friday asked a judge to dismiss his aggravated murde…
 
 
-### OTHER on 2026-04-04 05:20
-- Location: Gossiplankanews.com
-- Description: 152 foreigners who were illegally residing in the country and engaged in large-scale financial fraud via the internet have been arrested by the Criminal Investigation Department while hiding in a tourist hotel located in Ambalakandawila, Chilaw. The arrested …
+### HOMICIDE on 2026-04-04 12:10
+- Location: CBC News
+- Description: Two people are dead after a shooting in Brampton late Friday, according to Peel police.
 
-Analysis generated at: Sun Apr  5 07:00:07 UTC 2026
+Analysis generated at: Sun Apr  5 12:44:17 UTC 2026
