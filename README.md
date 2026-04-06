@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Apr  6 12:58:53 UTC 2026
+Last updated: Mon Apr  6 13:22:07 UTC 2026
 
 ## Latest Analysis
 
-Loaded 97526 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-05 12:22:27
+Loaded 97531 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-05 13:12:40
 
 Incidents by source:
 source
-newsapi           97425
+newsapi           97430
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,32 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-04-05 12:22
-- Location: The Punch
-- Description: Ondo State Police Command arrested five suspected members of the Eiye Confraternity during a raid on a secret gathering in Akungba-Akoko.
-
-Read More: https://punchng.com/police-raid-cult-gathering-arrest-five-in-ondo/
+### OTHER on 2026-04-05 13:12
+- Location: Freerepublic.com
+- Description: When I served in the USAF as a security policeman, we were among the very few airmen or officers allowed to carry weapons on base. There are the “rivet counters,” airmen armed with rifles—M-16s back then, M4s now—who guard aircraft, missiles and related insta…
 
 
-### ROBBERY/THEFT on 2026-04-05 12:12
+### OTHER on 2026-04-05 13:09
+- Location: The Irish Times
+- Description: Infant discovered on the beach at White Strand, Cahersiveen, on April 14, 1984
+
+
+### OTHER on 2026-04-05 13:00
+- Location: Theregister.com
+- Description: True-crime tales of criminals making fools of themselves
+interview Cybercrime crews have become almost mystical entities, with security vendors assigning them names like Wizard Spider and Velvet Tempest.…
+
+
+### HOMICIDE on 2026-04-05 13:00
+- Location: ComicBook.com
+- Description: One iconic ‘90s thriller is streaming for free, and the innovative movie is a must-watch for fans of the genre. There is no shortage of great thrillers available on streaming. Whether viewers want an old-fashioned murder mystery, a police procedural, or somet…
+
+
+### OTHER on 2026-04-05 12:59
 - Location: The Times of India
-- Description: A student collective, 'Solutionaries,' has developed a pocket-sized spittoon to combat India's public spitting problem, linked to millions suffering from tobacco-related diseases. This innovative device locks, absorbs liquid, and reduces odor, transforming a …
+- Description: Veteran actress Girija Lokesh is supporting 10 financially distressed senior artists by covering their medical expenses. Inspired by her late husband, she emphasizes the critical need for healthcare in old age and urges the film industry to collectively care …
 
-
-### ROBBERY/THEFT on 2026-04-05 12:00
-- Location: Fox News
-- Description: Former FBI agent Geoff Kelly says museum art thefts are more common than people think, warning that open, welcoming spaces also create security vulnerabilities.
-
-
-### OTHER on 2026-04-05 11:55
-- Location: Dineshkhabar.com
-- Description: Dhangadhi: Inspector General of the Armed Police Force Nepal (IGP) Raju Aryal has emphasized the need for strict action against those who breach the security of Armed Police Force installations, citing recent lapses at the Khakraula camp.
-
-Speaking at the 25…
-
-
-### DRUG RELATED on 2026-04-05 11:54
-- Location: CNN
-- Description: A great-grandmother’s medicine tested positive for cocaine – spawning a 15-month legal nightmare, forcing her to refinance her home, and spurring a new state law that could set a precedent across the country.
-
-Analysis generated at: Mon Apr  6 12:58:53 UTC 2026
+Analysis generated at: Mon Apr  6 13:22:07 UTC 2026
