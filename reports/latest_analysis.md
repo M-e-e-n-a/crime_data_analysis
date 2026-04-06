@@ -1,10 +1,10 @@
 
-Loaded 97498 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-05 02:10:22
+Loaded 97508 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-05 06:38:07
 
 Incidents by source:
 source
-newsapi           97397
+newsapi           97407
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,30 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-04-05 02:10
-- Location: ABC News (AU)
-- Description: Leading Senior Constable Neal Thompson's sisters plan to launch legal action against Victoria Police over his death. They also say they felt "abandoned" by police after their brother's death.
-
-
-### HOMICIDE on 2026-04-05 01:58
+### HOMICIDE on 2026-04-05 06:38
 - Location: The Times of India
-- Description: A 29-year-old contractor was brutally beaten and buried alive in Raipur after allegedly stalking a woman. The woman's beau and his associates are accused of the murder. Police arrested three individuals and detained two juveniles, with another accused still a…
+- Description: The West Bengal Motion Picture Artists’ Forum has filed an FIR against the production house of Bhole Baba Par Karega, seeking a thorough investigation into the tragic death of actor Rahul Arunoday Banerjee. Priyanka Sarkar, Rahul's wife, joined the forum memb…
 
 
-### OTHER on 2026-04-05 01:35
-- Location: Themirror.com
-- Description: The case of missing 84-year-old Nancy Guthrie continues to grip the nation two months after her abduction, with the return of a girl missing for 32 years could offer a small glimmer of hope into Nancy's safe return.
+### HOMICIDE on 2026-04-05 06:00
+- Location: CBS News
+- Description: A burglar caught red-handed leads police to a killer and a poisoned root beer float. "48 Hours" correspondent Peter Van Sant reports.
 
 
-### HOMICIDE on 2026-04-05 00:43
-- Location: Freerepublic.com
-- Description: An Arkansas man has been charged with first-degree murder after he reportedly walked into a Walmart store and fatally stabbed an employee because he believed he was being followed by a demon, police said.
+### ASSAULT on 2026-04-05 05:44
+- Location: Truthout
+- Description: Trump’s endless falsehoods about the Iran war build on a long history of US military mythmaking.
 
 
-### ASSAULT on 2026-04-05 00:35
-- Location: The Punch
-- Description: Nigerian lawyers share harrowing experiences of alleged courtroom spiritual attacks. Discover the intersection of law, culture, and belief in the justice s
+### ROBBERY/THEFT on 2026-04-05 05:07
+- Location: Abcnews.com
+- Description: Italian Prime Minister Giorgia Meloni has praised police after the arrest of alleged organized crime boss Roberto Mazzarella
 
-Read More: https://punchng.com/haunted-wigs-lawyers-share-mysterious-courtroom-experiences/
 
-Analysis generated at: Mon Apr  6 02:56:47 UTC 2026
+### HOMICIDE on 2026-04-05 04:30
+- Location: Independent.ie
+- Description: The garda investigation into a ­Kerry couple who were arrested on suspicion of murder of an infant child more than 40 years ago has concluded, with a file sent to the ­Director of Public Prosecutions (DPP).
+
+Analysis generated at: Mon Apr  6 07:22:59 UTC 2026
