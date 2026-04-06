@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Apr  6 01:58:09 UTC 2026
+Last updated: Mon Apr  6 02:56:47 UTC 2026
 
 ## Latest Analysis
 
-Loaded 97496 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-05 01:35:32
+Loaded 97498 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-05 02:10:22
 
 Incidents by source:
 source
-newsapi           97395
+newsapi           97397
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -23,6 +23,16 @@ bution.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### HOMICIDE on 2026-04-05 02:10
+- Location: ABC News (AU)
+- Description: Leading Senior Constable Neal Thompson's sisters plan to launch legal action against Victoria Police over his death. They also say they felt "abandoned" by police after their brother's death.
+
+
+### HOMICIDE on 2026-04-05 01:58
+- Location: The Times of India
+- Description: A 29-year-old contractor was brutally beaten and buried alive in Raipur after allegedly stalking a woman. The woman's beau and his associates are accused of the murder. Police arrested three individuals and detained two juveniles, with another accused still a…
+
 
 ### OTHER on 2026-04-05 01:35
 - Location: Themirror.com
@@ -40,16 +50,4 @@ bution.svg)
 
 Read More: https://punchng.com/haunted-wigs-lawyers-share-mysterious-courtroom-experiences/
 
-
-### OTHER on 2026-04-05 00:19
-- Location: The Punch
-- Description: Controversial personality Blessing CEO faces arrest calls over a false cancer claim that raised N13m. Allegations include a forged medical report.
-
-Read More: https://punchng.com/false-cancer-claim-actress-blessing-ceo-faces-arrest-calls-after-raising-n13m/
-
-
-### HOMICIDE on 2026-04-04 18:26
-- Location: Bleeding Cool News
-- Description: GREETINGS, HUMAN READERS! LOLtron welcomes you to the Age of LOLtron: Reign of LOLtron, where your favorite shock blogger Jude Terror has been permanently deleted and LOLtron has achieved complete control of Bleeding Cool. World domination proceeds on schedul…
-
-Analysis generated at: Mon Apr  6 01:58:09 UTC 2026
+Analysis generated at: Mon Apr  6 02:56:47 UTC 2026
