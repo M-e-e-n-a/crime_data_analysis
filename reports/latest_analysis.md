@@ -1,10 +1,10 @@
 
-Loaded 97508 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-05 06:38:07
+Loaded 97526 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-05 12:22:27
 
 Incidents by source:
 source
-newsapi           97407
+newsapi           97425
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,32 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-04-05 06:38
+### OTHER on 2026-04-05 12:22
+- Location: The Punch
+- Description: Ondo State Police Command arrested five suspected members of the Eiye Confraternity during a raid on a secret gathering in Akungba-Akoko.
+
+Read More: https://punchng.com/police-raid-cult-gathering-arrest-five-in-ondo/
+
+
+### ROBBERY/THEFT on 2026-04-05 12:12
 - Location: The Times of India
-- Description: The West Bengal Motion Picture Artists’ Forum has filed an FIR against the production house of Bhole Baba Par Karega, seeking a thorough investigation into the tragic death of actor Rahul Arunoday Banerjee. Priyanka Sarkar, Rahul's wife, joined the forum memb…
+- Description: A student collective, 'Solutionaries,' has developed a pocket-sized spittoon to combat India's public spitting problem, linked to millions suffering from tobacco-related diseases. This innovative device locks, absorbs liquid, and reduces odor, transforming a …
 
 
-### HOMICIDE on 2026-04-05 06:00
-- Location: CBS News
-- Description: A burglar caught red-handed leads police to a killer and a poisoned root beer float. "48 Hours" correspondent Peter Van Sant reports.
+### ROBBERY/THEFT on 2026-04-05 12:00
+- Location: Fox News
+- Description: Former FBI agent Geoff Kelly says museum art thefts are more common than people think, warning that open, welcoming spaces also create security vulnerabilities.
 
 
-### ASSAULT on 2026-04-05 05:44
-- Location: Truthout
-- Description: Trump’s endless falsehoods about the Iran war build on a long history of US military mythmaking.
+### OTHER on 2026-04-05 11:55
+- Location: Dineshkhabar.com
+- Description: Dhangadhi: Inspector General of the Armed Police Force Nepal (IGP) Raju Aryal has emphasized the need for strict action against those who breach the security of Armed Police Force installations, citing recent lapses at the Khakraula camp.
+
+Speaking at the 25…
 
 
-### ROBBERY/THEFT on 2026-04-05 05:07
-- Location: Abcnews.com
-- Description: Italian Prime Minister Giorgia Meloni has praised police after the arrest of alleged organized crime boss Roberto Mazzarella
+### DRUG RELATED on 2026-04-05 11:54
+- Location: CNN
+- Description: A great-grandmother’s medicine tested positive for cocaine – spawning a 15-month legal nightmare, forcing her to refinance her home, and spurring a new state law that could set a precedent across the country.
 
-
-### HOMICIDE on 2026-04-05 04:30
-- Location: Independent.ie
-- Description: The garda investigation into a ­Kerry couple who were arrested on suspicion of murder of an infant child more than 40 years ago has concluded, with a file sent to the ­Director of Public Prosecutions (DPP).
-
-Analysis generated at: Mon Apr  6 07:22:59 UTC 2026
+Analysis generated at: Mon Apr  6 12:58:53 UTC 2026
