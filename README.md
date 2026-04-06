@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Apr  6 13:22:07 UTC 2026
+Last updated: Mon Apr  6 18:51:11 UTC 2026
 
 ## Latest Analysis
 
-Loaded 97531 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-05 13:12:40
+Loaded 97565 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-05 18:50:08
 
 Incidents by source:
 source
-newsapi           97430
+newsapi           97464
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-04-05 13:12
-- Location: Freerepublic.com
-- Description: When I served in the USAF as a security policeman, we were among the very few airmen or officers allowed to carry weapons on base. There are the “rivet counters,” airmen armed with rifles—M-16s back then, M4s now—who guard aircraft, missiles and related insta…
-
-
-### OTHER on 2026-04-05 13:09
-- Location: The Irish Times
-- Description: Infant discovered on the beach at White Strand, Cahersiveen, on April 14, 1984
-
-
-### OTHER on 2026-04-05 13:00
-- Location: Theregister.com
-- Description: True-crime tales of criminals making fools of themselves
-interview Cybercrime crews have become almost mystical entities, with security vendors assigning them names like Wizard Spider and Velvet Tempest.…
-
-
-### HOMICIDE on 2026-04-05 13:00
-- Location: ComicBook.com
-- Description: One iconic ‘90s thriller is streaming for free, and the innovative movie is a must-watch for fans of the genre. There is no shortage of great thrillers available on streaming. Whether viewers want an old-fashioned murder mystery, a police procedural, or somet…
-
-
-### OTHER on 2026-04-05 12:59
+### ASSAULT on 2026-04-05 18:50
 - Location: The Times of India
-- Description: Veteran actress Girija Lokesh is supporting 10 financially distressed senior artists by covering their medical expenses. Inspired by her late husband, she emphasizes the critical need for healthcare in old age and urges the film industry to collectively care …
+- Description: A shocking incident in Cortalim sees a woman attacked with a knife by her cousin, leaving her seriously injured. Her father also intervened and was injured in the process. Police are investigating the violent altercation that unfolded over family disputes.
 
-Analysis generated at: Mon Apr  6 13:22:07 UTC 2026
+
+### OTHER on 2026-04-05 18:46
+- Location: The Daily Caller
+- Description: Leftist groups that led pro-Soviet advocacy during the Cold War have joined a movement pushing for the U.S. to go easy on Cuba.
+
+
+### OTHER on 2026-04-05 18:45
+- Location: The Times of India
+- Description: Residents of Margao's Comba subway are facing serious health risks due to recurring sewage overflows. Locals are urging authorities to intervene immediately to protect the health of students and the community.
+
+
+### ASSAULT on 2026-04-05 18:45
+- Location: The Times of India
+- Description: Masoodpur grocery store assault: Men allegedly forced entry after being denied purchase at 1:30 am; FIR filed at Vasant Kunj South, suspects identified.
+
+
+### ROBBERY/THEFT on 2026-04-05 18:43
+- Location: The Times of India
+- Description: In a shocking turn of events, Manipur University experienced a bomb blast on its campus this Saturday evening. Thankfully, while the explosion caused significant damage, there were no injuries reported. Officials have denounced this 'atrocious act' as a direc…
+
+Analysis generated at: Mon Apr  6 18:51:11 UTC 2026
