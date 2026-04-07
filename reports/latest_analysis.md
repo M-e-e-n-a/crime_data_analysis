@@ -1,10 +1,10 @@
 
-Loaded 97565 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-05 18:50:08
+Loaded 97572 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-06 01:34:21
 
 Incidents by source:
 source
-newsapi           97464
+newsapi           97471
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,31 @@ bution.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2026-04-05 18:50
-- Location: The Times of India
-- Description: A shocking incident in Cortalim sees a woman attacked with a knife by her cousin, leaving her seriously injured. Her father also intervened and was injured in the process. Police are investigating the violent altercation that unfolded over family disputes.
+### HOMICIDE on 2026-04-06 01:34
+- Location: Raw Story
+- Description: For the first time in years, there are early signs that police killings in the United States may be declining — after deaths reached a record high in 2024 and amid intensified scrutiny of law enforcement tactics nationwide.The findings come as photos and vide…
 
 
-### OTHER on 2026-04-05 18:46
-- Location: The Daily Caller
-- Description: Leftist groups that led pro-Soviet advocacy during the Cold War have joined a movement pushing for the U.S. to go easy on Cuba.
+### HOMICIDE on 2026-04-06 01:28
+- Location: Breitbart News
+- Description: Two Washington, DC, men have been accused of choking, beating, burning, and ultimately killing a man in his condo after he politely let them into the lobby of his upscale building.
+The post D.C. Police: Man Lets Two Men into Condo Building, They Murder, Rob H…
 
 
-### OTHER on 2026-04-05 18:45
-- Location: The Times of India
-- Description: Residents of Margao's Comba subway are facing serious health risks due to recurring sewage overflows. Locals are urging authorities to intervene immediately to protect the health of students and the community.
+### OTHER on 2026-04-06 01:10
+- Location: The Indian Express
+- Description: This is the front page of The Indian Express published on April 06, 1986.
 
 
-### ASSAULT on 2026-04-05 18:45
-- Location: The Times of India
-- Description: Masoodpur grocery store assault: Men allegedly forced entry after being denied purchase at 1:30 am; FIR filed at Vasant Kunj South, suspects identified.
+### OTHER on 2026-04-06 00:35
+- Location: Screen Rant
+- Description: It's refreshing to have street-level stories during the MCU's Multiverse Saga, though it seems other worlds and realities can't be fully ignored.
 
 
-### ROBBERY/THEFT on 2026-04-05 18:43
-- Location: The Times of India
-- Description: In a shocking turn of events, Manipur University experienced a bomb blast on its campus this Saturday evening. Thankfully, while the explosion caused significant damage, there were no injuries reported. Officials have denounced this 'atrocious act' as a direc…
+### OTHER on 2026-04-06 00:21
+- Location: The Punch
+- Description: Ondo State Police Command confirms the arrest of five suspected Eiye Confraternity members after disrupting a secret cult gathering in Akungba-Akoko.
 
-Analysis generated at: Mon Apr  6 18:51:11 UTC 2026
+Read More: https://punchng.com/police-smash-cult-gathering-in-ondo-arrest-five/
+
+Analysis generated at: Tue Apr  7 01:54:54 UTC 2026
