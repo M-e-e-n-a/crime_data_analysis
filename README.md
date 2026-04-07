@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Apr  7 07:09:22 UTC 2026
+Last updated: Tue Apr  7 13:07:50 UTC 2026
 
 ## Latest Analysis
 
-Loaded 97599 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-06 07:02:00
+Loaded 97654 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-06 13:05:46
 
 Incidents by source:
 source
-newsapi           97498
+newsapi           97553
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-04-06 07:02
-- Location: Fortune
-- Description: Nvidia giving Supermicro the cold shoulder on GPUs could have a “devastating impact” on the hardware manufacturer, according to Bernstein analysts.
+### OTHER on 2026-04-06 13:05
+- Location: Freerepublic.com
+- Description: Although ICE has celebrated going after “the worst of the worst criminals” in Ohio, the vast majority of people taken into custody had no criminal conviction – less than 7% of arrestees during the heightened enforcement surge in mid-December had a criminal re…
 
 
-### OTHER on 2026-04-06 07:01
-- Location: Variety
-- Description: Next month, the “Star Wars” franchise will return to theaters after an astonishing seven-year absence with Jon Favreau’s “The Mandalorian and Grogu,” a feature spinoff of the director’s hit Disney+ series “The Mandalorian.” The premiere is a confirmation of w…
+### OTHER on 2026-04-06 13:03
+- Location: New York Post
+- Description: Dan Hurley may have gotten an assist in UConn’s latest win from an unexpected place: his wife, Andrea. During an appearance with CBS Sports on Sunday, Andrea Hurley revealed that she almost forgot her husband’s lucky charm for Saturday’s Final Four matchup wi…
 
 
-### HOMICIDE on 2026-04-06 07:00
-- Location: TheJournal.ie
-- Description: Strait of Hormuz deadline looms, Zoom University, and energy crisis persists.
+### OTHER on 2026-04-06 13:00
+- Location: Legalinsurrection.com
+- Description: Minneapolis Chief Brian O'Hara is facing 22 misconduct investigations. He has been willing to rush to condemn ICE agents, but now wants a fair hearing for his own accusations.
+The post Anti-ICE Minneapolis Police Chief has 22 Open Misconduct Complaints Agains…
 
 
-### ASSAULT on 2026-04-06 06:59
-- Location: Internet
-- Description: Germany's Federal Criminal Police Office (aka BKA or the Bundeskriminalamt) has unmasked the real identity of the main threat actors associated with the now-defunct REvil (aka Sodinokibi) ransomware-as-a-service (RaaS) operation.
-The threat actor, who went by…
+### ROBBERY/THEFT on 2026-04-06 13:00
+- Location: Wccftech
+- Description: Grand Theft Auto 6, or GTA 6 for short, is quite simply the most anticipated (and most expensive, in all likelihood) product in the history of entertainment. It follows Grand Theft Auto 5, the second-best-selling game of all time (by verified sales figures) w…
 
 
-### DRUG RELATED on 2026-04-06 06:36
-- Location: Ibtimes.com.au
-- Description: Elon Musk on Monday amplified sharp criticism of California's approach to homelessness, quoting a lengthy video clip in which he describes a "homeless industrial complex" as "really dark" and labels some nonprofits "drug zombie farmers" whose funding depends …
+### OTHER on 2026-04-06 13:00
+- Location: Daily Signal
+- Description: On Sept. 3, 2011, in the parking lot of the Delaware Park Racetrack, a woman named Bridget Wismer handed her newborn son to a man named John... Read More
+The post She Was Imprisoned for Selling Her Baby. Now Delaware Wants to Make It Legal.  appeared first on…
 
-Analysis generated at: Tue Apr  7 07:09:22 UTC 2026
+Analysis generated at: Tue Apr  7 13:07:50 UTC 2026
