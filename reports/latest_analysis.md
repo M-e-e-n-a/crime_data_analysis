@@ -1,10 +1,10 @@
 
-Loaded 97654 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-06 13:05:46
+Loaded 97656 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-06 13:22:20
 
 Incidents by source:
 source
-newsapi           97553
+newsapi           97555
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -19,6 +19,18 @@ bution.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### ROBBERY/THEFT on 2026-04-06 13:22
+- Location: The Punch
+- Description: Nigeria’s FRSC achieves a stolen vehicle recovery in Anambra, finding a car taken three years ago using the National Vehicle Identification Scheme (NVIS).
+
+Read More: https://punchng.com/frsc-recovers-stolen-vehicle-three-years-after-in-anambra/
+
+
+### OTHER on 2026-04-06 13:09
+- Location: The Indian Express
+- Description: Why stagflation is relevant to the UPSC exam? What is the significance of topics such as the Transgenders, Women’s Reservation in the parliament, and social media in modern policing on both the preliminary and main exams? You can learn more by reading the Ind…
+
 
 ### OTHER on 2026-04-06 13:05
 - Location: Freerepublic.com
@@ -35,15 +47,4 @@ bution.svg)
 - Description: Minneapolis Chief Brian O'Hara is facing 22 misconduct investigations. He has been willing to rush to condemn ICE agents, but now wants a fair hearing for his own accusations.
 The post Anti-ICE Minneapolis Police Chief has 22 Open Misconduct Complaints Agains…
 
-
-### ROBBERY/THEFT on 2026-04-06 13:00
-- Location: Wccftech
-- Description: Grand Theft Auto 6, or GTA 6 for short, is quite simply the most anticipated (and most expensive, in all likelihood) product in the history of entertainment. It follows Grand Theft Auto 5, the second-best-selling game of all time (by verified sales figures) w…
-
-
-### OTHER on 2026-04-06 13:00
-- Location: Daily Signal
-- Description: On Sept. 3, 2011, in the parking lot of the Delaware Park Racetrack, a woman named Bridget Wismer handed her newborn son to a man named John... Read More
-The post She Was Imprisoned for Selling Her Baby. Now Delaware Wants to Make It Legal.  appeared first on…
-
-Analysis generated at: Tue Apr  7 13:07:50 UTC 2026
+Analysis generated at: Tue Apr  7 13:28:20 UTC 2026
