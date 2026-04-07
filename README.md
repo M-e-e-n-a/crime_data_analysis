@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Apr  7 02:50:32 UTC 2026
+Last updated: Tue Apr  7 07:09:22 UTC 2026
 
 ## Latest Analysis
 
-Loaded 97576 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-06 02:45:12
+Loaded 97599 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-06 07:02:00
 
 Incidents by source:
 source
-newsapi           97475
+newsapi           97498
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-04-06 02:45
-- Location: Khabarhub.com
-- Description: KATHMANDU: Last week’s developments in Nepal reflect a moment of significant political transition, where institutional renewal, anti-corruption efforts, and governance restructuring are unfolding at the same time—often in ways that both strengthen and test de…
+### OTHER on 2026-04-06 07:02
+- Location: Fortune
+- Description: Nvidia giving Supermicro the cold shoulder on GPUs could have a “devastating impact” on the hardware manufacturer, according to Bernstein analysts.
 
 
-### HOMICIDE on 2026-04-06 02:15
-- Location: The Times of India
-- Description: Three engineering students, inspired by crime shows, confessed to a premeditated murder of an intoxicated man. They allegedly robbed and bludgeoned the victim, then meticulously disposed of evidence to create an unsolved mystery. Police discovered bloodstains…
+### OTHER on 2026-04-06 07:01
+- Location: Variety
+- Description: Next month, the “Star Wars” franchise will return to theaters after an astonishing seven-year absence with Jon Favreau’s “The Mandalorian and Grogu,” a feature spinoff of the director’s hit Disney+ series “The Mandalorian.” The premiere is a confirmation of w…
 
 
-### OTHER on 2026-04-06 02:07
-- Location: Krebs on Security
-- Description: An elusive hacker who went by the handle "UNKN" and ran the early Russian ransomware groups GandCrab and REvil now has a name and a face. Authorities in Germany say 31-year-old Russian Daniil Maksimovich Shchukin headed both cybercrime gangs and helped carry …
+### HOMICIDE on 2026-04-06 07:00
+- Location: TheJournal.ie
+- Description: Strait of Hormuz deadline looms, Zoom University, and energy crisis persists.
 
 
-### OTHER on 2026-04-06 02:03
-- Location: NBC News
-- Description: An American woman was swept out to sea after she fell overboard during an evening dinghy trip with her husband off the Bahamas on Saturday, police said
+### ASSAULT on 2026-04-06 06:59
+- Location: Internet
+- Description: Germany's Federal Criminal Police Office (aka BKA or the Bundeskriminalamt) has unmasked the real identity of the main threat actors associated with the now-defunct REvil (aka Sodinokibi) ransomware-as-a-service (RaaS) operation.
+The threat actor, who went by…
 
 
-### HOMICIDE on 2026-04-06 01:34
-- Location: Raw Story
-- Description: For the first time in years, there are early signs that police killings in the United States may be declining — after deaths reached a record high in 2024 and amid intensified scrutiny of law enforcement tactics nationwide.The findings come as photos and vide…
+### DRUG RELATED on 2026-04-06 06:36
+- Location: Ibtimes.com.au
+- Description: Elon Musk on Monday amplified sharp criticism of California's approach to homelessness, quoting a lengthy video clip in which he describes a "homeless industrial complex" as "really dark" and labels some nonprofits "drug zombie farmers" whose funding depends …
 
-Analysis generated at: Tue Apr  7 02:50:32 UTC 2026
+Analysis generated at: Tue Apr  7 07:09:22 UTC 2026
