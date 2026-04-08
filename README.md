@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Apr  8 07:11:42 UTC 2026
+Last updated: Wed Apr  8 13:10:01 UTC 2026
 
 ## Latest Analysis
 
-Loaded 97780 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-07 06:51:08
+Loaded 97848 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-07 13:05:55
 
 Incidents by source:
 source
-newsapi           97679
+newsapi           97747
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-04-07 06:51
-- Location: The Times of India
-- Description: Nine police officers received the death penalty for the brutal custodial torture and murder of P Jayaraj and his son J Bennix in Sathankulam. The court deemed the case rarest of rare. The father-son duo died in custody in June 2020 after being detained for al…
+### HOMICIDE on 2026-04-07 13:05
+- Location: The Conversation Africa
+- Description: The vote to have death by hanging as the default for Palestinians guilty of killing Israelis represents the further entrenchment of a two-tier legal system.
 
 
-### HOMICIDE on 2026-04-07 06:42
-- Location: BBC News
-- Description: Police say a 62-year-old man was found unconscious and later died in hospital.
+### SHOOTING on 2026-04-07 13:02
+- Location: The FADER
+- Description: “We can confirm Offset was shot [...]  He is stable and being closely monitored,” a spokesperson tells The FADER.
 
 
-### OTHER on 2026-04-07 06:40
-- Location: Israelnationalnews.com
-- Description: During a nighttime operation by the Northern District and Border Police, ten undocumented residents hiding on the roof of a building under construction were arrested.
+### SHOOTING on 2026-04-07 12:49
+- Location: The Hollywood Gossip
+- Description: Reading Time: 3 minutesSome internet rumors have named "suspects" who were not actually involved in the shooting.
+Offset SHOT in Florida Outside Minutes After Fan Photos in Casino was originally published on The Hollywood Gossip.
 
 
-### ASSAULT on 2026-04-07 06:30
-- Location: The Next Web
-- Description: A cyberattack on one of Italy’s greatest cultural institutions reveals a sector that has mastered physical security and ignored the digital kind. On the weekend of 1 February 2026, staff at the Uffizi Galleries in Florence arrived on Monday morning to find th…
+### HOMICIDE on 2026-04-07 12:46
+- Location: NPR
+- Description: Roberts-Smith is only the second Australian veteran of the Afghanistan campaign to be charged with a war crime.
 
 
-### HOMICIDE on 2026-04-07 06:14
-- Location: Al Jazeera English
-- Description: Arrest comes after Roberts-Smith lost case against reporters who said he was involved in murders of unarmed Afghan men.
+### OTHER on 2026-04-07 12:42
+- Location: Hollywood Reporter
+- Description: It took a few years for Hollywood’s love-to-be-hated gossip hound to find his place within Murdoch’s Fox empire. Now he’s trying a new formula and following his D.C. "obsession" again.
 
-Analysis generated at: Wed Apr  8 07:11:42 UTC 2026
+Analysis generated at: Wed Apr  8 13:10:01 UTC 2026
