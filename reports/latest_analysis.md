@@ -1,10 +1,10 @@
 
-Loaded 97714 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-06 18:53:21
+Loaded 97722 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-07 01:42:09
 
 Incidents by source:
 source
-newsapi           97613
+newsapi           97621
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2026-04-06 18:53
-- Location: BroBible
-- Description: Driverless Waymo taxis recently made news for driving the wrong way into traffic. However, as this list will show, self-driving robotaxis doing things like this is nothing new. Wrong way through a drive-thru in Los Angeles Most recently, a Waymo robotaxi went…
+### SHOOTING on 2026-04-07 01:42
+- Location: Us Weekly
+- Description: Cardi B’s ex-husband, Offset, is recovering after being shot in Florida. The former Migos member (real name Kiari Kendrell Cephus) was shot on Monday, April 6, near the Hard Rock Hotel & Casino in Hollywood, Florida, a rep for the rapper confirmed to Complex.…
 
 
-### OTHER on 2026-04-06 18:46
-- Location: New York Post
-- Description: He’s taking a slice out of crime. Heroic pizzeria owner Louie Suljovic saved the day twice last week — first against a box cutter-wielding goon looking for a slice, then by stopping a reckless driver from speeding away after a crash outside his Queens shop. T…
-
-
-### ROBBERY/THEFT on 2026-04-06 18:43
-- Location: Kotaku
-- Description: These food delivery robotic drones still need human help to cross streets
-
-
-### OTHER on 2026-04-06 18:41
+### OTHER on 2026-04-07 01:39
 - Location: ABC News (AU)
-- Description: Job seekers should be wary of sharing their bank account information with potential employers, as job scams targeting young people surge, according to Scamwatch.
+- Description: Across Delhi, people are waiting days and sometimes weeks for gas cylinders. Yet, the ABC has found a thriving black market, where the same gas can be bought quickly — for those who can afford it.
 
 
-### HOMICIDE on 2026-04-06 18:41
+### ROBBERY/THEFT on 2026-04-07 01:21
+- Location: ABC News (AU)
+- Description: Tasmania Police recover bows and arrows, and arrest and charge two youths over an alleged burglary at a Burnie archery club.
+
+
+### ROBBERY/THEFT on 2026-04-07 01:19
 - Location: The Times of India
-- Description: In a heartbreaking turn of events, a seven-year-old girl who had gone missing from a relief camp in Imphal was discovered lifeless beneath a bridge. Authorities suspect foul play, indicating potential sexual assault and murder. Swift action by investigators, …
+- Description: Thieves have targeted the official residence of Vishwas Sarang in Bhopal's high-security 74 Bungalows area, making off with trophies and mementoes. The intruders bypassed cash and electronics, focusing solely on commemorative items. The security lapse, discov…
 
-Analysis generated at: Tue Apr  7 18:56:48 UTC 2026
+
+### SHOOTING on 2026-04-07 00:48
+- Location: CBC News
+- Description: Manitoba's police watchdog says an RCMP officer who fatally shot a 29-year-old man armed with a knife in Sagkeeng First Nation last November "had no choice other than to discharge his firearm" at the man.
+
+Analysis generated at: Wed Apr  8 01:55:13 UTC 2026
