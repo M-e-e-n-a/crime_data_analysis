@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Apr  9 13:12:45 UTC 2026
+Last updated: Thu Apr  9 13:54:14 UTC 2026
 
 ## Latest Analysis
 
-Loaded 98029 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-08 13:03:58
+Loaded 98039 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-08 13:53:09
 
 Incidents by source:
 source
-newsapi           97928
+newsapi           97938
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-04-08 13:03
-- Location: Radaronline.com
-- Description: Offset has broken his silence after being shot near a Florida casino and used his first words since the incident to hit back at rival Lil Tjay by calling him a 'rat.'
+### ROBBERY/THEFT on 2026-04-08 13:53
+- Location: CBC News
+- Description: An independent investigator substantiated some officer allegations against Saint John Police Chief Robert Bruce, but found no evidence of harassment, bullying or a toxic work environment, newly released court documents reveal.
 
 
-### OTHER on 2026-04-08 13:00
-- Location: SoraNews24
-- Description: If you’re going to do something like this, you need a very good, or at least a very crazy, reason for doing it. Japan’s trains are very punctual, but that doesn’t mean they have a perfect on-time record. Even the prestigious Shinkansen is delayed sometimes, a…
+### ROBBERY/THEFT on 2026-04-08 13:43
+- Location: TheJournal.ie
+- Description: The investigation is ongoing since 2021 and is looking at wide-reaching activities of a crime group with bases in Dublin and on the east coast.
 
 
-### OTHER on 2026-04-08 12:45
-- Location: Decider
-- Description: The Pitt depicts the frustrating reality; Daredevil: Born Again is the dreamworld version, and as such it's where dreams of justice can come true.
+### HOMICIDE on 2026-04-08 13:41
+- Location: Abcnews.com
+- Description: Gunmen have attacked two communities in Nigeria's north-central region, killing at least 20 people, according to residents
 
 
-### SHOOTING on 2026-04-08 12:37
-- Location: The-independent.com
-- Description: Offset, whose birth name is Kiari Kendrell Cephus, rose to prominence as one-third of the two-time Grammy-nominated group Migos
+### OTHER on 2026-04-08 13:39
+- Location: CBC News
+- Description: The City of Saint John says its community safety team, provided by the GardaWorld security firm, is showing early success in responding to non-emergency calls in the city's uptown.
 
 
-### OTHER on 2026-04-08 12:29
-- Location: The Irish Times
-- Description: Irish man is expected to appear before Spanish high court in coming days
+### HOMICIDE on 2026-04-08 13:38
+- Location: HuffPost
+- Description: The Long Island architect and father of two is accused in a string of long-unsolved slayings known as the Gilgo Beach killings.
 
-Analysis generated at: Thu Apr  9 13:12:45 UTC 2026
+Analysis generated at: Thu Apr  9 13:54:14 UTC 2026
