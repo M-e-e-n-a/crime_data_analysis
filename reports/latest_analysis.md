@@ -1,10 +1,10 @@
 
-Loaded 97946 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-08 01:30:49
+Loaded 97952 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-08 02:24:24
 
 Incidents by source:
 source
-newsapi           97845
+newsapi           97851
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-04-08 01:30
-- Location: Fox News
-- Description: Lynette Hooker, 55, vanished in the Bahamas after her husband claims she fell off a boat. Her daughter alleges a history of domestic violence.
+### HOMICIDE on 2026-04-08 02:24
+- Location: The Times of India
+- Description: Iran news: Violence struck Iraq as projectiles claimed multiple lives, including a child. These events unfolded just before the United States and Iran reached a ceasefire agreement. Strikes targeted civilian homes in southern Iraq and Baghdad. A drone attack …
 
 
-### HOMICIDE on 2026-04-08 01:21
-- Location: Breitbart News
-- Description: A Haitian national, in the United States illegally, was arrested and charged with the murder of a woman at a Florida gas station, after he allegedly violently beat her to death.
-The post Illegal Haitian Alien Charged with Brutal Murder of Florida Woman appear…
+### SHOOTING on 2026-04-08 02:19
+- Location: BroBible
+- Description: Rapper Offset apparently owed a lot of people money which may have led to him getting shot. On Monday, the Migaos rapper was shot outside of the Hard Rock Casino in Hollywood, Florida, in an altercation with rival rapper Lil Tjay. Via TMZ Lil Tjay allegedly s…
 
 
-### OTHER on 2026-04-08 01:18
-- Location: ABC News (AU)
-- Description: A 38-year-old man has died in a crash on an access road to the King of the Hills mine site, near Leonora.
+### HOMICIDE on 2026-04-08 02:18
+- Location: NBC News
+- Description: A college student charged with murdering her newborn had images of Casey Anthony on her phone, the Florida sheriff's office investigating the case said this week
 
 
-### HOMICIDE on 2026-04-08 01:14
-- Location: Hsmsearch.com
-- Description: TWO COMPANIES have been fined a total of £2,475,900 after two men were killed while carrying out pest control work at a chicken factory in Norfolk.
+### SHOOTING on 2026-04-08 02:12
+- Location: HuffPost
+- Description: Police said the injuries were not life-threatening.
 
 
-### OTHER on 2026-04-08 01:12
-- Location: TVLine
-- Description: Charlie Sheen pops by on a CSI episode that's a behind-the-scenes crossover with Two and a Half Men. As for his character, let's just say he loves winning.
+### OTHER on 2026-04-08 02:05
+- Location: TV Guide
+- Description: High Potential's Showrunner Breaks Down That Emotional Morgan and Karadec Season 2 Finale Scenetvguide.com
 
-Analysis generated at: Thu Apr  9 01:47:34 UTC 2026
+Analysis generated at: Thu Apr  9 02:46:04 UTC 2026
