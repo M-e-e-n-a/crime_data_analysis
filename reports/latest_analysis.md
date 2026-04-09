@@ -1,10 +1,10 @@
 
-Loaded 97982 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-08 07:08:59
+Loaded 98029 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-08 13:03:58
 
 Incidents by source:
 source
-newsapi           97881
+newsapi           97928
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-04-08 07:08
-- Location: The Times of India
-- Description: An inter-state thief, Harvinder Singh, was apprehended by Railway Protection Force (RPF) in Jabalpur after a five-hour underwater evasion using a lotus stem. Singh, a notorious offender targeting train passengers, was eventually pulled from a pond and overpow…
+### SHOOTING on 2026-04-08 13:03
+- Location: Radaronline.com
+- Description: Offset has broken his silence after being shot near a Florida casino and used his first words since the incident to hit back at rival Lil Tjay by calling him a 'rat.'
 
 
-### HOMICIDE on 2026-04-08 07:00
-- Location: CNN
-- Description: The accused Gilgo Beach serial killer Rex Heuermann admitted on Wednesday he strangled eight women and discarded their remains on Long Island, New York, over three decades.
+### OTHER on 2026-04-08 13:00
+- Location: SoraNews24
+- Description: If you’re going to do something like this, you need a very good, or at least a very crazy, reason for doing it. Japan’s trains are very punctual, but that doesn’t mean they have a perfect on-time record. Even the prestigious Shinkansen is delayed sometimes, a…
 
 
-### HOMICIDE on 2026-04-08 06:25
-- Location: New York Post
-- Description: A Texas influencer with a violent history against women was sentenced to 75 years in prison for fatally attacking his girlfriend — a vicious crime he blamed on his dog, who was euthanized days later.
+### OTHER on 2026-04-08 12:45
+- Location: Decider
+- Description: The Pitt depicts the frustrating reality; Daredevil: Born Again is the dreamworld version, and as such it's where dreams of justice can come true.
 
 
-### OTHER on 2026-04-08 06:08
-- Location: Everything-everywhere.com
-- Description: Podcast Transcript In the middle of one of the harshest deserts in North America sits a city that, by all rights, shouldn’t exist.  What began as a watering hole for ancient peoples became a railroad stop, then a gambling outpost, and ultimately one of the mo…
+### SHOOTING on 2026-04-08 12:37
+- Location: The-independent.com
+- Description: Offset, whose birth name is Kiari Kendrell Cephus, rose to prominence as one-third of the two-time Grammy-nominated group Migos
 
 
-### SHOOTING on 2026-04-08 06:02
-- Location: Alltoc.com
-- Description: Police allege Lil Tjay instigated fight leading to Offset shooting Police allegations in the provided stories point to rapper Lil Tjay as the person who started a fight that escalated into the shooting of Migos member Offset . The reports frame the incident a…
+### OTHER on 2026-04-08 12:29
+- Location: The Irish Times
+- Description: Irish man is expected to appear before Spanish high court in coming days
 
-Analysis generated at: Thu Apr  9 07:15:45 UTC 2026
+Analysis generated at: Thu Apr  9 13:12:45 UTC 2026
