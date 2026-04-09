@@ -1,10 +1,10 @@
 
-Loaded 97936 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-07 19:06:05
+Loaded 97946 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-08 01:30:49
 
 Incidents by source:
 source
-newsapi           97835
+newsapi           97845
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-04-07 19:06
-- Location: ABC News (AU)
-- Description: Hundreds of legal, health and children's organisations are calling on Anthony Albanese to convene an emergency summit to address the over-incarceration of Aboriginal and Torres Strait Islander children.
+### OTHER on 2026-04-08 01:30
+- Location: Fox News
+- Description: Lynette Hooker, 55, vanished in the Bahamas after her husband claims she fell off a boat. Her daughter alleges a history of domestic violence.
 
 
-### SHOOTING on 2026-04-07 19:02
-- Location: Al Jazeera English
-- Description: Gunmen opened fire near the Israeli consulate in Istanbul, triggering a gun battle with Turkish police.
-
-
-### OTHER on 2026-04-07 18:58
+### HOMICIDE on 2026-04-08 01:21
 - Location: Breitbart News
-- Description: A 35-year-old man from the greater Detroit area has been charged with multiple counts of child pornography possession after investigators allegedly discovered more than 40,000 illegal images on his electronic devices. The man was turned in to authorities by h…
+- Description: A Haitian national, in the United States illegally, was arrested and charged with the murder of a woman at a Florida gas station, after he allegedly violently beat her to death.
+The post Illegal Haitian Alien Charged with Brutal Murder of Florida Woman appear…
 
 
-### SHOOTING on 2026-04-07 18:58
-- Location: CNBC
-- Description: DHS has faced strong criticism since January, when federal agents engaged in immigration enforcement actions in Minneapolis fatally shot two U.S. citizens.
+### OTHER on 2026-04-08 01:18
+- Location: ABC News (AU)
+- Description: A 38-year-old man has died in a crash on an access road to the King of the Hills mine site, near Leonora.
 
 
-### OTHER on 2026-04-07 18:54
-- Location: New York Post
-- Description: Rebecca Jones Gaston served as the leader of child welfare agencies in Oregon and Maryland, as well as the head of the Administration on Children, Youth, and Families during the Biden admin.
+### HOMICIDE on 2026-04-08 01:14
+- Location: Hsmsearch.com
+- Description: TWO COMPANIES have been fined a total of £2,475,900 after two men were killed while carrying out pest control work at a chicken factory in Norfolk.
 
-Analysis generated at: Wed Apr  8 19:08:05 UTC 2026
+
+### OTHER on 2026-04-08 01:12
+- Location: TVLine
+- Description: Charlie Sheen pops by on a CSI episode that's a behind-the-scenes crossover with Two and a Half Men. As for his character, let's just say he loves winning.
+
+Analysis generated at: Thu Apr  9 01:47:34 UTC 2026
