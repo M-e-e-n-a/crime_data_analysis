@@ -1,10 +1,10 @@
 
-Loaded 98202 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-09 12:55:07
+Loaded 98208 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-09 13:12:23
 
 Incidents by source:
 source
-newsapi           98101
+newsapi           98107
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-04-09 12:55
-- Location: Fortune
-- Description: Rex Heuermann pleaded guilty to three counts of first-degree murder and four counts of intentional murder in the killings of seven women since 1993.
+### OTHER on 2026-04-09 13:12
+- Location: Antaranews.com
+- Description: Bali&rsquo;s police force has sought to reassure international visitors following a travel advisory from the South Korean Embassy, emphasizing that the island ...
 
 
-### HOMICIDE on 2026-04-09 12:54
-- Location: HuffPost
-- Description: Prosecutors said anesthesiologist Gerhardt Konig tried to push his wife off a cliff and stab her with a syringe. He hit her with a rock when those tries failed.
+### HOMICIDE on 2026-04-09 13:11
+- Location: The Times of India
+- Description: Rapper NBA Ben 10 was hurt in a Houston nightclub shooting that shocked fans. Online rumors wrongly said he died, but family confirmed he is alive. Police are checking videos and talking to witnesses. The incident started after a reported robbery attempt. Fan…
 
 
-### OTHER on 2026-04-09 12:42
-- Location: DW (English)
-- Description: In Germany, riding without a ticket on public transportation can land you in jail. The justice minister would like to change this, but her conservative coalition partners are skeptical. Does everyone who boards a public bus or train in Germany even know that …
+### OTHER on 2026-04-09 13:00
+- Location: CBC News
+- Description: Sim, who spoke for more than 40 minutes before a question-and-answer session with the Vancouver Board of Trade CEO, spent much of his time framing the last three years of ABC’s majority on council as making hard but necessary choices.
 
 
-### DRUG RELATED on 2026-04-09 12:34
-- Location: Vanguard
-- Description: Chairman of the National Drug Law Enforcement Agency (NDLEA), Retired Brig.-Gen. Buba Marwa, has called for the bridging of fundamental gaps in intelligence sharing as a critical step in addressing Nigeria’s security challenges.
-The post We must bridge intell…
+### OTHER on 2026-04-09 13:00
+- Location: CBC News
+- Description: The Calgary Police Service is hoping to boost public safety and police visibility downtown with a new off-road utility vehicle called the CRT-99.
 
 
-### ASSAULT on 2026-04-09 12:33
-- Location: New York Post
-- Description: He reportedly was charged with simple assault and harassment, and his hearing is set for April 22.
+### OTHER on 2026-04-09 12:59
+- Location: RT
+- Description: A US Army veteran who worked with the elite Delta Force commando unit has been charged with providing classified data to a reporter, the Department of Justice has said
 
-Analysis generated at: Fri Apr 10 12:57:54 UTC 2026
+Analysis generated at: Fri Apr 10 13:22:33 UTC 2026
