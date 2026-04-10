@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Apr 10 13:22:33 UTC 2026
+Last updated: Fri Apr 10 18:44:08 UTC 2026
 
 ## Latest Analysis
 
-Loaded 98208 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-09 13:12:23
+Loaded 98271 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-09 18:42:58
 
 Incidents by source:
 source
-newsapi           98107
+newsapi           98170
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,33 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-04-09 13:12
-- Location: Antaranews.com
-- Description: Bali&rsquo;s police force has sought to reassure international visitors following a travel advisory from the South Korean Embassy, emphasizing that the island ...
+### ASSAULT on 2026-04-09 18:42
+- Location: Abcnews.com
+- Description: A fire broke out Wednesday morning at Rio de Janeiro's Olympic Park velodrome, prompting a major emergency response from firefighters.
 
 
-### HOMICIDE on 2026-04-09 13:11
-- Location: The Times of India
-- Description: Rapper NBA Ben 10 was hurt in a Houston nightclub shooting that shocked fans. Online rumors wrongly said he died, but family confirmed he is alive. Police are checking videos and talking to witnesses. The incident started after a reported robbery attempt. Fan…
+### HOMICIDE on 2026-04-09 18:41
+- Location: New York Post
+- Description: Roman Amatitla wanted "someone" to suffer because he lost his job -- even if it was a 3-year-old girl and three other strangers, officials said.
 
 
-### OTHER on 2026-04-09 13:00
-- Location: CBC News
-- Description: Sim, who spoke for more than 40 minutes before a question-and-answer session with the Vancouver Board of Trade CEO, spent much of his time framing the last three years of ABC’s majority on council as making hard but necessary choices.
+### HOMICIDE on 2026-04-09 18:33
+- Location: Fox News
+- Description: ICE lodged a detainer for Yefry Archaga-Elvir, accused of murdering 15-year-old Miles Young in Missouri after allegedly luring him into an ambush.
 
 
-### OTHER on 2026-04-09 13:00
-- Location: CBC News
-- Description: The Calgary Police Service is hoping to boost public safety and police visibility downtown with a new off-road utility vehicle called the CRT-99.
+### OTHER on 2026-04-09 18:30
+- Location: Daily Signal
+- Description: Anti-Immigration and Customs Enforcement protesters have continued to target an evangelical Christian church in St. Paul, Minnesota, after agitators invaded the church on Jan. 18,... Read More
+The post Woman Arrested for Easter Disruption Highlights ‘Continue…
 
 
-### OTHER on 2026-04-09 12:59
-- Location: RT
-- Description: A US Army veteran who worked with the elite Delta Force commando unit has been charged with providing classified data to a reporter, the Department of Justice has said
+### SHOOTING on 2026-04-09 18:29
+- Location: Marca
+- Description: Former NFL player Rickey Thenarse had to undergo a live-saving operation after a shooting in South Los Angeles left authorities searching for answers.
 
-Analysis generated at: Fri Apr 10 13:22:33 UTC 2026
+
+
+Thenarse was rushed to hos
+
+Analysis generated at: Fri Apr 10 18:44:08 UTC 2026
