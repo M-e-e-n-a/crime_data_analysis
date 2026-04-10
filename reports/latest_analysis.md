@@ -1,10 +1,10 @@
 
-Loaded 98124 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-09 01:37:37
+Loaded 98131 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-09 02:48:15
 
 Incidents by source:
 source
-newsapi           98023
+newsapi           98030
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-04-09 01:37
-- Location: New York Post
-- Description: Seattle police stumbled upon a murder suspect when they spotted a man dangerously scaling a drawbridge while it was opening — and later found he was carrying meth.
+### OTHER on 2026-04-09 02:48
+- Location: The Daily Caller
+- Description: Ben Crump took to social media Monday to announce that he now represents Stephenson King's family and is pursuing a large settlement from the city of Boston.
 
 
-### HOMICIDE on 2026-04-09 01:21
+### HOMICIDE on 2026-04-09 02:45
 - Location: ABC News (AU)
-- Description: A man dies in hospital after an altercation at a home in Padbury, and police say a 39-year-old man arrested at the scene is assisting investigators with their inquiries.
+- Description: Four people have been arrested by police for alleged offences "connected" to the alleged murder of Adelaide father-of-two Chris Robertson last year.
 
 
-### HOMICIDE on 2026-04-09 01:13
-- Location: CNN
-- Description: A Hawaii anesthesiologist who was accused of trying to murder his wife on a cliffside hike last year has been convicted of the lesser charge of attempted manslaughter.
+### HOMICIDE on 2026-04-09 02:40
+- Location: New York Post
+- Description: Roman Amatitla, 38, didn't appear to know any of the residents -- including the four dead and five injured -- at the Flushing apartment building he allegedly set aflame on March 16, sources said.
 
 
-### HOMICIDE on 2026-04-09 01:06
-- Location: CBS News
-- Description: Jurors delivered their verdict Tuesday in the attempted murder trial of an anesthesiologist accused of trying to kill his wife during a cliffside hike in Hawaii.
+### OTHER on 2026-04-09 02:39
+- Location: Reason
+- Description: The United States has filed a Response to the District of Columbia's Petition for Rehearing En Banc in Benson v.…
 
 
-### HOMICIDE on 2026-04-09 01:00
-- Location: Fox News
-- Description: Gerhardt Konig, a doctor in Hawaii, was convicted of trying to murder his wife on a hiking trail in Oahu in a bloody cliffside confrontation.
+### OTHER on 2026-04-09 02:27
+- Location: Raw Story
+- Description: The arrest of an ex-Army employee accused of leaking classified material to the press sparked outrage on Wednesday night. FBI Director Kash Patel announced on Wednesday that the FBI had arrested 40-year-old Courtney Williams of Wagram, North Carolina, for all…
 
-Analysis generated at: Fri Apr 10 01:59:45 UTC 2026
+Analysis generated at: Fri Apr 10 02:57:36 UTC 2026
