@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Apr 11 12:43:44 UTC 2026
+Last updated: Sat Apr 11 13:10:29 UTC 2026
 
 ## Latest Analysis
 
-Loaded 98353 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-10 12:30:00
+Loaded 98357 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-10 13:00:00
 
 Incidents by source:
 source
-newsapi           98252
+newsapi           98256
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,33 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
+### OTHER on 2026-04-10 13:00
+- Location: New York Post
+- Description: Far-left Los Angeles policymakers are quietly plotting a hostile takeover of the LAPD that would give them complete power over the way the city is policed, the California Post can reveal.
+
+
+### OTHER on 2026-04-10 13:00
+- Location: ComicBook.com
+- Description: The sci-fi genre is one of the most populated in modern pop culture, but there are some that stand out for the wrong reason. Since the creation of science fiction, the genre has kept the attention of fans around the world. It continues to earn huge success, w…
+
+
+### OTHER on 2026-04-10 12:57
+- Location: Thechronicle.com.gh
+- Description: The Police Intelligence Directorate (PID) headquarters on Tuesday arrested 22-year old Evans Puplampu after he posted videos on social media claiming he was a bandit. Information available to The Chronicle from a deep-throat source at the Police Headquarters …
+
+
+### OTHER on 2026-04-10 12:53
+- Location: LADbible
+- Description: Jordan Chandler, the boy behind the 1993 child abuse allegations against Michael Jackson, described 'markings' on the singer's genitals to police.
+
+
 ### HOMICIDE on 2026-04-10 12:30
 - Location: Popular Mechanics
 - Description: The killer, who came to be known as the “Phantom of Heilbronn,” was actually the result of a critical forensic error.
 
-
-### HOMICIDE on 2026-04-10 12:21
-- Location: The Punch
-- Description: The Kwara State government has responded to a deadly bandit attack in Kaiama LGA that killed five forest guards, vowing to enhance security measures.
-
-Read More: https://punchng.com/kwara-reacts-to-fresh-bandit-attack-mourns-slain-forest-guards/
-
-
-### HOMICIDE on 2026-04-10 12:15
-- Location: Variety
-- Description: An investigative documentary titled “All the Evil in the World” — about the murder of leftist Italian graduate student Giulio Regeni, who in 2016 was tortured to death in Cairo, allegedly by Egypt’s secret police — is sparking outrage in Italy over the fact t…
-
-
-### HOMICIDE on 2026-04-10 12:13
-- Location: Gothamist
-- Description: An NYPD car in New York City
- 
-
-The 33-year-old victim, who lived at the complex, was shot multiple times. [ more › ]
-
-
-### OTHER on 2026-04-10 12:04
-- Location: Mediatakeout.com
-- Description: Desiigner placed a frantic 911 call the same night he was arrested on domestic violence charges in South Carolina, and newly released audio obtained by TMZ captures the rapper, whose real name is Sidney Selby III, telling dispatchers that a woman was allegedl…
-
-Analysis generated at: Sat Apr 11 12:43:44 UTC 2026
+Analysis generated at: Sat Apr 11 13:10:29 UTC 2026
