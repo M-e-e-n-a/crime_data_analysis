@@ -1,10 +1,10 @@
 
-Loaded 98271 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-09 18:42:58
+Loaded 98285 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-10 01:47:49
 
 Incidents by source:
 source
-newsapi           98170
+newsapi           98184
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,33 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2026-04-09 18:42
-- Location: Abcnews.com
-- Description: A fire broke out Wednesday morning at Rio de Janeiro's Olympic Park velodrome, prompting a major emergency response from firefighters.
+### ROBBERY/THEFT on 2026-04-10 01:47
+- Location: ABC News (AU)
+- Description: Police will allege a 48-year-old man used stolen fuel cards to obtain the diesel from unmanned depots over a 12-month period.
 
 
-### HOMICIDE on 2026-04-09 18:41
-- Location: New York Post
-- Description: Roman Amatitla wanted "someone" to suffer because he lost his job -- even if it was a 3-year-old girl and three other strangers, officials said.
+### HOMICIDE on 2026-04-10 01:22
+- Location: Mediaite
+- Description: President Donald Trump posted a graphic video on Thursday of a woman being violently murdered with a hammer. The president posted a surveillance video of a gas station in Florida that the Department of Homeland Security had also posted a few hours earlier. Th…
 
 
-### HOMICIDE on 2026-04-09 18:33
+### HOMICIDE on 2026-04-10 01:18
 - Location: Fox News
-- Description: ICE lodged a detainer for Yefry Archaga-Elvir, accused of murdering 15-year-old Miles Young in Missouri after allegedly luring him into an ambush.
+- Description: Roman Amatitla was charged with murder and arson after allegedly setting a random Queens building fire that killed four, including a 3-year-old girl.
 
 
-### OTHER on 2026-04-09 18:30
-- Location: Daily Signal
-- Description: Anti-Immigration and Customs Enforcement protesters have continued to target an evangelical Christian church in St. Paul, Minnesota, after agitators invaded the church on Jan. 18,... Read More
-The post Woman Arrested for Easter Disruption Highlights ‘Continue…
+### ASSAULT on 2026-04-10 01:10
+- Location: The Indian Express
+- Description: Family of missing girl also alleges that police picked up their relatives and assaulted one of them
 
 
-### SHOOTING on 2026-04-09 18:29
-- Location: Marca
-- Description: Former NFL player Rickey Thenarse had to undergo a live-saving operation after a shooting in South Los Angeles left authorities searching for answers.
+### SHOOTING on 2026-04-10 01:04
+- Location: NBC News
+- Description: The ROTC cadets getting ready to leave their class at Old Dominion University last month had never seen the stranger who entered the room, but thought maybe he was someone early for the next class
 
-
-
-Thenarse was rushed to hos
-
-Analysis generated at: Fri Apr 10 18:44:08 UTC 2026
+Analysis generated at: Sat Apr 11 01:49:51 UTC 2026
