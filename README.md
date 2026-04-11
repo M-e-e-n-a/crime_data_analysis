@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Apr 11 01:49:51 UTC 2026
+Last updated: Sat Apr 11 02:42:21 UTC 2026
 
 ## Latest Analysis
 
-Loaded 98285 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-10 01:47:49
+Loaded 98290 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-10 02:40:20
 
 Incidents by source:
 source
-newsapi           98184
+newsapi           98189
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2026-04-10 01:47
-- Location: ABC News (AU)
-- Description: Police will allege a 48-year-old man used stolen fuel cards to obtain the diesel from unmanned depots over a 12-month period.
+### OTHER on 2026-04-10 02:40
+- Location: Screen Rant
+- Description: While Bullseye's new arc in Daredevil: Born Again season 2 is surprising, it actually has some strong parallels with the original Marvel comics.
 
 
-### HOMICIDE on 2026-04-10 01:22
-- Location: Mediaite
-- Description: President Donald Trump posted a graphic video on Thursday of a woman being violently murdered with a hammer. The president posted a surveillance video of a gas station in Florida that the Department of Homeland Security had also posted a few hours earlier. Th…
+### HOMICIDE on 2026-04-10 02:25
+- Location: New York Post
+- Description: A jury has since heard harrowing testimony to determine whether he will be sentenced to death or life in prison without parole.
 
 
-### HOMICIDE on 2026-04-10 01:18
+### OTHER on 2026-04-10 02:08
+- Location: Screen Rant
+- Description: As the 2025-2026 TV cycle slowly inches towards its end, Nathan Fillion's hit 8-season crime series is officially expanding with a new spinoff update.
+
+
+### OTHER on 2026-04-10 01:58
+- Location: Raw Story
+- Description: President Donald Trump's embattled Secretary of Labor has faced at least three complaints at the Equal Employment Opportunity Commission for how she is running the department, reported MS NOW on Thursday.Of those three complaints, "Two ... were filed by young…
+
+
+### OTHER on 2026-04-10 01:55
 - Location: Fox News
-- Description: Roman Amatitla was charged with murder and arson after allegedly setting a random Queens building fire that killed four, including a 3-year-old girl.
+- Description: ICE said it had arrested more illegal migrants with criminal convictions, coinciding with the one-year anniversary of the agency’s program supporting victims of migrant crime.
 
-
-### ASSAULT on 2026-04-10 01:10
-- Location: The Indian Express
-- Description: Family of missing girl also alleges that police picked up their relatives and assaulted one of them
-
-
-### SHOOTING on 2026-04-10 01:04
-- Location: NBC News
-- Description: The ROTC cadets getting ready to leave their class at Old Dominion University last month had never seen the stranger who entered the room, but thought maybe he was someone early for the next class
-
-Analysis generated at: Sat Apr 11 01:49:51 UTC 2026
+Analysis generated at: Sat Apr 11 02:42:21 UTC 2026
