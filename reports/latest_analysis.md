@@ -1,10 +1,10 @@
 
-Loaded 98413 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-10 18:30:02
+Loaded 98426 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-11 02:00:44
 
 Incidents by source:
 source
-newsapi           98312
+newsapi           98325
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-04-10 18:30
-- Location: New York Post
-- Description: The sick note – in which Robinson refers to roommate lover Lance Twiggs as “Luna” – was made public in full Thursday, as Robinson remains held for allegedly shooting the popular conservative media personality from a rooftop at Utah Valley University in Septem…
+### OTHER on 2026-04-11 02:00
+- Location: Bitcoinist
+- Description: More than $12 million in suspected criminal proceeds has been frozen after a joint US, UK and Canadian crackdown targeted crypto approval phishing scams that affected more than 20,000 people, according to the UK’s National Crime Agency. The operation also ide…
 
 
-### OTHER on 2026-04-10 18:19
-- Location: Fox News
-- Description: Ex-NYPD officer Erik Duran got three to nine years for manslaughter after throwing a cooler at a fleeing suspect, marking a rare on-duty conviction.
+### OTHER on 2026-04-11 02:00
+- Location: Abcnews.com
+- Description: Astronauts Christina Koch, Victor Glover Jr., Jeremy Hansen and Reid Wiseman have exited the Orion capsule after a successful Artemis II splashdown.
 
 
-### HOMICIDE on 2026-04-10 18:10
-- Location: The Times of India
-- Description: Supreme Court slams Ghaziabad police and private hospitals as “inhuman” in 4-year-old rape-murder case; summons commissioner, seeks court-monitored SIT/agency probe.
+### HOMICIDE on 2026-04-11 02:00
+- Location: Activistpost.com
+- Description: Freddie Ponton21st Century Wire A Gulf monarchy hired an Israeli‑Hungarian mercenary and a team of American special forces veterans to run a black‑budget assassination program against a civilian political party in Yemen. It did this while posing in Washington…
 
 
-### HOMICIDE on 2026-04-10 18:05
-- Location: Newser
-- Description: Police in Australia say a kangaroo crash never happened, but a homicide did. Northern Territory authorities have charged a 33-year-old man with murdering his 27-year-old partner after he allegedly told emergency services their Jeep hit a kangaroo on a remote …
+### OTHER on 2026-04-11 01:57
+- Location: ABC News (AU)
+- Description: Victoria Police says three or four males in their late teens or early 20s wore masks when they broke into a Greenvale home.
 
 
-### OTHER on 2026-04-10 18:00
-- Location: The Irish Times
-- Description: It’s hard to say for sure what drove Violet Gibson
+### HOMICIDE on 2026-04-11 01:55
+- Location: The Indian Express
+- Description: Incident that came to light on April 6 led to protests from locals, who blocked national highway
 
-Analysis generated at: Sat Apr 11 18:37:07 UTC 2026
+Analysis generated at: Sun Apr 12 02:01:36 UTC 2026
