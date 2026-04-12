@@ -1,10 +1,10 @@
 
-Loaded 98426 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-11 02:00:44
+Loaded 98431 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-11 03:06:01
 
 Incidents by source:
 source
-newsapi           98325
+newsapi           98330
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-04-11 02:00
-- Location: Bitcoinist
-- Description: More than $12 million in suspected criminal proceeds has been frozen after a joint US, UK and Canadian crackdown targeted crypto approval phishing scams that affected more than 20,000 people, according to the UK’s National Crime Agency. The operation also ide…
+### OTHER on 2026-04-11 03:06
+- Location: Crypto Briefing
+- Description: Iran's Revolutionary Guard exploits hospitals to suppress dissent, revealing deep socio-economic and political divides.
+The post Ryan McBeth: The IRGC targets injured protesters in hospitals, the Shia-Sunni divide fuels Middle Eastern tensions, and Iran’s his…
 
 
-### OTHER on 2026-04-11 02:00
-- Location: Abcnews.com
-- Description: Astronauts Christina Koch, Victor Glover Jr., Jeremy Hansen and Reid Wiseman have exited the Orion capsule after a successful Artemis II splashdown.
+### OTHER on 2026-04-11 02:52
+- Location: Slashdot.org
+- Description: Missing woman: Daughter of American Lynette Hooker, Bahamas vacationer, sheds new light on mom's marriage to Brian HookerABC7 Chicago See the messages Brian Hooker sent his friend after wife's disappearance in the Bahamas: "The wind blew me away"CBS News Miss…
 
 
-### HOMICIDE on 2026-04-11 02:00
-- Location: Activistpost.com
-- Description: Freddie Ponton21st Century Wire A Gulf monarchy hired an Israeli‑Hungarian mercenary and a team of American special forces veterans to run a black‑budget assassination program against a civilian political party in Yemen. It did this while posing in Washington…
+### OTHER on 2026-04-11 02:32
+- Location: The Times of India
+- Description: A warehouse employee was arrested for arson after a massive fire erupted in an Ontario, California facility. Video evidence allegedly shows the suspect setting the blaze due to wage grievances. The fire caused extensive damage, potentially disrupting West Coa…
 
 
-### OTHER on 2026-04-11 01:57
-- Location: ABC News (AU)
-- Description: Victoria Police says three or four males in their late teens or early 20s wore masks when they broke into a Greenvale home.
+### OTHER on 2026-04-11 02:06
+- Location: New York Post
+- Description: LA’s police chief had better move over. Three far-leftists on the city council, along with the city controller, are making a run for his job.
 
 
-### HOMICIDE on 2026-04-11 01:55
-- Location: The Indian Express
-- Description: Incident that came to light on April 6 led to protests from locals, who blocked national highway
+### HOMICIDE on 2026-04-11 02:05
+- Location: The Times of India
+- Description: A man has been arrested for allegedly drowning his pregnant wife and two daughters in a swimming pool after discovering the unborn child was female. He reportedly intended to marry a minor to father a male heir. Police also arrested ten others for facilitatin…
 
-Analysis generated at: Sun Apr 12 02:01:36 UTC 2026
+Analysis generated at: Sun Apr 12 03:20:36 UTC 2026
