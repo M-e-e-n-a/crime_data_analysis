@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Apr 12 03:20:36 UTC 2026
+Last updated: Sun Apr 12 07:07:46 UTC 2026
 
 ## Latest Analysis
 
-Loaded 98431 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-11 03:06:01
+Loaded 98446 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-11 07:02:04
 
 Incidents by source:
 source
-newsapi           98330
+newsapi           98345
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-04-11 03:06
-- Location: Crypto Briefing
-- Description: Iran's Revolutionary Guard exploits hospitals to suppress dissent, revealing deep socio-economic and political divides.
-The post Ryan McBeth: The IRGC targets injured protesters in hospitals, the Shia-Sunni divide fuels Middle Eastern tensions, and Iran’s his…
-
-
-### OTHER on 2026-04-11 02:52
-- Location: Slashdot.org
-- Description: Missing woman: Daughter of American Lynette Hooker, Bahamas vacationer, sheds new light on mom's marriage to Brian HookerABC7 Chicago See the messages Brian Hooker sent his friend after wife's disappearance in the Bahamas: "The wind blew me away"CBS News Miss…
-
-
-### OTHER on 2026-04-11 02:32
-- Location: The Times of India
-- Description: A warehouse employee was arrested for arson after a massive fire erupted in an Ontario, California facility. Video evidence allegedly shows the suspect setting the blaze due to wage grievances. The fire caused extensive damage, potentially disrupting West Coa…
-
-
-### OTHER on 2026-04-11 02:06
+### SHOOTING on 2026-04-11 07:02
 - Location: New York Post
-- Description: LA’s police chief had better move over. Three far-leftists on the city council, along with the city controller, are making a run for his job.
+- Description: The estranged wife of a Delta Airlines pilot fatally shot her cousin-turned-live-in boyfriend during a late-night drunken rampage and cried to cops that she “really f--ked up” before they found his bloodied body.
 
 
-### HOMICIDE on 2026-04-11 02:05
+### OTHER on 2026-04-11 07:00
+- Location: TechRadar
+- Description: I'm all for BBC shows having an epic crossover episode — and one Beyond Paradise season 4 star has their eye on The Traitors.
+
+
+### HOMICIDE on 2026-04-11 06:58
 - Location: The Times of India
-- Description: A man has been arrested for allegedly drowning his pregnant wife and two daughters in a swimming pool after discovering the unborn child was female. He reportedly intended to marry a minor to father a male heir. Police also arrested ten others for facilitatin…
+- Description: A woman's death in Lucknow has turned into a murder investigation after her son accused his wife and nephew of poisoning her. The son claims his wife administered a toxic substance in food, leading to his mother's death. Police have registered a case and are …
 
-Analysis generated at: Sun Apr 12 03:20:36 UTC 2026
+
+### OTHER on 2026-04-11 06:40
+- Location: The Times of India
+- Description: Nandigram's assembly seat faces a closely watched contest.  BJP leader Suvendu Adhikari's 2021 victory is a key event.  The BJP has strengthened its hold on local bodies.  Allegations of biased voter deletions have surfaced.  The TMC aims to reclaim the seat.…
+
+
+### OTHER on 2026-04-11 05:53
+- Location: The Punch
+- Description: The Ondo State Police Command successfully foiled a kidnapping attempt in Ose LGA, rescuing two victims after engaging assailants. Security is ongoing.
+
+Read More: https://punchng.com/police-foil-kidnapping-attempt-rescue-two-victims-in-ondo/
+
+Analysis generated at: Sun Apr 12 07:07:46 UTC 2026
