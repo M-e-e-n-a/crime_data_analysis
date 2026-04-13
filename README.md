@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Apr 13 13:13:30 UTC 2026
+Last updated: Mon Apr 13 13:51:52 UTC 2026
 
 ## Latest Analysis
 
-Loaded 98565 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-12 13:04:11
+Loaded 98569 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-12 13:34:46
 
 Incidents by source:
 source
-newsapi           98464
+newsapi           98468
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,30 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
+### SHOOTING on 2026-04-12 13:34
+- Location: Freerepublic.com
+- Description: Magazine Cover Story Snapshot X MARKS THE PEDWALKBY FRITZ LEIBER[Transcriber's Note: This etext was produced from Worlds of Tomorrow April 1963 Extensive research did not uncover any evidence that the U.S. copyright on this publication was renewed.]This is ho…
+
+
+### SHOOTING on 2026-04-12 13:34
+- Location: Freerepublic.com
+- Description: Magazine Cover Story Snapshot X MARKS THE PEDWALKBY FRITZ LEIBER[Transcriber's Note: This etext was produced from Worlds of Tomorrow April 1963 Extensive research did not uncover any evidence that the U.S. copyright on this publication was renewed.]This is ho…
+
+
+### OTHER on 2026-04-12 13:30
+- Location: PetaPixel
+- Description: If you browse cameras on eBay, you’ve likely come across a deal that looked too-good-to-be-true: high-end, new, shiny, bargain basement price, and offered for sale by a seller with zero feedback. In the interest of research (and curiosity) I bought one of the…
+
+
+### SHOOTING on 2026-04-12 13:21
+- Location: New York Post
+- Description: Dramatic video shows a masked gunman fleeing a New Jersey Chick-fil-A after a mass shooting at the restaurant on Saturday night. Dashcam footage shows a man with a gun and a mask running away from the scene of the shooting in Union Township shortly before 9 p…
+
+
 ### HOMICIDE on 2026-04-12 13:04
 - Location: BBC News
 - Description: Finbar Sullivan died from stab wounds at Primrose Hill on Tuesday.
 
-
-### HOMICIDE on 2026-04-12 13:00
-- Location: Fox News
-- Description: The father of Samantha Emge, allegedly killed by ex-Biden staffer boyfriend Nation Wood, claims red flags and abuse in their relationship.
-
-
-### HOMICIDE on 2026-04-12 12:00
-- Location: Freerepublic.com
-- Description: One person has been killed and multiple people injured during a mass shooting at a New Jersey Chick-fil-A. The horror unfolded at the restaurant in Union Township on Saturday night, sending terrified patrons scrambling and the business into lockdown. At least…
-
-
-### HOMICIDE on 2026-04-12 12:00
-- Location: Fox News
-- Description: The killing of Missouri teen Miles Young, who allegedly begged for his life during a deadly ambush, sparks Republican outrage over immigration policies.
-
-
-### ROBBERY/THEFT on 2026-04-12 11:57
-- Location: The Punch
-- Description: The Nigerian Navy combats crude oil theft by arresting two vessels and 26 crew members with over 939 metric tons of stolen crude oil worth ₦4 billion.
-
-Read More: https://punchng.com/navy-arrests-two-vessels-with-%e2%82%a64bn-stolen-crude-oil/
-
-Analysis generated at: Mon Apr 13 13:13:30 UTC 2026
+Analysis generated at: Mon Apr 13 13:51:52 UTC 2026
