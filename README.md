@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Apr 13 07:54:59 UTC 2026
+Last updated: Mon Apr 13 13:13:30 UTC 2026
 
 ## Latest Analysis
 
-Loaded 98547 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-12 07:22:00
+Loaded 98565 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-12 13:04:11
 
 Incidents by source:
 source
-newsapi           98446
+newsapi           98464
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2026-04-12 07:22
-- Location: Twistedsifter.com
-- Description: Looks like there's going to be some turbulence both on and off the plane.
+### HOMICIDE on 2026-04-12 13:04
+- Location: BBC News
+- Description: Finbar Sullivan died from stab wounds at Primrose Hill on Tuesday.
 
 
-### HOMICIDE on 2026-04-12 07:17
-- Location: The Times of India
-- Description: Half-burnt bodies of a woman and her daughter were discovered in a trunk at their Sandeshkhali residence. Police are investigating the incident as a murder with an attempt to destroy evidence, with the woman's husband currently missing. The discovery has led …
+### HOMICIDE on 2026-04-12 13:00
+- Location: Fox News
+- Description: The father of Samantha Emge, allegedly killed by ex-Biden staffer boyfriend Nation Wood, claims red flags and abuse in their relationship.
 
 
-### HOMICIDE on 2026-04-12 07:07
-- Location: The Indian Express
-- Description: The Karnataka police have recently arrested Kiran Kumar, the mastermind of the Sumithramma murder case who had been absconding since 2023.
+### HOMICIDE on 2026-04-12 12:00
+- Location: Freerepublic.com
+- Description: One person has been killed and multiple people injured during a mass shooting at a New Jersey Chick-fil-A. The horror unfolded at the restaurant in Union Township on Saturday night, sending terrified patrons scrambling and the business into lockdown. At least…
 
 
-### DRUG RELATED on 2026-04-12 06:30
-- Location: TheJournal.ie
-- Description: Ireland’s modern drug policy has evolved to save lives, but society cannot ignore the real-world consequences of drug-related violence and harm to others, writes Dr Chris Luke.
+### HOMICIDE on 2026-04-12 12:00
+- Location: Fox News
+- Description: The killing of Missouri teen Miles Young, who allegedly begged for his life during a deadly ambush, sparks Republican outrage over immigration policies.
 
 
-### OTHER on 2026-04-12 06:05
-- Location: The Week Magazine
-- Description: To feed the online fraud trade, Chinese crime syndicates have set up ‘factories’ using forced labour across Southeast Asia
+### ROBBERY/THEFT on 2026-04-12 11:57
+- Location: The Punch
+- Description: The Nigerian Navy combats crude oil theft by arresting two vessels and 26 crew members with over 939 metric tons of stolen crude oil worth ₦4 billion.
 
-Analysis generated at: Mon Apr 13 07:54:59 UTC 2026
+Read More: https://punchng.com/navy-arrests-two-vessels-with-%e2%82%a64bn-stolen-crude-oil/
+
+Analysis generated at: Mon Apr 13 13:13:30 UTC 2026
