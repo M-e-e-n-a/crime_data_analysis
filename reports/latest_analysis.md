@@ -1,10 +1,10 @@
 
-Loaded 98531 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-12 03:17:00
+Loaded 98547 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-12 07:22:00
 
 Incidents by source:
 source
-newsapi           98430
+newsapi           98446
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-04-12 03:17
-- Location: CBS News
-- Description: Kimberly Langwell, a mom in Beaumont, Texas, had dinner plans with her teenage daughter and boyfriend on July 9, 1999 – but she never came home from work. It would take more than 20 years before one man's long-kept secret would expose her killer.
+### ROBBERY/THEFT on 2026-04-12 07:22
+- Location: Twistedsifter.com
+- Description: Looks like there's going to be some turbulence both on and off the plane.
 
 
-### HOMICIDE on 2026-04-12 03:16
-- Location: Vanguard
-- Description: Tragedy again struck in Nuku community, Kaiama local government area of Kwara State as terrorists invaded the community on Friday killing six Forest Guards, including the commander.
-The post How terrorists wreaked havoc in Kwara again, killing 5 Forest Guards…
+### HOMICIDE on 2026-04-12 07:17
+- Location: The Times of India
+- Description: Half-burnt bodies of a woman and her daughter were discovered in a trunk at their Sandeshkhali residence. Police are investigating the incident as a murder with an attempt to destroy evidence, with the woman's husband currently missing. The discovery has led …
 
 
-### OTHER on 2026-04-12 02:52
-- Location: Digital Journal
-- Description: Peru votes on Sunday to elect its ninth president in a decade, with crime-weary voters seemingly poised to extend the tide of conservative governments sweeping Latin America.  From the Amazon to the Andes, about 27 million Peruvians are obliged to vote in a r…
-
-
-### OTHER on 2026-04-12 02:38
-- Location: Us Weekly
-- Description: Cardi B is clapping back at rumors that she used to buy expensive handbags and then pass them off as gifts from her ex-husband Offset. The “Bodak Yellow” rapper, 33, spoke out when a fan shared a clip of her unwrapping a handbag and claimed she was “buying he…
-
-
-### HOMICIDE on 2026-04-12 02:28
+### HOMICIDE on 2026-04-12 07:07
 - Location: The Indian Express
-- Description: Noida student death case sees mother alleging friends’ role, questioning rescue efforts and seeking fair probe into drowning incident near Sector 94 pit.
+- Description: The Karnataka police have recently arrested Kiran Kumar, the mastermind of the Sumithramma murder case who had been absconding since 2023.
 
-Analysis generated at: Mon Apr 13 03:27:00 UTC 2026
+
+### DRUG RELATED on 2026-04-12 06:30
+- Location: TheJournal.ie
+- Description: Ireland’s modern drug policy has evolved to save lives, but society cannot ignore the real-world consequences of drug-related violence and harm to others, writes Dr Chris Luke.
+
+
+### OTHER on 2026-04-12 06:05
+- Location: The Week Magazine
+- Description: To feed the online fraud trade, Chinese crime syndicates have set up ‘factories’ using forced labour across Southeast Asia
+
+Analysis generated at: Mon Apr 13 07:54:59 UTC 2026
