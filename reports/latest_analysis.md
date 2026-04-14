@@ -1,10 +1,10 @@
 
-Loaded 98710 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-13 13:45:00
+Loaded 98769 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-13 19:05:14
 
 Incidents by source:
 source
-newsapi           98609
+newsapi           98668
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-04-13 13:45
-- Location: The Real Deal
-- Description: Sergio Pino’s life was the kind of Miami success story that usually involves endless ribbon cuttings, glossy magazine profiles and a lot of luxury real estate.  Instead, it ended like a Miami noir thriller: A powerful developer, a shattered marriage, a murder…
-
-
-### HOMICIDE on 2026-04-13 13:44
-- Location: Toronto Sun
-- Description: Two of the five men accused of murdering a teenager in a terrifying shooting linked to GTA tow truck wars are refugee claimants. Learn more.
-
-
-### ASSAULT on 2026-04-13 13:43
-- Location: Israelnationalnews.com
-- Description: On the first day of the uprising led by Anielewicz, the Jewish fighters forced the Nazis, used to preying on the weak and defenseless, to retreat. Op-ed.
-
-
-### OTHER on 2026-04-13 13:33
-- Location: Fair Observer
-- Description: The March 4, 2026, edition of the Arizona Daily Star put the facts succinctly: “A Haitian asylum seeker held for four months at Florence Correctional Center died Monday at a Scottsdale hospital due to complications from an infected tooth.” It seems the infect…
-
-
-### OTHER on 2026-04-13 13:24
+### HOMICIDE on 2026-04-13 19:05
 - Location: Freerepublic.com
-- Description: New police data shows foreign nationals feature disproportionately in violent offences, with sharp regional disparities and rising political pressure. Germany’s latest police crime statistics (PKS) have reignited the migration debate, with new data showing a …
+- Description: Judge Khomeini’s state of mind for yourself: Since June 1981, according to estimates published by the Iranian resistance group known as the People’s Mojahedin, the Khomeini regime has put to death some 90,000 Iranians who don’t subscribe to its views. Another…
 
-Analysis generated at: Tue Apr 14 13:57:23 UTC 2026
+
+### ASSAULT on 2026-04-13 18:56
+- Location: Fox News
+- Description: Federal authorities warn Missouri not to release an illegal immigrant accused of raping and kidnapping a woman in Kirksville on Easter Sunday.
+
+
+### OTHER on 2026-04-13 18:45
+- Location: /FILM
+- Description: We don't see The Empire in Star Wars: Maul - Shadow Lord until the final moments of the fourth episode. Here's why the show waited so long to do that.
+
+
+### DRUG RELATED on 2026-04-13 18:37
+- Location: ABC News (AU)
+- Description: Key insiders from Fiji's largest-ever meth bust say the drug import had alarming links to organised crime in Australia.
+
+
+### OTHER on 2026-04-13 18:37
+- Location: The Punch
+- Description: Residents in Imoga community, Edo State, have arrested a notorious kidnap kingpin, Ismaila Ibrahim, after he was identified by an escaped victim.
+
+Read More: https://punchng.com/residents-nab-kidnap-kingpin-hand-him-over-to-police-in-edo/
+
+Analysis generated at: Tue Apr 14 19:05:33 UTC 2026
