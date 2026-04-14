@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Apr 13 19:07:21 UTC 2026
+Last updated: Tue Apr 14 02:01:04 UTC 2026
 
 ## Latest Analysis
 
-Loaded 98602 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-12 19:01:19
+Loaded 98618 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-13 02:00:31
 
 Incidents by source:
 source
-newsapi           98501
+newsapi           98517
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,30 +24,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-04-12 19:01
-- Location: CBS News
-- Description: Lynette Hooker went missing after she allegedly went overboard while in the Bahamas.
+### OTHER on 2026-04-13 02:00
+- Location: Screen Rant
+- Description: From Star Trek to The Twilight Zone to Mister Rogers' Neighborhood, these seminal TV shows made such a profound impact that they changed the world.
 
 
-### HOMICIDE on 2026-04-12 18:55
+### HOMICIDE on 2026-04-13 02:00
+- Location: Decider
+- Description: Twists and turns have led us here to the DTF St. Louis finale!
+
+
+### HOMICIDE on 2026-04-13 01:48
 - Location: The Times of India
-- Description: Prayagraj police and STF arrested a Rs 50,000-reward murder absconder; four held for extortion; two arrested for filming and sharing obscene video.
+- Description: In a tragic incident on Saturday night, a shooting at a Chick-fil-A in Union, New Jersey, left one person dead and six others injured. Investigators are actively looking into the case, with police indicating that the attack may not have been random. Although …
 
 
-### HOMICIDE on 2026-04-12 18:53
-- Location: The Times of India
-- Description: 62-year-old Kastura Devi found strangled near her home in Babura village, Prayagraj; police probe links murder to alleged property dispute threats.
-
-
-### HOMICIDE on 2026-04-12 18:52
+### HOMICIDE on 2026-04-13 01:40
 - Location: Fox News
-- Description: A 14-year-old was arrested for murder in the shooting death of a 12-year-old boy inside a southeast Atlanta home, police say. The investigation is ongoing.
+- Description: An Indiana couple was arrested and hit with neglect and murder charges after their starving toddler died from eating diapers and drywall to survive.
 
 
-### ROBBERY/THEFT on 2026-04-12 18:36
+### OTHER on 2026-04-13 01:39
 - Location: The Punch
-- Description: Imo State police have smashed an armed robbery syndicate, arresting five suspects and recovering 450 stolen motorcycles and other exhibits in Owerri.
+- Description: Rivers State police have arrested a 24-year-old man for the alleged kidnapping and rape of a job seeker he met online. Police warn users to be cautious.
 
-Read More: https://punchng.com/police-smash-robbery-syndicate-recover-450-motorcycles-in-imo/
+Read More: https://punchng.com/rivers-man-nabbed-over-job-seekers-alleged-rape/
 
-Analysis generated at: Mon Apr 13 19:07:21 UTC 2026
+Analysis generated at: Tue Apr 14 02:01:04 UTC 2026
