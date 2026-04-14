@@ -1,10 +1,10 @@
 
-Loaded 98704 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-13 13:06:12
+Loaded 98710 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-13 13:45:00
 
 Incidents by source:
 source
-newsapi           98603
+newsapi           98609
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,30 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### DRUG RELATED on 2026-04-13 13:06
-- Location: The Punch
-- Description: The NDLEA announced a major cannabis seizure in Edo State, intercepting two trucks with 7,245kg of drugs valued at N724.5 million. Five suspects arrested.
-
-Read More: https://punchng.com/ndlea-arrests-five-impounds-trucks-with-n724m-cannabis-in-edo/
+### HOMICIDE on 2026-04-13 13:45
+- Location: The Real Deal
+- Description: Sergio Pino’s life was the kind of Miami success story that usually involves endless ribbon cuttings, glossy magazine profiles and a lot of luxury real estate.  Instead, it ended like a Miami noir thriller: A powerful developer, a shattered marriage, a murder…
 
 
-### OTHER on 2026-04-13 13:05
-- Location: CinemaBlend
-- Description: Okay, this looks like a good time!
+### HOMICIDE on 2026-04-13 13:44
+- Location: Toronto Sun
+- Description: Two of the five men accused of murdering a teenager in a terrifying shooting linked to GTA tow truck wars are refugee claimants. Learn more.
 
 
-### OTHER on 2026-04-13 13:01
-- Location: Internet
-- Description: Monday is back, and the weekend’s backlog of chaos is officially hitting the fan. We are tracking a critical zero-day that has been quietly living in your PDFs for months, plus some aggressive state-sponsored meddling in infrastructure that is finally coming …
+### ASSAULT on 2026-04-13 13:43
+- Location: Israelnationalnews.com
+- Description: On the first day of the uprising led by Anielewicz, the Jewish fighters forced the Nazis, used to preying on the weak and defenseless, to retreat. Op-ed.
 
 
-### OTHER on 2026-04-13 13:00
-- Location: Deadline
-- Description: EXCLUSIVE: A second and final season of Black Sands is coming back to the Viaplay Streaming Service in the U.S. The first season of the dark Icelandic crime drama was well received, scoring numerous award noms at home and positive reviews in the English-langu…
+### OTHER on 2026-04-13 13:33
+- Location: Fair Observer
+- Description: The March 4, 2026, edition of the Arizona Daily Star put the facts succinctly: “A Haitian asylum seeker held for four months at Florence Correctional Center died Monday at a Scottsdale hospital due to complications from an infected tooth.” It seems the infect…
 
 
-### SHOOTING on 2026-04-13 12:56
-- Location: Mediatakeout.com
-- Description: Offset’s mother has broken her silence after the rapper was shot last week. Latabia Woodward shared a message online thanking fans for their support and revealing that her son’s recovery has moved quickly. “I don’t typically address things about my son on soc…
+### OTHER on 2026-04-13 13:24
+- Location: Freerepublic.com
+- Description: New police data shows foreign nationals feature disproportionately in violent offences, with sharp regional disparities and rising political pressure. Germany’s latest police crime statistics (PKS) have reignited the migration debate, with new data showing a …
 
-Analysis generated at: Tue Apr 14 13:15:04 UTC 2026
+Analysis generated at: Tue Apr 14 13:57:23 UTC 2026
