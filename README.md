@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Apr 15 01:57:59 UTC 2026
+Last updated: Wed Apr 15 02:56:28 UTC 2026
 
 ## Latest Analysis
 
-Loaded 98791 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-14 01:45:47
+Loaded 98794 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-14 02:48:48
 
 Incidents by source:
 source
-newsapi           98690
+newsapi           98693
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,6 +24,21 @@ bution.svg)
 
 ## Recent Incidents
 
+### HOMICIDE on 2026-04-14 02:48
+- Location: The Indian Express
+- Description: A bench of Chief Justice Surya Kant and Justice Joymalya Bagchi was informed by Additional Solicitor General Aishwarya Bhati, appearing for the police, that a chargesheet dated April 3 was filed under the enhanced sections of the Protection of the POCSO Act.
+
+
+### HOMICIDE on 2026-04-14 02:27
+- Location: Al Jazeera English
+- Description: A 20-year-old Texan faces potential life imprisonment after arson attack on Sam Altman's San Francisco residence.
+
+
+### OTHER on 2026-04-14 02:27
+- Location: Yahoo Entertainment
+- Description: The Orlando Dreamers are stepping up to support Maitland Little League after the league’s concession stand was broken into three times over the weekend.
+
+
 ### OTHER on 2026-04-14 01:45
 - Location: New York Post
 - Description: This weekend saw more mayhem on the streets of LA, as mob rule has taken over places that were once considered safe.
@@ -33,19 +48,4 @@ bution.svg)
 - Location: The Times of India
 - Description: This week’s South Indian OTT releases bring a mix of genres for every kind of viewer. From the emotional family story of Maa Inti Katha to the light-hearted romance in Youth, there’s something for everyone. Fans of thrillers can watch Sambhavam Adhyayam Onnu …
 
-
-### ROBBERY/THEFT on 2026-04-14 01:30
-- Location: The Indian Express
-- Description: Covert probe inside BPO led to nine FIRs — from sexual abuse to religious influence — police say no larger conspiracy.
-
-
-### HOMICIDE on 2026-04-14 01:18
-- Location: CBC News
-- Description: The Amherst Police Department is turning to the public for tips after a man was shot on Prince Arthur Street on Monday evening. Police said the people behind the shooting "fled the scene in  a vehicle."
-
-
-### HOMICIDE on 2026-04-14 01:18
-- Location: CBC News
-- Description: The Amherst Police Department is turning to the public for tips after a man was shot on Prince Arthur Street on Monday evening. Police said the people behind the shooting fled the scene in  a vehicle.
-
-Analysis generated at: Wed Apr 15 01:57:59 UTC 2026
+Analysis generated at: Wed Apr 15 02:56:28 UTC 2026
