@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Apr 15 07:24:08 UTC 2026
+Last updated: Wed Apr 15 13:12:26 UTC 2026
 
 ## Latest Analysis
 
-Loaded 98818 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-14 07:06:00
+Loaded 98877 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-14 13:00:00
 
 Incidents by source:
 source
-newsapi           98717
+newsapi           98776
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-04-14 07:06
-- Location: Thefutoncritic.com
-- Description: Stevens will play "The Five Borough Killer," a serial killer who, much like Zodiac, taunts the police with phone calls threatening the murder of innocent citizens.
+### OTHER on 2026-04-14 13:00
+- Location: GeekTyrant
+- Description: ABC has renewed the popular cop drama The Rookie for a ninth season, making it the third longest-running ABC drama series after Grey’s Anatomy, which is headed into Season 23, and NYPD Blue, which ran for 12 seasons. The show has become a popular source for T…
 
 
-### OTHER on 2026-04-14 06:58
-- Location: Moneycontrol
-- Description: Former Infosys CFO and HR head TV Mohandas Pai calls the case complete 'failure&quot; in implementing the POSH policy. Any complaint must go to a high-level, independent channel such as a dedicated webpage not to a direct manager, he says
+### OTHER on 2026-04-14 12:54
+- Location: CBS Sports
+- Description: The NBA's Play-In Tournament begins with two games Tuesday night, and there's one notable 7 vs. 8 trend
 
 
-### OTHER on 2026-04-14 06:58
-- Location: Al Jazeera English
-- Description: The US started a blockade on Iranian ports, but Trump said there is still a chance for Tehran to reach a deal.
+### OTHER on 2026-04-14 12:50
+- Location: The Verge
+- Description: The most consequential YouTube video of Jon Prosser's career opens on Prosser himself, in a black hoodie and transparent glasses. The backdrop is familiar to viewers of his tech news channel, Front Page Tech, with warm, hanging lights and a bright white "fpt"…
 
 
-### HOMICIDE on 2026-04-14 06:42
-- Location: TheJournal.ie
-- Description: No one was injured in the home and office attacks.
+### OTHER on 2026-04-14 12:45
+- Location: CryptoSlate
+- Description: Kraken says it is being extorted by a criminal group threatening to release internal material after two support staff members improperly accessed limited customer data. In a security update published by chief security officer Nick Percoco on X, the crypto exc…
 
 
-### OTHER on 2026-04-14 06:00
-- Location: Naturalnews.com
-- Description: Nearly 100 activists were arrested in Manhattan protesting U.S. arms sales to Israel. The demonstration targeted Senators Schumer and Gillibrand for their support of military aid. Protesters escalated from a lobby sit-in to blocking a major avenue, halting tr…
+### HOMICIDE on 2026-04-14 12:39
+- Location: Newser
+- Description: A former student opened fire at a high school in southeastern Turkey on Tuesday, wounding at least 16 people before killing himself, an official said. The 18-year-old attacker, armed with a shotgun, fired randomly inside a vocational high school in Siverek, S…
 
-Analysis generated at: Wed Apr 15 07:24:08 UTC 2026
+Analysis generated at: Wed Apr 15 13:12:26 UTC 2026
