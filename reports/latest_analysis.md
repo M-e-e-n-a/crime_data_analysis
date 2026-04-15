@@ -1,10 +1,10 @@
 
-Loaded 98884 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-14 13:50:00
+Loaded 98956 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-14 19:05:34
 
 Incidents by source:
 source
-newsapi           98783
+newsapi           98855
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-04-14 13:50
-- Location: Variety
-- Description: Dan Stevens is set to play a serial killer in “Dexter: Resurrection” Season 2, Variety has learned. Stevens will appear in a series regular role in the second season of the Paramount+ Premium, playing The Five Borough Killer. The character is described as bei…
+### HOMICIDE on 2026-04-14 19:05
+- Location: Livejournal.com
+- Description: https://deadline.com/2026/04/dan-stevens-cast-dexter-resurrection-season-2-1236772239/Dan Stevens is joining Dexter: Resurrection as a series regular."Stevens will play Owen Stark, the Five Borough Killer, and the second big bad of Season 2. Owen is a serial …
 
 
-### HOMICIDE on 2026-04-14 13:49
-- Location: Screen Rant
-- Description: Dexter: Resurrection is bringing more stars to New York City, and they are as deadly as ever, and this time Dexter has to face off even more foes.
+### SHOOTING on 2026-04-14 19:01
+- Location: Bossip
+- Description: Black ranchers in Colorado fight for their lives after shooting, enduring years of racism, harassment, and law enforcement inaction.
+The post #FarmingWithFear Colorado Ranchers Say They Fear For Their Lives After Easter Shooting At Their Ranch, Reported Racis…
 
 
-### OTHER on 2026-04-14 13:45
-- Location: Deadline
-- Description: EXCLUSIVE: Dan Stevens (Zero Day, Downton Abbey) is the second new star joining the cast of Showtime’s Dexter: Resurrection‘s second season as a series regular. He follows the announcement of Brian Cox’s casting as the mysterious Season 1 enigma, the elusive …
+### SHOOTING on 2026-04-14 19:00
+- Location: The Times of India
+- Description: Panaji: The crime branch of Goa police has begun an investigation into a viral video in which a woman, suspected to be a foreign national, and domesti.
 
 
-### OTHER on 2026-04-14 13:42
-- Location: The Indian Express
-- Description: According to personnel of Amravati rural police, they received inputs on April 11 about explicit content being shared online. Police identified the accused and found that he used the pictures of at least seven girls.
+### OTHER on 2026-04-14 18:58
+- Location: LancasterOnline
+- Description: A Lancaster Township man who yelled racial slurs at two women and tried to take one of the woman's phone as she recorded him will have his criminal charges decided in Lancaster County Court.
 
 
-### HOMICIDE on 2026-04-14 13:41
-- Location: CBS News
-- Description: An 18-year-old attacker, armed with a shotgun, fired randomly inside a vocational high school, wounding 10 students, four teachers, a canteen employee and a police officer, the local governor said.
+### ASSAULT on 2026-04-14 18:57
+- Location: Truthout
+- Description: Journalist Ahmed Shihab-Eldin had shared a video of a US fighter jet crashing over Kuwait a day before his arrest.
 
-Analysis generated at: Wed Apr 15 13:50:35 UTC 2026
+Analysis generated at: Wed Apr 15 19:08:01 UTC 2026
