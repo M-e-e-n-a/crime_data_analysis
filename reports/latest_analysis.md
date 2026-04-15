@@ -1,10 +1,10 @@
 
-Loaded 98769 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-13 19:05:14
+Loaded 98791 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-14 01:45:47
 
 Incidents by source:
 source
-newsapi           98668
+newsapi           98690
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,30 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-04-13 19:05
-- Location: Freerepublic.com
-- Description: Judge Khomeini’s state of mind for yourself: Since June 1981, according to estimates published by the Iranian resistance group known as the People’s Mojahedin, the Khomeini regime has put to death some 90,000 Iranians who don’t subscribe to its views. Another…
+### OTHER on 2026-04-14 01:45
+- Location: New York Post
+- Description: This weekend saw more mayhem on the streets of LA, as mob rule has taken over places that were once considered safe.
 
 
-### ASSAULT on 2026-04-13 18:56
-- Location: Fox News
-- Description: Federal authorities warn Missouri not to release an illegal immigrant accused of raping and kidnapping a woman in Kirksville on Easter Sunday.
+### OTHER on 2026-04-14 01:38
+- Location: The Times of India
+- Description: This week’s South Indian OTT releases bring a mix of genres for every kind of viewer. From the emotional family story of Maa Inti Katha to the light-hearted romance in Youth, there’s something for everyone. Fans of thrillers can watch Sambhavam Adhyayam Onnu …
 
 
-### OTHER on 2026-04-13 18:45
-- Location: /FILM
-- Description: We don't see The Empire in Star Wars: Maul - Shadow Lord until the final moments of the fourth episode. Here's why the show waited so long to do that.
+### ROBBERY/THEFT on 2026-04-14 01:30
+- Location: The Indian Express
+- Description: Covert probe inside BPO led to nine FIRs — from sexual abuse to religious influence — police say no larger conspiracy.
 
 
-### DRUG RELATED on 2026-04-13 18:37
-- Location: ABC News (AU)
-- Description: Key insiders from Fiji's largest-ever meth bust say the drug import had alarming links to organised crime in Australia.
+### HOMICIDE on 2026-04-14 01:18
+- Location: CBC News
+- Description: The Amherst Police Department is turning to the public for tips after a man was shot on Prince Arthur Street on Monday evening. Police said the people behind the shooting "fled the scene in  a vehicle."
 
 
-### OTHER on 2026-04-13 18:37
-- Location: The Punch
-- Description: Residents in Imoga community, Edo State, have arrested a notorious kidnap kingpin, Ismaila Ibrahim, after he was identified by an escaped victim.
+### HOMICIDE on 2026-04-14 01:18
+- Location: CBC News
+- Description: The Amherst Police Department is turning to the public for tips after a man was shot on Prince Arthur Street on Monday evening. Police said the people behind the shooting fled the scene in  a vehicle.
 
-Read More: https://punchng.com/residents-nab-kidnap-kingpin-hand-him-over-to-police-in-edo/
-
-Analysis generated at: Tue Apr 14 19:05:33 UTC 2026
+Analysis generated at: Wed Apr 15 01:57:59 UTC 2026
