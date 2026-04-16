@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Apr 15 19:08:01 UTC 2026
+Last updated: Thu Apr 16 02:05:56 UTC 2026
 
 ## Latest Analysis
 
-Loaded 98956 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-14 19:05:34
+Loaded 98976 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-15 01:53:23
 
 Incidents by source:
 source
-newsapi           98855
+newsapi           98875
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-04-14 19:05
-- Location: Livejournal.com
-- Description: https://deadline.com/2026/04/dan-stevens-cast-dexter-resurrection-season-2-1236772239/Dan Stevens is joining Dexter: Resurrection as a series regular."Stevens will play Owen Stark, the Five Borough Killer, and the second big bad of Season 2. Owen is a serial …
+### OTHER on 2026-04-15 01:53
+- Location: Israelnationalnews.com
+- Description: MK Ahmed Tibi believes there is a strong chance of re-establishing the Joint List, which could win 15-17 seats and thereby prevent the formation of a right-wing government.
 
 
-### SHOOTING on 2026-04-14 19:01
-- Location: Bossip
-- Description: Black ranchers in Colorado fight for their lives after shooting, enduring years of racism, harassment, and law enforcement inaction.
-The post #FarmingWithFear Colorado Ranchers Say They Fear For Their Lives After Easter Shooting At Their Ranch, Reported Racis…
+### OTHER on 2026-04-15 01:23
+- Location: Dexerto
+- Description: Johnny Somali has been sentenced to prison with labor in South Korea, putting an end to the streamer’s legal saga in the country.
 
 
-### SHOOTING on 2026-04-14 19:00
-- Location: The Times of India
-- Description: Panaji: The crime branch of Goa police has begun an investigation into a viral video in which a woman, suspected to be a foreign national, and domesti.
+### OTHER on 2026-04-15 01:13
+- Location: Us Weekly
+- Description: Erika Kirk cancelled an appearance at a Turning Point USA event alongside Vice President JD Vance amid alleged security threats. Erika, 37, was scheduled to headline the political organization’s University of Georgia event alongside Vance, 41, on Tuesday, Apr…
 
 
-### OTHER on 2026-04-14 18:58
-- Location: LancasterOnline
-- Description: A Lancaster Township man who yelled racial slurs at two women and tried to take one of the woman's phone as she recorded him will have his criminal charges decided in Lancaster County Court.
+### ASSAULT on 2026-04-15 01:13
+- Location: NBC News
+- Description: A man seen on video forcing his way into a California home and attacking the homeowner has been arrested and charged with assault
 
 
-### ASSAULT on 2026-04-14 18:57
-- Location: Truthout
-- Description: Journalist Ahmed Shihab-Eldin had shared a video of a US fighter jet crashing over Kuwait a day before his arrest.
+### SHOOTING on 2026-04-15 01:09
+- Location: Abcnews.com
+- Description: The teen was kidnapped from the bus stop at gunpoint near Detroit. Surveillance cameras show a convenience store clerk confronting the suspect, helping to save the girl.
 
-Analysis generated at: Wed Apr 15 19:08:01 UTC 2026
+Analysis generated at: Thu Apr 16 02:05:56 UTC 2026
