@@ -1,10 +1,10 @@
 
-Loaded 98976 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-15 01:53:23
+Loaded 98982 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-15 03:16:02
 
 Incidents by source:
 source
-newsapi           98875
+newsapi           98881
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-04-15 01:53
-- Location: Israelnationalnews.com
-- Description: MK Ahmed Tibi believes there is a strong chance of re-establishing the Joint List, which could win 15-17 seats and thereby prevent the formation of a right-wing government.
+### OTHER on 2026-04-15 03:16
+- Location: The Daily Caller
+- Description: "Looksmaxxing"  streamer Clavicular was rushed to hospital Tuesday night after suffering a medical emergency while livestreaming
 
 
-### OTHER on 2026-04-15 01:23
-- Location: Dexerto
-- Description: Johnny Somali has been sentenced to prison with labor in South Korea, putting an end to the streamer’s legal saga in the country.
-
-
-### OTHER on 2026-04-15 01:13
+### OTHER on 2026-04-15 03:12
 - Location: Us Weekly
-- Description: Erika Kirk cancelled an appearance at a Turning Point USA event alongside Vice President JD Vance amid alleged security threats. Erika, 37, was scheduled to headline the political organization’s University of Georgia event alongside Vance, 41, on Tuesday, Apr…
+- Description: Influencer Clavicular has been hospitalized following a “suspected overdose.” According to a Tuesday, April 14, report by TMZ, a live stream by the influencer, real name Braden Peters, was cut short after he “suffered a suspected overdose Tuesday night and ha…
 
 
-### ASSAULT on 2026-04-15 01:13
-- Location: NBC News
-- Description: A man seen on video forcing his way into a California home and attacking the homeowner has been arrested and charged with assault
+### OTHER on 2026-04-15 02:58
+- Location: Bleeding Cool News
+- Description: With production underway on the second season of director/EP Marcos Siega, writer/EP Scott Reynolds, series star/EP Michael C. Hall, and Showrunner Clyde Phillips's Dexter: Resurrection, we've got more big casting news to pass along. Dan Stevens (Godzilla x K…
 
 
-### SHOOTING on 2026-04-15 01:09
-- Location: Abcnews.com
-- Description: The teen was kidnapped from the bus stop at gunpoint near Detroit. Surveillance cameras show a convenience store clerk confronting the suspect, helping to save the girl.
+### OTHER on 2026-04-15 02:45
+- Location: New York Post
+- Description: The sicko was arrested in 2024 after a 10-year-old girl reported his inappropriate touching of her, which began when she was just 4.
 
-Analysis generated at: Thu Apr 16 02:05:56 UTC 2026
+
+### OTHER on 2026-04-15 02:32
+- Location: CNN
+- Description: The Kuwaiti-American journalist, known for his work at VICE, HuffPost and Al Jazeera, has been detained in Kuwait, according to press freedom advocates, after sharing videos related to the Iran war.
+
+Analysis generated at: Thu Apr 16 03:23:19 UTC 2026
