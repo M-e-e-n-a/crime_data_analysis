@@ -1,10 +1,10 @@
 
-Loaded 99073 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-15 13:56:12
+Loaded 99139 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-15 18:49:24
 
 Incidents by source:
 source
-newsapi           98972
+newsapi           99038
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-04-15 13:56
-- Location: CBC News
-- Description: A student opened fire randomly at two classrooms at a middle school in southeast Turkey on Wednesday, killing four people and wounding 20 others, an official said, in the second such shooting in the country in two days.
+### ROBBERY/THEFT on 2026-04-15 18:49
+- Location: The Times of India
+- Description: Enforcement Directorate arrested two former Anil Dhirubhai Ambani Group executives. Amitabh Jhunjhunwala and Amit Bapna face money laundering charges. The agency alleges a scheme to divert public money from Reliance Home Finance and Reliance Commercial Financ…
 
 
-### HOMICIDE on 2026-04-15 13:52
-- Location: Newser
-- Description: A student opened fire randomly at two classrooms at a middle school in southeast Turkey on Wednesday, killing four people and wounding 20 others, an official said, in the second such shooting in the country in two days. The student, who was also killed, arriv…
+### OTHER on 2026-04-15 18:45
+- Location: Fox News
+- Description: Holocaust survivor Nate Leipciger, 98, warns from Auschwitz about growing antisemitism in Canada, calling on the nation to stand up and take action now.
 
 
-### ASSAULT on 2026-04-15 13:46
-- Location: RT
-- Description: An EU human rights report has criticized Germany for disproportionately restricting pro-Palestinian protests under the pretext of fighting anti-Semitism
+### OTHER on 2026-04-15 18:42
+- Location: The Irish Times
+- Description: Independent Commission for Reconciliation and Information Recovery has face multiple issues since inception
 
 
-### OTHER on 2026-04-15 13:39
-- Location: Abcnews.com
-- Description: Chief Meteorologist Ginger Zee is tracking a new round of heavy rain, hail and tornadoes in the middle of the country.
+### ASSAULT on 2026-04-15 18:34
+- Location: Fox News
+- Description: Police in London are searching for two masked suspects behind an attempted arson attack on a synagogue, that is now being treated as an "antisemitic hate crime."
 
 
-### ASSAULT on 2026-04-15 13:33
-- Location: The Indian Express
-- Description: The court extended them the benefit of doubt.
+### HOMICIDE on 2026-04-15 18:25
+- Location: KQED
+- Description: Security footage shows the driver pausing before striking the pedestrian, crushing the person under the car’s wheels, before driving off.
 
-Analysis generated at: Thu Apr 16 13:59:37 UTC 2026
+Analysis generated at: Thu Apr 16 19:05:21 UTC 2026
