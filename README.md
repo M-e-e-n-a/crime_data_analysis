@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Apr 16 03:23:19 UTC 2026
+Last updated: Thu Apr 16 07:24:28 UTC 2026
 
 ## Latest Analysis
 
-Loaded 98982 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-15 03:16:02
+Loaded 99005 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-15 07:15:02
 
 Incidents by source:
 source
-newsapi           98881
+newsapi           98904
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,38 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-04-15 03:16
-- Location: The Daily Caller
-- Description: "Looksmaxxing"  streamer Clavicular was rushed to hospital Tuesday night after suffering a medical emergency while livestreaming
+### OTHER on 2026-04-15 07:15
+- Location: ABC News (AU)
+- Description: More than a day after Angus Taylor unveiled the first plank of the Coalition's long-awaited migration policy and many media interviews later, it's still unclear what the opposition is actually proposing to change.
 
 
-### OTHER on 2026-04-15 03:12
-- Location: Us Weekly
-- Description: Influencer Clavicular has been hospitalized following a “suspected overdose.” According to a Tuesday, April 14, report by TMZ, a live stream by the influencer, real name Braden Peters, was cut short after he “suffered a suspected overdose Tuesday night and ha…
+### OTHER on 2026-04-15 07:15
+- Location: Israelnationalnews.com
+- Description: Some day, in a world in which factual accuracy is honored and things are called what they really are, Jew-hatred will again be called ‘Jew-hatred’ and we will no longer use the anachronistic term ‘antisemitism.’ Two writers write two totally disparate analyse…
 
 
-### OTHER on 2026-04-15 02:58
-- Location: Bleeding Cool News
-- Description: With production underway on the second season of director/EP Marcos Siega, writer/EP Scott Reynolds, series star/EP Michael C. Hall, and Showrunner Clyde Phillips's Dexter: Resurrection, we've got more big casting news to pass along. Dan Stevens (Godzilla x K…
+### OTHER on 2026-04-15 07:00
+- Location: Inside Higher Ed
+- Description: How Civil Rights Victories of the Past Turned Into Weapons of the Present
+
+ 
 
 
-### OTHER on 2026-04-15 02:45
-- Location: New York Post
-- Description: The sicko was arrested in 2024 after a 10-year-old girl reported his inappropriate touching of her, which began when she was just 4.
+ 
+Elizabeth Redden
+
+Wed, 04/15/2026 - 03:00 AM
+
+The use of civil rights law to suppress campus speech critical of Israel is the result of a 20-plus-year campaign to reinterpret Tit…
 
 
-### OTHER on 2026-04-15 02:32
-- Location: CNN
-- Description: The Kuwaiti-American journalist, known for his work at VICE, HuffPost and Al Jazeera, has been detained in Kuwait, according to press freedom advocates, after sharing videos related to the Iran war.
+### ASSAULT on 2026-04-15 06:35
+- Location: NPR
+- Description: The Justice Department on Tuesday asked a federal appeals court to throw out the seditious conspiracy convictions of Proud Boys and Oath Keepers leaders, for their role in the Jan. 6, 2021, U.S. Capitol attack.
 
-Analysis generated at: Thu Apr 16 03:23:19 UTC 2026
+
+### OTHER on 2026-04-15 06:35
+- Location: ABC News (AU)
+- Description: Several lawyers have told a state parliament inquiry into the youth justice system that bail laws are encouraging children to plead guilty to crimes they may not have committed.
+
+Analysis generated at: Thu Apr 16 07:24:28 UTC 2026
