@@ -1,10 +1,10 @@
 
-Loaded 99191 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-16 07:23:35
+Loaded 99243 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-16 13:05:14
 
 Incidents by source:
 source
-newsapi           99090
+newsapi           99142
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2026-04-16 07:23
-- Location: Overdriveonline.com
-- Description: Among projects this construction season, Ohio's adding 144 truck parking spaces at decommissioned weigh stations. Also: New Hampshire police sideline 35 trucks, 14 drivers in one-day blitz; $287K falsified VIN trailer scheme; latest Highway Angel.
+### HOMICIDE on 2026-04-16 13:05
+- Location: HuffPost
+- Description: Police said the couple’s two teenage children were in the home at the time of the murder-suicide.
 
 
-### HOMICIDE on 2026-04-16 07:16
-- Location: Hurriyet Daily News
-- Description: Funerals will be held on Thursday for nine people killed when a 14-year-old opened fire at a school in Türkiye, sending shock waves across the country.
+### OTHER on 2026-04-16 13:05
+- Location: Kffhealthnews.org
+- Description: None
 
 
-### HOMICIDE on 2026-04-16 06:58
+### OTHER on 2026-04-16 13:05
+- Location: Internet
+- Description: You know that feeling when you open your feed on a Thursday morning and it's just... a lot? Yeah. This week delivered. We've got hackers getting creative in ways that are almost impressive if you ignore the whole "crime" part, ancient vulnerabilities somehow …
+
+
+### HOMICIDE on 2026-04-16 13:01
 - Location: New York Post
-- Description: An invitation for a barbecue at the park was sent out to gang members on social media. An argument then broke out at the event, sparking the gunfire.
+- Description: Embattled former Virginia Lt. Gov. Justin Fairfax killed his wife and then shot himself inside their home early Thursday amid the throes of a "messy divorce," cops said.
 
 
-### SHOOTING on 2026-04-16 06:16
-- Location: Hurriyet Daily News
-- Description: Four public officials have been suspended after a shotgun attack at a high school in the southeastern province of Şanlıurfa left 16 people injured, as new details emerged about prior threats made by the attacker, local media reported on April 15.
+### SHOOTING on 2026-04-16 13:00
+- Location: Fox News
+- Description: Authorities arrested three teens who allegedly planned a copycat Columbine and Sandy Hook shooting at a New York middle school, according to police.
 
-
-### OTHER on 2026-04-16 06:13
-- Location: Antaranews.com
-- Description: Indonesia&rsquo;s immigration authorities have deported 13 Japanese nationals suspected of running online fraud operations, officials said Thursday, ...
-
-Analysis generated at: Fri Apr 17 07:24:45 UTC 2026
+Analysis generated at: Fri Apr 17 13:06:40 UTC 2026
