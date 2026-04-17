@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Apr 17 13:06:40 UTC 2026
+Last updated: Fri Apr 17 13:42:43 UTC 2026
 
 ## Latest Analysis
 
-Loaded 99243 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-16 13:05:14
+Loaded 99253 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-16 13:38:37
 
 Incidents by source:
 source
-newsapi           99142
+newsapi           99152
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-04-16 13:05
-- Location: HuffPost
-- Description: Police said the couple’s two teenage children were in the home at the time of the murder-suicide.
+### DRUG RELATED on 2026-04-16 13:38
+- Location: Reason
+- Description: Plus: The U.S. blockade widens, Los Angeles teachers get a pay bump, the sunny side of a treeless national mall, and more...
 
 
-### OTHER on 2026-04-16 13:05
-- Location: Kffhealthnews.org
-- Description: None
+### HOMICIDE on 2026-04-16 13:30
+- Location: Breitbart News
+- Description: Multiple reports indicate former Virginia Lt. Gov. Justin Fairfax (D) and his wife were found dead in the early hours of Thursday morning following a murder-suicide.
+The post Reports: Ex-Virginia Lt. Gov. Justin Fairfax and Wife Dead in Suspected Murder-Suici…
 
 
-### OTHER on 2026-04-16 13:05
-- Location: Internet
-- Description: You know that feeling when you open your feed on a Thursday morning and it's just... a lot? Yeah. This week delivered. We've got hackers getting creative in ways that are almost impressive if you ignore the whole "crime" part, ancient vulnerabilities somehow …
+### HOMICIDE on 2026-04-16 13:29
+- Location: Newser
+- Description: A onetime rising star in Virginia politics is dead in what police are calling a murder-suicide. Authorities in Fairfax County say former Lt. Gov. Justin Fairfax, 47, shot his wife, Cerina, and himself early Thursday in their Annandale home, report the Richmon…
 
 
-### HOMICIDE on 2026-04-16 13:01
-- Location: New York Post
-- Description: Embattled former Virginia Lt. Gov. Justin Fairfax killed his wife and then shot himself inside their home early Thursday amid the throes of a "messy divorce," cops said.
+### HOMICIDE on 2026-04-16 13:28
+- Location: Just Jared
+- Description: Former Virginia Lt. Governor Justin Fairfax has died in an apparent murder-suicide at the age of 47. “Justin Fairfax shot and killed – shot several times – and killed his wife, ran to a different part of the home and then killed himself with the same firearm …
 
 
-### SHOOTING on 2026-04-16 13:00
-- Location: Fox News
-- Description: Authorities arrested three teens who allegedly planned a copycat Columbine and Sandy Hook shooting at a New York middle school, according to police.
+### HOMICIDE on 2026-04-16 13:22
+- Location: Raw Story
+- Description: Former Virginia lieutenant governor Justin Fairfax shot his wife to death and then killed himself, authorities in Annandale said.On Thursday, officials confirmed to Fox 5 that Fairfax was found in their home at the 8100 block of Guinevere Drive. Two bodies we…
 
-Analysis generated at: Fri Apr 17 13:06:40 UTC 2026
+Analysis generated at: Fri Apr 17 13:42:43 UTC 2026
