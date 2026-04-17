@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Apr 17 02:58:50 UTC 2026
+Last updated: Fri Apr 17 07:24:45 UTC 2026
 
 ## Latest Analysis
 
-Loaded 99166 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-16 02:50:58
+Loaded 99191 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-16 07:23:35
 
 Incidents by source:
 source
-newsapi           99065
+newsapi           99090
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-04-16 02:50
-- Location: Freerepublic.com
-- Description: When Australian Army private Robert Poate was gunned down in 2012 by a rogue Afghan soldier inside what should have been a safe patrol base, within 20 minutes Ben Roberts-Smith was on the scene with his small SAS team. Too late to save Poate and the two other…
+### ROBBERY/THEFT on 2026-04-16 07:23
+- Location: Overdriveonline.com
+- Description: Among projects this construction season, Ohio's adding 144 truck parking spaces at decommissioned weigh stations. Also: New Hampshire police sideline 35 trucks, 14 drivers in one-day blitz; $287K falsified VIN trailer scheme; latest Highway Angel.
 
 
-### HOMICIDE on 2026-04-16 02:40
-- Location: Gossiplankanews.com
-- Description: Sobana Handi Sanath de Silva, alias 'Raju', a powerful underworld member who was essential to the Sri Lanka Police, has been arrested in India by Indian security forces. Accused of over fifteen serious crimes, including murder, he is also the brother of Soban…
+### HOMICIDE on 2026-04-16 07:16
+- Location: Hurriyet Daily News
+- Description: Funerals will be held on Thursday for nine people killed when a 14-year-old opened fire at a school in Türkiye, sending shock waves across the country.
 
 
-### OTHER on 2026-04-16 02:35
-- Location: Haaretz
-- Description: Sirens Sounded in Northern Israel Following Drone Infiltration. Report: Lebanese Officials Say Cease-fire With Israel Expected ‘Soon’. Senior U.S. Official to Haaretz: Trump Would Welcome End of Hostilities, Peace Between Israel and Lebanon
+### HOMICIDE on 2026-04-16 06:58
+- Location: New York Post
+- Description: An invitation for a barbecue at the park was sent out to gang members on social media. An argument then broke out at the event, sparking the gunfire.
 
 
-### HOMICIDE on 2026-04-16 02:14
-- Location: CBS News
-- Description: Nearly two years after Emeshyon Wilkins was shot and killed by a St. Louis police officer, Shaina Wilkins says she is still searching for answers and accountability.
+### SHOOTING on 2026-04-16 06:16
+- Location: Hurriyet Daily News
+- Description: Four public officials have been suspended after a shotgun attack at a high school in the southeastern province of Şanlıurfa left 16 people injured, as new details emerged about prior threats made by the attacker, local media reported on April 15.
 
 
-### OTHER on 2026-04-16 02:03
+### OTHER on 2026-04-16 06:13
 - Location: Antaranews.com
-- Description: Police in Central Papua said they have received no official reports of civilian casualties 15 days after violence erupted in Dogiyai District on March 31, ...
+- Description: Indonesia&rsquo;s immigration authorities have deported 13 Japanese nationals suspected of running online fraud operations, officials said Thursday, ...
 
-Analysis generated at: Fri Apr 17 02:58:50 UTC 2026
+Analysis generated at: Fri Apr 17 07:24:45 UTC 2026
