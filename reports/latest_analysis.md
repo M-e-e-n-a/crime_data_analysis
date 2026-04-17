@@ -1,10 +1,10 @@
 
-Loaded 99253 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-16 13:38:37
+Loaded 99347 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-16 18:51:18
 
 Incidents by source:
 source
-newsapi           99152
+newsapi           99246
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### DRUG RELATED on 2026-04-16 13:38
-- Location: Reason
-- Description: Plus: The U.S. blockade widens, Los Angeles teachers get a pay bump, the sunny side of a treeless national mall, and more...
+### HOMICIDE on 2026-04-16 18:51
+- Location: Hollywood Life
+- Description: Justin Fairfax once served as Virginia’s lieutenant governor. Here’s a closer look at his life and career following his death.
 
 
-### HOMICIDE on 2026-04-16 13:30
-- Location: Breitbart News
-- Description: Multiple reports indicate former Virginia Lt. Gov. Justin Fairfax (D) and his wife were found dead in the early hours of Thursday morning following a murder-suicide.
-The post Reports: Ex-Virginia Lt. Gov. Justin Fairfax and Wife Dead in Suspected Murder-Suici…
+### HOMICIDE on 2026-04-16 18:47
+- Location: TheJournal.ie
+- Description: The non-jury trial of the trio started at Belfast Crown Court almost two years ago.
 
 
-### HOMICIDE on 2026-04-16 13:29
-- Location: Newser
-- Description: A onetime rising star in Virginia politics is dead in what police are calling a murder-suicide. Authorities in Fairfax County say former Lt. Gov. Justin Fairfax, 47, shot his wife, Cerina, and himself early Thursday in their Annandale home, report the Richmon…
+### OTHER on 2026-04-16 18:46
+- Location: TVLine
+- Description: The fate of Law & Order: Organized Crime has been determined. Get details on the future of Chris Meloni's Peacock series.
 
 
-### HOMICIDE on 2026-04-16 13:28
-- Location: Just Jared
-- Description: Former Virginia Lt. Governor Justin Fairfax has died in an apparent murder-suicide at the age of 47. “Justin Fairfax shot and killed – shot several times – and killed his wife, ran to a different part of the home and then killed himself with the same firearm …
+### HOMICIDE on 2026-04-16 18:45
+- Location: New York Post
+- Description: An NYPD cop on horseback chased down a convicted killer parolee who swiped a purse on the Upper West Side in a wild pursuit fit for a western flick.
 
 
-### HOMICIDE on 2026-04-16 13:22
-- Location: Raw Story
-- Description: Former Virginia lieutenant governor Justin Fairfax shot his wife to death and then killed himself, authorities in Annandale said.On Thursday, officials confirmed to Fox 5 that Fairfax was found in their home at the 8100 block of Guinevere Drive. Two bodies we…
+### ROBBERY/THEFT on 2026-04-16 18:43
+- Location: RTE
+- Description: A 51-year-old man, described as the leader of an organised crime gang, has been sentenced to a total of nine years in prison, after pleading guilty to charges relating to burglaries carried out in several counties.
 
-Analysis generated at: Fri Apr 17 13:42:43 UTC 2026
+Analysis generated at: Fri Apr 17 18:52:59 UTC 2026
