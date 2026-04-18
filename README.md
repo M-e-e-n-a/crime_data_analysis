@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Apr 17 18:52:59 UTC 2026
+Last updated: Sat Apr 18 01:52:56 UTC 2026
 
 ## Latest Analysis
 
-Loaded 99347 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-16 18:51:18
+Loaded 99385 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-17 01:50:23
 
 Incidents by source:
 source
-newsapi           99246
+newsapi           99284
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-04-16 18:51
-- Location: Hollywood Life
-- Description: Justin Fairfax once served as Virginia’s lieutenant governor. Here’s a closer look at his life and career following his death.
+### HOMICIDE on 2026-04-17 01:50
+- Location: Fox News
+- Description: A Mexican national illegal alien accused of randomly setting a NYC apartment on fire that killed four could be released due to the city's sanctuary policies, DHS says.
 
 
-### HOMICIDE on 2026-04-16 18:47
-- Location: TheJournal.ie
-- Description: The non-jury trial of the trio started at Belfast Crown Court almost two years ago.
+### HOMICIDE on 2026-04-17 01:49
+- Location: Pitchfork
+- Description: The 14-year-old girl’s body was found in the singer-songwriter’s Tesla last September
 
 
-### OTHER on 2026-04-16 18:46
-- Location: TVLine
-- Description: The fate of Law & Order: Organized Crime has been determined. Get details on the future of Chris Meloni's Peacock series.
+### HOMICIDE on 2026-04-17 01:37
+- Location: Radaronline.com
+- Description: 'Romantic Homicide' singer D4vd was arrested in Los Angeles on Thursday, April 16, in connection with the murder of 14-year-old girl Celeste Rivas Hernandez.
 
 
-### HOMICIDE on 2026-04-16 18:45
-- Location: New York Post
-- Description: An NYPD cop on horseback chased down a convicted killer parolee who swiped a purse on the Upper West Side in a wild pursuit fit for a western flick.
+### SHOOTING on 2026-04-17 01:36
+- Location: BBC News
+- Description: A man is being treated in hospital after he was shot in the hand during an incident in Coleraine.
 
 
-### ROBBERY/THEFT on 2026-04-16 18:43
-- Location: RTE
-- Description: A 51-year-old man, described as the leader of an organised crime gang, has been sentenced to a total of nine years in prison, after pleading guilty to charges relating to burglaries carried out in several counties.
+### HOMICIDE on 2026-04-17 01:35
+- Location: NBC News
+- Description: A woman accused of fatally shooting a woman and wounding another in Missouri nearly six years ago was arrested in Florida this week, one day after she was placed on the FBI’s Ten Most Wanted Fugitives list, authorities said
 
-Analysis generated at: Fri Apr 17 18:52:59 UTC 2026
+Analysis generated at: Sat Apr 18 01:52:56 UTC 2026
