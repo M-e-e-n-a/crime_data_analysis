@@ -1,10 +1,10 @@
 
-Loaded 99508 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-17 13:10:28
+Loaded 99600 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-17 18:38:09
 
 Incidents by source:
 source
-newsapi           99407
+newsapi           99499
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-04-17 13:10
-- Location: Freerepublic.com
-- Description: OMAHA, Neb. (WOWT) - The boyfriend of the 31-year-old woman shot dead by police officers during a kidnapping attempt at an Omaha Walmart talked with First Alert 6 on Wednesday about her prior struggles. Guzman’s boyfriend Carlos declined to give First Alert 6…
+### SHOOTING on 2026-04-17 18:38
+- Location: The Daily Caller
+- Description: Louisiana police arrested a 13-year-old boy after he allegedly shot his father Tuesday morning in the car drop-off line close to a school.
 
 
-### HOMICIDE on 2026-04-17 13:10
-- Location: Freerepublic.com
-- Description: OMAHA, Neb. (WOWT) - The boyfriend of the 31-year-old woman shot dead by police officers during a kidnapping attempt at an Omaha Walmart talked with First Alert 6 on Wednesday about her prior struggles. Guzman’s boyfriend Carlos declined to give First Alert 6…
+### OTHER on 2026-04-17 18:36
+- Location: Us Weekly
+- Description: An article written by Ruby Rose has resurfaced and sheds some light on one of her nights out with Katy Perry. “I spectacularly lost dignity (and keys) one night not too long ago. Remember when Katy Perry and I crashed the year 12 formal? I don’t,” Rose, 40, w…
 
 
-### OTHER on 2026-04-17 13:08
-- Location: Ibtimes.com.au
-- Description: TUCSON, Ariz. — More than 75 days after 84-year-old Nancy Guthrie was abducted from her home in Catalina Foothills near Tucson, authorities and criminal profilers continue to search for clues about her whereabouts while the investigation remains active but wi…
+### OTHER on 2026-04-17 18:35
+- Location: The Times of India
+- Description: Panaji: The crime branch of the Goa police on Friday conducted two raids in connection with alleged cricket betting, arrested 10 persons and also seiz.
 
 
-### OTHER on 2026-04-17 13:00
-- Location: Variety
-- Description: “Dexter: Resurrection” Season 2 has cast both Bokeem Woodbine and Nona Parker Johnson in series regular roles, Variety has learned exclusively. Woodbine and Johnson are the latest additions to the sophomore season of the Paramount+ Premium series. Brian Cox i…
+### HOMICIDE on 2026-04-17 18:30
+- Location: Foreign Policy
+- Description: Patrick Radden Keefe’s “London Falling” is a mystery that turns into a tragedy.
 
 
-### OTHER on 2026-04-17 12:50
-- Location: New York Post
-- Description: A hip-hop influencer who lured women to a Pacific Palisades mansion abandoned after the devastating wildfire before raping them as part of a sick ruse will serve eight years in prison after pleading no contest to the horrific crime. Clinton Adams — who goes b…
+### OTHER on 2026-04-17 18:29
+- Location: Wnd.com
+- Description: 'Selective morality reflects the left’s secular transmogrification' lesson to do better
 
-Analysis generated at: Sat Apr 18 13:13:39 UTC 2026
+Analysis generated at: Sat Apr 18 18:40:15 UTC 2026
