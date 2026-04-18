@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Apr 18 01:52:56 UTC 2026
+Last updated: Sat Apr 18 02:50:38 UTC 2026
 
 ## Latest Analysis
 
-Loaded 99385 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-17 01:50:23
+Loaded 99394 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-17 02:41:31
 
 Incidents by source:
 source
-newsapi           99284
+newsapi           99293
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,32 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-04-17 01:50
-- Location: Fox News
-- Description: A Mexican national illegal alien accused of randomly setting a NYC apartment on fire that killed four could be released due to the city's sanctuary policies, DHS says.
+### OTHER on 2026-04-17 02:41
+- Location: The Times of India
+- Description: West Bengal CM Mamata Banerjee, while addressing a gathering, said, "Their (BJP) plan is to bring in the NIA, detonate the bomb, and then blame it on someone else. They'll bring in some people from outside, accuse you, and arrest the boys tomorrow. It's just …
 
 
-### HOMICIDE on 2026-04-17 01:49
-- Location: Pitchfork
-- Description: The 14-year-old girl’s body was found in the singer-songwriter’s Tesla last September
+### OTHER on 2026-04-17 02:35
+- Location: Gptimage2.one
+- Description: A living collection of real prompts shared by creators on Twitter, covering data viz, portraits, product design, and more.Links back to original tweets.
+
+Comments URL: https://news.ycombinator.com/item?id=47801925
+Points: 1
+# Comments: 0
 
 
-### HOMICIDE on 2026-04-17 01:37
-- Location: Radaronline.com
-- Description: 'Romantic Homicide' singer D4vd was arrested in Los Angeles on Thursday, April 16, in connection with the murder of 14-year-old girl Celeste Rivas Hernandez.
+### HOMICIDE on 2026-04-17 02:32
+- Location: Slashdot.org
+- Description: Former Va. Lt. Gov. Justin Fairfax shot his wife in apparent murder-suicide weeks before court deadline to move outWTOP Former Virginia Lt. Gov. Justin Fairfax kills his wife and then himself, police sayCNN Former Virginia Lt. Gov. Justin Fairfax kills wife a…
 
 
-### SHOOTING on 2026-04-17 01:36
-- Location: BBC News
-- Description: A man is being treated in hospital after he was shot in the hand during an incident in Coleraine.
+### HOMICIDE on 2026-04-17 02:22
+- Location: ABC News (AU)
+- Description: Ben Roberts-Smith is granted bail after spending a week in custody over alleged war crime of murder offences.
 
 
-### HOMICIDE on 2026-04-17 01:35
-- Location: NBC News
-- Description: A woman accused of fatally shooting a woman and wounding another in Missouri nearly six years ago was arrested in Florida this week, one day after she was placed on the FBI’s Ten Most Wanted Fugitives list, authorities said
+### OTHER on 2026-04-17 02:19
+- Location: NPR
+- Description: The 21-year-old Houston-born singer, whose real name is David Burke, had been under a secret investigation by an LA County grand jury after a 14-year-old girl's decomposed body was found in his car.
 
-Analysis generated at: Sat Apr 18 01:52:56 UTC 2026
+Analysis generated at: Sat Apr 18 02:50:38 UTC 2026
