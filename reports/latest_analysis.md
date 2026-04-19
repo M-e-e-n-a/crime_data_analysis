@@ -1,10 +1,10 @@
 
-Loaded 99634 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-18 07:02:21
+Loaded 99658 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-18 12:43:15
 
 Incidents by source:
 source
-newsapi           99533
+newsapi           99557
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,30 +20,32 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-04-18 07:02
-- Location: Japan Today
-- Description: Police in Machida City, Tokyo, have arrested a 29-year-old unemployed man on suspicion of attempted murder after he allegedly stabbed another man following a dispute on a street. The incident occurred at around 12:30 a.m. Saturday, NHK reported. A passerby wh…
+### HOMICIDE on 2026-04-18 12:43
+- Location: The Times of India
+- Description: The death toll from a blast at the Vedanta power plant in Chhattisgarh's Sakti district has risen to 23. Two more workers died from their injuries on Saturday. Twelve others remain hospitalized, with three in critical condition. An FIR has been filed, naming …
 
 
-### HOMICIDE on 2026-04-18 07:00
-- Location: Sankakucomplex.com
-- Description: A disturbing murder case in Kyoto has taken an even darker turn, as investigators revealed that a father accused of killing his own son had reportedly searched for ways to dispose of a body on his smartphone. The incident centers around 11-year-old Yuki Adach…
-
-
-### OTHER on 2026-04-18 06:44
-- Location: The Punch
-- Description: Get today’s Nigerian news recap. Stories include a Lagos baby factory bust, JAMB UTME results, kidnapping updates, and potential petrol price drops.
-
-Read More: https://punchng.com/morning-recap-lagos-baby-factory-busted-jamb-releases-utme-results-1000-abduct…
-
-
-### SHOOTING on 2026-04-18 06:43
-- Location: Hurriyet Daily News
-- Description: Investigators are widening their focus to the attacker’s digital footprint and access to firearms after the school shooting in Kahramanmaraş, one of two rare back-to-back attacks that have shaken Türkiye this week.
-
-
-### HOMICIDE on 2026-04-18 06:39
+### HOMICIDE on 2026-04-18 12:30
 - Location: New York Post
-- Description: The suspect in the shootings, Olaolukitan Adon Abel, a 26-year-old UK native, is charged in state court in DeKalb County with two counts of malice murder, aggravated assault and firearms counts.
+- Description: The Alameda County case against Cedric Irving Jr., accused of killing beloved Oakland football coach and educator John Beam, hit a major legal roadblock Friday after a judge ruled the defendant mentally incompetent to stand trial, prosecutors said. The decisi…
 
-Analysis generated at: Sun Apr 19 07:12:22 UTC 2026
+
+### OTHER on 2026-04-18 12:21
+- Location: The Times of India
+- Description: A TCS employee, Nida Khan, accused in a religious conversion and sexual harassment case, has applied for anticipatory bail. She cited her two-month pregnancy as a reason for her plea. Khan's lawyer denied the charges. Police are actively searching for her. Th…
+
+
+### OTHER on 2026-04-18 12:20
+- Location: The Punch
+- Description: The Benue Police Command and JAMB clarify that recent Benue kidnap victims were not UTME candidates, correcting widespread misinformation about the inciden
+
+Read More: https://punchng.com/benue-kidnap-victims-not-utme-candidates-police-jamb-clarify/
+
+
+### SHOOTING on 2026-04-18 12:06
+- Location: The Punch
+- Description: Ogun State police recover a stolen Toyota Matrix after an armed robbery in Atan Ota. Two car dealers were arrested in connection with the crime.
+
+Read More: https://punchng.com/police-recover-stolen-car-arrest-two-in-ogun/
+
+Analysis generated at: Sun Apr 19 12:48:50 UTC 2026
