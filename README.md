@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Apr 19 02:06:00 UTC 2026
+Last updated: Sun Apr 19 03:25:31 UTC 2026
 
 ## Latest Analysis
 
-Loaded 99613 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-18 02:00:06
+Loaded 99619 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-18 03:12:12
 
 Incidents by source:
 source
-newsapi           99512
+newsapi           99518
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-04-18 02:00
+### HOMICIDE on 2026-04-18 03:12
+- Location: Slashdot.org
+- Description: D4vd arrested: Celeste Rivas Hernandez's family to give statement after singer's arrestABC7 Los Angeles D4vd Arrested in Connection With Death of Celeste Rivas HernandezThe New York Times D4vd update: New video shows singer's arrest in connection with murder …
+
+
+### HOMICIDE on 2026-04-18 02:54
+- Location: New York Post
+- Description: A mysterious skywriting message reading “Celeste is a liar” appeared over the Coachella area shortly after singer D4vdwas arrested in connection with the killing of 14-year-old Celeste Rivas Hernandez. It is not known who arranged the aerial display, and auth…
+
+
+### HOMICIDE on 2026-04-18 02:45
+- Location: New York Post
+- Description: The unsettling videos, released Friday, show the chilling moment Officer Carlos Baker fired the deadly shot at Officer Krystal Rivera last year inside an apartment building before running away as she lay unconscious and bleeding on the floor.
+
+
+### OTHER on 2026-04-18 02:21
 - Location: Freerepublic.com
-- Description: Arizona’s Family has learned new information about the life an Arizona woman had after she allegedly killed her baby 45 years ago in North Dakota. Investigators said Nancy Trottier, 65, lived a life of serving the disabled following the alleged crime. She had…
+- Description: A payment dispute between a San Pablo, California resident and a local dumpster rental company ended with a load of debris being dumped back onto the customer's property, an incident caught on a neighbor's surveillance camera and now circulating widely online…
 
 
-### OTHER on 2026-04-18 02:00
-- Location: ABC News (AU)
-- Description: Two men have told Foreign Correspondent how they were unwittingly drawn into Fiji's largest-ever meth importation.
+### SHOOTING on 2026-04-18 02:20
+- Location: The Times of India
+- Description: Left-leaning Americans are increasingly purchasing firearms due to fears of government overreach under the Trump administration.  This trend is upending traditional gun ownership demographics, with individuals citing concerns about federal agents and societal…
 
-
-### OTHER on 2026-04-18 01:57
-- Location: Fox News
-- Description: International fugitive Daniel Kinahan, alleged leader of Ireland's Kinahan cartel, was arrested in Dubai this week on organized crime charges.
-
-
-### ROBBERY/THEFT on 2026-04-18 01:50
-- Location: Livemint
-- Description: TCS has clarified that Nida Khan is not an HR manager, constituted a Keki Mistry-led oversight panel and engaged Deloitte and Trilegal for its internal probe into the Nashik unit case, even as police search for an absconding accused in Thane.
-
-
-### OTHER on 2026-04-18 01:30
-- Location: soompi
-- Description: Now that “The Practical Guide to Love” has finally come to an end, it’s only natural to feel a little empty without your weekly dose of Han Ji Min, Park Sung Hoon, and Lee Ki Taek. If you’re still missing the cast and not quite ready to move on, don’t worry, …
-
-Analysis generated at: Sun Apr 19 02:06:00 UTC 2026
+Analysis generated at: Sun Apr 19 03:25:31 UTC 2026
