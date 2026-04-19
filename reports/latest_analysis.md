@@ -1,10 +1,10 @@
 
-Loaded 99600 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-17 18:38:09
+Loaded 99613 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-18 02:00:06
 
 Incidents by source:
 source
-newsapi           99499
+newsapi           99512
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-04-17 18:38
-- Location: The Daily Caller
-- Description: Louisiana police arrested a 13-year-old boy after he allegedly shot his father Tuesday morning in the car drop-off line close to a school.
+### HOMICIDE on 2026-04-18 02:00
+- Location: Freerepublic.com
+- Description: Arizona’s Family has learned new information about the life an Arizona woman had after she allegedly killed her baby 45 years ago in North Dakota. Investigators said Nancy Trottier, 65, lived a life of serving the disabled following the alleged crime. She had…
 
 
-### OTHER on 2026-04-17 18:36
-- Location: Us Weekly
-- Description: An article written by Ruby Rose has resurfaced and sheds some light on one of her nights out with Katy Perry. “I spectacularly lost dignity (and keys) one night not too long ago. Remember when Katy Perry and I crashed the year 12 formal? I don’t,” Rose, 40, w…
+### OTHER on 2026-04-18 02:00
+- Location: ABC News (AU)
+- Description: Two men have told Foreign Correspondent how they were unwittingly drawn into Fiji's largest-ever meth importation.
 
 
-### OTHER on 2026-04-17 18:35
-- Location: The Times of India
-- Description: Panaji: The crime branch of the Goa police on Friday conducted two raids in connection with alleged cricket betting, arrested 10 persons and also seiz.
+### OTHER on 2026-04-18 01:57
+- Location: Fox News
+- Description: International fugitive Daniel Kinahan, alleged leader of Ireland's Kinahan cartel, was arrested in Dubai this week on organized crime charges.
 
 
-### HOMICIDE on 2026-04-17 18:30
-- Location: Foreign Policy
-- Description: Patrick Radden Keefe’s “London Falling” is a mystery that turns into a tragedy.
+### ROBBERY/THEFT on 2026-04-18 01:50
+- Location: Livemint
+- Description: TCS has clarified that Nida Khan is not an HR manager, constituted a Keki Mistry-led oversight panel and engaged Deloitte and Trilegal for its internal probe into the Nashik unit case, even as police search for an absconding accused in Thane.
 
 
-### OTHER on 2026-04-17 18:29
-- Location: Wnd.com
-- Description: 'Selective morality reflects the left’s secular transmogrification' lesson to do better
+### OTHER on 2026-04-18 01:30
+- Location: soompi
+- Description: Now that “The Practical Guide to Love” has finally come to an end, it’s only natural to feel a little empty without your weekly dose of Han Ji Min, Park Sung Hoon, and Lee Ki Taek. If you’re still missing the cast and not quite ready to move on, don’t worry, …
 
-Analysis generated at: Sat Apr 18 18:40:15 UTC 2026
+Analysis generated at: Sun Apr 19 02:06:00 UTC 2026
