@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Apr 19 13:13:00 UTC 2026
+Last updated: Sun Apr 19 18:40:43 UTC 2026
 
 ## Latest Analysis
 
-Loaded 99664 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-18 13:06:36
+Loaded 99709 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-18 18:37:14
 
 Incidents by source:
 source
-newsapi           99563
+newsapi           99608
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,31 +24,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-04-18 13:06
-- Location: The Punch
-- Description: The Rivers State Police Command has arrested three high-profile kidnappers who lured victims via social media, leading to the rescue of two hostages.
-
-Read More: https://punchng.com/police-arrest-three-kidnappers-rescue-two-victims-in-rivers/
-
-
-### ASSAULT on 2026-04-18 13:00
-- Location: Salon
-- Description: Trump’s attack on the pontiff shows how little daylight exists on the issue between Democrats and Republicans
-
-
-### OTHER on 2026-04-18 13:00
+### OTHER on 2026-04-18 18:37
 - Location: Fox News
-- Description: Justice Kagan allegedly yelled at Justice Breyer so loudly the "wall was shaking" during the 2022 Dobbs leak crisis, a new book by Hemingway says.
+- Description: Jarrelle Augustine is accused of buying Lego sets from Target, removing valuable pieces, and returning boxes stuffed with pasta, Irvine police say.
 
 
-### OTHER on 2026-04-18 13:00
-- Location: New York Post
-- Description: Former Rep. Eric Swalwell is not the only member of Congress drawing attention for his activities off the House floor.
+### HOMICIDE on 2026-04-18 18:32
+- Location: Slashdot.org
+- Description: At least 5 killed by gunman in Kyiv shootingpolitico.eu At least six killed in Kyiv as gunman opens fire and takes hostagesBBC Ukraine police shoot dead gunman who killed six in Kyiv, took hostagesAl Jazeera At least six dead after shooting and hostage-taking…
 
 
-### HOMICIDE on 2026-04-18 13:00
-- Location: Daily Signal
-- Description: New York is so committed to nullifying immigration law that it refuses to relinquish an alleged arsonist accused of killing four people in New York... Read More
-The post New York Refuses ICE Detainer for Illegal Alien Accused of Killing 4 in Arson appeared fi…
+### HOMICIDE on 2026-04-18 18:21
+- Location: TheJournal.ie
+- Description: Ukrainian President Volodymyr Zelenskyy said that at least 10 people were hospitalised with wounds and trauma after the shooting.
 
-Analysis generated at: Sun Apr 19 13:13:00 UTC 2026
+
+### HOMICIDE on 2026-04-18 18:02
+- Location: Al Jazeera English
+- Description: The attacker has been identified as a "58-year-old Moscow man", but no motive has been established.
+
+
+### SHOOTING on 2026-04-18 17:53
+- Location: The Punch
+- Description: Ogun State police arrest a 43-year-old man, Idowu Ashafa, found in possession of a fresh human head and palms, allegedly exhumed for ritual purposes.
+
+Read More: https://punchng.com/police-arrest-man-with-human-head-palms-in-ogun/
+
+Analysis generated at: Sun Apr 19 18:40:43 UTC 2026
