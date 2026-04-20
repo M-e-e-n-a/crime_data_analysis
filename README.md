@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Apr 20 02:06:53 UTC 2026
+Last updated: Mon Apr 20 03:27:44 UTC 2026
 
 ## Latest Analysis
 
-Loaded 99717 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-19 02:00:31
+Loaded 99721 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-19 03:00:00
 
 Incidents by source:
 source
-newsapi           99616
+newsapi           99620
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ bution.svg)
 
 ## Recent Incidents
 
+### OTHER on 2026-04-19 03:00
+- Location: CBS News
+- Description: After Jade Colvin, a missing Iowa teenager, is tracked to a remote farm, photos discovered on an old cellphone reveal important clues.
+
+
+### ROBBERY/THEFT on 2026-04-19 02:49
+- Location: ABC News (AU)
+- Description: War veteran Ben Roberts-Smith issues his first statement since his release on bail from a Sydney jail.
+
+
+### SHOOTING on 2026-04-19 02:32
+- Location: New York Post
+- Description: The now-viral clip shows the principal high-fiving cheering students while walking through the overjoyed crowd after the DJ declared him “our king” and blasted Nickelback's “Hero.”
+
+
+### HOMICIDE on 2026-04-19 02:10
+- Location: New York Post
+- Description: A Florida man is on the run from the law after his attempt to save a woman from a dog attack went haywire.
+
+
 ### OTHER on 2026-04-19 02:00
 - Location: Screen Rant
 - Description: Beyond Squid Game, 2021 saw an emerging dominant presence in thriller television from South Korea with this show among its best works on the service.
 
-
-### HOMICIDE on 2026-04-19 01:37
-- Location: ABC News (AU)
-- Description: A man has been refused bail in court after being charged with an alleged domestic violence murder at Windale. Meanwhile, police are calling for public help after a man was stabbed at Argenton.
-
-
-### HOMICIDE on 2026-04-19 01:23
-- Location: ABC News (AU)
-- Description: At least six people have been killed and 14 are injured after a gunman opened fire in the streets of Kyiv.
-
-
-### ROBBERY/THEFT on 2026-04-19 01:06
-- Location: DW (English)
-- Description: Police made the grim discovery at a cemetery in Cumuto on the island of Trinidad. Initial probes suggest it was a case of "unlawful disposal of unclaimed corpses." Police in Trinidad and Tobago discovered the remains of at least 50 babies and six adults at a …
-
-
-### SHOOTING on 2026-04-19 00:37
-- Location: NBC News
-- Description: Body camera footage of a Chicago police officer fatally shooting his partner last year was released Friday by a civilian oversight commission
-
-Analysis generated at: Mon Apr 20 02:06:53 UTC 2026
+Analysis generated at: Mon Apr 20 03:27:44 UTC 2026
