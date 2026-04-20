@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Apr 20 13:54:22 UTC 2026
+Last updated: Mon Apr 20 18:58:05 UTC 2026
 
 ## Latest Analysis
 
-Loaded 99768 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-19 13:05:39
+Loaded 99857 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-19 18:52:41
 
 Incidents by source:
 source
-newsapi           99667
+newsapi           99756
 chicago_pd          100
 chicago_police        1
 Name: count, dtype: int64
@@ -24,29 +24,30 @@ bution.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-04-19 13:05
-- Location: fox6now.com
-- Description: A Milwaukee man, who prosecutors said fired shots from a vacant building before engaging in a standoff with police, has been sentenced to probation.
-
-
-### OTHER on 2026-04-19 13:05
-- Location: PC Gamer
-- Description: A hop, skip and a jump away from greatness?
-
-
-### SHOOTING on 2026-04-19 13:00
-- Location: CBC News
-- Description: Hunting Matthew Nichols is a fictional story, shot in the style of a documentary, that leans on the true crime genre, with a splash of horror.
-
-
-### HOMICIDE on 2026-04-19 12:52
+### HOMICIDE on 2026-04-19 18:52
 - Location: Slashdot.org
-- Description: ‘Beloved daughter, sister, cousin, friend’: will D4vd’s arrest for murder bring justice for Celeste Rivas Hernandez?The Guardian Singer known for song ‘Romantic Homicide’ arrested after teen girl’s remains found in his carNJ.com Details on investigation leadi…
+- Description: Mass shooting rampage in Louisiana leaves eight children dead and others woundedThe Guardian 8 Children Killed in Louisiana Domestic Violence Shooting, Police SayThe New York Times The Latest: 8 children dead after a mass shooting in Louisiana, police sayThe …
 
 
-### ROBBERY/THEFT on 2026-04-19 12:50
-- Location: Gossiplankanews.com
-- Description: Police have arrested a main suspect in connection with the theft of gold jewelry belonging to three women who were traveling on a passenger bus from Anuradhapura to Colombo.
-<!--gossip-below-article-Rs--> (adsbygoogle = window.adsbygoogle || []).push({});Pol…
+### SHOOTING on 2026-04-19 18:52
+- Location: Slashdot.org
+- Description: 3 students, 2 others shot near the University of Iowa, authorities sayPolitico Three students among five wounded in shooting at Iowa City Ped MallKCRG See what Gov. Reynolds, others are saying about Iowa City shootingKCCI Officials: 5 injured, including 3 Uni…
 
-Analysis generated at: Mon Apr 20 13:54:22 UTC 2026
+
+### HOMICIDE on 2026-04-19 18:50
+- Location: CBC News
+- Description: A gunman in Louisiana killed eight children in domestic-related shootings at two different homes early Sunday, police in Shreveport said.
+
+
+### HOMICIDE on 2026-04-19 18:45
+- Location: Wnd.com
+- Description: 'It's a terrible morning, and we all mourn for the victims'
+
+
+### OTHER on 2026-04-19 18:38
+- Location: The Punch
+- Description: Police in Nasarawa have arrested Pastor Asonye Isaiah for allegedly defiling a 16-year-old girl under the pretense of performing spiritual cleansing.
+
+Read More: https://punchng.com/police-arrest-pastor-for-defiling-minor-in-nasarawa/
+
+Analysis generated at: Mon Apr 20 18:58:04 UTC 2026
