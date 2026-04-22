@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Apr 22 07:25:13 UTC 2026
+Last updated: Wed Apr 22 13:15:08 UTC 2026
 
 ## Latest Analysis
 
-Loaded 100130 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-21 07:12:47
+Loaded 100205 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-21 13:12:05
 
 Incidents by source:
 source
-newsapi           100029
+newsapi           100104
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-04-21 07:12
-- Location: TheJournal.ie
-- Description: Six people were wounded by gunfire and taken to local hospitals, including a Canadian woman, a Colombian woman and child, a Brazilian and two Americans.
+### HOMICIDE on 2026-04-21 13:12
+- Location: New York Post
+- Description: “I went and heard his voice, and then opened the door ... and he was standing there,” Elkins's former commander said.
 
 
-### ROBBERY/THEFT on 2026-04-21 06:59
-- Location: Cointelegraph
-- Description: A fake police raid enabled a $1 million Bitcoin robbery, exposing the rise of wrench attacks and the shift from digital hacks to physical crypto threats.
+### OTHER on 2026-04-21 13:10
+- Location: Dailymail.com
+- Description: Emergency services were called to an intersection north of Brisbane after a child was hit by a car.
 
 
-### HOMICIDE on 2026-04-21 06:49
-- Location: ABC News (AU)
-- Description: The attorney-general says 486 suspected MS-13 members have faced trial for 47,000 crimes committed between 2012 and 2022.
+### OTHER on 2026-04-21 13:05
+- Location: Rolling Stone
+- Description: The rapper says his new album’s release date is hidden inside a giant frozen structure in downtown Toronto.
 
 
-### OTHER on 2026-04-21 06:49
-- Location: Angryasianman.com
-- Description: And Other Items of Note From Angry Asian America.
+### OTHER on 2026-04-21 13:04
+- Location: Billboard
+- Description: South Korean Police are seeking an arrest warrant for HYBE Chairman Bang Si-hyuk over IPO allegations
 
 
-### SHOOTING on 2026-04-21 06:35
-- Location: ABC News (AU)
-- Description: Property owner considers legal action after people enter the Upper Murray property where Dezi Freeman was shot.
+### HOMICIDE on 2026-04-21 13:00
+- Location: Fox News
+- Description: An Oklahoma deputy was killed and a police chief wounded after a suspect allegedly opened fire on officers responding to a welfare check in Wister, OSBI says.
 
-Analysis generated at: Wed Apr 22 07:25:13 UTC 2026
+Analysis generated at: Wed Apr 22 13:15:08 UTC 2026
