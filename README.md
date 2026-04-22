@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Apr 22 13:55:11 UTC 2026
+Last updated: Wed Apr 22 19:05:57 UTC 2026
 
 ## Latest Analysis
 
-Loaded 100217 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-21 13:53:00
+Loaded 100293 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-21 19:02:36
 
 Incidents by source:
 source
-newsapi           100116
+newsapi           100192
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2026-04-21 13:53
-- Location: Onefootball.com
-- Description: The Milan prosecutor’s office has opened an investigation into an agency suspected of organizing luxury parties fueled by prostitution and the use of nitrous oxide (known as “laughing gas,” used...
+### OTHER on 2026-04-21 19:02
+- Location: Reason
+- Description: Despite not mentioning abortion in his sermon, Clive Johnston is being charged for trying to "influence" people not to go through with the procedure.
 
 
-### OTHER on 2026-04-21 13:47
-- Location: Screen Rant
-- Description: EXCLUSIVE: Maggie Lawson discusses the possibility of returning for Psych season 9, sharing her hopes for the fan-favorite Juliet O'Hara.
-
-
-### OTHER on 2026-04-21 13:43
-- Location: Www.gov.uk
-- Description: A summary of the Statutory Documents.
-
-
-### OTHER on 2026-04-21 13:42
-- Location: Fox News
-- Description: Sen. Chris Murphy is under fire after posting "Awesome" on X about a report of Iranian ships passing the U.S. blockade in the Gulf of Oman area.
-
-
-### HOMICIDE on 2026-04-21 13:40
+### OTHER on 2026-04-21 18:55
 - Location: Dailymail.com
-- Description: The families of four girls who were killed in a crash while their 16-year-old learner driver friend was behind the wheel have broken their silence a year after the April 2025 tragedy.
+- Description: Melissa Grant, 56, was formerly part of a shoplifting gang dubbed 'The Spice Girls' who raided exclusive shops in London's West End, nabbing huge quantities of lavish clothes and lingerie.
 
-Analysis generated at: Wed Apr 22 13:55:11 UTC 2026
+
+### HOMICIDE on 2026-04-21 18:55
+- Location: The Times of India
+- Description: Pratapgarh and Maharashtra police arrested wanted criminal Akash Gupta in Prayagraj for an Apr 19 Nalasopara East murder; handed to Maharashtra cops.
+
+
+### ASSAULT on 2026-04-21 18:54
+- Location: ABC News (AU)
+- Description: As Australia marks Sexual Assault Awareness Month, and experts and victim-survivors say sexual violence remains pervasive and under-reported.
+
+
+### HOMICIDE on 2026-04-21 18:53
+- Location: Slate Magazine
+- Description: Roy Scott was a 65-year-old Black man who called the police for medical help. He was soon killed.
+
+Analysis generated at: Wed Apr 22 19:05:57 UTC 2026
