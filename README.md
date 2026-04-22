@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Apr 22 13:15:08 UTC 2026
+Last updated: Wed Apr 22 13:55:11 UTC 2026
 
 ## Latest Analysis
 
-Loaded 100205 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-21 13:12:05
+Loaded 100217 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-21 13:53:00
 
 Incidents by source:
 source
-newsapi           100104
+newsapi           100116
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-04-21 13:12
-- Location: New York Post
-- Description: “I went and heard his voice, and then opened the door ... and he was standing there,” Elkins's former commander said.
+### ROBBERY/THEFT on 2026-04-21 13:53
+- Location: Onefootball.com
+- Description: The Milan prosecutor’s office has opened an investigation into an agency suspected of organizing luxury parties fueled by prostitution and the use of nitrous oxide (known as “laughing gas,” used...
 
 
-### OTHER on 2026-04-21 13:10
-- Location: Dailymail.com
-- Description: Emergency services were called to an intersection north of Brisbane after a child was hit by a car.
+### OTHER on 2026-04-21 13:47
+- Location: Screen Rant
+- Description: EXCLUSIVE: Maggie Lawson discusses the possibility of returning for Psych season 9, sharing her hopes for the fan-favorite Juliet O'Hara.
 
 
-### OTHER on 2026-04-21 13:05
-- Location: Rolling Stone
-- Description: The rapper says his new album’s release date is hidden inside a giant frozen structure in downtown Toronto.
+### OTHER on 2026-04-21 13:43
+- Location: Www.gov.uk
+- Description: A summary of the Statutory Documents.
 
 
-### OTHER on 2026-04-21 13:04
-- Location: Billboard
-- Description: South Korean Police are seeking an arrest warrant for HYBE Chairman Bang Si-hyuk over IPO allegations
-
-
-### HOMICIDE on 2026-04-21 13:00
+### OTHER on 2026-04-21 13:42
 - Location: Fox News
-- Description: An Oklahoma deputy was killed and a police chief wounded after a suspect allegedly opened fire on officers responding to a welfare check in Wister, OSBI says.
+- Description: Sen. Chris Murphy is under fire after posting "Awesome" on X about a report of Iranian ships passing the U.S. blockade in the Gulf of Oman area.
 
-Analysis generated at: Wed Apr 22 13:15:08 UTC 2026
+
+### HOMICIDE on 2026-04-21 13:40
+- Location: Dailymail.com
+- Description: The families of four girls who were killed in a crash while their 16-year-old learner driver friend was behind the wheel have broken their silence a year after the April 2025 tragedy.
+
+Analysis generated at: Wed Apr 22 13:55:11 UTC 2026
