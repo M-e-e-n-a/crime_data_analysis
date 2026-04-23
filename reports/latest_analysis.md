@@ -1,10 +1,10 @@
 
-Loaded 100324 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-22 03:17:14
+Loaded 100355 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-22 07:26:13
 
 Incidents by source:
 source
-newsapi           100223
+newsapi           100254
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-04-22 03:17
-- Location: Dailymail.com
-- Description: Remarkable developments are underway in the investigation into whether one man was responsible for both the Black Dahlia murder and the Zodiac killings - a theory linking two infamous crimes.
+### ROBBERY/THEFT on 2026-04-22 07:26
+- Location: The Irish Times
+- Description: Charges include theft and drug offences
 
 
-### HOMICIDE on 2026-04-22 02:57
-- Location: Disabilityscoop.com
-- Description: After police fatally shot a 25-year-old with autism who called 911 for help, advocates say an inconsistent, underfunded response to wellness calls will continue to drive up deaths, unless there's reform.
+### HOMICIDE on 2026-04-22 07:08
+- Location: Abcnews.com
+- Description: A teenager charged with killing his stepsister on a Carnival Cruise ship has filed a not-guilty plea and waived his appearance at a hearing in Miami federal court
 
 
-### OTHER on 2026-04-22 02:30
-- Location: Gossiplankanews.com
-- Description: A person who defrauded ten lakhs of rupees using a fake website designed to closely resemble the official website of a leading private bank in the island has been arrested by the Wayamba Provincial Computer Crime Investigation Unit.
-<!--gossip-below-article-…
+### HOMICIDE on 2026-04-22 07:06
+- Location: Abcnews.com
+- Description: The owner of the gun that was used by a gunman to kill eight children in Louisiana on Sunday says the firearm was stolen from his truck, according to court documents
 
 
-### OTHER on 2026-04-22 02:25
-- Location: Den of Geek US
-- Description: This article contains spoilers for Daredevil: Born Again season two, episode six. Every Daredevil story has the same fundamental moral. It doesn’t matter if we’re talking Charlie Cox or Ben Affleck, a goofy Silver Age story or a gritty Frank Miller tale. The …
+### OTHER on 2026-04-22 07:06
+- Location: BusinessLine
+- Description: Election Commission seizes ₹1,262 crore in Tamil Nadu ahead of polls, enhancing security and monitoring for fair elections.
 
 
-### ROBBERY/THEFT on 2026-04-22 02:18
-- Location: Israelnationalnews.com
-- Description: Hertfordshire Police are treating a fire at a Jewish-owned shop in Watford as a religiously aggravated hate crime. A door was set alight and graffiti was left on the building.
+### SHOOTING on 2026-04-22 07:06
+- Location: New York Post
+- Description: Mexico’s government said it was beefing up security at tourist sites after a man opened fire on tourists at pyramids outside of Mexico City less than two months before the FIFA World Cup.
 
-Analysis generated at: Thu Apr 23 03:21:32 UTC 2026
+Analysis generated at: Thu Apr 23 07:28:42 UTC 2026
