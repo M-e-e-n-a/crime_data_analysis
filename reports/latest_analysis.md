@@ -1,10 +1,10 @@
 
-Loaded 100293 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-21 19:02:36
+Loaded 100318 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-22 01:58:05
 
 Incidents by source:
 source
-newsapi           100192
+newsapi           100217
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-04-21 19:02
-- Location: Reason
-- Description: Despite not mentioning abortion in his sermon, Clive Johnston is being charged for trying to "influence" people not to go through with the procedure.
-
-
-### OTHER on 2026-04-21 18:55
-- Location: Dailymail.com
-- Description: Melissa Grant, 56, was formerly part of a shoplifting gang dubbed 'The Spice Girls' who raided exclusive shops in London's West End, nabbing huge quantities of lavish clothes and lingerie.
-
-
-### HOMICIDE on 2026-04-21 18:55
-- Location: The Times of India
-- Description: Pratapgarh and Maharashtra police arrested wanted criminal Akash Gupta in Prayagraj for an Apr 19 Nalasopara East murder; handed to Maharashtra cops.
-
-
-### ASSAULT on 2026-04-21 18:54
+### ASSAULT on 2026-04-22 01:58
 - Location: ABC News (AU)
-- Description: As Australia marks Sexual Assault Awareness Month, and experts and victim-survivors say sexual violence remains pervasive and under-reported.
+- Description: A statement from ACT Policing said they had linked the same individual through DNA analysis to the assault of a woman last month and to an incident involving a child earlier in the year.
 
 
-### HOMICIDE on 2026-04-21 18:53
-- Location: Slate Magazine
-- Description: Roy Scott was a 65-year-old Black man who called the police for medical help. He was soon killed.
+### OTHER on 2026-04-22 01:50
+- Location: CBM (Comic Book Movie)
+- Description: In tonight's episode of Daredevil: Born Again, the Man Without Fear finally comes to blows with the Kingpin of Crime, and the conclusion of their clash finds Matt Murdock faced with an impossible decision.
 
-Analysis generated at: Wed Apr 22 19:05:57 UTC 2026
+
+### ROBBERY/THEFT on 2026-04-22 01:50
+- Location: Gossiplankanews.com
+- Description: Four employees, including the manager of a well-known ready-made clothing store located in the Pettah area of Colombo, have been arrested by the police in connection with an incident involving the theft of cash and a stock of clothes worth approximately sixty…
+
+
+### OTHER on 2026-04-22 01:46
+- Location: Twistedsifter.com
+- Description: What's the point of having loss prevention if they can't prevent loss?
+
+
+### OTHER on 2026-04-22 01:40
+- Location: Fox News
+- Description: DHS recognizes National Crime Victims Week by spotlighting crimes allegedly committed by illegal immigrants and resources for angel families.
+
+Analysis generated at: Thu Apr 23 02:05:11 UTC 2026
