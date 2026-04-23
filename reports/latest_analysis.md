@@ -1,10 +1,10 @@
 
-Loaded 100430 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-22 13:46:41
+Loaded 100506 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-22 19:01:11
 
 Incidents by source:
 source
-newsapi           100329
+newsapi           100405
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,36 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-04-22 13:46
-- Location: Dailymail.com
-- Description: Christopher Trybus was cleared of the manslaughter of troubled Tarryn Baird, 34, who was found hanging in the garage of the couple's five-bedroom house.
+### OTHER on 2026-04-22 19:01
+- Location: Advocate.com
+- Description: New York City Council Member Chi Ossé was arrested Wednesday during an anti-eviction protest in Brooklyn’s Bedford-Stuyvesant neighborhood.
 
 
-### OTHER on 2026-04-22 13:45
-- Location: Dailymail.com
-- Description: David Routt, CEO of Bridgewell Building Materials, forked out $845,000 for a condo at the Ritz-Carlton in February 2025 as a way to experience the often-divisive city firsthand.
+### HOMICIDE on 2026-04-22 19:00
+- Location: New York Post
+- Description: Celeste Rivas cause of death revealed after D4vd murder arrest, months after she was found in his trunk.
 
 
-### HOMICIDE on 2026-04-22 13:44
-- Location: CBC News
-- Description: Ontario Provincial Police have charged a fourth person in connection with the killing of Robbie Thomson, who went missing from the Smiths Falls area in 2023.
+### OTHER on 2026-04-22 18:58
+- Location: Crypto Briefing
+- Description: FCA raids eight London sites in first crackdown on illegal peer to peer crypto trading as UK enforcement pressure rises.
+The post UK watchdog leads first crackdown on illegal crypto trading in London appeared first on Crypto Briefing.
 
 
-### OTHER on 2026-04-22 13:44
-- Location: USA Today
-- Description: It's NFL draft bust season. Will 2026 have any legendary misses?
+### ROBBERY/THEFT on 2026-04-22 18:58
+- Location: Deadline
+- Description: SEO
+Edit ( Apr 21, 2026 )
+SEO Title (70 character max)
+'Cop Land' Series From James Mangold & Robert Levine In Works
 
 
-### ROBBERY/THEFT on 2026-04-22 13:39
-- Location: Fox News
-- Description: Pima County Sheriff Nanos' attorney admits he was suspended at El Paso PD but says he misunderstood a sworn deposition question about his record.
+The text entered here will alter the <title> tag using the wp_title() function. Use %title% to include the original title or leave empty to …
 
-Analysis generated at: Thu Apr 23 13:57:41 UTC 2026
+
+### OTHER on 2026-04-22 18:52
+- Location: Breitbart News
+- Description: Police found a one-year-old baby girl who was apparently abandoned in Times Square on Tuesday night.
+The post Police Say 1-Year Old Baby in Stroller Found Abandoned in Times Square appeared first on Breitbart.
+
+Analysis generated at: Thu Apr 23 19:01:56 UTC 2026
