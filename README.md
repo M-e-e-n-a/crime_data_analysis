@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Apr 23 02:05:11 UTC 2026
+Last updated: Thu Apr 23 03:21:32 UTC 2026
 
 ## Latest Analysis
 
-Loaded 100318 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-22 01:58:05
+Loaded 100324 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-22 03:17:14
 
 Incidents by source:
 source
-newsapi           100217
+newsapi           100223
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2026-04-22 01:58
-- Location: ABC News (AU)
-- Description: A statement from ACT Policing said they had linked the same individual through DNA analysis to the assault of a woman last month and to an incident involving a child earlier in the year.
+### HOMICIDE on 2026-04-22 03:17
+- Location: Dailymail.com
+- Description: Remarkable developments are underway in the investigation into whether one man was responsible for both the Black Dahlia murder and the Zodiac killings - a theory linking two infamous crimes.
 
 
-### OTHER on 2026-04-22 01:50
-- Location: CBM (Comic Book Movie)
-- Description: In tonight's episode of Daredevil: Born Again, the Man Without Fear finally comes to blows with the Kingpin of Crime, and the conclusion of their clash finds Matt Murdock faced with an impossible decision.
+### HOMICIDE on 2026-04-22 02:57
+- Location: Disabilityscoop.com
+- Description: After police fatally shot a 25-year-old with autism who called 911 for help, advocates say an inconsistent, underfunded response to wellness calls will continue to drive up deaths, unless there's reform.
 
 
-### ROBBERY/THEFT on 2026-04-22 01:50
+### OTHER on 2026-04-22 02:30
 - Location: Gossiplankanews.com
-- Description: Four employees, including the manager of a well-known ready-made clothing store located in the Pettah area of Colombo, have been arrested by the police in connection with an incident involving the theft of cash and a stock of clothes worth approximately sixty…
+- Description: A person who defrauded ten lakhs of rupees using a fake website designed to closely resemble the official website of a leading private bank in the island has been arrested by the Wayamba Provincial Computer Crime Investigation Unit.
+<!--gossip-below-article-…
 
 
-### OTHER on 2026-04-22 01:46
-- Location: Twistedsifter.com
-- Description: What's the point of having loss prevention if they can't prevent loss?
+### OTHER on 2026-04-22 02:25
+- Location: Den of Geek US
+- Description: This article contains spoilers for Daredevil: Born Again season two, episode six. Every Daredevil story has the same fundamental moral. It doesn’t matter if we’re talking Charlie Cox or Ben Affleck, a goofy Silver Age story or a gritty Frank Miller tale. The …
 
 
-### OTHER on 2026-04-22 01:40
-- Location: Fox News
-- Description: DHS recognizes National Crime Victims Week by spotlighting crimes allegedly committed by illegal immigrants and resources for angel families.
+### ROBBERY/THEFT on 2026-04-22 02:18
+- Location: Israelnationalnews.com
+- Description: Hertfordshire Police are treating a fire at a Jewish-owned shop in Watford as a religiously aggravated hate crime. A door was set alight and graffiti was left on the building.
 
-Analysis generated at: Thu Apr 23 02:05:11 UTC 2026
+Analysis generated at: Thu Apr 23 03:21:32 UTC 2026
