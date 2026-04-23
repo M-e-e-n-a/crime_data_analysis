@@ -1,10 +1,10 @@
 
-Loaded 100355 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-22 07:26:13
+Loaded 100418 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-22 13:00:43
 
 Incidents by source:
 source
-newsapi           100254
+newsapi           100317
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2026-04-22 07:26
-- Location: The Irish Times
-- Description: Charges include theft and drug offences
+### OTHER on 2026-04-22 13:00
+- Location: Fox News
+- Description: Tucson police and Pima County deputies launched a coordinated crackdown on illegal street racing, arresting over two dozen and seizing tricked-out cars.
 
 
-### HOMICIDE on 2026-04-22 07:08
-- Location: Abcnews.com
-- Description: A teenager charged with killing his stepsister on a Carnival Cruise ship has filed a not-guilty plea and waived his appearance at a hearing in Miami federal court
+### HOMICIDE on 2026-04-22 12:44
+- Location: Newser
+- Description: The FBI says it is now leading the effort to investigate a cluster of deaths and disappearances involving scientists with ties to US nuclear and aerospace work. The bureau says it is working with the departments of Energy and Defense and local and state polic…
 
 
-### HOMICIDE on 2026-04-22 07:06
-- Location: Abcnews.com
-- Description: The owner of the gun that was used by a gunman to kill eight children in Louisiana on Sunday says the firearm was stolen from his truck, according to court documents
+### SHOOTING on 2026-04-22 12:36
+- Location: TODAY
+- Description: Who is Michael Barisone? What did he do to his student Lauren Kanarek? The true story of the Shooting at Hawthorne Hill.
 
 
-### OTHER on 2026-04-22 07:06
-- Location: BusinessLine
-- Description: Election Commission seizes ₹1,262 crore in Tamil Nadu ahead of polls, enhancing security and monitoring for fair elections.
+### HOMICIDE on 2026-04-22 12:31
+- Location: Fox News
+- Description: Chadwick Willacy maintained his innocence before Florida executed him for the first-degree murder of elderly neighbor Marlys Sather, set on fire in 1990.
 
 
-### SHOOTING on 2026-04-22 07:06
-- Location: New York Post
-- Description: Mexico’s government said it was beefing up security at tourist sites after a man opened fire on tourists at pyramids outside of Mexico City less than two months before the FIFA World Cup.
+### HOMICIDE on 2026-04-22 12:19
+- Location: CBS News
+- Description: The assault-style rifle used to kill eight children in a Louisiana mass shooting was stolen from a truck, the gun's previous owner said.
 
-Analysis generated at: Thu Apr 23 07:28:42 UTC 2026
+Analysis generated at: Thu Apr 23 13:14:15 UTC 2026
