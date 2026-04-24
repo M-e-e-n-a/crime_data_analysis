@@ -1,10 +1,10 @@
 
-Loaded 100527 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-23 03:08:44
+Loaded 100557 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-23 07:36:51
 
 Incidents by source:
 source
-newsapi           100426
+newsapi           100456
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-04-23 03:08
-- Location: CBS News
-- Description: Memphis authorities say they are investigating the discovery of remains of three children, believed to be between 3 and 7 years of age, that could have been there for years.
-
-
-### HOMICIDE on 2026-04-23 03:07
+### OTHER on 2026-04-23 07:36
 - Location: ABC News (AU)
-- Description: Conspiring to commit murder, unlawful stalking and riot are among 12 new offences that juveniles can now be sentenced as adults for.
+- Description: Billionaire Judith Neilson's former secretary is accused of going on a $1.6m shopping spree using her employer's credit cards and bank information.
 
 
-### ROBBERY/THEFT on 2026-04-23 02:56
+### OTHER on 2026-04-23 07:30
+- Location: The Times of India
+- Description: West Bengal's assembly elections 2026: The TMC has accused police in Nandigram of favoring the BJP. Meanwhile, the Leader of the Opposition, Suvendu Adhikari, claims TMC-backed individuals are threatening voters. Both parties have lodged complaints. Polling i…
+
+
+### HOMICIDE on 2026-04-23 07:28
+- Location: TheJournal.ie
+- Description: D4vd, whose legal name is David Burke, has been charged with first-degree murder, lewd and lascivious acts with a person under 14 and mutilating a body.
+
+
+### HOMICIDE on 2026-04-23 07:03
+- Location: The Times of India
+- Description: The Supreme Court has put a hold on the Chhattisgarh High Court's decision sentencing Amit Jogi to life imprisonment. Jogi, son of former chief minister Ajit Jogi, was convicted in the 2003 murder of NCP leader Ramavatar Jaggi. The high court had recently ord…
+
+
+### HOMICIDE on 2026-04-23 07:00
 - Location: ABC News (AU)
-- Description: Stolen cars and accommodation break-ins have led to growing frustration in Western Australia's north.
+- Description: After their daughter and three grandchildren were murdered, Sue and Lloyd Clarke began a charity to improve awareness of coercive control. Now they've decided they need to step back for their own health.
 
-
-### HOMICIDE on 2026-04-23 02:55
-- Location: New York Post
-- Description: A senior nonprofit executive behind downtown Santa Monica’s business and placemaking efforts was found dead alongside his wife in what authorities are investigating as a murder-suicide inside their Venice residence, according to law enforcement sources. Jerem…
-
-
-### HOMICIDE on 2026-04-23 02:26
-- Location: CNA
-- Description: LOS ANGELES: The teenager who Los Angeles prosecutors allege was killed by musician D4vd and found inside the trunk of a car in Hollywood died from "multiple penetrating injuries" from objects, a medical exami
-
-Analysis generated at: Fri Apr 24 03:23:19 UTC 2026
+Analysis generated at: Fri Apr 24 07:54:15 UTC 2026
