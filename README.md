@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Apr 24 02:05:36 UTC 2026
+Last updated: Fri Apr 24 03:23:19 UTC 2026
 
 ## Latest Analysis
 
-Loaded 100521 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-23 02:00:03
+Loaded 100527 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-23 03:08:44
 
 Incidents by source:
 source
-newsapi           100420
+newsapi           100426
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,27 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-04-23 02:00
-- Location: BroBible
-- Description: A man has sparked internet discussion after claiming a Kansas City Target location is the “scariest” in America. But why? In a video with over 426,000 views, TikTok user @djhoneypot shows himself in his car outside of a Target location. “This is the scariest …
+### OTHER on 2026-04-23 03:08
+- Location: CBS News
+- Description: Memphis authorities say they are investigating the discovery of remains of three children, believed to be between 3 and 7 years of age, that could have been there for years.
 
 
-### OTHER on 2026-04-23 01:58
-- Location: Abcnews.com
-- Description: The girl was left in her stroller just before midnight and appeared to be unharmed, according to police.
+### HOMICIDE on 2026-04-23 03:07
+- Location: ABC News (AU)
+- Description: Conspiring to commit murder, unlawful stalking and riot are among 12 new offences that juveniles can now be sentenced as adults for.
 
 
-### HOMICIDE on 2026-04-23 01:40
-- Location: Fox News
-- Description: A Florida inmate smiled and laughed in court as a judge gave him a life sentence for killing his cellmate by stabbing him in the head with a pen.
+### ROBBERY/THEFT on 2026-04-23 02:56
+- Location: ABC News (AU)
+- Description: Stolen cars and accommodation break-ins have led to growing frustration in Western Australia's north.
 
 
-### OTHER on 2026-04-23 01:29
-- Location: Spoilertv.com
-
-
-### HOMICIDE on 2026-04-23 01:24
+### HOMICIDE on 2026-04-23 02:55
 - Location: New York Post
-- Description: Police are seeking a 17-year-old on attempted murder charges following a shooting early Sunday in a nightlife district near the University of Iowa campus, authorities said Wednesday.
+- Description: A senior nonprofit executive behind downtown Santa Monica’s business and placemaking efforts was found dead alongside his wife in what authorities are investigating as a murder-suicide inside their Venice residence, according to law enforcement sources. Jerem…
 
-Analysis generated at: Fri Apr 24 02:05:36 UTC 2026
+
+### HOMICIDE on 2026-04-23 02:26
+- Location: CNA
+- Description: LOS ANGELES: The teenager who Los Angeles prosecutors allege was killed by musician D4vd and found inside the trunk of a car in Hollywood died from "multiple penetrating injuries" from objects, a medical exami
+
+Analysis generated at: Fri Apr 24 03:23:19 UTC 2026
