@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Apr 24 13:48:22 UTC 2026
+Last updated: Fri Apr 24 18:42:32 UTC 2026
 
 ## Latest Analysis
 
-Loaded 100644 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-23 13:43:25
+Loaded 100725 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-23 18:41:05
 
 Incidents by source:
 source
-newsapi           100543
+newsapi           100624
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,31 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-04-23 13:43
-- Location: Protothema.gr
-- Description: The deceased by suicide had asked for the letter to be opened only after he had passed away – Authorities are investigating reports of a diary kept by the former partner of Eleftheria
-The post The letter left to his brother by the murderer of Eleftheria, his …
+### HOMICIDE on 2026-04-23 18:41
+- Location: Vanguard
+- Description: Addressing a maiden stakeholders’ meeting comprising traditional rulers, community leaders from different ethnic groups, and transport unions in the Idimu area of Lagos, on Thursday,  the CP said his visit was not ceremonial but driven by urgency over the ris…
 
 
-### OTHER on 2026-04-23 13:40
-- Location: The Punch
-- Description: Oyo State Police Command confirms the arrest of three suspected kidnappers linked to the abduction of a resident in Ido Local Government Area.
-
-Read More: https://punchng.com/police-arrest-three-kidnappers-in-oyo/
+### HOMICIDE on 2026-04-23 18:34
+- Location: Freerepublic.com
+- Description: A Las Vegas woman who mowed down a young father with her Tesla as he was crossing the street has begged his family for forgiveness in court. Karen Cannon, 64, left pedestrian Patrick Deloria for dead after she struck him with her Tesla Model Y on May 13 last …
 
 
-### HOMICIDE on 2026-04-23 13:39
+### OTHER on 2026-04-23 18:34
 - Location: CBC News
-- Description: The shooting death of a Calgary-born astrophysicist in mid-February in front of his Southern California residence sent shockwaves through his academic and professional circles.
+- Description: Winnipeg Mayor Scott Gillingham, who has long pushed for stricter bail conditions for repeat offenders, didn't hold back Wednesday when given the chance to address a Senate committee studying the issue.
 
 
-### HOMICIDE on 2026-04-23 13:39
-- Location: Zettawire.com
-- Description: Lebanon Health Ministry condemns the killing of a journalist by Israeli forces, stating the death shames human conscience.zettawire.com
+### HOMICIDE on 2026-04-23 18:33
+- Location: The Times of India
+- Description: Patna: A 24-year-old youth allegedly shot a woman before shooting himself over a strained love affair at Imadpur village under Bhagwanpur police stati.
 
 
-### OTHER on 2026-04-23 13:39
-- Location: First Showing
-- Description: "Some girls go all out looking for one last adventure." "I will put an end to this." Sony Pictures Classics has revealed the official US trailer for an indie mystery thriller titled Unidentified, ready for release in limited theaters this summer. Unidentified…
+### SHOOTING on 2026-04-23 18:32
+- Location: Slashdot.org
+- Description: Man arrested in Florida for allegedly plotting mass shooting at New Orleans festival, officials sayNOLA.com Former officer accused of plotting New Orleans festival mass shootingfox8live.com Former Chapel Hill, North Carolina police officer Christopher Gillum …
 
-Analysis generated at: Fri Apr 24 13:48:22 UTC 2026
+Analysis generated at: Fri Apr 24 18:42:32 UTC 2026
