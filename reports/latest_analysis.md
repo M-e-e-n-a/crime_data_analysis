@@ -1,10 +1,10 @@
 
-Loaded 100862 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-24 13:00:44
+Loaded 100936 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-24 18:20:27
 
 Incidents by source:
 source
-newsapi           100761
+newsapi           100835
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,31 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-04-24 13:00
-- Location: KQED
-- Description: The rule being considered Friday comes as immigration arrests rise at state courts, discouraging victims, witnesses and others from showing up, according to lawyers and advocates.
+### HOMICIDE on 2026-04-24 18:20
+- Location: New York Post
+- Description: Heartpounding drone footage shows a car thief hanging beneath San Francisco's Bay Bridge as he tried to evade police earlier this month.
 
 
-### ROBBERY/THEFT on 2026-04-24 12:59
-- Location: Gothamist
-- Description: Mayor Zohran Mamdani
- 
-
-The mayor pledged to establish the office to protect homeowners from fraud and theft during his campaign. [ more › ]
-
-
-### HOMICIDE on 2026-04-24 12:56
-- Location: Protothema.gr
-- Description: Criminal charges for aiding a criminal have been brought against three individuals—an 18-year-old and two 20-year-old women—in connection with the murder of a 27-year-old in Agios Dimitrios. The Athens First Instance Prosecutor’s Office has referred the accus…
-
-
-### ROBBERY/THEFT on 2026-04-24 12:39
-- Location: Democracy Now!
-- Description: Four people were arrested on Wednesday in the Bedford-Stuyvesant neighborhood of Brooklyn after gathering in support of Carmella Charrington, a homeowner fighting eviction from her longtime family home. Charrington and local housing advocates say the sale of …
-
-
-### HOMICIDE on 2026-04-24 12:33
+### ROBBERY/THEFT on 2026-04-24 18:00
 - Location: Dailymail.com
-- Description: Wendy Duffy paid her £10,000 life savings to die at the controversial Pegasos 'suicide clinic' in Basel on Friday, in a case that has sharply divided opinion in the UK.
+- Description: The reported theft has revived post-9/11 fears that terrorists could use crop-dusting aircraft to disperse biological or chemical agents across the US.
 
-Analysis generated at: Sat Apr 25 13:16:32 UTC 2026
+
+### HOMICIDE on 2026-04-24 17:57
+- Location: New York Post
+- Description: She has pleaded not guilty to both killings.
+
+
+### HOMICIDE on 2026-04-24 17:54
+- Location: Dailymail.com
+- Description: Raju Mollah, 50, and his wife had argued days before he stamped on her, kicked her and pushed a mop into her face on January 12 last year, the Crown Prosecution Service (CPS) said.
+
+
+### HOMICIDE on 2026-04-24 17:52
+- Location: HuffPost
+- Description: "Nothing can prepare you for what it feels like to lose both parents instantly at the same time. It’s too devastating to comprehend," Jake Reiner wrote.
+
+Analysis generated at: Sat Apr 25 18:42:34 UTC 2026
