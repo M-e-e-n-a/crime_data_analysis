@@ -1,10 +1,10 @@
 
-Loaded 100794 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-24 07:05:46
+Loaded 100859 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-24 12:39:04
 
 Incidents by source:
 source
-newsapi           100693
+newsapi           100758
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-04-24 07:05
-- Location: Vanguard
-- Description: Lagos State Government has dismissed allegations that it is shielding suspects linked to the killing of six traders at Owode Onirin, insisting that the decision not to prosecute was based strictly on lack of evidence in the police case file.
-The post Owode On…
+### ROBBERY/THEFT on 2026-04-24 12:39
+- Location: Democracy Now!
+- Description: Four people were arrested on Wednesday in the Bedford-Stuyvesant neighborhood of Brooklyn after gathering in support of Carmella Charrington, a homeowner fighting eviction from her longtime family home. Charrington and local housing advocates say the sale of …
 
 
-### ASSAULT on 2026-04-24 06:57
+### HOMICIDE on 2026-04-24 12:33
 - Location: Dailymail.com
-- Description: Laura Coleman, who was 34 weeks pregnant at the time, was walking in London when she said she was targeted by the shameless yob.
+- Description: Wendy Duffy paid her £10,000 life savings to die at the controversial Pegasos 'suicide clinic' in Basel on Friday, in a case that has sharply divided opinion in the UK.
 
 
-### HOMICIDE on 2026-04-24 06:54
-- Location: The Times of India
-- Description: The Supreme Court has ordered the Uttar Pradesh Director General of Police to form a special investigation team. This team will probe the tragic case of a four-year-old girl's rape and murder in Ghaziabad. The court expressed dissatisfaction with the local po…
+### ROBBERY/THEFT on 2026-04-24 12:30
+- Location: Freethoughtblogs.com
+- Description: The Probability Broach, chapter 17 En route to the capitol of the North American Confederacy, Win and Ed are exploring the amenities on their enormous, luxurious airship, while their female companions are off entertaining themselves. That’s when they receive …
 
 
-### OTHER on 2026-04-24 06:47
-- Location: The Times of India
-- Description: The Gauhati High Court has rejected Congress leader Pawan Khera's anticipatory bail petition. This is in connection with allegations made against Assam Chief Minister Himanta Biswa Sarma's wife. Criminal cases were filed by the Chief Minister's wife. The Supr…
+### OTHER on 2026-04-24 12:28
+- Location: GeekTyrant
+- Description: James Mangold, the director who broke into the Hollywood spotlight with Cop Land is heading back to that gritty world, this time expanding it into a television series. The project is gaining momentum, and it’s shaping up to be one of the more interesting crim…
 
 
-### HOMICIDE on 2026-04-24 06:46
-- Location: Variety
-- Description: Scandinavian major Nordisk Film Production and leading Nordic sales, financing and production outfit Reinvent Yellow have just inked a distribution deal on three high-end crime series. The series part of the pact includes “Snake Killer” (“Slangedræber”), Prim…
+### OTHER on 2026-04-24 12:22
+- Location: Wnd.com
+- Description: 'A distant signal was given – it sounded something like a trumpet ... '
 
-Analysis generated at: Sat Apr 25 07:08:10 UTC 2026
+Analysis generated at: Sat Apr 25 12:52:54 UTC 2026
