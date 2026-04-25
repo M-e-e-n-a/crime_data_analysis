@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Apr 24 18:42:32 UTC 2026
+Last updated: Sat Apr 25 01:55:49 UTC 2026
 
 ## Latest Analysis
 
-Loaded 100725 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-23 18:41:05
+Loaded 100753 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-24 01:45:13
 
 Incidents by source:
 source
-newsapi           100624
+newsapi           100652
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-04-23 18:41
-- Location: Vanguard
-- Description: Addressing a maiden stakeholders’ meeting comprising traditional rulers, community leaders from different ethnic groups, and transport unions in the Idimu area of Lagos, on Thursday,  the CP said his visit was not ceremonial but driven by urgency over the ris…
+### OTHER on 2026-04-24 01:45
+- Location: Vulture
+- Description: Our girls Deborah and Ava get hyped up for their dates with an international rock star and a sex worker.
 
 
-### HOMICIDE on 2026-04-23 18:34
-- Location: Freerepublic.com
-- Description: A Las Vegas woman who mowed down a young father with her Tesla as he was crossing the street has begged his family for forgiveness in court. Karen Cannon, 64, left pedestrian Patrick Deloria for dead after she struck him with her Tesla Model Y on May 13 last …
+### HOMICIDE on 2026-04-24 01:35
+- Location: New York Post
+- Description: A disabled North Carolina woman allegedly plotted to slaughter "as many Jews as possible" with two unidentified male accomplices, in a would-be attack on Texas' oldest synagogue.
 
 
-### OTHER on 2026-04-23 18:34
-- Location: CBC News
-- Description: Winnipeg Mayor Scott Gillingham, who has long pushed for stricter bail conditions for repeat offenders, didn't hold back Wednesday when given the chance to address a Senate committee studying the issue.
+### OTHER on 2026-04-24 01:29
+- Location: BusinessLine
+- Description: The incident was reported after a blockage was inspected, leading to an investigation under relevant sections of the Bharatiya Nyaya Sanhita. T
 
 
-### HOMICIDE on 2026-04-23 18:33
-- Location: The Times of India
-- Description: Patna: A 24-year-old youth allegedly shot a woman before shooting himself over a strained love affair at Imadpur village under Bhagwanpur police stati.
+### HOMICIDE on 2026-04-24 01:21
+- Location: Israelnationalnews.com
+- Description: 18-year-old held on $10M bond after alleged plot to attack a Reform synagogue in Houston and “kill as many Jews as possible".
 
 
-### SHOOTING on 2026-04-23 18:32
-- Location: Slashdot.org
-- Description: Man arrested in Florida for allegedly plotting mass shooting at New Orleans festival, officials sayNOLA.com Former officer accused of plotting New Orleans festival mass shootingfox8live.com Former Chapel Hill, North Carolina police officer Christopher Gillum …
+### ASSAULT on 2026-04-24 01:14
+- Location: The Indian Express
+- Description: LoP's bastion crosses 90 per cent turnout; both Suvendu Adhikari and TMC rival Pabitra Kar claim upper hand in prestige fight.
 
-Analysis generated at: Fri Apr 24 18:42:32 UTC 2026
+Analysis generated at: Sat Apr 25 01:55:49 UTC 2026
