@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Apr 26 07:22:09 UTC 2026
+Last updated: Sun Apr 26 12:54:49 UTC 2026
 
 ## Latest Analysis
 
-Loaded 100990 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-25 07:18:48
+Loaded 101024 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-25 12:40:13
 
 Incidents by source:
 source
-newsapi           100889
+newsapi           100923
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-04-25 07:18
-- Location: The Times of India
-- Description: A political row has erupted in Karnataka after students were allegedly asked to remove their sacred 'janeu' threads before writing the Common Entrance Test. The BJP has accused the Congress government of religious discrimination and appeasement politics. The …
-
-
-### SHOOTING on 2026-04-25 07:09
-- Location: Hurriyet Daily News
-- Description: Police in Istanbul seized 3,092 gun parts hidden in an underground water depot on an empty plot of land in the city’s Pendik district, detaining four suspects as part of an investigation into illegal arms trade.
-
-
-### OTHER on 2026-04-25 07:00
-- Location: TechRadar
-- Description: The Cage, a 'high-stakes' new BBC crime drama starring Sheridan Smith, has more to it than meets the eye, according to its cast.
-
-
-### OTHER on 2026-04-25 06:56
+### SHOOTING on 2026-04-25 12:40
 - Location: New York Post
-- Description: The suspected impersonator, 62, finalized the sale of the three-bedroom estate on April 7, agreeing to a reduced price of $185,000, according to the outlet.
+- Description: The teen who fled the country after allegedly gunning down a 15-year-old boy when a bitter gang-fueled brawl erupted at a Queens park has been arrested.
 
 
-### OTHER on 2026-04-25 06:46
-- Location: Vanguard
-- Description: NAFDAC’s decision to ban the production and sale of alcohol in sachets and small bottles (below 200 ml) is not an act of regulatory overreach
-The post Sachet Alcohol: Sacrificing our children for profit? appeared first on Vanguard News.
+### ASSAULT on 2026-04-25 12:30
+- Location: New York Post
+- Description: On Saturday, April 18, a 24-year-old illegal immigrant from India, allegedly high on "wax" attacked a 27-year-old Texas mother and her three-year-old child in a San Antonio park. He punched the mom and bit the child's face until people in the park pulled him …
 
-Analysis generated at: Sun Apr 26 07:22:09 UTC 2026
+
+### HOMICIDE on 2026-04-25 12:30
+- Location: Newser
+- Description: A teenager is in custody after gunfire at a busy Baton Rouge mall left one 17-year-old dead and several others injured. Police say 17-year-old Markel Lee surrendered on Friday with his lawyer and was booked on charges including first-degree murder, attempted …
+
+
+### OTHER on 2026-04-25 12:26
+- Location: How-To Geek
+- Description: 3 acclaimed Paramount+ documentaries to stream this weekend (April 24-26)howtogeek.com
+
+
+### OTHER on 2026-04-25 12:15
+- Location: Dailymail.com
+- Description: April 27 will mark the 72nd birthday of British businessman and father of three Ryan Cornelius, but he won't be celebrating the occasion with his loving wife or three children.
+
+Analysis generated at: Sun Apr 26 12:54:49 UTC 2026
