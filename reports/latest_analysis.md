@@ -1,10 +1,10 @@
 
-Loaded 100936 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-24 18:20:27
+Loaded 100950 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-25 01:06:37
 
 Incidents by source:
 source
-newsapi           100835
+newsapi           100849
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-04-24 18:20
-- Location: New York Post
-- Description: Heartpounding drone footage shows a car thief hanging beneath San Francisco's Bay Bridge as he tried to evade police earlier this month.
+### HOMICIDE on 2026-04-25 01:06
+- Location: BBC News
+- Description: Kamonnan Thiamphanit, 27, who was also known as Angela, was stabbed in Westminster in 2024.
 
 
-### ROBBERY/THEFT on 2026-04-24 18:00
+### HOMICIDE on 2026-04-25 01:05
 - Location: Dailymail.com
-- Description: The reported theft has revived post-9/11 fears that terrorists could use crop-dusting aircraft to disperse biological or chemical agents across the US.
+- Description: Enzo Bettamio, 18, was flown back to the UK on Friday following joint efforts by the Metropolitan Police and Crown Prosecution Service to secure his return.
 
 
-### HOMICIDE on 2026-04-24 17:57
-- Location: New York Post
-- Description: She has pleaded not guilty to both killings.
-
-
-### HOMICIDE on 2026-04-24 17:54
+### OTHER on 2026-04-25 00:59
 - Location: Dailymail.com
-- Description: Raju Mollah, 50, and his wife had argued days before he stamped on her, kicked her and pushed a mop into her face on January 12 last year, the Crown Prosecution Service (CPS) said.
+- Description: Customers at the popular bakery chain (pictured, file photo) can usually grab a range of bottled soft drinks, sandwiches and other food items from the shelves themselves.
 
 
-### HOMICIDE on 2026-04-24 17:52
-- Location: HuffPost
-- Description: "Nothing can prepare you for what it feels like to lose both parents instantly at the same time. It’s too devastating to comprehend," Jake Reiner wrote.
+### OTHER on 2026-04-25 00:59
+- Location: Dailymail.com
+- Description: Yards from the Thames, in the churchyard of All Saints , which dates from the 12th Century, is the final resting place of the Victorian poet Matthew Arnold.
 
-Analysis generated at: Sat Apr 25 18:42:34 UTC 2026
+
+### OTHER on 2026-04-25 00:57
+- Location: Dailymail.com
+- Description: There was a hint of drizzle in the air on that cold April morning as Prime Minister Zack Polanski cycled down Greta Thunberg Way, formerly Whitehall.
+
+Analysis generated at: Sun Apr 26 02:09:27 UTC 2026
