@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Apr 26 03:30:24 UTC 2026
+Last updated: Sun Apr 26 07:22:09 UTC 2026
 
 ## Latest Analysis
 
-Loaded 100960 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-25 03:30:20
+Loaded 100990 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-25 07:18:48
 
 Incidents by source:
 source
-newsapi           100859
+newsapi           100889
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-04-25 03:30
-- Location: Screen Rant
-- Description: While it is great news that Reacher season 4 is officially returning in 2026 itself, the silence around the Neagley spinoff show is getting confusing.
+### OTHER on 2026-04-25 07:18
+- Location: The Times of India
+- Description: A political row has erupted in Karnataka after students were allegedly asked to remove their sacred 'janeu' threads before writing the Common Entrance Test. The BJP has accused the Congress government of religious discrimination and appeasement politics. The …
 
 
-### HOMICIDE on 2026-04-25 03:16
-- Location: CBS News
-- Description: The ChatGPT account of the shooter, who killed eight people in a small British Columbia community, had been banned about eight months prior to the massacre.
+### SHOOTING on 2026-04-25 07:09
+- Location: Hurriyet Daily News
+- Description: Police in Istanbul seized 3,092 gun parts hidden in an underground water depot on an empty plot of land in the city’s Pendik district, detaining four suspects as part of an investigation into illegal arms trade.
 
 
-### HOMICIDE on 2026-04-25 03:12
-- Location: Dailymail.com
-- Description: Rebecca Grossman continues to refuse blame six years after a fatal crash killed two young brothers, as opening statements were given on Friday.
+### OTHER on 2026-04-25 07:00
+- Location: TechRadar
+- Description: The Cage, a 'high-stakes' new BBC crime drama starring Sheridan Smith, has more to it than meets the eye, according to its cast.
 
 
-### OTHER on 2026-04-25 03:02
-- Location: Digital Journal
-- Description: Peru’s electoral tribunal on Friday rejected calls for a new election in Lima following irregularities during the April 12 vote and confirmed a presidential runoff will be held June 7.   Ultra-conservative candidate and former mayor of Lima, Rafael Lopez Alia…
+### OTHER on 2026-04-25 06:56
+- Location: New York Post
+- Description: The suspected impersonator, 62, finalized the sale of the three-bedroom estate on April 7, agreeing to a reduced price of $185,000, according to the outlet.
 
 
-### OTHER on 2026-04-25 03:00
-- Location: Bitcoinist
-- Description: A US law enforcement task force seized hundreds of fake investment websites and unsealed warrants against two suspects tied to a Burmese crypto scam compound. Related Reading: $467K In Crypto Seized As Spain Cracks Down On Illegal Piracy Platform US Reward Fo…
+### OTHER on 2026-04-25 06:46
+- Location: Vanguard
+- Description: NAFDAC’s decision to ban the production and sale of alcohol in sachets and small bottles (below 200 ml) is not an act of regulatory overreach
+The post Sachet Alcohol: Sacrificing our children for profit? appeared first on Vanguard News.
 
-Analysis generated at: Sun Apr 26 03:30:24 UTC 2026
+Analysis generated at: Sun Apr 26 07:22:09 UTC 2026
