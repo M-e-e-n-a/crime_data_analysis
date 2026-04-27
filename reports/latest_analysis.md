@@ -1,10 +1,10 @@
 
-Loaded 101306 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-26 14:05:18
+Loaded 101400 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-26 19:10:17
 
 Incidents by source:
 source
-newsapi           101205
+newsapi           101299
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-04-26 14:05
+### SHOOTING on 2026-04-26 19:10
+- Location: ABC News (AU)
+- Description: Several US media outlets are reporting on the existence of the manifesto, which reportedly states the shooter wanted to target administration officials, and was sent to the suspect's family members just before the attack.
+
+
+### SHOOTING on 2026-04-26 19:10
+- Location: Snopes.com
+- Description: White House press secretary Karoline Leavitt said there would be "shots fired" ahead of a shooting at the White House Correspondents' Association Dinner on April 25, 2026.
+
+
+### SHOOTING on 2026-04-26 19:06
 - Location: Fortune
-- Description: The suspect is believed to have purchased the two firearms he carried within the last couple of years, acting Attorney General Todd Blanche said.
+- Description: "I don't think that's something that we should be focused on right now in any way, shape or form," acting Attorney General Todd Blanche said.
 
 
-### ASSAULT on 2026-04-26 14:04
-- Location: Fox News
-- Description: Global leaders expressed relief that Trump was unharmed after an armed suspect allegedly attacked the White House Correspondents' Dinner in Washington.
+### SHOOTING on 2026-04-26 19:05
+- Location: NPR
+- Description: The 31-year-old teacher and engineer from California sent an alleged message to family members saying that he wanted to target administration officials
 
 
-### SHOOTING on 2026-04-26 13:59
-- Location: Raw Story
-- Description: Acting Attorney General Todd Blanche revealed on Sunday what the potential motive was for the man suspected of opening fire at the White House Correspondents’ Association Dinner Saturday night, CNN reported
-.“The suspected gunman who charged through a securi…
+### SHOOTING on 2026-04-26 19:00
+- Location: ABC News (AU)
+- Description: Thousands of influential players in Washington filed into a ballroom with the US president. Then shots rang out.
 
-
-### OTHER on 2026-04-26 13:56
-- Location: CBS News
-- Description: Law enforcement apprehended 31-year-old Cole Allen after he charged a security checkpoint outside the White House Correspondents' Association Dinner.
-
-
-### OTHER on 2026-04-26 13:46
-- Location: Dailymail.com
-- Description: After the former Duchess of York's Austrian wellness retreat was revealed, Fergie is said to be seeking alternative accommodation from her wealthy friends.
-
-Analysis generated at: Mon Apr 27 14:06:39 UTC 2026
+Analysis generated at: Mon Apr 27 19:10:37 UTC 2026
