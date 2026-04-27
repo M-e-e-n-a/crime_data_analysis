@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Apr 27 13:26:59 UTC 2026
+Last updated: Mon Apr 27 14:06:39 UTC 2026
 
 ## Latest Analysis
 
-Loaded 101296 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-26 13:13:35
+Loaded 101306 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-26 14:05:18
 
 Incidents by source:
 source
-newsapi           101195
+newsapi           101205
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,30 +24,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-04-26 13:13
-- Location: BroBible
-- Description: Journalists and influencers at the White House Correspondents’ Dinner were not going to let the liquor go to waste even after a scary moment. On Saturday night, a man tried to assassinate President Trump and his administration at the White House Correspondent…
+### SHOOTING on 2026-04-26 14:05
+- Location: Fortune
+- Description: The suspect is believed to have purchased the two firearms he carried within the last couple of years, acting Attorney General Todd Blanche said.
 
 
-### SHOOTING on 2026-04-26 13:13
-- Location: BroBible
-- Description: Journalists and influencers at the White House Correspondents’ Dinner were not going to let the liquor go to waste even after a scary moment. On Saturday night, a man tried to assassinate President Trump and his administration at the White House Correspondent…
+### ASSAULT on 2026-04-26 14:04
+- Location: Fox News
+- Description: Global leaders expressed relief that Trump was unharmed after an armed suspect allegedly attacked the White House Correspondents' Dinner in Washington.
 
 
-### SHOOTING on 2026-04-26 13:12
-- Location: Abcnews.com
-- Description: Law enforcement sources identified the suspect in a shooting incident at the White House Correspondents' Association Dinner as Cole Allen, 31, of Torrance, California.
+### SHOOTING on 2026-04-26 13:59
+- Location: Raw Story
+- Description: Acting Attorney General Todd Blanche revealed on Sunday what the potential motive was for the man suspected of opening fire at the White House Correspondents’ Association Dinner Saturday night, CNN reported
+.“The suspected gunman who charged through a securi…
 
 
-### SHOOTING on 2026-04-26 13:09
-- Location: Daily Signal
-- Description: The suspect arrested in the White House Correspondents’ Dinner shooting on Saturday was identified by a law enforcement official as Cole Tomas Allen, a Los Angeles-area man who appears from social media sites to be a Caltech graduate working as a part-time te…
+### OTHER on 2026-04-26 13:56
+- Location: CBS News
+- Description: Law enforcement apprehended 31-year-old Cole Allen after he charged a security checkpoint outside the White House Correspondents' Association Dinner.
 
 
-### OTHER on 2026-04-26 13:08
-- Location: The Punch
-- Description: Ahead of the Ekiti election, the state police command issues a stern warning to politicians against the destruction of campaign materials and unlawful acts
+### OTHER on 2026-04-26 13:46
+- Location: Dailymail.com
+- Description: After the former Duchess of York's Austrian wellness retreat was revealed, Fergie is said to be seeking alternative accommodation from her wealthy friends.
 
-Read More: https://punchng.com/ekiti-2026-police-warn-against-unlawful-acts-destruction-of-campaign-ma…
-
-Analysis generated at: Mon Apr 27 13:26:59 UTC 2026
+Analysis generated at: Mon Apr 27 14:06:39 UTC 2026
