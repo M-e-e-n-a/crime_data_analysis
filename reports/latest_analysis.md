@@ -1,10 +1,10 @@
 
-Loaded 101099 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-25 18:36:09
+Loaded 101130 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-26 02:10:13
 
 Incidents by source:
 source
-newsapi           100998
+newsapi           101029
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-04-25 18:36
-- Location: Breitbart News
-- Description: Two police officers were shot Saturday morning at the Swedish Hospital in Chicago's Ravenswood neighborhood. 
-The post Two Police Officers Shot at Chicago’s Swedish Hospital appeared first on Breitbart.
-
-
-### ASSAULT on 2026-04-25 18:34
-- Location: HuffPost
-- Description: The far-right grifter will soon lose Infowars for the lies he spread about Sandy Hook families. He still has no remorse.
-
-
-### HOMICIDE on 2026-04-25 18:32
-- Location: The Times of India
-- Description: Delhi Police took a former domestic worker to a southeast Delhi bureaucrat’s home to recreate the alleged rape-murder scene; phone traced to Rajasthan for forensics.
-
-
-### SHOOTING on 2026-04-25 18:12
+### SHOOTING on 2026-04-26 02:10
 - Location: Fox News
+- Description: President Trump and first lady Melania Trump were rushed out of the Washington Hilton as shots rang out at the White House Correspondents Dinner.
 
 
-### OTHER on 2026-04-25 18:00
-- Location: TheJournal.ie
-- Description: As Ireland was beginning to embrace a more plural society, imagine if it had instead fallen back under religious control — this is what happened in Iran, writes Samieh Hezari.
+### SHOOTING on 2026-04-26 02:05
+- Location: Breitbart News
+- Description: Intense video footage shows White House Correspondents Dinner attendees ducking for cover Saturday not far from where President Donald Trump had been seated onstage.
+The post WATCH — ‘Clear! Clear!’: Tense Moments Police Secure White House Correspondents Dinn…
 
-Analysis generated at: Sun Apr 26 18:43:21 UTC 2026
+
+### SHOOTING on 2026-04-26 02:05
+- Location: Dailymail.com
+- Description: President Donald Trump and First Lady Melania Trump were rushed off stage in Washington, DC, Saturday night after shots were fired, with many of the other guests still inside the ballroom.
+
+
+### SHOOTING on 2026-04-26 02:03
+- Location: BusinessLine
+- Description: President Donald Trump was confirmed safe, while top US officials and hundreds of attendees were evacuated from the Washington Hilton. Law enforcement and the Secret Service swiftly secured the premises, with witnesses reporting multiple shots and chaos insid…
+
+
+### SHOOTING on 2026-04-26 02:00
+- Location: Fox News
+- Description: Jennifer Sey, former Team USA gymnast, describes the terrifying moment shots were fired at the White House Correspondents' Dinner in Washington, D.C.
+
+Analysis generated at: Mon Apr 27 02:11:17 UTC 2026
