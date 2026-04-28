@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Apr 27 19:10:37 UTC 2026
+Last updated: Tue Apr 28 02:27:03 UTC 2026
 
 ## Latest Analysis
 
-Loaded 101400 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-26 19:10:17
+Loaded 101422 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-27 02:22:06
 
 Incidents by source:
 source
-newsapi           101299
+newsapi           101321
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-04-26 19:10
+### OTHER on 2026-04-27 02:22
+- Location: Fox News
+- Description: A New York woman was convicted after throwing a handmade stick of dynamite at her boyfriend as he was sleeping, causing his hand to be blown off.
+
+
+### SHOOTING on 2026-04-27 02:12
+- Location: HuffPost
+- Description: Heavily armed Secret Service agents flooded the stage and a broad collection of law enforcement and National Guard descended on the hotel.
+
+
+### OTHER on 2026-04-27 02:05
+- Location: Vulture
+- Description: Our ensemble reunites for Cassie and Nate’s wedding, which is an unmissable event, even for Maddy and Jules.
+
+
+### HOMICIDE on 2026-04-27 01:59
 - Location: ABC News (AU)
-- Description: Several US media outlets are reporting on the existence of the manifesto, which reportedly states the shooter wanted to target administration officials, and was sent to the suspect's family members just before the attack.
+- Description: SA Police will search waterways in Adelaide's south today to find three knives they believe are connected to the alleged murder of 24-year-old Caleb Leriano.
 
 
-### SHOOTING on 2026-04-26 19:10
-- Location: Snopes.com
-- Description: White House press secretary Karoline Leavitt said there would be "shots fired" ahead of a shooting at the White House Correspondents' Association Dinner on April 25, 2026.
+### SHOOTING on 2026-04-27 01:57
+- Location: Fox News
+- Description: Patricia Heaton calls on "friends on the left" to tone down political rhetoric following the shooting at the White House Correspondents Dinner Saturday.
 
-
-### SHOOTING on 2026-04-26 19:06
-- Location: Fortune
-- Description: "I don't think that's something that we should be focused on right now in any way, shape or form," acting Attorney General Todd Blanche said.
-
-
-### SHOOTING on 2026-04-26 19:05
-- Location: NPR
-- Description: The 31-year-old teacher and engineer from California sent an alleged message to family members saying that he wanted to target administration officials
-
-
-### SHOOTING on 2026-04-26 19:00
-- Location: ABC News (AU)
-- Description: Thousands of influential players in Washington filed into a ballroom with the US president. Then shots rang out.
-
-Analysis generated at: Mon Apr 27 19:10:37 UTC 2026
+Analysis generated at: Tue Apr 28 02:27:03 UTC 2026
