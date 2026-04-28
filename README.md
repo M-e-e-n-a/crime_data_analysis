@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Apr 28 14:25:18 UTC 2026
+Last updated: Tue Apr 28 19:26:45 UTC 2026
 
 ## Latest Analysis
 
-Loaded 101583 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-27 14:19:09
+Loaded 101676 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-27 19:25:57
 
 Incidents by source:
 source
-newsapi           101482
+newsapi           101575
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,30 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-04-27 14:19
-- Location: Kotaku
-- Description: The song 'Feel It' is featured in an emote
+### HOMICIDE on 2026-04-27 19:25
+- Location: ABC News (AU)
+- Description: Seascape guesthouse owners Sally and David Martin were the first people murdered at Port Arthur in 1996. On the 30th anniversary of the tragedy, their granddaughter tells of how the family has refused to be defined by it.
 
 
-### ROBBERY/THEFT on 2026-04-27 14:15
-- Location: Fortune
-- Description: Police went to Okello Chatrie's house after his cell phone was among the devices within the vicinity of the bank at the time of the robbery.
+### ROBBERY/THEFT on 2026-04-27 19:20
+- Location: The Punch
+- Description: Imo Police urge owners to claim 450 recovered motorcycles. Visit the command headquarters with proof of ownership to identify and reclaim your stolen bike.
+
+Read More: https://punchng.com/police-urge-motorcycle-owners-to-reclaim-450-recovered-bikes-in-imo/
 
 
-### OTHER on 2026-04-27 14:13
-- Location: Viralviralvideos.com
-- Description: When most people think about criminal defense, a handful of familiar strategies come to mind. Things like self-defense, mistaken identity, or even just having an alibi are common approaches. And while these are legitimate, they represent a pretty narrow slice…
+### HOMICIDE on 2026-04-27 19:14
+- Location: HuffPost
+- Description: Among other questions, the suspect wondered what would happen if a human body was put in a garbage bag and thrown in a dumpster.
 
 
-### OTHER on 2026-04-27 14:13
-- Location: Dailymail.com
-- Description: Sudanese national Mohammed Ali, 20, dodged extradition to France and will continue to 'to receive a substantial package of support' from a local council, a judge has said.
+### ASSAULT on 2026-04-27 19:10
+- Location: Boredpanda.com
+- Description: “She looks like she has seen far scarier things in life. Like that was a normal day,” a netizen remarked.
 
 
-### OTHER on 2026-04-27 14:06
-- Location: IndieWire
-- Description: Russell's bold and unsettling turn as a racist cop in the 2002 crime film veers from dark comedy to haunting tragedy without missing a beat, resulting in Russell's most provocative and multifaceted antihero.
+### HOMICIDE on 2026-04-27 19:10
+- Location: CBC News
+- Description: A woman accused murdering her infant son more than four years ago in Ottawa may have to stand trial a second time. The Crown is now deciding what to do after a jury convicted her former partner of second-murder on Sunday but couldn't reach a unanimous verdict…
 
-Analysis generated at: Tue Apr 28 14:25:18 UTC 2026
+Analysis generated at: Tue Apr 28 19:26:44 UTC 2026
