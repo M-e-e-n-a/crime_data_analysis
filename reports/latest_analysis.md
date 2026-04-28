@@ -1,10 +1,10 @@
 
-Loaded 101486 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-27 08:14:13
+Loaded 101583 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-27 14:19:09
 
 Incidents by source:
 source
-newsapi           101385
+newsapi           101482
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-04-27 08:14
+### HOMICIDE on 2026-04-27 14:19
+- Location: Kotaku
+- Description: The song 'Feel It' is featured in an emote
+
+
+### ROBBERY/THEFT on 2026-04-27 14:15
+- Location: Fortune
+- Description: Police went to Okello Chatrie's house after his cell phone was among the devices within the vicinity of the bank at the time of the robbery.
+
+
+### OTHER on 2026-04-27 14:13
+- Location: Viralviralvideos.com
+- Description: When most people think about criminal defense, a handful of familiar strategies come to mind. Things like self-defense, mistaken identity, or even just having an alibi are common approaches. And while these are legitimate, they represent a pretty narrow slice…
+
+
+### OTHER on 2026-04-27 14:13
 - Location: Dailymail.com
-- Description: Tyio Day, 37, was found with stab injuries at the Moon's Lodge hostel in the city's upmarket Regency Square in the early hours of Sunday morning.
+- Description: Sudanese national Mohammed Ali, 20, dodged extradition to France and will continue to 'to receive a substantial package of support' from a local council, a judge has said.
 
 
-### HOMICIDE on 2026-04-27 08:12
-- Location: Slashdot.org
-- Description: Human remains found in search for missing University of South Florida doctoral studentCBS News Authorities say human remains recovered in Pinellas waterwayBay News 9 Suspect in murder of Florida college students asked ChatGPT about putting a person in a dumps…
+### OTHER on 2026-04-27 14:06
+- Location: IndieWire
+- Description: Russell's bold and unsettling turn as a racist cop in the 2002 crime film veers from dark comedy to haunting tragedy without missing a beat, resulting in Russell's most provocative and multifaceted antihero.
 
-
-### HOMICIDE on 2026-04-27 08:08
-- Location: ABC News (AU)
-- Description: Thomas Clarke is sentenced to 21 years in prison for murdering a man in Dimboola in 2023.
-
-
-### SHOOTING on 2026-04-27 08:04
-- Location: Dailymail.com
-- Description: Donald Trump has relived the terrifying moment the Secret Service made him crawl on the floor to safety amid a shooting at the White House Correspondents' Dinner.
-
-
-### OTHER on 2026-04-27 08:01
-- Location: MediaNama.com
-- Description: The MIB has asked ZEE5 to halt Lawrence of Punjab, citing public order concerns. Punjab claims the series glorifies gangster Lawrence Bishnoi.
-The post Govt. asks ZEE5 to halt ‘Lawrence of Punjab’ web series release appeared first on MEDIANAMA.
-
-Analysis generated at: Tue Apr 28 08:14:51 UTC 2026
+Analysis generated at: Tue Apr 28 14:25:18 UTC 2026
