@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Apr 28 02:27:03 UTC 2026
+Last updated: Tue Apr 28 03:39:34 UTC 2026
 
 ## Latest Analysis
 
-Loaded 101422 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-27 02:22:06
+Loaded 101429 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-27 03:33:39
 
 Incidents by source:
 source
-newsapi           101321
+newsapi           101328
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,30 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-04-27 02:22
-- Location: Fox News
-- Description: A New York woman was convicted after throwing a handmade stick of dynamite at her boyfriend as he was sleeping, causing his hand to be blown off.
+### SHOOTING on 2026-04-27 03:33
+- Location: Vanguard
+- Description: World leaders react to Washington gala shooting; suspect named, detained 
+The post World leaders react to Washington gala shooting; suspect named, detained  appeared first on Vanguard News.
 
 
-### SHOOTING on 2026-04-27 02:12
-- Location: HuffPost
-- Description: Heavily armed Secret Service agents flooded the stage and a broad collection of law enforcement and National Guard descended on the hotel.
+### HOMICIDE on 2026-04-27 03:30
+- Location: Gossiplankanews.com
+- Description: For over a decade, hidden among the sand dunes of Gilgo Beach in New York, lay the tragedy of innocent women brutally murdered.
+<!--gossip-below-article-Rs--> (adsbygoogle = window.adsbygoogle || []).push({});A crucial turning point in that mystery was marke…
 
 
-### OTHER on 2026-04-27 02:05
-- Location: Vulture
-- Description: Our ensemble reunites for Cassie and Nate’s wedding, which is an unmissable event, even for Maddy and Jules.
+### SHOOTING on 2026-04-27 03:26
+- Location: BroBible
+- Description: President Trump was impressed with the speed of Cole Allen, the suspected shooter at the White House Correspondents’ Dinner. On Saturday night, Allen is accused of running past a Secret Service security checkpoint and firing several shots directed at the ball…
 
 
-### HOMICIDE on 2026-04-27 01:59
+### HOMICIDE on 2026-04-27 03:10
+- Location: CBC News
+- Description: Police say it happened just before 6 p.m. Sunday.
+
+
+### SHOOTING on 2026-04-27 02:30
 - Location: ABC News (AU)
-- Description: SA Police will search waterways in Adelaide's south today to find three knives they believe are connected to the alleged murder of 24-year-old Caleb Leriano.
+- Description: Human rights activist Kerry Kennedy has praised a "superhero" member of Congress for shielding her when an active shooter attempted to storm the annual White House Correspondents' Association dinner.
 
-
-### SHOOTING on 2026-04-27 01:57
-- Location: Fox News
-- Description: Patricia Heaton calls on "friends on the left" to tone down political rhetoric following the shooting at the White House Correspondents Dinner Saturday.
-
-Analysis generated at: Tue Apr 28 02:27:03 UTC 2026
+Analysis generated at: Tue Apr 28 03:39:34 UTC 2026
