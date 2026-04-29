@@ -1,10 +1,10 @@
 
-Loaded 101694 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-28 02:11:08
+Loaded 101700 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-28 03:29:51
 
 Incidents by source:
 source
-newsapi           101593
+newsapi           101599
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,33 +20,30 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-04-28 02:11
-- Location: ABC News (AU)
-- Description: Police say the man, a tourist visiting from South-East Asia with his family, was swept from the rocks at Indijup Natural Spa near Yallingup on Monday.
+### HOMICIDE on 2026-04-28 03:29
+- Location: New York Post
+- Description: “He LOVED going to work at Costco, always talking about his coworkers. He would joke, laugh, and pass around sweet treats to everyone around him, making every day brighter for those he met.”…
 
 
-### OTHER on 2026-04-28 02:11
-- Location: ABC News (AU)
-- Description: Police say the man, a tourist visiting from South-East Asia with his family, was swept from the rocks at Injidup Natural Spa near Yallingup on Monday.
+### OTHER on 2026-04-28 03:17
+- Location: Dailymail.com
+- Description: Jonah Hill is opening up about his experiences with a notorious filmmaker in a new interview.
 
 
-### OTHER on 2026-04-28 02:06
-- Location: The Punch
-- Description: Bauchi State Police enforces a ban on night operations for motorcycles and tricycles to curb rising insecurity and crime under the cover of darkness.
-
-Read More: https://punchng.com/insecurity-bauchi-police-bans-night-operations-of-bikes-tricycles/
-
-
-### SHOOTING on 2026-04-28 01:54
+### SHOOTING on 2026-04-28 03:08
 - Location: Mediaite
-- Description: John Hinckley Jr., who shot President Ronald Reagan in 1981 outside the Washington Hilton, said the hotel is "just not a secure" venue.
-The post Man Who Shot Reagan at Hotel That Hosted WHCD Says Venue Is ‘Just Not a Secure Place’ first appeared on Mediaite.
+- Description: Katie Miller blamed the WHCD Shooting on Gavin Newsom, who took to social media to slam her "absurd statement" and "finger-pointing."
+The post Katie Miller Blames WHCD Shooting on Gavin Newsom, Who Slams Her ‘Absurd Statement’ first appeared on Mediaite.
 
 
-### SHOOTING on 2026-04-28 01:50
-- Location: The Punch
-- Description: The Police Community Relations Committee praises retired Ogun DPO CSP John Ayegbede for his effective crime-fighting, which transformed the notorious Long
+### ROBBERY/THEFT on 2026-04-28 02:49
+- Location: Israelnationalnews.com
+- Description: Toronto Judaica shop hit by a rock for the third time, as police probe hate motives amid rising antisemitic incidents in the city.
 
-Read More: https://punchng.com/pcrc-hails-retired-ogun-dpos-crime-fighting-efforts/
 
-Analysis generated at: Wed Apr 29 02:27:23 UTC 2026
+### OTHER on 2026-04-28 02:38
+- Location: Dailymail.com
+- Description: Sharon Granites, 5, was reported missing from a Town Camp outside Alice Springs in the Northern Territory around 11.30pm on Anzac Day.
+Police believe Sharon was taken by Jefferson Lewis
+
+Analysis generated at: Wed Apr 29 03:37:43 UTC 2026
