@@ -1,10 +1,10 @@
 
-Loaded 101676 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-27 19:25:57
+Loaded 101694 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-28 02:11:08
 
 Incidents by source:
 source
-newsapi           101575
+newsapi           101593
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,30 +20,33 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-04-27 19:25
+### OTHER on 2026-04-28 02:11
 - Location: ABC News (AU)
-- Description: Seascape guesthouse owners Sally and David Martin were the first people murdered at Port Arthur in 1996. On the 30th anniversary of the tragedy, their granddaughter tells of how the family has refused to be defined by it.
+- Description: Police say the man, a tourist visiting from South-East Asia with his family, was swept from the rocks at Indijup Natural Spa near Yallingup on Monday.
 
 
-### ROBBERY/THEFT on 2026-04-27 19:20
+### OTHER on 2026-04-28 02:11
+- Location: ABC News (AU)
+- Description: Police say the man, a tourist visiting from South-East Asia with his family, was swept from the rocks at Injidup Natural Spa near Yallingup on Monday.
+
+
+### OTHER on 2026-04-28 02:06
 - Location: The Punch
-- Description: Imo Police urge owners to claim 450 recovered motorcycles. Visit the command headquarters with proof of ownership to identify and reclaim your stolen bike.
+- Description: Bauchi State Police enforces a ban on night operations for motorcycles and tricycles to curb rising insecurity and crime under the cover of darkness.
 
-Read More: https://punchng.com/police-urge-motorcycle-owners-to-reclaim-450-recovered-bikes-in-imo/
-
-
-### HOMICIDE on 2026-04-27 19:14
-- Location: HuffPost
-- Description: Among other questions, the suspect wondered what would happen if a human body was put in a garbage bag and thrown in a dumpster.
+Read More: https://punchng.com/insecurity-bauchi-police-bans-night-operations-of-bikes-tricycles/
 
 
-### ASSAULT on 2026-04-27 19:10
-- Location: Boredpanda.com
-- Description: “She looks like she has seen far scarier things in life. Like that was a normal day,” a netizen remarked.
+### SHOOTING on 2026-04-28 01:54
+- Location: Mediaite
+- Description: John Hinckley Jr., who shot President Ronald Reagan in 1981 outside the Washington Hilton, said the hotel is "just not a secure" venue.
+The post Man Who Shot Reagan at Hotel That Hosted WHCD Says Venue Is ‘Just Not a Secure Place’ first appeared on Mediaite.
 
 
-### HOMICIDE on 2026-04-27 19:10
-- Location: CBC News
-- Description: A woman accused murdering her infant son more than four years ago in Ottawa may have to stand trial a second time. The Crown is now deciding what to do after a jury convicted her former partner of second-murder on Sunday but couldn't reach a unanimous verdict…
+### SHOOTING on 2026-04-28 01:50
+- Location: The Punch
+- Description: The Police Community Relations Committee praises retired Ogun DPO CSP John Ayegbede for his effective crime-fighting, which transformed the notorious Long
 
-Analysis generated at: Tue Apr 28 19:26:44 UTC 2026
+Read More: https://punchng.com/pcrc-hails-retired-ogun-dpos-crime-fighting-efforts/
+
+Analysis generated at: Wed Apr 29 02:27:23 UTC 2026
