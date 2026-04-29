@@ -1,10 +1,10 @@
 
-Loaded 101825 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-28 14:07:07
+Loaded 101921 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-28 19:12:08
 
 Incidents by source:
 source
-newsapi           101724
+newsapi           101820
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-04-28 14:07
+### SHOOTING on 2026-04-28 19:12
 - Location: New York Post
-- Description: Jessica Hilliard, 34, was shot and killed in the parking lot outside Niki’s Quick Six in Parks Township, Pa., on Saturday night when she apparently tried to help break up a fight between a man and woman.
+- Description: The teen victim was blasted in the neck and back around 6 p.m. Monday on board a northbound A train approaching 80th Street in Ozone Park, police said.
 
 
-### SHOOTING on 2026-04-28 14:04
-- Location: Dailymail.com
-- Description: Katie Miller has defended her husband after rumors circulated that he used her as a human shield when a gunman opened fire outside the White House Correspondents' dinner on Saturday night.
+### OTHER on 2026-04-28 19:11
+- Location: ComicBook.com
+- Description: The anime industry has hit some major heights in recent years, causing the medium to appear in places that fans might not expect. While North American sports teams have collaborated with Jujutsu Kaisen, One Piece, and Dragon Ball, to name a few, Japan still h…
 
 
-### OTHER on 2026-04-28 13:56
-- Location: The Federalist
-- Description: News media are describing the indictment of the Southern Poverty Law Center as "murky" and strange. Experts on banks and fraud laws disagree.
+### OTHER on 2026-04-28 19:10
+- Location: The Times of India
+- Description: WhatsApp has banned over 9,400 accounts involved in digital arrest scams and impersonating law enforcement in India. This action was taken over a 12-week period starting in January. Most scam operations were traced to Southeast Asia, particularly Cambodia. Wh…
 
 
-### OTHER on 2026-04-28 13:55
-- Location: Streetsblog.org
-- Description: None
+### OTHER on 2026-04-28 19:10
+- Location: The Times of India
+- Description: WhatsApp has banned over 9,400 accounts involved in digital arrest scams and impersonating law enforcement in India. This action was taken over a 12-week period starting in January. Most scam operations were traced to Southeast Asia, particularly Cambodia. Wh…
 
 
-### HOMICIDE on 2026-04-28 13:54
-- Location: Dailymail.com
-- Description: White House Correspondents' Association Dinner suspected gunman Cole Thomas Allen said he wanted to kill all of the Trump administration's top officials, except one.
+### HOMICIDE on 2026-04-28 19:09
+- Location: Livejournal.com
+- Description: The Murder of Rachel Nickell | Official Trailer | NetflixA young mother is killed in broad daylight on London's Wimbledon Common — in front of her toddler. This documentary examines the yearslong murder case.Coming to Netflix on June 4th.
+The Witness | Offic…
 
-Analysis generated at: Wed Apr 29 14:10:53 UTC 2026
+Analysis generated at: Wed Apr 29 19:17:06 UTC 2026
