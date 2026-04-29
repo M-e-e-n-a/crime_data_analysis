@@ -1,10 +1,10 @@
 
-Loaded 101737 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-28 08:00:00
+Loaded 101816 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-28 13:31:37
 
 Incidents by source:
 source
-newsapi           101636
+newsapi           101715
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,29 +20,30 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-04-28 08:00
-- Location: CBC News
-- Description: Arya Farahani, the eldest son of the woman murdered in a stabbing police have determined a femicide, remembers his mother as “someone that would do anything for anybody.”
+### OTHER on 2026-04-28 13:31
+- Location: Dailymail.com
+- Description: Klaudia Zakrzewska, 32, from Essex, was struck by a car outside the Inca London nightclub in Soho in the early hours of Sunday morning, April 19.
 
 
-### HOMICIDE on 2026-04-28 08:00
-- Location: CBC News
-- Description: Arya Farahani, the eldest son of the woman murdered in a stabbing police have determined a femicide, remembers his mother as “someone that would do anything for anybody.”
+### OTHER on 2026-04-28 13:30
+- Location: ComicBook.com
+- Description: May is just a few days away, which means a new list of streaming titles is about to hit Netflix. Next month will be a big one as the streamer stocks everything from The Breakfast Club and Remarkably Bright Creatures to every season of NBC’s La Brea and two mo…
 
 
-### OTHER on 2026-04-28 07:59
-- Location: C21media.net
-- Description: Rogan Productions, the London-based company behind titles such as Grenfell: Uncovered (Netflix) and Boom Box: Beats & Betrayal (HBO Max), is expanding into drama for the first time with the appointment of Buccaneer Media alum Anna Burns as head of scripte
+### ASSAULT on 2026-04-28 13:21
+- Location: TheJournal.ie
+- Description: The accused is also alleged to have been involved in other attack plans abroad, including in Dubai and Istanbul though those attacks never materialised.
 
 
-### ASSAULT on 2026-04-28 07:57
-- Location: Internet
-- Description: A Chinese national accused of being a member of the Silk Typhoon hacking group has been extradited to the U.S. from Italy. 
-Xu Zewei, 34, was arrested in July 2025 by Italian authorities for his alleged links to the Chinese state-sponsored threat group and fo…
+### SHOOTING on 2026-04-28 13:17
+- Location: ABC News (AU)
+- Description: The elderly man opened fire at a social security agency and then a courthouse in Athens before fleeing the scene, police say.
 
 
-### OTHER on 2026-04-28 07:53
-- Location: Israelnationalnews.com
-- Description: Border Police motorcyclists in Baqa al-Gharbiyye began a high-speed pursuit after a suspected motorcyclist refused to stop.
+### ROBBERY/THEFT on 2026-04-28 13:00
+- Location: Brownstoner.com
+- Description: by Olivia Seaman & Gabriele Holtermann, Brooklyn Paper
+A crowd once again gathered outside a Bed Stuy home on Monday morning to defend its occupants against what they describe as an unfair eviction attempt and deed theft.
+Carmella Charrington, longtime reside…
 
-Analysis generated at: Wed Apr 29 08:07:38 UTC 2026
+Analysis generated at: Wed Apr 29 13:44:45 UTC 2026
