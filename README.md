@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Apr 30 02:28:26 UTC 2026
+Last updated: Thu Apr 30 03:38:48 UTC 2026
 
 ## Latest Analysis
 
-Loaded 101936 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-29 02:24:57
+Loaded 101942 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-29 03:07:30
 
 Incidents by source:
 source
-newsapi           101835
+newsapi           101841
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-04-29 02:24
-- Location: CBM (Comic Book Movie)
-- Description: The penultimate hour of Daredevil: Born Again season two featured a huge return and a deadly twist to end the episode as the stage is finally set for an epic showdown in next week's season finale.
+### HOMICIDE on 2026-04-29 03:07
+- Location: Dailymail.com
+- Description: What led Bryan Kohberger to finally plead guilty? And, if the case had gone to trial, is it possible the key piece of evidence would have been thrown out - and he could have gotten away with murder?
 
 
-### OTHER on 2026-04-29 02:23
-- Location: Screen Rant
-- Description: Daredevil: Born Again season 2, episode 7 has been released, featuring some great Easter eggs, MCU connections, and nods to the previous Netflix era.
+### HOMICIDE on 2026-04-29 02:46
+- Location: ABC News (AU)
+- Description: Police allege Keith Lees killed Meaghan Louise Rose, whose body was found at the base of cliffs on the Sunshine Coast in July 1997.
 
 
-### OTHER on 2026-04-29 02:22
+### ASSAULT on 2026-04-29 02:44
+- Location: Dailymail.com
+- Description: Customers and staff at café La Vallee in Essendon, north Melbourne, were horrified when the incident occurred just after lunchtime on Anzac Day.
+
+
+### OTHER on 2026-04-29 02:38
 - Location: Abcnews.com
-- Description: ABC News’ Ike Ejiochi spoke with Joby Aviation’s Chief Product Officer Eric Allison about the company’s innovative air taxis, addressing safety concerns and possible future routes and costs.
+- Description: A review of some cases cited by acting AG Todd Blanche as being similar to the indictment against James Comey suggests the Comey case could face a steeper hurdle.
 
 
-### OTHER on 2026-04-29 02:21
-- Location: Juancole.com
-- Description: it’s easy to overlook new human rights violations because there are so many. Violations of the rule of law became the air Americans breathe
+### HOMICIDE on 2026-04-29 02:37
+- Location: New York Post
+- Description: Nearly a year after a deadly burst of gunfire shattered a quiet Baldwin Park neighborhood, authorities have released chilling bodycam video and audio revealing the chaotic moments when the gunman opened fire on police.
 
-
-### OTHER on 2026-04-29 02:15
-- Location: Screen Rant
-- Description: Prime Video’s Reacher is finally reaching the end of a crucial era in 2026, revealing how Alan Ritchson’s character will never be the same again.
-
-Analysis generated at: Thu Apr 30 02:28:26 UTC 2026
+Analysis generated at: Thu Apr 30 03:38:48 UTC 2026
