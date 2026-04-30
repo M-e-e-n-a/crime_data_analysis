@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Apr 29 19:17:06 UTC 2026
+Last updated: Thu Apr 30 02:28:26 UTC 2026
 
 ## Latest Analysis
 
-Loaded 101921 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-28 19:12:08
+Loaded 101936 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-29 02:24:57
 
 Incidents by source:
 source
-newsapi           101820
+newsapi           101835
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-04-28 19:12
-- Location: New York Post
-- Description: The teen victim was blasted in the neck and back around 6 p.m. Monday on board a northbound A train approaching 80th Street in Ozone Park, police said.
+### HOMICIDE on 2026-04-29 02:24
+- Location: CBM (Comic Book Movie)
+- Description: The penultimate hour of Daredevil: Born Again season two featured a huge return and a deadly twist to end the episode as the stage is finally set for an epic showdown in next week's season finale.
 
 
-### OTHER on 2026-04-28 19:11
-- Location: ComicBook.com
-- Description: The anime industry has hit some major heights in recent years, causing the medium to appear in places that fans might not expect. While North American sports teams have collaborated with Jujutsu Kaisen, One Piece, and Dragon Ball, to name a few, Japan still h…
+### OTHER on 2026-04-29 02:23
+- Location: Screen Rant
+- Description: Daredevil: Born Again season 2, episode 7 has been released, featuring some great Easter eggs, MCU connections, and nods to the previous Netflix era.
 
 
-### OTHER on 2026-04-28 19:10
-- Location: The Times of India
-- Description: WhatsApp has banned over 9,400 accounts involved in digital arrest scams and impersonating law enforcement in India. This action was taken over a 12-week period starting in January. Most scam operations were traced to Southeast Asia, particularly Cambodia. Wh…
+### OTHER on 2026-04-29 02:22
+- Location: Abcnews.com
+- Description: ABC News’ Ike Ejiochi spoke with Joby Aviation’s Chief Product Officer Eric Allison about the company’s innovative air taxis, addressing safety concerns and possible future routes and costs.
 
 
-### OTHER on 2026-04-28 19:10
-- Location: The Times of India
-- Description: WhatsApp has banned over 9,400 accounts involved in digital arrest scams and impersonating law enforcement in India. This action was taken over a 12-week period starting in January. Most scam operations were traced to Southeast Asia, particularly Cambodia. Wh…
+### OTHER on 2026-04-29 02:21
+- Location: Juancole.com
+- Description: it’s easy to overlook new human rights violations because there are so many. Violations of the rule of law became the air Americans breathe
 
 
-### HOMICIDE on 2026-04-28 19:09
-- Location: Livejournal.com
-- Description: The Murder of Rachel Nickell | Official Trailer | NetflixA young mother is killed in broad daylight on London's Wimbledon Common — in front of her toddler. This documentary examines the yearslong murder case.Coming to Netflix on June 4th.
-The Witness | Offic…
+### OTHER on 2026-04-29 02:15
+- Location: Screen Rant
+- Description: Prime Video’s Reacher is finally reaching the end of a crucial era in 2026, revealing how Alan Ritchson’s character will never be the same again.
 
-Analysis generated at: Wed Apr 29 19:17:06 UTC 2026
+Analysis generated at: Thu Apr 30 02:28:26 UTC 2026
