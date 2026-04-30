@@ -1,10 +1,10 @@
 
-Loaded 102078 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-29 14:07:22
+Loaded 102170 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-29 19:08:34
 
 Incidents by source:
 source
-newsapi           101977
+newsapi           102069
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,33 @@ ion.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-04-29 14:07
-- Location: CBC News
-- Description: After one of the worst mass shootings in Canadian history, in which eight victims died, multiple lawsuits have been filed against OpenAI in California "to pursue landmark damage awards," according to firm Rice Parsons Leoni & Elliott.
-
-
-### HOMICIDE on 2026-04-29 14:01
-- Location: The Times of India
-- Description: Lawsuits have been filed in a US court against OpenAI and its CEO Sam Altman. The suits claim the company knew about a shooter's violent plans eight months before a deadly attack in Tumbler Ridge, British Columbia. Relatives of the nine victims, including chi…
-
-
-### SHOOTING on 2026-04-29 14:00
+### OTHER on 2026-04-29 19:08
 - Location: Fox News
-- Description: Family says Pennsylvania mother Jessica Hilliard died a hero after she was shot while trying to protect another woman outside an Armstrong County bar.
+- Description: A 65-year-old repeat sex offender allegedly entered a child's bedroom naked. He is now held on $1.25 million bond in Douglas County Corrections.
 
 
-### SHOOTING on 2026-04-29 14:00
-- Location: New York Post
-- Description: "They did the math and decided that the safety of the children of Tumbler Ridge was an acceptable risk.''
+### OTHER on 2026-04-29 19:01
+- Location: Vanguard
+- Description: The Nigerian Army, on Wednesday, confirmed before the Federal High Court in Abuja that there was indeed a plot to overthrow the administration of President Bola Tinubu through a coup d'état.
+The post How we uncovered plot to overthrow Tinubu, Army tells court…
 
 
-### OTHER on 2026-04-29 14:00
-- Location: Activistpost.com
-- Description: Physically AND metaphorically… WhatsApp promises end-to-end encryption. Signal promises it. iMessage promises it. And you know what? They’re telling the truth. What you say is private. The actual content of your messages – scrambled into mathematical gibberis…
+### SHOOTING on 2026-04-29 18:58
+- Location: Gothamist
+- Description: The 80th Street station on the A train line in Queens on June 22, 2018
+ 
 
-Analysis generated at: Thu Apr 30 14:09:02 UTC 2026
+“He might not live,” the boy’s aunt said. [ more › ]
+
+
+### HOMICIDE on 2026-04-29 18:57
+- Location: Breitbart News
+- Description: An illegal alien is accused of viciously attacking his ex-girlfriend and a man with a machete in Green Bay, Wisconsin. 
+The post ‘Green Bay Man’ Accused of Trying to Murder Ex-Girlfriend with a Machete Is an Illegal Alien appeared first on Breitbart.
+
+
+### OTHER on 2026-04-29 18:55
+- Location: News24
+- Description: The Ekangala Magistrate’s Court has sentenced a 37-year-old man to life imprisonment for the rape of his 13-year-old stepdaughter.
+
+Analysis generated at: Thu Apr 30 19:12:45 UTC 2026
