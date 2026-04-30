@@ -1,10 +1,10 @@
 
-Loaded 101983 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-29 08:08:52
+Loaded 102065 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-29 13:26:26
 
 Incidents by source:
 source
-newsapi           101882
+newsapi           101964
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,33 @@ ion.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2026-04-29 08:08
-- Location: Abcnews.com
-- Description: An Indonesian military court has opened the trial of four service members accused of carrying out an acid attack on a prominent human rights activist
-
-
-### HOMICIDE on 2026-04-29 08:02
+### OTHER on 2026-04-29 13:26
 - Location: Dailymail.com
-- Description: Rachel Nickell, 23, was stabbed 49 times on Wimbledon Common in London in front of her two-year-old son Alex Hanscombe as they walked their dog Molly on July 15, 1992.
+- Description: Mohamed Sellaoui, 19, wrenched the luxury watch from Jiangfeng Ni's wrist as he walked out of Langan's Brasserie on February 26, 2024. He will not receive extra jail time after stealing a backpack.
 
 
-### HOMICIDE on 2026-04-29 07:47
-- Location: ABC News (AU)
-- Description: Tyler Scott Willian James has been charged with the murder of his ex-partner Kiesha Thompson, 23, who was struck by a vehicle in July, 2024.
+### OTHER on 2026-04-29 13:22
+- Location: PCMag.com
+- Description: From AI-powered scam detection to data removal and remote access blocking, here are the best tools to help protect your identity, money, and more.
+How Scam Protection Tools Actually Keep You SafeHere’s a look at some of the most common features found in scam …
 
 
-### ROBBERY/THEFT on 2026-04-29 07:41
-- Location: The Times of India
-- Description: In a shocking incident, unidentified thieves stole a seized motorcycle from within the Sadar Police Station in Barmer. The theft came to light when the bike's owner arrived with a court order to reclaim his vehicle. CCTV footage is being examined to identify …
+### OTHER on 2026-04-29 13:22
+- Location: PCMag.com
+- Description: From AI-powered scam detection to data removal and remote access blocking, here are the best tools to help protect your identity, money, and more.
+How Scam Protection Tools Actually Keep You SafeHere’s a look at some of the most common features found in scam …
 
 
-### OTHER on 2026-04-29 07:38
-- Location: Ibtimes.com.au
-- Description: ALICE SPRINGS, Australia — Northern Territory Police say they still believe missing five-year-old Sharon Granites is alive as the desperate search for the girl entered its fourth day Wednesday, with disturbing new items found near a riverbank and a massive op…
+### OTHER on 2026-04-29 13:14
+- Location: Globalresearch.ca
+- Description: “Life flourishes when its systems communicate, cooperate, and remain in balance. Love is the name we give to that state of coherence.”  — Gary Null, PhD
+The Word and the Wound
+In poems and sonnets, in all of literature, in …
+The post The Love We Speak and  th…
 
-Analysis generated at: Thu Apr 30 08:11:53 UTC 2026
+
+### ROBBERY/THEFT on 2026-04-29 13:06
+- Location: The Local Germany
+- Description: Prosecutors on Wednesday called for a former member of Germany's far-left Red Army Faction militant group to be sentenced to 15 years in jail for a series of armed robberies said to have been carried out to support herself while she was on the run.
+
+Analysis generated at: Thu Apr 30 13:29:53 UTC 2026
