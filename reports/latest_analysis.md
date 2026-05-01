@@ -1,10 +1,10 @@
 
-Loaded 102317 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-30 13:03:25
+Loaded 102319 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-30 13:21:59
 
 Incidents by source:
 source
-newsapi           102216
+newsapi           102218
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -19,6 +19,16 @@ ion.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### HOMICIDE on 2026-04-30 13:21
+- Location: Dailymail.com
+- Description: Mother-of-two Patricia Hall (pictured), 39, from Pudsey in West Yorkshire, disappeared in 1992.
+
+
+### OTHER on 2026-04-30 13:08
+- Location: GamesRadar+
+- Description: 50 gallons of slime and 500 gallons of fake blood: a set visit report from the Resident Evil movie
+
 
 ### OTHER on 2026-04-30 13:03
 - Location: Newseisamay.com
@@ -37,14 +47,4 @@ ion.svg)
 
 Gov. Hochul and lawmakers are closing in on immigration package as part of state budget. [ more › ]
 
-
-### ASSAULT on 2026-04-30 12:55
-- Location: Israelnationalnews.com
-- Description: Bodycam footage shows police arresting knife-wielding man who allegedly stabbed two Jewish Londoners in Golders Green.
-
-
-### OTHER on 2026-04-30 12:54
-- Location: Dailymail.com
-- Description: Two Green Party candidates were arrested by the Metropolitan Police today on suspicion of stirring up racial hatred after allegedly posting anti-Semitic comments online.
-
-Analysis generated at: Fri May  1 13:07:47 UTC 2026
+Analysis generated at: Fri May  1 13:29:13 UTC 2026
