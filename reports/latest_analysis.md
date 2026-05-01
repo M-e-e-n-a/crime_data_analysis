@@ -1,10 +1,10 @@
 
-Loaded 102197 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-30 03:43:28
+Loaded 102248 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-30 08:00:00
 
 Incidents by source:
 source
-newsapi           102096
+newsapi           102147
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### DRUG RELATED on 2026-04-30 03:43
-- Location: ABC News (AU)
-- Description: The indictment is a significant escalation of US anti-cartel action that is likely to increase tensions between the United States and Mexico.
-
-
-### HOMICIDE on 2026-04-30 03:29
-- Location: Dailymail.com
-- Description: The Australian man murdered 51 worshippers and injured dozens more in March 2019 at two mosques in Christchurch, New Zealand.
-
-
-### SHOOTING on 2026-04-30 03:26
-- Location: Japan Today
-- Description: An interim report into last year's Bondi Beach mass shooting on Thursday advised increased security around ‌Jewish public events and further gun reforms among 14 initial recommendations, but found Australia's legal and regulatory frameworks did not hinder sec…
-
-
-### DRUG RELATED on 2026-04-30 03:12
-- Location: Al Jazeera English
-- Description: Indictment alleges that Governor Ruben Rocha Moya and other current and former officials worked with cartel leaders.
-
-
-### SHOOTING on 2026-04-30 02:53
+### OTHER on 2026-04-30 08:00
 - Location: CBC News
-- Description: An interim report into last year's Bondi Beach mass shooting advises increased security around Jewish public events and further gun reforms among 14 initial recommendations, but found Australia's legal and regulatory frameworks did ‌not hinder security agenci…
+- Description: The Liberal government is looking to set up a new federal law enforcement agency dedicated to financial crimes, a dramatic undertaking to shake up how money laundering and fraud is investigated are Canada.
 
-Analysis generated at: Fri May  1 03:51:14 UTC 2026
+
+### SHOOTING on 2026-04-30 08:00
+- Location: CBC News
+- Description: The former official told the fifth estate that he believes the threats are connected to his involvement in a deal between Cricket Canada and an outside business group looking to hold cricket tournaments sanctioned by the sport's governing body.
+
+
+### OTHER on 2026-04-30 07:59
+- Location: Thechronicle.com.gh
+- Description: Former Managing Director of GIHOC Distilleries Company Limited, Maxwell Kofi Jumah, has been arrested by the Economic and Organised Crime Office (EOCO), in connection with an ongoing investigation into suspected financial irregularities. Sources within EOCO i…
+
+
+### ROBBERY/THEFT on 2026-04-30 07:55
+- Location: Boredpanda.com
+- Description: Office food theft should be a criminal offense, especially when the culprit is a repeat offender. But we all know that the police have a lot more important matters to deal with, and often, so does HR. When someone kept drinking his iced sweet tea at work, one…
+
+
+### HOMICIDE on 2026-04-30 07:38
+- Location: Japan Today
+- Description: Police in Mishima City, Shizuoka Prefecture, have arrested a 28-year-old man on suspicion of attempting to kill his 24-year-old wife. According to police, the man, who says he is a construction worker, is accused of attempting to strangle his wife at their ap…
+
+Analysis generated at: Fri May  1 08:06:51 UTC 2026
