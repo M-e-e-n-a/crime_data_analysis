@@ -1,10 +1,10 @@
 
-Loaded 102248 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-30 08:00:00
+Loaded 102317 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-30 13:03:25
 
 Incidents by source:
 source
-newsapi           102147
+newsapi           102216
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,31 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-04-30 08:00
-- Location: CBC News
-- Description: The Liberal government is looking to set up a new federal law enforcement agency dedicated to financial crimes, a dramatic undertaking to shake up how money laundering and fraud is investigated are Canada.
+### OTHER on 2026-04-30 13:03
+- Location: Newseisamay.com
+- Description: Daredevil: Born Again Episode 7: What shocking twists make this episod :: News Ei Samaynewseisamay.com
 
 
-### SHOOTING on 2026-04-30 08:00
-- Location: CBC News
-- Description: The former official told the fifth estate that he believes the threats are connected to his involvement in a deal between Cricket Canada and an outside business group looking to hold cricket tournaments sanctioned by the sport's governing body.
+### ROBBERY/THEFT on 2026-04-30 13:02
+- Location: CNA
+- Description: PARIS, April 30 : The Paris prosecutor's office has opened an investigation into a 15-year-old, suspected of having hacked the country's ID agency and trying to sell the data of millions of French people on the dark web this month, it said on Thursday.The tee…
 
 
-### OTHER on 2026-04-30 07:59
-- Location: Thechronicle.com.gh
-- Description: Former Managing Director of GIHOC Distilleries Company Limited, Maxwell Kofi Jumah, has been arrested by the Economic and Organised Crime Office (EOCO), in connection with an ongoing investigation into suspected financial irregularities. Sources within EOCO i…
+### OTHER on 2026-04-30 12:57
+- Location: Gothamist
+- Description: Sheriffs from around New York lobbied Tuesday at the state capitol.
+ 
+
+Gov. Hochul and lawmakers are closing in on immigration package as part of state budget. [ more › ]
 
 
-### ROBBERY/THEFT on 2026-04-30 07:55
-- Location: Boredpanda.com
-- Description: Office food theft should be a criminal offense, especially when the culprit is a repeat offender. But we all know that the police have a lot more important matters to deal with, and often, so does HR. When someone kept drinking his iced sweet tea at work, one…
+### ASSAULT on 2026-04-30 12:55
+- Location: Israelnationalnews.com
+- Description: Bodycam footage shows police arresting knife-wielding man who allegedly stabbed two Jewish Londoners in Golders Green.
 
 
-### HOMICIDE on 2026-04-30 07:38
-- Location: Japan Today
-- Description: Police in Mishima City, Shizuoka Prefecture, have arrested a 28-year-old man on suspicion of attempting to kill his 24-year-old wife. According to police, the man, who says he is a construction worker, is accused of attempting to strangle his wife at their ap…
+### OTHER on 2026-04-30 12:54
+- Location: Dailymail.com
+- Description: Two Green Party candidates were arrested by the Metropolitan Police today on suspicion of stirring up racial hatred after allegedly posting anti-Semitic comments online.
 
-Analysis generated at: Fri May  1 08:06:51 UTC 2026
+Analysis generated at: Fri May  1 13:07:47 UTC 2026
