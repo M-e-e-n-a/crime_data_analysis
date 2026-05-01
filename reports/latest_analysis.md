@@ -1,10 +1,10 @@
 
-Loaded 102170 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-29 19:08:34
+Loaded 102189 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-30 02:06:16
 
 Incidents by source:
 source
-newsapi           102069
+newsapi           102088
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,33 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-04-29 19:08
-- Location: Fox News
-- Description: A 65-year-old repeat sex offender allegedly entered a child's bedroom naked. He is now held on $1.25 million bond in Douglas County Corrections.
+### HOMICIDE on 2026-04-30 02:06
+- Location: Abcnews.com
+- Description: D4vd was charged last week with the murder of Celeste Rivas Hernandez following a monthslong investigation.
 
 
-### OTHER on 2026-04-29 19:01
-- Location: Vanguard
-- Description: The Nigerian Army, on Wednesday, confirmed before the Federal High Court in Abuja that there was indeed a plot to overthrow the administration of President Bola Tinubu through a coup d'état.
-The post How we uncovered plot to overthrow Tinubu, Army tells court…
+### HOMICIDE on 2026-04-30 01:45
+- Location: New York Post
+- Description: A beloved culinary teacher was allegedly stabbed to death by her enraged husband who she was planning to leave — with her horrified daughter witnessing her tragic final moments, court documents revealed.
 
 
-### SHOOTING on 2026-04-29 18:58
-- Location: Gothamist
-- Description: The 80th Street station on the A train line in Queens on June 22, 2018
- 
-
-“He might not live,” the boy’s aunt said. [ more › ]
+### HOMICIDE on 2026-04-30 01:40
+- Location: Deadline
+- Description: WARNING: This article contains graphic & disturbing details of an alleged murder & sexual abuse of a minor. D4vd’s preliminary hearing in downtown LA today for the alleged murder and sexual abuse of teen Celeste Rivas Hernandez was fleeting. However, a grisly…
 
 
-### HOMICIDE on 2026-04-29 18:57
-- Location: Breitbart News
-- Description: An illegal alien is accused of viciously attacking his ex-girlfriend and a man with a machete in Green Bay, Wisconsin. 
-The post ‘Green Bay Man’ Accused of Trying to Murder Ex-Girlfriend with a Machete Is an Illegal Alien appeared first on Breitbart.
+### OTHER on 2026-04-30 01:14
+- Location: KPBS
+- Description: City leaders say police are being asked to choose whether to follow state or federal law.
 
 
-### OTHER on 2026-04-29 18:55
-- Location: News24
-- Description: The Ekangala Magistrate’s Court has sentenced a 37-year-old man to life imprisonment for the rape of his 13-year-old stepdaughter.
+### HOMICIDE on 2026-04-30 00:51
+- Location: Dailymail.com
+- Description: Coleen Lamarre, a former NSW Police Force employee, was arrested at her Balmain home in Sydney 's inner-west about 11.15am on Wednesday and refused bail to appear in court on Thursday.
 
-Analysis generated at: Thu Apr 30 19:12:45 UTC 2026
+Analysis generated at: Fri May  1 02:33:07 UTC 2026
