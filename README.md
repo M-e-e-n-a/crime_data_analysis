@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri May  1 13:29:13 UTC 2026
+Last updated: Fri May  1 19:04:27 UTC 2026
 
 ## Latest Analysis
 
-Loaded 102319 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-30 13:21:59
+Loaded 102415 incidents
+Date range: 2024-01-01 00:00:00 to 2026-04-30 19:03:41
 
 Incidents by source:
 source
-newsapi           102218
+newsapi           102314
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,31 +24,31 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-04-30 13:21
+### HOMICIDE on 2026-04-30 19:03
 - Location: Dailymail.com
-- Description: Mother-of-two Patricia Hall (pictured), 39, from Pudsey in West Yorkshire, disappeared in 1992.
+- Description: Bouncing up and down excitedly, this is Preston Davey enjoying a nursery rhyme on television just days after being adopted by a teacher who allegedly went on to sexually abuse and murder him.
 
 
-### OTHER on 2026-04-30 13:08
-- Location: GamesRadar+
-- Description: 50 gallons of slime and 500 gallons of fake blood: a set visit report from the Resident Evil movie
+### HOMICIDE on 2026-04-30 18:40
+- Location: The Times of India
+- Description: Patna: The accused in the murder of former MLC and BJP leader Manoj Kumar Singh’s nephew during a road rage incident in Siwan district was shot and in.
 
 
-### OTHER on 2026-04-30 13:03
-- Location: Newseisamay.com
-- Description: Daredevil: Born Again Episode 7: What shocking twists make this episod :: News Ei Samaynewseisamay.com
+### ASSAULT on 2026-04-30 18:33
+- Location: BBC News
+- Description: Sir Mark Rowley says he is "disappointed" that Green Party leader Zack Polanski shared a post condemning how police subdued the suspect.
 
 
-### ROBBERY/THEFT on 2026-04-30 13:02
-- Location: CNA
-- Description: PARIS, April 30 : The Paris prosecutor's office has opened an investigation into a 15-year-old, suspected of having hacked the country's ID agency and trying to sell the data of millions of French people on the dark web this month, it said on Thursday.The tee…
-
-
-### OTHER on 2026-04-30 12:57
+### SHOOTING on 2026-04-30 18:31
 - Location: Gothamist
-- Description: Sheriffs from around New York lobbied Tuesday at the state capitol.
+- Description: The 80th Street station on the A train line in Queens on June 22, 2018
  
 
-Gov. Hochul and lawmakers are closing in on immigration package as part of state budget. [ more › ]
+Police say the 16-year-old brought the gun used in the subway shooting. [ more › ]
 
-Analysis generated at: Fri May  1 13:29:13 UTC 2026
+
+### HOMICIDE on 2026-04-30 18:31
+- Location: The Times of India
+- Description: Bulandshahr gym triple murder: main accused Jeetu Saini, wanted with ₹50,000 reward, killed in police encounter; two cops injured, accomplice escaped.
+
+Analysis generated at: Fri May  1 19:04:27 UTC 2026
