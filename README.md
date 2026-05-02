@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat May  2 12:57:46 UTC 2026
+Last updated: Sat May  2 13:23:37 UTC 2026
 
 ## Latest Analysis
 
-Loaded 102558 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-01 12:40:25
+Loaded 102567 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-01 13:19:56
 
 Incidents by source:
 source
-newsapi           102457
+newsapi           102466
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,30 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-05-01 12:40
-- Location: Independent.ie
-- Description: The driver of a 4×4 that crashed into a south-east London primary school has been charged with causing death by dangerous driving after two eight-year-old girls were killed.
+### HOMICIDE on 2026-05-01 13:19
+- Location: Dailymail.com
+- Description: A teacher accused of sexually assaulting and murdering a baby he was adopting texted his partner saying: 'Your son's in hospital, I strangled him', a court heard.
 
 
-### OTHER on 2026-05-01 12:25
-- Location: The Verge
-- Description: I haven't quite figured out the reason why, but for the last few years, summer has become the moment for new science fiction shows on streaming services. And 2026 isn't any different - aside from the fact that premiere dates seem to be moving up a little. Thi…
+### HOMICIDE on 2026-05-01 13:18
+- Location: Dailymail.com
+- Description: The Australian mum-of-two was allegedly found unresponsive with multiple stab wounds in a bathtub at the Florida home she shared with her husband.
 
 
-### OTHER on 2026-05-01 12:16
-- Location: The Times of India
-- Description: The Supreme Court's recent decision to grant anticipatory bail to Congress leader Pawan Khera marks a pivotal moment in a case that ignited significant political tension. The allegations initiated by the wife of Assam’s Chief Minister, concerning Khera's owne…
+### ROBBERY/THEFT on 2026-05-01 13:14
+- Location: PCMag.com
+- Description: Hackers stole millions of customer records from ADT, scraped user data from Vimeo, and a rogue AI wiped out a company database—and that's just the tip of the infosec iceberg this week.
+It’s been another big week for hacks, as the ShinyHunters ransomware group…
 
 
-### SHOOTING on 2026-05-01 12:07
-- Location: CBS News
-- Description: Amtrak may ease rules on guns on its trains, sources say. Critics worry that would weaken security even though, authorities say, the accused correspondents' dinner shooter took Amtrak cross-country with his firearms.
+### ROBBERY/THEFT on 2026-05-01 13:14
+- Location: PCMag.com
+- Description: Hackers stole millions of customer records from ADT, scraped user data from Vimeo, and a rogue AI wiped out a company database—and that's just the tip of the infosec iceberg this week.
+It’s been another big week for hacks, as the ShinyHunters ransomware group…
 
 
-### OTHER on 2026-05-01 12:03
-- Location: Dineshkhabar.com
-- Description: Kanchanpur: Police have arrested 36-year-old Bhoj Nath after he allegedly tied up and severely beat a 9-year-old boy in Polkhari, Bedkot Municipality-5, Kanchanpur. Police said he was taken into custody after a video of the incident went viral on social media…
+### OTHER on 2026-05-01 13:13
+- Location: Abcnews.com
+- Description: Renewal wait times for the Obama-era program that allows people who were brought to the U.S. as children to temporarily remain in the country and work have increased dramatically in the past year
 
-Analysis generated at: Sat May  2 12:57:46 UTC 2026
+Analysis generated at: Sat May  2 13:23:37 UTC 2026
