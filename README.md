@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat May  2 02:09:38 UTC 2026
+Last updated: Sat May  2 03:25:01 UTC 2026
 
 ## Latest Analysis
 
-Loaded 102437 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-01 02:03:11
+Loaded 102448 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-01 03:02:20
 
 Incidents by source:
 source
-newsapi           102336
+newsapi           102347
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-05-01 02:03
-- Location: Fox News
-- Description: Former CHP colleagues testify at alleged hitman's trial that Capt. Julie Harding spiraled before her estranged husband was fatally shot in Tennessee.
+### OTHER on 2026-05-01 03:02
+- Location: Mobileread.com
+- Description: Short Fiction Anderson, Frederick Irving: The Phantom Alibi and other stories, v1, 1 May 2026 Other Books
 
 
-### HOMICIDE on 2026-05-01 01:46
-- Location: Dailymail.com
-- Description: Alice Springs erupted in flames after vigilantes found suspected killer Jefferson Lewis at Charles Creek town camp, where he was bashed unconcious before cops arrived.
+### OTHER on 2026-05-01 03:01
+- Location: Mobileread.com
+- Description: Anderson, 1877-1947, a New York journalist and fiction writer, published many short stories, particularly in The Saturday Evening Post. Most of them are collected in three collections: Adventure of the Infallible Godahl, The Notorious Sophie Lang and The Book…
 
 
-### ROBBERY/THEFT on 2026-05-01 01:45
-- Location: New York Post
-- Description: An unidentified man threw a 39-year-old man on the tracks at the East 149 Street subway station on Tuesday evening.
+### OTHER on 2026-05-01 03:01
+- Location: Mobileread.com
+- Description: Short Fiction Anderson, Frederick Irving: The Phantom Alibi and other stories, v1, 1 May 2026 Kindle Books
 
 
-### HOMICIDE on 2026-05-01 01:44
-- Location: Fox News
-- Description: A Louisiana grandmother is on trial for first-degree murder, accused of forcing her 4-year-old granddaughter to drink whiskey as a punishment.
+### OTHER on 2026-05-01 02:59
+- Location: Mobileread.com
+- Description: Short Fiction Anderson, Frederick Irving: The Phantom Alibi and other stories, v1, 1 May 2026 ePub Books
 
 
-### ROBBERY/THEFT on 2026-05-01 01:43
-- Location: New York Post
-- Description: A Northern California community is outraged after thieves stole bronze stars from city buildings and memorials honoring fallen officers and soldiers in Solano county.
+### OTHER on 2026-05-01 02:52
+- Location: ABC News (AU)
+- Description: About $3.7 billion of National Disability Insurance Scheme money was handed out inappropriately last financial year, the scheme's integrity chief has told a parliamentary hearing.
 
-Analysis generated at: Sat May  2 02:09:38 UTC 2026
+Analysis generated at: Sat May  2 03:25:01 UTC 2026
