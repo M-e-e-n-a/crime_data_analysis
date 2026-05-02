@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat May  2 03:25:01 UTC 2026
+Last updated: Sat May  2 07:25:11 UTC 2026
 
 ## Latest Analysis
 
-Loaded 102448 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-01 03:02:20
+Loaded 102485 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-01 07:23:03
 
 Incidents by source:
 source
-newsapi           102347
+newsapi           102384
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-05-01 03:02
-- Location: Mobileread.com
-- Description: Short Fiction Anderson, Frederick Irving: The Phantom Alibi and other stories, v1, 1 May 2026 Other Books
+### HOMICIDE on 2026-05-01 07:23
+- Location: Japan Today
+- Description: Police in Toyota City, Aichi Prefecture, on Friday appealed to the public for any information that might help apprehend the person or persons who killed a 15-year-old girl in 2008. Each year (except 2020 and 2021) since the murder of Manami Shimizu, police ha…
 
 
-### OTHER on 2026-05-01 03:01
-- Location: Mobileread.com
-- Description: Anderson, 1877-1947, a New York journalist and fiction writer, published many short stories, particularly in The Saturday Evening Post. Most of them are collected in three collections: Adventure of the Infallible Godahl, The Notorious Sophie Lang and The Book…
+### OTHER on 2026-05-01 07:13
+- Location: LADbible
+- Description: It changed her life forever
 
 
-### OTHER on 2026-05-01 03:01
-- Location: Mobileread.com
-- Description: Short Fiction Anderson, Frederick Irving: The Phantom Alibi and other stories, v1, 1 May 2026 Kindle Books
+### SHOOTING on 2026-05-01 07:09
+- Location: Israelnationalnews.com
+- Description: Security videos show suspect Cole Thomas Allen entering venue, bypassing checkpoint, and rushing armed toward event before being engaged by security forces.
 
 
-### OTHER on 2026-05-01 02:59
-- Location: Mobileread.com
-- Description: Short Fiction Anderson, Frederick Irving: The Phantom Alibi and other stories, v1, 1 May 2026 ePub Books
-
-
-### OTHER on 2026-05-01 02:52
+### HOMICIDE on 2026-05-01 07:02
 - Location: ABC News (AU)
-- Description: About $3.7 billion of National Disability Insurance Scheme money was handed out inappropriately last financial year, the scheme's integrity chief has told a parliamentary hearing.
+- Description: A coronial inquest hears letters that arrived three days after an apparent murder-suicide in Lismore outlined a father's deadly plans.
 
-Analysis generated at: Sat May  2 03:25:01 UTC 2026
+
+### HOMICIDE on 2026-05-01 07:00
+- Location: Abcnews.com
+- Description: A 45-year-old man has been charged with attempted murder in the stabbings of two Jewish men in London
+
+Analysis generated at: Sat May  2 07:25:11 UTC 2026
