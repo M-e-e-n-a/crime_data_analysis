@@ -1,10 +1,10 @@
 
-Loaded 102415 incidents
-Date range: 2024-01-01 00:00:00 to 2026-04-30 19:03:41
+Loaded 102437 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-01 02:03:11
 
 Incidents by source:
 source
-newsapi           102314
+newsapi           102336
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,31 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-04-30 19:03
+### HOMICIDE on 2026-05-01 02:03
+- Location: Fox News
+- Description: Former CHP colleagues testify at alleged hitman's trial that Capt. Julie Harding spiraled before her estranged husband was fatally shot in Tennessee.
+
+
+### HOMICIDE on 2026-05-01 01:46
 - Location: Dailymail.com
-- Description: Bouncing up and down excitedly, this is Preston Davey enjoying a nursery rhyme on television just days after being adopted by a teacher who allegedly went on to sexually abuse and murder him.
+- Description: Alice Springs erupted in flames after vigilantes found suspected killer Jefferson Lewis at Charles Creek town camp, where he was bashed unconcious before cops arrived.
 
 
-### HOMICIDE on 2026-04-30 18:40
-- Location: The Times of India
-- Description: Patna: The accused in the murder of former MLC and BJP leader Manoj Kumar Singh’s nephew during a road rage incident in Siwan district was shot and in.
+### ROBBERY/THEFT on 2026-05-01 01:45
+- Location: New York Post
+- Description: An unidentified man threw a 39-year-old man on the tracks at the East 149 Street subway station on Tuesday evening.
 
 
-### ASSAULT on 2026-04-30 18:33
-- Location: BBC News
-- Description: Sir Mark Rowley says he is "disappointed" that Green Party leader Zack Polanski shared a post condemning how police subdued the suspect.
+### HOMICIDE on 2026-05-01 01:44
+- Location: Fox News
+- Description: A Louisiana grandmother is on trial for first-degree murder, accused of forcing her 4-year-old granddaughter to drink whiskey as a punishment.
 
 
-### SHOOTING on 2026-04-30 18:31
-- Location: Gothamist
-- Description: The 80th Street station on the A train line in Queens on June 22, 2018
- 
+### ROBBERY/THEFT on 2026-05-01 01:43
+- Location: New York Post
+- Description: A Northern California community is outraged after thieves stole bronze stars from city buildings and memorials honoring fallen officers and soldiers in Solano county.
 
-Police say the 16-year-old brought the gun used in the subway shooting. [ more › ]
-
-
-### HOMICIDE on 2026-04-30 18:31
-- Location: The Times of India
-- Description: Bulandshahr gym triple murder: main accused Jeetu Saini, wanted with ₹50,000 reward, killed in police encounter; two cops injured, accomplice escaped.
-
-Analysis generated at: Fri May  1 19:04:27 UTC 2026
+Analysis generated at: Sat May  2 02:09:38 UTC 2026
