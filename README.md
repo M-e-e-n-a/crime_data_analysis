@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat May  2 18:51:06 UTC 2026
+Last updated: Sun May  3 02:15:57 UTC 2026
 
 ## Latest Analysis
 
-Loaded 102649 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-01 18:50:44
+Loaded 102661 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-02 01:58:07
 
 Incidents by source:
 source
-newsapi           102548
+newsapi           102560
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,31 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-05-01 18:50
-- Location: CBC News
-- Description: A first-degree murder trial that has spent a month navigating an incident in 2016 took a step back in time on Friday — and a step toward a different case — as the defence opened with its first witnesses.
-
-
-### OTHER on 2026-05-01 18:37
-- Location: 404media.co
-- Description: Residents of Dunwoody, Georgia are furious about the city's surveillance contract with Flock. Do their elected officials care?
-
-
-### HOMICIDE on 2026-05-01 18:34
-- Location: Dailymail.com
-- Description: Emails reveal Edward Rød-Larsen - who killed himself this week amid a police investigation into his family's ties to Epstein - received numerous favors from the convicted sex offender.
-
-
-### OTHER on 2026-05-01 18:25
-- Location: Gossiplankanews.com
-- Description: The police have recorded a statement from the Chief Incumbent of Atamasthana, Ven. Pallegama Hemarathana Thero, regarding an incident of severe sexual abuse of a fifteen-year-old minor girl. Yesterday, a team of Nittambuwa police officers went to Anuradhapura…
-
-
-### SHOOTING on 2026-05-01 18:22
+### SHOOTING on 2026-05-02 01:58
 - Location: New York Post
-- Description: The victim continued to struggle with the gunman before the shooter fired rounds into the man and fled down the street.
+- Description: Griffin yelled "I am Lucifer" twice before eerily stalking toward Giuffre, who then fired two shots, leaving the crazed perp flailing his legs while lying face down on the ground, according to the bodycam footage.
 
-Analysis generated at: Sat May  2 18:51:06 UTC 2026
+
+### OTHER on 2026-05-02 01:48
+- Location: TheWrap
+- Description: "It's nuts. Like, you're going after someone for something that's just silly," the podcaster adds
+The post Joe Rogan Sounds Off on Trump’s ‘Crazy’ Jimmy Kimmel and James Comey Drama | Video appeared first on TheWrap.
+
+
+### OTHER on 2026-05-02 01:21
+- Location: Dailymail.com
+- Description: The gang of menacing thugs was ruthless - and apparently free of any concerns for the well-being of their own children. That is before we come to their innocent victims
+
+
+### HOMICIDE on 2026-05-02 01:03
+- Location: Dailymail.com
+- Description: The suspect was arrested in the Dunmurry area under the Terrorism Act on Tuesday.
+
+
+### ASSAULT on 2026-05-02 00:50
+- Location: The Punch
+- Description: The Ekiti State Government has launched a full-scale surveillance operation to track bandits responsible for the recent Ekiti church attack in Eda Oniyo.
+
+Read More: https://punchng.com/army-tracks-ekiti-church-attackers/
+
+Analysis generated at: Sun May  3 02:15:57 UTC 2026
