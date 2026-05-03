@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun May  3 07:54:31 UTC 2026
+Last updated: Sun May  3 12:57:47 UTC 2026
 
 ## Latest Analysis
 
-Loaded 102682 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-02 07:42:37
+Loaded 102714 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-02 12:45:50
 
 Incidents by source:
 source
-newsapi           102581
+newsapi           102613
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-05-02 07:42
-- Location: Al Jazeera English
-- Description: At 44, Bukele has built the world’s highest imprisonment rate and scrapped presidential term limits. What comes next?
+### OTHER on 2026-05-02 12:45
+- Location: Freerepublic.com
+- Description: The prime minister has suggested there may be a case for banning some protests, following calls for a suspension of pro-Palestinian marches. Asked if he wanted tougher policing of language used during marches, or if he wanted to stop some protests altogether,…
 
 
-### HOMICIDE on 2026-05-02 07:39
-- Location: Vanguard
-- Description: Police describe it as “unexplainable”. Lawyers are demanding justice in the court of law. Civil society affirms it is nothing new
-The post Delta Daylight Murder: What have I done to police, killing my two sons — Grieving mother appeared first on Vanguard News.
-
-
-### SHOOTING on 2026-05-02 07:36
-- Location: The Punch
-- Description: A senior Bolivian judge was fatally shot by hitmen while riding in a taxi in the eastern city of Santa Cruz, police said on Friday. The shooting of Victor Hugo Claure, the most senior judge on Bolivia’s highest agro-environmental court, took place Thursday ni…
-
-
-### HOMICIDE on 2026-05-02 07:27
+### HOMICIDE on 2026-05-02 12:40
 - Location: Dailymail.com
-- Description: In a chilling twist, officers were called to the same small camp on the outskirts of Alice Springs on Anzac Day, where they spent time speaking with Jefferson Lewis.
+- Description: Scott Erickson acted casually just the day after he watched his lover Rebecca Grossman mow down two young boys at a crosswalk, his friend Royce Clayton told the jury.
 
 
-### OTHER on 2026-05-02 07:23
-- Location: Whereisthebuzz.com
-- Description: Michael Porter Jr., the Brooklyn Nets forward, was forced to vacate his house because social media influencer Celina Powell broke into the building, took possession of his address, and made… The post Celina Powell Allegedly Broke Into MPJ’s House and Leaked H…
+### HOMICIDE on 2026-05-02 12:35
+- Location: Dailymail.com
+- Description: Jamal Harris has this week been convicted of the murders of Jessica Troulliet, 35, and her father, Robert 'Robbie' Templet Jr, 56, in a New Orleans suburb.
 
-Analysis generated at: Sun May  3 07:54:31 UTC 2026
+
+### ASSAULT on 2026-05-02 12:19
+- Location: CBS News
+- Description: Keir Starmer said he would always defend the right to protest, but that there may be instances where some marches​ should be banned.
+
+
+### HOMICIDE on 2026-05-02 12:15
+- Location: Dailymail.com
+- Description: A Texas house party went awry when a gunman opened fire, killing two and injuring at least eight people in Amarillo around 2am on Saturday.
+
+Analysis generated at: Sun May  3 12:57:47 UTC 2026
