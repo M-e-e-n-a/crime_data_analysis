@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2026-05-04T13:30:44.266657</dc:date>
+    <dc:date>2026-05-04T14:13:51.228637</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -55,16 +55,16 @@ z
    </g>
    <g id="patch_3">
     <path d="M 502.053466 218.9811 
-C 502.054303 218.845607 502.054932 218.710112 502.055354 218.574617 
-C 502.055776 218.439122 502.055991 218.303626 502.056 218.16813 
+C 502.054303 218.845611 502.054932 218.71012 502.055354 218.574629 
+C 502.055776 218.439137 502.055991 218.303645 502.056 218.168153 
 L 369 218.16 
 z
 " style="fill: #bb9832"/>
    </g>
    <g id="patch_4">
-    <path d="M 502.056 218.16813 
-C 502.056 218.166775 502.056 218.16542 502.056 218.164065 
-C 502.056 218.16271 502.056 218.161355 502.056 218.16 
+    <path d="M 502.056 218.168153 
+C 502.056 218.166798 502.056 218.165444 502.056 218.164089 
+C 502.056 218.162734 502.056 218.161379 502.056 218.160024 
 L 369 218.16 
 z
 " style="fill: #50b131"/>
@@ -76,16 +76,16 @@ z
     <text style="fill: #262626; font: 10px 'Arial', 'Liberation Sans', 'DejaVu Sans', 'Bitstream Vera Sans', sans-serif; text-anchor: middle" x="289.16678" y="220.499606" transform="rotate(-0 289.16678 220.499606)">99.9%</text>
    </g>
    <g id="text_3">
-    <text style="fill: #262626; font: 10px 'Arial', 'Liberation Sans', 'DejaVu Sans', 'Bitstream Vera Sans', sans-serif; text-anchor: start" x="515.360889" y="221.202016" transform="rotate(-0 515.360889 221.202016)">chicago_pd</text>
+    <text style="fill: #262626; font: 10px 'Arial', 'Liberation Sans', 'DejaVu Sans', 'Bitstream Vera Sans', sans-serif; text-anchor: start" x="515.360889" y="221.202029" transform="rotate(-0 515.360889 221.202029)">chicago_pd</text>
    </g>
    <g id="text_4">
-    <text style="fill: #262626; font: 10px 'Arial', 'Liberation Sans', 'DejaVu Sans', 'Bitstream Vera Sans', sans-serif; text-anchor: middle" x="448.833212" y="220.994708" transform="rotate(-0 448.833212 220.994708)">0.1%</text>
+    <text style="fill: #262626; font: 10px 'Arial', 'Liberation Sans', 'DejaVu Sans', 'Bitstream Vera Sans', sans-serif; text-anchor: middle" x="448.833212" y="220.994715" transform="rotate(-0 448.833212 220.994715)">0.1%</text>
    </g>
    <g id="text_5">
-    <text style="fill: #262626; font: 10px 'Arial', 'Liberation Sans', 'DejaVu Sans', 'Bitstream Vera Sans', sans-serif; text-anchor: start" x="515.3616" y="220.750409" transform="rotate(-0 515.3616 220.750409)">chicago_police</text>
+    <text style="fill: #262626; font: 10px 'Arial', 'Liberation Sans', 'DejaVu Sans', 'Bitstream Vera Sans', sans-serif; text-anchor: start" x="515.3616" y="220.750435" transform="rotate(-0 515.3616 220.750435)">chicago_police</text>
    </g>
    <g id="text_6">
-    <text style="fill: #262626; font: 10px 'Arial', 'Liberation Sans', 'DejaVu Sans', 'Bitstream Vera Sans', sans-serif; text-anchor: middle" x="448.8336" y="220.748376" transform="rotate(-0 448.8336 220.748376)">0.0%</text>
+    <text style="fill: #262626; font: 10px 'Arial', 'Liberation Sans', 'DejaVu Sans', 'Bitstream Vera Sans', sans-serif; text-anchor: middle" x="448.8336" y="220.748391" transform="rotate(-0 448.8336 220.748391)">0.0%</text>
    </g>
    <g id="text_7">
     <text style="fill: #262626; font: 12px 'Arial', 'Liberation Sans', 'DejaVu Sans', 'Bitstream Vera Sans', sans-serif; text-anchor: middle" x="369" y="45.84" transform="rotate(-0 369 45.84)">Incidents by Source</text>
