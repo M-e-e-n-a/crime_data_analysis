@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon May  4 14:13:51 UTC 2026
+Last updated: Mon May  4 19:22:02 UTC 2026
 
 ## Latest Analysis
 
-Loaded 102837 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-03 14:00:24
+Loaded 102874 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-03 19:14:16
 
 Incidents by source:
 source
-newsapi           102736
+newsapi           102773
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-05-03 14:00
-- Location: Fox News
-- Description: On the anniversary of Logan Federico's death, calls grow for fixing the system that allegedly failed to stop a repeat offender from taking her life.
-
-
-### OTHER on 2026-05-03 14:00
-- Location: IndieWire
-- Description: This May on Netflix, Tina Fey takes another vacation, the "Adolescence" writer has a new (old) story about boys, and the "Stranger Things" producers have a new show about olds!
-
-
-### OTHER on 2026-05-03 13:41
+### ROBBERY/THEFT on 2026-05-03 19:14
 - Location: Dailymail.com
-- Description: The figures, published by the Danish government, have piled pressure on Labour to stop withholding equivalent data. Pictured: Immigrants on a boat approaching England.
+- Description: Police Scotland 'bulk deleted' fingerprints following an IT blunder which led to their irrecoverable loss, the Mail can disclose.
 
 
-### SHOOTING on 2026-05-03 13:29
-- Location: BBC News
-- Description: The possibility a drive-by shooting and a stabbing in Brixton are linked is being examined by police.
+### OTHER on 2026-05-03 18:38
+- Location: ABC News (AU)
+- Description: Domestic violence and abuse have been described as an "epidemic" in multiple countries, but analysts argue there is something that sets Russia apart: the government is making things worse.
 
 
-### SHOOTING on 2026-05-03 13:21
+### HOMICIDE on 2026-05-03 18:32
 - Location: Dailymail.com
-- Description: Metropolitan Police officers were called at 1.14am on Saturday to reports of shots fired from a vehicle in Coldharbour Lane, Brixton, and at 2.17am to reports of a stabbing in nearby Acre Lane.
+- Description: Dempsey Fritchey is accused of beating his grandmother to the brink of death with 'with his hands and feet.' She died from her injuries 12 days later.
 
-Analysis generated at: Mon May  4 14:13:51 UTC 2026
+
+### SHOOTING on 2026-05-03 18:28
+- Location: The Daily Caller
+- Description: U.S. Attorney for the District of Columbia Jeanine Pirro said Sunday it was “very clear” President Trump was targeted at the White House Correspondents’ Dinner.
+
+
+### HOMICIDE on 2026-05-03 18:11
+- Location: Breitbart News
+- Description: Previous immigration policies are being blamed after the arrest of a Salvadoran migrant who is charged with fatally stabbing two women in New York, one of them a “hardworking mother of two,” whom he worked with at a Wendy's.
+The post Migrant Charged with Kill…
+
+Analysis generated at: Mon May  4 19:22:02 UTC 2026
