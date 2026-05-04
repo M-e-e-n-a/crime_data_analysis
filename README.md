@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon May  4 08:23:53 UTC 2026
+Last updated: Mon May  4 13:30:44 UTC 2026
 
 ## Latest Analysis
 
-Loaded 102803 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-03 08:21:05
+Loaded 102834 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-03 13:29:07
 
 Incidents by source:
 source
-newsapi           102702
+newsapi           102733
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,30 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-05-03 08:21
-- Location: Businessupturn.com
-- Description: If you’re into crime web series that are based on true stories, these five are must‑bings—each one rooted in real...
+### SHOOTING on 2026-05-03 13:29
+- Location: BBC News
+- Description: The possibility a drive-by shooting and a stabbing in Brixton are linked is being examined by police.
 
 
-### OTHER on 2026-05-03 07:38
-- Location: Vanguard
-- Description: William Shakespeare’s ‘Julius Caesar’ is, in my view, one of his best plays ever written by history’s greatest bard and playwright and it is indeed amongst my favourites.  It speaks of mob psychology, ambition, power, treachery and the most brutal and painful…
+### SHOOTING on 2026-05-03 13:21
+- Location: Dailymail.com
+- Description: Metropolitan Police officers were called at 1.14am on Saturday to reports of shots fired from a vehicle in Coldharbour Lane, Brixton, and at 2.17am to reports of a stabbing in nearby Acre Lane.
 
 
-### HOMICIDE on 2026-05-03 07:34
-- Location: Al Jazeera English
-- Description: The man was also charged with two other offences and is to appear ​in court in Darwin on Tuesday, police said.
+### HOMICIDE on 2026-05-03 13:13
+- Location: New York Post
+- Description: Both women suffered similar stab wounds to the neck and torso.
 
 
-### HOMICIDE on 2026-05-03 07:25
-- Location: The Times of India
-- Description: Maharashtra Chief Minister Devendra Fadnavis criticized the opposition's response to a four-year-old girl's rape and murder, calling their criticism "laughable" given their past "cash-for-transfers" scandals. The incident, involving a 65-year-old accused with…
+### HOMICIDE on 2026-05-03 12:56
+- Location: Dailymail.com
+- Description: Rony Yahir Alvarenga Rivera, 22, was taken into custody on Saturday in Long Island after he turned himself in over the deaths of his roommate and 42-year-old coworker, Ana Maria del Aguila-Cordova.
 
 
-### OTHER on 2026-05-03 07:22
-- Location: The Punch
-- Description: Read today’s top stories: Bishops knock Adeboye’s marriage advice, Gov. Bala Mohammed dumps the PDP, and Nigeria records a N5tn oil windfall.
+### ASSAULT on 2026-05-03 12:53
+- Location: Dailymail.com
+- Description: Officers were called to the seaside city's High Street at around 7.50pm on Friday after reports of a 'large-scale fight'.
 
-Read More: https://punchng.com/morning-recap-bishops-knock-adeboyes-marriage-advice-bala-dumps-pdp-other-top-stories/
-
-Analysis generated at: Mon May  4 08:23:53 UTC 2026
+Analysis generated at: Mon May  4 13:30:44 UTC 2026
