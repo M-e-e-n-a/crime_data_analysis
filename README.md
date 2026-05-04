@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon May  4 03:40:54 UTC 2026
+Last updated: Mon May  4 08:23:53 UTC 2026
 
 ## Latest Analysis
 
-Loaded 102778 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-03 03:36:04
+Loaded 102803 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-03 08:21:05
 
 Incidents by source:
 source
-newsapi           102677
+newsapi           102702
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,30 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-05-03 03:36
-- Location: Dailymail.com
-- Description: Jefferson Lewis, 47, was set upon by a group of vigilantes following the death of the five-year-old girl.
+### OTHER on 2026-05-03 08:21
+- Location: Businessupturn.com
+- Description: If you’re into crime web series that are based on true stories, these five are must‑bings—each one rooted in real...
 
 
-### SHOOTING on 2026-05-03 03:00
-- Location: CBS News
-- Description: Gloria Choi and her friends called Lakewood, Washington, 911 four times in 48 hours to report her being stalked by an ex-boyfriend. Two days later, he ran her off the road and riddled her truck with bullets as she was on the line with a 911 dispatcher.
+### OTHER on 2026-05-03 07:38
+- Location: Vanguard
+- Description: William Shakespeare’s ‘Julius Caesar’ is, in my view, one of his best plays ever written by history’s greatest bard and playwright and it is indeed amongst my favourites.  It speaks of mob psychology, ambition, power, treachery and the most brutal and painful…
 
 
-### OTHER on 2026-05-03 02:57
+### HOMICIDE on 2026-05-03 07:34
+- Location: Al Jazeera English
+- Description: The man was also charged with two other offences and is to appear ​in court in Darwin on Tuesday, police said.
+
+
+### HOMICIDE on 2026-05-03 07:25
 - Location: The Times of India
-- Description: Young, educated women are increasingly taking central roles in criminal networks across India's National Capital Region and beyond. These women, often digitally connected and using legitimate businesses as fronts, are driven by factors like easy money, reveng…
+- Description: Maharashtra Chief Minister Devendra Fadnavis criticized the opposition's response to a four-year-old girl's rape and murder, calling their criticism "laughable" given their past "cash-for-transfers" scandals. The incident, involving a 65-year-old accused with…
 
 
-### HOMICIDE on 2026-05-03 02:57
-- Location: Freerepublic.com
-- Description: A man suspected of killing an alleged drug dealer and his wife in front of their child in New York City has been arrested after decades on the run, federal authorities have announced.Homeland Security Investigations (HSI) revealed details about the case in a …
+### OTHER on 2026-05-03 07:22
+- Location: The Punch
+- Description: Read today’s top stories: Bishops knock Adeboye’s marriage advice, Gov. Bala Mohammed dumps the PDP, and Nigeria records a N5tn oil windfall.
 
+Read More: https://punchng.com/morning-recap-bishops-knock-adeboyes-marriage-advice-bala-dumps-pdp-other-top-stories/
 
-### HOMICIDE on 2026-05-03 02:57
-- Location: Freerepublic.com
-- Description: A man suspected of killing an alleged drug dealer and his wife in front of their child in New York City has been arrested after decades on the run, federal authorities have announced.Homeland Security Investigations (HSI) revealed details about the case in a …
-
-Analysis generated at: Mon May  4 03:40:54 UTC 2026
+Analysis generated at: Mon May  4 08:23:53 UTC 2026
