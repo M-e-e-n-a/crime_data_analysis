@@ -1,10 +1,10 @@
 
-Loaded 102758 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-02 18:51:02
+Loaded 102771 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-03 02:08:24
 
 Incidents by source:
 source
-newsapi           102657
+newsapi           102670
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,31 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-05-02 18:51
+### HOMICIDE on 2026-05-03 02:08
 - Location: The Times of India
-- Description: A string of recent incidents has put Bihar’s law and order under renewed scrutiny even as police assert that overall crime trends remain under control.
+- Description: The Madurai Sessions Court’s judgment finding nine policemen guilty for the custodial killings of Jayaraj and Bennix in Sathankulam marks a rare and significant moment in India’s criminal justice landscape. In a country where custodial...
 
 
-### OTHER on 2026-05-02 18:36
-- Location: Freerepublic.com
-- Description: Investigative journalist Katie Daviscourt was violently mobbed and had a rock thrown at her face by masked Antifa militants while attempting to report on their May Day riot outside the federal ICE facility on Friday night. Despite having security present, Dav…
+### HOMICIDE on 2026-05-03 02:04
+- Location: Dailymail.com
+- Description: Police found the bodies of a couple in their 60s and their 37-year-old son at the home on Juliet Close, Rosemeadow just after 1.30am on Sunday.
 
 
-### HOMICIDE on 2026-05-02 18:13
-- Location: Bossip
-- Description: As the walls close in on 21-year-old singer D4vd (born David Anthony Burke), the news is consistent with reporting a series of increasingly disturbing revelations. What began as a missing persons case has spiraled into one of the most high-profile and gruesom…
+### HOMICIDE on 2026-05-03 01:57
+- Location: Dailymail.com
+- Description: Their roommate, Hisham Saleh Abugharbieh, 26, was arrested on April 24 and has been jailed since then on two counts of first-degree premeditated murder with a weapon.
 
 
-### OTHER on 2026-05-02 18:05
-- Location: The Punch
-- Description: The Olubadan of Ibadanland, Rashidi Ladoja, advocates for community policing to reduce criminal activities in Ibadan, Oyo State, and Nigeria as a whole.
-
-Read More: https://punchng.com/olubadan-calls-for-community-policing-to-curb-crime-in-oyo/
+### HOMICIDE on 2026-05-03 01:48
+- Location: BBC News
+- Description: The girl's death sparked an outbreak of violence in the central Australian town from where she disappeared.
 
 
-### SHOOTING on 2026-05-02 18:04
-- Location: Breitbart News
-- Description: Four people have been hospitalised following what is being described as a "drive-by" shooting in the multicultural Brixton area of south London in the early hours of Saturday morning.
-The post Gun Free Britain: Four Hospitalised After ‘Drive-By Shooting’ in B…
+### SHOOTING on 2026-05-03 01:46
+- Location: Dailymail.com
+- Description: Cole Allen, 31, has remained on suicide watch in his Washington DC jail cell since his arrest a week ago for allegedly trying to assassinate President Trump at the White House Correspondents' Dinner.
 
-Analysis generated at: Sun May  3 18:52:23 UTC 2026
+Analysis generated at: Mon May  4 02:14:45 UTC 2026
