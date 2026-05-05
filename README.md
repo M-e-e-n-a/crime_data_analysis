@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon May  4 19:22:02 UTC 2026
+Last updated: Tue May  5 02:12:47 UTC 2026
 
 ## Latest Analysis
 
-Loaded 102874 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-03 19:14:16
+Loaded 102887 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-04 02:06:18
 
 Incidents by source:
 source
-newsapi           102773
+newsapi           102786
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,29 +24,27 @@ ion.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2026-05-03 19:14
-- Location: Dailymail.com
-- Description: Police Scotland 'bulk deleted' fingerprints following an IT blunder which led to their irrecoverable loss, the Mail can disclose.
+### HOMICIDE on 2026-05-04 02:06
+- Location: Freerepublic.com
+- Description: Nassau County, New York, is a densely populated suburban town on Long Island, just east of the Big Apple and serving as a bedroom community for the city. For whatever reason, Long Island in general seems to be a magnet for illegal aliens. Now two residents of…
 
 
-### OTHER on 2026-05-03 18:38
+### OTHER on 2026-05-04 02:00
+- Location: Spoilertv.com
+
+
+### HOMICIDE on 2026-05-04 01:52
+- Location: New York Post
+- Description: On April 9, Queens District Attorney Melinda Katz announced Roman Amatitla would be charged with arson and eight counts of second-degree murder for allegedly setting a fire that killed four in a Flushing apartment building, including a 3-year-old girl.
+
+
+### OTHER on 2026-05-04 01:45
 - Location: ABC News (AU)
-- Description: Domestic violence and abuse have been described as an "epidemic" in multiple countries, but analysts argue there is something that sets Russia apart: the government is making things worse.
+- Description: Gordana Kotevski was last seen in 1994 when witnesses saw the 16-year-old being forced into a vehicle by at least two people near Newcastle.
 
 
-### HOMICIDE on 2026-05-03 18:32
-- Location: Dailymail.com
-- Description: Dempsey Fritchey is accused of beating his grandmother to the brink of death with 'with his hands and feet.' She died from her injuries 12 days later.
+### SHOOTING on 2026-05-04 00:56
+- Location: New York Post
+- Description: The man charged with trying to assassinate President Trump during the White House Correspondents’ Association Dinner was removed from suicide watch on Sunday, court records show.
 
-
-### SHOOTING on 2026-05-03 18:28
-- Location: The Daily Caller
-- Description: U.S. Attorney for the District of Columbia Jeanine Pirro said Sunday it was “very clear” President Trump was targeted at the White House Correspondents’ Dinner.
-
-
-### HOMICIDE on 2026-05-03 18:11
-- Location: Breitbart News
-- Description: Previous immigration policies are being blamed after the arrest of a Salvadoran migrant who is charged with fatally stabbing two women in New York, one of them a “hardworking mother of two,” whom he worked with at a Wendy's.
-The post Migrant Charged with Kill…
-
-Analysis generated at: Mon May  4 19:22:02 UTC 2026
+Analysis generated at: Tue May  5 02:12:47 UTC 2026
