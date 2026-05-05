@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue May  5 03:27:18 UTC 2026
+Last updated: Tue May  5 08:01:12 UTC 2026
 
 ## Latest Analysis
 
-Loaded 102892 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-04 03:08:31
+Loaded 102929 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-04 07:54:37
 
 Incidents by source:
 source
-newsapi           102791
+newsapi           102828
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-05-04 03:08
-- Location: Freerepublic.com
-- Description: 15 victims per scanner. Other X accounts report 9 victims.
+### SHOOTING on 2026-05-04 07:54
+- Location: NBC News
+- Description: At least 12 people were hospitalized after gunfire broke out during a party at a campground in Oklahoma on Sunday night, local officials said
 
 
-### HOMICIDE on 2026-05-04 03:07
-- Location: Digital Journal
-- Description: An Australian inquiry opened public hearings Monday into an antisemitic shooting that killed 15 people at a Jewish festival on Sydney’s Bondi Beach. The federal royal commission — the highest level of government inquiry — was called to probe factors leading t…
+### HOMICIDE on 2026-05-04 07:49
+- Location: The Indian Express
+- Description: Police said they suspected the involvement of a third party after the mother — the prime suspect — was found dead in a drain with a head injury.
 
 
-### OTHER on 2026-05-04 03:03
-- Location: Dailymail.com
-- Description: Two of the men, who had flown in from Thailand, allegedly attempted to escape officers.
-
-
-### HOMICIDE on 2026-05-04 02:34
-- Location: Dailymail.com
-- Description: Jefferson Lewis, 47, was charged with murder on Sunday, a week after the five-year-old girl was allegedly abducted from an Indigenous town camp near Alice Springs on April 25.
-
-
-### HOMICIDE on 2026-05-04 02:32
+### HOMICIDE on 2026-05-04 07:46
 - Location: The Times of India
-- Description: A brutal rape and murder of a three-year-old girl has sparked outrage in Pune's Bhor-Rajgad belt, leading to a shutdown. The victim's family refuses to meet politicians until the 65-year-old accused, a repeat offender, is sentenced to death. Protests erupted,…
+- Description: Actor Darshan, arrested in the Renukaswamy murder case, has approached the Supreme Court alleging denial of basic prison amenities. His lawyer claims a previous court observation about no "five-star treatment" is being misinterpreted. The apex court has now s…
 
-Analysis generated at: Tue May  5 03:27:18 UTC 2026
+
+### OTHER on 2026-05-04 07:32
+- Location: The Irish Times
+- Description: UK Green Party leader is hoping to eat into Labour’s vote from the left in local elections this week
+
+
+### OTHER on 2026-05-04 07:24
+- Location: Dailymail.com
+- Description: A 37-year-old man was rushed to hospital with upper-body injuries following a stabbing on Monday afternoon.
+
+Analysis generated at: Tue May  5 08:01:12 UTC 2026
