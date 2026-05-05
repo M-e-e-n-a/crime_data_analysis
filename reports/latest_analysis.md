@@ -1,10 +1,10 @@
 
-Loaded 102887 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-04 02:06:18
+Loaded 102892 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-04 03:08:31
 
 Incidents by source:
 source
-newsapi           102786
+newsapi           102791
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,27 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-05-04 02:06
+### SHOOTING on 2026-05-04 03:08
 - Location: Freerepublic.com
-- Description: Nassau County, New York, is a densely populated suburban town on Long Island, just east of the Big Apple and serving as a bedroom community for the city. For whatever reason, Long Island in general seems to be a magnet for illegal aliens. Now two residents of…
+- Description: 15 victims per scanner. Other X accounts report 9 victims.
 
 
-### OTHER on 2026-05-04 02:00
-- Location: Spoilertv.com
+### HOMICIDE on 2026-05-04 03:07
+- Location: Digital Journal
+- Description: An Australian inquiry opened public hearings Monday into an antisemitic shooting that killed 15 people at a Jewish festival on Sydney’s Bondi Beach. The federal royal commission — the highest level of government inquiry — was called to probe factors leading t…
 
 
-### HOMICIDE on 2026-05-04 01:52
-- Location: New York Post
-- Description: On April 9, Queens District Attorney Melinda Katz announced Roman Amatitla would be charged with arson and eight counts of second-degree murder for allegedly setting a fire that killed four in a Flushing apartment building, including a 3-year-old girl.
+### OTHER on 2026-05-04 03:03
+- Location: Dailymail.com
+- Description: Two of the men, who had flown in from Thailand, allegedly attempted to escape officers.
 
 
-### OTHER on 2026-05-04 01:45
-- Location: ABC News (AU)
-- Description: Gordana Kotevski was last seen in 1994 when witnesses saw the 16-year-old being forced into a vehicle by at least two people near Newcastle.
+### HOMICIDE on 2026-05-04 02:34
+- Location: Dailymail.com
+- Description: Jefferson Lewis, 47, was charged with murder on Sunday, a week after the five-year-old girl was allegedly abducted from an Indigenous town camp near Alice Springs on April 25.
 
 
-### SHOOTING on 2026-05-04 00:56
-- Location: New York Post
-- Description: The man charged with trying to assassinate President Trump during the White House Correspondents’ Association Dinner was removed from suicide watch on Sunday, court records show.
+### HOMICIDE on 2026-05-04 02:32
+- Location: The Times of India
+- Description: A brutal rape and murder of a three-year-old girl has sparked outrage in Pune's Bhor-Rajgad belt, leading to a shutdown. The victim's family refuses to meet politicians until the 65-year-old accused, a repeat offender, is sentenced to death. Protests erupted,…
 
-Analysis generated at: Tue May  5 02:12:47 UTC 2026
+Analysis generated at: Tue May  5 03:27:18 UTC 2026
