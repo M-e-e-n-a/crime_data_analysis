@@ -1,10 +1,10 @@
 
-Loaded 102929 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-04 07:54:37
+Loaded 103023 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-04 19:09:31
 
 Incidents by source:
 source
-newsapi           102828
+newsapi           102922
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,30 @@ ion.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-05-04 07:54
-- Location: NBC News
-- Description: At least 12 people were hospitalized after gunfire broke out during a party at a campground in Oklahoma on Sunday night, local officials said
+### OTHER on 2026-05-04 19:09
+- Location: ABC News (AU)
+- Description: The government has pledged to invest heavily in a crime crackdown and deliver a surplus in its upcoming 2026/27 state budget.
 
 
-### HOMICIDE on 2026-05-04 07:49
+### DRUG RELATED on 2026-05-04 19:06
+- Location: The Punch
+- Description: Gombe police raise alarm on the link between drug abuse and political thuggery, calling for community action to prevent youth violence ahead of elections.
+
+Read More: https://punchng.com/police-raise-the-alarm-over-drugs-political-thuggery-in-gombe/
+
+
+### HOMICIDE on 2026-05-04 19:00
+- Location: ComicBook.com
+- Description: The Marvel Cinematic Universe often gets criticized for the way it treats its villain characters. Some of them are underdeveloped and one-note, others are killed off too fast, or get ignored too long to be relevant anymore. Even the rare few that have been co…
+
+
+### ASSAULT on 2026-05-04 18:51
+- Location: BroBible
+- Description: Going to a high school baseball game to watch your son play used to be a fun experience. These days, however, it might be best to keep your mouth shut and your head on a swivel. Case in point: A fan recently suffered a severe head injury after a fight broke o…
+
+
+### HOMICIDE on 2026-05-04 18:47
 - Location: The Indian Express
-- Description: Police said they suspected the involvement of a third party after the mother — the prime suspect — was found dead in a drain with a head injury.
+- Description: Police have identified the accused in this case as Vijay Dhulchand Karande. His wife, aged 30 years, lodged the first information report (FIR) in this case at the Koregaon Park police station on Sunday.
 
-
-### HOMICIDE on 2026-05-04 07:46
-- Location: The Times of India
-- Description: Actor Darshan, arrested in the Renukaswamy murder case, has approached the Supreme Court alleging denial of basic prison amenities. His lawyer claims a previous court observation about no "five-star treatment" is being misinterpreted. The apex court has now s…
-
-
-### OTHER on 2026-05-04 07:32
-- Location: The Irish Times
-- Description: UK Green Party leader is hoping to eat into Labour’s vote from the left in local elections this week
-
-
-### OTHER on 2026-05-04 07:24
-- Location: Dailymail.com
-- Description: A 37-year-old man was rushed to hospital with upper-body injuries following a stabbing on Monday afternoon.
-
-Analysis generated at: Tue May  5 08:01:12 UTC 2026
+Analysis generated at: Tue May  5 19:11:42 UTC 2026
