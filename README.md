@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed May  6 13:53:12 UTC 2026
+Last updated: Wed May  6 14:27:10 UTC 2026
 
 ## Latest Analysis
 
-Loaded 103142 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-05 13:49:11
+Loaded 103151 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-05 14:21:25
 
 Incidents by source:
 source
-newsapi           103041
+newsapi           103050
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-05-05 13:49
-- Location: New York Post
-- Description: The murder trial was scheduled to start next month.
+### HOMICIDE on 2026-05-05 14:21
+- Location: Dailymail.com
+- Description: Brendon's female friend found him unresponsive on March 20 around 8am at his home in Greencastle, Indiana home
 
 
-### OTHER on 2026-05-05 13:42
-- Location: RTE
-- Description: Two Wicklow men have been given suspended sentences for possessing firearms which had been bought by their friend on the dark web almost two years ago.
+### ASSAULT on 2026-05-05 14:15
+- Location: Thepinknews.com
+- Description: A 33-year-old Florida man has been arrested and charged with aggravated child abuse after allegedly attacking a five-year-old boy in an attempt to “beat the gay out of him”. The victim is reported by the Polk County Sheriff’s Office to have suffered a fractur…
 
 
-### HOMICIDE on 2026-05-05 13:38
-- Location: New York Post
-- Description: Shaquille Taylor, 32, was slapped with a 38-year prison sentence on Monday after pleading guilty to firing the stray bullet that killed Belmont University freshman, Jillian Ludwig, as she was jogging near the Nashville campus in 2023.
+### HOMICIDE on 2026-05-05 14:10
+- Location: Abcnews.com
+- Description: German investigators say the suspect in a car-ramming in the city of Leipzig that left two people dead doesn’t appear to have had any political or religious motive but had spent time recently at a psychiatric hospital
 
 
-### ASSAULT on 2026-05-05 13:34
-- Location: The Week Magazine
-- Description: UK police face ‘numerous hurdles’ to extradite suspect Brückner to Britain, ahead of 20th anniversary of three-year-old’s disappearance next year
+### OTHER on 2026-05-05 14:10
+- Location: Nationpress.com
+- Description: Rasika Dugal's first pairing with Saif Ali Khan in the Netflix drama 'Kartavya' has yielded glowing remarks about the veteran actor's professionalism and humour. As she juggles the original series adaptation 'Mirzapur' film and this new venture, Dugal's caree…
 
 
-### OTHER on 2026-05-05 13:28
+### OTHER on 2026-05-05 14:08
 - Location: Freerepublic.com
-- Description: Listen to those like leftist podcaster Hasan Piker and former MSNBC host Mehdi Hasan, who openly support Hamas, and they’ll tell you that while they support the destruction of Israel, they want to assure Jews in the Diaspora that they have nothing to fear fro…
+- Description: Roughly one week after the Fifth Circuit U.S. Court of Appeals handed Texas a win on its border security law, SB 4, the law is facing a second legal challenge. The American Civil Liberties Union, ACLU of Texas, and the Texas Civil Rights Project filed a class…
 
-Analysis generated at: Wed May  6 13:53:12 UTC 2026
+Analysis generated at: Wed May  6 14:27:10 UTC 2026
