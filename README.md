@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed May  6 02:13:53 UTC 2026
+Last updated: Wed May  6 03:38:03 UTC 2026
 
 ## Latest Analysis
 
-Loaded 103039 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-05 02:07:09
+Loaded 103046 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-05 03:17:00
 
 Incidents by source:
 source
-newsapi           102938
+newsapi           102945
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-05-05 02:07
-- Location: CBC News
-- Description: A man was killed in a fatal shooting in Surrey's Newton neighbourhood on Monday afternoon, according to police, in what is the second fatal shooting in the city in little under a week.
+### HOMICIDE on 2026-05-05 03:17
+- Location: The Irish Times
+- Description: Sensational case - in which movie star Alain Delon was a suspect - exploded further when former prime minister and wife were accused of orgy involvement
 
 
-### OTHER on 2026-05-05 02:06
-- Location: Fox News
-- Description: Civil rights groups, including the ACLU, filed a new lawsuit on Monday to block a Texas law that would allow police to arrest migrants who enter through the southern border.
+### OTHER on 2026-05-05 03:15
+- Location: ABC News (AU)
+- Description: Despite rising debt, the Victorian government's found money for hip-pocket measures and a justice system overhaul. These are some of the winners and losers.
 
 
-### SHOOTING on 2026-05-05 01:52
-- Location: Slashdot.org
-- Description: Secret Service Shoots and Wounds Armed Man Near Washington MonumentThe New York Times 1 shot, bystander grazed in Secret Service police shooting near National MallNBC4 Washington Secret Service Officers Shoot Gunman Near the White HouseBloomberg.com Secret Se…
+### OTHER on 2026-05-05 03:12
+- Location: ABC News (AU)
+- Description: The state government has failed to meaningfully tackle soaring debt, instead continuing to focus on cost-of-living programs and service delivery less than 200 days before voters head to the polls.
 
 
-### HOMICIDE on 2026-05-05 01:48
-- Location: Dailymail.com
-- Description: Jefferson Lewis, 47, was due to appear before Alice Springs Local Court on Tuesday morning via an audio-visual link however was excused from the hearing.
+### OTHER on 2026-05-05 03:00
+- Location: TV Guide
+- Description: The Rookie's Boss on That Season 8 Finale Cliffhanger, Chenford, and Moretvguide.com
 
 
-### HOMICIDE on 2026-05-05 01:31
-- Location: Newsonjapan.com
-- Description: A police officer was seriously injured after being struck and dragged by a vehicle while conducting a traffic enforcement operation in Shibukawa, Gunma Prefecture, on May 4th, with a suspect later arrested on suspicion of attempted murder. (News On Japan)
+### OTHER on 2026-05-05 02:59
+- Location: Freerepublic.com
+- Description: It’s been more than a week since Sean Egan, a manager at Morrisons in Aldridge, announced that he’d been sacked just for doing his job – for stopping a thief nicking booze – and national outrage over the whole affair is still running high. Sean is on morning …
 
-Analysis generated at: Wed May  6 02:13:53 UTC 2026
+Analysis generated at: Wed May  6 03:38:03 UTC 2026
