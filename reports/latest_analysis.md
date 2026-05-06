@@ -1,10 +1,10 @@
 
-Loaded 103151 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-05 14:21:25
+Loaded 103231 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-05 19:26:00
 
 Incidents by source:
 source
-newsapi           103050
+newsapi           103130
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-05-05 14:21
-- Location: Dailymail.com
-- Description: Brendon's female friend found him unresponsive on March 20 around 8am at his home in Greencastle, Indiana home
+### HOMICIDE on 2026-05-05 19:26
+- Location: CBS News
+- Description: Tanner Horner sentenced to death penalty for 2022 kidnapping, murder of 7-year-old Athena Strandcbsnews.com
 
 
-### ASSAULT on 2026-05-05 14:15
-- Location: Thepinknews.com
-- Description: A 33-year-old Florida man has been arrested and charged with aggravated child abuse after allegedly attacking a five-year-old boy in an attempt to “beat the gay out of him”. The victim is reported by the Polk County Sheriff’s Office to have suffered a fractur…
-
-
-### HOMICIDE on 2026-05-05 14:10
+### HOMICIDE on 2026-05-05 19:18
 - Location: Abcnews.com
-- Description: German investigators say the suspect in a car-ramming in the city of Leipzig that left two people dead doesn’t appear to have had any political or religious motive but had spent time recently at a psychiatric hospital
+- Description: The deadly shooting occurred at a Korean shopping center in Carrollton, located about 20 miles north of Dallas, on Tuesday morning, police said.
 
 
-### OTHER on 2026-05-05 14:10
-- Location: Nationpress.com
-- Description: Rasika Dugal's first pairing with Saif Ali Khan in the Netflix drama 'Kartavya' has yielded glowing remarks about the veteran actor's professionalism and humour. As she juggles the original series adaptation 'Mirzapur' film and this new venture, Dugal's caree…
+### HOMICIDE on 2026-05-05 19:17
+- Location: The Next Web
+- Description: Daniel Moreno-Gama, the 20-year-old accused of throwing a Molotov cocktail at the San Francisco home of OpenAI CEO Sam Altman and then walking three miles to OpenAI’s headquarters to threaten to burn the building down, pleaded not guilty on Tuesday to two cou…
 
 
-### OTHER on 2026-05-05 14:08
-- Location: Freerepublic.com
-- Description: Roughly one week after the Fifth Circuit U.S. Court of Appeals handed Texas a win on its border security law, SB 4, the law is facing a second legal challenge. The American Civil Liberties Union, ACLU of Texas, and the Texas Civil Rights Project filed a class…
+### HOMICIDE on 2026-05-05 19:17
+- Location: Newser
+- Description: A man fatally shot two people and wounded three others on Tuesday in Carrolton, Texas, a city north of Dallas, police said. Carrollton Chief Roberto Arredondo said that it was not a random act and that the victims knew the attacker, who was later arrested, pe…
 
-Analysis generated at: Wed May  6 14:27:10 UTC 2026
+
+### HOMICIDE on 2026-05-05 19:15
+- Location: Mediaite
+- Description: A FAA employee was charged with threatening Trump after emailing the White House that he was going to "neutralize/kill" the president over the Iran war.
+The post FAA Employee Charged With Threatening President After Searching ‘I Am Going to Kill Donald John T…
+
+Analysis generated at: Wed May  6 19:29:50 UTC 2026
