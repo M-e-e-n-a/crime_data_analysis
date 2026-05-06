@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed May  6 03:38:03 UTC 2026
+Last updated: Wed May  6 08:15:41 UTC 2026
 
 ## Latest Analysis
 
-Loaded 103046 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-05 03:17:00
+Loaded 103077 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-05 08:14:58
 
 Incidents by source:
 source
-newsapi           102945
+newsapi           102976
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-05-05 03:17
-- Location: The Irish Times
-- Description: Sensational case - in which movie star Alain Delon was a suspect - exploded further when former prime minister and wife were accused of orgy involvement
+### ASSAULT on 2026-05-05 08:14
+- Location: The Local Germany
+- Description: Two people have died and several are injured after a car ploughed onto a busy street in the eastern city of Leipzig on Monday. Here's what know so far.
 
 
-### OTHER on 2026-05-05 03:15
-- Location: ABC News (AU)
-- Description: Despite rising debt, the Victorian government's found money for hip-pocket measures and a justice system overhaul. These are some of the winners and losers.
+### HOMICIDE on 2026-05-05 08:00
+- Location: CBC News
+- Description: An Ontario Superior Court judge will hand down his decision this morning in the Milton murder trial for Burlington couple Becky Hamber and Brandy Cooney, prospective parents who pleaded not guilty in the death of a 12-year-old boy and alleged torture of his y…
 
 
-### OTHER on 2026-05-05 03:12
-- Location: ABC News (AU)
-- Description: The state government has failed to meaningfully tackle soaring debt, instead continuing to focus on cost-of-living programs and service delivery less than 200 days before voters head to the polls.
+### HOMICIDE on 2026-05-05 08:00
+- Location: Newser
+- Description: A driver plowed into people in a busy shopping area in the center of the German city of Leipzig on Monday afternoon, leaving two people dead, authorities said. An additional three people were seriously injured in what officials believe was a deliberate rampag…
 
 
-### OTHER on 2026-05-05 03:00
-- Location: TV Guide
-- Description: The Rookie's Boss on That Season 8 Finale Cliffhanger, Chenford, and Moretvguide.com
+### ROBBERY/THEFT on 2026-05-05 07:56
+- Location: Antaranews.com
+- Description: Some 26 foreign nationals have been arrested in Bali for their suspected of involvement in an online scam syndicate, with the local immigration authority is ...
 
 
-### OTHER on 2026-05-05 02:59
-- Location: Freerepublic.com
-- Description: It’s been more than a week since Sean Egan, a manager at Morrisons in Aldridge, announced that he’d been sacked just for doing his job – for stopping a thief nicking booze – and national outrage over the whole affair is still running high. Sean is on morning …
+### OTHER on 2026-05-05 07:45
+- Location: Us Weekly
+- Description: An off-duty Secret Service officer was arrested and accused of masturbating in a hotel hallway after working a security assignment involving President Donald Trump. The Miami-Dade Sheriff’s Office in Florida arrested John Spillman, 33, for indecent exposure f…
 
-Analysis generated at: Wed May  6 03:38:03 UTC 2026
+Analysis generated at: Wed May  6 08:15:41 UTC 2026
