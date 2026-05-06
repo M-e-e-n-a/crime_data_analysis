@@ -1,10 +1,10 @@
 
-Loaded 103023 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-04 19:09:31
+Loaded 103039 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-05 02:07:09
 
 Incidents by source:
 source
-newsapi           102922
+newsapi           102938
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,30 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-05-04 19:09
-- Location: ABC News (AU)
-- Description: The government has pledged to invest heavily in a crime crackdown and deliver a surplus in its upcoming 2026/27 state budget.
+### HOMICIDE on 2026-05-05 02:07
+- Location: CBC News
+- Description: A man was killed in a fatal shooting in Surrey's Newton neighbourhood on Monday afternoon, according to police, in what is the second fatal shooting in the city in little under a week.
 
 
-### DRUG RELATED on 2026-05-04 19:06
-- Location: The Punch
-- Description: Gombe police raise alarm on the link between drug abuse and political thuggery, calling for community action to prevent youth violence ahead of elections.
-
-Read More: https://punchng.com/police-raise-the-alarm-over-drugs-political-thuggery-in-gombe/
+### OTHER on 2026-05-05 02:06
+- Location: Fox News
+- Description: Civil rights groups, including the ACLU, filed a new lawsuit on Monday to block a Texas law that would allow police to arrest migrants who enter through the southern border.
 
 
-### HOMICIDE on 2026-05-04 19:00
-- Location: ComicBook.com
-- Description: The Marvel Cinematic Universe often gets criticized for the way it treats its villain characters. Some of them are underdeveloped and one-note, others are killed off too fast, or get ignored too long to be relevant anymore. Even the rare few that have been co…
+### SHOOTING on 2026-05-05 01:52
+- Location: Slashdot.org
+- Description: Secret Service Shoots and Wounds Armed Man Near Washington MonumentThe New York Times 1 shot, bystander grazed in Secret Service police shooting near National MallNBC4 Washington Secret Service Officers Shoot Gunman Near the White HouseBloomberg.com Secret Se…
 
 
-### ASSAULT on 2026-05-04 18:51
-- Location: BroBible
-- Description: Going to a high school baseball game to watch your son play used to be a fun experience. These days, however, it might be best to keep your mouth shut and your head on a swivel. Case in point: A fan recently suffered a severe head injury after a fight broke o…
+### HOMICIDE on 2026-05-05 01:48
+- Location: Dailymail.com
+- Description: Jefferson Lewis, 47, was due to appear before Alice Springs Local Court on Tuesday morning via an audio-visual link however was excused from the hearing.
 
 
-### HOMICIDE on 2026-05-04 18:47
-- Location: The Indian Express
-- Description: Police have identified the accused in this case as Vijay Dhulchand Karande. His wife, aged 30 years, lodged the first information report (FIR) in this case at the Koregaon Park police station on Sunday.
+### HOMICIDE on 2026-05-05 01:31
+- Location: Newsonjapan.com
+- Description: A police officer was seriously injured after being struck and dragged by a vehicle while conducting a traffic enforcement operation in Shibukawa, Gunma Prefecture, on May 4th, with a suspect later arrested on suspicion of attempted murder. (News On Japan)
 
-Analysis generated at: Tue May  5 19:11:42 UTC 2026
+Analysis generated at: Wed May  6 02:13:53 UTC 2026
