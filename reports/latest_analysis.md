@@ -1,10 +1,10 @@
 
-Loaded 103285 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-06 03:34:08
+Loaded 103323 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-06 08:20:16
 
 Incidents by source:
 source
-newsapi           103184
+newsapi           103222
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-05-06 03:34
-- Location: New York Post
-- Description: 'Walking while female' should not be a deadly condition.
+### OTHER on 2026-05-06 08:20
+- Location: The Times of India
+- Description: Punjab blasts: Police are investigating low-intensity blasts in Amritsar and Jalandhar. Director General of Police Gaurav Yadav suspects Pakistan's ISI is behind the incidents, aiming to disrupt peace. Forensic teams and the National Investigation Agency are …
 
 
-### OTHER on 2026-05-06 03:11
-- Location: ABC News (AU)
-- Description: A jury retires to consider its verdict in the trial of a driver of a Greyhound bus which caused a triple-fatal crash on the Bruce Highway in 2024.
+### HOMICIDE on 2026-05-06 08:05
+- Location: The Indian Express
+- Description: Amreen Kaur allegedly hatched the conspiracy to murder 31-year-old property dealer Chamanpreet Singh and engaged the services of gangster Lucky Patial, according to police sources.
 
 
-### OTHER on 2026-05-06 03:09
-- Location: Superherohype.com
-- Description: Daredevil: Born Again Season 2 saved its biggest card for the finale’s closing moments. The season ender brought back a bulletproof fan favorite whose return had been hiding in plain sight since Jessica Jones first appeared this season. Luke Cage’s return and…
+### DRUG RELATED on 2026-05-06 08:00
+- Location: CBC News
+- Description: The Claudia Sheinbaum administration's demand for "irrefutable" proof before handing over a top elected politician to the U.S. over alleged drug cartel dealings reveals how the Mexican government applies a double standard in its stated battle against organize…
 
 
-### HOMICIDE on 2026-05-06 03:01
-- Location: Abcnews.com
-- Description: An Australian man accused of killing 15 people in a shooting targeting a Hanukkah celebration at Sydney’s Bondi Beach faces 19 more charges
+### OTHER on 2026-05-06 07:56
+- Location: Dailymail.com
+- Description: Alex Batty, of Oldham, Greater Manchester, went missing aged 11 in 2017 after his mother Melanie Batty, who was not his legal guardian, took him on a pre-arranged trip to Spain with his grandfather.
 
 
-### ASSAULT on 2026-05-06 02:39
-- Location: Israelnationalnews.com
-- Description: Grand jury adds new indictment against Cole Tomas Allen, adding charge of assaulting a federal officer.
+### OTHER on 2026-05-06 07:54
+- Location: Gamingonlinux.com
+- Description: Now you can kick back, relax and go through a supernatural point and click adventure with a gamepad or Steam Deck in hand in Shadows of the Afterland.Read the full article on GamingOnLinux.
 
-Analysis generated at: Thu May  7 03:37:52 UTC 2026
+Analysis generated at: Thu May  7 08:26:27 UTC 2026
