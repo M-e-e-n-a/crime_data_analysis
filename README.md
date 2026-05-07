@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu May  7 08:26:27 UTC 2026
+Last updated: Thu May  7 13:52:35 UTC 2026
 
 ## Latest Analysis
 
-Loaded 103323 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-06 08:20:16
+Loaded 103394 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-06 13:46:38
 
 Incidents by source:
 source
-newsapi           103222
+newsapi           103293
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-05-06 08:20
+### OTHER on 2026-05-06 13:46
 - Location: The Times of India
-- Description: Punjab blasts: Police are investigating low-intensity blasts in Amritsar and Jalandhar. Director General of Police Gaurav Yadav suspects Pakistan's ISI is behind the incidents, aiming to disrupt peace. Forensic teams and the National Investigation Agency are …
+- Description: The Supreme Court has cancelled default bail for two individuals accused in the 2024 Haldwani arson and rioting case. The court found the High Court's decision to grant bail incorrect. The accused must now surrender to the trial court within two weeks. The Su…
 
 
-### HOMICIDE on 2026-05-06 08:05
-- Location: The Indian Express
-- Description: Amreen Kaur allegedly hatched the conspiracy to murder 31-year-old property dealer Chamanpreet Singh and engaged the services of gangster Lucky Patial, according to police sources.
+### HOMICIDE on 2026-05-06 13:36
+- Location: Protothema.gr
+- Description: "He was living with his fear, which was watching him and had set out to kill him," his sister tells protothema.gr
+The post “The third time I won’t make it”: Nikitas’ premonition about repeated failed murder attempts by the 54-year-old, what the 21-year-old’s …
 
 
-### DRUG RELATED on 2026-05-06 08:00
-- Location: CBC News
-- Description: The Claudia Sheinbaum administration's demand for "irrefutable" proof before handing over a top elected politician to the U.S. over alleged drug cartel dealings reveals how the Mexican government applies a double standard in its stated battle against organize…
+### OTHER on 2026-05-06 13:34
+- Location: Newser
+- Description: Parents at a Bronx high school weren't imagining things when they thought a new "teen" looked a bit old for homeroom. Police say 28-year-old Kacy Claassen posed as a 16-year-old and successfully enrolled at Westchester Square Academy on April 13 using the nam…
 
 
-### OTHER on 2026-05-06 07:56
-- Location: Dailymail.com
-- Description: Alex Batty, of Oldham, Greater Manchester, went missing aged 11 in 2017 after his mother Melanie Batty, who was not his legal guardian, took him on a pre-arranged trip to Spain with his grandfather.
+### OTHER on 2026-05-06 13:33
+- Location: New York Post
+- Description: Every law-abiding New Yorker should applaud Police Commissioner Jessica Tisch for achieving new lows in major crime.
 
 
-### OTHER on 2026-05-06 07:54
-- Location: Gamingonlinux.com
-- Description: Now you can kick back, relax and go through a supernatural point and click adventure with a gamepad or Steam Deck in hand in Shadows of the Afterland.Read the full article on GamingOnLinux.
+### SHOOTING on 2026-05-06 13:29
+- Location: BBC News
+- Description: No arrests have been made after the shooting on Coldharbour Lane and an investigation is ongoing.
 
-Analysis generated at: Thu May  7 08:26:27 UTC 2026
+Analysis generated at: Thu May  7 13:52:35 UTC 2026
