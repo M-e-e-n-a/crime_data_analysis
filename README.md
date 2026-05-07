@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed May  6 19:29:50 UTC 2026
+Last updated: Thu May  7 02:16:46 UTC 2026
 
 ## Latest Analysis
 
-Loaded 103231 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-05 19:26:00
+Loaded 103275 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-06 02:10:32
 
 Incidents by source:
 source
-newsapi           103130
+newsapi           103174
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-05-05 19:26
-- Location: CBS News
-- Description: Tanner Horner sentenced to death penalty for 2022 kidnapping, murder of 7-year-old Athena Strandcbsnews.com
+### OTHER on 2026-05-06 02:10
+- Location: CBM (Comic Book Movie)
+- Description: Daredevil: Born Again season two has come to a close in epic fashion as Matt Murdock finally make his move, forcing Kingpin to reveal his true colors and begin a rampage of devastating proportions!
 
 
-### HOMICIDE on 2026-05-05 19:18
-- Location: Abcnews.com
-- Description: The deadly shooting occurred at a Korean shopping center in Carrollton, located about 20 miles north of Dallas, on Tuesday morning, police said.
+### OTHER on 2026-05-06 02:00
+- Location: Dailymail.com
+- Description: The disappearance of  Savannah Guthrie's 84-year-old mother has lasted well over two months, perplexing a nation and law enforcement. Some blame has been aimed at Patel.
 
 
-### HOMICIDE on 2026-05-05 19:17
-- Location: The Next Web
-- Description: Daniel Moreno-Gama, the 20-year-old accused of throwing a Molotov cocktail at the San Francisco home of OpenAI CEO Sam Altman and then walking three miles to OpenAI’s headquarters to threaten to burn the building down, pleaded not guilty on Tuesday to two cou…
+### SHOOTING on 2026-05-06 01:59
+- Location: Reason
+- Description: The Second Circuit’s Misunderstanding of Founding-Era Law on Going Armed
 
 
-### HOMICIDE on 2026-05-05 19:17
-- Location: Newser
-- Description: A man fatally shot two people and wounded three others on Tuesday in Carrolton, Texas, a city north of Dallas, police said. Carrollton Chief Roberto Arredondo said that it was not a random act and that the victims knew the attacker, who was later arrested, pe…
+### OTHER on 2026-05-06 01:49
+- Location: ABC News (AU)
+- Description: It comes as the Royal Commission on Antisemitism and Social Cohesion enters its third day of hearings from Jewish Australians sharing lived experience.
 
 
-### HOMICIDE on 2026-05-05 19:15
-- Location: Mediaite
-- Description: A FAA employee was charged with threatening Trump after emailing the White House that he was going to "neutralize/kill" the president over the Iran war.
-The post FAA Employee Charged With Threatening President After Searching ‘I Am Going to Kill Donald John T…
+### HOMICIDE on 2026-05-06 01:48
+- Location: Dailymail.com
+- Description: The brother of singer D4vd has ignited online fury by launching his own music career amid the Celeste Rivas murder case.
 
-Analysis generated at: Wed May  6 19:29:50 UTC 2026
+Analysis generated at: Thu May  7 02:16:46 UTC 2026
