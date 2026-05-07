@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu May  7 02:16:46 UTC 2026
+Last updated: Thu May  7 03:37:52 UTC 2026
 
 ## Latest Analysis
 
-Loaded 103275 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-06 02:10:32
+Loaded 103285 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-06 03:34:08
 
 Incidents by source:
 source
-newsapi           103174
+newsapi           103184
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-05-06 02:10
-- Location: CBM (Comic Book Movie)
-- Description: Daredevil: Born Again season two has come to a close in epic fashion as Matt Murdock finally make his move, forcing Kingpin to reveal his true colors and begin a rampage of devastating proportions!
+### HOMICIDE on 2026-05-06 03:34
+- Location: New York Post
+- Description: 'Walking while female' should not be a deadly condition.
 
 
-### OTHER on 2026-05-06 02:00
-- Location: Dailymail.com
-- Description: The disappearance of  Savannah Guthrie's 84-year-old mother has lasted well over two months, perplexing a nation and law enforcement. Some blame has been aimed at Patel.
-
-
-### SHOOTING on 2026-05-06 01:59
-- Location: Reason
-- Description: The Second Circuit’s Misunderstanding of Founding-Era Law on Going Armed
-
-
-### OTHER on 2026-05-06 01:49
+### OTHER on 2026-05-06 03:11
 - Location: ABC News (AU)
-- Description: It comes as the Royal Commission on Antisemitism and Social Cohesion enters its third day of hearings from Jewish Australians sharing lived experience.
+- Description: A jury retires to consider its verdict in the trial of a driver of a Greyhound bus which caused a triple-fatal crash on the Bruce Highway in 2024.
 
 
-### HOMICIDE on 2026-05-06 01:48
-- Location: Dailymail.com
-- Description: The brother of singer D4vd has ignited online fury by launching his own music career amid the Celeste Rivas murder case.
+### OTHER on 2026-05-06 03:09
+- Location: Superherohype.com
+- Description: Daredevil: Born Again Season 2 saved its biggest card for the finale’s closing moments. The season ender brought back a bulletproof fan favorite whose return had been hiding in plain sight since Jessica Jones first appeared this season. Luke Cage’s return and…
 
-Analysis generated at: Thu May  7 02:16:46 UTC 2026
+
+### HOMICIDE on 2026-05-06 03:01
+- Location: Abcnews.com
+- Description: An Australian man accused of killing 15 people in a shooting targeting a Hanukkah celebration at Sydney’s Bondi Beach faces 19 more charges
+
+
+### ASSAULT on 2026-05-06 02:39
+- Location: Israelnationalnews.com
+- Description: Grand jury adds new indictment against Cole Tomas Allen, adding charge of assaulting a federal officer.
+
+Analysis generated at: Thu May  7 03:37:52 UTC 2026
