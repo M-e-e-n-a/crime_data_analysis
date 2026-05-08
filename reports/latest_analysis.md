@@ -1,10 +1,10 @@
 
-Loaded 103664 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-07 14:01:00
+Loaded 103736 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-07 19:08:26
 
 Incidents by source:
 source
-newsapi           103563
+newsapi           103635
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,30 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-05-07 14:01
-- Location: CBS News
-- Description: CBS News California Investigates obtained data from the LAFD that show 24,503 of the 25,461 patients who received naloxone doses since 2022 survived their overdose, about 96%.
+### ROBBERY/THEFT on 2026-05-07 19:08
+- Location: Forbes
+- Description: A federal grand jury indictment reveals how staged armed robberies were used to fraudulently obtain U visas, exposing red flags law enforcement must watch for.
 
 
-### OTHER on 2026-05-07 13:55
-- Location: Dailymail.com
-- Description: Gary MacArthur worked at the store for 15 years but was fired in March for gross misconduct for failing to follow Sainsbury's guidance on 'prevent[ing] incidents'.
+### OTHER on 2026-05-07 19:05
+- Location: Brit + Co
+- Description: While there are plenty of vacation reads to pick over the summer, Elin Hilderbrand books are some of the best IMO. They highlight the highs and lows of two opposing seasons — summer and winter — and she never skimps on substance, relying on the island of Nant…
 
 
-### ROBBERY/THEFT on 2026-05-07 13:51
-- Location: Page Six
-- Description: The rapper has had a long history of criminal charges, which have included armed robbery, false imprisonment, weapons possession and sexual assault.
+### HOMICIDE on 2026-05-07 19:02
+- Location: The Times of India
+- Description: The investigation into the murder of Chandranath Rath, personal assistant to BJP MLA Suvendu Adhikari, has become a focal point for the West Bengal CID. This tragic event unfolded just hours before the anticipated swearing-in of the BJP's new government. Rath…
 
 
-### HOMICIDE on 2026-05-07 13:48
-- Location: Dailymail.com
-- Description: Linda Lawrence, 66, was said to be unable to control her 'large and powerful' German Shepherds which went on a killing spree after escaping from her home.
+### OTHER on 2026-05-07 19:01
+- Location: Us Weekly
+- Description: Acting U.S. Attorney General Todd Blanche is speaking out on reports of “friction” between federal and local authorities as the search continues for Savannah Guthrie’s missing mother, Nancy Guthrie. “The FBI has worked closely since the day that this happened…
 
 
-### OTHER on 2026-05-07 13:39
-- Location: Breitbart News
-- Description: Democratic members of Congress called for the closure of the Dilley Immigration Processing Center at a press conference held at the facility on Tuesday. The lawmakers spoke to reporters as a small group of protesters gathered outside, demanding the release of…
+### OTHER on 2026-05-07 19:00
+- Location: ComicBook.com
+- Description: Image Courtesy of Fox
 
-Analysis generated at: Fri May  8 14:02:08 UTC 2026
+One of the cool things about sci-fi is that while it often starts out as futuristic, as time passes and reality catches up with fiction, going back to revisit those stories can take on an entirely different meaning. Sometimes, it’s a ma…
+
+Analysis generated at: Fri May  8 19:10:03 UTC 2026
