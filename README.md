@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri May  8 03:32:49 UTC 2026
+Last updated: Fri May  8 07:22:46 UTC 2026
 
 ## Latest Analysis
 
-Loaded 103537 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-07 03:29:33
+Loaded 103571 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-07 07:18:54
 
 Incidents by source:
 source
-newsapi           103436
+newsapi           103470
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-05-07 03:29
-- Location: The Times of India
-- Description: Suvendu Adhikari PA News: Two days after the BJP's West Bengal election victory, Suvendu Adhikari's personal assistant, Chandranath Rath, was shot dead in Madhyamgram. Investigators believe the attack was pre-planned, with attackers using multiple vehicles an…
+### HOMICIDE on 2026-05-07 07:18
+- Location: Dailymail.com
+- Description: El Shafee Elsheikh - known as Jihadi Ringo - is currently serving life in a high-security US prison after he was convicted of hostage-taking and conspiring to murder in 2022.
 
 
-### HOMICIDE on 2026-05-07 03:17
-- Location: Business Insider
-- Description: Epstein's purported suicide note did not come from the Justice Department or one of the many lawsuits surrounding his estate.
-
-
-### HOMICIDE on 2026-05-07 03:15
+### OTHER on 2026-05-07 07:15
 - Location: ABC News (AU)
-- Description: Police were called to the Esplanade at Henley Beach about 6:20am after the body of a woman was found at the beachside suburb.
+- Description: The federal government has given $5.9 million to the Northern Territory to "shut down sleazy, ridiculous shops selling illegal tobacco".
 
 
-### DRUG RELATED on 2026-05-07 03:14
-- Location: Freerepublic.com
-- Description: PORTLAND, Ore. (KATU) — Since the city began contracting with Urban Alchemy — a large San Francisco-based nonprofit homeless service provider — in 2023, Portland's Ombudsman has received more than 80 complaints about the organization, mostly from guests. The …
+### HOMICIDE on 2026-05-07 07:13
+- Location: The Indian Express
+- Description: These attacks occurred on the same night when assailants shot dead BJP leader Suvendu Adhikari's close aide Chandranath Rath.
 
 
-### ROBBERY/THEFT on 2026-05-07 03:13
-- Location: CNA
-- Description: Marlon Ferro also arranged to buy and send luxury handbags for Malone Lam’s girlfriend after the latter was detained by authorities.
+### OTHER on 2026-05-07 06:51
+- Location: The Local Sweden
+- Description: Swedish MPs to discuss revote on transitional citizenship rules, more than 300 past and present elected officials linked to gang crime, and women's stock portfolios outperform men's. Here's the latest news.
 
-Analysis generated at: Fri May  8 03:32:49 UTC 2026
+
+### ROBBERY/THEFT on 2026-05-07 06:16
+- Location: Fox News
+- Description: A burglary suspect in Oregon now faces charges including DUII, identity theft and reckless driving after crashing into another vehicle during a police pursuit, deputies said.
+
+Analysis generated at: Fri May  8 07:22:46 UTC 2026
