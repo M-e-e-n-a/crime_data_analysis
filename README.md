@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri May  8 02:32:31 UTC 2026
+Last updated: Fri May  8 03:32:49 UTC 2026
 
 ## Latest Analysis
 
-Loaded 103530 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-07 02:30:00
+Loaded 103537 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-07 03:29:33
 
 Incidents by source:
 source
-newsapi           103429
+newsapi           103436
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-05-07 02:30
-- Location: Bleed Cubbie Blue
-- Description: The late-night/early-morning spot for Cubs fans asks if you’d trade for an injured Tarik Skubal.
+### HOMICIDE on 2026-05-07 03:29
+- Location: The Times of India
+- Description: Suvendu Adhikari PA News: Two days after the BJP's West Bengal election victory, Suvendu Adhikari's personal assistant, Chandranath Rath, was shot dead in Madhyamgram. Investigators believe the attack was pre-planned, with attackers using multiple vehicles an…
 
 
-### OTHER on 2026-05-07 02:26
-- Location: Dailymail.com
-- Description: The 39-year-old former Test cricket star's charge had its first mention in a Sydney court on Thursday.
+### HOMICIDE on 2026-05-07 03:17
+- Location: Business Insider
+- Description: Epstein's purported suicide note did not come from the Justice Department or one of the many lawsuits surrounding his estate.
 
 
-### OTHER on 2026-05-07 02:23
+### HOMICIDE on 2026-05-07 03:15
 - Location: ABC News (AU)
-- Description: A Melbourne council will enable authorities to impound the belongings of a person experiencing homelessness if they display anti-social behaviour.
+- Description: Police were called to the Esplanade at Henley Beach about 6:20am after the body of a woman was found at the beachside suburb.
 
 
-### OTHER on 2026-05-07 02:03
-- Location: Activistpost.com
-- Description: Tether froze $344M in USDT on Tron in coordination with OFAC. BlackRock adds $900M in BTC. BOJ studies US private credit contagion. UK courts approve nationwide facial recognition. TFTC – Truth for the CommonerBitcoin Brief Sup, freaks.Tether just froze $344 …
+### DRUG RELATED on 2026-05-07 03:14
+- Location: Freerepublic.com
+- Description: PORTLAND, Ore. (KATU) — Since the city began contracting with Urban Alchemy — a large San Francisco-based nonprofit homeless service provider — in 2023, Portland's Ombudsman has received more than 80 complaints about the organization, mostly from guests. The …
 
 
-### OTHER on 2026-05-07 01:55
-- Location: Thefutoncritic.com
-- Description: With his family's safety at stake and menacing threats closing in, a police officer must decide how far he'll go to uphold his duty.
+### ROBBERY/THEFT on 2026-05-07 03:13
+- Location: CNA
+- Description: Marlon Ferro also arranged to buy and send luxury handbags for Malone Lam’s girlfriend after the latter was detained by authorities.
 
-Analysis generated at: Fri May  8 02:32:31 UTC 2026
+Analysis generated at: Fri May  8 03:32:49 UTC 2026
