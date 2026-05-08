@@ -1,10 +1,10 @@
 
-Loaded 103497 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-06 19:30:11
+Loaded 103530 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-07 02:30:00
 
 Incidents by source:
 source
-newsapi           103396
+newsapi           103429
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-05-06 19:30
+### OTHER on 2026-05-07 02:30
+- Location: Bleed Cubbie Blue
+- Description: The late-night/early-morning spot for Cubs fans asks if you’d trade for an injured Tarik Skubal.
+
+
+### OTHER on 2026-05-07 02:26
 - Location: Dailymail.com
-- Description: A teenage thug has admitted stabbing a man to death just months after being let out on bail for another horror knife attack.
+- Description: The 39-year-old former Test cricket star's charge had its first mention in a Sydney court on Thursday.
 
 
-### HOMICIDE on 2026-05-06 19:30
-- Location: CBC News
-- Description: It's been just over a year since Keith Scott was found dead in a Victoria supportive housing building, and his ex-wife says their daughter still asks every day why the killer hasn't been brought to justice.
+### OTHER on 2026-05-07 02:23
+- Location: ABC News (AU)
+- Description: A Melbourne council will enable authorities to impound the belongings of a person experiencing homelessness if they display anti-social behaviour.
 
 
-### OTHER on 2026-05-06 19:29
-- Location: Abcnews.com
-- Description: Kevin McKidd joins “GMA” to share what's next after departing the long-running series, where he played Dr. Owen Hunt.
+### OTHER on 2026-05-07 02:03
+- Location: Activistpost.com
+- Description: Tether froze $344M in USDT on Tron in coordination with OFAC. BlackRock adds $900M in BTC. BOJ studies US private credit contagion. UK courts approve nationwide facial recognition. TFTC – Truth for the CommonerBitcoin Brief Sup, freaks.Tether just froze $344 …
 
 
-### OTHER on 2026-05-06 19:29
-- Location: Dailymail.com
-- Description: Two men whose company sponsored a Scottish football club have been jailed over a £12million cocaine trafficking operation.
+### OTHER on 2026-05-07 01:55
+- Location: Thefutoncritic.com
+- Description: With his family's safety at stake and menacing threats closing in, a police officer must decide how far he'll go to uphold his duty.
 
-
-### OTHER on 2026-05-06 19:25
-- Location: Dailymail.com
-- Description: The physical bombs are not the only threat to Iranian athletes, as more than 80 competitors sit imprisoned for allegedly criticising Iran's regime - as they take the places of those now executed.
-
-Analysis generated at: Thu May  7 19:30:56 UTC 2026
+Analysis generated at: Fri May  8 02:32:31 UTC 2026
