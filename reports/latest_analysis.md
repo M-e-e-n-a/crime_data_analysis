@@ -1,10 +1,10 @@
 
-Loaded 103655 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-07 13:13:37
+Loaded 103664 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-07 14:01:00
 
 Incidents by source:
 source
-newsapi           103554
+newsapi           103563
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-05-07 13:13
-- Location: Associated Press
-- Description: Three Western intelligence officials from different countries have told The Associated Press that a campaign of targeted killings they blame on Russia has ramped up since Moscow’s 2022 invasion of Ukraine. While Russian officials have long been accused of sil…
+### OTHER on 2026-05-07 14:01
+- Location: CBS News
+- Description: CBS News California Investigates obtained data from the LAFD that show 24,503 of the 25,461 patients who received naloxone doses since 2022 survived their overdose, about 96%.
 
 
-### OTHER on 2026-05-07 13:13
+### OTHER on 2026-05-07 13:55
 - Location: Dailymail.com
-- Description: When he first made a name for himself on reality TV , Jake raised eyebrows with the treatment of his on/off girlfriend Chloe Lewis.
+- Description: Gary MacArthur worked at the store for 15 years but was fired in March for gross misconduct for failing to follow Sainsbury's guidance on 'prevent[ing] incidents'.
 
 
-### OTHER on 2026-05-07 13:11
-- Location: Fortune
-- Description: San Jose Mayor Matt Mahan is tech’s favorite candidate to be the next leader of California.
+### ROBBERY/THEFT on 2026-05-07 13:51
+- Location: Page Six
+- Description: The rapper has had a long history of criminal charges, which have included armed robbery, false imprisonment, weapons possession and sexual assault.
 
 
-### HOMICIDE on 2026-05-07 13:10
-- Location: Khabarhub.com
-- Description: KATHMANDU: Police have arrested three individuals in connection with the murder of a young man in Kirtipur. According to the Kathmandu District Police Range, 22-year-old Bipin Ghimire was attacked with a sharp weapon and killed near Chiya Sagar in Podetol, Ki…
+### HOMICIDE on 2026-05-07 13:48
+- Location: Dailymail.com
+- Description: Linda Lawrence, 66, was said to be unable to control her 'large and powerful' German Shepherds which went on a killing spree after escaping from her home.
 
 
-### ROBBERY/THEFT on 2026-05-07 13:02
-- Location: Independent.ie
-- Description: A 28-year-old man has been arrested on suspicion of selling former Downing Street chief of staff Morgan McSweeney’s stolen phone.
+### OTHER on 2026-05-07 13:39
+- Location: Breitbart News
+- Description: Democratic members of Congress called for the closure of the Dilley Immigration Processing Center at a press conference held at the facility on Tuesday. The lawmakers spoke to reporters as a small group of protesters gathered outside, demanding the release of…
 
-Analysis generated at: Fri May  8 13:19:31 UTC 2026
+Analysis generated at: Fri May  8 14:02:08 UTC 2026
