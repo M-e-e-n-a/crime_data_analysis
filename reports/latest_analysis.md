@@ -1,10 +1,10 @@
 
-Loaded 103807 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-08 07:37:59
+Loaded 103849 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-08 12:47:00
 
 Incidents by source:
 source
-newsapi           103706
+newsapi           103748
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-05-08 07:37
+### OTHER on 2026-05-08 12:47
+- Location: PRNewswire
+- Description: INDIANAPOLIS, May 8, 2026 /PRNewswire/ -- State and local law enforcement agencies rely on funding from the Byrne Justice Assistance Grant (JAG) and Community Oriented Policing Services (COPS) grant programs to carry out their critical work. With the enactmen…
+
+
+### ASSAULT on 2026-05-08 12:30
+- Location: TheJournal.ie
+- Description: Barry Anthony Toman was described as a “committed, violent terrorist” as the court was told his DNA could be found on five different parts of the bomb.
+
+
+### ASSAULT on 2026-05-08 12:22
 - Location: Israelnationalnews.com
-- Description: The brutal murder, and the fact that the suspects are all teenagers, shocked the country.
+- Description: Condemning Jew-hatred while simultaneously inciting it through incendiary distortions is the mind-twisting stock in trade of the anti-Israel left. Diaspora Jewish leaders should get up off their knees and start fighting it. Opinion.
 
 
-### ASSAULT on 2026-05-08 07:33
-- Location: LADbible
-- Description: He is due to appear in court today
+### HOMICIDE on 2026-05-08 12:21
+- Location: New York Post
+- Description: Police found the girl and her dead parents 30 hours after the crash.
 
 
-### HOMICIDE on 2026-05-08 07:30
-- Location: C21media.net
-- Description: NEWS BRIEF: Canadian psychological drama Murder in a Small Town has been renewed for a third season at US broadcaster Fox. The series, based on LR Wright's Karl Alberg nine-book series, is produced by ...
-
-
-### OTHER on 2026-05-08 07:24
-- Location: The Indian Express
-- Description: The NCRB data for 2024 shows that cybercrime cases in Himachal Pradesh increased from 77 in 2022 and 127 in 2023 to 148 cases in 2024.
-
-
-### ASSAULT on 2026-05-08 07:14
+### OTHER on 2026-05-08 12:13
 - Location: Dailymail.com
-- Description: Barrie Drewitt-Barlow, 57, and his husband Scott Hutchison, 32, of Danbury, Essex, will appear at Chelmsford Magistrates' Court today.
+- Description: Police found almost 27,000 fake items in a Rotherham warehouse, enough to fill four 18-tonne lorries.
 
-Analysis generated at: Sat May  9 07:49:31 UTC 2026
+Analysis generated at: Sat May  9 13:04:03 UTC 2026
