@@ -1,10 +1,10 @@
 
-Loaded 103849 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-08 12:47:00
+Loaded 103852 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-08 13:24:37
 
 Incidents by source:
 source
-newsapi           103748
+newsapi           103751
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,6 +20,24 @@ ion.svg)
 
 ## Recent Incidents
 
+### OTHER on 2026-05-08 13:24
+- Location: Freerepublic.com
+- Description: A retired Baptist pastor was convicted Thursday of preaching near an abortion center, in an egregious case of violation of free speech rights. The pastor was convicted of breaching a so-called buffer zone outside an abortion clinic after he led a small open-a…
+
+
+### HOMICIDE on 2026-05-08 13:14
+- Location: Gothamist
+- Description: An NYPD van in Times Square on May 7, 2018
+ 
+
+The 17-year-old is facing murder and other charges in the stabbing incident and several robberies in the area. [ more › ]
+
+
+### HOMICIDE on 2026-05-08 13:12
+- Location: Dailymail.com
+- Description: Tony Moreno was sentenced to 70 years in prison for killing his seven-month-old son Aaden by hurling him off a bridge in Middletown, Connecticut.
+
+
 ### OTHER on 2026-05-08 12:47
 - Location: PRNewswire
 - Description: INDIANAPOLIS, May 8, 2026 /PRNewswire/ -- State and local law enforcement agencies rely on funding from the Byrne Justice Assistance Grant (JAG) and Community Oriented Policing Services (COPS) grant programs to carry out their critical work. With the enactmen…
@@ -29,19 +47,4 @@ ion.svg)
 - Location: TheJournal.ie
 - Description: Barry Anthony Toman was described as a “committed, violent terrorist” as the court was told his DNA could be found on five different parts of the bomb.
 
-
-### ASSAULT on 2026-05-08 12:22
-- Location: Israelnationalnews.com
-- Description: Condemning Jew-hatred while simultaneously inciting it through incendiary distortions is the mind-twisting stock in trade of the anti-Israel left. Diaspora Jewish leaders should get up off their knees and start fighting it. Opinion.
-
-
-### HOMICIDE on 2026-05-08 12:21
-- Location: New York Post
-- Description: Police found the girl and her dead parents 30 hours after the crash.
-
-
-### OTHER on 2026-05-08 12:13
-- Location: Dailymail.com
-- Description: Police found almost 27,000 fake items in a Rotherham warehouse, enough to fill four 18-tonne lorries.
-
-Analysis generated at: Sat May  9 13:04:03 UTC 2026
+Analysis generated at: Sat May  9 13:27:52 UTC 2026
