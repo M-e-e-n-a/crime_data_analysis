@@ -1,10 +1,10 @@
 
-Loaded 103852 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-08 13:24:37
+Loaded 103936 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-08 18:49:33
 
 Incidents by source:
 source
-newsapi           103751
+newsapi           103835
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,31 +20,30 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-05-08 13:24
-- Location: Freerepublic.com
-- Description: A retired Baptist pastor was convicted Thursday of preaching near an abortion center, in an egregious case of violation of free speech rights. The pastor was convicted of breaching a so-called buffer zone outside an abortion clinic after he led a small open-a…
+### HOMICIDE on 2026-05-08 18:49
+- Location: Fox News
+- Description: Attorneys for Raul Valle argue new reckless manslaughter charges filed after his murder acquittal violate double jeopardy protections in Connecticut.
 
 
-### HOMICIDE on 2026-05-08 13:14
-- Location: Gothamist
-- Description: An NYPD van in Times Square on May 7, 2018
- 
-
-The 17-year-old is facing murder and other charges in the stabbing incident and several robberies in the area. [ more › ]
+### OTHER on 2026-05-08 18:47
+- Location: Bleeding Cool News
+- Description: David Boreanaz (Buffy the Vampire Slayer, Angel, Bones) will be hitting NBC screens for the 2026-2027 season, with NBC picking up two comedies and two dramas to series ahead of Monday's big Upfronts presentation. Along with Boreanaz's The Rockford Files reboo…
 
 
-### HOMICIDE on 2026-05-08 13:12
-- Location: Dailymail.com
-- Description: Tony Moreno was sentenced to 70 years in prison for killing his seven-month-old son Aaden by hurling him off a bridge in Middletown, Connecticut.
+### OTHER on 2026-05-08 18:42
+- Location: Screen Rant
+- Description: ScreenRant's binge-watching guide for new original Netflix series features three short trending hits that are worth your time this weekend, May 6–8.
 
 
-### OTHER on 2026-05-08 12:47
-- Location: PRNewswire
-- Description: INDIANAPOLIS, May 8, 2026 /PRNewswire/ -- State and local law enforcement agencies rely on funding from the Byrne Justice Assistance Grant (JAG) and Community Oriented Policing Services (COPS) grant programs to carry out their critical work. With the enactmen…
+### OTHER on 2026-05-08 18:36
+- Location: Extra
+- Description: Savannah Guthrie’s mother Nancy Guthrie is still missing more than three months after she was abducted by a masked intruder.
+ Now, USA Today reports true crime streamer A.J.DoubleU News has found remains just miles from Nancy’s house.
+ The Tucson Police Depar…
 
 
-### ASSAULT on 2026-05-08 12:30
-- Location: TheJournal.ie
-- Description: Barry Anthony Toman was described as a “committed, violent terrorist” as the court was told his DNA could be found on five different parts of the bomb.
+### OTHER on 2026-05-08 18:34
+- Location: Ibtimes.com.au
+- Description: SAN LUIS OBISPO, Calif. — Nearly 30 years after Kristin Smart vanished from the California Polytechnic State University campus in 1996, the case remains one of California's most haunting cold cases, marked by a landmark conviction without a body and renewed s…
 
-Analysis generated at: Sat May  9 13:27:52 UTC 2026
+Analysis generated at: Sat May  9 18:53:19 UTC 2026
