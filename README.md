@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri May  8 19:10:03 UTC 2026
+Last updated: Sat May  9 02:25:21 UTC 2026
 
 ## Latest Analysis
 
-Loaded 103736 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-07 19:08:26
+Loaded 103761 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-08 02:23:30
 
 Incidents by source:
 source
-newsapi           103635
+newsapi           103660
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,30 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2026-05-07 19:08
-- Location: Forbes
-- Description: A federal grand jury indictment reveals how staged armed robberies were used to fraudulently obtain U visas, exposing red flags law enforcement must watch for.
+### OTHER on 2026-05-08 02:23
+- Location: The Conversation Africa
+- Description: Two women have been charged with slavery offences, and another with terrorism offences. It’s uncharted legal territory for Australia.
 
 
-### OTHER on 2026-05-07 19:05
-- Location: Brit + Co
-- Description: While there are plenty of vacation reads to pick over the summer, Elin Hilderbrand books are some of the best IMO. They highlight the highs and lows of two opposing seasons — summer and winter — and she never skimps on substance, relying on the island of Nant…
+### HOMICIDE on 2026-05-08 02:19
+- Location: ABC News (AU)
+- Description: A jury has found Jaeden Tito and Rabii Zahabe guilty of murdering underworld figure Gavin Preston outside a Melbourne cafe in 2023.
 
 
-### HOMICIDE on 2026-05-07 19:02
-- Location: The Times of India
-- Description: The investigation into the murder of Chandranath Rath, personal assistant to BJP MLA Suvendu Adhikari, has become a focal point for the West Bengal CID. This tragic event unfolded just hours before the anticipated swearing-in of the BJP's new government. Rath…
+### OTHER on 2026-05-08 02:10
+- Location: New York Post
+- Description: Investigators say Tommie Simpson III was walking east across Vermont Avenue outside of a crosswalk when he was hit by a light-colored sedan.
 
 
-### OTHER on 2026-05-07 19:01
-- Location: Us Weekly
-- Description: Acting U.S. Attorney General Todd Blanche is speaking out on reports of “friction” between federal and local authorities as the search continues for Savannah Guthrie’s missing mother, Nancy Guthrie. “The FBI has worked closely since the day that this happened…
+### OTHER on 2026-05-08 02:01
+- Location: Bleeding Cool News
+- Description: Okay, now it's time to start negotiating with Christopher Meloni to get Elliot Stabler back. Previously, we learned that Mariska Hargitay-starring Law & Order: SVU would be back for a new season. Now, Variety is reporting that NBC's Law & Order, starring Odel…
 
 
-### OTHER on 2026-05-07 19:00
-- Location: ComicBook.com
-- Description: Image Courtesy of Fox
+### OTHER on 2026-05-08 02:00
+- Location: New Zealand Herald
+- Description: David Warner was allegedly more than double the legal blood alcohol limit in Australia.
 
-One of the cool things about sci-fi is that while it often starts out as futuristic, as time passes and reality catches up with fiction, going back to revisit those stories can take on an entirely different meaning. Sometimes, it’s a ma…
-
-Analysis generated at: Fri May  8 19:10:03 UTC 2026
+Analysis generated at: Sat May  9 02:25:21 UTC 2026
