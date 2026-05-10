@@ -1,10 +1,10 @@
 
-Loaded 103961 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-09 03:45:00
+Loaded 103972 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-09 08:00:00
 
 Incidents by source:
 source
-newsapi           103860
+newsapi           103871
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-05-09 03:45
-- Location: DW (English)
-- Description: Mateo Perez, a 25-year-old Colombian reporter, reportedly went missing on May 5 after being detained by guerrilla members at a roadblock.
+### OTHER on 2026-05-09 08:00
+- Location: CBC News
+- Description: It took more than six hours for military police to conduct a wellness check on an intelligence officer in Ottawa after his wife called them because she was concerned for his safety, according to newly disclosed evidence.
 
 
-### OTHER on 2026-05-09 03:36
-- Location: ABC News (AU)
-- Description: Miners have unearthed a large ruby in Myanmar, which produces up to 90 per cent of the world's rubies.
+### HOMICIDE on 2026-05-09 08:00
+- Location: CBC News
+- Description: People living in the eastern Ontario city are trying to process the deaths of a mother and her two daughters this week. The three were killed in what local police are calling both a femicide and an act of intimate partner violence.
 
 
-### OTHER on 2026-05-09 03:22
+### HOMICIDE on 2026-05-09 06:35
+- Location: New York Post
+- Description: The mother of the woman fatally shot by her Texas father during her visit to the US amid a politically-charged argument blasted the local police for not bringing up charges in her daughter's death despite "physical evidence."
+
+
+### HOMICIDE on 2026-05-09 05:39
 - Location: Dailymail.com
-- Description: A council worker made the shocking discovery on Friday.
+- Description: A soccer game outside a Michigan elementary school turned deadly when an 18-year-old allegedly opened fire during an argument killing a 15-year-old boy and a mother-of-seven.
 
 
-### OTHER on 2026-05-09 03:18
-- Location: Dailymail.com
-- Description: The 42-year-old reality TV star-turned-politician reimagines Los Angeles as a picture-perfect utopia in a minute-long commercial created by filmmaker Charles Curran.
+### HOMICIDE on 2026-05-09 05:12
+- Location: The Indian Express
+- Description: A data analysis of the last five years shows that, barring 2023, the number of road fatalities varied across reports. While the difference may not appear large, the gap rises to nearly 4,000 deaths over the period under analysis.
 
-
-### OTHER on 2026-05-09 03:10
-- Location: Gossiplankanews.com
-- Description: Atamasthanadhipathi Venerable Pallegama Hemarathana Thero was arrested by Nittambuwa Police yesterday (08) around 11:45 PM on charges of abusing a minor girl. The suspect monk was taken into police custody while receiving treatment in the emergency unit of a …
-
-Analysis generated at: Sun May 10 03:46:04 UTC 2026
+Analysis generated at: Sun May 10 08:02:25 UTC 2026
