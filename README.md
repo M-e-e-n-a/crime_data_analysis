@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun May 10 13:05:51 UTC 2026
+Last updated: Sun May 10 13:40:25 UTC 2026
 
 ## Latest Analysis
 
-Loaded 104002 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-09 13:01:03
+Loaded 104005 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-09 13:36:02
 
 Incidents by source:
 source
-newsapi           103901
+newsapi           103904
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,6 +24,22 @@ ion.svg)
 
 ## Recent Incidents
 
+### OTHER on 2026-05-09 13:36
+- Location: Crypto Briefing
+- Description: The Ujah case underscores the urgent need for stronger consumer protection in the UK's rapidly evolving and vulnerable crypto market.
+The post British Olympic sprinter CJ Ujah charged in UK cryptocurrency fraud investigation appeared first on Crypto Briefing.
+
+
+### OTHER on 2026-05-09 13:30
+- Location: Newser
+- Description: Police in Norway are treating some aurora borealis hunters less like dreamy stargazers and more like participants in a black-market industry. In Tromso, a once-quiet Arctic college town now swamped by northern lights tourism, authorities say nearly half of lo…
+
+
+### OTHER on 2026-05-09 13:08
+- Location: New York Post
+- Description: The Iran war’s launch prompted Trump to postpone his China trip by two months — and has now left him in a far stronger position.
+
+
 ### ROBBERY/THEFT on 2026-05-09 13:01
 - Location: Decrypt
 - Description: U.K. police charged British sprinter CJ Ujah in an alleged crypto fraud scheme involving wallet seed phrase theft and impersonation calls.
@@ -33,19 +49,4 @@ ion.svg)
 - Location: CNBC
 - Description: AI can now mimic a familiar voice in seconds, making scam calls harder to spot.
 
-
-### OTHER on 2026-05-09 13:00
-- Location: Rolling Stone
-- Description: A personal remembrance of growing up in Sea Gate, Coney Island, in the 1960s.
-
-
-### HOMICIDE on 2026-05-09 12:50
-- Location: Newser
-- Description: A former sheriff's deputy was found guilty of reckless homicide at trial on Thursday for shooting a Black man who was bringing sandwiches to his grandmother's house. The killing of Casey Goodson Jr. by Jason Meade in December 2020 had provoked outrage in Ohio…
-
-
-### OTHER on 2026-05-09 12:42
-- Location: Dailymail.com
-- Description: Josh first appeared on the Channel 4 show in 2013 at just 15 years old, alongside his parents and sister Amy during the programme's debut series.
-
-Analysis generated at: Sun May 10 13:05:51 UTC 2026
+Analysis generated at: Sun May 10 13:40:25 UTC 2026
