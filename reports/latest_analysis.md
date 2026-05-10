@@ -1,10 +1,10 @@
 
-Loaded 104005 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-09 13:36:02
+Loaded 104047 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-09 18:49:06
 
 Incidents by source:
 source
-newsapi           103904
+newsapi           103946
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,29 +20,30 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-05-09 13:36
-- Location: Crypto Briefing
-- Description: The Ujah case underscores the urgent need for stronger consumer protection in the UK's rapidly evolving and vulnerable crypto market.
-The post British Olympic sprinter CJ Ujah charged in UK cryptocurrency fraud investigation appeared first on Crypto Briefing.
+### HOMICIDE on 2026-05-09 18:49
+- Location: Dailymail.com
+- Description: A man, named locally as Dre Brown, was stabbed on Raby Street, Moss Side in  Manchester. He sadly died later from his injuries after being taken to hospital.
 
 
-### OTHER on 2026-05-09 13:30
-- Location: Newser
-- Description: Police in Norway are treating some aurora borealis hunters less like dreamy stargazers and more like participants in a black-market industry. In Tromso, a once-quiet Arctic college town now swamped by northern lights tourism, authorities say nearly half of lo…
+### ASSAULT on 2026-05-09 18:29
+- Location: Breitbart News
+- Description: A Georgia high school biology teacher has been arrested for alleged sexual misconduct with one of her students, including consummating their affair in a closet on school grounds.
+The post Georgia Biology Teacher Charged for Sexual Assault of High School Stude…
 
 
-### OTHER on 2026-05-09 13:08
-- Location: New York Post
-- Description: The Iran war’s launch prompted Trump to postpone his China trip by two months — and has now left him in a far stronger position.
+### OTHER on 2026-05-09 18:11
+- Location: Yahoo Entertainment
+- Description: The PGA Championship is the major that is OK letting its hair down—literally in the case of John Daly. Here are moments some unique moments in its history
 
 
-### ROBBERY/THEFT on 2026-05-09 13:01
-- Location: Decrypt
-- Description: U.K. police charged British sprinter CJ Ujah in an alleged crypto fraud scheme involving wallet seed phrase theft and impersonation calls.
+### SHOOTING on 2026-05-09 18:10
+- Location: Breitbart News
+- Description: Authorities have released footage of the moment a man accused of slashing people with a machete in New York City was fatally shot.
+The post VIDEO — NYPD Officer Fatally Shoots Machete-Wielding Man Accused of Slashing 3 Elderly People: ‘I Am Lucifer!’ appeared…
 
 
-### OTHER on 2026-05-09 13:00
-- Location: CNBC
-- Description: AI can now mimic a familiar voice in seconds, making scam calls harder to spot.
+### HOMICIDE on 2026-05-09 18:02
+- Location: The Times of India
+- Description: Gorakhpur murder: Rajdhari Yadav held after police encounter for killing lover Barfi and dumping body near Chhawani station; weapons recovered.
 
-Analysis generated at: Sun May 10 13:40:25 UTC 2026
+Analysis generated at: Sun May 10 18:54:31 UTC 2026
