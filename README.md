@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon May 11 14:37:01 UTC 2026
+Last updated: Mon May 11 15:22:28 UTC 2026
 
 ## Latest Analysis
 
-Loaded 104125 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-10 14:19:11
+Loaded 104131 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-10 15:16:05
 
 Incidents by source:
 source
-newsapi           104024
+newsapi           104030
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,32 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-05-10 14:19
+### OTHER on 2026-05-10 15:16
 - Location: Dailymail.com
-- Description: Made In Chelsea star Emily Blackwell has party hopped from a wild cowgirl theme hen do to the BAFTA TV Awards - days after her surprise wedding.
+- Description: The pair, who were crowned champions of the 2025 series back in August, split in March after seven months together.
 
 
-### OTHER on 2026-05-10 14:15
-- Location: Screen Rant
-- Description: Dark fantasy is defined by less hopeful themes than traditional fantasy, and a signature dark aesthetic. The subgenre has many hidden gems to watch.
+### OTHER on 2026-05-10 15:00
+- Location: TechRadar
+- Description: With the LG C6's launch imminent, is it better value than last year's flagship G5? I tested the two side-by-side to find out
 
 
-### ROBBERY/THEFT on 2026-05-10 14:07
-- Location: The Punch
-- Description: Ondo State Police arrested two suspects, including a security guard, for the vandalism and theft of electrical cables at a general hospital.
-
-Read More: https://punchng.com/police-arrest-two-over-vandalism-theft-at-ondo-hospital/
-
-
-### SHOOTING on 2026-05-10 14:07
-- Location: The Punch
-- Description: Gunmen have launched an attack on a Rivers vigilante (OSPAC) office in Omoku, injuring one personnel. The assailants fled after being repelled by guards.
-
-Read More: https://punchng.com/gunmen-attack-rivers-vigilante-office-injure-personnel/
-
-
-### HOMICIDE on 2026-05-10 13:58
+### HOMICIDE on 2026-05-10 14:53
 - Location: Dailymail.com
-- Description: Joshua Davis, 16, was killed on January 6, 2004, in what authorities initially believed was a hit-and-run. However police are now investigating it as a homicide.
+- Description: Shortly after 6am, last Sunday, Stuart Blanchard was woken by angry voices drifting through his bedroom window. At first, he thought it was a troublesome neighbour.
 
-Analysis generated at: Mon May 11 14:37:01 UTC 2026
+
+### HOMICIDE on 2026-05-10 14:51
+- Location: News24
+- Description: A 10-year-old boy and an adult male, who were shot, in Kliptown, Soweto, on Saturday evening, later succumbed to their injuries, while a third is receiving medical treatment in hospital.
+
+
+### OTHER on 2026-05-10 14:42
+- Location: Dailymail.com
+- Description: Tarran Frost still remembers the moment a rumour she didn't recognise began to follow her through school corridors in Melbourne.
+
+Analysis generated at: Mon May 11 15:22:28 UTC 2026
