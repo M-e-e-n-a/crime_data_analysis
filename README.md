@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun May 10 18:54:31 UTC 2026
+Last updated: Mon May 11 02:37:09 UTC 2026
 
 ## Latest Analysis
 
-Loaded 104047 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-09 18:49:06
+Loaded 104060 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-10 02:30:20
 
 Incidents by source:
 source
-newsapi           103946
+newsapi           103959
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,30 +24,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-05-09 18:49
-- Location: Dailymail.com
-- Description: A man, named locally as Dre Brown, was stabbed on Raby Street, Moss Side in  Manchester. He sadly died later from his injuries after being taken to hospital.
+### OTHER on 2026-05-10 02:30
+- Location: Screen Rant
+- Description: There are a lot of great mob movies from over the years, and here are ones you should watch other than The Godfather or Goodfellas that are great.
 
 
-### ASSAULT on 2026-05-09 18:29
-- Location: Breitbart News
-- Description: A Georgia high school biology teacher has been arrested for alleged sexual misconduct with one of her students, including consummating their affair in a closet on school grounds.
-The post Georgia Biology Teacher Charged for Sexual Assault of High School Stude…
+### OTHER on 2026-05-10 02:10
+- Location: Freerepublic.com
+- Description: The Los Angeles City Council voted 14-0 to advance restrictions on police traffic stops rooted in one dangerous idea: That cops enforcing traffic laws are somehow the real threat on the streets of LA. Not the drunk driver. Not the gang member carrying an ille…
 
 
-### OTHER on 2026-05-09 18:11
-- Location: Yahoo Entertainment
-- Description: The PGA Championship is the major that is OK letting its hair down—literally in the case of John Daly. Here are moments some unique moments in its history
+### OTHER on 2026-05-10 02:00
+- Location: Sankakucomplex.com
+- Description: Police in Japan have arrested two Sri Lankan men accused of stealing copper plates and decorations from a temple damaged during the Noto Peninsula earthquake. According to authorities, the suspects are 30-year-old Mohammed Fairoos Mohammed Fainas and 29-year-…
 
 
-### SHOOTING on 2026-05-09 18:10
-- Location: Breitbart News
-- Description: Authorities have released footage of the moment a man accused of slashing people with a machete in New York City was fatally shot.
-The post VIDEO — NYPD Officer Fatally Shoots Machete-Wielding Man Accused of Slashing 3 Elderly People: ‘I Am Lucifer!’ appeared…
+### OTHER on 2026-05-10 02:00
+- Location: Allthatsinteresting.com
+- Description: Before Carrie Bradshaw and Hannah Horvath, New York was host to the 1980s. And trust us, it wasn't all that pretty.
+The post When Crack Was King: 1980s New York In Photos appeared first on All That's Interesting.
 
 
-### HOMICIDE on 2026-05-09 18:02
-- Location: The Times of India
-- Description: Gorakhpur murder: Rajdhari Yadav held after police encounter for killing lover Barfi and dumping body near Chhawani station; weapons recovered.
+### OTHER on 2026-05-10 02:00
+- Location: New Zealand Herald
+- Description: The man who loves to bring people together shares his most precious connection.
 
-Analysis generated at: Sun May 10 18:54:31 UTC 2026
+Analysis generated at: Mon May 11 02:37:09 UTC 2026
