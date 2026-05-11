@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon May 11 02:37:09 UTC 2026
+Last updated: Mon May 11 03:58:43 UTC 2026
 
 ## Latest Analysis
 
-Loaded 104060 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-10 02:30:20
+Loaded 104066 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-10 03:52:36
 
 Incidents by source:
 source
-newsapi           103959
+newsapi           103965
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-05-10 02:30
-- Location: Screen Rant
-- Description: There are a lot of great mob movies from over the years, and here are ones you should watch other than The Godfather or Goodfellas that are great.
+### OTHER on 2026-05-10 03:52
+- Location: The Times of India
+- Description: Jawad Ahmad Siddiqui, Chairman of Al-Falah University, has been granted three days of police custody. This follows his arrest in a money laundering case linked to the Al-Falah Trust. The trust allegedly generated over Rs 493 crore in proceeds of crime. Siddiq…
 
 
-### OTHER on 2026-05-10 02:10
+### OTHER on 2026-05-10 03:47
 - Location: Freerepublic.com
-- Description: The Los Angeles City Council voted 14-0 to advance restrictions on police traffic stops rooted in one dangerous idea: That cops enforcing traffic laws are somehow the real threat on the streets of LA. Not the drunk driver. Not the gang member carrying an ille…
+- Description: The primary purpose of government is to protect the liberty and property of the citizens. We have seen, for some time and in almost every major American city, how municipal governments from Boston to Los Angeles have utterly failed in this primary role. In Lo…
 
 
-### OTHER on 2026-05-10 02:00
-- Location: Sankakucomplex.com
-- Description: Police in Japan have arrested two Sri Lankan men accused of stealing copper plates and decorations from a temple damaged during the Noto Peninsula earthquake. According to authorities, the suspects are 30-year-old Mohammed Fairoos Mohammed Fainas and 29-year-…
+### OTHER on 2026-05-10 03:42
+- Location: Screen Rant
+- Description: A highly acclaimed spy thriller seems to break many rules of the genre, and its unique storytelling formula highlights why Reacher is successful.
 
 
-### OTHER on 2026-05-10 02:00
-- Location: Allthatsinteresting.com
-- Description: Before Carrie Bradshaw and Hannah Horvath, New York was host to the 1980s. And trust us, it wasn't all that pretty.
-The post When Crack Was King: 1980s New York In Photos appeared first on All That's Interesting.
+### HOMICIDE on 2026-05-10 03:11
+- Location: New York Post
+- Description: TAMPA -- Florida prosecutors are moving to execute the man accused of a double murder of two doctoral students -- a savage killing spree that only ended after the suspect turned to ChatGPT for tips on how to ditch the bodies.
 
 
-### OTHER on 2026-05-10 02:00
-- Location: New Zealand Herald
-- Description: The man who loves to bring people together shares his most precious connection.
+### HOMICIDE on 2026-05-10 03:00
+- Location: CBS News
+- Description: Beverly Hills detectives responding to the death of 67-year-old Violet Yacobi — who was found on the marble floor below a staircase in her mansion — suspected foul play and her dentist son, and wondered if the family fortune was a motive for murder.
 
-Analysis generated at: Mon May 11 02:37:09 UTC 2026
+Analysis generated at: Mon May 11 03:58:43 UTC 2026
