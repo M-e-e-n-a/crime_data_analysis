@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon May 11 09:30:50 UTC 2026
+Last updated: Mon May 11 14:37:01 UTC 2026
 
 ## Latest Analysis
 
-Loaded 104094 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-10 09:27:26
+Loaded 104125 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-10 14:19:11
 
 Incidents by source:
 source
-newsapi           103993
+newsapi           104024
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,32 @@ ion.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2026-05-10 09:27
-- Location: LADbible
-- Description: John Worboys has been in jail since 2009 and will face a public parole hearing later this year
-
-
-### HOMICIDE on 2026-05-10 09:01
+### OTHER on 2026-05-10 14:19
 - Location: Dailymail.com
-- Description: The former TOWIE star died from a chest injury caused by broken glass on Wednesday at a rented property in Santa Margalida, where he had been living as he focused on his artwork.
+- Description: Made In Chelsea star Emily Blackwell has party hopped from a wild cowgirl theme hen do to the BAFTA TV Awards - days after her surprise wedding.
 
 
-### HOMICIDE on 2026-05-10 08:51
-- Location: BBC News
-- Description: The two men were attacked at the Burghmuir retail park in Stirling on Saturday evening.
+### OTHER on 2026-05-10 14:15
+- Location: Screen Rant
+- Description: Dark fantasy is defined by less hopeful themes than traditional fantasy, and a signature dark aesthetic. The subgenre has many hidden gems to watch.
 
 
-### OTHER on 2026-05-10 08:44
-- Location: The Indian Express
-- Description: The incident came to light on Friday after a group of locals noticed the man's 18-year-old wife crying profusely near Kolkata's Brigade Parade Ground.
+### ROBBERY/THEFT on 2026-05-10 14:07
+- Location: The Punch
+- Description: Ondo State Police arrested two suspects, including a security guard, for the vandalism and theft of electrical cables at a general hospital.
+
+Read More: https://punchng.com/police-arrest-two-over-vandalism-theft-at-ondo-hospital/
 
 
-### HOMICIDE on 2026-05-10 08:39
+### SHOOTING on 2026-05-10 14:07
+- Location: The Punch
+- Description: Gunmen have launched an attack on a Rivers vigilante (OSPAC) office in Omoku, injuring one personnel. The assailants fled after being repelled by guards.
+
+Read More: https://punchng.com/gunmen-attack-rivers-vigilante-office-injure-personnel/
+
+
+### HOMICIDE on 2026-05-10 13:58
 - Location: Dailymail.com
-- Description: Joanne Shaw, 35, was killed last Sunday by her violent ex Ryan Kelly, 41, in a suspected murder-suicide when he forced his way into the house in Bristol and set off the blast.
+- Description: Joshua Davis, 16, was killed on January 6, 2004, in what authorities initially believed was a hit-and-run. However police are now investigating it as a homicide.
 
-Analysis generated at: Mon May 11 09:30:50 UTC 2026
+Analysis generated at: Mon May 11 14:37:01 UTC 2026
