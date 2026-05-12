@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon May 11 19:41:57 UTC 2026
+Last updated: Tue May 12 02:30:51 UTC 2026
 
 ## Latest Analysis
 
-Loaded 104179 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-10 19:28:36
+Loaded 104194 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-11 02:20:07
 
 Incidents by source:
 source
-newsapi           104078
+newsapi           104093
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,34 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-05-10 19:28
-- Location: PBS
-- Description: Israel deported two activists on Sunday after being detained for slightly over a week for leading an aid flotilla attempting to break the Israeli naval blockade of the Gaza Strip.
+### SHOOTING on 2026-05-11 02:20
+- Location: The Punch
+- Description: Gunmen opened fire on a local security outfit in Rivers State, injuring one officer. The attack in Omoku town caused panic as residents fled the scene.
+
+Read More: https://punchng.com/one-injured-residents-flee-as-gunmen-attack-rivers-security-outfit/
 
 
-### OTHER on 2026-05-10 19:20
-- Location: Page Six
-- Description: The anchor took to social media to praise her 84-year-old mom who has been missing for almost months.
+### ROBBERY/THEFT on 2026-05-11 02:20
+- Location: The Punch
+- Description: Ondo State police have arrested a suspect and a security guard for the vandalism and theft of electrical cables at the General Hospital in Igbotako.
+
+Read More: https://punchng.com/police-arrest-two-over-vandalism-theft-at-ondo-hospital-2/
 
 
-### OTHER on 2026-05-10 19:16
-- Location: Dailymail.com
-- Description: Paloma Faith's bizarre choice of headwear left BAFTA viewers infuriated during Sunday's star-studded ceremony.
+### OTHER on 2026-05-11 02:10
+- Location: New York Post
+- Description: Women’s nurturing instincts have been turned into weapons of political warfare, especially on the left.
 
 
-### HOMICIDE on 2026-05-10 19:15
-- Location: The Times of India
-- Description: The High Court of Bangladesh has denied bail for Brahmachari Chinmoy Krishna Das, a Hindu monk facing serious charges in the murder trial of a lawyer from 2024. Accused of sedition, Das's arrest has provoked fervent protests from his followers, culminating in…
+### OTHER on 2026-05-11 01:55
+- Location: New York Post
+- Description: Los Angeles mayoral hopeful Nithya Raman is desperately backpedaling from her former “defund the police” rhetoric in a dramatic campaign U-turn that could alienate her far-left base.
 
 
-### OTHER on 2026-05-10 19:04
-- Location: Dailymail.com
-- Description: Adolescence star Stephen Graham broke down in tears as his on-screen wife Christine Tremarco won the Best Supporting Actress gong at the TV BAFTAS.
+### OTHER on 2026-05-11 01:04
+- Location: The Punch
+- Description: Abuja lawyer Linda Ameh, abducted on May 6, has regained her freedom. The FCT Police confirmed she is safe and is investigating the kidnapping incident.
 
-Analysis generated at: Mon May 11 19:41:57 UTC 2026
+Read More: https://punchng.com/abducted-abuja-lawyer-regains-freedom/
+
+Analysis generated at: Tue May 12 02:30:51 UTC 2026
