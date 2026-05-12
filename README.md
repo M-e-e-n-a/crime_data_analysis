@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue May 12 14:07:36 UTC 2026
+Last updated: Tue May 12 14:35:48 UTC 2026
 
 ## Latest Analysis
 
-Loaded 104290 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-11 14:02:08
+Loaded 104296 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-11 14:32:21
 
 Incidents by source:
 source
-newsapi           104189
+newsapi           104195
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,31 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-05-11 14:02
-- Location: Bleeding Cool News
-- Description: Earlier this month, NBC announced that the pilot for the David Boreanaz (Buffy the Vampire Slayer, Angel, Bones)-starring reboot of The Rockford Files had been given a series green light for the 2026-2027 season (along with two comedies and an additional dram…
+### OTHER on 2026-05-11 14:32
+- Location: The Daily Caller
+- Description: Cole Allen pleaded not guilty on Monday to federal charges in an alleged attempt on President Donald Trump's life in Washington, D.C., The Hill reported.
 
 
-### OTHER on 2026-05-11 14:02
-- Location: Raw Story
-- Description: A new poll reveals a striking erosion of public trust in the authenticity of alleged assassination attempts against Donald Trump, with nearly 55 percent of Americans expressing skepticism about whether the latest incident was on the up and up, revealing a cri…
+### ASSAULT on 2026-05-11 14:24
+- Location: Techtarget.com
+- Description: Threat actors are pivoting from endpoints to storage, crippling backups and exploiting cloud misconfigurations. See how identity, remote work and zero trust gaps fuel ransomware.
 
 
-### OTHER on 2026-05-11 14:00
-- Location: Decider
-- Description: Cary Elwes plays an ex-cop trying to get by in the Magic City.
+### HOMICIDE on 2026-05-11 14:19
+- Location: NBC News
+- Description: Seattle police are looking for a suspect in connection with the Sunday evening murder of a University of Washington student, found inside a school-affiliated apartment building, officials said
 
 
-### DRUG RELATED on 2026-05-11 13:53
-- Location: Fair Observer
-- Description: Editor-in-Chief Atul Singh speaks with former counterterrorism operative Jeffrey James Higgins about narcoterrorism, a threat that sits between organized crime, insurgency and geopolitical conflict. Higgins argues that illicit drug networks are no longer mere…
+### ASSAULT on 2026-05-11 14:19
+- Location: The Local Sweden
+- Description: Over 1,800 legal professionals have now signed a petition warning that recent and proposed changes to the law, disregard for the legislative process and attacks on judicial independence are undermining the rule of law in Sweden.
 
 
-### DRUG RELATED on 2026-05-11 13:53
-- Location: Fair Observer
-- Description: Editor-in-Chief Atul Singh speaks with former counterterrorism operative Jeffrey James Higgins about narcoterrorism, a threat that sits between organized crime, insurgency and geopolitical conflict. Higgins argues that illicit drug networks are no longer mere…
+### OTHER on 2026-05-11 14:18
+- Location: Weblog.lol
+- Description: Article URL: https://kurtis.weblog.lol/2026/05/whats-wrong-with-ai
+Comments URL: https://news.ycombinator.com/item?id=48095337
+Points: 7
+# Comments: 1
 
-Analysis generated at: Tue May 12 14:07:36 UTC 2026
+Analysis generated at: Tue May 12 14:35:48 UTC 2026
