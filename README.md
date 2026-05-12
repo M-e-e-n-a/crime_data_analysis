@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue May 12 08:32:29 UTC 2026
+Last updated: Tue May 12 14:07:36 UTC 2026
 
 ## Latest Analysis
 
-Loaded 104229 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-11 08:30:24
+Loaded 104290 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-11 14:02:08
 
 Incidents by source:
 source
-newsapi           104128
+newsapi           104189
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-05-11 08:30
-- Location: Gossiplankanews.com
-- Description: An invisible killer hidden within a mobile phone has been able to plunge all the hopes of parents, who toil day and night for their children's future, into darkness in an instant. At a time when several countries around the world are banning the use of mobile…
+### OTHER on 2026-05-11 14:02
+- Location: Bleeding Cool News
+- Description: Earlier this month, NBC announced that the pilot for the David Boreanaz (Buffy the Vampire Slayer, Angel, Bones)-starring reboot of The Rockford Files had been given a series green light for the 2026-2027 season (along with two comedies and an additional dram…
 
 
-### OTHER on 2026-05-11 08:17
-- Location: ABC News (AU)
-- Description: Masjid Taqwa's board said the alleged incident caused fear and distress among members of the congregation.
+### OTHER on 2026-05-11 14:02
+- Location: Raw Story
+- Description: A new poll reveals a striking erosion of public trust in the authenticity of alleged assassination attempts against Donald Trump, with nearly 55 percent of Americans expressing skepticism about whether the latest incident was on the up and up, revealing a cri…
 
 
-### OTHER on 2026-05-11 08:15
-- Location: Infosecurity Magazine
-- Description: Spanish police have arrested the suspected administrator of German dark web marketplace Crimenetwork
+### OTHER on 2026-05-11 14:00
+- Location: Decider
+- Description: Cary Elwes plays an ex-cop trying to get by in the Magic City.
 
 
-### HOMICIDE on 2026-05-11 08:07
-- Location: ABC News (AU)
-- Description: Four and a half years after a respected council worker was murdered by his housemate, his killer has been sentenced.
+### DRUG RELATED on 2026-05-11 13:53
+- Location: Fair Observer
+- Description: Editor-in-Chief Atul Singh speaks with former counterterrorism operative Jeffrey James Higgins about narcoterrorism, a threat that sits between organized crime, insurgency and geopolitical conflict. Higgins argues that illicit drug networks are no longer mere…
 
 
-### ROBBERY/THEFT on 2026-05-11 08:03
-- Location: Dailymail.com
-- Description: The red Massey Ferguson was stolen from land nine miles away before it was driven front-end-first into the living room of a mid-terraced property in Middlesbrough.
+### DRUG RELATED on 2026-05-11 13:53
+- Location: Fair Observer
+- Description: Editor-in-Chief Atul Singh speaks with former counterterrorism operative Jeffrey James Higgins about narcoterrorism, a threat that sits between organized crime, insurgency and geopolitical conflict. Higgins argues that illicit drug networks are no longer mere…
 
-Analysis generated at: Tue May 12 08:32:29 UTC 2026
+Analysis generated at: Tue May 12 14:07:36 UTC 2026
