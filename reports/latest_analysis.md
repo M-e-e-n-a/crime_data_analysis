@@ -1,10 +1,10 @@
 
-Loaded 104194 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-11 02:20:07
+Loaded 104200 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-11 03:41:23
 
 Incidents by source:
 source
-newsapi           104093
+newsapi           104099
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,34 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-05-11 02:20
-- Location: The Punch
-- Description: Gunmen opened fire on a local security outfit in Rivers State, injuring one officer. The attack in Omoku town caused panic as residents fled the scene.
-
-Read More: https://punchng.com/one-injured-residents-flee-as-gunmen-attack-rivers-security-outfit/
+### ROBBERY/THEFT on 2026-05-11 03:41
+- Location: ABC News (AU)
+- Description: A farmer in Western Australia's Great Southern region has lost about $100,000 after someone stole hundreds of his pregnant sheep.
 
 
-### ROBBERY/THEFT on 2026-05-11 02:20
-- Location: The Punch
-- Description: Ondo State police have arrested a suspect and a security guard for the vandalism and theft of electrical cables at the General Hospital in Igbotako.
-
-Read More: https://punchng.com/police-arrest-two-over-vandalism-theft-at-ondo-hospital-2/
+### OTHER on 2026-05-11 03:24
+- Location: Dailymail.com
+- Description: Sally, who told the woman she was 12-weeks pregnant at the time, said she was punched in the head and stomach while trying to save the patient's life.
 
 
-### OTHER on 2026-05-11 02:10
+### OTHER on 2026-05-11 03:23
+- Location: soompi
+- Description: MBC’s upcoming drama “Fifties Professionals” has unveiled new stills featuring its splendid supporting cast! “Fifties Professionals” is an action-comedy about three seemingly ordinary but secretly dangerous middle-aged men who are brought back into action by …
+
+
+### HOMICIDE on 2026-05-11 03:12
 - Location: New York Post
-- Description: Women’s nurturing instincts have been turned into weapons of political warfare, especially on the left.
+- Description: US Army Veteran Brandy Phillippe, 44, was killed after Robert Zimmerman allegedly set fire to a Lewiston home.
 
 
-### OTHER on 2026-05-11 01:55
-- Location: New York Post
-- Description: Los Angeles mayoral hopeful Nithya Raman is desperately backpedaling from her former “defund the police” rhetoric in a dramatic campaign U-turn that could alienate her far-left base.
+### OTHER on 2026-05-11 03:02
+- Location: Dailymail.com
+- Description: The former 'The Hills' villain launched an insurgent campaign that some believe has a chance of defeating both Mayor Karen Bass and Nithya Raman have surged in recent weeks.
 
-
-### OTHER on 2026-05-11 01:04
-- Location: The Punch
-- Description: Abuja lawyer Linda Ameh, abducted on May 6, has regained her freedom. The FCT Police confirmed she is safe and is investigating the kidnapping incident.
-
-Read More: https://punchng.com/abducted-abuja-lawyer-regains-freedom/
-
-Analysis generated at: Tue May 12 02:30:51 UTC 2026
+Analysis generated at: Tue May 12 03:41:31 UTC 2026
