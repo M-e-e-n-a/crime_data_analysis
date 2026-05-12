@@ -1,10 +1,10 @@
 
-Loaded 104200 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-11 03:41:23
+Loaded 104229 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-11 08:30:24
 
 Incidents by source:
 source
-newsapi           104099
+newsapi           104128
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2026-05-11 03:41
+### HOMICIDE on 2026-05-11 08:30
+- Location: Gossiplankanews.com
+- Description: An invisible killer hidden within a mobile phone has been able to plunge all the hopes of parents, who toil day and night for their children's future, into darkness in an instant. At a time when several countries around the world are banning the use of mobile…
+
+
+### OTHER on 2026-05-11 08:17
 - Location: ABC News (AU)
-- Description: A farmer in Western Australia's Great Southern region has lost about $100,000 after someone stole hundreds of his pregnant sheep.
+- Description: Masjid Taqwa's board said the alleged incident caused fear and distress among members of the congregation.
 
 
-### OTHER on 2026-05-11 03:24
+### OTHER on 2026-05-11 08:15
+- Location: Infosecurity Magazine
+- Description: Spanish police have arrested the suspected administrator of German dark web marketplace Crimenetwork
+
+
+### HOMICIDE on 2026-05-11 08:07
+- Location: ABC News (AU)
+- Description: Four and a half years after a respected council worker was murdered by his housemate, his killer has been sentenced.
+
+
+### ROBBERY/THEFT on 2026-05-11 08:03
 - Location: Dailymail.com
-- Description: Sally, who told the woman she was 12-weeks pregnant at the time, said she was punched in the head and stomach while trying to save the patient's life.
+- Description: The red Massey Ferguson was stolen from land nine miles away before it was driven front-end-first into the living room of a mid-terraced property in Middlesbrough.
 
-
-### OTHER on 2026-05-11 03:23
-- Location: soompi
-- Description: MBC’s upcoming drama “Fifties Professionals” has unveiled new stills featuring its splendid supporting cast! “Fifties Professionals” is an action-comedy about three seemingly ordinary but secretly dangerous middle-aged men who are brought back into action by …
-
-
-### HOMICIDE on 2026-05-11 03:12
-- Location: New York Post
-- Description: US Army Veteran Brandy Phillippe, 44, was killed after Robert Zimmerman allegedly set fire to a Lewiston home.
-
-
-### OTHER on 2026-05-11 03:02
-- Location: Dailymail.com
-- Description: The former 'The Hills' villain launched an insurgent campaign that some believe has a chance of defeating both Mayor Karen Bass and Nithya Raman have surged in recent weeks.
-
-Analysis generated at: Tue May 12 03:41:31 UTC 2026
+Analysis generated at: Tue May 12 08:32:29 UTC 2026
