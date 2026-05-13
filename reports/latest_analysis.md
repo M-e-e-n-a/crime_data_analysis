@@ -1,10 +1,10 @@
 
-Loaded 104439 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-12 03:42:00
+Loaded 104483 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-12 08:25:35
 
 Incidents by source:
 source
-newsapi           104338
+newsapi           104382
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-05-12 03:42
-- Location: The Diplomat
-- Description: Ronald "Bato" dela Rosa has locked himself inside his Senate office in order to avoid arrest and extradition to The Hague-based court.
+### HOMICIDE on 2026-05-12 08:25
+- Location: ABC News (AU)
+- Description: A Porepunkah property owner says he helped a wounded police officer after the fatal shooting where Dezi Freeman killed two Victoria police officers.
 
 
-### OTHER on 2026-05-12 03:40
-- Location: Dailymail.com
-- Description: Young Tom Talmadge, 70, has been accused of abducting and sexually abusing a seven-year-old girl nearly 40 years ago at the now-shuttered Tampa Lanes bowling alley in Florida.
+### HOMICIDE on 2026-05-12 08:19
+- Location: Thepinknews.com
+- Description: Police are searching for a suspect linked to the stabbing of a transgender University of Washington student, who was found dead at an off-campus apartment complex on 10 May. The victim, believed to be a 19-year-old trans woman, has not yet been named. Univers…
 
 
-### HOMICIDE on 2026-05-12 03:40
-- Location: Gossiplankanews.com
-- Description: A person who was shot this morning (12) in the Dixon Junction area, Danggedara, Galle, has died.
-<!--gossip-below-article-Rs--> (adsbygoogle = window.adsbygoogle || []).push({});According to police sources, the crime occurred around 7:30 AM today, when an un…
+### OTHER on 2026-05-12 08:18
+- Location: Overdriveonline.com
+- Description: Kentucky chops 10 cents off of its diesel tax. Meanwhile, a coalition of trucking orgs voice opposition to President Trump's call to suspend the federal gas tax. Also: "Illegal alien" charged for allegedly recruiting truck drivers to haul cocaine; truck thief…
 
 
-### OTHER on 2026-05-12 03:13
-- Location: Gematsu
-- Description: 3D action game PATLABOR the Case Files will launch for PlayStation 5 and PC via Steam this summer, publisher Good Smile Company and developer Chime Corporation announced. It will support English, J…
+### HOMICIDE on 2026-05-12 08:06
+- Location: ABC News (AU)
+- Description: Senator Jacinta Nampijinpa Price has wept through an impassioned tribute to her niece, Kumanjayi Little Baby, in federal parliament, amid a push to broaden the focus of an inquiry announced in the wake of her alleged murder.
 
 
-### OTHER on 2026-05-12 03:09
-- Location: Abcnews.com
-- Description: A performer who disrupted Kendrick Lamar’s Super Bowl halftime performance has been found guilty of resisting an officer
+### OTHER on 2026-05-12 08:03
+- Location: CNA
+- Description: The retail manager at the supermarket received an alert when the woman returned to the store, and he was able to intercept her at the self-checkout kiosk.
 
-Analysis generated at: Wed May 13 03:51:30 UTC 2026
+Analysis generated at: Wed May 13 08:38:49 UTC 2026
