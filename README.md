@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed May 13 08:38:49 UTC 2026
+Last updated: Wed May 13 14:16:06 UTC 2026
 
 ## Latest Analysis
 
-Loaded 104483 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-12 08:25:35
+Loaded 104545 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-12 14:15:33
 
 Incidents by source:
 source
-newsapi           104382
+newsapi           104444
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-05-12 08:25
-- Location: ABC News (AU)
-- Description: A Porepunkah property owner says he helped a wounded police officer after the fatal shooting where Dezi Freeman killed two Victoria police officers.
+### OTHER on 2026-05-12 14:15
+- Location: The Times of India
+- Description: Delhi Police have arrested a 31-year-old Bengaluru-based software engineer, Ravi Rathore, for allegedly running a fake online trading racket that duped hundreds of investors of nearly Rs 100 crore through a fraudulent mobile app and website promising guarante…
 
 
-### HOMICIDE on 2026-05-12 08:19
-- Location: Thepinknews.com
-- Description: Police are searching for a suspect linked to the stabbing of a transgender University of Washington student, who was found dead at an off-campus apartment complex on 10 May. The victim, believed to be a 19-year-old trans woman, has not yet been named. Univers…
+### OTHER on 2026-05-12 14:00
+- Location: Fox News
+- Description: Teen takeovers flooding cities like Chicago and Atlanta reveal a generation without fear of God, parental discipline or legal consequences for crimes.
 
 
-### OTHER on 2026-05-12 08:18
-- Location: Overdriveonline.com
-- Description: Kentucky chops 10 cents off of its diesel tax. Meanwhile, a coalition of trucking orgs voice opposition to President Trump's call to suspend the federal gas tax. Also: "Illegal alien" charged for allegedly recruiting truck drivers to haul cocaine; truck thief…
+### ASSAULT on 2026-05-12 14:00
+- Location: Rock Paper Shotgun
+- Description: Frogwares' The Sinking City was rough around the edges, but it shone with a genuine appreciation for its Lovecraftian lore, despite a cosmic horror-style litigation fracas which saw the developer fighting their publisher over control of the game. The Sinking …
 
 
-### HOMICIDE on 2026-05-12 08:06
-- Location: ABC News (AU)
-- Description: Senator Jacinta Nampijinpa Price has wept through an impassioned tribute to her niece, Kumanjayi Little Baby, in federal parliament, amid a push to broaden the focus of an inquiry announced in the wake of her alleged murder.
+### ASSAULT on 2026-05-12 13:56
+- Location: Abcnews.com
+- Description: A judicial investigation was opened on Monday into a 27-year-old Tunisian man, the Anti-Terrorism Prosecutor's Office said.
 
 
-### OTHER on 2026-05-12 08:03
-- Location: CNA
-- Description: The retail manager at the supermarket received an alert when the woman returned to the store, and he was able to intercept her at the self-checkout kiosk.
+### HOMICIDE on 2026-05-12 13:50
+- Location: Dailymail.com
+- Description: The 88-year-old American tourist fell to her death just before midday on Saturday while the Carnival Celebration cruise liner was docked in The Bahamas.
 
-Analysis generated at: Wed May 13 08:38:49 UTC 2026
+Analysis generated at: Wed May 13 14:16:06 UTC 2026
