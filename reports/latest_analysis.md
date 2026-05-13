@@ -1,10 +1,10 @@
 
-Loaded 104550 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-12 14:44:39
+Loaded 104631 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-12 19:41:29
 
 Incidents by source:
 source
-newsapi           104449
+newsapi           104530
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,30 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-05-12 14:44
-- Location: The Local Sweden
-- Description: Swedish police said a "central actor" in Sweden's most notorious criminal network, Foxtrot, had been arrested in Tunisia.
+### OTHER on 2026-05-12 19:41
+- Location: Rolling Stone
+- Description: The musician and activist joined Hands Off NYC  at 26 Federal Plaza and performed Woody Guthrie's “This Land is Your Land."
 
 
-### OTHER on 2026-05-12 14:40
-- Location: Dailymail.com
-- Description: The former reality TV star and candidate for Los Angeles Mayor, 42, said in leaked a DM to journalist James Li that he has been 'horrified to see how the Jewish community has been vilified.'
+### OTHER on 2026-05-12 19:33
+- Location: New York Post
+- Description: Top cop Jessica Tisch insisted Tuesday that the NYPD doesn’t partner with ICE on civil immigration enforcement amid lefty criticism over the police response to protesters targeting agents at a hospital last week.
 
 
-### HOMICIDE on 2026-05-12 14:30
-- Location: Dailymail.com
-- Description: Jillian Ludwig, 18, a promising music student at Belmont University, was killed when Shaquille Taylor, known as 'Reaper', shot into the Nashville park where she was running November 2023.
+### ROBBERY/THEFT on 2026-05-12 19:31
+- Location: The Times of India
+- Description: Lucknow police bust Haryana’s Palwal balloon-seller pickpocket gang; 5 arrested, jewellery and ₹29,400 recovered; linked to 7 theft cases in Madiaon, Gomtinagar.
 
 
-### OTHER on 2026-05-12 14:23
-- Location: Thepinknews.com
-- Description: To an extent, gay and lesbian characters are flourishing on the small screens. Yet it feels as though bisexual and pansexual characters often don’t make the cut. But there’s been a boom of bisexual folk in recent years, and, while not comprehensive, here’s ou…
+### OTHER on 2026-05-12 19:27
+- Location: Rolling Stone
+- Description: Springsteen and the E Street Band's first stop at New York's Madison Square Garden is a furious reminder of the power of his catalog — and his rhetoric, too
 
 
-### OTHER on 2026-05-12 14:22
-- Location: The Punch
-- Description: ADC presidential aspirant Mohammed Hayatu-Deen unveils his Nigeria security blueprint for 2027, linking economic recovery to tackling terrorism and crime.
+### ROBBERY/THEFT on 2026-05-12 19:25
+- Location: Fox News
+- Description: A European sex toy company helped LAPD's Cargo Theft Task Force uncover hundreds of thousands of dollars in stolen merchandise at a used car lot.
 
-Read More: https://punchng.com/2027-adc-presidential-aspirant-unveils-security-blueprint/
-
-Analysis generated at: Wed May 13 14:46:01 UTC 2026
+Analysis generated at: Wed May 13 19:47:30 UTC 2026
