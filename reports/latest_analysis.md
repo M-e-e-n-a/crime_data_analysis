@@ -1,10 +1,10 @@
 
-Loaded 104429 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-12 02:29:14
+Loaded 104439 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-12 03:42:00
 
 Incidents by source:
 source
-newsapi           104328
+newsapi           104338
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-05-12 02:29
-- Location: KABC-TV
-- Description: Former Dodgers pitcher Scott Erickson took the stand in the wrongful death civil trial against him and Rebecca Grossman over a crash that killed two young brothers.
+### HOMICIDE on 2026-05-12 03:42
+- Location: The Diplomat
+- Description: Ronald "Bato" dela Rosa has locked himself inside his Senate office in order to avoid arrest and extradition to The Hague-based court.
 
 
-### OTHER on 2026-05-12 02:22
-- Location: Tubefilter
-- Description: 'Tis the season for festive holiday beverages, and some of YouTube's biggest channels are raising their glasses. MrBeast led the way with an assortment of hot drinks on offer, while a handful of other sponsored videos depicted boozier methods for keeping warm…
-
-
-### OTHER on 2026-05-12 02:16
+### OTHER on 2026-05-12 03:40
 - Location: Dailymail.com
-- Description: Jarome Luai didn't just rock the boat when he become the first marquee signing for the PNG Chiefs, he struck it with more force that Jaws did off the coast of Amity Island all those years ago
+- Description: Young Tom Talmadge, 70, has been accused of abducting and sexually abusing a seven-year-old girl nearly 40 years ago at the now-shuttered Tampa Lanes bowling alley in Florida.
 
 
-### HOMICIDE on 2026-05-12 02:14
-- Location: New York Post
-- Description: "She mattered. She was valued. And she will always be part of our story," Katherine "Kat" Torbick's employer said of the 43-year-old nurse and mom.
+### HOMICIDE on 2026-05-12 03:40
+- Location: Gossiplankanews.com
+- Description: A person who was shot this morning (12) in the Dixon Junction area, Danggedara, Galle, has died.
+<!--gossip-below-article-Rs--> (adsbygoogle = window.adsbygoogle || []).push({});According to police sources, the crime occurred around 7:30 AM today, when an un…
 
 
-### SHOOTING on 2026-05-12 01:59
-- Location: Freerepublic.com
-- Description: A gunman who opened fire at cars on Memorial Drive in Cambridge, Massachusetts, Monday afternoon was shot by a responding State Police trooper and a civilian. Two men in separate cars were shot and have life-threatening injuries. The suspect, 46-year-old Tyle…
+### OTHER on 2026-05-12 03:13
+- Location: Gematsu
+- Description: 3D action game PATLABOR the Case Files will launch for PlayStation 5 and PC via Steam this summer, publisher Good Smile Company and developer Chime Corporation announced. It will support English, J…
 
-Analysis generated at: Wed May 13 02:37:15 UTC 2026
+
+### OTHER on 2026-05-12 03:09
+- Location: Abcnews.com
+- Description: A performer who disrupted Kendrick Lamar’s Super Bowl halftime performance has been found guilty of resisting an officer
+
+Analysis generated at: Wed May 13 03:51:30 UTC 2026
