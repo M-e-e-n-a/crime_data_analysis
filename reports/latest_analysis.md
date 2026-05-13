@@ -1,10 +1,10 @@
 
-Loaded 104545 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-12 14:15:33
+Loaded 104550 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-12 14:44:39
 
 Incidents by source:
 source
-newsapi           104444
+newsapi           104449
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,30 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-05-12 14:15
-- Location: The Times of India
-- Description: Delhi Police have arrested a 31-year-old Bengaluru-based software engineer, Ravi Rathore, for allegedly running a fake online trading racket that duped hundreds of investors of nearly Rs 100 crore through a fraudulent mobile app and website promising guarante…
+### OTHER on 2026-05-12 14:44
+- Location: The Local Sweden
+- Description: Swedish police said a "central actor" in Sweden's most notorious criminal network, Foxtrot, had been arrested in Tunisia.
 
 
-### OTHER on 2026-05-12 14:00
-- Location: Fox News
-- Description: Teen takeovers flooding cities like Chicago and Atlanta reveal a generation without fear of God, parental discipline or legal consequences for crimes.
-
-
-### ASSAULT on 2026-05-12 14:00
-- Location: Rock Paper Shotgun
-- Description: Frogwares' The Sinking City was rough around the edges, but it shone with a genuine appreciation for its Lovecraftian lore, despite a cosmic horror-style litigation fracas which saw the developer fighting their publisher over control of the game. The Sinking …
-
-
-### ASSAULT on 2026-05-12 13:56
-- Location: Abcnews.com
-- Description: A judicial investigation was opened on Monday into a 27-year-old Tunisian man, the Anti-Terrorism Prosecutor's Office said.
-
-
-### HOMICIDE on 2026-05-12 13:50
+### OTHER on 2026-05-12 14:40
 - Location: Dailymail.com
-- Description: The 88-year-old American tourist fell to her death just before midday on Saturday while the Carnival Celebration cruise liner was docked in The Bahamas.
+- Description: The former reality TV star and candidate for Los Angeles Mayor, 42, said in leaked a DM to journalist James Li that he has been 'horrified to see how the Jewish community has been vilified.'
 
-Analysis generated at: Wed May 13 14:16:06 UTC 2026
+
+### HOMICIDE on 2026-05-12 14:30
+- Location: Dailymail.com
+- Description: Jillian Ludwig, 18, a promising music student at Belmont University, was killed when Shaquille Taylor, known as 'Reaper', shot into the Nashville park where she was running November 2023.
+
+
+### OTHER on 2026-05-12 14:23
+- Location: Thepinknews.com
+- Description: To an extent, gay and lesbian characters are flourishing on the small screens. Yet it feels as though bisexual and pansexual characters often don’t make the cut. But there’s been a boom of bisexual folk in recent years, and, while not comprehensive, here’s ou…
+
+
+### OTHER on 2026-05-12 14:22
+- Location: The Punch
+- Description: ADC presidential aspirant Mohammed Hayatu-Deen unveils his Nigeria security blueprint for 2027, linking economic recovery to tackling terrorism and crime.
+
+Read More: https://punchng.com/2027-adc-presidential-aspirant-unveils-security-blueprint/
+
+Analysis generated at: Wed May 13 14:46:01 UTC 2026
