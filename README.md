@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue May 12 19:43:13 UTC 2026
+Last updated: Wed May 13 02:37:15 UTC 2026
 
 ## Latest Analysis
 
-Loaded 104396 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-11 19:41:00
+Loaded 104429 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-12 02:29:14
 
 Incidents by source:
 source
-newsapi           104295
+newsapi           104328
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-05-11 19:41
-- Location: The Times of India
-- Description: Bengaluru: Section 132 of the Income-tax Act, which empowers tax authorities to conduct search and seizure operations, is person-centric and not premi.
+### HOMICIDE on 2026-05-12 02:29
+- Location: KABC-TV
+- Description: Former Dodgers pitcher Scott Erickson took the stand in the wrongful death civil trial against him and Rebecca Grossman over a crash that killed two young brothers.
 
 
-### OTHER on 2026-05-11 19:40
-- Location: CBC News
-- Description: Winnipeg police are asking the public for help in finding a missing 11-year-old girl.
+### OTHER on 2026-05-12 02:22
+- Location: Tubefilter
+- Description: 'Tis the season for festive holiday beverages, and some of YouTube's biggest channels are raising their glasses. MrBeast led the way with an assortment of hot drinks on offer, while a handful of other sponsored videos depicted boozier methods for keeping warm…
 
 
-### OTHER on 2026-05-11 19:38
-- Location: The Times of India
-- Description: UP govt orders faster fodder collection for cow shelters; strict action for lapses. 1.11 of 1.37 crore quintals collected; 7,386 shelters house 12.37 lakh cattle.
+### OTHER on 2026-05-12 02:16
+- Location: Dailymail.com
+- Description: Jarome Luai didn't just rock the boat when he become the first marquee signing for the PNG Chiefs, he struck it with more force that Jaws did off the coast of Amity Island all those years ago
 
 
-### OTHER on 2026-05-11 19:37
-- Location: PBS
-- Description: The European Union has imposed sanctions on 16 officials accused of helping Russia abduct tens of thousands of children from Ukraine.
+### HOMICIDE on 2026-05-12 02:14
+- Location: New York Post
+- Description: "She mattered. She was valued. And she will always be part of our story," Katherine "Kat" Torbick's employer said of the 43-year-old nurse and mom.
 
 
-### OTHER on 2026-05-11 19:35
-- Location: The Times of India
-- Description: CSJM University and Kanpur Municipal Corporation corporators launch fuel conservation drive, promoting e-vehicles, public transport, online meetings and cycling.
+### SHOOTING on 2026-05-12 01:59
+- Location: Freerepublic.com
+- Description: A gunman who opened fire at cars on Memorial Drive in Cambridge, Massachusetts, Monday afternoon was shot by a responding State Police trooper and a civilian. Two men in separate cars were shot and have life-threatening injuries. The suspect, 46-year-old Tyle…
 
-Analysis generated at: Tue May 12 19:43:13 UTC 2026
+Analysis generated at: Wed May 13 02:37:15 UTC 2026
