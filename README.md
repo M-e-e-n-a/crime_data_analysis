@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed May 13 19:47:30 UTC 2026
+Last updated: Thu May 14 02:38:04 UTC 2026
 
 ## Latest Analysis
 
-Loaded 104631 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-12 19:41:29
+Loaded 104649 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-13 02:24:59
 
 Incidents by source:
 source
-newsapi           104530
+newsapi           104548
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-05-12 19:41
-- Location: Rolling Stone
-- Description: The musician and activist joined Hands Off NYC  at 26 Federal Plaza and performed Woody Guthrie's “This Land is Your Land."
-
-
-### OTHER on 2026-05-12 19:33
-- Location: New York Post
-- Description: Top cop Jessica Tisch insisted Tuesday that the NYPD doesn’t partner with ICE on civil immigration enforcement amid lefty criticism over the police response to protesters targeting agents at a hospital last week.
-
-
-### ROBBERY/THEFT on 2026-05-12 19:31
+### ROBBERY/THEFT on 2026-05-13 02:24
 - Location: The Times of India
-- Description: Lucknow police bust Haryana’s Palwal balloon-seller pickpocket gang; 5 arrested, jewellery and ₹29,400 recovered; linked to 7 theft cases in Madiaon, Gomtinagar.
+- Description: The CBI is now investigating the NEET-UG 2026 paper leak. Rajasthan Police previously claimed a "paper leak mafia" sold leaked questions. The network allegedly spanned multiple states. The CBI has registered a case and is questioning suspects. Investigators f…
 
 
-### OTHER on 2026-05-12 19:27
-- Location: Rolling Stone
-- Description: Springsteen and the E Street Band's first stop at New York's Madison Square Garden is a furious reminder of the power of his catalog — and his rhetoric, too
-
-
-### ROBBERY/THEFT on 2026-05-12 19:25
+### HOMICIDE on 2026-05-13 01:51
 - Location: Fox News
-- Description: A European sex toy company helped LAPD's Cargo Theft Task Force uncover hundreds of thousands of dollars in stolen merchandise at a used car lot.
+- Description: A 17-year-old Las Vegas student allegedly murdered a homeless woman, with surveillance audio reportedly capturing 61 loud impact sounds during the reported attack.
 
-Analysis generated at: Wed May 13 19:47:30 UTC 2026
+
+### OTHER on 2026-05-13 01:46
+- Location: Israelnationalnews.com
+- Description: Toronto police announce arrest of 48-year-old for damaging a midtown Menorah in a suspected hate crime.
+
+
+### HOMICIDE on 2026-05-13 01:44
+- Location: Dailymail.com
+- Description: Richard Werstine, now 56, was arrested in Panama after authorities say he fatally shot his roommate Rodney Barger in 1993. Barger was the lead singer for Cold as Life and died at age 23.
+
+
+### OTHER on 2026-05-13 01:41
+- Location: The Times of India
+- Description: A Bengaluru RTO officer unlawfully seized Mr. Rama's demo car, leading to a zero FIR and charges of fraud. The Karnataka High Court quashed the FIR, criticizing the officer's illegal actions and ordering a departmental inquiry. The court emphasized due proces…
+
+Analysis generated at: Thu May 14 02:38:04 UTC 2026
