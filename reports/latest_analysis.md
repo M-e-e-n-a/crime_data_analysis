@@ -1,10 +1,10 @@
 
-Loaded 104768 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-13 14:24:48
+Loaded 104849 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-13 19:40:25
 
 Incidents by source:
 source
-newsapi           104667
+newsapi           104748
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,30 +20,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-05-13 14:24
-- Location: The Punch
-- Description: Police in Anambra arrest a driver who allegedly killed his employer, a bishop in Delta State, and fled with the victim’s Toyota Prado Jeep.
-
-Read More: https://punchng.com/driver-kills-employer-in-delta-flees-with-vehicle-to-anambra/
+### OTHER on 2026-05-13 19:40
+- Location: Page Six
+- Description: “Street Outlaws” star Daddy Dave has been charged with alleged stalking in New York after a GPS device was found on a vehicle. According to TMZ, the reality personality — whose given name is David Comstock — was booked into the Steuben jail in upstate New Yor…
 
 
-### SHOOTING on 2026-05-13 14:20
-- Location: HuffPost
-- Description: The senator is wanted by the International Criminal Court for a charge of crime against humanity.
-
-
-### OTHER on 2026-05-13 14:14
+### HOMICIDE on 2026-05-13 19:35
 - Location: Dailymail.com
-- Description: Zul-Qarnain Kwame Nantambu stormed the field during Kendrick Lamar's Super Bowl halftime performance in 2025 to show his support for refugees in Sudan and Gaza.
+- Description: Rico Gedel, 25, said he could 'not cope' with being housed around sex offenders and admitted to attacking Watkins, but denied intending to murder him.
 
 
-### OTHER on 2026-05-13 14:09
-- Location: Boredpanda.com
-- Description: Mackenzie Naught reportedly came clean to her husband about her inappropriate behavior, who then informed authorities.
+### SHOOTING on 2026-05-13 19:28
+- Location: NBCSports.com
+- Description: Tigers coach Eli Drinkwitz said during an event in Dallas late Tuesday that the timetable for Hardy’s recovery is undetermined.
 
 
-### OTHER on 2026-05-13 14:08
-- Location: Dailymail.com
-- Description: Ibijoke Idowu-Holiday, was suspended in December as the district investigates claims of child abuse. A third grader's parents claim the boy came home with bruises for months.
+### HOMICIDE on 2026-05-13 19:17
+- Location: The Times of India
+- Description: Brother-in-law shoots dead 18-year-old sister-in-law in Kushinagar, UP, then kills himself; police recover pistol, collect forensic evidence, probe underway.
 
-Analysis generated at: Thu May 14 14:26:31 UTC 2026
+
+### OTHER on 2026-05-13 19:15
+- Location: Twistedsifter.com
+- Description: If they had just talked things through, this could have been avoided. 
+The post A Long-Running Neighborhood Conflict Spiraled Into an Unexpected Battle Between Families appeared first on TwistedSifter.
+
+Analysis generated at: Thu May 14 19:40:59 UTC 2026
