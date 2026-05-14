@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu May 14 02:38:04 UTC 2026
+Last updated: Thu May 14 03:51:06 UTC 2026
 
 ## Latest Analysis
 
-Loaded 104649 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-13 02:24:59
+Loaded 104657 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-13 03:50:12
 
 Incidents by source:
 source
-newsapi           104548
+newsapi           104556
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,32 @@ ion.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2026-05-13 02:24
-- Location: The Times of India
-- Description: The CBI is now investigating the NEET-UG 2026 paper leak. Rajasthan Police previously claimed a "paper leak mafia" sold leaked questions. The network allegedly spanned multiple states. The CBI has registered a case and is questioning suspects. Investigators f…
+### ASSAULT on 2026-05-13 03:50
+- Location: ABC News (AU)
+- Description: The Executive Council of Australian Jewry has welcomed a $600 million federal budget funding commitment for the Jewish community, but says it is a "small comfort" for those who lost loved ones in the Bondi terror attack.
 
 
-### HOMICIDE on 2026-05-13 01:51
-- Location: Fox News
-- Description: A 17-year-old Las Vegas student allegedly murdered a homeless woman, with surveillance audio reportedly capturing 61 loud impact sounds during the reported attack.
+### SHOOTING on 2026-05-13 03:36
+- Location: New York Post
+- Description: A California OnlyFans creator has pleaded guilty to involuntary manslaughter in a disturbing BDSM case that rocked the Escondido community.
 
 
-### OTHER on 2026-05-13 01:46
-- Location: Israelnationalnews.com
-- Description: Toronto police announce arrest of 48-year-old for damaging a midtown Menorah in a suspected hate crime.
+### OTHER on 2026-05-13 03:21
+- Location: The Punch
+- Description: The Edo State Police Command arrested 55 suspected kidnappers and rescued 58 victims between March and May, intensifying operations against violent crimes.
+
+Read More: https://punchng.com/police-arrest-55-suspected-kidnappers-rescue-58-victims-in-edo/
 
 
-### HOMICIDE on 2026-05-13 01:44
+### SHOOTING on 2026-05-13 03:21
+- Location: The Punch
+- Description: An angry mob sets ablaze a suspected kidnappers’ hideout in Obosi following the dramatic Anambra doctor rescue by security forces after a gun battle.
+
+Read More: https://punchng.com/mob-razes-suspected-kidnappers-hideout-after-anambra-doctors-rescue/
+
+
+### OTHER on 2026-05-13 03:00
 - Location: Dailymail.com
-- Description: Richard Werstine, now 56, was arrested in Panama after authorities say he fatally shot his roommate Rodney Barger in 1993. Barger was the lead singer for Cold as Life and died at age 23.
+- Description: Jimmy Kimmel reportedly made shocking allusions to disgraced Bachelorette star Taylor Frankie Paul at Disney's upfront presentation in New York City on Tuesday.
 
-
-### OTHER on 2026-05-13 01:41
-- Location: The Times of India
-- Description: A Bengaluru RTO officer unlawfully seized Mr. Rama's demo car, leading to a zero FIR and charges of fraud. The Karnataka High Court quashed the FIR, criticizing the officer's illegal actions and ordering a departmental inquiry. The court emphasized due proces…
-
-Analysis generated at: Thu May 14 02:38:04 UTC 2026
+Analysis generated at: Thu May 14 03:51:06 UTC 2026
