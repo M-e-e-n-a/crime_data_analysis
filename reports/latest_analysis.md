@@ -1,10 +1,10 @@
 
-Loaded 104882 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-14 03:49:39
+Loaded 104923 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-14 08:40:09
 
 Incidents by source:
 source
-newsapi           104781
+newsapi           104822
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,29 +20,31 @@ ion.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-05-14 03:49
-- Location: CNA
-- Description: MANILA: The Philippines president called an emergency meeting of top officials on Thursday (May 14) amid widening political tensions, a day after gunfire rang out at the Senate
+### OTHER on 2026-05-14 08:40
+- Location: News24
+- Description: A US judge imposed a temporary injunction on sanctions enacted last year by Washington on a United Nations expert on the occupied Palestinian territories.
 
 
-### SHOOTING on 2026-05-14 03:49
-- Location: CNA
-- Description: Earlier in the day, Philippine authorities were seeking confirmation of reports that Ronald dela Rosa had fled, a day after gunfire rang out at the Senate where he had taken refuge.
+### ROBBERY/THEFT on 2026-05-14 08:23
+- Location: Twistedsifter.com
+- Description: Siblings are supposed to stick together, even when things get tough.
+The post The Cost of Silence: How One Teen’s Discovery of His Sibling’s Theft Has Left Him at a Crossroad appeared first on TwistedSifter.
 
 
-### SHOOTING on 2026-05-14 03:42
+### ROBBERY/THEFT on 2026-05-14 08:21
 - Location: Dailymail.com
-- Description: Dalton Eatherly, 28, known online as 'Chud the Builder,' opened fire outside of a Tennessee courthouse on Wednesday, accidentally injuring himself.
+- Description: A 13-year-old girl was charged with 109 offences, including 'weaponising' cars and anti-Semitism, after an alleged crime spree in March.
 
 
-### HOMICIDE on 2026-05-14 03:15
-- Location: Gossiplankanews.com
-- Description: The echo of that brutal shooting, which desecrated the sanctity of a courtroom, still resonates throughout the underworld of this country.
-<!--gossip-below-article-Rs--> (adsbygoogle = window.adsbygoogle || []).push({});This is with the arrest last night (13…
+### OTHER on 2026-05-14 08:05
+- Location: Al Jazeera English
+- Description: Senate president says Senator Ronald 'Bato' dela Rosa 'no longer in the building' where he had taken refuge.
 
 
-### OTHER on 2026-05-14 03:00
-- Location: TVLine
-- Description: Chicago P.D. star Arienne Mandi and showrunner Gwen Sigan break down the Imani/Voight Season 13 finale cliffhanger - will Voight bring charges against Shari?
+### HOMICIDE on 2026-05-14 08:05
+- Location: The Punch
+- Description: Myanmar’s parliament has proposed an anti-online scam bill that includes the death sentence for those who violently coerce victims into working in scam cen
 
-Analysis generated at: Fri May 15 03:54:36 UTC 2026
+Read More: https://punchng.com/myanmar-proposes-death-sentence-for-cybercrime-offences/
+
+Analysis generated at: Fri May 15 08:43:34 UTC 2026
