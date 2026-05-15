@@ -1,10 +1,10 @@
 
-Loaded 104923 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-14 08:40:09
+Loaded 104980 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-14 13:40:36
 
 Incidents by source:
 source
-newsapi           104822
+newsapi           104879
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,31 +20,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-05-14 08:40
-- Location: News24
-- Description: A US judge imposed a temporary injunction on sanctions enacted last year by Washington on a United Nations expert on the occupied Palestinian territories.
+### OTHER on 2026-05-14 13:40
+- Location: BusinessLine
+- Description: Tamil Nadu govt reshuffles police leadership, transferring 10+ senior officers across intelligence, cyber crime, CID and vigilance wings in Chennai.
 
 
-### ROBBERY/THEFT on 2026-05-14 08:23
-- Location: Twistedsifter.com
-- Description: Siblings are supposed to stick together, even when things get tough.
-The post The Cost of Silence: How One Teen’s Discovery of His Sibling’s Theft Has Left Him at a Crossroad appeared first on TwistedSifter.
+### HOMICIDE on 2026-05-14 13:34
+- Location: Dallas Observer
+- Description: The street signs commemorate the Dallasite who was murdered by an off-duty police officer in his own apartment in 2018.
 
 
-### ROBBERY/THEFT on 2026-05-14 08:21
-- Location: Dailymail.com
-- Description: A 13-year-old girl was charged with 109 offences, including 'weaponising' cars and anti-Semitism, after an alleged crime spree in March.
+### HOMICIDE on 2026-05-14 13:34
+- Location: Boing Boing
+- Description: Police released pictures of a man suspected of killing a transgender University of Washington student this week, and called upon the public to identify him. The high-definition security footage clearly shows the suspect's features and attire: in one he's look…
 
 
-### OTHER on 2026-05-14 08:05
-- Location: Al Jazeera English
-- Description: Senate president says Senator Ronald 'Bato' dela Rosa 'no longer in the building' where he had taken refuge.
+### OTHER on 2026-05-14 13:30
+- Location: GeekTyrant
+- Description: Fans have been waiting a long time for officiall updates on The Batman: Part II, and now Matt Reeves is finally tossing out some fresh details. He’s doing it in a pretty interesting way too. Instead of dropping one giant cast announcement, Reeves has started …
 
 
-### HOMICIDE on 2026-05-14 08:05
-- Location: The Punch
-- Description: Myanmar’s parliament has proposed an anti-online scam bill that includes the death sentence for those who violently coerce victims into working in scam cen
+### OTHER on 2026-05-14 13:30
+- Location: TheWrap
+- Description: Matthew Law and Y’lan Noel headline this cat-and-mouse crime drama from the “Power” franchise creator
+The post ‘Nemesis’ Review: Courtney A. Kemp’s First Netflix Series May Leave You Rooting for the Bad Guys appeared first on TheWrap.
 
-Read More: https://punchng.com/myanmar-proposes-death-sentence-for-cybercrime-offences/
-
-Analysis generated at: Fri May 15 08:43:34 UTC 2026
+Analysis generated at: Fri May 15 13:53:30 UTC 2026
