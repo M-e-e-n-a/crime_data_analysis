@@ -1,10 +1,10 @@
 
-Loaded 104980 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-14 13:40:36
+Loaded 104987 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-14 14:20:14
 
 Incidents by source:
 source
-newsapi           104879
+newsapi           104886
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-05-14 13:40
-- Location: BusinessLine
-- Description: Tamil Nadu govt reshuffles police leadership, transferring 10+ senior officers across intelligence, cyber crime, CID and vigilance wings in Chennai.
+### OTHER on 2026-05-14 14:20
+- Location: The Times of India
+- Description: Nancy Guthrie case: Pima County Sheriff Chris Nanos states investigators are keeping details about Nancy Guthrie's disappearance secret to protect the case.  Khloe Kardashian has voiced concerns about the lack of public leads.  DNA analysis is progressing slo…
 
 
-### HOMICIDE on 2026-05-14 13:34
-- Location: Dallas Observer
-- Description: The street signs commemorate the Dallasite who was murdered by an off-duty police officer in his own apartment in 2018.
+### HOMICIDE on 2026-05-14 14:11
+- Location: The Indian Express
+- Description: Along with Pune city police, Maharashtra Anti Terrorism Squad (ATS) and intelligence agencies are looking into the case.
 
 
-### HOMICIDE on 2026-05-14 13:34
-- Location: Boing Boing
-- Description: Police released pictures of a man suspected of killing a transgender University of Washington student this week, and called upon the public to identify him. The high-definition security footage clearly shows the suspect's features and attire: in one he's look…
+### OTHER on 2026-05-14 14:07
+- Location: Truthout
+- Description: “We really have to see the rise of Trump itself as an indictment of the whole system,” says Khury Petersen-Smith.
 
 
-### OTHER on 2026-05-14 13:30
-- Location: GeekTyrant
-- Description: Fans have been waiting a long time for officiall updates on The Batman: Part II, and now Matt Reeves is finally tossing out some fresh details. He’s doing it in a pretty interesting way too. Instead of dropping one giant cast announcement, Reeves has started …
+### HOMICIDE on 2026-05-14 14:02
+- Location: Dailymail.com
+- Description: Tamarius Blair Davis said he was high on mushrooms when he shot Dustin Wakefield, 21, as he dined with his family while on vacation in Miami on August 24, 2021.
 
 
-### OTHER on 2026-05-14 13:30
-- Location: TheWrap
-- Description: Matthew Law and Y’lan Noel headline this cat-and-mouse crime drama from the “Power” franchise creator
-The post ‘Nemesis’ Review: Courtney A. Kemp’s First Netflix Series May Leave You Rooting for the Bad Guys appeared first on TheWrap.
+### SHOOTING on 2026-05-14 14:00
+- Location: Fox News
+- Description: North Carolina officers cleared of excessive force charges in the fatal shooting of Derrick Manigault, who brandished what turned out to be a fake gun.
 
-Analysis generated at: Fri May 15 13:53:30 UTC 2026
+Analysis generated at: Fri May 15 14:20:28 UTC 2026
