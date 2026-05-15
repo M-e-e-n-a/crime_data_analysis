@@ -1,10 +1,10 @@
 
-Loaded 104849 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-13 19:40:25
+Loaded 104876 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-14 02:36:52
 
 Incidents by source:
 source
-newsapi           104748
+newsapi           104775
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,29 +20,30 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-05-13 19:40
-- Location: Page Six
-- Description: “Street Outlaws” star Daddy Dave has been charged with alleged stalking in New York after a GPS device was found on a vehicle. According to TMZ, the reality personality — whose given name is David Comstock — was booked into the Steuben jail in upstate New Yor…
+### HOMICIDE on 2026-05-14 02:36
+- Location: The Punch
+- Description: Police arrest the driver of a Delta bishop for allegedly killing his employer and fleeing to Anambra with the victim’s stolen Toyota Prado SUV.
+
+Read More: https://punchng.com/driver-kills-delta-bishop-flees-to-anambra-with-stolen-suv/
 
 
-### HOMICIDE on 2026-05-13 19:35
-- Location: Dailymail.com
-- Description: Rico Gedel, 25, said he could 'not cope' with being housed around sex offenders and admitted to attacking Watkins, but denied intending to murder him.
-
-
-### SHOOTING on 2026-05-13 19:28
-- Location: NBCSports.com
-- Description: Tigers coach Eli Drinkwitz said during an event in Dallas late Tuesday that the timetable for Hardy’s recovery is undetermined.
-
-
-### HOMICIDE on 2026-05-13 19:17
+### HOMICIDE on 2026-05-14 02:34
 - Location: The Times of India
-- Description: Brother-in-law shoots dead 18-year-old sister-in-law in Kushinagar, UP, then kills himself; police recover pistol, collect forensic evidence, probe underway.
+- Description: Kaiser Drive Vaughan shooting: Two individuals were fatally shot outside a Vaughan residence on Wednesday evening, May 13. York Regional Police responded to reports of gunfire and discovered both victims deceased at the scene. Homicide investigators are now l…
 
 
-### OTHER on 2026-05-13 19:15
-- Location: Twistedsifter.com
-- Description: If they had just talked things through, this could have been avoided. 
-The post A Long-Running Neighborhood Conflict Spiraled Into an Unexpected Battle Between Families appeared first on TwistedSifter.
+### OTHER on 2026-05-14 02:33
+- Location: New Zealand Herald
+- Description: The US woman was also found guilty of fraudulently claiming his life insurance.
 
-Analysis generated at: Thu May 14 19:40:59 UTC 2026
+
+### HOMICIDE on 2026-05-14 02:09
+- Location: PRNewswire
+- Description: ALAMEDA COUNTY, Calif., May 13, 2026 /PRNewswire/ -- On May 12, 2026, the Alameda County Board of Supervisors voted to approve a $36 million settlement in a wrongful death lawsuit stemming from the September 7, 2022 murders of Benison and Maria Tran by Alamed…
+
+
+### HOMICIDE on 2026-05-14 02:06
+- Location: New York Post
+- Description: Police warned that accused Cambridge, Mass., shooter Tyler Brown would “hurt or kill someone” again after being handed a soft sentence for opening fire at cops in 2020. And six years later, that message proved to be prophetic — when he unloaded an assault rif…
+
+Analysis generated at: Fri May 15 02:38:01 UTC 2026
