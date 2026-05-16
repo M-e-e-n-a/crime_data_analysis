@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri May 15 19:24:25 UTC 2026
+Last updated: Sat May 16 02:28:08 UTC 2026
 
 ## Latest Analysis
 
-Loaded 105084 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-14 19:20:00
+Loaded 105101 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-15 02:15:49
 
 Incidents by source:
 source
-newsapi           104983
+newsapi           105000
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,30 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-05-14 19:20
-- Location: Snopes.com
-- Description: Abortions are illegal in Tennessee, where the woman's Facebook page says she is located.
+### SHOOTING on 2026-05-15 02:15
+- Location: Khabarhub.com
+- Description: KATHMANDU: Economic Digest presents a brief yet comprehensive roundup of major business developments in Nepal, delivered in clear and accessible summaries. Nepal’s economic and governance landscape reflects a mix of cautious financial stability, institutional…
 
 
-### HOMICIDE on 2026-05-14 19:18
-- Location: The Irish Times
-- Description: Judge rejected suggestions of bomb attack being ‘elaborate incident to scare or terrorise’ police
+### OTHER on 2026-05-15 02:12
+- Location: Slashdot.org
+- Description: Philippine senator wanted by the International Criminal Court flees from SenateAP News Philippine politician wanted by ICC flees senate after days holed up in buildingThe Guardian Arrest Warrant for Philippine Senator Sparks Dramatic Cat-and-Mouse GameWSJ Cha…
 
 
-### OTHER on 2026-05-14 19:13
-- Location: HuffPost
-- Description: Critics dismissed the host's segment on foreign privacy concerns by turning to fears of mass surveillance in the States.
+### ASSAULT on 2026-05-15 02:11
+- Location: The Punch
+- Description: Former Minister Saleh Mamman’s 75-year sentence for N33.8bn fraud raises questions. Is this a turning point in the fight against Nigerian corruption?
+
+Read More: https://punchng.com/saleh-mammans-conviction-is-karma-coming-for-others/
 
 
-### OTHER on 2026-05-14 19:13
+### SHOOTING on 2026-05-15 02:03
+- Location: Borderlandbeat.com
+- Description: “Sol Prendido” for Borderland Beat  No officers were reported injured following the exchange of gunfire, and a search operation was launched...
+
+
+### DRUG RELATED on 2026-05-15 02:01
 - Location: ABC News (AU)
-- Description: Paramedics have attended more than 50 suspected overdoses at Crown Melbourne in the past two years, with the casino complex averaging an ambulance call-out for a suspected overdose every two weeks, data released exclusively to the ABC shows.
+- Description: Police say criminal syndicates are becoming more creative at concealing drugs within airport shipments.
 
-
-### OTHER on 2026-05-14 19:08
-- Location: HuffPost
-- Description: The FBI did not disclose the snorkeling session or that Patel had returned to Hawaii for two days after his initial stopover on the island.
-
-Analysis generated at: Fri May 15 19:24:25 UTC 2026
+Analysis generated at: Sat May 16 02:28:08 UTC 2026
