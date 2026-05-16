@@ -1,10 +1,10 @@
 
-Loaded 105105 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-15 03:32:17
+Loaded 105133 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-15 07:49:24
 
 Incidents by source:
 source
-newsapi           105004
+newsapi           105032
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,30 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-05-15 03:32
+### OTHER on 2026-05-15 07:49
+- Location: Nakedcapitalism.com
+- Description: AI's reach in government services is already bigger than most realize and is set to grow considerably.
+
+
+### OTHER on 2026-05-15 07:47
 - Location: ABC News (AU)
-- Description: Tasmanian police are investigating the death of a man and woman, whose bodies have been found at a home in Campania, north of Hobart.
+- Description: In the regional Victorian town of Shepparton, shoplifting and retail crime are so rife that police have launched a dedicated patrol unit to target repeat offenders.
 
 
-### SHOOTING on 2026-05-15 03:17
-- Location: Dailymail.com
-- Description: The young woman was just 22 years old and had recently graduated Summa Cum Laude from Auburn University with a degree in interior design.
+### SHOOTING on 2026-05-15 07:36
+- Location: The Punch
+- Description: Discover how Ogun State is pioneering 24-hour electricity supply with new power plants, boosting industrial growth and ending outages for residents.
+
+Read More: https://punchng.com/inside-oguns-push-for-24-hour-electricity-supply/
 
 
-### HOMICIDE on 2026-05-15 02:35
-- Location: The Conversation Africa
-- Description: London Falling is well worth reading – but could have matched this star reporter’s masterpieces if it had ranged more widely.
+### OTHER on 2026-05-15 07:30
+- Location: Gossiplankanews.com
+- Description: The magisterial inquiry into the fraudulent acquisition of Rs. 13 billion from the National Development Bank's (NDB) general ledger account was recently called, during which the court ordered the Criminal Investigation Department (CID) to immediately arrest a…
 
 
-### ASSAULT on 2026-05-15 02:35
-- Location: Dailymail.com
-- Description: Paramedics were urgently called to a luxury family-owned ski resort on Mount Buller after a Melbourne socialite was the alleged victim of a drink-spiking attack.
+### OTHER on 2026-05-15 07:13
+- Location: Common Dreams
+- Description: Oh man. Same old clown show, awash with boondoggles, each more cringey than the last. As the mad man-child deconstructs DC and slaps his hideous face and name everywhere - historic buildings, fascist arches, garish statues, possibly imaginary gold phones - ot…
 
-
-### SHOOTING on 2026-05-15 02:15
-- Location: Khabarhub.com
-- Description: KATHMANDU: Economic Digest presents a brief yet comprehensive roundup of major business developments in Nepal, delivered in clear and accessible summaries. Nepal’s economic and governance landscape reflects a mix of cautious financial stability, institutional…
-
-Analysis generated at: Sat May 16 03:36:33 UTC 2026
+Analysis generated at: Sat May 16 07:57:07 UTC 2026
