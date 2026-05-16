@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat May 16 02:28:08 UTC 2026
+Last updated: Sat May 16 03:36:33 UTC 2026
 
 ## Latest Analysis
 
-Loaded 105101 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-15 02:15:49
+Loaded 105105 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-15 03:32:17
 
 Incidents by source:
 source
-newsapi           105000
+newsapi           105004
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,30 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
+### HOMICIDE on 2026-05-15 03:32
+- Location: ABC News (AU)
+- Description: Tasmanian police are investigating the death of a man and woman, whose bodies have been found at a home in Campania, north of Hobart.
+
+
+### SHOOTING on 2026-05-15 03:17
+- Location: Dailymail.com
+- Description: The young woman was just 22 years old and had recently graduated Summa Cum Laude from Auburn University with a degree in interior design.
+
+
+### HOMICIDE on 2026-05-15 02:35
+- Location: The Conversation Africa
+- Description: London Falling is well worth reading – but could have matched this star reporter’s masterpieces if it had ranged more widely.
+
+
+### ASSAULT on 2026-05-15 02:35
+- Location: Dailymail.com
+- Description: Paramedics were urgently called to a luxury family-owned ski resort on Mount Buller after a Melbourne socialite was the alleged victim of a drink-spiking attack.
+
+
 ### SHOOTING on 2026-05-15 02:15
 - Location: Khabarhub.com
 - Description: KATHMANDU: Economic Digest presents a brief yet comprehensive roundup of major business developments in Nepal, delivered in clear and accessible summaries. Nepal’s economic and governance landscape reflects a mix of cautious financial stability, institutional…
 
-
-### OTHER on 2026-05-15 02:12
-- Location: Slashdot.org
-- Description: Philippine senator wanted by the International Criminal Court flees from SenateAP News Philippine politician wanted by ICC flees senate after days holed up in buildingThe Guardian Arrest Warrant for Philippine Senator Sparks Dramatic Cat-and-Mouse GameWSJ Cha…
-
-
-### ASSAULT on 2026-05-15 02:11
-- Location: The Punch
-- Description: Former Minister Saleh Mamman’s 75-year sentence for N33.8bn fraud raises questions. Is this a turning point in the fight against Nigerian corruption?
-
-Read More: https://punchng.com/saleh-mammans-conviction-is-karma-coming-for-others/
-
-
-### SHOOTING on 2026-05-15 02:03
-- Location: Borderlandbeat.com
-- Description: “Sol Prendido” for Borderland Beat  No officers were reported injured following the exchange of gunfire, and a search operation was launched...
-
-
-### DRUG RELATED on 2026-05-15 02:01
-- Location: ABC News (AU)
-- Description: Police say criminal syndicates are becoming more creative at concealing drugs within airport shipments.
-
-Analysis generated at: Sat May 16 02:28:08 UTC 2026
+Analysis generated at: Sat May 16 03:36:33 UTC 2026
