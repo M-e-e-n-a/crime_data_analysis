@@ -1,10 +1,10 @@
 
-Loaded 105133 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-15 07:49:24
+Loaded 105187 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-15 13:03:00
 
 Incidents by source:
 source
-newsapi           105032
+newsapi           105086
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,30 +20,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-05-15 07:49
-- Location: Nakedcapitalism.com
-- Description: AI's reach in government services is already bigger than most realize and is set to grow considerably.
+### HOMICIDE on 2026-05-15 13:03
+- Location: The Sun Chronicle
+- Description: SEEKONK -- A local man who allegedly shot to death a man in Rhode Island before fleeing into Massachusetts where police say his vehicle ended up in a fiery crash that killed two others has been ordered held without bail.
 
 
-### OTHER on 2026-05-15 07:47
-- Location: ABC News (AU)
-- Description: In the regional Victorian town of Shepparton, shoplifting and retail crime are so rife that police have launched a dedicated patrol unit to target repeat offenders.
+### HOMICIDE on 2026-05-15 13:01
+- Location: Screen Rant
+- Description: Beth and Rip find no peace in Dutton Ranch as they find themselves against new enemies in Texas who will do anything to protect their secrets.
 
 
-### SHOOTING on 2026-05-15 07:36
-- Location: The Punch
-- Description: Discover how Ogun State is pioneering 24-hour electricity supply with new power plants, boosting industrial growth and ending outages for residents.
-
-Read More: https://punchng.com/inside-oguns-push-for-24-hour-electricity-supply/
-
-
-### OTHER on 2026-05-15 07:30
-- Location: Gossiplankanews.com
-- Description: The magisterial inquiry into the fraudulent acquisition of Rs. 13 billion from the National Development Bank's (NDB) general ledger account was recently called, during which the court ordered the Criminal Investigation Department (CID) to immediately arrest a…
+### OTHER on 2026-05-15 13:00
+- Location: Legalinsurrection.com
+- Description: “We are shocked and deeply troubled that this hateful symbol expressing antisemitism was raised on a flagpole overlooking Washington Square Park”
+The post NYU Investigating After Flag With Swastikas and Star of David is Flown During Graduation first appeared …
 
 
-### OTHER on 2026-05-15 07:13
-- Location: Common Dreams
-- Description: Oh man. Same old clown show, awash with boondoggles, each more cringey than the last. As the mad man-child deconstructs DC and slaps his hideous face and name everywhere - historic buildings, fascist arches, garish statues, possibly imaginary gold phones - ot…
+### HOMICIDE on 2026-05-15 12:49
+- Location: Dailymail.com
+- Description: Civil rights activist Minister Dominique Alexander held a press conference Thursday urging the public to respect the legal process ahead of Karmelo Anthony's trial.
 
-Analysis generated at: Sat May 16 07:57:07 UTC 2026
+
+### OTHER on 2026-05-15 12:38
+- Location: News24
+- Description: Member of Parliament and leader of the National Coloured Congress, Fadiel Adams, has been granted R10 000 bail in the Pinetown Magistrate’s Court.
+
+Analysis generated at: Sat May 16 13:10:10 UTC 2026
