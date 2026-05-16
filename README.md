@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat May 16 13:43:19 UTC 2026
+Last updated: Sat May 16 18:57:51 UTC 2026
 
 ## Latest Analysis
 
-Loaded 105194 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-15 13:35:02
+Loaded 105258 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-15 18:52:03
 
 Incidents by source:
 source
-newsapi           105093
+newsapi           105157
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,36 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-05-15 13:35
-- Location: Page Six
-- Description: Convicted murderer Mackenzie Shirilla appears onscreen for the first time since being put behind bars in the new Netflix doc, "The Crash."
+### OTHER on 2026-05-15 18:52
+- Location: ABC News (AU)
+- Description: Jewish Australians told the royal commission that antisemitism has spread into everyday life. But whether the inquiry can handle what it has promised to confront remains to be seen.
 
 
-### OTHER on 2026-05-15 13:30
-- Location: The Daily Caller
-- Description: Christopher Dolan was a respected Massachusetts state trooper for years — until COVID-19 hit and his bosses declared him a threat to public health.
+### HOMICIDE on 2026-05-15 18:48
+- Location: HuffPost
+- Description: "You will be held accountable and you will face the full wrath of the law,” U.S. Attorney Jeanine Pirro said of people who commit crimes in the nation's capital.
 
 
-### OTHER on 2026-05-15 13:30
-- Location: XXLMAG.COM
-- Description: Behind bars again. Continue reading…
+### OTHER on 2026-05-15 18:42
+- Location: Macworld
+- Description: Macworld
 
 
-### OTHER on 2026-05-15 13:30
-- Location: Screen Rant
-- Description: A 2026 Marvel Cinematic Universe release has just set up the perfect storyline to bring back two MCU Phase 3 heroes several years later.
 
 
-### OTHER on 2026-05-15 13:21
-- Location: Rlsbb.to
-- Description: A team of Crime Scene Investigators (CSI's) work with the Las Vegas Police Department (LVPD) to solve crimes by using advanced scientific methods and technology in Las Vegas, Nevada. Links: HOMEPAGE – iMDBCSI.Crime.Scene.Investigation.S16.1080p.AMZN.WEB-DL.H2…
 
-Analysis generated at: Sat May 16 13:43:19 UTC 2026
+
+
+If you ever go to a local supermarket or convenience store to buy an Apple gift card, you may think twice after reading a new report from New Hampshire Public Radio. The state of New Hampshire in the U.S. appears to be the center of a global …
+
+
+### HOMICIDE on 2026-05-15 18:35
+- Location: The Times of India
+- Description: Amidst a heightened call for justice, West Bengal's Chief Minister has taken decisive action by suspending three senior IPS officers, including Vineet Kumar Goyal, the former Kolkata Police Commissioner. This decision arises from the horrific incident involvi…
+
+
+### HOMICIDE on 2026-05-15 18:32
+- Location: Daily Signal
+- Description: A teenage stabbing victim bled to death on the street in Southampton after British police arrested and cuffed him rather than his alleged Sikh attacker, after the suspect claimed he’d been racially abused, according to court testimony. Henry Nowak, 18, a fina…
+
+Analysis generated at: Sat May 16 18:57:51 UTC 2026
