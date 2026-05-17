@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun May 17 02:35:22 UTC 2026
+Last updated: Sun May 17 03:55:13 UTC 2026
 
 ## Latest Analysis
 
-Loaded 105276 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-16 02:28:53
+Loaded 105280 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-16 03:52:54
 
 Incidents by source:
 source
-newsapi           105175
+newsapi           105179
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
+### SHOOTING on 2026-05-16 03:52
+- Location: ABC News (AU)
+- Description: The Public Service Association is calling for urgent and immediate security upgrades after a stolen car allegedly involved in a shooting was seen at the Yatala Labour Prison in the days before the incident.
+
+
+### HOMICIDE on 2026-05-16 03:50
+- Location: Dailymail.com
+- Description: A peaceful town in Tasmania home to just over 1,000 residents has been rocked by a 'extremely confronting' murder-suicide.
+
+
+### HOMICIDE on 2026-05-16 03:45
+- Location: Newsonjapan.com
+- Description: A 16-year-old boy newly arrested over a robbery-murder case in Kamimikawa, Tochigi Prefecture, in which a 69-year-old woman was killed during a home invasion on May 14th, was a classmate at the same high school as another teenage suspect already in custody, p…
+
+
+### ASSAULT on 2026-05-16 03:14
+- Location: Dailymail.com
+- Description: The bariatric surgeon is facing three counts of rape, two charges of unlawful detention and a charge of sexual assault following an alleged attack at his $7million home.
+
+
 ### OTHER on 2026-05-16 02:28
 - Location: The Times of India
 - Description: Netflix's latest streaming lineup features a diverse range of new releases, including the crime thriller Kartavya starring Saif Ali Khan. International audiences can now enjoy Dhurandhar: The Revenge, but with a twist, while Berlin season 2 offers a stylish h…
 
-
-### ROBBERY/THEFT on 2026-05-16 02:20
-- Location: The Times of India
-- Description: Operation Securus: Shepparton police have launched Operation Securus to combat escalating shop theft. A five-member team will work with retailers to target repeat offenders. This initiative follows a successful previous operation. Retail crime has reached a d…
-
-
-### HOMICIDE on 2026-05-16 02:19
-- Location: Freerepublic.com
-- Description: California remains the largest offender of DHS sanctuary jurisdictions violations House Judiciary Subcommittee on Immigration Integrity, Security, and Enforcement Chairman Rep. Tom McClintock (R-CA) chaired a high-stakes hearing Thursday exposing the deadly c…
-
-
-### OTHER on 2026-05-16 02:17
-- Location: Screen Rant
-- Description: Prime Video’s crime thriller line-up for 2026 is so impressive that it seems fair say that it is the best year for the genre on the streaming service.
-
-
-### SHOOTING on 2026-05-16 02:15
-- Location: Khabarhub.com
-- Description: KATHMANDU: Economic Digest presents a brief yet comprehensive roundup of major business developments in Nepal, delivered in clear and accessible summaries. Nepal’s latest economic indicators reflect a mixed but increasingly fragile financial landscape, marked…
-
-Analysis generated at: Sun May 17 02:35:22 UTC 2026
+Analysis generated at: Sun May 17 03:55:13 UTC 2026
