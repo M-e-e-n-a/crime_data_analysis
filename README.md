@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat May 16 18:57:51 UTC 2026
+Last updated: Sun May 17 02:35:22 UTC 2026
 
 ## Latest Analysis
 
-Loaded 105258 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-15 18:52:03
+Loaded 105276 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-16 02:28:53
 
 Incidents by source:
 source
-newsapi           105157
+newsapi           105175
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,36 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-05-15 18:52
-- Location: ABC News (AU)
-- Description: Jewish Australians told the royal commission that antisemitism has spread into everyday life. But whether the inquiry can handle what it has promised to confront remains to be seen.
-
-
-### HOMICIDE on 2026-05-15 18:48
-- Location: HuffPost
-- Description: "You will be held accountable and you will face the full wrath of the law,” U.S. Attorney Jeanine Pirro said of people who commit crimes in the nation's capital.
-
-
-### OTHER on 2026-05-15 18:42
-- Location: Macworld
-- Description: Macworld
-
-
-
-
-
-
-
-If you ever go to a local supermarket or convenience store to buy an Apple gift card, you may think twice after reading a new report from New Hampshire Public Radio. The state of New Hampshire in the U.S. appears to be the center of a global …
-
-
-### HOMICIDE on 2026-05-15 18:35
+### OTHER on 2026-05-16 02:28
 - Location: The Times of India
-- Description: Amidst a heightened call for justice, West Bengal's Chief Minister has taken decisive action by suspending three senior IPS officers, including Vineet Kumar Goyal, the former Kolkata Police Commissioner. This decision arises from the horrific incident involvi…
+- Description: Netflix's latest streaming lineup features a diverse range of new releases, including the crime thriller Kartavya starring Saif Ali Khan. International audiences can now enjoy Dhurandhar: The Revenge, but with a twist, while Berlin season 2 offers a stylish h…
 
 
-### HOMICIDE on 2026-05-15 18:32
-- Location: Daily Signal
-- Description: A teenage stabbing victim bled to death on the street in Southampton after British police arrested and cuffed him rather than his alleged Sikh attacker, after the suspect claimed he’d been racially abused, according to court testimony. Henry Nowak, 18, a fina…
+### ROBBERY/THEFT on 2026-05-16 02:20
+- Location: The Times of India
+- Description: Operation Securus: Shepparton police have launched Operation Securus to combat escalating shop theft. A five-member team will work with retailers to target repeat offenders. This initiative follows a successful previous operation. Retail crime has reached a d…
 
-Analysis generated at: Sat May 16 18:57:51 UTC 2026
+
+### HOMICIDE on 2026-05-16 02:19
+- Location: Freerepublic.com
+- Description: California remains the largest offender of DHS sanctuary jurisdictions violations House Judiciary Subcommittee on Immigration Integrity, Security, and Enforcement Chairman Rep. Tom McClintock (R-CA) chaired a high-stakes hearing Thursday exposing the deadly c…
+
+
+### OTHER on 2026-05-16 02:17
+- Location: Screen Rant
+- Description: Prime Video’s crime thriller line-up for 2026 is so impressive that it seems fair say that it is the best year for the genre on the streaming service.
+
+
+### SHOOTING on 2026-05-16 02:15
+- Location: Khabarhub.com
+- Description: KATHMANDU: Economic Digest presents a brief yet comprehensive roundup of major business developments in Nepal, delivered in clear and accessible summaries. Nepal’s latest economic indicators reflect a mixed but increasingly fragile financial landscape, marked…
+
+Analysis generated at: Sun May 17 02:35:22 UTC 2026
