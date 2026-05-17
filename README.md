@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun May 17 13:07:21 UTC 2026
+Last updated: Sun May 17 13:42:25 UTC 2026
 
 ## Latest Analysis
 
-Loaded 105333 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-16 13:00:47
+Loaded 105334 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-16 13:18:13
 
 Incidents by source:
 source
-newsapi           105232
+newsapi           105233
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -23,6 +23,11 @@ ion.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### OTHER on 2026-05-16 13:18
+- Location: LADbible
+- Description: The Met police confirmed its £4.5 billion operation ahead of the marches
+
 
 ### OTHER on 2026-05-16 13:00
 - Location: Fox News
@@ -43,9 +48,4 @@ ion.svg)
 - Location: New York Post
 - Description: “Don’t ever ask me how I get tights under the ankle monitor again,” the 35-year-old wrote in a video post shared across social media.
 
-
-### OTHER on 2026-05-16 12:49
-- Location: Michaelgeist.ca
-- Description: The government’s plans for lawful access has gone off the rails. In recent days, Signal has warned it would pull out of the Canadian market rather than comply with Bill C-22. Windscribe, the Toronto-headquartered VPN provider, has said it would relocate its h…
-
-Analysis generated at: Sun May 17 13:07:21 UTC 2026
+Analysis generated at: Sun May 17 13:42:25 UTC 2026
