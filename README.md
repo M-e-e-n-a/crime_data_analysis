@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun May 17 08:14:59 UTC 2026
+Last updated: Sun May 17 13:07:21 UTC 2026
 
 ## Latest Analysis
 
-Loaded 105302 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-16 08:09:36
+Loaded 105333 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-16 13:00:47
 
 Incidents by source:
 source
-newsapi           105201
+newsapi           105232
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-05-16 08:09
+### OTHER on 2026-05-16 13:00
+- Location: Fox News
+- Description: Cities nationwide brace for a summer surge in teen takeovers as experts warn social media is fueling violence, prompting curfews and mass arrests.
+
+
+### OTHER on 2026-05-16 13:00
+- Location: Screen Rant
+- Description: Crime novels from The Wire's top writers.
+
+
+### ROBBERY/THEFT on 2026-05-16 12:57
 - Location: The Times of India
-- Description: A 14-year-old girl's death in Sonipat has sparked a murder investigation after villagers alleged strangulation marks and foul play. Police recovered ashes from the cremation pyre for forensic analysis. The mother's shifting statements and a previous suspiciou…
+- Description: Congress leader Debabrata Saikia has raised concerns about the National Register of Citizens NRC Assam website and its helpline. He reported that the website is broken and helpline numbers are not working. One number connected to a veterinary hospital. Saikia…
 
 
-### OTHER on 2026-05-16 08:06
-- Location: Dailymail.com
-- Description: Isla Bell's body was located at a Dandenong tip in Melbourne's southeast in November 2024.
+### OTHER on 2026-05-16 12:52
+- Location: New York Post
+- Description: “Don’t ever ask me how I get tights under the ankle monitor again,” the 35-year-old wrote in a video post shared across social media.
 
 
-### OTHER on 2026-05-16 08:00
-- Location: Hollywood Reporter
-- Description: The Hollywood Reporter's next Cannes Rising Star on landing a role in László Nemes' harrowing World War II drama and finally getting his first Palais red carpet: "It’s going to be, I think, a very emotional moment."
+### OTHER on 2026-05-16 12:49
+- Location: Michaelgeist.ca
+- Description: The government’s plans for lawful access has gone off the rails. In recent days, Signal has warned it would pull out of the Canadian market rather than comply with Bill C-22. Windscribe, the Toronto-headquartered VPN provider, has said it would relocate its h…
 
-
-### DRUG RELATED on 2026-05-16 08:00
-- Location: CBC News
-- Description: Two neighbouring First Nations in northwestern Ontario have declared a joint state of emergency “due to the rising crime and violence trespassing into their communities.” Long Lake #58 First Nation and Ginoogaming First Nation, located about 300 kilometres no…
-
-
-### HOMICIDE on 2026-05-16 07:50
-- Location: Gossiplankanews.com
-- Description: Millaniya Police have arrested a 43-year-old coconut plucker in connection with the murder of a 58-year-old married woman who resided in the Halthota, Kannanthuduwa area, which falls under the Millaniya Police Division. The woman who was murdered in this mann…
-
-Analysis generated at: Sun May 17 08:14:59 UTC 2026
+Analysis generated at: Sun May 17 13:07:21 UTC 2026
