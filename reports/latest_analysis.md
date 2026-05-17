@@ -1,10 +1,10 @@
 
-Loaded 105280 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-16 03:52:54
+Loaded 105302 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-16 08:09:36
 
 Incidents by source:
 source
-newsapi           105179
+newsapi           105201
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-05-16 03:52
-- Location: ABC News (AU)
-- Description: The Public Service Association is calling for urgent and immediate security upgrades after a stolen car allegedly involved in a shooting was seen at the Yatala Labour Prison in the days before the incident.
-
-
-### HOMICIDE on 2026-05-16 03:50
-- Location: Dailymail.com
-- Description: A peaceful town in Tasmania home to just over 1,000 residents has been rocked by a 'extremely confronting' murder-suicide.
-
-
-### HOMICIDE on 2026-05-16 03:45
-- Location: Newsonjapan.com
-- Description: A 16-year-old boy newly arrested over a robbery-murder case in Kamimikawa, Tochigi Prefecture, in which a 69-year-old woman was killed during a home invasion on May 14th, was a classmate at the same high school as another teenage suspect already in custody, p…
-
-
-### ASSAULT on 2026-05-16 03:14
-- Location: Dailymail.com
-- Description: The bariatric surgeon is facing three counts of rape, two charges of unlawful detention and a charge of sexual assault following an alleged attack at his $7million home.
-
-
-### OTHER on 2026-05-16 02:28
+### HOMICIDE on 2026-05-16 08:09
 - Location: The Times of India
-- Description: Netflix's latest streaming lineup features a diverse range of new releases, including the crime thriller Kartavya starring Saif Ali Khan. International audiences can now enjoy Dhurandhar: The Revenge, but with a twist, while Berlin season 2 offers a stylish h…
+- Description: A 14-year-old girl's death in Sonipat has sparked a murder investigation after villagers alleged strangulation marks and foul play. Police recovered ashes from the cremation pyre for forensic analysis. The mother's shifting statements and a previous suspiciou…
 
-Analysis generated at: Sun May 17 03:55:13 UTC 2026
+
+### OTHER on 2026-05-16 08:06
+- Location: Dailymail.com
+- Description: Isla Bell's body was located at a Dandenong tip in Melbourne's southeast in November 2024.
+
+
+### OTHER on 2026-05-16 08:00
+- Location: Hollywood Reporter
+- Description: The Hollywood Reporter's next Cannes Rising Star on landing a role in László Nemes' harrowing World War II drama and finally getting his first Palais red carpet: "It’s going to be, I think, a very emotional moment."
+
+
+### DRUG RELATED on 2026-05-16 08:00
+- Location: CBC News
+- Description: Two neighbouring First Nations in northwestern Ontario have declared a joint state of emergency “due to the rising crime and violence trespassing into their communities.” Long Lake #58 First Nation and Ginoogaming First Nation, located about 300 kilometres no…
+
+
+### HOMICIDE on 2026-05-16 07:50
+- Location: Gossiplankanews.com
+- Description: Millaniya Police have arrested a 43-year-old coconut plucker in connection with the murder of a 58-year-old married woman who resided in the Halthota, Kannanthuduwa area, which falls under the Millaniya Police Division. The woman who was murdered in this mann…
+
+Analysis generated at: Sun May 17 08:14:59 UTC 2026
