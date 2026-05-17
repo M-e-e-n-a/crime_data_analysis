@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun May 17 13:42:25 UTC 2026
+Last updated: Sun May 17 19:01:25 UTC 2026
 
 ## Latest Analysis
 
-Loaded 105334 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-16 13:18:13
+Loaded 105377 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-16 19:00:00
 
 Incidents by source:
 source
-newsapi           105233
+newsapi           105276
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,30 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-05-16 13:18
-- Location: LADbible
-- Description: The Met police confirmed its £4.5 billion operation ahead of the marches
+### OTHER on 2026-05-16 19:00
+- Location: ComicBook.com
+- Description: Image Courtesy of DC Comics
+
+DC Comics has helped make the superhero into one of the most important kinds of fictional characters of the last century, and they did that by pitting them against the best villains ever. DC created the iconic villain that has bec…
 
 
-### OTHER on 2026-05-16 13:00
+### OTHER on 2026-05-16 18:52
 - Location: Fox News
-- Description: Cities nationwide brace for a summer surge in teen takeovers as experts warn social media is fueling violence, prompting curfews and mass arrests.
+- Description: Some Home Depot and Lowe's stores in Connecticut reportedly scan license plates in parking lots using automated readers tied to police databases.
 
 
-### OTHER on 2026-05-16 13:00
-- Location: Screen Rant
-- Description: Crime novels from The Wire's top writers.
-
-
-### ROBBERY/THEFT on 2026-05-16 12:57
+### HOMICIDE on 2026-05-16 18:28
 - Location: The Times of India
-- Description: Congress leader Debabrata Saikia has raised concerns about the National Register of Citizens NRC Assam website and its helpline. He reported that the website is broken and helpline numbers are not working. One number connected to a veterinary hospital. Saikia…
+- Description: A court in Bulandshahr has handed down life sentences to four men. They were convicted in a 2018 murder case. Each convict must also pay a fine of Rs 1.10 lakh. The murder stemmed from an old rivalry. The victim was allegedly lured away and killed. His body w…
 
 
-### OTHER on 2026-05-16 12:52
-- Location: New York Post
-- Description: “Don’t ever ask me how I get tights under the ankle monitor again,” the 35-year-old wrote in a video post shared across social media.
+### ROBBERY/THEFT on 2026-05-16 18:19
+- Location: The Times of India
+- Description: Mumbai: Charkop police probe theft of 22-carat gold bangles worth Rs 5.28 crore after three guards at a jewellery unit allegedly fled with 3,176g.
 
-Analysis generated at: Sun May 17 13:42:25 UTC 2026
+
+### OTHER on 2026-05-16 18:17
+- Location: Dailymail.com
+- Description: Jackson's legacy has fallen under renewed scrutiny in recent years because of the long-running allegations that he sexually abused underage boys.
+
+Analysis generated at: Sun May 17 19:01:25 UTC 2026
