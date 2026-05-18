@@ -1,10 +1,10 @@
 
-Loaded 105473 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-17 15:32:21
+Loaded 105501 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-17 19:25:44
 
 Incidents by source:
 source
-newsapi           105372
+newsapi           105400
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-05-17 15:32
-- Location: Livemint
-- Description: A borrower must identify and document all credit score errors. Download credit report from CIBIL or another bureau and carefully review all entries
+### HOMICIDE on 2026-05-17 19:25
+- Location: Honolulu Star-Advertiser
+- Description: Honolulu police are investigating a second-degree attempted murder case after a 23-year-old man was injured in an apparent shooting in the Kakaako area earlier this morning.
 
 
-### OTHER on 2026-05-17 15:30
-- Location: MakeUseOf
-- Description: Seeing how much you can watch for free on Roku makes you wonder if the whole idea of paying for streaming services is a scam.
+### HOMICIDE on 2026-05-17 19:22
+- Location: Al Jazeera English
+- Description: Officials blamed the shooting on 'armed individuals', though no details were provided about attackers or their motives.
 
 
-### OTHER on 2026-05-17 15:13
-- Location: Breitbart News
-- Description: In a scene typical of a cinematic military or intelligence tactic, a New Jersey man allegedly ignited an unnerving diversion with camping fuel and fireworks in a Maryland Walmart in order to distract security in order to steal $10,000 in jewelry.
-The post New…
+### OTHER on 2026-05-17 19:19
+- Location: Freerepublic.com
+- Description: Finally, after years of gaslighting, lawfare, and corrupt media cover-ups, a top Trump DOJ official has stepped up and dropped the hammer on the biggest political crime in American history. Acting Attorney General Todd Blanche joined Maria Bartiromo on Sunday…
 
 
-### ROBBERY/THEFT on 2026-05-17 15:08
-- Location: Ibtimes.com.au
-- Description: Pima County Sheriff Chris Nanos halts direct communication with Savannah Guthrie's family in the Nancy Guthrie disappearance case, focusing on evidence and digital mapping amid media scrutiny.
+### HOMICIDE on 2026-05-17 19:19
+- Location: The Times of India
+- Description: Pune police exchanged fire with wanted criminal Shekhar Jadhav’s accomplice in Shirur; duo fled into sugarcane fields. Fresh attempted murder case filed.
 
 
-### ROBBERY/THEFT on 2026-05-17 14:48
-- Location: Dailymail.com
-- Description: The chaotic moments when police boarded the plane and confronted Ben Roberts-Smith have been revealed for the first time in a private, detailed email sent by his mother to supporters.
+### ROBBERY/THEFT on 2026-05-17 18:50
+- Location: Antaranews.com
+- Description: Jakarta Governor Pramono Anung said he supports law enforcement officers in taking firm action against the perpetrator of a snatch theft targeting a foreign ...
 
-Analysis generated at: Mon May 18 15:43:28 UTC 2026
+Analysis generated at: Mon May 18 19:31:05 UTC 2026
