@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon May 18 04:07:10 UTC 2026
+Last updated: Mon May 18 09:51:08 UTC 2026
 
 ## Latest Analysis
 
-Loaded 105406 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-17 04:00:00
+Loaded 105433 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-17 09:50:40
 
 Incidents by source:
 source
-newsapi           105305
+newsapi           105332
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,30 +24,30 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-05-17 04:00
-- Location: The Irish Times
-- Description: May 17th-22nd highlights, including Tradfluencer: The Sharon Shannon Story; Derek Mooney’s Back from the Brink; and Lucy Worsley on The American Revolution
+### ASSAULT on 2026-05-17 09:50
+- Location: The Punch
+- Description: Following the recent Oyo school attack, the Afenifere group has declared that Yorubaland is under siege, urging South-West governors to act on insecurity.
+
+Read More: https://punchng.com/oyo-school-attack-yorubaland-now-under-siege-says-afenifere/
 
 
-### OTHER on 2026-05-17 04:00
-- Location: Americanthinker.com
-- Description: Photo Credit:
- 
- Clarice FIn Latin America, in China, in the Middle East, the outline of Donald Trump's plan of action is becoming clear. It is of a scale to take the breath away.
+### SHOOTING on 2026-05-17 09:25
+- Location: 4029tv
+- Description: The Fort Smith Police Department says officer Kyle Newman was hit by at least one bullet fired by the suspect.
 
 
-### OTHER on 2026-05-17 03:59
-- Location: The Times of India
-- Description: Ghosh questioned the FIR against Banerjee and said that the TMC should not be targeted only because the party lost the West Bengal assembly elections, terming the situation "not acceptable."
+### OTHER on 2026-05-17 08:38
+- Location: Dailymail.com
+- Description: The teenager was transported to Royal Perth Hospital by ambulance.
 
 
-### HOMICIDE on 2026-05-17 03:52
-- Location: Slashdot.org
-- Description: Mother accused in deaths of her two young children held on $2.1M bond as memorial growsWOAI Texas mom charged with capital murder after kids found dead in burnt carNBC News 2 children found dead in burned vehicle; mother charged with capital murder, San Anton…
+### HOMICIDE on 2026-05-17 08:26
+- Location: Dailymail.com
+- Description: It was supposed to be an ordinary Saturday morning in Melbourne's leafy suburbia. Instead, two Sydney assassins in black lay in wait, armed and ready to kill.
 
 
-### OTHER on 2026-05-17 03:40
-- Location: Dark Horizons
-- Description: XBOX Xbox has rebranded itself… to XBOX. Following a survey of nearly 20,000 people, Xbox CEO Asha Sharma has announced that the all caps spelling of the brand won the vote over the usual first letter capitalisation – and now the company has rebranded its off…
+### OTHER on 2026-05-17 08:10
+- Location: ABC News (AU)
+- Description: More than 140,000 illegal cigarettes have been seized and six stores ordered to close down, days after Western Australia's new tobacco laws came into force.
 
-Analysis generated at: Mon May 18 04:07:10 UTC 2026
+Analysis generated at: Mon May 18 09:51:08 UTC 2026
