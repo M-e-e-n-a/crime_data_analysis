@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon May 18 09:51:08 UTC 2026
+Last updated: Mon May 18 15:17:23 UTC 2026
 
 ## Latest Analysis
 
-Loaded 105433 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-17 09:50:40
+Loaded 105471 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-17 15:13:54
 
 Incidents by source:
 source
-newsapi           105332
+newsapi           105370
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,30 +24,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2026-05-17 09:50
-- Location: The Punch
-- Description: Following the recent Oyo school attack, the Afenifere group has declared that Yorubaland is under siege, urging South-West governors to act on insecurity.
-
-Read More: https://punchng.com/oyo-school-attack-yorubaland-now-under-siege-says-afenifere/
-
-
-### SHOOTING on 2026-05-17 09:25
-- Location: 4029tv
-- Description: The Fort Smith Police Department says officer Kyle Newman was hit by at least one bullet fired by the suspect.
+### OTHER on 2026-05-17 15:13
+- Location: Breitbart News
+- Description: In a scene typical of a cinematic military or intelligence tactic, a New Jersey man allegedly ignited an unnerving diversion with camping fuel and fireworks in a Maryland Walmart in order to distract security in order to steal $10,000 in jewelry.
+The post New…
 
 
-### OTHER on 2026-05-17 08:38
+### ROBBERY/THEFT on 2026-05-17 15:08
+- Location: Ibtimes.com.au
+- Description: Pima County Sheriff Chris Nanos halts direct communication with Savannah Guthrie's family in the Nancy Guthrie disappearance case, focusing on evidence and digital mapping amid media scrutiny.
+
+
+### ROBBERY/THEFT on 2026-05-17 14:48
 - Location: Dailymail.com
-- Description: The teenager was transported to Royal Perth Hospital by ambulance.
+- Description: The chaotic moments when police boarded the plane and confronted Ben Roberts-Smith have been revealed for the first time in a private, detailed email sent by his mother to supporters.
 
 
-### HOMICIDE on 2026-05-17 08:26
-- Location: Dailymail.com
-- Description: It was supposed to be an ordinary Saturday morning in Melbourne's leafy suburbia. Instead, two Sydney assassins in black lay in wait, armed and ready to kill.
+### HOMICIDE on 2026-05-17 14:17
+- Location: Newsonjapan.com
+- Description: A 28-year-old man believed to have directed a deadly robbery attack in Kamimikawa, Tochigi Prefecture, was arrested at Haneda Airport as police continue investigating the murder of a woman killed during a home invasion. (News On Japan)
 
 
-### OTHER on 2026-05-17 08:10
-- Location: ABC News (AU)
-- Description: More than 140,000 illegal cigarettes have been seized and six stores ordered to close down, days after Western Australia's new tobacco laws came into force.
+### ROBBERY/THEFT on 2026-05-17 14:14
+- Location: RT
+- Description: As ties fray, Berlin and Washington are focusing on critiquing each other’s crises while dodging their own mounting failures Read Full Article at RT.com
 
-Analysis generated at: Mon May 18 09:51:08 UTC 2026
+Analysis generated at: Mon May 18 15:17:23 UTC 2026
