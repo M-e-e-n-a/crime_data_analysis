@@ -1,10 +1,10 @@
 
-Loaded 105471 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-17 15:13:54
+Loaded 105473 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-17 15:32:21
 
 Incidents by source:
 source
-newsapi           105370
+newsapi           105372
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -19,6 +19,16 @@ ion.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### OTHER on 2026-05-17 15:32
+- Location: Livemint
+- Description: A borrower must identify and document all credit score errors. Download credit report from CIBIL or another bureau and carefully review all entries
+
+
+### OTHER on 2026-05-17 15:30
+- Location: MakeUseOf
+- Description: Seeing how much you can watch for free on Roku makes you wonder if the whole idea of paying for streaming services is a scam.
+
 
 ### OTHER on 2026-05-17 15:13
 - Location: Breitbart News
@@ -35,14 +45,4 @@ The post New…
 - Location: Dailymail.com
 - Description: The chaotic moments when police boarded the plane and confronted Ben Roberts-Smith have been revealed for the first time in a private, detailed email sent by his mother to supporters.
 
-
-### HOMICIDE on 2026-05-17 14:17
-- Location: Newsonjapan.com
-- Description: A 28-year-old man believed to have directed a deadly robbery attack in Kamimikawa, Tochigi Prefecture, was arrested at Haneda Airport as police continue investigating the murder of a woman killed during a home invasion. (News On Japan)
-
-
-### ROBBERY/THEFT on 2026-05-17 14:14
-- Location: RT
-- Description: As ties fray, Berlin and Washington are focusing on critiquing each other’s crises while dodging their own mounting failures Read Full Article at RT.com
-
-Analysis generated at: Mon May 18 15:17:23 UTC 2026
+Analysis generated at: Mon May 18 15:43:28 UTC 2026
