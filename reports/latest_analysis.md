@@ -1,10 +1,10 @@
 
-Loaded 105574 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-18 09:12:27
+Loaded 105638 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-18 14:46:54
 
 Incidents by source:
 source
-newsapi           105473
+newsapi           105537
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,31 @@ ion.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-05-18 09:12
-- Location: Slashdot.org
-- Description: 2 Teenagers Arrested After Drive-By Shootings in Austin Injure at Least 4The New York Times LIVE BLOG: All suspects in connection with south Austin shootings are in custodyKXAN Austin 3 in custody following weekend crime spree of 12 shootings, multiple car th…
+### OTHER on 2026-05-18 14:46
+- Location: BusinessLine
+- Description: Mirchi had escaped to London to avoid being caught by the Indian law enforcement agencies for his involvement in the 1993 blast case.
 
 
-### ASSAULT on 2026-05-18 09:00
-- Location: New York Magazine
-- Description: For months, Mamdani’s opponents have looked for a way to attack the mayor. A video outside a billionaire’s house has finally given them an opening.
+### ASSAULT on 2026-05-18 14:33
+- Location: Gothamist
+- Description: An NYPD vehicle is seen in Queens on July 4, 2022.
+ 
+
+The incident happened at the Bush-Clinton playground in Red Hook. [ more › ]
 
 
-### OTHER on 2026-05-18 09:00
+### DRUG RELATED on 2026-05-18 14:32
 - Location: Dailymail.com
-- Description: The Irish comedy writer, 57, was met by armed officers when he touched down in September last year from Arizona and detained on suspicion of inciting violence.
+- Description: A former police officer was jailed today for setting up a county lines drug supply network from his old force area to a quiet Devon town.
 
 
-### OTHER on 2026-05-18 09:00
-- Location: The Atlantic
-- Description: Donald Trump is turning 80. But will he face the scrutiny that Joe Biden did?
+### OTHER on 2026-05-18 14:30
+- Location: Www.gov.uk
+- Description: When military end-use export controls apply and to which destinations.
 
 
-### OTHER on 2026-05-18 08:51
-- Location: Windows Central
-- Description: REPLACED has taught me many things I didn't even know about myself. This is a pixel-art masterclass. And this is why.
+### ASSAULT on 2026-05-18 14:28
+- Location: National Post
+- Description: Samuel Opoku's alleged 2019 spree saw him released on bail after three weeks in police custody in 2019. His lawyer at the time said he poses no threat to the public
 
-Analysis generated at: Tue May 19 09:33:11 UTC 2026
+Analysis generated at: Tue May 19 14:47:44 UTC 2026
