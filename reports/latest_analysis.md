@@ -1,10 +1,10 @@
 
-Loaded 105654 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-18 15:31:31
+Loaded 105726 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-18 19:43:52
 
 Incidents by source:
 source
-newsapi           105553
+newsapi           105625
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-05-18 15:31
+### HOMICIDE on 2026-05-18 19:43
+- Location: The Times of India
+- Description: Four accused in Prayagraj property dealer Azharuddin’s murder surrendered at Jhunsi police station; police cite a Rs 3 lakh dispute and are questioning them.
+
+
+### OTHER on 2026-05-18 19:41
+- Location: New York Post
+- Description: Flash Shelton never set out to become America’s anti-squatter crusader -- and now he has a show on A&E.
+
+
+### HOMICIDE on 2026-05-18 19:41
 - Location: Freerepublic.com
-- Description: The federal judge in the Luigi Mangione murder trial ruled Monday that a gun and notebook allegedly linking him to the killing of UnitedHealthcare CEO Brian Thompson can be shown to the jury. The ruling is a blow to the defense, who argued the items were seiz…
+- Description: Police and other emergency services are responding to reports of an active shooting at the Islamic Center of San Diego, local officials and witnesses say. At least 2 people have been killed and there are multiple injuries. The incident began at around 12 p.m.…
 
 
-### OTHER on 2026-05-18 15:23
-- Location: /FILM
-- Description: John Stewart (Aaron Pierre) covets Hal Jordan's (Kyle Chandler) Green Lantern Corps ring in the new trailer for DC's Lanterns.
+### HOMICIDE on 2026-05-18 19:39
+- Location: Dailymail.com
+- Description: A killer brutally murdered her neighbour in a horrific hammer and knife attack days before Christmas.
 
 
-### HOMICIDE on 2026-05-18 15:22
-- Location: The Daily Caller
-- Description: A man convicted of murder decades ago is now charged in a shooting and robbery spree that injured two people, according to multiple reports.
+### OTHER on 2026-05-18 19:36
+- Location: ABC News (AU)
+- Description: While Queensland councils cleaned up enough illegally dumped waste to fill more than 1,200 garbage trucks, investigators say they are getting better at catching those doing the wrong thing.
 
-
-### OTHER on 2026-05-18 15:21
-- Location: The Indian Express
-- Description: Abhishek Banerjee's petition seeks the quashing of the FIR filed against him.
-
-
-### HOMICIDE on 2026-05-18 15:20
-- Location: CBC News
-- Description: A fire in a West End Winnipeg house earlier this month claimed the lives of two people, police say.
-
-Analysis generated at: Tue May 19 15:35:30 UTC 2026
+Analysis generated at: Tue May 19 19:47:28 UTC 2026
