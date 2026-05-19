@@ -1,10 +1,10 @@
 
-Loaded 105501 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-17 19:25:44
+Loaded 105526 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-18 02:37:43
 
 Incidents by source:
 source
-newsapi           105400
+newsapi           105425
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,30 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-05-17 19:25
-- Location: Honolulu Star-Advertiser
-- Description: Honolulu police are investigating a second-degree attempted murder case after a 23-year-old man was injured in an apparent shooting in the Kakaako area earlier this morning.
+### OTHER on 2026-05-18 02:37
+- Location: BleepingComputer
+- Description: Infected with TDSS and Google Keeps redirecting - posted in Virus, Trojan, Spyware, and Malware Removal Help: Malwarebytes keeps scanning new trojans in my files and says there is 3 registry keys in my HKLM, I removed Temp Files and Cache Files of the python.…
 
 
-### HOMICIDE on 2026-05-17 19:22
-- Location: Al Jazeera English
-- Description: Officials blamed the shooting on 'armed individuals', though no details were provided about attackers or their motives.
+### ASSAULT on 2026-05-18 02:35
+- Location: The Punch
+- Description: Following the Oyo school attack, viral videos of abducted students and staff have emerged, prompting the Senate and Yoruba leaders to demand urgent action.
+
+Read More: https://punchng.com/oyo-school-attack-senate-yoruba-leaders-demand-action-as-distress-video…
 
 
-### OTHER on 2026-05-17 19:19
-- Location: Freerepublic.com
-- Description: Finally, after years of gaslighting, lawfare, and corrupt media cover-ups, a top Trump DOJ official has stepped up and dropped the hammer on the biggest political crime in American history. Acting Attorney General Todd Blanche joined Maria Bartiromo on Sunday…
+### HOMICIDE on 2026-05-18 02:20
+- Location: Dailymail.com
+- Description: The sedan driver was later rushed to hospital suffering from burns and suspected fractures.
 
 
-### HOMICIDE on 2026-05-17 19:19
+### SHOOTING on 2026-05-18 02:11
+- Location: New York Post
+- Description: The 20-year-old allegedly told other players on a gaming platform that he would open fire inside his nearest local Walmart "if the country were locked down again due to the Hantavirus."
+
+
+### HOMICIDE on 2026-05-18 02:01
 - Location: The Times of India
-- Description: Pune police exchanged fire with wanted criminal Shekhar Jadhav’s accomplice in Shirur; duo fled into sugarcane fields. Fresh attempted murder case filed.
+- Description: A religious practitioner in Dhule has been arrested for allegedly murdering a 33-year-old woman after she resisted his sexual assault. The mantrik then killed her male relative to conceal the crime. He confessed to both murders when questioned by police at hi…
 
-
-### ROBBERY/THEFT on 2026-05-17 18:50
-- Location: Antaranews.com
-- Description: Jakarta Governor Pramono Anung said he supports law enforcement officers in taking firm action against the perpetrator of a snatch theft targeting a foreign ...
-
-Analysis generated at: Mon May 18 19:31:05 UTC 2026
+Analysis generated at: Tue May 19 02:43:42 UTC 2026
