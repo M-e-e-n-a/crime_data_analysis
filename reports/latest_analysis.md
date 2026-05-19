@@ -1,10 +1,10 @@
 
-Loaded 105535 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-18 04:00:00
+Loaded 105574 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-18 09:12:27
 
 Incidents by source:
 source
-newsapi           105434
+newsapi           105473
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,27 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-05-18 04:00
-- Location: Americanthinker.com
+### SHOOTING on 2026-05-18 09:12
+- Location: Slashdot.org
+- Description: 2 Teenagers Arrested After Drive-By Shootings in Austin Injure at Least 4The New York Times LIVE BLOG: All suspects in connection with south Austin shootings are in custodyKXAN Austin 3 in custody following weekend crime spree of 12 shootings, multiple car th…
 
 
-### OTHER on 2026-05-18 03:29
-- Location: New York Post
-- Description: The creep in athletic sneakers allegedly knocked a 12-year-old boy and a 5-year-old girl to the ground — before alarmingly grabbing a 7-year-old boy's neck and attempting to strangle him.
+### ASSAULT on 2026-05-18 09:00
+- Location: New York Magazine
+- Description: For months, Mamdani’s opponents have looked for a way to attack the mayor. A video outside a billionaire’s house has finally given them an opening.
 
 
-### OTHER on 2026-05-18 03:23
-- Location: Freerepublic.com
-- Description: San Francisco’s top prosecutor says a new California Supreme Court bail ruling will free the career criminals her office spent years locking up. The state’s high court ruled unanimously April 30 that judges must set bail at amounts defendants can actually aff…
-
-
-### HOMICIDE on 2026-05-18 03:22
+### OTHER on 2026-05-18 09:00
 - Location: Dailymail.com
-- Description: The teenage son of a man who brutally murdered his mother has delivered a heartbreaking message to him.
+- Description: The Irish comedy writer, 57, was met by armed officers when he touched down in September last year from Arizona and detained on suspicion of inciting violence.
 
 
-### OTHER on 2026-05-18 03:19
-- Location: New York Post
-- Description: During a 2007 attempted rape, the sex offender "expressed his belief that his mother was the Queen of Southern England," according to his lawyers, who claimed he was compromised mentally.
+### OTHER on 2026-05-18 09:00
+- Location: The Atlantic
+- Description: Donald Trump is turning 80. But will he face the scrutiny that Joe Biden did?
 
-Analysis generated at: Tue May 19 04:00:48 UTC 2026
+
+### OTHER on 2026-05-18 08:51
+- Location: Windows Central
+- Description: REPLACED has taught me many things I didn't even know about myself. This is a pixel-art masterclass. And this is why.
+
+Analysis generated at: Tue May 19 09:33:11 UTC 2026
