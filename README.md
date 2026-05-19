@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue May 19 02:43:42 UTC 2026
+Last updated: Tue May 19 04:00:48 UTC 2026
 
 ## Latest Analysis
 
-Loaded 105526 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-18 02:37:43
+Loaded 105535 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-18 04:00:00
 
 Incidents by source:
 source
-newsapi           105425
+newsapi           105434
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,30 +24,27 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-05-18 02:37
-- Location: BleepingComputer
-- Description: Infected with TDSS and Google Keeps redirecting - posted in Virus, Trojan, Spyware, and Malware Removal Help: Malwarebytes keeps scanning new trojans in my files and says there is 3 registry keys in my HKLM, I removed Temp Files and Cache Files of the python.…
+### OTHER on 2026-05-18 04:00
+- Location: Americanthinker.com
 
 
-### ASSAULT on 2026-05-18 02:35
-- Location: The Punch
-- Description: Following the Oyo school attack, viral videos of abducted students and staff have emerged, prompting the Senate and Yoruba leaders to demand urgent action.
-
-Read More: https://punchng.com/oyo-school-attack-senate-yoruba-leaders-demand-action-as-distress-video…
-
-
-### HOMICIDE on 2026-05-18 02:20
-- Location: Dailymail.com
-- Description: The sedan driver was later rushed to hospital suffering from burns and suspected fractures.
-
-
-### SHOOTING on 2026-05-18 02:11
+### OTHER on 2026-05-18 03:29
 - Location: New York Post
-- Description: The 20-year-old allegedly told other players on a gaming platform that he would open fire inside his nearest local Walmart "if the country were locked down again due to the Hantavirus."
+- Description: The creep in athletic sneakers allegedly knocked a 12-year-old boy and a 5-year-old girl to the ground — before alarmingly grabbing a 7-year-old boy's neck and attempting to strangle him.
 
 
-### HOMICIDE on 2026-05-18 02:01
-- Location: The Times of India
-- Description: A religious practitioner in Dhule has been arrested for allegedly murdering a 33-year-old woman after she resisted his sexual assault. The mantrik then killed her male relative to conceal the crime. He confessed to both murders when questioned by police at hi…
+### OTHER on 2026-05-18 03:23
+- Location: Freerepublic.com
+- Description: San Francisco’s top prosecutor says a new California Supreme Court bail ruling will free the career criminals her office spent years locking up. The state’s high court ruled unanimously April 30 that judges must set bail at amounts defendants can actually aff…
 
-Analysis generated at: Tue May 19 02:43:42 UTC 2026
+
+### HOMICIDE on 2026-05-18 03:22
+- Location: Dailymail.com
+- Description: The teenage son of a man who brutally murdered his mother has delivered a heartbreaking message to him.
+
+
+### OTHER on 2026-05-18 03:19
+- Location: New York Post
+- Description: During a 2007 attempted rape, the sex offender "expressed his belief that his mother was the Queen of Southern England," according to his lawyers, who claimed he was compromised mentally.
+
+Analysis generated at: Tue May 19 04:00:48 UTC 2026
