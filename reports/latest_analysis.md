@@ -1,10 +1,10 @@
 
-Loaded 105638 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-18 14:46:54
+Loaded 105654 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-18 15:31:31
 
 Incidents by source:
 source
-newsapi           105537
+newsapi           105553
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,31 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-05-18 14:46
-- Location: BusinessLine
-- Description: Mirchi had escaped to London to avoid being caught by the Indian law enforcement agencies for his involvement in the 1993 blast case.
+### HOMICIDE on 2026-05-18 15:31
+- Location: Freerepublic.com
+- Description: The federal judge in the Luigi Mangione murder trial ruled Monday that a gun and notebook allegedly linking him to the killing of UnitedHealthcare CEO Brian Thompson can be shown to the jury. The ruling is a blow to the defense, who argued the items were seiz…
 
 
-### ASSAULT on 2026-05-18 14:33
-- Location: Gothamist
-- Description: An NYPD vehicle is seen in Queens on July 4, 2022.
- 
-
-The incident happened at the Bush-Clinton playground in Red Hook. [ more › ]
+### OTHER on 2026-05-18 15:23
+- Location: /FILM
+- Description: John Stewart (Aaron Pierre) covets Hal Jordan's (Kyle Chandler) Green Lantern Corps ring in the new trailer for DC's Lanterns.
 
 
-### DRUG RELATED on 2026-05-18 14:32
-- Location: Dailymail.com
-- Description: A former police officer was jailed today for setting up a county lines drug supply network from his old force area to a quiet Devon town.
+### HOMICIDE on 2026-05-18 15:22
+- Location: The Daily Caller
+- Description: A man convicted of murder decades ago is now charged in a shooting and robbery spree that injured two people, according to multiple reports.
 
 
-### OTHER on 2026-05-18 14:30
-- Location: Www.gov.uk
-- Description: When military end-use export controls apply and to which destinations.
+### OTHER on 2026-05-18 15:21
+- Location: The Indian Express
+- Description: Abhishek Banerjee's petition seeks the quashing of the FIR filed against him.
 
 
-### ASSAULT on 2026-05-18 14:28
-- Location: National Post
-- Description: Samuel Opoku's alleged 2019 spree saw him released on bail after three weeks in police custody in 2019. His lawyer at the time said he poses no threat to the public
+### HOMICIDE on 2026-05-18 15:20
+- Location: CBC News
+- Description: A fire in a West End Winnipeg house earlier this month claimed the lives of two people, police say.
 
-Analysis generated at: Tue May 19 14:47:44 UTC 2026
+Analysis generated at: Tue May 19 15:35:30 UTC 2026
