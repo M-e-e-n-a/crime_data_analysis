@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed May 20 14:48:38 UTC 2026
+Last updated: Wed May 20 15:34:24 UTC 2026
 
 ## Latest Analysis
 
-Loaded 105917 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-19 14:45:00
+Loaded 105935 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-19 15:32:00
 
 Incidents by source:
 source
-newsapi           105816
+newsapi           105834
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,32 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-05-19 14:45
-- Location: Decider
-- Description: Shirilla is serving a 15 year-to-life prison sentence in Ohio.
+### OTHER on 2026-05-19 15:32
+- Location: Dailymail.com
+- Description: The broadcaster has sent letters to addresses in Ireland, giving individuals two weeks to provide a written commitment not to stream content illegally again.
 
 
-### OTHER on 2026-05-19 14:41
-- Location: What's on Netflix
-- Description: There's dozens of new licensed and original content headed to Netflix UK in June 2026.
+### OTHER on 2026-05-19 15:23
+- Location: Screenanarchy.com
+- Description: Plus two documentaries by Barbara Kopple, and five by Kazuo Hara and Sachiko Kobayashi. 
+ 
+ [Read the whole post on screenanarchy.com...]
 
 
-### ASSAULT on 2026-05-19 14:40
-- Location: Www.gov.uk
-- Description: The Home Office has announced £100 million to fight child sex offences and protect victims and survivors, including £38 million for Operation Beaconport.
+### OTHER on 2026-05-19 15:20
+- Location: The Punch
+- Description: The family of Utibe Asian, a UNIUYO student missing since December, raises alarm after paying a N500,000 ransom with no sign of his return.
+
+Read More: https://punchng.com/family-laments-uniuyo-students-whereabouts-since-december/
 
 
-### ASSAULT on 2026-05-19 14:40
-- Location: Www.gov.uk
-- Description: The Home Office has announced £100 million to fight child sex offences and protect victims and survivors, including £38 million for Operation Beaconport.
+### HOMICIDE on 2026-05-19 15:13
+- Location: New York Post
+- Description: "This man came back and killed my 19-year-old daughter," the teen's devastated mother, Shifarnia McCullough, said.
 
 
-### ROBBERY/THEFT on 2026-05-19 14:38
-- Location: The Daily Caller
-- Description: You want kids to pay attention in school? Take away cell phones. Arrest the criminals. Institutionalize the insane. Decline is how Democrats maintain a grip.
+### HOMICIDE on 2026-05-19 15:13
+- Location: CBS News
+- Description: A security guard who was among the victims killed in a shooting at the Islamic Center of San Diego is being hailed for his heroism and bravery during the attack.
 
-Analysis generated at: Wed May 20 14:48:38 UTC 2026
+Analysis generated at: Wed May 20 15:34:24 UTC 2026
