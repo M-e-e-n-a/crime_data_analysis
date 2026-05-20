@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed May 20 15:34:24 UTC 2026
+Last updated: Wed May 20 20:07:20 UTC 2026
 
 ## Latest Analysis
 
-Loaded 105935 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-19 15:32:00
+Loaded 106023 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-19 20:01:10
 
 Incidents by source:
 source
-newsapi           105834
+newsapi           105922
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,32 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-05-19 15:32
-- Location: Dailymail.com
-- Description: The broadcaster has sent letters to addresses in Ireland, giving individuals two weeks to provide a written commitment not to stream content illegally again.
+### OTHER on 2026-05-19 20:01
+- Location: PBS
+- Description: Acting Attorney General Todd Blanche faced lawmakers Tuesday for the first time since taking the role, answering to bipartisan questions about his department's newly created "Anti-Weaponization Fund."
 
 
-### OTHER on 2026-05-19 15:23
-- Location: Screenanarchy.com
-- Description: Plus two documentaries by Barbara Kopple, and five by Kazuo Hara and Sachiko Kobayashi. 
- 
- [Read the whole post on screenanarchy.com...]
+### HOMICIDE on 2026-05-19 20:00
+- Location: Decider
+- Description: “I don’t get paid until Noah Stiles is dead.”
 
 
-### OTHER on 2026-05-19 15:20
-- Location: The Punch
-- Description: The family of Utibe Asian, a UNIUYO student missing since December, raises alarm after paying a N500,000 ransom with no sign of his return.
-
-Read More: https://punchng.com/family-laments-uniuyo-students-whereabouts-since-december/
+### ASSAULT on 2026-05-19 19:48
+- Location: Al Jazeera English
+- Description: All three victims have now been identified in California attack being investigated as hate crime.
 
 
-### HOMICIDE on 2026-05-19 15:13
-- Location: New York Post
-- Description: "This man came back and killed my 19-year-old daughter," the teen's devastated mother, Shifarnia McCullough, said.
+### ROBBERY/THEFT on 2026-05-19 19:45
+- Location: TheBlaze
+- Description: U.S. Attorney Jeanine Pirro said the FBI is now involved in the investigation to find the culprits in a teen takeover brawl over the weekend at a Washington, D.C., Chipotle restaurant — and Pirro blasted the brawlers' parents, WJLA-TV reported."This kind of t…
 
 
-### HOMICIDE on 2026-05-19 15:13
-- Location: CBS News
-- Description: A security guard who was among the victims killed in a shooting at the Islamic Center of San Diego is being hailed for his heroism and bravery during the attack.
+### OTHER on 2026-05-19 19:45
+- Location: Hollywood Reporter
+- Description: The Getaway Remake: Steve McQueen & Adolescence Philip Barantini Teamhollywoodreporter.com
 
-Analysis generated at: Wed May 20 15:34:24 UTC 2026
+Analysis generated at: Wed May 20 20:07:20 UTC 2026
