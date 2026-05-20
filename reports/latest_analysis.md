@@ -1,10 +1,10 @@
 
-Loaded 105726 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-18 19:43:52
+Loaded 105765 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-19 02:43:33
 
 Incidents by source:
 source
-newsapi           105625
+newsapi           105664
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,30 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-05-18 19:43
-- Location: The Times of India
-- Description: Four accused in Prayagraj property dealer Azharuddin’s murder surrendered at Jhunsi police station; police cite a Rs 3 lakh dispute and are questioning them.
+### OTHER on 2026-05-19 02:43
+- Location: Mediaite
+- Description: Fox News host Sean Hannity praised FBI Director Kash Patel on Monday night, telling him, "Obviously, you're doing an incredible job." 
+The post Hannity Tells Embattled Kash Patel, ‘Obviously, You’re Doing an Incredible Job’ first appeared on Mediaite.
 
 
-### OTHER on 2026-05-18 19:41
+### OTHER on 2026-05-19 02:33
+- Location: Activistpost.com
+- Description: Reporters, community advocates, EFF, and others have used public records laws to reveal and counteract abuse, misuse, and fraudulent narratives around how law enforcement agencies across the country use and share data collected by automated license plate read…
+
+
+### SHOOTING on 2026-05-19 01:44
 - Location: New York Post
-- Description: Flash Shelton never set out to become America’s anti-squatter crusader -- and now he has a show on A&E.
+- Description: When the Padres and Dodgers face-off for the first time this season, the rivalry between the two teams separated by just 123 miles were put on hold before the first pitch was thrown. After tragedy broke out Monday morning following a shooting at a San Diego m…
 
 
-### HOMICIDE on 2026-05-18 19:41
-- Location: Freerepublic.com
-- Description: Police and other emergency services are responding to reports of an active shooting at the Islamic Center of San Diego, local officials and witnesses say. At least 2 people have been killed and there are multiple injuries. The incident began at around 12 p.m.…
+### HOMICIDE on 2026-05-19 01:33
+- Location: Mediaite
+- Description: Three people, a security guard among them, were killed in the shooting at San Diego's largest mosque.
+The post BREAKING: San Diego Mosque Shooters ID’ed first appeared on Mediaite.
 
 
-### HOMICIDE on 2026-05-18 19:39
-- Location: Dailymail.com
-- Description: A killer brutally murdered her neighbour in a horrific hammer and knife attack days before Christmas.
+### HOMICIDE on 2026-05-19 01:32
+- Location: Slashdot.org
+- Description: 3 killed in shooting at Islamic Center of San Diego, police say; 2 suspects also deadCBS News 3 killed in San Diego mosque shooting, and 2 suspects found deadfox5sandiego.com What we know about the San Diego shooting victims, suspects, possible motive and mor…
 
-
-### OTHER on 2026-05-18 19:36
-- Location: ABC News (AU)
-- Description: While Queensland councils cleaned up enough illegally dumped waste to fill more than 1,200 garbage trucks, investigators say they are getting better at catching those doing the wrong thing.
-
-Analysis generated at: Tue May 19 19:47:28 UTC 2026
+Analysis generated at: Wed May 20 02:43:53 UTC 2026
