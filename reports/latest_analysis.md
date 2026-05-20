@@ -1,10 +1,10 @@
 
-Loaded 105765 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-19 02:43:33
+Loaded 105771 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-19 04:00:00
 
 Incidents by source:
 source
-newsapi           105664
+newsapi           105670
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,30 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-05-19 02:43
-- Location: Mediaite
-- Description: Fox News host Sean Hannity praised FBI Director Kash Patel on Monday night, telling him, "Obviously, you're doing an incredible job." 
-The post Hannity Tells Embattled Kash Patel, ‘Obviously, You’re Doing an Incredible Job’ first appeared on Mediaite.
+### OTHER on 2026-05-19 04:00
+- Location: Americanthinker.com
+- Description: I wonder if they’re wishing they had the ability to keep and bear arms right about now?
 
 
-### OTHER on 2026-05-19 02:33
-- Location: Activistpost.com
-- Description: Reporters, community advocates, EFF, and others have used public records laws to reveal and counteract abuse, misuse, and fraudulent narratives around how law enforcement agencies across the country use and share data collected by automated license plate read…
+### HOMICIDE on 2026-05-19 03:56
+- Location: ABC News (AU)
+- Description: The defence team for Tanika Bromley, who is charged over the murder of Queensland teenager Pheobe Bishop, raises issues about delays in receiving parts of the brief of evidence.
 
 
-### SHOOTING on 2026-05-19 01:44
-- Location: New York Post
-- Description: When the Padres and Dodgers face-off for the first time this season, the rivalry between the two teams separated by just 123 miles were put on hold before the first pitch was thrown. After tragedy broke out Monday morning following a shooting at a San Diego m…
+### HOMICIDE on 2026-05-19 03:34
+- Location: ABC News (AU)
+- Description: Two teenagers opened fire at the largest mosque in San Diego, California on Monday, killing three men. Here is what we know about the attack.
 
 
-### HOMICIDE on 2026-05-19 01:33
-- Location: Mediaite
-- Description: Three people, a security guard among them, were killed in the shooting at San Diego's largest mosque.
-The post BREAKING: San Diego Mosque Shooters ID’ed first appeared on Mediaite.
+### HOMICIDE on 2026-05-19 03:11
+- Location: ABC News (AU)
+- Description: Kalman Tal, 66, died shortly after he asked for his left foot to be cut off in a public park with a battery-powered saw, a court has heard, but the man who performed the amputation has pleaded not guilty to murder.
 
 
-### HOMICIDE on 2026-05-19 01:32
-- Location: Slashdot.org
-- Description: 3 killed in shooting at Islamic Center of San Diego, police say; 2 suspects also deadCBS News 3 killed in San Diego mosque shooting, and 2 suspects found deadfox5sandiego.com What we know about the San Diego shooting victims, suspects, possible motive and mor…
+### OTHER on 2026-05-19 03:00
+- Location: The Denver Post
+- Description: Proponents of the resolution called it a move that will put an end to what they described as editorializing on social media by the Aurora Police Department.
 
-Analysis generated at: Wed May 20 02:43:53 UTC 2026
+Analysis generated at: Wed May 20 04:01:28 UTC 2026
