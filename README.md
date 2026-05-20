@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed May 20 04:01:28 UTC 2026
+Last updated: Wed May 20 08:58:26 UTC 2026
 
 ## Latest Analysis
 
-Loaded 105771 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-19 04:00:00
+Loaded 105822 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-19 08:50:05
 
 Incidents by source:
 source
-newsapi           105670
+newsapi           105721
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-05-19 04:00
-- Location: Americanthinker.com
-- Description: I wonder if they’re wishing they had the ability to keep and bear arms right about now?
+### HOMICIDE on 2026-05-19 08:50
+- Location: The Times of India
+- Description: Police have filed three cases against Raj Kumar Singh, 25, in Ballia, Uttar Pradesh. These cases are linked to the murder of Chandranath Rath, an aide to West Bengal Chief Minister Suvendu Adhikari. Rath was shot dead in Madhyamgram on May 6. Raj Singh was ar…
 
 
-### HOMICIDE on 2026-05-19 03:56
-- Location: ABC News (AU)
-- Description: The defence team for Tanika Bromley, who is charged over the murder of Queensland teenager Pheobe Bishop, raises issues about delays in receiving parts of the brief of evidence.
+### HOMICIDE on 2026-05-19 08:47
+- Location: Hurriyet Daily News
+- Description: A massive manhunt for a gunman who killed six people in southern Türkiye ended early on May 19 when he turned the gun on himself after being cornered by police.
 
 
-### HOMICIDE on 2026-05-19 03:34
-- Location: ABC News (AU)
-- Description: Two teenagers opened fire at the largest mosque in San Diego, California on Monday, killing three men. Here is what we know about the attack.
+### HOMICIDE on 2026-05-19 08:35
+- Location: Gossiplankanews.com
+- Description: Three people have died in a shooting carried out by two youths on May 18, 2026, targeting the premises of the 'Islamic Center of San Diego' (ICSD), the largest mosque in San Diego, California, USA. The two suspects, aged 17 and 18, who carried out the shootin…
 
 
-### HOMICIDE on 2026-05-19 03:11
-- Location: ABC News (AU)
-- Description: Kalman Tal, 66, died shortly after he asked for his left foot to be cut off in a public park with a battery-powered saw, a court has heard, but the man who performed the amputation has pleaded not guilty to murder.
+### OTHER on 2026-05-19 08:32
+- Location: HuffPost
+- Description: CNN's diehard Trump supporter drew a line.
 
 
-### OTHER on 2026-05-19 03:00
-- Location: The Denver Post
-- Description: Proponents of the resolution called it a move that will put an end to what they described as editorializing on social media by the Aurora Police Department.
+### SHOOTING on 2026-05-19 08:32
+- Location: New York Post
+- Description: Terrifying video shows small children being evacuated from the Islamic Center of San Diego – as two camouflaged teen gunmen went about their rampage.  Aerial footage showed more than a dozen kids – who looked no older than 5 years old –  walking in a single f…
 
-Analysis generated at: Wed May 20 04:01:28 UTC 2026
+Analysis generated at: Wed May 20 08:58:26 UTC 2026
