@@ -1,10 +1,10 @@
 
-Loaded 106043 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-20 02:33:10
+Loaded 106058 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-20 04:01:00
 
 Incidents by source:
 source
-newsapi           105942
+newsapi           105957
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,50 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-05-20 02:33
-- Location: The Times of India
-- Description: Two teenagers with white supremacist views attacked a mosque in San Diego. They met online and shared hateful ideologies. The attackers killed three men, including a security guard who sacrificed his life. Authorities found numerous weapons at their residence…
+### OTHER on 2026-05-20 04:01
+- Location: Thefutoncritic.com
+- Description: Police pull over a woman who claims she just gave birth. But the baby - and the blood - aren't hers. Twisted lies unravel in this true-crime documentary.
 
 
-### HOMICIDE on 2026-05-20 02:19
-- Location: Dailymail.com
-- Description: Aaron Nelson, 43, allegedly killed his wife, hid her body and gave her wedding ring to a new, unnamed girlfriend he met online last year before they moved in together just weeks later.
+### OTHER on 2026-05-20 04:00
+- Location: Americanthinker.com
+- Description: Photo Credit:
+ 
+ American ThinkerDemocrats are counting on the jungle primary crowding one or both Republican gubernatorial candidates off the ballot, but it doesn’t have to be that way.
 
 
-### HOMICIDE on 2026-05-20 02:14
-- Location: WCVB Boston
-- Description: A judge has paused the prosecution of a woman charged with the attempted murder of Rihanna while it is determined whether she is mentally competent to stand trial
+### ASSAULT on 2026-05-20 04:00
+- Location: Human Rights Watch
+- Description: Click to expand Image
+ 
 
 
-### HOMICIDE on 2026-05-20 02:13
-- Location: WISN Milwaukee
-- Description: A judge has paused the prosecution of a woman charged with the attempted murder of Rihanna while it is determined whether she is mentally competent to stand trial
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ An anti-immigration protest in Johannesburg, South Africa, on April 29, 2026.
+ © 2026 Themba Hadebe/AP Photo 
+ 
+ 
 
 
-### OTHER on 2026-05-20 02:09
-- Location: Fox News
-- Description: Hundreds of teenagers packed a Rhode Island beach where three people were stabbed, sparking chaos as beachgoers fled Narragansett Town Beach Tuesday.
+ 
+(Johannesburg) – Vigilantes in South Africa have carried out violent xenophobic attacks targeting …
 
-Analysis generated at: Thu May 21 02:46:01 UTC 2026
+
+### OTHER on 2026-05-20 03:55
+- Location: Gossiplankanews.com
+- Description: A joint statement has been issued by a group of leading academics, lawyers, and civil society activists in the country, urging for an independent investigation into the serious child abuse allegations against the Chief Incumbent of Atamasthana, Venerable Pall…
+
+
+### OTHER on 2026-05-20 03:43
+- Location: Rediff.com
+- Description: From the genius of Drishyam to the misfires of Mirage, here's ranking every Malayalam thriller directed by Jeethu Joseph before Georgekutty returns in Drishyam 3.
+
+Analysis generated at: Thu May 21 04:10:44 UTC 2026
