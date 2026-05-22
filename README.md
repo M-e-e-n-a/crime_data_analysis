@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri May 22 14:27:02 UTC 2026
+Last updated: Fri May 22 14:49:16 UTC 2026
 
 ## Latest Analysis
 
-Loaded 106408 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-21 14:25:00
+Loaded 106417 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-21 14:48:31
 
 Incidents by source:
 source
-newsapi           106307
+newsapi           106316
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,31 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-05-21 14:25
-- Location: Databricks.com
-- Description: * Innovative partner solutions built on Databricks Genie by leading consulting and SI partners.
-* Supports industry-specific use cases across financial services, healthcare, retail, CPG, travel and hospitality, manufacturing, and media and communications sec…
+### OTHER on 2026-05-21 14:48
+- Location: CBC News
+- Description: A 41-year-old man who was wanted in connection with a Winnipeg extortion investigation has been arrested in Toronto.
 
 
-### OTHER on 2026-05-21 14:20
-- Location: The Daily Caller
-- Description: "The younger, more educated, and newer you are to D.C., the more likely you are to support Lewis George." White flight + old, black people left holding the bag.
+### OTHER on 2026-05-21 14:39
+- Location: The Week Magazine
+- Description: The 94-year-old former president is the brother of Fidel Castro
 
 
-### HOMICIDE on 2026-05-21 14:16
-- Location: Dailymail.com
-- Description: Standing a few feet away from the cage holding 100 perpetrators of savagery - one of 32 mass cells that line Module 8 in the Terrorism Confinement Centre - is a deeply unnerving experience.
+### HOMICIDE on 2026-05-21 14:39
+- Location: CBS News
+- Description: The body of 22-year-old Roberta Walls was found in a field in Virginia Beach on the morning of May 15, 1986.
 
 
-### ROBBERY/THEFT on 2026-05-21 14:12
-- Location: The Punch
-- Description: Bauchi Police recover 18 stolen rams worth N7m, arresting a foreign national. Efforts are ongoing to apprehend other suspects involved in the theft.
-
-Read More: https://punchng.com/police-arrest-foreign-national-recover-18-stolen-rams-in-bauchi/
+### ASSAULT on 2026-05-21 14:36
+- Location: Fox News
+- Description: Harvard and MIT police are searching for a man accused of assaulting a woman inside a dorm and entering another residence hall on Tuesday evening.
 
 
-### HOMICIDE on 2026-05-21 14:05
-- Location: Abcnews.com
-- Description: The Philippines justice chief has ordered the enforcement of an International Criminal Court warrant for a senator wanted on an alleged crime against humanity charge
+### OTHER on 2026-05-21 14:36
+- Location: ComputerWeekly.com
+- Description: A multinational police operation has taken down the infamous First VPN service that provided cover for cyber criminal gangs and ransomware operators.
 
-Analysis generated at: Fri May 22 14:27:02 UTC 2026
+Analysis generated at: Fri May 22 14:49:16 UTC 2026
