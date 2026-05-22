@@ -1,10 +1,10 @@
 
-Loaded 106417 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-21 14:48:31
+Loaded 106490 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-21 19:26:44
 
 Incidents by source:
 source
-newsapi           106316
+newsapi           106389
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-05-21 14:48
-- Location: CBC News
-- Description: A 41-year-old man who was wanted in connection with a Winnipeg extortion investigation has been arrested in Toronto.
+### HOMICIDE on 2026-05-21 19:26
+- Location: The Times of India
+- Description: Pune police arrest five and detain a minor for shooting and attacking Akshay Mhaske, linked to the Vanraj Andekar murder case; acted on Bandu Andekar’s orders.
 
 
-### OTHER on 2026-05-21 14:39
-- Location: The Week Magazine
-- Description: The 94-year-old former president is the brother of Fidel Castro
+### OTHER on 2026-05-21 19:26
+- Location: New York Post
+- Description: An unknown woman was caught on camera in Studio City uprooting a Spencer Pratt for Mayor sign on Wednesday, sparking uproar against the act and prompting online sleuths to look for the person.
 
 
-### HOMICIDE on 2026-05-21 14:39
-- Location: CBS News
-- Description: The body of 22-year-old Roberta Walls was found in a field in Virginia Beach on the morning of May 15, 1986.
+### ROBBERY/THEFT on 2026-05-21 19:25
+- Location: Jalopnik
+- Description: On top of the charges from the initial police pursuit, the driver is now facing charges for breaking into the impound lot and stealing the car a second time.
 
 
-### ASSAULT on 2026-05-21 14:36
-- Location: Fox News
-- Description: Harvard and MIT police are searching for a man accused of assaulting a woman inside a dorm and entering another residence hall on Tuesday evening.
+### HOMICIDE on 2026-05-21 19:22
+- Location: Dailymail.com
+- Description: Police chiefs have rewritten homicide inquiry guidelines after a detective failed to identify that a man had been murdered - but refuse to disclose the changes in case it 'enables offenders'.
 
 
-### OTHER on 2026-05-21 14:36
-- Location: ComputerWeekly.com
-- Description: A multinational police operation has taken down the infamous First VPN service that provided cover for cyber criminal gangs and ransomware operators.
+### OTHER on 2026-05-21 19:20
+- Location: Globemagazine.com
+- Description: WWE star Ludwig Kaiser has landed in legal trouble after an allegedly steamy elevator makeout session spiraled into violence. According to a Thursday, May 21, report from Us Weekly, the 35-year-old wrestler — whose real name is Marcel Barthel — was arrested f…
 
-Analysis generated at: Fri May 22 14:49:16 UTC 2026
+Analysis generated at: Fri May 22 19:28:18 UTC 2026
