@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri May 22 02:46:58 UTC 2026
+Last updated: Fri May 22 04:05:20 UTC 2026
 
 ## Latest Analysis
 
-Loaded 106293 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-21 02:45:11
+Loaded 106302 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-21 04:00:00
 
 Incidents by source:
 source
-newsapi           106192
+newsapi           106201
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,32 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-05-21 02:45
+### OTHER on 2026-05-21 04:00
+- Location: Americanthinker.com
+- Description: Photo Credit:Image: Cormullion via Wikimedia Commons, CC BY-SA 3.0 (cropped).
+
+
+ 
+ CormullionHere are some takeaways from the Great Swatch Fiasco of 2026.
+
+
+### HOMICIDE on 2026-05-21 03:46
+- Location: Freerepublic.com
+- Description: PHOENIX (AZFamily) — A baby born during emergency surgery after his mother was shot in Buckeye has died, according to city police. The mother, identified by family as Abby, 17, is still recovering from her injuries. The triple shooting happened outside a home…
+
+
+### HOMICIDE on 2026-05-21 03:35
 - Location: Dailymail.com
-- Description: Donald Zieben-Hood, 41, who once had more than 67,000 Instagram followers, was in court on Wednesday to face charges for allegedly stabbing his personal trainer husband.
+- Description: An Australian has been described as a key inspiration for the shocking San Diego mosque shooting that killed three innocent people.
 
 
-### OTHER on 2026-05-21 02:40
-- Location: Gossiplankanews.com
-- Description: Yesterday (20) evening, the Seeduwa Police Station received information that an unusual foul odor was emanating from a house located in the Mookalangamuwa area, which falls under the Seeduwa Police Division. Acting immediately on that information, a team of p…
+### OTHER on 2026-05-21 03:30
+- Location: Variety
+- Description: Years before he ever set foot on a film set, Jeethu Joseph heard a story from a friend. It was about two families: a boy, a girl, a relationship that unraveled into a police case. Both families had done something right. Both had done something wrong. And nobo…
 
 
-### ASSAULT on 2026-05-21 02:35
-- Location: New York Post
-- Description: A man known around Escondido for covering his home with Trump flags and MAGA memorabilia was reportedly attacked Wednesday.
+### DRUG RELATED on 2026-05-21 03:29
+- Location: CBC News
+- Description: The Edmonton Police Service says it has seized more than $8 million worth of drugs as part of a national drug-trafficking investigation. EPS said about 80 kilograms of cocaine was seized when a search warrant was executed on April 16.
 
-
-### HOMICIDE on 2026-05-21 02:31
-- Location: Dailymail.com
-- Description: A banana picker has pleaded guilty to manslaughter over the death of a grandfather who allegedly paid him $5,000 to amputate his leg.
-
-
-### HOMICIDE on 2026-05-21 02:28
-- Location: ABC News (AU)
-- Description: The United States has indicted former Cuban president Raúl Castro on murder charges stemming from 1996, reviving one of the lowest points in its tangled history with Cuba.
-
-Analysis generated at: Fri May 22 02:46:58 UTC 2026
+Analysis generated at: Fri May 22 04:05:20 UTC 2026
