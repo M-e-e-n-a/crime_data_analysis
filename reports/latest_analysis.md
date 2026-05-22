@@ -1,10 +1,10 @@
 
-Loaded 106302 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-21 04:00:00
+Loaded 106332 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-21 08:44:55
 
 Incidents by source:
 source
-newsapi           106201
+newsapi           106231
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,32 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-05-21 04:00
-- Location: Americanthinker.com
-- Description: Photo Credit:Image: Cormullion via Wikimedia Commons, CC BY-SA 3.0 (cropped).
+### ASSAULT on 2026-05-21 08:44
+- Location: New York Post
+- Description: Officials allege that members in the crowd were fighting and jumping on parked cars as the takeover spread to the nearby boardwalk and surrounding streets
 
 
- 
- CormullionHere are some takeaways from the Great Swatch Fiasco of 2026.
+### OTHER on 2026-05-21 08:34
+- Location: Newsonjapan.com
+- Description: Six people, including a senior member of a group affiliated with the Sumiyoshi-kai crime syndicate's Kohei-ikka faction, have been arrested on suspicion of opening a gang office in a prohibited area near a nursery school in Tokyo's Itabashi Ward. (News On Jap…
 
 
-### HOMICIDE on 2026-05-21 03:46
-- Location: Freerepublic.com
-- Description: PHOENIX (AZFamily) — A baby born during emergency surgery after his mother was shot in Buckeye has died, according to city police. The mother, identified by family as Abby, 17, is still recovering from her injuries. The triple shooting happened outside a home…
+### HOMICIDE on 2026-05-21 08:33
+- Location: Slashdot.org
+- Description: Murder or accident? Mystery of Mango tycoon's hiking death after son's arrestBBC Mango clothing tycoon’s son named suspect in death of billionaire whose brand stretches across USFox News Jonathan Andic Released On Bail After Being Named Suspect in Billionaire…
 
 
-### HOMICIDE on 2026-05-21 03:35
-- Location: Dailymail.com
-- Description: An Australian has been described as a key inspiration for the shocking San Diego mosque shooting that killed three innocent people.
+### HOMICIDE on 2026-05-21 08:20
+- Location: Rlsbb.to
+- Description: Plot: Follows two brother private detectives as they solve the murder of a woman's husband. A case that was concluded as a suicide by local police. Genre: Comedy | Crime | MysteryIMDB Rating Live: IMDB Rating: 9.2/10 From 17 UsersTMDB Rating: N/ARotten Rating…
 
 
-### OTHER on 2026-05-21 03:30
-- Location: Variety
-- Description: Years before he ever set foot on a film set, Jeethu Joseph heard a story from a friend. It was about two families: a boy, a girl, a relationship that unraveled into a police case. Both families had done something right. Both had done something wrong. And nobo…
-
-
-### DRUG RELATED on 2026-05-21 03:29
+### OTHER on 2026-05-21 08:00
 - Location: CBC News
-- Description: The Edmonton Police Service says it has seized more than $8 million worth of drugs as part of a national drug-trafficking investigation. EPS said about 80 kilograms of cocaine was seized when a search warrant was executed on April 16.
+- Description: As the federal government finishes its delayed national AI strategy, some technology leaders in Canada are hopeful the new policy will resemble an industrial blueprint that illustrates Ottawa is serious about rolling up its sleeves to help the sector build in…
 
-Analysis generated at: Fri May 22 04:05:20 UTC 2026
+Analysis generated at: Fri May 22 08:54:19 UTC 2026
