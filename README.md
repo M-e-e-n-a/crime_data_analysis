@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat May 23 02:32:21 UTC 2026
+Last updated: Sat May 23 03:42:31 UTC 2026
 
 ## Latest Analysis
 
-Loaded 106505 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-22 02:29:08
+Loaded 106512 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-22 03:37:48
 
 Incidents by source:
 source
-newsapi           106404
+newsapi           106411
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,32 +24,32 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-05-22 02:29
-- Location: Vox
-- Description: If you’re looking for insights into why Democrats lost in 2024, you won’t find many in the DNC’s disavowed “autopsy,” which was released after much pressure Thursday. The incomplete and error-ridden report, written by a friend of DNC chair Ken Martin, offers …
+### OTHER on 2026-05-22 03:37
+- Location: ABC News (AU)
+- Description: A man who police say raped an elderly woman in her own home on Wednesday night before fleeing the scene remains on the run while investigators appeal for information.
 
 
-### HOMICIDE on 2026-05-22 02:17
-- Location: New York Post
-- Description: Albert Itzkowitz, 75, was discovered with gunshot wounds to his neck and back along the Kissena Lake shoreline in Flushing on Monday.
-
-
-### ROBBERY/THEFT on 2026-05-22 02:13
-- Location: Dark Horizons
-- Description: Filming appears to be gearing up to begin on Matt Reeves’ “The Batman Part II” in Liverpool. Multiple photos and video have emerged online indicating Rick English, a stunt double for Robert Pattinson’s Bruce Wayne, and the production crew have already been do…
-
-
-### OTHER on 2026-05-22 02:07
+### ROBBERY/THEFT on 2026-05-22 03:07
 - Location: The Punch
-- Description: Sokoto State Police Command busts a counterfeiting gang linked to the “Sai Mallam” cult group, recovering fake currency and charms. Police also rescued two
+- Description: Bauchi Police arrest a Nigerien national and recover 18 stolen rams worth N7m. Learn more about the ram theft syndicate and ongoing investigations.
 
-Read More: https://punchng.com/police-bust-counterfeiting-gang-linked-to-cult-group-in-sokoto/
+Read More: https://punchng.com/nigerien-arrested-for-ram-theft-in-bauchi/
 
 
-### HOMICIDE on 2026-05-22 02:07
+### OTHER on 2026-05-22 03:07
 - Location: The Punch
-- Description: Lagos court admits Killaboi’s statement and video of his Qatar arrest in the murder trial of his girlfriend, Augusta Onuwabhagbe. Get updates on the case.
+- Description: Delta Police arrest a commercial motorcyclist for abducting a three-year-old girl and demanding ransom. Read more on the child abduction case.
 
-Read More: https://punchng.com/lagos-court-hears-killabois-arrest-in-qatar-over-girlfriends-murder/
+Read More: https://punchng.com/motorcyclist-nabbed-with-abducted-three-year-old-girl-in-delta/
 
-Analysis generated at: Sat May 23 02:32:21 UTC 2026
+
+### ROBBERY/THEFT on 2026-05-22 03:06
+- Location: Fox News
+- Description: Stay up to date with the Fox News True Crime Newsletter, which brings you the latest cases ripped from the headlines, from crime to courts, legal and scandal.
+
+
+### HOMICIDE on 2026-05-22 02:44
+- Location: ABC News (AU)
+- Description: Staff at the City of Melbourne were sent a text on Thursday evening by the council advising them to avoid the Bourke Street area.
+
+Analysis generated at: Sat May 23 03:42:31 UTC 2026
