@@ -1,10 +1,10 @@
 
-Loaded 106512 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-22 03:37:48
+Loaded 106548 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-22 08:07:00
 
 Incidents by source:
 source
-newsapi           106411
+newsapi           106447
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,32 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-05-22 03:37
-- Location: ABC News (AU)
-- Description: A man who police say raped an elderly woman in her own home on Wednesday night before fleeing the scene remains on the run while investigators appeal for information.
+### DRUG RELATED on 2026-05-22 08:07
+- Location: Dailymail.com
+- Description: Five gang members have now been jailed for a combined 84 years after police dismantled what investigators described as a sophisticated operation.
 
 
-### ROBBERY/THEFT on 2026-05-22 03:07
-- Location: The Punch
-- Description: Bauchi Police arrest a Nigerien national and recover 18 stolen rams worth N7m. Learn more about the ram theft syndicate and ongoing investigations.
-
-Read More: https://punchng.com/nigerien-arrested-for-ram-theft-in-bauchi/
+### HOMICIDE on 2026-05-22 07:36
+- Location: Dailymail.com
+- Description: Police allege Danny Ridley stole Peter Meagher's camera equipment after he was shot dead, before pawning it days later.
 
 
-### OTHER on 2026-05-22 03:07
-- Location: The Punch
-- Description: Delta Police arrest a commercial motorcyclist for abducting a three-year-old girl and demanding ransom. Read more on the child abduction case.
-
-Read More: https://punchng.com/motorcyclist-nabbed-with-abducted-three-year-old-girl-in-delta/
+### ROBBERY/THEFT on 2026-05-22 07:28
+- Location: New York Post
+- Description: Investigators are keen to speak with a woman, who claimed she was taken to the royal residence in Windsor for “sexual purposes” when she was in her 20s in 2010.
 
 
-### ROBBERY/THEFT on 2026-05-22 03:06
-- Location: Fox News
-- Description: Stay up to date with the Fox News True Crime Newsletter, which brings you the latest cases ripped from the headlines, from crime to courts, legal and scandal.
+### HOMICIDE on 2026-05-22 07:24
+- Location: Japan Today
+- Description: Police in Ube, Yamaguchi Prefecture, have arrested a 61-year-old man on suspicion of killing a 74-year-old acquaintance. The arrest warrant alleges that in late January, Misao Ohara killed Toshio Furuya at his home, by striking him on the head with one or mor…
 
 
-### HOMICIDE on 2026-05-22 02:44
-- Location: ABC News (AU)
-- Description: Staff at the City of Melbourne were sent a text on Thursday evening by the council advising them to avoid the Bourke Street area.
+### HOMICIDE on 2026-05-22 07:23
+- Location: Rlsbb.to
+- Description: Season 8, Episode 01 – “Coldest Winter Ever”In the immediate aftermath of Alicia’s murder, Rashaad and Victor must navigate the police investigation while keeping their hands clean; Emmett and Kiesha struggle to keep their family unit together as external pre…
 
-Analysis generated at: Sat May 23 03:42:31 UTC 2026
+Analysis generated at: Sat May 23 08:11:49 UTC 2026
