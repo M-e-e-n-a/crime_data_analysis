@@ -1,10 +1,10 @@
 
-Loaded 106612 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-22 13:45:00
+Loaded 106704 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-22 19:01:53
 
 Incidents by source:
 source
-newsapi           106511
+newsapi           106603
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-05-22 13:45
-- Location: The Irish Times
-- Description: Christopher Colin Nobes (31) and Andrew John Matthews (25) charged with murder of Nicholas Gordon (51) in Belfast
+### OTHER on 2026-05-22 19:01
+- Location: Wonkette.com
+- Description: Also, Thom Tillis's 'Stupid on stilts' is front-runner for best phrase of 2026.
 
 
-### OTHER on 2026-05-22 13:44
-- Location: Variety
-- Description: The Italian Global Series Festival (IGS) came to Cannes to celebrate the ambitious event that aims to bolster Italy’s status as an international TV player and announce highlights of its second edition to be held July 3-11 in the seaside cities of Rimini and R…
+### HOMICIDE on 2026-05-22 18:58
+- Location: New York Post
+- Description: The horrified wife of a Navy veteran who allegedly viciously beat an elderly Trump superfan described his dark and violent past.
 
 
-### OTHER on 2026-05-22 13:33
-- Location: TheWrap
-- Description: The masterminds behind "Widow's Bay," "Margo's Got Money Troubles," "Abbott Elementary," "The Paper" and more share their secrets
-The post Top Showrunners Get Candid on Beating the Sophomore Slump and Why AI Doesn’t Mesh With Creativity | Video appeared first…
+### OTHER on 2026-05-22 18:56
+- Location: Advocate.com
+- Description: Manhattan District Attorney Alvin Bragg secured an indictment of a 26-year-old man on hate crime charges. The prosecution is moving forward after a years-long gap between Tavaughn Thompson, a Bronx resident, allegedly beating a man while hurling anti-gay slur…
 
 
-### SHOOTING on 2026-05-22 13:32
-- Location: Slashdot.org
-- Description: Several people watched San Diego attack live on video calls, recordings showCBS News San Diego Mosque Shooter So Alarmed Police, They Seized Father’s GunsThe New York Times Family of 1 San Diego mosque shooting suspect says they are ‘deeply sorry for the pain…
+### OTHER on 2026-05-22 18:46
+- Location: The Times of India
+- Description: Ahmedabad Crime Branch arrests 27-year-old for posing as Gujarat Police PSI with AI photos and forged IDs, allegedly duping 20+ women via dating apps.
 
 
-### OTHER on 2026-05-22 13:30
-- Location: CNA
-- Description: Experts say sexual offences on public transport persist because the crowded and transitory nature of these spaces grants perpetrators a sense of anonymity, thereby fuelling the impression that the chances of being caught are low.
+### HOMICIDE on 2026-05-22 18:39
+- Location: The Times of India
+- Description: A murder suspect, Bikku Singh alias Ravan, was shot in the leg by police in Jehanabad during an exchange of gunfire. He was being taken to recover weapons allegedly used in a May 18 murder. Singh reportedly opened fire first, prompting retaliatory action. Thi…
 
-Analysis generated at: Sat May 23 13:47:02 UTC 2026
+Analysis generated at: Sat May 23 19:03:04 UTC 2026
