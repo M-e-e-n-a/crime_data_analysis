@@ -1,10 +1,10 @@
 
-Loaded 106606 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-22 13:12:00
+Loaded 106612 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-22 13:45:00
 
 Incidents by source:
 source
-newsapi           106505
+newsapi           106511
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,30 +20,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-05-22 13:12
-- Location: GlobeNewswire
-- Description: OAKVILLE, Ontario, May 22, 2026 (GLOBE NEWSWIRE) -- A new MADD Canada roadside memorial sign will be unveiled today in Mississauga in honour of Carly Charlebois and Rama Pirakala, who were tragically killed in an impaired driving crash in 2022. The unveiling …
+### HOMICIDE on 2026-05-22 13:45
+- Location: The Irish Times
+- Description: Christopher Colin Nobes (31) and Andrew John Matthews (25) charged with murder of Nicholas Gordon (51) in Belfast
 
 
-### ROBBERY/THEFT on 2026-05-22 13:07
-- Location: The Punch
-- Description: Katsina State Police Command launches a new Violent Crime Response Unit (VCRU) to combat armed robbery, kidnapping, and banditry, enhancing security in the
-
-Read More: https://punchng.com/police-unveil-violent-crime-unit-in-katsina/
+### OTHER on 2026-05-22 13:44
+- Location: Variety
+- Description: The Italian Global Series Festival (IGS) came to Cannes to celebrate the ambitious event that aims to bolster Italy’s status as an international TV player and announce highlights of its second edition to be held July 3-11 in the seaside cities of Rimini and R…
 
 
-### OTHER on 2026-05-22 13:00
-- Location: New York Magazine
-- Description: Ex–New Jersey attorney general Matt Platkin weighs in on the legality of the controversial anti-weaponization fund created by President Trump’s IRS settlement.
+### OTHER on 2026-05-22 13:33
+- Location: TheWrap
+- Description: The masterminds behind "Widow's Bay," "Margo's Got Money Troubles," "Abbott Elementary," "The Paper" and more share their secrets
+The post Top Showrunners Get Candid on Beating the Sophomore Slump and Why AI Doesn’t Mesh With Creativity | Video appeared first…
 
 
-### OTHER on 2026-05-22 13:00
-- Location: New York Post
-- Description: The California Post is proud to endorse Spencer Pratt for mayor of Los Angeles.
+### SHOOTING on 2026-05-22 13:32
+- Location: Slashdot.org
+- Description: Several people watched San Diego attack live on video calls, recordings showCBS News San Diego Mosque Shooter So Alarmed Police, They Seized Father’s GunsThe New York Times Family of 1 San Diego mosque shooting suspect says they are ‘deeply sorry for the pain…
 
 
-### ROBBERY/THEFT on 2026-05-22 13:00
-- Location: esquire.com
-- Description: Problems mount for our heroes as they seek a new life in the Yellowstone spinoff.
+### OTHER on 2026-05-22 13:30
+- Location: CNA
+- Description: Experts say sexual offences on public transport persist because the crowded and transitory nature of these spaces grants perpetrators a sense of anonymity, thereby fuelling the impression that the chances of being caught are low.
 
-Analysis generated at: Sat May 23 13:12:35 UTC 2026
+Analysis generated at: Sat May 23 13:47:02 UTC 2026
