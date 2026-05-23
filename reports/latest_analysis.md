@@ -1,10 +1,10 @@
 
-Loaded 106548 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-22 08:07:00
+Loaded 106606 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-22 13:12:00
 
 Incidents by source:
 source
-newsapi           106447
+newsapi           106505
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,30 @@ ion.svg)
 
 ## Recent Incidents
 
-### DRUG RELATED on 2026-05-22 08:07
-- Location: Dailymail.com
-- Description: Five gang members have now been jailed for a combined 84 years after police dismantled what investigators described as a sophisticated operation.
+### HOMICIDE on 2026-05-22 13:12
+- Location: GlobeNewswire
+- Description: OAKVILLE, Ontario, May 22, 2026 (GLOBE NEWSWIRE) -- A new MADD Canada roadside memorial sign will be unveiled today in Mississauga in honour of Carly Charlebois and Rama Pirakala, who were tragically killed in an impaired driving crash in 2022. The unveiling …
 
 
-### HOMICIDE on 2026-05-22 07:36
-- Location: Dailymail.com
-- Description: Police allege Danny Ridley stole Peter Meagher's camera equipment after he was shot dead, before pawning it days later.
+### ROBBERY/THEFT on 2026-05-22 13:07
+- Location: The Punch
+- Description: Katsina State Police Command launches a new Violent Crime Response Unit (VCRU) to combat armed robbery, kidnapping, and banditry, enhancing security in the
+
+Read More: https://punchng.com/police-unveil-violent-crime-unit-in-katsina/
 
 
-### ROBBERY/THEFT on 2026-05-22 07:28
+### OTHER on 2026-05-22 13:00
+- Location: New York Magazine
+- Description: Ex–New Jersey attorney general Matt Platkin weighs in on the legality of the controversial anti-weaponization fund created by President Trump’s IRS settlement.
+
+
+### OTHER on 2026-05-22 13:00
 - Location: New York Post
-- Description: Investigators are keen to speak with a woman, who claimed she was taken to the royal residence in Windsor for “sexual purposes” when she was in her 20s in 2010.
+- Description: The California Post is proud to endorse Spencer Pratt for mayor of Los Angeles.
 
 
-### HOMICIDE on 2026-05-22 07:24
-- Location: Japan Today
-- Description: Police in Ube, Yamaguchi Prefecture, have arrested a 61-year-old man on suspicion of killing a 74-year-old acquaintance. The arrest warrant alleges that in late January, Misao Ohara killed Toshio Furuya at his home, by striking him on the head with one or mor…
+### ROBBERY/THEFT on 2026-05-22 13:00
+- Location: esquire.com
+- Description: Problems mount for our heroes as they seek a new life in the Yellowstone spinoff.
 
-
-### HOMICIDE on 2026-05-22 07:23
-- Location: Rlsbb.to
-- Description: Season 8, Episode 01 – “Coldest Winter Ever”In the immediate aftermath of Alicia’s murder, Rashaad and Victor must navigate the police investigation while keeping their hands clean; Emmett and Kiesha struggle to keep their family unit together as external pre…
-
-Analysis generated at: Sat May 23 08:11:49 UTC 2026
+Analysis generated at: Sat May 23 13:12:35 UTC 2026
