@@ -1,10 +1,10 @@
 
-Loaded 106723 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-23 02:30:23
+Loaded 106730 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-23 04:01:17
 
 Incidents by source:
 source
-newsapi           106622
+newsapi           106629
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-05-23 02:30
-- Location: The Indian Express
-- Description: A Karnataka court held that the crime reflected a complete betrayal of trust within a marital relationship.
+### ASSAULT on 2026-05-23 04:01
+- Location: Al Jazeera English
+- Description: Rising xenophobia in South Africa leaves migrants facing harassment, job losses and community violence.
 
 
-### OTHER on 2026-05-23 01:44
-- Location: The Indian Express
-- Description: The Trump administration has announced that temporary visa holders must leave the US to apply for green cards. Here’s who is affected and why it matters.
+### SHOOTING on 2026-05-23 04:00
+- Location: Americanthinker.com
+- Description: By any measure, guns are used far more often for good purposes than bad
 
 
-### HOMICIDE on 2026-05-23 01:44
-- Location: TheWrap
-- Description: "It is with great sadness that we say goodbye to our beloved client," the actor's talent agency writes
-The post Missing ‘Virgin River’ Actor Stewart McLean Found Dead as Case Becomes a Homicide Investigation appeared first on TheWrap.
+### OTHER on 2026-05-23 04:00
+- Location: Americanthinker.com
+- Description: Apparently, mosquito repellent just won’t do.
 
 
-### HOMICIDE on 2026-05-23 01:43
-- Location: Freerepublic.com
-- Description: PHOENIX (KPHO/Gray News) - A woman in Arizona is accused of killing a man who tried to end a date early after realizing he had been “catfished,” police said. Mikela Antresa Bahe, 30, is facing multiple charges, including second-degree murder, in the death of …
+### OTHER on 2026-05-23 03:45
+- Location: Khabarhub.com
+- Description: KATHMANDU: A luggage tagging system is set to be introduced in long-distance public transport vehicles operating from the Kathmandu Valley, aiming to enhance passenger safety and reduce cases of lost or swapped baggage. The initiative is expected to make publ…
 
 
-### HOMICIDE on 2026-05-23 01:42
-- Location: New York Post
-- Description: A Vallejo man charged with murdering aspiring musician Ceicilia Corsetti is now suspected in a second shooting on the same street just weeks later, according to police.
+### ASSAULT on 2026-05-23 03:31
+- Location: Dailymail.com
+- Description: Mohammad Baqer Saad Dawood al-Saadi, 32, was transferred to the US after he was accused of planning at least 18 terrorist attacks across North America and Europe since February.
 
-Analysis generated at: Sun May 24 02:42:51 UTC 2026
+Analysis generated at: Sun May 24 04:04:56 UTC 2026
