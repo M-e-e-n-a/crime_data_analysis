@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun May 24 08:23:21 UTC 2026
+Last updated: Sun May 24 13:12:10 UTC 2026
 
 ## Latest Analysis
 
-Loaded 106745 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-23 07:54:19
+Loaded 106776 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-23 13:00:36
 
 Incidents by source:
 source
-newsapi           106644
+newsapi           106675
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### DRUG RELATED on 2026-05-23 07:54
+### OTHER on 2026-05-23 13:00
 - Location: Fox News
-- Description: A suspected drug smuggler was arrested after federal agents allegedly discovered $6.4 million worth of cocaine aboard an oil tanker in California.
+- Description: New Mexico Democrat Gabe Vasquez is accused of hypocrisy after 2020 defund the police posts resurface amid his new pro-law enforcement messaging.
 
 
-### OTHER on 2026-05-23 07:52
+### OTHER on 2026-05-23 13:00
+- Location: Ewtnnews.com
+- Description: Mel Gibson's "Resurrection of the Christ" will be released in two parts — Part 1 will be released on May 6, 2027, and Part 2 will be released on May 25, 2028.
+
+
+### HOMICIDE on 2026-05-23 12:55
 - Location: Freerepublic.com
-- Description: PENSACOLA, Fla. -- The woman who made headlines earlier this year for allegedly urinating on Pensacola Airbnb furniture is back behind bars on a new, similar charge. Nicolette Keough, 31, was arrested Wednesday on a felony charge of property damage worth over…
+- Description: KANAWHA COUNTY, W.Va. (WOWK) – A late-night road rage incident ended in a deadly shooting along Greenbrier Street in Charleston. According to a press release from the Charleston Police Department, a call came in at 10:45 p.m. of a reported shooting near the i…
 
 
-### HOMICIDE on 2026-05-23 07:47
+### OTHER on 2026-05-23 12:36
 - Location: Dailymail.com
-- Description: Libby, 21, was found dead in an estuary seven weeks after she vanished following a night out in Hull in January 2019.
+- Description: The group vanished while exploring the notorious Dhekunu Kandu cave system in the Vaavu Atoll earlier this month.
 
 
-### OTHER on 2026-05-23 07:41
-- Location: Dailymail.com
-- Description: Two men were seen leaving in a taxi after Lorenzo Lemalu, 24, a senior leader of the Coconut Cartel, was ambushed with bullets outside a restaurant in Ho Chi Minh City.
+### ASSAULT on 2026-05-23 12:36
+- Location: PCMag.com
+- Description: The FBI said the VPN had been used by 'at least 25 ransomware groups,' including Avaddon, for activities including botnet operations, denial-of-service (DDoS) attacks, scams, and hacking.
+A VPN that was reportedly extremely popular among organized criminal gr…
 
-
-### HOMICIDE on 2026-05-23 06:42
-- Location: The Times of India
-- Description: Actor Stewart McLean's remains were found in British Columbia. Authorities confirmed his death after he was reported missing. McLean was last seen at his home on May 15. Investigators are working to establish a timeline of his activities. His talent agency co…
-
-Analysis generated at: Sun May 24 08:23:21 UTC 2026
+Analysis generated at: Sun May 24 13:12:10 UTC 2026
