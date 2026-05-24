@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun May 24 04:04:56 UTC 2026
+Last updated: Sun May 24 08:23:21 UTC 2026
 
 ## Latest Analysis
 
-Loaded 106730 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-23 04:01:17
+Loaded 106745 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-23 07:54:19
 
 Incidents by source:
 source
-newsapi           106629
+newsapi           106644
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2026-05-23 04:01
-- Location: Al Jazeera English
-- Description: Rising xenophobia in South Africa leaves migrants facing harassment, job losses and community violence.
+### DRUG RELATED on 2026-05-23 07:54
+- Location: Fox News
+- Description: A suspected drug smuggler was arrested after federal agents allegedly discovered $6.4 million worth of cocaine aboard an oil tanker in California.
 
 
-### SHOOTING on 2026-05-23 04:00
-- Location: Americanthinker.com
-- Description: By any measure, guns are used far more often for good purposes than bad
+### OTHER on 2026-05-23 07:52
+- Location: Freerepublic.com
+- Description: PENSACOLA, Fla. -- The woman who made headlines earlier this year for allegedly urinating on Pensacola Airbnb furniture is back behind bars on a new, similar charge. Nicolette Keough, 31, was arrested Wednesday on a felony charge of property damage worth over…
 
 
-### OTHER on 2026-05-23 04:00
-- Location: Americanthinker.com
-- Description: Apparently, mosquito repellent just won’t do.
-
-
-### OTHER on 2026-05-23 03:45
-- Location: Khabarhub.com
-- Description: KATHMANDU: A luggage tagging system is set to be introduced in long-distance public transport vehicles operating from the Kathmandu Valley, aiming to enhance passenger safety and reduce cases of lost or swapped baggage. The initiative is expected to make publ…
-
-
-### ASSAULT on 2026-05-23 03:31
+### HOMICIDE on 2026-05-23 07:47
 - Location: Dailymail.com
-- Description: Mohammad Baqer Saad Dawood al-Saadi, 32, was transferred to the US after he was accused of planning at least 18 terrorist attacks across North America and Europe since February.
+- Description: Libby, 21, was found dead in an estuary seven weeks after she vanished following a night out in Hull in January 2019.
 
-Analysis generated at: Sun May 24 04:04:56 UTC 2026
+
+### OTHER on 2026-05-23 07:41
+- Location: Dailymail.com
+- Description: Two men were seen leaving in a taxi after Lorenzo Lemalu, 24, a senior leader of the Coconut Cartel, was ambushed with bullets outside a restaurant in Ho Chi Minh City.
+
+
+### HOMICIDE on 2026-05-23 06:42
+- Location: The Times of India
+- Description: Actor Stewart McLean's remains were found in British Columbia. Authorities confirmed his death after he was reported missing. McLean was last seen at his home on May 15. Investigators are working to establish a timeline of his activities. His talent agency co…
+
+Analysis generated at: Sun May 24 08:23:21 UTC 2026
