@@ -1,10 +1,10 @@
 
-Loaded 106779 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-23 13:44:53
+Loaded 106827 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-23 19:03:28
 
 Incidents by source:
 source
-newsapi           106678
+newsapi           106726
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,32 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-05-23 13:44
-- Location: Freerepublic.com
-- Description: I'll bet you know the name George Floyd. He couldn't breathe. I'll bet you don't know the name Henry Nowak. He couldn't breathe either. Henry Nowak was an 18-year-old first-year university student at the University of Southampton (studying Accountancy and Fin…
+### ROBBERY/THEFT on 2026-05-23 19:03
+- Location: The Times of India
+- Description: Mandsaur police arrested a 20-year-old CS aspirant for an alleged Rs 15 lakh extortion plot against a businessman, using crime-film tactics and stolen SIMs.
 
 
-### HOMICIDE on 2026-05-23 13:26
-- Location: New York Post
-- Description: An ex-con who went to prison for two fatal shootings and works for an NYC Anti-Violence group is being eyed by cops for slashing a man last week, The Post has learned.
+### OTHER on 2026-05-23 19:00
+- Location: ComicBook.com
+- Description: Images courtesy of FX, HBO, and AMC
+
+The release of HBO’s The Sopranos at the tail end of the 1990s changed the television business, as cable networks quickly realized that audiences had the patience for slow-burn storytelling. Willing to recreate that succes…
 
 
-### OTHER on 2026-05-23 13:16
-- Location: Motorbiscuit.com
-- Description: Switzerland is usually a safe haven for racing royalty. That changed this week. Alain Prost just survived a horrific home invasion. A gang of armed thieves targeted the four-time F1 World Champion at his family villa. The break-in sparked a…
+### HOMICIDE on 2026-05-23 18:54
+- Location: PBS
+- Description: Gunmen opened fire in two separate attacks Thursday on the Honduran coast, killing at least 25 people, including six police officers, authorities said.
 
 
-### OTHER on 2026-05-23 13:00
-- Location: Fox News
-- Description: New Mexico Democrat Gabe Vasquez is accused of hypocrisy after 2020 defund the police posts resurface amid his new pro-law enforcement messaging.
+### OTHER on 2026-05-23 18:53
+- Location: The Punch
+- Description: Katsina State Police dislodge a seven-man kidnap syndicate responsible for abducting an 8-year-old boy, recovering N7.5m ransom. Read more on the Katsina k
+
+Read More: https://punchng.com/police-bust-seven-man-kidnap-syndicate-in-katsina-recover-n7-5m-ransom/
 
 
-### OTHER on 2026-05-23 13:00
-- Location: Ewtnnews.com
-- Description: Mel Gibson's "Resurrection of the Christ" will be released in two parts — Part 1 will be released on May 6, 2027, and Part 2 will be released on May 25, 2028.
+### SHOOTING on 2026-05-23 18:50
+- Location: LancasterOnline
+- Description: A York County man was arrested Saturday morning and charged with shooting into an occupied Jeep during a traffic dispute on Thursday, according to Manheim Township Police.
 
-Analysis generated at: Sun May 24 13:47:06 UTC 2026
+Analysis generated at: Sun May 24 19:09:58 UTC 2026
