@@ -1,10 +1,10 @@
 
-Loaded 106704 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-22 19:01:53
+Loaded 106723 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-23 02:30:23
 
 Incidents by source:
 source
-newsapi           106603
+newsapi           106622
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-05-22 19:01
-- Location: Wonkette.com
-- Description: Also, Thom Tillis's 'Stupid on stilts' is front-runner for best phrase of 2026.
+### OTHER on 2026-05-23 02:30
+- Location: The Indian Express
+- Description: A Karnataka court held that the crime reflected a complete betrayal of trust within a marital relationship.
 
 
-### HOMICIDE on 2026-05-22 18:58
+### OTHER on 2026-05-23 01:44
+- Location: The Indian Express
+- Description: The Trump administration has announced that temporary visa holders must leave the US to apply for green cards. Here’s who is affected and why it matters.
+
+
+### HOMICIDE on 2026-05-23 01:44
+- Location: TheWrap
+- Description: "It is with great sadness that we say goodbye to our beloved client," the actor's talent agency writes
+The post Missing ‘Virgin River’ Actor Stewart McLean Found Dead as Case Becomes a Homicide Investigation appeared first on TheWrap.
+
+
+### HOMICIDE on 2026-05-23 01:43
+- Location: Freerepublic.com
+- Description: PHOENIX (KPHO/Gray News) - A woman in Arizona is accused of killing a man who tried to end a date early after realizing he had been “catfished,” police said. Mikela Antresa Bahe, 30, is facing multiple charges, including second-degree murder, in the death of …
+
+
+### HOMICIDE on 2026-05-23 01:42
 - Location: New York Post
-- Description: The horrified wife of a Navy veteran who allegedly viciously beat an elderly Trump superfan described his dark and violent past.
+- Description: A Vallejo man charged with murdering aspiring musician Ceicilia Corsetti is now suspected in a second shooting on the same street just weeks later, according to police.
 
-
-### OTHER on 2026-05-22 18:56
-- Location: Advocate.com
-- Description: Manhattan District Attorney Alvin Bragg secured an indictment of a 26-year-old man on hate crime charges. The prosecution is moving forward after a years-long gap between Tavaughn Thompson, a Bronx resident, allegedly beating a man while hurling anti-gay slur…
-
-
-### OTHER on 2026-05-22 18:46
-- Location: The Times of India
-- Description: Ahmedabad Crime Branch arrests 27-year-old for posing as Gujarat Police PSI with AI photos and forged IDs, allegedly duping 20+ women via dating apps.
-
-
-### HOMICIDE on 2026-05-22 18:39
-- Location: The Times of India
-- Description: A murder suspect, Bikku Singh alias Ravan, was shot in the leg by police in Jehanabad during an exchange of gunfire. He was being taken to recover weapons allegedly used in a May 18 murder. Singh reportedly opened fire first, prompting retaliatory action. Thi…
-
-Analysis generated at: Sat May 23 19:03:04 UTC 2026
+Analysis generated at: Sun May 24 02:42:51 UTC 2026
