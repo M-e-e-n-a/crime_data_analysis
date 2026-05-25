@@ -1,10 +1,10 @@
 
-Loaded 106859 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-24 04:08:23
+Loaded 106890 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-24 09:35:32
 
 Incidents by source:
 source
-newsapi           106758
+newsapi           106789
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-05-24 04:08
-- Location: BusinessLine
-- Description: Officers returned fire and hit the suspect, who was transported to an area hospital, where he later died, according to the Secret Service
-
-
-### OTHER on 2026-05-24 04:00
-- Location: Americanthinker.com
-- Description: Can we live with Democrats?
-
-
-### ASSAULT on 2026-05-24 03:54
-- Location: Israelnationalnews.com
-- Description: German national faces charges after targeting Jewish worshipers outside a north London synagogue during Shavuot.
-
-
-### HOMICIDE on 2026-05-24 03:35
+### OTHER on 2026-05-24 09:35
 - Location: Dailymail.com
-- Description: A 21-year-old gunman who believed he was Jesus Christ was shot dead by Secret Service agents after opening fire outside the White House while President Donald Trump was inside.
+- Description: Bailey Esmonde, 22, was handed a CBO and banned from entering the city's supermarket chains after thieving the drinks from a Tesco Express store on St Peter's Street on March 30.
 
 
-### HOMICIDE on 2026-05-24 03:28
-- Location: CBS News
-- Description: At Kouri Richins' sentencing for the murder of Eric Richins, her husband and father of their three sons, she declared her innocence to the court and to her children. But for jurors on the case, the evidence told a different story.
+### OTHER on 2026-05-24 09:00
+- Location: NPR
+- Description: DHS was originally conceived in the interest of unity and harmony — and the phrase "homeland security" was originally meant to be reassuring.
 
-Analysis generated at: Mon May 25 04:16:27 UTC 2026
+
+### SHOOTING on 2026-05-24 09:00
+- Location: TheBlaze
+- Description: In the past, assassination attempts against a president were fairly simple, Glenn Beck says.“It looked like one guy, one gun.”But those days, he argues, are “absolutely gone.”Today, assassination attempts — especially those against President Trump — look “rea…
+
+
+### OTHER on 2026-05-24 08:50
+- Location: Gossiplankanews.com
+- Description: It is difficult to even imagine that such a horrific tragedy could be hidden under the shadow of a family built on love and trust.
+<!--gossip-below-article-Rs--> (adsbygoogle = window.adsbygoogle || []).push({});On the eighteenth of last May, in a shop in th…
+
+
+### ASSAULT on 2026-05-24 08:42
+- Location: Dailymail.com
+- Description: The trial at heard two girls were raped in two separate incidents in Fordingbridge, Hampshire, the first attack on November 26, 2024, and the second on January 17, 2025.
+
+Analysis generated at: Mon May 25 09:56:35 UTC 2026
