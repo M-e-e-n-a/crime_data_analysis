@@ -1,10 +1,10 @@
 
-Loaded 106927 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-24 14:35:35
+Loaded 106928 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-24 14:57:00
 
 Incidents by source:
 source
-newsapi           106826
+newsapi           106827
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -19,6 +19,11 @@ ion.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### OTHER on 2026-05-24 14:57
+- Location: Israelnationalnews.com
+- Description: Israel detained flotilla activists and fed them sandwiches. Spain met similar activists with clubs and riot police. Guess which country the world condemned. Opinion.
+
 
 ### HOMICIDE on 2026-05-24 14:35
 - Location: Dailymail.com
@@ -41,9 +46,4 @@ Read More: https://punchng.com/police-arrest-17-suspected-cultists-recover-canna
 - Location: Globalresearch.ca
 - Description: Governance in Honduras shifted sharply to the extreme right within months of National Party’s Nasry Asfura taking office on January 27, succeeding the Libre party’s progressive Xiomara Castro. In November 30 elections, the National Party was trailing a poor ……
 
-
-### OTHER on 2026-05-24 14:00
-- Location: New York Post
-- Description: The biggest threat could now be from the lone wolf next door. Modern cyber statecraft has yet to catch up.
-
-Analysis generated at: Mon May 25 14:44:20 UTC 2026
+Analysis generated at: Mon May 25 15:19:13 UTC 2026
