@@ -1,10 +1,10 @@
 
-Loaded 106851 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-24 02:46:44
+Loaded 106859 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-24 04:08:23
 
 Incidents by source:
 source
-newsapi           106750
+newsapi           106758
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,32 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-05-24 02:46
-- Location: New York Post
-- Description: The preppy Princeton cannibal brother killer was found dead in his New Jersey jail cell in an apparent suicide, officials said.
+### HOMICIDE on 2026-05-24 04:08
+- Location: BusinessLine
+- Description: Officers returned fire and hit the suspect, who was transported to an area hospital, where he later died, according to the Secret Service
 
 
-### HOMICIDE on 2026-05-24 02:45
-- Location: The Indian Express
-- Description: Amid the uproar, the BJP’s Ramesh Rathwa was declared the president while Surji Rathwa was elected vice-president, allowing the BJP to seize control of the Taluka Panchayat despite the deadlock in the seat tally.
+### OTHER on 2026-05-24 04:00
+- Location: Americanthinker.com
+- Description: Can we live with Democrats?
 
 
-### HOMICIDE on 2026-05-24 02:32
-- Location: CNN
-- Description: Nasire Best was previously arrested outside the White House while “claiming he was Jesus Christ,” according to court records.
+### ASSAULT on 2026-05-24 03:54
+- Location: Israelnationalnews.com
+- Description: German national faces charges after targeting Jewish worshipers outside a north London synagogue during Shavuot.
 
 
-### OTHER on 2026-05-24 01:54
-- Location: The Punch
-- Description: Katsina State Police Command has arrested six suspects involved in the abduction of an eight-year-old boy, recovering N7.5m of the ransom paid.
-
-Read More: https://punchng.com/police-arrest-six-over-abduction/
+### HOMICIDE on 2026-05-24 03:35
+- Location: Dailymail.com
+- Description: A 21-year-old gunman who believed he was Jesus Christ was shot dead by Secret Service agents after opening fire outside the White House while President Donald Trump was inside.
 
 
-### OTHER on 2026-05-24 01:54
-- Location: The Punch
-- Description: Edo State Police Command successfully rescued the remaining six passengers abducted from a Lagos-bound bus. Learn more about the Edo abduction rescue opera
+### HOMICIDE on 2026-05-24 03:28
+- Location: CBS News
+- Description: At Kouri Richins' sentencing for the murder of Eric Richins, her husband and father of their three sons, she declared her innocence to the court and to her children. But for jurors on the case, the evidence told a different story.
 
-Read More: https://punchng.com/edo-police-rescue-remaining-abducted-lagos-bound-passengers/
-
-Analysis generated at: Mon May 25 02:51:55 UTC 2026
+Analysis generated at: Mon May 25 04:16:27 UTC 2026
