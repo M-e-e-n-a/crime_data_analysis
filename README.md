@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun May 24 19:09:58 UTC 2026
+Last updated: Mon May 25 02:51:55 UTC 2026
 
 ## Latest Analysis
 
-Loaded 106827 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-23 19:03:28
+Loaded 106851 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-24 02:46:44
 
 Incidents by source:
 source
-newsapi           106726
+newsapi           106750
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,32 +24,32 @@ ion.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2026-05-23 19:03
-- Location: The Times of India
-- Description: Mandsaur police arrested a 20-year-old CS aspirant for an alleged Rs 15 lakh extortion plot against a businessman, using crime-film tactics and stolen SIMs.
+### HOMICIDE on 2026-05-24 02:46
+- Location: New York Post
+- Description: The preppy Princeton cannibal brother killer was found dead in his New Jersey jail cell in an apparent suicide, officials said.
 
 
-### OTHER on 2026-05-23 19:00
-- Location: ComicBook.com
-- Description: Images courtesy of FX, HBO, and AMC
-
-The release of HBO’s The Sopranos at the tail end of the 1990s changed the television business, as cable networks quickly realized that audiences had the patience for slow-burn storytelling. Willing to recreate that succes…
+### HOMICIDE on 2026-05-24 02:45
+- Location: The Indian Express
+- Description: Amid the uproar, the BJP’s Ramesh Rathwa was declared the president while Surji Rathwa was elected vice-president, allowing the BJP to seize control of the Taluka Panchayat despite the deadlock in the seat tally.
 
 
-### HOMICIDE on 2026-05-23 18:54
-- Location: PBS
-- Description: Gunmen opened fire in two separate attacks Thursday on the Honduran coast, killing at least 25 people, including six police officers, authorities said.
+### HOMICIDE on 2026-05-24 02:32
+- Location: CNN
+- Description: Nasire Best was previously arrested outside the White House while “claiming he was Jesus Christ,” according to court records.
 
 
-### OTHER on 2026-05-23 18:53
+### OTHER on 2026-05-24 01:54
 - Location: The Punch
-- Description: Katsina State Police dislodge a seven-man kidnap syndicate responsible for abducting an 8-year-old boy, recovering N7.5m ransom. Read more on the Katsina k
+- Description: Katsina State Police Command has arrested six suspects involved in the abduction of an eight-year-old boy, recovering N7.5m of the ransom paid.
 
-Read More: https://punchng.com/police-bust-seven-man-kidnap-syndicate-in-katsina-recover-n7-5m-ransom/
+Read More: https://punchng.com/police-arrest-six-over-abduction/
 
 
-### SHOOTING on 2026-05-23 18:50
-- Location: LancasterOnline
-- Description: A York County man was arrested Saturday morning and charged with shooting into an occupied Jeep during a traffic dispute on Thursday, according to Manheim Township Police.
+### OTHER on 2026-05-24 01:54
+- Location: The Punch
+- Description: Edo State Police Command successfully rescued the remaining six passengers abducted from a Lagos-bound bus. Learn more about the Edo abduction rescue opera
 
-Analysis generated at: Sun May 24 19:09:58 UTC 2026
+Read More: https://punchng.com/edo-police-rescue-remaining-abducted-lagos-bound-passengers/
+
+Analysis generated at: Mon May 25 02:51:55 UTC 2026
