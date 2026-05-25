@@ -1,10 +1,10 @@
 
-Loaded 106928 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-24 14:57:00
+Loaded 106972 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-24 19:14:12
 
 Incidents by source:
 source
-newsapi           106827
+newsapi           106871
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,30 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-05-24 14:57
-- Location: Israelnationalnews.com
-- Description: Israel detained flotilla activists and fed them sandwiches. Spain met similar activists with clubs and riot police. Guess which country the world condemned. Opinion.
+### OTHER on 2026-05-24 19:14
+- Location: ABC News (AU)
+- Description: Former Victoria Police deputy commissioner Wendy Steendam assures parents the childcare system is safe, vowing to safeguard children following multiple cases of alleged abuse.
 
 
-### HOMICIDE on 2026-05-24 14:35
-- Location: Dailymail.com
-- Description: Jordan Thomas Kirk, 48, was shot by two Queensland Police officers on Sunday morning.
+### HOMICIDE on 2026-05-24 19:14
+- Location: Breitbart News
+- Description: A 32-year-old Princeton, New Jersey, man who was diagnosed with schizophrenia and determined not guilty by reason of insanity was found dead in his jail cell after being charged with tragically beating his younger brother to death and eating his eyeball durin…
 
 
-### OTHER on 2026-05-24 14:21
-- Location: The Punch
-- Description: Anambra State Police Command arrests 17 suspected cultists in Awka raids, recovering cannabis and other exhibits. Investigation ongoing into cult-related a
-
-Read More: https://punchng.com/police-arrest-17-suspected-cultists-recover-cannabis-in-anambra-raids/
+### HOMICIDE on 2026-05-24 19:06
+- Location: The Times of India
+- Description: Jhabua police arrest friend in Petlawad murder of Shantu Pargi; body found near Bamanjhiri turn. Accused allegedly killed him over resentment about house visits.
 
 
-### HOMICIDE on 2026-05-24 14:11
-- Location: LADbible
-- Description: The director sat down with Deborah Brashers, the daughter of killer Robert Eugene Brashers
+### OTHER on 2026-05-24 19:02
+- Location: CBS News
+- Description: On this "Face the Nation with Margaret Brennan" broadcast, Kevin Hassett, White House National Economic Council director, and Sen. Chris Van Hollen, Democrat of Maryland, join Nancy Cordes.
 
 
-### OTHER on 2026-05-24 14:07
-- Location: Globalresearch.ca
-- Description: Governance in Honduras shifted sharply to the extreme right within months of National Party’s Nasry Asfura taking office on January 27, succeeding the Libre party’s progressive Xiomara Castro. In November 30 elections, the National Party was trailing a poor ……
+### ROBBERY/THEFT on 2026-05-24 19:02
+- Location: The Times of India
+- Description: Petlad Rural Police arrest four in Anand district cattle theft case, recover six stolen cows worth Rs 3.5 lakh and seize Tata Super Carry vehicle.
 
-Analysis generated at: Mon May 25 15:19:13 UTC 2026
+Analysis generated at: Mon May 25 19:21:43 UTC 2026
