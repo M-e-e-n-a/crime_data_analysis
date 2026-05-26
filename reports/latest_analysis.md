@@ -1,10 +1,10 @@
 
-Loaded 106996 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-25 04:00:00
+Loaded 107030 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-25 09:40:00
 
 Incidents by source:
 source
-newsapi           106895
+newsapi           106929
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,30 +20,30 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-05-25 04:00
-- Location: Americanthinker.com
-- Description: President Trump will honor Amelia Earhart this July, a move with great symbolic significance.
+### OTHER on 2026-05-25 09:40
+- Location: Slate Magazine
+- Description: It began with one question on the application. I answered wrong.
 
 
-### OTHER on 2026-05-25 04:00
-- Location: Americanthinker.com
-- Description: Her best buds at the Los Angeles Times claim that crime is down and any crime voters may be concerned about is all in their heads.
+### OTHER on 2026-05-25 09:39
+- Location: The Punch
+- Description: The Imo Police Command has trained 300 officers in forensic and fraud investigations to boost institutional capacity and strengthen human capital developme
+
+Read More: https://punchng.com/imo-police-command-trains-300-officers-in-forensic-fraud-investigations/
 
 
-### OTHER on 2026-05-25 04:00
-- Location: Americanthinker.com
-- Description: Photo Credit:
- 
- Perchance AIPerhaps the full $1.8 billion fund will not be required, but it is likely that a substantial fund will be needed to compensate people victimized by overzealous political prosecutors.
+### HOMICIDE on 2026-05-25 09:38
+- Location: The New Humanitarian
+- Description: The contested story of who killed a 27-year-old refugee lays bare the cruel failures of the global system supposed to protect people fleeing war.
 
 
-### HOMICIDE on 2026-05-25 03:49
-- Location: Japan Today
-- Description: Hyogo Prefectural Police have placed a 42-year-old man on a nationwide wanted list in connection with the murders of a 74-year-old woman and her 52-year-old daughter at their home in Tatsuno City, Hyogo Prefecture. On Sunday night, police said they had obtain…
+### SHOOTING on 2026-05-25 09:33
+- Location: ABC News (AU)
+- Description: The head of Australia's domestic intelligence agency reveals it reviewed past terrorism investigations in 2024 which did not extend to a re-examination of the soon to be Bondi gunmen because of a resourcing decision.
 
 
-### HOMICIDE on 2026-05-25 03:37
-- Location: CNA
-- Description: <![CDATA[ The then-19-year-old Huang Baoying suffered brutal abuse for months. She lost 43 per cent of her body weight by the time she died from excessive blunt force trauma and severe malnourishment. ]]>
+### SHOOTING on 2026-05-25 09:32
+- Location: Slashdot.org
+- Description: Aurora Avenue neighbors revolt, blocking off street access after yet another shootingMyNorthwest.com Police investigate reports of dozens of gunshots near north Seattle intersectionKOMO Surveillance video shows major shootout near Aurora Ave. clubKIRO 7 News …
 
-Analysis generated at: Tue May 26 04:01:26 UTC 2026
+Analysis generated at: Tue May 26 09:42:49 UTC 2026
