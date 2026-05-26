@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue May 26 09:42:49 UTC 2026
+Last updated: Tue May 26 14:55:20 UTC 2026
 
 ## Latest Analysis
 
-Loaded 107030 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-25 09:40:00
+Loaded 107085 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-25 14:55:05
 
 Incidents by source:
 source
-newsapi           106929
+newsapi           106984
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,30 +24,30 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-05-25 09:40
-- Location: Slate Magazine
-- Description: It began with one question on the application. I answered wrong.
+### HOMICIDE on 2026-05-25 14:55
+- Location: The Times of India
+- Description: Mumbai Malwani murder: Beautician Selema Khatun found dead in locked home; husband Shamsuddin missing and prime suspect; police teams search nationwide.
 
 
-### OTHER on 2026-05-25 09:39
-- Location: The Punch
-- Description: The Imo Police Command has trained 300 officers in forensic and fraud investigations to boost institutional capacity and strengthen human capital developme
-
-Read More: https://punchng.com/imo-police-command-trains-300-officers-in-forensic-fraud-investigations/
-
-
-### HOMICIDE on 2026-05-25 09:38
-- Location: The New Humanitarian
-- Description: The contested story of who killed a 27-year-old refugee lays bare the cruel failures of the global system supposed to protect people fleeing war.
+### ROBBERY/THEFT on 2026-05-25 14:25
+- Location: Protothema.gr
+- Description: The official report of the Hellenic Police regarding serious and organized crime for 2024: in Greek gangs, Roma dominate at a rate of 76.69%, while among foreign gangs, Albanians account for 48.15%
+The post The Hellenic Police report on thefts and burglaries …
 
 
-### SHOOTING on 2026-05-25 09:33
-- Location: ABC News (AU)
-- Description: The head of Australia's domestic intelligence agency reveals it reviewed past terrorism investigations in 2024 which did not extend to a re-examination of the soon to be Bondi gunmen because of a resourcing decision.
+### ROBBERY/THEFT on 2026-05-25 14:19
+- Location: Notebookcheck.net
+- Description: A GTA Online player found an unusual VIN-related description on a claimable Coquette D10. It is now being believed to be leftover GTA 6 code accidentally ported by a Rockstar dev — hinting at a car theft mechanic far more complex than anything in GTA 5.
 
 
-### SHOOTING on 2026-05-25 09:32
-- Location: Slashdot.org
-- Description: Aurora Avenue neighbors revolt, blocking off street access after yet another shootingMyNorthwest.com Police investigate reports of dozens of gunshots near north Seattle intersectionKOMO Surveillance video shows major shootout near Aurora Ave. clubKIRO 7 News …
+### ROBBERY/THEFT on 2026-05-25 14:19
+- Location: Notebookcheck.net
+- Description: A GTA Online player found an unusual VIN-related description on a claimable Coquette D10. It is now being believed to be leftover GTA 6 code accidentally ported by a Rockstar dev — hinting at a car theft mechanic far more complex than anything in GTA 5.
 
-Analysis generated at: Tue May 26 09:42:49 UTC 2026
+
+### SHOOTING on 2026-05-25 14:18
+- Location: Breitbart News
+- Description: Chicago police chief Earl D. Mayo faces felony charges over accusations that he sold guns from police investigations to a pawn shop in Indiana.
+The post Chicago Police Chief Faces Felony Charges for Allegedly Selling Crime Guns appeared first on Breitbart.
+
+Analysis generated at: Tue May 26 14:55:20 UTC 2026
