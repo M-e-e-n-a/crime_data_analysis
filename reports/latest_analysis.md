@@ -1,10 +1,10 @@
 
-Loaded 107085 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-25 14:55:05
+Loaded 107100 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-25 15:50:58
 
 Incidents by source:
 source
-newsapi           106984
+newsapi           106999
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,30 +20,30 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-05-25 14:55
-- Location: The Times of India
-- Description: Mumbai Malwani murder: Beautician Selema Khatun found dead in locked home; husband Shamsuddin missing and prime suspect; police teams search nationwide.
+### SHOOTING on 2026-05-25 15:50
+- Location: The Indian Express
+- Description: Peel Police say accused linked to international gang targeted Punjabi and South Asian business owners through threats, shootings and arson attacks across Ontario and British Columbia.
 
 
-### ROBBERY/THEFT on 2026-05-25 14:25
-- Location: Protothema.gr
-- Description: The official report of the Hellenic Police regarding serious and organized crime for 2024: in Greek gangs, Roma dominate at a rate of 76.69%, while among foreign gangs, Albanians account for 48.15%
-The post The Hellenic Police report on thefts and burglaries …
+### OTHER on 2026-05-25 15:45
+- Location: Wrongeverytime.com
+- Description: Hello folks, and welcome back to Wrong Every Time. Today we’re journeying back into the fantastical land of Oz, as we explore the followup to 2024’s Wicked film adaptation. Yep, it’s time for Wicked: For Good, as Cynthia Erivo’s Elphaba … Continue reading →
 
 
-### ROBBERY/THEFT on 2026-05-25 14:19
-- Location: Notebookcheck.net
-- Description: A GTA Online player found an unusual VIN-related description on a claimable Coquette D10. It is now being believed to be leftover GTA 6 code accidentally ported by a Rockstar dev — hinting at a car theft mechanic far more complex than anything in GTA 5.
+### HOMICIDE on 2026-05-25 15:38
+- Location: Freerepublic.com
+- Description: A North Carolina woman allegedly shot two lawyers handling a civil lawsuit she filed against police as they were leaving the courthouse. Gwendolyn White, 57, is charged with two counts of attempted murder after she allegedly shot two attorneys on Friday who w…
 
 
-### ROBBERY/THEFT on 2026-05-25 14:19
-- Location: Notebookcheck.net
-- Description: A GTA Online player found an unusual VIN-related description on a claimable Coquette D10. It is now being believed to be leftover GTA 6 code accidentally ported by a Rockstar dev — hinting at a car theft mechanic far more complex than anything in GTA 5.
+### ROBBERY/THEFT on 2026-05-25 15:37
+- Location: The Punch
+- Description: Bandits attacked a Kwara palace, abducting 10. An ex-Katsina gov-aide is probed for kidnap. Get the full afternoon news recap.
+
+Read More: https://punchng.com/afternoon-recap-bandits-abduct-10-in-kwara-palace-attack-ex-katsina-gov-aide-in-kidnap-probe-other-t…
 
 
-### SHOOTING on 2026-05-25 14:18
-- Location: Breitbart News
-- Description: Chicago police chief Earl D. Mayo faces felony charges over accusations that he sold guns from police investigations to a pawn shop in Indiana.
-The post Chicago Police Chief Faces Felony Charges for Allegedly Selling Crime Guns appeared first on Breitbart.
+### HOMICIDE on 2026-05-25 15:34
+- Location: Dailymail.com
+- Description: Authorities determined the driver had a BAC of 0.222, nearly three times the legal limit. He also had a prior DUI conviction from Minnesota, where he drove down the wrong side of the road as well.
 
-Analysis generated at: Tue May 26 14:55:20 UTC 2026
+Analysis generated at: Tue May 26 15:51:28 UTC 2026
