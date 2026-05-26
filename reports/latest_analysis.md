@@ -1,10 +1,10 @@
 
-Loaded 106986 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-25 02:20:59
+Loaded 106996 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-25 04:00:00
 
 Incidents by source:
 source
-newsapi           106885
+newsapi           106895
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,30 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-05-25 02:20
-- Location: The Times of India
-- Description: A 60-year-old security guard was brutally murdered in West Delhi after being run over twice by a car following an argument. CCTV footage shows the victim, Bijender, being assaulted with a stick before the vehicle deliberately targeted him. Police are investig…
+### OTHER on 2026-05-25 04:00
+- Location: Americanthinker.com
+- Description: President Trump will honor Amelia Earhart this July, a move with great symbolic significance.
 
 
-### SHOOTING on 2026-05-25 02:15
-- Location: Khabarhub.com
-- Description: KATHMANDU: Economic Digest presents a brief yet comprehensive roundup of major business developments in Nepal, delivered in clear and accessible summaries. Nepal’s latest economic indicators reflect a fragile and import-dependent economy struggling with struc…
+### OTHER on 2026-05-25 04:00
+- Location: Americanthinker.com
+- Description: Her best buds at the Los Angeles Times claim that crime is down and any crime voters may be concerned about is all in their heads.
 
 
-### SHOOTING on 2026-05-25 02:12
-- Location: Abcnews.com
-- Description: The bystander who was struck by gunfire after a man fired on a checkpoint outside the White House and was fatally shot by U.S. Secret Service officers remains in serious condition
+### OTHER on 2026-05-25 04:00
+- Location: Americanthinker.com
+- Description: Photo Credit:
+ 
+ Perchance AIPerhaps the full $1.8 billion fund will not be required, but it is likely that a substantial fund will be needed to compensate people victimized by overzealous political prosecutors.
 
 
-### HOMICIDE on 2026-05-25 01:30
-- Location: Dailymail.com
-- Description: Angel Whitaker moved to Bluefield, West Virginia for a job in January. Her boss, who she is also believed to have been in a romantic relationship with, has been arrested for murder.
+### HOMICIDE on 2026-05-25 03:49
+- Location: Japan Today
+- Description: Hyogo Prefectural Police have placed a 42-year-old man on a nationwide wanted list in connection with the murders of a 74-year-old woman and her 52-year-old daughter at their home in Tatsuno City, Hyogo Prefecture. On Sunday night, police said they had obtain…
 
 
-### ASSAULT on 2026-05-25 01:30
-- Location: Reason
-- Description: The General Assembly tests the courts to see what it can get away with.
+### HOMICIDE on 2026-05-25 03:37
+- Location: CNA
+- Description: <![CDATA[ The then-19-year-old Huang Baoying suffered brutal abuse for months. She lost 43 per cent of her body weight by the time she died from excessive blunt force trauma and severe malnourishment. ]]>
 
-Analysis generated at: Tue May 26 02:39:56 UTC 2026
+Analysis generated at: Tue May 26 04:01:26 UTC 2026
