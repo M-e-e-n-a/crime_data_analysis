@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed May 27 04:15:25 UTC 2026
+Last updated: Wed May 27 09:37:16 UTC 2026
 
 ## Latest Analysis
 
-Loaded 107187 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-26 04:06:39
+Loaded 107206 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-26 09:30:00
 
 Incidents by source:
 source
-newsapi           107086
+newsapi           107105
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,48 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-05-26 04:06
-- Location: Juancole.com
-- Description: Palestinians in Gaza are still hungry, still cannot reach medical care, and civilians are still being killed as Board of Peace fails
+### OTHER on 2026-05-26 09:30
+- Location: Wired
+- Description: As Americans stew over the looming risk of job-stealing AI and data centers in their back yards, the feds are raising the alarm about a new category of threat, documents obtained by WIRED show.
 
 
-### OTHER on 2026-05-26 04:03
-- Location: Askamanager.org
-- Description: It’s five answers to five questions. Here we go… 1. My promotion is destroying a friendship We have a new CEO who is creating a new division within our company. He recently asked me to move to the new division and run one part of the new business unit. I am n…
+### DRUG RELATED on 2026-05-26 09:05
+- Location: CNA
+- Description: <![CDATA[ Authorities also seized about RM103,070 (US$26,000) worth of illicit drugs, including MDMA, ecstasy pills and powder, and ketamine, narcotics investigations department director Hussein Omar Khan said in a statement late Monday (May 25). ]]>
 
 
-### OTHER on 2026-05-26 04:01
-- Location: Human Rights Watch
-- Description: Click to expand Image
- 
+### SHOOTING on 2026-05-26 09:04
+- Location: Dailymail.com
+- Description: The hottest Bank Holiday on record yesterday saw chaos unfold in Hackney where someone was allegedly shot at an unofficial 'day party', while panic unfolded in Brighton after an apparent stabbing.
 
 
-
- 
- 
- 
-
- 
- 
- 
- 
- A damaged residential building in the Russian-occupied eastern Ukrainian town of Severodonetsk, Luhansk region, August 8, 2024.
- © 2024 Alexander Ermochenko/Reuters 
- 
- 
+### OTHER on 2026-05-26 08:45
+- Location: Peoplesreview.com.np
+- Description: Kathmandu, May 26: Police have arrested one person from Kichapokhari, Kathmandu, along with a large quantity of electronic cigarettes (vapes) worth nearly Rs 60 million. Acting on special intelligence, a team from the Kathmandu Valley Crime Investigation Offi…
 
 
- 
-Russian occupation authorities are seizing…
+### OTHER on 2026-05-26 08:19
+- Location: Dailymail.com
+- Description: His taunts come as it was revealed almost 60,000 criminal suspects skipped court in England and Wales last year - including thousands accused of serious and violent crimes.
 
-
-### OTHER on 2026-05-26 04:01
-- Location: WWD
-- Description: Chief executive officer Bénédicte Epinay explains how centuries of trade with the U.S. have shaped the French luxury sector, and how its focus is shifting from tariffs to dupes.
-
-
-### OTHER on 2026-05-26 04:00
-- Location: Americanthinker.com
-- Description: California can't, and won't, fix itself.
-
-Analysis generated at: Wed May 27 04:15:25 UTC 2026
+Analysis generated at: Wed May 27 09:37:16 UTC 2026
