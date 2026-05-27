@@ -1,10 +1,10 @@
 
-Loaded 107174 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-26 02:34:20
+Loaded 107187 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-26 04:06:39
 
 Incidents by source:
 source
-newsapi           107073
+newsapi           107086
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,30 +20,48 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-05-26 02:34
-- Location: Dailymail.com
-- Description: A 31-year-old woman has been charged with one count of murder domestic violence against a child.
+### HOMICIDE on 2026-05-26 04:06
+- Location: Juancole.com
+- Description: Palestinians in Gaza are still hungry, still cannot reach medical care, and civilians are still being killed as Board of Peace fails
 
 
-### OTHER on 2026-05-26 02:04
-- Location: ABC News (AU)
-- Description: Motherhood has a way of making family patterns impossible to ignore. Suddenly you start asking questions you never asked before.
+### OTHER on 2026-05-26 04:03
+- Location: Askamanager.org
+- Description: It’s five answers to five questions. Here we go… 1. My promotion is destroying a friendship We have a new CEO who is creating a new division within our company. He recently asked me to move to the new division and run one part of the new business unit. I am n…
 
 
-### HOMICIDE on 2026-05-26 01:50
-- Location: The Punch
-- Description: Niger State Police are actively hunting for the killers of Kafar Dadawu Abdullahi, an aide to the Deputy Governor, who was stabbed to death in Minna.
-
-Read More: https://punchng.com/niger-police-hunt-killers-of-deputy-govs-aide/
-
-
-### OTHER on 2026-05-26 01:32
-- Location: Dailymail.com
-- Description: Gus disappeared from his grandparents' home near Yunta, South Australia, on September 27 last year.
+### OTHER on 2026-05-26 04:01
+- Location: Human Rights Watch
+- Description: Click to expand Image
+ 
 
 
-### OTHER on 2026-05-26 01:07
-- Location: The Diplomat
-- Description: The country's ruling party is using an unnecessary conflict as a chance to build up its political myth.
 
-Analysis generated at: Wed May 27 02:50:16 UTC 2026
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ A damaged residential building in the Russian-occupied eastern Ukrainian town of Severodonetsk, Luhansk region, August 8, 2024.
+ © 2024 Alexander Ermochenko/Reuters 
+ 
+ 
+
+
+ 
+Russian occupation authorities are seizing…
+
+
+### OTHER on 2026-05-26 04:01
+- Location: WWD
+- Description: Chief executive officer Bénédicte Epinay explains how centuries of trade with the U.S. have shaped the French luxury sector, and how its focus is shifting from tariffs to dupes.
+
+
+### OTHER on 2026-05-26 04:00
+- Location: Americanthinker.com
+- Description: California can't, and won't, fix itself.
+
+Analysis generated at: Wed May 27 04:15:25 UTC 2026
