@@ -1,10 +1,10 @@
 
-Loaded 107152 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-25 20:01:33
+Loaded 107174 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-26 02:34:20
 
 Incidents by source:
 source
-newsapi           107051
+newsapi           107073
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,30 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-05-25 20:01
-- Location: How-To Geek
-- Description: A gender-flipping switcheroo comedy, a gritty, star-packed Tarantino cult classic, and a beloved funnyman's long-overdue spotlight.
+### HOMICIDE on 2026-05-26 02:34
+- Location: Dailymail.com
+- Description: A 31-year-old woman has been charged with one count of murder domestic violence against a child.
 
 
-### HOMICIDE on 2026-05-25 20:01
-- Location: New York Post
-- Description: Minneapolis Mayor Jacob Frey marked the sixth anniversary of George Floyd's death, claiming the city has changed dramatically in the time since, and rekindling a debate about whether he was murdered.
+### OTHER on 2026-05-26 02:04
+- Location: ABC News (AU)
+- Description: Motherhood has a way of making family patterns impossible to ignore. Suddenly you start asking questions you never asked before.
 
 
-### HOMICIDE on 2026-05-25 19:43
-- Location: Rolling Stone
-- Description: Alex Murdaugh, who had been convicted of the 2021 murder of his wife and son, just won a new trial. But the case is already deep within the public consciousness
+### HOMICIDE on 2026-05-26 01:50
+- Location: The Punch
+- Description: Niger State Police are actively hunting for the killers of Kafar Dadawu Abdullahi, an aide to the Deputy Governor, who was stabbed to death in Minna.
+
+Read More: https://punchng.com/niger-police-hunt-killers-of-deputy-govs-aide/
 
 
-### HOMICIDE on 2026-05-25 19:42
-- Location: The Times of India
-- Description: Barabanki court convicts 22 for 2015 Mati police outpost arson and loot; guilty of rioting, dacoity and damage to property, acquitted of attempt to murder.
+### OTHER on 2026-05-26 01:32
+- Location: Dailymail.com
+- Description: Gus disappeared from his grandparents' home near Yunta, South Australia, on September 27 last year.
 
 
-### OTHER on 2026-05-25 19:30
-- Location: Orbooks.com
-- Description: Failure to accurately cover the destruction of Gaza is inimical to the basic professional canons of journalism.
+### OTHER on 2026-05-26 01:07
+- Location: The Diplomat
+- Description: The country's ruling party is using an unnecessary conflict as a chance to build up its political myth.
 
-Analysis generated at: Tue May 26 20:03:06 UTC 2026
+Analysis generated at: Wed May 27 02:50:16 UTC 2026
