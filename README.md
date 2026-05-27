@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed May 27 15:57:36 UTC 2026
+Last updated: Wed May 27 20:08:15 UTC 2026
 
 ## Latest Analysis
 
-Loaded 107296 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-26 15:57:22
+Loaded 107363 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-26 20:00:00
 
 Incidents by source:
 source
-newsapi           107195
+newsapi           107262
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,30 @@ ion.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2026-05-26 15:57
-- Location: The Times of India
-- Description: Khunti police successfully recovered 57 stolen mobile phones as part of 'Operation Muskan'. The recovered devices were returned to their rightful owners following continuous technical investigations and raids across all district police stations. Authorities u…
+### OTHER on 2026-05-26 20:00
+- Location: ComicBook.com
+- Description: Image courtesy of Walt Disney Television Animation
+
+The Disney Afternoon was a two-hour weekday syndication block produced by Walt Disney Television Animation and distributed through Buena Vista Television, which ran from September 10, 1990, to August 29, 199…
 
 
-### HOMICIDE on 2026-05-26 15:50
-- Location: Newser
-- Description: Chicago's summer kickoff brought a grim but familiar tally: at least 26 people were wounded in shootings over Memorial Day weekend, the Chicago Sun-Times reports, citing city police. Despite the volume of gunfire, no murders were reported for the first time i…
+### OTHER on 2026-05-26 20:00
+- Location: Daily Signal
+- Description: Mark Twain is credited with saying, “History doesn’t repeat, but it rhymes.” Such is the case with several semi-related incidents in Virginia Beach. First, as I have testified to in earlier columns, not only was I there for what are called the “Unite the Righ…
 
 
-### SHOOTING on 2026-05-26 15:49
-- Location: National Post
-- Description: The document includes an appendix of analysis of the 'sentiment' that was being expressed by the public
+### SHOOTING on 2026-05-26 19:56
+- Location: CBC News
+- Description: Three days after the February mass shooting in Tumbler Ridge, B.C., government officials warned Prime Minister Mark Carney that online sentiment was shifting from collective grief toward "emerging accountability narratives" — including questions about mental …
 
 
-### DRUG RELATED on 2026-05-26 15:49
-- Location: The Indian Express
-- Description: The police said the accused were importing banned narcotics from abroad and sending them to India through international courier parcels via India Post.
+### OTHER on 2026-05-26 19:56
+- Location: Dailymail.com
+- Description: John Swinney has been accused of 'taking people for mugs' after launching another push for independence based on 'security' and 'prosperity' amid the SNP fraud scandal.
 
 
-### OTHER on 2026-05-26 15:45
-- Location: LADbible
-- Description: A former inmate who was in prison with Mackenzie Shirilla claimed she boasted about the nickname the other prisoners gave her
+### HOMICIDE on 2026-05-26 19:55
+- Location: Dailymail.com
+- Description: Tom* was a prison officer for 25 years and worked at HMP Long Lartin, one of Britain's most infamous prisons, for nearly a decade.
 
-Analysis generated at: Wed May 27 15:57:36 UTC 2026
+Analysis generated at: Wed May 27 20:08:15 UTC 2026
