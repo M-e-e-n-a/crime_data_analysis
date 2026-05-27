@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed May 27 09:37:16 UTC 2026
+Last updated: Wed May 27 15:24:10 UTC 2026
 
 ## Latest Analysis
 
-Loaded 107206 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-26 09:30:00
+Loaded 107284 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-26 15:19:08
 
 Incidents by source:
 source
-newsapi           107105
+newsapi           107183
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-05-26 09:30
-- Location: Wired
-- Description: As Americans stew over the looming risk of job-stealing AI and data centers in their back yards, the feds are raising the alarm about a new category of threat, documents obtained by WIRED show.
-
-
-### DRUG RELATED on 2026-05-26 09:05
-- Location: CNA
-- Description: <![CDATA[ Authorities also seized about RM103,070 (US$26,000) worth of illicit drugs, including MDMA, ecstasy pills and powder, and ketamine, narcotics investigations department director Hussein Omar Khan said in a statement late Monday (May 25). ]]>
-
-
-### SHOOTING on 2026-05-26 09:04
+### OTHER on 2026-05-26 15:19
 - Location: Dailymail.com
-- Description: The hottest Bank Holiday on record yesterday saw chaos unfold in Hackney where someone was allegedly shot at an unofficial 'day party', while panic unfolded in Brighton after an apparent stabbing.
+- Description: The explosive private texts obtained by Daily Mail, show Freeman furiously claimed he had been 'set up' after his arrest in 2021.
 
 
-### OTHER on 2026-05-26 08:45
-- Location: Peoplesreview.com.np
-- Description: Kathmandu, May 26: Police have arrested one person from Kichapokhari, Kathmandu, along with a large quantity of electronic cigarettes (vapes) worth nearly Rs 60 million. Acting on special intelligence, a team from the Kathmandu Valley Crime Investigation Offi…
+### OTHER on 2026-05-26 15:07
+- Location: Fortune
+- Description: South Africa's top court just revived a years-old cash scandal that Ramaphosa's party thought it had buried. It's looking like he'll survive — just.
 
 
-### OTHER on 2026-05-26 08:19
-- Location: Dailymail.com
-- Description: His taunts come as it was revealed almost 60,000 criminal suspects skipped court in England and Wales last year - including thousands accused of serious and violent crimes.
+### ROBBERY/THEFT on 2026-05-26 15:02
+- Location: The Conversation Africa
+- Description: You can wear a mask, pull up a hood, avoid looking at a camera – but you cannot easily change how you walk.
 
-Analysis generated at: Wed May 27 09:37:16 UTC 2026
+
+### HOMICIDE on 2026-05-26 15:01
+- Location: Fox News
+- Description: Rebecca Hill declined to comment on the Murdaugh case, citing a gag order, as she was seen on her porch days after his convictions were overturned.
+
+
+### OTHER on 2026-05-26 14:52
+- Location: Israelnationalnews.com
+- Description: The Shin Bet and Jerusalem Police uncovered a terrorist cell of Arab residents in Jerusalem, directed by Popular Front activist Salah Hammouri, who allegedly provided encrypted phones for clandestine activity.
+
+Analysis generated at: Wed May 27 15:24:10 UTC 2026
