@@ -1,10 +1,10 @@
 
-Loaded 107391 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-27 04:00:00
+Loaded 107427 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-27 09:45:00
 
 Incidents by source:
 source
-newsapi           107290
+newsapi           107326
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,30 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-05-27 04:00
-- Location: Americanthinker.com
-- Description: Photo Credit:Thomas Cole, Public domain, via Wikimedia Commons
- 
- Public DomainLike water, culture — if it’s not protected — will flow to the lowest point until equilibrium sets in.
+### OTHER on 2026-05-27 09:45
+- Location: The Irish Times
+- Description: Nearly 10 complaints were made daily to Fiosrú and 61 files were sent to DPP last year, annual report shows
 
 
-### OTHER on 2026-05-27 04:00
-- Location: Americanthinker.com
-- Description: Minnesota needs to be avenged because...well...just because.
+### HOMICIDE on 2026-05-27 09:41
+- Location: Bellingcat.com
+- Description: A “river of blood” was how one survivor described the scene in western Myanmar. “I saw shooting. I saw mass killing.” Another told the UN High Commissioner for Human Rights (UNHRC) how 20 relatives, including three children, had been killed in the 2024 attack…
 
 
-### HOMICIDE on 2026-05-27 04:00
-- Location: Variety
-- Description: India’s Matchbox Shots has acquired the screen rights to “The Gurugram School Murder,” crime journalist Leena Dhankhar’s account of the 2017 killing of a child at an elite school in Gurugram. The adaptation draws from Dhankhar’s reporting on one of India’s mo…
+### ROBBERY/THEFT on 2026-05-27 09:39
+- Location: BBC News
+- Description: The former SNP leader's solicitor says her response was "standard" and she later provided written answers to detectives' questions.
 
 
-### OTHER on 2026-05-27 04:00
-- Location: Americanthinker.com
-- Description: When we look at the data and identify the most common perpetrators, what does that mean for us in the context of mass importations of angry young men from violent nations?
+### ROBBERY/THEFT on 2026-05-27 09:28
+- Location: The Times of India
+- Description: IPS officer and actor Simala Prasad, currently serving as DIG, Women Safety, returns to the big screen with The Narmada Story, her third film. Inspired by real events, the crime drama follows investigating officer Narmada Raikwar as she probes cases involving…
 
 
-### OTHER on 2026-05-27 04:00
-- Location: Americanthinker.com
-- Description: Minneapolis has a deranged and destructive way to observe Memorial Day.
+### OTHER on 2026-05-27 09:26
+- Location: Abcnews.com
+- Description: An alleged accomplice of a man who was convicted of stabbing and seriously wounding a Spanish tourist at Berlin’s Holocaust Memorial last year has been arrested in the German capital
 
-Analysis generated at: Thu May 28 04:03:15 UTC 2026
+Analysis generated at: Thu May 28 09:53:55 UTC 2026
