@@ -1,10 +1,10 @@
 
-Loaded 107427 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-27 09:45:00
+Loaded 107506 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-27 15:33:47
 
 Incidents by source:
 source
-newsapi           107326
+newsapi           107405
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-05-27 09:45
-- Location: The Irish Times
-- Description: Nearly 10 complaints were made daily to Fiosrú and 61 files were sent to DPP last year, annual report shows
+### SHOOTING on 2026-05-27 15:33
+- Location: CBC News
+- Description: A 15-year-old boy is in police custody following a shooting early Tuesday in northern Manitoba that resulted in two injured people being airlifted to hospital in Winnipeg.
 
 
-### HOMICIDE on 2026-05-27 09:41
-- Location: Bellingcat.com
-- Description: A “river of blood” was how one survivor described the scene in western Myanmar. “I saw shooting. I saw mass killing.” Another told the UN High Commissioner for Human Rights (UNHRC) how 20 relatives, including three children, had been killed in the 2024 attack…
+### OTHER on 2026-05-27 15:32
+- Location: CBC News
+- Description: Abdoulaye Gadjiko, 28, is accused of forcing a woman into the sex trade and profiting from the crime, according to the Regina Police Service.
 
 
-### ROBBERY/THEFT on 2026-05-27 09:39
-- Location: BBC News
-- Description: The former SNP leader's solicitor says her response was "standard" and she later provided written answers to detectives' questions.
+### OTHER on 2026-05-27 15:28
+- Location: CBC News
+- Description: Toronto police Chief Myron Demkiw says he is planning to speak with Ontario's solicitor general about the restrictions chiefs face when deciding whether to suspend officers with or without pay.
 
 
-### ROBBERY/THEFT on 2026-05-27 09:28
-- Location: The Times of India
-- Description: IPS officer and actor Simala Prasad, currently serving as DIG, Women Safety, returns to the big screen with The Narmada Story, her third film. Inspired by real events, the crime drama follows investigating officer Narmada Raikwar as she probes cases involving…
+### HOMICIDE on 2026-05-27 15:22
+- Location: Dailymail.com
+- Description: Michael Thompson, 55, suffocated Kimberley, 43, before placing empty tablet packets and spirit bottles beside her to suggest she had either taken her own life or died in a 'terrible accident', jurors were told.
 
 
-### OTHER on 2026-05-27 09:26
-- Location: Abcnews.com
-- Description: An alleged accomplice of a man who was convicted of stabbing and seriously wounding a Spanish tourist at Berlin’s Holocaust Memorial last year has been arrested in the German capital
+### ROBBERY/THEFT on 2026-05-27 15:18
+- Location: Dailymail.com
+- Description: A Jordanian fraud suspect has been arrested after he allegedly stole Johnny Depp's bank card and splashed out on £500,000 worth of items.
 
-Analysis generated at: Thu May 28 09:53:55 UTC 2026
+Analysis generated at: Thu May 28 15:37:30 UTC 2026
