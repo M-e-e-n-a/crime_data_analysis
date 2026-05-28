@@ -1,10 +1,10 @@
 
-Loaded 107363 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-26 20:00:00
+Loaded 107380 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-27 02:14:40
 
 Incidents by source:
 source
-newsapi           107262
+newsapi           107279
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,30 +20,32 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-05-26 20:00
-- Location: ComicBook.com
-- Description: Image courtesy of Walt Disney Television Animation
-
-The Disney Afternoon was a two-hour weekday syndication block produced by Walt Disney Television Animation and distributed through Buena Vista Television, which ran from September 10, 1990, to August 29, 199…
+### OTHER on 2026-05-27 02:14
+- Location: ABC News (AU)
+- Description: SA Police say they targeted 351 offenders as part of Operation Storm Days of Action, attending 443 addresses across the state in April.
 
 
-### OTHER on 2026-05-26 20:00
-- Location: Daily Signal
-- Description: Mark Twain is credited with saying, “History doesn’t repeat, but it rhymes.” Such is the case with several semi-related incidents in Virginia Beach. First, as I have testified to in earlier columns, not only was I there for what are called the “Unite the Righ…
+### HOMICIDE on 2026-05-27 02:14
+- Location: CNA
+- Description: The 21-year-old victim was found lying motionless at a lift lobby.
 
 
-### SHOOTING on 2026-05-26 19:56
+### OTHER on 2026-05-27 02:10
+- Location: The Punch
+- Description: As Nigeria celebrates Eid-el-Kabir, Borno State restricts movement while security agencies nationwide beef up operations to ensure peaceful festivities and
+
+Read More: https://punchng.com/borno-restricts-movement-security-beef-up-nationwide/
+
+
+### OTHER on 2026-05-27 02:03
 - Location: CBC News
-- Description: Three days after the February mass shooting in Tumbler Ridge, B.C., government officials warned Prime Minister Mark Carney that online sentiment was shifting from collective grief toward "emerging accountability narratives" — including questions about mental …
+- Description: Drivers caught speeding or breaking other rules of the road in Selkirk could soon be pulled over by a community safety officer.
 
 
-### OTHER on 2026-05-26 19:56
-- Location: Dailymail.com
-- Description: John Swinney has been accused of 'taking people for mugs' after launching another push for independence based on 'security' and 'prosperity' amid the SNP fraud scandal.
+### DRUG RELATED on 2026-05-27 01:37
+- Location: The Punch
+- Description: Umuahia South LGA in Abia State is collaborating with security agencies to combat drug abuse and insecurity, launching youth empowerment and vigilante prog
 
+Read More: https://punchng.com/abia-council-moves-against-drug-abuse-insecurity/
 
-### HOMICIDE on 2026-05-26 19:55
-- Location: Dailymail.com
-- Description: Tom* was a prison officer for 25 years and worked at HMP Long Lartin, one of Britain's most infamous prisons, for nearly a decade.
-
-Analysis generated at: Wed May 27 20:08:15 UTC 2026
+Analysis generated at: Thu May 28 02:37:33 UTC 2026
