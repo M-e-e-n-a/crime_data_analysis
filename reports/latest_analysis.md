@@ -1,10 +1,10 @@
 
-Loaded 107752 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-28 15:50:22
+Loaded 107818 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-28 20:11:34
 
 Incidents by source:
 source
-newsapi           107651
+newsapi           107717
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-05-28 15:50
-- Location: Advocate.com
-- Description: Dmitriy Popov testified that he acted in self-defense and denied using antigay slurs before fatally stabbing O'Shae Sibley in 2023.
+### OTHER on 2026-05-28 20:11
+- Location: The Conversation Africa
+- Description: New research has found why so many Australians no longer trust police. There are solutions, though.
 
 
-### HOMICIDE on 2026-05-28 15:44
-- Location: Freerepublic.com
-- Description: @HantsPolice Today, a man has been convicted of the murder of student Henry Nowak in Southampton. Throughout the trial, we have not discussed this case publicly to ensure that justice could be done but now we can share a message from DCC Robert France.
+### OTHER on 2026-05-28 20:10
+- Location: The Conversation Africa
+- Description: Almost all major human rights organisations agree the destruction of Gaza meets the legal definition of genocide. Yet liberal news outlets still do not use the word.
 
 
-### HOMICIDE on 2026-05-28 15:38
-- Location: Dailymail.com
-- Description: Michael Doherty, 38, left Courtney Angus, 21, with 76 injuries before taking indecent images of her and 'sexually humiliating her in every way he could imagine', a court heard.
+### HOMICIDE on 2026-05-28 20:01
+- Location: CBC News
+- Description: Leandra Beaulieu and Devlin O’Blenis are accused of second-degree murder in the death of a Moncton woman in February.
 
 
-### HOMICIDE on 2026-05-28 15:32
-- Location: Thefutoncritic.com
-- Description: Season two, which will again be set in the quaint Maine town of Founder's Cove, will also consist of six, hour-long episodes and go into production later this year.
+### OTHER on 2026-05-28 20:00
+- Location: Al Jazeera English
+- Description: Swiss authorities arrest suspect who had come to authorities' attention in 2015 for distributing ISIL propaganda.
 
 
-### OTHER on 2026-05-28 15:28
-- Location: The Hollywood Gossip
-- Description: Reading Time: 3 minutesShe and Jinger have been through this sort of family disgrace before. Is it different this time?
-Joy-Anna & Jinger Duggar Discuss Joseph’s Arrest Aftermath, But Are They … was originally published on The Hollywood Gossip.
+### OTHER on 2026-05-28 20:00
+- Location: Den of Geek US
+- Description: The nemesis of Oxford Yard’s resident detective is getting his own series. James Moriarty will receive his own modern retelling at the behest of Fremantle, producers of Poor Things, and Archery Productions, who produced Operation Mincemeat. The series is set …
 
-Analysis generated at: Fri May 29 15:52:05 UTC 2026
+Analysis generated at: Fri May 29 20:13:25 UTC 2026
