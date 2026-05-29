@@ -1,10 +1,10 @@
 
-Loaded 107616 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-28 02:22:56
+Loaded 107620 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-28 04:04:25
 
 Incidents by source:
 source
-newsapi           107515
+newsapi           107519
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,30 @@ ion.svg)
 
 ## Recent Incidents
 
+### HOMICIDE on 2026-05-28 04:04
+- Location: Freerepublic.com
+- Description: A Washington sheriff shocked the internet with a scathing comment on George Floyd just a day after the sixth anniversary of his murder. Pierce County Sheriff Keith Swank jumped on social media and declared that Floyd, who was murdered by a cop in May 2020, wo…
+
+
+### OTHER on 2026-05-28 04:00
+- Location: Americanthinker.com
+- Description: Photo Credit:Bedřich Fritta, Public domain, via Wikimedia Commons
+ 
+ Public DomainThe post-Holocaust trials provided rare insights into the depths of human evil: A study of Amon Göth and Oskar Schindler.
+
+
+### OTHER on 2026-05-28 03:53
+- Location: ABC News (AU)
+- Description: Crime and Corruption Commission chair Bruce Barbour has told a parliamentary inquiry the Queensland Police Service has systemic issues with handling complaints.
+
+
+### OTHER on 2026-05-28 02:50
+- Location: New York Post
+- Description: Zohran Mamdani’s promise to seize the properties of landlords he deems unworthy should send a chill down the spine of every New Yorker.
+
+
 ### HOMICIDE on 2026-05-28 02:22
 - Location: Dailymail.com
 - Description: Richard Babos, 36, from Bundaberg West, has been charged with murder, attempted murder and other offences following his alleged crime spree on the Fraser Coast on Wednesday.
 
-
-### HOMICIDE on 2026-05-28 02:22
-- Location: The Times of India
-- Description: Twisha Sharma death case: The Madhya Pradesh High Court has cancelled the anticipatory bail of former judge Giribala Singh. This decision relates to the death of Twisha Sharma. The court's order quashed the bail granted earlier by a sessions court. Twisha Sha…
-
-
-### HOMICIDE on 2026-05-28 02:11
-- Location: Israelnationalnews.com
-- Description: Austrian court sentences an ISIS-aligned Syrian refugee to life for a deadly 2025 knife attack.
-
-
-### HOMICIDE on 2026-05-28 02:09
-- Location: Dailymail.com
-- Description: A raging house fire that left a man dead and his wife severely injured in Michigan may have been sparked by the husband in a twisted murder-suicide attempt, cops believe.
-
-
-### HOMICIDE on 2026-05-28 02:03
-- Location: CBC News
-- Description: A man serving a life sentence for the killing of a Winnipeg woman is not being allowed to attend religious services outside prison under escort.
-
-Analysis generated at: Fri May 29 02:41:34 UTC 2026
+Analysis generated at: Fri May 29 04:05:44 UTC 2026
