@@ -1,10 +1,10 @@
 
-Loaded 107620 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-28 04:04:25
+Loaded 107667 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-28 09:40:00
 
 Incidents by source:
 source
-newsapi           107519
+newsapi           107566
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,30 +20,33 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-05-28 04:04
-- Location: Freerepublic.com
-- Description: A Washington sheriff shocked the internet with a scathing comment on George Floyd just a day after the sixth anniversary of his murder. Pierce County Sheriff Keith Swank jumped on social media and declared that Floyd, who was murdered by a cop in May 2020, wo…
+### OTHER on 2026-05-28 09:40
+- Location: Slate Magazine
+- Description: There have been many negative reactions to the $1.8 billion slush fund, but perhaps the most illuminating is from the people hoping to access it.
 
 
-### OTHER on 2026-05-28 04:00
-- Location: Americanthinker.com
-- Description: Photo Credit:Bedřich Fritta, Public domain, via Wikimedia Commons
- 
- Public DomainThe post-Holocaust trials provided rare insights into the depths of human evil: A study of Amon Göth and Oskar Schindler.
+### OTHER on 2026-05-28 09:30
+- Location: The American Prospect
+- Description: The seeds of an authoritarian state will still be there unless the United States reckons with its own fascist past and how that relates to Stephen Miller’s vision for the future.
+The post Abolishing ICE Is a Start appeared first on The American Prospect.
 
 
-### OTHER on 2026-05-28 03:53
-- Location: ABC News (AU)
-- Description: Crime and Corruption Commission chair Bruce Barbour has told a parliamentary inquiry the Queensland Police Service has systemic issues with handling complaints.
+### OTHER on 2026-05-28 09:29
+- Location: Christiantoday.com
+- Description: In 2023 the Colombian government withdrew special protections for religious leaders, leaving them increasingly exposed to the rising tide of violence in the country. These must be restored.
 
 
-### OTHER on 2026-05-28 02:50
-- Location: New York Post
-- Description: Zohran Mamdani’s promise to seize the properties of landlords he deems unworthy should send a chill down the spine of every New Yorker.
+### HOMICIDE on 2026-05-28 09:22
+- Location: The Punch
+- Description: Tragedy strikes Utumishi Girls Academy in Kenya as a dormitory fire claims 16 lives and hospitalizes 73. Learn more about the devastating Kenya school fire
+
+Read More: https://punchng.com/fire-in-kenya-girls-school-dorm-kills-16/
 
 
-### HOMICIDE on 2026-05-28 02:22
-- Location: Dailymail.com
-- Description: Richard Babos, 36, from Bundaberg West, has been charged with murder, attempted murder and other offences following his alleged crime spree on the Fraser Coast on Wednesday.
+### SHOOTING on 2026-05-28 09:08
+- Location: The Punch
+- Description: Ogun State Police Command deploys over 2,500 personnel to ensure security at the 2026 Ojude Oba festival in Ijebu Ode. Learn about the security measures.
 
-Analysis generated at: Fri May 29 04:05:44 UTC 2026
+Read More: https://punchng.com/police-deploy-2500-personnel-for-ojude-oba-festival-in-ogun/
+
+Analysis generated at: Fri May 29 09:43:39 UTC 2026
