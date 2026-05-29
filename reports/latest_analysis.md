@@ -1,10 +1,10 @@
 
-Loaded 107667 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-28 09:40:00
+Loaded 107736 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-28 14:13:37
 
 Incidents by source:
 source
-newsapi           107566
+newsapi           107635
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,33 +20,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-05-28 09:40
-- Location: Slate Magazine
-- Description: There have been many negative reactions to the $1.8 billion slush fund, but perhaps the most illuminating is from the people hoping to access it.
+### HOMICIDE on 2026-05-28 14:13
+- Location: Dailymail.com
+- Description: Vikrum Digwa, 23, attacked stranger Henry Nowak, 18, with an eight-inch ceremonial blade before telling the first officers on the scene that he had been the victim of racist abuse
 
 
-### OTHER on 2026-05-28 09:30
-- Location: The American Prospect
-- Description: The seeds of an authoritarian state will still be there unless the United States reckons with its own fascist past and how that relates to Stephen Miller’s vision for the future.
-The post Abolishing ICE Is a Start appeared first on The American Prospect.
+### OTHER on 2026-05-28 14:12
+- Location: CBS News
+- Description: Some residents who live in the area said their greatest fear is a repeat of the Palisades Fire, when people abandoned their cars, which blocked fire trucks from getting to burning homes.
 
 
-### OTHER on 2026-05-28 09:29
-- Location: Christiantoday.com
-- Description: In 2023 the Colombian government withdrew special protections for religious leaders, leaving them increasingly exposed to the rising tide of violence in the country. These must be restored.
+### ROBBERY/THEFT on 2026-05-28 14:02
+- Location: Dailymail.com
+- Description: John Sw inney, the Scottish First Minister, this week saw MSPs back an SNP motion demanding the UK Government hand over powers to enable a fresh independence vote.
 
 
-### HOMICIDE on 2026-05-28 09:22
-- Location: The Punch
-- Description: Tragedy strikes Utumishi Girls Academy in Kenya as a dormitory fire claims 16 lives and hospitalizes 73. Learn more about the devastating Kenya school fire
+### ASSAULT on 2026-05-28 14:00
+- Location: Legalinsurrection.com
+- Description: “Preliminary information indicates the suspect … was driving on Broadway when he stopped in traffic and began yelling threats at two people crossing the street.”
+The post Jewish Couple Attacked With Baseball Bat and Dog in Santa Monica by Man Screaming ‘Genoc…
 
-Read More: https://punchng.com/fire-in-kenya-girls-school-dorm-kills-16/
 
+### HOMICIDE on 2026-05-28 14:00
+- Location: Gossiplankanews.com
+- Description: A well-known businessman in the area was killed in an armed shooting that took place this morning (28) in the Wettumakada Muslim Mosque Road area, Kalutara South. The crime occurred around 8:59 AM, and although steps were taken to admit the victim, who sustai…
 
-### SHOOTING on 2026-05-28 09:08
-- Location: The Punch
-- Description: Ogun State Police Command deploys over 2,500 personnel to ensure security at the 2026 Ojude Oba festival in Ijebu Ode. Learn about the security measures.
-
-Read More: https://punchng.com/police-deploy-2500-personnel-for-ojude-oba-festival-in-ogun/
-
-Analysis generated at: Fri May 29 09:43:39 UTC 2026
+Analysis generated at: Fri May 29 14:50:12 UTC 2026
