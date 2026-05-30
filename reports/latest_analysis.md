@@ -1,10 +1,10 @@
 
-Loaded 107847 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-29 02:21:37
+Loaded 107855 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-29 03:19:24
 
 Incidents by source:
 source
-newsapi           107746
+newsapi           107754
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-05-29 02:21
-- Location: Dailymail.com
-- Description: A plea deal may see Vincent Llamas, 18, dodge jail after plotting a mass shooting to 'kill all normies' in Las Vegas.
+### HOMICIDE on 2026-05-29 03:19
+- Location: CBC News
+- Description: A 44-year-old man is facing second-degree number charges after a body was found near a burning vehicle at a self-storage compound in Carman, Man., earlier this week.
 
 
-### HOMICIDE on 2026-05-29 02:20
-- Location: The Times of India
-- Description: A month after being presumed dead, Shivani shocked everyone by walking into a police station alive and well. Her father and brother had been behind bars, suspected of her murder. Shivani's sudden appearance put a spotlight on her choice to leave with a region…
+### OTHER on 2026-05-29 03:12
+- Location: CNA
+- Description: A forensic examination of the man's mobile phone uncovered numerous obscene voyeuristic videos.
 
 
-### DRUG RELATED on 2026-05-29 02:17
-- Location: Fox News
-- Description: The State Department designates Brazil's Red Command and PCC as global terrorists, with foreign terrorist organization status effective June 5.
+### HOMICIDE on 2026-05-29 03:11
+- Location: New York Post
+- Description: A Los Angeles man is facing murder and child abuse charges after allegedly killing his girlfriend and fleeing to Mexico with their 5-year-old daughter, authorities said. Ruben Fregosojuarez, 40, has been charged with one count of murder and one count of child…
 
 
-### OTHER on 2026-05-29 02:04
-- Location: The Times of India
-- Description: This week's OTT releases offer a diverse platter, from Tamil thrillers like Kara and Leader to Malayalam family drama Cousins & Kalyanams. Sports fans can delve into Rafael Nadal's life with Rafa, while Jolly LLB 3 promises courtroom comedy. Plus, Spider-Noir…
+### OTHER on 2026-05-29 03:08
+- Location: BusinessLine
+- Description: An annual United Nations report documenting sexual violence in conflicts worldwide has included Israeli forces for the first time since the review began more than 15 years ago for their treatment of Palestinian detainees. Israel denies the accusations.
 
 
-### HOMICIDE on 2026-05-29 02:03
-- Location: Dailymail.com
-- Description: GRAPHIC CONTENT WARNING Randy Santos, 31, had been convicted of four counts of murder in the first degree in February.
+### OTHER on 2026-05-29 03:01
+- Location: Anime News Network
+- Description: The Classic Racing Icon Returns in a 152-page Hardcover Collection, Fueled by Speed and Street-Level Survival MAY 28, 2026 (PORTLAND, OR) — Flash the flags...
 
-Analysis generated at: Sat May 30 02:35:01 UTC 2026
+Analysis generated at: Sat May 30 03:53:11 UTC 2026
