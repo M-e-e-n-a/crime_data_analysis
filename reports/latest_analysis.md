@@ -1,10 +1,10 @@
 
-Loaded 107949 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-29 13:13:57
+Loaded 107954 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-29 13:38:08
 
 Incidents by source:
 source
-newsapi           107848
+newsapi           107853
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-05-29 13:13
+### HOMICIDE on 2026-05-29 13:38
+- Location: Freerepublic.com
+- Description: A man has been arrested by police in San Antonio for allegedly making multiple death threats against Turning Point USA CEO Erika Kirk as she prepares to host an all-female event in the Texas city next weekend. Jacob Wenske, 26, was arrested Thursday morning a…
+
+
+### OTHER on 2026-05-29 13:35
 - Location: Dailymail.com
-- Description: José Antonio Rosa was dealt the devastating news while sitting inside a police cruiser after his son Derek, 15, murdered his own mother Irina Garcia in October of 2023 .
+- Description: A suspected sovereign citizen has been arrested after allegedly ramming a ute into a country NSW police station.
 
 
-### OTHER on 2026-05-29 13:04
-- Location: The Times of India
-- Description: Today show anchor Savannah Guthrie has spent over $500,000 on private investigators. She is searching for her mother, Nancy, who was abducted months ago. Guthrie feels the official investigation is not enough. She has hired an independent team of experts. Thi…
-
-
-### HOMICIDE on 2026-05-29 13:02
-- Location: Dailymail.com
-- Description: Ukrainian Yurii Muzyka, 34, stabbed 29-year-old Halyna Hoisan (pictured) at her apartment in Tyler Street, Greenwich, London, on the evening of August 27 last year.
-
-
-### HOMICIDE on 2026-05-29 13:01
+### OTHER on 2026-05-29 13:31
 - Location: CBC News
-- Description: Beatrice Penashue has been identified as the woman who was killed in Sheshatshiu this week, in an alleged murder by her partner.
+- Description: None
 
 
-### HOMICIDE on 2026-05-29 12:58
-- Location: Dailymail.com
-- Description: Scaffolder Theo (James Cartwright), who was Todd Grimshaw's (Gareth Pierce) evil husband, was killed in a whodunnit storyline earlier this month.
+### OTHER on 2026-05-29 13:30
+- Location: BBC News
+- Description: British sprinter and Olympian CJ Ujah is among 10 people accused of playing a part in an alleged cryptocurrency fraud, a court hears.
 
-Analysis generated at: Sat May 30 13:16:04 UTC 2026
+
+### SHOOTING on 2026-05-29 13:17
+- Location: The Daily Caller
+- Description: An eighth prosecutor in Virginia has announced that the state’s recently-enacted ban on so-called “assault weapons” is unconstitutional and he won’t enforce it.
+
+Analysis generated at: Sat May 30 13:50:32 UTC 2026
