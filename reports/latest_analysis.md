@@ -1,10 +1,10 @@
 
-Loaded 107887 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-29 08:14:33
+Loaded 107949 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-29 13:13:57
 
 Incidents by source:
 source
-newsapi           107786
+newsapi           107848
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-05-29 08:14
-- Location: ABC News (AU)
-- Description: Tim Nicholls has ordered an investigation to examine the interactions between an alleged violent offender and the health system after the death of a man in Childers.
+### HOMICIDE on 2026-05-29 13:13
+- Location: Dailymail.com
+- Description: José Antonio Rosa was dealt the devastating news while sitting inside a police cruiser after his son Derek, 15, murdered his own mother Irina Garcia in October of 2023 .
 
 
-### OTHER on 2026-05-29 08:00
+### OTHER on 2026-05-29 13:04
+- Location: The Times of India
+- Description: Today show anchor Savannah Guthrie has spent over $500,000 on private investigators. She is searching for her mother, Nancy, who was abducted months ago. Guthrie feels the official investigation is not enough. She has hired an independent team of experts. Thi…
+
+
+### HOMICIDE on 2026-05-29 13:02
+- Location: Dailymail.com
+- Description: Ukrainian Yurii Muzyka, 34, stabbed 29-year-old Halyna Hoisan (pictured) at her apartment in Tyler Street, Greenwich, London, on the evening of August 27 last year.
+
+
+### HOMICIDE on 2026-05-29 13:01
 - Location: CBC News
-- Description: A new era of the Satan's Choice outlaw motorcycle gang is picking up steam across Ontario as numbers grow, say police, adding that membership is fluid and hard to monitor.
+- Description: Beatrice Penashue has been identified as the woman who was killed in Sheshatshiu this week, in an alleged murder by her partner.
 
 
-### HOMICIDE on 2026-05-29 07:45
+### HOMICIDE on 2026-05-29 12:58
 - Location: Dailymail.com
-- Description: The Supreme Court of Victoria on Friday confirmed that a date for the appeal hearing had been set down to be held over two days
+- Description: Scaffolder Theo (James Cartwright), who was Todd Grimshaw's (Gareth Pierce) evil husband, was killed in a whodunnit storyline earlier this month.
 
-
-### HOMICIDE on 2026-05-29 07:33
-- Location: Dailymail.com
-- Description: Shanice Brookes, 30, died after being shot outside One Four One bar in the city centre after a confrontation in which she was not involved.
-
-
-### OTHER on 2026-05-29 07:25
-- Location: Makezine.com
-- Description: The inaugural Maker Faire Caserta gets right to the point with its opening statement: The Made in Italy Core of Innovation and Digital Craftsmanship Meet in the Heart of Campania. The event, which starts Saturday, May 30th and runs through the weekend in the …
-
-Analysis generated at: Sat May 30 08:22:46 UTC 2026
+Analysis generated at: Sat May 30 13:16:04 UTC 2026
