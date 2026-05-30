@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat May 30 13:50:32 UTC 2026
+Last updated: Sat May 30 19:05:42 UTC 2026
 
 ## Latest Analysis
 
-Loaded 107954 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-29 13:38:08
+Loaded 108049 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-29 19:03:27
 
 Incidents by source:
 source
-newsapi           107853
+newsapi           107948
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-05-29 13:38
-- Location: Freerepublic.com
-- Description: A man has been arrested by police in San Antonio for allegedly making multiple death threats against Turning Point USA CEO Erika Kirk as she prepares to host an all-female event in the Texas city next weekend. Jacob Wenske, 26, was arrested Thursday morning a…
+### HOMICIDE on 2026-05-29 19:03
+- Location: The Times of India
+- Description: Chennai: 75-year-old man killed by son-in-law in Tiruvallur village after dowry dispute; police register murder case and search for absconding accused.
 
 
-### OTHER on 2026-05-29 13:35
-- Location: Dailymail.com
-- Description: A suspected sovereign citizen has been arrested after allegedly ramming a ute into a country NSW police station.
+### ASSAULT on 2026-05-29 19:00
+- Location: ABC News (AU)
+- Description: For now, Australians seeking to understand any intelligence gaps, failures, missed warnings and government failings before the Bondi massacre are expected to accept a keyhole view.
 
 
-### OTHER on 2026-05-29 13:31
-- Location: CBC News
-- Description: None
+### ASSAULT on 2026-05-29 18:59
+- Location: Fox News
+- Description: A Salvadoran national with 14 criminal charges in 2025 allegedly committed sexual assault in Virginia after an ICE detainer was reportedly denied.
 
 
-### OTHER on 2026-05-29 13:30
-- Location: BBC News
-- Description: British sprinter and Olympian CJ Ujah is among 10 people accused of playing a part in an alleged cryptocurrency fraud, a court hears.
+### HOMICIDE on 2026-05-29 18:54
+- Location: The Times of India
+- Description: A British Sikh man was convicted of murder using a kirpan, sparking calls to ban the ceremonial dagger in public. Accusations of two-tier policing arose after officers handcuffed the dying victim, believing a false claim of racial abuse. The victim's mother w…
 
 
-### SHOOTING on 2026-05-29 13:17
-- Location: The Daily Caller
-- Description: An eighth prosecutor in Virginia has announced that the state’s recently-enacted ban on so-called “assault weapons” is unconstitutional and he won’t enforce it.
+### HOMICIDE on 2026-05-29 18:51
+- Location: Breitbart News
+- Description: Raucous and violent anti-immigration-enforcement demonstrations continued at a New Jersey Immigration and Customs Enforcement (ICE) detention center Thursday night, resulting in the arrest of nine people who allegedly bit, kicked, and punched officers while o…
 
-Analysis generated at: Sat May 30 13:50:32 UTC 2026
+Analysis generated at: Sat May 30 19:05:42 UTC 2026
