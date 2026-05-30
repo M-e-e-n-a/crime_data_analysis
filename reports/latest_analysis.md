@@ -1,10 +1,10 @@
 
-Loaded 107855 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-29 03:19:24
+Loaded 107887 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-29 08:14:33
 
 Incidents by source:
 source
-newsapi           107754
+newsapi           107786
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-05-29 03:19
+### HOMICIDE on 2026-05-29 08:14
+- Location: ABC News (AU)
+- Description: Tim Nicholls has ordered an investigation to examine the interactions between an alleged violent offender and the health system after the death of a man in Childers.
+
+
+### OTHER on 2026-05-29 08:00
 - Location: CBC News
-- Description: A 44-year-old man is facing second-degree number charges after a body was found near a burning vehicle at a self-storage compound in Carman, Man., earlier this week.
+- Description: A new era of the Satan's Choice outlaw motorcycle gang is picking up steam across Ontario as numbers grow, say police, adding that membership is fluid and hard to monitor.
 
 
-### OTHER on 2026-05-29 03:12
-- Location: CNA
-- Description: A forensic examination of the man's mobile phone uncovered numerous obscene voyeuristic videos.
+### HOMICIDE on 2026-05-29 07:45
+- Location: Dailymail.com
+- Description: The Supreme Court of Victoria on Friday confirmed that a date for the appeal hearing had been set down to be held over two days
 
 
-### HOMICIDE on 2026-05-29 03:11
-- Location: New York Post
-- Description: A Los Angeles man is facing murder and child abuse charges after allegedly killing his girlfriend and fleeing to Mexico with their 5-year-old daughter, authorities said. Ruben Fregosojuarez, 40, has been charged with one count of murder and one count of child…
+### HOMICIDE on 2026-05-29 07:33
+- Location: Dailymail.com
+- Description: Shanice Brookes, 30, died after being shot outside One Four One bar in the city centre after a confrontation in which she was not involved.
 
 
-### OTHER on 2026-05-29 03:08
-- Location: BusinessLine
-- Description: An annual United Nations report documenting sexual violence in conflicts worldwide has included Israeli forces for the first time since the review began more than 15 years ago for their treatment of Palestinian detainees. Israel denies the accusations.
+### OTHER on 2026-05-29 07:25
+- Location: Makezine.com
+- Description: The inaugural Maker Faire Caserta gets right to the point with its opening statement: The Made in Italy Core of Innovation and Digital Craftsmanship Meet in the Heart of Campania. The event, which starts Saturday, May 30th and runs through the weekend in the …
 
-
-### OTHER on 2026-05-29 03:01
-- Location: Anime News Network
-- Description: The Classic Racing Icon Returns in a 152-page Hardcover Collection, Fueled by Speed and Street-Level Survival MAY 28, 2026 (PORTLAND, OR) — Flash the flags...
-
-Analysis generated at: Sat May 30 03:53:11 UTC 2026
+Analysis generated at: Sat May 30 08:22:46 UTC 2026
