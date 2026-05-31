@@ -1,10 +1,10 @@
 
-Loaded 108119 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-30 13:37:09
+Loaded 108188 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-30 19:06:24
 
 Incidents by source:
 source
-newsapi           108018
+newsapi           108087
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-05-30 13:37
-- Location: Bleeding Cool News
-- Description: It was only a few short weeks ago when NBC announced that the pilot for the David Boreanaz (Buffy the Vampire Slayer, Angel, Bones)-starring reboot of The Rockford Files had been given a series green light for the 2026-2027 season, ahead of NBCUniversal's big…
+### ASSAULT on 2026-05-30 19:06
+- Location: ABC News (AU)
+- Description: The family of a woman brutally assaulted by police in Sydney has fought to have body-worn camera vision released, in the hope officers will be better trained in responding to acute mental health situations.
 
 
-### OTHER on 2026-05-30 13:36
-- Location: LADbible
-- Description: Marius Gustavson was sentenced to 22 years in prison
+### HOMICIDE on 2026-05-30 19:00
+- Location: The Times of India
+- Description: Decomposed body of missing Mandideep man Rajesh Rai found near Gyarah Meel Bypass, Bhopal; scooter missing, injuries noted, police probe murder or accident.
 
 
-### OTHER on 2026-05-30 13:32
-- Location: TheJournal.ie
-- Description: Yevgen McKeeffe (45), originally from Ukraine but with Irish citizenship, appeared at Dublin District Court on Saturday and was refused bail by Judge Máire Conneely.
-
-
-### OTHER on 2026-05-30 12:45
+### OTHER on 2026-05-30 19:00
 - Location: New York Post
-- Description: The World Cup is bringing the world's best soccer players to the New York area -- and sex workers are scrambling to score.
+- Description: It’s not surprising that federal agents would find an armed gangster at MacArthur Park. What is shocking — perhaps — is learning that he’s on the city payroll as a “Peace Ambassador.”
 
 
-### HOMICIDE on 2026-05-30 12:44
-- Location: CBC News
-- Description: A man in his 20s has died after a shooting in North York on Friday night, police said.
+### OTHER on 2026-05-30 18:55
+- Location: The Daily Caller
+- Description: A federal appeals court on Friday cleared Texas to enforce Senate Bill 4, allowing state police to arrest people suspected of crossing the border illegally.
 
-Analysis generated at: Sun May 31 13:56:14 UTC 2026
+
+### ASSAULT on 2026-05-30 18:52
+- Location: Dailymail.com
+- Description: Six teenagers have been arrested after a pensioner was left with serious facial injuries following a 'racially aggravated' attack at Willenhall Memorial Park, near Walsall, West Midlands, last Sunday.
+
+Analysis generated at: Sun May 31 19:08:36 UTC 2026
