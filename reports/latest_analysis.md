@@ -1,10 +1,10 @@
 
-Loaded 108049 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-29 19:03:27
+Loaded 108068 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-30 02:48:31
 
 Incidents by source:
 source
-newsapi           107948
+newsapi           107967
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-05-29 19:03
-- Location: The Times of India
-- Description: Chennai: 75-year-old man killed by son-in-law in Tiruvallur village after dowry dispute; police register murder case and search for absconding accused.
-
-
-### ASSAULT on 2026-05-29 19:00
+### HOMICIDE on 2026-05-30 02:48
 - Location: ABC News (AU)
-- Description: For now, Australians seeking to understand any intelligence gaps, failures, missed warnings and government failings before the Bondi massacre are expected to accept a keyhole view.
+- Description: The families of two Queensland police officers shot dead by extremists in 2022 say they feel "deeply let down" after learning through a public real estate listing the property had been sold to a private buyer.
 
 
-### ASSAULT on 2026-05-29 18:59
+### HOMICIDE on 2026-05-30 02:23
+- Location: Abcnews.com
+- Description: Residents of Hawaii's remote and eclectic Puna district are grappling with the shocking killings of three men who were drawn to the area for its off-grid and laid-back lifestyle
+
+
+### ROBBERY/THEFT on 2026-05-30 02:18
+- Location: New York Post
+- Description: A homeless man allegedly terrorized multiple female UCLA students in a late-night crime spree that included accusations of attempted kidnapping, sexual battery and robbery before he was finally tracked down and arrested by campus police, authorities said. Olu…
+
+
+### HOMICIDE on 2026-05-30 01:55
 - Location: Fox News
-- Description: A Salvadoran national with 14 criminal charges in 2025 allegedly committed sexual assault in Virginia after an ICE detainer was reportedly denied.
+- Description: Acting AG Todd Blanche says the FBI arrested a man who made death threats against an ICE officer and his family at a Newark, New Jersey protest.
 
 
-### HOMICIDE on 2026-05-29 18:54
-- Location: The Times of India
-- Description: A British Sikh man was convicted of murder using a kirpan, sparking calls to ban the ceremonial dagger in public. Accusations of two-tier policing arose after officers handcuffed the dying victim, believing a false claim of racial abuse. The victim's mother w…
+### OTHER on 2026-05-30 01:37
+- Location: Crypto Briefing
+- Description: Britain's political climate reveals a growing disconnect between reality and public discourse, urging urgent institutional reform.
+The post Frank Wright: Political dissenters are labeled extremists, mainstream media excludes ordinary voices, and societal inst…
 
-
-### HOMICIDE on 2026-05-29 18:51
-- Location: Breitbart News
-- Description: Raucous and violent anti-immigration-enforcement demonstrations continued at a New Jersey Immigration and Customs Enforcement (ICE) detention center Thursday night, resulting in the arrest of nine people who allegedly bit, kicked, and punched officers while o…
-
-Analysis generated at: Sat May 30 19:05:42 UTC 2026
+Analysis generated at: Sun May 31 02:52:44 UTC 2026
