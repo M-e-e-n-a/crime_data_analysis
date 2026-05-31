@@ -1,10 +1,10 @@
 
-Loaded 108089 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-30 08:14:03
+Loaded 108116 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-30 12:45:00
 
 Incidents by source:
 source
-newsapi           107988
+newsapi           108015
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-05-30 08:14
-- Location: Dailymail.com
-- Description: Maree Mavis Crabtree, 59, was found not guilty on May 11 of killing her son Jonathan, 26, after his body was discovered in their Gold Coast home in 2017.
+### OTHER on 2026-05-30 12:45
+- Location: New York Post
+- Description: The World Cup is bringing the world's best soccer players to the New York area -- and sex workers are scrambling to score.
 
 
-### OTHER on 2026-05-30 08:00
-- Location: The-independent.com
-- Description: Our community are infuriated by the notion of ‘himpathy’ – the idea that male perpetrators of sexual violence receive disproportionate sympathy – with readers arguing that rape sentencing doesn’t do enough to address the lasting trauma of female victims
+### HOMICIDE on 2026-05-30 12:44
+- Location: CBC News
+- Description: A man in his 20s has died after a shooting in North York on Friday night, police said.
 
 
-### OTHER on 2026-05-30 07:43
-- Location: Dailymail.com
-- Description: A woman has been charged with possessing child abuse material after an incident at a Canberra business.
+### OTHER on 2026-05-30 12:42
+- Location: Breitbart News
+- Description: Reform UK leader Nigel Farage has been referred for potential prosecution over his public critiques of the British justice system amid the controversial Manchester Airport trial.
+The post Farage Referred for Potential Prosecution over Manchester Airport Comme…
 
 
-### HOMICIDE on 2026-05-30 07:41
-- Location: The Indian Express
-- Description: Jyoti Devi returned from a routine day at work to find her teenage sons dead at their Jammu home. Who killed them?
+### OTHER on 2026-05-30 12:07
+- Location: London Review of Books
+- Description: In the Central Pavilion at the Venice Biennale, I got into an argument with an Israeli woman who was tearing down Art Not Genocide Alliance signs from...
 
 
-### HOMICIDE on 2026-05-30 07:26
-- Location: Japan Today
-- Description: Police in Japan have placed a 48-year-old man on an international wanted list over a robbery-murder that took place in in Kaminokawa, Tochigi Prefecture, earlier this month. According to police, Kazuhiko Masuda, whose occupation and address are unknown, is ac…
+### OTHER on 2026-05-30 12:00
+- Location: Fox News
+- Description: Amid renewed attention from Netflix’s "The Crash," Mackenzie Shirilla's attorneys are asking the Ohio Supreme Court to review whether her post-conviction claims deserve a hearing.
 
-Analysis generated at: Sun May 31 08:39:20 UTC 2026
+Analysis generated at: Sun May 31 13:25:06 UTC 2026
