@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Jun  1 04:46:03 UTC 2026
+Last updated: Mon Jun  1 11:20:55 UTC 2026
 
 ## Latest Analysis
 
-Loaded 108222 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-31 04:36:01
+Loaded 108255 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-31 11:17:05
 
 Incidents by source:
 source
-newsapi           108121
+newsapi           108154
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2026-05-31 04:36
-- Location: Freerepublic.com
-- Description: When the accusation is sexual assault or rape, the rights of the accused go out the window. Prosecutors and plaintiffs' lawyers in civil cases drag in character assassins who know nothing about the alleged assault but instead make their own claims -- without …
+### HOMICIDE on 2026-05-31 11:17
+- Location: BBC News
+- Description: The body of a man was found inside a van by officers on 17 May, Leicestershire Police says.
 
 
-### HOMICIDE on 2026-05-31 04:26
-- Location: The Times of India
-- Description: Ghaziabad News: The main accused in the Ghaziabad ‘Bakrid invite’ murder case, Asad, was killed in a police encounter late on Saturday night. He was wanted in connection with the fatal stabbing of 17-year-old Surya Pratap following an argument. Police said As…
+### ROBBERY/THEFT on 2026-05-31 11:11
+- Location: Crypto Briefing
+- Description: Argentina's crackdown highlights the need for robust crypto regulations to protect investors and ensure sustainable enforcement against fraud.
+The post Argentine authorities arrest 24, seize over $8M in crypto during crackdown appeared first on Crypto Briefin…
 
 
-### HOMICIDE on 2026-05-31 04:14
+### OTHER on 2026-05-31 11:07
 - Location: Dailymail.com
-- Description: Police allege that Corey Wardle, 36, used an accelerant to set fire to Ben Beaumont and Michelle Liddle's family home on Saturday, six years after their son was stabbed to death.
+- Description: The claim, dating back almost a quarter of a century, is now being examined by detectives as part of a much wider investigation into Andrew.
 
 
-### HOMICIDE on 2026-05-31 04:06
-- Location: New York Post
-- Description: Two women were stabbed to death in Park Slope on Saturday night at the same location where a murder-suicide occurred two years ago, according to police.
+### HOMICIDE on 2026-05-31 11:04
+- Location: Dailymail.com
+- Description: When former US Air Force intelligence officer David Grusch gave evidence to the US Congress about the existence of UFOs, one question sent a deep chill through the room.
 
 
-### HOMICIDE on 2026-05-31 04:06
-- Location: Juancole.com
-- Description: The IDF engaged in “medicide” namely, the targeted destruction of Gaza’s healthcare system and the killing of more than 1,500 healthcare workers<
+### OTHER on 2026-05-31 11:00
+- Location: Forbes
+- Description: The fund is broadly unpopular among both parties—a majority of Republicans in an Economist/YouGov survey released this week said they oppose it.
 
-Analysis generated at: Mon Jun  1 04:46:03 UTC 2026
+Analysis generated at: Mon Jun  1 11:20:55 UTC 2026
