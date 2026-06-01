@@ -1,10 +1,10 @@
 
-Loaded 108310 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-31 17:41:03
+Loaded 108350 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-31 21:24:24
 
 Incidents by source:
 source
-newsapi           108209
+newsapi           108249
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,32 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-05-31 17:41
-- Location: The Irish Times
-- Description: Attempted murder investigation has been launched following incident in Co Down on Sunday morning
+### OTHER on 2026-05-31 21:24
+- Location: Japan Today
+- Description: A huge crowd of supporters gathered peacefully near the Eiffel Tower on Sunday to celebrate Paris Saint-Germain's second Champions League title victory, which was marred by violent clashes overnight across France and led police to detain hundreds of people.  …
 
 
-### ASSAULT on 2026-05-31 17:25
-- Location: The Punch
-- Description: Bauchi police arrest two suspected thugs linked to an attack on a PDP governorship affirmation event. Investigation ongoing into the Bauchi PDP attack.
-
-Read More: https://punchng.com/police-arrest-two-thugs-over-attack-at-bauchi-pdp-event/
+### SHOOTING on 2026-05-31 21:14
+- Location: Abcnews.com
+- Description: As the search continued on Sunday for a man who allegedly shot two Virginia sheriff's deputies, one fatally.
 
 
-### SHOOTING on 2026-05-31 17:25
+### OTHER on 2026-05-31 20:58
 - Location: Dailymail.com
-- Description: As a press photographer over the last 25 years, I've had a grand old time shooting some of the most well-known figures in the world. These are some of my favorites.
+- Description: The head of a new police AI hub due to open within days has said the technology could transform detective work
 
 
-### OTHER on 2026-05-31 17:22
-- Location: The Punch
-- Description: The Inspector-General of Police cautions against indiscriminate recording and circulation of police videos, urging responsible public engagement to avoid u
-
-Read More: https://punchng.com/ig-warns-against-indiscriminate-recording-circulation-of-police-videos/
+### OTHER on 2026-05-31 20:56
+- Location: Torrentfreak.com
+- Description: Twenty years ago today, dozens of Swedish police officers stormed a Stockholm data center, seizing The Pirate Bay's servers. The entertainment industry hoped the raid would finish the site for good. Instead, the police action inadvertently helped to create on…
 
 
-### HOMICIDE on 2026-05-31 17:00
-- Location: CNN
-- Description: Authorities in Hawaii have charged a 36-year-old man with murder in the killings of three people in a remote community known for its eclectic, communal lifestyle.
+### HOMICIDE on 2026-05-31 20:54
+- Location: Fox News
+- Description: Scott Peterson's lawyer claims new evidence could force another look at his murder conviction, ahead of a summer documentary about the high-profile case.
 
-Analysis generated at: Mon Jun  1 17:52:16 UTC 2026
+Analysis generated at: Mon Jun  1 21:26:33 UTC 2026
