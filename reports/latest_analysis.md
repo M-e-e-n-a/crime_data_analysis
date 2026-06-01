@@ -1,10 +1,10 @@
 
-Loaded 108255 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-31 11:17:05
+Loaded 108309 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-31 17:25:32
 
 Incidents by source:
 source
-newsapi           108154
+newsapi           108208
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,29 +20,32 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-05-31 11:17
-- Location: BBC News
-- Description: The body of a man was found inside a van by officers on 17 May, Leicestershire Police says.
+### ASSAULT on 2026-05-31 17:25
+- Location: The Punch
+- Description: Bauchi police arrest two suspected thugs linked to an attack on a PDP governorship affirmation event. Investigation ongoing into the Bauchi PDP attack.
+
+Read More: https://punchng.com/police-arrest-two-thugs-over-attack-at-bauchi-pdp-event/
 
 
-### ROBBERY/THEFT on 2026-05-31 11:11
-- Location: Crypto Briefing
-- Description: Argentina's crackdown highlights the need for robust crypto regulations to protect investors and ensure sustainable enforcement against fraud.
-The post Argentine authorities arrest 24, seize over $8M in crypto during crackdown appeared first on Crypto Briefin…
-
-
-### OTHER on 2026-05-31 11:07
+### SHOOTING on 2026-05-31 17:25
 - Location: Dailymail.com
-- Description: The claim, dating back almost a quarter of a century, is now being examined by detectives as part of a much wider investigation into Andrew.
+- Description: As a press photographer over the last 25 years, I've had a grand old time shooting some of the most well-known figures in the world. These are some of my favorites.
 
 
-### HOMICIDE on 2026-05-31 11:04
-- Location: Dailymail.com
-- Description: When former US Air Force intelligence officer David Grusch gave evidence to the US Congress about the existence of UFOs, one question sent a deep chill through the room.
+### OTHER on 2026-05-31 17:22
+- Location: The Punch
+- Description: The Inspector-General of Police cautions against indiscriminate recording and circulation of police videos, urging responsible public engagement to avoid u
+
+Read More: https://punchng.com/ig-warns-against-indiscriminate-recording-circulation-of-police-videos/
 
 
-### OTHER on 2026-05-31 11:00
-- Location: Forbes
-- Description: The fund is broadly unpopular among both parties—a majority of Republicans in an Economist/YouGov survey released this week said they oppose it.
+### HOMICIDE on 2026-05-31 17:00
+- Location: CNN
+- Description: Authorities in Hawaii have charged a 36-year-old man with murder in the killings of three people in a remote community known for its eclectic, communal lifestyle.
 
-Analysis generated at: Mon Jun  1 11:20:55 UTC 2026
+
+### HOMICIDE on 2026-05-31 16:53
+- Location: New York Post
+- Description: The younger woman is believed to have gotten into a nasty spat with her live-in mother and killed her before turning the knife on herself, sources said.
+
+Analysis generated at: Mon Jun  1 17:25:53 UTC 2026
