@@ -1,10 +1,10 @@
 
-Loaded 108309 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-31 17:25:32
+Loaded 108310 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-31 17:41:03
 
 Incidents by source:
 source
-newsapi           108208
+newsapi           108209
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -19,6 +19,11 @@ ion.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### HOMICIDE on 2026-05-31 17:41
+- Location: The Irish Times
+- Description: Attempted murder investigation has been launched following incident in Co Down on Sunday morning
+
 
 ### ASSAULT on 2026-05-31 17:25
 - Location: The Punch
@@ -43,9 +48,4 @@ Read More: https://punchng.com/ig-warns-against-indiscriminate-recording-circula
 - Location: CNN
 - Description: Authorities in Hawaii have charged a 36-year-old man with murder in the killings of three people in a remote community known for its eclectic, communal lifestyle.
 
-
-### HOMICIDE on 2026-05-31 16:53
-- Location: New York Post
-- Description: The younger woman is believed to have gotten into a nasty spat with her live-in mother and killed her before turning the knife on herself, sources said.
-
-Analysis generated at: Mon Jun  1 17:25:53 UTC 2026
+Analysis generated at: Mon Jun  1 17:52:16 UTC 2026
