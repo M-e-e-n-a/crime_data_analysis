@@ -1,10 +1,10 @@
 
-Loaded 108206 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-31 03:00:00
+Loaded 108222 incidents
+Date range: 2024-01-01 00:00:00 to 2026-05-31 04:36:01
 
 Incidents by source:
 source
-newsapi           108105
+newsapi           108121
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-05-31 03:00
-- Location: New Zealand Herald
-- Description: OPINION: Science points to a fairer way to treat LSD and psilocybin users.
+### ASSAULT on 2026-05-31 04:36
+- Location: Freerepublic.com
+- Description: When the accusation is sexual assault or rape, the rights of the accused go out the window. Prosecutors and plaintiffs' lawyers in civil cases drag in character assassins who know nothing about the alleged assault but instead make their own claims -- without …
 
 
-### HOMICIDE on 2026-05-31 02:33
+### HOMICIDE on 2026-05-31 04:26
+- Location: The Times of India
+- Description: Ghaziabad News: The main accused in the Ghaziabad ‘Bakrid invite’ murder case, Asad, was killed in a police encounter late on Saturday night. He was wanted in connection with the fatal stabbing of 17-year-old Surya Pratap following an argument. Police said As…
+
+
+### HOMICIDE on 2026-05-31 04:14
 - Location: Dailymail.com
-- Description: Fabiola Gonzalez-Nunez, 23, her two-week-old son Mateo Gonzalez and her 54-year-old mother Maria Sylvia Nunez-Villalobos were killed around 9.20am Thursday about 90 miles east of San Francisco.
+- Description: Police allege that Corey Wardle, 36, used an accelerant to set fire to Ben Beaumont and Michelle Liddle's family home on Saturday, six years after their son was stabbed to death.
 
 
-### ASSAULT on 2026-05-31 02:31
-- Location: Dailymail.com
-- Description: New police bodycam has emerged of two officers brutally attacking and pepper spraying a woman lying naked on a road during a psychotic episode.
-
-
-### HOMICIDE on 2026-05-31 02:14
+### HOMICIDE on 2026-05-31 04:06
 - Location: New York Post
-- Description: A triple homicide is committed, allegedly by someone the system had multiple opportunities to remove but chose not to, due to deliberate noncooperation by California. Families are shattered. The community is mourning. We have every right to call this simply o…
+- Description: Two women were stabbed to death in Park Slope on Saturday night at the same location where a murder-suicide occurred two years ago, according to police.
 
 
-### OTHER on 2026-05-31 01:32
-- Location: Dailymail.com
-- Description: Police officers and paramedics were called to the match in Sydney's south-west at about 3.30pm on Saturday.
+### HOMICIDE on 2026-05-31 04:06
+- Location: Juancole.com
+- Description: The IDF engaged in “medicide” namely, the targeted destruction of Gaza’s healthcare system and the killing of more than 1,500 healthcare workers<
 
-Analysis generated at: Mon Jun  1 03:00:46 UTC 2026
+Analysis generated at: Mon Jun  1 04:46:03 UTC 2026
