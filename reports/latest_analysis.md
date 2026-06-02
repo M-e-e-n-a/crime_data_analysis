@@ -1,10 +1,10 @@
 
-Loaded 108350 incidents
-Date range: 2024-01-01 00:00:00 to 2026-05-31 21:24:24
+Loaded 108370 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-01 02:45:12
 
 Incidents by source:
 source
-newsapi           108249
+newsapi           108269
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-05-31 21:24
-- Location: Japan Today
-- Description: A huge crowd of supporters gathered peacefully near the Eiffel Tower on Sunday to celebrate Paris Saint-Germain's second Champions League title victory, which was marred by violent clashes overnight across France and led police to detain hundreds of people.  …
+### OTHER on 2026-06-01 02:45
+- Location: Inn.co.il
+- Description: Centre for Israel and Jewish Affairs CEO Noah Shack issues a firm call-to-action ahead of Prime Minister Mark Carney’s address on antisemitism.
 
 
-### SHOOTING on 2026-05-31 21:14
-- Location: Abcnews.com
-- Description: As the search continued on Sunday for a man who allegedly shot two Virginia sheriff's deputies, one fatally.
+### OTHER on 2026-06-01 02:45
+- Location: Peoplesreview.com.np
+- Description: KATHMANDU, June 1: A newly adopted provision in the House of Representatives Regulations has sparked controversy after legal and political observers argued that it could shield lawmakers accused of corruption and money laundering from suspension. The debate c…
 
 
-### OTHER on 2026-05-31 20:58
-- Location: Dailymail.com
-- Description: The head of a new police AI hub due to open within days has said the technology could transform detective work
+### OTHER on 2026-06-01 02:43
+- Location: Deadline
+- Description: SPOILER ALERT: This post contains details on the Euphoria Season 3 finale on HBO. Euphoria Season 3, Episode 8, titled “In God We Trust,” picks up right where Episode 7 ended with Chloe Cherry’s Faye Valentine screaming to wake Toby Wallace’s Wayne as Zendaya…
 
 
-### OTHER on 2026-05-31 20:56
-- Location: Torrentfreak.com
-- Description: Twenty years ago today, dozens of Swedish police officers stormed a Stockholm data center, seizing The Pirate Bay's servers. The entertainment industry hoped the raid would finish the site for good. Instead, the police action inadvertently helped to create on…
+### ASSAULT on 2026-06-01 02:41
+- Location: Freerepublic.com
+- Description: Ukraine's President Volodymyr Zelenskyy told CBS News in an exclusive interview that his government has evidence that Russia is abducting Ukrainian children and training them to fight against fellow Ukrainians. It is an allegation that may constitute a war cr…
 
 
-### HOMICIDE on 2026-05-31 20:54
-- Location: Fox News
-- Description: Scott Peterson's lawyer claims new evidence could force another look at his murder conviction, ahead of a summer documentary about the high-profile case.
+### OTHER on 2026-06-01 02:36
+- Location: Variety
+- Description: SPOILER ALERT: This story contains spoilers for “In God We Trust,” the Season 3 finale of “Euphoria,” now streaming on HBO Max. It all ends with Ali. Played by Colman Domingo, Ali has been a constant source of light in “Euphoria,” despite only appearing in 11…
 
-Analysis generated at: Mon Jun  1 21:26:33 UTC 2026
+Analysis generated at: Tue Jun  2 02:57:55 UTC 2026
