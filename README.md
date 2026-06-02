@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Jun  2 04:25:14 UTC 2026
+Last updated: Tue Jun  2 10:12:51 UTC 2026
 
 ## Latest Analysis
 
-Loaded 108380 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-01 04:15:15
+Loaded 108430 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-01 10:09:47
 
 Incidents by source:
 source
-newsapi           108279
+newsapi           108329
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-06-01 04:15
-- Location: Gossiplankanews.com
-- Description: Police say that a 21-year-old Moulavi residing in the Eregama area has been arrested in connection with a serious sexual abuse incident involving a fourteen-year-old girl. Police state that the Moulavi, who is the main suspect in this crime, had fled the area…
+### ROBBERY/THEFT on 2026-06-01 10:09
+- Location: Www.gov.uk
+- Description: Find out what to do if goods you have temporarily exported or their ATA Carnet are lost or stolen.
 
 
-### ASSAULT on 2026-06-01 04:04
-- Location: Juancole.com
-- Description: Michael Li, a redistricting expert at the Brennan Center, observed that "this is a five-alarm fire for Black representation in the south."
+### HOMICIDE on 2026-06-01 10:00
+- Location: Fox News
+- Description: Karmelo Anthony faces trial on a first-degree murder charge in the fatal stabbing of teen Austin Metcalf at a Frisco high school track meet in April 2025.
 
 
-### OTHER on 2026-06-01 04:00
-- Location: Americanthinker.com
-- Description: He jumped from a fourth-four balcony so he didn’t have to pay the piper.
+### OTHER on 2026-06-01 10:00
+- Location: Thedailymash.co.uk
+- Description: A OPEN-TOP bus commiserating Arsenal’s Champions League defeat has driven through London’s empty streets without acknowledgement or fuss.
 
 
-### SHOOTING on 2026-06-01 03:51
-- Location: ABC News (AU)
-- Description: A 78-year-old man accused of shooting three people in an Armaguard robbery at a busy cinema in 1994 faces court.
+### DRUG RELATED on 2026-06-01 10:00
+- Location: News24
+- Description: A 35-year-old man has been arrested in a drug bust in Diepsloot, Johannesburg, in which suspected crystal meth worth R3 million was found under a mattress.
 
 
-### OTHER on 2026-06-01 03:36
-- Location: ABC News (AU)
-- Description: It has been four months since Nancy Guthrie, the mother of America's Today show co-host Savannah Guthrie, was reported missing. This is what we know about the alleged abduction.
+### OTHER on 2026-06-01 10:00
+- Location: The Atlantic
+- Description: The capital’s progressives hope for a Mamdani-esque mayor.
 
-Analysis generated at: Tue Jun  2 04:25:14 UTC 2026
+Analysis generated at: Tue Jun  2 10:12:51 UTC 2026
