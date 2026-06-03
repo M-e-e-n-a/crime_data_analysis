@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Jun  2 20:40:47 UTC 2026
+Last updated: Wed Jun  3 03:33:22 UTC 2026
 
 ## Latest Analysis
 
-Loaded 108606 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-01 20:34:12
+Loaded 108633 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-02 03:24:17
 
 Incidents by source:
 source
-newsapi           108505
+newsapi           108532
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,29 +24,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-06-01 20:34
-- Location: Borderlandbeat.com
-- Description: By "El Huaso" for Borderland Beat A new narco banner in Tijuana threatened state police officers, accusing them of stealing 180 kilograms of...
+### OTHER on 2026-06-02 03:24
+- Location: Abplive.com
+- Description: The backlash began following a promotional event for the upcoming Netflix film Maa Behen, where Madhuri Dixit, Triptii Dimri and Dharna Durga were present.
 
 
-### OTHER on 2026-06-01 20:29
-- Location: New York Post
-- Description: Los Angeles law enforcement will be in a state of heightened security for the two Iranian FIFA World Cup matches at the SOFI Stadium in June.
+### SHOOTING on 2026-06-02 03:17
+- Location: Reason
+- Description: Police Chief Earl Mayo of New Chicago, Indiana, is facing criminal charges after investigators say he sold a handgun to…
+The post Brickbat: Pawned Off appeared first on Reason.com.
 
 
-### OTHER on 2026-06-01 20:28
-- Location: Breitbart News
-- Description: Carnival Corporation said the personal information of nearly six million customers was leaked due to a data breach in April.
-The post Carnival Cruises: Data Breach Leaked Information of Nearly Six Million Customers appeared first on Breitbart.
+### OTHER on 2026-06-02 03:13
+- Location: Hollywood Reporter
+- Description: The Korean action maestro's first feature in roughly a decade lands in U.S. theaters Sept. 9 via Neon after a buzzy world premiere in France.
 
 
-### HOMICIDE on 2026-06-01 20:27
-- Location: The Daily Caller
-- Description: A previously illegal alien who allegedly killed three generations of a California family may have fathered a child with one of the victims, authorities said.
-
-
-### OTHER on 2026-06-01 20:23
+### SHOOTING on 2026-06-02 02:53
 - Location: Dailymail.com
-- Description: New York City Mayor Zohran Mamdani jumped on social media as Pride Month kicked off, as he suggested that just one month isn't long enough to celebrate queer history.
+- Description: A mystery gunman who recorded himself firing a round of bullets into a home before fleeing the scene in Land Rover remains on the run.
 
-Analysis generated at: Tue Jun  2 20:40:47 UTC 2026
+
+### ASSAULT on 2026-06-02 02:44
+- Location: Dailymail.com
+- Description: British Transport Police said the group of youngsters assaulted several people on the train travelling towards Paddington station on the evening of Sunday, May 10.
+
+Analysis generated at: Wed Jun  3 03:33:22 UTC 2026
