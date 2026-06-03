@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Jun  3 16:26:07 UTC 2026
+Last updated: Wed Jun  3 17:00:07 UTC 2026
 
 ## Latest Analysis
 
-Loaded 108783 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-02 16:25:34
+Loaded 108789 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-02 16:50:42
 
 Incidents by source:
 source
-newsapi           108682
+newsapi           108688
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-06-02 16:25
-- Location: Dailymail.com
-- Description: Nicole Virzi, 31, had just travelled across the country to meet her friend's six--week-old twins for the first time in Pittsburgh when the tragic killing unfolded. She now faces the death penalty.
-
-
-### SHOOTING on 2026-06-02 16:25
-- Location: CBC News
-- Description: The RCMP provided an update on the situation in Pelican Narrows, Sask., on Tuesday morning after an active shooter alert was active on Monday. One suspect is now in custody, after a woman died and a man was injured.
-
-
-### HOMICIDE on 2026-06-02 16:24
+### ROBBERY/THEFT on 2026-06-02 16:50
 - Location: The Times of India
-- Description: Mumbai Dongri labourer Khairul Ali Sheikh stabbed in neck by younger brother after dispute; victim hospitalized at JJ Hospital, police file attempted murder case.
+- Description: Mumbai authorities demolished an illegal dargah in Aarey Colony with heavy police security after notices; complaint alleged 77,000 units of power theft worth Rs 31 lakh.
 
 
-### OTHER on 2026-06-02 16:21
-- Location: Billboard
-- Description: A$AP Rocky revealed that he and Rihanna were laughing and joking around while she was in labor with their second and third kids.
+### HOMICIDE on 2026-06-02 16:48
+- Location: Daily Signal
+- Description: Pointing to rising crime rates and a crash that killed an 11-year-old boy last December, leaders of the House Judiciary Committee on Tuesday asked law enforcement leaders in two major California cities to provide information on sanctuary policies they say shi…
 
 
-### OTHER on 2026-06-02 16:19
-- Location: NBC News
-- Description: Mystery men who are “up to no good” have been roaming New York City’s vast sewer system, and city officials on Tuesday warned potential copycats of dangers they’d face exploring Gotham’s treacherous underground
+### HOMICIDE on 2026-06-02 16:32
+- Location: The Root
+- Description: Minnesota GOP leaders held a moment of silence for Derek Chauvin, just days after the six-year anniversary of George Floyd's death.Read more...
 
-Analysis generated at: Wed Jun  3 16:26:07 UTC 2026
+
+### OTHER on 2026-06-02 16:32
+- Location: WJLA
+- Description: DHS told 7News Reporter Nick Minock that ICE lodged a detainer against an illegal immigrant who is accused of raping a girl under the age of 15-years-old.
+
+
+### HOMICIDE on 2026-06-02 16:30
+- Location: The Times of India
+- Description: Patna Police recover murder victim Chandan’s head near railway track; three arrested including main accused. Planned killing linked to old dispute, probe ongoing.
+
+Analysis generated at: Wed Jun  3 17:00:07 UTC 2026
