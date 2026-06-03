@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Jun  3 17:00:07 UTC 2026
+Last updated: Wed Jun  3 20:51:30 UTC 2026
 
 ## Latest Analysis
 
-Loaded 108789 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-02 16:50:42
+Loaded 108864 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-02 20:50:46
 
 Incidents by source:
 source
-newsapi           108688
+newsapi           108763
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2026-06-02 16:50
-- Location: The Times of India
-- Description: Mumbai authorities demolished an illegal dargah in Aarey Colony with heavy police security after notices; complaint alleged 77,000 units of power theft worth Rs 31 lakh.
+### OTHER on 2026-06-02 20:50
+- Location: Inside the Magic
+- Description: A series of Disney World arrests has sparked conversations about safety, security, and the realities behind the most magical place on Earth. Series of Disney World Incidents Bring up Concerns Among Guests For millions of families, a Walt Disney World vacation…
 
 
-### HOMICIDE on 2026-06-02 16:48
-- Location: Daily Signal
-- Description: Pointing to rising crime rates and a crash that killed an 11-year-old boy last December, leaders of the House Judiciary Committee on Tuesday asked law enforcement leaders in two major California cities to provide information on sanctuary policies they say shi…
+### ROBBERY/THEFT on 2026-06-02 20:39
+- Location: Just Jared
+- Description: Nicholas Hoult, Zoë Kravitz, and Pete Davidson are teaming up for a new comedic heist movie. The first trailer for […]
+The post Nicholas Hoult, Pete Davidson & Zoë Kravitz Star in Heist Movie Trailer ‘How to Rob a Bank’ – Watch Now! appeared first on Just Jar…
 
 
-### HOMICIDE on 2026-06-02 16:32
-- Location: The Root
-- Description: Minnesota GOP leaders held a moment of silence for Derek Chauvin, just days after the six-year anniversary of George Floyd's death.Read more...
+### OTHER on 2026-06-02 20:37
+- Location: esquire.com
+- Description: Settlement money!
 
 
-### OTHER on 2026-06-02 16:32
-- Location: WJLA
-- Description: DHS told 7News Reporter Nick Minock that ICE lodged a detainer against an illegal immigrant who is accused of raping a girl under the age of 15-years-old.
+### OTHER on 2026-06-02 20:37
+- Location: Dailymail.com
+- Description: Sicily's two city centre squares will reportedly be shut off for pop icon Dua Lipa's second wedding to Callum Turner later this week.
 
 
-### HOMICIDE on 2026-06-02 16:30
-- Location: The Times of India
-- Description: Patna Police recover murder victim Chandan’s head near railway track; three arrested including main accused. Planned killing linked to old dispute, probe ongoing.
+### HOMICIDE on 2026-06-02 20:37
+- Location: TheJournal.ie
+- Description: The murder and the conduct of the police have inflamed tensions between ethnic communities in Britain.
 
-Analysis generated at: Wed Jun  3 17:00:07 UTC 2026
+Analysis generated at: Wed Jun  3 20:51:30 UTC 2026
