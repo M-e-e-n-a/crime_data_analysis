@@ -1,10 +1,10 @@
 
-Loaded 108901 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-03 03:14:25
+Loaded 108910 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-03 04:15:40
 
 Incidents by source:
 source
-newsapi           108800
+newsapi           108809
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,32 +20,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-06-03 03:14
-- Location: Freerepublic.com
-- Description: I served for 24 years as a police officer in emergency response, public order, intelligence and counter-terrorism. I saw the best of policing, worked with devoted colleagues and took pride in work that indisputably mattered. I joined the police to make a diff…
+### ROBBERY/THEFT on 2026-06-03 04:15
+- Location: Syllad.com
+- Description: Two alleged bike thieves wanted in multiple vehicle theft cases in Shillong were arrested by a special team from the Pasteur Beat House at Polo on Tuesday. The arrested persons have been identified as Cornelius Mukhim alias Bryan (20) of Mawlai Mawroh, Shillo…
 
 
-### OTHER on 2026-06-03 03:13
-- Location: Dailymail.com
-- Description: Sean 'Diddy' Combs could potentially face new sexual battery charges in California, even as he sits in a federal prison in New Jersey.
+### OTHER on 2026-06-03 04:00
+- Location: Dramabeans.com
+- Description: Lee Je-hoon, Ha-young The halfway point of 2026 is fast approaching (already!) and SBS was happy to check-in on the year so far at the recent press event. But there’s still much to come on the horizon ahead in SBS’s dramaland and the official lineup has been …
 
 
-### OTHER on 2026-06-03 03:06
-- Location: The Punch
-- Description: Nationwide protests erupt after schoolchildren abduction in Oyo State. Lawmakers push for state police and a comprehensive Safe Schools Security Framework.
-
-Read More: https://punchng.com/schoolchildren-abduction-oyo-protests-go-nationwide-nass-moves-on-state…
+### HOMICIDE on 2026-06-03 03:56
+- Location: LADbible
+- Description: Vickrum Digwa was sentenced to life in prison for murdering the 18-year-old
 
 
-### ROBBERY/THEFT on 2026-06-03 03:06
-- Location: The Punch
-- Description: Tricycle operators in Onitsha and Ogbaru are collaborating with Anambra State Police to combat one-chance robberies and other Keke-related crimes, enhancin
+### OTHER on 2026-06-03 03:50
+- Location: Gossiplankanews.com
+- Description: Today, the serious suspicion that an invisible hand capable of changing the scales of justice overnight is operating behind the Criminal Investigation Department is openly present before the entire society.
+<!--gossip-below-article-Rs--> (adsbygoogle = windo…
 
-Read More: https://punchng.com/tricycle-operators-to-help-police-tackle-one-chance-robberies/
 
+### OTHER on 2026-06-03 03:49
+- Location: ABC News (AU)
+- Description: Victoria Police warns the public not to approach an underwear-clad duo following a cross-border police pursuit in the state's Sunraysia region.
 
-### ROBBERY/THEFT on 2026-06-03 03:02
-- Location: Livemint
-- Description: Act fast when a credit card is stolen. Quick reporting, card blocking, FIR filing and account monitoring can prevent fraud, protect your credit score and reduce financial losses. Don't panic; contact your credit card issuer promptly and follow the steps to re…
-
-Analysis generated at: Thu Jun  4 03:27:40 UTC 2026
+Analysis generated at: Thu Jun  4 04:29:41 UTC 2026
