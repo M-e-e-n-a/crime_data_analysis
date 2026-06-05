@@ -1,10 +1,10 @@
 
-Loaded 109326 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-04 15:12:15
+Loaded 109416 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-04 19:47:43
 
 Incidents by source:
 source
-newsapi           109225
+newsapi           109315
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,30 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-06-04 15:12
-- Location: road.cc
-- Description: A Reform UK-led council has called for the entrance to a park, closed two years ago to prevent drivers from using it as a cut-through and to encourage cycling and walking, to be reopened – on the same day a motorist drove their car into a lake in the same par…
-
-
-### OTHER on 2026-06-04 15:10
-- Location: /FILM
-- Description: Featuring film starring Al Pacino, Jane Fonda, Tommy Lee Jones, and more, we're highlighting some of the best 1970s movies nobody talks about anymore.
-
-
-### OTHER on 2026-06-04 15:09
-- Location: Reason
-- Description: The American Civil Liberties Union is asking a judge to block the Memphis Safe Task Force from retaliating against anyone who exercises their First Amendment right to record the police.
-
-
-### OTHER on 2026-06-04 15:02
+### SHOOTING on 2026-06-04 19:47
 - Location: Dailymail.com
-- Description: There are many who now believe that rules are bent to favor those who share the same skin color as historical victims of Western slavery and colonialism.
+- Description: The vehicle was stopped in Appleby on its way to the Trading Fields on the site's Fair Hill, Cumbria Police and Westmorland and Furness Trading Standards said.
 
 
-### ASSAULT on 2026-06-04 15:00
-- Location: News.com.au
-- Description: Al-Ahmed will face Bankstown Local Court on July 29.
+### HOMICIDE on 2026-06-04 19:43
+- Location: The Colorado Sun
+- Description: A jury found Peter Cichuniec, the senior medical responder, and Jeremy Cooper, who injected McClain with ketamine, guilty of criminally negligent homicide in 2023
 
-Analysis generated at: Fri Jun  5 15:15:15 UTC 2026
+
+### OTHER on 2026-06-04 19:43
+- Location: Boston Herald
+- Description: Norfolk DA candidate Adam Deitch is calling for DA Michael Morrissey’s resignation “effective immediately” after concerning text messages between cops investigating Karen Read came to light.
+
+
+### OTHER on 2026-06-04 19:36
+- Location: The Punch
+- Description: Lagos State Police Command arrests four suspected cultists in Egbeda, recovering firearms and a knife. Investigations are ongoing into the notorious gang.
+
+Read More: https://punchng.com/police-arrest-four-suspected-cultists-recover-weapons-in-lagos/
+
+
+### OTHER on 2026-06-04 19:34
+- Location: LADbible
+- Description: "You can't comprehend the mental suffering this has given me."
+
+Analysis generated at: Fri Jun  5 19:48:01 UTC 2026
