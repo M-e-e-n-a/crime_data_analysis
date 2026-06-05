@@ -1,10 +1,10 @@
 
-Loaded 109309 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-04 14:35:12
+Loaded 109326 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-04 15:12:15
 
 Incidents by source:
 source
-newsapi           109208
+newsapi           109225
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-06-04 14:35
-- Location: New York Post
-- Description: The horrific shooting near a Bay Area high school killed an 18-year-old and injured three others Wednesday, including an 11-year-old child.
+### OTHER on 2026-06-04 15:12
+- Location: road.cc
+- Description: A Reform UK-led council has called for the entrance to a park, closed two years ago to prevent drivers from using it as a cut-through and to encourage cycling and walking, to be reopened – on the same day a motorist drove their car into a lake in the same par…
 
 
-### OTHER on 2026-06-04 14:32
-- Location: The Times of India
-- Description: Financial crime is evolving rapidly with AI-generated deepfakes and complex fraud rings. Traditional methods are no longer sufficient. Experts at a FICCI conference stressed the need for advanced forensic technology and real-time intelligence sharing. Stronge…
+### OTHER on 2026-06-04 15:10
+- Location: /FILM
+- Description: Featuring film starring Al Pacino, Jane Fonda, Tommy Lee Jones, and more, we're highlighting some of the best 1970s movies nobody talks about anymore.
 
 
-### SHOOTING on 2026-06-04 14:28
-- Location: Dallas Observer
-- Description: A fatal Memorial Day shooting and the upcoming World Cup have brought short-term rental regulations back to the surface.
+### OTHER on 2026-06-04 15:09
+- Location: Reason
+- Description: The American Civil Liberties Union is asking a judge to block the Memphis Safe Task Force from retaliating against anyone who exercises their First Amendment right to record the police.
 
 
-### HOMICIDE on 2026-06-04 14:24
-- Location: The Star Online
-- Description: SYDNEY: A Sydney man credited with saving dozens of lives during last year's deadly mass shooting on Bondi Beach has been charged with assaulting his father, local media and police said Thursday (June 4).
+### OTHER on 2026-06-04 15:02
+- Location: Dailymail.com
+- Description: There are many who now believe that rules are bent to favor those who share the same skin color as historical victims of Western slavery and colonialism.
 
 
-### HOMICIDE on 2026-06-04 14:18
-- Location: The Daily Caller
-- Description: FBI agents fatally shot a man Wednesday after he allegedly entered a downtown California bank with what authorities believed was a bomb strapped to his body.
+### ASSAULT on 2026-06-04 15:00
+- Location: News.com.au
+- Description: Al-Ahmed will face Bankstown Local Court on July 29.
 
-Analysis generated at: Fri Jun  5 14:35:56 UTC 2026
+Analysis generated at: Fri Jun  5 15:15:15 UTC 2026
