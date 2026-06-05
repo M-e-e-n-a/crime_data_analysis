@@ -1,10 +1,10 @@
 
-Loaded 109168 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-04 04:12:10
+Loaded 109218 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-04 09:36:26
 
 Incidents by source:
 source
-newsapi           109067
+newsapi           109117
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-06-04 04:12
-- Location: Breitbart News
-- Description: The prosecution had to dismiss some potential jurors in the murder trial of Karmelo Anthony after they expressed trepidation.
-The post Potential Jurors in Karmelo Anthony Trial Dismissed After Saying They Could Not Send Him to Prison: ‘He Looks Like a Child’ …
+### OTHER on 2026-06-04 09:36
+- Location: Dailymail.com
+- Description: Pictures show caravans in a long queue of traffic in the market town where travellers will spend the next six days showing off their horses and trading them for cash.
 
 
-### HOMICIDE on 2026-06-04 04:01
-- Location: ComingSoon.net
-- Description: The Handmaid’s Tale creator reunites with The Fantastic Four: First Steps director for a gripping new crime series at Hulu. The streamer is developing a TV adaptation of a bestselling legal thriller featuring a scandal-plagued police chief. Suspect TV show in…
+### ROBBERY/THEFT on 2026-06-04 09:33
+- Location: The Times of India
+- Description: Delhi Police are investigating a devastating hotel fire in Malviya Nagar. Key findings include a blocked roof exit and cooking heaters in guest rooms. The probe is focusing on alleged building norm violations and fire safety lapses. The manager remains abscon…
 
 
-### OTHER on 2026-06-04 04:00
-- Location: Bitcoinist
-- Description: Over $7 million in potential losses has now been stopped across two back-to-back operations after Singapore’s Anti-Scam Centre and Cyber Investigation Branch joined forces with some of the world’s biggest crypto exchanges to intercept scams before victims los…
+### ASSAULT on 2026-06-04 09:32
+- Location: Dailymail.com
+- Description: The national leader of White Australia, Thomas Sewell, has been living it up in a country mansion courtesy of benefactors as he plots a move into politics with NSW leader Jack Eltis.
 
 
-### OTHER on 2026-06-04 04:00
-- Location: Americanthinker.com
-- Description: I’m going to make my prediction now and say Austin Metcalf will not receive justice.
+### OTHER on 2026-06-04 09:31
+- Location: Israelnationalnews.com
+- Description: Israeli-Arab protesters chained school gates and clashed with police as MK Tzvi Sukkot's Education Committee arrived for an official visit.
 
 
-### HOMICIDE on 2026-06-04 04:00
-- Location: Americanthinker.com
-- Description: Media misdirection and lies damage us all.
+### OTHER on 2026-06-04 09:14
+- Location: Peoplesreview.com.np
+- Description: By Our Reporter Nepal’s political leadership often speaks about good governance, anti-corruption efforts and restoring public trust in state institutions. Yet the newly adopted House of Representatives Regulations are sending a very different message. At the …
 
-Analysis generated at: Fri Jun  5 04:12:42 UTC 2026
+Analysis generated at: Fri Jun  5 09:37:54 UTC 2026
