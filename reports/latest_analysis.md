@@ -1,10 +1,10 @@
 
-Loaded 109458 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-05 03:47:38
+Loaded 109517 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-05 08:28:59
 
 Incidents by source:
 source
-newsapi           109357
+newsapi           109416
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-06-05 03:47
-- Location: The Daily Caller
-- Description: "Top Gun: Maverick" actor James Handy was reportedly murdered by his girlfriend’s son in a chilling scene Wednesday morning.
+### HOMICIDE on 2026-06-05 08:28
+- Location: Breitbart News
+- Description: Actor James Handy, who most recently played a bartender in Top Gun: Maverick, was brutally murdered Wednesday at his Los Angeles home allegedly by his girlfriend's son.
+The post ‘Top Gun: Maverick’ Actor James Handy Allegedly Murdered by Girlfriend’s Son appe…
 
 
-### HOMICIDE on 2026-06-05 03:30
-- Location: The Indian Express
-- Description: In 2000, Bechar Kakadiya was sentenced to life imprisonment by the Surat district court for an acid attack on his brother-in-law Shantilal Patel, causing his death. In 2004, when he was out on parole, he attacked his wife and another brother-in-law, Dhansukh …
+### HOMICIDE on 2026-06-05 08:15
+- Location: Gossiplankanews.com
+- Description: American veteran character actor James Handy, who contributed his acting talents to many popular films such as 'Top Gun: Maverick', 'Jumanji', and 'Arachnophobia', has been stabbed to death with a sharp weapon at a house in Tarzana, Los Angeles. According to …
 
 
-### OTHER on 2026-06-05 03:15
-- Location: Peoplesreview.com.np
-- Description: Kathmandu, June 5: Secretary Dr. Krishna Hari Pushkar, who serves as secretary to Prime Minister Balen, was briefly detained and questioned by police on Thursday after reportedly sending messages to the prime minister seeking personal benefits. A team from th…
+### HOMICIDE on 2026-06-05 08:12
+- Location: Fox News
+- Description: James Handy, known for his roles in films like "Jumanji" and "Top Gun: Maverick," was allegedly killed by his girlfriend's son on Wednesday, according to Los Angeles police.
 
 
-### HOMICIDE on 2026-06-05 03:07
-- Location: ABC News (AU)
-- Description: An inquest into the shooting death of Sydney police accountant Curtis Cheng has found there was "no reasonable opportunity" for law enforcement officials to intervene prior to the shooting.
-
-
-### HOMICIDE on 2026-06-05 02:54
+### HOMICIDE on 2026-06-05 08:06
 - Location: Dailymail.com
-- Description: Brett Scrogham, 23, died two days after being shot inside an Indiana parking garage around 6pm last week, just minutes before meeting his parents at a baseball game.
+- Description: Former Hampshire Constabulary officer Christi Hill was targeted online after her name and picture were wrongly identified by social media users and the AI chatbot Grok, accusing her of being a murderer.
 
-Analysis generated at: Sat Jun  6 03:56:35 UTC 2026
+
+### ASSAULT on 2026-06-05 08:04
+- Location: ABC News (AU)
+- Description: A judge said Anthony Monteleone was "utterly delusional" in repeated messages to the woman before attacking her outside a Sydney gym in 2024.
+
+Analysis generated at: Sat Jun  6 08:29:15 UTC 2026
