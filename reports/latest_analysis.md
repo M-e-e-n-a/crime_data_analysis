@@ -1,10 +1,10 @@
 
-Loaded 109517 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-05 08:28:59
+Loaded 109612 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-05 13:16:43
 
 Incidents by source:
 source
-newsapi           109416
+newsapi           109511
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-06-05 08:28
-- Location: Breitbart News
-- Description: Actor James Handy, who most recently played a bartender in Top Gun: Maverick, was brutally murdered Wednesday at his Los Angeles home allegedly by his girlfriend's son.
-The post ‘Top Gun: Maverick’ Actor James Handy Allegedly Murdered by Girlfriend’s Son appe…
-
-
-### HOMICIDE on 2026-06-05 08:15
-- Location: Gossiplankanews.com
-- Description: American veteran character actor James Handy, who contributed his acting talents to many popular films such as 'Top Gun: Maverick', 'Jumanji', and 'Arachnophobia', has been stabbed to death with a sharp weapon at a house in Tarzana, Los Angeles. According to …
-
-
-### HOMICIDE on 2026-06-05 08:12
-- Location: Fox News
-- Description: James Handy, known for his roles in films like "Jumanji" and "Top Gun: Maverick," was allegedly killed by his girlfriend's son on Wednesday, according to Los Angeles police.
-
-
-### HOMICIDE on 2026-06-05 08:06
+### OTHER on 2026-06-05 13:16
 - Location: Dailymail.com
-- Description: Former Hampshire Constabulary officer Christi Hill was targeted online after her name and picture were wrongly identified by social media users and the AI chatbot Grok, accusing her of being a murderer.
+- Description: With weeks to go, a 400-year-old parade through a Lake District town has been cancelled after police demanded organisers provide marshals.
 
 
-### ASSAULT on 2026-06-05 08:04
-- Location: ABC News (AU)
-- Description: A judge said Anthony Monteleone was "utterly delusional" in repeated messages to the woman before attacking her outside a Sydney gym in 2024.
+### HOMICIDE on 2026-06-05 13:13
+- Location: Slashdot.org
+- Description: Henry Nowak: controversy behind US intervention in a murder case that has rocked BritainThe Guardian Video of a dying teen handcuffed by police sparks outrage and riots across BritainNPR US criticises 'two-tiered policing' over UK murder caseReuters Henry Now…
 
-Analysis generated at: Sat Jun  6 08:29:15 UTC 2026
+
+### OTHER on 2026-06-05 13:13
+- Location: The Indian Express
+- Description: The litigation traces to a 2004 petition filed by a Hyderabad-based anti-trafficking organisation, which argued that victims of commercial sexual exploitation were treated as “criminals” rather than “victims or survivors”. Here’s what to know.
+
+
+### HOMICIDE on 2026-06-05 13:07
+- Location: Dailymail.com
+- Description: Aaron Spencer, 37, won the GOP nomination for Lonoke County Sheriff while awaiting trial for fatally shooting the man accused of sexually assaulting his 14-year-old daughter.
+
+
+### HOMICIDE on 2026-06-05 13:06
+- Location: Al Jazeera English
+- Description: Although the killed teen's father has warned against exploiting his family's tragedy, far-right groups are rallying.
+
+Analysis generated at: Sat Jun  6 13:19:48 UTC 2026
