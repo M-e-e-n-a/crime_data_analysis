@@ -1,10 +1,10 @@
 
-Loaded 109451 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-05 02:33:01
+Loaded 109458 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-05 03:47:38
 
 Incidents by source:
 source
-newsapi           109350
+newsapi           109357
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-06-05 02:33
-- Location: New York Post
-- Description: The Suffolk County boozehound accused of guzzling Long Island iced tea before plowing his SUV into a Deer Park nail salon, killing an NYPD cop and three other people, has been found guilty on all charges.
+### HOMICIDE on 2026-06-05 03:47
+- Location: The Daily Caller
+- Description: "Top Gun: Maverick" actor James Handy was reportedly murdered by his girlfriend’s son in a chilling scene Wednesday morning.
 
 
-### HOMICIDE on 2026-06-05 02:08
-- Location: CBS News
-- Description: 44-year-old Michael Gledhill was arrested on suspicion of murder after he turned himself in, according to police.
+### HOMICIDE on 2026-06-05 03:30
+- Location: The Indian Express
+- Description: In 2000, Bechar Kakadiya was sentenced to life imprisonment by the Surat district court for an acid attack on his brother-in-law Shantilal Patel, causing his death. In 2004, when he was out on parole, he attacked his wife and another brother-in-law, Dhansukh …
 
 
-### SHOOTING on 2026-06-05 02:06
-- Location: Forbes
-- Description: James Handy, a prolific character actor whose credits include "Top Gun: Maverick," "Logan," "Jumanji," "The Rocketeer" and "Arachnophobia," has died.
+### OTHER on 2026-06-05 03:15
+- Location: Peoplesreview.com.np
+- Description: Kathmandu, June 5: Secretary Dr. Krishna Hari Pushkar, who serves as secretary to Prime Minister Balen, was briefly detained and questioned by police on Thursday after reportedly sending messages to the prime minister seeking personal benefits. A team from th…
 
 
-### ROBBERY/THEFT on 2026-06-05 02:00
-- Location: Thesimplyluxuriouslife.com
-- Description: Oodles of books this week on a wonderfully vast collection of topics – primetime (midlife awesomeness, that is), Elizabeth II’s wardrobe, unrequited love and art, a trip to Italy, designing your next life chapter, decorating the home you live in now even if i…
+### HOMICIDE on 2026-06-05 03:07
+- Location: ABC News (AU)
+- Description: An inquest into the shooting death of Sydney police accountant Curtis Cheng has found there was "no reasonable opportunity" for law enforcement officials to intervene prior to the shooting.
 
 
-### OTHER on 2026-06-05 01:59
-- Location: Freerepublic.com
-- Description: Some tweets live in infamy. Six years ago this week, NPR shared a link on X — Twitter at the time — to an article by correspondent Bill Chappell, titled “Protesting Racism Versus Risking COVID-19.” This was June 2, 2020, in the grips of the pandemic. By that …
+### HOMICIDE on 2026-06-05 02:54
+- Location: Dailymail.com
+- Description: Brett Scrogham, 23, died two days after being shot inside an Indiana parking garage around 6pm last week, just minutes before meeting his parents at a baseball game.
 
-Analysis generated at: Sat Jun  6 02:36:32 UTC 2026
+Analysis generated at: Sat Jun  6 03:56:35 UTC 2026
