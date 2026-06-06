@@ -1,10 +1,10 @@
 
-Loaded 109620 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-05 13:42:10
+Loaded 109715 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-05 19:11:39
 
 Incidents by source:
 source
-newsapi           109519
+newsapi           109614
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,30 @@ ion.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-06-05 13:42
-- Location: New York Post
-- Description: Several lanes of the busy 405 Freeway in Los Angeles were closed during the Friday morning rush hour.
+### OTHER on 2026-06-05 19:11
+- Location: CBC News
+- Description: A missing woman from northern Manitoba, who hasn't been in contact with family in about two weeks, could be in Winnipeg, say RCMP.
 
 
-### HOMICIDE on 2026-06-05 13:41
-- Location: NBC News
-- Description: Nearly a year after she was acquitted of murder charges in the death of her police officer boyfriend following two highly publicized trials, Karen Read said Friday that she still receives overwhelming support from legions of loyalists who believe she was fram…
-
-
-### HOMICIDE on 2026-06-05 13:35
-- Location: Newsonjapan.com
-- Description: A 16-year-old boy accused of carrying out a deadly home invasion in Tochigi Prefecture has been re-arrested on suspicion of attempted robbery-murder involving the two sons of a 69-year-old woman who was killed during the attack, police said. (News On Japan)
-
-
-### OTHER on 2026-06-05 13:25
-- Location: Al Jazeera English
-- Description: The run-off follows a tumultuous first round of voting, which saw long lines, delayed results and accusations of fraud.
-
-
-### OTHER on 2026-06-05 13:24
+### HOMICIDE on 2026-06-05 19:10
 - Location: Us Weekly
-- Description: Actor James Handy died at age 81 after being stabbed by his girlfriend’s son. “On Wednesday, June 3, 2026, around 9:30 a.m., West Valley area patrol officers responded to a radio call of unknown trouble in the 19200 block of Erwin Street,” Los Angeles police …
+- Description: James Handy’s girlfriend, Wendy Gledhill, is speaking out after her son, Michael Gledhill, allegedly stabbed the actor to death. “I’m just trying to make it through one day at a time, a minute at a time,” Wendy, 76, told The California Post on Friday, June 5.…
 
-Analysis generated at: Sat Jun  6 13:54:51 UTC 2026
+
+### OTHER on 2026-06-05 19:09
+- Location: The Punch
+- Description: Oyo State Police Command begins statewide enforcement against fake, obscured, and covered vehicle number plates to enhance public safety and security.
+
+Read More: https://punchng.com/police-crack-down-on-fake-covered-vehicle-number-plates-in-oyo/
+
+
+### HOMICIDE on 2026-06-05 19:07
+- Location: TheJournal.ie
+- Description: A No. 10 spokesperson said that in recent days figures have tried to “interfere” in democracy in the UK and to “stir up division”.
+
+
+### ASSAULT on 2026-06-05 19:00
+- Location: Fox News
+- Description: FBI arrests three men in Kansas and California who allegedly conspired to provide material support to ISIS and funded drone attacks on U.S. troops.
+
+Analysis generated at: Sat Jun  6 19:13:20 UTC 2026
