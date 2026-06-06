@@ -1,10 +1,10 @@
 
-Loaded 109612 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-05 13:16:43
+Loaded 109620 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-05 13:42:10
 
 Incidents by source:
 source
-newsapi           109511
+newsapi           109519
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-06-05 13:16
-- Location: Dailymail.com
-- Description: With weeks to go, a 400-year-old parade through a Lake District town has been cancelled after police demanded organisers provide marshals.
+### SHOOTING on 2026-06-05 13:42
+- Location: New York Post
+- Description: Several lanes of the busy 405 Freeway in Los Angeles were closed during the Friday morning rush hour.
 
 
-### HOMICIDE on 2026-06-05 13:13
-- Location: Slashdot.org
-- Description: Henry Nowak: controversy behind US intervention in a murder case that has rocked BritainThe Guardian Video of a dying teen handcuffed by police sparks outrage and riots across BritainNPR US criticises 'two-tiered policing' over UK murder caseReuters Henry Now…
+### HOMICIDE on 2026-06-05 13:41
+- Location: NBC News
+- Description: Nearly a year after she was acquitted of murder charges in the death of her police officer boyfriend following two highly publicized trials, Karen Read said Friday that she still receives overwhelming support from legions of loyalists who believe she was fram…
 
 
-### OTHER on 2026-06-05 13:13
-- Location: The Indian Express
-- Description: The litigation traces to a 2004 petition filed by a Hyderabad-based anti-trafficking organisation, which argued that victims of commercial sexual exploitation were treated as “criminals” rather than “victims or survivors”. Here’s what to know.
+### HOMICIDE on 2026-06-05 13:35
+- Location: Newsonjapan.com
+- Description: A 16-year-old boy accused of carrying out a deadly home invasion in Tochigi Prefecture has been re-arrested on suspicion of attempted robbery-murder involving the two sons of a 69-year-old woman who was killed during the attack, police said. (News On Japan)
 
 
-### HOMICIDE on 2026-06-05 13:07
-- Location: Dailymail.com
-- Description: Aaron Spencer, 37, won the GOP nomination for Lonoke County Sheriff while awaiting trial for fatally shooting the man accused of sexually assaulting his 14-year-old daughter.
-
-
-### HOMICIDE on 2026-06-05 13:06
+### OTHER on 2026-06-05 13:25
 - Location: Al Jazeera English
-- Description: Although the killed teen's father has warned against exploiting his family's tragedy, far-right groups are rallying.
+- Description: The run-off follows a tumultuous first round of voting, which saw long lines, delayed results and accusations of fraud.
 
-Analysis generated at: Sat Jun  6 13:19:48 UTC 2026
+
+### OTHER on 2026-06-05 13:24
+- Location: Us Weekly
+- Description: Actor James Handy died at age 81 after being stabbed by his girlfriend’s son. “On Wednesday, June 3, 2026, around 9:30 a.m., West Valley area patrol officers responded to a radio call of unknown trouble in the 19200 block of Erwin Street,” Los Angeles police …
+
+Analysis generated at: Sat Jun  6 13:54:51 UTC 2026
