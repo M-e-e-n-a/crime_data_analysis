@@ -1,10 +1,10 @@
 
-Loaded 109811 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-06 14:00:31
+Loaded 109857 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-06 19:10:20
 
 Incidents by source:
 source
-newsapi           109710
+newsapi           109756
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,30 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-06-06 14:00
-- Location: The Daily Caller
-- Description: Leftists are banding together to help their jailed comrades in Texas after the Trump administration won landmark convictions against an Antifa terror cell.
+### HOMICIDE on 2026-06-06 19:10
+- Location: The Times of India
+- Description: Indore Dwarkapuri murder: police say man was stabbed by elder brother after dispute over wife’s character; 5 family members arrested for cover-up and framing wife.
 
 
-### OTHER on 2026-06-06 14:00
-- Location: Steynonline.com
-- Description: The filming of The Strange Love of Martha Ivers happened when the Paramount lot was ringed by a picket line, part of the 1945 strike by motion picture set decorators that led to the infamous Black Friday riot outside the main gate at Warner Bros. The
+### ROBBERY/THEFT on 2026-06-06 19:05
+- Location: Jalopnik
+- Description: After having the same Camaro ZL1 stolen twice, the owners say they'll likely move on to a different vehicle, even if theirs is recovered.
 
 
-### HOMICIDE on 2026-06-06 14:00
-- Location: Rolling Stone
-- Description: A new Netflix documentary charts the decade long process of solving the 1992 murder of a young British mother.
-
-
-### OTHER on 2026-06-06 14:00
+### HOMICIDE on 2026-06-06 19:04
 - Location: New York Post
-- Description: America is experiencing a wave of left-wing political violence unlike any it has seen in the last half-century. But it’s not unprecedented.
+- Description: Eddy Ceballos, who films Havana's decaying buildings, trash dumps and seismic potholes narrating in a deadpan style parodying Discovery Channel documentaries, was arrested this week but hasn't been formally charged with a crime.
 
 
-### ROBBERY/THEFT on 2026-06-06 14:00
-- Location: ComicBook.com
-- Description: Courtesy of Maverick Games
+### HOMICIDE on 2026-06-06 19:00
+- Location: CBC News
+- Description: An Alberta man wanted for first-degree murder in the shooting death of an Ottawa man in January 2024 has been arrested in Turkey, police say.
 
-Racing games are seeing some innovation in its genre, with a new title showing many inspirations from the greatest hits among high-speed experiences. Combining the underground street racing and criminal conflicts of Grand Theft Aut…
 
-Analysis generated at: Sun Jun  7 14:05:05 UTC 2026
+### HOMICIDE on 2026-06-06 18:57
+- Location: The Times of India
+- Description: Vanchiyoor police arrested history-sheeter Shyamkumar for allegedly assaulting a BSNL employee and his teen son after a road-block dispute; case booked for attempt to murder.
+
+Analysis generated at: Sun Jun  7 19:14:15 UTC 2026
