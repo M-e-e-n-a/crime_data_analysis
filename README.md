@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Jun  6 19:13:20 UTC 2026
+Last updated: Sun Jun  7 02:55:42 UTC 2026
 
 ## Latest Analysis
 
-Loaded 109715 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-05 19:11:39
+Loaded 109734 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-06 02:30:31
 
 Incidents by source:
 source
-newsapi           109614
+newsapi           109633
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,30 +24,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-06-05 19:11
-- Location: CBC News
-- Description: A missing woman from northern Manitoba, who hasn't been in contact with family in about two weeks, could be in Winnipeg, say RCMP.
+### ROBBERY/THEFT on 2026-06-06 02:30
+- Location: BusinessLine
+- Description: The petition alleges that the memory card was accessed three times between 2018 and 2021 and claims that the incident violated her privacy, dignity and right to justice under Article 21 of the Constitution
 
 
-### HOMICIDE on 2026-06-05 19:10
-- Location: Us Weekly
-- Description: James Handy’s girlfriend, Wendy Gledhill, is speaking out after her son, Michael Gledhill, allegedly stabbed the actor to death. “I’m just trying to make it through one day at a time, a minute at a time,” Wendy, 76, told The California Post on Friday, June 5.…
+### HOMICIDE on 2026-06-06 02:20
+- Location: Radaronline.com
+- Description: Karen Read claims former Massachusetts State Police Trooper Michael Proctor 'searched her cellphone for nude photos' after becoming the focus of the investigation of boyfriends death.
 
 
-### OTHER on 2026-06-05 19:09
-- Location: The Punch
-- Description: Oyo State Police Command begins statewide enforcement against fake, obscured, and covered vehicle number plates to enhance public safety and security.
-
-Read More: https://punchng.com/police-crack-down-on-fake-covered-vehicle-number-plates-in-oyo/
+### OTHER on 2026-06-06 02:18
+- Location: ABC News (AU)
+- Description: Some foster carers have voiced support for the NT's proposed changes to child protection laws, but others say the current legislation already outlines individual safety as the paramount consideration.
 
 
-### HOMICIDE on 2026-06-05 19:07
-- Location: TheJournal.ie
-- Description: A No. 10 spokesperson said that in recent days figures have tried to “interfere” in democracy in the UK and to “stir up division”.
+### OTHER on 2026-06-06 01:54
+- Location: Abcnews.com
+- Description: ABC News’ Stephanie Ramos spoke with Australian musician and DJ Timmy Trumpet about his new tour and single “All My Life,” mixing instrumentals into dance music and writing a baseball walk-on anthem.
 
 
-### ASSAULT on 2026-06-05 19:00
-- Location: Fox News
-- Description: FBI arrests three men in Kansas and California who allegedly conspired to provide material support to ISIS and funded drone attacks on U.S. troops.
+### HOMICIDE on 2026-06-06 01:43
+- Location: TheWrap
+- Description: Suspect Michael Ray Gledhill, the son of Handy's girlfriend, was arrested on Wednesday after the "Top Gun: Maverick" actor was found deceased
+The post James Handy Murder Suspect to Undergo Competency Evaluation Before Trial appeared first on TheWrap.
 
-Analysis generated at: Sat Jun  6 19:13:20 UTC 2026
+Analysis generated at: Sun Jun  7 02:55:42 UTC 2026
