@@ -1,10 +1,10 @@
 
-Loaded 109742 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-06 04:10:45
+Loaded 109766 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-06 08:45:57
 
 Incidents by source:
 source
-newsapi           109641
+newsapi           109665
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2026-06-06 04:10
-- Location: Gossiplankanews.com
-- Description: Trust is something more valuable than money, something that cannot be rebuilt once broken. A deeply shocking story has now been reported from the Horana area, where a bank official, who enjoys the highest recognition in society and is responsible for safeguar…
+### HOMICIDE on 2026-06-06 08:45
+- Location: LADbible
+- Description: The dad had been charged with murder after shooting a 67-year-old man who was found in a vehicle with the gunman's 13-year-old daughter
 
 
-### HOMICIDE on 2026-06-06 04:00
-- Location: BBC News
-- Description: How a student's murder led to protests, political debate and scrutiny of the police.
+### OTHER on 2026-06-06 08:31
+- Location: The Times of India
+- Description: In a unique initiative, 87 habitual offenders in Indore gathered at a police station to discuss their regrets and the consequences of crime. Organized under the 'Mera Mohalla No Ho Halla' campaign, the session aimed to foster community engagement for crime re…
 
 
-### OTHER on 2026-06-06 04:00
-- Location: Americanthinker.com
-- Description: Fortunately, they're not escaping federal charges.
-
-
-### ROBBERY/THEFT on 2026-06-06 03:59
-- Location: The Indian Express
-- Description: During the initial inspection, police did not find any sign of theft or ransacking in either of the rooms of the flat.
-
-
-### HOMICIDE on 2026-06-06 03:57
+### OTHER on 2026-06-06 08:26
 - Location: Dailymail.com
-- Description: He was an evil killer who left a trail of death and destruction during his ruthless reign of terror, but he died a miserable death in a prison hospital ravaged by dementia and fluid on his brain.
+- Description: Ms Sturgeon was interviewed by the BBC's Laura Kuenssberg last weekend after Murrell admitted stealing more than £400,000 from the party between August 2010 and October 2022.
 
-Analysis generated at: Sun Jun  7 04:22:30 UTC 2026
+
+### SHOOTING on 2026-06-06 08:16
+- Location: ABC News (AU)
+- Description: Multiple shots have been fired at a venue at Punchbowl in Sydney's south-west on Saturday afternoon.
+
+
+### OTHER on 2026-06-06 08:16
+- Location: Dailymail.com
+- Description: Reports of an organised crime gang that looted luxury homes across the UK by studying their floorplans on Rightmove is a stark reminder that the traditional image of a burglar is outdated.
+
+Analysis generated at: Sun Jun  7 08:50:17 UTC 2026
