@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Jun  7 13:30:07 UTC 2026
+Last updated: Sun Jun  7 14:05:05 UTC 2026
 
 ## Latest Analysis
 
-Loaded 109804 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-06 13:14:48
+Loaded 109811 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-06 14:00:31
 
 Incidents by source:
 source
-newsapi           109703
+newsapi           109710
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,30 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-06-06 13:14
+### OTHER on 2026-06-06 14:00
+- Location: The Daily Caller
+- Description: Leftists are banding together to help their jailed comrades in Texas after the Trump administration won landmark convictions against an Antifa terror cell.
+
+
+### OTHER on 2026-06-06 14:00
+- Location: Steynonline.com
+- Description: The filming of The Strange Love of Martha Ivers happened when the Paramount lot was ringed by a picket line, part of the 1945 strike by motion picture set decorators that led to the infamous Black Friday riot outside the main gate at Warner Bros. The
+
+
+### HOMICIDE on 2026-06-06 14:00
+- Location: Rolling Stone
+- Description: A new Netflix documentary charts the decade long process of solving the 1992 murder of a young British mother.
+
+
+### OTHER on 2026-06-06 14:00
 - Location: New York Post
-- Description: Zohran Mamdani and his political allies have repeatedly signaled that it’s open season on New York’s Jewish population, the largest in America.
+- Description: America is experiencing a wave of left-wing political violence unlike any it has seen in the last half-century. But it’s not unprecedented.
 
 
-### HOMICIDE on 2026-06-06 13:09
-- Location: Dailymail.com
-- Description: May 'Maya' Millete, 39, disappeared on January 7, 2021, and was last seen in Chula Vista, California. Her husband, Larry Millete, is on trial for her alleged murder.
+### ROBBERY/THEFT on 2026-06-06 14:00
+- Location: ComicBook.com
+- Description: Courtesy of Maverick Games
 
+Racing games are seeing some innovation in its genre, with a new title showing many inspirations from the greatest hits among high-speed experiences. Combining the underground street racing and criminal conflicts of Grand Theft Aut…
 
-### HOMICIDE on 2026-06-06 13:06
-- Location: Dailymail.com
-- Description: Diamond Valley College maths teacher Sunil Sharma, 66, travelled to India last month and had not been seen or heard from since May 22.
-
-
-### HOMICIDE on 2026-06-06 13:01
-- Location: The Times of India
-- Description: Police have arrested four individuals, including the brother and sister-in-law of a missing Australia-based NRI, in connection with his abduction and suspected murder conspiracy. The NRI had returned to Punjab to sell his property. Investigations are ongoing …
-
-
-### OTHER on 2026-06-06 13:00
-- Location: Fox News
-- Description: From reality TV villain to mayoral contender, Spencer Pratt says he was "born for this" as he heads toward a November runoff against Karen Bass.
-
-Analysis generated at: Sun Jun  7 13:30:07 UTC 2026
+Analysis generated at: Sun Jun  7 14:05:05 UTC 2026
