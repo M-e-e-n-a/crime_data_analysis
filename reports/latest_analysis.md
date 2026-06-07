@@ -1,10 +1,10 @@
 
-Loaded 109734 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-06 02:30:31
+Loaded 109742 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-06 04:10:45
 
 Incidents by source:
 source
-newsapi           109633
+newsapi           109641
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2026-06-06 02:30
-- Location: BusinessLine
-- Description: The petition alleges that the memory card was accessed three times between 2018 and 2021 and claims that the incident violated her privacy, dignity and right to justice under Article 21 of the Constitution
+### ROBBERY/THEFT on 2026-06-06 04:10
+- Location: Gossiplankanews.com
+- Description: Trust is something more valuable than money, something that cannot be rebuilt once broken. A deeply shocking story has now been reported from the Horana area, where a bank official, who enjoys the highest recognition in society and is responsible for safeguar…
 
 
-### HOMICIDE on 2026-06-06 02:20
-- Location: Radaronline.com
-- Description: Karen Read claims former Massachusetts State Police Trooper Michael Proctor 'searched her cellphone for nude photos' after becoming the focus of the investigation of boyfriends death.
+### HOMICIDE on 2026-06-06 04:00
+- Location: BBC News
+- Description: How a student's murder led to protests, political debate and scrutiny of the police.
 
 
-### OTHER on 2026-06-06 02:18
-- Location: ABC News (AU)
-- Description: Some foster carers have voiced support for the NT's proposed changes to child protection laws, but others say the current legislation already outlines individual safety as the paramount consideration.
+### OTHER on 2026-06-06 04:00
+- Location: Americanthinker.com
+- Description: Fortunately, they're not escaping federal charges.
 
 
-### OTHER on 2026-06-06 01:54
-- Location: Abcnews.com
-- Description: ABC News’ Stephanie Ramos spoke with Australian musician and DJ Timmy Trumpet about his new tour and single “All My Life,” mixing instrumentals into dance music and writing a baseball walk-on anthem.
+### ROBBERY/THEFT on 2026-06-06 03:59
+- Location: The Indian Express
+- Description: During the initial inspection, police did not find any sign of theft or ransacking in either of the rooms of the flat.
 
 
-### HOMICIDE on 2026-06-06 01:43
-- Location: TheWrap
-- Description: Suspect Michael Ray Gledhill, the son of Handy's girlfriend, was arrested on Wednesday after the "Top Gun: Maverick" actor was found deceased
-The post James Handy Murder Suspect to Undergo Competency Evaluation Before Trial appeared first on TheWrap.
+### HOMICIDE on 2026-06-06 03:57
+- Location: Dailymail.com
+- Description: He was an evil killer who left a trail of death and destruction during his ruthless reign of terror, but he died a miserable death in a prison hospital ravaged by dementia and fluid on his brain.
 
-Analysis generated at: Sun Jun  7 02:55:42 UTC 2026
+Analysis generated at: Sun Jun  7 04:22:30 UTC 2026
