@@ -1,10 +1,10 @@
 
-Loaded 109890 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-07 02:52:23
+Loaded 109903 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-07 04:00:53
 
 Incidents by source:
 source
-newsapi           109789
+newsapi           109802
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,32 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-06-07 02:52
-- Location: New York Post
-- Description: A California family’s joyful gathering just hours after welcoming a newborn turned into a horrifying murder-suicide, after authorities say a mother fatally shot her husband and two young children before taking her own life in North Hills. Marine Basmajian, 30…
+### ROBBERY/THEFT on 2026-06-07 04:00
+- Location: Sankakucomplex.com
+- Description: A 60-year-old unemployed man has been arrested in Osaka after allegedly stealing dozens of water meters from apartment complexes and public housing units in order to sell the metal inside for cash. Police say Koji Nakagaki stole a water meter from a vacant un…
 
 
-### SHOOTING on 2026-06-07 02:48
-- Location: Israelnationalnews.com
-- Description: A search is underway for two gunmen who shot 12 people during a street festival in Toledo, Ohio.
+### OTHER on 2026-06-07 04:00
+- Location: Americanthinker.com
+- Description: Democrat projection justifies all manner of damage.
 
 
-### OTHER on 2026-06-07 02:36
-- Location: Abcnews.com
-- Description: After playing a key role in the Knicks' thrilling Game 2 Finals win, Karl-Anthony Towns reflects on his late mother and the strength he derives from her memory.
+### OTHER on 2026-06-07 04:00
+- Location: Americanthinker.com
+- Description: Photo Credit:
+ 
+ AuthorWithout shame, belief in God becomes optional, then inconvenient, then irrelevant.
 
 
-### OTHER on 2026-06-07 02:36
-- Location: Abcnews.com
-- Description: Madrid authorities said more than 500,000 people gathered for the pope's visit as he started off his first papal visit to Spain.
+### OTHER on 2026-06-07 04:00
+- Location: Americanthinker.com
+- Description: Photo Credit:
+ 
+ PixnioJames Comey and E. Jean Carroll hopefully will open wide the gates to widespread punishment for the leftist crimes of the last ten years.
 
 
-### ASSAULT on 2026-06-07 02:29
-- Location: ABC News (AU)
-- Description: Police say up to 10 people were fighting inside the station on Saturday night before some boarded a train still armed with machetes.
+### OTHER on 2026-06-07 04:00
+- Location: Americanthinker.com
+- Description: The safety of federal officers and their families and the future of America hang in the balance.
 
-Analysis generated at: Mon Jun  8 02:58:58 UTC 2026
+Analysis generated at: Mon Jun  8 04:27:04 UTC 2026
