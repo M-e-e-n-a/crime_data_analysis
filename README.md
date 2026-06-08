@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Jun  7 19:14:15 UTC 2026
+Last updated: Mon Jun  8 02:58:58 UTC 2026
 
 ## Latest Analysis
 
-Loaded 109857 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-06 19:10:20
+Loaded 109890 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-07 02:52:23
 
 Incidents by source:
 source
-newsapi           109756
+newsapi           109789
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-06-06 19:10
-- Location: The Times of India
-- Description: Indore Dwarkapuri murder: police say man was stabbed by elder brother after dispute over wife’s character; 5 family members arrested for cover-up and framing wife.
-
-
-### ROBBERY/THEFT on 2026-06-06 19:05
-- Location: Jalopnik
-- Description: After having the same Camaro ZL1 stolen twice, the owners say they'll likely move on to a different vehicle, even if theirs is recovered.
-
-
-### HOMICIDE on 2026-06-06 19:04
+### HOMICIDE on 2026-06-07 02:52
 - Location: New York Post
-- Description: Eddy Ceballos, who films Havana's decaying buildings, trash dumps and seismic potholes narrating in a deadpan style parodying Discovery Channel documentaries, was arrested this week but hasn't been formally charged with a crime.
+- Description: A California family’s joyful gathering just hours after welcoming a newborn turned into a horrifying murder-suicide, after authorities say a mother fatally shot her husband and two young children before taking her own life in North Hills. Marine Basmajian, 30…
 
 
-### HOMICIDE on 2026-06-06 19:00
-- Location: CBC News
-- Description: An Alberta man wanted for first-degree murder in the shooting death of an Ottawa man in January 2024 has been arrested in Turkey, police say.
+### SHOOTING on 2026-06-07 02:48
+- Location: Israelnationalnews.com
+- Description: A search is underway for two gunmen who shot 12 people during a street festival in Toledo, Ohio.
 
 
-### HOMICIDE on 2026-06-06 18:57
-- Location: The Times of India
-- Description: Vanchiyoor police arrested history-sheeter Shyamkumar for allegedly assaulting a BSNL employee and his teen son after a road-block dispute; case booked for attempt to murder.
+### OTHER on 2026-06-07 02:36
+- Location: Abcnews.com
+- Description: After playing a key role in the Knicks' thrilling Game 2 Finals win, Karl-Anthony Towns reflects on his late mother and the strength he derives from her memory.
 
-Analysis generated at: Sun Jun  7 19:14:15 UTC 2026
+
+### OTHER on 2026-06-07 02:36
+- Location: Abcnews.com
+- Description: Madrid authorities said more than 500,000 people gathered for the pope's visit as he started off his first papal visit to Spain.
+
+
+### ASSAULT on 2026-06-07 02:29
+- Location: ABC News (AU)
+- Description: Police say up to 10 people were fighting inside the station on Saturday night before some boarded a train still armed with machetes.
+
+Analysis generated at: Mon Jun  8 02:58:58 UTC 2026
