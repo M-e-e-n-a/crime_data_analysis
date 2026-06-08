@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Jun  8 04:27:04 UTC 2026
+Last updated: Mon Jun  8 10:26:26 UTC 2026
 
 ## Latest Analysis
 
-Loaded 109903 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-07 04:00:53
+Loaded 109944 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-07 10:19:12
 
 Incidents by source:
 source
-newsapi           109802
+newsapi           109843
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,32 +24,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2026-06-07 04:00
-- Location: Sankakucomplex.com
-- Description: A 60-year-old unemployed man has been arrested in Osaka after allegedly stealing dozens of water meters from apartment complexes and public housing units in order to sell the metal inside for cash. Police say Koji Nakagaki stole a water meter from a vacant un…
+### HOMICIDE on 2026-06-07 10:19
+- Location: TheJournal.ie
+- Description: The office of Benjamin Netanyahu said he had ‘held a situational assessment and is monitoring the deadly shooting attack’.
 
 
-### OTHER on 2026-06-07 04:00
-- Location: Americanthinker.com
-- Description: Democrat projection justifies all manner of damage.
+### OTHER on 2026-06-07 10:10
+- Location: Order-order.com
+- Description: David Lammy on Sky News: “I spoke to the vice president yesterday, and I wanted to emphasise a number of things. “The first is that our democratic process is working well. This young man has been convicted. There is an investigation into the police by the Ind…
 
 
-### OTHER on 2026-06-07 04:00
-- Location: Americanthinker.com
-- Description: Photo Credit:
- 
- AuthorWithout shame, belief in God becomes optional, then inconvenient, then irrelevant.
+### SHOOTING on 2026-06-07 10:08
+- Location: Breitbart News
+- Description: At least 12 people were wounded by gunfire Saturday as multiple shots rang out near a busy street festival in Ohio, leaving eventgoers scrambling for cover while others rushed to help the victims.
+The post At Least 12 People Injured by Gunfire at Ohio Festiva…
 
 
-### OTHER on 2026-06-07 04:00
-- Location: Americanthinker.com
-- Description: Photo Credit:
- 
- PixnioJames Comey and E. Jean Carroll hopefully will open wide the gates to widespread punishment for the leftist crimes of the last ten years.
+### HOMICIDE on 2026-06-07 10:02
+- Location: Dailymail.com
+- Description: One person has been killed and five more injured in a suspected terror shooting in central Israel near the occupied West Bank, the Israeli ambulance service has said.
 
 
-### OTHER on 2026-06-07 04:00
-- Location: Americanthinker.com
-- Description: The safety of federal officers and their families and the future of America hang in the balance.
+### SHOOTING on 2026-06-07 10:02
+- Location: NPR
+- Description: Gunfire erupted Saturday near a busy street festival in Ohio, wounding at least 12 people and sending some eventgoers scrambling for cover while others rushed to help the victims.
 
-Analysis generated at: Mon Jun  8 04:27:04 UTC 2026
+Analysis generated at: Mon Jun  8 10:26:26 UTC 2026
