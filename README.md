@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Jun  8 15:38:39 UTC 2026
+Last updated: Mon Jun  8 16:02:52 UTC 2026
 
 ## Latest Analysis
 
-Loaded 110002 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-07 15:21:41
+Loaded 110009 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-07 16:02:33
 
 Incidents by source:
 source
-newsapi           109901
+newsapi           109908
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,29 +24,45 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-06-07 15:21
-- Location: Dailymail.com
-- Description: This year marks the twentieth anniversary of John Wojtowicz's death, but he will be forever remembered not for his complicated love life but for the infamous, botched bank heist it inspired.
+### HOMICIDE on 2026-06-07 16:02
+- Location: New York Post
+- Description: A protester outside a Turning Point USA event hosted by Erika Kirk dressed up as Charlie Kirk and re-enacted his death as crowds chanted, “He deserved to die.”
 
 
-### HOMICIDE on 2026-06-07 15:17
-- Location: HuffPost
-- Description: David Lammy said he challenged the U.S. vice president in what he described as a “robust” phone cal.
+### OTHER on 2026-06-07 16:00
+- Location: Legalinsurrection.com
+- Description: Organizers instructed participants to “Be as loud as you can. Be as obnoxious as you can. Make these people hate us. Make sure they know you hate them.”
+The post Left-Wing Activists Stage Mock Assassination of Charlie Kirk Outside TPUSA Event first appeared o…
 
 
-### ASSAULT on 2026-06-07 14:54
-- Location: NBC News
-- Description: LONDON — For the second time in a week, a top Trump administration official has publicly criticized Europe over migration levels, the latest in a series of attacks aimed at political leaders on the continent
+### OTHER on 2026-06-07 16:00
+- Location: CNN
+- Description: The man who federal prosecutors say was “pissed off at the world” before allegedly igniting the Palisades Fire goes on trial this week in Los Angeles, roughl...
 
 
-### SHOOTING on 2026-06-07 14:51
-- Location: Breitbart News
-- Description: A 22-year-old Penn State University student was fatally shot during an alleged robbery about 1:30 a.m. Saturday in Philadelphia.
-The post 22-Year-Old Penn State Student Fatally Shot During Alleged Robbery appeared first on Breitbart.
+### OTHER on 2026-06-07 16:00
+- Location: Superpunch.net
+- Description: THE @nyknicks SURVIVE A GAME TWO THRILLER! A costly turnover puts the @spurs down 0-2 as the series shifts to New York  pic.twitter.com/9L2bjuCPpH
+— Aidan (@aidanlising) June 6, 2026 
 
 
-### ROBBERY/THEFT on 2026-06-07 14:48
-- Location: Al Jazeera English
-- Description: Race between right-wing Fujimori, leftwing Sanchez follows first round of voting marred by logistical issues.
 
-Analysis generated at: Mon Jun  8 15:38:39 UTC 2026
+
+
+
+
+
+
+
+
+
+
+
+Canada bans Texas cattle over flesh-eating screwworm out…
+
+
+### OTHER on 2026-06-07 16:00
+- Location: New York Post
+- Description: Mayor Daniel Lurie's high approval ratings are being put to the test as a widening class divide, a yawning budget deficit and an ongoing housing crisis undermine his centrist approach.
+
+Analysis generated at: Mon Jun  8 16:02:52 UTC 2026
