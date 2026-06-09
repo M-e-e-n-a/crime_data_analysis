@@ -1,10 +1,10 @@
 
-Loaded 110168 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-08 14:34:05
+Loaded 110173 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-08 15:14:00
 
 Incidents by source:
 source
-newsapi           110067
+newsapi           110072
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,37 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-06-08 14:34
-- Location: Dailymail.com
-- Description: In the early hours of August 31, 1961, an eight-year-old girl named Ann Burr disappeared during a deafening thunderstorm from her family home in Tacoma, Washington state.
+### OTHER on 2026-06-08 15:14
+- Location: Newser
+- Description: A truck driver rolled up to a Philadelphia warehouse on a sunny Friday, flashed ID, and drove off with 18 pallets of bourbon that never made it to their destination in North Jersey, reports 6ABC . The load: 10,800 bottles of Noble Oak, valued at about $500,00…
 
 
-### OTHER on 2026-06-08 14:30
-- Location: Richmondmagazine.com
-- Description: America’s 250th birthday is fast approaching. Is Richmond ready?
+### OTHER on 2026-06-08 15:00
+- Location: Slate Magazine
+- Description: Georgia federal Judge Eleanor Ross received a “private reprimand” for having sex with a law enforcement officer in chambers over a two-year period.
 
 
-### HOMICIDE on 2026-06-08 14:22
-- Location: New York Post
-- Description: The residence sits across from Lanark Park, where a heavy police presence drew the attention of families and other parkgoers throughout the day.
+### HOMICIDE on 2026-06-08 15:00
+- Location: Dianeravitch.net
+- Description: We continue to see stories about American military attacks on small boats in the Caribbean or the Pacific. We read that our planes destroyed a boat carrying drugs and drug dealers. How do we know whether the boat was carrying drugs? No evidence is presented. …
 
 
-### OTHER on 2026-06-08 14:21
-- Location: The Times of India
-- Description: Manipur's new DGP Mukesh Singh visited Kangpokpi and Senapati districts to assess the law and order situation. He assured impartial police action. Meanwhile, vehicular movement on National Highway-202 is suspended indefinitely. Student groups protested allege…
+### ROBBERY/THEFT on 2026-06-08 15:00
+- Location: WWD
+- Description: The governor's office pointed to cash infusions into organized retail crime and vertical prosecution grants that have bolstered county- and city-level law enforcement.
 
 
-### ROBBERY/THEFT on 2026-06-08 14:21
-- Location: Newsonjapan.com
-- Description: A 14-year-old junior high school girl was arrested on suspicion of robbery resulting in injury after allegedly spraying a woman in her 60s in the face and stealing her wallet during a robbery attempt in Kasukabe, Saitama Prefecture. (News On Japan)
+### OTHER on 2026-06-08 14:56
+- Location: Thenation.com
+- Description: Joan Walsh
 
-Analysis generated at: Tue Jun  9 14:36:38 UTC 2026
+
+
+Which is worse, her political malevolence or her incompetence?
+
+
+
+
+The post Fire Bari Weiss! appeared first on The Nation.
+
+Analysis generated at: Tue Jun  9 15:15:16 UTC 2026
