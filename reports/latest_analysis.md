@@ -1,10 +1,10 @@
 
-Loaded 110173 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-08 15:14:00
+Loaded 110253 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-08 20:00:31
 
 Incidents by source:
 source
-newsapi           110072
+newsapi           110152
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,37 +20,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-06-08 15:14
-- Location: Newser
-- Description: A truck driver rolled up to a Philadelphia warehouse on a sunny Friday, flashed ID, and drove off with 18 pallets of bourbon that never made it to their destination in North Jersey, reports 6ABC . The load: 10,800 bottles of Noble Oak, valued at about $500,00…
+### HOMICIDE on 2026-06-08 20:00
+- Location: Legalinsurrection.com
+- Description: Europe Reacts with Demonstrations and "Taking a Knee" Movement while Media Deflects in Wake of Henry Nowak Killing
+The post Fallout from Video Release Expands: Police Sought to Cast Henry Nowak as Aggressor first appeared on Le·gal In·sur·rec·tion.
 
 
-### OTHER on 2026-06-08 15:00
-- Location: Slate Magazine
-- Description: Georgia federal Judge Eleanor Ross received a “private reprimand” for having sex with a law enforcement officer in chambers over a two-year period.
+### HOMICIDE on 2026-06-08 20:00
+- Location: Screen Rant
+- Description: Sonequa Martin-Green breaks down Boston Blue season 1's ending, how it's big cliffhanger will impact her character, and Lena's near-death experience.
 
 
-### HOMICIDE on 2026-06-08 15:00
-- Location: Dianeravitch.net
-- Description: We continue to see stories about American military attacks on small boats in the Caribbean or the Pacific. We read that our planes destroyed a boat carrying drugs and drug dealers. How do we know whether the boat was carrying drugs? No evidence is presented. …
+### OTHER on 2026-06-08 19:57
+- Location: ABC News (AU)
+- Description: One of the state's top police officers has promised feuding gangs bringing terror to Sydney's streets will not exist "by the time we finish" as police stare down a new era of disorganised crime.
 
 
-### ROBBERY/THEFT on 2026-06-08 15:00
-- Location: WWD
-- Description: The governor's office pointed to cash infusions into organized retail crime and vertical prosecution grants that have bolstered county- and city-level law enforcement.
+### HOMICIDE on 2026-06-08 19:52
+- Location: Wnd.com
+- Description: Teen stabber: 'I'm not leaving, [bleep] you all'
 
 
-### OTHER on 2026-06-08 14:56
-- Location: Thenation.com
-- Description: Joan Walsh
+### ROBBERY/THEFT on 2026-06-08 19:50
+- Location: Daily Signal
+- Description: A mass stabbing took place at New York City’s Penn Station less than a day before President Donald Trump was set to make an appearance across the street for an NBA Finals game. It’s yet another serious and ultimately inexcusable violent crime episode that has…
 
-
-
-Which is worse, her political malevolence or her incompetence?
-
-
-
-
-The post Fire Bari Weiss! appeared first on The Nation.
-
-Analysis generated at: Tue Jun  9 15:15:16 UTC 2026
+Analysis generated at: Tue Jun  9 20:01:29 UTC 2026
