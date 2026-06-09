@@ -1,10 +1,10 @@
 
-Loaded 110049 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-07 19:51:51
+Loaded 110069 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-08 02:32:17
 
 Incidents by source:
 source
-newsapi           109948
+newsapi           109968
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,31 @@ ion.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-06-07 19:51
-- Location: HITC - Football, Gaming, Movies, TV, Music
-- Description: Nine people have been injured in a shooting close to the base England will use during the World Cup in Kansas City. The incident happened in the early hours of Saturday morning on Troost Avenue, only a short drive from the training base and hotel Thomas Tuche…
+### SHOOTING on 2026-06-08 02:32
+- Location: Slashdot.org
+- Description: Search for suspects continues after 12 people shot near festival in Toledo, OhioThe Guardian At least a dozen injured in Toledo festival mass shooting; police searching for suspectsWTVG At least 12 people shot at Ohio street festival, suspects remain at large…
 
 
-### OTHER on 2026-06-07 19:45
-- Location: Screen Rant
-- Description: Netflix has the widest selection of political dramas of any streaming platform, from brilliant original series to syndicated network classics.
+### OTHER on 2026-06-08 02:27
+- Location: Reason
+- Description: On June 2, the Fifth Circuit decided United States v. Squire, which posed "a novel question about whether the Second…
 
 
-### HOMICIDE on 2026-06-07 19:39
-- Location: Dailymail.com
-- Description: The victim, who has only been identified by her first name, Lyhanna, was reported missing in the small southern town of Fleurance on May 29, after leaving school.
+### SHOOTING on 2026-06-08 02:12
+- Location: Slashdot.org
+- Description: Search Continues for Gunmen Who Opened Fire at Ohio FestivalThe New York Times 12 people shot near Old West End Festival | police continue search for suspectswtol.com 9 adults, 3 teens injured in mass shooting near Ohio festivalWHIO TV ‘Quite scary’: Witnesse…
 
 
-### OTHER on 2026-06-07 19:38
-- Location: Fark.com
-- Description: News: Oakland plate readers captured 638 million images in 2025. Not news: 1.1M of them were linked to crimes. Fark: Oakland PD turned off alerts because there were too many. So they're surveiling everyone for nothing
+### HOMICIDE on 2026-06-08 01:58
+- Location: PerthNow
+- Description: Friends, family and music industry figures have honoured the acclaimed songwriter behind some of the biggest hits of the past decade.
 
 
-### ROBBERY/THEFT on 2026-06-07 19:33
-- Location: Wnd.com
-- Description: 'On the ground here you can actually see they were ripping up Bible verses. They should probably read some of that, I think it would help'
+### OTHER on 2026-06-08 01:34
+- Location: Slashdot.org
+- Description: "When Hugo Parra was arrested last year on felony charges, his pleas of innocence fell on deaf ears," reports the Times of San Diego:
 
-Analysis generated at: Mon Jun  8 20:08:01 UTC 2026
+
+San Diego police had a description of the Alfa Romeo car he was riding in [but no license plate number] and a witness who i…
+
+Analysis generated at: Tue Jun  9 02:36:28 UTC 2026
