@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Jun 10 15:20:58 UTC 2026
+Last updated: Wed Jun 10 15:49:46 UTC 2026
 
 ## Latest Analysis
 
-Loaded 110419 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-09 15:14:26
+Loaded 110430 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-09 15:49:32
 
 Incidents by source:
 source
-newsapi           110318
+newsapi           110329
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2026-06-09 15:14
+### HOMICIDE on 2026-06-09 15:49
 - Location: New York Post
-- Description: Misty Roberts – the former leader of DeRidder, La. – was convicted of having sex with her son's 16-year-old best friend during a booze-fueled pool party in July 2024.
+- Description: Karmelo Anthony’s lawyer blamed his alleged murder victim Austin Metcalf for the fatal run-in at a track and field meet in Texas last year as Anthony stuck to his long-shot self-defense argument.
 
 
-### OTHER on 2026-06-09 15:14
+### OTHER on 2026-06-09 15:46
 - Location: Dailymail.com
-- Description: David Stroud, 44, made sexually motivated remarks to the victim on a train to London on April 3, two days after a new law came into force criminalising sexual harassment.
+- Description: Charlotte Head, Samuel Corner, Leona Kamio, and Fatema Rajwani are facing lengthy jail terms on Friday in a sentencing at Woolwich Crown Court.
 
 
-### OTHER on 2026-06-09 15:07
-- Location: Www.gov.uk
-- Description: New powers introduced to crack down on organisations carrying out hostile activity on behalf of foreign states, including proxy groups who do their bidding.
+### ASSAULT on 2026-06-09 15:46
+- Location: CBS News
+- Description: Police appeal for calm as graphic video of a Belfast stabbing attack fuels calls for anti-immigration protests in Northern Ireland.
 
 
-### ROBBERY/THEFT on 2026-06-09 15:01
-- Location: Freerepublic.com
-- Description: When you import the Third World, you import the Third World's problems. Right now, that's never been more apparent than in Belfast, Northern Ireland, where an immigrant variously described as Sudanese and Somalian brutally attacked a young Irish man. The UK's…
+### OTHER on 2026-06-09 15:39
+- Location: Fortune
+- Description: Talking to reporters before boarding Air Force One to return to Washington, he said, “it was loud, and it was very enthusiastic.”
 
 
-### OTHER on 2026-06-09 15:00
-- Location: Dailymail.com
-- Description: Seattle's new Mayor Katie Wilson has divided the liberal city with her introduction of a massive tax increase on the rich, but she is not convinced it will make the wealthiest flee.
+### ASSAULT on 2026-06-09 15:36
+- Location: Reason
+- Description: Protesters continue to clash with law enforcement outside the Delaney Hall immigration detention facility, but questions remain over whether DHS policies comply with First Amendment law.
 
-Analysis generated at: Wed Jun 10 15:20:58 UTC 2026
+Analysis generated at: Wed Jun 10 15:49:46 UTC 2026
