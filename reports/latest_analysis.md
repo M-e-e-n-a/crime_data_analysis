@@ -1,10 +1,10 @@
 
-Loaded 110430 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-09 15:49:32
+Loaded 110508 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-09 20:12:43
 
 Incidents by source:
 source
-newsapi           110329
+newsapi           110407
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,30 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-06-09 15:49
-- Location: New York Post
-- Description: Karmelo Anthony’s lawyer blamed his alleged murder victim Austin Metcalf for the fatal run-in at a track and field meet in Texas last year as Anthony stuck to his long-shot self-defense argument.
+### OTHER on 2026-06-09 20:12
+- Location: Deadline
+- Description: When Linda Cardellini first auditioned for DTF St. Louis, she was given 15 pages to acquaint herself with. “It was a lot of text for an audition,” she says. “One of the scenes, I think, was eight pages long.” But creator Steven Conrad’s audition scenes would …
 
 
-### OTHER on 2026-06-09 15:46
-- Location: Dailymail.com
-- Description: Charlotte Head, Samuel Corner, Leona Kamio, and Fatema Rajwani are facing lengthy jail terms on Friday in a sentencing at Woolwich Crown Court.
+### SHOOTING on 2026-06-09 20:07
+- Location: The Punch
+- Description: Shootings injure residents in Osun as Governor Adeleke and APC trade blame over political violence during a campaign walk. Learn more about the unrest.
+
+Read More: https://punchng.com/adeleke-apc-camps-trade-blame-as-shootings-injure-residents-in-osun/
 
 
-### ASSAULT on 2026-06-09 15:46
-- Location: CBS News
-- Description: Police appeal for calm as graphic video of a Belfast stabbing attack fuels calls for anti-immigration protests in Northern Ireland.
+### OTHER on 2026-06-09 20:05
+- Location: CBC News
+- Description: Public Safety Minister Gary Anandasangaree says he is now open to shortening the time electronic service providers would be required to keep digital metadata under a proposed bill intended to help police and spies.
 
 
-### OTHER on 2026-06-09 15:39
-- Location: Fortune
-- Description: Talking to reporters before boarding Air Force One to return to Washington, he said, “it was loud, and it was very enthusiastic.”
+### ASSAULT on 2026-06-09 20:05
+- Location: Freerepublic.com
+- Description: Hersheypark visitors shielded their children and hid under tables during a wide-scale fight on opening day in April, police said in court documents released Tuesday. The rollercoaster Skyrush also had to come to an emergency stop during the April 3 series of …
 
 
-### ASSAULT on 2026-06-09 15:36
-- Location: Reason
-- Description: Protesters continue to clash with law enforcement outside the Delaney Hall immigration detention facility, but questions remain over whether DHS policies comply with First Amendment law.
+### HOMICIDE on 2026-06-09 19:50
+- Location: CBC News
+- Description: As a lawyer prepared to play an audio recording that captured some of the last minutes of his daughter's life, Darris Dobersheck and his wife Hazel got up and quietly left the courtroom.
 
-Analysis generated at: Wed Jun 10 15:49:46 UTC 2026
+Analysis generated at: Wed Jun 10 20:23:06 UTC 2026
