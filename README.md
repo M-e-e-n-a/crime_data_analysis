@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Jun 10 02:50:26 UTC 2026
+Last updated: Wed Jun 10 04:10:19 UTC 2026
 
 ## Latest Analysis
 
-Loaded 110279 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-09 02:39:02
+Loaded 110291 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-09 04:03:22
 
 Incidents by source:
 source
-newsapi           110178
+newsapi           110190
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-06-09 02:39
-- Location: ABC News (AU)
-- Description: US President Donald Trump cops the vitriol of the Madison Square Garden crowd after causing chaos to attend the NBA Finals.
-
-
-### HOMICIDE on 2026-06-09 02:20
-- Location: CBC News
-- Description: A third man has been charged with first degree murder in the death of a 79-year-old woman in Toronto's Wychwood neighbourhood last December.
-
-
-### OTHER on 2026-06-09 02:15
+### HOMICIDE on 2026-06-09 04:03
 - Location: Yahoo Entertainment
-- Description: Chants of “U-S-A! U-S-A!” echoed through the arena as Avery Wilson sang “The Star-Spangled Banner,” but they they gave way to boos moments later as Trump was displayed on the jumbo screens giving a military salute.
+- Description: A Texas teenager who fatally stabbed a 17-year-old track athlete from a rival team during a meet was convicted of murder Tuesday in a trial that drew nationa...
 
 
-### ROBBERY/THEFT on 2026-06-09 02:01
-- Location: CNA
-- Description: Public education efforts by the National Council on Problem Gambling and the National Crime Prevention Council will also be intensified during the World Cup season.
+### HOMICIDE on 2026-06-09 04:03
+- Location: The American Conservative
+- Description: No one prominent has taken the knee for Henry Nowak, the young man stabbed to death in Britain.
+The post Britain’s Anti-White Wokeness, America’s Pro-Israel Madness appeared first on The American Conservative.
 
 
-### HOMICIDE on 2026-06-09 02:00
-- Location: Dailymail.com
-- Description: Tessa Walker, 18, was killed on March 22, when the BMW M4 she had been riding in crashed along a state highway in Platte County, Missouri.
+### HOMICIDE on 2026-06-09 04:00
+- Location: Fox News
+- Description: Karmelo Anthony's defense rests without his testimony in the murder trial for the stabbing death of Austin Metcalf at a Texas high school track meet.
 
-Analysis generated at: Wed Jun 10 02:50:26 UTC 2026
+
+### ASSAULT on 2026-06-09 04:00
+- Location: Americanthinker.com
+- Description: They didn't exactly fight the Battle of Britain. This is an effort to erase Britain and its people and put frogs on the currency.
+
+
+### OTHER on 2026-06-09 04:00
+- Location: Americanthinker.com
+- Description: ... they know who's winning the war of ideas and it ain't blue-city blue-state policies.
+
+Analysis generated at: Wed Jun 10 04:10:19 UTC 2026
