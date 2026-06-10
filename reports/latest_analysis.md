@@ -1,10 +1,10 @@
 
-Loaded 110253 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-08 20:00:31
+Loaded 110279 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-09 02:39:02
 
 Incidents by source:
 source
-newsapi           110152
+newsapi           110178
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-06-08 20:00
-- Location: Legalinsurrection.com
-- Description: Europe Reacts with Demonstrations and "Taking a Knee" Movement while Media Deflects in Wake of Henry Nowak Killing
-The post Fallout from Video Release Expands: Police Sought to Cast Henry Nowak as Aggressor first appeared on Le·gal In·sur·rec·tion.
-
-
-### HOMICIDE on 2026-06-08 20:00
-- Location: Screen Rant
-- Description: Sonequa Martin-Green breaks down Boston Blue season 1's ending, how it's big cliffhanger will impact her character, and Lena's near-death experience.
-
-
-### OTHER on 2026-06-08 19:57
+### OTHER on 2026-06-09 02:39
 - Location: ABC News (AU)
-- Description: One of the state's top police officers has promised feuding gangs bringing terror to Sydney's streets will not exist "by the time we finish" as police stare down a new era of disorganised crime.
+- Description: US President Donald Trump cops the vitriol of the Madison Square Garden crowd after causing chaos to attend the NBA Finals.
 
 
-### HOMICIDE on 2026-06-08 19:52
-- Location: Wnd.com
-- Description: Teen stabber: 'I'm not leaving, [bleep] you all'
+### HOMICIDE on 2026-06-09 02:20
+- Location: CBC News
+- Description: A third man has been charged with first degree murder in the death of a 79-year-old woman in Toronto's Wychwood neighbourhood last December.
 
 
-### ROBBERY/THEFT on 2026-06-08 19:50
-- Location: Daily Signal
-- Description: A mass stabbing took place at New York City’s Penn Station less than a day before President Donald Trump was set to make an appearance across the street for an NBA Finals game. It’s yet another serious and ultimately inexcusable violent crime episode that has…
+### OTHER on 2026-06-09 02:15
+- Location: Yahoo Entertainment
+- Description: Chants of “U-S-A! U-S-A!” echoed through the arena as Avery Wilson sang “The Star-Spangled Banner,” but they they gave way to boos moments later as Trump was displayed on the jumbo screens giving a military salute.
 
-Analysis generated at: Tue Jun  9 20:01:29 UTC 2026
+
+### ROBBERY/THEFT on 2026-06-09 02:01
+- Location: CNA
+- Description: Public education efforts by the National Council on Problem Gambling and the National Crime Prevention Council will also be intensified during the World Cup season.
+
+
+### HOMICIDE on 2026-06-09 02:00
+- Location: Dailymail.com
+- Description: Tessa Walker, 18, was killed on March 22, when the BMW M4 she had been riding in crashed along a state highway in Platte County, Missouri.
+
+Analysis generated at: Wed Jun 10 02:50:26 UTC 2026
