@@ -1,10 +1,10 @@
 
-Loaded 110331 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-09 09:40:02
+Loaded 110419 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-09 15:14:26
 
 Incidents by source:
 source
-newsapi           110230
+newsapi           110318
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-06-09 09:40
+### ROBBERY/THEFT on 2026-06-09 15:14
 - Location: New York Post
-- Description: After his death, his wife, Kayla Morrow, said she was left "completely numb."
+- Description: Misty Roberts – the former leader of DeRidder, La. – was convicted of having sex with her son's 16-year-old best friend during a booze-fueled pool party in July 2024.
 
 
-### OTHER on 2026-06-09 09:29
-- Location: ABC News (AU)
-- Description: Criminal syndicates are targeting vulnerable children with no criminal history, low IQ and intellectual disabilities to carry out their dirty work through encrypted apps.
-
-
-### HOMICIDE on 2026-06-09 09:27
-- Location: BBC News
-- Description: Police and political leaders in Northern Ireland have called for calm, after a man, 30, was charged with attempted murder.
-
-
-### HOMICIDE on 2026-06-09 09:19
-- Location: The Times of India
-- Description: A suspected double murder of two sisters in Dhar district has been revealed as an accidental drowning. The children fell into a well while grazing goats with their mother. Some villagers allegedly manipulated the scene and spread false murder claims to settle…
-
-
-### HOMICIDE on 2026-06-09 09:02
+### OTHER on 2026-06-09 15:14
 - Location: Dailymail.com
-- Description: Officers were called to the scene of the incident in Pilgrims Hatch, Essex, at about 5.40pm on Sunday, following reports that a vehicle had collided with a child on Ashwells Road.
+- Description: David Stroud, 44, made sexually motivated remarks to the victim on a train to London on April 3, two days after a new law came into force criminalising sexual harassment.
 
-Analysis generated at: Wed Jun 10 09:46:21 UTC 2026
+
+### OTHER on 2026-06-09 15:07
+- Location: Www.gov.uk
+- Description: New powers introduced to crack down on organisations carrying out hostile activity on behalf of foreign states, including proxy groups who do their bidding.
+
+
+### ROBBERY/THEFT on 2026-06-09 15:01
+- Location: Freerepublic.com
+- Description: When you import the Third World, you import the Third World's problems. Right now, that's never been more apparent than in Belfast, Northern Ireland, where an immigrant variously described as Sudanese and Somalian brutally attacked a young Irish man. The UK's…
+
+
+### OTHER on 2026-06-09 15:00
+- Location: Dailymail.com
+- Description: Seattle's new Mayor Katie Wilson has divided the liberal city with her introduction of a massive tax increase on the rich, but she is not convinced it will make the wealthiest flee.
+
+Analysis generated at: Wed Jun 10 15:20:58 UTC 2026
