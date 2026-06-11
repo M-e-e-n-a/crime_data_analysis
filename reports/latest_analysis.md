@@ -1,10 +1,10 @@
 
-Loaded 110508 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-09 20:12:43
+Loaded 110546 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-10 02:57:30
 
 Incidents by source:
 source
-newsapi           110407
+newsapi           110445
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,30 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-06-09 20:12
-- Location: Deadline
-- Description: When Linda Cardellini first auditioned for DTF St. Louis, she was given 15 pages to acquaint herself with. “It was a lot of text for an audition,” she says. “One of the scenes, I think, was eight pages long.” But creator Steven Conrad’s audition scenes would …
-
-
-### SHOOTING on 2026-06-09 20:07
-- Location: The Punch
-- Description: Shootings injure residents in Osun as Governor Adeleke and APC trade blame over political violence during a campaign walk. Learn more about the unrest.
-
-Read More: https://punchng.com/adeleke-apc-camps-trade-blame-as-shootings-injure-residents-in-osun/
-
-
-### OTHER on 2026-06-09 20:05
-- Location: CBC News
-- Description: Public Safety Minister Gary Anandasangaree says he is now open to shortening the time electronic service providers would be required to keep digital metadata under a proposed bill intended to help police and spies.
-
-
-### ASSAULT on 2026-06-09 20:05
+### OTHER on 2026-06-10 02:57
 - Location: Freerepublic.com
-- Description: Hersheypark visitors shielded their children and hid under tables during a wide-scale fight on opening day in April, police said in court documents released Tuesday. The rollercoaster Skyrush also had to come to an emergency stop during the April 3 series of …
+- Description: FIERY protests erupted in Belfast last night with homes and cars being torched after the horror “attempted beheading” that rocked the nation. LOTS OF PICTURES AT LINK............ Furious demonstrators set alight at least three houses and several vehicles incl…
 
 
-### HOMICIDE on 2026-06-09 19:50
-- Location: CBC News
-- Description: As a lawyer prepared to play an audio recording that captured some of the last minutes of his daughter's life, Darris Dobersheck and his wife Hazel got up and quietly left the courtroom.
+### OTHER on 2026-06-10 02:53
+- Location: SoyaCincau.com
+- Description: The Malaysian banking industry have recognised the efforts of 68 bank employees in helping to prevent more than RM139 million in fraudulent transactions in 2025. The recognition was given during the #JanganKenaScam Bank Heroes Recognition Event 2026, which ho…
 
-Analysis generated at: Wed Jun 10 20:23:06 UTC 2026
+
+### SHOOTING on 2026-06-10 02:53
+- Location: CNA
+- Description: Alleged gunman Naveed Akram, 24, was initially charged with 59 offences in the days following the shooting.
+
+
+### OTHER on 2026-06-10 02:35
+- Location: Israelnationalnews.com
+- Description: A UN report states Hamas committed war crimes by torturing and publicly executing Gaza civilians.
+
+
+### HOMICIDE on 2026-06-10 02:29
+- Location: New York Post
+- Description: Police released Karmelo Anthony’s fresh mugshot ahead of his first night in prison after he was sentenced Tuesday to 35 years for 17-year-old Austin Metcalf’s murder. Anthony, 19, appeared stone-faced as he stared down the camera while dressed in a black jack…
+
+Analysis generated at: Thu Jun 11 02:59:53 UTC 2026
