@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Jun 11 16:11:35 UTC 2026
+Last updated: Thu Jun 11 20:14:19 UTC 2026
 
 ## Latest Analysis
 
-Loaded 110741 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-10 16:11:13
+Loaded 110829 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-10 20:11:26
 
 Incidents by source:
 source
-newsapi           110640
+newsapi           110728
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-06-10 16:11
-- Location: New York Post
-- Description: An LAPD officer is lucky to be alive after a gunman’s bullet became lodged in the cop’s body armor during a wild police shootout in Los Angeles. Newly released photos show just how close the violent confrontation Tuesday in Boyle Heights came to being a deadl…
+### HOMICIDE on 2026-06-10 20:11
+- Location: Breitbart News
+- Description: Mere hours after the GiveSendGo fund supporting Karmelo Anthony was "unpublished," activists supporting the teen murderer launched a petition calling for the arrest of Austin Metcalf's brother, Hunter.
+The post Karmelo Anthony Supporters Launch Change.Org Pet…
 
 
-### OTHER on 2026-06-10 16:09
-- Location: Fox News
-- Description: Trump signed the $70 billion homeland security bill after it narrowly passed the House, funding ICE and CBP through the remainder of his term.
+### OTHER on 2026-06-10 20:08
+- Location: ABC News (AU)
+- Description: An Adelaide business owner who has been targeted by counterfeiters about a dozen times is warning others to be vigilant, as SA Police warn the number of incidents has increased in the state in the past year.
 
 
-### SHOOTING on 2026-06-10 16:07
-- Location: Abcnews.com
-- Description: The shooting stemmed from a dispute between two rival groups, police said.
-
-
-### OTHER on 2026-06-10 16:03
-- Location: The Daily Caller
-- Description: The city of Pomona, California issued a Monday apology after pornographic images were included in summer recreation guides mailed to residents.
-
-
-### ROBBERY/THEFT on 2026-06-10 16:00
+### OTHER on 2026-06-10 20:07
 - Location: Dailymail.com
-- Description: Heather Rae, 38, seemed to refer to the burglary on social media this week as she said she felt 'violated and sad.' Their home is located in Newport Beach, California.
+- Description: Andrew Summerhayes, 38, Taylor Grundy, 22, and Dillon Crawford, 29, were all at the front of a mob that confronted riot police during unrest in Southampton on June 2.
 
-Analysis generated at: Thu Jun 11 16:11:35 UTC 2026
+
+### OTHER on 2026-06-10 20:06
+- Location: New York Post
+- Description: NY Post readers discuss a homeless man with multiple priors who is accused of slashing five people in Penn Station.
+
+
+### OTHER on 2026-06-10 20:04
+- Location: RTE
+- Description: Riot police have used water cannons against demonstrators who lit fires and threw projectiles at police near Belfast in a second night of unrest in Northern Ireland.
+
+Analysis generated at: Thu Jun 11 20:14:19 UTC 2026
