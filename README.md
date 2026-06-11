@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Jun 11 15:44:16 UTC 2026
+Last updated: Thu Jun 11 16:11:35 UTC 2026
 
 ## Latest Analysis
 
-Loaded 110726 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-10 15:43:40
+Loaded 110741 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-10 16:11:13
 
 Incidents by source:
 source
-newsapi           110625
+newsapi           110640
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-06-10 15:43
-- Location: The Daily Caller
-- Description: A man was brutally shot and killed Wednesday morning outside a police station in Barcelona, Spain, the same day Pope Leo XIV visited the capital city.
-
-
-### HOMICIDE on 2026-06-10 15:41
-- Location: Al Jazeera English
-- Description: US State Department confirms the fatality, but refuses to provide more information about the person's death in Yangon.
-
-
-### HOMICIDE on 2026-06-10 15:40
+### HOMICIDE on 2026-06-10 16:11
 - Location: New York Post
-- Description: Lame-duck Texas Rep. Jasmine Crockett suggested she would have stabbed slain track star Austin Metcalf during an unhinged episode of her podcast this week, in which she uncorked a staggering series of misstatements about the Karmelo Anthony murder case.
+- Description: An LAPD officer is lucky to be alive after a gunman’s bullet became lodged in the cop’s body armor during a wild police shootout in Los Angeles. Newly released photos show just how close the violent confrontation Tuesday in Boyle Heights came to being a deadl…
 
 
-### HOMICIDE on 2026-06-10 15:38
+### OTHER on 2026-06-10 16:09
+- Location: Fox News
+- Description: Trump signed the $70 billion homeland security bill after it narrowly passed the House, funding ICE and CBP through the remainder of his term.
+
+
+### SHOOTING on 2026-06-10 16:07
+- Location: Abcnews.com
+- Description: The shooting stemmed from a dispute between two rival groups, police said.
+
+
+### OTHER on 2026-06-10 16:03
+- Location: The Daily Caller
+- Description: The city of Pomona, California issued a Monday apology after pornographic images were included in summer recreation guides mailed to residents.
+
+
+### ROBBERY/THEFT on 2026-06-10 16:00
 - Location: Dailymail.com
-- Description: Zena Hoskins, 77, and David Hoskins, 80, who were married for more than 50 years, were both found dead at their £825,000 home in September last year.
+- Description: Heather Rae, 38, seemed to refer to the burglary on social media this week as she said she felt 'violated and sad.' Their home is located in Newport Beach, California.
 
-
-### OTHER on 2026-06-10 15:30
-- Location: Newsbreak.com
-- Description: A recent case of tuberculosis (TB) at North View Middle School in Brooklyn Park has Hennepin County Public Health officials working to reassure people that
-
-Analysis generated at: Thu Jun 11 15:44:16 UTC 2026
+Analysis generated at: Thu Jun 11 16:11:35 UTC 2026
