@@ -1,10 +1,10 @@
 
-Loaded 110926 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-11 10:00:15
+Loaded 110989 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-11 14:43:56
 
 Incidents by source:
 source
-newsapi           110825
+newsapi           110888
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-06-11 10:00
+### SHOOTING on 2026-06-11 14:43
 - Location: Fox News
-- Description: Sen. Schmitt warns Democrat immigration policies threaten Western civilization as his $350 million ICE funding provision targets sanctuary cities.
+- Description: Philadelphia police release video of two suspects wanted in the armed robbery and fatal shooting of Penn State student Billy Schmidt after NBA Finals.
 
 
-### SHOOTING on 2026-06-11 09:47
-- Location: Thepinknews.com
-- Description: Ahead of the 12 June anniversary, relatives cite claims of “survivable wounds” and say faster action could have saved loved ones.
-The post Pulse nightclub shooting victim’s families renew questions over police response 10 years on appeared first on PinkNews |…
+### OTHER on 2026-06-11 14:40
+- Location: Daily Signal
+- Description: The wealthy Columbus, Ohio suburb of Bexley was hit with a nasty surprise over the weekend when a “teen takeover” swarmed St. Catharine’s Catholic Church’s FunFest. An estimated 500 to 800 teens attended the festival, and although most were peaceful, a series…
 
 
-### OTHER on 2026-06-11 09:41
-- Location: Slate Magazine
-- Description: We might not have his brain scans. We do have something else.
+### HOMICIDE on 2026-06-11 14:25
+- Location: New York Post
+- Description: The Canoga Park father who murdered his twins before turning the gun on himself tried to add his wife to his killing spree — as his kids have been revealed.
 
 
-### OTHER on 2026-06-11 09:36
-- Location: ABC News (AU)
-- Description: The man from northern NSW was also found in possession of Neo-Nazi material during a search warrant on Thursday.
+### OTHER on 2026-06-11 14:20
+- Location: Ibtimes.com.au
+- Description: Experts conclude a 92% likelihood that Nancy Guthrie's abductor was someone she knew. The case remains active, with authorities urging public cooperation to solve the mystery.
 
 
-### HOMICIDE on 2026-06-11 09:34
-- Location: DW (English)
-- Description: Two Uyghur men convicted of murder for planting a bomb at the popular Erawan Shrine in the heart of Bangkok said they will appeal the death sentence.
+### OTHER on 2026-06-11 14:17
+- Location: Wnd.com
+- Description: Unsealed indictment alleges obstruction of immigration proceedings and obstruction of law enforcement
 
-Analysis generated at: Fri Jun 12 10:02:39 UTC 2026
+Analysis generated at: Fri Jun 12 14:45:51 UTC 2026
