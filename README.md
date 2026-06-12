@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Jun 12 02:56:42 UTC 2026
+Last updated: Fri Jun 12 04:25:49 UTC 2026
 
 ## Latest Analysis
 
-Loaded 110850 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-11 02:48:47
+Loaded 110862 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-11 04:10:45
 
 Incidents by source:
 source
-newsapi           110749
+newsapi           110761
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,30 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-06-11 02:48
-- Location: New York Post
-- Description: The defendant, Vance Boelter, was scheduled for a change-of-plea hearing Thursday morning in federal court in Minneapolis.
+### OTHER on 2026-06-11 04:10
+- Location: Newsonjapan.com
+- Description: Artificial intelligence is being rapidly adopted by local governments across Tokyo, with municipalities using the technology for crime prevention, public services, and disaster management. (News On Japan)
 
 
-### SHOOTING on 2026-06-11 02:32
-- Location: ABC News (AU)
-- Description: A coronial inquest into the shooting has heard from the woman who was in a locked bathroom with her armed partner for hours of police negotiations.
+### SHOOTING on 2026-06-11 04:01
+- Location: Freerepublic.com
+- Description: A mass shooting that left 12 people wounded Saturday afternoon at a summer festival in Ohio stemmed from “a dispute involving two rival groups,” according to police. Shots rang out from two gunmen, one from each group, just after 5:30 p.m. near the Old West E…
 
 
-### OTHER on 2026-06-11 02:25
-- Location: The Times of India
-- Description: This weekend brings exciting new content to streaming platforms. Akshay Kumar reunites with Priyadarshan for a horror-comedy. Crime thrillers and romantic dramas are also available. Football fans can watch the FIFA World Cup 2026. Suriya's action drama Karupp…
+### OTHER on 2026-06-11 04:00
+- Location: Americanthinker.com
+- Description: Tech companies are specifically seeking rural areas for data centers.
 
 
-### HOMICIDE on 2026-06-11 02:07
-- Location: CBC News
-- Description: Vitali Stefanski denied killing his ex-wife while testifying in B.C. Supreme Court in Kamloops on Wednesday.
+### ASSAULT on 2026-06-11 03:48
+- Location: Al Jazeera English
+- Description: Clashes come as family of knife attack victim calls for calm and condemns violence targeting immigrants.
 
 
-### HOMICIDE on 2026-06-11 02:07
-- Location: The Punch
-- Description: Six bandits were killed by security forces during a failed attack on communities in Zamfara State. Police confirm no casualties among residents or security
+### ASSAULT on 2026-06-11 03:44
+- Location: RTE
+- Description: Northern Ireland saw a second night of unrest with police using water cannons on protesters, as the Belfast stabbing attack victim's family said they were "disgusted" by the disorder.
 
-Read More: https://punchng.com/six-bandits-killed-during-failed-zamfara-community-attack/
-
-Analysis generated at: Fri Jun 12 02:56:42 UTC 2026
+Analysis generated at: Fri Jun 12 04:25:49 UTC 2026
