@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Jun 12 04:25:49 UTC 2026
+Last updated: Fri Jun 12 10:02:39 UTC 2026
 
 ## Latest Analysis
 
-Loaded 110862 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-11 04:10:45
+Loaded 110926 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-11 10:00:15
 
 Incidents by source:
 source
-newsapi           110761
+newsapi           110825
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-06-11 04:10
-- Location: Newsonjapan.com
-- Description: Artificial intelligence is being rapidly adopted by local governments across Tokyo, with municipalities using the technology for crime prevention, public services, and disaster management. (News On Japan)
+### OTHER on 2026-06-11 10:00
+- Location: Fox News
+- Description: Sen. Schmitt warns Democrat immigration policies threaten Western civilization as his $350 million ICE funding provision targets sanctuary cities.
 
 
-### SHOOTING on 2026-06-11 04:01
-- Location: Freerepublic.com
-- Description: A mass shooting that left 12 people wounded Saturday afternoon at a summer festival in Ohio stemmed from “a dispute involving two rival groups,” according to police. Shots rang out from two gunmen, one from each group, just after 5:30 p.m. near the Old West E…
+### SHOOTING on 2026-06-11 09:47
+- Location: Thepinknews.com
+- Description: Ahead of the 12 June anniversary, relatives cite claims of “survivable wounds” and say faster action could have saved loved ones.
+The post Pulse nightclub shooting victim’s families renew questions over police response 10 years on appeared first on PinkNews |…
 
 
-### OTHER on 2026-06-11 04:00
-- Location: Americanthinker.com
-- Description: Tech companies are specifically seeking rural areas for data centers.
+### OTHER on 2026-06-11 09:41
+- Location: Slate Magazine
+- Description: We might not have his brain scans. We do have something else.
 
 
-### ASSAULT on 2026-06-11 03:48
-- Location: Al Jazeera English
-- Description: Clashes come as family of knife attack victim calls for calm and condemns violence targeting immigrants.
+### OTHER on 2026-06-11 09:36
+- Location: ABC News (AU)
+- Description: The man from northern NSW was also found in possession of Neo-Nazi material during a search warrant on Thursday.
 
 
-### ASSAULT on 2026-06-11 03:44
-- Location: RTE
-- Description: Northern Ireland saw a second night of unrest with police using water cannons on protesters, as the Belfast stabbing attack victim's family said they were "disgusted" by the disorder.
+### HOMICIDE on 2026-06-11 09:34
+- Location: DW (English)
+- Description: Two Uyghur men convicted of murder for planting a bomb at the popular Erawan Shrine in the heart of Bangkok said they will appeal the death sentence.
 
-Analysis generated at: Fri Jun 12 04:25:49 UTC 2026
+Analysis generated at: Fri Jun 12 10:02:39 UTC 2026
