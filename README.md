@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Jun 12 15:26:52 UTC 2026
+Last updated: Fri Jun 12 20:02:42 UTC 2026
 
 ## Latest Analysis
 
-Loaded 111001 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-11 15:25:02
+Loaded 111094 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-11 20:02:00
 
 Incidents by source:
 source
-newsapi           110900
+newsapi           110993
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,48 +24,30 @@ ion.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2026-06-11 15:25
-- Location: Reason
-- Description: Police arrested and charged Robert Dillon with a heinous crime based on nothing more than a faulty image search.
+### ASSAULT on 2026-06-11 20:02
+- Location: DW (English)
+- Description: A video of a knife attack sparked racist riots across the Northern Irish capital Belfast on Monday, with violence has now spreading across the United Kingdom. Keir Starmer says there will be "no tolerance" for rioters. As anti-immigrant protests escalated, ch…
 
 
-### HOMICIDE on 2026-06-11 15:22
-- Location: National Post
-- Description: Another member of law enforcement was injured and taken to the hospital, the Toronto Police Operations official X account wrote on Thursday morning.
+### SHOOTING on 2026-06-11 20:01
+- Location: The Daily Caller
+- Description: Police cars, hundreds of members of the Toronto Police Service, and community members lined the streets of Toronto in an outpouring of support, as the body of Constable Marc Pinizzotto arrived to the coroner's office.
 
 
-### SHOOTING on 2026-06-11 15:21
-- Location: BBC News
-- Description: Police said a 19-year-old suspect linked to a shooting outside the US consulate in Toronto in March is still at large and is considered "armed and dangerous".
+### ROBBERY/THEFT on 2026-06-11 19:54
+- Location: Fox News
+- Description: Boston police investigate armed robbery of children's lemonade stand in South Boston, where suspects allegedly stole $50 and displayed a firearm.
 
 
-### OTHER on 2026-06-11 15:20
-- Location: Human Rights Watch
-- Description: Click to expand Image
- 
+### OTHER on 2026-06-11 19:52
+- Location: The Punch
+- Description: Epe Local Government Chairman, Princess Surah Animashaun, reaffirms commitment to protecting lives and property and boosting security support in Epe.
+
+Read More: https://punchng.com/lagos-lg-boss-pledges-to-protect-lives-property-boost-security-support/
 
 
+### HOMICIDE on 2026-06-11 19:39
+- Location: New York Post
+- Description: "The brutality of this shocking crime is almost beyond words," District Attorney Eric Gonzalez said.
 
- 
- 
- 
-
- 
- 
- 
- 
- Afghan women walk across a street in Herat on June 8, 2026.
- © 2026 Mohsen Karimi/AFP via Getty Images
- 
- 
-
-
- 
-(New York) – Taliban security forces in Afghanistan used excessive force against protesters in the city o…
-
-
-### HOMICIDE on 2026-06-11 15:18
-- Location: Abcnews.com
-- Description: A Toronto police officer has been shot and killed by a suspect linked to an attack on the U.S. Consulate in March
-
-Analysis generated at: Fri Jun 12 15:26:52 UTC 2026
+Analysis generated at: Fri Jun 12 20:02:42 UTC 2026
