@@ -1,10 +1,10 @@
 
-Loaded 110989 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-11 14:43:56
+Loaded 111001 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-11 15:25:02
 
 Incidents by source:
 source
-newsapi           110888
+newsapi           110900
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,48 @@ ion.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-06-11 14:43
-- Location: Fox News
-- Description: Philadelphia police release video of two suspects wanted in the armed robbery and fatal shooting of Penn State student Billy Schmidt after NBA Finals.
+### ROBBERY/THEFT on 2026-06-11 15:25
+- Location: Reason
+- Description: Police arrested and charged Robert Dillon with a heinous crime based on nothing more than a faulty image search.
 
 
-### OTHER on 2026-06-11 14:40
-- Location: Daily Signal
-- Description: The wealthy Columbus, Ohio suburb of Bexley was hit with a nasty surprise over the weekend when a “teen takeover” swarmed St. Catharine’s Catholic Church’s FunFest. An estimated 500 to 800 teens attended the festival, and although most were peaceful, a series…
+### HOMICIDE on 2026-06-11 15:22
+- Location: National Post
+- Description: Another member of law enforcement was injured and taken to the hospital, the Toronto Police Operations official X account wrote on Thursday morning.
 
 
-### HOMICIDE on 2026-06-11 14:25
-- Location: New York Post
-- Description: The Canoga Park father who murdered his twins before turning the gun on himself tried to add his wife to his killing spree — as his kids have been revealed.
+### SHOOTING on 2026-06-11 15:21
+- Location: BBC News
+- Description: Police said a 19-year-old suspect linked to a shooting outside the US consulate in Toronto in March is still at large and is considered "armed and dangerous".
 
 
-### OTHER on 2026-06-11 14:20
-- Location: Ibtimes.com.au
-- Description: Experts conclude a 92% likelihood that Nancy Guthrie's abductor was someone she knew. The case remains active, with authorities urging public cooperation to solve the mystery.
+### OTHER on 2026-06-11 15:20
+- Location: Human Rights Watch
+- Description: Click to expand Image
+ 
 
 
-### OTHER on 2026-06-11 14:17
-- Location: Wnd.com
-- Description: Unsealed indictment alleges obstruction of immigration proceedings and obstruction of law enforcement
 
-Analysis generated at: Fri Jun 12 14:45:51 UTC 2026
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Afghan women walk across a street in Herat on June 8, 2026.
+ © 2026 Mohsen Karimi/AFP via Getty Images
+ 
+ 
+
+
+ 
+(New York) – Taliban security forces in Afghanistan used excessive force against protesters in the city o…
+
+
+### HOMICIDE on 2026-06-11 15:18
+- Location: Abcnews.com
+- Description: A Toronto police officer has been shot and killed by a suspect linked to an attack on the U.S. Consulate in March
+
+Analysis generated at: Fri Jun 12 15:26:52 UTC 2026
