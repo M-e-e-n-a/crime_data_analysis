@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Jun 11 20:14:19 UTC 2026
+Last updated: Fri Jun 12 02:56:42 UTC 2026
 
 ## Latest Analysis
 
-Loaded 110829 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-10 20:11:26
+Loaded 110850 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-11 02:48:47
 
 Incidents by source:
 source
-newsapi           110728
+newsapi           110749
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,29 +24,30 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-06-10 20:11
-- Location: Breitbart News
-- Description: Mere hours after the GiveSendGo fund supporting Karmelo Anthony was "unpublished," activists supporting the teen murderer launched a petition calling for the arrest of Austin Metcalf's brother, Hunter.
-The post Karmelo Anthony Supporters Launch Change.Org Pet…
-
-
-### OTHER on 2026-06-10 20:08
-- Location: ABC News (AU)
-- Description: An Adelaide business owner who has been targeted by counterfeiters about a dozen times is warning others to be vigilant, as SA Police warn the number of incidents has increased in the state in the past year.
-
-
-### OTHER on 2026-06-10 20:07
-- Location: Dailymail.com
-- Description: Andrew Summerhayes, 38, Taylor Grundy, 22, and Dillon Crawford, 29, were all at the front of a mob that confronted riot police during unrest in Southampton on June 2.
-
-
-### OTHER on 2026-06-10 20:06
+### HOMICIDE on 2026-06-11 02:48
 - Location: New York Post
-- Description: NY Post readers discuss a homeless man with multiple priors who is accused of slashing five people in Penn Station.
+- Description: The defendant, Vance Boelter, was scheduled for a change-of-plea hearing Thursday morning in federal court in Minneapolis.
 
 
-### OTHER on 2026-06-10 20:04
-- Location: RTE
-- Description: Riot police have used water cannons against demonstrators who lit fires and threw projectiles at police near Belfast in a second night of unrest in Northern Ireland.
+### SHOOTING on 2026-06-11 02:32
+- Location: ABC News (AU)
+- Description: A coronial inquest into the shooting has heard from the woman who was in a locked bathroom with her armed partner for hours of police negotiations.
 
-Analysis generated at: Thu Jun 11 20:14:19 UTC 2026
+
+### OTHER on 2026-06-11 02:25
+- Location: The Times of India
+- Description: This weekend brings exciting new content to streaming platforms. Akshay Kumar reunites with Priyadarshan for a horror-comedy. Crime thrillers and romantic dramas are also available. Football fans can watch the FIFA World Cup 2026. Suriya's action drama Karupp…
+
+
+### HOMICIDE on 2026-06-11 02:07
+- Location: CBC News
+- Description: Vitali Stefanski denied killing his ex-wife while testifying in B.C. Supreme Court in Kamloops on Wednesday.
+
+
+### HOMICIDE on 2026-06-11 02:07
+- Location: The Punch
+- Description: Six bandits were killed by security forces during a failed attack on communities in Zamfara State. Police confirm no casualties among residents or security
+
+Read More: https://punchng.com/six-bandits-killed-during-failed-zamfara-community-attack/
+
+Analysis generated at: Fri Jun 12 02:56:42 UTC 2026
