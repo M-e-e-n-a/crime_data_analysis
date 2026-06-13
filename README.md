@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Jun 13 14:11:02 UTC 2026
+Last updated: Sat Jun 13 19:17:25 UTC 2026
 
 ## Latest Analysis
 
-Loaded 111270 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-12 14:10:01
+Loaded 111363 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-12 19:10:39
 
 Incidents by source:
 source
-newsapi           111169
+newsapi           111262
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,31 +24,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-06-12 14:10
-- Location: Freerepublic.com
-- Description: OMAHA — Dan Osborn, an Independent candidate for U.S. Senate in Nebraska, at a town hall in Omaha last week, told attendees that he believed there should be mandatory five-year mental health checks for owners of AR-15s and similar “assault-style” rifles. One …
+### OTHER on 2026-06-12 19:10
+- Location: Matadornetwork.com
+- Description: New Zealand's Working Holiday Visa allows foreign travelers to spend up to a year in the country working temporary jobs and exploring.
 
 
-### OTHER on 2026-06-12 14:09
-- Location: The Punch
-- Description: Bauchi State Police have arrested two suspected kidnappers and rescued a four-year-old boy in an intelligence-led operation. Read more about the Bauchi kid
-
-Read More: https://punchng.com/police-arrest-two-suspected-kidnappers-rescue-victim-in-bauchi/
+### HOMICIDE on 2026-06-12 19:10
+- Location: LADbible
+- Description: Police are investigating after two people were shot dead in two days on an estate in South Africa
 
 
-### ROBBERY/THEFT on 2026-06-12 14:07
-- Location: PetaPixel
-- Description: Police have launched an investigation after a popular macro photographer had over $10,000 worth of his specialist camera gear stolen from his locked car.
-[Read More]
+### OTHER on 2026-06-12 19:09
+- Location: Abcnews.com
+- Description: A London judge has sentenced four Palestine Action activists to several years in prison for what he called an “act of terrorism.”
 
 
-### OTHER on 2026-06-12 14:06
-- Location: Dailymail.com
-- Description: The 43-year-old is imprisoned on fraud allegations, reportedly desperate, and pleading with his former glamour model wife to secure his freedom.
+### OTHER on 2026-06-12 19:08
+- Location: Crypto Briefing
+- Description: FIFA's accreditation highlights global press freedom issues, potentially pressuring Algeria to reconsider its stance on jailed journalists.
+The post FIFA grants World Cup accreditation to jailed journalist Christophe Gleizes appeared first on Crypto Briefing.
 
 
-### ROBBERY/THEFT on 2026-06-12 14:03
-- Location: Malwarebytes.com
-- Description: Apple and the Met Police are working together to make stolen iPhones harder to reset, resell, and profit from.
+### HOMICIDE on 2026-06-12 19:04
+- Location: Snopes.com
+- Description: A photograph authentically shows Austin Metcalf's father, Jeff Metcalf, standing at a party with Judge John Roach, who presided over the case of the teen who killed Austin Metcalf, and Collin County District Attorney Greg Willis.
 
-Analysis generated at: Sat Jun 13 14:11:02 UTC 2026
+Analysis generated at: Sat Jun 13 19:17:25 UTC 2026
