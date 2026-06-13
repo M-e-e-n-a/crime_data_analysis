@@ -1,10 +1,10 @@
 
-Loaded 111257 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-12 13:47:45
+Loaded 111270 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-12 14:10:01
 
 Incidents by source:
 source
-newsapi           111156
+newsapi           111169
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,31 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-06-12 13:47
-- Location: Dailymail.com
-- Description: Manu Crooks, whose real name is Emmanuel Amankwah, has always denied any involvement in the woman's alleged rape at an inner-city Sydney apartment almost four years ago.
-
-
-### OTHER on 2026-06-12 13:47
-- Location: RTE
-- Description: Gardaí are liaising with Spanish authorities after the brother of an Irish sports star was reported missing in Spain.
-
-
-### OTHER on 2026-06-12 13:45
-- Location: Dailymail.com
-- Description: San Antonio Spurs sensation Victor Wembanyama is facing growing uproar over his national anthem etiquette after being mysteriously absent for The Star-Spangled Banner Banner.
-
-
-### OTHER on 2026-06-12 13:42
+### SHOOTING on 2026-06-12 14:10
 - Location: Freerepublic.com
-- Description: It is impossible to avert one’s eyes from the United Kingdom’s cultural disintegration. It produces horrors that stand as a warning to all Western nations to guard their societies against their current influx of hostile foreigners. Britain’s moral collapse ha…
+- Description: OMAHA — Dan Osborn, an Independent candidate for U.S. Senate in Nebraska, at a town hall in Omaha last week, told attendees that he believed there should be mandatory five-year mental health checks for owners of AR-15s and similar “assault-style” rifles. One …
 
 
-### HOMICIDE on 2026-06-12 13:36
-- Location: CBC News
-- Description: The death of Const. Marc Pinizzotto, who was fatally shot while conducting a search warrant early Thursday morning, has drawn tributes from all over the country, ranging from Ontario's premier to the prime minister.
+### OTHER on 2026-06-12 14:09
+- Location: The Punch
+- Description: Bauchi State Police have arrested two suspected kidnappers and rescued a four-year-old boy in an intelligence-led operation. Read more about the Bauchi kid
 
-Analysis generated at: Sat Jun 13 13:48:03 UTC 2026
+Read More: https://punchng.com/police-arrest-two-suspected-kidnappers-rescue-victim-in-bauchi/
+
+
+### ROBBERY/THEFT on 2026-06-12 14:07
+- Location: PetaPixel
+- Description: Police have launched an investigation after a popular macro photographer had over $10,000 worth of his specialist camera gear stolen from his locked car.
+[Read More]
+
+
+### OTHER on 2026-06-12 14:06
+- Location: Dailymail.com
+- Description: The 43-year-old is imprisoned on fraud allegations, reportedly desperate, and pleading with his former glamour model wife to secure his freedom.
+
+
+### ROBBERY/THEFT on 2026-06-12 14:03
+- Location: Malwarebytes.com
+- Description: Apple and the Met Police are working together to make stolen iPhones harder to reset, resell, and profit from.
+
+Analysis generated at: Sat Jun 13 14:11:02 UTC 2026
