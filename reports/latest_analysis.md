@@ -1,10 +1,10 @@
 
-Loaded 111174 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-12 08:40:03
+Loaded 111257 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-12 13:47:45
 
 Incidents by source:
 source
-newsapi           111073
+newsapi           111156
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### DRUG RELATED on 2026-06-12 08:40
+### OTHER on 2026-06-12 13:47
 - Location: Dailymail.com
-- Description: WARNING GRAPHIC CONTENT
-Bawan Harwe, 28, messaged the girls, aged between 12 and 16, under a fake name, earning their trust before raping and abusing them.
+- Description: Manu Crooks, whose real name is Emmanuel Amankwah, has always denied any involvement in the woman's alleged rape at an inner-city Sydney apartment almost four years ago.
 
 
-### HOMICIDE on 2026-06-12 08:35
-- Location: Advocate.com
-- Description: Many of the hundreds touched by the then-deadliest mass shooting in U.S. history at Pulse, a gay Orlando nightclub, where an extremist gunman killed 49 people and left 58 others injured ten years ago Friday, still seek solace. Even survivors who left the Flor…
+### OTHER on 2026-06-12 13:47
+- Location: RTE
+- Description: Gardaí are liaising with Spanish authorities after the brother of an Irish sports star was reported missing in Spain.
 
 
-### OTHER on 2026-06-12 08:30
-- Location: Gossiplankanews.com
-- Description: Anuradhapura Chief Magistrate Siyapath Sasindu Wickramarathne has ordered former Atamasthanadhipathi Ven. Pallegama Hemarathana Thero, who is accused in a case of severe abuse of a minor girl, to provide blood samples for a DNA test. According to this order i…
+### OTHER on 2026-06-12 13:45
+- Location: Dailymail.com
+- Description: San Antonio Spurs sensation Victor Wembanyama is facing growing uproar over his national anthem etiquette after being mysteriously absent for The Star-Spangled Banner Banner.
 
 
-### OTHER on 2026-06-12 08:00
+### OTHER on 2026-06-12 13:42
+- Location: Freerepublic.com
+- Description: It is impossible to avert one’s eyes from the United Kingdom’s cultural disintegration. It produces horrors that stand as a warning to all Western nations to guard their societies against their current influx of hostile foreigners. Britain’s moral collapse ha…
+
+
+### HOMICIDE on 2026-06-12 13:36
 - Location: CBC News
-- Description: Why is a YouTuber called Reckless Ben accusing a Bricks & Minifigs franchise of stealing a Star Wars Lego collection from an Oregon family? Let's break down the scandal creating an internet frenzy
+- Description: The death of Const. Marc Pinizzotto, who was fatally shot while conducting a search warrant early Thursday morning, has drawn tributes from all over the country, ranging from Ontario's premier to the prime minister.
 
-
-### OTHER on 2026-06-12 07:58
-- Location: South Bend Tribune
-- Description: He was just a history teacher/junior varsity coach from Washington until he found his calling in college, then the face of Notre Dame basketball.
-
-Analysis generated at: Sat Jun 13 08:51:57 UTC 2026
+Analysis generated at: Sat Jun 13 13:48:03 UTC 2026
