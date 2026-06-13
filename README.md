@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Jun 12 20:02:42 UTC 2026
+Last updated: Sat Jun 13 02:49:36 UTC 2026
 
 ## Latest Analysis
 
-Loaded 111094 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-11 20:02:00
+Loaded 111119 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-12 02:40:28
 
 Incidents by source:
 source
-newsapi           110993
+newsapi           111018
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,30 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2026-06-11 20:02
-- Location: DW (English)
-- Description: A video of a knife attack sparked racist riots across the Northern Irish capital Belfast on Monday, with violence has now spreading across the United Kingdom. Keir Starmer says there will be "no tolerance" for rioters. As anti-immigrant protests escalated, ch…
+### OTHER on 2026-06-12 02:40
+- Location: Breitbart News
+- Description: U.S. Immigration and Customs Enforcement (ICE) officers deported a 28-year-old Mexican national after an investigation showed the illegal alien from Mexico tried to fraudulently transfer her newborn baby to another individual because of a debt to smugglers. M…
 
 
-### SHOOTING on 2026-06-11 20:01
-- Location: The Daily Caller
-- Description: Police cars, hundreds of members of the Toronto Police Service, and community members lined the streets of Toronto in an outpouring of support, as the body of Constable Marc Pinizzotto arrived to the coroner's office.
+### SHOOTING on 2026-06-12 02:38
+- Location: ABC News (AU)
+- Description: The grandparent of missing four-year-old Gus Lamont has been fined $10,500 for possession of a gun silencer at the family's Oak Park Station, in South Australia's far north. Police have previously said the offence is not related to his disappearance.
 
 
-### ROBBERY/THEFT on 2026-06-11 19:54
-- Location: Fox News
-- Description: Boston police investigate armed robbery of children's lemonade stand in South Boston, where suspects allegedly stole $50 and displayed a firearm.
+### HOMICIDE on 2026-06-12 02:10
+- Location: CBC News
+- Description: An Indian national convicted of carrying out a Bishnoi gang extortion attack at the Victoria-area home of Punjabi singer AP Dhillon claims the gang has vowed to kill him if he returns to India.
 
 
-### OTHER on 2026-06-11 19:52
-- Location: The Punch
-- Description: Epe Local Government Chairman, Princess Surah Animashaun, reaffirms commitment to protecting lives and property and boosting security support in Epe.
-
-Read More: https://punchng.com/lagos-lg-boss-pledges-to-protect-lives-property-boost-security-support/
+### OTHER on 2026-06-12 02:06
+- Location: Dailymail.com
+- Description: Students at a Melbourne private school have been put into lockdown amid fears of an alleged intruder armed with a machete.
 
 
-### HOMICIDE on 2026-06-11 19:39
-- Location: New York Post
-- Description: "The brutality of this shocking crime is almost beyond words," District Attorney Eric Gonzalez said.
+### OTHER on 2026-06-12 02:02
+- Location: Anime News Network
+- Description: 2022 Mr. Osomatsu film's Osomatsu actor returns to franchise as "Former Osomatsu"
 
-Analysis generated at: Fri Jun 12 20:02:42 UTC 2026
+Analysis generated at: Sat Jun 13 02:49:36 UTC 2026
