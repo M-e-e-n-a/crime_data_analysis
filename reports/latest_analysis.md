@@ -1,10 +1,10 @@
 
-Loaded 111119 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-12 02:40:28
+Loaded 111128 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-12 04:00:00
 
 Incidents by source:
 source
-newsapi           111018
+newsapi           111027
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,30 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-06-12 02:40
-- Location: Breitbart News
-- Description: U.S. Immigration and Customs Enforcement (ICE) officers deported a 28-year-old Mexican national after an investigation showed the illegal alien from Mexico tried to fraudulently transfer her newborn baby to another individual because of a debt to smugglers. M…
+### OTHER on 2026-06-12 04:00
+- Location: Americanthinker.com
+- Description: It's always best to avoid using force, but it's not always possible.
 
 
-### SHOOTING on 2026-06-12 02:38
-- Location: ABC News (AU)
-- Description: The grandparent of missing four-year-old Gus Lamont has been fined $10,500 for possession of a gun silencer at the family's Oak Park Station, in South Australia's far north. Police have previously said the offence is not related to his disappearance.
+### OTHER on 2026-06-12 04:00
+- Location: Americanthinker.com
+- Description: Sacred cows are skewered in this scathing indictment of where Canada has been heading over the last decade or longer.
 
 
-### HOMICIDE on 2026-06-12 02:10
-- Location: CBC News
-- Description: An Indian national convicted of carrying out a Bishnoi gang extortion attack at the Victoria-area home of Punjabi singer AP Dhillon claims the gang has vowed to kill him if he returns to India.
+### OTHER on 2026-06-12 04:00
+- Location: Americanthinker.com
+- Description: Photo Credit:Józef Brandt, Public domain, via Wikimedia Commons
+ 
+ Public DomainAfter resisting the military invasions of the Caliphate for centuries, Europe, led by German Chancellor Angela Merkel, decided to open its borders wide to migrants with entrenched…
 
 
-### OTHER on 2026-06-12 02:06
-- Location: Dailymail.com
-- Description: Students at a Melbourne private school have been put into lockdown amid fears of an alleged intruder armed with a machete.
+### HOMICIDE on 2026-06-12 03:36
+- Location: Freerepublic.com
+- Description: Officers carried out search warrant at residential building Thursday morning, prior to shootingA 19-year-old will be charged with first-degree murder in the death of a Toronto police constable shot in an exchange of gunfire in the city's northwest end Thursda…
 
 
-### OTHER on 2026-06-12 02:02
-- Location: Anime News Network
-- Description: 2022 Mr. Osomatsu film's Osomatsu actor returns to franchise as "Former Osomatsu"
+### OTHER on 2026-06-12 03:20
+- Location: Associated Press
+- Description: "Poison the Fantasy" campaign targets traveling sex buyers with hard-hitting warnings about exposure, harm and real-world consequences
 
-Analysis generated at: Sat Jun 13 02:49:36 UTC 2026
+Analysis generated at: Sat Jun 13 04:14:30 UTC 2026
