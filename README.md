@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Jun 14 09:25:06 UTC 2026
+Last updated: Sun Jun 14 13:50:52 UTC 2026
 
 ## Latest Analysis
 
-Loaded 111421 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-13 09:20:07
+Loaded 111463 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-13 13:43:33
 
 Incidents by source:
 source
-newsapi           111320
+newsapi           111362
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,30 +24,30 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-06-13 09:20
-- Location: The Punch
-- Description: Elon Musk, the world’s first trillionaire, faces criticism for amplifying anti-immigrant narratives on X, contributing to Belfast riots. Learn more.
-
-Read More: https://punchng.com/worlds-first-trillionaire-musk-under-fire-over-belfast-riots/
-
-
-### ROBBERY/THEFT on 2026-06-13 09:16
+### HOMICIDE on 2026-06-13 13:43
 - Location: Dailymail.com
-- Description: The Three Lions touch down at Kansas City's Wheeler airport later on Saturday and will then be bused to their £250 a night hotel, the Inn at Meadowbrook.
+- Description: Edward Randall Scott, 62, of Midland, was shot dead by Victor Mata Villarreal, 45, on Friday around 8am.
 
 
-### HOMICIDE on 2026-06-13 09:15
-- Location: The Times of India
-- Description: A shocking murder case unfolds in Parvathipuram Manyam district as police apprehend three individuals, including the victim's boyfriend and his alleged accomplice. B Usha Rani's life was cut short under sinister circumstances, with R Bhuvaneswar accused of po…
+### OTHER on 2026-06-13 13:37
+- Location: The Punch
+- Description: The DSS has intercepted a significant arms cache in Kano, arresting a courier en route to a Zamfara bandit leader. This DSS arms interception is a major se
+
+Read More: https://punchng.com/dss-intercepts-arms-cache-in-zamfara-nabs-courier/
 
 
-### ROBBERY/THEFT on 2026-06-13 09:15
-- Location: The Times of India
-- Description: In a baffling incident, thieves in Bihar have allegedly made a 40-meter mobile tower, along with a generator and equipment, disappear from Dumraon town. Officials discovered the structure missing during an inspection, prompting a police investigation into thi…
+### ASSAULT on 2026-06-13 13:33
+- Location: RTE
+- Description: Around 5,000 people have attended an anti-racism rally in Belfast city centre following days of unrest provoked by a knife attack earlier this week.
 
 
-### ROBBERY/THEFT on 2026-06-13 09:12
+### ROBBERY/THEFT on 2026-06-13 13:25
 - Location: Rediff.com
-- Description: England have suffered a theft of training equipment ahead of their arrival in Kansas City, local police said, after a vehicle transporting the gear to their World Cup base was broken into.
+- Description: The England football team's training equipment, including players' boots and manager Thomas Tuchel's tactical gear, was reportedly stolen in Kansas City ahead of their World Cup opener against Croatia. The Football Association and local police are investigati…
 
-Analysis generated at: Sun Jun 14 09:25:06 UTC 2026
+
+### OTHER on 2026-06-13 13:15
+- Location: Freerepublic.com
+- Description: The New York City Democratic Socialists of America — a group closely aligned with Mayor Mamdani — issued a rebuke of his move to drive up the Police Department’s headcount despite his campaign trail pledge to keep NYPD numbers flat. In rare public criticism o…
+
+Analysis generated at: Sun Jun 14 13:50:52 UTC 2026
