@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Jun 14 03:00:48 UTC 2026
+Last updated: Sun Jun 14 04:42:10 UTC 2026
 
 ## Latest Analysis
 
-Loaded 111384 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-13 02:59:10
+Loaded 111396 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-13 04:39:45
 
 Incidents by source:
 source
-newsapi           111283
+newsapi           111295
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2026-06-13 02:59
+### ROBBERY/THEFT on 2026-06-13 04:39
+- Location: CNA
+- Description: June 13 : England have suffered a theft of training equipment ahead of their arrival in Kansas City, local police said, after a vehicle transporting the gear to their World Cup base was broken into.The incident occurred while equipment was being transferred f…
+
+
+### OTHER on 2026-06-13 04:24
+- Location: Dailymail.com
+- Description: A mother-of-three who disappeared without a trace last week told family members she was meeting with her estranged son to discuss borrowing money.
+
+
+### HOMICIDE on 2026-06-13 04:12
+- Location: Abcnews.com
+- Description: The Manhattan architect who lived a secret life as the Gilgo Beach serial killer has spent the past three years alone in a segregated cell
+
+
+### ROBBERY/THEFT on 2026-06-13 04:11
+- Location: Dpa-international.com
+- Description: The Football Association has confirmed police are investigating the theft of team equipment ahead of England’s arrival at their Kansas City base. Thomas Tuchel’s side land in the Midwest on Saturday afternoon as World Cup preparations go up a notch following …
+
+
+### ROBBERY/THEFT on 2026-06-13 04:05
 - Location: Yahoo Entertainment
-- Description: Two subjects of interest have been taken into custody.
+- Description: England's World Cup preparations have been hit by the theft of equipment ahead of the squad's arrival at their Kansas City training base on Saturday.The Kansas City, Missouri Police Department told the Daily Mail: "We are investigating a possible theft of equ…
 
-
-### HOMICIDE on 2026-06-13 02:54
-- Location: RTE
-- Description: President Donald Trump said US forces carried out a strike that killed Hector Rusthenford Guerrero Flores, also known as Niño Guerrero, the leader of Venezuelan prison gang Tren de Aragua.
-
-
-### ROBBERY/THEFT on 2026-06-13 02:44
-- Location: HITC - Football, Gaming, Movies, TV, Music
-- Description: England’s World Cup preparations have been disrupted after match boots, balls and training equipment were stolen while the squad’s kit was being transported to Kansas City. The timing gives Thomas Tuchel an unwanted problem before England face Croatia in thei…
-
-
-### OTHER on 2026-06-13 02:39
-- Location: Techdirt
-- Description: As we near the halfway point in the second Trump presidential term, there’s something that is worth remembering: Donald Trump, like most nasty viruses, is a temporary condition. Trumpism may not be, though I have my doubts as to how long a cult of personality…
-
-
-### HOMICIDE on 2026-06-13 02:32
-- Location: The Times of India
-- Description: U.S. forces, under President Trump's direction, conducted a lethal strike killing Hector Rusthenford Guerrero Flores, known as Nino Guerrero, the leader of the Venezuelan gang Tren de Aragua. The operation, coordinated with Venezuelan partners, targeted the o…
-
-Analysis generated at: Sun Jun 14 03:00:48 UTC 2026
+Analysis generated at: Sun Jun 14 04:42:10 UTC 2026
