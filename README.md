@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Jun 14 04:42:10 UTC 2026
+Last updated: Sun Jun 14 09:25:06 UTC 2026
 
 ## Latest Analysis
 
-Loaded 111396 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-13 04:39:45
+Loaded 111421 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-13 09:20:07
 
 Incidents by source:
 source
-newsapi           111295
+newsapi           111320
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,30 @@ ion.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2026-06-13 04:39
-- Location: CNA
-- Description: June 13 : England have suffered a theft of training equipment ahead of their arrival in Kansas City, local police said, after a vehicle transporting the gear to their World Cup base was broken into.The incident occurred while equipment was being transferred f…
+### OTHER on 2026-06-13 09:20
+- Location: The Punch
+- Description: Elon Musk, the world’s first trillionaire, faces criticism for amplifying anti-immigrant narratives on X, contributing to Belfast riots. Learn more.
+
+Read More: https://punchng.com/worlds-first-trillionaire-musk-under-fire-over-belfast-riots/
 
 
-### OTHER on 2026-06-13 04:24
+### ROBBERY/THEFT on 2026-06-13 09:16
 - Location: Dailymail.com
-- Description: A mother-of-three who disappeared without a trace last week told family members she was meeting with her estranged son to discuss borrowing money.
+- Description: The Three Lions touch down at Kansas City's Wheeler airport later on Saturday and will then be bused to their £250 a night hotel, the Inn at Meadowbrook.
 
 
-### HOMICIDE on 2026-06-13 04:12
-- Location: Abcnews.com
-- Description: The Manhattan architect who lived a secret life as the Gilgo Beach serial killer has spent the past three years alone in a segregated cell
+### HOMICIDE on 2026-06-13 09:15
+- Location: The Times of India
+- Description: A shocking murder case unfolds in Parvathipuram Manyam district as police apprehend three individuals, including the victim's boyfriend and his alleged accomplice. B Usha Rani's life was cut short under sinister circumstances, with R Bhuvaneswar accused of po…
 
 
-### ROBBERY/THEFT on 2026-06-13 04:11
-- Location: Dpa-international.com
-- Description: The Football Association has confirmed police are investigating the theft of team equipment ahead of England’s arrival at their Kansas City base. Thomas Tuchel’s side land in the Midwest on Saturday afternoon as World Cup preparations go up a notch following …
+### ROBBERY/THEFT on 2026-06-13 09:15
+- Location: The Times of India
+- Description: In a baffling incident, thieves in Bihar have allegedly made a 40-meter mobile tower, along with a generator and equipment, disappear from Dumraon town. Officials discovered the structure missing during an inspection, prompting a police investigation into thi…
 
 
-### ROBBERY/THEFT on 2026-06-13 04:05
-- Location: Yahoo Entertainment
-- Description: England's World Cup preparations have been hit by the theft of equipment ahead of the squad's arrival at their Kansas City training base on Saturday.The Kansas City, Missouri Police Department told the Daily Mail: "We are investigating a possible theft of equ…
+### ROBBERY/THEFT on 2026-06-13 09:12
+- Location: Rediff.com
+- Description: England have suffered a theft of training equipment ahead of their arrival in Kansas City, local police said, after a vehicle transporting the gear to their World Cup base was broken into.
 
-Analysis generated at: Sun Jun 14 04:42:10 UTC 2026
+Analysis generated at: Sun Jun 14 09:25:06 UTC 2026
