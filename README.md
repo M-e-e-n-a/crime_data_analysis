@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Jun 14 13:50:52 UTC 2026
+Last updated: Sun Jun 14 14:14:08 UTC 2026
 
 ## Latest Analysis
 
-Loaded 111463 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-13 13:43:33
+Loaded 111465 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-13 14:00:00
 
 Incidents by source:
 source
-newsapi           111362
+newsapi           111364
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -23,6 +23,16 @@ ion.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### ROBBERY/THEFT on 2026-06-13 14:00
+- Location: New York Post
+- Description: An Uber driver was savagely pistol-whipped during an early-morning robbery at a downtown Oakland Marriott.
+
+
+### OTHER on 2026-06-13 13:55
+- Location: Freerepublic.com
+- Description: A wanted driver thought he could get away from police on a busy Georgia roadway. But officers deployed one of the most effective tools being put in the hands of police: the Grappler. Dashcam video shows Atlanta police firing a Grappler from the front of a pat…
+
 
 ### HOMICIDE on 2026-06-13 13:43
 - Location: Dailymail.com
@@ -40,14 +50,4 @@ Read More: https://punchng.com/dss-intercepts-arms-cache-in-zamfara-nabs-courier
 - Location: RTE
 - Description: Around 5,000 people have attended an anti-racism rally in Belfast city centre following days of unrest provoked by a knife attack earlier this week.
 
-
-### ROBBERY/THEFT on 2026-06-13 13:25
-- Location: Rediff.com
-- Description: The England football team's training equipment, including players' boots and manager Thomas Tuchel's tactical gear, was reportedly stolen in Kansas City ahead of their World Cup opener against Croatia. The Football Association and local police are investigati…
-
-
-### OTHER on 2026-06-13 13:15
-- Location: Freerepublic.com
-- Description: The New York City Democratic Socialists of America — a group closely aligned with Mayor Mamdani — issued a rebuke of his move to drive up the Police Department’s headcount despite his campaign trail pledge to keep NYPD numbers flat. In rare public criticism o…
-
-Analysis generated at: Sun Jun 14 13:50:52 UTC 2026
+Analysis generated at: Sun Jun 14 14:14:08 UTC 2026
