@@ -1,10 +1,10 @@
 
-Loaded 111363 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-12 19:10:39
+Loaded 111384 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-13 02:59:10
 
 Incidents by source:
 source
-newsapi           111262
+newsapi           111283
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-06-12 19:10
-- Location: Matadornetwork.com
-- Description: New Zealand's Working Holiday Visa allows foreign travelers to spend up to a year in the country working temporary jobs and exploring.
+### ROBBERY/THEFT on 2026-06-13 02:59
+- Location: Yahoo Entertainment
+- Description: Two subjects of interest have been taken into custody.
 
 
-### HOMICIDE on 2026-06-12 19:10
-- Location: LADbible
-- Description: Police are investigating after two people were shot dead in two days on an estate in South Africa
+### HOMICIDE on 2026-06-13 02:54
+- Location: RTE
+- Description: President Donald Trump said US forces carried out a strike that killed Hector Rusthenford Guerrero Flores, also known as Niño Guerrero, the leader of Venezuelan prison gang Tren de Aragua.
 
 
-### OTHER on 2026-06-12 19:09
-- Location: Abcnews.com
-- Description: A London judge has sentenced four Palestine Action activists to several years in prison for what he called an “act of terrorism.”
+### ROBBERY/THEFT on 2026-06-13 02:44
+- Location: HITC - Football, Gaming, Movies, TV, Music
+- Description: England’s World Cup preparations have been disrupted after match boots, balls and training equipment were stolen while the squad’s kit was being transported to Kansas City. The timing gives Thomas Tuchel an unwanted problem before England face Croatia in thei…
 
 
-### OTHER on 2026-06-12 19:08
-- Location: Crypto Briefing
-- Description: FIFA's accreditation highlights global press freedom issues, potentially pressuring Algeria to reconsider its stance on jailed journalists.
-The post FIFA grants World Cup accreditation to jailed journalist Christophe Gleizes appeared first on Crypto Briefing.
+### OTHER on 2026-06-13 02:39
+- Location: Techdirt
+- Description: As we near the halfway point in the second Trump presidential term, there’s something that is worth remembering: Donald Trump, like most nasty viruses, is a temporary condition. Trumpism may not be, though I have my doubts as to how long a cult of personality…
 
 
-### HOMICIDE on 2026-06-12 19:04
-- Location: Snopes.com
-- Description: A photograph authentically shows Austin Metcalf's father, Jeff Metcalf, standing at a party with Judge John Roach, who presided over the case of the teen who killed Austin Metcalf, and Collin County District Attorney Greg Willis.
+### HOMICIDE on 2026-06-13 02:32
+- Location: The Times of India
+- Description: U.S. forces, under President Trump's direction, conducted a lethal strike killing Hector Rusthenford Guerrero Flores, known as Nino Guerrero, the leader of the Venezuelan gang Tren de Aragua. The operation, coordinated with Venezuelan partners, targeted the o…
 
-Analysis generated at: Sat Jun 13 19:17:25 UTC 2026
+Analysis generated at: Sun Jun 14 03:00:48 UTC 2026
