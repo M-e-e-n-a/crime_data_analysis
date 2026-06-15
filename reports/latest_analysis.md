@@ -1,10 +1,10 @@
 
-Loaded 111612 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-14 11:47:42
+Loaded 111663 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-14 16:56:22
 
 Incidents by source:
 source
-newsapi           111511
+newsapi           111562
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2026-06-14 11:47
-- Location: Dailymail.com
-- Description: Tommy Robinson, the far-right activist, was held by police at Heathrow Airport at the weekend under counter-terror laws. He was subsequently released.
+### OTHER on 2026-06-14 16:56
+- Location: Borderlandbeat.com
+- Description: “Sol Prendido” for Borderland Beat  As part of ongoing efforts to maintain security and public order in the state, security forces from all ...
 
 
-### OTHER on 2026-06-14 11:45
-- Location: Whyevolutionistrue.com
-- Description: Welcome to June 14, 2026, shabbos for gentile cats (remember that the Sabbath was made for cats, not cats for the Sabbath), and National Strawberry Shortcake Day. I don’t have a photo, but here’s a substitute: a strawberry shave ice from Hawaii, photographed …
-
-
-### HOMICIDE on 2026-06-14 11:43
+### HOMICIDE on 2026-06-14 16:54
 - Location: The Times of India
-- Description: Following a fatal communal clash in Bairagiwala, Sahaspur, authorities demolished the residence of an accused individual. The incident, reportedly stemming from a water dispute, led to one death and three injuries. Local MLA and Chief Minister have pledged st…
+- Description: Bengaluru: 22-year-old S Bhavani found dead at her Magadi Main Road home; boyfriend Chandrashekhar unconscious. Father alleges murder; Byadarahalli police probe.
 
 
-### SHOOTING on 2026-06-14 11:19
-- Location: Freerepublic.com
-- Description: TULSA, Okla. (KOKH) — Authorities say a suspect is recovering after being shot by a store clerk following a threat with a machete. Around 8 a.m. on Thursday, officers with the Tulsa Police Department responded to a shooting call at Naifeh's Food Mart, located…
+### OTHER on 2026-06-14 16:33
+- Location: The Irish Times
+- Description: Gripping new works by Dervla McTiernan, Jess Kidd, Chris Brookmyre, Michelle McDonagh and Jordan Harper
 
 
-### OTHER on 2026-06-14 11:05
-- Location: Florida Politics
-- Description: 'The night I spent in jail after they arrested me for a crime I did not commit still haunts me to this day.'
+### HOMICIDE on 2026-06-14 16:24
+- Location: Protothema.gr
+- Description: The 29-year-old illegal immigrant from Morocco was arrested for the murder of a 44-year-old German woman in Scandicci, near Florence. Witnesses reported hearing verses from the Quran & screams shortly before the crime
+The post Italy: Moroccan illegal immigran…
 
-Analysis generated at: Mon Jun 15 11:53:49 UTC 2026
+
+### DRUG RELATED on 2026-06-14 16:20
+- Location: Dailymail.com
+- Description: Mike Dunn of Dunn Lumber plastered a large banner with messages, accompanied by graphic lewd emojis, in hopes of combatting prostitution in the area.
+
+Analysis generated at: Mon Jun 15 17:07:58 UTC 2026
