@@ -1,10 +1,10 @@
 
-Loaded 111569 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-14 02:54:52
+Loaded 111575 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-14 04:45:56
 
 Incidents by source:
 source
-newsapi           111468
+newsapi           111474
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-06-14 02:54
-- Location: Crypto Briefing
-- Description: The incident underscores the complex security challenges and geopolitical tensions surrounding international sporting events.
-The post Body found outside Tijuana stadium where Iran’s World Cup team trains appeared first on Crypto Briefing.
-
-
-### HOMICIDE on 2026-06-14 02:47
-- Location: Breitbart News
-- Description: There is an apparent contrast in the public response to the cases of Karmelo Anthony and Dylann Roof, as Anthony has received support from activists, commentators, and elected officials following his murder conviction and 35-year sentence for the fatal stabbi…
-
-
-### OTHER on 2026-06-14 02:30
-- Location: Screen Rant
-- Description: There have been some incredible crime movies that released since 2000, and these are the best films that define the genre for the current generation.
-
-
-### HOMICIDE on 2026-06-14 02:30
-- Location: Dailymail.com
-- Description: A father and daughter were found dead on the Parramatta River on Saturday.
-
-
-### HOMICIDE on 2026-06-14 02:27
+### OTHER on 2026-06-14 04:45
 - Location: Abcnews.com
-- Description: Mexican authorities are investigating the homicide of a mayor in San Miguel Amatitlan, Oaxaca
+- Description: Sawyer Sparks, the 18-year-old Little League umpire previously featured on World News Tonight, he's been invited to umpire for an exhibition baseball team that plays in stadiums nationwide.
 
-Analysis generated at: Mon Jun 15 03:34:24 UTC 2026
+
+### SHOOTING on 2026-06-14 04:41
+- Location: Citynews.ca
+- Description: A man has been rushed to hospital after a shooting in the northwest Tuscany area early Saturday, Calgary police say.
+
+
+### OTHER on 2026-06-14 04:15
+- Location: The Irish Times
+- Description: Zero tolerance of abusers who form part of casual mobs who don’t care if their electronic indulgence impinges on the experience of others
+
+
+### OTHER on 2026-06-14 04:08
+- Location: ABC News (AU)
+- Description: England's team bus is raided by thieves while victorious Scottish fans prepare for a rowdy long weekend of celebrations. Here are today's World Cup quick hits.
+
+
+### OTHER on 2026-06-14 04:00
+- Location: Americanthinker.com
+- Description: No one ever said Democrats must be consistent, honest--or sane.
+
+Analysis generated at: Mon Jun 15 04:55:25 UTC 2026
