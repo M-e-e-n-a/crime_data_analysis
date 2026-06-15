@@ -1,10 +1,10 @@
 
-Loaded 111663 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-14 16:56:22
+Loaded 111666 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-14 17:19:28
 
 Incidents by source:
 source
-newsapi           111562
+newsapi           111565
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,6 +20,22 @@ ion.svg)
 
 ## Recent Incidents
 
+### OTHER on 2026-06-14 17:19
+- Location: Dailymail.com
+- Description: INSIDE SPORT: England have no concerns over Ivan Toney's ability to enter Canada should the Three Lions have to play in the country.
+
+
+### SHOOTING on 2026-06-14 17:17
+- Location: The Times of India
+- Description: Howrah Sankrail robbery: jewellery shop owner Chandan Kanrar shot at, survives; gold, 7–8 kg silver and ₹60,000 stolen. Police probe CCTV, detain two.
+
+
+### HOMICIDE on 2026-06-14 17:13
+- Location: Breitbart News
+- Description: A young female bungee jumper plummeted more than 130 feet to her death after staff failed to attach her rope before throwing her off a bridge.
+The post WATCH: Young Woman Plummets to Her Death After Workers Fail to Attach Bungee Rope appeared first on Breitba…
+
+
 ### OTHER on 2026-06-14 16:56
 - Location: Borderlandbeat.com
 - Description: “Sol Prendido” for Borderland Beat  As part of ongoing efforts to maintain security and public order in the state, security forces from all ...
@@ -29,20 +45,4 @@ ion.svg)
 - Location: The Times of India
 - Description: Bengaluru: 22-year-old S Bhavani found dead at her Magadi Main Road home; boyfriend Chandrashekhar unconscious. Father alleges murder; Byadarahalli police probe.
 
-
-### OTHER on 2026-06-14 16:33
-- Location: The Irish Times
-- Description: Gripping new works by Dervla McTiernan, Jess Kidd, Chris Brookmyre, Michelle McDonagh and Jordan Harper
-
-
-### HOMICIDE on 2026-06-14 16:24
-- Location: Protothema.gr
-- Description: The 29-year-old illegal immigrant from Morocco was arrested for the murder of a 44-year-old German woman in Scandicci, near Florence. Witnesses reported hearing verses from the Quran & screams shortly before the crime
-The post Italy: Moroccan illegal immigran…
-
-
-### DRUG RELATED on 2026-06-14 16:20
-- Location: Dailymail.com
-- Description: Mike Dunn of Dunn Lumber plastered a large banner with messages, accompanied by graphic lewd emojis, in hopes of combatting prostitution in the area.
-
-Analysis generated at: Mon Jun 15 17:07:58 UTC 2026
+Analysis generated at: Mon Jun 15 17:21:53 UTC 2026
