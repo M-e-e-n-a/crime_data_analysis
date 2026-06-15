@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Jun 14 19:18:24 UTC 2026
+Last updated: Mon Jun 15 03:34:24 UTC 2026
 
 ## Latest Analysis
 
-Loaded 111552 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-13 19:15:22
+Loaded 111569 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-14 02:54:52
 
 Incidents by source:
 source
-newsapi           111451
+newsapi           111468
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-06-13 19:15
+### OTHER on 2026-06-14 02:54
+- Location: Crypto Briefing
+- Description: The incident underscores the complex security challenges and geopolitical tensions surrounding international sporting events.
+The post Body found outside Tijuana stadium where Iran’s World Cup team trains appeared first on Crypto Briefing.
+
+
+### HOMICIDE on 2026-06-14 02:47
+- Location: Breitbart News
+- Description: There is an apparent contrast in the public response to the cases of Karmelo Anthony and Dylann Roof, as Anthony has received support from activists, commentators, and elected officials following his murder conviction and 35-year sentence for the fatal stabbi…
+
+
+### OTHER on 2026-06-14 02:30
+- Location: Screen Rant
+- Description: There have been some incredible crime movies that released since 2000, and these are the best films that define the genre for the current generation.
+
+
+### HOMICIDE on 2026-06-14 02:30
+- Location: Dailymail.com
+- Description: A father and daughter were found dead on the Parramatta River on Saturday.
+
+
+### HOMICIDE on 2026-06-14 02:27
 - Location: Abcnews.com
-- Description: A woman is recovering after being rescued from deep mud, where she was trapped for three days.
+- Description: Mexican authorities are investigating the homicide of a mayor in San Miguel Amatitlan, Oaxaca
 
-
-### HOMICIDE on 2026-06-13 19:11
-- Location: The Times of India
-- Description: Thiruvallam police arrest 2016 murder accused Ratheesh for allegedly threatening a key witness during trial; booked for criminal intimidation and remanded.
-
-
-### SHOOTING on 2026-06-13 19:10
-- Location: Fox News
-- Description: Multiple people were wounded after a shooting at Haywood Mall in Greenville, South Carolina, the largest mall in the state, police confirmed Saturday.
-
-
-### HOMICIDE on 2026-06-13 19:08
-- Location: The Times of India
-- Description: Ujjain: 35-year-old Manish Tatwal allegedly stabbed to death by brother Sagar after liquor dispute; Dewas Gate police file murder case, launch manhunt.
-
-
-### ROBBERY/THEFT on 2026-06-13 19:05
-- Location: Jalopnik
-- Description: The thieves struck just as the tour was kicking off.
-
-Analysis generated at: Sun Jun 14 19:18:23 UTC 2026
+Analysis generated at: Mon Jun 15 03:34:24 UTC 2026
