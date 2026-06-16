@@ -1,10 +1,10 @@
 
-Loaded 111694 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-14 20:40:45
+Loaded 111709 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-15 03:27:32
 
 Incidents by source:
 source
-newsapi           111593
+newsapi           111608
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,30 +20,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-06-14 20:40
-- Location: Breitbart News
-- Description: Police have arrested and charged a former cop working as a criminal-justice teacher in a northwestern Idaho high school with sexual battery of a minor following a three-week investigation by local authorities in Nampa, the state’s third largest city.
-The post…
+### HOMICIDE on 2026-06-15 03:27
+- Location: ABC News (AU)
+- Description: Those affected by the murder of Tiffany Spence, who died from horrific injuries inflicted by her partner Adam James Britt, tell a sentencing hearing of the long-term impacts of her death.
 
 
-### ASSAULT on 2026-06-14 20:27
-- Location: Wnd.com
-- Description: 'Brilliantly served his Community, during a career loaded with accolades and wins, always fighting tirelessly for our America First Agenda'
+### HOMICIDE on 2026-06-15 03:26
+- Location: Dailymail.com
+- Description: Maulik Dhandhukia, 47, rented a boat with his daughter near Concord, in Sydney's inner west, on Saturday morning. Hours later, they were both dead.
 
 
-### ASSAULT on 2026-06-14 20:14
-- Location: Breitbart News
-- Description: California got another reminder as to why there is a bruin on its state flag, as a bear attacked a couple outside their home in the northern part of the state, inflicting “significant” injuries as they fought it off with a hatchet and a water bottle.
-The post…
+### OTHER on 2026-06-15 03:17
+- Location: ABC News (AU)
+- Description: A Tasmanian man has been charged after being allegedly caught drink driving for the third time in just over a week, with him having to be cut from his car in one instance.
 
 
-### OTHER on 2026-06-14 20:06
-- Location: New York Post
-- Description: NYPD Commissioner Jessica Tisch touted her officers' hard work to keep the peace Saturday night as the Knicks NBA championship sparked celebrations across the city -- with some fans marring the parties with violent incidents.
+### OTHER on 2026-06-15 03:15
+- Location: Peoplesreview.com.np
+- Description: Kathmandu, June 15: Nepal’s Embassy in Bangkok has submitted the names of more than 235 suspected human traffickers to Nepal Police for investigation, following a surge in cases of Nepalis being lured into illegal online scam centers across Southeast Asia. Am…
 
 
-### OTHER on 2026-06-14 20:00
-- Location: TVLine
-- Description: Looking for the best true crime documentaries to stream on Netflix? We've got you covered.
+### OTHER on 2026-06-15 03:01
+- Location: BBC News
+- Description: National Crime Agency officers detain an Indian national on suspicion of sanctions 
+offences.
 
-Analysis generated at: Mon Jun 15 20:51:04 UTC 2026
+Analysis generated at: Tue Jun 16 03:31:32 UTC 2026
