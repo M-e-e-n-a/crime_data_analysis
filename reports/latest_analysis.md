@@ -1,10 +1,10 @@
 
-Loaded 111714 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-15 04:20:15
+Loaded 111754 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-15 11:00:59
 
 Incidents by source:
 source
-newsapi           111613
+newsapi           111653
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,30 +20,31 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-06-15 04:20
-- Location: Gossiplankanews.com
-- Description: The bodies of a married couple were found mysteriously dead inside a textile shop operating on the upper floor of a two-story building located in the Agalla Road area of Bulathsinhala. Following information received by the Bulathsinhala Police Station, a grou…
-
-
-### OTHER on 2026-06-15 04:00
-- Location: Americanthinker.com
-- Description: Photo Credit:Author creation
+### OTHER on 2026-06-15 11:00
+- Location: Gothamist
+- Description: A recent demonstration over climate policy at the Capitol.
  
- Author creationRoman history can be quite illuminating.
+
+Activists say they faced tougher treatment for demonstrations at the Capitol during the recent legislative session. [ more › ]
 
 
-### HOMICIDE on 2026-06-15 03:56
-- Location: ABC News (AU)
-- Description: Justice Paul Smith said Bobby Weaver murdered his friend, 58-year-old David Thornton, "in cold blood".
-
-
-### ROBBERY/THEFT on 2026-06-15 03:40
-- Location: Gossiplankanews.com
-- Description: A person who was transporting cattle in a small lorry with their mouths tightly bound to prevent their cries from being heard outside, has been arrested by the Bandaragama Police. This raid was carried out on the evening of the 13th at Uyanwatta Road, Kothala…
-
-
-### SHOOTING on 2026-06-15 03:38
+### ROBBERY/THEFT on 2026-06-15 10:50
 - Location: Dailymail.com
-- Description: An 18-year-old Ohio woman who is 26 weeks pregnant was left paralyzed after being shot during an alleged armed robbery following a meetup arranged through Snapchat.
+- Description: Landscaper Jamie Gilhooley, 38, from East Lothian, said he was left with 'absolutely nothing' after a thieves brazenly used a cloned key to steal his van and all his tools in East Lothian, Scotland.
 
-Analysis generated at: Tue Jun 16 04:51:41 UTC 2026
+
+### ROBBERY/THEFT on 2026-06-15 10:45
+- Location: Vintag.es
+- Description: Few stories in sports history match the chaotic, stranger-than-fiction drama of the 1966 FIFA World Cup. Months before England captain Bobby...
+
+
+### SHOOTING on 2026-06-15 10:41
+- Location: BBC News
+- Description: Molemo "Jub Jub" Maarohanye is accused of trapping a taxi driver in a car and firing a gun in the man's direction.
+
+
+### OTHER on 2026-06-15 10:34
+- Location: The New Republic
+- Description: The following is a lightly edited transcript of the June 15 episode of the Daily Blast podcast. Listen to it here.Greg Sargent: This is The Daily Blast from The New Republic, produced and presented by the DSR Network. I’m your host, Greg Sargent.Donald Trump …
+
+Analysis generated at: Tue Jun 16 11:01:34 UTC 2026
