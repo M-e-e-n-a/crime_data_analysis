@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Jun 16 11:01:34 UTC 2026
+Last updated: Tue Jun 16 16:35:04 UTC 2026
 
 ## Latest Analysis
 
-Loaded 111754 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-15 11:00:59
+Loaded 111830 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-15 16:29:07
 
 Incidents by source:
 source
-newsapi           111653
+newsapi           111729
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,31 +24,31 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-06-15 11:00
-- Location: Gothamist
-- Description: A recent demonstration over climate policy at the Capitol.
- 
-
-Activists say they faced tougher treatment for demonstrations at the Capitol during the recent legislative session. [ more › ]
+### HOMICIDE on 2026-06-15 16:29
+- Location: Breitbart News
+- Description: An illegal alien has been indicted for allegedly murdering his roommate with a machete earlier this year in DeSoto County, Mississippi.
+The post Illegal Alien Indicted for Allegedly Murdering Roommate with Machete in Mississippi appeared first on Breitbart.
 
 
-### ROBBERY/THEFT on 2026-06-15 10:50
-- Location: Dailymail.com
-- Description: Landscaper Jamie Gilhooley, 38, from East Lothian, said he was left with 'absolutely nothing' after a thieves brazenly used a cloned key to steal his van and all his tools in East Lothian, Scotland.
+### HOMICIDE on 2026-06-15 16:27
+- Location: RTE
+- Description: A high school teacher in the UK has been found guilty of the murder and sexual abuse of a 13-month-old baby he treated as a "plaything".
 
 
-### ROBBERY/THEFT on 2026-06-15 10:45
-- Location: Vintag.es
-- Description: Few stories in sports history match the chaotic, stranger-than-fiction drama of the 1966 FIFA World Cup. Months before England captain Bobby...
+### HOMICIDE on 2026-06-15 16:26
+- Location: Wnd.com
+- Description: 'I can't help but wonder if there's someone directing these enforcement agents to come down on me extra hard as a way to teach me a lesson'
 
 
-### SHOOTING on 2026-06-15 10:41
-- Location: BBC News
-- Description: Molemo "Jub Jub" Maarohanye is accused of trapping a taxi driver in a car and firing a gun in the man's direction.
+### HOMICIDE on 2026-06-15 16:23
+- Location: CBC News
+- Description: A man accused of killing two boys, aged 10 and 17, in Saint John last year allegedly admitted the crimes to a jail guard.
 
 
-### OTHER on 2026-06-15 10:34
-- Location: The New Republic
-- Description: The following is a lightly edited transcript of the June 15 episode of the Daily Blast podcast. Listen to it here.Greg Sargent: This is The Daily Blast from The New Republic, produced and presented by the DSR Network. I’m your host, Greg Sargent.Donald Trump …
+### ROBBERY/THEFT on 2026-06-15 16:22
+- Location: The Punch
+- Description: Rivers State Police rescued Maria Kobara from a mob in Port Harcourt after false accusations of child theft. Authorities warn against jungle justice.
 
-Analysis generated at: Tue Jun 16 11:01:34 UTC 2026
+Read More: https://punchng.com/police-rescue-woman-from-mob-in-rivers/
+
+Analysis generated at: Tue Jun 16 16:35:04 UTC 2026
