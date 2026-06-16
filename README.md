@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Jun 16 16:35:04 UTC 2026
+Last updated: Tue Jun 16 17:04:55 UTC 2026
 
 ## Latest Analysis
 
-Loaded 111830 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-15 16:29:07
+Loaded 111835 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-15 16:54:13
 
 Incidents by source:
 source
-newsapi           111729
+newsapi           111734
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,31 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-06-15 16:29
-- Location: Breitbart News
-- Description: An illegal alien has been indicted for allegedly murdering his roommate with a machete earlier this year in DeSoto County, Mississippi.
-The post Illegal Alien Indicted for Allegedly Murdering Roommate with Machete in Mississippi appeared first on Breitbart.
+### OTHER on 2026-06-15 16:54
+- Location: The Daily Caller
+- Description: A suspect allegedly hit an ICE officer with a car while fleeing Monday from apprehension in Manahawkin, New Jersey.
 
 
-### HOMICIDE on 2026-06-15 16:27
-- Location: RTE
-- Description: A high school teacher in the UK has been found guilty of the murder and sexual abuse of a 13-month-old baby he treated as a "plaything".
+### HOMICIDE on 2026-06-15 16:47
+- Location: Radaronline.com
+- Description: Maria Eduarda Rodrigues de Freitas fell 130 feet from a popular bungee platform in São Paulo, Brazil, after staff members carried her to the edge and tossed her over.
 
 
-### HOMICIDE on 2026-06-15 16:26
-- Location: Wnd.com
-- Description: 'I can't help but wonder if there's someone directing these enforcement agents to come down on me extra hard as a way to teach me a lesson'
+### HOMICIDE on 2026-06-15 16:44
+- Location: National Post
+- Description: Toronto police allege a 12-year-old boy was driving a stolen vehicle that struck a police officer in East York.
 
 
-### HOMICIDE on 2026-06-15 16:23
-- Location: CBC News
-- Description: A man accused of killing two boys, aged 10 and 17, in Saint John last year allegedly admitted the crimes to a jail guard.
+### HOMICIDE on 2026-06-15 16:42
+- Location: The-independent.com
+- Description: Moments before the shooting, the 2-year-old mix named Jameson was photographed wearing a New York Knicks shirt
 
 
-### ROBBERY/THEFT on 2026-06-15 16:22
-- Location: The Punch
-- Description: Rivers State Police rescued Maria Kobara from a mob in Port Harcourt after false accusations of child theft. Authorities warn against jungle justice.
+### HOMICIDE on 2026-06-15 16:37
+- Location: The Irish Times
+- Description: Accused ‘out of her mind’ stabbing and strangling child, who now lives in foster care and shuns parent
 
-Read More: https://punchng.com/police-rescue-woman-from-mob-in-rivers/
-
-Analysis generated at: Tue Jun 16 16:35:04 UTC 2026
+Analysis generated at: Tue Jun 16 17:04:55 UTC 2026
