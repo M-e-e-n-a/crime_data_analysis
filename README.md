@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Jun 16 03:31:32 UTC 2026
+Last updated: Tue Jun 16 04:51:41 UTC 2026
 
 ## Latest Analysis
 
-Loaded 111709 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-15 03:27:32
+Loaded 111714 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-15 04:20:15
 
 Incidents by source:
 source
-newsapi           111608
+newsapi           111613
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,29 +24,30 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-06-15 03:27
+### HOMICIDE on 2026-06-15 04:20
+- Location: Gossiplankanews.com
+- Description: The bodies of a married couple were found mysteriously dead inside a textile shop operating on the upper floor of a two-story building located in the Agalla Road area of Bulathsinhala. Following information received by the Bulathsinhala Police Station, a grou…
+
+
+### OTHER on 2026-06-15 04:00
+- Location: Americanthinker.com
+- Description: Photo Credit:Author creation
+ 
+ Author creationRoman history can be quite illuminating.
+
+
+### HOMICIDE on 2026-06-15 03:56
 - Location: ABC News (AU)
-- Description: Those affected by the murder of Tiffany Spence, who died from horrific injuries inflicted by her partner Adam James Britt, tell a sentencing hearing of the long-term impacts of her death.
+- Description: Justice Paul Smith said Bobby Weaver murdered his friend, 58-year-old David Thornton, "in cold blood".
 
 
-### HOMICIDE on 2026-06-15 03:26
+### ROBBERY/THEFT on 2026-06-15 03:40
+- Location: Gossiplankanews.com
+- Description: A person who was transporting cattle in a small lorry with their mouths tightly bound to prevent their cries from being heard outside, has been arrested by the Bandaragama Police. This raid was carried out on the evening of the 13th at Uyanwatta Road, Kothala…
+
+
+### SHOOTING on 2026-06-15 03:38
 - Location: Dailymail.com
-- Description: Maulik Dhandhukia, 47, rented a boat with his daughter near Concord, in Sydney's inner west, on Saturday morning. Hours later, they were both dead.
+- Description: An 18-year-old Ohio woman who is 26 weeks pregnant was left paralyzed after being shot during an alleged armed robbery following a meetup arranged through Snapchat.
 
-
-### OTHER on 2026-06-15 03:17
-- Location: ABC News (AU)
-- Description: A Tasmanian man has been charged after being allegedly caught drink driving for the third time in just over a week, with him having to be cut from his car in one instance.
-
-
-### OTHER on 2026-06-15 03:15
-- Location: Peoplesreview.com.np
-- Description: Kathmandu, June 15: Nepal’s Embassy in Bangkok has submitted the names of more than 235 suspected human traffickers to Nepal Police for investigation, following a surge in cases of Nepalis being lured into illegal online scam centers across Southeast Asia. Am…
-
-
-### OTHER on 2026-06-15 03:01
-- Location: BBC News
-- Description: National Crime Agency officers detain an Indian national on suspicion of sanctions 
-offences.
-
-Analysis generated at: Tue Jun 16 03:31:32 UTC 2026
+Analysis generated at: Tue Jun 16 04:51:41 UTC 2026
