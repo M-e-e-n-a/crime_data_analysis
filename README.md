@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Jun 17 15:01:20 UTC 2026
+Last updated: Wed Jun 17 15:46:16 UTC 2026
 
 ## Latest Analysis
 
-Loaded 112041 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-16 15:00:31
+Loaded 112049 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-16 15:42:09
 
 Incidents by source:
 source
-newsapi           111940
+newsapi           111948
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,30 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-06-16 15:00
-- Location: Fox News
-- Description: Makia Green, political director for D.C. mayoral candidate Janeese Lewis George, called for accused assassin Luigi Mangione to be freed and pardoned.
+### OTHER on 2026-06-16 15:42
+- Location: Aclu.org
+- Description: We’ve already seen what that looks like in places like Memphis; New “Model Cities Initiative” would spread it to other cities
 
 
-### HOMICIDE on 2026-06-16 15:00
-- Location: TheBlaze
-- Description: A Nevada woman jailed in Mexico is expected to be extradited to the United States to face additional charges for allegedly using dating apps to prey on older men. Federal authorities say the woman drugged, robbed, and killed her victims in twisted romance sch…
+### OTHER on 2026-06-16 15:35
+- Location: Israelnationalnews.com
+- Description: During the final day of his cross-examination in Case 2000, Netanyahu lashed out at the prosecution's representatives, accusing them of political persecution and of operating a 'police state.'
 
 
-### OTHER on 2026-06-16 14:54
-- Location: The Punch
-- Description: Edo State Government demolishes a building linked to suspected ritualists and cultists in Uromi as part of a renewed crackdown on crime.
-
-Read More: https://punchng.com/building-linked-to-suspected-ritualists-demolished-in-edo/
+### HOMICIDE on 2026-06-16 15:30
+- Location: New York Post
+- Description: Hudson has pleaded not guilty and his trial is scheduled to begin in September.
 
 
-### DRUG RELATED on 2026-06-16 14:54
-- Location: CBC News
-- Description: Conservative MP Corey Tochor introduced legislation on Tuesday to legalize prescribing psychedelics like psilocybin, which researchers and patients say can effectively treat some mental health disorders.
+### ASSAULT on 2026-06-16 15:30
+- Location: Advocate.com
+- Description: An Idaho man was arrested for allegedly assaulting a gay couple outside a restaurant. But despite allegations that Pedro Villareal hurled antigay slurs before beating two men, authorities charged him only with a misdemeanor and said the state's hate crime law…
 
 
-### HOMICIDE on 2026-06-16 14:48
-- Location: Dailymail.com
-- Description: The Daily Mail can reveal that Hampshire Police did not ask the Crown Prosecution Service to consider any case whatsoever against Gurpreet Digwa over Henry Nowak's murder.
+### ASSAULT on 2026-06-16 15:21
+- Location: RT
+- Description: The Reform UK leader’s manifesto attacks DEI and immigration, but beneath the outrage lies a thin program built on grievance and biology Read Full Article at RT.com
 
-Analysis generated at: Wed Jun 17 15:01:20 UTC 2026
+Analysis generated at: Wed Jun 17 15:46:16 UTC 2026
