@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Jun 17 04:42:37 UTC 2026
+Last updated: Wed Jun 17 10:45:37 UTC 2026
 
 ## Latest Analysis
 
-Loaded 111930 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-16 04:39:46
+Loaded 111988 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-16 10:45:18
 
 Incidents by source:
 source
-newsapi           111829
+newsapi           111887
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-06-16 04:39
-- Location: Peoplesreview.com.np
-- Description: Kathmandu, June 16: Chef Santosh Shah has been released after being arrested on fraud related charges, following a settlement with the victim, authorities said. Shah, who had been arrested on banking offence allegations, was released on Monday evening. Accord…
+### OTHER on 2026-06-16 10:45
+- Location: Nakedcapitalism.com
+- Description: What could possibly go wrong?
 
 
-### OTHER on 2026-06-16 04:37
-- Location: Africasacountry.com
-- Description: The World Cup was meant to be the culmination of Omar Artan’s remarkable rise. His exclusion from it revealed something equally striking: the magnitude of the admiration he had earned at home and globally.
+### ROBBERY/THEFT on 2026-06-16 10:41
+- Location: PetaPixel
+- Description: The Troy baseball team had $35,000 worth of camera gear stolen from its bus hours before making its first appearance in the Men’s College World Series.
+[Read More]
 
 
-### OTHER on 2026-06-16 04:31
-- Location: The Times of India
-- Description: Powering the X440 range is a 440 cc air/oil-cooled single-cylinder engine that produces 27 bhp and 38 Nm of peak torque. The X440 T distinguishes itself from the standard model through styling elements inspired by the Harley XR1200. Changes include a redesign…
+### OTHER on 2026-06-16 10:32
+- Location: soompi
+- Description: KBS2’s upcoming weekend drama “The Husband” has unveiled its second teaser! “The Husband” is a thriller that follows Kang Tae Joo (Namkoong Min), a man who becomes entangled in a desperate battle against a dangerous criminal after his wife is kidnapped just b…
 
 
-### OTHER on 2026-06-16 04:28
-- Location: The Times of India
-- Description: Light to moderate rainfall was reported in several parts of Delhi-NCR, including areas around the Indira Gandhi International (IGI) Airport, during the morning hours.
+### HOMICIDE on 2026-06-16 10:09
+- Location: ABC News (AU)
+- Description: A Special Emergency Response Team officer tells a coronial inquest it took one second or less to storm a bathroom and fire the shot that killed Far North Queensland man Aubrey Donahue during a hostage siege.
 
 
-### HOMICIDE on 2026-06-16 04:28
-- Location: The Times of India
-- Description: A Patna educator, Khan Sir, faces accusations from a rival coaching operator, Raushan Anand, who claims Khan orchestrated the death of Anand's brother, Prince Yadav, in Nepal. Yadav, named in an FIR for a coaching center attack, died in Nepal, with circumstan…
+### ROBBERY/THEFT on 2026-06-16 10:08
+- Location: Dailymail.com
+- Description: The accused war criminal had applied to have his bail varied so he could watch Henry Diddams graduate from the School of Infantry at Singleton in the NSW Hunter Valley next week.
 
-Analysis generated at: Wed Jun 17 04:42:37 UTC 2026
+Analysis generated at: Wed Jun 17 10:45:37 UTC 2026
