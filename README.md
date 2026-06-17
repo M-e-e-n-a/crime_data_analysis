@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Jun 16 20:45:28 UTC 2026
+Last updated: Wed Jun 17 03:29:12 UTC 2026
 
 ## Latest Analysis
 
-Loaded 111889 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-15 20:45:00
+Loaded 111914 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-16 03:19:48
 
 Incidents by source:
 source
-newsapi           111788
+newsapi           111813
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,31 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-06-15 20:45
-- Location: Thehillstimes.in
-- Description: HT Correspondent TEZPUR, June 15: A Class X student who had been missing since Sunday was found dead on the banks of the Dipota river in the Arimora area of Besseria on Monday morning, prompting public outrage and demands for a thorough investigation. The dec…
-
-
-### ROBBERY/THEFT on 2026-06-15 20:43
-- Location: Yahoo Entertainment
-- Description: Troy's first appearance in the College World Series has produced lots of Kodak moments for the Alabama school. Only Troy's photographers are having to use borrowed equipment to capture them after thieves stole cameras and lenses valued at $35,000 from the tea…
-
-
-### OTHER on 2026-06-15 20:24
-- Location: Al Jazeera English
-- Description: Amid G7 tensions, Trump says Iran agreement is a step towards peace in the Middle East and beyond.
-
-
-### OTHER on 2026-06-15 20:24
+### ASSAULT on 2026-06-16 03:19
 - Location: Abcnews.com
-- Description: The 2026 Finals MVP joins “The View” to discuss New York's first championship win in 53 years and why he credits his upbringing to keeping him composed.
+- Description: South Africa marks the 50th anniversary of the Soweto uprising, a pivotal moment in the fight against apartheid
 
 
-### DRUG RELATED on 2026-06-15 20:19
-- Location: Gothamist
-- Description: Retail establishments in the Hub in the Melrose neighborhood of the Bronx in New York Sunday, October 13, 2013.
- 
+### HOMICIDE on 2026-06-16 03:19
+- Location: USA Today
+- Description: A Los Angeles woman's dog was shot and killed by police officers moments after she celebrated the New York Knicks first NBA championship since 1973.
 
-NYPD Commissioner Jessica Tisch says more officers will be sent to the area [ more › ]
 
-Analysis generated at: Tue Jun 16 20:45:28 UTC 2026
+### HOMICIDE on 2026-06-16 03:18
+- Location: ABC News (AU)
+- Description: A court has heard a man accused of murdering a two-year-old boy would lock the toddler in a dark garage as a form of punishment.
+
+
+### HOMICIDE on 2026-06-16 02:25
+- Location: ABC News (AU)
+- Description: Mark Sheridan Waden has been found guilty of murdering Priscilla Brooten in 2018 and sentenced to life in prison with a 20-year non-parole period.
+
+
+### OTHER on 2026-06-16 02:22
+- Location: Israelnationalnews.com
+- Description: 24-year-old faces up to 20 years in prison after being hit with federal hate crime charges for vandalizing a Charlotte Jewish community complex with Nazi symbols.
+
+Analysis generated at: Wed Jun 17 03:29:12 UTC 2026
