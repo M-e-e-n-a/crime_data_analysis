@@ -1,10 +1,10 @@
 
-Loaded 111988 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-16 10:45:18
+Loaded 112041 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-16 15:00:31
 
 Incidents by source:
 source
-newsapi           111887
+newsapi           111940
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,29 +20,30 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-06-16 10:45
-- Location: Nakedcapitalism.com
-- Description: What could possibly go wrong?
+### OTHER on 2026-06-16 15:00
+- Location: Fox News
+- Description: Makia Green, political director for D.C. mayoral candidate Janeese Lewis George, called for accused assassin Luigi Mangione to be freed and pardoned.
 
 
-### ROBBERY/THEFT on 2026-06-16 10:41
-- Location: PetaPixel
-- Description: The Troy baseball team had $35,000 worth of camera gear stolen from its bus hours before making its first appearance in the Men’s College World Series.
-[Read More]
+### HOMICIDE on 2026-06-16 15:00
+- Location: TheBlaze
+- Description: A Nevada woman jailed in Mexico is expected to be extradited to the United States to face additional charges for allegedly using dating apps to prey on older men. Federal authorities say the woman drugged, robbed, and killed her victims in twisted romance sch…
 
 
-### OTHER on 2026-06-16 10:32
-- Location: soompi
-- Description: KBS2’s upcoming weekend drama “The Husband” has unveiled its second teaser! “The Husband” is a thriller that follows Kang Tae Joo (Namkoong Min), a man who becomes entangled in a desperate battle against a dangerous criminal after his wife is kidnapped just b…
+### OTHER on 2026-06-16 14:54
+- Location: The Punch
+- Description: Edo State Government demolishes a building linked to suspected ritualists and cultists in Uromi as part of a renewed crackdown on crime.
+
+Read More: https://punchng.com/building-linked-to-suspected-ritualists-demolished-in-edo/
 
 
-### HOMICIDE on 2026-06-16 10:09
-- Location: ABC News (AU)
-- Description: A Special Emergency Response Team officer tells a coronial inquest it took one second or less to storm a bathroom and fire the shot that killed Far North Queensland man Aubrey Donahue during a hostage siege.
+### DRUG RELATED on 2026-06-16 14:54
+- Location: CBC News
+- Description: Conservative MP Corey Tochor introduced legislation on Tuesday to legalize prescribing psychedelics like psilocybin, which researchers and patients say can effectively treat some mental health disorders.
 
 
-### ROBBERY/THEFT on 2026-06-16 10:08
+### HOMICIDE on 2026-06-16 14:48
 - Location: Dailymail.com
-- Description: The accused war criminal had applied to have his bail varied so he could watch Henry Diddams graduate from the School of Infantry at Singleton in the NSW Hunter Valley next week.
+- Description: The Daily Mail can reveal that Hampshire Police did not ask the Crown Prosecution Service to consider any case whatsoever against Gurpreet Digwa over Henry Nowak's murder.
 
-Analysis generated at: Wed Jun 17 10:45:37 UTC 2026
+Analysis generated at: Wed Jun 17 15:01:20 UTC 2026
