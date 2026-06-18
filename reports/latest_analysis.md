@@ -1,10 +1,10 @@
 
-Loaded 112235 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-17 10:07:58
+Loaded 112320 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-17 14:50:56
 
 Incidents by source:
 source
-newsapi           112134
+newsapi           112219
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,30 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-06-17 10:07
-- Location: Abcnews.com
-- Description: ABC News' Danny New talks to a baker in Seattle who is going viral for letting his kids narrate his baking videos.
+### HOMICIDE on 2026-06-17 14:50
+- Location: Dailymail.com
+- Description: Kyle Bevan (pictured), 33, was serving a life sentence for murdering his step-child in 2020 when he was killed on November 4 2025.
 
 
-### OTHER on 2026-06-17 10:05
-- Location: Gossiplankanews.com
-- Description: A 17-year-old schoolgirl, who was returning home after attending a private tuition class, was allegedly lured and abducted on a motorcycle by a former army soldier. The Deniyaya Police arrested the suspect on the 14th of last month. Police interrogations reve…
+### ROBBERY/THEFT on 2026-06-17 14:40
+- Location: Aclu.org
+- Description: Surveillance Boosters Tout the Benefits of Deterrence, But There’s a Big Problem With That
 
 
-### OTHER on 2026-06-17 10:01
-- Location: Gothamist
-- Description: Renters accuse a self-described real estate adviser of stealing their money. Getting it back has proved difficult. [ more › ]
+### HOMICIDE on 2026-06-17 14:30
+- Location: Breitbart News
+- Description: A 23-year-old man was arrested Tuesday night in connection with a hospital shooting that left one injured and one dead earlier in the day. 
+The post 23-Year-Old Arrested in Connection with Delaware Hospital Shooting appeared first on Breitbart.
 
 
-### OTHER on 2026-06-17 10:01
-- Location: Gothamist
-- Description: We spoke with real estate experts about what to watch out for, and who to turn to if things go wrong. [ more › ]
+### OTHER on 2026-06-17 14:26
+- Location: The Intercept
+- Description: ICE investigators leaned on Signal communications to build their case against protesters. Take these steps to keep your chats safe.
+The post How Did the Feds Get Into Anti-ICE Activists’ Signal Messages? appeared first on The Intercept.
 
 
-### HOMICIDE on 2026-06-17 10:00
-- Location: Fox News
-- Description: 'Happy Face' killer Keith Jesperson hints Rex Heuermann may have more victims in prison letters ahead of Gilgo Beach murderer's June 17 sentencing.
+### HOMICIDE on 2026-06-17 14:25
+- Location: Dailymail.com
+- Description: Jean Pierre Ojeda Salazar, 27, was sentenced to life in prison on Monday for two counts of first-degree murder after a jury spared him from the death penalty.
 
-Analysis generated at: Thu Jun 18 10:13:51 UTC 2026
+Analysis generated at: Thu Jun 18 14:55:57 UTC 2026
