@@ -1,10 +1,10 @@
 
-Loaded 112164 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-17 02:49:17
+Loaded 112176 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-17 04:08:04
 
 Incidents by source:
 source
-newsapi           112063
+newsapi           112075
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,50 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-06-17 02:49
-- Location: Freerepublic.com
-- Description: The full report is finally here. From UK politician Rupert Lowe: The Rape Gang Inquiry Report.https://t.co/EuKgGWBRhS pic.twitter.com/SD5G9HPVtV— Rupert Lowe MP (@RupertLowe10) June 16, 2026I'm going to summarize the finer points here because detailed stories…
+### OTHER on 2026-06-17 04:08
+- Location: WLKY Louisville
+- Description: The rapper Mystikal will serve 20 years in prison for raping a woman at his Louisiana home in 2022
 
 
-### OTHER on 2026-06-17 02:40
-- Location: Humanitix.com
-- Description: Having a mental health crisis is not a crime. Far too often, people experiencing mental health crisis are not given the care they need but are faced with police
+### OTHER on 2026-06-17 04:06
+- Location: WISN Milwaukee
+- Description: The rapper Mystikal will serve 20 years in prison for raping a woman at his Louisiana home in 2022
 
 
-### OTHER on 2026-06-17 02:36
-- Location: Freerepublic.com
-- Description: very once in a while, somebody says something out loud that hasn’t been said but should be. We’re at that point right now, thanks to podcaster Matt Walsh. Walsh weighed in on violent crime and young black male offenders… which apparently is the one conversati…
+### OTHER on 2026-06-17 04:01
+- Location: Human Rights Watch
+- Description: Click to expand Image
+ 
 
 
-### ASSAULT on 2026-06-17 02:31
-- Location: The Times of India
-- Description: Federal agents have foiled a major terror plot targeting a UFC event held on the White House lawn. Five individuals are in custody. The alleged plan involved explosive drones and snipers aimed at fleeing politicians. Authorities uncovered the conspiracy after…
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ A Palestinian man looks on as an excavator clears the rubble of homes demolished by Israeli authorities in the Silwan neighborhood of east Jerusalem, May 19, 2026.
+ © 2026 Mahmoud Illean/AP Photo 
+ 
+ 
 
 
-### OTHER on 2026-06-17 02:30
-- Location: Variety
-- Description: “The Pitt,” “The Simpsons,” “The Chair Company” and “Mountainhead” were among the big winners as the Banff World Media Festival announced winners on Tuesday for the 2026 Rockie Awards International Program Competition. Hosted by Allana Harkin (“Full Frontal W…
+ 
+(Beirut) – …
 
-Analysis generated at: Thu Jun 18 02:57:17 UTC 2026
+
+### OTHER on 2026-06-17 04:00
+- Location: Americanthinker.com
+- Description: Photo Credit:
+ 
+ Public Domain PicturesBritish tyranny is globalism, and globalism must be destroyed.
+
+
+### OTHER on 2026-06-17 04:00
+- Location: Americanthinker.com
+- Description: Musk can afford the best security, and he's going to need it.
+
+Analysis generated at: Thu Jun 18 04:25:53 UTC 2026
