@@ -1,10 +1,10 @@
 
-Loaded 112320 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-17 14:50:56
+Loaded 112338 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-17 15:36:21
 
 Incidents by source:
 source
-newsapi           112219
+newsapi           112237
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,30 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-06-17 14:50
+### HOMICIDE on 2026-06-17 15:36
+- Location: HuffPost
+- Description: The former Long Island architect admitted to killing eight women during a killing spree that spanned over a decade.
+
+
+### HOMICIDE on 2026-06-17 15:32
+- Location: The-independent.com
+- Description: The Long Island architect, 62, lived a secret life of violence for years before admitting he killed eight women
+
+
+### SHOOTING on 2026-06-17 15:30
 - Location: Dailymail.com
-- Description: Kyle Bevan (pictured), 33, was serving a life sentence for murdering his step-child in 2020 when he was killed on November 4 2025.
+- Description: Argentinian soccer fans in Kansas City say their Uber driver was struck by a bullet when occupants of another vehicle fired at their car. The scene played out on their way to their game against Algeria.
 
 
-### ROBBERY/THEFT on 2026-06-17 14:40
-- Location: Aclu.org
-- Description: Surveillance Boosters Tout the Benefits of Deterrence, But There’s a Big Problem With That
+### OTHER on 2026-06-17 15:30
+- Location: Screen Rant
+- Description: Despite having technically ended five years, Bosch is going from strength to strength and is proving to be Amazon Prime's most enduring show.
 
 
-### HOMICIDE on 2026-06-17 14:30
-- Location: Breitbart News
-- Description: A 23-year-old man was arrested Tuesday night in connection with a hospital shooting that left one injured and one dead earlier in the day. 
-The post 23-Year-Old Arrested in Connection with Delaware Hospital Shooting appeared first on Breitbart.
+### OTHER on 2026-06-17 15:28
+- Location: Abcnews.com
+- Description: A court in Uganda has charged Erias Lukwago, an attorney for jailed opposition leader Kizza Besigye, with concealing treason
 
-
-### OTHER on 2026-06-17 14:26
-- Location: The Intercept
-- Description: ICE investigators leaned on Signal communications to build their case against protesters. Take these steps to keep your chats safe.
-The post How Did the Feds Get Into Anti-ICE Activists’ Signal Messages? appeared first on The Intercept.
-
-
-### HOMICIDE on 2026-06-17 14:25
-- Location: Dailymail.com
-- Description: Jean Pierre Ojeda Salazar, 27, was sentenced to life in prison on Monday for two counts of first-degree murder after a jury spared him from the death penalty.
-
-Analysis generated at: Thu Jun 18 14:55:57 UTC 2026
+Analysis generated at: Thu Jun 18 15:36:51 UTC 2026
