@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Jun 19 14:51:57 UTC 2026
+Last updated: Fri Jun 19 15:30:46 UTC 2026
 
 ## Latest Analysis
 
-Loaded 112601 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-18 14:45:32
+Loaded 112616 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-18 15:26:45
 
 Incidents by source:
 source
-newsapi           112500
+newsapi           112515
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-06-18 14:45
-- Location: New York Post
-- Description: The DC councilmember will likely become the deep blue capital city's first-ever socialist leader early next year.
+### OTHER on 2026-06-18 15:26
+- Location: Al Jazeera English
+- Description: The Democratic Socialist has vowed aggressive response to Trump, who has said he could 'take back' DC if she wins.
 
 
-### HOMICIDE on 2026-06-18 14:45
-- Location: Dailymail.com
-- Description: A tragic clip released by Lancashire Police today shows a happy and healthy Preston Davy before he was taken out of foster care and moved into the couple's Blackpool home.
+### OTHER on 2026-06-18 15:25
+- Location: The Conversation Africa
+- Description: Neuroscience provides plenty of evidence for raising the age from ten.
 
 
-### OTHER on 2026-06-18 14:43
-- Location: Dailymail.com
-- Description: Medical practitioner and champion pro arm-wrestler Andrew Boskovski, 29, fronted Melbourne Magistrates' Court on Friday charged with multiple rape offences.
+### OTHER on 2026-06-18 15:24
+- Location: HuffPost
+- Description: Martin Lu, 21, has been charged with four felonies and four misdemeanors, including a hate crime and burning a cross to intimidate.
 
 
-### ROBBERY/THEFT on 2026-06-18 14:42
-- Location: The Times of India
-- Description: Rockstar Games has announced that pre-orders for Grand Theft Auto VI will officially open on June 25, coinciding with the reveal of the game's cover art. The highly anticipated title is set for release on November 19 for PlayStation 5 and Xbox Series X|S, wit…
+### OTHER on 2026-06-18 15:23
+- Location: Protothema.gr
+- Description: UK erupts in outrage over the Rape Gang Inquiry Report exposing grooming scandals, institutional failures, and scrutiny on PM Keir Starmer’s CPS past
+The post UK grooming gangs scandal erupts anew as independent Rape Gang Inquiry Report sparks international f…
 
 
-### ROBBERY/THEFT on 2026-06-18 14:39
-- Location: Insurance Journal
-- Description: Researchers say a sweeping hacking campaign targeting devices made by Fortinet has led to compromises across the internet, with evidence of password theft at Fortune 500 companies and government agencies in more than 15 countries. Most of the affected devices…
+### HOMICIDE on 2026-06-18 15:20
+- Location: National Post
+- Description: A doorbell camera video, the police investigation, and the boy’s confessions captured the brutality and banality of Eleanor Doney’s murder, and reveal the killer's disturbing obsessions
 
-Analysis generated at: Fri Jun 19 14:51:57 UTC 2026
+Analysis generated at: Fri Jun 19 15:30:46 UTC 2026
