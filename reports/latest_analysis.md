@@ -1,10 +1,10 @@
 
-Loaded 112616 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-18 15:26:45
+Loaded 112712 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-18 19:41:08
 
 Incidents by source:
 source
-newsapi           112515
+newsapi           112611
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,29 +20,31 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-06-18 15:26
-- Location: Al Jazeera English
-- Description: The Democratic Socialist has vowed aggressive response to Trump, who has said he could 'take back' DC if she wins.
+### OTHER on 2026-06-18 19:41
+- Location: Chicago Reader
+- Description: Untitled Vampire Play, through 7/12 at Lookingglass Theatre
+The post Untitled Vampire Play is a toothsome delight at Lookingglass appeared first on Chicago Reader.
 
 
-### OTHER on 2026-06-18 15:25
-- Location: The Conversation Africa
-- Description: Neuroscience provides plenty of evidence for raising the age from ten.
+### ROBBERY/THEFT on 2026-06-18 19:38
+- Location: ComicBook.com
+- Description: Courtesy of Rockstar Games
+
+New details for Grand Theft Auto 6 have been shared, mainly surrounding the box art for the game. The cover of a GTA title is somewhat of a tradition, usually including hints about the story, characters, or gameplay that players ca…
 
 
-### OTHER on 2026-06-18 15:24
-- Location: HuffPost
-- Description: Martin Lu, 21, has been charged with four felonies and four misdemeanors, including a hate crime and burning a cross to intimidate.
+### HOMICIDE on 2026-06-18 19:37
+- Location: The Irish Times
+- Description: Boy taken to hospital with serious injuries, reported to be critical but stable
 
 
-### OTHER on 2026-06-18 15:23
-- Location: Protothema.gr
-- Description: UK erupts in outrage over the Rape Gang Inquiry Report exposing grooming scandals, institutional failures, and scrutiny on PM Keir Starmer’s CPS past
-The post UK grooming gangs scandal erupts anew as independent Rape Gang Inquiry Report sparks international f…
+### OTHER on 2026-06-18 19:37
+- Location: Bleeding Cool News
+- Description: It's been quite the journey for Holliday Grainger's Rachel Carey on the high-tech espionage thriller The Capture. Going from a detective with the Metropolitan Police and working her way up to the government and now, Acting Commander of SO15, trying to integra…
 
 
-### HOMICIDE on 2026-06-18 15:20
-- Location: National Post
-- Description: A doorbell camera video, the police investigation, and the boy’s confessions captured the brutality and banality of Eleanor Doney’s murder, and reveal the killer's disturbing obsessions
+### OTHER on 2026-06-18 19:30
+- Location: USA Today
+- Description: Police say former five-division world champ Floyd Mayweather Jr. bought luxury watch from a Las Vegas boutique in 2024 without the funds to cover it.
 
-Analysis generated at: Fri Jun 19 15:30:46 UTC 2026
+Analysis generated at: Fri Jun 19 19:42:14 UTC 2026
