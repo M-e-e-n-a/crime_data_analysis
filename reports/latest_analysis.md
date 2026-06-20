@@ -1,10 +1,10 @@
 
-Loaded 112771 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-19 08:36:17
+Loaded 112819 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-19 13:44:39
 
 Incidents by source:
 source
-newsapi           112670
+newsapi           112718
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-06-19 08:36
-- Location: Breitbart News
-- Description: British actress Emaa Hussen was charged in Sydney after allegedly trying to smuggle $208 million worth of methamphetamine into Australia.
+### HOMICIDE on 2026-06-19 13:44
+- Location: road.cc
+- Description: The son of a woman who died when she was hit by a cyclist in Regent’s Park has urged a local council to introduce speed limits for cyclists.Hilda Griffiths, 81, died in hospital in 2022, two months after a cyclist riding between 25-29mph struck her in Regent’…
 
 
-### OTHER on 2026-06-19 08:00
-- Location: The Irish Times
-- Description: Court hears Costel Raducan (37) of High Street, Balbriggan, waited for woman’s friends to leave her house
+### OTHER on 2026-06-19 13:42
+- Location: Daily Signal
+- Description: THE DAILY CALLER NEWS FOUNDATION—Socialist City Councilwoman Janeese Lewis George won Washington D.C.’s Democratic mayoral primary putting her on track to be the deep blue city’s next leader. Lewis George won 52.9% of the first choice vote, beating out her cl…
 
 
-### OTHER on 2026-06-19 08:00
-- Location: CBC News
-- Description: CBC's visual investigation team reveals Canadian-made Sterling Cross rifles can be seen in the hands of armed groups in Sudan and Libya, and advertised openly online in Yemen.
+### OTHER on 2026-06-19 13:40
+- Location: DW (English)
+- Description: A man arrested after a toddler had to be rescued from a crocodile pen at a private zoo has been released on bail. Police say he was unfit for interview.
 
 
-### ASSAULT on 2026-06-19 07:50
-- Location: BBC News
-- Description: Police say the boy remains in a "critical but stable" condition in hospital.
+### OTHER on 2026-06-19 13:24
+- Location: RTE
+- Description: A Hungarian judge presiding over the case of an Irish man charged with the manslaughter of a female American tourist in Budapest in November 2024 has adjourned the trial until 7 July.
 
 
-### OTHER on 2026-06-19 07:45
-- Location: Ibtimes.com.au
-- Description: Netflix's 'I Will Find You,' starring Sam Worthington, is the 13th adaptation of a Harlan Coben novel. Critics are divided, praising the cast but critiquing the repetitive plot.
+### DRUG RELATED on 2026-06-19 13:14
+- Location: Dailymail.com
+- Description: A Diamond Creek footballer has been charged over an alleged meth haul, as details emerge about his life on Melbourne's party and festival scene.
 
-Analysis generated at: Sat Jun 20 08:47:15 UTC 2026
+Analysis generated at: Sat Jun 20 13:49:40 UTC 2026
