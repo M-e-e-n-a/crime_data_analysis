@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Jun 20 02:47:59 UTC 2026
+Last updated: Sat Jun 20 04:08:41 UTC 2026
 
 ## Latest Analysis
 
-Loaded 112731 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-19 02:38:07
+Loaded 112746 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-19 03:55:50
 
 Incidents by source:
 source
-newsapi           112630
+newsapi           112645
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-06-19 02:38
+### OTHER on 2026-06-19 03:55
+- Location: The Times of India
+- Description: Babasaheb Bhimrao Ambedkar Bihar University (BRABU) is expected to announce the Bihar B.Ed CET 2026 results on June 19. Candidates who appeared for the June 7 entrance examination can check their scorecards online using their login credentials. The result wil…
+
+
+### OTHER on 2026-06-19 03:54
+- Location: ABC News (AU)
+- Description: WA Police are set to become the first in the country to trial live facial recognition of crowds, describing the technology as safer than standard CCTV cameras.
+
+
+### SHOOTING on 2026-06-19 03:50
+- Location: ABC News (AU)
+- Description: Townsville veteran Steven Angus, 52, was fatally shot after running at Queensland Police officers while armed with knives.
+
+
+### SHOOTING on 2026-06-19 03:50
 - Location: Israelnationalnews.com
-- Description: 27-year-old Gainesville resident faces life in prison after being indicted on federal hate crime charges for plotting a mass shooting at a Florida AIPAC office.
+- Description: Toronto police arrest 19-year-old at Pearson Airport for the March 10 US Consulate shooting, which is tied to a wider gun-for-hire plot.
 
 
-### OTHER on 2026-06-19 02:37
-- Location: New Zealand Herald
-- Description: After five years, the entertainer can finally be named following a guilty plea today.
-
-
-### HOMICIDE on 2026-06-19 02:34
+### HOMICIDE on 2026-06-19 03:49
 - Location: Dailymail.com
-- Description: Vellesiya Wiley opened up about the moments leading to her one-year-old son Kohen', death on Sunday.
+- Description: A 63-year-old father was allegedly assaulted at a reserve behind Strathaird Primary School in south-east Melbourne last week.
 
-
-### HOMICIDE on 2026-06-19 02:16
-- Location: Dailymail.com
-- Description: Maulik Dhandhukia, 47, rented a boat near Concord in the city's inner west, on Saturday morning with the intention of throwing himself and his only child, Devarshi, overboard.
-
-
-### OTHER on 2026-06-19 02:00
-- Location: Thesimplyluxuriouslife.com
-- Description: Francophiles, if you are looking for a book to read or a show to watch, I have more than a few finds for you! Also, summer clothing finds for timeless style to keep you cool and effortlessly chic for years to come. Finds for the home as well, and signature on…
-
-Analysis generated at: Sat Jun 20 02:47:59 UTC 2026
+Analysis generated at: Sat Jun 20 04:08:41 UTC 2026
