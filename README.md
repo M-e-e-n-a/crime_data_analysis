@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Jun 19 19:42:14 UTC 2026
+Last updated: Sat Jun 20 02:47:59 UTC 2026
 
 ## Latest Analysis
 
-Loaded 112712 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-18 19:41:08
+Loaded 112731 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-19 02:38:07
 
 Incidents by source:
 source
-newsapi           112611
+newsapi           112630
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,31 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-06-18 19:41
-- Location: Chicago Reader
-- Description: Untitled Vampire Play, through 7/12 at Lookingglass Theatre
-The post Untitled Vampire Play is a toothsome delight at Lookingglass appeared first on Chicago Reader.
+### SHOOTING on 2026-06-19 02:38
+- Location: Israelnationalnews.com
+- Description: 27-year-old Gainesville resident faces life in prison after being indicted on federal hate crime charges for plotting a mass shooting at a Florida AIPAC office.
 
 
-### ROBBERY/THEFT on 2026-06-18 19:38
-- Location: ComicBook.com
-- Description: Courtesy of Rockstar Games
-
-New details for Grand Theft Auto 6 have been shared, mainly surrounding the box art for the game. The cover of a GTA title is somewhat of a tradition, usually including hints about the story, characters, or gameplay that players ca…
+### OTHER on 2026-06-19 02:37
+- Location: New Zealand Herald
+- Description: After five years, the entertainer can finally be named following a guilty plea today.
 
 
-### HOMICIDE on 2026-06-18 19:37
-- Location: The Irish Times
-- Description: Boy taken to hospital with serious injuries, reported to be critical but stable
+### HOMICIDE on 2026-06-19 02:34
+- Location: Dailymail.com
+- Description: Vellesiya Wiley opened up about the moments leading to her one-year-old son Kohen', death on Sunday.
 
 
-### OTHER on 2026-06-18 19:37
-- Location: Bleeding Cool News
-- Description: It's been quite the journey for Holliday Grainger's Rachel Carey on the high-tech espionage thriller The Capture. Going from a detective with the Metropolitan Police and working her way up to the government and now, Acting Commander of SO15, trying to integra…
+### HOMICIDE on 2026-06-19 02:16
+- Location: Dailymail.com
+- Description: Maulik Dhandhukia, 47, rented a boat near Concord in the city's inner west, on Saturday morning with the intention of throwing himself and his only child, Devarshi, overboard.
 
 
-### OTHER on 2026-06-18 19:30
-- Location: USA Today
-- Description: Police say former five-division world champ Floyd Mayweather Jr. bought luxury watch from a Las Vegas boutique in 2024 without the funds to cover it.
+### OTHER on 2026-06-19 02:00
+- Location: Thesimplyluxuriouslife.com
+- Description: Francophiles, if you are looking for a book to read or a show to watch, I have more than a few finds for you! Also, summer clothing finds for timeless style to keep you cool and effortlessly chic for years to come. Finds for the home as well, and signature on…
 
-Analysis generated at: Fri Jun 19 19:42:14 UTC 2026
+Analysis generated at: Sat Jun 20 02:47:59 UTC 2026
