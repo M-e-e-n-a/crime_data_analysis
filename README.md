@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Jun 21 09:43:06 UTC 2026
+Last updated: Sun Jun 21 13:57:19 UTC 2026
 
 ## Latest Analysis
 
-Loaded 112951 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-20 09:38:22
+Loaded 112967 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-20 13:44:10
 
 Incidents by source:
 source
-newsapi           112850
+newsapi           112866
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,30 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-06-20 09:38
+### OTHER on 2026-06-20 13:44
+- Location: News.com.au
+- Description: An American alleged fraudster who is on the FBI’s Most Wanted list and believed to be hiding out in Australia made a mysterious call for help after vanishing, it’s been revealed.
+
+
+### HOMICIDE on 2026-06-20 13:16
 - Location: Freerepublic.com
-- Description: A Cazenovia man was arrested on Thursday following a joint investigation into explicit communications involving a child. The New York State Police arrested Travis Longo, 46, following a law enforcement referral received by the Troop D Bureau of Criminal Inves…
+- Description: A judge in Collin County, Texas, on Friday night released evidence from the murder case involving Karmelo Anthony, including police body camera footage from Anthony's arrest.
 
 
-### ROBBERY/THEFT on 2026-06-20 09:30
-- Location: Wired
-- Description: Plus: Gay bars in San Francisco using face scanners, France quits Palantir, Apple plans to change its private email and more.
-
-
-### HOMICIDE on 2026-06-20 09:25
+### OTHER on 2026-06-20 13:14
 - Location: Dailymail.com
-- Description: The influencer, 36, spoke of how Father's Day would be a difficult day as it marked a year since the devastating stillbirth of her son, Phoenix.
+- Description: The royal victims - Roda Al Nahyan, her mother Shamsa, and Najla Al Qubaisi - had just left the station and got into a taxi on October 16, 2025.
 
 
-### OTHER on 2026-06-20 09:22
-- Location: The Punch
-- Description: Kwara State Police Command enhances combat readiness with a two-week training program for 112 junior officers, improving tactical capabilities and operatio
-
-Read More: https://punchng.com/police-strengthen-combat-readiness-with-training-in-kwara/
+### HOMICIDE on 2026-06-20 12:36
+- Location: Common Dreams
+- Description: The mainstream media has no problem guesstimating the deaths (500,000) from the Assad Dictatorship’s Civil War in Syria, nor the estimated deaths in the wars in Ukraine, Sudan, or Iran.Somehow, media editors do not let their investigative reporters assess the…
 
 
-### OTHER on 2026-06-20 09:21
-- Location: The Times of India
-- Description: A night out turned violent in Bhopal when a youth, denied entry to a bar, allegedly rammed his SUV into a group, critically injuring a 27-year-old man. The accused, Aditya Sharma, reportedly targeted bouncers and patrons after an earlier altercation. The inju…
+### ROBBERY/THEFT on 2026-06-20 12:29
+- Location: New York Post
+- Description: Arwa Elrayess, 20, the head of the Oxford Union — the world’s most prestigious debate club — is being investigated by UK counter terrorism police for text messages calling Hamas “heroes.”
 
-Analysis generated at: Sun Jun 21 09:43:06 UTC 2026
+Analysis generated at: Sun Jun 21 13:57:19 UTC 2026
