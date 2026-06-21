@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Jun 20 19:17:17 UTC 2026
+Last updated: Sun Jun 21 03:30:34 UTC 2026
 
 ## Latest Analysis
 
-Loaded 112895 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-19 19:15:26
+Loaded 112910 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-20 03:06:28
 
 Incidents by source:
 source
-newsapi           112794
+newsapi           112809
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-06-19 19:15
-- Location: Dailymail.com
-- Description: The Los Angeles Police Department arrested a 19-year-old suspect on Thursday after a shooting at a World Cup watch party left a 50-year-old hospitalized with multiple bullet wounds.
+### HOMICIDE on 2026-06-20 03:06
+- Location: New York Post
+- Description: A heartbroken Southern California family is speaking out after their beloved daughter and sister was gunned down inside a Pomona apartment complex — only realizing she was the victim while watching a live police chase on television. Veronica Lopez, 24, was sh…
 
 
-### HOMICIDE on 2026-06-19 19:09
-- Location: The Times of India
-- Description: Rajasthan’s Dausa: 23-year-old found dead in fodder room; villagers protest 4 hours at Mandawar police station seeking probe; police suspect murder.
+### HOMICIDE on 2026-06-20 02:45
+- Location: Breitbart News
+- Description: A Texas court released a series of evidence from the murder case involving Karmelo Anthony, providing the public with its first detailed look at materials presented during trial proceedings.
+The post ‘I’m Not Alleged. I Did It’: Newly Released Video Shows Kar…
 
 
-### HOMICIDE on 2026-06-19 19:08
+### OTHER on 2026-06-20 02:43
+- Location: Activistpost.com
+- Description: So the German Supreme Court has ruled on my case. Their ruling is that they will not rule on my case. They sent my attorney a letter to that effect. It literally says: The constitutional complaint will not be accepted for a ruling. No explanation is provided.…
+
+
+### OTHER on 2026-06-20 01:59
 - Location: Freerepublic.com
-- Description: A man has been arrested on suspicion of attempted murder after a three-year-old boy was left with critical injuries after ending up in a zoo's crocodile enclosure. Cambridgeshire Police said it was called to Johnsons of Old Hurst, near Huntingdon, at 13:24 BS…
+- Description: emily miller @emilymiller Exclusive! RAW VIDEO. Man arrested for vandalizing Lincoln Reflecting Pool. He grabbed the hose that female National Park Service workers were using to clear the algae. Police and National Guard responded. Watch: VIDEO AT LINK.......…
 
 
-### HOMICIDE on 2026-06-19 19:02
-- Location: The Times of India
-- Description: Bodies of Manju Sharma, 35, and Kaluram Verma, 42, found in a field near Brahmankheda, Ujjain; police suspect double murder, probe affair angle.
+### SHOOTING on 2026-06-20 01:20
+- Location: New York Post
+- Description: “Dude that’s a big dog,” said one officer upon seeing the unleashed animal.
 
-
-### OTHER on 2026-06-19 19:01
-- Location: Abcnews.com
-- Description: James Uthmeier discusses what he hopes will come after this lawsuit and what might be next on his agenda after promising to "go after anybody that's going to hurt our kids."
-
-Analysis generated at: Sat Jun 20 19:17:17 UTC 2026
+Analysis generated at: Sun Jun 21 03:30:34 UTC 2026
