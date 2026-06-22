@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Jun 21 19:23:16 UTC 2026
+Last updated: Mon Jun 22 03:35:42 UTC 2026
 
 ## Latest Analysis
 
-Loaded 113037 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-20 19:19:16
+Loaded 113049 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-21 03:27:44
 
 Incidents by source:
 source
-newsapi           112936
+newsapi           112948
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,32 +24,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-06-20 19:19
-- Location: The Root
-- Description: New footage captures Karmelo Anthony’s raw, emotional state following the April 2025 school track meet stabbing in Frisco, Texas.
+### OTHER on 2026-06-21 03:27
+- Location: Screen Rant
+- Description: Lee Child’s Jack Reacher books rank among the best crime thrillers of our time, but a few other additions to the genre are even better than Reacher.
 
 
-
-​In the video, which was first released by TMZ, a distraught Anthony can be heard weeping as police apprehend him for the fata…
-
-
-### OTHER on 2026-06-20 19:17
-- Location: Freerepublic.com
-- Description: Team Algae and Filth has been busy at work, supported by CNN, ABC and various leftist media, in an attempt to grow algae back in the DC reflection pool, and cut out the newly installed lining. A few arrests have been made by DC park police. Yes, these folks a…
+### OTHER on 2026-06-21 03:12
+- Location: Dailymail.com
+- Description: Heartbreaking video shared exclusively with the Daily Mail shows Maria Eduarda Rodrigues de Freitas biking on a beach with friends before she was thrown from a bridge without a safety rope.
 
 
-### HOMICIDE on 2026-06-20 19:15
-- Location: ABC News (AU)
-- Description: Ronnie's great-grandfather collected bones and teeth from an outback creek bed. Now police say they're 'not proud' of what occurred.
+### OTHER on 2026-06-21 03:12
+- Location: Israelnationalnews.com
+- Description: Jewish power is supposed to be restrained by Jewish memory. The vulnerable and foreign person should not be humiliated. That this has been documented in Israel is reprehensible, even if minor compared to Christians persecuted and slaughtered in other parts of…
 
 
-### HOMICIDE on 2026-06-20 19:15
-- Location: ABC News (AU)
-- Description: Ronnie's great-grandfather collected bones and teeth from an outback creek bed. Now police say they're 'not proud' of what occurred.
+### OTHER on 2026-06-21 03:07
+- Location: Crypto Briefing
+- Description: The crackdown highlights the need for stricter regulatory oversight to prevent infrastructure risks and financial burdens on local communities.
+The post Thailand busts illegal Bitcoin mining operation, seizes 315 rigs across five provinces appeared first on C…
 
 
-### HOMICIDE on 2026-06-20 19:15
-- Location: ABC News (AU)
-- Description: Ronnie's great-grandfather collected bones and teeth from an outback creek bed. Now police say they're 'not proud' of what occurred.
+### SHOOTING on 2026-06-21 03:05
+- Location: Dailymail.com
+- Description: Huss 'Skinny' Dehaini attended an event that began at Trombar, in Ascot Vale, at 9pm on Saturday and that carried on late into the night.
 
-Analysis generated at: Sun Jun 21 19:23:16 UTC 2026
+Analysis generated at: Mon Jun 22 03:35:42 UTC 2026
