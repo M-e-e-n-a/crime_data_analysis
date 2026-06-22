@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Jun 22 11:43:16 UTC 2026
+Last updated: Mon Jun 22 16:45:36 UTC 2026
 
 ## Latest Analysis
 
-Loaded 113084 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-21 11:13:42
+Loaded 113114 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-21 16:37:14
 
 Incidents by source:
 source
-newsapi           112983
+newsapi           113013
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-06-21 11:13
-- Location: The Times of India
-- Description: Delhi techie found dead in Mussoorie homestay; father alleges husband murdered her. Police register BNS 103 murder case; postmortem, lab tests awaited.
+### OTHER on 2026-06-21 16:37
+- Location: New York Post
+- Description: A creep wearing a tacky jacket lured a 14-year-old girl away from a popular Staten Island shopping outlet and molested her, cops said.
 
 
-### OTHER on 2026-06-21 11:03
-- Location: Dailymail.com
-- Description: A Dublin-born businessman and convicted criminal has been named as one of the prime suspects over the  IRA bombing of Manchester 30 years ago.
+### HOMICIDE on 2026-06-21 16:36
+- Location: New York Post
+- Description: “Lots of Killing going on in Chicago…Why isn’t [Illinois] Governor [JB] Pritzker calling me for help?” President Trump wrote on Truth Social early Sunday.
 
 
-### ASSAULT on 2026-06-21 11:00
-- Location: Fox News
-- Description: MMA fighter Dustin Lampros and 561 Predator Catchers allegedly caught a Florida college student who is accused of planning to meet a 13-year-old boy at Home Depot.
+### OTHER on 2026-06-21 16:35
+- Location: BBC News
+- Description: Jamal Coombes was found fatally injured near Lavender Hill, Battersea, on Saturday morning.
 
 
-### OTHER on 2026-06-21 11:00
-- Location: Roundtable.io
-- Description: The Portland Trail Blazers find themselves in the middle of the pack of various power rankings. Asset consolidation may be necessary to make a leap from play-in hopeful to championship contender.
+### ROBBERY/THEFT on 2026-06-21 16:16
+- Location: Vanity Fair
+- Description: The painting is believed to be a portrait of Marie-Thérèse Walter, Pablo Picasso's partner and muse.
 
 
-### OTHER on 2026-06-21 11:00
-- Location: Ms. Magazine
-- Description: The Manhattan Institute for Policy Research, best known as a Reaganomics champion, is using anti-LGBTQ+ politics to advance its broader political goals. But that wasn’t always part of its strategy.
-Since its founding nearly 50 years ago, MI has influenced con…
+### OTHER on 2026-06-21 16:12
+- Location: TVLine
+- Description: Many people believe 5-0 is slang for police, but it's actually because Hawaii is the 50th state — which is also why the CBS Hawaii 5-0 reboot uses a zero.
 
-Analysis generated at: Mon Jun 22 11:43:16 UTC 2026
+Analysis generated at: Mon Jun 22 16:45:36 UTC 2026
