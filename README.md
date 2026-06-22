@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Jun 22 17:06:36 UTC 2026
+Last updated: Mon Jun 22 20:39:25 UTC 2026
 
 ## Latest Analysis
 
-Loaded 113117 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-21 17:01:13
+Loaded 113147 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-21 19:44:25
 
 Incidents by source:
 source
-newsapi           113016
+newsapi           113046
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-06-21 17:01
+### OTHER on 2026-06-21 19:44
 - Location: The Times of India
-- Description: Dindigul Cyber Crime Police arrested a Telangana man for cheating an army man’s wife of Rs 17.25 lakh via Ludo app chat; held at Delhi airport.
+- Description: PM Narendra Modi joined 35,000 participants at Kolkata’s Red Road Yoga Day, stepped off the dais to correct postures, highlighting “Yoga for Healthy Ageing.”
 
 
-### OTHER on 2026-06-21 17:01
+### OTHER on 2026-06-21 19:39
 - Location: The Times of India
-- Description: Dindigul Cyber Crime Police arrested a Telangana man for cheating an army man’s wife of Rs 17.25 lakh via Ludo app chat; held at Delhi airport.
+- Description: Shraddha Pandey from Pratapgarh tops BPSC 70th exam in first attempt using self-study, YouTube and online material; also cleared UPPSC 2024 (rank 153).
 
 
-### HOMICIDE on 2026-06-21 16:52
+### ASSAULT on 2026-06-21 19:39
 - Location: The Times of India
-- Description: Bannerghatta police arrest four in Bengaluru gym trainer Vijay Kumar’s murder; body found near Jigani as investigators probe motive and family alleges a supari link.
+- Description: Yogi Adityanath in Hamirpur says mafias have been jailed or wiped out in UP, vows women’s safety, attacks SP rule, and launches Rs 637 crore projects.
 
 
-### OTHER on 2026-06-21 16:37
-- Location: New York Post
-- Description: A creep wearing a tacky jacket lured a 14-year-old girl away from a popular Staten Island shopping outlet and molested her, cops said.
+### OTHER on 2026-06-21 19:38
+- Location: The Times of India
+- Description: Abdullah Mohammad Talib appeared for the NEET re-test in Nagpur after an admit card controversy listed Abu Dhabi; family alleges possible unauthorised profile changes.
 
 
-### HOMICIDE on 2026-06-21 16:36
-- Location: New York Post
-- Description: “Lots of Killing going on in Chicago…Why isn’t [Illinois] Governor [JB] Pritzker calling me for help?” President Trump wrote on Truth Social early Sunday.
+### OTHER on 2026-06-21 19:37
+- Location: The Times of India
+- Description: NEET-UG 2026 re-test in Nagpur saw 12,000+ candidates at 30 centres; exam ran smoothly under tight security, though many found the paper tougher.
 
-Analysis generated at: Mon Jun 22 17:06:36 UTC 2026
+Analysis generated at: Mon Jun 22 20:39:25 UTC 2026
