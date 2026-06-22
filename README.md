@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Jun 22 04:57:06 UTC 2026
+Last updated: Mon Jun 22 11:43:16 UTC 2026
 
 ## Latest Analysis
 
-Loaded 113052 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-21 04:00:00
+Loaded 113084 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-21 11:13:42
 
 Incidents by source:
 source
-newsapi           112951
+newsapi           112983
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,30 +24,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-06-21 04:00
-- Location: Americanthinker.com
-- Description: School and athletic officials have a duty to protect girls.
-
-
-### OTHER on 2026-06-21 04:00
-- Location: Americanthinker.com
-- Description: Photo Credit:
- 
- Clarice FWhether it's the mullahs, Fauci, or the Philly DA's office, everybody's lies come out eventually.
-
-
-### ROBBERY/THEFT on 2026-06-21 03:42
+### HOMICIDE on 2026-06-21 11:13
 - Location: The Times of India
-- Description: A make-up artist for Bollywood producer Rhea Kapoor reported the theft of rented gold jewellery, valued at Rs 1.3 crore, en route to the US for the Met Gala. The valuable earrings, intended for Kapoor's appearance, vanished from a hotel room in New York City …
+- Description: Delhi techie found dead in Mussoorie homestay; father alleges husband murdered her. Police register BNS 103 murder case; postmortem, lab tests awaited.
 
 
-### OTHER on 2026-06-21 03:27
-- Location: Screen Rant
-- Description: Lee Child’s Jack Reacher books rank among the best crime thrillers of our time, but a few other additions to the genre are even better than Reacher.
-
-
-### OTHER on 2026-06-21 03:12
+### OTHER on 2026-06-21 11:03
 - Location: Dailymail.com
-- Description: Heartbreaking video shared exclusively with the Daily Mail shows Maria Eduarda Rodrigues de Freitas biking on a beach with friends before she was thrown from a bridge without a safety rope.
+- Description: A Dublin-born businessman and convicted criminal has been named as one of the prime suspects over the  IRA bombing of Manchester 30 years ago.
 
-Analysis generated at: Mon Jun 22 04:57:06 UTC 2026
+
+### ASSAULT on 2026-06-21 11:00
+- Location: Fox News
+- Description: MMA fighter Dustin Lampros and 561 Predator Catchers allegedly caught a Florida college student who is accused of planning to meet a 13-year-old boy at Home Depot.
+
+
+### OTHER on 2026-06-21 11:00
+- Location: Roundtable.io
+- Description: The Portland Trail Blazers find themselves in the middle of the pack of various power rankings. Asset consolidation may be necessary to make a leap from play-in hopeful to championship contender.
+
+
+### OTHER on 2026-06-21 11:00
+- Location: Ms. Magazine
+- Description: The Manhattan Institute for Policy Research, best known as a Reaganomics champion, is using anti-LGBTQ+ politics to advance its broader political goals. But that wasn’t always part of its strategy.
+Since its founding nearly 50 years ago, MI has influenced con…
+
+Analysis generated at: Mon Jun 22 11:43:16 UTC 2026
