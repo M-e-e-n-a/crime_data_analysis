@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Jun 23 03:59:11 UTC 2026
+Last updated: Tue Jun 23 09:29:27 UTC 2026
 
 ## Latest Analysis
 
-Loaded 113163 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-22 03:20:13
+Loaded 113216 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-22 09:19:50
 
 Incidents by source:
 source
-newsapi           113062
+newsapi           113115
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,30 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-06-22 03:20
-- Location: Dailymail.com
-- Description: Vanessa Lopez, 24, a former professional skateboarder, and her kind-hearted neighbor, Richard Brady, 48, were allegedly killed by her abusive boyfriend, Robert Galtman, 48.
+### HOMICIDE on 2026-06-22 09:19
+- Location: Al Jazeera English
+- Description: At least seven people wounded in a rare school shooting in the city of Tacloban in the central Philippines.
 
 
-### OTHER on 2026-06-22 03:05
-- Location: Japan Today
-- Description: Australian police seized a record 2.7 tons of cocaine hidden in plastic tubs buried underground on the outskirts of Sydney, detectives said Monday. It was the largest cocaine haul in Australian history, a joint organized crime investigation force said in a st…
+### HOMICIDE on 2026-06-22 09:19
+- Location: BBC News
+- Description: Jamal Coombes, 17, was found fatally injured in Battersea on Saturday.
 
 
-### HOMICIDE on 2026-06-22 02:54
-- Location: The Punch
-- Description: Abia State Police to arraign Agwu Ukpo for attempted murder after a viral video showed him assaulting a woman over a pot of soup. Get details on the Abia a
-
-Read More: https://punchng.com/abia-man-faces-prosecution-over-viral-woman-assault/
+### OTHER on 2026-06-22 09:15
+- Location: Khabarhub.com
+- Description: KATHMANDU: Individuals who had kept gold as collateral for loans at a branch of the state-owned Rastriya Banijya Bank staged a protest at the bank’s central office in Singha Durbar Plaza on Monday, demanding compensation for gold lost during the Gen-Z movemen…
 
 
-### OTHER on 2026-06-22 02:15
-- Location: Screen Rant
-- Description: Reacher will switch its lead characters in an upcoming installment, which will rewrite Lee Child’s original Jack Reacher books in more ways than one.
+### OTHER on 2026-06-22 09:07
+- Location: Yahoo Entertainment
+- Description: Dutiful rather than dynamic, Keir Starmer was elected Britain’s prime minister to be a safe pair of hands who would end years of political chaos under the Co...
 
 
-### HOMICIDE on 2026-06-22 02:12
-- Location: Slashdot.org
-- Description: At least seven people killed in Chicago shootings as Trump renews military callThe Guardian At least 36 shot, 6 fatally, in shootings across Chicago this weekend, police sayABC7 Chicago 7 killed and dozens injured following series of weekend shootings in Chic…
+### HOMICIDE on 2026-06-22 09:02
+- Location: BBC News
+- Description: Police say they are investigating bullying as a potential motive.
 
-Analysis generated at: Tue Jun 23 03:59:11 UTC 2026
+Analysis generated at: Tue Jun 23 09:29:27 UTC 2026
