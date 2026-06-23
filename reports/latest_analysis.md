@@ -1,10 +1,10 @@
 
-Loaded 113285 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-22 15:04:01
+Loaded 113375 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-22 19:50:35
 
 Incidents by source:
 source
-newsapi           113184
+newsapi           113274
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-06-22 15:04
-- Location: CBC News
-- Description: Two RCMP officers were shot and taken to hospital in Melville, Sask. after responding to an assault call, police say.
+### OTHER on 2026-06-22 19:50
+- Location: Vanguard
+- Description: Plateau State Police Command has arrested a suspected kidnapper and recovered an AK-47 rifle in Bokkos Local Government Area as part of ongoing efforts to tackle criminal activities across the state.
+The post Police arrest suspected kidnapper, recover AK-47 i…
 
 
-### HOMICIDE on 2026-06-22 15:02
-- Location: Dailymail.com
-- Description: Mohammed Azim, 41, was ordered to serve a minimum of 20 years in jail for killing new mother Lily Whitehouse, 19, on Bonfire Night last year.
+### HOMICIDE on 2026-06-22 19:50
+- Location: The Irish Times
+- Description: Teenager told gardaí ‘there is no proof that is me’ after he was shown CCTV footage of three youths in Doneraile village
 
 
-### HOMICIDE on 2026-06-22 15:01
-- Location: Dailymail.com
-- Description: A bizarre blackmail note sent February 6 offered to return the 84-year-old's body in return for money, a source familiar with the investigation has said.
+### ROBBERY/THEFT on 2026-06-22 19:47
+- Location: The Times of India
+- Description: Ludhiana police arrest worker for allegedly stealing Rs 3.5 lakh cash and gold from employer’s locked home using keys; FIR filed under BNS sections 306 and 3(5).
 
 
-### OTHER on 2026-06-22 14:59
-- Location: Fox News
-- Description: Former Gambino crime family associate turned New Jersey councilman John Alite allegedly ran an illegal loansharking ring while in office, authorities say.
+### HOMICIDE on 2026-06-22 19:37
+- Location: The Times of India
+- Description: Nagpur doctor Dr Eshwar Chandewar, 42, found dead in hospital cabin; autopsy suggests anaesthesia drug overdose. Police probe ongoing; no suicide note found.
 
 
-### OTHER on 2026-06-22 14:58
-- Location: Rolling Stone
-- Description: Donald Trump is blaming supposed "vandals" for the peeling paint job and overabundance of algae in the Lincoln Memorial Reflecting Pool.
+### HOMICIDE on 2026-06-22 19:36
+- Location: The-independent.com
+- Description: Kyle Sanchez later called 911 and admitted to killing his girlfriend
 
-Analysis generated at: Tue Jun 23 15:12:58 UTC 2026
+Analysis generated at: Tue Jun 23 19:55:11 UTC 2026
