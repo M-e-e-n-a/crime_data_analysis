@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Jun 23 14:37:01 UTC 2026
+Last updated: Tue Jun 23 15:12:58 UTC 2026
 
 ## Latest Analysis
 
-Loaded 113272 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-22 14:36:49
+Loaded 113285 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-22 15:04:01
 
 Incidents by source:
 source
-newsapi           113171
+newsapi           113184
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-06-22 14:36
+### SHOOTING on 2026-06-22 15:04
+- Location: CBC News
+- Description: Two RCMP officers were shot and taken to hospital in Melville, Sask. after responding to an assault call, police say.
+
+
+### HOMICIDE on 2026-06-22 15:02
 - Location: Dailymail.com
-- Description: Pedro Hernandez had his conviction for murdering the six-year-old reversed last year by a federal appeals court.
+- Description: Mohammed Azim, 41, was ordered to serve a minimum of 20 years in jail for killing new mother Lily Whitehouse, 19, on Bonfire Night last year.
 
 
-### HOMICIDE on 2026-06-22 14:28
-- Location: RTE
-- Description: A 41-year-old man wanted for the murder of gang leader Robbie Lawlor in Belfast six years ago has appeared before the High Court in Dublin.
+### HOMICIDE on 2026-06-22 15:01
+- Location: Dailymail.com
+- Description: A bizarre blackmail note sent February 6 offered to return the 84-year-old's body in return for money, a source familiar with the investigation has said.
 
 
-### OTHER on 2026-06-22 14:28
-- Location: RTE
-- Description: From celebrated politician to convicted paedophile, from Birthday Honours List to Sex Offenders' List, it has been a colossal fall from grace.
+### OTHER on 2026-06-22 14:59
+- Location: Fox News
+- Description: Former Gambino crime family associate turned New Jersey councilman John Alite allegedly ran an illegal loansharking ring while in office, authorities say.
 
 
-### OTHER on 2026-06-22 14:28
-- Location: RTE
-- Description: From celebrated politician to convicted paedophile, from Birthday Honours List to Sex Offenders' List, it's been a colossal fall from grace.
+### OTHER on 2026-06-22 14:58
+- Location: Rolling Stone
+- Description: Donald Trump is blaming supposed "vandals" for the peeling paint job and overabundance of algae in the Lincoln Memorial Reflecting Pool.
 
-
-### HOMICIDE on 2026-06-22 14:26
-- Location: Abcnews.com
-- Description: An anti-terrorism court in southwestern Pakistan has sentenced two human rights activists to life in prison over the 2024 death of a paramilitary soldier during a rally in the port city of Gwadar
-
-Analysis generated at: Tue Jun 23 14:37:01 UTC 2026
+Analysis generated at: Tue Jun 23 15:12:58 UTC 2026
