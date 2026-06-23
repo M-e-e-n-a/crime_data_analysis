@@ -1,10 +1,10 @@
 
-Loaded 113216 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-22 09:19:50
+Loaded 113272 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-22 14:36:49
 
 Incidents by source:
 source
-newsapi           113115
+newsapi           113171
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-06-22 09:19
-- Location: Al Jazeera English
-- Description: At least seven people wounded in a rare school shooting in the city of Tacloban in the central Philippines.
+### HOMICIDE on 2026-06-22 14:36
+- Location: Dailymail.com
+- Description: Pedro Hernandez had his conviction for murdering the six-year-old reversed last year by a federal appeals court.
 
 
-### HOMICIDE on 2026-06-22 09:19
-- Location: BBC News
-- Description: Jamal Coombes, 17, was found fatally injured in Battersea on Saturday.
+### HOMICIDE on 2026-06-22 14:28
+- Location: RTE
+- Description: A 41-year-old man wanted for the murder of gang leader Robbie Lawlor in Belfast six years ago has appeared before the High Court in Dublin.
 
 
-### OTHER on 2026-06-22 09:15
-- Location: Khabarhub.com
-- Description: KATHMANDU: Individuals who had kept gold as collateral for loans at a branch of the state-owned Rastriya Banijya Bank staged a protest at the bank’s central office in Singha Durbar Plaza on Monday, demanding compensation for gold lost during the Gen-Z movemen…
+### OTHER on 2026-06-22 14:28
+- Location: RTE
+- Description: From celebrated politician to convicted paedophile, from Birthday Honours List to Sex Offenders' List, it has been a colossal fall from grace.
 
 
-### OTHER on 2026-06-22 09:07
-- Location: Yahoo Entertainment
-- Description: Dutiful rather than dynamic, Keir Starmer was elected Britain’s prime minister to be a safe pair of hands who would end years of political chaos under the Co...
+### OTHER on 2026-06-22 14:28
+- Location: RTE
+- Description: From celebrated politician to convicted paedophile, from Birthday Honours List to Sex Offenders' List, it's been a colossal fall from grace.
 
 
-### HOMICIDE on 2026-06-22 09:02
-- Location: BBC News
-- Description: Police say they are investigating bullying as a potential motive.
+### HOMICIDE on 2026-06-22 14:26
+- Location: Abcnews.com
+- Description: An anti-terrorism court in southwestern Pakistan has sentenced two human rights activists to life in prison over the 2024 death of a paramilitary soldier during a rally in the port city of Gwadar
 
-Analysis generated at: Tue Jun 23 09:29:27 UTC 2026
+Analysis generated at: Tue Jun 23 14:37:01 UTC 2026
