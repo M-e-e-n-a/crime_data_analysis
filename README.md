@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Jun 24 14:42:05 UTC 2026
+Last updated: Wed Jun 24 19:31:27 UTC 2026
 
 ## Latest Analysis
 
-Loaded 113562 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-23 14:37:23
+Loaded 113657 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-23 19:30:54
 
 Incidents by source:
 source
-newsapi           113461
+newsapi           113556
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-06-23 14:37
-- Location: New York Post
-- Description: So far this year, Chicago has recorded 198 homicides — the vast majority of whom are men.
+### SHOOTING on 2026-06-23 19:30
+- Location: The Times of India
+- Description: Mohali: Pickup driver reports Rs 1.54 lakh robbed at gunpoint near Trivedi Camp; police cite discrepancies, verify claim, and continue investigation with no arrests yet.
 
 
-### DRUG RELATED on 2026-06-23 14:36
-- Location: Dailymail.com
-- Description: Jai Gascoyne, 25, and Elle Walton, 27, conducted the relationships with inmates Dil and Haq Nawaz while they were working at Buckley Hall Prison in Rochdale, Greater Manchester.
+### ROBBERY/THEFT on 2026-06-23 19:30
+- Location: The Times of India
+- Description: Family identifies missing NEET aspirant Nikky Yadav found in Narmada; autopsy in Maheshwar suggests drowning, organs preserved as police probe CCTV/CDR.
 
 
-### OTHER on 2026-06-23 14:35
-- Location: Dailymail.com
-- Description: Daryl Berman, 72, third wife of David Berman, claimed he must have 'stumbled' while carrying her tray at their home in Prestwich, Greater Manchester, with the blade penetrating his chest.
+### OTHER on 2026-06-23 19:30
+- Location: The Times of India
+- Description: DC Satpal Sharma inspects Kalka de-addiction centre, urges compliance with norms, police verification and guardian presence; warns action against false complaints.
 
 
-### HOMICIDE on 2026-06-23 14:27
-- Location: Freerepublic.com
-- Description: Englishtown, New Jersey, councilman and former mafia hitman John Alite is being accused of threatening to hit a man with a baseball bat, following his arrest last Friday on charges of loan sharking and extortion. Alite, a former hitman for the Gambino crime f…
+### HOMICIDE on 2026-06-23 19:30
+- Location: The Times of India
+- Description: Unemployed Ahmedabad IT professional missing two days found dead in locked car near Old High Court Metro; police suspect cardiac arrest after alcohol; post-mortem awaited.
 
 
-### SHOOTING on 2026-06-23 14:25
-- Location: Dailymail.com
-- Description: Flashing a row of pearly white teeth perfectly accentuated by her glossy blonde hair, it would be easy to mistake the snap of the the disgraced biology teacher for a glamor shot.
+### HOMICIDE on 2026-06-23 19:30
+- Location: The Times of India
+- Description: Two youths died after their motorcycle collided head-on with a KSRTC bus near Pottankavu, Kattakkada; police investigating, bodies sent for post-mortem.
 
-Analysis generated at: Wed Jun 24 14:42:05 UTC 2026
+Analysis generated at: Wed Jun 24 19:31:27 UTC 2026
