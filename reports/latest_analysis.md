@@ -1,10 +1,10 @@
 
-Loaded 113375 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-22 19:50:35
+Loaded 113391 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-23 02:15:04
 
 Incidents by source:
 source
-newsapi           113274
+newsapi           113290
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,29 +20,32 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-06-22 19:50
-- Location: Vanguard
-- Description: Plateau State Police Command has arrested a suspected kidnapper and recovered an AK-47 rifle in Bokkos Local Government Area as part of ongoing efforts to tackle criminal activities across the state.
-The post Police arrest suspected kidnapper, recover AK-47 i…
+### SHOOTING on 2026-06-23 02:15
+- Location: Khabarhub.com
+- Description: KATHMANDU: Economic Digest presents a brief yet comprehensive roundup of major business developments in Nepal, delivered in clear and accessible summaries. Nepal’s economy is showing a mixed picture of resilience and structural challenges. While import growth…
 
 
-### HOMICIDE on 2026-06-22 19:50
-- Location: The Irish Times
-- Description: Teenager told gardaí ‘there is no proof that is me’ after he was shown CCTV footage of three youths in Doneraile village
+### HOMICIDE on 2026-06-23 02:00
+- Location: Fox News
+- Description: Jeff Metcalf accuses media pundits of monetizing his son Austin's death and reveals Karmelo Anthony's family has never apologized or reached out.
 
 
-### ROBBERY/THEFT on 2026-06-22 19:47
-- Location: The Times of India
-- Description: Ludhiana police arrest worker for allegedly stealing Rs 3.5 lakh cash and gold from employer’s locked home using keys; FIR filed under BNS sections 306 and 3(5).
+### OTHER on 2026-06-23 01:51
+- Location: Haaretz
+- Description: Palestinian reports: Settlers raid village near Ramallah, damage vehicles. Oman affirms commitment to toll-free passage in Strait of Hormuz. Iran to establish a communication line for safe passage in Hormuz, top negotiator says
 
 
-### HOMICIDE on 2026-06-22 19:37
-- Location: The Times of India
-- Description: Nagpur doctor Dr Eshwar Chandewar, 42, found dead in hospital cabin; autopsy suggests anaesthesia drug overdose. Police probe ongoing; no suicide note found.
+### HOMICIDE on 2026-06-23 00:53
+- Location: The Punch
+- Description: Civil society groups protest rising Osun violence and killings ahead of the governorship election, as ADC suspends campaign activities.
+
+Read More: https://punchng.com/osun-violence-csos-protest-killings-adc-suspends-campaign/
 
 
-### HOMICIDE on 2026-06-22 19:36
-- Location: The-independent.com
-- Description: Kyle Sanchez later called 911 and admitted to killing his girlfriend
+### HOMICIDE on 2026-06-23 00:52
+- Location: The Punch
+- Description: The death toll from Sunday’s Plateau attack on Kawel village in Bokkos LGA has risen to 22, with a clinic also targeted. Read more on Punch.
 
-Analysis generated at: Tue Jun 23 19:55:11 UTC 2026
+Read More: https://punchng.com/plateau-tragedy-death-toll-hits-20-clinic-attacked/
+
+Analysis generated at: Wed Jun 24 02:42:38 UTC 2026
