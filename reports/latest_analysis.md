@@ -1,10 +1,10 @@
 
-Loaded 113678 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-24 02:15:48
+Loaded 113683 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-24 04:00:00
 
 Incidents by source:
 source
-newsapi           113577
+newsapi           113582
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-06-24 02:15
+### OTHER on 2026-06-24 04:00
+- Location: Americanthinker.com
+- Description: They aren’t praising big Democrat cities or progressive leftists; no, they’re praising middle America, every day working-class Americans, and the America one finds in those flyover states.
+
+
+### HOMICIDE on 2026-06-24 03:49
+- Location: ABC News (AU)
+- Description: A coroner finds the "upsetting" death of a nine-month-old baby in the Barossa Valley in a public murder-suicide by her "manipulative, self-absorbed and dangerous" father could have been prevented.
+
+
+### OTHER on 2026-06-24 03:15
+- Location: Gossiplankanews.com
+- Description: The police have succeeded in arresting the main suspect, who had been sought for several days in connection with the discovery of a woman's body inside a car in the Theldeniya area, along with his wife and young child, in the Jaffna area. Police sources confi…
+
+
+### SHOOTING on 2026-06-24 03:12
 - Location: The Times of India
-- Description: Haryana's education and agriculture departments saw another IAS officer, Pankaj Aggarwal, arrested in a Rs 60.5 crore funds swindle. He allegedly approved opening bank accounts and transferred vast sums, violating guidelines. This arrest follows that of forme…
+- Description: A former Marine reservist and seven others received lengthy prison sentences, some up to 100 years, for a shooting that injured a police officer during a Texas protest. Prosecutors labeled the incident terrorism, linking the group to antifa, a claim defense a…
 
 
-### ROBBERY/THEFT on 2026-06-24 02:00
-- Location: BroBible
-- Description: A new method of stealing jewelry has been unlocked, and it involves your intestinal tract. Elegance Jewellers (@elegancejewellers), a London-based jewelry store, uploaded footage of the surreal theft attempt on TikTok, which was captured by the establishment’…
+### HOMICIDE on 2026-06-24 03:10
+- Location: ABC News (AU)
+- Description: Jessie James Tumaliuan has been sentenced to more than two decades in jail for the violent murder of his estranged wife in March last year.
 
-
-### HOMICIDE on 2026-06-24 01:58
-- Location: Dailymail.com
-- Description: A father-of-four who brutally stabbed his estranged wife to death in her backyard just moments after she dropped their children at primary school has learnt his fate.
-
-
-### DRUG RELATED on 2026-06-24 01:50
-- Location: Dailymail.com
-- Description: Four suspects have been named in an alleged $5million drug syndicate as an ex-Diamond Creek footballer faces the possibility of life in prison if found guilty.
-
-
-### OTHER on 2026-06-24 01:42
-- Location: New York Post
-- Description: Officials with the Brea Police Department said the latest incident unfolded when a resident spotted a device disguised to blend into surrounding shrubbery, making it difficult to detect.
-
-Analysis generated at: Thu Jun 25 02:43:29 UTC 2026
+Analysis generated at: Thu Jun 25 04:01:30 UTC 2026
