@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Jun 25 08:53:27 UTC 2026
+Last updated: Thu Jun 25 14:14:10 UTC 2026
 
 ## Latest Analysis
 
-Loaded 113713 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-24 08:37:06
+Loaded 113790 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-24 14:13:27
 
 Incidents by source:
 source
-newsapi           113612
+newsapi           113689
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,29 +24,31 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-06-24 08:37
+### ROBBERY/THEFT on 2026-06-24 14:13
+- Location: Futurism
+- Description: "The name matched. The money moved. Baby Bob was back."
+The post Failing Robot Cop Company Knightscope Now Publishing Bizarre AI Slop Fan Fiction About Its Robots Solving Absurd Crimes appeared first on Futurism.
+
+
+### SHOOTING on 2026-06-24 14:12
 - Location: Protothema.gr
-- Description: The actions of the confessed murderer, as documented in the case file, shed light on the brutal murder of the 45-year-old woman in Crete
-The post Every step of the route taken by Stavroula’s killer in Chania revealed, as shocked family holds funeral appeared …
+- Description: 26-year-old Cultural Association President arrested after allegedly firing shots — felony charges being prepared against him
+The post Gunfire breaks up celebration attended by 2,000 people in Crete appeared first on ProtoThema English.
 
 
-### ASSAULT on 2026-06-24 08:33
-- Location: Thepinknews.com
-- Description: A hate crime inquiry has heard that international students from countries which criminalise homosexuality have been targeted on gay dating apps before being assaulted and threatened with being outed. Police in Victoria, Australia have identified 95 attacks on…
+### OTHER on 2026-06-24 14:09
+- Location: Help Net Security
+- Description: An Algerian national accused of running online marketplaces that sold phishing kits and fraud tools has been extradited from Spain to the United States to face bank fraud conspiracy charges.
+The post Algerian national accused of running cybercrime marketplace…
 
 
-### ROBBERY/THEFT on 2026-06-24 08:30
+### HOMICIDE on 2026-06-24 14:08
 - Location: CBC News
-- Description: Within minutes after opening on Father’s Day, NJ’s Kitchen became a victim of theft. CCTV footage shows a man walking into the St. John’s restaurant and grabbing the cash box from the front counter.
+- Description: A Saint John man has been found guilty of two counts of first-degree murder in the stabbing deaths of two boys, aged 10 and 17, last year.
 
 
-### HOMICIDE on 2026-06-24 08:21
-- Location: New York Post
-- Description: The baby-snatching Texas killer at the center of a recently-released Netflix true crime documentary dismissed the heinous murder of her pregnant pal as just “one horrible thing” in a harrowing jail call with her mom, according to records.
+### OTHER on 2026-06-24 14:07
+- Location: Dailymail.com
+- Description: He may be 'Calum with Kindness' - but mums who know the criminal past of TikTok's 'nice guy' are worried about his 'creepy' videos with young women. Now, he responds.
 
-
-### OTHER on 2026-06-24 08:20
-- Location: Antaranews.com
-- Description: President Prabowo Subianto emphasized that Indonesia is enjoying the highest rice and corn output in its history, underscoring the government&rsquo;s all-out ...
-
-Analysis generated at: Thu Jun 25 08:53:27 UTC 2026
+Analysis generated at: Thu Jun 25 14:14:09 UTC 2026
