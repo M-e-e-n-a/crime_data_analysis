@@ -1,10 +1,10 @@
 
-Loaded 113790 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-24 14:13:27
+Loaded 113797 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-24 14:40:21
 
 Incidents by source:
 source
-newsapi           113689
+newsapi           113696
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,31 +20,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2026-06-24 14:13
-- Location: Futurism
-- Description: "The name matched. The money moved. Baby Bob was back."
-The post Failing Robot Cop Company Knightscope Now Publishing Bizarre AI Slop Fan Fiction About Its Robots Solving Absurd Crimes appeared first on Futurism.
-
-
-### SHOOTING on 2026-06-24 14:12
-- Location: Protothema.gr
-- Description: 26-year-old Cultural Association President arrested after allegedly firing shots — felony charges being prepared against him
-The post Gunfire breaks up celebration attended by 2,000 people in Crete appeared first on ProtoThema English.
-
-
-### OTHER on 2026-06-24 14:09
-- Location: Help Net Security
-- Description: An Algerian national accused of running online marketplaces that sold phishing kits and fraud tools has been extradited from Spain to the United States to face bank fraud conspiracy charges.
-The post Algerian national accused of running cybercrime marketplace…
-
-
-### HOMICIDE on 2026-06-24 14:08
-- Location: CBC News
-- Description: A Saint John man has been found guilty of two counts of first-degree murder in the stabbing deaths of two boys, aged 10 and 17, last year.
-
-
-### OTHER on 2026-06-24 14:07
+### ROBBERY/THEFT on 2026-06-24 14:40
 - Location: Dailymail.com
-- Description: He may be 'Calum with Kindness' - but mums who know the criminal past of TikTok's 'nice guy' are worried about his 'creepy' videos with young women. Now, he responds.
+- Description: James McNeilly, whose criminal record stretches back 25 years and includes violent robberies and defrauding a blind man, was in court to be jailed for the third time in 18 months.
 
-Analysis generated at: Thu Jun 25 14:14:09 UTC 2026
+
+### OTHER on 2026-06-24 14:39
+- Location: Freerepublic.com
+- Description: Elect this man to lead something. LISTEN: Jacob Rockwell was fined for running a red light in Pensacola, Florida. Only thing is Jacob wasn’t in Florida, he was in Alabama. He sounded off at a local city meeting recently and his concerns go beyond just one cit…
+
+
+### OTHER on 2026-06-24 14:36
+- Location: Bossip
+- Description: Despite calls for reform, police still use controversial restraint techniques, as seen in a recent Juneteenth arrest in Ohio.
+The post Ohio Cop Placed On Leave After Kneeling On Black 15-Year-Old Girl’s Neck During Juneteenth Arrest appeared first on Bossip.
+
+
+### OTHER on 2026-06-24 14:31
+- Location: Fortune
+- Description: Frank Carone, his brother Anthony, and two other individuals were arrested on Wednesday morning over an alleged bribery scheme involving a city contract.
+
+
+### OTHER on 2026-06-24 14:29
+- Location: BBC News
+- Description: Tomasz Samel was kidnapped in 2019 after losing 10 million cigarettes worth £1m, a trial hears.
+
+Analysis generated at: Thu Jun 25 14:42:30 UTC 2026
