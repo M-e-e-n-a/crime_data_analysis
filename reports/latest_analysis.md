@@ -1,10 +1,10 @@
 
-Loaded 113797 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-24 14:40:21
+Loaded 113891 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-24 19:46:59
 
 Incidents by source:
 source
-newsapi           113696
+newsapi           113790
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,29 +20,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2026-06-24 14:40
-- Location: Dailymail.com
-- Description: James McNeilly, whose criminal record stretches back 25 years and includes violent robberies and defrauding a blind man, was in court to be jailed for the third time in 18 months.
+### OTHER on 2026-06-24 19:46
+- Location: Macdailynews.com
+- Description: A FedEx Freight driver was arrested on Tuesday after allegedly stealing more than $31,000 worth of Apple products while making…
+The post FedEx driver accused of stealing more than $31K in Apple products in South Florida appeared first on MacDailyNews.
 
 
-### OTHER on 2026-06-24 14:39
-- Location: Freerepublic.com
-- Description: Elect this man to lead something. LISTEN: Jacob Rockwell was fined for running a red light in Pensacola, Florida. Only thing is Jacob wasn’t in Florida, he was in Alabama. He sounded off at a local city meeting recently and his concerns go beyond just one cit…
+### ASSAULT on 2026-06-24 19:46
+- Location: Fox News
+- Description: An Argentine citizen who overstayed his U.S. visa by a decade after visiting Disney World was arrested in Maryland, DHS says. He has assault conviction.
 
 
-### OTHER on 2026-06-24 14:36
-- Location: Bossip
-- Description: Despite calls for reform, police still use controversial restraint techniques, as seen in a recent Juneteenth arrest in Ohio.
-The post Ohio Cop Placed On Leave After Kneeling On Black 15-Year-Old Girl’s Neck During Juneteenth Arrest appeared first on Bossip.
+### HOMICIDE on 2026-06-24 19:45
+- Location: Fox News
+- Description: Barry Morphew allegedly used the fake name "Lee Moore" while living in Arizona before his arrest on first-degree murder charges in his wife's death.
 
 
-### OTHER on 2026-06-24 14:31
-- Location: Fortune
-- Description: Frank Carone, his brother Anthony, and two other individuals were arrested on Wednesday morning over an alleged bribery scheme involving a city contract.
+### HOMICIDE on 2026-06-24 19:35
+- Location: The Times of India
+- Description: MP High Court upholds Morena man’s life sentence for wife’s 2018 murder, rejecting roof-fall and provocation claims; cites postmortem injuries and Section 106.
 
 
-### OTHER on 2026-06-24 14:29
-- Location: BBC News
-- Description: Tomasz Samel was kidnapped in 2019 after losing 10 million cigarettes worth £1m, a trial hears.
+### HOMICIDE on 2026-06-24 19:31
+- Location: The Times of India
+- Description: Bhopal: Hanumanganj police arrested Shivlal Ahirwar for allegedly slashing his wife Alpana with a blade; attempt to murder case filed, probe ongoing.
 
-Analysis generated at: Thu Jun 25 14:42:30 UTC 2026
+Analysis generated at: Thu Jun 25 19:52:09 UTC 2026
