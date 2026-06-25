@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Jun 24 19:31:27 UTC 2026
+Last updated: Thu Jun 25 02:43:29 UTC 2026
 
 ## Latest Analysis
 
-Loaded 113657 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-23 19:30:54
+Loaded 113678 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-24 02:15:48
 
 Incidents by source:
 source
-newsapi           113556
+newsapi           113577
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-06-23 19:30
+### OTHER on 2026-06-24 02:15
 - Location: The Times of India
-- Description: Mohali: Pickup driver reports Rs 1.54 lakh robbed at gunpoint near Trivedi Camp; police cite discrepancies, verify claim, and continue investigation with no arrests yet.
+- Description: Haryana's education and agriculture departments saw another IAS officer, Pankaj Aggarwal, arrested in a Rs 60.5 crore funds swindle. He allegedly approved opening bank accounts and transferred vast sums, violating guidelines. This arrest follows that of forme…
 
 
-### ROBBERY/THEFT on 2026-06-23 19:30
-- Location: The Times of India
-- Description: Family identifies missing NEET aspirant Nikky Yadav found in Narmada; autopsy in Maheshwar suggests drowning, organs preserved as police probe CCTV/CDR.
+### ROBBERY/THEFT on 2026-06-24 02:00
+- Location: BroBible
+- Description: A new method of stealing jewelry has been unlocked, and it involves your intestinal tract. Elegance Jewellers (@elegancejewellers), a London-based jewelry store, uploaded footage of the surreal theft attempt on TikTok, which was captured by the establishment’…
 
 
-### OTHER on 2026-06-23 19:30
-- Location: The Times of India
-- Description: DC Satpal Sharma inspects Kalka de-addiction centre, urges compliance with norms, police verification and guardian presence; warns action against false complaints.
+### HOMICIDE on 2026-06-24 01:58
+- Location: Dailymail.com
+- Description: A father-of-four who brutally stabbed his estranged wife to death in her backyard just moments after she dropped their children at primary school has learnt his fate.
 
 
-### HOMICIDE on 2026-06-23 19:30
-- Location: The Times of India
-- Description: Unemployed Ahmedabad IT professional missing two days found dead in locked car near Old High Court Metro; police suspect cardiac arrest after alcohol; post-mortem awaited.
+### DRUG RELATED on 2026-06-24 01:50
+- Location: Dailymail.com
+- Description: Four suspects have been named in an alleged $5million drug syndicate as an ex-Diamond Creek footballer faces the possibility of life in prison if found guilty.
 
 
-### HOMICIDE on 2026-06-23 19:30
-- Location: The Times of India
-- Description: Two youths died after their motorcycle collided head-on with a KSRTC bus near Pottankavu, Kattakkada; police investigating, bodies sent for post-mortem.
+### OTHER on 2026-06-24 01:42
+- Location: New York Post
+- Description: Officials with the Brea Police Department said the latest incident unfolded when a resident spotted a device disguised to blend into surrounding shrubbery, making it difficult to detect.
 
-Analysis generated at: Wed Jun 24 19:31:27 UTC 2026
+Analysis generated at: Thu Jun 25 02:43:29 UTC 2026
