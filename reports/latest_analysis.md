@@ -1,10 +1,10 @@
 
-Loaded 113933 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-25 04:02:00
+Loaded 113975 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-25 08:39:19
 
 Incidents by source:
 source
-newsapi           113832
+newsapi           113874
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2026-06-25 04:02
-- Location: Fox News
-- Description: Detroit Lions cornerback Terrion Arnold faces four counts of kidnapping and armed robbery charges in connection to a February incident in Tampa, police announced on Wednesday.
-
-
-### OTHER on 2026-06-25 04:00
+### HOMICIDE on 2026-06-25 08:39
 - Location: The Times of India
-- Description: Prime Minister Narendra Modi chaired the 52nd PRAGATI meeting, reviewing infrastructure projects exceeding ₹30,000 crore to boost economic growth and connectivity. He stressed the PM Gati Shakti Master Plan for timely completion and discussed TB Mukt Bharat A…
+- Description: The death toll in Kolkata's Taratala warehouse collapse has reached 10, with rescue efforts continuing for nearly 21 hours. Army's advanced radar is aiding the search for survivors, and 30 people have been pulled from the debris so far. Five individuals, incl…
 
 
-### OTHER on 2026-06-25 04:00
-- Location: Americanthinker.com
-- Description: It’s all just been one long contrivance by the media over the past 70 years to deceive.
+### OTHER on 2026-06-25 08:34
+- Location: Israelnationalnews.com
+- Description: Hundreds of Border Police, and Yassam officers descend on Jewish community in the Hebron Hills, destroying the homes of three families. 'The children were shocked.'
 
 
-### HOMICIDE on 2026-06-25 04:00
-- Location: Americanthinker.com
-- Description: When I did a little digging into the media silence about two huge stories out of England, even I was shocked by what I found.
+### OTHER on 2026-06-25 08:30
+- Location: USA Today
+- Description: Lions CB Terrion Arnold voluntarily surrendered to authorities June 24 after facing an arrest warrant in Florida. What did he do?
 
 
-### HOMICIDE on 2026-06-25 04:00
-- Location: Americanthinker.com
-- Description: The bioweaponds are doing exactly what they were imported to do, and that’s carry out European genocide.
+### OTHER on 2026-06-25 08:30
+- Location: Www.gov.uk
+- Description: The government is banning abusive conversion practices in England and Wales to protect LGBT+ people from physical and psychological harm.
 
-Analysis generated at: Fri Jun 26 04:08:48 UTC 2026
+
+### OTHER on 2026-06-25 08:08
+- Location: Deadline
+- Description: Netflix’s hit Dept. Q thriller has welcomed new cast and rolled cameras on Season 2. The series is introducing Aisling Franciosi (Speak No Evil, The Nightingale) as Kimmie, Greg Wise (The Crown, The Buccaneers) as Derek Powell, Nicholas Rowe (Red Eye S2, Spy …
+
+Analysis generated at: Fri Jun 26 08:56:05 UTC 2026
