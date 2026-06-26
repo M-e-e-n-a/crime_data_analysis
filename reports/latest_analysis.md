@@ -1,10 +1,10 @@
 
-Loaded 113919 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-25 02:44:25
+Loaded 113933 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-25 04:02:00
 
 Incidents by source:
 source
-newsapi           113818
+newsapi           113832
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2026-06-25 02:44
-- Location: The Detroit News
-- Description: Detroit Lions cornerback Terrion Arnold faces felony charges for an alleged armed robbery and kidnapping in Florida.
+### ROBBERY/THEFT on 2026-06-25 04:02
+- Location: Fox News
+- Description: Detroit Lions cornerback Terrion Arnold faces four counts of kidnapping and armed robbery charges in connection to a February incident in Tampa, police announced on Wednesday.
 
 
-### OTHER on 2026-06-25 02:41
-- Location: Freerepublic.com
-- Description: Federal immigration agents have nabbed more than 10,000 migrant gangbangers since the start of President Trump’s second term, the US Department of Homeland Security announced Wednesday. The milestone, reached just a year and a half after Trump launched his sw…
+### OTHER on 2026-06-25 04:00
+- Location: The Times of India
+- Description: Prime Minister Narendra Modi chaired the 52nd PRAGATI meeting, reviewing infrastructure projects exceeding ₹30,000 crore to boost economic growth and connectivity. He stressed the PM Gati Shakti Master Plan for timely completion and discussed TB Mukt Bharat A…
 
 
-### HOMICIDE on 2026-06-25 02:40
-- Location: Gossiplankanews.com
-- Description: The main suspect in the case of finding the dead body of a young woman named Shyama Darshani, a physiotherapist at Ampara Hospital, inside a car parked in a parking lot in the Teldeniya area, along with his mistress and their four-year-old child, are schedule…
+### OTHER on 2026-06-25 04:00
+- Location: Americanthinker.com
+- Description: It’s all just been one long contrivance by the media over the past 70 years to deceive.
 
 
-### OTHER on 2026-06-25 02:40
-- Location: New York Post
-- Description: In the bid to save New York — and the nation — apathy is as much the enemy as the DSA, for Democrats and Republicans alike.
+### HOMICIDE on 2026-06-25 04:00
+- Location: Americanthinker.com
+- Description: When I did a little digging into the media silence about two huge stories out of England, even I was shocked by what I found.
 
 
-### OTHER on 2026-06-25 02:28
-- Location: Detroit Free Press
-- Description: Lions cornerback Terrion Arnold was arrested and could face life in prison on multiple felony counts.
+### HOMICIDE on 2026-06-25 04:00
+- Location: Americanthinker.com
+- Description: The bioweaponds are doing exactly what they were imported to do, and that’s carry out European genocide.
 
-Analysis generated at: Fri Jun 26 02:47:19 UTC 2026
+Analysis generated at: Fri Jun 26 04:08:48 UTC 2026
