@@ -1,10 +1,10 @@
 
-Loaded 114070 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-25 14:30:20
+Loaded 114168 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-25 19:37:01
 
 Incidents by source:
 source
-newsapi           113969
+newsapi           114067
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-06-25 14:30
-- Location: CBC News
-- Description: A prominent gun control advocacy group is repeating its call for an immediate end to new sales of SKS rifles following deadly shootings in Montreal.
-
-
-### HOMICIDE on 2026-06-25 14:24
-- Location: RT
-- Description: A former apartheid-era operative has gone on trial over 15 murders linked to cases investigated under South Africa’s Truth and Reconciliation Commission
-
-
-### ROBBERY/THEFT on 2026-06-25 14:19
+### HOMICIDE on 2026-06-25 19:37
 - Location: The Times of India
-- Description: Stolen Picasso painting discovered near Paris: A drug trafficking investigation outside Paris led to a surprising discovery: a stolen Picasso painting. French police found the artwork, believed to depict Marie-Thérèse Walter, along with cash and cannabis duri…
+- Description: Varanasi police rescued a Rottweiler locked in murder accused Shankar Pandey’s house after he fled; dog sedated, examined; Pandey carries Rs 1 lakh reward.
 
 
-### HOMICIDE on 2026-06-25 14:15
-- Location: Ewtnnews.com
-- Description: Archbishop John Du of Palo urged the nation to reflect on how it forms its young people after the deadly June 22 attack at a high school in Tacloban City.
+### SHOOTING on 2026-06-25 19:35
+- Location: The Times of India
+- Description: Mau police arrest four after encounter over diesel theft attempt and shooting of truck driver on Basaratpur highway; pistols, cartridges and vehicles seized.
 
 
-### OTHER on 2026-06-25 14:11
-- Location: Dallas Observer
-- Description: Activists accused of being members of antifa received decades-long sentences this week for involvement in a protest gone awry.
+### HOMICIDE on 2026-06-25 19:35
+- Location: The Times of India
+- Description: Sonbhadra murder case: main accused Lala Bhaiya alias Lale Panika arrested near Chetwa Mod; police recovered motorcycle linked to May 30 skeleton find.
 
-Analysis generated at: Fri Jun 26 14:35:54 UTC 2026
+
+### OTHER on 2026-06-25 19:25
+- Location: Israelnationalnews.com
+- Description: Foreign Minister Gideon Sa’ar will propose a resolution for the official recognition by the Government of Israel of the Armenian Genocide.
+
+
+### ROBBERY/THEFT on 2026-06-25 19:24
+- Location: The Times of India
+- Description: Vadodara police arrested Sangita Mahida for stealing Rs 62,000 worth of gold jewellery from a Chhani shop; stolen ornaments recovered after tip-off.
+
+Analysis generated at: Fri Jun 26 19:41:43 UTC 2026
