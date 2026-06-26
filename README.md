@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Jun 25 19:52:09 UTC 2026
+Last updated: Fri Jun 26 02:47:19 UTC 2026
 
 ## Latest Analysis
 
-Loaded 113891 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-24 19:46:59
+Loaded 113919 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-25 02:44:25
 
 Incidents by source:
 source
-newsapi           113790
+newsapi           113818
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-06-24 19:46
-- Location: Macdailynews.com
-- Description: A FedEx Freight driver was arrested on Tuesday after allegedly stealing more than $31,000 worth of Apple products while making…
-The post FedEx driver accused of stealing more than $31K in Apple products in South Florida appeared first on MacDailyNews.
+### ROBBERY/THEFT on 2026-06-25 02:44
+- Location: The Detroit News
+- Description: Detroit Lions cornerback Terrion Arnold faces felony charges for an alleged armed robbery and kidnapping in Florida.
 
 
-### ASSAULT on 2026-06-24 19:46
-- Location: Fox News
-- Description: An Argentine citizen who overstayed his U.S. visa by a decade after visiting Disney World was arrested in Maryland, DHS says. He has assault conviction.
+### OTHER on 2026-06-25 02:41
+- Location: Freerepublic.com
+- Description: Federal immigration agents have nabbed more than 10,000 migrant gangbangers since the start of President Trump’s second term, the US Department of Homeland Security announced Wednesday. The milestone, reached just a year and a half after Trump launched his sw…
 
 
-### HOMICIDE on 2026-06-24 19:45
-- Location: Fox News
-- Description: Barry Morphew allegedly used the fake name "Lee Moore" while living in Arizona before his arrest on first-degree murder charges in his wife's death.
+### HOMICIDE on 2026-06-25 02:40
+- Location: Gossiplankanews.com
+- Description: The main suspect in the case of finding the dead body of a young woman named Shyama Darshani, a physiotherapist at Ampara Hospital, inside a car parked in a parking lot in the Teldeniya area, along with his mistress and their four-year-old child, are schedule…
 
 
-### HOMICIDE on 2026-06-24 19:35
-- Location: The Times of India
-- Description: MP High Court upholds Morena man’s life sentence for wife’s 2018 murder, rejecting roof-fall and provocation claims; cites postmortem injuries and Section 106.
+### OTHER on 2026-06-25 02:40
+- Location: New York Post
+- Description: In the bid to save New York — and the nation — apathy is as much the enemy as the DSA, for Democrats and Republicans alike.
 
 
-### HOMICIDE on 2026-06-24 19:31
-- Location: The Times of India
-- Description: Bhopal: Hanumanganj police arrested Shivlal Ahirwar for allegedly slashing his wife Alpana with a blade; attempt to murder case filed, probe ongoing.
+### OTHER on 2026-06-25 02:28
+- Location: Detroit Free Press
+- Description: Lions cornerback Terrion Arnold was arrested and could face life in prison on multiple felony counts.
 
-Analysis generated at: Thu Jun 25 19:52:09 UTC 2026
+Analysis generated at: Fri Jun 26 02:47:19 UTC 2026
