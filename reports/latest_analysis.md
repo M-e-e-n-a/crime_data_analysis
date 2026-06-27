@@ -1,10 +1,10 @@
 
-Loaded 114168 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-25 19:37:01
+Loaded 114190 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-26 02:35:26
 
 Incidents by source:
 source
-newsapi           114067
+newsapi           114089
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-06-25 19:37
+### HOMICIDE on 2026-06-26 02:35
+- Location: Dailymail.com
+- Description: Prosecutors believe that Gretchen Leanne Ryan, 55, supplied her daughter, Grace, with copious amounts of alcohol and isolated her in the months leading up to the teen's death.
+
+
+### HOMICIDE on 2026-06-26 02:33
+- Location: Dailymail.com
+- Description: Leigh Geoffrey Sushames, 47, was sentenced in the Supreme Court in Burnie, north-west Tasmania, on Friday.
+
+
+### HOMICIDE on 2026-06-26 02:28
 - Location: The Times of India
-- Description: Varanasi police rescued a Rottweiler locked in murder accused Shankar Pandey’s house after he fled; dog sedated, examined; Pandey carries Rs 1 lakh reward.
+- Description: A Bengaluru court has remanded techie M. Shwetha to seven-day police custody after her arrest in Puducherry. She is accused of murdering her parents and sister with her live-in partner, Kenneth J., who remains at large. The couple allegedly fled after the bru…
 
 
-### SHOOTING on 2026-06-25 19:35
-- Location: The Times of India
-- Description: Mau police arrest four after encounter over diesel theft attempt and shooting of truck driver on Basaratpur highway; pistols, cartridges and vehicles seized.
+### OTHER on 2026-06-26 02:20
+- Location: Us Weekly
+- Description: TLC personality Karen Derrico seemingly threatened her child while on a contentious phone call amid her recent arrest and legal drama. According to audio obtained by TMZ on Thursday, June 25, the Doubling Down With the Derricos alum, 46, was on the phone with…
 
 
-### HOMICIDE on 2026-06-25 19:35
-- Location: The Times of India
-- Description: Sonbhadra murder case: main accused Lala Bhaiya alias Lale Panika arrested near Chetwa Mod; police recovered motorcycle linked to May 30 skeleton find.
+### SHOOTING on 2026-06-26 02:15
+- Location: Khabarhub.com
+- Description: KATHMANDU: Economic Digest presents a brief yet comprehensive roundup of major business developments in Nepal, delivered in clear and accessible summaries. Nepal’s economy presents a mixed picture, with weak investor confidence reflected in a four-day decline…
 
-
-### OTHER on 2026-06-25 19:25
-- Location: Israelnationalnews.com
-- Description: Foreign Minister Gideon Sa’ar will propose a resolution for the official recognition by the Government of Israel of the Armenian Genocide.
-
-
-### ROBBERY/THEFT on 2026-06-25 19:24
-- Location: The Times of India
-- Description: Vadodara police arrested Sangita Mahida for stealing Rs 62,000 worth of gold jewellery from a Chhani shop; stolen ornaments recovered after tip-off.
-
-Analysis generated at: Fri Jun 26 19:41:43 UTC 2026
+Analysis generated at: Sat Jun 27 02:38:51 UTC 2026
