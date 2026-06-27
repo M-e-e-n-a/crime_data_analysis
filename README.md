@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Jun 27 08:31:26 UTC 2026
+Last updated: Sat Jun 27 13:21:53 UTC 2026
 
 ## Latest Analysis
 
-Loaded 114246 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-26 08:25:18
+Loaded 114311 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-26 13:16:04
 
 Incidents by source:
 source
-newsapi           114145
+newsapi           114210
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,30 +24,30 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-06-26 08:25
-- Location: Gossiplankanews.com
-- Description: The brutal incident of a young physiotherapist being strangled to death at a tourist resort in the Nuwara Eliya area deeply shocked society. Currently, the investigations into this incident are primarily focused on the network of individuals who helped the ki…
+### HOMICIDE on 2026-06-26 13:16
+- Location: New York Post
+- Description: The girl was found with rotting teeth and bugs on her face, according to police.
 
 
-### DRUG RELATED on 2026-06-26 08:24
-- Location: The Punch
-- Description: NDLEA Ekiti has destroyed over 51 hectares of cannabis plantations and arrested 281 suspects in the past year, combating drug trafficking and abuse in the
-
-Read More: https://punchng.com/ndlea-destroys-51-hectares-of-cannabis-arrests-281-suspects-in-ekiti/
+### OTHER on 2026-06-26 13:15
+- Location: Daily Signal
+- Description: California has achieved something almost impossible in the annals of bureaucratic absurdity: It has made citizenship easier to assert for voting than sexual orientation is to document for favored utility contracting. To register to vote, a person fills out a …
 
 
-### DRUG RELATED on 2026-06-26 08:22
-- Location: RTE
-- Description: Myanmar authorities torched seized drugs worth an estimated $525 million, according to the home affairs minister who blamed rebel factions for the war-ravaged country's booming trade in illegal narcotics.
-
-
-### DRUG RELATED on 2026-06-26 08:19
+### HOMICIDE on 2026-06-26 13:14
 - Location: The Times of India
-- Description: Union Home Minister Amit Shah announced plans to amend the NDPS Act to combat drug syndicates, emphasizing a strict approach against peddlers. He highlighted significant increases in drug seizures and value between 2014-2026 compared to the previous decade. S…
+- Description: ITBP jawan Dhanji Kumar Yadav, on leave, was killed in a hit-and-run on NH-120 in Buxar; police suspect a sand-laden truck; cremated with honours.
 
 
-### HOMICIDE on 2026-06-26 08:18
-- Location: Dailymail.com
-- Description: The attack shocked the country and stirred up tensions over the charged issue of immigration, months before a general election that was held in February 2025.
+### HOMICIDE on 2026-06-26 13:09
+- Location: BBC News
+- Description: Thomas Malone had earlier admitted charges of attempted murder, dangerous driving and abduction.
 
-Analysis generated at: Sat Jun 27 08:31:26 UTC 2026
+
+### OTHER on 2026-06-26 13:08
+- Location: The Punch
+- Description: The African Democratic Congress (ADC) supports state police in Nigeria but criticizes President Tinubu’s ‘rushed’ plan, citing lack of safeguards and prope
+
+Read More: https://punchng.com/adc-supports-state-police-but-faults-tinubus-rushed-plan/
+
+Analysis generated at: Sat Jun 27 13:21:53 UTC 2026
