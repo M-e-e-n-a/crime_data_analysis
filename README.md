@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Jun 27 13:54:06 UTC 2026
+Last updated: Sat Jun 27 19:12:45 UTC 2026
 
 ## Latest Analysis
 
-Loaded 114317 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-26 13:52:49
+Loaded 114413 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-26 19:06:34
 
 Incidents by source:
 source
-newsapi           114216
+newsapi           114312
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-06-26 13:52
-- Location: Dailymail.com
-- Description: Staff at Johnsons of Old Hurst zoo, near Huntingdon in Cambridgeshire, reportedly had to stand in their way to stop them leaving
-
-
-### OTHER on 2026-06-26 13:51
+### HOMICIDE on 2026-06-26 19:06
 - Location: The Times of India
-- Description: Dermatologists in Ranchi report a monsoon spike in fungal skin and scalp infections, with Rims seeing 6–8 daily cases; hygiene and thorough drying advised.
+- Description: Colvale murder: Krishna Naik’s last rites held after family accepts body; four accused arrested for fatal assault, charged under BNS murder and hurt sections.
 
 
-### SHOOTING on 2026-06-26 13:45
+### ROBBERY/THEFT on 2026-06-26 19:06
 - Location: The Times of India
-- Description: ASI shot in Darbhanga’s Ojhol village; alleged shooter lynched after clash. Police probe underway as FSL gathers evidence and names surface in case.
+- Description: Azamgarh police arrested Toijam Nataraj Singh on Purvanchal Expressway, recovered a Rs 50 lakh stolen luxury car, and busted a Delhi-to-Manipur theft racket.
 
 
-### HOMICIDE on 2026-06-26 13:27
-- Location: Breitbart News
-- Description: A Texas woman has been arrested and charged with a gruesome shooting and stabbing death in San Angelo. Police allege 31-year-old Audrey Troncoso shot, stabbed, and dismembered a man on Tuesday and later hid the body in a dumpster.
-The post Texas Woman Alleged…
+### HOMICIDE on 2026-06-26 19:05
+- Location: The Times of India
+- Description: Fatorda police arrest Sabir Khan Ustad, absconding for 6 months, in the Gogol mosque vice president Ali Khanzade murder case linked to committee dispute.
 
 
-### OTHER on 2026-06-26 13:26
-- Location: Thepinknews.com
-- Description: Seattle is set to host the World Cup‘s “Pride Match” on 26 June, with the draw being Egypt vs Iran. It was confirmed this week that rainbow flags will be allowed to fly in the stadium, despite protests from both countries. The match is not officially linked w…
+### HOMICIDE on 2026-06-26 19:03
+- Location: The Times of India
+- Description: Pune police say Siya Goyal told investigators she disliked Ketan Agarwal for wearing a wig; family disputes motive as probe recreates Lohagad Fort scene.
 
-Analysis generated at: Sat Jun 27 13:54:06 UTC 2026
+
+### SHOOTING on 2026-06-26 19:01
+- Location: New York Post
+- Description: One man was shot in the foot and another was blasted in the leg in separate gun attacks in The Bronx and Manhattan this week, cops said. The first shooting happened at around 6:20 p.m. on Thursday evening in Manhattan, cops said.  Two men were shot in the leg…
+
+Analysis generated at: Sat Jun 27 19:12:45 UTC 2026
