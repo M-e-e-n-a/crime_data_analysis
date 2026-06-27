@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Jun 27 13:21:53 UTC 2026
+Last updated: Sat Jun 27 13:54:06 UTC 2026
 
 ## Latest Analysis
 
-Loaded 114311 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-26 13:16:04
+Loaded 114317 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-26 13:52:49
 
 Incidents by source:
 source
-newsapi           114210
+newsapi           114216
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,30 +24,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-06-26 13:16
-- Location: New York Post
-- Description: The girl was found with rotting teeth and bugs on her face, according to police.
+### OTHER on 2026-06-26 13:52
+- Location: Dailymail.com
+- Description: Staff at Johnsons of Old Hurst zoo, near Huntingdon in Cambridgeshire, reportedly had to stand in their way to stop them leaving
 
 
-### OTHER on 2026-06-26 13:15
-- Location: Daily Signal
-- Description: California has achieved something almost impossible in the annals of bureaucratic absurdity: It has made citizenship easier to assert for voting than sexual orientation is to document for favored utility contracting. To register to vote, a person fills out a …
-
-
-### HOMICIDE on 2026-06-26 13:14
+### OTHER on 2026-06-26 13:51
 - Location: The Times of India
-- Description: ITBP jawan Dhanji Kumar Yadav, on leave, was killed in a hit-and-run on NH-120 in Buxar; police suspect a sand-laden truck; cremated with honours.
+- Description: Dermatologists in Ranchi report a monsoon spike in fungal skin and scalp infections, with Rims seeing 6–8 daily cases; hygiene and thorough drying advised.
 
 
-### HOMICIDE on 2026-06-26 13:09
-- Location: BBC News
-- Description: Thomas Malone had earlier admitted charges of attempted murder, dangerous driving and abduction.
+### SHOOTING on 2026-06-26 13:45
+- Location: The Times of India
+- Description: ASI shot in Darbhanga’s Ojhol village; alleged shooter lynched after clash. Police probe underway as FSL gathers evidence and names surface in case.
 
 
-### OTHER on 2026-06-26 13:08
-- Location: The Punch
-- Description: The African Democratic Congress (ADC) supports state police in Nigeria but criticizes President Tinubu’s ‘rushed’ plan, citing lack of safeguards and prope
+### HOMICIDE on 2026-06-26 13:27
+- Location: Breitbart News
+- Description: A Texas woman has been arrested and charged with a gruesome shooting and stabbing death in San Angelo. Police allege 31-year-old Audrey Troncoso shot, stabbed, and dismembered a man on Tuesday and later hid the body in a dumpster.
+The post Texas Woman Alleged…
 
-Read More: https://punchng.com/adc-supports-state-police-but-faults-tinubus-rushed-plan/
 
-Analysis generated at: Sat Jun 27 13:21:53 UTC 2026
+### OTHER on 2026-06-26 13:26
+- Location: Thepinknews.com
+- Description: Seattle is set to host the World Cup‘s “Pride Match” on 26 June, with the draw being Egypt vs Iran. It was confirmed this week that rainbow flags will be allowed to fly in the stadium, despite protests from both countries. The match is not officially linked w…
+
+Analysis generated at: Sat Jun 27 13:54:06 UTC 2026
