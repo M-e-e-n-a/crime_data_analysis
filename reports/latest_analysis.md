@@ -1,10 +1,10 @@
 
-Loaded 114413 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-26 19:06:34
+Loaded 114428 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-27 02:38:43
 
 Incidents by source:
 source
-newsapi           114312
+newsapi           114327
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-06-26 19:06
-- Location: The Times of India
-- Description: Colvale murder: Krishna Naik’s last rites held after family accepts body; four accused arrested for fatal assault, charged under BNS murder and hurt sections.
+### ROBBERY/THEFT on 2026-06-27 02:38
+- Location: ABC News (AU)
+- Description: Energex says it appears someone broke into a substation's cable pit and attempted to cut through an 11,000-volt cable, leaving about 13,000 south-east Queensland customers without power overnight.
 
 
-### ROBBERY/THEFT on 2026-06-26 19:06
-- Location: The Times of India
-- Description: Azamgarh police arrested Toijam Nataraj Singh on Purvanchal Expressway, recovered a Rs 50 lakh stolen luxury car, and busted a Delhi-to-Manipur theft racket.
+### ASSAULT on 2026-06-27 02:31
+- Location: Breitbart News
+- Description: Federal authorities have joined the investigation into the alleged assault of a Texas woman by a group accused of chanting "Free Karmelo" during the attack, local police said.
+The post FBI Now Involved in Texas Assault Case Tied to ‘Free Karmelo’ Attack appea…
 
 
-### HOMICIDE on 2026-06-26 19:05
-- Location: The Times of India
-- Description: Fatorda police arrest Sabir Khan Ustad, absconding for 6 months, in the Gogol mosque vice president Ali Khanzade murder case linked to committee dispute.
+### HOMICIDE on 2026-06-27 02:23
+- Location: Al Jazeera English
+- Description: Newly released footage has exposed the series of lies that led UK police to arrest a dying stabbing victim.
 
 
-### HOMICIDE on 2026-06-26 19:03
-- Location: The Times of India
-- Description: Pune police say Siya Goyal told investigators she disliked Ketan Agarwal for wearing a wig; family disputes motive as probe recreates Lohagad Fort scene.
+### OTHER on 2026-06-27 02:00
+- Location: PRNewswire
+- Description: LEWES, Del., June 26, 2026 /PRNewswire/ -- Women's Wellness of Southern Delaware ("WWSD") is notifying individuals of a data security incident that may have affected their personal information. While we are unaware of any attempted or actual misuse of individ…
 
 
-### SHOOTING on 2026-06-26 19:01
-- Location: New York Post
-- Description: One man was shot in the foot and another was blasted in the leg in separate gun attacks in The Bronx and Manhattan this week, cops said. The first shooting happened at around 6:20 p.m. on Thursday evening in Manhattan, cops said.  Two men were shot in the leg…
+### OTHER on 2026-06-27 01:53
+- Location: Abcnews.com
+- Description: A Connecticut judge has publicly released a video showing correctional officers striking an inmate multiple times and pepper spraying him before he died in 2018
 
-Analysis generated at: Sat Jun 27 19:12:45 UTC 2026
+Analysis generated at: Sun Jun 28 02:52:54 UTC 2026
