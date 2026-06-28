@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Jun 28 04:16:37 UTC 2026
+Last updated: Sun Jun 28 08:46:14 UTC 2026
 
 ## Latest Analysis
 
-Loaded 114440 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-27 04:14:43
+Loaded 114463 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-27 08:31:24
 
 Incidents by source:
 source
-newsapi           114339
+newsapi           114362
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,30 +24,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-06-27 04:14
-- Location: Dailymail.com
-- Description: The bodies of the family were found dead inside their apartment in Mechanicville, a small town in upstate New York, on Tuesday.
-
-
-### HOMICIDE on 2026-06-27 04:02
+### HOMICIDE on 2026-06-27 08:31
 - Location: The Times of India
-- Description: A Pune realtor's murder investigation reveals a complex web of a secret relationship clashing with a family-arranged marriage. Police allege accused Siya Goyal's family knew of her affair with Chetan Chaudhary but proceeded with her engagement to Ketan Agarwa…
+- Description: Pune police are questioning the parents and brother of Siya Goyal, a co-accused in the murder of realtor Ketan Agarwal. Siya and her lover allegedly pushed Agarwal off a cliff after she decided against their November wedding. The deceased's father met the Chi…
 
 
-### OTHER on 2026-06-27 04:00
-- Location: Americanthinker.com
-- Description: Photo Credit:
- 
- Elvert BarnesEvery big city in America where the population is declining, businesses are closing, public safety is failing, and national relevance is diminishing suffers from the same handful of leadership failures.
+### OTHER on 2026-06-27 08:20
+- Location: Vanguard
+- Description: This was not justice. It was savagery. It was lawlessness masquerading as righteousness. And it was a direct violation of Islam.
+The post Mob Action in Maraban: A crime against humanity and Islam appeared first on Vanguard News.
 
 
-### OTHER on 2026-06-27 04:00
-- Location: Americanthinker.com
-- Description: The people who have the most in modern America are the ones most likely to want to burn it all down.
+### HOMICIDE on 2026-06-27 08:13
+- Location: Al Jazeera English
+- Description: Suspect was stopped at Bangkok's main airport as he allegedly tried to fly home.
 
 
-### OTHER on 2026-06-27 04:00
-- Location: Americanthinker.com
-- Description: California wants to lead the nation in destroying unalienable rights.
+### ASSAULT on 2026-06-27 08:11
+- Location: ABC News (AU)
+- Description: The daughter of an elderly couple attacked in an alleged home invasion in northern NSW wants to see mobile coverage improved across regional areas.
 
-Analysis generated at: Sun Jun 28 04:16:37 UTC 2026
+
+### HOMICIDE on 2026-06-27 08:00
+- Location: CBC News
+- Description: Rachelle Wrathmall, 31, was found dead in her Lennoxville home in Sherbrooke, Que., in June of 2007. She had been stabbed to death. The day before she was found, her husband left Canada and eventually returned to his home country.
+
+Analysis generated at: Sun Jun 28 08:46:14 UTC 2026
