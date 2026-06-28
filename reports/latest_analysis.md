@@ -1,10 +1,10 @@
 
-Loaded 114463 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-27 08:31:24
+Loaded 114498 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-27 13:24:55
 
 Incidents by source:
 source
-newsapi           114362
+newsapi           114397
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,29 +20,31 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-06-27 08:31
-- Location: The Times of India
-- Description: Pune police are questioning the parents and brother of Siya Goyal, a co-accused in the murder of realtor Ketan Agarwal. Siya and her lover allegedly pushed Agarwal off a cliff after she decided against their November wedding. The deceased's father met the Chi…
+### OTHER on 2026-06-27 13:24
+- Location: Wnd.com
+- Description: 'I am beyond furious'
 
 
-### OTHER on 2026-06-27 08:20
-- Location: Vanguard
-- Description: This was not justice. It was savagery. It was lawlessness masquerading as righteousness. And it was a direct violation of Islam.
-The post Mob Action in Maraban: A crime against humanity and Islam appeared first on Vanguard News.
+### OTHER on 2026-06-27 13:18
+- Location: Gothamist
+- Description: A participant holds a sign at the 2025 NYC Pride March.
+ 
+
+Millions of people are coming to the Pride March — but it's not the only game in town. [ more › ]
 
 
-### HOMICIDE on 2026-06-27 08:13
-- Location: Al Jazeera English
-- Description: Suspect was stopped at Bangkok's main airport as he allegedly tried to fly home.
-
-
-### ASSAULT on 2026-06-27 08:11
-- Location: ABC News (AU)
-- Description: The daughter of an elderly couple attacked in an alleged home invasion in northern NSW wants to see mobile coverage improved across regional areas.
-
-
-### HOMICIDE on 2026-06-27 08:00
+### HOMICIDE on 2026-06-27 13:15
 - Location: CBC News
-- Description: Rachelle Wrathmall, 31, was found dead in her Lennoxville home in Sherbrooke, Que., in June of 2007. She had been stabbed to death. The day before she was found, her husband left Canada and eventually returned to his home country.
+- Description: Halifax police found a man dead after a shooting in Dartmouth on Friday. The case is now being investigated as a homicide.
 
-Analysis generated at: Sun Jun 28 08:46:14 UTC 2026
+
+### HOMICIDE on 2026-06-27 13:07
+- Location: BBC News
+- Description: The man was taken to hospital with serious injuries following the incident that happened in the Dougrie Road area at about 16:50 on Friday.
+
+
+### OTHER on 2026-06-27 13:06
+- Location: New York Post
+- Description: Financial crimes detectives are ramping up anti-skimming operations as World Cup fans and July 4 crowds flood NYC -- warning criminals are planting devices on ATMs to steal banking data.
+
+Analysis generated at: Sun Jun 28 13:26:07 UTC 2026
