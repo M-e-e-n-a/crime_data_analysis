@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Jun 29 15:56:04 UTC 2026
+Last updated: Mon Jun 29 19:50:41 UTC 2026
 
 ## Latest Analysis
 
-Loaded 114639 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-28 15:46:10
+Loaded 114689 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-28 19:33:40
 
 Incidents by source:
 source
-newsapi           114538
+newsapi           114588
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,30 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2026-06-28 15:46
+### OTHER on 2026-06-28 19:33
+- Location: New York Post
+- Description: A missing Arizona girl believed to be sex trafficked was found at a homeless encampment in Washington last week, according to the US Marshals Service.
+
+
+### OTHER on 2026-06-28 19:31
 - Location: Dailymail.com
-- Description: The ordeal unfolded on a residential street in Brighton around 6pm on Saturday, Sussex Police added, which left two men injured and in need of medical attention.
+- Description: Ms Needham has spent every day since Ben's disappearance in 1991 pursuing fresh leads in the hope of finding answers about what happened to her son.
 
 
-### SHOOTING on 2026-06-28 15:44
-- Location: Hip-Hop Wired
-- Description: The alleged Folk Nation gang members are said to be connected to 26 shootings across Brooklyn and Manhattan.
+### ROBBERY/THEFT on 2026-06-28 19:31
+- Location: The Times of India
+- Description: Ayodhya Ram Temple donation theft probe: police scrutinise accused Anukalp Mishra’s farmhouse, Rs 65 lakh Ayodhya house, SUV attempt, bank and property records.
 
 
-### HOMICIDE on 2026-06-28 15:39
-- Location: The Punch
-- Description: SGF George Akume expresses outrage over the killing of the Benue MACBAN chairman and associate, demanding thorough investigation and prosecution of culprit
-
-Read More: https://punchng.com/killers-of-macban-chairman-must-face-trial-sgf/
+### ROBBERY/THEFT on 2026-06-28 19:30
+- Location: The Times of India
+- Description: Candolim jewellery heist: Calangute police arrest five in Raigad, Maharashtra, for stealing 16 gold rings; 15 recovered, gang linked to earlier theft cases.
 
 
-### SHOOTING on 2026-06-28 15:29
-- Location: Moonbattery.com
-- Description: The chaos and societal decay invariably resulting from progressivism continues to progress in Los Angeles, where two were shot yesterday morning during a naked bike ride through downtown, fortunately with only a BB gun. Via KTLA: According to the Los … Contin…
+### OTHER on 2026-06-28 19:15
+- Location: ABC News (AU)
+- Description: Anti-money laundering laws mean that for the first time, real estate agents, lawyers, accountants and others must report suspicious transactions.
 
-
-### HOMICIDE on 2026-06-28 15:15
-- Location: Psychology Today
-- Description: Heat can cloud your thinking and lower impulse control. Behind the wheel, that is a recipe for accidents.
-
-Analysis generated at: Mon Jun 29 15:56:04 UTC 2026
+Analysis generated at: Mon Jun 29 19:50:41 UTC 2026
