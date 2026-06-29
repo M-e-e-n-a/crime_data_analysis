@@ -1,10 +1,10 @@
 
-Loaded 114565 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-28 02:49:35
+Loaded 114571 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-28 04:00:00
 
 Incidents by source:
 source
-newsapi           114464
+newsapi           114470
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,29 +20,31 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-06-28 02:49
-- Location: The Times of India
-- Description: A resurfaced video showing Siya Goyal and Chetan Chaudhary at a cricket match is central to the Pune police investigation into Ketan Agarwal's death. Investigators believe the clip supports claims of a pre-existing relationship between Siya and Chetan, which …
+### OTHER on 2026-06-28 04:00
+- Location: Americanthinker.com
+- Description: It’s bad enough that he’s a leftist. Worse is this sordid episode from when he was in Congress.
 
 
-### OTHER on 2026-06-28 02:42
-- Location: Dailymail.com
-- Description: CCTV footage showed the passenger scramble back into the car as two unmarked police SUVs suddenly appeared, boxing in the vehicle on both ends.
+### OTHER on 2026-06-28 04:00
+- Location: Americanthinker.com
+- Description: Canadian wokery continues. Now it's the muezzin calling Muslims to prayer. Why not dogs barking instead?
 
 
-### OTHER on 2026-06-28 02:40
-- Location: Thegatewaypundit.com
-- Description: David Sacks is the Silicone Valley tech figure who has served as Donald Trump's 'Bitcoin Czar' during the second term.
-The post David Sacks Breaks Down the Ideology Behind the DSA for His Horrified Podcast Co-Hosts (VIDEO) appeared first on The Gateway Pundit.
+### OTHER on 2026-06-28 04:00
+- Location: Americanthinker.com
+- Description: Photo Credit:Image: woodleywonderworks via Flickr, CC BY 2.0.
+
+ 
+ woodleywonderworksFilm critics hate it, but it is resonating with the general public.
 
 
-### HOMICIDE on 2026-06-28 02:32
-- Location: Dailymail.com
-- Description: A man has been charged with murder and torture after a baby boy died in hospital in Queensland.
+### OTHER on 2026-06-28 03:30
+- Location: Screen Rant
+- Description: The action movie genre lives and dies by its lead characters, and the best of the best have delivered one-liners that have stood the test of time.
 
 
-### SHOOTING on 2026-06-28 02:03
-- Location: NBC News
-- Description: Before the outcry, before the demands for justice, before he was placed inside a small casket with a stuffed Bluey, a family had looked forward to sharing simple moments with Kohen Wiley, who was just months away from his second birthday and named by his mate…
+### HOMICIDE on 2026-06-28 03:18
+- Location: ABC News (AU)
+- Description: The 22-year-old Bundaberg man has been charged with domestic violence offences of murder and torture.
 
-Analysis generated at: Mon Jun 29 02:53:32 UTC 2026
+Analysis generated at: Mon Jun 29 04:23:35 UTC 2026
