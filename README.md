@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Jun 29 15:37:37 UTC 2026
+Last updated: Mon Jun 29 15:56:04 UTC 2026
 
 ## Latest Analysis
 
-Loaded 114636 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-28 15:29:48
+Loaded 114639 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-28 15:46:10
 
 Incidents by source:
 source
-newsapi           114535
+newsapi           114538
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,6 +24,23 @@ ion.svg)
 
 ## Recent Incidents
 
+### ASSAULT on 2026-06-28 15:46
+- Location: Dailymail.com
+- Description: The ordeal unfolded on a residential street in Brighton around 6pm on Saturday, Sussex Police added, which left two men injured and in need of medical attention.
+
+
+### SHOOTING on 2026-06-28 15:44
+- Location: Hip-Hop Wired
+- Description: The alleged Folk Nation gang members are said to be connected to 26 shootings across Brooklyn and Manhattan.
+
+
+### HOMICIDE on 2026-06-28 15:39
+- Location: The Punch
+- Description: SGF George Akume expresses outrage over the killing of the Benue MACBAN chairman and associate, demanding thorough investigation and prosecution of culprit
+
+Read More: https://punchng.com/killers-of-macban-chairman-must-face-trial-sgf/
+
+
 ### SHOOTING on 2026-06-28 15:29
 - Location: Moonbattery.com
 - Description: The chaos and societal decay invariably resulting from progressivism continues to progress in Los Angeles, where two were shot yesterday morning during a naked bike ride through downtown, fortunately with only a BB gun. Via KTLA: According to the Los … Contin…
@@ -33,20 +50,4 @@ ion.svg)
 - Location: Psychology Today
 - Description: Heat can cloud your thinking and lower impulse control. Behind the wheel, that is a recipe for accidents.
 
-
-### SHOOTING on 2026-06-28 15:14
-- Location: Dailymail.com
-- Description: Line of Duty stars Martin Compston and Vicky McClure filmed a dramatic car crash in Belfast on Sunday, as work on the long-awaited seventh series resumed.
-
-
-### HOMICIDE on 2026-06-28 15:00
-- Location: Allthatsinteresting.com
-- Description: The 1998 murder of James Byrd Jr. in Jasper, Texas, spurred federal hate crime legislation, even as some people insisted that it was simply a drug deal gone wrong.
-The post The Shocking Murder Of James Byrd Jr., The Black Man Who Was Dragged Behind A Truck By…
-
-
-### HOMICIDE on 2026-06-28 14:52
-- Location: CBC News
-- Description: A 46-year-old man has been arrested by Peel police over a week after a search began for him following the death of his senior parents at a Mississauga home last week.
-
-Analysis generated at: Mon Jun 29 15:37:37 UTC 2026
+Analysis generated at: Mon Jun 29 15:56:04 UTC 2026
