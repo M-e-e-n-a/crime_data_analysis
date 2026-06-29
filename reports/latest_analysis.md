@@ -1,10 +1,10 @@
 
-Loaded 114593 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-28 10:41:00
+Loaded 114636 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-28 15:29:48
 
 Incidents by source:
 source
-newsapi           114492
+newsapi           114535
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,31 +20,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-06-28 10:41
+### SHOOTING on 2026-06-28 15:29
+- Location: Moonbattery.com
+- Description: The chaos and societal decay invariably resulting from progressivism continues to progress in Los Angeles, where two were shot yesterday morning during a naked bike ride through downtown, fortunately with only a BB gun. Via KTLA: According to the Los … Contin…
+
+
+### HOMICIDE on 2026-06-28 15:15
+- Location: Psychology Today
+- Description: Heat can cloud your thinking and lower impulse control. Behind the wheel, that is a recipe for accidents.
+
+
+### SHOOTING on 2026-06-28 15:14
 - Location: Dailymail.com
-- Description: When Jamie Varley and John McGowan-Fazakerley splashed out on a five bedroom home, affluent new neighbours initially welcomed them with open arms.
+- Description: Line of Duty stars Martin Compston and Vicky McClure filmed a dramatic car crash in Belfast on Sunday, as work on the long-awaited seventh series resumed.
 
 
-### OTHER on 2026-06-28 10:30
-- Location: Haaretz
-- Description: The request to arrest and prosecute Israel's far-right national security minister comes just over a week before he's planned to take part in a UN conference on policing ■ The group alleges that Ben-Gvir 'used his authority to enact a policy of systematic tort…
+### HOMICIDE on 2026-06-28 15:00
+- Location: Allthatsinteresting.com
+- Description: The 1998 murder of James Byrd Jr. in Jasper, Texas, spurred federal hate crime legislation, even as some people insisted that it was simply a drug deal gone wrong.
+The post The Shocking Murder Of James Byrd Jr., The Black Man Who Was Dragged Behind A Truck By…
 
 
-### OTHER on 2026-06-28 10:17
-- Location: Israelnationalnews.com
-- Description: Israel takes historic step by officially recognizing the Armenian genocide, in a unanimous resolution citing its moral and historical responsibility and affirming its commitment to acknowledging historical truth and condemning efforts to deny or distort docum…
+### HOMICIDE on 2026-06-28 14:52
+- Location: CBC News
+- Description: A 46-year-old man has been arrested by Peel police over a week after a search began for him following the death of his senior parents at a Mississauga home last week.
 
-
-### SHOOTING on 2026-06-28 09:40
-- Location: The Punch
-- Description: Ogun State Police Command arrests seven suspected criminals for armed robbery, cultism, and fraud, recovering a stolen vehicle, firearms, and N1.1 million.
-
-Read More: https://punchng.com/police-arrest-suspected-criminals-in-ogun-recover-stolen-vehicle-firear…
-
-
-### SHOOTING on 2026-06-28 09:33
-- Location: Protothema.gr
-- Description: Authorities are investigating a 48-hour temporary shooting permit issued to the 43-year-old woman, while a handwriting analysis has been ordered to verify the signature on the document
-The post Arrests made following fatal shooting range tragedy in Malevizi; …
-
-Analysis generated at: Mon Jun 29 10:46:57 UTC 2026
+Analysis generated at: Mon Jun 29 15:37:37 UTC 2026
