@@ -1,10 +1,10 @@
 
-Loaded 114552 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-27 19:10:56
+Loaded 114565 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-28 02:49:35
 
 Incidents by source:
 source
-newsapi           114451
+newsapi           114464
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-06-27 19:10
-- Location: USA Today
-- Description: Another night of joyful World Cup celebration in Brockton, Massachusetts, has turned violent. It's the second similar shooting in recent days.
-
-
-### HOMICIDE on 2026-06-27 19:10
-- Location: Freerepublic.com
-- Description: The Communist Party USA has condemned the recent police shooting that killed 1-year-old Kohen Kartier Wiley in Mississippi, saying it stands with those demanding answers and justice for his family. In a statement dated June 23, the party said that “under no c…
-
-
-### ASSAULT on 2026-06-27 19:09
-- Location: Freerepublic.com
-- Description: Podgorica, Montenegro — An Iranian national who is wanted by the United States for mass hacking attacks that caused $3.4 billion in damage was arrested in Montenegro, police in the Balkan country said late Thursday.The 39-year-old man, who holds both the Iran…
-
-
-### OTHER on 2026-06-27 19:00
-- Location: New York Post
-- Description: NYC cops are hunting for a pedophile who raped a 13-year-old girl in a Bronx park this week, police said.
-
-
-### HOMICIDE on 2026-06-27 18:56
+### HOMICIDE on 2026-06-28 02:49
 - Location: The Times of India
-- Description: Autopsy confirms retired Bhopal couple found dead in Aishbagh home were shot at close range; police probe double murder, examine CCTV, CDR and forensics.
+- Description: A resurfaced video showing Siya Goyal and Chetan Chaudhary at a cricket match is central to the Pune police investigation into Ketan Agarwal's death. Investigators believe the clip supports claims of a pre-existing relationship between Siya and Chetan, which …
 
-Analysis generated at: Sun Jun 28 19:11:53 UTC 2026
+
+### OTHER on 2026-06-28 02:42
+- Location: Dailymail.com
+- Description: CCTV footage showed the passenger scramble back into the car as two unmarked police SUVs suddenly appeared, boxing in the vehicle on both ends.
+
+
+### OTHER on 2026-06-28 02:40
+- Location: Thegatewaypundit.com
+- Description: David Sacks is the Silicone Valley tech figure who has served as Donald Trump's 'Bitcoin Czar' during the second term.
+The post David Sacks Breaks Down the Ideology Behind the DSA for His Horrified Podcast Co-Hosts (VIDEO) appeared first on The Gateway Pundit.
+
+
+### HOMICIDE on 2026-06-28 02:32
+- Location: Dailymail.com
+- Description: A man has been charged with murder and torture after a baby boy died in hospital in Queensland.
+
+
+### SHOOTING on 2026-06-28 02:03
+- Location: NBC News
+- Description: Before the outcry, before the demands for justice, before he was placed inside a small casket with a stuffed Bluey, a family had looked forward to sharing simple moments with Kohen Wiley, who was just months away from his second birthday and named by his mate…
+
+Analysis generated at: Mon Jun 29 02:53:32 UTC 2026
