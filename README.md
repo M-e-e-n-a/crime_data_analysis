@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Jun 30 04:03:44 UTC 2026
+Last updated: Tue Jun 30 09:24:22 UTC 2026
 
 ## Latest Analysis
 
-Loaded 114716 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-29 03:42:07
+Loaded 114751 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-29 09:15:27
 
 Incidents by source:
 source
-newsapi           114615
+newsapi           114650
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-06-29 03:42
-- Location: Nonogra.ph
-- Description: Lots of US states, European countries, and Australia have introduced &quot;age verification&quot; regulations. They present it as the classic &quot;save the children&quot; talking ...
+### HOMICIDE on 2026-06-29 09:15
+- Location: Time
+- Description: A shooting at an area where fans gather to watch soccer games left one dead and another with “life-threatening” injuries.
 
 
-### HOMICIDE on 2026-06-29 03:37
-- Location: ABC News (AU)
-- Description: Police say the baby's condition was consistent with "a child-shaking injury".
-
-
-### OTHER on 2026-06-29 03:09
-- Location: Israelnationalnews.com
-- Description: Parties and ideas once stigmatized are gaining ground precisely because elites prefered to scapegoat Zionism rather than address uncomfortable realities. That policy is being revealed as a  boomerang. Op-ed.
-
-
-### ASSAULT on 2026-06-29 03:07
-- Location: The Diplomat
-- Description: There are no official statistics on acid attacks on women in Pakistan. But an estimated 200 cases are reported each year.
-
-
-### OTHER on 2026-06-29 03:06
+### HOMICIDE on 2026-06-29 09:11
 - Location: Dailymail.com
-- Description: Carla Beth Anderson had just enjoyed an evening celebrating when she seemingly vanished from her home in Wadena, Minnesota in November 1987.
+- Description: Simon Peter Carman, 45, allegedly killed 17-year-old Tunchanok Donhomla before putting her naked body into a suitcase and dumping her remains near train tracks, then attempting to fly to Perth.
 
-Analysis generated at: Tue Jun 30 04:03:44 UTC 2026
+
+### ROBBERY/THEFT on 2026-06-29 09:04
+- Location: Thechronicle.com.gh
+- Description: Recently, Senior Lawyer and Vice President of IMANI Africa, Kofi Bentil, raised concerns about what he believes is a growing problem among some Ghanaian parents. Speaking on Newsfile, he criticised what he described as parental excesses that are making discip…
+
+
+### OTHER on 2026-06-29 09:00
+- Location: New York Magazine
+- Description: The recent funding of DHS marks a dispiriting conclusion to this year’s protests. Instead of reforms, ICE is getting a windfall.
+
+
+### HOMICIDE on 2026-06-29 09:00
+- Location: CBC News
+- Description: The judge who presided over the jury trial of a Saint John man found guilty last week of two counts of first-degree murder in the deaths last year of two boys, ages 10 and 17, had urged the defence to consider a guilty plea.
+
+Analysis generated at: Tue Jun 30 09:24:22 UTC 2026
