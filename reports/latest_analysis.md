@@ -1,10 +1,10 @@
 
-Loaded 114835 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-29 14:27:58
+Loaded 114933 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-29 19:45:31
 
 Incidents by source:
 source
-newsapi           114734
+newsapi           114832
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-06-29 14:27
-- Location: Dailymail.com
-- Description: Simon Carman, 46, from south of Perth , was arrested after the body of 17-year-old Tunchanok Donhomla - known as Cake - was found inside a 29-inch black suitcase near railway tracks
+### HOMICIDE on 2026-06-29 19:45
+- Location: Biztoc.com
+- Description: Six people were killed and several others injured in a shooting at a youth welfare facility in the northern German city of Stade on Monday, prompting a large-scale police response and an ongoing criminal investigation.
+According to German authorities, five vi…
 
 
-### HOMICIDE on 2026-06-29 14:25
-- Location: Thoughtcatalog.com
-- Description: Casper O’Brien died of dilated cardiomyopathy, a heart disease, with morbid obesity listed as a contributing condition by the Genesee County Medical Examiner’s Office. He was 7 and 4 feet 2 inches tall.
-
-
-### HOMICIDE on 2026-06-29 14:22
+### OTHER on 2026-06-29 19:44
 - Location: The Times of India
-- Description: Mysuru murder case: Private school teacher held after husband’s death; police probe suspected strangulation and possible accomplice who fled the house.
+- Description: Dust storm hits Gurgaon; IMD forecasts 41°C, heatwave risk June 29-30, then thunderstorms and widespread heavy rain across Haryana from July 1-4.
 
 
-### HOMICIDE on 2026-06-29 14:21
-- Location: New York Post
-- Description: A mom of five allegedly butchered by two sisters made a tragic call to her pal – just moments before being hacked to death in a broad daylight attack.
+### SHOOTING on 2026-06-29 19:43
+- Location: The Daily Caller
+- Description: Police arrested a man June 27 after he allegedly shot two nude cyclists with a BB gun at an event in downtown Los Angeles.
 
 
-### OTHER on 2026-06-29 14:15
-- Location: LancasterOnline
-- Description: Each Monday, our digital team takes a look at last week’s top stories on LancasterOnline.
+### OTHER on 2026-06-29 19:43
+- Location: The Times of India
+- Description: Ram Temple Ayodhya radio maintenance officer Arjun Dev Singh transferred to Gorakhpur after 17 years; maintained wireless, CCTV and control room operations.
 
-Analysis generated at: Tue Jun 30 14:29:57 UTC 2026
+
+### OTHER on 2026-06-29 19:41
+- Location: The Times of India
+- Description: Ayodhya Anganwadi centres see major upgrades via CSR support; Governor Anandiben Patel praises DM Shashank Tripathi for improved childcare facilities.
+
+Analysis generated at: Tue Jun 30 19:48:08 UTC 2026
