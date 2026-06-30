@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Jun 30 14:07:12 UTC 2026
+Last updated: Tue Jun 30 14:29:57 UTC 2026
 
 ## Latest Analysis
 
-Loaded 114826 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-29 14:05:14
+Loaded 114835 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-29 14:27:58
 
 Incidents by source:
 source
-newsapi           114725
+newsapi           114734
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-06-29 14:05
-- Location: BusinessLine
-- Description: Vehicle owners who have booked an authorised appointment for HSRP installation on or before June 30 will be given temporary relief from the enforcement drive
-
-
-### HOMICIDE on 2026-06-29 14:02
-- Location: The Times of India
-- Description: The infamous dacoit Jagan Gurjar, who had long been entangled in numerous criminal cases, was found dead under mysterious circumstances in a high-security jail in Ajmer on Monday.
-
-
-### HOMICIDE on 2026-06-29 14:02
-- Location: The Times of India
-- Description: The infamous dacoit Jagan Gurjar, who had long been entangled in numerous criminal cases, was found dead under mysterious circumstances in a high-security jail in Ajmer on Monday.
-
-
-### SHOOTING on 2026-06-29 14:01
-- Location: Breitbart News
-- Description: At least 14 people were shot, two of them fatally, during the weekend in Mayor Brandon Johnson's (D) Chicago.
-The post At Least 14 Shot During Weekend in Mayor Brandon Johnson’s Chicago appeared first on Breitbart.
-
-
-### HOMICIDE on 2026-06-29 13:59
+### HOMICIDE on 2026-06-29 14:27
 - Location: Dailymail.com
-- Description: Angela Onduto, 47, was handed an incredibly light sentence after her newborn daughter was found bloodied in a California dumpster 17 years ago.
+- Description: Simon Carman, 46, from south of Perth , was arrested after the body of 17-year-old Tunchanok Donhomla - known as Cake - was found inside a 29-inch black suitcase near railway tracks
 
-Analysis generated at: Tue Jun 30 14:07:12 UTC 2026
+
+### HOMICIDE on 2026-06-29 14:25
+- Location: Thoughtcatalog.com
+- Description: Casper O’Brien died of dilated cardiomyopathy, a heart disease, with morbid obesity listed as a contributing condition by the Genesee County Medical Examiner’s Office. He was 7 and 4 feet 2 inches tall.
+
+
+### HOMICIDE on 2026-06-29 14:22
+- Location: The Times of India
+- Description: Mysuru murder case: Private school teacher held after husband’s death; police probe suspected strangulation and possible accomplice who fled the house.
+
+
+### HOMICIDE on 2026-06-29 14:21
+- Location: New York Post
+- Description: A mom of five allegedly butchered by two sisters made a tragic call to her pal – just moments before being hacked to death in a broad daylight attack.
+
+
+### OTHER on 2026-06-29 14:15
+- Location: LancasterOnline
+- Description: Each Monday, our digital team takes a look at last week’s top stories on LancasterOnline.
+
+Analysis generated at: Tue Jun 30 14:29:57 UTC 2026
