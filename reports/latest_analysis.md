@@ -1,10 +1,10 @@
 
-Loaded 114710 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-29 02:42:17
+Loaded 114716 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-29 03:42:07
 
 Incidents by source:
 source
-newsapi           114609
+newsapi           114615
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-06-29 02:42
+### OTHER on 2026-06-29 03:42
+- Location: Nonogra.ph
+- Description: Lots of US states, European countries, and Australia have introduced &quot;age verification&quot; regulations. They present it as the classic &quot;save the children&quot; talking ...
+
+
+### HOMICIDE on 2026-06-29 03:37
 - Location: ABC News (AU)
-- Description: The Victorian premier has backed her government's response to corruption in the construction industry, despite criticism from across politics and integrity experts.
+- Description: Police say the baby's condition was consistent with "a child-shaking injury".
 
 
-### OTHER on 2026-06-29 02:38
+### OTHER on 2026-06-29 03:09
+- Location: Israelnationalnews.com
+- Description: Parties and ideas once stigmatized are gaining ground precisely because elites prefered to scapegoat Zionism rather than address uncomfortable realities. That policy is being revealed as a  boomerang. Op-ed.
+
+
+### ASSAULT on 2026-06-29 03:07
+- Location: The Diplomat
+- Description: There are no official statistics on acid attacks on women in Pakistan. But an estimated 200 cases are reported each year.
+
+
+### OTHER on 2026-06-29 03:06
 - Location: Dailymail.com
-- Description: An FBI agent who brought down America's most notorious crime family is revealing what he learned in this dark underworld and why becoming obese was his greatest asset.
+- Description: Carla Beth Anderson had just enjoyed an evening celebrating when she seemingly vanished from her home in Wadena, Minnesota in November 1987.
 
-
-### HOMICIDE on 2026-06-29 02:00
-- Location: Snopes.com
-- Description: The state will still allow lethal injection for death-row prisoners if it's not possible to use the firing squad.
-
-
-### SHOOTING on 2026-06-29 01:58
-- Location: Dailymail.com
-- Description: Mallorie Roberts was allegedly gunned down in an apartment on Loder Street in Biggera Waters on Queensland's Gold Coast around 8pm on Sunday.
-
-
-### SHOOTING on 2026-06-29 01:48
-- Location: ABC News (AU)
-- Description: Deepfake and altered images depicting a Bondi Beach terror attack survivor holding an Academy Award while covered in blood spread "like wildfire" online just hours after the shooting, a royal commission has heard.
-
-Analysis generated at: Tue Jun 30 02:47:12 UTC 2026
+Analysis generated at: Tue Jun 30 04:03:44 UTC 2026
