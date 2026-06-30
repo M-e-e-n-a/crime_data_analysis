@@ -1,10 +1,10 @@
 
-Loaded 114751 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-29 09:15:27
+Loaded 114826 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-29 14:05:14
 
 Incidents by source:
 source
-newsapi           114650
+newsapi           114725
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-06-29 09:15
-- Location: Time
-- Description: A shooting at an area where fans gather to watch soccer games left one dead and another with “life-threatening” injuries.
+### OTHER on 2026-06-29 14:05
+- Location: BusinessLine
+- Description: Vehicle owners who have booked an authorised appointment for HSRP installation on or before June 30 will be given temporary relief from the enforcement drive
 
 
-### HOMICIDE on 2026-06-29 09:11
+### HOMICIDE on 2026-06-29 14:02
+- Location: The Times of India
+- Description: The infamous dacoit Jagan Gurjar, who had long been entangled in numerous criminal cases, was found dead under mysterious circumstances in a high-security jail in Ajmer on Monday.
+
+
+### HOMICIDE on 2026-06-29 14:02
+- Location: The Times of India
+- Description: The infamous dacoit Jagan Gurjar, who had long been entangled in numerous criminal cases, was found dead under mysterious circumstances in a high-security jail in Ajmer on Monday.
+
+
+### SHOOTING on 2026-06-29 14:01
+- Location: Breitbart News
+- Description: At least 14 people were shot, two of them fatally, during the weekend in Mayor Brandon Johnson's (D) Chicago.
+The post At Least 14 Shot During Weekend in Mayor Brandon Johnson’s Chicago appeared first on Breitbart.
+
+
+### HOMICIDE on 2026-06-29 13:59
 - Location: Dailymail.com
-- Description: Simon Peter Carman, 45, allegedly killed 17-year-old Tunchanok Donhomla before putting her naked body into a suitcase and dumping her remains near train tracks, then attempting to fly to Perth.
+- Description: Angela Onduto, 47, was handed an incredibly light sentence after her newborn daughter was found bloodied in a California dumpster 17 years ago.
 
-
-### ROBBERY/THEFT on 2026-06-29 09:04
-- Location: Thechronicle.com.gh
-- Description: Recently, Senior Lawyer and Vice President of IMANI Africa, Kofi Bentil, raised concerns about what he believes is a growing problem among some Ghanaian parents. Speaking on Newsfile, he criticised what he described as parental excesses that are making discip…
-
-
-### OTHER on 2026-06-29 09:00
-- Location: New York Magazine
-- Description: The recent funding of DHS marks a dispiriting conclusion to this year’s protests. Instead of reforms, ICE is getting a windfall.
-
-
-### HOMICIDE on 2026-06-29 09:00
-- Location: CBC News
-- Description: The judge who presided over the jury trial of a Saint John man found guilty last week of two counts of first-degree murder in the deaths last year of two boys, ages 10 and 17, had urged the defence to consider a guilty plea.
-
-Analysis generated at: Tue Jun 30 09:24:22 UTC 2026
+Analysis generated at: Tue Jun 30 14:07:12 UTC 2026
