@@ -1,10 +1,10 @@
 
-Loaded 115027 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-30 09:35:49
+Loaded 115098 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-30 14:20:58
 
 Incidents by source:
 source
-newsapi           114926
+newsapi           114997
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,31 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-06-30 09:35
-- Location: The Punch
-- Description: Afenifere commends Operation Kosaye, a joint Lagos-Ogun security offensive, for its decisive crackdown on kidnapping and banditry along the Sagamu-Ore Road
-
-Read More: https://punchng.com/afenifere-backs-operation-kosaye-commends-lagos-ogun-kidnap-crackdown/
+### OTHER on 2026-06-30 14:20
+- Location: Yahoo Entertainment
+- Description: Ryan Mendes holds Cape Verde's record for appearances with its national team.
 
 
-### OTHER on 2026-06-30 09:35
-- Location: Slate Magazine
-- Description: In the manicured suburbs of Florida, the American alligator is facing a strange existential crisis.
+### HOMICIDE on 2026-06-30 14:19
+- Location: Dailymail.com
+- Description: The victim was attacked on the N9 bus in Hounslow, West London, shortly before 2am this morning.
 
 
-### HOMICIDE on 2026-06-30 09:32
-- Location: BBC News
-- Description: Adam Olverson, 31, is accused of the manslaughter of his 75-year-old father Thomas.
+### ROBBERY/THEFT on 2026-06-30 14:18
+- Location: Dailymail.com
+- Description: On the morning of May 28, I found my pride and joy, a Porsche 911 4S, had vanished from outside our suburban house in southwest London.
 
 
-### OTHER on 2026-06-30 09:30
-- Location: The American Prospect
-- Description: Victor Marx, who may become the Republican nominee for governor of Colorado today, depicts himself as a karate-chopping, children-saving, hardcore pastor. None of it is reliable.
-The post Onward Christian Soldier appeared first on The American Prospect.
+### SHOOTING on 2026-06-30 14:17
+- Location: CNA
+- Description: Police officers discovered a substantial cache of weapons, such as several airsoft guns and ammunition, in the suspect's unit.
 
 
-### OTHER on 2026-06-30 09:30
-- Location: ProPublica
-- Description: Police forces with records of unconstitutional policing continued to engage in excessive force even as the Trump administration declared federal oversight unnecessary, according to a new yearlong review by the ACLU.
+### OTHER on 2026-06-30 14:05
+- Location: The Times of India
+- Description: Imphal: Cadres of the Pambei-led United National Liberation Front (UNLF-P), which signed a peace agreement with the govt in Nov 2023, were shifted Tue.
 
-Analysis generated at: Wed Jul  1 09:36:42 UTC 2026
+Analysis generated at: Wed Jul  1 14:22:59 UTC 2026
