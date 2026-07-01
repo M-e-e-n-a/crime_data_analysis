@@ -1,10 +1,10 @@
 
-Loaded 115101 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-30 14:44:01
+Loaded 115181 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-30 19:45:37
 
 Incidents by source:
 source
-newsapi           115000
+newsapi           115080
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2026-06-30 14:44
-- Location: Dailymail.com
-- Description: The 28-year-old Bafta-winning actor is alleged to have repeatedly assaulted the woman in his friend's car after hosting a party at a club in London on New Year's Day 2023.
+### HOMICIDE on 2026-06-30 19:45
+- Location: RT
+- Description: A man has been killed in a car bombing in the northern Israeli city of Haifa, with police linking the blast to organized crime Read Full Article at RT.com
 
 
-### ROBBERY/THEFT on 2026-06-30 14:38
-- Location: BBC News
-- Description: The theft from Wray Castle in the Lake District is believed to have taken place earlier this month.
+### ASSAULT on 2026-06-30 19:45
+- Location: Fox News
+- Description: UC Santa Barbara police issued a second campus-wide warning after a woman reported being stalked and groped, as the May rape case remains unsolved.
 
 
-### OTHER on 2026-06-30 14:31
-- Location: Dailymail.com
-- Description: Jeremiah Busby, of Texas, pleaded guilty in 2017 after he was caught in an online sex sting in which he believed he was talking with a 14-year-old girl, asking for nude photos and arranging to meet for sex.
+### HOMICIDE on 2026-06-30 19:30
+- Location: Haaretz
+- Description: Senior law enforcement officials said the surge reflects a collapse in deterrence and policing. 'Deterrence is collapsing,' a source said, adding criminals act 'whenever they want,' while another described a 'total collapse of the system' and 'indifference' i…
 
 
-### OTHER on 2026-06-30 14:20
-- Location: Yahoo Entertainment
-- Description: Ryan Mendes holds Cape Verde's record for appearances with its national team.
+### ASSAULT on 2026-06-30 19:27
+- Location: Wnd.com
+- Description: 'Horrified by this crime and we are grateful that our journalists are safe'
 
 
-### HOMICIDE on 2026-06-30 14:19
-- Location: Dailymail.com
-- Description: The victim was attacked on the N9 bus in Hounslow, West London, shortly before 2am this morning.
+### ASSAULT on 2026-06-30 19:18
+- Location: Bossip
+- Description: Love & Marriage: Huntsville star Marsau Scott was arrested for assault and harassment on Sunday, June 28, and he seemingly acknowledged the ordeal on social media. WHNT reports that Huntsville Police took the 46-year-old into custody after an alleged fight to…
 
-Analysis generated at: Wed Jul  1 14:47:46 UTC 2026
+Analysis generated at: Wed Jul  1 19:46:19 UTC 2026
