@@ -1,10 +1,10 @@
 
-Loaded 114933 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-29 19:45:31
+Loaded 114964 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-30 02:52:08
 
 Incidents by source:
 source
-newsapi           114832
+newsapi           114863
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-06-29 19:45
-- Location: Biztoc.com
-- Description: Six people were killed and several others injured in a shooting at a youth welfare facility in the northern German city of Stade on Monday, prompting a large-scale police response and an ongoing criminal investigation.
-According to German authorities, five vi…
+### OTHER on 2026-06-30 02:52
+- Location: Fox News
+- Description: Smollett's 2021 conviction for staging a hate crime was overturned in November 2024 after a lengthy appeal
 
 
-### OTHER on 2026-06-29 19:44
-- Location: The Times of India
-- Description: Dust storm hits Gurgaon; IMD forecasts 41°C, heatwave risk June 29-30, then thunderstorms and widespread heavy rain across Haryana from July 1-4.
+### HOMICIDE on 2026-06-30 02:45
+- Location: Al Jazeera English
+- Description: Residents lit candles on Monday evening near the site of a shooting that killed six staff members at a German shelter.
 
 
-### SHOOTING on 2026-06-29 19:43
-- Location: The Daily Caller
-- Description: Police arrested a man June 27 after he allegedly shot two nude cyclists with a BB gun at an event in downtown Los Angeles.
+### HOMICIDE on 2026-06-30 02:28
+- Location: Dailymail.com
+- Description: Simon Peter Carman, 45, from south of Perth, was arrested after the body of 17-year-old Tunchanok Donhomla was found inside a black suitcase in Thailand.
 
 
-### OTHER on 2026-06-29 19:43
-- Location: The Times of India
-- Description: Ram Temple Ayodhya radio maintenance officer Arjun Dev Singh transferred to Gorakhpur after 17 years; maintained wireless, CCTV and control room operations.
+### HOMICIDE on 2026-06-30 02:23
+- Location: ABC News (AU)
+- Description: Australian Simon Peter Carman "lived his normal life", going out, washing his clothes and talking to neighbours after allegedly murdering a teenage girl and stuffing her body inside a suitcase in Thailand, police allege.
 
 
-### OTHER on 2026-06-29 19:41
-- Location: The Times of India
-- Description: Ayodhya Anganwadi centres see major upgrades via CSR support; Governor Anandiben Patel praises DM Shashank Tripathi for improved childcare facilities.
+### OTHER on 2026-06-30 01:52
+- Location: Freerepublic.com
+- Description: A South Florida woman was arrested after she went on a nearly $90,000 spending spree on her company credit card, including personal purchases from multiple airlines, Uber and a cruise line, authorities said. Lindsay Ann Mariani, 37, of Hollywood, was arrested…
 
-Analysis generated at: Tue Jun 30 19:48:08 UTC 2026
+Analysis generated at: Wed Jul  1 02:52:22 UTC 2026
