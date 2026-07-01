@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Jul  1 04:19:30 UTC 2026
+Last updated: Wed Jul  1 09:36:42 UTC 2026
 
 ## Latest Analysis
 
-Loaded 114973 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-30 04:10:00
+Loaded 115027 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-30 09:35:49
 
 Incidents by source:
 source
-newsapi           114872
+newsapi           114926
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,31 @@ ion.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-06-30 04:10
-- Location: The Diplomat
-- Description: While not every arrest will lead to a conviction, the old assumption that power could delay accountability indefinitely has begun to shake.
+### SHOOTING on 2026-06-30 09:35
+- Location: The Punch
+- Description: Afenifere commends Operation Kosaye, a joint Lagos-Ogun security offensive, for its decisive crackdown on kidnapping and banditry along the Sagamu-Ore Road
+
+Read More: https://punchng.com/afenifere-backs-operation-kosaye-commends-lagos-ogun-kidnap-crackdown/
 
 
-### HOMICIDE on 2026-06-30 04:06
-- Location: Dailymail.com
-- Description: A mystery menace who signs his letters with the nickname of a notorious serial killer from the Dirty Harry films has sparked a major police hunt.
+### OTHER on 2026-06-30 09:35
+- Location: Slate Magazine
+- Description: In the manicured suburbs of Florida, the American alligator is facing a strange existential crisis.
 
 
-### OTHER on 2026-06-30 04:01
-- Location: NBC News
-- Description: As AI is adopted across industries, it’s also being taken up by scammers.
+### HOMICIDE on 2026-06-30 09:32
+- Location: BBC News
+- Description: Adam Olverson, 31, is accused of the manslaughter of his 75-year-old father Thomas.
 
 
-### HOMICIDE on 2026-06-30 03:32
-- Location: Slashdot.org
-- Description: Germany: At least 6 killed in shooting in StadeDW.com Germany shooting: Six killed at centre for mothers and children in StadeBBC Six killed in shooting at German youth facility, police sayCNN Gunman kills 6 at youth welfare facility in suspected child custod…
+### OTHER on 2026-06-30 09:30
+- Location: The American Prospect
+- Description: Victor Marx, who may become the Republican nominee for governor of Colorado today, depicts himself as a karate-chopping, children-saving, hardcore pastor. None of it is reliable.
+The post Onward Christian Soldier appeared first on The American Prospect.
 
 
-### SHOOTING on 2026-06-30 03:06
-- Location: ABC News (AU)
-- Description: The knockout stages of the World Cup are in full swing, with penalty shootout drama and VAR controversy already featuring. Here are today's quick hits.
+### OTHER on 2026-06-30 09:30
+- Location: ProPublica
+- Description: Police forces with records of unconstitutional policing continued to engage in excessive force even as the Trump administration declared federal oversight unnecessary, according to a new yearlong review by the ACLU.
 
-Analysis generated at: Wed Jul  1 04:19:30 UTC 2026
+Analysis generated at: Wed Jul  1 09:36:42 UTC 2026
