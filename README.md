@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Jul  1 14:22:59 UTC 2026
+Last updated: Wed Jul  1 14:47:46 UTC 2026
 
 ## Latest Analysis
 
-Loaded 115098 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-30 14:20:58
+Loaded 115101 incidents
+Date range: 2024-01-01 00:00:00 to 2026-06-30 14:44:01
 
 Incidents by source:
 source
-newsapi           114997
+newsapi           115000
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,6 +24,21 @@ ion.svg)
 
 ## Recent Incidents
 
+### ASSAULT on 2026-06-30 14:44
+- Location: Dailymail.com
+- Description: The 28-year-old Bafta-winning actor is alleged to have repeatedly assaulted the woman in his friend's car after hosting a party at a club in London on New Year's Day 2023.
+
+
+### ROBBERY/THEFT on 2026-06-30 14:38
+- Location: BBC News
+- Description: The theft from Wray Castle in the Lake District is believed to have taken place earlier this month.
+
+
+### OTHER on 2026-06-30 14:31
+- Location: Dailymail.com
+- Description: Jeremiah Busby, of Texas, pleaded guilty in 2017 after he was caught in an online sex sting in which he believed he was talking with a 14-year-old girl, asking for nude photos and arranging to meet for sex.
+
+
 ### OTHER on 2026-06-30 14:20
 - Location: Yahoo Entertainment
 - Description: Ryan Mendes holds Cape Verde's record for appearances with its national team.
@@ -33,19 +48,4 @@ ion.svg)
 - Location: Dailymail.com
 - Description: The victim was attacked on the N9 bus in Hounslow, West London, shortly before 2am this morning.
 
-
-### ROBBERY/THEFT on 2026-06-30 14:18
-- Location: Dailymail.com
-- Description: On the morning of May 28, I found my pride and joy, a Porsche 911 4S, had vanished from outside our suburban house in southwest London.
-
-
-### SHOOTING on 2026-06-30 14:17
-- Location: CNA
-- Description: Police officers discovered a substantial cache of weapons, such as several airsoft guns and ammunition, in the suspect's unit.
-
-
-### OTHER on 2026-06-30 14:05
-- Location: The Times of India
-- Description: Imphal: Cadres of the Pambei-led United National Liberation Front (UNLF-P), which signed a peace agreement with the govt in Nov 2023, were shifted Tue.
-
-Analysis generated at: Wed Jul  1 14:22:59 UTC 2026
+Analysis generated at: Wed Jul  1 14:47:46 UTC 2026
