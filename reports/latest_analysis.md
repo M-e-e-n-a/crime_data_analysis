@@ -1,10 +1,10 @@
 
-Loaded 115181 incidents
-Date range: 2024-01-01 00:00:00 to 2026-06-30 19:45:37
+Loaded 115193 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-01 02:37:28
 
 Incidents by source:
 source
-newsapi           115080
+newsapi           115092
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-06-30 19:45
-- Location: RT
-- Description: A man has been killed in a car bombing in the northern Israeli city of Haifa, with police linking the blast to organized crime Read Full Article at RT.com
+### OTHER on 2026-07-01 02:37
+- Location: Vanguard
+- Description: federal government has said it would seek from its South African counterpart compensation for Nigerians forced to abandon businesses and other valuable properties as they returned home, following renewed anti-immigrant tensions in the country.
+The post Xenoph…
 
 
-### ASSAULT on 2026-06-30 19:45
-- Location: Fox News
-- Description: UC Santa Barbara police issued a second campus-wide warning after a woman reported being stalked and groped, as the May rape case remains unsolved.
+### OTHER on 2026-07-01 02:19
+- Location: Dailymail.com
+- Description: Lucinda Jane Weist Manera pleaded guilty to being an accessory after the fact for helping Bernhard Fritsch evade the cops after he scammed investors out of $20 million.
 
 
-### HOMICIDE on 2026-06-30 19:30
-- Location: Haaretz
-- Description: Senior law enforcement officials said the surge reflects a collapse in deterrence and policing. 'Deterrence is collapsing,' a source said, adding criminals act 'whenever they want,' while another described a 'total collapse of the system' and 'indifference' i…
+### HOMICIDE on 2026-07-01 02:14
+- Location: Slashdot.org
+- Description: Monaco bombing suspect flees to France as police probe attempted murderFrance 24 Manhunt after bomb injures Ukrainian oligarch in MonacoBBC Manhunt under way after Ukrainian-born tycoon injured by Monaco bombThe Guardian Monaco explosion injures 3 including U…
 
 
-### ASSAULT on 2026-06-30 19:27
-- Location: Wnd.com
-- Description: 'Horrified by this crime and we are grateful that our journalists are safe'
+### HOMICIDE on 2026-07-01 02:09
+- Location: ABC News (AU)
+- Description: Eight years on from her daughter's brutal murder, Vanessa Gardiner says nominating the investigating offices for an award was one of the few ways she could express her gratitude.
 
 
-### ASSAULT on 2026-06-30 19:18
-- Location: Bossip
-- Description: Love & Marriage: Huntsville star Marsau Scott was arrested for assault and harassment on Sunday, June 28, and he seemingly acknowledged the ordeal on social media. WHNT reports that Huntsville Police took the 46-year-old into custody after an alleged fight to…
+### HOMICIDE on 2026-07-01 01:31
+- Location: Dailymail.com
+- Description: Tunchanok Donhomla's friend visited Simon Carman's cluttered condo after reporting the Thai teen's disappearance to police when she failed to return home.
 
-Analysis generated at: Wed Jul  1 19:46:19 UTC 2026
+Analysis generated at: Thu Jul  2 02:43:17 UTC 2026
