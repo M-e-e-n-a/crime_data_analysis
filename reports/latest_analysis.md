@@ -1,10 +1,10 @@
 
-Loaded 115302 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-01 14:12:05
+Loaded 115398 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-01 19:12:47
 
 Incidents by source:
 source
-newsapi           115201
+newsapi           115297
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-07-01 14:12
-- Location: Thechronicle.com.gh
-- Description: A Nigerian national operating a cement block manufacturing business in Accra has been arraigned before court following a joint investigation by the Cyber Security Authority (CSA) and the Ghana Police Service into an alleged transnational fraud scheme involvin…
+### OTHER on 2026-07-01 19:12
+- Location: The Times of India
+- Description: Panchkula: With the monsoon setting in and heavy rainfall forecast in the coming days, Panchkula police have prohibited entry near rivers, drains and .
 
 
-### HOMICIDE on 2026-07-01 14:11
-- Location: Vanguard
-- Description: No fewer than 10 persons were reportedly killed and over 15 others injured in the early hours of Wednesday when suspected armed herdsmen attacked Sai community in Mbajir Council Ward of Katsina-Ala Local Government Area, LGA, of Benue State.
+### HOMICIDE on 2026-07-01 19:12
+- Location: ABC News (AU)
+- Description: The family of a Thai teenager allegedly killed by an Australian man has placed her cremated ashes to rest at a local Buddhist temple as they seek justice for her murder.
 
 
-### HOMICIDE on 2026-07-01 14:07
-- Location: Dailymail.com
-- Description: Police have identified two teenagers as the suspects wanted for killing 22-year-old Billy Schmidt as je was walking home in Philadelphia.
+### ROBBERY/THEFT on 2026-07-01 19:10
+- Location: The Times of India
+- Description: Lucknow: Ayodhya police are set to intensify their investigation into the alleged embezzlement of Ram Temple donation theft case by questioning arrest.
 
 
-### OTHER on 2026-07-01 14:04
-- Location: Screen Rant
-- Description: Yellowstone creator Taylor Sheridan explains why he left the cast of a major crime thriller television series early in its seven-season run.
+### ROBBERY/THEFT on 2026-07-01 19:10
+- Location: The Times of India
+- Description: Lucknow: The Ayodhya Police have widened their investigation into the alleged embezzlement of Ram Temple donations after fresh disclosures by arrested.
 
 
-### OTHER on 2026-07-01 14:00
-- Location: Vulture
-- Description: Between Geri’s article and Trevor’s attempted blackmail, Paula comes to the painful realization that she can’t really trust anyone at all.
+### HOMICIDE on 2026-07-01 18:59
+- Location: The Times of India
+- Description: Pune: Police on Wednesday morning took Chetan Chaudhary (22), an accused in the murder of Gahunje realtor Ketan Agarwal, to Lohagad Fort to recreate t.
 
-Analysis generated at: Thu Jul  2 14:13:11 UTC 2026
+Analysis generated at: Thu Jul  2 19:16:56 UTC 2026
