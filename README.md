@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Jul  2 08:47:55 UTC 2026
+Last updated: Thu Jul  2 13:47:00 UTC 2026
 
 ## Latest Analysis
 
-Loaded 115229 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-01 08:46:06
+Loaded 115290 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-01 13:44:26
 
 Incidents by source:
 source
-newsapi           115128
+newsapi           115189
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-07-01 08:46
-- Location: Dailymail.com
-- Description: The Independent Office for Police Conduct's (IOPC) said its investigation will examine whether the Hampshire Police officers potentially breached professional standards.
+### OTHER on 2026-07-01 13:44
+- Location: Clarkesworldmagazine.com
+- Description: —for Rory Cooney It’s July 23, 4:17 p.m., and I’m box-breathing like my life depends on it. My forehead is pressed against the door of the meeting room of the […]
 
 
-### HOMICIDE on 2026-07-01 08:44
-- Location: NBCSports.com
-- Description: Ciarre Campbell, brother of Calais Campbell, was booked early Wednesday morning in Fulton County Jail on charges of murder, aggravated assault and possession of a firearm or knife.
+### OTHER on 2026-07-01 13:43
+- Location: Clarkesworldmagazine.com
+- Description: . . . We interrupt our programming- “ . . . for this incredible announcement. The first one thousand customers get an extra 15 percent off during this holiday weekend and . . . ” “ . . . it’s buy one, […]
 
 
-### ROBBERY/THEFT on 2026-07-01 08:31
-- Location: Borderlandbeat.com
-- Description: On June 30, 2026, the U.S. government launched a coordinated financial and law enforcement operation against a fuel theft network operated b...
+### HOMICIDE on 2026-07-01 13:41
+- Location: Thefutoncritic.com
+- Description: In addition, ID announced July returns for series "Body Cam" and "911: Did The Killer Call?," premiering Wednesday, July 15.
 
 
-### OTHER on 2026-07-01 08:27
-- Location: The Times of India
-- Description: Actor Naman Shaw cherishes monsoon, recalling joyful childhood paper boat races in Kolkata. Now in Mumbai, he finds solace watching the rain from his window with chai and bhajis.
+### OTHER on 2026-07-01 13:40
+- Location: Wnd.com
+- Description: 'He came and stab me. He was trying to make me blind. He do it on purpose'
 
 
-### OTHER on 2026-07-01 08:22
-- Location: road.cc
-- Description: Happy July! And safe travels to Ryan as he heads to Catalonia for a rather big bike race. Callum is here to tide things over whilst glancing at the profiles of Congolese defenders
+### DRUG RELATED on 2026-07-01 13:30
+- Location: Norml.org
+- Description: “We find that state legalization of recreational marijuana substantially reduced the arrests and disciplinary incidents for drug law violations. … The decreases in arrests after legalization are especially steep at public institutions [and at] four-year insti…
 
-Analysis generated at: Thu Jul  2 08:47:55 UTC 2026
+Analysis generated at: Thu Jul  2 13:47:00 UTC 2026
