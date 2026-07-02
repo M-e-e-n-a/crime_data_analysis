@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Jul  2 02:43:17 UTC 2026
+Last updated: Thu Jul  2 03:59:22 UTC 2026
 
 ## Latest Analysis
 
-Loaded 115193 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-01 02:37:28
+Loaded 115203 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-01 03:59:11
 
 Incidents by source:
 source
-newsapi           115092
+newsapi           115102
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-07-01 02:37
-- Location: Vanguard
-- Description: federal government has said it would seek from its South African counterpart compensation for Nigerians forced to abandon businesses and other valuable properties as they returned home, following renewed anti-immigrant tensions in the country.
-The post Xenoph…
+### SHOOTING on 2026-07-01 03:59
+- Location: Fox News
+- Description: Five people face federal charges after prosecutors say a trafficking ring funneled dozens of guns from Georgia to Chicago gangs tied to violent crimes.
 
 
-### OTHER on 2026-07-01 02:19
+### HOMICIDE on 2026-07-01 03:47
 - Location: Dailymail.com
-- Description: Lucinda Jane Weist Manera pleaded guilty to being an accessory after the fact for helping Bernhard Fritsch evade the cops after he scammed investors out of $20 million.
+- Description: Amy Steadman, 64, was found dead inside a Mechanicville, New York apartment on June 23 with her daughter and four grandchildren,
 
 
-### HOMICIDE on 2026-07-01 02:14
-- Location: Slashdot.org
-- Description: Monaco bombing suspect flees to France as police probe attempted murderFrance 24 Manhunt after bomb injures Ukrainian oligarch in MonacoBBC Manhunt under way after Ukrainian-born tycoon injured by Monaco bombThe Guardian Monaco explosion injures 3 including U…
+### HOMICIDE on 2026-07-01 03:40
+- Location: CNA
+- Description: The two men in their 60s had tensions from living together in a one-room flat, including disputes over smoking, laundry and a visiting girlfriend.
 
 
-### HOMICIDE on 2026-07-01 02:09
-- Location: ABC News (AU)
-- Description: Eight years on from her daughter's brutal murder, Vanessa Gardiner says nominating the investigating offices for an award was one of the few ways she could express her gratitude.
+### HOMICIDE on 2026-07-01 03:40
+- Location: CNA
+- Description: The two men in their 60s had tensions from living together in a one-room flat, including disputes over smoking, laundry and a visiting girlfriend.
 
 
-### HOMICIDE on 2026-07-01 01:31
-- Location: Dailymail.com
-- Description: Tunchanok Donhomla's friend visited Simon Carman's cluttered condo after reporting the Thai teen's disappearance to police when she failed to return home.
+### HOMICIDE on 2026-07-01 03:34
+- Location: Lifesciencesworld.com
+- Description: What Happens When You Put a Person in a Microwave? The Alarming Truth The immediate and devastating consequences of placing a person in a microwave would be severe burns, organ damage, and potentially death due to rapid and uneven heating. This is because mic…
 
-Analysis generated at: Thu Jul  2 02:43:17 UTC 2026
+Analysis generated at: Thu Jul  2 03:59:22 UTC 2026
