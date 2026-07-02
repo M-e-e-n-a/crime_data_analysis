@@ -1,10 +1,10 @@
 
-Loaded 115290 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-01 13:44:26
+Loaded 115302 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-01 14:12:05
 
 Incidents by source:
 source
-newsapi           115189
+newsapi           115201
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-07-01 13:44
-- Location: Clarkesworldmagazine.com
-- Description: —for Rory Cooney It’s July 23, 4:17 p.m., and I’m box-breathing like my life depends on it. My forehead is pressed against the door of the meeting room of the […]
+### OTHER on 2026-07-01 14:12
+- Location: Thechronicle.com.gh
+- Description: A Nigerian national operating a cement block manufacturing business in Accra has been arraigned before court following a joint investigation by the Cyber Security Authority (CSA) and the Ghana Police Service into an alleged transnational fraud scheme involvin…
 
 
-### OTHER on 2026-07-01 13:43
-- Location: Clarkesworldmagazine.com
-- Description: . . . We interrupt our programming- “ . . . for this incredible announcement. The first one thousand customers get an extra 15 percent off during this holiday weekend and . . . ” “ . . . it’s buy one, […]
+### HOMICIDE on 2026-07-01 14:11
+- Location: Vanguard
+- Description: No fewer than 10 persons were reportedly killed and over 15 others injured in the early hours of Wednesday when suspected armed herdsmen attacked Sai community in Mbajir Council Ward of Katsina-Ala Local Government Area, LGA, of Benue State.
 
 
-### HOMICIDE on 2026-07-01 13:41
-- Location: Thefutoncritic.com
-- Description: In addition, ID announced July returns for series "Body Cam" and "911: Did The Killer Call?," premiering Wednesday, July 15.
+### HOMICIDE on 2026-07-01 14:07
+- Location: Dailymail.com
+- Description: Police have identified two teenagers as the suspects wanted for killing 22-year-old Billy Schmidt as je was walking home in Philadelphia.
 
 
-### OTHER on 2026-07-01 13:40
-- Location: Wnd.com
-- Description: 'He came and stab me. He was trying to make me blind. He do it on purpose'
+### OTHER on 2026-07-01 14:04
+- Location: Screen Rant
+- Description: Yellowstone creator Taylor Sheridan explains why he left the cast of a major crime thriller television series early in its seven-season run.
 
 
-### DRUG RELATED on 2026-07-01 13:30
-- Location: Norml.org
-- Description: “We find that state legalization of recreational marijuana substantially reduced the arrests and disciplinary incidents for drug law violations. … The decreases in arrests after legalization are especially steep at public institutions [and at] four-year insti…
+### OTHER on 2026-07-01 14:00
+- Location: Vulture
+- Description: Between Geri’s article and Trevor’s attempted blackmail, Paula comes to the painful realization that she can’t really trust anyone at all.
 
-Analysis generated at: Thu Jul  2 13:47:00 UTC 2026
+Analysis generated at: Thu Jul  2 14:13:11 UTC 2026
