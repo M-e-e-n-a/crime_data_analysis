@@ -1,10 +1,10 @@
 
-Loaded 115495 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-02 08:51:02
+Loaded 115555 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-02 13:49:38
 
 Incidents by source:
 source
-newsapi           115394
+newsapi           115454
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-07-02 08:51
-- Location: Antaranews.com
-- Description: The Indonesian National Police (Polri) partner with 12,420 Micro, Small, and Medium Enterprises (MSMEs), as well as farmer groups, livestock breeders, ...
+### HOMICIDE on 2026-07-02 13:49
+- Location: TheJournal.ie
+- Description: Marian Beattie’s body was found at the bottom of a quarry near Aughnacloy on the morning of Saturday 31 March 1973.
 
 
-### ASSAULT on 2026-07-02 08:32
+### OTHER on 2026-07-02 13:49
+- Location: DW (English)
+- Description: Turkish stand-up comedian Deniz Goktas was detained on his return to Turkey, days after a video he posted online gained traction. The clip included references to President Recep Tayyip Erdogan and religion.
+
+
+### OTHER on 2026-07-02 13:47
 - Location: Dailymail.com
-- Description: Detectives from the Metropolitan Police have released CCTV images of a man they want to speak to.
+- Description: Claire Alderton, 48, told the 'truly abhorrent' lies to her employers at George's Rockstars, which was set up when the founder's son died of leukaemia.
 
 
-### OTHER on 2026-07-02 08:30
-- Location: Www.gov.uk
-- Description: Dame Vera Baird DBE KC further appointed as Interim Chair of the Criminal Cases Review Commission (CCRC).
+### OTHER on 2026-07-02 13:44
+- Location: Fair Observer
+- Description: On March 26, Meta’s Oversight Board issued a warning that should end the idea that crowdsourced correction programs, as currently designed, can keep pace with viral falsehoods. In a policy advisory opinion requested by Meta, the Board said Community Notes can…
 
 
-### ROBBERY/THEFT on 2026-07-02 08:09
-- Location: The Times of India
-- Description: Lawyers in Faizabad have protested, demanding an FIR against senior Ram Temple Trust officials, including Champat Rai, over alleged donation embezzlement. The Bar Association submitted a complaint seeking an impartial probe into financial irregularities. This…
+### OTHER on 2026-07-02 13:38
+- Location: Abcnews.com
+- Description: ABC News’ Stephanie Ramos sang the national anthem at the event, which also included a flyover by the French Air Force.
 
-
-### HOMICIDE on 2026-07-02 08:08
-- Location: Dailymail.com
-- Description: Vickrum Digwa, 23, allegedly told guards he did not want to be placed on the wing at HMP Frankland in Durham where Soham child killer Ian Huntley was fatally attacked.
-
-Analysis generated at: Fri Jul  3 08:55:39 UTC 2026
+Analysis generated at: Fri Jul  3 13:51:58 UTC 2026
