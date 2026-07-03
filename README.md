@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Jul  2 19:16:56 UTC 2026
+Last updated: Fri Jul  3 02:25:19 UTC 2026
 
 ## Latest Analysis
 
-Loaded 115398 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-01 19:12:47
+Loaded 115430 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-02 02:21:27
 
 Incidents by source:
 source
-newsapi           115297
+newsapi           115329
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-07-01 19:12
-- Location: The Times of India
-- Description: Panchkula: With the monsoon setting in and heavy rainfall forecast in the coming days, Panchkula police have prohibited entry near rivers, drains and .
+### HOMICIDE on 2026-07-02 02:21
+- Location: New York Post
+- Description: Alleged killer Andrea Shaw, 23, appeared on a podcast hosted by anti-vax nonprofit Children's Health Defense with her husband, Nathaniel, to claim her twins died from vaccine-related injuries.
 
 
-### HOMICIDE on 2026-07-01 19:12
-- Location: ABC News (AU)
-- Description: The family of a Thai teenager allegedly killed by an Australian man has placed her cremated ashes to rest at a local Buddhist temple as they seek justice for her murder.
+### HOMICIDE on 2026-07-02 02:20
+- Location: Dailymail.com
+- Description: A woman said she crossed paths with the alleged killer on June 5 when they were involved in a motorbike accident outside an apartment complex.
 
 
-### ROBBERY/THEFT on 2026-07-01 19:10
-- Location: The Times of India
-- Description: Lucknow: Ayodhya police are set to intensify their investigation into the alleged embezzlement of Ram Temple donation theft case by questioning arrest.
+### HOMICIDE on 2026-07-02 02:17
+- Location: Dailymail.com
+- Description: Jeffery Smerer learned his fate on Monday for fatally shooting his 'favorite' son Kayleb, 17, and leaving his 13-year-old son, Bentley, and 12-year-old daughter Kinzley critically injured.
 
 
-### ROBBERY/THEFT on 2026-07-01 19:10
-- Location: The Times of India
-- Description: Lucknow: The Ayodhya Police have widened their investigation into the alleged embezzlement of Ram Temple donations after fresh disclosures by arrested.
+### SHOOTING on 2026-07-02 02:15
+- Location: Khabarhub.com
+- Description: KATHMANDU: Economic Digest presents a brief yet comprehensive roundup of major business developments in Nepal, delivered in clear and accessible summaries. Nepal’s latest developments present a mixed but broadly constructive picture of the economy and governa…
 
 
-### HOMICIDE on 2026-07-01 18:59
-- Location: The Times of India
-- Description: Pune: Police on Wednesday morning took Chetan Chaudhary (22), an accused in the murder of Gahunje realtor Ketan Agarwal, to Lohagad Fort to recreate t.
+### HOMICIDE on 2026-07-02 02:12
+- Location: Slashdot.org
+- Description: New autopsy of a baby killed by police in Mississippi deepens outrageAP News Attorney says independent autopsy raises more questions about deadly shooting of 1-year-old outside Mississippi WalmartNBC News Independent autopsy findings released in death of 1-ye…
 
-Analysis generated at: Thu Jul  2 19:16:56 UTC 2026
+Analysis generated at: Fri Jul  3 02:25:19 UTC 2026
