@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Jul  3 13:51:58 UTC 2026
+Last updated: Fri Jul  3 14:20:36 UTC 2026
 
 ## Latest Analysis
 
-Loaded 115555 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-02 13:49:38
+Loaded 115564 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-02 14:15:41
 
 Incidents by source:
 source
-newsapi           115454
+newsapi           115463
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,30 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-07-02 13:49
-- Location: TheJournal.ie
-- Description: Marian Beattie’s body was found at the bottom of a quarry near Aughnacloy on the morning of Saturday 31 March 1973.
+### OTHER on 2026-07-02 14:15
+- Location: Breitbart News
+- Description: An alleged intruder is in critical condition after the occupant of a Huntsville, Alabama, home opened fire on him Wednesday around 3:00 a.m. 
+The post Alleged Intruder in Critical Condition After Home Occupant Opens Fire appeared first on Breitbart.
 
 
-### OTHER on 2026-07-02 13:49
-- Location: DW (English)
-- Description: Turkish stand-up comedian Deniz Goktas was detained on his return to Turkey, days after a video he posted online gained traction. The clip included references to President Recep Tayyip Erdogan and religion.
+### HOMICIDE on 2026-07-02 14:15
+- Location: Mediaite
+- Description: ESPN completely deleted an entire report that connected an NFL player to a murder that occurred in the Dominican Republic.
+The post ESPN Retracts Major Story Connecting NFL Player to Murder in Dominican Republic first appeared on Mediaite.
 
 
-### OTHER on 2026-07-02 13:47
-- Location: Dailymail.com
-- Description: Claire Alderton, 48, told the 'truly abhorrent' lies to her employers at George's Rockstars, which was set up when the founder's son died of leukaemia.
+### OTHER on 2026-07-02 14:15
+- Location: Peoplesreview.com.np
+- Description: By Our Reporter Nepal has long prided itself on welcoming visitors from around the world. Its liberal visa policy, relatively affordable cost of living and open social environment has made it an attractive destination for tourists, trekkers, students, volunte…
 
 
-### OTHER on 2026-07-02 13:44
-- Location: Fair Observer
-- Description: On March 26, Meta’s Oversight Board issued a warning that should end the idea that crowdsourced correction programs, as currently designed, can keep pace with viral falsehoods. In a policy advisory opinion requested by Meta, the Board said Community Notes can…
+### OTHER on 2026-07-02 14:11
+- Location: The Atlantic
+- Description: Even in these unimaginative days, Americans are still capable of innovations in cruelty.
 
 
-### OTHER on 2026-07-02 13:38
-- Location: Abcnews.com
-- Description: ABC News’ Stephanie Ramos sang the national anthem at the event, which also included a flyover by the French Air Force.
+### OTHER on 2026-07-02 14:09
+- Location: Yale.edu
+- Description: The Justice Collaboratory, at Yale Law School, is developing a first-of-its-kind training program for the state of Connecticut, intended to improve relations between communities and&nbsp;police.
 
-Analysis generated at: Fri Jul  3 13:51:58 UTC 2026
+Analysis generated at: Fri Jul  3 14:20:36 UTC 2026
