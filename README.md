@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Jul  3 02:25:19 UTC 2026
+Last updated: Fri Jul  3 03:42:25 UTC 2026
 
 ## Latest Analysis
 
-Loaded 115430 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-02 02:21:27
+Loaded 115439 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-02 03:39:41
 
 Incidents by source:
 source
-newsapi           115329
+newsapi           115338
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-07-02 02:21
-- Location: New York Post
-- Description: Alleged killer Andrea Shaw, 23, appeared on a podcast hosted by anti-vax nonprofit Children's Health Defense with her husband, Nathaniel, to claim her twins died from vaccine-related injuries.
+### HOMICIDE on 2026-07-02 03:39
+- Location: The Times of India
+- Description: The Indira Gandhi National Open University (IGNOU) has extended the July 2026 re-registration deadline until July 15, allowing existing students more time to continue their academic programmes. The mandatory online process applies to eligible learners enrolle…
 
 
-### HOMICIDE on 2026-07-02 02:20
+### OTHER on 2026-07-02 03:31
 - Location: Dailymail.com
-- Description: A woman said she crossed paths with the alleged killer on June 5 when they were involved in a motorbike accident outside an apartment complex.
+- Description: Jussie Smollett's lips were sealed about his connection to Queer Eye star Karamo Brown when he was spotted enjoying lunch with a friend in Los Angeles on Wednesday.
 
 
-### HOMICIDE on 2026-07-02 02:17
-- Location: Dailymail.com
-- Description: Jeffery Smerer learned his fate on Monday for fatally shooting his 'favorite' son Kayleb, 17, and leaving his 13-year-old son, Bentley, and 12-year-old daughter Kinzley critically injured.
+### HOMICIDE on 2026-07-02 03:30
+- Location: Freerepublic.com
+- Description: Three MS-13 gang members have been convicted of nine murders, kidnapping and racketeering in a Nevada courtroom. Jose Luis Reynaldo Reyes-Castillo of El Salvador, David Arturo Perez-Manchame of Honduras, and Joel Vargas-Escobar of El Salvador were all found g…
 
 
-### SHOOTING on 2026-07-02 02:15
-- Location: Khabarhub.com
-- Description: KATHMANDU: Economic Digest presents a brief yet comprehensive roundup of major business developments in Nepal, delivered in clear and accessible summaries. Nepal’s latest developments present a mixed but broadly constructive picture of the economy and governa…
+### HOMICIDE on 2026-07-02 03:25
+- Location: Freerepublic.com
+- Description: U.S. Immigration and Customs Enforcement (ICE) told 7News Reporter Nick Minock that ICE’s Enforcement and Removal Operations (ERO) Washington, D.C. officers arrested Jose Jairo Rivas-Santiago in June 2026. ICE says 32-year-old Rivas-Santiago is a suspected MS…
 
 
-### HOMICIDE on 2026-07-02 02:12
-- Location: Slashdot.org
-- Description: New autopsy of a baby killed by police in Mississippi deepens outrageAP News Attorney says independent autopsy raises more questions about deadly shooting of 1-year-old outside Mississippi WalmartNBC News Independent autopsy findings released in death of 1-ye…
+### OTHER on 2026-07-02 03:20
+- Location: Pro Football Network
+- Description: Former NFL insider Dianna Russini is facing fresh heat after recently released bodycam video contradicted a story she told on a radio show and further called into question her credibility. With the Mike Vrabel scandal still unfolding and The Athletic investig…
 
-Analysis generated at: Fri Jul  3 02:25:19 UTC 2026
+Analysis generated at: Fri Jul  3 03:42:25 UTC 2026
