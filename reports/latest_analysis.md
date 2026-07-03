@@ -1,10 +1,10 @@
 
-Loaded 115439 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-02 03:39:41
+Loaded 115495 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-02 08:51:02
 
 Incidents by source:
 source
-newsapi           115338
+newsapi           115394
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-07-02 03:39
-- Location: The Times of India
-- Description: The Indira Gandhi National Open University (IGNOU) has extended the July 2026 re-registration deadline until July 15, allowing existing students more time to continue their academic programmes. The mandatory online process applies to eligible learners enrolle…
+### OTHER on 2026-07-02 08:51
+- Location: Antaranews.com
+- Description: The Indonesian National Police (Polri) partner with 12,420 Micro, Small, and Medium Enterprises (MSMEs), as well as farmer groups, livestock breeders, ...
 
 
-### OTHER on 2026-07-02 03:31
+### ASSAULT on 2026-07-02 08:32
 - Location: Dailymail.com
-- Description: Jussie Smollett's lips were sealed about his connection to Queer Eye star Karamo Brown when he was spotted enjoying lunch with a friend in Los Angeles on Wednesday.
+- Description: Detectives from the Metropolitan Police have released CCTV images of a man they want to speak to.
 
 
-### HOMICIDE on 2026-07-02 03:30
-- Location: Freerepublic.com
-- Description: Three MS-13 gang members have been convicted of nine murders, kidnapping and racketeering in a Nevada courtroom. Jose Luis Reynaldo Reyes-Castillo of El Salvador, David Arturo Perez-Manchame of Honduras, and Joel Vargas-Escobar of El Salvador were all found g…
+### OTHER on 2026-07-02 08:30
+- Location: Www.gov.uk
+- Description: Dame Vera Baird DBE KC further appointed as Interim Chair of the Criminal Cases Review Commission (CCRC).
 
 
-### HOMICIDE on 2026-07-02 03:25
-- Location: Freerepublic.com
-- Description: U.S. Immigration and Customs Enforcement (ICE) told 7News Reporter Nick Minock that ICE’s Enforcement and Removal Operations (ERO) Washington, D.C. officers arrested Jose Jairo Rivas-Santiago in June 2026. ICE says 32-year-old Rivas-Santiago is a suspected MS…
+### ROBBERY/THEFT on 2026-07-02 08:09
+- Location: The Times of India
+- Description: Lawyers in Faizabad have protested, demanding an FIR against senior Ram Temple Trust officials, including Champat Rai, over alleged donation embezzlement. The Bar Association submitted a complaint seeking an impartial probe into financial irregularities. This…
 
 
-### OTHER on 2026-07-02 03:20
-- Location: Pro Football Network
-- Description: Former NFL insider Dianna Russini is facing fresh heat after recently released bodycam video contradicted a story she told on a radio show and further called into question her credibility. With the Mike Vrabel scandal still unfolding and The Athletic investig…
+### HOMICIDE on 2026-07-02 08:08
+- Location: Dailymail.com
+- Description: Vickrum Digwa, 23, allegedly told guards he did not want to be placed on the wing at HMP Frankland in Durham where Soham child killer Ian Huntley was fatally attacked.
 
-Analysis generated at: Fri Jul  3 03:42:25 UTC 2026
+Analysis generated at: Fri Jul  3 08:55:39 UTC 2026
