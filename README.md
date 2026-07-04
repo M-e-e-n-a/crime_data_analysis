@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Jul  4 13:45:04 UTC 2026
+Last updated: Sat Jul  4 19:02:41 UTC 2026
 
 ## Latest Analysis
 
-Loaded 115794 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-03 13:35:54
+Loaded 115889 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-03 19:01:39
 
 Incidents by source:
 source
-newsapi           115693
+newsapi           115788
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,30 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-07-03 13:35
-- Location: CBC News
-- Description: Ten months after the start of the Ontario murder trial for Becky Hamber and Brandy Cooney, the focus at their sentencing hearing Friday in Milton was on the young brothers in their care who suffered abuse, and the family and community members impacted in turn.
+### SHOOTING on 2026-07-03 19:01
+- Location: Fox News
+- Description: Dearborn Police are actively investigating a shooting at the Fairlane Town Center mall. At least three people were reportedly shot, two fatally.
 
 
-### HOMICIDE on 2026-07-03 13:35
+### HOMICIDE on 2026-07-03 18:58
+- Location: DW (English)
+- Description: McKee was killed while covering clashes between Republicans and police in 2019. Judge Patricia Smyth said evidence was insufficient for a conviction, while McKee's family expressed disappointment.
+
+
+### OTHER on 2026-07-03 18:57
 - Location: Dailymail.com
-- Description: Gary Poland, 57, sped away from the scene despite hearing 'an awful orchestra of blood-curdling screams' as children fled The Hart Space in Southport.
+- Description: Peter Murrell will not appeal against his prison sentence for embezzlement.
 
 
-### SHOOTING on 2026-07-03 13:35
-- Location: New York Post
-- Description: All lanes of the eastbound 210 Freeway in the Glendora area were closed Friday morning after a police-involved shooting overnight in Covina.
+### HOMICIDE on 2026-07-03 18:50
+- Location: The Punch
+- Description: The PDP in Osun State demands a transparent probe into the killing of Ezekiel Olapade, a teenager allegedly shot by political hoodlums. The party urges the
+
+Read More: https://punchng.com/probe-killing-of-osun-teenager-pdp-tells-ig/
 
 
-### SHOOTING on 2026-07-03 13:32
-- Location: STLtoday.com
-- Description: A man was shot Thursday night on Ashland Avenue near Union Boulevard.
-
-
-### HOMICIDE on 2026-07-03 13:31
+### ROBBERY/THEFT on 2026-07-03 18:47
 - Location: Dailymail.com
-- Description: Former police officer Brian Darby, 80, from north London, is back behind bars for a series of crimes involving women and girls. He was previously handed a life sentence over his murder plot fantasies.
+- Description: David Mitchell, 19, was one of five people accused of robbing a 19-year-old woman aboard a Red Line train near the 69th Street station on the evening of September 28, 2024.
 
-Analysis generated at: Sat Jul  4 13:45:04 UTC 2026
+Analysis generated at: Sat Jul  4 19:02:41 UTC 2026
