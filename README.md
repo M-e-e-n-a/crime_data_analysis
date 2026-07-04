@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Jul  4 08:30:30 UTC 2026
+Last updated: Sat Jul  4 13:11:40 UTC 2026
 
 ## Latest Analysis
 
-Loaded 115720 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-03 08:22:29
+Loaded 115776 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-03 13:08:29
 
 Incidents by source:
 source
-newsapi           115619
+newsapi           115675
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,32 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2026-07-03 08:22
-- Location: The Punch
-- Description: Ondo State Police Command has arrested four suspected armed robbers in connection with a burglary in Alade-Idanre, recovering illegal firearms. Efforts are
-
-Read More: https://punchng.com/police-arrest-four-suspected-armed-robbers-in-ondo/
+### ASSAULT on 2026-07-03 13:08
+- Location: RTE
+- Description: Authorities are looking for a Ukrainian woman with a tattoo suspected of planting a bomb in Monaco that injured three people including a Ukrainian-born tycoon, after German police raided her flat.
 
 
-### HOMICIDE on 2026-07-03 08:20
-- Location: Vanguard
-- Description: The Federal High Court, Abuja, has awarded N200 million against the Nigeria Police Force over the unlawful killing of Mallam Kabiru Babai.
-The post Court orders police to pay N200m for killing Abuja cleric appeared first on Vanguard News.
+### HOMICIDE on 2026-07-03 13:04
+- Location: The Times of India
+- Description: Bhagalpur police solve builder Bajrang Kumar murder in 24 hours; woman arrested over alleged affair and assault. Machete and documents seized from Pirpainty.
 
 
-### HOMICIDE on 2026-07-03 08:14
-- Location: TheJournal.ie
-- Description: The non-jury trial heard evidence over several months against three men accused over the journalist’s death.
+### ASSAULT on 2026-07-03 13:02
+- Location: ABC News (AU)
+- Description: Investigators are hunting for a woman they say "disguised herself as a man" in connection with in a bomb attack that targeted a wealthy businessman in Monaco.
 
 
-### ASSAULT on 2026-07-03 08:01
-- Location: Vanguard
-- Description: The Police Command in Sokoto State has successfully repelled two separate bandits’ attacks in Tureta Local Government Area, recovering 137 rustled cows during coordinated security operations.
-The post Police foil two bandits’ attacks, recover 137 rustled cows…
+### ASSAULT on 2026-07-03 13:01
+- Location: The Times of India
+- Description: Interpol has identified Anastasiia Berezovska, a 39-year-old Ukrainian woman, as the suspect in a Monaco bombing that injured three people, including a Ukrainian tycoon with alleged Russian ties. Authorities believe the attack was targeted and the suspect may…
 
 
-### OTHER on 2026-07-03 08:00
-- Location: Deadline
-- Description: EXCLUSIVE: One might not think of a niche indie movie about the French resistance as the basis for a show to take your drama company up a notch, but Two Cities Television boss Michael Jackson has other ideas. In a world where a Reddit forum can lay the founda…
+### OTHER on 2026-07-03 13:00
+- Location: PCWorld
+- Description: This is the eighth year running that I’ve written a roundup of the best new games for low-power PCs. And before now, I felt like it might be losing its relevance. After all, the Steam Deck doesn’t have a discrete graphics card, and plenty of new laptops are c…
 
-Analysis generated at: Sat Jul  4 08:30:30 UTC 2026
+Analysis generated at: Sat Jul  4 13:11:40 UTC 2026
