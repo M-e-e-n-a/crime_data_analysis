@@ -1,10 +1,10 @@
 
-Loaded 115670 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-03 02:00:00
+Loaded 115677 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-03 03:21:52
 
 Incidents by source:
 source
-newsapi           115569
+newsapi           115576
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-07-03 02:00
-- Location: Thesimplyluxuriouslife.com
-- Description: Oodles of books in a variety of genres, more novels than typical here on TSLL, but also some intriguing non-fiction – French history, sleep science and a mysterious British novelist who has come to the forefront of our attention this year. A new exhibit of a …
+### SHOOTING on 2026-07-03 03:21
+- Location: ABC News (AU)
+- Description: New gun laws, which create tougher penalties for the theft and possession of stolen firearms, but do not include gun caps, have been unveiled by the Tasmanian government, asking for public feedback.
 
 
-### HOMICIDE on 2026-07-03 01:30
-- Location: Thegatewaypundit.com
-- Description: The two teen suspects wanted in the murder of Penn State student Billy Schmidt have been taken into custody.
-The post Both Teens Wanted in Murder of Penn State Student Billy Schmidt Arrested appeared first on The Gateway Pundit.
+### SHOOTING on 2026-07-03 03:17
+- Location: CBC News
+- Description: Officers with the Ottawa Police Service's (OPS) tactical unit rescued a woman who was being held at knifepoint inside a home in Kanata on Thursday, ending a 14-hour standoff and sending the alleged hostage-taker to hospital with a gunshot wound.
 
 
-### OTHER on 2026-07-03 01:21
-- Location: Boston.com
-- Description: Several of the board’s recommendations echo earlier concerns regarding police bodycam footage and immigration tensions.
+### HOMICIDE on 2026-07-03 03:13
+- Location: Dailymail.com
+- Description: When Thai detectives noticed apparent scratchmarks on the alleged killer of the teenage girl found dead in a suitcase, Simon Carman's explanation stunned cops.
 
 
-### OTHER on 2026-07-03 01:08
-- Location: The Times of India
-- Description: This weekend's OTT releases bring something for every viewer. From Pritam and Pedro and Silo Season 3 to Mollywood Times, Super Subbu, Isakapatnam, Muthassi, Karakkam and Elle, the latest movies and shows span comedy, thriller, horror, sci-fi and drama across…
+### OTHER on 2026-07-03 02:42
+- Location: CBC News
+- Description: A man who hasn't been heard from after saying he planned to travel from Thompson to Winnipeg nearly two weeks ago has been reported missing, RCMP say.
 
 
-### OTHER on 2026-07-03 01:07
-- Location: Fox News
-- Description: Mexican national Julio Alvarez Lopez pleaded guilty after prosecutors said he made a weapon from pens before a Seattle-to-Las Vegas flight and tried to stab a stranger through the eye.
+### OTHER on 2026-07-03 02:37
+- Location: CBC News
+- Description: A man last seen at his grandmother's home in northern Manitoba on Tuesday has been reported missing, police say.
 
-Analysis generated at: Sat Jul  4 02:16:02 UTC 2026
+Analysis generated at: Sat Jul  4 03:35:46 UTC 2026
