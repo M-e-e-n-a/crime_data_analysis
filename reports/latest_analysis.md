@@ -1,10 +1,10 @@
 
-Loaded 115776 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-03 13:08:29
+Loaded 115794 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-03 13:35:54
 
 Incidents by source:
 source
-newsapi           115675
+newsapi           115693
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2026-07-03 13:08
-- Location: RTE
-- Description: Authorities are looking for a Ukrainian woman with a tattoo suspected of planting a bomb in Monaco that injured three people including a Ukrainian-born tycoon, after German police raided her flat.
+### HOMICIDE on 2026-07-03 13:35
+- Location: CBC News
+- Description: Ten months after the start of the Ontario murder trial for Becky Hamber and Brandy Cooney, the focus at their sentencing hearing Friday in Milton was on the young brothers in their care who suffered abuse, and the family and community members impacted in turn.
 
 
-### HOMICIDE on 2026-07-03 13:04
-- Location: The Times of India
-- Description: Bhagalpur police solve builder Bajrang Kumar murder in 24 hours; woman arrested over alleged affair and assault. Machete and documents seized from Pirpainty.
+### HOMICIDE on 2026-07-03 13:35
+- Location: Dailymail.com
+- Description: Gary Poland, 57, sped away from the scene despite hearing 'an awful orchestra of blood-curdling screams' as children fled The Hart Space in Southport.
 
 
-### ASSAULT on 2026-07-03 13:02
-- Location: ABC News (AU)
-- Description: Investigators are hunting for a woman they say "disguised herself as a man" in connection with in a bomb attack that targeted a wealthy businessman in Monaco.
+### SHOOTING on 2026-07-03 13:35
+- Location: New York Post
+- Description: All lanes of the eastbound 210 Freeway in the Glendora area were closed Friday morning after a police-involved shooting overnight in Covina.
 
 
-### ASSAULT on 2026-07-03 13:01
-- Location: The Times of India
-- Description: Interpol has identified Anastasiia Berezovska, a 39-year-old Ukrainian woman, as the suspect in a Monaco bombing that injured three people, including a Ukrainian tycoon with alleged Russian ties. Authorities believe the attack was targeted and the suspect may…
+### SHOOTING on 2026-07-03 13:32
+- Location: STLtoday.com
+- Description: A man was shot Thursday night on Ashland Avenue near Union Boulevard.
 
 
-### OTHER on 2026-07-03 13:00
-- Location: PCWorld
-- Description: This is the eighth year running that I’ve written a roundup of the best new games for low-power PCs. And before now, I felt like it might be losing its relevance. After all, the Steam Deck doesn’t have a discrete graphics card, and plenty of new laptops are c…
+### HOMICIDE on 2026-07-03 13:31
+- Location: Dailymail.com
+- Description: Former police officer Brian Darby, 80, from north London, is back behind bars for a series of crimes involving women and girls. He was previously handed a life sentence over his murder plot fantasies.
 
-Analysis generated at: Sat Jul  4 13:11:40 UTC 2026
+Analysis generated at: Sat Jul  4 13:45:04 UTC 2026
