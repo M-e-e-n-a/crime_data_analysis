@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Jul  5 02:32:43 UTC 2026
+Last updated: Sun Jul  5 03:53:50 UTC 2026
 
 ## Latest Analysis
 
-Loaded 115906 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-04 02:30:12
+Loaded 115911 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-04 03:48:11
 
 Incidents by source:
 source
-newsapi           115805
+newsapi           115810
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2026-07-04 02:30
+### OTHER on 2026-07-04 03:48
 - Location: The Times of India
-- Description: Ayodhya police are intensifying their probe into alleged Ram Temple donation embezzlement, tracing an SUV linked to accused Avinash Shukla used for transporting misappropriated cash. Investigators are examining the vehicle's records and questioning Shukla, a …
+- Description: Thane Crime Branch has arrested three individuals for allegedly extorting Rs 15 lakh from a contractor overseeing an Rs 188 crore civic project in Dombivli. The accused reportedly threatened to stall the project by filing false complaints after obtaining proj…
 
 
-### HOMICIDE on 2026-07-04 02:23
+### OTHER on 2026-07-04 02:51
 - Location: The Times of India
-- Description: A 26-year-old woman tragically died by suicide in a Hyderabad hotel room early Friday, reportedly during a video call with a friend. N Subramanyam Renuka, who worked at a pub facing scrutiny for alleged soliciting activities, was found hanging. Police are inv…
+- Description: Malayalam cinema is witnessing a surge in sequels, moving beyond rare blockbusters to become a common occurrence. Streaming platforms have played a significant role, allowing films to find audiences later and justify follow-ups. While sequels offer an initial…
 
 
-### HOMICIDE on 2026-07-04 02:08
-- Location: ABC News (AU)
-- Description: The friends and family of Darweish Mohamed, who was allegedly stabbed to death outside a Craigieburn hospital on Wednesday night, will remember him at a memorial today while a third teen has been charged with his murder.
+### OTHER on 2026-07-04 02:50
+- Location: The Times of India
+- Description: LIC Housing Finance Limited (LIC HFL) has declared the Junior Assistant Result 2026 for the written examination conducted for 180 vacancies. Candidates can check and download their results through the official website. Those who qualify will proceed to the in…
 
 
-### HOMICIDE on 2026-07-04 01:57
-- Location: Vanguard
-- Description: “The brothers started a fight over bathroom slippers. Neighbours separated them, but they went behind the house to continue the fight"
-The post How FUPRE student murdered brother over bathroom slippers  appeared first on Vanguard News.
+### ASSAULT on 2026-07-04 02:48
+- Location: The Times of India
+- Description: Diljit Dosanjh's much-anticipated film, formerly Panjab '95 and Ghalughara, has finally premiered on OTT under the title Satluj.  The biographical drama, inspired by human rights activist Jaswant Singh Khalra's fight against illegal cremations in Punjab, face…
 
 
-### OTHER on 2026-07-04 01:50
-- Location: Abcnews.com
-- Description: Louisiana's Supreme Court has halted for now the criminal case against state Attorney General Liz Murrill
+### SHOOTING on 2026-07-04 02:47
+- Location: Rpnradio.com
+- Description: BACOLOD CITY — Escalante National High School in Negros Occidental resumed face-to-face classes Thursday amid an investigation into an alleged online threat of a school shooting in the city earlier this week. Some parents were alarmed Monday after reports spr…
 
-Analysis generated at: Sun Jul  5 02:32:43 UTC 2026
+Analysis generated at: Sun Jul  5 03:53:50 UTC 2026
