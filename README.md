@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Jul  5 03:53:50 UTC 2026
+Last updated: Sun Jul  5 08:47:16 UTC 2026
 
 ## Latest Analysis
 
-Loaded 115911 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-04 03:48:11
+Loaded 115927 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-04 08:02:32
 
 Incidents by source:
 source
-newsapi           115810
+newsapi           115826
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-07-04 03:48
+### OTHER on 2026-07-04 08:02
+- Location: Dailymail.com
+- Description: A man has died after plunging from a 15-storey tower block in Essex as stunned neighbours recall hearing a 'big scream and a crash of glass'.
+
+
+### OTHER on 2026-07-04 08:00
+- Location: CBC News
+- Description: If you were to drop a pin anywhere in the U.S. right now, you would likely hit an area that uses Cybercheck in criminal investigations. But its creator's refusal to show anyone how it works, as well as inconsistencies in his court testimony about himself and …
+
+
+### OTHER on 2026-07-04 07:51
+- Location: Bleeding Cool News
+- Description: Soda Pop Jinu KPop Demon Hunters was the most-read story on Bleeding Cool yesterday. And as all the comics publisher solicitations fall out, why not follow them on Bleeding Cool with this handy tag? Lying In The Gutters is the daily runaround for the most-rea…
+
+
+### ROBBERY/THEFT on 2026-07-04 07:45
+- Location: Yahoo Entertainment
+- Description: Slovaks will cast the ballot on Saturday in a referendum to decide whether to cancel lifelong payments for populist Prime Minister Robert Fico and other lead...
+
+
+### HOMICIDE on 2026-07-04 07:44
 - Location: The Times of India
-- Description: Thane Crime Branch has arrested three individuals for allegedly extorting Rs 15 lakh from a contractor overseeing an Rs 188 crore civic project in Dombivli. The accused reportedly threatened to stall the project by filing false complaints after obtaining proj…
+- Description: NCBC intervention prompts police to register murder FIR in Bijnor Kushwaha youth Amar Singh’s May 28 death after family protests and NGO support.
 
-
-### OTHER on 2026-07-04 02:51
-- Location: The Times of India
-- Description: Malayalam cinema is witnessing a surge in sequels, moving beyond rare blockbusters to become a common occurrence. Streaming platforms have played a significant role, allowing films to find audiences later and justify follow-ups. While sequels offer an initial…
-
-
-### OTHER on 2026-07-04 02:50
-- Location: The Times of India
-- Description: LIC Housing Finance Limited (LIC HFL) has declared the Junior Assistant Result 2026 for the written examination conducted for 180 vacancies. Candidates can check and download their results through the official website. Those who qualify will proceed to the in…
-
-
-### ASSAULT on 2026-07-04 02:48
-- Location: The Times of India
-- Description: Diljit Dosanjh's much-anticipated film, formerly Panjab '95 and Ghalughara, has finally premiered on OTT under the title Satluj.  The biographical drama, inspired by human rights activist Jaswant Singh Khalra's fight against illegal cremations in Punjab, face…
-
-
-### SHOOTING on 2026-07-04 02:47
-- Location: Rpnradio.com
-- Description: BACOLOD CITY — Escalante National High School in Negros Occidental resumed face-to-face classes Thursday amid an investigation into an alleged online threat of a school shooting in the city earlier this week. Some parents were alarmed Monday after reports spr…
-
-Analysis generated at: Sun Jul  5 03:53:50 UTC 2026
+Analysis generated at: Sun Jul  5 08:47:16 UTC 2026
