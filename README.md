@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Jul  5 13:20:13 UTC 2026
+Last updated: Sun Jul  5 13:51:30 UTC 2026
 
 ## Latest Analysis
 
-Loaded 115961 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-04 13:15:51
+Loaded 115964 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-04 13:45:32
 
 Incidents by source:
 source
-newsapi           115860
+newsapi           115863
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,6 +24,21 @@ ion.svg)
 
 ## Recent Incidents
 
+### OTHER on 2026-07-04 13:45
+- Location: Khabarhub.com
+- Description: KATHMANDU: The government has announced an integrated support package for those injured during the Gen-Z movement and the families of those who lost their lives, covering financial assistance, medical treatment, employment support, and welfare services. The m…
+
+
+### OTHER on 2026-07-04 13:31
+- Location: The Daily Camera
+- Description: Things to do in Boulder Saturday, July 4: Celebrate America’s 250th birthday with a Fourth of July concert featuring patriotic favorites.
+
+
+### SHOOTING on 2026-07-04 13:28
+- Location: Babylonbee.com
+- Description: CHICAGO, IL — After fielding a flood of calls complaining of loud popping noises, the Chicago Police Department issued a statement assuring residents that those were just gun shots.
+
+
 ### HOMICIDE on 2026-07-04 13:15
 - Location: Dailymail.com
 - Description: Tunchanok Donhomla, 17, was found dead inside a black suitcase that was dumped near train tacks on the outskirts of Pattaya, eastern Thailand.
@@ -33,20 +48,4 @@ ion.svg)
 - Location: Dailymail.com
 - Description: Former Marymede Catholic College education sport assistant Andrew Cassar has finally been unmasked after he was charged with alleged child sex offending.
 
-
-### OTHER on 2026-07-04 13:00
-- Location: Bossip
-- Description: True independence looks different for everyone. Check out freedom films that celebrate Black people on their quest to true liberation.
-The post Binge These Freedom Films That Celebrate Black Stories This Fourth of July appeared first on Bossip.
-
-
-### OTHER on 2026-07-04 12:30
-- Location: New York Post
-- Description: Major crimes on the city’s subways and buses have increased in the majority of the NYPD’s nine patrol boroughs so far this year, even though the citywide numbers remain down .08%, according to new crime data - raising straphangers' fears of becoming victims o…
-
-
-### HOMICIDE on 2026-07-04 12:21
-- Location: Dailymail.com
-- Description: Karina Holmer was an au pair who was murdered in 1996 when she was only 20 years old after coming to Boston with 10,000 crowns she won from the Swedish lottery.
-
-Analysis generated at: Sun Jul  5 13:20:13 UTC 2026
+Analysis generated at: Sun Jul  5 13:51:30 UTC 2026
