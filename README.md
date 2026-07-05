@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Jul  4 19:02:41 UTC 2026
+Last updated: Sun Jul  5 02:32:43 UTC 2026
 
 ## Latest Analysis
 
-Loaded 115889 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-03 19:01:39
+Loaded 115906 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-04 02:30:12
 
 Incidents by source:
 source
-newsapi           115788
+newsapi           115805
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,30 +24,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-07-03 19:01
-- Location: Fox News
-- Description: Dearborn Police are actively investigating a shooting at the Fairlane Town Center mall. At least three people were reportedly shot, two fatally.
+### ROBBERY/THEFT on 2026-07-04 02:30
+- Location: The Times of India
+- Description: Ayodhya police are intensifying their probe into alleged Ram Temple donation embezzlement, tracing an SUV linked to accused Avinash Shukla used for transporting misappropriated cash. Investigators are examining the vehicle's records and questioning Shukla, a …
 
 
-### HOMICIDE on 2026-07-03 18:58
-- Location: DW (English)
-- Description: McKee was killed while covering clashes between Republicans and police in 2019. Judge Patricia Smyth said evidence was insufficient for a conviction, while McKee's family expressed disappointment.
+### HOMICIDE on 2026-07-04 02:23
+- Location: The Times of India
+- Description: A 26-year-old woman tragically died by suicide in a Hyderabad hotel room early Friday, reportedly during a video call with a friend. N Subramanyam Renuka, who worked at a pub facing scrutiny for alleged soliciting activities, was found hanging. Police are inv…
 
 
-### OTHER on 2026-07-03 18:57
-- Location: Dailymail.com
-- Description: Peter Murrell will not appeal against his prison sentence for embezzlement.
+### HOMICIDE on 2026-07-04 02:08
+- Location: ABC News (AU)
+- Description: The friends and family of Darweish Mohamed, who was allegedly stabbed to death outside a Craigieburn hospital on Wednesday night, will remember him at a memorial today while a third teen has been charged with his murder.
 
 
-### HOMICIDE on 2026-07-03 18:50
-- Location: The Punch
-- Description: The PDP in Osun State demands a transparent probe into the killing of Ezekiel Olapade, a teenager allegedly shot by political hoodlums. The party urges the
+### HOMICIDE on 2026-07-04 01:57
+- Location: Vanguard
+- Description: “The brothers started a fight over bathroom slippers. Neighbours separated them, but they went behind the house to continue the fight"
+The post How FUPRE student murdered brother over bathroom slippers  appeared first on Vanguard News.
 
-Read More: https://punchng.com/probe-killing-of-osun-teenager-pdp-tells-ig/
 
+### OTHER on 2026-07-04 01:50
+- Location: Abcnews.com
+- Description: Louisiana's Supreme Court has halted for now the criminal case against state Attorney General Liz Murrill
 
-### ROBBERY/THEFT on 2026-07-03 18:47
-- Location: Dailymail.com
-- Description: David Mitchell, 19, was one of five people accused of robbing a 19-year-old woman aboard a Red Line train near the 69th Street station on the evening of September 28, 2024.
-
-Analysis generated at: Sat Jul  4 19:02:41 UTC 2026
+Analysis generated at: Sun Jul  5 02:32:43 UTC 2026
