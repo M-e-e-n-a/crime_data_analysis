@@ -1,10 +1,10 @@
 
-Loaded 115964 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-04 13:45:32
+Loaded 116013 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-04 19:00:00
 
 Incidents by source:
 source
-newsapi           115863
+newsapi           115912
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,30 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-07-04 13:45
-- Location: Khabarhub.com
-- Description: KATHMANDU: The government has announced an integrated support package for those injured during the Gen-Z movement and the families of those who lost their lives, covering financial assistance, medical treatment, employment support, and welfare services. The m…
+### OTHER on 2026-07-04 19:00
+- Location: ComingSoon.net
+- Description: A brand new season of a highly underrated AMC thriller drops on Netflix today. Widely considered the channel’s most underrated show for being overlooked by awards circuits and mainstream audiences, the series has consistently received 100% scores on Rotten To…
 
 
-### OTHER on 2026-07-04 13:31
-- Location: The Daily Camera
-- Description: Things to do in Boulder Saturday, July 4: Celebrate America’s 250th birthday with a Fourth of July concert featuring patriotic favorites.
+### HOMICIDE on 2026-07-04 18:58
+- Location: The Times of India
+- Description: Panchkula Police arrest Manoj Pal in Surat for a 2025 club dancer murder; court grants 2-day remand as police probe motive and recover motorcycle.
 
 
-### SHOOTING on 2026-07-04 13:28
-- Location: Babylonbee.com
-- Description: CHICAGO, IL — After fielding a flood of calls complaining of loud popping noises, the Chicago Police Department issued a statement assuring residents that those were just gun shots.
+### ROBBERY/THEFT on 2026-07-04 18:42
+- Location: The Times of India
+- Description: Three FIRs filed in Vashi, Navi Mumbai after MSEDCL found Rs 1.6 lakh power theft via tampered busbar; landlord and three tenants booked at APMC police station.
 
 
-### HOMICIDE on 2026-07-04 13:15
-- Location: Dailymail.com
-- Description: Tunchanok Donhomla, 17, was found dead inside a black suitcase that was dumped near train tacks on the outskirts of Pattaya, eastern Thailand.
+### SHOOTING on 2026-07-04 18:09
+- Location: The Punch
+- Description: Ogun State Police Command arrests 89 drivers for number plate violations, enhancing security and traceability. Two robbery suspects also apprehended.
+
+Read More: https://punchng.com/police-arrest-89-over-number-plate-violations-in-ogun/
 
 
-### OTHER on 2026-07-04 13:01
-- Location: Dailymail.com
-- Description: Former Marymede Catholic College education sport assistant Andrew Cassar has finally been unmasked after he was charged with alleged child sex offending.
+### HOMICIDE on 2026-07-04 18:08
+- Location: The Times of India
+- Description: Vadodara police say Waghodiya Road shooting on garment trader was a contract killing tied to an old Fiji dispute; two men from Chhattisgarh arrested.
 
-Analysis generated at: Sun Jul  5 13:51:30 UTC 2026
+Analysis generated at: Sun Jul  5 19:09:10 UTC 2026
