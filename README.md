@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Jul  6 02:37:52 UTC 2026
+Last updated: Mon Jul  6 04:00:42 UTC 2026
 
 ## Latest Analysis
 
-Loaded 116021 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-05 02:05:16
+Loaded 116027 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-05 04:00:00
 
 Incidents by source:
 source
-newsapi           115920
+newsapi           115926
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,32 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-07-05 02:05
-- Location: ABC News (AU)
-- Description: Tasmania catches up with other jurisdictions with plans to make it an offence to share sexually explicit images including "revenge porn" and AI-generated deepfakes.
+### SHOOTING on 2026-07-05 04:00
+- Location: Americanthinker.com
+- Description: By Mike McDanielIs the very common AR-15 really common?
 
 
-### SHOOTING on 2026-07-05 01:57
-- Location: New York Post
-- Description: California officials are shutting down or tightening security at World Cup watch parties after celebrations following Mexico’s 2026 FIFA World Cup victories repeatedly erupted into violence, forcing police to respond to shootings, stabbings, street takeovers …
+### HOMICIDE on 2026-07-05 03:40
+- Location: ZimEye - Zimbabwe News
+- Description: By A Correspondent|Police in Chiweshe have arrested three suspects following a deadly attack at a night club at Rosa Business Centre that left one man dead and another seriously injured. The suspec…
 
 
-### OTHER on 2026-07-05 01:56
-- Location: Screen Rant
-- Description: The best crime movies are made even better when they offer up great villains to defeat, and here are the best crime movie villains in history.
+### HOMICIDE on 2026-07-05 03:37
+- Location: Bulawayo24.com
+- Description: A diplomatic dispute has emerged between South Africa and Ghana after conflicting claims over the reported killing of a Ghanaian national during anti-migrant pr...
 
 
-### SHOOTING on 2026-07-05 01:40
-- Location: The Punch
-- Description: Police in Ogun and Delta states have impounded 120 vehicles for number plate violations, intensifying enforcement to improve traceability and deter crime.
-
-Read More: https://punchng.com/number-plates-police-impound-120-vehicles-in-ogun-delta/
+### OTHER on 2026-07-05 03:20
+- Location: Wordpress.com
+- Description: By Edwin Torres. June 23, 2026. Armed and Ready 2009, photo used with permission of photographer Danny Nathan I have always been interested in history, including the development of firearms, but an…
 
 
-### OTHER on 2026-07-05 01:38
-- Location: The Punch
-- Description: The FRSC arrested 279,414 traffic offenders and recorded 2,214 road crashes nationwide between January and May 2026, showing improved road safety.
+### OTHER on 2026-07-05 03:12
+- Location: The Times of India
+- Description: The online application process for Indian Navy Agniveer (Apprentice) Recruitment 2026 closes today, July 5, 2026, for the 01/2027 and 02/2027 batches. Eligible unmarried Indian male candidates with the required Class 10 qualification and AICTE-recognised engi…
 
-Read More: https://punchng.com/279414-traffic-offenders-arrested-nationwide-in-five-months-frsc/
-
-Analysis generated at: Mon Jul  6 02:37:52 UTC 2026
+Analysis generated at: Mon Jul  6 04:00:42 UTC 2026
