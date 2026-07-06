@@ -1,10 +1,10 @@
 
-Loaded 116055 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-05 10:03:38
+Loaded 116097 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-05 15:18:39
 
 Incidents by source:
 source
-newsapi           115954
+newsapi           115996
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-07-05 10:03
-- Location: Dailymail.com
-- Description: In 1979, leftwing activists in Iran were instrumental in toppling the Western-backed Shah and installing the reign of Ayatollah Ruhollah Khomeini, who later persecuted them in their thousands.
-
-
-### OTHER on 2026-07-05 10:02
-- Location: Dailymail.com
-- Description: Homeowners living next to a greenfield site that was tarmacked over in a two-hour 'land grab' by travellers have told of their fury at learning that those behind it will be allowed to live there a whole year.
-
-
-### ROBBERY/THEFT on 2026-07-05 10:00
+### SHOOTING on 2026-07-05 15:18
 - Location: Fox News
-- Description: Professional squatters allegedly use forged deeds, fake leases and identity theft to hijack Los Angeles homes, prompting calls for a dedicated task force.
+- Description: Missouri mom Shakeela Martin was fatally struck by nearby gunfire outside a gas station while getting slushies with two of her children.
 
 
-### ROBBERY/THEFT on 2026-07-05 09:54
+### HOMICIDE on 2026-07-05 15:07
 - Location: Dailymail.com
-- Description: Patsy Swift, 38, pinched the medication from Hillbury Care Home, in Wrexham, North Wales, over a two month period last year.
+- Description: Simon Carman, 45, invited Tang Chai, 43, back to his condo for sex in April.
 
 
-### OTHER on 2026-07-05 09:42
+### HOMICIDE on 2026-07-05 15:03
 - Location: Dailymail.com
-- Description: Rochdale gang leader Shabir Ahmed, 73, was released from HMP Leeds on Thursday after serving just 14 years of the 22-year sentence  handed to him in 2012 for the crime of 30 child rape offences.
+- Description: Ivy Unruh, 25, a PBS engineer and fellow marine veteran, was gunned down outside her apartment block in Wichita, Kansas, about 8am on April 17. Her ex-husband Joshua Orlando, 29, pleaded guilty
 
-Analysis generated at: Mon Jul  6 10:05:58 UTC 2026
+
+### OTHER on 2026-07-05 15:00
+- Location: Daily Signal
+- Description: As Americans try to make sense of the latest mess in British politics, one name keeps coming up as the likely next occupant of 10 Downing Street: Andy Burnham. The former mayor of Greater Manchester, always camera-ready and quick with a soundbite, looks set t…
+
+
+### HOMICIDE on 2026-07-05 14:49
+- Location: The Times of India
+- Description: Delhi murder case: Police arrest three Seelampur men for stabbing 20-year-old Toheed to death in New Usmanpur DDA park; knife recovered, murder case filed.
+
+Analysis generated at: Mon Jul  6 15:20:30 UTC 2026
