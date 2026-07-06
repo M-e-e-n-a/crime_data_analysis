@@ -1,10 +1,10 @@
 
-Loaded 116097 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-05 15:18:39
+Loaded 116100 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-05 15:36:55
 
 Incidents by source:
 source
-newsapi           115996
+newsapi           115999
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,6 +20,21 @@ ion.svg)
 
 ## Recent Incidents
 
+### OTHER on 2026-07-05 15:36
+- Location: Dailymail.com
+- Description: Demonstrators held banners and placards outside the building in central London today, marking one year since the ban came into force.
+
+
+### SHOOTING on 2026-07-05 15:29
+- Location: Gothamist
+- Description: Victims in two separate incidents in Brooklyn include four children and a police detective [ more › ]
+
+
+### SHOOTING on 2026-07-05 15:23
+- Location: New York Post
+- Description: The 18-year-old shooter is seen flashing the weapon as he walks back and forth on Nostrand Avenue in Crown Heights around 4:45 a.m. Sunday, just a half block from an unmarked police cruiser, surveillance video obtained by The Post shows.
+
+
 ### SHOOTING on 2026-07-05 15:18
 - Location: Fox News
 - Description: Missouri mom Shakeela Martin was fatally struck by nearby gunfire outside a gas station while getting slushies with two of her children.
@@ -29,19 +44,4 @@ ion.svg)
 - Location: Dailymail.com
 - Description: Simon Carman, 45, invited Tang Chai, 43, back to his condo for sex in April.
 
-
-### HOMICIDE on 2026-07-05 15:03
-- Location: Dailymail.com
-- Description: Ivy Unruh, 25, a PBS engineer and fellow marine veteran, was gunned down outside her apartment block in Wichita, Kansas, about 8am on April 17. Her ex-husband Joshua Orlando, 29, pleaded guilty
-
-
-### OTHER on 2026-07-05 15:00
-- Location: Daily Signal
-- Description: As Americans try to make sense of the latest mess in British politics, one name keeps coming up as the likely next occupant of 10 Downing Street: Andy Burnham. The former mayor of Greater Manchester, always camera-ready and quick with a soundbite, looks set t…
-
-
-### HOMICIDE on 2026-07-05 14:49
-- Location: The Times of India
-- Description: Delhi murder case: Police arrest three Seelampur men for stabbing 20-year-old Toheed to death in New Usmanpur DDA park; knife recovered, murder case filed.
-
-Analysis generated at: Mon Jul  6 15:20:30 UTC 2026
+Analysis generated at: Mon Jul  6 15:44:09 UTC 2026
