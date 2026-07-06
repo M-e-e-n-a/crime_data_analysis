@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Jul  6 04:00:42 UTC 2026
+Last updated: Mon Jul  6 10:05:58 UTC 2026
 
 ## Latest Analysis
 
-Loaded 116027 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-05 04:00:00
+Loaded 116055 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-05 10:03:38
 
 Incidents by source:
 source
-newsapi           115926
+newsapi           115954
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-07-05 04:00
-- Location: Americanthinker.com
-- Description: By Mike McDanielIs the very common AR-15 really common?
+### OTHER on 2026-07-05 10:03
+- Location: Dailymail.com
+- Description: In 1979, leftwing activists in Iran were instrumental in toppling the Western-backed Shah and installing the reign of Ayatollah Ruhollah Khomeini, who later persecuted them in their thousands.
 
 
-### HOMICIDE on 2026-07-05 03:40
-- Location: ZimEye - Zimbabwe News
-- Description: By A Correspondent|Police in Chiweshe have arrested three suspects following a deadly attack at a night club at Rosa Business Centre that left one man dead and another seriously injured. The suspec…
+### OTHER on 2026-07-05 10:02
+- Location: Dailymail.com
+- Description: Homeowners living next to a greenfield site that was tarmacked over in a two-hour 'land grab' by travellers have told of their fury at learning that those behind it will be allowed to live there a whole year.
 
 
-### HOMICIDE on 2026-07-05 03:37
-- Location: Bulawayo24.com
-- Description: A diplomatic dispute has emerged between South Africa and Ghana after conflicting claims over the reported killing of a Ghanaian national during anti-migrant pr...
+### ROBBERY/THEFT on 2026-07-05 10:00
+- Location: Fox News
+- Description: Professional squatters allegedly use forged deeds, fake leases and identity theft to hijack Los Angeles homes, prompting calls for a dedicated task force.
 
 
-### OTHER on 2026-07-05 03:20
-- Location: Wordpress.com
-- Description: By Edwin Torres. June 23, 2026. Armed and Ready 2009, photo used with permission of photographer Danny Nathan I have always been interested in history, including the development of firearms, but an…
+### ROBBERY/THEFT on 2026-07-05 09:54
+- Location: Dailymail.com
+- Description: Patsy Swift, 38, pinched the medication from Hillbury Care Home, in Wrexham, North Wales, over a two month period last year.
 
 
-### OTHER on 2026-07-05 03:12
-- Location: The Times of India
-- Description: The online application process for Indian Navy Agniveer (Apprentice) Recruitment 2026 closes today, July 5, 2026, for the 01/2027 and 02/2027 batches. Eligible unmarried Indian male candidates with the required Class 10 qualification and AICTE-recognised engi…
+### OTHER on 2026-07-05 09:42
+- Location: Dailymail.com
+- Description: Rochdale gang leader Shabir Ahmed, 73, was released from HMP Leeds on Thursday after serving just 14 years of the 22-year sentence  handed to him in 2012 for the crime of 30 child rape offences.
 
-Analysis generated at: Mon Jul  6 04:00:42 UTC 2026
+Analysis generated at: Mon Jul  6 10:05:58 UTC 2026
