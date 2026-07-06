@@ -1,10 +1,10 @@
 
-Loaded 116100 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-05 15:36:55
+Loaded 116158 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-05 19:40:37
 
 Incidents by source:
 source
-newsapi           115999
+newsapi           116057
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-07-05 15:36
-- Location: Dailymail.com
-- Description: Demonstrators held banners and placards outside the building in central London today, marking one year since the ban came into force.
+### HOMICIDE on 2026-07-05 19:40
+- Location: NPR
+- Description: Memphis police say National Guard troops fired their weapons in the early morning hours of July 5, killing a man who was armed with a handgun. State investigators will handle the case.
 
 
-### SHOOTING on 2026-07-05 15:29
-- Location: Gothamist
-- Description: Victims in two separate incidents in Brooklyn include four children and a police detective [ more › ]
+### OTHER on 2026-07-05 19:40
+- Location: Mediaite
+- Description: A Delta Airlines pilot landing at Chicago's Midway Airport on July 4th reported that he felt a "big bang" when his Airbus A319 was hit by fireworks.
+The post ‘Definitely Felt a Big Bang!’ Delta Pilots Report Plane Was Hit By Fireworks Over Chicago first appea…
 
 
-### SHOOTING on 2026-07-05 15:23
-- Location: New York Post
-- Description: The 18-year-old shooter is seen flashing the weapon as he walks back and forth on Nostrand Avenue in Crown Heights around 4:45 a.m. Sunday, just a half block from an unmarked police cruiser, surveillance video obtained by The Post shows.
+### OTHER on 2026-07-05 19:36
+- Location: ABC News (AU)
+- Description: Two dozen fire trucks are at the scene in Richmond where multiple businesses are on fire after a shop was rammed and set alight this morning.
 
 
-### SHOOTING on 2026-07-05 15:18
-- Location: Fox News
-- Description: Missouri mom Shakeela Martin was fatally struck by nearby gunfire outside a gas station while getting slushies with two of her children.
+### ASSAULT on 2026-07-05 19:36
+- Location: ABC News (AU)
+- Description: More than 80 firefighters are at the scene in Richmond, where 10 businesses are burning after a shop was rammed and set alight this morning.
 
 
-### HOMICIDE on 2026-07-05 15:07
-- Location: Dailymail.com
-- Description: Simon Carman, 45, invited Tang Chai, 43, back to his condo for sex in April.
+### HOMICIDE on 2026-07-05 19:22
+- Location: The Times of India
+- Description: Unidentified man, about 45, found dead near temple behind CHMO office in Indore; police suspect murder elsewhere, body dumped; CCTV and autopsy underway.
 
-Analysis generated at: Mon Jul  6 15:44:09 UTC 2026
+Analysis generated at: Mon Jul  6 19:49:08 UTC 2026
