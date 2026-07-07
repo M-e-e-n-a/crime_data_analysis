@@ -1,10 +1,10 @@
 
-Loaded 116276 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-06 14:47:48
+Loaded 116370 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-06 19:46:15
 
 Incidents by source:
 source
-newsapi           116175
+newsapi           116269
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-07-06 14:47
-- Location: TechRadar
-- Description: Why are you googling From season 4 episode 11 when you knew that episode 10 was the finale? Don't let the internet waste your time — here's what to stream instead.
+### HOMICIDE on 2026-07-06 19:46
+- Location: The Conversation Africa
+- Description: Musquito’s life and death can be read through the lens of a history of invasion and resistance. Or of the difficulties of being placed between two worlds.
 
 
-### HOMICIDE on 2026-07-06 14:47
+### ROBBERY/THEFT on 2026-07-06 19:42
 - Location: The Times of India
-- Description: Nizamabad police arrested three, including wife Sandhya, for allegedly murdering D Prashanth with sedatives and cleaning liquid, staging it as accidental death.
+- Description: Ayodhya Police may seek narco-analysis and polygraph tests on five jailed donation theft accused to trace money trail, probe wider conspiracy and possible senior links.
 
 
-### OTHER on 2026-07-06 14:46
-- Location: ARTnews
-- Description: The White House targeted the Smithsonian again, another French museum fell victim to a jewelry heist, and more global art news.
+### HOMICIDE on 2026-07-06 19:39
+- Location: Protothema.gr
+- Description: Prosecutors are seeking the death penalty for 23-year-old Tyler Robinson
+The post Charlie Kirk’s family comes face to face in court with man that murdered him appeared first on ProtoThema English.
 
 
-### HOMICIDE on 2026-07-06 14:45
+### OTHER on 2026-07-06 19:34
+- Location: Fox News
+- Description: Experts say Erdoğan's defining trait isn't Islamism or nationalism but political survival, as Trump calls Turkey's leader "a friend" ahead of NATO summit.
+
+
+### HOMICIDE on 2026-07-06 19:33
 - Location: Dailymail.com
-- Description: Karl Hutchings, 48, cut 55-year-old Julie Buckley's body into 11 pieces before burying her remains in a 3ft deep pit. He then joked with a friend about a 'steak night' when talking about considering eating her.
+- Description: The boy, who can not be named for legal reasons, pleaded not guilty guilty after attempting to murder Vicki Williams at Milford Comprehensive School in Wales on February 5.
 
-
-### OTHER on 2026-07-06 14:29
-- Location: The Times of India
-- Description: Hyderabad: 17-year-old first-year Intermediate KGBV student in Mancherial missing after leaving campus at 4am; police formed teams, checking CCTV.
-
-Analysis generated at: Tue Jul  7 14:48:17 UTC 2026
+Analysis generated at: Tue Jul  7 19:48:17 UTC 2026
