@@ -1,10 +1,10 @@
 
-Loaded 116158 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-05 19:40:37
+Loaded 116169 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-06 02:21:21
 
 Incidents by source:
 source
-newsapi           116057
+newsapi           116068
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-07-05 19:40
-- Location: NPR
-- Description: Memphis police say National Guard troops fired their weapons in the early morning hours of July 5, killing a man who was armed with a handgun. State investigators will handle the case.
+### OTHER on 2026-07-06 02:21
+- Location: Rpnradio.com
+- Description: BACOLOD CITY — The Police Regional Office-Negros Island Region has reinforced its officer corps with the arrival of 42 new police lieutenants from the Philippine National Police Academy. The new officers are expected to enhance operational effectiveness and s…
 
 
-### OTHER on 2026-07-05 19:40
-- Location: Mediaite
-- Description: A Delta Airlines pilot landing at Chicago's Midway Airport on July 4th reported that he felt a "big bang" when his Airbus A319 was hit by fireworks.
-The post ‘Definitely Felt a Big Bang!’ Delta Pilots Report Plane Was Hit By Fireworks Over Chicago first appea…
+### HOMICIDE on 2026-07-06 02:17
+- Location: Rpnradio.com
+- Description: BACOLOD CITY — The Police Regional Office-Negros Island Region has urged anyone with relevant information to help authorities investigate the death of a 26-year-old man whose body was found wrapped in plastic and packaging tape beside a sugarcane field in Pur…
 
 
-### OTHER on 2026-07-05 19:36
+### ASSAULT on 2026-07-06 02:01
+- Location: POLITICO.eu
+- Description: As gangs recruit at ever-younger ages, the city is betting that prevention can work.
+
+
+### OTHER on 2026-07-06 01:58
 - Location: ABC News (AU)
-- Description: Two dozen fire trucks are at the scene in Richmond where multiple businesses are on fire after a shop was rammed and set alight this morning.
+- Description: WA Labor stalwart and senior state cabinet minister Paul Papalia is set to announce he is quitting politics after nearly two decades, triggering a by-election in his southern Perth seat.
 
 
-### ASSAULT on 2026-07-05 19:36
-- Location: ABC News (AU)
-- Description: More than 80 firefighters are at the scene in Richmond, where 10 businesses are burning after a shop was rammed and set alight this morning.
+### OTHER on 2026-07-06 01:28
+- Location: Vanguard
+- Description: FRESH documents have emerged showing that the Office of the Secretary to the Government of the Federation, OSGF, approved the disowned Director-General of the non-existent Presidential Foreign Intervention Promotion Council, PFIPC, Mr Adeniyi Adeyemi, to atte…
 
-
-### HOMICIDE on 2026-07-05 19:22
-- Location: The Times of India
-- Description: Unidentified man, about 45, found dead near temple behind CHMO office in Indore; police suspect murder elsewhere, body dumped; CCTV and autopsy underway.
-
-Analysis generated at: Mon Jul  6 19:49:08 UTC 2026
+Analysis generated at: Tue Jul  7 02:32:15 UTC 2026
