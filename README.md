@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Jul  7 03:51:59 UTC 2026
+Last updated: Tue Jul  7 09:32:27 UTC 2026
 
 ## Latest Analysis
 
-Loaded 116174 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-06 03:49:24
+Loaded 116222 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-06 09:25:27
 
 Incidents by source:
 source
-newsapi           116073
+newsapi           116121
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-07-06 03:49
-- Location: Dailymail.com
-- Description: A 32-year-old woman, who can't be identified for legal reasons, went to Wyong Police Station of her own accord and allegedly said she had consumed parts of her son.
+### HOMICIDE on 2026-07-06 09:25
+- Location: The Times of India
+- Description: Leaders from Mamata Banerjee's Trinamool Congress faction visited Baruipur to meet the family of an 11-year-old girl allegedly raped and murdered. The visit occurred amid prohibitory orders following violent protests where locals lynched a man suspected of in…
 
 
-### OTHER on 2026-07-06 03:44
-- Location: ABC News (AU)
-- Description: Police are asking for public help to find the person who fatally stabbed a man found at a home at Taree on the NSW Mid North Coast early this morning.
+### HOMICIDE on 2026-07-06 09:12
+- Location: Abcnews.com
+- Description: A judge will decide if prosecutors have enough evidence to warrant a murder trial for the alleged assassin of conservative activist Charlie Kirk.
 
 
-### HOMICIDE on 2026-07-06 03:30
-- Location: Freerepublic.com
-- Description: New similarities have emerged between the Thai teenager whose body was found in a suitcase and two cold case murders involving women who suffered the same fate. Tunchanok Donhomla, 17, was allegedly beaten and strangled before her body was hidden in the black…
+### HOMICIDE on 2026-07-06 09:11
+- Location: The Times of India
+- Description: West Bengal Chief Minister Suvendu Adhikari vowed capital punishment for culprits in the "heinous crime" of a 12-year-old girl's alleged rape and murder in Baruipur. Three arrests have been made, with police investigating further. The CM also highlighted inci…
 
 
-### ASSAULT on 2026-07-06 02:57
-- Location: New York Post
-- Description: Kevin Maxwell, 37, was cuffed just before 1 a.m. on Sunday for allegedly assaulting a 12-year-old boy near a playground at the NYCHA Baruch Houses on the Lower East Side on April 29.
+### OTHER on 2026-07-06 09:09
+- Location: Breitbart News
+- Description: A 22-year-old man born in Italy to migrant parents allegedly stabbed a 55-year-old man in Milan over the weekend before reportedly proclaiming "I had fun, as soon as I get out, I'll do it again” to the police officers that arrested him.
+The post ‘I Had fun’ —…
 
 
-### SHOOTING on 2026-07-06 02:41
-- Location: HuffPost
-- Description: The Guard members are part of a federal task force in Memphis created by President Donald Trump.
+### OTHER on 2026-07-06 09:07
+- Location: Bleeding Cool News
+- Description: Soda Pop Jinu KPop Demon Hunters was the most-read story on Bleeding Cool yesterday, again, and you can find even more Kpop Demon Hunters scoops and breaking news with this handy dandy Bleeding Cool tag. And as all the comics publisher solicitations fall out,…
 
-Analysis generated at: Tue Jul  7 03:51:59 UTC 2026
+Analysis generated at: Tue Jul  7 09:32:27 UTC 2026
