@@ -1,10 +1,10 @@
 
-Loaded 116222 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-06 09:25:27
+Loaded 116269 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-06 14:06:40
 
 Incidents by source:
 source
-newsapi           116121
+newsapi           116168
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,29 +20,30 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-07-06 09:25
+### ROBBERY/THEFT on 2026-07-06 14:06
+- Location: The Punch
+- Description: Ekiti State Police Command arrests four suspected burglars in Ado Ekiti, recovering stolen goods and launching a full investigation into their criminal act
+
+Read More: https://punchng.com/police-arrest-four-suspected-burglars-in-ekiti/
+
+
+### OTHER on 2026-07-06 14:01
+- Location: The Irish Times
+- Description: Interpol issues ‘red notice’ for Anastasiia Berezovska (39), a Germany-based explosive expert
+
+
+### OTHER on 2026-07-06 13:58
 - Location: The Times of India
-- Description: Leaders from Mamata Banerjee's Trinamool Congress faction visited Baruipur to meet the family of an 11-year-old girl allegedly raped and murdered. The visit occurred amid prohibitory orders following violent protests where locals lynched a man suspected of in…
+- Description: Islampur Police rescued 65 trafficked minor girls in Uttar Dinajpur and Kishanganj raids, arrested six; drones and NGOs aided action under POCSO.
 
 
-### HOMICIDE on 2026-07-06 09:12
-- Location: Abcnews.com
-- Description: A judge will decide if prosecutors have enough evidence to warrant a murder trial for the alleged assassin of conservative activist Charlie Kirk.
+### ASSAULT on 2026-07-06 13:58
+- Location: RT
+- Description: British police chiefs should abandon “woke” politics and focus solely on preventing crime, a new government-backed report has determined Read Full Article at RT.com
 
 
-### HOMICIDE on 2026-07-06 09:11
-- Location: The Times of India
-- Description: West Bengal Chief Minister Suvendu Adhikari vowed capital punishment for culprits in the "heinous crime" of a 12-year-old girl's alleged rape and murder in Baruipur. Three arrests have been made, with police investigating further. The CM also highlighted inci…
+### OTHER on 2026-07-06 13:48
+- Location: Dailymail.com
+- Description: Daniel Wilson, a 37-year-old James Bond superfan, was handed a hospital order for stalking film producer Barbara Broccoli over several years.
 
-
-### OTHER on 2026-07-06 09:09
-- Location: Breitbart News
-- Description: A 22-year-old man born in Italy to migrant parents allegedly stabbed a 55-year-old man in Milan over the weekend before reportedly proclaiming "I had fun, as soon as I get out, I'll do it again” to the police officers that arrested him.
-The post ‘I Had fun’ —…
-
-
-### OTHER on 2026-07-06 09:07
-- Location: Bleeding Cool News
-- Description: Soda Pop Jinu KPop Demon Hunters was the most-read story on Bleeding Cool yesterday, again, and you can find even more Kpop Demon Hunters scoops and breaking news with this handy dandy Bleeding Cool tag. And as all the comics publisher solicitations fall out,…
-
-Analysis generated at: Tue Jul  7 09:32:27 UTC 2026
+Analysis generated at: Tue Jul  7 14:16:48 UTC 2026
