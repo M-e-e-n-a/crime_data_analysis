@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Jul  7 02:32:15 UTC 2026
+Last updated: Tue Jul  7 03:51:59 UTC 2026
 
 ## Latest Analysis
 
-Loaded 116169 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-06 02:21:21
+Loaded 116174 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-06 03:49:24
 
 Incidents by source:
 source
-newsapi           116068
+newsapi           116073
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-07-06 02:21
-- Location: Rpnradio.com
-- Description: BACOLOD CITY — The Police Regional Office-Negros Island Region has reinforced its officer corps with the arrival of 42 new police lieutenants from the Philippine National Police Academy. The new officers are expected to enhance operational effectiveness and s…
+### HOMICIDE on 2026-07-06 03:49
+- Location: Dailymail.com
+- Description: A 32-year-old woman, who can't be identified for legal reasons, went to Wyong Police Station of her own accord and allegedly said she had consumed parts of her son.
 
 
-### HOMICIDE on 2026-07-06 02:17
-- Location: Rpnradio.com
-- Description: BACOLOD CITY — The Police Regional Office-Negros Island Region has urged anyone with relevant information to help authorities investigate the death of a 26-year-old man whose body was found wrapped in plastic and packaging tape beside a sugarcane field in Pur…
-
-
-### ASSAULT on 2026-07-06 02:01
-- Location: POLITICO.eu
-- Description: As gangs recruit at ever-younger ages, the city is betting that prevention can work.
-
-
-### OTHER on 2026-07-06 01:58
+### OTHER on 2026-07-06 03:44
 - Location: ABC News (AU)
-- Description: WA Labor stalwart and senior state cabinet minister Paul Papalia is set to announce he is quitting politics after nearly two decades, triggering a by-election in his southern Perth seat.
+- Description: Police are asking for public help to find the person who fatally stabbed a man found at a home at Taree on the NSW Mid North Coast early this morning.
 
 
-### OTHER on 2026-07-06 01:28
-- Location: Vanguard
-- Description: FRESH documents have emerged showing that the Office of the Secretary to the Government of the Federation, OSGF, approved the disowned Director-General of the non-existent Presidential Foreign Intervention Promotion Council, PFIPC, Mr Adeniyi Adeyemi, to atte…
+### HOMICIDE on 2026-07-06 03:30
+- Location: Freerepublic.com
+- Description: New similarities have emerged between the Thai teenager whose body was found in a suitcase and two cold case murders involving women who suffered the same fate. Tunchanok Donhomla, 17, was allegedly beaten and strangled before her body was hidden in the black…
 
-Analysis generated at: Tue Jul  7 02:32:15 UTC 2026
+
+### ASSAULT on 2026-07-06 02:57
+- Location: New York Post
+- Description: Kevin Maxwell, 37, was cuffed just before 1 a.m. on Sunday for allegedly assaulting a 12-year-old boy near a playground at the NYCHA Baruch Houses on the Lower East Side on April 29.
+
+
+### SHOOTING on 2026-07-06 02:41
+- Location: HuffPost
+- Description: The Guard members are part of a federal task force in Memphis created by President Donald Trump.
+
+Analysis generated at: Tue Jul  7 03:51:59 UTC 2026
