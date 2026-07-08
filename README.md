@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Jul  8 03:19:12 UTC 2026
+Last updated: Wed Jul  8 08:16:47 UTC 2026
 
 ## Latest Analysis
 
-Loaded 116395 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-07 03:16:06
+Loaded 116422 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-07 08:00:00
 
 Incidents by source:
 source
-newsapi           116294
+newsapi           116321
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-07-07 03:16
-- Location: Israelnationalnews.com
-- Description: Utah court hears testimony describing a rooftop sniper position on the opening day of the preliminary murder hearing for Charlie Kirk’s accused assassin.
+### HOMICIDE on 2026-07-07 08:00
+- Location: CBC News
+- Description: A man pleaded guilty last month to killing his four-month-old daughter and was sentenced to 10 years in prison. With credit for time he's already spent in jail, Ahmed Mashkor has about seven years left to serve.
 
 
-### ROBBERY/THEFT on 2026-07-07 03:08
+### HOMICIDE on 2026-07-07 07:43
 - Location: The Times of India
-- Description: An accused in the Ram temple donation case admitted spending nineteen lakh rupees. He gave six lakh rupees for a brother's wedding and five lakh to another. A car worth three and a half lakh rupees was also purchased and recovered. Investigators are examining…
+- Description: Former CM Mamata Banerjee joined a candlelight march protesting a minor's rape-murder in Baruipur. A Trinamool delegation met the victim's parents and demanded the accused's immediate arrest. Rebel TMC MPs expressed faith in CM Suvendu Adhikari for delivering…
 
 
-### OTHER on 2026-07-07 03:00
-- Location: ComputerWeekly.com
-- Description: Migration campaign group Front-Lex has filed a complaint to Europe’s data protection watchdog, calling for a ban on Europol’s data processing operations that do not comply with EU law, following an investigation by Computer Weekly, Solomon and Correctiv
-
-
-### HOMICIDE on 2026-07-07 02:44
-- Location: Dailymail.com
-- Description: Gasps echoed through a courtroom as a former police officer was bailed over bombshell allegations.
-
-
-### ASSAULT on 2026-07-07 02:41
+### ROBBERY/THEFT on 2026-07-07 07:25
 - Location: ABC News (AU)
-- Description: South Australia's premier says he is appalled by an amateur children's "fight club", while the state's police minister says people who post videos of the fights online may face legal action on top of the participants in the bouts.
+- Description: Security staff restrain a suspect during an alleged assault and robbery at a bottle shop in Hobart's north.
 
-Analysis generated at: Wed Jul  8 03:19:12 UTC 2026
+
+### OTHER on 2026-07-07 07:15
+- Location: Rediff.com
+- Description: From Mollywood Times to Mohiniyattam, these black comedies from South Cinema prove that the darkest humour can also deliver the sharpest entertainment.
+
+
+### HOMICIDE on 2026-07-07 07:12
+- Location: Dailymail.com
+- Description: Plumber Darcy Jenson didn't step inside the holiday home in Bali last year where Zivan Radmanovic, 32, was killed.
+
+Analysis generated at: Wed Jul  8 08:16:47 UTC 2026
