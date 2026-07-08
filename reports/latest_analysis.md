@@ -1,10 +1,10 @@
 
-Loaded 116387 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-07 02:00:00
+Loaded 116395 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-07 03:16:06
 
 Incidents by source:
 source
-newsapi           116286
+newsapi           116294
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-07-07 02:00
-- Location: POLITICO.eu
-- Description: The European lawmaker was charged for sharing a quote attributed to the author of a 1972 mass killing in Israel.
+### HOMICIDE on 2026-07-07 03:16
+- Location: Israelnationalnews.com
+- Description: Utah court hears testimony describing a rooftop sniper position on the opening day of the preliminary murder hearing for Charlie Kirk’s accused assassin.
 
 
-### OTHER on 2026-07-07 01:53
-- Location: New York Post
-- Description: Opinion pieces have an important role in shaping public debate. But that debate should be grounded in facts. Safety is not a new priority for Metro. Since Stephanie Wiggins was named CEO five years ago, Metro has recognized that public safety must be the foun…
+### ROBBERY/THEFT on 2026-07-07 03:08
+- Location: The Times of India
+- Description: An accused in the Ram temple donation case admitted spending nineteen lakh rupees. He gave six lakh rupees for a brother's wedding and five lakh to another. A car worth three and a half lakh rupees was also purchased and recovered. Investigators are examining…
 
 
-### HOMICIDE on 2026-07-07 01:10
-- Location: Newser
-- Description: An Idaho mother who publicly blamed routine immunizations for the sudden deaths of her 18-month-old twins is now accused of killing them. Andrea Shaw, 23, has been indicted by a grand jury on two counts of first-degree murder in the May 2025 deaths of Tyson a…
+### OTHER on 2026-07-07 03:00
+- Location: ComputerWeekly.com
+- Description: Migration campaign group Front-Lex has filed a complaint to Europe’s data protection watchdog, calling for a ban on Europol’s data processing operations that do not comply with EU law, following an investigation by Computer Weekly, Solomon and Correctiv
 
 
-### OTHER on 2026-07-07 01:05
+### HOMICIDE on 2026-07-07 02:44
+- Location: Dailymail.com
+- Description: Gasps echoed through a courtroom as a former police officer was bailed over bombshell allegations.
+
+
+### ASSAULT on 2026-07-07 02:41
 - Location: ABC News (AU)
-- Description: The Cherbourg Aboriginal Shire Council releases a video to the community saying "enough is enough" after local teenagers are charged for vandalising the cemetery.
+- Description: South Australia's premier says he is appalled by an amateur children's "fight club", while the state's police minister says people who post videos of the fights online may face legal action on top of the participants in the bouts.
 
-
-### SHOOTING on 2026-07-07 01:03
-- Location: Abcnews.com
-- Description: Authorities say the guardsmen shot the man when he pointed a firearm at them.
-
-Analysis generated at: Wed Jul  8 02:06:47 UTC 2026
+Analysis generated at: Wed Jul  8 03:19:12 UTC 2026
