@@ -1,10 +1,10 @@
 
-Loaded 116494 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-07 13:50:06
+Loaded 116503 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-07 14:04:05
 
 Incidents by source:
 source
-newsapi           116393
+newsapi           116402
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,31 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-07-07 13:50
+### OTHER on 2026-07-07 14:04
 - Location: The Times of India
-- Description: Udupi livestock drops 23% in 5 years; Byndoor MLA urges study, medicine availability, wider insurance for cows, and action on 70% staff shortage.
+- Description: Tamil Nadu to mandate anywhere digital registration for first sale of plots and flats from Aug 17, enabling online Aadhaar/biometric verification and same-day documents.
 
 
-### ROBBERY/THEFT on 2026-07-07 13:49
-- Location: Dailymail.com
-- Description: More video evidence is expect in day two of the key preliminary hearing of Charlie Kirk's alleged assassin, including a recorded statement from from his transgender lover.
-
-
-### OTHER on 2026-07-07 13:48
+### OTHER on 2026-07-07 14:00
 - Location: The Times of India
-- Description: Yakshagana team launches in the Netherlands as “Yaksha Natya Vaibhava” draws 200+; artistes from Netherlands and Germany debut “Vidhi – Chandrahasa Charitre.”
+- Description: Yathindra Siddaramaiah inspects Mysuru flyover works near Manipal Hospital, urges quality and timely completion, safety compliance, and traffic management plan.
 
 
-### SHOOTING on 2026-07-07 13:47
-- Location: Dailymail.com
-- Description: Tayvon Etefia drove a high-powered electric dirt bike through Enfield, north London, while Emmanuel Popoola fatally shot Keanu Harker in the head and chest with a pistol on June 26 last year.
+### SHOOTING on 2026-07-07 14:00
+- Location: Thegatewaypundit.com
+- Description: A video shooting around on social media right now shows members of the Democratic Socialists of America (DSA), describing the goals of their movement and it tells you everything you need to know about them.
+The post TERRIFYING: Watch These DSA Members Describ…
 
 
-### HOMICIDE on 2026-07-07 13:46
-- Location: Forbes
-- Description: Netflix has just added a 100% Rotten Tomatoes scored show season to its roster, a must-watched for murder mystery fans in particular.
+### ROBBERY/THEFT on 2026-07-07 13:58
+- Location: The Times of India
+- Description: Ujjain sanitation worker dies after toxic gas exposure in sewage chamber; two in ICU. UMC seeks FIR against contractor, orders probe and Rs 30 lakh aid.
 
-Analysis generated at: Wed Jul  8 13:50:25 UTC 2026
+
+### DRUG RELATED on 2026-07-07 13:57
+- Location: BusinessLine
+- Description: India banned e-cigarettes and approved certain nicotine
+replacements like patches and chewing gums following a
+registration process under the Drugs and Cosmetics ‌Act
+
+Analysis generated at: Wed Jul  8 14:26:33 UTC 2026
