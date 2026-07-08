@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Jul  8 08:16:47 UTC 2026
+Last updated: Wed Jul  8 13:50:25 UTC 2026
 
 ## Latest Analysis
 
-Loaded 116422 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-07 08:00:00
+Loaded 116494 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-07 13:50:06
 
 Incidents by source:
 source
-newsapi           116321
+newsapi           116393
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-07-07 08:00
-- Location: CBC News
-- Description: A man pleaded guilty last month to killing his four-month-old daughter and was sentenced to 10 years in prison. With credit for time he's already spent in jail, Ahmed Mashkor has about seven years left to serve.
-
-
-### HOMICIDE on 2026-07-07 07:43
+### OTHER on 2026-07-07 13:50
 - Location: The Times of India
-- Description: Former CM Mamata Banerjee joined a candlelight march protesting a minor's rape-murder in Baruipur. A Trinamool delegation met the victim's parents and demanded the accused's immediate arrest. Rebel TMC MPs expressed faith in CM Suvendu Adhikari for delivering…
+- Description: Udupi livestock drops 23% in 5 years; Byndoor MLA urges study, medicine availability, wider insurance for cows, and action on 70% staff shortage.
 
 
-### ROBBERY/THEFT on 2026-07-07 07:25
-- Location: ABC News (AU)
-- Description: Security staff restrain a suspect during an alleged assault and robbery at a bottle shop in Hobart's north.
-
-
-### OTHER on 2026-07-07 07:15
-- Location: Rediff.com
-- Description: From Mollywood Times to Mohiniyattam, these black comedies from South Cinema prove that the darkest humour can also deliver the sharpest entertainment.
-
-
-### HOMICIDE on 2026-07-07 07:12
+### ROBBERY/THEFT on 2026-07-07 13:49
 - Location: Dailymail.com
-- Description: Plumber Darcy Jenson didn't step inside the holiday home in Bali last year where Zivan Radmanovic, 32, was killed.
+- Description: More video evidence is expect in day two of the key preliminary hearing of Charlie Kirk's alleged assassin, including a recorded statement from from his transgender lover.
 
-Analysis generated at: Wed Jul  8 08:16:47 UTC 2026
+
+### OTHER on 2026-07-07 13:48
+- Location: The Times of India
+- Description: Yakshagana team launches in the Netherlands as “Yaksha Natya Vaibhava” draws 200+; artistes from Netherlands and Germany debut “Vidhi – Chandrahasa Charitre.”
+
+
+### SHOOTING on 2026-07-07 13:47
+- Location: Dailymail.com
+- Description: Tayvon Etefia drove a high-powered electric dirt bike through Enfield, north London, while Emmanuel Popoola fatally shot Keanu Harker in the head and chest with a pistol on June 26 last year.
+
+
+### HOMICIDE on 2026-07-07 13:46
+- Location: Forbes
+- Description: Netflix has just added a 100% Rotten Tomatoes scored show season to its roster, a must-watched for murder mystery fans in particular.
+
+Analysis generated at: Wed Jul  8 13:50:25 UTC 2026
