@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Jul  7 19:48:17 UTC 2026
+Last updated: Wed Jul  8 02:06:47 UTC 2026
 
 ## Latest Analysis
 
-Loaded 116370 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-06 19:46:15
+Loaded 116387 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-07 02:00:00
 
 Incidents by source:
 source
-newsapi           116269
+newsapi           116286
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-07-06 19:46
-- Location: The Conversation Africa
-- Description: Musquito’s life and death can be read through the lens of a history of invasion and resistance. Or of the difficulties of being placed between two worlds.
+### HOMICIDE on 2026-07-07 02:00
+- Location: POLITICO.eu
+- Description: The European lawmaker was charged for sharing a quote attributed to the author of a 1972 mass killing in Israel.
 
 
-### ROBBERY/THEFT on 2026-07-06 19:42
-- Location: The Times of India
-- Description: Ayodhya Police may seek narco-analysis and polygraph tests on five jailed donation theft accused to trace money trail, probe wider conspiracy and possible senior links.
+### OTHER on 2026-07-07 01:53
+- Location: New York Post
+- Description: Opinion pieces have an important role in shaping public debate. But that debate should be grounded in facts. Safety is not a new priority for Metro. Since Stephanie Wiggins was named CEO five years ago, Metro has recognized that public safety must be the foun…
 
 
-### HOMICIDE on 2026-07-06 19:39
-- Location: Protothema.gr
-- Description: Prosecutors are seeking the death penalty for 23-year-old Tyler Robinson
-The post Charlie Kirk’s family comes face to face in court with man that murdered him appeared first on ProtoThema English.
+### HOMICIDE on 2026-07-07 01:10
+- Location: Newser
+- Description: An Idaho mother who publicly blamed routine immunizations for the sudden deaths of her 18-month-old twins is now accused of killing them. Andrea Shaw, 23, has been indicted by a grand jury on two counts of first-degree murder in the May 2025 deaths of Tyson a…
 
 
-### OTHER on 2026-07-06 19:34
-- Location: Fox News
-- Description: Experts say Erdoğan's defining trait isn't Islamism or nationalism but political survival, as Trump calls Turkey's leader "a friend" ahead of NATO summit.
+### OTHER on 2026-07-07 01:05
+- Location: ABC News (AU)
+- Description: The Cherbourg Aboriginal Shire Council releases a video to the community saying "enough is enough" after local teenagers are charged for vandalising the cemetery.
 
 
-### HOMICIDE on 2026-07-06 19:33
-- Location: Dailymail.com
-- Description: The boy, who can not be named for legal reasons, pleaded not guilty guilty after attempting to murder Vicki Williams at Milford Comprehensive School in Wales on February 5.
+### SHOOTING on 2026-07-07 01:03
+- Location: Abcnews.com
+- Description: Authorities say the guardsmen shot the man when he pointed a firearm at them.
 
-Analysis generated at: Tue Jul  7 19:48:17 UTC 2026
+Analysis generated at: Wed Jul  8 02:06:47 UTC 2026
