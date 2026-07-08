@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Jul  8 14:26:33 UTC 2026
+Last updated: Wed Jul  8 19:16:55 UTC 2026
 
 ## Latest Analysis
 
-Loaded 116503 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-07 14:04:05
+Loaded 116600 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-07 19:15:52
 
 Incidents by source:
 source
-newsapi           116402
+newsapi           116499
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,31 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-07-07 14:04
+### OTHER on 2026-07-07 19:15
 - Location: The Times of India
-- Description: Tamil Nadu to mandate anywhere digital registration for first sale of plots and flats from Aug 17, enabling online Aadhaar/biometric verification and same-day documents.
+- Description: Pune, PCMC areas face persistent power cuts amid rains; Ravet, Kiwale protest as societies in Pimple Saudagar, Rahatni report 12+ hour outages.
 
 
-### OTHER on 2026-07-07 14:00
+### SHOOTING on 2026-07-07 19:14
+- Location: Daily Hive
+- Description: B.C. is looking at a path to take legal action against OpenAI due to the connection between the mass shooting that took place at Tumbler Ridge Secondary School and ChatGPT. Earlier this year, on Feb. 10, an 18-year-old shooter took the lives of eight people a…
+
+
+### OTHER on 2026-07-07 19:14
 - Location: The Times of India
-- Description: Yathindra Siddaramaiah inspects Mysuru flyover works near Manipal Hospital, urges quality and timely completion, safety compliance, and traffic management plan.
+- Description: Panchkula roads remain riddled with potholes and craters as monsoon begins, despite mayor’s “immediate patch works” promise; residents face delays till September.
 
 
-### SHOOTING on 2026-07-07 14:00
-- Location: Thegatewaypundit.com
-- Description: A video shooting around on social media right now shows members of the Democratic Socialists of America (DSA), describing the goals of their movement and it tells you everything you need to know about them.
-The post TERRIFYING: Watch These DSA Members Describ…
-
-
-### ROBBERY/THEFT on 2026-07-07 13:58
+### OTHER on 2026-07-07 19:14
 - Location: The Times of India
-- Description: Ujjain sanitation worker dies after toxic gas exposure in sewage chamber; two in ICU. UMC seeks FIR against contractor, orders probe and Rs 30 lakh aid.
+- Description: Vadodara DCB arrested two women for stealing an Rs 83,000 gold necklace; suspects nabbed on Harni Road, necklace recovered, one has 11 prior cases.
 
 
-### DRUG RELATED on 2026-07-07 13:57
-- Location: BusinessLine
-- Description: India banned e-cigarettes and approved certain nicotine
-replacements like patches and chewing gums following a
-registration process under the Drugs and Cosmetics ‌Act
+### ROBBERY/THEFT on 2026-07-07 19:14
+- Location: The Times of India
+- Description: Gujarat HC upholds 2008 Ahmedabad blasts verdict as probe details emerge: SIMs activated together then deactivated, fake IDs, hideouts and forensic links.
 
-Analysis generated at: Wed Jul  8 14:26:33 UTC 2026
+Analysis generated at: Wed Jul  8 19:16:55 UTC 2026
