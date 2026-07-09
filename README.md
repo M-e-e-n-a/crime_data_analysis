@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Jul  9 09:29:31 UTC 2026
+Last updated: Thu Jul  9 14:44:20 UTC 2026
 
 ## Latest Analysis
 
-Loaded 116681 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-08 09:17:00
+Loaded 116775 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-08 14:35:43
 
 Incidents by source:
 source
-newsapi           116580
+newsapi           116674
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-07-08 09:17
-- Location: LancasterOnline
-- Description: When a Lancaster County detective asked John Stoltzfus how he killed four unwanted Sheepadoodle puppies in October 2023, he told them, “We have a way of doing it. We took good care of them,” according to charging documents.
-
-
-### SHOOTING on 2026-07-08 09:15
-- Location: Associated Press
-- Description: Attorney General Says Province Considering Legal Action Against Tech Giant in Pursuit of Justice Over Tumbler Ridge Secondary School Shooting
-
-
-### OTHER on 2026-07-08 09:14
-- Location: The Times of India
-- Description: A private bank reported to the Calcutta High Court regarding frozen Trinamool Congress accounts. The court adjourned the hearing after noting the solicitor general's personal difficulty. The Mamata Banerjee-led faction challenged the debit freeze of three par…
-
-
-### HOMICIDE on 2026-07-08 09:11
-- Location: C21media.net
-- Description: NEWS BRIEF: Prime Video UK & Ireland will air a true crime documentary from UK indie Woodcut Media about a woman who was murdered in Bournemouth in 2002. Currently in production for release later t...
-
-
-### HOMICIDE on 2026-07-08 09:01
+### HOMICIDE on 2026-07-08 14:35
 - Location: Dailymail.com
-- Description: Officers made the grisly discovery of the bodies of a woman and two children yesterday in Great Denham, near Bedford, where homes cost an average of £935,000.
+- Description: A mother-of-two was fatally stabbed in her home at about 10pm on Tuesday. Her husband was arrested at the scene and taken to hospital under police guard.
 
-Analysis generated at: Thu Jul  9 09:29:31 UTC 2026
+
+### ASSAULT on 2026-07-08 14:33
+- Location: The Atlantic
+- Description: In the DSA era, liberals need to remember their history and fight for their values.
+
+
+### SHOOTING on 2026-07-08 14:33
+- Location: Dailymail.com
+- Description: Martyn Blake shot 24-year-old Chris Kaba in the head after he drove towards officers in an attempt to smash through a roadblock in Streatham, south London, in September 2022.
+
+
+### HOMICIDE on 2026-07-08 14:30
+- Location: Abcnews.com
+- Description: A Berlin court has convicted and sentenced a German doctor to life in prison on charges of murdering 15 of his patients who were under palliative care
+
+
+### ROBBERY/THEFT on 2026-07-08 14:30
+- Location: The Daily Hodl
+- Description: A Rosemead resident is now in custody after allegedly posing as a McAfee Security representative to steal tens of thousands of dollars in cash from a 70-year-old Camarillo man. The victim says he reported the theft to police in May 2026 after receiving a phon…
+
+Analysis generated at: Thu Jul  9 14:44:20 UTC 2026
