@@ -1,10 +1,10 @@
 
-Loaded 116622 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-08 03:35:20
+Loaded 116681 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-08 09:17:00
 
 Incidents by source:
 source
-newsapi           116521
+newsapi           116580
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-07-08 03:35
-- Location: Borderlandbeat.com
-- Description: "Socalj" for Borderland Beat  Los Angeles federal agents led a global operation targeting of the India-based Bishnoi Gang, known for extorti...
+### HOMICIDE on 2026-07-08 09:17
+- Location: LancasterOnline
+- Description: When a Lancaster County detective asked John Stoltzfus how he killed four unwanted Sheepadoodle puppies in October 2023, he told them, “We have a way of doing it. We took good care of them,” according to charging documents.
 
 
-### OTHER on 2026-07-08 03:29
-- Location: Screen Rant
-- Description: Dutton Ranch just wrapped its wildly successful first season. Annette Bening addresses the possibility of her spinoff running as long as Yellowstone.
+### SHOOTING on 2026-07-08 09:15
+- Location: Associated Press
+- Description: Attorney General Says Province Considering Legal Action Against Tech Giant in Pursuit of Justice Over Tumbler Ridge Secondary School Shooting
 
 
-### ROBBERY/THEFT on 2026-07-08 03:10
-- Location: Dailymail.com
-- Description: Arnold, 23, was cut by Detroit on June 29 after it emerged he is the alleged mastermind of a kidnapping and armed robbery plot, for which he is facing a life sentence.
-
-
-### HOMICIDE on 2026-07-08 02:35
+### OTHER on 2026-07-08 09:14
 - Location: The Times of India
-- Description: US authorities have charged Lawrence Bishnoi and Goldy Brar for ordering Nijjar's assassination. This action is part of a larger operation targeting transnational crime groups. Law enforcement agencies arrested twenty-four individuals connected to these crimi…
+- Description: A private bank reported to the Calcutta High Court regarding frozen Trinamool Congress accounts. The court adjourned the hearing after noting the solicitor general's personal difficulty. The Mamata Banerjee-led faction challenged the debit freeze of three par…
 
 
-### SHOOTING on 2026-07-08 02:32
-- Location: Lifesciencesworld.com
-- Description: Can I Shoot a Coyote on My Property in Michigan? Understanding Your Rights Can I shoot a coyote on my property in Michigan? Generally, yes, you can, but there are regulations and restrictions. It’s crucial to understand these laws to ensure you act legally an…
+### HOMICIDE on 2026-07-08 09:11
+- Location: C21media.net
+- Description: NEWS BRIEF: Prime Video UK & Ireland will air a true crime documentary from UK indie Woodcut Media about a woman who was murdered in Bournemouth in 2002. Currently in production for release later t...
 
-Analysis generated at: Thu Jul  9 03:43:39 UTC 2026
+
+### HOMICIDE on 2026-07-08 09:01
+- Location: Dailymail.com
+- Description: Officers made the grisly discovery of the bodies of a woman and two children yesterday in Great Denham, near Bedford, where homes cost an average of £935,000.
+
+Analysis generated at: Thu Jul  9 09:29:31 UTC 2026
