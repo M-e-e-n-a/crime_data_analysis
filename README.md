@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Jul  8 19:16:55 UTC 2026
+Last updated: Thu Jul  9 02:25:26 UTC 2026
 
 ## Latest Analysis
 
-Loaded 116600 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-07 19:15:52
+Loaded 116616 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-08 02:15:00
 
 Incidents by source:
 source
-newsapi           116499
+newsapi           116515
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,30 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-07-07 19:15
+### OTHER on 2026-07-08 02:15
+- Location: Peoplesreview.com.np
+- Description: KATHMANDU, July 7: The Kathmandu District Court on Tuesday convicted 23 people, including former Deputy Prime Minister Top Bahadur Rayamajhi, former Home Minister Bal Krishna Khand, and former Home Secretary Tek Narayan Pandey, in the high-profile fake Bhutan…
+
+
+### HOMICIDE on 2026-07-08 02:14
+- Location: Freerepublic.com
+- Description: A suspected illegal immigrant who tried to run down an Immigration and Customs Enforcement officer in Houston on Tuesday morning was shot dead by the agent. ICE said the incident took place at about 6:50 a.m. Central Time, when ICE agents tried to stop a vehi…
+
+
+### OTHER on 2026-07-08 02:08
+- Location: The Punch
+- Description: Delta State Police Commissioner meets with Oghara monarch and stakeholders to address rising kidnappings, cultism, and insecurity in the Ethiope West LGA.
+
+Read More: https://punchng.com/police-meet-delta-monarch-others-over-rising-kidnappings/
+
+
+### OTHER on 2026-07-08 02:03
 - Location: The Times of India
-- Description: Pune, PCMC areas face persistent power cuts amid rains; Ravet, Kiwale protest as societies in Pimple Saudagar, Rahatni report 12+ hour outages.
+- Description: The FBI is offering a fifty thousand dollar reward for information leading to Goldy Brar's arrest. He is wanted for alleged involvement with the Lawrence Bishnoi organized crime group. This group is accused of various violent acts across North America and bey…
 
 
-### SHOOTING on 2026-07-07 19:14
-- Location: Daily Hive
-- Description: B.C. is looking at a path to take legal action against OpenAI due to the connection between the mass shooting that took place at Tumbler Ridge Secondary School and ChatGPT. Earlier this year, on Feb. 10, an 18-year-old shooter took the lives of eight people a…
+### HOMICIDE on 2026-07-08 02:00
+- Location: New Zealand Herald
+- Description: Inside the crimes of James Wilson, the biker killer cleared of the Red Fox Tavern murder.
 
-
-### OTHER on 2026-07-07 19:14
-- Location: The Times of India
-- Description: Panchkula roads remain riddled with potholes and craters as monsoon begins, despite mayor’s “immediate patch works” promise; residents face delays till September.
-
-
-### OTHER on 2026-07-07 19:14
-- Location: The Times of India
-- Description: Vadodara DCB arrested two women for stealing an Rs 83,000 gold necklace; suspects nabbed on Harni Road, necklace recovered, one has 11 prior cases.
-
-
-### ROBBERY/THEFT on 2026-07-07 19:14
-- Location: The Times of India
-- Description: Gujarat HC upholds 2008 Ahmedabad blasts verdict as probe details emerge: SIMs activated together then deactivated, fake IDs, hideouts and forensic links.
-
-Analysis generated at: Wed Jul  8 19:16:55 UTC 2026
+Analysis generated at: Thu Jul  9 02:25:26 UTC 2026
