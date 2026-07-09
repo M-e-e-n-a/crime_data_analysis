@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Jul  9 02:25:26 UTC 2026
+Last updated: Thu Jul  9 03:43:39 UTC 2026
 
 ## Latest Analysis
 
-Loaded 116616 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-08 02:15:00
+Loaded 116622 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-08 03:35:20
 
 Incidents by source:
 source
-newsapi           116515
+newsapi           116521
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,30 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-07-08 02:15
-- Location: Peoplesreview.com.np
-- Description: KATHMANDU, July 7: The Kathmandu District Court on Tuesday convicted 23 people, including former Deputy Prime Minister Top Bahadur Rayamajhi, former Home Minister Bal Krishna Khand, and former Home Secretary Tek Narayan Pandey, in the high-profile fake Bhutan…
+### OTHER on 2026-07-08 03:35
+- Location: Borderlandbeat.com
+- Description: "Socalj" for Borderland Beat  Los Angeles federal agents led a global operation targeting of the India-based Bishnoi Gang, known for extorti...
 
 
-### HOMICIDE on 2026-07-08 02:14
-- Location: Freerepublic.com
-- Description: A suspected illegal immigrant who tried to run down an Immigration and Customs Enforcement officer in Houston on Tuesday morning was shot dead by the agent. ICE said the incident took place at about 6:50 a.m. Central Time, when ICE agents tried to stop a vehi…
+### OTHER on 2026-07-08 03:29
+- Location: Screen Rant
+- Description: Dutton Ranch just wrapped its wildly successful first season. Annette Bening addresses the possibility of her spinoff running as long as Yellowstone.
 
 
-### OTHER on 2026-07-08 02:08
-- Location: The Punch
-- Description: Delta State Police Commissioner meets with Oghara monarch and stakeholders to address rising kidnappings, cultism, and insecurity in the Ethiope West LGA.
-
-Read More: https://punchng.com/police-meet-delta-monarch-others-over-rising-kidnappings/
+### ROBBERY/THEFT on 2026-07-08 03:10
+- Location: Dailymail.com
+- Description: Arnold, 23, was cut by Detroit on June 29 after it emerged he is the alleged mastermind of a kidnapping and armed robbery plot, for which he is facing a life sentence.
 
 
-### OTHER on 2026-07-08 02:03
+### HOMICIDE on 2026-07-08 02:35
 - Location: The Times of India
-- Description: The FBI is offering a fifty thousand dollar reward for information leading to Goldy Brar's arrest. He is wanted for alleged involvement with the Lawrence Bishnoi organized crime group. This group is accused of various violent acts across North America and bey…
+- Description: US authorities have charged Lawrence Bishnoi and Goldy Brar for ordering Nijjar's assassination. This action is part of a larger operation targeting transnational crime groups. Law enforcement agencies arrested twenty-four individuals connected to these crimi…
 
 
-### HOMICIDE on 2026-07-08 02:00
-- Location: New Zealand Herald
-- Description: Inside the crimes of James Wilson, the biker killer cleared of the Red Fox Tavern murder.
+### SHOOTING on 2026-07-08 02:32
+- Location: Lifesciencesworld.com
+- Description: Can I Shoot a Coyote on My Property in Michigan? Understanding Your Rights Can I shoot a coyote on my property in Michigan? Generally, yes, you can, but there are regulations and restrictions. It’s crucial to understand these laws to ensure you act legally an…
 
-Analysis generated at: Thu Jul  9 02:25:26 UTC 2026
+Analysis generated at: Thu Jul  9 03:43:39 UTC 2026
