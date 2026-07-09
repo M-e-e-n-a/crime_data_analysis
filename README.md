@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Jul  9 14:44:20 UTC 2026
+Last updated: Thu Jul  9 15:20:53 UTC 2026
 
 ## Latest Analysis
 
-Loaded 116775 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-08 14:35:43
+Loaded 116791 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-08 15:20:00
 
 Incidents by source:
 source
-newsapi           116674
+newsapi           116690
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-07-08 14:35
+### OTHER on 2026-07-08 15:20
+- Location: BroBible
+- Description: A Little League president in Las Vegas, Nevada, allegedly spent almost $65,000 of the organization’s money on casinos and other personal expenses. According to the Las Vegas Metro Police Department, authorities took the former president of Central Little Leag…
+
+
+### HOMICIDE on 2026-07-08 15:16
 - Location: Dailymail.com
-- Description: A mother-of-two was fatally stabbed in her home at about 10pm on Tuesday. Her husband was arrested at the scene and taken to hospital under police guard.
+- Description: A cruel campaign against the hero doctor who helped put away evil mushroom cook Erin Patterson has left him broken and penniless.
 
 
-### ASSAULT on 2026-07-08 14:33
-- Location: The Atlantic
-- Description: In the DSA era, liberals need to remember their history and fight for their values.
+### OTHER on 2026-07-08 15:14
+- Location: Freerepublic.com
+- Description: The socialist wave has already crashed well beyond New York City. Now the Democratic Socialists of America is even taking swings at swing states. The latest far-left darling is Francesca Hong, a leading candidate to win the Democrat primary in the Wisconsin g…
 
 
-### SHOOTING on 2026-07-08 14:33
-- Location: Dailymail.com
-- Description: Martyn Blake shot 24-year-old Chris Kaba in the head after he drove towards officers in an attempt to smash through a roadblock in Streatham, south London, in September 2022.
+### OTHER on 2026-07-08 15:06
+- Location: Reason
+- Description: Prosecutors framed the case as a blow against cartels, but the defendants were accused of running massage parlors where prostitution occurred.
 
 
-### HOMICIDE on 2026-07-08 14:30
-- Location: Abcnews.com
-- Description: A Berlin court has convicted and sentenced a German doctor to life in prison on charges of murdering 15 of his patients who were under palliative care
+### SHOOTING on 2026-07-08 15:02
+- Location: Fox News
+- Description: Rep. Delia Ramirez called DHS the "greatest threat to our safety" after an ICE officer fatally shot an illegal alien during a Houston operation.
 
-
-### ROBBERY/THEFT on 2026-07-08 14:30
-- Location: The Daily Hodl
-- Description: A Rosemead resident is now in custody after allegedly posing as a McAfee Security representative to steal tens of thousands of dollars in cash from a 70-year-old Camarillo man. The victim says he reported the theft to police in May 2026 after receiving a phon…
-
-Analysis generated at: Thu Jul  9 14:44:20 UTC 2026
+Analysis generated at: Thu Jul  9 15:20:53 UTC 2026
