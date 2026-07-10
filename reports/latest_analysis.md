@@ -1,10 +1,10 @@
 
-Loaded 117038 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-09 14:33:46
+Loaded 117131 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-09 19:17:06
 
 Incidents by source:
 source
-newsapi           116937
+newsapi           117030
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-07-09 14:33
+### OTHER on 2026-07-09 19:17
+- Location: The Times of India
+- Description: Ahmedabad crime branch arrested three men carrying sharp weapons during Jagannath Rath Yatra route patrol; booked under Gujarat Police Act for nuisance.
+
+
+### OTHER on 2026-07-09 19:17
+- Location: The Times of India
+- Description: Nagpur police raided a Gopal Nagar spa posing as a massage parlour, rescued two women, and arrested owner Somesh Mandle for running a flesh trade racket.
+
+
+### HOMICIDE on 2026-07-09 19:14
+- Location: Freerepublic.com
+- Description: K9 Police Service Dog (K9 PSD) Vethos of the Junction City Police Department (JCPD), who passed away while on duty on Monday, July 6, 2026, was found unresponsive in a K9-equipped patrol vehicle. Preliminary findings indicate the cause of death was heat expos…
+
+
+### HOMICIDE on 2026-07-09 19:14
+- Location: Fox News
+- Description: Jamey Carney, a 43-year-old New Yorker living in Killarney, was found dead as Irish police launch an international manhunt for a person of interest.
+
+
+### HOMICIDE on 2026-07-09 19:08
 - Location: Dailymail.com
-- Description: Prosecutors are expected to today play an audio recording of the interview Lance Twiggs, 23, Robinson's transgender roommate and lover, gave to police about Kirk's September 10 murder.
+- Description: Lilly Jones, 14, was discovered hidden in undergrowth 500 yards from her home in Blaina in Gwent, Wales three days after she was reported missing.
 
-
-### OTHER on 2026-07-09 14:30
-- Location: Variety
-- Description: It’s a “Task” and “Mare of Easttown” crossover. Julianne Nicholson has joined Season 2 of the HBO detective drama, reprising her Emmy-winning role as Lori Ross, the mother of three children who lives in Easttown. While, until now, “Task” was not directly conn…
-
-
-### ROBBERY/THEFT on 2026-07-09 14:25
-- Location: Seobook.com
-- Description: Have you ever got arrested because a sadistic & malevolent psychopath tied in with organized crime has stolen millions from your family, hacked your wife's computers, was torturing your spouse, claimed to be your secret sidepiece whore lover, and was claiming…
-
-
-### OTHER on 2026-07-09 14:20
-- Location: Daily Signal
-- Description: Movies work like a cultural seismograph: They record public anxiety before politicians get around to admitting it exists. This year’s “Citizen Vigilante” is set in Europe, but the reaction to it belongs in a Washington conversation. Germany’s censors banned t…
-
-
-### OTHER on 2026-07-09 14:18
-- Location: The Conversation Africa
-- Description: At the time, many people personally identified with Ellis and her experiences of abuse.
-
-Analysis generated at: Fri Jul 10 14:38:59 UTC 2026
+Analysis generated at: Fri Jul 10 19:21:27 UTC 2026
