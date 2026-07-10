@@ -1,10 +1,10 @@
 
-Loaded 116910 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-09 03:17:54
+Loaded 116954 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-09 09:21:54
 
 Incidents by source:
 source
-newsapi           116809
+newsapi           116853
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,68 +20,37 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-07-09 03:17
-- Location: New York Post
-- Description: FBI agents uncovered the squalid conditions while at the home to execute a search warrant over terroristic threats made against the White House, a source told WPVI.
+### OTHER on 2026-07-09 09:21
+- Location: Decrypt
+- Description: The two Thai arrests were part of Operation First Light, a 97-country sweep that logged 5,811 arrests and intercepted $293 million.
 
 
-### OTHER on 2026-07-09 03:15
-- Location: Borderlandbeat.com
-- Description: "Sol Prendido" for Borderland Beat  Thank you. Now, Counselor—I greeted you before the interview started—Attorney Gerardo Rincón, lawyer fo...
+### OTHER on 2026-07-09 09:13
+- Location: The Times of India
+- Description: Uttar Pradesh Chief Minister Yogi Adityanath highlighted Bundelkhand's transformation. He contrasted past SP and Congress rule with current BJP development initiatives. The region now boasts infrastructure and a Defence Industrial Corridor. Advanced weapon sy…
 
 
-### HOMICIDE on 2026-07-09 03:00
-- Location: Medical Daily
-- Description: An Idaho mother was indicted June 29 on two counts of first-degree murder after prosecutors say she suffocated her 18-month-old twins. Court date is July 14.
+### OTHER on 2026-07-09 09:12
+- Location: BBC News
+- Description: The tech company is suing the London Mayor's Office for Policing and Crime over a rejected contract.
 
 
-### OTHER on 2026-07-09 03:00
-- Location: Human Rights Watch
-- Description: Click to expand Image
- 
+### OTHER on 2026-07-09 09:00
+- Location: ABC News (AU)
+- Description: Police are searching for a 30-year-old woman who was last seen in Toowoomba on Tuesday.
 
 
-
- 
- 
- 
-
- 
- 
- 
- 
- Protesters gather outside the Georgian parliament in Tbilisi, Georgia, on May 26, 2026.
- © 2026 Sebastien Canaud/NurPhoto via AP Photo
- 
- 
-
-
- 
-Georgian authorities are using repressive laws, funding restrictions, and…
-
-
-### OTHER on 2026-07-09 03:00
-- Location: Human Rights Watch
-- Description: Click to expand Image
- 
+### OTHER on 2026-07-09 09:00
+- Location: Thenation.com
+- Description: Sebastiaan Faber, Bécquer Seguín
 
 
 
- 
- 
- 
-
- 
- 
- 
- 
- Protesters gather outside the Georgian parliament in Tbilisi, Georgia, on May 26, 2026.
- © 2026 Sebastien Canaud/NurPhoto via AP Photo
- 
- 
+Spain’s prime minister has become a global progressive icon. But at home, his government is hanging by a thread.
 
 
- 
-Georgian authorities are using repressive laws, funding restrictions, and…
 
-Analysis generated at: Fri Jul 10 03:45:18 UTC 2026
+
+The post Pedro Sánchez Is Living on Borrowed Time appeared first on The Nation.
+
+Analysis generated at: Fri Jul 10 09:25:48 UTC 2026
