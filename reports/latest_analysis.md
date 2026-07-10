@@ -1,10 +1,10 @@
 
-Loaded 116887 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-08 19:27:47
+Loaded 116902 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-09 02:22:14
 
 Incidents by source:
 source
-newsapi           116786
+newsapi           116801
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-07-08 19:27
-- Location: The Daily Caller
-- Description: A special agent with the DHS and his wife were found dead July 3 at their Sayreville, New Jersey home in an alleged murder-suicide, prosecutors said.
+### ASSAULT on 2026-07-09 02:22
+- Location: Israelnationalnews.com
+- Description: Montreal police investigating hate crimes targeting Hasidic Jewish men in Outremont and Mile-End during Shabbat.
 
 
-### OTHER on 2026-07-08 19:25
-- Location: The Times of India
-- Description: Panchkula’s Mother and Childcare Hospital is now fully operational but faces water shortages, leaks and lift issues, inconveniencing patients and staff.
-
-
-### DRUG RELATED on 2026-07-08 19:20
+### HOMICIDE on 2026-07-09 01:46
 - Location: New York Post
-- Description: Investigators have been poring through several years’ worth of posts in roughly two dozen group chats on the popular messaging app that authorities believe served an online predator network of mainly Chinese men targeting mostly Chinese women in Germany.
+- Description: Chester Green, 26, was arrested and charged with second-degree murder for killing his mother, Marian Green, 71, at their nearly $2.5 million home in the Fox Meadow region of Scarsdale.
 
 
-### ROBBERY/THEFT on 2026-07-08 19:19
-- Location: The Times of India
-- Description: Hardoi police arrest 55-year-old absconder wanted in 1991 Lucknow theft case, ending nearly 20-year chase; held on non-bailable warrant under IPC 379/411.
+### HOMICIDE on 2026-07-09 01:42
+- Location: Fox News
+- Description: Ayzia Toledo, a 22-year-old model with over 300,000 followers, and passenger Henrietta Carter died after a BMW crash in Deptford Township, New Jersey.
 
 
-### ROBBERY/THEFT on 2026-07-08 19:16
-- Location: Dailymail.com
-- Description: Ramsey County Sheriff Bob Fletcher made the torrid remarks during a livestream Monday following a violent Fourth of July weekend in Minneapolis
+### OTHER on 2026-07-09 01:18
+- Location: Antaranews.com
+- Description: Indonesia&#39;s Joint Regional Defense Command III (Kogabwilhan III) is preparing to deploy military personnel to secure airstrips classified as high-risk in ...
 
-Analysis generated at: Thu Jul  9 19:30:33 UTC 2026
+
+### OTHER on 2026-07-09 01:10
+- Location: Fox News
+- Description: A Maryland Transit Administration bus crashed into a building on Reisterstown Road in Pikesville, injuring over 30 people in a mass casualty incident.
+
+Analysis generated at: Fri Jul 10 02:26:22 UTC 2026
