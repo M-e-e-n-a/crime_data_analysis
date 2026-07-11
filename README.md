@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Jul 11 07:47:14 UTC 2026
+Last updated: Sat Jul 11 13:05:36 UTC 2026
 
 ## Latest Analysis
 
-Loaded 117205 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-10 07:45:15
+Loaded 117289 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-10 13:00:00
 
 Incidents by source:
 source
-newsapi           117104
+newsapi           117188
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-07-10 07:45
-- Location: Vanguard
-- Description: …Allays fears of abuse, says no one would be governor forever Governor Peter Mbah of Enugu State has called for financial autonomy and investment in modern security infrastructure for state police services when created, stressing the need for any legal framew…
+### OTHER on 2026-07-10 13:00
+- Location: Bavarian Football Works
+- Description: Jamal Musial is eager to star once again for FC Bayern.
 
 
-### OTHER on 2026-07-10 07:14
-- Location: The Times of India
-- Description: Dollyy Javed shared painful childhood experiences on a reality show. She spoke about her father's alleged abusive behavior and its impact. Her father's actions caused significant distress to her mother and sisters. Dollyy endured years of mental torture and h…
+### OTHER on 2026-07-10 13:00
+- Location: PCMag.com
+- Description: Windows can link your PC to your activity, AI agents are sending crypto to scammers, and a router backdoor has no fix. Here's what you need to know this week.
+Most of us understand that companies track our activities around the web. They’d love to track our a…
 
 
-### OTHER on 2026-07-10 07:14
-- Location: Vanguard
-- Description: By Kingsley Omonobi ABUJA — The Nigeria Police Force says it has arrested 21 suspects in connection with separate cybercrime investigations, including an alleged fraud involving the manipulation of MTN Nigeria’s billing system. Force Public Relations Officer,…
+### SHOOTING on 2026-07-10 12:58
+- Location: Newser
+- Description: After ICE officers fatally shot a man in Houston this week, the agency said he had tried to ram the officers' vehicle. But witnesses say the government's version of events is wrong, reports the Washington Post . Three men who were in the van when construction…
 
 
-### HOMICIDE on 2026-07-10 07:07
-- Location: The Times of India
-- Description: Five more arrests were made in West Bengal's mob violence case. This brings the total number of arrests to thirty-five following a girl's death. The violence included an attack on police personnel and damage to public property. Police are examining the roles …
+### HOMICIDE on 2026-07-10 12:53
+- Location: Mediatakeout.com
+- Description: Graphic details about the death of 14-year-old Celeste Rivas Hernandez surfaced before her autopsy file became public. Now, more than a dozen Los Angeles County Medical Examiner employees have been ordered to explain whether they viewed restricted records wit…
 
 
-### HOMICIDE on 2026-07-10 07:00
-- Location: IGN
-- Description: In our Cape Fear Episode 7 review, the Apple TV thriller finally embraces its melodramatic side with a major character death and shocking family twists.
+### SHOOTING on 2026-07-10 12:51
+- Location: BBC News
+- Description: Immigration agents were looking for a different person when they shot Lorenzo Salgado Araujo during a traffic stop, officials say.
 
-Analysis generated at: Sat Jul 11 07:47:14 UTC 2026
+Analysis generated at: Sat Jul 11 13:05:36 UTC 2026
