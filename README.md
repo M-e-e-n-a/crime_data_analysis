@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Jul 11 02:59:14 UTC 2026
+Last updated: Sat Jul 11 07:47:14 UTC 2026
 
 ## Latest Analysis
 
-Loaded 117163 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-10 02:56:42
+Loaded 117205 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-10 07:45:15
 
 Incidents by source:
 source
-newsapi           117062
+newsapi           117104
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-07-10 02:56
-- Location: Dailymail.com
-- Description: Darren Adam Abela's guilty plea comes after his sudden departure from the Bloods team just weeks before the season began, with disturbing details of his offending revealed in court.
-
-
-### OTHER on 2026-07-10 02:43
+### OTHER on 2026-07-10 07:45
 - Location: Vanguard
-- Description: ONE day, one trouble best describes our experience as a nation of peoples in our country called Nigeria. By the way, One Day One Trouble is a popular Nigerian Nollywood comedy-drama movie on the life a man trying to survive doing various jobs while dealing wi…
+- Description: …Allays fears of abuse, says no one would be governor forever Governor Peter Mbah of Enugu State has called for financial autonomy and investment in modern security infrastructure for state police services when created, stressing the need for any legal framew…
 
 
-### OTHER on 2026-07-10 02:42
-- Location: ABC News (AU)
-- Description: Detectives are investigating after human remains were found during a search for a missing teenage girl in Victoria's west.
+### OTHER on 2026-07-10 07:14
+- Location: The Times of India
+- Description: Dollyy Javed shared painful childhood experiences on a reality show. She spoke about her father's alleged abusive behavior and its impact. Her father's actions caused significant distress to her mother and sisters. Dollyy endured years of mental torture and h…
 
 
-### HOMICIDE on 2026-07-10 02:33
-- Location: Heavy.com
-- Description: A former Chiefs Super Bowl winner's murder case has taken another significant turn. Here's the latest legal move and what it could mean. The post Former Chiefs Super Bowl Winner’s Murder Case Takes New Turn appeared first on HEAVY.
+### OTHER on 2026-07-10 07:14
+- Location: Vanguard
+- Description: By Kingsley Omonobi ABUJA — The Nigeria Police Force says it has arrested 21 suspects in connection with separate cybercrime investigations, including an alleged fraud involving the manipulation of MTN Nigeria’s billing system. Force Public Relations Officer,…
 
 
-### OTHER on 2026-07-10 02:23
-- Location: Freerepublic.com
-- Description: In summary According to state law, campus police can own military weapons to uphold safety as long as they report it to the public. However, not every college follows every part of the law, according to an investigation by CalMatters into all 148 public colle…
+### HOMICIDE on 2026-07-10 07:07
+- Location: The Times of India
+- Description: Five more arrests were made in West Bengal's mob violence case. This brings the total number of arrests to thirty-five following a girl's death. The violence included an attack on police personnel and damage to public property. Police are examining the roles …
 
-Analysis generated at: Sat Jul 11 02:59:14 UTC 2026
+
+### HOMICIDE on 2026-07-10 07:00
+- Location: IGN
+- Description: In our Cape Fear Episode 7 review, the Apple TV thriller finally embraces its melodramatic side with a major character death and shocking family twists.
+
+Analysis generated at: Sat Jul 11 07:47:14 UTC 2026
