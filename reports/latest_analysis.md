@@ -1,10 +1,10 @@
 
-Loaded 117154 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-10 01:52:39
+Loaded 117163 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-10 02:56:42
 
 Incidents by source:
 source
-newsapi           117053
+newsapi           117062
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-07-10 01:52
-- Location: RTE
-- Description: A loyalist bonfire has been lit a day early after police began an operation to remove a replica of a mosque from the top of the pyre.
-
-
-### OTHER on 2026-07-10 01:38
+### OTHER on 2026-07-10 02:56
 - Location: Dailymail.com
-- Description: The Washington Commanders will honor a key member of the team's proud history on November 8 when the team hosts the Los Angeles Rams in DC.
+- Description: Darren Adam Abela's guilty plea comes after his sudden departure from the Bloods team just weeks before the season began, with disturbing details of his offending revealed in court.
 
 
-### OTHER on 2026-07-10 01:31
-- Location: Abcnews.com
-- Description: The former chief financial officer of The Epoch Times, a conservative multinational media company, interrupted jury selection at his money laundering trial to plead guilty to conspiracy
+### OTHER on 2026-07-10 02:43
+- Location: Vanguard
+- Description: ONE day, one trouble best describes our experience as a nation of peoples in our country called Nigeria. By the way, One Day One Trouble is a popular Nigerian Nollywood comedy-drama movie on the life a man trying to survive doing various jobs while dealing wi…
 
 
-### HOMICIDE on 2026-07-10 01:27
+### OTHER on 2026-07-10 02:42
 - Location: ABC News (AU)
-- Description: Eight men have been accused of planning a drone and shooting attack that aimed to kill US President Donald Trump at the UFC Freedom 250 event held at the White House in June.
+- Description: Detectives are investigating after human remains were found during a search for a missing teenage girl in Victoria's west.
 
 
-### HOMICIDE on 2026-07-10 01:22
-- Location: Dailymail.com
-- Description: Megyn Kelly believes Tyler Robinson's transgender lover has doomed his case after Lance Twiggs' police interview was played at the alleged murder suspect's pretrial hearing Thursday.
+### HOMICIDE on 2026-07-10 02:33
+- Location: Heavy.com
+- Description: A former Chiefs Super Bowl winner's murder case has taken another significant turn. Here's the latest legal move and what it could mean. The post Former Chiefs Super Bowl Winner’s Murder Case Takes New Turn appeared first on HEAVY.
 
-Analysis generated at: Sat Jul 11 02:04:37 UTC 2026
+
+### OTHER on 2026-07-10 02:23
+- Location: Freerepublic.com
+- Description: In summary According to state law, campus police can own military weapons to uphold safety as long as they report it to the public. However, not every college follows every part of the law, according to an investigation by CalMatters into all 148 public colle…
+
+Analysis generated at: Sat Jul 11 02:59:14 UTC 2026
