@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Jul 10 19:21:27 UTC 2026
+Last updated: Sat Jul 11 02:04:37 UTC 2026
 
 ## Latest Analysis
 
-Loaded 117131 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-09 19:17:06
+Loaded 117154 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-10 01:52:39
 
 Incidents by source:
 source
-newsapi           117030
+newsapi           117053
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-07-09 19:17
-- Location: The Times of India
-- Description: Ahmedabad crime branch arrested three men carrying sharp weapons during Jagannath Rath Yatra route patrol; booked under Gujarat Police Act for nuisance.
+### OTHER on 2026-07-10 01:52
+- Location: RTE
+- Description: A loyalist bonfire has been lit a day early after police began an operation to remove a replica of a mosque from the top of the pyre.
 
 
-### OTHER on 2026-07-09 19:17
-- Location: The Times of India
-- Description: Nagpur police raided a Gopal Nagar spa posing as a massage parlour, rescued two women, and arrested owner Somesh Mandle for running a flesh trade racket.
-
-
-### HOMICIDE on 2026-07-09 19:14
-- Location: Freerepublic.com
-- Description: K9 Police Service Dog (K9 PSD) Vethos of the Junction City Police Department (JCPD), who passed away while on duty on Monday, July 6, 2026, was found unresponsive in a K9-equipped patrol vehicle. Preliminary findings indicate the cause of death was heat expos…
-
-
-### HOMICIDE on 2026-07-09 19:14
-- Location: Fox News
-- Description: Jamey Carney, a 43-year-old New Yorker living in Killarney, was found dead as Irish police launch an international manhunt for a person of interest.
-
-
-### HOMICIDE on 2026-07-09 19:08
+### OTHER on 2026-07-10 01:38
 - Location: Dailymail.com
-- Description: Lilly Jones, 14, was discovered hidden in undergrowth 500 yards from her home in Blaina in Gwent, Wales three days after she was reported missing.
+- Description: The Washington Commanders will honor a key member of the team's proud history on November 8 when the team hosts the Los Angeles Rams in DC.
 
-Analysis generated at: Fri Jul 10 19:21:27 UTC 2026
+
+### OTHER on 2026-07-10 01:31
+- Location: Abcnews.com
+- Description: The former chief financial officer of The Epoch Times, a conservative multinational media company, interrupted jury selection at his money laundering trial to plead guilty to conspiracy
+
+
+### HOMICIDE on 2026-07-10 01:27
+- Location: ABC News (AU)
+- Description: Eight men have been accused of planning a drone and shooting attack that aimed to kill US President Donald Trump at the UFC Freedom 250 event held at the White House in June.
+
+
+### HOMICIDE on 2026-07-10 01:22
+- Location: Dailymail.com
+- Description: Megyn Kelly believes Tyler Robinson's transgender lover has doomed his case after Lance Twiggs' police interview was played at the alleged murder suspect's pretrial hearing Thursday.
+
+Analysis generated at: Sat Jul 11 02:04:37 UTC 2026
