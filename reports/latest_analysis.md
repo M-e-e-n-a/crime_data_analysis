@@ -1,10 +1,10 @@
 
-Loaded 117299 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-10 13:34:50
+Loaded 117393 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-10 18:50:47
 
 Incidents by source:
 source
-newsapi           117198
+newsapi           117292
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-07-10 13:34
+### OTHER on 2026-07-10 18:50
+- Location: Fox News
+- Description: Hannah Dugan helped an illegal alien escape ICE agents at a Milwaukee courthouse, but Judge Lynn Adelman gave her no jail time after conviction.
+
+
+### HOMICIDE on 2026-07-10 18:50
 - Location: Dailymail.com
-- Description: Jana Armstrong, 30, was last seen at a unit on Gordon Avenue in the Toowoomba suburb of Newtown, southeast Queensland, on Tuesday afternoon.
+- Description: It followed an international manhunt after a mother and her two children were found dead at a house near Bedford.
 
 
-### OTHER on 2026-07-10 13:30
+### HOMICIDE on 2026-07-10 18:48
+- Location: The Times of India
+- Description: Tirunelveli police arrested Krishnan alias Ajith after firing in self-defense in the Veeravanallur double murder case; total arrests rise to 14.
+
+
+### HOMICIDE on 2026-07-10 18:42
 - Location: Dailymail.com
-- Description: Private messages, a false intelligence report and an alleged bid to make a TikToker 'regret his life' led to NSW Police officer Meleck Lababidi's dismissal.
+- Description: Ahmad Al-Saqar reportedly boarded a flight from Dublin to Turkey on Tuesday, shortly before the body of his girlfriend Jamey Carney was found at her home.
 
 
-### OTHER on 2026-07-10 13:27
-- Location: Mediaite
-- Description: The hosts of Fox & Friends warned the GOP that Democratic Socialists are "winning" in a major area and it is an issue that hasn't been taken seriously enough.
-The post Fox’s Lawrence Jones Warns Republicans That Dem Socialists Are ‘Winning’ in Major Area: ‘We…
+### HOMICIDE on 2026-07-10 18:42
+- Location: The Times of India
+- Description: Botad stabbing: Harpal Khachar killed and two critically injured in knife attack sparked by social media friend request dispute; police book 5 for murder, rioting.
 
-
-### OTHER on 2026-07-10 13:26
-- Location: The Irish Times
-- Description: Jason Cardiff was arrested at his Dublin home in mid-June following extradition proceedings instigated by US
-
-
-### ROBBERY/THEFT on 2026-07-10 13:25
-- Location: Al Jazeera English
-- Description: Reform UK's finances draw police scrutiny as Farage fights to reclaim his seat in a by-election.
-
-Analysis generated at: Sat Jul 11 13:37:37 UTC 2026
+Analysis generated at: Sat Jul 11 18:54:20 UTC 2026
