@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Jul 11 13:05:36 UTC 2026
+Last updated: Sat Jul 11 13:37:37 UTC 2026
 
 ## Latest Analysis
 
-Loaded 117289 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-10 13:00:00
+Loaded 117299 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-10 13:34:50
 
 Incidents by source:
 source
-newsapi           117188
+newsapi           117198
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,29 +24,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-07-10 13:00
-- Location: Bavarian Football Works
-- Description: Jamal Musial is eager to star once again for FC Bayern.
+### OTHER on 2026-07-10 13:34
+- Location: Dailymail.com
+- Description: Jana Armstrong, 30, was last seen at a unit on Gordon Avenue in the Toowoomba suburb of Newtown, southeast Queensland, on Tuesday afternoon.
 
 
-### OTHER on 2026-07-10 13:00
-- Location: PCMag.com
-- Description: Windows can link your PC to your activity, AI agents are sending crypto to scammers, and a router backdoor has no fix. Here's what you need to know this week.
-Most of us understand that companies track our activities around the web. They’d love to track our a…
+### OTHER on 2026-07-10 13:30
+- Location: Dailymail.com
+- Description: Private messages, a false intelligence report and an alleged bid to make a TikToker 'regret his life' led to NSW Police officer Meleck Lababidi's dismissal.
 
 
-### SHOOTING on 2026-07-10 12:58
-- Location: Newser
-- Description: After ICE officers fatally shot a man in Houston this week, the agency said he had tried to ram the officers' vehicle. But witnesses say the government's version of events is wrong, reports the Washington Post . Three men who were in the van when construction…
+### OTHER on 2026-07-10 13:27
+- Location: Mediaite
+- Description: The hosts of Fox & Friends warned the GOP that Democratic Socialists are "winning" in a major area and it is an issue that hasn't been taken seriously enough.
+The post Fox’s Lawrence Jones Warns Republicans That Dem Socialists Are ‘Winning’ in Major Area: ‘We…
 
 
-### HOMICIDE on 2026-07-10 12:53
-- Location: Mediatakeout.com
-- Description: Graphic details about the death of 14-year-old Celeste Rivas Hernandez surfaced before her autopsy file became public. Now, more than a dozen Los Angeles County Medical Examiner employees have been ordered to explain whether they viewed restricted records wit…
+### OTHER on 2026-07-10 13:26
+- Location: The Irish Times
+- Description: Jason Cardiff was arrested at his Dublin home in mid-June following extradition proceedings instigated by US
 
 
-### SHOOTING on 2026-07-10 12:51
-- Location: BBC News
-- Description: Immigration agents were looking for a different person when they shot Lorenzo Salgado Araujo during a traffic stop, officials say.
+### ROBBERY/THEFT on 2026-07-10 13:25
+- Location: Al Jazeera English
+- Description: Reform UK's finances draw police scrutiny as Farage fights to reclaim his seat in a by-election.
 
-Analysis generated at: Sat Jul 11 13:05:36 UTC 2026
+Analysis generated at: Sat Jul 11 13:37:37 UTC 2026
