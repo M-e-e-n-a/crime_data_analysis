@@ -1,10 +1,10 @@
 
-Loaded 117490 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-11 13:37:08
+Loaded 117566 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-11 18:55:51
 
 Incidents by source:
 source
-newsapi           117389
+newsapi           117465
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,31 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-07-11 13:37
-- Location: Bleeding Cool News
-- Description: Set to hit screens beginning in January 2027, NBC's David Boreanaz (Buffy the Vampire Slayer, Angel, Bones)-starring remake of The Rockford Files has generated buzz since its announcement. Since then, we've heard nothing but good things about how things are p…
+### HOMICIDE on 2026-07-11 18:55
+- Location: Freerepublic.com
+- Description: A European professional basketball player was fatally shot and two people wounded when gunfire erupted Friday night at a packed Harlem basketball tournament, cops and witnesses said. Kinu Rochford, a standout at Fairleigh Dickinson University in New Jersey, w…
 
 
-### HOMICIDE on 2026-07-11 13:33
-- Location: Slashdot.org
-- Description: U.K. rattled by killing of politician Ann Widdecombe as murder probe continuesNBC News Ann Widdecombe attacked nearly 24 hours before she was found dead, police sayBBC Man Arrested in Killing of U.K. Ex-Lawmaker Is ReleasedThe New York Times UK police release…
+### OTHER on 2026-07-11 18:53
+- Location: The Punch
+- Description: The IPCR commends President Tinubu and security chiefs for the successful rescue of abducted Oyo pupils, highlighting commitment to national security and i
+
+Read More: https://punchng.com/ipcr-lauds-tinubu-security-chiefs-over-rescue-of-abducted-oyo-pupils/
 
 
-### ROBBERY/THEFT on 2026-07-11 13:29
-- Location: Dailymail.com
-- Description: Adam Fetcher, 42, was let go from his role as Chief Communications Officer for the City of Minneapolis amid a police probe.
-
-
-### OTHER on 2026-07-11 13:21
+### HOMICIDE on 2026-07-11 18:49
 - Location: The Times of India
-- Description: Mangaluru police cleared 35,160 pending traffic cases and collected Rs 92.4 lakh during June 21–July 10 50% fine rebate drive; 137 DLs suspended.
+- Description: Akhilesh Yadav says PDA justice needs BJP voted out; cites Meerut Dalit student Lalita Gautam murder, alleged weak charges, and police action on protesters.
 
 
-### HOMICIDE on 2026-07-11 13:16
-- Location: Lawyersgunsmoneyblog.com
-- Description: Most Americans think murder rates are rising, and that fighting crime should be a or the top priority of Congress and the federal government. For deeply mysterious reasons this is much more true for Republicans than Democrats, with two thirds of the former be…
+### HOMICIDE on 2026-07-11 18:45
+- Location: ABC News (AU)
+- Description: When Araki Osamu first heard reports a bear had been seen in the streets of his home town, a 1-hour bullet train ride north of Tokyo, he dismissed it as "fake news".
 
-Analysis generated at: Sun Jul 12 13:38:15 UTC 2026
+
+### HOMICIDE on 2026-07-11 18:39
+- Location: Protothema.gr
+- Description: They deny any intent to kill, insisting the shots were meant only to intimidate the fleeing 20-year-old, who tried twice to strike them with his car and now remains in critical condition in intensive care
+The post Two police officers remanded in custody over …
+
+Analysis generated at: Sun Jul 12 18:58:42 UTC 2026
