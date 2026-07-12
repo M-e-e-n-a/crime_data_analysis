@@ -1,10 +1,10 @@
 
-Loaded 117484 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-11 13:03:08
+Loaded 117490 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-11 13:37:08
 
 Incidents by source:
 source
-newsapi           117383
+newsapi           117389
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-07-11 13:03
+### OTHER on 2026-07-11 13:37
+- Location: Bleeding Cool News
+- Description: Set to hit screens beginning in January 2027, NBC's David Boreanaz (Buffy the Vampire Slayer, Angel, Bones)-starring remake of The Rockford Files has generated buzz since its announcement. Since then, we've heard nothing but good things about how things are p…
+
+
+### HOMICIDE on 2026-07-11 13:33
+- Location: Slashdot.org
+- Description: U.K. rattled by killing of politician Ann Widdecombe as murder probe continuesNBC News Ann Widdecombe attacked nearly 24 hours before she was found dead, police sayBBC Man Arrested in Killing of U.K. Ex-Lawmaker Is ReleasedThe New York Times UK police release…
+
+
+### ROBBERY/THEFT on 2026-07-11 13:29
 - Location: Dailymail.com
-- Description: Mohsen Sazegara founded the murderous Islamic Revolutionary Guard Corps in his early twenties, but now believes the army is a monstrous 'seven-headed dragon' presiding over his homeland.
+- Description: Adam Fetcher, 42, was let go from his role as Chief Communications Officer for the City of Minneapolis amid a police probe.
 
 
-### HOMICIDE on 2026-07-11 13:00
-- Location: Fox News
-- Description: Willie J. Carpenter's DNA entered CODIS after an unrelated arrest, allegedly linking him to biological evidence from the 1988 crime scene in downtown Orlando.
-
-
-### OTHER on 2026-07-11 13:00
-- Location: CNBC
-- Description: Some states may have low costs and light regulation, but high crime and lack of healthcare are among important factors when people choose where to live.
-
-
-### HOMICIDE on 2026-07-11 12:51
+### OTHER on 2026-07-11 13:21
 - Location: The Times of India
-- Description: Double murder shooter Sachin Singh injured in Banka police encounter during weapon recovery; referred to Bhagalpur hospital. Murders linked to enmity, road dispute.
+- Description: Mangaluru police cleared 35,160 pending traffic cases and collected Rs 92.4 lakh during June 21–July 10 50% fine rebate drive; 137 DLs suspended.
 
 
-### HOMICIDE on 2026-07-11 12:24
-- Location: NBC News
-- Description: LONDON — A former British member of Parliament was found dead with serious injuries at her home in Thursday, prompting a murder investigation that has reignited concerns about the safety of the country’s politicians.
+### HOMICIDE on 2026-07-11 13:16
+- Location: Lawyersgunsmoneyblog.com
+- Description: Most Americans think murder rates are rising, and that fighting crime should be a or the top priority of Congress and the federal government. For deeply mysterious reasons this is much more true for Republicans than Democrats, with two thirds of the former be…
 
-Analysis generated at: Sun Jul 12 13:07:01 UTC 2026
+Analysis generated at: Sun Jul 12 13:38:15 UTC 2026
