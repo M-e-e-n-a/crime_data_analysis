@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Jul 12 02:08:23 UTC 2026
+Last updated: Sun Jul 12 03:24:48 UTC 2026
 
 ## Latest Analysis
 
-Loaded 117408 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-11 02:07:01
+Loaded 117413 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-11 02:48:34
 
 Incidents by source:
 source
-newsapi           117307
+newsapi           117312
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-07-11 02:07
+### ROBBERY/THEFT on 2026-07-11 02:48
+- Location: Rpnradio.com
+- Description: BACOLOD CITY — Negros Occidental Third District Board Member Andrew Montelibano is under police investigation after he was reportedly seen near an alleged multimillion-peso e-sabong operation uncovered on a five-hectare property in Barangay Alicante, E.B. Mag…
+
+
+### HOMICIDE on 2026-07-11 02:43
 - Location: The Times of India
-- Description: Vijayendra Kumeria returns to television playing police officer Sanyam. He consciously changed his body language for this distinct character. His previous role involved a relaxed demeanor, unlike Sanyam's disciplined posture. Kumeria focused on how Sanyam wou…
+- Description: Mumbai: Observing that police inaction and failure to adopt the remedies available under the law are clear from the records in the murder case of form.
 
 
-### OTHER on 2026-07-11 02:06
-- Location: Dailymail.com
-- Description: Jana Armstrong, 30, was last seen at a unit on Gordon Avenue in the Toowoomba suburb of Newtown, in south-east Queensland, on Tuesday, July 7.
+### HOMICIDE on 2026-07-11 02:18
+- Location: RTE
+- Description: A 26-year-old man is in custody for questioning by UK police after he was arrested on suspicion of murdering former MP and MEP Ann Widdecombe.
 
 
-### SHOOTING on 2026-07-11 01:43
-- Location: Deadline
-- Description: Peter Van Norden, the actor who appeared in Police Academy 2: Their First Assignment and The Naked Gun 2½: The Smell of Fear, has died. He was 75. The actor’s wife Wendy was by his side as he died peacefully Thursday morning in a Southern California hospice f…
+### HOMICIDE on 2026-07-11 02:14
+- Location: Hollywood Reporter
+- Description: Van Norden had an extensive stage career, appearing in various Broadway, off-Broadway and regional productions
 
 
-### OTHER on 2026-07-11 01:18
-- Location: Bleeding Cool News
-- Description: All-True Detective Cases #nn (Avon, 1952) might be the rarest Avon giant and includes a Joe Kubert story from the heart of the Pre-Code Crime era.
+### HOMICIDE on 2026-07-11 02:13
+- Location: Slashdot.org
+- Description: UK police arrest man suspected of murdering former MP Ann WiddecombeAl Jazeera Man arrested as part of murder investigation into death of Ann WiddecombeBBC UK police arrest 26-year-old suspect in the killing of former minister WiddecombeCNN Man Arrested on Su…
 
-
-### HOMICIDE on 2026-07-11 00:57
-- Location: Dailymail.com
-- Description: Former Sky presenter Adam Boulton has been heavily condemned after calling ex-Conservative MP Ann Widdecombe an 'old maid' hours after a murder probe was launched into her death.
-
-Analysis generated at: Sun Jul 12 02:08:23 UTC 2026
+Analysis generated at: Sun Jul 12 03:24:48 UTC 2026
