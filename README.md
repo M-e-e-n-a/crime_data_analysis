@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Jul 12 08:08:33 UTC 2026
+Last updated: Sun Jul 12 13:07:01 UTC 2026
 
 ## Latest Analysis
 
-Loaded 117444 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-11 08:01:46
+Loaded 117484 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-11 13:03:08
 
 Incidents by source:
 source
-newsapi           117343
+newsapi           117383
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-07-11 08:01
-- Location: The-independent.com
-- Description: Former Tory prisons minister was found dead at her home in Haytor on Dartmoor after sustaining serious injuries
-
-
-### HOMICIDE on 2026-07-11 08:01
+### HOMICIDE on 2026-07-11 13:03
 - Location: Dailymail.com
-- Description: A 16-year-old boy has been charged with one count of murder after the body of 13-year-old Layla Jeffery was found.
+- Description: Mohsen Sazegara founded the murderous Islamic Revolutionary Guard Corps in his early twenties, but now believes the army is a monstrous 'seven-headed dragon' presiding over his homeland.
 
 
-### HOMICIDE on 2026-07-11 08:00
-- Location: CBC News
-- Description: A jail that has held the likes of serial killer Robert Pickton, war criminals and Canada’s most notorious gangsters awaiting trials in its segregation cells is in an internal spiral.
+### HOMICIDE on 2026-07-11 13:00
+- Location: Fox News
+- Description: Willie J. Carpenter's DNA entered CODIS after an unrelated arrest, allegedly linking him to biological evidence from the 1988 crime scene in downtown Orlando.
 
 
-### OTHER on 2026-07-11 08:00
-- Location: CBC News
-- Description: The man who took a Hamilton city bus on a joy ride — with passengers still on board — is serving nine-months in jail. Though the Crown asked for a lower sentence, the man agreed to serve an extra month so he could get into a Brockville, Ont., treatment facili…
+### OTHER on 2026-07-11 13:00
+- Location: CNBC
+- Description: Some states may have low costs and light regulation, but high crime and lack of healthcare are among important factors when people choose where to live.
 
 
-### OTHER on 2026-07-11 07:51
-- Location: TheJournal.ie
-- Description: Islamophobia in Co Tyrone, the heatwave continues, and Spain beat Belgium.
+### HOMICIDE on 2026-07-11 12:51
+- Location: The Times of India
+- Description: Double murder shooter Sachin Singh injured in Banka police encounter during weapon recovery; referred to Bhagalpur hospital. Murders linked to enmity, road dispute.
 
-Analysis generated at: Sun Jul 12 08:08:33 UTC 2026
+
+### HOMICIDE on 2026-07-11 12:24
+- Location: NBC News
+- Description: LONDON — A former British member of Parliament was found dead with serious injuries at her home in Thursday, prompting a murder investigation that has reignited concerns about the safety of the country’s politicians.
+
+Analysis generated at: Sun Jul 12 13:07:01 UTC 2026
