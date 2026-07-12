@@ -1,10 +1,10 @@
 
-Loaded 117393 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-10 18:50:47
+Loaded 117408 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-11 02:07:01
 
 Incidents by source:
 source
-newsapi           117292
+newsapi           117307
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-07-10 18:50
-- Location: Fox News
-- Description: Hannah Dugan helped an illegal alien escape ICE agents at a Milwaukee courthouse, but Judge Lynn Adelman gave her no jail time after conviction.
-
-
-### HOMICIDE on 2026-07-10 18:50
-- Location: Dailymail.com
-- Description: It followed an international manhunt after a mother and her two children were found dead at a house near Bedford.
-
-
-### HOMICIDE on 2026-07-10 18:48
+### OTHER on 2026-07-11 02:07
 - Location: The Times of India
-- Description: Tirunelveli police arrested Krishnan alias Ajith after firing in self-defense in the Veeravanallur double murder case; total arrests rise to 14.
+- Description: Vijayendra Kumeria returns to television playing police officer Sanyam. He consciously changed his body language for this distinct character. His previous role involved a relaxed demeanor, unlike Sanyam's disciplined posture. Kumeria focused on how Sanyam wou…
 
 
-### HOMICIDE on 2026-07-10 18:42
+### OTHER on 2026-07-11 02:06
 - Location: Dailymail.com
-- Description: Ahmad Al-Saqar reportedly boarded a flight from Dublin to Turkey on Tuesday, shortly before the body of his girlfriend Jamey Carney was found at her home.
+- Description: Jana Armstrong, 30, was last seen at a unit on Gordon Avenue in the Toowoomba suburb of Newtown, in south-east Queensland, on Tuesday, July 7.
 
 
-### HOMICIDE on 2026-07-10 18:42
-- Location: The Times of India
-- Description: Botad stabbing: Harpal Khachar killed and two critically injured in knife attack sparked by social media friend request dispute; police book 5 for murder, rioting.
+### SHOOTING on 2026-07-11 01:43
+- Location: Deadline
+- Description: Peter Van Norden, the actor who appeared in Police Academy 2: Their First Assignment and The Naked Gun 2½: The Smell of Fear, has died. He was 75. The actor’s wife Wendy was by his side as he died peacefully Thursday morning in a Southern California hospice f…
 
-Analysis generated at: Sat Jul 11 18:54:20 UTC 2026
+
+### OTHER on 2026-07-11 01:18
+- Location: Bleeding Cool News
+- Description: All-True Detective Cases #nn (Avon, 1952) might be the rarest Avon giant and includes a Joe Kubert story from the heart of the Pre-Code Crime era.
+
+
+### HOMICIDE on 2026-07-11 00:57
+- Location: Dailymail.com
+- Description: Former Sky presenter Adam Boulton has been heavily condemned after calling ex-Conservative MP Ann Widdecombe an 'old maid' hours after a murder probe was launched into her death.
+
+Analysis generated at: Sun Jul 12 02:08:23 UTC 2026
