@@ -1,10 +1,10 @@
 
-Loaded 117413 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-11 02:48:34
+Loaded 117444 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-11 08:01:46
 
 Incidents by source:
 source
-newsapi           117312
+newsapi           117343
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2026-07-11 02:48
-- Location: Rpnradio.com
-- Description: BACOLOD CITY — Negros Occidental Third District Board Member Andrew Montelibano is under police investigation after he was reportedly seen near an alleged multimillion-peso e-sabong operation uncovered on a five-hectare property in Barangay Alicante, E.B. Mag…
+### HOMICIDE on 2026-07-11 08:01
+- Location: The-independent.com
+- Description: Former Tory prisons minister was found dead at her home in Haytor on Dartmoor after sustaining serious injuries
 
 
-### HOMICIDE on 2026-07-11 02:43
-- Location: The Times of India
-- Description: Mumbai: Observing that police inaction and failure to adopt the remedies available under the law are clear from the records in the murder case of form.
+### HOMICIDE on 2026-07-11 08:01
+- Location: Dailymail.com
+- Description: A 16-year-old boy has been charged with one count of murder after the body of 13-year-old Layla Jeffery was found.
 
 
-### HOMICIDE on 2026-07-11 02:18
-- Location: RTE
-- Description: A 26-year-old man is in custody for questioning by UK police after he was arrested on suspicion of murdering former MP and MEP Ann Widdecombe.
+### HOMICIDE on 2026-07-11 08:00
+- Location: CBC News
+- Description: A jail that has held the likes of serial killer Robert Pickton, war criminals and Canada’s most notorious gangsters awaiting trials in its segregation cells is in an internal spiral.
 
 
-### HOMICIDE on 2026-07-11 02:14
-- Location: Hollywood Reporter
-- Description: Van Norden had an extensive stage career, appearing in various Broadway, off-Broadway and regional productions
+### OTHER on 2026-07-11 08:00
+- Location: CBC News
+- Description: The man who took a Hamilton city bus on a joy ride — with passengers still on board — is serving nine-months in jail. Though the Crown asked for a lower sentence, the man agreed to serve an extra month so he could get into a Brockville, Ont., treatment facili…
 
 
-### HOMICIDE on 2026-07-11 02:13
-- Location: Slashdot.org
-- Description: UK police arrest man suspected of murdering former MP Ann WiddecombeAl Jazeera Man arrested as part of murder investigation into death of Ann WiddecombeBBC UK police arrest 26-year-old suspect in the killing of former minister WiddecombeCNN Man Arrested on Su…
+### OTHER on 2026-07-11 07:51
+- Location: TheJournal.ie
+- Description: Islamophobia in Co Tyrone, the heatwave continues, and Spain beat Belgium.
 
-Analysis generated at: Sun Jul 12 03:24:48 UTC 2026
+Analysis generated at: Sun Jul 12 08:08:33 UTC 2026
