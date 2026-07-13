@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Jul 13 14:45:32 UTC 2026
+Last updated: Mon Jul 13 19:19:16 UTC 2026
 
 ## Latest Analysis
 
-Loaded 117690 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-12 14:45:18
+Loaded 117774 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-12 19:19:08
 
 Incidents by source:
 source
-newsapi           117589
+newsapi           117673
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-07-12 14:45
-- Location: Dailymail.com
-- Description: Two teenagers were stabbed during a 70-person brawl in southwest Sydney on Sunday night.
-
-
-### HOMICIDE on 2026-07-12 14:37
+### DRUG RELATED on 2026-07-12 19:19
 - Location: The Times of India
-- Description: Baruipur Police arrest seven in Indrajit Mondal mob lynching; 40 held for riots. Probe expands with video/CCTV evidence; rape-murder IO changed again.
+- Description: Nagpur Crime Branch Anti-Narcotics Squad seized 55 kg ganja in Dahibazar, arrested two, and recovered cash, mobiles, scales and a moped; NDPS case filed.
 
 
-### DRUG RELATED on 2026-07-12 14:36
-- Location: Dailymail.com
-- Description: Darren Tennent remains accused of drug-trafficking offences while wife Natalie has had all charges dropped - and a recent social media move by the Mount Waverley couple has sparked speculation.
-
-
-### HOMICIDE on 2026-07-12 14:35
+### ROBBERY/THEFT on 2026-07-12 19:17
 - Location: The Times of India
-- Description: Probe officer changed thrice in 8 days in Baruipur 12-year-old rape-murder case; DSP Shantanu Mukhopadhyay takes over as police review probe.
+- Description: Raisen jewellery theft: Police arrest 2 in Rs 1 crore burglary; gang kingpin absconding and stolen gold-silver yet to be recovered, probe ongoing.
 
 
-### OTHER on 2026-07-12 14:30
-- Location: Superpunch.net
-- Description: I talked to the AI engineer who built the model. “It was significantly more difficult than I had initially hoped,” he said. “I can’t just, like, upload a YouTube URL and say, ‘find their tells.’”https://t.co/dwXDG4lvat
-— ✏️Jacob Feldman (@JacobFeldman4) July…
+### HOMICIDE on 2026-07-12 19:14
+- Location: New Zealand Herald
+- Description: Hundreds gathered on July 1 to seek safety and unity after two violent deaths.
 
-Analysis generated at: Mon Jul 13 14:45:32 UTC 2026
+
+### OTHER on 2026-07-12 19:12
+- Location: New York Post
+- Description: Two days after The Post blew the whistle, a scary homeless encampment along Manhattan's West Side has grown to 12 city blocks.
+
+
+### SHOOTING on 2026-07-12 19:10
+- Location: Breitbart News
+- Description: Approximately 100 people gathered near the steps of City Hall in San Antonio to protest the U.S. Immigration and Customs Enforcement (ICE) involved fatal shooting of an illegal alien in Houston earlier in the week. Authorities allege the suspect attempted to …
+
+Analysis generated at: Mon Jul 13 19:19:16 UTC 2026
