@@ -1,10 +1,10 @@
 
-Loaded 117609 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-12 03:15:41
+Loaded 117629 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-12 08:51:34
 
 Incidents by source:
 source
-newsapi           117508
+newsapi           117528
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-07-12 03:15
-- Location: Freerepublic.com
-- Description: Ann Widdecombe, the former Conservative minister and outspoken pro-life advocate, was found dead with serious injuries at her home on Dartmoor on Thursday. The suspicious death is leading Devon and Cornwall Police to launch a murder investigation. Officers we…
+### HOMICIDE on 2026-07-12 08:51
+- Location: Khabarhub.com
+- Description: TORONTO: Two people were killed and five others injured in a shooting incident in Toronto on Saturday, police said. According to a police emergency alert posted on X, officers responding to the incident found five people suffering from gunshot wounds. Two vic…
 
 
-### HOMICIDE on 2026-07-12 03:04
+### HOMICIDE on 2026-07-12 08:38
+- Location: TheJournal.ie
+- Description: No arrests have been made so far.
+
+
+### OTHER on 2026-07-12 08:38
 - Location: The Times of India
-- Description: The Tamil black comedy thriller Parimala and Co is now available for streaming. This film features a dysfunctional family whose lives spiral into chaos after a local rowdy's death. Suspicion falls within the household as each member had a reason to confront t…
+- Description: A Flipkart delivery person was arrested in Bengaluru for allegedly making an obscene gesture. Police registered a case at Marathahalli Police Station based on a woman's complaint. The accused, Vijay Mallikarjun Kamat, faces legal action under the Bharatiya Ny…
 
 
-### HOMICIDE on 2026-07-12 02:52
-- Location: Slashdot.org
-- Description: UK police make new arrest over killing of former politician Ann WiddecombeAP News Man, 28, arrested over murder of former MP Ann WiddecombeThe Guardian 'Fresh arrest in killing of Widdecombe' and 'Saved by the Bell'BBC 28-year-old man arrested on suspicion of…
+### OTHER on 2026-07-12 08:28
+- Location: The Irish Times
+- Description: Highlights include Trinity’s Treasures, The Dark and The Chase Around the World
 
 
-### HOMICIDE on 2026-07-12 02:47
-- Location: RT
-- Description: Two people were killed and at least six others were injured in a mass shooting at Toronto’s Salsa on St. Clair street festival on Saturday Read Full Article at RT.com
+### HOMICIDE on 2026-07-12 08:07
+- Location: BusinessLine
+- Description: Upon reaching the scene, police found 57-year-old Sheetal Wrzesien inside the house with multiple gunshot wounds. She was later pronounced dead
 
-
-### OTHER on 2026-07-12 02:32
-- Location: Dailymail.com
-- Description: Port Melbourne is home to some of Australia's rich and famous, but scratch the surface and it hides a secret that has spilled onto the streets
-
-Analysis generated at: Mon Jul 13 03:27:54 UTC 2026
+Analysis generated at: Mon Jul 13 08:58:21 UTC 2026
