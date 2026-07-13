@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Jul 13 08:58:21 UTC 2026
+Last updated: Mon Jul 13 14:19:03 UTC 2026
 
 ## Latest Analysis
 
-Loaded 117629 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-12 08:51:34
+Loaded 117684 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-12 14:17:30
 
 Incidents by source:
 source
-newsapi           117528
+newsapi           117583
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-07-12 08:51
-- Location: Khabarhub.com
-- Description: TORONTO: Two people were killed and five others injured in a shooting incident in Toronto on Saturday, police said. According to a police emergency alert posted on X, officers responding to the incident found five people suffering from gunshot wounds. Two vic…
+### OTHER on 2026-07-12 14:17
+- Location: Artofmanliness.com
+- Description: For whatever reason (most likely the fact that viewing is easier than reading), films don’t seem to garner the same kind of cultural respect as books do. Which is a shame because excellent movies can be just as entertaining, mind-expanding, and life-changing …
 
 
-### HOMICIDE on 2026-07-12 08:38
-- Location: TheJournal.ie
-- Description: No arrests have been made so far.
+### OTHER on 2026-07-12 14:16
+- Location: allears.net
+- Description: If you're traveling to the Caribbean soon, you need to know about this travel warning.
 
 
-### OTHER on 2026-07-12 08:38
-- Location: The Times of India
-- Description: A Flipkart delivery person was arrested in Bengaluru for allegedly making an obscene gesture. Police registered a case at Marathahalli Police Station based on a woman's complaint. The accused, Vijay Mallikarjun Kamat, faces legal action under the Bharatiya Ny…
+### OTHER on 2026-07-12 14:01
+- Location: Space Daily
+- Description: In February 2021, Japan appointed Tetsushi Sakamoto as the world's second cabinet minister for loneliness, three years after Britain created the role. The move came after a pandemic-era surge in suicides, particularly among women, forced Tokyo to treat social…
 
 
-### OTHER on 2026-07-12 08:28
-- Location: The Irish Times
-- Description: Highlights include Trinity’s Treasures, The Dark and The Chase Around the World
+### HOMICIDE on 2026-07-12 14:00
+- Location: Thegatewaypundit.com
+- Description: A 15-year-old Dutch girl has been arrested on suspicion of fatally stabbing her parents to death inside their home during the early hours of June 18 in what authorities are investigating as a double murder.
+The post Nightmare in the Netherlands: 15-Year-Old G…
 
 
-### HOMICIDE on 2026-07-12 08:07
-- Location: BusinessLine
-- Description: Upon reaching the scene, police found 57-year-old Sheetal Wrzesien inside the house with multiple gunshot wounds. She was later pronounced dead
+### ROBBERY/THEFT on 2026-07-12 14:00
+- Location: Fox News
+- Description: Germany recorded 751 group rape cases in 2025 with 578 non-German suspects identified, as a Nuremberg grooming gang investigation continues to expand.
 
-Analysis generated at: Mon Jul 13 08:58:21 UTC 2026
+Analysis generated at: Mon Jul 13 14:19:03 UTC 2026
