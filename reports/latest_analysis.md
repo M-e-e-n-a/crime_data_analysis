@@ -1,10 +1,10 @@
 
-Loaded 117566 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-11 18:55:51
+Loaded 117595 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-12 02:05:56
 
 Incidents by source:
 source
-newsapi           117465
+newsapi           117494
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,31 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-07-11 18:55
-- Location: Freerepublic.com
-- Description: A European professional basketball player was fatally shot and two people wounded when gunfire erupted Friday night at a packed Harlem basketball tournament, cops and witnesses said. Kinu Rochford, a standout at Fairleigh Dickinson University in New Jersey, w…
+### OTHER on 2026-07-12 02:05
+- Location: soompi
+- Description: There are some actors who defy labels like Seo In Guk. Having seamlessly shifted between genres throughout his career, he has consistently showcased remarkable ease and depth in every role. From playing an endearing high schooler in the ’90s, to a warm-hearte…
 
 
-### OTHER on 2026-07-11 18:53
-- Location: The Punch
-- Description: The IPCR commends President Tinubu and security chiefs for the successful rescue of abducted Oyo pupils, highlighting commitment to national security and i
-
-Read More: https://punchng.com/ipcr-lauds-tinubu-security-chiefs-over-rescue-of-abducted-oyo-pupils/
-
-
-### HOMICIDE on 2026-07-11 18:49
-- Location: The Times of India
-- Description: Akhilesh Yadav says PDA justice needs BJP voted out; cites Meerut Dalit student Lalita Gautam murder, alleged weak charges, and police action on protesters.
-
-
-### HOMICIDE on 2026-07-11 18:45
+### OTHER on 2026-07-12 02:00
 - Location: ABC News (AU)
-- Description: When Araki Osamu first heard reports a bear had been seen in the streets of his home town, a 1-hour bullet train ride north of Tokyo, he dismissed it as "fake news".
+- Description: The former AFLW player was an adult when she realised her childhood had warped her understanding of love.
 
 
-### HOMICIDE on 2026-07-11 18:39
-- Location: Protothema.gr
-- Description: They deny any intent to kill, insisting the shots were meant only to intimidate the fleeing 20-year-old, who tried twice to strike them with his car and now remains in critical condition in intensive care
-The post Two police officers remanded in custody over …
+### OTHER on 2026-07-12 01:57
+- Location: ABC News (AU)
+- Description: A man who entered the property where Dezi Freeman had been hiding out in north-east Victoria has been charged with trespass.
 
-Analysis generated at: Sun Jul 12 18:58:42 UTC 2026
+
+### HOMICIDE on 2026-07-12 01:55
+- Location: CNA
+- Description: MONTREAL: Police in Toronto were searching on Saturday (Jul 11) night for an active shooter who had killed two people and wounded three in an area lined with shops and restaurants."Please avoid the area immediately and follow all directions from police," Toro…
+
+
+### HOMICIDE on 2026-07-12 01:55
+- Location: CNA
+- Description: MONTREAL: Two people were killed on Saturday (Jul 11) and at least four more were wounded in a shooting at a salsa festival in Toronto, local police said, with a suspect remaining at large.According to the most recent report by Toronto police, six victims wer…
+
+Analysis generated at: Mon Jul 13 02:10:12 UTC 2026
