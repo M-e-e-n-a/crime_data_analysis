@@ -1,10 +1,10 @@
 
-Loaded 117595 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-12 02:05:56
+Loaded 117609 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-12 03:15:41
 
 Incidents by source:
 source
-newsapi           117494
+newsapi           117508
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-07-12 02:05
-- Location: soompi
-- Description: There are some actors who defy labels like Seo In Guk. Having seamlessly shifted between genres throughout his career, he has consistently showcased remarkable ease and depth in every role. From playing an endearing high schooler in the ’90s, to a warm-hearte…
+### HOMICIDE on 2026-07-12 03:15
+- Location: Freerepublic.com
+- Description: Ann Widdecombe, the former Conservative minister and outspoken pro-life advocate, was found dead with serious injuries at her home on Dartmoor on Thursday. The suspicious death is leading Devon and Cornwall Police to launch a murder investigation. Officers we…
 
 
-### OTHER on 2026-07-12 02:00
-- Location: ABC News (AU)
-- Description: The former AFLW player was an adult when she realised her childhood had warped her understanding of love.
+### HOMICIDE on 2026-07-12 03:04
+- Location: The Times of India
+- Description: The Tamil black comedy thriller Parimala and Co is now available for streaming. This film features a dysfunctional family whose lives spiral into chaos after a local rowdy's death. Suspicion falls within the household as each member had a reason to confront t…
 
 
-### OTHER on 2026-07-12 01:57
-- Location: ABC News (AU)
-- Description: A man who entered the property where Dezi Freeman had been hiding out in north-east Victoria has been charged with trespass.
+### HOMICIDE on 2026-07-12 02:52
+- Location: Slashdot.org
+- Description: UK police make new arrest over killing of former politician Ann WiddecombeAP News Man, 28, arrested over murder of former MP Ann WiddecombeThe Guardian 'Fresh arrest in killing of Widdecombe' and 'Saved by the Bell'BBC 28-year-old man arrested on suspicion of…
 
 
-### HOMICIDE on 2026-07-12 01:55
-- Location: CNA
-- Description: MONTREAL: Police in Toronto were searching on Saturday (Jul 11) night for an active shooter who had killed two people and wounded three in an area lined with shops and restaurants."Please avoid the area immediately and follow all directions from police," Toro…
+### HOMICIDE on 2026-07-12 02:47
+- Location: RT
+- Description: Two people were killed and at least six others were injured in a mass shooting at Toronto’s Salsa on St. Clair street festival on Saturday Read Full Article at RT.com
 
 
-### HOMICIDE on 2026-07-12 01:55
-- Location: CNA
-- Description: MONTREAL: Two people were killed on Saturday (Jul 11) and at least four more were wounded in a shooting at a salsa festival in Toronto, local police said, with a suspect remaining at large.According to the most recent report by Toronto police, six victims wer…
+### OTHER on 2026-07-12 02:32
+- Location: Dailymail.com
+- Description: Port Melbourne is home to some of Australia's rich and famous, but scratch the surface and it hides a secret that has spilled onto the streets
 
-Analysis generated at: Mon Jul 13 02:10:12 UTC 2026
+Analysis generated at: Mon Jul 13 03:27:54 UTC 2026
