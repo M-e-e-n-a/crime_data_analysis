@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Jul 14 07:54:16 UTC 2026
+Last updated: Tue Jul 14 13:20:44 UTC 2026
 
 ## Latest Analysis
 
-Loaded 117836 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-13 07:45:03
+Loaded 117910 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-13 13:20:14
 
 Incidents by source:
 source
-newsapi           117735
+newsapi           117809
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2026-07-13 07:45
-- Location: The Times of India
-- Description: The Supreme Court has directed the Uttar Pradesh Special Investigation Team to submit a status report. This probe concerns alleged embezzlement of donation money at the Ram temple in Ayodhya. The court also issued notices to the Shri Ram Janmabhoomi Teerth Ks…
+### HOMICIDE on 2026-07-13 13:20
+- Location: Thepinknews.com
+- Description: More than four decades after the murder of Anthony Littler, two brothers have been jailed for killing the 45-year-old civil servant during what a judge described as a sustained campaign of violence targeting men they believed were gay. Michael Stewart, 57, an…
 
 
-### HOMICIDE on 2026-07-13 07:37
-- Location: POLITICO.eu
-- Description: The political week starts with the shockwaves from the murder of Reform politician – Ann Widdecombe – which has put MPs’ security back in the spotlight. Sam Coates and Anne McElvoy have the latest on the police investigation, Nigel Farage’s response and the w…
+### HOMICIDE on 2026-07-13 13:19
+- Location: CNN
+- Description: A person was killed Monday in an ICE-involved shooting in Biddeford, Maine, according to the state’s speaker of the house — just days after a federal immigration officer fatally shot a Mexican immigrant during a traffic stop in Houston, sparking mass protests…
 
 
-### ASSAULT on 2026-07-13 07:32
-- Location: The Times of India
-- Description: Five Delhi tourists were booked for assaulting rafting operators in Rishikesh. The incident occurred after operators objected to public alcohol consumption near Khara Shrot Parking. Police confirmed the accused had consumed alcohol after a medical examination…
+### OTHER on 2026-07-13 13:14
+- Location: BBC News
+- Description: Vusimusi "Cat" Matlala could have given evidence against senior police officials in a $22m graft case.
 
 
-### HOMICIDE on 2026-07-13 07:26
-- Location: ABC News (AU)
-- Description: A young Perth doctor and musician is behind bars, accused of killing a 63-year-old man after a late-night Fremantle scuffle. What do we know?
+### OTHER on 2026-07-13 13:00
+- Location: Ssir.org
+- Description: Recognition, distortion, and the organizing infrastructure behind Minnesota's response to Operation Metro Surge.
 
 
-### ASSAULT on 2026-07-13 07:21
-- Location: ABC News (AU)
-- Description: The Jewish Community Council of South Australia condemns an act of vandalism committed on a man's Adelaide home as police continue to investigate.
+### OTHER on 2026-07-13 13:00
+- Location: Longreads.com
+- Description: “It’s been called ‘one of the greatest cold cases of the 20th century.’ It remains unsolved. But what happened next is almost a worse crime.”
 
-Analysis generated at: Tue Jul 14 07:54:16 UTC 2026
+Analysis generated at: Tue Jul 14 13:20:44 UTC 2026
