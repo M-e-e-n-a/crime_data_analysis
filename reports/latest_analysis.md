@@ -1,10 +1,10 @@
 
-Loaded 117774 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-12 19:19:08
+Loaded 117791 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-13 01:49:03
 
 Incidents by source:
 source
-newsapi           117673
+newsapi           117690
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### DRUG RELATED on 2026-07-12 19:19
+### OTHER on 2026-07-13 01:49
 - Location: The Times of India
-- Description: Nagpur Crime Branch Anti-Narcotics Squad seized 55 kg ganja in Dahibazar, arrested two, and recovered cash, mobiles, scales and a moped; NDPS case filed.
+- Description: Britain will allocate over £250 million for Jewish community security over three years. This funding will deploy over 500 additional police officers across England and Wales. Increased patrols will enhance security in Jewish neighborhoods and around community…
 
 
-### ROBBERY/THEFT on 2026-07-12 19:17
-- Location: The Times of India
-- Description: Raisen jewellery theft: Police arrest 2 in Rs 1 crore burglary; gang kingpin absconding and stolen gold-silver yet to be recovered, probe ongoing.
-
-
-### HOMICIDE on 2026-07-12 19:14
-- Location: New Zealand Herald
-- Description: Hundreds gathered on July 1 to seek safety and unity after two violent deaths.
-
-
-### OTHER on 2026-07-12 19:12
+### ASSAULT on 2026-07-13 01:28
 - Location: New York Post
-- Description: Two days after The Post blew the whistle, a scary homeless encampment along Manhattan's West Side has grown to 12 city blocks.
+- Description: A 65-year-old man was entering the turnstiles at the Sutphin Blvd-Archer Avenue subway station in Jamaica, Queens around 3:20 p.m. on Thursday when the alarming assault unfolded.
 
 
-### SHOOTING on 2026-07-12 19:10
-- Location: Breitbart News
-- Description: Approximately 100 people gathered near the steps of City Hall in San Antonio to protest the U.S. Immigration and Customs Enforcement (ICE) involved fatal shooting of an illegal alien in Houston earlier in the week. Authorities allege the suspect attempted to …
+### DRUG RELATED on 2026-07-13 01:26
+- Location: Activistpost.com
+- Description: Researchers writing in JAMA Psychiatry argue that the FDA-approved label for Exxua, an antidepressant, highlights successful clinical trials while omitting numerous studies that failed to show the drug worked better than placebo. For parents, FDA approval can…
 
-Analysis generated at: Mon Jul 13 19:19:16 UTC 2026
+
+### OTHER on 2026-07-13 01:17
+- Location: BBC News
+- Description: Police forces are to receive extra funds to help increase protection in Jewish communities.
+
+
+### OTHER on 2026-07-13 01:11
+- Location: Vanguard
+- Description: Oil cartels, independent petroleum marketers, tanker owners, drivers, transport unions and enforcement agencies have been blamed for Apapa traffic 
+The post Oil cartels, tanker operators, enforcement agencies blamed for Apapa, Kirikiri gridlock appeared first…
+
+Analysis generated at: Tue Jul 14 01:55:39 UTC 2026
