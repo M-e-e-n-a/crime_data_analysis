@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Jul 14 01:55:39 UTC 2026
+Last updated: Tue Jul 14 02:51:41 UTC 2026
 
 ## Latest Analysis
 
-Loaded 117791 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-13 01:49:03
+Loaded 117796 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-13 02:43:47
 
 Incidents by source:
 source
-newsapi           117690
+newsapi           117695
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,29 +24,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-07-13 01:49
-- Location: The Times of India
-- Description: Britain will allocate over £250 million for Jewish community security over three years. This funding will deploy over 500 additional police officers across England and Wales. Increased patrols will enhance security in Jewish neighborhoods and around community…
+### SHOOTING on 2026-07-13 02:43
+- Location: NBC Chicago
+- Description: Police arrested a suspect in connection with a shooting that left one person injured and prompted a SWAT team response on Saturday, authorities said.
 
 
-### ASSAULT on 2026-07-13 01:28
-- Location: New York Post
-- Description: A 65-year-old man was entering the turnstiles at the Sutphin Blvd-Archer Avenue subway station in Jamaica, Queens around 3:20 p.m. on Thursday when the alarming assault unfolded.
+### OTHER on 2026-07-13 02:38
+- Location: ABC News (AU)
+- Description: Israelis will head to the polls on the last Tuesday in October for an election that will serve as a referendum on the legacy of the country’s longest-serving prime minister, Benjamin Netanyahu.
 
 
-### DRUG RELATED on 2026-07-13 01:26
-- Location: Activistpost.com
-- Description: Researchers writing in JAMA Psychiatry argue that the FDA-approved label for Exxua, an antidepressant, highlights successful clinical trials while omitting numerous studies that failed to show the drug worked better than placebo. For parents, FDA approval can…
+### SHOOTING on 2026-07-13 02:30
+- Location: Joehoft.com
+- Description: Butler, PA: Two Years Without FBI Investigation on Alleged Shooter Republished with permission from AbleChild July 13, 2026, marks the two-year anniversary of the attempted assassination of then candidate Donald Trump at Butler, PA and, after numerous officia…
 
 
-### OTHER on 2026-07-13 01:17
-- Location: BBC News
-- Description: Police forces are to receive extra funds to help increase protection in Jewish communities.
+### HOMICIDE on 2026-07-13 02:07
+- Location: Breitbart News
+- Description: A 15-year-old and a 16-year-old are reportedly in custody after five members of a family were shot and killed in East St. Louis, Illinois, on Sunday.
+The post Police: 15-, 16-Year-Old in Custody After 5 Shot Dead in East St. Louis appeared first on Breitbart.
 
 
-### OTHER on 2026-07-13 01:11
-- Location: Vanguard
-- Description: Oil cartels, independent petroleum marketers, tanker owners, drivers, transport unions and enforcement agencies have been blamed for Apapa traffic 
-The post Oil cartels, tanker operators, enforcement agencies blamed for Apapa, Kirikiri gridlock appeared first…
+### HOMICIDE on 2026-07-13 02:07
+- Location: ABC News (AU)
+- Description: Lavanya Chappa has been remembered as a devoted mother and dear friend, one week after the mother-of-two was stabbed to death in her Melbourne home.
 
-Analysis generated at: Tue Jul 14 01:55:39 UTC 2026
+Analysis generated at: Tue Jul 14 02:51:41 UTC 2026
