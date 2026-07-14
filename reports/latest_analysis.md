@@ -1,10 +1,10 @@
 
-Loaded 117796 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-13 02:43:47
+Loaded 117836 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-13 07:45:03
 
 Incidents by source:
 source
-newsapi           117695
+newsapi           117735
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-07-13 02:43
-- Location: NBC Chicago
-- Description: Police arrested a suspect in connection with a shooting that left one person injured and prompted a SWAT team response on Saturday, authorities said.
+### ROBBERY/THEFT on 2026-07-13 07:45
+- Location: The Times of India
+- Description: The Supreme Court has directed the Uttar Pradesh Special Investigation Team to submit a status report. This probe concerns alleged embezzlement of donation money at the Ram temple in Ayodhya. The court also issued notices to the Shri Ram Janmabhoomi Teerth Ks…
 
 
-### OTHER on 2026-07-13 02:38
+### HOMICIDE on 2026-07-13 07:37
+- Location: POLITICO.eu
+- Description: The political week starts with the shockwaves from the murder of Reform politician – Ann Widdecombe – which has put MPs’ security back in the spotlight. Sam Coates and Anne McElvoy have the latest on the police investigation, Nigel Farage’s response and the w…
+
+
+### ASSAULT on 2026-07-13 07:32
+- Location: The Times of India
+- Description: Five Delhi tourists were booked for assaulting rafting operators in Rishikesh. The incident occurred after operators objected to public alcohol consumption near Khara Shrot Parking. Police confirmed the accused had consumed alcohol after a medical examination…
+
+
+### HOMICIDE on 2026-07-13 07:26
 - Location: ABC News (AU)
-- Description: Israelis will head to the polls on the last Tuesday in October for an election that will serve as a referendum on the legacy of the country’s longest-serving prime minister, Benjamin Netanyahu.
+- Description: A young Perth doctor and musician is behind bars, accused of killing a 63-year-old man after a late-night Fremantle scuffle. What do we know?
 
 
-### SHOOTING on 2026-07-13 02:30
-- Location: Joehoft.com
-- Description: Butler, PA: Two Years Without FBI Investigation on Alleged Shooter Republished with permission from AbleChild July 13, 2026, marks the two-year anniversary of the attempted assassination of then candidate Donald Trump at Butler, PA and, after numerous officia…
-
-
-### HOMICIDE on 2026-07-13 02:07
-- Location: Breitbart News
-- Description: A 15-year-old and a 16-year-old are reportedly in custody after five members of a family were shot and killed in East St. Louis, Illinois, on Sunday.
-The post Police: 15-, 16-Year-Old in Custody After 5 Shot Dead in East St. Louis appeared first on Breitbart.
-
-
-### HOMICIDE on 2026-07-13 02:07
+### ASSAULT on 2026-07-13 07:21
 - Location: ABC News (AU)
-- Description: Lavanya Chappa has been remembered as a devoted mother and dear friend, one week after the mother-of-two was stabbed to death in her Melbourne home.
+- Description: The Jewish Community Council of South Australia condemns an act of vandalism committed on a man's Adelaide home as police continue to investigate.
 
-Analysis generated at: Tue Jul 14 02:51:41 UTC 2026
+Analysis generated at: Tue Jul 14 07:54:16 UTC 2026
