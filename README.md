@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Jul 15 02:49:37 UTC 2026
+Last updated: Wed Jul 15 07:57:46 UTC 2026
 
 ## Latest Analysis
 
-Loaded 118030 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-14 02:39:59
+Loaded 118064 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-14 07:54:40
 
 Incidents by source:
 source
-newsapi           117929
+newsapi           117963
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-07-14 02:39
-- Location: Abcnews.com
-- Description: A Deputy U.S. Marshal was shot and killed on Monday while serving an arrest warrant in Alexandria, Louisiana.
+### HOMICIDE on 2026-07-14 07:54
+- Location: The Times of India
+- Description: A visually impaired man and his mother are detained for a child's death. They allegedly pushed the child and his mother into a well on Sunday. The mother survived by holding onto a wooden structure inside the well. The three-and-a-half-year-old child tragical…
 
 
-### HOMICIDE on 2026-07-14 02:26
-- Location: BBC News
-- Description: Police hope the images could jog memories that will help them find the body of Peter Falconio.
+### HOMICIDE on 2026-07-14 07:31
+- Location: Dailymail.com
+- Description: The BBC was under fire today after inviting a left-wing activist who said 'a lot of people won't be grieving' Ann Widdecombe's murder onto its Politics Live show.
 
 
-### HOMICIDE on 2026-07-14 02:10
-- Location: RTE
-- Description: US Immigration and Customs Enforcement officers shot and killed in a coastal town of Maine, less than a week after an ICE agent in Houston, Texas, shot and killed a man ⁠in a traffic stop during a deportation crackdown there.
+### SHOOTING on 2026-07-14 06:58
+- Location: Fox News
+- Description: A suspect was taken into custody following the fatal shooting on Monday of a Deputy U.S. Marshal serving an arrest warrant in Alexandria, Louisiana.
 
 
-### ASSAULT on 2026-07-14 02:09
-- Location: Newsonjapan.com
-- Description: A 44-year-old man arrested after four people were injured in a knife attack in Saiki, Oita Prefecture, has told investigators in effect that "anyone would do," suggesting the victims were chosen at random, investigative sources said. (News On Japan)
+### HOMICIDE on 2026-07-14 06:52
+- Location: Christiantoday.com
+- Description: MPs have paid tribute to Ann Widdecombe in the Commons as counter-terrorism police continue the investigation into her death.
 
 
-### OTHER on 2026-07-14 02:03
-- Location: RT
-- Description: A European Parliament immigration vote has led to a criminal complaint by one MEP against a colleague over alleged racism Read Full Article at RT.com
+### OTHER on 2026-07-14 06:51
+- Location: The Irish Times
+- Description: Secretary of state claims the global tribunal is interfering with US military and law enforcement operations
 
-Analysis generated at: Wed Jul 15 02:49:37 UTC 2026
+Analysis generated at: Wed Jul 15 07:57:46 UTC 2026
