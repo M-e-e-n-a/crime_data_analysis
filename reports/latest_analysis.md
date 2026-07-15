@@ -1,10 +1,10 @@
 
-Loaded 118011 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-13 19:10:00
+Loaded 118025 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-14 01:37:27
 
 Incidents by source:
 source
-newsapi           117910
+newsapi           117924
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2026-07-13 19:10
-- Location: Mit.edu
-- Description: MIT&#039;s Cybersecurity Clinic helps local governments defend against digital threats. Students gain real-world experience through field assignments.
+### OTHER on 2026-07-14 01:37
+- Location: Cointelegraph
+- Description: The US CLARITY Act gained its second major US law enforcement endorsement through FLEOA, though the group urged tighter DeFi accountability provisions.
 
 
-### HOMICIDE on 2026-07-13 19:08
-- Location: Mother Jones
-- Description: On Monday morning, Immigration and Customs Enforcement agents were involved in yet another fatal shooting. This time in Biddeford, Maine. The Maine Immigrants’ Rights Coalition and Presente! Maine said the victim was a 26-year-old Colombian man who was author…
-
-
-### OTHER on 2026-07-13 19:07
-- Location: Techdirt
-- Description: One thing that we’ve heard for many years in covering a variety of ridiculous civil and criminal court cases is the belief that when a crazy case is filed, the person accused of wrongdoing sh…
-
-
-### HOMICIDE on 2026-07-13 19:05
-- Location: Newser
-- Description: Police have reversed course in the killing of former UK lawmaker Ann Widdecombe, and are now treating her death as a suspected act of terrorism. Counter-terrorism officers took charge after what they described as "new information and evidence" emerged, days a…
-
-
-### HOMICIDE on 2026-07-13 19:04
+### HOMICIDE on 2026-07-14 01:32
 - Location: Dailymail.com
-- Description: Celebrity defense attorney Mark Geragos has represented some of America's most infamous clients. But his most enduring case is not a celebrity scandal.
+- Description: Sarah Grace Patrick appeared in court on Monday, where her defense is asking for the trial to be delayed after claiming new evidence has come to light.
 
-Analysis generated at: Tue Jul 14 19:11:05 UTC 2026
+
+### OTHER on 2026-07-14 01:30
+- Location: CBC News
+- Description: Delta police said Monday they had arrested an employee of the business on July 7, who was subsequently released on conditions "pending further investigation."
+
+
+### SHOOTING on 2026-07-14 01:17
+- Location: CBC News
+- Description: Hundreds of people stood in the courtyard outside Winnipeg's city hall in 34 C heat on Monday to express their opposition to a federal effort to compensate owners of guns the Liberal government describes as "assault-style" firearms.
+
+
+### OTHER on 2026-07-14 01:09
+- Location: New York Post
+- Description: Ro Khanna’s recent trip to the Palestinian village of Khirbet Zanuta was a masterclass in cynical political marketing. The California congressman traveled to the West Bank under the banner of a righteous fact-finding mission, arriving with a full media entour…
+
+Analysis generated at: Wed Jul 15 01:52:48 UTC 2026
