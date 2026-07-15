@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Jul 15 13:24:10 UTC 2026
+Last updated: Wed Jul 15 13:53:00 UTC 2026
 
 ## Latest Analysis
 
-Loaded 118142 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-14 13:23:39
+Loaded 118153 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-14 13:51:45
 
 Incidents by source:
 source
-newsapi           118041
+newsapi           118052
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-07-14 13:23
-- Location: The Conversation Africa
-- Description: Allegations of racist conduct among police forces have led to numerous calls for reform, most of which fail to address the core issues.
+### ROBBERY/THEFT on 2026-07-14 13:51
+- Location: Deadline
+- Description: Here’s the first trailer for Netflix’s The Whisper Man.  The psychological thriller, based on Alex North’s New York Times bestselling novel, stars Robert De Niro, Michelle Monaghan, and Adam Scott. The film follows a widowed crime writer who, when his eight-y…
 
 
-### ASSAULT on 2026-07-14 13:15
-- Location: Dailymail.com
-- Description: The man, 47, who cannot be named to protect the identity of the victim, used his mobile phone to record the attacks which took place over 11 years.
+### ROBBERY/THEFT on 2026-07-14 13:48
+- Location: Dark Horizons
+- Description: Netflix has released the official trailer for the film adaptation of Alex North’s New York Times best-selling novel “The Whisper Man”. When his eight-year-old son is abducted, a widowed crime writer (Adam Scott) looks to his estranged father (Robert De Niro),…
 
 
-### OTHER on 2026-07-14 13:04
-- Location: The Local Germany
-- Description: From runaway caimans to lovestruck swans, and lions that turn out to be wild boars, Germany has elevated the slow-news-day animal story into an art form.
+### OTHER on 2026-07-14 13:47
+- Location: New York Post
+- Description: A former Michigan football coach is alleging in a lawsuit that the school and its leadership at the time were aware of Connor Stalions' sign-stealing scandal and had attempted to keep it from ever being discovered.
 
 
-### HOMICIDE on 2026-07-14 13:00
-- Location: TheJournal.ie
-- Description: A murder investigation was launched following the discovery at a house in Ballymena on Monday.
+### OTHER on 2026-07-14 13:41
+- Location: Gossiplankanews.com
+- Description: The Criminal Investigation Department (CID) today (14) revealed before the Negombo Magistrate's Court that the prison police officers called from outside to quell the recent violent clash within the Negombo Prison were trapped inside the premises due to their…
 
 
-### OTHER on 2026-07-14 13:00
-- Location: Dianeravitch.net
-- Description: Thom Hartmann reflects on the question: are we living in a police state yet? Read his article and judge for yourself. He wrote: Tuesday morning in Houston, Lorenzo Salgado Araujo did what he’d done nearly every morning for 35 years. He woke at 5 a.m., kissed …
+### OTHER on 2026-07-14 13:38
+- Location: Fark.com
+- Description: Day 1602 of WW3. US may move russia sanctions bill to honor Lindsey. This is your Tuesday Ukraine War discussion
 
-Analysis generated at: Wed Jul 15 13:24:10 UTC 2026
+Analysis generated at: Wed Jul 15 13:53:00 UTC 2026
