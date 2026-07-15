@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Jul 15 01:52:48 UTC 2026
+Last updated: Wed Jul 15 02:49:37 UTC 2026
 
 ## Latest Analysis
 
-Loaded 118025 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-14 01:37:27
+Loaded 118030 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-14 02:39:59
 
 Incidents by source:
 source
-newsapi           117924
+newsapi           117929
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-07-14 01:37
-- Location: Cointelegraph
-- Description: The US CLARITY Act gained its second major US law enforcement endorsement through FLEOA, though the group urged tighter DeFi accountability provisions.
+### HOMICIDE on 2026-07-14 02:39
+- Location: Abcnews.com
+- Description: A Deputy U.S. Marshal was shot and killed on Monday while serving an arrest warrant in Alexandria, Louisiana.
 
 
-### HOMICIDE on 2026-07-14 01:32
-- Location: Dailymail.com
-- Description: Sarah Grace Patrick appeared in court on Monday, where her defense is asking for the trial to be delayed after claiming new evidence has come to light.
+### HOMICIDE on 2026-07-14 02:26
+- Location: BBC News
+- Description: Police hope the images could jog memories that will help them find the body of Peter Falconio.
 
 
-### OTHER on 2026-07-14 01:30
-- Location: CBC News
-- Description: Delta police said Monday they had arrested an employee of the business on July 7, who was subsequently released on conditions "pending further investigation."
+### HOMICIDE on 2026-07-14 02:10
+- Location: RTE
+- Description: US Immigration and Customs Enforcement officers shot and killed in a coastal town of Maine, less than a week after an ICE agent in Houston, Texas, shot and killed a man ⁠in a traffic stop during a deportation crackdown there.
 
 
-### SHOOTING on 2026-07-14 01:17
-- Location: CBC News
-- Description: Hundreds of people stood in the courtyard outside Winnipeg's city hall in 34 C heat on Monday to express their opposition to a federal effort to compensate owners of guns the Liberal government describes as "assault-style" firearms.
+### ASSAULT on 2026-07-14 02:09
+- Location: Newsonjapan.com
+- Description: A 44-year-old man arrested after four people were injured in a knife attack in Saiki, Oita Prefecture, has told investigators in effect that "anyone would do," suggesting the victims were chosen at random, investigative sources said. (News On Japan)
 
 
-### OTHER on 2026-07-14 01:09
-- Location: New York Post
-- Description: Ro Khanna’s recent trip to the Palestinian village of Khirbet Zanuta was a masterclass in cynical political marketing. The California congressman traveled to the West Bank under the banner of a righteous fact-finding mission, arriving with a full media entour…
+### OTHER on 2026-07-14 02:03
+- Location: RT
+- Description: A European Parliament immigration vote has led to a criminal complaint by one MEP against a colleague over alleged racism Read Full Article at RT.com
 
-Analysis generated at: Wed Jul 15 01:52:48 UTC 2026
+Analysis generated at: Wed Jul 15 02:49:37 UTC 2026
