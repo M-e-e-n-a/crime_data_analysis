@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Jul 15 07:57:46 UTC 2026
+Last updated: Wed Jul 15 13:24:10 UTC 2026
 
 ## Latest Analysis
 
-Loaded 118064 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-14 07:54:40
+Loaded 118142 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-14 13:23:39
 
 Incidents by source:
 source
-newsapi           117963
+newsapi           118041
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-07-14 07:54
-- Location: The Times of India
-- Description: A visually impaired man and his mother are detained for a child's death. They allegedly pushed the child and his mother into a well on Sunday. The mother survived by holding onto a wooden structure inside the well. The three-and-a-half-year-old child tragical…
+### OTHER on 2026-07-14 13:23
+- Location: The Conversation Africa
+- Description: Allegations of racist conduct among police forces have led to numerous calls for reform, most of which fail to address the core issues.
 
 
-### HOMICIDE on 2026-07-14 07:31
+### ASSAULT on 2026-07-14 13:15
 - Location: Dailymail.com
-- Description: The BBC was under fire today after inviting a left-wing activist who said 'a lot of people won't be grieving' Ann Widdecombe's murder onto its Politics Live show.
+- Description: The man, 47, who cannot be named to protect the identity of the victim, used his mobile phone to record the attacks which took place over 11 years.
 
 
-### SHOOTING on 2026-07-14 06:58
-- Location: Fox News
-- Description: A suspect was taken into custody following the fatal shooting on Monday of a Deputy U.S. Marshal serving an arrest warrant in Alexandria, Louisiana.
+### OTHER on 2026-07-14 13:04
+- Location: The Local Germany
+- Description: From runaway caimans to lovestruck swans, and lions that turn out to be wild boars, Germany has elevated the slow-news-day animal story into an art form.
 
 
-### HOMICIDE on 2026-07-14 06:52
-- Location: Christiantoday.com
-- Description: MPs have paid tribute to Ann Widdecombe in the Commons as counter-terrorism police continue the investigation into her death.
+### HOMICIDE on 2026-07-14 13:00
+- Location: TheJournal.ie
+- Description: A murder investigation was launched following the discovery at a house in Ballymena on Monday.
 
 
-### OTHER on 2026-07-14 06:51
-- Location: The Irish Times
-- Description: Secretary of state claims the global tribunal is interfering with US military and law enforcement operations
+### OTHER on 2026-07-14 13:00
+- Location: Dianeravitch.net
+- Description: Thom Hartmann reflects on the question: are we living in a police state yet? Read his article and judge for yourself. He wrote: Tuesday morning in Houston, Lorenzo Salgado Araujo did what he’d done nearly every morning for 35 years. He woke at 5 a.m., kissed …
 
-Analysis generated at: Wed Jul 15 07:57:46 UTC 2026
+Analysis generated at: Wed Jul 15 13:24:10 UTC 2026
