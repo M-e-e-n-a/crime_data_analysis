@@ -1,10 +1,10 @@
 
-Loaded 118361 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-15 13:23:32
+Loaded 118373 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-15 14:01:22
 
 Incidents by source:
 source
-newsapi           118260
+newsapi           118272
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-07-15 13:23
-- Location: RT
-- Description: South African police have offered a $3,000 reward for information about the killing of Ghanaian national Bashira Issaka in Cape Town Read Full Article at RT.com
+### OTHER on 2026-07-15 14:01
+- Location: Fox News
+- Description: The "WALZ Act" targets welfare fraud and COVID abuse in a sweeping package projected to save taxpayers roughly $240 billion in federal funds.
 
 
-### OTHER on 2026-07-15 13:22
-- Location: Jalopnik
-- Description: Guess who ends up paying the bill for sabotaged Flock cameras?
+### OTHER on 2026-07-15 14:00
+- Location: Legalinsurrection.com
+- Description: "I.C.E., be judicious, fair and smart, and go back and do your very important job. Keep those Crime Stat Records coming!"
+The post ‘Important and Effective’: Trump Wants ICE to Resume Traffic Stops first appeared on Le·gal In·sur·rec·tion.
 
 
-### OTHER on 2026-07-15 13:20
-- Location: Abcnews.com
-- Description: Thousands of people have become sick since May from the illness. The source has not yet been identified, but Taco Bell is taking voluntary precautionary action amid the multistate investigation.
-
-
-### ROBBERY/THEFT on 2026-07-15 13:18
-- Location: Smarterarticles.co.uk
-- Description: Sharon Brightwell heard her daughter crying down the line, and that was the end of any defence she might have mounted. The voice belong...
-
-
-### HOMICIDE on 2026-07-15 13:17
+### OTHER on 2026-07-15 14:00
 - Location: The New Republic
-- Description: President Trump took to Truth Social to tell Immigrations and Customs Enforcement to continue doing traffic stops after the third person was killed in an immigration enforcement operation in the past week.“The men and women of ICE are doing a GREAT job, one t…
+- Description: Hundreds of federal prosecutors are begging the Senate not to confirm Todd Blanche, arguing that the acting attorney general has increasingly placed his loyalty to Donald Trump over his duties to the country.Mimi Rocah and Perry A. Carbone, two prosecutors th…
 
-Analysis generated at: Thu Jul 16 13:30:24 UTC 2026
+
+### OTHER on 2026-07-15 14:00
+- Location: Www.gov.uk
+- Description: Updated information submitted by the applicant in relation to the Holocaust Memorial and Learning Centre planning application.
+
+
+### OTHER on 2026-07-15 14:00
+- Location: Dianeravitch.net
+- Description: Rick Wilson explains why the Senate should refuse to confirm Todd Blanche as Attorney General of the United States. It’s not just that he has covered up the Epstein files and refused to obey the law ordering their release. It’s not just that he personally int…
+
+Analysis generated at: Thu Jul 16 14:04:27 UTC 2026
