@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Jul 16 02:02:57 UTC 2026
+Last updated: Thu Jul 16 02:56:06 UTC 2026
 
 ## Latest Analysis
 
-Loaded 118261 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-15 01:54:48
+Loaded 118269 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-15 02:45:00
 
 Incidents by source:
 source
-newsapi           118160
+newsapi           118168
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-07-15 01:54
-- Location: soompi
-- Description: SBS’s new Friday-Saturday drama “Flex x Cop 2” has revealed new posters! In “Flex x Cop 2,” Ahn Bo Hyun reprises his starring role as Jin Yi Soo, a third-generation chaebol heir who uses his wealth and connections like cheat codes whenever an investigation re…
-
-
-### OTHER on 2026-07-15 01:50
-- Location: New York Post
-- Description: In the most memorable and troubling line of his inaugural address, Mayor Mamdani vowed to “replace the frigidity of rugged individualism with the warmth of collectivism.”
-
-
-### HOMICIDE on 2026-07-15 01:45
-- Location: Common Dreams
-- Description: In their second fatal shooting of the wrong person in just days - and as his three-year-old daughter watched - ICE thugs murdered a young Colombian husband and father legally working in Biddeford, ME for simply trying to driving away. After state Dems blasted…
-
-
-### OTHER on 2026-07-15 01:32
+### OTHER on 2026-07-15 02:45
 - Location: Peoplesreview.com.np
-- Description: By Rabi Raj Thapa Since the promulgation of the federal constitution, Nepal has envisaged a three-tier internal security arrangement, with metropolitan police forces operating at the local level. When 25-year-old Ganesh Pariyar, who worked hard to support his…
+- Description: Kathmandu, July 15: The Kathmandu District Court has sentenced 15 people, including former Deputy Prime Minister Top Bahadur Rayamajhi, former Home Minister Bal Krishna Khand, and former Home Secretary Tek Narayan Pandey, to prison terms and fines in the fake…
 
 
-### OTHER on 2026-07-15 01:24
-- Location: Dailymail.com
-- Description: A man remains on the run after punching two women in the head during a sickening rampage in Melbourne last week.
+### SHOOTING on 2026-07-15 02:44
+- Location: NBC News
+- Description: Welcome to From the Politics Desk, a daily newsletter that brings you the NBC News Politics team’s latest reporting and analysis from the White House, Capitol Hill and the campaign trail.
 
-Analysis generated at: Thu Jul 16 02:02:57 UTC 2026
+
+### HOMICIDE on 2026-07-15 02:41
+- Location: The Times of India
+- Description: The FBI has added Nitish Kaushal to its most wanted list. He is wanted for alleged involvement in murder and drug trafficking. Kaushal is accused of acting for the Bhagwanpuria organised crime group. A federal arrest warrant was issued after Operation Hard Ba…
+
+
+### SHOOTING on 2026-07-15 02:26
+- Location: ABC News (AU)
+- Description: A shooter opened fire on Kealba home, in one of two drive-by shootings in Melbourne's north-west overnight.
+
+
+### OTHER on 2026-07-15 02:22
+- Location: Crypto Briefing
+- Description: The detention highlights rising geopolitical tensions, impacting global markets and emphasizing the need for decentralized financial systems.
+The post China detains US nuclear expert on spying charges, escalating tensions with geopolitical ripple effects for …
+
+Analysis generated at: Thu Jul 16 02:56:06 UTC 2026
