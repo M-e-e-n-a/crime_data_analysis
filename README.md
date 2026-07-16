@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Jul 15 19:03:16 UTC 2026
+Last updated: Thu Jul 16 02:02:57 UTC 2026
 
 ## Latest Analysis
 
-Loaded 118249 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-14 18:58:00
+Loaded 118261 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-15 01:54:48
 
 Incidents by source:
 source
-newsapi           118148
+newsapi           118160
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-07-14 18:58
-- Location: NBC News
-- Description: The fatal ICE shooting in Biddeford, Maine, has inflamed the Democratic primary for Senate, with some candidates partly blaming Sen. Susan Collins for funding the agency.
+### OTHER on 2026-07-15 01:54
+- Location: soompi
+- Description: SBS’s new Friday-Saturday drama “Flex x Cop 2” has revealed new posters! In “Flex x Cop 2,” Ahn Bo Hyun reprises his starring role as Jin Yi Soo, a third-generation chaebol heir who uses his wealth and connections like cheat codes whenever an investigation re…
 
 
-### HOMICIDE on 2026-07-14 18:57
-- Location: CBC News
-- Description: Hundreds of people protested in Maine on Tuesday over the killing of a Colombian man by an Immigration and Customs Enforcement (ICE) officer, after federal officials appeared to shift their narrative about the deadly encounter.
+### OTHER on 2026-07-15 01:50
+- Location: New York Post
+- Description: In the most memorable and troubling line of his inaugural address, Mayor Mamdani vowed to “replace the frigidity of rugged individualism with the warmth of collectivism.”
 
 
-### HOMICIDE on 2026-07-14 18:56
-- Location: The-independent.com
-- Description: Local prosecutors have remained limited in what they can share publicly due to the age of the suspects
+### HOMICIDE on 2026-07-15 01:45
+- Location: Common Dreams
+- Description: In their second fatal shooting of the wrong person in just days - and as his three-year-old daughter watched - ICE thugs murdered a young Colombian husband and father legally working in Biddeford, ME for simply trying to driving away. After state Dems blasted…
 
 
-### HOMICIDE on 2026-07-14 18:55
-- Location: The Times of India
-- Description: Indore Police arrested Vikas alias Dau, wanted in a Lasudia attempted murder case; he faces 20+ criminal cases. Arrest followed June 19 knife attack.
+### OTHER on 2026-07-15 01:32
+- Location: Peoplesreview.com.np
+- Description: By Rabi Raj Thapa Since the promulgation of the federal constitution, Nepal has envisaged a three-tier internal security arrangement, with metropolitan police forces operating at the local level. When 25-year-old Ganesh Pariyar, who worked hard to support his…
 
 
-### HOMICIDE on 2026-07-14 18:55
-- Location: The Times of India
-- Description: Dhar murder: Police arrest Mangilal Mehra for allegedly slitting drinking companion Gulab Singh Bhuria’s throat after a drunken fight in Dobhani village.
+### OTHER on 2026-07-15 01:24
+- Location: Dailymail.com
+- Description: A man remains on the run after punching two women in the head during a sickening rampage in Melbourne last week.
 
-Analysis generated at: Wed Jul 15 19:03:16 UTC 2026
+Analysis generated at: Thu Jul 16 02:02:57 UTC 2026
