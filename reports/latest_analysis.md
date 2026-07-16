@@ -1,10 +1,10 @@
 
-Loaded 118297 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-15 08:00:25
+Loaded 118361 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-15 13:23:32
 
 Incidents by source:
 source
-newsapi           118196
+newsapi           118260
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-07-15 08:00
-- Location: CNN
-- Description: A day after Immigration and Customs Enforcement agents were directed to halt most traffic stops in the wake of two fatal shootings by federal officers, President Donald Trump urged them to resume.
+### HOMICIDE on 2026-07-15 13:23
+- Location: RT
+- Description: South African police have offered a $3,000 reward for information about the killing of Ghanaian national Bashira Issaka in Cape Town Read Full Article at RT.com
 
 
-### SHOOTING on 2026-07-15 08:00
-- Location: CBC News
-- Description: The number of people in the Greater Toronto and Hamilton area applying for their firearms licences has increased significantly in the last decade, most notably in Peel region. It’s not clear what exactly is behind the increase, though it appears — at least in…
+### OTHER on 2026-07-15 13:22
+- Location: Jalopnik
+- Description: Guess who ends up paying the bill for sabotaged Flock cameras?
 
 
-### HOMICIDE on 2026-07-15 08:00
-- Location: CBC News
-- Description: Two recent fatal shootings of motorists by U.S. Immigration and Customs Enforcement agents are sparking renewed calls for change in how the federal agency operates. Following Tuesday reports that Trump officials have told ICE officers to suspend most vehicle …
+### OTHER on 2026-07-15 13:20
+- Location: Abcnews.com
+- Description: Thousands of people have become sick since May from the illness. The source has not yet been identified, but Taco Bell is taking voluntary precautionary action amid the multistate investigation.
 
 
-### HOMICIDE on 2026-07-15 07:55
-- Location: RTE
-- Description: A 43-year-old man has appeared in court charged with the murder of Anthony Long in west Dublin earlier this month.
+### ROBBERY/THEFT on 2026-07-15 13:18
+- Location: Smarterarticles.co.uk
+- Description: Sharon Brightwell heard her daughter crying down the line, and that was the end of any defence she might have mounted. The voice belong...
 
 
-### OTHER on 2026-07-15 06:54
-- Location: The Local Sweden
-- Description: Halved VAT on food lowers inflation, law to stop gang crime adverts comes into force, and Sweden's security adviser forgot his notes at the Nato summit. Here's today's news.
+### HOMICIDE on 2026-07-15 13:17
+- Location: The New Republic
+- Description: President Trump took to Truth Social to tell Immigrations and Customs Enforcement to continue doing traffic stops after the third person was killed in an immigration enforcement operation in the past week.“The men and women of ICE are doing a GREAT job, one t…
 
-Analysis generated at: Thu Jul 16 08:03:42 UTC 2026
+Analysis generated at: Thu Jul 16 13:30:24 UTC 2026
