@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Jul 17 08:00:42 UTC 2026
+Last updated: Fri Jul 17 13:16:08 UTC 2026
 
 ## Latest Analysis
 
-Loaded 118541 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-16 08:00:03
+Loaded 118604 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-16 13:00:49
 
 Incidents by source:
 source
-newsapi           118440
+newsapi           118503
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-07-16 08:00
-- Location: Www.gov.uk
-- Description: The Lord Chancellor has approved the appointment, by the Chair of the Judicial Pension Board, of Carrie Young as an independent member.
+### HOMICIDE on 2026-07-16 13:00
+- Location: Israelnationalnews.com
+- Description: Two weeks after Rabbi Amos Guetta was murdered in Netanya, main suspect stops feigning mute, begins speaking with investigators.
 
 
-### OTHER on 2026-07-16 08:00
-- Location: The Irish Times
-- Description: Senior ICRIR officer says co-operation offered by Dublin to earlier investigation into Freddie Scappaticci ‘has completely disappeared’
+### OTHER on 2026-07-16 13:00
+- Location: spacing.ca
+- Description: I’m old enough to remember when Brad Bradford’s pungent symbol of Toronto’s urban decay was the apparently misnamed Sankofa Square — according to him, a forlorn concrete trapezoid populated by addicts and the homeless, in which anxious parents hustle frighten…
 
 
-### HOMICIDE on 2026-07-16 08:00
-- Location: CBC News
-- Description: Lawyers for the Minister of Public Safety will be in Federal Court Friday trying to keep an alleged senior Bishnoi gang member who faces a murder charge in India in custody at an immigration detention facility while he fights the government's efforts to depor…
+### HOMICIDE on 2026-07-16 13:00
+- Location: Deadline
+- Description: EXCLUSIVE: Crime 101 producer Raw and New Yorker Studios are teaming on a limited series exploring new evidence in the notorious White House Farm killings. The as-yet-untitled show comes from showrunner Emilia di Girolamo (Deceit, Three Pines) and will take i…
 
 
-### HOMICIDE on 2026-07-16 08:00
-- Location: CBC News
-- Description: The brutal murder of a young Punjabi singer has set off an urgent search for her killer, with police in India alleging the chief suspect has fled to Canada.
+### ASSAULT on 2026-07-16 12:51
+- Location: Israelnationalnews.com
+- Description: A British media personality described the harrowing footage he viewed from the October 7 Hamas attack and sharply criticized the pro-Palestinian demonstrations taking place in the UK.
 
 
-### ROBBERY/THEFT on 2026-07-16 07:54
-- Location: The Times of India
-- Description: The Special Investigation Team's final report on Ram temple donation embezzlement is expected shortly. This report will likely lead to significant administrative and donation-counting system reforms. The Supreme Court is also monitoring the investigation and …
+### ASSAULT on 2026-07-16 12:49
+- Location: Theregister.com
+- Description: Sentencing bookends the biggest cybercrime conviction in UK history
 
-Analysis generated at: Fri Jul 17 08:00:42 UTC 2026
+Analysis generated at: Fri Jul 17 13:16:08 UTC 2026
