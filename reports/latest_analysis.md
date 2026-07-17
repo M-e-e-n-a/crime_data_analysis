@@ -1,10 +1,10 @@
 
-Loaded 118494 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-16 02:39:32
+Loaded 118541 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-16 08:00:03
 
 Incidents by source:
 source
-newsapi           118393
+newsapi           118440
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,30 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-07-16 02:39
-- Location: Fox News
-- Description: Authorities said Deputy U.S. Marshal Drew Hanson was fatally shot after Clarence A. Frazier Jr allegedly barricaded himself and opened fire while officers served an arrest warrant.
+### OTHER on 2026-07-16 08:00
+- Location: Www.gov.uk
+- Description: The Lord Chancellor has approved the appointment, by the Chair of the Judicial Pension Board, of Carrie Young as an independent member.
 
 
-### SHOOTING on 2026-07-16 02:37
-- Location: Dailymail.com
-- Description: The mother of 16-year-old Gabbriana Boyster told the teen to lock the door before she left on Friday night. The heartbroken mom discovered her daughter's body the next day.
+### OTHER on 2026-07-16 08:00
+- Location: The Irish Times
+- Description: Senior ICRIR officer says co-operation offered by Dublin to earlier investigation into Freddie Scappaticci ‘has completely disappeared’
 
 
-### OTHER on 2026-07-16 02:35
-- Location: The Punch
-- Description: 13 suspected kidnappers, cultists, and ritualists are set to face trial in Osun State after police operations led to arrests and ransom recovery. Read more
-
-Read More: https://punchng.com/13-suspected-kidnappers-others-face-trial-in-osun/
-
-
-### HOMICIDE on 2026-07-16 02:25
+### HOMICIDE on 2026-07-16 08:00
 - Location: CBC News
-- Description: Alberta RCMP say a man was killed Wednesday afternoon in an officer-involved shooting in Brooks, located about 190 kilometres east of Calgary.
+- Description: Lawyers for the Minister of Public Safety will be in Federal Court Friday trying to keep an alleged senior Bishnoi gang member who faces a murder charge in India in custody at an immigration detention facility while he fights the government's efforts to depor…
 
 
-### OTHER on 2026-07-16 02:23
+### HOMICIDE on 2026-07-16 08:00
+- Location: CBC News
+- Description: The brutal murder of a young Punjabi singer has set off an urgent search for her killer, with police in India alleging the chief suspect has fled to Canada.
+
+
+### ROBBERY/THEFT on 2026-07-16 07:54
 - Location: The Times of India
-- Description: A 28-year-old man was apprehended for the sexual abuse of a 12-year-old girl in KPHB. The harrowing incident took place on a Sunday but only came to police attention by Wednesday. Authorities reported that the accused coaxed the girl into his residence where …
+- Description: The Special Investigation Team's final report on Ram temple donation embezzlement is expected shortly. This report will likely lead to significant administrative and donation-counting system reforms. The Supreme Court is also monitoring the investigation and …
 
-Analysis generated at: Fri Jul 17 02:58:36 UTC 2026
+Analysis generated at: Fri Jul 17 08:00:42 UTC 2026
