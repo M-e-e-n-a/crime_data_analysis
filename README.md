@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Jul 17 13:49:13 UTC 2026
+Last updated: Fri Jul 17 19:00:38 UTC 2026
 
 ## Latest Analysis
 
-Loaded 118608 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-16 13:48:57
+Loaded 118702 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-16 18:55:07
 
 Incidents by source:
 source
-newsapi           118507
+newsapi           118601
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,30 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2026-07-16 13:48
-- Location: Help Net Security
-- Description: Two members of the notorious “Scattered Spider” hacking collective have been sentenced to five years and six months in prison each for a cyberattack on Transport for London (TfL) that disrupted services for thousands of commuters and cost the transport author…
+### OTHER on 2026-07-16 18:55
+- Location: National Post
+- Description: “This whole situation has been blown out of proportion and a person like Kate does not belong in any facility,” Geroni told NJ.com.
 
 
-### HOMICIDE on 2026-07-16 13:35
+### ROBBERY/THEFT on 2026-07-16 18:54
+- Location: The Times of India
+- Description: ₹40,000 found hidden in Ram Janmabhoomi temple washroom exposed alleged donation theft; police recovered nearly ₹80 lakh within 17 hours in UP raids.
+
+
+### HOMICIDE on 2026-07-16 18:54
+- Location: The Times of India
+- Description: Bhopal Aishbagh double murder: SIT arrests broker Shrikant Chichliya’s wife and son for destroying evidence; pistols recovered from Upper Lake.
+
+
+### OTHER on 2026-07-16 18:54
 - Location: Dailymail.com
-- Description: Footage of an 'psychotic' Afghan migrant killing a dog walker in a knife-rampage in West London just two days after doctors ruled he wasn't a threat to the public was played in court.
+- Description: There was a power outage at England's team hotel three days before the Argentina game. In hindsight, it became an unfortunate metaphor.
 
 
-### OTHER on 2026-07-16 13:29
-- Location: Page Six
-- Description: The legendary golfer was involved in a shocking rollover crash back in March.
+### OTHER on 2026-07-16 18:51
+- Location: KQED
+- Description: Undercover police operations are proliferating in jails, even after suspects invoke their rights.
 
-
-### OTHER on 2026-07-16 13:20
-- Location: The Punch
-- Description: Kwara State Police Command foils a N22m kidnap and extortion plot, arresting two Togolese nationals. Learn more about the Kwara kidnap plot.
-
-Read More: https://punchng.com/police-foil-kidnap-plot-arrest-two-foreigners-in-kwara/
-
-
-### HOMICIDE on 2026-07-16 13:00
-- Location: Israelnationalnews.com
-- Description: Two weeks after Rabbi Amos Guetta was murdered in Netanya, main suspect stops feigning mute, begins speaking with investigators.
-
-Analysis generated at: Fri Jul 17 13:49:13 UTC 2026
+Analysis generated at: Fri Jul 17 19:00:38 UTC 2026
