@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Jul 18 02:51:18 UTC 2026
+Last updated: Sat Jul 18 07:41:20 UTC 2026
 
 ## Latest Analysis
 
-Loaded 118722 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-17 02:51:03
+Loaded 118756 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-17 07:41:08
 
 Incidents by source:
 source
-newsapi           118621
+newsapi           118655
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,30 @@ ion.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-07-17 02:51
-- Location: CBC News
-- Description: A Manitoba judge recommends in an inquest report into a fatal shooting by Winnipeg police that changes to use-of-force training be considered to better reflect the unique experiences of Indigenous peoples and people in crisis.
+### ROBBERY/THEFT on 2026-07-17 07:41
+- Location: Biztoc.com
+- Description: The system, introduced in 2024, uses facial recognition to spot people wanted by police on São Paulo’s streets. It issues alerts and officers are dispatched to pick them up. The system can also locate people who have been reported missing, identify stolen veh…
 
 
-### DRUG RELATED on 2026-07-17 02:25
-- Location: ABC News (AU)
-- Description: Police allege more than 200 grams of methamphetamines have been seized during a drug bust at a Mount Isa home in outback Queensland.
+### HOMICIDE on 2026-07-17 07:38
+- Location: The Times of India
+- Description: Bagdogra police arrested five individuals in connection with a gruesome murder case. The victim's wife and her alleged lover were among those apprehended by authorities. The accused allegedly conspired to eliminate the woman's husband and dumped his headless …
 
 
-### SHOOTING on 2026-07-17 02:17
-- Location: Abcnews.com
-- Description: Immigration and Customs Enforcement has been rapidly expanding its workforce, hiring thousands of new officers
+### OTHER on 2026-07-17 07:35
+- Location: Israelnationalnews.com
+- Description: Three young communities and what they contribute to Israel's longterm security. Feature.
 
 
-### OTHER on 2026-07-17 02:10
-- Location: Page Six
-- Description: Insiders told Page Six that the fired security guard was a well-liked presence in the building.
+### HOMICIDE on 2026-07-17 07:20
+- Location: The-independent.com
+- Description: An eight-part series sees Knox’s memoir about her conviction and eventual acquittal for the murder of Meredith Kercher adapted for the small screen. Helen Coffey attempts to sort reality from artistic licence
 
 
-### HOMICIDE on 2026-07-17 02:02
-- Location: Antaranews.com
-- Description: An autopsy found a woman killed in Bali died from neck injuries consistent with strangulation, while police arrested her Singaporean boyfriend on suspicion of ...
+### OTHER on 2026-07-17 07:20
+- Location: The Punch
+- Description: Ugandan prosecutors drop case against two women arrested for kissing under the harsh anti-gay law, sparking calls for repeal.
 
-Analysis generated at: Sat Jul 18 02:51:18 UTC 2026
+Read More: https://punchng.com/uganda-drops-case-against-women-arrested-for-kissing-in-public/
+
+Analysis generated at: Sat Jul 18 07:41:20 UTC 2026
