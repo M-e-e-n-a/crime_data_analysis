@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Jul 18 01:55:42 UTC 2026
+Last updated: Sat Jul 18 02:51:18 UTC 2026
 
 ## Latest Analysis
 
-Loaded 118716 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-17 01:40:31
+Loaded 118722 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-17 02:51:03
 
 Incidents by source:
 source
-newsapi           118615
+newsapi           118621
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-07-17 01:40
-- Location: The Times of India
-- Description: In a shocking incident, Dharwad police have detained Dr. Priyanka following the discovery of her husband, an anaesthesiologist, dead in their home. Their eight-year-old son, found with stab wounds, is currently recovering. Showing signs of distress and confus…
+### SHOOTING on 2026-07-17 02:51
+- Location: CBC News
+- Description: A Manitoba judge recommends in an inquest report into a fatal shooting by Winnipeg police that changes to use-of-force training be considered to better reflect the unique experiences of Indigenous peoples and people in crisis.
 
 
-### OTHER on 2026-07-17 01:24
+### DRUG RELATED on 2026-07-17 02:25
 - Location: ABC News (AU)
-- Description: Plus a noir mystery set in outback Coober Pedy, a true crime drama which doesn't exploit its victims, and more new TV to watch this month.
+- Description: Police allege more than 200 grams of methamphetamines have been seized during a drug bust at a Mount Isa home in outback Queensland.
 
 
-### HOMICIDE on 2026-07-17 01:09
-- Location: ABC News (AU)
-- Description: Corum Ash was released from a mental health hospital months before he allegedly went on to kill a 74-year-old Sydney father of six.
+### SHOOTING on 2026-07-17 02:17
+- Location: Abcnews.com
+- Description: Immigration and Customs Enforcement has been rapidly expanding its workforce, hiring thousands of new officers
 
 
-### HOMICIDE on 2026-07-17 00:56
-- Location: Dailymail.com
-- Description: Corum Ash spent a long stint at a mental health facility in central-west NSW months before he allegedly bashed Quang My Pham and left him for dead.
+### OTHER on 2026-07-17 02:10
+- Location: Page Six
+- Description: Insiders told Page Six that the fired security guard was a well-liked presence in the building.
 
 
-### OTHER on 2026-07-17 00:51
-- Location: Fox News
-- Description: DHS shared video of the Point Pleasant Beach boardwalk incident as the Canadian visa overstay suspect faces removal proceedings in ICE custody.
+### HOMICIDE on 2026-07-17 02:02
+- Location: Antaranews.com
+- Description: An autopsy found a woman killed in Bali died from neck injuries consistent with strangulation, while police arrested her Singaporean boyfriend on suspicion of ...
 
-Analysis generated at: Sat Jul 18 01:55:42 UTC 2026
+Analysis generated at: Sat Jul 18 02:51:18 UTC 2026
