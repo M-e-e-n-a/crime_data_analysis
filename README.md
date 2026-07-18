@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Jul 18 13:25:51 UTC 2026
+Last updated: Sat Jul 18 18:55:47 UTC 2026
 
 ## Latest Analysis
 
-Loaded 118836 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-17 13:20:53
+Loaded 118928 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-17 18:54:17
 
 Incidents by source:
 source
-newsapi           118735
+newsapi           118827
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2026-07-17 13:20
-- Location: The Times of India
-- Description: Two theft attempts in Darhar village, Darbhanga: intruders cut women’s hair after stealing cash; Bahadurpur police confirm incidents and probe suspects.
-
-
-### OTHER on 2026-07-17 13:17
+### HOMICIDE on 2026-07-17 18:54
 - Location: Dailymail.com
-- Description: Melvin, 47, told viewers on Friday he was 'safe and sound,' after man broke through security and lunged at him on-set and shouted a racial slur.
+- Description: An attorney for the family of missing nuclear lab worker Melissa Casias said shocking new evidence has been found that calls the entire police investigation into question.
 
 
-### OTHER on 2026-07-17 13:15
-- Location: DW (English)
-- Description: As voters head to the polls, Sao Tome and Principe is attracting international scrutiny. A military agreement with Russia has heightened interest in the strategically located archipelago.
+### ASSAULT on 2026-07-17 18:48
+- Location: New York Post
+- Description: Investigators with the Sexual Assaults Investigation Unit of the San Jose Police Department believe the hidden camera was affixed under the sink for approximately half an hour.
 
 
-### HOMICIDE on 2026-07-17 13:11
-- Location: Dailymail.com
-- Description: Few would blame John ap Rhys Pryce if he spent his retirement consumed by bitterness after the murder of his son Tom, who was stabbed to death on the streets of London months before his wedding day.
+### OTHER on 2026-07-17 18:48
+- Location: PRNewswire
+- Description: NEWINGTON, N.H., July 17, 2026 /PRNewswire/ -- SIG SAUER, an industry-leading manufacturer of cutting-edge firearms, electro-optics, ammunition, and advanced concepts, issued a statement today after the United States Court of Appeals for the Eighth Circuit on…
 
 
-### OTHER on 2026-07-17 13:00
-- Location: Dailymail.com
-- Description: When the spotlight turns to a female sporting star in a scandal, there's an instinct to tread carefully. Why is nobody in the media prepared to say what's really going on here?
+### HOMICIDE on 2026-07-17 18:47
+- Location: NBC News
+- Description: Hundreds of people came to pay their last respects to the Mexican father of three who worked in construction and had lived in the U.S. for 35 years.
 
-Analysis generated at: Sat Jul 18 13:25:51 UTC 2026
+
+### OTHER on 2026-07-17 18:46
+- Location: Vanguard
+- Description: Three men, including two Nigerians, have been sentenced to a combined 28 years and nine months in prison for stealing nearly £5 million in cryptocurrency from victims through an elaborate fraud scheme.
+The post 2 Nigerians, one other jailed in UK after steali…
+
+Analysis generated at: Sat Jul 18 18:55:47 UTC 2026
