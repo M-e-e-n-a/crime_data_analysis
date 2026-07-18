@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Jul 17 19:00:38 UTC 2026
+Last updated: Sat Jul 18 01:55:42 UTC 2026
 
 ## Latest Analysis
 
-Loaded 118702 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-16 18:55:07
+Loaded 118716 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-17 01:40:31
 
 Incidents by source:
 source
-newsapi           118601
+newsapi           118615
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-07-16 18:55
-- Location: National Post
-- Description: “This whole situation has been blown out of proportion and a person like Kate does not belong in any facility,” Geroni told NJ.com.
-
-
-### ROBBERY/THEFT on 2026-07-16 18:54
+### HOMICIDE on 2026-07-17 01:40
 - Location: The Times of India
-- Description: ₹40,000 found hidden in Ram Janmabhoomi temple washroom exposed alleged donation theft; police recovered nearly ₹80 lakh within 17 hours in UP raids.
+- Description: In a shocking incident, Dharwad police have detained Dr. Priyanka following the discovery of her husband, an anaesthesiologist, dead in their home. Their eight-year-old son, found with stab wounds, is currently recovering. Showing signs of distress and confus…
 
 
-### HOMICIDE on 2026-07-16 18:54
-- Location: The Times of India
-- Description: Bhopal Aishbagh double murder: SIT arrests broker Shrikant Chichliya’s wife and son for destroying evidence; pistols recovered from Upper Lake.
+### OTHER on 2026-07-17 01:24
+- Location: ABC News (AU)
+- Description: Plus a noir mystery set in outback Coober Pedy, a true crime drama which doesn't exploit its victims, and more new TV to watch this month.
 
 
-### OTHER on 2026-07-16 18:54
+### HOMICIDE on 2026-07-17 01:09
+- Location: ABC News (AU)
+- Description: Corum Ash was released from a mental health hospital months before he allegedly went on to kill a 74-year-old Sydney father of six.
+
+
+### HOMICIDE on 2026-07-17 00:56
 - Location: Dailymail.com
-- Description: There was a power outage at England's team hotel three days before the Argentina game. In hindsight, it became an unfortunate metaphor.
+- Description: Corum Ash spent a long stint at a mental health facility in central-west NSW months before he allegedly bashed Quang My Pham and left him for dead.
 
 
-### OTHER on 2026-07-16 18:51
-- Location: KQED
-- Description: Undercover police operations are proliferating in jails, even after suspects invoke their rights.
+### OTHER on 2026-07-17 00:51
+- Location: Fox News
+- Description: DHS shared video of the Point Pleasant Beach boardwalk incident as the Canadian visa overstay suspect faces removal proceedings in ICE custody.
 
-Analysis generated at: Fri Jul 17 19:00:38 UTC 2026
+Analysis generated at: Sat Jul 18 01:55:42 UTC 2026
