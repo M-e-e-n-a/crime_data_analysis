@@ -1,10 +1,10 @@
 
-Loaded 118756 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-17 07:41:08
+Loaded 118832 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-17 13:00:08
 
 Incidents by source:
 source
-newsapi           118655
+newsapi           118731
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,30 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2026-07-17 07:41
-- Location: Biztoc.com
-- Description: The system, introduced in 2024, uses facial recognition to spot people wanted by police on São Paulo’s streets. It issues alerts and officers are dispatched to pick them up. The system can also locate people who have been reported missing, identify stolen veh…
+### OTHER on 2026-07-17 13:00
+- Location: Dailymail.com
+- Description: When the spotlight turns to a female sporting star in a scandal, there's an instinct to tread carefully. Why is nobody in the media prepared to say what's really going on here?
 
 
-### HOMICIDE on 2026-07-17 07:38
-- Location: The Times of India
-- Description: Bagdogra police arrested five individuals in connection with a gruesome murder case. The victim's wife and her alleged lover were among those apprehended by authorities. The accused allegedly conspired to eliminate the woman's husband and dumped his headless …
+### SHOOTING on 2026-07-17 13:00
+- Location: Backwoodshome.com
+- Description: If you have firearms that work with detachable box magazines, you darn sure want more than one. The magazine is one of the major causes of malfunctions. If you only have one and it goes belly up, your gun just became a single shot. Going to a shooting match? …
 
 
-### OTHER on 2026-07-17 07:35
-- Location: Israelnationalnews.com
-- Description: Three young communities and what they contribute to Israel's longterm security. Feature.
+### HOMICIDE on 2026-07-17 12:57
+- Location: Dailymail.com
+- Description: Faith Isaacs says the final message she received from her murdered sister Jana Armstrong didn't sound like her - as chilling new details about Jana's last days have emerged.
 
 
-### HOMICIDE on 2026-07-17 07:20
-- Location: The-independent.com
-- Description: An eight-part series sees Knox’s memoir about her conviction and eventual acquittal for the murder of Meredith Kercher adapted for the small screen. Helen Coffey attempts to sort reality from artistic licence
+### OTHER on 2026-07-17 12:55
+- Location: Fox News
+- Description: A federal ICE agent reveals why vehicle stops are safer than home raids and reduce collateral arrests during immigration enforcement operations.
 
 
-### OTHER on 2026-07-17 07:20
-- Location: The Punch
-- Description: Ugandan prosecutors drop case against two women arrested for kissing under the harsh anti-gay law, sparking calls for repeal.
+### OTHER on 2026-07-17 12:52
+- Location: Slashdot.org
+- Description: ‘Today Show’ hate-crime suspect who allegedly targeted Craig Melvin was homeless ex-con with long criminal historyNew York Post 'TODAY' Show Intruder Arrested, Allegedly Hurled Racial Slur, Lunged at Craig MelvinTMZ Craig Melvin Addresses Today Security Breac…
 
-Read More: https://punchng.com/uganda-drops-case-against-women-arrested-for-kissing-in-public/
-
-Analysis generated at: Sat Jul 18 07:41:20 UTC 2026
+Analysis generated at: Sat Jul 18 13:02:20 UTC 2026
