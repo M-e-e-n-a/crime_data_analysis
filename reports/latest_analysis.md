@@ -1,10 +1,10 @@
 
-Loaded 118928 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-17 18:54:17
+Loaded 118948 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-18 01:31:20
 
 Incidents by source:
 source
-newsapi           118827
+newsapi           118847
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,29 +20,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-07-17 18:54
-- Location: Dailymail.com
-- Description: An attorney for the family of missing nuclear lab worker Melissa Casias said shocking new evidence has been found that calls the entire police investigation into question.
+### SHOOTING on 2026-07-18 01:31
+- Location: Fark.com
+- Description: Empoyee at ICE detainment center arrested after shooting a protestor. No word on where he got the idea that that sort of thing was okay
 
 
-### ASSAULT on 2026-07-17 18:48
-- Location: New York Post
-- Description: Investigators with the Sexual Assaults Investigation Unit of the San Jose Police Department believe the hidden camera was affixed under the sink for approximately half an hour.
+### OTHER on 2026-07-18 01:22
+- Location: Vulture
+- Description: A man has been arrested for driving his car into the gate of Beyoncé and Jay-Z’s East Hampton home. He’s been charged with criminal mischief and criminal trespass.
 
 
-### OTHER on 2026-07-17 18:48
-- Location: PRNewswire
-- Description: NEWINGTON, N.H., July 17, 2026 /PRNewswire/ -- SIG SAUER, an industry-leading manufacturer of cutting-edge firearms, electro-optics, ammunition, and advanced concepts, issued a statement today after the United States Court of Appeals for the Eighth Circuit on…
+### HOMICIDE on 2026-07-18 01:15
+- Location: Khabarhub.com
+- Description: JANAKPURDHAM: Siraha police have arrested a man who had been on the run for nearly 18 years after allegedly killing a woman over a dowry dispute. The arrested accused has been identified as Ramnath Rai, 60, of Siraha. He had been absconding since the murder o…
 
 
-### HOMICIDE on 2026-07-17 18:47
-- Location: NBC News
-- Description: Hundreds of people came to pay their last respects to the Mexican father of three who worked in construction and had lived in the U.S. for 35 years.
+### SHOOTING on 2026-07-18 01:13
+- Location: WSB Atlanta
+- Description: Clara Ester, an activist who as a 20-year-old college student rushed to the Rev. Martin Luther King Jr.’s side when he was shot, has died.
 
 
-### OTHER on 2026-07-17 18:46
-- Location: Vanguard
-- Description: Three men, including two Nigerians, have been sentenced to a combined 28 years and nine months in prison for stealing nearly £5 million in cryptocurrency from victims through an elaborate fraud scheme.
-The post 2 Nigerians, one other jailed in UK after steali…
+### OTHER on 2026-07-18 01:12
+- Location: Breitbart News
+- Description: House Judiciary Committee Chairman Jim Jordan (R-OH) said Friday that he is “very concerned” Canada’s expanding censorship and surveillance laws could erode the free-speech and privacy rights of Americans.
+The post Jim Jordan Warns Canada’s Censorship Push Co…
 
-Analysis generated at: Sat Jul 18 18:55:47 UTC 2026
+Analysis generated at: Sun Jul 19 02:06:18 UTC 2026
