@@ -1,10 +1,10 @@
 
-Loaded 119014 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-18 13:21:17
+Loaded 119062 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-18 18:56:17
 
 Incidents by source:
 source
-newsapi           118913
+newsapi           118961
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,29 +20,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-07-18 13:21
+### ROBBERY/THEFT on 2026-07-18 18:56
 - Location: The Times of India
-- Description: Belagavi police arrest 6, including a sister-in-law, for allegedly masterminding the July 16 double murder over a land dispute in Nugganatti village.
+- Description: Madurai police arrested two for illegal gravel soil theft in S Puliyankulam after SP inspection; tipper truck and excavator seized, case filed under BNS.
 
 
-### HOMICIDE on 2026-07-18 13:19
+### ASSAULT on 2026-07-18 18:54
+- Location: Breitbart News
+- Description: A former Rhode Island anesthesiologist who had been on the run for more than 20 years after being convicted of sexual assault was arrested Thursday on his sailboat in the East River in New York City.
+The post Convicted Rapist On the Run for Two Decades Nabbed…
+
+
+### HOMICIDE on 2026-07-18 18:44
 - Location: The Times of India
-- Description: Juvenile among 3 held for groom Nabi Rasool’s murder at post-wedding party in Ballari; stabbed after argument. One accused still absconding, police say.
+- Description: Seven booked by Jamnagar C-Division police for rioting and murder after a July 17 dispute over abusive language led to a fatal stabbing in Gokulnagar.
 
 
-### ROBBERY/THEFT on 2026-07-18 13:13
+### OTHER on 2026-07-18 18:38
 - Location: The Times of India
-- Description: An alleged theft at a Facebook Marketplace meeting has led to an Ontario police investigation into a rare hockey card of San Jose Sharks forward Macklin Celebrini. Authorities say the collectible has been recovered and a teenager has been charged. The inciden…
+- Description: Congress leaders moved to defuse a row after claims Kerala CM V D Satheesan snubbed KSU chief Aloysius Xavier over govt pleader appointments.
 
 
-### OTHER on 2026-07-18 13:09
+### HOMICIDE on 2026-07-18 18:38
 - Location: The Times of India
-- Description: Retired Udupi banker duped of Rs 22 lakh in “digital arrest” scam; fraudsters posing as cyber crime, ED and CBI officials used WhatsApp calls to demand RTGS transfers.
+- Description: Yogi Adityanath meets murdered Dalit student Lalita Gautam’s family, promises strict action, orders probe accountability, and announces Rs 5 lakh aid.
 
-
-### OTHER on 2026-07-18 13:09
-- Location: Vanguard
-- Description: Onoja said then that during the operations the troops also neutralised several terrorists and dismantled criminal networks.
-The post Military rescues over 40 victims, arrests over 20 terrorists in one week — DHQ appeared first on Vanguard News.
-
-Analysis generated at: Sun Jul 19 13:28:15 UTC 2026
+Analysis generated at: Sun Jul 19 19:00:25 UTC 2026
