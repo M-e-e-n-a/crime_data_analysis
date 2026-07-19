@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Jul 19 08:07:56 UTC 2026
+Last updated: Sun Jul 19 13:04:31 UTC 2026
 
 ## Latest Analysis
 
-Loaded 118971 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-18 08:00:00
+Loaded 119007 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-18 12:37:16
 
 Incidents by source:
 source
-newsapi           118870
+newsapi           118906
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,29 +24,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2026-07-18 08:00
-- Location: WHYY
-- Description: The city and activists have vowed to continue the legal fight to restore the original panels that focused on the nine enslaved people held by George Washington at the site.
+### HOMICIDE on 2026-07-18 12:37
+- Location: BBC News
+- Description: Specially-trained firearms officers were sent to an altercation, with the woman found nearby.
 
 
-### OTHER on 2026-07-18 07:20
+### ROBBERY/THEFT on 2026-07-18 12:30
 - Location: The Times of India
-- Description: Punjab Police arrested Inspector Gurinderjit Singh Nagra over allegations linking him to a US federal indictment in an alleged extortion conspiracy involving an India-based organised crime syndicate.
+- Description: Jalna police solved a daylight trader robbery within 24 hours, arresting four and recovering Rs 4.81 lakh, a bike, phones and a dagger used in the crime.
 
 
-### HOMICIDE on 2026-07-18 07:08
-- Location: Vanguard
-- Description: Troops of the Nigerian military, in coordination with other security agencies, have rescued 42 kidnapped victims, neutralised 8 terrorists and arrested 28 others during several encounters at the theatres of operation in the past one week.
-The post Troops resc…
+### OTHER on 2026-07-18 12:27
+- Location: Protothema.gr
+- Description: The Directorate for Combating Organized Crime has taken over the investigation. The suitcase was discovered by a homeless man inside an abandoned building
+The post Body found inside suitcase in Kypseli appeared first on ProtoThema English.
 
 
-### OTHER on 2026-07-18 07:00
-- Location: TechRadar
-- Description: NHS England warns staff that unlawful patient record access could result in dismissal, prosecution, and prison while expanding monitoring across healthcare organizations.
+### SHOOTING on 2026-07-18 12:22
+- Location: Raw Story
+- Description: A fight erupted on CNN Saturday morning as conservative political commentator tried and failed to defend Federal Bureau of Investigation Director Kash Patel as reports mount of ICE agents involved in fatal shootings. Jason Rantz spurred an uproar as he tried …
 
 
-### OTHER on 2026-07-18 06:57
-- Location: The Times of India
-- Description: Mumbai Police are verifying an alleged threat received by actor Aamir Khan. The threat, attributed to the Lawrence Bishnoi gang, surfaced online via social media and voice notes. Authorities are currently examining the messages. This alleged threat came days …
+### HOMICIDE on 2026-07-18 12:13
+- Location: New York Post
+- Description: A half-mile section of Washington Heights has been transformed into an open-air prescription drug bazaar, with brazen vendors illegally peddling painkillers, erectile dysfunction pills, and an array of other meds – some at huge markups, The Post has learned.
 
-Analysis generated at: Sun Jul 19 08:07:56 UTC 2026
+Analysis generated at: Sun Jul 19 13:04:31 UTC 2026
