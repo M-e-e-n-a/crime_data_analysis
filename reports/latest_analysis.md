@@ -1,10 +1,10 @@
 
-Loaded 119007 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-18 12:37:16
+Loaded 119014 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-18 13:21:17
 
 Incidents by source:
 source
-newsapi           118906
+newsapi           118913
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,29 +20,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-07-18 12:37
-- Location: BBC News
-- Description: Specially-trained firearms officers were sent to an altercation, with the woman found nearby.
-
-
-### ROBBERY/THEFT on 2026-07-18 12:30
+### HOMICIDE on 2026-07-18 13:21
 - Location: The Times of India
-- Description: Jalna police solved a daylight trader robbery within 24 hours, arresting four and recovering Rs 4.81 lakh, a bike, phones and a dagger used in the crime.
+- Description: Belagavi police arrest 6, including a sister-in-law, for allegedly masterminding the July 16 double murder over a land dispute in Nugganatti village.
 
 
-### OTHER on 2026-07-18 12:27
-- Location: Protothema.gr
-- Description: The Directorate for Combating Organized Crime has taken over the investigation. The suitcase was discovered by a homeless man inside an abandoned building
-The post Body found inside suitcase in Kypseli appeared first on ProtoThema English.
+### HOMICIDE on 2026-07-18 13:19
+- Location: The Times of India
+- Description: Juvenile among 3 held for groom Nabi Rasool’s murder at post-wedding party in Ballari; stabbed after argument. One accused still absconding, police say.
 
 
-### SHOOTING on 2026-07-18 12:22
-- Location: Raw Story
-- Description: A fight erupted on CNN Saturday morning as conservative political commentator tried and failed to defend Federal Bureau of Investigation Director Kash Patel as reports mount of ICE agents involved in fatal shootings. Jason Rantz spurred an uproar as he tried …
+### ROBBERY/THEFT on 2026-07-18 13:13
+- Location: The Times of India
+- Description: An alleged theft at a Facebook Marketplace meeting has led to an Ontario police investigation into a rare hockey card of San Jose Sharks forward Macklin Celebrini. Authorities say the collectible has been recovered and a teenager has been charged. The inciden…
 
 
-### HOMICIDE on 2026-07-18 12:13
-- Location: New York Post
-- Description: A half-mile section of Washington Heights has been transformed into an open-air prescription drug bazaar, with brazen vendors illegally peddling painkillers, erectile dysfunction pills, and an array of other meds – some at huge markups, The Post has learned.
+### OTHER on 2026-07-18 13:09
+- Location: The Times of India
+- Description: Retired Udupi banker duped of Rs 22 lakh in “digital arrest” scam; fraudsters posing as cyber crime, ED and CBI officials used WhatsApp calls to demand RTGS transfers.
 
-Analysis generated at: Sun Jul 19 13:04:31 UTC 2026
+
+### OTHER on 2026-07-18 13:09
+- Location: Vanguard
+- Description: Onoja said then that during the operations the troops also neutralised several terrorists and dismantled criminal networks.
+The post Military rescues over 40 victims, arrests over 20 terrorists in one week — DHQ appeared first on Vanguard News.
+
+Analysis generated at: Sun Jul 19 13:28:15 UTC 2026
