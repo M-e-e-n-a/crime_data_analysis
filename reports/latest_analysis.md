@@ -1,10 +1,10 @@
 
-Loaded 118952 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-18 03:10:48
+Loaded 118971 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-18 08:00:00
 
 Incidents by source:
 source
-newsapi           118851
+newsapi           118870
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-07-18 03:10
-- Location: Freerepublic.com
-- Description: A Tesla driver was arrested and charged with murder this week after a mother and her baby died in a fiery crash on Highway 87 in San Jose. The Tesla driver, 31-year-old Zachary Chernicky of San Jose, was allegedly driving 142 mph seconds before he caused the …
+### ASSAULT on 2026-07-18 08:00
+- Location: WHYY
+- Description: The city and activists have vowed to continue the legal fight to restore the original panels that focused on the nine enslaved people held by George Washington at the site.
 
 
-### SHOOTING on 2026-07-18 02:55
-- Location: Gossiplankanews.com
-- Description: The post-mortem examination and autopsy of the country's 35th Inspector General of Police, Mr. C.D. Wickramaratne, who died from a gunshot wound, were scheduled to be held yesterday (17).As an initial step in these investigations, the Judicial Medical Officer…
+### OTHER on 2026-07-18 07:20
+- Location: The Times of India
+- Description: Punjab Police arrested Inspector Gurinderjit Singh Nagra over allegations linking him to a US federal indictment in an alleged extortion conspiracy involving an India-based organised crime syndicate.
 
 
-### HOMICIDE on 2026-07-18 02:38
-- Location: The Irish Times
-- Description: Garbhán Downey details the sinister murkiness of Seán Brown’s murder as well as its investigative failings
+### HOMICIDE on 2026-07-18 07:08
+- Location: Vanguard
+- Description: Troops of the Nigerian military, in coordination with other security agencies, have rescued 42 kidnapped victims, neutralised 8 terrorists and arrested 28 others during several encounters at the theatres of operation in the past one week.
+The post Troops resc…
 
 
-### ASSAULT on 2026-07-18 02:26
-- Location: New York Post
-- Description: California’s soft-on-crime lunacy continues –– and we’re glad to see a victims’ rights group fighting back.
+### OTHER on 2026-07-18 07:00
+- Location: TechRadar
+- Description: NHS England warns staff that unlawful patient record access could result in dismissal, prosecution, and prison while expanding monitoring across healthcare organizations.
 
 
-### SHOOTING on 2026-07-18 01:31
-- Location: Fark.com
-- Description: Empoyee at ICE detainment center arrested after shooting a protestor. No word on where he got the idea that that sort of thing was okay
+### OTHER on 2026-07-18 06:57
+- Location: The Times of India
+- Description: Mumbai Police are verifying an alleged threat received by actor Aamir Khan. The threat, attributed to the Lawrence Bishnoi gang, surfaced online via social media and voice notes. Authorities are currently examining the messages. This alleged threat came days …
 
-Analysis generated at: Sun Jul 19 03:21:26 UTC 2026
+Analysis generated at: Sun Jul 19 08:07:56 UTC 2026
