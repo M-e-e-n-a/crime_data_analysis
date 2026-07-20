@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Jul 20 13:55:18 UTC 2026
+Last updated: Mon Jul 20 14:17:09 UTC 2026
 
 ## Latest Analysis
 
-Loaded 119160 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-19 13:47:15
+Loaded 119172 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-19 14:15:11
 
 Incidents by source:
 source
-newsapi           119059
+newsapi           119071
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,29 +24,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-07-19 13:47
+### OTHER on 2026-07-19 14:15
+- Location: Screen Rant
+- Description: There have been some great crime movies over the years, and here are the best ones released that are based on real criminals and their stories.
+
+
+### ROBBERY/THEFT on 2026-07-19 14:13
+- Location: Johnnyjet.com
+- Description: My friend, Paul Gauger, who is a perpetual world traveler, recently posted on Facebook about how his phone was stolen. It’s such a valuable travel lesson that I’m grateful he...
+The post Don’t Fall for This New Phone Theft Scam Targeting Tourists appeared fir…
+
+
+### OTHER on 2026-07-19 14:11
 - Location: The Times of India
-- Description: Buxar to launch Prabhakiran Abhiyan on July 20, holding camps across 130 panchayats to boost PM Surya Ghar rooftop solar adoption and cut power bills.
+- Description: Messi and Argentina jerseys spark record sales in Kolkata during World Cup fever, outselling Spain and Yamal as official stores sell out and street demand surges.
 
 
-### OTHER on 2026-07-19 13:46
+### OTHER on 2026-07-19 14:09
 - Location: The Times of India
-- Description: Mobile phone explodes in biker’s pocket on Pandhurna–Parsodi road in Madhya Pradesh; 33-year-old suffers 9% burns and leg fracture, referred to Nagpur.
+- Description: Kerala govt declares Monday holiday for all schools and colleges for FIFA World Cup final; exams will be held as scheduled, no compensatory day yet.
 
 
-### SHOOTING on 2026-07-19 13:41
-- Location: Freerepublic.com
-- Description: As of around a decade ago, all Islamic terrorism in Europe was reclassified as mental illness. There’s been a lot of mental illness incidents lately, but that’s probably just due to stress, overwork and some black book we’re not allowed to mention. Here’s a f…
-
-
-### OTHER on 2026-07-19 13:39
+### OTHER on 2026-07-19 14:06
 - Location: The Times of India
-- Description: Calcutta High Court orders status quo on demolition of TMC MP Abhishek Banerjee’s Amtala office till end-July; state to produce records; hearing Monday.
+- Description: Odisha Rath Yatra saw devotees create green corridors for ambulances amid political noise; also highlights Ikat symbolism, tight security and IPS resignations.
 
-
-### ROBBERY/THEFT on 2026-07-19 13:30
-- Location: Futurism
-- Description: It blocked emergency vehicles from reaching a fire.
-The post Amazon’s Robotaxi Company Recalls Its Fleet After One of its Cars Got Confused by Heavy Smoke appeared first on Futurism.
-
-Analysis generated at: Mon Jul 20 13:55:18 UTC 2026
+Analysis generated at: Mon Jul 20 14:17:09 UTC 2026
