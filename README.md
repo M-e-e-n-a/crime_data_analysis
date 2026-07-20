@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Jul 20 03:27:11 UTC 2026
+Last updated: Mon Jul 20 03:35:23 UTC 2026
 
 ## Latest Analysis
 
-Loaded 119096 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-19 03:21:00
+Loaded 119097 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-19 03:30:12
 
 Incidents by source:
 source
-newsapi           118995
+newsapi           118996
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -23,6 +23,11 @@ ion.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### OTHER on 2026-07-19 03:30
+- Location: Screen Rant
+- Description: The exceptional quality of this series has cemented its status as one of the best crime thrillers available on Prime Video, long after its premiere.
+
 
 ### OTHER on 2026-07-19 03:21
 - Location: Fox News
@@ -43,9 +48,4 @@ ion.svg)
 - Location: New York Post
 - Description: City records show sanitation workers spent the past year repeatedly cleaning up bodily fluids in Los Angeles's MacArthur Park.
 
-
-### OTHER on 2026-07-19 02:50
-- Location: The Times of India
-- Description: An advocate faces charges for secretly transferring private data from female lawyers' iPhones. He allegedly used Apple's AirDrop feature on court premises over several days. The accused obtained phone access by falsely claiming to download court orders. One w…
-
-Analysis generated at: Mon Jul 20 03:27:11 UTC 2026
+Analysis generated at: Mon Jul 20 03:35:23 UTC 2026
