@@ -1,10 +1,10 @@
 
-Loaded 119172 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-19 14:15:11
+Loaded 119248 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-19 19:37:18
 
 Incidents by source:
 source
-newsapi           119071
+newsapi           119147
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-07-19 14:15
-- Location: Screen Rant
-- Description: There have been some great crime movies over the years, and here are the best ones released that are based on real criminals and their stories.
+### OTHER on 2026-07-19 19:37
+- Location: Bleeding Cool News
+- Description: The team behind Paramount+ with Showtime and Showrunner Clyde Phillips's Michael C. Hall-starring Dexter: Resurrection has been doing a fine job of keeping fans updated as filming on the second season rolls along. After some big casting news last week, writer…
 
 
-### ROBBERY/THEFT on 2026-07-19 14:13
-- Location: Johnnyjet.com
-- Description: My friend, Paul Gauger, who is a perpetual world traveler, recently posted on Facebook about how his phone was stolen. It’s such a valuable travel lesson that I’m grateful he...
-The post Don’t Fall for This New Phone Theft Scam Targeting Tourists appeared fir…
-
-
-### OTHER on 2026-07-19 14:11
+### HOMICIDE on 2026-07-19 19:31
 - Location: The Times of India
-- Description: Messi and Argentina jerseys spark record sales in Kolkata during World Cup fever, outselling Spain and Yamal as official stores sell out and street demand surges.
+- Description: Autopsy in Gandhidham, Kutch reveals 33-year-old Sonam Sunar was murdered; husband Sultan Sumra arrested for assault with belt; police recover weapon.
 
 
-### OTHER on 2026-07-19 14:09
+### ROBBERY/THEFT on 2026-07-19 19:31
 - Location: The Times of India
-- Description: Kerala govt declares Monday holiday for all schools and colleges for FIFA World Cup final; exams will be held as scheduled, no compensatory day yet.
+- Description: Chhattisgarh HC closes suo motu PIL on alleged illegal murum mining from Army land near Bilaspur; reports found no match, vigilance ordered, revival possible.
 
 
-### OTHER on 2026-07-19 14:06
+### HOMICIDE on 2026-07-19 19:31
 - Location: The Times of India
-- Description: Odisha Rath Yatra saw devotees create green corridors for ambulances amid political noise; also highlights Ikat symbolism, tight security and IPS resignations.
+- Description: Hardoi court sentences woman’s father-in-law and brother-in-law to life for burning her and two daughters alive in 2014 dowry case; ₹40,000 fine, forensic proof.
 
-Analysis generated at: Mon Jul 20 14:17:09 UTC 2026
+
+### HOMICIDE on 2026-07-19 19:24
+- Location: The Times of India
+- Description: Nagpur: Auto driver stabbed to death, robbed on Gorewada-Pitesur road; seven accused arrested, two sought. Incident fuels calls for stronger night patrolling.
+
+Analysis generated at: Mon Jul 20 19:38:13 UTC 2026
