@@ -1,10 +1,10 @@
 
-Loaded 119097 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-19 03:30:12
+Loaded 119121 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-19 08:07:22
 
 Incidents by source:
 source
-newsapi           118996
+newsapi           119020
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,31 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-07-19 03:30
-- Location: Screen Rant
-- Description: The exceptional quality of this series has cemented its status as one of the best crime thrillers available on Prime Video, long after its premiere.
+### OTHER on 2026-07-19 08:07
+- Location: The Punch
+- Description: Social media influencer Andrew Tate and his brother Tristan have been arrested by US Marshals in Miami, facing 59 charges including rape and sex traffickin
+
+Read More: https://punchng.com/us-marshals-arrest-influencer-andrew-tate-brother-on-59-charges/
 
 
-### OTHER on 2026-07-19 03:21
-- Location: Fox News
-- Description: Tulsi Gabbard's older brother Batarti Gabbard was charged with custodial interference after allegedly luring children at a Waikīkī hotel pool.
+### ROBBERY/THEFT on 2026-07-19 08:05
+- Location: Dailymail.com
+- Description: Tyreece Clarke-Jones (pictured), 28, who raps under the name Tallerz, escaped from jail on May 23 while serving an eight-year sentence for robbery involving an axe and hammer.
 
 
-### OTHER on 2026-07-19 03:11
-- Location: CNA
-- Description: Andrew Tate is one of the most prominent proponents of the so-called "manosphere" network of communities, many of them online, that focus on traditional masculinity, anti-feminism, and self-improvement.
+### HOMICIDE on 2026-07-19 08:02
+- Location: Dailymail.com
+- Description: Somaiya Begum was enjoying a well-earned lazy afternoon, curled up on the sofa in her uncle's terraced home, on the day she went missing.
 
 
-### OTHER on 2026-07-19 03:08
-- Location: New York Post
-- Description: MacArthur Park offers a grim — and frankly absurd — case study in what happens when progressive ideology steamrolls common sense.
+### OTHER on 2026-07-19 08:00
+- Location: Offgridsurvival.com
+- Description: Divorce as SHTF: Documents, Accounts, and Getting Out Intact
+She’s been planning this since last October. Talked to a lawyer in the spring. Copied the tax returns in June. Knows what’s in the 401k, knows what the house appraises for, knows which credit card h…
 
 
-### OTHER on 2026-07-19 03:07
-- Location: New York Post
-- Description: City records show sanitation workers spent the past year repeatedly cleaning up bodily fluids in Los Angeles's MacArthur Park.
+### OTHER on 2026-07-19 07:53
+- Location: Vanguard
+- Description: By Kingsley Omonobi Troops of the 34 Artillery Brigade under Operation Udoka, in collaboration with other security agencies, have disrupted a suspected kidnapping syndicate in Imo State during an intelligence-led operation. The operation, conducted on July 17…
 
-Analysis generated at: Mon Jul 20 03:35:23 UTC 2026
+Analysis generated at: Mon Jul 20 08:49:04 UTC 2026
