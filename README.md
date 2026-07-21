@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Jul 21 02:04:48 UTC 2026
+Last updated: Tue Jul 21 03:16:25 UTC 2026
 
 ## Latest Analysis
 
-Loaded 119261 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-20 02:00:00
+Loaded 119265 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-20 03:13:23
 
 Incidents by source:
 source
-newsapi           119160
+newsapi           119164
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,68 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
+### HOMICIDE on 2026-07-20 03:13
+- Location: Crimethinc.com
+- Description: On July 20, 2001, during the G8 summit in Genoa, a police officer killed a 23-year-old demonstrator named Carlo Giuliani. Carlo could have been any of us.
+
+
+### HOMICIDE on 2026-07-20 03:04
+- Location: Dailymail.com
+- Description: Kendra Scott, 36, was arrested on a first-degree murder charge after Memphis police discovered a dead man with a gunshot wound on her front porch.
+
+
+### OTHER on 2026-07-20 02:50
+- Location: Researchbuzz.me
+- Description: ANTI-AI ACTIVISM Reuters: Data center opponents stage 142 protests across 42 US states. “Opponents of the rapid buildout of data centers held ​142 protests across 42 states on Saturday in the first […]
+
+
+### OTHER on 2026-07-20 02:13
+- Location: ABC News (AU)
+- Description: Police investigate how a woman was stabbed and found with wounds on a Kalgoorlie street in the early hours of this morning
+
+
 ### OTHER on 2026-07-20 02:00
 - Location: Snopes.com
 - Description: A Tennessee woman spent six months in jail after an artificial intelligence tool misidentified her as a North Dakota bank fraud suspect.
 
-
-### ROBBERY/THEFT on 2026-07-20 01:43
-- Location: New Zealand Herald
-- Description: School principal Megan Syme said it would take a few days to reinstall the heating.
-
-
-### OTHER on 2026-07-20 01:00
-- Location: Human Rights Watch
-- Description: Click to expand Image
- 
-
-
-
- 
- 
- 
-
- 
- 
- 
- 
- Bangladesh military and Rapid Action Battalion personnel stand guard outside the Supreme Court in Dhaka, February 8, 2025.
- © 2025 Suvra Kanti Das/Abaca/Sipa via AP Photo 
- 
- 
-
-
- 
-(London) – The Bangladeshi authoriti…
-
-
-### OTHER on 2026-07-20 01:00
-- Location: Human Rights Watch
-- Description: Click to expand Image
- 
-
-
-
- 
- 
- 
-
- 
- 
- 
- 
- Bangladesh military and Rapid Action Battalion personnel stand guard outside the Supreme Court in Dhaka, February 8, 2025.
- © 2025 Suvra Kanti Das/Abaca/Sipa via AP Photo 
- 
- 
-
-
- 
-(London) – The Bangladeshi authoriti…
-
-
-### SHOOTING on 2026-07-20 00:56
-- Location: Dailymail.com
-- Description: Officials said that a large group of bystanders was outside Reign Event Center in Minneapolis just before 12.30am when a fight escalated.
-
-Analysis generated at: Tue Jul 21 02:04:48 UTC 2026
+Analysis generated at: Tue Jul 21 03:16:25 UTC 2026
