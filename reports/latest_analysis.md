@@ -1,10 +1,10 @@
 
-Loaded 119248 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-19 19:37:18
+Loaded 119261 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-20 02:00:00
 
 Incidents by source:
 source
-newsapi           119147
+newsapi           119160
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,68 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-07-19 19:37
-- Location: Bleeding Cool News
-- Description: The team behind Paramount+ with Showtime and Showrunner Clyde Phillips's Michael C. Hall-starring Dexter: Resurrection has been doing a fine job of keeping fans updated as filming on the second season rolls along. After some big casting news last week, writer…
+### OTHER on 2026-07-20 02:00
+- Location: Snopes.com
+- Description: A Tennessee woman spent six months in jail after an artificial intelligence tool misidentified her as a North Dakota bank fraud suspect.
 
 
-### HOMICIDE on 2026-07-19 19:31
-- Location: The Times of India
-- Description: Autopsy in Gandhidham, Kutch reveals 33-year-old Sonam Sunar was murdered; husband Sultan Sumra arrested for assault with belt; police recover weapon.
+### ROBBERY/THEFT on 2026-07-20 01:43
+- Location: New Zealand Herald
+- Description: School principal Megan Syme said it would take a few days to reinstall the heating.
 
 
-### ROBBERY/THEFT on 2026-07-19 19:31
-- Location: The Times of India
-- Description: Chhattisgarh HC closes suo motu PIL on alleged illegal murum mining from Army land near Bilaspur; reports found no match, vigilance ordered, revival possible.
+### OTHER on 2026-07-20 01:00
+- Location: Human Rights Watch
+- Description: Click to expand Image
+ 
 
 
-### HOMICIDE on 2026-07-19 19:31
-- Location: The Times of India
-- Description: Hardoi court sentences woman’s father-in-law and brother-in-law to life for burning her and two daughters alive in 2014 dowry case; ₹40,000 fine, forensic proof.
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Bangladesh military and Rapid Action Battalion personnel stand guard outside the Supreme Court in Dhaka, February 8, 2025.
+ © 2025 Suvra Kanti Das/Abaca/Sipa via AP Photo 
+ 
+ 
 
 
-### HOMICIDE on 2026-07-19 19:24
-- Location: The Times of India
-- Description: Nagpur: Auto driver stabbed to death, robbed on Gorewada-Pitesur road; seven accused arrested, two sought. Incident fuels calls for stronger night patrolling.
+ 
+(London) – The Bangladeshi authoriti…
 
-Analysis generated at: Mon Jul 20 19:38:13 UTC 2026
+
+### OTHER on 2026-07-20 01:00
+- Location: Human Rights Watch
+- Description: Click to expand Image
+ 
+
+
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Bangladesh military and Rapid Action Battalion personnel stand guard outside the Supreme Court in Dhaka, February 8, 2025.
+ © 2025 Suvra Kanti Das/Abaca/Sipa via AP Photo 
+ 
+ 
+
+
+ 
+(London) – The Bangladeshi authoriti…
+
+
+### SHOOTING on 2026-07-20 00:56
+- Location: Dailymail.com
+- Description: Officials said that a large group of bystanders was outside Reign Event Center in Minneapolis just before 12.30am when a fight escalated.
+
+Analysis generated at: Tue Jul 21 02:04:48 UTC 2026
