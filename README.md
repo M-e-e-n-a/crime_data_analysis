@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Jul 21 13:25:49 UTC 2026
+Last updated: Tue Jul 21 14:04:17 UTC 2026
 
 ## Latest Analysis
 
-Loaded 119336 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-20 13:20:54
+Loaded 119345 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-20 13:54:39
 
 Incidents by source:
 source
-newsapi           119235
+newsapi           119244
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,43 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-07-20 13:20
-- Location: Largeheartedboy.com
-- Description: "As I fashioned these documents into a book, the music of that era played nonstop in my head, often intruding on the narrative."
+### OTHER on 2026-07-20 13:54
+- Location: The Punch
+- Description: Anambra State Police Command intensifies surveillance patrols to boost security and protect lives and property. Stay safe with enhanced police presence.
+
+Read More: https://punchng.com/police-intensify-surveillance-patrols-to-boost-security-in-anambra/
 
 
-### HOMICIDE on 2026-07-20 13:17
-- Location: The-independent.com
-- Description: Explore how major events between 20 and 26 May were captured on The Independent’s front pages
+### OTHER on 2026-07-20 13:46
+- Location: Dailymail.com
+- Description: Police forces across England and Wales said dealing with the early release of thousands of prisoners from September is 'another ask' for officers across the country.
 
 
-### HOMICIDE on 2026-07-20 13:17
+### OTHER on 2026-07-20 13:39
 - Location: The New Republic
-- Description: Donald Trump’s administration has found a new way to grant ICE total impunity after a slew of deadly incidents involving federal immigration agents. Last week, FBI agents received notice that their agency would no longer investigate claims of assault against …
+- Description: President Trump announced plans to max out the security on the $400 million luxury jumbo jet gifted to him by the Qatari royal family, suggesting that insufficient security  was indeed the reason he ditched it so abruptly earlier this month. “Mr. President, t…
 
 
-### OTHER on 2026-07-20 13:11
-- Location: Steynonline.com
-- Description: Meet the new boss, same as the old boss... And, by "boss" I mean Big Dubai Money who seem to have their hand in everything from GB News on the "right" to the new UK prime minister on the "left": Ex Lammy adviser Ben Judah explains that Andy Burnham is
+### OTHER on 2026-07-20 13:34
+- Location: The Atlantic
+- Description: Can Mark Kelly translate goodwill to excitement for presidential campaign?
+
+ 
+ 
+ 
+ (Third column, 3rd story, link)
+
+ 
+
+ 
+
+ 
+ Related stories:AOC channels Obama's 'Hope and Change' message...
+Deploys faux Southern accent...
 
 
-### OTHER on 2026-07-20 13:10
-- Location: Boredpanda.com
-- Description: A viral resurfaced bodycam video from a 2025 campus arrest has reignited debate over pronouns, policing, and public conduct.
+### OTHER on 2026-07-20 13:34
+- Location: Maize n Brew
+- Description: BREAKING: Athletics Director Warde Manuel will be leaving the University of Michigan at the end of the calendar year. STORY:
 
-Analysis generated at: Tue Jul 21 13:25:49 UTC 2026
+Analysis generated at: Tue Jul 21 14:04:17 UTC 2026
