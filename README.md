@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Jul 21 03:16:25 UTC 2026
+Last updated: Tue Jul 21 08:16:25 UTC 2026
 
 ## Latest Analysis
 
-Loaded 119265 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-20 03:13:23
+Loaded 119283 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-20 08:00:00
 
 Incidents by source:
 source
-newsapi           119164
+newsapi           119182
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,30 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-07-20 03:13
-- Location: Crimethinc.com
-- Description: On July 20, 2001, during the G8 summit in Genoa, a police officer killed a 23-year-old demonstrator named Carlo Giuliani. Carlo could have been any of us.
+### HOMICIDE on 2026-07-20 08:00
+- Location: Sportsnaut
+- Description: Last week, we put together a nice little mailbag, and had a lot of great questions! Since the questions deadline […]
 
 
-### HOMICIDE on 2026-07-20 03:04
-- Location: Dailymail.com
-- Description: Kendra Scott, 36, was arrested on a first-degree murder charge after Memphis police discovered a dead man with a gunshot wound on her front porch.
+### OTHER on 2026-07-20 08:00
+- Location: CBC News
+- Description: Superior court indictments filed for eight of those accused in the police corruption investigation known as Project South list 33 fewer charges against them than what they were originally charged with by police earlier this year. Screening and streamlining ch…
 
 
-### OTHER on 2026-07-20 02:50
-- Location: Researchbuzz.me
-- Description: ANTI-AI ACTIVISM Reuters: Data center opponents stage 142 protests across 42 US states. “Opponents of the rapid buildout of data centers held ​142 protests across 42 states on Saturday in the first […]
+### SHOOTING on 2026-07-20 07:55
+- Location: Biztoc.com
+- Description: A mass shooting in Tucson, Arizona, has left nine people wounded, police have said.
+Officers shot a suspected gunman at the scene, and he was taken to hospital with life-threatening injuries.
+The incident began at around 2 a.m. on Sunday, when officers on pat…
 
 
-### OTHER on 2026-07-20 02:13
-- Location: ABC News (AU)
-- Description: Police investigate how a woman was stabbed and found with wounds on a Kalgoorlie street in the early hours of this morning
+### OTHER on 2026-07-20 07:34
+- Location: YLE News
+- Description: Police have apprehended a 66 year old suspect.
 
 
-### OTHER on 2026-07-20 02:00
-- Location: Snopes.com
-- Description: A Tennessee woman spent six months in jail after an artificial intelligence tool misidentified her as a North Dakota bank fraud suspect.
+### HOMICIDE on 2026-07-20 07:22
+- Location: India Today
+- Description: Police said the 19-year-old allegedly attacked his mother 56 while she was asleep at their Chennai home The accused was reportedly undergoing treatment for mental health issues
 
-Analysis generated at: Tue Jul 21 03:16:25 UTC 2026
+Analysis generated at: Tue Jul 21 08:16:25 UTC 2026
