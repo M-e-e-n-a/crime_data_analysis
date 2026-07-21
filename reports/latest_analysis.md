@@ -1,10 +1,10 @@
 
-Loaded 119283 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-20 08:00:00
+Loaded 119336 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-20 13:20:54
 
 Incidents by source:
 source
-newsapi           119182
+newsapi           119235
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,30 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-07-20 08:00
-- Location: Sportsnaut
-- Description: Last week, we put together a nice little mailbag, and had a lot of great questions! Since the questions deadline […]
+### OTHER on 2026-07-20 13:20
+- Location: Largeheartedboy.com
+- Description: "As I fashioned these documents into a book, the music of that era played nonstop in my head, often intruding on the narrative."
 
 
-### OTHER on 2026-07-20 08:00
-- Location: CBC News
-- Description: Superior court indictments filed for eight of those accused in the police corruption investigation known as Project South list 33 fewer charges against them than what they were originally charged with by police earlier this year. Screening and streamlining ch…
+### HOMICIDE on 2026-07-20 13:17
+- Location: The-independent.com
+- Description: Explore how major events between 20 and 26 May were captured on The Independent’s front pages
 
 
-### SHOOTING on 2026-07-20 07:55
-- Location: Biztoc.com
-- Description: A mass shooting in Tucson, Arizona, has left nine people wounded, police have said.
-Officers shot a suspected gunman at the scene, and he was taken to hospital with life-threatening injuries.
-The incident began at around 2 a.m. on Sunday, when officers on pat…
+### HOMICIDE on 2026-07-20 13:17
+- Location: The New Republic
+- Description: Donald Trump’s administration has found a new way to grant ICE total impunity after a slew of deadly incidents involving federal immigration agents. Last week, FBI agents received notice that their agency would no longer investigate claims of assault against …
 
 
-### OTHER on 2026-07-20 07:34
-- Location: YLE News
-- Description: Police have apprehended a 66 year old suspect.
+### OTHER on 2026-07-20 13:11
+- Location: Steynonline.com
+- Description: Meet the new boss, same as the old boss... And, by "boss" I mean Big Dubai Money who seem to have their hand in everything from GB News on the "right" to the new UK prime minister on the "left": Ex Lammy adviser Ben Judah explains that Andy Burnham is
 
 
-### HOMICIDE on 2026-07-20 07:22
-- Location: India Today
-- Description: Police said the 19-year-old allegedly attacked his mother 56 while she was asleep at their Chennai home The accused was reportedly undergoing treatment for mental health issues
+### OTHER on 2026-07-20 13:10
+- Location: Boredpanda.com
+- Description: A viral resurfaced bodycam video from a 2025 campus arrest has reignited debate over pronouns, policing, and public conduct.
 
-Analysis generated at: Tue Jul 21 08:16:25 UTC 2026
+Analysis generated at: Tue Jul 21 13:25:49 UTC 2026
