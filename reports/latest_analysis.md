@@ -1,10 +1,10 @@
 
-Loaded 119438 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-20 19:09:23
+Loaded 119453 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-21 01:38:08
 
 Incidents by source:
 source
-newsapi           119337
+newsapi           119352
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-07-20 19:09
+### ROBBERY/THEFT on 2026-07-21 01:38
+- Location: New York Post
+- Description: A crew of ruffians all decked out in black brutally attacked and robbed a man sleeping aboard a Manhattan subway train last week, police said. Cops said the three fiends approached the 32-year-old victim while he was getting some shut-eye on a southbound 4 tr…
+
+
+### OTHER on 2026-07-21 01:30
 - Location: The Times of India
-- Description: 40-year-old woman allegedly beaten to death by husband after domestic dispute in Dewas’ Jalodiya village; police register murder case, accused in custody.
+- Description: India News: NEW DELHI: Expressing concern that there has been no let-up in incidents of rape/ gangrape despite punishment for the crimes being made stringent in t.
 
 
-### HOMICIDE on 2026-07-20 19:09
+### OTHER on 2026-07-21 01:28
+- Location: CBC News
+- Description: A man who claimed to be part of the Bishnoi gang was arrested earlier this year for trying to extort a Winnipeg resident, a civil forfeiture lawsuit filed in the Manitoba Court of King's Bench this month says.
+
+
+### HOMICIDE on 2026-07-21 01:24
+- Location: ABC News (AU)
+- Description: Nearly three months since the death of Kumanjayi Little Baby, a review into her family circumstances prior to the tragedy has been handed down.
+
+
+### OTHER on 2026-07-21 01:18
 - Location: The Times of India
-- Description: Indore police arrest man for alleged murder of his uncle Kamal Kumawat over loan repayment dispute; victim found stabbed at home, knife recovered by FSL.
+- Description: Enzo Fernández and Valentina Cervantes have built a strong financial life through football, endorsements, brand partnerships and smart investments. While Enzo’s Chelsea salary remains the biggest source of income, Valentina has also grown her own career as a …
 
-
-### OTHER on 2026-07-20 19:08
-- Location: Fox News
-- Description: Andrew Truelove's criminal record spans two decades, including attempted kidnapping and making threats, before his alleged hate crime involving Craig Melvin.
-
-
-### SHOOTING on 2026-07-20 19:01
-- Location: Fox News
-- Description: Tom Homan clashed with CBS' Margaret Brennan over whether ICE officers activated emergency lights before fatally shooting Lorenzo Salgado Araujo in Houston.
-
-
-### OTHER on 2026-07-20 19:00
-- Location: Legalinsurrection.com
-- Description: Mamdani is itching to arrest Netanyahu.
-The post Trump Fires Back at Mamdani: ‘Netanyahu Will Not be Arrested’ first appeared on Le·gal In·sur·rec·tion.
-
-Analysis generated at: Tue Jul 21 19:11:29 UTC 2026
+Analysis generated at: Wed Jul 22 02:03:07 UTC 2026
