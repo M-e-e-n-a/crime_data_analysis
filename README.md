@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Jul 22 08:16:50 UTC 2026
+Last updated: Wed Jul 22 13:29:49 UTC 2026
 
 ## Latest Analysis
 
-Loaded 119488 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-21 07:58:14
+Loaded 119546 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-21 13:25:00
 
 Incidents by source:
 source
-newsapi           119387
+newsapi           119445
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,30 +24,38 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-07-21 07:58
-- Location: Dailymail.com
-- Description: A five-year-old girl, known for cultural reasons as Kumanjayi Little Baby, was abducted from the Old Timers camp at Alice Springs in April.
+### HOMICIDE on 2026-07-21 13:25
+- Location: LancasterOnline
+- Description: An East Hempfield Township man stabbed his sister to death Monday morning and injured his brother who tried to stop him because he was angry that her dogs would not stop barking, according to police.
 
 
-### OTHER on 2026-07-21 07:43
-- Location: ABC News (AU)
-- Description: An investigation is underway into the cause of a house fire south of Brisbane.
-
-
-### HOMICIDE on 2026-07-21 07:30
-- Location: Newser
-- Description: A mysterious tipster who said he'd killed a man near Fairbanks in 1993 has now been arrested for that very crime, Alaska authorities say. Alaska State Troopers allege the caller was 54-year-old Michigan resident Christopher Popps, who has been indicted on two…
-
-
-### HOMICIDE on 2026-07-21 07:20
+### ROBBERY/THEFT on 2026-07-21 13:24
 - Location: The Punch
-- Description: Akwa Ibom police exhume the body of a man beaten to death and arrest four suspects. Discover details of the alleged murder and ongoing investigation.
+- Description: Adamawa police arrest a cleaner for stealing an NYSC doctor’s ₦18m car. The stolen vehicle was recovered in Kano. Investigations are ongoing.
 
-Read More: https://punchng.com/police-exhume-body-of-man-beaten-to-death-arrest-four-in-akwa-ibom/
+Read More: https://punchng.com/police-nab-cleaner-for-stealing-nysc-doctors-%e2%82%a618m-car-in-adamawa/
 
 
-### HOMICIDE on 2026-07-21 07:08
-- Location: Livemint
-- Description: The death of a worker on the Love &amp; War set has revived demands for a dedicated film safety law as experts push for mandatory audits, risk assessments and stronger accountability.
+### HOMICIDE on 2026-07-21 13:20
+- Location: The Root
+- Description: (Updated on 07/21/2026 @ 1:15 p.m.)
 
-Analysis generated at: Wed Jul 22 08:16:50 UTC 2026
+
+
+The murder case of 14-year-old Celeste Rivas is entering a pivotal new chapter as a preliminary hearing for her accused killer, Texas singer David “D4vd” Burke, is set to begin Tuesday (July 21). 
+
+
+
+Prosecutors say he w…
+
+
+### HOMICIDE on 2026-07-21 13:20
+- Location: The Root
+- Description: Ahead of the long-awaited preliminary hearing surrounding singer D4vd, we're catching you up on everything that led to his arrest and his connection to Celeste Rivas.Read more...
+
+
+### HOMICIDE on 2026-07-21 13:07
+- Location: Dailymail.com
+- Description: Joshua Kerry is accused of entering the former Tory minister and Brexit Party MEP's Dartmoor home through the open front door and murdering her as she ate lunch in her kitchen.
+
+Analysis generated at: Wed Jul 22 13:29:49 UTC 2026
