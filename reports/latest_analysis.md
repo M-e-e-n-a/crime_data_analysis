@@ -1,10 +1,10 @@
 
-Loaded 119457 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-21 02:42:40
+Loaded 119488 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-21 07:58:14
 
 Incidents by source:
 source
-newsapi           119356
+newsapi           119387
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,30 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-07-21 02:42
-- Location: ABC News (AU)
-- Description: A boy was found with serious injuries and taken to hospital after an altercation between a group of teenagers.
-
-
-### ROBBERY/THEFT on 2026-07-21 02:31
-- Location: New York Post
-- Description: Marin County Sheriff’s deputies arrested newly sworn-in Sausalito City Manager Elaine Forbes just days ago on suspicion of felony burglary at the Sausalito Yacht Harbor. Cops responded to a noise complaint and allegedly found Forbes aboard a 75-foot yacht she…
-
-
-### ASSAULT on 2026-07-21 02:19
+### HOMICIDE on 2026-07-21 07:58
 - Location: Dailymail.com
-- Description: Isaac Ladha said he was on his way to work when he stopped at traffic lights in Perth's south.
+- Description: A five-year-old girl, known for cultural reasons as Kumanjayi Little Baby, was abducted from the Old Timers camp at Alice Springs in April.
 
 
-### OTHER on 2026-07-21 02:03
-- Location: Fox News
-- Description: Bodycam video captures Sunny Hostin telling MTA police she's a former federal prosecutor after her son Gabriel Hostin was stopped for trespassing.
+### OTHER on 2026-07-21 07:43
+- Location: ABC News (AU)
+- Description: An investigation is underway into the cause of a house fire south of Brisbane.
 
 
-### ROBBERY/THEFT on 2026-07-21 01:38
-- Location: New York Post
-- Description: A crew of ruffians all decked out in black brutally attacked and robbed a man sleeping aboard a Manhattan subway train last week, police said. Cops said the three fiends approached the 32-year-old victim while he was getting some shut-eye on a southbound 4 tr…
+### HOMICIDE on 2026-07-21 07:30
+- Location: Newser
+- Description: A mysterious tipster who said he'd killed a man near Fairbanks in 1993 has now been arrested for that very crime, Alaska authorities say. Alaska State Troopers allege the caller was 54-year-old Michigan resident Christopher Popps, who has been indicted on two…
 
-Analysis generated at: Wed Jul 22 02:59:15 UTC 2026
+
+### HOMICIDE on 2026-07-21 07:20
+- Location: The Punch
+- Description: Akwa Ibom police exhume the body of a man beaten to death and arrest four suspects. Discover details of the alleged murder and ongoing investigation.
+
+Read More: https://punchng.com/police-exhume-body-of-man-beaten-to-death-arrest-four-in-akwa-ibom/
+
+
+### HOMICIDE on 2026-07-21 07:08
+- Location: Livemint
+- Description: The death of a worker on the Love &amp; War set has revived demands for a dedicated film safety law as experts push for mandatory audits, risk assessments and stronger accountability.
+
+Analysis generated at: Wed Jul 22 08:16:50 UTC 2026
