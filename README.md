@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Jul 22 14:07:05 UTC 2026
+Last updated: Wed Jul 22 19:05:30 UTC 2026
 
 ## Latest Analysis
 
-Loaded 119553 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-21 14:05:00
+Loaded 119644 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-21 19:05:08
 
 Incidents by source:
 source
-newsapi           119452
+newsapi           119543
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,31 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2026-07-21 14:05
-- Location: TheJournal.ie
-- Description: Dominic Gallagher, aged 35, appeared in court charged with assault causing harm at Aston Quay at around 2.30am on 20 July 2026.
+### OTHER on 2026-07-21 19:05
+- Location: Advocate.com
+- Description: Pastor Doug Wilson\, a close associate of Defense Secretary Pete Hegseth\, says 10 to 20 federal officials share his anti-LGBTQ+ views in his first interview with an LGBTQ publication.
 
 
-### HOMICIDE on 2026-07-21 14:00
-- Location: Yahoo Entertainment
-- Description: LONDON, July 21 (Reuters) - Former British government minister Ann Widdecombe was killed by a man who struck her on the head 21 times with a hammer while ‌sh...
+### OTHER on 2026-07-21 19:01
+- Location: New Zealand Herald
+- Description: The 18-year-old was on his first overseas trip when he was detained last week.
 
 
-### HOMICIDE on 2026-07-21 13:55
-- Location: The Irish Times
-- Description: Joshua Kerry appears at Westminster magistrates court charged with murder of former MP earlier this month
+### HOMICIDE on 2026-07-21 19:01
+- Location: The Times of India
+- Description: Bharatpur: Class 10 student found hanging; police book four for abetment after father alleges bullying, threats linked to 2019 murder dispute.
 
 
-### SHOOTING on 2026-07-21 13:39
-- Location: Gothamist
-- Description: An NYPD car is seen in New York City on July 4, 2024.
- 
-
-A 17-year-old was struck multiple times just before midnight after someone opened fire at the restaurant on Pennsylvania Avenue and Linden Boulevard in East New York. [ more › ]
+### HOMICIDE on 2026-07-21 19:00
+- Location: The Times of India
+- Description: Retired ASI and five relatives booked for murdering 30-year-old farmer Sushil Kumar in Bharatpur’s Tuhiya village over a crore-worth land dispute, police say.
 
 
-### HOMICIDE on 2026-07-21 13:35
-- Location: The Local Germany
-- Description: Reporting a nuisance call might feel pointless, but in Germany, the regulatory agency can actually kill the number. Here's how to report scams in just a couple minutes, and some tips for avoiding them.
+### HOMICIDE on 2026-07-21 19:00
+- Location: New York Post
+- Description: A Queens mom was found stabbed to death inside her home early Tuesday — hours before her husband’s body was discovered hanging from a tree in a nearby park, police and sources said. Mary Golding, 34, was stabbed in the back at 41st Street, near 19th Avenue, i…
 
-Analysis generated at: Wed Jul 22 14:07:05 UTC 2026
+Analysis generated at: Wed Jul 22 19:05:30 UTC 2026
