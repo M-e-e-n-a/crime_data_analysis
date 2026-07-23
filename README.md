@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Jul 23 08:21:08 UTC 2026
+Last updated: Thu Jul 23 13:43:31 UTC 2026
 
 ## Latest Analysis
 
-Loaded 119727 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-22 08:18:32
+Loaded 119794 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-22 13:42:13
 
 Incidents by source:
 source
-newsapi           119626
+newsapi           119693
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-07-22 08:18
-- Location: Dailymail.com
-- Description: Former Australian opener David Warner has pleaded guilty to drink driving after he was charged following a random breath test in Sydney.
+### HOMICIDE on 2026-07-22 13:42
+- Location: Freerepublic.com
+- Description: Violence is now, without doubt, a part of British politics, just as it is now, without doubt, a part of American politics. When I saw the first picture of Joshua Kerry, the man accused of murdering former British MP Ann Widdecombe, I knew without a moment’s h…
 
 
-### OTHER on 2026-07-22 08:10
-- Location: Www.gov.uk
-- Description: This guide provides information about being arrested in Dominica and what conditions are like in prison there.
+### ROBBERY/THEFT on 2026-07-22 13:30
+- Location: New York Post
+- Description: An illegal Indian migrant was busted with nearly $3 million in stolen tungsten powder after getting a California commercial driver’s license.
 
 
-### HOMICIDE on 2026-07-22 07:56
+### OTHER on 2026-07-22 13:29
 - Location: BBC News
-- Description: The hospital trust treated Valdo Calocane before he killed three people in the city in 2023.
+- Description: A BBC File on 4 investigation has uncovered what one professor said was a "very surprising" omission.
 
 
-### HOMICIDE on 2026-07-22 07:52
-- Location: Slashdot.org
-- Description: D4vd Preliminary Hearing: Graphic Photos Shown in CourtLAmag Gruesome images in D4vd hearing are 'worst nightmare' for Celeste Rivas Hernandez's familyBBC D4vd murder hearing begins in Los AngelesYahoo D4vd murder case: Dayslong preliminary hearing begins for…
+### OTHER on 2026-07-22 13:25
+- Location: Vox
+- Description: There was an unintentionally revealing moment in acting Attorney General Todd Blanche’s confirmation hearing last week. After Sen. John Kennedy (R-LA) asked Blanche whether he and President Donald Trump are friends, the leader of the United States Department …
 
 
-### OTHER on 2026-07-22 07:43
-- Location: Ibtimes.com.au
-- Description: Six months after Nancy Guthrie's disappearance, the investigation has stalled. A retired FBI agent suggests a new approach, while the case continues to draw public and official scrutiny.
+### OTHER on 2026-07-22 13:25
+- Location: RTE
+- Description: People Before Profit TD Richard Boyd Barrett has said that the ongoing trial of the Ulm5 in Stuttgart is "a show trial".
 
-Analysis generated at: Thu Jul 23 08:21:08 UTC 2026
+Analysis generated at: Thu Jul 23 13:43:31 UTC 2026
