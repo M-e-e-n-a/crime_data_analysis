@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Jul 23 13:43:31 UTC 2026
+Last updated: Thu Jul 23 14:12:54 UTC 2026
 
 ## Latest Analysis
 
-Loaded 119794 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-22 13:42:13
+Loaded 119801 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-22 14:11:27
 
 Incidents by source:
 source
-newsapi           119693
+newsapi           119700
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-07-22 13:42
-- Location: Freerepublic.com
-- Description: Violence is now, without doubt, a part of British politics, just as it is now, without doubt, a part of American politics. When I saw the first picture of Joshua Kerry, the man accused of murdering former British MP Ann Widdecombe, I knew without a moment’s h…
-
-
-### ROBBERY/THEFT on 2026-07-22 13:30
+### SHOOTING on 2026-07-22 14:11
 - Location: New York Post
-- Description: An illegal Indian migrant was busted with nearly $3 million in stolen tungsten powder after getting a California commercial driver’s license.
+- Description: Cardinals offensive lineman Isaiah Adams will report to training camp despite multiple gun charges.
 
 
-### OTHER on 2026-07-22 13:29
-- Location: BBC News
-- Description: A BBC File on 4 investigation has uncovered what one professor said was a "very surprising" omission.
+### SHOOTING on 2026-07-22 14:05
+- Location: Yahoo Entertainment
+- Description: Isaiah Adams started 11 games with the Cardinals last season.
 
 
-### OTHER on 2026-07-22 13:25
-- Location: Vox
-- Description: There was an unintentionally revealing moment in acting Attorney General Todd Blanche’s confirmation hearing last week. After Sen. John Kennedy (R-LA) asked Blanche whether he and President Donald Trump are friends, the leader of the United States Department …
+### SHOOTING on 2026-07-22 14:05
+- Location: Yahoo Entertainment
+- Description: Isaiah Adams started 11 games with the Cardinals last season.
 
 
-### OTHER on 2026-07-22 13:25
-- Location: RTE
-- Description: People Before Profit TD Richard Boyd Barrett has said that the ongoing trial of the Ulm5 in Stuttgart is "a show trial".
+### HOMICIDE on 2026-07-22 14:02
+- Location: Dailymail.com
+- Description: A 16-year-old boy fronted Perth Children's Court on Wednesday following the alleged attack on Tuesday.
 
-Analysis generated at: Thu Jul 23 13:43:31 UTC 2026
+
+### HOMICIDE on 2026-07-22 13:54
+- Location: CBC News
+- Description: A man accused of first-degree murder in the 2022 killing of RCMP Const. Shaelyn Yang in a Burnaby, B.C., park has been found unfit for trial by the British Columbia Review Board and has been ordered held in custody.
+
+Analysis generated at: Thu Jul 23 14:12:54 UTC 2026
