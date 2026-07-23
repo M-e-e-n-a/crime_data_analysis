@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Jul 23 14:12:54 UTC 2026
+Last updated: Thu Jul 23 19:06:43 UTC 2026
 
 ## Latest Analysis
 
-Loaded 119801 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-22 14:11:27
+Loaded 119899 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-22 19:04:41
 
 Incidents by source:
 source
-newsapi           119700
+newsapi           119798
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-07-22 14:11
-- Location: New York Post
-- Description: Cardinals offensive lineman Isaiah Adams will report to training camp despite multiple gun charges.
+### HOMICIDE on 2026-07-22 19:04
+- Location: The Daily Caller
+- Description: An Ethiopian national was arrested Tuesday for the alleged triple homicide over a $65 apartment parking contract, reports show.
 
 
-### SHOOTING on 2026-07-22 14:05
-- Location: Yahoo Entertainment
-- Description: Isaiah Adams started 11 games with the Cardinals last season.
+### HOMICIDE on 2026-07-22 19:02
+- Location: NBC Southern California
+- Description: A multi-day hearing to determine whether singer D4vd will stand trial for the death of Southern California teen Celeste Rivas will continue Wednesday
 
 
-### SHOOTING on 2026-07-22 14:05
-- Location: Yahoo Entertainment
-- Description: Isaiah Adams started 11 games with the Cardinals last season.
+### OTHER on 2026-07-22 19:00
+- Location: Fox News
+- Description: Josh Gottheimer says Zohran Mamdani is not a Democrat, accusing the democratic socialist of trying to hijack the party with anti-police views.
 
 
-### HOMICIDE on 2026-07-22 14:02
-- Location: Dailymail.com
-- Description: A 16-year-old boy fronted Perth Children's Court on Wednesday following the alleged attack on Tuesday.
+### OTHER on 2026-07-22 19:00
+- Location: IndieWire
+- Description: The new BritBox series spends six episodes continually shifting the finger of suspicion, patiently and methodically exploring themes of control, trauma, and grief. And if a character doesn't sob through it all? Even better.
 
 
-### HOMICIDE on 2026-07-22 13:54
-- Location: CBC News
-- Description: A man accused of first-degree murder in the 2022 killing of RCMP Const. Shaelyn Yang in a Burnaby, B.C., park has been found unfit for trial by the British Columbia Review Board and has been ordered held in custody.
+### ROBBERY/THEFT on 2026-07-22 18:57
+- Location: The Times of India
+- Description: SBI and Ram Janmabhoomi Trust replace all 36 Ram Temple donation-counting workers after alleged theft; new SBI staff from other branches to count cash.
 
-Analysis generated at: Thu Jul 23 14:12:54 UTC 2026
+Analysis generated at: Thu Jul 23 19:06:43 UTC 2026
