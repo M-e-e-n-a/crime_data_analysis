@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Jul 24 13:25:48 UTC 2026
+Last updated: Fri Jul 24 13:54:54 UTC 2026
 
 ## Latest Analysis
 
-Loaded 120034 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-23 13:16:25
+Loaded 120039 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-23 13:54:13
 
 Incidents by source:
 source
-newsapi           119933
+newsapi           119938
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-07-23 13:16
-- Location: Rolling Stone
-- Description: A joint police task force ramped up efforts to solve the oldest missing teens case in America: Two teens who disappeared after a 1973 music festival.
+### HOMICIDE on 2026-07-23 13:54
+- Location: Abcnews.com
+- Description: The police shooting death of a man with a knife has roiled a Wisconsin city and prompted the governor to call for transparency and accountability in any investigation
 
 
-### OTHER on 2026-07-23 13:15
-- Location: Variety
-- Description: Writer George Kay certainly knows his way around a mystery. The success of his Netflix series “Lupin” and his Apple TV drama “Hijack” (especially the first season) have well proven his abilities. With his latest crime drama, BritBox’s “Gone,” loosely inspired…
+### OTHER on 2026-07-23 13:46
+- Location: TODAY
+- Description: Who is Michelle Hadley? Where is she now? Here’s what she said about the Toxic Love Story case.
 
 
-### HOMICIDE on 2026-07-23 13:13
-- Location: Antaranews.com
-- Description: A joint Indonesian military and police team has evacuated two of three civilians killed in a shooting allegedly carried out by an armed criminal group in ...
+### OTHER on 2026-07-23 13:45
+- Location: Page Six
+- Description: RJ Cipriani says he's given a bombshell story on NBA All-Star Gilbert Arenas to ESPN's $100 million man, Stephen A. Smith.
 
 
-### OTHER on 2026-07-23 13:12
-- Location: BusinessLine
-- Description: The government has disconnected 61 lakh mobile connections suspected of fraud to combat cybercrime using an AI tool.
+### OTHER on 2026-07-23 13:36
+- Location: RTE
+- Description: The British Security Service MI5 and the Police Service of Northern Ireland have been ordered to pay damages to journalist Vincent Kearney for illegally accessing his phone data.
 
 
-### OTHER on 2026-07-23 13:07
-- Location: USA Today
-- Description: The recently retired athlete is back in the headlines after a tragic incident involving his two-year-old child.
+### ASSAULT on 2026-07-23 13:28
+- Location: Israelnationalnews.com
+- Description: New York police are investigating two separate suspected hate crimes targeting Jewish and Muslim victims, including an alleged assault in Brooklyn and a threatening confrontation aboard an MTA bus in Queens.
 
-Analysis generated at: Fri Jul 24 13:25:48 UTC 2026
+Analysis generated at: Fri Jul 24 13:54:54 UTC 2026
