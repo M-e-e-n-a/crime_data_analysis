@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Jul 24 08:16:10 UTC 2026
+Last updated: Fri Jul 24 13:25:48 UTC 2026
 
 ## Latest Analysis
 
-Loaded 119959 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-23 08:15:20
+Loaded 120034 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-23 13:16:25
 
 Incidents by source:
 source
-newsapi           119858
+newsapi           119933
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-07-23 08:15
-- Location: New York Post
-- Description: "I'm just at a loss for words that somebody so kind, didn't bother anybody, somebody so innocent, and you do that to him? It's just unforgivable."
+### OTHER on 2026-07-23 13:16
+- Location: Rolling Stone
+- Description: A joint police task force ramped up efforts to solve the oldest missing teens case in America: Two teens who disappeared after a 1973 music festival.
 
 
-### OTHER on 2026-07-23 08:01
-- Location: Thefutoncritic.com
-- Description: Two Mexican officers must survive the final hours of their shift after crossing a ruthless cartel boss in this crime drama based on true events.
+### OTHER on 2026-07-23 13:15
+- Location: Variety
+- Description: Writer George Kay certainly knows his way around a mystery. The success of his Netflix series “Lupin” and his Apple TV drama “Hijack” (especially the first season) have well proven his abilities. With his latest crime drama, BritBox’s “Gone,” loosely inspired…
 
 
-### OTHER on 2026-07-23 08:00
-- Location: Opiniojuris.org
-- Description: [Dr Çiğdem İleri Köksal is a lawyer based in Hamburg and received her PhD from Bucerius Law School in Germany. Dr. Işıl Kurnaz is a scholar in international human rights law based in Pisa and holds a PhD from Scuola Superiore Sant’Anna in Italy.] Turkey’s wit…
+### HOMICIDE on 2026-07-23 13:13
+- Location: Antaranews.com
+- Description: A joint Indonesian military and police team has evacuated two of three civilians killed in a shooting allegedly carried out by an armed criminal group in ...
 
 
-### OTHER on 2026-07-23 08:00
-- Location: CBC News
-- Description: Italy is seeking to extradite Carlo Bruzzese, a Toronto-area man accused of serving as a high-ranking member of the powerful Calabrian 'ndrangheta criminal syndicate, CBC News has learned. The son of a purported mob boss, the 41-year-old Bruzzese was recently…
+### OTHER on 2026-07-23 13:12
+- Location: BusinessLine
+- Description: The government has disconnected 61 lakh mobile connections suspected of fraud to combat cybercrime using an AI tool.
 
 
-### ASSAULT on 2026-07-23 07:54
-- Location: Israelnationalnews.com
-- Description: Prosecutors say a Nazareth resident contacted Hamas, spent years researching missiles and explosive drones as part of an alleged plot to assassinate National Security Minister Itamar Ben Gvir.
+### OTHER on 2026-07-23 13:07
+- Location: USA Today
+- Description: The recently retired athlete is back in the headlines after a tragic incident involving his two-year-old child.
 
-Analysis generated at: Fri Jul 24 08:16:10 UTC 2026
+Analysis generated at: Fri Jul 24 13:25:48 UTC 2026
