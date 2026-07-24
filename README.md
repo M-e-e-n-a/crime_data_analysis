@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Jul 24 02:59:18 UTC 2026
+Last updated: Fri Jul 24 08:16:10 UTC 2026
 
 ## Latest Analysis
 
-Loaded 119919 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-23 02:54:33
+Loaded 119959 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-23 08:15:20
 
 Incidents by source:
 source
-newsapi           119818
+newsapi           119858
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-07-23 02:54
+### HOMICIDE on 2026-07-23 08:15
+- Location: New York Post
+- Description: "I'm just at a loss for words that somebody so kind, didn't bother anybody, somebody so innocent, and you do that to him? It's just unforgivable."
+
+
+### OTHER on 2026-07-23 08:01
+- Location: Thefutoncritic.com
+- Description: Two Mexican officers must survive the final hours of their shift after crossing a ruthless cartel boss in this crime drama based on true events.
+
+
+### OTHER on 2026-07-23 08:00
+- Location: Opiniojuris.org
+- Description: [Dr Çiğdem İleri Köksal is a lawyer based in Hamburg and received her PhD from Bucerius Law School in Germany. Dr. Işıl Kurnaz is a scholar in international human rights law based in Pisa and holds a PhD from Scuola Superiore Sant’Anna in Italy.] Turkey’s wit…
+
+
+### OTHER on 2026-07-23 08:00
+- Location: CBC News
+- Description: Italy is seeking to extradite Carlo Bruzzese, a Toronto-area man accused of serving as a high-ranking member of the powerful Calabrian 'ndrangheta criminal syndicate, CBC News has learned. The son of a purported mob boss, the 41-year-old Bruzzese was recently…
+
+
+### ASSAULT on 2026-07-23 07:54
 - Location: Israelnationalnews.com
-- Description: 33-year-old anti-Israel activist in Toronto faces up to 10 years in prison after being charged with terrorism for alleged ties to Hamas.
+- Description: Prosecutors say a Nazareth resident contacted Hamas, spent years researching missiles and explosive drones as part of an alleged plot to assassinate National Security Minister Itamar Ben Gvir.
 
-
-### HOMICIDE on 2026-07-23 02:26
-- Location: Dailymail.com
-- Description: Tsegaab Binessu, 30, is facing three counts of second-degree murder for the alleged rampage on Monday at an apartment complex in St Paul, Minnesota.
-
-
-### SHOOTING on 2026-07-23 02:12
-- Location: HuffPost
-- Description: “We do expect bad people to show up. It’s just a reality of where we are,” director Sean Curran said.
-
-
-### OTHER on 2026-07-23 02:02
-- Location: The Times of India
-- Description: Actor Ayesha Khan claimed detention by Mumbai Police during a protest. She shared videos from a police van and station. The actress alleged being "dragged and detained" for standing peacefully with friends. She questioned the reasons for her detention and the…
-
-
-### OTHER on 2026-07-23 02:01
-- Location: BusinessLine
-- Description: Hexaware Dream Runners Half Marathon 2026 Draws 7,339 Runners in Chennai
-
-Analysis generated at: Fri Jul 24 02:59:18 UTC 2026
+Analysis generated at: Fri Jul 24 08:16:10 UTC 2026
