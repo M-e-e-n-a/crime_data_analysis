@@ -1,10 +1,10 @@
 
-Loaded 120272 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-24 13:05:00
+Loaded 120287 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-24 13:44:43
 
 Incidents by source:
 source
-newsapi           120171
+newsapi           120186
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-07-24 13:05
-- Location: CNA
-- Description: The 40-year-old woman, who lived with the man and her two children from previous marriages, was unhappy with him for not paying his share of the rent and causing her to lose her job multiple times.
+### ROBBERY/THEFT on 2026-07-24 13:44
+- Location: New York Post
+- Description: Our socialist boy mayor is woefully ignorant of the basics of municipal governance, bond experts tell On The Money.
 
 
-### OTHER on 2026-07-24 13:00
+### ASSAULT on 2026-07-24 13:44
 - Location: Fox News
-- Description: The Secret Service reveals enhanced security for the rescheduled WHCA Dinner at the Waldorf Astoria, including magnetometer screening and closures.
+- Description: Tymond Tran, a 2022 Amazon Future Engineer Teacher of the Year recipient, faces rape and indecent assault charges involving a 14-year-old student.
 
 
-### OTHER on 2026-07-24 13:00
-- Location: CBC News
-- Description: The property that was home to CrossRoads Brewing and Distillery in downtown Prince George is officially up for sale, nearly a year after an arson fire destroyed the landmark business.
+### SHOOTING on 2026-07-24 13:42
+- Location: The Root
+- Description: From witness videos to protests, here’s what we know about the Madison police shooting and the questions still unanswered.Read more...
 
 
-### OTHER on 2026-07-24 12:38
-- Location: The-independent.com
-- Description: A woman spent months in prison charged with a violent revenge scheme that involved recruiting men from Craigslist to rape her ex-boyfriend’s new wife. But, as Kevin E G Perry writes, the truth was even darker
+### HOMICIDE on 2026-07-24 13:40
+- Location: RTE
+- Description: Two gardaí travelled to Jordan to liaise with the authorities following the arrest of a man there whom they want to speak to in connection with the murder of a 42-year-old woman in Co Kerry earlier this month.
 
 
-### HOMICIDE on 2026-07-24 12:38
-- Location: CBC News
-- Description: A woman is dead after a shooting in Etobicoke on Friday morning, said Toronto police.
+### SHOOTING on 2026-07-24 13:39
+- Location: The Times of India
+- Description: BSAP-1 constable Kishore Rana dies by suicide after shooting himself with service carbine at Karwandia police station in Rohtas; probe underway.
 
-Analysis generated at: Sat Jul 25 13:11:54 UTC 2026
+Analysis generated at: Sat Jul 25 13:45:52 UTC 2026
