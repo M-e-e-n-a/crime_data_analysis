@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Jul 25 02:59:33 UTC 2026
+Last updated: Sat Jul 25 07:58:49 UTC 2026
 
 ## Latest Analysis
 
-Loaded 120170 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-24 02:55:46
+Loaded 120209 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-24 07:49:10
 
 Incidents by source:
 source
-newsapi           120069
+newsapi           120108
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-07-24 02:55
-- Location: The Times of India
-- Description: A man received a life sentence for murdering his friend over a monetary dispute. The court also imposed a significant fine on the convicted individual. The victim's family found his body after a week-long search. Their pet dog's unusual behavior led police to…
+### OTHER on 2026-07-24 07:49
+- Location: Www.gov.uk
+- Description: This guide provides information about being arrested in Barbados and what conditions are like in prison there.
 
 
-### ASSAULT on 2026-07-24 02:51
-- Location: National Post
-- Description: The victims, an Asian male and a Jewish male, are expected to survive and a 51-year-old man has been arrested, police say. It is being investigated as a potential hate crime
-
-
-### OTHER on 2026-07-24 02:45
-- Location: Dailymail.com
-- Description: Sporting a new haircut, James Dalamangas was filmed by a television crew giving a thumbs-up and wry grin as he left a Greek court.
-
-
-### OTHER on 2026-07-24 02:44
+### ASSAULT on 2026-07-24 07:35
 - Location: Fox News
-- Description: A hot mic caught Sacramento Vice Mayor Karina Talamantes and Mayor Kevin McCarty discussing whether to ban disruptive protesters from future meetings.
+- Description: A suspect allegedly yelled "Allahu Akbar" before stabbing two men on Manhattan's Upper West Side, with NYPD investigating mental health as a factor.
 
 
-### HOMICIDE on 2026-07-24 02:21
-- Location: Breitbart News
-- Description: The Council on Criminal Justice (CCJ) said Thursday that murders in large American cities dropped 18 percent during the first half of 2026, putting the national homicide rate on pace for its lowest level since at least 1900, though eight cities recorded incre…
+### HOMICIDE on 2026-07-24 07:20
+- Location: New York Post
+- Description: New York cops investigating a murder-suicide that left a grandmother, her daughter, and her four grandchildren dead have not ruled out the theory that the kids’ mom may have been complicit in their deaths. Amy Steadman, 64, Sarah Myers, 44, and Harper Harmon,…
 
-Analysis generated at: Sat Jul 25 02:59:33 UTC 2026
+
+### HOMICIDE on 2026-07-24 07:08
+- Location: Times of Malta
+- Description: Jury has heard about secret recordings and meetings after the murder of Daphne Caruana Galizia
+
+
+### OTHER on 2026-07-24 07:00
+- Location: Sinhalanet.net
+- Description: Cardinal Malcolm Ranjith and certain elements within the Church, particularly after 2021, have advanced the position that Easter Sunday was not solely the result of Islamist extremism but involved an external political actor who allegedly manipulated Zaharan …
+
+Analysis generated at: Sat Jul 25 07:58:49 UTC 2026
