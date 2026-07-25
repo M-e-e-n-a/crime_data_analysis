@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Jul 25 02:06:48 UTC 2026
+Last updated: Sat Jul 25 02:59:33 UTC 2026
 
 ## Latest Analysis
 
-Loaded 120162 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-24 02:03:15
+Loaded 120170 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-24 02:55:46
 
 Incidents by source:
 source
-newsapi           120061
+newsapi           120069
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,30 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-07-24 02:03
-- Location: Lawyersgunsmoneyblog.com
-- Description: Cecilia Vega, fired by grifting propagandist Bari Weiss for the crime of doing journalism, recounts multiple instances where she was asked to replace news in her news reports with whatever random horseshit Weiss encountered from deep inside MAGA’s dark rectum…
+### HOMICIDE on 2026-07-24 02:55
+- Location: The Times of India
+- Description: A man received a life sentence for murdering his friend over a monetary dispute. The court also imposed a significant fine on the convicted individual. The victim's family found his body after a week-long search. Their pet dog's unusual behavior led police to…
 
 
-### OTHER on 2026-07-24 01:54
-- Location: NBCSports.com
-- Description: Cardinals offensive lineman Isaiah Adams, who faces four weapons charges after his recent arrest in Canada, took part in the team's first training camp practice.
+### ASSAULT on 2026-07-24 02:51
+- Location: National Post
+- Description: The victims, an Asian male and a Jewish male, are expected to survive and a 51-year-old man has been arrested, police say. It is being investigated as a potential hate crime
 
 
-### OTHER on 2026-07-24 01:51
-- Location: The Punch
-- Description: An Ekiti State Chief Magistrates’ Court granted bail to APC governorship aspirant Abimbola Olawumi in a blackmail case. Olawumi faces charges of alleged bl
-
-Read More: https://punchng.com/court-grants-ekiti-apc-aspirant-bail-adjourns-blackmail-case/
+### OTHER on 2026-07-24 02:45
+- Location: Dailymail.com
+- Description: Sporting a new haircut, James Dalamangas was filmed by a television crew giving a thumbs-up and wry grin as he left a Greek court.
 
 
-### HOMICIDE on 2026-07-24 01:46
-- Location: Hollywood Reporter
-- Description: Golding was found dead on Tuesday in her Astoria, Queens, apartment, having suffered a stab wound on her back, an NYPD spokesperson told People.
+### OTHER on 2026-07-24 02:44
+- Location: Fox News
+- Description: A hot mic caught Sacramento Vice Mayor Karina Talamantes and Mayor Kevin McCarty discussing whether to ban disruptive protesters from future meetings.
 
 
-### OTHER on 2026-07-24 01:35
-- Location: ABC News (AU)
-- Description: Three SA Health staff are being investigated for allegedly accessing the private medical records of AFL star Tony Modra, while a further five are being "assessed" to determine whether their access to the records was appropriate.
+### HOMICIDE on 2026-07-24 02:21
+- Location: Breitbart News
+- Description: The Council on Criminal Justice (CCJ) said Thursday that murders in large American cities dropped 18 percent during the first half of 2026, putting the national homicide rate on pace for its lowest level since at least 1900, though eight cities recorded incre…
 
-Analysis generated at: Sat Jul 25 02:06:48 UTC 2026
+Analysis generated at: Sat Jul 25 02:59:33 UTC 2026
