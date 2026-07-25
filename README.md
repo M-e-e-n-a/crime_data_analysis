@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Jul 25 13:45:52 UTC 2026
+Last updated: Sat Jul 25 18:59:57 UTC 2026
 
 ## Latest Analysis
 
-Loaded 120287 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-24 13:44:43
+Loaded 120382 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-24 18:58:30
 
 Incidents by source:
 source
-newsapi           120186
+newsapi           120281
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,27 @@ ion.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2026-07-24 13:44
-- Location: New York Post
-- Description: Our socialist boy mayor is woefully ignorant of the basics of municipal governance, bond experts tell On The Money.
+### OTHER on 2026-07-24 18:58
+- Location: Forbes
+- Description: When thinking about where to retire, most seniors don’t think about fraud risks. But fraud is a growing threat to retirement security.
 
 
-### ASSAULT on 2026-07-24 13:44
-- Location: Fox News
-- Description: Tymond Tran, a 2022 Amazon Future Engineer Teacher of the Year recipient, faces rape and indecent assault charges involving a 14-year-old student.
+### OTHER on 2026-07-24 18:55
+- Location: LancasterOnline
 
 
-### SHOOTING on 2026-07-24 13:42
-- Location: The Root
-- Description: From witness videos to protests, here’s what we know about the Madison police shooting and the questions still unanswered.Read more...
+### HOMICIDE on 2026-07-24 18:50
+- Location: Abcnews.com
+- Description: Dr. Grant Ho of the Los Angeles County Medical Examiner is testifying about the autopsy of 14-year-old Celeste Rivas Hernandez, the girl authorities say was killed by singer D4vd
 
 
-### HOMICIDE on 2026-07-24 13:40
-- Location: RTE
-- Description: Two gardaí travelled to Jordan to liaise with the authorities following the arrest of a man there whom they want to speak to in connection with the murder of a 42-year-old woman in Co Kerry earlier this month.
-
-
-### SHOOTING on 2026-07-24 13:39
+### HOMICIDE on 2026-07-24 18:47
 - Location: The Times of India
-- Description: BSAP-1 constable Kishore Rana dies by suicide after shooting himself with service carbine at Karwandia police station in Rohtas; probe underway.
+- Description: Security guard Akash Rathore stabbed near Ujjain’s Mahakal temple after dispute over encroaching flower-prasad shop; attempted murder case filed, accused sought.
 
-Analysis generated at: Sat Jul 25 13:45:52 UTC 2026
+
+### HOMICIDE on 2026-07-24 18:46
+- Location: The Times of India
+- Description: O.K. Krishnan, 89, father of murder victim Sajni Nair, dies in Ahmedabad after a 22-year fight for justice; accused husband Tarun Jinaraj arrested in 2018.
+
+Analysis generated at: Sat Jul 25 18:59:57 UTC 2026
