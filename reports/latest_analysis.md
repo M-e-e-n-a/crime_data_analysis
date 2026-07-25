@@ -1,10 +1,10 @@
 
-Loaded 120209 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-24 07:49:10
+Loaded 120272 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-24 13:05:00
 
 Incidents by source:
 source
-newsapi           120108
+newsapi           120171
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-07-24 07:49
-- Location: Www.gov.uk
-- Description: This guide provides information about being arrested in Barbados and what conditions are like in prison there.
+### HOMICIDE on 2026-07-24 13:05
+- Location: CNA
+- Description: The 40-year-old woman, who lived with the man and her two children from previous marriages, was unhappy with him for not paying his share of the rent and causing her to lose her job multiple times.
 
 
-### ASSAULT on 2026-07-24 07:35
+### OTHER on 2026-07-24 13:00
 - Location: Fox News
-- Description: A suspect allegedly yelled "Allahu Akbar" before stabbing two men on Manhattan's Upper West Side, with NYPD investigating mental health as a factor.
+- Description: The Secret Service reveals enhanced security for the rescheduled WHCA Dinner at the Waldorf Astoria, including magnetometer screening and closures.
 
 
-### HOMICIDE on 2026-07-24 07:20
-- Location: New York Post
-- Description: New York cops investigating a murder-suicide that left a grandmother, her daughter, and her four grandchildren dead have not ruled out the theory that the kids’ mom may have been complicit in their deaths. Amy Steadman, 64, Sarah Myers, 44, and Harper Harmon,…
+### OTHER on 2026-07-24 13:00
+- Location: CBC News
+- Description: The property that was home to CrossRoads Brewing and Distillery in downtown Prince George is officially up for sale, nearly a year after an arson fire destroyed the landmark business.
 
 
-### HOMICIDE on 2026-07-24 07:08
-- Location: Times of Malta
-- Description: Jury has heard about secret recordings and meetings after the murder of Daphne Caruana Galizia
+### OTHER on 2026-07-24 12:38
+- Location: The-independent.com
+- Description: A woman spent months in prison charged with a violent revenge scheme that involved recruiting men from Craigslist to rape her ex-boyfriend’s new wife. But, as Kevin E G Perry writes, the truth was even darker
 
 
-### OTHER on 2026-07-24 07:00
-- Location: Sinhalanet.net
-- Description: Cardinal Malcolm Ranjith and certain elements within the Church, particularly after 2021, have advanced the position that Easter Sunday was not solely the result of Islamist extremism but involved an external political actor who allegedly manipulated Zaharan …
+### HOMICIDE on 2026-07-24 12:38
+- Location: CBC News
+- Description: A woman is dead after a shooting in Etobicoke on Friday morning, said Toronto police.
 
-Analysis generated at: Sat Jul 25 07:58:49 UTC 2026
+Analysis generated at: Sat Jul 25 13:11:54 UTC 2026
