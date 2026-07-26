@@ -1,10 +1,10 @@
 
-Loaded 120408 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-25 02:52:35
+Loaded 120440 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-25 07:52:36
 
 Incidents by source:
 source
-newsapi           120307
+newsapi           120339
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-07-25 02:52
+### HOMICIDE on 2026-07-25 07:52
 - Location: Slashdot.org
-- Description: What We Know About the Police Shooting in MadisonThe New York Times Madison police shooting sparks protests as Wisconsin launches independent investigation into deadly incidentYahoo Family of Corey Durell Ruiz, man killed in Madison, Wisconsin police shooting…
+- Description: Family of man shot by Madison police calls for justice. ‘My heart was broken.’The Washington Post Family of Corey Durell Ruiz, man killed in Madison, Wisconsin police shooting says he was 'exceptional man'ABC7 Chicago Eric Toney slams Hong over shooting comme…
 
 
-### ASSAULT on 2026-07-25 02:51
-- Location: Dailymail.com
-- Description: Officers received reports that a teenager had been assaulted by a group in the early hours of Saturday morning before they fled the scene.
+### OTHER on 2026-07-25 07:48
+- Location: Christiantoday.com
+- Description: The current whereabouts of the bishop remains unclear
 
 
-### HOMICIDE on 2026-07-25 02:49
-- Location: The Times of India
-- Description: A 40-year-old cab driver was discovered stabbed inside his vehicle in Krishna Nagar. Police suspect passengers hired the car shortly before the fatal incident occurred. Vijay Kumar was found with multiple stab wounds while inside the driver's seat. His wallet…
+### HOMICIDE on 2026-07-25 07:27
+- Location: TheJournal.ie
+- Description: Celeste Rivas Hernandez’s decomposing body was found last September in the boot of a Tesla registered in the singer’s name.
 
 
-### OTHER on 2026-07-25 02:38
-- Location: RTE
-- Description: Battered by a string of political crises, Flavio Bolsonaro will today formally launch his candidacy for Brazil's October presidential election, seeking to follow in the footsteps of his father, Jair Bolsonaro.
+### OTHER on 2026-07-25 07:09
+- Location: CBM (Comic Book Movie)
+- Description: HBO has released the official trailer for DC Studios' Lanterns, and if previous sneak peeks didn't sell you on the series, then this three-minute preview should get you a whole lot more excited.
 
 
-### OTHER on 2026-07-25 02:38
-- Location: RTE
-- Description: Battered by a string of political crises, Flavio Bolsonaro will today formally launch his candidacy for Brazil's October presidential election, seeking to follow in the footsteps of his father, Jair Bolsonaro.
+### HOMICIDE on 2026-07-25 07:06
+- Location: CNN
+- Description: A man who allegedly stabbed two people in separate incidents in New York City went before a judge late Friday night to face a slew of hate-crime charges, off...
 
-Analysis generated at: Sun Jul 26 03:25:39 UTC 2026
+Analysis generated at: Sun Jul 26 08:15:43 UTC 2026
