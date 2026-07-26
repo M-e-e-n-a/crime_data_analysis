@@ -1,10 +1,10 @@
 
-Loaded 120475 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-25 13:00:58
+Loaded 120478 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-25 13:35:17
 
 Incidents by source:
 source
-newsapi           120374
+newsapi           120377
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,6 +20,21 @@ ion.svg)
 
 ## Recent Incidents
 
+### ASSAULT on 2026-07-25 13:35
+- Location: New York Post
+- Description: The madman who screamed “Allahu Akbar” while stabbing an Asian and Jewish man in separate harrowing hate attacks on the Upper West Side had a Karl Marx book inside his apartment, according to police.
+
+
+### OTHER on 2026-07-25 13:19
+- Location: Dailymail.com
+- Description: What began as a Rita Ora gig has spiralled into one of Australia's messiest beauty feuds. We spoke to all sides - and uncovered a dispute that stretches far beyond TikTok drama.
+
+
+### HOMICIDE on 2026-07-25 13:09
+- Location: CBC News
+- Description: The 64-year-old driver from Ottawa was taken to hospital Friday afternoon, where he was pronounced deceased.
+
+
 ### OTHER on 2026-07-25 13:00
 - Location: Fox News
 - Description: Michelle Hadley spent 88 days in jail after Ian Diaz and Angela Diaz framed her with fake rape fantasy ads. A new documentary revisits the case.
@@ -29,19 +44,4 @@ ion.svg)
 - Location: New York Post
 - Description: The alleged shover was out on parole despite at least three clear violations after his release last year.
 
-
-### OTHER on 2026-07-25 13:00
-- Location: Activistpost.com
-- Description: “What country can preserve its liberties if their rulers are not warned from time to time that their people preserve the spirit of resistance?”Thomas Jefferson What exactly were Americans celebrating this Fourth of July? Two hundred and fifty years after the …
-
-
-### OTHER on 2026-07-25 12:45
-- Location: Raw Story
-- Description: Trump, his billionaire buddies, and his Republican lickspittles appear to be setting up a possible massive fraud with regard to this fall’s election. It could signal the end of American democracy.We democracy-loving Americans have fought oligarchy three times…
-
-
-### ASSAULT on 2026-07-25 12:40
-- Location: BBC News
-- Description: The attack is believed to have taken place near Tremadoc Road in the early hours of Saturday.
-
-Analysis generated at: Sun Jul 26 13:08:06 UTC 2026
+Analysis generated at: Sun Jul 26 13:40:15 UTC 2026
