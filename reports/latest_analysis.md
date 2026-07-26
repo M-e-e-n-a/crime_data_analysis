@@ -1,10 +1,10 @@
 
-Loaded 120440 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-25 07:52:36
+Loaded 120475 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-25 13:00:58
 
 Incidents by source:
 source
-newsapi           120339
+newsapi           120374
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-07-25 07:52
-- Location: Slashdot.org
-- Description: Family of man shot by Madison police calls for justice. ‘My heart was broken.’The Washington Post Family of Corey Durell Ruiz, man killed in Madison, Wisconsin police shooting says he was 'exceptional man'ABC7 Chicago Eric Toney slams Hong over shooting comme…
+### OTHER on 2026-07-25 13:00
+- Location: Fox News
+- Description: Michelle Hadley spent 88 days in jail after Ian Diaz and Angela Diaz framed her with fake rape fantasy ads. A new documentary revisits the case.
 
 
-### OTHER on 2026-07-25 07:48
-- Location: Christiantoday.com
-- Description: The current whereabouts of the bishop remains unclear
+### OTHER on 2026-07-25 13:00
+- Location: New York Post
+- Description: The alleged shover was out on parole despite at least three clear violations after his release last year.
 
 
-### HOMICIDE on 2026-07-25 07:27
-- Location: TheJournal.ie
-- Description: Celeste Rivas Hernandez’s decomposing body was found last September in the boot of a Tesla registered in the singer’s name.
+### OTHER on 2026-07-25 13:00
+- Location: Activistpost.com
+- Description: “What country can preserve its liberties if their rulers are not warned from time to time that their people preserve the spirit of resistance?”Thomas Jefferson What exactly were Americans celebrating this Fourth of July? Two hundred and fifty years after the …
 
 
-### OTHER on 2026-07-25 07:09
-- Location: CBM (Comic Book Movie)
-- Description: HBO has released the official trailer for DC Studios' Lanterns, and if previous sneak peeks didn't sell you on the series, then this three-minute preview should get you a whole lot more excited.
+### OTHER on 2026-07-25 12:45
+- Location: Raw Story
+- Description: Trump, his billionaire buddies, and his Republican lickspittles appear to be setting up a possible massive fraud with regard to this fall’s election. It could signal the end of American democracy.We democracy-loving Americans have fought oligarchy three times…
 
 
-### HOMICIDE on 2026-07-25 07:06
-- Location: CNN
-- Description: A man who allegedly stabbed two people in separate incidents in New York City went before a judge late Friday night to face a slew of hate-crime charges, off...
+### ASSAULT on 2026-07-25 12:40
+- Location: BBC News
+- Description: The attack is believed to have taken place near Tremadoc Road in the early hours of Saturday.
 
-Analysis generated at: Sun Jul 26 08:15:43 UTC 2026
+Analysis generated at: Sun Jul 26 13:08:06 UTC 2026
