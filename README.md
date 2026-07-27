@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Jul 26 19:03:49 UTC 2026
+Last updated: Mon Jul 27 02:24:23 UTC 2026
 
 ## Latest Analysis
 
-Loaded 120541 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-25 19:03:03
+Loaded 120555 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-26 01:52:56
 
 Incidents by source:
 source
-newsapi           120440
+newsapi           120454
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-07-25 19:03
+### OTHER on 2026-07-26 01:52
+- Location: Al Jazeera English
+- Description: Protest group says at least 200 demonstrated in Israeli capital a day after major escalation of West Bank violence.
+
+
+### SHOOTING on 2026-07-26 01:42
+- Location: Fox News
+- Description: At least one person was shot and another detained after Harris County deputies responded to an active shooter report at Deerbrook Mall in Humble, Texas.
+
+
+### ROBBERY/THEFT on 2026-07-26 01:41
 - Location: The Times of India
-- Description: Pune Police Commissioner shunts Khadak PS senior PI and crime branch officials to control room after two firing incidents; one injured, minors detained.
+- Description: The Malayalam investigative thriller Uyir is now heading for its digital release. Roshan Mathew stars as a probationary sub-inspector investigating a decomposed body. This real-life-inspired procedural drama brings together crime investigation with the protag…
 
 
-### HOMICIDE on 2026-07-25 19:02
-- Location: Breitbart News
-- Description: Less than two hours after a 17-year-old Chicago teen returned home from a stay at a county juvenile detention center, he allegedly shot his 13-year-old partner in crime as the two were stealing a car together, prosecutors say.
-The post Chicago Teen Just Out o…
-
-
-### OTHER on 2026-07-25 19:00
-- Location: ComicBook.com
-- Description: Who hasn’t started a TV show thinking they knew exactly what they were getting into, only to be surprised? It sells you on one premise, and at first, that’s exactly what it is. But then you watch episode after episode and realize you’re actually having a very…
-
-
-### HOMICIDE on 2026-07-25 18:48
-- Location: New York Post
-- Description: Hundreds of aggressive demonstrators marched through downtown Madison, Wisc., on Friday to protest the killing of Corey Ruiz, a career criminal who allegedly stabbed a police officer with a knife before being shot.
-
-
-### HOMICIDE on 2026-07-25 18:44
+### HOMICIDE on 2026-07-26 01:36
 - Location: The Times of India
-- Description: Jaipur police say Ravi Prakash holds key to Neeraj Sharma murder plot; probe alleges pact with daughter Ayushi over job, property after July 3 killing.
+- Description: In a heartbreaking case, 23-year-old Damanpreet Kaur, hailing from the Punjabi village of Lal Kalan, was found dead in Canada, allegedly strangled. The police have arrested Ritish Kumar, who now faces charges of second-degree murder. As her family mourns, the…
 
-Analysis generated at: Sun Jul 26 19:03:49 UTC 2026
+
+### OTHER on 2026-07-26 01:34
+- Location: Fox News
+- Description: Karl Anthony-Towns attended a Chazaq fundraiser in New York City amid rising antisemitic hate crimes that account for roughly 60% of all incidents.
+
+Analysis generated at: Mon Jul 27 02:24:23 UTC 2026
