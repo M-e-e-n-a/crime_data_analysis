@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Jul 27 09:40:27 UTC 2026
+Last updated: Mon Jul 27 14:19:10 UTC 2026
 
 ## Latest Analysis
 
-Loaded 120586 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-26 08:54:08
+Loaded 120621 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-26 14:05:56
 
 Incidents by source:
 source
-newsapi           120485
+newsapi           120520
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-07-26 08:54
+### HOMICIDE on 2026-07-26 14:05
+- Location: CBC News
+- Description: RCMP say the incident on Thursday involved a stabbing, assault and gunshot.
+
+
+### HOMICIDE on 2026-07-26 13:51
 - Location: The Times of India
-- Description: Before Tiger Woods became one of golf's greatest champions, his mother, Kultida Woods, gave him the confidence that shaped his remarkable career. From teaching him that failure never defined his worth to instilling discipline, humility and unconditional love,…
+- Description: Missing 20-year-old Khushbu Kumari found dead in a well in Nalanda’s Nehusa village; police probe murder vs suicide, await post-mortem and FSL report.
 
 
-### SHOOTING on 2026-07-26 08:33
-- Location: Israelnationalnews.com
-- Description: Wave of antisemitic incidents in Manchester: Haredi residents’ cars vandalized days after three Jews shot with air gun.
+### OTHER on 2026-07-26 13:50
+- Location: The Times of India
+- Description: Typhoon Noul warning in Hong Kong cancels two Cathay Pacific Chennai–Hong Kong flights, stranding hundreds and disrupting onward connections; service resumes Monday.
 
 
-### ASSAULT on 2026-07-26 08:22
-- Location: ABC News (AU)
-- Description: Police say two people were injured when a fight broke out between two groups of teenagers and young adults near Flinders Station early Sunday morning.
+### OTHER on 2026-07-26 13:31
+- Location: Al Jazeera English
+- Description: Settlers torch two mosques in the Palestinian territory as Israeli PM Benjamin Netanyahu threatens 'more broad action'.
 
 
-### DRUG RELATED on 2026-07-26 08:15
-- Location: The Irish Times
-- Description: Former Garda commissioner tells MacGill Summer School of pessimism in winning the battle against drugs
+### ROBBERY/THEFT on 2026-07-26 13:20
+- Location: The Times of India
+- Description: Police in Tonk arrested 12 members of an interstate gang from 6 states for stealing crude oil by illegally tapping an IOCL pipeline; probe into network ongoing.
 
-
-### OTHER on 2026-07-26 08:00
-- Location: Help Net Security
-- Description: Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: AI agents are still logging in as humans Most large companies run more than one AI platform at the same time. Developers pull up coding assistants, marketing tea…
-
-Analysis generated at: Mon Jul 27 09:40:27 UTC 2026
+Analysis generated at: Mon Jul 27 14:19:10 UTC 2026
