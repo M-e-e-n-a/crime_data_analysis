@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Jul 27 02:24:23 UTC 2026
+Last updated: Mon Jul 27 03:35:38 UTC 2026
 
 ## Latest Analysis
 
-Loaded 120555 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-26 01:52:56
+Loaded 120557 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-26 03:09:42
 
 Incidents by source:
 source
-newsapi           120454
+newsapi           120456
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,6 +24,16 @@ ion.svg)
 
 ## Recent Incidents
 
+### HOMICIDE on 2026-07-26 03:09
+- Location: Freerepublic.com
+- Description: A biologically male “transgender woman” was arrested last week in Laguna Beach, Calif., suspected of killing his mother after neighbors say the pair got into a heated exchange.Police found Angela Caprioli, 61, dead at her residence on Monday, and arrested her…
+
+
+### OTHER on 2026-07-26 02:48
+- Location: New York Post
+- Description: “We would be able to provide the best coverage possible with 12,500 officers. We're not even in that ballpark."
+
+
 ### OTHER on 2026-07-26 01:52
 - Location: Al Jazeera English
 - Description: Protest group says at least 200 demonstrated in Israeli capital a day after major escalation of West Bank violence.
@@ -38,14 +48,4 @@ ion.svg)
 - Location: The Times of India
 - Description: The Malayalam investigative thriller Uyir is now heading for its digital release. Roshan Mathew stars as a probationary sub-inspector investigating a decomposed body. This real-life-inspired procedural drama brings together crime investigation with the protag…
 
-
-### HOMICIDE on 2026-07-26 01:36
-- Location: The Times of India
-- Description: In a heartbreaking case, 23-year-old Damanpreet Kaur, hailing from the Punjabi village of Lal Kalan, was found dead in Canada, allegedly strangled. The police have arrested Ritish Kumar, who now faces charges of second-degree murder. As her family mourns, the…
-
-
-### OTHER on 2026-07-26 01:34
-- Location: Fox News
-- Description: Karl Anthony-Towns attended a Chazaq fundraiser in New York City amid rising antisemitic hate crimes that account for roughly 60% of all incidents.
-
-Analysis generated at: Mon Jul 27 02:24:23 UTC 2026
+Analysis generated at: Mon Jul 27 03:35:38 UTC 2026
