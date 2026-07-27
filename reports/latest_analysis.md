@@ -1,10 +1,10 @@
 
-Loaded 120621 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-26 14:05:56
+Loaded 120627 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-26 14:45:28
 
 Incidents by source:
 source
-newsapi           120520
+newsapi           120526
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-07-26 14:05
-- Location: CBC News
-- Description: RCMP say the incident on Thursday involved a stabbing, assault and gunshot.
+### OTHER on 2026-07-26 14:45
+- Location: Thegatewaypundit.com
+- Description: Woman appeared to deliberately position her vehicle in front of federal immigration agents during an active enforcement
+The post WILD: Woman BLOCKS ICE Agents, Gets Hit With Federal Warning — “Move or Be Arrested!” (VIDEO) appeared first on The Gateway Pundit.
 
 
-### HOMICIDE on 2026-07-26 13:51
-- Location: The Times of India
-- Description: Missing 20-year-old Khushbu Kumari found dead in a well in Nalanda’s Nehusa village; police probe murder vs suicide, await post-mortem and FSL report.
+### ASSAULT on 2026-07-26 14:35
+- Location: GeekTyrant
+- Description: Prime Video has unleashed the first trailer for Reacher Season 4, and it looks like Alan Ritchson is about to take on his most dangerous mission yet. The action-packed preview debuted during San Diego Comic-Con and teases a season filled with brutal fights, c…
 
 
-### OTHER on 2026-07-26 13:50
-- Location: The Times of India
-- Description: Typhoon Noul warning in Hong Kong cancels two Cathay Pacific Chennai–Hong Kong flights, stranding hundreds and disrupting onward connections; service resumes Monday.
+### ROBBERY/THEFT on 2026-07-26 14:30
+- Location: New York Post
+- Description: Thieves in Northern California stole nearly $1000 worth of meat and cheese from a restaurant that closed early from a devastating fire on Tuesday night,
 
 
-### OTHER on 2026-07-26 13:31
-- Location: Al Jazeera English
-- Description: Settlers torch two mosques in the Palestinian territory as Israeli PM Benjamin Netanyahu threatens 'more broad action'.
+### OTHER on 2026-07-26 14:29
+- Location: Dailymail.com
+- Description: Stephen Bear is soon to be sentenced at Chelmsford Crown Court after pleading guilty to breaching the terms of the restraining order against him.
 
 
-### ROBBERY/THEFT on 2026-07-26 13:20
-- Location: The Times of India
-- Description: Police in Tonk arrested 12 members of an interstate gang from 6 states for stealing crude oil by illegally tapping an IOCL pipeline; probe into network ongoing.
+### HOMICIDE on 2026-07-26 14:27
+- Location: LADbible
+- Description: Influencer Sara Gilson was killed by her estranged husband Jeremiah Duffey two weeks after she accused him of being a paedophile
 
-Analysis generated at: Mon Jul 27 14:19:10 UTC 2026
+Analysis generated at: Mon Jul 27 14:47:11 UTC 2026
