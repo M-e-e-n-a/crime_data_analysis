@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Jul 27 19:19:51 UTC 2026
+Last updated: Tue Jul 28 01:59:39 UTC 2026
 
 ## Latest Analysis
 
-Loaded 120716 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-26 19:14:02
+Loaded 120733 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-27 01:51:41
 
 Incidents by source:
 source
-newsapi           120615
+newsapi           120632
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,29 +24,30 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-07-26 19:14
-- Location: The Times of India
-- Description: Jhunjhunu: Khetri police solve 6-month-old murder; Rahul (20) arrested for allegedly poisoning friend Mintu by mixing poison in liquor; 3-day remand.
+### HOMICIDE on 2026-07-27 01:51
+- Location: Yahoo Entertainment
+- Description: Two people were killed and five others were wounded in a shooting Sunday evening during a food festival at an events complex near the Space Needle in Seattle...
 
 
-### OTHER on 2026-07-26 19:13
-- Location: Al Jazeera English
-- Description: Israeli prime minister slams New York Mayor Zohran Mamdani, accusing him of 'fomenting hate' with criticism of Israel.
+### SHOOTING on 2026-07-27 01:45
+- Location: Dailymail.com
+- Description: Multiple people were shot at Seattle Center on Sunday night, leading police to shut down the area.
 
 
-### ROBBERY/THEFT on 2026-07-26 19:11
-- Location: The Times of India
-- Description: Two arrested in Narwar Fort 16th-century cannon theft; pickup seized. Police probe possible link to Karauli’s Panchana dam water dispute; artefact still missing.
+### SHOOTING on 2026-07-27 01:41
+- Location: KOMO News
+- Description: Police in Seattle are investigating a shooting at the Seattle Center that left multiple people injured.The Seattle Police Department said, “Police are investiga
 
 
-### OTHER on 2026-07-26 19:08
-- Location: The Jerusalem Post
-- Description: One fled at the last minute to Panama, the other escaped to Israel after the "Fraud of the Century": A dramatic weekend at Ben-Gurion Airport concluded with two massive extraditions.
+### OTHER on 2026-07-27 01:38
+- Location: The Punch
+- Description: Lagos Police and youth leaders are strengthening their partnership for community safety, urging young people to reject crime and embrace peace.
+
+Read More: https://punchng.com/lagos-police-youths-forge-stronger-partnership-for-community-safety/
 
 
-### ASSAULT on 2026-07-26 19:08
-- Location: Vanguard
-- Description: Suspected political thugs on Sunday attacked a Permanent Voter's Card distribution centre in Okuku, Odo-Otin local government area of the state, allegedly carting away two packs of PVCs.
-The post Osun election: Hoodlums attack PVC collection centre, cart away…
+### OTHER on 2026-07-27 01:36
+- Location: Dailymail.com
+- Description: The 55-year-old - who previously played for the Timberwolves, Trail Blazers, Hawks, Lakers and Nuggets - was arrested on Thursday. He was previously jailed twice last year.
 
-Analysis generated at: Mon Jul 27 19:19:51 UTC 2026
+Analysis generated at: Tue Jul 28 01:59:39 UTC 2026
