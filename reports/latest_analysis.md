@@ -1,10 +1,10 @@
 
-Loaded 120733 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-27 01:51:41
+Loaded 120758 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-27 02:51:17
 
 Incidents by source:
 source
-newsapi           120632
+newsapi           120657
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,30 +20,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-07-27 01:51
-- Location: Yahoo Entertainment
-- Description: Two people were killed and five others were wounded in a shooting Sunday evening during a food festival at an events complex near the Space Needle in Seattle...
+### ASSAULT on 2026-07-27 02:51
+- Location: Israelnationalnews.com
+- Description: B'nai Brith Canada demands a federal national task force and terrorist listings after attacks on Jewish-owned bakeries in Toronto.
 
 
-### SHOOTING on 2026-07-27 01:45
-- Location: Dailymail.com
-- Description: Multiple people were shot at Seattle Center on Sunday night, leading police to shut down the area.
+### SHOOTING on 2026-07-27 02:51
+- Location: The Times of India
+- Description: Shots were fired at Seattle Center, injuring multiple people on Sunday. Police are investigating the incident and have asked people to avoid the area. The shooting occurred during the annual Bite of Seattle food festival. Witnesses reported hearing several sh…
 
 
-### SHOOTING on 2026-07-27 01:41
-- Location: KOMO News
-- Description: Police in Seattle are investigating a shooting at the Seattle Center that left multiple people injured.The Seattle Police Department said, “Police are investiga
+### OTHER on 2026-07-27 02:47
+- Location: The Dallas Morning News
+- Description: Romo was arrested in Milwaukee after performing poorly on standardized field sobriety tests and the tournament begins in Tyler on Monday.
 
 
-### OTHER on 2026-07-27 01:38
-- Location: The Punch
-- Description: Lagos Police and youth leaders are strengthening their partnership for community safety, urging young people to reject crime and embrace peace.
-
-Read More: https://punchng.com/lagos-police-youths-forge-stronger-partnership-for-community-safety/
+### SHOOTING on 2026-07-27 02:45
+- Location: Khabarhub.com
+- Description: KATHMANDU: Last week offered an unusually revealing snapshot of Nepal’s changing political and governance landscape. Rather than being dominated by a single dramatic event, the week was characterized by a series of interconnected developments that collectivel…
 
 
-### OTHER on 2026-07-27 01:36
-- Location: Dailymail.com
-- Description: The 55-year-old - who previously played for the Timberwolves, Trail Blazers, Hawks, Lakers and Nuggets - was arrested on Thursday. He was previously jailed twice last year.
+### SHOOTING on 2026-07-27 02:32
+- Location: Biztoc.com
+- Description: Authorities in Seattle are investigating a shooting at Seattle Center that left multiple victims.
+In a July 26 post on X, the Seattle Police Department said there were multiple shooting victims after shots were fired at Seattle Center. Police asked people to …
 
-Analysis generated at: Tue Jul 28 01:59:39 UTC 2026
+Analysis generated at: Tue Jul 28 02:52:25 UTC 2026
