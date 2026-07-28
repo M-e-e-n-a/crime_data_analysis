@@ -1,10 +1,10 @@
 
-Loaded 120916 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-27 13:50:22
+Loaded 120932 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-27 14:17:04
 
 Incidents by source:
 source
-newsapi           120815
+newsapi           120831
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-07-27 13:50
-- Location: BBC News
-- Description: A 16-year-old boy and two 17-year-olds face three charges, including murder and violent disorder.
+### SHOOTING on 2026-07-27 14:17
+- Location: USA Today
+- Description: The wife of Kansas City Chiefs offensive coordinator Eric Bieniemy was shot at the couple's home in Virginia the night of Sunday, according to a report.
 
 
-### HOMICIDE on 2026-07-27 13:48
-- Location: Protothema.gr
-- Description: A 28-year-old Egyptian national accused of murdering 73-year-old criminal defence lawyer Stavros Georgiou inside his own law office has been remanded in custody, with both the prosecutor and investigating judge unanimous in their decision
-The post Egyptian ma…
+### SHOOTING on 2026-07-27 14:15
+- Location: The Big Lead
+- Description: Mia Bieniemy, the wife of Chiefs offensive coordinator Eric Bieniemy, reportedly suffered "serious injuries" after a shooting incident on Sunday night.
 
 
-### HOMICIDE on 2026-07-27 13:45
-- Location: Roanoke Times
-- Description: Police said the gunfire erupted when at least two people began firing at one another at the Bite of Seattle event near the Space Needle.
+### ASSAULT on 2026-07-27 14:14
+- Location: Foreign Policy
+- Description: Despite setbacks, the powerful can still be held to account for their crimes.
 
 
-### OTHER on 2026-07-27 13:43
-- Location: The Times of India
-- Description: Calcutta High Court grants anticipatory bail to Anubrata Mondal in a 2021 fraud case; FIR filed in 2026. Court orders him to cooperate with investigation.
+### ASSAULT on 2026-07-27 14:14
+- Location: Yahoo Entertainment
+- Description: Haidar Darwish, a Syrian belly dancer and artist, took the stage at Berlin's Museum Island wearing a flamboyant hoop skirt and red fez.  “Yesterday there was...
 
 
-### OTHER on 2026-07-27 13:43
-- Location: The Times of India
-- Description: Mangaluru police say Uppinangady counterfeit currency racket hadn’t circulated fake notes yet; accused were still preparing, with Ibrahim suspected as key conspirator.
+### SHOOTING on 2026-07-27 14:11
+- Location: Dailymail.com
+- Description: The wife of Kansas City Chiefs offensive coordinator Eric Bieniemy has been shot in their home in Virginia.
 
-Analysis generated at: Tue Jul 28 13:51:41 UTC 2026
+Analysis generated at: Tue Jul 28 14:20:31 UTC 2026
