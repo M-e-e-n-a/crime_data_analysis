@@ -1,10 +1,10 @@
 
-Loaded 120826 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-27 08:20:36
+Loaded 120916 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-27 13:50:22
 
 Incidents by source:
 source
-newsapi           120725
+newsapi           120815
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-07-27 08:20
-- Location: BusinessLine
-- Description: Complaints registered through the national cybercrime helpline 1930 will now automatically generate an e-Zero FIR, which will be forwarded to the concerned police station, enabling legal action to begin at the earliest
+### HOMICIDE on 2026-07-27 13:50
+- Location: BBC News
+- Description: A 16-year-old boy and two 17-year-olds face three charges, including murder and violent disorder.
 
 
-### OTHER on 2026-07-27 08:18
+### HOMICIDE on 2026-07-27 13:48
+- Location: Protothema.gr
+- Description: A 28-year-old Egyptian national accused of murdering 73-year-old criminal defence lawyer Stavros Georgiou inside his own law office has been remanded in custody, with both the prosecutor and investigating judge unanimous in their decision
+The post Egyptian ma…
+
+
+### HOMICIDE on 2026-07-27 13:45
+- Location: Roanoke Times
+- Description: Police said the gunfire erupted when at least two people began firing at one another at the Bite of Seattle event near the Space Needle.
+
+
+### OTHER on 2026-07-27 13:43
 - Location: The Times of India
-- Description: Omar Abdullah criticized Mehbooba Mufti for justifying force against protesters in Kashmir. He stated her remarks undermined democratic protests and peaceful demands. Mufti's comments at Jantar Mantar were seen as justifying misuse of power. Abdullah challeng…
+- Description: Calcutta High Court grants anticipatory bail to Anubrata Mondal in a 2021 fraud case; FIR filed in 2026. Court orders him to cooperate with investigation.
 
 
-### OTHER on 2026-07-27 08:17
+### OTHER on 2026-07-27 13:43
 - Location: The Times of India
-- Description: Urban Life News: The students won. The govt had to yield, which is by itself quite remarkable. But perhaps the most remarkable thing on display is the character of thi.
+- Description: Mangaluru police say Uppinangady counterfeit currency racket hadn’t circulated fake notes yet; accused were still preparing, with Ibrahim suspected as key conspirator.
 
-
-### HOMICIDE on 2026-07-27 08:16
-- Location: Dailymail.com
-- Description: University graduate Daniel Dunbar (inset) admitted assaulting victim Daniel Galhanas (left), 19, in the  street attack but claimed he acted in self-defence.
-
-
-### OTHER on 2026-07-27 08:11
-- Location: The Times of India
-- Description: In a shocking turn of events, WNBA star DiJonai Carrington has publicly accused former partner NaLyssa Smith of cheating with multiple WNBA players, changing the narrative around their 2025 breakup. Here's a fact check covering exactly what Carrington alleged…
-
-Analysis generated at: Tue Jul 28 08:24:09 UTC 2026
+Analysis generated at: Tue Jul 28 13:51:41 UTC 2026
