@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Jul 28 14:20:31 UTC 2026
+Last updated: Tue Jul 28 19:16:34 UTC 2026
 
 ## Latest Analysis
 
-Loaded 120932 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-27 14:17:04
+Loaded 121027 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-27 19:15:03
 
 Incidents by source:
 source
-newsapi           120831
+newsapi           120926
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-07-27 14:17
-- Location: USA Today
-- Description: The wife of Kansas City Chiefs offensive coordinator Eric Bieniemy was shot at the couple's home in Virginia the night of Sunday, according to a report.
-
-
-### SHOOTING on 2026-07-27 14:15
-- Location: The Big Lead
-- Description: Mia Bieniemy, the wife of Chiefs offensive coordinator Eric Bieniemy, reportedly suffered "serious injuries" after a shooting incident on Sunday night.
-
-
-### ASSAULT on 2026-07-27 14:14
-- Location: Foreign Policy
-- Description: Despite setbacks, the powerful can still be held to account for their crimes.
-
-
-### ASSAULT on 2026-07-27 14:14
-- Location: Yahoo Entertainment
-- Description: Haidar Darwish, a Syrian belly dancer and artist, took the stage at Berlin's Museum Island wearing a flamboyant hoop skirt and red fez.  “Yesterday there was...
-
-
-### SHOOTING on 2026-07-27 14:11
+### HOMICIDE on 2026-07-27 19:15
 - Location: Dailymail.com
-- Description: The wife of Kansas City Chiefs offensive coordinator Eric Bieniemy has been shot in their home in Virginia.
+- Description: WARNING GRAPHIC CONTENT: Sonia Exelby, 32, boarded a plane from Portsmouth to Marion County in Florida where she was found dead on October 17 last year.
 
-Analysis generated at: Tue Jul 28 14:20:31 UTC 2026
+
+### SHOOTING on 2026-07-27 19:09
+- Location: Breitbart News
+- Description: A 15-year-old has been detained and a second suspect is being sought in connection with a shootout at a Seattle food festival on Sunday.
+The post 15-Year-Old Detained, Second Suspect Sought in Seattle Shootout appeared first on Breitbart.
+
+
+### ROBBERY/THEFT on 2026-07-27 19:08
+- Location: The Times of India
+- Description: Khachrod police solved a Rs33 lakh jewellery theft, arresting three men and recovering ornaments after suspects dumped fake jewellery in a well.
+
+
+### HOMICIDE on 2026-07-27 19:08
+- Location: The Times of India
+- Description: Two people, including a 4-year-old boy, died after falling into unprotected open wells in Barwani district; police have registered cases and begun probes.
+
+
+### ROBBERY/THEFT on 2026-07-27 19:07
+- Location: The Times of India
+- Description: Four-year-old Khudabaksh drowned after falling into an open water tank during a family religious gathering in Mandsaur; police registered a case and probe continues.
+
+Analysis generated at: Tue Jul 28 19:16:34 UTC 2026
