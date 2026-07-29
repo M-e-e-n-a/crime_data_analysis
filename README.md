@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Jul 29 08:30:41 UTC 2026
+Last updated: Wed Jul 29 13:56:25 UTC 2026
 
 ## Latest Analysis
 
-Loaded 121103 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-28 08:20:16
+Loaded 121173 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-28 13:52:21
 
 Incidents by source:
 source
-newsapi           121002
+newsapi           121072
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-07-28 08:20
-- Location: Thechronicle.com.gh
-- Description: Three people have been killed and several others injured following a shooting at a food festival near the Space Needle in Seattle on Sunday. Police said there were two suspects who were shooting at each other. One of the suspects is in custody and the other s…
+### OTHER on 2026-07-28 13:52
+- Location: Rolling Stone
+- Description: From hip hop to folk to punk, from personal statements to sweeping anthems -- here are our favorite songs about the worst president ever
 
 
-### ASSAULT on 2026-07-28 08:15
-- Location: The Daily Hodl
-- Description: Violent kidnappings are emerging as a structural threat to participants in the crypto sector, with more than 50 wrench attacks materializing in the first half of 2026. Named after a popular xkcd webcomic, wrench attacks involve a criminal using violence, inti…
+### OTHER on 2026-07-28 13:48
+- Location: The Times of India
+- Description: Falaq Naaz denied allegations of being paid for attending a student gathering. She stated her participation was voluntary and from the heart. Akanksha Puri had claimed celebrities were offered money and travel for the event. Puri refused the offer, calling it…
 
 
-### HOMICIDE on 2026-07-28 08:05
+### OTHER on 2026-07-28 13:20
+- Location: pymnts.com
+- Description: Binance has reportedly changed its law enforcement-cooperation policy, leaving police frustrated with the cryptocurrency exchange. As the New York Times (NYT) reported Tuesday (July 28), Binance had been adopting a more cooperative approach with law enforceme…
+
+
+### ROBBERY/THEFT on 2026-07-28 13:16
 - Location: Dailymail.com
-- Description: Pat McFadden, the Work and Pensions Secretary, said there was a 'duty' on all politicians 'to be careful' about what they post or share on social media.
+- Description: Lee McCann, 36, and his wife Laura McCann, 35, who run the 'Mum Made Meals' delivery business in Grantham Lincolnshire have suffered 11 thefts from their shed.
 
 
-### SHOOTING on 2026-07-28 08:00
-- Location: CNN
-- Description: Colt Gray, the Georgia teen who fatally shot two teachers and two students and wounded nine others at Apalachee High School in September 2024, was sentenced Tuesday to life in prison without the possibility of parole.
+### OTHER on 2026-07-28 13:11
+- Location: The Punch
+- Description: The prominent Yoruba Nation activist, Sunday Adeyemo, popularly known as Sunday Igboho, has narrated how he escaped from operatives of the Department of State Services during the controversial raid on his Ibadan residence in July 2021. Igboho said the securit…
 
-
-### ROBBERY/THEFT on 2026-07-28 08:00
-- Location: Mubi.com
-- Description: Roberto Rossellini and Kenji Mizoguchi picture the devastation of postwar Axis nations.
-
-Analysis generated at: Wed Jul 29 08:30:41 UTC 2026
+Analysis generated at: Wed Jul 29 13:56:25 UTC 2026
