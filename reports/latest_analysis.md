@@ -1,10 +1,10 @@
 
-Loaded 121055 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-28 02:56:11
+Loaded 121103 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-28 08:20:16
 
 Incidents by source:
 source
-newsapi           120954
+newsapi           121002
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-07-28 02:56
-- Location: ABC News (AU)
-- Description: Moira Deeming says she will remain in parliament as an independent, after having her candidacy revoked by the Liberal party earlier this month.
+### HOMICIDE on 2026-07-28 08:20
+- Location: Thechronicle.com.gh
+- Description: Three people have been killed and several others injured following a shooting at a food festival near the Space Needle in Seattle on Sunday. Police said there were two suspects who were shooting at each other. One of the suspects is in custody and the other s…
 
 
-### OTHER on 2026-07-28 02:54
-- Location: ABC News (AU)
-- Description: Jewish patients requested their religion be removed from their hospital admission information following allegations nurses made menacing comments about Israeli patients, the royal commission on antisemitism has heard.
+### ASSAULT on 2026-07-28 08:15
+- Location: The Daily Hodl
+- Description: Violent kidnappings are emerging as a structural threat to participants in the crypto sector, with more than 50 wrench attacks materializing in the first half of 2026. Named after a popular xkcd webcomic, wrench attacks involve a criminal using violence, inti…
 
 
-### HOMICIDE on 2026-07-28 02:44
-- Location: NBC News
-- Description: A man fatally shot his wife and their six children before setting the Michigan home they shared ablaze and turning the gun on himself, authorities said Monday.
+### HOMICIDE on 2026-07-28 08:05
+- Location: Dailymail.com
+- Description: Pat McFadden, the Work and Pensions Secretary, said there was a 'duty' on all politicians 'to be careful' about what they post or share on social media.
 
 
-### OTHER on 2026-07-28 02:17
-- Location: The Times of India
-- Description: Vadhandhi, a crime thriller, returns for a second season.  The new instalment premieres with a fresh investigation.  Sasikumar takes the lead role as SI Moosa Raaza in Madurai.  He reopens a complex political case after a shocking discovery.  This season prom…
+### SHOOTING on 2026-07-28 08:00
+- Location: CNN
+- Description: Colt Gray, the Georgia teen who fatally shot two teachers and two students and wounded nine others at Apalachee High School in September 2024, was sentenced Tuesday to life in prison without the possibility of parole.
 
 
-### SHOOTING on 2026-07-28 02:13
-- Location: New York Post
-- Description: A 15-year-old has been arrested in connection with the senseless shooting, while cops said the whereabouts of a second suspect are still “unknown.”
+### ROBBERY/THEFT on 2026-07-28 08:00
+- Location: Mubi.com
+- Description: Roberto Rossellini and Kenji Mizoguchi picture the devastation of postwar Axis nations.
 
-Analysis generated at: Wed Jul 29 02:58:51 UTC 2026
+Analysis generated at: Wed Jul 29 08:30:41 UTC 2026
