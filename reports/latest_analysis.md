@@ -1,10 +1,10 @@
 
-Loaded 121050 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-28 01:50:34
+Loaded 121055 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-28 02:56:11
 
 Incidents by source:
 source
-newsapi           120949
+newsapi           120954
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2026-07-28 01:50
+### OTHER on 2026-07-28 02:56
 - Location: ABC News (AU)
-- Description: A federal US judge says social media influencers Andrew and Tristan Tate will remain in jail for at least two more weeks until their next hearing as they fight extradition.
+- Description: Moira Deeming says she will remain in parliament as an independent, after having her candidacy revoked by the Liberal party earlier this month.
 
 
-### ASSAULT on 2026-07-28 01:33
-- Location: Fox News
-- Description: A California family claims a group hurled chairs and beat relatives as young as 17 at the Kaanapali Alii resort in Lahaina after racial threats.
+### OTHER on 2026-07-28 02:54
+- Location: ABC News (AU)
+- Description: Jewish patients requested their religion be removed from their hospital admission information following allegations nurses made menacing comments about Israeli patients, the royal commission on antisemitism has heard.
 
 
-### ROBBERY/THEFT on 2026-07-28 01:23
-- Location: Cointelegraph
-- Description: Staff at Binance who fall victim to in-house phishing attempts probably won’t have a job for long. India censors BitChat’s repo. The week’s crypto news in Asia Express.
+### HOMICIDE on 2026-07-28 02:44
+- Location: NBC News
+- Description: A man fatally shot his wife and their six children before setting the Michigan home they shared ablaze and turning the gun on himself, authorities said Monday.
 
 
-### SHOOTING on 2026-07-28 01:20
-- Location: Thegatewaypundit.com
-- Description: Toronto criminals are targeting the US consulate.
-The post Shot Fired Outside US Consulate in Toronto, in Second Incident This Year – Police Suspend High-Speed Chase of Suspect for Security Reasons appeared first on The Gateway Pundit.
+### OTHER on 2026-07-28 02:17
+- Location: The Times of India
+- Description: Vadhandhi, a crime thriller, returns for a second season.  The new instalment premieres with a fresh investigation.  Sasikumar takes the lead role as SI Moosa Raaza in Madurai.  He reopens a complex political case after a shocking discovery.  This season prom…
 
 
-### HOMICIDE on 2026-07-28 01:17
-- Location: DW (English)
-- Description: D4vd is accused of murdering 14-year-old Celeste Rivas Hernandez in 2025. Prosecutors allege that he dismembered her body and drove around with her decomposing remains in his car.
+### SHOOTING on 2026-07-28 02:13
+- Location: New York Post
+- Description: A 15-year-old has been arrested in connection with the senseless shooting, while cops said the whereabouts of a second suspect are still “unknown.”
 
-Analysis generated at: Wed Jul 29 02:02:29 UTC 2026
+Analysis generated at: Wed Jul 29 02:58:51 UTC 2026
