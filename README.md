@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Jul 29 13:56:25 UTC 2026
+Last updated: Wed Jul 29 14:22:23 UTC 2026
 
 ## Latest Analysis
 
-Loaded 121173 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-28 13:52:21
+Loaded 121180 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-28 14:12:45
 
 Incidents by source:
 source
-newsapi           121072
+newsapi           121079
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,37 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-07-28 13:52
-- Location: Rolling Stone
-- Description: From hip hop to folk to punk, from personal statements to sweeping anthems -- here are our favorite songs about the worst president ever
+### ASSAULT on 2026-07-28 14:12
+- Location: Freerepublic.com
+- Description: Cubans across the island nation banged pots and pans in a mass protest event against the regime on Friday and Saturday nights, demanding an end to the communist regime as the nation’s elites prepared to celebrate the anniversary of Fidel Castro’s first large-…
 
 
-### OTHER on 2026-07-28 13:48
-- Location: The Times of India
-- Description: Falaq Naaz denied allegations of being paid for attending a student gathering. She stated her participation was voluntary and from the heart. Akanksha Puri had claimed celebrities were offered money and travel for the event. Puri refused the offer, calling it…
+### OTHER on 2026-07-28 14:10
+- Location: Thenation.com
+- Description: Kyle Paoletta
 
 
-### OTHER on 2026-07-28 13:20
-- Location: pymnts.com
-- Description: Binance has reportedly changed its law enforcement-cooperation policy, leaving police frustrated with the cryptocurrency exchange. As the New York Times (NYT) reported Tuesday (July 28), Binance had been adopting a more cooperative approach with law enforceme…
+
+How Troy Jackson rose from wildcat striker to Democratic Senate nominee.
 
 
-### ROBBERY/THEFT on 2026-07-28 13:16
-- Location: Dailymail.com
-- Description: Lee McCann, 36, and his wife Laura McCann, 35, who run the 'Mum Made Meals' delivery business in Grantham Lincolnshire have suffered 11 thefts from their shed.
 
 
-### OTHER on 2026-07-28 13:11
-- Location: The Punch
-- Description: The prominent Yoruba Nation activist, Sunday Adeyemo, popularly known as Sunday Igboho, has narrated how he escaped from operatives of the Department of State Services during the controversial raid on his Ibadan residence in July 2021. Igboho said the securit…
+The post The Logger Who Could Unseat Susan Collins appeared first on The Nation.
 
-Analysis generated at: Wed Jul 29 13:56:25 UTC 2026
+
+### HOMICIDE on 2026-07-28 14:06
+- Location: New York Post
+- Description: A wife who was murdered alongside her six children by her husband had accused him of having an affair with a younger intern in explosive Reddit posts, according to a report. Kristopher Karolkiewicz, 47, fatally shot the children — ages 5 to 15 — and his wife,…
+
+
+### OTHER on 2026-07-28 14:00
+- Location: Fox News
+- Description: After arson destroyed his D.C. neighbor's home during the "Defund the Police" era, Benny Johnson says Charlie Kirk stepped in to help his family.
+
+
+### HOMICIDE on 2026-07-28 14:00
+- Location: Thegatewaypundit.com
+- Description: By Wayne Allyn Root There are five terrible, horrible, awful, dangerous, deadly, tragic threats to America’s future staring us in the face… #1) Rigged and stolen elections (which, throughout history, is the communist way to gain power and maintain power forev…
+
+Analysis generated at: Wed Jul 29 14:22:23 UTC 2026
