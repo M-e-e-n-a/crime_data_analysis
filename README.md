@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Jul 30 13:46:18 UTC 2026
+Last updated: Thu Jul 30 14:13:13 UTC 2026
 
 ## Latest Analysis
 
-Loaded 121413 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-29 13:33:55
+Loaded 121415 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-29 14:01:11
 
 Incidents by source:
 source
-newsapi           121312
+newsapi           121314
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -23,6 +23,16 @@ ion.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### DRUG RELATED on 2026-07-29 14:01
+- Location: Dailymail.com
+- Description: Supported in court by his partner, children and parents, tourism operator Tony Hammond admitted trafficking cocaine after what lawyers described as years of worsening drug use.
+
+
+### OTHER on 2026-07-29 13:54
+- Location: Dailymail.com
+- Description: Former staff react after an ex-Mamamia editor says the quiet part out loud about Luca Lavigne's promotion - while influencer provocateur Constance Hall suffers a major legal defeat.
+
 
 ### OTHER on 2026-07-29 13:33
 - Location: ABC News (AU)
@@ -39,14 +49,4 @@ The post Three arrested over fire at former Badminton Venue in Goudi Park appear
 - Location: The Times of India
 - Description: WWE SummerSlam 2026 will feature a two-night event in Minneapolis. Night one includes six matches, with Cody Rhodes facing CM Punk. The Undisputed WWE Championship match headlines the first night's action. Fans can watch the event on ESPN and local internatio…
 
-
-### HOMICIDE on 2026-07-29 13:21
-- Location: BBC News
-- Description: Jim Mair, 43, was found near Corsliehill Road in Houston on Monday alongside the body of 35-year-old Stacy Mair.
-
-
-### OTHER on 2026-07-29 13:12
-- Location: TVLine
-- Description: David Rossi isn't just a character on Criminal Minds. Joe Mantegna's special agent is actually based on a real man who played a role in 1995's biggest trial.
-
-Analysis generated at: Thu Jul 30 13:46:18 UTC 2026
+Analysis generated at: Thu Jul 30 14:13:13 UTC 2026
