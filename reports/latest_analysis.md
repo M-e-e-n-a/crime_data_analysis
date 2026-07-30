@@ -1,10 +1,10 @@
 
-Loaded 121277 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-28 19:00:39
+Loaded 121297 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-29 01:35:12
 
 Incidents by source:
 source
-newsapi           121176
+newsapi           121196
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,32 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-07-28 19:00
-- Location: KQED
-- Description: For the fourth year in a row, California lawmakers are weighing whether to give violent criminals the legal right to cite abuse in their legal defense.
+### OTHER on 2026-07-29 01:35
+- Location: CBC News
+- Description: The Israeli government has told CBC News that it requested permission for wanted Israeli Prime Minister Benjamin Netanyahu to overfly Newfoundland and Nova Scotia on Monday en route to a meeting with U.S. President Donald Trump. Canadian officials are again r…
 
 
-### HOMICIDE on 2026-07-28 18:56
-- Location: The Times of India
-- Description: Allahabad High Court dismissed an 82-year-old’s appeal in a 1984 brother’s murder case, upheld IPC 302 conviction, and ordered him to surrender.
+### OTHER on 2026-07-29 01:27
+- Location: GlobeNewswire
+- Description: LPR placed a suspect's vehicle across three Indiana counties after an arson. Officers found him at a motel 12.5 hours later....
 
 
-### OTHER on 2026-07-28 18:54
-- Location: The Times of India
-- Description: Trichy woman cheated of Rs 2 lakh in fake Kerala lottery scam on Instagram; cyber crime police register case under BNS sections and IT Act 66(D).
+### SHOOTING on 2026-07-29 01:27
+- Location: GlobeNewswire
+- Description: LPR helped Goodlettsville detectives locate a vehicle in a robbery shooting and connect the tag to a suspect, leading to an arrest....
 
 
-### OTHER on 2026-07-28 18:54
-- Location: The Punch
-- Description: Former IG Mike Okiro accuses the Nigerian government of weakening the police force, contributing to worsening Nigeria insecurity. He highlights inadequate
-
-Read More: https://punchng.com/govt-contributing-to-insecurity-says-ex-ig-okiro/
+### OTHER on 2026-07-29 01:26
+- Location: GlobeNewswire
+- Description: LPR helped Roanoke's Real Time Crime Center locate a 75-year-old man with dementia missing for hours. He was found safe....
 
 
-### HOMICIDE on 2026-07-28 18:54
-- Location: The Punch
-- Description: Benue State Governor condemns a fresh attack on Efeyi community by suspected armed herders, killing 15. Security forces neutralized two attackers.
+### SHOOTING on 2026-07-29 01:06
+- Location: ABC News (AU)
+- Description: Police detained a 28-year-old man for emergency mental health treatment the night before he was shot by officers. The hospital chief executive says a review has found he received the appropriate care.
 
-Read More: https://punchng.com/gov-condemns-fresh-benue-attack-commends-security-men/
-
-Analysis generated at: Wed Jul 29 19:06:15 UTC 2026
+Analysis generated at: Thu Jul 30 01:53:07 UTC 2026
