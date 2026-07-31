@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Jul 31 13:50:08 UTC 2026
+Last updated: Fri Jul 31 14:20:32 UTC 2026
 
 ## Latest Analysis
 
-Loaded 121674 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-30 13:45:58
+Loaded 121681 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-30 14:17:27
 
 Incidents by source:
 source
-newsapi           121573
+newsapi           121580
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,31 +24,37 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-07-30 13:45
-- Location: Globalresearch.ca
-- Description: I wondered if Dr Anthony Fauci would show up today to face questions from US Senators. 
-Well he arrived, heavily guarded, shoulders slumped, and in a perpetual scornful, frown. 
-When he read his opening statement, he was visibly trembling. His …
-The post BREA…
+### OTHER on 2026-07-30 14:17
+- Location: Abcnews.com
+- Description: Meet the "GMA" interns as they share what it's like working behind the scenes in honor of National Intern Day 2026.
 
 
-### OTHER on 2026-07-30 13:43
-- Location: TheJournal.ie
-- Description: Kinahan, 49, was arrested in April on foot of a warrant issued by the Irish courts.
+### OTHER on 2026-07-30 14:16
+- Location: Thenation.com
+- Description: Chris Lehmann
 
 
-### ASSAULT on 2026-07-30 13:40
-- Location: Dailymail.com
-- Description: A man, 42, was stabbed in Jindalee late on Thursday afternoon.
+
+The Democratic establishment’s golden boy has shifted the party to the right and lost ground in crucial elections.
 
 
-### OTHER on 2026-07-30 13:35
-- Location: CoinDesk
-- Description: Seoul police say the amount of the scam might rise to nearly $20 million. Two alleged scammers were detained and a third remains at-large.
 
 
-### OTHER on 2026-07-30 13:34
-- Location: ComingSoon.net
-- Description: Season 5 of Prime Video’s action-crime series Reacher is bringing back a Season 4 actor, but there’s more to the story. The fourth season debuts in August, but before that, Prime Video renewed the show for one more season. Jay Baruchel cast in Reacher Season …
+The post Rahm Emanuel’s Losing Record appeared first on The Nation.
 
-Analysis generated at: Fri Jul 31 13:50:08 UTC 2026
+
+### OTHER on 2026-07-30 14:08
+- Location: DW (English)
+- Description: Across Southeast Asia, illegal cryptocurrency miners are stealing vast amounts of electricity, straining national grids and exposing links to organized crime.
+
+
+### OTHER on 2026-07-30 14:07
+- Location: The Big Lead
+- Description: Packers great Ahman Green is facing one of his toughest battles off the field.
+
+
+### HOMICIDE on 2026-07-30 14:07
+- Location: News.com.au
+- Description: A mother suspected of committing a double murder-suicide went to a South Australian police station the day before the tragedy, police have revealed.
+
+Analysis generated at: Fri Jul 31 14:20:32 UTC 2026
