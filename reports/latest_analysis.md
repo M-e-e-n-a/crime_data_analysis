@@ -1,10 +1,10 @@
 
-Loaded 121583 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-30 08:36:25
+Loaded 121674 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-30 13:45:58
 
 Incidents by source:
 source
-newsapi           121482
+newsapi           121573
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,29 +20,31 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-07-30 08:36
-- Location: New York Post
-- Description: A Louisville high school student was shot dead by a teen gunman – just three months after he was stabbed trying to protect a 12-year-old girl who was being sexually harassed.  Da’Jon Hayes-Burr, 15, died from gunshot wounds after being shot in Shawnee – a nei…
+### OTHER on 2026-07-30 13:45
+- Location: Globalresearch.ca
+- Description: I wondered if Dr Anthony Fauci would show up today to face questions from US Senators. 
+Well he arrived, heavily guarded, shoulders slumped, and in a perpetual scornful, frown. 
+When he read his opening statement, he was visibly trembling. His …
+The post BREA…
 
 
-### HOMICIDE on 2026-07-30 08:19
-- Location: ABC News (AU)
-- Description: Volunteers from a regional SA town answered the call when the alarm was raised to search for a missing mother and her children.
+### OTHER on 2026-07-30 13:43
+- Location: TheJournal.ie
+- Description: Kinahan, 49, was arrested in April on foot of a warrant issued by the Irish courts.
 
 
-### OTHER on 2026-07-30 07:30
-- Location: The-independent.com
-- Description: These are our top podcast picks.
-
-
-### ASSAULT on 2026-07-30 07:29
+### ASSAULT on 2026-07-30 13:40
 - Location: Dailymail.com
-- Description: The man who stabbed and partially ​blinded author Salman Rushdie at a speaking event in 2022 could spend the rest of his life behind bars after being found guilty of terrorism.
+- Description: A man, 42, was stabbed in Jindalee late on Thursday afternoon.
 
 
-### OTHER on 2026-07-30 07:00
-- Location: Gossiplankanews.com
-- Description: A 35-year-old man accused of building a romantic relationship with his friend's 13-year-old minor daughter and sexually abusing her has been arrested by Marawila Police. The arrested individual is a close friend of the girl's father, working as a laborer.
-<!…
+### OTHER on 2026-07-30 13:35
+- Location: CoinDesk
+- Description: Seoul police say the amount of the scam might rise to nearly $20 million. Two alleged scammers were detained and a third remains at-large.
 
-Analysis generated at: Fri Jul 31 08:41:50 UTC 2026
+
+### OTHER on 2026-07-30 13:34
+- Location: ComingSoon.net
+- Description: Season 5 of Prime Video’s action-crime series Reacher is bringing back a Season 4 actor, but there’s more to the story. The fourth season debuts in August, but before that, Prime Video renewed the show for one more season. Jay Baruchel cast in Reacher Season …
+
+Analysis generated at: Fri Jul 31 13:50:08 UTC 2026
