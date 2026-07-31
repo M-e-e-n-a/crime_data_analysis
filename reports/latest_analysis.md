@@ -1,10 +1,10 @@
 
-Loaded 121681 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-30 14:17:27
+Loaded 121776 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-30 19:13:18
 
 Incidents by source:
 source
-newsapi           121580
+newsapi           121675
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,37 +20,30 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-07-30 14:17
-- Location: Abcnews.com
-- Description: Meet the "GMA" interns as they share what it's like working behind the scenes in honor of National Intern Day 2026.
+### OTHER on 2026-07-30 19:13
+- Location: The Times of India
+- Description: The Opposition protests forced the first adjournment right at the start of the sitting followed by those at 2 pm and 3 pm before the House rushed the Bill on Vande Mataram through by braving the Opposition protests before the Chair adjourned the House for the…
 
 
-### OTHER on 2026-07-30 14:16
-- Location: Thenation.com
-- Description: Chris Lehmann
+### OTHER on 2026-07-30 19:10
+- Location: Boing Boing
+- Description: A man accused of spray-painting "Nazi" and "Fascist" on 13 Teslas was apparently undone by the feature he neglected to vandalize: their cameras. The cars became stooges for the cops; his takeout order supplied the mailing address.
+
+Irvine police said it had r…
 
 
-
-The Democratic establishment’s golden boy has shifted the party to the right and lost ground in crucial elections.
-
-
-
-
-The post Rahm Emanuel’s Losing Record appeared first on The Nation.
+### HOMICIDE on 2026-07-30 19:09
+- Location: The Times of India
+- Description: Two Jal Jeevan Mission water tank workers were found dead with head injuries in Hardoi; police formed three teams and sent bodies for post-mortem.
 
 
-### OTHER on 2026-07-30 14:08
-- Location: DW (English)
-- Description: Across Southeast Asia, illegal cryptocurrency miners are stealing vast amounts of electricity, straining national grids and exposing links to organized crime.
+### HOMICIDE on 2026-07-30 19:03
+- Location: New York Post
+- Description: Santa Ana police released startling bodycam footage showing a 15-year-old charging cops with a knife before they shot him dead last month.
 
 
-### OTHER on 2026-07-30 14:07
-- Location: The Big Lead
-- Description: Packers great Ahman Green is facing one of his toughest battles off the field.
+### HOMICIDE on 2026-07-30 19:03
+- Location: New York Post
+- Description: Santa Ana police released startling bodycam footage showing a 15-year-old charging cops with a knife before they shot him dead last month.
 
-
-### HOMICIDE on 2026-07-30 14:07
-- Location: News.com.au
-- Description: A mother suspected of committing a double murder-suicide went to a South Australian police station the day before the tragedy, police have revealed.
-
-Analysis generated at: Fri Jul 31 14:20:32 UTC 2026
+Analysis generated at: Fri Jul 31 19:17:00 UTC 2026
