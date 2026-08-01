@@ -1,10 +1,10 @@
 
-Loaded 121809 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-31 03:20:21
+Loaded 121843 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-31 08:00:00
 
 Incidents by source:
 source
-newsapi           121708
+newsapi           121742
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2026-07-31 03:20
-- Location: ABC News (AU)
-- Description: Pregnant cows and calves are among 142 Wagyu cross cattle believed to have been stolen from a central Queensland station.
+### ASSAULT on 2026-07-31 08:00
+- Location: CBC News
+- Description: A woman who underwent mediation with the Ottawa Police Service in 2023 after having difficulty trying to report an historical sexual assault says the process left her feeling broken down and blamed, then placated and cast aside. Now police are engaging with h…
 
 
-### ROBBERY/THEFT on 2026-07-31 03:20
-- Location: ABC News (AU)
-- Description: Pregnant cows and calves are among 142 wagyu cross cattle believed to have been stolen from a central Queensland station.
+### OTHER on 2026-07-31 08:00
+- Location: CBC News
+- Description: Canada's premiers are calling for more clarity from the federal government around the future of the RCMP and to start negotiations as soon as possible with those who plan on keeping the Mounties as their boots-on-the-ground police force.
 
 
-### OTHER on 2026-07-31 03:19
-- Location: Dailymail.com
-- Description: Prosecutors are considering a significant offer from the former Sydney to Hobart Race organiser that could see the matter resolved without a trial.
+### HOMICIDE on 2026-07-31 08:00
+- Location: CBC News
+- Description: Gurpreet Singh, a Toronto man investigated for potential involvement in a murder plot targeting a senior jail officer — and facing extradition to the U.S. on charges linked to alleged cocaine kingpin Ryan Wedding — has far-reaching criminal ties and is believ…
 
 
-### SHOOTING on 2026-07-31 03:12
-- Location: Slashdot.org
-- Description: Seattle police chief resigns days after food festival shootingNBC News Seattle police watchdog fielded 60 complaints against Chief Barnes — two new investigations opened after reporter clashKING5.com Seattle Police Chief Shon Barnes fired by Mayor Katie Wilso…
+### HOMICIDE on 2026-07-31 07:53
+- Location: New York Post
+- Description: Local police are working with the FBI to search for the shooter in what was previously described as an execution-style killing.
 
 
-### OTHER on 2026-07-31 03:03
-- Location: The Times of India
-- Description: Telangana Cyber Crime Police have filed two cases against social media account operators and Meta India's head. These cases stem from complaints alleging morphed and objectionable content targeting Prime Minister Narendra Modi. BJP supporters reported manipul…
+### OTHER on 2026-07-31 07:51
+- Location: Newsonjapan.com
+- Description: Police searched the Sapporo office of a Yamaguchi-gumi-affiliated crime syndicate on July 31 after nine people, including gang members, were arrested on suspicion of illegally harvesting sea cucumbers off Wakkanai in northern Hokkaido. (News On Japan)
 
-Analysis generated at: Sat Aug  1 03:24:32 UTC 2026
+Analysis generated at: Sat Aug  1 08:12:10 UTC 2026
