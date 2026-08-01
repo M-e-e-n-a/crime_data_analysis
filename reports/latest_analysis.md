@@ -1,10 +1,10 @@
 
-Loaded 121776 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-30 19:13:18
+Loaded 121799 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-31 02:10:33
 
 Incidents by source:
 source
-newsapi           121675
+newsapi           121698
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,30 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-07-30 19:13
+### ROBBERY/THEFT on 2026-07-31 02:10
+- Location: fox26houston.com
+- Description: A Houston-area horse owner is asking for the public's help after his beloved miniature horse, Peanut, was stolen from his property on July 23.
+
+
+### OTHER on 2026-07-31 02:09
+- Location: Israelnationalnews.com
+- Description: Police arrest a Ramat Gan resident suspected of hurling rocks at the main entrance of the Channel 12 News building, causing property damage, and leaving a threatening note at the scene.
+
+
+### HOMICIDE on 2026-07-31 02:01
 - Location: The Times of India
-- Description: The Opposition protests forced the first adjournment right at the start of the sitting followed by those at 2 pm and 3 pm before the House rushed the Bill on Vande Mataram through by braving the Opposition protests before the Chair adjourned the House for the…
+- Description: A mother and her toddler were discovered deceased west of Port MacDonnell. The mother had visited a police station the day before the tragic discovery. Authorities are investigating the incident as a murder-suicide involving the mother and her two children. A…
 
 
-### OTHER on 2026-07-30 19:10
-- Location: Boing Boing
-- Description: A man accused of spray-painting "Nazi" and "Fascist" on 13 Teslas was apparently undone by the feature he neglected to vandalize: their cameras. The cars became stooges for the cops; his takeout order supplied the mailing address.
-
-Irvine police said it had r…
+### HOMICIDE on 2026-07-31 01:48
+- Location: Dailymail.com
+- Description: Kristopher Karolkiewicz, 47, shot and killed his wife Amanda, 39, and their six children before setting their home ablaze. All the family's pets died in the fire.
 
 
-### HOMICIDE on 2026-07-30 19:09
-- Location: The Times of India
-- Description: Two Jal Jeevan Mission water tank workers were found dead with head injuries in Hardoi; police formed three teams and sent bodies for post-mortem.
+### SHOOTING on 2026-07-31 01:33
+- Location: Slashdot.org
+- Description: Seattle mayor may oust police chief after criticism of response to festival shootingAP News Seattle police watchdog opens two investigations into Chief Barnes after reporter clashKING5.com Seattle police chief resigns amid fallout from mass shooting, mayor na…
 
-
-### HOMICIDE on 2026-07-30 19:03
-- Location: New York Post
-- Description: Santa Ana police released startling bodycam footage showing a 15-year-old charging cops with a knife before they shot him dead last month.
-
-
-### HOMICIDE on 2026-07-30 19:03
-- Location: New York Post
-- Description: Santa Ana police released startling bodycam footage showing a 15-year-old charging cops with a knife before they shot him dead last month.
-
-Analysis generated at: Fri Jul 31 19:17:00 UTC 2026
+Analysis generated at: Sat Aug  1 02:12:16 UTC 2026
