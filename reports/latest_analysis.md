@@ -1,10 +1,10 @@
 
-Loaded 121933 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-31 13:36:13
+Loaded 122027 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-31 19:00:36
 
 Incidents by source:
 source
-newsapi           121832
+newsapi           121926
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2026-07-31 13:36
-- Location: News9live.com
-- Description: Netflix has been sued for USD 105 million after an unencrypted copy of the unreleased WWII film Fortitude, starring Nicolas Cage and Ben Kingsley, was allegedly stolen from its Los Angeles office.
+### ROBBERY/THEFT on 2026-07-31 19:00
+- Location: The Times of India
+- Description: Private firm employee Balaji Subramaniam, 38, died after falling from a 5th-floor office building in Makarba; police probe if accident or foul play.
 
 
-### OTHER on 2026-07-31 13:34
-- Location: DW (English)
-- Description: From imperial China to present-day India, student movements have repeatedly adapted the tools and symbols of their age to challenge authority.
+### DRUG RELATED on 2026-07-31 19:00
+- Location: The Times of India
+- Description: Balaghat Police receive World Book of Records London Certificate of Excellence as 1.25 lakh students in 1,204 schools took an anti-drug pledge in 1 minute.
 
 
-### OTHER on 2026-07-31 13:30
-- Location: New York Post
-- Description: A former Penthouse Pet was allegedly caught on surveillance video swiping a Rolex and other luxury goods from a Tesla during Coachella weekend before landing back behind bars. Adva Lavie, the Los Angeles model and social media influencer who also goes by Mia …
+### OTHER on 2026-07-31 19:00
+- Location: Anime News Network
+- Description: Omoi to also add After the Rain, Dororo, Welcome to Demon School! Iruma-kun, Paradise Kiss, 50 more Kodansha titles in its catalog
 
 
-### OTHER on 2026-07-31 13:30
-- Location: Den of Geek US
-- Description: Before the action kicks in, every great heist story starts with a plan. Whether it's stealing millions from a heavily guarded vault, pulling off the perfect con, or assembling an unlikely team of experts, the best entries in the genre keep audiences guessing …
+### OTHER on 2026-07-31 18:57
+- Location: The Times of India
+- Description: Panvel City Police arrested five men for allegedly forging documents and impersonating owners to cheat a Kharghar builder of ₹2.3 crore in a Karanjade land deal.
 
 
-### OTHER on 2026-07-31 13:28
-- Location: Abcnews.com
-- Description: Ohio congressman Max Miller is denying allegations of domestic abuse made by his ex-wife.
+### OTHER on 2026-07-31 18:56
+- Location: The Times of India
+- Description: Bikers in Greater Noida West use an illegal shortcut across Vikas Marg’s green strip near Parthala bridge to bypass traffic; police to seek closure.
 
-Analysis generated at: Sat Aug  1 13:38:44 UTC 2026
+Analysis generated at: Sat Aug  1 19:01:56 UTC 2026
