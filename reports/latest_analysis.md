@@ -1,10 +1,10 @@
 
-Loaded 121921 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-31 13:02:27
+Loaded 121933 incidents
+Date range: 2024-01-01 00:00:00 to 2026-07-31 13:36:13
 
 Incidents by source:
 source
-newsapi           121820
+newsapi           121832
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-07-31 13:02
-- Location: Biztoc.com
-- Description: Just months before the midterm elections, Democrats hope to convince voters that lawlessness under President Donald Trump’s administration is the biggest threat to their rights and pocketbooks. But the party’s past debates over crime and safety threaten to un…
+### ROBBERY/THEFT on 2026-07-31 13:36
+- Location: News9live.com
+- Description: Netflix has been sued for USD 105 million after an unencrypted copy of the unreleased WWII film Fortitude, starring Nicolas Cage and Ben Kingsley, was allegedly stolen from its Los Angeles office.
 
 
-### OTHER on 2026-07-31 13:01
-- Location: Werd.io
-- Description: Change is fractal; data ownership can be collective.
+### OTHER on 2026-07-31 13:34
+- Location: DW (English)
+- Description: From imperial China to present-day India, student movements have repeatedly adapted the tools and symbols of their age to challenge authority.
 
 
-### SHOOTING on 2026-07-31 13:01
-- Location: Biztoc.com
-- Description: Seattle’s police chief resigned Thursday amid criticism that the city was slow to release key information about a fatal shootout at a food festival last weekend.
-Mayor Katie Wilson’s announcement followed hours of speculation about whether Police Chief Shon B…
+### OTHER on 2026-07-31 13:30
+- Location: New York Post
+- Description: A former Penthouse Pet was allegedly caught on surveillance video swiping a Rolex and other luxury goods from a Tesla during Coachella weekend before landing back behind bars. Adva Lavie, the Los Angeles model and social media influencer who also goes by Mia …
 
 
-### OTHER on 2026-07-31 13:01
-- Location: Unity.com
-- Description: A collection of Russian mafia characters, post-Soviet vehicles, cash, pawn shops, kiosks, weapons, clothing, documents, businesses, and street props for 1990s crime games.<ul><li>File Format: Prefabs + PNG</li><li>Icons: 124</li><li>Average Resolution: 512x51…
+### OTHER on 2026-07-31 13:30
+- Location: Den of Geek US
+- Description: Before the action kicks in, every great heist story starts with a plan. Whether it's stealing millions from a heavily guarded vault, pulling off the perfect con, or assembling an unlikely team of experts, the best entries in the genre keep audiences guessing …
 
 
-### OTHER on 2026-07-31 13:00
-- Location: GlobeNewswire
-- Description: The partnership brings modern crime-solving technology to help solve crimes and find missing people The partnership brings modern crime-solving technology to help solve crimes and find missing people
+### OTHER on 2026-07-31 13:28
+- Location: Abcnews.com
+- Description: Ohio congressman Max Miller is denying allegations of domestic abuse made by his ex-wife.
 
-Analysis generated at: Sat Aug  1 13:06:45 UTC 2026
+Analysis generated at: Sat Aug  1 13:38:44 UTC 2026
