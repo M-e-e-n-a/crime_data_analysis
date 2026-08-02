@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Aug  2 13:08:37 UTC 2026
+Last updated: Sun Aug  2 13:39:14 UTC 2026
 
 ## Latest Analysis
 
-Loaded 122108 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-01 13:04:36
+Loaded 122116 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-01 13:34:27
 
 Incidents by source:
 source
-newsapi           122007
+newsapi           122015
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-08-01 13:04
-- Location: The New York Review of Books
-- Description: On the morning of Monday, July 20, as the monsoon session of India’s parliament opened, tens of thousands of protesters surged down the radial streets leading to the heart of official New Delhi. Most of them were young people marching in response to a call is…
+### SHOOTING on 2026-08-01 13:34
+- Location: New York Post
+- Description: Video captured the moment a 17-year-old allegedly opened fire inside Maryland's Westfield Wheaton mall, wounding a 13-year-old boy. The teen suspect is in custody.
 
 
-### HOMICIDE on 2026-08-01 13:02
-- Location: BBC News
-- Description: Authorities are yet unable to say whether the death of Elisabeth-Jane Ross is considered murder, but toxicology tests are being fast-tracked.
+### ROBBERY/THEFT on 2026-08-01 13:30
+- Location: Kotaku
+- Description: Netflix's Head of Film Acquisitions confirmed in an email that the film went missing when stuff was taken from the LA office
 
 
-### ROBBERY/THEFT on 2026-08-01 12:50
-- Location: The-independent.com
-- Description: Netflix says it ‘disputes any claim that it bears the risk of loss for a film delivered without the proper industry-standard safeguards’
+### OTHER on 2026-08-01 13:30
+- Location: IGN
+- Description: None
 
 
-### HOMICIDE on 2026-08-01 12:49
+### ROBBERY/THEFT on 2026-08-01 13:30
+- Location: Decider
+- Description: Greta Lee, Robert De Niro, Sunny Sandler, and Melanie Lynskey lead the way in movies, specials, and live events streaming on Netflix in August, so be sure to see them thrive in the terrific titles dropping throughout the month.
+
+
+### HOMICIDE on 2026-08-01 13:24
 - Location: The Times of India
-- Description: Palamu police arrested murder accused Rahul Kumar in Bengaluru’s Rajanukunte and brought him to Daltonganj, the second out-of-state catch after Jhansi.
+- Description: A special NIA court framed charges against former policemen Sachin Waze and Pradeep Sharma.  They will now face trial for murder and unlawful activities charges.  An SUV with explosives was found near Mukesh Ambani's residence in 2021.  Businessman Mansukh Hi…
 
-
-### HOMICIDE on 2026-08-01 12:37
-- Location: The Irish Times
-- Description: Pedro Sánchez condemns Italy and other member states after deadly mass crossing into Spanish enclave
-
-Analysis generated at: Sun Aug  2 13:08:37 UTC 2026
+Analysis generated at: Sun Aug  2 13:39:14 UTC 2026
