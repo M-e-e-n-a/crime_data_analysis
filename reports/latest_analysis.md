@@ -1,10 +1,10 @@
 
-Loaded 122082 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-01 08:07:20
+Loaded 122108 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-01 13:04:36
 
 Incidents by source:
 source
-newsapi           121981
+newsapi           122007
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,32 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-08-01 08:07
-- Location: Lifesciencesworld.com
-- Description: What is the Fine for Killing a Condor? Understanding the Penalties for Condor Endangerment The fine for killing a condor can be steep, reflecting the gravity of harming this critically endangered species. What is the fine for killing a condor? Depending on th…
+### OTHER on 2026-08-01 13:04
+- Location: The New York Review of Books
+- Description: On the morning of Monday, July 20, as the monsoon session of India’s parliament opened, tens of thousands of protesters surged down the radial streets leading to the heart of official New Delhi. Most of them were young people marching in response to a call is…
 
 
-### HOMICIDE on 2026-08-01 08:02
-- Location: Protothema.gr
-- Description: Prosecutors say Turkova was killed in a rented Borča apartment on 26 July before her body was concealed and dumped in the Vizelj canal; the suspect was later detained at the airport trying to flee
-The post Belgrade murder: Russian woman found dead in suitcase…
+### HOMICIDE on 2026-08-01 13:02
+- Location: BBC News
+- Description: Authorities are yet unable to say whether the death of Elisabeth-Jane Ross is considered murder, but toxicology tests are being fast-tracked.
 
 
-### OTHER on 2026-08-01 07:51
-- Location: Vanguard
-- Description: Armed men intercepted their car somewhere along the route. Moments later, the vehicle was engulfed in flames. He was burnt beyond recognition 
-The post How an Imo monarch’s homecoming ended in tragedy appeared first on Vanguard News.
+### ROBBERY/THEFT on 2026-08-01 12:50
+- Location: The-independent.com
+- Description: Netflix says it ‘disputes any claim that it bears the risk of loss for a film delivered without the proper industry-standard safeguards’
 
 
-### OTHER on 2026-08-01 07:07
-- Location: The Punch
-- Description: Kwara State Police successfully rescued 26-year-old Shekinat Mukaila, a kidnap victim, and arrested a suspect linked to the abduction in Wande Community.
-
-Read More: https://punchng.com/police-rescue-kidnap-victim-arrest-suspect-in-kwara/
+### HOMICIDE on 2026-08-01 12:49
+- Location: The Times of India
+- Description: Palamu police arrested murder accused Rahul Kumar in Bengaluru’s Rajanukunte and brought him to Daltonganj, the second out-of-state catch after Jhansi.
 
 
-### HOMICIDE on 2026-08-01 07:00
-- Location: MMA Mania
-- Description: Anthony Smith’s wife has released a statement after his recent arrest. On Monday, Smith was arrested in Nebraska for an alleged domestic violence incident that produced three felony charges. Smith allegedly threatened to kill his wife and was heard shooting a…
+### HOMICIDE on 2026-08-01 12:37
+- Location: The Irish Times
+- Description: Pedro Sánchez condemns Italy and other member states after deadly mass crossing into Spanish enclave
 
-Analysis generated at: Sun Aug  2 08:13:46 UTC 2026
+Analysis generated at: Sun Aug  2 13:08:37 UTC 2026
