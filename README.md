@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Aug  1 19:01:56 UTC 2026
+Last updated: Sun Aug  2 02:09:02 UTC 2026
 
 ## Latest Analysis
 
-Loaded 122027 incidents
-Date range: 2024-01-01 00:00:00 to 2026-07-31 19:00:36
+Loaded 122046 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-01 01:36:12
 
 Incidents by source:
 source
-newsapi           121926
+newsapi           121945
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2026-07-31 19:00
-- Location: The Times of India
-- Description: Private firm employee Balaji Subramaniam, 38, died after falling from a 5th-floor office building in Makarba; police probe if accident or foul play.
-
-
-### DRUG RELATED on 2026-07-31 19:00
-- Location: The Times of India
-- Description: Balaghat Police receive World Book of Records London Certificate of Excellence as 1.25 lakh students in 1,204 schools took an anti-drug pledge in 1 minute.
-
-
-### OTHER on 2026-07-31 19:00
+### OTHER on 2026-08-01 01:36
 - Location: Anime News Network
-- Description: Omoi to also add After the Rain, Dororo, Welcome to Demon School! Iruma-kun, Paradise Kiss, 50 more Kodansha titles in its catalog
+- Description: Experience the iconic crime-action series by Shinji Wada, a timeless classic that continues to inspire generations. Coming this fall exclusively on Omoi's...
 
 
-### OTHER on 2026-07-31 18:57
-- Location: The Times of India
-- Description: Panvel City Police arrested five men for allegedly forging documents and impersonating owners to cheat a Kharghar builder of ₹2.3 crore in a Karanjade land deal.
+### OTHER on 2026-08-01 01:34
+- Location: CBC News
+- Description: It marks a major shift for the annual event, after parade organizers barred police from marching in 2020 saying Pride’s roots lie in “uprising against police brutality.”
 
 
-### OTHER on 2026-07-31 18:56
-- Location: The Times of India
-- Description: Bikers in Greater Noida West use an illegal shortcut across Vikas Marg’s green strip near Parthala bridge to bypass traffic; police to seek closure.
+### OTHER on 2026-08-01 01:25
+- Location: New York Post
+- Description: One enforcement arm is supposed to be the International Stabilization Force, but it's meant to have a mere 5,000 troops — and so far only seems to actually have 200 or so even pledged by a few countries.
 
-Analysis generated at: Sat Aug  1 19:01:56 UTC 2026
+
+### OTHER on 2026-08-01 01:23
+- Location: Breitbart News
+- Description: A 21-year-old man has been arrested and accused of sexual misconduct with a teen girl after a baby was found abandoned in a wooded area in Indianapolis on July 24.
+The post Man Accused of Sexual Misconduct with Minor After Baby Abandoned in Indianapolis Woods…
+
+
+### OTHER on 2026-08-01 01:13
+- Location: New York Post
+- Description: The legislation requiring ACS officials to cough up records to the city's Department of Investigation still awaits Hochul's signature or veto even after state lawmakers approved it in June.
+
+Analysis generated at: Sun Aug  2 02:09:02 UTC 2026
