@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Aug  2 02:09:02 UTC 2026
+Last updated: Sun Aug  2 03:24:33 UTC 2026
 
 ## Latest Analysis
 
-Loaded 122046 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-01 01:36:12
+Loaded 122053 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-01 03:20:37
 
 Incidents by source:
 source
-newsapi           121945
+newsapi           121952
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,29 +24,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-08-01 01:36
-- Location: Anime News Network
-- Description: Experience the iconic crime-action series by Shinji Wada, a timeless classic that continues to inspire generations. Coming this fall exclusively on Omoi's...
+### HOMICIDE on 2026-08-01 03:20
+- Location: The Times of India
+- Description: A man allegedly murdered his divorced wife after calling her for a meeting. He lured Saroj, 42, with reconciliation talks before killing her. The accused then buried her body in a field to destroy evidence. A goatherd heard screams and alerted villagers, lead…
 
 
-### OTHER on 2026-08-01 01:34
-- Location: CBC News
-- Description: It marks a major shift for the annual event, after parade organizers barred police from marching in 2020 saying Pride’s roots lie in “uprising against police brutality.”
+### ASSAULT on 2026-08-01 02:54
+- Location: Biztoc.com
+- Description: MIAMI — A Miami-Dade Crime Stoppers tip led to the arrest of a Texas man in a video-recorded attack on a Hard Rock Cafe server at Bayside Marketplace in downtown Miami, according to police.
+Daniel Ramirez, 47, of Lubbock, Texas, was taken into custody by the …
 
 
-### OTHER on 2026-08-01 01:25
-- Location: New York Post
-- Description: One enforcement arm is supposed to be the International Stabilization Force, but it's meant to have a mere 5,000 troops — and so far only seems to actually have 200 or so even pledged by a few countries.
+### HOMICIDE on 2026-08-01 02:52
+- Location: Dailymail.com
+- Description: Zane Robson, 22, was found by emergency services on Mann Street in Gosford, on the NSW Central Coast, on Tuesday.
 
 
-### OTHER on 2026-08-01 01:23
-- Location: Breitbart News
-- Description: A 21-year-old man has been arrested and accused of sexual misconduct with a teen girl after a baby was found abandoned in a wooded area in Indianapolis on July 24.
-The post Man Accused of Sexual Misconduct with Minor After Baby Abandoned in Indianapolis Woods…
+### HOMICIDE on 2026-08-01 02:50
+- Location: Dailymail.com
+- Description: Sarah Grace Patrick - who was just 16 where she allegedly shot her mother and stepfather dead in their Georgia home - will face a jury on Monday, relatives told WXIA-TV.
 
 
-### OTHER on 2026-08-01 01:13
-- Location: New York Post
-- Description: The legislation requiring ACS officials to cough up records to the city's Department of Investigation still awaits Hochul's signature or veto even after state lawmakers approved it in June.
+### HOMICIDE on 2026-08-01 02:50
+- Location: ABC News (AU)
+- Description: A teenage boy has been charged with murder following the death of a man at Gosford.
 
-Analysis generated at: Sun Aug  2 02:09:02 UTC 2026
+Analysis generated at: Sun Aug  2 03:24:32 UTC 2026
