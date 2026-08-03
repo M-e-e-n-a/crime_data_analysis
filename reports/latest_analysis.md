@@ -1,10 +1,10 @@
 
-Loaded 122200 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-02 03:13:44
+Loaded 122237 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-02 09:24:00
 
 Incidents by source:
 source
-newsapi           122099
+newsapi           122136
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,31 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-08-02 03:13
-- Location: Dailymail.com
-- Description: Scott Hylands, who was known for his appearances in shows such as Night Heat and Fargo, passed away at age 83 on Wednesday, July 29.
+### ASSAULT on 2026-08-02 09:24
+- Location: DW (English)
+- Description: Anti-Ukrainian sentiment in Poland is on the rise, with numerous attacks against refugees from the war in Ukraine. Prime Minister Donald Tusk has spoken out against the violence and warned of the danger from Russia.
 
 
-### HOMICIDE on 2026-08-02 03:08
-- Location: Breitbart News
-- Description: Three people were killed when a man opened fire on an In-N-Out restaurant in Twin Falls, Idaho, on Saturday, police said.
-The post Multiple People Killed After Shooter Opens Fire at Idaho In-N-Out Restaurant, Suspect Dead appeared first on Breitbart.
-
-
-### OTHER on 2026-08-02 02:52
-- Location: Raw Story
-- Description: President Donald Trump and his family could soon be confronted with “one of the biggest scandals” he’s ever faced, scholar and journalist Sidney Blumenthal
- argued in a video
- published Saturday on the legal commentary network “Legal AF.”At the heart of the…
-
-
-### HOMICIDE on 2026-08-02 02:52
+### HOMICIDE on 2026-08-02 09:12
 - Location: Slashdot.org
-- Description: Multiple dead, others injured in shooting at In-N-Out in Twin Falls, Idaho, officials sayCNN Law enforcement searching for shooting suspect in Twin FallsKMVT At least 3 dead and 2 injured in shooting in Idaho; suspect deadNBC News Several people killed in sho…
+- Description: Shooting at In-and-Out Burger in Idaho Leaves at Least 3 Dead and 2 Injured, Official SaysThe New York Times Twin Falls In-N-Out shooting leaves 3 dead, 5 injuredKMVT Idaho fast food restaurant shooting leaves 3 dead, city spokesman saysNPR LATEST UPDATES: Tw…
 
 
-### HOMICIDE on 2026-08-02 02:40
+### ROBBERY/THEFT on 2026-08-02 09:07
 - Location: Vanguard
-- Description: By Golok Nanmwa On Sunday night, what should have been another ordinary gathering of young people in Jos ended in tragedy.  By Monday morning, Ibrahim Mbaya, a promising 25-year-old model popularly known as “Ibee,” was dead. His alleged offence was the suspec…
+- Description: The Socio-Economic Rights and Accountability Project (SERAP) has urged President Bola Tinubu to direct the Attorney General of the Federation and Minister of Justice, Mr Lateef Fagbemi, SAN, the Inspector-General of Police, Olatunji Rilwan Disu, and appropria…
 
-Analysis generated at: Mon Aug  3 03:26:21 UTC 2026
+
+### ROBBERY/THEFT on 2026-08-02 09:02
+- Location: The Times of India
+- Description: Raj Thackeray alleged significant theft of donations at Mumbai's Siddhivinayak Temple. He also claimed substantial funds were stolen from the Ram Temple in Ayodhya. Nine employees were arrested in connection with the Siddhivinayak Temple donation theft. The t…
+
+
+### OTHER on 2026-08-02 09:00
+- Location: Dailymail.com
+- Description: The story of Billy, his mother and a violent stepfather provides a tragic but all too common picture of a neglected generation
+
+Analysis generated at: Mon Aug  3 09:34:56 UTC 2026
