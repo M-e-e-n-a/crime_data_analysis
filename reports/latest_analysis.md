@@ -1,10 +1,10 @@
 
-Loaded 122278 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-02 14:23:35
+Loaded 122293 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-02 14:50:12
 
 Incidents by source:
 source
-newsapi           122177
+newsapi           122192
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,30 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-08-02 14:23
-- Location: The Times of India
-- Description: Dhanbad: Youth Karan Kumar dies after mob assault over suspected theft in Jagjivan Nagar; police arrest two, launch raids to catch remaining accused.
-
-
-### HOMICIDE on 2026-08-02 14:15
+### HOMICIDE on 2026-08-02 14:50
 - Location: Dailymail.com
-- Description: Vincent Pastore had reunited with his Sopranos co-star Stevie Van Zandt in his last public appearance before his shock death at 80.
+- Description: A hospital worker has been charged with murder after police say she left her one-year-old son inside a sweltering car for nearly nine hours while she worked.
 
 
-### SHOOTING on 2026-08-02 14:08
-- Location: The Punch
-- Description: Anambra’s Agunechemba Security Squad dislodges gunmen’s camps in Orumba, recovering GPMGs and rocket launchers. A major win for Anambra security.
-
-Read More: https://punchng.com/anambra-security-outfit-dislodges-gunmens-camps-recovers-rocket-launchers/
+### OTHER on 2026-08-02 14:49
+- Location: The Times of India
+- Description: KTCDA conditionally clears 3.25 acres of Hebbal Lake land for BDA’s tunnel road, with safeguards on water flow, structure, access, trees and NGT compliance.
 
 
-### OTHER on 2026-08-02 14:03
-- Location: Freerepublic.com
-- Description: MADISON, Wis. — Madison Mayor Satya Rhodes-Conway is calling for the encampment at Williamson and Baldwin streets to be dismantled, just one day after speaking to News 3 Now on how the city’s response could cost hundreds of thousands of dollars. The encampmen…
+### OTHER on 2026-08-02 14:45
+- Location: The Times of India
+- Description: The BJP and VHP have taken a strong stance against Rahul Gandhi and Pappu Yadav, accusing them of disrespecting Hindu sentiments through a dramatic demonstration in Parliament about supposed embezzlement related to Ram temple donations.
 
 
-### HOMICIDE on 2026-08-02 14:01
-- Location: Protothema.gr
-- Description: Excerpt: Police have identified and arrested the suspect after tracing fingerprints through Interpol and US authorities, establishing that the victim entered Greece in late June before vanishing from a friend's home in Piraeus. The suspect has since confessed…
+### HOMICIDE on 2026-08-02 14:44
+- Location: The Times of India
+- Description: Madurai police arrested six, including two minors, seizing 1.1 kg ganja and 161 Tapentadol tablets allegedly for illegal sale; cases filed under NDPS Act.
 
-Analysis generated at: Mon Aug  3 14:26:35 UTC 2026
+
+### HOMICIDE on 2026-08-02 14:43
+- Location: The Times of India
+- Description: A 55-year-old man died and another person was injured after a car crashed into multiple vehicles. The accident occurred on Sunday morning under Madhuranagar Police Station limits in Hyderabad. A 17-year-old boy was allegedly driving the car which first hit a …
+
+Analysis generated at: Mon Aug  3 14:50:30 UTC 2026
