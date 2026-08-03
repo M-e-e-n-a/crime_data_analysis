@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Aug  2 19:02:48 UTC 2026
+Last updated: Mon Aug  3 02:12:31 UTC 2026
 
 ## Latest Analysis
 
-Loaded 122176 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-01 19:02:00
+Loaded 122191 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-02 01:58:08
 
 Incidents by source:
 source
-newsapi           122075
+newsapi           122090
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,29 +24,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2026-08-01 19:02
-- Location: Futurism
-- Description: "The public has been asked to accept a significant expansion of surveillance based on the promise that it would dramatically improve public safety."
-The post Flock Surveillance Cameras Are Actually Horrible for Fighting Crime, FBI Data Shows appeared first on…
+### OTHER on 2026-08-02 01:58
+- Location: ABC News (AU)
+- Description: SA Police say the man was hit by a car before falling into the path of a four-wheel-drive.
 
 
-### HOMICIDE on 2026-08-01 18:59
-- Location: The Times of India
-- Description: Special court orders attempt to murder and SC/ST Atrocities Act charges against eight accused in activist Rama Kankonkar assault case in Goa.
+### HOMICIDE on 2026-08-02 01:52
+- Location: Slashdot.org
+- Description: Several people killed in shooting at In-N-Out restaurant in Twin Falls, Idaho, officials sayCBS News LIVE: Shooter has been confirmed dead by the Twin Falls Police DepartmentKMVT Multiple dead, others injured in shooting at In-N-Out in Twin Falls, Idaho, offi…
 
 
-### OTHER on 2026-08-01 18:46
-- Location: The Times of India
-- Description: Two women, Usha Morajkar and Anju Salgaonkar, were injured in an alleged hit-and-run near Karapur protest site; police investigating driver and vehicle.
+### HOMICIDE on 2026-08-02 01:49
+- Location: Biztoc.com
+- Description: At least three people were killed and two injured in a shooting at an In-N-Out restaurant in Idaho on Saturday, police said.
+Authorities in Twin Falls responded to reports of shots fired about 2:30 p.m. in an area that included multiple major retailers and a …
 
 
-### OTHER on 2026-08-01 18:46
-- Location: Freerepublic.com
-- Description: A Houston funeral home director appeared in court on Friday on multiple felony charges involving a scheme to steal more than $2.2 million from a deceased man’s estate. Unique Mica Green-Battle is accused of forging documents to claim he is the spouse and succ…
+### HOMICIDE on 2026-08-02 01:37
+- Location: ABC News (AU)
+- Description: A 16-year-old girl's family alleges she was so traumatised by her time in a police cell, it killed her. Her case is now the focus of court action alleging she was a victim of Japan's "hostage justice" system.
 
 
-### HOMICIDE on 2026-08-01 18:46
-- Location: The Times of India
-- Description: 25-year-old biker Jay Dav killed in hit-and-run near Manavadar ITI; friend injured. Police booked unidentified driver for rash driving, negligence.
+### HOMICIDE on 2026-08-02 01:32
+- Location: Slashdot.org
+- Description: Idaho police respond to active shooter incident near Twin Falls In-N-OutABC7 Los Angeles LIVE: Shooter has been confirmed dead by the Twin Falls Police DepartmentKMVT Multiple killed and injured in In-N-Out Burger shooting in Twin Falls, IdahoWISH-TV At least…
 
-Analysis generated at: Sun Aug  2 19:02:48 UTC 2026
+Analysis generated at: Mon Aug  3 02:12:31 UTC 2026
