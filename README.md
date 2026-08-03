@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Aug  3 14:50:31 UTC 2026
+Last updated: Mon Aug  3 19:25:29 UTC 2026
 
 ## Latest Analysis
 
-Loaded 122293 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-02 14:50:12
+Loaded 122327 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-02 19:24:46
 
 Incidents by source:
 source
-newsapi           122192
+newsapi           122226
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-08-02 14:50
-- Location: Dailymail.com
-- Description: A hospital worker has been charged with murder after police say she left her one-year-old son inside a sweltering car for nearly nine hours while she worked.
-
-
-### OTHER on 2026-08-02 14:49
+### HOMICIDE on 2026-08-02 19:24
 - Location: The Times of India
-- Description: KTCDA conditionally clears 3.25 acres of Hebbal Lake land for BDA’s tunnel road, with safeguards on water flow, structure, access, trees and NGT compliance.
+- Description: Nagpur Rural Police LCB solved a blind murder in Kalmeshwar, identifying Atul Tiwari and arresting Yogesh Popalghat and Manoj Narnaware over a money dispute.
 
 
-### OTHER on 2026-08-02 14:45
-- Location: The Times of India
-- Description: The BJP and VHP have taken a strong stance against Rahul Gandhi and Pappu Yadav, accusing them of disrespecting Hindu sentiments through a dramatic demonstration in Parliament about supposed embezzlement related to Ram temple donations.
+### HOMICIDE on 2026-08-02 19:20
+- Location: DW (English)
+- Description: A suicide bomber has killed more than a dozen people including police in an attack during a demonstration of citizens against militancy. More than 18 people were injured in the attack. A suicide bomber killed 14 people and injured dozens more in an attack tar…
 
 
-### HOMICIDE on 2026-08-02 14:44
-- Location: The Times of India
-- Description: Madurai police arrested six, including two minors, seizing 1.1 kg ganja and 161 Tapentadol tablets allegedly for illegal sale; cases filed under NDPS Act.
+### OTHER on 2026-08-02 19:19
+- Location: Abcnews.com
+- Description: Sen. Bernie Moreno calls for former son-in-law Rep. Max Miller to resign from Congress over abuse allegations made by Miller's ex-wife, who is Moreno's daughter.
 
 
-### HOMICIDE on 2026-08-02 14:43
-- Location: The Times of India
-- Description: A 55-year-old man died and another person was injured after a car crashed into multiple vehicles. The accident occurred on Sunday morning under Madhuranagar Police Station limits in Hyderabad. A 17-year-old boy was allegedly driving the car which first hit a …
+### HOMICIDE on 2026-08-02 19:13
+- Location: Slashdot.org
+- Description: Police confirm 3 deaths, 5 injuries after shooting at Idaho In-N-OutABC7 Los Angeles Multiple dead, others injured in shooting at In-N-Out in Twin Falls, Idaho, officials sayCNN In-N-Out Burger employee among 3 dead in shooting at Idaho fast-food restaurant, …
 
-Analysis generated at: Mon Aug  3 14:50:30 UTC 2026
+
+### SHOOTING on 2026-08-02 19:12
+- Location: Fox News
+- Description: Drone video captures a sheepdog herding goats away from an emergency helicopter landing zone in Laguna Beach, earning praise as an honorary responder.
+
+Analysis generated at: Mon Aug  3 19:25:29 UTC 2026
