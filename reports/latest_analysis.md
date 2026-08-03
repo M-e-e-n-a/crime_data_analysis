@@ -1,10 +1,10 @@
 
-Loaded 122237 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-02 09:24:00
+Loaded 122278 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-02 14:23:35
 
 Incidents by source:
 source
-newsapi           122136
+newsapi           122177
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,30 @@ ion.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2026-08-02 09:24
-- Location: DW (English)
-- Description: Anti-Ukrainian sentiment in Poland is on the rise, with numerous attacks against refugees from the war in Ukraine. Prime Minister Donald Tusk has spoken out against the violence and warned of the danger from Russia.
-
-
-### HOMICIDE on 2026-08-02 09:12
-- Location: Slashdot.org
-- Description: Shooting at In-and-Out Burger in Idaho Leaves at Least 3 Dead and 2 Injured, Official SaysThe New York Times Twin Falls In-N-Out shooting leaves 3 dead, 5 injuredKMVT Idaho fast food restaurant shooting leaves 3 dead, city spokesman saysNPR LATEST UPDATES: Tw…
-
-
-### ROBBERY/THEFT on 2026-08-02 09:07
-- Location: Vanguard
-- Description: The Socio-Economic Rights and Accountability Project (SERAP) has urged President Bola Tinubu to direct the Attorney General of the Federation and Minister of Justice, Mr Lateef Fagbemi, SAN, the Inspector-General of Police, Olatunji Rilwan Disu, and appropria…
-
-
-### ROBBERY/THEFT on 2026-08-02 09:02
+### HOMICIDE on 2026-08-02 14:23
 - Location: The Times of India
-- Description: Raj Thackeray alleged significant theft of donations at Mumbai's Siddhivinayak Temple. He also claimed substantial funds were stolen from the Ram Temple in Ayodhya. Nine employees were arrested in connection with the Siddhivinayak Temple donation theft. The t…
+- Description: Dhanbad: Youth Karan Kumar dies after mob assault over suspected theft in Jagjivan Nagar; police arrest two, launch raids to catch remaining accused.
 
 
-### OTHER on 2026-08-02 09:00
+### HOMICIDE on 2026-08-02 14:15
 - Location: Dailymail.com
-- Description: The story of Billy, his mother and a violent stepfather provides a tragic but all too common picture of a neglected generation
+- Description: Vincent Pastore had reunited with his Sopranos co-star Stevie Van Zandt in his last public appearance before his shock death at 80.
 
-Analysis generated at: Mon Aug  3 09:34:56 UTC 2026
+
+### SHOOTING on 2026-08-02 14:08
+- Location: The Punch
+- Description: Anambra’s Agunechemba Security Squad dislodges gunmen’s camps in Orumba, recovering GPMGs and rocket launchers. A major win for Anambra security.
+
+Read More: https://punchng.com/anambra-security-outfit-dislodges-gunmens-camps-recovers-rocket-launchers/
+
+
+### OTHER on 2026-08-02 14:03
+- Location: Freerepublic.com
+- Description: MADISON, Wis. — Madison Mayor Satya Rhodes-Conway is calling for the encampment at Williamson and Baldwin streets to be dismantled, just one day after speaking to News 3 Now on how the city’s response could cost hundreds of thousands of dollars. The encampmen…
+
+
+### HOMICIDE on 2026-08-02 14:01
+- Location: Protothema.gr
+- Description: Excerpt: Police have identified and arrested the suspect after tracing fingerprints through Interpol and US authorities, establishing that the victim entered Greece in late June before vanishing from a friend's home in Piraeus. The suspect has since confessed…
+
+Analysis generated at: Mon Aug  3 14:26:35 UTC 2026
