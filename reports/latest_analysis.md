@@ -1,10 +1,10 @@
 
-Loaded 122384 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-03 08:19:38
+Loaded 122450 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-03 13:55:42
 
 Incidents by source:
 source
-newsapi           122283
+newsapi           122349
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,29 +20,31 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-08-03 08:19
-- Location: Hurriyet Daily News
-- Description: Ankara’s Etimesgut Mayor Erdal Beşikçioğlu was arrested on Aug. 3 pending trial as part of a sweeping corruption investigation targeting municipal officials, becoming the latest official from the Republican People’s Party (CHP) to face judicial action.
+### OTHER on 2026-08-03 13:55
+- Location: Globalresearch.ca
+- Description: Any successor to the downfallen ICC chief prosecutor who tries to punish war crimes will be only too aware of the backlash against Khan, his predecessor Fatou Bensouda and the template case of Julian Assange.
+
+To read this article …
+The post Israel’s ICC Scal…
 
 
-### SHOOTING on 2026-08-03 08:00
-- Location: Newser
-- Description: The suspect in a fatal shooting at an In-N-Out Burger in Idaho died of a self-inflicted gunshot wound, police said Sunday, crediting an off-duty officer and a citizen with firing shots that diverted him. Investigators are confident that the gunman, identified…
+### SHOOTING on 2026-08-03 13:45
+- Location: Page Six
+- Description: The problem is, my gun only fired about 50% of the time.
 
 
-### HOMICIDE on 2026-08-03 07:48
-- Location: Protothema.gr
-- Description: Investigators traced the victim's phone signal to Arachova and CCTV footage of the suspect carrying a suitcase in Exarchia, while his wife handed over cash and an iPhone she believed came from the victim's belongings
-The post British woman found dead in suitc…
-
-
-### OTHER on 2026-08-03 07:45
-- Location: Gossiplankanews.com
-- Description: Prison Media Spokesman, Commissioner of Prisons Anuruddha Gajanaike, states that no special facilities will be provided inside the prison to former Inspector General of Police Pujith Jayasundara and former Secretary to the Ministry of Defence Hemasiri Fernand…
-
-
-### SHOOTING on 2026-08-03 07:37
+### OTHER on 2026-08-03 13:28
 - Location: The Times of India
-- Description: Congress president Mallikarjun Kharge demanded Home Minister Amit Shah address Parliament.  He also asked Prime Minister Narendra Modi to explain alleged Ram temple donation theft.  The INDIA bloc met to discuss these pressing issues and government actions.  …
+- Description: During the auspicious Sawan month, Mahabharat stars Sourabh Raaj Jain, Arpit Ranka, and Pooja Sharma visited Mallikarjuna Jyotirlinga to offer their heartfelt prayers. Sharing their experience on social media, Sourabh expressed his gratitude for Lord Shiva's …
 
-Analysis generated at: Tue Aug  4 08:29:22 UTC 2026
+
+### OTHER on 2026-08-03 13:28
+- Location: The Times of India
+- Description: Rest of World News: Russia is increasingly pressuring men into military service as voluntary recruitment slows, with military recruiters and police in some regions allege.
+
+
+### OTHER on 2026-08-03 13:27
+- Location: The Times of India
+- Description: A Boeing 777-300ER from Jet Airways has finally taken off from Mumbai after being grounded for four years. This aircraft, now re-registered, is en route to Tel Aviv for conversion into a freighter. It is part of a $46 million deal involving three wide-body je…
+
+Analysis generated at: Tue Aug  4 13:57:11 UTC 2026
