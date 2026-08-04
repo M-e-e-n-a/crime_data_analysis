@@ -1,10 +1,10 @@
 
-Loaded 122327 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-02 19:24:46
+Loaded 122346 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-03 01:52:28
 
 Incidents by source:
 source
-newsapi           122226
+newsapi           122245
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,30 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-08-02 19:24
-- Location: The Times of India
-- Description: Nagpur Rural Police LCB solved a blind murder in Kalmeshwar, identifying Atul Tiwari and arresting Yogesh Popalghat and Manoj Narnaware over a money dispute.
-
-
-### HOMICIDE on 2026-08-02 19:20
-- Location: DW (English)
-- Description: A suicide bomber has killed more than a dozen people including police in an attack during a demonstration of citizens against militancy. More than 18 people were injured in the attack. A suicide bomber killed 14 people and injured dozens more in an attack tar…
-
-
-### OTHER on 2026-08-02 19:19
-- Location: Abcnews.com
-- Description: Sen. Bernie Moreno calls for former son-in-law Rep. Max Miller to resign from Congress over abuse allegations made by Miller's ex-wife, who is Moreno's daughter.
-
-
-### HOMICIDE on 2026-08-02 19:13
+### SHOOTING on 2026-08-03 01:52
 - Location: Slashdot.org
-- Description: Police confirm 3 deaths, 5 injuries after shooting at Idaho In-N-OutABC7 Los Angeles Multiple dead, others injured in shooting at In-N-Out in Twin Falls, Idaho, officials sayCNN In-N-Out Burger employee among 3 dead in shooting at Idaho fast-food restaurant, …
+- Description: Suspect in Idaho restaurant shooting died of self-inflicted gunshot wound, police sayThe Guardian Armed bystander distracted gunman in fatal In-N-Out shootingNBC News Who is Chad Williams? What we know about suspected shooter at Twin Falls In-N-Outktvb.com In…
 
 
-### SHOOTING on 2026-08-02 19:12
-- Location: Fox News
-- Description: Drone video captures a sheepdog herding goats away from an emergency helicopter landing zone in Laguna Beach, earning praise as an honorary responder.
+### OTHER on 2026-08-03 01:25
+- Location: Activistpost.com
+- Description: “You had to live—did live, from habit that became instinct—in the assumption that every sound you made was overheard, and, except in darkness, every movement scrutinized.”George Orwell, 1984 While Americans remain transfixed by the political circus—cheering f…
 
-Analysis generated at: Mon Aug  3 19:25:29 UTC 2026
+
+### ROBBERY/THEFT on 2026-08-03 01:18
+- Location: Vanguard
+- Description: …Says federal police can’t pretend to be State Police …Insists S-West govs failed on Amotekun …Intelligence failed in tackling insecurity in North …Explains why Makinde erred in calling for Oriire abduction probe …Insists all faiths are victims of terrorism B…
+
+
+### OTHER on 2026-08-03 01:08
+- Location: The Punch
+- Description: Accord party calls for AU, UN, EU intervention in Osun 2026 election due to alleged political violence and intimidation. Read more on the security concerns
+
+Read More: https://punchng.com/osun-2026-accord-seeks-au-un-eu-intervention/
+
+
+### SHOOTING on 2026-08-03 01:04
+- Location: CBC News
+- Description: Police say a man has been charged after a shooting at the Victoria Park/Stampede LRT station in downtown Calgary left two injured.
+
+Analysis generated at: Tue Aug  4 01:57:23 UTC 2026
