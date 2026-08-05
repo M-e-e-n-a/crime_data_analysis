@@ -1,10 +1,10 @@
 
-Loaded 122559 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-04 02:20:09
+Loaded 122618 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-04 08:12:43
 
 Incidents by source:
 source
-newsapi           122458
+newsapi           122517
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-08-04 02:20
-- Location: ABC News (AU)
-- Description: The new, slimmed-down Victorian cabinet under Ben Carroll's leadership includes a minister to focus on ethical artificial intelligence, but dumps the transport infrastructure portfolio.
+### HOMICIDE on 2026-08-04 08:12
+- Location: The-independent.com
+- Description: After an opening week of wrenching testimony and a jury trip to the home where Lindsay Clancy strangled her three children, her murder trial resumed Monday
 
 
-### OTHER on 2026-08-04 02:06
-- Location: Crypto Briefing
-- Description: The Blockchain Association's rebuttal highlights ongoing tensions between regulatory clarity and law enforcement's oversight in the crypto space.
-The post Blockchain Association rebuts National Sheriffs’ claims on Clarity Act appeared first on Crypto Briefing.
+### OTHER on 2026-08-04 08:11
+- Location: The Times of India
+- Description: India's Digital Personal Data Protection Act requires significant compliance from startups. Most companies lack readiness for data protection and consent management rules. Technical challenges include data deletion and breach reporting within strict timelines…
 
 
-### OTHER on 2026-08-04 02:05
-- Location: Dailymail.com
-- Description: Anyone who really wanted to know who the mystery celebrity rape accused was didn't need to look far - but the court did its best to hide his identity anyway.
+### ROBBERY/THEFT on 2026-08-04 08:08
+- Location: Israelnationalnews.com
+- Description: Four suspected stolen vehicles, including BMW, Skoda, and BYD models, were recovered during a police raid in Hebron.
 
 
-### SHOOTING on 2026-08-04 01:55
-- Location: Antaranews.com
-- Description: Police in Indonesia&#39;s resort island of Bali are investigating the ownership of firearms and dozens of rounds of ammunition discovered during a drug raid ...
+### HOMICIDE on 2026-08-04 08:08
+- Location: The Times of India
+- Description: Hyderabad Saidabad: Auto driver Ameer, 37, hacked to death by neighbour Suman over personal grudge; accused absconding, murder case filed under BNS 103.
 
 
-### OTHER on 2026-08-04 01:47
-- Location: Common Dreams
-- Description: A new report published Monday details how Israeli soldiers and civilian contractors are systematically removing potential proof of genocide from the Gaza Strip, an apparent violation of an order issued by the World Court for Israel to preserve evidence of gen…
+### OTHER on 2026-08-04 08:04
+- Location: The Times of India
+- Description: Embracing the digital age, Ajinkya Raut highlights the significance of social media for actors aiming for success. He realizes that effective promotion and visibility are essential in the industry. Additionally, Raut is expanding his horizons by learning lang…
 
-Analysis generated at: Wed Aug  5 02:52:06 UTC 2026
+Analysis generated at: Wed Aug  5 08:27:33 UTC 2026
