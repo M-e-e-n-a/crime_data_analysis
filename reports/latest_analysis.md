@@ -1,10 +1,10 @@
 
-Loaded 122711 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-04 14:18:22
+Loaded 122802 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-04 19:12:19
 
 Incidents by source:
 source
-newsapi           122610
+newsapi           122701
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,31 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-08-04 14:18
-- Location: Dailymail.com
-- Description: Amran Hussain has been jailed after his trail of deception finally came to a halt when he was arrested at a remote cottage he was renting from his aristocratic landlords.
+### ROBBERY/THEFT on 2026-08-04 19:12
+- Location: The Times of India
+- Description: Indore police arrest domestic help/caretaker for alleged thefts in two homes; CCTV-led probe recovers cash and gold jewellery worth about Rs 10 lakh.
 
 
-### OTHER on 2026-08-04 14:18
-- Location: The Diplomat
-- Description: In East Asia’s graying societies, police are becoming the “catch-all” agency for managing aging, like dementia-related wandering.
+### HOMICIDE on 2026-08-04 19:10
+- Location: The Times of India
+- Description: Truck driver Sahil, 20, found stabbed dead in Ratlam; family blocked Jaora four-lane highway demanding arrests as police probe murder allegations.
 
 
-### HOMICIDE on 2026-08-04 14:17
-- Location: Abcnews.com
-- Description: Relatives and friends have gathered in Zimbabwe for the funeral of a mother and her two young daughters who were found dead in their home in Britain
+### OTHER on 2026-08-04 19:10
+- Location: The Punch
+- Description: Kebbi State Police have arrested two suspects linked to the abduction of three military recruits in Zamfara. Learn more about the Kebbi abduction case.
+
+Read More: https://punchng.com/police-arrest-two-in-kebbi-over-abduction-of-military-recruits/
 
 
-### SHOOTING on 2026-08-04 14:14
-- Location: Dailymail.com
-- Description: Chad Williams, 24, allegedly opened fire at an In-N-Out Burger in Idaho, as a former classmate revealed that the college student senator had been impeached.
+### SHOOTING on 2026-08-04 19:04
+- Location: New York Post
+- Description: A high-ranking Westchester County police official who allegedly acted as her gangbanging son's getaway driver at the scene of a Bronx shooting was fired Tuesday, officials announced.
 
 
-### ROBBERY/THEFT on 2026-08-04 14:14
-- Location: Rlsbb.cc
-- Description: Plot: Follows Ajeeb, a sub-inspector serving his probationary period at the Dharmadam Police Station in Kannur district, based on real incidents.Genre: Crime | Mystery | ThrillerIMDB Rating Live: IMDB Rating: 8/10 From 582 UsersTMDB Rating: N/ARotten Rating: …
+### ROBBERY/THEFT on 2026-08-04 18:58
+- Location: Fstoppers
+- Description: Someone sawed down all eight of the automated license plate reader cameras that watch the roads in and out of Winona, Minnesota, and hauled the cameras away. Two more cameras on a nearby Mississippi River bridge were taken the same way.  
+[Read More]
 
-Analysis generated at: Wed Aug  5 14:21:19 UTC 2026
+Analysis generated at: Wed Aug  5 19:22:57 UTC 2026
