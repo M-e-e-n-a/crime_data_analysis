@@ -1,10 +1,10 @@
 
-Loaded 122934 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-05 13:48:42
+Loaded 122944 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-05 14:21:09
 
 Incidents by source:
 source
-newsapi           122833
+newsapi           122843
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,29 +20,30 @@ ion.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2026-08-05 13:48
-- Location: RTE
-- Description: More than 200 incidents of sexual assault or sexual harassment have been reported to Iarnród Éireann over the past ten years.
+### SHOOTING on 2026-08-05 14:21
+- Location: The Punch
+- Description: NANS issues a 72-hour ultimatum to the Ogun State government to rescue abducted students and tackle rising campus insecurity, threatening statewide protest
+
+Read More: https://punchng.com/nans-gives-ogun-72-hour-ultimatum-over-abducted-students-rescue-campus-…
 
 
-### OTHER on 2026-08-05 13:37
-- Location: Reason
-- Description: Some excerpts from Thursday's long decision in Zafar v. Saghier, by Texas Court of Appeals Justice Wade Birdwell, joined by…
-The post ~$550K Award Related to Doctor's Allegedly False Accusation of Nose Punch by Colleague appeared first on Reason.com.
+### HOMICIDE on 2026-08-05 14:17
+- Location: Exystence.net
+- Description: Dead Pioneers’ Wagon Burner arrives just in time for the United States’ 250th birthday, and it is the gift the country deserves and needs right now: An indigenous voice of reason taking the actual history of the country to task and rallying those of us who ar…
 
 
-### OTHER on 2026-08-05 13:36
-- Location: Www.gov.uk
-- Description: This guide provides information about being arrested in Czechia and what conditions are like in prison there.
-
-
-### ROBBERY/THEFT on 2026-08-05 13:17
-- Location: Freerepublic.com
-- Description: Winona police are investigating after all eight of the city’s Flock cameras were cut down and stolen. It’s the latest city in the state to experience Flock camera theft or vandalism; cameras have been reported stolen or damaged in Duluth, Plymouth, Faribault,…
-
-
-### ROBBERY/THEFT on 2026-08-05 13:16
+### OTHER on 2026-08-05 14:16
 - Location: Dailymail.com
-- Description: Rooftop tent boxes have become increasingly popular with campers, but police are warning that thieves are now targeting them.
+- Description: An Irish woman has been raped in the Algarve holiday resort of Albufeira.
 
-Analysis generated at: Thu Aug  6 13:52:01 UTC 2026
+
+### OTHER on 2026-08-05 14:15
+- Location: Dallas Observer
+- Description: Amid the uncertainty of City Hall’s future, Dallasites may soon be asked to approve funding for several major public safety projects.
+
+
+### ASSAULT on 2026-08-05 14:09
+- Location: BBC News
+- Description: John Rocks, who is wanted in connection with sexual assaults, was arrested in Madrid after police initially searched for him in Benidorm.
+
+Analysis generated at: Thu Aug  6 14:24:22 UTC 2026
