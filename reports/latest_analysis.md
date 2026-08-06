@@ -1,10 +1,10 @@
 
-Loaded 122868 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-05 08:19:56
+Loaded 122934 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-05 13:48:42
 
 Incidents by source:
 source
-newsapi           122767
+newsapi           122833
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,30 +20,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2026-08-05 08:19
-- Location: ABC News (AU)
-- Description: Another staff member is being investigated for allegedly inappropriately accessing the private medical records of AFL legend Tony Modra, SA Health says.
+### ASSAULT on 2026-08-05 13:48
+- Location: RTE
+- Description: More than 200 incidents of sexual assault or sexual harassment have been reported to Iarnród Éireann over the past ten years.
 
 
-### HOMICIDE on 2026-08-05 08:11
-- Location: Fox News
-- Description: A Las Vegas police officer and Marine veteran was fatally shot responding to a suspected gunman waving a firearm at a business on East Tropicana Avenue.
+### OTHER on 2026-08-05 13:37
+- Location: Reason
+- Description: Some excerpts from Thursday's long decision in Zafar v. Saghier, by Texas Court of Appeals Justice Wade Birdwell, joined by…
+The post ~$550K Award Related to Doctor's Allegedly False Accusation of Nose Punch by Colleague appeared first on Reason.com.
 
 
-### HOMICIDE on 2026-08-05 08:11
-- Location: New York Post
-- Description: The heartbroken father of four children allegedly murdered by their grandma and mom in an upstate New York apartment ripped the two killers, declaring that the pair deserve a “special place in hell.”  Sarah Myers, 44, and her 64-year-old mother Amy Steadman “…
+### OTHER on 2026-08-05 13:36
+- Location: Www.gov.uk
+- Description: This guide provides information about being arrested in Czechia and what conditions are like in prison there.
 
 
-### ROBBERY/THEFT on 2026-08-05 08:09
-- Location: The Punch
-- Description: Abia Police Command arrested 13 suspects for robbery, vandalism, and unlawful possession of firearms. Exhibits recovered include pistols, cartridges, and h
-
-Read More: https://punchng.com/police-arrest-13-for-robbery-vandalism-unlawful-possession-of-firearms/
+### ROBBERY/THEFT on 2026-08-05 13:17
+- Location: Freerepublic.com
+- Description: Winona police are investigating after all eight of the city’s Flock cameras were cut down and stolen. It’s the latest city in the state to experience Flock camera theft or vandalism; cameras have been reported stolen or damaged in Duluth, Plymouth, Faribault,…
 
 
-### HOMICIDE on 2026-08-05 08:07
+### ROBBERY/THEFT on 2026-08-05 13:16
 - Location: Dailymail.com
-- Description: Aileen O'Connor, the chair of Thames Valley Police Federation, said she would 'throw everything' at trying to block Jessie Cole and Albert Bowers from being freed under Labour's early release scheme.
+- Description: Rooftop tent boxes have become increasingly popular with campers, but police are warning that thieves are now targeting them.
 
-Analysis generated at: Thu Aug  6 08:25:20 UTC 2026
+Analysis generated at: Thu Aug  6 13:52:01 UTC 2026
