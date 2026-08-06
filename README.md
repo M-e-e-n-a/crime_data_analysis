@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Aug  5 19:22:57 UTC 2026
+Last updated: Thu Aug  6 02:00:19 UTC 2026
 
 ## Latest Analysis
 
-Loaded 122802 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-04 19:12:19
+Loaded 122815 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-05 01:58:50
 
 Incidents by source:
 source
-newsapi           122701
+newsapi           122714
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,31 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2026-08-04 19:12
-- Location: The Times of India
-- Description: Indore police arrest domestic help/caretaker for alleged thefts in two homes; CCTV-led probe recovers cash and gold jewellery worth about Rs 10 lakh.
+### HOMICIDE on 2026-08-05 01:58
+- Location: ABC News (AU)
+- Description: Police allege three boys and a man attacked and killed Melbourne man Aidan Becker at a suburban train station in March.
 
 
-### HOMICIDE on 2026-08-04 19:10
-- Location: The Times of India
-- Description: Truck driver Sahil, 20, found stabbed dead in Ratlam; family blocked Jaora four-lane highway demanding arrests as police probe murder allegations.
-
-
-### OTHER on 2026-08-04 19:10
-- Location: The Punch
-- Description: Kebbi State Police have arrested two suspects linked to the abduction of three military recruits in Zamfara. Learn more about the Kebbi abduction case.
-
-Read More: https://punchng.com/police-arrest-two-in-kebbi-over-abduction-of-military-recruits/
-
-
-### SHOOTING on 2026-08-04 19:04
+### OTHER on 2026-08-05 01:58
 - Location: New York Post
-- Description: A high-ranking Westchester County police official who allegedly acted as her gangbanging son's getaway driver at the scene of a Bronx shooting was fired Tuesday, officials announced.
+- Description: LA City Councilwoman Nithya Raman is a socialist with many of the same views as New York City Mayor Zohran Mamdani — and could bring his toxic policies to LA, if she wins in November.
 
 
-### ROBBERY/THEFT on 2026-08-04 18:58
-- Location: Fstoppers
-- Description: Someone sawed down all eight of the automated license plate reader cameras that watch the roads in and out of Winona, Minnesota, and hauled the cameras away. Two more cameras on a nearby Mississippi River bridge were taken the same way.  
-[Read More]
+### OTHER on 2026-08-05 01:48
+- Location: Peoplesreview.com.np
+- Description: By Rabi Raj Thapa Overall, what people witnessed in the Tarai districts is a poor example of the state of public order management. The government should not treat curfew as the only option, especially as a means of covering up its failure to carry out its pro…
 
-Analysis generated at: Wed Aug  5 19:22:57 UTC 2026
+
+### HOMICIDE on 2026-08-05 01:14
+- Location: Dailymail.com
+- Description: On the latest episode of the Trial USA podcast, Kayla Brantley is joined by reporters Ruth Bashinsky, Steve Helling and Rachel Sharp as they discuss the women charmed by the imprisoned Watts
+
+
+### HOMICIDE on 2026-08-05 01:12
+- Location: Dailymail.com
+- Description: Tragic new details have emerged about a death that shocked Australia.
+
+Analysis generated at: Thu Aug  6 02:00:19 UTC 2026
