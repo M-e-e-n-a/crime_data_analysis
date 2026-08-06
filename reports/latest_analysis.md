@@ -1,10 +1,10 @@
 
-Loaded 122944 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-05 14:21:09
+Loaded 123037 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-05 23:52:45
 
 Incidents by source:
 source
-newsapi           122843
+newsapi           122936
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,30 +20,30 @@ ion.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-08-05 14:21
-- Location: The Punch
-- Description: NANS issues a 72-hour ultimatum to the Ogun State government to rescue abducted students and tackle rising campus insecurity, threatening statewide protest
-
-Read More: https://punchng.com/nans-gives-ogun-72-hour-ultimatum-over-abducted-students-rescue-campus-…
-
-
-### HOMICIDE on 2026-08-05 14:17
-- Location: Exystence.net
-- Description: Dead Pioneers’ Wagon Burner arrives just in time for the United States’ 250th birthday, and it is the gift the country deserves and needs right now: An indigenous voice of reason taking the actual history of the country to task and rallying those of us who ar…
-
-
-### OTHER on 2026-08-05 14:16
+### HOMICIDE on 2026-08-05 23:52
 - Location: Dailymail.com
-- Description: An Irish woman has been raped in the Algarve holiday resort of Albufeira.
+- Description: Sharif Ahmadzai, 26, is suspected of killing Elisabeth-Jane Ross, 38, before putting her body in a suitcase and dumping it in a derelict building.
 
 
-### OTHER on 2026-08-05 14:15
-- Location: Dallas Observer
-- Description: Amid the uncertainty of City Hall’s future, Dallasites may soon be asked to approve funding for several major public safety projects.
+### ROBBERY/THEFT on 2026-08-05 23:52
+- Location: The Punch
+- Description: Abia Police Command arrests 13 suspects aged 20-27, smashing robbery and cult networks. Recovered firearms, drugs, and vandalized property in ongoing opera
+
+Read More: https://punchng.com/13-held-as-police-smash-robbery-cult-networks-in-abia/
 
 
-### ASSAULT on 2026-08-05 14:09
-- Location: BBC News
-- Description: John Rocks, who is wanted in connection with sexual assaults, was arrested in Madrid after police initially searched for him in Benidorm.
+### HOMICIDE on 2026-08-05 23:51
+- Location: Al Jazeera English
+- Description: Cesar Gastelum was killed as he sat in a car park with two others in Culiacan, the capital of Sinaloa state.
 
-Analysis generated at: Thu Aug  6 14:24:22 UTC 2026
+
+### ASSAULT on 2026-08-05 23:46
+- Location: RTE
+- Description: A 75-year-old man has been extradited from Australia to Northern Ireland to stand trial for 14 offences of indecent assault on a female, and three offences of committing an act of gross indecency with a child.
+
+
+### OTHER on 2026-08-05 23:43
+- Location: Freerepublic.com
+- Description: During Tuesday's National Night Out Against Crime on Staten Island, Mamdani received loud jeers and profanities as he approached to speak, lasting under a minute before leaving. The chilly welcome contrasted with warmer receptions in other boroughs, where he …
+
+Analysis generated at: Thu Aug  6 23:55:19 UTC 2026
