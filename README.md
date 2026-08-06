@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Aug  6 02:55:17 UTC 2026
+Last updated: Thu Aug  6 08:25:20 UTC 2026
 
 ## Latest Analysis
 
-Loaded 122819 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-05 02:41:14
+Loaded 122868 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-05 08:19:56
 
 Incidents by source:
 source
-newsapi           122718
+newsapi           122767
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,30 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-08-05 02:41
-- Location: The Times of India
-- Description: Police across five Amazon nations arrested hundreds and seized valuable resources during a major environmental crime operation. Operation Green Shield 2026 targeted illegal mining, logging, and wildlife trafficking across the vast rainforest. Authorities conf…
-
-
-### HOMICIDE on 2026-08-05 02:33
-- Location: Dailymail.com
-- Description: Republican Representative John James won Michigan's Republican primary for governor Tuesday, beating businessman Perry Johnson after fending off weeks of personal attacks.
-
-
-### DRUG RELATED on 2026-08-05 02:08
-- Location: Borderlandbeat.com
-- Description: “Sol Prendido” for Borderland Beat  The administration of David Monreal Ávila in the state of Zacatecas, which began in September 2021, has ...
-
-
-### OTHER on 2026-08-05 02:03
-- Location: BBC News
-- Description: Joshua Bonehill-Paine was jailed over neo-Nazi activism, but has been selected to stand in a new Somerset Council seat in 2027.
-
-
-### HOMICIDE on 2026-08-05 01:58
+### ROBBERY/THEFT on 2026-08-05 08:19
 - Location: ABC News (AU)
-- Description: Police allege three boys and a man attacked and killed Melbourne man Aidan Becker at a suburban train station in March.
+- Description: Another staff member is being investigated for allegedly inappropriately accessing the private medical records of AFL legend Tony Modra, SA Health says.
 
-Analysis generated at: Thu Aug  6 02:55:17 UTC 2026
+
+### HOMICIDE on 2026-08-05 08:11
+- Location: Fox News
+- Description: A Las Vegas police officer and Marine veteran was fatally shot responding to a suspected gunman waving a firearm at a business on East Tropicana Avenue.
+
+
+### HOMICIDE on 2026-08-05 08:11
+- Location: New York Post
+- Description: The heartbroken father of four children allegedly murdered by their grandma and mom in an upstate New York apartment ripped the two killers, declaring that the pair deserve a “special place in hell.”  Sarah Myers, 44, and her 64-year-old mother Amy Steadman “…
+
+
+### ROBBERY/THEFT on 2026-08-05 08:09
+- Location: The Punch
+- Description: Abia Police Command arrested 13 suspects for robbery, vandalism, and unlawful possession of firearms. Exhibits recovered include pistols, cartridges, and h
+
+Read More: https://punchng.com/police-arrest-13-for-robbery-vandalism-unlawful-possession-of-firearms/
+
+
+### HOMICIDE on 2026-08-05 08:07
+- Location: Dailymail.com
+- Description: Aileen O'Connor, the chair of Thames Valley Police Federation, said she would 'throw everything' at trying to block Jessie Cole and Albert Bowers from being freed under Labour's early release scheme.
+
+Analysis generated at: Thu Aug  6 08:25:20 UTC 2026
