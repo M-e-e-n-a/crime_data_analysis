@@ -1,10 +1,10 @@
 
-Loaded 123105 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-06 07:05:14
+Loaded 123185 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-06 12:49:01
 
 Incidents by source:
 source
-newsapi           123004
+newsapi           123084
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-08-06 07:05
-- Location: Gossiplankanews.com
-- Description: A sergeant from the Pamunugama Police, who allegedly allowed suspects fleeing after a murder at a birthday party held at a hotel in the Wattala area to pass through a roadblock, has been suspended. His suspension is effective from August 03, on charges of fai…
+### OTHER on 2026-08-06 12:49
+- Location: The Conversation Africa
+- Description: Public support for trans and gender-diverse people is declining, and that decline is being driven by political and media discourse.
 
 
-### HOMICIDE on 2026-08-06 07:01
+### OTHER on 2026-08-06 12:48
 - Location: Dailymail.com
-- Description: 'Fun-loving' Keaton Slater died aged 12 after being struck by a black BMW in his home city of Coventry in June 2024.
+- Description: Far fewer Islamist cases were adopted by the Prevent programme under the 'Channel' scheme, compared with 'extreme Right-wing' cases.
 
 
-### OTHER on 2026-08-06 07:00
-- Location: Sporting News
-- Description: As the 2026 Pro Football Hall of Fame class is enshrined, these are the players who could receive a knock on their proverbial door in six months.
+### OTHER on 2026-08-06 12:44
+- Location: Crooksandliars.com
+- Description: On Monday evening, Krash Patel, the googly-eyed head of the FBI, became the 10th member of the Trump crime syndicate to travel to Western Wisconsin to appear with Rep Drunken Van Orden as he tries desperately to cling to his congressional seat. The reason for…
 
 
-### ASSAULT on 2026-08-06 06:59
-- Location: Fox News
-- Description: A Florida man is facing charges after he allegedly hacked his sleeping sister with a machete as her 1-year-old daughter was lying beside her in the bed.
+### OTHER on 2026-08-06 12:41
+- Location: Fortune
+- Description: One state, Georgia, has sent more troops to Washington DC than DC has itself.
 
 
-### HOMICIDE on 2026-08-06 06:55
-- Location: Dailymail.com
-- Description: Police announced today that 35-year-old Shane Porter, of Calcutt Park, has been charged with Mr Ward's murder and possession of a shotgun without a certificate.
+### OTHER on 2026-08-06 12:37
+- Location: The Conversation Africa
+- Description: Russia is not just moving Ukrainian children. It is taking away their identities. Will the $25 million being spent by the US to locate and rehabilitate forcibly transferred children be enough?
 
-Analysis generated at: Fri Aug  7 07:06:40 UTC 2026
+Analysis generated at: Fri Aug  7 12:49:31 UTC 2026
