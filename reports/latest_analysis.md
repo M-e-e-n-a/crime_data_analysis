@@ -1,10 +1,10 @@
 
-Loaded 123185 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-06 12:49:01
+Loaded 123191 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-06 13:03:45
 
 Incidents by source:
 source
-newsapi           123084
+newsapi           123090
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,30 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-08-06 12:49
-- Location: The Conversation Africa
-- Description: Public support for trans and gender-diverse people is declining, and that decline is being driven by political and media discourse.
+### ROBBERY/THEFT on 2026-08-06 13:03
+- Location: Variety
+- Description: A24 has released the trailer for “Primetime,” giving a first look at Robert Pattinson as “To Catch a Predator” host Chris Hansen. The drama-thriller sees Pattinson step into Hansen’s shoes during a significant chapter in the history of the show, which followe…
 
 
-### OTHER on 2026-08-06 12:48
-- Location: Dailymail.com
-- Description: Far fewer Islamist cases were adopted by the Prevent programme under the 'Channel' scheme, compared with 'extreme Right-wing' cases.
+### HOMICIDE on 2026-08-06 13:00
+- Location: Fox News
+- Description: Dustin Rose's cellphone may reveal why he and Samson Campbell were killed in DeLand, Florida, as a former homicide detective explains the forensic audit.
 
 
-### OTHER on 2026-08-06 12:44
-- Location: Crooksandliars.com
-- Description: On Monday evening, Krash Patel, the googly-eyed head of the FBI, became the 10th member of the Trump crime syndicate to travel to Western Wisconsin to appear with Rep Drunken Van Orden as he tries desperately to cling to his congressional seat. The reason for…
+### OTHER on 2026-08-06 13:00
+- Location: Salon
+- Description: Perez Hilton's crisis went out live and unfiltered. That's not an accident anymore.
 
 
-### OTHER on 2026-08-06 12:41
-- Location: Fortune
-- Description: One state, Georgia, has sent more troops to Washington DC than DC has itself.
+### OTHER on 2026-08-06 13:00
+- Location: ComicBook.com
+- Description: Image Courtesy of DC Comics
+
+While it’s a point of pride for DC Comics readers that the company emerged fully formed during the “Golden Age” of comics, debuting Superman, Batman, Wonder Woman, and dozens more still-iconic characters, it comes with a sharp dow…
 
 
-### OTHER on 2026-08-06 12:37
-- Location: The Conversation Africa
-- Description: Russia is not just moving Ukrainian children. It is taking away their identities. Will the $25 million being spent by the US to locate and rehabilitate forcibly transferred children be enough?
+### HOMICIDE on 2026-08-06 12:58
+- Location: Mother Jones
+- Description: When 25-year-old Glendy Marisol González de la Cruz took her three daughters and boarded a plane from St. Louis to Guatemala City on June 17, her friends begged her not to go. But Glendy had no other option: Her husband, Nixon Giovanni Pérez Paz, who worked a…
 
-Analysis generated at: Fri Aug  7 12:49:31 UTC 2026
+Analysis generated at: Fri Aug  7 13:14:55 UTC 2026
