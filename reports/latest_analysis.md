@@ -1,10 +1,10 @@
 
-Loaded 123062 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-06 02:47:49
+Loaded 123105 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-06 07:05:14
 
 Incidents by source:
 source
-newsapi           122961
+newsapi           123004
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-08-06 02:47
-- Location: Abcnews.com
-- Description: The United States says it has suspended all government operations in the Mexican state of Michoacan because of a “threat to U_S_ interests."
+### HOMICIDE on 2026-08-06 07:05
+- Location: Gossiplankanews.com
+- Description: A sergeant from the Pamunugama Police, who allegedly allowed suspects fleeing after a murder at a birthday party held at a hotel in the Wattala area to pass through a roadblock, has been suspended. His suspension is effective from August 03, on charges of fai…
 
 
-### OTHER on 2026-08-06 02:42
-- Location: The Times of India
-- Description: This week's OTT releases offer something for almost every kind of viewer. If suspense is your favourite genre, Uyir and Vadhandhi: Season 2 promise gripping investigations. Those looking for lighter entertainment can pick Sathyathil Sambhavichathu, while Noor…
+### HOMICIDE on 2026-08-06 07:01
+- Location: Dailymail.com
+- Description: 'Fun-loving' Keaton Slater died aged 12 after being struck by a black BMW in his home city of Coventry in June 2024.
 
 
-### OTHER on 2026-08-06 02:32
-- Location: Abcnews.com
-- Description: The United States says it has suspended all government operations in the Mexican state of Michoacan because of a “threat to U.S. interests,” including the inspections of avocados required for their export
+### OTHER on 2026-08-06 07:00
+- Location: Sporting News
+- Description: As the 2026 Pro Football Hall of Fame class is enshrined, these are the players who could receive a knock on their proverbial door in six months.
 
 
-### OTHER on 2026-08-06 02:32
-- Location: Abcnews.com
-- Description: The United States says it has suspended all government operations in the Mexican state of Michoacan because of a “threat to U.S. interests,” including the inspections of avocados required for their export
+### ASSAULT on 2026-08-06 06:59
+- Location: Fox News
+- Description: A Florida man is facing charges after he allegedly hacked his sleeping sister with a machete as her 1-year-old daughter was lying beside her in the bed.
 
 
-### OTHER on 2026-08-06 02:30
-- Location: New York Post
-- Description: Many Staten Islanders can be seen showing their disapproval by snubbing Mamdani and giving him the ‘thumbs down’ as he was viciously heckled and escorted away from the event.
+### HOMICIDE on 2026-08-06 06:55
+- Location: Dailymail.com
+- Description: Police announced today that 35-year-old Shane Porter, of Calcutt Park, has been charged with Mr Ward's murder and possession of a shotgun without a certificate.
 
-Analysis generated at: Fri Aug  7 02:52:55 UTC 2026
+Analysis generated at: Fri Aug  7 07:06:40 UTC 2026
