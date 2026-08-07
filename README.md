@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Aug  7 13:14:55 UTC 2026
+Last updated: Fri Aug  7 18:46:48 UTC 2026
 
 ## Latest Analysis
 
-Loaded 123191 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-06 13:03:45
+Loaded 123287 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-06 18:46:24
 
 Incidents by source:
 source
-newsapi           123090
+newsapi           123186
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,30 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2026-08-06 13:03
-- Location: Variety
-- Description: A24 has released the trailer for “Primetime,” giving a first look at Robert Pattinson as “To Catch a Predator” host Chris Hansen. The drama-thriller sees Pattinson step into Hansen’s shoes during a significant chapter in the history of the show, which followe…
+### OTHER on 2026-08-06 18:46
+- Location: The Times of India
+- Description: Ahmedabad sessions court acquits 22-year-old in rape case as DNA finds unknown male; cites contradictions and remarks complainant “habituated to casual sex.”
 
 
-### HOMICIDE on 2026-08-06 13:00
-- Location: Fox News
-- Description: Dustin Rose's cellphone may reveal why he and Samson Campbell were killed in DeLand, Florida, as a former homicide detective explains the forensic audit.
+### HOMICIDE on 2026-08-06 18:46
+- Location: The Times of India
+- Description: Homeless man allegedly stabs Pune landowner Ghanshyam Raikar to death at Baner women’s meditation center after dispute; suspect Solomon Shendge surrenders.
 
 
-### OTHER on 2026-08-06 13:00
-- Location: Salon
-- Description: Perez Hilton's crisis went out live and unfiltered. That's not an accident anymore.
+### OTHER on 2026-08-06 18:46
+- Location: The Times of India
+- Description: Gujarat man returning under voluntary US deportation arrested at Delhi IGI Airport for allegedly using another person’s passport; FIR filed, agent being traced.
 
 
-### OTHER on 2026-08-06 13:00
-- Location: ComicBook.com
-- Description: Image Courtesy of DC Comics
-
-While it’s a point of pride for DC Comics readers that the company emerged fully formed during the “Golden Age” of comics, debuting Superman, Batman, Wonder Woman, and dozens more still-iconic characters, it comes with a sharp dow…
+### OTHER on 2026-08-06 18:46
+- Location: The Times of India
+- Description: Gujarat artisans and design institutes revive heritage handlooms with modern motifs and contemporary products ahead of National Handloom Day, Aug 7.
 
 
-### HOMICIDE on 2026-08-06 12:58
-- Location: Mother Jones
-- Description: When 25-year-old Glendy Marisol González de la Cruz took her three daughters and boarded a plane from St. Louis to Guatemala City on June 17, her friends begged her not to go. But Glendy had no other option: Her husband, Nixon Giovanni Pérez Paz, who worked a…
+### OTHER on 2026-08-06 18:46
+- Location: The Times of India
+- Description: Gujarat plans Har Ghar Tiranga events Aug 9–17, including Tiranga Yatra and Tiranga Concert in Gandhinagar on Aug 10; flag to be hoisted at 70 lakh homes.
 
-Analysis generated at: Fri Aug  7 13:14:55 UTC 2026
+Analysis generated at: Fri Aug  7 18:46:48 UTC 2026
