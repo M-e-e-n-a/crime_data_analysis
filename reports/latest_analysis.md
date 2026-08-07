@@ -1,10 +1,10 @@
 
-Loaded 123037 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-05 23:52:45
+Loaded 123057 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-06 02:19:38
 
 Incidents by source:
 source
-newsapi           122936
+newsapi           122956
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,30 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-08-05 23:52
+### OTHER on 2026-08-06 02:19
+- Location: New York Post
+- Description: Abdul El-Sayed is the latest Islamo-socialist terrorist-sympathizer star of the Democrat Party, after squeaking to a win in the Michigan Senate primary Tuesday.
+
+
+### HOMICIDE on 2026-08-06 02:19
 - Location: Dailymail.com
-- Description: Sharif Ahmadzai, 26, is suspected of killing Elisabeth-Jane Ross, 38, before putting her body in a suitcase and dumping it in a derelict building.
+- Description: The bodies of a 23-year-old woman and a 45-year-old man were discovered inside a property in Charleville, Queensland on Thursday morning after a tense seven-hour police siege.
 
 
-### ROBBERY/THEFT on 2026-08-05 23:52
-- Location: The Punch
-- Description: Abia Police Command arrests 13 suspects aged 20-27, smashing robbery and cult networks. Recovered firearms, drugs, and vandalized property in ongoing opera
-
-Read More: https://punchng.com/13-held-as-police-smash-robbery-cult-networks-in-abia/
-
-
-### HOMICIDE on 2026-08-05 23:51
-- Location: Al Jazeera English
-- Description: Cesar Gastelum was killed as he sat in a car park with two others in Culiacan, the capital of Sinaloa state.
-
-
-### ASSAULT on 2026-08-05 23:46
-- Location: RTE
-- Description: A 75-year-old man has been extradited from Australia to Northern Ireland to stand trial for 14 offences of indecent assault on a female, and three offences of committing an act of gross indecency with a child.
-
-
-### OTHER on 2026-08-05 23:43
+### HOMICIDE on 2026-08-06 02:13
 - Location: Freerepublic.com
-- Description: During Tuesday's National Night Out Against Crime on Staten Island, Mamdani received loud jeers and profanities as he approached to speak, lasting under a minute before leaving. The chilly welcome contrasted with warmer receptions in other boroughs, where he …
+- Description: Citadel Cadet Dustin Rose, childhood best friend Samson Campbell gunned down by 17-year-old Keyan Rundell in Florida =============================================================== A Citadel cadet and South Carolina Army National Guard member and his childhoo…
 
-Analysis generated at: Thu Aug  6 23:55:19 UTC 2026
+
+### OTHER on 2026-08-06 02:04
+- Location: New York Post
+- Description: Will Tony Romo’s CBS exile be permanent?
+
+
+### HOMICIDE on 2026-08-06 02:01
+- Location: Dailymail.com
+- Description: Brady Harmon has revealed the text messages he received on the same day investigators believe his ex-wife began orchestrating the mass poisoning.
+
+Analysis generated at: Fri Aug  7 02:23:35 UTC 2026
