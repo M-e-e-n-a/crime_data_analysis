@@ -1,10 +1,10 @@
 
-Loaded 123057 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-06 02:19:38
+Loaded 123062 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-06 02:47:49
 
 Incidents by source:
 source
-newsapi           122956
+newsapi           122961
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-08-06 02:19
+### OTHER on 2026-08-06 02:47
+- Location: Abcnews.com
+- Description: The United States says it has suspended all government operations in the Mexican state of Michoacan because of a “threat to U_S_ interests."
+
+
+### OTHER on 2026-08-06 02:42
+- Location: The Times of India
+- Description: This week's OTT releases offer something for almost every kind of viewer. If suspense is your favourite genre, Uyir and Vadhandhi: Season 2 promise gripping investigations. Those looking for lighter entertainment can pick Sathyathil Sambhavichathu, while Noor…
+
+
+### OTHER on 2026-08-06 02:32
+- Location: Abcnews.com
+- Description: The United States says it has suspended all government operations in the Mexican state of Michoacan because of a “threat to U.S. interests,” including the inspections of avocados required for their export
+
+
+### OTHER on 2026-08-06 02:32
+- Location: Abcnews.com
+- Description: The United States says it has suspended all government operations in the Mexican state of Michoacan because of a “threat to U.S. interests,” including the inspections of avocados required for their export
+
+
+### OTHER on 2026-08-06 02:30
 - Location: New York Post
-- Description: Abdul El-Sayed is the latest Islamo-socialist terrorist-sympathizer star of the Democrat Party, after squeaking to a win in the Michigan Senate primary Tuesday.
+- Description: Many Staten Islanders can be seen showing their disapproval by snubbing Mamdani and giving him the ‘thumbs down’ as he was viciously heckled and escorted away from the event.
 
-
-### HOMICIDE on 2026-08-06 02:19
-- Location: Dailymail.com
-- Description: The bodies of a 23-year-old woman and a 45-year-old man were discovered inside a property in Charleville, Queensland on Thursday morning after a tense seven-hour police siege.
-
-
-### HOMICIDE on 2026-08-06 02:13
-- Location: Freerepublic.com
-- Description: Citadel Cadet Dustin Rose, childhood best friend Samson Campbell gunned down by 17-year-old Keyan Rundell in Florida =============================================================== A Citadel cadet and South Carolina Army National Guard member and his childhoo…
-
-
-### OTHER on 2026-08-06 02:04
-- Location: New York Post
-- Description: Will Tony Romo’s CBS exile be permanent?
-
-
-### HOMICIDE on 2026-08-06 02:01
-- Location: Dailymail.com
-- Description: Brady Harmon has revealed the text messages he received on the same day investigators believe his ex-wife began orchestrating the mass poisoning.
-
-Analysis generated at: Fri Aug  7 02:23:35 UTC 2026
+Analysis generated at: Fri Aug  7 02:52:55 UTC 2026
