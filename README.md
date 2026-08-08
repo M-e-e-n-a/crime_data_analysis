@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Aug  8 12:58:24 UTC 2026
+Last updated: Sat Aug  8 18:30:05 UTC 2026
 
 ## Latest Analysis
 
-Loaded 123460 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-07 12:56:40
+Loaded 123554 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-07 18:30:00
 
 Incidents by source:
 source
-newsapi           123359
+newsapi           123453
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,31 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-08-07 12:56
-- Location: The Times of India
-- Description: Panchkula recorded 11 murders in Jan–Jun 2026, on track for its highest annual total in 5 years; only 4 cases solved so far, police cite steps to curb crime.
+### OTHER on 2026-08-07 18:30
+- Location: PCMag.com
+- Description: Highlights include a cheeky Korean detective show, a documentary about a legendary pop-punk drummer, and a Pokémon nostalgia trip.
+Disney+ and Hulu have a wide variety of new programming coming your way in the first full week of August, including the return o…
 
 
-### HOMICIDE on 2026-08-07 12:49
-- Location: CBC News
-- Description: A Thai teenager killed at least five people and himself at a ‌school outside Bangkok on Friday after fatally shooting his grandparents, police said, in the Southeast Asian nation's worst mass killing since 2022.
+### OTHER on 2026-08-07 18:30
+- Location: PCMag.com
+- Description: Highlights include a cheeky Korean detective show, a documentary about a legendary pop-punk drummer, and a Pokémon nostalgia trip.
+Disney+ and Hulu have a wide variety of new programming coming your way in the first full week of August, including the return o…
 
 
-### OTHER on 2026-08-07 12:49
-- Location: YLE News
-- Description: Surveillance cameras are already in use in many parts of the country.
+### OTHER on 2026-08-07 18:22
+- Location: HuffPost
+- Description: Tasia Fortune’s aunt described her niece as a “strong-minded, big-hearted, vibrant young woman.”
 
 
-### OTHER on 2026-08-07 12:48
-- Location: PRNewswire
-- Description: INDIANAPOLIS, Aug. 7, 2026 /PRNewswire/ -- Darren Almendarez was a Harris County (Texas) off-duty sheriff's deputy who was slain as he attempted to stop three suspects from stealing the catalytic converter from his truck. Rep. Brandon Gill (TX-26) has introdu…
+### HOMICIDE on 2026-08-07 18:20
+- Location: Radaronline.com
+- Description: Lindsay Clancy chronicled her downward spiral with mental health and suicidal ideations prior to the alleged murder of her three kids.
 
 
-### ROBBERY/THEFT on 2026-08-07 12:45
-- Location: Dailymail.com
-- Description: Dollaresa Pauce, 27, Estera Stepane, 30 and Raksana Kleina, 24, stole sunglasses, clothing, handbags and footwear at Cheshire Oaks in Ellesmere Port, Cheshire.
+### HOMICIDE on 2026-08-07 18:17
+- Location: Breitbart News
+- Description: Florida police have charged a 91-year-old senior man with the homicide of his wife after he told authorities that he viewed the act as “keeping his promise” that he would never put her in a nursing home.
+The post Report: Senior, 91, Tells Police He Killed His…
 
-Analysis generated at: Sat Aug  8 12:58:24 UTC 2026
+Analysis generated at: Sat Aug  8 18:30:05 UTC 2026
