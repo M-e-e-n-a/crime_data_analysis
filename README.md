@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Aug  8 06:42:26 UTC 2026
+Last updated: Sat Aug  8 12:36:28 UTC 2026
 
 ## Latest Analysis
 
-Loaded 123381 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-07 06:29:40
+Loaded 123455 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-07 12:33:48
 
 Incidents by source:
 source
-newsapi           123280
+newsapi           123354
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,30 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-08-07 06:29
-- Location: Al Jazeera English
-- Description: Jaswant Singh Khalra's daughter Navkiran reflects on slain father's life and legacy, which also inspired a recent film.
+### OTHER on 2026-08-07 12:33
+- Location: Democracy Now!
+- Description: Composer and playwright César Alvarez joins Democracy Now! to discuss their new musical, The Potluck. It tells the story of the 1979 Greensboro Massacre, when Klansmen and American Nazis opened fire on an antiracist demonstration in Greensboro, North Carolina…
 
 
-### HOMICIDE on 2026-08-07 06:20
-- Location: Dailymail.com
-- Description: A remorseless wife killer who staged his crime as a suicide has erupted in court while making a fresh bid for freedom, years after being convicted of murdering Samantha Fraser.
+### HOMICIDE on 2026-08-07 12:33
+- Location: The Root
+- Description: In yet another tragic loss in Mississippi following the death of Nolan Wells near Horn Island, a Black woman was found hanging from a tree on Monday. After Mississippi authorities identified her as 29-year-old Tasia Fortune, detectives began investigating her…
 
 
-### HOMICIDE on 2026-08-07 06:20
-- Location: ABC News (AU)
-- Description: Police are investigating whether a man suspected of being mauled to death by dogs at a property in Sydney's south-west was an intruder.
+### ROBBERY/THEFT on 2026-08-07 12:30
+- Location: BBC News
+- Description: Brahim Keddad was caught by police officers during a violent bid to snatch the watch from a tourist.
 
 
-### OTHER on 2026-08-07 06:10
-- Location: Livemint
-- Description: The Supreme Court has extended mandatory third-party motor insurance for new vehicles: four years for cars and six years for two-wheelers. Here's the difference between third-party and comprehensive motor cover and whether you can upgrade.
+### HOMICIDE on 2026-08-07 12:28
+- Location: Freerepublic.com
+- Description: A German judicial panel in Munich issued a life prison sentence Thursday to an Afghan citizen responsible for a vehicle-ramming rampage during a demonstration last year that claimed the lives of a toddler and her mother while leaving scores wounded, AFP repor…
 
 
-### OTHER on 2026-08-07 06:07
-- Location: The Punch
-- Description: Abia State Police arrest Nnamdi Lazarus, a child trafficking suspect, and rescue six abducted children. Investigation ongoing to apprehend syndicate member
+### HOMICIDE on 2026-08-07 12:28
+- Location: Freerepublic.com
+- Description: A German judicial panel in Munich issued a life prison sentence Thursday to an Afghan citizen responsible for a vehicle-ramming rampage during a demonstration last year that claimed the lives of a toddler and her mother while leaving scores wounded, AFP repor…
 
-Read More: https://punchng.com/police-arrest-child-trafficking-suspect-in-abia-rescue-six/
-
-Analysis generated at: Sat Aug  8 06:42:26 UTC 2026
+Analysis generated at: Sat Aug  8 12:36:28 UTC 2026
