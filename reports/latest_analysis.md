@@ -1,10 +1,10 @@
 
-Loaded 123455 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-07 12:33:48
+Loaded 123460 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-07 12:56:40
 
 Incidents by source:
 source
-newsapi           123354
+newsapi           123359
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-08-07 12:33
-- Location: Democracy Now!
-- Description: Composer and playwright César Alvarez joins Democracy Now! to discuss their new musical, The Potluck. It tells the story of the 1979 Greensboro Massacre, when Klansmen and American Nazis opened fire on an antiracist demonstration in Greensboro, North Carolina…
+### HOMICIDE on 2026-08-07 12:56
+- Location: The Times of India
+- Description: Panchkula recorded 11 murders in Jan–Jun 2026, on track for its highest annual total in 5 years; only 4 cases solved so far, police cite steps to curb crime.
 
 
-### HOMICIDE on 2026-08-07 12:33
-- Location: The Root
-- Description: In yet another tragic loss in Mississippi following the death of Nolan Wells near Horn Island, a Black woman was found hanging from a tree on Monday. After Mississippi authorities identified her as 29-year-old Tasia Fortune, detectives began investigating her…
+### HOMICIDE on 2026-08-07 12:49
+- Location: CBC News
+- Description: A Thai teenager killed at least five people and himself at a ‌school outside Bangkok on Friday after fatally shooting his grandparents, police said, in the Southeast Asian nation's worst mass killing since 2022.
 
 
-### ROBBERY/THEFT on 2026-08-07 12:30
-- Location: BBC News
-- Description: Brahim Keddad was caught by police officers during a violent bid to snatch the watch from a tourist.
+### OTHER on 2026-08-07 12:49
+- Location: YLE News
+- Description: Surveillance cameras are already in use in many parts of the country.
 
 
-### HOMICIDE on 2026-08-07 12:28
-- Location: Freerepublic.com
-- Description: A German judicial panel in Munich issued a life prison sentence Thursday to an Afghan citizen responsible for a vehicle-ramming rampage during a demonstration last year that claimed the lives of a toddler and her mother while leaving scores wounded, AFP repor…
+### OTHER on 2026-08-07 12:48
+- Location: PRNewswire
+- Description: INDIANAPOLIS, Aug. 7, 2026 /PRNewswire/ -- Darren Almendarez was a Harris County (Texas) off-duty sheriff's deputy who was slain as he attempted to stop three suspects from stealing the catalytic converter from his truck. Rep. Brandon Gill (TX-26) has introdu…
 
 
-### HOMICIDE on 2026-08-07 12:28
-- Location: Freerepublic.com
-- Description: A German judicial panel in Munich issued a life prison sentence Thursday to an Afghan citizen responsible for a vehicle-ramming rampage during a demonstration last year that claimed the lives of a toddler and her mother while leaving scores wounded, AFP repor…
+### ROBBERY/THEFT on 2026-08-07 12:45
+- Location: Dailymail.com
+- Description: Dollaresa Pauce, 27, Estera Stepane, 30 and Raksana Kleina, 24, stole sunglasses, clothing, handbags and footwear at Cheshire Oaks in Ellesmere Port, Cheshire.
 
-Analysis generated at: Sat Aug  8 12:36:28 UTC 2026
+Analysis generated at: Sat Aug  8 12:58:24 UTC 2026
