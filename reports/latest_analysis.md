@@ -1,10 +1,10 @@
 
-Loaded 123301 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-07 01:01:02
+Loaded 123317 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-07 01:56:00
 
 Incidents by source:
 source
-newsapi           123200
+newsapi           123216
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,29 +20,30 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-08-07 01:01
-- Location: Dailymail.com
-- Description: Kumanjayi's body was found on April 25 in the dry Todd River bed near the Aboriginal Town Camp where she lived with her mother, and will finally be buried on August 15.
+### OTHER on 2026-08-07 01:56
+- Location: The Punch
+- Description: Stakeholders in Nigeria’s education sector advocate for a holistic approach to school safety, urging active participation from all to protect learning envi
+
+Read More: https://punchng.com/school-safety-must-go-beyond-policing-stakeholders/
 
 
-### OTHER on 2026-08-07 00:59
-- Location: Fox News
-- Description: Aaron Forrest Farinacci allegedly confessed to setting 25 fires and modeling a delayed ignition device after serial arsonist John Leonard Orr.
+### OTHER on 2026-08-07 01:51
+- Location: Al Jazeera English
+- Description: Israeli forces arrest dozens of Palestinians near Jerusalem amid uptick in military and settler violence in West Bank.
 
 
-### SHOOTING on 2026-08-07 00:57
-- Location: Reason
-- Description: From Jane Bambauer's and my brief in Patterson v. Meta Platforms, Inc., pending now before New York's highest court (for…
-The post Amicus Brief in Lawsuit Against Meta Over Buffalo Supermarket Shooting and Allegedly Addictive Design appeared first on Reason.c…
+### OTHER on 2026-08-07 01:51
+- Location: The Times of India
+- Description: US News: In a private meeting with donors two weeks ago, US President Donald Trump weighed in on Vice President JD Vance’s name as the presidential candidate f.
 
 
-### OTHER on 2026-08-07 00:54
-- Location: BBC News
-- Description: Aaron Farinacci is accused of setting the Old Trails Fire, the largest of three burning around the city that have destroyed hundreds of buildings.
-
-
-### OTHER on 2026-08-07 00:46
+### OTHER on 2026-08-07 01:49
 - Location: New York Post
-- Description: The Metropolitan Police spent months investigating reporter Jack Grove after he emailed questions to Cambridge professor Jason Arday.
+- Description: A maniac shoved a man onto the subway tracks in Harlem after an argument on Tuesday night, according to the NYPD.
 
-Analysis generated at: Sat Aug  8 01:09:10 UTC 2026
+
+### OTHER on 2026-08-07 01:47
+- Location: The Times of India
+- Description: The flood crisis in Assam has reached alarming levels, with 97 fatalities reported. More than 1.68 lakh individuals are struggling across fifteen districts, particularly in Golaghat, where close to 54,000 inhabitants have been affected. The flooding has subme…
+
+Analysis generated at: Sat Aug  8 01:56:16 UTC 2026
