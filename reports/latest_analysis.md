@@ -1,10 +1,10 @@
 
-Loaded 123554 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-07 18:30:00
+Loaded 123568 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-08 01:10:31
 
 Incidents by source:
 source
-newsapi           123453
+newsapi           123467
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,31 +20,32 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-08-07 18:30
-- Location: PCMag.com
-- Description: Highlights include a cheeky Korean detective show, a documentary about a legendary pop-punk drummer, and a Pokémon nostalgia trip.
-Disney+ and Hulu have a wide variety of new programming coming your way in the first full week of August, including the return o…
+### HOMICIDE on 2026-08-08 01:10
+- Location: The Punch
+- Description: Three Nigerians received jail sentences in the UK this week for dangerous driving, attempted murder, and child grooming. Read the full details.
+
+Read More: https://punchng.com/three-nigerians-jailed-in-uk-in-one-week/
 
 
-### OTHER on 2026-08-07 18:30
-- Location: PCMag.com
-- Description: Highlights include a cheeky Korean detective show, a documentary about a legendary pop-punk drummer, and a Pokémon nostalgia trip.
-Disney+ and Hulu have a wide variety of new programming coming your way in the first full week of August, including the return o…
+### HOMICIDE on 2026-08-08 01:02
+- Location: Heavy.com
+- Description: Authorities have disclosed the official cause and manner of Brandon Clarke’s death nearly three months after the Grizzlies forward died. The post Grizzlies Star Brandon Clarke’s Official Cause of Death Revealed 3 Months Later appeared first on HEAVY.
 
 
-### OTHER on 2026-08-07 18:22
-- Location: HuffPost
-- Description: Tasia Fortune’s aunt described her niece as a “strong-minded, big-hearted, vibrant young woman.”
+### OTHER on 2026-08-08 01:01
+- Location: Freerepublic.com
+- Description: Coroner identifies woman found hanging from a tree behind a vacant Jackson home The Hinds County coroner has identified Tasia Fortune as the woman found hanging from a tree behind a vacant home in Jackson earlier this week. Jackson police declined to release …
 
 
-### HOMICIDE on 2026-08-07 18:20
-- Location: Radaronline.com
-- Description: Lindsay Clancy chronicled her downward spiral with mental health and suicidal ideations prior to the alleged murder of her three kids.
+### OTHER on 2026-08-08 00:52
+- Location: The Punch
+- Description: Two Nigerian women, Chikanso James and Happiness Okoye, were arrested in India with 2.28kg of cocaine worth N380m. Investigations are ongoing.
+
+Read More: https://punchng.com/two-nigerian-women-nabbed-with-n380m-cocaine-in-india/
 
 
-### HOMICIDE on 2026-08-07 18:17
-- Location: Breitbart News
-- Description: Florida police have charged a 91-year-old senior man with the homicide of his wife after he told authorities that he viewed the act as “keeping his promise” that he would never put her in a nursing home.
-The post Report: Senior, 91, Tells Police He Killed His…
+### OTHER on 2026-08-08 00:36
+- Location: Winter is Coming
+- Description: Juliette finally comes face to face with The Algorithm in Silo season 3 episode 6.
 
-Analysis generated at: Sat Aug  8 18:30:05 UTC 2026
+Analysis generated at: Sun Aug  9 01:13:28 UTC 2026
