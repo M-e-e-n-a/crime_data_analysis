@@ -1,10 +1,10 @@
 
-Loaded 123593 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-08 06:21:57
+Loaded 123635 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-08 12:30:00
 
 Incidents by source:
 source
-newsapi           123492
+newsapi           123534
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-08-08 06:21
-- Location: The Times of India
-- Description: South Africa marks seventy years since the 1956 Women's March against apartheid laws.  Many women still face significant gender-based violence and economic inequality today.  The Women's Jail, now a museum, honors activists who fought against oppression.  Par…
+### OTHER on 2026-08-08 12:30
+- Location: New York Post
+- Description: Benjamin Netanyahu will need a presidential-size police detail possibly up to 100 detectives to cover him and all the places he goes when he's in the city next month -- and NY’s Finest are furious that the mayor's reckless obsession with the Israeli prime min…
 
 
-### OTHER on 2026-08-08 05:47
-- Location: Nasser.blog
-- Description: Massachusetts put $100 million into AI while its District Attorneys run on a database from the early 2000s. I requested that database's records from all eleven offices. Here is what I found.
+### OTHER on 2026-08-08 12:22
+- Location: RTE
+- Description: The new Government jet has left Ireland as the first leg of an operation is under way to extradite Daniel Kinahan back to Ireland.
 
 
-### OTHER on 2026-08-08 05:45
+### SHOOTING on 2026-08-08 12:07
 - Location: Al Jazeera English
-- Description: After a fire broke out, the building was cleared in what activists say was a politically motivated move.
+- Description: Police bodycam and CCTV catches Idaho mall shooting as it unfolds
 
 
-### SHOOTING on 2026-08-08 05:32
-- Location: Slashdot.org
-- Description: Video from In-N-Out shooting shows bystander aiding victimsnewsnationnow.com Twin Falls Embraces Man Who Confronted Idaho In-N-Out ShootingThe New York Times New video shows gunman shooting victims at Idaho In-N-Out Burger drive-thruKSL News WATCH: Twin Falls…
+### OTHER on 2026-08-08 12:00
+- Location: Fox News
+- Description: Mike Bouchard Jr. slams Abdul El-Sayed's campaign with Hasan Piker and vows Michigan voters will reject socialism in the 10th Congressional District.
 
 
-### OTHER on 2026-08-08 05:30
-- Location: Al Jazeera English
-- Description: Shakib Al Hasan says he will return home to face trial if safety assured, but Bangladesh rule out cricket comeback.
+### HOMICIDE on 2026-08-08 12:00
+- Location: Fox News
+- Description: Daniel Wozniak's ex-fiancée Rachel Buffett is explored in the true crime series "A Killer Among Friends" as a former friend recalls chilling red flags.
 
-Analysis generated at: Sun Aug  9 06:45:41 UTC 2026
+Analysis generated at: Sun Aug  9 12:38:38 UTC 2026
