@@ -1,10 +1,10 @@
 
-Loaded 123641 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-08 13:00:58
+Loaded 123701 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-08 18:31:17
 
 Incidents by source:
 source
-newsapi           123540
+newsapi           123600
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,30 @@ ion.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-08-08 13:00
-- Location: Fox News
-- Description: Two Florida middle school students allegedly built homemade firearms and explosives while researching mass school shootings, authorities say.
+### HOMICIDE on 2026-08-08 18:31
+- Location: Dailymail.com
+- Description: Nicole Beling, 60, was reported missing by a family member at around 12.05am on Friday, July 17. She was graded a high-risk missing person.
 
 
-### HOMICIDE on 2026-08-08 13:00
-- Location: Fox News
-- Description: The 17-year-old suspect in the DeLand double murder had charges dropped or dismissed repeatedly since 2021, Volusia County Sheriff Chitwood says.
-
-
-### SHOOTING on 2026-08-08 13:00
-- Location: Activistpost.com
-- Description: Everybody who preps spends their first dollars in the wrong place. Water filters, food buckets, a generator, maybe a gun and a few boxes of ammo. All good. All necessary. But almost nobody preps for the thing that’s actually going to try to hurt them, and it …
-
-
-### OTHER on 2026-08-08 13:00
-- Location: Rolling Stone
-- Description: The Shards is the latest in a near-constant stream of shows from the prolific TV creator. But only a few capture the juicy, delightfully sinful highs of his great early work
-
-
-### HOMICIDE on 2026-08-08 12:52
+### HOMICIDE on 2026-08-08 18:13
 - Location: Slashdot.org
-- Description: Families retrieve bodies after deadly shooting rampage outside BangkokAl Jazeera Teen kills five teachers in Thailand’s deadliest school shooting in yearsCNN Families retrieve bodies after a 14-year-old killed at least 7 in Thai school shootingNBC News Teen k…
+- Description: 12-year-old student among those killed in Thailand’s deadliest school shooting in yearsCNN 12-year-old girl dies after Thailand school shooting, bringing death toll to at least 8PBS Boy Kills Grandparents and Then Five Teachers, Thai Authorities SayThe New Yo…
 
-Analysis generated at: Sun Aug  9 13:01:36 UTC 2026
+
+### OTHER on 2026-08-08 18:12
+- Location: Reason
+- Description: As leader of the “Girchi—More Freedom” party, Zurah Japaridze spent 7 months jailed as a political prisoner. He’s prepared to spend much longer there if he has to.
+
+
+### OTHER on 2026-08-08 18:06
+- Location: Breitbart News
+- Description: A couple of Florida cops hitched an unexpected ride when a suspect they had stopped sped off with one officer trapped in his car and another unable to let go of the vehicle.
+The post WATCH: Florida Man Charged After Fleeing Traffic Stop with a Cop Still Insid…
+
+
+### SHOOTING on 2026-08-08 18:02
+- Location: Vanguard
+- Description: An eyewitness, Kola Adeoti disclosed that the boy was at his mother's shop when he was hit by a stray bullet 
+The post Police arrest Osun Commissioner over gunshots at APC rally; Adeleke kicks appeared first on Vanguard News.
+
+Analysis generated at: Sun Aug  9 18:33:07 UTC 2026
