@@ -1,10 +1,10 @@
 
-Loaded 123572 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-08 02:02:35
+Loaded 123593 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-08 06:21:57
 
 Incidents by source:
 source
-newsapi           123471
+newsapi           123492
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,31 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-08-08 02:02
-- Location: New York Post
-- Description: Heart-pounding surveillance footage shows three heroic civilians firing back at Idaho In-N-Out gunman Chad Williams – helping to stop the mass shooter from carrying out more carnage. Williams, 24, was confronted by an ex-cop, an off-duty state trooper and an …
+### OTHER on 2026-08-08 06:21
+- Location: The Times of India
+- Description: South Africa marks seventy years since the 1956 Women's March against apartheid laws.  Many women still face significant gender-based violence and economic inequality today.  The Women's Jail, now a museum, honors activists who fought against oppression.  Par…
 
 
-### HOMICIDE on 2026-08-08 01:53
-- Location: ABC News (AU)
-- Description: The Thai Prime Minister has vowed to introduce a new firearms control law after a teenager killed seven people at a high school and a home outside Bangkok.
+### OTHER on 2026-08-08 05:47
+- Location: Nasser.blog
+- Description: Massachusetts put $100 million into AI while its District Attorneys run on a database from the early 2000s. I requested that database's records from all eleven offices. Here is what I found.
 
 
-### OTHER on 2026-08-08 01:47
-- Location: Breitbart News
-- Description: Colombia's conservative President Abelardo de la Espriella took office as the nation's new head of state for the next four years on Friday afternoon.
-The post Citing Thomas Jefferson, Conservative Abelardo de la Espriella Becomes President of Colombia appeare…
+### OTHER on 2026-08-08 05:45
+- Location: Al Jazeera English
+- Description: After a fire broke out, the building was cleared in what activists say was a politically motivated move.
 
 
-### HOMICIDE on 2026-08-08 01:13
-- Location: ABC News (AU)
-- Description: Divorce is still frowned upon in India, where women face immense pressure to stay in toxic relationships.
+### SHOOTING on 2026-08-08 05:32
+- Location: Slashdot.org
+- Description: Video from In-N-Out shooting shows bystander aiding victimsnewsnationnow.com Twin Falls Embraces Man Who Confronted Idaho In-N-Out ShootingThe New York Times New video shows gunman shooting victims at Idaho In-N-Out Burger drive-thruKSL News WATCH: Twin Falls…
 
 
-### HOMICIDE on 2026-08-08 01:10
-- Location: The Punch
-- Description: Three Nigerians received jail sentences in the UK this week for dangerous driving, attempted murder, and child grooming. Read the full details.
+### OTHER on 2026-08-08 05:30
+- Location: Al Jazeera English
+- Description: Shakib Al Hasan says he will return home to face trial if safety assured, but Bangladesh rule out cricket comeback.
 
-Read More: https://punchng.com/three-nigerians-jailed-in-uk-in-one-week/
-
-Analysis generated at: Sun Aug  9 02:03:43 UTC 2026
+Analysis generated at: Sun Aug  9 06:45:41 UTC 2026
