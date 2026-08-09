@@ -1,10 +1,10 @@
 
-Loaded 123635 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-08 12:30:00
+Loaded 123641 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-08 13:00:58
 
 Incidents by source:
 source
-newsapi           123534
+newsapi           123540
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-08-08 12:30
-- Location: New York Post
-- Description: Benjamin Netanyahu will need a presidential-size police detail possibly up to 100 detectives to cover him and all the places he goes when he's in the city next month -- and NY’s Finest are furious that the mayor's reckless obsession with the Israeli prime min…
-
-
-### OTHER on 2026-08-08 12:22
-- Location: RTE
-- Description: The new Government jet has left Ireland as the first leg of an operation is under way to extradite Daniel Kinahan back to Ireland.
-
-
-### SHOOTING on 2026-08-08 12:07
-- Location: Al Jazeera English
-- Description: Police bodycam and CCTV catches Idaho mall shooting as it unfolds
-
-
-### OTHER on 2026-08-08 12:00
+### SHOOTING on 2026-08-08 13:00
 - Location: Fox News
-- Description: Mike Bouchard Jr. slams Abdul El-Sayed's campaign with Hasan Piker and vows Michigan voters will reject socialism in the 10th Congressional District.
+- Description: Two Florida middle school students allegedly built homemade firearms and explosives while researching mass school shootings, authorities say.
 
 
-### HOMICIDE on 2026-08-08 12:00
+### HOMICIDE on 2026-08-08 13:00
 - Location: Fox News
-- Description: Daniel Wozniak's ex-fiancée Rachel Buffett is explored in the true crime series "A Killer Among Friends" as a former friend recalls chilling red flags.
+- Description: The 17-year-old suspect in the DeLand double murder had charges dropped or dismissed repeatedly since 2021, Volusia County Sheriff Chitwood says.
 
-Analysis generated at: Sun Aug  9 12:38:38 UTC 2026
+
+### SHOOTING on 2026-08-08 13:00
+- Location: Activistpost.com
+- Description: Everybody who preps spends their first dollars in the wrong place. Water filters, food buckets, a generator, maybe a gun and a few boxes of ammo. All good. All necessary. But almost nobody preps for the thing that’s actually going to try to hurt them, and it …
+
+
+### OTHER on 2026-08-08 13:00
+- Location: Rolling Stone
+- Description: The Shards is the latest in a near-constant stream of shows from the prolific TV creator. But only a few capture the juicy, delightfully sinful highs of his great early work
+
+
+### HOMICIDE on 2026-08-08 12:52
+- Location: Slashdot.org
+- Description: Families retrieve bodies after deadly shooting rampage outside BangkokAl Jazeera Teen kills five teachers in Thailand’s deadliest school shooting in yearsCNN Families retrieve bodies after a 14-year-old killed at least 7 in Thai school shootingNBC News Teen k…
+
+Analysis generated at: Sun Aug  9 13:01:36 UTC 2026
