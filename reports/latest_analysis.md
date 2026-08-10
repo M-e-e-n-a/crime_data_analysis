@@ -1,10 +1,10 @@
 
-Loaded 123777 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-09 12:53:24
+Loaded 123786 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-09 13:16:41
 
 Incidents by source:
 source
-newsapi           123676
+newsapi           123685
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,30 +20,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-08-09 12:53
-- Location: BBC News
-- Description: Three people were hit by a car in Stokes Croft after reports of a disturbance, police say.
+### DRUG RELATED on 2026-08-09 13:16
+- Location: Abcnews.com
+- Description: He faces charges of running a drug smuggling and money laundering empire.
 
 
-### OTHER on 2026-08-09 12:51
-- Location: ABC News (AU)
-- Description: 49-year-old Daniel Joseph Kinahan was flown from Dubai to Dublin, the UAE state news agency reported, after his arrest in April, with allegations about his "serious organised crime offences".
+### OTHER on 2026-08-09 13:13
+- Location: The Times of India
+- Description: In a remarkable medical breakthrough, a 78-year-old man diagnosed with advanced lung cancer underwent successful treatment. Over five sessions, doctors employed MR-Guided Adaptive Stereotactic Body Radiotherapy to precisely target both tumours. Impressively, …
 
 
-### HOMICIDE on 2026-08-09 12:29
-- Location: Dailymail.com
-- Description: Furious that Kim Thompson had a new boyfriend and was moving on without him, the 56-year-old former doorman meticulously staged a false 'suicide' scene.
+### SHOOTING on 2026-08-09 13:05
+- Location: Freerepublic.com
+- Description: Former Member of Parliament, 78-year-old Inky Mark, has been a long-time and vocal opponent of the increasingly restrictive Canadian firearms laws. Mark’s father and grandfather had immigrated to Canada from China in 1923. Mark and his mother came to Canada w…
 
 
-### HOMICIDE on 2026-08-09 12:24
-- Location: CBC News
-- Description: The 14-year-old charged in a deadly school shooting outside Bangkok had an air gun confiscated by a teacher last year and had watched violent content online, police said Sunday ‌as the government promised new school safety protocols.
+### SHOOTING on 2026-08-09 13:05
+- Location: Freerepublic.com
+- Description: Former Member of Parliament, 78-year-old Inky Mark, has been a long-time and vocal opponent of the increasingly restrictive Canadian firearms laws. Mark’s father and grandfather had immigrated to Canada from China in 1923. Mark and his mother came to Canada w…
 
 
-### HOMICIDE on 2026-08-09 12:23
-- Location: The Punch
-- Description: Nigerian Army troops in Edo State killed a kidnapper and rescued an abducted farmer in Ubiaja. This successful operation highlights efforts against Edo kid
+### OTHER on 2026-08-09 13:04
+- Location: Vanguard
+- Description: ‎He assured residents that the command was working closely with sister security agencies and relevant stakeholders to ensure that the perpetrators did not escape justice.
+The post ‎Police, army comb forests for Kogi kidnapped victims, destroy suspected hideou…
 
-Read More: https://punchng.com/soldiers-kill-kidnapper-rescue-abducted-farmer-in-edo/
-
-Analysis generated at: Mon Aug 10 12:55:10 UTC 2026
+Analysis generated at: Mon Aug 10 13:19:24 UTC 2026
