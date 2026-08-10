@@ -1,10 +1,10 @@
 
-Loaded 123786 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-09 13:16:41
+Loaded 123861 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-09 18:43:11
 
 Incidents by source:
 source
-newsapi           123685
+newsapi           123760
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### DRUG RELATED on 2026-08-09 13:16
-- Location: Abcnews.com
-- Description: He faces charges of running a drug smuggling and money laundering empire.
-
-
-### OTHER on 2026-08-09 13:13
+### ROBBERY/THEFT on 2026-08-09 18:43
 - Location: The Times of India
-- Description: In a remarkable medical breakthrough, a 78-year-old man diagnosed with advanced lung cancer underwent successful treatment. Over five sessions, doctors employed MR-Guided Adaptive Stereotactic Body Radiotherapy to precisely target both tumours. Impressively, …
+- Description: Pune cyber fraud: scammers posing as ECI officials for SIR correction duped a 78-year-old of Rs 3.40 lakh via remote-access link and e-banking theft.
 
 
-### SHOOTING on 2026-08-09 13:05
-- Location: Freerepublic.com
-- Description: Former Member of Parliament, 78-year-old Inky Mark, has been a long-time and vocal opponent of the increasingly restrictive Canadian firearms laws. Mark’s father and grandfather had immigrated to Canada from China in 1923. Mark and his mother came to Canada w…
+### DRUG RELATED on 2026-08-09 18:31
+- Location: The Times of India
+- Description: Hisar Police freeze Rs 69.32 lakh assets of alleged drug trafficker under NDPS Act after 261g heroin seizure; land, house, car, bikes and bank deposits.
 
 
-### SHOOTING on 2026-08-09 13:05
-- Location: Freerepublic.com
-- Description: Former Member of Parliament, 78-year-old Inky Mark, has been a long-time and vocal opponent of the increasingly restrictive Canadian firearms laws. Mark’s father and grandfather had immigrated to Canada from China in 1923. Mark and his mother came to Canada w…
+### OTHER on 2026-08-09 18:29
+- Location: The Times of India
+- Description: Versova police in Mumbai rescued a 40-year-old Andheri man from a suicide attempt after a domestic dispute, administering CPR and taking him to Cooper Hospital.
 
 
-### OTHER on 2026-08-09 13:04
-- Location: Vanguard
-- Description: ‎He assured residents that the command was working closely with sister security agencies and relevant stakeholders to ensure that the perpetrators did not escape justice.
-The post ‎Police, army comb forests for Kogi kidnapped victims, destroy suspected hideou…
+### OTHER on 2026-08-09 18:29
+- Location: The Times of India
+- Description: Authorities conducted extensive searches at twenty-six locations in Sopore, north Kashmir, specifically targeting the premises of Jamaat-e-Islami J&K. Critical documents and electronic devices were seized amid an investigation into the organization’s potentia…
 
-Analysis generated at: Mon Aug 10 13:19:24 UTC 2026
+
+### OTHER on 2026-08-09 18:28
+- Location: The Times of India
+- Description: Jhotwara residents protest waterlogging, poor drainage and damaged roads; Niwaru Road stages ‘jal satyagraha’ with boat, Gandhi Path West burns MLA effigy.
+
+Analysis generated at: Mon Aug 10 18:49:35 UTC 2026
