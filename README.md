@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Aug 10 02:08:18 UTC 2026
+Last updated: Mon Aug 10 07:20:49 UTC 2026
 
 ## Latest Analysis
 
-Loaded 123714 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-09 02:05:50
+Loaded 123733 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-09 07:04:58
 
 Incidents by source:
 source
-newsapi           123613
+newsapi           123632
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-08-09 02:05
-- Location: Dailymail.com
-- Description: Braxton Stuebe, 17, confronted the gunman on a nature trail, saving his life and potentially others.
+### HOMICIDE on 2026-08-09 07:04
+- Location: ABC News (AU)
+- Description: Community members have rallied in Sunshine to demand stronger bail laws and more police on the beat after the death of Van Viet Truong.
 
 
-### SHOOTING on 2026-08-09 02:03
+### SHOOTING on 2026-08-09 06:49
+- Location: CNA
+- Description: Police said the 14-year-old boy had used social media to learn how to use a firearm, before turning a gun on his grandparents, schoolmates and then himself.
+
+
+### HOMICIDE on 2026-08-09 06:10
 - Location: New York Post
-- Description: The teen crew allegedly used garage door openers from stolen cars to raid homes, even pointing a gun at a residence.
+- Description: An Indian national allegedly killed his girlfriend – who planned to break up with him over his history of domestic violence – before he was caught in Europe trying to escape back to his home country.
 
 
-### OTHER on 2026-08-09 01:31
-- Location: The Times of India
-- Description: Unmadham follows Shelly, a police officer who dreams of becoming a screenwriter but struggles to find success. When he returns to police duty, he discovers an old suicide case surrounded by mystery and superstition. What starts as research for his next script…
+### OTHER on 2026-08-09 06:00
+- Location: The Irish Times
+- Description: Backed by young voters and socialist activists, Francesca Hong has been the target of Donald Trump’s verbal barbs
 
 
-### HOMICIDE on 2026-08-09 01:14
-- Location: CNN
-- Description: A 12-year-old girl has been confirmed dead in a school shooting north of the Thai capital Bangkok on Friday, which also claimed the lives of five teachers an...
+### OTHER on 2026-08-09 05:34
+- Location: ABC News (AU)
+- Description: Belongings found on a popular beach sparks search for missing swimmer who failed to return from the water.
 
-
-### SHOOTING on 2026-08-09 00:56
-- Location: CBC News
-- Description: Surrey, B.C., police are investigating a late-night shooting that left a man in hospital.
-
-Analysis generated at: Mon Aug 10 02:08:18 UTC 2026
+Analysis generated at: Mon Aug 10 07:20:49 UTC 2026
