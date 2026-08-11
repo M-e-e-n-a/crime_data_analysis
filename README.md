@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Aug 11 13:17:04 UTC 2026
+Last updated: Tue Aug 11 18:55:43 UTC 2026
 
 ## Latest Analysis
 
-Loaded 124001 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-10 13:13:37
+Loaded 124095 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-10 18:54:30
 
 Incidents by source:
 source
-newsapi           123900
+newsapi           123994
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-08-10 13:13
-- Location: Dailymail.com
-- Description: Last week, Mexican influencer Cesar Gastelum was shot dead while livestreaming on social media outside a fast food restaurant in Sinaloa.
+### OTHER on 2026-08-10 18:54
+- Location: BBC News
+- Description: A fire broke out at a suspected illegal waste site near Carrington Spur in Trafford, Greater Manchester.
 
 
-### OTHER on 2026-08-10 13:04
-- Location: Abcnews.com
-- Description: Washington residents and officials see President Donald Trump’s extended National Guard deployment as an attempt to restrict the heavily Democratic city’s autonomy
+### OTHER on 2026-08-10 18:46
+- Location: ABC News (AU)
+- Description: More than 130,000 faces have already been scanned under WA Police's landmark facial recognition trial. The privacy watchdog, experts and Aboriginal advocates are raising concerns about who could be caught in its net.
 
 
-### HOMICIDE on 2026-08-10 13:04
-- Location: Dailymail.com
-- Description: The Metropolitan Police and Counter Terrorism Policing (CTP) referred themselves to the police watchdog over the decision to close the probe into the 2025 incident.
+### ROBBERY/THEFT on 2026-08-10 18:45
+- Location: The Times of India
+- Description: Rajkot police arrest two suspects in Rs 19 lakh angadia robbery; gang used encrypted apps and virtual numbers. Two key accused still absconding; Rs 2 lakh recovered.
 
 
-### OTHER on 2026-08-10 12:56
-- Location: BleepingComputer
-- Description: A member of "The Com," a loose-knit online cybercrime collective that targets children and teenagers, has been sentenced to two years in prison for blackmail and sextortion offenses against nearly 120 victims worldwide. [...]
+### OTHER on 2026-08-10 18:45
+- Location: The Times of India
+- Description: Vadodara DCB arrests two men who escaped police custody in 2015; accused in fake currency case, traced in West Bengal and Maharashtra after 11 years.
 
 
-### OTHER on 2026-08-10 12:56
-- Location: DW (English)
-- Description: Southeast Asian governments are searching for a joint strategy against cyberscammers, a criminal industry that has grown too big, too connected and too embedded in ASEAN economies to be solved just by policing. For years, governments across Southeast Asia lar…
+### OTHER on 2026-08-10 18:43
+- Location: The Times of India
+- Description: Dahod police arrested 13, including 10 AAP workers, for stone-pelting during World Tribal Day rally; 4 cops injured, tear gas used; FIR filed.
 
-Analysis generated at: Tue Aug 11 13:17:04 UTC 2026
+Analysis generated at: Tue Aug 11 18:55:43 UTC 2026
