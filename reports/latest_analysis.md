@@ -1,10 +1,10 @@
 
-Loaded 123995 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-10 12:51:20
+Loaded 124001 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-10 13:13:37
 
 Incidents by source:
 source
-newsapi           123894
+newsapi           123900
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,30 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-08-10 12:51
-- Location: The Punch
-- Description: NAPTIP has secured over 20 convictions for Sexual and Gender-Based Violence (SGBV) offences and rescued 3,000 victims in 2026, with three resulting in life
-
-Read More: https://punchng.com/naptip-secures-20-sgbv-convictions-rescues-3000/
-
-
-### HOMICIDE on 2026-08-10 12:47
+### HOMICIDE on 2026-08-10 13:13
 - Location: Dailymail.com
-- Description: Tatyana McIntyre, 30, who also uses the name Alison Riley, was found dead inside the Fresno property on Wednesday after she disappeared on Tuesday.
+- Description: Last week, Mexican influencer Cesar Gastelum was shot dead while livestreaming on social media outside a fast food restaurant in Sinaloa.
 
 
-### OTHER on 2026-08-10 12:45
-- Location: The Irish Times
-- Description: Boxing management company brings international profile to man facing Special Criminal Court charge
+### OTHER on 2026-08-10 13:04
+- Location: Abcnews.com
+- Description: Washington residents and officials see President Donald Trump’s extended National Guard deployment as an attempt to restrict the heavily Democratic city’s autonomy
 
 
-### ROBBERY/THEFT on 2026-08-10 12:45
-- Location: Vanguard
-- Description: By Rotimi Ojomoyela ADO-EKITI — The Rapid Response Squad (RRS) of the Ekiti State Police Command has arrested three suspected members of a syndicate allegedly specialising in ATM card theft and fraud. The suspects are Timilehin Akinola, 39; Ojo Peter, 46; and…
+### HOMICIDE on 2026-08-10 13:04
+- Location: Dailymail.com
+- Description: The Metropolitan Police and Counter Terrorism Policing (CTP) referred themselves to the police watchdog over the decision to close the probe into the 2025 incident.
 
 
-### HOMICIDE on 2026-08-10 12:39
-- Location: BBC News
-- Description: Counter-terrorism police have reopened an inquiry into an incident at the Reform UK's leader's house.
+### OTHER on 2026-08-10 12:56
+- Location: BleepingComputer
+- Description: A member of "The Com," a loose-knit online cybercrime collective that targets children and teenagers, has been sentenced to two years in prison for blackmail and sextortion offenses against nearly 120 victims worldwide. [...]
 
-Analysis generated at: Tue Aug 11 12:51:41 UTC 2026
+
+### OTHER on 2026-08-10 12:56
+- Location: DW (English)
+- Description: Southeast Asian governments are searching for a joint strategy against cyberscammers, a criminal industry that has grown too big, too connected and too embedded in ASEAN economies to be solved just by policing. For years, governments across Southeast Asia lar…
+
+Analysis generated at: Tue Aug 11 13:17:04 UTC 2026
