@@ -1,10 +1,10 @@
 
-Loaded 123878 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-10 02:00:30
+Loaded 123911 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-10 06:49:58
 
 Incidents by source:
 source
-newsapi           123777
+newsapi           123810
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-08-10 02:00
-- Location: Sankakucomplex.com
-- Description: A Western YouTuber has (once again) attracted attention for doing dumb things as this latest one has explored an “abandoned Japanese city”, only for Japanese commenters to claim that he essentially broke and entered into someone property. A clip of the YouTub…
+### ROBBERY/THEFT on 2026-08-10 06:49
+- Location: The Times of India
+- Description: The Supreme Court will consider deferring a hearing on alleged Ram temple donation embezzlement.  This request comes from the Uttar Pradesh government's legal counsel.  Previously, the court had ordered a four-member SIT probe into the matter.  The SIT was al…
 
 
-### OTHER on 2026-08-10 01:50
-- Location: HuffPost
-- Description: The congresswoman weighed in on whether the 2020 social justice movement went “too far” in a new interview.
+### OTHER on 2026-08-10 06:39
+- Location: Presstv.co.uk
+- Description: …
+The post Trump’s Man in Bogotá: How Colombia is Pivoting Toward the US and Israel Under New Far-right President appeared first on Global Research.
 
 
-### OTHER on 2026-08-10 01:48
-- Location: Fox News
-- Description: Sadie M. Flores faces grooming a minor charges under a Kentucky law that took effect just weeks before her arrest at Graves County Middle School.
+### HOMICIDE on 2026-08-10 06:34
+- Location: The Local Sweden
+- Description: Drowning accidents down by half, no decision on whether price crisis measures will be extended, and 21-year-old murder mystery cracked through new DNA tool. Here's today's news.
 
 
-### HOMICIDE on 2026-08-10 01:47
-- Location: Fox News
-- Description: A North Dakota mother faces murder and attempted murder charges after allegedly stabbing her 5-month-old and 3-year-old to death in a home attack.
+### OTHER on 2026-08-10 06:31
+- Location: The Times of India
+- Description: The Rajasthan Staff Selection Board has declared the final selection result for Fourth Class Employee Direct Recruitment 2024, with 6,339 candidates shortlisted after document verification and eligibility scrutiny. Candidates can access department-wise merit …
 
 
-### OTHER on 2026-08-10 01:35
-- Location: ABC News (AU)
-- Description: One of the three men charged over a home invasion and arson on Tasmania's east coast last month has pleaded not guilty in the Launceston Magistrates Court.
+### SHOOTING on 2026-08-10 06:24
+- Location: BBC News
+- Description: The gunman, a former House of Representatives member, confessed to the attack during a YouTube livestream.
 
-Analysis generated at: Tue Aug 11 02:03:12 UTC 2026
+Analysis generated at: Tue Aug 11 06:56:55 UTC 2026
