@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Aug 11 06:56:55 UTC 2026
+Last updated: Tue Aug 11 12:51:41 UTC 2026
 
 ## Latest Analysis
 
-Loaded 123911 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-10 06:49:58
+Loaded 123995 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-10 12:51:20
 
 Incidents by source:
 source
-newsapi           123810
+newsapi           123894
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,29 +24,30 @@ ion.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2026-08-10 06:49
-- Location: The Times of India
-- Description: The Supreme Court will consider deferring a hearing on alleged Ram temple donation embezzlement.  This request comes from the Uttar Pradesh government's legal counsel.  Previously, the court had ordered a four-member SIT probe into the matter.  The SIT was al…
+### OTHER on 2026-08-10 12:51
+- Location: The Punch
+- Description: NAPTIP has secured over 20 convictions for Sexual and Gender-Based Violence (SGBV) offences and rescued 3,000 victims in 2026, with three resulting in life
+
+Read More: https://punchng.com/naptip-secures-20-sgbv-convictions-rescues-3000/
 
 
-### OTHER on 2026-08-10 06:39
-- Location: Presstv.co.uk
-- Description: …
-The post Trump’s Man in Bogotá: How Colombia is Pivoting Toward the US and Israel Under New Far-right President appeared first on Global Research.
+### HOMICIDE on 2026-08-10 12:47
+- Location: Dailymail.com
+- Description: Tatyana McIntyre, 30, who also uses the name Alison Riley, was found dead inside the Fresno property on Wednesday after she disappeared on Tuesday.
 
 
-### HOMICIDE on 2026-08-10 06:34
-- Location: The Local Sweden
-- Description: Drowning accidents down by half, no decision on whether price crisis measures will be extended, and 21-year-old murder mystery cracked through new DNA tool. Here's today's news.
+### OTHER on 2026-08-10 12:45
+- Location: The Irish Times
+- Description: Boxing management company brings international profile to man facing Special Criminal Court charge
 
 
-### OTHER on 2026-08-10 06:31
-- Location: The Times of India
-- Description: The Rajasthan Staff Selection Board has declared the final selection result for Fourth Class Employee Direct Recruitment 2024, with 6,339 candidates shortlisted after document verification and eligibility scrutiny. Candidates can access department-wise merit …
+### ROBBERY/THEFT on 2026-08-10 12:45
+- Location: Vanguard
+- Description: By Rotimi Ojomoyela ADO-EKITI — The Rapid Response Squad (RRS) of the Ekiti State Police Command has arrested three suspected members of a syndicate allegedly specialising in ATM card theft and fraud. The suspects are Timilehin Akinola, 39; Ojo Peter, 46; and…
 
 
-### SHOOTING on 2026-08-10 06:24
+### HOMICIDE on 2026-08-10 12:39
 - Location: BBC News
-- Description: The gunman, a former House of Representatives member, confessed to the attack during a YouTube livestream.
+- Description: Counter-terrorism police have reopened an inquiry into an incident at the Reform UK's leader's house.
 
-Analysis generated at: Tue Aug 11 06:56:55 UTC 2026
+Analysis generated at: Tue Aug 11 12:51:41 UTC 2026
