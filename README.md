@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Aug 12 12:56:46 UTC 2026
+Last updated: Wed Aug 12 13:20:28 UTC 2026
 
 ## Latest Analysis
 
-Loaded 124241 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-11 12:54:30
+Loaded 124248 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-11 13:18:16
 
 Incidents by source:
 source
-newsapi           124140
+newsapi           124147
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,30 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-08-11 12:54
-- Location: Abcnews.com
-- Description: Lashaya Stine's family is still searching for answers 10 years later.
+### HOMICIDE on 2026-08-11 13:18
+- Location: Dailymail.com
+- Description: Reporter Anthony France revealed that Tom's father John wants to do the unthinkable and sit down with the two men who killed his son, to ask them why.
 
 
-### ROBBERY/THEFT on 2026-08-11 12:53
-- Location: CBC News
-- Description: RCMP are investigating four recent incidents of stolen copper wire. Police say the threats to infrastructure, phone and internet service and safety are substantial.
+### OTHER on 2026-08-11 13:08
+- Location: Freerepublic.com
+- Description: A specialist British police unit created to track online sentiment has referred more than 100 social media posts to local forces for potential arrest, according to data obtained through Freedom of Information requests and reported by the Daily Telegraph. The …
 
 
-### SHOOTING on 2026-08-11 12:50
-- Location: The Punch
-- Description: Gombe State Police Command announces a two-day shooting exercise at the Gombe Military Shooting Range. Residents are urged not to panic over gunshots.
-
-Read More: https://punchng.com/police-announce-shooting-exercise-in-gombe/
+### OTHER on 2026-08-11 13:02
+- Location: Dailymail.com
+- Description: Official Home Office figures confirmed 230 people were aboard the record 'mega-dinghy' on Monday, bringing the total number to have arrived under the new PM to a staggering 3,003.
 
 
-### OTHER on 2026-08-11 12:48
-- Location: CBS Sports
-- Description: Plus, five under-the-radar NFL teams as camp buzz gets louder
+### SHOOTING on 2026-08-11 13:01
+- Location: Wnd.com
+- Description: 'He said he was actively trying to deliver food, and the guy came up to him trying to rob him, and his first instinct was to shoot'
 
 
-### OTHER on 2026-08-11 12:47
-- Location: Unity.com
-- Description: A complete crime scene investigation set with 53 props covering everything from the outer perimeter to the evidence table.Number of textures: 101 (2K+4K)Texture dimensions: 2K & 4KNumber of meshes/prefabs: 53Polygon count: 42k TotalRigging: NoUV mapping: YesT…
+### HOMICIDE on 2026-08-11 13:00
+- Location: Fox News
+- Description: William Evans' grandparents hired a private investigator after fearing abuse, but police found the 7-year-old bound in a closet and unresponsive.
 
-Analysis generated at: Wed Aug 12 12:56:46 UTC 2026
+Analysis generated at: Wed Aug 12 13:20:28 UTC 2026
