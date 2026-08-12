@@ -1,10 +1,10 @@
 
-Loaded 124248 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-11 13:18:16
+Loaded 124345 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-11 18:54:02
 
 Incidents by source:
 source
-newsapi           124147
+newsapi           124244
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,32 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-08-11 13:18
-- Location: Dailymail.com
-- Description: Reporter Anthony France revealed that Tom's father John wants to do the unthinkable and sit down with the two men who killed his son, to ask them why.
+### HOMICIDE on 2026-08-11 18:54
+- Location: BroBible
+- Description: According to an FBI report, multiple death threats were directed at Lionel Messi during the World Cup, including one that was very serious and involved an alleged plot to murder the soccer star inside a stadium. The threats against Lionel Messi were detailed …
 
 
-### OTHER on 2026-08-11 13:08
-- Location: Freerepublic.com
-- Description: A specialist British police unit created to track online sentiment has referred more than 100 social media posts to local forces for potential arrest, according to data obtained through Freedom of Information requests and reported by the Daily Telegraph. The …
+### OTHER on 2026-08-11 18:52
+- Location: The Punch
+- Description: Abia State’s new Commissioner of Police, Wilfred Afolabi, vows to make Abia uncomfortable for criminals, focusing on intelligence-led policing and safeguar
+
+Read More: https://punchng.com/abia-will-not-serve-as-safe-haven-for-criminal-elements-new-cp/
 
 
-### OTHER on 2026-08-11 13:02
-- Location: Dailymail.com
-- Description: Official Home Office figures confirmed 230 people were aboard the record 'mega-dinghy' on Monday, bringing the total number to have arrived under the new PM to a staggering 3,003.
+### ROBBERY/THEFT on 2026-08-11 18:52
+- Location: The Punch
+- Description: A 12-year-old girl in Nigeria suffered permanent finger deformity after alleged child abuse over a N500 theft claim. Discover the shocking details of this
+
+Read More: https://punchng.com/12-year-old-suffers-permanent-finger-deformity-over-%e2%82%a6500-theft-c…
 
 
-### SHOOTING on 2026-08-11 13:01
-- Location: Wnd.com
-- Description: 'He said he was actively trying to deliver food, and the guy came up to him trying to rob him, and his first instinct was to shoot'
+### HOMICIDE on 2026-08-11 18:51
+- Location: The Times of India
+- Description: Man accused of killing wife in Silvassa and hiding her body in a suitcase was arrested in Varanasi; STF and Silvassa Police traced him to a factory job under an alias.
 
 
-### HOMICIDE on 2026-08-11 13:00
-- Location: Fox News
-- Description: William Evans' grandparents hired a private investigator after fearing abuse, but police found the 7-year-old bound in a closet and unresponsive.
+### ROBBERY/THEFT on 2026-08-11 18:48
+- Location: The Times of India
+- Description: Mangaluru City Police arrest key accused in chain-snatching and temple theft cases; one fugitive nabbed in Vijayapura, another held at Surathkal station.
 
-Analysis generated at: Wed Aug 12 13:20:28 UTC 2026
+Analysis generated at: Wed Aug 12 18:55:10 UTC 2026
