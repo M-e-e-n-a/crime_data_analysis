@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Aug 11 18:55:43 UTC 2026
+Last updated: Wed Aug 12 01:21:53 UTC 2026
 
 ## Latest Analysis
 
-Loaded 124095 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-10 18:54:30
+Loaded 124107 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-11 01:18:40
 
 Incidents by source:
 source
-newsapi           123994
+newsapi           124006
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,31 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-08-10 18:54
-- Location: BBC News
-- Description: A fire broke out at a suspected illegal waste site near Carrington Spur in Trafford, Greater Manchester.
+### OTHER on 2026-08-11 01:18
+- Location: Techdirt
+- Description: Flock Safety is happy it’s the go-to choice for tons of law enforcement agencies. While it does suffer some occasional bleeding, its supercharged automatic license plate readers (ALPRs) &#821…
 
 
-### OTHER on 2026-08-10 18:46
-- Location: ABC News (AU)
-- Description: More than 130,000 faces have already been scanned under WA Police's landmark facial recognition trial. The privacy watchdog, experts and Aboriginal advocates are raising concerns about who could be caught in its net.
+### OTHER on 2026-08-11 01:10
+- Location: The Conversation Africa
+- Description: Ever wondered what it really means to make a citizen’s arrest? It’s more complicated and risky than you might think, despite the latest changes to the Crimes Act.
 
 
-### ROBBERY/THEFT on 2026-08-10 18:45
-- Location: The Times of India
-- Description: Rajkot police arrest two suspects in Rs 19 lakh angadia robbery; gang used encrypted apps and virtual numbers. Two key accused still absconding; Rs 2 lakh recovered.
+### ROBBERY/THEFT on 2026-08-11 01:07
+- Location: Yahoo Entertainment
+- Description: USA Swimming placed its chief financial officer, Cory Hilliard, on leave Monday after learning of his arrest on charges of theft and embezzlement at his previous job as an administrator in the University of Colorado athletic department. The district attorney'…
 
 
-### OTHER on 2026-08-10 18:45
-- Location: The Times of India
-- Description: Vadodara DCB arrests two men who escaped police custody in 2015; accused in fake currency case, traced in West Bengal and Maharashtra after 11 years.
+### HOMICIDE on 2026-08-11 01:05
+- Location: Nofilmschool.com
+- Description: One of the most chilling performances of the 21st century is Javier Bardem’s
+ turn as serial killer Anton Chigurh in the Best Picture winner, No Country for Old Men
+. The film dissects the nature of evil and the cynicism of human nature through the film’s n…
 
 
-### OTHER on 2026-08-10 18:43
-- Location: The Times of India
-- Description: Dahod police arrested 13, including 10 AAP workers, for stone-pelting during World Tribal Day rally; 4 cops injured, tear gas used; FIR filed.
+### OTHER on 2026-08-11 00:34
+- Location: Breitbart News
+- Description: Democratic Socialists of America (DSA) National Political Committee member Frances Gill declined to say Sunday which agency would find and jail a rapist if police and prisons were abolished, dodging the question during a televised interview.
+The post DSA Lead…
 
-Analysis generated at: Tue Aug 11 18:55:43 UTC 2026
+Analysis generated at: Wed Aug 12 01:21:53 UTC 2026
