@@ -1,10 +1,10 @@
 
-Loaded 124149 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-11 07:13:00
+Loaded 124241 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-11 12:54:30
 
 Incidents by source:
 source
-newsapi           124048
+newsapi           124140
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,29 +20,30 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-08-11 07:13
-- Location: The Diplomat
-- Description: A Thailand-led push to re-engage the country's military-backed government is an attempt to prevent the bloc's diplomatic marginalization.
+### OTHER on 2026-08-11 12:54
+- Location: Abcnews.com
+- Description: Lashaya Stine's family is still searching for answers 10 years later.
 
 
-### OTHER on 2026-08-11 07:12
-- Location: Www.gov.uk
-- Description: This guide provides information about being arrested in Benin and what conditions are like in prison there.
+### ROBBERY/THEFT on 2026-08-11 12:53
+- Location: CBC News
+- Description: RCMP are investigating four recent incidents of stolen copper wire. Police say the threats to infrastructure, phone and internet service and safety are substantial.
 
 
-### OTHER on 2026-08-11 07:10
-- Location: Www.gov.uk
-- Description: This guide provides information about being arrested in Ghana what conditions are like in prison there.
+### SHOOTING on 2026-08-11 12:50
+- Location: The Punch
+- Description: Gombe State Police Command announces a two-day shooting exercise at the Gombe Military Shooting Range. Residents are urged not to panic over gunshots.
+
+Read More: https://punchng.com/police-announce-shooting-exercise-in-gombe/
 
 
-### HOMICIDE on 2026-08-11 07:08
-- Location: Protothema.gr
-- Description: The crimes were captured frame by frame, the suspects were identified, yet no one was ever brought to trial. Instead, some of those implicated even went on to political careers in the Turkish-controlled north of Cyprus
-The post 30 years since the killings of …
+### OTHER on 2026-08-11 12:48
+- Location: CBS Sports
+- Description: Plus, five under-the-radar NFL teams as camp buzz gets louder
 
 
-### HOMICIDE on 2026-08-11 07:01
-- Location: Gossiplankanews.com
-- Description: Police in Thailand say a 14-year-old schoolboy who killed six people in a school tragedy in Thailand and then took his own life, had previously shot and killed his grandparents who raised him. The killings took place on Friday (August 7) at their home north o…
+### OTHER on 2026-08-11 12:47
+- Location: Unity.com
+- Description: A complete crime scene investigation set with 53 props covering everything from the outer perimeter to the evidence table.Number of textures: 101 (2K+4K)Texture dimensions: 2K & 4KNumber of meshes/prefabs: 53Polygon count: 42k TotalRigging: NoUV mapping: YesT…
 
-Analysis generated at: Wed Aug 12 07:16:07 UTC 2026
+Analysis generated at: Wed Aug 12 12:56:46 UTC 2026
