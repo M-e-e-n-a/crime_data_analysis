@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Aug 12 01:21:53 UTC 2026
+Last updated: Wed Aug 12 02:17:38 UTC 2026
 
 ## Latest Analysis
 
-Loaded 124107 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-11 01:18:40
+Loaded 124111 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-11 01:54:48
 
 Incidents by source:
 source
-newsapi           124006
+newsapi           124010
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,31 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
+### OTHER on 2026-08-11 01:54
+- Location: New York Post
+- Description: Tyler Boebert, 21, was taken into custody on an arrest warrant for “sexual exploitation of a child and multiple other charges,” the sheriff’s office said in a statement.
+
+
+### OTHER on 2026-08-11 01:37
+- Location: Bleeding Cool News
+- Description: Though NBC and Showrunner Mike Daniels' David Boreanaz (Buffy the Vampire Slayer, Angel, Bones)-starring remake of The Rockford Files won't be hitting screens until early in 2027, the network and creative team have been doing their part to get the word out ab…
+
+
+### HOMICIDE on 2026-08-11 01:35
+- Location: Dailymail.com
+- Description: Thousands of Victorians may have hit the streets to protest after the death of hero shopkeeper Van Viet Truong, but few have put their hands in their pockets for his devastated family.
+
+
+### SHOOTING on 2026-08-11 01:27
+- Location: Antaranews.com
+- Description: Indonesia&rsquo;s Tourism Ministry said the 2026 Baliem Valley Cultural Festival resumed peacefully with a cultural carnival in Jayawijaya District, Highland ...
+
+
 ### OTHER on 2026-08-11 01:18
 - Location: Techdirt
 - Description: Flock Safety is happy it’s the go-to choice for tons of law enforcement agencies. While it does suffer some occasional bleeding, its supercharged automatic license plate readers (ALPRs) &#821…
 
-
-### OTHER on 2026-08-11 01:10
-- Location: The Conversation Africa
-- Description: Ever wondered what it really means to make a citizen’s arrest? It’s more complicated and risky than you might think, despite the latest changes to the Crimes Act.
-
-
-### ROBBERY/THEFT on 2026-08-11 01:07
-- Location: Yahoo Entertainment
-- Description: USA Swimming placed its chief financial officer, Cory Hilliard, on leave Monday after learning of his arrest on charges of theft and embezzlement at his previous job as an administrator in the University of Colorado athletic department. The district attorney'…
-
-
-### HOMICIDE on 2026-08-11 01:05
-- Location: Nofilmschool.com
-- Description: One of the most chilling performances of the 21st century is Javier Bardem’s
- turn as serial killer Anton Chigurh in the Best Picture winner, No Country for Old Men
-. The film dissects the nature of evil and the cynicism of human nature through the film’s n…
-
-
-### OTHER on 2026-08-11 00:34
-- Location: Breitbart News
-- Description: Democratic Socialists of America (DSA) National Political Committee member Frances Gill declined to say Sunday which agency would find and jail a rapist if police and prisons were abolished, dodging the question during a televised interview.
-The post DSA Lead…
-
-Analysis generated at: Wed Aug 12 01:21:53 UTC 2026
+Analysis generated at: Wed Aug 12 02:17:38 UTC 2026
