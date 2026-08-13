@@ -1,10 +1,10 @@
 
-Loaded 124462 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-12 13:20:22
+Loaded 124558 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-12 18:53:47
 
 Incidents by source:
 source
-newsapi           124361
+newsapi           124457
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,30 +20,34 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-08-12 13:20
-- Location: Dailymail.com
-- Description: Police have launched a fresh clampdown on 'dodgy Fire Sticks' ahead of the new Premier League season.
+### HOMICIDE on 2026-08-12 18:53
+- Location: Breitbart News
+- Description: Two custodians were discovered with gunshot wounds Monday afternoon in an apparent murder-suicide in Chicago's Mark Twain Elementary School.
+The post Two Custodians Dead in Chicago Elementary School Apparent Murder-Suicide appeared first on Breitbart.
 
 
-### ROBBERY/THEFT on 2026-08-12 13:18
-- Location: Freerepublic.com
-- Description: The Prince Georges County Police Department (PGPD) has arrested six suspects who are accused of leading an alleged retail theft ring. A lengthy investigation revealed a multi-state organization that included Maryland, Virginia, Pennsylvania, Delaware, and the…
+### HOMICIDE on 2026-08-12 18:50
+- Location: Newser
+- Description: An in-home daycare in suburban Minneapolis turned into a crime scene Wednesday morning, with police saying a co-owner fatally attacked his wife and their daughter, then killed himself, reports the Star Tribune ; six other children were reportedly inside. Hopk…
 
 
-### HOMICIDE on 2026-08-12 13:10
-- Location: The Punch
-- Description: Lagos State Police declare Folawiyo Alagbado and Ajibola Obateru wanted for the alleged murder of a woman in Ikoyi. Report any information on these Lagos m
-
-Read More: https://punchng.com/police-declare-two-men-wanted-over-murder-in-lagos/
+### ROBBERY/THEFT on 2026-08-12 18:48
+- Location: Skeptic.com
+- Description: When a driverless car makes a mistake, everyone pays attention.
 
 
-### OTHER on 2026-08-12 13:09
-- Location: Daily Signal
-- Description: Democratic Socialist of America member and Wisconsin state legislator Francesca Hong has lost the Democratic nomination to be the state’s gubernatorial candidate. In Tuesday night’s Wisconsin Democratic gubernatorial primary, Milwaukee County Executive David …
 
 
-### ASSAULT on 2026-08-12 13:00
-- Location: Fox News
-- Description: Christen Phillips says she suffered multiple skull fractures and brain bleeds after a man allegedly attacked her with a bat during a DoorDash delivery.
+A robotaxi stops awkwardly in traffic. A Waymo gets confused near a construction zone. A child runs into the street and is struck. A fleet of empty autonomous cars circles a residential neigh…
 
-Analysis generated at: Thu Aug 13 13:22:30 UTC 2026
+
+### OTHER on 2026-08-12 18:46
+- Location: The Times of India
+- Description: Surat police booked Tarun Parmar for posing as a CID Crime PI, threatening a builder over a partnership money dispute and summoning him to Gandhinagar.
+
+
+### HOMICIDE on 2026-08-12 18:44
+- Location: The Times of India
+- Description: Wavi police in Nashik Rural arrest two suspects in widow’s murder; she was choked and dumped in a well, allegedly to pressure withdrawal of assault case.
+
+Analysis generated at: Thu Aug 13 18:56:22 UTC 2026
