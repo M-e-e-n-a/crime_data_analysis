@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Aug 13 12:57:24 UTC 2026
+Last updated: Thu Aug 13 13:22:30 UTC 2026
 
 ## Latest Analysis
 
-Loaded 124456 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-12 12:36:53
+Loaded 124462 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-12 13:20:22
 
 Incidents by source:
 source
-newsapi           124355
+newsapi           124361
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,29 +24,30 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-08-12 12:36
-- Location: BBC News
-- Description: Simon Levy, from Tottenham, will spend the rest of his life in prison for the murder of two women and rape of a third.
+### OTHER on 2026-08-12 13:20
+- Location: Dailymail.com
+- Description: Police have launched a fresh clampdown on 'dodgy Fire Sticks' ahead of the new Premier League season.
 
 
-### HOMICIDE on 2026-08-12 12:32
-- Location: Vanguard
-- Description: The Nigeria Police Force has declared two men, Ajibola Obateru and Folawiyo Balogun Alagbado, wanted over alleged conspiracy and murder in the Ikoyi axis of Lagos State.
-The post Police declare two men wanted over alleged Ikoyi murder appeared first on Vangua…
+### ROBBERY/THEFT on 2026-08-12 13:18
+- Location: Freerepublic.com
+- Description: The Prince Georges County Police Department (PGPD) has arrested six suspects who are accused of leading an alleged retail theft ring. A lengthy investigation revealed a multi-state organization that included Maryland, Virginia, Pennsylvania, Delaware, and the…
 
 
-### OTHER on 2026-08-12 12:15
-- Location: RTE
-- Description: Garda Commissioner Justin Kelly said An Garda Síochána's work pursuing the Kinahan cartel is not finished and they are still targeting other individuals involved in transnational organised crime.
+### HOMICIDE on 2026-08-12 13:10
+- Location: The Punch
+- Description: Lagos State Police declare Folawiyo Alagbado and Ajibola Obateru wanted for the alleged murder of a woman in Ikoyi. Report any information on these Lagos m
+
+Read More: https://punchng.com/police-declare-two-men-wanted-over-murder-in-lagos/
 
 
-### OTHER on 2026-08-12 12:15
-- Location: RTE
-- Description: The Garda Commissioner Justin Kelly has said An Garda Síochána's work pursuing the Kinahan cartel is not finished and they are still targeting other individuals involved in transnational organised crime.
+### OTHER on 2026-08-12 13:09
+- Location: Daily Signal
+- Description: Democratic Socialist of America member and Wisconsin state legislator Francesca Hong has lost the Democratic nomination to be the state’s gubernatorial candidate. In Tuesday night’s Wisconsin Democratic gubernatorial primary, Milwaukee County Executive David …
 
 
-### SHOOTING on 2026-08-12 12:10
-- Location: Newser
-- Description: Thailand's government has hit pause on new gun permits following a mass shooting carried out on Friday by a 14-year-old . Prime Minister Anutin Charnvirakul also ordered that a tougher gun control law be drafted within 60 days, saying, "I can't please everyon…
+### ASSAULT on 2026-08-12 13:00
+- Location: Fox News
+- Description: Christen Phillips says she suffered multiple skull fractures and brain bleeds after a man allegedly attacked her with a bat during a DoorDash delivery.
 
-Analysis generated at: Thu Aug 13 12:57:24 UTC 2026
+Analysis generated at: Thu Aug 13 13:22:30 UTC 2026
