@@ -1,10 +1,10 @@
 
-Loaded 124585 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-13 02:05:04
+Loaded 124619 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-13 07:13:18
 
 Incidents by source:
 source
-newsapi           124484
+newsapi           124518
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-08-13 02:05
-- Location: Dailymail.com
-- Description: Arjun Aravind, 17, was arrested after his mother, Sudha Venkatesan, 45, and younger brother Siddharth, 14, were found dead with 'obvious trauma' inside their Massachusetts home Tuesday night.
-
-
-### HOMICIDE on 2026-08-13 02:04
-- Location: Vulture
-- Description: The series’ shift into high-school satire takes out all the dread of a serial killer prowling just off-screen.
-
-
-### HOMICIDE on 2026-08-13 01:52
+### HOMICIDE on 2026-08-13 07:13
 - Location: Slashdot.org
-- Description: Police: 2 adults, 1 child dead in suspected murder-suicide at Hopkins daycare; case linked to Burnsville homicide5 EYEWITNESS NEWS Minnesota man kills his wife and daughter at a daycare after killing another relativedallasnews.com Hopkins daycare deaths, Burn…
+- Description: Hopkins, Burnsville murder-suicide leaves 4 deadFOX 9 Minneapolis-St. Paul Apparent Murder-Suicide at Minnesota Day Care Center Leaves 3 DeadThe New York Times US Man Kills Wife, Daughter At Family Daycare In Triple Murder-SuicideNDTV 4 dead, including a chil…
 
 
-### OTHER on 2026-08-13 01:28
-- Location: Peoplesreview.com.np
-- Description: By Rabi Raj Thapa August 5 has become a historic date in post-Gen-Z Bangladesh. The country marked the second anniversary of the Gen-Z movement’s success and the exile of former Prime Minister Sheikh Hasina, who is living in exile in India. On August 5, Sheik…
+### ROBBERY/THEFT on 2026-08-13 07:07
+- Location: ABC15 Arizona
+- Description: A Mesa husband and wife are facing felony charges after police say they checked out hundreds of books from the Mesa Public Library and sold them to a used bookstore, racking up more than $6,200 in unreturned library materials.
 
 
-### OTHER on 2026-08-13 01:21
-- Location: Twistedsifter.com
-- Description: When cold hard evidence isn't enough to change a mind, it was never even about the evidence in the first place.
-The post Indignant Customer Came Back Furious Over Missing Money, So The Employee Asked His Manager To Check The Cameras And Set The Record Straigh…
+### ASSAULT on 2026-08-13 07:07
+- Location: New York Post
+- Description: His family had reported him missing in North Carolina and said he had a history of self-harm.
 
-Analysis generated at: Fri Aug 14 02:18:02 UTC 2026
+
+### OTHER on 2026-08-13 06:54
+- Location: CNA
+- Description: Even after his 62-year-old father detected the dipping bank balances, Tay Yi Cong posed as bank officers to delay being discovered and pretended to file a police report for him.
+
+
+### OTHER on 2026-08-13 06:33
+- Location: Al Jazeera English
+- Description: The designation of PCC and CV serves to expand Washington’s reach into the country’s politics and security.
+
+Analysis generated at: Fri Aug 14 07:17:13 UTC 2026
