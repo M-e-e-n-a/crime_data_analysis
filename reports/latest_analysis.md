@@ -1,10 +1,10 @@
 
-Loaded 124581 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-13 01:21:44
+Loaded 124585 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-13 02:05:04
 
 Incidents by source:
 source
-newsapi           124480
+newsapi           124484
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,29 +20,29 @@ ion.svg)
 
 ## Recent Incidents
 
+### HOMICIDE on 2026-08-13 02:05
+- Location: Dailymail.com
+- Description: Arjun Aravind, 17, was arrested after his mother, Sudha Venkatesan, 45, and younger brother Siddharth, 14, were found dead with 'obvious trauma' inside their Massachusetts home Tuesday night.
+
+
+### HOMICIDE on 2026-08-13 02:04
+- Location: Vulture
+- Description: The series’ shift into high-school satire takes out all the dread of a serial killer prowling just off-screen.
+
+
+### HOMICIDE on 2026-08-13 01:52
+- Location: Slashdot.org
+- Description: Police: 2 adults, 1 child dead in suspected murder-suicide at Hopkins daycare; case linked to Burnsville homicide5 EYEWITNESS NEWS Minnesota man kills his wife and daughter at a daycare after killing another relativedallasnews.com Hopkins daycare deaths, Burn…
+
+
+### OTHER on 2026-08-13 01:28
+- Location: Peoplesreview.com.np
+- Description: By Rabi Raj Thapa August 5 has become a historic date in post-Gen-Z Bangladesh. The country marked the second anniversary of the Gen-Z movement’s success and the exile of former Prime Minister Sheikh Hasina, who is living in exile in India. On August 5, Sheik…
+
+
 ### OTHER on 2026-08-13 01:21
 - Location: Twistedsifter.com
 - Description: When cold hard evidence isn't enough to change a mind, it was never even about the evidence in the first place.
 The post Indignant Customer Came Back Furious Over Missing Money, So The Employee Asked His Manager To Check The Cameras And Set The Record Straigh…
 
-
-### OTHER on 2026-08-13 01:19
-- Location: New York Post
-- Description: "PLEASE DO NOT BOARD THE VESSEL unless you are the legal owner."
-
-
-### SHOOTING on 2026-08-13 01:17
-- Location: New York Post
-- Description: The injured student was taken to a hospital for treatment of non-life-threatening injuries.
-
-
-### OTHER on 2026-08-13 01:15
-- Location: Khabarhub.com
-- Description: RUPANDEHI: The District Police Office Rupandehi has arrested four individuals who had been absconding after courts sentenced them to imprisonment and fines. According to Superintendent of Police Janak Bahadur Shahi, chief of the District Police Office, the fo…
-
-
-### HOMICIDE on 2026-08-13 01:07
-- Location: Dailymail.com
-- Description: A rapper has been identified as the man accused of killing a young woman who was found unresponsive at a home in Logan.
-
-Analysis generated at: Fri Aug 14 01:22:30 UTC 2026
+Analysis generated at: Fri Aug 14 02:18:02 UTC 2026
