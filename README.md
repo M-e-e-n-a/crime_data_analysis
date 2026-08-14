@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Aug 14 07:17:13 UTC 2026
+Last updated: Fri Aug 14 12:53:42 UTC 2026
 
 ## Latest Analysis
 
-Loaded 124619 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-13 07:13:18
+Loaded 124677 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-13 12:32:29
 
 Incidents by source:
 source
-newsapi           124518
+newsapi           124576
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-08-13 07:13
-- Location: Slashdot.org
-- Description: Hopkins, Burnsville murder-suicide leaves 4 deadFOX 9 Minneapolis-St. Paul Apparent Murder-Suicide at Minnesota Day Care Center Leaves 3 DeadThe New York Times US Man Kills Wife, Daughter At Family Daycare In Triple Murder-SuicideNDTV 4 dead, including a chil…
+### ROBBERY/THEFT on 2026-08-13 12:32
+- Location: Gidipoint.com
+- Description: At least 168 solar-powered streetlights installed along the Longbridge section of the Lagos-Ibadan Expressway have been stolen by suspected vandals. The streetlights, which were installed in 2025 along the five-kilometre-long bridge, were intended to illumina…
 
 
-### ROBBERY/THEFT on 2026-08-13 07:07
-- Location: ABC15 Arizona
-- Description: A Mesa husband and wife are facing felony charges after police say they checked out hundreds of books from the Mesa Public Library and sold them to a used bookstore, racking up more than $6,200 in unreturned library materials.
+### OTHER on 2026-08-13 12:30
+- Location: CNBC
+- Description: It's the second time in just over a week that polls and prediction markets' odds were off, following a miss in the Democratic U.S. senate primary in Michigan.
 
 
-### ASSAULT on 2026-08-13 07:07
-- Location: New York Post
-- Description: His family had reported him missing in North Carolina and said he had a history of self-harm.
+### OTHER on 2026-08-13 12:29
+- Location: Otherwords.org
+- Description: Government surveillance isn’t new, but new wide-ranging technologies that can detect our faces and track our movements are making it more ubiquitous. While the tools have changed, the purpose remains the same: to chill independent thought, free speech, and di…
 
 
-### OTHER on 2026-08-13 06:54
-- Location: CNA
-- Description: Even after his 62-year-old father detected the dipping bank balances, Tay Yi Cong posed as bank officers to delay being discovered and pretended to file a police report for him.
+### SHOOTING on 2026-08-13 12:27
+- Location: The Hollywood Gossip
+- Description: Reading Time: 3 minutesThe infamous "looksmaxxer" with the ever-growing police record is shooting his shot at the newly single legislator.
+Clavicular Wants to Date, ‘Fix,’ Marry Rep. Alexandria Ocasio-Cortez was originally published on The Hollywood Gossip.
 
 
-### OTHER on 2026-08-13 06:33
-- Location: Al Jazeera English
-- Description: The designation of PCC and CV serves to expand Washington’s reach into the country’s politics and security.
+### HOMICIDE on 2026-08-13 12:16
+- Location: Dailymail.com
+- Description: A paedophile who raped and strangled a five-year-old girl, a knifeman who stabbed a motel maid to death, and a murderer who shot his girlfriend in the eyes.
 
-Analysis generated at: Fri Aug 14 07:17:13 UTC 2026
+Analysis generated at: Fri Aug 14 12:53:42 UTC 2026
