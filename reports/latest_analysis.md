@@ -1,10 +1,10 @@
 
-Loaded 124677 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-13 12:32:29
+Loaded 124683 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-13 13:02:27
 
 Incidents by source:
 source
-newsapi           124576
+newsapi           124582
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2026-08-13 12:32
-- Location: Gidipoint.com
-- Description: At least 168 solar-powered streetlights installed along the Longbridge section of the Lagos-Ibadan Expressway have been stolen by suspected vandals. The streetlights, which were installed in 2025 along the five-kilometre-long bridge, were intended to illumina…
+### HOMICIDE on 2026-08-13 13:02
+- Location: New York Post
+- Description: “This is an unspeakable tragedy,” the District Attorney said.
 
 
-### OTHER on 2026-08-13 12:30
-- Location: CNBC
-- Description: It's the second time in just over a week that polls and prediction markets' odds were off, following a miss in the Democratic U.S. senate primary in Michigan.
+### OTHER on 2026-08-13 13:01
+- Location: The Irish Times
+- Description: Woman ‘appeared to be under the influence’ when found in downstairs bathroom, court told
 
 
-### OTHER on 2026-08-13 12:29
-- Location: Otherwords.org
-- Description: Government surveillance isn’t new, but new wide-ranging technologies that can detect our faces and track our movements are making it more ubiquitous. While the tools have changed, the purpose remains the same: to chill independent thought, free speech, and di…
+### OTHER on 2026-08-13 13:00
+- Location: CNN
+- Description: Law enforcement technology company Flock introduced new safety controls on Thursday, hoping to curb growing scrutiny and fears around surveillance and police misuse of its tools.
 
 
-### SHOOTING on 2026-08-13 12:27
-- Location: The Hollywood Gossip
-- Description: Reading Time: 3 minutesThe infamous "looksmaxxer" with the ever-growing police record is shooting his shot at the newly single legislator.
-Clavicular Wants to Date, ‘Fix,’ Marry Rep. Alexandria Ocasio-Cortez was originally published on The Hollywood Gossip.
+### OTHER on 2026-08-13 13:00
+- Location: New York Post
+- Description: Flock safety is cutting default license-plate camera data retention from 30 days to seven days and requiring police to document the reason for every search.
 
 
-### HOMICIDE on 2026-08-13 12:16
-- Location: Dailymail.com
-- Description: A paedophile who raped and strangled a five-year-old girl, a knifeman who stabbed a motel maid to death, and a murderer who shot his girlfriend in the eyes.
+### HOMICIDE on 2026-08-13 13:00
+- Location: Deadline
+- Description: “May I speak plainly?” asks a sombre Harry Da Souza, addressing mob boss Conrad. “This family is in a death spiral.” The out-of-control actions of Conrad Harrigan’s gang will be central to the second season of Paramount+ breakout crime drama MobLand, as you c…
 
-Analysis generated at: Fri Aug 14 12:53:42 UTC 2026
+Analysis generated at: Fri Aug 14 13:16:29 UTC 2026
