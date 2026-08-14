@@ -1,10 +1,10 @@
 
-Loaded 124558 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-12 18:53:47
+Loaded 124581 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-13 01:21:44
 
 Incidents by source:
 source
-newsapi           124457
+newsapi           124480
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,34 +20,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-08-12 18:53
-- Location: Breitbart News
-- Description: Two custodians were discovered with gunshot wounds Monday afternoon in an apparent murder-suicide in Chicago's Mark Twain Elementary School.
-The post Two Custodians Dead in Chicago Elementary School Apparent Murder-Suicide appeared first on Breitbart.
+### OTHER on 2026-08-13 01:21
+- Location: Twistedsifter.com
+- Description: When cold hard evidence isn't enough to change a mind, it was never even about the evidence in the first place.
+The post Indignant Customer Came Back Furious Over Missing Money, So The Employee Asked His Manager To Check The Cameras And Set The Record Straigh…
 
 
-### HOMICIDE on 2026-08-12 18:50
-- Location: Newser
-- Description: An in-home daycare in suburban Minneapolis turned into a crime scene Wednesday morning, with police saying a co-owner fatally attacked his wife and their daughter, then killed himself, reports the Star Tribune ; six other children were reportedly inside. Hopk…
+### OTHER on 2026-08-13 01:19
+- Location: New York Post
+- Description: "PLEASE DO NOT BOARD THE VESSEL unless you are the legal owner."
 
 
-### ROBBERY/THEFT on 2026-08-12 18:48
-- Location: Skeptic.com
-- Description: When a driverless car makes a mistake, everyone pays attention.
+### SHOOTING on 2026-08-13 01:17
+- Location: New York Post
+- Description: The injured student was taken to a hospital for treatment of non-life-threatening injuries.
 
 
+### OTHER on 2026-08-13 01:15
+- Location: Khabarhub.com
+- Description: RUPANDEHI: The District Police Office Rupandehi has arrested four individuals who had been absconding after courts sentenced them to imprisonment and fines. According to Superintendent of Police Janak Bahadur Shahi, chief of the District Police Office, the fo…
 
 
-A robotaxi stops awkwardly in traffic. A Waymo gets confused near a construction zone. A child runs into the street and is struck. A fleet of empty autonomous cars circles a residential neigh…
+### HOMICIDE on 2026-08-13 01:07
+- Location: Dailymail.com
+- Description: A rapper has been identified as the man accused of killing a young woman who was found unresponsive at a home in Logan.
 
-
-### OTHER on 2026-08-12 18:46
-- Location: The Times of India
-- Description: Surat police booked Tarun Parmar for posing as a CID Crime PI, threatening a builder over a partnership money dispute and summoning him to Gandhinagar.
-
-
-### HOMICIDE on 2026-08-12 18:44
-- Location: The Times of India
-- Description: Wavi police in Nashik Rural arrest two suspects in widow’s murder; she was choked and dumped in a well, allegedly to pressure withdrawal of assault case.
-
-Analysis generated at: Thu Aug 13 18:56:22 UTC 2026
+Analysis generated at: Fri Aug 14 01:22:30 UTC 2026
