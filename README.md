@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Aug 14 18:46:11 UTC 2026
+Last updated: Sat Aug 15 00:54:26 UTC 2026
 
 ## Latest Analysis
 
-Loaded 124777 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-13 18:35:05
+Loaded 124783 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-14 00:33:06
 
 Incidents by source:
 source
-newsapi           124676
+newsapi           124682
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,30 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-08-13 18:35
-- Location: The Times of India
-- Description: Engineer Raman Raj, accused of killing 19-year-old Mahak Ahmed in a Noida PG, surrendered in Bihar in a liquor case; Noida Police seek custody to probe motive.
+### HOMICIDE on 2026-08-14 00:33
+- Location: WISN Milwaukee
+- Description: The jury in the Tupac murder trial is seated, setting up a case that could finally answer hip-hop’s longest-running mystery.
 
 
-### ROBBERY/THEFT on 2026-08-13 18:34
-- Location: The Times of India
-- Description: Kottayam police arrested a 26-year-old and accomplice for snatching his mother’s gold mangalsutra, pawning it to repay debt; accomplice has past theft cases.
+### SHOOTING on 2026-08-14 00:25
+- Location: KQED
+- Description: Footage released Wednesday shows a man carrying two bladed poles down an East Oakland street before officers open fire.
 
 
-### HOMICIDE on 2026-08-13 18:28
-- Location: Biztoc.com
-- Description: Hamas condemned on Thursday the assassination of Gaza Governorate Civil Police Director Colonel Jamal Abu Kamil, describing it as a "treacherous and brutal crime" that reveals the "true nature of the ...
+### HOMICIDE on 2026-08-14 00:00
+- Location: Dailymail.com
+- Description: To neighbours Patrick and Lindsay Clancy seemed like a typical young couple. Yet on a chilly winter's day three years ago, the lives of these outwardly normal, middle-class parents were consumed by tragedy...
 
 
-### OTHER on 2026-08-13 18:20
-- Location: The Punch
-- Description: Federal University Dutse seeks Jigawa Police support to combat emerging cultism and anti-social behaviour on campus, ensuring a safe academic environment.
-
-Read More: https://punchng.com/jigawa-varsity-seeks-police-support-to-tackle-cultism-on-campus/
+### OTHER on 2026-08-14 00:00
+- Location: Dailymail.com
+- Description: The monster boat that carried 230 illegal migrants to our shores this week is now rolled up like a farmer's hay bale at a Government warehouse not far from Britain's south coast...
 
 
-### OTHER on 2026-08-13 18:19
-- Location: WWD
-- Description: Peru targets $143M illegal used clothing trade, boosting border security, AI, and cooperation to dismantle criminal networks.
+### OTHER on 2026-08-14 00:00
+- Location: Antiwar.com
+- Description: “The makers of our Constitution undertook to secure conditions favorable to the pursuit of happiness… They conferred against the Government the right to be let alone — most comprehensive of rights and the right most valued by civilized men.” ~ Justice Louis D…
 
-Analysis generated at: Fri Aug 14 18:46:11 UTC 2026
+Analysis generated at: Sat Aug 15 00:54:26 UTC 2026
