@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Aug 15 06:28:31 UTC 2026
+Last updated: Sat Aug 15 12:26:14 UTC 2026
 
 ## Latest Analysis
 
-Loaded 124826 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-14 06:27:47
+Loaded 124911 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-14 12:25:17
 
 Incidents by source:
 source
-newsapi           124725
+newsapi           124810
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-08-14 06:27
+### OTHER on 2026-08-14 12:25
+- Location: Fox News
+- Description: Luigi Mangione, the former Ivy Leaguer accused of assassinating UnitedHealthcare CEO Brian Thompson, returns to federal court Friday for an unexpected pretrial conference.
+
+
+### OTHER on 2026-08-14 12:25
+- Location: The Diplomat
+- Description: How the Taliban turned Afghanistan into a country where half the population has been ordered to disappear.
+
+
+### DRUG RELATED on 2026-08-14 12:15
+- Location: Dailymail.com
+- Description: Evan Faulks was labelled a 'high ranking member' of the infamous Bra Boys and accused of directing a $12.6million meth and cocaine operation. Now he has turned his life around.
+
+
+### OTHER on 2026-08-14 12:13
+- Location: TechRadar
+- Description: Flock is introducing some extra controls over how its cameras can be used, to counter claims of unnecessary spying.
+
+
+### ROBBERY/THEFT on 2026-08-14 12:12
 - Location: The Times of India
-- Description: The Centre awarded 301 Gallantry Medals to Police and Fire Service personnel.  Many of these awards recognized service in Left Wing Extremism affected regions.  Additionally, 92 police personnel received the President's Medal for Distinguished Service.  A tot…
+- Description: Italian police have recovered three valuable paintings stolen earlier this year.  The artworks by Renoir, Cézanne, and Matisse were found during recent searches.  These valuable pieces were taken from the Magnani Rocca Foundation near Parma.  The theft occurr…
 
-
-### OTHER on 2026-08-14 06:25
-- Location: Abcnews.com
-- Description: Christians are less than 2% of Israel's population and are facing increased harassment as regional conflicts persist
-
-
-### OTHER on 2026-08-14 06:22
-- Location: Al Jazeera English
-- Description: US firm tightens oversight of automatic licence-plate readers after reports of misuse by police officers.
-
-
-### ASSAULT on 2026-08-14 06:22
-- Location: The Times of India
-- Description: Shiromani Akali Dal chief Sukhbir Singh Badal underwent surgery after a kirpan attack. Doctors repaired a tendon injury and nerve damage during the procedure. He is now stable and expected to be discharged from the hospital today. Badal will likely be flown b…
-
-
-### HOMICIDE on 2026-08-14 06:18
-- Location: The Times of India
-- Description: Mumbai drivers prepare for Marathi language proficiency tests starting next month. New waterfront infrastructure projects have also received clearance from the Maritime Board. These initiatives aim to enhance water-based connectivity and tourism infrastructur…
-
-Analysis generated at: Sat Aug 15 06:28:31 UTC 2026
+Analysis generated at: Sat Aug 15 12:26:14 UTC 2026
