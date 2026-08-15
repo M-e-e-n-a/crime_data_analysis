@@ -1,10 +1,10 @@
 
-Loaded 124911 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-14 12:25:17
+Loaded 124916 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-14 12:43:30
 
 Incidents by source:
 source
-newsapi           124810
+newsapi           124815
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,31 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-08-14 12:25
-- Location: Fox News
-- Description: Luigi Mangione, the former Ivy Leaguer accused of assassinating UnitedHealthcare CEO Brian Thompson, returns to federal court Friday for an unexpected pretrial conference.
+### OTHER on 2026-08-14 12:43
+- Location: Globalresearch.ca
+- Description: Those who challenge and protest U.S. policies are not foreign-paid terrorists; Rubio and other Trump appointees are using “McCarthy” tactics to stop dissent, says Ann Wright.
+*
+Thin-skinned and heavy-handed, the Trump administration apparently feels like it i…
 
 
-### OTHER on 2026-08-14 12:25
-- Location: The Diplomat
-- Description: How the Taliban turned Afghanistan into a country where half the population has been ordered to disappear.
-
-
-### DRUG RELATED on 2026-08-14 12:15
+### HOMICIDE on 2026-08-14 12:42
 - Location: Dailymail.com
-- Description: Evan Faulks was labelled a 'high ranking member' of the infamous Bra Boys and accused of directing a $12.6million meth and cocaine operation. Now he has turned his life around.
+- Description: Nathan Brown, 41, brutally murdered his mother Alice, 78, wife Kristen, 41, and their daughter Evie at their family-run children's daycare at their home Hopkins, Minnesota on Wednesday.
 
 
-### OTHER on 2026-08-14 12:13
-- Location: TechRadar
-- Description: Flock is introducing some extra controls over how its cameras can be used, to counter claims of unnecessary spying.
+### OTHER on 2026-08-14 12:39
+- Location: Vanguard
+- Description: Giwa disclosed that the suspects had been linked to the abduction of a man at Mgbabuowa/Aguobuowa, Ezeagu, on May 25, 2026, for which N5.5 million ransom was allegedly collected.
+The post Police parade 14 kidnap suspects, recover 5 AK-47 rifles, 310 rounds in…
 
 
-### ROBBERY/THEFT on 2026-08-14 12:12
-- Location: The Times of India
-- Description: Italian police have recovered three valuable paintings stolen earlier this year.  The artworks by Renoir, Cézanne, and Matisse were found during recent searches.  These valuable pieces were taken from the Magnani Rocca Foundation near Parma.  The theft occurr…
+### HOMICIDE on 2026-08-14 12:35
+- Location: Israelnationalnews.com
+- Description: The Yisrael Beytenu party announced that another murder threat was made on TikTok against the party's chairman, MK Avigdor Liberman. Following the threat, a complaint was filed with the Knesset officer and the police. The party claims that a "wave of threats"…
 
-Analysis generated at: Sat Aug 15 12:26:14 UTC 2026
+
+### ROBBERY/THEFT on 2026-08-14 12:32
+- Location: Associated Press
+- Description: Italian authorities have recovered three stolen paintings by Renoir, Cézanne, and Matisse worth millions of euros. Police said Friday that the artworks were taken earlier this year from a private museum near Parma. The paintings include Renoir's "Fish," Cézan…
+
+Analysis generated at: Sat Aug 15 12:47:09 UTC 2026
