@@ -1,10 +1,10 @@
 
-Loaded 124916 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-14 12:43:30
+Loaded 125016 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-14 18:20:07
 
 Incidents by source:
 source
-newsapi           124815
+newsapi           124915
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,31 +20,30 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-08-14 12:43
-- Location: Globalresearch.ca
-- Description: Those who challenge and protest U.S. policies are not foreign-paid terrorists; Rubio and other Trump appointees are using “McCarthy” tactics to stop dissent, says Ann Wright.
-*
-Thin-skinned and heavy-handed, the Trump administration apparently feels like it i…
+### OTHER on 2026-08-14 18:20
+- Location: The Punch
+- Description: Delta youths protest alleged EFCC midnight raids, forced entry, and intimidation, petitioning Governor Oborevwori for intervention and professional conduct
+
+Read More: https://punchng.com/youths-protest-efcc-midnight-raids-in-delta-petition-oborevwori/
 
 
-### HOMICIDE on 2026-08-14 12:42
-- Location: Dailymail.com
-- Description: Nathan Brown, 41, brutally murdered his mother Alice, 78, wife Kristen, 41, and their daughter Evie at their family-run children's daycare at their home Hopkins, Minnesota on Wednesday.
+### HOMICIDE on 2026-08-14 18:14
+- Location: The Times of India
+- Description: The National Investigation Agency has made another arrest in the case of the targeted killing of Vikas Prabhakar, a prominent Vishwa Hindu Parishad leader. Manveer Ram, referred to as Ashu, was apprehended at Amritsar International Airport on Thursday. Invest…
 
 
-### OTHER on 2026-08-14 12:39
-- Location: Vanguard
-- Description: Giwa disclosed that the suspects had been linked to the abduction of a man at Mgbabuowa/Aguobuowa, Ezeagu, on May 25, 2026, for which N5.5 million ransom was allegedly collected.
-The post Police parade 14 kidnap suspects, recover 5 AK-47 rifles, 310 rounds in…
+### OTHER on 2026-08-14 18:09
+- Location: Addicted2success.com
+- Description: The Legal Paths to Recovering Money Lost in an Investment Scam Investment fraud can empty savings, strain family decisions, and leave victims feeling isolated. According to the FBI’s Internet Crime Complaint Center, Americans reported over $5.6 billion in cry…
 
 
-### HOMICIDE on 2026-08-14 12:35
-- Location: Israelnationalnews.com
-- Description: The Yisrael Beytenu party announced that another murder threat was made on TikTok against the party's chairman, MK Avigdor Liberman. Following the threat, a complaint was filed with the Knesset officer and the police. The party claims that a "wave of threats"…
+### OTHER on 2026-08-14 18:04
+- Location: BleepingComputer
+- Description: Four cybercriminals were arrested in Brazil, and three others were charged in Europe over allegations that they exploited a vulnerability at a service provider, allowing them to withdraw funds from Commerzbank customers' bank accounts. [...]
 
 
-### ROBBERY/THEFT on 2026-08-14 12:32
-- Location: Associated Press
-- Description: Italian authorities have recovered three stolen paintings by Renoir, Cézanne, and Matisse worth millions of euros. Police said Friday that the artworks were taken earlier this year from a private museum near Parma. The paintings include Renoir's "Fish," Cézan…
+### ROBBERY/THEFT on 2026-08-14 18:04
+- Location: The Times of India
+- Description: Four youths broke into a Sector 27 Chandigarh confectionery, stole Rs 30,000 and an Aadhaar card; CCTV captured the theft; police probe ongoing, no arrests.
 
-Analysis generated at: Sat Aug 15 12:47:09 UTC 2026
+Analysis generated at: Sat Aug 15 18:21:33 UTC 2026
