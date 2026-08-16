@@ -1,10 +1,10 @@
 
-Loaded 125098 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-15 12:32:16
+Loaded 125164 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-15 18:20:55
 
 Incidents by source:
 source
-newsapi           124997
+newsapi           125063
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-08-15 12:32
-- Location: CNBC
-- Description: A shooting involving several suspects and multiple people shot at Virginia State University prompted a campus lockdown early Saturday.
+### SHOOTING on 2026-08-15 18:20
+- Location: CBC News
+- Description: Police in Fort St. John, B.C., say they received multiple reports of shots fired near a popular recreation area in the city shortly after 10 p.m. PT Friday night.
 
 
-### OTHER on 2026-08-15 12:15
-- Location: New York Post
-- Description: NYC model Samantha Skolkin is suing her building for trying to evict her after her stalker, Steward Noack, allegedly sent explicit photos to 400 neighbors.
+### SHOOTING on 2026-08-15 18:20
+- Location: CBC News
+- Description: Fort St. John Mayor Lilia Hansen wants B.C.'s gang task force to intervene after three shootings in less than a month near local schools.
 
 
-### SHOOTING on 2026-08-15 12:13
-- Location: The Times of India
-- Description: A shooting incident at Virginia State University led to a campus lockdown early Saturday morning. Multiple suspects and victims were involved in the incident near the university's Quad Annexes. Campus and Chesterfield County police are actively investigating …
+### ASSAULT on 2026-08-15 18:19
+- Location: Dailymail.com
+- Description: Redmond O'Neal, the troubled only son of Hollywood stars Farrah Fawcett and Ryan O'Neal, walked into a Los Angeles courtroom this week looking noticeably different.
 
 
-### HOMICIDE on 2026-08-15 12:00
-- Location: Fox News
-- Description: A Florida man allegedly called police to confess to a 1987 Jacksonville murder, describing crime scene details that had never been publicly released.
+### ASSAULT on 2026-08-15 18:16
+- Location: Newser
+- Description: Shabbat services at a Manhattan synagogue were interrupted Friday evening when a man assaulted two people and damaged property, New York police said. The suspect now faces hate crime charges. Officers responded around 6pm to Central Synagogue in Midtown East …
 
 
-### OTHER on 2026-08-15 12:00
-- Location: Fox News
-- Description: Denver business owners react to the rise of socialist candidates and how their policies could shape the economic landscape in the Colorado capital.
+### HOMICIDE on 2026-08-15 18:06
+- Location: USA Today
+- Description: Dozens of kids die in hot cars every year. Some advocates say tough prosecutions don't protect kids from tragic accidents.
 
-Analysis generated at: Sun Aug 16 12:48:58 UTC 2026
+Analysis generated at: Sun Aug 16 18:21:01 UTC 2026
