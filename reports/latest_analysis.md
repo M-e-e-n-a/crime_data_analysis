@@ -1,10 +1,10 @@
 
-Loaded 125031 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-15 01:33:39
+Loaded 125055 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-15 06:19:25
 
 Incidents by source:
 source
-newsapi           124930
+newsapi           124954
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,31 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-08-15 01:33
-- Location: soompi
-- Description: BLs with pairings that absolutely shouldn’t work but somehow do create the most satisfying relationship dynamics, period. Imagine a cop and a criminal or a geek and a gangster — now you can stop imagining and find a cozy spot to binge watch because these BLs …
+### HOMICIDE on 2026-08-15 06:19
+- Location: Abcnews.com
+- Description: Luigi Mangione’s guilty plea to federal stalking-to-kill charges has raised questions about how it’ll affect his state murder case and what his lawyers might do to prevent Mangione from spending the rest of his life in prison
 
 
-### ROBBERY/THEFT on 2026-08-15 01:21
-- Location: Freerepublic.com
-- Description: A Pablo Picasso painting stolen while on loan from the Guggenheim Museum more than six decades ago has resurfaced, and the museum has gone to court to get it back. The Solomon R. Guggenheim Foundation filed suit in New York State Supreme Court this week, acco…
+### HOMICIDE on 2026-08-15 06:17
+- Location: Business Standard
+- Description: Six persons including a suspect were found dead Friday in Michigan, where an extensive search unfolded around two homes and a wooded area, according to police.
+Law enforcement was responding to reports of a shooting at a home in Missaukee County, about 272 km…
 
 
-### OTHER on 2026-08-15 01:14
-- Location: Dailymail.com
-- Description: Video showed the thieves sneaking into the Magnani-Rocca Foundation near Parma to steal the works by Renoir, Cezanne and Matisse in just 180 seconds.
+### ROBBERY/THEFT on 2026-08-15 06:14
+- Location: New York Post
+- Description: Bill DeLind thought the Picasso print that was stolen from his gallery in 2018 was gone forever.
 
 
-### OTHER on 2026-08-15 01:09
-- Location: Fox News
-- Description: Construction workers in Belgium discovered $10 million in gold coins and bars while building a sewer, but a finder's fee remains uncertain.
+### HOMICIDE on 2026-08-15 06:07
+- Location: The Times of India
+- Description: New Brunswick RCMP are investigating the suspicious deaths of two men. Their bodies were discovered inside a Knowlesville residence. Police responded to a report of two sudden deaths at the Knowlesville Road home. The deceased men were known to each other and…
 
 
-### ROBBERY/THEFT on 2026-08-15 01:05
-- Location: Freerepublic.com
-- Description: Three paintings by Renoir, Cézanne and Matisse worth millions of euros that were stolen earlier this year in a three-minute heist were recovered by Italian police. Italian Carabinieri's art recovery squad said in a statement on Friday that the paintings were …
+### ASSAULT on 2026-08-15 05:50
+- Location: The Punch
+- Description: Peter Obi visits communities in Benue State affected by recent attacks, urging the Federal Government to intensify efforts to protect lives and property.
 
-Analysis generated at: Sun Aug 16 01:39:43 UTC 2026
+Read More: https://punchng.com/photos-obi-visits-benue-attack-victims-urges-fg-to-act/
+
+Analysis generated at: Sun Aug 16 06:30:45 UTC 2026
