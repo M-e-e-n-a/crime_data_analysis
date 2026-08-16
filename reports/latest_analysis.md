@@ -1,10 +1,10 @@
 
-Loaded 125097 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-15 12:15:00
+Loaded 125098 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-15 12:32:16
 
 Incidents by source:
 source
-newsapi           124996
+newsapi           124997
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -19,6 +19,11 @@ ion.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### SHOOTING on 2026-08-15 12:32
+- Location: CNBC
+- Description: A shooting involving several suspects and multiple people shot at Virginia State University prompted a campus lockdown early Saturday.
+
 
 ### OTHER on 2026-08-15 12:15
 - Location: New York Post
@@ -39,9 +44,4 @@ ion.svg)
 - Location: Fox News
 - Description: Denver business owners react to the rise of socialist candidates and how their policies could shape the economic landscape in the Colorado capital.
 
-
-### HOMICIDE on 2026-08-15 12:00
-- Location: TechRadar
-- Description: The third season of Murder 24/7 is now available to stream on BBC iPlayer — and it's the best example of true crime education over entertainment that I've ever seen.
-
-Analysis generated at: Sun Aug 16 12:28:08 UTC 2026
+Analysis generated at: Sun Aug 16 12:48:58 UTC 2026
