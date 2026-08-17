@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Aug 17 06:42:01 UTC 2026
+Last updated: Mon Aug 17 12:32:38 UTC 2026
 
 ## Latest Analysis
 
-Loaded 125201 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-16 06:40:49
+Loaded 125238 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-16 12:29:04
 
 Incidents by source:
 source
-newsapi           125100
+newsapi           125137
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-08-16 06:40
-- Location: BBC News
-- Description: Police believe they know the men responsible for the submachine gun murder four years ago today.
-
-
-### ROBBERY/THEFT on 2026-08-16 06:21
-- Location: SFGate
-- Description: Mail theft has been a growing problem in the Bay Area.
-
-
-### HOMICIDE on 2026-08-16 06:17
+### HOMICIDE on 2026-08-16 12:29
 - Location: The Times of India
-- Description: A Border Security Force jawan was arrested for allegedly murdering his wife in Punjab. The victim's father filed a complaint after his daughter was found dead with injuries. He stated his daughter faced harassment and physical assault from her husband after m…
+- Description: A husband and his mother were arrested in Ballia for the alleged dowry death of his wife. The couple married in April 2021 and faced harassment over dowry demands. Goldi's family had reportedly paid Rs 3 lakh for a four-wheeler purchase. She informed her fami…
 
 
-### HOMICIDE on 2026-08-16 06:05
-- Location: The Irish Times
-- Description: Knox was wrongly convicted of the murder of Meredith Kercher before being acquitted in 2011, yet she seems to be the only person not entitled to have a view on it
+### ASSAULT on 2026-08-16 12:26
+- Location: New York Post
+- Description: The victim of Friday night’s attack on a prominent Big Apple synagogue is defiantly punching back against her unhinged attacker. “I am the woman who was assaulted last night at Central Synagogue.&n…
 
 
-### OTHER on 2026-08-16 05:30
-- Location: The Irish Times
-- Description: August 16th-21st highlights: including Ludwig, The Healy-Raes: Blood Sweat & Tears, and The Rose of Tralee
+### SHOOTING on 2026-08-16 12:12
+- Location: Slashdot.org
+- Description: Police arrest 19-year-old in connection with Virginia State University shooting that hurt 5WSB-TV Arrest made in shooting at Virginia State University13newsnow.com 19-year-old arrested following shooting at Virginia State UniversityWSET VSU shooting suspect f…
 
-Analysis generated at: Mon Aug 17 06:42:01 UTC 2026
+
+### HOMICIDE on 2026-08-16 12:00
+- Location: New York Post
+- Description: At least one person was killed and four were wounded, one critically, during a shooting in Connecticut early Sunday. Cops were called to an address in Hartford at around 1:40 a.m. to reports of a shooting and discovered a crowd of around 100 people and an unr…
+
+
+### OTHER on 2026-08-16 12:00
+- Location: Daily Signal
+- Description: Former President Barack Obama will likely campaign for Abdul El-Sayed, the far-left Democrat who just won Michigan’s U.S. Senate primary. The two spoke after the primary, and El-Sayed publicly said he hopes Obama will campaign for him. Michigan could determin…
+
+Analysis generated at: Mon Aug 17 12:32:38 UTC 2026
