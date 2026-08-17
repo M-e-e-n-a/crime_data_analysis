@@ -1,10 +1,10 @@
 
-Loaded 125169 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-16 00:53:24
+Loaded 125176 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-16 01:36:46
 
 Incidents by source:
 source
-newsapi           125068
+newsapi           125075
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,30 @@ ion.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-08-16 00:53
-- Location: The Times of India
-- Description: Breaking News Live Updates: Police have arrested a 19-year-old in connection with Virginia State University shooting that left 5 injured, reports AP.
-
-
-### SHOOTING on 2026-08-16 00:46
-- Location: The Times of India
-- Description: Five individuals sustained gunshot wounds during an early Saturday shooting incident at Virginia State University. Campus police and county officers discovered the victims outside university dormitories near the Quad Annexes. One of the wounded was a student …
-
-
-### HOMICIDE on 2026-08-16 00:04
-- Location: The Times of India
-- Description: D4vd’s 2023 “Rehab” music video is facing renewed scrutiny following his arrest in connection with the death of 14-year-old Celeste Rivas Hernandez. The anime-style video depicts a young woman being violently dismembered, prompting fans to draw unsettling par…
-
-
-### HOMICIDE on 2026-08-16 00:03
+### SHOOTING on 2026-08-16 01:36
 - Location: Dailymail.com
-- Description: Make no mistake, the death of Professor Jason Arday is an absolute tragedy. It doesn't matter how much he embellished his CV or exaggerated his achievements - he didn't deserve to die.
+- Description: Gov. Andy Beshear confirmed reports of a shooting in downtown Lexington during his speech at the Kentucky Democratic Party 's Moving Forward Together at the Hyatt Regency.
 
 
-### OTHER on 2026-08-16 00:01
-- Location: Dailymail.com
-- Description: Laura died on July 29, 2022, in London's Charing Cross Hospital, six months after contracting Covid. Ever since Laura's body has been in a metal drawer in an undertaker's mortuary in London.
+### SHOOTING on 2026-08-16 01:33
+- Location: Slashdot.org
+- Description: Shooting at VSU injures 5 hours after freshmen welcome eventThe Washington Post Multiple suspects at large after five shot at Virginia State University, police sayBBC Henrico teen Camron Harris found hiding in VSU closet arrested after shooting 5 peopleWTVR.c…
 
-Analysis generated at: Mon Aug 17 00:55:30 UTC 2026
+
+### OTHER on 2026-08-16 01:20
+- Location: The Punch
+- Description: Governor Ademola Adeleke leads in the Osun governorship election as INEC collates results, with major political figures losing their polling units.
+
+Read More: https://punchng.com/adeleke-takes-early-lead-as-bigwigs-lose-polling-units/
+
+
+### SHOOTING on 2026-08-16 01:17
+- Location: The Times of India
+- Description: Virginia State University shooting: Police arrested a 19-year-old in connection with a campus shooting. Five individuals sustained injuries, with one in critical condition after the incident. The arrested individual is not a student at the university, authori…
+
+
+### OTHER on 2026-08-16 01:15
+- Location: RTE
+- Description: The Sexual Violence Centre in Cork has warned about the prominence and influence of toxic masculinity and how it is leading to incidents of spiking.
+
+Analysis generated at: Mon Aug 17 01:37:49 UTC 2026
