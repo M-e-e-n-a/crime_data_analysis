@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Aug 17 01:37:49 UTC 2026
+Last updated: Mon Aug 17 06:42:01 UTC 2026
 
 ## Latest Analysis
 
-Loaded 125176 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-16 01:36:46
+Loaded 125201 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-16 06:40:49
 
 Incidents by source:
 source
-newsapi           125075
+newsapi           125100
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,30 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-08-16 01:36
-- Location: Dailymail.com
-- Description: Gov. Andy Beshear confirmed reports of a shooting in downtown Lexington during his speech at the Kentucky Democratic Party 's Moving Forward Together at the Hyatt Regency.
+### HOMICIDE on 2026-08-16 06:40
+- Location: BBC News
+- Description: Police believe they know the men responsible for the submachine gun murder four years ago today.
 
 
-### SHOOTING on 2026-08-16 01:33
-- Location: Slashdot.org
-- Description: Shooting at VSU injures 5 hours after freshmen welcome eventThe Washington Post Multiple suspects at large after five shot at Virginia State University, police sayBBC Henrico teen Camron Harris found hiding in VSU closet arrested after shooting 5 peopleWTVR.c…
+### ROBBERY/THEFT on 2026-08-16 06:21
+- Location: SFGate
+- Description: Mail theft has been a growing problem in the Bay Area.
 
 
-### OTHER on 2026-08-16 01:20
-- Location: The Punch
-- Description: Governor Ademola Adeleke leads in the Osun governorship election as INEC collates results, with major political figures losing their polling units.
-
-Read More: https://punchng.com/adeleke-takes-early-lead-as-bigwigs-lose-polling-units/
-
-
-### SHOOTING on 2026-08-16 01:17
+### HOMICIDE on 2026-08-16 06:17
 - Location: The Times of India
-- Description: Virginia State University shooting: Police arrested a 19-year-old in connection with a campus shooting. Five individuals sustained injuries, with one in critical condition after the incident. The arrested individual is not a student at the university, authori…
+- Description: A Border Security Force jawan was arrested for allegedly murdering his wife in Punjab. The victim's father filed a complaint after his daughter was found dead with injuries. He stated his daughter faced harassment and physical assault from her husband after m…
 
 
-### OTHER on 2026-08-16 01:15
-- Location: RTE
-- Description: The Sexual Violence Centre in Cork has warned about the prominence and influence of toxic masculinity and how it is leading to incidents of spiking.
+### HOMICIDE on 2026-08-16 06:05
+- Location: The Irish Times
+- Description: Knox was wrongly convicted of the murder of Meredith Kercher before being acquitted in 2011, yet she seems to be the only person not entitled to have a view on it
 
-Analysis generated at: Mon Aug 17 01:37:49 UTC 2026
+
+### OTHER on 2026-08-16 05:30
+- Location: The Irish Times
+- Description: August 16th-21st highlights: including Ludwig, The Healy-Raes: Blood Sweat & Tears, and The Rose of Tralee
+
+Analysis generated at: Mon Aug 17 06:42:01 UTC 2026
