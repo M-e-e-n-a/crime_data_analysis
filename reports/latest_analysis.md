@@ -1,10 +1,10 @@
 
-Loaded 125466 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-17 12:51:09
+Loaded 125560 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-17 18:27:23
 
 Incidents by source:
 source
-newsapi           125365
+newsapi           125459
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2026-08-17 12:51
-- Location: Fortune
-- Description: More than 75,000 thefts on US freight networks last year pushed freight railroad companies to pour millions into fencing and AI cameras
+### HOMICIDE on 2026-08-17 18:27
+- Location: Abcnews.com
+- Description: A 3-year-old was among the injured, police said.
 
 
-### SHOOTING on 2026-08-17 12:50
+### HOMICIDE on 2026-08-17 18:23
 - Location: The Times of India
-- Description: Patna: Man shoots wife in hand after marital dispute; husband Suraj Kumar arrested. Police recover country-made pistol, motorcycle and phone; probe underway.
+- Description: Assam CM Himanta Biswa Sarma says he trusts police protection after an online death threat during his Independence Day speech; Morigaon man arrested.
 
 
-### ROBBERY/THEFT on 2026-08-17 12:47
-- Location: GamesIndustry.biz
-- Description: The US Senate Judiciary Subcommittee on Crime and Counterterrorism has launched an investigation into Roblox, saying the platform "appears to prioritise revenue and engagement metrics" over child safety. Read more
+### OTHER on 2026-08-17 18:23
+- Location: The Times of India
+- Description: Assam CM Himanta Biswa Sarma urges police to adopt a modern, people-centric approach to crime control; focus on prevention, investigations and convictions.
 
 
-### SHOOTING on 2026-08-17 12:40
-- Location: YLE News
-- Description: Police have since explained that the officer in the van was working a traffic detail.
+### OTHER on 2026-08-17 18:22
+- Location: The Times of India
+- Description: The Supreme Court has directed the Allahabad High Court to defer proceedings concerning Rahul Gandhi.  A BJP worker had filed a plea alleging disproportionate assets against the opposition leader.  The court questioned the high court's order without hearing G…
 
 
-### HOMICIDE on 2026-08-17 12:31
-- Location: TheJournal.ie
-- Description: Alex Coughlan died on 20 May after suffering “traumatic” head and neck injuries.
+### HOMICIDE on 2026-08-17 18:18
+- Location: The Times of India
+- Description: Hisar: Police allege a 14-year-old was strangled and dumped in a canal; father and grandfather booked for murder, with an alleged love affair as motive.
 
-Analysis generated at: Tue Aug 18 12:56:06 UTC 2026
+Analysis generated at: Tue Aug 18 18:30:04 UTC 2026
