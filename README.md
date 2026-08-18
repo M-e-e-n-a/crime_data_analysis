@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Aug 18 12:33:59 UTC 2026
+Last updated: Tue Aug 18 12:56:06 UTC 2026
 
 ## Latest Analysis
 
-Loaded 125462 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-17 12:31:37
+Loaded 125466 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-17 12:51:09
 
 Incidents by source:
 source
-newsapi           125361
+newsapi           125365
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
+### ROBBERY/THEFT on 2026-08-17 12:51
+- Location: Fortune
+- Description: More than 75,000 thefts on US freight networks last year pushed freight railroad companies to pour millions into fencing and AI cameras
+
+
+### SHOOTING on 2026-08-17 12:50
+- Location: The Times of India
+- Description: Patna: Man shoots wife in hand after marital dispute; husband Suraj Kumar arrested. Police recover country-made pistol, motorcycle and phone; probe underway.
+
+
+### ROBBERY/THEFT on 2026-08-17 12:47
+- Location: GamesIndustry.biz
+- Description: The US Senate Judiciary Subcommittee on Crime and Counterterrorism has launched an investigation into Roblox, saying the platform "appears to prioritise revenue and engagement metrics" over child safety. Read more
+
+
+### SHOOTING on 2026-08-17 12:40
+- Location: YLE News
+- Description: Police have since explained that the officer in the van was working a traffic detail.
+
+
 ### HOMICIDE on 2026-08-17 12:31
 - Location: TheJournal.ie
 - Description: Alex Coughlan died on 20 May after suffering “traumatic” head and neck injuries.
 
-
-### HOMICIDE on 2026-08-17 12:16
-- Location: The Times of India
-- Description: Nimisha Sajayan stars in the captivating investigative drama 'Babita Singh Reporting', set to premiere on August 28, 2026. The riveting storyline showcases a suspended police officer delving into the murder of a childhood friend, while grappling with her own …
-
-
-### HOMICIDE on 2026-08-17 12:15
-- Location: Dailymail.com
-- Description: The 15-year-old suspect was at the wheel of the car, a previous hearing was told. A passenger, William Lunnon, 43, entered no plea to the same charge.
-
-
-### HOMICIDE on 2026-08-17 12:04
-- Location: The Irish Times
-- Description: Alex Coughlan (37) suffered serious injuries after he was assaulted on Mill Road at around 4.20pm on May 17th
-
-
-### HOMICIDE on 2026-08-17 12:01
-- Location: Vanguard
-- Description: A 17-year-old Massachusetts boy has been accused of killing his mother and younger brother after prosecutors said he used ChatGPT to explore “theoretical ideas or fantasies” about killing his family.
-The post How 17-year-old allegedly used ChatGPT before kill…
-
-Analysis generated at: Tue Aug 18 12:33:59 UTC 2026
+Analysis generated at: Tue Aug 18 12:56:06 UTC 2026
