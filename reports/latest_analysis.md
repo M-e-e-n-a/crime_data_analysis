@@ -1,10 +1,10 @@
 
-Loaded 125346 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-17 00:53:37
+Loaded 125350 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-17 01:20:57
 
 Incidents by source:
 source
-newsapi           125245
+newsapi           125249
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ ion.svg)
 
 ## Recent Incidents
 
+### HOMICIDE on 2026-08-17 01:20
+- Location: Fox News
+- Description: A man allegedly shot his wife at a park in Louisiana and drove her body through multiple states before a traffic stop in Memphis led to his arrest.
+
+
+### HOMICIDE on 2026-08-17 01:00
+- Location: Legalinsurrection.com
+- Description: Near the anniversary of Michael Brown's death, Rep. Rashida Tlaib repeats the fabrication.
+The post Here We Go Again – No Rashida, Michael Brown Was Not “Murdered” first appeared on Le·gal In·sur·rec·tion.
+
+
+### OTHER on 2026-08-17 00:58
+- Location: Dailymail.com
+- Description: Lily Hooper, 18, vanished on Wednesday after setting off for a hike in a national park in the NSW Southern Highlands.
+
+
+### HOMICIDE on 2026-08-17 00:56
+- Location: Biztoc.com
+- Description: An investigation is underway following a fatal police shooting in New York City at a Lower Manhattan apartment building on Ludlow Street, after officers responded to a slashing incident, according to ...
+
+
 ### HOMICIDE on 2026-08-17 00:53
 - Location: Slashdot.org
 - Description: 13-year-old Michigan girl who was shot 4 times helped police ID gunman who killed her familyNBC News ‘She is a hero’: 13-year-old survivor of Michigan shooting rampage called 911The Guardian Series of Michigan Shootings Leave 6 Dead, Including GunmanThe New Y…
 
-
-### OTHER on 2026-08-17 00:49
-- Location: Dailymail.com
-- Description: Minneapolis Mayor Jacob Frey was ridiculed online for his awkward dance moves at a recent state fair, while violent crime rates in the city remain high.
-
-
-### ASSAULT on 2026-08-17 00:17
-- Location: Dailymail.com
-- Description: An alleged attack on a One Nation staffer in her 60s has been slammed, after she was hospitalised with a broken rib.
-
-
-### HOMICIDE on 2026-08-17 00:12
-- Location: Slashdot.org
-- Description: Coroner: 16-year-old male identified as victim from Saturday night's Lexington shootingLEX 18 News 16-year-old identified as person killed in Lexington mass shootingWKYT 5 shot, 1 killed at a Lexington park, police say. 4-year-old among those injuredLexington…
-
-
-### OTHER on 2026-08-17 00:09
-- Location: New York Post
-- Description: A Florida man furious over unscooped dog poop allegedly barged into his neighbor’s home carrying the offending feces.
-
-Analysis generated at: Tue Aug 18 00:54:07 UTC 2026
+Analysis generated at: Tue Aug 18 01:27:46 UTC 2026
