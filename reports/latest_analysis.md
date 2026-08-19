@@ -1,10 +1,10 @@
 
-Loaded 125577 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-18 01:28:00
+Loaded 125632 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-18 06:34:52
 
 Incidents by source:
 source
-newsapi           125476
+newsapi           125531
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,32 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-08-18 01:28
-- Location: The Diplomat
-- Description: War with Thailand pushed Cambodia to enact a sweeping scam crackdown. Now the ruling elite is leveraging the same crackdown to consolidate its political control.
+### OTHER on 2026-08-18 06:34
+- Location: The Times of India
+- Description: On the third day of auditions for Bigg Boss Tamil 10, contenders were eager to showcase their diverse talents. Judges were particularly impressed by Venkatesan and Jason Kaushi, who successfully moved forward in the selection process. However, six contestants…
 
 
-### ROBBERY/THEFT on 2026-08-18 01:25
-- Location: The Punch
-- Description: Bauchi State Police Command arrests Emmanuel Jacob, 26, recovering four stolen solar panels from Federal Government Girls’ College, Bauchi.
-
-Read More: https://punchng.com/bauchi-police-arrest-suspect-recover-stolen-solar-panels/
+### HOMICIDE on 2026-08-18 06:34
+- Location: The Times of India
+- Description: A UC Berkeley mathematics professor has raised concerns about declining math preparedness among incoming calculus students. Zvezdelina Stankova says some students arrive five to eight years behind in mathematics, requiring instruction in fractions and basic a…
 
 
-### HOMICIDE on 2026-08-18 01:25
-- Location: The Punch
-- Description: Discover how Kwara police dismantled a complex crime web, cracking kidnap, cult, and murder rings using surveillance and digital trails.
-
-Read More: https://punchng.com/inside-kwaras-crime-web-how-police-cracked-kidnap-cult-murder-rings/
+### OTHER on 2026-08-18 06:34
+- Location: The Times of India
+- Description: Government employees in Ranchi voiced their discontent as the Jharkhand government annulled the JSSC-CGL examination. This abrupt decision was prompted by student demonstrations related to alleged recruitment process flaws. Additionally, the government invali…
 
 
-### HOMICIDE on 2026-08-18 01:14
-- Location: Us Weekly
-- Description: Charles Esten is breaking his silence after his former Nashville costar Hayden Panettiere died at the age of 36 just days after she reportedly attended one of his shows. “Patty [Hanson, his wife] and I are stunned and saddened at the loss of our dear and beau…
+### OTHER on 2026-08-18 06:32
+- Location: The Times of India
+- Description: Flite Test unveiled the Super Circle Plane, a remarkable annular-wing aircraft made from foam board with a striking circular cutout in its main wing. This design turned it into a dynamic target for other radio-controlled pilots, who competed to fly their smal…
 
 
-### OTHER on 2026-08-18 01:08
-- Location: KPBS
-- Description: This is the second fire in the Los Peñasquitos Canyon Preserve in recent months.
+### HOMICIDE on 2026-08-18 06:30
+- Location: Newser
+- Description: Australia's infamous mushroom murder case is headed back to court, the BBC reports. Erin Patterson, serving life for killing three relatives and poisoning a fourth with a 2023 beef Wellington lunch laced with death cap mushrooms, is appealing her convictions …
 
-Analysis generated at: Wed Aug 19 01:29:10 UTC 2026
+Analysis generated at: Wed Aug 19 06:35:03 UTC 2026
