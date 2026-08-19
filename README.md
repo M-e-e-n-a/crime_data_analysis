@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Aug 19 06:35:03 UTC 2026
+Last updated: Wed Aug 19 12:35:18 UTC 2026
 
 ## Latest Analysis
 
-Loaded 125632 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-18 06:34:52
+Loaded 125724 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-18 12:31:45
 
 Incidents by source:
 source
-newsapi           125531
+newsapi           125623
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-08-18 06:34
-- Location: The Times of India
-- Description: On the third day of auditions for Bigg Boss Tamil 10, contenders were eager to showcase their diverse talents. Judges were particularly impressed by Venkatesan and Jason Kaushi, who successfully moved forward in the selection process. However, six contestants…
+### HOMICIDE on 2026-08-18 12:31
+- Location: Dailymail.com
+- Description: Washington Governor Bob Ferguson shared a post from journalist Ari Hoffman this week which criticized Wilson's response to a shooting at a food festival on July 27 that left three people dead.
 
 
-### HOMICIDE on 2026-08-18 06:34
-- Location: The Times of India
-- Description: A UC Berkeley mathematics professor has raised concerns about declining math preparedness among incoming calculus students. Zvezdelina Stankova says some students arrive five to eight years behind in mathematics, requiring instruction in fractions and basic a…
+### HOMICIDE on 2026-08-18 12:25
+- Location: Israelnationalnews.com
+- Description: Jerusalem court sentences Nabil Shaabani to prison and compensation for attempted nationalistically motivated murder and theft.
 
 
-### OTHER on 2026-08-18 06:34
-- Location: The Times of India
-- Description: Government employees in Ranchi voiced their discontent as the Jharkhand government annulled the JSSC-CGL examination. This abrupt decision was prompted by student demonstrations related to alleged recruitment process flaws. Additionally, the government invali…
+### OTHER on 2026-08-18 12:22
+- Location: Raw Story
+- Description: A public meeting where embattled U.S. Attorney Jeanine Pirro was set to face D.C. residents over violent crime was abruptly canceled at the last minute Monday, with organizers offering no explanation and no new date.According to NOTUS, Pirro and interim D.C. …
 
 
-### OTHER on 2026-08-18 06:32
-- Location: The Times of India
-- Description: Flite Test unveiled the Super Circle Plane, a remarkable annular-wing aircraft made from foam board with a striking circular cutout in its main wing. This design turned it into a dynamic target for other radio-controlled pilots, who competed to fly their smal…
+### OTHER on 2026-08-18 12:10
+- Location: MIT Technology Review
+- Description: This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. We still don’t know how people are really using AI AI companies like Anthropic and OpenAI regularly publish reports on ho…
 
 
-### HOMICIDE on 2026-08-18 06:30
-- Location: Newser
-- Description: Australia's infamous mushroom murder case is headed back to court, the BBC reports. Erin Patterson, serving life for killing three relatives and poisoning a fourth with a 2023 beef Wellington lunch laced with death cap mushrooms, is appealing her convictions …
+### OTHER on 2026-08-18 12:08
+- Location: BBC News
+- Description: Former PC Timothy Brehmer strangled his lover after she threatened to expose their affair to his wife.
 
-Analysis generated at: Wed Aug 19 06:35:03 UTC 2026
+Analysis generated at: Wed Aug 19 12:35:18 UTC 2026
