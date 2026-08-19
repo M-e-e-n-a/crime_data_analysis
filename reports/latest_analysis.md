@@ -1,10 +1,10 @@
 
-Loaded 125727 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-18 12:50:46
+Loaded 125804 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-18 18:22:08
 
 Incidents by source:
 source
-newsapi           125626
+newsapi           125703
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,30 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-08-18 12:50
-- Location: Screenanarchy.com
-- Description: Plus: a two-year edit and Reboleira's last dance. 
- 
- [Read the whole post on screenanarchy.com...]
-
-
-### OTHER on 2026-08-18 12:50
-- Location: HarpersBAZAAR.com
-- Description: As the pop icon makes her highly anticipated return to the stage, she talks candidly about the devastating health crisis that nearly derailed her career
-
-
-### ASSAULT on 2026-08-18 12:38
-- Location: Israelnationalnews.com
-- Description: Congregant Harry Zimmerman accuses New York Times of failing to accurately report on and downplaying an antisemitic attack in an NYC synagogue.
-
-
-### HOMICIDE on 2026-08-18 12:31
+### OTHER on 2026-08-18 18:22
 - Location: Dailymail.com
-- Description: Washington Governor Bob Ferguson shared a post from journalist Ari Hoffman this week which criticized Wilson's response to a shooting at a food festival on July 27 that left three people dead.
+- Description: The window display of the Royal China restaurant in London 's Chinatown includes a ceramic figurine of a Chinese Mudman, a happy yoke-carrying character much revered in Chinese folklore.
 
 
-### HOMICIDE on 2026-08-18 12:25
+### HOMICIDE on 2026-08-18 18:20
+- Location: Dailymail.com
+- Description: A man has been arrested after a woman was fatally stabbed and another has been left hospitalised.
+
+
+### ASSAULT on 2026-08-18 18:18
 - Location: Israelnationalnews.com
-- Description: Jerusalem court sentences Nabil Shaabani to prison and compensation for attempted nationalistically motivated murder and theft.
+- Description: Abdullah Gargawi, with ties to ISIS, planned an attack at Beersheba’s Forum Club, 'I wanted to blow up the people dancing there - Jews or Arabs.'
 
-Analysis generated at: Wed Aug 19 12:56:41 UTC 2026
+
+### OTHER on 2026-08-18 18:14
+- Location: The Times of India
+- Description: Delhi Police reshuffles 43 senior officers, appointing IPS Ajay Chaudhary as new traffic chief; key changes across crime, ops, intelligence, vigilance and districts.
+
+
+### OTHER on 2026-08-18 18:12
+- Location: New York Post
+- Description: Danavon Caine, a Jamaican citizen working on an H-2B international visa, was arrested July 31.
+
+Analysis generated at: Wed Aug 19 18:26:18 UTC 2026
