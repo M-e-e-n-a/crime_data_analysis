@@ -1,10 +1,10 @@
 
-Loaded 125560 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-17 18:27:23
+Loaded 125567 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-18 00:38:12
 
 Incidents by source:
 source
-newsapi           125459
+newsapi           125466
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,30 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-08-17 18:27
-- Location: Abcnews.com
-- Description: A 3-year-old was among the injured, police said.
+### OTHER on 2026-08-18 00:38
+- Location: Bleeding Cool News
+- Description: With the midpoint of August reached, a whole lot of attention is shifting to what's set to hit our television screens this fall and winter. That means we're starting to see more and more teasers and other previews for shows set to either return or premiere ov…
 
 
-### HOMICIDE on 2026-08-17 18:23
-- Location: The Times of India
-- Description: Assam CM Himanta Biswa Sarma says he trusts police protection after an online death threat during his Independence Day speech; Morigaon man arrested.
+### ASSAULT on 2026-08-18 00:28
+- Location: Dailymail.com
+- Description: Kane Cornes has been lashed after declaring Sydney players could be unforgiven if an alleged incident at their Melbourne hotel cost the Swans a premiership.
 
 
-### OTHER on 2026-08-17 18:23
-- Location: The Times of India
-- Description: Assam CM Himanta Biswa Sarma urges police to adopt a modern, people-centric approach to crime control; focus on prevention, investigations and convictions.
+### HOMICIDE on 2026-08-18 00:21
+- Location: Fox News
+- Description: Cellphone recordings allegedly show Nicholas Ayres assaulting Destiny Dunn in the days before her death at a Columbia, Missouri, motel room.
 
 
-### OTHER on 2026-08-17 18:22
-- Location: The Times of India
-- Description: The Supreme Court has directed the Allahabad High Court to defer proceedings concerning Rahul Gandhi.  A BJP worker had filed a plea alleging disproportionate assets against the opposition leader.  The court questioned the high court's order without hearing G…
+### DRUG RELATED on 2026-08-18 00:20
+- Location: The Punch
+- Description: The NDLEA has destroyed N301bn worth of illicit drugs in Lagos and Edo, arresting 10 suspects. This massive NDLEA drug destruction targets criminal network
+
+Read More: https://punchng.com/ndlea-destroys-n301bn-drugs-arrests-10-in-edo/
 
 
-### HOMICIDE on 2026-08-17 18:18
-- Location: The Times of India
-- Description: Hisar: Police allege a 14-year-old was strangled and dumped in a canal; father and grandfather booked for murder, with an alleged love affair as motive.
+### HOMICIDE on 2026-08-18 00:12
+- Location: Dailymail.com
+- Description: Natasha Hill passed away after Scott Clifford, 40, left her with black eyes and a fractured skull in a brutal attack at his home in Thamesmead, south-east London, on April 15, 2018.
 
-Analysis generated at: Tue Aug 18 18:30:04 UTC 2026
+Analysis generated at: Wed Aug 19 00:53:48 UTC 2026
