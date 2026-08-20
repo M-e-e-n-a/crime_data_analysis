@@ -1,10 +1,10 @@
 
-Loaded 125939 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-19 12:53:00
+Loaded 126036 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-19 18:26:21
 
 Incidents by source:
 source
-newsapi           125838
+newsapi           125935
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-08-19 12:53
-- Location: Israelnationalnews.com
-- Description: IDF reviews examine WCK strike, deaths of Hind Rajab and MSF employees, and Tel al-Sultan incident; criminal investigations ordered in two of them.
+### HOMICIDE on 2026-08-19 18:26
+- Location: BBC News
+- Description: Amy Lopez from Texas was last seen alive in September 1994 while on a visit to a fortress in Koblenz.
 
 
-### HOMICIDE on 2026-08-19 12:51
-- Location: CBC News
-- Description: Pedestrian on rollerblades was struck by a truck that was turning at an intersection in Ajax Tuesday, Durham police said.
-
-
-### HOMICIDE on 2026-08-19 12:37
+### HOMICIDE on 2026-08-19 18:22
 - Location: The Times of India
-- Description: Police arrested Rinku Hotel owner Mahesh Rajak and staff Seema Thakur for allegedly killing BJP worker Mithilesh Yadav in Giridih, staging it as an accident.
+- Description: Sonbhadra police arrested three men for the alleged murder of Bharatdeep Dulare, found dead under Kasarhiya river bridge; bike and phone recovered.
 
 
-### OTHER on 2026-08-19 12:36
-- Location: Freerepublic.com
-- Description: Our new report on the size, scope and cost of illegal immigration in NJ is now out. We’ve found a state so hopelessly compromised that we’ve officially requested federal intervention from the DOJ, DHS and House Judiciary Committee. A staggering 8.2B is being …
+### HOMICIDE on 2026-08-19 18:21
+- Location: The Times of India
+- Description: Kanpur police reopen 2025 “road accident” death as murder; brother arrested after CCTV, phone data and WhatsApp warning revealed land dispute motive.
 
 
-### OTHER on 2026-08-19 12:33
-- Location: The New Humanitarian
-- Description: Cuts to USAID, which ended some 83% of the agency's programmes worldwide, have severely disrupted violence prevention and family support in Haiti.
+### HOMICIDE on 2026-08-19 18:19
+- Location: The Times of India
+- Description: Jorhat Police arrested Aryan Goswami, prime accused in 18-year-old Anwesha Saikia’s death, as family alleges murder; forensic and medical reports awaited.
 
-Analysis generated at: Thu Aug 20 12:58:21 UTC 2026
+
+### OTHER on 2026-08-19 18:16
+- Location: Rediff.com
+- Description: Amit Sheoran, a 31-year-old former national-level wrestler wanted in an alleged major opium smuggling case, has been arrested after being on the run since 2023, police said.
+
+Analysis generated at: Thu Aug 20 18:31:05 UTC 2026
