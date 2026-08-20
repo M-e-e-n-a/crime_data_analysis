@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Aug 20 06:37:02 UTC 2026
+Last updated: Thu Aug 20 12:36:18 UTC 2026
 
 ## Latest Analysis
 
-Loaded 125862 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-19 06:28:14
+Loaded 125936 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-19 12:36:02
 
 Incidents by source:
 source
-newsapi           125761
+newsapi           125835
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-08-19 06:28
-- Location: WKRC TV Cincinnati
-- Description: Kevin Smith, 64, of Wilmington was arrested after police said he fired a shotgun, damaging a Delaware State Police camera.
+### OTHER on 2026-08-19 12:36
+- Location: Freerepublic.com
+- Description: Our new report on the size, scope and cost of illegal immigration in NJ is now out. We’ve found a state so hopelessly compromised that we’ve officially requested federal intervention from the DOJ, DHS and House Judiciary Committee. A staggering 8.2B is being …
 
 
-### SHOOTING on 2026-08-19 06:20
+### OTHER on 2026-08-19 12:33
+- Location: The New Humanitarian
+- Description: Cuts to USAID, which ended some 83% of the agency's programmes worldwide, have severely disrupted violence prevention and family support in Haiti.
+
+
+### OTHER on 2026-08-19 12:30
+- Location: Page Six
+- Description: The Golden Globe nominee was "not OK" while filming "A Breed Apart" in 2025, according to director Griff Furst's Instagram video Monday.
+
+
+### HOMICIDE on 2026-08-19 12:30
 - Location: The Times of India
-- Description: CCTV footage shows two men talking when assailants entered a pizza outlet. One accused fired three pistol shots within seconds, while his accomplice's weapon failed. The two shooters then fled the scene with a waiting third accomplice. Police registered an FI…
+- Description: A court sentenced former Samajwadi Party MLC Kamlesh Pathak and nine others to life imprisonment. They were convicted in a 2020 double murder case involving an advocate and his sister. The conviction stemmed from a dispute over the control of a Panchmukhi tem…
 
 
-### HOMICIDE on 2026-08-19 06:05
-- Location: Gossiplankanews.com
-- Description: Anuradhapura Chief Magistrate Mr. Siyapath Sasindu Wickramarathne has ordered the Anuradhapura Headquarters Police to refer the investigation notes related to the incident where a mother pushed her two minor children into the Malwathu Oya in Anuradhapura, whi…
-
-
-### HOMICIDE on 2026-08-19 06:05
-- Location: TheJournal.ie
-- Description: Patterson watched the proceedings at Melbourne’s Supreme Court via a live video link from her maximum-security prison.
-
-
-### HOMICIDE on 2026-08-19 06:04
+### HOMICIDE on 2026-08-19 12:30
 - Location: The Times of India
-- Description: A 16-year-old boy was allegedly killed in Bhopal after a BBA student reportedly convinced a group that his testicles could be sold for up to Rs 1.5 crore. Police said the alleged mastermind was influenced by a false Instagram claim and posed as a medical stud…
+- Description: Raipur police arrest suspect in July 21 bicycle-stalking rape-murder; linked to Aug 5 assault. Prior POCSO conviction; CCTV-led probe continues.
 
-Analysis generated at: Thu Aug 20 06:37:02 UTC 2026
+Analysis generated at: Thu Aug 20 12:36:18 UTC 2026
