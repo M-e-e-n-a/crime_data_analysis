@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Aug 20 01:28:26 UTC 2026
+Last updated: Thu Aug 20 06:37:02 UTC 2026
 
 ## Latest Analysis
 
-Loaded 125815 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-19 01:26:04
+Loaded 125862 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-19 06:28:14
 
 Incidents by source:
 source
-newsapi           125714
+newsapi           125761
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-08-19 01:26
-- Location: HuffPost
-- Description: Republican Texas Gov. Greg Abbott said he has no intention of responding to Minnesota's extradition requests.
+### SHOOTING on 2026-08-19 06:28
+- Location: WKRC TV Cincinnati
+- Description: Kevin Smith, 64, of Wilmington was arrested after police said he fired a shotgun, damaging a Delaware State Police camera.
 
 
-### HOMICIDE on 2026-08-19 01:12
-- Location: Dailymail.com
-- Description: Evil mushroom killer Erin Patterson has begun her last ditch effort to walk free from a Melbourne jail.
+### SHOOTING on 2026-08-19 06:20
+- Location: The Times of India
+- Description: CCTV footage shows two men talking when assailants entered a pizza outlet. One accused fired three pistol shots within seconds, while his accomplice's weapon failed. The two shooters then fled the scene with a waiting third accomplice. Police registered an FI…
 
 
-### HOMICIDE on 2026-08-19 01:08
-- Location: New York Post
-- Description: “Me or anybody else raising up the dead is wrong," the stubborn witness said, refusing to testify in court.
+### HOMICIDE on 2026-08-19 06:05
+- Location: Gossiplankanews.com
+- Description: Anuradhapura Chief Magistrate Mr. Siyapath Sasindu Wickramarathne has ordered the Anuradhapura Headquarters Police to refer the investigation notes related to the incident where a mother pushed her two minor children into the Malwathu Oya in Anuradhapura, whi…
 
 
-### HOMICIDE on 2026-08-19 01:07
-- Location: Dailymail.com
-- Description: Evil mushroom killer Erin Patterson has begun her last ditch effort to walk free from a Melbourne jail.
+### HOMICIDE on 2026-08-19 06:05
+- Location: TheJournal.ie
+- Description: Patterson watched the proceedings at Melbourne’s Supreme Court via a live video link from her maximum-security prison.
 
 
-### OTHER on 2026-08-19 00:39
-- Location: The Conversation Africa
-- Description: Perpetrators gradually build trust with young people before pressuring them to harm pets, siblings, or themselves.
+### HOMICIDE on 2026-08-19 06:04
+- Location: The Times of India
+- Description: A 16-year-old boy was allegedly killed in Bhopal after a BBA student reportedly convinced a group that his testicles could be sold for up to Rs 1.5 crore. Police said the alleged mastermind was influenced by a false Instagram claim and posed as a medical stud…
 
-Analysis generated at: Thu Aug 20 01:28:26 UTC 2026
+Analysis generated at: Thu Aug 20 06:37:02 UTC 2026
