@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Aug 21 01:38:49 UTC 2026
+Last updated: Fri Aug 21 06:36:30 UTC 2026
 
 ## Latest Analysis
 
-Loaded 126049 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-20 01:36:07
+Loaded 126089 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-20 06:34:55
 
 Incidents by source:
 source
-newsapi           125948
+newsapi           125988
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-08-20 01:36
+### HOMICIDE on 2026-08-20 06:34
+- Location: Israelnationalnews.com
+- Description: Three suspects face indictment for the double murder in Buq'ata after police uncovered an alleged hit squad targeting a man over protection money.
+
+
+### HOMICIDE on 2026-08-20 06:30
+- Location: Abcnews.com
+- Description: A judge is set to consider whether to grant Texas teen Karmelo Anthony a new trial following his murder conviction in the stabbing death of a 17-year-old athlete at a high school track meet
+
+
+### HOMICIDE on 2026-08-20 06:26
 - Location: Dailymail.com
-- Description: Prosecutors have poured cold water on Erin Patterson's bid to overturn her murder convictions.
+- Description: The killer of beloved teacher's aide Hannah McGuire has been acquitted of raping a teenager in the months before he murdered her.
 
 
-### HOMICIDE on 2026-08-20 01:35
-- Location: Dailymail.com
-- Description: The convicted murderer was serving on death row and came close to being executed eight times, but his life was repeatedly spared.
+### ROBBERY/THEFT on 2026-08-20 06:17
+- Location: ABC News (AU)
+- Description: CCTV footage has captured the moment a lunch bar worker was dragged by a car after chasing an alleged thief accused of stealing a handbag in Belmont.
 
 
-### OTHER on 2026-08-20 01:00
-- Location: Dailymail.com
-- Description: Large numbers of politicians have proclaimed that crime has been going down for many years now.We, the public, have apparently got it all wrong and are having a moral panic.
-
-
-### OTHER on 2026-08-20 00:54
+### SHOOTING on 2026-08-20 06:10
 - Location: New York Post
-- Description: It's insanity on steroids.
+- Description: “No mother should have to bury their child. Especially 17 years old,” a neighbor at the scene of the shooting said.
 
-
-### OTHER on 2026-08-20 00:49
-- Location: Dailymail.com
-- Description: The 56-year-old DV advocate notoriously severed the 59-year-old retired US Marine's penis with a knife in 'a desperate act of self-defense' after alleging he repeatedly raped and abused her.
-
-Analysis generated at: Fri Aug 21 01:38:49 UTC 2026
+Analysis generated at: Fri Aug 21 06:36:30 UTC 2026
