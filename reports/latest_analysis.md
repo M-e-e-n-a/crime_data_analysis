@@ -1,10 +1,10 @@
 
-Loaded 126089 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-20 06:34:55
+Loaded 126157 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-20 12:35:01
 
 Incidents by source:
 source
-newsapi           125988
+newsapi           126056
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-08-20 06:34
-- Location: Israelnationalnews.com
-- Description: Three suspects face indictment for the double murder in Buq'ata after police uncovered an alleged hit squad targeting a man over protection money.
+### ROBBERY/THEFT on 2026-08-20 12:35
+- Location: Vanguard
+- Description: Aidamenbor explained that the suspect committed the offence at an apartment in Alagbaka, Akure, on May 16 but was arrested in Lagos State on Aug. 13.
+The post NSCDC arrests security guard over alleged burglary, theft in Ondo appeared first on Vanguard News.
 
 
-### HOMICIDE on 2026-08-20 06:30
-- Location: Abcnews.com
-- Description: A judge is set to consider whether to grant Texas teen Karmelo Anthony a new trial following his murder conviction in the stabbing death of a 17-year-old athlete at a high school track meet
+### HOMICIDE on 2026-08-20 12:34
+- Location: The Times of India
+- Description: Gangster Vinod Panu alias Kana was shot dead in the Hisar court parking area. Two other individuals sustained injuries during the shooting incident which involved many rounds. Police apprehended one suspect at the scene and recovered a weapon from him. The de…
 
 
-### HOMICIDE on 2026-08-20 06:26
+### ASSAULT on 2026-08-20 12:32
+- Location: PRNewswire
+- Description: INDIANAPOLIS, Aug. 20, 2026 /PRNewswire/ -- The National Police Association (NPA) endorses the bipartisan Protect and Serve Act of 2026 (S. 5214), legislation introduced by Sen. Thom Tillis (NC) and co-led by Sen. Chris Coons (DE) that would establish federal…
+
+
+### OTHER on 2026-08-20 12:28
 - Location: Dailymail.com
-- Description: The killer of beloved teacher's aide Hannah McGuire has been acquitted of raping a teenager in the months before he murdered her.
+- Description: Joseph Gibson's first victim, a Devon-based businesswoman, lost more than £5,200 after believing his lies and handing over money for him to purchase stock for her retail business.
 
 
-### ROBBERY/THEFT on 2026-08-20 06:17
-- Location: ABC News (AU)
-- Description: CCTV footage has captured the moment a lunch bar worker was dragged by a car after chasing an alleged thief accused of stealing a handbag in Belmont.
+### OTHER on 2026-08-20 12:27
+- Location: Globalresearch.ca
+- Description: The lesson scrawled and etched across the neglected covers of history books (few read them these days) suggests one mighty, consistent rule: Never invade Afghanistan. The history of the country is one of admirably stout resistance to invasions and intrusions …
 
-
-### SHOOTING on 2026-08-20 06:10
-- Location: New York Post
-- Description: “No mother should have to bury their child. Especially 17 years old,” a neighbor at the scene of the shooting said.
-
-Analysis generated at: Fri Aug 21 06:36:30 UTC 2026
+Analysis generated at: Fri Aug 21 12:35:32 UTC 2026
