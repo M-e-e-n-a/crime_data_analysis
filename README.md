@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Aug 20 18:31:05 UTC 2026
+Last updated: Fri Aug 21 00:57:53 UTC 2026
 
 ## Latest Analysis
 
-Loaded 126036 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-19 18:26:21
+Loaded 126046 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-20 00:54:21
 
 Incidents by source:
 source
-newsapi           125935
+newsapi           125945
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-08-19 18:26
-- Location: BBC News
-- Description: Amy Lopez from Texas was last seen alive in September 1994 while on a visit to a fortress in Koblenz.
+### OTHER on 2026-08-20 00:54
+- Location: New York Post
+- Description: It's insanity on steroids.
 
 
-### HOMICIDE on 2026-08-19 18:22
-- Location: The Times of India
-- Description: Sonbhadra police arrested three men for the alleged murder of Bharatdeep Dulare, found dead under Kasarhiya river bridge; bike and phone recovered.
+### OTHER on 2026-08-20 00:49
+- Location: Dailymail.com
+- Description: The 56-year-old DV advocate notoriously severed the 59-year-old retired US Marine's penis with a knife in 'a desperate act of self-defense' after alleging he repeatedly raped and abused her.
 
 
-### HOMICIDE on 2026-08-19 18:21
-- Location: The Times of India
-- Description: Kanpur police reopen 2025 “road accident” death as murder; brother arrested after CCTV, phone data and WhatsApp warning revealed land dispute motive.
+### HOMICIDE on 2026-08-20 00:45
+- Location: FOX 5 DC
+- Description: Half of the suspects in Fairfax County's eight 2026 homicide cases are in the U.S. illegally, records show.
 
 
-### HOMICIDE on 2026-08-19 18:19
-- Location: The Times of India
-- Description: Jorhat Police arrested Aryan Goswami, prime accused in 18-year-old Anwesha Saikia’s death, as family alleges murder; forensic and medical reports awaited.
+### OTHER on 2026-08-20 00:41
+- Location: New York Post
+- Description: 1. California wants (to steal) your business by Harris Sockel, Editor  Last weekend, Ro Khanna doubled-down on his support for a 5% billionaire asset seizure in California, tweeting, delusionally, that illiquid founders (whose worth is tied up in their compan…
 
 
-### OTHER on 2026-08-19 18:16
-- Location: Rediff.com
-- Description: Amit Sheoran, a 31-year-old former national-level wrestler wanted in an alleged major opium smuggling case, has been arrested after being on the run since 2023, police said.
+### HOMICIDE on 2026-08-20 00:33
+- Location: Borderlandbeat.com
+- Description: "Socalj" for Borderland Beat According to federal investigations, Fausto Corrales allegedly accompanied Héctor Cuen Ojeda to a meeting where...
 
-Analysis generated at: Thu Aug 20 18:31:05 UTC 2026
+Analysis generated at: Fri Aug 21 00:57:53 UTC 2026
