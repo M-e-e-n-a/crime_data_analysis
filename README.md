@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Aug 21 12:35:32 UTC 2026
+Last updated: Fri Aug 21 12:57:30 UTC 2026
 
 ## Latest Analysis
 
-Loaded 126157 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-20 12:35:01
+Loaded 126161 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-20 12:57:02
 
 Incidents by source:
 source
-newsapi           126056
+newsapi           126060
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,29 +24,31 @@ ion.svg)
 
 ## Recent Incidents
 
+### OTHER on 2026-08-20 12:57
+- Location: road.cc
+- Description: A cyclist completing a charity ride narrowly avoided losing his life as an overtaking, oncoming lorry sped towards him on a major road in Peru.Bruno Mendoza was riding the 115km Cletea Contra el Cancer (Bikes against Cancer) Challenge of Hope and Solidarity f…
+
+
+### OTHER on 2026-08-20 12:51
+- Location: The Punch
+- Description: Katsina Police Command warns it will arrest sponsors and perpetrators of political violence ahead of the 2027 elections, urging youths to reject thuggery.
+
+Read More: https://punchng.com/2027-police-to-arrest-sponsors-perpetrators-of-political-violence-in-kat…
+
+
+### ROBBERY/THEFT on 2026-08-20 12:40
+- Location: The Times of India
+- Description: BJP suspends Rourkela cadre Prakash Paswan after he booked a Circuit House suite for men later arrested with illegal arms; police probe wider network.
+
+
+### OTHER on 2026-08-20 12:36
+- Location: The Conversation Africa
+- Description: Although it’s important that journalists practice diligence and deference, communities need to be willing to engage, forgive and voice concern.
+
+
 ### ROBBERY/THEFT on 2026-08-20 12:35
 - Location: Vanguard
 - Description: Aidamenbor explained that the suspect committed the offence at an apartment in Alagbaka, Akure, on May 16 but was arrested in Lagos State on Aug. 13.
 The post NSCDC arrests security guard over alleged burglary, theft in Ondo appeared first on Vanguard News.
 
-
-### HOMICIDE on 2026-08-20 12:34
-- Location: The Times of India
-- Description: Gangster Vinod Panu alias Kana was shot dead in the Hisar court parking area. Two other individuals sustained injuries during the shooting incident which involved many rounds. Police apprehended one suspect at the scene and recovered a weapon from him. The de…
-
-
-### ASSAULT on 2026-08-20 12:32
-- Location: PRNewswire
-- Description: INDIANAPOLIS, Aug. 20, 2026 /PRNewswire/ -- The National Police Association (NPA) endorses the bipartisan Protect and Serve Act of 2026 (S. 5214), legislation introduced by Sen. Thom Tillis (NC) and co-led by Sen. Chris Coons (DE) that would establish federal…
-
-
-### OTHER on 2026-08-20 12:28
-- Location: Dailymail.com
-- Description: Joseph Gibson's first victim, a Devon-based businesswoman, lost more than £5,200 after believing his lies and handing over money for him to purchase stock for her retail business.
-
-
-### OTHER on 2026-08-20 12:27
-- Location: Globalresearch.ca
-- Description: The lesson scrawled and etched across the neglected covers of history books (few read them these days) suggests one mighty, consistent rule: Never invade Afghanistan. The history of the country is one of admirably stout resistance to invasions and intrusions …
-
-Analysis generated at: Fri Aug 21 12:35:32 UTC 2026
+Analysis generated at: Fri Aug 21 12:57:30 UTC 2026
