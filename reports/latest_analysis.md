@@ -1,10 +1,10 @@
 
-Loaded 126161 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-20 12:57:02
+Loaded 126253 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-20 18:25:53
 
 Incidents by source:
 source
-newsapi           126060
+newsapi           126152
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,31 +20,31 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-08-20 12:57
-- Location: road.cc
-- Description: A cyclist completing a charity ride narrowly avoided losing his life as an overtaking, oncoming lorry sped towards him on a major road in Peru.Bruno Mendoza was riding the 115km Cletea Contra el Cancer (Bikes against Cancer) Challenge of Hope and Solidarity f…
-
-
-### OTHER on 2026-08-20 12:51
-- Location: The Punch
-- Description: Katsina Police Command warns it will arrest sponsors and perpetrators of political violence ahead of the 2027 elections, urging youths to reject thuggery.
-
-Read More: https://punchng.com/2027-police-to-arrest-sponsors-perpetrators-of-political-violence-in-kat…
-
-
-### ROBBERY/THEFT on 2026-08-20 12:40
+### HOMICIDE on 2026-08-20 18:25
 - Location: The Times of India
-- Description: BJP suspends Rourkela cadre Prakash Paswan after he booked a Circuit House suite for men later arrested with illegal arms; police probe wider network.
+- Description: Father and son accused of shooting youth outside Bilga village salon in Ludhiana; victim injured in shoulder. Police file attempt murder, Arms Act case, hunt on.
 
 
-### OTHER on 2026-08-20 12:36
-- Location: The Conversation Africa
-- Description: Although it’s important that journalists practice diligence and deference, communities need to be willing to engage, forgive and voice concern.
+### OTHER on 2026-08-20 18:22
+- Location: Rolling Stone
+- Description: The comedian promotes ketamine and psychedelics to explore higher consciousness. Yet friends of his ex-girlfriend, who died by suicide, claim his encouragement fueled an addiction. Watts' team calls the claims “dangerously false”
 
 
-### ROBBERY/THEFT on 2026-08-20 12:35
-- Location: Vanguard
-- Description: Aidamenbor explained that the suspect committed the offence at an apartment in Alagbaka, Akure, on May 16 but was arrested in Lagos State on Aug. 13.
-The post NSCDC arrests security guard over alleged burglary, theft in Ondo appeared first on Vanguard News.
+### OTHER on 2026-08-20 18:21
+- Location: Fox News
+- Description: Fox News' "Antisemitism Exposed" newsletter brings you stories on the rising anti-Jewish prejudice across the U.S. and the world.
 
-Analysis generated at: Fri Aug 21 12:57:30 UTC 2026
+
+### OTHER on 2026-08-20 18:20
+- Location: Thegatewaypundit.com
+- Description: Sean Penn, Adrien Brody, and a Ukrainian saboteur: an explosive recipe?
+The post German Prosecutors Say a Second Nord Stream Sabotage Suspect Was Arrested in Croatia – Volodymyr Zhuravlyov Reportedly Detained While Making a Hollywood Film About the Explosions…
+
+
+### OTHER on 2026-08-20 18:17
+- Location: Extra
+- Description: Griff Furst, the director of Hayden Panettiere’s recent film “A Breed Apart,” is opening up about his experience with the star.
+ Hayden, 36, died on Sunday at an apartment in Greenville, South Carolina.
+ In an Instagram video, Griff shared, “I was rooting Hay…
+
+Analysis generated at: Fri Aug 21 18:29:17 UTC 2026
