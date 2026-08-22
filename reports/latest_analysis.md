@@ -1,10 +1,10 @@
 
-Loaded 126267 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-21 01:23:57
+Loaded 126308 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-21 06:21:09
 
 Incidents by source:
 source
-newsapi           126166
+newsapi           126207
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-08-21 01:23
-- Location: The Times of India
-- Description: With Vijay's Jana Nayagan, the crime thriller Facing El Chapo, Chennai Love Story and Pyaar Prema Kalyanam among the week's highlights, OTT viewers have several new options to choose from this Friday. Read on to know when and where to watch them online.
+### HOMICIDE on 2026-08-21 06:21
+- Location: ABC News (AU)
+- Description: Northern Territory Police Commissioner Martin Dole has told rank-and-file officers the investigation into the alleged murder of of Kumanjayi Little Baby in Alice Springs was a moment that will "stay with you forever".
 
 
-### HOMICIDE on 2026-08-21 01:13
-- Location: Fox News
-- Description: Jahml McDonald, a convicted murderer out on bond, allegedly ran a drug operation near schools where fentanyl pills were disguised as ecstasy.
+### HOMICIDE on 2026-08-21 06:17
+- Location: Abcnews.com
+- Description: Jurors heard Duane “Keffe D” Davis tell detectives in 2008 that his nephew Orlando “Baby Lane” Anderson fired the shots that killed Tupac Shakur
 
 
-### OTHER on 2026-08-21 01:07
-- Location: Bleeding Cool News
-- Description: If you've been a frequent reader of the television/streaming side of the Bleeding Cool universe, you know that we're huge Adult Swim fans. One of the reasons why we love Cartoon Network's long-running and ever-expanding late-night programming block is that it…
+### HOMICIDE on 2026-08-21 06:08
+- Location: New York Post
+- Description: "I would rather do the lesser time than spend the next 53 years of my life behind bars."
 
 
-### HOMICIDE on 2026-08-21 01:00
-- Location: New Zealand Herald
-- Description: 'Disgusted': The deaths have renewed calls for action on rural crime and stock theft.
+### OTHER on 2026-08-21 06:00
+- Location: Naturalnews.com
+- Description: According to a report by Cointelegraph Magazine, a network of 200,000 artificial intelligence (AI)-generated characters designed to resemble potential scam victims is being deployed against online fraudsters. The operation reportedly engages about 600,000 sca…
 
 
-### OTHER on 2026-08-21 00:56
-- Location: Thechronicle.com.gh
-- Description: The Ghana Police Service is mandated to maintain law and order. Its mandate is enshrined in the 1992 Constitution and further guided by laws such as the Police Service Act, 1970 (Act 350) and the Police Service Regulations, 2012 (C.I. 76). Its core functions …
+### HOMICIDE on 2026-08-21 06:00
+- Location: Naturalnews.com
+- Description: Israeli National Security Minister Itamar Ben-Gvir said Tuesday that Israel is building an execution facility for Palestinian prisoners sentenced to death on terrorism charges. According to video footage presented by the minister, the facility is housed in a …
 
-Analysis generated at: Sat Aug 22 01:27:37 UTC 2026
+Analysis generated at: Sat Aug 22 06:29:54 UTC 2026
