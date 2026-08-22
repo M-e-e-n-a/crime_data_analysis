@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Aug 22 06:29:54 UTC 2026
+Last updated: Sat Aug 22 12:27:19 UTC 2026
 
 ## Latest Analysis
 
-Loaded 126308 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-21 06:21:09
+Loaded 126363 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-21 12:20:06
 
 Incidents by source:
 source
-newsapi           126207
+newsapi           126262
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-08-21 06:21
-- Location: ABC News (AU)
-- Description: Northern Territory Police Commissioner Martin Dole has told rank-and-file officers the investigation into the alleged murder of of Kumanjayi Little Baby in Alice Springs was a moment that will "stay with you forever".
-
-
-### HOMICIDE on 2026-08-21 06:17
-- Location: Abcnews.com
-- Description: Jurors heard Duane “Keffe D” Davis tell detectives in 2008 that his nephew Orlando “Baby Lane” Anderson fired the shots that killed Tupac Shakur
-
-
-### HOMICIDE on 2026-08-21 06:08
+### OTHER on 2026-08-21 12:20
 - Location: New York Post
-- Description: "I would rather do the lesser time than spend the next 53 years of my life behind bars."
+- Description: "I feel like it was these desks,” the teacher says.
 
 
-### OTHER on 2026-08-21 06:00
-- Location: Naturalnews.com
-- Description: According to a report by Cointelegraph Magazine, a network of 200,000 artificial intelligence (AI)-generated characters designed to resemble potential scam victims is being deployed against online fraudsters. The operation reportedly engages about 600,000 sca…
+### OTHER on 2026-08-21 12:10
+- Location: The Times of India
+- Description: US News: Beverly Hills is known for some of the most expensive residential property in Los Angeles, where large homes can change hands for tens of millions of .
 
 
-### HOMICIDE on 2026-08-21 06:00
-- Location: Naturalnews.com
-- Description: Israeli National Security Minister Itamar Ben-Gvir said Tuesday that Israel is building an execution facility for Palestinian prisoners sentenced to death on terrorism charges. According to video footage presented by the minister, the facility is housed in a …
+### OTHER on 2026-08-21 12:00
+- Location: Globalsecurity.org
+- Description: Independent journalists and government critics in Kazakhstan are facing growing pressure ahead of parliamentary elections this weekend, rights groups say, pointing to criminal investigations, detentions, travel restrictions, and court-ordered bans on journali…
 
-Analysis generated at: Sat Aug 22 06:29:54 UTC 2026
+
+### HOMICIDE on 2026-08-21 11:51
+- Location: Haaretz
+- Description: A 31-year-old man was killed Friday near Arraba in the Lower Galilee in what police described as a criminal shooting. The killing comes amid a continued wave of violence in Israel's Arab community, with at least 158 Arabs killed since the start of the year
+
+
+### OTHER on 2026-08-21 11:48
+- Location: Dailymail.com
+- Description: Joe Carthy, 15, was one of five teenagers who died when the car they were travelling in collided head-on with another vehicle while being driven against traffic on the M9 in County Kildare.
+
+Analysis generated at: Sat Aug 22 12:27:19 UTC 2026
