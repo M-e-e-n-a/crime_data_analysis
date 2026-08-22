@@ -1,10 +1,10 @@
 
-Loaded 126365 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-21 12:48:04
+Loaded 126462 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-21 18:09:38
 
 Incidents by source:
 source
-newsapi           126264
+newsapi           126361
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-08-21 12:48
-- Location: Cointelegraph
-- Description: Binance’s employees were cleared and released after providing statements to UAE authorities about third-party fund flows through a company client account, a spokesperson told Cointelegraph.
-
-
-### HOMICIDE on 2026-08-21 12:44
+### HOMICIDE on 2026-08-21 18:09
 - Location: BBC News
-- Description: Raymond Williams killed estranged wife Tania after tracking her down on a night out with friends.
+- Description: A recording of the interview Duane Davis conducted with detectives was played to the jury.
 
 
-### OTHER on 2026-08-21 12:20
-- Location: New York Post
-- Description: "I feel like it was these desks,” the teacher says.
+### HOMICIDE on 2026-08-21 18:09
+- Location: BBC News
+- Description: A recording of the interview Duane Davis conducted with detectives was played to the jury.
 
 
-### OTHER on 2026-08-21 12:10
-- Location: The Times of India
-- Description: US News: Beverly Hills is known for some of the most expensive residential property in Los Angeles, where large homes can change hands for tens of millions of .
+### OTHER on 2026-08-21 18:00
+- Location: HuffPost
+- Description: The Center for American Progress said it will not retract the report despite Trump’s pledge of a $5 billion lawsuit.
 
 
-### OTHER on 2026-08-21 12:00
-- Location: Globalsecurity.org
-- Description: Independent journalists and government critics in Kazakhstan are facing growing pressure ahead of parliamentary elections this weekend, rights groups say, pointing to criminal investigations, detentions, travel restrictions, and court-ordered bans on journali…
+### OTHER on 2026-08-21 18:00
+- Location: Nakedcapitalism.com
+- Description: Part the First: Is There No Place to Hide, or Just Be Yourself? Caitlin Johnstone points out once again that while we have been snoozing happily in a virtual haze, we are being followed by the latest incarnation of Big Brother to come along.  From Today in Dy…
 
-Analysis generated at: Sat Aug 22 12:48:49 UTC 2026
+
+### ROBBERY/THEFT on 2026-08-21 18:00
+- Location: Motorsport.com
+- Description: Franco Colapinto has revealed how thieves stole his clothes, passport and personal belongings from his car in Milan during the F1 summer break
+
+Analysis generated at: Sat Aug 22 18:21:48 UTC 2026
