@@ -1,10 +1,10 @@
 
-Loaded 126363 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-21 12:20:06
+Loaded 126365 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-21 12:48:04
 
 Incidents by source:
 source
-newsapi           126262
+newsapi           126264
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,6 +20,16 @@ ion.svg)
 
 ## Recent Incidents
 
+### OTHER on 2026-08-21 12:48
+- Location: Cointelegraph
+- Description: Binance’s employees were cleared and released after providing statements to UAE authorities about third-party fund flows through a company client account, a spokesperson told Cointelegraph.
+
+
+### HOMICIDE on 2026-08-21 12:44
+- Location: BBC News
+- Description: Raymond Williams killed estranged wife Tania after tracking her down on a night out with friends.
+
+
 ### OTHER on 2026-08-21 12:20
 - Location: New York Post
 - Description: "I feel like it was these desks,” the teacher says.
@@ -34,14 +44,4 @@ ion.svg)
 - Location: Globalsecurity.org
 - Description: Independent journalists and government critics in Kazakhstan are facing growing pressure ahead of parliamentary elections this weekend, rights groups say, pointing to criminal investigations, detentions, travel restrictions, and court-ordered bans on journali…
 
-
-### HOMICIDE on 2026-08-21 11:51
-- Location: Haaretz
-- Description: A 31-year-old man was killed Friday near Arraba in the Lower Galilee in what police described as a criminal shooting. The killing comes amid a continued wave of violence in Israel's Arab community, with at least 158 Arabs killed since the start of the year
-
-
-### OTHER on 2026-08-21 11:48
-- Location: Dailymail.com
-- Description: Joe Carthy, 15, was one of five teenagers who died when the car they were travelling in collided head-on with another vehicle while being driven against traffic on the M9 in County Kildare.
-
-Analysis generated at: Sat Aug 22 12:27:19 UTC 2026
+Analysis generated at: Sat Aug 22 12:48:49 UTC 2026
