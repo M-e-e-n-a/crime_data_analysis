@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Aug 23 06:31:47 UTC 2026
+Last updated: Sun Aug 23 12:27:56 UTC 2026
 
 ## Latest Analysis
 
-Loaded 126508 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-22 06:24:31
+Loaded 126554 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-22 12:13:49
 
 Incidents by source:
 source
-newsapi           126407
+newsapi           126453
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-08-22 06:24
-- Location: Everything-everywhere.com
-- Description: Podcast Transcript According to the US Census, the single largest ethnic group in the United States are Germans. More than 40 million Americans identified their ancestry as German. Driven from Europe by unrest, poverty, famine, and religious persecution, Germ…
-
-
-### OTHER on 2026-08-22 06:23
+### OTHER on 2026-08-22 12:13
 - Location: The Times of India
-- Description: The Delhi High Court ruled that predicate offence protection does not extend to money laundering cases.  Anticipatory bail was denied to a businessman facing Enforcement Directorate prosecution.  The court emphasized economic offences require a distinct and s…
+- Description: The Faizabad Bar Association is demanding an FIR against Champat Rai and others for alleged donation irregularities. Lawyers allege government protection for those accused in the Ram Mandir donation case. A delegation met the Senior Superintendent of Police s…
 
 
-### ROBBERY/THEFT on 2026-08-22 06:00
-- Location: RTE
-- Description: RTÉ Clarity analysed 51 joyriding videos to identify what the material reveals about the online subculture surrounding the behaviour
+### HOMICIDE on 2026-08-22 12:08
+- Location: CNA
+- Description: "The investigators are looking into various online communities which might have egged on the suspect to carry out the attack," said a police source.
 
 
-### HOMICIDE on 2026-08-22 05:33
-- Location: New York Post
-- Description: The grieving parents of slain Karoline Heintz, the Pennsylvania university soccer star who was found allegedly stabbed to death by her boyfriend, expressed that they are living a "parent's worst nightmare."
+### ROBBERY/THEFT on 2026-08-22 12:04
+- Location: The Times of India
+- Description: Gidhour police in Chatra arrested Mohammad Rizwan for a house theft, recovering Rs 25,000 cash, mobile phone and other items; probe continues.
 
 
-### OTHER on 2026-08-22 05:23
-- Location: BBC News
-- Description: Det Con Dane Wyatt says the licensing system helps prevent illegal wildlife crime.
+### ROBBERY/THEFT on 2026-08-22 12:00
+- Location: RT
+- Description: Ukrainian corruption kingpin Timur Mindich stole cash meant to protect the power grid, and Russia’s winter energy strikes have started early Read Full Article at RT.com
 
-Analysis generated at: Sun Aug 23 06:31:47 UTC 2026
+
+### HOMICIDE on 2026-08-22 11:47
+- Location: Abcnews.com
+- Description: Police in Sweden say the victim of a deadly sword attack at a school was a 17-year-old girl
+
+Analysis generated at: Sun Aug 23 12:27:56 UTC 2026
