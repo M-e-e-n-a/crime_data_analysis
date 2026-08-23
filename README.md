@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Aug 22 18:21:48 UTC 2026
+Last updated: Sun Aug 23 00:58:11 UTC 2026
 
 ## Latest Analysis
 
-Loaded 126462 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-21 18:09:38
+Loaded 126467 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-22 00:50:08
 
 Incidents by source:
 source
-newsapi           126361
+newsapi           126366
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,30 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-08-21 18:09
-- Location: BBC News
-- Description: A recording of the interview Duane Davis conducted with detectives was played to the jury.
+### ASSAULT on 2026-08-22 00:50
+- Location: New York Post
+- Description: NYPD Commissioner Jessica Tisch promised Jewish institutions across the Big Apple will “not be left to protect themselves” against antisemitism “without a partner in the NYPD."
 
 
-### HOMICIDE on 2026-08-21 18:09
-- Location: BBC News
-- Description: A recording of the interview Duane Davis conducted with detectives was played to the jury.
+### HOMICIDE on 2026-08-22 00:05
+- Location: The Punch
+- Description: Three vigilantes arrested in Bauchi after a 39-year-old man died in their custody. Police investigate the vigilante death and warn against jungle justice.
+
+Read More: https://punchng.com/three-vigilantes-held-over-mans-death/
 
 
-### OTHER on 2026-08-21 18:00
-- Location: HuffPost
-- Description: The Center for American Progress said it will not retract the report despite Trump’s pledge of a $5 billion lawsuit.
+### HOMICIDE on 2026-08-22 00:01
+- Location: Dailymail.com
+- Description: Two very different tribes gathered in Carlow, a market town just over an hour's drive south of Dublin, last night.
 
 
-### OTHER on 2026-08-21 18:00
-- Location: Nakedcapitalism.com
-- Description: Part the First: Is There No Place to Hide, or Just Be Yourself? Caitlin Johnstone points out once again that while we have been snoozing happily in a virtual haze, we are being followed by the latest incarnation of Big Brother to come along.  From Today in Dy…
+### OTHER on 2026-08-22 00:01
+- Location: Dailymail.com
+- Description: On a spring evening four years ago, the peace of a Bristol cul-de-sac was shattered by what a judge would later describe as 'shouts and screams of a horrifying nature'.
 
 
-### ROBBERY/THEFT on 2026-08-21 18:00
-- Location: Motorsport.com
-- Description: Franco Colapinto has revealed how thieves stole his clothes, passport and personal belongings from his car in Milan during the F1 summer break
+### HOMICIDE on 2026-08-22 00:00
+- Location: Decider
+- Description: Happy wide release weekend toTeenage Sex and Death at Camp Miasma.
 
-Analysis generated at: Sat Aug 22 18:21:48 UTC 2026
+Analysis generated at: Sun Aug 23 00:58:11 UTC 2026
