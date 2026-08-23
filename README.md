@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Aug 23 00:58:11 UTC 2026
+Last updated: Sun Aug 23 01:40:52 UTC 2026
 
 ## Latest Analysis
 
-Loaded 126467 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-22 00:50:08
+Loaded 126476 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-22 01:40:29
 
 Incidents by source:
 source
-newsapi           126366
+newsapi           126375
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,30 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2026-08-22 00:50
-- Location: New York Post
-- Description: NYPD Commissioner Jessica Tisch promised Jewish institutions across the Big Apple will “not be left to protect themselves” against antisemitism “without a partner in the NYPD."
-
-
-### HOMICIDE on 2026-08-22 00:05
-- Location: The Punch
-- Description: Three vigilantes arrested in Bauchi after a 39-year-old man died in their custody. Police investigate the vigilante death and warn against jungle justice.
-
-Read More: https://punchng.com/three-vigilantes-held-over-mans-death/
-
-
-### HOMICIDE on 2026-08-22 00:01
+### ASSAULT on 2026-08-22 01:40
 - Location: Dailymail.com
-- Description: Two very different tribes gathered in Carlow, a market town just over an hour's drive south of Dublin, last night.
+- Description: A 15-year-old boy is fighting for life after being stabbed while out in Terrigal on the Central Coast.
 
 
-### OTHER on 2026-08-22 00:01
+### SHOOTING on 2026-08-22 01:39
+- Location: CNA
+- Description: The Australian Capital Territory has 23,000 guns and more than 7,000 firearms licence holders, Prime Minister Anthony Albanese said.
+
+
+### OTHER on 2026-08-22 01:18
 - Location: Dailymail.com
-- Description: On a spring evening four years ago, the peace of a Bristol cul-de-sac was shattered by what a judge would later describe as 'shouts and screams of a horrifying nature'.
+- Description: Thomas Ridgway, 31, (left) was suspended from Heathfield, an independent girls' school in Ascot, Berkshire, after his partner Matthew Linfield (right) was jailed for six-and-a-half years for his crimes.
 
 
-### HOMICIDE on 2026-08-22 00:00
-- Location: Decider
-- Description: Happy wide release weekend toTeenage Sex and Death at Camp Miasma.
+### HOMICIDE on 2026-08-22 01:16
+- Location: Billboard
+- Description: Week 1 of Tupac Shakur's murder trial saw dramatic opening statements, heated testimony, and an infamous tape recording of Duane "Keffe D" Davis.
 
-Analysis generated at: Sun Aug 23 00:58:11 UTC 2026
+
+### HOMICIDE on 2026-08-22 01:11
+- Location: The Big Lead
+- Description: Boxing champion Zolani Tete was shot dead in his hometime of Mdantsane, Eastern Cap, South Africa, while returning from the gym.
+
+Analysis generated at: Sun Aug 23 01:40:52 UTC 2026
