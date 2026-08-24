@@ -1,10 +1,10 @@
 
-Loaded 126664 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-23 01:34:15
+Loaded 126699 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-23 06:37:11
 
 Incidents by source:
 source
-newsapi           126563
+newsapi           126598
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,30 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2026-08-23 01:34
-- Location: BBC News
-- Description: Two boys aged 12 and 17 were also injured in the attack, while an 18-year-old suspect has been detained.
+### HOMICIDE on 2026-08-23 06:37
+- Location: Rlsbb.cc
+- Description: Three Housewives and a Body (original title) Plot: Three suburban women-Lorelai, Ella, and Jackie-find their comfortable lives shattered when a masked intruder breaks into Jackie's house. In the chaos, Lorelai kills him while defending her friends. When the m…
 
 
-### OTHER on 2026-08-23 01:22
-- Location: Fox News
-- Description: Amanda Maria Souza de Oliveira, 37, lived with a family as their daughter for 14 months before her elaborate child identity fraud was uncovered.
+### OTHER on 2026-08-23 06:20
+- Location: The Times of India
+- Description: A 31-year-old MSc Physics student at IIT Delhi died after allegedly jumping from the sixth floor of a campus building. Police found no suicide note but recovered his mobile phone and are checking counselling records and other information as they investigate t…
 
 
-### SHOOTING on 2026-08-23 01:05
-- Location: Yahoo Entertainment
-- Description: San Pedro coach Corey Walsh said "it was crazy" in describing the scene as sirens and police cars arrived at a game that was halted in the third quarter.
+### SHOOTING on 2026-08-23 06:10
+- Location: New York Post
+- Description: An Ohio doctor who published a study on "the violent and homicidal adolescent" was gunned down by her teen daughter's boyfriend and his roommate in an alleged hit against her parents.
 
 
-### OTHER on 2026-08-23 01:00
-- Location: Screen Rant
-- Description: A six season police procedural on Paramount+ combines the thrilling mysteries of Tracker with the Western family drama of Yellowstone perfectly.
+### HOMICIDE on 2026-08-23 05:56
+- Location: Dailymail.com
+- Description: Sergio Ivan Rivera-Vega, 32, is accused of deliberately setting a California house fire that killed his father Jose Rivera, 47, nephew Andrew, five, Joline, two and their mother, 33.
 
 
-### ROBBERY/THEFT on 2026-08-23 00:18
-- Location: The Punch
-- Description: Scavengers are stripping Lagos bridges, homes, and infrastructure for scrap metal, causing structural damage and raising safety concerns. Learn about the w
+### HOMICIDE on 2026-08-23 05:55
+- Location: The Times of India
+- Description: An arrest warrant has been issued for Alex James Barnett in connection with a murder investigation. Detectives are seeking public assistance to identify two additional suspects in this case. Online users are drawing comparisons between Barnett and a suspect i…
 
-Read More: https://punchng.com/scavengers-strip-lagos-bridges-homes-in-widespread-theft/
-
-Analysis generated at: Mon Aug 24 01:39:41 UTC 2026
+Analysis generated at: Mon Aug 24 06:43:44 UTC 2026
