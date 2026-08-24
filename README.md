@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Aug 23 18:21:17 UTC 2026
+Last updated: Mon Aug 24 00:56:09 UTC 2026
 
 ## Latest Analysis
 
-Loaded 126653 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-22 18:12:53
+Loaded 126660 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-23 00:18:22
 
 Incidents by source:
 source
-newsapi           126552
+newsapi           126559
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,32 @@ ion.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2026-08-22 18:12
-- Location: The Times of India
-- Description: Domestic help in central Kolkata allegedly assaulted and held 60-year-old landlady hostage, fleeing with gold jewellery and Rs 60,000-70,000; police search on.
+### ROBBERY/THEFT on 2026-08-23 00:18
+- Location: The Punch
+- Description: Scavengers are stripping Lagos bridges, homes, and infrastructure for scrap metal, causing structural damage and raising safety concerns. Learn about the w
+
+Read More: https://punchng.com/scavengers-strip-lagos-bridges-homes-in-widespread-theft/
 
 
-### ASSAULT on 2026-08-22 18:12
-- Location: The Times of India
-- Description: CJP alleges police ignored calls during Bagru attack and claims BJP links; says “School Thik Karo” govt school inspection campaign will continue despite clash.
+### OTHER on 2026-08-23 00:11
+- Location: New York Post
+- Description: A car can become dangerously hot within minutes, even if the windows are cracked.
 
 
-### OTHER on 2026-08-22 18:11
-- Location: The Times of India
-- Description: Kolkata police cleared encroachment at Shreeram Arcade, Humayun Place after shopkeepers confronted hawkers over blocked access and harassment claims.
+### OTHER on 2026-08-23 00:07
+- Location: Bleeding Cool News
+- Description: January 2nd was "Revival Day" in writer Tim Seeley and artist Mike Norton's Image Comics series. June 12th was a kind of "Revival Day," marking the date in 2025 when the live-action series adaptation by showrunners Aaron B. Koontz and Luke Boyce premiered on …
 
 
-### OTHER on 2026-08-22 18:07
-- Location: The Times of India
-- Description: Arjun Ayanki granted bail in Kannur cybercrime case, but remains jailed as he faces other cases; Kaapa invoked, fresh arrest and transfer to Kannur Central Jail.
+### OTHER on 2026-08-23 00:03
+- Location: The Punch
+- Description: Pelumi Olajengbesi, Adeleke’s campaign spokesperson, states Tinubu provided no support for Adeleke’s victory, attributing it to the will of Osun people.
+
+Read More: https://punchng.com/tinubu-didnt-provide-any-support-to-adeleke-campaign-spokesperson-olajengb…
 
 
-### ROBBERY/THEFT on 2026-08-22 18:05
-- Location: The Times of India
-- Description: Fraudster posing as a company director dupes Bhopal nationalised bank into two RTGS transfers totalling Rs 15.65 lakh; police probe beneficiary accounts.
+### OTHER on 2026-08-23 00:00
+- Location: Dailymail.com
+- Description: What is going on in Cheshire's police force. This bold body once made a boastful film about how they caught Lucy Letby. Now they have suddenly got rid of their Chief Constable, two years early.
 
-Analysis generated at: Sun Aug 23 18:21:17 UTC 2026
+Analysis generated at: Mon Aug 24 00:56:09 UTC 2026
