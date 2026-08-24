@@ -1,10 +1,10 @@
 
-Loaded 126724 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-23 12:34:44
+Loaded 126725 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-23 12:44:16
 
 Incidents by source:
 source
-newsapi           126623
+newsapi           126624
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -19,6 +19,11 @@ ion.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### HOMICIDE on 2026-08-23 12:44
+- Location: The Times of India
+- Description: A red suitcase containing decomposed human remains found at Agra Cantt railway station has led investigators to a rented house in Chennai, police told India Today. CCTV footage allegedly showed a man and woman carrying the luggage into Chennai Central before …
+
 
 ### OTHER on 2026-08-23 12:34
 - Location: Abcnews.com
@@ -39,9 +44,4 @@ ion.svg)
 - Location: Dailymail.com
 - Description: Zac Brettler, 19, died after jumping from the fifth floor of a luxury London apartment and into the river Thames. What drove him to jump from the balcony is a mystery.
 
-
-### OTHER on 2026-08-23 11:52
-- Location: The Atlantic
-- Description: Since the country’s founding, deployments of soldiers to U.S. soil have been exceedingly rare. But residents of Washington, D.C., are living in a new normal.
-
-Analysis generated at: Mon Aug 24 12:37:32 UTC 2026
+Analysis generated at: Mon Aug 24 12:59:35 UTC 2026
