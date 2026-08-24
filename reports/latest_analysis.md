@@ -1,10 +1,10 @@
 
-Loaded 126725 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-23 12:44:16
+Loaded 126824 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-23 18:19:50
 
 Incidents by source:
 source
-newsapi           126624
+newsapi           126723
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-08-23 12:44
+### SHOOTING on 2026-08-23 18:19
+- Location: Yahoo Entertainment
+- Description: Ahmad Hardy, an Associated Press All-America running back, will miss Missouri's season-opening game as he recovers from being shot in the leg three months ago. “Hopefully, he can keep working and try to get back as soon as possible,” coach Eli Drinkwitz said …
+
+
+### HOMICIDE on 2026-08-23 18:19
 - Location: The Times of India
-- Description: A red suitcase containing decomposed human remains found at Agra Cantt railway station has led investigators to a rented house in Chennai, police told India Today. CCTV footage allegedly showed a man and woman carrying the luggage into Chennai Central before …
+- Description: Haryana STF and Hisar police arrest prime accused Ramesh Atri in Gujarat in Jeewan Kundu murder case after protests and toll plaza shutdowns in Hisar.
 
 
-### OTHER on 2026-08-23 12:34
-- Location: Abcnews.com
-- Description: Iran's president has defended a memorandum of understanding with the U.S. as the best way to end a stalled conflict
+### SHOOTING on 2026-08-23 18:08
+- Location: CBC News
+- Description: The RCMP have arrested a person suspected of a shooting on Saturday morning that injured three people and prompted a community-wide lockdown of over 13 hours.
 
 
-### ROBBERY/THEFT on 2026-08-23 12:32
+### ROBBERY/THEFT on 2026-08-23 18:06
 - Location: The Times of India
-- Description: Bhubaneswar police arrested 19-year-old Mandeep Choudhury for stealing a car by towing it with a rented vehicle; he has prior vehicle theft cases.
+- Description: Kolkata tourist fraud cases: Behala man loses ₹1.74 lakh in Nainital hotel booking scam; iPhone theft used to create UPI and siphon ₹15,000; police warn travelers.
 
 
-### HOMICIDE on 2026-08-23 12:09
-- Location: Newser
-- Description: A former world champion boxer is dead after a shooting in South Africa. Zolani Tete, a former two-division champ, was killed Friday in Mdantsane when two masked men reportedly stepped out of a car and opened fire as he arrived home, reports the Guardian . The…
+### SHOOTING on 2026-08-23 17:59
+- Location: The Times of India
+- Description: Retired Army man Rambabu Rajput, 55, allegedly dies by suicide in Kanpur’s Barra after shooting himself with a licensed gun; police cite possible depression.
 
-
-### HOMICIDE on 2026-08-23 11:52
-- Location: Dailymail.com
-- Description: Zac Brettler, 19, died after jumping from the fifth floor of a luxury London apartment and into the river Thames. What drove him to jump from the balcony is a mystery.
-
-Analysis generated at: Mon Aug 24 12:59:35 UTC 2026
+Analysis generated at: Mon Aug 24 18:32:25 UTC 2026
