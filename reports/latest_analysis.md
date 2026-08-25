@@ -1,10 +1,10 @@
 
-Loaded 126824 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-23 18:19:50
+Loaded 126831 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-24 00:52:27
 
 Incidents by source:
 source
-newsapi           126723
+newsapi           126730
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-08-23 18:19
-- Location: Yahoo Entertainment
-- Description: Ahmad Hardy, an Associated Press All-America running back, will miss Missouri's season-opening game as he recovers from being shot in the leg three months ago. “Hopefully, he can keep working and try to get back as soon as possible,” coach Eli Drinkwitz said …
+### ASSAULT on 2026-08-24 00:52
+- Location: Dailymail.com
+- Description: Zymire Hughes, 22, has fled Philadelphia amid an arrest warrant charging him with making terroristic threats, harassment, simple assault, reckless endangerment and witness intimidation.
 
 
-### HOMICIDE on 2026-08-23 18:19
-- Location: The Times of India
-- Description: Haryana STF and Hisar police arrest prime accused Ramesh Atri in Gujarat in Jeewan Kundu murder case after protests and toll plaza shutdowns in Hisar.
+### HOMICIDE on 2026-08-24 00:46
+- Location: Abcnews.com
+- Description: Oregon authorities say they're investigating the deaths of five people found on a rural property outside Portland as a quintuple homicide
 
 
-### SHOOTING on 2026-08-23 18:08
-- Location: CBC News
-- Description: The RCMP have arrested a person suspected of a shooting on Saturday morning that injured three people and prompted a community-wide lockdown of over 13 hours.
+### ROBBERY/THEFT on 2026-08-24 00:18
+- Location: Dailymail.com
+- Description: True, it is not quite up there with the recent high-profile by-elections in Clacton (Farage v Binface) or Gorton (Greens v Reform), let alone Andy Burnham's victory-cum-coronation in Makerfield.
 
 
-### ROBBERY/THEFT on 2026-08-23 18:06
-- Location: The Times of India
-- Description: Kolkata tourist fraud cases: Behala man loses ₹1.74 lakh in Nainital hotel booking scam; iPhone theft used to create UPI and siphon ₹15,000; police warn travelers.
+### OTHER on 2026-08-24 00:07
+- Location: WPLG Local 10
+- Description: The new head of Iran's top security body warned Sunday that Tehran will see any country's support for new U.S. economic measures against the Islamic Republic as an “act of war,” while Iran's president defended a memorandum of understanding with the United Sta…
 
 
-### SHOOTING on 2026-08-23 17:59
-- Location: The Times of India
-- Description: Retired Army man Rambabu Rajput, 55, allegedly dies by suicide in Kanpur’s Barra after shooting himself with a licensed gun; police cite possible depression.
+### OTHER on 2026-08-24 00:03
+- Location: Dailymail.com
+- Description: Amid warnings that Facebook encryption protocols are putting young British lives in danger, Labour's apparent drive to cosy up to Big Tech firms is causing concern
 
-Analysis generated at: Mon Aug 24 18:32:25 UTC 2026
+Analysis generated at: Tue Aug 25 00:56:12 UTC 2026
