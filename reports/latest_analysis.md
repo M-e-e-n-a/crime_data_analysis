@@ -1,10 +1,10 @@
 
-Loaded 126831 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-24 00:52:27
+Loaded 126836 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-24 01:26:37
 
 Incidents by source:
 source
-newsapi           126730
+newsapi           126735
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,43 @@ ion.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2026-08-24 00:52
+### HOMICIDE on 2026-08-24 01:26
+- Location: The Times of India
+- Description: On Sunday, in a post on X, Wali said the audio contained "explosive evidence" and claimed that Brar admitted his gang had ordered Nijjar's killing, alleging that the assassination was driven by an inter-gang feud.
+
+
+### HOMICIDE on 2026-08-24 01:26
 - Location: Dailymail.com
-- Description: Zymire Hughes, 22, has fled Philadelphia amid an arrest warrant charging him with making terroristic threats, harassment, simple assault, reckless endangerment and witness intimidation.
+- Description: An arrest warrant was issued for fugitive Karen Solomon, charging her with assault and battery, after she allegedly murdered her cop husband.
 
 
-### HOMICIDE on 2026-08-24 00:46
-- Location: Abcnews.com
-- Description: Oregon authorities say they're investigating the deaths of five people found on a rural property outside Portland as a quintuple homicide
+### HOMICIDE on 2026-08-24 01:25
+- Location: menshealth.com
+- Description: Lanterns introduces the Manhunters, killer androids tied to Green Lantern lore, DC retcons, and even a strange Martian Manhunter connection.
 
 
-### ROBBERY/THEFT on 2026-08-24 00:18
-- Location: Dailymail.com
-- Description: True, it is not quite up there with the recent high-profile by-elections in Clacton (Farage v Binface) or Gorton (Greens v Reform), let alone Andy Burnham's victory-cum-coronation in Makerfield.
+### ASSAULT on 2026-08-24 01:21
+- Location: The Punch
+- Description: Suspected bandits have abducted a monarch, a Baale’s wife, and others in fresh Kwara abductions, sparking renewed calls for security intervention.
+
+Read More: https://punchng.com/kwara-attacks-monarch-baales-wife-others-feared-abducted/
 
 
-### OTHER on 2026-08-24 00:07
-- Location: WPLG Local 10
-- Description: The new head of Iran's top security body warned Sunday that Tehran will see any country's support for new U.S. economic measures against the Islamic Republic as an “act of war,” while Iran's president defended a memorandum of understanding with the United Sta…
+### OTHER on 2026-08-24 01:00
+- Location: Human Rights Watch
+- Description: Click to expand Image
+ 
 
 
-### OTHER on 2026-08-24 00:03
-- Location: Dailymail.com
-- Description: Amid warnings that Facebook encryption protocols are putting young British lives in danger, Labour's apparent drive to cosy up to Big Tech firms is causing concern
 
-Analysis generated at: Tue Aug 25 00:56:12 UTC 2026
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Prison vans transport former ministers and leaders of the Bangladesh Awami League party to jail after their court hearing from the Bangladesh International Crimes Tribunal (ICT) in Dhaka, Bangladesh, on November 18, …
+
+Analysis generated at: Tue Aug 25 01:28:47 UTC 2026
