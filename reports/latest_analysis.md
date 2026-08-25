@@ -1,10 +1,10 @@
 
-Loaded 126953 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-24 12:55:48
+Loaded 127045 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-24 18:26:58
 
 Incidents by source:
 source
-newsapi           126852
+newsapi           126944
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,29 +20,30 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-08-24 12:55
-- Location: Mediatakeout.com
-- Description: Blueface ended up on his knees in handcuffs Sunday night after deputies swarmed a Santa Clarita restaurant over what authorities later determined was an apparent swatting call. The rapper was inside with Nevaeh Akira and their newborn child when Los Angeles C…
+### HOMICIDE on 2026-08-24 18:26
+- Location: Fox News
+- Description: U.S. ICE arrested 1,328 illegal immigrants in Virginia and Maryland in just 14 days, including a Salvadoran alien wanted on a murder warrant.
 
 
-### HOMICIDE on 2026-08-24 12:54
+### OTHER on 2026-08-24 18:25
+- Location: The Punch
+- Description: Ondo State Amotekun Corps has arrested 10 suspected criminals, including kidnappers and thieves, across the state. Learn more about the Amotekun arrests.
+
+Read More: https://punchng.com/amotekun-arrests-10-suspected-criminals-in-ondo/
+
+
+### OTHER on 2026-08-24 18:25
+- Location: TheSpec.com
+- Description: Cast, crew and the author of the hit book series were seen on set at a local funeral home Monday
+
+
+### OTHER on 2026-08-24 18:23
+- Location: New York Post
+- Description: The unidentified young female filchers swiped a total of $2,500 in the women's accessories from the two stores at the Tanger Outlets in Deer Park on Aug. 6, according to the Suffolk County Police Department.
+
+
+### HOMICIDE on 2026-08-24 18:23
 - Location: The Times of India
-- Description: Four individuals have been arrested in South Africa following the fatal shooting of boxing champion Zolani Tete. Tete was ambushed outside his home and died at the scene, while a woman with him was injured. Police are investigating the motive behind the attac…
+- Description: CM Yogi Adityanath targets UP Congress chief Ajay Rai, alleging he bowed to mafia linked to his brother’s murder; also mocks Rai over eating fish.
 
-
-### HOMICIDE on 2026-08-24 12:54
-- Location: Dailymail.com
-- Description: Nine men and three women have been arrested by officers investigating the events leading up to the crash on the A66 which left Pc Matthew Blades and Pc Tom Clough dead.
-
-
-### OTHER on 2026-08-24 12:49
-- Location: Globalresearch.ca
-- Description: Over the past two decades, hardline Ukrainian ultranationalists have waged an ever-escalating war on history at home and abroad, with dramatic, world-changing consequences. 
-In the country itself, a highly repressive legal apparatus is increasingly enforcing …
-
-
-### HOMICIDE on 2026-08-24 12:48
-- Location: Al Jazeera English
-- Description: Tete, who won world WBF flyweight and WBO bantamweight titles, was killed outside his home in Eastern Cape last week.
-
-Analysis generated at: Tue Aug 25 12:55:56 UTC 2026
+Analysis generated at: Tue Aug 25 18:32:23 UTC 2026
