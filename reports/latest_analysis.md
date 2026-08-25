@@ -1,10 +1,10 @@
 
-Loaded 126944 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-24 12:35:44
+Loaded 126953 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-24 12:55:48
 
 Incidents by source:
 source
-newsapi           126843
+newsapi           126852
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,29 +20,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-08-24 12:35
-- Location: Reason
-- Description: Yes, Judge John Milton Younge (E.D. Pa.) suggested Friday in Hiester v. School District of Philadelphia: The crux of Plaintiffs'…
+### OTHER on 2026-08-24 12:55
+- Location: Mediatakeout.com
+- Description: Blueface ended up on his knees in handcuffs Sunday night after deputies swarmed a Santa Clarita restaurant over what authorities later determined was an apparent swatting call. The rapper was inside with Nevaeh Akira and their newborn child when Los Angeles C…
 
 
-### ASSAULT on 2026-08-24 12:34
-- Location: BBC News
-- Description: Cleveland Police say they received reports of two vehicles being driven dangerously before the fatal collision on Saturday, with one seen "ramming properties".
+### HOMICIDE on 2026-08-24 12:54
+- Location: The Times of India
+- Description: Four individuals have been arrested in South Africa following the fatal shooting of boxing champion Zolani Tete. Tete was ambushed outside his home and died at the scene, while a woman with him was injured. Police are investigating the motive behind the attac…
 
 
-### HOMICIDE on 2026-08-24 12:31
-- Location: The Hollywood Gossip
-- Description: Reading Time: 2 minutesSean Grayson was a former sheriff's deputy. The shooting death of Sonya Massey prompted a new state law in her name.
-Sean Grayson, Convicted Murderer of Sonya Massey, Dies in Prison was originally published on The Hollywood Gossip.
+### HOMICIDE on 2026-08-24 12:54
+- Location: Dailymail.com
+- Description: Nine men and three women have been arrested by officers investigating the events leading up to the crash on the A66 which left Pc Matthew Blades and Pc Tom Clough dead.
 
 
-### ASSAULT on 2026-08-24 12:21
-- Location: CBM (Comic Book Movie)
-- Description: New footage from the set of The Batman Part II reveals a closer look at a character many fans believe is being played by Scarlett Johansson, along with the hero's escape from the GCPD.
+### OTHER on 2026-08-24 12:49
+- Location: Globalresearch.ca
+- Description: Over the past two decades, hardline Ukrainian ultranationalists have waged an ever-escalating war on history at home and abroad, with dramatic, world-changing consequences. 
+In the country itself, a highly repressive legal apparatus is increasingly enforcing …
 
 
-### HOMICIDE on 2026-08-24 12:16
-- Location: Abcnews.com
-- Description: South African police have arrested four suspects in the killing of former world champion boxer Zolani Tete
+### HOMICIDE on 2026-08-24 12:48
+- Location: Al Jazeera English
+- Description: Tete, who won world WBF flyweight and WBO bantamweight titles, was killed outside his home in Eastern Cape last week.
 
-Analysis generated at: Tue Aug 25 12:36:57 UTC 2026
+Analysis generated at: Tue Aug 25 12:55:56 UTC 2026
