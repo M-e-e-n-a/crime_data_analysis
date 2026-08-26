@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Aug 26 06:38:52 UTC 2026
+Last updated: Wed Aug 26 12:40:33 UTC 2026
 
 ## Latest Analysis
 
-Loaded 127102 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-25 06:33:53
+Loaded 127157 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-25 12:35:58
 
 Incidents by source:
 source
-newsapi           127001
+newsapi           127056
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,29 +24,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-08-25 06:33
+### OTHER on 2026-08-25 12:35
+- Location: Twistedsifter.com
+- Description: He needs to file a police report and call his insurance company right away. 
+The post His Neighbors’ Illegal Fireworks Took a Bizarre, Unpredictable Path—Cracking His Siding and Shattering His Window in the Process appeared first on TwistedSifter.
+
+
+### OTHER on 2026-08-25 12:30
+- Location: Democracy Now!
+- Description: We speak to journalist Aura Bogado, whose new investigation into Illinois law enforcement and prosecutorial collaboration with ICE has revealed that dozens of immigrants have been arrested and deported with the help of local officials in violation of the stat…
+
+
+### ROBBERY/THEFT on 2026-08-25 12:24
 - Location: The Times of India
-- Description: Rifle shooting coach Sadik Khan was arrested in Meerut, Uttar Pradesh, by police teams. He is accused of abetting the suicide of an engineer and his family members. The engineer's family allegedly jumped into the Godavari river, with one survivor rescued. Kha…
+- Description: Three men arrested in East Singhbhum for two-wheeler theft; police recovered 17 stolen motorcycles and probe forged document sales in Jamshedpur.
 
 
-### OTHER on 2026-08-25 06:27
-- Location: CNA
-- Description: The judge told the offender that his actions had been most hurtful to his wife, who broke down in court while holding the couple's one-month-old baby.
+### HOMICIDE on 2026-08-25 12:24
+- Location: The Times of India
+- Description: Faridabad police arrested a wife and her alleged lover for murder. The deceased husband was killed after discovering their affair. He was allegedly intoxicated and struck on the head. The couple then buried the body near their home. Both accused were apprehen…
 
 
-### ROBBERY/THEFT on 2026-08-25 06:21
-- Location: Biztoc.com
-- Description: Hundreds of millions of pounds of dirty money are being deposited at post offices every year. So why are the police reluctant to investigate the scale of the problem?
-Last chance to buy the summer issue of The Long Read magazine, now with 15% off. Click here …
+### HOMICIDE on 2026-08-25 12:21
+- Location: BBC News
+- Description: Clara Bale was found unresponsive at an address in Bollinder Place, north London, on 6 August.
 
-
-### HOMICIDE on 2026-08-25 05:57
-- Location: Dailymail.com
-- Description: A father has lashed out at the government for spending more than $5million on support for his ten-year-old daughter Bridgette 'Biddy' Porter's killer, while he was left destitute.
-
-
-### HOMICIDE on 2026-08-25 05:50
-- Location: Dailymail.com
-- Description: Police found five people and multiple pets dead on a rural property outside Portland. The suspect, Benjamin Charles Parker, was later found dead inside his vehicle.
-
-Analysis generated at: Wed Aug 26 06:38:52 UTC 2026
+Analysis generated at: Wed Aug 26 12:40:33 UTC 2026
