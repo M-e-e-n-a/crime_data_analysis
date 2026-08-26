@@ -1,10 +1,10 @@
 
-Loaded 127045 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-24 18:26:58
+Loaded 127057 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-25 00:52:21
 
 Incidents by source:
 source
-newsapi           126944
+newsapi           126956
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,30 +20,30 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-08-24 18:26
+### HOMICIDE on 2026-08-25 00:52
+- Location: Forbes
+- Description: Police have four suspects in custody over the murder of boxer Zolani Tete outside his Mdantsane home. Every arrest, the charges so far and the court timeline.
+
+
+### HOMICIDE on 2026-08-25 00:49
+- Location: Dailymail.com
+- Description: Pawel Kupla faces charges of one count of murder, eight counts of attempted murder and one count of arson to endanger life.
+
+
+### HOMICIDE on 2026-08-25 00:47
+- Location: Dailymail.com
+- Description: Simon Peter Carman, 45, from Perth's southern suburbs, broke his silence from behind bars to protest his innocence over the death of Tunchanok Donhomla.
+
+
+### OTHER on 2026-08-25 00:45
 - Location: Fox News
-- Description: U.S. ICE arrested 1,328 illegal immigrants in Virginia and Maryland in just 14 days, including a Salvadoran alien wanted on a murder warrant.
+- Description: Jed York responded to an ad on a known prostitution website and was intercepted near a trailer park in East Palestine, Ohio, during a police sting.
 
 
-### OTHER on 2026-08-24 18:25
+### HOMICIDE on 2026-08-25 00:35
 - Location: The Punch
-- Description: Ondo State Amotekun Corps has arrested 10 suspected criminals, including kidnappers and thieves, across the state. Learn more about the Amotekun arrests.
+- Description: A 25-year-old man was stabbed to death during a fight in Bauchi. Police have arrested a suspect and are investigating the Bauchi stabbing incident.
 
-Read More: https://punchng.com/amotekun-arrests-10-suspected-criminals-in-ondo/
+Read More: https://punchng.com/25-year-old-bauchi-man-stabbed-to-death-during-fight/
 
-
-### OTHER on 2026-08-24 18:25
-- Location: TheSpec.com
-- Description: Cast, crew and the author of the hit book series were seen on set at a local funeral home Monday
-
-
-### OTHER on 2026-08-24 18:23
-- Location: New York Post
-- Description: The unidentified young female filchers swiped a total of $2,500 in the women's accessories from the two stores at the Tanger Outlets in Deer Park on Aug. 6, according to the Suffolk County Police Department.
-
-
-### HOMICIDE on 2026-08-24 18:23
-- Location: The Times of India
-- Description: CM Yogi Adityanath targets UP Congress chief Ajay Rai, alleging he bowed to mafia linked to his brother’s murder; also mocks Rai over eating fish.
-
-Analysis generated at: Tue Aug 25 18:32:23 UTC 2026
+Analysis generated at: Wed Aug 26 00:57:06 UTC 2026
