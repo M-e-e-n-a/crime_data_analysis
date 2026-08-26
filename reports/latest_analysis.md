@@ -1,10 +1,10 @@
 
-Loaded 127064 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-25 01:34:39
+Loaded 127102 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-25 06:33:53
 
 Incidents by source:
 source
-newsapi           126963
+newsapi           127001
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,30 +20,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-08-25 01:34
-- Location: ABC News (AU)
-- Description: Europe's museum thieves once relied on deception, stealth and reconnaissance, but sledgehammers, axes, and explosives are now the weapons of choice, according to Europol.
+### HOMICIDE on 2026-08-25 06:33
+- Location: The Times of India
+- Description: Rifle shooting coach Sadik Khan was arrested in Meerut, Uttar Pradesh, by police teams. He is accused of abetting the suicide of an engineer and his family members. The engineer's family allegedly jumped into the Godavari river, with one survivor rescued. Kha…
 
 
-### HOMICIDE on 2026-08-25 01:34
+### OTHER on 2026-08-25 06:27
+- Location: CNA
+- Description: The judge told the offender that his actions had been most hurtful to his wife, who broke down in court while holding the couple's one-month-old baby.
+
+
+### ROBBERY/THEFT on 2026-08-25 06:21
+- Location: Biztoc.com
+- Description: Hundreds of millions of pounds of dirty money are being deposited at post offices every year. So why are the police reluctant to investigate the scale of the problem?
+Last chance to buy the summer issue of The Long Read magazine, now with 15% off. Click here …
+
+
+### HOMICIDE on 2026-08-25 05:57
 - Location: Dailymail.com
-- Description: Cleveland Police set up a GoFundMe appeal to raise money for the grieving families of PC Clough, 38, and PC Blades, 37.
+- Description: A father has lashed out at the government for spending more than $5million on support for his ten-year-old daughter Bridgette 'Biddy' Porter's killer, while he was left destitute.
 
 
-### OTHER on 2026-08-25 01:24
-- Location: The Punch
-- Description: The UK’s latest travel advisory on Nigeria has sparked debate in the North, with some rejecting the warning and others blaming insecurity for the UK travel
-
-Read More: https://punchng.com/north-divided-over-uk-travel-advisory-trade-blames-for-insecurity/
-
-
-### OTHER on 2026-08-25 01:18
-- Location: Abcnews.com
-- Description: An advocacy group says some military families are now "living in the shadows."
-
-
-### HOMICIDE on 2026-08-25 01:16
+### HOMICIDE on 2026-08-25 05:50
 - Location: Dailymail.com
-- Description: Megan Tangye, 31, was found with multiple unexplained injuries at a waterfront unit on Gore Street in Port Macquarie at 11.40am on December 27.
+- Description: Police found five people and multiple pets dead on a rural property outside Portland. The suspect, Benjamin Charles Parker, was later found dead inside his vehicle.
 
-Analysis generated at: Wed Aug 26 01:39:17 UTC 2026
+Analysis generated at: Wed Aug 26 06:38:52 UTC 2026
