@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Aug 26 13:01:57 UTC 2026
+Last updated: Wed Aug 26 19:43:20 UTC 2026
 
 ## Latest Analysis
 
-Loaded 127167 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-25 13:00:36
+Loaded 127266 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-25 19:41:47
 
 Incidents by source:
 source
-newsapi           127066
+newsapi           127165
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-08-25 13:00
-- Location: SoraNews24
-- Description: No selling should also mean no buying, expert panel says. Common sense would suggest that if there’s something that’s been judged as unacceptable enough within a society for there to be a blanket ban on its sale, that buying it should be illegal too, right? L…
+### HOMICIDE on 2026-08-25 19:41
+- Location: The Times of India
+- Description: 33-year-old Harijeet Kumar found dead with sharp-force injuries near Park Hospital, Gurgaon; family names two friends as suspects, police probe underway.
 
 
-### ROBBERY/THEFT on 2026-08-25 13:00
-- Location: Cointelegraph
-- Description: Operation Lighthouse generated 14,300 investigative leads across 11 crypto exchanges and payment services and flagged over 7,700 suspect accounts.
-
-
-### HOMICIDE on 2026-08-25 13:00
-- Location: Backwoodshome.com
-- Description: Not long ago, a young man turned into a mad dog mass murderer at an Idaho fast food joint, shooting multiple people until he came under return fire from two of his victims. One was an off-duty Idaho State Trooper and another was a 24-year-old armed citizen. N…
-
-
-### HOMICIDE on 2026-08-25 12:57
-- Location: USA Today
-- Description: Authorities said multiple adults and multiple children were dead after what began as a "family disturbance" in Billings, Montana.
-
-
-### HOMICIDE on 2026-08-25 12:53
+### HOMICIDE on 2026-08-25 19:37
 - Location: Dailymail.com
-- Description: Five more people have been arrested by detectives investigating the events leading up to the crash on the A66 which left two police officers and five others dead, police said today.
+- Description: Quinten Kight, 42, was sentenced to prison after investigators found his blood alcohol level was more than twice the legal limit five hours after slamming his boat into 10-year-old Brooklyn Carroll.
 
-Analysis generated at: Wed Aug 26 13:01:57 UTC 2026
+
+### OTHER on 2026-08-25 19:36
+- Location: BBC News
+- Description: The operation included the arrest of 39 people in South Africa for romance and investment scams.
+
+
+### OTHER on 2026-08-25 19:30
+- Location: BBC News
+- Description: The operation included the arrest of 39 people in South Africa for romance and investment scams.
+
+
+### HOMICIDE on 2026-08-25 19:24
+- Location: BBC News
+- Description: Slawomir Alama is accused of one count of murder and eight of attempted murder.
+
+Analysis generated at: Wed Aug 26 19:43:20 UTC 2026
