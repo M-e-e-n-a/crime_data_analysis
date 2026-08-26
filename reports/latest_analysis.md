@@ -1,10 +1,10 @@
 
-Loaded 127157 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-25 12:35:58
+Loaded 127167 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-25 13:00:36
 
 Incidents by source:
 source
-newsapi           127056
+newsapi           127066
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-08-25 12:35
-- Location: Twistedsifter.com
-- Description: He needs to file a police report and call his insurance company right away. 
-The post His Neighbors’ Illegal Fireworks Took a Bizarre, Unpredictable Path—Cracking His Siding and Shattering His Window in the Process appeared first on TwistedSifter.
+### OTHER on 2026-08-25 13:00
+- Location: SoraNews24
+- Description: No selling should also mean no buying, expert panel says. Common sense would suggest that if there’s something that’s been judged as unacceptable enough within a society for there to be a blanket ban on its sale, that buying it should be illegal too, right? L…
 
 
-### OTHER on 2026-08-25 12:30
-- Location: Democracy Now!
-- Description: We speak to journalist Aura Bogado, whose new investigation into Illinois law enforcement and prosecutorial collaboration with ICE has revealed that dozens of immigrants have been arrested and deported with the help of local officials in violation of the stat…
+### ROBBERY/THEFT on 2026-08-25 13:00
+- Location: Cointelegraph
+- Description: Operation Lighthouse generated 14,300 investigative leads across 11 crypto exchanges and payment services and flagged over 7,700 suspect accounts.
 
 
-### ROBBERY/THEFT on 2026-08-25 12:24
-- Location: The Times of India
-- Description: Three men arrested in East Singhbhum for two-wheeler theft; police recovered 17 stolen motorcycles and probe forged document sales in Jamshedpur.
+### HOMICIDE on 2026-08-25 13:00
+- Location: Backwoodshome.com
+- Description: Not long ago, a young man turned into a mad dog mass murderer at an Idaho fast food joint, shooting multiple people until he came under return fire from two of his victims. One was an off-duty Idaho State Trooper and another was a 24-year-old armed citizen. N…
 
 
-### HOMICIDE on 2026-08-25 12:24
-- Location: The Times of India
-- Description: Faridabad police arrested a wife and her alleged lover for murder. The deceased husband was killed after discovering their affair. He was allegedly intoxicated and struck on the head. The couple then buried the body near their home. Both accused were apprehen…
+### HOMICIDE on 2026-08-25 12:57
+- Location: USA Today
+- Description: Authorities said multiple adults and multiple children were dead after what began as a "family disturbance" in Billings, Montana.
 
 
-### HOMICIDE on 2026-08-25 12:21
-- Location: BBC News
-- Description: Clara Bale was found unresponsive at an address in Bollinder Place, north London, on 6 August.
+### HOMICIDE on 2026-08-25 12:53
+- Location: Dailymail.com
+- Description: Five more people have been arrested by detectives investigating the events leading up to the crash on the A66 which left two police officers and five others dead, police said today.
 
-Analysis generated at: Wed Aug 26 12:40:33 UTC 2026
+Analysis generated at: Wed Aug 26 13:01:57 UTC 2026
