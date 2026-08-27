@@ -1,10 +1,10 @@
 
-Loaded 127312 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-26 06:31:30
+Loaded 127327 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-26 08:20:44
 
 Incidents by source:
 source
-newsapi           127211
+newsapi           127226
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,30 +20,31 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-08-26 06:31
-- Location: New York Post
-- Description: "I had to kill her, she wasn't going to stop."
+### SHOOTING on 2026-08-26 08:20
+- Location: Abcnews.com
+- Description: An ICE agent charged in Minnesota with firing his gun through a house door, striking a man in his leg, and then lying to justify the shooting, could walk out of a South Texas jail if a federal judge does not intervene
 
 
-### HOMICIDE on 2026-08-26 06:30
-- Location: Israelnationalnews.com
-- Description: A vehicle theft in Jerusalem ended overnight Wednesday with the death of the suspected thief and the light wounding of a police officer and a civilian.
+### HOMICIDE on 2026-08-26 08:06
+- Location: BBC News
+- Description: The victim, believed to be a teenage boy or man in his early 20s, was killed at Brent Council's HQ.
 
 
-### OTHER on 2026-08-26 06:24
-- Location: Opiniojuris.org
-- Description: This is not a rhetorical question. The arrest warrants for Netanyahu and Gallant were issued on 21 November 2024, 21 months ago. The next step is to confirm the charges contained in the arrest warrants, yet there is no indication that the Deputy Prosecutors, …
+### OTHER on 2026-08-26 08:00
+- Location: pymnts.com
+- Description: Watch more: What’s Next in Payments With Flagright’s Chris Phillips A little paranoia may be useful when the technology moving money changes faster than the controls designed to police it. That is the premise Chris Phillips, director of Financial Crime Indust…
 
 
-### DRUG RELATED on 2026-08-26 06:02
-- Location: Gossiplankanews.com
-- Description: Lalith Kannangara alias 'Bus Lalith', an organized crime and drug trafficker arrested in Dubai, has been subjected to extensive interrogation by the Central Criminal Investigation Bureau under a 72-hour detention order after being brought to Sri Lanka. During…
+### OTHER on 2026-08-26 07:58
+- Location: Bitcoinfoundation.org
+- Description: Two years after the event, Telegram founder Pavel Durov unveiled the reasons why his company’s growth sparked crackdowns around the world. According to him, governments...
+The post Pavel Durov Finally Reveals Why Telegram Was Targeted After His Paris Arrest a…
 
 
-### OTHER on 2026-08-26 05:54
-- Location: The Punch
-- Description: Stay informed with our morning recap: Nigerian governors spend N512bn, 19 oil licences expire, baby factory uncovered, and more top Nigeria morning news.
+### OTHER on 2026-08-26 07:54
+- Location: Internet
+- Description: An eight-month INTERPOL operation targeting West African organized crime groups has led to arrests of 58 people and the identification of 263 suspects.
 
-Read More: https://punchng.com/morning-recap-governors-spend-n512bn-on-travels-and-offices-19-oil-licenc…
+"The operation, which brought together 22 countries from six continents, is a response to the escalating g…
 
-Analysis generated at: Thu Aug 27 06:41:21 UTC 2026
+Analysis generated at: Thu Aug 27 08:28:50 UTC 2026
