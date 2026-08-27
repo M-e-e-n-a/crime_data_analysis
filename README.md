@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Aug 27 08:28:50 UTC 2026
+Last updated: Thu Aug 27 21:37:12 UTC 2026
 
 ## Latest Analysis
 
-Loaded 127327 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-26 08:20:44
+Loaded 127426 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-26 21:36:12
 
 Incidents by source:
 source
-newsapi           127226
+newsapi           127325
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,31 +24,48 @@ ion.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-08-26 08:20
-- Location: Abcnews.com
-- Description: An ICE agent charged in Minnesota with firing his gun through a house door, striking a man in his leg, and then lying to justify the shooting, could walk out of a South Texas jail if a federal judge does not intervene
+### OTHER on 2026-08-26 21:36
+- Location: The Times of India
+- Description: Khanna GTB Market salon raided after renewed baldness-cure claims; health and police seized hair oil, shampoo and powder samples for testing after 2025 eye-rash cases.
 
 
-### HOMICIDE on 2026-08-26 08:06
-- Location: BBC News
-- Description: The victim, believed to be a teenage boy or man in his early 20s, was killed at Brent Council's HQ.
+### OTHER on 2026-08-26 21:32
+- Location: ABC News (AU)
+- Description: Teachers are demanding change as the number of reported classroom incidents of violence and aggression surges from 776 to 20,833 in four years.
 
 
-### OTHER on 2026-08-26 08:00
-- Location: pymnts.com
-- Description: Watch more: What’s Next in Payments With Flagright’s Chris Phillips A little paranoia may be useful when the technology moving money changes faster than the controls designed to police it. That is the premise Chris Phillips, director of Financial Crime Indust…
+### OTHER on 2026-08-26 21:28
+- Location: Dailymail.com
+- Description: For a man who relishes the macabre so much that he's renowned for his ghost stories on the Beeb at Christmas , actor Mark Gatiss seems surprisingly hostile to spiritualism.
 
 
-### OTHER on 2026-08-26 07:58
-- Location: Bitcoinfoundation.org
-- Description: Two years after the event, Telegram founder Pavel Durov unveiled the reasons why his company’s growth sparked crackdowns around the world. According to him, governments...
-The post Pavel Durov Finally Reveals Why Telegram Was Targeted After His Paris Arrest a…
+### OTHER on 2026-08-26 21:27
+- Location: Human Rights Watch
+- Description: Click to expand Image
+ 
 
 
-### OTHER on 2026-08-26 07:54
-- Location: Internet
-- Description: An eight-month INTERPOL operation targeting West African organized crime groups has led to arrests of 58 people and the identification of 263 suspects.
 
-"The operation, which brought together 22 countries from six continents, is a response to the escalating g…
+ 
+ 
+ 
 
-Analysis generated at: Thu Aug 27 08:28:50 UTC 2026
+ 
+ 
+ 
+ 
+ US officials deporting people to Mexico at the McAllen-Hidalgo-Reynosa International Bridge, McAllen, Texas, March 13, 2026.
+ © 2026 Felix Marquez/AP Photo 
+ 
+ 
+
+
+ 
+A US federal judge ordered the US government on Aug…
+
+
+### SHOOTING on 2026-08-26 21:27
+- Location: CBC News
+- Description: A man fled police wearing a ghillie suit and another fell through a Gimli home's ceiling while trying to hide in an attic before they were both arrested in connection with a shooting and robbery in Manitoba's Interlake region, RCMP say.
+
+Analysis generated at: Thu Aug 27 21:37:12 UTC 2026
