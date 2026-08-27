@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Aug 27 21:37:12 UTC 2026
+Last updated: Thu Aug 27 22:04:24 UTC 2026
 
 ## Latest Analysis
 
-Loaded 127426 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-26 21:36:12
+Loaded 127434 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-26 22:02:08
 
 Incidents by source:
 source
-newsapi           127325
+newsapi           127333
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,48 +24,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-08-26 21:36
+### OTHER on 2026-08-26 22:02
 - Location: The Times of India
-- Description: Khanna GTB Market salon raided after renewed baldness-cure claims; health and police seized hair oil, shampoo and powder samples for testing after 2025 eye-rash cases.
+- Description: Long before trucks climbed Bhote Koshi valley, mule caravans carried rice and other grain from Nepal north to Gyirong, where traders exchanged them for Tibetan salt and wool. Salt, highly valued in Nepal’s middle hills, travelled farther south towards India. …
 
 
-### OTHER on 2026-08-26 21:32
-- Location: ABC News (AU)
-- Description: Teachers are demanding change as the number of reported classroom incidents of violence and aggression surges from 776 to 20,833 in four years.
+### OTHER on 2026-08-26 22:00
+- Location: Izismile.com
+- Description: Exploring The Universe Of Random Knowledge  (15 GIFS)
 
 
-### OTHER on 2026-08-26 21:28
+### OTHER on 2026-08-26 22:00
+- Location: The Times of India
+- Description: Rest of World News: An old iron fitting found among scrap metal in eastern Poland has turned out to be part of a burial that disappeared from the archaeological record lo.
+
+
+### OTHER on 2026-08-26 21:55
+- Location: Twistedsifter.com
+- Description: All this hassle over a parking spot...
+The post Her Car Was Vandalized Just Days After Moving Into Her New Apartment Complex—And Now She’s Questioning Whether She Made a Safe Choice at All appeared first on TwistedSifter.
+
+
+### OTHER on 2026-08-26 21:49
 - Location: Dailymail.com
-- Description: For a man who relishes the macabre so much that he's renowned for his ghost stories on the Beeb at Christmas , actor Mark Gatiss seems surprisingly hostile to spiritualism.
+- Description: She sent her victim a nude image. When he asked if she had sent the picture by mistake, a second unsolicited nude selfie followed, along with X-rated videos.
 
-
-### OTHER on 2026-08-26 21:27
-- Location: Human Rights Watch
-- Description: Click to expand Image
- 
-
-
-
- 
- 
- 
-
- 
- 
- 
- 
- US officials deporting people to Mexico at the McAllen-Hidalgo-Reynosa International Bridge, McAllen, Texas, March 13, 2026.
- © 2026 Felix Marquez/AP Photo 
- 
- 
-
-
- 
-A US federal judge ordered the US government on Aug…
-
-
-### SHOOTING on 2026-08-26 21:27
-- Location: CBC News
-- Description: A man fled police wearing a ghillie suit and another fell through a Gimli home's ceiling while trying to hide in an attic before they were both arrested in connection with a shooting and robbery in Manitoba's Interlake region, RCMP say.
-
-Analysis generated at: Thu Aug 27 21:37:12 UTC 2026
+Analysis generated at: Thu Aug 27 22:04:24 UTC 2026
