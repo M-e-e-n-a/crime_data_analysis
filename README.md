@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Aug 28 21:41:01 UTC 2026
+Last updated: Fri Aug 28 22:00:06 UTC 2026
 
 ## Latest Analysis
 
-Loaded 127624 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-27 21:34:17
+Loaded 127625 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-27 21:50:09
 
 Incidents by source:
 source
-newsapi           127523
+newsapi           127524
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -23,6 +23,12 @@ ion.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### SHOOTING on 2026-08-27 21:50
+- Location: Digital Journal
+- Description: The 26-minute preview of GTA 6 showcased an array of characters and scenes set in Vice City, the Miami-like setting where the game takes place.
+The post Guns, drugs and car chases: GTA 6 preview lands on Netflix after leaks appeared first on Digital Journal.
+
 
 ### OTHER on 2026-08-27 21:34
 - Location: Daily Signal
@@ -43,10 +49,4 @@ ion.svg)
 - Location: Www.gov.uk
 - Description: More than 22,000 tonnes of illegally dumped waste have now been removed from Oxfordshire site
 
-
-### OTHER on 2026-08-27 21:29
-- Location: Breitbart News
-- Description: Eighty percent of the recent arrests for fentanyl trafficking in sanctuary city Portland, Oregon, are illegal migrants from Honduras.
-The post Portland: 80% of Fentanyl Trafficker Arrests Are Illegal Migrants from Honduras appeared first on Breitbart.
-
-Analysis generated at: Fri Aug 28 21:41:01 UTC 2026
+Analysis generated at: Fri Aug 28 22:00:06 UTC 2026
