@@ -1,10 +1,10 @@
 
-Loaded 127501 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-27 08:27:31
+Loaded 127524 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-27 10:25:00
 
 Incidents by source:
 source
-newsapi           127400
+newsapi           127423
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,31 +20,33 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-08-27 08:27
+### HOMICIDE on 2026-08-27 10:25
 - Location: The Times of India
-- Description: Haryanvi singer Ankit Balyan was shot dead outside a gym in Shamli. Four attackers on two motorcycles allegedly carried out reconnaissance before the incident. Balyan sustained multiple gunshot wounds and was declared dead at the hospital. Police are investig…
+- Description: In a shocking incident, Haryanvi singer Ankit Baliyan lost his life to gun violence outside a gym in Shamli district. His grieving mother called for justice, while Samajwadi Party chief Akhilesh Yadav condemned the senseless killing and questioned the state’s…
 
 
-### HOMICIDE on 2026-08-27 08:25
-- Location: Breitbart News
-- Description: Two people were killed and at least ten more were left injured Wednesday night after a man crashed a car into a group of people at the northern French city of Caen.
-The post France: Two Dead, 10 Injured After Man Rams Car Into Crowd in Caen appeared first on …
+### OTHER on 2026-08-27 10:08
+- Location: Bleeding Cool News
+- Description: Tony's Return To NCIS was the most-read article on Bleeding Cool yesterday. Lying In The Gutters is the daily runaround for the most-read stories the day before, as well as over the past seven years. Founded seventeen years ago and steeped in a history of com…
 
 
-### OTHER on 2026-08-27 08:24
+### OTHER on 2026-08-27 10:06
 - Location: The Punch
-- Description: The Nigeria Police Force invites social media activist VeryDarkMan to provide evidence for his claims that officers collude with kidnappers at checkpoints.
+- Description: Kwara CP Ojo Adekimi commences unannounced inspections of police formations to assess readiness, discipline, and working conditions across the state.
 
-Read More: https://punchng.com/police-invite-verydarkman-demand-evidence-of-checkpoint-kidnapping-clai…
-
-
-### HOMICIDE on 2026-08-27 08:11
-- Location: BBC News
-- Description: Drill rap lyrics have been used as evidence in recent London murder trials to help secure convictions.
+Read More: https://punchng.com/kwara-cp-begins-inspection-of-police-formations/
 
 
-### OTHER on 2026-08-27 08:00
-- Location: Mubi.com
-- Description: How 1977’s "Aina" and its remakes trace the ways love and eroticism are shown onscreen.
+### HOMICIDE on 2026-08-27 10:02
+- Location: Dailymail.com
+- Description: PCs Matthew Blades, 37, and Tom Clough, 38, died alongside five occupants of a VW Passat in the head-on smash in the early hours of Saturday morning.
 
-Analysis generated at: Fri Aug 28 08:31:35 UTC 2026
+
+### HOMICIDE on 2026-08-27 10:00
+- Location: Gothamist
+- Description: A memorial for Tayvon Shuler outside 149 Grill & Deli in the Bronx on Wednesday.
+ 
+
+Police are searching for Jesus Acosta after killings at stores in the Bronx and Brooklyn. A bodega group is calling for new protections. [ more › ]
+
+Analysis generated at: Fri Aug 28 10:28:15 UTC 2026
