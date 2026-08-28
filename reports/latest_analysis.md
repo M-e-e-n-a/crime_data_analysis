@@ -1,10 +1,10 @@
 
-Loaded 127524 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-27 10:25:00
+Loaded 127624 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-27 21:34:17
 
 Incidents by source:
 source
-newsapi           127423
+newsapi           127523
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,33 +20,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-08-27 10:25
-- Location: The Times of India
-- Description: In a shocking incident, Haryanvi singer Ankit Baliyan lost his life to gun violence outside a gym in Shamli district. His grieving mother called for justice, while Samajwadi Party chief Akhilesh Yadav condemned the senseless killing and questioned the state’s…
+### OTHER on 2026-08-27 21:34
+- Location: Daily Signal
+- Description: The Human Rights Campaign, America’s largest LGBTQ activist group, condemned as “junk” a report finding a correlation between support for transgender medical procedures and left-wing authoritarianism, along with justifications for political violence. The Depa…
 
 
-### OTHER on 2026-08-27 10:08
-- Location: Bleeding Cool News
-- Description: Tony's Return To NCIS was the most-read article on Bleeding Cool yesterday. Lying In The Gutters is the daily runaround for the most-read stories the day before, as well as over the past seven years. Founded seventeen years ago and steeped in a history of com…
-
-
-### OTHER on 2026-08-27 10:06
-- Location: The Punch
-- Description: Kwara CP Ojo Adekimi commences unannounced inspections of police formations to assess readiness, discipline, and working conditions across the state.
-
-Read More: https://punchng.com/kwara-cp-begins-inspection-of-police-formations/
-
-
-### HOMICIDE on 2026-08-27 10:02
+### OTHER on 2026-08-27 21:32
 - Location: Dailymail.com
-- Description: PCs Matthew Blades, 37, and Tom Clough, 38, died alongside five occupants of a VW Passat in the head-on smash in the early hours of Saturday morning.
+- Description: Last week's Ludwig ended with David Mitchell, as the cross- word-setting sleuth, declaring, 'This is absolutely ridiculous!'
 
 
-### HOMICIDE on 2026-08-27 10:00
-- Location: Gothamist
-- Description: A memorial for Tayvon Shuler outside 149 Grill & Deli in the Bronx on Wednesday.
- 
+### ROBBERY/THEFT on 2026-08-27 21:30
+- Location: Wired
+- Description: ‘Grand Theft Auto VI’ is nigh. Here’s what the developer revealed about its highly anticipated game.
 
-Police are searching for Jesus Acosta after killings at stores in the Bronx and Brooklyn. A bodega group is calling for new protections. [ more › ]
 
-Analysis generated at: Fri Aug 28 10:28:15 UTC 2026
+### OTHER on 2026-08-27 21:30
+- Location: Www.gov.uk
+- Description: More than 22,000 tonnes of illegally dumped waste have now been removed from Oxfordshire site
+
+
+### OTHER on 2026-08-27 21:29
+- Location: Breitbart News
+- Description: Eighty percent of the recent arrests for fentanyl trafficking in sanctuary city Portland, Oregon, are illegal migrants from Honduras.
+The post Portland: 80% of Fentanyl Trafficker Arrests Are Illegal Migrants from Honduras appeared first on Breitbart.
+
+Analysis generated at: Fri Aug 28 21:41:01 UTC 2026
