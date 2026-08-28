@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Aug 27 22:04:24 UTC 2026
+Last updated: Fri Aug 28 08:31:35 UTC 2026
 
 ## Latest Analysis
 
-Loaded 127434 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-26 22:02:08
+Loaded 127501 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-27 08:27:31
 
 Incidents by source:
 source
-newsapi           127333
+newsapi           127400
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,29 +24,31 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-08-26 22:02
+### HOMICIDE on 2026-08-27 08:27
 - Location: The Times of India
-- Description: Long before trucks climbed Bhote Koshi valley, mule caravans carried rice and other grain from Nepal north to Gyirong, where traders exchanged them for Tibetan salt and wool. Salt, highly valued in Nepal’s middle hills, travelled farther south towards India. …
+- Description: Haryanvi singer Ankit Balyan was shot dead outside a gym in Shamli. Four attackers on two motorcycles allegedly carried out reconnaissance before the incident. Balyan sustained multiple gunshot wounds and was declared dead at the hospital. Police are investig…
 
 
-### OTHER on 2026-08-26 22:00
-- Location: Izismile.com
-- Description: Exploring The Universe Of Random Knowledge  (15 GIFS)
+### HOMICIDE on 2026-08-27 08:25
+- Location: Breitbart News
+- Description: Two people were killed and at least ten more were left injured Wednesday night after a man crashed a car into a group of people at the northern French city of Caen.
+The post France: Two Dead, 10 Injured After Man Rams Car Into Crowd in Caen appeared first on …
 
 
-### OTHER on 2026-08-26 22:00
-- Location: The Times of India
-- Description: Rest of World News: An old iron fitting found among scrap metal in eastern Poland has turned out to be part of a burial that disappeared from the archaeological record lo.
+### OTHER on 2026-08-27 08:24
+- Location: The Punch
+- Description: The Nigeria Police Force invites social media activist VeryDarkMan to provide evidence for his claims that officers collude with kidnappers at checkpoints.
+
+Read More: https://punchng.com/police-invite-verydarkman-demand-evidence-of-checkpoint-kidnapping-clai…
 
 
-### OTHER on 2026-08-26 21:55
-- Location: Twistedsifter.com
-- Description: All this hassle over a parking spot...
-The post Her Car Was Vandalized Just Days After Moving Into Her New Apartment Complex—And Now She’s Questioning Whether She Made a Safe Choice at All appeared first on TwistedSifter.
+### HOMICIDE on 2026-08-27 08:11
+- Location: BBC News
+- Description: Drill rap lyrics have been used as evidence in recent London murder trials to help secure convictions.
 
 
-### OTHER on 2026-08-26 21:49
-- Location: Dailymail.com
-- Description: She sent her victim a nude image. When he asked if she had sent the picture by mistake, a second unsolicited nude selfie followed, along with X-rated videos.
+### OTHER on 2026-08-27 08:00
+- Location: Mubi.com
+- Description: How 1977’s "Aina" and its remakes trace the ways love and eroticism are shown onscreen.
 
-Analysis generated at: Thu Aug 27 22:04:24 UTC 2026
+Analysis generated at: Fri Aug 28 08:31:35 UTC 2026
