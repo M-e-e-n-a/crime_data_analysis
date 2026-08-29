@@ -1,10 +1,10 @@
 
-Loaded 127690 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-28 06:20:29
+Loaded 127744 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-28 12:05:00
 
 Incidents by source:
 source
-newsapi           127589
+newsapi           127643
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,31 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-08-28 06:20
-- Location: Abcnews.com
-- Description: Zambia's main opposition leader has been arrested on allegations of treason following a troubled election two weeks ago
+### ROBBERY/THEFT on 2026-08-28 12:05
+- Location: Newser
+- Description: Fire crews in northern New Hampshire say the man whose house was burning didn't just watch from the lawn—he allegedly hijacked one of their rescue trucks. Authorities say 30-year-old Nestor Roman II of Dalton climbed into a Whitefield Fire & Rescue F-550 vehi…
 
 
-### HOMICIDE on 2026-08-28 06:16
-- Location: Abcnews.com
-- Description: An autopsy shows that an armed man killed by the Tennessee National Guard was shot in the back
+### OTHER on 2026-08-28 12:01
+- Location: CBC News
+- Description: U.S. Immigration and Customs Enforcement has awarded a $16.7 million contract to purchase 6,000 pairs of gloves that can deliver painful electric shocks, saying officers would use them to control detainees and protesters who resist.
 
 
-### OTHER on 2026-08-28 06:14
+### ASSAULT on 2026-08-28 12:00
+- Location: Gothamist
+- Description: A crowd throws objects at NYPD officers during New York Knicks against San Antonio Spurs Game 5 of the NBA Finals on June 13, 2026 in New York City.
+ 
+
+Complaints rose 31.4% on the five nights the team played in June's NBA Finals, according to a new Vital Cit…
+
+
+### HOMICIDE on 2026-08-28 11:58
 - Location: The Times of India
-- Description: Cognizant CEO Ravi Kumar S has been named to TIME100 AI 2026 for the second consecutive year, recognising his influence on enterprise AI and workforce transformation. A former nuclear scientist, Kumar focuses on how AI will reshape jobs, organisations and bus…
+- Description: Chatra road accident death turns suspicious as youth’s friends flee hospital; father alleges murder. Police say crash into tree; probe if complaint filed.
 
 
-### OTHER on 2026-08-28 06:10
-- Location: CounterPunch
-- Description: I don't think of Dave Marsh as a "music writer" or "rock critic." Yes, nearly all of Marsh's books, of which there are several shelves worth, take music as their jumping-off point. But what he was really writing about was life in America. He was a writer whos…
+### HOMICIDE on 2026-08-28 11:57
+- Location: Mediatakeout.com
+- Description: OTF Jam told jurors Thursday that testifying against Lil Durk could get him killed, calling cooperation in his world a “death sentence” as he returned to the stand in the rapper’s murder-for-hire trial. “As a Black Disciple, snitching is breaking all laws; it…
 
-
-### HOMICIDE on 2026-08-28 06:08
-- Location: The Times of India
-- Description: A passenger bus traveling from Bengaluru to Indore overturned on the Bhopal bypass. The accident resulted in four fatalities and eleven injuries among the passengers. Among the deceased was a Bengaluru police inspector on duty searching for an accused. Severa…
-
-Analysis generated at: Sat Aug 29 06:29:09 UTC 2026
+Analysis generated at: Sat Aug 29 12:08:28 UTC 2026
