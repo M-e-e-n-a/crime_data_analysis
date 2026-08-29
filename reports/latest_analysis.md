@@ -1,10 +1,10 @@
 
-Loaded 127744 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-28 12:05:00
+Loaded 127843 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-28 16:31:08
 
 Incidents by source:
 source
-newsapi           127643
+newsapi           127742
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,31 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2026-08-28 12:05
-- Location: Newser
-- Description: Fire crews in northern New Hampshire say the man whose house was burning didn't just watch from the lawn—he allegedly hijacked one of their rescue trucks. Authorities say 30-year-old Nestor Roman II of Dalton climbed into a Whitefield Fire & Rescue F-550 vehi…
-
-
-### OTHER on 2026-08-28 12:01
-- Location: CBC News
-- Description: U.S. Immigration and Customs Enforcement has awarded a $16.7 million contract to purchase 6,000 pairs of gloves that can deliver painful electric shocks, saying officers would use them to control detainees and protesters who resist.
-
-
-### ASSAULT on 2026-08-28 12:00
-- Location: Gothamist
-- Description: A crowd throws objects at NYPD officers during New York Knicks against San Antonio Spurs Game 5 of the NBA Finals on June 13, 2026 in New York City.
- 
-
-Complaints rose 31.4% on the five nights the team played in June's NBA Finals, according to a new Vital Cit…
-
-
-### HOMICIDE on 2026-08-28 11:58
+### OTHER on 2026-08-28 16:31
 - Location: The Times of India
-- Description: Chatra road accident death turns suspicious as youth’s friends flee hospital; father alleges murder. Police say crash into tree; probe if complaint filed.
+- Description: Tamil Nadu’s EV road-tax waiver boosts luxury car registrations, drawing buyers from Puducherry and expanding demand beyond Chennai to Madurai and southern districts.
 
 
-### HOMICIDE on 2026-08-28 11:57
-- Location: Mediatakeout.com
-- Description: OTF Jam told jurors Thursday that testifying against Lil Durk could get him killed, calling cooperation in his world a “death sentence” as he returned to the stand in the rapper’s murder-for-hire trial. “As a Black Disciple, snitching is breaking all laws; it…
+### OTHER on 2026-08-28 16:30
+- Location: The Times of India
+- Description: Belagavi sees Raksha Bandhan postal surge with 20,000+ rakhi consignments sent in 1.5 months; Speed Post tops choice for India and global deliveries.
 
-Analysis generated at: Sat Aug 29 12:08:28 UTC 2026
+
+### ROBBERY/THEFT on 2026-08-28 16:29
+- Location: The Times of India
+- Description: Bengaluru PMLA court denies bail to alleged hacker Sriki and conduit Robin Khandelwal in ED crypto laundering case; 3,500-page chargesheet filed.
+
+
+### OTHER on 2026-08-28 16:29
+- Location: BBC News
+- Description: Matthew Phillip says the carnival's safety record is "very good" and urged attendees to enjoy the event.
+
+
+### OTHER on 2026-08-28 16:29
+- Location: The Times of India
+- Description: A significant controversy arose when five Booth Level Officers were suspended after voter enumeration forms were found in a photocopy shop. This event ignited tensions between Shiv Sena (UBT) and BJP activists in Navi Mumbai. Authorities seized numerous print…
+
+Analysis generated at: Sat Aug 29 16:31:14 UTC 2026
