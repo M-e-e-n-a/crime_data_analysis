@@ -1,10 +1,10 @@
 
-Loaded 127843 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-28 16:31:08
+Loaded 127942 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-28 20:14:28
 
 Incidents by source:
 source
-newsapi           127742
+newsapi           127841
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-08-28 16:31
-- Location: The Times of India
-- Description: Tamil Nadu’s EV road-tax waiver boosts luxury car registrations, drawing buyers from Puducherry and expanding demand beyond Chennai to Madurai and southern districts.
+### OTHER on 2026-08-28 20:14
+- Location: New York Post
+- Description: Jose Jesus Rodriguez, 34, is accused of the 30-minute rampage.
 
 
-### OTHER on 2026-08-28 16:30
-- Location: The Times of India
-- Description: Belagavi sees Raksha Bandhan postal surge with 20,000+ rakhi consignments sent in 1.5 months; Speed Post tops choice for India and global deliveries.
+### HOMICIDE on 2026-08-28 20:00
+- Location: Decider
+- Description: Can Jake see dead people?
 
 
-### ROBBERY/THEFT on 2026-08-28 16:29
-- Location: The Times of India
-- Description: Bengaluru PMLA court denies bail to alleged hacker Sriki and conduit Robin Khandelwal in ED crypto laundering case; 3,500-page chargesheet filed.
+### HOMICIDE on 2026-08-28 19:45
+- Location: ARLnow
+- Description: A man who pleaded guilty to a shooting at a Ballston apartment building in 2025 was arrested late last month in a D.C. homicide. Malachi Rawlings, 23, faces a charge of second-degree murder in the shooting death of a woman in Southeast D.C. earlier this year,…
 
 
-### OTHER on 2026-08-28 16:29
-- Location: BBC News
-- Description: Matthew Phillip says the carnival's safety record is "very good" and urged attendees to enjoy the event.
+### OTHER on 2026-08-28 19:40
+- Location: Slate Magazine
+- Description: It’s been seven months since federal immigration agents touched down in Minnesota with a vengeance.
 
 
-### OTHER on 2026-08-28 16:29
-- Location: The Times of India
-- Description: A significant controversy arose when five Booth Level Officers were suspended after voter enumeration forms were found in a photocopy shop. This event ignited tensions between Shiv Sena (UBT) and BJP activists in Navi Mumbai. Authorities seized numerous print…
+### HOMICIDE on 2026-08-28 19:39
+- Location: Dailymail.com
+- Description: Jamie Thomas Stephen Lomas was killed after a 'domestic disturbance' at a house close to Lake Youngs, a reservoir near the city of Kent in Washington state.
 
-Analysis generated at: Sat Aug 29 16:31:14 UTC 2026
+Analysis generated at: Sat Aug 29 20:18:30 UTC 2026
