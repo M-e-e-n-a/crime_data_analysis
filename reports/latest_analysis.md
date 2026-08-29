@@ -1,10 +1,10 @@
 
-Loaded 127625 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-27 21:50:09
+Loaded 127676 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-28 05:10:05
 
 Incidents by source:
 source
-newsapi           127524
+newsapi           127575
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,29 +20,31 @@ ion.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-08-27 21:50
-- Location: Digital Journal
-- Description: The 26-minute preview of GTA 6 showcased an array of characters and scenes set in Vice City, the Miami-like setting where the game takes place.
-The post Guns, drugs and car chases: GTA 6 preview lands on Netflix after leaks appeared first on Digital Journal.
+### OTHER on 2026-08-28 05:10
+- Location: Nofilmschool.com
+- Description: Rear Window (1954) is one of the best films directed by Alfred Hitchcock, and it’s ranked among the greatest films of all time.
+ But what screenwriter John Michael Hayes did shouldn’t be overlooked.Hayes expanded on the setup and characters of the original s…
 
 
-### OTHER on 2026-08-27 21:34
-- Location: Daily Signal
-- Description: The Human Rights Campaign, America’s largest LGBTQ activist group, condemned as “junk” a report finding a correlation between support for transgender medical procedures and left-wing authoritarianism, along with justifications for political violence. The Depa…
+### ROBBERY/THEFT on 2026-08-28 05:00
+- Location: Insurance Journal
+- Description: A New Hampshire man faces multiple charges after police say he stole a rescue truck from one of the first responder agencies responding to his burning home in Dalton. At approximately 3:50 a.m. on August 25, State Troopers were responding …
 
 
-### OTHER on 2026-08-27 21:32
-- Location: Dailymail.com
-- Description: Last week's Ludwig ended with David Mitchell, as the cross- word-setting sleuth, declaring, 'This is absolutely ridiculous!'
+### OTHER on 2026-08-28 05:00
+- Location: CounterPunch
+- Description: They are watching us, everywhere, all the time. Big government, big tech, the NSA, Blackrock, Oracle, Palantir… The thousand tentacled data Cthulhu known collectively as the surveillance state… “They” are everywhere. They are all the time. And they are watchi…
 
 
-### ROBBERY/THEFT on 2026-08-27 21:30
-- Location: Wired
-- Description: ‘Grand Theft Auto VI’ is nigh. Here’s what the developer revealed about its highly anticipated game.
+### OTHER on 2026-08-28 04:53
+- Location: Protothema.gr
+- Description: Greek Police warn that phone and online fraud is growing more convincing, with fake accountants, AI-cloned voices and spoofed e-EFKA emails draining victims' accounts, urging people to hang up and verify independently before sharing details
+The post New-gener…
 
 
-### OTHER on 2026-08-27 21:30
-- Location: Www.gov.uk
-- Description: More than 22,000 tonnes of illegally dumped waste have now been removed from Oxfordshire site
+### OTHER on 2026-08-28 04:41
+- Location: Rediff.com
+- Description: Babita Singh Reporting goes past the messy homes and humming markets to reflect the daredevilry of a protagonist coming into her own.
+What ensues is a raw and thrilling marriage of momentum and meltdown across awkward inquiries made within junkie hideouts, su…
 
-Analysis generated at: Fri Aug 28 22:00:06 UTC 2026
+Analysis generated at: Sat Aug 29 05:11:24 UTC 2026
