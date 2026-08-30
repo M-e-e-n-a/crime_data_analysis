@@ -1,10 +1,10 @@
 
-Loaded 128003 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-29 11:03:36
+Loaded 128039 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-29 15:53:18
 
 Incidents by source:
 source
-newsapi           127902
+newsapi           127938
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-08-29 11:03
-- Location: Inside the Magic
-- Description: Disney Parks are among the most visited vacation destinations on the planet, welcoming huge numbers of guests through their gates throughout the year. While attendance naturally fluctuates depending on the time of year, with summer, Halloween, and the holiday…
+### ROBBERY/THEFT on 2026-08-29 15:53
+- Location: The Times of India
+- Description: Anantapur police arrested a six-member inter-district theft gang and recovered gold, silver and cash worth ₹60 lakh, solving 13 cases across stations.
 
 
-### HOMICIDE on 2026-08-29 11:00
-- Location: Fox News
-- Description: Over 9,000 bones remain unexamined at Fox Hollow Farm as the true crime documentary explores whether suspected serial killer Herb Baumeister acted alone.
+### OTHER on 2026-08-29 15:41
+- Location: The Times of India
+- Description: The Karnataka High Court has raised serious concerns over the alleged unlawful detention of an activist by the Whitefield Police. Noting a pattern of procedural violations at the station, the court highlighted that the activist was apprehended following a Fac…
 
 
-### SHOOTING on 2026-08-29 11:00
-- Location: Detroithockeynow.com
-- Description: Former Detroit Red Wings defenseman Ulf Samuelsson lives in Palm Beach Gardens, Florida. He is hauntingly familiar with the tragedy […]
+### ASSAULT on 2026-08-29 15:20
+- Location: The Times of India
+- Description: Kochi police filed a suo motu FIR after a viral video showed a private bus crew assaulting a youth near Ernakulam Town Hall; crew to be questioned.
 
 
-### HOMICIDE on 2026-08-29 11:00
-- Location: CBC News
-- Description: A Winnipeg man who admitted to violently killing a woman pregnant with his child nearly two decades ago in a "coldly conceived" murder has been granted six months of escorted temporary absences from prison.
+### OTHER on 2026-08-29 15:19
+- Location: The Times of India
+- Description: Two Odisha tourists narrowly escaped Nepal flash floods near the Trishuli river after police warning; their 51-member group is safe but stranded in Bhairahawa.
 
 
-### DRUG RELATED on 2026-08-29 10:56
-- Location: Dailymail.com
-- Description: It follows a week of escalating violence thought to be linked to a gangland war between two factions of a local organised crime group in the town.
+### OTHER on 2026-08-29 15:17
+- Location: Breitbart News
+- Description: On Friday’s broadcast of MS NOW’s “Morning Joe,” New York Gov. Kathy Hochul (D) discussed legislation she signed forbidding local law enforcement in the state from engaging in certain agreements with ICE and said that “I wish they would just
+The post Hochul: …
 
-Analysis generated at: Sun Aug 30 11:03:55 UTC 2026
+Analysis generated at: Sun Aug 30 15:53:58 UTC 2026
