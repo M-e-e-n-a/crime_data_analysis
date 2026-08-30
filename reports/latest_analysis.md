@@ -1,10 +1,10 @@
 
-Loaded 127957 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-29 02:58:12
+Loaded 127970 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-29 04:16:28
 
 Incidents by source:
 source
-newsapi           127856
+newsapi           127869
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-08-29 02:58
-- Location: Freerepublic.com
-- Description: Nassau County Executive Bruce Blakeman’s recent appearance with President Donald Trump at his county’s police academy — with uniformed cadets and officers sitting behind them — amounted to an improper partisan political rally, Democrats allege in a formal com…
+### SHOOTING on 2026-08-29 04:16
+- Location: New York Post
+- Description: Two teenagers were shot on a Queens street around 8:30 p.m. Friday evening, police said.
 
 
-### ROBBERY/THEFT on 2026-08-29 02:37
-- Location: ABC News (AU)
-- Description: The Van Cleef and Arpels necklace, with 673 precious stones and worth several million dollars, is the latest item snatched as high-profile robberies hit European museums.
+### OTHER on 2026-08-29 04:14
+- Location: Abcnews.com
+- Description: The United States Southern Command says that Colombian security forces captured a suspected senior leader of the Venezuelan gang Tren de Aragua
 
 
-### HOMICIDE on 2026-08-29 02:29
-- Location: Dailymail.com
-- Description: Police arrested the 31-year-old and charged him on Friday with a slew of offences, including three counts of shooting with intent to murder.
+### OTHER on 2026-08-29 04:14
+- Location: Abcnews.com
+- Description: Former Ecuadorian President Lenín Moreno has been sentenced to prison for accepting bribes from the Chinese company Sinohydro
 
 
-### ASSAULT on 2026-08-29 02:23
-- Location: Raw Story
-- Description: Federal prosecutors tore apart an accused pipe bomber's bid to pin his attack on January 5, 2021, on a cleared Capitol Police officer.On Friday, the Department of Justice filed an opposition in D.C. federal court that urged the judge to reject a renewed motio…
+### HOMICIDE on 2026-08-29 04:14
+- Location: Abcnews.com
+- Description: Rapper Tupac Shakur has been dead for nearly 30 years, but fans say they see signs that his spirit wants justice as the trial is coming to a close for Duane “Keffe D” Davis, who is accused of orchestrating the shooting of the rapper in Las Vegas
 
 
-### HOMICIDE on 2026-08-29 01:38
+### OTHER on 2026-08-29 04:10
 - Location: The Times of India
-- Description: A gym trainer accused of murdering a young woman was injured in a police encounter. He opened fire at officers while resisting arrest in Rajouri Garden. Police retaliated, and three bullets struck the suspect in his legs. Investigators are probing his social …
+- Description: The AIMIM party has expelled its Member of the Legislative Council, Mirza Rahmath Baig. He has been directed to submit his resignation from the Telangana Legislative Council immediately. The Asaduddin Owaisi-led party did not specify any reason for this expul…
 
-Analysis generated at: Sun Aug 30 03:01:27 UTC 2026
+Analysis generated at: Sun Aug 30 04:40:32 UTC 2026
