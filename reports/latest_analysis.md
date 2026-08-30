@@ -1,10 +1,10 @@
 
-Loaded 128069 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-29 16:16:04
+Loaded 128152 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-29 19:58:13
 
 Incidents by source:
 source
-newsapi           127968
+newsapi           128051
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-08-29 16:16
+### ROBBERY/THEFT on 2026-08-29 19:58
+- Location: Fox News
+- Description: Pabst Blue Ribbon says 40,000 pounds of its beer vanished in California as police probe fraudulent paperwork used at a distribution center pickup.
+
+
+### HOMICIDE on 2026-08-29 19:48
 - Location: The Times of India
-- Description: Global study in Nature Ecology & Evolution finds 80% of butterflies expanding ranges due to climate change; Bengal’s tawny coster spreads in Australia at 135km/yr.
+- Description: Sonbhadra: Police say wife and lover strangled husband after he caught them, slammed his head, then dumped body roadside to fake road accident; 4 arrested.
 
 
-### OTHER on 2026-08-29 16:11
-- Location: Freerepublic.com
-- Description: The real world — It’s full of complexities, ambiguities, unknowns, trade-offs, risks, and evils that we would prefer not to acknowledge. Perfection can be sought and approached, but nothing close to perfection can be achieved. And then there’s the world that …
-
-
-### OTHER on 2026-08-29 16:10
-- Location: Breitbart News
-- Description: The woman accused of vandalizing the World War II Memorial in D.C. earlier this month says she did it to “get the nation’s attention.”
-The post Woman Charged with Vandalizing War Memorial Says She ‘Wanted to Get the Nation’s Attention’ appeared first on Breit…
-
-
-### ROBBERY/THEFT on 2026-08-29 16:10
-- Location: My Nintendo News
-- Description: While Gamescom was entertaining for those of us sitting at home some attendees did not have such a good time as there were reports of multiple thefts with laptops going missing and developers equipment etc. Gamescom has issued a statement addressing the conce…
-
-
-### OTHER on 2026-08-29 16:10
+### OTHER on 2026-08-29 19:48
 - Location: The Times of India
-- Description: Karnataka to launch digital platform to track RERA Revenue Recovery Certificates, link asset databases, and speed dues recovery from defaulting builders and agents.
+- Description: Seven unidentified bodies were recovered from the Gandak (Narayani) river in UP’s Maharajganj and Kushinagar after Nepal floods raised water flow; ID efforts ongoing.
 
-Analysis generated at: Sun Aug 30 16:24:47 UTC 2026
+
+### OTHER on 2026-08-29 19:48
+- Location: The Times of India
+- Description: Two Hardoi workers at Nepal’s Upper Trishuli Power Project missing after floods; families urge PM Modi and UP CM Yogi to help trace and bring them home.
+
+
+### OTHER on 2026-08-29 19:47
+- Location: The Times of India
+- Description: Chhattisgarh HC quashes State Women Commission’s directive to transfer a school principal, ruling it lacks jurisdiction to alter employee service conditions.
+
+Analysis generated at: Sun Aug 30 20:25:21 UTC 2026
