@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Aug 30 04:40:32 UTC 2026
+Last updated: Sun Aug 30 11:03:55 UTC 2026
 
 ## Latest Analysis
 
-Loaded 127970 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-29 04:16:28
+Loaded 128003 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-29 11:03:36
 
 Incidents by source:
 source
-newsapi           127869
+newsapi           127902
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-08-29 04:16
-- Location: New York Post
-- Description: Two teenagers were shot on a Queens street around 8:30 p.m. Friday evening, police said.
+### OTHER on 2026-08-29 11:03
+- Location: Inside the Magic
+- Description: Disney Parks are among the most visited vacation destinations on the planet, welcoming huge numbers of guests through their gates throughout the year. While attendance naturally fluctuates depending on the time of year, with summer, Halloween, and the holiday…
 
 
-### OTHER on 2026-08-29 04:14
-- Location: Abcnews.com
-- Description: The United States Southern Command says that Colombian security forces captured a suspected senior leader of the Venezuelan gang Tren de Aragua
+### HOMICIDE on 2026-08-29 11:00
+- Location: Fox News
+- Description: Over 9,000 bones remain unexamined at Fox Hollow Farm as the true crime documentary explores whether suspected serial killer Herb Baumeister acted alone.
 
 
-### OTHER on 2026-08-29 04:14
-- Location: Abcnews.com
-- Description: Former Ecuadorian President Lenín Moreno has been sentenced to prison for accepting bribes from the Chinese company Sinohydro
+### SHOOTING on 2026-08-29 11:00
+- Location: Detroithockeynow.com
+- Description: Former Detroit Red Wings defenseman Ulf Samuelsson lives in Palm Beach Gardens, Florida. He is hauntingly familiar with the tragedy […]
 
 
-### HOMICIDE on 2026-08-29 04:14
-- Location: Abcnews.com
-- Description: Rapper Tupac Shakur has been dead for nearly 30 years, but fans say they see signs that his spirit wants justice as the trial is coming to a close for Duane “Keffe D” Davis, who is accused of orchestrating the shooting of the rapper in Las Vegas
+### HOMICIDE on 2026-08-29 11:00
+- Location: CBC News
+- Description: A Winnipeg man who admitted to violently killing a woman pregnant with his child nearly two decades ago in a "coldly conceived" murder has been granted six months of escorted temporary absences from prison.
 
 
-### OTHER on 2026-08-29 04:10
-- Location: The Times of India
-- Description: The AIMIM party has expelled its Member of the Legislative Council, Mirza Rahmath Baig. He has been directed to submit his resignation from the Telangana Legislative Council immediately. The Asaduddin Owaisi-led party did not specify any reason for this expul…
+### DRUG RELATED on 2026-08-29 10:56
+- Location: Dailymail.com
+- Description: It follows a week of escalating violence thought to be linked to a gangland war between two factions of a local organised crime group in the town.
 
-Analysis generated at: Sun Aug 30 04:40:32 UTC 2026
+Analysis generated at: Sun Aug 30 11:03:55 UTC 2026
