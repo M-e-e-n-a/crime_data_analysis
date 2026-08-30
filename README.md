@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Aug 30 15:53:58 UTC 2026
+Last updated: Sun Aug 30 16:24:47 UTC 2026
 
 ## Latest Analysis
 
-Loaded 128039 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-29 15:53:18
+Loaded 128069 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-29 16:16:04
 
 Incidents by source:
 source
-newsapi           127938
+newsapi           127968
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,29 +24,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2026-08-29 15:53
+### OTHER on 2026-08-29 16:16
 - Location: The Times of India
-- Description: Anantapur police arrested a six-member inter-district theft gang and recovered gold, silver and cash worth ₹60 lakh, solving 13 cases across stations.
+- Description: Global study in Nature Ecology & Evolution finds 80% of butterflies expanding ranges due to climate change; Bengal’s tawny coster spreads in Australia at 135km/yr.
 
 
-### OTHER on 2026-08-29 15:41
-- Location: The Times of India
-- Description: The Karnataka High Court has raised serious concerns over the alleged unlawful detention of an activist by the Whitefield Police. Noting a pattern of procedural violations at the station, the court highlighted that the activist was apprehended following a Fac…
+### OTHER on 2026-08-29 16:11
+- Location: Freerepublic.com
+- Description: The real world — It’s full of complexities, ambiguities, unknowns, trade-offs, risks, and evils that we would prefer not to acknowledge. Perfection can be sought and approached, but nothing close to perfection can be achieved. And then there’s the world that …
 
 
-### ASSAULT on 2026-08-29 15:20
-- Location: The Times of India
-- Description: Kochi police filed a suo motu FIR after a viral video showed a private bus crew assaulting a youth near Ernakulam Town Hall; crew to be questioned.
-
-
-### OTHER on 2026-08-29 15:19
-- Location: The Times of India
-- Description: Two Odisha tourists narrowly escaped Nepal flash floods near the Trishuli river after police warning; their 51-member group is safe but stranded in Bhairahawa.
-
-
-### OTHER on 2026-08-29 15:17
+### OTHER on 2026-08-29 16:10
 - Location: Breitbart News
-- Description: On Friday’s broadcast of MS NOW’s “Morning Joe,” New York Gov. Kathy Hochul (D) discussed legislation she signed forbidding local law enforcement in the state from engaging in certain agreements with ICE and said that “I wish they would just
-The post Hochul: …
+- Description: The woman accused of vandalizing the World War II Memorial in D.C. earlier this month says she did it to “get the nation’s attention.”
+The post Woman Charged with Vandalizing War Memorial Says She ‘Wanted to Get the Nation’s Attention’ appeared first on Breit…
 
-Analysis generated at: Sun Aug 30 15:53:58 UTC 2026
+
+### ROBBERY/THEFT on 2026-08-29 16:10
+- Location: My Nintendo News
+- Description: While Gamescom was entertaining for those of us sitting at home some attendees did not have such a good time as there were reports of multiple thefts with laptops going missing and developers equipment etc. Gamescom has issued a statement addressing the conce…
+
+
+### OTHER on 2026-08-29 16:10
+- Location: The Times of India
+- Description: Karnataka to launch digital platform to track RERA Revenue Recovery Certificates, link asset databases, and speed dues recovery from defaulting builders and agents.
+
+Analysis generated at: Sun Aug 30 16:24:47 UTC 2026
