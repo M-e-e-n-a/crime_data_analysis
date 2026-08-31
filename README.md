@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Aug 31 02:56:22 UTC 2026
+Last updated: Mon Aug 31 04:44:48 UTC 2026
 
 ## Latest Analysis
 
-Loaded 128178 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-30 02:51:57
+Loaded 128193 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-30 04:18:02
 
 Incidents by source:
 source
-newsapi           128077
+newsapi           128092
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-08-30 02:51
-- Location: Abcnews.com
-- Description: A woman alleges she was thrown from her seat, dragged along the tracks and seriously injured as a result.
-
-
-### HOMICIDE on 2026-08-30 02:47
+### HOMICIDE on 2026-08-30 04:18
 - Location: The Times of India
-- Description: Social media influencer Manjeet Kaur died after being allegedly abducted and set on fire. Chandigarh Police have now registered a case of kidnapping and murder against unknown individuals. Her mother alleged that Kaur was attacked by two acquaintances in Mori…
+- Description: A South Carolina police officer, 29-year-old Christopher DeLong, was killed and another officer, David Dymock, was injured in a gunfight Saturday while responding to a domestic dispute.
 
 
-### ROBBERY/THEFT on 2026-08-30 02:44
-- Location: Biztoc.com
-- Description: A truck packed with 40,000 pounds of Pabst Blue Ribbon beer vanished in California, and police claim the missing haul could be part of a brazen cargo theft operation that made off with roughly $70,000 in booze in a single morning.
-Pabst Blue Ribbon said its t…
+### OTHER on 2026-08-30 04:00
+- Location: Americanthinker.com
+- Description: By Susan QuinnWe are a prosperous country, which most assume means a happy people. However, hatred is on the rise in America, and it doesn’t seem like it’s stopping soon.
 
 
-### ROBBERY/THEFT on 2026-08-30 02:38
-- Location: The Times of India
-- Description: A delivery boy robbed a woman and her mother-in-law of gold jewellery. He returned to the Faridabad house two hours after his initial delivery. The accused had changed his clothes and armed himself with a knife. Police arrested Veerpratap Singh alias Veeru on…
+### ROBBERY/THEFT on 2026-08-30 04:00
+- Location: Americanthinker.com
+- Description: By Jim DavisWe know almost nothing about this story...and that’s a big part of the problem.
 
 
-### OTHER on 2026-08-30 02:21
-- Location: Shannews.org
-- Description: Recent reports of Shan Herald Agency for News and Khit Thit Media on cyberscam and scam center operations have made headlines, raising questions about whether Chinese Foreign Minister Wang Yi’s claim that the illicit trade is being eradicated is credible or j…
+### OTHER on 2026-08-30 04:00
+- Location: Americanthinker.com
+- Description: By Kevin FinnLeftists lately are sorting themselves into four descriptive categories, which often overlap.
 
-Analysis generated at: Mon Aug 31 02:56:22 UTC 2026
+
+### OTHER on 2026-08-30 04:00
+- Location: Americanthinker.com
+- Description: By Mike McDanielWhen Democrats tell us how much they hate us, we'd better believe them.
+
+Analysis generated at: Mon Aug 31 04:44:48 UTC 2026
