@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Sep  1 16:24:10 UTC 2026
+Last updated: Tue Sep  1 20:25:48 UTC 2026
 
 ## Latest Analysis
 
-Loaded 128592 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-31 16:24:01
+Loaded 128677 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-31 20:22:54
 
 Incidents by source:
 source
-newsapi           128491
+newsapi           128576
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-08-31 16:24
-- Location: Reason
-- Description: It doesn't matter if you're right. If you don't cave, the government might stop at nothing to destroy you.
+### HOMICIDE on 2026-08-31 20:22
+- Location: Breitbart News
+- Description: A Haitian migrant is accused of murdering a woman and strangling another woman outside of a duplex in Lee County, Florida.
+The post Haitian Migrant Accused of Murdering Woman, Strangling Another in Florida appeared first on Breitbart.
 
 
-### OTHER on 2026-08-31 16:23
-- Location: The Times of India
-- Description: Farmer in Dindigul dies by suicide after alleged Rs 15 lakh FQL investment scam; kin block highway. Tamil Nadu DGP transfers six cases to EOW; 21 arrested.
+### OTHER on 2026-08-31 20:21
+- Location: NPR
+- Description: Kalshi says Santos did not cooperate with its investigation into bets he placed on his own attendance at the State of the Union. The company also fined the disgraced congressman more than $71,000.
 
 
-### OTHER on 2026-08-31 16:22
-- Location: The Times of India
-- Description: Srirangapatna Dasara to be innovative and people-centric, MLA urges focus on local artists, rural sports, and a 3-day Yuva Sambhrama; 12 committees formed.
+### HOMICIDE on 2026-08-31 20:21
+- Location: The Punch
+- Description: A rescued National Youth Service Corps member, David Ayodele, has recounted how he and other abductees were allegedly threatened with death by their captors after they were taken into a forest in Kogi State. Ayodele said the kidnappers threatened to keep the …
 
 
-### OTHER on 2026-08-31 16:18
-- Location: The Times of India
-- Description: Andhra Pradesh High Court issues notices to Centre and state on steps to curb tobacco and alcohol sales to minors, including mandatory warning boards at shops.
+### ROBBERY/THEFT on 2026-08-31 20:05
+- Location: Jalopnik
+- Description: The Texas's Motor Vehicle Crime Prevention Authority doesn't show any signs of stopping either.
 
 
-### OTHER on 2026-08-31 16:18
-- Location: The Times of India
-- Description: Chennai airport is redrawing the way passengers move around the airport ahead of the opening of its second pick-up point and a new plaza in the coming weeks, with clearer signs, digital maps and a dedicated team to help travellers find their way.
+### HOMICIDE on 2026-08-31 20:02
+- Location: CBC News
+- Description: A 22-year-old man has been charged with first-degree murder and attempted murder, after a house fire in Winnipeg last week took one person's life and left two others with serious burns.
 
-Analysis generated at: Tue Sep  1 16:24:10 UTC 2026
+Analysis generated at: Tue Sep  1 20:25:48 UTC 2026
