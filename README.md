@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Sep  1 04:25:22 UTC 2026
+Last updated: Tue Sep  1 10:57:42 UTC 2026
 
 ## Latest Analysis
 
-Loaded 128440 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-31 04:19:16
+Loaded 128486 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-31 10:55:25
 
 Incidents by source:
 source
-newsapi           128339
+newsapi           128385
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-08-31 04:19
-- Location: Ibtimes.com.au
-- Description: A relative of the Alameddine crime family is critically injured after a targeted home invasion in Sydney, raising concerns about escalating gang violence. Police are investigating the incident.
-
-
-### OTHER on 2026-08-31 04:00
-- Location: Screen Rant
-- Description: Doctor Who writer Mark Gatiss believes that the show's latest controversial twist can be handled by following in the footsteps of a classic TV show.
-
-
-### OTHER on 2026-08-31 04:00
-- Location: Americanthinker.com
-- Description: By Bill PontonA hypothetical thought experiment to try and get inside the leftist’s mind.
-
-
-### OTHER on 2026-08-31 03:45
-- Location: Gossiplankanews.com
-- Description: A news report emerged the day before yesterday about a young woman who was attending a graduation ceremony at the Bandaranaike Memorial International Conference Hall (BMICH) in Colombo being abducted by her boyfriend in a car. In this incident, which occurred…
-
-
-### ASSAULT on 2026-08-31 03:35
+### OTHER on 2026-08-31 10:55
 - Location: The Times of India
-- Description: A 22-year-old man attacked two sisters with acid after his marriage proposal was rejected. The victims sustained burn injuries and are currently in stable condition. Their father had previously agreed to the alliance but later called it off due to behavioral …
+- Description: A 16-year-old girl was allegedly gangraped inside a moving bus in Delhi. Opposition leaders criticized the BJP-led governments and police for failing to ensure women's safety. They questioned the authorities' priorities and responsiveness to crimes against wo…
 
-Analysis generated at: Tue Sep  1 04:25:22 UTC 2026
+
+### HOMICIDE on 2026-08-31 10:54
+- Location: ABC News (AU)
+- Description: A 75-year-old man is charged with murder following the death of a woman in Bacchus Marsh, west of Melbourne.
+
+
+### ROBBERY/THEFT on 2026-08-31 10:51
+- Location: The Root
+- Description: Antonio Stewart of South Carolina was in the middle of a job interview when police said he stole lottery tickets, then tried redeeming them nearby.Read more...
+
+
+### OTHER on 2026-08-31 10:40
+- Location: Notebookcheck.net
+- Description: How brutal will GTA 6 be? After the Extended Look raised doubts about whether the game would feature an extensive gore system, comments from a content creator who has already had the chance to play Rockstar's upcoming title are giving fans reason to breathe a…
+
+
+### HOMICIDE on 2026-08-31 10:34
+- Location: The Times of India
+- Description: Attackers tracked Ankit Baliyan's movements and procured weapons for his murder. The investigation revealed a network linked to the Gogi gang's involvement. Two accused shooters were killed in a police encounter following the incident. The singer had acted in…
+
+Analysis generated at: Tue Sep  1 10:57:42 UTC 2026
