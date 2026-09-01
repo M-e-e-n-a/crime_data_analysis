@@ -1,10 +1,10 @@
 
-Loaded 128571 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-31 15:55:21
+Loaded 128592 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-31 16:24:01
 
 Incidents by source:
 source
-newsapi           128470
+newsapi           128491
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-08-31 15:55
-- Location: SB Nation
-- Description: It’s been one heck of an offseason.
+### OTHER on 2026-08-31 16:24
+- Location: Reason
+- Description: It doesn't matter if you're right. If you don't cave, the government might stop at nothing to destroy you.
 
 
-### HOMICIDE on 2026-08-31 15:52
-- Location: Dailymail.com
-- Description: Swiss police have arrested a man in relation to a deadly shooting at a rave in the town of Aarau over the weekend.
-
-
-### HOMICIDE on 2026-08-31 15:50
-- Location: Dailymail.com
-- Description: Isabelle Welsh suffered 21 broken bones in the weeks leading up to her death at her mother's home in Thornaby, Teesside, before dying shortly after a final 'massive head injury' was inflicted upon her.
-
-
-### OTHER on 2026-08-31 15:46
-- Location: KQED
-- Description: Head Start has long supported English learners. The administration says that's “at odds” with policy.
-
-
-### HOMICIDE on 2026-08-31 15:45
+### OTHER on 2026-08-31 16:23
 - Location: The Times of India
-- Description: 92-year-old father testifies in Barun Biswas murder trial, names ex-minister Jyotipriya Mallick as suspect; family alleges flawed probe 14 years on.
+- Description: Farmer in Dindigul dies by suicide after alleged Rs 15 lakh FQL investment scam; kin block highway. Tamil Nadu DGP transfers six cases to EOW; 21 arrested.
 
-Analysis generated at: Tue Sep  1 15:56:32 UTC 2026
+
+### OTHER on 2026-08-31 16:22
+- Location: The Times of India
+- Description: Srirangapatna Dasara to be innovative and people-centric, MLA urges focus on local artists, rural sports, and a 3-day Yuva Sambhrama; 12 committees formed.
+
+
+### OTHER on 2026-08-31 16:18
+- Location: The Times of India
+- Description: Andhra Pradesh High Court issues notices to Centre and state on steps to curb tobacco and alcohol sales to minors, including mandatory warning boards at shops.
+
+
+### OTHER on 2026-08-31 16:18
+- Location: The Times of India
+- Description: Chennai airport is redrawing the way passengers move around the airport ahead of the opening of its second pick-up point and a new plaza in the coming weeks, with clearer signs, digital maps and a dedicated team to help travellers find their way.
+
+Analysis generated at: Tue Sep  1 16:24:10 UTC 2026
