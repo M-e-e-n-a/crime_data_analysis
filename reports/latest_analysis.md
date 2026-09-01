@@ -1,10 +1,10 @@
 
-Loaded 128486 incidents
-Date range: 2024-01-01 00:00:00 to 2026-08-31 10:55:25
+Loaded 128571 incidents
+Date range: 2024-01-01 00:00:00 to 2026-08-31 15:55:21
 
 Incidents by source:
 source
-newsapi           128385
+newsapi           128470
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-08-31 10:55
+### OTHER on 2026-08-31 15:55
+- Location: SB Nation
+- Description: It’s been one heck of an offseason.
+
+
+### HOMICIDE on 2026-08-31 15:52
+- Location: Dailymail.com
+- Description: Swiss police have arrested a man in relation to a deadly shooting at a rave in the town of Aarau over the weekend.
+
+
+### HOMICIDE on 2026-08-31 15:50
+- Location: Dailymail.com
+- Description: Isabelle Welsh suffered 21 broken bones in the weeks leading up to her death at her mother's home in Thornaby, Teesside, before dying shortly after a final 'massive head injury' was inflicted upon her.
+
+
+### OTHER on 2026-08-31 15:46
+- Location: KQED
+- Description: Head Start has long supported English learners. The administration says that's “at odds” with policy.
+
+
+### HOMICIDE on 2026-08-31 15:45
 - Location: The Times of India
-- Description: A 16-year-old girl was allegedly gangraped inside a moving bus in Delhi. Opposition leaders criticized the BJP-led governments and police for failing to ensure women's safety. They questioned the authorities' priorities and responsiveness to crimes against wo…
+- Description: 92-year-old father testifies in Barun Biswas murder trial, names ex-minister Jyotipriya Mallick as suspect; family alleges flawed probe 14 years on.
 
-
-### HOMICIDE on 2026-08-31 10:54
-- Location: ABC News (AU)
-- Description: A 75-year-old man is charged with murder following the death of a woman in Bacchus Marsh, west of Melbourne.
-
-
-### ROBBERY/THEFT on 2026-08-31 10:51
-- Location: The Root
-- Description: Antonio Stewart of South Carolina was in the middle of a job interview when police said he stole lottery tickets, then tried redeeming them nearby.Read more...
-
-
-### OTHER on 2026-08-31 10:40
-- Location: Notebookcheck.net
-- Description: How brutal will GTA 6 be? After the Extended Look raised doubts about whether the game would feature an extensive gore system, comments from a content creator who has already had the chance to play Rockstar's upcoming title are giving fans reason to breathe a…
-
-
-### HOMICIDE on 2026-08-31 10:34
-- Location: The Times of India
-- Description: Attackers tracked Ankit Baliyan's movements and procured weapons for his murder. The investigation revealed a network linked to the Gogi gang's involvement. Two accused shooters were killed in a police encounter following the incident. The singer had acted in…
-
-Analysis generated at: Tue Sep  1 10:57:42 UTC 2026
+Analysis generated at: Tue Sep  1 15:56:32 UTC 2026
