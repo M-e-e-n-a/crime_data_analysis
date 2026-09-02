@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Sep  2 16:19:22 UTC 2026
+Last updated: Wed Sep  2 20:25:25 UTC 2026
 
 ## Latest Analysis
 
-Loaded 128910 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-01 16:17:44
+Loaded 128986 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-01 20:23:29
 
 Incidents by source:
 source
-newsapi           128809
+newsapi           128885
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,30 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-09-01 16:17
-- Location: Vox
-- Description: For a brief moment last week, it appeared that an ICE officer, who allegedly shot a man during the early 2026 occupation of Minneapolis and then lied about it, might actually face legal consequences for his actions. Christian Castro, the now-suspended ICE off…
+### HOMICIDE on 2026-09-01 20:23
+- Location: XXLMAG.COM
+- Description: Vonnie's testimony follows Keith 'Flacka' Jones, who also testified against Durk. Continue reading…
 
 
-### HOMICIDE on 2026-09-01 16:14
-- Location: Slashdot.org
-- Description: BofA banker Piacenti killed in Times Square stabbingreuters.com Bank of America Vice President Fatally Stabbed in Times SquareWSJ Woman Stabs 2, Killing One, in Times Square and Is Shot Dead by N.Y.P.D.The New York Times Deadly police-involved shooting in Tim…
+### HOMICIDE on 2026-09-01 20:18
+- Location: Billboard
+- Description: Tupac Shakur's murder trial ends with a guilty verdict, a DMX estate legal battle, plus Dolly Parton, Lizzo and more in this recap of music law news.
 
 
-### HOMICIDE on 2026-09-01 16:04
+### SHOOTING on 2026-09-01 20:17
+- Location: Crooksandliars.com
+- Description: Hannah Israel set up a GoFundMe for legal fees, as a lawsuit is expected. The cops were on her property without a warrant, searching for a missing person at night. It's been reported they first tried to tase the baby donkey before using lethal force. The unid…
+
+
+### OTHER on 2026-09-01 20:12
 - Location: BBC News
-- Description: The bodies of Paul Lafferty and Gary Beaton were found in a flat before a man was discovered seriously injured the next day and was then pronounced dead.
+- Description: The home secretary says the money will help support the force in the aftermath of the A66 crash.
 
 
-### HOMICIDE on 2026-09-01 16:03
-- Location: Fstoppers
-- Description: I find people fascinating, and when I see someone interesting when I’m out and about, I often want to photograph them. And I do. Many photographers have commented about this and would love to do the same but don’t feel comfortable or confident doing so.  
-[Re…
+### ROBBERY/THEFT on 2026-09-01 20:03
+- Location: Biztoc.com
+- Description: California police are investigating two cargo thefts totaling about $70,000 from an Anheuser-Busch distribution center. The incidents occurred Aug. 17 at 4545 Brooks Street in Montclair, California. One shipment headed for Tucson, Arizona, never reached its d…
 
-
-### HOMICIDE on 2026-09-01 16:00
-- Location: Joehoft.com
-- Description: Mistress of Imprisoned Ex-FBI Special Agent Tried to Report His Crimes with China and the Bidens – Now She’s Dead (Much of this was reported one year ago at JoeHoft.com on September 17, 2025, after Ms.
-The post UPDATE: Mistress of Imprisoned Ex-FBI Special Ag…
-
-Analysis generated at: Wed Sep  2 16:19:22 UTC 2026
+Analysis generated at: Wed Sep  2 20:25:25 UTC 2026
