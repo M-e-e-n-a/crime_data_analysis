@@ -1,10 +1,10 @@
 
-Loaded 128897 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-01 15:42:36
+Loaded 128910 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-01 16:17:44
 
 Incidents by source:
 source
-newsapi           128796
+newsapi           128809
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,30 +20,30 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-09-01 15:42
-- Location: Breitbart News
-- Description: New York Gov. Kathy Hochul (D) is taking heat for wearing a Muslim head scarf while speaking at the Islamic Cultural Center of New York in Queens over the weekend.
-The post PHOTO — New York Democrat Gov. Kathy Hochul Torched for Wearing Muslim Hijab: ‘Feminis…
+### SHOOTING on 2026-09-01 16:17
+- Location: Vox
+- Description: For a brief moment last week, it appeared that an ICE officer, who allegedly shot a man during the early 2026 occupation of Minneapolis and then lied about it, might actually face legal consequences for his actions. Christian Castro, the now-suspended ICE off…
 
 
-### ASSAULT on 2026-09-01 15:41
-- Location: Al Jazeera English
-- Description: Erin Piacenti identified as one of two victims in day-light stabbing at iconic New York City thoroughfare.
+### HOMICIDE on 2026-09-01 16:14
+- Location: Slashdot.org
+- Description: BofA banker Piacenti killed in Times Square stabbingreuters.com Bank of America Vice President Fatally Stabbed in Times SquareWSJ Woman Stabs 2, Killing One, in Times Square and Is Shot Dead by N.Y.P.D.The New York Times Deadly police-involved shooting in Tim…
 
 
-### OTHER on 2026-09-01 15:38
-- Location: Insurance Journal
-- Description: A Warren County, North Carolina man has been charged with insurance fraud for allegedly seeking an insurance payment from a restaurant where he claims he found cockroaches in his food. Investigators say it was one of four similar cockroach complaints …
+### HOMICIDE on 2026-09-01 16:04
+- Location: BBC News
+- Description: The bodies of Paul Lafferty and Gary Beaton were found in a flat before a man was discovered seriously injured the next day and was then pronounced dead.
 
 
-### HOMICIDE on 2026-09-01 15:32
-- Location: Boing Boing
-- Description: Cedartown Police Department in Georgia has no explanation for why one of its officers shot and killed HeeHaw, a miniature donkey, while supposedly searching for a lost child. Police chief Jamie Newsome posted a video to Facebook in which he said "it is with h…
+### HOMICIDE on 2026-09-01 16:03
+- Location: Fstoppers
+- Description: I find people fascinating, and when I see someone interesting when I’m out and about, I often want to photograph them. And I do. Many photographers have commented about this and would love to do the same but don’t feel comfortable or confident doing so.  
+[Re…
 
 
-### OTHER on 2026-09-01 15:26
-- Location: Breitbart News
-- Description: Florida's transportation department revoked local police departments' authority to install license plate reader cameras on state highways Monday, part of a growing national backlash against Flock Safety and other surveillance camera makers.
-The post Florida B…
+### HOMICIDE on 2026-09-01 16:00
+- Location: Joehoft.com
+- Description: Mistress of Imprisoned Ex-FBI Special Agent Tried to Report His Crimes with China and the Bidens – Now She’s Dead (Much of this was reported one year ago at JoeHoft.com on September 17, 2025, after Ms.
+The post UPDATE: Mistress of Imprisoned Ex-FBI Special Ag…
 
-Analysis generated at: Wed Sep  2 15:49:37 UTC 2026
+Analysis generated at: Wed Sep  2 16:19:22 UTC 2026
