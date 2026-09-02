@@ -1,10 +1,10 @@
 
-Loaded 128724 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-01 02:14:11
+Loaded 128728 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-01 03:42:06
 
 Incidents by source:
 source
-newsapi           128623
+newsapi           128627
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
+### HOMICIDE on 2026-09-01 03:42
+- Location: ABC News (AU)
+- Description: A lawyer tells the jury in the trial of Darryl Valroy Young that the acts his client stands accused of could have been committed by the man the prosecution says is the sole eyewitness.
+
+
+### ASSAULT on 2026-09-01 03:23
+- Location: The Times of India
+- Description: A 17-year-old girl seeking help after leaving home was gang-raped on a moving sleeper bus. Two men offered her a ride, then sexually assaulted her for about thirty kilometers. They abandoned the teenager near Kashmere Gate after the alleged crime. Police arre…
+
+
+### HOMICIDE on 2026-09-01 03:03
+- Location: AllHipHop
+- Description: 50 Cent predicts Keefe D could become a Diddy witness after jurors convict him of planning the attack that killed Tupac Shakur.
+
+
+### ROBBERY/THEFT on 2026-09-01 02:35
+- Location: Yahoo Entertainment
+- Description: Damoun Patterson faces felony charges including armed burglary and aggravated assault following his arrest.
+
+
 ### HOMICIDE on 2026-09-01 02:14
 - Location: BBC News
 - Description: The verdict ends decades of mystery as to who was behind the rapper's death.
 
-
-### HOMICIDE on 2026-09-01 02:12
-- Location: The Times of India
-- Description: A Las Vegas jury convicted Duane Davis for orchestrating Tupac Shakur's 1996 murder. Davis, who admitted involvement, faced charges after years of public statements. Prosecutors used his own words and memoir to build the case against him. The trial also explo…
-
-
-### HOMICIDE on 2026-09-01 02:12
-- Location: IGN
-- Description: Verdict arrives 30 years after the rapper and actor was killed in a Las Vegas drive-by shooting.
-
-
-### HOMICIDE on 2026-09-01 02:07
-- Location: Breitbart News
-- Description: A jury found 63-year-old Duane "Keffe D" Davis guilty in the murder of rap icon Tupac Shakur roughly 30 years after the tragic killing. 
-The post Jury Finds Duane ‘Keffe D’ Davis Guilty in the Murder of Rap Icon Tupac Shakur appeared first on Breitbart.
-
-
-### OTHER on 2026-09-01 01:45
-- Location: fox6now.com
-- Description: Recently released data from the FBI shows violent crime decreased 9.3% in 2025. According to the FBI, from 2024 to 2025, the data showed the largest year-to-year decline in violent crimes since FBI estimations started in 1936.
-
-Analysis generated at: Wed Sep  2 02:24:40 UTC 2026
+Analysis generated at: Wed Sep  2 03:48:29 UTC 2026
