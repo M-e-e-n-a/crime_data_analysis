@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Sep  2 10:27:01 UTC 2026
+Last updated: Wed Sep  2 15:49:37 UTC 2026
 
 ## Latest Analysis
 
-Loaded 128812 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-01 10:26:50
+Loaded 128897 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-01 15:42:36
 
 Incidents by source:
 source
-newsapi           128711
+newsapi           128796
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,30 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-09-01 10:26
-- Location: BBC News
-- Description: Prosecutors say the 17-year-old from North Carolina also published a manifesto from the two teenage gunmen in the 18 May attack.
+### OTHER on 2026-09-01 15:42
+- Location: Breitbart News
+- Description: New York Gov. Kathy Hochul (D) is taking heat for wearing a Muslim head scarf while speaking at the Islamic Cultural Center of New York in Queens over the weekend.
+The post PHOTO — New York Democrat Gov. Kathy Hochul Torched for Wearing Muslim Hijab: ‘Feminis…
 
 
-### OTHER on 2026-09-01 10:26
-- Location: The Times of India
-- Description: Pakistan News: Karachi's electricity crisis has intensified, with residents in several parts of the city reporting outages lasting up to 24 hours. Rights activists i.
+### ASSAULT on 2026-09-01 15:41
+- Location: Al Jazeera English
+- Description: Erin Piacenti identified as one of two victims in day-light stabbing at iconic New York City thoroughfare.
 
 
-### OTHER on 2026-09-01 10:22
-- Location: Dailymail.com
-- Description: Mohammed Faiyaz Iqbal, 43, from Preston, is now in prison after he used a so-called 'SMS blaster' to bypass mobile phone security measures and send scam texts to hundreds of devices.
+### OTHER on 2026-09-01 15:38
+- Location: Insurance Journal
+- Description: A Warren County, North Carolina man has been charged with insurance fraud for allegedly seeking an insurance payment from a restaurant where he claims he found cockroaches in his food. Investigators say it was one of four similar cockroach complaints …
 
 
-### HOMICIDE on 2026-09-01 10:22
-- Location: BBC News
-- Description: The murder of Notorious B.I.G. was thought to be linked to the killing of his rival Tupac Shakur and it came up a lot in the trial.
+### HOMICIDE on 2026-09-01 15:32
+- Location: Boing Boing
+- Description: Cedartown Police Department in Georgia has no explanation for why one of its officers shot and killed HeeHaw, a miniature donkey, while supposedly searching for a lost child. Police chief Jamie Newsome posted a video to Facebook in which he said "it is with h…
 
 
-### OTHER on 2026-09-01 10:21
-- Location: The Times of India
-- Description: Actor and activist Prakash Raj and several members of several civil society groups were detained by Bengaluru Police during an 'Election Commission Chalo' protest march at Freedom Park Tuesday afternoon. The protesters were demonstrating against the Special I…
+### OTHER on 2026-09-01 15:26
+- Location: Breitbart News
+- Description: Florida's transportation department revoked local police departments' authority to install license plate reader cameras on state highways Monday, part of a growing national backlash against Flock Safety and other surveillance camera makers.
+The post Florida B…
 
-Analysis generated at: Wed Sep  2 10:27:01 UTC 2026
+Analysis generated at: Wed Sep  2 15:49:37 UTC 2026
