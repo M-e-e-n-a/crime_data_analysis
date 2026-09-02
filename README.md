@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Sep  2 03:48:29 UTC 2026
+Last updated: Wed Sep  2 10:27:01 UTC 2026
 
 ## Latest Analysis
 
-Loaded 128728 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-01 03:42:06
+Loaded 128812 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-01 10:26:50
 
 Incidents by source:
 source
-newsapi           128627
+newsapi           128711
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-09-01 03:42
-- Location: ABC News (AU)
-- Description: A lawyer tells the jury in the trial of Darryl Valroy Young that the acts his client stands accused of could have been committed by the man the prosecution says is the sole eyewitness.
-
-
-### ASSAULT on 2026-09-01 03:23
-- Location: The Times of India
-- Description: A 17-year-old girl seeking help after leaving home was gang-raped on a moving sleeper bus. Two men offered her a ride, then sexually assaulted her for about thirty kilometers. They abandoned the teenager near Kashmere Gate after the alleged crime. Police arre…
-
-
-### HOMICIDE on 2026-09-01 03:03
-- Location: AllHipHop
-- Description: 50 Cent predicts Keefe D could become a Diddy witness after jurors convict him of planning the attack that killed Tupac Shakur.
-
-
-### ROBBERY/THEFT on 2026-09-01 02:35
-- Location: Yahoo Entertainment
-- Description: Damoun Patterson faces felony charges including armed burglary and aggravated assault following his arrest.
-
-
-### HOMICIDE on 2026-09-01 02:14
+### HOMICIDE on 2026-09-01 10:26
 - Location: BBC News
-- Description: The verdict ends decades of mystery as to who was behind the rapper's death.
+- Description: Prosecutors say the 17-year-old from North Carolina also published a manifesto from the two teenage gunmen in the 18 May attack.
 
-Analysis generated at: Wed Sep  2 03:48:29 UTC 2026
+
+### OTHER on 2026-09-01 10:26
+- Location: The Times of India
+- Description: Pakistan News: Karachi's electricity crisis has intensified, with residents in several parts of the city reporting outages lasting up to 24 hours. Rights activists i.
+
+
+### OTHER on 2026-09-01 10:22
+- Location: Dailymail.com
+- Description: Mohammed Faiyaz Iqbal, 43, from Preston, is now in prison after he used a so-called 'SMS blaster' to bypass mobile phone security measures and send scam texts to hundreds of devices.
+
+
+### HOMICIDE on 2026-09-01 10:22
+- Location: BBC News
+- Description: The murder of Notorious B.I.G. was thought to be linked to the killing of his rival Tupac Shakur and it came up a lot in the trial.
+
+
+### OTHER on 2026-09-01 10:21
+- Location: The Times of India
+- Description: Actor and activist Prakash Raj and several members of several civil society groups were detained by Bengaluru Police during an 'Election Commission Chalo' protest march at Freedom Park Tuesday afternoon. The protesters were demonstrating against the Special I…
+
+Analysis generated at: Wed Sep  2 10:27:01 UTC 2026
