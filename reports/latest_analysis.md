@@ -1,10 +1,10 @@
 
-Loaded 129227 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-02 16:01:07
+Loaded 129326 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-02 20:20:00
 
 Incidents by source:
 source
-newsapi           129126
+newsapi           129225
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,47 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-09-02 16:01
-- Location: Palm Beach Post
-- Description: State Attorney Thomas Bakkedahl has a warning for Tiger Woods. "Of all the people in the world who should not get behind the wheel of a car it's the gentleman who is one of the most recognizable faces on the planet."
+### SHOOTING on 2026-09-02 20:20
+- Location: Abcnews.com
+- Description: Police in Arizona have confirmed that a shooting at a Tucson gay bar was a hate crime
 
 
-### OTHER on 2026-09-02 16:00
-- Location: Superpunch.net
-- Description: View this post on Instagram
-A post shared by 8th Generation Farmer (@8thgenerationfarmer)
+### ASSAULT on 2026-09-02 20:19
+- Location: New York Post
+- Description: The victim fell on her side to the ground as garbage scattered around her and the heartless attacker ran off, the video shows.
 
 
+### OTHER on 2026-09-02 20:19
+- Location: New York Post
+- Description: But her plan was thwarted when the shocked mother stepped in and the would-be kidnapper took off on the southbound A train alone, according to law enforcement sources.
 
 
+### OTHER on 2026-09-02 20:16
+- Location: Techdirt
+- Description: This was inevitable. ICE has billions of new money to spend, zero shame, and not a single adult in a leadership position capable (or willing!) to talk the agency off the ledge. ICE decided the neat new tool of cruelty it absolutely had to have were gloves tha…
 
 
+### OTHER on 2026-09-02 20:16
+- Location: Fox News
+- Description: Rosie O'Donnell claimed ICE facilities are "concentration camps" where children are raped, prompting DHS to call her smears categorically false.
 
-
-
-
-
-
-
-
-
-
-
-Un alijo de cocaína incautado en España provoca una de las crisis de seguridad provocada por el narcotráfico más importantes de la historia reciente…
-
-
-### OTHER on 2026-09-02 15:52
-- Location: Dailymail.com
-- Description: The abandoned property at 3254 Southeast 111th Avenue was vacated by neighborhood response teams last Thursday, following a dramatic stand-off between occupants and police.
-
-
-### HOMICIDE on 2026-09-02 15:51
-- Location: Rolling Stone
-- Description: A reporter who followed Tupac Shakur's killing for decades explains why Duane "Keffe D" was found guilty
-
-
-### HOMICIDE on 2026-09-02 15:44
-- Location: The Times of India
-- Description: Body of 30-year-old labourer Raj Bahadur Ram found in canal near Ojha Baraon, Buxar; police and FSL investigate, drowning suspected; post-mortem ordered.
-
-Analysis generated at: Thu Sep  3 16:09:30 UTC 2026
+Analysis generated at: Thu Sep  3 20:24:35 UTC 2026
