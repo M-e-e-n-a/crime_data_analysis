@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Sep  3 15:39:04 UTC 2026
+Last updated: Thu Sep  3 16:09:30 UTC 2026
 
 ## Latest Analysis
 
-Loaded 129219 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-02 15:37:04
+Loaded 129227 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-02 16:01:07
 
 Incidents by source:
 source
-newsapi           129118
+newsapi           129126
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,30 +24,47 @@ ion.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2026-09-02 15:37
-- Location: Inside the Magic
-- Description: A 43-year-old guest was arrested at Disney after stealing more than $1,600 worth of items in broad daylight. The incident took place on August 31, with the guest appearing in court yesterday (September 1). Mass Theft Takes Place at Disney Park A theme park gu…
+### OTHER on 2026-09-02 16:01
+- Location: Palm Beach Post
+- Description: State Attorney Thomas Bakkedahl has a warning for Tiger Woods. "Of all the people in the world who should not get behind the wheel of a car it's the gentleman who is one of the most recognizable faces on the planet."
 
 
-### HOMICIDE on 2026-09-02 15:30
+### OTHER on 2026-09-02 16:00
+- Location: Superpunch.net
+- Description: View this post on Instagram
+A post shared by 8th Generation Farmer (@8thgenerationfarmer)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Un alijo de cocaína incautado en España provoca una de las crisis de seguridad provocada por el narcotráfico más importantes de la historia reciente…
+
+
+### OTHER on 2026-09-02 15:52
+- Location: Dailymail.com
+- Description: The abandoned property at 3254 Southeast 111th Avenue was vacated by neighborhood response teams last Thursday, following a dramatic stand-off between occupants and police.
+
+
+### HOMICIDE on 2026-09-02 15:51
+- Location: Rolling Stone
+- Description: A reporter who followed Tupac Shakur's killing for decades explains why Duane "Keffe D" was found guilty
+
+
+### HOMICIDE on 2026-09-02 15:44
 - Location: The Times of India
-- Description: Delhi High Court seeks Delhi Police response to Tahir Hussain’s appeal against his life sentence for IB staffer Ankit Sharma’s murder during 2020 riots.
+- Description: Body of 30-year-old labourer Raj Bahadur Ram found in canal near Ojha Baraon, Buxar; police and FSL investigate, drowning suspected; post-mortem ordered.
 
-
-### HOMICIDE on 2026-09-02 15:28
-- Location: New York Post
-- Description: A new round of lawsuits builds onto seven cases, in which families of victims killed in the shooting accused OpenAI and Sam Altman of prioritizing profits over safety.
-
-
-### ROBBERY/THEFT on 2026-09-02 15:25
-- Location: BroBible
-- Description: Police in Florida have released the arrest video of former NFL wide receiver Damoun Patterson being charged with grand theft of a motor vehicle and armed burglary of a dwelling after an Orlando home invasion. The Daytona Beach Police Department also charged P…
-
-
-### HOMICIDE on 2026-09-02 15:24
-- Location: The Punch
-- Description: Rivers State Police Command dismisses three officers involved in the killing of a UNIPORT graduate, Anthony Obodo, in Port Harcourt.
-
-Read More: https://punchng.com/police-dismiss-three-officers-over-uniport-graduate-killing/
-
-Analysis generated at: Thu Sep  3 15:39:04 UTC 2026
+Analysis generated at: Thu Sep  3 16:09:30 UTC 2026
