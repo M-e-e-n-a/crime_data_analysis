@@ -1,10 +1,10 @@
 
-Loaded 129013 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-02 02:30:02
+Loaded 129024 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-02 03:42:47
 
 Incidents by source:
 source
-newsapi           128912
+newsapi           128923
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-09-02 02:30
-- Location: Newsonjapan.com
-- Description: Okinawa police have arrested a 32-year-old U.S. citizen on suspicion of setting fire to a lodging facility in Chatan and attempting to kill 18 guests who were staying inside, following a blaze that left one man seriously injured on August 15. (News On Japan)
+### HOMICIDE on 2026-09-02 03:42
+- Location: The Times of India
+- Description: The main accused, Balraj, was killed in a police encounter on August 29. He had allegedly committed two similar horrific crimes in 2017. Balraj spent eight years in jail and secured bail in 2025. He was arrested for the rape and murder of a six-year-old girl.…
 
 
-### HOMICIDE on 2026-09-02 02:23
-- Location: CBC News
-- Description: Surrey police say RCMP are investigating after being called about a hate crime that had reportedly occurred at some point between 11 p.m. on Friday and 5 a.m. on Saturday.
+### OTHER on 2026-09-02 03:37
+- Location: The Times of India
+- Description: Police arrested a self-styled Aghori for allegedly trespassing at a cremation ground. The accused was seen consuming flesh from a burning pyre in a viral video. A complaint was filed by the Senapati Kaal Bhairav Committee after the video surfaced online. The …
 
 
-### OTHER on 2026-09-02 02:16
-- Location: CNN
-- Description: Joshua Wong, the former teenage activist who became a key leader of Hong Kong’s democracy movement, faces the prospect of many more years in prison after he pleaded guilty on Wednesday to the latest national security case brought by prosecutors.
+### HOMICIDE on 2026-09-02 03:33
+- Location: Slashdot.org
+- Description: Tucson, Arizona, police investigate gay bar shooting as a possible hate crimeAP News Shooting at Tucson Gay Bar That Killed 2 Investigated as Hate CrimeThe New York Times Tucson police investigate gay bar shooting as a possible hate crime; 3 deadKSL Deadly mi…
 
 
-### HOMICIDE on 2026-09-02 02:11
-- Location: Dailymail.com
-- Description: Dawn Light, 56, of Sutton, was taken into custody outside Plymouth District Court at 3.40pm on Tuesday and charged with intimidation of a witness, jurors or person furnishing information.
+### OTHER on 2026-09-02 03:32
+- Location: Al Jazeera English
+- Description: The far-right British commentator sat with interviewer Piers Morgan after being detained by US immigration authorities.
 
 
-### HOMICIDE on 2026-09-02 01:59
-- Location: Rolling Stone
-- Description: "It’s a prosecuted case with a conviction, and so there’s justice," Greg Kading tells Rolling Stone in his first interview since Duane Davis was convicted
+### ROBBERY/THEFT on 2026-09-02 03:16
+- Location: The Times of India
+- Description: BEST has booked thousands of electricity theft cases and assessed substantial fines. However, a large portion of these penalties remains uncollected by the undertaking. Offenders exploit loopholes and default on installment agreements to avoid payment. BEST f…
 
-Analysis generated at: Thu Sep  3 02:32:06 UTC 2026
+Analysis generated at: Thu Sep  3 03:49:05 UTC 2026
