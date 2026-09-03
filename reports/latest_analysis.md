@@ -1,10 +1,10 @@
 
-Loaded 129024 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-02 03:42:47
+Loaded 129120 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-02 10:32:59
 
 Incidents by source:
 source
-newsapi           128923
+newsapi           129019
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-09-02 03:42
+### ROBBERY/THEFT on 2026-09-02 10:32
+- Location: Insurance Journal
+- Description: A historic diamond necklace originally designed for the Egyptian royal family and valued at about $4 million was stolen from a major Vienna museum, triggering a police manhunt for the two alleged thieves. The men smashed a display case in …
+
+
+### OTHER on 2026-09-02 10:30
+- Location: Yahoo Entertainment
+- Description: The bizarre loss left a young entrepreneur thousands in the hole — and offers a lesson for anyone relying on a side hustle for extra income.
+
+
+### HOMICIDE on 2026-09-02 10:30
+- Location: Radaronline.com
+- Description: Amanda Knox's comedy show about the murder case sparks outrage from Meredith Kercher's grieving family.
+
+
+### OTHER on 2026-09-02 10:29
 - Location: The Times of India
-- Description: The main accused, Balraj, was killed in a police encounter on August 29. He had allegedly committed two similar horrific crimes in 2017. Balraj spent eight years in jail and secured bail in 2025. He was arrested for the rape and murder of a six-year-old girl.…
+- Description: During her live Gamescom stream, German Twitch streamer ZoeMatthea faced an alleged stalker who has reportedly harassed her for nearly two years. The unsettling encounter unfolded live, capturing the attention of her viewers. Although the police indicated the…
 
 
-### OTHER on 2026-09-02 03:37
+### OTHER on 2026-09-02 10:29
 - Location: The Times of India
-- Description: Police arrested a self-styled Aghori for allegedly trespassing at a cremation ground. The accused was seen consuming flesh from a burning pyre in a viral video. A complaint was filed by the Senapati Kaal Bhairav Committee after the video surfaced online. The …
+- Description: Science News: A crab shell left behind after a meal might seem destined for the bin, but scientists have found a very different use for it. Engineers at the Univers.
 
-
-### HOMICIDE on 2026-09-02 03:33
-- Location: Slashdot.org
-- Description: Tucson, Arizona, police investigate gay bar shooting as a possible hate crimeAP News Shooting at Tucson Gay Bar That Killed 2 Investigated as Hate CrimeThe New York Times Tucson police investigate gay bar shooting as a possible hate crime; 3 deadKSL Deadly mi…
-
-
-### OTHER on 2026-09-02 03:32
-- Location: Al Jazeera English
-- Description: The far-right British commentator sat with interviewer Piers Morgan after being detained by US immigration authorities.
-
-
-### ROBBERY/THEFT on 2026-09-02 03:16
-- Location: The Times of India
-- Description: BEST has booked thousands of electricity theft cases and assessed substantial fines. However, a large portion of these penalties remains uncollected by the undertaking. Offenders exploit loopholes and default on installment agreements to avoid payment. BEST f…
-
-Analysis generated at: Thu Sep  3 03:49:05 UTC 2026
+Analysis generated at: Thu Sep  3 10:33:40 UTC 2026
