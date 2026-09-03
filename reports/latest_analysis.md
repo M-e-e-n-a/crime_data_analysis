@@ -1,10 +1,10 @@
 
-Loaded 129120 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-02 10:32:59
+Loaded 129219 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-02 15:37:04
 
 Incidents by source:
 source
-newsapi           129019
+newsapi           129118
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,30 @@ ion.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2026-09-02 10:32
-- Location: Insurance Journal
-- Description: A historic diamond necklace originally designed for the Egyptian royal family and valued at about $4 million was stolen from a major Vienna museum, triggering a police manhunt for the two alleged thieves. The men smashed a display case in …
+### ROBBERY/THEFT on 2026-09-02 15:37
+- Location: Inside the Magic
+- Description: A 43-year-old guest was arrested at Disney after stealing more than $1,600 worth of items in broad daylight. The incident took place on August 31, with the guest appearing in court yesterday (September 1). Mass Theft Takes Place at Disney Park A theme park gu…
 
 
-### OTHER on 2026-09-02 10:30
-- Location: Yahoo Entertainment
-- Description: The bizarre loss left a young entrepreneur thousands in the hole — and offers a lesson for anyone relying on a side hustle for extra income.
-
-
-### HOMICIDE on 2026-09-02 10:30
-- Location: Radaronline.com
-- Description: Amanda Knox's comedy show about the murder case sparks outrage from Meredith Kercher's grieving family.
-
-
-### OTHER on 2026-09-02 10:29
+### HOMICIDE on 2026-09-02 15:30
 - Location: The Times of India
-- Description: During her live Gamescom stream, German Twitch streamer ZoeMatthea faced an alleged stalker who has reportedly harassed her for nearly two years. The unsettling encounter unfolded live, capturing the attention of her viewers. Although the police indicated the…
+- Description: Delhi High Court seeks Delhi Police response to Tahir Hussain’s appeal against his life sentence for IB staffer Ankit Sharma’s murder during 2020 riots.
 
 
-### OTHER on 2026-09-02 10:29
-- Location: The Times of India
-- Description: Science News: A crab shell left behind after a meal might seem destined for the bin, but scientists have found a very different use for it. Engineers at the Univers.
+### HOMICIDE on 2026-09-02 15:28
+- Location: New York Post
+- Description: A new round of lawsuits builds onto seven cases, in which families of victims killed in the shooting accused OpenAI and Sam Altman of prioritizing profits over safety.
 
-Analysis generated at: Thu Sep  3 10:33:40 UTC 2026
+
+### ROBBERY/THEFT on 2026-09-02 15:25
+- Location: BroBible
+- Description: Police in Florida have released the arrest video of former NFL wide receiver Damoun Patterson being charged with grand theft of a motor vehicle and armed burglary of a dwelling after an Orlando home invasion. The Daytona Beach Police Department also charged P…
+
+
+### HOMICIDE on 2026-09-02 15:24
+- Location: The Punch
+- Description: Rivers State Police Command dismisses three officers involved in the killing of a UNIPORT graduate, Anthony Obodo, in Port Harcourt.
+
+Read More: https://punchng.com/police-dismiss-three-officers-over-uniport-graduate-killing/
+
+Analysis generated at: Thu Sep  3 15:39:04 UTC 2026
