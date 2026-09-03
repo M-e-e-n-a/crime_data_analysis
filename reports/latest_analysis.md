@@ -1,10 +1,10 @@
 
-Loaded 128986 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-01 20:23:29
+Loaded 129013 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-02 02:30:02
 
 Incidents by source:
 source
-newsapi           128885
+newsapi           128912
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-09-01 20:23
-- Location: XXLMAG.COM
-- Description: Vonnie's testimony follows Keith 'Flacka' Jones, who also testified against Durk. Continue reading…
+### HOMICIDE on 2026-09-02 02:30
+- Location: Newsonjapan.com
+- Description: Okinawa police have arrested a 32-year-old U.S. citizen on suspicion of setting fire to a lodging facility in Chatan and attempting to kill 18 guests who were staying inside, following a blaze that left one man seriously injured on August 15. (News On Japan)
 
 
-### HOMICIDE on 2026-09-01 20:18
-- Location: Billboard
-- Description: Tupac Shakur's murder trial ends with a guilty verdict, a DMX estate legal battle, plus Dolly Parton, Lizzo and more in this recap of music law news.
+### HOMICIDE on 2026-09-02 02:23
+- Location: CBC News
+- Description: Surrey police say RCMP are investigating after being called about a hate crime that had reportedly occurred at some point between 11 p.m. on Friday and 5 a.m. on Saturday.
 
 
-### SHOOTING on 2026-09-01 20:17
-- Location: Crooksandliars.com
-- Description: Hannah Israel set up a GoFundMe for legal fees, as a lawsuit is expected. The cops were on her property without a warrant, searching for a missing person at night. It's been reported they first tried to tase the baby donkey before using lethal force. The unid…
+### OTHER on 2026-09-02 02:16
+- Location: CNN
+- Description: Joshua Wong, the former teenage activist who became a key leader of Hong Kong’s democracy movement, faces the prospect of many more years in prison after he pleaded guilty on Wednesday to the latest national security case brought by prosecutors.
 
 
-### OTHER on 2026-09-01 20:12
-- Location: BBC News
-- Description: The home secretary says the money will help support the force in the aftermath of the A66 crash.
+### HOMICIDE on 2026-09-02 02:11
+- Location: Dailymail.com
+- Description: Dawn Light, 56, of Sutton, was taken into custody outside Plymouth District Court at 3.40pm on Tuesday and charged with intimidation of a witness, jurors or person furnishing information.
 
 
-### ROBBERY/THEFT on 2026-09-01 20:03
-- Location: Biztoc.com
-- Description: California police are investigating two cargo thefts totaling about $70,000 from an Anheuser-Busch distribution center. The incidents occurred Aug. 17 at 4545 Brooks Street in Montclair, California. One shipment headed for Tucson, Arizona, never reached its d…
+### HOMICIDE on 2026-09-02 01:59
+- Location: Rolling Stone
+- Description: "It’s a prosecuted case with a conviction, and so there’s justice," Greg Kading tells Rolling Stone in his first interview since Duane Davis was convicted
 
-Analysis generated at: Wed Sep  2 20:25:25 UTC 2026
+Analysis generated at: Thu Sep  3 02:32:06 UTC 2026
