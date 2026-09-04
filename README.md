@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Sep  4 16:04:55 UTC 2026
+Last updated: Fri Sep  4 20:10:43 UTC 2026
 
 ## Latest Analysis
 
-Loaded 129485 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-03 16:04:19
+Loaded 129565 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-03 20:05:09
 
 Incidents by source:
 source
-newsapi           129384
+newsapi           129464
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,45 +24,31 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-09-03 16:04
-- Location: Addicted2success.com
-- Description: Most owners can describe their business in detail and still not say with confidence whether last month was actually good. Revenue felt strong. The bank balance looks fine. Somewhere between those two impressions sits the truth, and it usually only surfaces mo…
-
-
-### HOMICIDE on 2026-09-03 16:03
+### SHOOTING on 2026-09-03 20:05
 - Location: Abcnews.com
-- Description: Investigators were scouring the scene of the downtown Minneapolis shooting that left three people dead, including the suspect, and five others injured
+- Description: Prosecutors found she had a right to stand her ground, under Florida law.
 
 
-### OTHER on 2026-09-03 16:00
-- Location: Gizmodo.com
-- Description: Not all of them include Mike Flanagan, but he's well-represented here, as you might guess.
+### DRUG RELATED on 2026-09-03 20:04
+- Location: ABC News (AU)
+- Description: Police allege a 35-year-old union delegate was part of a trio trafficking drugs at construction sites across Melbourne.
 
 
-### ASSAULT on 2026-09-03 16:00
-- Location: Superpunch.net
-- Description: The only right way to watch Triple Jump pic.twitter.com/0pb1OdG6k4
-— Prithvi (@Eighty7_Fifty8) August 14, 2026 
+### HOMICIDE on 2026-09-03 20:03
+- Location: The Times of India
+- Description: Lucknow Police announce Rs 25,000 reward for Jai Krishna Tiwari in transporter Dhirendra Pratap Singh murder; suspect helped arrange pistol in contract killing.
 
 
+### HOMICIDE on 2026-09-03 20:01
+- Location: Gothamist
+- Description: A stock photo of an NYPD cruiser
+ 
+
+Shooting and murders are down, but other incidents like hate crimes and those involving alleged felony assault reoffenders persist. [ more › ]
 
 
+### HOMICIDE on 2026-09-03 20:01
+- Location: ABC News (AU)
+- Description: Young, cheap and dumb. Sydney's crime bosses are hiring teenage help, but it is leading to tragic consequences.
 
-
-
-
-
-
-
-
-
-
-German power grid under fresh sabotage attack, police say https://t.co/jxKkKJjlTX https://t.co/jxKkKJjlTX
-— Reuters World (@Reuters…
-
-
-### OTHER on 2026-09-03 16:00
-- Location: IndieWire
-- Description: Elegance Bratton directs Mark Wahlberg and Yahya Abdul-Mateen II in a film that selectively blends true events into entertaining popcorn fare.
-
-Analysis generated at: Fri Sep  4 16:04:55 UTC 2026
+Analysis generated at: Fri Sep  4 20:10:42 UTC 2026
