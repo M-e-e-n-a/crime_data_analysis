@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Sep  3 20:24:35 UTC 2026
+Last updated: Fri Sep  4 02:27:18 UTC 2026
 
 ## Latest Analysis
 
-Loaded 129326 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-02 20:20:00
+Loaded 129369 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-03 02:25:52
 
 Incidents by source:
 source
-newsapi           129225
+newsapi           129268
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-09-02 20:20
-- Location: Abcnews.com
-- Description: Police in Arizona have confirmed that a shooting at a Tucson gay bar was a hate crime
+### OTHER on 2026-09-03 02:25
+- Location: Dailymail.com
+- Description: Liberal Leader Angus Taylor is now pushing for tobacco excise to be slashed by 80 per cent.
 
 
-### ASSAULT on 2026-09-02 20:19
-- Location: New York Post
-- Description: The victim fell on her side to the ground as garbage scattered around her and the heartless attacker ran off, the video shows.
+### HOMICIDE on 2026-09-03 02:18
+- Location: Al Jazeera English
+- Description: Police say suspected gunman is also dead and that several people, including three officers, were wounded.
 
 
-### OTHER on 2026-09-02 20:19
-- Location: New York Post
-- Description: But her plan was thwarted when the shocked mother stepped in and the would-be kidnapper took off on the southbound A train alone, according to law enforcement sources.
+### HOMICIDE on 2026-09-03 02:17
+- Location: Dailymail.com
+- Description: Molly Ticehurst was murdered by her ex-boyfriend Daniel Billings in central western New South Wales.
 
 
-### OTHER on 2026-09-02 20:16
-- Location: Techdirt
-- Description: This was inevitable. ICE has billions of new money to spend, zero shame, and not a single adult in a leadership position capable (or willing!) to talk the agency off the ledge. ICE decided the neat new tool of cruelty it absolutely had to have were gloves tha…
+### OTHER on 2026-09-03 02:09
+- Location: The Times of India
+- Description: The IPO, which opened for subscription on August 27 and closed on August 31, witnessed an extraordinary response from investors, with the issue subscribed a staggering 289 times overall.
 
 
-### OTHER on 2026-09-02 20:16
-- Location: Fox News
-- Description: Rosie O'Donnell claimed ICE facilities are "concentration camps" where children are raped, prompting DHS to call her smears categorically false.
+### HOMICIDE on 2026-09-03 02:03
+- Location: Dailymail.com
+- Description: The 32-year-old executive had recently welcomed a daughter and had just returned to work after maternity leave.
 
-Analysis generated at: Thu Sep  3 20:24:35 UTC 2026
+Analysis generated at: Fri Sep  4 02:27:18 UTC 2026
