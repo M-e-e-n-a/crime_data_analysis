@@ -1,10 +1,10 @@
 
-Loaded 129369 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-03 02:25:52
+Loaded 129378 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-03 03:43:18
 
 Incidents by source:
 source
-newsapi           129268
+newsapi           129277
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-09-03 02:25
-- Location: Dailymail.com
-- Description: Liberal Leader Angus Taylor is now pushing for tobacco excise to be slashed by 80 per cent.
+### HOMICIDE on 2026-09-03 03:43
+- Location: Freerepublic.com
+- Description: A police officer who shot and killed a New Jersey college student in Montgomery County, Pennsylvania, faces criminal charges, officials announced. Upper Pottsgrove Police Corporal Sean Farrell, 58, of Pottstown, Pennsylvania, is charged with voluntary manslau…
 
 
-### HOMICIDE on 2026-09-03 02:18
-- Location: Al Jazeera English
-- Description: Police say suspected gunman is also dead and that several people, including three officers, were wounded.
+### SHOOTING on 2026-09-03 03:41
+- Location: ABC News (AU)
+- Description: The Crisafulli government says the drop of more than 12,000 recorded victims of crime are "green shoots" in their crime crackdown.
 
 
-### HOMICIDE on 2026-09-03 02:17
-- Location: Dailymail.com
-- Description: Molly Ticehurst was murdered by her ex-boyfriend Daniel Billings in central western New South Wales.
-
-
-### OTHER on 2026-09-03 02:09
+### HOMICIDE on 2026-09-03 03:30
 - Location: The Times of India
-- Description: The IPO, which opened for subscription on August 27 and closed on August 31, witnessed an extraordinary response from investors, with the issue subscribed a staggering 289 times overall.
+- Description: The Telangana High Court has directed Warangal police to seek a new expert medical opinion. This is to determine the cause of death for Lyadella Raju, a Dalit daily wager. His wife alleged murder, challenging the police's initial closure of the case. Previous…
 
 
-### HOMICIDE on 2026-09-03 02:03
-- Location: Dailymail.com
-- Description: The 32-year-old executive had recently welcomed a daughter and had just returned to work after maternity leave.
+### HOMICIDE on 2026-09-03 03:30
+- Location: Freerepublic.com
+- Description: There was a hate crime in Tucson, Arizona, on Monday. Two gay men at a bar were gunned down; the suspect had a list of other gay establishments around the city, so this has become a hate crime investigation. Two things will ensure this story is suffocated wit…
 
-Analysis generated at: Fri Sep  4 02:27:18 UTC 2026
+
+### HOMICIDE on 2026-09-03 03:14
+- Location: Slashdot.org
+- Description: Suspect and two victims dead at apartment shooting in downtown MinneapolisThe Guardian Multiple victims, including 2 police officers, in downtown Minneapolis shootingBring Me The News 2 people killed and suspect is dead in downtown Minneapolis shootingWFMZ.co…
+
+Analysis generated at: Fri Sep  4 03:48:33 UTC 2026
