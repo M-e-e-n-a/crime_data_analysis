@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Sep  4 15:37:31 UTC 2026
+Last updated: Fri Sep  4 16:04:55 UTC 2026
 
 ## Latest Analysis
 
-Loaded 129475 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-03 15:32:22
+Loaded 129485 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-03 16:04:19
 
 Incidents by source:
 source
-newsapi           129374
+newsapi           129384
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,45 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-09-03 15:32
-- Location: Fox News
-- Description: Moving to a 55+ community can quickly expose your data to scammers and data brokers before you even unpack, putting your whole family at risk.
+### OTHER on 2026-09-03 16:04
+- Location: Addicted2success.com
+- Description: Most owners can describe their business in detail and still not say with confidence whether last month was actually good. Revenue felt strong. The bank balance looks fine. Somewhere between those two impressions sits the truth, and it usually only surfaces mo…
 
 
-### OTHER on 2026-09-03 15:30
-- Location: nj.com
-- Description: Woods pleaded guilty to reckless driving and refusing to submit to a lawful test.
+### HOMICIDE on 2026-09-03 16:03
+- Location: Abcnews.com
+- Description: Investigators were scouring the scene of the downtown Minneapolis shooting that left three people dead, including the suspect, and five others injured
 
 
-### OTHER on 2026-09-03 15:29
-- Location: BusinessLine
-- Description: India and Belgium aim to double bilateral trade to $26 billion in five years, enhancing cooperation in various sectors.
+### OTHER on 2026-09-03 16:00
+- Location: Gizmodo.com
+- Description: Not all of them include Mike Flanagan, but he's well-represented here, as you might guess.
 
 
-### SHOOTING on 2026-09-03 15:28
-- Location: WSB Atlanta
-- Description: Court documents stated that an argument broke out when Ervin Gutierrez “began antagonizing” his cousin, claiming that the green chile in his enchiladas was too hot.
+### ASSAULT on 2026-09-03 16:00
+- Location: Superpunch.net
+- Description: The only right way to watch Triple Jump pic.twitter.com/0pb1OdG6k4
+— Prithvi (@Eighty7_Fifty8) August 14, 2026 
 
 
-### HOMICIDE on 2026-09-03 15:22
-- Location: The Daily Caller
-- Description: An African immigrant shot and killed two people, including a left-wing activist, at a gay bar in Tucson, Arizona, before turning the gun on himself.
 
-Analysis generated at: Fri Sep  4 15:37:31 UTC 2026
+
+
+
+
+
+
+
+
+
+
+
+German power grid under fresh sabotage attack, police say https://t.co/jxKkKJjlTX https://t.co/jxKkKJjlTX
+— Reuters World (@Reuters…
+
+
+### OTHER on 2026-09-03 16:00
+- Location: IndieWire
+- Description: Elegance Bratton directs Mark Wahlberg and Yahya Abdul-Mateen II in a film that selectively blends true events into entertaining popcorn fare.
+
+Analysis generated at: Fri Sep  4 16:04:55 UTC 2026
