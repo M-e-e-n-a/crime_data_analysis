@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Sep  4 20:10:43 UTC 2026
+Last updated: Sat Sep  5 02:28:57 UTC 2026
 
 ## Latest Analysis
 
-Loaded 129565 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-03 20:05:09
+Loaded 129580 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-04 02:28:43
 
 Incidents by source:
 source
-newsapi           129464
+newsapi           129479
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,31 +24,30 @@ ion.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-09-03 20:05
-- Location: Abcnews.com
-- Description: Prosecutors found she had a right to stand her ground, under Florida law.
+### HOMICIDE on 2026-09-04 02:28
+- Location: Rolling Stone
+- Description: Both sides rested at Lil Durk's murder-for-hire trial on Thursday, with the wife of one of the government's star witnesses disputing his testimony.
 
 
-### DRUG RELATED on 2026-09-03 20:04
+### OTHER on 2026-09-04 02:11
+- Location: Dailymail.com
+- Description: The woman allegedly spiked the older man's drinks with benzodiazepine on at least three occasions, causing him to overdose on the last one.
+
+
+### HOMICIDE on 2026-09-04 01:23
+- Location: The Punch
+- Description: Niger State Police Command arrests 12 suspects involved in murder, kidnapping, and armed robbery, including a fake vigilante group.
+
+Read More: https://punchng.com/niger-police-arrest-12-suspects-for-murder-kidnapping/
+
+
+### HOMICIDE on 2026-09-04 01:15
+- Location: Fox News
+- Description: Minnesota officials identified the two civilians killed and the Minneapolis police officers injured during Wednesday’s deadly apartment shooting.
+
+
+### OTHER on 2026-09-04 01:11
 - Location: ABC News (AU)
-- Description: Police allege a 35-year-old union delegate was part of a trio trafficking drugs at construction sites across Melbourne.
+- Description: Police Minister Dan Purdie said almost 1,400 weapons had been taken off the street since Jack's Law was made permanent last year.
 
-
-### HOMICIDE on 2026-09-03 20:03
-- Location: The Times of India
-- Description: Lucknow Police announce Rs 25,000 reward for Jai Krishna Tiwari in transporter Dhirendra Pratap Singh murder; suspect helped arrange pistol in contract killing.
-
-
-### HOMICIDE on 2026-09-03 20:01
-- Location: Gothamist
-- Description: A stock photo of an NYPD cruiser
- 
-
-Shooting and murders are down, but other incidents like hate crimes and those involving alleged felony assault reoffenders persist. [ more › ]
-
-
-### HOMICIDE on 2026-09-03 20:01
-- Location: ABC News (AU)
-- Description: Young, cheap and dumb. Sydney's crime bosses are hiring teenage help, but it is leading to tragic consequences.
-
-Analysis generated at: Fri Sep  4 20:10:42 UTC 2026
+Analysis generated at: Sat Sep  5 02:28:57 UTC 2026
