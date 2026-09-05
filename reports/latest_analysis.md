@@ -1,10 +1,10 @@
 
-Loaded 129714 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-04 14:53:56
+Loaded 129814 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-04 19:49:08
 
 Incidents by source:
 source
-newsapi           129613
+newsapi           129713
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-09-04 14:53
-- Location: WWD
-- Description: Groups like the National Retail Federation, the World Shipping Council and the American Trucking Association are lobbying lawmakers to prioritize the Combating Organized Retail Crime Act.
+### ROBBERY/THEFT on 2026-09-04 19:49
+- Location: The Times of India
+- Description: Hisar electronics dealer Happy Chopra’s family refuses to take body, alleges lender harassment over Rs 25 lakh demand; police probe, postmortem underway.
 
 
-### OTHER on 2026-09-04 14:51
-- Location: The New Republic
-- Description: On this cusp of Labor Day, when election campaigns kick into fourth gear, I don’t want to jinx anything, but I have to say it: The voters are going to barber-strap Donald Trump in the November midterms. I’ve been wrong before, of course. On the other hand, I’…
+### ROBBERY/THEFT on 2026-09-04 19:47
+- Location: The Times of India
+- Description: Punjab Police order independent probe into alleged custodial torture and desecration of Sikh youth after black-flag protest at CM Mann event; AAP, oppn trade charges.
 
 
-### HOMICIDE on 2026-09-04 14:49
-- Location: The Verge
-- Description: It's Bullitt meets Christine meets Waymo. A new short film imagines a San Francisco car chase where the other driver isn't human - and the car may be trying to kill you. That a robotaxi can now be cast as the villain with almost no explanation says something …
+### ROBBERY/THEFT on 2026-09-04 19:47
+- Location: The Times of India
+- Description: Calcutta High Court orders first CBI probe into “digital arrest” scam; retired Air Force officer alleges Rs 1.74 crore fraud, citing pan-India ramifications.
 
 
-### OTHER on 2026-09-04 14:48
-- Location: Breitbart News
-- Description: A man has been charged for allegedly firing over 200 rounds at a tree-cutting crew and sheriff's drone in Clackamas County, Oregon.
-The post WATCH — Oregon: Deputies in SWAT Vehicle Ram Suspect’s Tractor in Tense Standoff appeared first on Breitbart.
+### OTHER on 2026-09-04 19:46
+- Location: The Times of India
+- Description: Malerkotla police arrest 3 armed history-sheeters; 2 .32-bore pistols and 6 live cartridges seized. FIR filed under Arms Act and BNS; sent to jail.
 
 
-### HOMICIDE on 2026-09-04 14:41
-- Location: Dailymail.com
-- Description: Oscar-nominated director Lexi Alexander, 52, doubled down on her vile mocking of the murder of a young Bank of America executive as she bragged that it has led to new work opportunities.
+### OTHER on 2026-09-04 19:44
+- Location: SFGate
+- Description: Injury concerns are already piling up.
 
-Analysis generated at: Sat Sep  5 14:55:09 UTC 2026
+Analysis generated at: Sat Sep  5 19:49:51 UTC 2026
