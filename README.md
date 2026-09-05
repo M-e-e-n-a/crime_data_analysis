@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Sep  5 14:25:15 UTC 2026
+Last updated: Sat Sep  5 14:55:09 UTC 2026
 
 ## Latest Analysis
 
-Loaded 129706 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-04 14:18:16
+Loaded 129714 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-04 14:53:56
 
 Incidents by source:
 source
-newsapi           129605
+newsapi           129613
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2026-09-04 14:18
-- Location: The Times of India
-- Description: Coimbatore police probe theft of nearly 50kg silver items from a locked house on Oppanakkara Street; case registered after owner found broken lock.
+### OTHER on 2026-09-04 14:53
+- Location: WWD
+- Description: Groups like the National Retail Federation, the World Shipping Council and the American Trucking Association are lobbying lawmakers to prioritize the Combating Organized Retail Crime Act.
 
 
-### HOMICIDE on 2026-09-04 14:10
-- Location: Newser
-- Description: A tense standoff high above the East River ended in a deadly police shooting on the Brooklyn Bridge early Friday. As ABC7 reports, NYPD emergency service officers responded around 3:30am to reports of a man climbing the bridge and found him walking on the cab…
+### OTHER on 2026-09-04 14:51
+- Location: The New Republic
+- Description: On this cusp of Labor Day, when election campaigns kick into fourth gear, I don’t want to jinx anything, but I have to say it: The voters are going to barber-strap Donald Trump in the November midterms. I’ve been wrong before, of course. On the other hand, I’…
 
 
-### OTHER on 2026-09-04 14:07
-- Location: BroBible
-- Description: A serial pooper has been running around threatening the residents of a wealthy California neighborhood. And apparently, this has been going on for quite some time. The neighborhood’s residents say the situation has gotten worse and the woman is now threatenin…
+### HOMICIDE on 2026-09-04 14:49
+- Location: The Verge
+- Description: It's Bullitt meets Christine meets Waymo. A new short film imagines a San Francisco car chase where the other driver isn't human - and the car may be trying to kill you. That a robotaxi can now be cast as the villain with almost no explanation says something …
 
 
-### HOMICIDE on 2026-09-04 14:06
+### OTHER on 2026-09-04 14:48
+- Location: Breitbart News
+- Description: A man has been charged for allegedly firing over 200 rounds at a tree-cutting crew and sheriff's drone in Clackamas County, Oregon.
+The post WATCH — Oregon: Deputies in SWAT Vehicle Ram Suspect’s Tractor in Tense Standoff appeared first on Breitbart.
+
+
+### HOMICIDE on 2026-09-04 14:41
 - Location: Dailymail.com
-- Description: Paul Sharpe, now 56, was jailed for life in 2001 after murdering 28-year-old Sarah Widdup, who he seduced when she contacted his phone-in show based in Bolton, Greater Manchester.
+- Description: Oscar-nominated director Lexi Alexander, 52, doubled down on her vile mocking of the murder of a young Bank of America executive as she bragged that it has led to new work opportunities.
 
-
-### OTHER on 2026-09-04 14:03
-- Location: The Times of India
-- Description: Police raided fugitive Birbhum stone trader Tulu Mondal’s Suri property to trace aide Chhoton; he faces organised crime charges after Rs 28.5 crore and 15kg gold seizure.
-
-Analysis generated at: Sat Sep  5 14:25:15 UTC 2026
+Analysis generated at: Sat Sep  5 14:55:09 UTC 2026
