@@ -1,10 +1,10 @@
 
-Loaded 129646 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-04 09:49:16
+Loaded 129706 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-04 14:18:16
 
 Incidents by source:
 source
-newsapi           129545
+newsapi           129605
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-09-04 09:49
+### ROBBERY/THEFT on 2026-09-04 14:18
 - Location: The Times of India
-- Description: The Karnataka high court asked Flipkart to explain its BIS compliance procedures. Flipkart is challenging a penalty imposed by the CCPA for selling non-compliant toys. The court questioned Flipkart's responsibility for products sold by third-party sellers. It…
+- Description: Coimbatore police probe theft of nearly 50kg silver items from a locked house on Oppanakkara Street; case registered after owner found broken lock.
 
 
-### OTHER on 2026-09-04 09:48
-- Location: The Times of India
-- Description: Tsutomu Yamaguchi's remarkable story is one of survival against unimaginable odds, as he endured the horrors of two atomic bombings just days apart in August 1945. Initially in Hiroshima on August 6, he found himself in Nagasaki on August 9. Post-war, Yamaguc…
+### HOMICIDE on 2026-09-04 14:10
+- Location: Newser
+- Description: A tense standoff high above the East River ended in a deadly police shooting on the Brooklyn Bridge early Friday. As ABC7 reports, NYPD emergency service officers responded around 3:30am to reports of a man climbing the bridge and found him walking on the cab…
 
 
-### OTHER on 2026-09-04 09:47
+### OTHER on 2026-09-04 14:07
+- Location: BroBible
+- Description: A serial pooper has been running around threatening the residents of a wealthy California neighborhood. And apparently, this has been going on for quite some time. The neighborhood’s residents say the situation has gotten worse and the woman is now threatenin…
+
+
+### HOMICIDE on 2026-09-04 14:06
 - Location: Dailymail.com
-- Description: Enraged locals argued with the North Africans as they surrounded the tiny mammal and lifted it up into the air, with one warning them it was illegal to touch it and 'eat it.'
+- Description: Paul Sharpe, now 56, was jailed for life in 2001 after murdering 28-year-old Sarah Widdup, who he seduced when she contacted his phone-in show based in Bolton, Greater Manchester.
 
 
-### DRUG RELATED on 2026-09-04 09:45
+### OTHER on 2026-09-04 14:03
 - Location: The Times of India
-- Description: On Friday, Lucknow's Anti-Narcotics Task Force apprehended six suspects in a significant drug bust. They confiscated narcotic and psychotropic substances valued at around one crore rupees, including codeine-based cough syrup and tramadol capsules. These indiv…
+- Description: Police raided fugitive Birbhum stone trader Tulu Mondal’s Suri property to trace aide Chhoton; he faces organised crime charges after Rs 28.5 crore and 15kg gold seizure.
 
-
-### OTHER on 2026-09-04 09:45
-- Location: The Times of India
-- Description: Divya Mittal voluntarily resigned from the IAS after a thirteen-year career. Her exit surprised many due to her accessible administrative style. She gained recognition for initiatives like bringing piped water to remote villages. Mittal previously worked in L…
-
-Analysis generated at: Sat Sep  5 09:50:30 UTC 2026
+Analysis generated at: Sat Sep  5 14:25:15 UTC 2026
