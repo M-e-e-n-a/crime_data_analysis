@@ -1,10 +1,10 @@
 
-Loaded 129582 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-04 03:05:37
+Loaded 129646 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-04 09:49:16
 
 Incidents by source:
 source
-newsapi           129481
+newsapi           129545
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,30 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-09-04 03:05
-- Location: ABC News (AU)
-- Description: The career cop was Queensland's most experienced officer, serving more than four decades on the frontline and leading the response to several major natural disasters and the COVID-19 pandemic.
+### OTHER on 2026-09-04 09:49
+- Location: The Times of India
+- Description: The Karnataka high court asked Flipkart to explain its BIS compliance procedures. Flipkart is challenging a penalty imposed by the CCPA for selling non-compliant toys. The court questioned Flipkart's responsibility for products sold by third-party sellers. It…
 
 
-### SHOOTING on 2026-09-04 03:00
-- Location: Gossiplankanews.com
-- Description: A woman was injured in a shooting incident that occurred around 3:00 AM today (04) near a multi-story apartment complex located in the Kollupitiya, 6th Lane area. The shooting was carried out by a person from an upper floor of the said apartment building, tar…
+### OTHER on 2026-09-04 09:48
+- Location: The Times of India
+- Description: Tsutomu Yamaguchi's remarkable story is one of survival against unimaginable odds, as he endured the horrors of two atomic bombings just days apart in August 1945. Initially in Hiroshima on August 6, he found himself in Nagasaki on August 9. Post-war, Yamaguc…
 
 
-### HOMICIDE on 2026-09-04 02:28
-- Location: Rolling Stone
-- Description: Both sides rested at Lil Durk's murder-for-hire trial on Thursday, with the wife of one of the government's star witnesses disputing his testimony.
-
-
-### OTHER on 2026-09-04 02:11
+### OTHER on 2026-09-04 09:47
 - Location: Dailymail.com
-- Description: The woman allegedly spiked the older man's drinks with benzodiazepine on at least three occasions, causing him to overdose on the last one.
+- Description: Enraged locals argued with the North Africans as they surrounded the tiny mammal and lifted it up into the air, with one warning them it was illegal to touch it and 'eat it.'
 
 
-### HOMICIDE on 2026-09-04 01:23
-- Location: The Punch
-- Description: Niger State Police Command arrests 12 suspects involved in murder, kidnapping, and armed robbery, including a fake vigilante group.
+### DRUG RELATED on 2026-09-04 09:45
+- Location: The Times of India
+- Description: On Friday, Lucknow's Anti-Narcotics Task Force apprehended six suspects in a significant drug bust. They confiscated narcotic and psychotropic substances valued at around one crore rupees, including codeine-based cough syrup and tramadol capsules. These indiv…
 
-Read More: https://punchng.com/niger-police-arrest-12-suspects-for-murder-kidnapping/
 
-Analysis generated at: Sat Sep  5 03:46:38 UTC 2026
+### OTHER on 2026-09-04 09:45
+- Location: The Times of India
+- Description: Divya Mittal voluntarily resigned from the IAS after a thirteen-year career. Her exit surprised many due to her accessible administrative style. She gained recognition for initiatives like bringing piped water to remote villages. Mittal previously worked in L…
+
+Analysis generated at: Sat Sep  5 09:50:30 UTC 2026
