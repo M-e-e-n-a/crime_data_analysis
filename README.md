@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Sep  6 15:14:21 UTC 2026
+Last updated: Sun Sep  6 19:54:18 UTC 2026
 
 ## Latest Analysis
 
-Loaded 129921 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-05 15:12:25
+Loaded 129995 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-05 19:45:36
 
 Incidents by source:
 source
-newsapi           129820
+newsapi           129894
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2026-09-05 15:12
-- Location: Hollywood Reporter
-- Description: Merritt Wever, Skyler Gisondo and Phoebe Bridgers also star in Lance Oppenheim’s first narrative feature, revisiting the ethically muddy ‘Dateline NBC’ ratings phenomenon.
-
-
-### HOMICIDE on 2026-09-05 15:11
+### HOMICIDE on 2026-09-05 19:45
 - Location: The Times of India
-- Description: Bagaha court in West Champaran sentences five, including victim’s sister, to life for Vijay Sahani’s murder over property dispute; fined Rs 1 lakh each.
+- Description: Deoria police file FIR after court order over alleged ₹10 lakh crypto investment fraud; youth says accused promised 5x returns, took documents, later threatened murder.
 
 
-### SHOOTING on 2026-09-05 15:11
-- Location: Yahoo Entertainment
-- Description: Dave Marcis spent thirty-five years in NASCAR's Cup Series proving a driver didn't need a fat budget or a superteam to outlast almost everyone else on pit road. Somebody broke into his house in Arden, North Carolina while he was out of town over the weekend, …
-
-
-### OTHER on 2026-09-05 14:56
+### HOMICIDE on 2026-09-05 19:40
 - Location: The Times of India
-- Description: Ettumanoor police took a college student into custody for allegedly hacking Instagram and morphing classmates’ photos into obscene images; devices sent for forensic exam.
+- Description: Hardoi kathavachak Durga Prasad arrested for allegedly shooting wife Durgeshwati with licensed rifle after dispute; police probe property angle.
 
 
-### OTHER on 2026-09-05 14:47
+### HOMICIDE on 2026-09-05 19:32
 - Location: The Times of India
-- Description: Mumbai Police arrested two Rajasthan men for a Facebook “100x returns” investment scam that duped a 17-year-old of Rs 74,000 via UPI; FIR filed.
+- Description: Lucknow police arrested Pooja, wife of transporter Dhirendra Singh’s driver, in his kidnapping-murder case; recovered his ring and Rs 15,000; probe on.
 
-Analysis generated at: Sun Sep  6 15:14:21 UTC 2026
+
+### ROBBERY/THEFT on 2026-09-05 19:23
+- Location: New York Post
+- Description: Rome has designated the Colosseum area a "red zone," deploying 24-hour security to combat a spike in robberies, drug dealing and other crimes.
+
+
+### ROBBERY/THEFT on 2026-09-05 19:19
+- Location: The Times of India
+- Description: Noida Phase-3 police busted a two-wheeler theft gang, arrested Vansh and detained two juveniles; 10 stolen vehicles, a .315 pistol and two knives seized.
+
+Analysis generated at: Sun Sep  6 19:54:18 UTC 2026
