@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Sep  6 03:51:08 UTC 2026
+Last updated: Sun Sep  6 10:06:50 UTC 2026
 
 ## Latest Analysis
 
-Loaded 129835 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-05 03:44:47
+Loaded 129870 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-05 10:00:58
 
 Incidents by source:
 source
-newsapi           129734
+newsapi           129769
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2026-09-05 03:44
-- Location: The Times of India
-- Description: A woman and her young son were abducted after a loan dispute escalated. They were confined and assaulted by four individuals over unpaid debts. The woman was also threatened with the circulation of a compromising video. Police rescued the victims after they a…
+### HOMICIDE on 2026-09-05 10:00
+- Location: Fox News
+- Description: Joe Berlinger's Netflix docuseries argues the Charles Manson murders were not about starting a race war but covering up a drug deal gone bad.
 
 
-### SHOOTING on 2026-09-05 03:43
-- Location: The Times of India
-- Description: US News: A knife-wielding man walking on the cables of New York City’s iconic Brooklyn Bridge was fatally shot after he allegedly ignored police orders to drop.
+### OTHER on 2026-09-05 09:45
+- Location: Livemint
+- Description: A 78-year-old retired IFS officer got  ₹15.15 lakh in his bank account linked to an alleged insurance fraud. The Madhya Pradesh High Court granted him anticipatory bail, saying merely receiving crime proceeds did not prove knowing involvement.
 
 
-### OTHER on 2026-09-05 03:30
-- Location: Tim.blog
-- Description: Please enjoy this transcript of a special episode about overcoming mistakes and failure. What do you do when your work is rejected, when the big bet fails, or when the path ahead suddenly disappears? As you’ll hear in this episode, setbacks can often present …
+### OTHER on 2026-09-05 09:35
+- Location: Notebookcheck.net
+- Description: Rockstar apparently wanted to turn Miami into a real-life Vice City to coincide with the launch of GTA 6 – complete with branded trains, manhole covers and “Welcome to Vice City” messages at the airport. But the sheriff is pushing back against the plans.
 
 
-### HOMICIDE on 2026-09-05 03:20
-- Location: NBC News
-- Description: A suburban Illinois mother, who had become interested in the Lindsay Clancy case, has been charged with murder after she allegedly killed her 2-year-old son then attempted to harm herself, according to police and court records.
+### SHOOTING on 2026-09-05 09:34
+- Location: Dailymail.com
+- Description: Drill rapper Kemani Duggan, 25, was seen partying at a house music rave, while thieving Nationwide cashier Kelly Kershaw, 54, is on a home curfew.
 
 
-### OTHER on 2026-09-05 03:03
-- Location: ABC News (AU)
-- Description: Counters at four Melbourne police stations will close to the public next month, as a state election debate over police resourcing gears up.
+### HOMICIDE on 2026-09-05 09:22
+- Location: Dailymail.com
+- Description: 'America's saddest trial' hinged on whether Clancy was 'criminally responsible' for the killings or had a rare mental condition known as 'postpartum psychosis'.
 
-Analysis generated at: Sun Sep  6 03:51:08 UTC 2026
+Analysis generated at: Sun Sep  6 10:06:50 UTC 2026
