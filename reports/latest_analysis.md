@@ -1,10 +1,10 @@
 
-Loaded 129917 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-05 14:47:28
+Loaded 129921 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-05 15:12:25
 
 Incidents by source:
 source
-newsapi           129816
+newsapi           129820
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
+### ROBBERY/THEFT on 2026-09-05 15:12
+- Location: Hollywood Reporter
+- Description: Merritt Wever, Skyler Gisondo and Phoebe Bridgers also star in Lance Oppenheim’s first narrative feature, revisiting the ethically muddy ‘Dateline NBC’ ratings phenomenon.
+
+
+### HOMICIDE on 2026-09-05 15:11
+- Location: The Times of India
+- Description: Bagaha court in West Champaran sentences five, including victim’s sister, to life for Vijay Sahani’s murder over property dispute; fined Rs 1 lakh each.
+
+
+### SHOOTING on 2026-09-05 15:11
+- Location: Yahoo Entertainment
+- Description: Dave Marcis spent thirty-five years in NASCAR's Cup Series proving a driver didn't need a fat budget or a superteam to outlast almost everyone else on pit road. Somebody broke into his house in Arden, North Carolina while he was out of town over the weekend, …
+
+
+### OTHER on 2026-09-05 14:56
+- Location: The Times of India
+- Description: Ettumanoor police took a college student into custody for allegedly hacking Instagram and morphing classmates’ photos into obscene images; devices sent for forensic exam.
+
+
 ### OTHER on 2026-09-05 14:47
 - Location: The Times of India
 - Description: Mumbai Police arrested two Rajasthan men for a Facebook “100x returns” investment scam that duped a 17-year-old of Rs 74,000 via UPI; FIR filed.
 
-
-### OTHER on 2026-09-05 14:45
-- Location: The Times of India
-- Description: Jhansi police busted a fake job and cyber fraud racket posing as MLM; 8 arrested, 53 rescued. Victims paid Rs 30,000 each; phones and forged papers seized.
-
-
-### ROBBERY/THEFT on 2026-09-05 14:45
-- Location: The Times of India
-- Description: Kochi Thrikkakara AI morphing case: arrested BBA student linked to a closed Telegram group; police probe other members and seek Telegram data, no financial motive found.
-
-
-### SHOOTING on 2026-09-05 14:45
-- Location: STLtoday.com
-- Description: The victim died at an area hospital.
-
-
-### OTHER on 2026-09-05 14:39
-- Location: Truthout
-- Description: Trump’s plan to “make D.C. beautiful again” means more policing for the city’s residents.
-
-Analysis generated at: Sun Sep  6 14:48:11 UTC 2026
+Analysis generated at: Sun Sep  6 15:14:21 UTC 2026
