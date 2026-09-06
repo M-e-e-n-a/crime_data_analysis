@@ -1,10 +1,10 @@
 
-Loaded 129870 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-05 10:00:58
+Loaded 129917 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-05 14:47:28
 
 Incidents by source:
 source
-newsapi           129769
+newsapi           129816
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-09-05 10:00
-- Location: Fox News
-- Description: Joe Berlinger's Netflix docuseries argues the Charles Manson murders were not about starting a race war but covering up a drug deal gone bad.
+### OTHER on 2026-09-05 14:47
+- Location: The Times of India
+- Description: Mumbai Police arrested two Rajasthan men for a Facebook “100x returns” investment scam that duped a 17-year-old of Rs 74,000 via UPI; FIR filed.
 
 
-### OTHER on 2026-09-05 09:45
-- Location: Livemint
-- Description: A 78-year-old retired IFS officer got  ₹15.15 lakh in his bank account linked to an alleged insurance fraud. The Madhya Pradesh High Court granted him anticipatory bail, saying merely receiving crime proceeds did not prove knowing involvement.
+### OTHER on 2026-09-05 14:45
+- Location: The Times of India
+- Description: Jhansi police busted a fake job and cyber fraud racket posing as MLM; 8 arrested, 53 rescued. Victims paid Rs 30,000 each; phones and forged papers seized.
 
 
-### OTHER on 2026-09-05 09:35
-- Location: Notebookcheck.net
-- Description: Rockstar apparently wanted to turn Miami into a real-life Vice City to coincide with the launch of GTA 6 – complete with branded trains, manhole covers and “Welcome to Vice City” messages at the airport. But the sheriff is pushing back against the plans.
+### ROBBERY/THEFT on 2026-09-05 14:45
+- Location: The Times of India
+- Description: Kochi Thrikkakara AI morphing case: arrested BBA student linked to a closed Telegram group; police probe other members and seek Telegram data, no financial motive found.
 
 
-### SHOOTING on 2026-09-05 09:34
-- Location: Dailymail.com
-- Description: Drill rapper Kemani Duggan, 25, was seen partying at a house music rave, while thieving Nationwide cashier Kelly Kershaw, 54, is on a home curfew.
+### SHOOTING on 2026-09-05 14:45
+- Location: STLtoday.com
+- Description: The victim died at an area hospital.
 
 
-### HOMICIDE on 2026-09-05 09:22
-- Location: Dailymail.com
-- Description: 'America's saddest trial' hinged on whether Clancy was 'criminally responsible' for the killings or had a rare mental condition known as 'postpartum psychosis'.
+### OTHER on 2026-09-05 14:39
+- Location: Truthout
+- Description: Trump’s plan to “make D.C. beautiful again” means more policing for the city’s residents.
 
-Analysis generated at: Sun Sep  6 10:06:50 UTC 2026
+Analysis generated at: Sun Sep  6 14:48:11 UTC 2026
