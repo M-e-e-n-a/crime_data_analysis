@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Sep  5 19:49:51 UTC 2026
+Last updated: Sun Sep  6 02:25:04 UTC 2026
 
 ## Latest Analysis
 
-Loaded 129814 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-04 19:49:08
+Loaded 129826 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-05 02:08:04
 
 Incidents by source:
 source
-newsapi           129713
+newsapi           129725
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2026-09-04 19:49
-- Location: The Times of India
-- Description: Hisar electronics dealer Happy Chopra’s family refuses to take body, alleges lender harassment over Rs 25 lakh demand; police probe, postmortem underway.
+### HOMICIDE on 2026-09-05 02:08
+- Location: ABC News (AU)
+- Description: A man has died after an assault at a caravan park in Victoria's Goulburn Valley, four months after a brawl involving knives at the same location.
 
 
-### ROBBERY/THEFT on 2026-09-04 19:47
-- Location: The Times of India
-- Description: Punjab Police order independent probe into alleged custodial torture and desecration of Sikh youth after black-flag protest at CM Mann event; AAP, oppn trade charges.
+### OTHER on 2026-09-05 02:00
+- Location: New Zealand Herald
+- Description: A man was charged last month for filming a woman at a North Shore pool.
 
 
-### ROBBERY/THEFT on 2026-09-04 19:47
-- Location: The Times of India
-- Description: Calcutta High Court orders first CBI probe into “digital arrest” scam; retired Air Force officer alleges Rs 1.74 crore fraud, citing pan-India ramifications.
+### OTHER on 2026-09-05 01:36
+- Location: Freerepublic.com
+- Description: “The Democrat agenda is to legalize crime and criminalize the middle class.” —Stephen Miller Not to put too fine a point on it: but whenever a lawfare ninja of the Democratic Party utters the phrase “our democracy,” you must know that they are completely full…
 
 
-### OTHER on 2026-09-04 19:46
-- Location: The Times of India
-- Description: Malerkotla police arrest 3 armed history-sheeters; 2 .32-bore pistols and 6 live cartridges seized. FIR filed under Arms Act and BNS; sent to jail.
+### OTHER on 2026-09-05 01:35
+- Location: Twistedsifter.com
+- Description: Her personal issues with her are pretty obvious.
+The post Woman’s Neighbor Has Been Harassing Her And Her Husband For Years, But Even After A Lawsuit, She Won’t Stop Yelling At Their House appeared first on TwistedSifter.
 
 
-### OTHER on 2026-09-04 19:44
-- Location: SFGate
-- Description: Injury concerns are already piling up.
+### OTHER on 2026-09-05 01:25
+- Location: BBC News
+- Description: The AI-powered cameras have been vandalised across the US, as citizens object to the growing surveillance network.
 
-Analysis generated at: Sat Sep  5 19:49:51 UTC 2026
+Analysis generated at: Sun Sep  6 02:25:04 UTC 2026
