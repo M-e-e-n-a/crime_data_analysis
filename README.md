@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Sep  6 19:54:18 UTC 2026
+Last updated: Mon Sep  7 02:21:45 UTC 2026
 
 ## Latest Analysis
 
-Loaded 129995 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-05 19:45:36
+Loaded 130017 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-06 01:52:12
 
 Incidents by source:
 source
-newsapi           129894
+newsapi           129916
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-09-05 19:45
-- Location: The Times of India
-- Description: Deoria police file FIR after court order over alleged ₹10 lakh crypto investment fraud; youth says accused promised 5x returns, took documents, later threatened murder.
-
-
-### HOMICIDE on 2026-09-05 19:40
-- Location: The Times of India
-- Description: Hardoi kathavachak Durga Prasad arrested for allegedly shooting wife Durgeshwati with licensed rifle after dispute; police probe property angle.
-
-
-### HOMICIDE on 2026-09-05 19:32
-- Location: The Times of India
-- Description: Lucknow police arrested Pooja, wife of transporter Dhirendra Singh’s driver, in his kidnapping-murder case; recovered his ring and Rs 15,000; probe on.
-
-
-### ROBBERY/THEFT on 2026-09-05 19:23
+### HOMICIDE on 2026-09-06 01:52
 - Location: New York Post
-- Description: Rome has designated the Colosseum area a "red zone," deploying 24-hour security to combat a spike in robberies, drug dealing and other crimes.
+- Description: Officers found the restaurant manager drenched in blood on his clothing, hands and shoes, according to his arrest affidavit.
 
 
-### ROBBERY/THEFT on 2026-09-05 19:19
+### OTHER on 2026-09-06 01:45
+- Location: Dailymail.com
+- Description: A bystander had extended a pole through the fence of the enclosure, with the worker holding onto it for dear life.
+
+
+### OTHER on 2026-09-06 01:37
 - Location: The Times of India
-- Description: Noida Phase-3 police busted a two-wheeler theft gang, arrested Vansh and detained two juveniles; 10 stolen vehicles, a .315 pistol and two knives seized.
+- Description: Tamil Nadu CM M.K. Stalin launches CCTNS 2.0 in 1,541 police stations, adding voice-to-text FIRs, live crime mapping, OCR ID capture and digital fingerprints.
 
-Analysis generated at: Sun Sep  6 19:54:18 UTC 2026
+
+### HOMICIDE on 2026-09-06 01:37
+- Location: The Times of India
+- Description: Hyderabad: Mother held after allegedly killing her 2-month-old son at Bowrampet construction camp; Dundigal police file murder case under BNS 103.
+
+
+### OTHER on 2026-09-06 01:35
+- Location: Twistedsifter.com
+- Description: Property disputes are never going away.
+The post He Asked His Neighbor to Stop Using His Property—Then a Simple Boundary Dispute Turned Into Years of Threats appeared first on TwistedSifter.
+
+Analysis generated at: Mon Sep  7 02:21:45 UTC 2026
