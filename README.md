@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Sep  7 02:21:45 UTC 2026
+Last updated: Mon Sep  7 03:50:11 UTC 2026
 
 ## Latest Analysis
 
-Loaded 130017 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-06 01:52:12
+Loaded 130028 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-06 03:28:08
 
 Incidents by source:
 source
-newsapi           129916
+newsapi           129927
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-09-06 01:52
-- Location: New York Post
-- Description: Officers found the restaurant manager drenched in blood on his clothing, hands and shoes, according to his arrest affidavit.
+### HOMICIDE on 2026-09-06 03:28
+- Location: The Times of India
+- Description: Police solved the Feb 11 double murder of a mother and 6-year-old daughter, arresting the prime accused after their bodies were found in a sub-capital town.
 
 
-### OTHER on 2026-09-06 01:45
+### HOMICIDE on 2026-09-06 03:16
+- Location: The Times of India
+- Description: Police solve brutal double murder of mother and 6-year-old daughter; prime suspect arrested after bodies found Feb 11, shocking sub-capital town.
+
+
+### OTHER on 2026-09-06 03:14
+- Location: Fox News
+- Description: Kawal Preet Singh allegedly used a Round Table Pizza in Dinuba to distribute over 40 pounds of methamphetamine as part of an organized crime network.
+
+
+### HOMICIDE on 2026-09-06 03:14
 - Location: Dailymail.com
-- Description: A bystander had extended a pole through the fence of the enclosure, with the worker holding onto it for dear life.
+- Description: When Maree Vermont's Airbnb went up in flames, burning her body beyond recognition, her house guest had a peculiar question for police.
 
 
-### OTHER on 2026-09-06 01:37
+### HOMICIDE on 2026-09-06 03:04
 - Location: The Times of India
-- Description: Tamil Nadu CM M.K. Stalin launches CCTNS 2.0 in 1,541 police stations, adding voice-to-text FIRs, live crime mapping, OCR ID capture and digital fingerprints.
+- Description: Police solved the Feb 11 double murder of a mother and 6-year-old daughter, arresting the prime accused after the bodies were found in the sub-capital town.
 
-
-### HOMICIDE on 2026-09-06 01:37
-- Location: The Times of India
-- Description: Hyderabad: Mother held after allegedly killing her 2-month-old son at Bowrampet construction camp; Dundigal police file murder case under BNS 103.
-
-
-### OTHER on 2026-09-06 01:35
-- Location: Twistedsifter.com
-- Description: Property disputes are never going away.
-The post He Asked His Neighbor to Stop Using His Property—Then a Simple Boundary Dispute Turned Into Years of Threats appeared first on TwistedSifter.
-
-Analysis generated at: Mon Sep  7 02:21:45 UTC 2026
+Analysis generated at: Mon Sep  7 03:50:11 UTC 2026
