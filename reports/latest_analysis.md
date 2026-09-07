@@ -1,10 +1,10 @@
 
-Loaded 130070 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-06 11:20:12
+Loaded 130126 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-06 17:01:14
 
 Incidents by source:
 source
-newsapi           129969
+newsapi           130025
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-09-06 11:20
-- Location: CNN
-- Description: Just days before two teenagers carried out a mass shooting at a San Diego mosque, federal law enforcement officials warned the parents of one of the shooters...
+### SHOOTING on 2026-09-06 17:01
+- Location: CBC News
+- Description: A woman is in the hospital after being shot in Moncton on Saturday night. RCMP say there is no threat to the public.
 
 
-### OTHER on 2026-09-06 11:14
-- Location: Grandgoldman.com
-- Description: Memphis Pizza Shop Thrives After Owner Refuses National Guard Sergrandgoldman.com
+### OTHER on 2026-09-06 17:00
+- Location: New Zealand Herald
+- Description: Weekly national meth consumption in April was the equivalent of almost two million doses.
 
 
-### SHOOTING on 2026-09-06 11:13
-- Location: Isegoria.net
-- Description: According to the 2026 National Firearms Survey, 32.7% of U.S. adults (95% CI 32.2% – 33.2%) personally own firearms, suggesting that approximately 88 million American adults own guns: Following the practice of major survey programs such as the General Social …
+### OTHER on 2026-09-06 17:00
+- Location: New Zealand Herald
+- Description: The 31-year-old was arrested at the border shortly after landing in New Zealand.
 
 
-### OTHER on 2026-09-06 11:00
-- Location: Screen Rant
-- Description: Hidden wonders in familiar streets collide with gritty politics and personal stakes in the best low fantasy novels literature has ever seen.
+### HOMICIDE on 2026-09-06 16:52
+- Location: The Times of India
+- Description: Handcuffed body of unidentified 30-year-old found in canal near Hisar’s Kamri village; head injuries suggest murder. Police probe identity, source of cuffs, CCTV.
 
 
-### OTHER on 2026-09-06 10:56
-- Location: NBC News
-- Description: Colin Kaepernick praised New York City Mayor Zohran Mamdani as a politician he finds inspiring, 10 years after the former quarterback famously said he wouldn’t vote in the presidential election because he didn’t want to support “the system of oppression.”
+### OTHER on 2026-09-06 16:38
+- Location: Israelnationalnews.com
+- Description: Supreme Court orders state to coordinate return of three Palestinian Arabs to their Samaria homes within 14 days, sharply criticizing enforcement failures.
 
-Analysis generated at: Mon Sep  7 11:20:31 UTC 2026
+Analysis generated at: Mon Sep  7 17:04:01 UTC 2026
