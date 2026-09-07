@@ -1,10 +1,10 @@
 
-Loaded 130142 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-06 17:35:01
+Loaded 130182 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-06 20:55:11
 
 Incidents by source:
 source
-newsapi           130041
+newsapi           130081
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-09-06 17:35
-- Location: The Times of India
-- Description: Construction worker from West Bengal beaten to death in Chennai’s Nolambur after refusing cigarettes; four arrested, including a 17-year-old, police say.
+### HOMICIDE on 2026-09-06 20:55
+- Location: Fox News
+- Description: Nashville police say a Frito-Lay worker was killed by a stray bullet inside Sam's Club after an argument spilled outside Lavo Lounge on Antioch Pike.
 
 
-### HOMICIDE on 2026-09-06 17:34
-- Location: The Times of India
-- Description: DMK leaders Udhayanidhi Stalin and Kanimozhi slam Tamil Nadu’s TVK government over Chennai murders, alleging police dysfunction and worsening law and order.
+### HOMICIDE on 2026-09-06 20:49
+- Location: New York Post
+- Description: The family has been silent up until now on capital punishment,
 
 
-### OTHER on 2026-09-06 17:34
-- Location: Slashdot.org
-- Description: Thursday 404 Media reported that Flock taught America's cops "how they could surveil the No Kings protests" against President Trump (as well as "small parades") in a webinar last year that described "using a mix of Flock's technology and law enforcement's own…
+### OTHER on 2026-09-06 20:38
+- Location: Boredpanda.com
+- Description: Bodycam footage captured police discovering college freshman Karoline Heintz fatally wounded inside her Jeep as prosecutors accused her boyfriend and his mother.
 
 
-### HOMICIDE on 2026-09-06 17:33
-- Location: The Times of India
-- Description: Chennai history-sheeter Kannan, 46, was hacked to death in Besant Nagar; five men arrested. Police cite 2009 murder rivalry; Adyar officials transferred.
+### OTHER on 2026-09-06 20:30
+- Location: Screen Rant
+- Description: As it approaches its 600th episode, SVU is running out of time to give Benson and Stabler the romantic payoff their 27-year story deserves.
 
 
-### OTHER on 2026-09-06 17:29
-- Location: Israelnationalnews.com
-- Description: A late-night call claiming three Israelis were being abducted sent police and IDF forces rushing to Hizma-only for investigators to allege the group had entered the village voluntarily and falsely reported an abduction.
+### ROBBERY/THEFT on 2026-09-06 20:09
+- Location: The Conversation Africa
+- Description: The alleged theft of thousands of sheep in Queensland shows how difficult it can be to detect and prevent farm crime.
 
-Analysis generated at: Mon Sep  7 17:37:06 UTC 2026
+Analysis generated at: Mon Sep  7 21:01:40 UTC 2026
