@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Sep  8 02:34:58 UTC 2026
+Last updated: Tue Sep  8 03:54:38 UTC 2026
 
 ## Latest Analysis
 
-Loaded 130196 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-07 02:34:07
+Loaded 130208 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-07 03:40:38
 
 Incidents by source:
 source
-newsapi           130095
+newsapi           130107
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-09-07 02:34
-- Location: New York Post
-- Description: My goodness, my Guinness!
+### OTHER on 2026-09-07 03:40
+- Location: Roundtable.io
+- Description: NFL stars take center stage as the Utes evolve their powerful tribute to Ty Jordan and Aaron Lowe, honoring their legacy through a new alumni-led tradition.
 
 
-### HOMICIDE on 2026-09-07 02:32
-- Location: Dailymail.com
-- Description: Milpitas police said officers responded to the Mill Creek Apartments in Milpitas, California shortly after noon on August 28 and found Anjana Hari, 35, dead at the scene.
+### OTHER on 2026-09-07 03:32
+- Location: The Times of India
+- Description: Ukraine is weighing a bill that could legalise and tax its pornography industry, with lawmakers estimating it could generate up to $25 million in revenue, enough to fund around 30,000 drones for the war against Russia. The move follows growing legal contradic…
 
 
-### ASSAULT on 2026-09-07 02:28
-- Location: Dailymail.com
-- Description: An experienced bushman known as 'Pistol Pete' is still on the run after a brutal axe attack on his family in regional Victoria, with police warning locals not to go near him.
+### HOMICIDE on 2026-09-07 03:26
+- Location: Breitbart News
+- Description: A United States District Judge in California appointed by former President Joe Biden ordered U.S. Immigration and Customs Enforcement (ICE) to release a known MS-13 gang member who is wanted in connection with a murder conviction in his home country of El Sal…
 
 
-### SHOOTING on 2026-09-07 02:15
-- Location: New York Post
-- Description: The boy was shot in the leg near the corner of 153rd Street and Jamaica Avenue, outside Rufus King Park, shortly before 5 p.m., according to the NYPD.
+### OTHER on 2026-09-07 03:25
+- Location: Fadeaway World
+- Description: Delonte West's move to the Cavaliers was set in motion well before he was traded as LeBron James supposedly recruited him during a game.
 
 
-### SHOOTING on 2026-09-07 02:12
-- Location: Freerepublic.com
-- Description: BEL AIRE, Kan. (KAKE) — A 21-year-old woman has been charged with multiple felonies after she allegedly shot at a group of girls who had just egged her house in Bel Aire over the weekend. Sedgwick County court records show Ericya Burns is charged with crimina…
+### OTHER on 2026-09-07 03:16
+- Location: The Times of India
+- Description: A young student received a job offer from a global environmental organization. This recognition followed his dedicated solo river cleaning efforts in Biaora. His initiative gained widespread attention after being praised by a former England cricketer. The Net…
 
-Analysis generated at: Tue Sep  8 02:34:58 UTC 2026
+Analysis generated at: Tue Sep  8 03:54:38 UTC 2026
