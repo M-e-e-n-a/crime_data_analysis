@@ -1,10 +1,10 @@
 
-Loaded 130345 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-07 16:15:37
+Loaded 130445 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-07 20:37:00
 
 Incidents by source:
 source
-newsapi           130244
+newsapi           130344
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,30 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-09-07 16:15
-- Location: The Times of India
-- Description: Amer Fort dispute turns violent: Jaipur tourist guide Manish Soni stabbed near Mawtha; jeep driver and associate detained, police probe attempt-to-murder case.
+### OTHER on 2026-09-07 20:37
+- Location: iTnews
+- Description: Targeting encrypted devices and platforms in organised crime crackdown.
 
 
-### OTHER on 2026-09-07 16:07
-- Location: The Punch
-- Description: ECOWAS warns member states about the grave danger of diverting legally acquired arms for illicit purposes, emphasizing effective stockpile management and n
-
-Read More: https://punchng.com/ecowas-warns-against-diversion-of-legally-acquired-arms-in-west-africa/
-
-
-### HOMICIDE on 2026-09-07 16:00
+### HOMICIDE on 2026-09-07 20:36
 - Location: Dailymail.com
-- Description: Bedfordshire and Luton coroner Emma Whitting damning ruling said officers' failures to recognise escalating domestic abuse 'materially contributed' to Sarah Abalone's 'unlawful killing.
+- Description: A 75-page dossier on teen killer Karmelo Anthony reveals never-before-seen photos where he's posting with weapons, as well as a trove of racist and homophobic messages.
 
 
-### HOMICIDE on 2026-09-07 16:00
-- Location: Radaronline.com
-- Description: Chad Eberle was accused of killing three people and shooting his son's mother in the head.
+### SHOOTING on 2026-09-07 20:21
+- Location: Borderlandbeat.com
+- Description: “Sol Prendido” for Borderland Beat  The man, approximately 50 years old, was attacked at the intersection of Voltaria and Dornajo streets an...
 
 
-### OTHER on 2026-09-07 15:56
-- Location: The Daily Caller
-- Description: An illegal immigrant fleeing from federal immigration authorities crashed into a local New Jersey mayor’s wife, sending her to the hospital Sept. 2.
+### OTHER on 2026-09-07 20:17
+- Location: International Business Times UK
+- Description: A Kick streamer, Binx, faced backlash after livestreaming at a fatal plane crash site in Miami, sparking criticism for disrespect and potential legal consequences under federal aviation law.
 
-Analysis generated at: Tue Sep  8 16:22:15 UTC 2026
+
+### HOMICIDE on 2026-09-07 20:11
+- Location: NBC News
+- Description: The family of Celeste Rivas Hernandez is calling for the singer D4vd to face the death penalty after a Los Angeles judge ordered him to stand trial in the killing of the 14-year-old.
+
+Analysis generated at: Tue Sep  8 20:37:18 UTC 2026
