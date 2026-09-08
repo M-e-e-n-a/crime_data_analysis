@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Sep  8 15:51:17 UTC 2026
+Last updated: Tue Sep  8 16:22:15 UTC 2026
 
 ## Latest Analysis
 
-Loaded 130340 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-07 15:50:36
+Loaded 130345 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-07 16:15:37
 
 Incidents by source:
 source
-newsapi           130239
+newsapi           130244
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,30 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-09-07 15:50
+### HOMICIDE on 2026-09-07 16:15
 - Location: The Times of India
-- Description: Mumbai Crime Branch arrested 42-year-old Karnataka man Yoganand Pujari in a 2019 fake visa and air ticket human trafficking case after landing in India.
+- Description: Amer Fort dispute turns violent: Jaipur tourist guide Manish Soni stabbed near Mawtha; jeep driver and associate detained, police probe attempt-to-murder case.
 
 
-### OTHER on 2026-09-07 15:46
-- Location: Israelnationalnews.com
-- Description: Police seize over half a ton of gas cylinders allegedly brought illegally from Judea and Samaria and dangerously stored and sold without required safety checks.
+### OTHER on 2026-09-07 16:07
+- Location: The Punch
+- Description: ECOWAS warns member states about the grave danger of diverting legally acquired arms for illicit purposes, emphasizing effective stockpile management and n
+
+Read More: https://punchng.com/ecowas-warns-against-diversion-of-legally-acquired-arms-in-west-africa/
 
 
-### OTHER on 2026-09-07 15:44
+### HOMICIDE on 2026-09-07 16:00
 - Location: Dailymail.com
-- Description: The digital binoculars, which can only be used at dusk or at night, act as a digital infrared camera to identify if a number plate has an invisible coating that makes it unreadable for ANPR cameras.
+- Description: Bedfordshire and Luton coroner Emma Whitting damning ruling said officers' failures to recognise escalating domestic abuse 'materially contributed' to Sarah Abalone's 'unlawful killing.
 
 
-### ASSAULT on 2026-09-07 15:42
-- Location: Wnd.com
-- Description: Imprisoned for converting to Christianity, woman recounts half century of passionate uprisings against brutal regime
+### HOMICIDE on 2026-09-07 16:00
+- Location: Radaronline.com
+- Description: Chad Eberle was accused of killing three people and shooting his son's mother in the head.
 
 
-### HOMICIDE on 2026-09-07 15:37
-- Location: Dailymail.com
-- Description: Steven Hoskin, 39, could not read or write when he was befriended by known criminal Darren Stewart, 30, in St Austell, Cornwall.
+### OTHER on 2026-09-07 15:56
+- Location: The Daily Caller
+- Description: An illegal immigrant fleeing from federal immigration authorities crashed into a local New Jersey mayor’s wife, sending her to the hospital Sept. 2.
 
-Analysis generated at: Tue Sep  8 15:51:17 UTC 2026
+Analysis generated at: Tue Sep  8 16:22:15 UTC 2026
