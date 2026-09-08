@@ -1,10 +1,10 @@
 
-Loaded 130258 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-07 10:19:30
+Loaded 130340 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-07 15:50:36
 
 Incidents by source:
 source
-newsapi           130157
+newsapi           130239
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,30 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-09-07 10:19
-- Location: Breitbart News
-- Description: A Finnish man accused of sexually abusing 361 children through social media went to trial Monday in what is said to be the largest sexual crime case in Finland.
-The post Finland: Trial Begins for Man Accused of Sexually Abusing 361 Children Online appeared fi…
+### OTHER on 2026-09-07 15:50
+- Location: The Times of India
+- Description: Mumbai Crime Branch arrested 42-year-old Karnataka man Yoganand Pujari in a 2019 fake visa and air ticket human trafficking case after landing in India.
 
 
-### OTHER on 2026-09-07 10:16
-- Location: HuffPost
-- Description: British minister Emma Reynolds condemned hundreds of protesters who blocked streets in Portsmouth late on Sunday to try to stop the arrival of migrants from France.
+### OTHER on 2026-09-07 15:46
+- Location: Israelnationalnews.com
+- Description: Police seize over half a ton of gas cylinders allegedly brought illegally from Judea and Samaria and dangerously stored and sold without required safety checks.
 
 
-### HOMICIDE on 2026-09-07 10:00
-- Location: Fox News
-- Description: Florida Attorney General James Uthmeier says his office will seek the death penalty for two adults who allegedly confined four children to a truck cab.
+### OTHER on 2026-09-07 15:44
+- Location: Dailymail.com
+- Description: The digital binoculars, which can only be used at dusk or at night, act as a digital infrared camera to identify if a number plate has an invisible coating that makes it unreadable for ANPR cameras.
 
 
-### OTHER on 2026-09-07 10:00
-- Location: The New Yorker
-- Description: The kingdom, seeking to rebrand as a culinary juggernaut, has bankrolled new restaurants and conscripted big-name chefs. Will it succeed? Ruby Tandoh reports.
+### ASSAULT on 2026-09-07 15:42
+- Location: Wnd.com
+- Description: Imprisoned for converting to Christianity, woman recounts half century of passionate uprisings against brutal regime
 
 
-### OTHER on 2026-09-07 10:00
-- Location: The Intercept
-- Description: By elevating Kirk to a martyr, the right made his ridicule a logical reaction to their repression.
-The post Right-Wing Speech Crackdowns Turned Charlie Kirk Into a Meme appeared first on The Intercept.
+### HOMICIDE on 2026-09-07 15:37
+- Location: Dailymail.com
+- Description: Steven Hoskin, 39, could not read or write when he was befriended by known criminal Darren Stewart, 30, in St Austell, Cornwall.
 
-Analysis generated at: Tue Sep  8 10:27:50 UTC 2026
+Analysis generated at: Tue Sep  8 15:51:17 UTC 2026
