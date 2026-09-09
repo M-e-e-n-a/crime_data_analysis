@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Sep  9 02:35:54 UTC 2026
+Last updated: Wed Sep  9 03:59:06 UTC 2026
 
 ## Latest Analysis
 
-Loaded 130467 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-08 02:16:59
+Loaded 130473 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-08 03:57:53
 
 Incidents by source:
 source
-newsapi           130366
+newsapi           130372
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-09-08 02:16
+### HOMICIDE on 2026-09-08 03:57
 - Location: Dailymail.com
-- Description: Jaeden Tito, 25, and Rabii Zahabe, 26, looked ahead and up at the court ceiling on Tuesday morning as Victorian Supreme Court Justice Michael O'Connell handed down their sentences.
+- Description: A young man gunned down after reportedly going to a mate's aid had partied with friends and family at his engagement party shortly before his death.
 
 
-### OTHER on 2026-09-08 02:11
-- Location: Al Jazeera English
-- Description: The opposition politician faces five charges over protests that followed the disputed 2024 election.
+### SHOOTING on 2026-09-08 03:50
+- Location: Dailymail.com
+- Description: Adriana Jimenez, 22, and her sister, Maria Fernanda Jimenez, were shot while sitting in a car in an alleyway near their Canoga Park home around 8am on August 23.
 
 
-### HOMICIDE on 2026-09-08 02:10
-- Location: New Zealand Herald
-- Description: Corrections says Erin Patterson needs Ozempic to prevent health complications.
+### OTHER on 2026-09-08 03:37
+- Location: Newsonjapan.com
+- Description: Tokyo police detained 39 minors during a two-day nighttime operation around the "Toyoko" area of Kabukicho in Shinjuku, with 17 of them, or roughly 40%, found to have previously overdosed on medication. (News On Japan)
 
 
-### HOMICIDE on 2026-09-08 01:51
-- Location: New York Post
-- Description: LAPD said that when officers arrived, the suspect was holding a large tree trimmer that had a really sharp blade.
+### HOMICIDE on 2026-09-08 03:28
+- Location: The Times of India
+- Description: As many as 13 people have died so far in Sagar from illicit liquor consumption, while several others remain under medical observation. Investigations are on and a magisterial inquiry has been ordered to determine the causes and responsible parties.
 
 
-### OTHER on 2026-09-08 01:45
-- Location: Reason
-- Description: A police officer in Greenville, North Carolina, was placed on administrative leave after a Ring doorbell video showed officers entering…
-The post Brickbat: Thinkin' About My Doorbell appeared first on Reason Magazine.
+### OTHER on 2026-09-08 03:12
+- Location: The Times of India
+- Description: BRS MLC Tata Madhu was arrested by Saifabad Police for alleged derogatory remarks. The case involves accusations of insulting Telangana Assembly Speaker Gaddam Prasad Kumar. Police registered the complaint under relevant sections of the Bharatiya Nyaya Sanhit…
 
-Analysis generated at: Wed Sep  9 02:35:54 UTC 2026
+Analysis generated at: Wed Sep  9 03:59:06 UTC 2026
