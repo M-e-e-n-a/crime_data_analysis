@@ -1,10 +1,10 @@
 
-Loaded 130473 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-08 03:57:53
+Loaded 130530 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-08 10:35:40
 
 Incidents by source:
 source
-newsapi           130372
+newsapi           130429
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,31 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-09-08 03:57
-- Location: Dailymail.com
-- Description: A young man gunned down after reportedly going to a mate's aid had partied with friends and family at his engagement party shortly before his death.
+### ROBBERY/THEFT on 2026-09-08 10:35
+- Location: Al Jazeera English
+- Description: The two thieves had attempted to steal a fourth painting, but abandoned it as they ran from the museum.
 
 
-### SHOOTING on 2026-09-08 03:50
-- Location: Dailymail.com
-- Description: Adriana Jimenez, 22, and her sister, Maria Fernanda Jimenez, were shot while sitting in a car in an alleyway near their Canoga Park home around 8am on August 23.
+### OTHER on 2026-09-08 10:29
+- Location: Vanguard
+- Description: ABUJA — Chairman of the Economic and Financial Crimes Commission, EFCC, Ola Olukoyede, has assured Nigerians that no recovered asset will be mismanaged under his leadership. Olukoyede gave the assurance on Tuesday while weighing into the ongoing debate over t…
 
 
-### OTHER on 2026-09-08 03:37
-- Location: Newsonjapan.com
-- Description: Tokyo police detained 39 minors during a two-day nighttime operation around the "Toyoko" area of Kabukicho in Shinjuku, with 17 of them, or roughly 40%, found to have previously overdosed on medication. (News On Japan)
+### OTHER on 2026-09-08 10:09
+- Location: The Punch
+- Description: EFCC Chairman Ola Olukoyede pledges no mismanagement of recovered assets, arguing against a single agency for asset management. Learn about EFCC assets.
+
+Read More: https://punchng.com/no-assets-recovered-by-efcc-will-be-mismanaged-under-my-watch-olukoyede/
 
 
-### HOMICIDE on 2026-09-08 03:28
-- Location: The Times of India
-- Description: As many as 13 people have died so far in Sagar from illicit liquor consumption, while several others remain under medical observation. Investigations are on and a magisterial inquiry has been ordered to determine the causes and responsible parties.
+### ROBBERY/THEFT on 2026-09-08 10:08
+- Location: Crypto Briefing
+- Description: The Zondacrypto probe highlights the urgent need for robust crypto regulations and cross-border cooperation to prevent large-scale fraud.
+The post Polish court detains fifth suspect in Zondacrypto exchange probe appeared first on Crypto Briefing.
 
 
-### OTHER on 2026-09-08 03:12
-- Location: The Times of India
-- Description: BRS MLC Tata Madhu was arrested by Saifabad Police for alleged derogatory remarks. The case involves accusations of insulting Telangana Assembly Speaker Gaddam Prasad Kumar. Police registered the complaint under relevant sections of the Bharatiya Nyaya Sanhit…
+### ROBBERY/THEFT on 2026-09-08 10:07
+- Location: HuffPost
+- Description: The theft came after a spectacular heist at the Louvre Museum in Paris last year.
 
-Analysis generated at: Wed Sep  9 03:59:06 UTC 2026
+Analysis generated at: Wed Sep  9 10:37:14 UTC 2026
