@@ -1,10 +1,10 @@
 
-Loaded 130530 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-08 10:35:40
+Loaded 130617 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-08 15:45:19
 
 Incidents by source:
 source
-newsapi           130429
+newsapi           130516
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,31 +20,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2026-09-08 10:35
-- Location: Al Jazeera English
-- Description: The two thieves had attempted to steal a fourth painting, but abandoned it as they ran from the museum.
+### OTHER on 2026-09-08 15:45
+- Location: RTE
+- Description: A teenage friend of youths who died in the fatal M9 crash has pleaded guilty to driving on the wrong side of the M50 in Dublin after he led gardaí on a high-speed pursuit.
 
 
-### OTHER on 2026-09-08 10:29
-- Location: Vanguard
-- Description: ABUJA — Chairman of the Economic and Financial Crimes Commission, EFCC, Ola Olukoyede, has assured Nigerians that no recovered asset will be mismanaged under his leadership. Olukoyede gave the assurance on Tuesday while weighing into the ongoing debate over t…
+### OTHER on 2026-09-08 15:45
+- Location: LancasterOnline
+- Description: A 17-year-old Columbia boy charged with fatally stabbing a man in July will have his criminal case decided in Lancaster County Court.
 
 
-### OTHER on 2026-09-08 10:09
-- Location: The Punch
-- Description: EFCC Chairman Ola Olukoyede pledges no mismanagement of recovered assets, arguing against a single agency for asset management. Learn about EFCC assets.
-
-Read More: https://punchng.com/no-assets-recovered-by-efcc-will-be-mismanaged-under-my-watch-olukoyede/
-
-
-### ROBBERY/THEFT on 2026-09-08 10:08
-- Location: Crypto Briefing
-- Description: The Zondacrypto probe highlights the urgent need for robust crypto regulations and cross-border cooperation to prevent large-scale fraud.
-The post Polish court detains fifth suspect in Zondacrypto exchange probe appeared first on Crypto Briefing.
+### SHOOTING on 2026-09-08 15:43
+- Location: Breitbart News
+- Description: Six people were shot in Seattle during a 24-hour period and Interim Police Chief Andre Sayles made clear police are looking for the "trigger pullers" who opened fire.
+The post Seattle: Six Shot in 24 Hours After ‘Trigger Pullers’ Open Fire appeared first on B…
 
 
-### ROBBERY/THEFT on 2026-09-08 10:07
-- Location: HuffPost
-- Description: The theft came after a spectacular heist at the Louvre Museum in Paris last year.
+### OTHER on 2026-09-08 15:39
+- Location: The Daily Caller
+- Description: Authorities arrested a man after he toppled a truckload of Flock cameras and returned them to a local sheriff’s department in Albuquerque.
 
-Analysis generated at: Wed Sep  9 10:37:14 UTC 2026
+
+### HOMICIDE on 2026-09-08 15:33
+- Location: The Times of India
+- Description: Chennai police arrest four more, including three school students, in TVK functionary Kannan’s Besant Nagar murder; arrests rise to nine; feud motive probed.
+
+Analysis generated at: Wed Sep  9 15:47:07 UTC 2026
