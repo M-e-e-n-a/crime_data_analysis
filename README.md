@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Sep  9 16:17:50 UTC 2026
+Last updated: Wed Sep  9 20:19:25 UTC 2026
 
 ## Latest Analysis
 
-Loaded 130637 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-08 16:15:46
+Loaded 130735 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-08 20:18:33
 
 Incidents by source:
 source
-newsapi           130536
+newsapi           130634
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-09-08 16:15
-- Location: The Times of India
-- Description: A 27-year-old quack doctor was detained by Panvel police after an inspection. The medical officer found the unqualified individual practicing modern medicine illegally. Medicines were seized from the clinic as evidence of the unlawful practice. Relevant secti…
+### OTHER on 2026-09-08 20:18
+- Location: Abcnews.com
+- Description: The alleged violations came to light after Morphew was accused of being involved in a hit-and-run incident in Denver that was in part captured on video.
 
 
-### ROBBERY/THEFT on 2026-09-08 16:15
-- Location: The Times of India
-- Description: Assistant teacher Bhabani Prasad Dash was assaulted with a wooden stick near a Khallikote school gate in Ganjam; police registered a case and are investigating.
+### OTHER on 2026-09-08 20:11
+- Location: Newsonjapan.com
+- Description: A man in his 40s who went to collect overdue rent at an apartment in Nishitokyo, Tokyo, was repeatedly stabbed on September 7, with police arresting a 66-year-old resident who was three months behind on rent and was scheduled to vacate the property that day. …
 
 
-### ROBBERY/THEFT on 2026-09-08 16:14
-- Location: The Times of India
-- Description: Police in Gajapati district seized 375 kg ganja worth Rs 38 lakh from a forest near Sialilata; NDPS case filed and probe underway to nab culprits.
+### OTHER on 2026-09-08 20:08
+- Location: Radio Free Europe/ Radio Liberty
+- Description: Hundreds of Russian minors are facing terrorism charges or have been added to the state's official registry of terrorists and extremists since Moscow’s full-scale invasion of Ukraine in 2022. What’s behind this trend?
 
 
-### HOMICIDE on 2026-09-08 16:13
-- Location: The Times of India
-- Description: Farmer Jitender Yadav, 40, found dead with head injuries in Rewari near HPCL plant on Bhadawas road; police name suspect in FIR, accused absconding.
+### HOMICIDE on 2026-09-08 20:07
+- Location: Newsonjapan.com
+- Description: Police investigating a fire that killed three people at a cake shop in Motosu, Gifu Prefecture, have found a gasoline container and multiple knives in the burned-out building and are examining whether a 70-year-old company executive who died after the inciden…
 
 
-### OTHER on 2026-09-08 16:13
-- Location: The Times of India
-- Description: Punjab Congress protests AAP govt over Dirba suicide, seeks dismissal and arrest of finance minister Harpal Cheema; police use water cannons in Chandigarh.
+### OTHER on 2026-09-08 20:02
+- Location: The Daily Caller
+- Description: Democratic New York Gov. Hochul announced Tuesday that she is distributing $70 million in state grants aiming to safeguard against hate crimes.
 
-Analysis generated at: Wed Sep  9 16:17:50 UTC 2026
+Analysis generated at: Wed Sep  9 20:19:25 UTC 2026
