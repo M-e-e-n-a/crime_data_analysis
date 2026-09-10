@@ -1,10 +1,10 @@
 
-Loaded 130902 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-09 15:30:12
+Loaded 130906 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-09 16:00:15
 
 Incidents by source:
 source
-newsapi           130801
+newsapi           130805
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ ion.svg)
 
 ## Recent Incidents
 
+### OTHER on 2026-09-09 16:00
+- Location: Poynter
+- Description: This article is part of The Poynter 50, a series reflecting on 50 moments and people that shaped journalism over the past half-century — and continue to influence its future. […]
+The post Before true crime was everywhere, there was ‘Dateline’ appeared first o…
+
+
+### OTHER on 2026-09-09 16:00
+- Location: Soldiersystems.net
+- Description: The brightest tribute to perfection. Gardone Val Trompia, June 26th, 2026 – Beretta continues its extraordinary streak of oneofakind creations celebrating its 500year anniversary with a new pinnacle of design and manufacturing perfection. A contemporary reima…
+
+
+### HOMICIDE on 2026-09-09 15:56
+- Location: The Times of India
+- Description: The CBI has requested Disha Salian case documents from Malwani police. This follows a Bombay High Court order directing an FIR registration. The court appointed a senior CBI officer to conduct the investigation. Mumbai Police had previously concluded Salian's…
+
+
+### OTHER on 2026-09-09 15:55
+- Location: News.com.au
+- Description: The store remained closed on Wednesday morning while staff waited for police.
+
+
 ### OTHER on 2026-09-09 15:30
 - Location: Dailymail.com
 - Description: Five members of a London gang who held two French cryptocurrency millionaires captive and forced them to strip naked have been jailed for more than 30 years.
 
-
-### ROBBERY/THEFT on 2026-09-09 15:21
-- Location: ARTnews
-- Description: Three of the four initially stolen paintings by Renoir from a southern French museum are ownerless, following their loss during WWII.
-
-
-### ROBBERY/THEFT on 2026-09-09 15:19
-- Location: The Times of India
-- Description: 13-year-old boy in UP’s Kasganj tied to a tree and beaten over theft suspicion; video sparks outrage as police file FIR and arrest two accused.
-
-
-### OTHER on 2026-09-09 15:11
-- Location: AllHipHop
-- Description: Flight records, private texts and defense witnesses shape the government's final case as jurors weigh Lil Durk's fate.
-
-
-### HOMICIDE on 2026-09-09 15:09
-- Location: The Punch
-- Description: The Akwa Ibom State Police Command has launched a manhunt for persons involved in the killing of an unidentified man who was allegedly beaten and set ablaze by a mob in Ikpe Ikot Akpan Village, along the Ikot Ekpene–Uyo Road. The incident occurred on Wednesda…
-
-Analysis generated at: Thu Sep 10 15:42:00 UTC 2026
+Analysis generated at: Thu Sep 10 16:09:05 UTC 2026
