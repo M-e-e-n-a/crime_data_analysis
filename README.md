@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Sep 10 10:25:57 UTC 2026
+Last updated: Thu Sep 10 15:42:00 UTC 2026
 
 ## Latest Analysis
 
-Loaded 130818 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-09 10:18:52
+Loaded 130902 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-09 15:30:12
 
 Incidents by source:
 source
-newsapi           130717
+newsapi           130801
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,33 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-09-09 10:18
-- Location: BBC News
-- Description: The Independent Office for Police Conduct is investigating Bedfordshire Police's response.
-
-
-### HOMICIDE on 2026-09-09 10:17
+### OTHER on 2026-09-09 15:30
 - Location: Dailymail.com
-- Description: The two children both attended AI Iman College in nearby Melton South, where one had received a student of the week award hours before her death.
+- Description: Five members of a London gang who held two French cryptocurrency millionaires captive and forced them to strip naked have been jailed for more than 30 years.
 
 
-### ASSAULT on 2026-09-09 10:16
-- Location: Breitbart News
-- Description: A German man has been arrested after a spate of attacks with what have been described as home-made rockets against electrical infrastructure.
-The post ‘Climate Terrorism’: Manhunt Arrest in Germany Over Rocket Attacks Against High Voltage Power Lines appeared…
+### ROBBERY/THEFT on 2026-09-09 15:21
+- Location: ARTnews
+- Description: Three of the four initially stolen paintings by Renoir from a southern French museum are ownerless, following their loss during WWII.
 
 
-### DRUG RELATED on 2026-09-09 10:14
-- Location: Dailymail.com
-- Description: Kayleigh Bowler, 40, who reached the quarter finals of the BBC cooking show last year, was spared jail after travelling 250 miles to pick up the drugs, blaming declining custom at her catering business.
+### ROBBERY/THEFT on 2026-09-09 15:19
+- Location: The Times of India
+- Description: 13-year-old boy in UP’s Kasganj tied to a tree and beaten over theft suspicion; video sparks outrage as police file FIR and arrest two accused.
 
 
-### OTHER on 2026-09-09 10:14
-- Location: The Root
-- Description: What started as a disagreement over a soldier’s haircut took a serious turn when a National Guardsman allegedly pulled out his service weapon and pointed it at a fellow soldier in Washington, D.C.
+### OTHER on 2026-09-09 15:11
+- Location: AllHipHop
+- Description: Flight records, private texts and defense witnesses shape the government's final case as jurors weigh Lil Durk's fate.
 
 
+### HOMICIDE on 2026-09-09 15:09
+- Location: The Punch
+- Description: The Akwa Ibom State Police Command has launched a manhunt for persons involved in the killing of an unidentified man who was allegedly beaten and set ablaze by a mob in Ikpe Ikot Akpan Village, along the Ikot Ekpene–Uyo Road. The incident occurred on Wednesda…
 
-According to CNN, Zion Mitchell, 21, a member of the Georgi…
-
-Analysis generated at: Thu Sep 10 10:25:57 UTC 2026
+Analysis generated at: Thu Sep 10 15:42:00 UTC 2026
