@@ -1,10 +1,10 @@
 
-Loaded 130746 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-09 02:34:09
+Loaded 130756 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-09 03:52:20
 
 Incidents by source:
 source
-newsapi           130645
+newsapi           130655
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-09-09 02:34
+### OTHER on 2026-09-09 03:52
 - Location: The Times of India
-- Description: A disturbing case emerged where a woman was allegedly murdered by her father and brother in a supposed act of family honour. The crime was triggered by a viral video showcasing her with a male acquaintance. To conceal their heinous act, the accused staged it …
+- Description: A building collapse in Satya Niketan has raised safety concerns for PG residents. Many students and young professionals now question the security of their rented accommodations. Affordability often conflicts with the need for safer, better-maintained PG facil…
 
 
-### HOMICIDE on 2026-09-09 02:14
-- Location: Starobserver.com.au
-- Description: Two women, Jennifer Quijano (32) and alleged ringleader Precious Arzuaga (40), have been sentenced to life in prison for their involvement in the brutal murder of a transgender Minnesota man, ...
-The post Two Women Sentenced For Kidnapping, Torturing, & Killi…
+### ASSAULT on 2026-09-09 03:39
+- Location: New York Post
+- Description: A 39-year-old man was attacked from behind and had his yarmulke slapped off his head by the hateful menace as the victim was entering a business on Whitehall Street,
 
 
-### OTHER on 2026-09-09 02:00
-- Location: Screen Rant
-- Description: While some Prime Video miniseries get attention, these nearly perfect miniseries from the streamer have fallen out of the pop culture zeitgeist.
+### OTHER on 2026-09-09 03:34
+- Location: Rediff.com
+- Description: From Kareena Kapoor Khan's 'cop who wears lipstick' in Daayra to Rani Mukerji's relentless Shivani Shivaji Rao in the Mardaani series, Bollywood has seen a rise in powerful and nuanced portrayals of female police officers tackling brutal crimes and societal c…
 
 
-### SHOOTING on 2026-09-09 01:54
-- Location: ABC News (AU)
-- Description: Police are searching for a gunman on the NSW Central Coast after a man was shot multiple times inside a home at Berkeley Vale.
+### ROBBERY/THEFT on 2026-09-09 03:31
+- Location: The Conversation Africa
+- Description: Sydney’s organised crime problem is real and serious. But Chris Minns’ new laws will not necessarily deliver results.
 
 
-### HOMICIDE on 2026-09-09 01:50
-- Location: Freerepublic.com
-- Description: Four innocent children were deliberately drugged and murdered by their own mother and grandmother in a sickening murder-suicide plot allegedly driven by a bitter custody dispute, according to investigators. The children, Harper Harmon, 13; Hudson Harmon, 11; …
+### HOMICIDE on 2026-09-09 03:29
+- Location: The Times of India
+- Description: Ramanuj Goswami, accused of beheading his wife, stated he has no remorse for his actions. He plans to kill his wife's alleged 'sugar daddy' after his release from jail. Goswami was arrested on Sunday night for the alleged murder of Riya Talukdar. The incident…
 
-Analysis generated at: Thu Sep 10 02:37:11 UTC 2026
+Analysis generated at: Thu Sep 10 03:58:44 UTC 2026
