@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Sep 11 15:43:33 UTC 2026
+Last updated: Fri Sep 11 16:12:47 UTC 2026
 
 ## Latest Analysis
 
-Loaded 131188 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-10 15:27:02
+Loaded 131194 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-10 16:07:11
 
 Incidents by source:
 source
-newsapi           131087
+newsapi           131093
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-09-10 15:27
-- Location: The Irish Times
-- Description: Europol said some of the animals may have been diverted into the food chain without their true origin and history being known
+### OTHER on 2026-09-10 16:07
+- Location: Bleeding Cool News
+- Description: Chris Hansen is still doing the rounds, telling anyone who will listen that A24's upcoming drama, Primetime, about the segment and eventual show of his in the 2000s, isn't accurate and that he refused to watch it early when A24 asked him to sign an NDA. The f…
 
 
-### HOMICIDE on 2026-09-10 15:20
-- Location: Dailymail.com
-- Description: Janette MacAusland, 49, pleaded not guilty after being arrested and charged with two counts of murder after police said she allegedly strangled her kids.
+### OTHER on 2026-09-10 16:00
+- Location: Deadline
+- Description: EXCLUSIVE: Paramount Pictures is putting together a package that finally should give movie treatment to the ‘60s TV series Hawaii Five-O, with Spider-Man: Brand New Day helmer Destin Daniel Cretton leading the wave. The Dish hears that Cretton will develop to…
 
 
-### OTHER on 2026-09-10 15:18
-- Location: Breitbart News
-- Description: U.S. Secretary of State Marco Rubio on Wednesday delivered a scathing condemnation of the consequences of leftism across Latin America — pointing out leftist governments led to the destruction of Cuba, Venezuela, and Nicaragua.
-The post Marco Rubio Says Lefti…
+### OTHER on 2026-09-10 16:00
+- Location: Entrepreneur
+- Description: Terry Eagle started working the register at age 16. Now he owns the register.
 
 
-### OTHER on 2026-09-10 15:18
-- Location: Pfadvice.com
-- Description: This post includes affiliate links. If you purchase anything through these affiliated links, the author/website may earn a commission. Spider-Man is often remembered as Marvel’s lighthearted hero. He is always cracking jokes mid-battle, balancing everyday str…
+### HOMICIDE on 2026-09-10 15:59
+- Location: Abcnews.com
+- Description: She was arrested in North Carolina weeks after the murders.
 
 
-### HOMICIDE on 2026-09-10 15:18
-- Location: Dailymail.com
-- Description: One year ago, conservative activist Charlie Kirk was fatally shot in the neck in front of thousands of witnesses while debating at Utah Valley University.
+### HOMICIDE on 2026-09-10 15:59
+- Location: CBC News
+- Description: Thirty-year-old James Hannah, who is accused of killing Zachary Pollock, says he has ongoing mental health issues and hasn't been taking his prescribed medication.
 
-Analysis generated at: Fri Sep 11 15:43:33 UTC 2026
+Analysis generated at: Fri Sep 11 16:12:47 UTC 2026
