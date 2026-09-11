@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Sep 11 03:55:10 UTC 2026
+Last updated: Fri Sep 11 10:26:56 UTC 2026
 
 ## Latest Analysis
 
-Loaded 131041 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-10 03:23:11
+Loaded 131109 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-10 10:18:14
 
 Incidents by source:
 source
-newsapi           130940
+newsapi           131008
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-09-10 03:23
-- Location: The Times of India
-- Description: An ex-serviceman was arrested in Delhi for allegedly shooting a PG operator. The fatal shooting occurred Tuesday evening over a significant monetary dispute between the two men. Police teams swiftly apprehended the accused hours after the incident took place.…
+### OTHER on 2026-09-10 10:18
+- Location: Rediff.com
+- Description: Director Tigmanshu Dhulia returns to the Chambal world with Ghamasaan, pitting Pratik Gandhi's police officer against Arshad Warsi's dreaded Maharaj.
 
 
-### OTHER on 2026-09-10 03:20
-- Location: Breitbart News
-- Description: President Donald Trump laid out the Republican Party’s vision Wednesday, calling for strong borders, low taxes, “no crime,” and American energy dominance.
-The post Trump Lays Out Republican Vision: Strong Borders, Low Taxes, ‘No Crime’ appeared first on Breit…
+### ROBBERY/THEFT on 2026-09-10 10:12
+- Location: Israelnationalnews.com
+- Description: Three M-16 rifles were stolen from soldiers at the Shayetet 13 base in Atlit, with investigators now examining suspicions that an insider was involved.
 
 
-### OTHER on 2026-09-10 03:19
-- Location: The Times of India
-- Description: Mumbai's electric vehicle population has now exceeded seventy-seven thousand registered vehicles. Maharashtra stands as the nation's second-largest state for electric vehicles with over eleven lakh. E-bikes constitute the majority of Maharashtra's electric ve…
+### ROBBERY/THEFT on 2026-09-10 10:11
+- Location: Abcnews.com
+- Description: A series of art heists in France has highlighted the country's struggle to protect its cultural treasures
 
 
-### ROBBERY/THEFT on 2026-09-10 03:17
-- Location: The Times of India
-- Description: From TOI Print News: If Kazo had a mobile phone of his own, a lot would change between us. He probably wouldn’t wag his tail if I came by, being deeply absorbed in the pho.
+### OTHER on 2026-09-10 10:02
+- Location: GeekTyrant
+- Description: Actors Léa Seydoux (Spectre, Blue is the Warmest Colour) and Bill Murray (Ghostbusters, Lost In Translation) have signed on to star in the detective drama The Quiet Land from Swiss director Ursula Meier (Home, Sister, The Line). Meier co-wrote the film’s scri…
 
 
-### OTHER on 2026-09-10 03:16
-- Location: The Times of India
-- Description: Named the Secular Social Justice Victory Alliance, this new coalition is spearheaded by the TVK-led front under Chief Minister C Joseph Vijay's leadership. The alliance is committed to promoting secularism, social justice, and equality for all citizens. Leade…
+### OTHER on 2026-09-10 10:00
+- Location: Fox News
+- Description: UVU's new president revealed his two daughters were just yards from Charlie Kirk's assassination and vowed to continue fostering free speech on campus.
 
-Analysis generated at: Fri Sep 11 03:55:10 UTC 2026
+Analysis generated at: Fri Sep 11 10:26:56 UTC 2026
