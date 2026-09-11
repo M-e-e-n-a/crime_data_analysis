@@ -1,10 +1,10 @@
 
-Loaded 131194 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-10 16:07:11
+Loaded 131293 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-10 20:16:09
 
 Incidents by source:
 source
-newsapi           131093
+newsapi           131192
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-09-10 16:07
-- Location: Bleeding Cool News
-- Description: Chris Hansen is still doing the rounds, telling anyone who will listen that A24's upcoming drama, Primetime, about the segment and eventual show of his in the 2000s, isn't accurate and that he refused to watch it early when A24 asked him to sign an NDA. The f…
+### OTHER on 2026-09-10 20:16
+- Location: Dailymail.com
+- Description: Laurie Moore, 47, a senior investigator with the Albany County Sheriff's Office, is accused of conducting more than 3,000 unauthorized searches on her former partner's vehicle.
 
 
-### OTHER on 2026-09-10 16:00
-- Location: Deadline
-- Description: EXCLUSIVE: Paramount Pictures is putting together a package that finally should give movie treatment to the ‘60s TV series Hawaii Five-O, with Spider-Man: Brand New Day helmer Destin Daniel Cretton leading the wave. The Dish hears that Cretton will develop to…
+### OTHER on 2026-09-10 20:13
+- Location: The Conversation Africa
+- Description: Jon Ronson’s new book on the masculinity crisis was sparked by his son’s strange journey to a castle in upstate New York and a series of late-night text messages.
 
 
-### OTHER on 2026-09-10 16:00
-- Location: Entrepreneur
-- Description: Terry Eagle started working the register at age 16. Now he owns the register.
+### OTHER on 2026-09-10 20:00
+- Location: Anime News Network
+- Description: Game was originally scheduled for release in 2023 // Level 5 began streaming during the Level 5 Vision 2026 II Dream livestream on Thursday a trailer for the...
 
 
-### HOMICIDE on 2026-09-10 15:59
-- Location: Abcnews.com
-- Description: She was arrested in North Carolina weeks after the murders.
+### SHOOTING on 2026-09-10 19:56
+- Location: The Times of India
+- Description: M.Ed student in Lucknow alleges man posing as Crime Branch official abducted her at gunpoint, assaulted her, drove 95 km to Auraiya; police probe on.
 
 
-### HOMICIDE on 2026-09-10 15:59
-- Location: CBC News
-- Description: Thirty-year-old James Hannah, who is accused of killing Zachary Pollock, says he has ongoing mental health issues and hasn't been taking his prescribed medication.
+### HOMICIDE on 2026-09-10 19:52
+- Location: Bossip
+- Description: The family of 22-year-old Asia Bennett is demanding answers after a Jacksonville Sheriff’s Office officer shot and killed her during a domestic violence call, and ubiquitious civil rights attorney Ben Crump is now helping them push for transparency. According…
 
-Analysis generated at: Fri Sep 11 16:12:47 UTC 2026
+Analysis generated at: Fri Sep 11 20:20:36 UTC 2026
