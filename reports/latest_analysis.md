@@ -1,10 +1,10 @@
 
-Loaded 131005 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-09 20:20:00
+Loaded 131027 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-10 02:22:17
 
 Incidents by source:
 source
-newsapi           130904
+newsapi           130926
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-09-09 20:20
-- Location: LancasterOnline
-- Description: Nonprofit Lancaster County Crime Stoppers is offering a reward of up to $5,000 for information on a Lancaster city homicide that has gone unsolved for more than two decades.
+### ROBBERY/THEFT on 2026-09-10 02:22
+- Location: Dailymail.com
+- Description: The totals made Victoria Australia's car theft capital for a second consecutive year after it overtook Queensland.
 
 
-### OTHER on 2026-09-09 20:17
-- Location: Al Jazeera English
-- Description: Joshua Cammidge, 31, has been charged after alleged contact with a member of the GRU Volunteer Corps.
-
-
-### SHOOTING on 2026-09-09 20:13
-- Location: New York Post
-- Description: A gun-toting Brooklyn thug charged in a brazen Labor Day shooting was slapped with hefty bail that should keep him locked up – just weeks after a lefty judge cut him a break that put him back on the streets. Nayshawn Wilkinson, 19, was ordered held on $500,00…
-
-
-### OTHER on 2026-09-09 20:11
+### HOMICIDE on 2026-09-10 02:21
 - Location: The Times of India
-- Description: Basti police bust cyber fraud gang; 2 arrested for posing as crime branch officers and extorting victims across 12 states using CDR and “obscene video” threats.
+- Description: A woman allegedly orchestrated her father-in-law's murder while attending a party with her husband. She reportedly communicated with the assailants throughout the night, guiding their actions. The plot stemmed from a dispute over CCTV cameras installed for se…
 
 
-### OTHER on 2026-09-09 20:10
-- Location: Mother Jones
-- Description: A massive immigration operation is happening in Memphis. It’s been underway for just under a year now—hundreds of arrests, streets filled with officers. But most people I talk with have never heard of it. Why? As I previously documented for this magazine, the…
+### OTHER on 2026-09-10 02:20
+- Location: Freerepublic.com
+- Description: On July 14, 2025, United States Marshalls entered the home of 49-year-old Tennessee woman Angela Lipps and arrested her in front of four young children that she was babysitting. Authorities believed that Lipps had defrauded a series of North Dakota banks. Tha…
 
-Analysis generated at: Thu Sep 10 20:21:18 UTC 2026
+
+### HOMICIDE on 2026-09-10 02:18
+- Location: Heavy.com
+- Description: Former Titans scout Blaise Taylor received his sentence Wednesday following his conviction in a high-profile Nashville murder case. The post Former Titans Scout Sentenced After Murdering Pregnant Girlfriend appeared first on HEAVY.
+
+
+### OTHER on 2026-09-10 02:12
+- Location: Vulture
+- Description: Bret’s promise to reveal all of the secrets in The Shards turns out to be a lie to set up the next season.
+
+Analysis generated at: Fri Sep 11 02:31:11 UTC 2026
