@@ -1,10 +1,10 @@
 
-Loaded 131316 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-11 02:25:13
+Loaded 131323 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-11 03:49:35
 
 Incidents by source:
 source
-newsapi           131215
+newsapi           131222
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-09-11 02:25
-- Location: Daily Signal
-- Description: Donald Trump Jr. took the stage on Thursday at the Republican National Committee’s Midterm Convention, where he honored Charlie Kirk, drew a stark contrast between Republicans and Democrats, and urged conservatives to turn out for the upcoming midterm electio…
+### OTHER on 2026-09-11 03:49
+- Location: Breitbart News
+- Description: A capacity crowd at the Republicans' midterm convention in Dallas, Texas, is leaving energized after closing remarks from a powerhouse duo: Vice President JD Vance and President Donald Trump, making the case for the necessity of Republican victories in Novemb…
 
 
-### OTHER on 2026-09-11 02:23
+### ASSAULT on 2026-09-11 03:44
 - Location: ABC News (AU)
-- Description: A 51-year-old man is arrested and charged after allegedly carjacking a vehicle with a baby inside in Victoria's north-west.
+- Description: Police arrested several people, including a patched Bandidos member, as part of an investigation into several incidents, including an alleged Melton firebombing where a man mistakenly set himself on fire.
 
 
-### HOMICIDE on 2026-09-11 02:18
+### ASSAULT on 2026-09-11 03:40
+- Location: Gossiplankanews.com
+- Description: Two boys have died and their father has been seriously injured in a hand grenade attack on a house located on Sirisangabo Mawatha in Dehiwala, Kawdana area, early this morning.
+<!--gossip-below-article-Rs--> (adsbygoogle = window.adsbygoogle || []).push({});…
+
+
+### ASSAULT on 2026-09-11 03:29
+- Location: Israelnationalnews.com
+- Description: Manhattan DA Alvin Bragg indicts Larry Montes over antisemitic attack that disrupted Shabbat services at Central Synagogue.
+
+
+### ROBBERY/THEFT on 2026-09-11 03:19
 - Location: The Times of India
-- Description: Police are investigating Subrat Manocha's knowledge of his father's murder plot. His wife, Shalu Manocha, allegedly planned the killing with two contract killers. Investigators are examining digital communication between Shalu and one of the alleged contract …
+- Description: Investigators have concluded the Secunderabad arms heist was an insider job. Most of the stolen weapons have reportedly been traced by authorities. A security breach at the Madras Regiment armoury led to the theft of several firearms. Multiple agencies are in…
 
-
-### HOMICIDE on 2026-09-11 02:17
-- Location: NBC News
-- Description: Celeste Rivas Hernandez’s parents are suing the singer D4vd, accusing him of wrongful death after he was charged in the 14-year-old girl’s murder.
-
-
-### OTHER on 2026-09-11 02:10
-- Location: Freerepublic.com
-- Description: I was sitting in my home office not far from the Pentagon when it happened. The TV behind me had the sound lowered, but I suddenly became aware of a major development. I reached for the remote and cranked up the audio.A plane had struck one of the twin towers…
-
-Analysis generated at: Sat Sep 12 02:38:52 UTC 2026
+Analysis generated at: Sat Sep 12 03:56:44 UTC 2026
