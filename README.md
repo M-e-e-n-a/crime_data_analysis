@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Sep 12 09:57:06 UTC 2026
+Last updated: Sat Sep 12 14:51:02 UTC 2026
 
 ## Latest Analysis
 
-Loaded 131381 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-11 09:54:51
+Loaded 131458 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-11 14:50:07
 
 Incidents by source:
 source
-newsapi           131280
+newsapi           131357
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,29 +24,31 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-09-11 09:54
-- Location: BBC News
-- Description: The six will face wire fraud and money-laundry charges in the US, South African police say.
+### ASSAULT on 2026-09-11 14:50
+- Location: Dailymail.com
+- Description: Darren Conway, 52, admitted 11 charges at Wood Green Crown Court in north London, including nine of encouraging others to sexually assault women on an internet forum while they were unconscious.
 
 
-### HOMICIDE on 2026-09-11 09:48
-- Location: BBC News
-- Description: Trevor Dunkley pleads guilty to the murder of Patricia Lashley, last seen in September 1998.
+### SHOOTING on 2026-09-11 14:35
+- Location: Breitbart News
+- Description: Argentine Federal Police (PFA) officers on Thursday detained a 15-year-old after the U.S. Federal Bureau of Investigations (FBI) detected that the minor had used ChatGPT to plan a school shooting, local outlets reported.
+The post Reports: FBI Detects Argentin…
 
 
-### OTHER on 2026-09-11 09:39
-- Location: CNA
-- Description: Analysts say the way young people become involved in violent extremism has changed, with social media playing a greater role.
+### OTHER on 2026-09-11 14:35
+- Location: The Punch
+- Description: Hull City have been fined £30,000 by the Football Association after the club accepted a charge for homophobic chanting by its supporters during a match.
+
+Read More: https://punchng.com/fa-fines-hull-city-30000-over-homophobic-chant/
 
 
-### OTHER on 2026-09-11 09:37
-- Location: The Times of India
-- Description: Sonipat Police arrested two suspects after a Rs 2-crore extortion demand and subsequent firing occurred. The apprehended individuals sustained bullet injuries during an armed encounter with police officers. Authorities recovered three country-made pistols and…
+### OTHER on 2026-09-11 14:33
+- Location: The Atlantic
+- Description: A note from the author
 
 
-### SHOOTING on 2026-09-11 09:31
-- Location: Vanguard
-- Description: “The circumstances surrounding the movement and custody of Adeniji Rebecca are also under investigation,” the command said.
-The post Police bust alleged child-stealing gang, rescue three children in Ogun appeared first on Vanguard News.
+### OTHER on 2026-09-11 14:28
+- Location: Daily Signal
+- Description: Twenty-five years later, the images remain seared into our national memory: A brilliant September sky blackened by smoke; office papers drifting through the canyons of lower Manhattan; strangers running toward danger while thousands fled from it; and, by even…
 
-Analysis generated at: Sat Sep 12 09:57:06 UTC 2026
+Analysis generated at: Sat Sep 12 14:51:02 UTC 2026
