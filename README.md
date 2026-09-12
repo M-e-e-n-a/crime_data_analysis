@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Sep 12 15:20:03 UTC 2026
+Last updated: Sat Sep 12 20:02:54 UTC 2026
 
 ## Latest Analysis
 
-Loaded 131467 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-11 15:20:00
+Loaded 131565 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-11 19:58:07
 
 Incidents by source:
 source
-newsapi           131366
+newsapi           131464
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-09-11 15:20
-- Location: Daily Signal
-- Description: Speaking at the Republican Midterm Convention in Dallas, Texas Gov. Greg Abbott highlighted his border security record and accused Texas Democrats of opposing what he described as common-sense policies on immigration and public safety.
+### ROBBERY/THEFT on 2026-09-11 19:58
+- Location: The Times of India
+- Description: Lucknow: Two youths stripped and beaten at Saadatganj construction site over theft suspicion; video surfaced online, police probe underway, one detained.
 
 
-### HOMICIDE on 2026-09-11 15:18
-- Location: Thoughtcatalog.com
-- Description: Timothy Olyphant is a terrific actor who has donned the Ghostface mask in Scream 2, faced off against a serial killer in A Perfect Getaway, fled from the government in The Crazies and portrayed a badass U.S.
+### OTHER on 2026-09-11 19:55
+- Location: Wnd.com
+- Description: 'A free society must protect the right to express beliefs that challenge, provoke or offend'
 
 
-### OTHER on 2026-09-11 15:12
-- Location: Al Jazeera English
-- Description: Months of anti-foreigner protests across South Africa have forced tens of thousands to leave the country.
+### OTHER on 2026-09-11 19:50
+- Location: Bradenkelley.com
+- Description: Twenty-Five Years Later by Art Inteligencia What Do We Owe the Lives Lost on September 11, 2001? On this twenty-fifth anniversary of September 11, 2001, we begin where we must: with the people. Nearly three thousand lives were taken in New York, at the Pentag…
 
 
-### HOMICIDE on 2026-09-11 15:12
-- Location: New York Post
-- Description: An Upstate New York mom and grandma used a common allergy medication to kill themselves after fatally poisoning four young children, new toxicology results show.
+### OTHER on 2026-09-11 19:47
+- Location: Dailymail.com
+- Description: Ryan Cornelius has spent nearly two decades behind bars in the Al Awir central prison- a world away from the glittering metropolis shown by celebrities and influencers of the Gulf state on social media.
 
 
-### HOMICIDE on 2026-09-11 15:09
-- Location: New York Post
-- Description: Stephen Aarons said he was "remorseful" and called his error "a lesson learned for all professionals who ⁠rely upon this powerful but sometimes unstable technology."
+### OTHER on 2026-09-11 19:45
+- Location: Gizmodo.com
+- Description: Among the things we learned, Commissioner Monica Matteo-Salinas has "never waterboarded [anyone]."
 
-Analysis generated at: Sat Sep 12 15:20:03 UTC 2026
+Analysis generated at: Sat Sep 12 20:02:54 UTC 2026
