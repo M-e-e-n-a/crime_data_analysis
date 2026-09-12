@@ -1,10 +1,10 @@
 
-Loaded 131323 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-11 03:49:35
+Loaded 131381 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-11 09:54:51
 
 Incidents by source:
 source
-newsapi           131222
+newsapi           131280
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,29 +20,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-09-11 03:49
-- Location: Breitbart News
-- Description: A capacity crowd at the Republicans' midterm convention in Dallas, Texas, is leaving energized after closing remarks from a powerhouse duo: Vice President JD Vance and President Donald Trump, making the case for the necessity of Republican victories in Novemb…
+### OTHER on 2026-09-11 09:54
+- Location: BBC News
+- Description: The six will face wire fraud and money-laundry charges in the US, South African police say.
 
 
-### ASSAULT on 2026-09-11 03:44
-- Location: ABC News (AU)
-- Description: Police arrested several people, including a patched Bandidos member, as part of an investigation into several incidents, including an alleged Melton firebombing where a man mistakenly set himself on fire.
+### HOMICIDE on 2026-09-11 09:48
+- Location: BBC News
+- Description: Trevor Dunkley pleads guilty to the murder of Patricia Lashley, last seen in September 1998.
 
 
-### ASSAULT on 2026-09-11 03:40
-- Location: Gossiplankanews.com
-- Description: Two boys have died and their father has been seriously injured in a hand grenade attack on a house located on Sirisangabo Mawatha in Dehiwala, Kawdana area, early this morning.
-<!--gossip-below-article-Rs--> (adsbygoogle = window.adsbygoogle || []).push({});…
+### OTHER on 2026-09-11 09:39
+- Location: CNA
+- Description: Analysts say the way young people become involved in violent extremism has changed, with social media playing a greater role.
 
 
-### ASSAULT on 2026-09-11 03:29
-- Location: Israelnationalnews.com
-- Description: Manhattan DA Alvin Bragg indicts Larry Montes over antisemitic attack that disrupted Shabbat services at Central Synagogue.
-
-
-### ROBBERY/THEFT on 2026-09-11 03:19
+### OTHER on 2026-09-11 09:37
 - Location: The Times of India
-- Description: Investigators have concluded the Secunderabad arms heist was an insider job. Most of the stolen weapons have reportedly been traced by authorities. A security breach at the Madras Regiment armoury led to the theft of several firearms. Multiple agencies are in…
+- Description: Sonipat Police arrested two suspects after a Rs 2-crore extortion demand and subsequent firing occurred. The apprehended individuals sustained bullet injuries during an armed encounter with police officers. Authorities recovered three country-made pistols and…
 
-Analysis generated at: Sat Sep 12 03:56:44 UTC 2026
+
+### SHOOTING on 2026-09-11 09:31
+- Location: Vanguard
+- Description: “The circumstances surrounding the movement and custody of Adeniji Rebecca are also under investigation,” the command said.
+The post Police bust alleged child-stealing gang, rescue three children in Ogun appeared first on Vanguard News.
+
+Analysis generated at: Sat Sep 12 09:57:06 UTC 2026
