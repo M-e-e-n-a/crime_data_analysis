@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Sep 13 15:29:13 UTC 2026
+Last updated: Sun Sep 13 15:56:34 UTC 2026
 
 ## Latest Analysis
 
-Loaded 131705 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-12 15:22:52
+Loaded 131714 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-12 15:44:08
 
 Incidents by source:
 source
-newsapi           131604
+newsapi           131613
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-09-12 15:22
+### OTHER on 2026-09-12 15:44
 - Location: The Times of India
-- Description: A woman from Rajasthan was arrested for impersonating Lawrence Bishnoi's wife. She allegedly threatened a Jat leader over social media platforms. The leader had demanded the arrest of those involved in Ankit Baliyan's murder. Haryanvi singer Ankit Baliyan was…
+- Description: Kerala govt circular sets Rs 5,000 fine per illegal banner, flag or poster in public places; local body secretaries liable for recovery, police to file FIRs.
 
 
-### OTHER on 2026-09-12 15:21
-- Location: Yahoo Entertainment
-- Description: The head organizer of the 2010 World Cup was re-elected president of South Africa's soccer federation on Saturday despite facing criminal charges over alleged fraud while in office. Danny Jordaan, 75, beat challenger Sandile Zungu, a South African businessman…
-
-
-### OTHER on 2026-09-12 15:16
-- Location: Mediatakeout.com
-- Description: THE REAL CRIME NETWORK?! How ‘Real Housewives’ Stacked Up More Felonies & Federal Prison Sentences Than ‘L&HH’, ‘Basketball Wives’ & ‘Baddies’ COMBINED!! (THE RECEIPTS) Clear out your calendar, hang up the phone, and pull up a chair, because Media Take Out cr…
-
-
-### OTHER on 2026-09-12 15:04
-- Location: Dailymail.com
-- Description: Lydia Marsh (pictured) died after her partner, Stephen Rhodes, drifted his Mazda MX-5 into the path of an oncoming HGV on a busy road near Gisburn, Lancashire, in April this year.
-
-
-### ASSAULT on 2026-09-12 15:02
+### HOMICIDE on 2026-09-12 15:43
 - Location: The Times of India
-- Description: Perambra Police arrest four for alleged gang rape of a woman in Kozhikode; survivor says she was drugged, assaulted over two years, filmed and threatened.
+- Description: Kerala High Court sets bail plea deadlines: anticipatory bail within 6 weeks, regular bail within 2 weeks; prosecution gets max 7 working days for instructions.
 
-Analysis generated at: Sun Sep 13 15:29:13 UTC 2026
+
+### OTHER on 2026-09-12 15:38
+- Location: The Times of India
+- Description: US News: A bipartisan group of US lawmakers has urged the Trump administration to blacklist three Indian companies over allegations that they have been involve.
+
+
+### OTHER on 2026-09-12 15:38
+- Location: The Times of India
+- Description: Palakkad: TTE Shiju, 47, arrested after alleged sexual harassment of woman passenger on Nizamuddin Express; railway police detained him at Shoranur.
+
+
+### SHOOTING on 2026-09-12 15:37
+- Location: The Times of India
+- Description: Five men posing as sales tax officers robbed a truck. They abducted the driver at gunpoint and fled with the iron rods. Palwal police arrested two accused and recovered the stolen truck. The entire load of iron rods and another truck were also recovered. The …
+
+Analysis generated at: Sun Sep 13 15:56:34 UTC 2026
