@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Sep 13 02:38:07 UTC 2026
+Last updated: Sun Sep 13 04:06:01 UTC 2026
 
 ## Latest Analysis
 
-Loaded 131587 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-12 02:31:28
+Loaded 131601 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-12 04:03:53
 
 Incidents by source:
 source
-newsapi           131486
+newsapi           131500
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,30 +24,30 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-09-12 02:31
+### OTHER on 2026-09-12 04:03
+- Location: The Times of India
+- Description: Delhi Traffic Police issued advisories for BRICS Summit diversions on key routes. Commuters should plan journeys and use public transport, especially the Metro. Emergency vehicles will receive priority passage during the summit period. Delhi Metro services wi…
+
+
+### HOMICIDE on 2026-09-12 04:03
 - Location: New York Post
-- Description: Jacques Ratliff was cuffed by Jackson police as he strolled down Capitol Street, just hours after officers executed search and arrest warrants in connection with the horrific Aug. 3 death of Tasia Fortune.
+- Description: Williamson County Sheriff’s deputies arrested 26-year-old Benedict Chinedu Ogbodiegwu on murder and theft charges after surveillance cameras captured the brutal 11 a.m. assault.
 
 
-### SHOOTING on 2026-09-12 02:17
-- Location: Antaranews.com
-- Description: Army Chief of Staff General Maruli Simanjuntak pledged a full review of civilian security measures in Papua following the fatal shooting of three local ...
+### OTHER on 2026-09-12 04:00
+- Location: Americanthinker.com
+- Description: By Mike McDanielPerhaps there’s a lesson there for our midterms and beyond.
 
 
-### HOMICIDE on 2026-09-12 01:42
-- Location: The Daily Caller
-- Description: An NBC affiliate shared sensitive information regarding the lone holdout juror in the Lindsay Clancy murder trial on Friday.
+### OTHER on 2026-09-12 04:00
+- Location: Americanthinker.com
+- Description: By Mike McDanielWithout Donald Trump, the Second Amendment would be just another unalienable liberty Democrats would deny us.
 
 
-### ASSAULT on 2026-09-12 01:36
-- Location: The Punch
-- Description: The Lagos State Police Command has summoned officers from Ebenezer Police Station after a man, Olugbenga Adeleke, alleged assault and extortion in a viral
+### OTHER on 2026-09-12 04:00
+- Location: Americanthinker.com
+- Description: Photo Credit:
+ 
+ Perchance AIBy Richard KirkThe Spirit of America state goes over the edge.
 
-Read More: https://punchng.com/cp-summons-officer-after-lagos-man-alleges-assault-extortion/
-
-
-### HOMICIDE on 2026-09-12 01:00
-- Location: Dailymail.com
-- Description: A man, 21, and three boys aged between 14 and 17 were rushed to hospital with stab wounds after the attack on Bromley High Street at around 2.15pm on Thursday.
-
-Analysis generated at: Sun Sep 13 02:38:07 UTC 2026
+Analysis generated at: Sun Sep 13 04:06:01 UTC 2026
