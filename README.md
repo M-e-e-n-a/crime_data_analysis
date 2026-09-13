@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Sep 13 15:56:34 UTC 2026
+Last updated: Sun Sep 13 20:08:59 UTC 2026
 
 ## Latest Analysis
 
-Loaded 131714 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-12 15:44:08
+Loaded 131764 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-12 20:08:46
 
 Incidents by source:
 source
-newsapi           131613
+newsapi           131663
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-09-12 15:44
+### SHOOTING on 2026-09-12 20:08
+- Location: Wordpress.com
+- Description: First off, my pronouns are still ‘kiss my ass’ Regarding the July 5 proscription of Palestine Action as a terrorist organisation and the fact this UK government is withholding information that supp…
+
+
+### OTHER on 2026-09-12 20:00
+- Location: Daily Signal
+- Description: On the premiere episode of the Daily Signal’s new weekly podcast, “Midterm Report,” Daily Signal senior contributor Victor Davis Hanson talks about the upcoming midterm elections, his new book “The Counterrevolution: The Fall and Rise of Donald Trump and the …
+
+
+### SHOOTING on 2026-09-12 19:48
 - Location: The Times of India
-- Description: Kerala govt circular sets Rs 5,000 fine per illegal banner, flag or poster in public places; local body secretaries liable for recovery, police to file FIRs.
+- Description: UP STF and Goa Crime Branch arrest suspected Goa hotel shooter Babu in Bahraich while trying to flee to Nepal; accused linked to Aug 28 Hotel Neo Majestic firing.
 
 
-### HOMICIDE on 2026-09-12 15:43
+### SHOOTING on 2026-09-12 19:40
+- Location: Fox News
+- Description: Security video shows Matthew Exton thrusting a handgun at point-blank range near his ex-wife's head inside a Toledo restaurant before a waiter acted.
+
+
+### OTHER on 2026-09-12 19:29
 - Location: The Times of India
-- Description: Kerala High Court sets bail plea deadlines: anticipatory bail within 6 weeks, regular bail within 2 weeks; prosecution gets max 7 working days for instructions.
+- Description: Kanpur Cyber Crime Police arrest 2 in fake-firm investment fraud; Rs 5,600 crore routed via 72 accounts, Rs 65 lakh seized, 86 complaints across states.
 
-
-### OTHER on 2026-09-12 15:38
-- Location: The Times of India
-- Description: US News: A bipartisan group of US lawmakers has urged the Trump administration to blacklist three Indian companies over allegations that they have been involve.
-
-
-### OTHER on 2026-09-12 15:38
-- Location: The Times of India
-- Description: Palakkad: TTE Shiju, 47, arrested after alleged sexual harassment of woman passenger on Nizamuddin Express; railway police detained him at Shoranur.
-
-
-### SHOOTING on 2026-09-12 15:37
-- Location: The Times of India
-- Description: Five men posing as sales tax officers robbed a truck. They abducted the driver at gunpoint and fled with the iron rods. Palwal police arrested two accused and recovered the stolen truck. The entire load of iron rods and another truck were also recovered. The …
-
-Analysis generated at: Sun Sep 13 15:56:34 UTC 2026
+Analysis generated at: Sun Sep 13 20:08:59 UTC 2026
