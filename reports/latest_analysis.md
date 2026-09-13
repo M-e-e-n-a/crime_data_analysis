@@ -1,10 +1,10 @@
 
-Loaded 131646 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-12 10:56:12
+Loaded 131705 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-12 15:22:52
 
 Incidents by source:
 source
-newsapi           131545
+newsapi           131604
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-09-12 10:56
-- Location: BBC News
-- Description: Del Leon Somerville, 42, is accused of throwing a bottle and kicking out at a police officer.
+### HOMICIDE on 2026-09-12 15:22
+- Location: The Times of India
+- Description: A woman from Rajasthan was arrested for impersonating Lawrence Bishnoi's wife. She allegedly threatened a Jat leader over social media platforms. The leader had demanded the arrest of those involved in Ankit Baliyan's murder. Haryanvi singer Ankit Baliyan was…
 
 
-### HOMICIDE on 2026-09-12 10:52
-- Location: Breitbart News
-- Description: Non-Germans are massively over-represented among suspects in murder and manslaughter crimes in the German state of Bavaria.
-The post Non-Germans Considerably Overrepresented in Bavarian Murder Suspect Statistics appeared first on Breitbart.
+### OTHER on 2026-09-12 15:21
+- Location: Yahoo Entertainment
+- Description: The head organizer of the 2010 World Cup was re-elected president of South Africa's soccer federation on Saturday despite facing criminal charges over alleged fraud while in office. Danny Jordaan, 75, beat challenger Sandile Zungu, a South African businessman…
 
 
-### OTHER on 2026-09-12 10:46
-- Location: Vanguard
-- Description: By Jeff Agbodo, Abakaliki Operatives of the Ebonyi State Police Command have rescued a Methodist cleric, Rev. Ede Sunday, who was abducted in Ohaukwu Local Government Area of the state. The command also said it arrested a suspected cultist and recovered a loc…
+### OTHER on 2026-09-12 15:16
+- Location: Mediatakeout.com
+- Description: THE REAL CRIME NETWORK?! How ‘Real Housewives’ Stacked Up More Felonies & Federal Prison Sentences Than ‘L&HH’, ‘Basketball Wives’ & ‘Baddies’ COMBINED!! (THE RECEIPTS) Clear out your calendar, hang up the phone, and pull up a chair, because Media Take Out cr…
 
 
-### ROBBERY/THEFT on 2026-09-12 10:37
-- Location: Al Jazeera English
-- Description: Two men jailed after Italy international Gianluigi Donnarumma and his now wife attacked in Paris home during PSG stint.
+### OTHER on 2026-09-12 15:04
+- Location: Dailymail.com
+- Description: Lydia Marsh (pictured) died after her partner, Stephen Rhodes, drifted his Mazda MX-5 into the path of an oncoming HGV on a busy road near Gisburn, Lancashire, in April this year.
 
 
-### OTHER on 2026-09-12 10:34
-- Location: ABC News (AU)
-- Description: A woman and two other children managed to escape the blaze in Central West New South Wales.
+### ASSAULT on 2026-09-12 15:02
+- Location: The Times of India
+- Description: Perambra Police arrest four for alleged gang rape of a woman in Kozhikode; survivor says she was drugged, assaulted over two years, filmed and threatened.
 
-Analysis generated at: Sun Sep 13 10:57:33 UTC 2026
+Analysis generated at: Sun Sep 13 15:29:13 UTC 2026
