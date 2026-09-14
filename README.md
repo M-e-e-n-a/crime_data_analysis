@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Sep 14 04:14:10 UTC 2026
+Last updated: Mon Sep 14 11:30:17 UTC 2026
 
 ## Latest Analysis
 
-Loaded 131778 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-13 04:00:00
+Loaded 131811 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-13 11:30:00
 
 Incidents by source:
 source
-newsapi           131677
+newsapi           131710
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,30 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-09-13 04:00
-- Location: Americanthinker.com
-- Description: Photo Credit:
- 
- American Thinker AIBy Ron WrightDemocrats are using every means possible to keep pushing the can down the road to buy time, but there is no time left to return integrity to America’s elections.
+### DRUG RELATED on 2026-09-13 11:30
+- Location: Tom's Hardware UK
+- Description: There is increasing evidence that Mexican drug cartels are diversifying into cryptocurrency mining and are using crypto platforms to launder their ill-gotten gains.
 
 
-### OTHER on 2026-09-13 04:00
-- Location: Americanthinker.com
-- Description: By Mike McDanielDemocrats are embracing Islam's incompatibility with civilization.
+### SHOOTING on 2026-09-13 11:28
+- Location: The Times of India
+- Description: 18-year-old Ajit Kumar Sahni shot in mouth in Begusarai’s Muzaffara village after refusing to join theft; police probe friend Sujit Sahni.
 
 
-### OTHER on 2026-09-13 03:19
-- Location: Fox News
-- Description: Video captured Eleanor Crawford allegedly igniting gasoline while a stranger pumped fuel at a St. Petersburg Mobil gas station, police said.
+### OTHER on 2026-09-13 11:19
+- Location: soompi
+- Description: There is no denying that Jing Bo Ran’s Luan Nian in the steamy office romance “The Early Spring” has conquered hearts and minds. His turn as the suave, sharp-tongued, incredibly sexy, and stylish boss who sweeps Sun Qian’s  Shang Zhi Tao off her feet has had …
 
 
-### OTHER on 2026-09-13 03:10
-- Location: ComicBook.com
-- Description: No one expected the sequel to such a well-received and critically acclaimed movie to be this different. Two years after its release, Joker: Folie à Deux is still a movie most people would rather pretend never happened, and whenever it does come up, the conver…
+### SHOOTING on 2026-09-13 11:16
+- Location: Tom's Hardware UK
+- Description: Following a tip-off from robotaxi firm Waymo, San Francisco police conducted a 'high-risk vehicle stop' and arrested two juveniles for illegal possession of a firearm.
 
 
-### OTHER on 2026-09-13 03:03
-- Location: Freerepublic.com
-- Description: A regional train carrying 186 passengers derailed in northwestern France Friday evening, injuring 44 people — including a young woman critically (although she is expected to survive). A metal object was found on the track following the disaster. Officials sus…
+### OTHER on 2026-09-13 11:09
+- Location: The Denver Post
+- Description: “Conservatives have long said that our ideas win, even if our candidates don’t win,” Republican consultant Tyler Sandberg said. “They put that to the actual test by putting them on the ballot.”
 
-Analysis generated at: Mon Sep 14 04:14:10 UTC 2026
+Analysis generated at: Mon Sep 14 11:30:17 UTC 2026
