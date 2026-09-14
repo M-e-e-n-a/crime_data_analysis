@@ -1,10 +1,10 @@
 
-Loaded 131811 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-13 11:30:00
+Loaded 131885 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-13 17:25:51
 
 Incidents by source:
 source
-newsapi           131710
+newsapi           131784
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### DRUG RELATED on 2026-09-13 11:30
-- Location: Tom's Hardware UK
-- Description: There is increasing evidence that Mexican drug cartels are diversifying into cryptocurrency mining and are using crypto platforms to launder their ill-gotten gains.
-
-
-### SHOOTING on 2026-09-13 11:28
+### HOMICIDE on 2026-09-13 17:25
 - Location: The Times of India
-- Description: 18-year-old Ajit Kumar Sahni shot in mouth in Begusarai’s Muzaffara village after refusing to join theft; police probe friend Sujit Sahni.
+- Description: Masked men fired 6-7 shots at Punjabi singer Gulab Sidhu’s Barnala home gate; no injuries. Police recovered shells, filed attempt-to-murder, Arms Act case.
 
 
-### OTHER on 2026-09-13 11:19
-- Location: soompi
-- Description: There is no denying that Jing Bo Ran’s Luan Nian in the steamy office romance “The Early Spring” has conquered hearts and minds. His turn as the suave, sharp-tongued, incredibly sexy, and stylish boss who sweeps Sun Qian’s  Shang Zhi Tao off her feet has had …
+### OTHER on 2026-09-13 17:25
+- Location: Rlsbb.cc
+- Description: Plot: A man takes justice into his own hands, hunting down criminals. His vigilante crusade makes him a social media star but puts him at odds with the local police chief. Genre: Action | Crime | ThrillerIMDB Rating Live: IMDB Rating: 5.8/10 From 37,451 Users…
 
 
-### SHOOTING on 2026-09-13 11:16
-- Location: Tom's Hardware UK
-- Description: Following a tip-off from robotaxi firm Waymo, San Francisco police conducted a 'high-risk vehicle stop' and arrested two juveniles for illegal possession of a firearm.
+### HOMICIDE on 2026-09-13 17:24
+- Location: Fox News
+- Description: Jarques Ratliff faces a murder charge in the death of Tasia Fortune, a 29-year-old mother found hanging from a tree behind a Jackson, Mississippi home.
 
 
-### OTHER on 2026-09-13 11:09
-- Location: The Denver Post
-- Description: “Conservatives have long said that our ideas win, even if our candidates don’t win,” Republican consultant Tyler Sandberg said. “They put that to the actual test by putting them on the ballot.”
+### HOMICIDE on 2026-09-13 17:19
+- Location: The Times of India
+- Description: BloodHound Q50, whose real name was Mikquale Cooper, was a 22-year-old Chicago rapper whose reported killing has drawn attention to his short music career and final Instagram Story. Here’s what to know about BloodHound Q50, his age, real name, music, Chicago …
 
-Analysis generated at: Mon Sep 14 11:30:17 UTC 2026
+
+### ASSAULT on 2026-09-13 17:11
+- Location: POLITICO.eu
+- Description: A Belarusian citizen and a Russian national linked to the country's military intelligence services have been identified as the main suspects in the August drone attack.
+
+Analysis generated at: Mon Sep 14 17:26:58 UTC 2026
