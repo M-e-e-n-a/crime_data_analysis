@@ -1,10 +1,10 @@
 
-Loaded 131773 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-13 02:43:17
+Loaded 131778 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-13 04:00:00
 
 Incidents by source:
 source
-newsapi           131672
+newsapi           131677
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,30 @@ ion.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-09-13 02:43
-- Location: Wnd.com
-- Description: 'Armed citizens stopped 36.6% of the active-shooter incidents we identified over 12 years'
+### OTHER on 2026-09-13 04:00
+- Location: Americanthinker.com
+- Description: Photo Credit:
+ 
+ American Thinker AIBy Ron WrightDemocrats are using every means possible to keep pushing the can down the road to buy time, but there is no time left to return integrity to America’s elections.
 
 
-### HOMICIDE on 2026-09-13 02:41
+### OTHER on 2026-09-13 04:00
+- Location: Americanthinker.com
+- Description: By Mike McDanielDemocrats are embracing Islam's incompatibility with civilization.
+
+
+### OTHER on 2026-09-13 03:19
 - Location: Fox News
-- Description: Santa Monica police bodycam video shows 44-year-old Michael Rodriguez charging an officer with a knife in Palisades Park before he was shot and killed by police.
+- Description: Video captured Eleanor Crawford allegedly igniting gasoline while a stranger pumped fuel at a St. Petersburg Mobil gas station, police said.
 
 
-### OTHER on 2026-09-13 02:30
-- Location: Screen Rant
-- Description: Liam Neeson often plays heroic characters, but that doesn't mean the people around him are safe, especially when they are traveling together.
+### OTHER on 2026-09-13 03:10
+- Location: ComicBook.com
+- Description: No one expected the sequel to such a well-received and critically acclaimed movie to be this different. Two years after its release, Joker: Folie à Deux is still a movie most people would rather pretend never happened, and whenever it does come up, the conver…
 
 
-### HOMICIDE on 2026-09-13 02:07
+### OTHER on 2026-09-13 03:03
 - Location: Freerepublic.com
-- Description: In a shocking case out of Colorado, a crime lab analyst has been sentenced to 10 years behind bars for tampering with DNA evidence. Imagine your loved one’s rapist or murderer being acquitted because the forensic analyst on the case decided to destroy the DNA…
+- Description: A regional train carrying 186 passengers derailed in northwestern France Friday evening, injuring 44 people — including a young woman critically (although she is expected to survive). A metal object was found on the track following the disaster. Officials sus…
 
-
-### SHOOTING on 2026-09-13 01:27
-- Location: ABC News (AU)
-- Description: WA Police are urging the public to avoid Hamilton Hill and stay indoors, as two males who are believed to be involved in the shooting are still on the run.
-
-Analysis generated at: Mon Sep 14 02:53:59 UTC 2026
+Analysis generated at: Mon Sep 14 04:14:10 UTC 2026
