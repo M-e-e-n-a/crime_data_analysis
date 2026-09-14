@@ -1,10 +1,10 @@
 
-Loaded 131764 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-12 20:08:46
+Loaded 131773 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-13 02:43:17
 
 Incidents by source:
 source
-newsapi           131663
+newsapi           131672
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-09-12 20:08
-- Location: Wordpress.com
-- Description: First off, my pronouns are still ‘kiss my ass’ Regarding the July 5 proscription of Palestine Action as a terrorist organisation and the fact this UK government is withholding information that supp…
+### SHOOTING on 2026-09-13 02:43
+- Location: Wnd.com
+- Description: 'Armed citizens stopped 36.6% of the active-shooter incidents we identified over 12 years'
 
 
-### OTHER on 2026-09-12 20:00
-- Location: Daily Signal
-- Description: On the premiere episode of the Daily Signal’s new weekly podcast, “Midterm Report,” Daily Signal senior contributor Victor Davis Hanson talks about the upcoming midterm elections, his new book “The Counterrevolution: The Fall and Rise of Donald Trump and the …
-
-
-### SHOOTING on 2026-09-12 19:48
-- Location: The Times of India
-- Description: UP STF and Goa Crime Branch arrest suspected Goa hotel shooter Babu in Bahraich while trying to flee to Nepal; accused linked to Aug 28 Hotel Neo Majestic firing.
-
-
-### SHOOTING on 2026-09-12 19:40
+### HOMICIDE on 2026-09-13 02:41
 - Location: Fox News
-- Description: Security video shows Matthew Exton thrusting a handgun at point-blank range near his ex-wife's head inside a Toledo restaurant before a waiter acted.
+- Description: Santa Monica police bodycam video shows 44-year-old Michael Rodriguez charging an officer with a knife in Palisades Park before he was shot and killed by police.
 
 
-### OTHER on 2026-09-12 19:29
-- Location: The Times of India
-- Description: Kanpur Cyber Crime Police arrest 2 in fake-firm investment fraud; Rs 5,600 crore routed via 72 accounts, Rs 65 lakh seized, 86 complaints across states.
+### OTHER on 2026-09-13 02:30
+- Location: Screen Rant
+- Description: Liam Neeson often plays heroic characters, but that doesn't mean the people around him are safe, especially when they are traveling together.
 
-Analysis generated at: Sun Sep 13 20:08:59 UTC 2026
+
+### HOMICIDE on 2026-09-13 02:07
+- Location: Freerepublic.com
+- Description: In a shocking case out of Colorado, a crime lab analyst has been sentenced to 10 years behind bars for tampering with DNA evidence. Imagine your loved one’s rapist or murderer being acquitted because the forensic analyst on the case decided to destroy the DNA…
+
+
+### SHOOTING on 2026-09-13 01:27
+- Location: ABC News (AU)
+- Description: WA Police are urging the public to avoid Hamilton Hill and stay indoors, as two males who are believed to be involved in the shooting are still on the run.
+
+Analysis generated at: Mon Sep 14 02:53:59 UTC 2026
