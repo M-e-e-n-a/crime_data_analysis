@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Sep 14 21:19:24 UTC 2026
+Last updated: Tue Sep 15 02:56:02 UTC 2026
 
 ## Latest Analysis
 
-Loaded 131969 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-13 21:18:53
+Loaded 131992 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-14 02:45:00
 
 Incidents by source:
 source
-newsapi           131868
+newsapi           131891
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,29 +24,30 @@ ion.svg)
 
 ## Recent Incidents
 
-### DRUG RELATED on 2026-09-13 21:18
-- Location: ABC News (AU)
-- Description: A disability support worker opens up about a terrifying police raid on the assisted-living home he was working in, which has left three vulnerable women needing ongoing help to deal with anxiety.
+### OTHER on 2026-09-14 02:45
+- Location: ComicBook.com
+- Description: Image Courtesy of Fox Searchlight
+
+Keanu Reeves is one of Hollywood’s biggest stars, but much of his work in the 21st century has been as part of two franchises: The Matrix and John Wick. After his breakout in The Matrix in 1999, he appeared in three more fil…
 
 
-### OTHER on 2026-09-13 21:02
-- Location: Parasocialmagazine.com
-- Description: BlizzCon 2026 gave Diablo and WoW streamers official stage time, turning Twitch subs and watch time into badges and drops fans can only unlock via creators.
-
-
-### OTHER on 2026-09-13 21:00
-- Location: Legalinsurrection.com
-- Description: Photos showed red paint running down the statute of Charlie Kirk on his neck and chest. A large memorial display behind it was also defaced.
-The post Vandals Deface Charlie Kirk Memorial, Cross Out Jesus first appeared on Le·gal In·sur·rec·tion.
-
-
-### OTHER on 2026-09-13 20:42
-- Location: Vanguard
-- Description: By Kingsley Omonobi ABUJA — The Nigeria Police Force said on Sunday that its operatives arrested 262 suspected criminals, rescued 27 kidnapped victims and recovered 34 firearms and 375 rounds of live ammunition in nationwide operations conducted between Septe…
-
-
-### OTHER on 2026-09-13 20:32
+### ASSAULT on 2026-09-14 02:37
 - Location: The Times of India
-- Description: Pune Hinjewadi: 26-year-old software engineer loses Rs 6.58 lakh in online share trading fraud via messaging app investors group; police investigating.
+- Description: A retired Group Captain of the Indian Air Force fell victim to a violent attack by a parking attendant, resulting in serious injuries, including head trauma and a broken hand. The confrontation occurred over a parking dispute at Magnum Global Park, where the …
 
-Analysis generated at: Mon Sep 14 21:19:24 UTC 2026
+
+### SHOOTING on 2026-09-14 02:31
+- Location: Hip-Hop Wired
+- Description: Chicago Rapper Bloodhound Q50 was fatally gunned down in a gas station shooting in the Fuller Park neighborhood.
+
+
+### OTHER on 2026-09-14 02:29
+- Location: The Diplomat
+- Description: Min Aung Hlaing leaves Phnom Penh after a two-day visit aimed at shoring up his regime's regional legitimacy.
+
+
+### HOMICIDE on 2026-09-14 02:26
+- Location: Dailymail.com
+- Description: An experienced motorcyclist killed when his bike hit a pothole in Victoria as been identified.
+
+Analysis generated at: Tue Sep 15 02:56:02 UTC 2026
