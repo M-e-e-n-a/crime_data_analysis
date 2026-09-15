@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Sep 15 10:51:34 UTC 2026
+Last updated: Tue Sep 15 16:04:39 UTC 2026
 
 ## Latest Analysis
 
-Loaded 132044 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-14 10:50:43
+Loaded 132118 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-14 16:00:06
 
 Incidents by source:
 source
-newsapi           131943
+newsapi           132017
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2026-09-14 10:50
+### OTHER on 2026-09-14 16:00
+- Location: Fox News
+- Description: Video shows professor Melina Abdullah naming an ICE agent and sharing his hotel address before Sasha Renée Pérez took the stage at the summit.
+
+
+### OTHER on 2026-09-14 16:00
+- Location: Deadline
+- Description: EXCLUSIVE: Warsaw, Hamburg, Istanbul, New York – brave Russian journalists who dared to report the truth about their country have had to scatter across the globe to avoid imminent arrest. News anchors and reporters Anna Nemzer, Irina Dolinina, Ksenia Mironova…
+
+
+### OTHER on 2026-09-14 15:36
+- Location: Netzpolitik.org
+- Description: Chan Junis in Gaza, 2024. – CC-BY-SA 4.0: Jefunky
+Software that automatically evaluates large amounts of data in real time is changing the way military targets are selected. An analysis of the Lavender system shows that it violates international humanitarian…
+
+
+### ASSAULT on 2026-09-14 15:35
+- Location: Jalopnik
+- Description: The mod is an interesting statement about both how powerful these cameras are at fighting crime, and the consequences of the system's mistakes.
+
+
+### HOMICIDE on 2026-09-14 15:22
 - Location: The Times of India
-- Description: A court reserved its order on Swatantra Bhardwaj's bail application. He faces charges related to an alleged assault on Sanjay Azad. Bhardwaj's counsel argued the SC/ST Act was misused. The FIR was initially lodged without these specific provisions. Bhardwaj h…
+- Description: A newly installed memorial statue of Charlie Kirk was defaced with red spray paint. The vandalism occurred overnight in Phoenix, marking one year since his killing. Phoenix police are investigating the incident and seeking information from the public. The eig…
 
-
-### OTHER on 2026-09-14 10:49
-- Location: CNA
-- Description: When he visited his sister with the device still in his car, he warned her about phishing messages that targeted WhatsApp users.
-
-
-### OTHER on 2026-09-14 10:40
-- Location: RT
-- Description: Six Nigerians accused of running online romance scams targeting more than 100 women have been extradited from South Africa to the US Read Full Article at RT.com
-
-
-### OTHER on 2026-09-14 10:34
-- Location: Abcnews.com
-- Description: Emily St. John Mandel has written enough novels to form a world unto herself — the Mandelverse
-
-
-### ASSAULT on 2026-09-14 10:00
-- Location: Nakedcapitalism.com
-- Description: The takedown of the digital collective has enormous implications for independent media, pro-privacy advocates, and the EU, which simply accepts it in silence as good vassals should.
-
-Analysis generated at: Tue Sep 15 10:51:34 UTC 2026
+Analysis generated at: Tue Sep 15 16:04:39 UTC 2026
