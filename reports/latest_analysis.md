@@ -1,10 +1,10 @@
 
-Loaded 131992 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-14 02:45:00
+Loaded 132000 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-14 04:04:07
 
 Incidents by source:
 source
-newsapi           131891
+newsapi           131899
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,30 +20,33 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-09-14 02:45
-- Location: ComicBook.com
-- Description: Image Courtesy of Fox Searchlight
-
-Keanu Reeves is one of Hollywood’s biggest stars, but much of his work in the 21st century has been as part of two franchises: The Matrix and John Wick. After his breakout in The Matrix in 1999, he appeared in three more fil…
+### OTHER on 2026-09-14 04:04
+- Location: Juancole.com
+- Description: Scores at Imminent Risk; Global Action Needed; Executions have followed grossly unfair and summary proceedings
 
 
-### ASSAULT on 2026-09-14 02:37
-- Location: The Times of India
-- Description: A retired Group Captain of the Indian Air Force fell victim to a violent attack by a parking attendant, resulting in serious injuries, including head trauma and a broken hand. The confrontation occurred over a parking dispute at Magnum Global Park, where the …
+### HOMICIDE on 2026-09-14 04:03
+- Location: New York Post
+- Description: "He was just trying to make an honest day's living, and this is what happened," his mother, Latanya Bickham, said.
 
 
-### SHOOTING on 2026-09-14 02:31
-- Location: Hip-Hop Wired
-- Description: Chicago Rapper Bloodhound Q50 was fatally gunned down in a gas station shooting in the Fuller Park neighborhood.
+### OTHER on 2026-09-14 04:00
+- Location: Americanthinker.com
+- Description: Photo Credit:Image: Tony Webster via Wikimedia Commons, CC BY 2.0.
 
 
-### OTHER on 2026-09-14 02:29
-- Location: The Diplomat
-- Description: Min Aung Hlaing leaves Phnom Penh after a two-day visit aimed at shoring up his regime's regional legitimacy.
+ 
+ Tony WebsterBy Tim HsiaoShould we dismantle a super-valuable law enforcement tool just because it’s theoretically possible to abuse it?
 
 
-### HOMICIDE on 2026-09-14 02:26
+### OTHER on 2026-09-14 03:35
+- Location: Crypto Briefing
+- Description: The DHS's financial surveillance raises significant civil liberties concerns, potentially undermining privacy and due process rights.
+The post Department of Homeland Security is analyzing Americans’ financial activity and prompting police stops appeared first…
+
+
+### HOMICIDE on 2026-09-14 03:31
 - Location: Dailymail.com
-- Description: An experienced motorcyclist killed when his bike hit a pothole in Victoria as been identified.
+- Description: Australian father Damien John Shaw, 56, who was found dead in a Bali villa with his two young children in a suspected murder-suicide was a maritime worker who shared selfies with his kids.
 
-Analysis generated at: Tue Sep 15 02:56:02 UTC 2026
+Analysis generated at: Tue Sep 15 04:13:37 UTC 2026
