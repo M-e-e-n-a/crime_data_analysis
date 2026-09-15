@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Sep 15 16:40:03 UTC 2026
+Last updated: Tue Sep 15 20:47:22 UTC 2026
 
 ## Latest Analysis
 
-Loaded 132126 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-14 16:35:19
+Loaded 132223 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-14 20:40:58
 
 Incidents by source:
 source
-newsapi           132025
+newsapi           132122
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,31 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2026-09-14 16:35
-- Location: CBC News
-- Description: The theft of several pieces of safety equpiment from a First Nation safety officer's home earlier this month, including a can of pepper spray and a baton, poses a risk to Bloodvein First Nation, RCMP say.
+### HOMICIDE on 2026-09-14 20:40
+- Location: TheJournal.ie
+- Description: In 2023, Gary Anderson was sentenced to 15 years in prison for murder.
 
 
-### OTHER on 2026-09-14 16:23
-- Location: 404media.co
-- Description: Article URL: https://www.404media.co/cops-search-thousands-of-flock-cameras-for-reasons-of-lmao-idk-hehe-and-asdfg/
-Comments URL: https://news.ycombinator.com/item?id=49699493
-Points: 100
-# Comments: 12
+### OTHER on 2026-09-14 20:40
+- Location: Fox News
+- Description: Rep. Shontel Brown faces backlash after claiming lynchings are rising in the United States, despite cases being widely debunked as suicides.
 
 
-### OTHER on 2026-09-14 16:16
-- Location: BBC News
-- Description: Pete Newman will contest the Holborn and St Pancras by-election for Reform UK on 8 October.
+### HOMICIDE on 2026-09-14 20:39
+- Location: Us Weekly
+- Description: A statue of Charlie Kirk at the Turning Point USA headquarters was vandalized following the one year anniversary of his death. “We will restore the statue and replace the signs,” Turning Point USA wrote in a statement shared via X on Sunday, September 13. “Bu…
 
 
-### SHOOTING on 2026-09-14 16:16
-- Location: Www.gov.uk
-- Description: Construction has now begun on 152 new prison places at HMP Kirklevington Grange near Yarm, helping to lock up dangerous criminals and keep the public safe.
+### SHOOTING on 2026-09-14 20:30
+- Location: New York Post
+- Description: The youngest victim was a 17-year-old boy who took a bullet to the chest around 9:15 p.m. behind a NYCHA building on Beach 40th Street near Beach Channel Drive in Far Rockaway, police said.
 
 
-### OTHER on 2026-09-14 16:15
-- Location: PRNewswire
-- Description: CLEVELAND, Sept. 14, 2026 /PRNewswire/ -- Cohen & Co is pleased to announce Rory Wilson has joined the firm as a partner and leader of its Forensic Services Group, adding to the firm's growing Advisory Practice. He is located in the Philadelphia office. With …
+### OTHER on 2026-09-14 20:25
+- Location: The Times of India
+- Description: Loe Beach near Feock, Cornwall, has gone on sale for £3 million, offering more than six acres, 78 metres of foreshore, a café, car park and watersports facilities. The sale has sparked concern among locals, who fear a wealthy celebrity or developer could snap…
 
-Analysis generated at: Tue Sep 15 16:40:03 UTC 2026
+Analysis generated at: Tue Sep 15 20:47:22 UTC 2026
