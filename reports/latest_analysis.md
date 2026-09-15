@@ -1,10 +1,10 @@
 
-Loaded 132000 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-14 04:04:07
+Loaded 132044 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-14 10:50:43
 
 Incidents by source:
 source
-newsapi           131899
+newsapi           131943
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,33 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-09-14 04:04
-- Location: Juancole.com
-- Description: Scores at Imminent Risk; Global Action Needed; Executions have followed grossly unfair and summary proceedings
+### ASSAULT on 2026-09-14 10:50
+- Location: The Times of India
+- Description: A court reserved its order on Swatantra Bhardwaj's bail application. He faces charges related to an alleged assault on Sanjay Azad. Bhardwaj's counsel argued the SC/ST Act was misused. The FIR was initially lodged without these specific provisions. Bhardwaj h…
 
 
-### HOMICIDE on 2026-09-14 04:03
-- Location: New York Post
-- Description: "He was just trying to make an honest day's living, and this is what happened," his mother, Latanya Bickham, said.
+### OTHER on 2026-09-14 10:49
+- Location: CNA
+- Description: When he visited his sister with the device still in his car, he warned her about phishing messages that targeted WhatsApp users.
 
 
-### OTHER on 2026-09-14 04:00
-- Location: Americanthinker.com
-- Description: Photo Credit:Image: Tony Webster via Wikimedia Commons, CC BY 2.0.
+### OTHER on 2026-09-14 10:40
+- Location: RT
+- Description: Six Nigerians accused of running online romance scams targeting more than 100 women have been extradited from South Africa to the US Read Full Article at RT.com
 
 
- 
- Tony WebsterBy Tim HsiaoShould we dismantle a super-valuable law enforcement tool just because it’s theoretically possible to abuse it?
+### OTHER on 2026-09-14 10:34
+- Location: Abcnews.com
+- Description: Emily St. John Mandel has written enough novels to form a world unto herself — the Mandelverse
 
 
-### OTHER on 2026-09-14 03:35
-- Location: Crypto Briefing
-- Description: The DHS's financial surveillance raises significant civil liberties concerns, potentially undermining privacy and due process rights.
-The post Department of Homeland Security is analyzing Americans’ financial activity and prompting police stops appeared first…
+### ASSAULT on 2026-09-14 10:00
+- Location: Nakedcapitalism.com
+- Description: The takedown of the digital collective has enormous implications for independent media, pro-privacy advocates, and the EU, which simply accepts it in silence as good vassals should.
 
-
-### HOMICIDE on 2026-09-14 03:31
-- Location: Dailymail.com
-- Description: Australian father Damien John Shaw, 56, who was found dead in a Bali villa with his two young children in a suspected murder-suicide was a maritime worker who shared selfies with his kids.
-
-Analysis generated at: Tue Sep 15 04:13:37 UTC 2026
+Analysis generated at: Tue Sep 15 10:51:34 UTC 2026
