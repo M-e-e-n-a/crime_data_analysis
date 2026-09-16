@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Sep 16 10:41:32 UTC 2026
+Last updated: Wed Sep 16 15:57:48 UTC 2026
 
 ## Latest Analysis
 
-Loaded 132317 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-15 10:40:23
+Loaded 132412 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-15 15:57:13
 
 Incidents by source:
 source
-newsapi           132216
+newsapi           132311
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-09-15 10:40
-- Location: Freerepublic.com
-- Description: Mark Carney’s anti-American crusade risks hurting Canada’s economy while strengthening China and exposing the contradictions behind his trade war with the United States. Canadian Prime Minister Mark Carney now believes he is more than just the Western foil to…
+### HOMICIDE on 2026-09-15 15:57
+- Location: The Verge
+- Description: There are a lot of movies that have tried to seamlessly integrate modern tech - text messages, livestreams, etc. - into their storytelling. Some of the most novel attempts have been in the genre space, like the Twitch-style horror flick Deadstream. But the mo…
 
 
-### HOMICIDE on 2026-09-15 10:29
+### HOMICIDE on 2026-09-15 15:48
+- Location: BBC News
+- Description: The report has shed more details on Lucy Letby - the most prolific child killer in British legal history.
+
+
+### HOMICIDE on 2026-09-15 15:39
 - Location: The Times of India
-- Description: Police stated the accused intended to kill the woman biker. Video footage showed the accused deliberately rammed his car into her bike. The sections pertaining to attempt to murder were added based on the victim's statement. The accused fled to Rajasthan afte…
+- Description: In a tragic incident, an 18-year-old woman was discovered hanging in her in-laws' residence in Garhwa district. Following her mother's claims of dowry harassment and murder, police apprehended her husband. The deceased's family had demanded considerable cash …
 
 
-### HOMICIDE on 2026-09-15 10:18
-- Location: The Times of India
-- Description: A Gurgaon driver faces an attempt-to-murder charge after hitting a woman biker. Police added Section 109 of the Bharatiya Nyaya Sanhita after reviewing CCTV footage. The FIR was initially registered under Sections 281 and 125 of the BNS. The accused was arres…
+### HOMICIDE on 2026-09-15 15:25
+- Location: Al Jazeera English
+- Description: Israel has made clear it is unwilling to hold to account those responsible for the deaths of seven humanitarian workers.
 
 
-### SHOOTING on 2026-09-15 10:06
-- Location: soompi
-- Description: Upcoming film “The Assassin(s)” has released a new teaser! “The Assassin(s)” follows an investigation into the mystery and forces behind the August 15 shooting incident that shocked South Korea. The newly released teaser begins with detective Cheol Gu (Yoo Ha…
+### HOMICIDE on 2026-09-15 15:24
+- Location: Page Six
+- Description: Los Angeles County District Attorney Nathan Hochman made the announcement during a Tuesday morning press conference.
 
-
-### OTHER on 2026-09-15 10:00
-- Location: Longreads.com
-- Description: Soggy fries, ghost kitchens, and a $19 bacon, egg, and cheese sandwich: what we've actually gained on the path to convenience.
-
-Analysis generated at: Wed Sep 16 10:41:32 UTC 2026
+Analysis generated at: Wed Sep 16 15:57:48 UTC 2026
