@@ -1,10 +1,10 @@
 
-Loaded 132247 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-15 02:41:21
+Loaded 132251 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-15 04:01:00
 
 Incidents by source:
 source
-newsapi           132146
+newsapi           132150
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
+### OTHER on 2026-09-15 04:01
+- Location: Lewrockwell.com
+- Description: Europe urgently needs to re-establish access to Russian oil and gas. Gas prices are high – as all UK energy consumers know – and German gas storage is at a record low for September. Gulf production is degraded, supplies are cut off and its long-term strategic…
+
+
+### OTHER on 2026-09-15 04:00
+- Location: Rand.org
+- Description: This is the first follow-up report of the Controlled Cannabis Supply Chain Experiment in the Netherlands. It examines developments in, among other things, product availability, cannabis sales, the cannabis market, after the start of the experiment.
+
+
+### ASSAULT on 2026-09-15 03:50
+- Location: Israelnationalnews.com
+- Description: Three Jewish 14-year-olds allegedly assaulted and subjected to hate speech on a London bus as police investigate the incident as antisemitic.
+
+
+### OTHER on 2026-09-15 03:00
+- Location: New York Post
+- Description: The Santa Fe Police Motors, the Bicycle Officers, Animal Service, UAS Drone Operators and a few cowboys worked together to get the horse safely off of the road.
+
+
 ### HOMICIDE on 2026-09-15 02:41
 - Location: Dailymail.com
 - Description: Bruce Davis, a close-affiliate and right-hand man to the murderous cult leader Charles Manson, has died in prison at age 83 after repeatedly being denied parole.
 
-
-### OTHER on 2026-09-15 02:35
-- Location: New Zealand Herald
-- Description: The future fugitive trained in bushcraft, survival, and firearms at posh private school
-
-
-### OTHER on 2026-09-15 02:30
-- Location: IndieWire
-- Description: TIFF: The Japanese genre legend brings some, but not enough, of his signature style to this yakuza neo-noir.
-
-
-### SHOOTING on 2026-09-15 02:15
-- Location: Khabarhub.com
-- Description: KATHMANDU: Economic Digest presents a brief yet comprehensive roundup of major business developments in Nepal, delivered in clear and accessible summaries. Nepal’s economic landscape on Monday reflected a mix of market optimism, external pressures and the mou…
-
-
-### DRUG RELATED on 2026-09-15 02:01
-- Location: ABC News (AU)
-- Description: There were 28 drug detections and 12 fines issued in the weekend raids, according to NSW Police. But some club-goers feel police were intimidating.
-
-Analysis generated at: Wed Sep 16 02:52:02 UTC 2026
+Analysis generated at: Wed Sep 16 04:09:36 UTC 2026
