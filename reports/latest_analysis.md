@@ -1,10 +1,10 @@
 
-Loaded 132251 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-15 04:01:00
+Loaded 132317 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-15 10:40:23
 
 Incidents by source:
 source
-newsapi           132150
+newsapi           132216
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-09-15 04:01
-- Location: Lewrockwell.com
-- Description: Europe urgently needs to re-establish access to Russian oil and gas. Gas prices are high – as all UK energy consumers know – and German gas storage is at a record low for September. Gulf production is degraded, supplies are cut off and its long-term strategic…
+### OTHER on 2026-09-15 10:40
+- Location: Freerepublic.com
+- Description: Mark Carney’s anti-American crusade risks hurting Canada’s economy while strengthening China and exposing the contradictions behind his trade war with the United States. Canadian Prime Minister Mark Carney now believes he is more than just the Western foil to…
 
 
-### OTHER on 2026-09-15 04:00
-- Location: Rand.org
-- Description: This is the first follow-up report of the Controlled Cannabis Supply Chain Experiment in the Netherlands. It examines developments in, among other things, product availability, cannabis sales, the cannabis market, after the start of the experiment.
+### HOMICIDE on 2026-09-15 10:29
+- Location: The Times of India
+- Description: Police stated the accused intended to kill the woman biker. Video footage showed the accused deliberately rammed his car into her bike. The sections pertaining to attempt to murder were added based on the victim's statement. The accused fled to Rajasthan afte…
 
 
-### ASSAULT on 2026-09-15 03:50
-- Location: Israelnationalnews.com
-- Description: Three Jewish 14-year-olds allegedly assaulted and subjected to hate speech on a London bus as police investigate the incident as antisemitic.
+### HOMICIDE on 2026-09-15 10:18
+- Location: The Times of India
+- Description: A Gurgaon driver faces an attempt-to-murder charge after hitting a woman biker. Police added Section 109 of the Bharatiya Nyaya Sanhita after reviewing CCTV footage. The FIR was initially registered under Sections 281 and 125 of the BNS. The accused was arres…
 
 
-### OTHER on 2026-09-15 03:00
-- Location: New York Post
-- Description: The Santa Fe Police Motors, the Bicycle Officers, Animal Service, UAS Drone Operators and a few cowboys worked together to get the horse safely off of the road.
+### SHOOTING on 2026-09-15 10:06
+- Location: soompi
+- Description: Upcoming film “The Assassin(s)” has released a new teaser! “The Assassin(s)” follows an investigation into the mystery and forces behind the August 15 shooting incident that shocked South Korea. The newly released teaser begins with detective Cheol Gu (Yoo Ha…
 
 
-### HOMICIDE on 2026-09-15 02:41
-- Location: Dailymail.com
-- Description: Bruce Davis, a close-affiliate and right-hand man to the murderous cult leader Charles Manson, has died in prison at age 83 after repeatedly being denied parole.
+### OTHER on 2026-09-15 10:00
+- Location: Longreads.com
+- Description: Soggy fries, ghost kitchens, and a $19 bacon, egg, and cheese sandwich: what we've actually gained on the path to convenience.
 
-Analysis generated at: Wed Sep 16 04:09:36 UTC 2026
+Analysis generated at: Wed Sep 16 10:41:32 UTC 2026
