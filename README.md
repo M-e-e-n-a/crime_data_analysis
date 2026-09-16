@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Sep 16 15:57:48 UTC 2026
+Last updated: Wed Sep 16 16:32:07 UTC 2026
 
 ## Latest Analysis
 
-Loaded 132412 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-15 15:57:13
+Loaded 132423 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-15 16:29:01
 
 Incidents by source:
 source
-newsapi           132311
+newsapi           132322
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-09-15 15:57
-- Location: The Verge
-- Description: There are a lot of movies that have tried to seamlessly integrate modern tech - text messages, livestreams, etc. - into their storytelling. Some of the most novel attempts have been in the genre space, like the Twitch-style horror flick Deadstream. But the mo…
+### OTHER on 2026-09-15 16:29
+- Location: Www.gov.uk
+- Description: The Secretary of State has apologised to families and set out urgent action following the Thirlwall Inquiry’s findings, published on 15 September.
 
 
-### HOMICIDE on 2026-09-15 15:48
-- Location: BBC News
-- Description: The report has shed more details on Lucy Letby - the most prolific child killer in British legal history.
+### HOMICIDE on 2026-09-15 16:26
+- Location: DW (English)
+- Description: Police have warned women to take extra care in parts of Johannesburg as similarities between seven deaths fuel fears that the cases could be connected.
 
 
-### HOMICIDE on 2026-09-15 15:39
-- Location: The Times of India
-- Description: In a tragic incident, an 18-year-old woman was discovered hanging in her in-laws' residence in Garhwa district. Following her mother's claims of dowry harassment and murder, police apprehended her husband. The deceased's family had demanded considerable cash …
+### HOMICIDE on 2026-09-15 16:26
+- Location: DW (English)
+- Description: Police have warned women to take extra care in parts of Johannesburg as similarities between at least eight deaths fuel fears that the cases could be connected. South African police are now investigating the deaths of eight women found east of Johannesburg ov…
 
 
-### HOMICIDE on 2026-09-15 15:25
-- Location: Al Jazeera English
-- Description: Israel has made clear it is unwilling to hold to account those responsible for the deaths of seven humanitarian workers.
+### SHOOTING on 2026-09-15 16:17
+- Location: New York Post
+- Description: IDF soldiers over the weekend apprehended a terrorist in the Hebron area of Judea who was planning a shooting attack against Israeli civilians during Rosh Hashanah, the military said.
 
 
-### HOMICIDE on 2026-09-15 15:24
-- Location: Page Six
-- Description: Los Angeles County District Attorney Nathan Hochman made the announcement during a Tuesday morning press conference.
+### OTHER on 2026-09-15 16:16
+- Location: RT
+- Description: The ICC has targeted the Global South while powerful states have escaped scrutiny, human rights advocate David Lopez has told RT Read Full Article at RT.com
 
-Analysis generated at: Wed Sep 16 15:57:48 UTC 2026
+Analysis generated at: Wed Sep 16 16:32:07 UTC 2026
