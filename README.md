@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Sep 17 10:50:06 UTC 2026
+Last updated: Thu Sep 17 16:03:23 UTC 2026
 
 ## Latest Analysis
 
-Loaded 132573 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-16 10:30:00
+Loaded 132669 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-16 16:01:15
 
 Incidents by source:
 source
-newsapi           132472
+newsapi           132568
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-09-16 10:30
-- Location: New York Post
-- Description: More and more, leftists support violence and threats of it against anyone who openly disagrees with them on the grounds that such dissidents are bad people and deserve it.
+### OTHER on 2026-09-16 16:01
+- Location: TheJournal.ie
+- Description: Adam Connolly (34) handed himself into police after images of him had been issued by the PSNI to the media.
 
 
-### OTHER on 2026-09-16 10:28
-- Location: National Observer
-- Description: British Columbia's deputy premier and attorney general, Niki Sharma, said she doesn't want strides made with the province's Indigenous rights legislation to get lost amid criticism of the law and questions about its future.
+### HOMICIDE on 2026-09-16 16:00
+- Location: The Times of India
+- Description: Guest worker found hanging in Vadakkuppattu near Oragadam with multiple injuries; police suspect murder staged as suicide, roommates missing, probe on.
 
 
-### ASSAULT on 2026-09-16 10:24
-- Location: Freerepublic.com
-- Description: This video from the Watching the Watchers channel discusses the criminal sentencing of Elpedio Raina, a man from Compton, for his role in attacking ICE vehicles (0:00 - 0:24). Key takeaways include: Sentencing Outcome: Raina was sentenced to 36 months in fede…
+### HOMICIDE on 2026-09-16 16:00
+- Location: ABC News (AU)
+- Description: The 81-year-old served as president of the Philippines from 2016 to 2022, before being charged with crimes against humanity for setting up, funding and arming death squads that targeted narcotics peddlers and users.
 
 
-### OTHER on 2026-09-16 10:19
-- Location: Abcnews.com
-- Description: The family of Charlie Kirk alleges that a "series of stunning failures and reckless decisions" by Utah Valley University led to the conservative activist's assassination.
+### HOMICIDE on 2026-09-16 16:00
+- Location: Mental Floss
+- Description: Signs pointed to Borden’s guilt, but there was not enough physical evidence to prove it.
 
 
-### OTHER on 2026-09-16 10:11
-- Location: AnOther Magazine
-- Description: The director opens up on the painful taboos surrounding his Berlin prizewinning drama, starring Juliette Binoche and Tom Courtenay
+### OTHER on 2026-09-16 16:00
+- Location: ComingSoon.net
+- Description: The Pitt is inspiring a whole new show. HBO Max is bringing a new French drama inspired by its success. The new project isn’t a spin-off, but its premise matches the Emmy-winning series. It was unveiled at La Rochelle Fiction Festival in France. As reported b…
 
-Analysis generated at: Thu Sep 17 10:50:06 UTC 2026
+Analysis generated at: Thu Sep 17 16:03:23 UTC 2026
