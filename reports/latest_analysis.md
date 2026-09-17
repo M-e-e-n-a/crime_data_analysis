@@ -1,10 +1,10 @@
 
-Loaded 132513 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-16 02:33:50
+Loaded 132522 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-16 04:13:02
 
 Incidents by source:
 source
-newsapi           132412
+newsapi           132421
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-09-16 02:33
+### OTHER on 2026-09-16 04:13
 - Location: The Times of India
-- Description: The CBI has registered an FIR in the 2020 Disha Salian death case. Investigators will scrutinize documents and record statements from key witnesses. The FIR alleges suppression of evidence and misuse of police machinery. Several public servants and police off…
+- Description: A clash occurred between two Satyawati College students near Wazirpur Village. Two vehicles sustained damage during the altercation, prompting police investigation. Crime and FSL teams gathered forensic evidence from the incident site. Legal action is being i…
 
 
-### HOMICIDE on 2026-09-16 02:32
-- Location: Slashdot.org
-- Description: Records show suspect arrested in deadly Belltown shooting had just been released from jailKOMO Seattle Mayor Katie Wilson releases gun violence plan with increased patrols, push for stronger gun lawsMyNorthwest.com Mayor Wilson discusses gun violence plan, po…
+### OTHER on 2026-09-16 04:09
+- Location: The Times of India
+- Description: Two criminals, Sonu and Rahul, were injured during a police encounter in Faridabad. They had arrived in the city for criminal activities and opened fire on police. Police retaliated, causing bullet injuries to both men in their legs. They are currently receiv…
 
 
-### SHOOTING on 2026-09-16 02:15
-- Location: Khabarhub.com
-- Description: KATHMANDU: Economic Digest presents a brief yet comprehensive roundup of major business developments in Nepal, delivered in clear and accessible summaries. Nepal’s latest economic and policy developments present a mixed picture of financial optimism, infrastr…
-
-
-### OTHER on 2026-09-16 02:11
+### DRUG RELATED on 2026-09-16 04:02
 - Location: Dailymail.com
-- Description: Karl Stefanovic has opened up about the details of his axing from the Today show, revealing his celebrity accountant broke the news to him over the phone.
+- Description: Florida woman Lynda Mae Crouse, 32, allegedly drugged a man she met at Gulfstream Park before stealing his diamond-covered Rolex worth $98,400.
 
 
-### OTHER on 2026-09-16 02:00
-- Location: Screen Rant
-- Description: True crime has become inescapable in the past decade, but the best often get lost in the hordes of docuseries, podcasts, and feature-length films.
+### OTHER on 2026-09-16 04:00
+- Location: Americanthinker.com
+- Description: By Eric UtterWhat will happen if Democrats win the midterms?
 
-Analysis generated at: Thu Sep 17 02:55:47 UTC 2026
+
+### OTHER on 2026-09-16 04:00
+- Location: Americanthinker.com
+- Description: By Susan QuinnLeftist forces are cultivating violence, and lawmakers are doing nothing to stop it, with some fomenting it.
+
+Analysis generated at: Thu Sep 17 04:16:51 UTC 2026
