@@ -1,10 +1,10 @@
 
-Loaded 132522 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-16 04:13:02
+Loaded 132573 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-16 10:30:00
 
 Incidents by source:
 source
-newsapi           132421
+newsapi           132472
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-09-16 04:13
-- Location: The Times of India
-- Description: A clash occurred between two Satyawati College students near Wazirpur Village. Two vehicles sustained damage during the altercation, prompting police investigation. Crime and FSL teams gathered forensic evidence from the incident site. Legal action is being i…
+### OTHER on 2026-09-16 10:30
+- Location: New York Post
+- Description: More and more, leftists support violence and threats of it against anyone who openly disagrees with them on the grounds that such dissidents are bad people and deserve it.
 
 
-### OTHER on 2026-09-16 04:09
-- Location: The Times of India
-- Description: Two criminals, Sonu and Rahul, were injured during a police encounter in Faridabad. They had arrived in the city for criminal activities and opened fire on police. Police retaliated, causing bullet injuries to both men in their legs. They are currently receiv…
+### OTHER on 2026-09-16 10:28
+- Location: National Observer
+- Description: British Columbia's deputy premier and attorney general, Niki Sharma, said she doesn't want strides made with the province's Indigenous rights legislation to get lost amid criticism of the law and questions about its future.
 
 
-### DRUG RELATED on 2026-09-16 04:02
-- Location: Dailymail.com
-- Description: Florida woman Lynda Mae Crouse, 32, allegedly drugged a man she met at Gulfstream Park before stealing his diamond-covered Rolex worth $98,400.
+### ASSAULT on 2026-09-16 10:24
+- Location: Freerepublic.com
+- Description: This video from the Watching the Watchers channel discusses the criminal sentencing of Elpedio Raina, a man from Compton, for his role in attacking ICE vehicles (0:00 - 0:24). Key takeaways include: Sentencing Outcome: Raina was sentenced to 36 months in fede…
 
 
-### OTHER on 2026-09-16 04:00
-- Location: Americanthinker.com
-- Description: By Eric UtterWhat will happen if Democrats win the midterms?
+### OTHER on 2026-09-16 10:19
+- Location: Abcnews.com
+- Description: The family of Charlie Kirk alleges that a "series of stunning failures and reckless decisions" by Utah Valley University led to the conservative activist's assassination.
 
 
-### OTHER on 2026-09-16 04:00
-- Location: Americanthinker.com
-- Description: By Susan QuinnLeftist forces are cultivating violence, and lawmakers are doing nothing to stop it, with some fomenting it.
+### OTHER on 2026-09-16 10:11
+- Location: AnOther Magazine
+- Description: The director opens up on the painful taboos surrounding his Berlin prizewinning drama, starring Juliette Binoche and Tom Courtenay
 
-Analysis generated at: Thu Sep 17 04:16:51 UTC 2026
+Analysis generated at: Thu Sep 17 10:50:06 UTC 2026
