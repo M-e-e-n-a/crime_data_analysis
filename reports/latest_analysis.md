@@ -1,10 +1,10 @@
 
-Loaded 132494 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-15 20:45:57
+Loaded 132513 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-16 02:33:50
 
 Incidents by source:
 source
-newsapi           132393
+newsapi           132412
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,31 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-09-15 20:45
-- Location: New York Post
-- Description: Family members solemnly mourned an Armenian man Monday who allegedly met his end at the hands of a 19-year-old with a cushy life.
+### HOMICIDE on 2026-09-16 02:33
+- Location: The Times of India
+- Description: The CBI has registered an FIR in the 2020 Disha Salian death case. Investigators will scrutinize documents and record statements from key witnesses. The FIR alleges suppression of evidence and misuse of police machinery. Several public servants and police off…
 
 
-### OTHER on 2026-09-15 20:43
-- Location: BBC News
-- Description: The Thirlwall Inquiry finds some babies could have been saved if action had been taken earlier.
+### HOMICIDE on 2026-09-16 02:32
+- Location: Slashdot.org
+- Description: Records show suspect arrested in deadly Belltown shooting had just been released from jailKOMO Seattle Mayor Katie Wilson releases gun violence plan with increased patrols, push for stronger gun lawsMyNorthwest.com Mayor Wilson discusses gun violence plan, po…
 
 
-### ROBBERY/THEFT on 2026-09-15 20:42
-- Location: Gothamist
-- Description: The happy reunion. Bodega owner Imad Innab with Jabal.
- 
-
-The beloved mouser that was scooped up was returned by police on Tuesday morning. [ more › ]
+### SHOOTING on 2026-09-16 02:15
+- Location: Khabarhub.com
+- Description: KATHMANDU: Economic Digest presents a brief yet comprehensive roundup of major business developments in Nepal, delivered in clear and accessible summaries. Nepal’s latest economic and policy developments present a mixed picture of financial optimism, infrastr…
 
 
-### HOMICIDE on 2026-09-15 20:32
+### OTHER on 2026-09-16 02:11
 - Location: Dailymail.com
-- Description: A man will appear in court on Wednesday over the fatal collision.
+- Description: Karl Stefanovic has opened up about the details of his axing from the Today show, revealing his celebrity accountant broke the news to him over the phone.
 
 
-### OTHER on 2026-09-15 20:32
-- Location: WWD
-- Description: The CFDA board has put Kolb on leave as they figure out his future.
+### OTHER on 2026-09-16 02:00
+- Location: Screen Rant
+- Description: True crime has become inescapable in the past decade, but the best often get lost in the hordes of docuseries, podcasts, and feature-length films.
 
-Analysis generated at: Wed Sep 16 20:47:34 UTC 2026
+Analysis generated at: Thu Sep 17 02:55:47 UTC 2026
