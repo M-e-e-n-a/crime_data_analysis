@@ -1,10 +1,10 @@
 
-Loaded 132684 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-16 16:35:01
+Loaded 132766 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-16 20:51:21
 
 Incidents by source:
 source
-newsapi           132583
+newsapi           132665
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,30 +20,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-09-16 16:35
-- Location: RTE
-- Description: The wife of murdered solicitor Pat Finucane has said she is optimistic a public inquiry underway in Belfast will get to the truth of one of the most controversial killings of the Troubles.
+### HOMICIDE on 2026-09-16 20:51
+- Location: Breitbart News
+- Description: An Alabama woman was sentenced to life in prison after she pleaded guilty to killing her newborn in 2023 by placing him in a trash compactor. 
+The post Alabama Woman to Spend Life in Prison for Killing Newborn in Trash Compactor appeared first on Breitbart.
 
 
-### HOMICIDE on 2026-09-16 16:25
-- Location: The Times of India
-- Description: A woman alleges the accused in a Lucknow hit-and-run used a false name. She claims Shahnawaz introduced himself as Yash Thakur before the incident occurred. The 22-year-old student was allegedly struck and run over by the car. Police have arrested Shahnawaz a…
+### HOMICIDE on 2026-09-16 20:50
+- Location: CBC News
+- Description: A Saint John jury has begun deliberations in the case of two men charged with being accessories after the fact to murder in the death of a Allan Lee two years ago.
 
 
-### ROBBERY/THEFT on 2026-09-16 16:23
-- Location: The Punch
-- Description: A Paris court has awarded Kim Kardashian one euro in compensation for the 2016 armed robbery where over $6m in jewellery was stolen from her hotel suite.
-
-Read More: https://punchng.com/court-awards-kim-kardashian-e1-over-6m-paris-robbery/
+### HOMICIDE on 2026-09-16 20:49
+- Location: Dailymail.com
+- Description: Carole Langley's body was found at an address in Portsmouth, Hampshire, on Monday morning.
 
 
-### ROBBERY/THEFT on 2026-09-16 16:21
-- Location: New York Post
-- Description: Experts warn that Hyundai and Kia thefts could persist through 2050 because of the viral "Kia Boys" trend on TikTok.
+### ROBBERY/THEFT on 2026-09-16 20:48
+- Location: Freerepublic.com
+- Description: A Trussville woman has been arrested after a theft and significant property damage at the PlayStation Family Fun Center on Watterson Lane, according to Trussville officials. Police responded to the property Sunday evening and quickly established a perimeter. …
 
 
-### ROBBERY/THEFT on 2026-09-16 16:18
-- Location: The Times of India
-- Description: Kurnool police arrested a 33-year-old woman in the Mantralayam gold theft case, recovering 30 sovereigns; CCTV helped link her to multiple thefts.
+### HOMICIDE on 2026-09-16 20:44
+- Location: Freerepublic.com
+- Description: He was dressed to kill. A suspected serial killer who reportedly confessed to 80 murders was arrested in Brazil while trying to evade justice by dressing as a woman. Wild video shows cops arresting Jorlan Alves da Silva, 33, in a striped dress and loosely fit…
 
-Analysis generated at: Thu Sep 17 16:38:13 UTC 2026
+Analysis generated at: Thu Sep 17 20:52:47 UTC 2026
