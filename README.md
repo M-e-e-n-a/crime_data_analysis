@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Sep 18 15:39:30 UTC 2026
+Last updated: Fri Sep 18 16:09:50 UTC 2026
 
 ## Latest Analysis
 
-Loaded 132952 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-17 15:39:10
+Loaded 132985 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-17 16:08:33
 
 Incidents by source:
 source
-newsapi           132851
+newsapi           132884
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-09-17 15:39
+### OTHER on 2026-09-17 16:08
 - Location: The Times of India
-- Description: Deer poaching spreads to central Karnataka as forest officials arrest 3 in Chikkamagaluru with 70kg venison, gun and weapons; probe targets wider network.
+- Description: Kerala govt tells HC police circular only bars cops in uniform from joining religious rituals, not faith practice; official festival duties and traditions continue.
 
 
-### HOMICIDE on 2026-09-17 15:38
-- Location: NBC News
-- Description: The DNA of an Arizona man who died by suicide earlier this year has connected him to the unsolved slaying of a Navy veteran whose body was dumped in a cemetery four decades ago, prosecutors said.
-
-
-### OTHER on 2026-09-17 15:36
+### OTHER on 2026-09-17 16:07
 - Location: The Times of India
-- Description: Swoop Scoop, a dog-waste removal company that started in Washington in late 2020, has impressive monthly revenues surpassing $200,000. Initially catering to twenty clients, the business experienced rapid growth, now counting hundreds among its subscribers. Le…
+- Description: Farmers in Trichy demand higher Cauvery water release into Kollidam for samba irrigation, alleging WRD prioritises Veeranam lake for Chennai drinking water.
 
 
-### OTHER on 2026-09-17 15:35
+### OTHER on 2026-09-17 16:07
 - Location: The Times of India
-- Description: Over 100 Vishwakarma Puja pandals were set up at Rourkela Steel Plant, drawing devotees as RSP officials and industries across Sundargarh celebrated.
+- Description: Family of Asim Mondal alias “Akash,” long listed as a Maoist absconder, say they’ve had no contact for 38–40 years despite repeated police raids.
 
 
-### OTHER on 2026-09-17 15:32
-- Location: Abajournal.com
-- Description: A former Wisconsin judge who was convicted of obstructing federal agents after helping a Mexican man evade U.S. Immigration and Customs Enforcement will not have her law license suspended, the Wisconsin Supreme Court ruled Wednesday.
+### OTHER on 2026-09-17 16:07
+- Location: New York Post
+- Description: Krasner has long worked as a second public defender for the city, running on his work to reduce the prosecution and incarceration of accused felons.
 
-Analysis generated at: Fri Sep 18 15:39:30 UTC 2026
+
+### OTHER on 2026-09-17 16:07
+- Location: The Times of India
+- Description: Rest of World News: Canadian Prime Minister Mark Carney on Thursday backed closer ties between Canada and the European Union, saying the two sides could work together to .
+
+Analysis generated at: Fri Sep 18 16:09:50 UTC 2026
