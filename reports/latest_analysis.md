@@ -1,10 +1,10 @@
 
-Loaded 132985 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-17 16:08:33
+Loaded 133074 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-17 20:14:35
 
 Incidents by source:
 source
-newsapi           132884
+newsapi           132973
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,30 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-09-17 16:08
-- Location: The Times of India
-- Description: Kerala govt tells HC police circular only bars cops in uniform from joining religious rituals, not faith practice; official festival duties and traditions continue.
+### HOMICIDE on 2026-09-17 20:14
+- Location: Dailymail.com
+- Description: Jesse Calhoun, 41, of Oregon, had already pleaded not guilty to murder charges involving five other women, three of whom he allegedly dumped in remote rural areas.
 
 
-### OTHER on 2026-09-17 16:07
-- Location: The Times of India
-- Description: Farmers in Trichy demand higher Cauvery water release into Kollidam for samba irrigation, alleging WRD prioritises Veeranam lake for Chennai drinking water.
+### ASSAULT on 2026-09-17 20:11
+- Location: The Punch
+- Description: The Cross River State Police Command has warned citizens against the assault and obstruction of officers on lawful duty, citing penalties under the law.
+
+Read More: https://punchng.com/police-warn-against-attack-on-officers-performing-lawful-duties-in-crivers/
 
 
-### OTHER on 2026-09-17 16:07
-- Location: The Times of India
-- Description: Family of Asim Mondal alias “Akash,” long listed as a Maoist absconder, say they’ve had no contact for 38–40 years despite repeated police raids.
+### ROBBERY/THEFT on 2026-09-17 20:00
+- Location: Reason
+- Description: Jurors didn't buy Luis Uribe's defense: that he was targeted by "hustlers" for being an immigration officer.
 
 
-### OTHER on 2026-09-17 16:07
-- Location: New York Post
-- Description: Krasner has long worked as a second public defender for the city, running on his work to reduce the prosecution and incarceration of accused felons.
+### OTHER on 2026-09-17 20:00
+- Location: GamesRadar+
+- Description: Everything you need to know about the Resident Evil ending
 
 
-### OTHER on 2026-09-17 16:07
-- Location: The Times of India
-- Description: Rest of World News: Canadian Prime Minister Mark Carney on Thursday backed closer ties between Canada and the European Union, saying the two sides could work together to .
+### HOMICIDE on 2026-09-17 20:00
+- Location: LancasterOnline
+- Description: A retired Lancaster County judge and a current prosecutor were among those to testify Thursday that legislation that stalled earlier this summer is the best way to address the Pennsylvania Supreme Court’s finding that the mandatory sentence of life-without-pa…
 
-Analysis generated at: Fri Sep 18 16:09:50 UTC 2026
+Analysis generated at: Fri Sep 18 20:17:30 UTC 2026
