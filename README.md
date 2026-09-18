@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Sep 17 20:52:47 UTC 2026
+Last updated: Fri Sep 18 02:42:33 UTC 2026
 
 ## Latest Analysis
 
-Loaded 132766 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-16 20:51:21
+Loaded 132782 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-17 02:32:05
 
 Incidents by source:
 source
-newsapi           132665
+newsapi           132681
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,29 +24,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-09-16 20:51
-- Location: Breitbart News
-- Description: An Alabama woman was sentenced to life in prison after she pleaded guilty to killing her newborn in 2023 by placing him in a trash compactor. 
-The post Alabama Woman to Spend Life in Prison for Killing Newborn in Trash Compactor appeared first on Breitbart.
+### SHOOTING on 2026-09-17 02:32
+- Location: WGHP FOX 8 Greensboro
+- Description: HIGH POINT, N.C. (WGHP) — A 17-year-old who says he was shot at a party for teens in August is working towards his return to the football field. Caleb Moore started his senior year at T. Wingate Andrews High School in August. He has a love for football, which…
 
 
-### HOMICIDE on 2026-09-16 20:50
+### SHOOTING on 2026-09-17 01:50
+- Location: HuffPost
+- Description: Christian Castro’s arrest came eight months after a confrontation that became a flashpoint over President Trump’s immigrant deportation sweeps.
+
+
+### HOMICIDE on 2026-09-17 01:27
+- Location: ABC News (AU)
+- Description: The family of slain podcaster Charlie Kirk has blamed officials at the university campus where he was killed for his death.
+
+
+### HOMICIDE on 2026-09-17 01:01
 - Location: CBC News
-- Description: A Saint John jury has begun deliberations in the case of two men charged with being accessories after the fact to murder in the death of a Allan Lee two years ago.
+- Description: The woman whose death is at the centre of a murder trial in Ottawa was sheltering a relative who was fleeing an abusive relationship with the accused, the Crown argued in its opening submissions Wednesday.
 
 
-### HOMICIDE on 2026-09-16 20:49
-- Location: Dailymail.com
-- Description: Carole Langley's body was found at an address in Portsmouth, Hampshire, on Monday morning.
+### OTHER on 2026-09-17 01:00
+- Location: Legalinsurrection.com
+- Description: China ‘spy ships’ also appear to be intercepting U.S. military communications off American coasts.
+The post Chinese Tourist Faces Federal Charges After Drone Flight Near NASA Launch Pads first appeared on Le·gal In·sur·rec·tion.
 
-
-### ROBBERY/THEFT on 2026-09-16 20:48
-- Location: Freerepublic.com
-- Description: A Trussville woman has been arrested after a theft and significant property damage at the PlayStation Family Fun Center on Watterson Lane, according to Trussville officials. Police responded to the property Sunday evening and quickly established a perimeter. …
-
-
-### HOMICIDE on 2026-09-16 20:44
-- Location: Freerepublic.com
-- Description: He was dressed to kill. A suspected serial killer who reportedly confessed to 80 murders was arrested in Brazil while trying to evade justice by dressing as a woman. Wild video shows cops arresting Jorlan Alves da Silva, 33, in a striped dress and loosely fit…
-
-Analysis generated at: Thu Sep 17 20:52:47 UTC 2026
+Analysis generated at: Fri Sep 18 02:42:33 UTC 2026
