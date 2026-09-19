@@ -1,10 +1,10 @@
 
-Loaded 133270 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-18 15:40:39
+Loaded 133351 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-18 19:55:08
 
 Incidents by source:
 source
-newsapi           133169
+newsapi           133250
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-09-18 15:40
+### OTHER on 2026-09-18 19:55
+- Location: ARLnow
+- Description: A 31-year-old Arlington woman is behind bars after an unusual home break-in in the Cherrydale neighborhood last night. Police received a 911 call just before 11 p.m. for a report of a woman wearing nothing but a bra and underwear shattering the back door of a…
+
+
+### HOMICIDE on 2026-09-18 19:53
+- Location: Dailymail.com
+- Description: Vickie Williams, 50, is accused of killing Darryl, 83, and Sharon Getman, 80, at their Mount Dora, Florida home, near Orlando, on December 31, 2022.
+
+
+### ROBBERY/THEFT on 2026-09-18 19:47
 - Location: The Times of India
-- Description: Apeksha Malviya, the talented actress, has recently embraced a new milestone in her career by acquiring a Mahindra XUV 7XO. With almost four months of anticipation behind her, the arrival of the vehicle is a significant event. Opting for the XUV 7XO reflects …
+- Description: Barabanki: 18-year-old girl dies by suicide after alleged blackmail via WhatsApp calls; police probe phone records and Rs 15,000 UPI transfer to trace caller.
 
 
-### OTHER on 2026-09-18 15:39
-- Location: CBC News
-- Description: Agnieszka Ciochon-Newton, 58, is in custody on charges of harassment, uttering threats and intimidation, according to a news release from the Winnipeg Police Service.
+### OTHER on 2026-09-18 19:43
+- Location: Fox News
+- Description: Laysla De Oliveira reacts to the explosive "Lioness" season 3 rescue episode and teases that even more drama is still to come in the finale.
 
 
-### OTHER on 2026-09-18 15:35
+### ROBBERY/THEFT on 2026-09-18 19:41
 - Location: The Times of India
-- Description: A court dismissed the bail plea of Anto Augustine, MD of a Malayalam news channel. Liquor above permissible limits was seized from his ancestral house in Wayanad. Augustine was arrested after a special team found liquor bottles at his home. He claimed no poss…
+- Description: Indira Jaising says exonerated Nithari accused Surinder Koli faced lasting stigma and isolation; found hanging in Haridwar, police suspect suicide, probe on.
 
-
-### OTHER on 2026-09-18 15:33
-- Location: The Times of India
-- Description: In a remarkable turn of events, a historic Arts and Crafts bungalow from 1910 was spared from demolition by developers. The property underwent a meticulous restoration that lasted several years, ensuring modern systems were integrated while retaining its clas…
-
-
-### OTHER on 2026-09-18 15:32
-- Location: Kotaku
-- Description: An older 190GB leak from 2022 seems to have finally been dumped online for everyone to dig into
-
-Analysis generated at: Sat Sep 19 15:41:39 UTC 2026
+Analysis generated at: Sat Sep 19 19:56:03 UTC 2026
