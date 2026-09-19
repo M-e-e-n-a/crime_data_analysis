@@ -1,10 +1,10 @@
 
-Loaded 133257 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-18 15:09:26
+Loaded 133270 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-18 15:40:39
 
 Incidents by source:
 source
-newsapi           133156
+newsapi           133169
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-09-18 15:09
-- Location: Abcnews.com
-- Description: ABC News’ Armando Garcia speaks to Republicans and Democrats in the Big Bend sector of Texas who oppose the Trump administration’s plans for a border wall.
-
-
-### HOMICIDE on 2026-09-18 15:07
+### OTHER on 2026-09-18 15:40
 - Location: The Times of India
-- Description: A husband allegedly murdered his wife after a domestic quarrel in Bengaluru. He then poured hot oil on her face to disfigure her body. The accused attempted to make the death appear as a suicide to authorities. However, police detected discrepancies in his ac…
+- Description: Apeksha Malviya, the talented actress, has recently embraced a new milestone in her career by acquiring a Mahindra XUV 7XO. With almost four months of anticipation behind her, the arrival of the vehicle is a significant event. Opting for the XUV 7XO reflects …
 
 
-### SHOOTING on 2026-09-18 15:03
+### OTHER on 2026-09-18 15:39
+- Location: CBC News
+- Description: Agnieszka Ciochon-Newton, 58, is in custody on charges of harassment, uttering threats and intimidation, according to a news release from the Winnipeg Police Service.
+
+
+### OTHER on 2026-09-18 15:35
 - Location: The Times of India
-- Description: A delivery boy's recent purchases helped Delhi Police crack a theft case. Deepak was arrested after buying an iPhone and planning a motorcycle purchase. He confessed to entering a house through the roof and stealing valuables. His associate Gunjan was apprehe…
+- Description: A court dismissed the bail plea of Anto Augustine, MD of a Malayalam news channel. Liquor above permissible limits was seized from his ancestral house in Wayanad. Augustine was arrested after a special team found liquor bottles at his home. He claimed no poss…
 
 
-### OTHER on 2026-09-18 15:03
+### OTHER on 2026-09-18 15:33
 - Location: The Times of India
-- Description: News News: In 1867, James Roosevelt purchased a 110-acre estate in Hyde Park, New York, for $40,000, acquiring a 17-room Italianate-style house that he renamed S.
+- Description: In a remarkable turn of events, a historic Arts and Crafts bungalow from 1910 was spared from demolition by developers. The property underwent a meticulous restoration that lasted several years, ensuring modern systems were integrated while retaining its clas…
 
 
-### HOMICIDE on 2026-09-18 15:00
-- Location: TheJournal.ie
-- Description: In 2023, Gary Anderson was sentenced to 15 years in prison for the murder of a father-of-five.
+### OTHER on 2026-09-18 15:32
+- Location: Kotaku
+- Description: An older 190GB leak from 2022 seems to have finally been dumped online for everyone to dig into
 
-Analysis generated at: Sat Sep 19 15:12:38 UTC 2026
+Analysis generated at: Sat Sep 19 15:41:39 UTC 2026
