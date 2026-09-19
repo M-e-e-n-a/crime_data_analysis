@@ -1,10 +1,10 @@
 
-Loaded 133074 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-17 20:14:35
+Loaded 133104 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-18 02:39:39
 
 Incidents by source:
 source
-newsapi           132973
+newsapi           133003
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,30 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-09-17 20:14
-- Location: Dailymail.com
-- Description: Jesse Calhoun, 41, of Oregon, had already pleaded not guilty to murder charges involving five other women, three of whom he allegedly dumped in remote rural areas.
-
-
-### ASSAULT on 2026-09-17 20:11
-- Location: The Punch
-- Description: The Cross River State Police Command has warned citizens against the assault and obstruction of officers on lawful duty, citing penalties under the law.
-
-Read More: https://punchng.com/police-warn-against-attack-on-officers-performing-lawful-duties-in-crivers/
-
-
-### ROBBERY/THEFT on 2026-09-17 20:00
+### SHOOTING on 2026-09-18 02:39
 - Location: Reason
-- Description: Jurors didn't buy Luis Uribe's defense: that he was targeted by "hustlers" for being an immigration officer.
+- Description: Two cases raise Commerce Clause and Second Amendment issues.
 
 
-### OTHER on 2026-09-17 20:00
-- Location: GamesRadar+
-- Description: Everything you need to know about the Resident Evil ending
+### OTHER on 2026-09-18 02:29
+- Location: CBC News
+- Description: Ontario Provincial Police say they have charged two people in connection with a stabbing in Deep River, Ont.
 
 
-### HOMICIDE on 2026-09-17 20:00
-- Location: LancasterOnline
-- Description: A retired Lancaster County judge and a current prosecutor were among those to testify Thursday that legislation that stalled earlier this summer is the best way to address the Pennsylvania Supreme Court’s finding that the mandatory sentence of life-without-pa…
+### HOMICIDE on 2026-09-18 02:22
+- Location: Abcnews.com
+- Description: Prosecutors say an SUV driver was under the influence of drugs when she swerved into the wrong lane, blew a red light and slammed into a Los Angeles city bus, killing two riders
 
-Analysis generated at: Fri Sep 18 20:17:30 UTC 2026
+
+### OTHER on 2026-09-18 02:20
+- Location: Dailymail.com
+- Description: Lawyers Morgan Seymour, Jax Pitalo and Warren Hudson sent Hostin a letter on Wednesday, demanding she retract, delete and apologize within 10 days.
+
+
+### HOMICIDE on 2026-09-18 02:13
+- Location: The Times of India
+- Description: A 31-year-old HR professional was allegedly murdered after meeting a former colleague. Police arrested the former colleague, Anya Vats, and her partner, Sanyam Sachdeva. Investigators suspect a financial dispute led to the alleged killing of Yuvraj Singh Manc…
+
+Analysis generated at: Sat Sep 19 02:40:28 UTC 2026
