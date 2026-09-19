@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Sep 19 10:09:37 UTC 2026
+Last updated: Sat Sep 19 15:12:38 UTC 2026
 
 ## Latest Analysis
 
-Loaded 133193 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-18 10:09:22
+Loaded 133257 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-18 15:09:26
 
 Incidents by source:
 source
-newsapi           133092
+newsapi           133156
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-09-18 10:09
+### OTHER on 2026-09-18 15:09
+- Location: Abcnews.com
+- Description: ABC News’ Armando Garcia speaks to Republicans and Democrats in the Big Bend sector of Texas who oppose the Trump administration’s plans for a border wall.
+
+
+### HOMICIDE on 2026-09-18 15:07
 - Location: The Times of India
-- Description: Rest of World News: Protests broke out in a city in central Nigeria after 37 miners detained during raids on suspected illegal gold mines were found dead in the custody o.
+- Description: A husband allegedly murdered his wife after a domestic quarrel in Bengaluru. He then poured hot oil on her face to disfigure her body. The accused attempted to make the death appear as a suicide to authorities. However, police detected discrepancies in his ac…
 
 
-### OTHER on 2026-09-18 10:07
+### SHOOTING on 2026-09-18 15:03
 - Location: The Times of India
-- Description: In a noteworthy real estate move, Charlie Puth has divested his Montecito estate for a stunning eighteen point five million dollars, significantly higher than his 2017 acquisition cost of four point one seven million dollars. This charming residence holds che…
+- Description: A delivery boy's recent purchases helped Delhi Police crack a theft case. Deepak was arrested after buying an iPhone and planning a motorcycle purchase. He confessed to entering a house through the roof and stealing valuables. His associate Gunjan was apprehe…
 
 
-### OTHER on 2026-09-18 10:07
+### OTHER on 2026-09-18 15:03
 - Location: The Times of India
-- Description: Bansgaon block has proudly claimed the top position in the NITI Aayog's Aspirational Blocks Programme Delta Rankings, garnering a notable cash prize for its developmental initiatives. This program is designed to uplift living standards in India's underdevelop…
+- Description: News News: In 1867, James Roosevelt purchased a 110-acre estate in Hyde Park, New York, for $40,000, acquiring a 17-room Italianate-style house that he renamed S.
 
 
-### HOMICIDE on 2026-09-18 10:03
-- Location: The Times of India
-- Description: Pakistan News: At least 16 people were killed and more than 30 injured in a suicide explosion at a mosque inside the Kohat Police Lines in Pakistan's Khyber Pakhtunk.
+### HOMICIDE on 2026-09-18 15:00
+- Location: TheJournal.ie
+- Description: In 2023, Gary Anderson was sentenced to 15 years in prison for the murder of a father-of-five.
 
-
-### HOMICIDE on 2026-09-18 10:03
-- Location: Crypto Briefing
-- Description: The arrests highlight the dual role of crypto as both a tool for crime and a means for law enforcement, impacting its public perception.
-The post UAE and Sweden arrest seven in $7M crypto laundering ring linked to contract killings appeared first on Crypto Br…
-
-Analysis generated at: Sat Sep 19 10:09:37 UTC 2026
+Analysis generated at: Sat Sep 19 15:12:38 UTC 2026
