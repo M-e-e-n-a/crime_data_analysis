@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Sep 20 15:47:38 UTC 2026
+Last updated: Sun Sep 20 20:10:03 UTC 2026
 
 ## Latest Analysis
 
-Loaded 133472 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-19 15:47:32
+Loaded 133569 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-19 20:06:43
 
 Incidents by source:
 source
-newsapi           133371
+newsapi           133468
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-09-19 15:47
+### OTHER on 2026-09-19 20:06
 - Location: The Times of India
-- Description: Karnataka CM DK Shivakumar halts fresh eviction notices for Malnad forest dwellers, open to Kerala-style physical survey of Kasturirangan report areas.
+- Description: Panchkula police arrested 24-year-old Mohit Kumar with 256g heroin worth over ₹50 lakh; five-day remand to trace Amritsar supplier and network.
 
 
-### OTHER on 2026-09-19 15:43
+### OTHER on 2026-09-19 19:55
 - Location: The Times of India
-- Description: Syro-Malankara Catholic Church leader Abraham Mar Julios, former Muvattupuzha diocese head, dies at 81; funeral rites in Thiruvalla on Monday.
+- Description: Rejinagar bypoll: Mamata Trinamool candidate Rabiul Alam Chowdhury briefly withdraws, then reverses decision after police assurance and Mamata Banerjee call.
 
 
-### OTHER on 2026-09-19 15:43
+### ASSAULT on 2026-09-19 19:54
 - Location: The Times of India
-- Description: SALEM: PMK leader and Rajya Sabha member Dr Anbumani Ramadoss on Saturday urged Tamil Nadu govt to scrap its plan to set up a waste-to-energy incinera.
+- Description: Gurgaon Sector 89: After a fight, a Delhi-registered Thar allegedly rammed a Rapido cab repeatedly, deploying airbags; no injuries; police tracing youths, FIR pending.
 
 
-### ASSAULT on 2026-09-19 15:43
+### HOMICIDE on 2026-09-19 19:53
 - Location: The Times of India
-- Description: Two men arrested in Chennai in separate POCSO cases for alleged sexual assault of minor girls; one a school library officer, both remanded after complaints.
+- Description: Gurgaon: 19-year-old worker died falling 19 floors at M3M Smart World site; coworker injured. Police call it a slip; no negligence case filed.
 
 
-### HOMICIDE on 2026-09-19 15:43
-- Location: Breitbart News
-- Description: Evidence introduced in the trial of former American Idol contestant Caleb Flynn, charged with killing his wife, revealed the singer allegedly fantasized in texts to his mistress about murdering the mother of his two children.
-The post Video — Prosecutors: For…
+### OTHER on 2026-09-19 19:53
+- Location: The Times of India
+- Description: Gurgaon police, women’s commission raid 18 spa centres in Sector 90’s Sapphire Mall; evidence of illegal activity found in 8; 50 questioned, case to follow.
 
-Analysis generated at: Sun Sep 20 15:47:38 UTC 2026
+Analysis generated at: Sun Sep 20 20:10:03 UTC 2026
