@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Sep 20 02:54:23 UTC 2026
+Last updated: Sun Sep 20 04:16:35 UTC 2026
 
 ## Latest Analysis
 
-Loaded 133377 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-19 02:41:00
+Loaded 133383 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-19 04:15:38
 
 Incidents by source:
 source
-newsapi           133276
+newsapi           133282
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-09-19 02:41
-- Location: Vanguard
-- Description: Many in my generation grew up reading all of Ian Fleming books. For the information of the younger generation, Ian Fleming was the original creator of James Bond, that handsome, debonair but extremely ruthless British Spy whose exploits entranced the whole wo…
+### OTHER on 2026-09-19 04:15
+- Location: Juancole.com
+- Description: Many Iranians were attracted to the idea of a socialist state.  Many moved to the Soviet Union only to come to grief under Stalin
 
 
-### HOMICIDE on 2026-09-19 02:32
-- Location: Slashdot.org
-- Description: Ekurhuleni killings: Grim discoveries of murdered women spark fear in South Africabbc.com ‘Women are terrified’: Ninth body found as South African police probe series of killingsCNN South Africa ‘feels like a prison’ for women amid spate of femicidesNPR Nine …
-
-
-### SHOOTING on 2026-09-19 02:32
+### HOMICIDE on 2026-09-19 04:11
 - Location: The Times of India
-- Description: Government colleges must now get department approval for all educational tours. Students are prohibited from taking selfies and shooting reels during these trips. Tour durations are capped at five days, and faculty must closely monitor students. Risky activit…
+- Description: In a fervent response to women's safety issues, Congress leaders Rahul Gandhi and Priyanka Gandhi Vadra have raised grave concerns in the wake of a teenage girl's gang rape and murder. They demanded thorough accountability from authorities and condemned recen…
 
 
-### OTHER on 2026-09-19 02:20
-- Location: Vanguard
-- Description: In 2006, when the Borgu Emirate chose Tinubu, it could not have known it was choosing a future commander-in-chief as its chief warrior. Twenty years later, the jackpot looks like rotten luck: no better than a dud cheque. Achebe said a man cannot live by the r…
+### HOMICIDE on 2026-09-19 04:05
+- Location: Dailymail.com
+- Description: Nick Reiner claims he cannot access 'even $5' from his roughly $1.6million family trust as he awaits trial for allegedly murdering his parents.
 
 
-### OTHER on 2026-09-19 02:15
-- Location: The Times of India
-- Description: A man was arrested for allegedly exploiting a woman for years. He threatened to circulate her intimate photos and videos to coerce her. The woman approached police with a complaint detailing the prolonged exploitation. Police launched an investigation after r…
+### OTHER on 2026-09-19 04:00
+- Location: Americanthinker.com
+- Description: By Dale WilcoxIf Massachusetts’ extreme policies don’t classify it as a sanctuary state, then by definition no state is.
 
-Analysis generated at: Sun Sep 20 02:54:23 UTC 2026
+
+### OTHER on 2026-09-19 03:29
+- Location: ABC News (AU)
+- Description: Four girls and an 18-year-old woman were arrested following a brawl at Northland Shopping Centre on Friday night.
+
+Analysis generated at: Sun Sep 20 04:16:34 UTC 2026
