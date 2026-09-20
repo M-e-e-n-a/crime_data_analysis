@@ -1,10 +1,10 @@
 
-Loaded 133351 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-18 19:55:08
+Loaded 133377 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-19 02:41:00
 
 Incidents by source:
 source
-newsapi           133250
+newsapi           133276
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-09-18 19:55
-- Location: ARLnow
-- Description: A 31-year-old Arlington woman is behind bars after an unusual home break-in in the Cherrydale neighborhood last night. Police received a 911 call just before 11 p.m. for a report of a woman wearing nothing but a bra and underwear shattering the back door of a…
+### OTHER on 2026-09-19 02:41
+- Location: Vanguard
+- Description: Many in my generation grew up reading all of Ian Fleming books. For the information of the younger generation, Ian Fleming was the original creator of James Bond, that handsome, debonair but extremely ruthless British Spy whose exploits entranced the whole wo…
 
 
-### HOMICIDE on 2026-09-18 19:53
-- Location: Dailymail.com
-- Description: Vickie Williams, 50, is accused of killing Darryl, 83, and Sharon Getman, 80, at their Mount Dora, Florida home, near Orlando, on December 31, 2022.
+### HOMICIDE on 2026-09-19 02:32
+- Location: Slashdot.org
+- Description: Ekurhuleni killings: Grim discoveries of murdered women spark fear in South Africabbc.com ‘Women are terrified’: Ninth body found as South African police probe series of killingsCNN South Africa ‘feels like a prison’ for women amid spate of femicidesNPR Nine …
 
 
-### ROBBERY/THEFT on 2026-09-18 19:47
+### SHOOTING on 2026-09-19 02:32
 - Location: The Times of India
-- Description: Barabanki: 18-year-old girl dies by suicide after alleged blackmail via WhatsApp calls; police probe phone records and Rs 15,000 UPI transfer to trace caller.
+- Description: Government colleges must now get department approval for all educational tours. Students are prohibited from taking selfies and shooting reels during these trips. Tour durations are capped at five days, and faculty must closely monitor students. Risky activit…
 
 
-### OTHER on 2026-09-18 19:43
-- Location: Fox News
-- Description: Laysla De Oliveira reacts to the explosive "Lioness" season 3 rescue episode and teases that even more drama is still to come in the finale.
+### OTHER on 2026-09-19 02:20
+- Location: Vanguard
+- Description: In 2006, when the Borgu Emirate chose Tinubu, it could not have known it was choosing a future commander-in-chief as its chief warrior. Twenty years later, the jackpot looks like rotten luck: no better than a dud cheque. Achebe said a man cannot live by the r…
 
 
-### ROBBERY/THEFT on 2026-09-18 19:41
+### OTHER on 2026-09-19 02:15
 - Location: The Times of India
-- Description: Indira Jaising says exonerated Nithari accused Surinder Koli faced lasting stigma and isolation; found hanging in Haridwar, police suspect suicide, probe on.
+- Description: A man was arrested for allegedly exploiting a woman for years. He threatened to circulate her intimate photos and videos to coerce her. The woman approached police with a complaint detailing the prolonged exploitation. Police launched an investigation after r…
 
-Analysis generated at: Sat Sep 19 19:56:03 UTC 2026
+Analysis generated at: Sun Sep 20 02:54:23 UTC 2026
