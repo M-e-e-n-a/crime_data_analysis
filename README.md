@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Sep 20 04:16:35 UTC 2026
+Last updated: Sun Sep 20 10:28:05 UTC 2026
 
 ## Latest Analysis
 
-Loaded 133383 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-19 04:15:38
+Loaded 133420 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-19 10:09:53
 
 Incidents by source:
 source
-newsapi           133282
+newsapi           133319
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,31 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-09-19 04:15
-- Location: Juancole.com
-- Description: Many Iranians were attracted to the idea of a socialist state.  Many moved to the Soviet Union only to come to grief under Stalin
+### DRUG RELATED on 2026-09-19 10:09
+- Location: Financial Post
+- Description: CHARLOTTETOWN, Prince Edward Island, Sept. 19, 2026 (GLOBE NEWSWIRE) — Today, MADD Canada will unveil its new Prince Edward Island (PEI) Provincial Memorial Monument, creating a permanent place to remember victims of alcohol- and drug-related crashes. The mon…
 
 
-### HOMICIDE on 2026-09-19 04:11
+### SHOOTING on 2026-09-19 10:08
+- Location: The Punch
+- Description: Police in Cross River have arrested a 36-year-old vigilante member for allegedly shooting a man and robbing him of $5,000 in Etung LGA.
+
+Read More: https://punchng.com/police-arrest-suspected-armed-robber-in-cross-river-recover-gun/
+
+
+### OTHER on 2026-09-19 10:00
+- Location: Daily Signal
+- Description: Nearly 60 Democrat members of Congress signed a letter to sound an alarm: Black Americans are being found hanging, including some from trees, in a wave of possible “modern-day lynchings.”  Their letter to the Justice Department and the FBI stated, “The series…
+
+
+### HOMICIDE on 2026-09-19 09:35
 - Location: The Times of India
-- Description: In a fervent response to women's safety issues, Congress leaders Rahul Gandhi and Priyanka Gandhi Vadra have raised grave concerns in the wake of a teenage girl's gang rape and murder. They demanded thorough accountability from authorities and condemned recen…
+- Description: Two unidentified men fatally shot an assistant sub-inspector of Punjab Police in Amritsar. ASI Harjit Singh was shot near the neck by a single bullet fired from a pistol. This incident occurred around 12:30 am on Friday while the ASI was on duty. Hours earlie…
 
 
-### HOMICIDE on 2026-09-19 04:05
-- Location: Dailymail.com
-- Description: Nick Reiner claims he cannot access 'even $5' from his roughly $1.6million family trust as he awaits trial for allegedly murdering his parents.
+### OTHER on 2026-09-19 09:30
+- Location: The American Prospect
+- Description: The wokest rapper took on the NFL’s plutocratic ownership, the Israel lobby, and the Live Nation ‘flywheel’—and won.
+The post Macklemore vs. Everybody appeared first on The American Prospect.
 
-
-### OTHER on 2026-09-19 04:00
-- Location: Americanthinker.com
-- Description: By Dale WilcoxIf Massachusetts’ extreme policies don’t classify it as a sanctuary state, then by definition no state is.
-
-
-### OTHER on 2026-09-19 03:29
-- Location: ABC News (AU)
-- Description: Four girls and an 18-year-old woman were arrested following a brawl at Northland Shopping Centre on Friday night.
-
-Analysis generated at: Sun Sep 20 04:16:34 UTC 2026
+Analysis generated at: Sun Sep 20 10:28:05 UTC 2026
