@@ -1,10 +1,10 @@
 
-Loaded 133459 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-19 15:15:26
+Loaded 133472 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-19 15:47:32
 
 Incidents by source:
 source
-newsapi           133358
+newsapi           133371
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,29 +20,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-09-19 15:15
-- Location: New York Post
-- Description: Claudia Tacoronte, 21, Kimberly Ramos and Karol Toledo, both 18, attended the Autonomous University of the State of Morelos, or UAEM, when they were violently struck down in attacks dating back to February.
+### OTHER on 2026-09-19 15:47
+- Location: The Times of India
+- Description: Karnataka CM DK Shivakumar halts fresh eviction notices for Malnad forest dwellers, open to Kerala-style physical survey of Kasturirangan report areas.
 
 
-### HOMICIDE on 2026-09-19 15:00
-- Location: Allthatsinteresting.com
-- Description: While Freddie Lee Glenn insists that he wasn't the man who murdered Karen Grammer in July 1975, he did admit to driving the men who kidnapped, sexually assaulted, and stabbed her 42 times.
-The post Freddie Lee Glenn, The Man Convicted Of Killing Kelsey Gramme…
+### OTHER on 2026-09-19 15:43
+- Location: The Times of India
+- Description: Syro-Malankara Catholic Church leader Abraham Mar Julios, former Muvattupuzha diocese head, dies at 81; funeral rites in Thiruvalla on Monday.
 
 
-### OTHER on 2026-09-19 15:00
-- Location: Mental Floss
-- Description: Time has turned Lizzie Borden into a monstrous legend, but moments of vulnerability showed a different side.
+### OTHER on 2026-09-19 15:43
+- Location: The Times of India
+- Description: SALEM: PMK leader and Rajya Sabha member Dr Anbumani Ramadoss on Saturday urged Tamil Nadu govt to scrap its plan to set up a waste-to-energy incinera.
 
 
-### OTHER on 2026-09-19 14:55
-- Location: Yahoo Entertainment
-- Description: Ed Sheeran will take the stage Saturday night at Philadelphia's Lincoln Financial Field for the first show of his Loop Tour since Macklemore was dropped, likely performing solo after all of his remaining opening acts and his backing band quit in solidarity wi…
+### ASSAULT on 2026-09-19 15:43
+- Location: The Times of India
+- Description: Two men arrested in Chennai in separate POCSO cases for alleged sexual assault of minor girls; one a school library officer, both remanded after complaints.
 
 
-### HOMICIDE on 2026-09-19 14:48
-- Location: Dailymail.com
-- Description: Sharifa Nicole Henderson, 34, is facing federal charges for allegedly making a series of chilling death threats against the family of murdered Texas teenager Austin Metcalf.
+### HOMICIDE on 2026-09-19 15:43
+- Location: Breitbart News
+- Description: Evidence introduced in the trial of former American Idol contestant Caleb Flynn, charged with killing his wife, revealed the singer allegedly fantasized in texts to his mistress about murdering the mother of his two children.
+The post Video — Prosecutors: For…
 
-Analysis generated at: Sun Sep 20 15:17:17 UTC 2026
+Analysis generated at: Sun Sep 20 15:47:38 UTC 2026
