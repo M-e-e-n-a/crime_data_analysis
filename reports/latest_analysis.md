@@ -1,10 +1,10 @@
 
-Loaded 133714 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-20 18:05:38
+Loaded 133745 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-20 21:32:52
 
 Incidents by source:
 source
-newsapi           133613
+newsapi           133644
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-09-20 18:05
-- Location: The Punch
-- Description: President Bola Tinubu has mandated Vice President Kashim Shettima to lead Nigeria’s delegation to the 81st United Nations General Assembly in New York. Former Kogi State Governor Alhaji Ibrahim Idris has died in the United Kingdom at the age of 77. In politic…
+### SHOOTING on 2026-09-20 21:32
+- Location: HuffPost
+- Description: The man is hospitalized in serious but stable condition after being shot once in the torso, according to Austin Police Chief Lisa Davis.
 
 
-### OTHER on 2026-09-20 18:00
-- Location: Fox News
-- Description: Homeland Security Secretary Markwayne Mullin rejected Pramila Jayapal's claim that most ICE arrests over the summer involved individuals who pose "no threat" to public safety, citing angel families.
+### SHOOTING on 2026-09-20 21:32
+- Location: Slashdot.org
+- Description: Person injured in shooting involving ICE officers in North AustinKVUE Police report ICE-involved shooting in Austin, TexasCNN ICE investigating Austin incident as Rep. Greg Casar demands transparency over reported shootingFOX 7 Austin Federal immigration offi…
 
 
-### HOMICIDE on 2026-09-20 17:58
-- Location: The Times of India
-- Description: Adoor police team attacked in Karunagappally while arresting attempt-to-murder accused; SI Jinu injured; four arrested; video shows counter-allegation.
+### OTHER on 2026-09-20 21:29
+- Location: Dailymail.com
+- Description: The actress, 39,was praised by ITV viewers as she made her return to acting on ITV's The Blame on Sunday night.
 
 
-### OTHER on 2026-09-20 17:56
-- Location: The Times of India
-- Description: In a shocking incident, a businessman from Lucknow was kidnapped by individuals impersonating police officers. Held for nine hours inside his own vehicle, the gang extorted thirteen lakh rupees along with jewelry before releasing him. Authorities have apprehe…
+### ASSAULT on 2026-09-20 21:26
+- Location: Haaretz
+- Description: Live updates | Report: Trump admin planning to impose sweeping sanctions on ICC. Fire breaks out at East Jerusalem business; residents blame police stun grenades. Houthis warn countries against joining Saudi Arabia in Yemen's renewed war
 
 
-### OTHER on 2026-09-20 17:52
-- Location: CBS News
-- Description: On this "Face the Nation with Margaret Brennan" broadcast, Reps. Ro Khanna and Maria Elvira Salazar join Margaret Brennan.
+### SHOOTING on 2026-09-20 21:18
+- Location: Yahoo Entertainment
+- Description: AUSTIN, Texas (AP) — A U.S. Immigration and Customs Enforcement officer shot and wounded a man Sunday afternoon in Texas' capital of Austin, local authorities said.
+ The unnamed man was in serious but stable condition at a hospital after being shot once in th…
 
-Analysis generated at: Mon Sep 21 18:06:14 UTC 2026
+Analysis generated at: Mon Sep 21 21:35:21 UTC 2026
