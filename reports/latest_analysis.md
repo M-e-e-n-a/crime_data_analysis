@@ -1,10 +1,10 @@
 
-Loaded 133625 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-20 11:25:48
+Loaded 133708 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-20 17:35:00
 
 Incidents by source:
 source
-newsapi           133524
+newsapi           133607
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-09-20 11:25
-- Location: Globalsecurity.org
-- Description: The government and the Moro Islamic Liberation Front (MILF) have deployed joint peace mechanisms to de-escalate tensions arising from a localized conflict (rido) in the Special Geographic Area (SGA), the Government Peace Implementing Panel said Sunday.
+### OTHER on 2026-09-20 17:35
+- Location: Decider
+- Description: There’s a belief that people improve through adversity, and this is sometimes true, but people worsen through adversity as well. That’s unpleasant to face. That’s Monster.
 
 
-### HOMICIDE on 2026-09-20 11:07
-- Location: Israelnationalnews.com
-- Description: Footage from Ein Ri'a spring near Neve Tzuf captures shooting attack in which a Samaria resident in his 30s was murdered. Gunfire is clearly heard as people take cover. 'Is the army here?' one is heard asking.
+### HOMICIDE on 2026-09-20 17:22
+- Location: The Times of India
+- Description: Delhi Police recreated the trail in Yuvraj Singh Manchanda murder case in Gurgaon; Saket court ordered preservation of police records; fake ED notice scam probed.
 
 
-### HOMICIDE on 2026-09-20 11:00
-- Location: Fox News
-- Description: Tomasz Kosowski represents himself in a death penalty trial for the alleged murder of attorney Steven Cozzi, whose body was never recovered.
+### SHOOTING on 2026-09-20 17:20
+- Location: ComicBook.com
+- Description: Lanterns was pitched as a detective show before anybody wrote a word of it. Peter Safran stood up at the DC slate presentation in January 2023 and described the vision as “very much in the vein of True Detective,” and James Gunn has since credited Tom King wi…
 
 
-### OTHER on 2026-09-20 11:00
-- Location: CBC News
-- Description: Public safety has emerged as a key issue in Vancouver’s mayoral race, as candidates launched their official campaigns Saturday amid concerns a potential provincial election could overlap with the municipal race.
+### HOMICIDE on 2026-09-20 17:14
+- Location: The Times of India
+- Description: Assam Nazira murder case: main accused Biki Singh injured in police firing during alleged escape attempt while taken to recover weapon; arrested in Nagaland.
 
 
-### OTHER on 2026-09-20 11:00
-- Location: The Atlantic
-- Description: A reformist president weighs the pressure to move fast against the imperative to restore institutions his people can trust.
+### OTHER on 2026-09-20 16:55
+- Location: The Times of India
+- Description: Jaipur Police arrested a 27-year-old man for allegedly raping his 17-year-old neighbour; booked under POCSO and remanded to judicial custody.
 
-Analysis generated at: Mon Sep 21 11:44:30 UTC 2026
+Analysis generated at: Mon Sep 21 17:40:54 UTC 2026
