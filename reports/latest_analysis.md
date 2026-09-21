@@ -1,10 +1,10 @@
 
-Loaded 133593 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-20 04:00:00
+Loaded 133625 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-20 11:25:48
 
 Incidents by source:
 source
-newsapi           133492
+newsapi           133524
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-09-20 04:00
-- Location: Americanthinker.com
-- Description: By Mike McDanielThey really do want us dead, and we’d better take them at their word.
+### OTHER on 2026-09-20 11:25
+- Location: Globalsecurity.org
+- Description: The government and the Moro Islamic Liberation Front (MILF) have deployed joint peace mechanisms to de-escalate tensions arising from a localized conflict (rido) in the Special Geographic Area (SGA), the Government Peace Implementing Panel said Sunday.
 
 
-### OTHER on 2026-09-20 04:00
-- Location: Answersingenesis.org
-- Description: How do forensic palynologists help solve cases, and what does pollen show about the Creator?
+### HOMICIDE on 2026-09-20 11:07
+- Location: Israelnationalnews.com
+- Description: Footage from Ein Ri'a spring near Neve Tzuf captures shooting attack in which a Samaria resident in his 30s was murdered. Gunfire is clearly heard as people take cover. 'Is the army here?' one is heard asking.
 
 
-### OTHER on 2026-09-20 04:00
-- Location: Americanthinker.com
-- Description: By Andrea WidburgOf course, it’s not officially illegal, but speech codes in Britain ensure that Biblical “wrongthink” opposing Islam or homosexuality will be persecuted.
+### HOMICIDE on 2026-09-20 11:00
+- Location: Fox News
+- Description: Tomasz Kosowski represents himself in a death penalty trial for the alleged murder of attorney Steven Cozzi, whose body was never recovered.
 
 
-### HOMICIDE on 2026-09-20 03:56
-- Location: Dailymail.com
-- Description: Kendal Lee Hayes and Glenn John Delgreco II have been charged with murder after their infant daughter died, with an indictment revealing that the alleged abuse began just six days after her birth.
+### OTHER on 2026-09-20 11:00
+- Location: CBC News
+- Description: Public safety has emerged as a key issue in Vancouver’s mayoral race, as candidates launched their official campaigns Saturday amid concerns a potential provincial election could overlap with the municipal race.
 
 
-### HOMICIDE on 2026-09-20 03:35
-- Location: ABC News (AU)
-- Description: A man has died and two people remain in hospital following a fire at Redhill in South Australia last night.
+### OTHER on 2026-09-20 11:00
+- Location: The Atlantic
+- Description: A reformist president weighs the pressure to move fast against the imperative to restore institutions his people can trust.
 
-Analysis generated at: Mon Sep 21 04:13:59 UTC 2026
+Analysis generated at: Mon Sep 21 11:44:30 UTC 2026
