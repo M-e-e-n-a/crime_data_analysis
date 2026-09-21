@@ -1,10 +1,10 @@
 
-Loaded 133569 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-19 20:06:43
+Loaded 133587 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-20 02:39:45
 
 Incidents by source:
 source
-newsapi           133468
+newsapi           133486
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-09-19 20:06
+### OTHER on 2026-09-20 02:39
 - Location: The Times of India
-- Description: Panchkula police arrested 24-year-old Mohit Kumar with 256g heroin worth over ₹50 lakh; five-day remand to trace Amritsar supplier and network.
+- Description: An IIT-B student died after being caught using a mobile phone during an exam. The FIR names Professor Suryanarayana Doolla and other senior officials in the case. The student's parents alleged harassment and refused to claim the body initially. Police assured…
 
 
-### OTHER on 2026-09-19 19:55
+### HOMICIDE on 2026-09-20 02:08
+- Location: New York Post
+- Description: The court made “extensive efforts” to reach him by phone and email, but he did not appear.
+
+
+### HOMICIDE on 2026-09-20 01:52
 - Location: The Times of India
-- Description: Rejinagar bypoll: Mamata Trinamool candidate Rabiul Alam Chowdhury briefly withdraws, then reverses decision after police assurance and Mamata Banerjee call.
+- Description: Police probing the murder of Adani Realty project manager Yuvraj Singh Manchanda are examining whether he knew about an alleged fraud racket involving his former colleague Anya Vats and her partner Sanyam Sachdeva. An FIR details how the duo allegedly duped a…
 
 
-### ASSAULT on 2026-09-19 19:54
+### OTHER on 2026-09-20 01:46
 - Location: The Times of India
-- Description: Gurgaon Sector 89: After a fight, a Delhi-registered Thar allegedly rammed a Rapido cab repeatedly, deploying airbags; no injuries; police tracing youths, FIR pending.
+- Description: Tragedy struck in Rodriguez, Philippines, where a woman's lifeless body was found inside a refrigerator. Authorities consider her partner a person of interest, given that she had recently posted bail following grave charges of illegal detention. Investigators…
 
 
-### HOMICIDE on 2026-09-19 19:53
-- Location: The Times of India
-- Description: Gurgaon: 19-year-old worker died falling 19 floors at M3M Smart World site; coworker injured. Police call it a slip; no negligence case filed.
+### OTHER on 2026-09-20 01:34
+- Location: USA Today
+- Description: UMass Dartmouth football player Marvins Antoine died early on Saturday, Sept. 19 after he was stabbed in Providence, Rhode Island, police announced.
 
-
-### OTHER on 2026-09-19 19:53
-- Location: The Times of India
-- Description: Gurgaon police, women’s commission raid 18 spa centres in Sector 90’s Sapphire Mall; evidence of illegal activity found in 8; 50 questioned, case to follow.
-
-Analysis generated at: Sun Sep 20 20:10:03 UTC 2026
+Analysis generated at: Mon Sep 21 02:51:01 UTC 2026
