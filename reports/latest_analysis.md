@@ -1,10 +1,10 @@
 
-Loaded 133845 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-21 10:29:04
+Loaded 133939 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-21 16:03:44
 
 Incidents by source:
 source
-newsapi           133744
+newsapi           133838
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,30 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-09-21 10:29
-- Location: Nakedcapitalism.com
-- Description: Naked Capitalism rose to the challenge of 2026 breakdowns with steely-eyed coverage. Give generously to keep us unbought and unbossed.
+### ROBBERY/THEFT on 2026-09-21 16:03
+- Location: Moneylion.com
+- Description: Understanding the techniques fraudsters use empowers diligent customers to recognize traps and to avoid becoming victims of gas station credit card theft.
 
 
-### ROBBERY/THEFT on 2026-09-21 10:28
-- Location: Newser
-- Description: Far north Queensland's hives are facing a new threat: bee thieves. An estimated 800,000 bees making up 44 colonies have been taken from three properties west of Cairns, in what apiarist Tom Bidner describes as the biggest theft in memory, per the Guardian . R…
+### HOMICIDE on 2026-09-21 15:56
+- Location: BBC News
+- Description: The raids across Teesside follow the A66 crash which killed two police officers and five men.
 
 
-### OTHER on 2026-09-21 10:17
+### OTHER on 2026-09-21 15:54
+- Location: What's on Netflix
+- Description: Production is underway on 'À Cran,' a high-stakes Netflix crime thriller about a police officer forced to investigate her own crime.
+
+
+### OTHER on 2026-09-21 15:37
+- Location: The Punch
+- Description: Stakeholders in Sokoto State call for responsible journalism, inclusion, and collaboration to strengthen peace and prevent conflict ahead of the 2027 elect
+
+Read More: https://punchng.com/stakeholders-seek-responsible-journalism-inclusion-to-curb-conflict-in-…
+
+
+### HOMICIDE on 2026-09-21 15:35
 - Location: The Times of India
-- Description: Rubina Dilaik's emotional victory in a daunting Khatron Ke Khiladi task showcased her remarkable resilience as she shared her journey of reclaiming confidence post-motherhood. Grateful for Rohit Shetty's supportive guidance, she successfully executed a height…
+- Description: Bengaluru police arrest 18-year-old Edukondalu in Andhra Pradesh as second accused in 13-year-old Prajwal’s kidnap-murder; prime suspect held.
 
-
-### HOMICIDE on 2026-09-21 10:17
-- Location: Mediatakeout.com
-- Description: Authorities say there were no obvious signs of trauma or foul play at the Atlanta home where B2K singer Raz B and wife Mona Li’s 3-month-old son, Astro Monte Thornton, died earlier this month. Atlanta police were called to the home shortly after 8 a.m. on Sep…
-
-
-### HOMICIDE on 2026-09-21 10:14
-- Location: The Times of India
-- Description: In a tragic turn of events, a 23-year-old named Chetan Sawant has been arrested for the murder of Shrikant Jadhav in Kandivali East. The two were socializing with friends when Jadhav's teasing sparked a heated argument. In a fit of rage, Sawant stabbed Jadhav…
-
-Analysis generated at: Tue Sep 22 10:48:09 UTC 2026
+Analysis generated at: Tue Sep 22 16:07:30 UTC 2026
