@@ -1,10 +1,10 @@
 
-Loaded 133939 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-21 16:03:44
+Loaded 133946 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-21 16:38:02
 
 Incidents by source:
 source
-newsapi           133838
+newsapi           133845
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,30 +20,30 @@ ion.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2026-09-21 16:03
-- Location: Moneylion.com
-- Description: Understanding the techniques fraudsters use empowers diligent customers to recognize traps and to avoid becoming victims of gas station credit card theft.
+### ROBBERY/THEFT on 2026-09-21 16:38
+- Location: CBS Sports
+- Description: The former Boston College and Notre Dame signal caller allegedly stole a rental box truck from a hospital valet garage and was tracked down by police using GPS
 
 
-### HOMICIDE on 2026-09-21 15:56
-- Location: BBC News
-- Description: The raids across Teesside follow the A66 crash which killed two police officers and five men.
+### OTHER on 2026-09-21 16:32
+- Location: HuffPost
+- Description: Dutch officials have been notified the administration’s sanctions are imminent and are looking at ways to help keep the global tribunal operating.
 
 
-### OTHER on 2026-09-21 15:54
-- Location: What's on Netflix
-- Description: Production is underway on 'À Cran,' a high-stakes Netflix crime thriller about a police officer forced to investigate her own crime.
-
-
-### OTHER on 2026-09-21 15:37
+### ASSAULT on 2026-09-21 16:20
 - Location: The Punch
-- Description: Stakeholders in Sokoto State call for responsible journalism, inclusion, and collaboration to strengthen peace and prevent conflict ahead of the 2027 elect
+- Description: Students of Taraba State College of Nursing Sciences, Jalingo, have protested over an attack on a female hostel where a student was allegedly raped.
 
-Read More: https://punchng.com/stakeholders-seek-responsible-journalism-inclusion-to-curb-conflict-in-…
+Read More: https://punchng.com/taraba-nursing-students-protest-over-hostel-attack-rape-claim/
 
 
-### HOMICIDE on 2026-09-21 15:35
-- Location: The Times of India
-- Description: Bengaluru police arrest 18-year-old Edukondalu in Andhra Pradesh as second accused in 13-year-old Prajwal’s kidnap-murder; prime suspect held.
+### HOMICIDE on 2026-09-21 16:20
+- Location: Haaretz
+- Description: A police officer and a man were wounded in an exchange of gunfire near a synagogue in Canada ■ An Israeli man was killed in a West Bank shooting attack ■ Trump reportedly backtracked strikes on the Houthis in Yemen
 
-Analysis generated at: Tue Sep 22 16:07:30 UTC 2026
+
+### HOMICIDE on 2026-09-21 16:16
+- Location: CBS News
+- Description: The discovery of the nine bodies has fueled fear and anger, as authorities investigate whether a serial killer or killers were responsible.
+
+Analysis generated at: Tue Sep 22 16:39:17 UTC 2026
