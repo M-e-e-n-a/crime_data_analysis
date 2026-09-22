@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Sep 22 04:10:31 UTC 2026
+Last updated: Tue Sep 22 10:48:09 UTC 2026
 
 ## Latest Analysis
 
-Loaded 133788 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-21 04:00:00
+Loaded 133845 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-21 10:29:04
 
 Incidents by source:
 source
-newsapi           133687
+newsapi           133744
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,70 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-09-21 04:00
-- Location: Americanthinker.com
-- Description: By J.R. DunnEven the most rabid feminists made no effort, following the Lindsay Clancy trial, to claim a double standard in the way men are treated for the same crime. They didn’t claim that because it would have been too stupid even for them.
+### OTHER on 2026-09-21 10:29
+- Location: Nakedcapitalism.com
+- Description: Naked Capitalism rose to the challenge of 2026 breakdowns with steely-eyed coverage. Give generously to keep us unbought and unbossed.
 
 
-### OTHER on 2026-09-21 04:00
-- Location: Americanthinker.com
-- Description: By Eric UtterIf you must act like you’re living under Sharia Law, you are effectively living under Sharia Law.
+### ROBBERY/THEFT on 2026-09-21 10:28
+- Location: Newser
+- Description: Far north Queensland's hives are facing a new threat: bee thieves. An estimated 800,000 bees making up 44 colonies have been taken from three properties west of Cairns, in what apiarist Tom Bidner describes as the biggest theft in memory, per the Guardian . R…
 
 
-### OTHER on 2026-09-21 04:00
-- Location: Human Rights Watch
-- Description: Click to expand Image
- 
+### OTHER on 2026-09-21 10:17
+- Location: The Times of India
+- Description: Rubina Dilaik's emotional victory in a daunting Khatron Ke Khiladi task showcased her remarkable resilience as she shared her journey of reclaiming confidence post-motherhood. Grateful for Rohit Shetty's supportive guidance, she successfully executed a height…
 
 
-
- 
- 
- 
-
- 
- 
- 
- 
- United Nations headquarters in New York City, December 2020.
- © 2020 zz/STRF/STAR MAX/IPx via AP Photo 
- 
- 
+### HOMICIDE on 2026-09-21 10:17
+- Location: Mediatakeout.com
+- Description: Authorities say there were no obvious signs of trauma or foul play at the Atlanta home where B2K singer Raz B and wife Mona Li’s 3-month-old son, Astro Monte Thornton, died earlier this month. Atlanta police were called to the home shortly after 8 a.m. on Sep…
 
 
- 
-World leaders at the annual meeting of the United Nations General Assembly in New York City from Septemb…
+### HOMICIDE on 2026-09-21 10:14
+- Location: The Times of India
+- Description: In a tragic turn of events, a 23-year-old named Chetan Sawant has been arrested for the murder of Shrikant Jadhav in Kandivali East. The two were socializing with friends when Jadhav's teasing sparked a heated argument. In a fit of rage, Sawant stabbed Jadhav…
 
-
-### OTHER on 2026-09-21 04:00
-- Location: Americanthinker.com
-- Description: Photo Credit:
- 
- AIBy Jack GleasonIt doesn’t have to be this way, but seeing the truth and voting intelligently can set us free.
-
-
-### OTHER on 2026-09-21 04:00
-- Location: Human Rights Watch
-- Description: Click to expand Image
- 
-
-
-
- 
- 
- 
-
- 
- 
- 
- 
- Haitians deported from the United States disembark from a charter flight at Cap-Haïtien International Airport, Haiti, August 27, 2026.
- © 2026 Human Rights Watch 
- 
- 
-
-
- 
-(Washington, DC) – Since ending Temporary Pro…
-
-Analysis generated at: Tue Sep 22 04:10:31 UTC 2026
+Analysis generated at: Tue Sep 22 10:48:09 UTC 2026
