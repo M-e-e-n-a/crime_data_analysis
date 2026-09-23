@@ -1,10 +1,10 @@
 
-Loaded 134070 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-22 02:51:12
+Loaded 134081 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-22 03:58:56
 
 Incidents by source:
 source
-newsapi           133969
+newsapi           133980
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-09-22 02:51
-- Location: Streetsblog.org
-- Description: And about half of trade waste trucks in the city have been exempted because "the design or operation of the vehicle" makes it too challenging to install the after-market safety feature. Huh?
+### ROBBERY/THEFT on 2026-09-22 03:58
+- Location: New Zealand Herald
+- Description: A man and woman, both 37, were to appear in Whanganui District Court on Tuesday.
 
 
-### HOMICIDE on 2026-09-22 02:44
-- Location: Al Jazeera English
-- Description: British Columbia lawsuit implicates ChatGPT, claiming tech firm ignored deadly threats and demanding safety overhauls.
-
-
-### OTHER on 2026-09-22 02:38
+### OTHER on 2026-09-22 03:52
 - Location: The Times of India
-- Description: Darshan Solanki's father was detained by Powai police on Monday. He was protesting caste discrimination on the IIT-B campus. The father sought a meeting with the IIT-B director to discuss suicide prevention steps. Protesters were denied entry, and one alleged…
+- Description: A 40-year-old man died and his wife was injured after a Thar SUV collided with their scooter. The accident occurred in the Bisrakh police station area on Monday. Neeraj succumbed to his injuries during treatment at a hospital. Police have taken the Thar SUV i…
 
 
-### HOMICIDE on 2026-09-22 02:10
+### OTHER on 2026-09-22 03:52
+- Location: Freerepublic.com
+- Description: Since the Trump Justice Department warned state and local election officials that they could be charged with allowing fraudulent voting activities, more than 200 arrests and indictments have been secured in a crackdown on election fraud and noncitizen voting,…
+
+
+### HOMICIDE on 2026-09-22 03:48
+- Location: ABC News (AU)
+- Description: Former Sydney police officer Beau Lamarre-Condon will argue he acted in self defence on the day he is accused of murdering Jesse Baird and Luke Davies, with his defence team telling a jury the couple was killed during two struggles involving a police pistol.
+
+
+### ROBBERY/THEFT on 2026-09-22 03:41
 - Location: The Times of India
-- Description: A 35-year-old police constable died by suicide late Sunday evening. He was attached to the Armed Reserve of Malkajgiri commissionerate. The constable reportedly called his fiancée before taking the extreme step. Police are probing the exact cause of his death…
+- Description: Canadian police are winding down the Air India Flight 182 bombing investigation. Families of victims expressed shock and dismay after receiving this news. Investigators stated that all available leads have been exhausted for the long-running probe. While the …
 
-
-### OTHER on 2026-09-22 02:03
-- Location: Lifesciencesworld.com
-- Description: Should You Leave Keys in the Door at Night? Security Expert Weighs In Should you leave keys in the door at night? The definitive answer, as a security professional would advise, is generally no. Leaving keys in the door provides easy access for potential intr…
-
-Analysis generated at: Wed Sep 23 02:51:44 UTC 2026
+Analysis generated at: Wed Sep 23 04:06:39 UTC 2026
