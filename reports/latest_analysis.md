@@ -1,10 +1,10 @@
 
-Loaded 134043 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-21 20:47:37
+Loaded 134070 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-22 02:51:12
 
 Incidents by source:
 source
-newsapi           133942
+newsapi           133969
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,30 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-09-21 20:47
-- Location: Dailymail.com
-- Description: A man has been charged after an 11-year-old boy was shot in the face inside a home in Sydney's northwest.
+### OTHER on 2026-09-22 02:51
+- Location: Streetsblog.org
+- Description: And about half of trade waste trucks in the city have been exempted because "the design or operation of the vehicle" makes it too challenging to install the after-market safety feature. Huh?
 
 
-### SHOOTING on 2026-09-21 20:45
-- Location: Daily Signal
-- Description: On Sunday, a Venezuelan national was shot and injured by a U.S. Immigration and Customs Enforcement agent after the Department of Homeland Security said he fled on foot before getting in a car to flee agents. Wilber Rafael Garces Perez, 28, was living in Aust…
+### HOMICIDE on 2026-09-22 02:44
+- Location: Al Jazeera English
+- Description: British Columbia lawsuit implicates ChatGPT, claiming tech firm ignored deadly threats and demanding safety overhauls.
 
 
-### ASSAULT on 2026-09-21 20:39
-- Location: New York Post
-- Description: "They're giving this bully a slap on the wrist every time. It's insane to happen that many times. God forbid she gets released again. What's going to happen? What is she capable of?"
+### OTHER on 2026-09-22 02:38
+- Location: The Times of India
+- Description: Darshan Solanki's father was detained by Powai police on Monday. He was protesting caste discrimination on the IIT-B campus. The father sought a meeting with the IIT-B director to discuss suicide prevention steps. Protesters were denied entry, and one alleged…
 
 
-### HOMICIDE on 2026-09-21 20:38
-- Location: Breitbart News
-- Description: U.S. Attorney for the Southern District of Florida Jason Reding Quinones announced on Sunday that 18 suspects in the July 2021 murder of Haitian President Jovenel Moïse have been extradited to the United States to stand trial in Florida.
-The post Haiti Extrad…
+### HOMICIDE on 2026-09-22 02:10
+- Location: The Times of India
+- Description: A 35-year-old police constable died by suicide late Sunday evening. He was attached to the Armed Reserve of Malkajgiri commissionerate. The constable reportedly called his fiancée before taking the extreme step. Police are probing the exact cause of his death…
 
 
-### SHOOTING on 2026-09-21 20:37
-- Location: Crypto Briefing
-- Description: The lawsuit against OpenAI highlights the ethical and legal challenges tech companies face when balancing safety protocols with business interests.
-The post British Columbia sues OpenAI over failure to warn police before mass shooting appeared first on Crypto…
+### OTHER on 2026-09-22 02:03
+- Location: Lifesciencesworld.com
+- Description: Should You Leave Keys in the Door at Night? Security Expert Weighs In Should you leave keys in the door at night? The definitive answer, as a security professional would advise, is generally no. Leaving keys in the door provides easy access for potential intr…
 
-Analysis generated at: Tue Sep 22 20:48:08 UTC 2026
+Analysis generated at: Wed Sep 23 02:51:44 UTC 2026
