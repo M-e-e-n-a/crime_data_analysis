@@ -1,10 +1,10 @@
 
-Loaded 134159 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-22 10:30:42
+Loaded 134258 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-22 15:55:00
 
 Incidents by source:
 source
-newsapi           134058
+newsapi           134157
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2026-09-22 10:30
-- Location: Al Jazeera English
-- Description: Washington justifies the attacks as necessary to halt the flow of lethal drugs into the US.
+### SHOOTING on 2026-09-22 15:55
+- Location: Ewtnnews.com
+- Description: Bishop Garcia asked for prayers for the man who was shot and “all who have been involved,” asking for government authorities to be “transparent and honest about what occurred.”
 
 
-### SHOOTING on 2026-09-22 10:25
-- Location: New York Post
-- Description: A high school student in Turkey opened fire on their fellow pupils on Tuesday, injuring at least 11.
+### HOMICIDE on 2026-09-22 15:53
+- Location: Dailymail.com
+- Description: Travionna Christine Johnson, 23, is facing two felony charges over the death of her eight-year-old non-verbal daughter.
 
 
-### SHOOTING on 2026-09-22 10:18
+### OTHER on 2026-09-22 15:52
+- Location: Radaronline.com
+- Description: During a recent episode of his podcast, Bill Maher weighed in on Donald Trump's crackdown on illegal immigration.
+
+
+### ROBBERY/THEFT on 2026-09-22 15:50
+- Location: The Conversation Africa
+- Description: It can become a way for gamers who haven’t previously shunned politics to engage.
+
+
+### ROBBERY/THEFT on 2026-09-22 15:38
 - Location: The Times of India
-- Description: Sakinakyacha Maharaja in Andheri East received a 350kg sugar-free modak, claimed to be India’s largest, on Monday. Created by chef Harsh Kedia, the 4.5ft-tall modak was later distributed among devotees as prasad. The mandal’s over-42ft idol has also been reco…
+- Description: An unidentified thief broke into a police constable's apartment in Agroli village. The burglary occurred while the constable and his wife were away on duty. The suspect stole gold jewellery and cash valued at approximately Rs 3.5 lakh. The thief reportedly fo…
 
-
-### HOMICIDE on 2026-09-22 10:17
-- Location: CBC News
-- Description: A jury on Monday convicted a Vermont man of attempted murder in the shootings of three Palestinian college students who were walking near his home, rejecting an insanity defence rooted in his claims that he was acting on orders from U.S. and Israeli intellige…
-
-
-### OTHER on 2026-09-22 10:15
-- Location: The Times of India
-- Description: Eye Within Art’s second online auction, The Autumn Palette, features rare works by Indian modern and contemporary masters including Jamini Roy, Sunil Das, Ganesh Pyne and Lalu Prasad Shaw. The hybrid auction includes a Kolkata preview and global digital biddi…
-
-Analysis generated at: Wed Sep 23 10:38:01 UTC 2026
+Analysis generated at: Wed Sep 23 15:58:52 UTC 2026
