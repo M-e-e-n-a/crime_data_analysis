@@ -1,10 +1,10 @@
 
-Loaded 134366 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-22 20:46:32
+Loaded 134385 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-23 02:00:11
 
 Incidents by source:
 source
-newsapi           134265
+newsapi           134284
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,32 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-09-22 20:46
-- Location: Dailymail.com
-- Description: Dr Vincent Brown, formerly known as Dr Vincent Bajinya, is accused of being a 'leader' or 'supervisor' of violent acts allegedly carried out by other people during the bloodshed.
+### OTHER on 2026-09-23 02:00
+- Location: Al Jazeera English
+- Description: President's move clears hurdles to long delayed election and raises concern he can now wield unchecked power.
 
 
-### OTHER on 2026-09-22 20:45
-- Location: NBC News
-- Description: The media ban has dominated the news cycle for days, and rather than steer the conversation back to economic issues, has Trump amplified the furor.
+### SHOOTING on 2026-09-23 01:52
+- Location: The Punch
+- Description: The Delta State Police Command has arrested five suspects in separate operations and recovered guns, vehicles, and numerous suspected stolen items.
+
+Read More: https://punchng.com/police-raid-suspected-delta-crime-den-arrest-five/
 
 
-### OTHER on 2026-09-22 20:38
-- Location: Knowyourmeme.com
-- Description: "Oh, No, No, No," E-Bike Accident Audio refers to a TikTok audio derived from a video by YouTuber PhethanFix in which he sees an e-bike rider fall off his bike while doing a trick and shouts, "Oh, no, no, no, no," repeatedly, before stopping to help the falle…
+### HOMICIDE on 2026-09-23 01:52
+- Location: The Punch
+- Description: Police in Enugu have arrested a 30-year-old man for allegedly killing his girlfriend and hiding her body following an argument over HIV infection.
+
+Read More: https://punchng.com/enugu-man-allegedly-kills-girlfriend-over-hiv-infection-argument/
 
 
-### OTHER on 2026-09-22 20:35
-- Location: Raw Story
-- Description: CNN fact-checker Daniel Dale ripped apart several claims President Donald Trump made during his Tuesday address to the United Nations — including his dismissal of warnings that the United States faces a munitions shortage. “The cowards and traitors would love…
+### OTHER on 2026-09-23 01:32
+- Location: Ibtimes.com.au
+- Description: As the search for Nancy Guthrie continues without a publicly identified suspect, debate is growing over whether civilians should distribute flyers featuring the unidentified man known online as "Porch Guy".
 
 
-### HOMICIDE on 2026-09-22 20:32
-- Location: Dailymail.com
-- Description: The 21-year-old killer dejectedly entered a Manhattan courtroom on Tuesday as he prepared to admit to killing Michelin star sommelier Vernard Floranda, 46, in 2024.
+### SHOOTING on 2026-09-23 01:09
+- Location: Israelnationalnews.com
+- Description: The man suspected of opening fire on a police officer outside a Belleville synagogue has died.
 
-Analysis generated at: Wed Sep 23 20:59:35 UTC 2026
+Analysis generated at: Thu Sep 24 02:41:50 UTC 2026
