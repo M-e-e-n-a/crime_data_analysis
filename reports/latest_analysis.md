@@ -1,10 +1,10 @@
 
-Loaded 134571 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-23 16:50:43
+Loaded 134670 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-23 21:02:54
 
 Incidents by source:
 source
-newsapi           134470
+newsapi           134569
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-09-23 16:50
-- Location: Dailymail.com
-- Description: On Wednesday morning, the Ada County Sheriff's Office (ACSO) held a press conference, revealing that the unidentified man was Dr. Mathew Francis Betkouski.
+### OTHER on 2026-09-23 21:02
+- Location: GamesRadar+
+- Description: Exclusive: Lance Oppenheim talks the "real-life horror-comedy" being Primetime
 
 
-### HOMICIDE on 2026-09-23 16:41
-- Location: CBC News
-- Description: Ontario Provincial Police (OPP) have named the victim of a July homicide near Prescott and announced six charges against a suspect from the same community.
+### OTHER on 2026-09-23 21:02
+- Location: National Post
+- Description: Some who delivered victim impact statements looked Law in the eye, with one man warning he would be vigilant in case Law ever tried to sell poison again
 
 
-### OTHER on 2026-09-23 16:32
-- Location: Breitbart News
-- Description: A local uprising of residents in the English town of Gosport forced the rerouting of an illegal migrant from landing on their shores.
-The post People Power: Local Protesters Successfully Block Illegal Migrant Boat From Landing in Gosport appeared first on Bre…
+### OTHER on 2026-09-23 21:01
+- Location: The Sydney Morning Herald
+- Description: The government is aware three other systems that may be affected, the Australian Institute of Health and Welfare, the NSW Bureau of Crime Statistics and Research, and the Victorian Department of Health.
 
 
-### HOMICIDE on 2026-09-23 16:28
-- Location: NBC News
-- Description: Jackson police have arrested a second man in the death of Tasia Fortune and obtained an arrest warrant for a third suspect.
+### OTHER on 2026-09-23 21:00
+- Location: Anime News Network
+- Description: Game gets Switch release at later date // Japanese developer Lobstudio announced on Wednesday that its upcoming Zombie Police: Midsummer Unhappy New Year comedy-mystery...
 
 
-### HOMICIDE on 2026-09-23 16:18
-- Location: Dailymail.com
-- Description: Seattle's assistant police chief has asserted that he was ready to give a press conference more than three hours before the mayor finally spoke to the media, but was told to wait for her.
+### OTHER on 2026-09-23 20:57
+- Location: New York Post
+- Description: Aurora James — who created AOC’s infamous “Tax the Rich” Met Gala gown — is being sued for $1 million for allegedly stiffing the event planners of her celebrity mega bash, The Post can reveal…
 
-Analysis generated at: Thu Sep 24 16:51:58 UTC 2026
+Analysis generated at: Thu Sep 24 21:04:10 UTC 2026
