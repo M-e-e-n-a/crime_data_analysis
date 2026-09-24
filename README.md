@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Sep 24 02:41:50 UTC 2026
+Last updated: Thu Sep 24 04:02:04 UTC 2026
 
 ## Latest Analysis
 
-Loaded 134385 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-23 02:00:11
+Loaded 134397 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-23 04:00:00
 
 Incidents by source:
 source
-newsapi           134284
+newsapi           134296
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,32 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-09-23 02:00
-- Location: Al Jazeera English
-- Description: President's move clears hurdles to long delayed election and raises concern he can now wield unchecked power.
+### OTHER on 2026-09-23 04:00
+- Location: Americanthinker.com
+- Description: By Silvio Canto, Jr.Meanwhile, in Austin, Texas, the city was brought to a halt by protesters waving Mexico's flag.
 
 
-### SHOOTING on 2026-09-23 01:52
-- Location: The Punch
-- Description: The Delta State Police Command has arrested five suspects in separate operations and recovered guns, vehicles, and numerous suspected stolen items.
-
-Read More: https://punchng.com/police-raid-suspected-delta-crime-den-arrest-five/
+### ROBBERY/THEFT on 2026-09-23 04:00
+- Location: Americanthinker.com
+- Description: By Matthew G. AnderssonFighting with a drone is like arguing on social media: it's too easy and nobody wins.
 
 
-### HOMICIDE on 2026-09-23 01:52
-- Location: The Punch
-- Description: Police in Enugu have arrested a 30-year-old man for allegedly killing his girlfriend and hiding her body following an argument over HIV infection.
-
-Read More: https://punchng.com/enugu-man-allegedly-kills-girlfriend-over-hiv-infection-argument/
+### OTHER on 2026-09-23 03:55
+- Location: CNA
+- Description: Cambodia is seeking to showcase its crackdown on an industry where trafficking victims have been forced to carry out online fraud.
 
 
-### OTHER on 2026-09-23 01:32
-- Location: Ibtimes.com.au
-- Description: As the search for Nancy Guthrie continues without a publicly identified suspect, debate is growing over whether civilians should distribute flyers featuring the unidentified man known online as "Porch Guy".
+### OTHER on 2026-09-23 03:39
+- Location: ABC News (AU)
+- Description: A police officer tells a court the jumping castle tragedy at Hillcrest Primary School in 2021 was like nothing he had seen in almost 30 years in the service.
 
 
-### SHOOTING on 2026-09-23 01:09
-- Location: Israelnationalnews.com
-- Description: The man suspected of opening fire on a police officer outside a Belleville synagogue has died.
+### HOMICIDE on 2026-09-23 03:21
+- Location: Fox News
+- Description: Jeremy Porter was charged with capital murder after police said he killed 5-year-old Zah'Layah Walter in a roadway shooting in northwest Harris County.
 
-Analysis generated at: Thu Sep 24 02:41:50 UTC 2026
+Analysis generated at: Thu Sep 24 04:02:04 UTC 2026
