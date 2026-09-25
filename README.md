@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Sep 25 02:59:08 UTC 2026
+Last updated: Fri Sep 25 04:15:32 UTC 2026
 
 ## Latest Analysis
 
-Loaded 134682 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-24 02:27:09
+Loaded 134689 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-24 04:09:06
 
 Incidents by source:
 source
-newsapi           134581
+newsapi           134588
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-09-24 02:27
-- Location: The Conversation Africa
-- Description: Following the deaths of two older women in alleged family violence incidents, it’s time to examine how crime affects older Australians – and what we can do about it.
+### OTHER on 2026-09-24 04:09
+- Location: Israelnationalnews.com
+- Description: How "Lavender" as an AI-Driven Targeting System became an inevitable appurtenance in the Gaza Conflict. And why. Op-ed.
 
 
-### DRUG RELATED on 2026-09-24 02:23
-- Location: Antaranews.com
-- Description: The Indonesian National Narcotics Agency (BNN) and Australian Federal Police (AFP) have extended their law enforcement partnership through 2031 to combat ...
+### OTHER on 2026-09-24 03:59
+- Location: Freerepublic.com
+- Description: A Republican can’t win, Becerra is already governor, and the remaining issue is Steve Hilton’s accent On Flagrant and Funny with Jemele Hill and Cari Champion, Mayor Karen Bass did California the courtesy of canceling November. “That’s why the governor’s race…
 
 
-### SHOOTING on 2026-09-24 02:07
-- Location: Fox News
-- Description: Jose Santiago Pantoja-Morales allegedly grabbed a Dallas ISD officer's gun during a struggle and shot him in the femoral artery near LBJ Freeway.
+### OTHER on 2026-09-24 03:54
+- Location: Israelnationalnews.com
+- Description: NYC Mayor Zohran Mamdani faces criticism for his silence on Iran’s president while repeatedly calling Netanyahu a “war criminal."
 
 
-### OTHER on 2026-09-24 01:48
-- Location: The Times of India
-- Description: Residents of Sriniwaspuri Extension have voiced their unease concerning two brothers allegedly involved in a gang rape. Locals described the brothers as unfriendly and noted their absence from any visible work. The police revealed that, along with an accompli…
+### OTHER on 2026-09-24 03:52
+- Location: Freerepublic.com
+- Description: There is a decisive shift occurring in European politics. It’s happening across nations – and parties. It lies behind the far-right Alternative für Deutschland’s victory in the Saxony-Anhalt state election last weekend. And it is the under-reported factor in …
 
 
-### OTHER on 2026-09-24 01:38
-- Location: The Times of India
-- Description: Daayra, starring Kareena Kapoor Khan and Prithviraj Sukumaran, is facing difficulties at the box office, amid new releases. Despite this, the film has received praises for its lead performances and direction. Read on to know more about its digital release aft…
+### HOMICIDE on 2026-09-24 03:39
+- Location: ABC News (AU)
+- Description: A jury has been shown footage of former Sydney police officer Beau Lamarre-Condon buying a surfboard bag prior to the alleged murders of Jesse Baird and Luke Davies, which prosecutors allege he planned to use to dispose of Mr Baird's body.
 
-Analysis generated at: Fri Sep 25 02:59:08 UTC 2026
+Analysis generated at: Fri Sep 25 04:15:32 UTC 2026
