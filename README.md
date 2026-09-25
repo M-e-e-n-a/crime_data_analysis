@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Sep 25 04:15:32 UTC 2026
+Last updated: Fri Sep 25 10:59:58 UTC 2026
 
 ## Latest Analysis
 
-Loaded 134689 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-24 04:09:06
+Loaded 134766 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-24 10:59:29
 
 Incidents by source:
 source
-newsapi           134588
+newsapi           134665
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-09-24 04:09
-- Location: Israelnationalnews.com
-- Description: How "Lavender" as an AI-Driven Targeting System became an inevitable appurtenance in the Gaza Conflict. And why. Op-ed.
+### OTHER on 2026-09-24 10:59
+- Location: Dailymail.com
+- Description: Victims have told how they were left in agonising paid after being 'butchered' and 'mutilated' by surgeons, with at least 20 women known to have been subjected to mastectomies they did not need.
 
 
-### OTHER on 2026-09-24 03:59
-- Location: Freerepublic.com
-- Description: A Republican can’t win, Becerra is already governor, and the remaining issue is Steve Hilton’s accent On Flagrant and Funny with Jemele Hill and Cari Champion, Mayor Karen Bass did California the courtesy of canceling November. “That’s why the governor’s race…
+### ASSAULT on 2026-09-24 10:55
+- Location: Nakedcapitalism.com
+- Description: Our watchful daily links, including spooks warn of Russian drone attacks on Europe, Xi in DC, 'blind' food crisis, and end of the NGO age.
 
 
-### OTHER on 2026-09-24 03:54
-- Location: Israelnationalnews.com
-- Description: NYC Mayor Zohran Mamdani faces criticism for his silence on Iran’s president while repeatedly calling Netanyahu a “war criminal."
+### ROBBERY/THEFT on 2026-09-24 10:55
+- Location: Twistedsifter.com
+- Description: The nanny is lucky to not have to deal with this crazy person anymore.
+The post Her Nanny Was Asked To Keep An Eye On A Car, So When It Got Stolen, She Got Blamed And Fired appeared first on TwistedSifter.
 
 
-### OTHER on 2026-09-24 03:52
-- Location: Freerepublic.com
-- Description: There is a decisive shift occurring in European politics. It’s happening across nations – and parties. It lies behind the far-right Alternative für Deutschland’s victory in the Saxony-Anhalt state election last weekend. And it is the under-reported factor in …
+### ROBBERY/THEFT on 2026-09-24 10:37
+- Location: The Times of India
+- Description: Youth Congress president Uday Bhanu Chib demanded the arrest of IIT Bombay director Shireesh Kedare and professor Suryanarayana Doolla over the alleged suicide of student Sahil Wakode. Chib sought an impartial probe, alleging caste-based and mental harassment…
 
 
-### HOMICIDE on 2026-09-24 03:39
-- Location: ABC News (AU)
-- Description: A jury has been shown footage of former Sydney police officer Beau Lamarre-Condon buying a surfboard bag prior to the alleged murders of Jesse Baird and Luke Davies, which prosecutors allege he planned to use to dispose of Mr Baird's body.
+### OTHER on 2026-09-24 10:35
+- Location: Www.gov.uk
+- Description: New agreement will boost intelligence sharing between UK and Cambodian law enforcement to dismantle scam operations.
 
-Analysis generated at: Fri Sep 25 04:15:32 UTC 2026
+Analysis generated at: Fri Sep 25 10:59:57 UTC 2026
