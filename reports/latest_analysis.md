@@ -1,10 +1,10 @@
 
-Loaded 134766 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-24 10:59:29
+Loaded 134839 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-24 16:19:12
 
 Incidents by source:
 source
-newsapi           134665
+newsapi           134738
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-09-24 10:59
+### HOMICIDE on 2026-09-24 16:19
 - Location: Dailymail.com
-- Description: Victims have told how they were left in agonising paid after being 'butchered' and 'mutilated' by surgeons, with at least 20 women known to have been subjected to mastectomies they did not need.
+- Description: Christa Pike, 50, is set to be the first woman executed in Tennessee in over 200 years on September 30.
 
 
-### ASSAULT on 2026-09-24 10:55
-- Location: Nakedcapitalism.com
-- Description: Our watchful daily links, including spooks warn of Russian drone attacks on Europe, Xi in DC, 'blind' food crisis, and end of the NGO age.
+### OTHER on 2026-09-24 16:14
+- Location: fox6now.com
+- Description: Green Bay Packers running back Josh Jacobs, convicted and fined in a misdemeanor battery case, had a status conference in Brown County court on Sept. 24.
 
 
-### ROBBERY/THEFT on 2026-09-24 10:55
-- Location: Twistedsifter.com
-- Description: The nanny is lucky to not have to deal with this crazy person anymore.
-The post Her Nanny Was Asked To Keep An Eye On A Car, So When It Got Stolen, She Got Blamed And Fired appeared first on TwistedSifter.
+### OTHER on 2026-09-24 16:11
+- Location: PRNewswire
+- Description: Justice for Fraud Victims, Inc. will provide prosecutors with no-cost forensic accounting expertise while giving UMD students hands-on experience in financial investigations HOWARD COUNTY, Md., Sept. 24, 2026 /PRNewswire/ -- The Office of the State's Attorney…
 
 
-### ROBBERY/THEFT on 2026-09-24 10:37
-- Location: The Times of India
-- Description: Youth Congress president Uday Bhanu Chib demanded the arrest of IIT Bombay director Shireesh Kedare and professor Suryanarayana Doolla over the alleged suicide of student Sahil Wakode. Chib sought an impartial probe, alleging caste-based and mental harassment…
+### OTHER on 2026-09-24 16:10
+- Location: ARTnews
+- Description: The city, which boasts an international reputation for street art, including producing the artist Banksy, received strong pushback from its local arts community.
 
 
-### OTHER on 2026-09-24 10:35
-- Location: Www.gov.uk
-- Description: New agreement will boost intelligence sharing between UK and Cambodian law enforcement to dismantle scam operations.
+### SHOOTING on 2026-09-24 16:05
+- Location: LancasterOnline
+- Description: An Earl Township farmer who bred dogs admitted shooting four puppies that he was unable to sell and will spend seven years on probation.
 
-Analysis generated at: Fri Sep 25 10:59:57 UTC 2026
+Analysis generated at: Fri Sep 25 16:20:36 UTC 2026
