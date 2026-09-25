@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Sep 25 16:56:46 UTC 2026
+Last updated: Fri Sep 25 21:00:43 UTC 2026
 
 ## Latest Analysis
 
-Loaded 134863 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-24 16:56:06
+Loaded 134942 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-24 20:57:33
 
 Incidents by source:
 source
-newsapi           134762
+newsapi           134841
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2026-09-24 16:56
-- Location: The Times of India
-- Description: Thrissur DIG ordered to probe Harrisons Malayalam estate employee Manjusha’s suicide in Palappilly; minister Ramesh Chennithala promises action.
+### ASSAULT on 2026-09-24 20:57
+- Location: Dailymail.com
+- Description: The four masked teens in Massachusetts who stormed a McDonald's drive-thru and attacked a worker are facing hate crime charges, police said.
 
 
-### ASSAULT on 2026-09-24 16:53
-- Location: The Times of India
-- Description: A married woman named Heena Bhil was allegedly set on fire by her husband and in-laws in Korwa village. Following the attack, she suffered severe burns and was initially treated in Jaisalmer before being referred to Jodhpur. Unfortunately, despite efforts to …
+### HOMICIDE on 2026-09-24 20:45
+- Location: LancasterOnline
+- Description: A Lebanon County man accused of watching a video on his cell phone when he crashed his delivery van into a father who was riding a scooter, killing the man and injuring his two sons, will have his criminal charges…
 
 
-### OTHER on 2026-09-24 16:52
-- Location: The Times of India
-- Description: Former Speaker Ramesh Kumar says HG Govindegowda’s life should guide politicians, urges public to oppose discord, and says politics isn’t a livelihood.
+### OTHER on 2026-09-24 20:44
+- Location: Abcnews.com
+- Description: The 30-second spot includes the disclosure "Paid for by the U.S. Government."
 
 
-### OTHER on 2026-09-24 16:52
-- Location: The Times of India
-- Description: Hassan District Prison built for 250 inmates now holds 334; DGP Alok Kumar says govt proposal submitted for a new prison and some accused shifted to Mysuru.
+### OTHER on 2026-09-24 20:40
+- Location: Reason
+- Description: Sam Altman called for international regulation and "speedy incident reporting" at the U.N. on the same day Australia's prime minister said OpenAI took too long to disclose a breach.
 
 
-### OTHER on 2026-09-24 16:52
-- Location: The Times of India
-- Description: Hassanamba Jatra Mahotsava in Hassan begins Oct 29 with 12 days of public darshan; 14-day festival ends Nov 11, following traditional, low-key plans amid drought.
+### ASSAULT on 2026-09-24 20:39
+- Location: CBC News
+- Description: Kepra Udup Bang, 27, was convicted of aggravated sexual assault earlier this year, for an incident that a justice called "a crime of egregious violence."
 
-Analysis generated at: Fri Sep 25 16:56:46 UTC 2026
+Analysis generated at: Fri Sep 25 21:00:43 UTC 2026
