@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Sep 26 10:40:21 UTC 2026
+Last updated: Sat Sep 26 15:34:50 UTC 2026
 
 ## Latest Analysis
 
-Loaded 135051 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-25 10:33:26
+Loaded 135106 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-25 15:23:25
 
 Incidents by source:
 source
-newsapi           134950
+newsapi           135005
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,29 +24,30 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-09-25 10:33
-- Location: Breitbart News
-- Description: Intelligence investigating fire at a Starlink base that is crucial to providing internet coverage to central Europe and Ukraine.
-The post Poland Says Russia May be Behind ‘Arson’ of Starlink Base Station That Impacted Ukrainian Military Internet appeared firs…
-
-
-### HOMICIDE on 2026-09-25 10:32
+### HOMICIDE on 2026-09-25 15:23
 - Location: The Times of India
-- Description: Newly uncovered documents hint at a shocking possibility: Adolf Hitler could have been present during the tragic death of his niece, Geli Raubal, who was found lifeless from a gunshot that reportedly came from Hitler's own weapon. Historian Harald Sandner has…
+- Description: A 48-year-old man named Lalit was arrested after evading police for nearly 32 years. He was wanted in a double murder and robbery case involving two sadhvis at an ashram in Delhi. Lalit worked in various jobs under a false identity until his recent capture at…
 
 
-### ROBBERY/THEFT on 2026-09-25 10:28
-- Location: The Times of India
-- Description: A incident of alleged theft surfaced in Miami where a woman was arrested on suspicion of stealing valuable watches after a dinner date. The victim realized he was missing two watches, including a Rolex priced at $37,000, after returning home. Police reviewed …
+### HOMICIDE on 2026-09-25 15:15
+- Location: Dailymail.com
+- Description: The 16-year-old, who cannot be named for legal reasons, allegedly claimed he was 'not like other mass murderers' because of his general 'hatred of society'.
 
 
-### OTHER on 2026-09-25 10:17
-- Location: The Times of India
-- Description: Congress MP Pawan Khera on Friday accused the Centre of being “anti-Constitution” and alleged that the Special Intensive Revision (SIR) of electoral rolls had led to large-scale voter disenfranchisement. He claimed over 13 crore voters had been disenfranchise…
+### OTHER on 2026-09-25 15:10
+- Location: Popular Science
+- Description: Authorities are urging residents to forget good manners and hang up on suspicious callers.
+The post Sweden’s solution to stop spam callers: Be ruder! appeared first on Popular Science.
 
 
-### SHOOTING on 2026-09-25 10:15
-- Location: Breitbart News
-- Description: Police officers in Belleville, Ontario, confirmed on Thursday the recent shooting at a local synagogue was a “hate-motivated crime,” providing further details on the incident during a press conference. On Sunday night, a man ambushed and opened fire against a…
+### OTHER on 2026-09-25 15:08
+- Location: Sky Sports
+- Description: The Old Firm clubs were ordered to play their next Scottish Cup home ties behind closed doors following crowd trouble at their quarter-final fixture in March; Celtic and Rangers fans clashed on the pitch at Ibrox and 43 people were arrested; an appeal hearing…
 
-Analysis generated at: Sat Sep 26 10:40:20 UTC 2026
+
+### ASSAULT on 2026-09-25 15:05
+- Location: Globalresearch.ca
+- Description: In his recent Twitter spat, Ukraine’s ambassador to South Africa reminded his readership that Ukrainians died fighting Hitler in greater numbers than Americans, French and British combined. He is right. No one in Russia denies the enormous sacrifice of the …
+…
+
+Analysis generated at: Sat Sep 26 15:34:50 UTC 2026
