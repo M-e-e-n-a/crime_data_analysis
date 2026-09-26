@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Sep 26 04:20:29 UTC 2026
+Last updated: Sat Sep 26 10:40:21 UTC 2026
 
 ## Latest Analysis
 
-Loaded 134992 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-25 04:12:32
+Loaded 135051 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-25 10:33:26
 
 Incidents by source:
 source
-newsapi           134891
+newsapi           134950
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,31 +24,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-09-25 04:12
-- Location: Antaranews.com
-- Description: East Java police have uncovered an alleged online investment scam involving stocks and cryptocurrencies, with three suspects and losses of about 12.9 billion ...
+### OTHER on 2026-09-25 10:33
+- Location: Breitbart News
+- Description: Intelligence investigating fire at a Starlink base that is crucial to providing internet coverage to central Europe and Ukraine.
+The post Poland Says Russia May be Behind ‘Arson’ of Starlink Base Station That Impacted Ukrainian Military Internet appeared firs…
 
 
-### OTHER on 2026-09-25 04:01
-- Location: Theamericanscholar.org
-- Description: Three books ponder the never-ending search for utopia
-The post The Allure of Eden on Earth appeared first on The American Scholar.
+### HOMICIDE on 2026-09-25 10:32
+- Location: The Times of India
+- Description: Newly uncovered documents hint at a shocking possibility: Adolf Hitler could have been present during the tragic death of his niece, Geli Raubal, who was found lifeless from a gunshot that reportedly came from Hitler's own weapon. Historian Harald Sandner has…
 
 
-### OTHER on 2026-09-25 04:00
-- Location: Americanthinker.com
-- Description: Photo Credit:
- 
- ChatGPT for American ThinkerBy James ZumwaltFrom Nolan Wells to Tasia Fortune, the race hustlers never let a tragedy go to waste.
+### ROBBERY/THEFT on 2026-09-25 10:28
+- Location: The Times of India
+- Description: A incident of alleged theft surfaced in Miami where a woman was arrested on suspicion of stealing valuable watches after a dinner date. The victim realized he was missing two watches, including a Rolex priced at $37,000, after returning home. Police reviewed …
 
 
-### HOMICIDE on 2026-09-25 03:59
-- Location: Fox News
-- Description: Chukwunonso Eze entered the U.S. on a tourist visa in 2015 and received deferred action under both Biden and Trump before he allegedly killed a UMass Dartmouth football player.
+### OTHER on 2026-09-25 10:17
+- Location: The Times of India
+- Description: Congress MP Pawan Khera on Friday accused the Centre of being “anti-Constitution” and alleged that the Special Intensive Revision (SIR) of electoral rolls had led to large-scale voter disenfranchisement. He claimed over 13 crore voters had been disenfranchise…
 
 
-### ASSAULT on 2026-09-25 03:27
-- Location: NBC News
-- Description: Elijah Hemingway, 32, was found behind a nearby home and arrested in connection with the stabbings of Dr. Idris Evans and his wife.
+### SHOOTING on 2026-09-25 10:15
+- Location: Breitbart News
+- Description: Police officers in Belleville, Ontario, confirmed on Thursday the recent shooting at a local synagogue was a “hate-motivated crime,” providing further details on the incident during a press conference. On Sunday night, a man ambushed and opened fire against a…
 
-Analysis generated at: Sat Sep 26 04:20:29 UTC 2026
+Analysis generated at: Sat Sep 26 10:40:20 UTC 2026
