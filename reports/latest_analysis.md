@@ -1,10 +1,10 @@
 
-Loaded 134979 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-25 03:00:08
+Loaded 134992 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-25 04:12:32
 
 Incidents by source:
 source
-newsapi           134878
+newsapi           134891
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,31 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-09-25 03:00
-- Location: The Times of India
-- Description: BPSC Bihar TRE 4 Recruitment 2026: BPSC has started the online application process for TRE 4.0 today, September 25, 2026, for 32,388 teacher vacancies in Bihar government schools. Candidates can apply until October 26, while the fee payment deadline is Octobe…
+### OTHER on 2026-09-25 04:12
+- Location: Antaranews.com
+- Description: East Java police have uncovered an alleged online investment scam involving stocks and cryptocurrencies, with three suspects and losses of about 12.9 billion ...
 
 
-### OTHER on 2026-09-25 02:54
-- Location: The Times of India
-- Description: Donald Trump and Xi Jinping met at the White House to discuss key issues like trade and artificial intelligence. They agreed to extend their trade truce by two months while significant disputes remain unresolved. Taiwan and its security implications were also…
+### OTHER on 2026-09-25 04:01
+- Location: Theamericanscholar.org
+- Description: Three books ponder the never-ending search for utopia
+The post The Allure of Eden on Earth appeared first on The American Scholar.
 
 
-### ROBBERY/THEFT on 2026-09-25 02:37
-- Location: Bleeding Cool News
-- Description: As we inch closer to the fourth season premiere of Robert King and Michelle King and Showrunner Jonathan Tolins's Carrie Preston and Wendell Pierce-starring Elsbeth on October 8th, we're already looking beyond "CBS Premiere Week." With that in mind, we've add…
+### OTHER on 2026-09-25 04:00
+- Location: Americanthinker.com
+- Description: Photo Credit:
+ 
+ ChatGPT for American ThinkerBy James ZumwaltFrom Nolan Wells to Tasia Fortune, the race hustlers never let a tragedy go to waste.
 
 
-### OTHER on 2026-09-25 02:31
-- Location: The Times of India
-- Description: The Mumbai Crime Branch has recorded statements from 20 individuals related to Sahil Wakode's suicide case. Investigators are examining calls made to and from the deceased student's mobile phone. An inquiry conducted by the National Commission for Scheduled C…
+### HOMICIDE on 2026-09-25 03:59
+- Location: Fox News
+- Description: Chukwunonso Eze entered the U.S. on a tourist visa in 2015 and received deferred action under both Biden and Trump before he allegedly killed a UMass Dartmouth football player.
 
 
-### HOMICIDE on 2026-09-25 02:28
-- Location: The Times of India
-- Description: Presley Gerber tragically passed away at a sober living facility owned by Reza Nabavi in Santa Monica. While the exact cause of death is still under investigation, Nabavi's questionable past—marked by drug-related offenses—has come into focus. After establish…
+### ASSAULT on 2026-09-25 03:27
+- Location: NBC News
+- Description: Elijah Hemingway, 32, was found behind a nearby home and arrested in connection with the stabbings of Dr. Idris Evans and his wife.
 
-Analysis generated at: Sat Sep 26 03:04:23 UTC 2026
+Analysis generated at: Sat Sep 26 04:20:29 UTC 2026
