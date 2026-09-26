@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Sep 25 21:00:43 UTC 2026
+Last updated: Sat Sep 26 03:04:23 UTC 2026
 
 ## Latest Analysis
 
-Loaded 134942 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-24 20:57:33
+Loaded 134979 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-25 03:00:08
 
 Incidents by source:
 source
-newsapi           134841
+newsapi           134878
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2026-09-24 20:57
-- Location: Dailymail.com
-- Description: The four masked teens in Massachusetts who stormed a McDonald's drive-thru and attacked a worker are facing hate crime charges, police said.
+### HOMICIDE on 2026-09-25 03:00
+- Location: The Times of India
+- Description: BPSC Bihar TRE 4 Recruitment 2026: BPSC has started the online application process for TRE 4.0 today, September 25, 2026, for 32,388 teacher vacancies in Bihar government schools. Candidates can apply until October 26, while the fee payment deadline is Octobe…
 
 
-### HOMICIDE on 2026-09-24 20:45
-- Location: LancasterOnline
-- Description: A Lebanon County man accused of watching a video on his cell phone when he crashed his delivery van into a father who was riding a scooter, killing the man and injuring his two sons, will have his criminal charges…
+### OTHER on 2026-09-25 02:54
+- Location: The Times of India
+- Description: Donald Trump and Xi Jinping met at the White House to discuss key issues like trade and artificial intelligence. They agreed to extend their trade truce by two months while significant disputes remain unresolved. Taiwan and its security implications were also…
 
 
-### OTHER on 2026-09-24 20:44
-- Location: Abcnews.com
-- Description: The 30-second spot includes the disclosure "Paid for by the U.S. Government."
+### ROBBERY/THEFT on 2026-09-25 02:37
+- Location: Bleeding Cool News
+- Description: As we inch closer to the fourth season premiere of Robert King and Michelle King and Showrunner Jonathan Tolins's Carrie Preston and Wendell Pierce-starring Elsbeth on October 8th, we're already looking beyond "CBS Premiere Week." With that in mind, we've add…
 
 
-### OTHER on 2026-09-24 20:40
-- Location: Reason
-- Description: Sam Altman called for international regulation and "speedy incident reporting" at the U.N. on the same day Australia's prime minister said OpenAI took too long to disclose a breach.
+### OTHER on 2026-09-25 02:31
+- Location: The Times of India
+- Description: The Mumbai Crime Branch has recorded statements from 20 individuals related to Sahil Wakode's suicide case. Investigators are examining calls made to and from the deceased student's mobile phone. An inquiry conducted by the National Commission for Scheduled C…
 
 
-### ASSAULT on 2026-09-24 20:39
-- Location: CBC News
-- Description: Kepra Udup Bang, 27, was convicted of aggravated sexual assault earlier this year, for an incident that a justice called "a crime of egregious violence."
+### HOMICIDE on 2026-09-25 02:28
+- Location: The Times of India
+- Description: Presley Gerber tragically passed away at a sober living facility owned by Reza Nabavi in Santa Monica. While the exact cause of death is still under investigation, Nabavi's questionable past—marked by drug-related offenses—has come into focus. After establish…
 
-Analysis generated at: Fri Sep 25 21:00:43 UTC 2026
+Analysis generated at: Sat Sep 26 03:04:23 UTC 2026
