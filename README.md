@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Sep 27 03:06:55 UTC 2026
+Last updated: Sun Sep 27 04:37:20 UTC 2026
 
 ## Latest Analysis
 
-Loaded 135202 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-26 02:47:37
+Loaded 135208 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-26 04:21:16
 
 Incidents by source:
 source
-newsapi           135101
+newsapi           135107
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,30 @@ ion.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-09-26 02:47
-- Location: New York Post
-- Description: Police have revealed new details about evidence they recovered at the scene of the mass shooting that rocked a Southern California suburb. The Hawthorne Police Department responded to the 14100 block of Crenshaw Boulevard just after 2 a.m. Thursday after rece…
+### OTHER on 2026-09-26 04:21
+- Location: Rediff.com
+- Description: From Filhaal to Daayra, we look at Meghna Gulzar's filmmaking journey, including the highs of Talvar and Raazi and the films that fell short.
 
 
-### SHOOTING on 2026-09-26 02:35
-- Location: Freerepublic.com
-- Description: As the first gunshot pierced the sound of crashing waves and children’s laughter, Rabbi Leibel Lazaroff instinctively hit the ground. Having grown up in Texas and trained to carry a firearm in his home state, he knew the noise of gunfire well. But the 21-year…
-
-
-### OTHER on 2026-09-26 02:08
-- Location: New York Post
-- Description: The incident involved officers responding to a bank after receiving reports that a masked man "was making multiple transactions using several different cards and withdrawing large amounts of cash."
-
-
-### ASSAULT on 2026-09-26 01:52
+### OTHER on 2026-09-26 04:13
 - Location: The Times of India
-- Description: A significant political clash is brewing between the BJP and various opposition factions concerning the Election Commission of India. Accusations of turmoil within the Commission are leading to rising calls for the resignation of Chief Election Commissioner G…
+- Description: Raipur: A teenage girl turning up at a hospital four months pregnant has led police in Chhattisgarh to what investigators describe as a sprawling
 
 
-### OTHER on 2026-09-26 01:30
-- Location: Livemint
-- Description: Vijaypat Singhania built Raymond into a powerhouse, flew around the world and set aviation records. But his decision to hand his stake to his son Gautam triggered a bitter feud that overshadowed his final years.
+### OTHER on 2026-09-26 04:00
+- Location: Americanthinker.com
+- Description: By Andrea WidburgTwo of these tales (or do I mean tails?) will make you sad, but we’ll end on a lighter note.
 
-Analysis generated at: Sun Sep 27 03:06:55 UTC 2026
+
+### OTHER on 2026-09-26 04:00
+- Location: Americanthinker.com
+- Description: Photo Credit:
+ 
+ John SmithBy John SmithQuestions over the people, money, and cross-border relationships behind Horizon Egypt, one of Egypt’s most visible luxury property developers.
+
+
+### OTHER on 2026-09-26 04:00
+- Location: Americanthinker.com
+- Description: By Armando SimonSomething occurred in Canada that deserves our urgent attention. The mainstream media don’t want to talk about it.
+
+Analysis generated at: Sun Sep 27 04:37:20 UTC 2026
