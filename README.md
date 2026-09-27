@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Sep 26 20:33:32 UTC 2026
+Last updated: Sun Sep 27 03:06:55 UTC 2026
 
 ## Latest Analysis
 
-Loaded 135187 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-25 20:30:40
+Loaded 135202 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-26 02:47:37
 
 Incidents by source:
 source
-newsapi           135086
+newsapi           135101
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2026-09-25 20:30
-- Location: Wired
-- Description: They likely came for silicon—but left with silica.
-
-
-### HOMICIDE on 2026-09-25 20:29
+### SHOOTING on 2026-09-26 02:47
 - Location: New York Post
-- Description: The alleged killer was arrested and turned loose in July.
+- Description: Police have revealed new details about evidence they recovered at the scene of the mass shooting that rocked a Southern California suburb. The Hawthorne Police Department responded to the 14100 block of Crenshaw Boulevard just after 2 a.m. Thursday after rece…
 
 
-### OTHER on 2026-09-25 20:28
-- Location: The Irish Times
-- Description: ‘Fuse has been lit’ by Parades Commission decision to allow first march since 1997
+### SHOOTING on 2026-09-26 02:35
+- Location: Freerepublic.com
+- Description: As the first gunshot pierced the sound of crashing waves and children’s laughter, Rabbi Leibel Lazaroff instinctively hit the ground. Having grown up in Texas and trained to carry a firearm in his home state, he knew the noise of gunfire well. But the 21-year…
 
 
-### ASSAULT on 2026-09-25 20:25
-- Location: Israelnationalnews.com
-- Description: London man accused of stabbing two Jewish men in Golders Green pleads not guilty, prosecutors say the attack is no longer treated as terrorism.
+### OTHER on 2026-09-26 02:08
+- Location: New York Post
+- Description: The incident involved officers responding to a bank after receiving reports that a masked man "was making multiple transactions using several different cards and withdrawing large amounts of cash."
 
 
-### OTHER on 2026-09-25 20:14
-- Location: Curiousmindmagazine.com
-- Description: 21 September 2026 — Looi Kam Yong emerging as a new kingpin in organized commercial crime, a RM127 million seizure, a bauxite “megaproject” the Johor government says never existed, and the company filings that tie them together KUALA LUMPUR — New facts emerge…
+### ASSAULT on 2026-09-26 01:52
+- Location: The Times of India
+- Description: A significant political clash is brewing between the BJP and various opposition factions concerning the Election Commission of India. Accusations of turmoil within the Commission are leading to rising calls for the resignation of Chief Election Commissioner G…
 
-Analysis generated at: Sat Sep 26 20:33:32 UTC 2026
+
+### OTHER on 2026-09-26 01:30
+- Location: Livemint
+- Description: Vijaypat Singhania built Raymond into a powerhouse, flew around the world and set aviation records. But his decision to hand his stake to his son Gautam triggered a bitter feud that overshadowed his final years.
+
+Analysis generated at: Sun Sep 27 03:06:55 UTC 2026
