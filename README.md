@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Sep 27 16:15:06 UTC 2026
+Last updated: Sun Sep 27 16:44:02 UTC 2026
 
 ## Latest Analysis
 
-Loaded 135281 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-26 16:00:52
+Loaded 135286 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-26 16:42:56
 
 Incidents by source:
 source
-newsapi           135180
+newsapi           135185
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-09-26 16:00
-- Location: Dailymail.com
-- Description: The sixties saw many wonderful things like the Beatles, shorter skirts, but Wilson's government and the dictatorship of city planners turned the country on it's head
-
-
-### OTHER on 2026-09-26 15:58
-- Location: Boredpanda.com
-- Description: A dog-field disagreement escalated after Sakeenah Nasser said a woman cursed at her and blocked the only exit, sparking furious reactions to the viral footage.
-
-
-### HOMICIDE on 2026-09-26 15:57
+### HOMICIDE on 2026-09-26 16:42
 - Location: The Times of India
-- Description: Thane PSI Kisan Bhoir, 56, killed in late-night Pokhran 2 patrol attack by history-sheeter Raju Valmiki; murder case filed, accused remanded till Oct 2.
+- Description: Tanisha, a 22-year-old woman, was discovered hanging in a paying guest accommodation in Islampur village. Her mother has accused her live-in partner, Chetan Sharma, of murdering her. Tanisha's family claimed she had called Sharma shortly before her death but …
 
 
-### OTHER on 2026-09-26 15:52
-- Location: Fox News
-- Description: Bill Maher praised Donald Trump's tough-on-crime persona on "Real Time," saying the "f---around-and-find-out president" sent a message to bad guys.
+### HOMICIDE on 2026-09-26 16:36
+- Location: CBS News
+- Description: Police have identified similarities in some of the killings but said they had not found conclusive evidence that the same person or people were responsible.
 
 
-### OTHER on 2026-09-26 15:42
-- Location: CBC News
-- Description: A Manitoba judge has granted bail to a man who runs a Winnipeg bathhouse with his husband and is accused of placing a "homemade pipe bomb" outside a competing local sex club earlier this month.
+### OTHER on 2026-09-26 16:35
+- Location: The Times of India
+- Description: Four people were critically injured in a firing at a Jamshedpur mall restaurant; police reviewing CCTV, suspect identified, rivalry suspected amid crime fears.
 
-Analysis generated at: Sun Sep 27 16:15:06 UTC 2026
+
+### HOMICIDE on 2026-09-26 16:32
+- Location: NBC News
+- Description: A woman’s dismembered remains were found in garbage bags at an apartment complex in Georgia, police said Friday.
+
+
+### OTHER on 2026-09-26 16:23
+- Location: New York Post
+- Description: Criminals have gotten the message from the "f--- around and find out president" leading to big improvements in public safety, talk host Bill Maher told his audience Friday.
+
+Analysis generated at: Sun Sep 27 16:44:02 UTC 2026
