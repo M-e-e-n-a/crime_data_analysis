@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Sep 27 16:44:02 UTC 2026
+Last updated: Sun Sep 27 20:44:29 UTC 2026
 
 ## Latest Analysis
 
-Loaded 135286 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-26 16:42:56
+Loaded 135331 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-26 20:29:43
 
 Incidents by source:
 source
-newsapi           135185
+newsapi           135230
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-09-26 16:42
+### HOMICIDE on 2026-09-26 20:29
+- Location: Abcnews.com
+- Description: A manhunt is underway in St. Vincent and the Grenadines after a shooting left four people dead
+
+
+### ROBBERY/THEFT on 2026-09-26 20:13
 - Location: The Times of India
-- Description: Tanisha, a 22-year-old woman, was discovered hanging in a paying guest accommodation in Islampur village. Her mother has accused her live-in partner, Chetan Sharma, of murdering her. Tanisha's family claimed she had called Sharma shortly before her death but …
+- Description: Retired United India Insurance official in Lucknow duped of ₹40.75 lakh in fake trading scheme via Facebook; FIR filed, cyber police probe underway.
 
 
-### HOMICIDE on 2026-09-26 16:36
-- Location: CBS News
-- Description: Police have identified similarities in some of the killings but said they had not found conclusive evidence that the same person or people were responsible.
+### OTHER on 2026-09-26 20:12
+- Location: Breitbart News
+- Description: Police found 30 "partially clothed males" in the basement of an unaccredited frat house located near the University of Wisconsin-Madison.
+The post Wisconsin Police Find 30 Young Men ‘Partially Clothed,’ ‘Covered in Food, Condiments’ in Basement of Frat House …
 
 
-### OTHER on 2026-09-26 16:35
+### OTHER on 2026-09-26 20:10
 - Location: The Times of India
-- Description: Four people were critically injured in a firing at a Jamshedpur mall restaurant; police reviewing CCTV, suspect identified, rivalry suspected amid crime fears.
+- Description: Ganesh mandals played loud music outside Pune anti-noise activist Vidyanand Bapat’s home; police to review AI images as he urges stricter noise law enforcement.
 
 
-### HOMICIDE on 2026-09-26 16:32
-- Location: NBC News
-- Description: A woman’s dismembered remains were found in garbage bags at an apartment complex in Georgia, police said Friday.
+### OTHER on 2026-09-26 20:02
+- Location: TVLine
+- Description: Crime stories continue to be very popular on TV, and there are many female detectives who have left their mark on the genre. These are the 10 best.
 
-
-### OTHER on 2026-09-26 16:23
-- Location: New York Post
-- Description: Criminals have gotten the message from the "f--- around and find out president" leading to big improvements in public safety, talk host Bill Maher told his audience Friday.
-
-Analysis generated at: Sun Sep 27 16:44:02 UTC 2026
+Analysis generated at: Sun Sep 27 20:44:29 UTC 2026
