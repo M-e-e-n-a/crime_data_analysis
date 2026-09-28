@@ -1,10 +1,10 @@
 
-Loaded 135493 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-27 19:24:19
+Loaded 135516 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-27 22:35:25
 
 Incidents by source:
 source
-newsapi           135392
+newsapi           135415
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,30 @@ ion.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2026-09-27 19:24
-- Location: Addicted2success.com
-- Description: Most founders do not have a strategy problem. They have a control problem. They know, intellectually, that they cannot do everything, that the business will stall if every decision runs through them, that their time is worth more spent on the few things only …
+### ROBBERY/THEFT on 2026-09-27 22:35
+- Location: Twistedsifter.com
+- Description: Sometimes, standing up for yourself means refusing to be intimidated.
+The post He Filed a $14,000 Wage Theft Claim With the State Labor Board—Then His Ex-Boss Threatens a $50,000 Suit for “Nondisclosure Violations” appeared first on TwistedSifter.
 
 
-### SHOOTING on 2026-09-27 19:13
-- Location: The Sun Chronicle
-- Description: Massachusetts law enforcement seized more than 2,300 guns used in crimes in 2025, a decrease of about 4% over the past three years, according to a count from the Massachusetts State Police.
+### OTHER on 2026-09-27 22:12
+- Location: TVLine
+- Description: TV crime dramas have come a long way since the '60s, but we should never forget the genre's roots. So, why not pay homage by rebooting a few forgotten classics?
 
 
-### HOMICIDE on 2026-09-27 19:11
-- Location: The Times of India
-- Description: Hyderabad: Man allegedly kills wife Teja Sri with pestle after argument in Baglingampalli, then surrenders to police; murder case registered.
+### HOMICIDE on 2026-09-27 22:09
+- Location: Dailymail.com
+- Description: His older son Daniel, who took over the running of the drug empire his father built, is in custody at the maximum-security Portlaoise Prison following his recent extradition.
 
 
-### OTHER on 2026-09-27 19:08
-- Location: CBC News
-- Description: Serbia's populist President Aleksandar Vucic resigned on Sunday to pursue a bid to become the prime minister in an upcoming early parliamentary election that will test his firm rule in the Balkan country after nearly two years of protests.
+### HOMICIDE on 2026-09-27 22:06
+- Location: Dailymail.com
+- Description: The 'unprecedented' event saw the best-laid plans of the respected Dublin architect, who was also a seemingly happily-married father-of-three, unravel.
 
 
-### OTHER on 2026-09-27 19:05
-- Location: LancasterOnline
-- Description: Police are looking for a man accused of stealing over $82,000 in power tools from contractors throughout Lancaster County and parts of Maryland.
+### OTHER on 2026-09-27 22:00
+- Location: TheWrap
+- Description: From "The Love Hypothesis" to "Little Women"
+The post The 3 Best Movies to Watch on Prime Video This Week appeared first on TheWrap.
 
-Analysis generated at: Mon Sep 28 19:29:59 UTC 2026
+Analysis generated at: Mon Sep 28 22:53:39 UTC 2026
