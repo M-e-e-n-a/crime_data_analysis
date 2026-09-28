@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Sep 27 20:44:29 UTC 2026
+Last updated: Mon Sep 28 03:04:28 UTC 2026
 
 ## Latest Analysis
 
-Loaded 135331 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-26 20:29:43
+Loaded 135349 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-27 02:43:10
 
 Incidents by source:
 source
-newsapi           135230
+newsapi           135248
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-09-26 20:29
-- Location: Abcnews.com
-- Description: A manhunt is underway in St. Vincent and the Grenadines after a shooting left four people dead
+### HOMICIDE on 2026-09-27 02:43
+- Location: BBC News
+- Description: The victims of the crash have not yet been identified, Quebec provincial police told the BBC.
 
 
-### ROBBERY/THEFT on 2026-09-26 20:13
-- Location: The Times of India
-- Description: Retired United India Insurance official in Lucknow duped of ₹40.75 lakh in fake trading scheme via Facebook; FIR filed, cyber police probe underway.
+### SHOOTING on 2026-09-27 02:39
+- Location: CBC News
+- Description: The Vancouver Police Department says its investigating a targeted shooting that took place in a parking lot at Spanish Banks Saturday afternoon. A person was arrested a short time later in East Vancouver.
 
 
-### OTHER on 2026-09-26 20:12
-- Location: Breitbart News
-- Description: Police found 30 "partially clothed males" in the basement of an unaccredited frat house located near the University of Wisconsin-Madison.
-The post Wisconsin Police Find 30 Young Men ‘Partially Clothed,’ ‘Covered in Food, Condiments’ in Basement of Frat House …
+### HOMICIDE on 2026-09-27 02:09
+- Location: Dailymail.com
+- Description: Shanteria Mosley, 26, who police said worked as a DoorDash driver, left her Atlanta home on Wednesday morning and never returned.
 
 
-### OTHER on 2026-09-26 20:10
-- Location: The Times of India
-- Description: Ganesh mandals played loud music outside Pune anti-noise activist Vidyanand Bapat’s home; police to review AI images as he urges stricter noise law enforcement.
+### OTHER on 2026-09-27 01:58
+- Location: ComicBook.com
+- Description: Spoilers for HBO’s Lanterns follow: In addition to its central mysteries about the Manhunters and the history of the Green Lantern Corps, HBO’s Lanterns has also included several more subtle lines and plot points that continue to flesh out the world of the ne…
 
 
-### OTHER on 2026-09-26 20:02
-- Location: TVLine
-- Description: Crime stories continue to be very popular on TV, and there are many female detectives who have left their mark on the genre. These are the 10 best.
+### SHOOTING on 2026-09-27 01:51
+- Location: Peoplesreview.com.np
+- Description: KATHMANDU, Sept 27: Police on Sunday took former Chief Justice Cholendra Shumsher Rana into custody from his residence in Maharajgunj, Kathmandu. According to sources, a team from the Kathmandu Valley Crime Investigation Office arrested Rana on Sunday. Author…
 
-Analysis generated at: Sun Sep 27 20:44:29 UTC 2026
+Analysis generated at: Mon Sep 28 03:04:28 UTC 2026
