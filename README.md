@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Sep 28 12:39:44 UTC 2026
+Last updated: Mon Sep 28 19:29:59 UTC 2026
 
 ## Latest Analysis
 
-Loaded 135436 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-27 12:26:22
+Loaded 135493 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-27 19:24:19
 
 Incidents by source:
 source
-newsapi           135335
+newsapi           135392
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-09-27 12:26
-- Location: Newsonjapan.com
-- Description: A 25-year-old father has been arrested on suspicion of attempted murder after allegedly throwing his two young daughters from the sixth-floor balcony of an apartment building in Kakamigahara, Gifu Prefecture, in the early hours of September 26, with police in…
+### ROBBERY/THEFT on 2026-09-27 19:24
+- Location: Addicted2success.com
+- Description: Most founders do not have a strategy problem. They have a control problem. They know, intellectually, that they cannot do everything, that the business will stall if every decision runs through them, that their time is worth more spent on the few things only …
 
 
-### ROBBERY/THEFT on 2026-09-27 12:23
-- Location: Israelnationalnews.com
-- Description: Judea and Samaria District police arrested a Palestinian Arab man in his 50s from Shuqba overnight on suspicion of involvement in burglaries at residential homes in Modi'in Illit and the theft of jewelry and cash.During an operation conducted by the Modi'in I…
+### SHOOTING on 2026-09-27 19:13
+- Location: The Sun Chronicle
+- Description: Massachusetts law enforcement seized more than 2,300 guns used in crimes in 2025, a decrease of about 4% over the past three years, according to a count from the Massachusetts State Police.
 
 
-### OTHER on 2026-09-27 12:20
+### HOMICIDE on 2026-09-27 19:11
 - Location: The Times of India
-- Description: Aurora, Colorado's 80019 ZIP code is now the most popular destination for movers in the United States. The ranking is based on a significant number of new housing developments in the area. Fort Leavenworth, Kansas, remains in second place due to military relo…
+- Description: Hyderabad: Man allegedly kills wife Teja Sri with pestle after argument in Baglingampalli, then surrenders to police; murder case registered.
 
 
-### ROBBERY/THEFT on 2026-09-27 12:16
-- Location: The Times of India
-- Description: Orissa High Court frames 12 issues in Kantabanji BJP MLA Laxman Bag election petition, probing Form-26 disclosures, nomination defects, and poll validity.
+### OTHER on 2026-09-27 19:08
+- Location: CBC News
+- Description: Serbia's populist President Aleksandar Vucic resigned on Sunday to pursue a bid to become the prime minister in an upcoming early parliamentary election that will test his firm rule in the Balkan country after nearly two years of protests.
 
 
-### OTHER on 2026-09-27 12:15
-- Location: Gamedaychatter.com
-- Description: world_pictures/Shutterstock.com Scottie Scheffler revisits Valhalla incident Scottie Scheffler was detained outside Valhalla Golf Club before the second round of the 2024 PGA Championship in Louisville. Police filed four charges after a dispute near the cours…
+### OTHER on 2026-09-27 19:05
+- Location: LancasterOnline
+- Description: Police are looking for a man accused of stealing over $82,000 in power tools from contractors throughout Lancaster County and parts of Maryland.
 
-Analysis generated at: Mon Sep 28 12:39:44 UTC 2026
+Analysis generated at: Mon Sep 28 19:29:59 UTC 2026
