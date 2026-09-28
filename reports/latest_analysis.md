@@ -1,10 +1,10 @@
 
-Loaded 135349 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-27 02:43:10
+Loaded 135355 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-27 04:13:32
 
 Incidents by source:
 source
-newsapi           135248
+newsapi           135254
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,32 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-09-27 02:43
-- Location: BBC News
-- Description: The victims of the crash have not yet been identified, Quebec provincial police told the BBC.
+### OTHER on 2026-09-27 04:13
+- Location: The Times of India
+- Description: Students at Lovely Professional University protested over alleged rumors of a rape incident on campus. They damaged property and blocked the Jalandhar-Phagwara national highway during their demonstration. Police stated that the claims were unfounded and repor…
 
 
-### SHOOTING on 2026-09-27 02:39
-- Location: CBC News
-- Description: The Vancouver Police Department says its investigating a targeted shooting that took place in a parking lot at Spanish Banks Saturday afternoon. A person was arrested a short time later in East Vancouver.
-
-
-### HOMICIDE on 2026-09-27 02:09
+### ASSAULT on 2026-09-27 04:05
 - Location: Dailymail.com
-- Description: Shanteria Mosley, 26, who police said worked as a DoorDash driver, left her Atlanta home on Wednesday morning and never returned.
+- Description: Police have charged a woman with assault after an alleged altercation involving spitting and pepper spray.
 
 
-### OTHER on 2026-09-27 01:58
-- Location: ComicBook.com
-- Description: Spoilers for HBO’s Lanterns follow: In addition to its central mysteries about the Manhunters and the history of the Green Lantern Corps, HBO’s Lanterns has also included several more subtle lines and plot points that continue to flesh out the world of the ne…
+### OTHER on 2026-09-27 04:00
+- Location: Americanthinker.com
+- Description: By Mike McDanielThere is not, and has never been, a trans genocide.
 
 
-### SHOOTING on 2026-09-27 01:51
-- Location: Peoplesreview.com.np
-- Description: KATHMANDU, Sept 27: Police on Sunday took former Chief Justice Cholendra Shumsher Rana into custody from his residence in Maharajgunj, Kathmandu. According to sources, a team from the Kathmandu Valley Crime Investigation Office arrested Rana on Sunday. Author…
+### OTHER on 2026-09-27 04:00
+- Location: Americanthinker.com
+- Description: Photo Credit:Image via Pixnio.
 
-Analysis generated at: Mon Sep 28 03:04:28 UTC 2026
+
+ 
+ PixnioBy Todd Gregory, Erik GregoryTo make good on Weiss’s promises of reform, here are ten modest suggestions for topical news stories for 60 Minutes.
+
+
+### ASSAULT on 2026-09-27 04:00
+- Location: Americanthinker.com
+- Description: By S. David SultzerCanada’s taxpayer-funded public broadcaster turned on a Jewish journalist for exposing the country’s rising Islamic antisemitism.
+
+Analysis generated at: Mon Sep 28 04:39:03 UTC 2026
