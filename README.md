@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Sep 29 17:34:49 UTC 2026
+Last updated: Tue Sep 29 17:56:38 UTC 2026
 
 ## Latest Analysis
 
-Loaded 135710 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-28 17:30:04
+Loaded 135724 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-28 17:55:31
 
 Incidents by source:
 source
-newsapi           135609
+newsapi           135623
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,29 +24,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-09-28 17:30
+### HOMICIDE on 2026-09-28 17:55
+- Location: Freerepublic.com
+- Description: Our enemies are tough, smart and determined to enslave us and they will kill our freedoms and abandon their duties to serve and protect anyone they deem to be an enemy. If you are a White male Christian especially a Catholic, a veteran, NRA member Pro-lifer s…
+
+
+### HOMICIDE on 2026-09-28 17:55
+- Location: Freerepublic.com
+- Description: Our enemies are tough, smart and determined to enslave us and they will kill our freedoms and abandon their duties to serve and protect anyone they deem to be an enemy. If you are a White male Christian especially a Catholic, a veteran, NRA member Pro-lifer s…
+
+
+### OTHER on 2026-09-28 17:54
+- Location: Freerepublic.com
+- Description: GLOUCESTERSHIRE — CNN reported an ugly example of racial profiling coming out of the UK last weekend, as a British farmer called the police on a group of Muslim men who were out for a Sunday drive. According to CNN journalists on the ground, five Muslim men h…
+
+
+### SHOOTING on 2026-09-28 17:50
+- Location: Gossiplankanews.com
+- Description: Today (28) afternoon, a group of unknown gunmen opened fire targeting a person traveling on a motorcycle in the Rathgama, Panwila area of the Galle District.
+<!--gossip-below-article-Rs--> (adsbygoogle = window.adsbygoogle || []).push({});As a result of this…
+
+
+### OTHER on 2026-09-28 17:49
 - Location: Dailymail.com
-- Description: It's been nearly 40 years since Home and Away first introduced us to the sunny shores of Summer Bay.
+- Description: The major road in the West End of London is set to be pedestrianised from October 25 - with vehicles barred from almost one kilometre of it.
 
-
-### SHOOTING on 2026-09-28 17:26
-- Location: Clarion Ledger
-- Description: Warren Central High School sophomore basketball player Henry Trisby III died after being shot in Vicksburg on Sept. 25.
-
-
-### OTHER on 2026-09-28 17:21
-- Location: Twistedsifter.com
-- Description: Hopefully he got rewarded for this!
-The post PC Store Worker Saw A Family Shopping With Their Kids, But Their Unusual Day Out Left Him Stunned appeared first on TwistedSifter.
-
-
-### HOMICIDE on 2026-09-28 17:18
-- Location: CBS News
-- Description: The trial of former "American Idol" contestant Caleb Flynn, who is charged with his wife's murder, continued on Day Eight. Prosecutors showed the courtroom videos from Flynn's initial police interviews following his wife's death. CBS News' Lana Zak has the la…
-
-
-### OTHER on 2026-09-28 17:15
-- Location: BBC News
-- Description: Parastoo Ahmadi was convicted of "offending public decency" after singing while wearing a sleeveless dress during a livestreamed concert.
-
-Analysis generated at: Tue Sep 29 17:34:49 UTC 2026
+Analysis generated at: Tue Sep 29 17:56:38 UTC 2026
