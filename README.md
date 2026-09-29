@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Sep 29 11:59:26 UTC 2026
+Last updated: Tue Sep 29 17:34:49 UTC 2026
 
 ## Latest Analysis
 
-Loaded 135621 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-28 11:45:41
+Loaded 135710 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-28 17:30:04
 
 Incidents by source:
 source
-newsapi           135520
+newsapi           135609
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-09-28 11:45
-- Location: Khabarhub.com
-- Description: KATHMANDU: The National Human Rights Commission (NHRC) has summoned Senior Superintendent of Police (SSP) Santosh Khadka, chief of the Valley Crime Investigation Office, Teku, for questioning. The commission sent a letter on Monday directing Khadka to appear …
+### OTHER on 2026-09-28 17:30
+- Location: Dailymail.com
+- Description: It's been nearly 40 years since Home and Away first introduced us to the sunny shores of Summer Bay.
 
 
-### HOMICIDE on 2026-09-28 11:41
-- Location: ABC News (AU)
-- Description: A man accused of hacking his friend to death with a machete in Melbourne's west two years ago hit his victim at least 39 times, the Victorian Supreme Court has heard.
+### SHOOTING on 2026-09-28 17:26
+- Location: Clarion Ledger
+- Description: Warren Central High School sophomore basketball player Henry Trisby III died after being shot in Vicksburg on Sept. 25.
 
 
-### HOMICIDE on 2026-09-28 11:30
-- Location: Mother Jones
-- Description: This story is part of the Life After Roe package, appearing this week, that looks at the surprising resilience of the abortion access movement in the Dobbs era—and at how hardliners are doubling down on their efforts to ban abortion nationwide. The young woma…
+### OTHER on 2026-09-28 17:21
+- Location: Twistedsifter.com
+- Description: Hopefully he got rewarded for this!
+The post PC Store Worker Saw A Family Shopping With Their Kids, But Their Unusual Day Out Left Him Stunned appeared first on TwistedSifter.
 
 
-### OTHER on 2026-09-28 11:30
-- Location: New York Post
-- Description: New Roc City opened in Westchester County in 1999 at a cost of nearly $200 million. Despite millions more in upgrades, it's a failed experiment.
+### HOMICIDE on 2026-09-28 17:18
+- Location: CBS News
+- Description: The trial of former "American Idol" contestant Caleb Flynn, who is charged with his wife's murder, continued on Day Eight. Prosecutors showed the courtroom videos from Flynn's initial police interviews following his wife's death. CBS News' Lana Zak has the la…
 
 
-### HOMICIDE on 2026-09-28 11:25
-- Location: The Times of India
-- Description: 20-year-old Subeer Kumar found dead with severe burns in a well near Krishnanagar, Nawada; police probe murder, suicide or dispute; forensic team, post-mortem awaited.
+### OTHER on 2026-09-28 17:15
+- Location: BBC News
+- Description: Parastoo Ahmadi was convicted of "offending public decency" after singing while wearing a sleeveless dress during a livestreamed concert.
 
-Analysis generated at: Tue Sep 29 11:59:26 UTC 2026
+Analysis generated at: Tue Sep 29 17:34:49 UTC 2026
