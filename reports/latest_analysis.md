@@ -1,10 +1,10 @@
 
-Loaded 135724 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-28 17:55:31
+Loaded 135823 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-28 21:47:20
 
 Incidents by source:
 source
-newsapi           135623
+newsapi           135722
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-09-28 17:55
-- Location: Freerepublic.com
-- Description: Our enemies are tough, smart and determined to enslave us and they will kill our freedoms and abandon their duties to serve and protect anyone they deem to be an enemy. If you are a White male Christian especially a Catholic, a veteran, NRA member Pro-lifer s…
-
-
-### HOMICIDE on 2026-09-28 17:55
-- Location: Freerepublic.com
-- Description: Our enemies are tough, smart and determined to enslave us and they will kill our freedoms and abandon their duties to serve and protect anyone they deem to be an enemy. If you are a White male Christian especially a Catholic, a veteran, NRA member Pro-lifer s…
-
-
-### OTHER on 2026-09-28 17:54
-- Location: Freerepublic.com
-- Description: GLOUCESTERSHIRE — CNN reported an ugly example of racial profiling coming out of the UK last weekend, as a British farmer called the police on a group of Muslim men who were out for a Sunday drive. According to CNN journalists on the ground, five Muslim men h…
-
-
-### SHOOTING on 2026-09-28 17:50
-- Location: Gossiplankanews.com
-- Description: Today (28) afternoon, a group of unknown gunmen opened fire targeting a person traveling on a motorcycle in the Rathgama, Panwila area of the Galle District.
-<!--gossip-below-article-Rs--> (adsbygoogle = window.adsbygoogle || []).push({});As a result of this…
-
-
-### OTHER on 2026-09-28 17:49
+### OTHER on 2026-09-28 21:47
 - Location: Dailymail.com
-- Description: The major road in the West End of London is set to be pedestrianised from October 25 - with vehicles barred from almost one kilometre of it.
+- Description: Michael Palin has tasted some stomach-churning delicacies on his travels.
 
-Analysis generated at: Tue Sep 29 17:56:38 UTC 2026
+
+### OTHER on 2026-09-28 21:45
+- Location: Radaronline.com
+- Description: Kingston Bradley, 18, was arrested after a DoorDash driver was allegedly discovered inside a plastic tub.
+
+
+### SHOOTING on 2026-09-28 21:44
+- Location: New York Post
+- Description: The legal evidence suggesting trouble in the home of McKinsey and Jang was buttressed by a chilling post on social media directed at McKinsey.
+
+
+### HOMICIDE on 2026-09-28 21:40
+- Location: National Post
+- Description: Satinderjeet Singh, better known as Goldy Brar, has a $1M bounty for his capture as alleged head of the group accused of murder, extortion.
+
+
+### HOMICIDE on 2026-09-28 21:38
+- Location: New York Daily News
+- Description: Tech executive Jonathan McKinsey’s elderly in-laws are suspected of gunning down the 40-year-old director of engineering for the New York Times Games section.
+
+Analysis generated at: Tue Sep 29 21:47:43 UTC 2026
