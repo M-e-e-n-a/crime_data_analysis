@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Sep 28 22:53:39 UTC 2026
+Last updated: Tue Sep 29 03:43:27 UTC 2026
 
 ## Latest Analysis
 
-Loaded 135516 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-27 22:35:25
+Loaded 135542 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-28 03:05:20
 
 Incidents by source:
 source
-newsapi           135415
+newsapi           135441
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,30 +24,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2026-09-27 22:35
-- Location: Twistedsifter.com
-- Description: Sometimes, standing up for yourself means refusing to be intimidated.
-The post He Filed a $14,000 Wage Theft Claim With the State Labor Board—Then His Ex-Boss Threatens a $50,000 Suit for “Nondisclosure Violations” appeared first on TwistedSifter.
+### HOMICIDE on 2026-09-28 03:05
+- Location: ABC News (AU)
+- Description: A friend of Beau-Lamarre Condon has told his double murder trial the former cop once asked her if she would help hide a body months before Jesse Baird and Luke Davies were killed in 2024.
 
 
-### OTHER on 2026-09-27 22:12
-- Location: TVLine
-- Description: TV crime dramas have come a long way since the '60s, but we should never forget the genre's roots. So, why not pay homage by rebooting a few forgotten classics?
+### HOMICIDE on 2026-09-28 02:53
+- Location: The Times of India
+- Description: Lovely Professional University has taken precautionary measures by postponing mid-term examinations and halting regular classes for ten days. This decision follows disruptive protests concerning an alleged rape case involving a student. Students are advised t…
 
 
-### HOMICIDE on 2026-09-27 22:09
-- Location: Dailymail.com
-- Description: His older son Daniel, who took over the running of the drug empire his father built, is in custody at the maximum-security Portlaoise Prison following his recent extradition.
+### HOMICIDE on 2026-09-28 02:51
+- Location: Abcnews.com
+- Description: A 911 caller reported finding the body near a walking trail, police said, adding that her identity is being withheld pending investigation.
 
 
-### HOMICIDE on 2026-09-27 22:06
-- Location: Dailymail.com
-- Description: The 'unprecedented' event saw the best-laid plans of the respected Dublin architect, who was also a seemingly happily-married father-of-three, unravel.
+### OTHER on 2026-09-28 02:49
+- Location: The Times of India
+- Description: A Bhojpuri actor was apprehended by the Thane Crime Branch’s Anti-Human Trafficking Cell during a raid. This operation targeted her alleged involvement in a sex racket in the city. Two women who were being coerced into prostitution were also rescued. Police a…
 
 
-### OTHER on 2026-09-27 22:00
-- Location: TheWrap
-- Description: From "The Love Hypothesis" to "Little Women"
-The post The 3 Best Movies to Watch on Prime Video This Week appeared first on TheWrap.
+### HOMICIDE on 2026-09-28 02:15
+- Location: Business Standard
+- Description: Three people were killed and four more were injured when an argument led to gunfire at an after-hours strip club Sunday morning in Detroit, officials said.
+Police responding to the 7:21 am shooting on a largely residential street found three men who had been …
 
-Analysis generated at: Mon Sep 28 22:53:39 UTC 2026
+Analysis generated at: Tue Sep 29 03:43:27 UTC 2026
