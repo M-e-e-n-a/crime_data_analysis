@@ -1,10 +1,10 @@
 
-Loaded 136034 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-29 17:26:13
+Loaded 136048 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-29 17:51:33
 
 Incidents by source:
 source
-newsapi           135933
+newsapi           135947
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,32 +20,31 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-09-29 17:26
-- Location: Slickdeals.net
-- Description: From “Japan's Agatha Christie” (The Sunday Times): A secluded bay. An apparent lovers’ suicide. And a pair of detectives with a nagging suspicion that the pieces don’t add up. Can you solve one of...
-
-
-### OTHER on 2026-09-29 17:23
-- Location: Thoughtcatalog.com
-- Description: A former Cornell student’s civil lawsuit has reopened one of the hardest questions in criminal law: when does staying silent become a crime? The suit alleges that in October 2024, members of …
-
-
-### OTHER on 2026-09-29 17:22
-- Location: The Punch
-- Description: The Bauchi State Police Command has arrested a 60-year-old man for allegedly kidnapping a 16-year-old boy in Shira Local Government Area of the state.
-
-Read More: https://punchng.com/police-arrest-man-for-kidnapping-in-bauchi-rescue-teenage-victim/
-
-
-### HOMICIDE on 2026-09-29 17:14
+### SHOOTING on 2026-09-29 17:51
 - Location: The Times of India
-- Description: Police in Kotputli-Behror arrested a grandson for allegedly killing his retired cop grandfather in Alwar over pension and crop money; father questioned for hiding evidence.
+- Description: A Venezuelan delivery driver shot by ICE in Texas is charged with assault after allegedly attempting to flee during an arrest, facing up to 20 years in prison. His legal status and the shooting circumstances raise significant concerns about immigration enforc…
 
 
-### HOMICIDE on 2026-09-29 17:12
-- Location: Advocate.com
-- Description: Just as a jury was about to be selected, a 22-year-old Alabama
- man pleaded guilty Monday to murder in the May 2024 shooting death of 17-year-old transgender
- teenager Tayy Dior Thomas.
+### OTHER on 2026-09-29 17:50
+- Location: The Punch
+- Description: Oyo State Governor, Seyi Makinde, has received the report from the judicial inquiry into the Oriire student abduction, pledging a security reset.
 
-Analysis generated at: Wed Sep 30 17:27:52 UTC 2026
+Read More: https://punchng.com/makinde-receives-oyo-abduction-report-pledges-security-reset/
+
+
+### SHOOTING on 2026-09-29 17:45
+- Location: Abcnews.com
+- Description: A Tennessee man with a lengthy criminal history has been charged in the fatal shooting of a Kentucky state trooper
+
+
+### HOMICIDE on 2026-09-29 17:45
+- Location: Abcnews.com
+- Description: A judge has found a woman charged with the attempted murder of Rihanna to be mentally competent to stand trial
+
+
+### OTHER on 2026-09-29 17:40
+- Location: PetaPixel
+- Description: Police in Singapore have arrested and charged a man after he allegedly posted an AI-generated image of a saltwater crocodile swimming in a public water area.
+[Read More]
+
+Analysis generated at: Wed Sep 30 17:52:08 UTC 2026
