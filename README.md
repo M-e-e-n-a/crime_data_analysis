@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Sep 29 21:47:43 UTC 2026
+Last updated: Wed Sep 30 03:31:56 UTC 2026
 
 ## Latest Analysis
 
-Loaded 135823 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-28 21:47:20
+Loaded 135848 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-29 03:27:49
 
 Incidents by source:
 source
-newsapi           135722
+newsapi           135747
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-09-28 21:47
-- Location: Dailymail.com
-- Description: Michael Palin has tasted some stomach-churning delicacies on his travels.
+### HOMICIDE on 2026-09-29 03:27
+- Location: ABC News (AU)
+- Description: Jurors in Beau Lamarre-Condon's double murder trial have been taken through dozens of photographs taken at a Sydney property, several days after the alleged murders of Jesse Baird and his boyfriend Luke Davies in 2024.
 
 
-### OTHER on 2026-09-28 21:45
-- Location: Radaronline.com
-- Description: Kingston Bradley, 18, was arrested after a DoorDash driver was allegedly discovered inside a plastic tub.
+### OTHER on 2026-09-29 03:00
+- Location: Business Standard
+- Description: FBI on Monday added gangster Satinderjeet Singh alias Goldy Brar to its list of Ten Most Wanted Fugitives and announced a reward of USD one million for information leading to his arrest.
+"Satinderjeet Singh is wanted for his alleged involvement in the Lawrenc…
 
 
-### SHOOTING on 2026-09-28 21:44
-- Location: New York Post
-- Description: The legal evidence suggesting trouble in the home of McKinsey and Jang was buttressed by a chilling post on social media directed at McKinsey.
+### ROBBERY/THEFT on 2026-09-29 02:50
+- Location: New Zealand Herald
+- Description: Brass letters spelling ‘National Park’ have been stolen from an entrance sign.
 
 
-### HOMICIDE on 2026-09-28 21:40
-- Location: National Post
-- Description: Satinderjeet Singh, better known as Goldy Brar, has a $1M bounty for his capture as alleged head of the group accused of murder, extortion.
+### HOMICIDE on 2026-09-29 02:23
+- Location: Fox News
+- Description: Hayden Phillips, a 30-year-old Kentucky state trooper, leaves behind a wife and three sons after being killed during a routine stop on Interstate 65.
 
 
-### HOMICIDE on 2026-09-28 21:38
-- Location: New York Daily News
-- Description: Tech executive Jonathan McKinsey’s elderly in-laws are suspected of gunning down the 40-year-old director of engineering for the New York Times Games section.
+### OTHER on 2026-09-29 02:14
+- Location: Mobileread.com
+- Description: Short Fiction Various: Past Masters 274, v1, 29 Sep 2026 Other Books
 
-Analysis generated at: Tue Sep 29 21:47:43 UTC 2026
+Analysis generated at: Wed Sep 30 03:31:56 UTC 2026
