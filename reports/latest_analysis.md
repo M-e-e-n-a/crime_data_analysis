@@ -1,10 +1,10 @@
 
-Loaded 135848 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-29 03:27:49
+Loaded 135862 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-29 04:52:20
 
 Incidents by source:
 source
-newsapi           135747
+newsapi           135761
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-09-29 03:27
+### ASSAULT on 2026-09-29 04:52
+- Location: Israelnationalnews.com
+- Description: Israeli rioters block roads, set fires, and attack security forces near Jalud, preventing the coordinated return of a Palestinian family to its home.
+
+
+### OTHER on 2026-09-29 04:45
+- Location: The Times of India
+- Description: The Enforcement Directorate executed search and seizure operations at 15 locations linked to MassArt Society's financial irregularities. The action involved former Minister Indranil Sen and several associates amid allegations of fraudulent practices. MassArt …
+
+
+### HOMICIDE on 2026-09-29 04:40
 - Location: ABC News (AU)
-- Description: Jurors in Beau Lamarre-Condon's double murder trial have been taken through dozens of photographs taken at a Sydney property, several days after the alleged murders of Jesse Baird and his boyfriend Luke Davies in 2024.
+- Description: No physical evidence linked Douglas Stewart Carter to the murder but he signed a confession he later said was coerced. Now new analysis of DNA evidence has excluded him as a possible match.
 
 
-### OTHER on 2026-09-29 03:00
-- Location: Business Standard
-- Description: FBI on Monday added gangster Satinderjeet Singh alias Goldy Brar to its list of Ten Most Wanted Fugitives and announced a reward of USD one million for information leading to his arrest.
-"Satinderjeet Singh is wanted for his alleged involvement in the Lawrenc…
+### OTHER on 2026-09-29 04:22
+- Location: Dailymail.com
+- Description: The Pima County Sheriff's Department released a statement Monday evening saying it is looking into the new ransom note.
 
 
-### ROBBERY/THEFT on 2026-09-29 02:50
-- Location: New Zealand Herald
-- Description: Brass letters spelling ‘National Park’ have been stolen from an entrance sign.
+### ASSAULT on 2026-09-29 04:18
+- Location: The Times of India
+- Description: A video surfaced showing a youth assaulting a girl in a hotel room in Begusarai town. The incident allegedly took place on Sunday in a hotel located on NH:31. The victim's family filed an FIR with the local police station following the incident. The accused h…
 
-
-### HOMICIDE on 2026-09-29 02:23
-- Location: Fox News
-- Description: Hayden Phillips, a 30-year-old Kentucky state trooper, leaves behind a wife and three sons after being killed during a routine stop on Interstate 65.
-
-
-### OTHER on 2026-09-29 02:14
-- Location: Mobileread.com
-- Description: Short Fiction Various: Past Masters 274, v1, 29 Sep 2026 Other Books
-
-Analysis generated at: Wed Sep 30 03:31:56 UTC 2026
+Analysis generated at: Wed Sep 30 04:54:19 UTC 2026
