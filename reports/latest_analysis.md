@@ -1,10 +1,10 @@
 
-Loaded 136148 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-29 21:40:07
+Loaded 136166 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-30 03:17:46
 
 Incidents by source:
 source
-newsapi           136047
+newsapi           136065
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,30 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-09-29 21:40
-- Location: Sports Illustrated
-- Description: A former Auburn football staffer was arrested after allegedly sharing the program's recruiting intel with nearly a dozen other schools.
+### OTHER on 2026-09-30 03:17
+- Location: ABC News (AU)
+- Description: Tasmanian Police are investigating after a body was found by a pedestrian in a rivulet in Hobart's north.
 
 
-### OTHER on 2026-09-29 21:35
-- Location: Twistedsifter.com
-- Description: This is completely unacceptable!
-The post Drunk Bar Patrons Keep Vandalizing Her Property, But The Police Won’t Do Anything About It appeared first on TwistedSifter.
+### HOMICIDE on 2026-09-30 03:17
+- Location: Dailymail.com
+- Description: Prosecutors in Massachusetts have not yet decided whether they will force Lindsay Clancy to stand trial a second time for killing her three children.
 
 
-### OTHER on 2026-09-29 21:33
-- Location: Mediaite
-- Description: MS NOW reporter Ken Dilanian accused the Trump administration's FBI Director Kash Patel of "gaming the system" when finding people on the Most Wanted list.
-The post MS NOW Reporter Says Trump FBI ‘Gaming the System’ With ‘Most Wanted List’ Captures first appe…
+### OTHER on 2026-09-30 03:03
+- Location: New York Post
+- Description: The cargo inside was decidedly low tech.
 
 
-### OTHER on 2026-09-29 21:26
-- Location: Raw Story
-- Description: President Donald Trump shouted down a reporter he identified as being from CNN after the journalist challenged his claim that artificial intelligence companies can police themselves.The clash came Tuesday as Trump took questions outside the White House with t…
+### ROBBERY/THEFT on 2026-09-30 03:00
+- Location: Thechronicle.com.gh
+- Description: Speaker of Parliament, Alban Sumana Kingsford Bagbin, has ruled as inadmissible a private member’s motion filed by a member of the minority caucus   seeking a parliamentary inquiry into recent major narcotics seizures linked to Ghana. According to Speaker Bag…
 
 
-### OTHER on 2026-09-29 21:19
-- Location: Freerepublic.com
-- Description: New York Mayor Zohran Mamdani has unveiled a new strategy to combat antisemitism just one week after renewing his call for Israeli Prime Minister Benjamin Netanyahu to be arrested. Mamdani announced the first ever municipal 'Strategy to Combat Antisemitism' T…
+### OTHER on 2026-09-30 02:57
+- Location: New York Post
+- Description: According to a lengthy release issued by Mayor Zohran Mamdani's office Tuesday, Hizzoner has discovered that Jew hatred in Gotham is dangerous and widespread.
 
-Analysis generated at: Wed Sep 30 21:48:10 UTC 2026
+Analysis generated at: Thu Oct  1 03:37:03 UTC 2026
