@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Oct  1 05:06:34 UTC 2026
+Last updated: Thu Oct  1 12:15:23 UTC 2026
 
 ## Latest Analysis
 
-Loaded 136185 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-30 05:01:51
+Loaded 136259 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-30 12:13:58
 
 Incidents by source:
 source
-newsapi           136084
+newsapi           136158
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2026-09-30 05:01
-- Location: Gossiplankanews.com
-- Description: Wellawatta Police have succeeded in arresting two individuals, including the main suspect, within a short period of five days, after they entered a two-story house belonging to a lawyer residing in the Wellawatta area of Colombo and stole a safe containing go…
+### OTHER on 2026-09-30 12:13
+- Location: The Times of India
+- Description: Amritsar Police struck hard against organized crime by arresting five suspects and confiscating 13 illegal pistols with more than 3 kg of heroin. This significant operation is part of an ongoing investigation following an earlier seizure of an AK-47 by Rural …
 
 
-### HOMICIDE on 2026-09-30 04:55
-- Location: Dailymail.com
-- Description: Christa Gail Pike, 50, is scheduled to be put to death by lethal injection on Wednesday morning for the 1995 murder of 19-year-old Colleen Slemmer in a fit of jealous rage.
+### OTHER on 2026-09-30 12:12
+- Location: Michaelgeist.ca
+- Description: Bill C-22, the government’s lawful access legislation, is awaiting Senate consideration this fall with the encryption provisions likely to be the centre of attention given diametrically opposing views from law enforcement and technology companies and experts.…
 
 
-### HOMICIDE on 2026-09-30 04:55
-- Location: Fox News
-- Description: A Utah man who spent decades on death row was released on bail after DNA evidence excluded him from the 1985 killing of a police chief's aunt.
+### ASSAULT on 2026-09-30 12:07
+- Location: Freerepublic.com
+- Description: She says immediately after the crash, dozens of men living in the neighborhood came out, removed the 18-year-old driver from her car and then turned their attention to her, verbally insulting her and threatening to attack her with a baseball bat while she wai…
 
 
-### OTHER on 2026-09-30 04:53
-- Location: Addicted2success.com
-- Description: Founders spend their planning energy on the things that feel existential. Rent, payroll, the build-out, whether anyone shows up. Premises liability sits far down the list, filed mentally under insurance, which is to say unsolved. It is not solved. A single fa…
+### OTHER on 2026-09-30 12:00
+- Location: The Times of India
+- Description: Patna’s Gandhi Maidan to host Ramleela Oct 11-19 with a 20x10 ft digital screen; Agra effigies for 71st Ravan Vadh on Oct 20 with special effects.
 
 
-### ASSAULT on 2026-09-30 04:39
-- Location: ABC News (AU)
-- Description: SA Police are looking to identify individuals behind social media accounts and their "level of organisation" after videos emerged of public fights along Adelaide's metropolitan beaches on Tuesday.
+### OTHER on 2026-09-30 12:00
+- Location: Gizmodo.com
+- Description: One false positive, though.
 
-Analysis generated at: Thu Oct  1 05:06:34 UTC 2026
+Analysis generated at: Thu Oct  1 12:15:23 UTC 2026
