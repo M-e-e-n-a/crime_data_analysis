@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Oct  1 12:15:23 UTC 2026
+Last updated: Thu Oct  1 18:17:03 UTC 2026
 
 ## Latest Analysis
 
-Loaded 136259 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-30 12:13:58
+Loaded 136359 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-30 18:16:42
 
 Incidents by source:
 source
-newsapi           136158
+newsapi           136258
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-09-30 12:13
+### HOMICIDE on 2026-09-30 18:16
 - Location: The Times of India
-- Description: Amritsar Police struck hard against organized crime by arresting five suspects and confiscating 13 illegal pistols with more than 3 kg of heroin. This significant operation is part of an ongoing investigation following an earlier seizure of an AK-47 by Rural …
+- Description: Security guard injured in Sunrise Chemical Factory robbery in Kanpur’s Panki Industrial Area dies; police add murder charge, three accused arrested and jailed.
 
 
-### OTHER on 2026-09-30 12:12
-- Location: Michaelgeist.ca
-- Description: Bill C-22, the government’s lawful access legislation, is awaiting Senate consideration this fall with the encryption provisions likely to be the centre of attention given diametrically opposing views from law enforcement and technology companies and experts.…
-
-
-### ASSAULT on 2026-09-30 12:07
-- Location: Freerepublic.com
-- Description: She says immediately after the crash, dozens of men living in the neighborhood came out, removed the 18-year-old driver from her car and then turned their attention to her, verbally insulting her and threatening to attack her with a baseball bat while she wai…
-
-
-### OTHER on 2026-09-30 12:00
+### OTHER on 2026-09-30 18:15
 - Location: The Times of India
-- Description: Patna’s Gandhi Maidan to host Ramleela Oct 11-19 with a 20x10 ft digital screen; Agra effigies for 71st Ravan Vadh on Oct 20 with special effects.
+- Description: Fire destroys Arpora house in Tambudki; family escapes unhurt. Household items, furniture, gold and cash lost; fire likely started from palm fronds.
 
 
-### OTHER on 2026-09-30 12:00
-- Location: Gizmodo.com
-- Description: One false positive, though.
+### OTHER on 2026-09-30 18:15
+- Location: The Times of India
+- Description: Union agri minister Shivraj Singh Chouhan visits Goa to launch ‘Goa Fresh’ vegetable brand, interact with 3,000 stakeholders, and boost irrigation projects.
 
-Analysis generated at: Thu Oct  1 12:15:23 UTC 2026
+
+### OTHER on 2026-09-30 18:15
+- Location: The Times of India
+- Description: Indian Coast Guard rescued ill sailor from Panama-flagged HT Unite off Goa after distress call, provided onboard care and took him to Mormugao port.
+
+
+### ASSAULT on 2026-09-30 18:15
+- Location: The Times of India
+- Description: Nashik: 19-year-old alleges parents, relatives abducted, assaulted and confined her for a month over intercaste marriage; BNS case filed for kidnapping, confinement.
+
+Analysis generated at: Thu Oct  1 18:17:03 UTC 2026
