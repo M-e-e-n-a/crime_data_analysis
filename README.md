@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Oct  1 03:37:03 UTC 2026
+Last updated: Thu Oct  1 05:06:34 UTC 2026
 
 ## Latest Analysis
 
-Loaded 136166 incidents
-Date range: 2024-01-01 00:00:00 to 2026-09-30 03:17:46
+Loaded 136185 incidents
+Date range: 2024-01-01 00:00:00 to 2026-09-30 05:01:51
 
 Incidents by source:
 source
-newsapi           136065
+newsapi           136084
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-09-30 03:17
-- Location: ABC News (AU)
-- Description: Tasmanian Police are investigating after a body was found by a pedestrian in a rivulet in Hobart's north.
+### ROBBERY/THEFT on 2026-09-30 05:01
+- Location: Gossiplankanews.com
+- Description: Wellawatta Police have succeeded in arresting two individuals, including the main suspect, within a short period of five days, after they entered a two-story house belonging to a lawyer residing in the Wellawatta area of Colombo and stole a safe containing go…
 
 
-### HOMICIDE on 2026-09-30 03:17
+### HOMICIDE on 2026-09-30 04:55
 - Location: Dailymail.com
-- Description: Prosecutors in Massachusetts have not yet decided whether they will force Lindsay Clancy to stand trial a second time for killing her three children.
+- Description: Christa Gail Pike, 50, is scheduled to be put to death by lethal injection on Wednesday morning for the 1995 murder of 19-year-old Colleen Slemmer in a fit of jealous rage.
 
 
-### OTHER on 2026-09-30 03:03
-- Location: New York Post
-- Description: The cargo inside was decidedly low tech.
+### HOMICIDE on 2026-09-30 04:55
+- Location: Fox News
+- Description: A Utah man who spent decades on death row was released on bail after DNA evidence excluded him from the 1985 killing of a police chief's aunt.
 
 
-### ROBBERY/THEFT on 2026-09-30 03:00
-- Location: Thechronicle.com.gh
-- Description: Speaker of Parliament, Alban Sumana Kingsford Bagbin, has ruled as inadmissible a private member’s motion filed by a member of the minority caucus   seeking a parliamentary inquiry into recent major narcotics seizures linked to Ghana. According to Speaker Bag…
+### OTHER on 2026-09-30 04:53
+- Location: Addicted2success.com
+- Description: Founders spend their planning energy on the things that feel existential. Rent, payroll, the build-out, whether anyone shows up. Premises liability sits far down the list, filed mentally under insurance, which is to say unsolved. It is not solved. A single fa…
 
 
-### OTHER on 2026-09-30 02:57
-- Location: New York Post
-- Description: According to a lengthy release issued by Mayor Zohran Mamdani's office Tuesday, Hizzoner has discovered that Jew hatred in Gotham is dangerous and widespread.
+### ASSAULT on 2026-09-30 04:39
+- Location: ABC News (AU)
+- Description: SA Police are looking to identify individuals behind social media accounts and their "level of organisation" after videos emerged of public fights along Adelaide's metropolitan beaches on Tuesday.
 
-Analysis generated at: Thu Oct  1 03:37:03 UTC 2026
+Analysis generated at: Thu Oct  1 05:06:34 UTC 2026
