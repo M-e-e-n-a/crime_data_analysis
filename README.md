@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Oct  2 17:16:55 UTC 2026
+Last updated: Fri Oct  2 17:43:19 UTC 2026
 
 ## Latest Analysis
 
-Loaded 136651 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-01 17:12:00
+Loaded 136669 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-01 17:42:52
 
 Incidents by source:
 source
-newsapi           136550
+newsapi           136568
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-10-01 17:12
-- Location: PRNewswire
-- Description: WASHINGTON, Oct. 1, 2026 /PRNewswire/ -- NSSF®, The Firearm Industry Trade Association, welcomes the decision by the U.S. District Court for the District of Connecticut to grant a preliminary injunction preventing Connecticut from enforcing a recently-enacted…
+### HOMICIDE on 2026-10-01 17:42
+- Location: The Times of India
+- Description: Two priests were killed and set ablaze inside a Shiva temple in Shahjahanpur, UP; police detained a local man out on bail, probing a shrine-control dispute.
 
 
-### HOMICIDE on 2026-10-01 17:03
-- Location: Dailymail.com
-- Description: Hendrick Rabitzsch, 48, and his wife Nicole Rabitzsch, 47, were found dead inside their Santa Monica home in California on Saturday night.
+### HOMICIDE on 2026-10-01 17:42
+- Location: The Times of India
+- Description: Two IT firm engineers, Rohit Singh and Luvkush Kumar, were found dead in a Dehradun generator room; police suspect suffocation from generator fumes; probe awaits postmortem.
 
 
-### HOMICIDE on 2026-10-01 17:03
-- Location: Dailymail.com
-- Description: Sophie, 20, spent her last moments cradling her boyfriend's head in her lap as teenage thugs Ryan Herbert and Brendan Harris kicked and beat her unconscious.
+### OTHER on 2026-10-01 17:42
+- Location: The Times of India
+- Description: Mumbai widow duped of Rs 18 lakh in online “gift” scam by man posing as London doctor; FIR filed as cyber police warn rising gift fraud cases.
 
 
-### ROBBERY/THEFT on 2026-10-01 17:03
-- Location: Fortune
-- Description: While the thieves left the sand-filled trailer unscathed, other freighters have faced real threats from organized criminals in search of high-value data center equipment.
+### OTHER on 2026-10-01 17:42
+- Location: The Times of India
+- Description: Jaipur residents say CONCOR depot trucks parked on Kanakpura Road near Gokulpura Phatak are narrowing lanes, causing daily congestion; police cite no parking alternative.
 
 
-### OTHER on 2026-10-01 17:00
-- Location: TheWrap
-- Description: Ryan Phillippe joins the cast for the ABC spinoff’s mystery-ridden return
-The post ‘9-1-1: Nashville’ Season 2 Trailer Unleashes Biblical Plagues and a Grungy New Detective | Exclusive appeared first on TheWrap.
+### HOMICIDE on 2026-10-01 17:41
+- Location: The Times of India
+- Description: Three arrested for copper theft from stranded MT Al Jafzia near Manori after engine-room blast killed four; police suspect gas leak and prior targeting.
 
-Analysis generated at: Fri Oct  2 17:16:55 UTC 2026
+Analysis generated at: Fri Oct  2 17:43:19 UTC 2026
