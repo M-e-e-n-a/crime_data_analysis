@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Oct  2 04:56:40 UTC 2026
+Last updated: Fri Oct  2 11:46:11 UTC 2026
 
 ## Latest Analysis
 
-Loaded 136491 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-01 04:54:10
+Loaded 136554 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-01 11:43:46
 
 Incidents by source:
 source
-newsapi           136390
+newsapi           136453
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-10-01 04:54
-- Location: ABC News (AU)
-- Description: Beau Lamarre-Condon's double murder trial hears from the housemate of Jesse Baird, who told the jury she thought red liquid underneath two surfboard bags was rusted water.
+### OTHER on 2026-10-01 11:43
+- Location: The Local Germany
+- Description: Die Linke's election victory in Berlin has been overshadowed by a row about antisemitism. As the party pushes forward with efforts to take the helm in the capital's next government, we look at the accusations and how the Left has reacted.
 
 
-### HOMICIDE on 2026-10-01 04:37
+### OTHER on 2026-10-01 11:33
+- Location: BBC News
+- Description: Manchester City are far from the first. The lure of glory and riches on the biggest stages have tempted plenty of other sports stars to break the rules.
+
+
+### HOMICIDE on 2026-10-01 11:31
+- Location: Verdadabierta.com
+- Description: Two cocaine labs went up in flames 48 hours apart in southwestern Colombia last January, in mysterious incidents that killed at least 17 civilians. After
+
+
+### SHOOTING on 2026-10-01 11:27
+- Location: CBS News
+- Description: A Venezuelan delivery driver who was shot in his car by an ICE  agent​ in Texas will remain in custody on charges that he assaulted an officer while trying to evade arrest, a federal judge ruled.
+
+
+### OTHER on 2026-10-01 11:17
 - Location: Dailymail.com
-- Description: Mark Stanley Personette, 80, was sentenced to life in prison after spending more than 40 years evading capture for the vicious sexual assault and murder of a 15-year-old girl.
+- Description: Deborah Franklin, 65, committed the historic offences against the boy in the early 1990s when she worked at the Hertfordshire preparatory school, where fees are now £18,000 a year.
 
-
-### OTHER on 2026-10-01 04:30
-- Location: Help Net Security
-- Description: Reported victims of employment scams more than tripled over the past 12 months at more than 370 banks and other financial institutions in 21 countries. The 258% rise outran every other scam type, while total reported scams across the same institutions grew 35…
-
-
-### ROBBERY/THEFT on 2026-10-01 04:18
-- Location: The Times of India
-- Description: A CCTV video capturing a plant theft from a police-marked vehicle has become widely shared on social media. The incident occurred on the Delhi-Dehradun Expressway in Baghpat, Uttar Pradesh, although no complaints have been reported yet. Police are in the proc…
-
-
-### HOMICIDE on 2026-10-01 04:18
-- Location: New York Post
-- Description: Just months after a similar murder-suicide rocked Santa Monica, another couple was found meeting the exact same fate inside their home.
-
-Analysis generated at: Fri Oct  2 04:56:40 UTC 2026
+Analysis generated at: Fri Oct  2 11:46:11 UTC 2026
