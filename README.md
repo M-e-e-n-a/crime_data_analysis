@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Oct  2 11:46:11 UTC 2026
+Last updated: Fri Oct  2 17:16:55 UTC 2026
 
 ## Latest Analysis
 
-Loaded 136554 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-01 11:43:46
+Loaded 136651 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-01 17:12:00
 
 Incidents by source:
 source
-newsapi           136453
+newsapi           136550
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-10-01 11:43
-- Location: The Local Germany
-- Description: Die Linke's election victory in Berlin has been overshadowed by a row about antisemitism. As the party pushes forward with efforts to take the helm in the capital's next government, we look at the accusations and how the Left has reacted.
+### SHOOTING on 2026-10-01 17:12
+- Location: PRNewswire
+- Description: WASHINGTON, Oct. 1, 2026 /PRNewswire/ -- NSSF®, The Firearm Industry Trade Association, welcomes the decision by the U.S. District Court for the District of Connecticut to grant a preliminary injunction preventing Connecticut from enforcing a recently-enacted…
 
 
-### OTHER on 2026-10-01 11:33
-- Location: BBC News
-- Description: Manchester City are far from the first. The lure of glory and riches on the biggest stages have tempted plenty of other sports stars to break the rules.
-
-
-### HOMICIDE on 2026-10-01 11:31
-- Location: Verdadabierta.com
-- Description: Two cocaine labs went up in flames 48 hours apart in southwestern Colombia last January, in mysterious incidents that killed at least 17 civilians. After
-
-
-### SHOOTING on 2026-10-01 11:27
-- Location: CBS News
-- Description: A Venezuelan delivery driver who was shot in his car by an ICE  agent​ in Texas will remain in custody on charges that he assaulted an officer while trying to evade arrest, a federal judge ruled.
-
-
-### OTHER on 2026-10-01 11:17
+### HOMICIDE on 2026-10-01 17:03
 - Location: Dailymail.com
-- Description: Deborah Franklin, 65, committed the historic offences against the boy in the early 1990s when she worked at the Hertfordshire preparatory school, where fees are now £18,000 a year.
+- Description: Hendrick Rabitzsch, 48, and his wife Nicole Rabitzsch, 47, were found dead inside their Santa Monica home in California on Saturday night.
 
-Analysis generated at: Fri Oct  2 11:46:11 UTC 2026
+
+### HOMICIDE on 2026-10-01 17:03
+- Location: Dailymail.com
+- Description: Sophie, 20, spent her last moments cradling her boyfriend's head in her lap as teenage thugs Ryan Herbert and Brendan Harris kicked and beat her unconscious.
+
+
+### ROBBERY/THEFT on 2026-10-01 17:03
+- Location: Fortune
+- Description: While the thieves left the sand-filled trailer unscathed, other freighters have faced real threats from organized criminals in search of high-value data center equipment.
+
+
+### OTHER on 2026-10-01 17:00
+- Location: TheWrap
+- Description: Ryan Phillippe joins the cast for the ABC spinoff’s mystery-ridden return
+The post ‘9-1-1: Nashville’ Season 2 Trailer Unleashes Biblical Plagues and a Grungy New Detective | Exclusive appeared first on TheWrap.
+
+Analysis generated at: Fri Oct  2 17:16:55 UTC 2026
