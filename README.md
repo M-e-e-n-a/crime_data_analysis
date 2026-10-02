@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Oct  2 03:36:42 UTC 2026
+Last updated: Fri Oct  2 04:56:40 UTC 2026
 
 ## Latest Analysis
 
-Loaded 136480 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-01 03:35:51
+Loaded 136491 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-01 04:54:10
 
 Incidents by source:
 source
-newsapi           136379
+newsapi           136390
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-10-01 03:35
-- Location: Rediff.com
-- Description: Looking at the best Tom Cruise films outside the Mission: Impossible franchise that proves just how versatile the superstar can be.
-
-
-### ROBBERY/THEFT on 2026-10-01 03:00
-- Location: Sankakucomplex.com
-- Description: Rockstar Games’ developers spent years making trips to Florida for the sake of Grand Theft Auto VI, their activities there including visiting strip clubs and nightclubs, riding around with former police officers and exploring everything from beaches to the Ev…
-
-
-### HOMICIDE on 2026-10-01 02:52
-- Location: The Times of India
-- Description: Nishi Agrawal found her husband Rakesh murdered in their home, with the caretaker Varun now a prime suspect. She discovered her bedroom door was locked from the outside, prompting immediate action from the cook Amar. They found evidence of a potential gas lea…
-
-
-### OTHER on 2026-10-01 02:51
-- Location: New York Post
-- Description: The “Cornell 7” gang rape case is descending into the same lynch-mob hysteria as the notorious Duke lacrosse or “mattress girl” hoaxes of old — only with social media making ­everything worse.…
-
-
-### SHOOTING on 2026-10-01 02:44
+### HOMICIDE on 2026-10-01 04:54
 - Location: ABC News (AU)
-- Description: Residents of communities caught in the crossfire of Western Sydney's gang war say they are fearful and angry, after a series of mistaken identity shootings.
+- Description: Beau Lamarre-Condon's double murder trial hears from the housemate of Jesse Baird, who told the jury she thought red liquid underneath two surfboard bags was rusted water.
 
-Analysis generated at: Fri Oct  2 03:36:42 UTC 2026
+
+### HOMICIDE on 2026-10-01 04:37
+- Location: Dailymail.com
+- Description: Mark Stanley Personette, 80, was sentenced to life in prison after spending more than 40 years evading capture for the vicious sexual assault and murder of a 15-year-old girl.
+
+
+### OTHER on 2026-10-01 04:30
+- Location: Help Net Security
+- Description: Reported victims of employment scams more than tripled over the past 12 months at more than 370 banks and other financial institutions in 21 countries. The 258% rise outran every other scam type, while total reported scams across the same institutions grew 35…
+
+
+### ROBBERY/THEFT on 2026-10-01 04:18
+- Location: The Times of India
+- Description: A CCTV video capturing a plant theft from a police-marked vehicle has become widely shared on social media. The incident occurred on the Delhi-Dehradun Expressway in Baghpat, Uttar Pradesh, although no complaints have been reported yet. Police are in the proc…
+
+
+### HOMICIDE on 2026-10-01 04:18
+- Location: New York Post
+- Description: Just months after a similar murder-suicide rocked Santa Monica, another couple was found meeting the exact same fate inside their home.
+
+Analysis generated at: Fri Oct  2 04:56:40 UTC 2026
