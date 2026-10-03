@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Oct  3 03:20:57 UTC 2026
+Last updated: Sat Oct  3 04:39:17 UTC 2026
 
 ## Latest Analysis
 
-Loaded 136772 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-02 03:11:35
+Loaded 136782 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-02 04:34:49
 
 Incidents by source:
 source
-newsapi           136671
+newsapi           136681
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-10-02 03:11
-- Location: CNN
-- Description: A white Dallas police officer convicted of killing a Black man in his apartment that she mistook for her own was granted parole Thursday after serving seven years of her 10-year sentence.
-
-
-### OTHER on 2026-10-02 03:00
-- Location: Thesimplyluxuriouslife.com
-- Description: A new-to-me French drama series set in Paris (loving it!), friends and family sales not to miss, books about seasonal decorating, reading, books and the humor bookselling can bring, a mystery set in London that revolves around . . . (you’ll just have to start…
-
-
-### OTHER on 2026-10-02 02:53
+### OTHER on 2026-10-02 04:34
 - Location: The Times of India
-- Description: AAP leaders Atishi and Sanjay Singh have appealed to people to join a proposed October 2 protest at Delhi’s Jantar Mantar over the Election Commission’s functioning and the Special Intensive Revision (SIR) of electoral rolls. Delhi Police had not granted perm…
+- Description: Shri Ram Janmabhoomi Teerth Kshetra Trust decides to conduct 100 percent verification of all staff working at the Ram temple in Ayodhya. The security measures will include police verification, character certificates and detailed family information. The decisi…
 
 
-### HOMICIDE on 2026-10-02 02:53
-- Location: ABC News (AU)
-- Description: A jury has been played a Triple Zero (000) call from the phone of Luke Davies on the morning he and his boyfriend, Jesse Baird, were allegedly murdered by then-police officer Beau Lamarre-Condon.
+### OTHER on 2026-10-02 04:25
+- Location: BBC News
+- Description: The Cockroach Janta Party has asked supporters to turn out for a protest in Mumbai to demand electoral reforms.
 
 
-### SHOOTING on 2026-10-02 02:51
+### OTHER on 2026-10-02 04:15
+- Location: Juancole.com
+- Description: He must keep the machinery of war permanently running and drag the region toward the precipice of a global war to avoid trials & defeat
+
+
+### HOMICIDE on 2026-10-02 04:14
 - Location: Dailymail.com
-- Description: Police have responded to the area of South 9th and East Carson streets, and South 7th and Cabot, near Pittsburgh Public Schools' George Cupples Stadium, where Westinghouse was taking on University Prep.
+- Description: Aidan Hamilton, 18, and Robert Strang, 20, were found dead on September 21 after police received separate reports that they were unresponsive and possibly overdosing.
 
-Analysis generated at: Sat Oct  3 03:20:57 UTC 2026
+
+### HOMICIDE on 2026-10-02 04:12
+- Location: Slashdot.org
+- Description: Wife of slain NY Times exec alleged 'deeply disturbing' book given to childrenSFGATE Couple Accused of Killing Their Son-in-Law in Bay Area ParkThe New York Times New York Times executive fatally shot by his in-laws in Bay Area park, police sayNBC News Dublin…
+
+Analysis generated at: Sat Oct  3 04:39:17 UTC 2026
