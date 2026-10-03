@@ -1,10 +1,10 @@
 
-Loaded 136940 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-02 16:00:41
+Loaded 137040 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-02 20:23:00
 
 Incidents by source:
 source
-newsapi           136839
+newsapi           136939
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,29 +20,32 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-10-02 16:00
+### OTHER on 2026-10-02 20:23
+- Location: Gothamist
+- Description: An NYPD car is seen in New York City on July 4, 2024.
+ 
+
+Mayor Mamdani and Commissioner Jessica Tisch planned to visit the officer in the hospital. [ more › ]
+
+
+### OTHER on 2026-10-02 20:16
+- Location: RT
+- Description: The ‘spontaneous’ student uprising in France has been suspiciously quickly adopted by left-wing politicians to push their own pet causes Read Full Article at RT.com
+
+
+### ASSAULT on 2026-10-02 20:08
 - Location: Dailymail.com
-- Description: Chilling footage showed the SUV wedged against the brick building with its front end badly mangled, windows shattered and a metal railing torn from its posts as investigators combed the area.
+- Description: The 15-year-old teen was taken to the hospital after suffering extensive burns.
 
 
-### OTHER on 2026-10-02 16:00
-- Location: Screen Rant
-- Description: These HBO crime miniseries deliver gripping mysteries and unforgettable performances, all in taut storylines with absolutely no weak episodes.
+### ASSAULT on 2026-10-02 20:06
+- Location: Common Dreams
+- Description: Police in New Delhi detained hundreds of people Friday amid a crackdown on demonstrations challenging India's election authorities and their controversial revision of voter rolls, prompting Amnesty International to accuse the government of trampling fundament…
 
 
-### HOMICIDE on 2026-10-02 15:55
-- Location: CBC News
-- Description: Gypsy Rose Blanchard, who spent more than seven years in prison for her mother's murder, is speaking out after Ken Urker, her former fiancé and the father of her daughter, died yesterday.
+### SHOOTING on 2026-10-02 20:00
+- Location: Legalinsurrection.com
+- Description: "The family of Rene[e] Good has filed a lawsuit accusing me of participating in a 'conspiracy' with President Trump, Nick Shirley, and Palantir to violate the Ku Klux Klan Act of 1871. It provides no evidence for that conspiracy."
+The post Renee Good’s Family…
 
-
-### OTHER on 2026-10-02 15:51
-- Location: New York Post
-- Description: A red-faced pom-snatcher in Fresno County has been caught on camera with his hands full of the tart fruit, law enforcement said Thursday.
-
-
-### OTHER on 2026-10-02 15:46
-- Location: Mediaite
-- Description: Police are investigating after a Maine reporter was nearly run over on video while filming a segment outside of a treatment center.
-The post Police Investigating After Video Catches Man Appearing to Try and Run Over Maine Conservative Reporter first appeared …
-
-Analysis generated at: Sat Oct  3 16:01:51 UTC 2026
+Analysis generated at: Sat Oct  3 20:30:07 UTC 2026
