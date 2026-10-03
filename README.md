@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Oct  3 04:39:17 UTC 2026
+Last updated: Sat Oct  3 10:59:10 UTC 2026
 
 ## Latest Analysis
 
-Loaded 136782 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-02 04:34:49
+Loaded 136839 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-02 10:57:45
 
 Incidents by source:
 source
-newsapi           136681
+newsapi           136738
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-10-02 04:34
+### HOMICIDE on 2026-10-02 10:57
+- Location: YLE News
+- Description: The man travelled from the UK to Joensuu in January 2025 after the Finnish woman ended their online friendship.
+
+
+### OTHER on 2026-10-02 10:53
 - Location: The Times of India
-- Description: Shri Ram Janmabhoomi Teerth Kshetra Trust decides to conduct 100 percent verification of all staff working at the Ram temple in Ayodhya. The security measures will include police verification, character certificates and detailed family information. The decisi…
+- Description: In its report, Grant Thornton said the next phase of green real estate will move beyond certification labels and place greater emphasis on how buildings actually perform. Grant Thornton said green certification and operating-performance data are increasingly …
 
 
-### OTHER on 2026-10-02 04:25
-- Location: BBC News
-- Description: The Cockroach Janta Party has asked supporters to turn out for a protest in Mumbai to demand electoral reforms.
+### OTHER on 2026-10-02 10:53
+- Location: The Times of India
+- Description: Life-size Mahatma Gandhi statue unveiled at Ramgarh’s Gandhi Chowk; leaders and residents paid tributes, recalled his 1940 visit, and pledged truth, non-violence and cleanliness.
 
 
-### OTHER on 2026-10-02 04:15
-- Location: Juancole.com
-- Description: He must keep the machinery of war permanently running and drag the region toward the precipice of a global war to avoid trials & defeat
+### OTHER on 2026-10-02 10:49
+- Location: The Times of India
+- Description: French protests continued to escalate on Friday, with around 400 schools and other educational establishments expected to remain closed as high school
 
 
-### HOMICIDE on 2026-10-02 04:14
-- Location: Dailymail.com
-- Description: Aidan Hamilton, 18, and Robert Strang, 20, were found dead on September 21 after police received separate reports that they were unresponsive and possibly overdosing.
+### OTHER on 2026-10-02 10:46
+- Location: Al Jazeera English
+- Description: Demonstrators gather in Mumbai and New Delhi to demand the resignation of Election Commission chief.
 
-
-### HOMICIDE on 2026-10-02 04:12
-- Location: Slashdot.org
-- Description: Wife of slain NY Times exec alleged 'deeply disturbing' book given to childrenSFGATE Couple Accused of Killing Their Son-in-Law in Bay Area ParkThe New York Times New York Times executive fatally shot by his in-laws in Bay Area park, police sayNBC News Dublin…
-
-Analysis generated at: Sat Oct  3 04:39:17 UTC 2026
+Analysis generated at: Sat Oct  3 10:59:10 UTC 2026
