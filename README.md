@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Oct  3 10:59:10 UTC 2026
+Last updated: Sat Oct  3 15:35:56 UTC 2026
 
 ## Latest Analysis
 
-Loaded 136839 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-02 10:57:45
+Loaded 136935 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-02 15:32:17
 
 Incidents by source:
 source
-newsapi           136738
+newsapi           136834
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-10-02 10:57
-- Location: YLE News
-- Description: The man travelled from the UK to Joensuu in January 2025 after the Finnish woman ended their online friendship.
+### OTHER on 2026-10-02 15:32
+- Location: Dailymail.com
+- Description: Rather than walking away with what amounted to a life-changing pile of cash, a good samaritan in Texas called 911 and got the money back to its rightful owner.
 
 
-### OTHER on 2026-10-02 10:53
-- Location: The Times of India
-- Description: In its report, Grant Thornton said the next phase of green real estate will move beyond certification labels and place greater emphasis on how buildings actually perform. Grant Thornton said green certification and operating-performance data are increasingly …
+### SHOOTING on 2026-10-02 15:22
+- Location: Breitbart News
+- Description: An 11-hour hunt for a man who allegedly shot a deputy then stole his patrol vehicle ended early Thursday morning in Channelview, Texas, with the suspect surrendering to authorities.
+The post 11-Hour Manhunt Ends: Man Who Allegedly Shot Sheriff’s Deputy Captur…
 
 
-### OTHER on 2026-10-02 10:53
-- Location: The Times of India
-- Description: Life-size Mahatma Gandhi statue unveiled at Ramgarh’s Gandhi Chowk; leaders and residents paid tributes, recalled his 1940 visit, and pledged truth, non-violence and cleanliness.
+### HOMICIDE on 2026-10-02 15:19
+- Location: Dailymail.com
+- Description: The 37-year-old Golden Globe winner (pictured) told Glasgow Sheriff Court he saw a 'flurry of arms' as Xiaoma Zhang was allegedly attacked by 22-year-old Lucas Bains.
 
 
-### OTHER on 2026-10-02 10:49
-- Location: The Times of India
-- Description: French protests continued to escalate on Friday, with around 400 schools and other educational establishments expected to remain closed as high school
+### HOMICIDE on 2026-10-02 15:18
+- Location: Dailymail.com
+- Description: The 37-year-old Golden Globe winner (pictured) told Glasgow Sheriff Court he saw a 'flurry of arms' as Xiaoma Zhang was allegedly attacked by 22-year-old Lucas Bains.
 
 
-### OTHER on 2026-10-02 10:46
-- Location: Al Jazeera English
-- Description: Demonstrators gather in Mumbai and New Delhi to demand the resignation of Election Commission chief.
+### ROBBERY/THEFT on 2026-10-02 15:14
+- Location: Fox News
+- Description: Letitia James announced an active criminal probe into the alleged Cornell University gang rape after Gov. Kathy Hochul named her special prosecutor.
 
-Analysis generated at: Sat Oct  3 10:59:10 UTC 2026
+Analysis generated at: Sat Oct  3 15:35:56 UTC 2026
