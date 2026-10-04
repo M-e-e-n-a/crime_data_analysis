@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Oct  4 03:49:19 UTC 2026
+Last updated: Sun Oct  4 05:09:46 UTC 2026
 
 ## Latest Analysis
 
-Loaded 137059 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-03 03:45:07
+Loaded 137067 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-03 04:50:05
 
 Incidents by source:
 source
-newsapi           136958
+newsapi           136966
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-10-03 03:45
-- Location: Khabarhub.com
-- Description: KATHMANDU: Over 3,500 police personnel will be mobilised across the capital during Dashain, Tihar and Chhath to strengthen security amid increased travel, large gatherings and other festival-related risks. The Kathmandu District Police Range said the deployme…
+### HOMICIDE on 2026-10-03 04:50
+- Location: Dailymail.com
+- Description: Neighbors told local news that the couple were well-known fashion designers. Police said there is no known threat to the public, and the investigation remains ongoing.
 
 
-### OTHER on 2026-10-03 03:20
-- Location: Gossiplankanews.com
-- Description: The request made by the Bribery Commission to Colombo Chief Magistrate Asanga S. Bodaragama to issue warrants for Indian nationals Amit Kattayar and Rajendra Prasad Gupta, two directors of Krish Transer Private Company, for investigations related to the contr…
+### SHOOTING on 2026-10-03 04:37
+- Location: The Indianapolis Star
+- Description: IMPD responds to shooting following football game at Warren Central on Friday night.
 
 
-### HOMICIDE on 2026-10-03 03:16
+### OTHER on 2026-10-03 04:37
 - Location: The Times of India
-- Description: Mumbai Crime Branch has examined Professor Suryanarayan Doolla's statement regarding Sahil Wakode's tragic death. Doolla was questioned for eight to ten hours and denied all allegations against him. He claimed to have adhered to all institutional guidelines w…
+- Description: NEW DELHI: IIT Bombay Professor Suryanarayana Doolla told the Mumbai Police Crime Branch that he had followed the institute’s prescribed guidelines and
 
 
-### OTHER on 2026-10-03 03:08
-- Location: Livemint
-- Description: From fake promotional offers and cancellation OTPs to urgent calls from strangers, cyber fraudsters are finding new ways to trick even well-educated people. Here’s how scammers exploit fear, stress and urgency, and what you can do to protect yourself from fin…
+### HOMICIDE on 2026-10-03 04:16
+- Location: Dailymail.com
+- Description: Anderson previously tied the knot with Blanchard during a jailhouse ceremony in July 2022.
 
 
-### OTHER on 2026-10-03 02:57
-- Location: NPR
-- Description: Four years after President Lula narrowly defeated Jair Bolsonaro, Brazil is back at the ballot box. This time, Lula faces Bolsonaro's son, Flávio, in a high-stakes rematch.
+### ASSAULT on 2026-10-03 04:04
+- Location: Juancole.com
+- Description: That tension is striking in Tunisia, where Palestine has broad public support and Saied himself has expressed support for the Palestinian cause
 
-Analysis generated at: Sun Oct  4 03:49:19 UTC 2026
+Analysis generated at: Sun Oct  4 05:09:46 UTC 2026
