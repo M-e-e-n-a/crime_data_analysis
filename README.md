@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Oct  3 20:30:07 UTC 2026
+Last updated: Sun Oct  4 03:49:19 UTC 2026
 
 ## Latest Analysis
 
-Loaded 137040 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-02 20:23:00
+Loaded 137059 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-03 03:45:07
 
 Incidents by source:
 source
-newsapi           136939
+newsapi           136958
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,32 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-10-02 20:23
-- Location: Gothamist
-- Description: An NYPD car is seen in New York City on July 4, 2024.
- 
-
-Mayor Mamdani and Commissioner Jessica Tisch planned to visit the officer in the hospital. [ more › ]
+### OTHER on 2026-10-03 03:45
+- Location: Khabarhub.com
+- Description: KATHMANDU: Over 3,500 police personnel will be mobilised across the capital during Dashain, Tihar and Chhath to strengthen security amid increased travel, large gatherings and other festival-related risks. The Kathmandu District Police Range said the deployme…
 
 
-### OTHER on 2026-10-02 20:16
-- Location: RT
-- Description: The ‘spontaneous’ student uprising in France has been suspiciously quickly adopted by left-wing politicians to push their own pet causes Read Full Article at RT.com
+### OTHER on 2026-10-03 03:20
+- Location: Gossiplankanews.com
+- Description: The request made by the Bribery Commission to Colombo Chief Magistrate Asanga S. Bodaragama to issue warrants for Indian nationals Amit Kattayar and Rajendra Prasad Gupta, two directors of Krish Transer Private Company, for investigations related to the contr…
 
 
-### ASSAULT on 2026-10-02 20:08
-- Location: Dailymail.com
-- Description: The 15-year-old teen was taken to the hospital after suffering extensive burns.
+### HOMICIDE on 2026-10-03 03:16
+- Location: The Times of India
+- Description: Mumbai Crime Branch has examined Professor Suryanarayan Doolla's statement regarding Sahil Wakode's tragic death. Doolla was questioned for eight to ten hours and denied all allegations against him. He claimed to have adhered to all institutional guidelines w…
 
 
-### ASSAULT on 2026-10-02 20:06
-- Location: Common Dreams
-- Description: Police in New Delhi detained hundreds of people Friday amid a crackdown on demonstrations challenging India's election authorities and their controversial revision of voter rolls, prompting Amnesty International to accuse the government of trampling fundament…
+### OTHER on 2026-10-03 03:08
+- Location: Livemint
+- Description: From fake promotional offers and cancellation OTPs to urgent calls from strangers, cyber fraudsters are finding new ways to trick even well-educated people. Here’s how scammers exploit fear, stress and urgency, and what you can do to protect yourself from fin…
 
 
-### SHOOTING on 2026-10-02 20:00
-- Location: Legalinsurrection.com
-- Description: "The family of Rene[e] Good has filed a lawsuit accusing me of participating in a 'conspiracy' with President Trump, Nick Shirley, and Palantir to violate the Ku Klux Klan Act of 1871. It provides no evidence for that conspiracy."
-The post Renee Good’s Family…
+### OTHER on 2026-10-03 02:57
+- Location: NPR
+- Description: Four years after President Lula narrowly defeated Jair Bolsonaro, Brazil is back at the ballot box. This time, Lula faces Bolsonaro's son, Flávio, in a high-stakes rematch.
 
-Analysis generated at: Sat Oct  3 20:30:07 UTC 2026
+Analysis generated at: Sun Oct  4 03:49:19 UTC 2026
