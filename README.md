@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Oct  4 05:09:46 UTC 2026
+Last updated: Sun Oct  4 11:41:32 UTC 2026
 
 ## Latest Analysis
 
-Loaded 137067 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-03 04:50:05
+Loaded 137105 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-03 11:40:14
 
 Incidents by source:
 source
-newsapi           136966
+newsapi           137004
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-10-03 04:50
-- Location: Dailymail.com
-- Description: Neighbors told local news that the couple were well-known fashion designers. Police said there is no known threat to the public, and the investigation remains ongoing.
-
-
-### SHOOTING on 2026-10-03 04:37
-- Location: The Indianapolis Star
-- Description: IMPD responds to shooting following football game at Warren Central on Friday night.
-
-
-### OTHER on 2026-10-03 04:37
+### ROBBERY/THEFT on 2026-10-03 11:40
 - Location: The Times of India
-- Description: NEW DELHI: IIT Bombay Professor Suryanarayana Doolla told the Mumbai Police Crime Branch that he had followed the institute’s prescribed guidelines and
+- Description: Bokaro police arrested 24-year-old Shivanshu Prabhakar for e-scooter theft in Sector 5/D; two stolen e-bikes recovered; sent to judicial custody.
 
 
-### HOMICIDE on 2026-10-03 04:16
-- Location: Dailymail.com
-- Description: Anderson previously tied the knot with Blanchard during a jailhouse ceremony in July 2022.
+### DRUG RELATED on 2026-10-03 11:29
+- Location: The Times of India
+- Description: Palamu police inspected 792 vehicles in a 2-hour anti-crime drive at 12 locations, targeting illegal arms, drugs, liquor smuggling and human trafficking.
 
 
-### ASSAULT on 2026-10-03 04:04
-- Location: Juancole.com
-- Description: That tension is striking in Tunisia, where Palestine has broad public support and Saied himself has expressed support for the Palestinian cause
+### HOMICIDE on 2026-10-03 10:37
+- Location: The Times of India
+- Description: Jyoti Chaurasia, a 26-year-old woman, was fatally stabbed by two men in broad daylight. The incident took place in Amaltas Colony, Chhatarpur, while bystanders watched without intervening. Police found her children asleep inside the home, which was locked fro…
 
-Analysis generated at: Sun Oct  4 05:09:46 UTC 2026
+
+### HOMICIDE on 2026-10-03 10:27
+- Location: Biztoc.com
+- Description: At least two people were shot dead at a Los Angeles strip mall in Northridge on Friday, according to reports.
+The Los Angeles Police Department (LAPD) said they responded to the scene of a large party shortly before 11 p.m. PT, according to ABC 7’s Eyewitness…
+
+
+### OTHER on 2026-10-03 10:25
+- Location: The Times of India
+- Description: Shabnam Noorjahan, an assistant professor, organized a program on Sufism and women's empowerment at Farook College. Her focus on Rumi and Sufi teachings led to significant criticism from conservative elements within the community. Detractors argue that Sufism…
+
+Analysis generated at: Sun Oct  4 11:41:32 UTC 2026
