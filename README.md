@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Oct  4 16:43:28 UTC 2026
+Last updated: Sun Oct  4 20:47:42 UTC 2026
 
 ## Latest Analysis
 
-Loaded 137182 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-03 16:43:07
+Loaded 137282 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-03 20:44:09
 
 Incidents by source:
 source
-newsapi           137081
+newsapi           137181
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,31 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-10-03 16:43
-- Location: Screen Rant
-- Description: After debuting at No. 1 at the domestic box office, the re-release Avengers Endgame: Encore collapses with the MCU's biggest sophomore drop ever.
+### OTHER on 2026-10-03 20:44
+- Location: Bleeding Cool News
+- Description: Skunkape Games dropped a new update this week for Poker Night at the Inventory, giving players more content to have some fun with. If you're not familiar with the game, it is a poker title where you play against four characters from IPs, including Sam & Max, …
 
 
-### HOMICIDE on 2026-10-03 16:40
-- Location: BBC News
-- Description: The 40-year-old died at scene in west London from a gunshot wound, the Met Police said.
+### HOMICIDE on 2026-10-03 20:43
+- Location: Dailymail.com
+- Description: A 15-year-old boy faces domestic terrorism charges after mixing chemicals in the school cafeteria, nearly killing himself.
 
 
-### HOMICIDE on 2026-10-03 16:40
+### OTHER on 2026-10-03 20:38
+- Location: Gothamist
+- Description: Police said the suspect has not been apprehended and the investigation is still ongoing.
+ 
+
+Officers responding to a call at the intersection of Jamaica Avenue and 173rd Street around 1 a.m. found 29-year-old Sulimon Ferrier, who had multiple stab wounds to h…
+
+
+### HOMICIDE on 2026-10-03 20:36
 - Location: New York Post
-- Description: Relatives believed she was suffering from postpartum depression, and wrote to her referencing Lindsay Clancy to express fears that she might do something similar and harm her children.
+- Description: The suspect accused of causing a deadly 8-car pileup in Oxnard has turned himself in on a charge of vehicular homicide.
 
 
-### SHOOTING on 2026-10-03 16:33
+### HOMICIDE on 2026-10-03 20:27
 - Location: Dailymail.com
-- Description: A live TV interview after a high school football game in Pittsburgh was abandoned on Thursday night after gunshots rang out outside the stadium.
+- Description: The deceased bodies of Carlo Montiel Infantino and his sister Melanie, both 17, were discovered alongside their dead father Ivan Montiel Roa, 63, after deputies responded to a well-being check.
 
-
-### HOMICIDE on 2026-10-03 16:21
-- Location: Dailymail.com
-- Description: A murder investigation has been launched after a 40-year-old man was shot dead in a 'senseless act of violence' as up to 50 people - including children - gathered for a memorial service.
-
-Analysis generated at: Sun Oct  4 16:43:28 UTC 2026
+Analysis generated at: Sun Oct  4 20:47:41 UTC 2026
