@@ -1,10 +1,10 @@
 
-Loaded 137105 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-03 11:40:14
+Loaded 137177 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-03 16:16:23
 
 Incidents by source:
 source
-newsapi           137004
+newsapi           137076
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2026-10-03 11:40
+### OTHER on 2026-10-03 16:16
 - Location: The Times of India
-- Description: Bokaro police arrested 24-year-old Shivanshu Prabhakar for e-scooter theft in Sector 5/D; two stolen e-bikes recovered; sent to judicial custody.
+- Description: Two girls, 12-year-old Anshi and 10-year-old Kajal, feared drowned after being swept away by Kao river currents near Pachdarwa bridge in Buxar.
 
 
-### DRUG RELATED on 2026-10-03 11:29
+### OTHER on 2026-10-03 16:15
 - Location: The Times of India
-- Description: Palamu police inspected 792 vehicles in a 2-hour anti-crime drive at 12 locations, targeting illegal arms, drugs, liquor smuggling and human trafficking.
+- Description: Centre approves Kharagpur–Amaravati greenfield highway: 1,107 km total, 457 km in Andhra Pradesh incl. 200 km in Alluri Sitarama Raju; ₹32,000 cr AP.
 
 
-### HOMICIDE on 2026-10-03 10:37
+### SHOOTING on 2026-10-03 16:15
+- Location: New Zealand Herald
+- Description: Mr Gibbs didn't hear the thieves over the wireless, so Mrs Gibbs reached for the shotgun.
+
+
+### OTHER on 2026-10-03 16:14
 - Location: The Times of India
-- Description: Jyoti Chaurasia, a 26-year-old woman, was fatally stabbed by two men in broad daylight. The incident took place in Amaltas Colony, Chhatarpur, while bystanders watched without intervening. Police found her children asleep inside the home, which was locked fro…
+- Description: A tragic incident unfolded as a 79-year-old man and his 71-year-old wife were struck by a vehicle near Arya Samaj Mandir in Kirti Nagar, west Delhi. The police quickly registered an FIR and apprehended the driver, Navleen Kaur. Fortunately, the couple is now …
 
 
-### HOMICIDE on 2026-10-03 10:27
-- Location: Biztoc.com
-- Description: At least two people were shot dead at a Los Angeles strip mall in Northridge on Friday, according to reports.
-The Los Angeles Police Department (LAPD) said they responded to the scene of a large party shortly before 11 p.m. PT, according to ABC 7’s Eyewitness…
+### ROBBERY/THEFT on 2026-10-03 16:12
+- Location: New York Post
+- Description: A Missouri dog owner located her stolen pooch after hearing its "unique bark" in the background of a Facebook video exposing an accused pet thief's squalid property full of horribly abused pets, police said.
 
-
-### OTHER on 2026-10-03 10:25
-- Location: The Times of India
-- Description: Shabnam Noorjahan, an assistant professor, organized a program on Sufism and women's empowerment at Farook College. Her focus on Rumi and Sufi teachings led to significant criticism from conservative elements within the community. Detractors argue that Sufism…
-
-Analysis generated at: Sun Oct  4 11:41:32 UTC 2026
+Analysis generated at: Sun Oct  4 16:19:15 UTC 2026
