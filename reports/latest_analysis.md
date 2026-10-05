@@ -1,10 +1,10 @@
 
-Loaded 137298 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-04 03:27:23
+Loaded 137307 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-04 04:43:49
 
 Incidents by source:
 source
-newsapi           137197
+newsapi           137206
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,31 @@ ion.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2026-10-04 03:27
-- Location: Freerepublic.com
-- Description: New York Attorney General Letitia James just became the face of the Cornell rape case. This is not going to end well. Gov. Kathy Hochul appointed James as special prosecutor in the Cornell University sexual assault investigation, effectively removing the case…
-
-
-### HOMICIDE on 2026-10-04 03:13
-- Location: Biztoc.com
-- Description: Japan lodged a protest with the United States after an American Marine was arrested on suspicion of robbery and murder in Okinawa prefecture.Japanese police said they detained 20-year-old Davin Ballar...
-
-
-### HOMICIDE on 2026-10-04 03:00
-- Location: The Washington Post
-- Description: Washington Post: The 1982 axe murders are revisited in Ryan Murphy's latest TV show.
-
-
-### OTHER on 2026-10-04 02:15
-- Location: Gnlm.com.mm
-- Description: Police personnel from township police stations across Yangon Region conducted operations in cooperation with traffic police and local administrative officials […]
-
-
-### OTHER on 2026-10-04 01:56
+### OTHER on 2026-10-04 04:43
 - Location: The Times of India
-- Description: Sambhav Jain, a 28-year-old software engineer, died by suicide after jumping from a 41st-floor balcony. He had been staying alone in an Airbnb and expressed feelings of depression before the incident. Police are investigating personal difficulties and financi…
+- Description: On October 3, three female journalists reported instances of sexual harassment to the Delhi Police during a protest. These cases were referred to the Crime Branch for further inquiry. This protest, directed at Chief Election Commissioner Gyanesh Kumar regardi…
 
-Analysis generated at: Mon Oct  5 03:33:45 UTC 2026
+
+### HOMICIDE on 2026-10-04 04:30
+- Location: Gossiplankanews.com
+- Description: A group of organized crime gang members, who were staying in a house in the Kosgoda, Akadegoda area and planning to murder four individuals, were raided by the Walana Anti-Corruption Strike Unit last night (03).
+<!--gossip-below-article-Rs--> (adsbygoogle = …
+
+
+### SHOOTING on 2026-10-04 04:03
+- Location: Gossiplankanews.com
+- Description: A person was injured and hospitalized due to a shooting carried out by an unknown gunman operating in the Ahungalla, Galwehera area today (04) early morning. Ahungalla Police stated that C.P. in the Galwehera area.Dadalla Lanu Modarage Nandasena, a 74-year-ol…
+
+
+### OTHER on 2026-10-04 04:00
+- Location: Americanthinker.com
+- Description: By Andrea WidburgJordan Domingue once worked very closely with Michigan Senate candidate Abdul El-Sayed; now, he says the man is a dangerous fraud.
+
+
+### OTHER on 2026-10-04 04:00
+- Location: Americanthinker.com
+- Description: Photo Credit:
+ 
+ AI for American ThinkerBy Andrea WidburgWhen everyone is intoxicated, why does the law treat only one sex as lacking agency?
+
+Analysis generated at: Mon Oct  5 04:56:00 UTC 2026
