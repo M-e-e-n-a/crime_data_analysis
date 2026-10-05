@@ -1,10 +1,10 @@
 
-Loaded 137307 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-04 04:43:49
+Loaded 137395 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-04 13:16:31
 
 Incidents by source:
 source
-newsapi           137206
+newsapi           137294
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,31 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-10-04 04:43
+### OTHER on 2026-10-04 13:16
 - Location: The Times of India
-- Description: On October 3, three female journalists reported instances of sexual harassment to the Delhi Police during a protest. These cases were referred to the Crime Branch for further inquiry. This protest, directed at Chief Election Commissioner Gyanesh Kumar regardi…
+- Description: During a demonstration in Delhi, police apprehended Neha Bora, the national president of AISA. The protest sought the resignation of Chief Election Commissioner Gyanesh Kumar, but authorities had denied permission, leading to barricades that sparked tensions.…
 
 
-### HOMICIDE on 2026-10-04 04:30
-- Location: Gossiplankanews.com
-- Description: A group of organized crime gang members, who were staying in a house in the Kosgoda, Akadegoda area and planning to murder four individuals, were raided by the Walana Anti-Corruption Strike Unit last night (03).
-<!--gossip-below-article-Rs--> (adsbygoogle = …
+### ROBBERY/THEFT on 2026-10-04 13:06
+- Location: The Times of India
+- Description: Police in Katras, Dhanbad seized five coal trucks carrying 88 tonnes over alleged transport and documentation irregularities; FIR filed, probe underway.
 
 
-### SHOOTING on 2026-10-04 04:03
-- Location: Gossiplankanews.com
-- Description: A person was injured and hospitalized due to a shooting carried out by an unknown gunman operating in the Ahungalla, Galwehera area today (04) early morning. Ahungalla Police stated that C.P. in the Galwehera area.Dadalla Lanu Modarage Nandasena, a 74-year-ol…
+### HOMICIDE on 2026-10-04 13:03
+- Location: The Times of India
+- Description: 32-year-old Kamlesh Kumar murdered in Jehanabad’s Kachanama village; villagers blocked roads for 6 hours demanding arrests as police probe sand trade or affair angle.
 
 
-### OTHER on 2026-10-04 04:00
-- Location: Americanthinker.com
-- Description: By Andrea WidburgJordan Domingue once worked very closely with Michigan Senate candidate Abdul El-Sayed; now, he says the man is a dangerous fraud.
+### HOMICIDE on 2026-10-04 13:01
+- Location: Dailymail.com
+- Description: While her  co-accused lover remains behind bars, Jade McCaskie is living on millionaire's row with the businessman who paid her bail. We tracked her down and uncovered striking details about her new life.
 
 
-### OTHER on 2026-10-04 04:00
-- Location: Americanthinker.com
-- Description: Photo Credit:
- 
- AI for American ThinkerBy Andrea WidburgWhen everyone is intoxicated, why does the law treat only one sex as lacking agency?
+### OTHER on 2026-10-04 13:00
+- Location: Screen Rant
+- Description: Batman has a new ally in his war against crime, and they've already taken the time to majorly burn one of the A-listers in his rogues gallery.
 
-Analysis generated at: Mon Oct  5 04:56:00 UTC 2026
+Analysis generated at: Mon Oct  5 13:20:14 UTC 2026
