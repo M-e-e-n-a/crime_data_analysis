@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Oct  4 20:47:42 UTC 2026
+Last updated: Mon Oct  5 03:33:45 UTC 2026
 
 ## Latest Analysis
 
-Loaded 137282 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-03 20:44:09
+Loaded 137298 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-04 03:27:23
 
 Incidents by source:
 source
-newsapi           137181
+newsapi           137197
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,31 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-10-03 20:44
-- Location: Bleeding Cool News
-- Description: Skunkape Games dropped a new update this week for Poker Night at the Inventory, giving players more content to have some fun with. If you're not familiar with the game, it is a poker title where you play against four characters from IPs, including Sam & Max, …
+### ASSAULT on 2026-10-04 03:27
+- Location: Freerepublic.com
+- Description: New York Attorney General Letitia James just became the face of the Cornell rape case. This is not going to end well. Gov. Kathy Hochul appointed James as special prosecutor in the Cornell University sexual assault investigation, effectively removing the case…
 
 
-### HOMICIDE on 2026-10-03 20:43
-- Location: Dailymail.com
-- Description: A 15-year-old boy faces domestic terrorism charges after mixing chemicals in the school cafeteria, nearly killing himself.
+### HOMICIDE on 2026-10-04 03:13
+- Location: Biztoc.com
+- Description: Japan lodged a protest with the United States after an American Marine was arrested on suspicion of robbery and murder in Okinawa prefecture.Japanese police said they detained 20-year-old Davin Ballar...
 
 
-### OTHER on 2026-10-03 20:38
-- Location: Gothamist
-- Description: Police said the suspect has not been apprehended and the investigation is still ongoing.
- 
-
-Officers responding to a call at the intersection of Jamaica Avenue and 173rd Street around 1 a.m. found 29-year-old Sulimon Ferrier, who had multiple stab wounds to h…
+### HOMICIDE on 2026-10-04 03:00
+- Location: The Washington Post
+- Description: Washington Post: The 1982 axe murders are revisited in Ryan Murphy's latest TV show.
 
 
-### HOMICIDE on 2026-10-03 20:36
-- Location: New York Post
-- Description: The suspect accused of causing a deadly 8-car pileup in Oxnard has turned himself in on a charge of vehicular homicide.
+### OTHER on 2026-10-04 02:15
+- Location: Gnlm.com.mm
+- Description: Police personnel from township police stations across Yangon Region conducted operations in cooperation with traffic police and local administrative officials […]
 
 
-### HOMICIDE on 2026-10-03 20:27
-- Location: Dailymail.com
-- Description: The deceased bodies of Carlo Montiel Infantino and his sister Melanie, both 17, were discovered alongside their dead father Ivan Montiel Roa, 63, after deputies responded to a well-being check.
+### OTHER on 2026-10-04 01:56
+- Location: The Times of India
+- Description: Sambhav Jain, a 28-year-old software engineer, died by suicide after jumping from a 41st-floor balcony. He had been staying alone in an Airbnb and expressed feelings of depression before the incident. Police are investigating personal difficulties and financi…
 
-Analysis generated at: Sun Oct  4 20:47:41 UTC 2026
+Analysis generated at: Mon Oct  5 03:33:45 UTC 2026
