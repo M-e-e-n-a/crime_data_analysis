@@ -1,10 +1,10 @@
 
-Loaded 137494 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-04 23:17:32
+Loaded 137527 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-05 04:09:40
 
 Incidents by source:
 source
-newsapi           137393
+newsapi           137426
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,31 @@ ion.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-10-04 23:17
-- Location: CBC News
-- Description: A 27-year-old man is facing several charges more than four years after a 2022 shooting in the lobby of a Winnipeg apartment building that left a man with life-altering injuries.
+### OTHER on 2026-10-05 04:09
+- Location: PCMag.com
+- Description: The hacker—known as 'Rey' online—is reportedly still a teenager. FBI Director Kash Patel has said more arrests could be on the table.
+In September, the infamous ShinyHunters hacking group claimed it had infiltrated the FBI job recruitment portal, stealing con…
 
 
-### ROBBERY/THEFT on 2026-10-04 22:46
-- Location: New York Post
-- Description: Thaddeus Porter, 42, and Morris Robinson, 18, were busted for allegedly snatching the luxury timepiece from the luggage of a man who had flown from Los Angeles to the Louis Armstrong New Orleans International Airport on Sept. 24, NOLA.com reported.
+### OTHER on 2026-10-05 04:05
+- Location: CNA
+- Description: The suspects were nabbed across the country in six provinces.
 
 
-### HOMICIDE on 2026-10-04 22:37
-- Location: ABC News (AU)
-- Description: A 19-year-old driver who allegedly rammed a rideshare vehicle carrying two passengers has been arrested in Adelaide's north, with SA Police also responding to several other crashes, including one in which a 53-year-old man was killed.
+### SHOOTING on 2026-10-05 04:00
+- Location: The Times of India
+- Description: Rudrankksh Patil, an emerging talent in shooting, has set his sights on the national championships. He aims to qualify for the 2028 Los Angeles Olympics following his recent success in the Asian Games. Patil emphasized the need for improved sports infrastruct…
 
 
-### HOMICIDE on 2026-10-04 22:37
-- Location: Fox News
-- Description: A 15-year-old Benson Polytechnic High School student faces 19 counts including domestic terrorism after allegedly mixing toxic chemicals in the cafeteria.
+### OTHER on 2026-10-05 04:00
+- Location: Americanthinker.com
+- Description: By Mike McDanielFalse morality is the most immoral of all.
 
 
-### DRUG RELATED on 2026-10-04 22:34
-- Location: ABC News (AU)
-- Description: Police allege an e-bike rider returned an alcohol reading more than twice the driving limit and positive tests for cocaine and meth after a crash critically injured a teenager near Wollongong.
+### OTHER on 2026-10-05 04:00
+- Location: Americanthinker.com
+- Description: Photo Credit:
+ 
+ AI for American ThinkerBy J.B. ShurkOrwellian brutes now govern Europe.
 
-Analysis generated at: Mon Oct  5 23:36:15 UTC 2026
+Analysis generated at: Tue Oct  6 04:20:57 UTC 2026
