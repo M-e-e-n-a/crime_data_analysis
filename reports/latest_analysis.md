@@ -1,10 +1,10 @@
 
-Loaded 137914 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-06 12:25:46
+Loaded 138014 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-06 18:42:15
 
 Incidents by source:
 source
-newsapi           137813
+newsapi           137913
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-10-06 12:25
-- Location: road.cc
-- Description: Although South Gloucestershire Council has trialled new lighting and committed to installing 20 CCTV cameras along the popular cycling and walking route, Avon & Somerset Police's data suggests crime is up, and offenders are not being brought to justice
+### ROBBERY/THEFT on 2026-10-06 18:42
+- Location: ABC News (AU)
+- Description: Five males arrested in a dramatic police operation on Melbourne's Monash Freeway yesterday will appear in court today.
 
 
-### OTHER on 2026-10-06 12:14
+### HOMICIDE on 2026-10-06 18:40
 - Location: The Times of India
-- Description: Dharmendra Pradhan urges Nitin Gadkari to six-lane NH-55 Sambalpur-Cuttack, build 4 underpasses and a flyover near Sambalpur City station.
+- Description: Balrampur murder: Police arrest married couple for luring Wasim Ansari to a forest, killing him with an axe, dismembering the body, and dumping parts.
 
 
-### ROBBERY/THEFT on 2026-10-06 12:13
-- Location: The Times of India
-- Description: Seven-member gang uproots Deoghar ATM, drags it 500m and flees with machine holding Rs 4.82 lakh; police scan CCTV and track escape route.
+### HOMICIDE on 2026-10-06 18:39
+- Location: Fox News
+- Description: Police seized glass vials, a vacuum and workout equipment from the Philadelphia Olney house of horrors once owned by pornographer Raymond Horsch.
 
 
-### OTHER on 2026-10-06 12:12
-- Location: The Times of India
-- Description: The Delhi high court has temporarily halted the FSSAI's directive concerning the Campa Energy Drink - Gold Boost. This ruling arose due to the lack of a show-cause notice issued to Reliance Consumer Products Ltd prior to the enforcement of the order. Targetin…
+### ASSAULT on 2026-10-06 18:34
+- Location: Courttv.com
+- Description: Tyreek Hill sat in court as his ex-wife testified about their relationship and told the jury that the wide receiver repeatedly assaulted her.
 
 
-### OTHER on 2026-10-06 12:11
-- Location: The Times of India
-- Description: Nestled in Marin County, Skywalker Ranch is a vast 4,700-acre creative sanctuary brought to life by filmmaker George Lucas. This enchanting retreat features a Victorian-style main house used for professional gatherings and boasts Skywalker Sound, operating si…
+### ASSAULT on 2026-10-06 18:34
+- Location: Freerepublic.com
+- Description: The two thugs accused in the cowardly slashing of an off-duty NYPD detective are both illegal migrants from the Dominican Republic who snuck in under former President Joe Biden, according to sources and reports. Police Detective Jose Mercedes was grabbing ite…
 
-Analysis generated at: Wed Oct  7 12:30:28 UTC 2026
+Analysis generated at: Wed Oct  7 18:44:01 UTC 2026
