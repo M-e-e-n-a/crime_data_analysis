@@ -1,10 +1,10 @@
 
-Loaded 137775 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-05 22:07:29
+Loaded 137804 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-06 03:34:10
 
 Incidents by source:
 source
-newsapi           137674
+newsapi           137703
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-10-05 22:07
-- Location: New York Post
-- Description: “He is a hero, a loving heart. He is a hero. He shielded his own sister.”
+### OTHER on 2026-10-06 03:34
+- Location: Rediff.com
+- Description: 'Women shouldn't have to become experts in self-preservation simply to go to work and live their lives.'
 
 
-### OTHER on 2026-10-05 22:04
-- Location: IGN
-- Description: Miami Vice: The Director’s Final Cut’s rejiggered ending invites a slightly darker interpretation of the film than was evident in either of the past versions, especially when considered with what writer-director Michael Mann revealed about the fact-based orig…
+### OTHER on 2026-10-06 03:27
+- Location: The Times of India
+- Description: The Delhi government has decided to withhold ACP Vivek Bhagat's additional duty charge amid sexual harassment allegations. Bhagat voluntarily requested to delay his new role pending a full inquiry into the accusations. These allegations involve sexual harassm…
 
 
-### OTHER on 2026-10-05 22:02
+### HOMICIDE on 2026-10-06 03:09
+- Location: ABC News (AU)
+- Description: The judge told the court her fraud offending was serious and involved "sustained dishonesty".
+
+
+### DRUG RELATED on 2026-10-06 03:05
 - Location: Dailymail.com
-- Description: It may take a few months. Possibly a year or so. But some time very, very soon Zack Polanski, current leader of the Green Party, will find himself consigned to the history books.
+- Description: A One Nation candidate and former police officer has proposed putting drug addicts to work to help fill labour shortages in regional areas.
 
 
-### ASSAULT on 2026-10-05 21:50
-- Location: Al Jazeera English
-- Description: Student groups call for the abolition of Greek life and more punitive action in the wake of fraternity assault allegations.
+### HOMICIDE on 2026-10-06 02:54
+- Location: Dailymail.com
+- Description: Blanchard, 35, was present for a small viewing at a Louisiana funeral home on Saturday. Others present at the viewing included Urker's brother, two of his sisters and his mother Raina.
 
-
-### SHOOTING on 2026-10-05 21:48
-- Location: Haaretz
-- Description: Police suspect the shooting at the government vehicle, driven by the son of PMO employee, targeted the son of southern underworld figure Shalom Domrani
-
-Analysis generated at: Tue Oct  6 22:11:17 UTC 2026
+Analysis generated at: Wed Oct  7 03:47:35 UTC 2026
