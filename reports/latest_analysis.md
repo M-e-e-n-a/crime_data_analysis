@@ -1,10 +1,10 @@
 
-Loaded 138014 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-06 18:42:15
+Loaded 138078 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-06 22:11:01
 
 Incidents by source:
 source
-newsapi           137913
+newsapi           137977
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2026-10-06 18:42
-- Location: ABC News (AU)
-- Description: Five males arrested in a dramatic police operation on Melbourne's Monash Freeway yesterday will appear in court today.
+### OTHER on 2026-10-06 22:11
+- Location: Breitbart News
+- Description: Former Illinois Gov. Rod Blagojevich (D) contended Tuesday that "fake polling" favoring Democrats ahead of the 2026 midterm elections is designed to convince Republicans not to show up at the ballot box.
+The post Rod Blagojevich Unmasks ‘Fake Polling’ Favorin…
 
 
-### HOMICIDE on 2026-10-06 18:40
-- Location: The Times of India
-- Description: Balrampur murder: Police arrest married couple for luring Wasim Ansari to a forest, killing him with an axe, dismembering the body, and dumping parts.
-
-
-### HOMICIDE on 2026-10-06 18:39
+### HOMICIDE on 2026-10-06 22:02
 - Location: Fox News
-- Description: Police seized glass vials, a vacuum and workout equipment from the Philadelphia Olney house of horrors once owned by pornographer Raymond Horsch.
+- Description: James Cody Bryant allegedly sent money, offered advice and agreed to livestream the Tumbler Ridge school shooting instead of alerting law enforcement.
 
 
-### ASSAULT on 2026-10-06 18:34
-- Location: Courttv.com
-- Description: Tyreek Hill sat in court as his ex-wife testified about their relationship and told the jury that the wide receiver repeatedly assaulted her.
+### OTHER on 2026-10-06 22:00
+- Location: Screen Rant
+- Description: There's always been a huge overlap between fantasy and horror. These books stand on the boundary, introducing fantastical worlds with a dark edge.
 
 
-### ASSAULT on 2026-10-06 18:34
-- Location: Freerepublic.com
-- Description: The two thugs accused in the cowardly slashing of an off-duty NYPD detective are both illegal migrants from the Dominican Republic who snuck in under former President Joe Biden, according to sources and reports. Police Detective Jose Mercedes was grabbing ite…
+### ASSAULT on 2026-10-06 21:55
+- Location: CBC News
+- Description: An Uber driver has been "permanently banned" by the company after he was charged in connection with an alleged sexual assault  in Winnipeg's Weston neighbourhood late last month.
 
-Analysis generated at: Wed Oct  7 18:44:01 UTC 2026
+
+### HOMICIDE on 2026-10-06 21:35
+- Location: New York Post
+- Description: Eight years later, the boarded-up house at Clara and Fifth streets is headed to auction.
+
+Analysis generated at: Wed Oct  7 22:32:59 UTC 2026
