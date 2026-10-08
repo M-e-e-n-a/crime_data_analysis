@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Oct  8 12:40:09 UTC 2026
+Last updated: Thu Oct  8 18:40:58 UTC 2026
 
 ## Latest Analysis
 
-Loaded 138212 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-07 12:37:19
+Loaded 138312 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-07 18:40:44
 
 Incidents by source:
 source
-newsapi           138111
+newsapi           138211
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-10-07 12:37
-- Location: The Times of India
-- Description: US Marines stationed on Japan’s Okinawa island have been placed under a month-long curfew and banned from consuming alcohol following the arrest of a
+### HOMICIDE on 2026-10-07 18:40
+- Location: New York Post
+- Description: Anthony Lantrell Bennett was arrested in Buffalo after he sent the Peach State Republican a message threatening to kill him and his son-in-law last week, the FBI and the Butts County Sheriff's Office announced Monday.
 
 
-### ROBBERY/THEFT on 2026-10-07 12:30
-- Location: IGN
-- Description: The in-depth interview with Rockstar North's Rob Nelson in full, as he played through 30 minutes of the game ahead of the Netflix reveal.
+### HOMICIDE on 2026-10-07 18:38
+- Location: New York Post
+- Description: NYPD cops responded to two domestic assaults between Nathaly Ramirez and Angel Carrasco -- who is now being sought for killing her.
 
 
-### OTHER on 2026-10-07 12:25
-- Location: CBM (Comic Book Movie)
-- Description: DC Studios has officially released a clip from the recent season finale of Lanterns, featuring John Stewart (Aaron Pierre) reciting his Dark Lantern(?) new oath...
+### SHOOTING on 2026-10-07 18:36
+- Location: Freerepublic.com
+- Description: Newly unsealed police bodycam footage shows the aftermath of the 2023 Richneck Elementary School shooting in Newport News, Virginia, where a 6-year-old student shot his first-grade teacher. Officers enter the classroom and secure the handgun before taking the…
 
 
-### ASSAULT on 2026-10-07 12:22
-- Location: Www.gov.uk
-- Description: Information to help British nationals make informed decisions following a rape or other form of sexual assault abroad.
+### HOMICIDE on 2026-10-07 18:33
+- Location: Dailymail.com
+- Description: Directed by Paul Verhoeven, the 1992 film follows a cat-and-mouse game between a detective played by Douglas and a murder suspect played by Sharon Stone.
 
 
-### HOMICIDE on 2026-10-07 12:21
-- Location: Abcnews.com
-- Description: A prosecutor says a man accused of killing former British politician Ann Widdecombe allegedly tried to break into Nigel Farage's home about a year earlier
+### OTHER on 2026-10-07 18:26
+- Location: Al Jazeera English
+- Description: Human Rights Watch says defendants face proceedings where lawyers have struggled to access case files.
 
-Analysis generated at: Thu Oct  8 12:40:09 UTC 2026
+Analysis generated at: Thu Oct  8 18:40:58 UTC 2026
