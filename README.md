@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Oct  8 18:40:58 UTC 2026
+Last updated: Thu Oct  8 22:47:01 UTC 2026
 
 ## Latest Analysis
 
-Loaded 138312 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-07 18:40:44
+Loaded 138395 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-07 22:31:33
 
 Incidents by source:
 source
-newsapi           138211
+newsapi           138294
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-10-07 18:40
-- Location: New York Post
-- Description: Anthony Lantrell Bennett was arrested in Buffalo after he sent the Peach State Republican a message threatening to kill him and his son-in-law last week, the FBI and the Butts County Sheriff's Office announced Monday.
+### OTHER on 2026-10-07 22:31
+- Location: The Irish Times
+- Description: Maricarmen’s eviction from Madrid apartment after over seven decades set off wave of protests against housing crisis
 
 
-### HOMICIDE on 2026-10-07 18:38
-- Location: New York Post
-- Description: NYPD cops responded to two domestic assaults between Nathaly Ramirez and Angel Carrasco -- who is now being sought for killing her.
+### OTHER on 2026-10-07 22:30
+- Location: Screen Rant
+- Description: These 10 essential Dexter episodes revisit the biggest moments fans should remember before the second season of Dexter: Resurrection begins.
 
 
-### SHOOTING on 2026-10-07 18:36
-- Location: Freerepublic.com
-- Description: Newly unsealed police bodycam footage shows the aftermath of the 2023 Richneck Elementary School shooting in Newport News, Virginia, where a 6-year-old student shot his first-grade teacher. Officers enter the classroom and secure the handgun before taking the…
+### HOMICIDE on 2026-10-07 22:30
+- Location: Radaronline.com
+- Description: Tommie Davis was murdered in her home 33 years ago, and now a suspect has been arrested.
 
 
-### HOMICIDE on 2026-10-07 18:33
-- Location: Dailymail.com
-- Description: Directed by Paul Verhoeven, the 1992 film follows a cat-and-mouse game between a detective played by Douglas and a murder suspect played by Sharon Stone.
+### OTHER on 2026-10-07 22:26
+- Location: Techdirt
+- Description: Flock is being tossed aside by tons of cities and the trend doesn’t seem to be slowing down. Sure, these cities may ultimately decide to go with another ALPR provider, but hopefully it will be one that’s a bit more serious about preventing abuse. Recent chang…
 
 
-### OTHER on 2026-10-07 18:26
-- Location: Al Jazeera English
-- Description: Human Rights Watch says defendants face proceedings where lawyers have struggled to access case files.
+### HOMICIDE on 2026-10-07 22:18
+- Location: CBC News
+- Description: In the months leading up to a sword attack at a Brandon high school, a teen allegedly wrote in a notebook about "invaders" of Canada — specifically African American and Muslim immigrants — and his mass murder plan.
 
-Analysis generated at: Thu Oct  8 18:40:58 UTC 2026
+Analysis generated at: Thu Oct  8 22:47:01 UTC 2026
