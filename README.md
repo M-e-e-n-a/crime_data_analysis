@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Oct  8 05:24:04 UTC 2026
+Last updated: Thu Oct  8 12:40:09 UTC 2026
 
 ## Latest Analysis
 
-Loaded 138127 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-07 05:15:54
+Loaded 138212 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-07 12:37:19
 
 Incidents by source:
 source
-newsapi           138026
+newsapi           138111
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-10-07 05:15
+### HOMICIDE on 2026-10-07 12:37
 - Location: The Times of India
-- Description: Parvathy Thiruvothu's Malayalam film, Pradhama Drishtiya Kuttakkar, is set to premiere on OTT following its successful run in theatres. In her first role as a police officer, Parvathy figures out a gripping narrative that mixes investigation with psychologica…
+- Description: US Marines stationed on Japan’s Okinawa island have been placed under a month-long curfew and banned from consuming alcohol following the arrest of a
 
 
-### OTHER on 2026-10-07 05:13
-- Location: The Times of India
-- Description: Assistant Sub Inspector Satpal Singh, aged 50, was found hanging at his government residence in Chandigarh. He had returned home alone after finishing his shift on Tuesday afternoon. Family members were attending a wedding when they became concerned and calle…
+### ROBBERY/THEFT on 2026-10-07 12:30
+- Location: IGN
+- Description: The in-depth interview with Rockstar North's Rob Nelson in full, as he played through 30 minutes of the game ahead of the Netflix reveal.
 
 
-### HOMICIDE on 2026-10-07 05:05
-- Location: New York Post
-- Description: Unlicensed Bronx spa operator Luis Rojas Cabrera, 55, was slapped with the upgraded charge of depraved indifference murder after the city’s medical examiner ruled the death of his patient a homicide.
+### OTHER on 2026-10-07 12:25
+- Location: CBM (Comic Book Movie)
+- Description: DC Studios has officially released a clip from the recent season finale of Lanterns, featuring John Stewart (Aaron Pierre) reciting his Dark Lantern(?) new oath...
 
 
-### HOMICIDE on 2026-10-07 05:03
-- Location: The Times of India
-- Description: A 33-year-old Lonavala lawyer was allegedly shot dead by his 83-year-old grandfather following a property dispute, with police saying relatives later tried to pass off the killing as an accidental firing. Investigators became suspicious after examining the bu…
+### ASSAULT on 2026-10-07 12:22
+- Location: Www.gov.uk
+- Description: Information to help British nationals make informed decisions following a rape or other form of sexual assault abroad.
 
 
-### ROBBERY/THEFT on 2026-10-07 05:03
-- Location: DW (English)
-- Description: Delhi police has beefed up security around the Election Commission of India, likely preparing for another day of 'vote theft' protests. Meanwhile, PM Modi marks 25 years in public service. Follow live.
+### HOMICIDE on 2026-10-07 12:21
+- Location: Abcnews.com
+- Description: A prosecutor says a man accused of killing former British politician Ann Widdecombe allegedly tried to break into Nigel Farage's home about a year earlier
 
-Analysis generated at: Thu Oct  8 05:24:04 UTC 2026
+Analysis generated at: Thu Oct  8 12:40:09 UTC 2026
