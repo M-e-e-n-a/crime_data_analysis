@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Oct  8 04:01:33 UTC 2026
+Last updated: Thu Oct  8 05:24:04 UTC 2026
 
 ## Latest Analysis
 
-Loaded 138117 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-07 04:00:00
+Loaded 138127 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-07 05:15:54
 
 Incidents by source:
 source
-newsapi           138016
+newsapi           138026
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,36 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-10-07 04:00
-- Location: Americanthinker.com
-- Description: Photo Credit:
- 
- AI for American ThinkerBy Stu TarloweThis one is notable because it carries echoes of the Crown Heights riots, but with a very different cast of characters.
+### OTHER on 2026-10-07 05:15
+- Location: The Times of India
+- Description: Parvathy Thiruvothu's Malayalam film, Pradhama Drishtiya Kuttakkar, is set to premiere on OTT following its successful run in theatres. In her first role as a police officer, Parvathy figures out a gripping narrative that mixes investigation with psychologica…
 
 
-### OTHER on 2026-10-07 04:00
-- Location: Americanthinker.com
-- Description: Photo Credit:
- 
- AI for American ThinkerBy Martha CarefulEconomic stagnation, failing public services, immigration, and political cowardice are pushing the country toward repeated cycles of violent unrest.
+### OTHER on 2026-10-07 05:13
+- Location: The Times of India
+- Description: Assistant Sub Inspector Satpal Singh, aged 50, was found hanging at his government residence in Chandigarh. He had returned home alone after finishing his shift on Tuesday afternoon. Family members were attending a wedding when they became concerned and calle…
 
 
-### OTHER on 2026-10-07 04:00
-- Location: Americanthinker.com
-- Description: Photo Credit:Image: kolyaeg via Pixabay, Pixabay License.
+### HOMICIDE on 2026-10-07 05:05
+- Location: New York Post
+- Description: Unlicensed Bronx spa operator Luis Rojas Cabrera, 55, was slapped with the upgraded charge of depraved indifference murder after the city’s medical examiner ruled the death of his patient a homicide.
 
 
- 
- kolyaegBy J.B. ShurkThe enemy is already inside the gates.
+### HOMICIDE on 2026-10-07 05:03
+- Location: The Times of India
+- Description: A 33-year-old Lonavala lawyer was allegedly shot dead by his 83-year-old grandfather following a property dispute, with police saying relatives later tried to pass off the killing as an accidental firing. Investigators became suspicious after examining the bu…
 
 
-### OTHER on 2026-10-07 04:00
-- Location: Americanthinker.com
-- Description: By Mike McDanielTake crime statistics with a grain of salt.
+### ROBBERY/THEFT on 2026-10-07 05:03
+- Location: DW (English)
+- Description: Delhi police has beefed up security around the Election Commission of India, likely preparing for another day of 'vote theft' protests. Meanwhile, PM Modi marks 25 years in public service. Follow live.
 
-
-### SHOOTING on 2026-10-07 03:58
-- Location: Abcnews.com
-- Description: Washington state man charged with helping Canadian mass shooter plan for attack
-
-Analysis generated at: Thu Oct  8 04:01:33 UTC 2026
+Analysis generated at: Thu Oct  8 05:24:04 UTC 2026
