@@ -1,10 +1,10 @@
 
-Loaded 138630 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-08 18:12:46
+Loaded 138729 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-08 22:08:51
 
 Incidents by source:
 source
-newsapi           138529
+newsapi           138628
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,33 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-10-08 18:12
-- Location: The Times of India
-- Description: NER boosts drinking water safety checks across divisions, cleaning 10,518 tanks, using auto-chlorination, and conducting regular chlorine and bacteriological tests.
+### HOMICIDE on 2026-10-08 22:08
+- Location: Dailymail.com
+- Description: Nathan Owens, 34, is accused of having driven through the night before murdering Carla Georgescu at her student flats at the University of Lancashire campus on February 4.
 
 
-### OTHER on 2026-10-08 18:12
-- Location: The Times of India
-- Description: Over 20 Visakhapatnam residents lost ₹1.3 crore in fake work-from-home scams via WhatsApp and Telegram; police booked cases and urged calling 1930.
+### SHOOTING on 2026-10-08 22:08
+- Location: The Punch
+- Description: The Enugu State Police Command says it arrested Ani Chidi for cyberbullying and false allegations, not for filming a gun attack on an NDC meeting.
+
+Read More: https://punchng.com/enugu-mans-arrest-linked-to-cyberbullying-not-filming-attack-police/
 
 
-### OTHER on 2026-10-08 18:12
-- Location: The Times of India
-- Description: Mizoram Congress chief Lal Thanzara claims Amit Shah planned to bring ZPM into BJP fold; MPCC holds “Black Day for Democracy” rally in Aizawl.
+### SHOOTING on 2026-10-08 22:06
+- Location: Biztoc.com
+- Description: One person is in the hospital and currently conscious following a shooting that involved federal law enforcement agents in the Bronx borough of New York City, the New York City Police Department (NYPD) said.
+The incident occurred around 4 p.m. in the Marble H…
 
 
-### ROBBERY/THEFT on 2026-10-08 18:12
-- Location: The Times of India
-- Description: Baldwin Academy and Bank of India held a Vigilance Awareness Programme on “Probity for Prosperity”; Bishop Scott marked its 15th Foundation Day; Kitty’s Kids hosted “Joy of Giving.”
+### HOMICIDE on 2026-10-08 22:05
+- Location: Biztoc.com
+- Description: Gun Jams, Knife Comes Out: One Dead After Bizarre Courthouse Shooting In Nashville
+ 
+A man armed with a pistol was shot and killed by a security officer at the Fred D. Thompson Federal Building and Courthouse in Nashville on Thursday morning, WSMV reported, c…
 
 
-### OTHER on 2026-10-08 18:12
-- Location: The Times of India
-- Description: KPCC meeting on Oct 13 to discuss V D Satheesan’s leadership style, UDF criticism, delays in board posts, KPCC/DCC revamp and protests planning.
+### SHOOTING on 2026-10-08 21:50
+- Location: Fox News
+- Description: A shooting involving federal law enforcement agents in the Marble Hill neighborhood of the Bronx left one person hospitalized Thursday afternoon, according to the NYPD
 
-Analysis generated at: Fri Oct  9 18:13:00 UTC 2026
+Analysis generated at: Fri Oct  9 22:09:40 UTC 2026
