@@ -1,10 +1,10 @@
 
-Loaded 138395 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-07 22:31:33
+Loaded 138437 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-08 04:00:00
 
 Incidents by source:
 source
-newsapi           138294
+newsapi           138336
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-10-07 22:31
-- Location: The Irish Times
-- Description: Maricarmen’s eviction from Madrid apartment after over seven decades set off wave of protests against housing crisis
+### OTHER on 2026-10-08 04:00
+- Location: Americanthinker.com
+- Description: By Mike McDanielWe deserve what we vote for, and we'll get it good and hard.
 
 
-### OTHER on 2026-10-07 22:30
-- Location: Screen Rant
-- Description: These 10 essential Dexter episodes revisit the biggest moments fans should remember before the second season of Dexter: Resurrection begins.
+### OTHER on 2026-10-08 04:00
+- Location: Americanthinker.com
+- Description: By J.R. DunnWe’ve got a Clancy copycat crime, and this one may be the worst of them all.
 
 
-### HOMICIDE on 2026-10-07 22:30
-- Location: Radaronline.com
-- Description: Tommie Davis was murdered in her home 33 years ago, and now a suspect has been arrested.
+### OTHER on 2026-10-08 04:00
+- Location: Americanthinker.com
+- Description: By Marina BejaranoWhat does it say about us as New Yorkers if we don’t stand up and demand the accountability and public safety we deserve on Election Day?
 
 
-### OTHER on 2026-10-07 22:26
-- Location: Techdirt
-- Description: Flock is being tossed aside by tons of cities and the trend doesn’t seem to be slowing down. Sure, these cities may ultimately decide to go with another ALPR provider, but hopefully it will be one that’s a bit more serious about preventing abuse. Recent chang…
+### OTHER on 2026-10-08 03:59
+- Location: Variety
+- Description: Danny and Oxide Pang’s supernatural crime thriller “The Mage,” starring Josie Ho, is being introduced to international buyers at the Busan International Film Festival’s Asian Contents & Film Market (ACFM) as the film opens in its first Asian territories. Sout…
 
 
-### HOMICIDE on 2026-10-07 22:18
-- Location: CBC News
-- Description: In the months leading up to a sword attack at a Brandon high school, a teen allegedly wrote in a notebook about "invaders" of Canada — specifically African American and Muslim immigrants — and his mass murder plan.
+### OTHER on 2026-10-08 03:58
+- Location: Israelnationalnews.com
+- Description: Toronto police are investigating after Israeli flags were burned outside a North York church on October 7, prompting condemnation from Jewish leaders.
 
-Analysis generated at: Thu Oct  8 22:47:01 UTC 2026
+Analysis generated at: Fri Oct  9 04:06:37 UTC 2026
