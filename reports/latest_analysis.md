@@ -1,10 +1,10 @@
 
-Loaded 138452 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-08 05:12:55
+Loaded 138530 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-08 12:24:51
 
 Incidents by source:
 source
-newsapi           138351
+newsapi           138429
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-10-08 05:12
-- Location: Fox News
-- Description: New York City Mayor Zohran Mamdani was called a "traitor" by anti-Israel protesters who accused him of genocide at an Oct. 7 vigil near Union Square.
+### HOMICIDE on 2026-10-08 12:24
+- Location: Mediaite
+- Description: Mamdani visited Hinds Hall on Manhattan’s Upper West Side, a branch of Palestinian chain Ayat, which takes its name from a young girl killed in Gaza.
+The post Zohran Mamdani Dines in Palestinian Restaurant After Attending Oct. 7 Anniversary Vigil first appear…
 
 
-### OTHER on 2026-10-08 05:08
+### OTHER on 2026-10-08 12:21
 - Location: The Times of India
-- Description: The legendary actor Nana Patekar, aged 75, has died after cardiac arrest. Despite medical efforts, he could not be brought back. His extensive filmography contains numerous iconic roles that show his versatile acting prowess. Read on to know more about it.
+- Description: School Assembly News Headlines: School assemblies serve as a vital platform for students to stay informed about national and global affairs, spanning topics like sports and business. Notable discussions include the NHRC's stance on journalist harassment, whic…
 
 
-### HOMICIDE on 2026-10-08 05:03
-- Location: Dailymail.com
-- Description: The mother of a teenage girl Christa Pike brutally beat and killed in 1995 was left dejected when she learned her daughter's killer was once again conscious following a botched execution.
+### ROBBERY/THEFT on 2026-10-08 12:16
+- Location: The Times of India
+- Description: On July 20, the protesters, gathered on the appeal of the CJP, were marching towards Parliament when the situation turned tensed as demonstrators attempted to move towards Parliament and breach police barricades in central Delhi, security personnel used tear …
 
 
-### OTHER on 2026-10-08 05:03
-- Location: BBC News
-- Description: The arrest of the 21-year-old is captured on CCTV and body-worn cameras by the Met Police.
+### HOMICIDE on 2026-10-08 12:14
+- Location: The Times of India
+- Description: In an unexpected turn of events, Acchelal Prajapati fled from Satna Central Jail in Madhya Pradesh, where he was nearing the end of a fourteen-year sentence for the murder of his wife. Prajapati had been known for his outstanding behavior, returning from paro…
 
 
-### HOMICIDE on 2026-10-08 05:00
-- Location: Insurance Journal
-- Description: A New Jersey title insurance executive shot his wife and daughter and then shot himself, according to local police and prosecutors. Montgomery Township police discovered the double homicide and suicide when responding to a call to check on the occupants …
+### ASSAULT on 2026-10-08 12:13
+- Location: The Conversation Africa
+- Description: The Supreme Court’s decision to hear two assault weapons cases caps a multi-decade dispute over restricting assault weapons that extends far beyond legal arguments.
 
-Analysis generated at: Fri Oct  9 05:26:57 UTC 2026
+Analysis generated at: Fri Oct  9 12:26:57 UTC 2026
