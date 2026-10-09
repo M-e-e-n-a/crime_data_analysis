@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Oct  9 12:26:57 UTC 2026
+Last updated: Fri Oct  9 18:13:00 UTC 2026
 
 ## Latest Analysis
 
-Loaded 138530 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-08 12:24:51
+Loaded 138630 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-08 18:12:46
 
 Incidents by source:
 source
-newsapi           138429
+newsapi           138529
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-10-08 12:24
-- Location: Mediaite
-- Description: Mamdani visited Hinds Hall on Manhattan’s Upper West Side, a branch of Palestinian chain Ayat, which takes its name from a young girl killed in Gaza.
-The post Zohran Mamdani Dines in Palestinian Restaurant After Attending Oct. 7 Anniversary Vigil first appear…
-
-
-### OTHER on 2026-10-08 12:21
+### OTHER on 2026-10-08 18:12
 - Location: The Times of India
-- Description: School Assembly News Headlines: School assemblies serve as a vital platform for students to stay informed about national and global affairs, spanning topics like sports and business. Notable discussions include the NHRC's stance on journalist harassment, whic…
+- Description: NER boosts drinking water safety checks across divisions, cleaning 10,518 tanks, using auto-chlorination, and conducting regular chlorine and bacteriological tests.
 
 
-### ROBBERY/THEFT on 2026-10-08 12:16
+### OTHER on 2026-10-08 18:12
 - Location: The Times of India
-- Description: On July 20, the protesters, gathered on the appeal of the CJP, were marching towards Parliament when the situation turned tensed as demonstrators attempted to move towards Parliament and breach police barricades in central Delhi, security personnel used tear …
+- Description: Over 20 Visakhapatnam residents lost ₹1.3 crore in fake work-from-home scams via WhatsApp and Telegram; police booked cases and urged calling 1930.
 
 
-### HOMICIDE on 2026-10-08 12:14
+### OTHER on 2026-10-08 18:12
 - Location: The Times of India
-- Description: In an unexpected turn of events, Acchelal Prajapati fled from Satna Central Jail in Madhya Pradesh, where he was nearing the end of a fourteen-year sentence for the murder of his wife. Prajapati had been known for his outstanding behavior, returning from paro…
+- Description: Mizoram Congress chief Lal Thanzara claims Amit Shah planned to bring ZPM into BJP fold; MPCC holds “Black Day for Democracy” rally in Aizawl.
 
 
-### ASSAULT on 2026-10-08 12:13
-- Location: The Conversation Africa
-- Description: The Supreme Court’s decision to hear two assault weapons cases caps a multi-decade dispute over restricting assault weapons that extends far beyond legal arguments.
+### ROBBERY/THEFT on 2026-10-08 18:12
+- Location: The Times of India
+- Description: Baldwin Academy and Bank of India held a Vigilance Awareness Programme on “Probity for Prosperity”; Bishop Scott marked its 15th Foundation Day; Kitty’s Kids hosted “Joy of Giving.”
 
-Analysis generated at: Fri Oct  9 12:26:57 UTC 2026
+
+### OTHER on 2026-10-08 18:12
+- Location: The Times of India
+- Description: KPCC meeting on Oct 13 to discuss V D Satheesan’s leadership style, UDF criticism, delays in board posts, KPCC/DCC revamp and protests planning.
+
+Analysis generated at: Fri Oct  9 18:13:00 UTC 2026
