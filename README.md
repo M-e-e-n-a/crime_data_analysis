@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Oct  9 04:06:37 UTC 2026
+Last updated: Fri Oct  9 05:26:57 UTC 2026
 
 ## Latest Analysis
 
-Loaded 138437 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-08 04:00:00
+Loaded 138452 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-08 05:12:55
 
 Incidents by source:
 source
-newsapi           138336
+newsapi           138351
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-10-08 04:00
-- Location: Americanthinker.com
-- Description: By Mike McDanielWe deserve what we vote for, and we'll get it good and hard.
+### OTHER on 2026-10-08 05:12
+- Location: Fox News
+- Description: New York City Mayor Zohran Mamdani was called a "traitor" by anti-Israel protesters who accused him of genocide at an Oct. 7 vigil near Union Square.
 
 
-### OTHER on 2026-10-08 04:00
-- Location: Americanthinker.com
-- Description: By J.R. DunnWe’ve got a Clancy copycat crime, and this one may be the worst of them all.
+### OTHER on 2026-10-08 05:08
+- Location: The Times of India
+- Description: The legendary actor Nana Patekar, aged 75, has died after cardiac arrest. Despite medical efforts, he could not be brought back. His extensive filmography contains numerous iconic roles that show his versatile acting prowess. Read on to know more about it.
 
 
-### OTHER on 2026-10-08 04:00
-- Location: Americanthinker.com
-- Description: By Marina BejaranoWhat does it say about us as New Yorkers if we don’t stand up and demand the accountability and public safety we deserve on Election Day?
+### HOMICIDE on 2026-10-08 05:03
+- Location: Dailymail.com
+- Description: The mother of a teenage girl Christa Pike brutally beat and killed in 1995 was left dejected when she learned her daughter's killer was once again conscious following a botched execution.
 
 
-### OTHER on 2026-10-08 03:59
-- Location: Variety
-- Description: Danny and Oxide Pang’s supernatural crime thriller “The Mage,” starring Josie Ho, is being introduced to international buyers at the Busan International Film Festival’s Asian Contents & Film Market (ACFM) as the film opens in its first Asian territories. Sout…
+### OTHER on 2026-10-08 05:03
+- Location: BBC News
+- Description: The arrest of the 21-year-old is captured on CCTV and body-worn cameras by the Met Police.
 
 
-### OTHER on 2026-10-08 03:58
-- Location: Israelnationalnews.com
-- Description: Toronto police are investigating after Israeli flags were burned outside a North York church on October 7, prompting condemnation from Jewish leaders.
+### HOMICIDE on 2026-10-08 05:00
+- Location: Insurance Journal
+- Description: A New Jersey title insurance executive shot his wife and daughter and then shot himself, according to local police and prosecutors. Montgomery Township police discovered the double homicide and suicide when responding to a call to check on the occupants …
 
-Analysis generated at: Fri Oct  9 04:06:37 UTC 2026
+Analysis generated at: Fri Oct  9 05:26:57 UTC 2026
