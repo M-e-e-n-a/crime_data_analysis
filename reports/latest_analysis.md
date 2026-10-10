@@ -1,10 +1,10 @@
 
-Loaded 138729 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-08 22:08:51
+Loaded 138772 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-09 03:49:59
 
 Incidents by source:
 source
-newsapi           138628
+newsapi           138671
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,33 +20,30 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-10-08 22:08
-- Location: Dailymail.com
-- Description: Nathan Owens, 34, is accused of having driven through the night before murdering Carla Georgescu at her student flats at the University of Lancashire campus on February 4.
+### SHOOTING on 2026-10-09 03:49
+- Location: Mediaite
+- Description: New York Mayor Zohran Mamdani fumed at Immigration and Customs Enforcement after agents shot a man in a car that also contained a five-year-old on Thursday afternoon.
+The post Mamdani Rages at ICE After Agents Shoot Into Car With Five-Year-Old in NYC: ‘There …
 
 
-### SHOOTING on 2026-10-08 22:08
-- Location: The Punch
-- Description: The Enugu State Police Command says it arrested Ani Chidi for cyberbullying and false allegations, not for filming a gun attack on an NDC meeting.
-
-Read More: https://punchng.com/enugu-mans-arrest-linked-to-cyberbullying-not-filming-attack-police/
+### SHOOTING on 2026-10-09 03:49
+- Location: The Times of India
+- Description: A shooting incident in New York City resulted in a federal immigration officer injuring a Dominican man. The event occurred during an ICE targeted enforcement operation, which has raised concerns among local officials. Witnesses reported gunfire as the man wa…
 
 
-### SHOOTING on 2026-10-08 22:06
-- Location: Biztoc.com
-- Description: One person is in the hospital and currently conscious following a shooting that involved federal law enforcement agents in the Bronx borough of New York City, the New York City Police Department (NYPD) said.
-The incident occurred around 4 p.m. in the Marble H…
+### HOMICIDE on 2026-10-09 03:45
+- Location: RTE
+- Description: The US will livestream the army's upcoming firing squad execution of Nidal Hasan, who fatally shot 13 people at Fort Hood, Texas in 2009, according to a Pentagon official.
 
 
-### HOMICIDE on 2026-10-08 22:05
-- Location: Biztoc.com
-- Description: Gun Jams, Knife Comes Out: One Dead After Bizarre Courthouse Shooting In Nashville
- 
-A man armed with a pistol was shot and killed by a security officer at the Fred D. Thompson Federal Building and Courthouse in Nashville on Thursday morning, WSMV reported, c…
+### DRUG RELATED on 2026-10-09 03:41
+- Location: NBCSports.com
+- Description: Holloway was arrested March 16, days before the NCAA Tournament, after authorities said they found 2.1 pounds of marijuana in his Tuscaloosa apartment.
 
 
-### SHOOTING on 2026-10-08 21:50
-- Location: Fox News
-- Description: A shooting involving federal law enforcement agents in the Marble Hill neighborhood of the Bronx left one person hospitalized Thursday afternoon, according to the NYPD
+### HOMICIDE on 2026-10-09 03:35
+- Location: Gossiplankanews.com
+- Description: Police say that a person has been killed and his wife injured in a shooting that occurred near a hotel located on Nagoda Road, Kalutara.
+<!--gossip-below-article-Rs--> (adsbygoogle = window.adsbygoogle || []).push({});The person who was shot in this attack, …
 
-Analysis generated at: Fri Oct  9 22:09:40 UTC 2026
+Analysis generated at: Sat Oct 10 03:51:50 UTC 2026
