@@ -1,10 +1,10 @@
 
-Loaded 138795 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-09 05:10:07
+Loaded 138890 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-09 11:42:06
 
 Incidents by source:
 source
-newsapi           138694
+newsapi           138789
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-10-09 05:10
-- Location: Business Standard
-- Description: New York Mayor Zohran Mamdani said a five-year-old child was inside the man's vehicle when federal agents opened fire in the Bronx
+### ROBBERY/THEFT on 2026-10-09 11:42
+- Location: Financial Post
+- Description: Marchesi Antinori says professional thieves stole 30,000 bottles of wine worth about €5 million from its Tuscan storage facility. Read more.
 
 
-### HOMICIDE on 2026-10-09 05:05
-- Location: ABC News (AU)
-- Description: Closing arguments have been heard in the case of three men accused of murdering two Australian brothers and their American friend in Mexico.
+### ROBBERY/THEFT on 2026-10-09 11:42
+- Location: DW (English)
+- Description: Thieves had initially taken four pieces with a value of over $10 million, but dropped two as they fled. Officials praised everyone that tracked down the paintings, but didn't reveal how they found them. Two Renoir paintings stolen from a museum in France last…
 
 
-### OTHER on 2026-10-09 05:01
-- Location: Dailymail.com
-- Description: Johnny Jose Starri, 36, from Adelaide, faced a bedside court hearing on Friday after he was charged with a string of offences over the alleged rampage that unfolded in front of shoppers.
+### OTHER on 2026-10-09 11:41
+- Location: The Times of India
+- Description: Namo Bharat stations at Sarai Kale Khan and New Ashok Nagar will temporarily close for security reasons. Train services between Anand Vihar in Delhi and Modipuram will continue as scheduled. Delhi Police have requested the closure of 57 metro stations due to …
 
 
-### OTHER on 2026-10-09 05:00
-- Location: The Irish Times
-- Description: Sports stadium, bomb site, detainment yard, refugee camp – the three-year evolution of Gaza’s football stadiums
+### SHOOTING on 2026-10-09 11:36
+- Location: The Federalist
+- Description: The federal government consistently downplays evidence that armed, law-abiding citizens can stop public mass-casualty attacks.
 
 
-### OTHER on 2026-10-09 04:52
-- Location: ABC News (AU)
-- Description: An 18-year-old accused of breaking into a rural property in Canberra's south and injuring several sheep last month has been refused bail.
+### OTHER on 2026-10-09 11:30
+- Location: Reason
+- Description: President Trump's own record raises questions about the administration's commitment to the First Amendment.
 
-Analysis generated at: Sat Oct 10 05:11:20 UTC 2026
+Analysis generated at: Sat Oct 10 11:46:43 UTC 2026
