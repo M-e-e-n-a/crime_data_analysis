@@ -1,10 +1,10 @@
 
-Loaded 138988 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-09 16:45:48
+Loaded 139016 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-09 17:12:15
 
 Incidents by source:
 source
-newsapi           138887
+newsapi           138915
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,31 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-10-09 16:45
-- Location: New York Post
-- Description: “I would have never thought that the last time he walked out my door to go to work would be the last time that I see him and talk to him,” his sister said.
+### HOMICIDE on 2026-10-09 17:12
+- Location: The Times of India
+- Description: NH-48 crash near Sankeshwar: NEKRTC bus hits tipper truck; driver Sangappa Talwar killed, 12 passengers seriously injured and hospitalized.
 
 
-### OTHER on 2026-10-09 16:37
-- Location: Gothamist
-- Description: U.S. Secretary of Homeland Security Markwayne Mullin takes questions from reporters during a press conference at U.S. Immigration and Customs Enforcement (ICE) headquarters on Oct. 9, 2026, in Washington, D.C.
- 
-
-DHS Secretary Markwayne Mullin said ICE office…
+### OTHER on 2026-10-09 17:12
+- Location: The Times of India
+- Description: Kondotty police in Malappuram book 25-year-old mother under BNS Section 105 after her 8-month-old son drowned in a nearby well at Mundakkulam.
 
 
-### SHOOTING on 2026-10-09 16:36
-- Location: Al Jazeera English
-- Description: The shooting prompted protests in New York City and Mayor Zohran Mamdani condemned the incident.
+### OTHER on 2026-10-09 17:12
+- Location: The Times of India
+- Description: 240 students from six Uttarakhand border districts join Bageshwar Children’s Science Festival; CM Dhami announces lab-on-wheels, AI STEM labs and Rs 1 crore fund.
 
 
-### OTHER on 2026-10-09 16:35
-- Location: CBS News
-- Description: The FBI this week arrested another individual suspected of being connected to ShinyHunters, the cybercriminal group that hacked the bureau's job website, FBI Director Kash Patel said.
+### OTHER on 2026-10-09 17:11
+- Location: The Times of India
+- Description: AMU sets students’ union elections for Nov 5, 2026-27 session, ending a 19-day hunger strike; proctor removed and new election schedule issued.
 
 
-### ROBBERY/THEFT on 2026-10-09 16:35
-- Location: SFGate
-- Description: Police say the car was returned to its rightful owner.
+### HOMICIDE on 2026-10-09 17:11
+- Location: The Times of India
+- Description: Two men, Rahul Kumar and Atender, died after a speeding vehicle hit their motorcycle on Agra-Jalesar Road in Khandauli; driver fled, police investigating.
 
-Analysis generated at: Sat Oct 10 16:49:07 UTC 2026
+Analysis generated at: Sat Oct 10 17:12:21 UTC 2026
