@@ -1,10 +1,10 @@
 
-Loaded 139016 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-09 17:12:15
+Loaded 139114 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-09 20:59:07
 
 Incidents by source:
 source
-newsapi           138915
+newsapi           139013
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-10-09 17:12
+### ASSAULT on 2026-10-09 20:59
+- Location: New York Post
+- Description: The 46-year-old homeless man had been deemed unfit to stand trial for multiple crimes before the alleged broad-daylight attack on a 2-year-old and her mom.
+
+
+### OTHER on 2026-10-09 20:57
+- Location: CBC News
+- Description: A 50-year-old Winnipeg man is facing several child sexual exploitation charges after an international investigation into the abuse of children in the Philippines.
+
+
+### ASSAULT on 2026-10-09 20:55
+- Location: Borderlandbeat.com
+- Description: “Sol Prendido” for Borderland Beat  Veracruz has become the stage for a constant struggle for territorial control. On one side is the "Verac...
+
+
+### OTHER on 2026-10-09 20:54
 - Location: The Times of India
-- Description: NH-48 crash near Sankeshwar: NEKRTC bus hits tipper truck; driver Sangappa Talwar killed, 12 passengers seriously injured and hospitalized.
+- Description: Ghazipur Cyber Crime Police bust fake overseas job call centre run via Facebook ads; 3 arrested, Rs 3.54 lakh cash and phones, SIMs, ATM cards seized.
 
 
-### OTHER on 2026-10-09 17:12
-- Location: The Times of India
-- Description: Kondotty police in Malappuram book 25-year-old mother under BNS Section 105 after her 8-month-old son drowned in a nearby well at Mundakkulam.
+### ASSAULT on 2026-10-09 20:52
+- Location: ABC News (AU)
+- Description: Two cars at the Balwyn North home of Inessa Shishkina and Alexei Shishkin have been among multiple firebombing targets across Melbourne this week.
 
-
-### OTHER on 2026-10-09 17:12
-- Location: The Times of India
-- Description: 240 students from six Uttarakhand border districts join Bageshwar Children’s Science Festival; CM Dhami announces lab-on-wheels, AI STEM labs and Rs 1 crore fund.
-
-
-### OTHER on 2026-10-09 17:11
-- Location: The Times of India
-- Description: AMU sets students’ union elections for Nov 5, 2026-27 session, ending a 19-day hunger strike; proctor removed and new election schedule issued.
-
-
-### HOMICIDE on 2026-10-09 17:11
-- Location: The Times of India
-- Description: Two men, Rahul Kumar and Atender, died after a speeding vehicle hit their motorcycle on Agra-Jalesar Road in Khandauli; driver fled, police investigating.
-
-Analysis generated at: Sat Oct 10 17:12:21 UTC 2026
+Analysis generated at: Sat Oct 10 21:02:07 UTC 2026
