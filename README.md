@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Oct 10 11:46:43 UTC 2026
+Last updated: Sat Oct 10 16:49:07 UTC 2026
 
 ## Latest Analysis
 
-Loaded 138890 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-09 11:42:06
+Loaded 138988 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-09 16:45:48
 
 Incidents by source:
 source
-newsapi           138789
+newsapi           138887
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,31 @@ ion.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2026-10-09 11:42
-- Location: Financial Post
-- Description: Marchesi Antinori says professional thieves stole 30,000 bottles of wine worth about €5 million from its Tuscan storage facility. Read more.
+### HOMICIDE on 2026-10-09 16:45
+- Location: New York Post
+- Description: “I would have never thought that the last time he walked out my door to go to work would be the last time that I see him and talk to him,” his sister said.
 
 
-### ROBBERY/THEFT on 2026-10-09 11:42
-- Location: DW (English)
-- Description: Thieves had initially taken four pieces with a value of over $10 million, but dropped two as they fled. Officials praised everyone that tracked down the paintings, but didn't reveal how they found them. Two Renoir paintings stolen from a museum in France last…
+### OTHER on 2026-10-09 16:37
+- Location: Gothamist
+- Description: U.S. Secretary of Homeland Security Markwayne Mullin takes questions from reporters during a press conference at U.S. Immigration and Customs Enforcement (ICE) headquarters on Oct. 9, 2026, in Washington, D.C.
+ 
+
+DHS Secretary Markwayne Mullin said ICE office…
 
 
-### OTHER on 2026-10-09 11:41
-- Location: The Times of India
-- Description: Namo Bharat stations at Sarai Kale Khan and New Ashok Nagar will temporarily close for security reasons. Train services between Anand Vihar in Delhi and Modipuram will continue as scheduled. Delhi Police have requested the closure of 57 metro stations due to …
+### SHOOTING on 2026-10-09 16:36
+- Location: Al Jazeera English
+- Description: The shooting prompted protests in New York City and Mayor Zohran Mamdani condemned the incident.
 
 
-### SHOOTING on 2026-10-09 11:36
-- Location: The Federalist
-- Description: The federal government consistently downplays evidence that armed, law-abiding citizens can stop public mass-casualty attacks.
+### OTHER on 2026-10-09 16:35
+- Location: CBS News
+- Description: The FBI this week arrested another individual suspected of being connected to ShinyHunters, the cybercriminal group that hacked the bureau's job website, FBI Director Kash Patel said.
 
 
-### OTHER on 2026-10-09 11:30
-- Location: Reason
-- Description: President Trump's own record raises questions about the administration's commitment to the First Amendment.
+### ROBBERY/THEFT on 2026-10-09 16:35
+- Location: SFGate
+- Description: Police say the car was returned to its rightful owner.
 
-Analysis generated at: Sat Oct 10 11:46:43 UTC 2026
+Analysis generated at: Sat Oct 10 16:49:07 UTC 2026
