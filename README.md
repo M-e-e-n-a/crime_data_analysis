@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Oct 11 05:00:55 UTC 2026
+Last updated: Sun Oct 11 11:59:12 UTC 2026
 
 ## Latest Analysis
 
-Loaded 139150 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-10 05:00:00
+Loaded 139232 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-10 11:57:00
 
 Incidents by source:
 source
-newsapi           139049
+newsapi           139131
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-10-10 05:00
-- Location: The Irish Times
-- Description: The condemned man was truly evil but I found myself shaking after the experience
+### HOMICIDE on 2026-10-10 11:57
+- Location: Deadline
+- Description: Gentle Monster writer-director Marie Kreutzer and star Léa Seydoux took to the stage at Deadline’s Contenders London event to discuss the journey behind their Cannes drama. Seydoux plays Lucy, an experimental pianist who moves with her beloved but panic attac…
 
 
-### OTHER on 2026-10-10 05:00
-- Location: The Irish Times
-- Description: Another eyewitness says suspected driver let her and her daugther cross road and thought at the time it ‘was decent of him’
+### OTHER on 2026-10-10 11:45
+- Location: Whyevolutionistrue.com
+- Description: Welcome to CaturSaturday, October 10, 2026, shabbos for Jewish cats and International African Penguin Awareness Day.  Here’s a young African penguin (Spheniscus demersus) I photographed two years ago at Boulders Beach near Capetown, South Africa: The gang: It…
 
 
-### OTHER on 2026-10-10 04:55
+### HOMICIDE on 2026-10-10 11:39
+- Location: New York Post
+- Description: Five people were gunned down in a late-night mass shooting at a home in Georgia.
+
+
+### OTHER on 2026-10-10 11:36
 - Location: The Times of India
-- Description: Delhi Protest news: The Aam Aadmi Party has accused the BJP-led government of imposing a 'black emergency' in the country following police detentions, AAP leaders criticized the government's heavy security measures at protests in Delhi. AAP MLA Gopal Rai stat…
+- Description: Ratna Singh from Cockroach Janta Party responded to Sambit Patra's comments about a recent protest. Singh questioned the excessive security measures and detentions prior to the protest at Jantar Mantar. She accused authorities of infringing upon the fundament…
 
 
-### HOMICIDE on 2026-10-10 04:54
-- Location: Al Jazeera English
-- Description: Authorities called Anthropic's two-month delay in detecting and reporting the incident 'unacceptable'.
+### HOMICIDE on 2026-10-10 11:36
+- Location: The Times of India
+- Description: Hardware trader Upendra Kumar Singh, 36, shot dead by bike-borne assailants in Ara; police probe land dispute motive and review CCTV for clues.
 
-
-### SHOOTING on 2026-10-10 04:28
-- Location: Freerepublic.com
-- Description: The facts hadn’t even come in before the Democratic Socialist New York City Mayor began trashing ICE Thursday and calling them “rotten to the core.”What was known: a suspected illegal alien criminal, 28-year-old Oscar Belgal, was shot (but survived) during a …
-
-Analysis generated at: Sun Oct 11 05:00:55 UTC 2026
+Analysis generated at: Sun Oct 11 11:59:12 UTC 2026
