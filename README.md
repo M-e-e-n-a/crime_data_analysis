@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Oct 11 17:17:58 UTC 2026
+Last updated: Sun Oct 11 17:35:27 UTC 2026
 
 ## Latest Analysis
 
-Loaded 139332 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-10 17:11:27
+Loaded 139341 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-10 17:34:49
 
 Incidents by source:
 source
-newsapi           139231
+newsapi           139240
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,31 +24,33 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-10-10 17:11
-- Location: BBC News
-- Description: Two children are reported to be among the victims in the city of Eerie.
+### HOMICIDE on 2026-10-10 17:34
+- Location: Biztoc.com
+- Description: Five people were found fatally shot late Friday at a home in South Georgia, prompting an ongoing police investigation.
+Officers responding to a residence on Robin Lane in the Touchton Woods neighborhood around 11:09 p.m. discovered five individuals who appear…
 
 
-### ASSAULT on 2026-10-10 17:11
-- Location: Breitbart News
-- Description: A recent seizure by Mexican authorities unmasked a new development in which the Sinaloa Cartel is now obtaining state-of-the-art combat attack drones similar to the ones being used in the Russia-Ukraine war. The issue comes at a time when social media videos …
+### OTHER on 2026-10-10 17:34
+- Location: Slashdot.org
+- Description: Last week a Florida woman sued Flock over its role in police officer accusing her of a crime she didn't commit But she's not the only one suing Flock over mistaken accusations, reports Gizmodo:
+.
 
 
-### OTHER on 2026-10-10 17:07
-- Location: The Punch
-- Description: The FCT Commissioner of Police has urged Sunday Igboho’s security outfit, Iru Ekun Security Network, to collaborate with agencies before carrying out activ
-
-Read More: https://punchng.com/work-with-police-fct-cp-urges-igbohos-security-outfit/
+A Ring video of a Colorado woman being handed a criminal summ…
 
 
-### HOMICIDE on 2026-10-10 17:01
-- Location: Fortune
-- Description: The incident in Philadelphia occurred on July 18 when the AI model Claude Haiku 4.5 was tasked with generating and performing example tasks on randomly selected webpages, Anthropic said.
+### HOMICIDE on 2026-10-10 17:31
+- Location: Dailymail.com
+- Description: The suspected shooter barricaded himself inside a home before a police standoff ended with him dead, apparently after taking his own life with a gunshot.
 
 
-### OTHER on 2026-10-10 17:00
-- Location: Wattsupwiththat.com
-- Description: We need to know that we can fulfill our commitments to provide natural gas to the Europeans, for example. We can’t have this morass of litigation around the country hanging over us while we’re moving forward.
-The post My Comments on the Suncor v. Boulder Clim…
+### ASSAULT on 2026-10-10 17:30
+- Location: Moonbattery.com
+- Description: Delvin Dobbins of Pittsburgh left a victim’s intestines hanging out following a knife attack. Under the revolving door system of justice, he was released without bail. This turned out as anyone would expect. Via Modernity: Eight days later he was … Continue r…
 
-Analysis generated at: Sun Oct 11 17:17:58 UTC 2026
+
+### HOMICIDE on 2026-10-10 17:30
+- Location: The Times of India
+- Description: UP STF and Maharashtra Police arrested Santosh Kanojia and Amit Singh in Prayagraj for a Thane murder linked to election rivalry; transit remand underway.
+
+Analysis generated at: Sun Oct 11 17:35:27 UTC 2026
