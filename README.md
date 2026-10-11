@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Oct 11 03:25:19 UTC 2026
+Last updated: Sun Oct 11 05:00:55 UTC 2026
 
 ## Latest Analysis
 
-Loaded 139139 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-10 03:15:47
+Loaded 139150 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-10 05:00:00
 
 Incidents by source:
 source
-newsapi           139038
+newsapi           139049
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,30 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-10-10 03:15
-- Location: Biztoc.com
-- Description: An Anthropic A.I. model submitted a false tip about an unsolved murder through a publicly accessible web form, Philadelphia police said Friday.
-The tip was sent through PhillyUnsolvedMurders.com back on July 18, but was flagged as spam and never acted upon.
-T…
+### OTHER on 2026-10-10 05:00
+- Location: The Irish Times
+- Description: The condemned man was truly evil but I found myself shaking after the experience
 
 
-### OTHER on 2026-10-10 02:58
-- Location: Breitbart News
-- Description: Virginia Democrat congressional candidate Shannon Taylor’s record as Henrico County’s top prosecutor is drawing scrutiny over cases involving a campaign donor, longtime political ally Joe Morrissey, and Democrat Susanna Gibson, including instances in which Ta…
+### OTHER on 2026-10-10 05:00
+- Location: The Irish Times
+- Description: Another eyewitness says suspected driver let her and her daugther cross road and thought at the time it ‘was decent of him’
 
 
-### SHOOTING on 2026-10-10 02:45
-- Location: New York Post
-- Description: The shooting of Dominican national Oscar Belgal by an Immigration and Customs Enforcement officer has triggered what are now predictable responses: street protests before the facts are known.
+### OTHER on 2026-10-10 04:55
+- Location: The Times of India
+- Description: Delhi Protest news: The Aam Aadmi Party has accused the BJP-led government of imposing a 'black emergency' in the country following police detentions, AAP leaders criticized the government's heavy security measures at protests in Delhi. AAP MLA Gopal Rai stat…
 
 
-### HOMICIDE on 2026-10-10 02:43
-- Location: Abcnews.com
-- Description: New York prosecutors are seeking to sustain their murder case against Luigi Mangione
+### HOMICIDE on 2026-10-10 04:54
+- Location: Al Jazeera English
+- Description: Authorities called Anthropic's two-month delay in detecting and reporting the incident 'unacceptable'.
 
 
-### SHOOTING on 2026-10-10 02:37
-- Location: New York Post
-- Description: After ICE shot an alleged gangbanger in the country illegally, all the usual suspects in New York politics called to "abolish ICE" but very rarely can the summon the same outrage for innocent victims of crime.
+### SHOOTING on 2026-10-10 04:28
+- Location: Freerepublic.com
+- Description: The facts hadn’t even come in before the Democratic Socialist New York City Mayor began trashing ICE Thursday and calling them “rotten to the core.”What was known: a suspected illegal alien criminal, 28-year-old Oscar Belgal, was shot (but survived) during a …
 
-Analysis generated at: Sun Oct 11 03:25:19 UTC 2026
+Analysis generated at: Sun Oct 11 05:00:55 UTC 2026
