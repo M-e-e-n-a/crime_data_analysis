@@ -1,10 +1,10 @@
 
-Loaded 139341 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-10 17:34:49
+Loaded 139396 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-10 21:16:30
 
 Incidents by source:
 source
-newsapi           139240
+newsapi           139295
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,33 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-10-10 17:34
-- Location: Biztoc.com
-- Description: Five people were found fatally shot late Friday at a home in South Georgia, prompting an ongoing police investigation.
-Officers responding to a residence on Robin Lane in the Touchton Woods neighborhood around 11:09 p.m. discovered five individuals who appear…
+### HOMICIDE on 2026-10-10 21:16
+- Location: CBC News
+- Description: A shooting in a residential area of Erie, Pa., left nine people dead, including the suspected shooter, and rocked the city. Police said two children and a pregnant woman were among the dead.
 
 
-### OTHER on 2026-10-10 17:34
-- Location: Slashdot.org
-- Description: Last week a Florida woman sued Flock over its role in police officer accusing her of a crime she didn't commit But she's not the only one suing Flock over mistaken accusations, reports Gizmodo:
-.
-
-
-A Ring video of a Colorado woman being handed a criminal summ…
-
-
-### HOMICIDE on 2026-10-10 17:31
+### HOMICIDE on 2026-10-10 21:15
 - Location: Dailymail.com
-- Description: The suspected shooter barricaded himself inside a home before a police standoff ended with him dead, apparently after taking his own life with a gunshot.
+- Description: Having seen two executions at close quarters, I can advise you quite strongly not to watch the planned shooting in Texas of the mass killer Nidal Hasan by a live-streamed firing squad.
 
 
-### ASSAULT on 2026-10-10 17:30
-- Location: Moonbattery.com
-- Description: Delvin Dobbins of Pittsburgh left a victim’s intestines hanging out following a knife attack. Under the revolving door system of justice, he was released without bail. This turned out as anyone would expect. Via Modernity: Eight days later he was … Continue r…
+### OTHER on 2026-10-10 21:15
+- Location: Screen Rant
+- Description: One of the longest-standing records in network TV history is never going to be beaten, even if the show that holds it has been all but forgotten.
 
 
-### HOMICIDE on 2026-10-10 17:30
-- Location: The Times of India
-- Description: UP STF and Maharashtra Police arrested Santosh Kanojia and Amit Singh in Prayagraj for a Thane murder linked to election rivalry; transit remand underway.
+### HOMICIDE on 2026-10-10 21:14
+- Location: Dailymail.com
+- Description: Former New York Jets linebacker Darron Lee will wait until September 20, 2027 to stand trial on a first-degree murder charge in the death of his girlfriend.
 
-Analysis generated at: Sun Oct 11 17:35:27 UTC 2026
+
+### HOMICIDE on 2026-10-10 21:13
+- Location: New York Post
+- Description: The White House on Saturday slammed New York City for being a sanctuary city for immigrants and for creating conditions that have led to violent crimes and other chaos.
+
+Analysis generated at: Sun Oct 11 21:23:18 UTC 2026
