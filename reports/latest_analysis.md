@@ -1,10 +1,10 @@
 
-Loaded 139525 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-11 13:59:31
+Loaded 139624 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-11 21:07:32
 
 Incidents by source:
 source
-newsapi           139424
+newsapi           139523
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2026-10-11 13:59
+### HOMICIDE on 2026-10-11 21:07
 - Location: Dailymail.com
-- Description: A group of teenagers allegedly stole $1,000 worth of alcohol from The Bottle-O Narellan Vale on Saturday.
+- Description: An unidentified 45-year-old grandfather killed nine of his family members in a horrifying mass shooting on Friday evening in Erie, Pennsylvania.
 
 
-### HOMICIDE on 2026-10-11 13:38
-- Location: Newser
-- Description: Authorities in Erie, Pennsylvania, say they are still piecing together what led a gunman to kill seven members of his family , a family friend, and then himself. "I think that mental health is at play here," says Police Chief Rick Lorah, per the Erie Times-Ne…
+### ROBBERY/THEFT on 2026-10-11 21:04
+- Location: Dailymail.com
+- Description: A teenager is facing a string of charges after allegedly striking a woman with a stolen car while driving erratically through a major city centre.
 
 
-### ROBBERY/THEFT on 2026-10-11 13:11
-- Location: MMA Mania
-- Description: The Ultimate Fighter 1 star Diego Sanchez will remain in jail for another 30 days over an impaired driving probation violation from early September. Sanchez was arrested at a gas station in Socorro County, New Mexico on September 8th after police breathalyzed…
+### HOMICIDE on 2026-10-11 21:02
+- Location: Dailymail.com
+- Description: Gerald Bishop, who lives on Sherbourne Avenue in Bradley Stoke, was arrested at the scene and later charged with her murder.
 
 
-### OTHER on 2026-10-11 13:06
-- Location: Al Jazeera English
-- Description: India's 'cockroach' movement and student groups have said protests will continue despite detentions.
-
-
-### SHOOTING on 2026-10-11 12:58
+### OTHER on 2026-10-11 20:58
 - Location: The Times of India
-- Description: Kishanganj: 32-year-old constable Sameer Kumar died after allegedly shooting himself with his service revolver at Sadar police station; probe underway.
+- Description: Gurgaon’s Kendriya Vihar saw heavy plainclothes police deployment as YouTuber Dhruv Rathee was detained ahead of a planned Delhi protest and later released.
 
-Analysis generated at: Mon Oct 12 14:09:50 UTC 2026
+
+### OTHER on 2026-10-11 20:48
+- Location: New York Post
+- Description: Some of Israel's loudest US accusers — like Hasan Piker, Zohran Mamdani and Ilhan Omar — remain silent about the sordid histories of their own homelands.
+
+Analysis generated at: Mon Oct 12 21:08:04 UTC 2026
