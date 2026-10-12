@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Oct 12 05:14:25 UTC 2026
+Last updated: Mon Oct 12 14:09:50 UTC 2026
 
 ## Latest Analysis
 
-Loaded 139444 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-11 05:12:45
+Loaded 139525 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-11 13:59:31
 
 Incidents by source:
 source
-newsapi           139343
+newsapi           139424
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-10-11 05:12
-- Location: Rediff.com
-- Description: Alpine managing director Steve Nielsen, a veteran of Formula 1 since 1985, shares insights into his four-decade career, the sport's evolution from a niche interest to a global powerhouse, and the roles of Bernie Ecclestone and Liberty Media in its growth. He …
+### ROBBERY/THEFT on 2026-10-11 13:59
+- Location: Dailymail.com
+- Description: A group of teenagers allegedly stole $1,000 worth of alcohol from The Bottle-O Narellan Vale on Saturday.
 
 
-### OTHER on 2026-10-11 05:09
+### HOMICIDE on 2026-10-11 13:38
+- Location: Newser
+- Description: Authorities in Erie, Pennsylvania, say they are still piecing together what led a gunman to kill seven members of his family , a family friend, and then himself. "I think that mental health is at play here," says Police Chief Rick Lorah, per the Erie Times-Ne…
+
+
+### ROBBERY/THEFT on 2026-10-11 13:11
+- Location: MMA Mania
+- Description: The Ultimate Fighter 1 star Diego Sanchez will remain in jail for another 30 days over an impaired driving probation violation from early September. Sanchez was arrested at a gas station in Socorro County, New Mexico on September 8th after police breathalyzed…
+
+
+### OTHER on 2026-10-11 13:06
+- Location: Al Jazeera English
+- Description: India's 'cockroach' movement and student groups have said protests will continue despite detentions.
+
+
+### SHOOTING on 2026-10-11 12:58
 - Location: The Times of India
-- Description: Oxfordshire will have mostly cloudy weather on October 11, with temperatures peaking at 15°C. Humidity levels will be high, making conditions feel warmer than they actually are. Residents should prepare for a possibly damp day, even with minimal chances of ra…
+- Description: Kishanganj: 32-year-old constable Sameer Kumar died after allegedly shooting himself with his service revolver at Sadar police station; probe underway.
 
-
-### OTHER on 2026-10-11 05:09
-- Location: The Times of India
-- Description: Residents of Lewisham can expect a pleasant day with sunny intervals and a peak temperature of 15°C. The humidity will be relatively high, but there is minimal chance of rain throughout the day. Tomorrow might bring light rain with warmer temperatures reachin…
-
-
-### OTHER on 2026-10-11 05:09
-- Location: The Times of India
-- Description: Belfast anticipates a day with maximum temperatures reaching 14°C and lows around 13°C. The weather is expected to feature mostly clear skies, creating suitable conditions for outdoor engagements. While humidity levels are high, rainfall is not anticipated du…
-
-
-### OTHER on 2026-10-11 05:09
-- Location: The Times of India
-- Description: Today in York, weather conditions are pleasant with sunny intervals and temperatures ranging from 6°C to 14°C. Humidity is high at 84%, making the air feel damp yet comfortable for outdoor activities. Residents are encouraged to dress in layers for the evenin…
-
-Analysis generated at: Mon Oct 12 05:14:25 UTC 2026
+Analysis generated at: Mon Oct 12 14:09:50 UTC 2026
