@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Oct 13 13:22:41 UTC 2026
+Last updated: Tue Oct 13 19:06:44 UTC 2026
 
 ## Latest Analysis
 
-Loaded 139756 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-12 13:14:11
+Loaded 139856 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-12 19:05:13
 
 Incidents by source:
 source
-newsapi           139655
+newsapi           139755
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-10-12 13:14
-- Location: Dailymail.com
-- Description: One Nation MP Barnaby Joyce and Greens senator Sarah Hanson Young agree that the livestreamed execution of American mass shooter Nidal Hasan to be banned in Australia.
+### OTHER on 2026-10-12 19:05
+- Location: The Times of India
+- Description: Yogi Adityanath flags off Mission Shakti phase 6 women’s safety and empowerment rally in Gorakhpur; 500 two-wheelers join awareness drive.
 
 
-### HOMICIDE on 2026-10-12 13:12
-- Location: BBC News
-- Description: The mother of a boy accused of attempted murder at a high school gives evidence at his trial.
+### ROBBERY/THEFT on 2026-10-12 19:05
+- Location: The Times of India
+- Description: Senior citizen in Pune’s Tathwade duped of Rs2.8 lakh in piped gas update scam; fraudster sent APK link to access bank account, Wakad police probe.
 
 
-### ROBBERY/THEFT on 2026-10-12 13:12
-- Location: Yahoo Entertainment
-- Description: NANTERRE, France (AP) — DNA left on a protective painting cover helped investigators recover two stolen Renoirs and uncover what they suspected were preparations for another art heist, a French prosecutor said Monday.
- Four men were given preliminary charges …
+### SHOOTING on 2026-10-12 19:04
+- Location: The Times of India
+- Description: Goa Police crime branch probes links and motive in Aug 28 Porvorim shootout; main accused Gopal Naik held, 9 arrested, vehicles seized, recce on CCTV.
 
 
-### OTHER on 2026-10-12 13:00
-- Location: The New Republic
-- Description: Homeland Security Investigations officers raided Representative Ilhan Omar’s Washington, D.C., home Monday morning.The raid was part of a criminal investigation into the Minnesota Democrat’s immigration paperwork, according to Fox News Digital, which was fill…
+### OTHER on 2026-10-12 19:04
+- Location: The Times of India
+- Description: 24-year-old worker Durga Kumar Gupta died after falling from a bridge on Pune-Nashik highway in Junnar while fleeing two men; one arrested, minor detained.
 
 
-### HOMICIDE on 2026-10-12 12:35
-- Location: Gossiplankanews.com
-- Description: The sound of gunshots heard on the morning of the 9th near the 'Dragon' Hotel located at Gallassa Junction on the Kalutara - Mathugama main road did not end just one life. After the demise of the hotel owner, who breathed his last at the scene that day, his w…
+### HOMICIDE on 2026-10-12 19:04
+- Location: The Times of India
+- Description: Body of former gram pradhan’s brother Om Prakash Mishra found murdered on a Jaunpur school campus; police register FIR against unknown assailants, probe on.
 
-Analysis generated at: Tue Oct 13 13:22:41 UTC 2026
+Analysis generated at: Tue Oct 13 19:06:44 UTC 2026
