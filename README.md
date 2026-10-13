@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Oct 12 21:08:04 UTC 2026
+Last updated: Tue Oct 13 00:04:30 UTC 2026
 
 ## Latest Analysis
 
-Loaded 139624 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-11 21:07:32
+Loaded 139626 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-12 00:02:36
 
 Incidents by source:
 source
-newsapi           139523
+newsapi           139525
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,6 +24,16 @@ ion.svg)
 
 ## Recent Incidents
 
+### OTHER on 2026-10-12 00:02
+- Location: Dailymail.com
+- Description: From tomorrow, criminals jailed for up to 29 months will emerge through prison gates across Britain without having served their sentences in full
+
+
+### ROBBERY/THEFT on 2026-10-12 00:00
+- Location: Urbanhollywood411.com
+- Description: 'Pretty Little Liars' star Keegan Allen was robbed, beaten and left bloodied by thieves who stole his watch in West Hollywood, California.
+
+
 ### HOMICIDE on 2026-10-11 21:07
 - Location: Dailymail.com
 - Description: An unidentified 45-year-old grandfather killed nine of his family members in a horrifying mass shooting on Friday evening in Erie, Pennsylvania.
@@ -38,14 +48,4 @@ ion.svg)
 - Location: Dailymail.com
 - Description: Gerald Bishop, who lives on Sherbourne Avenue in Bradley Stoke, was arrested at the scene and later charged with her murder.
 
-
-### OTHER on 2026-10-11 20:58
-- Location: The Times of India
-- Description: Gurgaon’s Kendriya Vihar saw heavy plainclothes police deployment as YouTuber Dhruv Rathee was detained ahead of a planned Delhi protest and later released.
-
-
-### OTHER on 2026-10-11 20:48
-- Location: New York Post
-- Description: Some of Israel's loudest US accusers — like Hasan Piker, Zohran Mamdani and Ilhan Omar — remain silent about the sordid histories of their own homelands.
-
-Analysis generated at: Mon Oct 12 21:08:04 UTC 2026
+Analysis generated at: Tue Oct 13 00:04:30 UTC 2026
