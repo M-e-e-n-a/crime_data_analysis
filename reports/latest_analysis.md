@@ -1,10 +1,10 @@
 
-Loaded 139856 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-12 19:05:13
+Loaded 139900 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-12 22:05:43
 
 Incidents by source:
 source
-newsapi           139755
+newsapi           139799
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-10-12 19:05
-- Location: The Times of India
-- Description: Yogi Adityanath flags off Mission Shakti phase 6 women’s safety and empowerment rally in Gorakhpur; 500 two-wheelers join awareness drive.
+### HOMICIDE on 2026-10-12 22:05
+- Location: The Punch
+- Description: The arraignment of three suspects arrested in connection with the alleged murder of a Federal Road Safety Corps officer attached to the Ogun State Command, Funmilayo Lasisi, and her daughter, Adesewa, before the Osun State High Court in Osogbo was stalled on …
 
 
-### ROBBERY/THEFT on 2026-10-12 19:05
-- Location: The Times of India
-- Description: Senior citizen in Pune’s Tathwade duped of Rs2.8 lakh in piped gas update scam; fraudster sent APK link to access bank account, Wakad police probe.
+### HOMICIDE on 2026-10-12 22:00
+- Location: New York Post
+- Description: The pregnant mom shot dead by her killer father in a grisly Pennsylvania murder-suicide boasted about the upcoming arrival of her “blessing” baby boy she was set to deliver Monday in a tragic final post. Matthew Stone Sr., 45, was identified Monday as the gun…
 
 
-### SHOOTING on 2026-10-12 19:04
-- Location: The Times of India
-- Description: Goa Police crime branch probes links and motive in Aug 28 Porvorim shootout; main accused Gopal Naik held, 9 arrested, vehicles seized, recce on CCTV.
+### OTHER on 2026-10-12 22:00
+- Location: CBC News
+- Description: Centretown residents say the behaviour of some people frequenting Centre 507 has them fearing for their safety. Advocates warn, however, that there are no easy solutions.
 
 
-### OTHER on 2026-10-12 19:04
-- Location: The Times of India
-- Description: 24-year-old worker Durga Kumar Gupta died after falling from a bridge on Pune-Nashik highway in Junnar while fleeing two men; one arrested, minor detained.
+### HOMICIDE on 2026-10-12 21:53
+- Location: Fox News
+- Description: The suspect in the fatal CTA stabbing allegedly robbed the victim and had four probation violations with an ankle monitor at the time of the attack.
 
 
-### HOMICIDE on 2026-10-12 19:04
-- Location: The Times of India
-- Description: Body of former gram pradhan’s brother Om Prakash Mishra found murdered on a Jaunpur school campus; police register FIR against unknown assailants, probe on.
+### SHOOTING on 2026-10-12 21:50
+- Location: Mediaite
+- Description: The New York Post reported the day after Chevalier said Belgal’s past crimes do not matter, that he had terrorized his neighbors with a machete in the past
+The post ‘Doesn’t Even Matter’: NY Dem Dismisses Rap Sheet of Migrant ICE Shot, Now Accused of Terroriz…
 
-Analysis generated at: Tue Oct 13 19:06:44 UTC 2026
+Analysis generated at: Tue Oct 13 22:13:11 UTC 2026
