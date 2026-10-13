@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Oct 13 06:14:37 UTC 2026
+Last updated: Tue Oct 13 13:22:41 UTC 2026
 
 ## Latest Analysis
 
-Loaded 139678 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-12 06:03:02
+Loaded 139756 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-12 13:14:11
 
 Incidents by source:
 source
-newsapi           139577
+newsapi           139655
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-10-12 06:03
-- Location: The Times of India
-- Description: On October 10, a 17-year-old girl named Priyadevi was found dead at her home in Kurla. Her father, Basantlal Kori, accused a family friend of killing her while caring for the children. Yadav allegedly called the family, claiming she was unconscious outside th…
+### SHOOTING on 2026-10-12 13:14
+- Location: Dailymail.com
+- Description: One Nation MP Barnaby Joyce and Greens senator Sarah Hanson Young agree that the livestreamed execution of American mass shooter Nidal Hasan to be banned in Australia.
 
 
-### OTHER on 2026-10-12 06:00
-- Location: Variety
-- Description: London-based Cineflix Rights, shopper of the Int’l Emmy-winner “Tehran” and BBC hit series “The Walsh Sisters,” has inked a raft of major sales on the Nordic blue crime “Hildur,” based on Finnish author Satu Rämö’s literary phenomenon. Rights on the six-part …
+### HOMICIDE on 2026-10-12 13:12
+- Location: BBC News
+- Description: The mother of a boy accused of attempted murder at a high school gives evidence at his trial.
 
 
-### OTHER on 2026-10-12 06:00
-- Location: Naturalnews.com
-- Description: The Pentagon plans to livestream the firing-squad execution of former U.S. Army Maj. Nidal Malik Hasan on Dec. 3 at Fort Hood, Texas, according to Secretary of War Pete Hegseth, who said President Donald Trump approved the plan. Hegseth told the Human Events …
+### ROBBERY/THEFT on 2026-10-12 13:12
+- Location: Yahoo Entertainment
+- Description: NANTERRE, France (AP) — DNA left on a protective painting cover helped investigators recover two stolen Renoirs and uncover what they suspected were preparations for another art heist, a French prosecutor said Monday.
+ Four men were given preliminary charges …
 
 
-### HOMICIDE on 2026-10-12 05:45
-- Location: ABC News (AU)
-- Description: Tobias Moran files civil proceedings against NSW Police for malicious prosecution in relation to the death of his girlfriend Simone Strobel in Lismore in 2005.
+### OTHER on 2026-10-12 13:00
+- Location: The New Republic
+- Description: Homeland Security Investigations officers raided Representative Ilhan Omar’s Washington, D.C., home Monday morning.The raid was part of a criminal investigation into the Minnesota Democrat’s immigration paperwork, according to Fox News Digital, which was fill…
 
 
-### HOMICIDE on 2026-10-12 05:33
-- Location: Slashdot.org
-- Description: Pennsylvania shooter who killed eight was a grandfather, says slain child’s dadThe Guardian Erie police say mental health may be factor in shooting that killed 9Erie Times-News Pennsylvania shooter who killed 8 was family’s patriarch, father of toddler killed…
+### HOMICIDE on 2026-10-12 12:35
+- Location: Gossiplankanews.com
+- Description: The sound of gunshots heard on the morning of the 9th near the 'Dragon' Hotel located at Gallassa Junction on the Kalutara - Mathugama main road did not end just one life. After the demise of the hotel owner, who breathed his last at the scene that day, his w…
 
-Analysis generated at: Tue Oct 13 06:14:37 UTC 2026
+Analysis generated at: Tue Oct 13 13:22:41 UTC 2026
