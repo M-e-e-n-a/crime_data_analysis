@@ -1,10 +1,10 @@
 
-Loaded 139934 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-13 03:02:56
+Loaded 139946 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-13 04:09:27
 
 Incidents by source:
 source
-newsapi           139833
+newsapi           139845
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,29 +20,30 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-10-13 03:02
-- Location: Dailymail.com
-- Description: Pete Hegseth announced Thursday that Donald Trump had approved his proposal to publicly execute Hasan, who was sentenced to death for the 2009 shooting, via firing squad in a live broadcast.
+### HOMICIDE on 2026-10-13 04:09
+- Location: Newsonjapan.com
+- Description: A 46-year-old Cuban national has been arrested on suspicion of attempted murder after allegedly stabbing a 32-year-old foreign national at a restaurant in Yokohama, Kanagawa Prefecture, on October 11, fleeing the scene before turning himself in to police the …
 
 
-### SHOOTING on 2026-10-13 03:01
-- Location: CNA
-- Description: Authorities said there did not appear to be a link with the high school protests that have rocked France in recent weeks.
+### OTHER on 2026-10-13 04:01
+- Location: Bleed Cubbie Blue
+- Description: The late-night/early-morning spot for Cubs fans asks who was the Cubs Pitcher of the Year.
 
 
-### HOMICIDE on 2026-10-13 02:54
-- Location: BBC News
-- Description: Military police investigator tells an inquiry that the probe into suspected murders was "dictated" from above.
+### OTHER on 2026-10-13 04:00
+- Location: Gossiplankanews.com
+- Description: Four foreign nationals, who were found to be involved in distributing cocaine to nightclubs, have been arrested in the Kollupitiya area. This was a result of raids conducted by a team of officers from the Colombo District Crime Division inside a hotel and a s…
 
 
-### OTHER on 2026-10-13 02:51
-- Location: soompi
-- Description: ENA’s “Crash 2” is gearing up for its premiere! On October 13, “Crash 2” unveiled a behind-the-scenes look at the drama’s script reading. Along with original cast members Lee Min Ki, Kwak Sun Young, Heo Sung Tae, Lee Ho Chul, and Moon Hee returning for the up…
+### OTHER on 2026-10-13 04:00
+- Location: Americanthinker.com
+- Description: By Civis AmericanusEven when he condemns Hamas’s actions, there’s a ‘but.’
 
 
-### HOMICIDE on 2026-10-13 02:36
-- Location: Biztoc.com
-- Description: An Anthropic AI model submitted a false tip about an unsolved murder to Philadelphia police, the company and police department confirmed on Friday.
-A Claude model sent the false tip on July 18 to the Philadelphia Police Department’s website for submitting inf…
+### SHOOTING on 2026-10-13 04:00
+- Location: Americanthinker.com
+- Description: Photo Credit:
+ 
+ ChatGPT for American ThinkerBy Vince CoynerHe was indoctrinated by a culture that no longer even pretends to conform to the norms that made America so successful.
 
-Analysis generated at: Wed Oct 14 03:07:04 UTC 2026
+Analysis generated at: Wed Oct 14 04:15:53 UTC 2026
