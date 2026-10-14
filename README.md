@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Oct 13 22:13:11 UTC 2026
+Last updated: Wed Oct 14 03:07:04 UTC 2026
 
 ## Latest Analysis
 
-Loaded 139900 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-12 22:05:43
+Loaded 139934 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-13 03:02:56
 
 Incidents by source:
 source
-newsapi           139799
+newsapi           139833
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,29 +24,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-10-12 22:05
-- Location: The Punch
-- Description: The arraignment of three suspects arrested in connection with the alleged murder of a Federal Road Safety Corps officer attached to the Ogun State Command, Funmilayo Lasisi, and her daughter, Adesewa, before the Osun State High Court in Osogbo was stalled on …
+### HOMICIDE on 2026-10-13 03:02
+- Location: Dailymail.com
+- Description: Pete Hegseth announced Thursday that Donald Trump had approved his proposal to publicly execute Hasan, who was sentenced to death for the 2009 shooting, via firing squad in a live broadcast.
 
 
-### HOMICIDE on 2026-10-12 22:00
-- Location: New York Post
-- Description: The pregnant mom shot dead by her killer father in a grisly Pennsylvania murder-suicide boasted about the upcoming arrival of her “blessing” baby boy she was set to deliver Monday in a tragic final post. Matthew Stone Sr., 45, was identified Monday as the gun…
+### SHOOTING on 2026-10-13 03:01
+- Location: CNA
+- Description: Authorities said there did not appear to be a link with the high school protests that have rocked France in recent weeks.
 
 
-### OTHER on 2026-10-12 22:00
-- Location: CBC News
-- Description: Centretown residents say the behaviour of some people frequenting Centre 507 has them fearing for their safety. Advocates warn, however, that there are no easy solutions.
+### HOMICIDE on 2026-10-13 02:54
+- Location: BBC News
+- Description: Military police investigator tells an inquiry that the probe into suspected murders was "dictated" from above.
 
 
-### HOMICIDE on 2026-10-12 21:53
-- Location: Fox News
-- Description: The suspect in the fatal CTA stabbing allegedly robbed the victim and had four probation violations with an ankle monitor at the time of the attack.
+### OTHER on 2026-10-13 02:51
+- Location: soompi
+- Description: ENA’s “Crash 2” is gearing up for its premiere! On October 13, “Crash 2” unveiled a behind-the-scenes look at the drama’s script reading. Along with original cast members Lee Min Ki, Kwak Sun Young, Heo Sung Tae, Lee Ho Chul, and Moon Hee returning for the up…
 
 
-### SHOOTING on 2026-10-12 21:50
-- Location: Mediaite
-- Description: The New York Post reported the day after Chevalier said Belgal’s past crimes do not matter, that he had terrorized his neighbors with a machete in the past
-The post ‘Doesn’t Even Matter’: NY Dem Dismisses Rap Sheet of Migrant ICE Shot, Now Accused of Terroriz…
+### HOMICIDE on 2026-10-13 02:36
+- Location: Biztoc.com
+- Description: An Anthropic AI model submitted a false tip about an unsolved murder to Philadelphia police, the company and police department confirmed on Friday.
+A Claude model sent the false tip on July 18 to the Philadelphia Police Department’s website for submitting inf…
 
-Analysis generated at: Tue Oct 13 22:13:11 UTC 2026
+Analysis generated at: Wed Oct 14 03:07:04 UTC 2026
