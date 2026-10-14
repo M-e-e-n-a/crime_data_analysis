@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Oct 14 16:54:25 UTC 2026
+Last updated: Wed Oct 14 21:13:33 UTC 2026
 
 ## Latest Analysis
 
-Loaded 140158 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-13 16:51:47
+Loaded 140256 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-13 21:13:09
 
 Incidents by source:
 source
-newsapi           140057
+newsapi           140155
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-10-13 16:51
-- Location: The Times of India
-- Description: Patna High Court acquits 13 in 1996 Karpi murder case, citing flawed investigation and lack of evidence; orders Bihar DGP review and accountability.
+### OTHER on 2026-10-13 21:13
+- Location: ABC News (AU)
+- Description: The ASX is set to slip after a slightly negative finish on Wall Street. Bank of America is hit with a record fine by the US Treasury. Follow the day's events and insights from our business reporters on the ABC News live markets blog.
 
 
-### HOMICIDE on 2026-10-13 16:50
-- Location: The Times of India
-- Description: Rajasthan HC upholds Reena Sharma’s acquittal in mother-in-law Munni Devi’s murder case, citing gaps in evidence, unauthenticated CCTV and no proof beyond doubt.
+### OTHER on 2026-10-13 21:12
+- Location: Freerepublic.com
+- Description: An employee of OpenAI has been arrested for and charged with using or endeavoring to use an electronic, mechanical, or other device to intercept oral communications. Abdulrahman Alfozan, 35, a national of the Kingdom of Saudi Arabia, was arrested on Oct. 9, a…
 
 
-### HOMICIDE on 2026-10-13 16:49
-- Location: The Times of India
-- Description: Jaisalmer accident: Couple and 2-day-old newborn killed as car hits tractor near Hathma village; three others, including driver, seriously injured.
+### HOMICIDE on 2026-10-13 21:11
+- Location: Dailymail.com
+- Description: A young man has been charged with murder weeks after a 12-year-old boy was fatally shot in Sydney's northwest.
 
 
-### OTHER on 2026-10-13 16:47
-- Location: The Times of India
-- Description: In Albania, student protests escalated into violent clashes with police in the capital, Tirana. These demonstrations aimed to highlight critical issues surrounding education and socio-economic challenges. Students raised urgent concerns over campus conditions…
+### HOMICIDE on 2026-10-13 21:10
+- Location: Dailymail.com
+- Description: Matthew Stone Sr, 45, opened fire in his family's Pennsylvania home and murdered three generations of his own family before he killed himself.
 
 
-### OTHER on 2026-10-13 16:44
-- Location: The Times of India
-- Description: Indian Army UAV makes emergency landing in Phalodi field after technical glitch during training sortie from Pokhran; no damage, police secured drone.
+### OTHER on 2026-10-13 21:09
+- Location: Dailymail.com
+- Description: Almost 30 alleged fraudsters were arrested in the operation which targeted suspects in countries including Ghana and Nigeria from Tuesday to Friday last week.
 
-Analysis generated at: Wed Oct 14 16:54:25 UTC 2026
+Analysis generated at: Wed Oct 14 21:13:33 UTC 2026
