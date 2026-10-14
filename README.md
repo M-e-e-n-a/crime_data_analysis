@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Oct 14 04:15:53 UTC 2026
+Last updated: Wed Oct 14 11:01:28 UTC 2026
 
 ## Latest Analysis
 
-Loaded 139946 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-13 04:09:27
+Loaded 140027 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-13 11:00:15
 
 Incidents by source:
 source
-newsapi           139845
+newsapi           139926
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,30 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-10-13 04:09
-- Location: Newsonjapan.com
-- Description: A 46-year-old Cuban national has been arrested on suspicion of attempted murder after allegedly stabbing a 32-year-old foreign national at a restaurant in Yokohama, Kanagawa Prefecture, on October 11, fleeing the scene before turning himself in to police the …
+### HOMICIDE on 2026-10-13 11:00
+- Location: Fox News
+- Description: Miguel Enrique Salguero-Olivares faces murder, rape and burglary charges in the Faith Hedgepeth case as DNA and missing evidence clash in court.
 
 
-### OTHER on 2026-10-13 04:01
-- Location: Bleed Cubbie Blue
-- Description: The late-night/early-morning spot for Cubs fans asks who was the Cubs Pitcher of the Year.
+### OTHER on 2026-10-13 11:00
+- Location: Lawyersgunsmoneyblog.com
+- Description: This is the grave of Pedro Montt. Born in 1849 in Santiago, Chile, Montt grew up in the top echelons of Chilean life. His father, Manuel Montt, was president of the nation from 1851 to 1861. So Pedro was a rich guy who would defend the interests of rich guys …
 
 
-### OTHER on 2026-10-13 04:00
-- Location: Gossiplankanews.com
-- Description: Four foreign nationals, who were found to be involved in distributing cocaine to nightclubs, have been arrested in the Kollupitiya area. This was a result of raids conducted by a team of officers from the Colombo District Crime Division inside a hotel and a s…
+### OTHER on 2026-10-13 10:59
+- Location: What's on Netflix
+- Description: From the highly anticipated return of Keira Knightley's 'Black Doves' to Christopher Nolan's 'Interstellar', here is your early look at Netflix UK's November slate.
 
 
-### OTHER on 2026-10-13 04:00
-- Location: Americanthinker.com
-- Description: By Civis AmericanusEven when he condemns Hamas’s actions, there’s a ‘but.’
+### OTHER on 2026-10-13 10:58
+- Location: The Times of India
+- Description: A hidden air-raid shelter behind a garden hedge held decades-old wine worth £3.56 million, and 11 bottles of Romanee-Conti alone sold for £269,500 at Christie's London wine auction
 
 
-### SHOOTING on 2026-10-13 04:00
-- Location: Americanthinker.com
-- Description: Photo Credit:
- 
- ChatGPT for American ThinkerBy Vince CoynerHe was indoctrinated by a culture that no longer even pretends to conform to the norms that made America so successful.
+### HOMICIDE on 2026-10-13 10:55
+- Location: Nakedcapitalism.com
+- Description: Our deady daily links: Powdering moles, Omar criminal raid, MBS survival doubts, China debt, India stomps cockroaches, pro-Lula ralllies, Danube dry-out, Russia diesel sales row, developing nation debt worries, Trump v. press again
 
-Analysis generated at: Wed Oct 14 04:15:53 UTC 2026
+Analysis generated at: Wed Oct 14 11:01:28 UTC 2026
