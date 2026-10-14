@@ -1,10 +1,10 @@
 
-Loaded 140124 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-13 16:21:02
+Loaded 140158 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-13 16:51:47
 
 Incidents by source:
 source
-newsapi           140023
+newsapi           140057
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,48 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-10-13 16:21
+### HOMICIDE on 2026-10-13 16:51
 - Location: The Times of India
-- Description: Raipur: Six juveniles escaped from the govt-run 'place of safety' in Chhattisgarh's Ambikapur town on Monday night after flinging hot dal and food at a
+- Description: Patna High Court acquits 13 in 1996 Karpi murder case, citing flawed investigation and lack of evidence; orders Bihar DGP review and accountability.
 
 
-### OTHER on 2026-10-13 16:17
-- Location: BBC News
-- Description: The housekeeper was accused of stealing the items after being left to look after the Belgravia home.
+### HOMICIDE on 2026-10-13 16:50
+- Location: The Times of India
+- Description: Rajasthan HC upholds Reena Sharma’s acquittal in mother-in-law Munni Devi’s murder case, citing gaps in evidence, unauthenticated CCTV and no proof beyond doubt.
 
 
-### OTHER on 2026-10-13 16:15
-- Location: Khabarhub.com
-- Description: KATHMANDU: Khabarhub brings you a glimpse of major developments of the day in Nepal, including politics, business/economy, sports, entertainment, and more. Third day of Navaratra: Chandraghanta Devi worshipped today Chandraghanta Devi, the third of the nine f…
+### HOMICIDE on 2026-10-13 16:49
+- Location: The Times of India
+- Description: Jaisalmer accident: Couple and 2-day-old newborn killed as car hits tractor near Hathma village; three others, including driver, seriously injured.
 
 
-### HOMICIDE on 2026-10-13 16:15
-- Location: Human Rights Watch
-- Description: Click to expand Image
- 
+### OTHER on 2026-10-13 16:47
+- Location: The Times of India
+- Description: In Albania, student protests escalated into violent clashes with police in the capital, Tirana. These demonstrations aimed to highlight critical issues surrounding education and socio-economic challenges. Students raised urgent concerns over campus conditions…
 
 
+### OTHER on 2026-10-13 16:44
+- Location: The Times of India
+- Description: Indian Army UAV makes emergency landing in Phalodi field after technical glitch during training sortie from Pokhran; no damage, police secured drone.
 
- 
- 
- 
-
- 
- 
- 
- 
- Anojan Sivarasa.
- © Private
- 
- 
-
-
- 
-(Beirut) – A Saudi court has sentenced a Sri Lankan migrant worker to death over a Facebook comment that was deemed blasphemous, Human Rights Watch said today. Saudi authorities sh…
-
-
-### ROBBERY/THEFT on 2026-10-13 16:12
-- Location: ARTnews
-- Description: Police investigating the stolen Renoirs observed one of the suspects visiting the Fondation Maeght, a modern art museum near the Musée Renoir in southeastern France.
-
-Analysis generated at: Wed Oct 14 16:21:29 UTC 2026
+Analysis generated at: Wed Oct 14 16:54:25 UTC 2026
