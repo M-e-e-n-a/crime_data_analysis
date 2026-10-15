@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Oct 15 02:47:02 UTC 2026
+Last updated: Thu Oct 15 04:00:08 UTC 2026
 
 ## Latest Analysis
 
-Loaded 140277 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-14 02:38:14
+Loaded 140284 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-14 03:56:27
 
 Incidents by source:
 source
-newsapi           140176
+newsapi           140183
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-10-14 02:38
+### OTHER on 2026-10-14 03:56
 - Location: The Times of India
-- Description: Parvinder Singh Jhota was shot dead in Mansa district after confronting Ashwani Kumar over drug sales. The accused medical store owner fled the scene after the incident, prompting a police manhunt. An associate of Kumar was arrested shortly after for assistin…
+- Description: The US Justice Department on Tuesday praised Meta and other tech giants for their support in dismantling online scams in West Africa. The Justice Department provided more details on Tuesday, saying it was coordinated with the UK's National Crime Agency and de…
 
 
-### SHOOTING on 2026-10-14 02:34
-- Location: Fox News
-- Description: Zohran Mamdani backed NYPD Commissioner Jessica Tisch despite Democratic Socialists of America demanding her removal over the Bronx ICE shooting.
-
-
-### ROBBERY/THEFT on 2026-10-14 02:33
-- Location: FOX 5 DC
-- Description: Prince George’s County police are asking for the public’s help in finding a 2-year-old French bulldog that was stolen from inside a car Thursday, Oct. 8 at a Camp Springs gas station.
-
-
-### ASSAULT on 2026-10-14 02:26
+### HOMICIDE on 2026-10-14 03:27
 - Location: The Times of India
-- Description: A 22-year-old gym trainer has been arrested for allegedly raping a woman under the pretext of marriage. The complainant claims his mobile phone contains obscene videos of 80 women that were sold online. Investigators are examining the phone to verify these al…
+- Description: A 24-year-old woman died after falling from the 10th floor of a hotel in Lucknow. Her family accused a shop owner of pushing her during a dispute about marriage. The owner allegedly fled the scene immediately on a motorcycle after the incident occurred. Polic…
 
 
-### HOMICIDE on 2026-10-14 02:25
+### OTHER on 2026-10-14 03:25
 - Location: The Times of India
-- Description: Ashwani Kumar, the medical store owner, was arrested in Rajasthan after allegedly killing anti-drug activist Parvinder Singh Jhota. Jhota was shot dead in daylight while confronting Kumar over suspected drug sales. The incident occurred during a live Facebook…
+- Description: Delhi Police placed three leaders of the Cockroach Janata Party into preventive custody on Wednesday morning. Saurav Das, Ashutosh Ranka, and Ajinkya Shinde were detained after attempting to enter Jantar Mantar. A case was registered against them for trespass…
 
-Analysis generated at: Thu Oct 15 02:47:02 UTC 2026
+
+### HOMICIDE on 2026-10-14 03:14
+- Location: ABC News (AU)
+- Description: Homicide detectives have charged a 31-year-old man with murder, and believe he and Ms Bonner knew each other.
+
+
+### ASSAULT on 2026-10-14 03:06
+- Location: The Times of India
+- Description: In a harrowing incident, a daily-wage worker was arrested for the sexual assault of a minor girl at a temple. The incident unfolded on Sunday during the girl's visit with her parents. Thanks to CCTV footage, the police swiftly identified and apprehended the s…
+
+Analysis generated at: Thu Oct 15 04:00:08 UTC 2026
