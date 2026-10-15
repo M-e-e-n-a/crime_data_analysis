@@ -1,10 +1,10 @@
 
-Loaded 140351 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-14 10:43:39
+Loaded 140449 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-14 16:08:50
 
 Incidents by source:
 source
-newsapi           140250
+newsapi           140348
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,30 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-10-14 10:43
-- Location: Malwarebytes.com
-- Description: Anthropic’s Claude submitted a made-up tip about an unsolved murder during testing.
-
-
-### OTHER on 2026-10-14 10:38
-- Location: The Punch
-- Description: The Kwara State Police Command has arrested four men in two separate incidents for possessing a human skull and hands allegedly intended for money rituals.
-
-Read More: https://punchng.com/police-arrest-four-with-human-skull-hands-intended-for-money-rituals/
-
-
-### OTHER on 2026-10-14 10:29
+### HOMICIDE on 2026-10-14 16:08
 - Location: The Times of India
-- Description: Mamata Banerjee condemned the arrest of Cockroach Janata Party leaders by Delhi Police for alleged trespassing. She expressed solidarity with the youth, assuring them of her support against government oppression. Banerjee highlighted the need to protect democ…
+- Description: Charred body of unidentified woman found near lower Periyar dam in Idukki; police suspect murder and investigate with fingerprint team and dog squad.
 
 
-### OTHER on 2026-10-14 10:22
+### HOMICIDE on 2026-10-14 16:07
 - Location: The Times of India
-- Description: NASA's latest satellite imagery reveals Australia's giant spider; the striking landscape created by an ancient impact is a huge crater
+- Description: Two killed and two injured after ex-TMC MLA Sukumar Mahata’s SUV hit an e-rickshaw on Basanti Highway in North 24 Parganas; police investigating cause.
 
 
-### OTHER on 2026-10-14 10:20
-- Location: Unity.com
-- Description: Male Pistol Movements – Motion Capture Animation PackNumber Of Animation : 261Number Of Animator Controller : 261Number Of Prefab : 2 (Male Character with Pistol, Pistol)Number Of Skeletal Mesh : 2Number Of Material : 4Number Of Texture : 19 (2048 x 2048)Numb…
+### OTHER on 2026-10-14 16:07
+- Location: DW (English)
+- Description: Turkish authorities have raided the Istanbul offices of Halk TV, halting broadcasts, appointing a trustee and opening an investigation. It is the latest chapter of a decadeslong media capture by President Erdogan.
 
-Analysis generated at: Thu Oct 15 10:44:07 UTC 2026
+
+### HOMICIDE on 2026-10-14 16:05
+- Location: The Times of India
+- Description: Six individuals lost their lives, including a child, after a plane crash in Wisconsin Dells. The small Piper PA-46 was travelling from Kenosha to Menomonie when it went down. Weather conditions at the time are being investigated to determine their impact on t…
+
+
+### OTHER on 2026-10-14 16:04
+- Location: The Times of India
+- Description: Karnataka High Court warns BDA to follow litigation guidelines, orders action for violations, and upholds Gubbalala land acquisition for road/layout project.
+
+Analysis generated at: Thu Oct 15 16:09:24 UTC 2026
