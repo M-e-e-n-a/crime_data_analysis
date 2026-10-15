@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Oct 15 04:00:08 UTC 2026
+Last updated: Thu Oct 15 10:44:07 UTC 2026
 
 ## Latest Analysis
 
-Loaded 140284 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-14 03:56:27
+Loaded 140351 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-14 10:43:39
 
 Incidents by source:
 source
-newsapi           140183
+newsapi           140250
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,30 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-10-14 03:56
+### HOMICIDE on 2026-10-14 10:43
+- Location: Malwarebytes.com
+- Description: Anthropic’s Claude submitted a made-up tip about an unsolved murder during testing.
+
+
+### OTHER on 2026-10-14 10:38
+- Location: The Punch
+- Description: The Kwara State Police Command has arrested four men in two separate incidents for possessing a human skull and hands allegedly intended for money rituals.
+
+Read More: https://punchng.com/police-arrest-four-with-human-skull-hands-intended-for-money-rituals/
+
+
+### OTHER on 2026-10-14 10:29
 - Location: The Times of India
-- Description: The US Justice Department on Tuesday praised Meta and other tech giants for their support in dismantling online scams in West Africa. The Justice Department provided more details on Tuesday, saying it was coordinated with the UK's National Crime Agency and de…
+- Description: Mamata Banerjee condemned the arrest of Cockroach Janata Party leaders by Delhi Police for alleged trespassing. She expressed solidarity with the youth, assuring them of her support against government oppression. Banerjee highlighted the need to protect democ…
 
 
-### HOMICIDE on 2026-10-14 03:27
+### OTHER on 2026-10-14 10:22
 - Location: The Times of India
-- Description: A 24-year-old woman died after falling from the 10th floor of a hotel in Lucknow. Her family accused a shop owner of pushing her during a dispute about marriage. The owner allegedly fled the scene immediately on a motorcycle after the incident occurred. Polic…
+- Description: NASA's latest satellite imagery reveals Australia's giant spider; the striking landscape created by an ancient impact is a huge crater
 
 
-### OTHER on 2026-10-14 03:25
-- Location: The Times of India
-- Description: Delhi Police placed three leaders of the Cockroach Janata Party into preventive custody on Wednesday morning. Saurav Das, Ashutosh Ranka, and Ajinkya Shinde were detained after attempting to enter Jantar Mantar. A case was registered against them for trespass…
+### OTHER on 2026-10-14 10:20
+- Location: Unity.com
+- Description: Male Pistol Movements – Motion Capture Animation PackNumber Of Animation : 261Number Of Animator Controller : 261Number Of Prefab : 2 (Male Character with Pistol, Pistol)Number Of Skeletal Mesh : 2Number Of Material : 4Number Of Texture : 19 (2048 x 2048)Numb…
 
-
-### HOMICIDE on 2026-10-14 03:14
-- Location: ABC News (AU)
-- Description: Homicide detectives have charged a 31-year-old man with murder, and believe he and Ms Bonner knew each other.
-
-
-### ASSAULT on 2026-10-14 03:06
-- Location: The Times of India
-- Description: In a harrowing incident, a daily-wage worker was arrested for the sexual assault of a minor girl at a temple. The incident unfolded on Sunday during the girl's visit with her parents. Thanks to CCTV footage, the police swiftly identified and apprehended the s…
-
-Analysis generated at: Thu Oct 15 04:00:08 UTC 2026
+Analysis generated at: Thu Oct 15 10:44:07 UTC 2026
