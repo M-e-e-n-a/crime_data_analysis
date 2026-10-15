@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Oct 14 21:13:33 UTC 2026
+Last updated: Thu Oct 15 02:47:02 UTC 2026
 
 ## Latest Analysis
 
-Loaded 140256 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-13 21:13:09
+Loaded 140277 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-14 02:38:14
 
 Incidents by source:
 source
-newsapi           140155
+newsapi           140176
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-10-13 21:13
-- Location: ABC News (AU)
-- Description: The ASX is set to slip after a slightly negative finish on Wall Street. Bank of America is hit with a record fine by the US Treasury. Follow the day's events and insights from our business reporters on the ABC News live markets blog.
+### HOMICIDE on 2026-10-14 02:38
+- Location: The Times of India
+- Description: Parvinder Singh Jhota was shot dead in Mansa district after confronting Ashwani Kumar over drug sales. The accused medical store owner fled the scene after the incident, prompting a police manhunt. An associate of Kumar was arrested shortly after for assistin…
 
 
-### OTHER on 2026-10-13 21:12
-- Location: Freerepublic.com
-- Description: An employee of OpenAI has been arrested for and charged with using or endeavoring to use an electronic, mechanical, or other device to intercept oral communications. Abdulrahman Alfozan, 35, a national of the Kingdom of Saudi Arabia, was arrested on Oct. 9, a…
+### SHOOTING on 2026-10-14 02:34
+- Location: Fox News
+- Description: Zohran Mamdani backed NYPD Commissioner Jessica Tisch despite Democratic Socialists of America demanding her removal over the Bronx ICE shooting.
 
 
-### HOMICIDE on 2026-10-13 21:11
-- Location: Dailymail.com
-- Description: A young man has been charged with murder weeks after a 12-year-old boy was fatally shot in Sydney's northwest.
+### ROBBERY/THEFT on 2026-10-14 02:33
+- Location: FOX 5 DC
+- Description: Prince George’s County police are asking for the public’s help in finding a 2-year-old French bulldog that was stolen from inside a car Thursday, Oct. 8 at a Camp Springs gas station.
 
 
-### HOMICIDE on 2026-10-13 21:10
-- Location: Dailymail.com
-- Description: Matthew Stone Sr, 45, opened fire in his family's Pennsylvania home and murdered three generations of his own family before he killed himself.
+### ASSAULT on 2026-10-14 02:26
+- Location: The Times of India
+- Description: A 22-year-old gym trainer has been arrested for allegedly raping a woman under the pretext of marriage. The complainant claims his mobile phone contains obscene videos of 80 women that were sold online. Investigators are examining the phone to verify these al…
 
 
-### OTHER on 2026-10-13 21:09
-- Location: Dailymail.com
-- Description: Almost 30 alleged fraudsters were arrested in the operation which targeted suspects in countries including Ghana and Nigeria from Tuesday to Friday last week.
+### HOMICIDE on 2026-10-14 02:25
+- Location: The Times of India
+- Description: Ashwani Kumar, the medical store owner, was arrested in Rajasthan after allegedly killing anti-drug activist Parvinder Singh Jhota. Jhota was shot dead in daylight while confronting Kumar over suspected drug sales. The incident occurred during a live Facebook…
 
-Analysis generated at: Wed Oct 14 21:13:33 UTC 2026
+Analysis generated at: Thu Oct 15 02:47:02 UTC 2026
