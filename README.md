@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Oct 15 16:41:12 UTC 2026
+Last updated: Thu Oct 15 20:51:36 UTC 2026
 
 ## Latest Analysis
 
-Loaded 140458 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-14 16:34:59
+Loaded 140558 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-14 20:39:25
 
 Incidents by source:
 source
-newsapi           140357
+newsapi           140457
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,31 +24,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-10-14 16:34
-- Location: The Intercept
-- Description: Trump’s Lincoln Memorial Reflecting Pool renovation should have been an easy lift. But it quickly became a monument to failure.
-The post Reflecting on the Trump Era appeared first on The Intercept.
+### HOMICIDE on 2026-10-14 20:39
+- Location: New York Post
+- Description: Dale Smith, considered a prime suspect since the early days of the investigation of fiancee Michelle Parker’s disappearance, was hauled into custody at his workplace, Orlando Police announced.
 
 
-### OTHER on 2026-10-14 16:34
-- Location: Internet
-- Description: The U.S. Department of Justice (DoJ) on Tuesday charged 14 people and seized about 187 computers as part of its ongoing efforts to disrupt North Korea's fraudulent remote IT worker (ITW) scheme.
-
-The indictment charges a mix of U.S. citizens and Chinese natio…
+### OTHER on 2026-10-14 20:37
+- Location: New York Post
+- Description: Gov. Kathy Hochul said Wednesday that Mayor Zohran Mamdani made the right call to stick by NYPD Commissioner Jessica Tisch, despite mounting pressure from Hizzoner's socialist comrades.
 
 
-### ROBBERY/THEFT on 2026-10-14 16:28
-- Location: Reason
-- Description: A humanoid robot made lewd gestures in Cologne, but its human operators and police warnings about Facebook comments deserve scrutiny.
+### ROBBERY/THEFT on 2026-10-14 20:31
+- Location: The Daily Caller
+- Description: The Department of Justice (DOJ) issued roughly a dozen subpoenas as part of the probe into Democratic Minnesota Rep. Ilhan Omar’s immigration status.
 
 
-### HOMICIDE on 2026-10-14 16:26
-- Location: The Times of India
-- Description: Kallambalam Police arrest Binu Gownder in Muthana for neighbour Sujith’s murder after a helmet dispute; charged under BNS 103(1).
-
-
-### ASSAULT on 2026-10-14 16:25
+### ASSAULT on 2026-10-14 20:29
 - Location: BBC News
-- Description: Palantir drops its case after City Hall says blocking the £50m Met deal was not about its values.
+- Description: Thousands of students in Albania are calling for better university conditions and job prospects, but buildings have been set on fire in the unrest.
 
-Analysis generated at: Thu Oct 15 16:41:12 UTC 2026
+
+### HOMICIDE on 2026-10-14 20:25
+- Location: Breitbart News
+- Description: Soft-on-crime North Carolina Democrat Senate candidate Roy Cooper commuted the death sentence of a man who broke into the home of a 72-year-old woman and robbed, raped, and killed her.
+The post Democrat Roy Cooper Took Man Who Raped, Killed Elderly Woman Off …
+
+Analysis generated at: Thu Oct 15 20:51:36 UTC 2026
