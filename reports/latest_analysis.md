@@ -1,10 +1,10 @@
 
-Loaded 140596 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-15 02:40:31
+Loaded 140608 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-15 03:51:17
 
 Incidents by source:
 source
-newsapi           140495
+newsapi           140507
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-10-15 02:40
-- Location: Freerepublic.com
-- Description: “PORTLAND, Ore. (KATU) — A crew cleaning homeless encampments found human remains in downtown Portland on Tuesday morning, police officials said. Officers responded to a “suspicious priority” call near SW Harvey Milk Street and SW Naito Parkway just after 9:1…
+### OTHER on 2026-10-15 03:51
+- Location: Israelnationalnews.com
+- Description: Nobel Peace Prize winner Navi Pillay calls for Netanyahu to face war crimes charges at the ICC, following sharp criticism from Israel over her selection.
 
 
-### OTHER on 2026-10-15 02:29
-- Location: New Zealand Herald
-- Description: Under scrutiny again - the Mob-run programme that got $2.75m in Government funding.
-
-
-### OTHER on 2026-10-15 02:17
-- Location: soompi
-- Description: ENA’s “Crash 2” has unveiled its first poster and teaser! “Crash” is the first Korean drama to tackle traffic crime investigations that told the story of the Traffic Crime Investigation (TCI) team as they relentlessly pursue villains on the road. Season 1 pre…
-
-
-### OTHER on 2026-10-15 02:09
+### HOMICIDE on 2026-10-15 03:37
 - Location: The Times of India
-- Description: CBI recently arrested Anil Kumar, executive director of Munitions India Limited, and two others in a bribery case. They are accused of demanding illegal payments in exchange for sensitive defense procurement information. During searches, CBI recovered a large…
+- Description: Punjab Band Today News: Punjab Bandh on October 15 will be observed from 6 am to 5 pm following the killing of anti-drug activist Parvinder Singh Jhota in Mansa. Check the latest updates on bank operations, school closures, bus and train services, markets and…
 
 
-### OTHER on 2026-10-15 01:59
-- Location: NBC News
-- Description: No injuries or adverse health effects have been reported, and officials said they are working with state and federal law enforcement.
+### OTHER on 2026-10-15 03:35
+- Location: TheWrap
+- Description: Mary Carole McDonnell, CEO of Burbank's defunct Bellum Entertainment, is accused of fraudulently obtaining nearly $30 million
+The post Former Hollywood Executive Added to FBI’s Most Wanted Fraudsters List appeared first on TheWrap.
 
-Analysis generated at: Fri Oct 16 02:42:49 UTC 2026
+
+### OTHER on 2026-10-15 03:34
+- Location: The Times of India
+- Description: A tragic incident unfolded as a 38-year-old woman fell victim to her lover, Javed Sheikh Shahid Manyar. The crime took place during her husband's absence, igniting a fierce argument over marriage. Javed's violent actions led to fatal burns, initially misunder…
+
+
+### OTHER on 2026-10-15 03:30
+- Location: Vulture
+- Description: ‘The Lowdown’s second season kicks off with a two-episode premiere that finds Lee Raybon the younger (Ethan Hawke) chasing down a new story, as Lee Raybon the elder (Tommy Lee Jones) arrives in Tulsa to settle an old score.
+
+Analysis generated at: Fri Oct 16 03:56:13 UTC 2026
