@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Oct 15 20:51:36 UTC 2026
+Last updated: Fri Oct 16 02:42:49 UTC 2026
 
 ## Latest Analysis
 
-Loaded 140558 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-14 20:39:25
+Loaded 140596 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-15 02:40:31
 
 Incidents by source:
 source
-newsapi           140457
+newsapi           140495
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-10-14 20:39
-- Location: New York Post
-- Description: Dale Smith, considered a prime suspect since the early days of the investigation of fiancee Michelle Parker’s disappearance, was hauled into custody at his workplace, Orlando Police announced.
+### OTHER on 2026-10-15 02:40
+- Location: Freerepublic.com
+- Description: “PORTLAND, Ore. (KATU) — A crew cleaning homeless encampments found human remains in downtown Portland on Tuesday morning, police officials said. Officers responded to a “suspicious priority” call near SW Harvey Milk Street and SW Naito Parkway just after 9:1…
 
 
-### OTHER on 2026-10-14 20:37
-- Location: New York Post
-- Description: Gov. Kathy Hochul said Wednesday that Mayor Zohran Mamdani made the right call to stick by NYPD Commissioner Jessica Tisch, despite mounting pressure from Hizzoner's socialist comrades.
+### OTHER on 2026-10-15 02:29
+- Location: New Zealand Herald
+- Description: Under scrutiny again - the Mob-run programme that got $2.75m in Government funding.
 
 
-### ROBBERY/THEFT on 2026-10-14 20:31
-- Location: The Daily Caller
-- Description: The Department of Justice (DOJ) issued roughly a dozen subpoenas as part of the probe into Democratic Minnesota Rep. Ilhan Omar’s immigration status.
+### OTHER on 2026-10-15 02:17
+- Location: soompi
+- Description: ENA’s “Crash 2” has unveiled its first poster and teaser! “Crash” is the first Korean drama to tackle traffic crime investigations that told the story of the Traffic Crime Investigation (TCI) team as they relentlessly pursue villains on the road. Season 1 pre…
 
 
-### ASSAULT on 2026-10-14 20:29
-- Location: BBC News
-- Description: Thousands of students in Albania are calling for better university conditions and job prospects, but buildings have been set on fire in the unrest.
+### OTHER on 2026-10-15 02:09
+- Location: The Times of India
+- Description: CBI recently arrested Anil Kumar, executive director of Munitions India Limited, and two others in a bribery case. They are accused of demanding illegal payments in exchange for sensitive defense procurement information. During searches, CBI recovered a large…
 
 
-### HOMICIDE on 2026-10-14 20:25
-- Location: Breitbart News
-- Description: Soft-on-crime North Carolina Democrat Senate candidate Roy Cooper commuted the death sentence of a man who broke into the home of a 72-year-old woman and robbed, raped, and killed her.
-The post Democrat Roy Cooper Took Man Who Raped, Killed Elderly Woman Off …
+### OTHER on 2026-10-15 01:59
+- Location: NBC News
+- Description: No injuries or adverse health effects have been reported, and officials said they are working with state and federal law enforcement.
 
-Analysis generated at: Thu Oct 15 20:51:36 UTC 2026
+Analysis generated at: Fri Oct 16 02:42:49 UTC 2026
