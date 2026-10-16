@@ -1,10 +1,10 @@
 
-Loaded 140700 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-15 10:23:53
+Loaded 140799 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-15 15:51:05
 
 Incidents by source:
 source
-newsapi           140599
+newsapi           140698
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,30 +20,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2026-10-15 10:23
+### OTHER on 2026-10-15 15:51
+- Location: Breitbart News
+- Description: A man arrested at an anti-immigration rally for wearing a Burka arrived at court wearing the same garment to plead not guilty. 
+The post Man Appears in Court Wearing Burka After Anti-Mass-Migration Protest Arrest appeared first on Breitbart.
+
+
+### OTHER on 2026-10-15 15:50
 - Location: The Times of India
-- Description: Archaeologists in Glasgow have uncovered remains of a 12-foot wall built by a wealthy distiller to block public access to the River Clyde in the 1820s. Residents tore down the wall in 1823, leading to arrests and a six-year legal battle. The excavation also r…
+- Description: Mayor R Priya criticises TVK govt for cancelling ₹700 crore Chennai civic project tenders, stalling flyovers, walkways, welfare works and monsoon preparedness.
 
 
-### OTHER on 2026-10-15 10:20
-- Location: Nakedcapitalism.com
-- Description: Abdulrahman Alfozan, an OpenAI employee and a citizen of the Kingdom of Saudi Arabia has been arrested for attempting to bug a meeting room.
-
-
-### SHOOTING on 2026-10-15 10:19
-- Location: Business Standard
-- Description: US Hindu Temple Shooting Plot: India has called for action against hate-motivated violence after US authorities arrested a 19-year-old over an alleged plot targeting a Hindu temple in Illinois
-
-
-### HOMICIDE on 2026-10-15 10:18
+### ROBBERY/THEFT on 2026-10-15 15:48
 - Location: The Times of India
-- Description: In a powerful declaration, Shraddha Dubey has shared a second video asserting her innocence in the tragic case of Shiva Sharma's death. She emphasizes that Sharma faced immense financial pressures and that their last communication occurred days prior to the i…
+- Description: RPF seized 6kg ganja abandoned on Shalimar Express at Aluva railway station, Kochi; contraband worth Rs 3 lakh handed to excise for probe.
 
 
-### OTHER on 2026-10-15 10:11
-- Location: The Punch
-- Description: The House of Representatives has ordered a halt to development on disputed land in Ngor Okpala, Imo State, and the disarming of armed men intimidating resi
+### OTHER on 2026-10-15 15:47
+- Location: The Times of India
+- Description: Telangana minister Sridhar Babu says BRS used SCCL as an “ATM,” leaving dues and debt; Congress claims transparent tenders and higher G-9 coal supply.
 
-Read More: https://punchng.com/imo-land-dispute-reps-halt-development-order-disarming-of-armed-men/
 
-Analysis generated at: Fri Oct 16 10:31:16 UTC 2026
+### HOMICIDE on 2026-10-15 15:45
+- Location: Fox News
+- Description: A Florida man faces first-degree attempted murder and child abuse charges after allegedly shooting his girlfriend, running her over, and fleeing with a child in his vehicle.
+
+Analysis generated at: Fri Oct 16 15:57:39 UTC 2026
