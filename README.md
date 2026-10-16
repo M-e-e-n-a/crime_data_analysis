@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Oct 16 15:57:39 UTC 2026
+Last updated: Fri Oct 16 16:24:40 UTC 2026
 
 ## Latest Analysis
 
-Loaded 140799 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-15 15:51:05
+Loaded 140808 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-15 16:16:30
 
 Incidents by source:
 source
-newsapi           140698
+newsapi           140707
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,29 +24,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-10-15 15:51
-- Location: Breitbart News
-- Description: A man arrested at an anti-immigration rally for wearing a Burka arrived at court wearing the same garment to plead not guilty. 
-The post Man Appears in Court Wearing Burka After Anti-Mass-Migration Protest Arrest appeared first on Breitbart.
-
-
-### OTHER on 2026-10-15 15:50
-- Location: The Times of India
-- Description: Mayor R Priya criticises TVK govt for cancelling ₹700 crore Chennai civic project tenders, stalling flyovers, walkways, welfare works and monsoon preparedness.
-
-
-### ROBBERY/THEFT on 2026-10-15 15:48
-- Location: The Times of India
-- Description: RPF seized 6kg ganja abandoned on Shalimar Express at Aluva railway station, Kochi; contraband worth Rs 3 lakh handed to excise for probe.
-
-
-### OTHER on 2026-10-15 15:47
-- Location: The Times of India
-- Description: Telangana minister Sridhar Babu says BRS used SCCL as an “ATM,” leaving dues and debt; Congress claims transparent tenders and higher G-9 coal supply.
-
-
-### HOMICIDE on 2026-10-15 15:45
+### SHOOTING on 2026-10-15 16:16
 - Location: Fox News
-- Description: A Florida man faces first-degree attempted murder and child abuse charges after allegedly shooting his girlfriend, running her over, and fleeing with a child in his vehicle.
+- Description: Operation Show Me Justice yielded 435 arrests, 80 kilos of drugs and 166 illegal firearms as federal agents surged into St. Louis over months.
 
-Analysis generated at: Fri Oct 16 15:57:39 UTC 2026
+
+### OTHER on 2026-10-15 16:07
+- Location: The Intercept
+- Description: One ICE official said the timing of the raid on Ilhan Omar’s home was “politically motivated.”
+The post Inside ICE, Officials Question String of Trump Admin “Midterm Panic Moves” appeared first on The Intercept.
+
+
+### HOMICIDE on 2026-10-15 16:05
+- Location: Fox News
+- Description: Dale Smith Jr. was arrested on second-degree murder charge 15 years after Michelle Parker vanished the day their dispute aired on "The People's Court."
+
+
+### ROBBERY/THEFT on 2026-10-15 16:05
+- Location: Page Six
+- Description: The actor recalled partying with his ex "until probably 5 or 6 in the morning."
+
+
+### OTHER on 2026-10-15 16:03
+- Location: Rt-english.com
+- Description: Eight US states have sued OpenAI, alleging ChatGPT encourages self-harm and violence, while the FTC reportedly demands safety records from its developer and Anthropic
+
+Analysis generated at: Fri Oct 16 16:24:40 UTC 2026
