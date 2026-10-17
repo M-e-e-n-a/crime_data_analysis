@@ -1,10 +1,10 @@
 
-Loaded 141129 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-16 15:14:47
+Loaded 141228 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-16 19:57:10
 
 Incidents by source:
 source
-newsapi           141028
+newsapi           141127
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-10-16 15:14
-- Location: BBC News
-- Description: Jordan Wetherill, 23, was found to have more than 100 blocks of cocaine and heroin during a police raid at a flat in Glasgow.
+### HOMICIDE on 2026-10-16 19:57
+- Location: NBC News
+- Description: The three children and a teacher killed in a special education classroom at an Oregon elementary school Thursday included a 5-year-old boy whose family said they are “broken and lost” after the shooting.
 
 
-### HOMICIDE on 2026-10-16 15:09
-- Location: CBS News
-- Description: Former Dallas police officer Amber Guyger has been released on parole after serving seven years of a 10-year sentence for the 2018 murder of Botham Jean.
-
-
-### HOMICIDE on 2026-10-16 15:03
-- Location: CBS News
-- Description: Kayla and Tyler Major's son was uninjured in the mass shooting at Silver Rail Elementary School in Bend, Oregon. Three children and a teacher were killed, police said.
-
-
-### HOMICIDE on 2026-10-16 15:01
+### ROBBERY/THEFT on 2026-10-16 19:56
 - Location: The Times of India
-- Description: University of Sussex accepts and will display Asit Sain’s bronze sculpture “Cry of the Hour,” inspired by the 2024 RG Kar rape-murder protests.
+- Description: MVVNL vigilance raid in Lucknow’s Gomti Nagar Extension found 64 kW unauthorised load; 19 power theft cases filed under Electricity Act Section 135.
 
 
-### OTHER on 2026-10-16 14:58
-- Location: Fox News
-- Description: Josh Jacobs filed a lawsuit to permanently seal evidence in his battery case, including garage video the NFL is seeking for its own investigation.
+### SHOOTING on 2026-10-16 19:56
+- Location: Reason
+- Description: HeeHaw's owner argues that “no reasonable officer…would have believed that such force was necessary or justified.”
 
-Analysis generated at: Sat Oct 17 15:18:58 UTC 2026
+
+### HOMICIDE on 2026-10-16 19:56
+- Location: The Times of India
+- Description: Boyfriend surrenders in Lucknow after woman’s fatal 10th-floor hotel fall; police seek remand and probe if death was accident, suicide or murder.
+
+
+### OTHER on 2026-10-16 19:56
+- Location: The Times of India
+- Description: Lucknow Police launches ‘Sutrasarthi’ WhatsApp bot on helpline 7839861034 to collect and analyse organised crime tips, with confidential, form-based reporting.
+
+Analysis generated at: Sat Oct 17 19:59:56 UTC 2026
