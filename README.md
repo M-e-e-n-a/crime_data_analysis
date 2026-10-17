@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Oct 17 10:02:10 UTC 2026
+Last updated: Sat Oct 17 14:50:27 UTC 2026
 
 ## Latest Analysis
 
-Loaded 141027 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-16 10:00:59
+Loaded 141124 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-16 14:49:35
 
 Incidents by source:
 source
-newsapi           140926
+newsapi           141023
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,33 +24,30 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-10-16 10:00
-- Location: Fox News
-- Description: RC Horsch's Philadelphia home is being excavated again as FBI investigators probe links to seven missing women and disturbing video evidence.
+### HOMICIDE on 2026-10-16 14:49
+- Location: Breitbart News
+- Description: Norwegian teenager convicted of traveling to Britain for contract killing on behalf of an international crime gang linked to Iran sentenced.
+The post Norwegian Teen Sentenced to 20 Years For Attempting Iranian Contract Killing in UK appeared first on Breitbar…
 
 
-### OTHER on 2026-10-16 10:00
-- Location: Fox News
-- Description: As DHS announces lowest fiscal year border crossings in American history, retired Yuma Sector Border Patrol Chief Chris Clem recalls agents being outnumbered 100 to 1, and warns the historic lows could face new threats.
+### HOMICIDE on 2026-10-16 14:48
+- Location: The Times of India
+- Description: The Union Ministry of Home Affairs has requested a detailed report from Punjab regarding recent violent incidents. One incident resulted in the death of anti-drug activist Parwinder Singh alias Jhota during a confrontation at a medical store. The ministry hig…
 
 
-### HOMICIDE on 2026-10-16 10:00
-- Location: The Dallas Morning News
-- Description: Former Dallas police Officer Amber Guyger (left) was sentenced to 10 years in prison for the 2018 shooting death of Botham Jean. (Archive Photos)
- 
+### HOMICIDE on 2026-10-16 14:38
+- Location: Breitbart News
+- Description: The mother who hid the murder weapon in the notorious slaying of Henryk Nowak is up for early prison release as soon as December.
+The post Killer’s Mother Who Hid Henry Nowak Murder Knife to be Released Early by Left-Wing Government appeared first on Breitbar…
 
 
-
-Former Dallas police Officer Amber Guyger walked free from prison Friday morning after serving seven years …
-
-
-### OTHER on 2026-10-16 10:00
-- Location: The New Yorker
-- Description: One of the biggest failures of the post-#MeToo moment is our collective inability to provide a confident, humane account of sex as a basic good, Anahid Nersessian writes.
+### HOMICIDE on 2026-10-16 14:27
+- Location: DW (English)
+- Description: The murder of a young mother has once again sparked debate in Iran over so-called honor killings, the social acceptance of violence against women and the lack of protection for people vulnerable to gender-based violence. The life of Maryam Yarmohammadi came t…
 
 
-### ASSAULT on 2026-10-16 10:00
-- Location: CBC News
-- Description: Four challengers are seeking to unseat incumbent Transcona candidate Russ Wyatt, who is facing two separate sexual assault charges.
+### HOMICIDE on 2026-10-16 14:27
+- Location: DW (English)
+- Description: The brutal murder of a young mother has once again sparked debate in Iran over so-called honor killings, the social acceptance of violence against women, and the lack of protection for those at risk.
 
-Analysis generated at: Sat Oct 17 10:02:10 UTC 2026
+Analysis generated at: Sat Oct 17 14:50:27 UTC 2026
