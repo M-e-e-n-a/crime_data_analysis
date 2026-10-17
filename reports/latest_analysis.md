@@ -1,10 +1,10 @@
 
-Loaded 140940 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-16 02:27:48
+Loaded 140952 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-16 03:44:49
 
 Incidents by source:
 source
-newsapi           140839
+newsapi           140851
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2026-10-16 02:27
-- Location: Fox News
-- Description: A transgender 19-year-old alleged neo-Nazi plotted an attack on a Hindu temple, but the firearm malfunctioned and a coworker's tip led to an arrest.
+### HOMICIDE on 2026-10-16 03:44
+- Location: Dailymail.com
+- Description: The unidentified hero ran after and 'engaged' the shooter shortly after the teen opened fire, killing at least three children and one teacher in Silver Rail Elementary School on Thursday afternoon.
 
 
-### OTHER on 2026-10-16 02:15
-- Location: The Times of India
-- Description: Traffic movement on certain roads in and around Connaught Place is likely to be affected from 3 pm on Friday in view of a proposed gathering at Central Park, Connaught Place, by the Cockroach Janata Party (CJP), the Delhi Traffic Police said in an advisory.
+### OTHER on 2026-10-16 03:43
+- Location: Variety
+- Description: At times, he had a streak of Andy Kaufman’s antisocial hostility in him, as if comedy was his way of testing both himself and the audience, seeing what they would accept, and seeing if he would be accepted.
 
 
-### HOMICIDE on 2026-10-16 02:13
+### HOMICIDE on 2026-10-16 03:38
+- Location: New York Post
+- Description: No immediate mob connection was found, but police aren't giving up just yet.
+
+
+### HOMICIDE on 2026-10-16 03:32
 - Location: Slashdot.org
-- Description: Gun jammed when neo-Nazi attempted mass shooting at Hindu temple in Aurora, prosecutors sayChicago Sun-Times Teen Arrested Over Plan to Attack Hindu Temple, Officials SayThe New York Times Jammed rifle prevented an apparent mass murder plot at worship center …
+- Description: Las Vegas police ID remains of man found in barrel in Lake MeadBBC Lake Mead barrel murder victim identified more than 4 years after remains foundKSNV Las Vegas officials identify homicide victim whose body was found in a barrel in Lake MeadKSL News Body in b…
 
 
-### OTHER on 2026-10-16 02:07
-- Location: Crikey
-- Description: There's growing frustration in Melbourne’s working class west, where many voters feel taken for granted by Labor. A new party hopes to channel this more effectively than One Nation.
-The post Can this new party win seats off Labor in Melbourne’s neglected west…
+### ROBBERY/THEFT on 2026-10-16 03:17
+- Location: ABC News (AU)
+- Description: Local councils are calling for a crackdown on the black market for stolen metal amid a growing wave of thefts from monuments and community sites, including of a cherished church bell.
 
-
-### OTHER on 2026-10-16 02:02
-- Location: The Times of India
-- Description: Federal authorities are investigating suspicious mailings received by congressional and election offices across the country. With Election Day approaching, the mailings are deemed potentially hazardous by law enforcement. In time, US President Trump plans to …
-
-Analysis generated at: Sat Oct 17 02:35:26 UTC 2026
+Analysis generated at: Sat Oct 17 03:46:07 UTC 2026
