@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Oct 17 03:46:07 UTC 2026
+Last updated: Sat Oct 17 10:02:10 UTC 2026
 
 ## Latest Analysis
 
-Loaded 140952 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-16 03:44:49
+Loaded 141027 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-16 10:00:59
 
 Incidents by source:
 source
-newsapi           140851
+newsapi           140926
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,33 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-10-16 03:44
-- Location: Dailymail.com
-- Description: The unidentified hero ran after and 'engaged' the shooter shortly after the teen opened fire, killing at least three children and one teacher in Silver Rail Elementary School on Thursday afternoon.
+### HOMICIDE on 2026-10-16 10:00
+- Location: Fox News
+- Description: RC Horsch's Philadelphia home is being excavated again as FBI investigators probe links to seven missing women and disturbing video evidence.
 
 
-### OTHER on 2026-10-16 03:43
-- Location: Variety
-- Description: At times, he had a streak of Andy Kaufman’s antisocial hostility in him, as if comedy was his way of testing both himself and the audience, seeing what they would accept, and seeing if he would be accepted.
+### OTHER on 2026-10-16 10:00
+- Location: Fox News
+- Description: As DHS announces lowest fiscal year border crossings in American history, retired Yuma Sector Border Patrol Chief Chris Clem recalls agents being outnumbered 100 to 1, and warns the historic lows could face new threats.
 
 
-### HOMICIDE on 2026-10-16 03:38
-- Location: New York Post
-- Description: No immediate mob connection was found, but police aren't giving up just yet.
+### HOMICIDE on 2026-10-16 10:00
+- Location: The Dallas Morning News
+- Description: Former Dallas police Officer Amber Guyger (left) was sentenced to 10 years in prison for the 2018 shooting death of Botham Jean. (Archive Photos)
+ 
 
 
-### HOMICIDE on 2026-10-16 03:32
-- Location: Slashdot.org
-- Description: Las Vegas police ID remains of man found in barrel in Lake MeadBBC Lake Mead barrel murder victim identified more than 4 years after remains foundKSNV Las Vegas officials identify homicide victim whose body was found in a barrel in Lake MeadKSL News Body in b…
+
+Former Dallas police Officer Amber Guyger walked free from prison Friday morning after serving seven years …
 
 
-### ROBBERY/THEFT on 2026-10-16 03:17
-- Location: ABC News (AU)
-- Description: Local councils are calling for a crackdown on the black market for stolen metal amid a growing wave of thefts from monuments and community sites, including of a cherished church bell.
+### OTHER on 2026-10-16 10:00
+- Location: The New Yorker
+- Description: One of the biggest failures of the post-#MeToo moment is our collective inability to provide a confident, humane account of sex as a basic good, Anahid Nersessian writes.
 
-Analysis generated at: Sat Oct 17 03:46:07 UTC 2026
+
+### ASSAULT on 2026-10-16 10:00
+- Location: CBC News
+- Description: Four challengers are seeking to unseat incumbent Transcona candidate Russ Wyatt, who is facing two separate sexual assault charges.
+
+Analysis generated at: Sat Oct 17 10:02:10 UTC 2026
