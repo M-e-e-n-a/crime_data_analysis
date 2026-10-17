@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Oct 17 14:50:27 UTC 2026
+Last updated: Sat Oct 17 15:18:58 UTC 2026
 
 ## Latest Analysis
 
-Loaded 141124 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-16 14:49:35
+Loaded 141129 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-16 15:14:47
 
 Incidents by source:
 source
-newsapi           141023
+newsapi           141028
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,30 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-10-16 14:49
-- Location: Breitbart News
-- Description: Norwegian teenager convicted of traveling to Britain for contract killing on behalf of an international crime gang linked to Iran sentenced.
-The post Norwegian Teen Sentenced to 20 Years For Attempting Iranian Contract Killing in UK appeared first on Breitbar…
+### OTHER on 2026-10-16 15:14
+- Location: BBC News
+- Description: Jordan Wetherill, 23, was found to have more than 100 blocks of cocaine and heroin during a police raid at a flat in Glasgow.
 
 
-### HOMICIDE on 2026-10-16 14:48
+### HOMICIDE on 2026-10-16 15:09
+- Location: CBS News
+- Description: Former Dallas police officer Amber Guyger has been released on parole after serving seven years of a 10-year sentence for the 2018 murder of Botham Jean.
+
+
+### HOMICIDE on 2026-10-16 15:03
+- Location: CBS News
+- Description: Kayla and Tyler Major's son was uninjured in the mass shooting at Silver Rail Elementary School in Bend, Oregon. Three children and a teacher were killed, police said.
+
+
+### HOMICIDE on 2026-10-16 15:01
 - Location: The Times of India
-- Description: The Union Ministry of Home Affairs has requested a detailed report from Punjab regarding recent violent incidents. One incident resulted in the death of anti-drug activist Parwinder Singh alias Jhota during a confrontation at a medical store. The ministry hig…
+- Description: University of Sussex accepts and will display Asit Sain’s bronze sculpture “Cry of the Hour,” inspired by the 2024 RG Kar rape-murder protests.
 
 
-### HOMICIDE on 2026-10-16 14:38
-- Location: Breitbart News
-- Description: The mother who hid the murder weapon in the notorious slaying of Henryk Nowak is up for early prison release as soon as December.
-The post Killer’s Mother Who Hid Henry Nowak Murder Knife to be Released Early by Left-Wing Government appeared first on Breitbar…
+### OTHER on 2026-10-16 14:58
+- Location: Fox News
+- Description: Josh Jacobs filed a lawsuit to permanently seal evidence in his battery case, including garage video the NFL is seeking for its own investigation.
 
-
-### HOMICIDE on 2026-10-16 14:27
-- Location: DW (English)
-- Description: The murder of a young mother has once again sparked debate in Iran over so-called honor killings, the social acceptance of violence against women and the lack of protection for people vulnerable to gender-based violence. The life of Maryam Yarmohammadi came t…
-
-
-### HOMICIDE on 2026-10-16 14:27
-- Location: DW (English)
-- Description: The brutal murder of a young mother has once again sparked debate in Iran over so-called honor killings, the social acceptance of violence against women, and the lack of protection for those at risk.
-
-Analysis generated at: Sat Oct 17 14:50:27 UTC 2026
+Analysis generated at: Sat Oct 17 15:18:58 UTC 2026
