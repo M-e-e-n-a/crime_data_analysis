@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Oct 17 19:59:56 UTC 2026
+Last updated: Sun Oct 18 02:36:16 UTC 2026
 
 ## Latest Analysis
 
-Loaded 141228 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-16 19:57:10
+Loaded 141254 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-17 02:35:35
 
 Incidents by source:
 source
-newsapi           141127
+newsapi           141153
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-10-16 19:57
-- Location: NBC News
-- Description: The three children and a teacher killed in a special education classroom at an Oregon elementary school Thursday included a 5-year-old boy whose family said they are “broken and lost” after the shooting.
+### HOMICIDE on 2026-10-17 02:35
+- Location: RTE
+- Description: A 16-year-old boy who shot and killed a teacher and three children ⁠in an Oregon school was stopped by another teacher who tackled him and an armed member of the community who fatally shot him, officials said.
 
 
-### ROBBERY/THEFT on 2026-10-16 19:56
+### HOMICIDE on 2026-10-17 02:34
 - Location: The Times of India
-- Description: MVVNL vigilance raid in Lucknow’s Gomti Nagar Extension found 64 kW unauthorised load; 19 power theft cases filed under Electricity Act Section 135.
+- Description: On October 15, a shooting occurred at Silver Rail Elementary School in Bend, Oregon. A teenage gunman opened fire, killing three children and a teacher. A teacher bravely intervened by confronting the gunman while an armed father entered and shot him. Police …
 
 
-### SHOOTING on 2026-10-16 19:56
-- Location: Reason
-- Description: HeeHaw's owner argues that “no reasonable officer…would have believed that such force was necessary or justified.”
+### HOMICIDE on 2026-10-17 02:32
+- Location: Slashdot.org
+- Description: Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'BBC Police Respond to Active Shooter at Silver Rail Elementary; Five People Dead, Including Three ChildrenThe Source - Bend, Oregon School Shooting in Bend, Ore., Has Heroes a…
 
 
-### HOMICIDE on 2026-10-16 19:56
-- Location: The Times of India
-- Description: Boyfriend surrenders in Lucknow after woman’s fatal 10th-floor hotel fall; police seek remand and probe if death was accident, suicide or murder.
+### OTHER on 2026-10-17 02:30
+- Location: New Zealand Herald
+- Description: Rawiri Waititi's wife laid into the 'debacle' on Instagram.
 
 
-### OTHER on 2026-10-16 19:56
-- Location: The Times of India
-- Description: Lucknow Police launches ‘Sutrasarthi’ WhatsApp bot on helpline 7839861034 to collect and analyse organised crime tips, with confidential, form-based reporting.
+### OTHER on 2026-10-17 02:23
+- Location: ComicBook.com
+- Description: Kumail Nanjiani has had one heck of a run in the last decade, breaking through with Oscar-nominated films like The Big Sick, to comedies like Stuber and Driver’s Ed to voicing animated characters in hits like DreamWorks’ Migration and Andy Serkis’s adaptation…
 
-Analysis generated at: Sat Oct 17 19:59:56 UTC 2026
+Analysis generated at: Sun Oct 18 02:36:16 UTC 2026
