@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Oct 18 10:15:21 UTC 2026
+Last updated: Sun Oct 18 15:16:10 UTC 2026
 
 ## Latest Analysis
 
-Loaded 141299 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-17 10:11:08
+Loaded 141343 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-17 15:09:07
 
 Incidents by source:
 source
-newsapi           141198
+newsapi           141242
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-10-17 10:11
-- Location: The Times of India
-- Description: In a distressing incident at Gauhati Medical College and Hospital, a young woman claimed she was sexually harassed by a doctor during an examination. Accompanied by her aunt, the doctor insisted on a solo examination under questionable reasons. Feeling uneasy…
+### OTHER on 2026-10-17 15:09
+- Location: The Root
+- Description: From high-profile courtrooms to cultural debates, the most consequential legal battles of 2026 continue to put Black lives, racial justice, and system accountability under a national microscope. Landmark cases involving Lil Durk, Duane “Keffe D” Davis, Karmel…
 
 
-### HOMICIDE on 2026-10-17 10:05
+### ASSAULT on 2026-10-17 15:00
+- Location: Dailymail.com
+- Description: A thug attempted to snatch the 68-year-old comedian's card outside of Sainsbury's on Essex Road in Islington, north London, his wife, Dr Mine Conkbayir, said.
+
+
+### OTHER on 2026-10-17 15:00
+- Location: Variety
+- Description: 50 Cent is having trouble logging in to our Zoom. Multiple links have been sent his way — three, by my count — to no avail. The imbroglio is excusable given the early hour and the number of different directions he’s currently being pulled, with 40 projects sp…
+
+
+### OTHER on 2026-10-17 14:51
 - Location: Freerepublic.com
-- Description: A former University of Kentucky cheerleader who admitted ending the life of her newborn son after he was born alive was sentenced Friday to just 10 years in prison. Laken Snelling, 22, of White Pine, Tennessee, received concurrent sentences from Fayette Circu…
+- Description: You may have come across this recent story of Agatha Christie in the 21st century. A University of Wyoming student was arrested after police say she tried to poison a colleague, then attempted to flee to China when officers questioned her. Aili Wang, 32, was …
 
 
-### HOMICIDE on 2026-10-17 10:00
-- Location: Fox News
-- Description: Alex Murdaugh's defense team is betting on a Y-STR DNA test by Othram that prosecutors call "high risk" ahead of his April 2027 murder retrial.
+### SHOOTING on 2026-10-17 14:43
+- Location: Dailymail.com
+- Description: Saylor Graham, seven, was shot in the face on Thursday inside Silver Rail Elementary School. She is fighting for her life in Portland.
 
-
-### HOMICIDE on 2026-10-17 10:00
-- Location: Fox News
-- Description: A suspected MS-13 member wanted for homicide and a teenage Tren de Aragua associate facing murder charges were among 131 ICE gang arrests.
-
-
-### OTHER on 2026-10-17 10:00
-- Location: CBC News
-- Description: CBC News asked Oshawa mayoral candidates whether they think the city's downtown is improving after police shared results of an enforcement and community engagement initiative on Friday.
-
-Analysis generated at: Sun Oct 18 10:15:21 UTC 2026
+Analysis generated at: Sun Oct 18 15:16:10 UTC 2026
