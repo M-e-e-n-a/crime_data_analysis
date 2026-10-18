@@ -1,10 +1,10 @@
 
-Loaded 141258 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-17 03:45:19
+Loaded 141299 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-17 10:11:08
 
 Incidents by source:
 source
-newsapi           141157
+newsapi           141198
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-10-17 03:45
-- Location: Gossiplankanews.com
-- Description: Another crucial piece of information regarding a cocaine trafficking operation involving four foreign nationals has been revealed from the Colombo National Hospital. This came with the discovery of another quantity of cocaine cleverly hidden inside the body o…
-
-
-### HOMICIDE on 2026-10-17 03:34
-- Location: Dailymail.com
-- Description: Prosecutors argued that the former police officer's motive for the murder was jealousy, as the victim was dating a woman he had previously been in a relationship with.
-
-
-### OTHER on 2026-10-17 02:49
-- Location: Al Jazeera English
-- Description: Data show a 42 percent drop in forest clearance from a year earlier, giving Lula a boost before the election run-off.
-
-
-### OTHER on 2026-10-17 02:37
+### OTHER on 2026-10-17 10:11
 - Location: The Times of India
-- Description: Nicolas Cage has hinted at joining True Detective season 5 during a New York Comic-Con panel, citing the demands of making films back to back and the need to “feed the family”. HBO renewed the crime anthology in February 2024 after Night Country’s success. Me…
+- Description: In a distressing incident at Gauhati Medical College and Hospital, a young woman claimed she was sexually harassed by a doctor during an examination. Accompanied by her aunt, the doctor insisted on a solo examination under questionable reasons. Feeling uneasy…
 
 
-### HOMICIDE on 2026-10-17 02:35
-- Location: RTE
-- Description: A 16-year-old boy who shot and killed a teacher and three children ⁠in an Oregon school was stopped by another teacher who tackled him and an armed member of the community who fatally shot him, officials said.
+### HOMICIDE on 2026-10-17 10:05
+- Location: Freerepublic.com
+- Description: A former University of Kentucky cheerleader who admitted ending the life of her newborn son after he was born alive was sentenced Friday to just 10 years in prison. Laken Snelling, 22, of White Pine, Tennessee, received concurrent sentences from Fayette Circu…
 
-Analysis generated at: Sun Oct 18 03:51:16 UTC 2026
+
+### HOMICIDE on 2026-10-17 10:00
+- Location: Fox News
+- Description: Alex Murdaugh's defense team is betting on a Y-STR DNA test by Othram that prosecutors call "high risk" ahead of his April 2027 murder retrial.
+
+
+### HOMICIDE on 2026-10-17 10:00
+- Location: Fox News
+- Description: A suspected MS-13 member wanted for homicide and a teenage Tren de Aragua associate facing murder charges were among 131 ICE gang arrests.
+
+
+### OTHER on 2026-10-17 10:00
+- Location: CBC News
+- Description: CBC News asked Oshawa mayoral candidates whether they think the city's downtown is improving after police shared results of an enforcement and community engagement initiative on Friday.
+
+Analysis generated at: Sun Oct 18 10:15:21 UTC 2026
