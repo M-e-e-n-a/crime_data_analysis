@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Oct 18 15:40:26 UTC 2026
+Last updated: Sun Oct 18 19:59:46 UTC 2026
 
 ## Latest Analysis
 
-Loaded 141349 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-17 15:39:05
+Loaded 141449 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-17 19:57:58
 
 Incidents by source:
 source
-newsapi           141248
+newsapi           141348
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,32 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-10-17 15:39
-- Location: Rlsbb.cc
-- Description: Season 49, Episode 03 – “Born To Kill”When 22-year-old Cati Blauvelt disappears, her loved ones immediately know something is wrong. After filing a missing person’s report, family and friends begin searching locations in her Simpsonville, South Carolina, home…
-
-
-### OTHER on 2026-10-17 15:38
-- Location: Ericgoldman.org
-- Description: “Stathas pleaded guilty in 2023 to enticing a minor to engage in unlawful sexual activity” (18 U.S.C. § 2422(b)). He was sentenced to 180 months in prison and 10 years of supervised release. As part of the arrest and investigation,...
-The post Should Police W…
-
-
-### OTHER on 2026-10-17 15:36
-- Location: Gothamist
-- Description: Chanel wants to come home. Please help.
- 
-
-Suspects were driving a Subaru Forester, police said. [ more › ]
-
-
-### ROBBERY/THEFT on 2026-10-17 15:34
-- Location: New York Post
-- Description: Philadelphia resident Carolyn Marvin was arrested for disorderly conduct after she blocked a delivery robot on the street in protest against the bots taking jobs from humans.
-
-
-### OTHER on 2026-10-17 15:28
+### HOMICIDE on 2026-10-17 19:57
 - Location: Dailymail.com
-- Description: Covid fraudsters Jogesh Bhandari, 59, Meena Bhandari, 64, and Craig Morris, 43, have been sentenced after defrauding  millions from companies needing PPE supplies.
+- Description: Kenda Freeman received a call from her son, Kaylub Giamanco immediately after the father-of-two had shot Griffin John II, 16, dead inside the Silver Rail Elementary School in Bend, Oregon.
 
-Analysis generated at: Sun Oct 18 15:40:26 UTC 2026
+
+### OTHER on 2026-10-17 19:46
+- Location: The Times of India
+- Description: Lakhimpur Kheri police secured 50+ convictions in crimes against women in 2026 and traced 1,145 missing/abducted women and girls under Mission Shakti 6.0.
+
+
+### ASSAULT on 2026-10-17 19:36
+- Location: New York Post
+- Description: A 70-year-old man cut an elderly woman's face with a knife after a brief dispute at a subway emergency exit door in Brooklyn Saturday, as serious assaults in New York City’s transit system have spiked 12% over last year, according to police.
+
+
+### ROBBERY/THEFT on 2026-10-17 19:27
+- Location: The Times of India
+- Description: Pune police filed first FIR against Rapido for allegedly running unauthorised petrol bike taxis without permits, defying RTA stop order; probe, seizures planned.
+
+
+### HOMICIDE on 2026-10-17 19:15
+- Location: The Times of India
+- Description: Senior advocate Ujjwal Nikam appointed special public prosecutor in Pune realtor Ketan Agarwal murder case; Pune Rural police filed 5,053-page chargesheet.
+
+Analysis generated at: Sun Oct 18 19:59:46 UTC 2026
