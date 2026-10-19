@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Oct 18 19:59:46 UTC 2026
+Last updated: Mon Oct 19 02:48:24 UTC 2026
 
 ## Latest Analysis
 
-Loaded 141449 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-17 19:57:58
+Loaded 141469 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-18 02:35:02
 
 Incidents by source:
 source
-newsapi           141348
+newsapi           141368
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-10-17 19:57
-- Location: Dailymail.com
-- Description: Kenda Freeman received a call from her son, Kaylub Giamanco immediately after the father-of-two had shot Griffin John II, 16, dead inside the Silver Rail Elementary School in Bend, Oregon.
-
-
-### OTHER on 2026-10-17 19:46
+### OTHER on 2026-10-18 02:35
 - Location: The Times of India
-- Description: Lakhimpur Kheri police secured 50+ convictions in crimes against women in 2026 and traced 1,145 missing/abducted women and girls under Mission Shakti 6.0.
+- Description: The Cockroach Janata Party is prepared to take legal action if Saurav Das and Ashutosh Ranka are not released from custody. The party claims the activists are in illegal detention without facing any charges. Legal counsel Kapil Sibal has been consulted regard…
 
 
-### ASSAULT on 2026-10-17 19:36
-- Location: New York Post
-- Description: A 70-year-old man cut an elderly woman's face with a knife after a brief dispute at a subway emergency exit door in Brooklyn Saturday, as serious assaults in New York City’s transit system have spiked 12% over last year, according to police.
+### OTHER on 2026-10-18 02:00
+- Location: Peoplesreview.com.np
+- Description: Kathmandu, Oct 18: The Supreme Court ordered the release of a man who had remained in prison for more than four months beyond his sentence during the Dashain holiday, after finding his continued detention unlawful. A single bench of Justice Tek Prasad Dhungan…
 
 
-### ROBBERY/THEFT on 2026-10-17 19:27
+### OTHER on 2026-10-18 02:00
+- Location: New Zealand Herald
+- Description: OPINION: A failed prosecution and the importance of presuming innocence.
+
+
+### HOMICIDE on 2026-10-18 01:59
+- Location: CBS News
+- Description: Trysten Mullis was 13 when he found his mother Amy Mullis impaled with a corn rake at the family's Iowa farm. In an exclusive interview, the now 21-year-old is speaking out about what he says he witnessed,  determined to overturn his father Todd's murder conv…
+
+
+### OTHER on 2026-10-18 01:54
 - Location: The Times of India
-- Description: Pune police filed first FIR against Rapido for allegedly running unauthorised petrol bike taxis without permits, defying RTA stop order; probe, seizures planned.
+- Description: Imran Khan Pal, a US national with OCI registration, filed a petition in the Bombay High Court. He challenged a leave India notice issued by the FRRO regarding his participation in a protest. His petition claims the notice was arbitrary and violated his funda…
 
-
-### HOMICIDE on 2026-10-17 19:15
-- Location: The Times of India
-- Description: Senior advocate Ujjwal Nikam appointed special public prosecutor in Pune realtor Ketan Agarwal murder case; Pune Rural police filed 5,053-page chargesheet.
-
-Analysis generated at: Sun Oct 18 19:59:46 UTC 2026
+Analysis generated at: Mon Oct 19 02:48:24 UTC 2026
