@@ -1,10 +1,10 @@
 
-Loaded 141644 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-18 18:10:05
+Loaded 141689 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-18 18:33:24
 
 Incidents by source:
 source
-newsapi           141543
+newsapi           141588
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-10-18 18:10
+### HOMICIDE on 2026-10-18 18:33
 - Location: The Times of India
-- Description: Colorado neighbors used a shared private easement to reach their homes; after a solar developer planned power lines through it for a separate project, a judge blocked that use and barred trespass on one family’s land
+- Description: Delhi Police arrested five and apprehended two minors for allegedly luring and shooting dead Manish Yadav in Sonia Vihar; pistol, cartridges and bike recovered.
 
 
-### HOMICIDE on 2026-10-18 18:08
+### HOMICIDE on 2026-10-18 18:32
 - Location: The Times of India
-- Description: Thane police probe Azad Nagar teen murder; question accused juveniles’ friends, use technical analysis to trace movements and missing gold chain after Sept 24 crime.
+- Description: Delhi Police arrested five and apprehended two minors for allegedly luring and shooting dead Manish Yadav in Sonia Vihar; pistol, cartridges and bike recovered.
 
 
-### OTHER on 2026-10-18 18:08
-- Location: Inside the Magic
-- Description: A closed security checkpoint is a small thing until it’s the one you were counting on. This week, posts about the Disneyland Resort described a Downtown Disney checkpoint that was closed, guests being redirected, and a longer walk for anyone coming from parki…
+### OTHER on 2026-10-18 18:31
+- Location: The Times of India
+- Description: Chandigarh resident lost Rs 15,345 after downloading a fake e-challan app via message link; three unauthorized Google Play recharge transactions reported to cyber cell.
 
 
-### OTHER on 2026-10-18 18:06
-- Location: Gizmodo.com
-- Description: Georgia law appears to let Savannah police share their plate data with ICE, but the city never agreed to do that.
+### ROBBERY/THEFT on 2026-10-18 18:31
+- Location: The Times of India
+- Description: Retired PNB bank manager in Chandigarh loses Rs 2.78 lakh after clicking fake Facebook digital life certificate ad; cyber police register case, probe on.
 
 
-### OTHER on 2026-10-18 18:03
-- Location: USA Today
-- Description: Will Josh Jacobs play in "Sunday Night Football" game in Week 6? Latest updates on Packers RB after removal from exempt list.
+### ROBBERY/THEFT on 2026-10-18 18:31
+- Location: The Times of India
+- Description: Lawrence Bishnoi gang reportedly claims Zirakpur councillor Neetu Chaudhary firing; voice note demands Rs 5 crore extortion as Mohali police probe CCTV and car.
 
-Analysis generated at: Mon Oct 19 18:11:19 UTC 2026
+Analysis generated at: Mon Oct 19 18:35:45 UTC 2026
