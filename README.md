@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Oct 19 04:02:26 UTC 2026
+Last updated: Mon Oct 19 11:51:20 UTC 2026
 
 ## Latest Analysis
 
-Loaded 141480 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-18 03:57:38
+Loaded 141561 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-18 11:47:56
 
 Incidents by source:
 source
-newsapi           141379
+newsapi           141460
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-10-18 03:57
+### OTHER on 2026-10-18 11:47
+- Location: Dailymail.com
+- Description: Witnesses said the woman had attempted to seek refuge in discount retailer The Reject Shop.
+
+
+### HOMICIDE on 2026-10-18 11:47
 - Location: The Times of India
-- Description: Guru Gobind Singh Indraprastha University concluded its 21st Inter-Collegiate Sports Championship 2026 on October 17 in New Delhi. Around 10,000 students from more than 60 affiliated institutes and university schools participated in the three-day event. Compe…
+- Description: In a tragic incident, Mangalesh Pal, a 30-year-old data entry operator at CCL, was brutally murdered in his home by masked intruders. The attackers bound his wife, Sonali Devi, before stealing their jewelry. Neighbors heard her cries for help and notified aut…
 
 
-### ASSAULT on 2026-10-18 03:56
+### OTHER on 2026-10-18 11:45
+- Location: Whyevolutionistrue.com
+- Description: Welcome to Sunday, October 18, 2026, sabbath for goyische cats, and National Exascale Day, which celebrates this: Founded by CRAY, a Hewlett Packard Enterprise company, National Exascale Day takes place on October 18—1018 (one followed by 18 zeros). This numb…
+
+
+### HOMICIDE on 2026-10-18 11:43
 - Location: The Times of India
-- Description: The attack by Israeli settlers on Washington Post photojournalist Heidi Levine in the West Bank has drawn widespread condemnation, with US Secretary of
+- Description: A stampede at the Chorbagan Durga Puja pandal resulted in 19 deaths and injuries to several others. Seven individuals connected to the incident have been remanded to police custody for investigation. The West Bengal government announced compensation of Rs 25 …
 
 
-### SHOOTING on 2026-10-18 03:51
-- Location: Medical Daily
-- Description: After the Bend school shooting, Oregon officials urge families to check in with kids. Trauma signs by age and where to find help.
+### OTHER on 2026-10-18 11:29
+- Location: Dailymail.com
+- Description: Seven jobs have been advertised at Haslar Immigration Removal Centre in Hampshire, as the Government presses ahead with plans expand the facility.
 
-
-### OTHER on 2026-10-18 03:50
-- Location: Gossiplankanews.com
-- Description: A strange story is reported from the Kirindiwela area, where a cinema, usually providing entertainment, had become a secret arms depot for organized criminals. In a special operation carried out by the Colombo District Crime Division, a 38-year-old millionair…
-
-
-### OTHER on 2026-10-18 03:46
-- Location: The Times of India
-- Description: Chief Conservator of Forests P P Singh raised concerns over protocol breaches in Pilibhit, where forest officials cremated the carcass of a protected turtle without the required autopsy. Despite this violation of wildlife laws, no departmental case was filed.…
-
-Analysis generated at: Mon Oct 19 04:02:26 UTC 2026
+Analysis generated at: Mon Oct 19 11:51:20 UTC 2026
