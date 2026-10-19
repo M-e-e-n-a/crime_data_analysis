@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Oct 19 02:48:24 UTC 2026
+Last updated: Mon Oct 19 04:02:26 UTC 2026
 
 ## Latest Analysis
 
-Loaded 141469 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-18 02:35:02
+Loaded 141480 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-18 03:57:38
 
 Incidents by source:
 source
-newsapi           141368
+newsapi           141379
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-10-18 02:35
+### SHOOTING on 2026-10-18 03:57
 - Location: The Times of India
-- Description: The Cockroach Janata Party is prepared to take legal action if Saurav Das and Ashutosh Ranka are not released from custody. The party claims the activists are in illegal detention without facing any charges. Legal counsel Kapil Sibal has been consulted regard…
+- Description: Guru Gobind Singh Indraprastha University concluded its 21st Inter-Collegiate Sports Championship 2026 on October 17 in New Delhi. Around 10,000 students from more than 60 affiliated institutes and university schools participated in the three-day event. Compe…
 
 
-### OTHER on 2026-10-18 02:00
-- Location: Peoplesreview.com.np
-- Description: Kathmandu, Oct 18: The Supreme Court ordered the release of a man who had remained in prison for more than four months beyond his sentence during the Dashain holiday, after finding his continued detention unlawful. A single bench of Justice Tek Prasad Dhungan…
-
-
-### OTHER on 2026-10-18 02:00
-- Location: New Zealand Herald
-- Description: OPINION: A failed prosecution and the importance of presuming innocence.
-
-
-### HOMICIDE on 2026-10-18 01:59
-- Location: CBS News
-- Description: Trysten Mullis was 13 when he found his mother Amy Mullis impaled with a corn rake at the family's Iowa farm. In an exclusive interview, the now 21-year-old is speaking out about what he says he witnessed,  determined to overturn his father Todd's murder conv…
-
-
-### OTHER on 2026-10-18 01:54
+### ASSAULT on 2026-10-18 03:56
 - Location: The Times of India
-- Description: Imran Khan Pal, a US national with OCI registration, filed a petition in the Bombay High Court. He challenged a leave India notice issued by the FRRO regarding his participation in a protest. His petition claims the notice was arbitrary and violated his funda…
+- Description: The attack by Israeli settlers on Washington Post photojournalist Heidi Levine in the West Bank has drawn widespread condemnation, with US Secretary of
 
-Analysis generated at: Mon Oct 19 02:48:24 UTC 2026
+
+### SHOOTING on 2026-10-18 03:51
+- Location: Medical Daily
+- Description: After the Bend school shooting, Oregon officials urge families to check in with kids. Trauma signs by age and where to find help.
+
+
+### OTHER on 2026-10-18 03:50
+- Location: Gossiplankanews.com
+- Description: A strange story is reported from the Kirindiwela area, where a cinema, usually providing entertainment, had become a secret arms depot for organized criminals. In a special operation carried out by the Colombo District Crime Division, a 38-year-old millionair…
+
+
+### OTHER on 2026-10-18 03:46
+- Location: The Times of India
+- Description: Chief Conservator of Forests P P Singh raised concerns over protocol breaches in Pilibhit, where forest officials cremated the carcass of a protected turtle without the required autopsy. Despite this violation of wildlife laws, no departmental case was filed.…
+
+Analysis generated at: Mon Oct 19 04:02:26 UTC 2026
