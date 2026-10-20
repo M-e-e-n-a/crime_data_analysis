@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Oct 20 16:39:26 UTC 2026
+Last updated: Tue Oct 20 21:10:12 UTC 2026
 
 ## Latest Analysis
 
-Loaded 141935 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-19 16:35:58
+Loaded 142035 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-19 21:03:02
 
 Incidents by source:
 source
-newsapi           141834
+newsapi           141934
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-10-19 16:35
-- Location: The Times of India
-- Description: Army jawan Boyini Mallesh, 28, dies by suicide at home during Dasara leave in Vikarabad; no note found, police register case and investigate.
+### HOMICIDE on 2026-10-19 21:03
+- Location: Fstoppers
+- Description: A judge in Hartford wanted to know how the computer had made a set of plaster teeth semi-transparent so they could be laid over an autopsy photograph of a murdered woman's breast. "Judge, you got me," the state's forensic odontologist answered. "I don't know …
 
 
-### HOMICIDE on 2026-10-19 16:28
-- Location: The Irish Times
-- Description: Self-proclaimed pastor Paul Mackenzie was found guilty of 191 murder charges - all but one of them children
+### HOMICIDE on 2026-10-19 20:59
+- Location: Dailymail.com
+- Description: Three men and two women were found inside the house with fatal gunshot wounds. Neighbors said they did not recognize two cars parked in the driveway.
 
 
-### ASSAULT on 2026-10-19 16:27
-- Location: Military.com
-- Description: Mike Waltz, the U.S. ambassador to the U.N., condemned the attack on Monday at a U.N. Security Council meeting on Haiti.
+### OTHER on 2026-10-19 20:59
+- Location: New York Post
+- Description: Now Sen. Elissa Slotkin (D-Mich.), speaking at the University of Chicago, is calling for targeted prosecutions of Trump staffers.
 
 
-### HOMICIDE on 2026-10-19 16:26
-- Location: The FADER
-- Description: The rappers are under investigation in connection with an April 2026 shooting that left a man dead.
+### OTHER on 2026-10-19 20:55
+- Location: TheJournal.ie
+- Description: The most important Irish and international stories you need to know today.
 
 
-### OTHER on 2026-10-19 16:25
-- Location: Radaronline.com
-- Description: President Donald Trump said Sen. Jon Ossoff was 'not a good-looking man' while describing Republican Senate nominee Mike Collins as 'all man.'
+### ASSAULT on 2026-10-19 20:54
+- Location: Dailymail.com
+- Description: Eve Rogers, 12, had a lethal dose of the antihistamine in her system when she died on March 18 at her home in Enfield, about 20 miles outside of Hartford.
 
-Analysis generated at: Tue Oct 20 16:39:26 UTC 2026
+Analysis generated at: Tue Oct 20 21:10:12 UTC 2026
