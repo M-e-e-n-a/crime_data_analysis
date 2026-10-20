@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Oct 19 18:35:45 UTC 2026
+Last updated: Tue Oct 20 03:01:00 UTC 2026
 
 ## Latest Analysis
 
-Loaded 141689 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-18 18:33:24
+Loaded 141709 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-19 02:45:12
 
 Incidents by source:
 source
-newsapi           141588
+newsapi           141608
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-10-18 18:33
+### OTHER on 2026-10-19 02:45
+- Location: Khabarhub.com
+- Description: KATHMANDU: Nepal’s political developments over the past week highlighted a central challenge facing the country: translating promises of good governance, political renewal and public accountability into tangible results. From Prime Minister Balendra Shah’s ap…
+
+
+### SHOOTING on 2026-10-19 02:43
 - Location: The Times of India
-- Description: Delhi Police arrested five and apprehended two minors for allegedly luring and shooting dead Manish Yadav in Sonia Vihar; pistol, cartridges and bike recovered.
+- Description: Tiger Shroff narrowly escaped harm after gunshots were fired at his vehicle  in Juhu, Mumbai, on Sunday evening. While he was unharmed, his driver and another staff member suffered injuries in the attack. Authorities have confiscated the motorcycle linked to …
 
 
-### HOMICIDE on 2026-10-18 18:32
+### SHOOTING on 2026-10-19 02:43
 - Location: The Times of India
-- Description: Delhi Police arrested five and apprehended two minors for allegedly luring and shooting dead Manish Yadav in Sonia Vihar; pistol, cartridges and bike recovered.
+- Description: Tiger Shroff narrowly escaped harm after gunshots were fired at his vehicle  in Juhu, Mumbai, on Sunday evening. While he was unharmed, his driver and another staff member suffered injuries in the attack. Authorities have confiscated the motorcycle linked to …
 
 
-### OTHER on 2026-10-18 18:31
+### SHOOTING on 2026-10-19 02:39
 - Location: The Times of India
-- Description: Chandigarh resident lost Rs 15,345 after downloading a fake e-challan app via message link; three unauthorized Google Play recharge transactions reported to cyber cell.
+- Description: A shooting incident occurred in Mumbai's Juhu area, wherein Bollywood star Tiger Shroff narrowly escaped injury. His driver, Firdous, sustained a gunshot wound during the incident that involved unidentified attackers. Deputy Chief Minister Eknath Shinde visit…
 
 
-### ROBBERY/THEFT on 2026-10-18 18:31
+### OTHER on 2026-10-19 02:32
 - Location: The Times of India
-- Description: Retired PNB bank manager in Chandigarh loses Rs 2.78 lakh after clicking fake Facebook digital life certificate ad; cyber police register case, probe on.
+- Description: The bail hearing of Cockroach Janta Party (CJP) leaders Saurav Das and Ashutosh Ranka was delayed on Sunday after the Special Executive Magistrate failed to arrive at the scheduled time, activist Ratna Singh alleged.
 
-
-### ROBBERY/THEFT on 2026-10-18 18:31
-- Location: The Times of India
-- Description: Lawrence Bishnoi gang reportedly claims Zirakpur councillor Neetu Chaudhary firing; voice note demands Rs 5 crore extortion as Mohali police probe CCTV and car.
-
-Analysis generated at: Mon Oct 19 18:35:45 UTC 2026
+Analysis generated at: Tue Oct 20 03:01:00 UTC 2026
