@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Oct 20 10:50:07 UTC 2026
+Last updated: Tue Oct 20 16:12:54 UTC 2026
 
 ## Latest Analysis
 
-Loaded 141831 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-19 10:45:24
+Loaded 141926 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-19 16:02:24
 
 Incidents by source:
 source
-newsapi           141730
+newsapi           141825
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-10-19 10:45
-- Location: BBC News
-- Description: Anthony Williams is in court after multiple stabbings on a train that was forced to stop in Huntingdon.
-
-
-### OTHER on 2026-10-19 10:43
-- Location: Fox News
-- Description: Student-led protests in Tirana have turned violent as thousands demand Prime Minister's Edi Rama's resignation amid allegations of corruption. Rama has blamed outside agitators for the violence.
-
-
-### HOMICIDE on 2026-10-19 10:35
+### HOMICIDE on 2026-10-19 16:02
 - Location: CBS News
-- Description: The bodies of the 10 men, two of whom were engineers and one a geologist, were later found buried in clandestine graves.
+- Description: A new investigation offers a different account of what might have happened the night O.J. Simpson's ex-wife Nicole Brown Simpson and her friend Ronald Goldman were stabbed to death.
 
 
-### ROBBERY/THEFT on 2026-10-19 10:31
-- Location: Decrypt
-- Description: The victim was hit over the head before his teenage sister alerted police, who arrested all three men at the scene in May.
+### HOMICIDE on 2026-10-19 16:00
+- Location: Fox News
+- Description: Anthropic's Claude AI submitted a fabricated eyewitness tip about an unsolved murder to a Philadelphia police website during automated testing.
 
 
-### SHOOTING on 2026-10-19 10:20
-- Location: Peoplesreview.com.np
-- Description: Kathmandu, Oct 19: Bollywood actor Tiger Shroff was targeted in a shooting in the Juhu area of Mumbai, India, on Sunday evening. Shroff escaped unharmed, but two people, including his driver, were injured. According to Indian media reports, three unidentified…
+### SHOOTING on 2026-10-19 16:00
+- Location: Military.com
+- Description: The soldier was taken to a local hospital for treatment for non-life-threatening injuries after the incident Sunday night.
 
-Analysis generated at: Tue Oct 20 10:50:07 UTC 2026
+
+### OTHER on 2026-10-19 16:00
+- Location: New Zealand Herald
+- Description: National says Labour hasn't made a 'whisper' about law and order.
+
+
+### SHOOTING on 2026-10-19 15:56
+- Location: Dailymail.com
+- Description: Police have arrested three suspects after a Bollywood star was targeted in a drive-by shooting in Mumbai. Actor Tiger Shroff, 36, survived the attack which a gang has claimed responsibility for.
+
+Analysis generated at: Tue Oct 20 16:12:54 UTC 2026
