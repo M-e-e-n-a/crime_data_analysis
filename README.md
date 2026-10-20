@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Oct 20 03:01:00 UTC 2026
+Last updated: Tue Oct 20 04:14:29 UTC 2026
 
 ## Latest Analysis
 
-Loaded 141709 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-19 02:45:12
+Loaded 141732 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-19 04:07:45
 
 Incidents by source:
 source
-newsapi           141608
+newsapi           141631
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-10-19 02:45
-- Location: Khabarhub.com
-- Description: KATHMANDU: Nepal’s political developments over the past week highlighted a central challenge facing the country: translating promises of good governance, political renewal and public accountability into tangible results. From Prime Minister Balendra Shah’s ap…
+### OTHER on 2026-10-19 04:07
+- Location: ABC News (AU)
+- Description: A multiple Emmy Award-winning digital expert is poised to examine a VHS tape related to the disappearance of Janine Vaughan in 2001.
 
 
-### SHOOTING on 2026-10-19 02:43
+### SHOOTING on 2026-10-19 04:05
 - Location: The Times of India
-- Description: Tiger Shroff narrowly escaped harm after gunshots were fired at his vehicle  in Juhu, Mumbai, on Sunday evening. While he was unharmed, his driver and another staff member suffered injuries in the attack. Authorities have confiscated the motorcycle linked to …
+- Description: An audio recording linked to Anil Pandit has emerged, threatening Salman Khan over an apology. Pandit warned against the safety of Khan's family if he does not comply. The threats follow a recent shooting targeting actor Tiger Shroff's car in Mumbai's Juhu ar…
 
 
-### SHOOTING on 2026-10-19 02:43
-- Location: The Times of India
-- Description: Tiger Shroff narrowly escaped harm after gunshots were fired at his vehicle  in Juhu, Mumbai, on Sunday evening. While he was unharmed, his driver and another staff member suffered injuries in the attack. Authorities have confiscated the motorcycle linked to …
+### OTHER on 2026-10-19 04:04
+- Location: Juancole.com
+- Description: There is Arab criticism of Abbas's restraint over Gaza. Citizenship cannot depend on a minority politician proving agreeable to the majority
 
 
-### SHOOTING on 2026-10-19 02:39
-- Location: The Times of India
-- Description: A shooting incident occurred in Mumbai's Juhu area, wherein Bollywood star Tiger Shroff narrowly escaped injury. His driver, Firdous, sustained a gunshot wound during the incident that involved unidentified attackers. Deputy Chief Minister Eknath Shinde visit…
+### HOMICIDE on 2026-10-19 04:00
+- Location: Americanthinker.com
+- Description: By Mike McDanielThank Tim Walz, DEI lunacy, self-inflicted Somali illegal immigration, defunding and prosecuting the police, and every other destructive lunacy Democrats celebrate.
 
 
-### OTHER on 2026-10-19 02:32
-- Location: The Times of India
-- Description: The bail hearing of Cockroach Janta Party (CJP) leaders Saurav Das and Ashutosh Ranka was delayed on Sunday after the Special Executive Magistrate failed to arrive at the scheduled time, activist Ratna Singh alleged.
+### SHOOTING on 2026-10-19 04:00
+- Location: La Repubblica
+- Description: “Writing for the cinema is a habit I can’t kick,” says composer Nicola Piovani. For now, though, he is turning Romanzo criminale into an opera, with a libretto by Giancarlo De Cataldo. “Opera plots are often confusing. Not this time.”
 
-Analysis generated at: Tue Oct 20 03:01:00 UTC 2026
+Analysis generated at: Tue Oct 20 04:14:29 UTC 2026
