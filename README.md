@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Oct 20 04:14:29 UTC 2026
+Last updated: Tue Oct 20 10:50:07 UTC 2026
 
 ## Latest Analysis
 
-Loaded 141732 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-19 04:07:45
+Loaded 141831 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-19 10:45:24
 
 Incidents by source:
 source
-newsapi           141631
+newsapi           141730
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-10-19 04:07
-- Location: ABC News (AU)
-- Description: A multiple Emmy Award-winning digital expert is poised to examine a VHS tape related to the disappearance of Janine Vaughan in 2001.
+### OTHER on 2026-10-19 10:45
+- Location: BBC News
+- Description: Anthony Williams is in court after multiple stabbings on a train that was forced to stop in Huntingdon.
 
 
-### SHOOTING on 2026-10-19 04:05
-- Location: The Times of India
-- Description: An audio recording linked to Anil Pandit has emerged, threatening Salman Khan over an apology. Pandit warned against the safety of Khan's family if he does not comply. The threats follow a recent shooting targeting actor Tiger Shroff's car in Mumbai's Juhu ar…
+### OTHER on 2026-10-19 10:43
+- Location: Fox News
+- Description: Student-led protests in Tirana have turned violent as thousands demand Prime Minister's Edi Rama's resignation amid allegations of corruption. Rama has blamed outside agitators for the violence.
 
 
-### OTHER on 2026-10-19 04:04
-- Location: Juancole.com
-- Description: There is Arab criticism of Abbas's restraint over Gaza. Citizenship cannot depend on a minority politician proving agreeable to the majority
+### HOMICIDE on 2026-10-19 10:35
+- Location: CBS News
+- Description: The bodies of the 10 men, two of whom were engineers and one a geologist, were later found buried in clandestine graves.
 
 
-### HOMICIDE on 2026-10-19 04:00
-- Location: Americanthinker.com
-- Description: By Mike McDanielThank Tim Walz, DEI lunacy, self-inflicted Somali illegal immigration, defunding and prosecuting the police, and every other destructive lunacy Democrats celebrate.
+### ROBBERY/THEFT on 2026-10-19 10:31
+- Location: Decrypt
+- Description: The victim was hit over the head before his teenage sister alerted police, who arrested all three men at the scene in May.
 
 
-### SHOOTING on 2026-10-19 04:00
-- Location: La Repubblica
-- Description: “Writing for the cinema is a habit I can’t kick,” says composer Nicola Piovani. For now, though, he is turning Romanzo criminale into an opera, with a libretto by Giancarlo De Cataldo. “Opera plots are often confusing. Not this time.”
+### SHOOTING on 2026-10-19 10:20
+- Location: Peoplesreview.com.np
+- Description: Kathmandu, Oct 19: Bollywood actor Tiger Shroff was targeted in a shooting in the Juhu area of Mumbai, India, on Sunday evening. Shroff escaped unharmed, but two people, including his driver, were injured. According to Indian media reports, three unidentified…
 
-Analysis generated at: Tue Oct 20 04:14:29 UTC 2026
+Analysis generated at: Tue Oct 20 10:50:07 UTC 2026
