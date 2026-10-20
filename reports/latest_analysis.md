@@ -1,10 +1,10 @@
 
-Loaded 141926 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-19 16:02:24
+Loaded 141935 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-19 16:35:58
 
 Incidents by source:
 source
-newsapi           141825
+newsapi           141834
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-10-19 16:02
-- Location: CBS News
-- Description: A new investigation offers a different account of what might have happened the night O.J. Simpson's ex-wife Nicole Brown Simpson and her friend Ronald Goldman were stabbed to death.
+### OTHER on 2026-10-19 16:35
+- Location: The Times of India
+- Description: Army jawan Boyini Mallesh, 28, dies by suicide at home during Dasara leave in Vikarabad; no note found, police register case and investigate.
 
 
-### HOMICIDE on 2026-10-19 16:00
-- Location: Fox News
-- Description: Anthropic's Claude AI submitted a fabricated eyewitness tip about an unsolved murder to a Philadelphia police website during automated testing.
+### HOMICIDE on 2026-10-19 16:28
+- Location: The Irish Times
+- Description: Self-proclaimed pastor Paul Mackenzie was found guilty of 191 murder charges - all but one of them children
 
 
-### SHOOTING on 2026-10-19 16:00
+### ASSAULT on 2026-10-19 16:27
 - Location: Military.com
-- Description: The soldier was taken to a local hospital for treatment for non-life-threatening injuries after the incident Sunday night.
+- Description: Mike Waltz, the U.S. ambassador to the U.N., condemned the attack on Monday at a U.N. Security Council meeting on Haiti.
 
 
-### OTHER on 2026-10-19 16:00
-- Location: New Zealand Herald
-- Description: National says Labour hasn't made a 'whisper' about law and order.
+### HOMICIDE on 2026-10-19 16:26
+- Location: The FADER
+- Description: The rappers are under investigation in connection with an April 2026 shooting that left a man dead.
 
 
-### SHOOTING on 2026-10-19 15:56
-- Location: Dailymail.com
-- Description: Police have arrested three suspects after a Bollywood star was targeted in a drive-by shooting in Mumbai. Actor Tiger Shroff, 36, survived the attack which a gang has claimed responsibility for.
+### OTHER on 2026-10-19 16:25
+- Location: Radaronline.com
+- Description: President Donald Trump said Sen. Jon Ossoff was 'not a good-looking man' while describing Republican Senate nominee Mike Collins as 'all man.'
 
-Analysis generated at: Tue Oct 20 16:12:54 UTC 2026
+Analysis generated at: Tue Oct 20 16:39:26 UTC 2026
