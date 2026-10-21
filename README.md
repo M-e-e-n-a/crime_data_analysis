@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Oct 21 04:01:29 UTC 2026
+Last updated: Wed Oct 21 11:02:48 UTC 2026
 
 ## Latest Analysis
 
-Loaded 142077 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-20 04:01:00
+Loaded 142148 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-20 11:00:00
 
 Incidents by source:
 source
-newsapi           141976
+newsapi           142047
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,30 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-10-20 04:01
-- Location: Streetsblog.org
-- Description: State Sen. Erik Bottcher wants New York City to borrow a novel bike enforcement tactic from London. Plus more news.
+### HOMICIDE on 2026-10-20 11:00
+- Location: STLtoday.com
+- Description: A federal filing also outlined why the shooter is suspected in a separate roadside shooting days before Alyssa Wilson, 17, was killed. 
+ 
+On Monday, police said the couple stopped on the side of the highway Wednesday evening. Willie Herndon got out and fired …
 
 
-### OTHER on 2026-10-20 04:00
+### SHOOTING on 2026-10-20 11:00
 - Location: New York Post
-- Description: Paris police imposed overnight curfews in two districts after severe rioting damaged 3,000 businesses and led to 2,400 arrests across France.
+- Description: Griffin John was let out of prison early after he was sentenced to 48 months behind bars for the attack on wife Shauntai Nickerson — and he begged a judge to lift a restraining order against him so he could "see his son grow up" in the costal town of Newport,…
 
 
-### HOMICIDE on 2026-10-20 04:00
-- Location: Americanthinker.com
-- Description: By Tadas KlimasThe Riot Act allowed authorities to read a formal proclamation declaring a state of riot, after which police were authorized to use deadly force to disperse and stop the rioters.
+### OTHER on 2026-10-20 10:56
+- Location: RTE
+- Description: The decision to ban an Orange Order parade along the Garvaghy Road reflected the reality of the situation and the fact that the policing situation had changed, the High Court in Belfast has been told.
 
 
-### HOMICIDE on 2026-10-20 03:57
-- Location: The Times of India
-- Description: In Mansa, a gunman assigned to the deputy commissioner opened fire on his family members. He killed the officer and his elder son and injured his wife and younger son. The violent incident occurred shortly before Union Home Minister Amit Shah's scheduled visi…
+### HOMICIDE on 2026-10-20 10:53
+- Location: ABC News (AU)
+- Description: Kim Leadbeater knows what political violence can result in after the murder of her sister former UK MP Jo Cox. She has urged Australia to take action to stop any further escalation after the attack on Helen Haines.
 
 
-### HOMICIDE on 2026-10-20 03:52
-- Location: The Times of India
-- Description: In Vijayapura, a chilling murder case has emerged involving a woman who, with the help of a friend, allegedly orchestrated the murder of her husband, staging it to look like a tragic accident. Initially reported as a simple road mishap, police investigations …
+### OTHER on 2026-10-20 10:45
+- Location: Nakedcapitalism.com
+- Description: Did The Canary just go down in history as one of the first media organisations in the collective West, if not the first, to be dispatched by debanking?
 
-Analysis generated at: Wed Oct 21 04:01:29 UTC 2026
+Analysis generated at: Wed Oct 21 11:02:48 UTC 2026
