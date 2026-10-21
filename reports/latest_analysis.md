@@ -1,10 +1,10 @@
 
-Loaded 142148 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-20 11:00:00
+Loaded 142246 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-20 16:24:42
 
 Incidents by source:
 source
-newsapi           142047
+newsapi           142145
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,30 +20,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-10-20 11:00
-- Location: STLtoday.com
-- Description: A federal filing also outlined why the shooter is suspected in a separate roadside shooting days before Alyssa Wilson, 17, was killed. 
- 
-On Monday, police said the couple stopped on the side of the highway Wednesday evening. Willie Herndon got out and fired …
+### ROBBERY/THEFT on 2026-10-20 16:24
+- Location: Thesurvivalmom.com
+- Description: At a Glance If your phone is stolen, especially on a trip, your first reaction is shock, but you can't afford to stay there for long. What you do next is important: get somewhere safe,
 
 
-### SHOOTING on 2026-10-20 11:00
-- Location: New York Post
-- Description: Griffin John was let out of prison early after he was sentenced to 48 months behind bars for the attack on wife Shauntai Nickerson — and he begged a judge to lift a restraining order against him so he could "see his son grow up" in the costal town of Newport,…
+### HOMICIDE on 2026-10-20 16:23
+- Location: Dailymail.com
+- Description: Griffin John II, a former student of Silver Rail Elementary in Bend, killed Rhoam Summer, five, and two students, as well as 25-year-old educator Megan Lambert on Thursday.
 
 
-### OTHER on 2026-10-20 10:56
-- Location: RTE
-- Description: The decision to ban an Orange Order parade along the Garvaghy Road reflected the reality of the situation and the fact that the policing situation had changed, the High Court in Belfast has been told.
+### HOMICIDE on 2026-10-20 16:22
+- Location: Dailymail.com
+- Description: When special constable Nisha Patel-Nasri was found dying in the street metres from her home in May 2006, suspicion instantly turned to a botched break-in.
 
 
-### HOMICIDE on 2026-10-20 10:53
-- Location: ABC News (AU)
-- Description: Kim Leadbeater knows what political violence can result in after the murder of her sister former UK MP Jo Cox. She has urged Australia to take action to stop any further escalation after the attack on Helen Haines.
+### ROBBERY/THEFT on 2026-10-20 16:21
+- Location: Biztoc.com
+- Description: At least two pallets full of trading cards worth nearly $1 million were stolen from a FedEx truck in Santa Ana, police said Monday.
+The theft was reported by on Oct. 13 by Professional Sports Authenticator, which authenticates and grades collectibles and trad…
 
 
-### OTHER on 2026-10-20 10:45
-- Location: Nakedcapitalism.com
-- Description: Did The Canary just go down in history as one of the first media organisations in the collective West, if not the first, to be dispatched by debanking?
+### OTHER on 2026-10-20 16:20
+- Location: Sputnikglobe.com
+- Description: MOSCOW (Sputnik) - The arrest warrant issued on Monday for former Cuban President Raul Castro is politically motivated, Mexican President Claudia Sheinbaum said on Tuesday.
 
-Analysis generated at: Wed Oct 21 11:02:48 UTC 2026
+Analysis generated at: Wed Oct 21 16:28:58 UTC 2026
