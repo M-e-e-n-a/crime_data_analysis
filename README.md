@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Oct 21 02:55:41 UTC 2026
+Last updated: Wed Oct 21 04:01:29 UTC 2026
 
 ## Latest Analysis
 
-Loaded 142066 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-20 02:52:51
+Loaded 142077 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-20 04:01:00
 
 Incidents by source:
 source
-newsapi           141965
+newsapi           141976
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-10-20 02:52
+### OTHER on 2026-10-20 04:01
+- Location: Streetsblog.org
+- Description: State Sen. Erik Bottcher wants New York City to borrow a novel bike enforcement tactic from London. Plus more news.
+
+
+### OTHER on 2026-10-20 04:00
+- Location: New York Post
+- Description: Paris police imposed overnight curfews in two districts after severe rioting damaged 3,000 businesses and led to 2,400 arrests across France.
+
+
+### HOMICIDE on 2026-10-20 04:00
+- Location: Americanthinker.com
+- Description: By Tadas KlimasThe Riot Act allowed authorities to read a formal proclamation declaring a state of riot, after which police were authorized to use deadly force to disperse and stop the rioters.
+
+
+### HOMICIDE on 2026-10-20 03:57
 - Location: The Times of India
-- Description: Mr. Lalit, a cook at Hotel Ashoka, received a surprising income tax notice claiming Rs 4 crore. This notice cited Rs 24 crore in cash sales attributed to him, leading to significant distress. His Form 26AS incorrectly showed these transactions, prompting Lali…
+- Description: In Mansa, a gunman assigned to the deputy commissioner opened fire on his family members. He killed the officer and his elder son and injured his wife and younger son. The violent incident occurred shortly before Union Home Minister Amit Shah's scheduled visi…
 
 
-### OTHER on 2026-10-20 02:45
-- Location: BBC News
-- Description: Almost 300 people have been injured, more than half of them police, as violent anti-government demonstrations show no sign of easing.
-
-
-### ASSAULT on 2026-10-20 02:32
+### HOMICIDE on 2026-10-20 03:52
 - Location: The Times of India
-- Description: US Congressman Raja Krishnamoorthi has urged the FBI to strengthen efforts against domestic violent extremism and improve intelligence gathering after authorities foiled an alleged neo-Nazi plot targeting a Hindu temple in Aurora, near Chicago, where he and h…
+- Description: In Vijayapura, a chilling murder case has emerged involving a woman who, with the help of a friend, allegedly orchestrated the murder of her husband, staging it to look like a tragic accident. Initially reported as a simple road mishap, police investigations …
 
-
-### HOMICIDE on 2026-10-20 02:24
-- Location: ABC News (AU)
-- Description: Northern Territory Senator Jacinta Nampijinpa Price says the "culture of child protection" in Australia "needs to change" after a review into the lead up to her niece's alleged murder called for a "system-wide reset".
-
-
-### SHOOTING on 2026-10-20 02:19
-- Location: Reason
-- Description: On October 15, I published a post arguing that true "sensitive places" where guns are banned must have armed protection. …
-
-Analysis generated at: Wed Oct 21 02:55:41 UTC 2026
+Analysis generated at: Wed Oct 21 04:01:29 UTC 2026
