@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Oct 20 21:10:12 UTC 2026
+Last updated: Wed Oct 21 02:55:41 UTC 2026
 
 ## Latest Analysis
 
-Loaded 142035 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-19 21:03:02
+Loaded 142066 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-20 02:52:51
 
 Incidents by source:
 source
-newsapi           141934
+newsapi           141965
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-10-19 21:03
-- Location: Fstoppers
-- Description: A judge in Hartford wanted to know how the computer had made a set of plaster teeth semi-transparent so they could be laid over an autopsy photograph of a murdered woman's breast. "Judge, you got me," the state's forensic odontologist answered. "I don't know …
+### OTHER on 2026-10-20 02:52
+- Location: The Times of India
+- Description: Mr. Lalit, a cook at Hotel Ashoka, received a surprising income tax notice claiming Rs 4 crore. This notice cited Rs 24 crore in cash sales attributed to him, leading to significant distress. His Form 26AS incorrectly showed these transactions, prompting Lali…
 
 
-### HOMICIDE on 2026-10-19 20:59
-- Location: Dailymail.com
-- Description: Three men and two women were found inside the house with fatal gunshot wounds. Neighbors said they did not recognize two cars parked in the driveway.
+### OTHER on 2026-10-20 02:45
+- Location: BBC News
+- Description: Almost 300 people have been injured, more than half of them police, as violent anti-government demonstrations show no sign of easing.
 
 
-### OTHER on 2026-10-19 20:59
-- Location: New York Post
-- Description: Now Sen. Elissa Slotkin (D-Mich.), speaking at the University of Chicago, is calling for targeted prosecutions of Trump staffers.
+### ASSAULT on 2026-10-20 02:32
+- Location: The Times of India
+- Description: US Congressman Raja Krishnamoorthi has urged the FBI to strengthen efforts against domestic violent extremism and improve intelligence gathering after authorities foiled an alleged neo-Nazi plot targeting a Hindu temple in Aurora, near Chicago, where he and h…
 
 
-### OTHER on 2026-10-19 20:55
-- Location: TheJournal.ie
-- Description: The most important Irish and international stories you need to know today.
+### HOMICIDE on 2026-10-20 02:24
+- Location: ABC News (AU)
+- Description: Northern Territory Senator Jacinta Nampijinpa Price says the "culture of child protection" in Australia "needs to change" after a review into the lead up to her niece's alleged murder called for a "system-wide reset".
 
 
-### ASSAULT on 2026-10-19 20:54
-- Location: Dailymail.com
-- Description: Eve Rogers, 12, had a lethal dose of the antihistamine in her system when she died on March 18 at her home in Enfield, about 20 miles outside of Hartford.
+### SHOOTING on 2026-10-20 02:19
+- Location: Reason
+- Description: On October 15, I published a post arguing that true "sensitive places" where guns are banned must have armed protection. …
 
-Analysis generated at: Tue Oct 20 21:10:12 UTC 2026
+Analysis generated at: Wed Oct 21 02:55:41 UTC 2026
