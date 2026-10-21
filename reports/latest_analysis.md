@@ -1,10 +1,10 @@
 
-Loaded 142246 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-20 16:24:42
+Loaded 142257 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-20 16:53:58
 
 Incidents by source:
 source
-newsapi           142145
+newsapi           142156
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2026-10-20 16:24
-- Location: Thesurvivalmom.com
-- Description: At a Glance If your phone is stolen, especially on a trip, your first reaction is shock, but you can't afford to stay there for long. What you do next is important: get somewhere safe,
+### HOMICIDE on 2026-10-20 16:53
+- Location: The Times of India
+- Description: In a shocking turn of events, Sandeep, a former soldier, was apprehended for allegedly plotting the murder of his cousin's wife, Neetu, due to a dispute over land. Neetu was discovered lifeless in her home after her husband Prashant returned. Initially, the a…
 
 
-### HOMICIDE on 2026-10-20 16:23
-- Location: Dailymail.com
-- Description: Griffin John II, a former student of Silver Rail Elementary in Bend, killed Rhoam Summer, five, and two students, as well as 25-year-old educator Megan Lambert on Thursday.
+### OTHER on 2026-10-20 16:51
+- Location: HuffPost
+- Description: Acton’s mother previously fled law enforcement with her husband after he faced charges of raping Acton when she was a child.
 
 
-### HOMICIDE on 2026-10-20 16:22
-- Location: Dailymail.com
-- Description: When special constable Nisha Patel-Nasri was found dying in the street metres from her home in May 2006, suspicion instantly turned to a botched break-in.
+### HOMICIDE on 2026-10-20 16:48
+- Location: The Times of India
+- Description: Mumbai Goregaon toddler death: Police file murder FIR against 10-year-old neighbour; Juvenile Justice Board orders counselling via NGO after CCTV review.
 
 
-### ROBBERY/THEFT on 2026-10-20 16:21
-- Location: Biztoc.com
-- Description: At least two pallets full of trading cards worth nearly $1 million were stolen from a FedEx truck in Santa Ana, police said Monday.
-The theft was reported by on Oct. 13 by Professional Sports Authenticator, which authenticates and grades collectibles and trad…
+### HOMICIDE on 2026-10-20 16:41
+- Location: FOX 2 Detroit
+- Description: Detroit police say the suspect being sought in a fatal shooting on Mack Avenue recently, has been taken into custody.
 
 
-### OTHER on 2026-10-20 16:20
-- Location: Sputnikglobe.com
-- Description: MOSCOW (Sputnik) - The arrest warrant issued on Monday for former Cuban President Raul Castro is politically motivated, Mexican President Claudia Sheinbaum said on Tuesday.
+### OTHER on 2026-10-20 16:38
+- Location: Bleeding Cool News
+- Description: Though things had been quiet for a while, there was some hope that a second season of showrunners Aaron B. Koontz and Luke Boyce's series adaptation of writer Tim Seeley and artist Mike Norton's Revival could become a reality when it was announced in August t…
 
-Analysis generated at: Wed Oct 21 16:28:58 UTC 2026
+Analysis generated at: Wed Oct 21 16:56:49 UTC 2026
