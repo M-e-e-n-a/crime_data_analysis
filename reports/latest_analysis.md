@@ -1,10 +1,10 @@
 
-Loaded 142257 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-20 16:53:58
+Loaded 142337 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-20 21:01:05
 
 Incidents by source:
 source
-newsapi           142156
+newsapi           142236
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-10-20 16:53
+### SHOOTING on 2026-10-20 21:01
+- Location: Dailymail.com
+- Description: The woman was hit in the chest and the windshield of her car was damaged.
+
+
+### HOMICIDE on 2026-10-20 21:00
+- Location: New York Post
+- Description: Shatayvia Calderon, 33, fatally shot her 9-year-old son and herself in an Indianapolis murder-suicide, police said.
+
+
+### OTHER on 2026-10-20 20:57
+- Location: Www.gov.uk
+- Description: Statement by Jennifer MacNaughtan, UK Political Coordinator, at the Security Council meeting on Kosovo.
+
+
+### SHOOTING on 2026-10-20 20:56
 - Location: The Times of India
-- Description: In a shocking turn of events, Sandeep, a former soldier, was apprehended for allegedly plotting the murder of his cousin's wife, Neetu, due to a dispute over land. Neetu was discovered lifeless in her home after her husband Prashant returned. Initially, the a…
+- Description: Anil Pandit Pandit and Shroff ’s shooter Rehan both reported to Malik and were considered “his men” till a few months ago, a source said. Rehan had been earlier tasked by Malik and Pandit with a shooting incident in Sonipat as well. “Rehan was shown the same …
 
 
-### OTHER on 2026-10-20 16:51
-- Location: HuffPost
-- Description: Acton’s mother previously fled law enforcement with her husband after he faced charges of raping Acton when she was a child.
+### OTHER on 2026-10-20 20:53
+- Location: Dailymail.com
+- Description: The police chief said the individual's 'choice of attire and snack may have raised a few eyebrows' as he addressed whether the person had violated the law.
 
-
-### HOMICIDE on 2026-10-20 16:48
-- Location: The Times of India
-- Description: Mumbai Goregaon toddler death: Police file murder FIR against 10-year-old neighbour; Juvenile Justice Board orders counselling via NGO after CCTV review.
-
-
-### HOMICIDE on 2026-10-20 16:41
-- Location: FOX 2 Detroit
-- Description: Detroit police say the suspect being sought in a fatal shooting on Mack Avenue recently, has been taken into custody.
-
-
-### OTHER on 2026-10-20 16:38
-- Location: Bleeding Cool News
-- Description: Though things had been quiet for a while, there was some hope that a second season of showrunners Aaron B. Koontz and Luke Boyce's series adaptation of writer Tim Seeley and artist Mike Norton's Revival could become a reality when it was announced in August t…
-
-Analysis generated at: Wed Oct 21 16:56:49 UTC 2026
+Analysis generated at: Wed Oct 21 21:09:12 UTC 2026
