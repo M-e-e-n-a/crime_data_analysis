@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Oct 22 02:54:36 UTC 2026
+Last updated: Thu Oct 22 04:02:31 UTC 2026
 
 ## Latest Analysis
 
-Loaded 142368 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-21 02:49:59
+Loaded 142381 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-21 04:01:24
 
 Incidents by source:
 source
-newsapi           142267
+newsapi           142280
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-10-21 02:49
-- Location: The Times of India
-- Description: US President Donald Trump said Democratic Congresswoman Ilhan Omar could face deportation or jail as federal authorities investigate questions surrounding
+### OTHER on 2026-10-21 04:01
+- Location: ABC News (AU)
+- Description: From the return of You Can't Ask That and Fisk, to Hugo Weaving's new drama, here's what you need to know about the mix of fresh and familiar shows coming to the ABC in 2027.
 
 
-### OTHER on 2026-10-21 02:48
-- Location: The Times of India
-- Description: CA Foundation result date 2026: The Institute of Chartered Accountants of India (ICAI) is expected to announce the CA Intermediate September 2026 results by the evening of October 22, 2026, according to its October 14 announcement. The CA Foundation September…
+### SHOOTING on 2026-10-21 04:00
+- Location: Americanthinker.com
+- Description: By Michael FilozofWelcome to the USSR on the Hudson.
 
 
-### SHOOTING on 2026-10-21 02:42
-- Location: FOX 9
-- Description: A shelter-in-place order has been lifted following a shooting that injured a girl in a Burnsville neighborhood Tuesday night. Police believe the shooting was not random, and no arrests have been made.
+### OTHER on 2026-10-21 03:52
+- Location: ABC News (AU)
+- Description: Two people have been flown to hospital in a critical condition and a third is under police guard after a head-on crash at Kaarimba.
 
 
-### OTHER on 2026-10-21 02:31
-- Location: New York Post
-- Description: When Barack Obama was president and feuding with Israeli Prime Minister Benjamin Netanyahu while apologizing to Arab potentates about America’s history in the region, a friend offered an observation.
+### OTHER on 2026-10-21 03:46
+- Location: Rediff.com
+- Description: Ayesha Shroff -- whose father Air Vice Marshal Ranjan Dutt was awarded a Vir Chakra for gallantry in the 1948 War -- met with Chauhan's friends and family in the ICU, sharing her phone number and asking to be kept updated regarding his medical needs.
 
 
-### OTHER on 2026-10-21 02:25
-- Location: Business Standard
-- Description: Delhi Police on Tuesday transferred another case registered against Cockroach Janta Party leaders Saurav Das and Ashutosh Ranka to the Crime Branch, sources said.
-The Crime Branch will now investigate two cases against the CJP leaders. The other case linked t…
+### HOMICIDE on 2026-10-21 03:40
+- Location: PerthNow
+- Description: Any fix of a faulty child protection system following the alleged murder of a five-year-old girl must take poverty into account, Aboriginal advocacy groups say.
 
-Analysis generated at: Thu Oct 22 02:54:36 UTC 2026
+Analysis generated at: Thu Oct 22 04:02:31 UTC 2026
