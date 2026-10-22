@@ -1,10 +1,10 @@
 
-Loaded 142381 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-21 04:01:24
+Loaded 142471 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-21 11:00:00
 
 Incidents by source:
 source
-newsapi           142280
+newsapi           142370
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-10-21 04:01
-- Location: ABC News (AU)
-- Description: From the return of You Can't Ask That and Fisk, to Hugo Weaving's new drama, here's what you need to know about the mix of fresh and familiar shows coming to the ABC in 2027.
+### ROBBERY/THEFT on 2026-10-21 11:00
+- Location: STLtoday.com
+- Description: If Gov. Mike Kehoe wants St. Louis police Chief Robert Tracy to get a raise, why won’t the state pay, instead of foisting the issue on city taxpayers?
 
 
-### SHOOTING on 2026-10-21 04:00
-- Location: Americanthinker.com
-- Description: By Michael FilozofWelcome to the USSR on the Hudson.
+### OTHER on 2026-10-21 11:00
+- Location: /FILM
+- Description: The Cycle is a slow-burn horror-mystery that turns into a full-blown monster movie with great practical effects. Here's our review.
 
 
-### OTHER on 2026-10-21 03:52
-- Location: ABC News (AU)
-- Description: Two people have been flown to hospital in a critical condition and a third is under police guard after a head-on crash at Kaarimba.
+### HOMICIDE on 2026-10-21 11:00
+- Location: Longreads.com
+- Description: "Forrest Welborn spent decades as a suspect in the infamous Austin murders. It all but destroyed his life. This year, he was finally exonerated. So why doesn’t he feel free?"
 
 
-### OTHER on 2026-10-21 03:46
-- Location: Rediff.com
-- Description: Ayesha Shroff -- whose father Air Vice Marshal Ranjan Dutt was awarded a Vir Chakra for gallantry in the 1948 War -- met with Chauhan's friends and family in the ICU, sharing her phone number and asking to be kept updated regarding his medical needs.
+### ROBBERY/THEFT on 2026-10-21 11:00
+- Location: PRNewswire
+- Description: The Atlanta company reached the milestone in under two years, entirely within the Atlanta Metro Area, and is preparing to launch in Houston and Dallas ATLANTA, Oct. 20, 2026 /PRNewswire/ -- Undaunted, the Atlanta robotic security company protecting apartment …
 
 
-### HOMICIDE on 2026-10-21 03:40
-- Location: PerthNow
-- Description: Any fix of a faulty child protection system following the alleged murder of a five-year-old girl must take poverty into account, Aboriginal advocacy groups say.
+### OTHER on 2026-10-21 10:57
+- Location: The Times of India
+- Description: The legendary 1958 Gibson Flying V guitar, famously owned by Lonnie Mack and dubbed 'Number 7', fetched an impressive $550,000 at auction. This auction also featured Mack's 1962 Magnatone Custom 440 amplifier, which was crucial to his distinct sound. Mack's g…
 
-Analysis generated at: Thu Oct 22 04:02:31 UTC 2026
+Analysis generated at: Thu Oct 22 11:00:18 UTC 2026
