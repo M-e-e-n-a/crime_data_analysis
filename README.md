@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Oct 22 16:30:20 UTC 2026
+Last updated: Thu Oct 22 16:56:47 UTC 2026
 
 ## Latest Analysis
 
-Loaded 142569 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-21 16:29:17
+Loaded 142579 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-21 16:53:41
 
 Incidents by source:
 source
-newsapi           142468
+newsapi           142478
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-10-21 16:29
-- Location: Military.com
-- Description: Lander is running in the U.S. elections on Nov. 3 to represent a heavily Democratic New York district in the U.S. House of Representatives.
+### SHOOTING on 2026-10-21 16:53
+- Location: Gothamist
+- Description: Members of the NYPD watch as cyclists gather for a solidarity ride at the location where Oscar Belgal, a 28-year-old undocumented immigrant from the Dominican Republic, was shot in the neck last week by ICE agents in the Marble Hill neighborhood of the Bronx …
 
 
-### HOMICIDE on 2026-10-21 16:28
-- Location: The Times of India
-- Description: Three arrested in Kochi’s Elamkunnapuzha for attacking and stabbing police officers at a petrol pump; booked for attempt to murder as probe continues.
+### OTHER on 2026-10-21 16:53
+- Location: HuffPost
+- Description: Steve Witkoff praised the Russian president for releasing a U.S. citizen, with GOP lawmakers furious at the characterization.
 
 
-### ROBBERY/THEFT on 2026-10-21 16:28
-- Location: The Times of India
-- Description: Thiruvambady Devaswom rejects crime branch Pooram disruption probe naming its office-bearers accused, calls findings a sham and seeks fresh inquiry.
+### OTHER on 2026-10-21 16:52
+- Location: Rolling Stone
+- Description: Open letter supporting Sally Rooney after the author's books were banned in the U.K. has been signed by Paul Mescal, Daisy Edgar-Jones, Kneecap, more.
 
 
-### SHOOTING on 2026-10-21 16:26
-- Location: Us Weekly
-- Description: On the evening of October 21, 2021, filmmaker Rachel Mason was on her way home from dinner with her family when she received a frantic phone call about her close friend Halyna Hutchins. “We were [driving] on Hollywood Boulevard with the lights whizzing by and…
+### OTHER on 2026-10-21 16:51
+- Location: Screen Rant
+- Description: While Crystal Lake wrapped up most stories by the finale, the Peacock show leaves seven major questions unanswered, allowing for a second season.
 
 
-### OTHER on 2026-10-21 16:22
-- Location: Radaronline.com
-- Description: President Donald Trump suggested that Rep. Ilhan Omar 'could go to jail' as the investigation into her immigration continues.
+### OTHER on 2026-10-21 16:44
+- Location: BBC News
+- Description: It is understood Eleanor Barnfield, from Bridgend, had been stabbed before the crash.
 
-Analysis generated at: Thu Oct 22 16:30:20 UTC 2026
+Analysis generated at: Thu Oct 22 16:56:47 UTC 2026
