@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Oct 22 11:00:18 UTC 2026
+Last updated: Thu Oct 22 16:30:20 UTC 2026
 
 ## Latest Analysis
 
-Loaded 142471 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-21 11:00:00
+Loaded 142569 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-21 16:29:17
 
 Incidents by source:
 source
-newsapi           142370
+newsapi           142468
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2026-10-21 11:00
-- Location: STLtoday.com
-- Description: If Gov. Mike Kehoe wants St. Louis police Chief Robert Tracy to get a raise, why won’t the state pay, instead of foisting the issue on city taxpayers?
+### OTHER on 2026-10-21 16:29
+- Location: Military.com
+- Description: Lander is running in the U.S. elections on Nov. 3 to represent a heavily Democratic New York district in the U.S. House of Representatives.
 
 
-### OTHER on 2026-10-21 11:00
-- Location: /FILM
-- Description: The Cycle is a slow-burn horror-mystery that turns into a full-blown monster movie with great practical effects. Here's our review.
-
-
-### HOMICIDE on 2026-10-21 11:00
-- Location: Longreads.com
-- Description: "Forrest Welborn spent decades as a suspect in the infamous Austin murders. It all but destroyed his life. This year, he was finally exonerated. So why doesn’t he feel free?"
-
-
-### ROBBERY/THEFT on 2026-10-21 11:00
-- Location: PRNewswire
-- Description: The Atlanta company reached the milestone in under two years, entirely within the Atlanta Metro Area, and is preparing to launch in Houston and Dallas ATLANTA, Oct. 20, 2026 /PRNewswire/ -- Undaunted, the Atlanta robotic security company protecting apartment …
-
-
-### OTHER on 2026-10-21 10:57
+### HOMICIDE on 2026-10-21 16:28
 - Location: The Times of India
-- Description: The legendary 1958 Gibson Flying V guitar, famously owned by Lonnie Mack and dubbed 'Number 7', fetched an impressive $550,000 at auction. This auction also featured Mack's 1962 Magnatone Custom 440 amplifier, which was crucial to his distinct sound. Mack's g…
+- Description: Three arrested in Kochi’s Elamkunnapuzha for attacking and stabbing police officers at a petrol pump; booked for attempt to murder as probe continues.
 
-Analysis generated at: Thu Oct 22 11:00:18 UTC 2026
+
+### ROBBERY/THEFT on 2026-10-21 16:28
+- Location: The Times of India
+- Description: Thiruvambady Devaswom rejects crime branch Pooram disruption probe naming its office-bearers accused, calls findings a sham and seeks fresh inquiry.
+
+
+### SHOOTING on 2026-10-21 16:26
+- Location: Us Weekly
+- Description: On the evening of October 21, 2021, filmmaker Rachel Mason was on her way home from dinner with her family when she received a frantic phone call about her close friend Halyna Hutchins. “We were [driving] on Hollywood Boulevard with the lights whizzing by and…
+
+
+### OTHER on 2026-10-21 16:22
+- Location: Radaronline.com
+- Description: President Donald Trump suggested that Rep. Ilhan Omar 'could go to jail' as the investigation into her immigration continues.
+
+Analysis generated at: Thu Oct 22 16:30:20 UTC 2026
