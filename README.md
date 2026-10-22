@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Oct 21 21:09:12 UTC 2026
+Last updated: Thu Oct 22 02:54:36 UTC 2026
 
 ## Latest Analysis
 
-Loaded 142337 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-20 21:01:05
+Loaded 142368 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-21 02:49:59
 
 Incidents by source:
 source
-newsapi           142236
+newsapi           142267
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-10-20 21:01
-- Location: Dailymail.com
-- Description: The woman was hit in the chest and the windshield of her car was damaged.
-
-
-### HOMICIDE on 2026-10-20 21:00
-- Location: New York Post
-- Description: Shatayvia Calderon, 33, fatally shot her 9-year-old son and herself in an Indianapolis murder-suicide, police said.
-
-
-### OTHER on 2026-10-20 20:57
-- Location: Www.gov.uk
-- Description: Statement by Jennifer MacNaughtan, UK Political Coordinator, at the Security Council meeting on Kosovo.
-
-
-### SHOOTING on 2026-10-20 20:56
+### OTHER on 2026-10-21 02:49
 - Location: The Times of India
-- Description: Anil Pandit Pandit and Shroff ’s shooter Rehan both reported to Malik and were considered “his men” till a few months ago, a source said. Rehan had been earlier tasked by Malik and Pandit with a shooting incident in Sonipat as well. “Rehan was shown the same …
+- Description: US President Donald Trump said Democratic Congresswoman Ilhan Omar could face deportation or jail as federal authorities investigate questions surrounding
 
 
-### OTHER on 2026-10-20 20:53
-- Location: Dailymail.com
-- Description: The police chief said the individual's 'choice of attire and snack may have raised a few eyebrows' as he addressed whether the person had violated the law.
+### OTHER on 2026-10-21 02:48
+- Location: The Times of India
+- Description: CA Foundation result date 2026: The Institute of Chartered Accountants of India (ICAI) is expected to announce the CA Intermediate September 2026 results by the evening of October 22, 2026, according to its October 14 announcement. The CA Foundation September…
 
-Analysis generated at: Wed Oct 21 21:09:12 UTC 2026
+
+### SHOOTING on 2026-10-21 02:42
+- Location: FOX 9
+- Description: A shelter-in-place order has been lifted following a shooting that injured a girl in a Burnsville neighborhood Tuesday night. Police believe the shooting was not random, and no arrests have been made.
+
+
+### OTHER on 2026-10-21 02:31
+- Location: New York Post
+- Description: When Barack Obama was president and feuding with Israeli Prime Minister Benjamin Netanyahu while apologizing to Arab potentates about America’s history in the region, a friend offered an observation.
+
+
+### OTHER on 2026-10-21 02:25
+- Location: Business Standard
+- Description: Delhi Police on Tuesday transferred another case registered against Cockroach Janta Party leaders Saurav Das and Ashutosh Ranka to the Crime Branch, sources said.
+The Crime Branch will now investigate two cases against the CJP leaders. The other case linked t…
+
+Analysis generated at: Thu Oct 22 02:54:36 UTC 2026
