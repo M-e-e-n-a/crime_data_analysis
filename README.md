@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Oct 23 16:18:12 UTC 2026
+Last updated: Fri Oct 23 16:47:19 UTC 2026
 
 ## Latest Analysis
 
-Loaded 142851 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-22 16:17:51
+Loaded 142860 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-22 16:45:21
 
 Incidents by source:
 source
-newsapi           142750
+newsapi           142759
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-10-22 16:17
-- Location: Rolling Stone
-- Description: "Looksmaxxing" influencer Braden Peters paid $10,000 bail and surrendered his passport at the Thursday arraignment
-
-
-### HOMICIDE on 2026-10-22 16:16
-- Location: Dailymail.com
-- Description: The mother of a 16-year-old Oregon school shooter who murdered three children and a teacher has a criminal past that could come under scrutiny amid claims she purchased the gun used in the massacre.
-
-
-### ROBBERY/THEFT on 2026-10-22 16:10
+### HOMICIDE on 2026-10-22 16:45
 - Location: The Times of India
-- Description: Four accused, including two women, remanded till Oct 26 in Tiger Shroff firing case; police probe arms supply network and may invoke MCOCA.
+- Description: Mother of 8-month-old found dead in Pulikkeezh marsh in Aug 2023 arrested in Kottayam case; police say murder established, two other accused sought.
 
 
-### HOMICIDE on 2026-10-22 16:07
-- Location: Dailymail.com
-- Description: Eleanor Barnfield, 47, was severely injured after being attacked at work when she got into her car in Bridgend, South Wales, on Monday morning.
+### ROBBERY/THEFT on 2026-10-22 16:45
+- Location: The Peoples Person
+- Description: Manchester United captain Bruno Fernandes is said to have been left devastated after intruders stole valuables from his £4 million Cheshire home while he was away with the team in Italy.Como defeat p...
 
 
-### ASSAULT on 2026-10-22 16:06
-- Location: The Times of India
-- Description: Doctor Ajas Khan remanded 14 days for allegedly assaulting a woman doctor and attacking a police officer in Kollam; police recovered 6g ganja from hotel room.
+### OTHER on 2026-10-22 16:44
+- Location: CBC News
+- Description: Warrant documents provide a detailed look at Agnieszka Ciochon-Newton's alleged campaign of harassment against family members, her former parole officer and a sitting judge.
 
-Analysis generated at: Fri Oct 23 16:18:12 UTC 2026
+
+### OTHER on 2026-10-22 16:43
+- Location: Boredpanda.com
+- Description: Danbom alleged Amazon investigators asked re-traumatizing questions about whether she had yelled “no” during the alleged incident.
+
+
+### OTHER on 2026-10-22 16:28
+- Location: Breitbart News
+- Description: The FBI has posted surveillance photos and a $20,000 reward for information leading to the arrest of an unidentified male who investigators say threw a “Molotov cocktail-style device” at a U.S. Immigration and Customs Enforcement (ICE) building in downtown At…
+
+Analysis generated at: Fri Oct 23 16:47:19 UTC 2026
