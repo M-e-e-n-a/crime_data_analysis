@@ -1,10 +1,10 @@
 
-Loaded 142860 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-22 16:45:21
+Loaded 142936 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-22 20:49:48
 
 Incidents by source:
 source
-newsapi           142759
+newsapi           142835
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-10-22 16:45
-- Location: The Times of India
-- Description: Mother of 8-month-old found dead in Pulikkeezh marsh in Aug 2023 arrested in Kottayam case; police say murder established, two other accused sought.
+### OTHER on 2026-10-22 20:49
+- Location: Giveawayoftheday.com
+- Description: Responder.ai puts what is happening around you on one dark map: local crime reports, police and fire dispatch calls, and live weather and earthquake warnings. Pick...
 
 
-### ROBBERY/THEFT on 2026-10-22 16:45
-- Location: The Peoples Person
-- Description: Manchester United captain Bruno Fernandes is said to have been left devastated after intruders stole valuables from his £4 million Cheshire home while he was away with the team in Italy.Como defeat p...
+### HOMICIDE on 2026-10-22 20:49
+- Location: New York Post
+- Description: A Queens mom was charged with murder in the death of her adult autistic son – who was found with a slashed neck inside their home last week, cops said Thursday.
 
 
-### OTHER on 2026-10-22 16:44
-- Location: CBC News
-- Description: Warrant documents provide a detailed look at Agnieszka Ciochon-Newton's alleged campaign of harassment against family members, her former parole officer and a sitting judge.
+### HOMICIDE on 2026-10-22 20:48
+- Location: New York Post
+- Description: California's death row includes Richard Allen Davis, who kidnapped and murdered 12-year-old Polly Klaas, and Cary Stayner, who murdered four women, including two teenage girls.
 
 
-### OTHER on 2026-10-22 16:43
-- Location: Boredpanda.com
-- Description: Danbom alleged Amazon investigators asked re-traumatizing questions about whether she had yelled “no” during the alleged incident.
-
-
-### OTHER on 2026-10-22 16:28
+### HOMICIDE on 2026-10-22 20:47
 - Location: Breitbart News
-- Description: The FBI has posted surveillance photos and a $20,000 reward for information leading to the arrest of an unidentified male who investigators say threw a “Molotov cocktail-style device” at a U.S. Immigration and Customs Enforcement (ICE) building in downtown At…
+- Description: A policeman is accused of using a deceased man's identity to take over his residence in Florida and is facing several charges in the case.
+The post VIDEO: Florida Policeman Who Found Dead Man Accused of Taking His Identity and Home appeared first on Breitbart.
 
-Analysis generated at: Fri Oct 23 16:47:19 UTC 2026
+
+### HOMICIDE on 2026-10-22 20:47
+- Location: Freerepublic.com
+- Description: A San Jose man made a tearful apology in court Wednesday morning moments before a judge sentenced him to prison for murdering his mother. Bradley “Brad” Dexter, 43, was sentenced by Santa Clara County Superior Court Judge David Cena to a prison term of 25 yea…
+
+Analysis generated at: Fri Oct 23 20:54:54 UTC 2026
