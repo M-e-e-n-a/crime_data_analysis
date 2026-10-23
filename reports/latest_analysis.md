@@ -1,10 +1,10 @@
 
-Loaded 142675 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-22 02:42:14
+Loaded 142685 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-22 04:03:57
 
 Incidents by source:
 source
-newsapi           142574
+newsapi           142584
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,30 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-10-22 02:42
-- Location: The Times of India
-- Description: Next Tuesday, Israeli citizens will vote for their next prime minister amid a tense political landscape. Benjamin Netanyahu has led Israel for years and faces strong opposition from Gadi Eisenkot. Eisenkot, a former military chief, has positioned himself as a…
+### SHOOTING on 2026-10-22 04:03
+- Location: Dailymail.com
+- Description: Emergency services were called to a home in Glen Alpine following reports a man had allegedly made threats.
 
 
-### OTHER on 2026-10-22 02:29
-- Location: CBC News
-- Description: Toronto Crime Stoppers is pausing its program, effective immediately, its chair Sean Sportun said in a statement sent late Wednesday evening. The news follows an exclusive CBC investigation from earlier in the day revealing that information from more than 1.5…
+### OTHER on 2026-10-22 04:00
+- Location: Americanthinker.com
+- Description: Photo Credit:
+ 
+ ICEBy Jim CardozaA policy advertised as protecting the innocent can instead shield the guilty, complicate law enforcement, and expose the innocent to greater danger.
 
 
-### OTHER on 2026-10-22 02:23
-- Location: NBC News
-- Description: The second Michigan Senate debate on Wednesday featured several heated clashes between Democratic nominee Abdul El-Sayed and former Republican Rep.
+### OTHER on 2026-10-22 03:58
+- Location: ABC News (AU)
+- Description: Regional female MPs are reviewing their safety measures and changing how they move around in public spaces, which are often far from emergency services.
 
 
-### HOMICIDE on 2026-10-22 02:21
-- Location: New York Post
-- Description: It was put on record that the Medical Examiner identified 32 chop wounds, 25 were to the head and neck and they found “internal decapitation of neck, and a brain tumor
+### HOMICIDE on 2026-10-22 03:52
+- Location: Dailymail.com
+- Description: Victor Romero, 62, surrendered Wednesday afternoon after investigators had announced him a person of interest in the murder of Koran Irvine, 46.
 
 
-### OTHER on 2026-10-22 02:17
-- Location: CBC News
-- Description: It's the final week of Ottawa's 2026 mayoral campaign and four leading candidates brought their A-game to a downstairs CBC Ottawa studio on Wednesday evening.
+### HOMICIDE on 2026-10-22 03:28
+- Location: Dailymail.com
+- Description: Manuel Adrian Salceda, 39, has been arrested for allegedly beating and shooting DoorDash driver Javier Becerril Jr, 42, and stuffing his body in the trunk of his Tesla back in July.
 
-Analysis generated at: Fri Oct 23 02:57:39 UTC 2026
+Analysis generated at: Fri Oct 23 04:07:01 UTC 2026
