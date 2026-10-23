@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Oct 23 04:07:01 UTC 2026
+Last updated: Fri Oct 23 10:54:36 UTC 2026
 
 ## Latest Analysis
 
-Loaded 142685 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-22 04:03:57
+Loaded 142751 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-22 10:51:58
 
 Incidents by source:
 source
-newsapi           142584
+newsapi           142650
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,30 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-10-22 04:03
+### OTHER on 2026-10-22 10:51
+- Location: The Times of India
+- Description: Diljit Dosanjh’s concert in Delhi on October 30 was denied permission by Delhi Police citing security concerns. This concert was supposed to launch the India leg of his Aura Tour, which includes seven cities. Controversies surrounding Dosanjh include politica…
+
+
+### HOMICIDE on 2026-10-22 10:49
 - Location: Dailymail.com
-- Description: Emergency services were called to a home in Glen Alpine following reports a man had allegedly made threats.
+- Description: Nathan Owens, 34, strangled Carla Georgescu  in the early hours of February 4 after driving more than 100 miles through the night to her student halls in Preston, Lancashire.
 
 
-### OTHER on 2026-10-22 04:00
-- Location: Americanthinker.com
-- Description: Photo Credit:
- 
- ICEBy Jim CardozaA policy advertised as protecting the innocent can instead shield the guilty, complicate law enforcement, and expose the innocent to greater danger.
+### HOMICIDE on 2026-10-22 10:45
+- Location: Medical Daily
+- Description: A Dallas man with diabetes and heart disease died in ICE custody in Laredo, the seventh Texas detention death this year. Cause of death is pending.
 
 
-### OTHER on 2026-10-22 03:58
-- Location: ABC News (AU)
-- Description: Regional female MPs are reviewing their safety measures and changing how they move around in public spaces, which are often far from emergency services.
+### OTHER on 2026-10-22 10:45
+- Location: Decrypt
+- Description: Police say a car-rental firm near Milan was an underground bank for 'Ndrangheta and Camorra figures, moving money abroad and into crypto.
 
 
-### HOMICIDE on 2026-10-22 03:52
-- Location: Dailymail.com
-- Description: Victor Romero, 62, surrendered Wednesday afternoon after investigators had announced him a person of interest in the murder of Koran Irvine, 46.
+### OTHER on 2026-10-22 10:37
+- Location: BBC News
+- Description: Eleanor Barnfield, 47, died in hospital after police were called to a crash in Bridgend on Monday.
 
-
-### HOMICIDE on 2026-10-22 03:28
-- Location: Dailymail.com
-- Description: Manuel Adrian Salceda, 39, has been arrested for allegedly beating and shooting DoorDash driver Javier Becerril Jr, 42, and stuffing his body in the trunk of his Tesla back in July.
-
-Analysis generated at: Fri Oct 23 04:07:01 UTC 2026
+Analysis generated at: Fri Oct 23 10:54:36 UTC 2026
