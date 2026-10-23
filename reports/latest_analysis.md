@@ -1,10 +1,10 @@
 
-Loaded 142751 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-22 10:51:58
+Loaded 142851 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-22 16:17:51
 
 Incidents by source:
 source
-newsapi           142650
+newsapi           142750
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-10-22 10:51
-- Location: The Times of India
-- Description: Diljit Dosanjh’s concert in Delhi on October 30 was denied permission by Delhi Police citing security concerns. This concert was supposed to launch the India leg of his Aura Tour, which includes seven cities. Controversies surrounding Dosanjh include politica…
+### OTHER on 2026-10-22 16:17
+- Location: Rolling Stone
+- Description: "Looksmaxxing" influencer Braden Peters paid $10,000 bail and surrendered his passport at the Thursday arraignment
 
 
-### HOMICIDE on 2026-10-22 10:49
+### HOMICIDE on 2026-10-22 16:16
 - Location: Dailymail.com
-- Description: Nathan Owens, 34, strangled Carla Georgescu  in the early hours of February 4 after driving more than 100 miles through the night to her student halls in Preston, Lancashire.
+- Description: The mother of a 16-year-old Oregon school shooter who murdered three children and a teacher has a criminal past that could come under scrutiny amid claims she purchased the gun used in the massacre.
 
 
-### HOMICIDE on 2026-10-22 10:45
-- Location: Medical Daily
-- Description: A Dallas man with diabetes and heart disease died in ICE custody in Laredo, the seventh Texas detention death this year. Cause of death is pending.
+### ROBBERY/THEFT on 2026-10-22 16:10
+- Location: The Times of India
+- Description: Four accused, including two women, remanded till Oct 26 in Tiger Shroff firing case; police probe arms supply network and may invoke MCOCA.
 
 
-### OTHER on 2026-10-22 10:45
-- Location: Decrypt
-- Description: Police say a car-rental firm near Milan was an underground bank for 'Ndrangheta and Camorra figures, moving money abroad and into crypto.
+### HOMICIDE on 2026-10-22 16:07
+- Location: Dailymail.com
+- Description: Eleanor Barnfield, 47, was severely injured after being attacked at work when she got into her car in Bridgend, South Wales, on Monday morning.
 
 
-### OTHER on 2026-10-22 10:37
-- Location: BBC News
-- Description: Eleanor Barnfield, 47, died in hospital after police were called to a crash in Bridgend on Monday.
+### ASSAULT on 2026-10-22 16:06
+- Location: The Times of India
+- Description: Doctor Ajas Khan remanded 14 days for allegedly assaulting a woman doctor and attacking a police officer in Kollam; police recovered 6g ganja from hotel room.
 
-Analysis generated at: Fri Oct 23 10:54:36 UTC 2026
+Analysis generated at: Fri Oct 23 16:18:12 UTC 2026
