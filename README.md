@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Oct 24 15:15:19 UTC 2026
+Last updated: Sat Oct 24 15:42:50 UTC 2026
 
 ## Latest Analysis
 
-Loaded 143127 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-23 15:13:59
+Loaded 143139 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-23 15:40:30
 
 Incidents by source:
 source
-newsapi           143026
+newsapi           143038
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,29 +24,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-10-23 15:13
-- Location: The Times of India
-- Description: Nashik youth lured to Jaipur for online gaming-linked USDT crypto deal, kidnapped for ransom; Kalyan GRP and Mumbai crime branch rescue him in Haryana.
+### OTHER on 2026-10-23 15:40
+- Location: Nplusonemag.com
+- Description: Colin Vanderburg: To begin, how generalizable are New York’s politics of policing and criminal justice? I think there’s an idea that the NYPD, as the country’s largest police department in the country’s largest city, is somehow archetypal of American policing…
 
 
-### HOMICIDE on 2026-10-23 15:12
-- Location: NBC News
-- Description: An Ohio father accused of mowing down a deputy with his car hours after he viewed body camera video of a Cincinnati police officer fatally shooting his son was found guilty Friday of charges including murder.
+### OTHER on 2026-10-23 15:40
+- Location: CBC News
+- Description: Just three days before Torontonians head to the polls, Olivia Chow offered an unapologetic defence of tax increases during her tenure. She said the substantial raises have improved services and safety in the city, though opposing candidate Brad Bradford has s…
 
 
-### OTHER on 2026-10-23 15:12
+### OTHER on 2026-10-23 15:29
+- Location: Orlando Sentinel
+- Description: Authorities view the injury as suspicious but no one has been charged, and the baby’s mother has now sued the daycare her child attended, blaming staff there for her daughter’s badly broken leg.
+
+
+### ROBBERY/THEFT on 2026-10-23 15:28
+- Location: Theobserver.com
+- Description: The moral of this story — if you’re going to lead police on a chase because you’re in a stolen vehicle (never a wise idea ever), at least make sure you have gas first. For one Newark man, that was …
+
+
+### HOMICIDE on 2026-10-23 15:27
 - Location: Breitbart News
-- Description: Local authorities in Tehran, Iran, erected an art display this week in which an actor depicting President Donald Trump is placed in a cage hanging above a public square, performing President Trump's signature dance and eliciting jeers from passersby.
-The post…
+- Description: The IV team tasked with executing murderer Christa Pike in Tennessee went through approximately 10 needles before injecting her with what was supposed to be a lethal double dose of pentobarbital, court documents filed by her attorney said.
+The post Attorney: …
 
-
-### ROBBERY/THEFT on 2026-10-23 15:11
-- Location: CNBC
-- Description: Attorneys for one of the ex-FBI officials slammed the Trump administration for filing the "nonsense charges" just before the midterm election.
-
-
-### HOMICIDE on 2026-10-23 15:11
-- Location: ANSA.it
-- Description: epa13325286 French Police investigate the scene of a shooting that left one person dead and four others injured, in Trappes, near Paris, France, 23 October 2026 EPA/YOAN VALAT (ANSA). (ANSA)
-
-Analysis generated at: Sat Oct 24 15:15:19 UTC 2026
+Analysis generated at: Sat Oct 24 15:42:50 UTC 2026
