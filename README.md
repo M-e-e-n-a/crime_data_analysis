@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Oct 24 10:08:13 UTC 2026
+Last updated: Sat Oct 24 15:15:19 UTC 2026
 
 ## Latest Analysis
 
-Loaded 143027 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-23 10:05:45
+Loaded 143127 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-23 15:13:59
 
 Incidents by source:
 source
-newsapi           142926
+newsapi           143026
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-10-23 10:05
+### OTHER on 2026-10-23 15:13
 - Location: The Times of India
-- Description: Peter Arnold, affectionately dubbed 'Mr Spitfire', dedicated over half a century to amassing historic aircraft relics. After his passing in 2025, a remarkable unfinished Spitfire fuselage went under the hammer for £18,000. This Spitfire F Mk 22 PK519 fuselage…
+- Description: Nashik youth lured to Jaipur for online gaming-linked USDT crypto deal, kidnapped for ransom; Kalyan GRP and Mumbai crime branch rescue him in Haryana.
 
 
-### OTHER on 2026-10-23 10:00
-- Location: Salon
-- Description: The deal is built to prevent future presidents and Venezuelan leaders from changing or dismantling the enterprise
+### HOMICIDE on 2026-10-23 15:12
+- Location: NBC News
+- Description: An Ohio father accused of mowing down a deputy with his car hours after he viewed body camera video of a Cincinnati police officer fatally shooting his son was found guilty Friday of charges including murder.
 
 
-### HOMICIDE on 2026-10-23 10:00
-- Location: Fox News
-- Description: A Utah Supreme Court appeal in the Gabby Petito wrongful death case could clear the way for Charlie Kirk's family to sue over security failures.
+### OTHER on 2026-10-23 15:12
+- Location: Breitbart News
+- Description: Local authorities in Tehran, Iran, erected an art display this week in which an actor depicting President Donald Trump is placed in a cage hanging above a public square, performing President Trump's signature dance and eliciting jeers from passersby.
+The post…
 
 
-### OTHER on 2026-10-23 10:00
-- Location: TechRadar
-- Description: Here's how to watch the new detective drama online from anywhere in the world FOR FREE.
+### ROBBERY/THEFT on 2026-10-23 15:11
+- Location: CNBC
+- Description: Attorneys for one of the ex-FBI officials slammed the Trump administration for filing the "nonsense charges" just before the midterm election.
 
 
-### SHOOTING on 2026-10-23 10:00
-- Location: The New Yorker
-- Description: Rachel Monroe writes about Meta’s law-enforcement-outreach team, and about those who monitor social media in an effort to prevent school shootings and other acts of violent extremism.
+### HOMICIDE on 2026-10-23 15:11
+- Location: ANSA.it
+- Description: epa13325286 French Police investigate the scene of a shooting that left one person dead and four others injured, in Trappes, near Paris, France, 23 October 2026 EPA/YOAN VALAT (ANSA). (ANSA)
 
-Analysis generated at: Sat Oct 24 10:08:13 UTC 2026
+Analysis generated at: Sat Oct 24 15:15:19 UTC 2026
