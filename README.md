@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Oct 24 04:00:43 UTC 2026
+Last updated: Sat Oct 24 10:08:13 UTC 2026
 
 ## Latest Analysis
 
-Loaded 142962 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-23 03:40:31
+Loaded 143027 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-23 10:05:45
 
 Incidents by source:
 source
-newsapi           142861
+newsapi           142926
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-10-23 03:40
+### OTHER on 2026-10-23 10:05
 - Location: The Times of India
-- Description: Streaming platforms have something for everyone, featuring an array of films and shows that span genres. Highlights include Chaar Yaar and Lupin Part 4, which captivate audiences with their intriguing plots. Dhoomakethu offers a fresh twist with its comedic t…
+- Description: Peter Arnold, affectionately dubbed 'Mr Spitfire', dedicated over half a century to amassing historic aircraft relics. After his passing in 2025, a remarkable unfinished Spitfire fuselage went under the hammer for £18,000. This Spitfire F Mk 22 PK519 fuselage…
 
 
-### OTHER on 2026-10-23 03:20
+### OTHER on 2026-10-23 10:00
+- Location: Salon
+- Description: The deal is built to prevent future presidents and Venezuelan leaders from changing or dismantling the enterprise
+
+
+### HOMICIDE on 2026-10-23 10:00
 - Location: Fox News
-- Description: A Utah man allegedly threatened to blow up a synagogue, and a search of his home uncovered six improvised explosive pipe bombs and rifles, officials say.
+- Description: A Utah Supreme Court appeal in the Gabby Petito wrongful death case could clear the way for Charlie Kirk's family to sue over security failures.
 
 
-### HOMICIDE on 2026-10-23 03:15
-- Location: New York Post
-- Description: “Her plan was to kill all three of them,” Pike County Sheriff David Greenwood said. “Her plan was to kill herself, and she was afraid of dying alone.”
+### OTHER on 2026-10-23 10:00
+- Location: TechRadar
+- Description: Here's how to watch the new detective drama online from anywhere in the world FOR FREE.
 
 
-### HOMICIDE on 2026-10-23 03:01
-- Location: ABC News (AU)
-- Description: Former Sydney police officer Beau Lamarre-Condon told a friend he had shot two people, and asked for help cleaning up his "mess", a jury has heard.
+### SHOOTING on 2026-10-23 10:00
+- Location: The New Yorker
+- Description: Rachel Monroe writes about Meta’s law-enforcement-outreach team, and about those who monitor social media in an effort to prevent school shootings and other acts of violent extremism.
 
-
-### OTHER on 2026-10-23 02:47
-- Location: Israelnationalnews.com
-- Description: 22-year-old Utah man faces federal charges after allegedly threatening to bomb a synagogue. FBI agents found six explosive devices during a search of his home.
-
-Analysis generated at: Sat Oct 24 04:00:43 UTC 2026
+Analysis generated at: Sat Oct 24 10:08:13 UTC 2026
