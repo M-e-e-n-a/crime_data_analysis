@@ -1,10 +1,10 @@
 
-Loaded 142936 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-22 20:49:48
+Loaded 142958 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-23 02:47:10
 
 Incidents by source:
 source
-newsapi           142835
+newsapi           142857
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-10-22 20:49
-- Location: Giveawayoftheday.com
-- Description: Responder.ai puts what is happening around you on one dark map: local crime reports, police and fire dispatch calls, and live weather and earthquake warnings. Pick...
+### OTHER on 2026-10-23 02:47
+- Location: Israelnationalnews.com
+- Description: 22-year-old Utah man faces federal charges after allegedly threatening to bomb a synagogue. FBI agents found six explosive devices during a search of his home.
 
 
-### HOMICIDE on 2026-10-22 20:49
-- Location: New York Post
-- Description: A Queens mom was charged with murder in the death of her adult autistic son – who was found with a slashed neck inside their home last week, cops said Thursday.
+### HOMICIDE on 2026-10-23 02:40
+- Location: ABC News (AU)
+- Description: Domenic Perre refused food and medication in the weeks leading up to his death in custody, according to coronial findings published today.
 
 
-### HOMICIDE on 2026-10-22 20:48
-- Location: New York Post
-- Description: California's death row includes Richard Allen Davis, who kidnapped and murdered 12-year-old Polly Klaas, and Cary Stayner, who murdered four women, including two teenage girls.
+### OTHER on 2026-10-23 02:34
+- Location: ABC News (AU)
+- Description: Here's a breakdown of Israel's upcoming general election and its complicated coalition structures.
 
 
-### HOMICIDE on 2026-10-22 20:47
-- Location: Breitbart News
-- Description: A policeman is accused of using a deceased man's identity to take over his residence in Florida and is facing several charges in the case.
-The post VIDEO: Florida Policeman Who Found Dead Man Accused of Taking His Identity and Home appeared first on Breitbart.
+### HOMICIDE on 2026-10-23 02:22
+- Location: WKRC TV Cincinnati
+- Description: Brian Louis Sguros, 35, is accused of using the identity of a man he found dead during a welfare check to take control of the man’s home.
 
 
-### HOMICIDE on 2026-10-22 20:47
-- Location: Freerepublic.com
-- Description: A San Jose man made a tearful apology in court Wednesday morning moments before a judge sentenced him to prison for murdering his mother. Bradley “Brad” Dexter, 43, was sentenced by Santa Clara County Superior Court Judge David Cena to a prison term of 25 yea…
+### OTHER on 2026-10-23 02:14
+- Location: phillymag.com
+- Description: Listen to the interview edition here: Ballot questions. Referendums. Initiatives. Whatever a city, township, borough, or county calls ’em, questions on the ballot […]
 
-Analysis generated at: Fri Oct 23 20:54:54 UTC 2026
+Analysis generated at: Sat Oct 24 02:53:21 UTC 2026
