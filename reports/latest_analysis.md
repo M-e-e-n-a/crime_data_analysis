@@ -1,10 +1,10 @@
 
-Loaded 143422 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-24 15:26:29
+Loaded 143426 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-24 15:41:09
 
 Incidents by source:
 source
-newsapi           143321
+newsapi           143325
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
+### SHOOTING on 2026-10-24 15:41
+- Location: The Times of India
+- Description: Police arrested Pranjal Thakran in Indore for his involvement in the October 18 shooting targeting Tiger Shroff. Investigations revealed that the assailants were informed about police movements via television updates. Two firearms related to the attack were r…
+
+
+### OTHER on 2026-10-24 15:40
+- Location: The Times of India
+- Description: Chargesheets have been filed against 65 individuals involved in cases of illegal Pakistani nationals in Jammu division. Investigations revealed that some Pakistani nationals had fraudulently obtained Indian identity documents while illegally residing in vario…
+
+
+### OTHER on 2026-10-24 15:35
+- Location: Us Weekly
+- Description: Meghan Markle’s half-brother, Thomas Markle Jr., is speaking out after accusing their father, Thomas Markle Sr., of possessing child sexual abuse materials. “It’s incredible that he is still in denial,” Thomas Jr., 60, told The Sun on Friday, October 23, afte…
+
+
+### OTHER on 2026-10-24 15:31
+- Location: Protothema.gr
+- Description: Thousands take to the streets across France despite sweeping protest bans and the deployment of 70,000 police officers, while demonstrators in Tirana clash with security forces amid reports of rubber bullets being fired France faced another day of nationwide …
+
+
 ### OTHER on 2026-10-24 15:26
 - Location: The Times of India
 - Description: Three men arrested in Garhwa for allegedly raping a 13-year-old after a Durga Puja fair; police filed a POCSO case and sent the survivor for medical exam.
 
-
-### OTHER on 2026-10-24 15:24
-- Location: The Times of India
-- Description: Mumbai chef alleges Rs 5.55 lakh job scam: promised hotel work abroad, sent to Laos, passports seized, forced into cyber fraud; Sahar police file FIR.
-
-
-### HOMICIDE on 2026-10-24 15:21
-- Location: The Times of India
-- Description: On October 15, a shooting at Silver Rail Elementary School resulted in the deaths of three children and a teacher. The 16-year-old suspect was killed by a community member confronting him inside the school. Reports suggest instability and a troubled family ba…
-
-
-### OTHER on 2026-10-24 15:16
-- Location: The Times of India
-- Description: Bengaluru road rage: 25-year-old cook Ranjit Kumar Sahu was dragged about 100 metres under a speeding car in Electronics City and died; police hunt driver, 2 aides.
-
-
-### OTHER on 2026-10-24 15:16
-- Location: Yahoo Entertainment
-- Description: By Juliette Jabkhiro and Alessandro Parodi PARIS, Oct 24 (Reuters) - Demonstrators took to the streets of France on Saturday under the watch of 70,000 police officers, with unrest appearing markedly less severe than a week earlier despite scattered confrontat…
-
-Analysis generated at: Sun Oct 25 15:26:42 UTC 2026
+Analysis generated at: Sun Oct 25 15:50:45 UTC 2026
