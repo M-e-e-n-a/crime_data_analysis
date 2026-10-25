@@ -1,10 +1,10 @@
 
-Loaded 143237 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-23 20:02:15
+Loaded 143257 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-24 02:26:09
 
 Incidents by source:
 source
-newsapi           143136
+newsapi           143156
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-10-23 20:02
+### OTHER on 2026-10-24 02:26
 - Location: The Times of India
-- Description: Lucknow Police traced influencer Shraddha Dubey to Nagpur via WhatsApp call data, hotspot logs and a cab driver tip, arresting her in Shiva Sharma case.
+- Description: Security forces in Italy are preparing for protests set to occur in eight cities. While the demonstrations are expected to address budget cuts and cost of living concerns, heightened security measures are being enforced. Authorities aim to balance public safe…
 
 
-### OTHER on 2026-10-23 20:00
-- Location: The Times of India
-- Description: Smriti Irani tells Haryana BJP MPs/MLAs to shun showmanship, cut wasteful spending, stay accessible, and improve feedback on central schemes like Mann Ki Baat.
+### HOMICIDE on 2026-10-24 02:24
+- Location: Business Standard
+- Description: French President Emmanuel Macron condemned the shooting in Trappes and La Verriere, calling it a turning point and alleging that the attack targeted people based on their skin colour or religion
 
 
-### OTHER on 2026-10-23 20:00
-- Location: The Times of India
-- Description: CM Suvendu Adhikari calls Chorbagan stampede a “human error”; to meet 8,000 Durga Puja committees for safety roadmap; SIT report in 3 months.
+### OTHER on 2026-10-24 02:22
+- Location: Rt-english.com
+- Description: A Syrian migrant arrested on suspicion of raping a teenage girl was released from pre-trial detention after 40 days and later accused of another rape, German media has reported
 
 
-### ASSAULT on 2026-10-23 20:00
-- Location: Legalinsurrection.com
-- Description: The Times reported that in August 2019, Acton's daughter called 911 to say that "her stepfather and her mother were fighting and that her mother had been 'drinking and throwing things.'”
-The post Trump Calls Out Media Double Standard Over Ramaswamy’s Attack A…
+### HOMICIDE on 2026-10-24 02:17
+- Location: New York Post
+- Description: “Losing him so unexpectedly has left a pain in our family that is difficult to put into words.”
 
 
-### ROBBERY/THEFT on 2026-10-23 19:56
-- Location: The Times of India
-- Description: Army Intelligence and Punjab Police arrest Ferozepur border village couple for alleged ISI spying; honey-trap via social media probed, phones seized, case under OSA.
+### ASSAULT on 2026-10-24 02:16
+- Location: Dailymail.com
+- Description: The complex notes written by the man accused of driving into MP Helen Haines have emerged.
 
-Analysis generated at: Sat Oct 24 20:06:38 UTC 2026
+Analysis generated at: Sun Oct 25 02:46:42 UTC 2026
