@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Oct 25 03:58:46 UTC 2026
+Last updated: Sun Oct 25 10:34:06 UTC 2026
 
 ## Latest Analysis
 
-Loaded 143264 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-24 03:57:07
+Loaded 143324 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-24 10:18:08
 
 Incidents by source:
 source
-newsapi           143163
+newsapi           143223
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-10-24 03:57
+### HOMICIDE on 2026-10-24 10:18
 - Location: The Times of India
-- Description: On 'Dhamaal With Pati Patni Aur Panga', Arjun Bijlani and Neha Swami delight viewers with their fun-filled banter, showcasing a playful side of love. Their teasing and jests reveal the joy they share as a couple, with Neha humorously pointing out Arjun's deli…
+- Description: Shakti Singh Bhura was attacked brutally by assailants during a visit to his friend's house. The assailants severed his hand and handed it to a grocery shop owner as part of the attack. His friend was also injured during the incident which occurred in the Dab…
 
 
-### HOMICIDE on 2026-10-24 03:36
-- Location: PerthNow
-- Description: A man has been extradited from Poland and charged in relation to the killing of a Sydney tradie discovered dead in a submerged metal cabinet.
+### HOMICIDE on 2026-10-24 10:16
+- Location: New York Post
+- Description: The Atch Academy in Aubervilliers, north of Paris, identified him as Pengo Bossio Wangi, 26.
 
 
-### OTHER on 2026-10-24 03:35
-- Location: Gossiplankanews.com
-- Description: Based on the confession of an organized criminal, who was arrested while hiding in a foreign country and brought back to his homeland, the police have succeeded in discovering a cache of weapons buried in the Batuwatta Public Cemetery, which falls under the R…
+### OTHER on 2026-10-24 10:14
+- Location: Dailymail.com
+- Description: An illegal encampment was set up in the picturesque village of South Warnborough, Hampshire, over the August Bank Holiday weekend.
 
 
-### HOMICIDE on 2026-10-24 03:32
+### HOMICIDE on 2026-10-24 10:13
 - Location: Slashdot.org
-- Description: Mississippi police officer who fatally shot 1-year-old Kohen Wiley has resignedNBC News Officer who shot and killed Black toddler in Mississippi resigns from police forceThe Guardian Bodycam clip released in fatal police shooting of Mississippi one-year-oldBB…
+- Description: Guilty: Faith Hedgepeth's killer sentenced to life in prison without paroleWRAL Live updates: Jury finds Miguel Olivares guilty of first-degree murder in Faith Hedgepeth deathABC11 News After 14 Years, Man Convicted in Killing of Haliwa-Saponi Tribe Citizen F…
 
 
-### HOMICIDE on 2026-10-24 03:14
-- Location: The Times of India
-- Description: Three individuals were sentenced to life imprisonment following the murder of Riya Jain in Ghaziabad. After the victim's uncle reported her missing, police discovered her beheaded body in a sugarcane field. The court found them guilty of murder, dowry harassm…
+### SHOOTING on 2026-10-24 10:10
+- Location: BBC News
+- Description: The incident, which police believe was targeted, happened on Gilmerton Road at about 21:15 on Friday.
 
-Analysis generated at: Sun Oct 25 03:58:46 UTC 2026
+Analysis generated at: Sun Oct 25 10:34:06 UTC 2026
