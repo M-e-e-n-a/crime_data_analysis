@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Oct 25 15:50:45 UTC 2026
+Last updated: Sun Oct 25 20:18:51 UTC 2026
 
 ## Latest Analysis
 
-Loaded 143426 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-24 15:41:09
+Loaded 143490 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-24 20:12:35
 
 Incidents by source:
 source
-newsapi           143325
+newsapi           143389
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-10-24 15:41
+### HOMICIDE on 2026-10-24 20:12
+- Location: Slashdot.org
+- Description: German man arrested for allegedly driving American teen girl to die by suicide, prosecutors sayCBS News German teen arrested on suspicion of murder in connection with US girl's deathABC News - Breaking News, Latest News and Videos FWPD, FBI, German officials …
+
+
+### OTHER on 2026-10-24 20:00
+- Location: TVLine
+- Description: TVLine offers a look at what to watch in the week ahead: A handy roundup of new TV premieres and show finales to help you plan your viewing for October 25-31.
+
+
+### HOMICIDE on 2026-10-24 19:58
+- Location: Dailymail.com
+- Description: Mohamed Abotaka, was arrested after the body of Ali Barzai was found in a wheelie bin in West Hoe, Plymouth, at around 6.40am on Wednesday.
+
+
+### HOMICIDE on 2026-10-24 19:48
 - Location: The Times of India
-- Description: Police arrested Pranjal Thakran in Indore for his involvement in the October 18 shooting targeting Tiger Shroff. Investigations revealed that the assailants were informed about police movements via television updates. Two firearms related to the attack were r…
+- Description: CCTV from Shraddha Dubey’s apartment shows her, sister Rashmi and Shiva Sharma together, aiding Lucknow police probe into Sharma’s fatal fall; suicide vs murder.
 
 
-### OTHER on 2026-10-24 15:40
+### HOMICIDE on 2026-10-24 19:47
 - Location: The Times of India
-- Description: Chargesheets have been filed against 65 individuals involved in cases of illegal Pakistani nationals in Jammu division. Investigations revealed that some Pakistani nationals had fraudulently obtained Indian identity documents while illegally residing in vario…
+- Description: Missing 17-year-old Nabha Class 12 student found dead in Bhakhra Canal after 3 days; Patiala police book 3 friends, including 2 minors, for murder.
 
-
-### OTHER on 2026-10-24 15:35
-- Location: Us Weekly
-- Description: Meghan Markle’s half-brother, Thomas Markle Jr., is speaking out after accusing their father, Thomas Markle Sr., of possessing child sexual abuse materials. “It’s incredible that he is still in denial,” Thomas Jr., 60, told The Sun on Friday, October 23, afte…
-
-
-### OTHER on 2026-10-24 15:31
-- Location: Protothema.gr
-- Description: Thousands take to the streets across France despite sweeping protest bans and the deployment of 70,000 police officers, while demonstrators in Tirana clash with security forces amid reports of rubber bullets being fired France faced another day of nationwide …
-
-
-### OTHER on 2026-10-24 15:26
-- Location: The Times of India
-- Description: Three men arrested in Garhwa for allegedly raping a 13-year-old after a Durga Puja fair; police filed a POCSO case and sent the survivor for medical exam.
-
-Analysis generated at: Sun Oct 25 15:50:45 UTC 2026
+Analysis generated at: Sun Oct 25 20:18:51 UTC 2026
