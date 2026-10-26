@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Oct 25 20:18:51 UTC 2026
+Last updated: Mon Oct 26 02:44:30 UTC 2026
 
 ## Latest Analysis
 
-Loaded 143490 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-24 20:12:35
+Loaded 143507 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-25 02:42:10
 
 Incidents by source:
 source
-newsapi           143389
+newsapi           143406
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,30 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-10-24 20:12
-- Location: Slashdot.org
-- Description: German man arrested for allegedly driving American teen girl to die by suicide, prosecutors sayCBS News German teen arrested on suspicion of murder in connection with US girl's deathABC News - Breaking News, Latest News and Videos FWPD, FBI, German officials …
-
-
-### OTHER on 2026-10-24 20:00
-- Location: TVLine
-- Description: TVLine offers a look at what to watch in the week ahead: A handy roundup of new TV premieres and show finales to help you plan your viewing for October 25-31.
-
-
-### HOMICIDE on 2026-10-24 19:58
-- Location: Dailymail.com
-- Description: Mohamed Abotaka, was arrested after the body of Ali Barzai was found in a wheelie bin in West Hoe, Plymouth, at around 6.40am on Wednesday.
-
-
-### HOMICIDE on 2026-10-24 19:48
+### ROBBERY/THEFT on 2026-10-25 02:42
 - Location: The Times of India
-- Description: CCTV from Shraddha Dubey’s apartment shows her, sister Rashmi and Shiva Sharma together, aiding Lucknow police probe into Sharma’s fatal fall; suicide vs murder.
+- Description: A 26-year-old Flipkart delivery agent in Gujarat was arrested after Bhavnagar police recovered goods worth Rs 4.60 lakh, including 13 mobile phones, Apple AirPods, watches and perfumes. Police allege he stole customer parcels in Surat around 15 days earlier a…
 
 
-### HOMICIDE on 2026-10-24 19:47
+### HOMICIDE on 2026-10-25 02:30
 - Location: The Times of India
-- Description: Missing 17-year-old Nabha Class 12 student found dead in Bhakhra Canal after 3 days; Patiala police book 3 friends, including 2 minors, for murder.
+- Description: A Bengaluru advocate was found unconscious on the Outer Ring Road and later died in the hospital. Initially thought to have suffered a heart attack, his family's suspicion prompted a post-mortem examination. This examination revealed a blood clot in his brain…
 
-Analysis generated at: Sun Oct 25 20:18:51 UTC 2026
+
+### HOMICIDE on 2026-10-25 02:17
+- Location: Israelnationalnews.com
+- Description: French police discover Hitler's "Mein Kampf" at the home of a suspect in a shooting near Paris that killed one and wounded five, including a critically injured girl.
+
+
+### OTHER on 2026-10-25 02:08
+- Location: The Times of India
+- Description: Brazil gears up for a thrilling presidential run-off featuring incumbent Luiz Inácio Lula da Silva against challenger Flávio Bolsonaro. Despite Bolsonaro's lead in the first round, Lula's vibrant rallies aim to rally supporters and boost voter turnout. Bolson…
+
+
+### OTHER on 2026-10-25 02:03
+- Location: ComicBook.com
+- Description: Image Courtesy of Warner Bros
+
+Clayface is the newest DC Universe (DCU) movie, and instead of a superhero or even a supervillain movie, it is a straight horror film for the studio. The movie follows Batman’s comic book villain who can change his shape and eve…
+
+Analysis generated at: Mon Oct 26 02:44:30 UTC 2026
