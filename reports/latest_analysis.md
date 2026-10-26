@@ -1,10 +1,10 @@
 
-Loaded 143507 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-25 02:42:10
+Loaded 143516 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-25 04:02:52
 
 Incidents by source:
 source
-newsapi           143406
+newsapi           143415
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,30 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2026-10-25 02:42
+### HOMICIDE on 2026-10-25 04:02
+- Location: Dailymail.com
+- Description: Sloane Grodnick's friends said she was 'silly, she was funny, and she deserved so much more.'
+
+
+### OTHER on 2026-10-25 04:00
+- Location: Americanthinker.com
+- Description: By Monica ShowalterMaria Corina Machado made a triumphant return to Lara state in western Venezuela on Sunday morning. Surprise, commies and cynics!
+
+
+### SHOOTING on 2026-10-25 03:42
+- Location: New York Post
+- Description: The exact number of victims and extent of injuries remains unclear, authorities said.
+
+
+### HOMICIDE on 2026-10-25 03:27
 - Location: The Times of India
-- Description: A 26-year-old Flipkart delivery agent in Gujarat was arrested after Bhavnagar police recovered goods worth Rs 4.60 lakh, including 13 mobile phones, Apple AirPods, watches and perfumes. Police allege he stole customer parcels in Surat around 15 days earlier a…
+- Description: Chandrakant Shinde, a farmer from Malkoutha village, was found hanging inside Khalsa Finance's office after a loan dispute. Allegations from Shinde's family include assault and confinement by company employees. The family said that the firm demanded an unreas…
 
 
-### HOMICIDE on 2026-10-25 02:30
-- Location: The Times of India
-- Description: A Bengaluru advocate was found unconscious on the Outer Ring Road and later died in the hospital. Initially thought to have suffered a heart attack, his family's suspicion prompted a post-mortem examination. This examination revealed a blood clot in his brain…
+### SHOOTING on 2026-10-25 03:23
+- Location: NBC News
+- Description: The suspect in the fatal freeway shooting of a high school girl just outside St. Louis is being investigated in connection with a second roadway shooting, court documents show.
 
-
-### HOMICIDE on 2026-10-25 02:17
-- Location: Israelnationalnews.com
-- Description: French police discover Hitler's "Mein Kampf" at the home of a suspect in a shooting near Paris that killed one and wounded five, including a critically injured girl.
-
-
-### OTHER on 2026-10-25 02:08
-- Location: The Times of India
-- Description: Brazil gears up for a thrilling presidential run-off featuring incumbent Luiz Inácio Lula da Silva against challenger Flávio Bolsonaro. Despite Bolsonaro's lead in the first round, Lula's vibrant rallies aim to rally supporters and boost voter turnout. Bolson…
-
-
-### OTHER on 2026-10-25 02:03
-- Location: ComicBook.com
-- Description: Image Courtesy of Warner Bros
-
-Clayface is the newest DC Universe (DCU) movie, and instead of a superhero or even a supervillain movie, it is a straight horror film for the studio. The movie follows Batman’s comic book villain who can change his shape and eve…
-
-Analysis generated at: Mon Oct 26 02:44:30 UTC 2026
+Analysis generated at: Mon Oct 26 04:04:51 UTC 2026
