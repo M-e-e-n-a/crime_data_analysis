@@ -1,10 +1,10 @@
 
-Loaded 143581 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-25 12:04:53
+Loaded 143681 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-25 18:32:05
 
 Incidents by source:
 source
-newsapi           143480
+newsapi           143580
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-10-25 12:04
-- Location: Celebitchy.com
-- Description: Thursday evening was when the Sun broke their story about Thomas Markle Jr. turning in his father, Thomas Markle Sr. Well, I say “turning in,” but Tom Jr. informed the authorities in the Philippines and the FBI, but it looks like the investigations are not be…
-
-
-### OTHER on 2026-10-25 12:03
+### ROBBERY/THEFT on 2026-10-25 18:32
 - Location: The Times of India
-- Description: Manoj Jarange claims that a recently released audio clip regarding a political conspiracy is genuine. He insists that political figures are attempting to discredit the recording by alleging it is artificially generated. Jarange emphasizes the need for a thoro…
+- Description: 17 labourers, mostly women, injured when a car hit their tempo on Sohna-Gurgaon road near Eldeco, overturning it; police probe possible drunk driving.
 
 
-### OTHER on 2026-10-25 12:01
+### ROBBERY/THEFT on 2026-10-25 18:29
 - Location: The Times of India
-- Description: A 19-year-old man in Kolhapur, Maharashtra, was arrested for allegedly stealing 15 tolas of gold jewellery worth Rs 10 lakh from his uncle and using the money to buy a Mahindra Thar. The accused reportedly invited his uncle to the vehicle’s puja ceremony, whe…
+- Description: 343 voter ID cards of Indore residents found in Narmada at Mandleshwar, Khargone; Congress alleges ‘vote chori’ and demands probe as police seize cards.
 
 
-### HOMICIDE on 2026-10-25 12:00
-- Location: Fox News
-- Description: Anna Marlene Somoza's cartel connections helped her evade U.S. Marshals for over 12 years as a fugitive in Mexico after her daughter's 1997 death.
-
-
-### OTHER on 2026-10-25 12:00
+### OTHER on 2026-10-25 18:29
 - Location: The Times of India
-- Description: The promo opens with Ramya pointing out that four contestants are in danger. “There are four people here. You are in the danger zone,” she says, as the visuals show Shama, Muthazhagi, Akshitha and Asmitha. With their positions in the game at stake, attention …
+- Description: Rajkot: Canada-based Vishal Sakariya’s ancestral plot was allegedly sold via impersonation and forged documents; police booked five for cheating, forgery, conspiracy.
 
-Analysis generated at: Mon Oct 26 12:06:45 UTC 2026
+
+### OTHER on 2026-10-25 18:28
+- Location: The Times of India
+- Description: Ahmedabad police seized 1,430 liquor bottles and beer cans worth Rs 3 lakh after an SUV overturned on SG Highway; driver fled, case filed under Prohibition Act.
+
+
+### OTHER on 2026-10-25 18:28
+- Location: The Times of India
+- Description: Two 22-year-olds died and two were injured after a speeding Kia hit a wall on Gandhinagar’s canal road; police booked the driver for reckless driving.
+
+Analysis generated at: Mon Oct 26 18:32:40 UTC 2026
