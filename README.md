@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Oct 27 11:27:14 UTC 2026
+Last updated: Tue Oct 27 17:15:44 UTC 2026
 
 ## Latest Analysis
 
-Loaded 143817 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-26 11:23:03
+Loaded 143915 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-26 17:14:58
 
 Incidents by source:
 source
-newsapi           143716
+newsapi           143814
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-10-26 11:23
-- Location: Breitbart News
-- Description: Over 30,000 Spaniards peacefully gathered in Madrid on Sunday to demand solutions for Ceuta as the North African exclave nears the third month anniversary of the ongoing mass illegal migrant invasion of its territory.
-The post Watch: Thousands March in Suppor…
+### OTHER on 2026-10-26 17:14
+- Location: The Times of India
+- Description: Jaipur man loses ₹4.4 lakh after clicking fake e-challan payment link; ₹4.10 lakh withdrawn from bank, ₹30,000 debited from credit card; FIR filed.
 
 
-### SHOOTING on 2026-10-26 11:22
-- Location: The Punch
-- Description: The Police Command in Enugu State has detained a 28-year-old suspect for allegedly robbing a female Point-of-Sale operator of N200,000 at gunpoint in Obollo-Afor, Udenu Local Government Area. The command’s spokesperson, SP Daniel Ndukwe, disclosed this in a s…
+### OTHER on 2026-10-26 17:14
+- Location: The Times of India
+- Description: In Wasilla, Alaska, a charming miniature railway stretches 3.5 miles, proudly family-run since 1969. This enchanting railroad features tunnels, bridges, and whimsical scale-model towns, captivating visitors of all ages. As a nonprofit organization, it thrives…
 
 
-### OTHER on 2026-10-26 11:20
-- Location: LancasterOnline
-- Description: Each Monday, our digital team takes a look at last week’s top stories on LancasterOnline.
+### OTHER on 2026-10-26 17:14
+- Location: Swns.live
+- Description: A recent survey polling 2,000 homeowners found that the anxiety starts within moments of leaving the house.
 
 
-### SHOOTING on 2026-10-26 11:19
-- Location: New York Post
-- Description: “Sexual violence has no place in any campus community, and we are committed to following all applicable laws, reporting, investigative and student-support processes,” a spokesperson said.
+### ASSAULT on 2026-10-26 17:14
+- Location: The Cut
+- Description: Chris Brown was sentenced to eight months in prison for assaulting a music producer in 2023 but won’t serve time because of a new British law to avoid overcrowding.
 
 
-### OTHER on 2026-10-26 11:14
-- Location: NBC News
-- Description: Netanyahu faces a significant test as Israelis vote in a key election. The ballot measures to watch in the midterms. And a divisional showdown in the NFC North.
+### OTHER on 2026-10-26 17:12
+- Location: The Times of India
+- Description: Iranian women have launched a campaign pledging their wedding rings as a symbolic reward for revenge against US President Donald Trump, with hundreds
 
-Analysis generated at: Tue Oct 27 11:27:14 UTC 2026
+Analysis generated at: Tue Oct 27 17:15:44 UTC 2026
