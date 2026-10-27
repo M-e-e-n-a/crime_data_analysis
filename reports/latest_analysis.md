@@ -1,10 +1,10 @@
 
-Loaded 143915 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-26 17:14:58
+Loaded 143995 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-26 17:48:00
 
 Incidents by source:
 source
-newsapi           143814
+newsapi           143894
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-10-26 17:14
+### OTHER on 2026-10-26 17:48
 - Location: The Times of India
-- Description: Jaipur man loses ₹4.4 lakh after clicking fake e-challan payment link; ₹4.10 lakh withdrawn from bank, ₹30,000 debited from credit card; FIR filed.
+- Description: The Maharashtra Highway Police are enforcing permanent traffic restrictions on the Mumbai-Pune Expressway. All goods vehicles, including small commercial ones, will be banned starting November 1. Non-transport light motor vehicles and passenger buses will sti…
 
 
-### OTHER on 2026-10-26 17:14
+### OTHER on 2026-10-26 17:45
 - Location: The Times of India
-- Description: In Wasilla, Alaska, a charming miniature railway stretches 3.5 miles, proudly family-run since 1969. This enchanting railroad features tunnels, bridges, and whimsical scale-model towns, captivating visitors of all ages. As a nonprofit organization, it thrives…
+- Description: Around 1,000 people from 19 former Maoist-affected Odisha districts will attend Rashtriya Ekta Divas in Gujarat on Oct 31, marking the end of Naxalism.
 
 
-### OTHER on 2026-10-26 17:14
-- Location: Swns.live
-- Description: A recent survey polling 2,000 homeowners found that the anxiety starts within moments of leaving the house.
-
-
-### ASSAULT on 2026-10-26 17:14
-- Location: The Cut
-- Description: Chris Brown was sentenced to eight months in prison for assaulting a music producer in 2023 but won’t serve time because of a new British law to avoid overcrowding.
-
-
-### OTHER on 2026-10-26 17:12
+### OTHER on 2026-10-26 17:44
 - Location: The Times of India
-- Description: Iranian women have launched a campaign pledging their wedding rings as a symbolic reward for revenge against US President Donald Trump, with hundreds
+- Description: Punjab saw 103 farm fire cases on Monday, taking the season total to 684 by Oct 26; 126 FIRs filed, Rs 12.4 lakh EC imposed, 222 red entries made.
 
-Analysis generated at: Tue Oct 27 17:15:44 UTC 2026
+
+### ASSAULT on 2026-10-26 17:44
+- Location: The Times of India
+- Description: In a distressing incident, a 30-year-old woman was deceived by a man named Jaganmohan, who lured her with the promise of a government job for Rs 4.5 lakh. He assaulted her at the Sreenidhi Resort and then callously threw her from a moving vehicle on the highw…
+
+
+### OTHER on 2026-10-26 17:44
+- Location: The Times of India
+- Description: CPM leader Brinda Karat meets Ken-Betwa dam protesters in MP, alleges forced tribal evictions, police harassment and questions activist Divya Ahirwar’s arrest.
+
+Analysis generated at: Tue Oct 27 17:48:35 UTC 2026
