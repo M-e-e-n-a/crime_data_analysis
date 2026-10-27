@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Oct 27 03:19:03 UTC 2026
+Last updated: Tue Oct 27 04:25:08 UTC 2026
 
 ## Latest Analysis
 
-Loaded 143751 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-26 02:54:03
+Loaded 143760 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-26 04:24:35
 
 Incidents by source:
 source
-newsapi           143650
+newsapi           143659
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-10-26 02:54
+### OTHER on 2026-10-26 04:24
 - Location: New York Post
-- Description: The alleged pyro asked a witness if she could borrow a lighter – before dousing the victim in an accelerant and setting him alight, cops said.
+- Description: “Although it may seem like just a Halloween decoration, Ellie was part of a family display that our children loved,” the homeowner said of a skeleton dog decoration.
 
 
-### HOMICIDE on 2026-10-26 02:40
-- Location: ABC News (AU)
-- Description: The accused told his friend he had "misheard" an alleged confession he had "killed people" in recordings played to court.
+### OTHER on 2026-10-26 04:16
+- Location: Israelnationalnews.com
+- Description: NYPD arrests a Brooklyn woman after a Jewish rabbinical student was stabbed in Manhattan's Diamond District.
 
 
-### OTHER on 2026-10-26 02:38
-- Location: The Times of India
-- Description: The Madhya Pradesh Employees Selection Board has released the MP Police SI and Subedar Admit Card 2026 on October 24. Candidates appearing for the preliminary written examination, scheduled to begin on October 28, can download their hall tickets from esb.mp.g…
+### OTHER on 2026-10-26 04:09
+- Location: Fortune
+- Description: With 100% of the vote counted, Brazil’s electoral court announced that the soon to be 81-year-old Lula had a lead of nearly 4.4 million votes over opponent Flávio Bolsonaro.
 
 
-### OTHER on 2026-10-26 02:15
-- Location: Dailymail.com
-- Description: Authorities are currently trawling through a trove of child abuse images that allegedly belong to Meghan Markle's 82-year-old father.
+### OTHER on 2026-10-26 04:04
+- Location: Juancole.com
+- Description: The PM has an election to win, and the security and military forces have become his electioneering playthings
 
 
-### OTHER on 2026-10-26 02:09
-- Location: ABC News (AU)
-- Description: The young women and some of their mothers had gathered at Bayside Park on February 21 after Iftar, a meal eaten after sunset during the Islamic month of Ramadan.
+### OTHER on 2026-10-26 04:01
+- Location: Streetsblog.org
+- Description: Two new stories about the city's slow installation of speed humps. Plus other news.
 
-Analysis generated at: Tue Oct 27 03:19:03 UTC 2026
+Analysis generated at: Tue Oct 27 04:25:08 UTC 2026
