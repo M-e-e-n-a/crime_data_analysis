@@ -1,10 +1,10 @@
 
-Loaded 143995 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-26 17:48:00
+Loaded 144059 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-26 21:35:26
 
 Incidents by source:
 source
-newsapi           143894
+newsapi           143958
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-10-26 17:48
-- Location: The Times of India
-- Description: The Maharashtra Highway Police are enforcing permanent traffic restrictions on the Mumbai-Pune Expressway. All goods vehicles, including small commercial ones, will be banned starting November 1. Non-transport light motor vehicles and passenger buses will sti…
+### OTHER on 2026-10-26 21:35
+- Location: TheJournal.ie
+- Description: The most important Irish and international stories you need to know today.
 
 
-### OTHER on 2026-10-26 17:45
-- Location: The Times of India
-- Description: Around 1,000 people from 19 former Maoist-affected Odisha districts will attend Rashtriya Ekta Divas in Gujarat on Oct 31, marking the end of Naxalism.
+### HOMICIDE on 2026-10-26 21:34
+- Location: CBC News
+- Description: One week before the Crown’s key witness was scheduled to testify at her former boyfriend’s second-degree murder trial in Calgary, police say someone set fire to the home where she was staying, CBC News can now report.
 
 
-### OTHER on 2026-10-26 17:44
-- Location: The Times of India
-- Description: Punjab saw 103 farm fire cases on Monday, taking the season total to 684 by Oct 26; 126 FIRs filed, Rs 12.4 lakh EC imposed, 222 red entries made.
+### HOMICIDE on 2026-10-26 21:31
+- Location: BBC News
+- Description: Erdem Mustafa, 35, was shot dead in Hertford Road, Enfield, last Monday.
 
 
-### ASSAULT on 2026-10-26 17:44
-- Location: The Times of India
-- Description: In a distressing incident, a 30-year-old woman was deceived by a man named Jaganmohan, who lured her with the promise of a government job for Rs 4.5 lakh. He assaulted her at the Sreenidhi Resort and then callously threw her from a moving vehicle on the highw…
+### OTHER on 2026-10-26 21:27
+- Location: New York Post
+- Description: New York law enforcement leaders from across the state endorsed Bruce Blakeman for governor on his Nassau County home turf — calling him the “common sense” choice over Gov. Kathy Hochul.  “This election is not about Democrat versus Republican. It’s about comm…
 
 
-### OTHER on 2026-10-26 17:44
-- Location: The Times of India
-- Description: CPM leader Brinda Karat meets Ken-Betwa dam protesters in MP, alleges forced tribal evictions, police harassment and questions activist Divya Ahirwar’s arrest.
+### OTHER on 2026-10-26 21:22
+- Location: Rolling Stone
+- Description: Ahead of a potentially disastrous election for Republicans, the president is once again trying to put his — or America's — wallet on the scale
 
-Analysis generated at: Tue Oct 27 17:48:35 UTC 2026
+Analysis generated at: Tue Oct 27 21:44:22 UTC 2026
