@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Oct 28 18:12:07 UTC 2026
+Last updated: Wed Oct 28 22:07:25 UTC 2026
 
 ## Latest Analysis
 
-Loaded 144272 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-27 18:10:54
+Loaded 144357 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-27 22:06:44
 
 Incidents by source:
 source
-newsapi           144171
+newsapi           144256
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-10-27 18:10
-- Location: The Times of India
-- Description: "All superintendents of police have been instructed to immediately file a case if anyone (microfinance companies) is found harassing any farmer for repayment of dues. We have told them that if they find that microfinance companies are threatening or using for…
+### HOMICIDE on 2026-10-27 22:06
+- Location: New York Post
+- Description: Tania Morales, 24, was discovered unconscious with trauma to her head and a cut on her wrist inside her home on tree-lined Park Drive East near Jewel Avenue in Kew Gardens Hills around 8:30 p.m., police said.
 
 
-### HOMICIDE on 2026-10-27 18:06
-- Location: The Times of India
-- Description: Mau police arrest murder accused Raju Rajbhar after 18 months for faking death by cremating a goat, using fake certificate, and claiming Rs 10 lakh insurance.
+### ASSAULT on 2026-10-27 22:04
+- Location: New York Post
+- Description: The ramped-up police presence comes as authorities advised the public to be on the lookout for the slender, bearded predator in all black who sexually assaulted a 39-year-old woman in a wooded area on the east side of the park Saturday night.
 
 
-### OTHER on 2026-10-27 18:06
-- Location: The Times of India
-- Description: Cygnus Cross announced a delay in the Early Access launch of Emberville to January 7, 2027. The decision followed player feedback from the demo showcased during Steam Next Fest. Developers emphasised the need for essential improvements to enhance the gameplay…
+### HOMICIDE on 2026-10-27 22:00
+- Location: Fox News
+- Description: A retired FBI agent told Fox News Digital that Jacob Allen Morley's abandoned truck in Marion, Illinois, may reveal the escaped killer's next move.
 
 
-### OTHER on 2026-10-27 18:04
-- Location: Variety
-- Description: Opening on Oct. 30 with “American Hostage,” honoring “Toy Boy” showrunner Ronan Bennett and “Money Heist” star Alvaro Morte, the fourth edition of South International Series Festival weighs in with a mouthwatering fiction competition, dominated by series from…
+### OTHER on 2026-10-27 21:53
+- Location: Breitbart News
+- Description: The New York Times is blessing the city's population of illegal migrant street vendors as noble martyrs, despite the diverse economic damage they impose on ordinary New Yorkers.
+The post NY Times Endorses Migrants’ Law-Breaking, Poverty, and Exploitation appe…
 
 
-### ROBBERY/THEFT on 2026-10-27 18:04
-- Location: The Times of India
-- Description: Delhi Police IFSO busted a cyber fraud racket after Rs 3.9 crore theft; 7 arrested for laundering via mule accounts, hawala and USDT crypto.
+### HOMICIDE on 2026-10-27 21:51
+- Location: Fox News
+- Description: Federal law enforcement sources told Fox News the man killed by an off-duty FBI agent at a Chicago homeless encampment was a Biden-era border release.
 
-Analysis generated at: Wed Oct 28 18:12:07 UTC 2026
+Analysis generated at: Wed Oct 28 22:07:25 UTC 2026
