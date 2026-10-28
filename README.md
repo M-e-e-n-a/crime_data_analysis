@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Oct 27 21:44:22 UTC 2026
+Last updated: Wed Oct 28 03:34:44 UTC 2026
 
 ## Latest Analysis
 
-Loaded 144059 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-26 21:35:26
+Loaded 144089 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-27 03:22:28
 
 Incidents by source:
 source
-newsapi           143958
+newsapi           143988
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-10-26 21:35
-- Location: TheJournal.ie
-- Description: The most important Irish and international stories you need to know today.
+### SHOOTING on 2026-10-27 03:22
+- Location: ABC News (AU)
+- Description: The 19-year-old is fighting for her life in intensive care after being gunned down by two masked men outside Fitzys Loganholme on Saturday night.
 
 
-### HOMICIDE on 2026-10-26 21:34
-- Location: CBC News
-- Description: One week before the Crown’s key witness was scheduled to testify at her former boyfriend’s second-degree murder trial in Calgary, police say someone set fire to the home where she was staying, CBC News can now report.
+### HOMICIDE on 2026-10-27 03:21
+- Location: The Times of India
+- Description: A 23-year-old man named Prahlad Das, accused of raping and murdering a teenager, was killed in an encounter. He allegedly snatched a police revolver during a crime scene reconstruction and attempted to escape. The girl’s body was discovered in Gaighata, where…
 
 
-### HOMICIDE on 2026-10-26 21:31
-- Location: BBC News
-- Description: Erdem Mustafa, 35, was shot dead in Hertford Road, Enfield, last Monday.
+### HOMICIDE on 2026-10-27 03:20
+- Location: Gossiplankanews.com
+- Description: A key female suspect wanted in connection with the brutal shooting and killing of two young children and their father near the Middeniya Kadewatta junction last February has been arrested in the United Arab Emirates and brought back to the island.
+<!--gossip…
 
 
-### OTHER on 2026-10-26 21:27
+### OTHER on 2026-10-27 03:17
+- Location: The Times of India
+- Description: The Karnataka High Court has dismissed the criminal charges against homebuyer Mr. Bari, who stopped repaying his loan EMIs after learning that the builder had sold his booked flat to another buyer. The State Bank of India accused Bari of misusing the loan fun…
+
+
+### SHOOTING on 2026-10-27 03:04
 - Location: New York Post
-- Description: New York law enforcement leaders from across the state endorsed Bruce Blakeman for governor on his Nassau County home turf — calling him the “common sense” choice over Gov. Kathy Hochul.  “This election is not about Democrat versus Republican. It’s about comm…
+- Description: A wild rap video shoot at a California Airbnb exploded into a chaotic shooting battle early Sunday after uninvited guests were denied entry.
 
-
-### OTHER on 2026-10-26 21:22
-- Location: Rolling Stone
-- Description: Ahead of a potentially disastrous election for Republicans, the president is once again trying to put his — or America's — wallet on the scale
-
-Analysis generated at: Tue Oct 27 21:44:22 UTC 2026
+Analysis generated at: Wed Oct 28 03:34:44 UTC 2026
