@@ -1,10 +1,10 @@
 
-Loaded 144263 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-27 17:53:46
+Loaded 144272 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-27 18:10:54
 
 Incidents by source:
 source
-newsapi           144162
+newsapi           144171
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-10-27 17:53
-- Location: New York Post
-- Description: A New Mexico dad fatally shot his longtime partner before turning the gun on himself over the weekend — while their five children were inside the house. Las Cruces police officers dispatched to the family’s residence around 8:30 a.m. Saturday discovered the b…
+### OTHER on 2026-10-27 18:10
+- Location: The Times of India
+- Description: "All superintendents of police have been instructed to immediately file a case if anyone (microfinance companies) is found harassing any farmer for repayment of dues. We have told them that if they find that microfinance companies are threatening or using for…
 
 
-### HOMICIDE on 2026-10-27 17:51
-- Location: New York Post
-- Description: A homeless mom shot and killed her 2-year-old daughter before taking her own life near a church where they’d been living, according to police and devastated family members. Abria Spriggs, 31, and her young daughter were found Sunday morning dead with gunshot …
+### HOMICIDE on 2026-10-27 18:06
+- Location: The Times of India
+- Description: Mau police arrest murder accused Raju Rajbhar after 18 months for faking death by cremating a goat, using fake certificate, and claiming Rs 10 lakh insurance.
 
 
-### HOMICIDE on 2026-10-27 17:51
-- Location: Fox News
-- Description: DNA evidence is expected to link Ted Bundy to another decades-old Utah homicide, months after the same technology tied him to Laura Ann Aime's killing.
+### OTHER on 2026-10-27 18:06
+- Location: The Times of India
+- Description: Cygnus Cross announced a delay in the Early Access launch of Emberville to January 7, 2027. The decision followed player feedback from the demo showcased during Steam Next Fest. Developers emphasised the need for essential improvements to enhance the gameplay…
 
 
-### OTHER on 2026-10-27 17:48
-- Location: Newser
-- Description: A phone scammer allegedly took "no" to a brutal new level in Nova Scotia. The CBC reports that realtor Lynn Clark Colpitts received a call from a woman claiming to be from the fraud department of the Canadian Imperial Bank of Commerce. When Colpitts declined …
+### OTHER on 2026-10-27 18:04
+- Location: Variety
+- Description: Opening on Oct. 30 with “American Hostage,” honoring “Toy Boy” showrunner Ronan Bennett and “Money Heist” star Alvaro Morte, the fourth edition of South International Series Festival weighs in with a mouthwatering fiction competition, dominated by series from…
 
 
-### ROBBERY/THEFT on 2026-10-27 17:47
-- Location: Wnd.com
-- Description: 2 years in federal slammer handed orchestrator
+### ROBBERY/THEFT on 2026-10-27 18:04
+- Location: The Times of India
+- Description: Delhi Police IFSO busted a cyber fraud racket after Rs 3.9 crore theft; 7 arrested for laundering via mule accounts, hawala and USDT crypto.
 
-Analysis generated at: Wed Oct 28 17:54:11 UTC 2026
+Analysis generated at: Wed Oct 28 18:12:07 UTC 2026
