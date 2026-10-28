@@ -1,10 +1,10 @@
 
-Loaded 144163 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-27 11:38:14
+Loaded 144263 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-27 17:53:46
 
 Incidents by source:
 source
-newsapi           144062
+newsapi           144162
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,30 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-10-27 11:38
-- Location: The Times of India
-- Description: A Sydney couple turned a 1907 tram substation in Rozelle into a four-bedroom family home, and the historic former transport building sold at auction for $3.9 million
+### HOMICIDE on 2026-10-27 17:53
+- Location: New York Post
+- Description: A New Mexico dad fatally shot his longtime partner before turning the gun on himself over the weekend — while their five children were inside the house. Las Cruces police officers dispatched to the family’s residence around 8:30 a.m. Saturday discovered the b…
 
 
-### OTHER on 2026-10-27 11:37
-- Location: Screen Rant
-- Description: Eight crime movies have earned higher Letterboxd ratings than Goodfellas, from tense prison escapes to family betrayals that are hard to forget.
+### HOMICIDE on 2026-10-27 17:51
+- Location: New York Post
+- Description: A homeless mom shot and killed her 2-year-old daughter before taking her own life near a church where they’d been living, according to police and devastated family members. Abria Spriggs, 31, and her young daughter were found Sunday morning dead with gunshot …
 
 
-### OTHER on 2026-10-27 11:30
-- Location: Mother Jones
-- Description: In June 2025, before Zohran Mamdani was elected mayor of New York City, he went on a popular internet show called Subway Takes. It’s what it sounds like: The show’s comedian host invites guests to join him on a subway car and then, as they rattle along, grill…
+### HOMICIDE on 2026-10-27 17:51
+- Location: Fox News
+- Description: DNA evidence is expected to link Ted Bundy to another decades-old Utah homicide, months after the same technology tied him to Laura Ann Aime's killing.
 
 
-### HOMICIDE on 2026-10-27 11:24
-- Location: Dailymail.com
-- Description: Over a 15-year period between 2010 and 2025, 'evil' Mujurizi Moses is suspected of having butchered 38 people.
+### OTHER on 2026-10-27 17:48
+- Location: Newser
+- Description: A phone scammer allegedly took "no" to a brutal new level in Nova Scotia. The CBC reports that realtor Lynn Clark Colpitts received a call from a woman claiming to be from the fraud department of the Canadian Imperial Bank of Commerce. When Colpitts declined …
 
 
-### HOMICIDE on 2026-10-27 11:20
-- Location: The Punch
-- Description: President Bola Tinubu has condemned the killing of Islamic preacher, Sheikh Yahaya Masussuka, in Katsina State, ordering security agencies to find the kill
+### ROBBERY/THEFT on 2026-10-27 17:47
+- Location: Wnd.com
+- Description: 2 years in federal slammer handed orchestrator
 
-Read More: https://punchng.com/tinubu-condemns-killing-of-katsina-islamic-preacher-orders-probe/
-
-Analysis generated at: Wed Oct 28 11:59:44 UTC 2026
+Analysis generated at: Wed Oct 28 17:54:11 UTC 2026
