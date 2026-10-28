@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Oct 28 04:56:44 UTC 2026
+Last updated: Wed Oct 28 11:59:44 UTC 2026
 
 ## Latest Analysis
 
-Loaded 144095 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-27 04:28:05
+Loaded 144163 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-27 11:38:14
 
 Incidents by source:
 source
-newsapi           143994
+newsapi           144062
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,30 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-10-27 04:28
+### OTHER on 2026-10-27 11:38
 - Location: The Times of India
-- Description: A deadly shooting occurred at Hotel Bilas Inn in Guwahati, leaving five people dead and one injured. The accused, Ghanakanta Gogoi, had a dispute over the hotel's lease agreement and opened fire. Police arrested him shortly after the incident, seizing a licen…
+- Description: A Sydney couple turned a 1907 tram substation in Rozelle into a four-bedroom family home, and the historic former transport building sold at auction for $3.9 million
 
 
-### OTHER on 2026-10-27 04:03
-- Location: Fox News
-- Description: Body camera video shows deputies arresting Irene Miller at the airport after her four children were found home alone while she was in Las Vegas.
+### OTHER on 2026-10-27 11:37
+- Location: Screen Rant
+- Description: Eight crime movies have earned higher Letterboxd ratings than Goodfellas, from tense prison escapes to family betrayals that are hard to forget.
 
 
-### HOMICIDE on 2026-10-27 04:00
-- Location: The Times of India
-- Description: Teerath Singh was shot dead outside a gurdwara in Cheete Kalan village while his friend sustained injuries. Both men were returning from paying respects at the gurdwara when the suspected assailants opened fire. Preliminary investigations indicate the murder …
+### OTHER on 2026-10-27 11:30
+- Location: Mother Jones
+- Description: In June 2025, before Zohran Mamdani was elected mayor of New York City, he went on a popular internet show called Subway Takes. It’s what it sounds like: The show’s comedian host invites guests to join him on a subway car and then, as they rattle along, grill…
 
 
-### OTHER on 2026-10-27 04:00
-- Location: Americanthinker.com
-- Description: By Monica ShowalterSupreme Court Justice Alexandre de Moraes reared his ugly head again.
+### HOMICIDE on 2026-10-27 11:24
+- Location: Dailymail.com
+- Description: Over a 15-year period between 2010 and 2025, 'evil' Mujurizi Moses is suspected of having butchered 38 people.
 
 
-### HOMICIDE on 2026-10-27 03:42
-- Location: CBC News
-- Description: A Calgary mother sobbed in the courtroom gallery as a jury found her son’s killer guilty of second-degree murder, more than three years after he was beaten and overdosed on fentanyl.
+### HOMICIDE on 2026-10-27 11:20
+- Location: The Punch
+- Description: President Bola Tinubu has condemned the killing of Islamic preacher, Sheikh Yahaya Masussuka, in Katsina State, ordering security agencies to find the kill
 
-Analysis generated at: Wed Oct 28 04:56:44 UTC 2026
+Read More: https://punchng.com/tinubu-condemns-killing-of-katsina-islamic-preacher-orders-probe/
+
+Analysis generated at: Wed Oct 28 11:59:44 UTC 2026
