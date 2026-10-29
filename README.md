@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Oct 29 03:55:48 UTC 2026
+Last updated: Thu Oct 29 05:05:18 UTC 2026
 
 ## Latest Analysis
 
-Loaded 144382 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-28 03:27:41
+Loaded 144391 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-28 04:59:42
 
 Incidents by source:
 source
-newsapi           144281
+newsapi           144290
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-10-28 03:27
-- Location: New York Post
-- Description: In exclusive comments to the California Post, McDonnell said the socialist mayoral candidate was off-base when she criticized him.
+### HOMICIDE on 2026-10-28 04:59
+- Location: The Times of India
+- Description: A Delhi government accountant is in the ICU after being stabbed repeatedly while sleeping beside his daughter at home in Vasundhara. Police allege that his wife and her gym trainer, with whom she was reportedly in a relationship, conspired to kill him after t…
 
 
-### OTHER on 2026-10-28 03:21
-- Location: The Conversation Africa
-- Description: With neither major bloc looking like it will form a majority, the negotiations will begin. And it will take some time before there is a winner.
+### ASSAULT on 2026-10-28 04:58
+- Location: Dailymail.com
+- Description: Ryan Anderson was sacked from the Coles Pyrmont store after he caught two teenagers stealing.
 
 
-### OTHER on 2026-10-28 03:19
-- Location: NPR
-- Description: The number of state and local officers working with Immigration and Customs Enforcement has doubled in size in the last eight months, according to a new report from the immigration reform advocacy group FWD.us.
+### SHOOTING on 2026-10-28 04:53
+- Location: Slashdot.org
+- Description: Bend, Oregon, shooter previously said he was bullied and told police he was assaulted at homeNBC News Police reports reveal Bend school shooter was allegedly assaulted twice, bullied at schoolKGW An Oregon parent has never been prosecuted for a child’s mass s…
 
 
-### OTHER on 2026-10-28 03:10
+### ASSAULT on 2026-10-28 04:52
+- Location: The Spokesman-Review
+- Description: A fatal dog attack in Hayden accentuated the ongoing law enforcement contract dispute and confusion between the city and Kootenai County Sheriff’s Office.
+
+
+### OTHER on 2026-10-28 04:47
 - Location: ABC News (AU)
-- Description: A senior official tells the ABC that Australia and other countries have provided public support and help through "quiet diplomacy" as the Trump administration forges ahead with sanctions against the International Criminal Court.
+- Description: One of her sister's told the jury she and Ms Crawford were close and spoke regularly, and she was aware the couple's "marriage was in disrepair".
 
-
-### HOMICIDE on 2026-10-28 03:00
-- Location: New York Post
-- Description: Another former fiancé of Smith claimed to detectives earlier this year that he routinely choked her to the point of passing out with his bare hands or a belt during sex and during arguments, and threatened to make her disappear.
-
-Analysis generated at: Thu Oct 29 03:55:48 UTC 2026
+Analysis generated at: Thu Oct 29 05:05:18 UTC 2026
