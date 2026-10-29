@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Oct 28 22:07:25 UTC 2026
+Last updated: Thu Oct 29 03:55:48 UTC 2026
 
 ## Latest Analysis
 
-Loaded 144357 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-27 22:06:44
+Loaded 144382 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-28 03:27:41
 
 Incidents by source:
 source
-newsapi           144256
+newsapi           144281
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-10-27 22:06
+### OTHER on 2026-10-28 03:27
 - Location: New York Post
-- Description: Tania Morales, 24, was discovered unconscious with trauma to her head and a cut on her wrist inside her home on tree-lined Park Drive East near Jewel Avenue in Kew Gardens Hills around 8:30 p.m., police said.
+- Description: In exclusive comments to the California Post, McDonnell said the socialist mayoral candidate was off-base when she criticized him.
 
 
-### ASSAULT on 2026-10-27 22:04
+### OTHER on 2026-10-28 03:21
+- Location: The Conversation Africa
+- Description: With neither major bloc looking like it will form a majority, the negotiations will begin. And it will take some time before there is a winner.
+
+
+### OTHER on 2026-10-28 03:19
+- Location: NPR
+- Description: The number of state and local officers working with Immigration and Customs Enforcement has doubled in size in the last eight months, according to a new report from the immigration reform advocacy group FWD.us.
+
+
+### OTHER on 2026-10-28 03:10
+- Location: ABC News (AU)
+- Description: A senior official tells the ABC that Australia and other countries have provided public support and help through "quiet diplomacy" as the Trump administration forges ahead with sanctions against the International Criminal Court.
+
+
+### HOMICIDE on 2026-10-28 03:00
 - Location: New York Post
-- Description: The ramped-up police presence comes as authorities advised the public to be on the lookout for the slender, bearded predator in all black who sexually assaulted a 39-year-old woman in a wooded area on the east side of the park Saturday night.
+- Description: Another former fiancé of Smith claimed to detectives earlier this year that he routinely choked her to the point of passing out with his bare hands or a belt during sex and during arguments, and threatened to make her disappear.
 
-
-### HOMICIDE on 2026-10-27 22:00
-- Location: Fox News
-- Description: A retired FBI agent told Fox News Digital that Jacob Allen Morley's abandoned truck in Marion, Illinois, may reveal the escaped killer's next move.
-
-
-### OTHER on 2026-10-27 21:53
-- Location: Breitbart News
-- Description: The New York Times is blessing the city's population of illegal migrant street vendors as noble martyrs, despite the diverse economic damage they impose on ordinary New Yorkers.
-The post NY Times Endorses Migrants’ Law-Breaking, Poverty, and Exploitation appe…
-
-
-### HOMICIDE on 2026-10-27 21:51
-- Location: Fox News
-- Description: Federal law enforcement sources told Fox News the man killed by an off-duty FBI agent at a Chicago homeless encampment was a Biden-era border release.
-
-Analysis generated at: Wed Oct 28 22:07:25 UTC 2026
+Analysis generated at: Thu Oct 29 03:55:48 UTC 2026
