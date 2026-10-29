@@ -1,10 +1,10 @@
 
-Loaded 144481 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-28 12:04:02
+Loaded 144579 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-28 18:17:29
 
 Incidents by source:
 source
-newsapi           144380
+newsapi           144478
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,30 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-10-28 12:04
-- Location: Common Dreams
-- Description: On a glowing September day in Vermont, most people were working or taking a walk in the woods or raking leaves or just being thankful for the beauty. Instead, seven faith leaders blocked the entrance
- to Immigration and Custom Enforcement’s National Criminal…
+### OTHER on 2026-10-28 18:17
+- Location: Fpif.org
+- Description: Two years ago, Serbian students started their protests, endorsed by many citizens, in an honest, almost naive way. They declared that they wanted the end of corruption, press freedom, prosecution of the culprits behind the collapse of the Novi Sad rail statio…
 
 
-### OTHER on 2026-10-28 12:01
-- Location: Hollywood Reporter
-- Description: “The Emmy-winning actress delighted TV viewers with her light-hearted turns on The Name of the Game, McMillan & Wife and Kate & Allie before quitting at the peak of her powers.” – The Hollywood Reporter
+### OTHER on 2026-10-28 18:07
+- Location: Dailymail.com
+- Description: Rogan interviewed Trump and endorsed him for president in 2024 in what was widely seen as a key moment in the race against Democratic nominee Kamala Harris.
 
 
-### OTHER on 2026-10-28 12:00
-- Location: Luminous-landscape.com
-- Description: Here’s a scary story for camera people. A true horror story. You open a drawer and find an old camera. It belonged to someone you...
-The post A Nightmare On Repair Street appeared first on Luminous Landscape.
+### OTHER on 2026-10-28 18:05
+- Location: Gamedaychatter.com
+- Description: LeBron James dismissed Donald Trump’s criticism with a sarcastic remark after video showed the NBA star moving during the national anthem before a Philadelphia 76ers game. Trump accused James of disrespecting the country, while the forward kept his response b…
 
 
-### SHOOTING on 2026-10-28 11:52
-- Location: KUTV 2News
-- Description: A 22-year-old man was taken to the hospital after he was shot by officers responding to reports of a domestic dispute incident in Layton on Tuesday.
-
-
-### HOMICIDE on 2026-10-28 11:51
+### HOMICIDE on 2026-10-28 18:05
 - Location: The Times of India
-- Description: Ramgarh police arrest Gulam Sarwar and sister-in-law Neha Parveen for Jeba Parveen’s murder after body found at home; affair led to fatal fight.
+- Description: Grandfather to raise orphaned siblings after Guwahati hotel shooting that killed five; accused sent to 7-day police custody; CM says arms licence issued by Nagaland.
 
-Analysis generated at: Thu Oct 29 12:08:11 UTC 2026
+
+### HOMICIDE on 2026-10-28 18:04
+- Location: The Times of India
+- Description: Kannauj police arrested Sarvesh Batham after an encounter for allegedly attempting to burn a 60-year-old woman; pistol, cartridges, phone and bike recovered.
+
+Analysis generated at: Thu Oct 29 18:17:40 UTC 2026
