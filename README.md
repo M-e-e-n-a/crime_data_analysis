@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Oct 30 17:49:45 UTC 2026
+Last updated: Fri Oct 30 17:55:54 UTC 2026
 
 ## Latest Analysis
 
-Loaded 144876 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-29 17:39:52
+Loaded 144877 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-29 17:50:00
 
 Incidents by source:
 source
-newsapi           144775
+newsapi           144776
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -23,6 +23,11 @@ ion.svg)
 ![Crime Types](images/crime_types.svg)
 
 ## Recent Incidents
+
+### OTHER on 2026-10-29 17:50
+- Location: ProPublica
+- Description: ProPublica has cataloged every case we can find of an immigration agent detaining a citizen during the current Trump administration. Explore our database to learn more about each incident.
+
 
 ### OTHER on 2026-10-29 17:39
 - Location: The Times of India
@@ -43,9 +48,4 @@ ion.svg)
 - Location: The Times of India
 - Description: In a significant ruling, a Dindoshi sessions court has denied bail for three individuals entangled in a film financing case. The accused allegedly misappropriated Rs 3.92 crore that was earmarked for the production of Naagzilla. The presiding judge pointed to…
 
-
-### SHOOTING on 2026-10-29 17:31
-- Location: Abcnews.com
-- Description: Elke Sommer, the German actor known for her roles in 1960s Hollywood comedies and espionage films, has died at 85
-
-Analysis generated at: Fri Oct 30 17:49:45 UTC 2026
+Analysis generated at: Fri Oct 30 17:55:53 UTC 2026
