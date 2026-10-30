@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Oct 30 12:00:16 UTC 2026
+Last updated: Fri Oct 30 17:49:45 UTC 2026
 
 ## Latest Analysis
 
-Loaded 144777 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-29 12:00:00
+Loaded 144876 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-29 17:39:52
 
 Incidents by source:
 source
-newsapi           144676
+newsapi           144775
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-10-29 12:00
-- Location: The New York Review of Books
-- Description: Two new histories of the Red Brigades explain how terrorism took hold in the wealthiest parts of Italy in the 1970s.
-
-
-### OTHER on 2026-10-29 12:00
-- Location: The New York Review of Books
-- Description: A forensic study of a rape survivor from 1473 Dijon reveals a legal process surprisingly accepting of imperfect victims and contradictory testimony.
-
-
-### OTHER on 2026-10-29 12:00
-- Location: The New York Review of Books
-- Description: Since Citizens United, super PACs have poured billions of dollars into elections. A new book argues that outside money has its biggest impact in local races, where voters know the least.
-
-
-### OTHER on 2026-10-29 11:52
+### OTHER on 2026-10-29 17:39
 - Location: The Times of India
-- Description: Nic Jones transitioned from a media executive to a bus driver in Sydney after facing significant life changes, including the loss of a business and his father's passing. He embraced this new direction by acquiring a bus driving license and began working with …
+- Description: Mumbai Police arrested a 12th accused named Aman in the ongoing firing case involving actor Tiger Shroff. His bank account received suspicious money transfers, prompting further investigation by the police. The special Maharashtra Control of Organised Crime A…
 
 
-### OTHER on 2026-10-29 11:41
-- Location: KRDO
-- Description: By Tal Shalev, CNN Jerusalem (CNN) — No clear winner has emerged from Israel’s election with all the votes counted, according to the Israeli Central
+### OTHER on 2026-10-29 17:39
+- Location: ARTnews
+- Description: Two suspected burglars who might have been after rare porcelain fled Dresden's Zwinger museum complex after a running into a security guard.
 
-Analysis generated at: Fri Oct 30 12:00:16 UTC 2026
+
+### OTHER on 2026-10-29 17:36
+- Location: New York Post
+- Description: New York's top elected attorneys were like deer in headlights when pressed about a congressional investigation claiming they'd directed staff to downgrade illegal immigrants' charges to avoid deportation.
+
+
+### OTHER on 2026-10-29 17:31
+- Location: The Times of India
+- Description: In a significant ruling, a Dindoshi sessions court has denied bail for three individuals entangled in a film financing case. The accused allegedly misappropriated Rs 3.92 crore that was earmarked for the production of Naagzilla. The presiding judge pointed to…
+
+
+### SHOOTING on 2026-10-29 17:31
+- Location: Abcnews.com
+- Description: Elke Sommer, the German actor known for her roles in 1960s Hollywood comedies and espionage films, has died at 85
+
+Analysis generated at: Fri Oct 30 17:49:45 UTC 2026
