@@ -1,10 +1,10 @@
 
-Loaded 144676 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-28 22:13:46
+Loaded 144703 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-29 03:55:20
 
 Incidents by source:
 source
-newsapi           144575
+newsapi           144602
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-10-28 22:13
-- Location: Salon
-- Description: "This act of leaving Brazil is shameful," Brazil's President Lula said
+### ROBBERY/THEFT on 2026-10-29 03:55
+- Location: Rt-english.com
+- Description: Israeli police say they have found no evidence supporting Likud’s claims that Arab parties rigged the parliamentary election Read Full Article at RT.com
 
 
-### OTHER on 2026-10-28 22:10
-- Location: New York Post
-- Description: "There was no consideration that our local people, who weren’t there to protect the president, ended up being the ones that neutralized the threat," his mother-in-law told The Post.
+### HOMICIDE on 2026-10-29 03:51
+- Location: The Times of India
+- Description: A deadly altercation erupted in Nihal Vihar, Delhi, leaving 35-year-old Sandeep fatally stabbed. The argument ignited over a trivial demand for additional choley from a food vendor, escalating into a physical brawl. Tragically, Sandeep sustained multiple stab…
 
 
-### OTHER on 2026-10-28 22:07
-- Location: Freerepublic.com
-- Description: The ACLU recently outlined a pattern of police traffic stops based solely on data from Flock cameras and other license plate readers. The reports go back to at least 2025 and show how closely authorities can track the movements of most motorists. In one case …
+### ASSAULT on 2026-10-29 03:10
+- Location: ABC News (AU)
+- Description: Victorian police have identified multiple online usernames suspected of ordering crimes including alleged firebombings and extortions across Melbourne.
 
 
-### SHOOTING on 2026-10-28 22:07
-- Location: 4029tv
-- Description: Three people arrested over an alleged plot to carry out a shooting at a Georgia high school had gotten a floor plan of the school, according to arrest warrants.
+### OTHER on 2026-10-29 03:00
+- Location: Al Jazeera English
+- Description: Government says Salim Said hit the jackpot in a scheme claiming to feed needy children during the COVID-19 pandemic.
 
 
-### OTHER on 2026-10-28 22:00
-- Location: Thegatewaypundit.com
-- Description: Flavio Bolsonaro touched down in the United States on Wednesday after reports for 24 hours that he had fled the communist Lula regime in Brazil.
-The post Flavio Bolsonaro Releases Statement from Florida, Thanks President Milei and President Trump – “To You Wh…
+### OTHER on 2026-10-29 02:38
+- Location: The Times of India
+- Description: The Enforcement Directorate has provisionally attached the assets of Mohammad Ali Jauhar University in Rampur. This action is taken under the Prevention of Money Laundering Act based on allegations against Azam Khan and others. Allegations include the illegal…
 
-Analysis generated at: Thu Oct 29 22:20:37 UTC 2026
+Analysis generated at: Fri Oct 30 03:57:45 UTC 2026
