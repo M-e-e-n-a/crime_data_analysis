@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Oct 31 03:43:03 UTC 2026
+Last updated: Sat Oct 31 04:53:38 UTC 2026
 
 ## Latest Analysis
 
-Loaded 145003 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-30 03:41:06
+Loaded 145013 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-30 04:37:09
 
 Incidents by source:
 source
-newsapi           144902
+newsapi           144912
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,27 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-10-30 03:41
-- Location: New Zealand Herald
-- Description: Authorities tracked the 250kg shipment from Tauranga to Auckland before making arrests.
+### OTHER on 2026-10-30 04:37
+- Location: Bleeding Cool News
+- Description: Sure, you can check out the Season 2 opener of Paramount+ with Showtime and Showrunner Clyde Phillips's Michael C. Hall-starring Dexter: Resurrection any time after 12 am PT/3 am ET on Paramount+. But this preview is for those of you waiting up to check out S…
 
 
-### OTHER on 2026-10-30 03:39
-- Location: Medical Daily
-- Description: An interim Pregnancy Justice report identified at least 902 women charged over conduct tied to pregnancy, loss or birth after Dobbs, with most cases involving substance-use allegations.
+### OTHER on 2026-10-30 04:27
+- Location: BroBible
+- Description: Glenville High School has been disqualified from the Ohio football playoffs. The ruling comes amid an investigation into student-athlete participation. At least one ineligible player was reportedly rostered. The decision will prevent the Tarblooders from winn…
 
 
-### SHOOTING on 2026-10-30 03:36
-- Location: Dailymail.com
-- Description: Three masked men broke into David Morton's house around 3.45am on Sunday while he and his family were home, according to Toronto police.
+### OTHER on 2026-10-30 04:12
+- Location: Spoilertv.com
 
 
-### SHOOTING on 2026-10-30 03:25
-- Location: Slashdot.org
-- Description: Iron sights force your eye to line up three things at different distances—a rear notch, a front post, and the target—while your eye can only truly focus on one. A red dot sight collapses that into a single aiming point using a neat optical trick: an LED sits …
+### OTHER on 2026-10-30 04:06
+- Location: ABC News (AU)
+- Description: More than 40 journalists were detained during two days of protests, a media watchdog reports, but government pressure on press freedom dates back much further.
 
 
-### ROBBERY/THEFT on 2026-10-30 03:19
-- Location: Dailymail.com
-- Description: George Mensah, 22, and Jesse Mensah, 25, were arrested at a unit in Sydney's south-west in July after a lengthy investigation by the NSW State Crime Command's Financial Crimes Squad.
+### ROBBERY/THEFT on 2026-10-30 04:05
+- Location: Medianewsgroup.com
+- Description: Incumbent Republican U.S. Rep. Rob Bresnahan and Democratic Scranton Mayor Paige Cognetti sparred Thursday over data centers, healthcare and other key issues.
 
-Analysis generated at: Sat Oct 31 03:43:03 UTC 2026
+Analysis generated at: Sat Oct 31 04:53:38 UTC 2026
