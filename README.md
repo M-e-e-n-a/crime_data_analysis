@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Oct 31 04:53:38 UTC 2026
+Last updated: Sat Oct 31 11:35:04 UTC 2026
 
 ## Latest Analysis
 
-Loaded 145013 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-30 04:37:09
+Loaded 145071 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-30 11:30:48
 
 Incidents by source:
 source
-newsapi           144912
+newsapi           144970
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,27 +24,32 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-10-30 04:37
-- Location: Bleeding Cool News
-- Description: Sure, you can check out the Season 2 opener of Paramount+ with Showtime and Showrunner Clyde Phillips's Michael C. Hall-starring Dexter: Resurrection any time after 12 am PT/3 am ET on Paramount+. But this preview is for those of you waiting up to check out S…
+### OTHER on 2026-10-30 11:30
+- Location: Gothamist
+- Description: Mayor Zohran Mamdani talking to NYPD Commissioner Jessica Tisch. The mayor's Department of Community Safety may soon become real.
+ 
+
+Lawmakers on Friday debate a bill that would create the new department. [ more › ]
 
 
-### OTHER on 2026-10-30 04:27
-- Location: BroBible
-- Description: Glenville High School has been disqualified from the Ohio football playoffs. The ruling comes amid an investigation into student-athlete participation. At least one ineligible player was reportedly rostered. The decision will prevent the Tarblooders from winn…
+### OTHER on 2026-10-30 11:20
+- Location: The Times of India
+- Description: CHENNAI: A special court for prevention of corruption cases in Chennai on Friday deferred to Nov 2 its order on the application moved by Central Crime
 
 
-### OTHER on 2026-10-30 04:12
-- Location: Spoilertv.com
-
-
-### OTHER on 2026-10-30 04:06
+### ROBBERY/THEFT on 2026-10-30 11:18
 - Location: ABC News (AU)
-- Description: More than 40 journalists were detained during two days of protests, a media watchdog reports, but government pressure on press freedom dates back much further.
+- Description: Police in Scotland are conducting inquiries into the time former prince Andrew spent at Balmoral Castle with the late sex offender Jeffrey Epstein.
 
 
-### ROBBERY/THEFT on 2026-10-30 04:05
-- Location: Medianewsgroup.com
-- Description: Incumbent Republican U.S. Rep. Rob Bresnahan and Democratic Scranton Mayor Paige Cognetti sparred Thursday over data centers, healthcare and other key issues.
+### HOMICIDE on 2026-10-30 11:05
+- Location: CBS News
+- Description: Assassins killed Carlos Manzo in the city of Uruapan last November during Day of the Dead celebrations, in a case that ignited fury across Mexico.
 
-Analysis generated at: Sat Oct 31 04:53:38 UTC 2026
+
+### OTHER on 2026-10-30 11:03
+- Location: Common Dreams
+- Description: Benjamin Netanyahu, Itamar Ben-Gvir, and Bezalel Smotrich decisively lost Israel’s election on October 27. The governing coalition of Likud, the far right, and the ultra-Orthodox parties fell from 64 seats in 2022 to 53
+, eight short of a majority in the 120…
+
+Analysis generated at: Sat Oct 31 11:35:04 UTC 2026
