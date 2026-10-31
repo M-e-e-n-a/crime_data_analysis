@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Oct 30 21:55:12 UTC 2026
+Last updated: Sat Oct 31 03:43:03 UTC 2026
 
 ## Latest Analysis
 
-Loaded 144977 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-29 21:48:35
+Loaded 145003 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-30 03:41:06
 
 Incidents by source:
 source
-newsapi           144876
+newsapi           144902
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-10-29 21:48
-- Location: New York Post
-- Description: MIAMI –– Immigration and Customs Enforcement deported a record number of illegal migrants in Septemeber, President Trump’s border czar Tom Homan boasted Thursday –– as he warned New York to cooperate with its agents. Homan made the revelation while visting th…
+### OTHER on 2026-10-30 03:41
+- Location: New Zealand Herald
+- Description: Authorities tracked the 250kg shipment from Tauranga to Auckland before making arrests.
 
 
-### HOMICIDE on 2026-10-29 21:38
-- Location: New York Post
-- Description: Ismael Pinedalopez, 34, is accused of killing Nicholas Garcia, 28, at his Anaheim home after allegedly catching him in his underwear in his bed with their two children, aged two and four.
+### OTHER on 2026-10-30 03:39
+- Location: Medical Daily
+- Description: An interim Pregnancy Justice report identified at least 902 women charged over conduct tied to pregnancy, loss or birth after Dobbs, with most cases involving substance-use allegations.
 
 
-### OTHER on 2026-10-29 21:36
-- Location: Rt-english.com
-- Description: Conservative influencers James O’Keefe and Cam Higby are facing felony charges over a video on Minnesota voting practices that allow one to vote with no ID and to vouch for eight others
-
-
-### HOMICIDE on 2026-10-29 21:32
+### SHOOTING on 2026-10-30 03:36
 - Location: Dailymail.com
-- Description: The 64-year-old professor was found dead on the first floor, while his wife was on the second floor. Both the victims died of multiple gunshot wounds
+- Description: Three masked men broke into David Morton's house around 3.45am on Sunday while he and his family were home, according to Toronto police.
 
 
-### OTHER on 2026-10-29 21:16
-- Location: Screen Rant
-- Description: Discover everything you need to know about reading Miss Marple novels in order, including key insights and adaptations.
+### SHOOTING on 2026-10-30 03:25
+- Location: Slashdot.org
+- Description: Iron sights force your eye to line up three things at different distances—a rear notch, a front post, and the target—while your eye can only truly focus on one. A red dot sight collapses that into a single aiming point using a neat optical trick: an LED sits …
 
-Analysis generated at: Fri Oct 30 21:55:12 UTC 2026
+
+### ROBBERY/THEFT on 2026-10-30 03:19
+- Location: Dailymail.com
+- Description: George Mensah, 22, and Jesse Mensah, 25, were arrested at a unit in Sydney's south-west in July after a lengthy investigation by the NSW State Crime Command's Financial Crimes Squad.
+
+Analysis generated at: Sat Oct 31 03:43:03 UTC 2026
