@@ -1,10 +1,10 @@
 
-Loaded 145176 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-30 17:00:00
+Loaded 145273 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-30 20:54:02
 
 Incidents by source:
 source
-newsapi           145075
+newsapi           145172
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,29 +20,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-10-30 17:00
-- Location: Deadline
-- Description: EXCLUSIVE: Peter Outerbridge (Neagley, I Will Find You), Cody Ray Thompson (The Umbrella Academy) and David Klein (Overcompensating, 56 Days) round out the series regular cast for Rules of Prey, MGM+‘s upcoming crime thriller series. The trio join previously …
+### HOMICIDE on 2026-10-30 20:54
+- Location: Radaronline.com
+- Description: A Texas grand jury indicted ICE officer Mario Alberto Morales on a second-degree aggravated assault charge.
 
 
-### HOMICIDE on 2026-10-30 17:00
-- Location: Deadline
-- Description: EXCLUSIVE: NBC is eyeing a fresh spin on a literary classic, with a partially gender-swapped police procedural take on The Great Gatsby in development, Deadline has learned. The series, titled Gatsby, hails from writer/EPs Jake Coburn and Jason Tracey and Uni…
+### OTHER on 2026-10-30 20:53
+- Location: New York Post
+- Description: The resignation of California High-Speed Rail CEO Ian Choudri this week is the latest sign that the project ought to be canceled altogether.
 
 
-### HOMICIDE on 2026-10-30 16:58
-- Location: The Daily Caller
-- Description: Police in Valdosta, Georgia, say a man who demanded the surveillance footage was fatally shot by a convenience store employee.
+### OTHER on 2026-10-30 20:52
+- Location: BBC News
+- Description: It comes after the government suspended two senior justices and moved to bring criminal charges against them.
 
 
-### OTHER on 2026-10-30 16:57
-- Location: Dailymail.com
-- Description: Looking for something to watch? The Daily Mail's TV experts have sifted through hundreds of shows and films to bring you the best things to stream this Halloween weekend.
+### HOMICIDE on 2026-10-30 20:51
+- Location: New York Post
+- Description: Chevalier, Mayor Zohran Mamdani’s hand-picked candidate for New York's 13th congressional district, could only offer up a word salad in an interview with Vanity Fair Friday when the reporter repeatedly pushed for the democratic socialist’s answer over what to…
 
 
-### ROBBERY/THEFT on 2026-10-30 16:55
-- Location: The Daily Hodl
-- Description: A South Carolina woman is headed to prison after using other people’s identities to pull more than $37,000 out of four West Virginia bank accounts.
-The post South Carolina Woman Drains $37,645 From Four West Virginia Bank Accounts Using Stolen Identities and …
+### OTHER on 2026-10-30 20:51
+- Location: Protothema.gr
+- Description: A long-running battle over control of the judiciary has brought Prime Minister Donald Tusk's government into direct confrontation with the Polish president - ‘Restoring the rule of law is our duty,’ Tusk declared
+The post Political crisis erupts in Poland: Po…
 
-Analysis generated at: Sat Oct 31 17:06:07 UTC 2026
+Analysis generated at: Sat Oct 31 20:54:19 UTC 2026
