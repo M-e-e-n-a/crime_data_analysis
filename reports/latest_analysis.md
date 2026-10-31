@@ -1,10 +1,10 @@
 
-Loaded 145071 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-30 11:30:48
+Loaded 145169 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-30 16:42:57
 
 Incidents by source:
 source
-newsapi           144970
+newsapi           145068
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,32 +20,30 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-10-30 11:30
-- Location: Gothamist
-- Description: Mayor Zohran Mamdani talking to NYPD Commissioner Jessica Tisch. The mayor's Department of Community Safety may soon become real.
- 
-
-Lawmakers on Friday debate a bill that would create the new department. [ more › ]
-
-
-### OTHER on 2026-10-30 11:20
+### OTHER on 2026-10-30 16:42
 - Location: The Times of India
-- Description: CHENNAI: A special court for prevention of corruption cases in Chennai on Friday deferred to Nov 2 its order on the application moved by Central Crime
+- Description: Delhi Police arrested three men for running a cyber fraud “moving call centre” from a car, cheating a victim of Rs 65,000; vehicle, phones and bank cards seized.
 
 
-### ROBBERY/THEFT on 2026-10-30 11:18
-- Location: ABC News (AU)
-- Description: Police in Scotland are conducting inquiries into the time former prince Andrew spent at Balmoral Castle with the late sex offender Jeffrey Epstein.
+### HOMICIDE on 2026-10-30 16:42
+- Location: Globalresearch.ca
+- Description: Time it was when all we had to remember was yesterday, if that. 
+Then as the years passed, yesterday grew into the double-faced mystery of time that keeps us looking backwards and forward, trying to remember and trying to forget …
+The post The Dead Among Us K…
 
 
-### HOMICIDE on 2026-10-30 11:05
-- Location: CBS News
-- Description: Assassins killed Carlos Manzo in the city of Uruapan last November during Day of the Dead celebrations, in a case that ignited fury across Mexico.
+### ASSAULT on 2026-10-30 16:41
+- Location: Rolling Out
+- Description: A Topeka man is accused of carrying out a string of attacks across two central Topeka neighborhoods in about an hour Wednesday, Oct. 28, with police tying 17 victims to five crime scenes. Adam Schwegman, 47, was booked into the Shawnee County Jail late Wednes…
 
 
-### OTHER on 2026-10-30 11:03
-- Location: Common Dreams
-- Description: Benjamin Netanyahu, Itamar Ben-Gvir, and Bezalel Smotrich decisively lost Israel’s election on October 27. The governing coalition of Likud, the far right, and the ultra-Orthodox parties fell from 64 seats in 2022 to 53
-, eight short of a majority in the 120…
+### ASSAULT on 2026-10-30 16:41
+- Location: Rolling Out
+- Description: A Topeka man is accused of carrying out a string of attacks across two central Topeka neighborhoods in about an hour Wednesday, Oct. 28, with police tying 17 victims to five crime scenes. Adam Schwegman, 47, was booked into the Shawnee County Jail late Wednes…
 
-Analysis generated at: Sat Oct 31 11:35:04 UTC 2026
+
+### OTHER on 2026-10-30 16:39
+- Location: Screen Rant
+- Description: Reviews are now being published for Liam Neeson’s latest crime thriller, The Mongoose, and the movie is proving polarizing with critics.
+
+Analysis generated at: Sat Oct 31 16:43:05 UTC 2026
