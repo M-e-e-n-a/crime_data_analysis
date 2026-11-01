@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Nov  1 03:49:25 UTC 2026
+Last updated: Sun Nov  1 05:18:58 UTC 2026
 
 ## Latest Analysis
 
-Loaded 145293 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-31 03:45:28
+Loaded 145299 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-31 05:17:31
 
 Incidents by source:
 source
-newsapi           145192
+newsapi           145198
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-10-31 03:45
+### OTHER on 2026-10-31 05:17
 - Location: Dailymail.com
-- Description: The twin sister of a man wounded in a shooting outside a Queensland pub has made an emotional plea for help.
+- Description: Just before 3.30am on Saturday, emergency services were called to a property on Weddle Avenue, Abbotsford, after 'malicious damage'.
 
 
-### HOMICIDE on 2026-10-31 03:03
-- Location: The Canberra Times
-- Description: Emergency services have responded to a horror multi-vehicle accident in which two people have died and another woman...
+### HOMICIDE on 2026-10-31 04:48
+- Location: The Irish Times
+- Description: The author’s tone borders on the melodramatic and there is a definite sense of him oversimplifying data before reaching glib conclusions
 
 
-### SHOOTING on 2026-10-31 02:15
-- Location: Khabarhub.com
-- Description: KATHMANDU: Economic Digest presents a brief yet comprehensive roundup of major business developments in Nepal, delivered in clear and accessible summaries. The developments reflect Nepal’s ongoing efforts to strengthen economic governance, expand investment o…
+### OTHER on 2026-10-31 04:29
+- Location: The Times of India
+- Description: On Friday evening, two foreign nationals from Germany and Slovakia died from suspected electrocution in a hotel swimming pool. A US national and an Indian pool attendant were injured while trying to rescue them. Both the injured individuals were taken to Mani…
 
 
-### DRUG RELATED on 2026-10-31 02:15
-- Location: New York Post
-- Description: Gang members opened fire on FBI agents during a massive crime sweep targeting an alleged Mexican Mafia-connected drug empire.
+### HOMICIDE on 2026-10-31 04:27
+- Location: Just Jared
+- Description: Two people have been arrested for the alleged murder of Christina Downer, the late sister of Saturday Night Live writer […]
+The post 2 Arrested in Murder of ‘SNL’ Writer Jimmy Fowlie’s Sister Christina Downer appeared first on Just Jared - Celebrity News, Ent…
 
 
-### HOMICIDE on 2026-10-31 02:10
-- Location: WDEL 1150AM
-- Description: A Pottstown, Pennsylvania man is dead after he was hit by a pick-up truck while trying to run across I-95 in Wilmington.
+### HOMICIDE on 2026-10-31 04:21
+- Location: Dailymail.com
+- Description: A 21-year-old man was killed after being shot multiple times at a Spirit Halloween store in Madison Heights, near Detroit, around 2:04pm on October 30.
 
-Analysis generated at: Sun Nov  1 03:49:25 UTC 2026
+Analysis generated at: Sun Nov  1 05:18:58 UTC 2026
