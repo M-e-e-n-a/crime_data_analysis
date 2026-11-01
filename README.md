@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Nov  1 12:33:27 UTC 2026
+Last updated: Sun Nov  1 17:50:49 UTC 2026
 
 ## Latest Analysis
 
-Loaded 145386 incidents
-Date range: 2024-01-01 00:00:00 to 2026-10-31 12:30:22
+Loaded 145483 incidents
+Date range: 2024-01-01 00:00:00 to 2026-10-31 17:48:37
 
 Incidents by source:
 source
-newsapi           145285
+newsapi           145382
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-10-31 12:30
+### HOMICIDE on 2026-10-31 17:48
 - Location: The Times of India
-- Description: Researchers at the University of Zurich have uncovered that goats can find food using human vocal cues, achieving a success rate of approximately 60%. While other animals have shown similar skills, chimpanzees did not exhibit this ability. The findings could …
+- Description: Kamareddy murder case: Wife and two alleged lovers arrested for killing 26-year-old Kashiram; police say he was strangled and dumped in a pond to fake drowning.
 
 
-### SHOOTING on 2026-10-31 12:30
-- Location: Newser
-- Description: A 15-year-old who immigrated from Ghana just a year ago was gunned down on his way to school in the Bronx on Thursday, and police are now searching for three other teenagers. The Guardian reports that officers responding to reports of a shooting near Crotona …
+### OTHER on 2026-10-31 17:43
+- Location: USA Today
+- Description: Packers RB Josh Jacobs was ruled guilty of battery as part of a plea deal. New police records show other women said they had similar experiences with him.
 
 
-### HOMICIDE on 2026-10-31 12:29
-- Location: The Irish Times
-- Description: Fionnbarra Ó Tuama appeared before Judge Michele Finan at Dublin District Court on Saturday morning
+### OTHER on 2026-10-31 17:41
+- Location: Collider.com
+- Description: From the action mayhem of Bodyguard to the dramatic intensity of Baby Reindeer, these miniseries offer breakneck tension from start to finish.
 
 
-### OTHER on 2026-10-31 12:27
+### HOMICIDE on 2026-10-31 17:31
+- Location: Dailymail.com
+- Description: Allison Jeanne Albro, 21, of Daytona Beach, Florida, was hauled into custody on charges of written threats to kill and unlawful use of a communications device, just days before the midterm elections.
+
+
+### HOMICIDE on 2026-10-31 17:26
 - Location: The Times of India
-- Description: A groundbreaking study in Southern New Mexico has shed light on the comparative efficiency of humans and dogs in locating bird carcasses. Over two years, 27 surveyors and one detection dog participated in the research, revealing the dog's impressive 87% detec…
+- Description: A woman named Gummadi Savitha conspired with her lovers to murder her husband, Gummadi Kashiram. They lured him out under the pretense of drinking liquor on October 23, 2026. Once he was intoxicated, one lover strangled him while the other restrained him. Aft…
 
-
-### OTHER on 2026-10-31 12:25
-- Location: Jalopnik
-- Description: While defending an attempted crackdown on a group of parked e-bikes, a lawyer for the New York City Police Department put car ownership in a whole new light.
-
-Analysis generated at: Sun Nov  1 12:33:27 UTC 2026
+Analysis generated at: Sun Nov  1 17:50:49 UTC 2026
