@@ -1,10 +1,10 @@
 
-Loaded 145575 incidents
-Date range: 2024-01-01 00:00:00 to 2026-11-01 03:52:25
+Loaded 145587 incidents
+Date range: 2024-01-01 00:00:00 to 2026-11-01 05:04:32
 
 Incidents by source:
 source
-newsapi           145474
+newsapi           145486
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-11-01 03:52
-- Location: Texarkana Gazette
-- Description: HOPE, Ark. -- A Hempstead County man has been formally charged with capital murder and capital rape in the death of a 4-year-old girl.
+### SHOOTING on 2026-11-01 05:04
+- Location: NBC Southern California
+- Description: Police shot a man after he charged and struck an officer with a metal bar in downtown Los Angeles on Saturday afternoon, officials said.
 
 
-### HOMICIDE on 2026-11-01 03:45
+### HOMICIDE on 2026-11-01 04:42
 - Location: Dailymail.com
-- Description: Western Australia Police said the incident occurred at about 10.20pm Saturday when a BMW 3 Series sedan was travelling north at Bullsbrook on Railway Parade.
+- Description: Accused killer Beau Lamarre-Condon urged his friend twice to watch the erotic thriller Saltburn, comparing himself to the main character.
 
 
-### ROBBERY/THEFT on 2026-11-01 03:45
+### HOMICIDE on 2026-11-01 04:28
+- Location: Abcnews.com
+- Description: A shooting at a Spirit Halloween store in California on the eve of the holiday has left a pregnant woman dead and six other people wounded
+
+
+### SHOOTING on 2026-11-01 04:21
+- Location: New York Post
+- Description: “We want to assure the public that this incident is being taken extremely seriously,” the Senatobia Police Department said in a statement Saturday night.
+
+
+### HOMICIDE on 2026-11-01 04:19
 - Location: The Times of India
-- Description: The Uppal police apprehended a 25-year-old woman, Paga Jaya, in connection with multiple house burglaries. Following a recent theft reported by Gangam Bhaskar Reddy, whose residence was violated during his family vacation, Jaya emerged as a suspect. Authoriti…
+- Description: One person was killed and several others were injured in a shooting in Alabama's Birmingham on Saturday night, shortly after the Magic City Classic
 
-
-### OTHER on 2026-11-01 03:40
-- Location: Rlsbb.cc
-- Description: Season 1, Episode 10 – “Tyrone Hassel III”Crime Scene Raw focuses on a different high-profile case each episode, utilizing police bodycam footage and forensic evidence.Links: HOMEPAGE – TVDBCrime.Scene.Raw.S01E10.720p.WEB.H264-JFFMKV | AAC | 1.19GBNFO - Subti…
-
-
-### OTHER on 2026-11-01 03:17
-- Location: The Times of India
-- Description: Nuh: A suspected cattle smuggler was injured in an exchange of fire with the Crime Investigation Agency (CIA) team in Ghasera village, under the
-
-Analysis generated at: Mon Nov  2 03:54:56 UTC 2026
+Analysis generated at: Mon Nov  2 05:17:14 UTC 2026
