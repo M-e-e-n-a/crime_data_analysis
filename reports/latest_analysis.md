@@ -1,10 +1,10 @@
 
-Loaded 145668 incidents
-Date range: 2024-01-01 00:00:00 to 2026-11-01 14:26:44
+Loaded 145765 incidents
+Date range: 2024-01-01 00:00:00 to 2026-11-01 21:36:34
 
 Incidents by source:
 source
-newsapi           145567
+newsapi           145664
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-11-01 14:26
-- Location: The Times of India
-- Description: Ranchi police arrest sweet shop owner Krishna Kumar and cleaner Amit Kumar for allegedly murdering employee Baneshwar Gorai in Pithoria; axe seized.
+### OTHER on 2026-11-01 21:36
+- Location: Newsonjapan.com
+- Description: A Japanese man believed to be the second-in-command of the criminal organization JP Dragon, which allegedly operated from the Philippines and repeatedly targeted Japanese nationals in organized fraud schemes, has been detained by Philippine authorities as par…
 
 
-### HOMICIDE on 2026-11-01 14:26
-- Location: Rolling Out
-- Description: The Bronx-born rapper pushed back on a growing online debate over who bullies immigrant kids and opened up about her own painful past Cardi B is not letting the killing of a Bronx teenager pass quietly. The Grammy-winning rapper, who grew up in the borough, w…
+### SHOOTING on 2026-11-01 21:31
+- Location: The Canberra Times
+- Description: The first phase of one state's multimillion-dollar gun buyback scheme has begun but the number of firearms initially...
 
 
-### SHOOTING on 2026-11-01 14:23
-- Location: Dailymail.com
-- Description: Hollywood movie director and producer Michael Mann has been rushed to hospital after accidentally shooting himself whilst at a gun range.
+### HOMICIDE on 2026-11-01 21:26
+- Location: CNA
+- Description: The Paris police prefecture said several hundred rioters had attacked security forces with projectiles.
 
 
-### OTHER on 2026-11-01 14:19
-- Location: Dailymail.com
-- Description: The boys, all aged between 16 and 17, were hurt after an 'unknown group' gained entry to a property in Eastleigh, Hampshire, on Saturday night.
+### SHOOTING on 2026-11-01 21:25
+- Location: Breitbart News
+- Description: Director Michael Mann accidentally shot himself in the leg while holstering his handgun about 4 p.m. Saturday at the The Range L.A.
+The post Report: Director Michael Mann Accidentally Shoots Self in Leg at Los Angeles Gun Range appeared first on Breitbart.
 
 
-### HOMICIDE on 2026-11-01 14:17
-- Location: ABC News (AU)
-- Description: A French officer described "skin that stings" after being set alight by a molotov cocktail during another weekend of protests in Paris.
+### HOMICIDE on 2026-11-01 21:20
+- Location: Thechronicle.com.gh
+- Description: The Ghana Police Service has arrested Samuel Osei Anto Christopher, the principal suspect in the murder of George Atuguba and Irene Atuguba at NTHC Estate, Sakumono, in the Greater Accra Region. The suspect, who had been declared wanted by the police followin…
 
-Analysis generated at: Mon Nov  2 14:33:00 UTC 2026
+Analysis generated at: Mon Nov  2 21:37:03 UTC 2026
