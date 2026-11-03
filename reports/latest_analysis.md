@@ -1,10 +1,10 @@
 
-Loaded 145802 incidents
-Date range: 2024-01-01 00:00:00 to 2026-11-02 06:00:18
+Loaded 145893 incidents
+Date range: 2024-01-01 00:00:00 to 2026-11-02 13:29:01
 
 Incidents by source:
 source
-newsapi           145701
+newsapi           145792
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-11-02 06:00
-- Location: Screen Rant
-- Description: Three seasons of patient, emotionally raw storytelling saw HBO's classic reward close viewing by favoring human consequences over puzzle chasing.
-
-
-### OTHER on 2026-11-02 06:00
-- Location: Naturalnews.com
-- Description: Facial recognition systems in UK stores are falsely accusing innocent shoppers of shoplifting. Victims are publicly humiliated and forced to navigate bureaucratic mazes to clear their names. Clearing a false accusation often requires surrendering more persona…
-
-
-### HOMICIDE on 2026-11-02 05:50
+### HOMICIDE on 2026-11-02 13:29
 - Location: Dailymail.com
-- Description: A Florida family has described how their apartment was left 'shaking' when a business jet plummeted to the ground 'like a missile' on Sunday, killing all nine people onboard.
+- Description: Simon Richardson, 35,  was described by witnesses as 'tanking it' as he sped through a junction in Altrincham, Greater Manchester, on April 20 in a Volvo XC90, ploughing into Michael Mullins, 56.
 
 
-### OTHER on 2026-11-02 05:40
-- Location: Hilobrow.com
-- Description: Career novels for boys — they did exist!
+### OTHER on 2026-11-02 13:20
+- Location: Breitbart News
+- Description: A self-admitted member of the violent terrorist organization, Cartel del Noreste (CDN), received a 36-month prison sentence for conspiring to smuggle three illegal aliens. Texas Department of Public Safety (DPS) troopers arrested Miguel Angel Delgado-Guzman i…
 
 
-### HOMICIDE on 2026-11-02 05:21
-- Location: The Punch
-- Description: The Akwa Ibom State Police Command has launched a manhunt for the killers of a woman, Unwana Okon, who was murdered in Oruk Anam Local Government Area of the state. Okon, a resident of Ndot Village, was allegedly lured to Mbiaikot Village under the guise of b…
+### OTHER on 2026-11-02 13:20
+- Location: What's on Netflix
+- Description: With cameras now finished rolling, we have new details on the plot of 'Dept. Q' season 2 and the cast members joining the Jussi Adler-Olsen adaptation.
 
-Analysis generated at: Tue Nov  3 06:01:06 UTC 2026
+
+### OTHER on 2026-11-02 13:10
+- Location: Kunstler.com
+- Description: “Where Enlightenment philosopher Descartes said, ‘I think, therefore I am,’ the Communist says, ‘I’m right, therefore I’m in charge.’ — Data Republican on X
+
+
+### ASSAULT on 2026-11-02 13:10
+- Location: BBC News
+- Description: Police responded to fears about Anthony Williams on a train the day before the attack, jurors hear.
+
+Analysis generated at: Tue Nov  3 13:29:55 UTC 2026
