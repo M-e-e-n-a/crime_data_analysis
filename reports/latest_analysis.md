@@ -1,10 +1,10 @@
 
-Loaded 145893 incidents
-Date range: 2024-01-01 00:00:00 to 2026-11-02 13:29:01
+Loaded 145993 incidents
+Date range: 2024-01-01 00:00:00 to 2026-11-02 19:22:07
 
 Incidents by source:
 source
-newsapi           145792
+newsapi           145892
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-11-02 13:29
-- Location: Dailymail.com
-- Description: Simon Richardson, 35,  was described by witnesses as 'tanking it' as he sped through a junction in Altrincham, Greater Manchester, on April 20 in a Volvo XC90, ploughing into Michael Mullins, 56.
+### HOMICIDE on 2026-11-02 19:22
+- Location: LEX18 Lexington KY News
+- Description: Dario M. Williams was indicted on charges of murder-domestic violence and first-degree burglary in connection with the death of Candice Mackie.
 
 
-### OTHER on 2026-11-02 13:20
-- Location: Breitbart News
-- Description: A self-admitted member of the violent terrorist organization, Cartel del Noreste (CDN), received a 36-month prison sentence for conspiring to smuggle three illegal aliens. Texas Department of Public Safety (DPS) troopers arrested Miguel Angel Delgado-Guzman i…
+### OTHER on 2026-11-02 19:13
+- Location: New York Post
+- Description: Six people have been injured in a mass stabbing at a Halloween party in California overnight Sunday.
 
 
-### OTHER on 2026-11-02 13:20
-- Location: What's on Netflix
-- Description: With cameras now finished rolling, we have new details on the plot of 'Dept. Q' season 2 and the cast members joining the Jussi Adler-Olsen adaptation.
+### ROBBERY/THEFT on 2026-11-02 19:12
+- Location: The Times of India
+- Description: 35-year-old woman dies after jumping from 11th floor of Mahindra Aura Society, Sector 110 Gurgaon; police cite depression, no note found, probe ongoing.
 
 
-### OTHER on 2026-11-02 13:10
-- Location: Kunstler.com
-- Description: “Where Enlightenment philosopher Descartes said, ‘I think, therefore I am,’ the Communist says, ‘I’m right, therefore I’m in charge.’ — Data Republican on X
+### HOMICIDE on 2026-11-02 19:10
+- Location: XXLMAG.COM
+- Description: This tragedy hit close to home for Bardi. Continue reading…
 
 
-### ASSAULT on 2026-11-02 13:10
-- Location: BBC News
-- Description: Police responded to fears about Anthony Williams on a train the day before the attack, jurors hear.
+### OTHER on 2026-11-02 19:09
+- Location: CBC News
+- Description: Was a then-Air Canada employee an inside man who helped carry out one of the biggest gold heists in Canadian history, or a scapegoat exploited by a longtime friend? Those were the two competing scenarios presented to a Brampton, Ont., court Monday as prosecut…
 
-Analysis generated at: Tue Nov  3 13:29:55 UTC 2026
+Analysis generated at: Tue Nov  3 19:22:16 UTC 2026
