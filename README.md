@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Nov  3 00:22:19 UTC 2026
+Last updated: Tue Nov  3 06:01:06 UTC 2026
 
 ## Latest Analysis
 
-Loaded 145772 incidents
-Date range: 2024-01-01 00:00:00 to 2026-11-02 00:16:44
+Loaded 145802 incidents
+Date range: 2024-01-01 00:00:00 to 2026-11-02 06:00:18
 
 Incidents by source:
 source
-newsapi           145671
+newsapi           145701
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-11-02 00:16
+### OTHER on 2026-11-02 06:00
+- Location: Screen Rant
+- Description: Three seasons of patient, emotionally raw storytelling saw HBO's classic reward close viewing by favoring human consequences over puzzle chasing.
+
+
+### OTHER on 2026-11-02 06:00
+- Location: Naturalnews.com
+- Description: Facial recognition systems in UK stores are falsely accusing innocent shoppers of shoplifting. Victims are publicly humiliated and forced to navigate bureaucratic mazes to clear their names. Clearing a false accusation often requires surrendering more persona…
+
+
+### HOMICIDE on 2026-11-02 05:50
 - Location: Dailymail.com
-- Description: A Georgia father has been arrested on manslaughter charges after his young son got hold of a gun and fatally shot himself.
+- Description: A Florida family has described how their apartment was left 'shaking' when a business jet plummeted to the ground 'like a missile' on Sunday, killing all nine people onboard.
 
 
-### HOMICIDE on 2026-11-02 00:15
-- Location: BBC News
-- Description: There were hundreds of arrests as protesters took to the streets in cities across France for the third weekend in a row.
+### OTHER on 2026-11-02 05:40
+- Location: Hilobrow.com
+- Description: Career novels for boys — they did exist!
 
 
-### ROBBERY/THEFT on 2026-11-02 00:10
-- Location: Dailymail.com
-- Description: There was a sordid secret in Thomas Markle's Mexican storage unit. Now the world knows about it. So does the FBI.
-
-
-### SHOOTING on 2026-11-02 00:07
+### HOMICIDE on 2026-11-02 05:21
 - Location: The Punch
-- Description: Gunmen suspected to be kidnappers have abducted a 100-level female student of Plateau State University, Bokkos, while another person sustained injuries during an attack on off-campus student residential areas in Bokkos Local Government Area of Plateau State. …
+- Description: The Akwa Ibom State Police Command has launched a manhunt for the killers of a woman, Unwana Okon, who was murdered in Oruk Anam Local Government Area of the state. Okon, a resident of Ndot Village, was allegedly lured to Mbiaikot Village under the guise of b…
 
-
-### HOMICIDE on 2026-11-02 00:07
-- Location: The Punch
-- Description: The Ogun State Police Command has foiled a suspected robbery operation in Ijaba, Iyesi, Ota, killing one suspected gang member and recovering two vehicles, two pistols and several other items believed to have been stolen. The incident reportedly occurred in t…
-
-Analysis generated at: Tue Nov  3 00:22:19 UTC 2026
+Analysis generated at: Tue Nov  3 06:01:06 UTC 2026
