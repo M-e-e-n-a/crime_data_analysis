@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Nov  4 13:40:47 UTC 2026
+Last updated: Wed Nov  4 19:35:22 UTC 2026
 
 ## Latest Analysis
 
-Loaded 146164 incidents
-Date range: 2024-01-01 00:00:00 to 2026-11-03 13:40:34
+Loaded 146264 incidents
+Date range: 2024-01-01 00:00:00 to 2026-11-03 19:24:19
 
 Incidents by source:
 source
-newsapi           146063
+newsapi           146163
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-11-03 13:40
+### HOMICIDE on 2026-11-03 19:24
+- Location: New York Post
+- Description: The man caught in bed with a husband's wife and kids bled to death after the enraged spouse allegedly stabbed him multiple times, according to a new report.
+
+
+### OTHER on 2026-11-03 19:19
 - Location: The Times of India
-- Description: Payal Zambre Patil's in-laws allegedly persistently demanded 10 tolas of gold after her marriage, leading to claims of abuse, especially during her pregnancy. Following a confrontation with her mother-in-law, she was discovered dead under ambiguous circumstan…
+- Description: Pune Metropolitan Region aims to be a major mobility hub by 2030, says CM Fadnavis, with metro, e-buses, ring roads, tunnels and a new airport.
 
 
-### OTHER on 2026-11-03 13:33
-- Location: BleepingComputer
-- Description: European law enforcement authorities arrested seven suspects and seized more than 100 servers in a joint action targeting an unnamed company suspected of providing fraudulent trading websites to criminal gangs. [...]
+### OTHER on 2026-11-03 19:18
+- Location: Livejournal.com
+- Description: Is It Too Late to Make a Run for It?In Is It Too Late to Make a Run for It? Judi Dench and Brendan O’Hea take us on a heartfelt and hilarious tour of her extraordinary life and career. From growing up in York and being miffed at not getting the part of Mary i…
 
 
-### OTHER on 2026-11-03 13:23
-- Location: CBC News
-- Description: A public safety project that's brought private security guards to parts of Saint John is aiming to improve its foot patrols and overnight services, city councillors heard Monday.
-
-
-### HOMICIDE on 2026-11-03 13:15
-- Location: Advocate.com
-- Description: St. Louis police are investigating the August shooting death of a transgender woman as a homicide after initially classifying it as an apparent suicide. Her mother challenged that finding.
-
-
-### ROBBERY/THEFT on 2026-11-03 13:13
+### OTHER on 2026-11-03 19:17
 - Location: The Times of India
-- Description: Police bust interstate burglary gang in Odisha, arrest 12; recover over Rs 88 lakh in stolen gold and silver linked to 15 theft cases in Khurda, Nayagarh.
+- Description: Maharashtra CM Devendra Fadnavis urges Pimpri-Chinchwad police to use tech like drones, bodycams, CCTV, ITMS and AI to improve crime control.
 
-Analysis generated at: Wed Nov  4 13:40:47 UTC 2026
+
+### OTHER on 2026-11-03 19:17
+- Location: The Times of India
+- Description: The Supreme Court has highlighted the importance of balancing the right to protest with the livelihoods of others. A three-member bench stated that indefinite occupation of protest sites is unacceptable. The court directed traders' associations to involve pro…
+
+Analysis generated at: Wed Nov  4 19:35:22 UTC 2026
