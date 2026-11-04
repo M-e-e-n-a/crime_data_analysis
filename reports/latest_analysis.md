@@ -1,10 +1,10 @@
 
-Loaded 146078 incidents
-Date range: 2024-01-01 00:00:00 to 2026-11-03 05:25:00
+Loaded 146164 incidents
+Date range: 2024-01-01 00:00:00 to 2026-11-03 13:40:34
 
 Incidents by source:
 source
-newsapi           145977
+newsapi           146063
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,30 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2026-11-03 05:25
+### HOMICIDE on 2026-11-03 13:40
 - Location: The Times of India
-- Description: A serious conflict arose between Carl Schneider and his son Chris regarding Hybrid Car Store Inc., their family-run dealership. Chris misappropriated corporate funds to pay off personal obligations, resulting in significant financial repercussions. The situat…
+- Description: Payal Zambre Patil's in-laws allegedly persistently demanded 10 tolas of gold after her marriage, leading to claims of abuse, especially during her pregnancy. Following a confrontation with her mother-in-law, she was discovered dead under ambiguous circumstan…
 
 
-### ROBBERY/THEFT on 2026-11-03 05:13
+### OTHER on 2026-11-03 13:33
+- Location: BleepingComputer
+- Description: European law enforcement authorities arrested seven suspects and seized more than 100 servers in a joint action targeting an unnamed company suspected of providing fraudulent trading websites to criminal gangs. [...]
+
+
+### OTHER on 2026-11-03 13:23
+- Location: CBC News
+- Description: A public safety project that's brought private security guards to parts of Saint John is aiming to improve its foot patrols and overnight services, city councillors heard Monday.
+
+
+### HOMICIDE on 2026-11-03 13:15
+- Location: Advocate.com
+- Description: St. Louis police are investigating the August shooting death of a transgender woman as a homicide after initially classifying it as an apparent suicide. Her mother challenged that finding.
+
+
+### ROBBERY/THEFT on 2026-11-03 13:13
 - Location: The Times of India
-- Description: A couple reported the theft of gold jewellery and cash while traveling on a train to celebrate Diwali. The incident occurred in the early hours at Lucknow's Charbagh railway station on November 2. Despite their calls for help and pulling the alarm chain, no a…
+- Description: Police bust interstate burglary gang in Odisha, arrest 12; recover over Rs 88 lakh in stolen gold and silver linked to 15 theft cases in Khurda, Nayagarh.
 
-
-### OTHER on 2026-11-03 05:00
-- Location: Americanthinker.com
-- Description: By Silvio Canto, Jr.Federal, state, and local cooperation led to more than 4,000 arrests in Texas without reported incidents.
-
-
-### OTHER on 2026-11-03 05:00
-- Location: Americanthinker.com
-- Description: Photo Credit:
- 
- ChatGPT for American ThinkerBy Hamid EnayatFrom classrooms to checkpoints, Tehran is recruiting for its survival; Washington should understand the consequences.
-
-
-### SHOOTING on 2026-11-03 04:47
-- Location: Dailymail.com
-- Description: An early morning blaze on Saturday damaged the Senatobia Police Department headquarters in Mississippi.
-
-Analysis generated at: Wed Nov  4 05:38:29 UTC 2026
+Analysis generated at: Wed Nov  4 13:40:47 UTC 2026
