@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Nov  4 04:25:49 UTC 2026
+Last updated: Wed Nov  4 05:38:29 UTC 2026
 
 ## Latest Analysis
 
-Loaded 146071 incidents
-Date range: 2024-01-01 00:00:00 to 2026-11-03 04:19:05
+Loaded 146078 incidents
+Date range: 2024-01-01 00:00:00 to 2026-11-03 05:25:00
 
 Incidents by source:
 source
-newsapi           145970
+newsapi           145977
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,30 @@ ion.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2026-11-03 04:19
-- Location: Champaign/Urbana News-Gazette
-- Description: Lacey Arnsperger, 40, formerly of Danville, pleaded guilty to retail theft and four counts of forgery, all class 3 felonies. She was sentenced to six years and six months in
-
-
-### HOMICIDE on 2026-11-03 04:17
-- Location: KQED
-- Description: A pregnant woman was killed and six others were injured in the Friday night shooting at Solano Town Center.
-
-
-### HOMICIDE on 2026-11-03 04:00
-- Location: New York Post
-- Description: Police are hunting for party footage after a 16-year-old California high school football star was gunned down at a Halloween bash.
-
-
-### HOMICIDE on 2026-11-03 03:23
-- Location: fox6now.com
-- Description: A Milwaukee police sergeant shot and killed a person driving the wrong-way on State Highway 175 after that person showed a firearm.
-
-
-### HOMICIDE on 2026-11-03 02:50
+### ROBBERY/THEFT on 2026-11-03 05:25
 - Location: The Times of India
-- Description: Abhiram MD, a 16-year-old student, was reported missing and later found dead in a sack. Three individuals, including a minor girl, have been arrested in connection with the case. Investigators believe the motive for murder involved a dispute over a girl he be…
+- Description: A serious conflict arose between Carl Schneider and his son Chris regarding Hybrid Car Store Inc., their family-run dealership. Chris misappropriated corporate funds to pay off personal obligations, resulting in significant financial repercussions. The situat…
 
-Analysis generated at: Wed Nov  4 04:25:49 UTC 2026
+
+### ROBBERY/THEFT on 2026-11-03 05:13
+- Location: The Times of India
+- Description: A couple reported the theft of gold jewellery and cash while traveling on a train to celebrate Diwali. The incident occurred in the early hours at Lucknow's Charbagh railway station on November 2. Despite their calls for help and pulling the alarm chain, no a…
+
+
+### OTHER on 2026-11-03 05:00
+- Location: Americanthinker.com
+- Description: By Silvio Canto, Jr.Federal, state, and local cooperation led to more than 4,000 arrests in Texas without reported incidents.
+
+
+### OTHER on 2026-11-03 05:00
+- Location: Americanthinker.com
+- Description: Photo Credit:
+ 
+ ChatGPT for American ThinkerBy Hamid EnayatFrom classrooms to checkpoints, Tehran is recruiting for its survival; Washington should understand the consequences.
+
+
+### SHOOTING on 2026-11-03 04:47
+- Location: Dailymail.com
+- Description: An early morning blaze on Saturday damaged the Senatobia Police Department headquarters in Mississippi.
+
+Analysis generated at: Wed Nov  4 05:38:29 UTC 2026
