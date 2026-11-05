@@ -1,10 +1,10 @@
 
-Loaded 146351 incidents
-Date range: 2024-01-01 00:00:00 to 2026-11-04 05:44:28
+Loaded 146438 incidents
+Date range: 2024-01-01 00:00:00 to 2026-11-04 13:34:43
 
 Incidents by source:
 source
-newsapi           146250
+newsapi           146337
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-11-04 05:44
+### HOMICIDE on 2026-11-04 13:34
+- Location: Southasiaviews.com
+- Description: From Our Correspondent Sivasagar (Assam), Nov 4: The Assam Police have claimed to have killed, Ghanakanta Gogoi, the main accused in the gory Guwahati Hotel Bilas Inn firing case where 5 people were killed last week.   According to police, Gogoi died at an en…
+
+
+### HOMICIDE on 2026-11-04 13:31
+- Location: The Irish Times
+- Description: Political pressure has since been mounting for investigation into whether faulty firearms holster contributed to murder
+
+
+### OTHER on 2026-11-04 13:26
+- Location: The Times of India
+- Description: SALEM: Security arrangements have been intensified at Salem Junction railway station ahead of the Diwali festival, with police and railway security
+
+
+### OTHER on 2026-11-04 13:25
 - Location: Dailymail.com
-- Description: A court has heard entries from Frances Crawford's notebook in which she weighed up the pros and cons of her marriage, as her husband stands trial accused of strangling her to death.
+- Description: Darializa Avila Chevalier, 32, celebrated a landslide victory on Tuesday night in New York's 13th Congressional District, romping to an easy win over her Republican opponent.
 
 
-### ROBBERY/THEFT on 2026-11-04 05:42
-- Location: Antaranews.com
-- Description: Indonesia&#39;s strategic location and economic assets make it vulnerable to espionage, including the theft of commercial and industrial secrets, experts ...
+### HOMICIDE on 2026-11-04 13:24
+- Location: Dailymail.com
+- Description: Amanda Goff has never forgotten when Abbie Chatfield decided to make their private disagreement public. Now, as the influencer cries about death threats, Goff sees the tide is turning.
 
-
-### ASSAULT on 2026-11-04 05:09
-- Location: ABC News (AU)
-- Description: A luxury car workshop is the latest business to be targeted in Melbourne's ongoing arson attacks.
-
-
-### OTHER on 2026-11-04 05:02
-- Location: ABC News (AU)
-- Description: Trent Merrin is facing five charges following a police investigation that allegedly led to the discovery of a "clandestine lab".
-
-
-### OTHER on 2026-11-04 05:01
-- Location: Reason
-- Description: Although the administration has tried to take credit for the welcome development, there are several reasons to doubt such claims.
-
-Analysis generated at: Thu Nov  5 05:57:49 UTC 2026
+Analysis generated at: Thu Nov  5 13:53:57 UTC 2026
