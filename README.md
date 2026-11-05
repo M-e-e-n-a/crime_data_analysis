@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Nov  5 04:43:50 UTC 2026
+Last updated: Thu Nov  5 05:57:49 UTC 2026
 
 ## Latest Analysis
 
-Loaded 146340 incidents
-Date range: 2024-01-01 00:00:00 to 2026-11-04 03:58:48
+Loaded 146351 incidents
+Date range: 2024-01-01 00:00:00 to 2026-11-04 05:44:28
 
 Incidents by source:
 source
-newsapi           146239
+newsapi           146250
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-11-04 03:58
+### HOMICIDE on 2026-11-04 05:44
+- Location: Dailymail.com
+- Description: A court has heard entries from Frances Crawford's notebook in which she weighed up the pros and cons of her marriage, as her husband stands trial accused of strangling her to death.
+
+
+### ROBBERY/THEFT on 2026-11-04 05:42
+- Location: Antaranews.com
+- Description: Indonesia&#39;s strategic location and economic assets make it vulnerable to espionage, including the theft of commercial and industrial secrets, experts ...
+
+
+### ASSAULT on 2026-11-04 05:09
 - Location: ABC News (AU)
-- Description: A New South Wales man has appeared in a Tasmanian court accused of being involved in trafficking in both methamphetamine and cocaine.
+- Description: A luxury car workshop is the latest business to be targeted in Melbourne's ongoing arson attacks.
 
 
-### OTHER on 2026-11-04 03:49
-- Location: NBC News
-- Description: Democrat Amy Acton has won Ohio’s race for governor, defeating Republican businessman Vivek Ramaswamy, NBC News projects.
-
-
-### OTHER on 2026-11-04 03:35
-- Location: Yahoo Entertainment
-- Description: (AP) — DeWayne Brown II scored 17 points and had 17 rebounds, Terrence Hill Jr. 8 Tennessee beat Wofford 90-59 on Tuesday night to open the season.
-
-
-### OTHER on 2026-11-04 03:02
-- Location: ClutchPoints
-- Description: Luka Doncic and the Los Angeles Lakers took care of the Miami Heat on Monday night, and now the Lakers star is getting some good news from the league office about the technical foul he picked up in the win . The NBA rescinded the second-quarter technical upon…
-
-
-### OTHER on 2026-11-04 03:02
+### OTHER on 2026-11-04 05:02
 - Location: ABC News (AU)
-- Description: A young boy was taken to hospital in a serious condition after being hit by an e-bike outside a primary school in Tahmoor, south-west of Sydney.
+- Description: Trent Merrin is facing five charges following a police investigation that allegedly led to the discovery of a "clandestine lab".
 
-Analysis generated at: Thu Nov  5 04:43:50 UTC 2026
+
+### OTHER on 2026-11-04 05:01
+- Location: Reason
+- Description: Although the administration has tried to take credit for the welcome development, there are several reasons to doubt such claims.
+
+Analysis generated at: Thu Nov  5 05:57:49 UTC 2026
