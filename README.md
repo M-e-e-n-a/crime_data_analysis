@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Nov  5 19:47:06 UTC 2026
+Last updated: Thu Nov  5 23:10:00 UTC 2026
 
 ## Latest Analysis
 
-Loaded 146536 incidents
-Date range: 2024-01-01 00:00:00 to 2026-11-04 19:41:46
+Loaded 146597 incidents
+Date range: 2024-01-01 00:00:00 to 2026-11-04 23:00:16
 
 Incidents by source:
 source
-newsapi           146435
+newsapi           146496
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,30 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-11-04 19:41
-- Location: The Daily Caller
-- Description: The government of Poland is currently undergoing a constitutional crisis that prominent Polish legal figures have called a coup.
+### SHOOTING on 2026-11-04 23:00
+- Location: The-independent.com
+- Description: Haunting video showed the gunman walking through the courtyard with a rifle before opening fire
 
 
-### SHOOTING on 2026-11-04 19:40
-- Location: Thegatewaypundit.com
-- Description: A large law enforcement presence, including Hillsborough County Sheriff’s Office deputies and SWAT teams, responded Wednesday afternoon to the Citi Bank Center corporate campus in Brandon, just outside Tampa, after reports of an active shooter.
-The post HAPPE…
+### OTHER on 2026-11-04 23:00
+- Location: Izismile.com
+- Description: Organized Crimes That Were Labeled As Major By The FBI  (14 PICS)
 
 
-### OTHER on 2026-11-04 19:35
-- Location: Breitbart News
-- Description: The government of Belize this week declared a state of emergency after the Central American nation went through what local outlets described as one of the "bloodiest" weekends in recent history.
-The post Gang Chaos in Caribbean Tourism Hotspot: State of Emerg…
+### HOMICIDE on 2026-11-04 22:41
+- Location: New York Post
+- Description: A Massachusetts district attorney whose tenure was dogged by controversy over his prosecution of Karen Read and the botched probe of a cop accused of killing Sandra Birchmore is set to be replaced after Tuesday's election.
 
 
-### DRUG RELATED on 2026-11-04 19:35
-- Location: ABC News (AU)
-- Description: A 24-year-old has been charged after crashing a BMW into a South Melbourne pizza shop overnight.
+### HOMICIDE on 2026-11-04 22:41
+- Location: New York Post
+- Description: Daniel Sikkema, 56, didn't react much as Judge Edgardo Ramos revealed his fate for plotting a 2024 hit on his estranged hubby Brent Sikkema, 77, at the gallerist's Brazil vacation home amid a bitter divorce and custody fight over their young son.
 
 
-### SHOOTING on 2026-11-04 19:31
-- Location: ABC News (AU)
-- Description: A home owner whose property was targeted in a shooting says she has been financially and psychologically impacted, with no-one to turn to.
+### OTHER on 2026-11-04 22:40
+- Location: Deadline
+- Description: EXCLUSIVE: Meryl Streep has become a major fan of Julia Loktev’s epic two-part documentary My Undesirable Friends, an examination of brave women journalists in Russia who paid a heavy price for daring to report the truth in their country. The three-time Oscar…
 
-Analysis generated at: Thu Nov  5 19:47:06 UTC 2026
+Analysis generated at: Thu Nov  5 23:10:00 UTC 2026
