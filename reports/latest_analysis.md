@@ -1,10 +1,10 @@
 
-Loaded 146438 incidents
-Date range: 2024-01-01 00:00:00 to 2026-11-04 13:34:43
+Loaded 146536 incidents
+Date range: 2024-01-01 00:00:00 to 2026-11-04 19:41:46
 
 Incidents by source:
 source
-newsapi           146337
+newsapi           146435
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,30 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-11-04 13:34
-- Location: Southasiaviews.com
-- Description: From Our Correspondent Sivasagar (Assam), Nov 4: The Assam Police have claimed to have killed, Ghanakanta Gogoi, the main accused in the gory Guwahati Hotel Bilas Inn firing case where 5 people were killed last week.   According to police, Gogoi died at an en…
+### OTHER on 2026-11-04 19:41
+- Location: The Daily Caller
+- Description: The government of Poland is currently undergoing a constitutional crisis that prominent Polish legal figures have called a coup.
 
 
-### HOMICIDE on 2026-11-04 13:31
-- Location: The Irish Times
-- Description: Political pressure has since been mounting for investigation into whether faulty firearms holster contributed to murder
+### SHOOTING on 2026-11-04 19:40
+- Location: Thegatewaypundit.com
+- Description: A large law enforcement presence, including Hillsborough County Sheriff’s Office deputies and SWAT teams, responded Wednesday afternoon to the Citi Bank Center corporate campus in Brandon, just outside Tampa, after reports of an active shooter.
+The post HAPPE…
 
 
-### OTHER on 2026-11-04 13:26
-- Location: The Times of India
-- Description: SALEM: Security arrangements have been intensified at Salem Junction railway station ahead of the Diwali festival, with police and railway security
+### OTHER on 2026-11-04 19:35
+- Location: Breitbart News
+- Description: The government of Belize this week declared a state of emergency after the Central American nation went through what local outlets described as one of the "bloodiest" weekends in recent history.
+The post Gang Chaos in Caribbean Tourism Hotspot: State of Emerg…
 
 
-### OTHER on 2026-11-04 13:25
-- Location: Dailymail.com
-- Description: Darializa Avila Chevalier, 32, celebrated a landslide victory on Tuesday night in New York's 13th Congressional District, romping to an easy win over her Republican opponent.
+### DRUG RELATED on 2026-11-04 19:35
+- Location: ABC News (AU)
+- Description: A 24-year-old has been charged after crashing a BMW into a South Melbourne pizza shop overnight.
 
 
-### HOMICIDE on 2026-11-04 13:24
-- Location: Dailymail.com
-- Description: Amanda Goff has never forgotten when Abbie Chatfield decided to make their private disagreement public. Now, as the influencer cries about death threats, Goff sees the tide is turning.
+### SHOOTING on 2026-11-04 19:31
+- Location: ABC News (AU)
+- Description: A home owner whose property was targeted in a shooting says she has been financially and psychologically impacted, with no-one to turn to.
 
-Analysis generated at: Thu Nov  5 13:53:57 UTC 2026
+Analysis generated at: Thu Nov  5 19:47:06 UTC 2026
