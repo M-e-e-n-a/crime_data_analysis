@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Nov  5 23:10:00 UTC 2026
+Last updated: Fri Nov  6 04:42:01 UTC 2026
 
 ## Latest Analysis
 
-Loaded 146597 incidents
-Date range: 2024-01-01 00:00:00 to 2026-11-04 23:00:16
+Loaded 146629 incidents
+Date range: 2024-01-01 00:00:00 to 2026-11-05 04:12:00
 
 Incidents by source:
 source
-newsapi           146496
+newsapi           146528
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,30 @@ ion.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-11-04 23:00
-- Location: The-independent.com
-- Description: Haunting video showed the gunman walking through the courtyard with a rifle before opening fire
+### OTHER on 2026-11-05 04:12
+- Location: ComicBook.com
+- Description: Image Courtesy of Marvel Comics
+
+A classic Daredevil villain is back, and he has been changed in a way that completely eliminates one of the hero’s greatest strengths. In the most recent issue of Daredevil, Matt Murdock has a lot on his mind as he looks for E…
 
 
-### OTHER on 2026-11-04 23:00
-- Location: Izismile.com
-- Description: Organized Crimes That Were Labeled As Major By The FBI  (14 PICS)
+### OTHER on 2026-11-05 03:53
+- Location: LancasterOnline
+- Description: The Columbia Borough Fire Department announced late Wednesday that more than $20,000 in department funds was the target of check fraud.
 
 
-### HOMICIDE on 2026-11-04 22:41
-- Location: New York Post
-- Description: A Massachusetts district attorney whose tenure was dogged by controversy over his prosecution of Karen Read and the botched probe of a cop accused of killing Sandra Birchmore is set to be replaced after Tuesday's election.
+### SHOOTING on 2026-11-05 03:52
+- Location: Rt-english.com
+- Description: A gunman has rammed his car through a security fence at a Citibank corporate campus in Florida and fatally shot a female employee before being gunned down by an armed security guard.
 
 
-### HOMICIDE on 2026-11-04 22:41
-- Location: New York Post
-- Description: Daniel Sikkema, 56, didn't react much as Judge Edgardo Ramos revealed his fate for plotting a 2024 hit on his estranged hubby Brent Sikkema, 77, at the gallerist's Brazil vacation home amid a bitter divorce and custody fight over their young son.
+### HOMICIDE on 2026-11-05 03:45
+- Location: Gossiplankanews.com
+- Description: A highly tragic incident has been reported from Doragala, Gampola, an area belonging to the Pussellawa Police Division, where the lives of a woman, who, after a failed marriage, was hoping to build a new nest with new hopes, and her new partner, suddenly came…
 
 
-### OTHER on 2026-11-04 22:40
-- Location: Deadline
-- Description: EXCLUSIVE: Meryl Streep has become a major fan of Julia Loktev’s epic two-part documentary My Undesirable Friends, an examination of brave women journalists in Russia who paid a heavy price for daring to report the truth in their country. The three-time Oscar…
+### HOMICIDE on 2026-11-05 03:38
+- Location: Rlsbb.cc
+- Description: Season 3, Episode 05 – “A Secret burden”Late one summer night in 2011, a mysterious man walks into a police station in Lewiston, Maine, accusing his best friend of murder. When his friend claims he is the actual killer, detectives must determine who is tellin…
 
-Analysis generated at: Thu Nov  5 23:10:00 UTC 2026
+Analysis generated at: Fri Nov  6 04:42:01 UTC 2026
