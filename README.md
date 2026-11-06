@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Nov  6 05:53:53 UTC 2026
+Last updated: Fri Nov  6 13:38:46 UTC 2026
 
 ## Latest Analysis
 
-Loaded 146636 incidents
-Date range: 2024-01-01 00:00:00 to 2026-11-05 05:30:30
+Loaded 146712 incidents
+Date range: 2024-01-01 00:00:00 to 2026-11-05 13:27:13
 
 Incidents by source:
 source
-newsapi           146535
+newsapi           146611
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2026-11-05 05:30
-- Location: Gossiplankanews.com
-- Description: A news report from Boralesgamuwa, Neelammahara area states that a chance encounter at the Pettah bus stand on October 25 last year turned into a robbery of property worth over 1.7 million rupees within a few days.
-<!--gossip-below-article-Rs--> (adsbygoogle …
+### HOMICIDE on 2026-11-05 13:27
+- Location: BBC News
+- Description: Two 16-year-old boys from Southampton are arrested on suspicion of attempted murder.
 
 
-### OTHER on 2026-11-05 05:28
-- Location: Abcnews.com
-- Description: In Cambodia, workers carried out online scams against people worldwide from inside massive fortified buildings they weren't allowed to leave
+### SHOOTING on 2026-11-05 13:25
+- Location: Freerepublic.com
+- Description: When Islamic terrorists strike, when there’s an active shooter or a riot in progress, the elite members of the NYPD’s Strategic Response Group are there as the tip of the spear. The SRG is more than a SWAT team, it’s a rapid response group made up of hundreds…
 
 
-### OTHER on 2026-11-05 05:26
-- Location: Abcnews.com
-- Description: In Cambodia, workers carried out online scams against people worldwide from inside massive fortified buildings they weren't allowed to leave
+### OTHER on 2026-11-05 13:22
+- Location: The Times of India
+- Description: CJP activist Saurav Das rebuffed Union minister Jitendra Singh's allegations regarding foreign funding for their movement. Das demanded the provision of evidence to justify the claims being made against them. Ashutosh Ranka also challenged Singh, questioning …
 
 
-### OTHER on 2026-11-05 05:15
-- Location: The Irish Times
-- Description: Walmart call upon the Muppets for heavy-handed Scrooge allegory while Prada target Hollywood’s emerging stars
+### ASSAULT on 2026-11-05 13:13
+- Location: RNZ
+- Description: Teams of specialist paramedics who backed police at the 2019 mosque attacks and would back firefighters in Auckland's rail tunnels are being shut down.
 
 
-### OTHER on 2026-11-05 05:00
-- Location: Americanthinker.com
-- Description: By Brian LonerganThe View's co-host Navarro spews venom and outright lies about lawmen doing their job to spin her gullible audience.
+### OTHER on 2026-11-05 13:12
+- Location: Dailymail.com
+- Description: Police say 'underage girls' were seen at the Philippines home of Thomas Markle Jnr, Meghan's half-brother. He has allegedly claimed to officers they were involved in making TikTok videos.
 
-Analysis generated at: Fri Nov  6 05:53:53 UTC 2026
+Analysis generated at: Fri Nov  6 13:38:46 UTC 2026
