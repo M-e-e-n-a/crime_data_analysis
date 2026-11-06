@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Nov  6 19:08:38 UTC 2026
+Last updated: Fri Nov  6 22:39:26 UTC 2026
 
 ## Latest Analysis
 
-Loaded 146810 incidents
-Date range: 2024-01-01 00:00:00 to 2026-11-05 19:05:36
+Loaded 146864 incidents
+Date range: 2024-01-01 00:00:00 to 2026-11-05 22:24:39
 
 Incidents by source:
 source
-newsapi           146709
+newsapi           146763
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-11-05 19:05
-- Location: Techdirt
-- Description: We all know ICE officers can’t be trusted. Neither can the agency that heads up most of Trump’s anti-migrant activities. Every murder by immigration officers is immediately greeted with self-justifying lies about “threats” to officers. Every assault gets the …
+### HOMICIDE on 2026-11-05 22:24
+- Location: Abcnews.com
+- Description: An attacker armed with a shotgun has killed eight people in three locations in western Turkey
 
 
-### SHOOTING on 2026-11-05 19:03
-- Location: Fox News
-- Description: Florida Marine veteran John Fraley took a tactical position in a restroom and shot the Citibank Center campus gunman five times, the sheriff said.
+### HOMICIDE on 2026-11-05 22:15
+- Location: Dailymail.com
+- Description: Beau Lamarre-Condon broke down in tears about five times within the four hours he was in the witness box during his double murder trial on Thursday.
 
 
-### ROBBERY/THEFT on 2026-11-05 19:01
-- Location: The Times of India
-- Description: CM Yogi Adityanath likens Rahul Gandhi to a failing schoolboy, attacks Congress over “vote theft” protests, Emergency, and criticism of EVMs and SIR in Ghaziabad.
+### SHOOTING on 2026-11-05 22:14
+- Location: The Daily Caller
+- Description: Australian gun owners are handing over their firearms in a “buyback” that commenced Monday, according to reports from the media.
 
 
-### OTHER on 2026-11-05 19:00
-- Location: Decider
-- Description: Nocturne release dates, times, and more.
+### HOMICIDE on 2026-11-05 22:13
+- Location: New York Post
+- Description: A convicted killer who broke out of a Tennessee prison treated himself to cold beer and garlic bread while on the run before stealing three guns during a wild 10-day escape, according to authorities.
 
 
-### OTHER on 2026-11-05 19:00
-- Location: Talosintelligence.com
-- Description: Thorsten may have had to camp out in Nuremberg to attend it-sa, but the real story is the initiative to add a formal IT Security apprenticeship program in Germany for the thousands of young hackers ready to join our side.
+### OTHER on 2026-11-05 22:08
+- Location: New Zealand Herald
+- Description: OPINION: In the first nine days of the new powers, police issued 29 move-on orders.
 
-Analysis generated at: Fri Nov  6 19:08:38 UTC 2026
+Analysis generated at: Fri Nov  6 22:39:26 UTC 2026
