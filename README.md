@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Nov  7 17:41:38 UTC 2026
+Last updated: Sat Nov  7 21:22:17 UTC 2026
 
 ## Latest Analysis
 
-Loaded 147105 incidents
-Date range: 2024-01-01 00:00:00 to 2026-11-06 17:39:55
+Loaded 147204 incidents
+Date range: 2024-01-01 00:00:00 to 2026-11-06 21:05:00
 
 Incidents by source:
 source
-newsapi           147004
+newsapi           147103
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,30 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2026-11-06 17:39
-- Location: The Times of India
-- Description: Bengaluru police probe theft of 450–500g gold worth Rs 64 lakh from a diamond firm employee’s home; domestic help and her daughter suspected under BNS 306.
+### HOMICIDE on 2026-11-06 21:05
+- Location: TheBlaze
+- Description: Among the Democrats voted into office on Tuesday are a handful of radicals facing criminal charges and at least one convicted felon.Lakesha Womack, a black identitarian who vowed to apply an "equity-focused lens to legislation," unseated Republican incumbent …
 
 
-### SHOOTING on 2026-11-06 17:39
-- Location: Abcnews.com
-- Description: Former NFL star Antonio Brown has pleaded guilty to aggravated assault with a firearm in connection with a 2025 shooting in Miami
+### OTHER on 2026-11-06 21:04
+- Location: Rt-english.com
+- Description: RT’s top stories this week included the Republican Party’s devastating loss in the US midterms, Poland’s constitutional crisis, and the the discovery of a neo-Naxi torture dungeon in Ukraine
 
 
-### HOMICIDE on 2026-11-06 17:35
-- Location: The Punch
-- Description: A 50-year-old man, identified as Jude Thaddeus, has been allegedly killed, with his body dumped in a dry well and set ablaze at his residence in Aku Village, Base 5, Karu Local Government Area of Nasarawa State.
-
-Read More: https://punchng.com/50-year-old-man…
+### OTHER on 2026-11-06 21:00
+- Location: Den of Geek US
+- Description: When Doctor Stephen Strange arrives in Kamar-Taj at the start of the 2016 movie Doctor Strange he thinks he knows everything. As in the Marvel comics by Steve Ditko and Stan Lee that inspired the film, Strange has come to find a cure for his shattered hands. …
 
 
-### HOMICIDE on 2026-11-06 17:34
-- Location: Dailymail.com
-- Description: Antonio Brown appears to have avoided prison time after pleading guilty Friday to aggravated assault with a firearm more than a year after being accused of attempted murder.
+### SHOOTING on 2026-11-06 20:59
+- Location: Tampa Bay Times
+- Description: MIAMI — Former NFL star Antonio Brown, who played with the Bucs in 2020-21, pleaded guilty Friday to aggravated assault with a firearm in connection with a 2025 shooting outside a celebrity boxing match in Miami. Judge Marisa Tinkler Mendez sentenced Brown to…
 
 
-### HOMICIDE on 2026-11-06 17:32
-- Location: New York Post
-- Description: The foster mom of a 10-year-old girl who vanished weeks ago is now charged with her murder — and police alleged the tragic victim was abused in a “dungeon” before she was killed. Carprice Williams, a 36-year-old teacher, is charged with killing little Malaysh…
+### HOMICIDE on 2026-11-06 20:51
+- Location: The Big Lead
+- Description: Antonio Brown reaches a plea deal in his Miami shooting case.
 
-Analysis generated at: Sat Nov  7 17:41:38 UTC 2026
+Analysis generated at: Sat Nov  7 21:22:17 UTC 2026
