@@ -1,10 +1,10 @@
 
-Loaded 146904 incidents
-Date range: 2024-01-01 00:00:00 to 2026-11-06 04:05:55
+Loaded 146916 incidents
+Date range: 2024-01-01 00:00:00 to 2026-11-06 05:14:36
 
 Incidents by source:
 source
-newsapi           146803
+newsapi           146815
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-11-06 04:05
-- Location: ABC News (AU)
-- Description: A woman and two men have been found with stab wounds at a home in Melbourne's south-east, with police saying family violence detectives are leading the investigation.
-
-
-### HOMICIDE on 2026-11-06 04:05
+### HOMICIDE on 2026-11-06 05:14
 - Location: The Times of India
-- Description: Three contractors were arrested in connection with the building collapse in Chawri Bazar that killed two people. Five individuals remain trapped in the basement as rescue operations continue in the area. The building collapsed due to suspected improper remova…
+- Description: During a police mission along the Ganga river in Sherpur, three suspects were shot and killed in a confrontation. Maner Station House Officer Rajnish Kumar was injured by gunfire but is receiving treatment. The Patna Special Task Force and local police coordi…
 
 
-### HOMICIDE on 2026-11-06 03:57
-- Location: ABC News (AU)
-- Description: A forensic pathologist has told a murder trial that injuries found on 49-year-old Frances Crawford's body were consistent with her being strangled in a chokehold and trying to free herself.
+### OTHER on 2026-11-06 04:45
+- Location: Peoplesreview.com.np
+- Description: Kathmandu, Nov 6: Nepal Police have stepped up security across the country under a special security plan for Tihar, Nepal Sambat and Chhath, deploying additional personnel to prevent crime, manage crowds and respond to emergencies during the festive season. T…
 
 
-### OTHER on 2026-11-06 03:50
+### SHOOTING on 2026-11-06 04:44
+- Location: Freerepublic.com
+- Description: DENVER (KDVR) — Several Lakewood police officers were injured in a shooting Thursday night, a source tells FOX31.
+
+
+### HOMICIDE on 2026-11-06 04:36
+- Location: Fox News
+- Description: A suspect trying to board an RTD bus near Denver opened fire on Lakewood police officers, killing one and wounding three others Thursday evening.
+
+
+### OTHER on 2026-11-06 04:34
 - Location: The Times of India
-- Description: In 2014, Athanasia Arkalis captured a memorable video of her future spouse, Andreas, at an airport. Fast forward to 2018, a chance reconnection through a mutual friend reignited their romance. While comparing passports, they uncovered a delightful coincidence…
+- Description: Pope Leo XIV is set to commence a 12-day journey through Latin America, including an important stop in Peru. Following his recovery from lung cancer surgery, he is eager to fulfill his responsibilities. This tour not only aims to bolster his health but also t…
 
-
-### HOMICIDE on 2026-11-06 03:47
-- Location: ABC News (AU)
-- Description: Mark Akers was found dead on the side of the Newell Highway in June last year. The woman charged with his murder has pleaded not guilty.
-
-Analysis generated at: Sat Nov  7 04:09:05 UTC 2026
+Analysis generated at: Sat Nov  7 05:24:49 UTC 2026
