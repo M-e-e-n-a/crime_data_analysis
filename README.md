@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Nov  7 12:18:20 UTC 2026
+Last updated: Sat Nov  7 17:41:38 UTC 2026
 
 ## Latest Analysis
 
-Loaded 147007 incidents
-Date range: 2024-01-01 00:00:00 to 2026-11-06 12:07:37
+Loaded 147105 incidents
+Date range: 2024-01-01 00:00:00 to 2026-11-06 17:39:55
 
 Incidents by source:
 source
-newsapi           146906
+newsapi           147004
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,30 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-11-06 12:07
+### ROBBERY/THEFT on 2026-11-06 17:39
 - Location: The Times of India
-- Description: Indushekar allegedly killed his wife, mother-in-law, and five relatives in Bengaluru due to domestic strife. After the initial murder, he reportedly invited his brothers-in-law and later killed them with the same weapon. The bodies are believed to have been h…
+- Description: Bengaluru police probe theft of 450–500g gold worth Rs 64 lakh from a diamond firm employee’s home; domestic help and her daughter suspected under BNS 306.
 
 
-### ROBBERY/THEFT on 2026-11-06 12:04
-- Location: The Times of India
-- Description: Hazaribag police arrested an 18-year-old and detained two minors over Daily Market shop burglary; Rs 30,000 and a monitor stolen, linked to Nov 4 theft.
+### SHOOTING on 2026-11-06 17:39
+- Location: Abcnews.com
+- Description: Former NFL star Antonio Brown has pleaded guilty to aggravated assault with a firearm in connection with a 2025 shooting in Miami
 
 
-### OTHER on 2026-11-06 12:00
+### HOMICIDE on 2026-11-06 17:35
+- Location: The Punch
+- Description: A 50-year-old man, identified as Jude Thaddeus, has been allegedly killed, with his body dumped in a dry well and set ablaze at his residence in Aku Village, Base 5, Karu Local Government Area of Nasarawa State.
+
+Read More: https://punchng.com/50-year-old-man…
+
+
+### HOMICIDE on 2026-11-06 17:34
 - Location: Dailymail.com
-- Description: The 51-year-old is still worth at least £20million, having shamelessly shilled himself online during his criminal trial.
+- Description: Antonio Brown appears to have avoided prison time after pleading guilty Friday to aggravated assault with a firearm more than a year after being accused of attempted murder.
 
 
-### OTHER on 2026-11-06 12:00
-- Location: The Atlantic
-- Description: Leo’s upcoming trip to South America is an early test of how he’ll handle a geopolitical challenge that will shape his pontificate.
-
-
-### HOMICIDE on 2026-11-06 12:00
+### HOMICIDE on 2026-11-06 17:32
 - Location: New York Post
-- Description: Sandra Birchmore was allegedly groomed by police officers, sexually abused from the age of 15 and then murdered when she got pregnant in 2021 by disgraced Stoughton Detective Matthew Farwell.
+- Description: The foster mom of a 10-year-old girl who vanished weeks ago is now charged with her murder — and police alleged the tragic victim was abused in a “dungeon” before she was killed. Carprice Williams, a 36-year-old teacher, is charged with killing little Malaysh…
 
-Analysis generated at: Sat Nov  7 12:18:20 UTC 2026
+Analysis generated at: Sat Nov  7 17:41:38 UTC 2026
