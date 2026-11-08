@@ -1,10 +1,10 @@
 
-Loaded 147204 incidents
-Date range: 2024-01-01 00:00:00 to 2026-11-06 21:05:00
+Loaded 147224 incidents
+Date range: 2024-01-01 00:00:00 to 2026-11-07 03:41:00
 
 Incidents by source:
 source
-newsapi           147103
+newsapi           147123
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-11-06 21:05
-- Location: TheBlaze
-- Description: Among the Democrats voted into office on Tuesday are a handful of radicals facing criminal charges and at least one convicted felon.Lakesha Womack, a black identitarian who vowed to apply an "equity-focused lens to legislation," unseated Republican incumbent …
+### OTHER on 2026-11-07 03:41
+- Location: ComicBook.com
+- Description: Sci-fi television shows can be a difficult sell when it comes to lasting a long time. Typically, sci-fi series have complex concepts that need time to develop and when they work, it can result in some of the best TV we’ve ever seen. For every success like The…
 
 
-### OTHER on 2026-11-06 21:04
-- Location: Rt-english.com
-- Description: RT’s top stories this week included the Republican Party’s devastating loss in the US midterms, Poland’s constitutional crisis, and the the discovery of a neo-Naxi torture dungeon in Ukraine
+### SHOOTING on 2026-11-07 03:36
+- Location: Variety
+- Description: Chunghwa Telecom, Taiwan’s largest telecom operator, announced 10 new investments at its “Chunghwa Telecom Content Slate and Partnership Showcase,” spanning film, TV and music projects as well as stakes in two production companies. The company pitched the sla…
 
 
-### OTHER on 2026-11-06 21:00
-- Location: Den of Geek US
-- Description: When Doctor Stephen Strange arrives in Kamar-Taj at the start of the 2016 movie Doctor Strange he thinks he knows everything. As in the Marvel comics by Steve Ditko and Stan Lee that inspired the film, Strange has come to find a cure for his shattered hands. …
+### OTHER on 2026-11-07 03:14
+- Location: The Times of India
+- Description: An explosion occurred at the Vasundhara police outpost in Ghaziabad, resulting in injuries to a delivery worker. The delivery boy was present at the police post when the blast happened and was hurt by glass shards. Authorities have confirmed that a sub-inspec…
 
 
-### SHOOTING on 2026-11-06 20:59
-- Location: Tampa Bay Times
-- Description: MIAMI — Former NFL star Antonio Brown, who played with the Bucs in 2020-21, pleaded guilty Friday to aggravated assault with a firearm in connection with a 2025 shooting outside a celebrity boxing match in Miami. Judge Marisa Tinkler Mendez sentenced Brown to…
+### OTHER on 2026-11-07 03:00
+- Location: Khabarhub.com
+- Description: KATHMANDU: Nepal Police has stepped up security measures across the country ahead of Tihar, Deepawali, Nepal Sambat and Chhath, deploying additional personnel and strengthening surveillance to prevent criminal activities and ensure public safety during the fe…
 
 
-### HOMICIDE on 2026-11-06 20:51
-- Location: The Big Lead
-- Description: Antonio Brown reaches a plea deal in his Miami shooting case.
+### HOMICIDE on 2026-11-07 02:15
+- Location: Freerepublic.com
+- Description: Twenty years after University of Miami football star Bryan Pata was fatally shot, his loved ones hoped 2026 would bring long-awaited justice and a turning point for their sorrow and frustration. But instead of a verdict in the murder trial of Pata's ex-teamma…
 
-Analysis generated at: Sat Nov  7 21:22:17 UTC 2026
+Analysis generated at: Sun Nov  8 03:53:37 UTC 2026
