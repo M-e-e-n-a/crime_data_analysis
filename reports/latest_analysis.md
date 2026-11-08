@@ -1,10 +1,10 @@
 
-Loaded 147224 incidents
-Date range: 2024-01-01 00:00:00 to 2026-11-07 03:41:00
+Loaded 147233 incidents
+Date range: 2024-01-01 00:00:00 to 2026-11-07 05:19:04
 
 Incidents by source:
 source
-newsapi           147123
+newsapi           147132
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-11-07 03:41
-- Location: ComicBook.com
-- Description: Sci-fi television shows can be a difficult sell when it comes to lasting a long time. Typically, sci-fi series have complex concepts that need time to develop and when they work, it can result in some of the best TV we’ve ever seen. For every success like The…
+### HOMICIDE on 2026-11-07 05:19
+- Location: Business Standard
+- Description: The toll in the three-storey building collapse in Old Delhi's Hauz Qazi area rose to three on Saturday after the body of another labourer was recovered from the debris during the ongoing rescue operations, officials said.
+The deceased has been identified as P…
 
 
-### SHOOTING on 2026-11-07 03:36
-- Location: Variety
-- Description: Chunghwa Telecom, Taiwan’s largest telecom operator, announced 10 new investments at its “Chunghwa Telecom Content Slate and Partnership Showcase,” spanning film, TV and music projects as well as stakes in two production companies. The company pitched the sla…
-
-
-### OTHER on 2026-11-07 03:14
+### OTHER on 2026-11-07 05:15
 - Location: The Times of India
-- Description: An explosion occurred at the Vasundhara police outpost in Ghaziabad, resulting in injuries to a delivery worker. The delivery boy was present at the police post when the blast happened and was hurt by glass shards. Authorities have confirmed that a sub-inspec…
+- Description: The Maharashtra CET Cell has filed a police complaint at Mumbai's Azad Maidan Police Station over an alleged audio recording involving claims of examination centre manipulation and marks enhancement in MHT CET. The recording has been submitted to police for i…
 
 
-### OTHER on 2026-11-07 03:00
-- Location: Khabarhub.com
-- Description: KATHMANDU: Nepal Police has stepped up security measures across the country ahead of Tihar, Deepawali, Nepal Sambat and Chhath, deploying additional personnel and strengthening surveillance to prevent criminal activities and ensure public safety during the fe…
+### HOMICIDE on 2026-11-07 05:08
+- Location: The Times of India
+- Description: A building collapse in Chawri Bazar, Delhi, led to the deaths of two labourers, Kishori Sah and Sanjeet. Police arrested three contractors from Faridabad for culpable homicide not amounting to murder. These contractors were aware of the unsafe construction co…
 
 
-### HOMICIDE on 2026-11-07 02:15
-- Location: Freerepublic.com
-- Description: Twenty years after University of Miami football star Bryan Pata was fatally shot, his loved ones hoped 2026 would bring long-awaited justice and a turning point for their sorrow and frustration. But instead of a verdict in the murder trial of Pata's ex-teamma…
+### HOMICIDE on 2026-11-07 05:02
+- Location: Al Jazeera English
+- Description: Haiti's National Police announced that alleged gang leader Mathias Saintil was killed in an exchange of gunfire.
 
-Analysis generated at: Sun Nov  8 03:53:37 UTC 2026
+
+### OTHER on 2026-11-07 05:00
+- Location: Americanthinker.com
+- Description: By Ruel DomiNicaragua should also be among America's priorities in Latin America.
+
+Analysis generated at: Sun Nov  8 05:22:47 UTC 2026
