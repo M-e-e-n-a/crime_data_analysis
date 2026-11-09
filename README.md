@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Mon Nov  9 14:57:22 UTC 2026
+Last updated: Mon Nov  9 22:09:06 UTC 2026
 
 ## Latest Analysis
 
-Loaded 147531 incidents
-Date range: 2024-01-01 00:00:00 to 2026-11-08 14:55:00
+Loaded 147605 incidents
+Date range: 2024-01-01 00:00:00 to 2026-11-08 21:54:10
 
 Incidents by source:
 source
-newsapi           147430
+newsapi           147504
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,29 +24,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-11-08 14:55
-- Location: Newser
-- Description: Two separate shootings during homecoming weekend at a college in North Carolina have left one person dead and three injured, police said Sunday. Assistant Police Chief Jason Swaim of the Winston-Salem Police Department said both shootings occurred Saturday on…
-
-
-### HOMICIDE on 2026-11-08 14:52
+### OTHER on 2026-11-08 21:54
 - Location: Dailymail.com
-- Description: Sayed Mohassib, 27, allegedly fatally stabbed Katie Suarez, 28, on October 30 near Bay 17th Street and Shore Parkway in Bath Beach, New York.
+- Description: Officers swooped on the San Francisco home at the center of a property fraud scandal, with two people accused of using forged deeds in an attempt to steal the residence and sell it for a huge profit.
 
 
-### OTHER on 2026-11-08 14:42
-- Location: The Conversation Africa
-- Description: Kant called Indigenous Peoples of the Americas ‘incapable of any culture.’ The source he cited tells a different story, questioning how we read classic authors.
+### OTHER on 2026-11-08 21:26
+- Location: Dailymail.com
+- Description: Over $12 million gone without a trace. Multiple counts of embezzlement, larceny and forgery. A disappearance without explanation. And - the most painful of all - a devastating betrayal.
 
 
-### OTHER on 2026-11-08 14:37
-- Location: LancasterOnline
-- Description: Chris Eccles barely noticed it at first — a small plastic bag filled with pieces of candy and a folded up paper lying near his mailbox.
+### OTHER on 2026-11-08 21:21
+- Location: Freerepublic.com
+- Description: Conservatives and leftists alike have quickly embraced the notion that America’s perception of President Donald Trump’s decision to go to war with Iran, and of its being a never-ending war, would keep the price of gas and diesel high. This, they believed, is …
 
 
-### HOMICIDE on 2026-11-08 14:30
+### OTHER on 2026-11-08 21:21
+- Location: Freerepublic.com
+- Description: Conservatives and leftists alike have quickly embraced the notion that America’s perception of President Donald Trump’s decision to go to war with Iran, and of its being a never-ending war, would keep the price of gas and diesel high. This, they believed, is …
+
+
+### SHOOTING on 2026-11-08 21:20
 - Location: Thegatewaypundit.com
-- Description: A former NYPD police officer was arrested and charged with murder for fatally stabbing a female jogger in New York City on October 30.
-The post HORROR: Former NYPD Officer Sayed Mohassib Arrested For Fatally Stabbing Female Jogger in NYC appeared first on The…
+- Description: The "Iowa man" who allegedly opened fire on two McDonald’s employees over a wrong order was Hassan Ali Mohamed, a 25-year-old Somali citizen originally from Kenya.
+The post ‘Iowa Man’ Who Shot Two McDonald’s Workers Over Wrong Order Was Somali from Kenya Gran…
 
-Analysis generated at: Mon Nov  9 14:57:22 UTC 2026
+Analysis generated at: Mon Nov  9 22:09:05 UTC 2026
