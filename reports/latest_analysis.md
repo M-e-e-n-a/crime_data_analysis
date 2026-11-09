@@ -1,10 +1,10 @@
 
-Loaded 147417 incidents
-Date range: 2024-01-01 00:00:00 to 2026-11-07 21:34:00
+Loaded 147455 incidents
+Date range: 2024-01-01 00:00:00 to 2026-11-08 04:03:09
 
 Incidents by source:
 source
-newsapi           147316
+newsapi           147354
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-11-07 21:34
-- Location: DW (English)
-- Description: A gunman who fired from a car killed at least six people, including a British tourist, in Krakow's main market square. The suspect was wounded by police and taken to a hospital. At least six people were killed and sixteen injured in a shooting near the main m…
+### OTHER on 2026-11-08 04:03
+- Location: Livemint
+- Description: Fake loan apps are targeting young borrowers with instant credit offers this Diwali 2026. Know how these digital lending scams work and follow five essential precautions to protect your money, personal information and financial security.
 
 
-### HOMICIDE on 2026-11-07 21:34
-- Location: DW (English)
-- Description: A gunman who fired from a car killed at least six people, including a British tourist, in Krakow's main market square. The suspect was wounded by police and taken to a hospital. At least six people were killed and sixteen injured in a shooting near the main m…
+### OTHER on 2026-11-08 04:01
+- Location: The Times of India
+- Description: The United Arab Emirates (UAE) Coast Guard rescued 22 crew members of Arab nationality after a fire broke out aboard a cargo ship in the Gulf of Oman.
 
 
-### HOMICIDE on 2026-11-07 21:01
-- Location: New York Post
-- Description: Shocking footage shows the moment a maniac was shot by cops after he killed four women and two men while randomly firing from a car onto a busy market square in Krakow on Saturday afternoon.
+### OTHER on 2026-11-08 04:00
+- Location: The Times of India
+- Description: Bombay High Court quashed the FIR and charges against four former Jet Airways employees. The court found insufficient evidence to establish criminal intentions related to bribery. Justice Milind Jadhav noted the prosecution failed to prove a criminal conspira…
 
 
-### OTHER on 2026-11-07 20:52
-- Location: TVLine
-- Description: "The Sinner" is the perfect blend of mystery and crime procedural, and its first season was so good, the show was expanded beyond its intended limited run.
+### OTHER on 2026-11-08 03:59
+- Location: The Times of India
+- Description: A Diwali celebration in Seattle was disrupted on Saturday (local time) after far-right American activist Jake Lang and a group of protesters attempted to
 
 
-### ROBBERY/THEFT on 2026-11-07 20:45
-- Location: K24.digital
-- Description: Behind the suits and desks, civil servants are battling financial strain, heavy workloads, trauma, family problems and substance use are taking a toll…
+### HOMICIDE on 2026-11-08 03:44
+- Location: Freerepublic.com
+- Description: FORT WORTH, Texas - A Fort Worth mother is facing a capital murder charge after police say she drowned her newborn baby in a motel bathtub before her boyfriend threw the body in a dumpster. What we know: Avia Cantrell, 23, and Camron Baker, 26, are now facing…
 
-Analysis generated at: Sun Nov  8 21:35:52 UTC 2026
+Analysis generated at: Mon Nov  9 04:04:17 UTC 2026
