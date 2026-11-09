@@ -1,10 +1,10 @@
 
-Loaded 147469 incidents
-Date range: 2024-01-01 00:00:00 to 2026-11-08 05:09:26
+Loaded 147531 incidents
+Date range: 2024-01-01 00:00:00 to 2026-11-08 14:55:00
 
 Incidents by source:
 source
-newsapi           147368
+newsapi           147430
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,29 +20,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-11-08 05:09
-- Location: The Times of India
-- Description: Monu Sharma allegedly shot Paramjeet Dhankar during a confrontation over a damaged gate in their parking area. Before the shooting, Sharma had threatened Dhankar at a police post, warning he would not leave him alive. The incident escalated when Sharma called…
+### HOMICIDE on 2026-11-08 14:55
+- Location: Newser
+- Description: Two separate shootings during homecoming weekend at a college in North Carolina have left one person dead and three injured, police said Sunday. Assistant Police Chief Jason Swaim of the Winston-Salem Police Department said both shootings occurred Saturday on…
 
 
-### OTHER on 2026-11-08 05:05
-- Location: The American Conservative
-- Description: Voters in South Florida shared their frustrations with The American Conservative.
-The post How the GOP Can Win Back Latinos appeared first on The American Conservative.
+### HOMICIDE on 2026-11-08 14:52
+- Location: Dailymail.com
+- Description: Sayed Mohassib, 27, allegedly fatally stabbed Katie Suarez, 28, on October 30 near Bay 17th Street and Shore Parkway in Bath Beach, New York.
 
 
-### HOMICIDE on 2026-11-08 05:02
-- Location: Fox News
-- Description: Austin Payne's mother tracked his cellphone to an abandoned Albany, Georgia, residence after the 15-year-old called to say he had been shot.
+### OTHER on 2026-11-08 14:42
+- Location: The Conversation Africa
+- Description: Kant called Indigenous Peoples of the Americas ‘incapable of any culture.’ The source he cited tells a different story, questioning how we read classic authors.
 
 
-### ASSAULT on 2026-11-08 05:00
-- Location: Americanthinker.com
-- Description: By Leann HorrocksIf the Republicans don’t fight from now to January, it’s hard to see a way back to the America we knew.
+### OTHER on 2026-11-08 14:37
+- Location: LancasterOnline
+- Description: Chris Eccles barely noticed it at first — a small plastic bag filled with pieces of candy and a folded up paper lying near his mailbox.
 
 
-### SHOOTING on 2026-11-08 04:55
-- Location: ARLnow
-- Description: Arlington police have arrested a man suspected of firing a gun at four locations across North Arlington late Friday night and early Saturday morning. Eric Schaefer, 39, of Arlington, is charged with three counts of reckless handling of a firearm and three cou…
+### HOMICIDE on 2026-11-08 14:30
+- Location: Thegatewaypundit.com
+- Description: A former NYPD police officer was arrested and charged with murder for fatally stabbing a female jogger in New York City on October 30.
+The post HORROR: Former NYPD Officer Sayed Mohassib Arrested For Fatally Stabbing Female Jogger in NYC appeared first on The…
 
-Analysis generated at: Mon Nov  9 05:35:43 UTC 2026
+Analysis generated at: Mon Nov  9 14:57:22 UTC 2026
