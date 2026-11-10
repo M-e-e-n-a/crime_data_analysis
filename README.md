@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Nov 10 06:45:15 UTC 2026
+Last updated: Tue Nov 10 14:09:01 UTC 2026
 
 ## Latest Analysis
 
-Loaded 147654 incidents
-Date range: 2024-01-01 00:00:00 to 2026-11-09 06:41:35
+Loaded 147751 incidents
+Date range: 2024-01-01 00:00:00 to 2026-11-09 14:08:14
 
 Incidents by source:
 source
-newsapi           147553
+newsapi           147650
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,31 +24,30 @@ ion.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-11-09 06:41
-- Location: Biztoc.com
-- Description: The man suspected of carrying out a mass shooting in Krakow, Poland on Saturday has now died.
-On Monday morning, Polish police wrote on X, "We would like to inform you that the perpetrator of the tragic events died in hospital early this morning."
-Read More
-S…
+### OTHER on 2026-11-09 14:08
+- Location: The Punch
+- Description: The Police Service Commission has approved the posting of Salisu Fago as the new Commissioner of Police in Niger State, succeeding the retired CP Adamu Ell
+
+Read More: https://punchng.com/psc-appoints-fago-as-new-niger-police-commissioner/
 
 
-### HOMICIDE on 2026-11-09 06:31
-- Location: BBC News
-- Description: At least six people were killed in the shooting and a dozen more were injured.
+### HOMICIDE on 2026-11-09 14:05
+- Location: Freerepublic.com
+- Description: A gunman suspected of killing six people in central Krakow and his parents and sister at their home has died in hospital, Polish police say. The 24-year-old was injured after opening fire in central Krakow, the second largest city in Poland, on Saturday, and …
 
 
-### HOMICIDE on 2026-11-09 06:28
-- Location: The Irish Times
-- Description: Gun enthusiast with far-right views injured 15 people in Krakow  before police shot and wounded him
+### ROBBERY/THEFT on 2026-11-09 14:02
+- Location: RTE
+- Description: A PSNI investigation is under way after five poppy wreaths were stolen from Derry in the early hours of this morning.
 
 
-### HOMICIDE on 2026-11-09 06:28
-- Location: The Irish Times
-- Description: Gun enthusiast with far-right views injured 15 people in Krakow  before police shot and wounded him
+### OTHER on 2026-11-09 14:00
+- Location: Hobbylistings.com
+- Description: Charleston police say a man left his 6-year-old asleep in an overnight Target line to hold his spot for new Pokémon cards, then went home.
 
 
-### HOMICIDE on 2026-11-09 06:23
-- Location: BBC News
-- Description: At least six people were killed in the shooting and a dozen more were injured.
+### ROBBERY/THEFT on 2026-11-09 14:00
+- Location: Screen Rant
+- Description: Now that Amazon Prime Video is turning RoboCop into a TV series, it has a chance to make an even gnarlier, bloodier show than The Boys.
 
-Analysis generated at: Tue Nov 10 06:45:15 UTC 2026
+Analysis generated at: Tue Nov 10 14:09:01 UTC 2026
