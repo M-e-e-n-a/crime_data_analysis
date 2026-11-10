@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2026-11-10T14:09:01.405809</dc:date>
+    <dc:date>2026-11-10T19:33:23.070757</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -33,59 +33,59 @@ z
    <g id="matplotlib.axis_2"/>
    <g id="patch_2">
     <path d="M 502.056 218.16 
-C 502.056 200.699267 498.618982 183.408083 491.94138 167.274675 
-C 485.263777 151.141268 475.475273 136.478958 463.135301 124.125728 
-C 450.795328 111.772498 436.143538 101.968255 420.017311 95.273332 
-C 403.891083 88.578409 386.6036 85.122826 369.142876 85.104077 
-C 351.682153 85.085327 334.387288 88.503776 318.24672 95.16405 
-C 302.106151 101.824325 287.433339 111.597079 275.066865 123.923779 
-C 262.700391 136.250479 252.880421 150.891733 246.168186 167.010763 
-C 239.45595 183.129792 235.981806 200.413555 235.944307 217.874248 
-C 235.906808 235.334941 239.306683 252.633466 245.949622 268.781177 
-C 252.592561 284.928889 262.349554 299.612186 274.662968 311.991889 
-C 286.976382 324.371592 301.607082 334.207279 317.718895 340.936819 
-C 333.830707 347.66636 351.110729 351.159061 368.571372 351.21531 
-C 386.032015 351.271558 403.334181 347.89026 419.489016 341.264664 
-C 435.643851 334.639069 450.337617 324.897849 462.730536 312.597735 
-C 475.123454 300.297622 484.974845 285.677491 491.721683 269.572914 
-C 498.46852 253.468337 501.979775 236.192076 502.054773 218.731503 
+C 502.056 200.699258 498.618979 183.408066 491.94137 167.274652 
+C 485.263761 151.141238 475.475248 136.478924 463.135265 124.125693 
+C 450.795283 111.772461 436.143481 101.96822 420.017242 95.273303 
+C 403.891002 88.578386 386.603508 85.122813 369.142777 85.104077 
+C 351.682045 85.08534 334.387175 88.503805 318.246604 95.164098 
+C 302.106034 101.824391 287.433225 111.597165 275.066759 123.923885 
+C 262.700293 136.250605 252.880336 150.891878 246.168119 167.010924 
+C 239.455901 183.129969 235.981779 200.413745 235.944306 217.874447 
+C 235.906834 235.335149 239.306738 252.633677 245.949707 268.781385 
+C 252.592677 284.929093 262.3497 299.61238 274.663143 311.992066 
+C 286.976586 324.371752 301.607313 334.207415 317.719147 340.936925 
+C 333.830982 347.666435 351.11102 351.159102 368.571671 351.215311 
+C 386.032322 351.27152 403.334489 347.89018 419.489316 341.264541 
+C 435.644143 334.638903 450.337891 324.897641 462.730783 312.597489 
+C 475.123675 300.297338 484.975032 285.677173 491.721827 269.57257 
+C 498.468622 253.467966 501.979829 236.191686 502.054774 218.731105 
 L 369 218.16 
 z
 " style="fill: #f77189"/>
    </g>
    <g id="patch_3">
-    <path d="M 502.054773 218.731503 
-C 502.055178 218.637199 502.055482 218.542895 502.055687 218.448591 
-C 502.055892 218.354287 502.055996 218.259982 502.056 218.165678 
+    <path d="M 502.054774 218.731105 
+C 502.055179 218.636864 502.055483 218.542623 502.055687 218.448382 
+C 502.055892 218.354141 502.055996 218.259899 502.056 218.165658 
 L 369 218.16 
 z
 " style="fill: #bb9832"/>
    </g>
    <g id="patch_4">
-    <path d="M 502.056 218.165678 
-C 502.056 218.164735 502.056 218.163792 502.056 218.162849 
-C 502.056 218.161905 502.056 218.160962 502.056 218.160019 
+    <path d="M 502.056 218.165658 
+C 502.056 218.164715 502.056 218.163773 502.056 218.162831 
+C 502.056 218.161888 502.056 218.160946 502.056 218.160003 
 L 369 218.16 
 z
 " style="fill: #50b131"/>
    </g>
    <g id="text_1">
-    <text style="fill: #262626; font: 10px 'Arial', 'Liberation Sans', 'DejaVu Sans', 'Bitstream Vera Sans', sans-serif; text-anchor: end" x="222.638738" y="220.43161" transform="rotate(-0 222.638738 220.43161)">newsapi</text>
+    <text style="fill: #262626; font: 10px 'Arial', 'Liberation Sans', 'DejaVu Sans', 'Bitstream Vera Sans', sans-serif; text-anchor: end" x="222.638737" y="220.431829" transform="rotate(-0 222.638737 220.431829)">newsapi</text>
    </g>
    <g id="text_2">
-    <text style="fill: #262626; font: 10px 'Arial', 'Liberation Sans', 'DejaVu Sans', 'Bitstream Vera Sans', sans-serif; text-anchor: middle" x="289.166584" y="220.574486" transform="rotate(-0 289.166584 220.574486)">99.9%</text>
+    <text style="fill: #262626; font: 10px 'Arial', 'Liberation Sans', 'DejaVu Sans', 'Bitstream Vera Sans', sans-serif; text-anchor: middle" x="289.166584" y="220.574606" transform="rotate(-0 289.166584 220.574606)">99.9%</text>
    </g>
    <g id="text_3">
-    <text style="fill: #262626; font: 10px 'Arial', 'Liberation Sans', 'DejaVu Sans', 'Bitstream Vera Sans', sans-serif; text-anchor: start" x="515.361256" y="221.063388" transform="rotate(-0 515.361256 221.063388)">chicago_pd</text>
+    <text style="fill: #262626; font: 10px 'Arial', 'Liberation Sans', 'DejaVu Sans', 'Bitstream Vera Sans', sans-serif; text-anchor: start" x="515.361256" y="221.063158" transform="rotate(-0 515.361256 221.063158)">chicago_pd</text>
    </g>
    <g id="text_4">
-    <text style="fill: #262626; font: 10px 'Arial', 'Liberation Sans', 'DejaVu Sans', 'Bitstream Vera Sans', sans-serif; text-anchor: middle" x="448.833412" y="220.919092" transform="rotate(-0 448.833412 220.919092)">0.1%</text>
+    <text style="fill: #262626; font: 10px 'Arial', 'Liberation Sans', 'DejaVu Sans', 'Bitstream Vera Sans', sans-serif; text-anchor: middle" x="448.833412" y="220.918967" transform="rotate(-0 448.833412 220.918967)">0.1%</text>
    </g>
    <g id="text_5">
-    <text style="fill: #262626; font: 10px 'Arial', 'Liberation Sans', 'DejaVu Sans', 'Bitstream Vera Sans', sans-serif; text-anchor: start" x="515.3616" y="220.749071" transform="rotate(-0 515.3616 220.749071)">chicago_police</text>
+    <text style="fill: #262626; font: 10px 'Arial', 'Liberation Sans', 'DejaVu Sans', 'Bitstream Vera Sans', sans-serif; text-anchor: start" x="515.3616" y="220.749051" transform="rotate(-0 515.3616 220.749051)">chicago_police</text>
    </g>
    <g id="text_6">
-    <text style="fill: #262626; font: 10px 'Arial', 'Liberation Sans', 'DejaVu Sans', 'Bitstream Vera Sans', sans-serif; text-anchor: middle" x="448.8336" y="220.747647" transform="rotate(-0 448.8336 220.747647)">0.0%</text>
+    <text style="fill: #262626; font: 10px 'Arial', 'Liberation Sans', 'DejaVu Sans', 'Bitstream Vera Sans', sans-serif; text-anchor: middle" x="448.8336" y="220.747636" transform="rotate(-0 448.8336 220.747636)">0.0%</text>
    </g>
    <g id="text_7">
     <text style="fill: #262626; font: 12px 'Arial', 'Liberation Sans', 'DejaVu Sans', 'Bitstream Vera Sans', sans-serif; text-anchor: middle" x="369" y="45.84" transform="rotate(-0 369 45.84)">Incidents by Source</text>

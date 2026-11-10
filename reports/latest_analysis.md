@@ -1,10 +1,10 @@
 
-Loaded 147751 incidents
-Date range: 2024-01-01 00:00:00 to 2026-11-09 14:08:14
+Loaded 147850 incidents
+Date range: 2024-01-01 00:00:00 to 2026-11-09 19:30:04
 
 Incidents by source:
 source
-newsapi           147650
+newsapi           147749
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,30 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-11-09 14:08
-- Location: The Punch
-- Description: The Police Service Commission has approved the posting of Salisu Fago as the new Commissioner of Police in Niger State, succeeding the retired CP Adamu Ell
-
-Read More: https://punchng.com/psc-appoints-fago-as-new-niger-police-commissioner/
+### OTHER on 2026-11-09 19:30
+- Location: ABC News (AU)
+- Description: NSW Bureau of Crime Statistics and Research finds that Aboriginal children are 30 per cent less likely to receive a court diversion from police compared to non-Aboriginal children.
 
 
-### HOMICIDE on 2026-11-09 14:05
-- Location: Freerepublic.com
-- Description: A gunman suspected of killing six people in central Krakow and his parents and sister at their home has died in hospital, Polish police say. The 24-year-old was injured after opening fire in central Krakow, the second largest city in Poland, on Saturday, and …
+### ASSAULT on 2026-11-09 19:24
+- Location: BroBible
+- Description: A Kentucky high school football game was stopped early after a fight broke out on the field, and a 36-year-old woman allegedly decided to intervene by choking one of the teenage players. The incident happened on October 30 during a football game between Wayne…
 
 
-### ROBBERY/THEFT on 2026-11-09 14:02
-- Location: RTE
-- Description: A PSNI investigation is under way after five poppy wreaths were stolen from Derry in the early hours of this morning.
+### HOMICIDE on 2026-11-09 19:22
+- Location: STLtoday.com
+- Description: In a rare move, a 14-year-old accused of shooting and killing a teen at a school track meet will be charged as an adult.
 
 
-### OTHER on 2026-11-09 14:00
-- Location: Hobbylistings.com
-- Description: Charleston police say a man left his 6-year-old asleep in an overnight Target line to hold his spot for new Pokémon cards, then went home.
+### HOMICIDE on 2026-11-09 19:21
+- Location: Dailymail.com
+- Description: Fatma Mohassib shared her disbelief and defended her son, Sayed Mohassib, 27, after he was arrested for allegedly stabbing Katie Suarez, 28, to death.
 
 
-### ROBBERY/THEFT on 2026-11-09 14:00
-- Location: Screen Rant
-- Description: Now that Amazon Prime Video is turning RoboCop into a TV series, it has a chance to make an even gnarlier, bloodier show than The Boys.
+### HOMICIDE on 2026-11-09 19:18
+- Location: Dailymail.com
+- Description: The woman's husband reportedly admitted to shooting her but claimed it was an accident and that he was not aware the gun was loaded.
 
-Analysis generated at: Tue Nov 10 14:09:01 UTC 2026
+Analysis generated at: Tue Nov 10 19:33:23 UTC 2026
