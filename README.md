@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Nov 10 19:33:23 UTC 2026
+Last updated: Tue Nov 10 22:45:59 UTC 2026
 
 ## Latest Analysis
 
-Loaded 147850 incidents
-Date range: 2024-01-01 00:00:00 to 2026-11-09 19:30:04
+Loaded 147889 incidents
+Date range: 2024-01-01 00:00:00 to 2026-11-09 22:43:08
 
 Incidents by source:
 source
-newsapi           147749
+newsapi           147788
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-11-09 19:30
-- Location: ABC News (AU)
-- Description: NSW Bureau of Crime Statistics and Research finds that Aboriginal children are 30 per cent less likely to receive a court diversion from police compared to non-Aboriginal children.
+### HOMICIDE on 2026-11-09 22:43
+- Location: New York Post
+- Description: A 7-year-old American-born girl was killed when Mexican police opened fire from a helicopter during a cartel chase to capture a Gulf Cartel leader. The little girl, Aranza, was hit in the head by gunfire and died on Oct. 29, prompting an investigation into th…
 
 
-### ASSAULT on 2026-11-09 19:24
-- Location: BroBible
-- Description: A Kentucky high school football game was stopped early after a fight broke out on the field, and a 36-year-old woman allegedly decided to intervene by choking one of the teenage players. The incident happened on October 30 during a football game between Wayne…
+### HOMICIDE on 2026-11-09 22:41
+- Location: Raw Story
+- Description: In the 10 months since U.S. Immigration and Customs Enforcement agent Jonathan Ross shot and killed Renee Good through her car windows in south Minneapolis, no criminal charges have been filed against Ross.Ross violated department policy and law enforcement b…
 
 
-### HOMICIDE on 2026-11-09 19:22
-- Location: STLtoday.com
-- Description: In a rare move, a 14-year-old accused of shooting and killing a teen at a school track meet will be charged as an adult.
+### OTHER on 2026-11-09 22:34
+- Location: Screen Rant
+- Description: Exclusive: Joel Kinnaman is leading the upcoming Prime Video crime series Bishop, and one of his co-stars teased what the show has in store.
 
 
-### HOMICIDE on 2026-11-09 19:21
-- Location: Dailymail.com
-- Description: Fatma Mohassib shared her disbelief and defended her son, Sayed Mohassib, 27, after he was arrested for allegedly stabbing Katie Suarez, 28, to death.
+### OTHER on 2026-11-09 22:26
+- Location: The Irish Times
+- Description: President Karol Nawrocki and prime minister Donald Tusk walked together in silent commemoration
 
 
-### HOMICIDE on 2026-11-09 19:18
-- Location: Dailymail.com
-- Description: The woman's husband reportedly admitted to shooting her but claimed it was an accident and that he was not aware the gun was loaded.
+### HOMICIDE on 2026-11-09 22:26
+- Location: Gothamist
+- Description: Sayed Mohassib, who worked as a paraprofessional, had a history of psychiatric issues, officials say. [ more › ]
 
-Analysis generated at: Tue Nov 10 19:33:23 UTC 2026
+Analysis generated at: Tue Nov 10 22:45:59 UTC 2026
