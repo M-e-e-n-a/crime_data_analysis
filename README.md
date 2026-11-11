@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Nov 11 04:09:40 UTC 2026
+Last updated: Wed Nov 11 05:30:32 UTC 2026
 
 ## Latest Analysis
 
-Loaded 147932 incidents
-Date range: 2024-01-01 00:00:00 to 2026-11-10 04:01:06
+Loaded 147942 incidents
+Date range: 2024-01-01 00:00:00 to 2026-11-10 05:26:42
 
 Incidents by source:
 source
-newsapi           147831
+newsapi           147841
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-11-10 04:01
+### HOMICIDE on 2026-11-10 05:26
 - Location: ABC News (AU)
-- Description: More than 19,000 sexual offences reported to Queensland Police Service between 2017 and 2022 were analysed to find out why so many were withdrawn, or considered unfounded.
+- Description: The death of a 15-day-old baby boy from southern Tasmania is the subject of a public plea for information from police.
 
 
-### HOMICIDE on 2026-11-10 03:48
-- Location: Israelnationalnews.com
-- Description: A Long Island man is accused of making shooting gestures and shouting antisemitic threats at a mother and her young daughter inside a wholesale store.
-
-
-### OTHER on 2026-11-10 03:43
-- Location: Tuscaloosa News
-- Description: Alabama basketball got back the most experienced piece of its backcourt. What Nate Oats thought of Aden Holloway's return after a 5-game suspension.
-
-
-### OTHER on 2026-11-10 03:43
+### HOMICIDE on 2026-11-10 05:25
 - Location: ABC News (AU)
-- Description: Canberrans gathered at a Liberal-hosted forum after a number of recent serious incidents of crime in the territory's south.
+- Description: Beau Lamarre-Condon is accused of being obsessed with Jesse Baird and Luke Davies before their alleged murders.
 
 
-### OTHER on 2026-11-10 03:40
-- Location: Bleeding Cool News
-- Description: ABC is in active development on a new police procedural set in Oakland, CA, with Government Cheese co-creator Aeysha Carr and Will Trent star Ramón Rodríguez. Written and executive produced by Carr, the untitled drama is about an ultra-wealthy, four-time wido…
+### HOMICIDE on 2026-11-10 05:17
+- Location: New York Post
+- Description: The illegal immigrant from Uzbekistan had been living freely in the United States, even after he admitted to murdering his girlfriend in Thailand in 2013, ICE officials said.
 
-Analysis generated at: Wed Nov 11 04:09:40 UTC 2026
+
+### OTHER on 2026-11-10 05:00
+- Location: Americanthinker.com
+- Description: By Mike McDanielAmerica isn't a uniquely violent country.
+
+
+### HOMICIDE on 2026-11-10 04:55
+- Location: The Times of India
+- Description: A 60-year-old bus driver was killed in an arson attack on a parked bus in Faridpur. Multiple incidents of vehicle arson and crude bomb explosions were reported across various districts in Bangladesh. The Dhaka Metropolitan Police increased security and arrest…
+
+Analysis generated at: Wed Nov 11 05:30:32 UTC 2026
