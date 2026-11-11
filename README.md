@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Tue Nov 10 22:45:59 UTC 2026
+Last updated: Wed Nov 11 04:09:40 UTC 2026
 
 ## Latest Analysis
 
-Loaded 147889 incidents
-Date range: 2024-01-01 00:00:00 to 2026-11-09 22:43:08
+Loaded 147932 incidents
+Date range: 2024-01-01 00:00:00 to 2026-11-10 04:01:06
 
 Incidents by source:
 source
-newsapi           147788
+newsapi           147831
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-11-09 22:43
-- Location: New York Post
-- Description: A 7-year-old American-born girl was killed when Mexican police opened fire from a helicopter during a cartel chase to capture a Gulf Cartel leader. The little girl, Aranza, was hit in the head by gunfire and died on Oct. 29, prompting an investigation into th…
+### OTHER on 2026-11-10 04:01
+- Location: ABC News (AU)
+- Description: More than 19,000 sexual offences reported to Queensland Police Service between 2017 and 2022 were analysed to find out why so many were withdrawn, or considered unfounded.
 
 
-### HOMICIDE on 2026-11-09 22:41
-- Location: Raw Story
-- Description: In the 10 months since U.S. Immigration and Customs Enforcement agent Jonathan Ross shot and killed Renee Good through her car windows in south Minneapolis, no criminal charges have been filed against Ross.Ross violated department policy and law enforcement b…
+### HOMICIDE on 2026-11-10 03:48
+- Location: Israelnationalnews.com
+- Description: A Long Island man is accused of making shooting gestures and shouting antisemitic threats at a mother and her young daughter inside a wholesale store.
 
 
-### OTHER on 2026-11-09 22:34
-- Location: Screen Rant
-- Description: Exclusive: Joel Kinnaman is leading the upcoming Prime Video crime series Bishop, and one of his co-stars teased what the show has in store.
+### OTHER on 2026-11-10 03:43
+- Location: Tuscaloosa News
+- Description: Alabama basketball got back the most experienced piece of its backcourt. What Nate Oats thought of Aden Holloway's return after a 5-game suspension.
 
 
-### OTHER on 2026-11-09 22:26
-- Location: The Irish Times
-- Description: President Karol Nawrocki and prime minister Donald Tusk walked together in silent commemoration
+### OTHER on 2026-11-10 03:43
+- Location: ABC News (AU)
+- Description: Canberrans gathered at a Liberal-hosted forum after a number of recent serious incidents of crime in the territory's south.
 
 
-### HOMICIDE on 2026-11-09 22:26
-- Location: Gothamist
-- Description: Sayed Mohassib, who worked as a paraprofessional, had a history of psychiatric issues, officials say. [ more › ]
+### OTHER on 2026-11-10 03:40
+- Location: Bleeding Cool News
+- Description: ABC is in active development on a new police procedural set in Oakland, CA, with Government Cheese co-creator Aeysha Carr and Will Trent star Ramón Rodríguez. Written and executive produced by Carr, the untitled drama is about an ultra-wealthy, four-time wido…
 
-Analysis generated at: Tue Nov 10 22:45:59 UTC 2026
+Analysis generated at: Wed Nov 11 04:09:40 UTC 2026
