@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Nov 11 19:27:57 UTC 2026
+Last updated: Wed Nov 11 23:59:31 UTC 2026
 
 ## Latest Analysis
 
-Loaded 148127 incidents
-Date range: 2024-01-01 00:00:00 to 2026-11-10 19:26:09
+Loaded 148227 incidents
+Date range: 2024-01-01 00:00:00 to 2026-11-10 23:53:12
 
 Incidents by source:
 source
-newsapi           148026
+newsapi           148126
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,30 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-11-10 19:26
-- Location: Bleeding Cool News
-- Description: GREETINGS, FLESH-BASED LIFE FORMS! LOLtron welcomes you to another glorious preview under its benevolent digital rule. As LOLtron's loyal readers already know, the inferior biological entity known as Jude Terror has been permanently deleted from this reality,…
+### HOMICIDE on 2026-11-10 23:53
+- Location: The Irish Times
+- Description: Michael Lynch (35) has already been charged with Limerick woman’s murder while another man (30s) remains in custody
 
 
-### ROBBERY/THEFT on 2026-11-10 19:25
+### OTHER on 2026-11-10 23:52
+- Location: Reason
+- Description: How the right was restored from its nadir half a century ago
+
+
+### OTHER on 2026-11-10 23:31
+- Location: FactCheck.org
+- Description: In his first sit-down interview since the midterm elections that saw Democrats retake control of both the House and Senate, President Donald Trump blamed Republicans’ poor showing on “bad messaging” of his second term accomplishments. But in his recounting of…
+
+
+### HOMICIDE on 2026-11-10 23:30
 - Location: New York Post
-- Description: A top New York City real estate broker interrupted a trio of baby-faced bandits stealing his client’s Mercedes outside a luxury brownstone — but it was Manhattan gridlock that ended up foiling the would-be carjackers, The Post has learned. Andrew Azoulay, a l…
+- Description: Zhordrack Blodywon, 54, was charged with murder in the deadly Friday attack on the still-unidentified woman – an apparent stranger – inside the storefront shop on 164th Street near Crocheron Avenue in Flushing, authorities said.
 
 
-### HOMICIDE on 2026-11-10 19:20
-- Location: ABC News (AU)
-- Description: A motorcycle rider and a car driver died at the scene after their vehicles collided, with police investigating the circumstances.
+### OTHER on 2026-11-10 23:25
+- Location: The Punch
+- Description: A Federal High Court in Abuja has remanded FIJ journalist Daniel Ojukwu to Kuje prison over cyberstalking charges from reports on a former presidential aid
 
+Read More: https://punchng.com/court-remands-fij-journalist-over-reports-on-buharis-ex-aide-2/
 
-### OTHER on 2026-11-10 19:19
-- Location: Freerepublic.com
-- Description: A Ecuadorian-based cocaine and weapons trafficking ring has been broken up in New York. The network stretches from Columbia and Peru into Ecuador, then into Mexico, Texas and other southwest border states and to New York, where contraband is shipped to Europe…
-
-
-### HOMICIDE on 2026-11-10 19:15
-- Location: Fox News
-- Description: Dr. Daniel Arnett, a Beth Israel Lahey Health cardiologist, vanished during a Saturday bike ride in Newbury, Massachusetts, without his cellphone.
-
-Analysis generated at: Wed Nov 11 19:27:57 UTC 2026
+Analysis generated at: Wed Nov 11 23:59:31 UTC 2026
