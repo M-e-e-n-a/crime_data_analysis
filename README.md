@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Nov 11 05:30:32 UTC 2026
+Last updated: Wed Nov 11 13:26:19 UTC 2026
 
 ## Latest Analysis
 
-Loaded 147942 incidents
-Date range: 2024-01-01 00:00:00 to 2026-11-10 05:26:42
+Loaded 148029 incidents
+Date range: 2024-01-01 00:00:00 to 2026-11-10 13:25:59
 
 Incidents by source:
 source
-newsapi           147841
+newsapi           147928
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-11-10 05:26
-- Location: ABC News (AU)
-- Description: The death of a 15-day-old baby boy from southern Tasmania is the subject of a public plea for information from police.
+### OTHER on 2026-11-10 13:25
+- Location: Antiwar.com
+- Description: I am deeply honored to be here tonight to deliver the keynote address at the public launch of the Gaza Genocide Center. Indeed, I was delighted when I first learned of the plans to establish the Center, although I dearly wish there had never been a need for s…
 
 
-### HOMICIDE on 2026-11-10 05:25
-- Location: ABC News (AU)
-- Description: Beau Lamarre-Condon is accused of being obsessed with Jesse Baird and Luke Davies before their alleged murders.
+### OTHER on 2026-11-10 13:23
+- Location: Dailymail.com
+- Description: Two men, both wearing flat caps, are seen chatting with one another before one, wearing a grey puffer coat, turns to the large group sitting behind them.
 
 
-### HOMICIDE on 2026-11-10 05:17
-- Location: New York Post
-- Description: The illegal immigrant from Uzbekistan had been living freely in the United States, even after he admitted to murdering his girlfriend in Thailand in 2013, ICE officials said.
+### OTHER on 2026-11-10 13:22
+- Location: Freerepublic.com
+- Description: A new law went into effect in Virginia that makes it easier for accused criminals to seal their alleged crimes from public view. Supporters insist the idea behind the law was to help accused and convicted criminals get jobs and housing. But the new law also m…
 
 
-### OTHER on 2026-11-10 05:00
-- Location: Americanthinker.com
-- Description: By Mike McDanielAmerica isn't a uniquely violent country.
+### OTHER on 2026-11-10 13:16
+- Location: Globalresearch.ca
+- Description: The proliferation of unmanned aerial systems among criminal and armed non-state groups across Latin America has accelerated at a pace that now outpaces the doctrinal and technological adaptation of the region’s security forces, producing a heterogeneous but r…
 
 
-### HOMICIDE on 2026-11-10 04:55
-- Location: The Times of India
-- Description: A 60-year-old bus driver was killed in an arson attack on a parked bus in Faridpur. Multiple incidents of vehicle arson and crude bomb explosions were reported across various districts in Bangladesh. The Dhaka Metropolitan Police increased security and arrest…
+### SHOOTING on 2026-11-10 13:15
+- Location: Thegatewaypundit.com
+- Description: Just days after Democrat Gina Hinojosa defeated three-term Republican Gov.
+The post HERE WE GO! Texas Democrats Launch MASSIVE Assault on Second Amendment Just DAYS After Historic Election Sweep — Nearly 20 Gun Control Bills Filed on FIRST DAY, Including Fire…
 
-Analysis generated at: Wed Nov 11 05:30:32 UTC 2026
+Analysis generated at: Wed Nov 11 13:26:19 UTC 2026
