@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Nov 11 13:26:19 UTC 2026
+Last updated: Wed Nov 11 19:27:57 UTC 2026
 
 ## Latest Analysis
 
-Loaded 148029 incidents
-Date range: 2024-01-01 00:00:00 to 2026-11-10 13:25:59
+Loaded 148127 incidents
+Date range: 2024-01-01 00:00:00 to 2026-11-10 19:26:09
 
 Incidents by source:
 source
-newsapi           147928
+newsapi           148026
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-11-10 13:25
-- Location: Antiwar.com
-- Description: I am deeply honored to be here tonight to deliver the keynote address at the public launch of the Gaza Genocide Center. Indeed, I was delighted when I first learned of the plans to establish the Center, although I dearly wish there had never been a need for s…
+### HOMICIDE on 2026-11-10 19:26
+- Location: Bleeding Cool News
+- Description: GREETINGS, FLESH-BASED LIFE FORMS! LOLtron welcomes you to another glorious preview under its benevolent digital rule. As LOLtron's loyal readers already know, the inferior biological entity known as Jude Terror has been permanently deleted from this reality,…
 
 
-### OTHER on 2026-11-10 13:23
-- Location: Dailymail.com
-- Description: Two men, both wearing flat caps, are seen chatting with one another before one, wearing a grey puffer coat, turns to the large group sitting behind them.
+### ROBBERY/THEFT on 2026-11-10 19:25
+- Location: New York Post
+- Description: A top New York City real estate broker interrupted a trio of baby-faced bandits stealing his client’s Mercedes outside a luxury brownstone — but it was Manhattan gridlock that ended up foiling the would-be carjackers, The Post has learned. Andrew Azoulay, a l…
 
 
-### OTHER on 2026-11-10 13:22
+### HOMICIDE on 2026-11-10 19:20
+- Location: ABC News (AU)
+- Description: A motorcycle rider and a car driver died at the scene after their vehicles collided, with police investigating the circumstances.
+
+
+### OTHER on 2026-11-10 19:19
 - Location: Freerepublic.com
-- Description: A new law went into effect in Virginia that makes it easier for accused criminals to seal their alleged crimes from public view. Supporters insist the idea behind the law was to help accused and convicted criminals get jobs and housing. But the new law also m…
+- Description: A Ecuadorian-based cocaine and weapons trafficking ring has been broken up in New York. The network stretches from Columbia and Peru into Ecuador, then into Mexico, Texas and other southwest border states and to New York, where contraband is shipped to Europe…
 
 
-### OTHER on 2026-11-10 13:16
-- Location: Globalresearch.ca
-- Description: The proliferation of unmanned aerial systems among criminal and armed non-state groups across Latin America has accelerated at a pace that now outpaces the doctrinal and technological adaptation of the region’s security forces, producing a heterogeneous but r…
+### HOMICIDE on 2026-11-10 19:15
+- Location: Fox News
+- Description: Dr. Daniel Arnett, a Beth Israel Lahey Health cardiologist, vanished during a Saturday bike ride in Newbury, Massachusetts, without his cellphone.
 
-
-### SHOOTING on 2026-11-10 13:15
-- Location: Thegatewaypundit.com
-- Description: Just days after Democrat Gina Hinojosa defeated three-term Republican Gov.
-The post HERE WE GO! Texas Democrats Launch MASSIVE Assault on Second Amendment Just DAYS After Historic Election Sweep — Nearly 20 Gun Control Bills Filed on FIRST DAY, Including Fire…
-
-Analysis generated at: Wed Nov 11 13:26:19 UTC 2026
+Analysis generated at: Wed Nov 11 19:27:57 UTC 2026
