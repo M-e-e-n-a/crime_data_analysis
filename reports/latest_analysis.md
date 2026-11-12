@@ -1,10 +1,10 @@
 
-Loaded 148385 incidents
-Date range: 2024-01-01 00:00:00 to 2026-11-11 14:28:51
+Loaded 148475 incidents
+Date range: 2024-01-01 00:00:00 to 2026-11-11 19:38:40
 
 Incidents by source:
 source
-newsapi           148284
+newsapi           148374
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-11-11 14:28
+### HOMICIDE on 2026-11-11 19:38
 - Location: The Times of India
-- Description: 19-year-old woman found hanging in Sundargarh rented home; family alleges murder. Police detain live-in partner, register murder case, await postmortem.
+- Description: A 17-year-old boy has also been apprehended in connection with the killing of 25-year-old Amit following a dispute over a scooter brushing against accused who was there to celebrate his friend’s birthday
 
 
-### HOMICIDE on 2026-11-11 14:24
-- Location: Freerepublic.com
-- Description: Rabb, the far-left congressman-elect in Philadelphia, is refusing to comment on an ugly boycott of Jewish businesses in his district on the anniversary of KristallnachtDEMOCRATS Revealed: Chris Rabb Has Longtime Relationship With Organizers of Antisemitic Boy…
+### HOMICIDE on 2026-11-11 19:37
+- Location: CBC News
+- Description: Police say two men from Quebec have been charged with second-degree murder in a "complex" investigation into a 2025 home invasion near Cornwall, Ont., that left two dead and the home's residents unharmed.
 
 
-### ROBBERY/THEFT on 2026-11-11 14:13
-- Location: ComicBook.com
-- Description: Rockstar Games and Grand Theft Auto VI are set to bring back a feature not seen since GTA San Andreas, Vice City, and GTA 3. And so far, fan reaction to the decision is a bit split. The GTA 6 release date is only eight days away, and despite this, there’s sti…
+### SHOOTING on 2026-11-11 19:33
+- Location: Breitbart News
+- Description: An Ohio gas station says his employer dismissed him from his long-time job after he fired his handgun at a group of masked men who rammed a minivan into the store during an attempted robbery.
+The post Police: Ohio Worker Legally Fires on Robbers’ Van Smashing…
 
 
-### OTHER on 2026-11-11 14:13
-- Location: Screen Rant
-- Description: There are still several new thrillers slated to arrive before the year is out if you're on the hunt for some high-octane releases.
+### OTHER on 2026-11-11 19:31
+- Location: Vanity Fair
+- Description: Ragland reportedly identified Markle in a series of photographs dating from the mid-1970s to the mid-1980s, which allegedly depict his abuse of Filipino girls.
 
 
-### DRUG RELATED on 2026-11-11 14:12
-- Location: CBS News
-- Description: A cartel boss bribed Mexican public officials to help Olympian Ryan Wedding avoid capture while running a multinational drug trafficking organization, the Department of Justice said.
+### ROBBERY/THEFT on 2026-11-11 19:25
+- Location: Notebookcheck.net
+- Description: The GTA 6 map reintroduces Vice City, after earlier entries took place in U.S. locations like Liberty City. In an interview, the Rockstar North co-lead addressed whether GTA 7 players may visit a new country. Rob Nelson believes fans have still only seen a sm…
 
-Analysis generated at: Thu Nov 12 14:30:05 UTC 2026
+Analysis generated at: Thu Nov 12 19:46:12 UTC 2026
