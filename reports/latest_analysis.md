@@ -1,10 +1,10 @@
 
-Loaded 148475 incidents
-Date range: 2024-01-01 00:00:00 to 2026-11-11 19:38:40
+Loaded 148523 incidents
+Date range: 2024-01-01 00:00:00 to 2026-11-11 23:00:16
 
 Incidents by source:
 source
-newsapi           148374
+newsapi           148422
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-11-11 19:38
-- Location: The Times of India
-- Description: A 17-year-old boy has also been apprehended in connection with the killing of 25-year-old Amit following a dispute over a scooter brushing against accused who was there to celebrate his friend’s birthday
+### OTHER on 2026-11-11 23:00
+- Location: Izismile.com
+- Description: Critics Rank The 50 Best Video Games Ever Made!  (50 pics)
 
 
-### HOMICIDE on 2026-11-11 19:37
-- Location: CBC News
-- Description: Police say two men from Quebec have been charged with second-degree murder in a "complex" investigation into a 2025 home invasion near Cornwall, Ont., that left two dead and the home's residents unharmed.
+### OTHER on 2026-11-11 22:56
+- Location: Dailymail.com
+- Description: The Foreign Secretary, 56, recorded an interview in the now-disgraced comedian's flat as he tried to win over younger voters prior to the 2015 general election.
 
 
-### SHOOTING on 2026-11-11 19:33
-- Location: Breitbart News
-- Description: An Ohio gas station says his employer dismissed him from his long-time job after he fired his handgun at a group of masked men who rammed a minivan into the store during an attempted robbery.
-The post Police: Ohio Worker Legally Fires on Robbers’ Van Smashing…
+### ASSAULT on 2026-11-11 22:53
+- Location: Freerepublic.com
+- Description: Imagine calling 9-1-1 nine times for a home invasion and rape in progress. And nobody comes. For hours. Welcome to Chicago. On November 6, 2026, a 19-year-old woman named Yizel was home alone in the Auburn Gresham neighborhood when an armed man broke in, forc…
 
 
-### OTHER on 2026-11-11 19:31
-- Location: Vanity Fair
-- Description: Ragland reportedly identified Markle in a series of photographs dating from the mid-1970s to the mid-1980s, which allegedly depict his abuse of Filipino girls.
+### HOMICIDE on 2026-11-11 22:44
+- Location: The Daily Caller
+- Description: A San Francisco judge sentenced tech consultant Nima Momeni to 16 years to life for killing Cash App founder Bob Lee after denying him a new trial.
 
 
-### ROBBERY/THEFT on 2026-11-11 19:25
-- Location: Notebookcheck.net
-- Description: The GTA 6 map reintroduces Vice City, after earlier entries took place in U.S. locations like Liberty City. In an interview, the Rockstar North co-lead addressed whether GTA 7 players may visit a new country. Rob Nelson believes fans have still only seen a sm…
+### OTHER on 2026-11-11 22:42
+- Location: Dailymail.com
+- Description: Court officials confirmed over the weekend four Irish nationals and a British man had been arrested over the disappearance and four of them remanded in custody.
 
-Analysis generated at: Thu Nov 12 19:46:12 UTC 2026
+Analysis generated at: Thu Nov 12 23:09:01 UTC 2026
