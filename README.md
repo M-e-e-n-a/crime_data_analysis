@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Nov 12 06:35:19 UTC 2026
+Last updated: Thu Nov 12 14:30:05 UTC 2026
 
 ## Latest Analysis
 
-Loaded 148297 incidents
-Date range: 2024-01-01 00:00:00 to 2026-11-11 06:30:00
+Loaded 148385 incidents
+Date range: 2024-01-01 00:00:00 to 2026-11-11 14:28:51
 
 Incidents by source:
 source
-newsapi           148196
+newsapi           148284
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-11-11 06:30
-- Location: Newser
-- Description: The tech consultant convicted in the stabbing death of Cash App founder Bob Lee was sentenced in San Francisco on Tuesday to 16 years to life in prison, the AP reports. A jury in December 2024 found Nima Momeni guilty of second-degree murder, rejecting the de…
+### HOMICIDE on 2026-11-11 14:28
+- Location: The Times of India
+- Description: 19-year-old woman found hanging in Sundargarh rented home; family alleges murder. Police detain live-in partner, register murder case, await postmortem.
 
 
-### OTHER on 2026-11-11 06:11
-- Location: Protothema.gr
-- Description: The American actor, who played Barabbas in Franco Zeffirelli's Jesus of Nazareth, died in Poland after a long battle with heart disease. His career was also marked by a six-month prison sentence for cocaine possession
-The post Actor Stacy Keach dies aged 85: …
+### HOMICIDE on 2026-11-11 14:24
+- Location: Freerepublic.com
+- Description: Rabb, the far-left congressman-elect in Philadelphia, is refusing to comment on an ugly boycott of Jewish businesses in his district on the anniversary of KristallnachtDEMOCRATS Revealed: Chris Rabb Has Longtime Relationship With Organizers of Antisemitic Boy…
 
 
-### OTHER on 2026-11-11 06:04
-- Location: ABC News (AU)
-- Description: The 28-year-old was taken to hospital on Friday with life-threatening injuries and died this morning.
+### ROBBERY/THEFT on 2026-11-11 14:13
+- Location: ComicBook.com
+- Description: Rockstar Games and Grand Theft Auto VI are set to bring back a feature not seen since GTA San Andreas, Vice City, and GTA 3. And so far, fan reaction to the decision is a bit split. The GTA 6 release date is only eight days away, and despite this, there’s sti…
 
 
-### OTHER on 2026-11-11 06:01
-- Location: YLE News
-- Description: The concerns are echoed by researchers and security officials, who warn of rising far-right influence and online radicalisation targeting young people.
+### OTHER on 2026-11-11 14:13
+- Location: Screen Rant
+- Description: There are still several new thrillers slated to arrive before the year is out if you're on the hunt for some high-octane releases.
 
 
-### OTHER on 2026-11-11 06:00
-- Location: Foreign Policy
-- Description: A former chief of police has been arrested for spying on the president.
+### DRUG RELATED on 2026-11-11 14:12
+- Location: CBS News
+- Description: A cartel boss bribed Mexican public officials to help Olympian Ryan Wedding avoid capture while running a multinational drug trafficking organization, the Department of Justice said.
 
-Analysis generated at: Thu Nov 12 06:35:19 UTC 2026
+Analysis generated at: Thu Nov 12 14:30:05 UTC 2026
