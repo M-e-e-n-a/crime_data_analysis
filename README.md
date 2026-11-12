@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Thu Nov 12 05:26:51 UTC 2026
+Last updated: Thu Nov 12 06:35:19 UTC 2026
 
 ## Latest Analysis
 
-Loaded 148277 incidents
-Date range: 2024-01-01 00:00:00 to 2026-11-11 05:26:14
+Loaded 148297 incidents
+Date range: 2024-01-01 00:00:00 to 2026-11-11 06:30:00
 
 Incidents by source:
 source
-newsapi           148176
+newsapi           148196
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-11-11 05:26
-- Location: The Times of India
-- Description: A US jury has found Nepali-American Naresh Bhatt guilty of murdering his wife, Mamta Kafle, dismembering her body and disposing of it in a landfill in
+### HOMICIDE on 2026-11-11 06:30
+- Location: Newser
+- Description: The tech consultant convicted in the stabbing death of Cash App founder Bob Lee was sentenced in San Francisco on Tuesday to 16 years to life in prison, the AP reports. A jury in December 2024 found Nima Momeni guilty of second-degree murder, rejecting the de…
 
 
-### OTHER on 2026-11-11 05:17
-- Location: The Times of India
-- Description: Stacy Keach starred in some iconic shows and films such as 'The Long Riders', 'Up in Smoke', 'American History X', 'Nebraska', and 'The Bourne Legacy'. However, it is for his role as the private detective named Mike Hammer, created by Mickey Spillane, for whi…
+### OTHER on 2026-11-11 06:11
+- Location: Protothema.gr
+- Description: The American actor, who played Barabbas in Franco Zeffirelli's Jesus of Nazareth, died in Poland after a long battle with heart disease. His career was also marked by a six-month prison sentence for cocaine possession
+The post Actor Stacy Keach dies aged 85: …
 
 
-### HOMICIDE on 2026-11-11 05:14
+### OTHER on 2026-11-11 06:04
 - Location: ABC News (AU)
-- Description: The man who shot dead a mother and daughter in their Floreat home should not have been able to renew his licence for the murder weapon, a coronial inquest is told.
+- Description: The 28-year-old was taken to hospital on Friday with life-threatening injuries and died this morning.
 
 
-### OTHER on 2026-11-11 05:13
-- Location: The Times of India
-- Description: A US federal judge has allowed President Donald Trump's $10 billion defamation lawsuit against the BBC over the editing of his speech in a Panorama documentary to proceed. The judge, however, dismissed Trump's claim of unfair trade practices. The BBC said it …
+### OTHER on 2026-11-11 06:01
+- Location: YLE News
+- Description: The concerns are echoed by researchers and security officials, who warn of rising far-right influence and online radicalisation targeting young people.
 
 
-### OTHER on 2026-11-11 05:12
-- Location: The Times of India
-- Description: Television actress Hina Khan and producer Rajan Shahi have reunited for a picture at a Diwali celebration, years after reports of differences between the two following her exit from the popular show Yeh Rishta Kya Kehlata Hai. The photograph has caught the at…
+### OTHER on 2026-11-11 06:00
+- Location: Foreign Policy
+- Description: A former chief of police has been arrested for spying on the president.
 
-Analysis generated at: Thu Nov 12 05:26:51 UTC 2026
+Analysis generated at: Thu Nov 12 06:35:19 UTC 2026
