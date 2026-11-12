@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Wed Nov 11 23:59:31 UTC 2026
+Last updated: Thu Nov 12 05:26:51 UTC 2026
 
 ## Latest Analysis
 
-Loaded 148227 incidents
-Date range: 2024-01-01 00:00:00 to 2026-11-10 23:53:12
+Loaded 148277 incidents
+Date range: 2024-01-01 00:00:00 to 2026-11-11 05:26:14
 
 Incidents by source:
 source
-newsapi           148126
+newsapi           148176
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,30 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### HOMICIDE on 2026-11-10 23:53
-- Location: The Irish Times
-- Description: Michael Lynch (35) has already been charged with Limerick woman’s murder while another man (30s) remains in custody
+### HOMICIDE on 2026-11-11 05:26
+- Location: The Times of India
+- Description: A US jury has found Nepali-American Naresh Bhatt guilty of murdering his wife, Mamta Kafle, dismembering her body and disposing of it in a landfill in
 
 
-### OTHER on 2026-11-10 23:52
-- Location: Reason
-- Description: How the right was restored from its nadir half a century ago
+### OTHER on 2026-11-11 05:17
+- Location: The Times of India
+- Description: Stacy Keach starred in some iconic shows and films such as 'The Long Riders', 'Up in Smoke', 'American History X', 'Nebraska', and 'The Bourne Legacy'. However, it is for his role as the private detective named Mike Hammer, created by Mickey Spillane, for whi…
 
 
-### OTHER on 2026-11-10 23:31
-- Location: FactCheck.org
-- Description: In his first sit-down interview since the midterm elections that saw Democrats retake control of both the House and Senate, President Donald Trump blamed Republicans’ poor showing on “bad messaging” of his second term accomplishments. But in his recounting of…
+### HOMICIDE on 2026-11-11 05:14
+- Location: ABC News (AU)
+- Description: The man who shot dead a mother and daughter in their Floreat home should not have been able to renew his licence for the murder weapon, a coronial inquest is told.
 
 
-### HOMICIDE on 2026-11-10 23:30
-- Location: New York Post
-- Description: Zhordrack Blodywon, 54, was charged with murder in the deadly Friday attack on the still-unidentified woman – an apparent stranger – inside the storefront shop on 164th Street near Crocheron Avenue in Flushing, authorities said.
+### OTHER on 2026-11-11 05:13
+- Location: The Times of India
+- Description: A US federal judge has allowed President Donald Trump's $10 billion defamation lawsuit against the BBC over the editing of his speech in a Panorama documentary to proceed. The judge, however, dismissed Trump's claim of unfair trade practices. The BBC said it …
 
 
-### OTHER on 2026-11-10 23:25
-- Location: The Punch
-- Description: A Federal High Court in Abuja has remanded FIJ journalist Daniel Ojukwu to Kuje prison over cyberstalking charges from reports on a former presidential aid
+### OTHER on 2026-11-11 05:12
+- Location: The Times of India
+- Description: Television actress Hina Khan and producer Rajan Shahi have reunited for a picture at a Diwali celebration, years after reports of differences between the two following her exit from the popular show Yeh Rishta Kya Kehlata Hai. The photograph has caught the at…
 
-Read More: https://punchng.com/court-remands-fij-journalist-over-reports-on-buharis-ex-aide-2/
-
-Analysis generated at: Wed Nov 11 23:59:31 UTC 2026
+Analysis generated at: Thu Nov 12 05:26:51 UTC 2026
