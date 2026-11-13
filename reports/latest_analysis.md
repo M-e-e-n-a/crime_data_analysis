@@ -1,10 +1,10 @@
 
-Loaded 148523 incidents
-Date range: 2024-01-01 00:00:00 to 2026-11-11 23:00:16
+Loaded 148572 incidents
+Date range: 2024-01-01 00:00:00 to 2026-11-12 04:30:16
 
 Incidents by source:
 source
-newsapi           148422
+newsapi           148471
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-11-11 23:00
-- Location: Izismile.com
-- Description: Critics Rank The 50 Best Video Games Ever Made!  (50 pics)
+### OTHER on 2026-11-12 04:30
+- Location: Khabarhub.com
+- Description: DAMAULI: Police have detained 33 people during a search and sweep operation conducted at various locations across Tanahun district. The operation was carried out by teams deployed from the District Police Office, Tanahun, and its subordinate police units as p…
 
 
-### OTHER on 2026-11-11 22:56
-- Location: Dailymail.com
-- Description: The Foreign Secretary, 56, recorded an interview in the now-disgraced comedian's flat as he tried to win over younger voters prior to the 2015 general election.
+### OTHER on 2026-11-12 04:27
+- Location: The Times of India
+- Description: Delhi's air quality improved slightly, yet remains categorized as 'very poor' with an AQI of 321. Numerous areas within the city experienced significant smog, impacting visibility during morning hours and after Diwali. Major pollutants in the air include PM10…
 
 
-### ASSAULT on 2026-11-11 22:53
-- Location: Freerepublic.com
-- Description: Imagine calling 9-1-1 nine times for a home invasion and rape in progress. And nobody comes. For hours. Welcome to Chicago. On November 6, 2026, a 19-year-old woman named Yizel was home alone in the Auburn Gresham neighborhood when an armed man broke in, forc…
+### OTHER on 2026-11-12 04:27
+- Location: The Times of India
+- Description: IIT Bombay entrepreneurship diploma 2026: IIT Bombay has announced a 36-credit e-Postgraduate Diploma in Innovation and Entrepreneurship through its Desai Sethi School of Entrepreneurship. The programme covers venture creation, design thinking, entrepreneuria…
 
 
-### HOMICIDE on 2026-11-11 22:44
-- Location: The Daily Caller
-- Description: A San Francisco judge sentenced tech consultant Nima Momeni to 16 years to life for killing Cash App founder Bob Lee after denying him a new trial.
+### OTHER on 2026-11-12 04:26
+- Location: The Times of India
+- Description: Karen Barlow marks the end of a remarkable 27-year journey with the Royal Flying Doctor Service in Australia. Her dedication to providing vital medical assistance to those in isolated regions is commendable. Barlow not only offered solace during treacherous m…
 
 
-### OTHER on 2026-11-11 22:42
-- Location: Dailymail.com
-- Description: Court officials confirmed over the weekend four Irish nationals and a British man had been arrested over the disappearance and four of them remanded in custody.
+### OTHER on 2026-11-12 04:26
+- Location: The Times of India
+- Description: In a groundbreaking discovery, three Sistan sand boas have been identified in Sikar district, Rajasthan, a first for the nation. Researchers pointed out unique characteristics that set this species apart from the Indian red sand boa. Interestingly, these snak…
 
-Analysis generated at: Thu Nov 12 23:09:01 UTC 2026
+Analysis generated at: Fri Nov 13 04:36:25 UTC 2026
