@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Nov 13 19:27:16 UTC 2026
+Last updated: Fri Nov 13 23:09:50 UTC 2026
 
 ## Latest Analysis
 
-Loaded 148761 incidents
-Date range: 2024-01-01 00:00:00 to 2026-11-12 19:26:27
+Loaded 148817 incidents
+Date range: 2024-01-01 00:00:00 to 2026-11-12 23:05:53
 
 Incidents by source:
 source
-newsapi           148660
+newsapi           148716
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-11-12 19:26
-- Location: The Times of India
-- Description: Chandigarh Police transfers six DSPs and an inspector in Nov 12 reshuffle; Ram Gopal to SDPO Central, Sondhi to PCR, Sarna to SDPO North East.
+### OTHER on 2026-11-12 23:05
+- Location: Dailymail.com
+- Description: Did you enjoy Back Care Awareness week? Were you all limbered up for World Menopause Day on October 18?
 
 
-### HOMICIDE on 2026-11-12 19:24
-- Location: BBC News
-- Description: The shooting began Thursday morning local time at a gym in an apartment building about a mile (1.6km) north of the White House.
+### HOMICIDE on 2026-11-12 23:01
+- Location: ABC News (AU)
+- Description: Beau Lamarre-Condon is continuing to answer questions after close to a week of cross-examination from the Crown.
 
 
-### OTHER on 2026-11-12 19:19
-- Location: The Times of India
-- Description: Sukhbir Singh Badal postponed his Nov 13 Begowal visit to reinduct ex-SGPC chief Bibi Jagir Kaur into SAD; new schedule to be announced.
+### SHOOTING on 2026-11-12 23:00
+- Location: Thegatewaypundit.com
+- Description: Police provided updates on the DC shooting on Thursday afternoon.
+The post Police Provide Updates on DC Shooting After Disgruntled Doctor Goes on Rampage at Gym (VIDEO) appeared first on The Gateway Pundit.
 
 
-### HOMICIDE on 2026-11-12 19:18
-- Location: The Times of India
-- Description: Gurgaon police arrest Jatin and Monu for Deepak’s Sidhrawali bus stand shooting; fugitive Lipin Nehra allegedly supplied a Chinese PX-30 pistol.
+### HOMICIDE on 2026-11-12 22:59
+- Location: Us Weekly
+- Description: Joran van der Sloot admitted to killing Natalee Holloway nearly two decades after he was first named a suspect in her disappearance. He is currently serving time on a U.S. federal extortion charge directly tied to her case, but has never been charged with her…
 
 
-### OTHER on 2026-11-12 19:16
-- Location: The Times of India
-- Description: MNGL raises CNG and PNG prices in Pune, Pimpri-Chinchwad and nearby areas from Nov 12; CNG now Rs99/kg, domestic PNG Rs53/SCM.
+### OTHER on 2026-11-12 22:58
+- Location: Activistpost.com
+- Description: “The Great Replacement” in Europe and in America All of us are limited in our time and concentration, and over the last couple of weeks I’ve been heavily focused on the Middle East tinderbox and other military conflicts. So although I’d heard something about …
 
-Analysis generated at: Fri Nov 13 19:27:16 UTC 2026
+Analysis generated at: Fri Nov 13 23:09:50 UTC 2026
