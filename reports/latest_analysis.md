@@ -1,10 +1,10 @@
 
-Loaded 148585 incidents
-Date range: 2024-01-01 00:00:00 to 2026-11-12 05:51:09
+Loaded 148663 incidents
+Date range: 2024-01-01 00:00:00 to 2026-11-12 13:49:00
 
 Incidents by source:
 source
-newsapi           148484
+newsapi           148562
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,28 +20,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### ASSAULT on 2026-11-12 05:51
-- Location: The Times of India
-- Description: In Begusarai, a 28-year-old woman faced a new attack closely following a gang rape incident. She was thrown from her house roof, reportedly by criminals pressing her family to withdraw the rape case. This incident occurred four months after the brutal gang ra…
+### SHOOTING on 2026-11-12 13:49
+- Location: CBS News
+- Description: Residents have been asked to avoid the area of 15th and P Street in Washington, D.C., as police respond to the incident.
 
 
-### HOMICIDE on 2026-11-12 05:46
-- Location: The Times of India
-- Description: A devastating collision between a dumper truck and an auto-rickshaw took place in Sonia Vihar, Delhi, claiming the lives of three individuals, notably a baby girl. Five more sustained injuries and were taken to Jag Pravesh Hospital. Remarkably, a three-year-o…
+### SHOOTING on 2026-11-12 13:47
+- Location: Abcnews.com
+- Description: The Metropolitan Police Department in Washington, D.C. are responding to an active shooter, police said Thursday.
 
 
-### HOMICIDE on 2026-11-12 05:46
-- Location: The Times of India
-- Description: IIM Calcutta presents its Leadership Programme in Building Executive Presence and Influence, aiming to empower senior leaders in enhancing their effectiveness. This immersive program focuses on developing essential interpersonal skills, sound judgement, and t…
+### ROBBERY/THEFT on 2026-11-12 13:47
+- Location: Rt-english.com
+- Description: The ‘Operation Carthage’ probe in Ukraine has exposed a vast criminal network within Vladimir Zelensky’s security apparatus, and a turf war between his security agencies
 
 
-### OTHER on 2026-11-12 05:44
-- Location: The Times of India
-- Description: The Institute of Banking Personnel Selection has released the admit card for the RRB PO Pre-Examination Training. Candidates can download their hall tickets from the official website until November 16, 2026. The training is available for eligible candidates f…
+### SHOOTING on 2026-11-12 13:45
+- Location: NBC News
+- Description: Local police said they were on the scene of an active shooting at the intersection of 15th Street and P Street near Logan Circle. They are asking people to avoid the area.
 
 
-### HOMICIDE on 2026-11-12 05:44
-- Location: The Times of India
-- Description: In the United States, two men are facing death row due to their involvement in heinous murders from years past. John Allen Rubio was convicted for the tragic deaths of three innocent children, while James Pavatt is linked to an advertising executive’s murder,…
+### HOMICIDE on 2026-11-12 13:45
+- Location: Thepinknews.com
+- Description: Prosecutors allege Stella Nez Perce was shot three times after exchanging words with a 30-year-old man, who remains jailed ahead of a 1 December court date.
+The post Family speaks out after transgender woman Stella Nez Perce killed on Metro Transit train appe…
 
-Analysis generated at: Fri Nov 13 05:55:14 UTC 2026
+Analysis generated at: Fri Nov 13 13:49:44 UTC 2026
