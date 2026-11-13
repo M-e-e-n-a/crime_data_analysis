@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Nov 13 13:49:44 UTC 2026
+Last updated: Fri Nov 13 19:27:16 UTC 2026
 
 ## Latest Analysis
 
-Loaded 148663 incidents
-Date range: 2024-01-01 00:00:00 to 2026-11-12 13:49:00
+Loaded 148761 incidents
+Date range: 2024-01-01 00:00:00 to 2026-11-12 19:26:27
 
 Incidents by source:
 source
-newsapi           148562
+newsapi           148660
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,29 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### SHOOTING on 2026-11-12 13:49
-- Location: CBS News
-- Description: Residents have been asked to avoid the area of 15th and P Street in Washington, D.C., as police respond to the incident.
+### OTHER on 2026-11-12 19:26
+- Location: The Times of India
+- Description: Chandigarh Police transfers six DSPs and an inspector in Nov 12 reshuffle; Ram Gopal to SDPO Central, Sondhi to PCR, Sarna to SDPO North East.
 
 
-### SHOOTING on 2026-11-12 13:47
-- Location: Abcnews.com
-- Description: The Metropolitan Police Department in Washington, D.C. are responding to an active shooter, police said Thursday.
+### HOMICIDE on 2026-11-12 19:24
+- Location: BBC News
+- Description: The shooting began Thursday morning local time at a gym in an apartment building about a mile (1.6km) north of the White House.
 
 
-### ROBBERY/THEFT on 2026-11-12 13:47
-- Location: Rt-english.com
-- Description: The ‘Operation Carthage’ probe in Ukraine has exposed a vast criminal network within Vladimir Zelensky’s security apparatus, and a turf war between his security agencies
+### OTHER on 2026-11-12 19:19
+- Location: The Times of India
+- Description: Sukhbir Singh Badal postponed his Nov 13 Begowal visit to reinduct ex-SGPC chief Bibi Jagir Kaur into SAD; new schedule to be announced.
 
 
-### SHOOTING on 2026-11-12 13:45
-- Location: NBC News
-- Description: Local police said they were on the scene of an active shooting at the intersection of 15th Street and P Street near Logan Circle. They are asking people to avoid the area.
+### HOMICIDE on 2026-11-12 19:18
+- Location: The Times of India
+- Description: Gurgaon police arrest Jatin and Monu for Deepak’s Sidhrawali bus stand shooting; fugitive Lipin Nehra allegedly supplied a Chinese PX-30 pistol.
 
 
-### HOMICIDE on 2026-11-12 13:45
-- Location: Thepinknews.com
-- Description: Prosecutors allege Stella Nez Perce was shot three times after exchanging words with a 30-year-old man, who remains jailed ahead of a 1 December court date.
-The post Family speaks out after transgender woman Stella Nez Perce killed on Metro Transit train appe…
+### OTHER on 2026-11-12 19:16
+- Location: The Times of India
+- Description: MNGL raises CNG and PNG prices in Pune, Pimpri-Chinchwad and nearby areas from Nov 12; CNG now Rs99/kg, domestic PNG Rs53/SCM.
 
-Analysis generated at: Fri Nov 13 13:49:44 UTC 2026
+Analysis generated at: Fri Nov 13 19:27:16 UTC 2026
