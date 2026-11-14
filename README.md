@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Fri Nov 13 23:09:50 UTC 2026
+Last updated: Sat Nov 14 04:32:37 UTC 2026
 
 ## Latest Analysis
 
-Loaded 148817 incidents
-Date range: 2024-01-01 00:00:00 to 2026-11-12 23:05:53
+Loaded 148855 incidents
+Date range: 2024-01-01 00:00:00 to 2026-11-13 04:30:18
 
 Incidents by source:
 source
-newsapi           148716
+newsapi           148754
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,29 +24,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-11-12 23:05
+### OTHER on 2026-11-13 04:30
+- Location: Screen Rant
+- Description: MGM+'s The Institute brings Stephen King's tale of superpowered children to television screens with an ensemble cast of recognizable faces.
+
+
+### HOMICIDE on 2026-11-13 04:12
+- Location: Slashdot.org
+- Description: D.C. gunman attributed attack to frustrations with building maintenanceThe Washington Post One dead, at least 4 injured during active shooting near Logan CircleNBC4 Washington DC shooting suspect graduated from Joan C. Edwards School of Medicine at MUWSAZ Who…
+
+
+### SHOOTING on 2026-11-13 04:04
+- Location: New York Post
+- Description: “An active shooting has been down the block from Mallard restaurant in DC, which is planning a foie gras dinner tonight,” read the organization’s shameless X post, which included a photograph of police cordoning off the road near the gym where Dr. Matt Lamber…
+
+
+### OTHER on 2026-11-13 03:58
+- Location: Bitcoinfoundation.org
+- Description: Tron and Tether launch the Digital Crime Task Force with Chainalysis to trace illicit USDT and coordinate asset freezes after their T3 alliance collapsed.
+The post Tron and Tether Launch Digital Crime Task Force With Chainalysis appeared first on Bitcoin Foun…
+
+
+### OTHER on 2026-11-13 03:58
 - Location: Dailymail.com
-- Description: Did you enjoy Back Care Awareness week? Were you all limbered up for World Menopause Day on October 18?
+- Description: The trend known as the 'door kick challenge' involves a person kicking a resident's front door and running away without getting caught.
 
-
-### HOMICIDE on 2026-11-12 23:01
-- Location: ABC News (AU)
-- Description: Beau Lamarre-Condon is continuing to answer questions after close to a week of cross-examination from the Crown.
-
-
-### SHOOTING on 2026-11-12 23:00
-- Location: Thegatewaypundit.com
-- Description: Police provided updates on the DC shooting on Thursday afternoon.
-The post Police Provide Updates on DC Shooting After Disgruntled Doctor Goes on Rampage at Gym (VIDEO) appeared first on The Gateway Pundit.
-
-
-### HOMICIDE on 2026-11-12 22:59
-- Location: Us Weekly
-- Description: Joran van der Sloot admitted to killing Natalee Holloway nearly two decades after he was first named a suspect in her disappearance. He is currently serving time on a U.S. federal extortion charge directly tied to her case, but has never been charged with her…
-
-
-### OTHER on 2026-11-12 22:58
-- Location: Activistpost.com
-- Description: “The Great Replacement” in Europe and in America All of us are limited in our time and concentration, and over the last couple of weeks I’ve been heavily focused on the Middle East tinderbox and other military conflicts. So although I’d heard something about …
-
-Analysis generated at: Fri Nov 13 23:09:50 UTC 2026
+Analysis generated at: Sat Nov 14 04:32:37 UTC 2026
