@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Nov 14 12:53:06 UTC 2026
+Last updated: Sat Nov 14 17:51:40 UTC 2026
 
 ## Latest Analysis
 
-Loaded 148924 incidents
-Date range: 2024-01-01 00:00:00 to 2026-11-13 12:50:56
+Loaded 149017 incidents
+Date range: 2024-01-01 00:00:00 to 2026-11-13 17:50:46
 
 Incidents by source:
 source
-newsapi           148823
+newsapi           148916
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-11-13 12:50
-- Location: Thoughtcatalog.com
-- Description: Milk cartons were thrown toward Joe Biden’s car as he left Trinity College Dublin on November 10, while pro-Palestinian protesters chanted “blood on your hands.” Protection officers raised umbrellas, and some were splashed.
+### HOMICIDE on 2026-11-13 17:50
+- Location: The Times of India
+- Description: Mumbai police upgraded charges to murder against 28-year-old Abhishek Karande after his mother died from head injuries in a Goregaon assault.
 
 
-### SHOOTING on 2026-11-13 12:50
-- Location: Haaretz
-- Description: Rahat Mayor told Haaretz he appealed to the police 'to provide personal security for residents,' adding that since the police took control of the situation, the shooting has almost ceased
+### OTHER on 2026-11-13 17:49
+- Location: Breitbart News
+- Description: Authorities Thursday revealed the cause of the perplexing accident involving a Kansas mom who fatally crashed her truck into a soccer game: the woman was taking a nap behind the wheel of her parked truck only to wake up inside a runaway vehicle and a real lif…
 
 
-### HOMICIDE on 2026-11-13 12:45
-- Location: Ibtimes.com.au
-- Description: A Washington doctor shot and killed his building manager at a gym, wounded four people from his penthouse and later died by suicide after a brief standoff, police said.
+### HOMICIDE on 2026-11-13 17:48
+- Location: Dailymail.com
+- Description: Alex Murdaugh argued that the murder indictments should be tossed because they the lead investigator lied to the grand jury about blood spatter evidence tying him to the murders.
 
 
-### ROBBERY/THEFT on 2026-11-13 12:40
-- Location: Fadeaway World
-- Description: Kyle Kuzma's personal belongings were stolen from his Bayside home.
+### OTHER on 2026-11-13 17:48
+- Location: Abcnews.com
+- Description: Judges at the International Criminal Court have ended the part of the global tribunal’s investigation into Afghanistan that could have involved U.S. military personnel
 
 
-### HOMICIDE on 2026-11-13 12:39
-- Location: Newser
-- Description: A jaywalking stop in Albuquerque that was being filmed for Cops ended with a 26-year-old man dead, newly released video shows. According to New Mexico State Police, an officer stopped two men on Oct. 3 for jaywalking when Izaeah Washington began walking away,…
+### OTHER on 2026-11-13 17:48
+- Location: Dailymail.com
+- Description: I am bewildered as to why Bake Off is still accommodating and feting the alleged comedian.
 
-Analysis generated at: Sat Nov 14 12:53:06 UTC 2026
+Analysis generated at: Sat Nov 14 17:51:40 UTC 2026
