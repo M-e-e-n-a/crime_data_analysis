@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Nov 14 05:45:08 UTC 2026
+Last updated: Sat Nov 14 12:53:06 UTC 2026
 
 ## Latest Analysis
 
-Loaded 148862 incidents
-Date range: 2024-01-01 00:00:00 to 2026-11-13 05:37:10
+Loaded 148924 incidents
+Date range: 2024-01-01 00:00:00 to 2026-11-13 12:50:56
 
 Incidents by source:
 source
-newsapi           148761
+newsapi           148823
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-11-13 05:37
-- Location: Bleeding Cool News
-- Description: While we've had a whole lot go down during the first two episodes of the second season of Paramount+ with Showtime and Showrunner Clyde Phillips's Michael C. Hall-starring Dexter: Resurrection, that moment in "Young Blood" when Dexter (Hall) and Dan Stevens' …
+### OTHER on 2026-11-13 12:50
+- Location: Thoughtcatalog.com
+- Description: Milk cartons were thrown toward Joe Biden’s car as he left Trinity College Dublin on November 10, while pro-Palestinian protesters chanted “blood on your hands.” Protection officers raised umbrellas, and some were splashed.
 
 
-### HOMICIDE on 2026-11-13 05:26
-- Location: The Times of India
-- Description: In Gujarat, a father reportedly killed his daughter after she refused to end her inter-caste relationship. Kaushalkumar Patel allegedly strangled his 21-year-old daughter Saniya with a dupatta in their kitchen. Initially, family members claimed Saniya died by…
+### SHOOTING on 2026-11-13 12:50
+- Location: Haaretz
+- Description: Rahat Mayor told Haaretz he appealed to the police 'to provide personal security for residents,' adding that since the police took control of the situation, the shooting has almost ceased
 
 
-### OTHER on 2026-11-13 05:02
-- Location: The Times of India
-- Description: The much-anticipated film 'John Doe', helmed by directors Madhumitha, has hit theaters to a wave of positive acclaim. Audiences have praised the impressive screenplay and standout performances, particularly Arjun Das in his gripping role as a dedicated police…
+### HOMICIDE on 2026-11-13 12:45
+- Location: Ibtimes.com.au
+- Description: A Washington doctor shot and killed his building manager at a gym, wounded four people from his penthouse and later died by suicide after a brief standoff, police said.
 
 
-### OTHER on 2026-11-13 05:00
-- Location: Biblegateway.com
-- Description: None
+### ROBBERY/THEFT on 2026-11-13 12:40
+- Location: Fadeaway World
+- Description: Kyle Kuzma's personal belongings were stolen from his Bayside home.
 
 
-### OTHER on 2026-11-13 05:00
-- Location: Americanthinker.com
-- Description: By Meda Parameswara ReddyDrawn honestly, this fish has bones that cut both ways.
+### HOMICIDE on 2026-11-13 12:39
+- Location: Newser
+- Description: A jaywalking stop in Albuquerque that was being filmed for Cops ended with a 26-year-old man dead, newly released video shows. According to New Mexico State Police, an officer stopped two men on Oct. 3 for jaywalking when Izaeah Washington began walking away,…
 
-Analysis generated at: Sat Nov 14 05:45:08 UTC 2026
+Analysis generated at: Sat Nov 14 12:53:06 UTC 2026
