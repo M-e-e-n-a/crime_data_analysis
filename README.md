@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sun Nov 15 05:43:18 UTC 2026
+Last updated: Sun Nov 15 13:19:14 UTC 2026
 
 ## Latest Analysis
 
-Loaded 149115 incidents
-Date range: 2024-01-01 00:00:00 to 2026-11-14 05:00:00
+Loaded 149153 incidents
+Date range: 2024-01-01 00:00:00 to 2026-11-14 13:02:24
 
 Incidents by source:
 source
-newsapi           149014
+newsapi           149052
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,28 +24,28 @@ ion.svg)
 
 ## Recent Incidents
 
-### ROBBERY/THEFT on 2026-11-14 05:00
-- Location: Americanthinker.com
-- Description: By Mike McDanielMoore has difficulty with the truth about his "exploits."
+### HOMICIDE on 2026-11-14 13:02
+- Location: BBC News
+- Description: Police say a 27-year-old man died after being stabbed in the "shocking and tragic attack" in Crumpsall.
 
 
-### OTHER on 2026-11-14 05:00
-- Location: Americanthinker.com
-- Description: By Andrea WidburgThe anti-free-speech, Sharia-compliant British establishment, a violent mob...and it’s (allegedly) John Cleese to the rescue.
+### OTHER on 2026-11-14 13:01
+- Location: Researchbuzz.me
+- Description: NEW RESOURCES The Planetary Society: New Planetary Society study finds that NASA’s cheapest science missions can’t replace larger ones. “[The Planetary Society’s new Science Mission Impact dashboard] tracks 143 NASA-led science missions […]
 
 
-### OTHER on 2026-11-14 05:00
-- Location: Americanthinker.com
-- Description: By Bob WeirAnd Democrats have worked overtime to destroy him. What might they do to you if you speak up?
+### HOMICIDE on 2026-11-14 13:00
+- Location: Fox News
+- Description: Previously unseen FBI sting video captures Joran van der Sloot's attempt to extort Beth Holloway for information about her daughter Natalee Holloway.
 
 
-### HOMICIDE on 2026-11-14 04:26
+### ROBBERY/THEFT on 2026-11-14 12:44
 - Location: The Times of India
-- Description: A woman was found dead in North Delhi’s Burari area after a violent incident. Pramod, a 36-year-old man, has been arrested in connection with the murder. The incident occurred on the night of November 7, starting when the woman was intoxicated. After a confro…
+- Description: Ranchi police deploy magistrates and personnel at 93 Chhath ghats; bike patrols on 15 vulnerable routes and increased patrolling in theft-prone areas.
 
 
-### OTHER on 2026-11-14 04:03
-- Location: Freerepublic.com
-- Description: Every great city keeps a toolbox for its worst days; the specialized units, the contingency plans, the trained professionals who step into chaos when ordinary resources fall short. In New York, a city that learned its hardest lessons in fire and ash, that too…
+### HOMICIDE on 2026-11-14 12:32
+- Location: Dailymail.com
+- Description: Alexei Sherstobitov, 59, known as 'Lyosha the Soldier', wed former Putin civil servant Yulia Gvozdetskaya, 48, in his high-security prison in Russia's Lipetsk region.
 
-Analysis generated at: Sun Nov 15 05:43:18 UTC 2026
+Analysis generated at: Sun Nov 15 13:19:14 UTC 2026
