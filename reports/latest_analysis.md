@@ -1,10 +1,10 @@
 
-Loaded 149111 incidents
-Date range: 2024-01-01 00:00:00 to 2026-11-14 04:03:48
+Loaded 149115 incidents
+Date range: 2024-01-01 00:00:00 to 2026-11-14 05:00:00
 
 Incidents by source:
 source
-newsapi           149010
+newsapi           149014
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -20,29 +20,28 @@ ion.svg)
 
 ## Recent Incidents
 
+### ROBBERY/THEFT on 2026-11-14 05:00
+- Location: Americanthinker.com
+- Description: By Mike McDanielMoore has difficulty with the truth about his "exploits."
+
+
+### OTHER on 2026-11-14 05:00
+- Location: Americanthinker.com
+- Description: By Andrea WidburgThe anti-free-speech, Sharia-compliant British establishment, a violent mob...and it’s (allegedly) John Cleese to the rescue.
+
+
+### OTHER on 2026-11-14 05:00
+- Location: Americanthinker.com
+- Description: By Bob WeirAnd Democrats have worked overtime to destroy him. What might they do to you if you speak up?
+
+
+### HOMICIDE on 2026-11-14 04:26
+- Location: The Times of India
+- Description: A woman was found dead in North Delhi’s Burari area after a violent incident. Pramod, a 36-year-old man, has been arrested in connection with the murder. The incident occurred on the night of November 7, starting when the woman was intoxicated. After a confro…
+
+
 ### OTHER on 2026-11-14 04:03
 - Location: Freerepublic.com
 - Description: Every great city keeps a toolbox for its worst days; the specialized units, the contingency plans, the trained professionals who step into chaos when ordinary resources fall short. In New York, a city that learned its hardest lessons in fire and ash, that too…
 
-
-### OTHER on 2026-11-14 04:01
-- Location: The Times of India
-- Description: Vinay Mohan Kwatra, India's Ambassador to the United States, criticized USCIRF for its comments on Sharjeel Imam. He stated the commission has no authority to judge Indian citizens' constitutional rights. Kwatra's remarks follow USCIRF's characterization of I…
-
-
-### OTHER on 2026-11-14 04:00
-- Location: CNA
-- Description: CNA’s 25-part micro-factual series, The Billion Dollar Wash, goes behind the scenes of Singapore’s S$3 billion money laundering scandal, gaining access to the investigation and tracing one man’s remarkable crime journey.
-
-
-### ROBBERY/THEFT on 2026-11-14 03:52
-- Location: PCMag.com
-- Description: GTA 6 brings Rockstar's take on Miami into the modern age, but returning to the franchise's roots in Grand Theft Auto: Vice City is still an illuminating and exciting experience in its own right.
-In just a few days, Grand Theft Auto 6 finally goes from a hypo…
-
-
-### OTHER on 2026-11-14 03:40
-- Location: The Times of India
-- Description: Microsoft 365 services, including Outlook, Teams and AI assistant Copilot, were interrupted. As the outage entered its second day Friday, Microsoft said it saw "encouraging recovery progress." But the company also warned that "intermittent access issues or de…
-
-Analysis generated at: Sun Nov 15 04:20:34 UTC 2026
+Analysis generated at: Sun Nov 15 05:43:18 UTC 2026
