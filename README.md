@@ -1,14 +1,14 @@
 # Crime Data Analysis
-Last updated: Sat Nov 14 21:55:47 UTC 2026
+Last updated: Sun Nov 15 04:20:34 UTC 2026
 
 ## Latest Analysis
 
-Loaded 149076 incidents
-Date range: 2024-01-01 00:00:00 to 2026-11-13 21:45:00
+Loaded 149111 incidents
+Date range: 2024-01-01 00:00:00 to 2026-11-14 04:03:48
 
 Incidents by source:
 source
-newsapi           148975
+newsapi           149010
 chicago_pd           100
 chicago_police         1
 Name: count, dtype: int64
@@ -24,29 +24,29 @@ ion.svg)
 
 ## Recent Incidents
 
-### OTHER on 2026-11-13 21:45
-- Location: LancasterOnline
-- Description: A man caused more than $150,000 in damage and more than $25,000 in lost rent by vandalizing and setting fire inside an East Lampeter Township building, part of an apparent crime spree, according to police.
+### OTHER on 2026-11-14 04:03
+- Location: Freerepublic.com
+- Description: Every great city keeps a toolbox for its worst days; the specialized units, the contingency plans, the trained professionals who step into chaos when ordinary resources fall short. In New York, a city that learned its hardest lessons in fire and ash, that too…
 
 
-### HOMICIDE on 2026-11-13 21:44
-- Location: New York Post
-- Description: Teodora Villalobos, 57, died after an out-of-control minivan driver barreled onto a sidewalk near the North Hollywood Metro station.
+### OTHER on 2026-11-14 04:01
+- Location: The Times of India
+- Description: Vinay Mohan Kwatra, India's Ambassador to the United States, criticized USCIRF for its comments on Sharjeel Imam. He stated the commission has no authority to judge Indian citizens' constitutional rights. Kwatra's remarks follow USCIRF's characterization of I…
 
 
-### HOMICIDE on 2026-11-13 21:33
-- Location: Dailymail.com
-- Description: Michael Pyke was sentenced to life imprisonment after murdering his wife of 50 years at their home in May.
+### OTHER on 2026-11-14 04:00
+- Location: CNA
+- Description: CNA’s 25-part micro-factual series, The Billion Dollar Wash, goes behind the scenes of Singapore’s S$3 billion money laundering scandal, gaining access to the investigation and tracing one man’s remarkable crime journey.
 
 
-### OTHER on 2026-11-13 21:30
-- Location: Breitbart News
-- Description: Police in Southern California are warning young people not to take part in a viral social media prank that involves kicking in residential doors and then fleeing on foot.
-The post VIDEOS: Police Warn Teens of Dangerous Consequences of Social Media’s ‘Door Kic…
+### ROBBERY/THEFT on 2026-11-14 03:52
+- Location: PCMag.com
+- Description: GTA 6 brings Rockstar's take on Miami into the modern age, but returning to the franchise's roots in Grand Theft Auto: Vice City is still an illuminating and exciting experience in its own right.
+In just a few days, Grand Theft Auto 6 finally goes from a hypo…
 
 
-### HOMICIDE on 2026-11-13 21:30
-- Location: Decider
-- Description: Tristan Ulloa, Verónica Sánchez, and Miguel Borines star in the limited series, which is based on a real-life case in 2015.
+### OTHER on 2026-11-14 03:40
+- Location: The Times of India
+- Description: Microsoft 365 services, including Outlook, Teams and AI assistant Copilot, were interrupted. As the outage entered its second day Friday, Microsoft said it saw "encouraging recovery progress." But the company also warned that "intermittent access issues or de…
 
-Analysis generated at: Sat Nov 14 21:55:47 UTC 2026
+Analysis generated at: Sun Nov 15 04:20:34 UTC 2026
